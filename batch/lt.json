@@ -1,0 +1,5 @@
+[
+ {"name":"Kęstutis Viselga / MikroTik Training Lietuva","country":"立陶宛","city":"Alytus","site":"mikrotik-training.lt","cert":"MTCNA+MTCRE+MTCWE+MTCTCE+MTCSE+MTCSWE","sku":"LT-S8328XGP-4XS24GT-S","prio":"★★★","contact":"+370 684 43770 / trainer@mikrotik-training.lt","note":"★★ 立陶宛 MikroTik 培训机构（mikrotik-training.lt）；6 证含 **MTCSWE（交换）**+ MTCTCE（流量控制）+ MTCSE（安全）+ MTCWE（无线）→ 他教什么，立陶宛的工程师就用什么"},
+ {"name":"Robertas Stauskas / Magit","country":"立陶宛","city":"Vilnius","site":"magit.lt","cert":"MTCNA+MTCRE","sku":"LT-S8328GP-4GX24GT-S","prio":"★★★","contact":"+370 674 47188 / robertas@magit.lt","note":"★ 服务项目第一条就是「**MikroTik router and switch configuration from scratch（从零配置路由器与交换机）**」；技能含 **VLANs、Bridges、Link Bonding（链路聚合）**、QoS/流量整形、防火墙加固、DDoS 防护、无线规划、网络审计与优化 → 接入层交换是他日常生意"},
+ {"name":"Dovydas Rimeisis","country":"立陶宛","city":"Vilnius","site":"atitic.eu","cert":"MTCNA+MTCRE","sku":"LT-S8328GP-4GX24GT-S","prio":"★★★","contact":"+370 623 74543 / dovydas.rimeisis@atitic.eu","note":"10+ 年 MikroTik 实操、15+ 年 IT 基础设施；做本地/混合/公有云融合的完整方案（网络+计算+云+安全协同），擅长 MikroTik 作为大架构一环的复杂环境"}
+]
