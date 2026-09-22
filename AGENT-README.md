@@ -47,7 +47,7 @@
 - [x] 修复评级缺陷 #6：10 行多国标签误判范围外，6 行 C→B — 2026-09-22
 - [x] 建 `Marvell生态获客方法论`（30 条分四梯队全保留）+ EOL 替换矩阵 — 2026-09-22
 - [x] 客户名单全量审计（合并重复、修正标签、标注跨国集团） — 2026-09-22
-- [x] A/B/C 三级评级（A=87 / B=484 / C=144，合计 715） — 2026-09-22
+- [x] A/B/C 三级评级（A=85 / B=484 / C=146，合计 715） — 2026-09-22
 - [x] 导出 `客户分级跟进表_2026-09.xlsx`（4 表，含待填反馈列） — 2026-09-22
 - [x] 生成 `profile/` 逐户档案 705 份 + 索引 — 2026-09-22
 - [x] 为 85 份 A 级档案补写**可直接发送的首触邮件** — 2026-09-22
@@ -561,6 +561,22 @@ Step 6: 向用户简要复述理解到的状态，等待确认后再操作
   - 第一次修 `in_scope()` 时**只加了函数、漏改调用点**，重跑后 0 变化 —— 靠 double check 才发现
   - 期间第四次环境重置（openpyxl + git 双双丢失），按 README 坑 1 预案恢复
 **审计状态**：✅ 8 项全量复核全绿（CSV / profile / 跟进表 / 主表 / 索引 / 去重 / A 级邮件）
+### 对话 17 — 2026-09-22
+**主题**：为 A 级中缺乏联系方式的 10 家客户挖具名联系人（发邮件前的准备）
+**产出**：10 家全部补齐联系方式，其中 8 家拿到**具名/私人邮箱**
+  - **Sarlin Oy Ab（芬兰）**：官网公开完整员工邮箱目录（格式 `firstname.lastname@sarlin.com`），
+    拿到 **Mikko Ylilammi（Head of Product Management, Automation & Digital）** —— 按方法论
+    「职位优先搜 Product Manager」的理想对象；另有 Niklas Kallberg（Head of Sales, Automation）
+  - **Franklin Empire（加拿大）**：François Béland（Sales Manager）、Michel Côté（Assistant Manager
+    Automation）；**注意邮箱域名是 feinc.com 而非 franklinempire.com**
+  - **Direktronik AB（瑞典）**：Fredrik Brunzell、Stefan Sandstrom（经 Softing 分销商名录）
+  - 其余：AA Jones（英国）、Industrial Solutions（加）、Efa Automazione（意）、J A Shomer（美）、
+    Aikom（意）、Alejandro Falà（意）
+**A 级 87 → 85**：挖到联系方式的同时查明了两家**实际体量**——
+  Franklin Empire 是**加拿大最大的独立电气分销商（575 人）**、Cir Toulouse **223 人且隶属 Renold
+  集团（20 个实体）**，按 C 级定义（大公司/大集团）**正确降为 C**。联系方式仍已入库，C ≠ 不联系。
+**遗留问题**：Industrial Solutions 的 bob@/amy@、J A Shomer 的 czaugg@ 系**按邮箱格式推测，未验证**
+**审计状态**：✅ 五方=715、评级一致、无重复、A 级邮件齐全
 
 ---
 
