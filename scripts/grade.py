@@ -31,7 +31,9 @@ WEAK = r'^MTCNA(\+MTCRE)?(\+MTCWE)?(\+MTCUME)?(\+MTCIPv6E)?$'
 
 HARD_TYPE = r'大分销|Master\+VAD|自有品牌|品牌（竞品）|竞品|台厂|工控二手'
 HARD_NOTE = (r'Fortune|财富 ?500|上市|全国性|市政|IBEX35|集团|'
-             r'全球最大|北美领先|全国性 ISP|NS ?万|100 ?万|8000|1M|'
+             # 规模数字：必须排除前接数字，否则会命中型号片段（IGS-801M、EX-9911M）
+             # 或电话号码片段（+44 1449 888000）—— 后者曾把 LinITX 压在 C 级
+             r'全球最大|北美领先|全国性 ISP|NS ?万|100 ?万|(?<![\d.])8000|(?<![\d.])1M\b|'
              # 规模信号：多分部、跨州/跨国覆盖、自称大型/最大/领先
              r'大型|最大|领先|\d+ ?\+ ?州|\d+ ?个分部|覆盖 \d+|跨国|'
              r'官方分销之一|one of the largest|leading|nationwide|'
@@ -52,6 +54,24 @@ OUT_OF_SCOPE = {
     "阿根廷", "厄瓜多尔", "秘鲁", "伊拉克", "多米尼加", "墨西哥", "埃及",
     "南非", "香港", "印尼", "马来西亚", "新加坡", "巴基斯坦",
 }
+
+
+TAIWAN_LABELS = {"台湾", "台灣", "Taiwan", "TW", "中国台湾"}
+
+
+def is_taiwan_vendor(country, typ, name):
+    """True only for the Taiwan vendor itself, never for its distributors.
+
+    Decided from the row's own 国家/类型 fields. The 备注 column is
+    deliberately not consulted: it records what an account *sells*, so a
+    British or Greek PLANET distributor carries the word 台厂 while being
+    exactly the kind of company we want to develop.
+    """
+    if country.strip() in TAIWAN_LABELS:
+        return True
+    if re.search(r'台厂|台湾', typ):
+        return True
+    return False
 
 
 def in_scope(country):
@@ -109,7 +129,12 @@ def main():
             hard_reasons.append("备注含「%s」" % m.group(0))
         if not in_scope(country):
             hard_reasons.append("区域外（%s），不在欧洲+美加范围内" % country)
-        if re.search(r'台湾|台厂', blob):
+        # A row is a Taiwan vendor only by its OWN identity. Never read this
+        # out of the notes: notes describe what the account sells, so a UK
+        # PLANET distributor legitimately carries "台厂 PLANET" in its 备注 -
+        # matching that here marks the distributor as the Taiwan vendor and
+        # buries it in C. Same self-read-back class as the 切入点/【待补】/→ bugs.
+        if is_taiwan_vendor(country, typ, name):
             hard_reasons.append("台厂本体，非客户，仅作信号源")
         hard = bool(hard_reasons)
 

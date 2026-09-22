@@ -20,7 +20,7 @@
 | 网站 | wesco.com |
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus + Ewon |
-| 原备注 | ★ 北美最大电气分销之一（原 Anixter）；目录里 9 个分部：NC Charlotte·Raleigh / SC Greenville / VA Chesapeake·Midlothian·Lynchburg·Norfolk·Roanoke·Hampton；⚠️ 中国产地不能做 TAA/NDAA 政府/电力项目，只谈商业渠道 |
+| 原备注 | ★ 北美最大电气分销之一（原 Anixter）；目录里 9 个分部：NC Charlotte·Raleigh / SC Greenville / VA Chesapeake·Midlothian·Lynchburg·Norfolk·Roanoke·Hampton；⚠️ 中国产地不能做 TAA/NDAA 政府/电力项目，只谈商业渠道；【2026-09-22 补】PLANET（台厂工业/商用交换机）授权分销渠道。 |
 
 ## 三、人员与联系方式
 
@@ -34,9 +34,7 @@
 
 ## 五、跟进策略
 
-集团 / 大公司，决策链长、采购集中。
-
-**切口**：先问清是国别决策还是集团统一采购；**找品类经理，不要找 CPO**。
+属竞品或台厂，**不作为客户开发**，只作价格与功能情报来源（台厂是信号源，不是客户）。
 
 ## 六、注意点
 
