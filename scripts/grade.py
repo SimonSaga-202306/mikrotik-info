@@ -39,6 +39,33 @@ HARD_NOTE = (r'Fortune|财富 ?500|上市|全国性|市政|IBEX35|集团|'
              r'大分销|老牌|巨头|electrical distribution')
 
 
+# Countries confirmed outside the target region (Europe + US/Canada).
+#
+# Deliberately an EXCLUSION list rather than an inclusion list: the 国家
+# column holds multi-country labels ("瑞典/丹麦", "荷兰/比利时/法国") that
+# an exact-match inclusion test can never match, which is how those ten
+# rows - several of them the highest-value pan-European groups - came to be
+# stamped 范围外 and nailed to grade C. Listing only the labels we know are
+# out keeps every correct judgement intact and fixes only the slash rows.
+OUT_OF_SCOPE = {
+    "中国（在欧销售）", "巴西", "澳大利亚", "智利", "日本", "泰国", "越南",
+    "阿根廷", "厄瓜多尔", "秘鲁", "伊拉克", "多米尼加", "墨西哥", "埃及",
+    "南非", "香港", "印尼", "马来西亚", "新加坡", "巴基斯坦",
+}
+
+
+def in_scope(country):
+    """True if the row is in the target region.
+
+    Splits multi-country labels on "/" so "瑞典/丹麦" counts as in-scope.
+    A row is out of scope only when EVERY part is out of scope.
+    """
+    parts = [p.strip() for p in re.split(r"[/、,，]", country) if p.strip()]
+    if not parts:
+        return True          # unknown country: don't silently bury the row
+    return any(p not in OUT_OF_SCOPE for p in parts)
+
+
 def direct_contact(s):
     """A named person's own address or a mobile number beats a generic inbox."""
     if not s:
@@ -74,12 +101,24 @@ def main():
         strong = [label for key, label in hits
                   if key in ("MTCSWE", "SWITCH", "POE", "HOTEL",
                              "INDUSTRIAL", "MULTICAST", "FIBRE")]
-        hard = (re.search(HARD_TYPE, typ) or re.search(HARD_NOTE, blob)
-                or "范围外" in note or re.search(r'台湾|台厂', blob))
+        hard_reasons = []
+        if re.search(HARD_TYPE, typ):
+            hard_reasons.append("类型属大盘/自有品牌（%s）" % typ)
+        m = re.search(HARD_NOTE, blob)
+        if m:
+            hard_reasons.append("备注含「%s」" % m.group(0))
+        if not in_scope(country):
+            hard_reasons.append("区域外（%s），不在欧洲+美加范围内" % country)
+        if re.search(r'台湾|台厂', blob):
+            hard_reasons.append("台厂本体，非客户，仅作信号源")
+        hard = bool(hard_reasons)
 
         # grade -------------------------------------------------------
         if hard:
-            grade, why = "C", "集团/大公司/自有品牌/竞品/范围外，决策链长或存在品牌冲突"
+            # report only the reasons that actually fired; a generic label
+            # listing every possible cause is how "范围外" ended up attached
+            # to Dutch and Swedish rows
+            grade, why = "C", "；".join(hard_reasons) + "，决策链长或存在品牌冲突"
         elif prio in ("✕", "观察"):
             grade, why = "C", "竞品或观察对象，不作为客户开发"
         elif "【待补】" in note:
