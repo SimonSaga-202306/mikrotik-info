@@ -289,7 +289,10 @@ def main():
             cur = code[0]
             idx_lines.append("## %s 级（%d 家）" % (cur, sum(1 for m in made if m[0][0] == cur)))
             idx_lines.append("")
-        idx_lines.append("- [`%s`](%s)　%s · %s" % (code, fname, name, country))
+        # wrap the destination in <...>: company names contain parentheses
+        # (e.g. "TME (Transfer Multisort Elektronik)"), and a bare
+        # [x](file (a).md) link terminates at the first ")" -> broken link.
+        idx_lines.append("- [`%s`](<%s>)　%s · %s" % (code, fname, name, country))
     idx_lines.append("")
     open(os.path.join(DIR, "00-索引.md"), "w", encoding="utf-8").write("\n".join(idx_lines))
 
