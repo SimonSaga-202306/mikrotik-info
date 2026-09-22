@@ -72,7 +72,32 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：Ring convergence + -40 to 75C switches
+
+```text
+Hi George,
+
+I do industrial access switches — DIN rail, wide temperature, ERPS ring — which matches the environments you work in.
+
+What caught my eye is that you work on controls, running and network.
+
+Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power input, ERPS ring under 20 ms, PoE++ for cameras and APs on the same unit.
+
+What ring protocol are you on today, and what convergence do you actually see?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

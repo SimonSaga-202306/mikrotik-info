@@ -76,7 +76,32 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：Access layer cost per port
+
+```text
+Hi Lorenzo,
+
+I do access switches for WISPs and small ISPs, where the number that matters is cost per subscriber port.
+
+What caught my eye is that you work on WISP.
+
+Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation, broadcast suppression, SNMP that drops into whatever NMS you already run.
+
+How many subscribers per access switch, and what uplink ratio are you designing to?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

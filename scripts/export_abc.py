@@ -8,7 +8,7 @@ import csv, re, sys, os
 from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from strategy import PLAY, NEED_PAT, ORDER  # noqa: E402
+from strategy import PLAY, NEED_PAT, ORDER, scenarios  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
 OUT = "客户分级跟进表_2026-09.xlsx"
@@ -23,11 +23,6 @@ SCEN_LABEL = {
     "SWITCH": "交换专长", "MTCSWE": "MTCSWE 交换认证", "ISP": "ISP/骨干",
     "INFLUENCE": "影响力/渠道",
 }
-
-
-def scenarios(blob):
-    hits = [k for k, pat in NEED_PAT if re.search(pat, blob)]
-    return [k for k in ORDER if k in hits]
 
 
 def main():

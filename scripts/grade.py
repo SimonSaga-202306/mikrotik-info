@@ -17,10 +17,10 @@ NEED = {
     "MTCSWE":      (r'MTCSWE',                              "交换认证 MTCSWE"),
     "SWITCH":      (r'交换|Switching|switch|交换机|CRSDL2|L2 ', "交换专长"),
     # 「监控」歧义：只认明确写「视频监控 / CCTV / 摄像头」，避免把网络监控(NMS)误判成 PoE 需求
-    "POE":         (r'PoE|POE|CCTV|视频监控|摄像头|门禁|报警|对讲|Dante', "PoE/监控/门禁"),
+    "POE":         (r'PoE|POE|CCTV|视频监控|摄像头|门禁|报警|对讲', "PoE/监控/门禁"),
     "HOTEL":       (r'酒店|Hospitality|hospitality|多住户|MDU|公寓|强制门户|Captive', "酒店/多住户"),
     "INDUSTRIAL":  (r'工业|IT/OT|IT-OT|BMS|楼宇自控|电网|制造|仓库|农业|能源', "工业/楼宇"),
-    "MULTICAST":   (r'组播|Multicast|multicast|IPTV|PIM-SM',   "组播/IPTV"),
+    "MULTICAST":   (r'组播|Multicast|multicast|IPTV|PIM-SM|Dante|Audinate', "组播/IPTV"),
     "FIBRE":       (r'FTTH|GPON|光纤|Glasfaser|FTTC|xDSL|DOCSIS', "光纤接入"),
     "ISP":         (r'WISP|ISP|运营商|骨干|backbone|BGP',        "ISP/骨干"),
     "CAMPUS":      (r'校园|学区|教育|学校|学院|Campus',            "校园/教育"),
@@ -65,6 +65,9 @@ def main():
         typ, signal, sku, contact, prio, note = r[4], r[5], r[8], r[9], r[10], r[16]
         # 切入角度(r[7])是我们要说的话，不是客户的信号，不能用来判断客户需求
         blob = " ".join([name, typ, signal, note])
+        blob = re.sub(r'【[^】]*】', ' ', blob)
+        blob = re.sub(r'→[^；。]*', ' ', blob)
+        blob = re.sub(r'[★☆]+', ' ', blob)
 
         hits = [(key, label) for key, (pat, label) in NEED.items() if re.search(pat, blob)]
         needs = [label for _, label in hits]

@@ -66,7 +66,32 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：Sample unit for your training lab
+
+```text
+Hi Jody,
+
+You teach and design on MikroTik, so you are the person whose opinion actually reaches buyers. I would rather you test the hardware than hear a pitch.
+
+What caught my eye is that you work on Cisco, CCIE and MikroTik.
+
+Where we may be useful: Managed access switching in both commercial and DIN-rail industrial forms, full CLI/SSH/SNMP, and documentation you can teach from.
+
+Would a sample unit and the full CLI / MIB documentation be useful in your lab?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

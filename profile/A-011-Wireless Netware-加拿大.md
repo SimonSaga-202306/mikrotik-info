@@ -65,7 +65,32 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：L3 hardware offload + QinQ on access switching
+
+```text
+Hi Wireless,
+
+You work in switching, so I will skip the introduction: the interesting part is L3 hardware offload and QinQ at access-layer pricing.
+
+What caught my eye is that you work on switching, L3, CAPsMAN and SwitchOS.
+
+Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+
+What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

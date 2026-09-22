@@ -7,7 +7,7 @@
 ## 一、评级与结论
 
 - **评级**：A　重点，且好跟进（有具体对接人、决策链短）
-- **评级依据**：有明确交换/供电需求（交换专长、光纤接入），且有具体人直联
+- **评级依据**：有明确交换/供电需求（光纤接入），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
 ## 二、公司概览
@@ -71,7 +71,32 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：Per-subscriber isolation on your FTTH build
+
+```text
+Hi Dinko,
+
+I build access switches for FTTH and fixed wireless — per-subscriber isolation and uplink aggregation are the whole job.
+
+What caught my eye is that you work on FTTH.
+
+Where we may be useful: 4×10G SFP+ uplink, QinQ per subscriber, port isolation, broadcast storm control, IGMP for IPTV.
+
+How are you isolating subscribers now — QinQ per user, or something simpler?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XG-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

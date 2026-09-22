@@ -7,7 +7,7 @@
 ## 一、评级与结论
 
 - **评级**：A　重点，且好跟进（有具体对接人、决策链短）
-- **评级依据**：有明确交换/供电需求（交换专长、PoE/监控/门禁、酒店/多住户），且有具体人直联
+- **评级依据**：有明确交换/供电需求（交换专长、酒店/多住户），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
 ## 二、公司概览
@@ -39,7 +39,7 @@
 
 ## 五、跟进策略
 
-**场景判断**：PoE / 监控 / 门禁
+**场景判断**：酒店 / 多住户
 
 ### 推什么型号
 
@@ -49,15 +49,15 @@
 
 ### 核心卖点
 
-802.3bt 单口 90W、**PoE 看门狗（摄像头死机自动断电重启，省一趟上门）**、250m 延长供电、端口隔离、整机功率预算足
+客房 VLAN 隔离、端口隔离（防客人私接路由器）、PoE 同时供 AP / IPTV 机顶盒 / IP 话机、组播 IPTV 不卡
 
 ### 怎么开发
 
-替他算一笔账：24 个 4K 头全开要多少瓦、满配后还剩多少余量——这是每个做监控的人都踩过的坑，算清楚就赢一半
+问「一间客房下几根线？AP 怎么供电？IPTV 走不走组播？」——酒店是多期项目，一期做进去后面几期跟着走
 
 ### 风险点
 
-**PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
+酒店项目周期长且受装修进度牵制，别押季度指标；采购决定权常在弱电总包而非业主，要找到总包；客房网络出问题客人直接投诉，稳定性零容忍
 
 ## 六、注意点
 
@@ -70,7 +70,32 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：PoE + VLAN per room — question on your hotel jobs
+
+```text
+Hi Apostolas,
+
+I build PoE access switches for hotel and multi-dwelling networks, which is where you seem to spend most of your time.
+
+What caught my eye is that you work on switching, VLAN and CAPsMAN.
+
+Where we may be useful: 24 gigabit PoE++ ports (APs, IP phones and IPTV boxes on one cable), per-room VLAN isolation, port isolation to stop guests plugging in their own router, IGMP snooping for the TV.
+
+How many drops per room, and is your IPTV running on multicast?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

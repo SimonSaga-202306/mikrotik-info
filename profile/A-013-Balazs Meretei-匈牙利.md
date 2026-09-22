@@ -7,7 +7,7 @@
 ## 一、评级与结论
 
 - **评级**：A　重点，且好跟进（有具体对接人、决策链短）
-- **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、PoE/监控/门禁），且有具体人直联
+- **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁、组播/IPTV），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
 ## 二、公司概览
@@ -42,25 +42,25 @@
 
 ## 五、跟进策略
 
-**场景判断**：PoE / 监控 / 门禁
+**场景判断**：组播 / IPTV
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**LT-S8328GP-4GX24GT-S（组播能力完整 + PoE 供电）**
 
 > 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
-802.3bt 单口 90W、**PoE 看门狗（摄像头死机自动断电重启，省一趟上门）**、250m 延长供电、端口隔离、整机功率预算足
+IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）、**QoS/DSCP 优先级队列**（Dante 音频 over IP 与 IPTV 都靠它不丢包不抖动）
 
 ### 怎么开发
 
-替他算一笔账：24 个 4K 头全开要多少瓦、满配后还剩多少余量——这是每个做监控的人都踩过的坑，算清楚就赢一半
+开口就问「IPTV 卡不卡？是不是组播没配好，全楼在泛洪？」；若是 Dante / 音频 over IP 场景，改问「音频有没有出现过断续或丢包？」——Dante 对组播和 QoS 极敏感，说中就是内行
 
 ### 风险点
 
-**PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
+组播出问题是满屏花屏，客户零容忍；必须先小规模（一个楼层）验证再铺开；要确认他的组播源和播放器兼容性
 
 ## 六、注意点
 
@@ -73,7 +73,32 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：IGMP / multicast behaviour on your IPTV builds
+
+```text
+Hi Balazs,
+
+Multicast is where most IPTV and camera builds quietly fall over, and it is the part I specialise in on the access switch.
+
+What caught my eye is that you work on IPTV, IGMP, WISP, FTTH, DOCSIS, ETTH, VLAN and RADIUS.
+
+Where we may be useful: IGMP snooping v2/v3, a querier so the VLAN stops flooding, multicast VLAN, fast leave, and DSCP/QoS queues — the things that decide whether IPTV is watchable and whether Dante audio drops out.
+
+Are you running IGMP snooping plus a querier, or still flooding the VLAN?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -9,7 +9,7 @@ import csv, os, re, sys
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from strategy import PLAY, NEED_PAT, ORDER  # noqa: E402
+from strategy import PLAY, NEED_PAT, ORDER, scenarios  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
 DIR = "profile"
@@ -67,11 +67,6 @@ def phones(text):
         if sum(c.isdigit() for c in m) >= 7:
             out.append(re.sub(r'\s+', ' ', m))
     return out
-
-
-def scenarios(blob):
-    hits = [k for k, pat in NEED_PAT if re.search(pat, blob)]
-    return [k for k in ORDER if k in hits]
 
 
 def main():
@@ -247,8 +242,24 @@ def main():
             w("- 🔗 **同集团**：%s — 别两边同时报价，先问清决策层级。" % siblings[name])
         w("")
 
-        # 7 log
-        w("## 七、跟进记录")
+        # 7 first-contact email (A tier only — these are the ones being worked now)
+        if grade == "A":
+            from emails import build
+            subject, body = build(name, person, country, city, key, sku, note)
+            w("## 七、首触邮件（可直接发送）")
+            w("")
+            w("**主题**：%s" % subject)
+            w("")
+            w("```text")
+            w(body)
+            w("```")
+            w("")
+            w("> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；"
+              "③ 落款换成你自己的名字与公司；④ 一次只问一个问题。")
+            w("")
+
+        # 8 log
+        w("## %s、跟进记录" % ("八" if grade == "A" else "七"))
         w("")
         w("| 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |")
         w("|---|---|---|---|---|")

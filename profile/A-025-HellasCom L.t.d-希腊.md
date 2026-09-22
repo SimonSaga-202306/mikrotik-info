@@ -44,11 +44,11 @@
 
 ### 核心卖点
 
-IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）、静态组播组绑定
+IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）、**QoS/DSCP 优先级队列**（Dante 音频 over IP 与 IPTV 都靠它不丢包不抖动）
 
 ### 怎么开发
 
-开口就问「IPTV 卡不卡？是不是组播没配好，全楼在泛洪？」——这是他们真实的痛，说中了就有得聊
+开口就问「IPTV 卡不卡？是不是组播没配好，全楼在泛洪？」；若是 Dante / 音频 over IP 场景，改问「音频有没有出现过断续或丢包？」——Dante 对组播和 QoS 极敏感，说中就是内行
 
 ### 风险点
 
@@ -65,7 +65,32 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 5. 样机先送测，再谈价格。
 
 
-## 七、跟进记录
+## 七、首触邮件（可直接发送）
+
+**主题**：IGMP / multicast behaviour on your IPTV builds
+
+```text
+Hi HellasCom,
+
+Multicast is where most IPTV and camera builds quietly fall over, and it is the part I specialise in on the access switch.
+
+What caught my eye is that you work on IPTV, RADIUS, KNX, marine, VoIP, The Dude, CAPsMAN and Netinstall.
+
+Where we may be useful: IGMP snooping v2/v3, a querier so the VLAN stops flooding, multicast VLAN, fast leave, and DSCP/QoS queues — the things that decide whether IPTV is watchable and whether Dante audio drops out.
+
+Are you running IGMP snooping plus a querier, or still flooding the VLAN?
+
+If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+
+Either way, no follow-up sequence from me.
+
+Best,
+[your name]
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
+
+## 八、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -24,8 +24,8 @@ PLAY = {
         "酒店项目周期长且受装修进度牵制，别押季度指标；采购决定权常在弱电总包而非业主，要找到总包；客房网络出问题客人直接投诉，稳定性零容忍"),
     "MULTICAST": (
         "LT-S8328GP-4GX24GT-S（组播能力完整 + PoE 供电）",
-        "IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）、静态组播组绑定",
-        "开口就问「IPTV 卡不卡？是不是组播没配好，全楼在泛洪？」——这是他们真实的痛，说中了就有得聊",
+        "IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）、**QoS/DSCP 优先级队列**（Dante 音频 over IP 与 IPTV 都靠它不丢包不抖动）",
+        "开口就问「IPTV 卡不卡？是不是组播没配好，全楼在泛洪？」；若是 Dante / 音频 over IP 场景，改问「音频有没有出现过断续或丢包？」——Dante 对组播和 QoS 极敏感，说中就是内行",
         "组播出问题是满屏花屏，客户零容忍；必须先小规模（一个楼层）验证再铺开；要确认他的组播源和播放器兼容性"),
     "SWITCH": (
         "LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）",
@@ -63,22 +63,47 @@ NEED_PAT = [
     ("MTCSWE",     r'MTCSWE'),
     ("SWITCH",     r'交换专长|Switching|switch|交换机|CRSDL2|L2 过滤器|Link Bonding|链路聚合|生成树|RSTP|MSTP'),
     # 「监控」在中文里既指视频监控也指网络监控(NMS)，只认明确的视频监控写法
-    ("POE",        r'CCTV|视频监控|摄像头|门禁|access control|报警|对讲|Dante|PoE|POE'),
+    ("POE",        r'CCTV|视频监控|摄像头|门禁|access control|报警|对讲|PoE|POE'),
     ("HOTEL",      r'酒店|Hospitality|hospitality|多住户|MDU|Multi-Dwelling|公寓|强制门户|Captive'),
     ("INDUSTRIAL", r'工业|IT/OT|IT-OT|BMS|楼宇自控|电网|制造|仓库|农业|能源|KNX|Marine|船用'),
-    ("MULTICAST",  r'组播|Multicast|multicast|IPTV|PIM-SM'),
+    ("MULTICAST",  r'组播|Multicast|multicast|IPTV|PIM-SM|Dante|Audinate'),
     ("FIBRE",      r'FTTH|GPON|光纤|Glasfaser|FTTC|xDSL|DOCSIS|ETTH'),
     ("CAMPUS",     r'校园|学区|教育|学校|学院|Campus'),
     ("ISP",        r'WISP|ISP|运营商|骨干|backbone|BGP|POP'),
     ("INFLUENCE",  r'讲师|培训|学院|Academy|academy|培训中心|大会|MUM|产品经理|售前|开源|自研软件'),
 ]
 # 场景优先级：越具体越靠前
-ORDER = ["POE", "HOTEL", "MULTICAST", "INDUSTRIAL", "CAMPUS", "FIBRE", "SWITCH", "ISP", "MTCSWE", "INFLUENCE"]
+# 组播排在 PoE 之前：同时命中两者时，组播才是决定方案成败的那一项（Dante 音频、
+# IPTV、监控组播都是如此），PoE 只是常见供电需求，谁都能满足
+ORDER = ["MULTICAST", "POE", "HOTEL", "INDUSTRIAL", "CAMPUS", "FIBRE", "SWITCH", "ISP", "MTCSWE", "INFLUENCE"]
 LABEL = dict((k, k) for k in ORDER)
 
 
+def clean(text):
+    """Strip our own annotations so it is never read back as a customer signal.
+
+    Everything after an arrow is our inference. Bracketed tags and star
+    markers are ours too. Leaving them in caused real mis-grading: a note
+    reading "酒店多站点 = PoE 接入交换机批量需求" was scored as though
+    the customer had asked for PoE.
+    """
+    text = re.sub(r'【[^】]*】', ' ', text)
+    text = re.sub(r'→[^；。\n]*', ' ', text)
+    text = re.sub(r'[★☆]+', ' ', text)
+    return text
+
+
 def scenarios(blob):
-    return [k for k, pat in NEED_PAT if re.search(pat, blob)]
+    """Single source of truth for scenario detection.
+
+    Cleans our own annotations out first, then returns matches in ORDER
+    priority. Every script must import this rather than rolling its own,
+    because duplicates silently drifted apart and graded the same account
+    three different ways.
+    """
+    blob = clean(blob)
+    hits = [k for k, pat in NEED_PAT if re.search(pat, blob)]
+    return [k for k in ORDER if k in hits]
 
 
 def main():
