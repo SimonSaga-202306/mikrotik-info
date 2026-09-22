@@ -69,10 +69,51 @@ def phones(text):
     return out
 
 
+FILLED_RE = re.compile(r'^\|\s*\d{4}-\d{2}-\d{2}\s*\|', re.M)
+
+
+def _clear_stale_dossiers():
+    """Remove old dossiers before regenerating.
+
+    Dossier filenames embed a sequence number that shifts whenever rows are
+    added or regraded, so without this a single new account leaves behind
+    dozens of orphaned copies of the same company (e.g. B-468 and B-470 both
+    being RIDMONT D.O.O).
+
+    SAFETY: refuse to delete anything if a dossier's 跟进记录 table already
+    holds hand-entered rows (a dated row written by the user after outreach).
+    Those notes are not reproducible from the CSV and must be preserved.
+    """
+    if not os.path.isdir(DIR):
+        return
+    stale = [f for f in os.listdir(DIR) if f.endswith(".md") and f != "00-索引.md"]
+    if not stale:
+        return
+    guarded = []
+    for f in stale:
+        try:
+            txt = open(os.path.join(DIR, f), encoding="utf-8").read()
+        except OSError:
+            continue
+        if FILLED_RE.search(txt):
+            guarded.append(f)
+    if guarded:
+        raise SystemExit(
+            "❌ 拒绝重建 profile/：以下档案的「跟进记录」已填入手工内容，\n"
+            "   删除会丢失不可再生的信息。请先手工备份或确认后处理：\n   "
+            + "\n   ".join(guarded[:20])
+            + ("\n   ..." if len(guarded) > 20 else "")
+        )
+    for f in stale:
+        os.remove(os.path.join(DIR, f))
+    print("cleared %d stale dossiers from %s/" % (len(stale), DIR))
+
+
 def main():
     rows = list(csv.reader(open(CSV, encoding="utf-8-sig")))
     hdr, data = rows[0], rows[1:]
     os.makedirs(DIR, exist_ok=True)
+    _clear_stale_dossiers()
 
     # pull sibling links out of the notes written by the audit pass
     siblings = {}

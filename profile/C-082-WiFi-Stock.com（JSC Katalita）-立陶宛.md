@@ -20,7 +20,7 @@
 | 网站 | wifi-stock.com |
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
-| 原备注 | Kaunas 【关联】同集团另一实体：Wifi Stock (UK) Ltd（wifi-stock.co.uk） |
+| 原备注 | Kaunas 【关联】同集团另一实体：Wifi Stock (UK) Ltd（wifi-stock.co.uk）；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。 |
 
 ## 三、人员与联系方式
 

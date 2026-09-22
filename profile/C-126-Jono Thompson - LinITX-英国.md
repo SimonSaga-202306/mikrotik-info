@@ -20,7 +20,7 @@
 | 网站 | linitx.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE+MTCSWE+MTCEWE |
-| 原备注 | LinITX 是英国 MikroTik Master Distributor + VAD + 认证培训中心，公司内有 3 位认证顾问：Jono Thompson（training@linitx.com，7 证含 MTCSWE，交换/VLAN/CAPsMAN/流量管理）；Joel Blakey（MikroTik@LinITX.com，技术销售工程师，有线无线设计与无线勘测）；Luke Cuddehay（shop@linitx.com，技术销售工程师）。同一电话 +44 1449 888000 |
+| 原备注 | LinITX 是英国 MikroTik Master Distributor + VAD + 认证培训中心，公司内有 3 位认证顾问：Jono Thompson（training@linitx.com，7 证含 MTCSWE，交换/VLAN/CAPsMAN/流量管理）；Joel Blakey（MikroTik@LinITX.com，技术销售工程师，有线无线设计与无线勘测）；Luke Cuddehay（shop@linitx.com，技术销售工程师）。同一电话 +44 1449 888000；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。 |
 
 ## 三、人员与联系方式
 
