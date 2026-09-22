@@ -62,7 +62,8 @@ PLAY = {
 NEED_PAT = [
     ("MTCSWE",     r'MTCSWE'),
     ("SWITCH",     r'交换专长|Switching|switch|交换机|CRSDL2|L2 过滤器|Link Bonding|链路聚合|生成树|RSTP|MSTP'),
-    ("POE",        r'CCTV|视频监控|监控|门禁|access control|报警|对讲|Dante|摄像头|PoE'),
+    # 「监控」在中文里既指视频监控也指网络监控(NMS)，只认明确的视频监控写法
+    ("POE",        r'CCTV|视频监控|摄像头|门禁|access control|报警|对讲|Dante|PoE|POE'),
     ("HOTEL",      r'酒店|Hospitality|hospitality|多住户|MDU|Multi-Dwelling|公寓|强制门户|Captive'),
     ("INDUSTRIAL", r'工业|IT/OT|IT-OT|BMS|楼宇自控|电网|制造|仓库|农业|能源|KNX|Marine|船用'),
     ("MULTICAST",  r'组播|Multicast|multicast|IPTV|PIM-SM'),
