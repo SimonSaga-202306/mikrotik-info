@@ -1,0 +1,447 @@
+# AGENT-README.md
+
+> **用途**：本文件是 AI Agent 的"对话状态快照"，用于在会话中断、刷新或切换新对话时，让新 Agent 无缝衔接上下文。
+> **维护规则**：每次对话结束或阶段性完成后，必须更新本文件。新对话开始时，Agent 必须首先读取本文件。
+> **配套文件**：`AGENT-CONSTITUTION.md`（v2.0，含第八条深度审计协议）
+
+---
+
+## 📌 项目概览
+
+| 字段 | 内容 |
+|------|------|
+| 项目名称 | SmartByte 交换机出海客户开发（MikroTik 生态反向信号挖掘） |
+| 仓库路径 | `/home/user/mikrotik-info`（GitHub: SimonSaga-202306/mikrotik-info） |
+| 当前主分支 | `main` |
+| 工作分支 | `arena/01a0c3ef-mikrotik-info` —— **本会话固定分支，禁止切换到其他分支** |
+| 最后更新时间 | 2026-09-22 |
+| 最后更新由 | 对话轮次：导入 Agent 宪法 v2.0 + 深度审计 + 补全上下文记录 |
+
+---
+
+## 🎯 项目目标
+
+用户是**中国大陆的小型交换机贸易商（Saga / Saga Telecom）**，转售 SmartByte（深圳三旺/台系方案）的商用 L2+ 与工业交换机，目标市场是**欧洲 + 美国/加拿大**。
+
+本项目通过**逆向挖掘 MikroTik 生态**（官方分销商名录 + 官方认证顾问名录 + HMS/ORing/Antaira/Westermo/ComNet 渠道名录），找出"已经在卖 MikroTik、但缺工业/PoE++/ERPS 产品线"的海外分销商与集成商，形成可直接触达的客户名单，并逐户制定开发策略。
+
+**核心逻辑**：MikroTik 长于路由、短于交换（尤其工业交换机与 PoE++），其渠道商普遍存在产品线缺口 —— 这个缺口就是 SmartByte 的入口。
+
+---
+
+## 🗺️ 当前任务状态
+
+### 正在进行的任务
+
+```
+任务：等待用户对 A 级 85 家客户的实地触达反馈
+状态：待用户输入（阻塞于用户侧，非技术阻塞）
+阻塞原因：用户明确表示"ABC先就这样 我先跟进一轮再说 有反馈了会告诉你"
+下一步：收到用户反馈后 —— ① 更新对应 profile/ 档案的「跟进记录」段落
+                        ② 按实际回应重新评级（有意向→提级，无回应→降 B，有自有品牌→转 C）
+```
+
+### 已完成的任务（最近 8 条）
+
+- [x] MikroTik 官方**顾问名录**全欧洲 + 美加扫描完毕（207 位顾问，0 遗漏） — 2026-09-22
+- [x] 客户名单全量审计（合并重复、修正标签、标注跨国集团） — 2026-09-22
+- [x] A/B/C 三级评级（A=85 / B=468 / C=152） — 2026-09-22
+- [x] 导出 `客户分级跟进表_2026-09.xlsx`（4 表，含待填反馈列） — 2026-09-22
+- [x] 生成 `profile/` 逐户档案 705 份 + 索引 — 2026-09-22
+- [x] 为 85 份 A 级档案补写**可直接发送的首触邮件** — 2026-09-22
+- [x] 修复场景判断的三处"自我回读"Bug（详见已知问题） — 2026-09-22
+- [x] 导入 Agent 宪法 v2.0 并完成首轮深度审计 — 2026-09-22
+
+### 待办任务（按优先级）
+
+- [ ] 🔴 高优：**等待并录入用户触达反馈**，据此重评级并更新 profile
+- [ ] 🔴 高优：**修复本地 git 状态**（本地 HEAD 回退到 `dcc1ec1`，远程 `7255573` 完好）—— **需用户确认后执行 reset**
+- [ ] 🟡 中优：补写 `三家首发邮件与反向信号客户名单_2026-09.md` 的 **Part H**（HMS 欧洲 + 美国 + 顾问名录总结，一直未写）
+- [ ] 🟡 中优：为 B 级 468 家按场景分组，给每组通用打法（用户已暂缓）
+- [ ] 🟡 中优：为 C 级 152 家写"怎么啃大公司"打法（用户已暂缓）
+- [ ] 🟢 低优：重切 ★★★ 优先级（当前 63% 是三星，等于没有三星）
+- [ ] 🟢 低优：补全 365 行缺失城市、63 行缺失网站
+
+---
+
+## 🌿 分支全景图
+
+```
+main
+└── arena/01a0c3ef-mikrotik-info   ← 当前唯一工作分支
+     远程最新：7255573（70 commits）
+     本地最新：dcc1ec1（1 commit）  ⚠️ 环境重置导致回退，工作区文件完好
+```
+
+**⚠️ 当前 git 状态异常（第三次环境重置）**
+
+| 项 | 实测值 |
+|---|---|
+| 本地 HEAD | `dcc1ec1`（基线，1 commit） |
+| 远程 `origin/arena/01a0c3ef-mikrotik-info` | `7255573`，**70 commits** |
+| `git status` | 全部文件显示为未跟踪 `??` |
+| 工作区实际内容 | **完好**：CSV 705 行、profile/ 706 文件、根目录 32 项 |
+| `git stash list` | 空 |
+
+**结论：无数据丢失，全部历史在远程分支上。**
+**恢复方法（需用户确认后方可执行）**：
+```bash
+pip install openpyxl --break-system-packages   # 重置会清掉已装包
+git reset --soft origin/arena/01a0c3ef-mikrotik-info   # 保留工作区与索引
+```
+
+**关键 Commit 记录（最近 12 条）**
+
+| Commit | 说明 |
+|--------|------|
+| `7255573` | Add a ready-to-send first contact mail to each A dossier |
+| `775045d` | Add a per-customer dossier under profile/, one file each |
+| `27fe4c5` | Export the graded list as a working workbook |
+| `cbdf4d4` | Grade the list A/B/C and write per-account strategy for A tier |
+| `fc14295` | Add the audit report for the reverse-signal list |
+| `85e743c` | Audit fixes: merge duplicates, normalise labels, cross-reference groups |
+| `c74a92d` | Final countries: North Macedonia, Kosovo, Montenegro, Malta, Moldova |
+| `be293dc` | US consultants: 19 people across 15 companies |
+| `f41e24a` | Canadian consultants: 15, including a CCIE and a national ISP veteran |
+| `dd51b0a` | Italian consultants: 21 people across 19 companies |
+| `775d1c3` | France and Spain consultants, plus a reusable batch import script |
+| `24283e3` | Sweep USA (27) and Canada (7): 396 accounts total |
+
+---
+
+## 🏗️ 架构 & 关键文件
+
+```
+/home/user/mikrotik-info/
+├── AGENT-CONSTITUTION.md          # Agent 宪法 v2.0（含第八条深度审计协议）
+├── AGENT-README.md                # 本文件，上下文快照
+│
+├── 客户名单_反向信号_2026-09.csv    # ★ 主数据源，705 行 × 19 列
+├── MikroTik_vs_SmartByte_替代对照表.xlsx  # 主工作簿，16 表（反向信号名单 705 行）
+├── 客户分级跟进表_2026-09.xlsx      # ★ A/B/C 分级工作表，4 表
+├── 名单审核报告_2026-09.md          # 全量审计结论
+├── A级客户跟进策略_2026-09.md        # 85 家 A 级逐户策略
+│
+├── profile/                        # ★ 705 份逐户档案 + 00-索引.md
+│     └── A-001-xxx-国家.md … C-152-xxx-国家.md
+│
+├── scripts/                        # 数据管道
+│     ├── add_batch.py              #   JSON 批次导入 CSV + 重建 xlsx
+│     ├── audit_groups.py           #   查疑似同集团/同名
+│     ├── fix_audit.py              #   审计修复（合并重复、标签归一、关联标注）
+│     ├── grade.py                  # ★ A/B/C 评级
+│     ├── strategy.py               # ★ 场景检测单一实现 + 打法库（PLAY/SPECS）
+│     ├── export_abc.py             #   导出分级工作簿
+│     ├── make_profiles.py          #   生成 profile/ 档案
+│     └── emails.py                 # ★ 首触邮件生成（英文）
+│
+├── batch/*.json                    # 19 个国家批次的原始数据
+│
+└── （根目录其他交付物，均为前期 markdown 分析文档与价目表）
+     重点客户深度分析与中性货打法_2026-09.md
+     MikroTik客户切入深度分析_2026-09.md
+     报价反击表_2026-09.md
+     A类客户12家作战卡和开发信_2026-09.md
+     三家首发邮件与反向信号客户名单_2026-09.md   ← Part H 未写
+     Marvell阵营品牌全景和验证手册_2026-09.md
+     MikroTik出口地分析和区域切入优先级_2026-09.md
+     Saga客户开发长期作战系统_2026-09.md
+     OEM合规包和标准合同模板_2026-09.md
+     MikroTik认证及价格抓取.py
+     SmartByte 各系列价目表 xlsx（managed / industrial / unmanaged / bypass）
+     Saga Feature List_7.5.x_L2+.xlsx、_L3.xlsx
+     Marvell Based CLI Manual.docx、Web Manual.docx
+```
+
+**重要约定**
+
+- 编码：CSV 为 **UTF-8-BOM**（Excel 直接打开不乱码）；所有 Python 读写均需 `encoding="utf-8-sig"`
+- 环境：**每次环境重置后必须重装** `pip install openpyxl --break-system-packages`
+- CSV 列序（19 列，新增列只能追加，不得插入）：
+  `公司名/国家/城市/网站/类型/信号/是否自有品牌/切入角度/首推型号/联系方式/优先级/状态/来源/首次触达日/最后互动日/下次跟进日/备注/评级/评级依据`
+- 去重键：归一化公司名 **或** 网站主域名 —— **同域名会静默丢弃第二人，必须逐条核对 skipped 列表**
+- 场景优先级 `ORDER`（`scripts/strategy.py`）：
+  `MULTICAST > POE > HOTEL > INDUSTRIAL > CAMPUS > FIBRE > SWITCH > ISP > MTCSWE > INFLUENCE`
+
+---
+
+## 🧠 关键决策 & 背景知识
+
+### 用户身份与硬约束（由用户明确提出，违反即为错误）
+
+- **决策**：用户是**小型贸易商**，预算必须极小 → 不追求大客户、不投广告，靠低成本精准触达
+- **决策**：**台系厂商不是客户，只是信号源** → 台湾公司不开发，只用其渠道脉络做情报
+- **决策**：**出货完全中性** → 包装/外观/说明书不出现 "Made in China"，贴客户自己的型号
+- **决策**：**知名自有品牌分销商难攻** → 放弃"正面突破大分销"路线，改走补位与技术切入
+- **决策**：**目标区域只有欧洲 + 美加**（用户原话："其他的不要了"）→ 其他区域一律标"范围外"
+- **决策**：**先把客户名单挖完，再进下一步**（用户重复两次："搞完客户list再进行下一步" / "不要搞其他 就是一直挖"）
+- **否决**：早期交付物中的"OEM 合规包 + 标准合同模板"已被用户否决，改为"重点账号深度分析"
+
+### 评级口径（用户定义）
+
+- **A = 重点 且 好跟进**：有明确需求信号 + 有具体对接人 + 决策链短
+- **B = 慢慢跟**：信号待验证，或只做路由/Hotspot（交换需求弱）
+- **C = 难啃**：大公司 / 大集团 / 自有品牌 / 竞品 / 区域外
+
+### 已踩过的坑（按严重度）
+
+**🔴 坑 1：环境重置会同时清掉 git 历史与已装包（已发生 3 次）**
+- 现象：`ModuleNotFoundError: openpyxl` + `git status` 全量 `??` + `git rev-list --count HEAD` 掉回 1
+- 误判风险：**不能靠 CSV 行数判断历史是否完好**，必须用 `git rev-list --count HEAD`
+- 解决：`pip install openpyxl --break-system-packages` + `git reset --soft origin/arena/01a0c3ef-mikrotik-info`
+- 注意：`reset` 属破坏性操作，按宪法第二条须先取得用户确认
+
+**🔴 坑 2：去重会静默吞掉真实的人**
+- 已发生：FMS Web（3 人同域名）、Krystof Klima / WIFIPROFI、Benito Stijger / DAEL、Stefan Andersen / Pumait、Hani Rahrouh / Wireless Netware、Joel Blakey + Luke Cuddehay / LinITX
+- 其中 **IP ArchiTechs 的英国 Samson Kamwendo 与美国 Thomas Murdock 是同一家公司**（跨 3 国 3 位顾问）
+- 规则：**每批导入后必须打印 skipped 列表并逐条人工核对**，不假设 skip 就是真重复
+
+**🔴 坑 3：我们自己的批注被当成客户信号回读（同一 Bug 的三种外衣）**
+- (a) `切入角度` 列是我们写的模板话术（"卖 MikroTik 但缺工业/ERPS/PoE++"），曾导致 **246 家分销商全部误判为 A 级**
+- (b) 备注里 `【待补】…建议先查证是否已有工业交换机 / PoE++ 产品线` 这句**本身含"工业""PoE"**，把空壳行推上 A 级
+- (c) 备注里 `→` 之后是**我们的推论**（如 Carlos Otin 的"→ PoE 接入交换机批量需求"），被当成客户说过的话
+- 解决：`scripts/strategy.py` 的 `clean()` 剥掉 `【…】`、`→…`、`★`；评级时整体排除 `切入角度` 列；`【待补】` 行一律降 B
+
+**🔴 坑 4：三份 `scenarios()` 实现各自漂移**
+- `make_profiles.py` / `export_abc.py` / `strategy.py` 各写一份，只有 strategy 那份做了清洗
+- 后果：**同一客户用不同脚本跑会得出不同场景结论**，且验证脚本与生成器结果不一致（Carlos Otin 反复在 PoE 与酒店之间跳变）
+- 解决：删除全部副本，`strategy.scenarios()` 为唯一实现，其余脚本 import
+
+**🟡 坑 5：中文「监控」有歧义**
+- 既指**视频监控**（CCTV，真 PoE 需求）也指**网络监控**（NMS，无 PoE 需求）
+- 曾把一批 NMS 集成商（K2O Services、Martin Pina、Vadym Klymenko）误判为摄像头客户
+- 解决：POE 规则只认 `视频监控 / CCTV / 摄像头 / 门禁 / 报警 / 对讲`
+
+**🟡 坑 6：Dante 被误归为 PoE**
+- Dante（Audinate）是专业音频 over IP，核心诉求是**组播与 QoS**，不是供电
+- 曾把 Michael Jezierski（IndyCar 赛车转播）判成 PoE 场景
+- 解决：Dante 移入 MULTICAST；并将 ORDER 改为 **MULTICAST 优先于 POE**（组播是决定成败项，PoE 是常见项）
+
+**🟡 坑 7：MikroTik 顾问名录分页不可信**
+- `totalChunks` 不是卡片数；法国结果在 chunk 0，拉脱维亚在 chunk 1，捷克 chunk 1 已含页脚
+- 规则：以 `### Become a Consultant` 页脚作为列表结束标志；**小国必须同时看 chunk 0 与 chunk 1**
+
+**🟡 坑 8：代码级小错**
+- `ws[1].cell(...)` → `AttributeError`，须写 `ws.cell(row=1, column=i)`
+- 国家字段含斜杠（"克罗地亚/斯洛文尼亚"）→ 文件名变路径 → `FileNotFoundError`，须对 country 也做 `safe()`
+- `PLAY` 缺 `MTCSWE` 键 → `KeyError`
+
+### 绕过方案（Workaround）
+
+- **描述**：`git reset --soft origin/...` 作为环境重置后的恢复手段
+- **临时原因**：沙箱会周期性丢失 git 历史与 pip 包，远端是唯一持久真相
+- **后续清理**：每次重置后第一步先跑 `git rev-list --count HEAD` 校验，再决定是否需要恢复
+
+---
+
+## 📦 关键实体索引（审计锚点，防止后期丢失）
+
+### 主推 SmartByte 型号（5 个，按场景分配）
+
+| 型号 | 主用场景 |
+|---|---|
+| `LT-S8328GP-4GX24GT-S` | PoE/监控/门禁、酒店/MDU、组播/IPTV、校园（24×千兆 PoE++ + 4×万兆上行） |
+| `LT-S8328XGP-4XS24GT-S` | 交换专长、MTCSWE（24×千兆 PoE + 4×万兆，三层硬件卸载） |
+| `LT-IS6312XGP-4XS8GT` | 工业/楼宇（导轨、宽温 -40~75℃、ERPS） |
+| `LT-S8328XG-4XS24GT-S` | 光纤接入/FTTH、ISP 骨干 |
+| `LT-S8328G-4XS24GT-S` | 通用接入、需求待摸底时的默认项 |
+
+### 9 个跨国集团（16 行，最容易重复打电话）
+
+| 集团 | 覆盖 | 备注 |
+|---|---|---|
+| **Senetic** | 德/波/英/法/意/瑞/瑞典（**7 国 7 行**） | 最大一组，必须先问清国别还是集团采购 |
+| **OEM Automatic** | 波/瑞/捷（3 行） | 工业自动化分销 |
+| **RBT Technologies** | 斯洛文尼亚/塞尔维亚/克罗地亚（3 行） | 巴尔干三国实体 |
+| **Rexel** | 法/意/美（3 行） | 全球电气分销巨头 |
+| **LaboTest** | 瑞典+丹麦 / 芬兰（2 行） | |
+| **ALIDEX** | 意大利 / 西班牙+葡萄牙（2 行） | |
+| **ISP Supplies** | 美国 / 加拿大（2 行） | 同属 MBSI WAV |
+| **Tempel Group** | 葡萄牙 / 西班牙（2 行） | |
+| **WiFi-Stock** | 英国 / 立陶宛 JSC Katalita（2 行） | |
+
+### 高价值个体账号（已在 A 级，值得单独记住）
+
+- **Jody Lemoine / Tishco Networks**（加拿大）—— **同时持 Cisco CCIE 41436 与 MikroTik 讲师**，能直接读芯片规格
+- **Michael Jezierski**（美国，`@indycar.com`）—— IndyCar 赛事方，赛车转播 + **Dante 音频 over IP** + IP 视频组播
+- **Carlos Otin / Hotelinking**（西班牙马略卡）—— 酒店 + 多站点 + GPON，曾任被误判为 PoE（坑 3c 的典型）
+- **Andrew Drozd / Iron Sentinel**（乌克兰）—— 视频监控 + 报警 + 门禁，真 PoE 刚需
+- **Balazs Meretei**（匈牙利）—— MTCSWE，大规模组播（IPTV + 视频监控）
+- **Ryszard Labus / SINUX**（波兰）—— BMS / 工业 / 楼宇自动化
+- **Urbino Lobo / MiniMeLabs**（葡萄牙马德拉）—— 酒店 + 多住户 MDU + 强制门户，手上有外场工程师数据库
+- **Bernhard Kröll / Giganet**（奥地利）—— **23 年** MikroTik 经验 + MTCSWE
+- **Sasa Blagojevic**（塞尔维亚）—— 交换专长段落与 IP ArchiTechs / LinkTechs **逐字相同**，属同一技术体系
+- **Dennis Burgess / Link Technologies**（美国）—— 北美最大 MikroTik 工程公司之一，交换专长含 EVPN/VXLAN、400G 矩阵
+- **Thomas Murdock / IP ArchiTechs**（美国）—— 3 国办公室、6 大洲项目、财富 500 强客户
+- **Fibercli**（西班牙）—— 全球最大 MikroTik 工程团队之一，自有培训中心 lo0.es，客户含 IBEX35
+- **Veaceslav Samburschii / Academia MikroTik**（罗马尼亚）—— 经营本国 MikroTik 学院
+- **Aris Vink / SDC**（荷兰）—— VAD 总代内部售前顾问，即"品类经理"入口
+- **Michal Stepanek / 100MEGA i4wifi**（捷克）—— 大分销的**产品经理**，办 mtpc.world 大会
+
+### MikroTik 认证体系（10 张证，用于判断交换需求强弱）
+
+| 证 | 含义 | 对交换需求的指示 |
+|---|---|---|
+| `MTCNA` | 网络助理（入门） | 无指示 |
+| `MTCRE` | 路由 | 弱 |
+| `MTCWE` | 无线 | 弱 |
+| `MTCTCE` | 流量控制 | 弱 |
+| `MTCUME` | 用户管理（Hotspot/PPPoE） | **弱**——这是为什么只持 MTCUME 的顾问归 B 级 |
+| `MTCINE` | ISP 互联 | 中 |
+| `MTCIPv6E` | IPv6 | 无指示 |
+| `MTCSE` | 安全 | 弱 |
+| `MTCSWE` | **交换** | **强**——持证人交换是正式专长，A 级核心信号 |
+| `MTCEWE` | 企业无线 | 弱 |
+
+### `profile/` 档案结构（未来 Agent 修改前必读）
+
+文件名：`评级-序号-公司名-国家.md`，例 `A-078-Carlos Otin - Hotelinking-西班牙.md`
+（国家字段含斜杠的会被替换，如"克罗地亚/斯洛文尼亚"→"克罗地亚-斯洛文尼亚"）
+
+| 段 | A 级 | B/C 级 | 内容 |
+|---|---|---|---|
+| 一 | ✅ | ✅ | 评级与结论（评级、评级依据、下次复核） |
+| 二 | ✅ | ✅ | 公司概览表（公司名/国家/城市/网站/类型/信号/原备注） |
+| 三 | ✅ | ✅ | 人员与联系方式（对接人、邮箱、电话、备注中的其他邮箱） |
+| 四 | ✅ | ✅ | 品牌与技术栈（持有认证逐条释义、涉及品牌） |
+| 五 | ✅ | ✅ | 跟进策略（场景/型号/卖点/怎么开发/风险点；C 级改为"难在哪+切口"） |
+| 六 | ✅ | ✅ | 注意点（通用红线 + 本客户特有的 TAA/NDAA、同集团关联） |
+| **七** | **首触邮件（可直接发送，英文）** | 跟进记录 | **A 级专属**：主题行 + 正文 + 发送前检查清单 |
+| 八 | 跟进记录 | — | 空表格：日期/方式/我方动作/对方回应/下一步 |
+
+> **用户要求**：收到触达反馈后，**由 Agent 更新对应档案的「跟进记录」段并重评级**。
+> 反馈录入位置 = 最后一段的空表格；重评级 = 改 `scripts/grade.py` 后重跑，或手工改 CSV 的「评级」列再跑 `export_abc.py` + `make_profiles.py`。
+
+> ⚠️ `make_profiles.py` 会**整目录重建** profile/。手工改过档案的话，重跑前先确认改动来源已写回 CSV/batch，否则会被覆盖。
+
+### batch/ 数据批次（19 个 JSON，顾问名录逐国原始数据）
+
+| 文件 | 国家 | 文件 | 国家 |
+|---|---|---|---|
+| `at_ch.json` | 奥地利+瑞士 | `it.json` | 意大利 |
+| `balkan.json` | 克罗地亚+塞尔维亚+保加利亚 | `last.json` | 北马其顿+科索沃+黑山+马耳他+摩尔多瓦 |
+| `be_pt_ie.json` | 比利时+葡萄牙+爱尔兰 | `lt.json` | 立陶宛 |
+| `ca.json` | 加拿大 | `lv.json` | 拉脱维亚 |
+| `dk.json` | 丹麦 | `ro.json` | 罗马尼亚 |
+| `ee.json` | 爱沙尼亚 | `se.json` | 瑞典 |
+| `es.json` | 西班牙 | `sk_ba_al.json` | 斯洛伐克+波黑+阿尔巴尼亚 |
+| `fi.json` | 芬兰 | `us.json` | 美国 |
+| `fr.json` | 法国 | `hu.json` | 匈牙利 |
+| `gr.json` | 希腊 | | |
+
+> 用途：CSV 已入库，这些是**原始抓取记录**，用于日后核对或重跑。改动 CSV 前先查对应 batch 文件。
+
+---
+
+## 💬 对话历史摘要
+
+### 对话 1 — 2026-09-21
+**主题**：项目启动，MikroTik 客户切入分析 + SmartByte 替代对照表
+**产出**：`MikroTik客户切入深度分析_2026-09.md`、`MikroTik_vs_SmartByte_替代对照表.xlsx`、出口地分析（Comtrade 数据）
+**遗留问题**：无
+
+### 对话 2 — 2026-09-21
+**主题**：Marvell 阵营品牌全景 + 客户开发长期作战系统
+**产出**：`Marvell阵营品牌全景和验证手册_2026-09.md`、`Saga客户开发长期作战系统_2026-09.md`
+**遗留问题**：无
+
+### 对话 3 — 2026-09-22（上午）
+**主题**：A 类客户作战卡 + OEM 合规包 + 合同模板
+**产出**：`A类客户12家作战卡和开发信_2026-09.md`、`OEM合规包和标准合同模板_2026-09.md`
+**遗留问题**：用户随后**否决**了 OEM 合规包与合同模板路线
+
+### 对话 4 — 2026-09-22
+**主题**：用户四项纠偏（小贸易商 / 台厂非客户 / 中性出货 / 大分销难攻）+ 转向重点账号深度分析
+**产出**：`三家首发邮件与反向信号客户名单_2026-09.md`（Part A–G）、`报价反击表_2026-09.md`
+**遗留问题**：Part H 至今未写
+
+### 对话 5–7 — 2026-09-22
+**主题**：名录挖掘，客户数 44 → 132 → 216 → 362 → 395
+**产出**：ORing / Antaira / Westermo / ComNet / HMS 渠道名录 + MikroTik 官方分销商名录（欧洲 + 美加）
+**遗留问题**：无
+
+### 对话 8 — 2026-09-22（主体）
+**主题**：HMS 欧洲 + 美国扫完；开启 MikroTik **顾问名录**，逐国扫描至 705 家
+**产出**：207 位顾问（德 9 / 波 15 / 捷 5 / 乌 9 / 英 13 / 荷 14 / 法 2 / 西 23 / 意 21 / 匈 6 / 罗 5 / 丹 3 / 瑞 4 / 挪 0 / 芬 1 / 爱 2 / 拉 1 / 立 3 / 美 19 / 加 15 / 希 20 / 奥 4 / 瑞 2 / 比 1 / 葡 5 / 爱 2 / 克 2 / 塞 4 / 斯 0 / 保 3 / 波 1 / 阿 3 / 斯 2 / 北 1 / 科 1 / 黑 1 / 马 1 / 冰 0 / 摩 3）
+**产出**：三大发现 —— ① **Link Technologies**（Master+VAD 总代 + 北美最大 MikroTik 工程公司 + 自营网店）② **Hellascom**（希腊第一家 MikroTik 分销商 2001 + 培训中心 2011）③ **Jody Lemoine / Tishco**（同时持 Cisco CCIE 41436 与 MikroTik 讲师）
+**遗留问题**：无
+
+### 对话 9 — 2026-09-22
+**主题**：名单全量审计 + 修复
+**产出**：`名单审核报告_2026-09.md`；合并 2 处真重复；`澳洲`→`澳大利亚`；9 个跨国集团 16 行互标；35 行"无依据三星"标注为待补；43 行区域外标记
+**遗留问题**：365 行缺城市、63 行缺网站、三星占比 63% 未重切
+
+### 对话 10 — 2026-09-22
+**主题**：A/B/C 评级 + 逐户策略
+**产出**：`scripts/grade.py`、`A级客户跟进策略_2026-09.md`
+**关键过程**：评级从 302 → 146 → 113 → 99 → 96 → **88 → 85**，每次下降都是抓出一个"自我回读"或"大公司漏判"
+**遗留问题**：用户确认"ABC先就这样"
+
+### 对话 11 — 2026-09-22
+**主题**：导出分级 xlsx + 生成 profile/ 逐户档案
+**产出**：`客户分级跟进表_2026-09.xlsx`、`scripts/export_abc.py`、`scripts/make_profiles.py`、profile/ 705 份
+**关键过程**：再抓两个 Bug —— 中文"监控"歧义、"→"推论被回读
+**遗留问题**：无
+
+### 对话 12 — 2026-09-22
+**主题**：为 85 份 A 级档案补写**可直接发送的首触邮件**
+**产出**：`scripts/emails.py`；三处修复（监控歧义、Dante 归类、三份 scenarios 合并为一份）
+**关键过程**：修复后 4 家酒店客户归位（酒店 2→6），组播专家不再被当 PoE 买家
+**遗留问题**：等用户触达反馈
+
+### 对话 13 — 2026-09-22（本轮）
+**主题**：导入 Agent 宪法 v2.0，执行第八条深度审计，生成本文件
+**产出**：`AGENT-CONSTITUTION.md`、`AGENT-README.md`、首轮深度审计报告
+**遗留问题**：git 本地状态待恢复（需用户确认）
+
+---
+
+## ⚠️ 当前已知问题
+
+| 问题描述 | 严重程度 | 状态 |
+|----------|----------|------|
+| 本地 git 历史回退到 `dcc1ec1`（第三次环境重置），远程 `7255573` 完好 | 🔴高 | 待用户确认后执行 `reset --soft` |
+| `三家首发邮件与反向信号客户名单_2026-09.md` 的 **Part H 未写** | 🟡中 | 待补 |
+| ★★★ 占 63%（444/705），三星失去区分度 | 🟡中 | 已标注 35 行为"待补"，整体重切待用户指令 |
+| 365 行缺城市、63 行缺网站 | 🟢低 | 已知，待补 |
+| 705 行状态全部为"未触达" | 🟢低 | 等用户开始触达 |
+| 同域名去重会静默丢弃第二联系人 | 🟡中 | 已加"打印 skipped 并核对"规则；历史遗漏已通过备注合并补救 |
+| PR #1 处于 open 状态 | 🟢低 | 未合并，不影响工作 |
+
+---
+
+## 🔍 深度审计记录
+
+| 对话轮次 | 预估信息点 | 已记录 | 待确认 | 审计方法是否全部执行 |
+|---------|-----------|--------|--------|---------------------|
+| 对话 13（本轮） | 约 62 项 | 约 58 项 | 4 项 | ✅ 全部执行 |
+
+---
+
+## 🤖 给新 Agent 的交接指令
+
+```
+Step 1: 读取本文件，理解全部上下文
+Step 2: 执行 git status / git branch -a / git log --oneline -10
+Step 3: ★ 额外必做：git rev-list --count HEAD，若为 1 说明环境已重置，
+        先 pip install openpyxl --break-system-packages，
+        再【向用户申请确认】后执行 git reset --soft origin/arena/01a0c3ef-mikrotik-info
+Step 4: 读取"正在进行的任务"，确认下一步行动
+Step 5: 检查"深度审计记录"表，若上一轮标注 ⚠️ 部分，优先补齐
+Step 6: 向用户简要复述理解到的状态，等待确认后再操作
+```
+
+**禁止行为**
+
+- ❌ 不得在未读取本文件前执行任何 git 操作
+- ❌ 不得假设分支内容，必须实际读取文件确认
+- ❌ 不得在用户确认前自行决定修改方向
+- ❌ 不得覆盖用户已有的本地修改
+- ❌ 不得跳过第八条深度审计协议直接标记"已更新"
+- ❌ **不得切换到 `arena/01a0c3ef-mikrotik-info` 以外的分支**
+- ❌ **不得在客户名单"挖完"之前启动分组/策略/下一步工作**（用户已重复强调两次）
+- ❌ **不得把台湾厂商当客户开发**
+
+---
+
+*本文件由 Agent 自动维护，最后一次人工校验：2026-09-22*
