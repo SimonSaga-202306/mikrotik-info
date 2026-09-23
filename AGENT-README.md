@@ -47,7 +47,7 @@
 - [x] 修复评级缺陷 #6：10 行多国标签误判范围外，6 行 C→B — 2026-09-22
 - [x] 建 `Marvell生态获客方法论`（30 条分四梯队全保留）+ EOL 替换矩阵 — 2026-09-22
 - [x] 客户名单全量审计（合并重复、修正标签、标注跨国集团） — 2026-09-22
-- [x] A/B/C 三级评级（A=85 / B=484 / C=146，合计 715） — 2026-09-22
+- [x] A/B/C 三级评级（A=86 / B=487 / C=148，合计 721） — 2026-09-22
 - [x] 导出 `客户分级跟进表_2026-09.xlsx`（4 表，含待填反馈列） — 2026-09-22
 - [x] 生成 `profile/` 逐户档案 705 份 + 索引 — 2026-09-22
 - [x] 为 85 份 A 级档案补写**可直接发送的首触邮件** — 2026-09-22
@@ -577,7 +577,32 @@ Step 6: 向用户简要复述理解到的状态，等待确认后再操作
   集团（20 个实体）**，按 C 级定义（大公司/大集团）**正确降为 C**。联系方式仍已入库，C ≠ 不联系。
 **遗留问题**：Industrial Solutions 的 bob@/amy@、J A Shomer 的 czaugg@ 系**按邮箱格式推测，未验证**
 **审计状态**：✅ 五方=715、评级一致、无重复、A 级邮件齐全
+### 对话 18 — 2026-09-23
+**主题**：挖 Moxa（台厂）的欧洲/北美经销商网络 —— 方法论里标记的最大未开采缝隙
+**产出**：新增 6 家 + 存量 3 家追加 Moxa 信号，**715 → 721**
+  - 新：Sphinx Italia、Jampel（意大利）、Hatteland Technology（挪威，NO/SE/FI 三国网店）、
+    Santa Clara Systems、Controller Service and Sales（美国）、Amplicon（英国）
+  - 存量追加信号：**Westbase Networks（英国）= Netonix 官方 + Moxa 欧洲分销 + 产品线含
+    MikroTik**，三重信号叠加，是当前最直接的工业线切入点；另 Sphinx France、AiRiCOM（B→A）
+  - **Jampel** 自称 2012 年起为 Moxa 欧洲销售额第一的分销商，持 Moxa MTSC 认证资质
+**待用户裁决的两条 C**：Sphinx Italia、Amplicon（英国）判 C，原因是**我在备注里写的「集团」二字**
+  触发了 HARD_NOTE。前者确属 Sphinx 集团（法/意），后者只是我加的**去重提示**（与已存在的
+  Amplicon Middle East 区分），属疑似误伤。未擅自修改——同 #7 类问题，等用户定夺。
+**⚠️ 第 5 次环境重置（本次会话内）**：仓库被重克隆回初始提交 dcc1ec1，77 个本地提交全丢，
+  工作区文件完好但全部显示为未跟踪（`??`）。恢复见「环境重置恢复配方」。
 
 ---
 
-*本文件由 Agent 自动维护，最后一次人工校验：2026-09-22*
+## 环境重置恢复配方（已用 5 次，每次都有效）
+```bash
+git config --add remote.origin.fetch '+refs/heads/arena/*:refs/remotes/origin/arena/*'
+git fetch origin arena/01a0c3ef-mikrotik-info
+git reset FETCH_HEAD              # 必须是 mixed，--soft 不够
+git symbolic-ref HEAD refs/heads/arena/01a0c3ef-mikrotik-info
+git config core.quotepath false   # 否则中文路径变八进制
+pip install openpyxl --break-system-packages
+```
+**坑**：`reset --soft` 只移动 HEAD、**不动索引**，会导致索引与工作区错位（同一文件既显示 `D`
+又显示 `??` 的双份假象）。必须用 **mixed**（`git reset` 默认模式）。
+
+*本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
