@@ -46,14 +46,17 @@
 <a id="B-006"></a>
 ## B-006 · Thomas Fossing / CloudPilot · 丹麦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-98`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：cloudpilot.dk
 - 精确同名同国别首次入库提交：`7852cae45de685cd3995af3191ecbeeeac94ec34`。
 - 本地原始批次：`batch/dk.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[17]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：tcf@cloudpilot.dk；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为面向无专职IT部门中小企业的IT平台/托管与选型类服务（CloudPilot.dk ApS，Alsikemarken 46, 2860 Søborg；CVR 25706404；info@cloudpilot.dk；+45 3966-4525） → 无交换机产品线或采购证据，保持B（需求未证）；CSV具名联系人tcf@保留。未发送邮件、未提交表单。 证据：[1](https://cloudpilot.dk/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-006
+  - 保留原文：cloudpilot.dk：CloudPilot.dk ApS / Alsikemarken 46, 2860 Søborg / +45 3966-4525 / info@cloudpilot.dk / CVR 25706404；站点定位为中小企业IT平台与托管服务
+  - [1](https://cloudpilot.dk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-008"></a>
@@ -700,19 +703,6 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-161`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.mahkesis.com
-- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-070"></a>
-## B-070 · Optitera Global Networks Inc. · 加拿大
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-162`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：optiteraglobal.ca
 - 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
@@ -1798,19 +1788,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-175"></a>
-## B-175 · WispMax · 意大利
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-267`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：wispmax.com
-- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-176"></a>
 ## B-176 · Zen Vittore · 意大利
 
@@ -2243,14 +2220,17 @@
 <a id="B-226"></a>
 ## B-226 · Jonathan De Graeve / Smarteye · 比利时
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-318`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：smarteye.eu
 - 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
 - 本地原始批次：`batch/be_pt_ie.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：jonathan@smarteye.eu；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】抓取失败：smarteye.eu 返回 WordPress “Error establishing a database connection”，本次不可核验；不据此升级或降级，保留原信号；下批换路径（缓存/社媒/工商登记）复核。未发送邮件、未提交表单。 证据：[1](https://smarteye.eu/)（失败页）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-226
+  - 保留原文：smarteye.eu 抓取返回：“Error establishing a database connection”（WordPress 数据库错误页）
+  - [1](https://smarteye.eu/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-227"></a>
@@ -2386,14 +2366,17 @@
 <a id="B-245"></a>
 ## B-245 · MHz Wireless · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-337`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mhzshop.com
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[13]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@mhzshop.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】去重提示（不升级、不合并）：B-245 网站 mhzshop.com 与 A-352（“MHz Shop”，网站 mhzshop.com）同域名同国别，疑似同一主体重复记录。本轮不做合并或字段改动，仅记录待人工确认；去重命中不等于已证实重复。本条未联网核验该站。 批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-245
+  - 保留原文：（本地字段比对）B-245：MHz Wireless / 法国 / mhzshop.com / +33 486688330 / info@mhzshop.com；A-352：MHz Shop / 法国 / mhzshop.com / info@mhzshop.com
+  - [1](https://www.mhzshop.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-246"></a>
@@ -2503,14 +2486,18 @@
 <a id="B-258"></a>
 ## B-258 · Batna（anteny24.pl） · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-350`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：batna24.com
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[15]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：lukasz@anteny24.pl；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】抓取失败：anteny24.pl 请求失败并返回 HTTP 500，batna24.com 本轮未获内容，本次不可核验；保留原信号，下批换路径复核。未发送邮件、未提交表单。 证据：[1](https://anteny24.pl/)（HTTP 500）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-258
+  - 保留原文：anteny24.pl：抓取失败 / HTTP 500；batna24.com：本轮未返回内容
+  - [1](https://anteny24.pl/)
+  - [2](https://batna24.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-259"></a>
@@ -2625,19 +2612,6 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：poniatowski.pl
 - 精确同名同国别首次入库提交：`185bac43ebd92b79957c04da398dfad572f208e2`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-272"></a>
-## B-272 · WISP.PL · 波兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-364`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：wisp.pl
-- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2815,14 +2789,17 @@
 <a id="B-293"></a>
 ## B-293 · Fredrik Soderblom / XPD · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-385`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：xpd.se
 - 精确同名同国别首次入库提交：`41ab41ffc497bcf2ce7d3664f5fe2d11f65a51f8`。
 - 本地原始批次：`batch/se.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：fredrik@xpd.se；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：XPD AB 为独立安全咨询公司（自2002，斯德哥尔摩；设计与审计服务，页面列 Fredrik Söderblom） → 服务型，无交换机渠道/采购证据，保持B；具名邮箱fredrik@xpd.se与电话+46 70 829 2140保留。未发送邮件、未提交表单。 证据：[1](https://xpd.se/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-293
+  - 保留原文：xpd.se：XPD AB — independent security consulting（since 2002, Stockholm）；服务为设计与审计；页面列 Fredrik Söderblom
+  - [1](https://xpd.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-295"></a>
@@ -3205,14 +3182,18 @@
 <a id="B-340"></a>
 ## B-340 · Controller Service and Sales · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-432`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Moxa 渠道名录（经销商定位法）
 - 官网线索（不自动背书其他字段）：controllerservice.com
 - 精确同名同国别首次入库提交：`62ea7e841936b61dca08a44b8d38d7d7f355cf06`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@controllerservice.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官网首页 Featured Categories 含“Industrial Ethernet Switches”，并有 Moxa line card（另含 ABB / Eaton / Schmersal / Socomec / Mersen / Sprecher+Schuh 等工业电气线，控制柜制造与现场服务） → 交换产品线证据成立；但属宽线工业电气/自动化目录分销（HARD类大渠道口径），且未获具名联系人，本轮保持B、列入后续批次评估。未发送邮件、未提交表单。 证据：[1](https://www.controllerservice.com/) [2](https://www.controllerservice.com/linecardmoxa)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-340
+  - 保留原文：controllerservice.com：Featured Categories 含 Industrial Ethernet Switches、Industrial Serial and Ethernet Edge Connectivity、PLC/I-O、HMI、Motor Control、Power Supplies、Enclosures；Featured Brands 含 ABB、Eaton、HPS、Mersen、Schmersal、Sprecher+Schuh、Moxa；Control Panel Fabrication 与 Field Services 分栏
+  - [1](https://www.controllerservice.com/)
+  - [2](https://www.controllerservice.com/linecardmoxa)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-342"></a>
@@ -3244,14 +3225,18 @@
 <a id="B-344"></a>
 ## B-344 · DoubleRadius, Inc. · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-436`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：doubleradius.com
 - 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[6]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：salesteam@doubleradius.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官网商店品牌含 MikroTik / Ubiquiti / Cambium / SAF Tehnika / Baicells / RF elements，分类含 Routing/Switching 与 Switches（in stock），并有服务站点 services.doubleradius.com → 产品线符合；但属美国 WISP 大盘分销+服务型（“Beyond the Box”），体量与采购流程按“避免大分销正面战”口径另批复核，本轮保持B（不升级）；未获具名联系人。未发送邮件、未提交表单。 证据：[1](https://www.doubleradius.com/) [2](https://shopdoubleradius.com/collections/routing-switching)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-344
+  - 保留原文：shopdoubleradius.com：Top Brands MikroTik / Ubiquiti / SAF Tehnika / Baicells / RF elements / Cambium Networks；Shop by Category 含 Routing/Switching、Switches(in stock)、Fiber、LTE、Outdoor Wireless、Video；services.doubleradius.com 服务分站
+  - [1](https://www.doubleradius.com/)
+  - [2](https://shopdoubleradius.com/collections/routing-switching)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-346"></a>
@@ -3335,14 +3320,17 @@
 <a id="B-356"></a>
 ## B-356 · Joshua Moore / Archous Networks · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-448`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：archous.tech
 - 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
 - 本地原始批次：`batch/us.json / item[8]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：mikrotik@archous.tech；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点自述为 ISP/数据中心/企业托管网络服务商（品牌含 MikroTik、EdgeCore、UfiSpace、NetElastic、Cisco、Dell、Juniper、IPInfusion、Paessler、Andrisoft），联系通道 support@archous.tech / 1-866-535-0358；CSV 具名邮箱 mikrotik@archous.tech 为站内品牌入口 → 集成/托管服务，未见自采购交换机产品线证据，保持B待集成商口径批次。未发送邮件、未提交表单。 证据：[1](https://archous.tech/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-356
+  - 保留原文：archous.tech：ISP / datacenter / enterprise managed services；vendors NetElastic / Cisco / Dell / Juniper / EdgeCore / UfiSpace / IPInfusion / MikroTik / Ubiquiti / Paessler / Andrisoft；1-866-535-0358 | support@archous.tech
+  - [1](https://archous.tech/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-357"></a>
@@ -3365,19 +3353,6 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-451`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：leverify.com
-- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-361"></a>
-## B-361 · Makro Wisp · 美国
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-453`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：makrowisp.com
 - 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
@@ -3491,14 +3466,17 @@
 <a id="B-378"></a>
 ## B-378 · Rick Frey / Rick Frey Consulting · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-470`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：rickfreyconsulting.com
 - 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
 - 本地原始批次：`batch/us.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[16]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：rickfrey1000@gmail.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】抓取受阻：rickfreyconsulting.com 被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT / purefindresults 重定向），本次不可核验；保留原信号，下批换路径（缓存/社媒/培训名录）复核。未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)（被拦截）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-378
+  - 保留原文：rickfreyconsulting.com：请求被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT），重定向至 purefindresults 类结果页
+  - [1](https://rickfreyconsulting.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-381"></a>
@@ -3621,14 +3599,17 @@
 <a id="B-401"></a>
 ## B-401 · Barry Higgins / Allness · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-493`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：allness.net
 - 精确同名同国别首次入库提交：`db37499a1864e47b861dacaf831908a331ae1f26`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：barry@allness.it；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为小型 IT 服务（电话/工单系统、WiFi 资讯页、网站/托管/邮件服务、工作坊维修与定制） → 未见交换/供电需求证据；具名联系人（英国 MikroTik 讲师，10证）保留，列入培训/顾问批次统一定级。未发送邮件、未提交表单。 证据：[1](https://www.allness.it/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-401
+  - 保留原文：allness.it：Welcome / 电话 03333 403 303 / email-ticket system；WiFi 资讯页；Websites, hosting and email service；Workshop repairs, custom builds or just advice
+  - [1](https://www.allness.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-404"></a>
@@ -3651,19 +3632,6 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-506`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：liberty-i.com
-- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-416"></a>
-## B-416 · MS Dist. · 英国
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-508`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：msdist.co.uk
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
@@ -3907,14 +3875,17 @@
 <a id="B-442"></a>
 ## B-442 · Michiel Visser / Connection Services · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-534`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：connectionservices.nl
 - 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[11]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：michiel@connectionservices.nl；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点仅 IPv6 就绪自检占位页（IPv6 测试与 HE 认证徽章，含 MichielVisser 徽章名），无业务/产品内容 → 本次无升级证据；具名联系人保留，下批换路径（工商/社媒/域名注册）复核。未发送邮件、未提交表单。 证据：[1](https://www.connectionservices.nl/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-442
+  - 保留原文：connectionservices.nl：页面内容为 IPv6_ready_logo、IPv6 连接测试与 ipv6.he.net 认证徽章（pass_name=MichielVisser）、test-ipv6.com 链接；未见业务介绍或产品页
+  - [1](https://www.connectionservices.nl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-443"></a>
@@ -4128,14 +4099,18 @@
 <a id="B-463"></a>
 ## B-463 · Darío Noguera / Lanpixel · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-555`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：lanpixel.com
 - 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
 - 本地原始批次：`batch/es.json / item[6]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[12]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：dario@lanpixel.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官方 MikroTik Academy / 培训中心（马德里，MTCNA/MTCSE 与 Ubiquiti UAS 课程、FUNDAE 学分、在线实验室平台），页面联系 hola@lanpixel.com、(+34) 91 00 52 276 → 属培训/顾问类，站内未列交换机产品线；列入培训/顾问批次统一定级，本轮保持B。未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/) [2](https://lanpixel.com/contacto)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-463
+  - 保留原文：lanpixel.com：Formaciones MikroTik & Ubiquiti、Certificación oficial（MTCNA / MTCSE / UniFi UAS）、FUNDAE 可报销、labs.lanpixel.com 远程实验室、training.lanpixel.com；联系 hola@lanpixel.com、(+34) 91 00 52 276、Madrid
+  - [1](https://lanpixel.com/)
+  - [2](https://lanpixel.com/contacto)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-464"></a>
@@ -4147,19 +4122,6 @@
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
 - 本地原始批次：`batch/es.json / item[16]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-465"></a>
-## B-465 · Ditecom · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-557`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：反向信号/2026-09
-- 官网线索（不自动背书其他字段）：ditecom.com
-- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -4440,14 +4402,18 @@
 <a id="B-510"></a>
 ## B-510 · Janzen Group · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-755`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训计划（欧洲）
 - 官网线索（不自动背书其他字段）：janzen-group.com
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@janzen-group.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为汉堡本地服务商（Netzwerktechnik 布线/网络结构/WLAN、媒体技术、KNX 编程、安防视频/门禁、MikroTik Support；页面可见具名 Florian Janzen；ISO 9001 自述） → 无交换机产品线或采购证据，属集成/服务类，本轮保持B，待集成商口径批次统一裁定；具名联系人为页面人物介绍，未与邮箱互证。未发送邮件、未提交表单。 证据：[1](https://www.janzen-group.com/) [2](https://www.janzen-group.com/leistungen/netzwerktechnik/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-510
+  - 保留原文：janzen-group.com：Leistungen 含 Sicherheitstechnik（Alarm/Video/CS-Gas）、Medientechnik、KNX Programmierung、Netzwerktechnik（Verlegen von Netzwerkleitungen, Support, Netzwerkstrukturen, WLAN-Ausbau）、Wartungsverträge、Mikrotik Support（Beratung/Remote/Vorort）；页面人物介绍 Florian Janzen；info@janzen-group.com、+49 40 696 022 11
+  - [1](https://www.janzen-group.com/)
+  - [2](https://www.janzen-group.com/leistungen/netzwerktechnik/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-511"></a>

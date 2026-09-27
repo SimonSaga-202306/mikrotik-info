@@ -6037,3 +6037,105 @@
   - [2](https://mikrotik.com/training/academy?category=academies&region=Croatia)
   - [3](https://www.ferit.unios.hr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-379"></a>
+## A-379 · Optitera Global Networks Inc. · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-162`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：optiteraglobal.ca
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@optiteraglobal.ca；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-070（批量导入行，三星依据仅渠道等级，备注含待补标记）。核验要点：官网为MikroTik经销商站点，MikroTik品类含Switches（品牌计数105款MikroTik SKU），另有ISP/WISP/电信/CCTV/企业方案分栏 → 具备交换机产品线/渠道证据，按人工定级升A（A-379），待补标记解除。差异仅备注：官网联系页电话+1 647-388-6222、+1 437-440-0729与原字段+1 437 424 4024不一致；CSV城市“Ontario”与官网Oakville ON（登记2065 Madden Blvd L6H3N9，仓库785 Pacific Rd Unit 3）差异同类处理，均未改字段。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://optiteraglobal.ca/) [2](https://optiteraglobal.ca/contact-us/) 仅覆盖所述联络/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-379
+  - 保留原文：optiteraglobal.ca 品牌计数：TP-Link 75 / MikroTik 105（含 Switches）/ Cambium 9 / Mimosa 15 / Grandstream 60 / Optitera 43 / Cudy 88；方案分栏：ISP/WISP/电信/CCTV/企业；/contact-us/：sales@optiteraglobal.ca、+1 647-388-6222、+1 437-440-0729；登记地址 2065 Madden Blvd, Oakville ON L6H3N9；仓库 785 Pacific Rd Unit 3；Mon–Fri 9:30–18:00
+  - [1](https://optiteraglobal.ca/)
+  - [2](https://optiteraglobal.ca/contact-us/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-380"></a>
+## A-380 · WISP.PL · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-364`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wisp.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sklep@wisp.pl；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-272。核验要点：站内为渠道分销（MikroTik/Ubiquiti/TP-Link/Teltonika/Cudy），并含工业交换机品类（Scodeno，/m242,scodeno.html）；站点横幅列 MBUM#11 Poznań 与 Solarix 机柜、USR-IoT LoRa → 交换机渠道证据成立，升A（A-380）。未获具名联系人，仅公开销售邮箱sklep@与电话+48 32 721 86 72（按人工定级A记录，公司与A-363等公司级入口同口径）。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://wisp.pl/) [2](https://wisp.pl/m242,scodeno.html) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-380
+  - 保留原文：wisp.pl：分销站点（MikroTik / Ubiquiti / TP-Link / Teltonika / Cudy）；栏目 Scodeno 工业交换机（/m242,scodeno.html）；站点横幅：MBUM#11 Poznań、Solarix 机柜、USR-IoT LoRa
+  - [1](https://wisp.pl/)
+  - [2](https://wisp.pl/m242,scodeno.html)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-381"></a>
+## A-381 · Ditecom · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-557`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：ditecom.com
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[2]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@ditecom.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-465（批量导入行，备注含待补标记）。核验要点：站内搜索命中在售工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA），Networking 分类存在（17项） → 待补标记所问“是否已有工业交换机产品线”核验为是；升A（A-381），待补标记解除。该店主业为测试/测量与监控仪器（HW Group STE2/Poseidon2 等）、马德里门店+校准实验室，交换机为其中一类，切入以工业线补位为主。原电话+34 91 528 54 37与邮箱info@ditecom.com保留；未获具名联系人（按人工定级A记录）。未发送邮件、未提交表单。 证据：[1](https://ditecom.com/) [2](https://ditecom.com/?s=switch) 仅覆盖所述产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-381
+  - 保留原文：ditecom.com：测试/测量+监控仪器店（HW Group STE2/Poseidon2 等），马德里门店+校准实验室；Networking 分类 17 项；?s=switch 命中工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA）
+  - [1](https://ditecom.com/)
+  - [2](https://ditecom.com/?s=switch)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-382"></a>
+## A-382 · MS Dist. · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-508`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：msdist.co.uk
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[3]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：hello@msdist.co.uk；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-416。核验要点：站点为英国网络分销（MikroTik / Ubiquiti UniFi / Teltonika；trade account 体系；固定无线、企业WiFi、路由网关、摄像安保分栏），并沿用2026-09-22已记录的 Netonix WISP 交换机代理证据（PoE、宽温、DC输入） → 交换/供电产品线证据成立，升A（A-382）。未获具名联系人，仅公司级 hello@msdist.co.uk 与电话 01295 220 330（按人工定级A记录）。Netonix 为既有豁免品牌，“不得用同芯片话术”约束继续适用。未发送邮件、未提交表单。 证据：[1](https://www.msdist.co.uk/) [2](https://www.msdist.co.uk/collections/fixed-wireless) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-382
+  - 保留原文：msdist.co.uk：免费次日达/trade accounts/专家推荐；品牌与分栏含 MikroTik Wireless、Ubiquiti UniFi、Teltonika、Fixed Wireless、Enterprise WiFi、Routers & Gateways、Cameras & Security；此前记录（2026-09-22）：官网列 Netonix WISP 交换机（PoE、宽温、DC输入）为代理品牌
+  - [1](https://www.msdist.co.uk/)
+  - [2](https://www.msdist.co.uk/collections/fixed-wireless)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-383"></a>
+## A-383 · Makro Wisp · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-453`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：makrowisp.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：Sales@makrowisp.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-361。核验要点：店铺分类含“Routers & Switches”，在售 MikroTik CRS418-8P-8G-2S+RM（$449，页面示8 in stock）与 Ubiquiti USW Pro XG 24（$1,185） → 交换机渠道证据成立，升A（A-383）。未获具名联系人，邮箱原文 Sales@makrowisp.com（首字母大写保留）与电话+1 980 441 1125 保留（按人工定级A记录）。页面缺货/库存字样为抓取时状态，不构成需求或供货承诺。未发送邮件、未提交表单。 证据：[1](https://makrowisp.com/) [2](https://makrowisp.com/product-category/routers-switches/) 仅覆盖所述商品品类事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-383
+  - 保留原文：makrowisp.com：品牌 MikroTik / Alta Labs / Cambium / Ubiquiti / Grandstream / Mimosa / RF elements / Baicells / Netpoint；分类含 Routers & Switches、Power、Video Surveillance、Door Access、Fiber Products、VOIP；在售 MikroTik CRS418-8P-8G-2S+RM 与 Ubiquiti UniFi Pro XG 24
+  - [1](https://makrowisp.com/)
+  - [2](https://makrowisp.com/product-category/routers-switches/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-384"></a>
+## A-384 · WispMax · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-267`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wispmax.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[5]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@wispmax.com；投递未测试。
+  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-175。核验要点：站内广告位与商品页含“MANAGED INDUSTRIAL POE SWITCH 5P”（/prodotto/managed-industrial-poe-switch-5p/） → 工业交换/PoE 产品线证据成立，升A（A-384）。未获具名联系人，info@wispmax.com 与电话+39 0721797396 保留（按人工定级A记录）；2026-08 放假公告与页面价格/库存未逐项核验，仅作线索。未发送邮件、未提交表单。 证据：[1](https://www.wispmax.com/) [2](https://www.wispmax.com/prodotto/managed-industrial-poe-switch-5p/) 仅覆盖所述产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-384
+  - 保留原文：wispmax.com：分类 Antennas / Boards-Routers / Accessories / Software-License / Energy / Wireless / Hotspot / Domotics-IoT / WISP / Videosurveillance / Helpdesk / Special Deals；广告位与商品页出现 MANAGED INDUSTRIAL POE SWITCH 5P；站内 2026-08 放假公告（spedizioni sospese 07/08–24/08/2026）
+  - [1](https://www.wispmax.com/)
+  - [2](https://www.wispmax.com/prodotto/managed-industrial-poe-switch-5p/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

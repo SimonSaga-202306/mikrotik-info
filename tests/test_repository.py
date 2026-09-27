@@ -18,7 +18,7 @@ from numbering import renumber
 
 CSV = '客户名单_反向信号_2026-09.csv'
 BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A299 contact-only allowance.
-CONTACT_BASELINE = '70da39c'  # Before R47; only A360–A378 may change this round.
+CONTACT_BASELINE = 'f974d9c'  # Before R48; B/C rescreen promotions A-379–A-384 may change.
 
 
 def git_file(path):
@@ -37,13 +37,26 @@ class RepositoryTests(unittest.TestCase):
         cls.header, cls.rows = read_csv()
         cls.by_code = {r['档案编号']: r for r in cls.rows}
 
+    PROMOTED_OLD = {'B-070', 'B-272', 'B-465', 'B-416', 'B-361', 'B-175'}   # R48 B/C rescreen
+    PROMOTED_NEW = {'A-379', 'A-380', 'A-381', 'A-382', 'A-383', 'A-384'}
+    PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注'}
+
     def test_frozen_identity_and_physical_order(self):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
-        identity = lambda r: (r['档案编号'], r['公司名'], r['国家'], r['评级'])
-        self.assertEqual(list(map(identity, baseline)), list(map(identity, self.rows)))
+        # Physical order stays frozen by 公司名/国家; R48 promotions keep the row in place and only
+        # change 评级/档案编号 (+ the R48 reason/note fields), so those positions are compared with
+        # the promotion map applied instead of raw equality.
+        pos = lambda r: (r['公司名'], r['国家'])
+        self.assertEqual([pos(r) for r in baseline], [pos(r) for r in self.rows])
         targets = {f'A-{n:03}' for n in range(200, 379)}
         for before, after in zip(baseline, self.rows):
-            if before['档案编号'] not in targets:
+            if before['档案编号'] in self.PROMOTED_OLD:
+                self.assertIn(after['档案编号'], self.PROMOTED_NEW)
+                self.assertEqual(after['评级'], 'A')
+                for k in self.header:
+                    if k not in self.PROMOTED_FIELDS:
+                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+            elif before['档案编号'] not in targets:
                 self.assertEqual(before, after)
             else:
                 self.assertTrue(all(before[k] == after[k] for k in self.header
@@ -111,32 +124,53 @@ class RepositoryTests(unittest.TestCase):
                 for _, u in r['sources']:
                     self.assertIn(u, row['备注'])
 
-    def test_current_round_only_three_fields_and_frozen_exports(self):
+    def test_current_round_promotion_fields_and_frozen_exports(self):
         def old(path):
             return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
         baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
-        targets = {f'A-{n:03}' for n in range(360, 379)}
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
-            for k in self.header:
-                if before['档案编号'] not in targets or k not in {'网站', '入口/联系方式', '备注'}:
-                    self.assertEqual(before[k], after[k], (before['档案编号'], k))
+            if before['档案编号'] in self.PROMOTED_OLD:
+                self.assertIn(after['档案编号'], self.PROMOTED_NEW)
+                for k in self.header:
+                    if k not in self.PROMOTED_FIELDS:
+                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+            else:
+                self.assertEqual(before, after)
         from openpyxl import load_workbook
-        for filename in ['客户分级跟进表_2026-09.xlsx', 'MikroTik_vs_SmartByte_替代对照表.xlsx']:
-            a = load_workbook(io.BytesIO(old(filename)), read_only=True)
-            b = load_workbook(ROOT / filename, read_only=True)
-            self.assertEqual(a.sheetnames, b.sheetnames)
-            allowed_sheets = a.sheetnames[:3] if filename.startswith('客户分级') else ['反向信号名单']
-            for name in a.sheetnames:
-                av, bv = list(a[name].values), list(b[name].values)
-                self.assertEqual(len(av), len(bv))
-                for i, (x, y) in enumerate(zip(av, bv)):
-                    self.assertEqual(len(x), len(y))
-                    for j, (v, w) in enumerate(zip(x, y)):
-                        if not (name in allowed_sheets and i > 0 and x[19] in targets and j in {3, 9, 16}):
-                            self.assertEqual(v, w, (filename, name, i, j))
-            a.close()
-            b.close()
+        skip = self.PROMOTED_OLD | self.PROMOTED_NEW
+        workbook = '客户分级跟进表_2026-09.xlsx'
+        a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
+        b = load_workbook(ROOT / workbook, read_only=True)
+        self.assertEqual(a.sheetnames, b.sheetnames)
+        for name in a.sheetnames:
+            av, bv = list(a[name].values), list(b[name].values)
+            if name in a.sheetnames[:3]:
+                # promoted rows move between grade sheets; every other row must be byte-identical
+                self.assertEqual(list(av[0]), list(bv[0]))
+                self.assertEqual([r for r in av[1:] if str(r[19]) not in skip],
+                                 [r for r in bv[1:] if str(r[19]) not in skip], name)
+            else:
+                self.assertEqual(av, bv, name)
+        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 384)
+        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 338)
+        self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 311)
+        a.close()
+        b.close()
+        workbook2 = 'MikroTik_vs_SmartByte_替代对照表.xlsx'
+        c = load_workbook(io.BytesIO(old(workbook2)), read_only=True)
+        d = load_workbook(ROOT / workbook2, read_only=True)
+        self.assertEqual(c.sheetnames, d.sheetnames)
+        for name in c.sheetnames:
+            cv, dv = list(c[name].values), list(d[name].values)
+            if name == '反向信号名单':
+                self.assertEqual(list(cv[0]), list(dv[0]))
+                self.assertEqual([r for r in cv[1:] if str(r[19]) not in skip],
+                                 [r for r in dv[1:] if str(r[19]) not in skip], name)
+            else:
+                self.assertEqual(cv, dv, name)
+        c.close()
+        d.close()
 
     def test_r40_source_limits_not_silently_promoted(self):
         records = json.loads((ROOT / 'batch/contact_research_2026-09-27_A210-A239.json').read_text())['records']
@@ -451,6 +485,53 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(self.by_code['A-365']['城市'], '')
         self.assertEqual(self.by_code['A-373']['城市'], 'Brasov')
 
+    def test_r48_bc_rescreen_promotions(self):
+        obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_BCrescreen_A379-A384.json').read_text())
+        self.assertEqual(obj['date'], '2026-09-28')
+        records = obj['records']
+        promoted = [r for r in records if r['decision'] == 'promote']
+        holds = [r for r in records if r['decision'] == 'hold-B']
+        self.assertEqual([r['code'] for r in promoted], [f'A-{n:03}' for n in range(379, 385)])
+        self.assertEqual([r['before_code'] for r in promoted],
+                         ['B-070', 'B-272', 'B-465', 'B-416', 'B-361', 'B-175'])
+        self.assertEqual(len(holds), 13)
+        for r in records:
+            self.assertTrue(r['quote'] and r['fields_supported'] and r['sources'])
+            self.assertEqual(r['retrieved_on'], '2026-09-28')
+        for r in promoted:
+            row = self.by_code[r['code']]
+            self.assertEqual((row['评级'], row['人工定级'], row['公司名']), ('A', 'A', r['name']))
+            self.assertIn('【人工定级】A', row['评级依据'])
+            self.assertIn('原' + r['before_code'], row['评级依据'])
+            self.assertIn('来源等级：', row['备注'])
+            self.assertIn('原' + r['before_code'], row['备注'])
+            self.assertIn('batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#' + r['code'],
+                          row['备注'])
+            profile = next((ROOT / 'profile/A').glob(r['code'] + '-*.md')).read_text()
+            self.assertIn(f'来源等级：{r["level"]}', profile)
+        for old_code in sorted(self.PROMOTED_OLD):
+            self.assertNotIn(old_code, self.by_code)
+            self.assertEqual(list((ROOT / 'profile/B').glob(old_code + '-*.md')), [])
+        for r in holds:
+            self.assertEqual(self.by_code[r['code']]['评级'], 'B')
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 384)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 338)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 311)
+        a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
+        self.assertEqual(a_nums, list(range(1, 385)))
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 384)
+        for code in ['A-379', 'A-381']:
+            self.assertNotIn('【待补】', self.by_code[code]['备注'])
+            self.assertIn('待补标记解除', self.by_code[code]['备注'])
+        leftover = [r for r in self.rows if '【待补】' in r['备注']]
+        self.assertEqual(len(leftover), 33)
+        self.assertTrue(all(r['评级'] == 'C' for r in leftover))
+        hold_codes = {r['code'] for r in holds}
+        self.assertIn('B-245', hold_codes)
+        self.assertIn('mhzshop.com', json.dumps(holds, ensure_ascii=False))
+        self.assertIn('B-344', hold_codes)
+        self.assertIn('B-226', hold_codes)
+
     def test_office_exports_preserve_base_fields(self):
         from openpyxl import load_workbook
         paths = ['客户分级跟进表_2026-09.xlsx', 'MikroTik_vs_SmartByte_替代对照表.xlsx']
@@ -482,9 +563,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 48):
+        for n in range(1, 49):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 48)  # 47 + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 49)  # 48 + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

@@ -1,5 +1,5 @@
 {
-  "recorded_on": "2026-09-27",
+  "recorded_on": "2026-09-28",
   "excluded": [
     ".arena",
     ".aws",
@@ -58,10 +58,10 @@
     },
     {
       "path": "AGENT-README.md",
-      "sha256": "1a439afe01b28072bb4e10c82cdad523f4183bee702a17a5bd265e2bf083dd1f",
-      "bytes": 24096,
+      "sha256": "9ca248b73ea6ac4e70dbce055632c2257048ccc1a6d74f4595a68a8e3e83b379",
+      "bytes": 24497,
       "tracked_at_scan": true,
-      "units_scanned": 151,
+      "units_scanned": 152,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -167,11 +167,11 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "b9c7fe5b58f5b4a100760c697378811e410de97763d4f77da3545a61ef2bcf2a",
-      "bytes": 283373,
+      "sha256": "14e1d25ac28eee2a39f7a26b1c2725e490cb68f704eeabf43a8ad7fe49a07ad1",
+      "bytes": 287085,
       "tracked_at_scan": true,
-      "units_scanned": 20351,
-      "unique_url_count": 788,
+      "units_scanned": 20357,
+      "unique_url_count": 800,
       "inspection": {
         "zip_members": 24,
         "embedded_media": 0,
@@ -255,7 +255,7 @@
           {
             "name": "反向信号名单",
             "state": "visible",
-            "nonempty_cells": 17514
+            "nonempty_cells": 17520
           }
         ]
       },
@@ -353,8 +353,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "f2d028e52f7a13668d132cb6f72b00f14cf69d67d5f4f8c97cae4e22273911ef",
-      "bytes": 5304,
+      "sha256": "33bc4df16708424c70bcee9bf8032d0eff05d8121839fba774b432e5389ba107",
+      "bytes": 5529,
       "tracked_at_scan": true,
       "units_scanned": 73,
       "unique_url_count": 0,
@@ -705,6 +705,16 @@
       "errors": []
     },
     {
+      "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
+      "sha256": "e308e8224b43f4f070761de494fc3ab89d879f48fe837be99be8aa11ab8cd8e9",
+      "bytes": 36470,
+      "tracked_at_scan": false,
+      "units_scanned": 641,
+      "unique_url_count": 33,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/dk.json",
       "sha256": "d72bc0445b79c65d9474d6d3aeec71d74c458a1386f89da7ee89a504653c1ff7",
       "bytes": 1392,
@@ -945,6 +955,16 @@
       "errors": []
     },
     {
+      "path": "docs/audit/2026-09-28_BC复筛第1批.md",
+      "sha256": "ef845cb72cfe71293ba5b3f20b9aa01f994bf9f6ceda47cecb42fde570cdd928",
+      "bytes": 7843,
+      "tracked_at_scan": false,
+      "units_scanned": 60,
+      "unique_url_count": 12,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "docs/evidence/来源规则与资料地图.md",
       "sha256": "7e7f1ccd3a71eae2f25442cde34774310cb7ca3a8f47ccf5f9d29fbe695e71ef",
       "bytes": 6975,
@@ -966,17 +986,17 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "a9bc2b6ca19d8ac1815bc902d58f5cda1d8eec70593240dafdeb96a480dce0d5",
-      "bytes": 64050,
+      "sha256": "ec20ee5c39119728e1bc5329c3f5f161707df59bad4ad153a4f222367b08fe3c",
+      "bytes": 65755,
       "tracked_at_scan": true,
-      "units_scanned": 958,
+      "units_scanned": 967,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/00-索引.md",
-      "sha256": "6340f6f02167370e36311c604fcb48aae73f3b14117d738cde82763cb83096c9",
+      "sha256": "55b100d28b4f3f6fd606d8f3311e6f466ca08219e77edc6dda66666904d750fc",
       "bytes": 91630,
       "tracked_at_scan": true,
       "units_scanned": 1058,
@@ -4765,6 +4785,66 @@
       "errors": []
     },
     {
+      "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+      "sha256": "acb3693ad5c97b2ab2259cb6e46a22189ed46557a0051d1d3b6d25cd69671e23",
+      "bytes": 4879,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-380-WISP.PL-波兰.md",
+      "sha256": "9d4889ebd5df6857928a9f033891c4b4d8ba762cfd435db39800c4b5635c8eb7",
+      "bytes": 4484,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-381-Ditecom-西班牙.md",
+      "sha256": "fccc15d45a4d9f79e20883539c21653ce407f2b3a44743fffc321dec0a2c0970",
+      "bytes": 4777,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-382-MS Dist-英国.md",
+      "sha256": "7e8b19feca2f7e90a1d6794a76f60a94c5954e7c6e7449c500de60075c80819e",
+      "bytes": 4679,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-383-Makro Wisp-美国.md",
+      "sha256": "6af5fff99fa9abf10ca456e13bcdb83b2487366d2f08ea5b9d59b384595e8f03",
+      "bytes": 4428,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-384-WispMax-意大利.md",
+      "sha256": "ff4f86d512a4ba77282860e3b359dc2299a68b131ec953f019c0a15541692eea",
+      "bytes": 4411,
+      "tracked_at_scan": false,
+      "units_scanned": 107,
+      "unique_url_count": 2,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
       "sha256": "0015a6c959d5c0b91d964e33ae922838372fa234205a535d22ab2fd549b2c2b7",
       "bytes": 1887,
@@ -5298,16 +5378,6 @@
       "path": "profile/B/B-069-Mahkesis Group Inc-加拿大.md",
       "sha256": "d5a2dfb55aafa3d8af4c4655325d216a2fdaa6255c004956c2f89e801ecdca4c",
       "bytes": 1959,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/B/B-070-Optitera Global Networks Inc-加拿大.md",
-      "sha256": "8cd3c12d09d46b832171f1c5c554183affa5a6e73769ab6705db9ebe66b7d761",
-      "bytes": 2301,
       "tracked_at_scan": true,
       "units_scanned": 68,
       "unique_url_count": 0,
@@ -6145,16 +6215,6 @@
       "errors": []
     },
     {
-      "path": "profile/B/B-175-WispMax-意大利.md",
-      "sha256": "892e8e2e8e175bab3860930a8a40ccb9bf1bd62f4ce2a9e0a99b40939ca9e887",
-      "bytes": 1952,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/B/B-176-Zen Vittore-意大利.md",
       "sha256": "863149c82c79437ea04f94fdbfc897c853e884a49dd21020e91089e06d00502a",
       "bytes": 2112,
@@ -6785,16 +6845,6 @@
       "errors": []
     },
     {
-      "path": "profile/B/B-272-WISP.PL-波兰.md",
-      "sha256": "4659074acbb96dc8bd88ddfb24de724ab774f91de6b4189b257c971262cde87a",
-      "bytes": 1923,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/B/B-273-WiFi24-波兰.md",
       "sha256": "9de4378031e4b43143f747131f1d4e3af7bf9ce7f4085727cd2cccd8b7413240",
       "bytes": 1912,
@@ -7355,16 +7405,6 @@
       "errors": []
     },
     {
-      "path": "profile/B/B-361-Makro Wisp-美国.md",
-      "sha256": "2a02ae010108259e8427fc42f27520ea70e5077da129b0f358261a75b84fad5d",
-      "bytes": 1963,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/B/B-362-Microcom Technologies-美国.md",
       "sha256": "fe3bd1fad233d37235df258b5ec7909ace2862665303420bc570718ec0da2d07",
       "bytes": 1950,
@@ -7568,16 +7608,6 @@
       "path": "profile/B/B-414-Liberty-izone Ltd-英国.md",
       "sha256": "41332d281a354be8046ea4b6e430cde4dc27c74a962734a3fa5883ba577fd1b9",
       "bytes": 1944,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/B/B-416-MS Dist-英国.md",
-      "sha256": "eacf7ae6666ea40329e728d047b57463c67aafba99db93fdedfb52a6244569e8",
-      "bytes": 2083,
       "tracked_at_scan": true,
       "units_scanned": 68,
       "unique_url_count": 0,
@@ -7950,16 +7980,6 @@
       "bytes": 2250,
       "tracked_at_scan": true,
       "units_scanned": 73,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/B/B-465-Ditecom-西班牙.md",
-      "sha256": "d31df37074ccba74851d6711af42221a1c8e5c620389d846e8a8c6b1c8dab33f",
-      "bytes": 2214,
-      "tracked_at_scan": true,
-      "units_scanned": 68,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -11416,10 +11436,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "091bbc165aeb9bd91e8675ebb65e3ee752a93c74f8c5effbfbe73387dc0fd4db",
-      "bytes": 34815,
+      "sha256": "87947839563c6a1c04443f08a5465ee369d07f1a7e864a35dce417c769fe6913",
+      "bytes": 39549,
       "tracked_at_scan": true,
-      "units_scanned": 542,
+      "units_scanned": 623,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []
@@ -11446,11 +11466,11 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "0d593c0c4b6f109051787cafdcb280c221f540a3ed07d7bb871ccd601e11d1b8",
-      "bytes": 313726,
+      "sha256": "b9a0f1403a5601358825155ee3815f6f44c3fc6f19e5a0b1251b3ef8b74b6954",
+      "bytes": 315344,
       "tracked_at_scan": true,
-      "units_scanned": 21142,
-      "unique_url_count": 788,
+      "units_scanned": 21166,
+      "unique_url_count": 800,
       "inspection": {
         "zip_members": 12,
         "embedded_media": 0,
@@ -11459,12 +11479,12 @@
           {
             "name": "A级-重点好跟进",
             "state": "visible",
-            "nonempty_cells": 8460
+            "nonempty_cells": 8595
           },
           {
             "name": "B级-慢慢跟",
             "state": "visible",
-            "nonempty_cells": 6292
+            "nonempty_cells": 6181
           },
           {
             "name": "C级-难啃",
@@ -11482,11 +11502,11 @@
     },
     {
       "path": "客户名单_反向信号_2026-09.csv",
-      "sha256": "1e71ea2e0bf9c19fcafaa207949659a4c8ee2c17d57cc477055a09491edf8ddd",
-      "bytes": 739421,
+      "sha256": "60143c183c5cf79c0cc1dac487909875d3f41c97ecb30e140e3f65f7fba42607",
+      "bytes": 744680,
       "tracked_at_scan": true,
-      "units_scanned": 17492,
-      "unique_url_count": 788,
+      "units_scanned": 17498,
+      "unique_url_count": 800,
       "inspection": {
         "headers": [
           "公司名",
@@ -11527,10 +11547,10 @@
     },
     {
       "path": "死路与死链备案_2026-09.md",
-      "sha256": "e54354b7ae161978d132a20a312dda46363f07054a6a5c02f083432b20e69f2c",
-      "bytes": 26098,
+      "sha256": "2e93a3bf89ff294e220fd4d20621892969dfb4e570ff37f8d21c2cf85f04317a",
+      "bytes": 27095,
       "tracked_at_scan": true,
-      "units_scanned": 287,
+      "units_scanned": 298,
       "unique_url_count": 2,
       "inspection": {},
       "errors": []
