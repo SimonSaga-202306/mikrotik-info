@@ -4629,261 +4629,370 @@
 <a id="A-300"></a>
 ## A-300 · GBE Converge · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-863`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://gbeconverge.com
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@gbeconverge.com；投递未测试。
+  - 说明：官网联系页给出info@gbeconverge.com与08451 220884，并列三处英国办公（Gloucester GBEC House, 31 Barnett Way, Barnwood GL4 3RT；Sheffield；London）与荷兰EMEA实体（Ondernemingsweg 25, Uithoorn；info@gbeconvergebv.com）。Allied Telesis 2024-12-06新闻稿确认其为Platinum Partner、隶属Mitie集团，面向英国与爱尔兰大型企业客户扩容AT网络方案。主字段取英国官网info@；荷兰实体邮箱按次级候选记录，不并入主字段。
+  - 保留原文：Contact页：Head Office GBEC House 31 Barnett Way Barnwood Gloucester GL4 3RT / Tel 08451 220884 / info@gbeconverge.com / EMEA Ondernemingsweg 25 1422 DZ Uithoorn The Netherlands / +31 297 54 76 50 / info@gbeconvergebv.com；BusinessWire 2024-12-06：As an Allied Telesis Platinum Partner, GBE Converge will help increase access to Allied Telesis’ ... connectivity and networking solutions for large business and enterprise customers across the UK and Ireland（厂商侧联系人AlliedTelesisUK@axicom.com，非本行联系人）；Inner Range页：GBEC House, 31 Barnett Way, Barnwood, Gloucester, GL4 3RT / 08451 220884 / info@gbeconverge.com
+  - [1](https://gbeconverge.com/contact/)
+  - [2](https://www.businesswire.com/news/home/20241206306408/en/Allied-Telesis-Boosts-Customer-Access-Through-Strategic-Partnership-With-GBE-Converge)
+  - [3](https://www.innerrange.co.uk/portfolio-items/gbe-converge/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-301"></a>
 ## A-301 · 3TEC · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-867`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.3tec.co.uk
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[1]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：官网联系页与首页只给电话020 8275 1120、Pixel Business Centre, 110 Brooker Rd, Waltham Abbey EN9 1JH与网页表单，正文无邮箱；自社Facebook页在联系信息处公布social@3tec.co.uk（社媒信箱，非销售直线，本轮不写入主字段）；LinkedIn公司页列专长含Allied Telesis、2-10人、2012年创立；Companies House 08313344（2012-11-29）。因无可投递销售邮箱，保留【待人工补信息】，等待销售邮箱或人工确认电话为唯一触达方式。
+  - 保留原文：官网Contact页：Address Pixel Business Centre 110 Brooker Rd Waltham Abbey EN9 1JH / Phone Number 020 8275 1120（页面仅表单，无邮箱）；Facebook页：Page · Business service ... Waltham Abbey, United Kingdom +44 20 8275 1120 social@3tec.co.uk；LinkedIn：Specialties ... Local Area Networking, Mitel, Gamma, Fortinet, Allied Telesis, and Unified Communications；Companies House：3TEC LTD, Company number 08313344, Incorporated on 29 November 2012
+  - [1](https://www.3tec.co.uk/contact-us)
+  - [2](https://www.facebook.com/3TECSOCIAL/)
+  - [3](https://find-and-update.company-information.service.gov.uk/company/08313344)
+  - [4](https://uk.linkedin.com/company/3tec-ltd)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-302"></a>
 ## A-302 · ACC Yotta · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-868`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.accyotta.com
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[2]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@accyotta.com；投递未测试。
+  - 说明：官网联系页给出contact@accyotta.com、+44 (0)20 7043 6090（传真6099）与Acacia House, 1 Park Road, Woking GU22 7BW，主体为Application Centric Computing Limited；支持页另给help@accyotta.com；品牌导航含ALLIED TELESIS专区；数据中心页自述4D Surrey Tier 3、距Woking总部15分钟。主字段取contact@；help@按支持候选记录。
+  - 保留原文：Contact页：Application Centric Computing Limited / Acacia House / 1 Park Road / Woking / GU22 7BW / E: contact@accyotta.com / T: +44 (0)20 7043 6090 / F: +44 (0)20 7043 6099；Support页：Email: help@accyotta.com；数据中心页：... the proximity to our head office in Woking, means we can be on site within 15 minutes ... 4D Surrey - Tier 3 DataCenter
+  - [1](https://www.accyotta.com/contact)
+  - [2](https://www.accyotta.com/support)
+  - [3](https://www.accyotta.com/about/datacenters)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-303"></a>
 ## A-303 · Electracom/Trusol · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-874`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.trusol.com
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[3]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@trusol.com；投递未测试。
+  - 说明：Trusol官网服务与支持页给出info@trusol.com、03456 121 222与The Reeves, Snakey Lane, Feltham TW13 7NB，营业Mon–Fri 08:00–18:00；Facebook页同址、同电话、同邮箱，自述面向教育/休闲场所的ICT与AV支持。注意：Electracom Projects Ltd（The Chapel, Grenville Court, Burnham SL1 8DF；01753 882104；info@electracomprojects.com）为另一家公司（BMS方向），与本行Feltham的Trusol不是同一实体，不合并。
+  - 保留原文：Trusol Service & Support页：The Reeves / Snakey Lane / Feltham / TW13 7NB / Tel: 03456 121 222 Email: info@trusol.com / Opening hours: Mon-Fri 08.00-18.00；Facebook：Trusol ... Feltham, United Kingdom +44 345 612 1222 info@trusol.com；Electracom Projects页：Head Office ... Burnham Buckinghamshire SL1 8DF / T 01753 882104 E info@electracomprojects.com
+  - [1](https://www.trusol.com/service-support/)
+  - [2](https://www.facebook.com/Trusol/)
+  - [3](http://www.electracomprojects.com/contact-us/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-304"></a>
 ## A-304 · European Electronique · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-876`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.euroele.com
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@euroele.com；投递未测试。
+  - 说明：官网联系页给出销售sales@euroele.com / 08453 458340、技术techsupport@euroele.com / 01865 734444、总部01865 883300与Forward House, Oakfields Industrial Estate, Eynsham, Oxfordshire OX29 4TT；2024-11-20官网新闻再次指引sales@euroele.com；招聘页另给hr@euroele.com。主字段取sales@。
+  - 保留原文：Contact页：Sales 08453 458340 sales@euroele.com / Service Desk 01865 734444 techsupport@euroele.com / Head Office 01865 883300 / Forward House Oakfields Industrial Estate Eynsham Oxfordshire OX29 4TT；新闻页：contact us today at sales@euroele.com or call us at 08453 458340
+  - [1](https://www.euroele.com/contact/)
+  - [2](https://www.euroele.com/2024/11/20/european-electronique-at-the-schools-and-academies-show-pioneering-educations-digital-future/)
+  - [3](https://www.euroele.com/contact/apprentices-work-experience-schools/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-305"></a>
 ## A-305 · Quadratek · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-877`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://quadratek.net
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@quadratek.net；投递未测试。
+  - 说明：官网联系页给出info@quadratek.net、+44 (0)8450 740 530与6 Taplins Court, Church Ln, Hartley Wintney, Hook RG27 8XU；法律页载网站经营主体PH15 Ventures Ltd、注册办公地/欧洲总部同址，自述服务防务领域20+年；UKPostcodeCheck显示Quadratek Consulting Ltd公司号03434650（1997-09-16成立）。主字段取info@；legal@quadratek.net按法务候选记录。
+  - 保留原文：Contact页：info@quadratek.net / Office 6, Taplins Court, Church Ln, Hartley Wintney, Hook RG27 8XU, United Kingdom；Legal页：... owned and operated by PH15 Ventures Ltd ... registered office and European Head office located at: Taplins Court Unit 6, Church Lane, Hartley Wintney, Hampshire RG27 8XU ... legal@quadratek.net ... A Defence supplier of 20+ years ... CONTACT +44 (0)8450 740 530 info@quadratek.net
+  - [1](https://quadratek.net/contact-quadratek/)
+  - [2](https://quadratek.net/legal/)
+  - [3](https://www.ukpostcodecheck.com/address/6c62ef84/quadratek-consulting-ltd._unit-6-taplins-court-church-lane_hartley-wintney_hook_rg27-8xu)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-306"></a>
 ## A-306 · Holker IT · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-861`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.holkerit.co.uk
 - 精确同名同国别首次入库提交：`77ba351ac1442c3116a4bdab20e369ecce3e114d`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：enquiries@holkerit.co.uk；投递未测试。
+  - 说明：Allied Telesis官方Featured Partner页给出0333 305 2020与enquiries@holkerit.co.uk，注明其为AT“UK Partner of the Year and Platinum Partner”、2009年由前网络工程师Matthew Metcalfe创立；官网联系页给出Crown House, Bridgewater Close, Network 65 Business Park, Burnley BB11 5TE与分机选项（企业支持Option 1/教育支持Option 3），公司注册为Holker Network Solutions Ltd 06872408。次级：Facebook页列reassuringit@holkerit.co.uk；Burnley Express报道列support@holkerit.co.uk。主字段取enquiries@。
+  - 保留原文：AT页：To speak to Holker, contact 0333 305 2020 or email enquiries@holkerit.co.uk；官网Contact页：0333 305 2020 / Business Support - Option 1 / Education Support - Option 3 / enquiries@holkerit.co.uk / Crown House Bridgewater Close Network 65 Business Park Burnley Lancashire BB11 5TE / Holker IT is a trading style of Holker Network Solutions Ltd registered in the UK under Company Reg: 06872408；Facebook：reassuringit@holkerit.co.uk
+  - [1](https://www.alliedtelesis.com/us/en/resellers/holker-it)
+  - [2](https://www.holkerit.co.uk/contact-us)
+  - [3](https://www.facebook.com/HolkerIT/)
+  - [4](https://www.burnleyexpress.net/business/burnley-it-business-holker-hosts-cyber-threat-warning-for-businesses-3873358)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-307"></a>
 ## A-307 · BlueBearsIT · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-941`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://bluebearsit.com
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：ec@bluebearsit.com；投递未测试。
+  - 说明：官网联系页仅表单+电话04 28 29 86 50，无邮箱；官网培训页正文公布“service Commercial par mail : ec@bluebearsit.com”（商务信箱），同页另有残障事务联系人ap@bluebearsit.com；第三方Lyon Entreprises名录列contact@bluebearsit.com，并给负责人Eric Charpentier的cg@bluebearsit.com。注册信息（Kompass/Pappers）：SAS、SIREN 840 859 524、2018年成立、13 rue des Aulnes Limonest、20–49人、Qualiopi认证培训机构。主字段取官网公布的商务信箱ec@；其余按第三方候选记录，不并入主字段。
+  - 保留原文：培训页：Modalités d’inscription : Sur demande auprès de notre service Commercial par mail : ec@bluebearsit.com ou par téléphone : 04-28-29-86-50 / ... Référente Handicap, Amandine Paul par mail ap@bluebearsit.com；Contact页： siège 13 rue des Aulnes – 69760 Limonest / Tel : 04 28 29 86 50；Lyon Entreprises：ERIC CHARPENTIER ... contact@bluebearsit.com / cg@bluebearsit.com；Pappers：SIREN 840 859 524 ... CHARPENTIER Eric ... Organisme de formation certifié Qualiopi
+  - [1](https://bluebearsit.com/formation-utilisateur-microsoft-outlook/)
+  - [2](https://bluebearsit.com/contact/)
+  - [3](https://www.lyon-entreprises.com/entreprise/bluebearsit/presentation-bluebearsit)
+  - [4](https://www.pappers.fr/entreprise/bluebearsit-840859524)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-308"></a>
 ## A-308 · ITNI · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-946`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.itni.fr
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@itni.fr；投递未测试。
+  - 说明：官网首页给出contact@itni.fr、+33 1 48 13 99 99与ITNI SAS 103-105 rue Charles Michels 93200 Saint-Denis；官网有显著反诈提示：ITNI不通过邮件开供应商账户/下单，需先电话确认——即其对供应商往来以电话先行，首次触达建议电话+邮件并用。Kompass载SIREN 505 346 312、2008年成立、NAF 4651Z、总裁Jean-Marie Tawil、5个活跃分支。主字段取contact@。
+  - 保留原文：首页：ITNI SAS / 103-105, rue Charles Michels / 93200 Saint-Denis / Tél : 01 48 13 99 99 / contact@itni.fr / Important : Warning : ITNI does not request the opening of a supplier account, nor does it place an order by email without prior telephone call. If you receive this type of message, it's a fake.；Kompass：M. Jean-Marie Tawil Président / SIREN 505 346 312 / Forme juridique SAS
+  - [1](https://www.itni.fr/)
+  - [2](https://fr.kompass.com/c/itni/fra05vpks/)
+  - [3](https://grossiste.e-pro.fr/seine-st-denis/itni_f4878322)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-309"></a>
 ## A-309 · General Computer Italia S.p.A. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-966`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.gci.it
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[9]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@gci.it；投递未测试。
+  - 说明：官网页脚给出info@gci.it、P.I. 01546870187，并列米兰法定总部Foro Buonaparte 68、Lacchiarella运营地Via Milano 11与罗马办公室Via del Poggio Laurentino 66；业务含GCI Service Factory（post warranty硬件现场维保）、GCI Green与渠道合作100×100；AT名录列为Resell。本行城市为Roma，对应其罗马办公室；主字段取info@（公司级邮箱，非罗马专属）。
+  - 保留原文：页脚：SEDE LEGALE Foro Buonaparte, 68 20121 Milano / SEDE OPERATIVA Via Milano, 11 20084 Lacchiarella (MI) / UFFICI DI ROMA Via del Poggio Laurentino, 66 00144 Roma / © 2026 General Computer Italia S.p.A. info@gci.it - P.I. 01546870187 - Cap. Soc. 2.000.000 €；AT伙伴名录：General Computer Italia S.p.A. — Roma — Resell
+  - [1](https://www.gci.it/)
+  - [2](https://www.alliedtelesis.com/us/en/resellers)
+  - [3](https://www.dnb.com/business-directory/company-profiles.general-computer-italia-spa.1870e0cd354ae4dbf9ef17a1549e2db6)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-310"></a>
 ## A-310 · IT-TRUST Network Solution · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1000`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=austria）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：http://www.ittrust.at
 - 精确同名同国别首次入库提交：`3eb0558e9e43aadd13b6f54f064254c547df89d3`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：office@ittrust.at；投递未测试。
+  - 说明：公司站联系导航给出mailto:office@ittrust.at（站点为无HTTPS的旧版静态页，http://www.ittrust.at，本轮仍可访问）；FirmenABC收录Andreas Smeczka (IT TRUST Network Solution)：Dr. Matthias Rochgasse 3, 2114 Weinsteig，UID ATU62644115，2006-07-01起，业务含Internetservice/Netzwerktechnik/Systembetreuung/EDV-Beratung与硬件软件贸易，登记人为Inhaber Andreas Smeczka（自然人）。主字段取office@ittrust.at；站点陈旧且未获电话，建议投递前后电话核验（未发现站内电话）。
+  - 保留原文：ittrust.at首页：Kontaktieren Sie uns einfach via Mail!（链接mailto:office@ittrust.at）；FirmenABC：Andreas Smeczka (IT TRUST Network Solution) ... Adresse: Dr. Matthias Rochgasse 3 2114 Weinsteig / Mail: office@ittrust.at / Web: www.ittrust.at / UID-Nummer: ATU62644115 / Beginndatum der Rechtsform: 2006-07-01 / Inhaber Herr Smeczka Andreas Privatperson
+  - [1](http://www.ittrust.at/)
+  - [2](https://www.firmenabc.at/andreas-smeczka-it-trust-network-solution_BRlD)
+  - [3](https://www.firmenabc.at/firmen/grossrussbach_LcF/it-dienstleistungen_CXq)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-311"></a>
 ## A-311 · Christopher Fikes · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-751`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.fikesmedia.com
 - 精确同名同国别首次入库提交：`5952bf79644afdb9ae83cd7246c1398d99b89c97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[11]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@fikesmedia.com；投递未测试。
+  - 说明：官网联系页给出销售sales@fikesmedia.com、支持support@fikesmedia.com、+1 409.877.4220（销售Option 1/支持Option 2）与105 George St, Silsbee TX 77656；服务含Network Consulting/Datacenter/VoIP/Mikrotik Consulting，其MikroTik页自述为德州注册认证顾问，列MTCNA/MTCRE/MTCINE；MikroTik顾问名录条目给+14098774220与www.fikesmedia.com（邮箱在名录中为遮罩“Email”）。主字段取sales@；原入口“站点 fikesmedia.com”本轮补全邮箱与电话。
+  - 保留原文：Contact页：Speak to us / Support ... ✉ support@fikesmedia.com / ☎ +1 409.877.4220 (Option 2) / Sales ... ✉ sales@fikesmedia.com / ☎ +1 409.877.4220 (Option 1) / FikesMedia 105 George St. Silsbee Texas, 77656；MikroTik页：We are registered and an approved Mikrotik consultant in Texas. We hold the following Mikrotik Certifications: MCTNA, MCTRE, MCTINE.；顾问页：Christopher Fikes MTCRE ... Silsbee, Texas, USA ... phone +14098774220 / web-address www.fikesmedia.com
+  - [1](https://www.fikesmedia.com/contact)
+  - [2](https://www.fikesmedia.com/mikrotik-consulting)
+  - [3](https://mikrotik.com/consultants/europe)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-312"></a>
 ## A-312 · Atlantik Elektronik · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-808`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官网分销页（当前）
-- 官网线索（不自动背书其他字段）：atlantikelektronik.com
+- 官网线索（不自动背书其他字段）：https://www.atlantikelektronik.com
 - 精确同名同国别首次入库提交：`b3296dfa193482ada37b7f2d778b9c6b5c137654`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[12]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@atlantikelektronik.com；投递未测试。
+  - 说明：Lantronix授权分销说明（自营电商atestore.de的Lantronix专页与Services页）给出+49 89 89 505 0与info@atlantikelektronik.com，自述为Lantronix多年获奖分销伙伴、可给项目与批量价；bcdatlantik新闻载其再获Lantronix“EMEA Distributor Partner of the Year”（2022-09-27，Planegg）；公司总部Planegg（Bayern），在德国、奥地利、荷兰、丹麦等地设分支，另有atxx.de域名（展会页第三方联系人j.heilmann@atxx.de，非本行联系人）。主字段取info@；网站由裸域atlantikelektronik.com规范为https://www.atlantikelektronik.com。
+  - 保留原文：atestore Lantronix页：Discover the variety of Lantronix products with Atlantik Elektronik as your authorised distributor ... CONTACT US +49 89 89 505 0 info@atlantikelektronik.com；新闻：Lantronix honored Atlantik Elektronik GmbH with the “EMEA Distributor Partner of the Year” award ... 27. September 2022 | Planegg；electronica展页：Atlantik Elektronik GmbH +49 89 89505-0 info@atlantikelektronik.com www.atlantikelektronik.com
+  - [1](https://www.atestore.de/en/lantronix/)
+  - [2](https://bcdatlantik.co.uk/en/news/atlantik-elektronik-becomes-emea-distributor-partner-of-the-year-again)
+  - [3](https://www.atestore.de/en/info/ate-services.html)
+  - [4](https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/exhibitordetails/atlantik-elektronik-gmbh/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-313"></a>
 ## A-313 · Powertech Controls · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-858`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商渠道页（当前）
-- 官网线索（不自动背书其他字段）：powertechcontrols.com
+- 官网线索（不自动背书其他字段）：https://www.powertechcontrols.com
 - 精确同名同国别首次入库提交：`056617b9530f17c57af8eb262687ebbe0113daed`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@powertechcontrols.com；投递未测试。
+  - 说明：官网联系页给出info@powertechcontrols.com、1-800-938-6678与101 Christopher Street, Ronkonkoma, NY 11779，并列墨西哥授权代表Mindset Electronics（Guadalajara）为境外联络点；About页自述自1991年向全球市场分销电气/电子自动化控制与元件，服务行业含communications，另有Albany NY与Fitchburg MA分支；第三方目录同址同邮箱。主字段取info@；网站由裸域powertechcontrols.com规范为https://www.powertechcontrols.com。
+  - 保留原文：Contact页：Powertech Controls Co., Inc. 101 Christopher Street Ronkonkoma, NY 11779 1-800-938-6678 Info@powertechcontrols.com / Authorized Representative Mindset Electronics ... Guadalajara, Jal. Mexico；About页：... premier distributor of electrical and electronic automation controls & components to the global market since 1991 ... We also have locations in Albany, New York and Fitchburg, Massachusetts.；thepartsdirect：info@powertechcontrols.com
+  - [1](https://www.powertechcontrols.com/contact-us)
+  - [2](https://www.powertechcontrols.com/about-us)
+  - [3](https://thepartsdirect.com/powertechcontrols/linecard)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-314"></a>
 ## A-314 · Rogier Banis · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-590`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://ningaloo.cloud
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[14]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@ningaloo.nl；投递未测试。
+  - 说明：MikroTik顾问名录条目：Rogier Banis，MTCRE/MTCINE，Maurik，电话+31887777500，自述20+年LAN/WAN与无线点对点/点对多点经验，语言英/德/荷（名录内邮箱遮罩）。该号码与Maurik的Ningaloo Network Solutions B.V.（Doejenburg 211-b, 4021 HR）官网联系页+31 88 7777500完全一致，官网公布info@ningaloo.nl与WhatsApp链接，About页自述since 1996。据此把公司邮箱info@ningaloo.nl作为本行入口；姓名与公司为按电话+地址匹配的关联，不改变行内等级/编号/顺序。
+  - 保留原文：MikroTik顾问页：Rogier Banis MTCRE, MTCINE / Maurik, Netherlands / Over 20+ years experience in LAN and WAN networks ... Languages: English, German, Dutch / phone +31887777500 / email Email；Ningaloo联系页：Phone + 31 88 7777500 Click for WhatsApp / Email info@ningaloo.nl / Address Doejenburg 211-b 4021 HR Maurik the Netherlands；Telefoonboek：Ningaloo Network Solutions B.V., Doejenburg 211-b, 4021 HR Maurik, 088-7777500；About页：Ningaloo Network Solutions B.V.: Your partner for smart and secure IT solutions since 1996.
+  - [1](https://mikrotik.com/consultants/europe)
+  - [2](https://ningaloo.cloud/contact/)
+  - [3](https://www.telefoonboek.nl/bedrijven/t3375173/maurik/ningaloo-network-solutions-b.v./)
+  - [4](https://ningaloo.cloud/over-ningaloo/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-315"></a>
 ## A-315 · Roelof Daleboudt · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-591`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：roelof.daleboudt@ip-central.nl；投递未测试。
+  - 说明：MikroTik顾问名录条目仅城市Coevorden（邮箱遮罩）；本地线索：IP Central（RIPE登记“Roelof Daleboudt trading as IP Central”，AS207942，Coevorden 7741）为其经营的电信/IT服务商；zzpvastmobiel.nl（IP Central品牌）隐私政策写明“Roelof is bereikbaar via roelof.daleboudt@ip-central.nl of telefonisch via 088-4723636”；always-internet.nl经销商页亦写“bel Roelof Daleboudt voor een kennismaking op 088-4723636”。2025-07新闻：IP Central自2025-08-01并入Zwolle的NiceCloud（创始人Roelof Daleboudt署名引语），公司现状联系方式另可参考info@nicecloud.nl / 088 0400 900。ip-central.nl与nicecloud.nl/ipcentral均404，故网站字段留空。主字段取IP Central品牌页公布的个人邮箱；品牌与收购信息按关联记录，不并入主字段。
+  - 保留原文：zzpvastmobiel隐私政策：ZZP VastMobiel is een merknaam van IP Central ... Roelof is bereikbaar via roelof.daleboudt@ip-central.nl of telefonisch via 088-4723636；always-internet resellers页：Of bel Roelof Daleboudt voor een kennismaking op 088-4723636 / online [ at ] altijd-internet.nl；tbmnet新闻：Met ingang van 1 augustus 2025 sluit IP Central zich aan bij NiceCloud ... Roelof Daleboudt, oprichter van IP Central；RIPE注册：AS207942 Roelof Daleboudt trading as IP Central, Coevorden, Netherlands
+  - [1](https://zzpvastmobiel.nl/pp/)
+  - [2](https://www.altijd-internet.nl/resellers/)
+  - [3](https://tbmnet.nl/nicecloud-versterkt-positie-met-overname-ip-central/)
+  - [4](https://ips.osnova.news/isp/Roelof%20Daleboudt%20trading%20as%20IP%20Central/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-316"></a>
 ## A-316 · Davis Ulmer Family of Companies · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-787`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官方渠道名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.davisulmer.com
 - 精确同名同国别首次入库提交：`29edf4fbacec57568e2fa5c16dcafefd2b4eca31`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[16]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Allied Telesis伙伴页/经销商名录列Davis Ulmer Family of Companies（East Syracuse, NY；名录另有Fargo, North Dakota条目，等级Resell），伙伴页给6540 Old Collamer Rd S, East Syracuse NY 13057与+1 315-451-0971；官网Syracuse页给出7633 Edgecomb Drive, Liverpool NY 13088与24/7电话315-451-0971，官网通用联系为表单（须选分支/服务类型），未见公开邮箱；招聘页仅指向F.A.S.T联系人（邮箱遮罩）。本行维持leads-only并保留【待人工补信息】；未采信第三方邮箱格式站点的first.last@davisulmer.us推断。
+  - 保留原文：AT伙伴页：Davis Ulmer Family of Companies / 6540 Old Collamer Rd S / East Syracuse NY 13057 US / +1 315-451-0971；AT名录：Davis Ulmer Family of Companies — East Syracuse New York — Resell；— Fargo North Dakota — Resell；官网：24/7 Emergency Service Call 315-451-0971 / Our Location 7633 Edgecomb Drive Liverpool, NY 13088 / This form is for general inquiries only. If you require emergency assistance, please locate your nearest company office
+  - [1](https://www.alliedtelesis.com/us/en/davis-ulmer-family-companies)
+  - [2](https://www.alliedtelesis.com/us/en/resellers)
+  - [3](https://www.davisulmer.com/davis-ulmer-syracuse-location/)
+  - [4](https://www.davisulmer.com/contact-us/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-317"></a>
 ## A-317 · Shea Electric · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-799`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官方渠道名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://sheaelectricllc.com
 - 精确同名同国别首次入库提交：`29edf4fbacec57568e2fa5c16dcafefd2b4eca31`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@sheaelectricllc.com；投递未测试。
+  - 说明：官网联系页给出info@sheaelectricllc.com、920-303-9380、Fax 920-303-9410与3175 Atlas Avenue, Oshkosh, WI 54904；Focus on Energy效率项目trade ally页（第三方）另列项目协调员Craig Sheskey的csheskey@sheaelectricllc.com与营业Mon–Fri 9–5；行内原注为AT名录Resell。主字段取官网info@；csheskey@按第三方项目页候选记录，不并入主字段。
+  - 保留原文：官网Contact页：Shea Electric & Communications / 3175 Atlas Avenue Oshkosh, WI 54904 / Phone: 920-303-9380 Fax: 920-303-9410 Email: info@sheaelectricllc.com；Focus on Energy：Shea Electric & Communications LLC / 3175 ATLAS AVE OSHKOSH, WI 54904 / (920) 303-9380 csheskey@sheaelectricllc.com / Monday — Friday 9 AM — 5 PM
+  - [1](https://sheaelectricllc.com/contact/)
+  - [2](https://focusonenergy.com/trade-allies/shea-electric-communications-llc)
+  - [3](https://www.alliedtelesis.com/us/en/resellers)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-318"></a>
 ## A-318 · DeInta · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-806`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官方渠道名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.deinta.com
 - 精确同名同国别首次入库提交：`29edf4fbacec57568e2fa5c16dcafefd2b4eca31`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[18]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：deinta@deinta.com；投递未测试。
+  - 说明：官网联系页给出+34 976 798 180、C/ Bari 25 Duplicado, Plataforma Logística PLAZA, 50197 Zaragoza与personal@deinta.com；页脚给deinta@deinta.com；aviso legal载主体DEINTA SEGURIDAD SL、CIF B99060089、同址同电话，隐私页给DPO邮箱privacidad@deinta.com；Empresite同邮箱同电话；elioplus列为Zaragoza的Allied Telesis渠道伙伴（类别VOIP，产品3CX/Allied Telesis/Axis/HP）。主字段取deinta@deinta.com（页脚+法定告知一致）；personal@与privacidad@按用途候选记录，不并入主字段。
+  - 保留原文：联系页：C/ Bari 25 Duplicado, Plataforma Logística PLAZA, 50197 Zaragoza / TELEFONO +34 976 798 180 / E-mail: personal@deinta.com；页脚：DeInta ... deinta@deinta.com 976 798 180；Aviso legal：Razón Social: DEINTA SEGURIDAD SL ... C.I.F.: B99060089 Teléfono: 976 79 81 80 ... PRIVACIDAD@DEINTA.COM；elioplus：### DeInta #### Spain #### Zaragoza / Categories: VOIP / Products: 3CX Allied Telesis Axis HP
+  - [1](https://www.deinta.com/contact-us.html)
+  - [2](https://deinta.com/index.php/aviso-legal/)
+  - [3](https://elioplus.com/europe/spain/channel-partners/allied_telesis)
+  - [4](https://empresite.eleconomista.es/DEINTA-SEGURIDAD.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-319"></a>
 ## A-319 · Nexus Technology · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-807`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官方渠道名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.nexus.com.pe
 - 精确同名同国别首次入库提交：`29edf4fbacec57568e2fa5c16dcafefd2b4eca31`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A300-A319.json` → `records[19]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：ventas@nexus.com.pe；投递未测试。
+  - 说明：行内网站字段为空、来源为elioplus渠道库；elioplus的Allied Telesis伙伴列表把“Nexus Technology”标注为Peru（类别含Alarms & Automation / CCTV / Collaboration / Cybersecurity），本轮对应到秘鲁批发分销商Nexus Technology S.A.C.（RUC 20267178331，Av. Ricardo Palma 693, Miraflores, Lima；1995年注册，自述26–30年，覆盖网络/结构化布线/安全/数据中心，官方商城制造商列表含Allied Telesis）。官方联系页给ventas@nexus.com.pe（另有ventastrujillo@ / ventasarequipa@与servicioalcliente@）、+(511) 617 0400、WhatsApp +51 963 749 700。注意：本行CSV国家字段为“西班牙”，与elioplus标注的Peru及找到的实体均不符——按不擅改原则保留原字段与编号，仅在备注标注“国别待人工确认”；若确认实为秘鲁实体，则与既有欧盟+北美地域口径不符，需人工决定去留（本轮不改等级/顺序）。
+  - 保留原文：elioplus：### Nexus Technology #### Peru / Categories: Alarms & Automation CCTV Video Surveillance Collaboration Cybersecurity；Nexus联系页：Central +(511) 617 0400 / Whatsapp +(51) 963 749 700 / Ventas Lima o caso general: ventas@nexus.com.pe / Ventas para el Norte del Perú: ventastrujillo@nexus.com.pe / Ventas para el Sur del Perú: ventasarequipa@nexus.com.pe / Oficina Av. Ricardo Palma 693, Miraflores Lima 15047 - Perú；制造商列表：2. Allied Telesis
+  - [1](https://elioplus.com/profile/channel-partners/allied_telesis)
+  - [2](https://store.nexus.com.pe/contactanos)
+  - [3](https://www.nexus.com.pe/todos.html?manufacturer=6818)
+  - [4](https://www.datosperu.org/empresa-nexus-technology-sac-20267178331.php)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-320"></a>

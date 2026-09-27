@@ -7,27 +7,33 @@
 
 - 仓库：`SimonSaga-202306/mikrotik-info`；工作目录 `/home/user/mikrotik-info`。
 - 唯一工作分支：`arena/01a0c3ef-mikrotik-info`。不得切分支、推其他分支。
-- 本轮基线：`43af7ec`（治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
+- 本轮基线：`7814c34`（治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
 - 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A378/B344/C311**。
 - `档案编号`当前零基列19、`C级细分`20、`人工定级`21；写代码按表头定位，不硬猜。
 - `profile/A/`378、`profile/B/`344、`profile/C/`311。编号和CSV物理顺序均冻结。
-- 下一新增或升级A：**A379**。当前研究下一位：**A300**（A280–A299已完成）。
+- 下一新增或升级A：**A379**。当前研究下一位：**A320**（A300–A319已完成）。
 
 ## 当前任务与顺序
 
-1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A299；不等于全部A已完成。
+1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A319；不等于全部A已完成。
 2. **全部A完成后**，再仔细复筛B/C，升级A只接末尾。
-3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但843条客户没有逐项证据URL，其他190条也只是有结构化联络记录，不是全字段认证。
+3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但823条客户没有逐项证据URL，其他210条也只是有结构化联络记录，不是全字段认证。
 
 ### 最近批次
 
-- **A280–A299（本轮）**：11条官网/官方结构化数据/官方登记邮箱（A292为账单专用弱通道、A291含RIPE注册次级地址、A282含第三方分地址）、1条第三方目录结构化数据后仍无正文邮箱（A281）、8条leads-only保留原电话。两份xlsx同步至A299；技术栈/策略/邮件逐字不变。
+- **A300–A319（本轮）**：18条官网/官方结构化数据/官方登记邮箱（A301仅社媒信箱、A316无公开邮箱，两条leads-only；A307为官网培训页商务信箱、A315为品牌页隐私政策公布邮箱、A319国别待人工确认）、15条移除「待人工补信息」标注、2条保留（A301/A316）。两份xlsx同步至A319；技术栈/策略/邮件逐字不变。
+  - A300：info@gbeconverge.com（AT Platinum、隶属Mitie；荷兰EMEA邮箱info@gbeconvergebv.com次级）。A302：contact@accyotta.com（help@支持同站）。A303：info@trusol.com（Electracom Projects Ltd为另一家，不合并）。A304：sales@euroele.com（techsupport@技术）。
+  - A305：info@quadratek.net（主体PH15 Ventures Ltd）。A306：enquiries@holkerit.co.uk（AT UK Partner of the Year+Platinum；次级reassuringit@/support@）。A307：ec@bluebearsit.com（官网培训页商务信箱；第三方contact@/cg@仅候选）。A311：sales@fikesmedia.com。
+  - A308：contact@itni.fr（官网反诈提示供应商往来须先电话）。A309：info@gci.it（米兰/罗马/Lacchiarella，本行城市对应罗马办公室）。A310：office@ittrust.at（无HTTPS旧站+FirmenABC登记Andreas Smeczka）。A312：info@atlantikelektronik.com（Lantronix获奖分销，Planegg）。A313：info@powertechcontrols.com（Ronkonkoma NY）。
+  - A314：info@ningaloo.nl（顾问名录电话与Maurik公司官网电话一致）。A315：roelof.daleboudt@ip-central.nl（品牌页隐私政策公布；2025-08并入NiceCloud）。A317：info@sheaelectricllc.com（第三方项目页csheskey@候选）。A318：deinta@deinta.com（CIF B99060089；DPO privacidad@）。A319：ventas@nexus.com.pe（elioplus标注Peru，本行原为西班牙，国别待人工确认，未改字段/编号）。
+  - A301/A316：无官网页邮箱，保留原电话与「待人工补信息」；A301的social@3tec.co.uk仅为社媒信箱，A316不采信第三方邮箱格式站点推断。
+- 上一批：A280–A299：11条官网/官方结构化数据/官方登记邮箱（A292为账单专用弱通道、A291含RIPE注册次级地址、A282含第三方分地址）、1条第三方目录结构化数据后仍无正文邮箱（A281）、8条leads-only保留原电话。两份xlsx同步至A299；技术栈/策略/邮件逐字不变。
   - A280：官网联系页sales@/info@/accounting@/orders@四入口；Deliberant经销页另给invictusnetworks.com候选域名，不并入主字段。A281：Manta结构化数据给地址/电话/sameAs，站点抓取失败+Wayback 429，无邮箱。
   - A282：官网info@berdin.com+Belartza地址；madrid@/berdinonline/agil第三方分地址次级留档。A283：Jellyfish Broadband官网结构化数据hello@+0800电话；Companies House 15800355与ICO ZB722352互证自营WISP身份。
   - A285/A286/A287/A288：官网 info@dael.com、info@sdc.nl（verkoop@/support@同站）、info@gewoon-it.nl、klima@wifiprofi.cz（Kryštof Klíma，TR0001）。A291：info@adeodc.dk，RIPE另列ms@adeodc.dk。A294：ISP Supplies官方页sales@（mywisptraining本轮522，info@仅索引待核）。
   - A299：info@sn-solution.hu；匈牙利公司登记显示Bacskai Antal Gábor为该公司ügyvezető（名录人士即公司负责人）。A292：官网只有billing@panorafiber.com（注明非24/7），技术/采购邮箱仍缺。
   - A284/A289/A290/A293/A295/A296/A297/A298：遮罩邮箱或无可归属主体，保留原电话；遮罩与第三方拼接候选（A290 hotmail/gmail/borderstates、A294 sdischer@）不采信；同名外部主体（A293 prado.consulting/mikrohelp、A296、A297、A298）不冒用。
-- 上一批：A260–A279：16条官网/关联机构正文邮箱（含1条可逆(at)/(dot)、1条历史具名仅存档）、1条官网搜索索引待核、1条第三方目录结构化数据、2条仍无匹配邮箱。两份xlsx同步至A279；技术栈/策略/邮件逐字不变。
+- 更早批次：A260–A279：16条官网/关联机构正文邮箱（含1条可逆(at)/(dot)、1条历史具名仅存档）、1条官网搜索索引待核、1条第三方目录结构化数据、2条仍无匹配邮箱。两份xlsx同步至A279；技术栈/策略/邮件逐字不变。
   - A260：官网联系页info@与Haarlem地址、电话；LinkedIn/案例确认Maurice与GPE Networks；库内B-440同名同公司只关联不合并。A261：IP Techniek官网sales@，LinkedIn显示本人任职与Bladel一致。
   - A262：官方课程表确认里斯本培训伙伴；邮箱仅搜索索引且课程页404，标注待核。A263：官网可逆(at)/(dot)+sales@；旧电话与官网不同不改写客户字段。
   - A264/A265：官网 enquiries@ / sales@sphinxfrance.fr，与Perle名录地址一致；部门邮箱分层记录。A266：支持页supportdesk@、首页结构化sales@，2018 MUM的andy@仅历史。
@@ -35,7 +41,7 @@
   - A271：LinkedIn显示任职Interstellar并做MTPC 2026 spine-leaf演讲；官网集团邮箱info@；名录城市与LinkedIn所在地不同不改城市。
   - A273：官网 consulting@（原样含空格）；kevin.myers@仅2016 MUM PDF，历史具名。A274/A275/A276/A277：官网 info@joustsec.com、info@canservers.com、sales@neobits.com、contact@modelec.nl。
   - A272：官方名录邮箱为遮罩，保留原电话/WhatsApp，原“补邮箱”标注保留。A278：官网邮箱被遮罩，sales@仅有第三方目录支持，按public-register。A279：站点现为占位页、/contact-us/ 404，无邮箱，保留原电话。
-- 上一批：A240–A259：14条官网/关联机构正文邮箱、2条公共登记、1条官网搜索待核；2条仅仓库旧邮箱未外部确认、1条仍无匹配邮箱/域名；两份xlsx同步至A259。
+- 更早批次：A240–A259：14条官网/关联机构正文邮箱、2条公共登记、1条官网搜索待核；2条仅仓库旧邮箱未外部确认、1条仍无匹配邮箱/域名；两份xlsx同步至A259。
   - A240：AULAF现admin邮箱；Khalil具名邮箱只在旧页索引，旧页404。A241官网具名m.polainer；另存采购主管公开入口，不推断愿采购。
   - A242：MWTC info及Michał/Piotr具名入口。A243/A252：CS EDU两种法律主体，分别取个人经营者/公司的PARP登记；不合并不同人/实体。
   - A244/A245/A246/A248/A250：有当前公司邮箱，但个人关联依赖历史、目录或原电话交叉，具体限制各条保留，不当现任职认证。
@@ -44,8 +50,9 @@
   - A251：旧batch/hu.json/B083同名音符差异+同电话+旧邮箱；网站403，未外部确认，旧邮箱未加入主联系字段。
   - A253：Noriak旧域503、分销旧页跳首页，邮箱仅搜索索引；Canyon伙伴页502。A258：没有匹配邮箱/域名；排除Chicago招聘经理/演员，同名不冒用。MikroTik动态目录外壳不等于除名。
   - A259：官网确认Henk/MikroTrain；现隐私页及2023PDF邮箱，关联B443，仅记录不合并。
-- 本轮证据：`batch/contact_research_2026-09-27_A280-A299.json`、[核验说明](docs/audit/2026-09-27_A280-A299联络核验.md)；R43已入唯一要求总账，精确消息时间未知。
-- 上批证据：`batch/contact_research_2026-09-27_A260-A279.json`（A260–A279）。
+- 本轮证据：`batch/contact_research_2026-09-27_A300-A319.json`、[核验说明](docs/audit/2026-09-27_A300-A319联络核验.md)；R44已入唯一要求总账，精确消息时间未知。
+- 上批证据：`batch/contact_research_2026-09-27_A280-A299.json`（A280–A299）。
+- 更早批次证据：`batch/contact_research_2026-09-27_A260-A279.json`（A260–A279）。
 - 更早批次证据：`batch/contact_research_2026-09-27_A240-A259.json`（A240–A259）。
 
 - A210–A239（更早批次）：**22当前官网/商城正文 / 2协会或公共登记 / 2旧官方PDF / 2官网搜索索引 / 1身份城市待核 / 1仅电话线索**。该批两份xlsx同步到A239。

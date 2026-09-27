@@ -17,20 +17,20 @@
 | 公司名 | Atlantik Elektronik |
 | 国家 | 德国 |
 | 城市 | — |
-| 网站 | atlantikelektronik.com |
+| 网站 | https://www.atlantikelektronik.com |
 | 类型 | 分销（Lantronix 授权） |
 | 反向信号 | Lantronix（Marvell 生态，工业 IoT/边缘） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官网分销页（当前） |
-| 原备注 | Lantronix 授权分销，官网自述提供**全线产品 + design-in 支持**，可协助把嵌入式模块与网络产品整合进标准或定制项目。亦经营 atestore.de 电商。 |
+| 原备注 | Lantronix 授权分销，官网自述提供**全线产品 + design-in 支持**，可协助把嵌入式模块与网络产品整合进标准或定制项目。亦经营 atestore.de 电商。 【2026-09-27 A300–A319联络核验】来源等级：official-company。自营电商atestore的Lantronix专页与获奖新闻给info@atlantikelektronik.com、+49 89 89 505 0；Lantronix多年获奖分销（2022 EMEA Partner of the Year），总部Planegg。 证据：[1](https://www.atestore.de/en/lantronix/) [2](https://bcdatlantik.co.uk/en/news/atlantik-elektronik-becomes-emea-distributor-partner-of-the-year-again) [3](https://www.atestore.de/en/info/ate-services.html) [4](https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/exhibitordetails/atlantik-elektronik-gmbh/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-312 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 atlantikelektronik.com/en/manufacturer/lantronix-distributor
+- **邮箱**：info@atlantikelektronik.com
+- **电话**：+49 89 89 505 0
+- **原始联系字段**：info@atlantikelektronik.com（atestore Lantronix专页联系信息）；+49 89 89 505 0；Lantronix授权分销页：atestore.de/en/lantronix/
 
 ## 四、品牌与技术栈
 

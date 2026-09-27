@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | DeInta |
 | 国家 | 西班牙 |
 | 城市 | Zaragoza |
-| 网站 | — |
+| 网站 | https://www.deinta.com |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis + Axis + 3CX + HP |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 西班牙 Zaragoza，VOIP 与网络。 |
+| 原备注 | 西班牙 Zaragoza，VOIP 与网络。 【2026-09-27 A300–A319联络核验】来源等级：official-company。官网联系页给+34 976 798 180、Zaragoza PLAZA地址与personal@deinta.com；页脚/法定告知给deinta@deinta.com、CIF B99060089；DPO邮箱privacidad@deinta.com；elioplus列VOIP/AT渠道伙伴。 证据：[1](https://www.deinta.com/contact-us.html) [2](https://deinta.com/index.php/aviso-legal/) [3](https://elioplus.com/europe/spain/channel-partners/allied_telesis) [4](https://empresite.eleconomista.es/DEINTA-SEGURIDAD.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-318 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 elioplus 渠道库
+- **邮箱**：deinta@deinta.com、联系页另列personal@deinta.com、privacidad@deinta.com
+- **电话**：+34 976 798 180
+- **原始联系字段**：deinta@deinta.com（官网页脚+法定告知；联系页另列personal@deinta.com、DPO privacidad@deinta.com）；+34 976 798 180
 
 ## 四、品牌与技术栈
 

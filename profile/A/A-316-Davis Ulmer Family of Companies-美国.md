@@ -27,20 +27,20 @@
 | 公司名 | Davis Ulmer Family of Companies |
 | 国家 | 美国 |
 | 城市 | East Syracuse, NY / Fargo, ND |
-| 网站 | — |
+| 网站 | https://www.davisulmer.com |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 多地经营。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 多地经营。 【2026-09-27 A300–A319联络核验】来源等级：leads-only。AT伙伴页/名录列East Syracuse NY与Fargo ND（Resell）、电话+1 315-451-0971；官网仅表单（须选分支）、未见公开邮箱。仍缺邮箱，保留人工补信息提示。 证据：[1](https://www.alliedtelesis.com/us/en/davis-ulmer-family-companies) [2](https://www.alliedtelesis.com/us/en/resellers) [3](https://www.davisulmer.com/davis-ulmer-syracuse-location/) [4](https://www.davisulmer.com/contact-us/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-316 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 代理商名录
+- **电话**：+1 315-451-0971
+- **原始联系字段**：+1 315-451-0971（官网Syracuse 24/7电话）；官网通用联系为表单（须选分支）：davisulmer.com/contact-us；未见公开邮箱；本轮保留人工补信息标注
 
 ## 四、品牌与技术栈
 

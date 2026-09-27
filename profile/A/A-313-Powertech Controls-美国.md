@@ -17,20 +17,20 @@
 | 公司名 | Powertech Controls |
 | 国家 | 美国 |
 | 城市 | — |
-| 网站 | powertechcontrols.com |
+| 网站 | https://www.powertechcontrols.com |
 | 类型 | 分销（Hirschmann 授权） |
 | 反向信号 | Hirschmann（Belden 工业接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商渠道页（当前） |
-| 原备注 | Hirschmann 授权分销商，同时做自动化与网络技术服务。 |
+| 原备注 | Hirschmann 授权分销商，同时做自动化与网络技术服务。 【2026-09-27 A300–A319联络核验】来源等级：official-company。官网联系页给info@powertechcontrols.com、1-800-938-6678与Ronkonkoma NY；About页自述1991年起分销自动化控制与元件，另有Albany NY/Fitchburg MA分支。 证据：[1](https://www.powertechcontrols.com/contact-us) [2](https://www.powertechcontrols.com/about-us) [3](https://thepartsdirect.com/powertechcontrols/linecard) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-313 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 powertechcontrols.com
+- **邮箱**：info@powertechcontrols.com
+- **电话**：1-800-938-6678
+- **原始联系字段**：info@powertechcontrols.com（官网联系页）；1-800-938-6678；官网：powertechcontrols.com/contact-us
 
 ## 四、品牌与技术栈
 
