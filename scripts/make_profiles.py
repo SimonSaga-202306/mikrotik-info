@@ -122,9 +122,30 @@ def main():
         if m:
             siblings[r[0]] = m.group(1)
 
+    # 档案编号持久化：编过的号永不重排，新客户往后追加（用户正在按编号跟进，不能打乱）
+    NUMCOL = hdr.index("档案编号")
+    def num_of(r):
+        m = re.match(r'[ABC]-(\d+)$', (r[NUMCOL] or "").strip())
+        return int(m.group(1)) if m else None
+    # 第一遍：收集已用编号，算出各级最大号
+    used = {g: set() for g in "ABC"}
+    for r in data:
+        n = num_of(r)
+        if n: used[r[17]].add(n)
+    nxt = {g: (max(used[g]) if used[g] else 0) for g in "ABC"}
+    # 第二遍：给没编号的行从最大号往后追加，并写回 CSV
+    assigned = 0
+    for r in data:
+        if num_of(r): continue
+        nxt[r[17]] += 1
+        r[NUMCOL] = "%s-%03d" % (r[17], nxt[r[17]])
+        assigned += 1
+    if assigned:
+        with open(CSV, "w", encoding="utf-8-sig", newline="") as f:
+            w_ = csv.writer(f); w_.writerow(hdr); w_.writerows(data)
+        print("assigned %d new 档案编号 (appended at the end)" % assigned)
     order = {"A": 0, "B": 1, "C": 2}
-    data.sort(key=lambda r: (order.get(r[17], 9), r[1], r[0]))
-    idx = defaultdict(int)
+    data.sort(key=lambda r: (order.get(r[17], 9), num_of(r) or 99999))
     made = []
 
     for r in data:
@@ -133,8 +154,7 @@ def main():
         contact, prio, status, src = r[9], r[10], r[11], r[12]
         note, grade, why = r[16], r[17], r[18]
 
-        idx[grade] += 1
-        code = "%s-%03d" % (grade, idx[grade])
+        code = (r[NUMCOL] or "").strip() or grade
         fname = "%s-%s-%s.md" % (code, safe(name), safe(country))
         path = os.path.join(DIR, fname)
 
