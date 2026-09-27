@@ -34,7 +34,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方顾问名录（Christopher Schiessl, MTCRE/MTCTCE, Minot ND, 7018585464, iMessage/LINE 7018330464）与培训伙伴页（+1 701 833 0464）均只给遮罩Email；第三方聚合站候选邮箱与遮罩形态矛盾，不采信。 证据：[1](https://mikrotik.com/consultants/north-america) [2](https://mikrotik.com/training/partners) [3](https://contactout.com/Chris-Schiessl-16784439) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-290 |
 
 ## 三、人员与联系方式
 

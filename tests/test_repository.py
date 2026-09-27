@@ -17,8 +17,8 @@ from make_profiles import emails, without_contact_evidence
 from numbering import renumber
 
 CSV = '客户名单_反向信号_2026-09.csv'
-BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A279 contact-only allowance.
-CONTACT_BASELINE = '6422381'  # Before R42; only A260–A279 may change this round.
+BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A299 contact-only allowance.
+CONTACT_BASELINE = '43af7ec'  # Before R43; only A280–A299 may change this round.
 
 
 def git_file(path):
@@ -41,7 +41,7 @@ class RepositoryTests(unittest.TestCase):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
         identity = lambda r: (r['档案编号'], r['公司名'], r['国家'], r['评级'])
         self.assertEqual(list(map(identity, baseline)), list(map(identity, self.rows)))
-        targets = {f'A-{n:03}' for n in range(200, 280)}
+        targets = {f'A-{n:03}' for n in range(200, 300)}
         for before, after in zip(baseline, self.rows):
             if before['档案编号'] not in targets:
                 self.assertEqual(before, after)
@@ -98,7 +98,7 @@ class RepositoryTests(unittest.TestCase):
             self.assertEqual((e['name'], e['country']), (row['公司名'], row['国家']))
             doc = (ROOT / f'docs/evidence/客户溯源_{e["grade"]}.md').read_text()
             self.assertIn(f'id="{e["code"]}"', doc)
-        for low, high in [(200, 210), (210, 240), (240, 260), (260, 280)]:
+        for low, high in [(200, 210), (210, 240), (240, 260), (260, 280), (280, 300)]:
             path = ROOT / f'batch/contact_research_2026-09-27_A{low}-A{high-1}.json'
             batch = json.loads(path.read_text())['records']
             self.assertEqual([r['code'] for r in batch], [f'A-{n:03}' for n in range(low, high)])
@@ -115,7 +115,7 @@ class RepositoryTests(unittest.TestCase):
         def old(path):
             return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
         baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
-        targets = {f'A-{n:03}' for n in range(260, 280)}
+        targets = {f'A-{n:03}' for n in range(280, 300)}
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
             for k in self.header:
@@ -161,7 +161,7 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(without_contact_evidence(note), '伙伴等级：Resell。')
         self.assertEqual(without_contact_evidence('legacy campus customer'), 'legacy campus customer')
         for p in (ROOT / 'profile/A').glob('A-*.md'):
-            if not 210 <= int(p.name[2:5]) < 280:
+            if not 210 <= int(p.name[2:5]) < 300:
                 continue
             old = subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{p.relative_to(ROOT)}'], cwd=ROOT).decode()
             marker = '## 四、品牌与技术栈'
@@ -230,6 +230,48 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn(f'batch/contact_research_2026-09-27_A260-A279.json#{r["code"]}',
                           self.by_code[r['code']]['备注'])
 
+    def test_r43_official_sources_and_unresolved_mailboxes(self):
+        records = json.loads((ROOT / 'batch/contact_research_2026-09-27_A280-A299.json').read_text())['records']
+        by_code = {r['code']: r for r in records}
+        self.assertEqual([r['code'] for r in records], [f'A-{n:03}' for n in range(280, 300)])
+        self.assertEqual(sum(bool(r['email']) for r in records), 11)
+        self.assertEqual(sum(r['level'] == 'official-company' for r in records), 11)
+        for code in ['A-281', 'A-284', 'A-289', 'A-290', 'A-293', 'A-295', 'A-296', 'A-297', 'A-298']:
+            self.assertEqual(by_code[code]['level'], 'leads-only')
+            self.assertFalse(by_code[code]['email'])
+            self.assertEqual(self.by_code[code]['网站'], '')
+            profile = next((ROOT / 'profile/A').glob(code + '-*.md')).read_text()
+            self.assertIn('- **邮箱**：—\n', profile)
+            self.assertIn('来源等级：leads-only', profile)
+        for code in ['A-289', 'A-290', 'A-293', 'A-295', 'A-296', 'A-297', 'A-298']:
+            self.assertIn('待人工补信息', self.by_code[code]['备注'])
+        self.assertEqual(by_code['A-292']['level'], 'official-company')
+        self.assertIn('billing@panorafiber.com', self.by_code['A-292']['入口/联系方式'])
+        self.assertIn('非24/7', self.by_code['A-292']['入口/联系方式'])
+        self.assertIn('待人工补信息', self.by_code['A-292']['备注'])
+        self.assertIn('Netonix', self.by_code['A-280']['备注'])
+        self.assertIn('同芯片', self.by_code['A-280']['备注'])
+        for code, site in [('A-280', 'https://www.invictuswireless.com'),
+                           ('A-283', 'https://www.jellyfishbroadband.com'),
+                           ('A-285', 'https://www.dael.com'),
+                           ('A-288', 'https://www.wifiprofi.cz'),
+                           ('A-291', 'https://adeodc.com'),
+                           ('A-299', 'http://sn-solution.hu')]:
+            self.assertEqual(self.by_code[code]['网站'], site)
+        self.assertIn('hello@jellyfishbroadband.com', self.by_code['A-283']['入口/联系方式'])
+        self.assertIn('klima@wifiprofi.cz', self.by_code['A-288']['入口/联系方式'])
+        self.assertIn('info@sn-solution.hu', self.by_code['A-299']['入口/联系方式'])
+        self.assertIn('ms@adeodc.dk', self.by_code['A-291']['入口/联系方式'])
+        for code in ['A-290', 'A-292', 'A-295']:
+            self.assertIn('遮罩', self.by_code[code]['备注'])
+        self.assertIn('第三方', self.by_code['A-294']['备注'])
+        self.assertIn('RIPE', by_code['A-291']['note'])
+        self.assertTrue(by_code['A-281']['local_sources'])
+        for r in records:
+            self.assertIn('来源等级：', self.by_code[r['code']]['备注'])
+            self.assertIn(f'batch/contact_research_2026-09-27_A280-A299.json#{r["code"]}',
+                          self.by_code[r['code']]['备注'])
+
     def test_office_exports_preserve_base_fields(self):
         from openpyxl import load_workbook
         paths = ['客户分级跟进表_2026-09.xlsx', 'MikroTik_vs_SmartByte_替代对照表.xlsx']
@@ -261,9 +303,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 43):
+        for n in range(1, 44):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 43)  # 42 + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 44)  # 43 + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
@@ -280,7 +322,8 @@ class RepositoryTests(unittest.TestCase):
         sample = [self.by_code['A-001'], self.by_code['B-001'], self.by_code['C-001'],
                   self.by_code['A-222'], self.by_code['A-233'], self.by_code['A-249'],
                   self.by_code['A-251'], self.by_code['A-258'], self.by_code['A-272'],
-                  self.by_code['A-279']]
+                  self.by_code['A-279'], self.by_code['A-281'], self.by_code['A-292'],
+                  self.by_code['A-299']]
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
             with (root / CSV).open('w', encoding='utf-8-sig', newline='') as f:
@@ -291,7 +334,8 @@ class RepositoryTests(unittest.TestCase):
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             p = next((root / 'profile/C').glob('*.md'))
             self.assertIn(f'C 级细分：`{sample[2]["C级细分"]}`', p.read_text())
-            for code in ['A-222', 'A-233', 'A-249', 'A-251', 'A-258', 'A-272', 'A-279']:
+            for code in ['A-222', 'A-233', 'A-249', 'A-251', 'A-258', 'A-272', 'A-279',
+                         'A-281', 'A-292', 'A-299']:
                 generated = next((root / 'profile/A').glob(code + '-*.md'))
                 checked = next((ROOT / 'profile/A').glob(code + '-*.md'))
                 self.assertEqual(generated.read_bytes(), checked.read_bytes())

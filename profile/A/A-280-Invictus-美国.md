@@ -17,20 +17,20 @@
 | 公司名 | Invictus |
 | 国家 | 美国 |
 | 城市 | Tigard, OR |
-| 网站 | — |
+| 网站 | https://www.invictuswireless.com |
 | 类型 | WISP 集成商/代理（Netonix） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A280–A299联络核验】来源等级：official-company。官网联系页正文给sales@/info@/accounting@/orders@invictuswireless.com、1.503.635.2562 x1与17435 Wren Ct地址；Deliberant北美经销页把Invictus Networks列为美加authorized reseller并给sales@invictusnetworks.com。该行为2026-09-23保留的Netonix豁免行，本轮不改等级与话术。 证据：[1](https://www.invictuswireless.com/Contact-Us-s/89.htm) [2](https://deliberant.com/north-america) [3](https://www.facebook.com/InvictusWireless/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-280 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@invictuswireless.com、sales@invictusnetworks.com
 - **电话**：1-503-635-2562
-- **原始联系字段**：1-503-635-2562
+- **原始联系字段**：sales@invictuswireless.com（官网联系页正文；同页另有info@/accounting@/orders@分工邮箱；未测试投递）；候选：sales@invictusnetworks.com（Deliberant北美经销页，同一实体待核）；原入口：1-503-635-2562
 
 ## 四、品牌与技术栈
 

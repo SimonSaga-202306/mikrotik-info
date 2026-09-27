@@ -34,7 +34,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。名录标注为美国加州，但联系方式为巴拉圭号，国别待核实。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。名录标注为美国加州，但联系方式为巴拉圭号，国别待核实。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方名录列MTCRE、La Habra CA与+595 974 202030（WhatsApp，国别待核）；LinkedIn同名显示Mikro-Help。prado.consulting与mikrohelp.com两个同姓主体无法与名录行建立同一人证据，不并入。邮箱仍缺。 证据：[1](https://mikrotik.com/consultants/north-america) [2](https://www.linkedin.com/in/hector-prado-98896aa4/) [3](https://prado.consulting/) [4](https://www.mikrohelp.com/soporte-mikrotik/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-293 |
 
 ## 三、人员与联系方式
 

@@ -17,20 +17,20 @@
 | 公司名 | Jake Louis Petre Woodhouse |
 | 国家 | 英国 |
 | 城市 | Driffield |
-| 网站 | — |
+| 网站 | https://www.jellyfishbroadband.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCINE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 自述做有线无线网络设计施工、防火墙、路由、**交换**、VLAN、服务器运维，兼做 ISP 服务与专线。 |
+| 原备注 | 自述做有线无线网络设计施工、防火墙、路由、**交换**、VLAN、服务器运维，兼做 ISP 服务与专线。 【2026-09-27 A280–A299联络核验】来源等级：official-company。Jellyfish Broadband官网About页结构化数据给hello@jellyfishbroadband.com与0800 8620 308；Companies House 15800355（有线/无线电信+IT咨询，officers含PETRE WOODHOUSE Jake Louis）与ICO ZB722352互证其为自营WISP。 证据：[1](https://www.jellyfishbroadband.com/about-us/) [2](https://find-and-update.company-information.service.gov.uk/company/15800355/officers) [3](https://ico.org.uk/ESDWebPages/Entry/ZB722352) [4](https://www.linkedin.com/in/jake-woodhouse-49a258a1/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-283 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：hello@jellyfishbroadband.com
 - **电话**：07514 949540
-- **原始联系字段**：07514 949540
+- **原始联系字段**：hello@jellyfishbroadband.com（官网About页结构化数据；未测试投递）；原入口：07514 949540
 
 ## 四、品牌与技术栈
 

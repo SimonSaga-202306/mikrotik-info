@@ -17,20 +17,20 @@
 | 公司名 | Berdin Grupo |
 | 国家 | 西班牙 |
 | 城市 | — |
-| 网站 | — |
+| 网站 | https://www.berdin.com |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis + Bosch + Comnet + Genetec + Hanwha + Commscope + Fortinet |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | 西班牙，覆盖照明/楼控、电气、安防、工业自动化、通信与能源。 |
+| 原备注 | 西班牙，覆盖照明/楼控、电气、安防、工业自动化、通信与能源。 【2026-09-27 A280–A299联络核验】来源等级：official-company。官网联系页正文给info@berdin.com、943 369 394与Belartza工业区地址；第三方目录另列madrid@／info@berdinonline.com／agil@三个分地址（次级入口）。 证据：[1](https://www.berdin.com/contacto) [2](https://www.aqiveo.com/empresa/berdin-grupo) [3](https://www.berdinonline.com/contacto) [4](https://www.datacentermarket.es/empresas/berdin) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-282 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@berdin.com、madrid@berdin.com、info@berdinonline.com、agil@berdin.com
 - **电话**：—
-- **原始联系字段**：见 elioplus 渠道库
+- **原始联系字段**：info@berdin.com（官网联系页正文；未测试投递）；分地址：madrid@berdin.com／info@berdinonline.com／agil@berdin.com（第三方目录）；原入口：见 elioplus 渠道库
 
 ## 四、品牌与技术栈
 

@@ -9288,10 +9288,47 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-587",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.dael.com",
+    "record_urls": [
+      "https://www.dael.com/nl/contact",
+      "https://www.binnenbereik.nl/over-ons/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-285",
+        "name": "Corné Van Halteren",
+        "country": "荷兰",
+        "city": "Maasdijk",
+        "email": "info@dael.com",
+        "site": "https://www.dael.com",
+        "level": "official-company",
+        "note": "DAEL官网联系页正文与JSON-LD给出info@dael.com、Honderdland 1001, 2676 LV Maasdijk、0174-523921与KvK 27276137；页面按专业列出DAEL Technisch Beheer (+31 174 528 854)、DAEL Telecom (+31 174 725 501)、DAEL Connectivity (+31 85 079 59 00)。binnenbereik.nl公开页显示Corné van Halteren在DAEL Connectivity负责customer solutions。属网络/电信工程与集成商，公司邮箱不等于个人直邮。",
+        "quote": "dael.com/nl/contact正文：Honderdland 1001, 2676 LV Maasdijk; 0174 - 523 921; info@dael.com; DAEL Groep KvK 27276137 / JSON-LD：{\"name\":\"DAEL Groep\",\"email\":\"info@dael.com\",\"telephone\":\"+31 (0)174 52 39 21\"} / binnenbereik.nl：Corné van Halteren verantwoordelijk voor klantoplossingen bij DAEL Connectivity",
+        "sources": [
+          [
+            1,
+            "https://www.dael.com/nl/contact"
+          ],
+          [
+            2,
+            "https://www.binnenbereik.nl/over-ons/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[5]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "68243e3a785696f5adc6ae9c355e88d114be7763",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9303,10 +9340,47 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-588",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.sdc.nl",
+    "record_urls": [
+      "https://www.sdc.nl/",
+      "https://www.channelconnect.nl/wp-content/uploads/2019/10/ChannelConnect-2019-programma.pdf"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-286",
+        "name": "Aris Vink",
+        "country": "荷兰",
+        "city": "Doetinchem",
+        "email": "info@sdc.nl",
+        "site": "https://www.sdc.nl",
+        "level": "official-company",
+        "note": "sdc.nl官网给出info@、verkoop@、support@sdc.nl三个邮箱与0314 371111 / 0314 371150 / 0314 371160、Havenstraat 39, Doetinchem地址；主字段取info@。ChannelConnect 2019会议资料PDF把Aris Vink列为SDC pre-sales manager，并提到其产品线含Ubiquiti与MikroTik；属分销/集成商，公司邮箱不等于个人直邮。",
+        "quote": "sdc.nl：info@sdc.nl / verkoop@sdc.nl / support@sdc.nl；0314 371111 / 150 / 160；Havenstraat 39, Doetinchem / ChannelConnect 2019 PDF：Aris Vink, pre-sales manager SDC",
+        "sources": [
+          [
+            1,
+            "https://www.sdc.nl/"
+          ],
+          [
+            2,
+            "https://www.channelconnect.nl/wp-content/uploads/2019/10/ChannelConnect-2019-programma.pdf"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[6]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "68243e3a785696f5adc6ae9c355e88d114be7763",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9318,10 +9392,47 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-589",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://gewoon-it.nl",
+    "record_urls": [
+      "https://gewoon-it.nl/",
+      "https://www.linkedin.com/in/rene-dirks/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-287",
+        "name": "Rene Dirks",
+        "country": "荷兰",
+        "city": "Tilburg",
+        "email": "info@gewoon-it.nl",
+        "site": "https://gewoon-it.nl",
+        "level": "official-company",
+        "note": "gewoon-it.nl官网的结构化数据给出info@gewoon-it.nl、Anke Servaeshof 13, 5044 MJ Tilburg、013 5470063；LinkedIn显示Rene Dirks为Gewoon IT owner，档案列出MTCNA/MTCRE/MTCINE等2023年证书。属小体量IT/网络集成商，公司邮箱不等于个人直邮。",
+        "quote": "gewoon-it.nl JSON-LD：info@gewoon-it.nl；Anke Servaeshof 13, 5044 MJ Tilburg；013 5470063 / LinkedIn：Rene Dirks, eigenaar Gewoon IT; MTCNA, MTCRE, MTCINE (2023)",
+        "sources": [
+          [
+            1,
+            "https://gewoon-it.nl/"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/in/rene-dirks/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[7]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "68243e3a785696f5adc6ae9c355e88d114be7763",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9363,10 +9474,52 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-592",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.wifiprofi.cz",
+    "record_urls": [
+      "https://www.wifiprofi.cz/",
+      "https://shop5.wifiprofi.cz/certifikacni-mtcre-skoleni-mikrotik-tvv-praded-20-22-5-2024/",
+      "https://www.edb.cz/firma-61646385-krystof-klima"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-288",
+        "name": "Krystof Klima",
+        "country": "捷克",
+        "city": "Lety",
+        "email": "klima@wifiprofi.cz",
+        "site": "https://www.wifiprofi.cz",
+        "level": "official-company",
+        "note": "wifiprofi.cz官网首页与联系区正文给Kryštof Klíma、V chaloupkách 83, Lety 25229、IČ 61646385、DIČ CZ7709010034、+420 774 331 774与klima@wifiprofi.cz，并自述拿到MikroTik首期trainer证书TR0001、主办MikroExpo与Vigvam等行业会议，网店shop5.wifiprofi.cz在售MikroTik设备与培训。其课程页把dobri.net列为技术支持站点，第三方企业目录另给klima@dobri.net，按次级地址留档；主字段取官网klima@wifiprofi.cz。属培训中心+设备供应，具WISP大会渠道影响力。",
+        "quote": "wifiprofi.cz首页：zakladatel Kryštof Klíma … certifikát TR0001 … Kontakt: +420 774 331 774 / klima@wifiprofi.cz / V chaloupkách 83, Lety 25229 / IČ: 61646385 / shop5.wifiprofi.cz：certifikační MTCRE školení … https://www.dobri.net / 第三方目录另列klima@dobri.net",
+        "sources": [
+          [
+            1,
+            "https://www.wifiprofi.cz/"
+          ],
+          [
+            2,
+            "https://shop5.wifiprofi.cz/certifikacni-mtcre-skoleni-mikrotik-tvv-praded-20-22-5-2024/"
+          ],
+          [
+            3,
+            "https://www.edb.cz/firma-61646385-krystof-klima"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[8]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "68243e3a785696f5adc6ae9c355e88d114be7763",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11724,9 +11877,46 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-745",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/north-america",
+      "https://mikrotik.com/training/partners"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-289",
+        "name": "Dan Parrish",
+        "country": "美国",
+        "city": "Fenton, MO",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方顾问名录/培训伙伴收录Dan Parrish（MTCRE；Fenton, MO；自述WISP Engineering and Consulting Support），邮箱为遮罩式Email链接；CSV原电话314-735-0270保留。本轮搜索未找到可归属的公司站点或正文邮箱；同名Dan/ Daniel Parrish在美国另有保险、IT咨询等不同主体（Dan Parrish Insurance Services、Parrish Consulting Services等），不导入。保留待人工补信息标注。",
+        "quote": "顾问名录：Dan Parrish MTCRE, Fenton, MO — WISP Engineering and Consulting Support / email Email（遮罩）/ 搜索结果中的Dan Parrish Insurance Services（dan@dpiservices.com）与Parrish Consulting Services为不同主体",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/north-america"
+          ],
+          [
+            2,
+            "https://mikrotik.com/training/partners"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[9]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11798,9 +11988,51 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-747",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/north-america",
+      "https://mikrotik.com/training/partners",
+      "https://contactout.com/Chris-Schiessl-16784439"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-290",
+        "name": "Chris Schiessl",
+        "country": "美国",
+        "city": "Minot, ND",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方顾问名录显示Christopher Schiessl（MTCRE、MTCTCE；Minot, ND；English；phone 7018585464、Imessage/LINE 7018330464），培训伙伴页另列Chris Schiessl（MTCNA、MTCRE、MTCTCE；+1 701 833 0464），邮箱均为遮罩式Email链接。第三方聚合站（ContactOut）同页既出现遮罩邮箱又给出拼接式候选（hotmail/gmail/borderstates），形态互相矛盾，按不采信处理，不写主字段；第三方档案称其任职Border States（Minot/Fargo），未在官网正文核实。保留待人工补信息标注。",
+        "quote": "顾问名录：Christopher Schiessl MTCRE, MTCTCE / Minot, ND, USA / phone 7018585464 / email Email（遮罩）/ Imessage 7018330464 / LINE 7018330464 / 培训伙伴页：Chris Schiessl MTCNA, MTCRE, MTCTCE / Tel: +1 701 833 0464 / ContactOut同页：c****l@hotmail.com（遮罩）与拼接候选并列",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/north-america"
+          ],
+          [
+            2,
+            "https://mikrotik.com/training/partners"
+          ],
+          [
+            3,
+            "https://contactout.com/Chris-Schiessl-16784439"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[10]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11812,10 +12044,54 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-748",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://adeodc.com",
+    "record_urls": [
+      "https://adeodc.com/",
+      "https://www.ripe.net/membership/indices/data/dk.adeodc.html",
+      "https://mikrotik.com/training/centers/europe"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-291",
+        "name": "Martin Sundahl",
+        "country": "美国",
+        "city": "New Port Richey, FL",
+        "email": "info@adeodc.dk",
+        "site": "https://adeodc.com",
+        "level": "official-company",
+        "note": "adeodc.com官网正文与联系页给info@adeodc.dk、+45 88 449 449、Herstedvang 8, 2620 Albertslund, Danmark、CVR 37593184，并提供24/7应急服务；RIPE成员登记（公共注册）把ms@adeodc.dk列为Adeo Datacenter ApS技术联系，属注册数据，仅留档不作主字段。MikroTik培训中心页列Martin Sundahl, knowmikrotik.com / Adeodc（MTCNA；Tampa, FL / Denmark, EU；tel 727 505 1534、+45 88 449 449），顾问页列Inverness, FL；knowmikrotik.com本轮Cloudflare 522不可读。公司邮箱不等于个人直邮。",
+        "quote": "adeodc.com：Email: info@adeodc.dk / Phone: +45 88 449 449 / Herstedvang 8, 2620 Albertslund, Danmark / Adeo Datacenter ApS, CVR nr. 37593184 / RIPE dk.adeodc：Technical Email ms@adeodc.dk / MikroTik training centers：Martin Sundahl, knowmikrotik.com / Adeodc, MTCNA, Tampa, FL / Denmark, EU, Tel: 727 505 1534, +45 88 449 449",
+        "sources": [
+          [
+            1,
+            "https://adeodc.com/"
+          ],
+          [
+            2,
+            "https://www.ripe.net/membership/indices/data/dk.adeodc.html"
+          ],
+          [
+            3,
+            "https://mikrotik.com/training/centers/europe"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-291原备注含Skype sundalez1与电话+1 727 505 1534"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[11]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11827,10 +12103,52 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-749",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://panorafiber.com",
+    "record_urls": [
+      "https://panorafiber.com/contact-us/",
+      "https://panorafiber.com/",
+      "https://www.zoominfo.com/p/David-Garland/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-292",
+        "name": "David Garland",
+        "country": "美国",
+        "city": "Panora, IA",
+        "email": "billing@panorafiber.com",
+        "site": "https://panorafiber.com",
+        "level": "official-company",
+        "note": "panorafiber.com联系页正文给两个办公室：Panora 114 East Main, 641.755.2424与Guthrie Center 403 State St., 641.332.2000，邮箱只有billing@panorafiber.com并注明「Emails are not monitored 24/7」，另有localchannel@用于本地频道；官网未公开技术/采购邮箱。第三方档案把David Garland列为Panora Telco/Panora Fiber的数据网络与电信服务技术员，邮箱以d***@panorafiber.com遮罩形式出现，按不采信处理。因此本行虽补到官方邮箱，但为账单专用弱通道，仍保留待人工补信息标注（缺可投递技术/采购邮箱）。",
+        "quote": "panorafiber.com/contact-us正文：Panora Office 114 East Main, P.O. Box 189, Panora, IA 50216 / 641.755.2424 / billing@panorafiber.com - Emails are not monitored 24/7 / Guthrie Center Office 403 State St., Guthrie Center, IA 50115 / 641.332.2000 / 首页：Panora: 641.755.2424 - Guthrie: 641.332.2000",
+        "sources": [
+          [
+            1,
+            "https://panorafiber.com/contact-us/"
+          ],
+          [
+            2,
+            "https://panorafiber.com/"
+          ],
+          [
+            3,
+            "https://www.zoominfo.com/p/David-Garland/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[12]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11843,9 +12161,56 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-750",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/north-america",
+      "https://www.linkedin.com/in/hector-prado-98896aa4/",
+      "https://prado.consulting/",
+      "https://www.mikrohelp.com/soporte-mikrotik/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-293",
+        "name": "Hector Prado",
+        "country": "美国",
+        "city": "La Habra, CA",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方顾问名录列Hector Prado（MTCRE；La Habra, CA），CSV原入口为+595 974 202030（WhatsApp，巴拉圭号，国别待核）。LinkedIn同名档案显示Mikro-Help、Greater Richmond Region并为MikroTik认证相关帖文。本轮另见两个同姓主体：prado.consulting（Héctor Omar Prado，IT/IA顾问，官网未见正文邮箱，WhatsApp为意大利号）与mikrohelp.com（西语WISP管理服务，help@mikrohelp.com）；两者与名录行的同一性均无证据，不导入、不合并。邮箱仍缺，保留待人工补信息标注。",
+        "quote": "顾问名录：Hector Prado MTCRE, La Habra, CA / LinkedIn：Hector Prado — Experience Mikro-Help — Greater Richmond Region —「Hola saludos MIKROTIK MTCRE misión cumplida」/ prado.consulting：Héctor Omar Prado…Consultor independiente desde 2009（官网contacto页本轮未见正文邮箱）/ mikrohelp.com JSON-LD：{\"provider\":{\"name\":\"MikroHelp\",\"email\":\"help@mikrohelp.com\"}}",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/north-america"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/in/hector-prado-98896aa4/"
+          ],
+          [
+            3,
+            "https://prado.consulting/"
+          ],
+          [
+            4,
+            "https://www.mikrohelp.com/soporte-mikrotik/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[13]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11887,10 +12252,59 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-753",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.ispsupplies.com",
+    "record_urls": [
+      "https://www.ispsupplies.com/",
+      "https://www.facebook.com/ISPSupplies/",
+      "https://www.allbiz.com/business/isp-supplies_1G-855-947-7776",
+      "https://mikrotik.com/training/partners"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-294",
+        "name": "Steve Discher",
+        "country": "美国",
+        "city": "College Station, TX",
+        "email": "sales@ispsupplies.com",
+        "site": "https://www.ispsupplies.com",
+        "level": "official-company",
+        "note": "ISP Supplies官网与官方Facebook页的结构化数据给sales@ispsupplies.com与855-947-7776、College Station TX；第三方档案（AllBiz/Buzzfile）显示Stephen R. Discher（Steve Discher）为所有者/CEO并另给sdischer@ispsupplies.com（第三方拼接式，未采信为直邮）。其个人培训站mywisptraining.com本轮Cloudflare 522不可读，info@mywisptraining.com只有搜索索引文本支持，按待核记录；MUM US12资料与其《RouterOS by Example》作者、WISP实操培训身份相符。属设备分销+培训，公司邮箱不等于个人直邮。",
+        "quote": "ISP Supplies官方Facebook：Page · Computer Company, 10770 State Highway 30 Ste 200, College Station, TX, (855) 947-7776, sales@ispsupplies.com / AllBiz结构化数据：{\"name\":\"ISP Supplies\",\"email\":\"sales@ispsupplies.com\",\"employees\":[{\"name\":\"Stephen R. Discher\",\"jobTitle\":\"Member\",\"email\":\"sdischer@ispsupplies.com\"}]} / mywisptraining.com 本轮522 Connection timed out",
+        "sources": [
+          [
+            1,
+            "https://www.ispsupplies.com/"
+          ],
+          [
+            2,
+            "https://www.facebook.com/ISPSupplies/"
+          ],
+          [
+            3,
+            "https://www.allbiz.com/business/isp-supplies_1G-855-947-7776"
+          ],
+          [
+            4,
+            "https://mikrotik.com/training/partners"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-294原备注含《RouterOS by Example》作者与自营WISP背景"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[14]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5952bf79644afdb9ae83cd7246c1398d99b89c97",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -12606,10 +13020,54 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-776",
     "legacy_source_label": "Netonix 官方分销/代理名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.invictuswireless.com",
+    "record_urls": [
+      "https://www.invictuswireless.com/Contact-Us-s/89.htm",
+      "https://deliberant.com/north-america",
+      "https://www.facebook.com/InvictusWireless/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-280",
+        "name": "Invictus",
+        "country": "美国",
+        "city": "Tigard, OR",
+        "email": "sales@invictuswireless.com",
+        "site": "https://www.invictuswireless.com",
+        "level": "official-company",
+        "note": "官网联系页正文给出四个分工邮箱sales@/info@/accounting@/orders@invictuswireless.com、1.503.635.2562 x1与17435 Wren Ct, Lake Oswego OR地址；Deliberant（LigoWave）北美经销页把Invictus Networks列为美国/加拿大authorized reseller，并给sales@invictusnetworks.com、7420 SW Hunziker St Ste B, Tigard OR与+1 (503) 635-2562。两套域名邮箱并存，主字段取官网sales@invictuswireless.com；invictusnetworks.com一址按同一实体候选域名记录，不合并入主字段。该行属2026-09-23「保留但不得使用同芯片话术」的Netonix豁免行之一，本轮不做等级、切入点或话术改动。",
+        "quote": "Contact页正文：Physical and Billing Address General Questions: info@invictuswireless.com / Phone Sale and Project Questions: sales@invictuswireless.com / 1.503.635.2562 x1 / 17435 Wren Ct, Lake Oswego, OR 97034 / Hours 10am-5pm Monday through Friday Pacific Time / Deliberant partner页：Invictus Networks, authorized reseller, 7420 SW Hunziker St Ste B, Tigard, OR 97223, +1 (503) 635-2562, sales@invictusnetworks.com",
+        "sources": [
+          [
+            1,
+            "https://www.invictuswireless.com/Contact-Us-s/89.htm"
+          ],
+          [
+            2,
+            "https://deliberant.com/north-america"
+          ],
+          [
+            3,
+            "https://www.facebook.com/InvictusWireless/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-280原备注含Netonix保留豁免与「不能用同芯片话术」约束"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[0]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eec7c6e05cbca349da01a713ed7ee22018d59496",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -12689,9 +13147,53 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-779",
     "legacy_source_label": "Netonix 官方分销/代理名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "http://www.unifyingsolution.com",
+      "https://www.manta.com/c/mhwy7j9/unifying-solution-llc",
+      "http://archive.org/wayback/available?url=unifyingsolution.com"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-281",
+        "name": "UNIFYING SOLUTION",
+        "country": "美国",
+        "city": "Guthrie, OK",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "Manta目录的结构化数据给出Unifying Solution LLC、1407 West Washington Avenue, Guthrie OK 73044、(405) 293-3282、JSON-LD sameAs指向http://www.unifyingsolution.com；同批第三方目录显示Jason Smedley为该实体成员。本轮unifyingsolution.com直接抓取失败、Wayback接口返回429限流，未能取得正文邮箱或有效站点内容；仅同名子串的unifyingsolutionsco.com（英国营销公司）、unifysolutions.com（美国IT公司）等不得比附。该行同属Netonix保留豁免行，不得使用同芯片话术。保持无邮箱与待人工补邮箱标注。",
+        "quote": "Manta页面：Unifying Solution LLC, 1407 West Washington Avenue, Guthrie, OK 73044, (405) 293-3282, established 2015, Contact Jason Smedley / JSON-LD：sameAs http://www.unifyingsolution.com / 本轮抓取unifyingsolution.com失败、archive.org/wayback/available?url=unifyingsolution.com → 429 Too Many Requests",
+        "sources": [
+          [
+            1,
+            "https://www.manta.com/c/mhwy7j9/unifying-solution-llc"
+          ],
+          [
+            2,
+            "http://www.unifyingsolution.com"
+          ],
+          [
+            3,
+            "http://archive.org/wayback/available?url=unifyingsolution.com"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-281原备注含Netonix保留豁免与「不能用同芯片话术」约束"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[1]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eec7c6e05cbca349da01a713ed7ee22018d59496",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13518,10 +14020,57 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-805",
     "legacy_source_label": "厂商官方渠道名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.berdin.com",
+    "record_urls": [
+      "https://www.berdin.com/contacto",
+      "https://www.aqiveo.com/empresa/berdin-grupo",
+      "https://www.berdinonline.com/contacto",
+      "https://www.datacentermarket.es/empresas/berdin"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-282",
+        "name": "Berdin Grupo",
+        "country": "西班牙",
+        "city": "Donostia-San Sebastián",
+        "email": "info@berdin.com",
+        "site": "https://www.berdin.com",
+        "level": "official-company",
+        "note": "官网联系页正文给出info@berdin.com、943 369 394与Pol. Ind. Belartza, Errekatxulo 4, 20018 Donostia-San Sebastián地址；第三方目录另列出madrid@berdin.com（aqiveo）、info@berdinonline.com（自有网店contacto）、agil@berdin.com（datacentermarket）三个分地址，全部按次级入口留档，不写主字段。该行为多品牌网络分销（含Allied Telesis），属A级主产地的分销商，本轮不动等级。",
+        "quote": "berdin.com/contacto正文：info@berdin.com / 943 369 394 / Pol. Ind. Belartza, Errekatxulo 4, 20018 Donostia-San Sebastián / 第三方目录另行列出madrid@berdin.com、info@berdinonline.com、agil@berdin.com",
+        "sources": [
+          [
+            1,
+            "https://www.berdin.com/contacto"
+          ],
+          [
+            2,
+            "https://www.aqiveo.com/empresa/berdin-grupo"
+          ],
+          [
+            3,
+            "https://www.berdinonline.com/contacto"
+          ],
+          [
+            4,
+            "https://www.datacentermarket.es/empresas/berdin"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[2]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "29edf4fbacec57568e2fa5c16dcafefd2b4eca31",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13669,9 +14218,51 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-815",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.voip-engineer.co.uk/about/",
+      "https://www.linkedin.com/in/matthew-main-6767a3b8/",
+      "https://rocketreach.co/matthew-main-email_129997222"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-295",
+        "name": "Matthew Phillip Main",
+        "country": "英国",
+        "city": "Portsmouth",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "voip-engineer.co.uk为其个人技术站（About页自述Matthew \"Mr_VoIP\" Main、Southern UK、最熟FreeSWITCH），站点只给LinkedIn与Discord，无公开邮箱；LinkedIn显示MTCNA/MTCRE（2023-03签发、2026-03到期）及We UC / circle.cloud任职；RocketReach只给遮罩型地址（m******@circle.cloud等，域名含voip-engineer.co.uk/weuc.com），按不采信处理；保留原电话+44 7802 373517。保留待人工补信息标注。",
+        "quote": "voip-engineer.co.uk/about：Name: Matthew \"Mr_VoIP\" Main … Location: Southern United Kingdom … Most comfortable with: FreeSWITCH / LinkedIn：MikroTik Certified Network Associate 2303NA9118 issued Mar 2023 expires Mar 2026; MTCRE 2303RE9198 / RocketReach：m******@circle.cloud（遮罩）；Found 3 emails @circle.cloud/@voip-engineer.co.uk/@weuc.com",
+        "sources": [
+          [
+            1,
+            "https://www.voip-engineer.co.uk/about/"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/in/matthew-main-6767a3b8/"
+          ],
+          [
+            3,
+            "https://rocketreach.co/matthew-main-email_129997222"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[15]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13683,10 +14274,59 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-816",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.jellyfishbroadband.com",
+    "record_urls": [
+      "https://www.jellyfishbroadband.com/about-us/",
+      "https://find-and-update.company-information.service.gov.uk/company/15800355/officers",
+      "https://ico.org.uk/ESDWebPages/Entry/ZB722352",
+      "https://www.linkedin.com/in/jake-woodhouse-49a258a1/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-283",
+        "name": "Jake Louis Petre Woodhouse",
+        "country": "英国",
+        "city": "Driffield",
+        "email": "hello@jellyfishbroadband.com",
+        "site": "https://www.jellyfishbroadband.com",
+        "level": "official-company",
+        "note": "Jellyfish Broadband官网About页的结构化数据给出公司名Jellyfish Technologies Ltd、电话0800 8620 308与hello@jellyfishbroadband.com；英国Companies House 15800355显示注册地Crown Chambers, Princes St, Harrogate，业务代码61100有线电信、61200无线电信、62020 IT咨询，现任officers含PETRE WOODHOUSE, Jake Louis与BOSWELL, Julie Christine、BOSWELL, Martyn；ICO登记ZB722352（2024-07-17起）并将「11G」列为其他名称。MikroTik官方顾问名录列Jake Louis Petre Woodhouse（MTCRE/MTCINE，Driffield）与LinkedIn「Jake Woodhouse - Jellyfish Technologies Ltd, Driffield」互证关联；该公司为自营WISP/宽带运营商，属A级主产地细分。",
+        "quote": "官网About页JSON-LD：{\"telephone\":\"0800 8620 308\",\"name\":\"Jellyfish Technologies Ltd\",\"email\":\"hello@jellyfishbroadband.com\"} / Companies House 15800355：Registered office Crown Chambers, Princes St, Harrogate, HG1 1NJ; SIC 61100 61200 62020; officers BOSWELL Julie Christine (Secretary, appointed 24 June 2024), BOSWELL Martyn, PETRE WOODHOUSE Jake Louis / ICO ZB722352: Data controller Jellyfish Technologies Ltd, other names 11G",
+        "sources": [
+          [
+            1,
+            "https://www.jellyfishbroadband.com/about-us/"
+          ],
+          [
+            2,
+            "https://find-and-update.company-information.service.gov.uk/company/15800355/officers"
+          ],
+          [
+            3,
+            "https://ico.org.uk/ESDWebPages/Entry/ZB722352"
+          ],
+          [
+            4,
+            "https://www.linkedin.com/in/jake-woodhouse-49a258a1/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-283原备注含MTCRE/MTCINE与Driffield名录信息"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[3]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13699,9 +14339,46 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-817",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/europe",
+      "https://www.linkedin.com/in/kevinriding/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-284",
+        "name": "Kevin Riding",
+        "country": "英国",
+        "city": "Barton-upon-Humber",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方顾问名录页列出Kevin Riding（MTCRE；Barton-upon-Humber, United Kingdom；自述长期安装配置维护RouterOS路由器与交换机），给出phone 07904080953、WhatsApp 07930623513，邮箱仍是遮罩式Email链接不可读取。LinkedIn同名区域档案（Hull/Kingston upon Hull）显示其2022年起在DFDS做IT Security Analyst、2021-2022在Pure Broadband任Network Engineer（WISP经验），证书为MTCNA/MTCRE/MTCINE（2022-10签发、2025-10到期）；同一性有地区与证书类型支持但无官方声明直接互证，只作关联记录。未找到正文邮箱，保留原电话并保留待人工补信息标注。",
+        "quote": "顾问名录页：Kevin Riding MTCRE, Barton-upon-Humber, United Kingdom / phone 07904080953 / email Email（遮罩）/ WhatsApp 07930623513 / LinkedIn：IT Security Analyst DFDS; Network Engineer Pure Broadband Oct 2021 - Sep 2022; MTCINE 2210INE3261 issued Oct 2022, expires Oct 2025",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/europe"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/in/kevinriding/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[4]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13828,9 +14505,41 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-820",
     "legacy_source_label": "MikroTik 官方认证顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/north-america"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-296",
+        "name": "Frederic Gauthier",
+        "country": "加拿大",
+        "city": "Quebec",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方名录列Frederic Gauthier（Quebec, Canada），CSV原电话418-933-1285保留，邮箱为遮罩式Email链接。本轮按姓名+电话+地区检索未找到可归属的公司、站点或正文邮箱；同名Frédéric Gauthier在美国/法国/加拿大另有保险、机械、Orange等不同主体，均不导入。保留待人工补信息标注。",
+        "quote": "顾问名录：Frederic Gauthier, Quebec, Canada / 电话418-933-1285 / email Email（遮罩）/ 检索到的同名Frédéric Gauthier档案（PMET Resources、Mecanair、Walter Surface、Orange Lyon等）均为不同主体",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/north-america"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[16]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13895,9 +14604,51 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-822",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants/europe",
+      "https://www.linkedin.com/in/nugge/",
+      "https://kustantajavayla.kirjavalitys.fi/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-297",
+        "name": "Johannes Edgren",
+        "country": "芬兰",
+        "city": "Porvoo",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方名录列Johannes Edgren（Porvoo, Finland；英/瑞典/芬兰三语；MTCNA/MTCRE，2023-06/07签发、2026到期），CSV原电话+358 45 2309587保留，邮箱为遮罩式Email链接。LinkedIn同名同城档案显示其在Kirjavälitys Oy / Storia Oy（图书物流与发行，业务与上网/交换设备无关）任软件/IT工程师；无公开正文邮箱，也不构成交换设备采购场景。保留待人工补信息标注。",
+        "quote": "顾问名录：Johannes Edgren, Porvoo, Finland / LinkedIn：Johannes Edgren — Kirjavälitys Oy / Storia Oy — MTCRE 2307RE7822 issued Jul 2023 expires Jul 2026; MTCNA 2306NA7600 issued Jun 2023 expires Jun 2026 / Kirjavälitys Oy客服页：Hyvinkää地址与kustantajat@kirjavalitys.fi（非本人）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants/europe"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/in/nugge/"
+          ],
+          [
+            3,
+            "https://kustantajavayla.kirjavalitys.fi/"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[17]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -14150,9 +14901,46 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-828",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/training/partners",
+      "https://mikrotik.com/consultants/europe"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-298",
+        "name": "Luca Martinelli",
+        "country": "意大利",
+        "city": "Modena",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "MikroTik官方培训伙伴页列Luca Martinelli（Modena, Italy；MTCNA、MTCRE；评分4.8/5（8票）；平均学员成绩74%；Tel +39 333 3820018；邮箱为遮罩式Email链接）；顾问名录亦收录。本轮未找到其自有站点或正文邮箱；同名Luca Martinelli（自雇IT、Modena，博洛尼亚大学PhD）与名录行的同一性无证据，不导入。保留待人工补信息标注。",
+        "quote": "training/partners：Luca Martinelli, Rating: 4.8/5 (8 votes), Average student result: 74%, MTCNA, MTCRE, Modena, Italy, Tel: +39 333 3820018, Write an e-mail / 顾问名录同列",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/training/partners"
+          ],
+          [
+            2,
+            "https://mikrotik.com/consultants/europe"
+          ]
+        ],
+        "local_sources": [],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[18]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -14465,10 +15253,54 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-836",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "http://sn-solution.hu",
+    "record_urls": [
+      "http://sn-solution.hu/kapcsolat/",
+      "https://www.nemzeticegtar.hu/sn-solution-kft-c1309196419.html",
+      "https://www.linkedin.com/in/antal-bacskai-6a0362139/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-299",
+        "name": "Antal Bacskai",
+        "country": "匈牙利",
+        "city": "Budapest",
+        "email": "info@sn-solution.hu",
+        "site": "http://sn-solution.hu",
+        "level": "official-company",
+        "note": "SN-Solution Kft官网联系页正文给info@sn-solution.hu、+36 (30) 471-9438、1172 Budapest, Aranykút utca 97/C；匈牙利公司登记（Nemzeti Cégtár / Céginfo）显示该主体全名SN-Solution Informatikai Kereskedelmi és Szolgáltató Kft.、税号26577957-2-42、Cégjegyzékszám 01 09 406682，法定代表/ügyvezető为Bacskai Antal Gábor（与名录行同城同电话），即名录人士本人即公司负责人；LinkedIn同名档案显示任职SN-Solution Kft并持MTCSE/MTCTCE/MTCRE/MTCNA（2019-2020签发，均已过期）。公司邮箱不等于已验证个人直邮；证书已过期一项按事实记录，不因此改等级。",
+        "quote": "sn-solution.hu/kapcsolat：Székhely: 1172 Budapest Aranykút utca 97/C / E-mail: info@sn-solution.hu / Telefon: +36 (30) 471-9438 / Nemzeti Cégtár：SN-Solution Kft., Cégjegyzésre jogosultak: Bacskai Antal Gábor (an: Berkó Katalin) ügyvezető / LinkedIn：Antal Bacskai - SN-Solution Kft. - MTCSE 1905SE3430 expires May 2022, MTCTCE 1812TCE6835 expires Dec 2021, MTCRE 1711RE7237 expires Nov 2020, MTCNA 1704NA10192 expires Apr 2020",
+        "sources": [
+          [
+            1,
+            "http://sn-solution.hu/kapcsolat/"
+          ],
+          [
+            2,
+            "https://www.nemzeticegtar.hu/sn-solution-kft-c1309196419.html"
+          ],
+          [
+            3,
+            "https://www.linkedin.com/in/antal-bacskai-6a0362139/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-299原入口+36 30 4719438与公司电话一致"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含待核或未找到状态）",
+          "网站/候选域名",
+          "身份关联（按note限制）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "records[19]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"

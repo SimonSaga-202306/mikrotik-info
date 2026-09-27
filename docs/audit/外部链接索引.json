@@ -10,6 +10,32 @@
     ]
   },
   {
+    "url": "http://archive.org/wayback/available?url=unifyingsolution.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q779"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L62"
+      },
+      {
+        "path": "profile/A/A-281-UNIFYING SOLUTION-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q134"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-779/备注"
+      }
+    ]
+  },
+  {
     "url": "http://b2all.piccolamediaimpresa.com/goretti-technological-systems-srl",
     "http_checked": false,
     "occurrences": [
@@ -120,6 +146,72 @@
       {
         "path": "scripts/audit_repository.py",
         "locator": "L76"
+      }
+    ]
+  },
+  {
+    "url": "http://sn-solution.hu",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D836"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L651"
+      },
+      {
+        "path": "profile/A/A-299-Antal Bacskai-匈牙利.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D185"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-836/网站"
+      }
+    ]
+  },
+  {
+    "url": "http://sn-solution.hu'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L259"
+      }
+    ]
+  },
+  {
+    "url": "http://sn-solution.hu/kapcsolat/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q836"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L658"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L36"
+      },
+      {
+        "path": "profile/A/A-299-Antal Bacskai-匈牙利.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q185"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-836/备注"
       }
     ]
   },
@@ -292,6 +384,44 @@
     ]
   },
   {
+    "url": "http://www.unifyingsolution.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q779"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L49"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L50"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L58"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L18"
+      },
+      {
+        "path": "profile/A/A-281-UNIFYING SOLUTION-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q134"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-779/备注"
+      }
+    ]
+  },
+  {
     "url": "https://5gstore.com",
     "http_checked": false,
     "occurrences": [
@@ -374,6 +504,72 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-783/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://adeodc.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D748"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L379"
+      },
+      {
+        "path": "profile/A/A-291-Martin Sundahl-美国.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D106"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-748/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://adeodc.com'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L258"
+      }
+    ]
+  },
+  {
+    "url": "https://adeodc.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q748"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L386"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L28"
+      },
+      {
+        "path": "profile/A/A-291-Martin Sundahl-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q106"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-748/备注"
       }
     ]
   },
@@ -1030,6 +1226,36 @@
     ]
   },
   {
+    "url": "https://contactout.com/Chris-Schiessl-16784439",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q747"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L360"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-290-Chris Schiessl-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q105"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-747/备注"
+      }
+    ]
+  },
+  {
     "url": "https://contactout.com/company/Professional-Cabling-Solutions-9325",
     "http_checked": false,
     "occurrences": [
@@ -1434,6 +1660,36 @@
     ]
   },
   {
+    "url": "https://deliberant.com/north-america",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q776"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L22"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L17"
+      },
+      {
+        "path": "profile/A/A-280-Invictus-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q131"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-776/备注"
+      }
+    ]
+  },
+  {
     "url": "https://deltami.org/places/heartland-business-systems/",
     "http_checked": false,
     "occurrences": [
@@ -1607,7 +1863,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L276"
+        "locator": "L318"
       }
     ]
   },
@@ -1617,7 +1873,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L276"
+        "locator": "L318"
       }
     ]
   },
@@ -1660,6 +1916,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-963/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15800355/officers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q816"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L132"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q165"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-816/备注"
       }
     ]
   },
@@ -1772,6 +2058,62 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-965/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gewoon-it.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D589"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L251"
+      },
+      {
+        "path": "profile/A/A-287-Rene Dirks-荷兰.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D97"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-589/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://gewoon-it.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q589"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L258"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L24"
+      },
+      {
+        "path": "profile/A/A-287-Rene Dirks-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q97"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-589/备注"
       }
     ]
   },
@@ -2082,6 +2424,36 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L2252"
+      }
+    ]
+  },
+  {
+    "url": "https://ico.org.uk/ESDWebPages/Entry/ZB722352",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q816"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L136"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q165"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-816/备注"
       }
     ]
   },
@@ -2756,6 +3128,32 @@
     ]
   },
   {
+    "url": "https://kustantajavayla.kirjavalitys.fi/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q822"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L602"
+      },
+      {
+        "path": "profile/A/A-297-Johannes Edgren-芬兰.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q171"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-822/备注"
+      }
+    ]
+  },
+  {
     "url": "https://kws-partner.de",
     "http_checked": false,
     "occurrences": [
@@ -2978,6 +3376,84 @@
     ]
   },
   {
+    "url": "https://mikrotik.com/consultants/europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q817"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q822"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q828"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L168"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L594"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L632"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L21"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L34"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L35"
+      },
+      {
+        "path": "profile/A/A-284-Kevin Riding-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-297-Johannes Edgren-芬兰.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-298-Luca Martinelli-意大利.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q166"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q171"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q177"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-817/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-822/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-828/备注"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotik.com/consultants/europe/czech",
     "http_checked": false,
     "occurrences": [
@@ -3008,6 +3484,108 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-593/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants/north-america",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q745"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q747"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q750"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q820"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L352"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L568"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L26"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L27"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-289-Dan Parrish-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-290-Chris Schiessl-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-293-Hector Prado-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-296-Frederic Gauthier-加拿大.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q103"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q105"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q108"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q169"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-745/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-747/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-750/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-820/备注"
       }
     ]
   },
@@ -5608,6 +6186,134 @@
     ]
   },
   {
+    "url": "https://mikrotik.com/training/centers/europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q748"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L394"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L28"
+      },
+      {
+        "path": "profile/A/A-291-Martin Sundahl-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q106"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-748/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/partners",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q745"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q747"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q753"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q828"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L326"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L356"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L628"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L26"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L27"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L35"
+      },
+      {
+        "path": "profile/A/A-289-Dan Parrish-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-290-Chris Schiessl-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-294-Steve Discher-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-298-Luca Martinelli-意大利.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q103"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q105"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q110"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q177"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-745/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-747/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-753/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-828/备注"
+      }
+    ]
+  },
+  {
     "url": "https://mindenamimikrotik.hu",
     "http_checked": false,
     "occurrences": [
@@ -6432,6 +7138,92 @@
     ]
   },
   {
+    "url": "https://panorafiber.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D749"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L415"
+      },
+      {
+        "path": "profile/A/A-292-David Garland-美国.md",
+        "locator": "L30"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D107"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-749/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://panorafiber.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q749"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L426"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L29"
+      },
+      {
+        "path": "profile/A/A-292-David Garland-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q107"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://panorafiber.com/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q749"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L422"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L29"
+      },
+      {
+        "path": "profile/A/A-292-David Garland-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q107"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
     "url": "https://paramountsec.com",
     "http_checked": false,
     "occurrences": [
@@ -6562,6 +7354,36 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3472"
+      }
+    ]
+  },
+  {
+    "url": "https://prado.consulting/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q750"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L464"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-293-Hector Prado-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q108"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-750/备注"
       }
     ]
   },
@@ -6728,6 +7550,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-824/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/matthew-main-email_129997222",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q815"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L542"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-295-Matthew Phillip Main-英国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q164"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-815/备注"
       }
     ]
   },
@@ -6946,6 +7798,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-906/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://shop5.wifiprofi.cz/certifikacni-mtcre-skoleni-mikrotik-tvv-praded-20-22-5-2024/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q592"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L292"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L25"
+      },
+      {
+        "path": "profile/A/A-288-Krystof Klima-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q100"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-592/备注"
       }
     ]
   },
@@ -8400,6 +9282,36 @@
     ]
   },
   {
+    "url": "https://www.allbiz.com/business/isp-supplies_1G-855-947-7776",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q753"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L502"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/A/A-294-Steve Discher-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q110"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-753/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.alliedtelesis.com/it/en/luca-masetto",
     "http_checked": false,
     "occurrences": [
@@ -8628,6 +9540,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-818/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aqiveo.com/empresa/berdin-grupo",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q805"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q159"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-805/备注"
       }
     ]
   },
@@ -8866,6 +9804,92 @@
     ]
   },
   {
+    "url": "https://www.berdin.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D805"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D159"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-805/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.berdin.com/contacto",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q805"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L90"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L19"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q159"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-805/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.berdinonline.com/contacto",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q805"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L98"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L19"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q159"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-805/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.bhe.de/kongresspartner-detailseiten/brand/gu-bks-service-gmb-h",
     "http_checked": false,
     "occurrences": [
@@ -8888,6 +9912,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-905/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.binnenbereik.nl/over-ons/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q587"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L202"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L22"
+      },
+      {
+        "path": "profile/A/A-285-Corné Van Halteren-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q95"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-587/备注"
       }
     ]
   },
@@ -9106,6 +10160,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-774/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelconnect.nl/wp-content/uploads/2019/10/ChannelConnect-2019-programma.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q588"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L232"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L23"
+      },
+      {
+        "path": "profile/A/A-286-Aris Vink-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q96"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-588/备注"
       }
     ]
   },
@@ -9698,6 +10782,72 @@
     ]
   },
   {
+    "url": "https://www.dael.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D587"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L191"
+      },
+      {
+        "path": "profile/A/A-285-Corné Van Halteren-荷兰.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D95"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-587/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dael.com'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L256"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dael.com/nl/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q587"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L198"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L22"
+      },
+      {
+        "path": "profile/A/A-285-Corné Van Halteren-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q95"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-587/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.dainox.net",
     "http_checked": false,
     "occurrences": [
@@ -10006,6 +11156,32 @@
     ]
   },
   {
+    "url": "https://www.datacentermarket.es/empresas/berdin",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q805"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q159"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-805/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.datel-dessau.de",
     "http_checked": false,
     "occurrences": [
@@ -10096,6 +11272,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1004/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dobri.net",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L284"
       }
     ]
   },
@@ -10262,6 +11448,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-900/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.edb.cz/firma-61646385-krystof-klima",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q592"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L296"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L25"
+      },
+      {
+        "path": "profile/A/A-288-Krystof Klima-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q100"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-592/备注"
       }
     ]
   },
@@ -10484,6 +11700,66 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-962/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/ISPSupplies/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q753"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L498"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/A/A-294-Steve Discher-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q110"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-753/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/InvictusWireless/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q776"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L26"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L17"
+      },
+      {
+        "path": "profile/A/A-280-Invictus-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q131"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-776/备注"
       }
     ]
   },
@@ -11818,6 +13094,72 @@
     ]
   },
   {
+    "url": "https://www.invictuswireless.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D776"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L11"
+      },
+      {
+        "path": "profile/A/A-280-Invictus-美国.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D131"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-776/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.invictuswireless.com'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L254"
+      }
+    ]
+  },
+  {
+    "url": "https://www.invictuswireless.com/Contact-Us-s/89.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q776"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L18"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L17"
+      },
+      {
+        "path": "profile/A/A-280-Invictus-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q131"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-776/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.isimko.de",
     "http_checked": false,
     "occurrences": [
@@ -11882,6 +13224,62 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-913/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ispsupplies.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D753"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L487"
+      },
+      {
+        "path": "profile/A/A-294-Steve Discher-美国.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D110"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-753/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ispsupplies.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q753"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L494"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/A/A-294-Steve Discher-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q110"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-753/备注"
       }
     ]
   },
@@ -12042,6 +13440,72 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-791/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jellyfishbroadband.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D816"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D165"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-816/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jellyfishbroadband.com'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L255"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jellyfishbroadband.com/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q816"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L128"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q165"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-816/备注"
       }
     ]
   },
@@ -12298,6 +13762,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/antal-bacskai-6a0362139/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q836"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L666"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L36"
+      },
+      {
+        "path": "profile/A/A-299-Antal Bacskai-匈牙利.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q185"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-836/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/daniel-switalski-3461546b/",
     "http_checked": false,
     "occurrences": [
@@ -12358,6 +13852,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/hector-prado-98896aa4/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q750"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L460"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-293-Hector Prado-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q108"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-750/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/ipv6-kevin-myers/",
     "http_checked": false,
     "occurrences": [
@@ -12388,6 +13912,32 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/jake-woodhouse-49a258a1/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q816"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q165"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-816/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/joost-van-de-weijer-86482a179/",
     "http_checked": false,
     "occurrences": [
@@ -12414,6 +13964,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-92/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/kevinriding/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q817"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L172"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/A/A-284-Kevin Riding-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q166"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-817/备注"
       }
     ]
   },
@@ -12460,6 +14040,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-823/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/matthew-main-6767a3b8/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q815"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L538"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-295-Matthew Phillip Main-英国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q164"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-815/备注"
       }
     ]
   },
@@ -12524,6 +14134,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/nugge/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q822"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L598"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L34"
+      },
+      {
+        "path": "profile/A/A-297-Johannes Edgren-芬兰.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q171"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-822/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/patrik-schaub-25995647/",
     "http_checked": false,
     "occurrences": [
@@ -12572,6 +14212,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-825/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/rene-dirks/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q589"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L262"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L24"
+      },
+      {
+        "path": "profile/A/A-287-Rene Dirks-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q97"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-589/备注"
       }
     ]
   },
@@ -12768,6 +14438,36 @@
     ]
   },
   {
+    "url": "https://www.manta.com/c/mhwy7j9/unifying-solution-llc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q779"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L54"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L18"
+      },
+      {
+        "path": "profile/A/A-281-UNIFYING SOLUTION-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q134"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-779/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.manta.com/c/mryrnqs/cayman-wireless-inc",
     "http_checked": false,
     "occurrences": [
@@ -12928,6 +14628,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-856/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mikrohelp.com/soporte-mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q750"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L468"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-293-Hector Prado-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q108"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-750/备注"
       }
     ]
   },
@@ -13704,6 +15434,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-834/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nemzeticegtar.hu/sn-solution-kft-c1309196419.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q836"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L662"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L36"
+      },
+      {
+        "path": "profile/A/A-299-Antal Bacskai-匈牙利.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q185"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-836/备注"
       }
     ]
   },
@@ -14874,6 +16634,92 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-983/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ripe.net/membership/indices/data/dk.adeodc.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q748"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L390"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L28"
+      },
+      {
+        "path": "profile/A/A-291-Martin Sundahl-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q106"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-748/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sdc.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D588"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L221"
+      },
+      {
+        "path": "profile/A/A-286-Aris Vink-荷兰.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D96"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-588/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sdc.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q588"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L228"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L23"
+      },
+      {
+        "path": "profile/A/A-286-Aris Vink-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q96"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-588/备注"
       }
     ]
   },
@@ -16406,6 +18252,102 @@
     ]
   },
   {
+    "url": "https://www.voip-engineer.co.uk/about/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q815"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L534"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-295-Matthew Phillip Main-英国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q164"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-815/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wifiprofi.cz",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D592"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L281"
+      },
+      {
+        "path": "profile/A/A-288-Krystof Klima-捷克.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D100"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-592/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wifiprofi.cz'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L257"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wifiprofi.cz/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q592"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L288"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L25"
+      },
+      {
+        "path": "profile/A/A-288-Krystof Klima-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q100"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-592/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.wildix.com/es/partners/nc-telecomunicazioni-srl/",
     "http_checked": false,
     "occurrences": [
@@ -16866,6 +18808,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1006/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/David-Garland/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q749"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A280-A299.json",
+        "locator": "L430"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A280-A299联络核验.md",
+        "locator": "L29"
+      },
+      {
+        "path": "profile/A/A-292-David Garland-美国.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q107"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-749/备注"
       }
     ]
   },

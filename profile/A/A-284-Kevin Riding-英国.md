@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 自述大量安装、配置与维护 MikroTik **路由器与交换机**的经验。 |
+| 原备注 | 自述大量安装、配置与维护 MikroTik **路由器与交换机**的经验。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方顾问名录给MTCRE、Barton-upon-Humber、07904080953、WhatsApp 07930623513，邮箱为遮罩Email链接；LinkedIn同名区域档案显示DFDS IT Security Analyst、2021-2022在Pure Broadband（WISP），关联按note限制。无正文邮箱。 证据：[1](https://mikrotik.com/consultants/europe) [2](https://www.linkedin.com/in/kevinriding/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-284 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：07904 080953
-- **原始联系字段**：07904 080953
+- **电话**：07904 080953、07930623513
+- **原始联系字段**：07904 080953；WhatsApp 07930623513（官方顾问名录正文；邮箱为遮罩Email链接，未获正文邮箱）
 
 ## 四、品牌与技术栈
 
