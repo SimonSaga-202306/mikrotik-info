@@ -337,6 +337,11 @@ r/wisp · r/networking · r/sysadmin · r/homelab
 
 **① MikroTik 官方认证顾问名录** —— 目前产出质量最高
 
+> 🎯 **MTCSWE = 交换认证 = A 级直通信号**（2026-09-23 实测确立）
+> 荷兰/捷克新增 13 位顾问中，**持 MTCSWE 的 3 位全部判 A，其余 10 位判 B**。
+> **挖顾问时优先抓 MTCSWE 持有者**，命中率最高。其余证书（MTCRE 路由 / MTCWE 无线 /
+> MTCINE 互联 / MTCSE 安全）均不构成交换或供电需求信号。
+
 ```
 https://mikrotik.com/consultants/{europe|asia|...}/{国家名小写}
 例：mikrotik.com/consultants/europe/france
@@ -345,7 +350,8 @@ https://mikrotik.com/consultants/{europe|asia|...}/{国家名小写}
 
 - **每页字段齐全**：姓名、城市、所持证书（MTCNA/MTCRE/MTCSWE…）、电话、**邮箱** —— 拿到就能发信
 - 覆盖 90+ 国家，欧洲各国均有页面
-- ⚠️ 页面含大量地图瓦片，抓的时候上下文开销大，**建议一次只抓 1–2 国**
+- ⚠️ 页面含大量地图瓦片。**技巧：改用 web_search 搜索 `mikrotik.com consultants {国家}`**，
+  拿到的 snippet 干净得多**且带电话号码**，比 fetch_page 省 3–5 倍上下文
 - 已知：法国仅 2 位（Habib Kanso/图卢兹、Adnan RIHAN/巴黎）
 
 **② 各国本地集成商目录**（法国为例）
