@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | Netonix 西班牙分销。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 西班牙分销。 |
 
 ## 三、人员与联系方式
 
@@ -78,7 +78,7 @@ Hi Landatel,
 
 You work in switching, so I will skip the introduction: the interesting part is L3 hardware offload and QinQ at access-layer pricing.
 
-What caught my eye is that you work on Netonix.
+What caught my eye is that you work on WISP.
 
 Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
 

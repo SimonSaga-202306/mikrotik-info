@@ -9,6 +9,7 @@ C = hard: big groups, own-brand distributors, competitors, out of scope.
 """
 import csv, re
 from collections import Counter
+from numbering import renumber, audit  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
 
@@ -214,6 +215,12 @@ def main():
             r[SUBCOL] = ""
     if subc:
         print("C 级细分:", dict(subc))
+
+    # 评级刚变过 → 立刻换段，不留下「编号段与评级不一致」的中间态
+    renumber(data, hdr, csv_path=CSV)
+    probs = audit(data, hdr)
+    if probs:
+        print("WARNING numbering problems after grading: %s" % probs[:5])
 
     with open(CSV, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)

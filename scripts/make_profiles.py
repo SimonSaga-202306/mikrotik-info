@@ -10,6 +10,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from strategy import PLAY, NEED_PAT, ORDER, scenarios  # noqa: E402
+from numbering import renumber, audit  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
 DIR = "profile"
@@ -122,32 +123,18 @@ def main():
         if m:
             siblings[r[0]] = m.group(1)
 
-    # 档案编号持久化：编过的号永不重排，新客户往后追加（用户正在按编号跟进，不能打乱）
+    # 档案编号持久化。grade.py 已经换过段，这里再跑一次只是安全网：
+    # 无论上游怎么改的评级，落到写文件之前编号一定与评级一致。
+    renumber(data, hdr, csv_path=CSV)
+    probs = audit(data, hdr)
+    if probs:
+        raise SystemExit("numbering problems, refusing to write dossiers: %s" % probs[:5])
     NUMCOL = hdr.index("档案编号")
+
     def num_of(r):
         m = re.match(r'[ABC]-(\d+)$', (r[NUMCOL] or "").strip())
         return int(m.group(1)) if m else None
-    # 第一遍：只统计「编号前缀 == 当前评级」的，才算有效占用
-    used = {g: set() for g in "ABC"}
-    for r in data:
-        m = re.match(r'([ABC])-(\d+)$', (r[NUMCOL] or "").strip())
-        if m and m.group(1) == r[17]:
-            used[r[17]].add(int(m.group(2)))
-    nxt = {g: (max(used[g]) if used[g] else 0) for g in "ABC"}
-    # 第二遍：编号缺失、或编号段与评级不一致（评级变了）→ 换到新段末尾追加。
-    # 旧段留空号、绝不回填，这样既有顺序永远不被打乱。
-    assigned = 0
-    for r in data:
-        m = re.match(r'([ABC])-(\d+)$', (r[NUMCOL] or "").strip())
-        if m and m.group(1) == r[17]:
-            continue
-        nxt[r[17]] += 1
-        r[NUMCOL] = "%s-%03d" % (r[17], nxt[r[17]])
-        assigned += 1
-    if assigned:
-        with open(CSV, "w", encoding="utf-8-sig", newline="") as f:
-            w_ = csv.writer(f); w_.writerow(hdr); w_.writerows(data)
-        print("re-numbered %d rows into their new grade (appended at the end)" % assigned)
+
     order = {"A": 0, "B": 1, "C": 2}
     data.sort(key=lambda r: (order.get(r[17], 9), num_of(r) or 99999))
     made = []
