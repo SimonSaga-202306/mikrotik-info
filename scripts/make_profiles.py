@@ -127,23 +127,27 @@ def main():
     def num_of(r):
         m = re.match(r'[ABC]-(\d+)$', (r[NUMCOL] or "").strip())
         return int(m.group(1)) if m else None
-    # 第一遍：收集已用编号，算出各级最大号
+    # 第一遍：只统计「编号前缀 == 当前评级」的，才算有效占用
     used = {g: set() for g in "ABC"}
     for r in data:
-        n = num_of(r)
-        if n: used[r[17]].add(n)
+        m = re.match(r'([ABC])-(\d+)$', (r[NUMCOL] or "").strip())
+        if m and m.group(1) == r[17]:
+            used[r[17]].add(int(m.group(2)))
     nxt = {g: (max(used[g]) if used[g] else 0) for g in "ABC"}
-    # 第二遍：给没编号的行从最大号往后追加，并写回 CSV
+    # 第二遍：编号缺失、或编号段与评级不一致（评级变了）→ 换到新段末尾追加。
+    # 旧段留空号、绝不回填，这样既有顺序永远不被打乱。
     assigned = 0
     for r in data:
-        if num_of(r): continue
+        m = re.match(r'([ABC])-(\d+)$', (r[NUMCOL] or "").strip())
+        if m and m.group(1) == r[17]:
+            continue
         nxt[r[17]] += 1
         r[NUMCOL] = "%s-%03d" % (r[17], nxt[r[17]])
         assigned += 1
     if assigned:
         with open(CSV, "w", encoding="utf-8-sig", newline="") as f:
             w_ = csv.writer(f); w_.writerow(hdr); w_.writerows(data)
-        print("assigned %d new 档案编号 (appended at the end)" % assigned)
+        print("re-numbered %d rows into their new grade (appended at the end)" % assigned)
     order = {"A": 0, "B": 1, "C": 2}
     data.sort(key=lambda r: (order.get(r[17], 9), num_of(r) or 99999))
     made = []

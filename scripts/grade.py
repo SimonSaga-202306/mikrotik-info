@@ -166,6 +166,31 @@ def main():
         r[17], r[18] = grade, why
         cnt[grade] += 1
 
+    # ── 下放规则（2026-09-23 用户指定，非评级标准改动）───────────────────
+    # 用户口径：A 重点跟进；B **只做群发**；没价值群发的直接沉 C。
+    # 因此 B 若「连邮箱都没有」→ 群发触达不到 → 沉 C 待命（全量信息仍然保留）。
+    # 例外：集成商/顾问型不沉。A 级里 78% 来自集成商（转化率 34.5%，是分销型的 9 倍），
+    #       这类多在 MikroTik 名录里留了电话，可单独触达，值得留 B。
+    MAIL = re.compile(r"[\w.+-]+@[\w-]+\.[\w.]{2,}")
+    INT = re.compile(r"集成商|顾问|Consultant|Integrator|工程|服务", re.I)
+    demoted = 0
+    for r in data:
+        if r[17] != "B":
+            continue
+        if MAIL.search(" ".join([r[9], r[16], r[3], r[0]])):
+            continue          # 有邮箱 → 群发得到，留 B
+        if INT.search(r[4]):
+            continue          # 集成商/顾问型 → 留 B，可单独触达
+        r[17] = "C"
+        r[18] = ("【2026-09-23 复核下放】无邮箱（群发触达不到）+ 非集成商型，"
+                 "按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评："
+                 "①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：" + r[18])
+        demoted += 1
+    if demoted:
+        cnt["B"] -= demoted
+        cnt["C"] += demoted
+        print("下放 B→C（无邮箱且非集成商型，群发触达不到）: %d 家" % demoted)
+
     with open(CSV, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(hdr)
