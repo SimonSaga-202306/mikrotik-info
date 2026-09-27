@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `e7c31313f22f` | 2026-09-27T15:27:13+00:00 | Research A300-A319 contacts with sourced official entries and explicit gaps |
 | `7814c342b835` | 2026-09-27T15:15:34+00:00 | Research A280-A299 contacts with sourced official entries and explicit gaps |
 | `43af7ece7284` | 2026-09-27T14:59:18+00:00 | Research A260-A279 contacts with sourced official entries and explicit gaps |
 | `642238174fe3` | 2026-09-27T14:43:05+00:00 | Research A240-A259 contacts and distinguish legacy leads from verified sources |

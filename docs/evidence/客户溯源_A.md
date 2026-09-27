@@ -4998,261 +4998,364 @@
 <a id="A-320"></a>
 ## A-320 · Evelem · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-852`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 伙伴库
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.evelem.fr
 - 精确同名同国别首次入库提交：`923fe61a1debfa9de5c9a1d387688f1600324e41`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@evelem.fr；投递未测试。
+  - 说明：官网（首页/服务/客户空间）给contact@evelem.fr、+33 1 76 43 22 00与92360 Meudon-la-Forêt；客户空间页另给支持入口support@evelem.fr / +33 1 76 43 22 22；自述设计、部署与维护网络架构；自社Facebook页同邮箱同电话。elioplus将其列为Allied Telesis渠道伙伴（法国MSP；类别含云存储/协作/网络安全/统一通信等）。本行CSV城市为空，官网地址为Meudon-la-Forêt（大巴黎都会区），未改城市字段。
+  - 保留原文：官网首页：Evelem ... contact@evelem.fr / +33 1 76 43 22 00 / 92360 Meudon-la-Forêt；Espace Client：Contact direct +33 1 76 43 22 22 / support@evelem.fr；Facebook：Page · Telecommunication company +33 1 76 43 22 00 contact@evelem.fr evelem.fr
+  - [1](https://www.evelem.fr/)
+  - [2](https://www.evelem.fr/espace-client)
+  - [3](https://elioplus.com/profile/channel-partners/allied_telesis)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-321"></a>
 ## A-321 · EDV-Partner · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-854`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 伙伴库
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://edvpartner.de
 - 精确同名同国别首次入库提交：`923fe61a1debfa9de5c9a1d387688f1600324e41`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[1]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：vertrieb@edvpartner.de；投递未测试。
+  - 说明：Allied Telesis伙伴页（EDV-Partner Ingenieurgesellschaft für Informationstechnologie mbH）给Große Bahnstraße 33, Hamburg与+49 40 2714470；官网edvpartner.de的厂商/伙伴页列Allied Telesis为合作厂商，联系信息给EDV-Partner GmbH, Große Bahnstraße 33, 22525 Hamburg、+49 40 271 447-30、vertrieb@edvpartner.de（销售信箱）。同名公司注意：Oberhausen的EDV-Partner（edv-partner.com，info@edv-partner.com）为另一家，不合并。
+  - 保留原文：AT伙伴页：EDV-Partner Ingenieurgesellschaft für Informationstechnologie mbH / Große Bahnstraße 33 / Hamburg DE / +49 40 2714470；edvpartner.de：EDV-Partner GmbH Große Bahnstraße 33 22525 Hamburg Tel.: +49 (0)40 / 271 447-30 ... E-Mail: vertrieb@edvpartner.de；本页列 ... Allied Telesis ... Netzwerklösungen, auf die Sie sich verlassen können
+  - [1](https://www.alliedtelesis.com/us/en/edv-partner-ingenieurgesellschaft-fur-informationstechnologie-mbh)
+  - [2](https://edvpartner.de/index.php/edv-partner/partner)
+  - [3](https://edv-partner.com/ueber-uns)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-322"></a>
 ## A-322 · AlphaCron Datensysteme · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-887`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=germany）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.alphacron.de
 - 精确同名同国别首次入库提交：`c67f9b99bf78930ebc6441a83726705c7f3b70e2`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[2]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@alphacron.de；投递未测试。
+  - 说明：官网（首页/Impressum/隐私页）给contact@alphacron.de、036202/759994（Fax 759997）与Wandersleber Straße 1a, 99192 Apfelstädt，注明Inhaber Marc Pauls；自述为IT系统商并附自营数据中心，列IBM Business Partner、LANCOM Advanced Partner、Ubiquiti、AVM等多品牌；IP记录（RIPE/ipgeolocation）显示AS28748（Marc Pauls AlphaCron Datensysteme）与abuse@alphacron.de，地址与主站一致。
+  - 保留原文：Impressum/Kontakt：AlphaCron Datensysteme Inh. Marc Pauls Wandersleber Straße 1a 99192 Apfelstädt / Tel.: 036202 / 759994 Fax: 036202 / 759997 / eMail: contact@alphacron.de；Datenschutz：... IBM Business Partner / AVM Partner / Gigaset / Ubiquiti / LANCOM Advanced Partner；IP记录：AS28748 ... Emails abuse@alphacron.de / +4936202759994
+  - [1](https://www.alphacron.de/)
+  - [2](https://www.alphacron.de/datenschutz/)
+  - [3](https://www.11880.com/branchenbuch/nesse-apfelstaedt/050331035B43413838/alphacron-datensysteme.html)
+  - [4](https://ipgeolocation.io/browse/ip/134.97.52.0)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-323"></a>
 ## A-323 · EDV-Beratung u Dienstleistungen Berg-Duda · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-901`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=germany）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://berg-duda.de
 - 精确同名同国别首次入库提交：`c67f9b99bf78930ebc6441a83726705c7f3b70e2`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[3]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@berg-duda.de；投递未测试。
+  - 说明：官网多处（产品/关于/隐私）给info@berg-duda.de、+49 2261/478849与Am Leiweg 11, 51702 Bergneustadt；Impressum载Geschäftsführer Sebastian Berg-Duda；自述2000-01-01成立、20+年经验、与多家硬件/软件厂商合作（AT名录列Resell）。
+  - 保留原文：Produkte页：Kontakt Tel: +49 2261 / 478849 Mail: info@berg-duda.de EDV Beratung & Dienstleistungen Berg-Duda Am Leiweg 11 51702 Bergneustadt；Impressum：Angaben gemäß § 5 TMG ... Geschäftsführer Sebastian Berg-Duda ... Mail: info@berg-duda.de；Über uns：Seit der Unternehmensgründung am 01.01.2000 ...
+  - [1](https://berg-duda.de/produkte)
+  - [2](http://cms.berg-duda.de/impressum)
+  - [3](https://berg-duda.de/ueber-uns)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-324"></a>
 ## A-324 · H&M electronics GbR · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-907`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=germany）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://hm-electronics.de
 - 精确同名同国别首次入库提交：`c67f9b99bf78930ebc6441a83726705c7f3b70e2`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@hm-electronics.de；投递未测试。
+  - 说明：官网AGB页“Anbieterkennzeichnung”给info@hm-electronics.de、Tel 09071/7925-0、Fax 7925-25与Am Stadtberg 19, 89407 Dillingen，载H&M electronics GbR（Herbert Kuchenbaur & Marcus Dick，USt-ID 127780918）；第三方目录另给Vorstadtstraße 6（同城另一经营点）与招聘页thomas.hoffmann@hm-electronics.de（第三方平台）。主字段取官网info@。
+  - 保留原文：AGB页：Anbieterkennzeichnung: H&M electronics GbR Herbert Kuchenbaur Dipl. Ing (FH) & Marcus Dick USt.-ID-Nr.: 127780918 Am Stadtberg 19 89407 Dillingen Tel.: 09071/7925-0 Fax: 09071/7925-25 mail: info@hm-electronics.de；ProvenExpert：09071 79250 info@hm-electronics.de
+  - [1](https://hm-electronics.de/agb/)
+  - [2](https://www.provenexpert.com/de-de/hm-electronics-dillingen-an-der-donau/)
+  - [3](https://www.oeffnungszeitenbuch.de/filiale/Dillingen-H%2526M%2520electronics-4233763C.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-325"></a>
 ## A-325 · Ingo Seidenberg Inseid – EDV-Beratung · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-911`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=germany）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.inseid.de
 - 精确同名同国别首次入库提交：`c67f9b99bf78930ebc6441a83726705c7f3b70e2`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@inseid.de；投递未测试。
+  - 说明：官网Impressum与首页给info@inseid.de、Tel +49 5139 985230（Fax 985231；Mobil +49 171 3124971）与Ingo Seidenberg（INSEID – IT-Beratung / Technisches Büro），Schulze-Delitzsch-Str. 11, 30938 Burgwedel；自述25+年为中小企业做服务器、网络组件、网络件定制、视频监控与自动化网络。第三方名录同址同电话（邮箱遮罩）。
+  - 保留原文：Impressum：INSEID - Ingo Seidenberg IT-Beratung – Technisches Büro Schulze-Delitzsch-Str. 11 D - 30938 Burgwedel / OT Großburgwedel Tel.: +49 5139 - 985230 Fax: +49 5139 - 985231 Mobil: +49 171 - 3124971 E-Mail: info@inseid.de；首页：Seit über 25 Jahren ... Serverlösungen, Netzwerkkomponenten ... Sonderanfertigungen von Netzwerkkomponenten und Sonderzubehör
+  - [1](https://www.inseid.de/impressum.html)
+  - [2](https://www.inseid.de/)
+  - [3](https://www.11880.com/branchenbuch/burgwedel/050331035B113174760/ingo-seidenberg-inseid-edv-beratung.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-326"></a>
 ## A-326 · Merlin EDV · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-919`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=germany）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.merlinedv.de
 - 精确同名同国别首次入库提交：`72ebe2bbe1a63d462d0134e2a6ea359753ebc828`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@merlinedv.de；投递未测试。
+  - 说明：官网联系页与Imprint给info@merlinedv.de、+49 9131 90715-0（Fax -10）与Gerberei 19, 91054 Erlangen，主体MERLIN Kommunikationstechnik e.K.（HRA 7006 Fürth；VAT DE178474116）；AT伙伴页（Merlin EDV）给同址Gerberei 19（其“Bayern”字段对应此址）、+49 9131 907150与Reseller等级。本行CSV城市写作“Bayern”（地区字段），未改字段，实际坐落为Erlangen。
+  - 保留原文：Contact页：MERLIN Kommunikationstechnik e.K. Gerberei 19 D-91054 Erlangen Phone +49 9131 90715-0 Fax +49 9131 90715-10 Email info@merlinedv.de；Imprint：District court Fürth (Bavaria) HRA 7006 VAT ID: DE178474116；AT伙伴页：Merlin EDV Gerberei 19 91054 Bayern Germania ... Tel +49 9131 907150 ... Organisation Type Reseller ... Website https://www.merlinedv.de/
+  - [1](https://www.merlinedv.de/en/about-merlin/contact)
+  - [2](https://www.merlinedv.de/en/imprint)
+  - [3](https://www.alliedtelesis.com/it/it/merlin-edv)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-327"></a>
 ## A-327 · CFI France · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-942`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://cfigroupe.com
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@cfigroupe.com；投递未测试。
+  - 说明：AT伙伴页（CFI France）给9-11 Avenue Michelet, Saint-Ouen Cedex 93583、+33 1 49 48 88 60与官网链接cfigroupe.com；cfigroupe官网联系页给contact@cfigroupe.com、+33 1 70 94 90 91（页脚另给+33 1 70 94 91 00）、CFI Carré Pleyel D, 5-7 rue Pleyel, 93283 Saint-Denis Cedex与CTI（Villeneuve-la-Garenne）；Pappers载COMPAGNIE FRANCAISE INFORMATIQUE (CFI) SIREN 323540534，旧址9-11 avenue Michelet Saint-Ouen（2015年迁出）。主字段取官网contact@；AT名录城市为该司旧址。
+  - 保留原文：AT页：CFI France / 9-11 Avenue Michelet / Saint - Ouen Cedex 93583 France / +33 1 49 48 88 60 / Visit Website https://cfigroupe.com/；CFI联系页：CFI Compagnie Française Informatique Carré Pleyel D 5-7 rue Pleyel, CS40006 93283 Saint-Denis Cedex ... +33 1 70 94 90 91 contact@cfigroupe.com；Pappers：323 540 534 ... 9 AVENUE MICHELET 93400 SAINT-OUEN-SUR-SEINE ... Date de clôture : 30/06/2015
+  - [1](https://www.alliedtelesis.com/fr/fr/cfi-france)
+  - [2](https://www.cfigroupe.com/contactez-nous/)
+  - [3](https://www.pappers.fr/entreprise/compagnie-francaise-informatique-323540534)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-328"></a>
 ## A-328 · Delta Sertec · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-943`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.deltasertec.com
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@deltasertec.com；投递未测试。
+  - 说明：官网联系页给contact@deltasertec.com、04 91 06 00 04与15 rue Georges Charpak, 13013 Marseille；法律声明载DELTA SERTEC SAS（资本480 000€，RC Marseille 79B794）、出版负责人Arnaud Brouquier（contact@）；隐私页给DPO dpo@deltasertec.com，招聘页给recrutement@deltasertec.com；自述法国南部两机构（Marseille/Vaucluse）、40+人。主字段取contact@。
+  - 保留原文：Contact页：Siège Social 15 rue Georges Charpak 13013 Marseille / Agence de Marseille : contact@deltasertec.com 04 91 06 00 04；Mentions légales：Propriétaire : DELTA SERTEC SAS – au capital social de 480 000 euros ... Responsable publication : Arnaud BROUQIER – contact@deltasertec.com；Politique de confidentialité：dpo@deltasertec.com
+  - [1](https://www.deltasertec.com/contactez-nous/)
+  - [2](https://www.deltasertec.com/mentions-legales/)
+  - [3](https://www.deltasertec.com/recrutement/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-329"></a>
 ## A-329 · GTD International · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-945`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://gtd-international.fr
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[9]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@gtd-international.com；投递未测试。
+  - 说明：官网法律声明给contact@gtd-international.com与05 32 09 11 80，载GTD INTERNATIONAL（Hôtel d’Entreprise de la Coume, 1 chemin de la Coume, 09300 Lavelanet；RCS Foix 794 778 977；TVA FR22 794 778 977；出版负责人Javier Muru；法国子公司，集团gtd.eu）；第三方（Kompass）另给总裁Angel Ramirez的angel.ramirez@gtd.eu，不并入主字段。业务为复杂/关键环境IT工程（航天、航空、能源、科学设施、关键基础设施等）。
+  - 保留原文：Mentions légales：Siège social : HOTEL D’ENTREPRISE DE LA COUME, 1 CHEMIN DE LA COUME, 09300 LAVELANET / N° TVA Intracommunautaire : FR22 794 778 977 / Directeur de publication : Javier Muru - Contact de la publication : contact@gtd-international.com ou 05 32 09 11 80 / GTD International, filiale française du groupe GTD www.gtd.eu；Kompass：M. Angel Ramirez Président / angel.ramirez@gtd.eu
+  - [1](https://gtd-international.fr/mentions-legales/)
+  - [2](https://fr.kompass.com/c/gtd-international/fr2440913/)
+  - [3](https://www.aerospace-valley.com/annuaire-des-membres/gtd-international-sas)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-330"></a>
 ## A-330 · NXO France · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-947`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.nxo.eu
 - 精确同名同国别首次入库提交：`4305643ef9af2b6d2d4a08b90e3aa9615bebe36c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@nxo.eu；投递未测试。
+  - 说明：官网联系/法律页给contact@nxo.eu、0 821 201 201（infonet另列01 84 78 33 33）与133 boulevard National, 92563 Rueil-Malmaison（旧总部）；工商与媒体显示总部自2026-03-30迁至1-7 Cours de Valmy, 92800 Puteaux（La Défense，Le Belvédère），2024年营收330M€，2026-02收购iDNA。第三方名录另见前身NextiraOne域名的邮箱（nextiraone.eu），不并入主字段；CSV城市未改。
+  - 保留原文：nxo.eu：HEAD OFFICE NXO 133, boulevard National 92563 Rueil-Malmaison / 0 821 201 201 ... contact@nxo.eu；Legal notice：Contact email : contact@nxo.eu ... SIREN number: 811 934 363 ... Head Office: 133 Boulevard National, 92500 Rueil-Malmaison；ChannelNews：Depuis le 30 mars, l’intégrateur a quitté Rueil-Malmaison pour prendre ses quartiers dans l’immeuble Le Belvédère ... En 2024, l’entreprise a réalisé 330 M€ de chiffre d’affaires
+  - [1](https://www.nxo.eu/en/about-us/our-locations/)
+  - [2](https://www.nxo.eu/en/legal-notice/)
+  - [3](https://www.channelnews.fr/nxo-installe-son-siege-a-la-defense-156826)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-331"></a>
 ## A-331 · SYNEXIE · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-948`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=france）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.synexie.fr
 - 精确同名同国别首次入库提交：`f902428ea732857c91320d1f10e0a84cd56a0731`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[11]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@synexie.fr；投递未测试。
+  - 说明：官网（招聘页/页脚）给contact@synexie.fr、+33 4 98 08 02 80，列Toulon - La Ciotat - Paris三地；招聘页给rh@synexie.fr；自社Facebook页给297 Avenue du Mistral, La Ciotat与同邮箱同电话，自述ESN（IT/云/网络安全）。Pappers载SYNEXIE SIREN 449807460、现址31 rue Chevalier Paul, Toulon；La Valette-du-Var旧址已于2006-07-01关闭——本行CSV城市为该旧址，未改字段。
+  - 保留原文：招聘页：Who Are We Looking For? ... please send your application (CV + cover letter) to rh@synexie.fr / Toulon - La Ciotat - Paris / contact@synexie.fr；Facebook：Synexie • Votre allié cybersécurité ... 297 Avenue du Mistral, La Ciotat, France +33 4 98 08 02 80 contact@synexie.fr synexie.fr；Pappers：SYNEXIE ... 31 RUE CHEVALIER PAUL, 83000 TOULON ... 13 AVENUE PIERRE GILLES DE GENNES ... 83160 LA VALETTE-DU-VAR ... Date de clôture : 01/07/2006
+  - [1](https://www.synexie.fr/en/recruitment/)
+  - [2](https://www.facebook.com/Synexie/)
+  - [3](https://www.pappers.fr/entreprise/synexie-449807460)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-332"></a>
 ## A-332 · Adrianet Snc · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-950`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.adrianetsrl.it
 - 精确同名同国别首次入库提交：`cafa749989b1dbee7f1ec180eeca1b0017ec648b`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[12]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@adrianetsrl.it；投递未测试。
+  - 说明：官网adrianetsrl.it给info@adrianetsrl.it、080 467 2023与Via Dell'Indipendenza 10, 70010 Valenzano (BA)，页脚载P.IVA 06075650728、sede legale同址、PEC adrianetsrl@pec.it；自述2003年成立（snc），2025年转为Adrianet SRL，做系统集成（数据/语音、自动化、安防、视频监控）；工商档案载SRL、注册2004-01-19、2025年2名员工。AT名录列Integrate/Resell。
+  - 保留原文：官网：ADRIANET SRL – Sede Legale: Via Dell’Indipendenza, 10 – 70010 Valenzano (BA) / 080 467 2023 – email: info@adrianetsrl.it ... P.IVA 06075650728 ... PEC: adrianetsrl@pec.it；... costituita nel 2003 ... Nel 2025 si trasforma in Adrianet SRL mantenendo le stesse caratteristiche；ufficiocamerale：ADRIANET S.R.L. ... VIA DELL'INDIPENDENZA 10 ... Dipendenti : 2 (2025)
+  - [1](https://www.adrianetsrl.it/)
+  - [2](https://www.ufficiocamerale.it/2267/adrianet-snc-di-abbinante-muzio-c)
+  - [3](https://www.adrianetsnc.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-333"></a>
 ## A-333 · C.G.T. Elettronica SpA · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-953`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://cgtelettronica.it
 - 精确同名同国别首次入库提交：`cafa749989b1dbee7f1ec180eeca1b0017ec648b`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@cgtelettronica.it；投递未测试。
+  - 说明：官网联系页给info@cgtelettronica.it（罗马与维泰博两处同邮箱）、罗马办公室Via Adriano Olivetti 24/26（+39 06 65793119）与Viterbo Via Dell'Artigianato（+39 761 250537）；公司介绍自述1985年由Ing. Michele Grifa创立，做安全与电信系统；工商档案载P.IVA 01668611005、C.F. 07018000583、注册1985/1989、PEC cgt@legalmail.it。本行城市Roma对应其罗马办公室。
+  - 保留原文：Contacts页：Rome office Roma, Via Adriano Olivetti, 24/26, 00131 / Tel: +39 06 65793119 / Email: info@cgtelettronica.it；Viterbo office Viterbo, Via Dell'Artigianato snc, 01100 / Tel: +39 (0)761 250537 / Email: info@cgtelettronica.it；官网：The C.G.T. Elettronica S.p.A. was established in 1985 by Ing. Michele Grifa ...；ufficiocamerale：PEC cgt@legalmail.it
+  - [1](https://cgtelettronica.it/contatti/)
+  - [2](https://cgtelettronica.it/)
+  - [3](https://www.ufficiocamerale.it/3722/cgt-elettronica-compagnia-generale-telecomunicazioni-ed-elet-ronica-societa-per-azioni-in-breve-cgt-spa)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-334"></a>
 ## A-334 · CAMELI SAT · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-954`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`cafa749989b1dbee7f1ec180eeca1b0017ec648b`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[14]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（ditta individuale，P.IVA 01218330494），Via Vittorio Veneto 24, 57022 Castagneto Carducci (Donoratico)，电话0565 774391。官网域名camelisat.it现仅显示“I frutti del poggio”页面（未见Cameli Sat联系信息）；Kblue厂商案例页（第三方，2022）以“Kblue Point Cameli Sat”名义给出info@camelisat.it与0564 774391（区号与工商录0565不符）。因官网未见邮箱、第三方联系方式未获第二来源互证，本行维持leads-only并保留【待人工补信息】，主字段不写邮箱与网站。
+  - 保留原文：Kblue案例页：L’opera di collegamento ha visto in prima linea il Kblue Point Cameli Sat (specializzato in lavori di networking) ... Installatore Cameli Sat di Burgalassi Agnese | via Vittorio Veneto, 24 – Donoratico (LI) info@camelisat.it | 0564 774391；coobiz：Cameli Sat di Burgalassi Agnese ... Via Vittorio Veneto 24 ... Tel. 0565774391 ... DITTA INDIVIDUALE ... P.IVA 01218330494；camelisat.it首页本轮仅显示“I frutti del poggio”
+  - [1](https://kblue.it/la-domotica-kblue-soddisfa-le-esigenze-dei-villaggi-vacanze/)
+  - [2](https://www.coobiz.it/azienda/castagneto-carducci-riparazione-macchine/co6471615)
+  - [3](http://www.camelisat.it/)
+  - [4](https://www.europages.it/CAMELISAT-DI-BURGALASSI-AGNESE/SEAC000324635-001.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-335"></a>
 ## A-335 · Dps Informatica S.n.c. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-959`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.dpsinformatica.it
 - 精确同名同国别首次入库提交：`cafa749989b1dbee7f1ec180eeca1b0017ec648b`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official-obfuscated`。
+  - 公开邮箱：info@dpsinformatica.it；投递未测试。
+  - 说明：官网联系页以可逆“(at)”写法公布多个邮箱：info(at)/commerciale(at)（商业）、sistemi(at)（网络与软件）、tecnici(at)（技术支持）、direzione(at)/contab(at)/amministrazione(at)/logistica(at)@dpsinformatica.it；并给+39 0432 801790（Fax 801686）与Piazza Marconi 11, 33034 Fagagna (UD)；MePA页重复info(at)/sistemi(at)。按可逆(at)规则规范为info@dpsinformatica.it，原文写法保留在quote。工商档案：DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.，P.IVA 01486330309，1986-12-20注册，PEC dpsinformatica@legalmail.it。
+  - 保留原文：Contatti页：DPS INFORMATICA s.n.c. Piazza Marconi, 11 33034 Fagagna (UD) ... +39 0432 801790 ... info@dpsinformatica.it（页面以 info(at)dpsinformatica.it 形式展示）；Direzione · dps(at)dpsinformatica.it / Area Commerciale · info(at)dpsinformatica.it、commerciale(at)dpsinformatica.it / Assistenza tecnica · tecnici(at)dpsinformatica.it / Reti e software · sistemi(at)dpsinformatica.it / Spedizioni e consegne · logistica(at)dpsinformatica.it；MePA页：info(at)dpsinformatica.it / sistemi(at)dpsinformatica.it
+  - [1](https://www.dpsinformatica.it/contatti)
+  - [2](https://www.dpsinformatica.it/mepa)
+  - [3](https://www.visurissima.it/aziende/DPS-INFORMATICA-S.N.C.-DI-PRESELLO-GIANNI--C._01486330309.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-336"></a>
 ## A-336 · EULOGIC NT Spa · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-961`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://eulogic.it
 - 精确同名同国别首次入库提交：`cafa749989b1dbee7f1ec180eeca1b0017ec648b`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[16]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@eulogic.it；投递未测试。
+  - 说明：官网页脚/团队页给info@eulogic.it、+39 080 564 0511与Via Ugo La Malfa 3, 70125 Bari（另米兰Via Bocchetto 6），P.IVA 04863810729；自述脉络为1995年SIM NT→2010年Eulogic S.r.l.→现Eulogic NT SpA，30+年ICT，做Digital Security/Consulting/Transformation；自社Facebook同邮箱同电话同地址；行业协会页（Distretto Informatica Puglia）同邮箱。AT名录列Resell。
+  - 保留原文：团队页：... 1995 SIM NT S.r.l Specialisti in system integration, reti e infrastrutture IT ... 2010 Eulogic S.r.l ... Contatti Telefono: +39 080 564 0511 / Via Ugo La Malfa 3, 70125 Bari / Via Bocchetto 6, 20123 Milano / Partita IVA: 04863810729 / Email: info@eulogic.it；Facebook：Eulogic NT SpA ... via Ugo La Malfa 3, Bari, Italy +39 080 564 0511 info@eulogic.it
+  - [1](https://eulogic.it/team/)
+  - [2](https://www.facebook.com/eulogicsrl/)
+  - [3](https://distrettoinformatica.it/associati/eulogic/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-337"></a>
 ## A-337 · I&SI S.p.A. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-969`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.ingesw.com
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@ingesw.com；投递未测试。
+  - 说明：公司官网ingesw.com（Ingegneria & Software Industriale S.p.A.）联系页为表单+Google地图，正文未显示邮箱；邮箱info@ingesw.com见公司自设在European Job Days的档案（同页给06/928651）、名录页与Crunchbase联系方式（域名一致）。运营地Via della Meccanica 2b, 04011 Aprilia（+39 06 928651）；D&B载总部Via XX Settembre 98/G Roma、总裁Gianni Nieddu；AT名录列Resell。主字段取info@ingesw.com（官方域名、公司自设档案一致），官网正文未复现此点已在此说明。
+  - 保留原文：European Job Days（公司档案）：Ingegneria & Software industriale Spa ... La sede operativa principale è ad Aprilia, a sud di Roma ... 06/928651 INFO@INGESW.COM；oraridiapertura24：Via della Meccanica 2b 04011 Aprilia / +39.06.928651 / info@ingesw.com；官网联系页本轮仅返回表单与Google地图（未见邮箱文字）；D&B：VIA XX SETTEMBRE 98/G ROMA ... Key Principal GIANNI NIEDDU
+  - [1](https://europeanjobdays.eu/en/company/ingegneria-software-industriale-spa)
+  - [2](http://www.ingesw.com/ingesw/contatti-2/)
+  - [3](https://oraridiapertura24.it/filiale/Aprilia-Ingegneria%20&%20Software%20Industriale%20Spa-4286316D.html)
+  - [4](https://www.dnb.com/business-directory/company-profiles.ingegneria__software_industriale_spa.40c05a1047199a94da2493712042092d.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-338"></a>
 ## A-338 · Irene · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-971`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.irenesrl.it
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[18]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@irenesrl.it；投递未测试。
+  - 说明：官网irenesrl.it（意/英）给info@irenesrl.it、010 6972264（Fax 0106973965）与Via Opisso 91, 16155 Genova（仓库Via Diciotto Fanciulli 15r），C.F./P.IVA 01002040093，自1991年起做船舶/工业IT（工作站、服务器、嵌入式、工业网络、工业网络安全）；工商档案同P.IVA、登记1991-10-16、13名员工、注册地Corso Italia 4/2 Savona（法定地址，未改CSV城市Genova）。AT名录列Resell。
+  - 保留原文：官网Contatti：Sede Via Opisso 91 16155 Genova Italia telefono: 0106972264 fax: 0106973965 E-mail: info@irenesrl.it / Magazzino Via della Maona, 4r 16155 Genova；Info & Contatti：Irene srl C.F. e P.IVA 01002040093 ... Telefono: 010 6972264 info@irenesrl.it；ufficiocamerale：IRENE S.R.L. ... CORSO ITALIA 4/2 - 17100 SAVONA (SV) ... Data Iscrizione: 16/10/1991 ... Dipendenti : 13 (2025)
+  - [1](https://www.irenesrl.it/it/menu-3/azienda.html)
+  - [2](https://www.irenesrl.it/en/news-2/contatti.html)
+  - [3](https://www.ufficiocamerale.it/4117/irene-srl)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-339"></a>
 ## A-339 · ML Software S. r. l. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-975`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.mlsoftware.it
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A320-A339.json` → `records[19]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@mlsoftware.it；投递未测试。
+  - 说明：官网联系页给info@mlsoftware.it、+39 095484679与Via Roccaromana 32/A, Catania；自述30年经验、网络管理与网络安全、含自营数据中心、ISO 9001与ISO 27001:2022，合作品牌OPSWAT/Orchestra Group/Barracuda；工商档案载ML SOFTWARE S.R.L.、P.IVA 04656500875、2009-02-03注册、2024年营收1.45M€、PEC mlsoftware@pec.mlsoftware.it；Kompass另给logistica@mlsoftware.it（第三方），不并入主字段。AT名录列Resell。
+  - 保留原文：Contattaci页：Contatti MLS ... INDIRIZZO Via Roccaromana 32/A, Catania / TELEFONO +39 095484679 / EMAIL info@mlsoftware.it；官网：... MLS ha ottenuto le certificazioni ISO 9001 e ISO 27001:2022 ... esperienza trentennale；ufficiocamerale：ML SOFTWARE S.R.L. ... VIA ROCCAROMANA 32/A - 95124 CATANIA ... Fatturato € 1.450.338,00 (2024) ... PEC mlsoftware@pec.mlsoftware.it
+  - [1](https://www.mlsoftware.it/contattaci/)
+  - [2](https://www.ufficiocamerale.it/3625/ml-software-srl)
+  - [3](https://it.kompass.com/c/ml-software-s-r-l/it0456154/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-340"></a>

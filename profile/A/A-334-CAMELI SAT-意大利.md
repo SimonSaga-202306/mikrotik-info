@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A320–A339联络核验】来源等级：leads-only。AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（ditta individuale，P.IVA 01218330494），Via Vittorio Veneto 24, 57022 Castagneto Carducci (Donoratico)，电话0565 774391。官网域名camelisat.it现仅显示“I frutti del poggio”页面（未见Cameli Sat联系信息）；Kblue厂商案例页（第三方，2022）以“Kblue Point Cameli Sat”名义给出info@camelisat.it与0564 774391（区号与工商录0565不符）。因官网未见邮箱、第三方联系方式未获第二来源互证，本行维持leads-only并保留【待人工补信息】，主字段不写邮箱与网站。 证据：[1](https://kblue.it/la-domotica-kblue-soddisfa-le-esigenze-dei-villaggi-vacanze/) [2](https://www.coobiz.it/azienda/castagneto-carducci-riparazione-macchine/co6471615) [3](http://www.camelisat.it/) [4](https://www.europages.it/CAMELISAT-DI-BURGALASSI-AGNESE/SEAC000324635-001.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A320-A339.json#A-334 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **电话**：+39 0565 774391
+- **原始联系字段**：+39 0565 774391（工商/商录电话，Donoratico）；官网camelisat.it本轮未见联系信息；未见可核证邮箱与网站；本轮保留人工补信息标注
 
 ## 四、品牌与技术栈
 

@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | ML Software S. r. l. |
 | 国家 | 意大利 |
 | 城市 | Catania |
-| 网站 | — |
+| 网站 | https://www.mlsoftware.it |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 伙伴等级：Resell。 【2026-09-27 A320–A339联络核验】来源等级：official-company。官网联系页给info@mlsoftware.it、+39 095484679与Via Roccaromana 32/A, Catania；自述30年经验、网络管理与网络安全、含自营数据中心、ISO 9001与ISO 27001:2022，合作品牌OPSWAT/Orchestra Group/Barracuda；工商档案载ML SOFTWARE S.R.L.、P.IVA 04656500875、2009-02-03注册、2024年营收1.45M€、PEC mlsoftware@pec.mlsoftware.it；Kompass另给logistica@mlsoftware.it（第三方），不并入主字段。AT名录列Resell。 证据：[1](https://www.mlsoftware.it/contattaci/) [2](https://www.ufficiocamerale.it/3625/ml-software-srl) [3](https://it.kompass.com/c/ml-software-s-r-l/it0456154/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A320-A339.json#A-339 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **邮箱**：info@mlsoftware.it、mlsoftware@pec.mlsoftware.it
+- **电话**：+39 095484679
+- **原始联系字段**：info@mlsoftware.it（官网Contattaci页）；+39 095484679；ML Software S.r.l. Catania（PEC mlsoftware@pec.mlsoftware.it）
 
 ## 四、品牌与技术栈
 
