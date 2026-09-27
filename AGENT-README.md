@@ -770,4 +770,38 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 35 — 2026-09-23（用户：继续）
+**A 365 → 371（+6），合计 1026 行**
+**🔑 Perle 钥匙已验证可用（重要）**
+  ```
+  https://www.perle.com/howtobuy/distributors.aspx?countryname={英文国名}
+  ```
+  - **国名用英文**（`United%20States` / `United%20Kingdom` / `France` / `Netherlands`），
+    不是德文 —— 修正对话 34 的猜测
+  - 静态 HTML，可直接 fetch，返回**名称 / 地址 / 城市 / 邮编 / 电话 / 官网 / 邮件入口**
+  - ⚠️ 页首常显示 "Error!"，**不影响内容**，忽略即可
+  - 命中率：美国 1 新、英国 2 新（实收 1）、法国 5 新（实收 4）、荷兰 0、意大利 0、西班牙 0
+**Perle 各国状态**
+  | 国 | 结果 |
+  |---|---|
+  | 美国 | iComTech（**已在库**）、Express Systems（已在库）、KMJ（已在库）；Ingram/DigiKey/Wesco 过大 → **净 0** |
+  | 英国 | **Cogent Distribution 新增**；S-Connect 已在库；Westbase 已在库；Ingram/Arrow/Wesco 过大 |
+  | 法国 | **Noriak、Connect Data、EQUIPAGES、PEDAB、Sphinx Connect 新增 5 家**（法国此前仅 11 个 A） |
+  | 荷兰 | 0（只有 Wesco Anixter + S-Connect） |
+  | 意大利 | **无分销商** |
+  | 西班牙 | **无分销商** |
+  | 德国 | Allnet / CDS / Sphinx / Wesco —— 基本已在库 |
+**⚠️ 去重提醒（易踩坑）**
+  - **Sphinx 系是三个不同法人**：Sphinx Italia（意）、Sphinx Computer Vertriebs（德）、
+    **Sphinx Connect（法）** —— 已在备注标注**勿合并**
+  - **S-Connect 同时覆盖英国与荷兰**（一家公司两个地址），不是重复
+**✅ 附带成效：PoE 场景 24 → 30**
+  Perle 主推 IDS-710 工业 PoE（100W 802.3bt），其渠道伙伴**天然落在 PoE/监控/门禁场景**，
+  是本轮场景增长的最大来源
+**❌ Perle 剩下的国家（下轮）**：Canada、Sweden、Norway、Denmark、Finland、Poland、
+  Belgium、Austria、Switzerland、Portugal、Ireland
+**当前**：A371 / B344 / C311 = **1026**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
