@@ -17,20 +17,20 @@
 | 公司名 | Fredrik Hellgren |
 | 国家 | 瑞典 |
 | 城市 | Älvsjö |
-| 网站 | axbyte.se |
+| 网站 | https://axbyte.se |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCSWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 持 **MTCSWE**。 |
+| 原备注 | 持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：official-company。AxByte官网联系页正文普通邮箱、08-58619500匹配原记录。Fredrik所属AxByte/Owner仅第三方RocketReach搜索摘要提示，本轮未从官网确认个人职位；不推邮箱格式，不冒用Gothenburg消防风险顾问或同名体育人士。 证据：[1](https://axbyte.se/kontakt) [2](https://rocketreach.co/axbyte-internet-services-ab-management_b7fbccf0c2536729) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-246 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：contact@axbyte.se
 - **电话**：+46 8 586 195 00
-- **原始联系字段**：+46 8 586 195 00
+- **原始联系字段**：contact@axbyte.se（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+46 8 586 195 00
 
 ## 四、品牌与技术栈
 

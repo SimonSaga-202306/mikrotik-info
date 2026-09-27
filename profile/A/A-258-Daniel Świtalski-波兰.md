@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 持 **MTCSWE**。 |
+| 原备注 | 持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：leads-only。检索带/不带音符姓名、Poznan/网络/MikroTik、完整原电话等，没有匹配邮箱/域名。搜索中的Chicago人才招聘经理和Filmweb演员不能认作本客户，不导入其邮箱/社媒；MikroTik名录本次抓取只得到JS地图外壳/No results found，不能解读为此人已除名。保留原电话和A级，仍待进一步身份线索，不宣称全网穷尽。 证据：[1](https://mikrotik.com/training/centers) [2](https://www.linkedin.com/in/daniel-switalski-3461546b/) [3](https://www.filmweb.pl/person/Daniel+%C5%9Awitalski-1912863) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-258 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+48 609 880343
-- **原始联系字段**：+48 609 880343
+- **原始联系字段**：+48 609 880343（原电话，本轮未独立复核；仍未找到匹配邮箱/网站）
 
 ## 四、品牌与技术栈
 

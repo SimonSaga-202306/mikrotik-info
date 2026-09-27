@@ -17,20 +17,20 @@
 | 公司名 | Connect Data |
 | 国家 | 法国 |
 | 城市 | Bievres |
-| 网站 | connectdata.fr |
+| 网站 | https://www.connectdata.fr |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official-obfuscated。官网contact正文Demande de devis显示sales[at]connectdata.fr，mailto给完整sales@connectdata.fr，两者一致不是猜测。Bièvres Burospace21/+33160137010匹配，Sintel为同页品牌关联，不自动合并。页面夹Cloudflare表单提示但邮箱正文可读；未提交表单。排除英国Connected Data及美国Connect Data Solutions。 证据：[1](https://www.connectdata.fr/contact/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-254 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@connectdata.fr
 - **电话**：+33 1 60 13 70 10
-- **原始联系字段**：+33 1 60 13 70 10
+- **原始联系字段**：sales@connectdata.fr（官网明确[at]/mailto还原；未测试投递）；原入口：+33 1 60 13 70 10
 
 ## 四、品牌与技术栈
 

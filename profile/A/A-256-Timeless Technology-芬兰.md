@@ -17,20 +17,20 @@
 | 公司名 | Timeless Technology |
 | 国家 | 芬兰 |
 | 城市 | Pori |
-| 网站 | timeless.fi |
+| 网站 | https://timeless.fi |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official。官网公司页正文邮箱、Pori与+358449988238匹配；明确Timeless Technology为Timeless Group Oy注册副商号，企业号FI31392641。账单accountspayable不作主入口；副商号关系不是新增另一个客户。 证据：[1](https://timeless.fi/yritys/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-256 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@timeless.fi
 - **电话**：+358 44 9988 238
-- **原始联系字段**：+358 44 9988 238
+- **原始联系字段**：info@timeless.fi（官网正文公开；未测试投递）；原入口：+358 44 9988 238
 
 ## 四、品牌与技术栈
 

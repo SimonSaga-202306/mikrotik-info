@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 持全部十证含 **MTCSWE**，葡萄牙首位进库。 |
+| 原备注 | 持全部十证含 **MTCSWE**，葡萄牙首位进库。 【2026-09-27 A240–A259联络核验】来源等级：local-legacy-unverified。本地batch/be_pt_ie.json（Camacho / Engenheiros）与B452存camacho@engenheiros.pt及相同+351965869277，只是历史记录线索，未获本轮外部邮箱/全名匹配，不计新确认邮箱、不并入主邮箱列表。engenheiros.pt正文说明是工程师协会会员邮箱服务，不能当其个人公司网站。全名搜索见巴西工程师/2018MUM与Dublin LinkedIn线索，Aveiro/欧盟身份桥接未完成；Junior、土木公司等不可冒用。保留原城市/电话/A级，不宣称所有同名已排除。 证据：[1](https://www.engenheiros.pt/) [2](https://mum.mikrotik.com/presentations/UK18/presentation_5937_1542710675.pdf) [3](https://www.linkedin.com/in/flavio-camacho-aa966556/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-249 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+351 965 869 277
-- **原始联系字段**：+351 965 869 277
+- **原始联系字段**：+351 965 869 277（仅保留原电话；旧批次邮箱在备注，未获外部验证，不计新确认邮箱）
 
 ## 四、品牌与技术栈
 

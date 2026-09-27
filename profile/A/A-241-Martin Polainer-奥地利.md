@@ -17,20 +17,20 @@
 | 公司名 | Martin Polainer |
 | 国家 | 奥地利 |
 | 城市 | Weiz |
-| 网站 | — |
+| 网站 | https://www.triotronik.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | TRIOTRONIK。缺 MTCSWE。 |
+| 原备注 | TRIOTRONIK。缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official-named。官网团队页第2块正文明确Martin Polainer、Leitung Technik & Trainer及邮箱；第1块总邮箱office@triotronik.com、Weiz及电话匹配。另公开采购主管Dominik Mayer，d.mayer@triotronik.com，+43 3172 42299 016；仅记录公开职位/入口，不证明愿采购。与B113公司关联，不合并、不升级；不采用ContactOut遮罩。 证据：[1](https://www.triotronik.com/de/Ueber-uns/Team-Anfahrt---4.5.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-241 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：m.polainer@triotronik.com
 - **电话**：43 3172 42299 0
-- **原始联系字段**：43 3172 42299 0
+- **原始联系字段**：m.polainer@triotronik.com（官网具名业务邮箱；未测试投递）；原入口：43 3172 42299 0
 
 ## 四、品牌与技术栈
 

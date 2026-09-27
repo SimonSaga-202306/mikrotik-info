@@ -17,20 +17,20 @@
 | 公司名 | Khalil Chamseddine |
 | 国家 | 奥地利 |
 | 城市 | Vienna |
-| 网站 | — |
+| 网站 | https://aulaf.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | 持全部十证，含 **MTCSWE**。奥地利首位进库的 MTCSWE 顾问。 |
+| 原备注 | 持全部十证，含 **MTCSWE**。奥地利首位进库的 MTCSWE 顾问。 【2026-09-27 A240–A259联络核验】来源等级：official-company。AULAF现官网正文公布训练咨询总邮箱、Vienna面授考试安排。Khalil姓名与khalil@aulaf.com只在旧/mtcna-vienna搜索索引复见，实际404；所以主用现机构admin邮箱，不说找到当前个人直邮。2019 Tahandos黎巴嫩邮箱不是奥地利现入口，未并入主联系字段。当前任职/原奥地利手机号未独立复核。 证据：[1](https://aulaf.com/) [2](https://aulaf.com/mtcna-vienna) [3](https://mum.mikrotik.com/presentations/LB19/presentation_6352_1548734037.pdf) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-240 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：admin@aulaf.com
 - **电话**：+436889131190
-- **原始联系字段**：+436889131190
+- **原始联系字段**：admin@aulaf.com（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+436889131190
 
 ## 四、品牌与技术栈
 

@@ -17,20 +17,20 @@
 | 公司名 | Victor Bolaños Guerra |
 | 国家 | 西班牙 |
 | 城市 | Las Palmas de Gran Canaria |
-| 网站 | — |
+| 网站 | https://www.lo0.es |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | Loopback0。持 **MTCSWE**。 |
+| 原备注 | Loopback0。持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：official-company。lo0现官网联系页正文总邮箱和+34911880366与主表匹配，现机构地址Madrid，不修改个人城市Las Palmas。Victor在旧官方作者页搜索及LinkedIn帖子中与Loopback0/Fibercli相连，作者页现404；只给机构入口，不证明现任职，不导入无关同名工商邮箱。 证据：[1](https://www.lo0.es/contact/) [2](https://blog.lo0.es/author/vitoko/) [3](https://es.linkedin.com/posts/victorbguerra_loopback0-fibercli-activity-6882594969824051200-QSfL?trk=public_profile_like_view) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-248 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@lo0.es
 - **电话**：+34 911 88 03 66、+34 605 75 90 75
-- **原始联系字段**：+34 911 88 03 66 / +34 605 75 90 75
+- **原始联系字段**：info@lo0.es（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+34 911 88 03 66 / +34 605 75 90 75
 
 ## 四、品牌与技术栈
 

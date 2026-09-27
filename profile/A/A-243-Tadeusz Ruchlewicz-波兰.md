@@ -17,20 +17,20 @@
 | 公司名 | Tadeusz Ruchlewicz |
 | 国家 | 波兰 |
 | 城市 | Rzeszów |
-| 网站 | — |
+| 网站 | https://csidet.edu.pl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | Cs Edu Idet Sp. z o.o.，持 **MTCSWE**。 |
+| 原备注 | Cs Edu Idet Sp. z o.o.，持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：public-register。波兰PARP公共服务商登记正文公开具名业务Gmail、原电话与Rzeszów地址。csidet官网正文链接该登记且列Tadeusz及同电话。官网同时列个人经营者NIP5170005795与Sp.z.o.o.NIP5170421312，不把两法律实体混为一体；原备注的Sp.z.o.o.关联保留但本邮箱来源是个人经营者登记。 证据：[1](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=153943) [2](https://csidet.edu.pl/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-243 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：tadeusz.ruchlewicz@gmail.com
 - **电话**：+48 604 922 386
-- **原始联系字段**：+48 604 922 386
+- **原始联系字段**：tadeusz.ruchlewicz@gmail.com（公共服务商登记具名业务邮箱；未测试投递）；原入口：+48 604 922 386
 
 ## 四、品牌与技术栈
 

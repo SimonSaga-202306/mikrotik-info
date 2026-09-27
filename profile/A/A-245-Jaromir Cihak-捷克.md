@@ -17,20 +17,20 @@
 | 公司名 | Jaromir Cihak |
 | 国家 | 捷克 |
 | 城市 | Prague |
-| 网站 | — |
+| 网站 | https://www.sys-data.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCTCE MTCSE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | SysDataCom s.r.o.。缺 MTCSWE。 |
+| 原备注 | SysDataCom s.r.o.。缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official-company。官网/kontakty/正文销售邮箱，+420777774215、Sys-DataCom s.r.o.及IČO26488400；Živéfirmy目录正文列Ing. Jaromír Čihák为jednatel，名称/网站/登记号相连，但个人任职仍为目录证据，不冒称官网具名。/kontakt/和Praha旧目录路径404。排除Všetaty机械设备同名人。 证据：[1](https://www.sys-data.com/kontakty/) [2](https://www.zivefirmy.cz/sys-datacom_f1160248) [3](https://www.sys-data.com/kontakt/) [4](https://www.praha.eu/jnp/cz/firmy/zive-firmy/lc-vypocetni-technika-internet/lc-internetove-sluzby/lc-pripojeni-k-internetu/sys-datacom-1160248.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-245 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：obchod@sys-data.com
 - **电话**：+420 222356220
-- **原始联系字段**：+420 222356220
+- **原始联系字段**：obchod@sys-data.com（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+420 222356220
 
 ## 四、品牌与技术栈
 

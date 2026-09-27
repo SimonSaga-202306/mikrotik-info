@@ -17,20 +17,20 @@
 | 公司名 | Noriak Distribution |
 | 国家 | 法国 |
 | 城市 | Cesson-Sévigné |
-| 网站 | noriak-reseau.com |
+| 网站 | https://www.noriak-distri.com |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official-search-only。旧noriak-reseau.com实际503；noriak-distri官网首页有效，但Reseau/Presentation/Nouveautes旧路径均跳首页，本次正文未复见邮箱。完整邮箱、Cesson-Sévigné地址和0299043250在官网搜索索引及Canyon品牌渠道搜索摘要对应；Canyon页实际502。标搜索待核，团队人名/个人邮箱仅搜索资料不升为官网正文确认。 证据：[1](https://www.noriak-distri.com/Reseau_334.html) [2](https://www.noriak-distri.com/Presentation_280.html) [3](https://www.noriak-distri.com/Nouveautes_212.html) [4](https://noriak-reseau.com/) [5](https://gaming.canyon.eu/france/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-253 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：contact@noriak-distri.com
 - **电话**：+33 2 99 04 32 50
-- **原始联系字段**：+33 2 99 04 32 50
+- **原始联系字段**：contact@noriak-distri.com（待核：仅官网搜索索引，正文未复见；未测试投递）；原入口：+33 2 99 04 32 50
 
 ## 四、品牌与技术栈
 

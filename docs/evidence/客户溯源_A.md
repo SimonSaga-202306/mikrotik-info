@@ -3571,261 +3571,351 @@
 <a id="A-240"></a>
 ## A-240 · Khalil Chamseddine · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-757`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://aulaf.com
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：admin@aulaf.com；投递未测试。
+  - 说明：AULAF现官网正文公布训练咨询总邮箱、Vienna面授考试安排。Khalil姓名与khalil@aulaf.com只在旧/mtcna-vienna搜索索引复见，实际404；所以主用现机构admin邮箱，不说找到当前个人直邮。2019 Tahandos黎巴嫩邮箱不是奥地利现入口，未并入主联系字段。当前任职/原奥地利手机号未独立复核。
+  - 保留原文：当前首页：Please email us at admin@aulaf.com for your training needs. / 旧页搜索：Trainer: MikroTik Certified Trainer, Khalil Chamseddine (khalil@aulaf.com)
+  - [1](https://aulaf.com/)
+  - [2](https://aulaf.com/mtcna-vienna)
+  - [3](https://mum.mikrotik.com/presentations/LB19/presentation_6352_1548734037.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-241"></a>
 ## A-241 · Martin Polainer · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-758`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.triotronik.com
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[1]`；记录日期 2026-09-27；来源等级 `official-named`。
+  - 公开邮箱：m.polainer@triotronik.com；投递未测试。
+  - 说明：官网团队页第2块正文明确Martin Polainer、Leitung Technik & Trainer及邮箱；第1块总邮箱office@triotronik.com、Weiz及电话匹配。另公开采购主管Dominik Mayer，d.mayer@triotronik.com，+43 3172 42299 016；仅记录公开职位/入口，不证明愿采购。与B113公司关联，不合并、不升级；不采用ContactOut遮罩。
+  - 保留原文：Martin Polainer / Leitung Technik & Trainer / m.polainer@triotronik.com / Dominik Mayer, BA / Leitung Einkauf / d.mayer@triotronik.com
+  - [1](https://www.triotronik.com/de/Ueber-uns/Team-Anfahrt---4.5.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-242"></a>
 ## A-242 · Mikrotik Warsaw Training Center · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-762`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://mwtc.pl
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[2]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@mwtc.pl；投递未测试。
+  - 说明：官网/kontakt/实际返回新版站正文，第2块有总邮箱及Michał +48 796171971/michal@mwtc.pl、Piotr +48 513322115/piotr@mwtc.pl，Ogrodowa58 Warszawa、NIP5272843726；主表电话匹配。拒绝RocketReach格式推测。
+  - 保留原文：info@mwtc.pl / Michał: +48 796 171 971 / michal@mwtc.pl / Piotr: +48 513 322 115 / piotr@mwtc.pl
+  - [1](https://mwtc.pl/kontakt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-243"></a>
 ## A-243 · Tadeusz Ruchlewicz · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-763`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://csidet.edu.pl
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[3]`；记录日期 2026-09-27；来源等级 `public-register`。
+  - 公开邮箱：tadeusz.ruchlewicz@gmail.com；投递未测试。
+  - 说明：波兰PARP公共服务商登记正文公开具名业务Gmail、原电话与Rzeszów地址。csidet官网正文链接该登记且列Tadeusz及同电话。官网同时列个人经营者NIP5170005795与Sp.z.o.o.NIP5170421312，不把两法律实体混为一体；原备注的Sp.z.o.o.关联保留但本邮箱来源是个人经营者登记。
+  - 保留原文：CS Edu Idet Tadeusz Ruchlewicz / NIP 5170005795 / tadeusz.ruchlewicz@gmail.com / (+48) 604 922 386
+  - [1](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=153943)
+  - [2](https://csidet.edu.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-244"></a>
 ## A-244 · Bartłomiej Rodek · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-764`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://interprojekt.pl
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：orders@interprojekt.pl；投递未测试。
+  - 说明：现官网交易条款正文公开orders（订单/账单联系，不是个人邮箱）；Inter Projekt与Bartłomiej Rodek关联由2010官方托管MUM PDF正文确认，不能证明当前仍任职。历史PDF另有IDEA4PRO/info@idea4pro.com，仅历史，不替换身份。官网GPSR厂商support邮箱属于MikroTik/Ubiquiti，不能收为客户邮箱。
+  - 保留原文：现官网：orders@interprojekt.pl / 2010 PDF：Bart lomiej Rodek / Inter Projekt S.A. / IDEA4PRO Sp. z o.o.
+  - [1](https://interprojekt.pl/pl/shipping-returns)
+  - [2](https://mum.mikrotik.com/presentations/PL10/hwmp_interprojekt.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-245"></a>
 ## A-245 · Jaromir Cihak · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-765`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.sys-data.com
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：obchod@sys-data.com；投递未测试。
+  - 说明：官网/kontakty/正文销售邮箱，+420777774215、Sys-DataCom s.r.o.及IČO26488400；Živéfirmy目录正文列Ing. Jaromír Čihák为jednatel，名称/网站/登记号相连，但个人任职仍为目录证据，不冒称官网具名。/kontakt/和Praha旧目录路径404。排除Všetaty机械设备同名人。
+  - 保留原文：Obchod, poptávky a reklamace / obchod@sys-data.com / Sys-DataCom s.r.o. / IČO 26488400；目录：Ing. Jaromír Čihák - jednatel
+  - [1](https://www.sys-data.com/kontakty/)
+  - [2](https://www.zivefirmy.cz/sys-datacom_f1160248)
+  - [3](https://www.sys-data.com/kontakt/)
+  - [4](https://www.praha.eu/jnp/cz/firmy/zive-firmy/lc-vypocetni-technika-internet/lc-internetove-sluzby/lc-pripojeni-k-internetu/sys-datacom-1160248.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-246"></a>
 ## A-246 · Fredrik Hellgren · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-824`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：axbyte.se
+- 官网线索（不自动背书其他字段）：https://axbyte.se
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@axbyte.se；投递未测试。
+  - 说明：AxByte官网联系页正文普通邮箱、08-58619500匹配原记录。Fredrik所属AxByte/Owner仅第三方RocketReach搜索摘要提示，本轮未从官网确认个人职位；不推邮箱格式，不冒用Gothenburg消防风险顾问或同名体育人士。
+  - 保留原文：contact@axbyte.se / 08-586 195 00
+  - [1](https://axbyte.se/kontakt)
+  - [2](https://rocketreach.co/axbyte-internet-services-ab-management_b7fbccf0c2536729)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-247"></a>
 ## A-247 · Marco Boschini · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-827`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://corsimikrotik.it
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official-obfuscated-company`。
+  - 公开邮箱：info@hctech.it；投递未测试。
+  - 说明：Corsi MikroTik官网联系页明确HC TECH品牌、Lonato地址/税号04045480987和0302070503；HC TECH首页互链Corsi及Boschini、明确info (at) hctech.it，可逆还原不是猜测。Boschini官网明确Marco身份及MikroTik课程工作，非个人直邮；Telegram @marcoboschini为备用公开线索。旧手机号保留，本轮未验证；官网列部分认证不替代原十证有效性核验。
+  - 保留原文：HC TECH S.R.L. / info (at) hctech.it / Via Barzoni, 3 / 25017 Lonato del garda (BS)
+  - [1](https://hctech.it/)
+  - [2](https://corsimikrotik.it/contatti/)
+  - [3](https://boschini.org/)
+  - [4](https://t.me/s/corsimikrotik?before=116)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-248"></a>
 ## A-248 · Victor Bolaños Guerra · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-829`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.lo0.es
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@lo0.es；投递未测试。
+  - 说明：lo0现官网联系页正文总邮箱和+34911880366与主表匹配，现机构地址Madrid，不修改个人城市Las Palmas。Victor在旧官方作者页搜索及LinkedIn帖子中与Loopback0/Fibercli相连，作者页现404；只给机构入口，不证明现任职，不导入无关同名工商邮箱。
+  - 保留原文：Email: info@lo0.es / Teléfono: +34 911 88 03 66 / Calle del Doctor Castelo, 44, 28009 Madrid
+  - [1](https://www.lo0.es/contact/)
+  - [2](https://blog.lo0.es/author/vitoko/)
+  - [3](https://es.linkedin.com/posts/victorbguerra_loopback0-fibercli-activity-6882594969824051200-QSfL?trk=public_profile_like_view)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-249"></a>
 ## A-249 · Flavio Gomes Figueira Camacho · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-830`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[9]`；记录日期 2026-09-27；来源等级 `local-legacy-unverified`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：本地batch/be_pt_ie.json（Camacho / Engenheiros）与B452存camacho@engenheiros.pt及相同+351965869277，只是历史记录线索，未获本轮外部邮箱/全名匹配，不计新确认邮箱、不并入主邮箱列表。engenheiros.pt正文说明是工程师协会会员邮箱服务，不能当其个人公司网站。全名搜索见巴西工程师/2018MUM与Dublin LinkedIn线索，Aveiro/欧盟身份桥接未完成；Junior、土木公司等不可冒用。保留原城市/电话/A级，不宣称所有同名已排除。
+  - 保留原文：本地旧批次：Camacho / Engenheiros；外部正文：Serviço de Email @engenheiros.pt / Exclusivo para membros da Ordem dos Engenheiros
+  - [1](https://www.engenheiros.pt/)
+  - [2](https://mum.mikrotik.com/presentations/UK18/presentation_5937_1542710675.pdf)
+  - [3](https://www.linkedin.com/in/flavio-camacho-aa966556/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-250"></a>
 ## A-250 · Péter Major · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-834`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://macsoft.hu
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：beszerzes@macsoft.hu；投递未测试。
+  - 说明：MacSoft官网联系页正文邮箱、+36304963340、Budapest Kriván33，与原电话/备注匹配；beszerzes为采购入口词义，不据此推定Péter个人邮箱或权限。公司目录搜索列Major Péter为负责人；2019MUM日程中的AccessPoint任职为历史线索，不用来替换当前公司。不采用美国同名MacSoft游戏公司/其他Peter Major邮箱。
+  - 保留原文：beszerzes@macsoft.hu / +36 30 496 3340 / 1213 Budapest, Kriván utca 33.
+  - [1](https://macsoft.hu/kapcsolat)
+  - [2](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0109374178/MacSoft-Kft)
+  - [3](https://mum.mikrotik.com/2019/HU/agenda)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-251"></a>
 ## A-251 · Dávid Csongrádi · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-837`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[11]`；记录日期 2026-09-27；来源等级 `local-legacy-unverified`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：本地batch/hu.json的David Csongradi及B083保存mikrotik@csongradidavid.hu、相同电话/城市，和带音符姓名构成强关联候选，但不自动合并。域名实际403；姓名正反序、无音符、域名/邮箱搜索未找到可验证外部邮箱正文或摘要，不把旧批次冒称新发现。候选域名仅留备注；主表网站仍空、原电话保留。
+  - 保留原文：本地旧批次：David Csongradi / csongradidavid.hu / +36 30 616 9819 / mikrotik@csongradidavid.hu；外部抓取：403 Forbidden
+  - [1](https://csongradidavid.hu/)
+  - [2](https://mikrotik.com/training/centers)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-252"></a>
 ## A-252 · Kajetan Tadra · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-839`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://csidet.edu.pl
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[12]`；记录日期 2026-09-27；来源等级 `public-register-company`。
+  - 公开邮箱：biuro@csidet.edu.pl；投递未测试。
+  - 说明：csidet官网正文明确Kajetan Tadra/电话+48724173364并链接Sp.z.o.o.的PARP登记；该登记正文给机构biuro邮箱、NIP5170421312和+48690813232，不是Kajetan个人邮箱。与A243同教育品牌但不同人及登记主体，不合并。网站/zgloszenie返回首页样式不是已验证可用提交表单。
+  - 保留原文：官网：Kajetan Tadra / Certyfikowany Trener MikroTik, Administrator IT / Tel: +48 724 173 364；登记：biuro@csidet.edu.pl / NIP 5170421312
+  - [1](https://csidet.edu.pl/)
+  - [2](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=134180)
+  - [3](https://csidet.edu.pl/zgloszenie)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-253"></a>
 ## A-253 · Noriak Distribution · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1023`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：noriak-reseau.com
+- 官网线索（不自动背书其他字段）：https://www.noriak-distri.com
 - 精确同名同国别首次入库提交：`9c8b696fd591080db6a4b6f02fde1f3e6bd24d35`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official-search-only`。
+  - 公开邮箱：contact@noriak-distri.com；投递未测试。
+  - 说明：旧noriak-reseau.com实际503；noriak-distri官网首页有效，但Reseau/Presentation/Nouveautes旧路径均跳首页，本次正文未复见邮箱。完整邮箱、Cesson-Sévigné地址和0299043250在官网搜索索引及Canyon品牌渠道搜索摘要对应；Canyon页实际502。标搜索待核，团队人名/个人邮箱仅搜索资料不升为官网正文确认。
+  - 保留原文：官网旧页搜索摘要：contact@noriak-distri.com / Noriak Distribution / 9 rue de la Frébardière / 35510 Cesson Sévigné / 02 99 04 32 50
+  - [1](https://www.noriak-distri.com/Reseau_334.html)
+  - [2](https://www.noriak-distri.com/Presentation_280.html)
+  - [3](https://www.noriak-distri.com/Nouveautes_212.html)
+  - [4](https://noriak-reseau.com/)
+  - [5](https://gaming.canyon.eu/france/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-254"></a>
 ## A-254 · Connect Data · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1024`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：connectdata.fr
+- 官网线索（不自动背书其他字段）：https://www.connectdata.fr
 - 精确同名同国别首次入库提交：`9c8b696fd591080db6a4b6f02fde1f3e6bd24d35`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[14]`；记录日期 2026-09-27；来源等级 `official-obfuscated`。
+  - 公开邮箱：sales@connectdata.fr；投递未测试。
+  - 说明：官网contact正文Demande de devis显示sales[at]connectdata.fr，mailto给完整sales@connectdata.fr，两者一致不是猜测。Bièvres Burospace21/+33160137010匹配，Sintel为同页品牌关联，不自动合并。页面夹Cloudflare表单提示但邮箱正文可读；未提交表单。排除英国Connected Data及美国Connect Data Solutions。
+  - 保留原文：Demande de devis / sales[at]connectdata.fr → mailto:sales@connectdata.fr / +33 1 60 13 70 10
+  - [1](https://www.connectdata.fr/contact/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-255"></a>
 ## A-255 · The Junction · 挪威
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1029`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：thejunction.eu
+- 官网线索（不自动背书其他字段）：https://thejunction.eu
 - 精确同名同国别首次入库提交：`885502ff728e7eae2a434d683324e8303454f6d2`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@thejunction.eu；投递未测试。
+  - 说明：官网Contact and quotation requests正文确认The Junction AS、Drammen、+4740403402；表单静态内容含Request sent不代表本轮发送，未提交。
+  - 保留原文：E-Mail info@thejunction.eu / The Junction AS / Thomas Simensens vei 18 / 3041 Drammen
+  - [1](https://thejunction.eu/contact/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-256"></a>
 ## A-256 · Timeless Technology · 芬兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1031`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：timeless.fi
+- 官网线索（不自动背书其他字段）：https://timeless.fi
 - 精确同名同国别首次入库提交：`19e3da1086af15313625acc967d6009dc1618518`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[16]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@timeless.fi；投递未测试。
+  - 说明：官网公司页正文邮箱、Pori与+358449988238匹配；明确Timeless Technology为Timeless Group Oy注册副商号，企业号FI31392641。账单accountspayable不作主入口；副商号关系不是新增另一个客户。
+  - 保留原文：Sähköposti: info@timeless.fi / Puhelin: +358449988238 / Keulantie 1 D 30, 28190 Pori
+  - [1](https://timeless.fi/yritys/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-257"></a>
 ## A-257 · DSSI · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1032`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：dssi.pt
+- 官网线索（不自动背书其他字段）：https://dssi.pt
 - 精确同名同国别首次入库提交：`19e3da1086af15313625acc967d6009dc1618518`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：comercial@dssi.pt；投递未测试。
+  - 说明：旧owncloud页实际404，现contactos正文葡萄牙商业邮箱、Agualva-Cacém地址及+351218051560匹配；虽然链接误写http://邮箱/，正文邮箱清楚，不依畸形链接跳转。不用旧索引info替代现商业邮箱，不导入西班牙/巴西/非洲分支邮箱。
+  - 保留原文：comercial@dssi.pt / +351 21 805 15 60 / PORTUGAL / 2735-307 Agualva-Cacém
+  - [1](https://dssi.pt/contactos/)
+  - [2](https://www.dssi.pt/pt/tecnologias/owncloud)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-258"></a>
 ## A-258 · Daniel Świtalski · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-840`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[18]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：检索带/不带音符姓名、Poznan/网络/MikroTik、完整原电话等，没有匹配邮箱/域名。搜索中的Chicago人才招聘经理和Filmweb演员不能认作本客户，不导入其邮箱/社媒；MikroTik名录本次抓取只得到JS地图外壳/No results found，不能解读为此人已除名。保留原电话和A级，仍待进一步身份线索，不宣称全网穷尽。
+  - 保留原文：名录抓取：Trainers & Training Centers / No results found（动态页面外壳，不是该人检索结果）
+  - [1](https://mikrotik.com/training/centers)
+  - [2](https://www.linkedin.com/in/daniel-switalski-3461546b/)
+  - [3](https://www.filmweb.pl/person/Daniel+%C5%9Awitalski-1912863)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-259"></a>
 ## A-259 · Henk Veldkamp · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-90`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.mikrotrain.nl
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A240-A259.json` → `records[19]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@mikrotrain.nl；投递未测试。
+  - 说明：官网现about正文确认Henk Veldkamp/MikroTrain/Zwolle；contact页仅表单，现隐私页第2块正文info邮箱（页内版本日期2018，未测试投递），2023官方企业PDF同邮箱及+31612224005/公司号72654856。与B443同机构入口，不自动合并；证书图片未OCR，认证有效性不在本轮结论中。
+  - 保留原文：隐私页正文：info@mikrotrain.nl；about正文：Achter MikroTrain staat Henk Veldkamp；2023PDF：Tel.: 0612224005 / KvK: 72654856
+  - [1](https://www.mikrotrain.nl/privacyverklaring/)
+  - [2](https://www.mikrotrain.nl/over-ons/)
+  - [3](https://www.mikrotrain.nl/wp-content/uploads/2023/04/Bedrijfsprofiel-1.pdf)
+  - [4](https://www.mikrotrain.nl/contact/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-260"></a>

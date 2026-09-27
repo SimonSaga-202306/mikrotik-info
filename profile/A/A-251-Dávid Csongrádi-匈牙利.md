@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 证书面广但缺 MTCSWE。 |
+| 原备注 | 证书面广但缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：local-legacy-unverified。本地batch/hu.json的David Csongradi及B083保存mikrotik@csongradidavid.hu、相同电话/城市，和带音符姓名构成强关联候选，但不自动合并。域名实际403；姓名正反序、无音符、域名/邮箱搜索未找到可验证外部邮箱正文或摘要，不把旧批次冒称新发现。候选域名仅留备注；主表网站仍空、原电话保留。 证据：[1](https://csongradidavid.hu/) [2](https://mikrotik.com/training/centers) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-251 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+36 30 6169819
-- **原始联系字段**：+36 30 6169819
+- **原始联系字段**：+36 30 6169819（仅保留原电话；旧批次邮箱在备注，未获外部验证，不计新确认邮箱）
 
 ## 四、品牌与技术栈
 

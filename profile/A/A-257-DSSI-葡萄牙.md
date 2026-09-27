@@ -17,20 +17,20 @@
 | 公司名 | DSSI |
 | 国家 | 葡萄牙 |
 | 城市 | Agualva-Cacém |
-| 网站 | dssi.pt |
+| 网站 | https://dssi.pt |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official。旧owncloud页实际404，现contactos正文葡萄牙商业邮箱、Agualva-Cacém地址及+351218051560匹配；虽然链接误写http://邮箱/，正文邮箱清楚，不依畸形链接跳转。不用旧索引info替代现商业邮箱，不导入西班牙/巴西/非洲分支邮箱。 证据：[1](https://dssi.pt/contactos/) [2](https://www.dssi.pt/pt/tecnologias/owncloud) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-257 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：comercial@dssi.pt
 - **电话**：+351 21 805 15 60
-- **原始联系字段**：+351 21 805 15 60
+- **原始联系字段**：comercial@dssi.pt（官网正文公开；未测试投递）；原入口：+351 21 805 15 60
 
 ## 四、品牌与技术栈
 

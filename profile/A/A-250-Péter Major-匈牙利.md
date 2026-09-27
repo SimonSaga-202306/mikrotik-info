@@ -17,20 +17,20 @@
 | 公司名 | Péter Major |
 | 国家 | 匈牙利 |
 | 城市 | Budapest |
-| 网站 | — |
+| 网站 | https://macsoft.hu |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | MacSoft。持 **MTCSWE**。 |
+| 原备注 | MacSoft。持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：official-company。MacSoft官网联系页正文邮箱、+36304963340、Budapest Kriván33，与原电话/备注匹配；beszerzes为采购入口词义，不据此推定Péter个人邮箱或权限。公司目录搜索列Major Péter为负责人；2019MUM日程中的AccessPoint任职为历史线索，不用来替换当前公司。不采用美国同名MacSoft游戏公司/其他Peter Major邮箱。 证据：[1](https://macsoft.hu/kapcsolat) [2](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0109374178/MacSoft-Kft) [3](https://mum.mikrotik.com/2019/HU/agenda) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-250 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：beszerzes@macsoft.hu
 - **电话**：+36 30 4963340
-- **原始联系字段**：+36 30 4963340
+- **原始联系字段**：beszerzes@macsoft.hu（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+36 30 4963340
 
 ## 四、品牌与技术栈
 

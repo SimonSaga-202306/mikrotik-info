@@ -17,20 +17,20 @@
 | 公司名 | Bartłomiej Rodek |
 | 国家 | 波兰 |
 | 城市 | Gliwice |
-| 网站 | — |
+| 网站 | https://interprojekt.pl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCINE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | Inter Project。缺 MTCSWE。 |
+| 原备注 | Inter Project。缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official-company。现官网交易条款正文公开orders（订单/账单联系，不是个人邮箱）；Inter Projekt与Bartłomiej Rodek关联由2010官方托管MUM PDF正文确认，不能证明当前仍任职。历史PDF另有IDEA4PRO/info@idea4pro.com，仅历史，不替换身份。官网GPSR厂商support邮箱属于MikroTik/Ubiquiti，不能收为客户邮箱。 证据：[1](https://interprojekt.pl/pl/shipping-returns) [2](https://mum.mikrotik.com/presentations/PL10/hwmp_interprojekt.pdf) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-244 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：orders@interprojekt.pl
 - **电话**：+48 32 3022 907
-- **原始联系字段**：+48 32 3022 907
+- **原始联系字段**：orders@interprojekt.pl（关联公司官网入口；个人归属/现任职限制见备注；未测试投递）；原入口：+48 32 3022 907
 
 ## 四、品牌与技术栈
 

@@ -17,20 +17,20 @@
 | 公司名 | Kajetan Tadra |
 | 国家 | 波兰 |
 | 城市 | Rzeszów |
-| 网站 | — |
+| 网站 | https://csidet.edu.pl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | CS EDU IDET。持全部十证含 **MTCSWE**。 |
+| 原备注 | CS EDU IDET。持全部十证含 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：public-register-company。csidet官网正文明确Kajetan Tadra/电话+48724173364并链接Sp.z.o.o.的PARP登记；该登记正文给机构biuro邮箱、NIP5170421312和+48690813232，不是Kajetan个人邮箱。与A243同教育品牌但不同人及登记主体，不合并。网站/zgloszenie返回首页样式不是已验证可用提交表单。 证据：[1](https://csidet.edu.pl/) [2](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=134180) [3](https://csidet.edu.pl/zgloszenie) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-252 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：biuro@csidet.edu.pl
 - **电话**：+48 724 173 364
-- **原始联系字段**：+48 724 173 364
+- **原始联系字段**：biuro@csidet.edu.pl（公共服务商登记机构邮箱；非个人直邮；未测试投递）；原入口：+48 724 173 364
 
 ## 四、品牌与技术栈
 

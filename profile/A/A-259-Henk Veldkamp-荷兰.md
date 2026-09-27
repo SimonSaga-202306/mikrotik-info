@@ -17,20 +17,20 @@
 | 公司名 | Henk Veldkamp |
 | 国家 | 荷兰 |
 | 城市 | Zwolle |
-| 网站 | — |
+| 网站 | https://www.mikrotrain.nl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCINE MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。荷兰证书最全者之一，持 MTCSWE 交换认证；名录显示其讲授 MTCNA–MTCINE 全部课程。 |
+| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。荷兰证书最全者之一，持 MTCSWE 交换认证；名录显示其讲授 MTCNA–MTCINE 全部课程。 【2026-09-27 A240–A259联络核验】来源等级：official。官网现about正文确认Henk Veldkamp/MikroTrain/Zwolle；contact页仅表单，现隐私页第2块正文info邮箱（页内版本日期2018，未测试投递），2023官方企业PDF同邮箱及+31612224005/公司号72654856。与B443同机构入口，不自动合并；证书图片未OCR，认证有效性不在本轮结论中。 证据：[1](https://www.mikrotrain.nl/privacyverklaring/) [2](https://www.mikrotrain.nl/over-ons/) [3](https://www.mikrotrain.nl/wp-content/uploads/2023/04/Bedrijfsprofiel-1.pdf) [4](https://www.mikrotrain.nl/contact/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-259 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：MikroTik 顾问名录（电话见名录页）
+- **邮箱**：info@mikrotrain.nl
+- **电话**：+31 6 12224005
+- **原始联系字段**：info@mikrotrain.nl（官网正文公开；未测试投递）；原入口：MikroTik 顾问名录（电话见名录页）；+31 6 12224005（官网2023企业PDF）
 
 ## 四、品牌与技术栈
 

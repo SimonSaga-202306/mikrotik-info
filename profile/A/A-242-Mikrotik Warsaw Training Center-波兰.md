@@ -17,20 +17,20 @@
 | 公司名 | Mikrotik Warsaw Training Center |
 | 国家 | 波兰 |
 | 城市 | Warsaw |
-| 网站 | — |
+| 网站 | https://mwtc.pl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | 华沙官方培训中心（M.Filipek / P.Wasyk / I.Hreskiv），持 **MTCSWE**。 |
+| 原备注 | 华沙官方培训中心（M.Filipek / P.Wasyk / I.Hreskiv），持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：official。官网/kontakt/实际返回新版站正文，第2块有总邮箱及Michał +48 796171971/michal@mwtc.pl、Piotr +48 513322115/piotr@mwtc.pl，Ogrodowa58 Warszawa、NIP5272843726；主表电话匹配。拒绝RocketReach格式推测。 证据：[1](https://mwtc.pl/kontakt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-242 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@mwtc.pl、michal@mwtc.pl、piotr@mwtc.pl
 - **电话**：+48 796 171 971
-- **原始联系字段**：+48 796 171 971
+- **原始联系字段**：info@mwtc.pl（官网正文公开；未测试投递）；原入口：+48 796 171 971；Michał：michal@mwtc.pl；Piotr：piotr@mwtc.pl（均官网正文）
 
 ## 四、品牌与技术栈
 

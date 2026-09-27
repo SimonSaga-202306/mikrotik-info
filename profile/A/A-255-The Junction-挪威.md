@@ -17,20 +17,20 @@
 | 公司名 | The Junction |
 | 国家 | 挪威 |
 | 城市 | Drammen |
-| 网站 | thejunction.eu |
+| 网站 | https://thejunction.eu |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official。官网Contact and quotation requests正文确认The Junction AS、Drammen、+4740403402；表单静态内容含Request sent不代表本轮发送，未提交。 证据：[1](https://thejunction.eu/contact/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-255 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@thejunction.eu
 - **电话**：+47 40 40 34 02
-- **原始联系字段**：+47 40 40 34 02
+- **原始联系字段**：info@thejunction.eu（官网正文公开；未测试投递）；原入口：+47 40 40 34 02
 
 ## 四、品牌与技术栈
 

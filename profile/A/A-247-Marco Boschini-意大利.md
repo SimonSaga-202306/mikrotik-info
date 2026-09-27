@@ -17,20 +17,20 @@
 | 公司名 | Marco Boschini |
 | 国家 | 意大利 |
 | 城市 | Lonato (BS) |
-| 网站 | — |
+| 网站 | https://corsimikrotik.it |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | Corsi MikroTik。持全部十证含 **MTCSWE**，意大利讲师。 |
+| 原备注 | Corsi MikroTik。持全部十证含 **MTCSWE**，意大利讲师。 【2026-09-27 A240–A259联络核验】来源等级：official-obfuscated-company。Corsi MikroTik官网联系页明确HC TECH品牌、Lonato地址/税号04045480987和0302070503；HC TECH首页互链Corsi及Boschini、明确info (at) hctech.it，可逆还原不是猜测。Boschini官网明确Marco身份及MikroTik课程工作，非个人直邮；Telegram @marcoboschini为备用公开线索。旧手机号保留，本轮未验证；官网列部分认证不替代原十证有效性核验。 证据：[1](https://hctech.it/) [2](https://corsimikrotik.it/contatti/) [3](https://boschini.org/) [4](https://t.me/s/corsimikrotik?before=116) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-247 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@hctech.it
 - **电话**：+39 333 8178968
-- **原始联系字段**：+39 333 8178968
+- **原始联系字段**：info@hctech.it（关联机构官网明确(at)还原；非个人直邮；未测试投递）；原入口：+39 333 8178968
 
 ## 四、品牌与技术栈
 

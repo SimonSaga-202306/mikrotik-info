@@ -17,8 +17,8 @@ from make_profiles import emails, without_contact_evidence
 from numbering import renumber
 
 CSV = '客户名单_反向信号_2026-09.csv'
-BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A239 contact-only allowance.
-CONTACT_BASELINE = 'd17cddc'  # Before R40; only A210–A239 may change this round.
+BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A259 contact-only allowance.
+CONTACT_BASELINE = '0c5cdb4'  # Before R41; only A240–A259 may change this round.
 
 
 def git_file(path):
@@ -41,7 +41,7 @@ class RepositoryTests(unittest.TestCase):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
         identity = lambda r: (r['档案编号'], r['公司名'], r['国家'], r['评级'])
         self.assertEqual(list(map(identity, baseline)), list(map(identity, self.rows)))
-        targets = {f'A-{n:03}' for n in range(200, 240)}
+        targets = {f'A-{n:03}' for n in range(200, 260)}
         for before, after in zip(baseline, self.rows):
             if before['档案编号'] not in targets:
                 self.assertEqual(before, after)
@@ -98,7 +98,7 @@ class RepositoryTests(unittest.TestCase):
             self.assertEqual((e['name'], e['country']), (row['公司名'], row['国家']))
             doc = (ROOT / f'docs/evidence/客户溯源_{e["grade"]}.md').read_text()
             self.assertIn(f'id="{e["code"]}"', doc)
-        for low, high in [(200, 210), (210, 240)]:
+        for low, high in [(200, 210), (210, 240), (240, 260)]:
             path = ROOT / f'batch/contact_research_2026-09-27_A{low}-A{high-1}.json'
             batch = json.loads(path.read_text())['records']
             self.assertEqual([r['code'] for r in batch], [f'A-{n:03}' for n in range(low, high)])
@@ -111,11 +111,11 @@ class RepositoryTests(unittest.TestCase):
                 for _, u in r['sources']:
                     self.assertIn(u, row['备注'])
 
-    def test_r40_only_three_fields_and_frozen_exports(self):
+    def test_current_round_only_three_fields_and_frozen_exports(self):
         def old(path):
             return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
         baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
-        targets = {f'A-{n:03}' for n in range(210, 240)}
+        targets = {f'A-{n:03}' for n in range(240, 260)}
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
             for k in self.header:
@@ -156,12 +156,12 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(self.by_code['A-227']['网站'], '')
         self.assertEqual(self.by_code['A-236']['网站'], 'satelithuset.se')
 
-    def test_r40_contact_evidence_cannot_change_strategy_or_mail(self):
+    def test_contact_evidence_cannot_change_strategy_or_mail(self):
         note = '伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】Campus Q；旧产品经理新闻；bad@example.org'
         self.assertEqual(without_contact_evidence(note), '伙伴等级：Resell。')
         self.assertEqual(without_contact_evidence('legacy campus customer'), 'legacy campus customer')
         for p in (ROOT / 'profile/A').glob('A-*.md'):
-            if not 210 <= int(p.name[2:5]) < 240:
+            if not 210 <= int(p.name[2:5]) < 260:
                 continue
             old = subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{p.relative_to(ROOT)}'], cwd=ROOT).decode()
             marker = '## 四、品牌与技术栈'
@@ -169,6 +169,32 @@ class RepositoryTests(unittest.TestCase):
         young = next((ROOT / 'profile/A').glob('A-233-*.md')).read_text()
         self.assertIn('- **邮箱**：info@young.hu\n', young)
         self.assertNotIn('work on A210', young)
+
+    def test_r41_legacy_mailboxes_not_promoted_and_source_tiers(self):
+        records = json.loads((ROOT / 'batch/contact_research_2026-09-27_A240-A259.json').read_text())['records']
+        by_code = {r['code']: r for r in records}
+        self.assertEqual(sum(bool(r['email']) for r in records), 17)
+        self.assertEqual(sum(r['level'].startswith('official') and r['level'] != 'official-search-only'
+                             for r in records), 14)
+        for code in ['A-249', 'A-251']:
+            r = by_code[code]
+            self.assertEqual(r['level'], 'local-legacy-unverified')
+            self.assertFalse(r['email'])
+            self.assertTrue(r['local_sources'])
+            self.assertEqual(self.by_code[code]['网站'], '')
+            self.assertEqual(emails(self.by_code[code]['入口/联系方式']), [])
+            profile = next((ROOT / 'profile/A').glob(code + '-*.md')).read_text()
+            self.assertIn('- **邮箱**：—\n', profile)
+            self.assertIn('来源等级：local-legacy-unverified', profile)
+        self.assertFalse(by_code['A-258']['email'])
+        self.assertEqual(by_code['A-258']['level'], 'leads-only')
+        self.assertEqual(by_code['A-253']['level'], 'official-search-only')
+        self.assertEqual(by_code['A-243']['level'], 'public-register')
+        self.assertEqual(by_code['A-252']['level'], 'public-register-company')
+        self.assertEqual(by_code['A-241']['email'], 'm.polainer@triotronik.com')
+        self.assertIn('(at)', by_code['A-247']['quote'])
+        self.assertIn('[at]', by_code['A-254']['quote'])
+        self.assertEqual(self.by_code['A-248']['城市'], 'Las Palmas de Gran Canaria')
 
     def test_office_exports_preserve_base_fields(self):
         from openpyxl import load_workbook
@@ -201,9 +227,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 41):
+        for n in range(1, 42):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 41)  # 40 + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 42)  # 41 + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
@@ -218,7 +244,8 @@ class RepositoryTests(unittest.TestCase):
     def test_generator_isolated_and_followup_guard(self):
         # Runtime test against real production generator, in an isolated directory.
         sample = [self.by_code['A-001'], self.by_code['B-001'], self.by_code['C-001'],
-                  self.by_code['A-222'], self.by_code['A-233']]
+                  self.by_code['A-222'], self.by_code['A-233'], self.by_code['A-249'],
+                  self.by_code['A-251'], self.by_code['A-258']]
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
             with (root / CSV).open('w', encoding='utf-8-sig', newline='') as f:
@@ -229,7 +256,7 @@ class RepositoryTests(unittest.TestCase):
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             p = next((root / 'profile/C').glob('*.md'))
             self.assertIn(f'C 级细分：`{sample[2]["C级细分"]}`', p.read_text())
-            for code in ['A-222', 'A-233']:
+            for code in ['A-222', 'A-233', 'A-249', 'A-251', 'A-258']:
                 generated = next((root / 'profile/A').glob(code + '-*.md'))
                 checked = next((ROOT / 'profile/A').glob(code + '-*.md'))
                 self.assertEqual(generated.read_bytes(), checked.read_bytes())
