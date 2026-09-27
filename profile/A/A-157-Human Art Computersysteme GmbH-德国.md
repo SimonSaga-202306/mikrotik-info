@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | Human Art Computersysteme GmbH |
 | 国家 | 德国 |
 | 城市 | Berlin |
-| 网站 | — |
+| 网站 | https://www.humanart-kyocera.de |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Integrate Elite, Resell。 |
+| 原备注 | 伙伴等级：Integrate Elite, Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。企业自营 Kyocera 站点公开 vertrieb(at)human-art.de，规范化为 @；Berlin 地址及法人全名相符。 来源：[3](https://www.humanart-kyocera.de/human-art/wir-ueber-uns) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：vertrieb@human-art.de
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：vertrieb@human-art.de [Publicly listed; delivery not tested]; https://www.humanart-kyocera.de
 
 ## 四、品牌与技术栈
 

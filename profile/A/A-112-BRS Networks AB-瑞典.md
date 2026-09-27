@@ -17,20 +17,20 @@
 | 公司名 | BRS Networks AB |
 | 国家 | 瑞典 |
 | 城市 | — |
-| 网站 | — |
+| 网站 | https://brsnetworks.se |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层）+ Fortinet |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | **光纤网络方案商，业务覆盖瑞典、丹麦、德国** —— 北欧+德语区三地经营。 |
+| 原备注 | **光纤网络方案商，业务覆盖瑞典、丹麦、德国** —— 北欧+德语区三地经营。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。公司 Facebook 公开邮箱、Visby 地址和电话相符。邮箱公开列出，未做投递测试。 来源：[3](https://www.facebook.com/brsnetworks/) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@brsnetworks.se
 - **电话**：—
-- **原始联系字段**：见 elioplus 渠道库
+- **原始联系字段**：info@brsnetworks.se [Publicly listed; delivery not tested]; https://brsnetworks.se
 
 ## 四、品牌与技术栈
 
@@ -77,6 +77,8 @@
 Hi BRS,
 
 I build access switches for FTTH and fixed wireless — per-subscriber isolation and uplink aggregation are the whole job.
+
+What caught my eye is that you work on Facebook, Visby and https.
 
 Where we may be useful: 4×10G SFP+ uplink, QinQ per subscriber, port isolation, broadcast storm control, IGMP for IPTV.
 

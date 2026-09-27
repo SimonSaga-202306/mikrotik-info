@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | SDC B.V. |
 | 国家 | 荷兰 |
 | 城市 | Doetinchem |
-| 网站 | — |
+| 网站 | https://sdc.nl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MikroTik 培训伙伴（官方课程表在列） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 荷兰培训伙伴，官方课程表在列。 |
+| 原备注 | 荷兰培训伙伴，官方课程表在列。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网 MikroTik 品牌页明确列出销售邮箱，另有 info@sdc.nl。Doetinchem NL。 来源：[2](https://sdc.nl/brands/MikroTik) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：verkoop@sdc.nl、info@sdc.nl
 - **电话**：—
-- **原始联系字段**：见 mikrotik.com/training
+- **原始联系字段**：verkoop@sdc.nl [Publicly listed; delivery not tested]; https://sdc.nl
 
 ## 四、品牌与技术栈
 
@@ -87,6 +77,8 @@
 Hi SDC,
 
 You teach and design on MikroTik, so you are the person whose opinion actually reaches buyers. I would rather you test the hardware than hear a pitch.
+
+What caught my eye is that you work on MikroTik, info and sdc.
 
 Where we may be useful: Managed access switching in both commercial and DIN-rail industrial forms, full CLI/SSH/SNMP, and documentation you can teach from.
 

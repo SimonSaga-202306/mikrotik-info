@@ -27,20 +27,20 @@
 | 公司名 | Universal Networks |
 | 国家 | 英国 |
 | 城市 | Hungerford |
-| 网站 | — |
+| 网站 | https://www.universalnetworks.co.uk |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 联系方式核验】暂无公开邮箱·有线索。已抓官网联系页两段并查公司 LinkedIn，未找到明文邮箱。撤回此前按姓名猜出的地址及建议试投 info 邮箱，不计入已找到邮箱。负责人 Eddie Hing 见官网公开署名；公司 LinkedIn 可作为后续入口。 来源：[1](https://www.universalnetworks.co.uk/contact-us/) [1](https://www.universalnetworks.co.uk/we-are-here-to-help-you/) [2](https://uk.linkedin.com/company/universal-networks-ltd) |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：+44 844 846 0440
-- **原始联系字段**：+44 844 846 0440
+- **电话**：+44 1488 685800
+- **原始联系字段**：No published email found; universalnetworks.co.uk; +44 1488 685800; contact form: https://www.universalnetworks.co.uk/contact-us/; Eddie Hing (Managing Director); LinkedIn: https://uk.linkedin.com/company/universal-networks-ltd
 
 ## 四、品牌与技术栈
 
@@ -71,6 +71,8 @@
 Hi Universal,
 
 I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+
+What caught my eye is that you work on LinkedIn, info and Eddie.
 
 Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
 

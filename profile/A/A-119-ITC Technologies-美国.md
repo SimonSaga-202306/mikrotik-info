@@ -27,20 +27,20 @@
 | 公司名 | ITC Technologies |
 | 国家 | 美国 |
 | 城市 | Maybrook, NY |
-| 网站 | — |
+| 网站 | https://www.itc-technologies.com |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 联系方式核验】暂无公开邮箱·有线索。已抓官网首页与联系页，仅表单及电话；LinkedIn 公司页公开宣布新域名，匹配 Maybrook NY。旧名 ITC Communications，可从公司页找业务人员；不混用加拿大暖通同名公司。 来源：[1](https://www.itc-technologies.com/contact) [1](https://www.linkedin.com/company/itccommunications) |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 代理商名录
+- **电话**：+1 845-561-4440
+- **原始联系字段**：No published email found; itc-technologies.com; +1 845-561-4440; form: https://www.itc-technologies.com/contact/; LinkedIn: https://www.linkedin.com/company/itccommunications
 
 ## 四、品牌与技术栈
 
@@ -71,6 +71,8 @@
 Hi ITC,
 
 I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+
+What caught my eye is that you work on LinkedIn, Maybrook and ITC.
 
 Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
 

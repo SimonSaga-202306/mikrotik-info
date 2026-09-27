@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | Insight Technology Solutions GmbH |
 | 国家 | 德国 |
 | 城市 | Raunheim |
-| 网站 | — |
+| 网站 | https://insightportal.de |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。德国法人 Impressum 公开邮箱和 Raunheim 地址；不混用奥地利或瑞士分支。规模/采购链风险保留，本轮仅补联系，不改等级。 来源：[3](https://insightportal.de/impressum) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info.de@insight.com
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：info.de@insight.com [Publicly listed; delivery not tested]; https://insightportal.de
 
 ## 四、品牌与技术栈
 
@@ -72,7 +62,7 @@ Hi Insight,
 
 I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
 
-What caught my eye is that you work on Resell.
+What caught my eye is that you work on Resell, Impressum and Raunheim.
 
 Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
 

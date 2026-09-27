@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | COMPUTER TIME S.r.l. |
 | 国家 | 意大利 |
 | 城市 | Somma Lombardo (VA) |
-| 网站 | — |
+| 网站 | https://ctime.it |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。实际抓取官网 contatti_ctime 联系页，Somma Lombardo；首页明确为 VAR/System Integrator，含路由交换配置和学校网络。 来源：[1](https://ctime.it/contatti_ctime/) [1](https://ctime.it/) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：ctime@ctime.it
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：ctime@ctime.it [Publicly listed; delivery not tested]; https://ctime.it
 
 ## 四、品牌与技术栈
 
@@ -48,9 +38,25 @@
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：校园 / 教育
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**LT-S8328GP-4GX24GT-S（PoE 供 AP 与摄像头）**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+PoE 供 AP / 摄像头 / 门禁、按楼栋或按班级 VLAN 隔离、组播、端口隔离、整机功率足
+
+### 怎么开发
+
+校园是分期扩建的，问「今年新增几栋楼 / 几个班？」；寒暑假是施工窗口，提前一个季度谈
+
+### 风险点
+
+校园网常走政府招标或教育局集采，要提前摸清是不是框架协议内；开学季绝对不能出问题，验收极严
 
 ## 六、注意点
 
@@ -65,18 +71,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：PoE access switching for campus / school builds
 
 ```text
 Hi COMPUTER,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+Campus and school networks are mostly a PoE and VLAN isolation problem, which is the part I build for.
 
-What caught my eye is that you work on Resell.
+What caught my eye is that you work on Resell, Somma and Lombardo.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: PoE++ for APs, cameras and door controllers, per-building or per-classroom VLAN isolation, port isolation, IGMP snooping, enough total power budget to run a full floor.
 
-What are you using for access layer today, and where does it hurt?
+Are APs and cameras on the same switching layer, and how are you segmenting them?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 

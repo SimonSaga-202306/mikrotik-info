@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | MECO Systemhaus GmbH & Co. KG |
 | 国家 | 德国 |
 | 城市 | Boppard |
-| 网站 | — |
+| 网站 | https://www.meco.de |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Integrate Elite, Resell。 |
+| 原备注 | 伙伴等级：Integrate Elite, Resell。 【2026-09-27 联系方式核验】公开邮箱·第三方待核。官网已抓，邮箱为反向文本夹杂时间戳；第三方企业库及企业杂志明确列出完整邮箱，按第三方公开待核记录。官网当前法人为 GmbH，旧库为 GmbH & Co. KG，名称变化留待核实，不合并或改编号。 来源：[1](https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/1203534) [2](https://mittelrheinland.de/unternehmer-in-der-gemeinschaft/meco-systemhaus/) [1](https://www.meco.de/impressum/) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@meco.de
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：info@meco.de [Third-party listing; not independently confirmed]; https://www.meco.de
 
 ## 四、品牌与技术栈
 

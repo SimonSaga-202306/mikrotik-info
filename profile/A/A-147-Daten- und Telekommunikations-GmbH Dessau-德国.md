@@ -7,18 +7,8 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **评级依据**：【人工定级】A —— 自动规则已跳过；人工指定
 - **下次复核**：收到反馈后重新评级
-
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
 
 ## 二、公司概览
 
@@ -27,20 +17,20 @@
 | 公司名 | Daten- und Telekommunikations-GmbH Dessau |
 | 国家 | 德国 |
 | 城市 | Dessau-Roßlau |
-| 网站 | — |
+| 网站 | https://www.datel-dessau.de |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网商业客户页具名 Nils Schumacher（Sales Manager/Sonderkunden），使用该销售团队邮箱；运营商业务，非已确认交换采购人。 来源：[2](https://www.datel-dessau.de/geschaeftskunden/) |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：datel-vertrieb@dvv-dessau.de
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：datel-vertrieb@dvv-dessau.de [Publicly listed; delivery not tested]; https://www.datel-dessau.de
 
 ## 四、品牌与技术栈
 
@@ -48,9 +38,25 @@
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：ISP / 骨干
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+4×10G 上行、QinQ 用户隔离、组播、端口隔离、广播抑制、SNMP 对接现有网管
+
+### 怎么开发
+
+问「接入层一台带多少用户？上行怎么收敛？」；他们按端口成本算账，把单端口价格摊到每个用户给他看
+
+### 风险点
+
+ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小批量试用跑半年；备件和 RMA 响应速度要提前承诺
 
 ## 六、注意点
 
@@ -65,18 +71,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：Access layer cost per port
 
 ```text
 Hi Daten-,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+I do access switches for WISPs and small ISPs, where the number that matters is cost per subscriber port.
 
-What caught my eye is that you work on Resell.
+What caught my eye is that you work on Resell, Nils and Schumacher.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation, broadcast suppression, SNMP that drops into whatever NMS you already run.
 
-What are you using for access layer today, and where does it hurt?
+How many subscribers per access switch, and what uplink ratio are you designing to?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
