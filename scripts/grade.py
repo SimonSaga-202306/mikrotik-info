@@ -108,7 +108,16 @@ def main():
             r.extend(["", ""])
 
     cnt = Counter()
+    MANCOL = hdr.index("人工定级") if "人工定级" in hdr else None
+
     for r in data:
+        # 人工定级优先：用户/人工明确指定的评级，自动规则不得覆盖
+        if MANCOL is not None and (r[MANCOL] or "").strip() in ("A", "B", "C"):
+            why = "【人工定级】%s —— 自动规则已跳过；%s" % (
+                r[MANCOL], "信息待人工补齐（见备注）" if "人工补信息" in r[16] else "人工指定")
+            cnt[r[MANCOL]] += 1
+            r[17], r[18] = r[MANCOL], why
+            continue
         name, country, city, site = r[0], r[1], r[2], r[3]
         typ, signal, sku, contact, prio, note = r[4], r[5], r[8], r[9], r[10], r[16]
         # 切入角度(r[7])是我们要说的话，不是客户的信号，不能用来判断客户需求
@@ -178,6 +187,8 @@ def main():
     for r in data:
         if r[17] != "B":
             continue
+        if MANCOL is not None and (r[MANCOL] or "").strip():
+            continue      # 人工定级的行，豁免自动沉库
         if MAIL.search(" ".join([r[9], r[16], r[3], r[0]])):
             continue          # 有邮箱 → 群发得到，留 B
         r[17] = "C"
@@ -210,7 +221,9 @@ def main():
     subc = Counter()
     for r in data:
         if r[17] == "C":
-            r[SUBCOL] = sub(r); subc[r[SUBCOL]] += 1
+            r[SUBCOL] = ("人工定级·待处理" if (MANCOL is not None and (r[MANCOL] or "").strip())
+                         else sub(r))
+            subc[r[SUBCOL]] += 1
         else:
             r[SUBCOL] = ""
     if subc:
