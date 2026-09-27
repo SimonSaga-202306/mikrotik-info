@@ -704,4 +704,34 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 33 — 2026-09-23（用户：1+2 都做；**不要再提邮箱/人工补信息，等他开口**）
+**A 356 → 364（+8），合计 1020 行**
+**✅ ① Allied Telesis 全线清零（最后一国也扫完）**
+  - 本轮补完：**挪威 2**（nLogic、Specto Remote）、**芬兰 1**（Teleste）、
+    **葡萄牙 2**（C2F Copper2Fiber、Databox）、**希腊 2**（Digital Sima、LEXIS）、**匈牙利 1**（Young B.T.S.）
+  - **丹麦 0 家**（只有 Atea，北欧最大 IT 集团，过大）
+  - **爱尔兰 0 家**（只有 Bechtle Direct，过大）
+  - ⚠️ **Teleste（芬兰 Turku）本身是视频/接入网络设备厂商 → 可能是竞品而非客户**，已在备注标注，触达前先确认采购角色
+  - ⚠️ **主动放弃的欧洲国家**：斯洛文尼亚、克罗地亚、塞尔维亚、罗马尼亚、保加利亚、
+    爱沙尼亚、拉脱维亚、立陶宛、卢森堡、冰岛 —— 按「小国规律」预估每国 0–2 家，
+    **性价比极低，除非用户要求否则不做**
+**② 换厂商：Belden（Hirschmann/GarrettCom）—— 开了个头**
+  - 新增 2 家：**Aerco IoT**（英国，Belden 全线分销）、**SOS electronic**（斯洛伐克，Hirschmann 授权分销）
+  - 之前已收：Data Connect（美国，Master Stocking Distributor + TAC 中心）、Powertech Controls（美国）
+**❌ 记录死路：Extreme Networks 伙伴名录取不到**
+  - `extremenetworks.com/partners/partner-locator` 与 `?show-distributors=true` **均为纯 JS 渲染**，
+    fetch 只返回徽章说明（Badge 文案），**没有任何伙伴名单**
+  - web_search 也搜不到其伙伴名单（官方不静态暴露）→ **Extreme 渠道本轮判死，别再重复试**
+**🔑 已验证可用的「静态伙伴页」清单（照这个思路找新厂商）**
+  | 厂商 | URL 模式 | 状态 |
+  |---|---|---|
+  | Alliance/Allied Telesis | `/us/en/resellers/?country={小写国名}` + `/page/{n}/` | ✅ **已全线挖干** |
+  | Netonix | `/distributors-resellers/{north-america,europe}.html` | ✅ 已挖 |
+  | Extreme Networks | 伙伴定位器 | ❌ **JS，死路** |
+  | Zyxel | `/global/en/where-to-buy/locate-partner` | ❌ JS，死路 |
+  | Belden | `belden.com/find-a-distributor` | ⚠️ **未试，下轮优先** |
+**当前**：A364 / B344 / C312 = **1020**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
