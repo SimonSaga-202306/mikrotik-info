@@ -14,6 +14,23 @@ from numbering import renumber, audit  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
 DIR = "profile"
+# 档案按评级分目录存放（用户 2026-09-23 要求）；索引仍留在 profile/ 根
+SUBDIRS = {"A": "profile/A", "B": "profile/B", "C": "profile/C"}
+
+
+def _subdir(code):
+    """档案所在子目录，按编号前缀（A/B/C）决定。"""
+    return SUBDIRS.get(code[0], DIR)
+
+
+def _all_dossier_files():
+    """返回 [(子目录, 文件名)]，覆盖所有评级子目录。"""
+    out = []
+    for d in list(SUBDIRS.values()) + [DIR]:
+        if os.path.isdir(d):
+            out += [(d, f) for f in os.listdir(d)
+                    if f.endswith(".md") and f != "00-索引.md"]
+    return out
 
 SCEN_LABEL = {
     "POE": "PoE / 监控 / 门禁", "HOTEL": "酒店 / 多住户", "MULTICAST": "组播 / IPTV",
@@ -87,17 +104,17 @@ def _clear_stale_dossiers():
     """
     if not os.path.isdir(DIR):
         return
-    stale = [f for f in os.listdir(DIR) if f.endswith(".md") and f != "00-索引.md"]
+    stale = _all_dossier_files()
     if not stale:
         return
     guarded = []
-    for f in stale:
+    for d, f in stale:
         try:
-            txt = open(os.path.join(DIR, f), encoding="utf-8").read()
+            txt = open(os.path.join(d, f), encoding="utf-8").read()
         except OSError:
             continue
         if FILLED_RE.search(txt):
-            guarded.append(f)
+            guarded.append("%s/%s" % (d, f))
     if guarded:
         raise SystemExit(
             "❌ 拒绝重建 profile/：以下档案的「跟进记录」已填入手工内容，\n"
@@ -105,9 +122,9 @@ def _clear_stale_dossiers():
             + "\n   ".join(guarded[:20])
             + ("\n   ..." if len(guarded) > 20 else "")
         )
-    for f in stale:
-        os.remove(os.path.join(DIR, f))
-    print("cleared %d stale dossiers from %s/" % (len(stale), DIR))
+    for d, f in stale:
+        os.remove(os.path.join(d, f))
+    print("cleared %d stale dossiers from %s/{A,B,C}/" % (len(stale), DIR))
 
 
 def main():
@@ -148,7 +165,9 @@ def main():
 
         code = (r[NUMCOL] or "").strip() or grade
         fname = "%s-%s-%s.md" % (code, safe(name), safe(country))
-        path = os.path.join(DIR, fname)
+        sub = _subdir(code)
+        os.makedirs(sub, exist_ok=True)
+        path = os.path.join(sub, fname)
 
         blob = " ".join([name, typ, signal, note])
         sc = scenarios(blob)
@@ -353,6 +372,8 @@ def main():
     # index
     idx_lines = ["# 客户档案索引（profile/）", "",
                  "共 **%d** 份档案，按评级分组。文件名格式：`评级-序号-公司名-国家.md`" % len(made),
+                 "",
+                 "存放位置：`profile/A/`（A 级）、`profile/B/`（B 级）、`profile/C/`（C 级）",
                  "", "评级含义：", "",
                  "- **A**　重点且好跟进：有明确需求信号 + 具体对接人 + 决策链短",
                  "- **B**　慢慢跟：信号待验证，或交换需求弱",
@@ -368,11 +389,12 @@ def main():
         # wrap the destination in <...>: company names contain parentheses
         # (e.g. "TME (Transfer Multisort Elektronik)"), and a bare
         # [x](file (a).md) link terminates at the first ")" -> broken link.
-        idx_lines.append("- [`%s`](<%s>)　%s · %s" % (code, fname, name, country))
+        idx_lines.append("- [`%s`](<%s/%s>)　%s · %s"
+                         % (code, _subdir(code), fname, name, country))
     idx_lines.append("")
     open(os.path.join(DIR, "00-索引.md"), "w", encoding="utf-8").write("\n".join(idx_lines))
 
-    print("generated %d dossiers in %s/" % (len(made), DIR))
+    print("generated %d dossiers in %s/{A,B,C}/" % (len(made), DIR))
     print(dict((g, sum(1 for m in made if m[0][0] == g)) for g in "ABC"))
 
 
