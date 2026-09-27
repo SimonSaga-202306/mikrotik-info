@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 克拉科夫，波兰工业网络分销 |
+| 原备注 | 克拉科夫，波兰工业网络分销；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。波兰分销商，另有 kontakt@csi.pl。 |
 
 ## 三、人员与联系方式
 
@@ -77,6 +77,8 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 Hi CSI,
 
 I do industrial access switches — DIN rail, wide temperature, ERPS ring — which matches the environments you work in.
+
+What caught my eye is that you work on Antaira, where-to-buy and kontakt.
 
 Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power input, ERPS ring under 20 ms, PoE++ for cameras and APs on the same unit.
 

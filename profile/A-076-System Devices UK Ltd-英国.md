@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Runcorn，英国工业网络分销 |
+| 原备注 | Runcorn，英国工业网络分销；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。英国分销商，另有 info@systemdevices.co.uk。 |
 
 ## 三、人员与联系方式
 
@@ -78,7 +78,7 @@ Hi System,
 
 I do industrial access switches — DIN rail, wide temperature, ERPS ring — which matches the environments you work in.
 
-What caught my eye is that you work on Runcorn.
+What caught my eye is that you work on Runcorn, Antaira and where-to-buy.
 
 Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power input, ERPS ring under 20 ms, PoE++ for cameras and APs on the same unit.
 

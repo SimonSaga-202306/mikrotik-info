@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Porto Salvo，伊比利亚工业方案商 |
+| 原备注 | Porto Salvo，伊比利亚工业方案商；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。葡萄牙分销商。 |
 
 ## 三、人员与联系方式
 
@@ -78,7 +78,7 @@ Hi AGL,
 
 I do industrial access switches — DIN rail, wide temperature, ERPS ring — which matches the environments you work in.
 
-What caught my eye is that you work on Porto and Salvo.
+What caught my eye is that you work on Porto, Salvo and Antaira.
 
 Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power input, ERPS ring under 20 ms, PoE++ for cameras and APs on the same unit.
 
