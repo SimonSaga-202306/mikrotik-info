@@ -638,4 +638,40 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 30–31 — 2026-09-23（用户：全挖完，不要停，直到挖完）
+**A 258 → 339（+81），合计 993 行**
+**✅ 已挖干的国家（Allied Telesis 官方伙伴定位器）**
+  | 国家 | 页数 | 新增 | 该国总数 | A 级 |
+  |---|---|---|---|---|
+  | **德国** | 4/4 ✅ | 59 | 32 → **97** | **71** |
+  | **意大利** | 3/3 ✅ | 46 | 44 → **90** | **61** |
+  | **法国** | 2/2 ✅ | 10 | 30 → **40** | 11 |
+  | 英国 | 1/1 ✅ | 22 | 77 | 34 |
+**🔑 钥匙（最重要的一条资产）**
+  ```
+  /us/en/resellers/?country={国家}            ← 第 1 页
+  /us/en/resellers/page/{n}/?country={国家}    ← 翻页
+  ```
+  该页看着像 JS，其实是**普通服务端分页列表**，可直接 fetch。国家名为小写英文（germany/france/italy/…）。
+  每页约 20 家，页尾带分页链接可直接判断总页数。
+**剔除标准（已固化为做法）**：ALSO、Arrow、Anixter/Wesco、Bechtle、Ingram Micro、TD SYNNEX、
+  Computer Gross、Esprinet、SPIE、Axians、Bouygues、Computacenter、EQUANS、Exertis、
+  Johnson Controls、SCC、SNEF —— **跨国集团/超大分销不收**
+**❌ 还没挖的国家（下次直接从这里接着做）**
+  1. **西班牙 spain / 荷兰 netherlands**（用户点名，本轮上下文用完未做）← **优先**
+  2. 比利时 belgium、奥地利 austria、瑞士 switzerland、波兰 poland
+  3. 丹麦 denmark、挪威 norway、瑞典 sweden、芬兰 finland
+  4. 捷克 czechia、葡萄牙 portugal、爱尔兰 ireland、希腊 greece、匈牙利 hungary
+  5. **美国 united-states 第 2 页往后**（目前只取了第 1 页约 24 家）
+**人工定级机制（对话 30 建立）**
+  - CSV 新增列 **`人工定级`**（末尾第 22 列）。`grade.py` 认它**优先于所有自动规则**：
+    跳过自动评级 + 豁免「无邮箱沉 C」+ C 细分标为「人工定级·待处理」
+  - 用法：把 `人工定级` 填 A，并在备注加 `【待人工补信息】` → 档案开头会出现
+    「🟡 信息不够，需要人工处理」块
+  - 目前 **人工定级 A 共 164 家**，全部缺邮箱、待用户人工补
+**⚠️ 坑第三次复现：`str.replace` 静默失败** —— 改 README/MD 后必须 `grep -c` 验证写入
+**当前**：A339 / B344 / C310 = **993**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
