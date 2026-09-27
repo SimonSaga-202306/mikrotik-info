@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | wirelessnetware.ca |
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 同时是 MikroTik 认证顾问（Hani Rahrouh，647-477-0163 / hr@wirelessnetware.ca，8 证含 MTCSWE）；有顾问团队；简历明确写「**Switching：熟悉 RouterOS 7.xx 的全部新交换功能，例如 L3 硬件卸载**」→ 他懂硬件卸载，能直接谈芯片规格；同时精通 RouterOS 与 SwitchOS；路由 BGP/OSPF、无线 PtP/PtMP/Mesh、CAPsMAN、API 与系统集成 |
 
 ## 三、人员与联系方式

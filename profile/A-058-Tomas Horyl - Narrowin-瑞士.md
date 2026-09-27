@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | narrowin.ch |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCSWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 持 MTCSWE；公司为 MikroTik 提供**网络设计、可视化 visibility 与自动化**，并自研 **network explorer 工具 + MikroTik 开源自动化平台**（narrowin.ch/en/mikrotik_lightweight_sdn.html）→ 做工具的，会看重设备的 API/可管理性；英捷意德四语 |
 
 ## 三、人员与联系方式

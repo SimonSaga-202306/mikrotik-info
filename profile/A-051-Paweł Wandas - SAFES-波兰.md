@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | safes.pl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 防火墙/VPN/隧道/负载均衡/故障切换/QoS/高级路由/无线；熟 The Dude 网管 → 对 SNMP/MIB/NMS 集成有感觉 |
 
 ## 三、人员与联系方式

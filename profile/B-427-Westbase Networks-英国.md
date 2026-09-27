@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：B　慢慢跟（信号待验证，或交换需求弱）
+- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
 - **评级依据**：有信号（交换专长、PoE/监控/门禁、工业/楼宇）但需先验证需求或联系人不具体
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | eu.westbase.io |
 | 类型 | 分销（Netonix 官方） |
 | 反向信号 | Netonix（WISP PoE 交换机） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 切入点 | 官方 Netonix 英国 + 欧洲分销，代理全系 WISP 交换机；手上有 Netonix 存量客户 |
+| 数据来源 | Netonix/PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】eu.westbase.io 自称 official Netonix UK and European distributor，代理 WISP Switch 全系。Netonix 为美式 WISP PoE 交换机（宽温、DC 输入）。；【2026-09-22 补】确认为 Moxa 英国及欧洲分销商，且官网产品线同时包含 MikroTik（路由与交换机）。Netonix + Moxa + MikroTik 三重信号叠加——既懂 Moxa 工业级定位，也熟悉 MikroTik 价位段，是 SmartByte 工业线最直接的切入点。 |
 
 ## 三、人员与联系方式

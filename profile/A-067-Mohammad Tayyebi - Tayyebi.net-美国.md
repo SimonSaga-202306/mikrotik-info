@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、组播/IPTV），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | tayyebi.net |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 8 证含 **MTCSWE**；20+ 年 ISP/WISP 与数据中心；**MikroTik 认证讲师 + 学术讲师（Academy Trainer）**；做托管网络服务（设计/实施/迁移/监控/加固/安全，24/7）；专长含 **交换（MAC-based VLAN、QinQ）**、高可用 VRRP/LACP/绑定、DDoS 防护、组播、MPLS/VPLS/VRF；**还能把 MikroTik 与别的品牌集成并做双向迁移** → 最懂多厂商替代的人 |
 
 ## 三、人员与联系方式

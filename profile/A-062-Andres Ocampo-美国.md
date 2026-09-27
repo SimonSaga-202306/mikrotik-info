@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换专长），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | — |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCINE+MTCIPv6E+MTCSE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★ 技能清单明确含 **Switching（VRRP、SPT 生成树、L2 过滤器）**、Routing & Switching；高级防火墙与 Mangle、OSPF/BGP/路由过滤、带宽管理与队列树、PtP/PtMP、MPLS 与 VPLS、VRF、HotSpot、运营商支持 |
 
 ## 三、人员与联系方式

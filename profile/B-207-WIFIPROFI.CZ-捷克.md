@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：B　慢慢跟（信号待验证，或交换需求弱）
+- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
 - **评级依据**：通用分销商信号，无差异化切入点，慢慢跟
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | shop5.wifiprofi.cz |
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | Lety；店主 Krystof Klima 本人是 MikroTik 认证顾问（7 证：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCIPv6E+MTCSE），专长带宽管理与队列、RADIUS、高级防火墙、VPN/隧道、无线、动态路由 → 既是分销又是集成商，技术型老板，可直接聊规格 |
 
 ## 三、人员与联系方式

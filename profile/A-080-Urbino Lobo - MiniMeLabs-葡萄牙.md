@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（酒店/多住户），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | minimelabs.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCUME |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 自述「**酒店 Hospitality、多住户公寓 Multi-Dwelling Properties、公共接入 Public Access 的网络与强制门户 Captive Portal 环境专家**」，且「**手上有大量现场工程师与生态方案的数据库**」→ 酒店+MDU 是 PoE 接入交换机批量出货场景；他还有外场工程师网络，能铺量。同事 João Martins（+351 968 850 581 / joao@minimelabs.com，MTCNA+MTCUME） |
 
 ## 三、人员与联系方式

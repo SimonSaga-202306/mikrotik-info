@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（工业/楼宇），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | indsol.com |
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus + Ewon |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商/替换，价差 5 倍 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 阿尔伯塔工业自动化；【2026-09-22 补】仅 9 人小公司， Alberta/BC/Manitoba/Saskatchewan 四省。代理 Moxa、Red Lion、N-Tron、Sixnet、eWon、Phoenix Contact，主打工控与油气。 |
 
 ## 三、人员与联系方式

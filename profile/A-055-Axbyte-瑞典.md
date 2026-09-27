@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | axbyte.se |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 公司内 2 人：Leo（瑞典 MikroTik 讲师）+ Fredrik Hellgren（MTCSWE） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ Leo 自述 **做了 21 年 MikroTik，是瑞典（SE）MikroTik RouterOS 官方讲师**，全领域覆盖：防火墙、流量管理、**switching、VLAN**、CAPsMAN、IPv6、OSPF/OSPFv3/iBGP/eBGP、脚本、有线无线设计、认证培训 → 瑞典最强的个人影响力节点 |
 
 ## 三、人员与联系方式

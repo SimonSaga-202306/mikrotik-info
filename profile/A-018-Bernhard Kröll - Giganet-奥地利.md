@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、PoE/监控/门禁），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | giganet.at |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCTCE+MTCIPv6E+MTCSWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 持 MTCSWE；**23 年 MikroTik/RouterOS 经验**；从 SOHO 到企业网与数据中心（HC3 Scale Computing）；专长含 **switching、VLANs**、BGP、防火墙、隧道 VPN/IPsec/WireGuard、PPPoE、CAPsMAN、QoS 与队列、高可用与负载均衡、数据中心托管、监控、备份、自动化、网络审计 |
 
 ## 三、人员与联系方式

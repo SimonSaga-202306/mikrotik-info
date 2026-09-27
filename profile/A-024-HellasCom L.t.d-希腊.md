@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（工业/楼宇、组播/IPTV），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | hellascom.gr |
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★★ 【升级：希腊 MikroTik 生态的源头】自述「**本公司是希腊第一家 MikroTik 分销商（2001 年起），并从 2011 年起是希腊的 MikroTik 培训中心**」。联系人 Smaragdos，+30 210 451 1087 / smarag@hellascom.gr。项目能力：HotSpot、Netinstall、脚本、桥接、RADIUS、3G/LTE、CAPsMAN、The Dude 监控、故障切换与负载均衡、隧道与 VPN、长距离无线 PtP/PtMP/Mesh、L7 流量整形、虚拟化、防火墙 Mangle、OSPF/BGP、QoS 与队列、**船用 WiFi 项目 Marine WiFi**、VoIP、网络视频流、RoIP、**KNX（楼宇自控总线）**、**IPTV 项目（用 MikroTik 组播）** → 分销+培训+集成三位一体，希腊第一优先账号 |
 
 ## 三、人员与联系方式

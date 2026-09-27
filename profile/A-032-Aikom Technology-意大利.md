@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换专长、工业/楼宇），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | aikomtech.com |
 | 类型 | 分销（Teltonika Gold + ComNet 授权） |
 | 反向信号 | Teltonika, ComNet |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 切入点 | 同时是 Teltonika 金牌 + ComNet 分销 → 多品牌工业 IoT 分销 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 意大利 T1，宜主攻；【2026-09-22 补】PLANET（台厂工业/商用交换机）授权分销渠道。；【2026-09-22 补】Aikom Technology S.r.l.，Viale Lambrusco 1, 47838 Riccione (RN)；Teltonika Networks 意大利 GOLD 分销商，增值分销定位。 |
 
 ## 三、人员与联系方式

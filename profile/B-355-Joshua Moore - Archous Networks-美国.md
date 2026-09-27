@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：B　慢慢跟（信号待验证，或交换需求弱）
+- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
 - **评级依据**：有信号（ISP/骨干）但需先验证需求或联系人不具体
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | archous.tech |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道；为企业与 ISP 定制监控与报表 |
 
 ## 三、人员与联系方式

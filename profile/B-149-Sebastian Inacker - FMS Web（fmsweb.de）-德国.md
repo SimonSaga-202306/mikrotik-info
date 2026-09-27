@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：B　慢慢跟（信号待验证，或交换需求弱）
+- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
 - **评级依据**：有信号（ISP/骨干）但需先验证需求或联系人不具体
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | fmsweb.de |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCIPv6E |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维，会自己采购设备 → 用 ERPS/IGMP/VLAN/CLI 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 同公司共 3 位 MikroTik 认证顾问（同一电话 +49 761 2926500）：Henrik Brinkmann（brinkmann@fmsweb.de，企业/ISP/运营商、MPLS-VPLS、公共 WiFi、3G-LTE M2M 与监控）；Patrik Schaub（schaub@fmsweb.de，无线/PtP·PtMP/MESH）。谈一次覆盖三人项目 |
 
 ## 三、人员与联系方式

@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁、组播/IPTV），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | indycar.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E+MTCSWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 持 MTCSWE；**专做美国赛车运动产业与车队（邮箱是 @indycar.com，人在 IndyCar 赛事方）**；业务：Layer 2/3、无线 LAN、PtP、**IP 视频与组播 IP Video & Multicast**、IP 对讲、**Audinate Dante 认证 1/2/3 级（专业音频 over IP）** → 赛事转播+ Dante 音频对交换机的 IGMP Snooping/组播/低时延要求极高，是极高门槛高单价的细分市场 |
 
 ## 三、人员与联系方式

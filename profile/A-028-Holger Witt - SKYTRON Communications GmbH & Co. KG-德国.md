@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（光纤接入），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | skytron.business |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCEWE |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维，会自己采购设备 → 用 ERPS/IGMP/VLAN/CLI 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | WISP/运营商：自建骨干网、BGP/OSPF/MPLS-VPLS、光纤与微波回传、公共 WiFi、IPv6/IoT/LoRaWAN → 最对口 |
 
 ## 三、人员与联系方式

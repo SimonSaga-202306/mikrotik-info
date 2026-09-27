@@ -6,7 +6,7 @@
 
 ## 一、评级与结论
 
-- **评级**：A　重点，且好跟进（有具体对接人、决策链短）
+- **评级**：A　**Yes** —— 明显该做，直接投入精力
 - **评级依据**：有明确交换/供电需求（交换认证 MTCSWE、组播/IPTV），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
@@ -20,6 +20,10 @@
 | 网站 | celenet.es |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 10 证全拿 / 9 证（含 MTCSWE） |
+| 是否自有品牌 | 否 |
+| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
+| 数据来源 | 2026-09-22 |
 | 原备注 | 公司内 2 位顾问，均 9–10 证。Carlos：WISP、OSPF/BGP/MPLS、IPv6 规划、**组播 Multicast**、高可用、负载均衡、流量工程、QoS、CAPsMAN、Hotspot、RouterOS v7。Javier：OSPF/BGP/VLAN/EoIP/MPLS/VPLS、WiFi 部署、带宽管理 |
 
 ## 三、人员与联系方式
