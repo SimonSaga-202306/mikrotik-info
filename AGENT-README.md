@@ -734,4 +734,40 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 34 — 2026-09-23（用户：继续挖）
+**A 364 → 365，合计 1020 行**（本轮大量重复，净增极少）
+**❌ Belden 也是死路**
+  - `belden.com/find-a-distributor` 及 `us-` / `global-` 子页**均为表单式 JS 搜索**，
+    页面永远显示 "0 Results"；加 `?country=Germany&productType=Industrial Networking` 参数**同样无效**
+  - 与 Extreme Networks 同类 → **Belden 官方目录本轮判死，别再重复试**
+**⚠️ Westermo：静态页但**已挖过**，印证对话 21 的判断**
+  - `westermo.com/contact/where-to-buy` **是静态全表**（5 段），可完整抓取
+  - 但取到 16 家欧洲伙伴后逐一去重，**15 家已在库** —— 对话 21 记的
+    「Antaira/Westermo 欧洲经销商目录已尽（14/14 已在库）」**属实**
+  - 且 **英国/美国只有 Westermo 自己的销售办公室**，无独立渠道伙伴
+  - 结论：**Westermo 这条脉彻底见底**
+**🔑 下一把钥匙（下轮第一优先）：Perle 分销页带 `?countryname=` 参数**
+  ```
+  https://www.perle.com/howtobuy/distributors.aspx?countryname=Deutschland
+  ```
+  **该页是静态 HTML，可直接 fetch！**（搜索 snippet 已验证：返回带地址/电话的分销商列表）
+  - 已确认德国页内容：Allnet Computersysteme、CDS IT-Systeme、Sphinx Computer Vertriebs、Wesco Anixter
+  - ⚠️ 国名用的是**德文/当地语言**（Deutschland 而非 Germany）—— **需先试准国名拼写**：
+    `Deutschland / France / Italie / España / Netherlands / United Kingdom / United States / Sverige` 等，
+    试不通就抓一次无参页面看下拉选项的真实 value
+  - Perle 产品线含 **IDS-710 工业 PoE 交换机（100W 802.3bt）**，与 SmartByte 场景高度吻合
+**静态 vs JS 伙伴页总表（下轮照这个挑）**
+  | 厂商 | 状态 |
+  |---|---|
+  | Allied Telesis | ✅ 静态，**已挖干** |
+  | Netonix | ✅ 静态，已挖 |
+  | Westermo | ✅ 静态，**已挖干** |
+  | **Perle** | ✅ **静态，未挖 ← 下轮优先** |
+  | Belden | ❌ JS 表单，死路 |
+  | Extreme Networks | ❌ JS，死路 |
+  | Zyxel | ❌ JS，死路 |
+**当前**：A365 / B344 / C311 = **1020**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
