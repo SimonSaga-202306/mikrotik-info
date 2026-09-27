@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 Internetty。自述做电信领域网络设计/规划/管理与咨询，端到端路由、无线、流量控制。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 Internetty。自述做电信领域网络设计/规划/管理与咨询，端到端路由、无线、流量控制。 【2026-09-27 挖邮箱·待人工】InternetTY = 全光纤宽带 ISP（家用+商用+VoIP），本身即潜在采购方。RocketReach 证实存在 @internetty.uk 邮箱但遮码，需人工解锁或试 info@/sales@ |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+44 3331 020000
-- **原始联系字段**：+44 3331 020000
+- **原始联系字段**：+44 3331 020000；⚠️ 无邮箱：域名 internetty.uk（RocketReach 显示 b******@internetty.uk，被遮码）｜InternetTY = 全光纤宽带 ISP（家用+商用+VoIP），本身即潜在采购方。RocketReach 证实存在 @internetty.uk 邮箱但遮码，需人工解锁或试 info@/sales@
 
 ## 四、品牌与技术栈
 
@@ -55,9 +55,25 @@
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：光纤接入 / FTTH
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**LT-S8328XG-4XS24GT-S（24×千兆 + 4×万兆 SFP+）**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+4×10G SFP+ 上行、QinQ 做用户隔离、端口隔离、组播、广播风暴抑制
+
+### 怎么开发
+
+问「OLT 下面挂多少用户？每用户怎么隔离？上行带宽怎么收敛？」——他们是按端口数买设备的，算单端口成本最有效
+
+### 风险点
+
+户外机柜场景要确认温度和防雷等级；运营商类客户可能要求入网许可或本地认证，先问清楚再报价
 
 ## 六、注意点
 
@@ -72,18 +88,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：Per-subscriber isolation on your FTTH build
 
 ```text
 Hi Benjamin,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+I build access switches for FTTH and fixed wireless — per-subscriber isolation and uplink aggregation are the whole job.
 
-What caught my eye is that you work on Internetty.
+What caught my eye is that you work on VoIP.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: 4×10G SFP+ uplink, QinQ per subscriber, port isolation, broadcast storm control, IGMP for IPTV.
 
-What are you using for access layer today, and where does it hurt?
+How are you isolating subscribers now — QinQ per user, or something simpler?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 

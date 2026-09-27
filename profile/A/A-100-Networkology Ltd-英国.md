@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner**。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner**。 【2026-09-27 挖邮箱·真邮箱】官网 contact 页；另有 tenders@networkology.com，具名 David Owen。客户为**国防/政府/公共部门**（高合规环境），Allied Telesis 伙伴 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+44 1249 700084
-- **原始联系字段**：+44 1249 700084
+- **邮箱**：contact@networkology.com、tenders@networkology.com
+- **电话**：—
+- **原始联系字段**：contact@networkology.com（官网 contact 页；另有 tenders@networkology.com，具名 David Owen。客户为**国防/政府/公共部门**（高合规环境），Allied Telesis 伙伴）
 
 ## 四、品牌与技术栈
 
@@ -72,7 +72,7 @@ Hi Networkology,
 
 I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
 
-What caught my eye is that you work on Platinum and Partner.
+What caught my eye is that you work on Platinum, Partner and contact.
 
 Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
 

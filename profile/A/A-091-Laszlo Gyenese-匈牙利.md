@@ -34,23 +34,39 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 自述做有线无线网络、3G/4G、防火墙、队列、VPN、API、远程管理、HotSpot，并**开设 MikroTik 认证课程**。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 自述做有线无线网络、3G/4G、防火墙、队列、VPN、API、远程管理、HotSpot，并**开设 MikroTik 认证课程**。 【2026-09-27 挖邮箱·待人工】MikroTik Trainer + Academy Trainer，兼 CISCO Network Academy 讲师；经营主体另有 Gyenese Laszlo E.V. 与 Alphasonic。建议从 mikrotikgyor.hu 表单或 MUM 讲师名录找邮箱 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+36 20 9937980
-- **原始联系字段**：+36 20 9937980
+- **原始联系字段**：+36 20 9937980；⚠️ 无邮箱：站点 mikrotikgyor.hu / digisoftnet.hu｜MikroTik Trainer + Academy Trainer，兼 CISCO Network Academy 讲师；经营主体另有 Gyenese Laszlo E.V. 与 Alphasonic。建议从 mikrotikgyor.hu 表单或 MUM 讲师名录找邮箱
 
 ## 四、品牌与技术栈
 
-**涉及品牌 / 技术**：MikroTik
+**涉及品牌 / 技术**：Cisco、MikroTik
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：影响力 / 渠道
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**先给样机，不做型号推销**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+他靠讲课和方案吃饭，多一个能讲、能演示、能推荐的品牌就是多一门课
+
+### 怎么开发
+
+给他样机 + 完整技术资料 + 可公开讲的案例，让他讲课时用；**不要一上来谈价格和返点**，谈「你能多讲什么内容」
+
+### 风险点
+
+这类人最在意「会不会砸我招牌」——绝不能让他推荐没实测过的东西；给他的一定要先自己测通；后续他带来的单子要让他有面子也有实际收益
 
 ## 六、注意点
 
@@ -65,18 +81,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：Sample unit for your training lab
 
 ```text
 Hi Laszlo,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+You teach and design on MikroTik, so you are the person whose opinion actually reaches buyers. I would rather you test the hardware than hear a pitch.
 
 What caught my eye is that you work on VPN, API and HotSpot.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: Managed access switching in both commercial and DIN-rail industrial forms, full CLI/SSH/SNMP, and documentation you can teach from.
 
-What are you using for access layer today, and where does it hurt?
+Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 

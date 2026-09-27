@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | 安防系统集成商 —— IP 视频监控依赖接入层 PoE。 |
+| 原备注 | 安防系统集成商 —— IP 视频监控依赖接入层 PoE。 【2026-09-27 挖邮箱】备用 compliance@atec-security.co.uk；具名联系人 Michelle Hollinshead（Sales & Marketing Executive） |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@atec-security.co.uk、compliance@atec-security.co.uk
 - **电话**：+44 3300 580 050
-- **原始联系字段**：+44 3300 580 050
+- **原始联系字段**：+44 3300 580 050 / info@atec-security.co.uk（备用 compliance@atec-security.co.uk；具名联系人 Michelle Hollinshead（Sales & Marketing Executive））
 
 ## 四、品牌与技术栈
 
@@ -78,7 +78,7 @@ Hi ATEC,
 
 I work on PoE access switches, and your CCTV / access control work is exactly the use case I keep running into.
 
-What caught my eye is that you work on PoE.
+What caught my eye is that you work on PoE, compliance and atec-security.
 
 Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink, per-port power budget you can actually plan against, PoE watchdog that power-cycles a hung camera instead of sending a truck.
 

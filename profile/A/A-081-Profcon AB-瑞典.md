@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商，本地备货。 |
+| 原备注 | Perle 授权分销商，本地备货。 【2026-09-27 挖邮箱】Profcon 官网联系页；总部/销售同一邮箱。Perle 授权分销商 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@profcon.se
 - **电话**：+46 281 30600
-- **原始联系字段**：+46 281 30600
+- **原始联系字段**：+46 281 30600 / info@profcon.se（Profcon 官网联系页；总部/销售同一邮箱。Perle 授权分销商）
 
 ## 四、品牌与技术栈
 
@@ -78,7 +78,7 @@ Hi Profcon,
 
 I work on PoE access switches, and your CCTV / access control work is exactly the use case I keep running into.
 
-What caught my eye is that you work on Perle.
+What caught my eye is that you work on Perle and Profcon.
 
 Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink, per-port power budget you can actually plan against, PoE watchdog that power-cycles a hung camera instead of sending a truck.
 

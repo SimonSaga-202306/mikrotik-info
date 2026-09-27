@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 持全部十证含 **MTCSWE**。 |
+| 原备注 | 持全部十证含 **MTCSWE**。 【2026-09-27 挖邮箱】穆尔西亚；任职 Tech Mahindra。**注意：LinkedIn 显示 MTCINE/MTCRE 已于 2017–2018 到期**，MikroTik 活跃度可能已衰减，发信前先核 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+34 622 330440
-- **原始联系字段**：+34 622 330440
+- **原始联系字段**：+34 622 330440；⚠️ 无邮箱：LinkedIn linkedin.com/in/carlosc8/
 
 ## 四、品牌与技术栈
 
@@ -91,7 +91,7 @@ Hi Carlos,
 
 You hold MTCSWE, so switching is a declared specialism rather than a side task — that is who I want to talk to.
 
-What caught my eye is that you work on MTCSWE.
+What caught my eye is that you work on MTCSWE, Tech and Mahindra.
 
 Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), QinQ and VLAN translation, ERPS and MSTP, ACLs and static routing, full CLI plus SSH plus SNMP with a private MIB.
 

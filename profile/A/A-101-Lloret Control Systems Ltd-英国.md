@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner** —— 控制系统背景，工控+网络。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner** —— 控制系统背景，工控+网络。 【2026-09-27 挖邮箱·真邮箱】具名 Graham Budd（Commissioning Manager）graham.budd@lloret.co.uk。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+44 20 8410 4600
-- **原始联系字段**：+44 20 8410 4600
+- **邮箱**：sales@lloret.co.uk、graham.budd@lloret.co.uk
+- **电话**：—
+- **原始联系字段**：sales@lloret.co.uk（具名 Graham Budd（Commissioning Manager）graham.budd@lloret.co.uk。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口）
 
 ## 四、品牌与技术栈
 
@@ -48,9 +48,25 @@
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：工业 / 楼宇自控
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环网收敛 <20ms、PoE++ 90W 直接带工业相机和 AP
+
+### 怎么开发
+
+第一句就问「你工业现场现在用谁的交换机？环网收敛多少毫秒？」——用 ERPS 实测数据对比切入，然后要求送一台上机柜实测 30 天
+
+### 风险点
+
+工业客户认硬认证（CE / UL / EN50155 / 海事 DNV），缺一项直接出局；温度范围、MTBF、EMC 等级必须给书面数据，不能口头说；现场一旦上线几乎不换，所以第一次必须测通，否则永远没第二次
 
 ## 六、注意点
 
@@ -65,18 +81,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：Ring convergence + -40 to 75C switches
 
 ```text
 Hi Lloret,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+I do industrial access switches — DIN rail, wide temperature, ERPS ring — which matches the environments you work in.
 
-What caught my eye is that you work on Platinum and Partner.
+What caught my eye is that you work on Platinum, Partner and Graham.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power input, ERPS ring under 20 ms, PoE++ for cameras and APs on the same unit.
 
-What are you using for access layer today, and where does it hurt?
+What ring protocol are you on today, and what convergence do you actually see?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 

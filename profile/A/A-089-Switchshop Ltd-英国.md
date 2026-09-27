@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | **Premier Partner**。自述英国首屈一指的 Allied Telesis 伙伴，持认证工程师，熟 AMF 与 SDN，覆盖企业、**工业**、网络管理。另设独立工业以太网线（制造/交通/安防/油气/国防）。**本批最强一家**。 |
+| 原备注 | **Premier Partner**。自述英国首屈一指的 Allied Telesis 伙伴，持认证工程师，熟 AMF 与 SDN，覆盖企业、**工业**、网络管理。另设独立工业以太网线（制造/交通/安防/油气/国防）。**本批最强一家**。 【2026-09-27 挖邮箱】官网 contact 页；Allied Telesis Premier Partner，另有格拉斯哥与利兹分部 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@switchshop.co.uk
 - **电话**：+44 1438 831870
-- **原始联系字段**：+44 1438 831870
+- **原始联系字段**：+44 1438 831870 / sales@switchshop.co.uk（官网 contact 页；Allied Telesis Premier Partner，另有格拉斯哥与利兹分部）
 
 ## 四、品牌与技术栈
 

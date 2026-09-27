@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 英国代理名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner**。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 **Platinum Partner**。 【2026-09-27 挖邮箱·待人工】**Allied Telesis Platinum Partner（最高级）**，主业楼宇系统集成 BMS/IoT/OT 数据，PoE 接入层需求真实。具名 John Dente（LinkedIn /in/john-dente-9b5a2276/）；电话 +44 (0)207 0888205 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
-- **电话**：+44 7584 631601
-- **原始联系字段**：+44 7584 631601
+- **电话**：+44 7584 631601、+44 (0)207 0888205
+- **原始联系字段**：+44 7584 631601；⚠️ 无邮箱：msi-works.com 为 Wix 纯表单｜**Allied Telesis Platinum Partner（最高级）**，主业楼宇系统集成 BMS/IoT/OT 数据，PoE 接入层需求真实。具名 John Dente（LinkedIn /in/john-dente-9b5a2276/）；电话 +44 (0)207 0888205
 
 ## 四、品牌与技术栈
 
@@ -48,9 +48,25 @@
 
 ## 五、跟进策略
 
-场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
+**场景判断**：PoE / 监控 / 门禁
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+### 推什么型号
+
+**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+
+> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+
+### 核心卖点
+
+802.3bt 单口 90W、**PoE 看门狗（摄像头死机自动断电重启，省一趟上门）**、250m 延长供电、端口隔离、整机功率预算足
+
+### 怎么开发
+
+替他算一笔账：24 个 4K 头全开要多少瓦、满配后还剩多少余量——这是每个做监控的人都踩过的坑，算清楚就赢一半
+
+### 风险点
+
+**PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
 ## 六、注意点
 
@@ -65,18 +81,18 @@
 
 ## 七、首触邮件（可直接发送）
 
-**主题**：Access switching — quick question
+**主题**：PoE budget question on your camera jobs
 
 ```text
 Hi MSI,
 
-I build managed access switches (PoE and industrial) and your profile came up while I was looking at who is actually doing this work in your market.
+I work on PoE access switches, and your CCTV / access control work is exactly the use case I keep running into.
 
-What caught my eye is that you work on Platinum and Partner.
+What caught my eye is that you work on BMS.
 
-Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, QinQ and VLAN translation/rewrite, ERPS and MSTP, full CLI plus SSH plus SNMP with a private MIB.
+Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink, per-port power budget you can actually plan against, PoE watchdog that power-cycles a hung camera instead of sending a truck.
 
-What are you using for access layer today, and where does it hurt?
+How many cameras per job, and what wattage per port are you designing to?
 
 If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 

@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。⚠️ **同名不同法人**：本条为**波兰**独立公司（Perle 渠道），与库内 Microstar（克罗地亚/斯洛文尼亚，Westermo 渠道）**不是一家，勿合并**。本条是被子串去重误杀后人工补录的。 |
+| 原备注 | Perle 授权分销商。⚠️ **同名不同法人**：本条为**波兰**独立公司（Perle 渠道），与库内 Microstar（克罗地亚/斯洛文尼亚，Westermo 渠道）**不是一家，勿合并**。本条是被子串去重误杀后人工补录的。 【2026-09-27 挖邮箱】具名联系人 Piotr Pieczerak（atto.com 厂商名录收录）。⚠️波兰法人，勿与克罗地亚 Microstar 合并 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：piotr.pieczerak@microstar.com.pl
 - **电话**：+48 22 8365273
-- **原始联系字段**：+48 22 8365273
+- **原始联系字段**：+48 22 8365273 / piotr.pieczerak@microstar.com.pl（具名联系人 Piotr Pieczerak（atto.com 厂商名录收录）。⚠️波兰法人，勿与克罗地亚 Microstar 合并）
 
 ## 四、品牌与技术栈
 

@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。自述专长带宽控制、负载均衡、静态/OSPF/BGP 路由、防火墙、VPN、Hotspot、PPPoE。 |
+| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。自述专长带宽控制、负载均衡、静态/OSPF/BGP 路由、防火墙、VPN、Hotspot、PPPoE。 【2026-09-27 挖邮箱】官网 about 页；mikrotikinfo.com（加州 Mission Viejo），北美头号 MikroTik 培训伙伴 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@mikrotikinfo.com
 - **电话**：949) 385-2171
-- **原始联系字段**：(949) 385-2171；站点 mikrotikinfo.com
+- **原始联系字段**：(949) 385-2171；站点 mikrotikinfo.com / info@mikrotikinfo.com（官网 about 页；mikrotikinfo.com（加州 Mission Viejo），北美头号 MikroTik 培训伙伴）
 
 ## 四、品牌与技术栈
 

@@ -7,7 +7,7 @@
 ## 一、评级与结论
 
 - **评级**：A　**Yes** —— 明显该做，直接投入精力
-- **评级依据**：有明确交换/供电需求（交换专长、PoE/监控/门禁、工业/楼宇），三星重点
+- **评级依据**：有明确交换/供电需求（交换专长、PoE/监控/门禁、工业/楼宇），且有具体人直联
 - **下次复核**：收到反馈后重新评级
 
 ## 二、公司概览
@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 挖邮箱】具名：Christine Berthon（法国区总经理）christine.berthon@pedab.fr；Thibaut Perié（网络销售）thibaut.perie@pedab.fr |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：commercial@pedab.fr、christine.berthon@pedab.fr、thibaut.perie@pedab.fr
 - **电话**：—
-- **原始联系字段**：见 Perle 名录（distributor=603）
+- **原始联系字段**：commercial@pedab.fr（具名：Christine Berthon（法国区总经理）christine.berthon@pedab.fr；Thibaut Perié（网络销售）thibaut.perie@pedab.fr）
 
 ## 四、品牌与技术栈
 
@@ -78,7 +78,7 @@ Hi PEDAB,
 
 I work on PoE access switches, and your CCTV / access control work is exactly the use case I keep running into.
 
-What caught my eye is that you work on Perle.
+What caught my eye is that you work on Perle, Christine and Berthon.
 
 Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink, per-port power budget you can actually plan against, PoE watchdog that power-cycles a hung camera instead of sending a truck.
 

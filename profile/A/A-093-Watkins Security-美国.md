@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=united-states） |
-| 原备注 | 伙伴等级：Resell。安防/消防系统集成商 —— IP 视频与门禁依赖接入层 PoE 交换机，属 SmartByte 可替换场景。 |
+| 原备注 | 伙伴等级：Resell。安防/消防系统集成商 —— IP 视频与门禁依赖接入层 PoE 交换机，属 SmartByte 可替换场景。 【2026-09-27 挖邮箱·真邮箱】官网 contact 页；Principal/CEO Christopher Watkins |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@watkins-security.com
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：info@watkins-security.com（官网 contact 页；Principal/CEO Christopher Watkins）
 
 ## 四、品牌与技术栈
 

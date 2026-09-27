@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训计划（欧洲） |
-| 原备注 | 【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。在 Umkirch 开 MTCRE 与 **MTCSWE**，德语授课。ISP/网络服务商背景。 |
+| 原备注 | 【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。在 Umkirch 开 MTCRE 与 **MTCSWE**，德语授课。ISP/网络服务商背景。 【2026-09-27 挖邮箱】Impressum 页；总经理 Patrick Schaub。⚠️**同时运营 mikrotik-shop.de**（MikroTik 网店）→ 直接竞品替代位 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@fmsweb.de
 - **电话**：—
-- **原始联系字段**：见 mikrotik.com/training/europe 培训计划页
+- **原始联系字段**：info@fmsweb.de（Impressum 页；总经理 Patrick Schaub。⚠️**同时运营 mikrotik-shop.de**（MikroTik 网店）→ 直接竞品替代位）
 
 ## 四、品牌与技术栈
 
