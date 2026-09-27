@@ -17,20 +17,20 @@
 | 公司名 | IndustrialComms |
 | 国家 | 英国 |
 | 城市 | — |
-| 网站 | industrialcomms.com |
+| 网站 | https://www.industrialcomms.com |
 | 类型 | 专业分销 |
 | 反向信号 | EtherWAN |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | ⭐英国T1：熟悉工业交换机，缺低价第二供应源 |
 | 数据来源 | 反向信号/2026-09 |
-| 原备注 | 交通/公用事业/监控；【2026-09-22 补】经 EtherWAN（台厂，1996 年创立，现被德国 Phoenix Contact 收购）渠道名录确认为其分销商。站点明示经销 EtherWAN 加固型工业交换机（-40~+75℃、5–48 口、非网管/网管/三层）、90W PoE、光纤介质转换器与 VDSL2 延长器，面向交通、公用事业、IP 监控与关键基础设施；地址 Toddington, Bedfordshire。；【2026-09-23】另经 Atop（台厂）渠道确认其为 Atop 英国分销商——串口服务器、Modbus/IEC 61850 协议网关、EN 50155 与 IEC 61850-3 交换机。 |
+| 原备注 | 交通/公用事业/监控；【2026-09-22 补】经 EtherWAN（台厂，1996 年创立，现被德国 Phoenix Contact 收购）渠道名录确认为其分销商。站点明示经销 EtherWAN 加固型工业交换机（-40~+75℃、5–48 口、非网管/网管/三层）、90W PoE、光纤介质转换器与 VDSL2 延长器，面向交通、公用事业、IP 监控与关键基础设施；地址 Toddington, Bedfordshire。；【2026-09-23】另经 Atop（台厂）渠道确认其为 Atop 英国分销商——串口服务器、Modbus/IEC 61850 协议网关、EN 50155 与 IEC 61850-3 交换机。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页与EtherWAN产品页正文均给sales@industrialcomms.com与+44 (0)203 086 9569；公司名Industrial Communication Products Ltd、Toddington地址与旧记录一致。EtherWAN分销身份在本轮抓取的EtherWAN产品页复见。 证据：[1](https://www.industrialcomms.com/pages/contact-us) [2](https://www.industrialcomms.com/pages/etherwan) [3](https://www.modernrailways.com/companies/industrial-communication-products-ltd) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-267 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@industrialcomms.com
 - **电话**：—
-- **原始联系字段**：官网+LinkedIn
+- **原始联系字段**：sales@industrialcomms.com（官网联系页正文；未测试投递）；原入口：官网+LinkedIn
 
 ## 四、品牌与技术栈
 

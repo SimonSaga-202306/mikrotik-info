@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | Michiel Visser |
 | 国家 | 荷兰 |
 | 城市 | Deventer |
-| 网站 | — |
+| 网站 | https://interstellar.nl |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCIPv6E MTCINE MTCSE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。 |
+| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。 【2026-09-27 A260–A279联络核验】来源等级：official-company。LinkedIn显示Michiel Visser任职Interstellar（Amersfoort/Utrecht），并在2026 MikroTik Professionals Conference演讲MikroTik spine-leaf交换架构；Interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室。名录城市Deventer与LinkedIn所在地Apeldoorn不同，不据此改城市；集团邮箱不等于个人直邮。 证据：[1](https://interstellar.nl/contact/) [2](https://www.linkedin.com/in/michiel-visser-a0720b81/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-271 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@interstellar.nl
 - **电话**：+31 6 29047127
-- **原始联系字段**：+31 6 29047127
+- **原始联系字段**：info@interstellar.nl（关联公司官网联系页；个人归属/现任职限制见备注；未测试投递）；原入口：+31 6 29047127
 
 ## 四、品牌与技术栈
 

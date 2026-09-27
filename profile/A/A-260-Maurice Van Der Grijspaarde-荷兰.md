@@ -17,20 +17,20 @@
 | 公司名 | Maurice Van Der Grijspaarde |
 | 国家 | 荷兰 |
 | 城市 | Haarlem |
-| 网站 | — |
+| 网站 | https://gpe-networks.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCTCE MTCUME MTCIPv6E MTCINE MTCSE MTCSWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。持 MTCSWE 交换认证。 |
+| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。持 MTCSWE 交换认证。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文给出公司邮箱info@gpe-networks.com、电话023 7640 540与Haarlem地址Wateringweg 133，与MikroTik名录城市一致；LinkedIn与客户案例页显示Maurice van der Grijspaarde与GPE Networks关联。公司邮箱不等于个人直邮/现任职。库内B-440为同名同公司记录，只关联不合并；另有SMT Systems/Amsterdam同名旧档案线索，不能确认同一人。 证据：[1](https://gpe-networks.com/contact/) [2](https://www.linkedin.com/in/mauricevandergrijspaarde/) [3](https://xs-anywhere.com/klantcases/de-titel-van-een-opgeleverd-project-4/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-260 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@gpe-networks.com
 - **电话**：—
-- **原始联系字段**：MikroTik 顾问名录
+- **原始联系字段**：info@gpe-networks.com（关联公司官网联系页正文；个人归属/现任职限制见备注；未测试投递）；原入口：MikroTik 顾问名录
 
 ## 四、品牌与技术栈
 

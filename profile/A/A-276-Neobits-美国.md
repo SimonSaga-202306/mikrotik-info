@@ -17,20 +17,20 @@
 | 公司名 | Neobits |
 | 国家 | 美国 |
 | 城市 | California |
-| 网站 | — |
+| 网站 | https://www.neobits.com |
 | 类型 | WISP 集成商/代理（Netonix） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文给sales@neobits.com、1-866-636-2487与Santa Clara总部地址，并列出供应商入口vendors@与客服customercare@；电话与名录一致。第三方政府采购资料重复同一组邮箱，仅旁证。 证据：[1](https://www.neobits.com/contactUs) [2](https://www.neobits.com/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-276 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@neobits.com、vendors@neobits.com
 - **电话**：1-866-636-2487
-- **原始联系字段**：1-866-636-2487
+- **原始联系字段**：sales@neobits.com（官网联系页正文；未测试投递）；供应商入口：vendors@neobits.com；原入口：1-866-636-2487
 
 ## 四、品牌与技术栈
 

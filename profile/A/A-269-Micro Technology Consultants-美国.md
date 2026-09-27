@@ -17,20 +17,20 @@
 | 公司名 | Micro Technology Consultants |
 | 国家 | 美国 |
 | 城市 | Warner Robins, GA |
-| 网站 | microtechnology.net |
+| 网站 | https://www.microtechnology.net |
 | 类型 | MikroTik 生态集成商 |
 | 反向信号 | Ruckus（无线与交换）+ Avigilon |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商官网品牌页（当前） |
-| 原备注 | 佐治亚州 K12 与中小企业 IT 服务商，业务含网络、服务器、安防系统、**网络交换**、铜缆与光缆布线。用 Ruckus 交换与无线 —— **属可替换的接入层现有供应商**。 |
+| 原备注 | 佐治亚州 K12 与中小企业 IT 服务商，业务含网络、服务器、安防系统、**网络交换**、铜缆与光缆布线。用 Ruckus 交换与无线 —— **属可替换的接入层现有供应商**。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文给info@与sales@microtechnology.net及电话478-953-1921、Warner Robins地址。Facebook页显示具名Kyle.smith@Microtechnology.net（第三方平台、不作主邮箱）；ZoomInfo等对员工邮箱遮罩，未采纳。 证据：[1](https://www.microtechnology.net/contact) [2](https://www.facebook.com/MicroTechnologyConsultants/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-269 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@microtechnology.net、sales@microtechnology.net
 - **电话**：478) 953-1921
-- **原始联系字段**：(478) 953-1921
+- **原始联系字段**：info@microtechnology.net（官网联系页正文；未测试投递）；另 sales@microtechnology.net；原入口：(478) 953-1921
 
 ## 四、品牌与技术栈
 

@@ -17,20 +17,20 @@
 | 公司名 | NetHighTech |
 | 国家 | 葡萄牙 |
 | 城市 | Lisboa |
-| 网站 | — |
+| 网站 | https://www.nethightech.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MikroTik 培训伙伴（开 MTCSWE 等课程） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 里斯本培训伙伴，官方课程表在列。 |
+| 原备注 | 里斯本培训伙伴，官方课程表在列。 【2026-09-27 A260–A279联络核验】来源等级：official-search-only。MikroTik官方课程表确认其为里斯本培训伙伴（MTCSWE等课程在列）；邮箱与电话仅见于搜索索引（对应课程页本轮返回404，首页仍含MikroTik培训栏目），正文未复见，故按official-search-only处理、标注待核；Gmail地址不作为已验证企业邮箱、未测试投递。 证据：[1](https://mikrotik.com/training) [2](https://nethightech.com/300-630/) [3](https://www.nethightech.com/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-262 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：nethightech@gmail.com
 - **电话**：—
-- **原始联系字段**：见 mikrotik.com/training
+- **原始联系字段**：nethightech@gmail.com（待核：仅搜索索引，对应课程页本轮已404；未测试投递）；原入口：见 mikrotik.com/training
 
 ## 四、品牌与技术栈
 

@@ -17,20 +17,20 @@
 | 公司名 | Data Connect |
 | 国家 | 美国 |
 | 城市 | — |
-| 网站 | data-connect.com |
+| 网站 | https://www.data-connect.com |
 | 类型 | 集成商/主备货分销（Belden 工业） |
 | 反向信号 | Hirschmann + GarrettCom（Belden 工业接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商渠道页（当前） |
-| 原备注 | **Belden/Hirschmann 与 GarrettCom 的 MASTER STOCKING DISTRIBUTOR + TAC 中心** —— 不是纯搬箱子的：提供售前方案、配置、安装与技术支持，并**明确给分销商/VAR/集成商特殊折扣**。带 TAC 中心=技术能力强，属优质集成商。 |
+| 原备注 | **Belden/Hirschmann 与 GarrettCom 的 MASTER STOCKING DISTRIBUTOR + TAC 中心** —— 不是纯搬箱子的：提供售前方案、配置、安装与技术支持，并**明确给分销商/VAR/集成商特殊折扣**。带 TAC 中心=技术能力强，属优质集成商。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文按角色列出邮箱：总sales@/support@data-connect.com，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe drowe@，总部Olney, Maryland。GarrettCom授权行在vendors页复见；旧备注所称MASTER STOCKING DISTRIBUTOR与TAC在首页可见对应字样，未逐字复核TAC中心表述。 证据：[1](https://www.data-connect.com/contact_information.htm) [2](https://www.data-connect.com/) [3](https://www.data-connect.com/vendors.htm) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-270 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@data-connect.com、bpatton@data-connect.com
 - **电话**：—
-- **原始联系字段**：见 data-connect.com
+- **原始联系字段**：sales@data-connect.com（官网联系页正文；未测试投递）；分销商/顾问入口：bpatton@data-connect.com；原入口：见 data-connect.com
 
 ## 四、品牌与技术栈
 

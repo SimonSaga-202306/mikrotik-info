@@ -17,20 +17,20 @@
 | 公司名 | ATYS Co Controll Enginering |
 | 国家 | 匈牙利 |
 | 城市 | Budapest |
-| 网站 | atysco.hu |
+| 网站 | https://www.atysco.hu |
 | 类型 | 集成商/代理（Westermo） |
 | 反向信号 | Westermo（工业接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Westermo 官方 where-to-buy 名录 |
-| 原备注 | 伙伴等级：Reseller。与罗马尼亚的 ATYS-co Romania 同属一家，覆盖中东欧两国。 |
+| 原备注 | 伙伴等级：Reseller。与罗马尼亚的 ATYS-co Romania 同属一家，覆盖中东欧两国。 【2026-09-27 A260–A279联络核验】来源等级：official-obfuscated-company。ATYS-CO Kft官网联系页以可逆写法给出邮箱（EN页atysco[at]atysco[dot]hu、sales[at]atysco[dot]eu；HU页atysco[kukac]atysco[pont]hu）并列出销售邮箱sales@atysco.hu、总经理Ottó Jász及具名邮箱；主用销售入口。CSV原电话+36 1 263 2561与官网公布的+36 1 263-2193/263-0212不同，属名录与官网差异，不据此改写客户电话。库内C-167、C-231为相关实体，仅关联不合并。 证据：[1](https://www.atysco.hu/en/contact) [2](http://www.atysco.hu/hu/kapcsolat) [3](https://www.companywall.hu/v%C3%A1llalat/atys-co-kft/MM9yv8a0) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-263 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@atysco.hu
 - **电话**：+36 1 263 2561
-- **原始联系字段**：+36 1 263 2561
+- **原始联系字段**：sales@atysco.hu（官网正文公开；官方页另有可逆(at)/(dot)写法；未测试投递）；原入口：+36 1 263 2561
 
 ## 四、品牌与技术栈
 

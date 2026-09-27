@@ -17,20 +17,20 @@
 | 公司名 | Modelec Data-Industrie |
 | 国家 | 荷兰 |
 | 城市 | — |
-| 网站 | modelec.nl |
+| 网站 | https://www.modelec.nl |
 | 类型 | 分销（Westermo Reseller） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 荷兰工业数据通信分销；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。荷兰 reseller，具备全套技术支持与本地办会能力。 |
+| 原备注 | 荷兰工业数据通信分销；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。荷兰 reseller，具备全套技术支持与本地办会能力。 【2026-09-27 A260–A279联络核验】来源等级：official-company。MODELEC官网联系页正文给Sales contact@modelec.nl、Support support@modelec.nl、订单order@，电话+31 (0)318 636 262与旧记录一致，地址Ede；支持页复核其自称Moxa与Westermo荷兰官方分销商。 证据：[1](https://www.modelec.nl/contact/) [2](https://www.modelec.nl/support/) [3](https://www.modelec.nl/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-277 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：contact@modelec.nl、support@modelec.nl、order@modelec.nl
 - **电话**：+31 318 636 262
-- **原始联系字段**：+31 318 636 262
+- **原始联系字段**：contact@modelec.nl（官网联系页正文；未测试投递）；支持：support@modelec.nl；订单：order@modelec.nl；原入口：+31 318 636 262
 
 ## 四、品牌与技术栈
 

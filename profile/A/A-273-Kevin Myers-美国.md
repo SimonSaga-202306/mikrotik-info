@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | Kevin Myers |
 | 国家 | 美国 |
 | 城市 | Flowood, MS |
-| 网站 | — |
+| 网站 | https://iparchitechs.com |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCNA MTCRE MTCTCE MTCUME MTCSE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 |
+| 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 【2026-09-27 A260–A279联络核验】来源等级：official-company-historical-named。IP ArchiTechs现官网联系页正文给consulting@iparchitechs.com（原样含空格，mailto同），电话+1 (855) 645-7684；2016年MikroTik官方MUM PDF列出Kevin Myers职务与kevin.myers@iparchitechs.com、办公室(303) 590-9943，属历史具名证据，不作现直邮。LinkedIn显示其2024年起在StubArea51.net。库内C-131 Samson Kamwendo / IP Architechs为相关实体记录，仅关联。 证据：[1](https://iparchitechs.com/contact-ip-architechs/) [2](https://mum.mikrotik.com/presentations/US16/presentation_3327_1462279781.pdf) [3](https://www.linkedin.com/in/ipv6-kevin-myers/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-273 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：consulting@iparchitechs.com、kevin.myers@iparchitechs.com
 - **电话**：601-287-3868
-- **原始联系字段**：601-287-3868
+- **原始联系字段**：consulting@iparchitechs.com（官网联系页正文，页面原样含空格；未测试投递）；历史具名：kevin.myers@iparchitechs.com（2016 MUM PDF）；原入口：601-287-3868
 
 ## 四、品牌与技术栈
 

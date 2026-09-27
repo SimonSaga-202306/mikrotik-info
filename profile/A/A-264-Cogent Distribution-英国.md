@@ -17,20 +17,20 @@
 | 公司名 | Cogent Distribution |
 | 国家 | 英国 |
 | 城市 | Newbury, Berkshire |
-| 网站 | — |
+| 网站 | https://www.cogentdistribution.com |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文给enquiries@cogentdistribution.com与电话+44 (0)1635 917 722、Newbury地址；2023官方手册另给sales@与solutions@部门入口。Perle授权分销身份来自旧记录来源标签，本轮未重读Perle名录页，不重复背书。 证据：[1](https://www.cogentdistribution.com/contact-us/) [2](https://www.cogentdistribution.com/wp-content/uploads/2023/10/Cogent-Distribution-A4-Brochure_digital_version.pdf) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-264 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：enquiries@cogentdistribution.com
 - **电话**：—
-- **原始联系字段**：见 Perle 名录（distributor=656）
+- **原始联系字段**：enquiries@cogentdistribution.com（官网联系页正文；未测试投递）；原入口：见 Perle 名录（distributor=656）
 
 ## 四、品牌与技术栈
 

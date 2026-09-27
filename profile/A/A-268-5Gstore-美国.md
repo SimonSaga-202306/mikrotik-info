@@ -17,20 +17,20 @@
 | 公司名 | 5Gstore |
 | 国家 | 美国 |
 | 城市 | — |
-| 网站 | 5gstore.com |
+| 网站 | https://5gstore.com |
 | 类型 | 分销（Teltonika 授权） |
 | 反向信号 | Teltonika Networks（含 TSW212 工业 PoE+ 交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
-| 原备注 | Teltonika 授权分销，主营工业蜂窝路由与 IoT 网关，**亦供 TSW212 等工业 PoE+ 交换机**。 |
+| 原备注 | Teltonika 授权分销，主营工业蜂窝路由与 IoT 网关，**亦供 TSW212 等工业 PoE+ 交换机**。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网隐私页正文给sales@5gstore.com与1-833-5GSTORE、Crystal Lake IL地址；Teltonika分销栏目页复核其为authorized Teltonika Distributor。官网联系表单为第三方Cognito表单，不显示邮箱。 证据：[1](https://5gstore.com/site/privacy.html) [2](https://5gstore.com/landing/c/teltonika_distributor/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-268 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@5gstore.com
 - **电话**：—
-- **原始联系字段**：见 5gstore.com
+- **原始联系字段**：sales@5gstore.com（官网隐私页正文；未测试投递）；原入口：见 5gstore.com
 
 ## 四、品牌与技术栈
 

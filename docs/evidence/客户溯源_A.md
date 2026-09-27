@@ -3921,261 +3921,353 @@
 <a id="A-260"></a>
 ## A-260 · Maurice Van Der Grijspaarde · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-91`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://gpe-networks.com
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@gpe-networks.com；投递未测试。
+  - 说明：官网联系页正文给出公司邮箱info@gpe-networks.com、电话023 7640 540与Haarlem地址Wateringweg 133，与MikroTik名录城市一致；LinkedIn与客户案例页显示Maurice van der Grijspaarde与GPE Networks关联。公司邮箱不等于个人直邮/现任职。库内B-440为同名同公司记录，只关联不合并；另有SMT Systems/Amsterdam同名旧档案线索，不能确认同一人。
+  - 保留原文：Contact页正文：E-mail info@gpe-networks.com / Telefoon 023 7640 540 / Wateringweg 133, 2031 EG Haarlem / KvK 99477238 / LinkedIn：Experience GPE Networks, Location Haarlem / GPE首页客户评价：Maurice onze Netwerk legend! ... Mikrotik Router
+  - [1](https://gpe-networks.com/contact/)
+  - [2](https://www.linkedin.com/in/mauricevandergrijspaarde/)
+  - [3](https://xs-anywhere.com/klantcases/de-titel-van-een-opgeleverd-project-4/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-261"></a>
 ## A-261 · Joost Van De Weijer · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-92`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://iptechniek.nl
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[1]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@iptechniek.nl；投递未测试。
+  - 说明：IP Techniek官网首页正文给出Bladel地址、电话与sales@iptechniek.nl；LinkedIn显示Joost Van De Weijer任职IPtechniek.nl、所在地Bladel、教育背景为mikrotik network education。公司邮箱不等于个人直邮/现任职。
+  - 保留原文：Ip Techniek Telefonie en Data Communicatie / IP Techniek, Raamloop 3, 5531PC, Bladel / T. 0497-741013, E. sales@iptechniek.nl / LinkedIn：Experience IPtechniek.nl; Education mikrotik network education; Location Bladel
+  - [1](https://iptechniek.nl/)
+  - [2](https://www.linkedin.com/in/joost-van-de-weijer-86482a179/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-262"></a>
 ## A-262 · NetHighTech · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-831`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.nethightech.com
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[2]`；记录日期 2026-09-27；来源等级 `official-search-only`。
+  - 公开邮箱：nethightech@gmail.com；投递未测试。
+  - 说明：MikroTik官方课程表确认其为里斯本培训伙伴（MTCSWE等课程在列）；邮箱与电话仅见于搜索索引（对应课程页本轮返回404，首页仍含MikroTik培训栏目），正文未复见，故按official-search-only处理、标注待核；Gmail地址不作为已验证企业邮箱、未测试投递。
+  - 保留原文：mikrotik.com/training：Portugal, Lisboa — NetHighTech（MTCWE/MTCNA/MTCSE/MTCIPv6E/MTCSWE等）/ 搜索索引 nethightech.com/300-630/：nethightech@gmail.com、(+)351 912 826594 / 本轮直取该页与/contact/均404，nethightech.com首页含MikroTik培训栏目
+  - [1](https://mikrotik.com/training)
+  - [2](https://nethightech.com/300-630/)
+  - [3](https://www.nethightech.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-263"></a>
 ## A-263 · ATYS Co Controll Enginering · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1021`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Westermo 官方 where-to-buy 名录
-- 官网线索（不自动背书其他字段）：atysco.hu
+- 官网线索（不自动背书其他字段）：https://www.atysco.hu
 - 精确同名同国别首次入库提交：`638f7e0b5b3a70fa813dc97f5d33f02012192292`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[3]`；记录日期 2026-09-27；来源等级 `official-obfuscated-company`。
+  - 公开邮箱：sales@atysco.hu；投递未测试。
+  - 说明：ATYS-CO Kft官网联系页以可逆写法给出邮箱（EN页atysco[at]atysco[dot]hu、sales[at]atysco[dot]eu；HU页atysco[kukac]atysco[pont]hu）并列出销售邮箱sales@atysco.hu、总经理Ottó Jász及具名邮箱；主用销售入口。CSV原电话+36 1 263 2561与官网公布的+36 1 263-2193/263-0212不同，属名录与官网差异，不据此改写客户电话。库内C-167、C-231为相关实体，仅关联不合并。
+  - 保留原文：EN contact：E-mail: atysco[at]atysco[dot]hu, sales[at]atysco[dot]eu / Sales: E-mail sales@atysco.hu / Impressum: Manager Director Ottó Jász, Contact ifj.jasz.otto@atysco.hu / HU kapcsolat: atysco[kukac]atysco[pont]hu, sales[kukac]atysco[pont]hu
+  - [1](https://www.atysco.hu/en/contact)
+  - [2](http://www.atysco.hu/hu/kapcsolat)
+  - [3](https://www.companywall.hu/v%C3%A1llalat/atys-co-kft/MM9yv8a0)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-264"></a>
 ## A-264 · Cogent Distribution · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1022`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.cogentdistribution.com
 - 精确同名同国别首次入库提交：`9c8b696fd591080db6a4b6f02fde1f3e6bd24d35`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：enquiries@cogentdistribution.com；投递未测试。
+  - 说明：官网联系页正文给enquiries@cogentdistribution.com与电话+44 (0)1635 917 722、Newbury地址；2023官方手册另给sales@与solutions@部门入口。Perle授权分销身份来自旧记录来源标签，本轮未重读Perle名录页，不重复背书。
+  - 保留原文：Contact Us：enquiries@cogentdistribution.com / +44 (0)1635 917 722 / Cogent Distribution Ltd, Technology House, Kennet Side, Bone Ln, Newbury, RG14 5PX / 2023官方手册：sales@cogentdistribution.com、solutions@cogentdistribution.com
+  - [1](https://www.cogentdistribution.com/contact-us/)
+  - [2](https://www.cogentdistribution.com/wp-content/uploads/2023/10/Cogent-Distribution-A4-Brochure_digital_version.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-265"></a>
 ## A-265 · Sphinx Connect · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1027`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.sphinxfrance.com
 - 精确同名同国别首次入库提交：`9c8b696fd591080db6a4b6f02fde1f3e6bd24d35`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@sphinxfrance.fr；投递未测试。
+  - 说明：Sphinx France官网联系页正文给出sales@sphinxfrance.fr、+33 2 51 09 26 60与Montaigu地址Parc de la Bretonnière，与Perle法国名录中的Sphinx Connect地址一致；Advantech伙伴目录另给mail@sphinxconnect.fr作旁证。库内C-214 Sphinx France、C-047 Sphinx Italia及德Sphinx Computer Vertriebs为不同法人/品牌，勿合并。
+  - 保留原文：Contactez-nous：Email : sales@sphinxfrance.fr / Parc de la Bretonnière, 85600, Montaigu, France / +33 2 51 09 26 60 / Perle France名录：Sphinx Connect, Parc de la Bretonnière, Montaigu / Advantech伙伴页：mail@sphinxconnect.fr
+  - [1](https://www.sphinxfrance.com/contactez-nous)
+  - [2](https://www.perle.com/howtobuy/distributors.aspx?countryname=France)
+  - [3](https://www.advantech.com/emt/partners/channel/419)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-266"></a>
 ## A-266 · Andisa IT · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-818`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：andisa.net
+- 官网线索（不自动背书其他字段）：https://www.andisa.net
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：supportdesk@andisa.net；投递未测试。
+  - 说明：官网支持页正文给supportdesk@andisa.net与电话01423 290029，首页结构化数据给sales@andisa.net；Harrogate地址与名录一致。2018年MUM官方PDF显示Andy Morrison为MikroTik顾问/主讲并列出andy@andisa.net，属历史具名证据，不当作现直邮；个人现任职未独立复核。
+  - 保留原文：Support页正文：Phone: 01423 290029 / Email: supportdesk@andisa.net / 首页结构化数据：contactPoint sales@andisa.net / MUM UK18 PDF：Andy Morrison ... www.andisa.net 01423 290029 ... Provide Mikrotik consultancy & IT Consultancy
+  - [1](https://www.andisa.net/support/)
+  - [2](https://www.andisa.net/)
+  - [3](https://mum.mikrotik.com/presentations/UK18/presentation_5911_1539085610.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-267"></a>
 ## A-267 · IndustrialComms · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-72`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
-- 官网线索（不自动背书其他字段）：industrialcomms.com
+- 官网线索（不自动背书其他字段）：https://www.industrialcomms.com
 - 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@industrialcomms.com；投递未测试。
+  - 说明：官网联系页与EtherWAN产品页正文均给sales@industrialcomms.com与+44 (0)203 086 9569；公司名Industrial Communication Products Ltd、Toddington地址与旧记录一致。EtherWAN分销身份在本轮抓取的EtherWAN产品页复见。
+  - 保留原文：Contact Us：Telephone: +44 (0) 203 086 9569 Extn 10# / Email: sales@industrialcomms.com / EtherWAN页：UK distributor of EtherWAN ... Industrial Communication Products Ltd, The Angel Business Centre, 1 Luton Road, Toddington, Bedfordshire, LU5 6DE
+  - [1](https://www.industrialcomms.com/pages/contact-us)
+  - [2](https://www.industrialcomms.com/pages/etherwan)
+  - [3](https://www.modernrailways.com/companies/industrial-communication-products-ltd)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-268"></a>
 ## A-268 · 5Gstore · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-783`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官方渠道名录
-- 官网线索（不自动背书其他字段）：5gstore.com
+- 官网线索（不自动背书其他字段）：https://5gstore.com
 - 精确同名同国别首次入库提交：`29edf4fbacec57568e2fa5c16dcafefd2b4eca31`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@5gstore.com；投递未测试。
+  - 说明：官网隐私页正文给sales@5gstore.com与1-833-5GSTORE、Crystal Lake IL地址；Teltonika分销栏目页复核其为authorized Teltonika Distributor。官网联系表单为第三方Cognito表单，不显示邮箱。
+  - 保留原文：Privacy Notice：We can be reached via e-mail at sales@5gstore.com or you can reach us by telephone at 1-833-5GSTORE / postal address 220 Exchange Drive, Crystal Lake, IL / Teltonika landing：As an authorized Teltonika Distributor ...
+  - [1](https://5gstore.com/site/privacy.html)
+  - [2](https://5gstore.com/landing/c/teltonika_distributor/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-269"></a>
 ## A-269 · Micro Technology Consultants · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-856`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官网品牌页（当前）
-- 官网线索（不自动背书其他字段）：microtechnology.net
+- 官网线索（不自动背书其他字段）：https://www.microtechnology.net
 - 精确同名同国别首次入库提交：`923fe61a1debfa9de5c9a1d387688f1600324e41`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[9]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@microtechnology.net；投递未测试。
+  - 说明：官网联系页正文给info@与sales@microtechnology.net及电话478-953-1921、Warner Robins地址。Facebook页显示具名Kyle.smith@Microtechnology.net（第三方平台、不作主邮箱）；ZoomInfo等对员工邮箱遮罩，未采纳。
+  - 保留原文：CONTACT US：Email info@microtechnology.net / sales@microtechnology.net / Phone 478-953-1921 (local), 800-689-9301 / 132 Osigian Blvd, Warner Robins, GA 31088 / Facebook intro：Kyle.smith@Microtechnology.net
+  - [1](https://www.microtechnology.net/contact)
+  - [2](https://www.facebook.com/MicroTechnologyConsultants/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-270"></a>
 ## A-270 · Data Connect · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-857`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商渠道页（当前）
-- 官网线索（不自动背书其他字段）：data-connect.com
+- 官网线索（不自动背书其他字段）：https://www.data-connect.com
 - 精确同名同国别首次入库提交：`056617b9530f17c57af8eb262687ebbe0113daed`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@data-connect.com；投递未测试。
+  - 说明：官网联系页正文按角色列出邮箱：总sales@/support@data-connect.com，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe drowe@，总部Olney, Maryland。GarrettCom授权行在vendors页复见；旧备注所称MASTER STOCKING DISTRIBUTOR与TAC在首页可见对应字样，未逐字复核TAC中心表述。
+  - 保留原文：WORLDWIDE SALES & SUPPORT ... sales@data-connect.com / support@data-connect.com / Distributors & Consultants: Barry Patton 301-924-7400x12 bpatton@data-connect.com / Integrators, VARs & Resellers: Daniel Rowe drowe@data-connect.com / vendors页：garrettcom Authorized Reseller
+  - [1](https://www.data-connect.com/contact_information.htm)
+  - [2](https://www.data-connect.com/)
+  - [3](https://www.data-connect.com/vendors.htm)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-271"></a>
 ## A-271 · Michiel Visser · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-586`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://interstellar.nl
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[11]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@interstellar.nl；投递未测试。
+  - 说明：LinkedIn显示Michiel Visser任职Interstellar（Amersfoort/Utrecht），并在2026 MikroTik Professionals Conference演讲MikroTik spine-leaf交换架构；Interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室。名录城市Deventer与LinkedIn所在地Apeldoorn不同，不据此改城市；集团邮箱不等于个人直邮。
+  - 保留原文：Interstellar Contact：Stuur een email mailto:info@interstellar.nl；Amersfoort Terminalweg 38A / Delft Delftechpark 35 ... / LinkedIn：Experience Interstellar; Location Apeldoorn; ... my talk at Mikrotik Professionals Conference (MTPC) 2026 in Prague about Mikrotik based spine-leaf switching architecture
+  - [1](https://interstellar.nl/contact/)
+  - [2](https://www.linkedin.com/in/michiel-visser-a0720b81/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-272"></a>
 ## A-272 · Alexandr Mensenin · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-593`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`68243e3a785696f5adc6ae9c355e88d114be7763`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[12]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：官方顾问名录页邮箱为遮罩式Email链接不可读取，本轮直接抓取该国页面只得到JS地图外壳；未找到其自有网站或其他正文邮箱，保留原电话/WhatsApp为触达。搜索命中的Michal Měňšenin（Ostrava建筑与园林公司登记）为疑似不同人，不导入。原“待人工补邮箱”标注保留。
+  - 保留原文：Consultants（搜索索引）：Alexandr Mensenin — MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCSE — Ostrava, Czech Republic — phone +420608746740 / WhatsApp 608746740 / email Email（遮罩链接）/ 本轮 https://mikrotik.com/consultants/europe/czech 仅返回地图外壳与No results found
+  - [1](https://mikrotik.com/consultants/europe/czech)
+  - [2](https://www.finmag.cz/obchodni-rejstrik/osoba/michal-mensenin)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-273"></a>
 ## A-273 · Kevin Myers · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-746`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://iparchitechs.com
 - 精确同名同国别首次入库提交：`5952bf79644afdb9ae83cd7246c1398d99b89c97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official-company-historical-named`。
+  - 公开邮箱：consulting@iparchitechs.com；投递未测试。
+  - 说明：IP ArchiTechs现官网联系页正文给consulting@iparchitechs.com（原样含空格，mailto同），电话+1 (855) 645-7684；2016年MikroTik官方MUM PDF列出Kevin Myers职务与kevin.myers@iparchitechs.com、办公室(303) 590-9943，属历史具名证据，不作现直邮。LinkedIn显示其2024年起在StubArea51.net。库内C-131 Samson Kamwendo / IP Architechs为相关实体记录，仅关联。
+  - 保留原文：Contact IP ArchiTechs：consulting @iparchitechs.com（页面原样，mailto同）/ +1 (855) 645-7684 / MUM US16 PDF：KEVIN MYERS, NETWORK ARCHITECT / MANAGING PARTNER, MTCINE #1409, MIKROTIK CERTIFIED TRAINER — Email: kevin.myers@iparchitechs.com — Office: (303) 590-9943 / LinkedIn：IPv6/IPv4 Network Architect ... StubArea51.net Jan 2024 - Present
+  - [1](https://iparchitechs.com/contact-ip-architechs/)
+  - [2](https://mum.mikrotik.com/presentations/US16/presentation_3327_1462279781.pdf)
+  - [3](https://www.linkedin.com/in/ipv6-kevin-myers/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-274"></a>
 ## A-274 · Nathael Leblanc · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-819`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：joustsec.com
+- 官网线索（不自动背书其他字段）：https://joustsec.com
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[14]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@joustsec.com；投递未测试。
+  - 说明：Joust Security官网首页与关于页正文给info@joustsec.com、Montreal总部与电话+1-514-418-0585；隐私政策另给privacy@，joustlabs.net给noc@/soc@/abuse@joustsec.com。名录网页地址为joustsec.com，与公司一致；个人职衔未独立复核，客服电话与名录手机号不同、不改原电话。
+  - 保留原文：Clever Security Consulting / Headquartered in Montreal, Canada / info@joustsec.com / Montreal: +1-514-418-0585 / Privacy：privacy@joustsec.com / Joust Labs POCs：noc@joustsec.com, soc@joustsec.com, abuse@joustsec.com
+  - [1](https://joustsec.com/)
+  - [2](https://joustsec.com/about.html)
+  - [3](https://joustlabs.net/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-275"></a>
 ## A-275 · Philippe Lachapelle · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-821`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
-- 官网线索（不自动背书其他字段）：canservers.com
+- 官网线索（不自动背书其他字段）：https://canservers.com
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@canservers.com；投递未测试。
+  - 说明：CanServers官网联系页正文给info@canservers.com、1-866-696-3912与Skype ludarcorp，电话与名录一致；X账号显示Montréal, Québec。个人与公司关系仅来自MikroTik名录网页地址，未独立复核职衔。
+  - 保留原文：Contact Us：Phone: 1-866-696-3912 / Email: info@canservers.com / Skype: ludarcorp / X：CanServers ... Montréal, Québec
+  - [1](https://canservers.com/contact)
+  - [2](https://x.com/canadaservers)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-276"></a>
 ## A-276 · Neobits · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-778`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.neobits.com
 - 精确同名同国别首次入库提交：`eec7c6e05cbca349da01a713ed7ee22018d59496`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[16]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@neobits.com；投递未测试。
+  - 说明：官网联系页正文给sales@neobits.com、1-866-636-2487与Santa Clara总部地址，并列出供应商入口vendors@与客服customercare@；电话与名录一致。第三方政府采购资料重复同一组邮箱，仅旁证。
+  - 保留原文：Contact Us：Neobits Inc. 3350 Scott Blvd., STE 4601 Santa Clara, CA 95054 / Toll free: 1-866-636-2487 / email us at sales@neobits.com / Prospective new suppliers, please email vendors@neobits.com / Customer Care ... customercare@neobits.com
+  - [1](https://www.neobits.com/contactUs)
+  - [2](https://www.neobits.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-277"></a>
 ## A-277 · Modelec Data-Industrie · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-79`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：modelec.nl
+- 官网线索（不自动背书其他字段）：https://www.modelec.nl
 - 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：contact@modelec.nl；投递未测试。
+  - 说明：MODELEC官网联系页正文给Sales contact@modelec.nl、Support support@modelec.nl、订单order@，电话+31 (0)318 636 262与旧记录一致，地址Ede；支持页复核其自称Moxa与Westermo荷兰官方分销商。
+  - 保留原文：Contact：Bezoekadres Galvanistraat 38 6716 AE Ede / Telefoonnummer +31 (0)318 – 636 262 / Afdeling Sales contact@modelec.nl / Support support@modelec.nl / Bestellingen order@modelec.nl / Support页：officieel Nederlands distributeur van Moxa en Westermo
+  - [1](https://www.modelec.nl/contact/)
+  - [2](https://www.modelec.nl/support/)
+  - [3](https://www.modelec.nl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-278"></a>
 ## A-278 · Cayman Wireless · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-774`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.caymanwireless.com
 - 精确同名同国别首次入库提交：`eec7c6e05cbca349da01a713ed7ee22018d59496`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[18]`；记录日期 2026-09-27；来源等级 `public-register`。
+  - 公开邮箱：sales@caymanwireless.com；投递未测试。
+  - 说明：官网正文确认其Authorized Partner Brands含MikroTik与Netonix，但联系入口邮箱在本轮抓取中被遮罩、正文未显示；sales@caymanwireless.com仅有第三方目录结构化数据支持，故按public-register处理，未验证投递、未测试。
+  - 保留原文：官网：Authorized Partner Brands ... MikroTik ... Netonix；Contact Technical Sales（邮箱被遮罩）956-825-0710 / 黄页与Manta结构化数据：sales@caymanwireless.com，Harlingen, TX，电话956-825-0710
+  - [1](https://www.caymanwireless.com/)
+  - [2](https://www.yellowpages.com/harlingen-tx/mip/cayman-wireless-inc-461428339)
+  - [3](https://www.manta.com/c/mryrnqs/cayman-wireless-inc)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-279"></a>
 ## A-279 · wlanparts · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-775`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`eec7c6e05cbca349da01a713ed7ee22018d59496`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A260-A279.json` → `records[19]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：wlanparts.com首页现为systeme.io占位页，只有电话626.243.2110/866.297.2281，/contact-us/返回404，站点不再是无线产品目录；未找到可验证邮箱，保留原电话。Crunchbase标注WLanParts(closed)、Pasadena, California；Ubiquiti社区帖称其为Pasadena Networks并提及名为Frank的联系人，属论坛转述，不作正式联系人。
+  - 保留原文：wlanparts.com首页现为systeme.io占位页：626.243.2110 / 866.297.2281 / /contact-us/ 404 / Crunchbase：WLanParts (closed), Pasadena, California, +1 626 243 2110 / Ubiquiti社区：Pasadena Networks aka wlanparts.com ... Frank
+  - [1](https://www.wlanparts.com/)
+  - [2](https://www.crunchbase.com/organization/wlanparts)
+  - [3](https://community.ui.com/questions/Very-poor-experience-with-Pasadena-Networks-aka-wlanparts-com/424d2ee6-8e55-4bd8-9505-4af354999307)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-280"></a>

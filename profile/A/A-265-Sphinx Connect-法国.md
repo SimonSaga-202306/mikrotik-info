@@ -17,20 +17,20 @@
 | 公司名 | Sphinx Connect |
 | 国家 | 法国 |
 | 城市 | Montaigu |
-| 网站 | — |
+| 网站 | https://www.sphinxfrance.com |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。⚠️ 与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）**同为 Sphinx 系但不同法人**，勿当成重复合并。 |
+| 原备注 | Perle 授权分销商。⚠️ 与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）**同为 Sphinx 系但不同法人**，勿当成重复合并。 【2026-09-27 A260–A279联络核验】来源等级：official-company。Sphinx France官网联系页正文给出sales@sphinxfrance.fr、+33 2 51 09 26 60与Montaigu地址Parc de la Bretonnière，与Perle法国名录中的Sphinx Connect地址一致；Advantech伙伴目录另给mail@sphinxconnect.fr作旁证。库内C-214 Sphinx France、C-047 Sphinx Italia及德Sphinx Computer Vertriebs为不同法人/品牌，勿合并。 证据：[1](https://www.sphinxfrance.com/contactez-nous) [2](https://www.perle.com/howtobuy/distributors.aspx?countryname=France) [3](https://www.advantech.com/emt/partners/channel/419) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-265 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@sphinxfrance.fr
 - **电话**：—
-- **原始联系字段**：见 Perle 名录（distributor=642）
+- **原始联系字段**：sales@sphinxfrance.fr（官网联系页正文；未测试投递）；原入口：见 Perle 名录（distributor=642）
 
 ## 四、品牌与技术栈
 

@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A260–A279联络核验】来源等级：leads-only。wlanparts.com首页现为systeme.io占位页，只有电话626.243.2110/866.297.2281，/contact-us/返回404，站点不再是无线产品目录；未找到可验证邮箱，保留原电话。Crunchbase标注WLanParts(closed)、Pasadena, California；Ubiquiti社区帖称其为Pasadena Networks并提及名为Frank的联系人，属论坛转述，不作正式联系人。 证据：[1](https://www.wlanparts.com/) [2](https://www.crunchbase.com/organization/wlanparts) [3](https://community.ui.com/questions/Very-poor-experience-with-Pasadena-Networks-aka-wlanparts-com/424d2ee6-8e55-4bd8-9505-4af354999307) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-279 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：1-866-297-2281
-- **原始联系字段**：1-866-297-2281
+- **原始联系字段**：1-866-297-2281（原电话；网站现为占位页，未找到可验证邮箱）
 
 ## 四、品牌与技术栈
 

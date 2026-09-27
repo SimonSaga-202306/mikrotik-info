@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `642238174fe3` | 2026-09-27T14:43:05+00:00 | Research A240-A259 contacts and distinguish legacy leads from verified sources |
 | `0c5cdb4c2f65` | 2026-09-27T14:35:05+00:00 | Research A210-A239 contacts with scoped evidence and freeze strategy output |
 | `d17cddc8e46b` | 2026-09-27T14:09:45+00:00 | 建立全仓溯源与逐轮需求总账，修复档案展示并顺号补挖A200至209 |
 | `5ac5c565cc09` | 2026-09-27T13:53:01+00:00 | 顺号补挖 A-110..199 联系方式并保留冻结编号 |

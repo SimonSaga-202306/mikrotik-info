@@ -17,20 +17,20 @@
 | 公司名 | Cayman Wireless |
 | 国家 | 美国 |
 | 城市 | — |
-| 网站 | — |
+| 网站 | https://www.caymanwireless.com |
 | 类型 | WISP 集成商/代理（Netonix） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A260–A279联络核验】来源等级：public-register。官网正文确认其Authorized Partner Brands含MikroTik与Netonix，但联系入口邮箱在本轮抓取中被遮罩、正文未显示；sales@caymanwireless.com仅有第三方目录结构化数据支持，故按public-register处理，未验证投递、未测试。 证据：[1](https://www.caymanwireless.com/) [2](https://www.yellowpages.com/harlingen-tx/mip/cayman-wireless-inc-461428339) [3](https://www.manta.com/c/mryrnqs/cayman-wireless-inc) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-278 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@caymanwireless.com
 - **电话**：1-956-825-0710
-- **原始联系字段**：1-956-825-0710
+- **原始联系字段**：sales@caymanwireless.com（第三方目录结构化数据，官网联系入口为遮罩；待核；未测试投递）；原入口：1-956-825-0710
 
 ## 四、品牌与技术栈
 
