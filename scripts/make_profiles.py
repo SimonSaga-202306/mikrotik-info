@@ -75,7 +75,11 @@ def safe(name):
 
 
 def emails(text):
-    return re.findall(r'[\w.+-]+@[\w.-]+\.\w+', text)
+    # Keep uncertainty in the raw field, but do not promote guessed addresses
+    # into the extracted mailbox list (e.g. the historical J A Shomer guess).
+    segments = re.split(r"[；;。\n]", text)
+    non_guessed = " ".join(x for x in segments if not re.search(r"推测|猜测", x))
+    return re.findall(r'[\w.+-]+@[\w.-]+\.\w+', non_guessed)
 
 
 def phones(text):
@@ -165,9 +169,9 @@ def main():
 
         code = (r[NUMCOL] or "").strip() or grade
         fname = "%s-%s-%s.md" % (code, safe(name), safe(country))
-        sub = _subdir(code)
-        os.makedirs(sub, exist_ok=True)
-        path = os.path.join(sub, fname)
+        directory = _subdir(code)
+        os.makedirs(directory, exist_ok=True)
+        path = os.path.join(directory, fname)
 
         blob = " ".join([name, typ, signal, note])
         sc = scenarios(blob)
@@ -314,7 +318,7 @@ def main():
                 w("> **C 级细分：`%s`**" % sub)
                 w("")
             w("> ⛔ **Too hard pile**：本条进「太难」堆，**当前不投入跟进精力**，不必为它写开发信或做方案。")
-            w("> 信息已**全量留档**（本档案 + 总表 19 列），待出现明确触发条件再捞出来重评：")
+            w("> 信息已**全量留档**（本档案 + 总表 %d 列），待出现明确触发条件再捞出来重评：" % len(hdr))
             w("> ① 对方主动询价；② 出现停产替换需求；③ 我方补齐对应认证；④ 你从别处拿到其内部人线索。")
         w("")
 
@@ -374,6 +378,8 @@ def main():
                  "共 **%d** 份档案，按评级分组。文件名格式：`评级-序号-公司名-国家.md`" % len(made),
                  "",
                  "存放位置：`profile/A/`（A 级）、`profile/B/`（B 级）、`profile/C/`（C 级）",
+                 "", "证据与缺证：[A](../docs/evidence/客户溯源_A.md) / [B](../docs/evidence/客户溯源_B.md) / [C](../docs/evidence/客户溯源_C.md)。",
+                 "模板卖点/邮件不是已核实事实；跟进线下维护，用户报实际回复时才更新。",
                  "", "评级含义：", "",
                  "- **A**　重点且好跟进：有明确需求信号 + 具体对接人 + 决策链短",
                  "- **B**　慢慢跟：信号待验证，或交换需求弱",
@@ -390,7 +396,7 @@ def main():
         # (e.g. "TME (Transfer Multisort Elektronik)"), and a bare
         # [x](file (a).md) link terminates at the first ")" -> broken link.
         idx_lines.append("- [`%s`](<%s/%s>)　%s · %s"
-                         % (code, _subdir(code), fname, name, country))
+                         % (code, os.path.relpath(_subdir(code), DIR), fname, name, country))
     idx_lines.append("")
     open(os.path.join(DIR, "00-索引.md"), "w", encoding="utf-8").write("\n".join(idx_lines))
 

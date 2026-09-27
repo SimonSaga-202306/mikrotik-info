@@ -28,7 +28,7 @@
 
 ## 三、人员与联系方式
 
-- **邮箱**：sales@jashomer.com、czaugg@jashomer.com
+- **邮箱**：sales@jashomer.com
 - **电话**：216-221-4157
 - **原始联系字段**：电话 216-221-4157（总机，Charles Zaugg 直线同号）；sales@jashomer.com。President：Charles Zaugg（邮箱按 czaugg@jashomer.com 推测，未验证）
 
