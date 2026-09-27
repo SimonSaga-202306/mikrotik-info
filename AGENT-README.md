@@ -804,4 +804,37 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 36 — 2026-09-23（用户：继续）
+**A 371 → 374（+3），合计 1029 行**（边际产出已明显下降）
+**Perle 第二批国家结果**
+  | 国 | 结果 |
+  |---|---|
+  | **瑞典** | **+1 Profcon AB**（Vansbro，+46 281 30600）；Direktronik 已在库；Wesco 过大 |
+  | **挪威** | **+1 The Junction**（Drammen，+47 40 40 34 02） |
+  | **波兰** | **+1 Microstar sp. z o. o.**（Warsaw，+48 22 8365273） |
+  | 加拿大 | **0**（只有 Ingram Micro / Wesco Anixter / 厂商自建 Perle Systems Limited） |
+  | 比利时 | **无分销商** |
+  | 奥地利 | **无分销商** |
+**⚠️ 又一个同名不同法人的坑**
+  - **Microstar 出现两次**：Microstar（克罗地亚+斯洛文尼亚，Westermo 渠道）vs
+    **Microstar sp. z o. o.（波兰，Perle 渠道）** —— **不是一家**，已在备注标注勿合并
+  - 这已是继 Sphinx（意/德/法三家）之后的**第二类同名不同法人**情况
+  - **教训：去重要看「国别 + 法人后缀」，不能只看公司名字串**
+**❌ Perle 还没查的国家（下轮收尾，预计 0–3 家）**
+  `Denmark / Finland / Switzerland / Portugal / Ireland`
+  （按已查 11 国的命中率推算，**Perle 这条脉也快见底了**）
+**📉 全脉状态总结（重要，决定下一步方向）**
+  | 厂商 | 状态 |
+  |---|---|
+  | Allied Telesis | ✅ 已挖干（四大池：德 97 / 意 90 / 英 77 / 美 2 页） |
+  | MikroTik 顾问+培训中心 | ✅ 已扫完（欧美主要国家） |
+  | Westermo | ✅ 已挖干 |
+  | Netonix | ✅ 已挖（14 家，Vitesse 圈外，特批保留） |
+  | **Perle** | ⚠️ **剩 5 国，即将见底** |
+  | Belden / Extreme / Zyxel | ❌ JS 死路 |
+  | **Transition Networks** | ❓ **唯一还没找到静态目录页的大厂商** |
+**当前**：A374 / B344 / C311 = **1029**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
