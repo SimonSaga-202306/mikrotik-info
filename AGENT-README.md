@@ -837,4 +837,44 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 37 — 2026-09-23（用户：搞完，之后有别的事）
+**A 374 → 378（+4），合计 1033 行**
+**✅ Perle 全线扫完（最后 5 国）**
+  - **芬兰 +1** Timeless Technology（Pori）
+  - **葡萄牙 +1** DSSI（Agualva-Cacém）
+  - **爱尔兰 +2** Infinite Technology（Dublin）、Electromaster Limited（Tallaght）
+  - 丹麦 0（The Junction / S-Connect 均已在库）、瑞士 0（无分销商）
+  - **Perle 累计产出约 14 家**，法国单国 5 家最高。PoE 场景 33 → 37
+**🔴 重大发现：Transition Networks 已被 Lantronix 收购**
+  - `transition.com` **301 重定向到 `lantronix.com`** —— 两家现在是同一家公司、同一渠道
+  - 因此「Transition Networks 渠道」== 「Lantronix 渠道」，**不存在独立池子**
+  - ✅ 这同时解释了为什么对话 25 从 SEC 年报里挖到的 Lantronix EMEA 名单
+    （Sphinx / Atlantik / Jade / transtec / Astradis / Acal）是对的
+**⚠️ Lantronix 官方伙伴页 = 低质量源，建议不再投入**
+  - 正确入口：`https://www.lantronix.com/to-buy/locate-partner/`
+    （注意**不是** `/where-to-buy/`，那个 404）
+  - 页面**只渲染 logo 图片**，伙伴名称仅存在于**图片文件名**里
+    （Acal-BFi / Accu-Tech / Acromax / ADNet / Braemac / Logicom / Sol / tecnomic / Gresco / …）
+  - **无名称文本、无国家、无城市、无电话、无邮箱** —— 只能靠猜，且无国别无法判定是否在欧美范围
+  - 筛掉巨头后（Arrow / Ingram / DigiKey / Mouser / Farnell / TD SYNNEX / WESCO /
+    Graybar / CDW / Insight / ComputaCenter / Atea / ScanSource）所剩无几
+  - **结论：不值得为几张 logo 灌水进库，该源判废**
+**🏁 Marvell Prestera 公开渠道目录 —— 全部挖完**
+  | 厂商 | 结论 |
+  |---|---|
+  | Allied Telesis | ✅ 挖干（德 97/意 90/英 77/美 2 页 + 其余欧洲） |
+  | MikroTik 顾问 + 培训中心 | ✅ 欧美主要国家扫完 |
+  | Westermo | ✅ 挖干 |
+  | Perle | ✅ **本轮挖干** |
+  | Netonix | ✅ 已挖（Vitesse，特批保留） |
+  | Lantronix / Transition Networks | ⚠️ 官方伙伴页只有 logo，**判废** |
+  | Belden / Extreme / Zyxel | ❌ JS 死路 |
+**再要出量，必须换方法**（不再是「照 URL 批量扫」的机械活），可选方向：
+  1. 按场景反查（PoE/酒店/工业 场景下的本地集成商目录）
+  2. 挖已入库 1033 家的上下游与客户名单
+  3. 展会/协会名录（如 WISP 协会、工业自动化协会会员名录）
+**当前**：A378 / B344 / C311 = **1033**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
