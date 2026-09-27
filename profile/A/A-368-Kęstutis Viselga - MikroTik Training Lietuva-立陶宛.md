@@ -24,14 +24,14 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★★ 立陶宛 MikroTik 培训机构（mikrotik-training.lt）；6 证含 **MTCSWE（交换）**+ MTCTCE（流量控制）+ MTCSE（安全）+ MTCWE（无线）→ 他教什么，立陶宛的工程师就用什么 |
+| 原备注 | ★★ 立陶宛 MikroTik 培训机构（mikrotik-training.lt）；6 证含 **MTCSWE（交换）**+ MTCTCE（流量控制）+ MTCSE（安全）+ MTCWE（无线）→ 他教什么，立陶宛的工程师就用什么 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（立陶宛筛选）列Kęstutis Viselga / MB Tikslingi mokslai（Alytus, Lithuania）：电话+370 684 43770、邮箱trainer@mikrotik-training.lt、站点mikrotik-training.lt；所列证书6项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCSE、MTCSWE，含MTCSWE），评分79%，与本行原备注（6证含MTCSWE）一致。名录主体名MB Tikslingi mokslai与本行公司名写法不同——仅备注，未改公司名/城市字段。 证据：[1](https://mikrotik.com/training/centers?region=Lithuania&category=training) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-368 |
 
 ## 三、人员与联系方式
 
 - **对接人**：Kęstutis Viselga
 - **邮箱**：trainer@mikrotik-training.lt
 - **电话**：+370 684 43770
-- **原始联系字段**：+370 684 43770 / trainer@mikrotik-training.lt
+- **原始联系字段**：+370 684 43770 / trainer@mikrotik-training.lt（官方培训中心名录一致）
 
 ## 四、品牌与技术栈
 

@@ -5721,246 +5721,319 @@
 <a id="A-360"></a>
 ## A-360 · Andrii Sychov · 乌克兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-761`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：http://www.mikrotik.net.ua/
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：trainer@mikrotik.net.ua；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（乌克兰筛选）列Andrii Sychov（Kyiv, Ukraine）：电话+380 67 701 22 82、邮箱trainer@mikrotik.net.ua、站点mikrotik.net.ua，所列证书为MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCIPv6E、MTCSE、MTCSWE、MTCEWE（9项，缺MTCINE），与本行原备注“持全部十证”不一致——仅记录，未改原备注与评级依据。名录未列评分文字以外内容；Smart Center/ELKO（elko.ua）公司站另公开smart.center@elko.ua与+38 044 461 9670，可作第二触达线索（公司站记录，未与本人邮箱互证）；旧域it@mikrotik.in.ua为早期站点遗留线索，不并入主字段。CSV城市Kyiv与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Ukraine&category=training) [2](https://www.elko.ua/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-360
+  - 保留原文：官方培训中心名录（Ukraine）：Andrii Sychov / Kyiv, Ukraine / MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCSE, MTCSWE, MTCEWE / T: +380 67 701 22 82 / trainer@mikrotik.net.ua / mikrotik.net.ua；公司站（elko.ua）Smart Center：smart.center@elko.ua；+38 044 461 9670
+  - [1](https://mikrotik.com/training/centers?region=Ukraine&category=training)
+  - [2](https://www.elko.ua/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-361"></a>
 ## A-361 · Michal Dobšovič · 斯洛伐克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-844`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.itlearning.sk
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[1]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：dobsovic@itlearning.sk；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛伐克筛选）列Michal Dobšovič / IT LEARNING SLOVAKIA, s.r.o.（Bratislava, Slovakia）：电话+421 2 4920 3080、邮箱dobsovic@itlearning.sk、站点itlearning.sk/mikrotik；所列证书9项含MTCSWE（MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCIPv6E、MTCSE、MTCSWE、MTCEWE），评分89%，与本行原备注“持 MTCSWE”一致。公司站另给通用入口info@itlearning.sk（次级）。CSV城市Bratislava与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Slovakia&category=training) [2](https://www.itlearning.sk) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-361
+  - 保留原文：官方培训中心名录（Slovakia）：Michal Dobšovič / IT LEARNING SLOVAKIA, s.r.o. / Bratislava, Slovakia / MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCSE, MTCSWE, MTCEWE / 89% / T: +421 2 4920 3080 / dobsovic@itlearning.sk / itlearning.sk；公司站通用入口：info@itlearning.sk
+  - [1](https://mikrotik.com/training/centers?region=Slovakia&category=training)
+  - [2](https://www.itlearning.sk)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-362"></a>
 ## A-362 · Ivan Dolnak · 斯洛伐克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-845`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：http://www.connet-group.sk/
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[2]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：ivan.dolnak@connet-group.sk；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛伐克筛选）列Ivan Dolnak / ConNet Group, s.r.o.（Zilina, Slovakia）：电话+421 948 672 185、邮箱ivan.dolnak@connet-group.sk、站点connet-group.sk；所列证书9项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCINE、MTCIPv6E、MTCSE、MTCEWE，无MTCSWE），评分91%，与本行原备注“交换（RSTP/VLAN/Inter-VLAN）专长”不冲突，未改评级依据。同页另列斯洛伐克培训者Martin Krug（Zvolen，krug@mikrotik.cool、mikrotik.cool）——第三方线索，不并入本行。公司站另见通用入口info@connet-group.sk。CSV城市Zilina与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Slovakia&category=training) [2](http://www.connet-group.sk/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-362
+  - 保留原文：官方培训中心名录（Slovakia）：Ivan Dolnak / ConNet Group, s.r.o. / Zilina, Slovakia / MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCINE, MTCIPv6E, MTCSE, MTCEWE / 91% / T: +421 948 672 185 / ivan.dolnak@connet-group.sk / connet-group.sk；同页：Martin Krug / Zvolen / krug@mikrotik.cool / mikrotik.cool
+  - [1](https://mikrotik.com/training/centers?region=Slovakia&category=training)
+  - [2](http://www.connet-group.sk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-363"></a>
 ## A-363 · SOS electronic · 斯洛伐克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1020`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Hirschmann 授权分销页（当前）
 - 官网线索（不自动背书其他字段）：soselectronic.com
 - 精确同名同国别首次入库提交：`5c87490edb72ae8788175cdd5473d23ad59aa63f`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[3]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：sales@soselectronic.com；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官网联系页（Contact us）给Sales Department邮箱sales@soselectronic.com与+421 55 786 04 39，总部SOS electronic s.r.o., Pri prachárni 16, 040 11 Košice, Slovak Republic（VAT SK2020484158；商业登记Municipal Court of Košice, section Sro, entry 5791/V）；页内另列具名部门联系人（Country Sales Manager Juraj Filip Seleš +421 55 786 04 37、International Sales Gabriela Kroupova／Michaela Pčolová、CEO Ján Seszták、Head of International Sales Ján Michalko、Purchasing Jozef Jarábek、ICT Ladislav Rybár），均为@soselectronic.com。本行原入口为“见 soselectronic.com/en-us/hirschmann”（Hirschmann授权分销线索），本轮以官网销售邮箱写入并保留原线索文字。CSV城市为空、官网为Košice，未改城市字段。 证据：[1](https://www.soselectronic.com/en-gb/contact-us-1677-1-18-22-9-4-1-7-14-3-1-15-1-1-1-3-3-2) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-363
+  - 保留原文：官网Contact us：Sales Department: +421 55 786 04 39 / sales@soselectronic.com；Purchasing Department: +421 55 786 04 49 / jozef.jarabek@soselectronic.com；Billing address: SOS electronic s.r.o., Pri prachárni 16, 040 11 Košice, Slovak Republic；VAT Nr.: SK2020484158；Country Sales Manager Mr. Juraj Filip Seleš / juraj.seles@soselectronic.com / +421 55 786 04 37；Head of International Sales Mr. Ján Michalko / jan.michalko@soselectronic.com
+  - [1](https://www.soselectronic.com/en-gb/contact-us-1677-1-18-22-9-4-1-7-14-3-1-15-1-1-1-3-3-2)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-364"></a>
 ## A-364 · Olisian Sulaj · 阿尔巴尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-87`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`dfb9062d4e1947a497435d7b5592d0ad4477f8fd`。
 - 本地原始批次：`batch/sk_ba_al.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：olisian.sulaj@gmail.com；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Olisian Sulaj（Tirane, Albania）：电话00355692996257、邮箱olisian.sulaj@gmail.com，与本行原入口（+355 69 299 6257 / olisian.sulaj@gmail.com）一致；条目列MTCNA、MTCRE，专长含Switching（Mac based VLAN）、PPPoE与RADIUS认证计费、HotSpot、WISP有线/无线NOC规划设计迁移、PtP/Mesh、队列与流量整形，与本行原备注一致。同页另见Dritan Vreshta（dritan@vreshta.com）、Erion Demiri（erion.demiri@etronic.al）等阿尔巴尼亚顾问——第三方线索，不并入本行。CSV城市Tirana与名录Tirane一致。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-364
+  - 保留原文：官方顾问名录（Albania）：Olisian Sulaj / Tirane, Albania / MTCNA, MTCRE / ... Switching (Mac based VLAN) ... CapsMan, The Dude ... / T: 00355692996257 / olisian.sulaj@gmail.com；同页：Dritan Vreshta / dritan@vreshta.com；Erion DEMIRI / erion.demiri@etronic.al
+  - [1](https://mikrotik.com/consultants?region=Albania&category=consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-365"></a>
 ## A-365 · Nexus Networks · 马耳他
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-89`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：nexus.com.mt
 - 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：johann@nexus.com.mt；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（马耳他）条目自述十年网络工程、持MTCNA、MTCRE、MTCTCE、MTCSWE（页内原文写作“MTNCA”），行业含hospitality、online gaming、retail、manufacturing；电话+35679461720、邮箱johann@nexus.com.mt、站点nexus.com.mt——与本行原入口（+356 7946 1720 / hello@nexus.com.mt、Johann）一致。公司站另见support@nexus.com.mt等通用入口（次级）。CSV城市为空，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Malta&category=consultants) [2](https://www.nexus.com.mt) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-365
+  - 保留原文：官方顾问名录（Malta）：... a certified MikroTik professional holding MTNCA, MTCRE, MTCTCE, and MTCSWE certifications ... hospitality, online gaming, retail, and manufacturing / T: +35679461720 / johann@nexus.com.mt；公司站：hello@nexus.com.mt / support@nexus.com.mt
+  - [1](https://mikrotik.com/consultants?region=Malta&category=consultants)
+  - [2](https://www.nexus.com.mt)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-366"></a>
 ## A-366 · Robertas Stauskas / Magit · 立陶宛
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-61`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：magit.lt
 - 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
 - 本地原始批次：`batch/lt.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：info@magit.lt；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。公司站magit.lt公开info@magit.lt与pagalba@magit.lt（支持）入口，站点载UAB Įm.k. 300624757、Verkių g. 46, Vilnius；本轮检索另见董事Robertas Stauskas与+37067447188，与本行原入口电话一致。原入口邮箱robertas@magit.lt保留（官网正文未见该地址，不删除、不否定）。CSV城市Vilnius与官网地址一致，未改字段。 证据：[1](https://magit.lt) [2](https://www.magit.lt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-366
+  - 保留原文：公司站（magit.lt）：info@magit.lt / pagalba@magit.lt / UAB Įm.k. 300624757 / Verkių g. 46, Vilnius；检索索引：director Robertas Stauskas / +37067447188
+  - [1](https://magit.lt)
+  - [2](https://www.magit.lt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-367"></a>
 ## A-367 · Petar Dimitrov · 保加利亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-766`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
 - 官网线索（不自动背书其他字段）：mikrotikbg.shop
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：training@pgnetpro.bg；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（保加利亚筛选）列Petar Dimitrov（Sofia, Bulgaria）：电话+359 894 077980、邮箱training@pgnetpro.bg、站点pgnetpro.bg；所列证书为全部10项（含MTCSWE、MTCEWE），评分81%，与本行原备注一致。合作商城mikrotikbg.shop另给info@mikrotikbg.shop与+359 2 45 125 25（本行原入口，保留）。CSV城市Sofia与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Bulgaria&category=training) [2](https://mikrotikbg.shop) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-367
+  - 保留原文：官方培训中心名录（Bulgaria）：Petar Dimitrov / Sofia, Bulgaria / MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCINE, MTCIPv6E, MTCSE, MTCSWE, MTCEWE / 81% / T: +359 894 077980 / training@pgnetpro.bg / pgnetpro.bg
+  - [1](https://mikrotik.com/training/centers?region=Bulgaria&category=training)
+  - [2](https://mikrotikbg.shop)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-368"></a>
 ## A-368 · Kęstutis Viselga / MikroTik Training Lietuva · 立陶宛
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-60`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotik-training.lt
 - 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
 - 本地原始批次：`batch/lt.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：trainer@mikrotik-training.lt；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（立陶宛筛选）列Kęstutis Viselga / MB Tikslingi mokslai（Alytus, Lithuania）：电话+370 684 43770、邮箱trainer@mikrotik-training.lt、站点mikrotik-training.lt；所列证书6项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCSE、MTCSWE，含MTCSWE），评分79%，与本行原备注（6证含MTCSWE）一致。名录主体名MB Tikslingi mokslai与本行公司名写法不同——仅备注，未改公司名/城市字段。 证据：[1](https://mikrotik.com/training/centers?region=Lithuania&category=training) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-368
+  - 保留原文：官方培训中心名录（Lithuania）：Kęstutis Viselga / MB Tikslingi mokslai / Alytus, Lithuania / MTCNA, MTCRE, MTCWE, MTCTCE, MTCSE, MTCSWE / 79% / T: +370 684 43770 / trainer@mikrotik-training.lt / mikrotik-training.lt
+  - [1](https://mikrotik.com/training/centers?region=Lithuania&category=training)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-369"></a>
 ## A-369 · Veaceslav Samburschii / Academia MikroTik · 罗马尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-62`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：academia-mikrotik.ro
 - 精确同名同国别首次入库提交：`d6fbf68a8b610be36b4f07e59c5565913fb18423`。
 - 本地原始批次：`batch/ro.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[9]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：office@academia-mikrotik.ro；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（罗马尼亚筛选）列Veaceslav Samburski / Academia Mikrotik Romania（Brasov, Romania）：电话+40 364086906、+40 748511932，邮箱office@academia-mikrotik.ro，站点academia-mikrotik.ro；所列证书8项含MTCSWE、MTCEWE（MTCNA、MTCRE、MTCWE、MTCUME、MTCINE、MTCSE、MTCSWE、MTCEWE），评分87%，与本行原备注一致。学院站cursuri页另给vsamburski@gmail.com与0748511932（次级入口）。CSV公司名写法“Samburschii”与名录“Samburski”拼写不同，仅备注，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Romania&category=training) [2](https://www.academia-mikrotik.ro/cursuri/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-369
+  - 保留原文：官方培训中心名录（Romania）：Veaceslav Samburski / Academia Mikrotik Romania / Brasov, Romania / MTCNA, MTCRE, MTCWE, MTCUME, MTCINE, MTCSE, MTCSWE, MTCEWE / 87% / T: +40 364086906 ; +40 748511932 / office@academia-mikrotik.ro；学院站：0748511932, vsamburski@gmail.com
+  - [1](https://mikrotik.com/training/centers?region=Romania&category=training)
+  - [2](https://www.academia-mikrotik.ro/cursuri/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-370"></a>
 ## A-370 · Oltion Nikolla / Router.al · 阿尔巴尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-88`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：router.al
 - 精确同名同国别首次入库提交：`dfb9062d4e1947a497435d7b5592d0ad4477f8fd`。
 - 本地原始批次：`batch/sk_ba_al.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：oltionnikolla@gmail.com；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Oltion Nikolla（Tirana, Albania）：电话+355695250949、邮箱oltionnikolla@gmail.com、站点router.al；条目列MTCNA、MTCRE，自述资深网络工程师与IT顾问、服务覆盖巴尔干地区与国际，核心专长含复杂路由与交换（BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多WAN负载均衡）、高密度Wi-Fi与CAPsMAN、Asterisk/VoIP集成、ISP/WISP建网——与本行原备注一致。公司站另见admin@router.al（次级入口）。CSV城市Tirana与名录一致，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) [2](https://router.al/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-370
+  - 保留原文：官方顾问名录（Albania）：Oltion Nikolla / Tirana, Albania / MTCNA, MTCRE / Senior Network Engineer and IT Consultant ... Balkan region and internationally / Complex Routing & Switching: BGP, OSPF, MPLS/VPLS, VLAN Filtering, RSTP/MSTP, and Multi-WAN Load Balancing / T: +355695250949 / oltionnikolla@gmail.com / router.al
+  - [1](https://mikrotik.com/consultants?region=Albania&category=consultants)
+  - [2](https://router.al/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-371"></a>
 ## A-371 · Martin Soovares · 爱沙尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-55`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`b9bfb28a48d2ccacb209651ee86f74b2085f8390`。
 - 本地原始批次：`batch/ee.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[11]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：martin.soovares@gmail.com；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（爱沙尼亚筛选）列Martin Soovares（Tartu, Estonia）：MTCNA、MTCSE，自述网络安全分析与运维专长，技能含Routing、Switching、VPN（OpenVPN/WireGuard/IPSec）、防火墙（NAT/Layer-7/Mangle）、User Manager、Hotspot；电话+3725549859、邮箱martin.soovares@gmail.com，与本行原备注一致。同页另见Rein Podra条目（见A-374）。CSV城市Tartu与名录一致，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Estonia&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-371
+  - 保留原文：官方顾问名录（Estonia）：Martin Soovares / Tartu, Estonia / MTCNA, MTCSE / MikroTik Certified Consultant specialised in network security analysis and administration / Routing, Switching, VPN (OpenVPN, WireGuard, IPSec), Firewall (NAT, Layer-7, Mangle), User Manager, Hotspot / T: +3725549859 / martin.soovares@gmail.com
+  - [1](https://mikrotik.com/consultants?region=Estonia&category=consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-372"></a>
 ## A-372 · Domagoj Bikic · 克罗地亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-848`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.pondi.hr
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[12]`；记录日期 2026-09-27；来源等级 `public-register`。
+  - 公开邮箱：ekomunikacija@pondi.hr；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：public-register。官网pondi.hr联系页仅列电话+385 (0)21 494-020（pon-pet 08-16h）与公司信息：Pondi d.o.o.，Skradinska 11（sjedište Ostravska 8），21000 Split，OIB 62781739468，MBS 060121488，成员/董事Domagoj Bikić（direktor）——正文未列邮箱文字（站点以保护写法呈现）。公司登记/工商目录（companywall.hr、reputacija.hr）给ekomunikacija@pondi.hr（另见knjigovodstvo@pondi.hr、marketing@pondi.hr）与公司电话021494000等。本行原入口手机+385 98 315319保留，新增登记邮箱作为触达入口；城市Split与原字段一致，未改。 证据：[1](https://www.pondi.hr/kontakt/) [2](https://www.companywall.hr/tvrtka/pondi-doo/MMxD5i8D) [3](https://reputacija.hr/tvrtka/pondi/dokumenti) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-372
+  - 保留原文：pondi.hr/kontakt：+385 (0)21 494-020 (pon-pet 08-16h) / Pondi d.o.o. / Skradinska 11 (sjedište Ostravska 8) / 21000 Split / OIB: 62781739468 / MBS: 060121488 / Članovi društva: Domagoj Bikić (direktor)；companywall.hr：PONDI d.o.o. / Ostravska 8, 21000 Split / kontakt telefon 021494000 i kontakt email ekomunikacija@pondi.hr / direktor Domagoj Bikić；reputacija.hr：E-mail: ekomunikacija@pondi.hr marketing@pondi.hr
+  - [1](https://www.pondi.hr/kontakt/)
+  - [2](https://www.companywall.hr/tvrtka/pondi-doo/MMxD5i8D)
+  - [3](https://reputacija.hr/tvrtka/pondi/dokumenti)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-373"></a>
 ## A-373 · Veaceslav Samburski · 罗马尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-838`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：academia-mikrotik.ro
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：office@academia-mikrotik.ro；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（罗马尼亚筛选）列Veaceslav Samburski / Academia Mikrotik Romania（Brasov, Romania）：所列证书8项（MTCNA、MTCRE、MTCWE、MTCUME、MTCINE、MTCSE、MTCSWE、MTCEWE）含MTCSWE——与本行原备注“缺 MTCSWE”不一致（名录后续更新），仅记录，未改原备注与评级依据。邮箱office@academia-mikrotik.ro、电话+40 364086906与+40 748511932；学院站另给vsamburski@gmail.com（次级）。本行与A-369为同一主体两条记录（公司名拼写不同），分别保留、未合并。CSV城市Brasov与名录一致。 证据：[1](https://mikrotik.com/training/centers?region=Romania&category=training) [2](https://www.academia-mikrotik.ro/cursuri/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-373
+  - 保留原文：官方培训中心名录（Romania）：Veaceslav Samburski / Academia Mikrotik Romania / Brasov, Romania / MTCNA, MTCRE, MTCWE, MTCUME, MTCINE, MTCSE, MTCSWE, MTCEWE / 87% / T: +40 364086906 ; +40 748511932 / office@academia-mikrotik.ro / academia-mikrotik.ro；学院站：0748511932, vsamburski@gmail.com
+  - [1](https://mikrotik.com/training/centers?region=Romania&category=training)
+  - [2](https://www.academia-mikrotik.ro/cursuri/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-374"></a>
 ## A-374 · Rein Põdra · 爱沙尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-826`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[14]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：rein.podra@ccisrd.eu；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（爱沙尼亚筛选）列Rein Podra（名录拼写无变音符；Poltsamaa, Estonia）：MTCNA、MTCRE、MTCUME、MTCIPv6E、MTCSE（5项，无MTCSWE），电话+372 5051372、邮箱rein.podra@ccisrd.eu；自述有线与无线网络全领域（Routing、Tunnels、Firewalls、Wireless、CAPsMAN、Dude）及MikroTik培训与认证。与本行差异（原备注“持 MTCSWE”、原电话+372 5082381、CSV城市Tallinn与名录Poltsamaa）仅备注记录，未改字段与评级依据。 证据：[1](https://mikrotik.com/consultants?region=Estonia&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-374
+  - 保留原文：官方顾问名录（Estonia）：Rein Podra / English, Estonian / Poltsamaa, Estonia / MTCNA, MTCRE, MTCUME, MTCIPv6E, MTCSE / All fields covering wired and wireless networks: Routing, Tunnels, Firewalls, Wireless, CAPsMAN, Dude. Wireless and cabled network design. MikroTik training and certification. / T: +372 5051372 / rein.podra@ccisrd.eu
+  - [1](https://mikrotik.com/consultants?region=Estonia&category=consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-375"></a>
 ## A-375 · Jānis Jaunošāns · 拉脱维亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-843`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：jj@netops.lv；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（拉脱维亚筛选）列Jānis Jaunošāns（Riga, Latvia）：电话+371 28389974、邮箱jj@netops.lv；所列证书8项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCINE、MTCIPv6E、MTCSE、MTCSWE，含MTCSWE），评分81%，与本行原备注一致；条目未列站点。同页另见Andis Āriņš（Riga，andis@router.lv、+371 67724007、router.lv）——第三方线索，不并入本行。CSV城市Riga与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Latvia&category=training) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-375
+  - 保留原文：官方培训中心名录（Latvia）：Jānis Jaunošāns / Riga, Latvia / MTCNA, MTCRE, MTCWE, MTCTCE, MTCINE, MTCIPv6E, MTCSE, MTCSWE / 81% / T: +371 28389974 / jj@netops.lv；同页：Andis Āriņš / Riga / +371 67724007 / andis@router.lv / router.lv
+  - [1](https://mikrotik.com/training/centers?region=Latvia&category=training)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-376"></a>
 ## A-376 · Jernej Suhadolc · 斯洛文尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-846`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.virtua-it.si
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[16]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：jernej.suhadolc@virtua.si；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛文尼亚筛选）列Jernej Suhadolc, Virtua, d.o.o.（Ljubljana, Slovenia）：MTCNA（1项），电话+386 590 91780、邮箱jernej.suhadolc@virtua.si、条目链接virtua-it.si（培训页…/storitve/izobrazevanje-mikrotik/）；公司主站virtua.si为Virtua IT d.o.o.（Kotnikova ulica 31, 1000 Ljubljana），培训列MikroTik MTCNA/MTCWE/MTCRE与Fortinet。公司站在正文以保护写法呈现邮箱、未复现文字邮箱地址；info@virtua.si／info@virtua-it.si为早期线索，仅备注、不改字段。CSV城市Ljubljana与名录/官网一致。 证据：[1](https://mikrotik.com/training/centers?region=Slovenia&category=training) [2](https://www.virtua-it.si/storitve/izobrazevanje-mikrotik/) [3](https://www.virtua.si/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-376
+  - 保留原文：官方培训中心名录（Slovenia）：Jernej Suhadolc, Virtua, d.o.o. / Ljubljana, Slovenia / MTCNA / 79% / T: +386 590 91780 / jernej.suhadolc@virtua.si / virtua-it.si；公司站virtua.si：Virtua IT, d.o.o. / Telefon +386 590 91780 / Naslov Kotnikova ulica 31, 1000 Ljubljana / MikroTik certifikacije: MTCNA, MTCWE, MTCRE
+  - [1](https://mikrotik.com/training/centers?region=Slovenia&category=training)
+  - [2](https://www.virtua-it.si/storitve/izobrazevanje-mikrotik/)
+  - [3](https://www.virtua.si/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-377"></a>
 ## A-377 · Ivan Jezerinac · 克罗地亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-847`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://infiniti.hr
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official-company`。
+  - 公开邮箱：ivan.jezerinac@infiniti.hr；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（克罗地亚筛选）列Ivan Jezerinac / Infiniti（Cakovec, Croatia）：MTCNA、MTCRE、MTCTCE、MTCEWE（4项，无MTCSWE），电话385916545467、邮箱ivan.jezerinac@infiniti.hr、站点infiniti.hr；公司站联系页给ivan.jezerinac@infiniti.hr与trening@infiniti.hr、+385 91 654 5467，并载Ivan Jezerinac, mag.inf.为MikroTik与Ubiquiti认证讲师、Infiniti Networking Academy（自2012年教学；课程单含MTCSWE及Ubiquiti UEWA/UBWS/UBWA/UBRSS/UBRSA）。与本行原备注“Infiniti”一致；原电话+385 91 6545467保留。CSV城市Cakovec与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Croatia&category=training) [2](https://infiniti.hr/kontakt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-377
+  - 保留原文：官方培训中心名录（Croatia）：Ivan Jezerinac / Infiniti / Cakovec, Croatia / MTCNA, MTCRE, MTCTCE, MTCEWE / 84% / T: 385916545467 / ivan.jezerinac@infiniti.hr / infiniti.hr；公司站infiniti.hr/kontakt：Ivan Jezerinac, mag.inf. / Ubiquiti Certified Trainer / MikroTik Certified Trainer / +385 91 654 5467 / ivan.jezerinac@infiniti.hr / trening@infiniti.hr
+  - [1](https://mikrotik.com/training/centers?region=Croatia&category=training)
+  - [2](https://infiniti.hr/kontakt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-378"></a>
 ## A-378 · David Blažević · 克罗地亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-849`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A360-A378.json` → `records[18]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：【2026-09-27 A360–A378联络核验】来源等级：leads-only。本轮未获可核证邮箱：官方顾问名录（克罗地亚筛选）现有条目为Dejan Liovic（Osijek，MTCNA/MTCRE/MTCWE，liovicd@outlook.com、+385952872886）与Tomislav Vrebac（Kraljevica，mikrotik@kerberos.hr），未见Blažević条目；官方学院名录（克罗地亚）列VSITE Zagreb与Polytechnic of Međimurje（Čakovec，协调人Sašo Jordaki），无Osijek条目；电话+385 95 3610037检索仅得TELE2号段与无关信息；姓名检索仅得同名不同人（Scandit/坦佩雷大学研究员、MAOIO营销公司COO等）；FERIT（Osijek）MikroTik akademija相关页列负责人doc. dr. sc. Krešimir Grgić与讲师名单（ferit@ferit.hr、+385 31 224-600），未见David Blažević；名称相近者Damir Blažević（Đakovo，电气工程师事务所）与Adrijana Blažević（Osijek，EFEKTA）主张不同、未确认关联，不并入。维持leads-only并保留【待人工补信息】标注，主字段不新增邮箱。 证据：[1](https://mikrotik.com/consultants?region=Croatia&category=consultants) [2](https://mikrotik.com/training/academy?category=academies&region=Croatia) [3](https://www.ferit.unios.hr/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-378
+  - 保留原文：官方顾问名录（Croatia）：Dejan Liovic / Osijek, Croatia / MTCNA, MTCRE, MTCWE / T: +385952872886 / liovicd@outlook.com；Tomislav Vrebac / Kraljevica, Croatia / MTCNA, MTCEWE / mikrotik@kerberos.hr；官方学院名录（Croatia）：Visoka škola za informacijske tehnologije (VSITE) / Klaićeva 7, 10000 Zagreb / referada@vsite.hr；Polytechnic of Međimurje in Čakovec / Coordinator - Sašo Jordaki, E-TE-CO d.o.o., Čakovec / zeljko.hrebak@mev.hr；FERIT（Osijek）：Voditelj: doc. dr. sc. Krešimir Grgić / ferit@ferit.hr / +385 31 224-600（检索摘要，未列David Blažević）
+  - [1](https://mikrotik.com/consultants?region=Croatia&category=consultants)
+  - [2](https://mikrotik.com/training/academy?category=academies&region=Croatia)
+  - [3](https://www.ferit.unios.hr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

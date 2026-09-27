@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Hirschmann 授权分销页（当前） |
-| 原备注 | Hirschmann 授权分销商，中欧/东欧覆盖（斯洛伐克、捷克等）。主营工业网络与自动化元器件。 |
+| 原备注 | Hirschmann 授权分销商，中欧/东欧覆盖（斯洛伐克、捷克等）。主营工业网络与自动化元器件。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官网联系页（Contact us）给Sales Department邮箱sales@soselectronic.com与+421 55 786 04 39，总部SOS electronic s.r.o., Pri prachárni 16, 040 11 Košice, Slovak Republic（VAT SK2020484158；商业登记Municipal Court of Košice, section Sro, entry 5791/V）；页内另列具名部门联系人（Country Sales Manager Juraj Filip Seleš +421 55 786 04 37、International Sales Gabriela Kroupova／Michaela Pčolová、CEO Ján Seszták、Head of International Sales Ján Michalko、Purchasing Jozef Jarábek、ICT Ladislav Rybár），均为@soselectronic.com。本行原入口为“见 soselectronic.com/en-us/hirschmann”（Hirschmann授权分销线索），本轮以官网销售邮箱写入并保留原线索文字。CSV城市为空、官网为Košice，未改城市字段。 证据：[1](https://www.soselectronic.com/en-gb/contact-us-1677-1-18-22-9-4-1-7-14-3-1-15-1-1-1-3-3-2) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-363 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 soselectronic.com/en-us/hirschmann
+- **邮箱**：sales@soselectronic.com
+- **电话**：+421 55 786 04 39
+- **原始联系字段**：sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann
 
 ## 四、品牌与技术栈
 

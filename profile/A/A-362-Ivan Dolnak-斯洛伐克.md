@@ -17,20 +17,20 @@
 | 公司名 | Ivan Dolnak |
 | 国家 | 斯洛伐克 |
 | 城市 | Zilina |
-| 网站 | — |
+| 网站 | http://www.connet-group.sk/ |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCIPv6E MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | ConNet Group s.r.o.。自述高级网络设计与安全、路由、**交换（RSTP/VLAN/Inter-VLAN）**、VPN、IPv6、CAPsMAN。学生平均成绩 83%。 |
+| 原备注 | ConNet Group s.r.o.。自述高级网络设计与安全、路由、**交换（RSTP/VLAN/Inter-VLAN）**、VPN、IPv6、CAPsMAN。学生平均成绩 83%。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛伐克筛选）列Ivan Dolnak / ConNet Group, s.r.o.（Zilina, Slovakia）：电话+421 948 672 185、邮箱ivan.dolnak@connet-group.sk、站点connet-group.sk；所列证书9项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCINE、MTCIPv6E、MTCSE、MTCEWE，无MTCSWE），评分91%，与本行原备注“交换（RSTP/VLAN/Inter-VLAN）专长”不冲突，未改评级依据。同页另列斯洛伐克培训者Martin Krug（Zvolen，krug@mikrotik.cool、mikrotik.cool）——第三方线索，不并入本行。公司站另见通用入口info@connet-group.sk。CSV城市Zilina与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Slovakia&category=training) [2](http://www.connet-group.sk/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-362 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：ivan.dolnak@connet-group.sk、info@connet-group.sk
 - **电话**：+421 948 672 185
-- **原始联系字段**：+421 948 672 185
+- **原始联系字段**：+421 948 672 185；ivan.dolnak@connet-group.sk（官方培训中心名录）；info@connet-group.sk（公司站）
 
 ## 四、品牌与技术栈
 

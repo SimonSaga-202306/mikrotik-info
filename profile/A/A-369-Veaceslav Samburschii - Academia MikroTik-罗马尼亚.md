@@ -24,14 +24,14 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★★ 8 证含 MTCSWE（交换）+ MTCEWE（企业无线）；**经营罗马尼亚 MikroTik 学院 academia-mikrotik.ro（培训机构）** → 影响力型渠道：他讲什么设备，学员就用什么设备 |
+| 原备注 | ★★ 8 证含 MTCSWE（交换）+ MTCEWE（企业无线）；**经营罗马尼亚 MikroTik 学院 academia-mikrotik.ro（培训机构）** → 影响力型渠道：他讲什么设备，学员就用什么设备 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（罗马尼亚筛选）列Veaceslav Samburski / Academia Mikrotik Romania（Brasov, Romania）：电话+40 364086906、+40 748511932，邮箱office@academia-mikrotik.ro，站点academia-mikrotik.ro；所列证书8项含MTCSWE、MTCEWE（MTCNA、MTCRE、MTCWE、MTCUME、MTCINE、MTCSE、MTCSWE、MTCEWE），评分87%，与本行原备注一致。学院站cursuri页另给vsamburski@gmail.com与0748511932（次级入口）。CSV公司名写法“Samburschii”与名录“Samburski”拼写不同，仅备注，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Romania&category=training) [2](https://www.academia-mikrotik.ro/cursuri/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-369 |
 
 ## 三、人员与联系方式
 
 - **对接人**：Veaceslav Samburschii
-- **邮箱**：vsamburski@gmail.com
-- **电话**：+40 748 511 932
-- **原始联系字段**：+40 748 511 932 / vsamburski@gmail.com
+- **邮箱**：vsamburski@gmail.com、office@academia-mikrotik.ro
+- **电话**：+40 748 511 932、+40 364 086 906
+- **原始联系字段**：+40 748 511 932 / vsamburski@gmail.com；office@academia-mikrotik.ro（官方培训中心名录）；+40 364 086 906
 
 ## 四、品牌与技术栈
 

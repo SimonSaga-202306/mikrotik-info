@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | Ivan Jezerinac |
 | 国家 | 克罗地亚 |
 | 城市 | Cakovec |
-| 网站 | — |
+| 网站 | https://infiniti.hr |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCTCE MTCSE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 Infiniti。 |
+| 原备注 | Infiniti。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（克罗地亚筛选）列Ivan Jezerinac / Infiniti（Cakovec, Croatia）：MTCNA、MTCRE、MTCTCE、MTCEWE（4项，无MTCSWE），电话385916545467、邮箱ivan.jezerinac@infiniti.hr、站点infiniti.hr；公司站联系页给ivan.jezerinac@infiniti.hr与trening@infiniti.hr、+385 91 654 5467，并载Ivan Jezerinac, mag.inf.为MikroTik与Ubiquiti认证讲师、Infiniti Networking Academy（自2012年教学；课程单含MTCSWE及Ubiquiti UEWA/UBWS/UBWA/UBRSS/UBRSA）。与本行原备注“Infiniti”一致；原电话+385 91 6545467保留。CSV城市Cakovec与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Croatia&category=training) [2](https://infiniti.hr/kontakt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-377 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：ivan.jezerinac@infiniti.hr、trening@infiniti.hr
 - **电话**：+385 91 6545467
-- **原始联系字段**：+385 91 6545467
+- **原始联系字段**：+385 91 6545467 / ivan.jezerinac@infiniti.hr（官方培训中心名录与公司站一致）；trening@infiniti.hr（公司站）
 
 ## 四、品牌与技术栈
 

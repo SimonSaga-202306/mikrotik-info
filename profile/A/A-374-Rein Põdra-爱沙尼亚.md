@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | CCISRD。持 **MTCSWE**。 |
+| 原备注 | CCISRD。持 **MTCSWE**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（爱沙尼亚筛选）列Rein Podra（名录拼写无变音符；Poltsamaa, Estonia）：MTCNA、MTCRE、MTCUME、MTCIPv6E、MTCSE（5项，无MTCSWE），电话+372 5051372、邮箱rein.podra@ccisrd.eu；自述有线与无线网络全领域（Routing、Tunnels、Firewalls、Wireless、CAPsMAN、Dude）及MikroTik培训与认证。与本行差异（原备注“持 MTCSWE”、原电话+372 5082381、CSV城市Tallinn与名录Poltsamaa）仅备注记录，未改字段与评级依据。 证据：[1](https://mikrotik.com/consultants?region=Estonia&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-374 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+372 5082381
-- **原始联系字段**：+372 5082381
+- **邮箱**：rein.podra@ccisrd.eu
+- **电话**：+372 5082381、+372 5051372
+- **原始联系字段**：+372 5082381；rein.podra@ccisrd.eu（官方顾问名录；名录另列+372 5051372）
 
 ## 四、品牌与技术栈
 

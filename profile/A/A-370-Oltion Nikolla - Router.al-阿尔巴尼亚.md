@@ -24,14 +24,14 @@
 | 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★★ 域名 **router.al**（阿尔巴尼亚国别域名做 MikroTik 生意）；资深网络工程师与 IT 顾问，**业务覆盖整个巴尔干地区与国际**；核心专长明确含「**复杂路由与交换：BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多 WAN 负载均衡**」；高密度 Wi-Fi、CAPsMAN、Asterisk/VoIP 集成；服务含 ISP/WISP 建网与企业 IT 外包 |
+| 原备注 | ★★ 域名 **router.al**（阿尔巴尼亚国别域名做 MikroTik 生意）；资深网络工程师与 IT 顾问，**业务覆盖整个巴尔干地区与国际**；核心专长明确含「**复杂路由与交换：BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多 WAN 负载均衡**」；高密度 Wi-Fi、CAPsMAN、Asterisk/VoIP 集成；服务含 ISP/WISP 建网与企业 IT 外包 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Oltion Nikolla（Tirana, Albania）：电话+355695250949、邮箱oltionnikolla@gmail.com、站点router.al；条目列MTCNA、MTCRE，自述资深网络工程师与IT顾问、服务覆盖巴尔干地区与国际，核心专长含复杂路由与交换（BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多WAN负载均衡）、高密度Wi-Fi与CAPsMAN、Asterisk/VoIP集成、ISP/WISP建网——与本行原备注一致。公司站另见admin@router.al（次级入口）。CSV城市Tirana与名录一致，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) [2](https://router.al/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-370 |
 
 ## 三、人员与联系方式
 
 - **对接人**：Oltion Nikolla
-- **邮箱**：oltionnikolla@gmail.com
+- **邮箱**：oltionnikolla@gmail.com、admin@router.al
 - **电话**：+355 695 250 949
-- **原始联系字段**：+355 695 250 949 / oltionnikolla@gmail.com
+- **原始联系字段**：+355 695 250 949 / oltionnikolla@gmail.com（官方顾问名录条目一致）；admin@router.al（公司站）
 
 ## 四、品牌与技术栈
 

@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★ 专做网络安全分析与运维；技能明确含 **Switching** + Routing + VPN（OpenVPN/WireGuard/IPSec）+ 防火墙（NAT/Layer-7/Mangle）+ User Manager + Hotspot |
+| 原备注 | ★ 专做网络安全分析与运维；技能明确含 **Switching** + Routing + VPN（OpenVPN/WireGuard/IPSec）+ 防火墙（NAT/Layer-7/Mangle）+ User Manager + Hotspot 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（爱沙尼亚筛选）列Martin Soovares（Tartu, Estonia）：MTCNA、MTCSE，自述网络安全分析与运维专长，技能含Routing、Switching、VPN（OpenVPN/WireGuard/IPSec）、防火墙（NAT/Layer-7/Mangle）、User Manager、Hotspot；电话+3725549859、邮箱martin.soovares@gmail.com，与本行原备注一致。同页另见Rein Podra条目（见A-374）。CSV城市Tartu与名录一致，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Estonia&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-371 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：martin.soovares@gmail.com
 - **电话**：+372 554 9859
-- **原始联系字段**：+372 554 9859 / martin.soovares@gmail.com
+- **原始联系字段**：+372 554 9859 / martin.soovares@gmail.com（官方顾问名录）
 
 ## 四、品牌与技术栈
 

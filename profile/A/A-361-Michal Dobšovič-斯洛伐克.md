@@ -17,20 +17,20 @@
 | 公司名 | Michal Dobšovič |
 | 国家 | 斯洛伐克 |
 | 城市 | Bratislava |
-| 网站 | — |
+| 网站 | https://www.itlearning.sk |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCTCE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | IT LEARNING SLOVAKIA s.r.o.。持 **MTCSWE**。 |
+| 原备注 | IT LEARNING SLOVAKIA s.r.o.。持 **MTCSWE**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛伐克筛选）列Michal Dobšovič / IT LEARNING SLOVAKIA, s.r.o.（Bratislava, Slovakia）：电话+421 2 4920 3080、邮箱dobsovic@itlearning.sk、站点itlearning.sk/mikrotik；所列证书9项含MTCSWE（MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCIPv6E、MTCSE、MTCSWE、MTCEWE），评分89%，与本行原备注“持 MTCSWE”一致。公司站另给通用入口info@itlearning.sk（次级）。CSV城市Bratislava与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Slovakia&category=training) [2](https://www.itlearning.sk) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-361 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：dobsovic@itlearning.sk、info@itlearning.sk
 - **电话**：+421 2 4920 3080
-- **原始联系字段**：+421 2 4920 3080
+- **原始联系字段**：+421 2 4920 3080；dobsovic@itlearning.sk（官方培训中心名录）；info@itlearning.sk（公司站）
 
 ## 四、品牌与技术栈
 

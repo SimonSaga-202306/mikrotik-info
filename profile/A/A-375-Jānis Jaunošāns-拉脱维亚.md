@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 持 **MTCSWE**。 |
+| 原备注 | 持 **MTCSWE**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（拉脱维亚筛选）列Jānis Jaunošāns（Riga, Latvia）：电话+371 28389974、邮箱jj@netops.lv；所列证书8项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCINE、MTCIPv6E、MTCSE、MTCSWE，含MTCSWE），评分81%，与本行原备注一致；条目未列站点。同页另见Andis Āriņš（Riga，andis@router.lv、+371 67724007、router.lv）——第三方线索，不并入本行。CSV城市Riga与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Latvia&category=training) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-375 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：jj@netops.lv
 - **电话**：+371 28389974
-- **原始联系字段**：+371 28389974
+- **原始联系字段**：+371 28389974 / jj@netops.lv（官方培训中心名录）
 
 ## 四、品牌与技术栈
 

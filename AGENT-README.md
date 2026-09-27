@@ -7,21 +7,26 @@
 
 - 仓库：`SimonSaga-202306/mikrotik-info`；工作目录 `/home/user/mikrotik-info`。
 - 唯一工作分支：`arena/01a0c3ef-mikrotik-info`。不得切分支、推其他分支。
-- 本轮基线：`2b55a94`（治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
+- 本轮基线：`70da39c`（R46研究提交，其后审计刷新`44de7e7`；治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
 - 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A378/B344/C311**。
 - `档案编号`当前零基列19、`C级细分`20、`人工定级`21；写代码按表头定位，不硬猜。
 - `profile/A/`378、`profile/B/`344、`profile/C/`311。编号和CSV物理顺序均冻结。
-- 下一新增或升级A：**A379**。当前研究下一位：**A360**（A320–A359已完成）。
+- 下一新增或升级A：**A379**。当前研究下一位：**A379**（A080–A378已处理）。
 
 ## 当前任务与顺序
 
-1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A359；不等于全部A已完成。
+1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A378；不等于全部A已完成。
 2. **全部A完成后**，再仔细复筛B/C，升级A只接末尾。
 3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但803条客户没有逐项证据URL，其他230条也只是有结构化联络记录，不是全字段认证。
 
 ### 最近批次
 
-- **A340–A359（本轮）**：15条官网/官方结构化数据/官方登记邮箱、2条official-named（A355具名导师邮箱、A359自营培训站具名邮箱）、1条official-search-only（A343邮箱见公司自设PDF与Kompass，官网仅表单/PEC）、1条public-register（A344无官网，邮箱见2024市镇公开招标文件与工商PEC）、1条partner-directory（A357邮箱取自Zyxel官方分销名录）、12条移除「待人工补信息」标注（本批含块者全部）。两份xlsx同步至A359；技术栈/策略/邮件逐字不变。
+- **A360–A378（本轮）**：19条顺号研究：18条官网/官方结构化数据/官方登记邮箱（含官方mikrotik.com培训中心与顾问名录、公司站联系页）、1条public-register（A372官网正文未列邮箱文字，邮箱取自公司登记/工商目录）、1条leads-only（A378无公开邮箱，保留原电话与「待人工补信息」）；A372/A376/A377移除该块。两份xlsx同步至A378；技术栈/策略/邮件逐字不变。
+  - A360：trainer@mikrotik.net.ua（官方培训中心名录；名录9项证书 vs 原备注“全部十证”仅备注；第二入口smart.center@elko.ua）。A361：dobsovic@itlearning.sk（IT LEARNING SLOVAKIA；+info@itlearning.sk）。A362：ivan.dolnak@connet-group.sk（ConNet Group；+info@connet-group.sk）。A363：sales@soselectronic.com（官网Contact us销售部；Košice总部；具名部门联系人留档）。
+  - A364：olisian.sulaj@gmail.com（官方顾问名录条目一致；同页Dritan Vreshta/Erion Demiri留档）。A365：johann@nexus.com.mt（官方顾问名录；+hello@/support@）。A366：info@magit.lt（官网；+pagalba@；原robertas@保留）。A367：training@pgnetpro.bg（官方培训中心名录全十证；+info@mikrotikbg.shop）。
+  - A368：trainer@mikrotik-training.lt（官方名录6证含MTCSWE；主体名MB Tikslingi mokslai仅备注）。A369/A373：office@academia-mikrotik.ro（官方名录8证；A373名录现列MTCSWE与原备注差异仅记录；+vsamburski@gmail.com）。A370：oltionnikolla@gmail.com（官方顾问名录；+admin@router.al）。
+  - A371：martin.soovares@gmail.com（官方顾问名录）。A372：ekomunikacija@pondi.hr（公司登记/工商目录；官网联系页仅电话；原手机保留）。A374：rein.podra@ccisrd.eu（官方顾问名录；名录电话/城市/证书差异仅备注）。A375：jj@netops.lv（官方培训中心名录8证含MTCSWE）。A376：jernej.suhadolc@virtua.si（官方名录MTCNA；virtua-it.si；info@线索仅备注）。A377：ivan.jezerinac@infiniti.hr（官方名录+公司站一致；+trening@infiniti.hr）。A378：未获邮箱，保留人工补信息。
+- **A340–A359**：15条官网/官方结构化数据/官方登记邮箱、2条official-named（A355具名导师邮箱、A359自营培训站具名邮箱）、1条official-search-only（A343邮箱见公司自设PDF与Kompass，官网仅表单/PEC）、1条public-register（A344无官网，邮箱见2024市镇公开招标文件与工商PEC）、1条partner-directory（A357邮箱取自Zyxel官方分销名录）、12条移除「待人工补信息」标注（本批含块者全部）。两份xlsx同步至A359；技术栈/策略/邮件逐字不变。
   - A340：mail@netengineering.it（AT伙伴页列SpA/Sesto S.Giovanni、+39 02 2412541；官网作Srl/Milano-Reggio-Roma；不与Padova工程公司netspa.com合并）。A341：info@securcrea.com（Follonica，Toscana/Piemonte两线）。A342：info@tnet.it（Milano；support@/account@留档）。A343：info@technocenter.it（官网联系页仅表单/PEC；邮箱见公司自设简介PDF+Kompass，标注官网未复现）。A344：worldtechnology@tiscali.it（无官网；2024公开招标文件+PEC worldtechnology@pec.it，触达前复核）。
   - A345：info@avelution.nl（AT写Veghel、官网写Schijndel 5482 NN，未改城市）。A346：info@kappadata.nl（Utrecht）。A347：info@kappadata.be（De Pinte；与荷兰实体不混用）。A348：post@nlogic.no（Oslo；salg@销售）。A349：geral@c2f.pt（Barcarena）。
   - A350：info@landatel.com（Las Rozas；清算状态写入备注待核实；Netonix行保留且禁用同芯片话术）。A351：info@meconet.de（Siegen，店内在售Netonix）。A352：info@mhzshop.com（Marquixanes）。A353：info@elmat.com（Padova）。A354：sales@ntsdirect.com（Bolton MA）。

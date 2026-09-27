@@ -306,6 +306,70 @@
     ]
   },
   {
+    "url": "http://www.connet-group.sk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D845"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q845"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L75"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L77"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L86"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L16"
+      },
+      {
+        "path": "profile/A/A-362-Ivan Dolnak-斯洛伐克.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-362-Ivan Dolnak-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D194"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q194"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-845/网站"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-845/备注"
+      }
+    ]
+  },
+  {
+    "url": "http://www.connet-group.sk/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L435"
+      }
+    ]
+  },
+  {
     "url": "http://www.electracomprojects.com/contact-us/",
     "http_checked": false,
     "occurrences": [
@@ -452,6 +516,42 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1000/备注"
+      }
+    ]
+  },
+  {
+    "url": "http://www.mikrotik.net.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D761"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L11"
+      },
+      {
+        "path": "profile/A/A-360-Andrii Sychov-乌克兰.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D117"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-761/网站"
+      }
+    ]
+  },
+  {
+    "url": "http://www.mikrotik.net.ua/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L433"
       }
     ]
   },
@@ -2989,7 +3089,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L460"
+        "locator": "L497"
       }
     ]
   },
@@ -2999,7 +3099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L460"
+        "locator": "L497"
       }
     ]
   },
@@ -4024,6 +4124,76 @@
     ]
   },
   {
+    "url": "https://infiniti.hr",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D847"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L529"
+      },
+      {
+        "path": "profile/A/A-377-Ivan Jezerinac-克罗地亚.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D196"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-847/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://infiniti.hr'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L438"
+      }
+    ]
+  },
+  {
+    "url": "https://infiniti.hr/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q847"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L531"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L540"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/A/A-377-Ivan Jezerinac-克罗地亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q196"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-847/备注"
+      }
+    ]
+  },
+  {
     "url": "https://insightportal.de",
     "http_checked": false,
     "occurrences": [
@@ -5010,6 +5180,40 @@
     ]
   },
   {
+    "url": "https://magit.lt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q61"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L194"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L199"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-366-Robertas Stauskas - Magit-立陶宛.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q61"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-61/备注"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotik.coach",
     "http_checked": false,
     "occurrences": [
@@ -5374,6 +5578,198 @@
       {
         "path": "Marvell生态获客方法论_2026-09.md",
         "locator": "L346"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants?region=Albania&category=consultants",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q87"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q88"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L136"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L141"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L315"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L320"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L18"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L24"
+      },
+      {
+        "path": "profile/A/A-364-Olisian Sulaj-阿尔巴尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-370-Oltion Nikolla - Router.al-阿尔巴尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q87"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q88"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-87/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-88/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants?region=Croatia&category=consultants",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q849"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L563"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L568"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-378-David Blažević-克罗地亚.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q198"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-849/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants?region=Estonia&category=consultants",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q55"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q826"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L346"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L351"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L441"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L446"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L25"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L28"
+      },
+      {
+        "path": "profile/A/A-371-Martin Soovares-爱沙尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-374-Rein Põdra-爱沙尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q55"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q175"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-55/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-826/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants?region=Malta&category=consultants",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q89"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L163"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L168"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L19"
+      },
+      {
+        "path": "profile/A/A-365-Nexus Networks-马耳他.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q89"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-89/备注"
       }
     ]
   },
@@ -7910,6 +8306,40 @@
     ]
   },
   {
+    "url": "https://mikrotik.com/training/academy?category=academies&region=Croatia",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q849"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L563"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L572"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-378-David Blažević-克罗地亚.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q198"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-849/备注"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotik.com/training/centers",
     "http_checked": false,
     "occurrences": [
@@ -7990,6 +8420,334 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-748/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Bulgaria&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q766"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L226"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L231"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/A/A-367-Petar Dimitrov-保加利亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q122"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-766/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Croatia&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q847"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L531"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L536"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/A/A-377-Ivan Jezerinac-克罗地亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q196"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-847/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Latvia&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q843"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L468"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L473"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L29"
+      },
+      {
+        "path": "profile/A/A-375-Jānis Jaunošāns-拉脱维亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q192"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-843/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Lithuania&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q60"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L257"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L262"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L22"
+      },
+      {
+        "path": "profile/A/A-368-Kęstutis Viselga - MikroTik Training Lietuva-立陶宛.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q60"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-60/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Romania&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q62"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q838"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L284"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L289"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L409"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L414"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L23"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-369-Veaceslav Samburschii - Academia MikroTik-罗马尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-373-Veaceslav Samburski-罗马尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q62"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q187"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-62/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-838/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Slovakia&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q844"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q845"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L45"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L50"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L77"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L82"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L15"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L16"
+      },
+      {
+        "path": "profile/A/A-361-Michal Dobšovič-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-362-Ivan Dolnak-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q193"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q194"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-844/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-845/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Slovenia&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q846"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L495"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L500"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q195"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-846/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/training/centers?region=Ukraine&category=training",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q761"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L18"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/A/A-360-Andrii Sychov-乌克兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q117"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-761/备注"
       }
     ]
   },
@@ -8088,6 +8846,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-828/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotikbg.shop",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q766"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L226"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L235"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/A/A-367-Petar Dimitrov-保加利亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q122"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-766/备注"
       }
     ]
   },
@@ -9650,6 +10442,40 @@
     ]
   },
   {
+    "url": "https://reputacija.hr/tvrtka/pondi/dokumenti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q848"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L373"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L386"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L26"
+      },
+      {
+        "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q197"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-848/备注"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/axbyte-internet-services-ab-management_b7fbccf0c2536729",
     "http_checked": false,
     "occurrences": [
@@ -9706,6 +10532,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-815/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://router.al/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q88"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L315"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L324"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L24"
+      },
+      {
+        "path": "profile/A/A-370-Oltion Nikolla - Router.al-阿尔巴尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q88"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-88/备注"
       }
     ]
   },
@@ -11448,6 +12308,68 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-882/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.academia-mikrotik.ro/cursuri/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q62"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q838"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L284"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L293"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L409"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L418"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L23"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-369-Veaceslav Samburschii - Academia MikroTik-罗马尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-373-Veaceslav Samburski-罗马尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q62"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q187"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-62/备注"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-838/备注"
       }
     ]
   },
@@ -13864,6 +14786,40 @@
     ]
   },
   {
+    "url": "https://www.companywall.hr/tvrtka/pondi-doo/MMxD5i8D",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q848"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L373"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L382"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L26"
+      },
+      {
+        "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q197"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-848/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.companywall.hu/v%C3%A1llalat/atys-co-kft/MM9yv8a0",
     "http_checked": false,
     "occurrences": [
@@ -15568,6 +16524,40 @@
     ]
   },
   {
+    "url": "https://www.elko.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q761"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L22"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/A/A-360-Andrii Sychov-乌克兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q117"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-761/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.elmat.com",
     "http_checked": false,
     "occurrences": [
@@ -16518,6 +17508,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-802/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ferit.unios.hr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q849"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L563"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L576"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-378-David Blažević-克罗地亚.md",
+        "locator": "L37"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q198"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-849/备注"
       }
     ]
   },
@@ -18594,6 +19618,70 @@
     ]
   },
   {
+    "url": "https://www.itlearning.sk",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D844"
+      },
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q844"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L43"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L45"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L54"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L15"
+      },
+      {
+        "path": "profile/A/A-361-Michal Dobšovič-斯洛伐克.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-361-Michal Dobšovič-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D193"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q193"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-844/网站"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-844/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.itlearning.sk'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L434"
+      }
+    ]
+  },
+  {
     "url": "https://www.itni.fr",
     "http_checked": false,
     "occurrences": [
@@ -20068,6 +21156,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-917/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.magit.lt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q61"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L194"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L203"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/A/A-366-Robertas Stauskas - Magit-立陶宛.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q61"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-61/备注"
       }
     ]
   },
@@ -21880,6 +23002,40 @@
     ]
   },
   {
+    "url": "https://www.nexus.com.mt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q89"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L163"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L172"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L19"
+      },
+      {
+        "path": "profile/A/A-365-Nexus Networks-马耳他.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q89"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-89/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.nexus.com.pe",
     "http_checked": false,
     "occurrences": [
@@ -22912,6 +24068,76 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3041"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pondi.hr",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D848"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L371"
+      },
+      {
+        "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D197"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-848/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pondi.hr'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L437"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pondi.hr/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q848"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L373"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L378"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L26"
+      },
+      {
+        "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q197"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-848/备注"
       }
     ]
   },
@@ -24108,6 +25334,40 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L6962"
+      }
+    ]
+  },
+  {
+    "url": "https://www.soselectronic.com/en-gb/contact-us-1677-1-18-22-9-4-1-7-14-3-1-15-1-1-1-3-3-2",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q1020"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L109"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L114"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L17"
+      },
+      {
+        "path": "profile/A/A-363-SOS electronic-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q365"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-1020/备注"
       }
     ]
   },
@@ -25530,6 +26790,110 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-770/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.virtua-it.si",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!D846"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L493"
+      },
+      {
+        "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
+        "locator": "L20"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!D195"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-846/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.virtua-it.si'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "tests/test_repository.py",
+        "locator": "L436"
+      }
+    ]
+  },
+  {
+    "url": "https://www.virtua-it.si/storitve/izobrazevanje-mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q846"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L495"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L504"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q195"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-846/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.virtua.si/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q846"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L495"
+      },
+      {
+        "path": "batch/contact_research_2026-09-27_A360-A378.json",
+        "locator": "L508"
+      },
+      {
+        "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q195"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-846/备注"
       }
     ]
   },

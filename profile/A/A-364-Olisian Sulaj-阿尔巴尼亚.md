@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★ 专长含 **Switching（MAC-based VLAN）**、PPPoE 与 RADIUS 认证计费、HotSpot、WISP 有线无线 NOC 规划设计迁移、PtP/Mesh、队列与流量整形；英西双语 |
+| 原备注 | ★ 专长含 **Switching（MAC-based VLAN）**、PPPoE 与 RADIUS 认证计费、HotSpot、WISP 有线无线 NOC 规划设计迁移、PtP/Mesh、队列与流量整形；英西双语 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Olisian Sulaj（Tirane, Albania）：电话00355692996257、邮箱olisian.sulaj@gmail.com，与本行原入口（+355 69 299 6257 / olisian.sulaj@gmail.com）一致；条目列MTCNA、MTCRE，专长含Switching（Mac based VLAN）、PPPoE与RADIUS认证计费、HotSpot、WISP有线/无线NOC规划设计迁移、PtP/Mesh、队列与流量整形，与本行原备注一致。同页另见Dritan Vreshta（dritan@vreshta.com）、Erion Demiri（erion.demiri@etronic.al）等阿尔巴尼亚顾问——第三方线索，不并入本行。CSV城市Tirana与名录Tirane一致。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-364 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：olisian.sulaj@gmail.com
 - **电话**：+355 69 299 6257
-- **原始联系字段**：+355 69 299 6257 / olisian.sulaj@gmail.com
+- **原始联系字段**：+355 69 299 6257 / olisian.sulaj@gmail.com（官方顾问名录条目一致）
 
 ## 四、品牌与技术栈
 

@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | Jernej Suhadolc |
 | 国家 | 斯洛文尼亚 |
 | 城市 | Ljubljana |
-| 网站 | — |
+| 网站 | https://www.virtua-it.si |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 Virtua d.o.o.。**斯洛文尼亚首位进库**。 |
+| 原备注 | Virtua d.o.o.。**斯洛文尼亚首位进库**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛文尼亚筛选）列Jernej Suhadolc, Virtua, d.o.o.（Ljubljana, Slovenia）：MTCNA（1项），电话+386 590 91780、邮箱jernej.suhadolc@virtua.si、条目链接virtua-it.si（培训页…/storitve/izobrazevanje-mikrotik/）；公司主站virtua.si为Virtua IT d.o.o.（Kotnikova ulica 31, 1000 Ljubljana），培训列MikroTik MTCNA/MTCWE/MTCRE与Fortinet。公司站在正文以保护写法呈现邮箱、未复现文字邮箱地址；info@virtua.si／info@virtua-it.si为早期线索，仅备注、不改字段。CSV城市Ljubljana与名录/官网一致。 证据：[1](https://mikrotik.com/training/centers?region=Slovenia&category=training) [2](https://www.virtua-it.si/storitve/izobrazevanje-mikrotik/) [3](https://www.virtua.si/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-376 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：jernej.suhadolc@virtua.si、info@virtua.si、info@virtua-it.si
 - **电话**：+386 590 91780
-- **原始联系字段**：+386 590 91780
+- **原始联系字段**：+386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现）
 
 ## 四、品牌与技术栈
 

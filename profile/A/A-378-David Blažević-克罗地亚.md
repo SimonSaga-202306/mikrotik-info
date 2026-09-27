@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A360–A378联络核验】来源等级：leads-only。本轮未获可核证邮箱：官方顾问名录（克罗地亚筛选）现有条目为Dejan Liovic（Osijek，MTCNA/MTCRE/MTCWE，liovicd@outlook.com、+385952872886）与Tomislav Vrebac（Kraljevica，mikrotik@kerberos.hr），未见Blažević条目；官方学院名录（克罗地亚）列VSITE Zagreb与Polytechnic of Međimurje（Čakovec，协调人Sašo Jordaki），无Osijek条目；电话+385 95 3610037检索仅得TELE2号段与无关信息；姓名检索仅得同名不同人（Scandit/坦佩雷大学研究员、MAOIO营销公司COO等）；FERIT（Osijek）MikroTik akademija相关页列负责人doc. dr. sc. Krešimir Grgić与讲师名单（ferit@ferit.hr、+385 31 224-600），未见David Blažević；名称相近者Damir Blažević（Đakovo，电气工程师事务所）与Adrijana Blažević（Osijek，EFEKTA）主张不同、未确认关联，不并入。维持leads-only并保留【待人工补信息】标注，主字段不新增邮箱。 证据：[1](https://mikrotik.com/consultants?region=Croatia&category=consultants) [2](https://mikrotik.com/training/academy?category=academies&region=Croatia) [3](https://www.ferit.unios.hr/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-378 |
 
 ## 三、人员与联系方式
 
 - **邮箱**：—
 - **电话**：+385 95 3610037
-- **原始联系字段**：+385 95 3610037
+- **原始联系字段**：+385 95 3610037；本轮未见可核证邮箱（官方顾问名录未见条目；保留人工补信息标注）
 
 ## 四、品牌与技术栈
 

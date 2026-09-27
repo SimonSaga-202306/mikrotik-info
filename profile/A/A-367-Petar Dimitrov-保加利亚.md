@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | mikrotikbg.shop 与 PG NET PRO 合作开课，**Petar Dimitrov 为 MikroTik 认证讲师**，开 MTCNA/MTCTCE/**MTCSWE**/MTCSE/MTCIPv6E/MTCUME/MTCEWE/MTCWE/MTCRE/MTCINE 全部工程级课程。保加利亚首位进库。 |
+| 原备注 | mikrotikbg.shop 与 PG NET PRO 合作开课，**Petar Dimitrov 为 MikroTik 认证讲师**，开 MTCNA/MTCTCE/**MTCSWE**/MTCSE/MTCIPv6E/MTCUME/MTCEWE/MTCWE/MTCRE/MTCINE 全部工程级课程。保加利亚首位进库。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（保加利亚筛选）列Petar Dimitrov（Sofia, Bulgaria）：电话+359 894 077980、邮箱training@pgnetpro.bg、站点pgnetpro.bg；所列证书为全部10项（含MTCSWE、MTCEWE），评分81%，与本行原备注一致。合作商城mikrotikbg.shop另给info@mikrotikbg.shop与+359 2 45 125 25（本行原入口，保留）。CSV城市Sofia与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Bulgaria&category=training) [2](https://mikrotikbg.shop) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-367 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：info@mikrotikbg.shop
+- **邮箱**：info@mikrotikbg.shop、training@pgnetpro.bg
 - **电话**：+359 2 451 2525
-- **原始联系字段**：info@mikrotikbg.shop；+359 2 451 2525
+- **原始联系字段**：info@mikrotikbg.shop；+359 2 451 2525；training@pgnetpro.bg（官方培训中心名录）
 
 ## 四、品牌与技术栈
 

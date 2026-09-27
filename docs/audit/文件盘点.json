@@ -58,10 +58,10 @@
     },
     {
       "path": "AGENT-README.md",
-      "sha256": "64997f35e60bcbe8ac6f8f45968f10a3bd41288d3554eebf6149b0b7cec07a54",
-      "bytes": 21914,
+      "sha256": "1a439afe01b28072bb4e10c82cdad523f4183bee702a17a5bd265e2bf083dd1f",
+      "bytes": 24096,
       "tracked_at_scan": true,
-      "units_scanned": 146,
+      "units_scanned": 151,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -167,11 +167,11 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "1b41d6ad6df16a5baf79991db19f3082103a49760734b805c0839a512b980177",
-      "bytes": 278059,
+      "sha256": "b9c7fe5b58f5b4a100760c697378811e410de97763d4f77da3545a61ef2bcf2a",
+      "bytes": 283373,
       "tracked_at_scan": true,
-      "units_scanned": 20345,
-      "unique_url_count": 754,
+      "units_scanned": 20351,
+      "unique_url_count": 788,
       "inspection": {
         "zip_members": 24,
         "embedded_media": 0,
@@ -255,7 +255,7 @@
           {
             "name": "反向信号名单",
             "state": "visible",
-            "nonempty_cells": 17508
+            "nonempty_cells": 17514
           }
         ]
       },
@@ -353,8 +353,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "2d22babe5005ffd8d57795c19b695876331e3555a734e10dda0e59a778b14c75",
-      "bytes": 5326,
+      "sha256": "97b6cfd6ab18180671bf41c52323e4ac667912bd2b23d409a7d318cebed7a58d",
+      "bytes": 5304,
       "tracked_at_scan": true,
       "units_scanned": 73,
       "unique_url_count": 0,
@@ -695,6 +695,16 @@
       "errors": []
     },
     {
+      "path": "batch/contact_research_2026-09-27_A360-A378.json",
+      "sha256": "c8597f6e069e07ce7d60c1321f85773892590330c3f2b7bc5237ed10642c7b42",
+      "bytes": 42434,
+      "tracked_at_scan": false,
+      "units_scanned": 591,
+      "unique_url_count": 34,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/dk.json",
       "sha256": "d72bc0445b79c65d9474d6d3aeec71d74c458a1386f89da7ee89a504653c1ff7",
       "bytes": 1392,
@@ -915,6 +925,16 @@
       "errors": []
     },
     {
+      "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
+      "sha256": "343cbc7d7b7bd97c34e5d7966905b56a02bcf5715f0fa85460a09401c72bb037",
+      "bytes": 10095,
+      "tracked_at_scan": false,
+      "units_scanned": 56,
+      "unique_url_count": 30,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "docs/audit/2026-09-27_修复与验证.md",
       "sha256": "f00b2ab2acf17a9bb41f14a1772b91476cbfd770ed166fa886df86786dcf7ba4",
       "bytes": 8379,
@@ -946,10 +966,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "fc621fd503128619d3743d7a7a8922b1aa4d4f4015027503303321418e608a37",
-      "bytes": 62550,
+      "sha256": "a9bc2b6ca19d8ac1815bc902d58f5cda1d8eec70593240dafdeb96a480dce0d5",
+      "bytes": 64050,
       "tracked_at_scan": true,
-      "units_scanned": 949,
+      "units_scanned": 958,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -4556,191 +4576,191 @@
     },
     {
       "path": "profile/A/A-360-Andrii Sychov-乌克兰.md",
-      "sha256": "821d1d347be81f372dfe4161265741ca070faf4df3c44c6e9af05997476a6b89",
-      "bytes": 4131,
+      "sha256": "62c6784dc69f0b98abdacef84a0343b74a997b1e4bfa3e14b000d9cc04c73db2",
+      "bytes": 5363,
       "tracked_at_scan": true,
       "units_scanned": 120,
-      "unique_url_count": 0,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-361-Michal Dobšovič-斯洛伐克.md",
-      "sha256": "6720f25b426abc32d1352b3f624da582f535f0e77d95cb7c1f828fbfc5c611c9",
-      "bytes": 4043,
+      "sha256": "0962985e8ff1529010fc6c95f555e94bb92243e59356bea0fa12c1e23abcc024",
+      "bytes": 5038,
       "tracked_at_scan": true,
       "units_scanned": 117,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-362-Ivan Dolnak-斯洛伐克.md",
-      "sha256": "4a3e2e1f653731f4af5f1c488c74eae2f5b956c1f5d6dffe9f25846528ff5ae9",
-      "bytes": 3940,
+      "sha256": "61964b880429db69d5927d7bfc33d22597c472bf819c7638cbbb47a91cfb0ea0",
+      "bytes": 5109,
       "tracked_at_scan": true,
       "units_scanned": 116,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-363-SOS electronic-斯洛伐克.md",
-      "sha256": "abd262e5edfa2e914d10472d7054d5bf58b45edeb601e315851b7f06998f0ac0",
-      "bytes": 3725,
+      "sha256": "527dc31790a6e62ade3e48120abcef95d501ddd5948762ef60b5da9121cb6efb",
+      "bytes": 5017,
       "tracked_at_scan": true,
       "units_scanned": 107,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-364-Olisian Sulaj-阿尔巴尼亚.md",
-      "sha256": "7863f0b7124c3cb7d2bb0bb4848a9ae84668082fb9720d6cf8e06111d105b083",
-      "bytes": 4044,
+      "sha256": "771076270dfbc4c66b87fd7a47740992c55878c3b165f477bd849000c2229465",
+      "bytes": 5018,
       "tracked_at_scan": true,
       "units_scanned": 112,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-365-Nexus Networks-马耳他.md",
-      "sha256": "d49e33d78a621e5a3350a92523ab2f3c664b457d3e583ce9646022cf846ba934",
-      "bytes": 4077,
+      "sha256": "afb2e5bf010bd393c2fd40ff68ca1ffcf8bcbfd023a0982903ccfbae1810a887",
+      "bytes": 4984,
       "tracked_at_scan": true,
       "units_scanned": 107,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-366-Robertas Stauskas - Magit-立陶宛.md",
-      "sha256": "2ee32da5f6c6aac859ebac4939d98aa157c27a1ccd913df179c40d51ea0e950d",
-      "bytes": 4092,
+      "sha256": "16b215b6796e471153a78cfc1b904d85c335b4a43f19560ac33ae1d65593cc28",
+      "bytes": 4843,
       "tracked_at_scan": true,
       "units_scanned": 113,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-367-Petar Dimitrov-保加利亚.md",
-      "sha256": "44153cbb245439571543fbb20c893b20768a72f677c4252fe2358aac0f29df2b",
-      "bytes": 4031,
+      "sha256": "669405a6d75c1d415ba4584df502126d4152e89327b8154d9ad1e650c6b8bf85",
+      "bytes": 4861,
       "tracked_at_scan": true,
       "units_scanned": 111,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-368-Kęstutis Viselga - MikroTik Training Lietuva-立陶宛.md",
-      "sha256": "f6e71df02d686f5bab07641a2d0ab7af40aa199228b0f13b692c166b6be34787",
-      "bytes": 4410,
+      "sha256": "e2014a80d17c4435148e71c65b0f8349237696759a61db7b059e6dba8d6ef99c",
+      "bytes": 5225,
       "tracked_at_scan": true,
       "units_scanned": 117,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-369-Veaceslav Samburschii - Academia MikroTik-罗马尼亚.md",
-      "sha256": "bd9e6e6e77c88f8de567ae2b95feefda100e0c9983979426a2d60a446430ef1e",
-      "bytes": 4277,
+      "sha256": "547fee52eeec80cc756aa73b5e0ec9df3e9f93822319c8b5a483976b0acf9eef",
+      "bytes": 5320,
       "tracked_at_scan": true,
       "units_scanned": 119,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-370-Oltion Nikolla - Router.al-阿尔巴尼亚.md",
-      "sha256": "d9623b274b211019b354270211083cb4152b87a21058fd2a58c89653cc6248ba",
-      "bytes": 4255,
+      "sha256": "3497ea23995f24d746df7696120d7590019d5a1059deac3b03537dc63e1d6d71",
+      "bytes": 5257,
       "tracked_at_scan": true,
       "units_scanned": 113,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-371-Martin Soovares-爱沙尼亚.md",
-      "sha256": "a9028e2e9b5167887de6879e1e88848ce8988a39eba651d10b8b7dadfcc368ac",
-      "bytes": 3958,
+      "sha256": "bf51a7fe523f617e8d97af9cdfb7e620e033fe45d371543d896b9c08a4fdb41f",
+      "bytes": 4739,
       "tracked_at_scan": true,
       "units_scanned": 112,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
-      "sha256": "b4d0d7dc2d0c43ccb98aa00cf550e273d10fb1a26a52640049c0849c5d59f0f7",
-      "bytes": 3843,
+      "sha256": "91aebc9110893d322364dd4d790190ad44ba5194cee2f065eab0ce16af0f2ec8",
+      "bytes": 4202,
       "tracked_at_scan": true,
-      "units_scanned": 105,
-      "unique_url_count": 0,
+      "units_scanned": 95,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-373-Veaceslav Samburski-罗马尼亚.md",
-      "sha256": "87b7c2401ff082067ada3ff142d22c94975b0e03c9090546b23b23d446d9d04a",
-      "bytes": 4107,
+      "sha256": "9a4a1b7b72bc2e4f7e6ff0e8127a4c5f53013cd3be565f0c6182b39b807df785",
+      "bytes": 5211,
       "tracked_at_scan": true,
       "units_scanned": 116,
-      "unique_url_count": 0,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-374-Rein Põdra-爱沙尼亚.md",
-      "sha256": "be54c5a1ac44647e588a536b3587f01d15f7be93c3fe58f8b7edfadeb42e3994",
-      "bytes": 4009,
+      "sha256": "c15325739755eeca30978e1e02d3fce3a3637a82c38787c105030d08ad147e69",
+      "bytes": 4939,
       "tracked_at_scan": true,
       "units_scanned": 117,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-375-Jānis Jaunošāns-拉脱维亚.md",
-      "sha256": "9eaef84af519b62dc56d17393072ea13ef3ec74cadfa06b2f1d574e048a22e79",
-      "bytes": 4007,
+      "sha256": "c5a7135f5f101d9c16b3d957539b4c4cb77ff53fd86cab6d4e4d809291deebf9",
+      "bytes": 4845,
       "tracked_at_scan": true,
       "units_scanned": 118,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
-      "sha256": "902cfb042a5033b6bcdafd4cdc7e96774291eb4b5a8344995e4b442abffd435a",
-      "bytes": 3896,
+      "sha256": "2ca6c0f203e89ae92c241aa3a3c2f9c76e0c82161f68c428b5bcf7fc7aed7f2a",
+      "bytes": 4324,
       "tracked_at_scan": true,
-      "units_scanned": 105,
-      "unique_url_count": 0,
+      "units_scanned": 95,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-377-Ivan Jezerinac-克罗地亚.md",
-      "sha256": "3a9fafcb2d5d4918142e0d9c24ef0a250c03e8ca8aa9a438587c7d3b08d98b49",
-      "bytes": 3970,
+      "sha256": "f4de940b6afc7588aecf5a9ecb1e08d5b1d6fae19ecd9b95468f3de70233421b",
+      "bytes": 4331,
       "tracked_at_scan": true,
-      "units_scanned": 108,
-      "unique_url_count": 0,
+      "units_scanned": 98,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-378-David Blažević-克罗地亚.md",
-      "sha256": "5535ffc17238361cc127de6ddaee340b9fde08e3ada26d0a0fdb8abff2bd876a",
-      "bytes": 3770,
+      "sha256": "74b5756c6c55154bafb35157f9e28657c4c71bd942766bb700c54c0e649e0e0c",
+      "bytes": 5251,
       "tracked_at_scan": true,
       "units_scanned": 103,
-      "unique_url_count": 0,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
@@ -11396,11 +11416,11 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "68bcec14caa954a0e8c2478b59a786c9dc2c3bb74c05dbf148fcb60d2de80486",
-      "bytes": 31719,
+      "sha256": "091bbc165aeb9bd91e8675ebb65e3ee752a93c74f8c5effbfbe73387dc0fd4db",
+      "bytes": 34815,
       "tracked_at_scan": true,
-      "units_scanned": 502,
-      "unique_url_count": 36,
+      "units_scanned": 542,
+      "unique_url_count": 42,
       "inspection": {},
       "errors": []
     },
@@ -11426,11 +11446,11 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "0d63758db4236be65d9ab30ef935a757934ac58ef64240eba87ca90523fb187e",
-      "bytes": 307334,
+      "sha256": "0d593c0c4b6f109051787cafdcb280c221f540a3ed07d7bb871ccd601e11d1b8",
+      "bytes": 313726,
       "tracked_at_scan": true,
-      "units_scanned": 21136,
-      "unique_url_count": 754,
+      "units_scanned": 21142,
+      "unique_url_count": 788,
       "inspection": {
         "zip_members": 12,
         "embedded_media": 0,
@@ -11439,7 +11459,7 @@
           {
             "name": "A级-重点好跟进",
             "state": "visible",
-            "nonempty_cells": 8454
+            "nonempty_cells": 8460
           },
           {
             "name": "B级-慢慢跟",
@@ -11462,11 +11482,11 @@
     },
     {
       "path": "客户名单_反向信号_2026-09.csv",
-      "sha256": "781fbb8940225745f68d66eb7d0a3041ddacd9998d88d93532f8f2587ac23dff",
-      "bytes": 721161,
+      "sha256": "1e71ea2e0bf9c19fcafaa207949659a4c8ee2c17d57cc477055a09491edf8ddd",
+      "bytes": 739421,
       "tracked_at_scan": true,
-      "units_scanned": 17486,
-      "unique_url_count": 754,
+      "units_scanned": 17492,
+      "unique_url_count": 788,
       "inspection": {
         "headers": [
           "公司名",
@@ -11507,10 +11527,10 @@
     },
     {
       "path": "死路与死链备案_2026-09.md",
-      "sha256": "702c8d4caa7a5bf4a7a4276b66beb11555628375e55500dd1831f365b98bfc4a",
-      "bytes": 24156,
+      "sha256": "e54354b7ae161978d132a20a312dda46363f07054a6a5c02f083432b20e69f2c",
+      "bytes": 26098,
       "tracked_at_scan": true,
-      "units_scanned": 276,
+      "units_scanned": 287,
       "unique_url_count": 2,
       "inspection": {},
       "errors": []
