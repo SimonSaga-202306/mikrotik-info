@@ -17,20 +17,20 @@
 | 公司名 | ELMAT |
 | 国家 | 意大利 |
 | 城市 | Padova / Roma |
-| 网站 | — |
+| 网站 | https://www.elmat.com |
 | 类型 | 分销（Netonix 授权） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 意大利分销，两地经营。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 意大利分销，两地经营。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网联系页给info@elmat.com、049.7623011、Via Uruguay 15, 35127 Padova (PD)、P.IVA 00130980287、PEC elmat@pec.it；B2B门户页重复info@elmat.com与049 7623011；分销电子/电信设备，AT伙伴名录（Resell）与本行一致。CSV城市为“Padova / Roma”两地，字段未改。 证据：[1](https://www.elmat.com/it/contatti) [2](https://elmat.com/azienda/servizi/portale.html) [3](https://it.kompass.com/c/elmat-s-p-a/it0236459/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-353 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：049-7623011、0774-300502
-- **原始联系字段**：049-7623011 / 0774-300502
+- **邮箱**：info@elmat.com、elmat@pec.it
+- **电话**：049 7623011
+- **原始联系字段**：info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova
 
 ## 四、品牌与技术栈
 

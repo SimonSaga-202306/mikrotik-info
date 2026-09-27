@@ -17,20 +17,20 @@
 | 公司名 | meconet |
 | 国家 | 德国 |
 | 城市 | — |
-| 网站 | — |
+| 网站 | https://www.meconet.de |
 | 类型 | 分销（Netonix 授权） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 德国分销。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 德国分销。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网服务页与商店页均为meconet e.K.：Seelbacher Weg 7, 57072 Siegen，Tel. +49 (0)271 703087 0，info@meconet.de；商店在售Netonix（WS-6-MINI等）与多厂商网络/无线产品，服务含咨询与培训。AT/Netonix名录原电话与本行一致；CSV城市字段原为空，本轮未改。 证据：[1](https://www.meconet.de/ueberblick_service.html) [2](https://shop.meconet.de/Switche/Netonix-WS-6-MINI-6-Port-24-48VDC-passive-PoE-Switch::116838.html) [3](https://shop.meconet.de/AGB-Widerrufsrecht:_:3.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-351 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@meconet.de
 - **电话**：+49 (0)271 703087 0
-- **原始联系字段**：+49 (0)271 703087 0
+- **原始联系字段**：info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix
 
 ## 四、品牌与技术栈
 

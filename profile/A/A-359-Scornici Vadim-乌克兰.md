@@ -17,20 +17,20 @@
 | 公司名 | Scornici Vadim |
 | 国家 | 乌克兰 |
 | 城市 | Kyiv |
-| 网站 | — |
+| 网站 | https://mikrotik.coach |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | 持全部十证，含 **MTCSWE**。 |
+| 原备注 | 持全部十证，含 **MTCSWE**。 【2026-09-27 A340–A359联络核验】来源等级：official-named。自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com、+44 7429897667、Walnut Tree, Milton Keynes, UK；团队页列VADIM SCORNICI（Certificate No. TR0659，2019年3月起授课，2800+学员，自称欧洲Top 3），并提供Telegram t.me/vadsco与FB专页；MikroTik.UA讲师页确认Скорніч Вадим Дмитрович持TR0659与十证、授课点Київ, вул. О.Теліги 11。CSV城市Kyiv与原电话保留；站点英国联系地址差异仅备注说明。 证据：[1](https://mikrotik.coach/) [2](https://www.mikrotik.ua/trainer) [3](https://www.facebook.com/mikrotik.coach) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-359 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+380 662340273
-- **原始联系字段**：+380 662340273
+- **邮箱**：vadsco@gmail.com
+- **电话**：+44 7429897667、+380 662340273
+- **原始联系字段**：vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课
 
 ## 四、品牌与技术栈
 

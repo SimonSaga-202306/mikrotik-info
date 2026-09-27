@@ -17,20 +17,20 @@
 | 公司名 | Landatel |
 | 国家 | 西班牙 |
 | 城市 | Madrid |
-| 网站 | — |
+| 网站 | https://www.landatel.com |
 | 类型 | 分销（Netonix 授权） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 西班牙分销。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 西班牙分销。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网条款/客服页给info@landatel.com、+34 911 461 700、注册地Carretera de La Coruña km 17,800 28231 Las Rozas (Madrid)、CIF B-83170944；分销商政策页给B2B渠道专用comercial@landatel.com，仓库C/ Río Odiel 14, 28906 Getafe。重要：第三方工商档案标题与官网退货/保证页均出现“en liquidación / Liquidation”字样（公司处于清算状态），触达与信用风险须先人工核实。本条为Netonix授权行（Vitesse芯片），2026-09-23用户裁决保留且禁用“同芯片”话术。 证据：[1](https://www.landatel.com/en_US/terminos-y-condiciones) [2](https://www.landashop.com/resellers?___store=default) [3](https://empresite.eleconomista.es/LANDATEL-COMUNICACIONES.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-350 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+34-911-461-700
-- **原始联系字段**：+34-911-461-700
+- **邮箱**：info@landatel.com、B2B商业comercial@landatel.com
+- **电话**：+34 911 461 700、83170944
+- **原始联系字段**：info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）
 
 ## 四、品牌与技术栈
 

@@ -7,21 +7,26 @@
 
 - 仓库：`SimonSaga-202306/mikrotik-info`；工作目录 `/home/user/mikrotik-info`。
 - 唯一工作分支：`arena/01a0c3ef-mikrotik-info`。不得切分支、推其他分支。
-- 本轮基线：`e7c3131`（治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
+- 本轮基线：`2b55a94`（治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。
 - 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A378/B344/C311**。
 - `档案编号`当前零基列19、`C级细分`20、`人工定级`21；写代码按表头定位，不硬猜。
 - `profile/A/`378、`profile/B/`344、`profile/C/`311。编号和CSV物理顺序均冻结。
-- 下一新增或升级A：**A379**。当前研究下一位：**A340**（A320–A339已完成）。
+- 下一新增或升级A：**A379**。当前研究下一位：**A360**（A320–A359已完成）。
 
 ## 当前任务与顺序
 
-1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A339；不等于全部A已完成。
+1. 按现编号完成A联系方式补挖，**搞完为止**。已处理A080–A359；不等于全部A已完成。
 2. **全部A完成后**，再仔细复筛B/C，升级A只接末尾。
 3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但803条客户没有逐项证据URL，其他230条也只是有结构化联络记录，不是全字段认证。
 
 ### 最近批次
 
-- **A320–A339（本轮）**：18条官网/官方结构化数据/官方登记邮箱、1条官网可逆(at)写法（A335，已规范）、1条leads-only（A334官网为无关占位页，第三方旧案例页联系方式未互证）、19条移除「待人工补信息」标注、1条保留（A334）。两份xlsx同步至A339；技术栈/策略/邮件逐字不变。
+- **A340–A359（本轮）**：15条官网/官方结构化数据/官方登记邮箱、2条official-named（A355具名导师邮箱、A359自营培训站具名邮箱）、1条official-search-only（A343邮箱见公司自设PDF与Kompass，官网仅表单/PEC）、1条public-register（A344无官网，邮箱见2024市镇公开招标文件与工商PEC）、1条partner-directory（A357邮箱取自Zyxel官方分销名录）、12条移除「待人工补信息」标注（本批含块者全部）。两份xlsx同步至A359；技术栈/策略/邮件逐字不变。
+  - A340：mail@netengineering.it（AT伙伴页列SpA/Sesto S.Giovanni、+39 02 2412541；官网作Srl/Milano-Reggio-Roma；不与Padova工程公司netspa.com合并）。A341：info@securcrea.com（Follonica，Toscana/Piemonte两线）。A342：info@tnet.it（Milano；support@/account@留档）。A343：info@technocenter.it（官网联系页仅表单/PEC；邮箱见公司自设简介PDF+Kompass，标注官网未复现）。A344：worldtechnology@tiscali.it（无官网；2024公开招标文件+PEC worldtechnology@pec.it，触达前复核）。
+  - A345：info@avelution.nl（AT写Veghel、官网写Schijndel 5482 NN，未改城市）。A346：info@kappadata.nl（Utrecht）。A347：info@kappadata.be（De Pinte；与荷兰实体不混用）。A348：post@nlogic.no（Oslo；salg@销售）。A349：geral@c2f.pt（Barcarena）。
+  - A350：info@landatel.com（Las Rozas；清算状态写入备注待核实；Netonix行保留且禁用同芯片话术）。A351：info@meconet.de（Siegen，店内在售Netonix）。A352：info@mhzshop.com（Marquixanes）。A353：info@elmat.com（Padova）。A354：sales@ntsdirect.com（Bolton MA）。
+  - A355：vartan@mikrotikls.com.ua（具名导师；通用info@留档；根页抓取失败，索引+价目页互证）。A356：info@xpatit.gr（XPATIT，Rafina；培训training@）。A357：sales@digitalsima.gr（Zyxel官方名录；官网仅表单）。A358：lexis@lexis.gr（Gerakas；分公司thes@）。A359：vadsco@gmail.com（自营mikrotik.coach；英国站点地址差异仅备注，CSV城市Kyiv保留）。
+- **A320–A339**：18条官网/官方结构化数据/官方登记邮箱、1条官网可逆(at)写法（A335，已规范）、1条leads-only（A334官网为无关占位页，第三方旧案例页联系方式未互证）、19条移除「待人工补信息」标注、1条保留（A334）。两份xlsx同步至A339；技术栈/策略/邮件逐字不变。
   - A320：contact@evelem.fr（官网首页/服务页；客户空间support@；自社FB同邮箱同电话）。A321：vertrieb@edvpartner.de（Hamburg；Oberhausen的edv-partner.com为同名异主体，不合并）。A322：contact@alphacron.de（Impressum/Datenschutz；AS28748，Inhaber Marc Pauls）。A323：info@berg-duda.de（Sebastian Berg-Duda）。A324：info@hm-electronics.de（AGB页Anbieterkennzeichnung；第三方thomas.hoffmann@不采用）。
   - A325：info@inseid.de（Ingo Seidenberg IT-Beratung）。A326：info@merlinedv.de（MERLIN Kommunikationstechnik e.K.，Erlangen；CSV城市字段“Bayern”为地区，未改）。A327：contact@cfigroupe.com（AT名录地址为旧址Saint-Ouen，官网现址Saint-Denis Carré Pleyel）。A328：contact@deltasertec.com（Marseille；DPO/招聘邮箱同级留档）。A329：contact@gtd-international.com（GTD集团法国子公司；Kompass具名邮箱不并入）。
   - A330：contact@nxo.eu（总部2026-03-30迁Puteaux；法律页仍Rueil-Malmaison）。A331：contact@synexie.fr（官网+自社FB；现址Toulon，CSV城市为旧址La Valette-du-Var）。A332：info@adrianetsrl.it（2025年由snc转SRL；PEC留档）。A333：info@cgtelettronica.it（罗马/维泰博同邮箱）。
@@ -55,8 +60,9 @@
   - A251：旧batch/hu.json/B083同名音符差异+同电话+旧邮箱；网站403，未外部确认，旧邮箱未加入主联系字段。
   - A253：Noriak旧域503、分销旧页跳首页，邮箱仅搜索索引；Canyon伙伴页502。A258：没有匹配邮箱/域名；排除Chicago招聘经理/演员，同名不冒用。MikroTik动态目录外壳不等于除名。
   - A259：官网确认Henk/MikroTrain；现隐私页及2023PDF邮箱，关联B443，仅记录不合并。
-- 本轮证据：`batch/contact_research_2026-09-27_A320-A339.json`、[核验说明](docs/audit/2026-09-27_A320-A339联络核验.md)；R45已入唯一要求总账，精确消息时间未知。
-- 上批证据：`batch/contact_research_2026-09-27_A300-A319.json`、[核验说明](docs/audit/2026-09-27_A300-A319联络核验.md)。
+- 本轮证据：`batch/contact_research_2026-09-27_A340-A359.json`、[核验说明](docs/audit/2026-09-27_A340-A359联络核验.md)；R46已入唯一要求总账，精确消息时间未知。
+- 上批证据：`batch/contact_research_2026-09-27_A320-A339.json`、[核验说明](docs/audit/2026-09-27_A320-A339联络核验.md)；R45已入唯一要求总账，精确消息时间未知。
+- 更早批次证据：`batch/contact_research_2026-09-27_A300-A319.json`、[核验说明](docs/audit/2026-09-27_A300-A319联络核验.md)。
 - 更早批次证据：`batch/contact_research_2026-09-27_A280-A299.json`（A280–A299）。
 - 更早批次证据：`batch/contact_research_2026-09-27_A260-A279.json`（A260–A279）。
 - 更早批次证据：`batch/contact_research_2026-09-27_A240-A259.json`（A240–A259）。
@@ -136,5 +142,5 @@ git -c core.whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol diff
 
 ## 交接下一步
 
-**从A340继续**；每条保存具体URL、字段、原文摘录、检索日期、来源等级与未确认事项。A320–A339已完成：A334仍缺可核证正文邮箱（保留原电话与待人工补）；A326/A327/A330/A331城市字段与地区/旧址/现址差异仅备注说明。A280–A299：A284/A289/A290/A293/A295/A296/A297/A298仍缺可验证正文邮箱（保留原电话与待人工补），A292只有账单弱通道，A281站点与Wayback均失败。A205是仅身份线索，A201/A206待确认，不能遗漏复核。A212/A215/A218/A227/A233/A236、A249/A251/A253/A258、A262/A272/A273/A278/A279、A280/A281（Netonix保留豁免，禁用同芯片话术）及A301/A316等限制继续保留。A仍未完成，不启动B/C升级。
+**从A360继续**；每条保存具体URL、字段、原文摘录、检索日期、来源等级与未确认事项。A340–A359已完成：A343（官网仅表单，邮箱见公司自设PDF/Kompass）、A344（无官网，邮箱见公开招标文件）、A357（邮箱取自厂商名录）为非官网正文来源；A350公司清算状态待人工核实；A340主体名/地址差异与A345/A356/A359地址差异仅备注。A334仍缺可核证正文邮箱（保留原电话与待人工补）；A326/A327/A330/A331城市字段与地区/旧址/现址差异仅备注说明。A280–A299：A284/A289/A290/A293/A295/A296/A297/A298仍缺可验证正文邮箱（保留原电话与待人工补），A292只有账单弱通道，A281站点与Wayback均失败。A205是仅身份线索，A201/A206待确认，不能遗漏复核。A212/A215/A218/A227/A233/A236、A249/A251/A253/A258、A262/A272/A273/A278/A279、A280/A281（Netonix保留豁免，禁用同芯片话术）及A301/A316等限制继续保留。A仍未完成，不启动B/C升级。
 本轮用户要求/发言时间缺口、R37轮次冲突完整保留于总账；不要宣称恢复了不存在的聊天全文。

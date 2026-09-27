@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -34,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：public-register。无官网。2024年市镇公开招标文件（Comune di Palau采购透明度附件）供应方名单同列worldtechnology@tiscali.it与worldtechnology@pec.it；工商/商录显示主体为World Technology di Luigi Boi（Impresa Individuale，P.IVA 03196380921，Via Montenero 15, 09122 Cagliari，2008-09-04注册，ATECO 47401），PEC worldtechnology@pec.it；电话070 2346452（黄页与MePA供货商卡）。邮箱来自公开招投标文件（非官网正文），仅为该主体公开登记渠道，触达前需人工复核。 证据：[1](https://trasparenza.palau.it/AttiVisualizzatore/download/allegato/2810179?fId=2810188) [2](https://www.ufficiocamerale.it/7178/world-technology-di-luigi-boi) [3](https://www.paginegialle.it/cagliari-ca/informatica/world-technology-luigi-boi) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-344 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **邮箱**：worldtechnology@tiscali.it、worldtechnology@pec.it
+- **电话**：070 2346452
+- **原始联系字段**：worldtechnology@tiscali.it（2024年市镇公开招标文件；无官网）；worldtechnology@pec.it（PEC）；070 2346452；World Technology di Luigi Boi，Via Montenero 15, 09122 Cagliari
 
 ## 四、品牌与技术栈
 

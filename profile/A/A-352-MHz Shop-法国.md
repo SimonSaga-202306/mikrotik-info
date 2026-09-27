@@ -17,20 +17,20 @@
 | 公司名 | MHz Shop |
 | 国家 | 法国 |
 | 城市 | — |
-| 网站 | — |
+| 网站 | https://www.mhzshop.com |
 | 类型 | 分销（Netonix 授权） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
-| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 法国分销。 |
+| 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 法国分销。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网CGV与客服务句给info@mhzshop.com与+33 4 86 68 83 30；运营商主体Megahertz Wireless Eurl，注册地5, avenue Roger Roquefort, 66320 Marquixanes，RCS 484.713.052 Perpignan，TVA FR43484713052，出版负责人Daniel Doguet；自社Facebook页同邮箱同电话；主营无线网络（WiFi/4G/5G）在线商店。CSV城市字段原为空，本轮未改。 证据：[1](https://www.mhzshop.com/Conditions-generales-de-vente/) [2](https://www.mhzshop.com/shop/Accessoires-MHz/Protections/Onduleur-600VA-Nitram-BU600E-FR.html) [3](https://www.facebook.com/people/MHz-Shop-Officiel/100063453496887/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-352 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+33 486 688 330
-- **原始联系字段**：+33 486 688 330
+- **邮箱**：info@mhzshop.com
+- **电话**：+33 4 86 68 83 30
+- **原始联系字段**：info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes
 
 ## 四、品牌与技术栈
 

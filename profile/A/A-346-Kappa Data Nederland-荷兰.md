@@ -10,16 +10,6 @@
 - **评级依据**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
 - **下次复核**：收到反馈后重新评级
 
-
-> 🟡 **信息不够，需要人工处理**
->
-> 本条为集成商/顾问型（A 级主产地），但目前**抓不到邮箱**，群发触达不到。
-> 已按人工定级提为 A，**请先补齐以下任一信息再进入群发名单**：
-> 1. 找邮箱（官网 / 名录页 / LinkedIn）；
-> 2. 若确实只有电话，确认其为唯一触达方式，改为单独跟进、不进群发。
->
-> 补到邮箱后，可删掉本条备注开头的 `【待人工补信息】` 标记。
-
 ## 二、公司概览
 
 | 项 | 内容 |
@@ -27,20 +17,20 @@
 | 公司名 | Kappa Data Nederland |
 | 国家 | 荷兰 |
 | 城市 | Utrecht |
-| 网站 | — |
+| 网站 | https://www.kappadata.nl |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=netherlands） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网联系页明确“send an e-mail to info@kappadata.nl”，并给Atoomweg 63, 3542 AA Utrecht与+31 88 527 7200；集团页同列Kappa Data Nederland（Atoomweg 63, 3542 AA Utrecht NL）与info@kappadata.nl；支持页按厂商列Allied Telesis直连支持。自述面向reseller的IT安全/基础设施/IoT分销。本行为AT伙伴名录Utrecht主体。 证据：[1](https://www.kappadata.nl/en/contact/) [2](https://www.kappadata.be/kappa-data-holding/) [3](https://www.kappadata.nl/en/support/support-request/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-346 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **邮箱**：info@kappadata.nl
+- **电话**：+31 88 527 7200
+- **原始联系字段**：info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht
 
 ## 四、品牌与技术栈
 

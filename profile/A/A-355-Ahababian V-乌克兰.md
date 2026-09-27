@@ -17,20 +17,20 @@
 | 公司名 | Ahababian V. |
 | 国家 | 乌克兰 |
 | 城市 | Kyiv |
-| 网站 | mikrotikls.com.ua |
+| 网站 | https://www.mikrotikls.com.ua |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | 自营 MikroTik 培训中心（MikroTikls.com.ua），持 **MTCSWE**，带培训影响力。 |
+| 原备注 | 自营 MikroTik 培训中心（MikroTikls.com.ua），持 **MTCSWE**，带培训影响力。 【2026-09-27 A340–A359联络核验】来源等级：official-named。mikrotikls.com.ua首页团队区给导师Вартан Агабабян（MikroTik Trainer TR0686，持MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCSE/MTCSWE/MTCEWE）、地址Київ, вул. Маршала Рибалка 11Б与具名邮箱vartan@mikrotikls.com.ua；价目页给通用info@mikrotikls.com.ua与+380 44 339 56 97；自述2009年起为官方培训中心、已培养1000+工程师。站点根页直连抓取失败（TLS/超时），内容取自检索索引并与价目页互证。原入口电话保留。 证据：[1](https://www.mikrotikls.com.ua/) [2](https://www.mikrotikls.com.ua/price) [3](https://www.mikrotik.place/en) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-355 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+380669074488
-- **原始联系字段**：+380669074488
+- **邮箱**：vartan@mikrotikls.com.ua、通用info@mikrotikls.com.ua
+- **电话**：+38 066 907 44 88、+380 44 339 56 97
+- **原始联系字段**：vartan@mikrotikls.com.ua（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б
 
 ## 四、品牌与技术栈
 
