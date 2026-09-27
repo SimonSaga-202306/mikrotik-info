@@ -605,4 +605,37 @@ pip install openpyxl --break-system-packages
 **坑**：`reset --soft` 只移动 HEAD、**不动索引**，会导致索引与工作区错位（同一文件既显示 `D`
 又显示 `??` 的双份假象）。必须用 **mixed**（`git reset` 默认模式）。
 
+### 对话 29 — 2026-09-23（用户：1+2+3 全打；再强调 Marvell Prestera / 欧洲+北美 / 只要 A / 不管数量）
+**A 147 → 149（+2），合计 880 行**
+**① Allied Telesis 英国 300 家代理池 —— 挖到了**
+  - **`alliedtelesis.com/gb/en/resellers` 是静态页（非 JS）**，可直接取到全量英国代理 + 电话
+    （与 `installers.ui.com`、`/training/centers`、Zyxel 伙伴页等 JS 页不同，**这个能用**）
+  - 新增 22 家 ｜ **英国 55 → 77 家，A 9 → 11**
+  - ⚠️ 其中 **20 家只有电话、没邮箱** → 按「B 只做群发、没邮箱沉 C」规则全进 C；
+    但**这批是集成商型（A 的主产地）**，日后若补邮箱，是最值得优先捞回的一批
+  - 主动剔除：Anixter/Wesco、Ingram Micro、TD SYNNEX（过大）
+**② Westermo / Antaira 集成商**
+  - IPC2U **已在库**（Antaira 官方伙伴，德国，系统集成商）
+  - ⚠️ **Antaira Technologies Europe（info@antaira.eu，波兰）是台厂自有的欧洲办公室 → 按台厂规则不收**
+  - 结论：Antaira/Westermo 欧洲**分销**名录对话 21 已尽，**集成商**公开源亦见底
+**③ 美国 MikroTik 顾问（西海岸 + 东北部）—— ❌ 已挖尽**
+  - 搜出的 NCTIK、Andisa IT、IP ArchiTechs、Kyle Heppler、Christopher Fikes **全部已在库**
+  - 连同对话 27 的 UK/CA 结论：**MikroTik 顾问/培训中心名录这条脉，欧美主要国家已扫完**
+**三条脉状态**
+  | 源 | 状态 |
+  |---|---|
+  | MikroTik 顾问/培训中心名录（欧美） | ❌ 已扫完 |
+  | Netonix 渠道 | ✅ 已挖（14 家，Vitesse，用户特批保留，编号 A-106…A-118） |
+  | Allied Telesis 渠道 | ⚠️ **英国池已开；德/法/意/西/荷区域页未试** |
+  | 台厂（PLANET/Moxa/EtherWAN/Advantech/Antaira/Westermo） | ❌ 分销已尽，集成商公开源见底 |
+**下一步最该试**：把 `/gb/en/resellers` 的 URL 格式套到
+  **`/de/en/resellers`、`/fr/...`、`/it/...`、`/es/...`、`/nl/...`** —— 若同样是静态页，是下一个大池子
+**⚠️ 坑复现（第二次）：`str.replace` 静默失败**
+  本轮 README 用 `\n\n---\n\n*本文件由 Agent...` 作锚点，但文件结尾已无 `---` 分隔线 →
+  替换未命中且**不报错**，导致「README 已更新」打印了但文件没变，git 报 nothing to commit。
+  **改 README 后必须 `grep -c` 验证写入，不能只信打印。**
+**当前**：A149 / B344 / C387 = **880**，回归全绿。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
