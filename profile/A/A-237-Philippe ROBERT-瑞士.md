@@ -17,20 +17,20 @@
 | 公司名 | Philippe ROBERT |
 | 国家 | 瑞士 |
 | 城市 | Geneve |
-| 网站 | engitech.ch |
+| 网站 | https://www.engitech.ch |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCNA MTCRE MTCTCE MTCUME MTCSWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | Engitech S.A.。持 **MTCSWE**，瑞士首位进库。 |
+| 原备注 | Engitech S.A.。持 **MTCSWE**，瑞士首位进库。 【2026-09-27 A210–A239联络核验】来源等级：official。Engitech现官网联系页正文总邮箱及+41763264000匹配原电话；Carouge地址不自动改Geneve城市。2019 MUM官方PDF搜索把Philippe ROBERT/Engitech Genève与p.robert@engitech.ch相连，但未抓PDF正文，个人邮箱只历史待核，主用现公司总邮箱，不冒称个人在职确认。与B299公司入口相同，不等于个人记录可自动合并。 证据：[1](https://www.engitech.ch/en/contact-us) [2](https://mum.mikrotik.com/presentations/FR19/presentation_6674_1556564748.pdf) [3](https://www.linkedin.com/in/philippe-robert-8121b968/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-237 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：office@engitech.ch
 - **电话**：+41 76 32 64 000
-- **原始联系字段**：+41 76 32 64 000
+- **原始联系字段**：office@engitech.ch（官网正文公开；未验证投递）；原入口：+41 76 32 64 000
 
 ## 四、品牌与技术栈
 

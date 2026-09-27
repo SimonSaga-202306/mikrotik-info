@@ -17,20 +17,20 @@
 | 公司名 | Patrik Schaub |
 | 国家 | 德国 |
 | 城市 | Freiburg |
-| 网站 | — |
+| 网站 | https://www.fmsweb.de |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
-| 原备注 | FMS Internetservice GmbH。持全部十证，含 **MTCSWE**。 |
+| 原备注 | FMS Internetservice GmbH。持全部十证，含 **MTCSWE**。 【2026-09-27 A210–A239联络核验】来源等级：official。FMS现官网联系页正文总邮箱与+497612926500匹配。2011 MUM PDF搜索把Patrik Schaub与FMS及同电话邮箱相连；LinkedIn搜索链接fmsweb.de/mikrotik-shop.de，转发sales邮箱，但未宣称个人现任采购。与A083/B141及B149共享公司入口，个人/公司记录不自动合并；主表姓名Patrik与历史A083说明Patrick拼法差异保留待核。 证据：[1](https://www.fmsweb.de/kontakt/) [2](https://mum.mikrotik.com/presentations/HU11/patrik.pdf) [3](https://www.linkedin.com/in/patrik-schaub-25995647/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-239 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@fmsweb.de
 - **电话**：49 761 2926500
-- **原始联系字段**：49 761 2926500
+- **原始联系字段**：info@fmsweb.de（官网正文公开；未验证投递）；原入口：49 761 2926500
 
 ## 四、品牌与技术栈
 

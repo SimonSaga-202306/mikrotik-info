@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | Satelithuset。持 **MTCSWE**。 |
+| 原备注 | Satelithuset。持 **MTCSWE**。 【2026-09-27 A210–A239联络核验】来源等级：official-pdf-historical。MikroTik官方托管2007 MUM演讲PDF正文把Leo De Geer与Satellithuset、support邮箱及+46 705915987相连；2010 PDF搜索同邮箱及主表+46 325660650。年代很旧，只作历史待核入口，不当现在直联。mikrotik.se当前跳转routerboard.se；LinkedIn搜索现单位Tagghajen holding AB，不据此认定仍在原公司。保留主表原网站satelithuset.se，LinkedIn只作备用。与B297公司关联线索，不合并。 证据：[1](https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf) [2](https://mum.mikrotik.com/presentations/PL10/leo.pdf) [3](https://www.linkedin.com/in/leo-de-geer-826693/) [4](https://www.mikrotik.se/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-236 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：support@mikrotik.se
 - **电话**：+46 325 660650
-- **原始联系字段**：+46 325 660650
+- **原始联系字段**：support@mikrotik.se（旧官方PDF公开；历史入口待核；未验证投递）；原入口：+46 325 660650；个人社媒线索：https://www.linkedin.com/in/leo-de-geer-826693/
 
 ## 四、品牌与技术栈
 

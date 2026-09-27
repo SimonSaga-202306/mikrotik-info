@@ -27,20 +27,20 @@
 | 公司名 | 4service s.r.o. |
 | 国家 | 捷克 |
 | 城市 | České Budějovice |
-| 网站 | — |
+| 网站 | https://www.4service.cz |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=czechia） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：public-register。捷克国家电子采购供应商注册页正文确认sachl邮箱、IČO28066235、Novohradská745/21 České Budějovice、+420605275094及官网。官网搜索摘要另有it@4service.cz、helpdesk@4service.cz、janacek@4service.cz，正文抽取未复见；/kontakt为404。主邮箱为公共登记入口，不是公司官网正文，也不据姓推定岗位。 证据：[1](https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/410506888) [2](https://www.4service.cz/) [3](https://www.4service.cz/kontakt) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-230 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sachl@4service.cz
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：sachl@4service.cz（公共采购注册页公开；非公司官网正文；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 ## 四、品牌与技术栈
 

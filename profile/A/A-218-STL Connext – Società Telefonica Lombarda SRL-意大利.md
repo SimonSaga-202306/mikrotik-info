@@ -27,20 +27,20 @@
 | 公司名 | STL Connext – Società Telefonica Lombarda SRL |
 | 国家 | 意大利 |
 | 城市 | Brescia |
-| 网站 | — |
+| 网站 | https://stlconnext.it |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-pdf-historical。2023年官网案例PDF正文末尾确认邮箱；当前联系页正文仅电话+39 030 2685411、地址Via Achille Grandi 43/B及表单，搜索页脚同邮箱。来源为旧官方PDF，不说已在当前联系页正文复见；与Sotech共地址不合并。 证据：[1](https://stlconnext.it/wp-content/uploads/2023/09/Case-History-Color-fer-Spa-Gruppo-Selini.pdf) [2](https://stlconnext.it/contatti/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-218 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@stlconnext.it
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：info@stlconnext.it（旧官方PDF公开；历史入口待核；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 ## 四、品牌与技术栈
 

@@ -11604,10 +11604,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-756",
     "legacy_source_label": "MikroTik 官方培训中心名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.fmsweb.de",
+    "record_urls": [
+      "https://www.fmsweb.de/kontakt/",
+      "https://mum.mikrotik.com/presentations/HU11/patrik.pdf",
+      "https://www.linkedin.com/in/patrik-schaub-25995647/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-239",
+        "name": "Patrik Schaub",
+        "country": "德国",
+        "email": "info@fmsweb.de",
+        "site": "https://www.fmsweb.de",
+        "level": "official",
+        "note": "FMS现官网联系页正文总邮箱与+497612926500匹配。2011 MUM PDF搜索把Patrik Schaub与FMS及同电话邮箱相连；LinkedIn搜索链接fmsweb.de/mikrotik-shop.de，转发sales邮箱，但未宣称个人现任采购。与A083/B141及B149共享公司入口，个人/公司记录不自动合并；主表姓名Patrik与历史A083说明Patrick拼法差异保留待核。",
+        "quote": "官网：info@fmsweb.de / +49 761 2926500；2011 PDF搜索：by Patrik Schaub / FMS Internetservice",
+        "sources": [
+          [
+            1,
+            "https://www.fmsweb.de/kontakt/"
+          ],
+          [
+            2,
+            "https://mum.mikrotik.com/presentations/HU11/patrik.pdf"
+          ],
+          [
+            3,
+            "https://www.linkedin.com/in/patrik-schaub-25995647/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[29]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "0b40faf2b462cbbd0af6b04b4421edc7de52311e",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11814,10 +11854,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-770",
     "legacy_source_label": "Netonix 官方分销/代理名录",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.varia.org",
+    "record_urls": [
+      "https://www.varia.org/en/imprint/",
+      "https://www.varia.org/en/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-234",
+        "name": "Varia Group",
+        "country": "德国",
+        "email": "info@varia.org",
+        "site": "https://www.varia.org",
+        "level": "official",
+        "note": "旧/en/kontakt/实际404，改查有效/en/imprint/正文：VARIA System GmbH、Chemnitz、HRB26881、DE279278184、Sven Grimpe/Sven Huth。与A031公司名/官网属于强关联候选，不因品牌别名擅自合并或变号，前49不改。既有Netonix/Vitesse特批保留仍有效，不能说同Marvell芯片。",
+        "quote": "E-Mail: info@varia.org / VARIA System GmbH / Chemnitz Local Court HRB 26881",
+        "sources": [
+          [
+            1,
+            "https://www.varia.org/en/imprint/"
+          ],
+          [
+            2,
+            "https://www.varia.org/en/kontakt/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[24]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eec7c6e05cbca349da01a713ed7ee22018d59496",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13013,9 +13088,54 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-823",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
     "site_lead": "satelithuset.se",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf",
+      "https://mum.mikrotik.com/presentations/PL10/leo.pdf",
+      "https://www.linkedin.com/in/leo-de-geer-826693/",
+      "https://www.mikrotik.se/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-236",
+        "name": "Leo De Geer",
+        "country": "瑞典",
+        "email": "support@mikrotik.se",
+        "site": "https://www.linkedin.com/in/leo-de-geer-826693/",
+        "level": "official-pdf-historical",
+        "note": "MikroTik官方托管2007 MUM演讲PDF正文把Leo De Geer与Satellithuset、support邮箱及+46 705915987相连；2010 PDF搜索同邮箱及主表+46 325660650。年代很旧，只作历史待核入口，不当现在直联。mikrotik.se当前跳转routerboard.se；LinkedIn搜索现单位Tagghajen holding AB，不据此认定仍在原公司。保留主表原网站satelithuset.se，LinkedIn只作备用。与B297公司关联线索，不合并。",
+        "quote": "2007 PDF：Satellithuset i Limmared AB / Leo De Geer / support@mikrotik.se / +46 705 915987",
+        "sources": [
+          [
+            1,
+            "https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf"
+          ],
+          [
+            2,
+            "https://mum.mikrotik.com/presentations/PL10/leo.pdf"
+          ],
+          [
+            3,
+            "https://www.linkedin.com/in/leo-de-geer-826693/"
+          ],
+          [
+            4,
+            "https://www.mikrotik.se/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[26]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13042,10 +13162,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-825",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
-    "site_lead": "engitech.ch",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.engitech.ch",
+    "record_urls": [
+      "https://www.engitech.ch/en/contact-us",
+      "https://mum.mikrotik.com/presentations/FR19/presentation_6674_1556564748.pdf",
+      "https://www.linkedin.com/in/philippe-robert-8121b968/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-237",
+        "name": "Philippe ROBERT",
+        "country": "瑞士",
+        "email": "office@engitech.ch",
+        "site": "https://www.engitech.ch",
+        "level": "official",
+        "note": "Engitech现官网联系页正文总邮箱及+41763264000匹配原电话；Carouge地址不自动改Geneve城市。2019 MUM官方PDF搜索把Philippe ROBERT/Engitech Genève与p.robert@engitech.ch相连，但未抓PDF正文，个人邮箱只历史待核，主用现公司总邮箱，不冒称个人在职确认。与B299公司入口相同，不等于个人记录可自动合并。",
+        "quote": "现官网：Email us: office@engitech.ch / +41763264000；2019 PDF搜索：Philippe ROBERT / ENGITECH S.A., Genève",
+        "sources": [
+          [
+            1,
+            "https://www.engitech.ch/en/contact-us"
+          ],
+          [
+            2,
+            "https://mum.mikrotik.com/presentations/FR19/presentation_6674_1556564748.pdf"
+          ],
+          [
+            3,
+            "https://www.linkedin.com/in/philippe-robert-8121b968/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[27]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13162,10 +13322,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-833",
     "legacy_source_label": "MikroTik 官方培训伙伴/顾问名录",
-    "site_lead": "mindenamimikrotik.hu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://mindenamimikrotik.hu",
+    "record_urls": [
+      "https://mindenamimikrotik.hu/kapcsolat/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-235",
+        "name": "László Kalapos",
+        "country": "匈牙利",
+        "email": "info@mindenamimikrotik.hu",
+        "site": "https://mindenamimikrotik.hu",
+        "level": "official",
+        "note": "官网联系页明确Infofutár-Mikrotech Kft/Miskolc、Kalapos László与+36202956414直联，无客服转接；总邮箱是该业务入口，不是推测个人邮箱。与A013姓名、品牌、电话和邮箱一致，列重复候选强提示但不擅合并、不改前49。训练资质仅官网自述，不替代有效证书核验。",
+        "quote": "info@mindenamimikrotik.hu / Kalapos László / +36202956414 / Infofutár-Mikrotech Kft.",
+        "sources": [
+          [
+            1,
+            "https://mindenamimikrotik.hu/kapcsolat/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[25]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17270,10 +17460,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-981",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.omniconnect.it",
+    "record_urls": [
+      "https://www.omniconnect.it/contatti/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-210",
+        "name": "OMNICONNECT srl",
+        "country": "意大利",
+        "email": "info@omniconnect.it",
+        "site": "https://www.omniconnect.it",
+        "level": "official",
+        "note": "官网联系页匹配Pontedera，电话+39 0587 211988；选正文而非搜索页脚其他电话。",
+        "quote": "info@omniconnect.it / Via Salvo D’Acquisto, 40/v / 56025 Pontedera",
+        "sources": [
+          [
+            1,
+            "https://www.omniconnect.it/contatti/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[0]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "378eba1c105bc925c054f4f6b33aa42c090b5c65",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17285,10 +17505,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-982",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "http://www.pamufficio.it",
+    "record_urls": [
+      "http://www.pamufficio.it/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-211",
+        "name": "PAM UFFICIO Srl",
+        "country": "意大利",
+        "email": "info@pamufficio.it",
+        "site": "http://www.pamufficio.it",
+        "level": "official",
+        "note": "官网正文匹配Messina/Tremestieri，电话+39 090 671001。",
+        "quote": "info@pamufficio.it / C.da Filangeri Pistunina / Messina",
+        "sources": [
+          [
+            1,
+            "http://www.pamufficio.it/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[1]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "378eba1c105bc925c054f4f6b33aa42c090b5c65",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17301,9 +17551,49 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-983",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.paginebianche.it/pomezia/s-c-e-telecomunicazioni.3371943",
+      "https://www.paginegialle.it/pomezia-rm/telecomunicazione-impianto-ingrosso/s.c.e.-telecomunicazioni",
+      "https://www.reportaziende.it/sce_telecomunicazioni_srl_o_in_forma_abbreviata_scesrl_rm_08399381006"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-212",
+        "name": "S.C.E Telecomunicazioni S.r.l",
+        "country": "意大利",
+        "email": "",
+        "site": "",
+        "level": "leads-only",
+        "note": "仅目录搜索摘要：Pomezia Via Urbano Rattazzi 3，电话06 91801489；ReportAziende税号08399381006。查姓名+城市+邮箱/LinkedIn仍未找到可匹配官网或邮箱；sce.it位于Modena、scea.it位于Zevio，不能冒用。同名排除不代表全网穷尽；保留A及原伙伴入口，补目录电话。",
+        "quote": "搜索摘要：S.C.E. Telecomunicazioni / Pomezia / 06 91801489",
+        "sources": [
+          [
+            1,
+            "https://www.paginebianche.it/pomezia/s-c-e-telecomunicazioni.3371943"
+          ],
+          [
+            2,
+            "https://www.paginegialle.it/pomezia-rm/telecomunicazione-impianto-ingrosso/s.c.e.-telecomunicazioni"
+          ],
+          [
+            3,
+            "https://www.reportaziende.it/sce_telecomunicazioni_srl_o_in_forma_abbreviata_scesrl_rm_08399381006"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[2]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "378eba1c105bc925c054f4f6b33aa42c090b5c65",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17330,10 +17620,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-985",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.sfera-srl.it",
+    "record_urls": [
+      "https://distrettoinformatica.it/associati/sfera-informatica-strumentazione-srl/",
+      "https://www.sfera-srl.it/reti-locali/bari/puglia/",
+      "https://www.sfera-srl.it/contatti/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-213",
+        "name": "Sfera Informatica & Strumentazione S.r.l.",
+        "country": "意大利",
+        "email": "info@sfera-srl.it",
+        "site": "https://www.sfera-srl.it",
+        "level": "association",
+        "note": "邮箱在地区信息产业协会成员页正文确认，电话0805016393，地址Modugno(BA)。官网旧服务页与/contatti/跳回首页；旧服务页搜索同邮箱，但本轮未从当前官网正文确认。总部所在Bari省不等于主表城市应自动更改。",
+        "quote": "info@sfera-srl.it / Sfera Informatica & Strumentazione srl / Modugno (BA)",
+        "sources": [
+          [
+            1,
+            "https://distrettoinformatica.it/associati/sfera-informatica-strumentazione-srl/"
+          ],
+          [
+            2,
+            "https://www.sfera-srl.it/reti-locali/bari/puglia/"
+          ],
+          [
+            3,
+            "https://www.sfera-srl.it/contatti/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[3]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17345,10 +17675,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-986",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://sielco.it",
+    "record_urls": [
+      "https://sielco.it/contatti/",
+      "https://www.linkedin.com/company/si-el-co-srl/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-214",
+        "name": "SI.EL.CO. S.R.L.",
+        "country": "意大利",
+        "email": "info@sielco.it",
+        "site": "https://sielco.it",
+        "level": "official",
+        "note": "官网联系页匹配Buguggiate Via Rossini 11/A，电话+39 0332 836211；LinkedIn为公司备用入口，不采用外部营销邮箱。",
+        "quote": "info@sielco.it / Via Rossini, 11/A / 21020 Buguggiate",
+        "sources": [
+          [
+            1,
+            "https://sielco.it/contatti/"
+          ],
+          [
+            2,
+            "https://www.linkedin.com/company/si-el-co-srl/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[4]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17360,10 +17725,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-987",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.simnt.it",
+    "record_urls": [
+      "https://www.simnt.it/",
+      "https://www.simnt.it/author/simnt/",
+      "https://www.crunchbase.com/organization/simnt"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-215",
+        "name": "SIM NT srl",
+        "country": "意大利",
+        "email": "info@simnt.it",
+        "site": "https://www.simnt.it",
+        "level": "official-search-only",
+        "note": "官网当前正文显示关闭；旧author页邮箱仅搜索摘要可见，实际抓取404；Crunchbase搜索摘要同邮箱。不作为当前可用邮箱。旧页Via Ugo La Malfa 3 Bari、0805640511、税号04863810729；其他目录门牌7存在差异。保留旧线索待核，不采用遮罩/推测邮箱。",
+        "quote": "当前首页：site has been closed by administrator / 旧页搜索摘要：info@simnt.it",
+        "sources": [
+          [
+            1,
+            "https://www.simnt.it/"
+          ],
+          [
+            2,
+            "https://www.simnt.it/author/simnt/"
+          ],
+          [
+            3,
+            "https://www.crunchbase.com/organization/simnt"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[5]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17375,10 +17780,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-988",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.sotech.srl",
+    "record_urls": [
+      "https://www.sotech.srl/contatti/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-216",
+        "name": "SOTECH srl",
+        "country": "意大利",
+        "email": "info@sotech.srl",
+        "site": "https://www.sotech.srl",
+        "level": "official",
+        "note": "官网联系页：运营地址Via San Felice 15/A Calvisano，注册地址Via Achille Grandi 43/B Brescia；电话+39 030 2330226，税号04250940980。和STL Connext共地址不是同一客户证明；不合并，不用PEC作开发邮箱。",
+        "quote": "info@sotech.srl / Via San Felice, 15/A / Calvisano",
+        "sources": [
+          [
+            1,
+            "https://www.sotech.srl/contatti/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[6]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17390,10 +17825,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-989",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "http://www.ssc.srl",
+    "record_urls": [
+      "http://www.ssc.srl/ssc_privacy.html",
+      "http://www.ssc.srl/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-217",
+        "name": "SSC – Software Servizi Consulting Srl",
+        "country": "意大利",
+        "email": "info@ssc.srl",
+        "site": "http://www.ssc.srl",
+        "level": "official",
+        "note": "官网隐私页公开普通控制者联系邮箱info（不是专用privacy/PEC）；Viale di Porta Vercellina 7/9 Milano匹配。不是已确认采购人。",
+        "quote": "info@ssc.srl / Viale di Porta Vercellina 7/9 / Milano",
+        "sources": [
+          [
+            1,
+            "http://www.ssc.srl/ssc_privacy.html"
+          ],
+          [
+            2,
+            "http://www.ssc.srl/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[7]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17405,10 +17875,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-990",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://stlconnext.it",
+    "record_urls": [
+      "https://stlconnext.it/wp-content/uploads/2023/09/Case-History-Color-fer-Spa-Gruppo-Selini.pdf",
+      "https://stlconnext.it/contatti/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-218",
+        "name": "STL Connext – Società Telefonica Lombarda SRL",
+        "country": "意大利",
+        "email": "info@stlconnext.it",
+        "site": "https://stlconnext.it",
+        "level": "official-pdf-historical",
+        "note": "2023年官网案例PDF正文末尾确认邮箱；当前联系页正文仅电话+39 030 2685411、地址Via Achille Grandi 43/B及表单，搜索页脚同邮箱。来源为旧官方PDF，不说已在当前联系页正文复见；与Sotech共地址不合并。",
+        "quote": "2023 PDF：info@stlconnext.it / Via Achille Grandi 43/B / Brescia",
+        "sources": [
+          [
+            1,
+            "https://stlconnext.it/wp-content/uploads/2023/09/Case-History-Color-fer-Spa-Gruppo-Selini.pdf"
+          ],
+          [
+            2,
+            "https://stlconnext.it/contatti/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[8]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17420,10 +17925,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-991",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=italy）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.storelink.it",
+    "record_urls": [
+      "https://www.storelink.it/it/dove-siamo"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-219",
+        "name": "STORELINK S.R.L.",
+        "country": "意大利",
+        "email": "sales@storelink.it",
+        "site": "https://www.storelink.it",
+        "level": "official",
+        "note": "官网dove-siamo页有sales及info@storelink.it，销售入口优先；电话+39 030 601670(Brescia)、+39 06 40800163(Roma)，Brescia地址Via Berardo Maggi 9/A。行政邮箱不作主入口。",
+        "quote": "sales@storelink.it / info@storelink.it / Brescia",
+        "sources": [
+          [
+            1,
+            "https://www.storelink.it/it/dove-siamo"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[9]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "6b5d02caa3c2327472996e98b7a0b95900d9a993",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17480,10 +18015,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-995",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=spain）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.grupolineasycables.com",
+    "record_urls": [
+      "https://www.grupolineasycables.com/index.php/contacto"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-220",
+        "name": "Lineas y Cables S.A.",
+        "country": "西班牙",
+        "email": "lyc@lineasycables.com",
+        "site": "https://www.grupolineasycables.com",
+        "level": "official",
+        "note": "官网联系页正文邮箱与+34 915121320、Calle Virgilio 19 Pozuelo de Alarcón Madrid 28223匹配；不用地图噪声当邮箱。",
+        "quote": "lyc@lineasycables.com / Calle Virgilio, 19 / Pozuelo de Alarcón",
+        "sources": [
+          [
+            1,
+            "https://www.grupolineasycables.com/index.php/contacto"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[10]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "b74299aaf1a09d13aaf728ea82273d6614af0753",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17525,10 +18090,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-998",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=netherlands）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://pijlsolutions.nl",
+    "record_urls": [
+      "https://pijlsolutions.nl/contact"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-221",
+        "name": "Pijl Solutions",
+        "country": "荷兰",
+        "email": "info@pijlsolutions.nl",
+        "site": "https://pijlsolutions.nl",
+        "level": "official",
+        "note": "官网联系页总邮箱一致；0174 766020、Middel Broekweg 67 Honselersdijk匹配。销售锚文字verkoop@pijlsolutions.nl但href为sales@pijlsolutions.nl，两者冲突不擅选；helpdesk仅支持。",
+        "quote": "info@pijlsolutions.nl / 显示verkoop@pijlsolutions.nl → mailto:sales@pijlsolutions.nl",
+        "sources": [
+          [
+            1,
+            "https://pijlsolutions.nl/contact"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[11]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "b74299aaf1a09d13aaf728ea82273d6614af0753",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17570,10 +18165,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1001",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=austria）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.quattrosec.com",
+    "record_urls": [
+      "https://www.quattrosec.com/en/company/imprint.html"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-222",
+        "name": "quattroSEC Gmbh",
+        "country": "奥地利",
+        "email": "office@quattrosec.com",
+        "site": "https://www.quattrosec.com",
+        "level": "official-obfuscated",
+        "note": "官网imprint明确office(at)quattroSEC.com，可逆规范化(at)为@并统一域名大小写；不是按姓名猜格式。Zipf 65 Campus Q、FN307862p、UID ATU66721826；Ernst Hofmann为公开负责人，不推个人邮箱。",
+        "quote": "office(at)quattroSEC.com / Zipf 65 Campus Q / Ernst Hofmann",
+        "sources": [
+          [
+            1,
+            "https://www.quattrosec.com/en/company/imprint.html"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[12]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "3eb0558e9e43aadd13b6f54f064254c547df89d3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17585,10 +18210,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1002",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=austria）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://sabel-international.com",
+    "record_urls": [
+      "https://sabel-international.com/contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-223",
+        "name": "S.A.B.E.L. Handels GmbH",
+        "country": "奥地利",
+        "email": "office@sabel-international.com",
+        "site": "https://sabel-international.com",
+        "level": "official",
+        "note": "官网联系页匹配Vienna，电话+43 660 1142986，FN337114g、UID ATU65303218。忽略RocketReach邮箱格式推测。",
+        "quote": "office@sabel-international.com / Hietzinger Hauptstrasse 22 / Vienna",
+        "sources": [
+          [
+            1,
+            "https://sabel-international.com/contact/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[13]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "3eb0558e9e43aadd13b6f54f064254c547df89d3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17600,10 +18255,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1003",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=austria）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.it-revolutions.com",
+    "record_urls": [
+      "https://www.it-revolutions.com/impressum/",
+      "https://www.it-revolutions.com/kontaktieren-sie-uns/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-224",
+        "name": "Salzgeber GmbH",
+        "country": "奥地利",
+        "email": "office@it-revolutions.com",
+        "site": "https://www.it-revolutions.com",
+        "level": "official",
+        "note": "Salzgeber官网imprint匹配Tulln Dr. Billrothstrasse 12A、FN257425t、UID ATU61648809，电话+43 1 3190074-21；contact页有表单。德国Procom邮箱不是该公司。",
+        "quote": "office@it-revolutions.com / Dr. Billrothstrasse 12A / 3430 Tulln",
+        "sources": [
+          [
+            1,
+            "https://www.it-revolutions.com/impressum/"
+          ],
+          [
+            2,
+            "https://www.it-revolutions.com/kontaktieren-sie-uns/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[14]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "3eb0558e9e43aadd13b6f54f064254c547df89d3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17615,10 +18305,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1004",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=switzerland）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://webshop.dds.ch",
+    "record_urls": [
+      "https://webshop.dds.ch/",
+      "https://www.dds.ch/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-225",
+        "name": "DDS Netcom AG",
+        "country": "瑞士",
+        "email": "info@dds.ch",
+        "site": "https://webshop.dds.ch",
+        "level": "official-obfuscated",
+        "note": "dds.ch实际跳转官网商城，正文DDS NETCOM AG、Allmendstrasse 8 CH-8320 Fehraltorf及info(at)dds.ch，可逆规范化不是猜测。电话正文同时有+41 43 3552211和+41 44 3552211；不选其中一个覆盖主表旧电话。商城品牌信号不证明具体芯片或采购。",
+        "quote": "info(at)dds.ch / DDS NETCOM AG / Allmendstrasse 8 / Fehraltorf",
+        "sources": [
+          [
+            1,
+            "https://webshop.dds.ch/"
+          ],
+          [
+            2,
+            "https://www.dds.ch/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[15]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "52606bb3ce903d61525396e2ad1d13d2907c9a1c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17630,10 +18355,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1005",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=switzerland）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.fiveinformatik.ch",
+    "record_urls": [
+      "https://www.fiveinformatik.ch/de/kontakt-support",
+      "https://www.fiveinformatik.ch/de"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-226",
+        "name": "FIVE Informatik AG",
+        "country": "瑞士",
+        "email": "info@fiveinformatik.ch",
+        "site": "https://www.fiveinformatik.ch",
+        "level": "official",
+        "note": "官网联系/支持页给总邮箱与+41 31 8582323，Bahnhofstrasse 5 CH-3322 Schönbühl；不用support专线替代普通商务入口。搜索主页另列Kathrin Engler销售/营销，但本轮未抓正文确认个人邮箱，未列入主联系字段。",
+        "quote": "info@fiveinformatik.ch / Bahnhofstrasse 5 / CH-3322 Schönbühl",
+        "sources": [
+          [
+            1,
+            "https://www.fiveinformatik.ch/de/kontakt-support"
+          ],
+          [
+            2,
+            "https://www.fiveinformatik.ch/de"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[16]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "52606bb3ce903d61525396e2ad1d13d2907c9a1c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17646,9 +18406,49 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1006",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=poland）",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://knt.biz.pl/kontakt",
+      "https://www.zoominfo.com/c/knt-technology-sp-z-oo/558101916",
+      "http://krs.infoveriti.pl/Knt,Technology,Olsztyn,Udzialowcy,KRS,0000755293.html"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-227",
+        "name": "KNT Technology SP. Z O.O.",
+        "country": "波兰",
+        "email": "biuro@knt.biz.pl",
+        "site": "https://knt.biz.pl",
+        "level": "official-identity-pending",
+        "note": "官网KNT联系页确认邮箱、+48 508343846、NIP7010890163，但地址为Grzybowska 87 Warszawa，主表为Olsztyn。ZoomInfo搜索摘要将同名、同域名、同电话与Olsztyn Towarowa20b相连；KRS历史目录搜索列KRS0000755293/Olsztyn，但尚未以登记税号完整桥接。作为候选联系待核，不静默改城市，不认定已迁址。",
+        "quote": "官网：biuro@knt.biz.pl / Grzybowska 87 / Warszawa / NIP 7010890163；第三方搜索摘要：Ul. Towarowa 20b, Olsztyn / +48 508343846 / knt.biz.pl",
+        "sources": [
+          [
+            1,
+            "https://knt.biz.pl/kontakt"
+          ],
+          [
+            2,
+            "https://www.zoominfo.com/c/knt-technology-sp-z-oo/558101916"
+          ],
+          [
+            3,
+            "http://krs.infoveriti.pl/Knt,Technology,Olsztyn,Udzialowcy,KRS,0000755293.html"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[17]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "52606bb3ce903d61525396e2ad1d13d2907c9a1c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17660,10 +18460,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1007",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=poland）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.nomios.pl",
+    "record_urls": [
+      "https://www.nomios.pl/firma/informacje-o-firmie/",
+      "https://www.nomios.pl/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-228",
+        "name": "Nomios Poland Sp. z o. o.",
+        "country": "波兰",
+        "email": "info@nomios.pl",
+        "site": "https://www.nomios.pl",
+        "level": "official",
+        "note": "官网公司信息页正文确认邮箱，不再仅靠Facebook摘要。Puławska 537 Warszawa、+48 22 5671740、KRS0000406699、NIP1070021226匹配；普通contact页仅表单/电话。",
+        "quote": "Email: info@nomios.pl / Nomios Poland Sp. z o.o. / Puławska 537",
+        "sources": [
+          [
+            1,
+            "https://www.nomios.pl/firma/informacje-o-firmie/"
+          ],
+          [
+            2,
+            "https://www.nomios.pl/kontakt/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[18]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "52606bb3ce903d61525396e2ad1d13d2907c9a1c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17675,10 +18510,45 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1008",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=poland）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://stovaris.pl",
+    "record_urls": [
+      "https://b2b.stovaris.pl/en/contact,12",
+      "https://stovaris.pl/en/kontakt/biuro-i-marketing/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-229",
+        "name": "Stovaris Sp. z o.o.",
+        "country": "波兰",
+        "email": "esklep@stovaris.pl",
+        "site": "https://stovaris.pl",
+        "level": "official-store",
+        "note": "官方B2B商城联系页正文公开商城邮箱；+48 22 2484000，Staniewicka 12 Warszawa，NIP5242877169/KRS0000758346；不是采购联系人。搜索办公室页具名邮箱未抓取正文，本轮不用其作为已确认主入口。",
+        "quote": "esklep@stovaris.pl / Stovaris / Staniewicka 12 / Warszawa",
+        "sources": [
+          [
+            1,
+            "https://b2b.stovaris.pl/en/contact,12"
+          ],
+          [
+            2,
+            "https://stovaris.pl/en/kontakt/biuro-i-marketing/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[19]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "52606bb3ce903d61525396e2ad1d13d2907c9a1c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17720,10 +18590,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1011",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=czechia）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.4service.cz",
+    "record_urls": [
+      "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/410506888",
+      "https://www.4service.cz/",
+      "https://www.4service.cz/kontakt"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-230",
+        "name": "4service s.r.o.",
+        "country": "捷克",
+        "email": "sachl@4service.cz",
+        "site": "https://www.4service.cz",
+        "level": "public-register",
+        "note": "捷克国家电子采购供应商注册页正文确认sachl邮箱、IČO28066235、Novohradská745/21 České Budějovice、+420605275094及官网。官网搜索摘要另有it@4service.cz、helpdesk@4service.cz、janacek@4service.cz，正文抽取未复见；/kontakt为404。主邮箱为公共登记入口，不是公司官网正文，也不据姓推定岗位。",
+        "quote": "Official name: 4service s.r.o. / ORGANIZATION ID NUMBER: 28066235 / EMAIL: sachl@4service.cz",
+        "sources": [
+          [
+            1,
+            "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/410506888"
+          ],
+          [
+            2,
+            "https://www.4service.cz/"
+          ],
+          [
+            3,
+            "https://www.4service.cz/kontakt"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[20]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "279d78779bb8571fefe1888210fbf9b189b391cb",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17750,10 +18660,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1013",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=norway）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://spectoremote.com",
+    "record_urls": [
+      "https://spectoremote.com/contact-us/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-231",
+        "name": "Specto Remote AS",
+        "country": "挪威",
+        "email": "post@spectoremote.com",
+        "site": "https://spectoremote.com",
+        "level": "official",
+        "note": "官网contact-us正文区分contact和support邮箱；主选post，总电话+47 23051990(Oslo)，Nils Hansens vei5 Oslo。Bodø另有办公室，不改主表城市。",
+        "quote": "contact: post@spectoremote.com / +47 230 51 990 (Oslo)",
+        "sources": [
+          [
+            1,
+            "https://spectoremote.com/contact-us/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[21]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "bdbac6a37b209f821d3c87a0157d222e35cf3654",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17795,10 +18735,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1016",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=portugal）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.databox.pt",
+    "record_urls": [
+      "https://www.databox.pt/contactos/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-232",
+        "name": "Databox",
+        "country": "葡萄牙",
+        "email": "databox@databox.pt",
+        "site": "https://www.databox.pt",
+        "level": "official",
+        "note": "官网contactos第6块正文确认总邮箱与Massamá地址、+351214308400。采购/产品部门公开Vitor Gama，负责D-Link、Equip、Digitus、Cisco、Level One、TP-Link、Ubiquiti，直线214308442；没有公开其个人邮箱，不猜。另有Cláudia Marques负责HP/HPE ARUBA，214308466；不是已确认SmartByte采购意向。",
+        "quote": "E-mail Geral: databox@databox.pt / Vitor Gama | 214 308 442 | Gestor de Produto - D-Link, Equip, Digitus, Cisco, Level One, TP-Link, Ubiquiti",
+        "sources": [
+          [
+            1,
+            "https://www.databox.pt/contactos/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[22]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "bdbac6a37b209f821d3c87a0157d222e35cf3654",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -17840,10 +18810,50 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1019",
     "legacy_source_label": "Allied Telesis 官方伙伴定位器（?country=hungary）",
-    "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://www.young.hu",
+    "record_urls": [
+      "https://www.young.hu/kapcsolat",
+      "https://www.young.hu/cegbemutato/C80",
+      "https://www.young.hu/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-233",
+        "name": "Young B.T.S. Ltd.",
+        "country": "匈牙利",
+        "email": "info@young.hu",
+        "site": "https://www.young.hu",
+        "level": "official-search-only",
+        "note": "官网联系页搜索索引明确报价/产品信息info@young.hu、+36(1)4522720；中央young@young.hu、+3614522600，Bojtár u80 B1 Budapest，匹配Young BTS。主页及联系页实际抓取均HTTP500，不能说正文已验证。官网公司介绍搜索也公开young；旧个人产品经理新闻不作当前联系人。",
+        "quote": "搜索摘要：Ajánlatkérés, termékinformáció / +36 (1) 452-2720 / info@young.hu / Központi: young@young.hu",
+        "sources": [
+          [
+            1,
+            "https://www.young.hu/kapcsolat"
+          ],
+          [
+            2,
+            "https://www.young.hu/cegbemutato/C80"
+          ],
+          [
+            3,
+            "https://www.young.hu/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[23]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "bdbac6a37b209f821d3c87a0157d222e35cf3654",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -18050,10 +19060,40 @@
     "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-1033",
     "legacy_source_label": "Perle Systems 官方分销名录",
-    "site_lead": "infinitetechnology.ie",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "site_lead": "https://infinitetechnology.ie",
+    "record_urls": [
+      "https://infinitetechnology.ie/contact-infinite-technology/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-238",
+        "name": "Infinite Technology",
+        "country": "爱尔兰",
+        "email": "sales@infinitetechnology.ie",
+        "site": "https://infinitetechnology.ie",
+        "level": "official",
+        "note": "官网联系页Sales显示文字与mailto一致。Enquiries显示info@但mailto为help@infinitetechnology.ie，保留冲突不擅选；主用sales。Dublin +35312939000、Unit E3 Centre Point Business Park一致，不把地图供应商信息当联系邮箱。",
+        "quote": "Sales: sales@infinitetechnology.ie / Dublin HQ: Unit E3, Centre Point Business Park",
+        "sources": [
+          [
+            1,
+            "https://infinitetechnology.ie/contact-infinite-technology/"
+          ]
+        ],
+        "fields_supported": [
+          "入口/联系方式",
+          "网站",
+          "身份匹配（见note限定）"
+        ],
+        "retrieved_on": "2026-09-27",
+        "retrieval_method": "web_search + fetch_page; exact scope and exceptions in note",
+        "quote_convention": "选摘，以 / 分隔不同字段；不表示连续原文。搜索摘要单列，非抓取正文。",
+        "batch_path": "batch/contact_research_2026-09-27_A210-A239.json",
+        "locator": "records[28]",
+        "recorded_on": "2026-09-27"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "19e3da1086af15313625acc967d6009dc1618518",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"

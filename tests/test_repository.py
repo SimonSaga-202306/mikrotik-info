@@ -13,11 +13,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 import audit_repository as audit
-from make_profiles import emails
+from make_profiles import emails, without_contact_evidence
 from numbering import renumber
 
 CSV = '客户名单_反向信号_2026-09.csv'
-BASELINE = '5ac5c56'  # Before this governance/contact-research change.
+BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A239 contact-only allowance.
+CONTACT_BASELINE = 'd17cddc'  # Before R40; only A210–A239 may change this round.
 
 
 def git_file(path):
@@ -40,7 +41,7 @@ class RepositoryTests(unittest.TestCase):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
         identity = lambda r: (r['档案编号'], r['公司名'], r['国家'], r['评级'])
         self.assertEqual(list(map(identity, baseline)), list(map(identity, self.rows)))
-        targets = {f'A-{n:03}' for n in range(200, 210)}
+        targets = {f'A-{n:03}' for n in range(200, 240)}
         for before, after in zip(baseline, self.rows):
             if before['档案编号'] not in targets:
                 self.assertEqual(before, after)
@@ -97,16 +98,77 @@ class RepositoryTests(unittest.TestCase):
             self.assertEqual((e['name'], e['country']), (row['公司名'], row['国家']))
             doc = (ROOT / f'docs/evidence/客户溯源_{e["grade"]}.md').read_text()
             self.assertIn(f'id="{e["code"]}"', doc)
-        batch = json.loads((ROOT / 'batch/contact_research_2026-09-27_A200-A209.json').read_text())['records']
-        self.assertEqual([r['code'] for r in batch], [f'A-{n:03}' for n in range(200, 210)])
-        for r in batch:
-            row = self.by_code[r['code']]
-            self.assertEqual(row['公司名'], r['name'])
-            self.assertTrue(r['quote'] and r['fields_supported'] and r['retrieved_on'])
-            if r['email']:
-                self.assertIn(r['email'], row['入口/联系方式'])
-            for _, u in r['sources']:
-                self.assertIn(u, row['备注'])
+        for low, high in [(200, 210), (210, 240)]:
+            path = ROOT / f'batch/contact_research_2026-09-27_A{low}-A{high-1}.json'
+            batch = json.loads(path.read_text())['records']
+            self.assertEqual([r['code'] for r in batch], [f'A-{n:03}' for n in range(low, high)])
+            for r in batch:
+                row = self.by_code[r['code']]
+                self.assertEqual(row['公司名'], r['name'])
+                self.assertTrue(r['quote'] and r['fields_supported'] and r['retrieved_on'])
+                if r['email']:
+                    self.assertIn(r['email'], row['入口/联系方式'])
+                for _, u in r['sources']:
+                    self.assertIn(u, row['备注'])
+
+    def test_r40_only_three_fields_and_frozen_exports(self):
+        def old(path):
+            return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
+        baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
+        targets = {f'A-{n:03}' for n in range(210, 240)}
+        self.assertEqual(len(baseline), len(self.rows))
+        for before, after in zip(baseline, self.rows):
+            for k in self.header:
+                if before['档案编号'] not in targets or k not in {'网站', '入口/联系方式', '备注'}:
+                    self.assertEqual(before[k], after[k], (before['档案编号'], k))
+        from openpyxl import load_workbook
+        for filename in ['客户分级跟进表_2026-09.xlsx', 'MikroTik_vs_SmartByte_替代对照表.xlsx']:
+            a = load_workbook(io.BytesIO(old(filename)), read_only=True)
+            b = load_workbook(ROOT / filename, read_only=True)
+            self.assertEqual(a.sheetnames, b.sheetnames)
+            allowed_sheets = a.sheetnames[:3] if filename.startswith('客户分级') else ['反向信号名单']
+            for name in a.sheetnames:
+                av, bv = list(a[name].values), list(b[name].values)
+                self.assertEqual(len(av), len(bv))
+                for i, (x, y) in enumerate(zip(av, bv)):
+                    self.assertEqual(len(x), len(y))
+                    for j, (v, w) in enumerate(zip(x, y)):
+                        if not (name in allowed_sheets and i > 0 and x[19] in targets and j in {3, 9, 16}):
+                            self.assertEqual(v, w, (filename, name, i, j))
+            a.close()
+            b.close()
+
+    def test_r40_source_limits_not_silently_promoted(self):
+        records = json.loads((ROOT / 'batch/contact_research_2026-09-27_A210-A239.json').read_text())['records']
+        by_code = {r['code']: r for r in records}
+        expected = {'A-212': 'leads-only', 'A-213': 'association', 'A-215': 'official-search-only',
+                    'A-218': 'official-pdf-historical', 'A-227': 'official-identity-pending',
+                    'A-230': 'public-register', 'A-233': 'official-search-only',
+                    'A-236': 'official-pdf-historical'}
+        for code, level in expected.items():
+            self.assertEqual(by_code[code]['level'], level)
+            self.assertIn(level, self.by_code[code]['备注'])
+        self.assertFalse(by_code['A-212']['email'])
+        for code in ['A-222', 'A-225']:
+            self.assertIn('(at)', by_code[code]['quote'])
+            self.assertEqual(by_code[code]['level'], 'official-obfuscated')
+        self.assertEqual(self.by_code['A-227']['城市'], 'Olsztyn')
+        self.assertEqual(self.by_code['A-227']['网站'], '')
+        self.assertEqual(self.by_code['A-236']['网站'], 'satelithuset.se')
+
+    def test_r40_contact_evidence_cannot_change_strategy_or_mail(self):
+        note = '伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】Campus Q；旧产品经理新闻；bad@example.org'
+        self.assertEqual(without_contact_evidence(note), '伙伴等级：Resell。')
+        self.assertEqual(without_contact_evidence('legacy campus customer'), 'legacy campus customer')
+        for p in (ROOT / 'profile/A').glob('A-*.md'):
+            if not 210 <= int(p.name[2:5]) < 240:
+                continue
+            old = subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{p.relative_to(ROOT)}'], cwd=ROOT).decode()
+            marker = '## 四、品牌与技术栈'
+            self.assertEqual(p.read_text().split(marker, 1)[1], old.split(marker, 1)[1], p.name)
+        young = next((ROOT / 'profile/A').glob('A-233-*.md')).read_text()
+        self.assertIn('- **邮箱**：info@young.hu\n', young)
+        self.assertNotIn('work on A210', young)
 
     def test_office_exports_preserve_base_fields(self):
         from openpyxl import load_workbook
@@ -139,9 +201,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 40):
+        for n in range(1, 41):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 40)  # 39 + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 41)  # 40 + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
@@ -155,7 +217,8 @@ class RepositoryTests(unittest.TestCase):
 
     def test_generator_isolated_and_followup_guard(self):
         # Runtime test against real production generator, in an isolated directory.
-        sample = [self.by_code['A-001'], self.by_code['B-001'], self.by_code['C-001']]
+        sample = [self.by_code['A-001'], self.by_code['B-001'], self.by_code['C-001'],
+                  self.by_code['A-222'], self.by_code['A-233']]
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
             with (root / CSV).open('w', encoding='utf-8-sig', newline='') as f:
@@ -166,6 +229,10 @@ class RepositoryTests(unittest.TestCase):
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             p = next((root / 'profile/C').glob('*.md'))
             self.assertIn(f'C 级细分：`{sample[2]["C级细分"]}`', p.read_text())
+            for code in ['A-222', 'A-233']:
+                generated = next((root / 'profile/A').glob(code + '-*.md'))
+                checked = next((ROOT / 'profile/A').glob(code + '-*.md'))
+                self.assertEqual(generated.read_bytes(), checked.read_bytes())
             frozen = {str(p): p.read_bytes() for p in (root / 'profile').rglob('*.md')}
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             self.assertEqual(frozen, {str(p): p.read_bytes() for p in (root / 'profile').rglob('*.md')})

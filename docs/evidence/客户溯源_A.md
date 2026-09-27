@@ -3063,391 +3063,509 @@
 <a id="A-210"></a>
 ## A-210 · OMNICONNECT srl · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-981`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.omniconnect.it
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[0]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@omniconnect.it；投递未测试。
+  - 说明：官网联系页匹配Pontedera，电话+39 0587 211988；选正文而非搜索页脚其他电话。
+  - 保留原文：info@omniconnect.it / Via Salvo D’Acquisto, 40/v / 56025 Pontedera
+  - [1](https://www.omniconnect.it/contatti/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-211"></a>
 ## A-211 · PAM UFFICIO Srl · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-982`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：http://www.pamufficio.it
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[1]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@pamufficio.it；投递未测试。
+  - 说明：官网正文匹配Messina/Tremestieri，电话+39 090 671001。
+  - 保留原文：info@pamufficio.it / C.da Filangeri Pistunina / Messina
+  - [1](http://www.pamufficio.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-212"></a>
 ## A-212 · S.C.E Telecomunicazioni S.r.l · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-983`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`378eba1c105bc925c054f4f6b33aa42c090b5c65`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[2]`；记录日期 2026-09-27；来源等级 `leads-only`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：仅目录搜索摘要：Pomezia Via Urbano Rattazzi 3，电话06 91801489；ReportAziende税号08399381006。查姓名+城市+邮箱/LinkedIn仍未找到可匹配官网或邮箱；sce.it位于Modena、scea.it位于Zevio，不能冒用。同名排除不代表全网穷尽；保留A及原伙伴入口，补目录电话。
+  - 保留原文：搜索摘要：S.C.E. Telecomunicazioni / Pomezia / 06 91801489
+  - [1](https://www.paginebianche.it/pomezia/s-c-e-telecomunicazioni.3371943)
+  - [2](https://www.paginegialle.it/pomezia-rm/telecomunicazione-impianto-ingrosso/s.c.e.-telecomunicazioni)
+  - [3](https://www.reportaziende.it/sce_telecomunicazioni_srl_o_in_forma_abbreviata_scesrl_rm_08399381006)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-213"></a>
 ## A-213 · Sfera Informatica & Strumentazione S.r.l. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-985`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.sfera-srl.it
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[3]`；记录日期 2026-09-27；来源等级 `association`。
+  - 公开邮箱：info@sfera-srl.it；投递未测试。
+  - 说明：邮箱在地区信息产业协会成员页正文确认，电话0805016393，地址Modugno(BA)。官网旧服务页与/contatti/跳回首页；旧服务页搜索同邮箱，但本轮未从当前官网正文确认。总部所在Bari省不等于主表城市应自动更改。
+  - 保留原文：info@sfera-srl.it / Sfera Informatica & Strumentazione srl / Modugno (BA)
+  - [1](https://distrettoinformatica.it/associati/sfera-informatica-strumentazione-srl/)
+  - [2](https://www.sfera-srl.it/reti-locali/bari/puglia/)
+  - [3](https://www.sfera-srl.it/contatti/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-214"></a>
 ## A-214 · SI.EL.CO. S.R.L. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-986`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://sielco.it
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[4]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@sielco.it；投递未测试。
+  - 说明：官网联系页匹配Buguggiate Via Rossini 11/A，电话+39 0332 836211；LinkedIn为公司备用入口，不采用外部营销邮箱。
+  - 保留原文：info@sielco.it / Via Rossini, 11/A / 21020 Buguggiate
+  - [1](https://sielco.it/contatti/)
+  - [2](https://www.linkedin.com/company/si-el-co-srl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-215"></a>
 ## A-215 · SIM NT srl · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-987`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.simnt.it
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[5]`；记录日期 2026-09-27；来源等级 `official-search-only`。
+  - 公开邮箱：info@simnt.it；投递未测试。
+  - 说明：官网当前正文显示关闭；旧author页邮箱仅搜索摘要可见，实际抓取404；Crunchbase搜索摘要同邮箱。不作为当前可用邮箱。旧页Via Ugo La Malfa 3 Bari、0805640511、税号04863810729；其他目录门牌7存在差异。保留旧线索待核，不采用遮罩/推测邮箱。
+  - 保留原文：当前首页：site has been closed by administrator / 旧页搜索摘要：info@simnt.it
+  - [1](https://www.simnt.it/)
+  - [2](https://www.simnt.it/author/simnt/)
+  - [3](https://www.crunchbase.com/organization/simnt)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-216"></a>
 ## A-216 · SOTECH srl · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-988`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.sotech.srl
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[6]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@sotech.srl；投递未测试。
+  - 说明：官网联系页：运营地址Via San Felice 15/A Calvisano，注册地址Via Achille Grandi 43/B Brescia；电话+39 030 2330226，税号04250940980。和STL Connext共地址不是同一客户证明；不合并，不用PEC作开发邮箱。
+  - 保留原文：info@sotech.srl / Via San Felice, 15/A / Calvisano
+  - [1](https://www.sotech.srl/contatti/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-217"></a>
 ## A-217 · SSC – Software Servizi Consulting Srl · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-989`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：http://www.ssc.srl
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[7]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@ssc.srl；投递未测试。
+  - 说明：官网隐私页公开普通控制者联系邮箱info（不是专用privacy/PEC）；Viale di Porta Vercellina 7/9 Milano匹配。不是已确认采购人。
+  - 保留原文：info@ssc.srl / Viale di Porta Vercellina 7/9 / Milano
+  - [1](http://www.ssc.srl/ssc_privacy.html)
+  - [2](http://www.ssc.srl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-218"></a>
 ## A-218 · STL Connext – Società Telefonica Lombarda SRL · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-990`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://stlconnext.it
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[8]`；记录日期 2026-09-27；来源等级 `official-pdf-historical`。
+  - 公开邮箱：info@stlconnext.it；投递未测试。
+  - 说明：2023年官网案例PDF正文末尾确认邮箱；当前联系页正文仅电话+39 030 2685411、地址Via Achille Grandi 43/B及表单，搜索页脚同邮箱。来源为旧官方PDF，不说已在当前联系页正文复见；与Sotech共地址不合并。
+  - 保留原文：2023 PDF：info@stlconnext.it / Via Achille Grandi 43/B / Brescia
+  - [1](https://stlconnext.it/wp-content/uploads/2023/09/Case-History-Color-fer-Spa-Gruppo-Selini.pdf)
+  - [2](https://stlconnext.it/contatti/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-219"></a>
 ## A-219 · STORELINK S.R.L. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-991`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=italy）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.storelink.it
 - 精确同名同国别首次入库提交：`6b5d02caa3c2327472996e98b7a0b95900d9a993`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[9]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：sales@storelink.it；投递未测试。
+  - 说明：官网dove-siamo页有sales及info@storelink.it，销售入口优先；电话+39 030 601670(Brescia)、+39 06 40800163(Roma)，Brescia地址Via Berardo Maggi 9/A。行政邮箱不作主入口。
+  - 保留原文：sales@storelink.it / info@storelink.it / Brescia
+  - [1](https://www.storelink.it/it/dove-siamo)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-220"></a>
 ## A-220 · Lineas y Cables S.A. · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-995`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=spain）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.grupolineasycables.com
 - 精确同名同国别首次入库提交：`b74299aaf1a09d13aaf728ea82273d6614af0753`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[10]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：lyc@lineasycables.com；投递未测试。
+  - 说明：官网联系页正文邮箱与+34 915121320、Calle Virgilio 19 Pozuelo de Alarcón Madrid 28223匹配；不用地图噪声当邮箱。
+  - 保留原文：lyc@lineasycables.com / Calle Virgilio, 19 / Pozuelo de Alarcón
+  - [1](https://www.grupolineasycables.com/index.php/contacto)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-221"></a>
 ## A-221 · Pijl Solutions · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-998`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=netherlands）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://pijlsolutions.nl
 - 精确同名同国别首次入库提交：`b74299aaf1a09d13aaf728ea82273d6614af0753`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[11]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@pijlsolutions.nl；投递未测试。
+  - 说明：官网联系页总邮箱一致；0174 766020、Middel Broekweg 67 Honselersdijk匹配。销售锚文字verkoop@pijlsolutions.nl但href为sales@pijlsolutions.nl，两者冲突不擅选；helpdesk仅支持。
+  - 保留原文：info@pijlsolutions.nl / 显示verkoop@pijlsolutions.nl → mailto:sales@pijlsolutions.nl
+  - [1](https://pijlsolutions.nl/contact)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-222"></a>
 ## A-222 · quattroSEC Gmbh · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1001`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=austria）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.quattrosec.com
 - 精确同名同国别首次入库提交：`3eb0558e9e43aadd13b6f54f064254c547df89d3`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[12]`；记录日期 2026-09-27；来源等级 `official-obfuscated`。
+  - 公开邮箱：office@quattrosec.com；投递未测试。
+  - 说明：官网imprint明确office(at)quattroSEC.com，可逆规范化(at)为@并统一域名大小写；不是按姓名猜格式。Zipf 65 Campus Q、FN307862p、UID ATU66721826；Ernst Hofmann为公开负责人，不推个人邮箱。
+  - 保留原文：office(at)quattroSEC.com / Zipf 65 Campus Q / Ernst Hofmann
+  - [1](https://www.quattrosec.com/en/company/imprint.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-223"></a>
 ## A-223 · S.A.B.E.L. Handels GmbH · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1002`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=austria）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://sabel-international.com
 - 精确同名同国别首次入库提交：`3eb0558e9e43aadd13b6f54f064254c547df89d3`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[13]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：office@sabel-international.com；投递未测试。
+  - 说明：官网联系页匹配Vienna，电话+43 660 1142986，FN337114g、UID ATU65303218。忽略RocketReach邮箱格式推测。
+  - 保留原文：office@sabel-international.com / Hietzinger Hauptstrasse 22 / Vienna
+  - [1](https://sabel-international.com/contact/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-224"></a>
 ## A-224 · Salzgeber GmbH · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1003`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=austria）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.it-revolutions.com
 - 精确同名同国别首次入库提交：`3eb0558e9e43aadd13b6f54f064254c547df89d3`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[14]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：office@it-revolutions.com；投递未测试。
+  - 说明：Salzgeber官网imprint匹配Tulln Dr. Billrothstrasse 12A、FN257425t、UID ATU61648809，电话+43 1 3190074-21；contact页有表单。德国Procom邮箱不是该公司。
+  - 保留原文：office@it-revolutions.com / Dr. Billrothstrasse 12A / 3430 Tulln
+  - [1](https://www.it-revolutions.com/impressum/)
+  - [2](https://www.it-revolutions.com/kontaktieren-sie-uns/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-225"></a>
 ## A-225 · DDS Netcom AG · 瑞士
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1004`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=switzerland）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://webshop.dds.ch
 - 精确同名同国别首次入库提交：`52606bb3ce903d61525396e2ad1d13d2907c9a1c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[15]`；记录日期 2026-09-27；来源等级 `official-obfuscated`。
+  - 公开邮箱：info@dds.ch；投递未测试。
+  - 说明：dds.ch实际跳转官网商城，正文DDS NETCOM AG、Allmendstrasse 8 CH-8320 Fehraltorf及info(at)dds.ch，可逆规范化不是猜测。电话正文同时有+41 43 3552211和+41 44 3552211；不选其中一个覆盖主表旧电话。商城品牌信号不证明具体芯片或采购。
+  - 保留原文：info(at)dds.ch / DDS NETCOM AG / Allmendstrasse 8 / Fehraltorf
+  - [1](https://webshop.dds.ch/)
+  - [2](https://www.dds.ch/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-226"></a>
 ## A-226 · FIVE Informatik AG · 瑞士
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1005`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=switzerland）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.fiveinformatik.ch
 - 精确同名同国别首次入库提交：`52606bb3ce903d61525396e2ad1d13d2907c9a1c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[16]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@fiveinformatik.ch；投递未测试。
+  - 说明：官网联系/支持页给总邮箱与+41 31 8582323，Bahnhofstrasse 5 CH-3322 Schönbühl；不用support专线替代普通商务入口。搜索主页另列Kathrin Engler销售/营销，但本轮未抓正文确认个人邮箱，未列入主联系字段。
+  - 保留原文：info@fiveinformatik.ch / Bahnhofstrasse 5 / CH-3322 Schönbühl
+  - [1](https://www.fiveinformatik.ch/de/kontakt-support)
+  - [2](https://www.fiveinformatik.ch/de)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-227"></a>
 ## A-227 · KNT Technology SP. Z O.O. · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1006`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=poland）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`52606bb3ce903d61525396e2ad1d13d2907c9a1c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[17]`；记录日期 2026-09-27；来源等级 `official-identity-pending`。
+  - 公开邮箱：biuro@knt.biz.pl；投递未测试。
+  - 说明：官网KNT联系页确认邮箱、+48 508343846、NIP7010890163，但地址为Grzybowska 87 Warszawa，主表为Olsztyn。ZoomInfo搜索摘要将同名、同域名、同电话与Olsztyn Towarowa20b相连；KRS历史目录搜索列KRS0000755293/Olsztyn，但尚未以登记税号完整桥接。作为候选联系待核，不静默改城市，不认定已迁址。
+  - 保留原文：官网：biuro@knt.biz.pl / Grzybowska 87 / Warszawa / NIP 7010890163；第三方搜索摘要：Ul. Towarowa 20b, Olsztyn / +48 508343846 / knt.biz.pl
+  - [1](https://knt.biz.pl/kontakt)
+  - [2](https://www.zoominfo.com/c/knt-technology-sp-z-oo/558101916)
+  - [3](http://krs.infoveriti.pl/Knt,Technology,Olsztyn,Udzialowcy,KRS,0000755293.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-228"></a>
 ## A-228 · Nomios Poland Sp. z o. o. · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1007`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=poland）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.nomios.pl
 - 精确同名同国别首次入库提交：`52606bb3ce903d61525396e2ad1d13d2907c9a1c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[18]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@nomios.pl；投递未测试。
+  - 说明：官网公司信息页正文确认邮箱，不再仅靠Facebook摘要。Puławska 537 Warszawa、+48 22 5671740、KRS0000406699、NIP1070021226匹配；普通contact页仅表单/电话。
+  - 保留原文：Email: info@nomios.pl / Nomios Poland Sp. z o.o. / Puławska 537
+  - [1](https://www.nomios.pl/firma/informacje-o-firmie/)
+  - [2](https://www.nomios.pl/kontakt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-229"></a>
 ## A-229 · Stovaris Sp. z o.o. · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1008`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=poland）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://stovaris.pl
 - 精确同名同国别首次入库提交：`52606bb3ce903d61525396e2ad1d13d2907c9a1c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[19]`；记录日期 2026-09-27；来源等级 `official-store`。
+  - 公开邮箱：esklep@stovaris.pl；投递未测试。
+  - 说明：官方B2B商城联系页正文公开商城邮箱；+48 22 2484000，Staniewicka 12 Warszawa，NIP5242877169/KRS0000758346；不是采购联系人。搜索办公室页具名邮箱未抓取正文，本轮不用其作为已确认主入口。
+  - 保留原文：esklep@stovaris.pl / Stovaris / Staniewicka 12 / Warszawa
+  - [1](https://b2b.stovaris.pl/en/contact,12)
+  - [2](https://stovaris.pl/en/kontakt/biuro-i-marketing/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-230"></a>
 ## A-230 · 4service s.r.o. · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1011`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=czechia）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.4service.cz
 - 精确同名同国别首次入库提交：`279d78779bb8571fefe1888210fbf9b189b391cb`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[20]`；记录日期 2026-09-27；来源等级 `public-register`。
+  - 公开邮箱：sachl@4service.cz；投递未测试。
+  - 说明：捷克国家电子采购供应商注册页正文确认sachl邮箱、IČO28066235、Novohradská745/21 České Budějovice、+420605275094及官网。官网搜索摘要另有it@4service.cz、helpdesk@4service.cz、janacek@4service.cz，正文抽取未复见；/kontakt为404。主邮箱为公共登记入口，不是公司官网正文，也不据姓推定岗位。
+  - 保留原文：Official name: 4service s.r.o. / ORGANIZATION ID NUMBER: 28066235 / EMAIL: sachl@4service.cz
+  - [1](https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/410506888)
+  - [2](https://www.4service.cz/)
+  - [3](https://www.4service.cz/kontakt)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-231"></a>
 ## A-231 · Specto Remote AS · 挪威
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1013`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=norway）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://spectoremote.com
 - 精确同名同国别首次入库提交：`bdbac6a37b209f821d3c87a0157d222e35cf3654`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[21]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：post@spectoremote.com；投递未测试。
+  - 说明：官网contact-us正文区分contact和support邮箱；主选post，总电话+47 23051990(Oslo)，Nils Hansens vei5 Oslo。Bodø另有办公室，不改主表城市。
+  - 保留原文：contact: post@spectoremote.com / +47 230 51 990 (Oslo)
+  - [1](https://spectoremote.com/contact-us/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-232"></a>
 ## A-232 · Databox · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1016`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=portugal）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.databox.pt
 - 精确同名同国别首次入库提交：`bdbac6a37b209f821d3c87a0157d222e35cf3654`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[22]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：databox@databox.pt；投递未测试。
+  - 说明：官网contactos第6块正文确认总邮箱与Massamá地址、+351214308400。采购/产品部门公开Vitor Gama，负责D-Link、Equip、Digitus、Cisco、Level One、TP-Link、Ubiquiti，直线214308442；没有公开其个人邮箱，不猜。另有Cláudia Marques负责HP/HPE ARUBA，214308466；不是已确认SmartByte采购意向。
+  - 保留原文：E-mail Geral: databox@databox.pt / Vitor Gama | 214 308 442 | Gestor de Produto - D-Link, Equip, Digitus, Cisco, Level One, TP-Link, Ubiquiti
+  - [1](https://www.databox.pt/contactos/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-233"></a>
 ## A-233 · Young B.T.S. Ltd. · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1019`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=hungary）
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.young.hu
 - 精确同名同国别首次入库提交：`bdbac6a37b209f821d3c87a0157d222e35cf3654`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[23]`；记录日期 2026-09-27；来源等级 `official-search-only`。
+  - 公开邮箱：info@young.hu；投递未测试。
+  - 说明：官网联系页搜索索引明确报价/产品信息info@young.hu、+36(1)4522720；中央young@young.hu、+3614522600，Bojtár u80 B1 Budapest，匹配Young BTS。主页及联系页实际抓取均HTTP500，不能说正文已验证。官网公司介绍搜索也公开young；旧个人产品经理新闻不作当前联系人。
+  - 保留原文：搜索摘要：Ajánlatkérés, termékinformáció / +36 (1) 452-2720 / info@young.hu / Központi: young@young.hu
+  - [1](https://www.young.hu/kapcsolat)
+  - [2](https://www.young.hu/cegbemutato/C80)
+  - [3](https://www.young.hu/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-234"></a>
 ## A-234 · Varia Group · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-770`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.varia.org
 - 精确同名同国别首次入库提交：`eec7c6e05cbca349da01a713ed7ee22018d59496`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[24]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@varia.org；投递未测试。
+  - 说明：旧/en/kontakt/实际404，改查有效/en/imprint/正文：VARIA System GmbH、Chemnitz、HRB26881、DE279278184、Sven Grimpe/Sven Huth。与A031公司名/官网属于强关联候选，不因品牌别名擅自合并或变号，前49不改。既有Netonix/Vitesse特批保留仍有效，不能说同Marvell芯片。
+  - 保留原文：E-Mail: info@varia.org / VARIA System GmbH / Chemnitz Local Court HRB 26881
+  - [1](https://www.varia.org/en/imprint/)
+  - [2](https://www.varia.org/en/kontakt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-235"></a>
 ## A-235 · László Kalapos · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-833`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：mindenamimikrotik.hu
+- 官网线索（不自动背书其他字段）：https://mindenamimikrotik.hu
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[25]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@mindenamimikrotik.hu；投递未测试。
+  - 说明：官网联系页明确Infofutár-Mikrotech Kft/Miskolc、Kalapos László与+36202956414直联，无客服转接；总邮箱是该业务入口，不是推测个人邮箱。与A013姓名、品牌、电话和邮箱一致，列重复候选强提示但不擅合并、不改前49。训练资质仅官网自述，不替代有效证书核验。
+  - 保留原文：info@mindenamimikrotik.hu / Kalapos László / +36202956414 / Infofutár-Mikrotech Kft.
+  - [1](https://mindenamimikrotik.hu/kapcsolat/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-236"></a>
 ## A-236 · Leo De Geer · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-823`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：satelithuset.se
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[26]`；记录日期 2026-09-27；来源等级 `official-pdf-historical`。
+  - 公开邮箱：support@mikrotik.se；投递未测试。
+  - 说明：MikroTik官方托管2007 MUM演讲PDF正文把Leo De Geer与Satellithuset、support邮箱及+46 705915987相连；2010 PDF搜索同邮箱及主表+46 325660650。年代很旧，只作历史待核入口，不当现在直联。mikrotik.se当前跳转routerboard.se；LinkedIn搜索现单位Tagghajen holding AB，不据此认定仍在原公司。保留主表原网站satelithuset.se，LinkedIn只作备用。与B297公司关联线索，不合并。
+  - 保留原文：2007 PDF：Satellithuset i Limmared AB / Leo De Geer / support@mikrotik.se / +46 705 915987
+  - [1](https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf)
+  - [2](https://mum.mikrotik.com/presentations/PL10/leo.pdf)
+  - [3](https://www.linkedin.com/in/leo-de-geer-826693/)
+  - [4](https://www.mikrotik.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-237"></a>
 ## A-237 · Philippe ROBERT · 瑞士
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-825`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：engitech.ch
+- 官网线索（不自动背书其他字段）：https://www.engitech.ch
 - 精确同名同国别首次入库提交：`5ce1cb1f55301fdbbc298eb3eacec1d1c3158f54`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[27]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：office@engitech.ch；投递未测试。
+  - 说明：Engitech现官网联系页正文总邮箱及+41763264000匹配原电话；Carouge地址不自动改Geneve城市。2019 MUM官方PDF搜索把Philippe ROBERT/Engitech Genève与p.robert@engitech.ch相连，但未抓PDF正文，个人邮箱只历史待核，主用现公司总邮箱，不冒称个人在职确认。与B299公司入口相同，不等于个人记录可自动合并。
+  - 保留原文：现官网：Email us: office@engitech.ch / +41763264000；2019 PDF搜索：Philippe ROBERT / ENGITECH S.A., Genève
+  - [1](https://www.engitech.ch/en/contact-us)
+  - [2](https://mum.mikrotik.com/presentations/FR19/presentation_6674_1556564748.pdf)
+  - [3](https://www.linkedin.com/in/philippe-robert-8121b968/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-238"></a>
 ## A-238 · Infinite Technology · 爱尔兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1033`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
-- 官网线索（不自动背书其他字段）：infinitetechnology.ie
+- 官网线索（不自动背书其他字段）：https://infinitetechnology.ie
 - 精确同名同国别首次入库提交：`19e3da1086af15313625acc967d6009dc1618518`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[28]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：sales@infinitetechnology.ie；投递未测试。
+  - 说明：官网联系页Sales显示文字与mailto一致。Enquiries显示info@但mailto为help@infinitetechnology.ie，保留冲突不擅选；主用sales。Dublin +35312939000、Unit E3 Centre Point Business Park一致，不把地图供应商信息当联系邮箱。
+  - 保留原文：Sales: sales@infinitetechnology.ie / Dublin HQ: Unit E3, Centre Point Business Park
+  - [1](https://infinitetechnology.ie/contact-infinite-technology/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-239"></a>
 ## A-239 · Patrik Schaub · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-756`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训中心名录
-- 官网线索（不自动背书其他字段）：未留存
+- 官网线索（不自动背书其他字段）：https://www.fmsweb.de
 - 精确同名同国别首次入库提交：`0b40faf2b462cbbd0af6b04b4421edc7de52311e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-27_A210-A239.json` → `records[29]`；记录日期 2026-09-27；来源等级 `official`。
+  - 公开邮箱：info@fmsweb.de；投递未测试。
+  - 说明：FMS现官网联系页正文总邮箱与+497612926500匹配。2011 MUM PDF搜索把Patrik Schaub与FMS及同电话邮箱相连；LinkedIn搜索链接fmsweb.de/mikrotik-shop.de，转发sales邮箱，但未宣称个人现任采购。与A083/B141及B149共享公司入口，个人/公司记录不自动合并；主表姓名Patrik与历史A083说明Patrick拼法差异保留待核。
+  - 保留原文：官网：info@fmsweb.de / +49 761 2926500；2011 PDF搜索：by Patrik Schaub / FMS Internetservice
+  - [1](https://www.fmsweb.de/kontakt/)
+  - [2](https://mum.mikrotik.com/presentations/HU11/patrik.pdf)
+  - [3](https://www.linkedin.com/in/patrik-schaub-25995647/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-240"></a>

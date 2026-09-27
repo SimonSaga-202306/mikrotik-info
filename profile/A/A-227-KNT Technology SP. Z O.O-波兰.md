@@ -34,13 +34,13 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=poland） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-identity-pending。官网KNT联系页确认邮箱、+48 508343846、NIP7010890163，但地址为Grzybowska 87 Warszawa，主表为Olsztyn。ZoomInfo搜索摘要将同名、同域名、同电话与Olsztyn Towarowa20b相连；KRS历史目录搜索列KRS0000755293/Olsztyn，但尚未以登记税号完整桥接。作为候选联系待核，不静默改城市，不认定已迁址。 证据：[1](https://knt.biz.pl/kontakt) [2](https://www.zoominfo.com/c/knt-technology-sp-z-oo/558101916) [3](http://krs.infoveriti.pl/Knt,Technology,Olsztyn,Udzialowcy,KRS,0000755293.html) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-227 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：biuro@knt.biz.pl
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：biuro@knt.biz.pl（待核：官网候选邮箱，城市身份桥接未完整；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 ## 四、品牌与技术栈
 

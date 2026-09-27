@@ -17,20 +17,20 @@
 | 公司名 | László Kalapos |
 | 国家 | 匈牙利 |
 | 城市 | Miskolc |
-| 网站 | mindenamimikrotik.hu |
+| 网站 | https://mindenamimikrotik.hu |
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
-| 原备注 | MindenAmiMikroTik（Infofutár-Mikrotech Kft）。持 **MTCSWE**，匈牙利官方培训伙伴。自述专长无线与有线网络设计施工、VPN、PPPoE、带宽管理、Hotspot、The Dude。 |
+| 原备注 | MindenAmiMikroTik（Infofutár-Mikrotech Kft）。持 **MTCSWE**，匈牙利官方培训伙伴。自述专长无线与有线网络设计施工、VPN、PPPoE、带宽管理、Hotspot、The Dude。 【2026-09-27 A210–A239联络核验】来源等级：official。官网联系页明确Infofutár-Mikrotech Kft/Miskolc、Kalapos László与+36202956414直联，无客服转接；总邮箱是该业务入口，不是推测个人邮箱。与A013姓名、品牌、电话和邮箱一致，列重复候选强提示但不擅合并、不改前49。训练资质仅官网自述，不替代有效证书核验。 证据：[1](https://mindenamimikrotik.hu/kapcsolat/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-235 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@mindenamimikrotik.hu
 - **电话**：+36 20 2956414
-- **原始联系字段**：+36 20 2956414
+- **原始联系字段**：info@mindenamimikrotik.hu（官网正文公开；未验证投递）；原入口：+36 20 2956414
 
 ## 四、品牌与技术栈
 

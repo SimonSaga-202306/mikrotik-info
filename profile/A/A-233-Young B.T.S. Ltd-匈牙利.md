@@ -27,20 +27,20 @@
 | 公司名 | Young B.T.S. Ltd. |
 | 国家 | 匈牙利 |
 | 城市 | Budapest |
-| 网站 | — |
+| 网站 | https://www.young.hu |
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=hungary） |
-| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 |
+| 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A210–A239联络核验】来源等级：official-search-only。官网联系页搜索索引明确报价/产品信息info@young.hu、+36(1)4522720；中央young@young.hu、+3614522600，Bojtár u80 B1 Budapest，匹配Young BTS。主页及联系页实际抓取均HTTP500，不能说正文已验证。官网公司介绍搜索也公开young；旧个人产品经理新闻不作当前联系人。 证据：[1](https://www.young.hu/kapcsolat) [2](https://www.young.hu/cegbemutato/C80) [3](https://www.young.hu/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-233 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：info@young.hu
 - **电话**：—
-- **原始联系字段**：见 alliedtelesis.com 伙伴页
+- **原始联系字段**：info@young.hu（待核：仅官网搜索索引，实际网页失败/关闭；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 ## 四、品牌与技术栈
 

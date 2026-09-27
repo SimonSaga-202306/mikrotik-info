@@ -82,6 +82,16 @@ def emails(text):
     return re.findall(r'[\w.+-]+@[\w.-]+\.\w+', non_guessed)
 
 
+def without_contact_evidence(note):
+    """Contact-audit prose/URLs are not customer demand or personalization facts.
+
+    Keep the full note in the dossier, but exclude the explicitly marked
+    append-only research section from scenario, brand and mail extraction.
+    Legacy notes without this marker retain their existing behavior.
+    """
+    return re.split(r"【\d{4}-\d{2}-\d{2} A\d+[–-]A\d+联络核验】", note, maxsplit=1)[0].rstrip()
+
+
 def phones(text):
     out = []
     for m in re.findall(r'(?:\+\d[\d\s().-]{6,}|\d[\d\s().-]{7,})', text):
@@ -173,7 +183,8 @@ def main():
         os.makedirs(directory, exist_ok=True)
         path = os.path.join(directory, fname)
 
-        blob = " ".join([name, typ, signal, note])
+        analysis_note = without_contact_evidence(note)
+        blob = " ".join([name, typ, signal, analysis_note])
         sc = scenarios(blob)
         key = sc[0] if sc else None
 
@@ -183,7 +194,7 @@ def main():
             person, company = name.split(" / ", 1)
         else:
             company = name
-        mails = emails(contact + " " + note)
+        mails = emails(contact + " " + analysis_note)
         tels = phones(contact)
 
         # brands -------------------------------------------------
@@ -247,7 +258,7 @@ def main():
         w("- **邮箱**：%s" % ("、".join(dict.fromkeys(mails)) if mails else "—"))
         w("- **电话**：%s" % ("、".join(dict.fromkeys(tels)) if tels else "—"))
         w("- **原始联系字段**：%s" % (contact or "—"))
-        extra = [m for m in emails(note) if m not in mails]
+        extra = [m for m in emails(analysis_note) if m not in mails]
         if extra:
             w("- **备注中出现的其他邮箱**：%s" % "、".join(dict.fromkeys(extra)))
         w("")
@@ -344,7 +355,7 @@ def main():
         # 7 first-contact email (A tier only — these are the ones being worked now)
         if grade == "A":
             from emails import build
-            subject, body = build(name, person, country, city, key, sku, note)
+            subject, body = build(name, person, country, city, key, sku, analysis_note)
             w("## 七、首触邮件（可直接发送）")
             w("")
             w("**主题**：%s" % subject)

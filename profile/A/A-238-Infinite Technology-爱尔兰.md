@@ -17,20 +17,20 @@
 | 公司名 | Infinite Technology |
 | 国家 | 爱尔兰 |
 | 城市 | Dublin |
-| 网站 | infinitetechnology.ie |
+| 网站 | https://infinitetechnology.ie |
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
-| 原备注 | Perle 授权分销商。 |
+| 原备注 | Perle 授权分销商。 【2026-09-27 A210–A239联络核验】来源等级：official。官网联系页Sales显示文字与mailto一致。Enquiries显示info@但mailto为help@infinitetechnology.ie，保留冲突不擅选；主用sales。Dublin +35312939000、Unit E3 Centre Point Business Park一致，不把地图供应商信息当联系邮箱。 证据：[1](https://infinitetechnology.ie/contact-infinite-technology/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-238 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：sales@infinitetechnology.ie
 - **电话**：+353 1 2939000
-- **原始联系字段**：+353 1 2939000
+- **原始联系字段**：sales@infinitetechnology.ie（官网正文公开；未验证投递）；原入口：+353 1 2939000
 
 ## 四、品牌与技术栈
 
