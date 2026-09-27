@@ -674,4 +674,34 @@ pip install openpyxl --break-system-packages
 
 ---
 
+### 对话 32 — 2026-09-23（用户：先不管邮箱，继续挖 A，先挖完）
+**A 339 → 356（+17），合计 1010 行**（本轮上下文到顶，未做完）
+**本轮又挖干 8 个国家/地区**
+  | 国家 | 结果 |
+  |---|---|
+  | 西班牙 spain | 1/1 页，仅 5 条，**2 可用**（Lineas y Cables 为 Integrate Elite） |
+  | 荷兰 netherlands | 1/1 页，**3 可用**（Avelution、Kappa Data NL、Pijl Solutions） |
+  | 比利时 belgium | 1/1 页，仅 3 条，**1 可用**（Kappa Data Belgium） |
+  | 奥地利 austria | 1/1 页，**5 可用**（IT-TRUST、quattroSEC、S.A.B.E.L.、Salzgeber、TEMS） |
+  | 瑞士 switzerland | 1/1 页，**2 可用**（DDS Netcom、FIVE Informatik） |
+  | 波兰 poland | 1/1 页，**5 可用**（KNT Technology、Nomios PL、Stovaris、Trecom×2） |
+  | **美国 united-states** | **2/2 页挖干**，第 2 页 4 家安防型集成商（Security 101 Rochester NY、Silco、Titan Security、Watkins Security） |
+  | 捷克 czechia | 1/1 页，**1 可用**（4service s.r.o.） |
+  | 瑞典 sweden | 1/1 页，**0 可用**（只有 Arrow ECS + Ingram Micro，全是巨头） |
+**⚠️ 重要规律（对齐下一轮的预期）**
+  - Allied Telesis 的渠道**高度集中在德国（4 页）、意大利（3 页）、英国（1 页）、美国（2 页）**
+  - 其余欧洲小国基本 **1 页、3–7 条，且多为 Arrow/Ingram/TD SYNNEX/Anixter 等巨头**，可用 1–5 家
+  - 因此**边际产出正在快速下降**，别再指望小国出量
+**❌ 还没查的国家（下次直接照抄这段）**
+  `denmark / norway / finland / portugal / ireland / greece / hungary`
+  按「小国规律」预估：每国 0–5 家可用，**合计约 5–20 家**，是收尾性质
+**🔑 钥匙不变**
+  ```
+  /us/en/resellers/?country={小写英文国名}
+  /us/en/resellers/page/{n}/?country={小写英文国名}
+  ```
+**当前**：A356 / B344 / C310 = **1010**，回归全绿。A 级中另有**人工定级 190 家**待补邮箱。
+
+---
+
 *本文件由 Agent 自动维护，最后一次人工校验：2026-09-23*
