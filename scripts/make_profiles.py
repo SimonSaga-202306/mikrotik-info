@@ -157,6 +157,7 @@ def main():
         typ, signal, ownbrand, angle, sku = r[4], r[5], r[6], r[7], r[8]
         contact, prio, status, src = r[9], r[10], r[11], r[12]
         note, grade, why = r[16], r[17], r[18]
+        sub = r[hdr.index("C级细分")] if "C级细分" in hdr else ""
 
         code = (r[NUMCOL] or "").strip() or grade
         fname = "%s-%s-%s.md" % (code, safe(name), safe(country))
@@ -292,6 +293,9 @@ def main():
                 w("**切口**：先问清是国别决策还是集团统一采购；**找品类经理，不要找 CPO**。")
         if grade == "C":
             w("")
+            if sub:
+                w("> **C 级细分：`%s`**" % sub)
+                w("")
             w("> ⛔ **Too hard pile**：本条进「太难」堆，**当前不投入跟进精力**，不必为它写开发信或做方案。")
             w("> 信息已**全量留档**（本档案 + 总表 19 列），待出现明确触发条件再捞出来重评：")
             w("> ① 对方主动询价；② 出现停产替换需求；③ 我方补齐对应认证；④ 你从别处拿到其内部人线索。")

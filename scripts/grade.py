@@ -169,8 +169,8 @@ def main():
     # ── 下放规则（2026-09-23 用户指定，非评级标准改动）───────────────────
     # 用户口径：A 重点跟进；B **只做群发**；没价值群发的直接沉 C。
     # 因此 B 若「连邮箱都没有」→ 群发触达不到 → 沉 C 待命（全量信息仍然保留）。
-    # 例外：集成商/顾问型不沉。A 级里 78% 来自集成商（转化率 34.5%，是分销型的 9 倍），
-    #       这类多在 MikroTik 名录里留了电话，可单独触达，值得留 B。
+    # 用户 2026-09-23 定稿口径：B **只做群发**，因此「有邮箱 → 留 B；没邮箱 → 沉 C」，
+    # 集成商型也不例外（有电话但没邮箱的，群发同样触达不到）。
     MAIL = re.compile(r"[\w.+-]+@[\w-]+\.[\w.]{2,}")
     INT = re.compile(r"集成商|顾问|Consultant|Integrator|工程|服务", re.I)
     demoted = 0
@@ -179,17 +179,41 @@ def main():
             continue
         if MAIL.search(" ".join([r[9], r[16], r[3], r[0]])):
             continue          # 有邮箱 → 群发得到，留 B
-        if INT.search(r[4]):
-            continue          # 集成商/顾问型 → 留 B，可单独触达
         r[17] = "C"
-        r[18] = ("【2026-09-23 复核下放】无邮箱（群发触达不到）+ 非集成商型，"
-                 "按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评："
-                 "①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：" + r[18])
+        r[18] = ("【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；"
+                 "全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 "
+                 "③出现 EOL 替换需求 ④冒出内部联系人。原判：" + r[18])
         demoted += 1
     if demoted:
         cnt["B"] -= demoted
         cnt["C"] += demoted
         print("下放 B→C（无邮箱且非集成商型，群发触达不到）: %d 家" % demoted)
+
+    # ── C 级细分归类（2026-09-23 用户要求：C 里要能区分是 too hard 还是 B 下放还是别的原因）
+    SUBCOL = hdr.index("C级细分")
+    SCALE = re.compile(r"大分销|跨国|覆盖\s*\d|大型|最大|全国性|\d+\s*个分部|"
+                       r"(?<![\d.])8000|(?<![\d.])1M\b|100\s*万|集团|上市")
+    def sub(r):
+        why = r[18]
+        if "复核下放" in why or "群发触达不到" in why:
+            return "B下放·无邮箱（群发触达不到）"
+        if "范围外" in why or "区域外" in why:
+            return "范围外（非欧洲/北美）"
+        if "竞品" in why:
+            return "竞品"
+        if "自有品牌" in why:
+            return "太难·自有品牌"
+        if SCALE.search(why + " " + r[16]):
+            return "太难·规模过大/决策链长"
+        return "其他"
+    subc = Counter()
+    for r in data:
+        if r[17] == "C":
+            r[SUBCOL] = sub(r); subc[r[SUBCOL]] += 1
+        else:
+            r[SUBCOL] = ""
+    if subc:
+        print("C 级细分:", dict(subc))
 
     with open(CSV, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)

@@ -116,16 +116,21 @@ def main():
                       + BLANK)
     ws_b = sheet("B级-慢慢跟", head_b, body_b, b_fill,
                  [30, 12, 14, 22, 16, 30, 10, 26, 22, 26, 8, 10, 12, 12, 12, 12, 34, 6, 34,
-                  14, 40, 12, 26, 26])
+                  14, 24, 14, 40, 12, 26, 26])
 
     # ---------------- C ----------------
-    head_c = hdr + ["难在哪", "可能的切口"] + EMPTY_HDR
+    head_c = hdr + ["C级细分", "难在哪", "可能的切口"] + EMPTY_HDR
     body_c = []
     for r in data:
         if r[17] != "C":
             continue
+        sub = r[hdr.index("C级细分")] if "C级细分" in hdr else ""
         blob = " ".join([r[0], r[4], r[16]])
-        if "范围外" in r[16]:
+        if sub.startswith("B下放"):
+            why = "B 级下放：无邮箱，群发触达不到"
+            cut = ("补到邮箱 / 对方主动询价 / 出现 EOL 替换需求 / 冒出内部联系人 —— "
+                   "任一成立即捞回 B 重评")
+        elif sub.startswith("范围外"):
             why = "不在目标区域（欧洲+美加）内"
             cut = "留档，等有当地伙伴或客户指定时再动"
         elif re.search(r'竞品|品牌（竞品）|台厂|台湾', blob):
@@ -137,7 +142,7 @@ def main():
         else:
             why = "集团/大公司，决策链长，采购集中"
             cut = "先问清是国别决策还是集团统一采购；找准品类经理而非 CPO"
-        body_c.append(list(r) + [why, cut] + BLANK)
+        body_c.append(list(r) + [sub, why, cut] + BLANK)
     ws_c = sheet("C级-难啃", head_c, body_c, c_fill,
                  [30, 12, 14, 22, 16, 30, 10, 26, 22, 26, 8, 10, 12, 12, 12, 12, 34, 6, 34,
                   34, 40, 12, 26, 26])
