@@ -71,8 +71,14 @@ class RepositoryTests(unittest.TestCase):
                      'B-149', 'B-158', 'B-182', 'B-207', 'B-288', 'B-290', 'B-297', 'B-299',
                      'B-430', 'B-432', 'B-437', 'B-440', 'B-442', 'B-443', 'C-011', 'C-014',
                      'C-065', 'C-067', 'C-098', 'C-131', 'C-145'}
+    # R51: 用户规则「达到 A 级标准就可以升级」-> R50 去重提示里够标准的 9 条 B 行升 A-422..A-430。
+    R51_PROMOTED = {'B-083': 'A-422', 'B-149': 'A-423', 'B-207': 'A-424', 'B-288': 'A-425',
+                    'B-430': 'A-426', 'B-432': 'A-427', 'B-437': 'A-428', 'B-442': 'A-429',
+                    'B-443': 'A-430'}
+    R51_PROMOTED_NEW = set(R51_PROMOTED.values())
+    R51_PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注'}
     PROMOTED_MAP = {'B-070': 'A-379', 'B-272': 'A-380', 'B-465': 'A-381', 'B-416': 'A-382',
-                    'B-361': 'A-383', 'B-175': 'A-384', **R50_PROMOTED}
+                    'B-361': 'A-383', 'B-175': 'A-384', **R50_PROMOTED, **R51_PROMOTED}
 
     @classmethod
     def r49_allowed(cls, code):
@@ -92,9 +98,15 @@ class RepositoryTests(unittest.TestCase):
             return {'备注'}
         return None
 
+    @classmethod
+    def r51_allowed(cls, code):
+        if code in cls.R51_PROMOTED:
+            return cls.R51_PROMOTED_FIELDS
+        return None
+
     def grade_now(self, code):
-        # R50 升级行已改号：按升级映射取当前行，其余取原号。
-        return self.by_code[self.R50_PROMOTED.get(code, code)]['评级']
+        # R50/R51 升级行已改号：按升级映射取当前行，其余取原号。
+        return self.by_code[self.PROMOTED_MAP.get(code, code)]['评级']
 
     def test_frozen_identity_and_physical_order(self):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
@@ -105,8 +117,9 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual([pos(r) for r in baseline], [pos(r) for r in self.rows])
         targets = {f'A-{n:03}' for n in range(200, 379)}
         for before, after in zip(baseline, self.rows):
-            allowed = self.r50_allowed(before['档案编号']) or self.r49_allowed(before['档案编号'])
-            if before['档案编号'] in self.PROMOTED_OLD or before['档案编号'] in self.R50_PROMOTED:
+            allowed = (self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
+                       or self.r49_allowed(before['档案编号']))
+            if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 self.assertEqual(after['评级'], 'A')
                 for k in self.header:
@@ -226,8 +239,9 @@ class RepositoryTests(unittest.TestCase):
         baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
-            allowed = self.r50_allowed(before['档案编号']) or self.r49_allowed(before['档案编号'])
-            if before['档案编号'] in self.PROMOTED_OLD or before['档案编号'] in self.R50_PROMOTED:
+            allowed = (self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
+                       or self.r49_allowed(before['档案编号']))
+            if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS:
@@ -244,7 +258,8 @@ class RepositoryTests(unittest.TestCase):
         from openpyxl import load_workbook
         skip = (self.PROMOTED_OLD | self.PROMOTED_NEW | set(self.R49_OLD_TO_NEW)
                 | set(self.R49_OLD_TO_NEW.values()) | self.R49_NOTE_ONLY | self.R49_A_CONTENT
-                | set(self.R50_PROMOTED) | self.R50_PROMOTED_NEW | self.R50_NOTE_ONLY)
+                | set(self.R50_PROMOTED) | self.R50_PROMOTED_NEW | self.R50_NOTE_ONLY
+                | set(self.R51_PROMOTED) | self.R51_PROMOTED_NEW)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)
@@ -258,8 +273,8 @@ class RepositoryTests(unittest.TestCase):
                                  [r for r in bv[1:] if str(r[19]) not in skip], name)
             else:
                 self.assertEqual(av, bv, name)
-        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 421)
-        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 324)
+        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 430)
+        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 315)
         self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 288)
         a.close()
         b.close()
@@ -621,16 +636,16 @@ class RepositoryTests(unittest.TestCase):
             self.assertNotIn(old_code, self.by_code)
             self.assertEqual(list((ROOT / 'profile/B').glob(old_code + '-*.md')), [])
         for r in holds:
-            if r['code'] in self.R50_PROMOTED:
-                self.assertEqual(self.grade_now(r['code']), 'A')   # R50 存量复核升A
+            if r['code'] in self.PROMOTED_MAP:
+                self.assertEqual(self.grade_now(r['code']), 'A')   # R50/R51 达标升级
             else:
                 self.assertEqual(self.grade_now(r['code']), 'B')
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 421)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 324)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 430)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 315)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
         a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
-        self.assertEqual(a_nums, list(range(1, 422)))
-        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 421)
+        self.assertEqual(a_nums, list(range(1, 431)))
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 430)
         for code in ['A-379', 'A-381']:
             self.assertNotIn('【待补】', self.by_code[code]['备注'])
             self.assertIn('待补标记解除', self.by_code[code]['备注'])
@@ -680,8 +695,8 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn('【待补】', row['备注'])
             self.assertIn('R49 复核', row['备注'])
         for r in by_dec['hold-B'] + by_dec['email-enrich-B']:
-            row = self.by_code[self.R50_PROMOTED.get(r['code'], r['code'])]
-            expect = 'A' if r['code'] in self.R50_PROMOTED else 'B'   # R50 存量复核可能升A
+            row = self.by_code[self.PROMOTED_MAP.get(r['code'], r['code'])]
+            expect = 'A' if r['code'] in self.PROMOTED_MAP else 'B'   # R50/R51 达标升级
             self.assertEqual(row['评级'], expect)
             self.assertIn('R49 复筛补录', row['备注'])
         for r in by_dec['email-backfill-A']:
@@ -690,7 +705,7 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn(r['email'], row['入口/联系方式'])
             self.assertIn('前 49 位内容可编辑', r['note'])
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 324)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 315)
 
     def test_r50_full_list_audit_and_promotions(self):
         obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_R50_A提炼.json').read_text())
@@ -715,21 +730,59 @@ class RepositoryTests(unittest.TestCase):
         dups = json.loads((ROOT / 'batch/dedup_hints_2026-09-28_R50.json').read_text())['records']
         self.assertEqual(len(dups), 29)
         for d in dups:
-            row = self.by_code[d['code']]
+            row = self.by_code[self.PROMOTED_MAP.get(d['code'], d['code'])]
             self.assertIn('【2026-09-28 R50 去重提示】', row['备注'])
             self.assertIn('batch/dedup_hints_2026-09-28_R50.json#' + d['code'], row['备注'])
             self.assertNotIn(d['code'], self.R50_PROMOTED)
         self.assertEqual({d['code'] for d in dups}, self.R50_NOTE_ONLY)
         for code in sorted(self.R50_NOTE_ONLY):
-            self.assertEqual(self.by_code[code]['评级'], code[0])
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 421)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 324)
+            if code in self.R51_PROMOTED:
+                self.assertEqual(self.grade_now(code), 'A')   # R51 达标即升级
+            else:
+                self.assertEqual(self.by_code[code]['评级'], code[0])
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 430)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 315)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
         a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
-        self.assertEqual(a_nums, list(range(1, 422)))
-        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 421)
-        self.assertEqual(len(list((ROOT / 'profile/B').glob('B-*.md'))), 324)
+        self.assertEqual(a_nums, list(range(1, 431)))
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 430)
+        self.assertEqual(len(list((ROOT / 'profile/B').glob('B-*.md'))), 315)
         self.assertEqual(len(list((ROOT / 'profile/C').glob('C-*.md'))), 288)
+        leftover = [r for r in self.rows if '【待补】' in r['备注']]
+        self.assertEqual(len(leftover), 10)
+        self.assertTrue(all(r['评级'] == 'C' for r in leftover))
+
+    def test_r51_upgrade_to_a_when_standard_met(self):
+        obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_R51_达标即升级.json').read_text())
+        self.assertEqual(obj['date'], '2026-09-28')
+        records = obj['records']
+        self.assertEqual(len(records), 9)
+        self.assertEqual([r['code'] for r in records], [f'A-{n:03}' for n in range(422, 431)])
+        self.assertEqual({r['before_code'] for r in records}, set(self.R51_PROMOTED))
+        for r in records:
+            self.assertEqual(self.R51_PROMOTED[r['before_code']], r['code'])
+            self.assertTrue(r['quote'] and r['fields_supported'] and r['sources'])
+            self.assertEqual(r['retrieved_on'], '2026-09-28')
+            row = self.by_code[r['code']]
+            self.assertEqual((row['评级'], row['人工定级']), ('A', 'A'))
+            self.assertIn('R51 达标即升级', row['评级依据'])
+            self.assertIn('原 ' + r['before_code'], row['评级依据'])
+            self.assertIn('R51 达标即升级', row['备注'])
+            self.assertIn('batch/contact_research_2026-09-28_R51_达标即升级.json#' + r['code'], row['备注'])
+            self.assertIn('R50 去重提示', row['备注'])
+            self.assertIn('不合并', row['备注'])
+            self.assertTrue(list((ROOT / 'profile/A').glob(r['code'] + '-*.md')))
+            self.assertEqual(list((ROOT / 'profile/B').glob(r['before_code'] + '-*.md')), [])
+            self.assertNotIn(r['before_code'], self.by_code)
+        held = [c for c in self.R50_NOTE_ONLY if c not in self.R51_PROMOTED]
+        self.assertEqual(len(held), 20)          # 29 条 R50 去重行 - 9 条升级
+        for code in held:
+            self.assertEqual(self.by_code[code]['评级'], code[0])
+        for code in ['B-245', 'C-214']:           # 早前轮次已记录的 2 条重复提示，仍不合并
+            self.assertEqual(self.by_code[code]['评级'], code[0])
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 430)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 315)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
         leftover = [r for r in self.rows if '【待补】' in r['备注']]
         self.assertEqual(len(leftover), 10)
         self.assertTrue(all(r['评级'] == 'C' for r in leftover))
@@ -765,9 +818,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 51):
+        for n in range(1, 52):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 51)  # 50 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 52)  # 51 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

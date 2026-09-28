@@ -6737,3 +6737,156 @@
   - 保留原文：本行既有记录：塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。**有可直接用的邮箱**。
   - [1](https://mikrotik.com/training/centers?region=Serbia)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-422"></a>
+## A-422 · David Csongradi · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-175`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：csongradidavid.hu
+- 精确同名同国别首次入库提交：`d6fbf68a8b610be36b4f07e59c5565913fb18423`。
+- 本地原始批次：`batch/hu.json / item[3]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+36 30 616 9819 / mikrotik@csongradidavid.hu；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-083（B 级）。本条与 A-251 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-422。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Hungary)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-422
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Hungary)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-083)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-423"></a>
+## A-423 · Sebastian Inacker / FMS Web（fmsweb.de） · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-241`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：fmsweb.de
+- 精确同名同国别首次入库提交：`4d376a772f5dc208856e83156c54c10de45ea7aa`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+49 761 2926500 / inacker@fmsweb.de；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-149（B 级）。本条与 A-083、A-239 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-423。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-423
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Germany)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-149)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-424"></a>
+## A-424 · WIFIPROFI.CZ · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-299`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop5.wifiprofi.cz
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[2]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：774 331 774 / klima@wifiprofi.cz；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-207（B 级）。本条与 A-288 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-424。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-424
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Czech+Republic)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-207)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-425"></a>
+## A-425 · Rein Podra · 爱沙尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-380`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ccisrd.eu
+- 精确同名同国别首次入库提交：`b9bfb28a48d2ccacb209651ee86f74b2085f8390`。
+- 本地原始批次：`batch/ee.json / item[1]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[3]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+372 505 1372 / rein.podra@ccisrd.eu；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-288（B 级）。本条与 A-374 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCUME + 直达邮箱 + 非硬排除 → 人工定级升 A-425。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Estonia)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-425
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Estonia)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-288)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-426"></a>
+## A-426 · Aris Vink / SDC · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-522`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sdc.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+31 6 17552148 / aris@sdc.nl；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-430（B 级）。本条与 A-131、A-286 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE + 直达邮箱 + 非硬排除 → 人工定级升 A-426。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-426
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-430)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-427"></a>
+## A-427 · Corné van Halteren / DAEL · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-524`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：dael.com
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[5]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+31 6 28026574 / corne.vanhalteren@dael.com；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-432（B 级）。本条与 A-285 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE + 直达邮箱 + 非硬排除 → 人工定级升 A-427。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-427
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-432)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-428"></a>
+## A-428 · Jasper Hagoort / Dside · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-529`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：dside.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[6]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+31 6 50462617 / jasper@dside.nl；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-437（B 级）。本条与 A-090 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCSE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-428。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-428
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-437)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-429"></a>
+## A-429 · Michiel Visser / Connection Services · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-534`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：connectionservices.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+31 6 29047127 / michiel@connectionservices.nl；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-442（B 级）。本条与 A-271 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-429。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-429
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-442)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-430"></a>
+## A-430 · MikroTrain（荷兰 MikroTik 培训） · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-535`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotrain.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R51_达标即升级.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：+31 6 12224005 / info@mikrotrain.nl；投递未测试。
+  - 说明：【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-443（B 级）。本条与 A-259 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE + 直达邮箱 + 非硬排除 → 人工定级升 A-430。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-430
+  - 保留原文：R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#B-443)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

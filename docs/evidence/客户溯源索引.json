@@ -3615,16 +3615,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-083",
+    "code": "A-422",
     "name": "David Csongradi",
     "country": "匈牙利",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-175",
     "legacy_source_label": "2026-09-22",
     "site_lead": "csongradidavid.hu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Hungary"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-422",
+        "before_code": "B-083",
+        "name": "David Csongradi",
+        "country": "匈牙利",
+        "city": "Budapest",
+        "email": "+36 30 616 9819 / mikrotik@csongradidavid.hu",
+        "site": "csongradidavid.hu",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-083（B 级）。本条与 A-251 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-422。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Hungary)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-422",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Hungary"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-083"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[0]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [
       "batch/hu.json / item[3]"
     ],
@@ -4893,16 +4932,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-149",
+    "code": "A-423",
     "name": "Sebastian Inacker / FMS Web（fmsweb.de）",
     "country": "德国",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-241",
     "legacy_source_label": "2026-09-22",
     "site_lead": "fmsweb.de",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Germany"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-423",
+        "before_code": "B-149",
+        "name": "Sebastian Inacker / FMS Web（fmsweb.de）",
+        "country": "德国",
+        "city": "Umkirch (Freiburg)",
+        "email": "+49 761 2926500 / inacker@fmsweb.de",
+        "site": "fmsweb.de",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-149（B 级）。本条与 A-083、A-239 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-423。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-423",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Germany"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-149"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[1]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "4d376a772f5dc208856e83156c54c10de45ea7aa",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6227,16 +6305,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-207",
+    "code": "A-424",
     "name": "WIFIPROFI.CZ",
     "country": "捷克",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-299",
     "legacy_source_label": "2026-09-22",
     "site_lead": "shop5.wifiprofi.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Czech+Republic"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-424",
+        "before_code": "B-207",
+        "name": "WIFIPROFI.CZ",
+        "country": "捷克",
+        "city": "",
+        "email": "774 331 774 / klima@wifiprofi.cz",
+        "site": "shop5.wifiprofi.cz",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-207（B 级）。本条与 A-288 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-424。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-424",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Czech+Republic"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-207"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[2]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "d9c7715a3bf3e8447e7f7c877c2f59f84d19c032",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -8201,16 +8318,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-288",
+    "code": "A-425",
     "name": "Rein Podra",
     "country": "爱沙尼亚",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-380",
     "legacy_source_label": "2026-09-22",
     "site_lead": "ccisrd.eu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Estonia"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-425",
+        "before_code": "B-288",
+        "name": "Rein Podra",
+        "country": "爱沙尼亚",
+        "city": "Põltsamaa",
+        "email": "+372 505 1372 / rein.podra@ccisrd.eu",
+        "site": "ccisrd.eu",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-288（B 级）。本条与 A-374 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCUME + 直达邮箱 + 非硬排除 → 人工定级升 A-425。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Estonia)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-425",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Estonia"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-288"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[3]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [
       "batch/ee.json / item[1]"
     ],
@@ -11217,16 +11373,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-430",
+    "code": "A-426",
     "name": "Aris Vink / SDC",
     "country": "荷兰",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-522",
     "legacy_source_label": "2026-09-22",
     "site_lead": "sdc.nl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-426",
+        "before_code": "B-430",
+        "name": "Aris Vink / SDC",
+        "country": "荷兰",
+        "city": "Zoetermeer",
+        "email": "+31 6 17552148 / aris@sdc.nl",
+        "site": "sdc.nl",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-430（B 级）。本条与 A-131、A-286 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE + 直达邮箱 + 非硬排除 → 人工定级升 A-426。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-426",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Netherlands"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-430"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[4]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "ddcf52da580978559ef2a318e07981d963731ec0",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11247,16 +11442,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-432",
+    "code": "A-427",
     "name": "Corné van Halteren / DAEL",
     "country": "荷兰",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-524",
     "legacy_source_label": "2026-09-22",
     "site_lead": "dael.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-427",
+        "before_code": "B-432",
+        "name": "Corné van Halteren / DAEL",
+        "country": "荷兰",
+        "city": "'s-Hertogenbosch",
+        "email": "+31 6 28026574 / corne.vanhalteren@dael.com",
+        "site": "dael.com",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-432（B 级）。本条与 A-285 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE + 直达邮箱 + 非硬排除 → 人工定级升 A-427。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-427",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Netherlands"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-432"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[5]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "ddcf52da580978559ef2a318e07981d963731ec0",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11322,16 +11556,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-437",
+    "code": "A-428",
     "name": "Jasper Hagoort / Dside",
     "country": "荷兰",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-529",
     "legacy_source_label": "2026-09-22",
     "site_lead": "dside.nl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-428",
+        "before_code": "B-437",
+        "name": "Jasper Hagoort / Dside",
+        "country": "荷兰",
+        "city": "Geertruidenberg",
+        "email": "+31 6 50462617 / jasper@dside.nl",
+        "site": "dside.nl",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-437（B 级）。本条与 A-090 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCSE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-428。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-428",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Netherlands"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-437"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[6]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "ddcf52da580978559ef2a318e07981d963731ec0",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -11471,83 +11744,53 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-442",
+    "code": "A-429",
     "name": "Michiel Visser / Connection Services",
     "country": "荷兰",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-534",
     "legacy_source_label": "2026-09-22",
     "site_lead": "connectionservices.nl",
     "record_urls": [
-      "https://connectionservices.nl/"
+      "https://connectionservices.nl/",
+      "https://mikrotik.com/consultants?region=Netherlands"
     ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
-        "code": "B-442",
+        "code": "A-429",
+        "before_code": "B-442",
         "name": "Michiel Visser / Connection Services",
         "country": "荷兰",
         "city": "Deventer",
-        "email": "michiel@connectionservices.nl",
+        "email": "+31 6 29047127 / michiel@connectionservices.nl",
         "site": "connectionservices.nl",
-        "level": "official-company",
-        "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点仅 IPv6 就绪自检占位页（IPv6 测试与 HE 认证徽章，含 MichielVisser 徽章名），无业务/产品内容 → 本次无升级证据；具名联系人保留，下批换路径（工商/社媒/域名注册）复核。未发送邮件、未提交表单。 证据：[1](https://www.connectionservices.nl/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-442",
-        "quote": "connectionservices.nl：页面内容为 IPv6_ready_logo、IPv6 连接测试与 ipv6.he.net 认证徽章（pass_name=MichielVisser）、test-ipv6.com 链接；未见业务介绍或产品页",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-442（B 级）。本条与 A-271 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-429。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-429",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
         "sources": [
           [
             1,
-            "https://www.connectionservices.nl/"
-          ]
-        ],
-        "local_sources": [
-          "客户名单_反向信号_2026-09.csv：B-442原备注“含 MTCINE（ISP 互联）+ MTCWE（无线）”、入口“+31 6 29047127 / michiel@connectionservices.nl”"
-        ],
-        "fields_supported": [
-          "入口/联系方式（含邮箱/电话）",
-          "网站/候选域名",
-          "身份关联（按note限制）",
-          "评级依据（B/C复筛核验）"
-        ],
-        "retrieved_on": "2026-09-28",
-        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
-        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
-        "before_code": null,
-        "decision": "hold-B",
-        "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
-        "locator": "records[11]",
-        "recorded_on": "2026-09-28"
-      },
-      {
-        "code": "B-442",
-        "name": "Michiel Visser / Connection Services",
-        "country": "荷兰",
-        "city": "Deventer",
-        "email": "michiel@connectionservices.nl",
-        "other_emails": "",
-        "site": "connectionservices.nl",
-        "level": "official-company",
-        "note": "【2026-09-28 R49 复筛补录】站点仅占位页；与 A-271 同名同人，保留不合并。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://connectionservices.nl/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442",
-        "quote": "connectionservices.nl 现仅单页 IPv6 连通性测试占位（含 he.net 徽章），无公司介绍/产品/服务正文；原入口 +31 6 29047127 / michiel@connectionservices.nl 保留",
-        "sources": [
+            "https://mikrotik.com/consultants?region=Netherlands"
+          ],
           [
-            1,
-            "https://connectionservices.nl/"
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-442"
           ]
         ],
-        "local_sources": [
-          "客户名单_反向信号_2026-09.csv：B-442 原入口“+31 6 29047127 / michiel@connectionservi”、原备注“含 MTCINE（ISP 互联）+ MTCWE（无线） 【2026-09-28 R49 复筛补录】来源等级：offici”"
-        ],
         "fields_supported": [
-          "备注（复筛证据补录，等级不变）"
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
         ],
         "retrieved_on": "2026-09-28",
-        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
-        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
-        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442",
-        "decision": "hold-B",
-        "before_code": null,
-        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
-        "locator": "records[37]",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[7]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -11556,16 +11799,55 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "B-443",
+    "code": "A-430",
     "name": "MikroTrain（荷兰 MikroTik 培训）",
     "country": "荷兰",
-    "grade": "B",
+    "grade": "A",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-535",
     "legacy_source_label": "2026-09-22",
     "site_lead": "mikrotrain.nl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-430",
+        "before_code": "B-443",
+        "name": "MikroTrain（荷兰 MikroTik 培训）",
+        "country": "荷兰",
+        "city": "",
+        "email": "+31 6 12224005 / info@mikrotrain.nl",
+        "site": "mikrotrain.nl",
+        "level": "official-directory-dup",
+        "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-443（B 级）。本条与 A-259 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE + 直达邮箱 + 非硬排除 → 人工定级升 A-430。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-430",
+        "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+        "sources": [
+          [
+            1,
+            "https://mikrotik.com/consultants?region=Netherlands"
+          ],
+          [
+            2,
+            "batch/dedup_hints_2026-09-28_R50.json#B-443"
+          ]
+        ],
+        "fields_supported": [
+          "评级（B→A 达标升级）",
+          "档案编号",
+          "评级依据",
+          "人工定级",
+          "备注"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+        "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+        "decision": "promote",
+        "batch_path": "batch/contact_research_2026-09-28_R51_达标即升级.json",
+        "locator": "records[8]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "ddcf52da580978559ef2a318e07981d963731ec0",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
