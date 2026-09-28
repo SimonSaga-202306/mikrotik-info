@@ -58,10 +58,10 @@
     },
     {
       "path": "AGENT-README.md",
-      "sha256": "1853f874b23894a977071ee42606b353a48632c9536873dde0a70d34621ff223",
-      "bytes": 26146,
+      "sha256": "130dec3632b47992ccd376cd63865c84cc75da8b9d3c68b7fcf3b3d8cc39136a",
+      "bytes": 26545,
       "tracked_at_scan": true,
-      "units_scanned": 156,
+      "units_scanned": 158,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -167,11 +167,11 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "a4dc23f9b620d556fa9f133489cc27d271ec5f532fb0ab4e9937af5e2ab237f1",
-      "bytes": 301229,
+      "sha256": "a918f68135e932c2000e3d489455872482201a82bfccb1a790114302fc9f5daa",
+      "bytes": 301622,
       "tracked_at_scan": true,
       "units_scanned": 20380,
-      "unique_url_count": 871,
+      "unique_url_count": 872,
       "inspection": {
         "zip_members": 24,
         "embedded_media": 0,
@@ -353,10 +353,10 @@
     },
     {
       "path": "README.md",
-      "sha256": "fd58285ef90c478b353ee6e6a32215b6c496be3b6fb11f012425b7d7a9c2ee91",
-      "bytes": 6585,
+      "sha256": "6bc20fc048f0ec3734e895e47c618f3185430e86c1b7f2c100f3d93c0b487f61",
+      "bytes": 6845,
       "tracked_at_scan": true,
-      "units_scanned": 76,
+      "units_scanned": 77,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -745,6 +745,16 @@
       "errors": []
     },
     {
+      "path": "batch/contact_research_2026-09-28_R52_达标复核补升.json",
+      "sha256": "752ef738728cc19e8ab628023f20440e16c3a7c0dc224f22fab3a4701c1698c6",
+      "bytes": 1780,
+      "tracked_at_scan": false,
+      "units_scanned": 40,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/dedup_hints_2026-09-28_R50.json",
       "sha256": "82bef382081d3046a8a98c9229624b6cd3cb60fcd13fc4fb9047248f13705efd",
       "bytes": 27684,
@@ -905,6 +915,16 @@
       "errors": []
     },
     {
+      "path": "batch/达标复核_2026-09-28_R52_维持原级清单.json",
+      "sha256": "63d3a9e91da3c39ed986a0aa522693421680d25f673250d4dd0ad654c592f709",
+      "bytes": 18930,
+      "tracked_at_scan": false,
+      "units_scanned": 531,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "docs/audit/2026-09-27_A210-A239联络核验.md",
       "sha256": "bbdb68affb992e73964a79a2f6814250eb45cd72a28aeb052417daf65e980352",
       "bytes": 9110,
@@ -1035,6 +1055,16 @@
       "errors": []
     },
     {
+      "path": "docs/audit/2026-09-28_R52_重复提示达标复核.md",
+      "sha256": "a9eb5dfe61751041dc56bef182eb09f64f53659998f9a402f5e8bf06f552e837",
+      "bytes": 4648,
+      "tracked_at_scan": false,
+      "units_scanned": 57,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "docs/evidence/来源规则与资料地图.md",
       "sha256": "7e7f1ccd3a71eae2f25442cde34774310cb7ca3a8f47ccf5f9d29fbe695e71ef",
       "bytes": 6975,
@@ -1056,17 +1086,17 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "68fe42da22a65747b944c1a31bf5090643a86fe57c7ce8f9dde68f06813522ab",
-      "bytes": 70482,
+      "sha256": "ad90787c1dde50523153ceca78a7c5c4fb646aacf63cf8268a33c6975e2fe28b",
+      "bytes": 71839,
       "tracked_at_scan": true,
-      "units_scanned": 994,
+      "units_scanned": 1003,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/00-索引.md",
-      "sha256": "9b412d2a050e5f86cd077ea92229e6d1a80157fd533f21537fa3a2f882e58f56",
+      "sha256": "471bbeea788b33b4cb0f76548fd719b1d25560d55d61226ab3b720920e24198e",
       "bytes": 91630,
       "tracked_at_scan": true,
       "units_scanned": 1058,
@@ -5375,6 +5405,16 @@
       "errors": []
     },
     {
+      "path": "profile/A/A-431-Tomislav Vrebac - Kerberos-克罗地亚.md",
+      "sha256": "88a74c1c7e528b5f4ac2333632c8f388c7bb9a8ccd0a5f99e184156ea66ceba0",
+      "bytes": 4555,
+      "tracked_at_scan": false,
+      "units_scanned": 95,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
       "sha256": "0015a6c959d5c0b91d964e33ae922838372fa234205a535d22ab2fd549b2c2b7",
       "bytes": 1887,
@@ -8625,16 +8665,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-011-Tomislav Vrebac - Kerberos-克罗地亚.md",
-      "sha256": "686f79ec418b8508bdc99561e32e23b91ce9d1c4074f4ac5e36a24ea12b9b651",
-      "bytes": 3104,
-      "tracked_at_scan": true,
-      "units_scanned": 78,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-012-Franklin Empire-加拿大.md",
       "sha256": "8c91b2fa9f97fdbaaebdd1a16d3eec624b5249659c897708865de81b19ea611c",
       "bytes": 3207,
@@ -11506,10 +11536,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "ad7c3cce7d096af399a70af0795bf67bae49caaded69398f471f99c14c9a8102",
-      "bytes": 55700,
+      "sha256": "136fbb2f310b4735ca0dddabe91d5ef19b8097fbfb00b3fab125e457764b4a7e",
+      "bytes": 58570,
       "tracked_at_scan": true,
-      "units_scanned": 878,
+      "units_scanned": 921,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []
@@ -11536,11 +11566,11 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "9f9a9daf2cc6f6ed4548bc34a1e44d2c1da2d0713d5d5d1a7b8c563c38130b36",
-      "bytes": 295589,
+      "sha256": "603ff83b1ccdee5a85ea5aabc6c885ff5a182a9bede49c6ad4d0016e73c98a99",
+      "bytes": 296103,
       "tracked_at_scan": true,
-      "units_scanned": 21258,
-      "unique_url_count": 871,
+      "units_scanned": 21260,
+      "unique_url_count": 872,
       "inspection": {
         "zip_members": 12,
         "embedded_media": 0,
@@ -11549,7 +11579,7 @@
           {
             "name": "A级-重点好跟进",
             "state": "visible",
-            "nonempty_cells": 9644
+            "nonempty_cells": 9667
           },
           {
             "name": "B级-慢慢跟",
@@ -11559,7 +11589,7 @@
           {
             "name": "C级-难啃",
             "state": "visible",
-            "nonempty_cells": 5867
+            "nonempty_cells": 5846
           },
           {
             "name": "说明-评级口径与打法",
@@ -11572,11 +11602,11 @@
     },
     {
       "path": "客户名单_反向信号_2026-09.csv",
-      "sha256": "81e709ed96e435c0ee716b0800b0de8e0be6458c3094cb597ad02a8b48520f43",
-      "bytes": 804981,
+      "sha256": "c3cecf4f833be37c84c2dfb6a5f44ec1f8a3b6fee6c3953aa83512415c0b41bb",
+      "bytes": 805909,
       "tracked_at_scan": true,
       "units_scanned": 17521,
-      "unique_url_count": 871,
+      "unique_url_count": 872,
       "inspection": {
         "headers": [
           "公司名",

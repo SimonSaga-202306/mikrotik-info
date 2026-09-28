@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `7f4dfd3fc73c` | 2026-09-28T01:40:43+00:00 | Refresh audit index after R51 commit |
 | `3a9e80117291` | 2026-09-28T01:40:34+00:00 | R51: upgrade qualifying duplicate-hint rows to A (user rule: upgrade when A standard met) |
 | `6f2988b7ef51` | 2026-09-28T01:33:48+00:00 | Refresh audit index after R50 commit |
 | `b98c0afd83e2` | 2026-09-28T01:33:37+00:00 | R50: mine existing 1033-row list for A-class (37 promotions, 31 dedup hints) |

@@ -6890,3 +6890,20 @@
   - [1](https://mikrotik.com/consultants?region=Netherlands)
   - [2](batch/dedup_hints_2026-09-28_R50.json#B-443)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-431"></a>
+## A-431 · Tomislav Vrebac / Kerberos · 克罗地亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-604`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：kerberos.hr
+- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
+- 本地原始批次：`batch/balkan.json / item[4]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R52_达标复核补升.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-directory-dup`。
+  - 公开邮箱：mikrotik@kerberos.hr；投递未测试。
+  - 说明：【2026-09-28 R52 达标复核补升】31 条重复提示行逐条复核：本条独立满足 A 标准（★★★+MTCEWE+邮箱）→ 人工定级升 A-431。原 C 级「规模过大」依据为模板词误伤，已复核更正。重复提示保留、不合并。未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Croatia)；批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#A-431
+  - 保留原文：Tomislav Vrebac / Kerberos；mikrotik@kerberos.hr；MTCEWE
+  - [1](https://mikrotik.com/consultants?region=Croatia)
+  - [2](batch/dedup_hints_2026-09-28_R50.json#C-011)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
