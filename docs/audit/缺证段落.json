@@ -158,13 +158,13 @@
   {
     "path": "AGENT-README.md",
     "locator": "L10",
-    "text": "- 本轮基线：`f974d9c`（R47审计刷新；治理回归基线仍为`5ac5c56`）；实际最新提交与干净状态用git检查，不依赖本段猜测。",
+    "text": "- 本轮基线：`ad0302b`（R49审计刷新；治理回归基线仍为`5ac5c56`；R50 内容提交+审计刷新见 git log）；实际最新提交与干净状态用git检查，不依赖本段猜测。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L11",
-    "text": "- 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A384/B361/C288**（R48升级6条B→A：原B-070/B-272/B-465/B-416/B-361/B-175号空缺；R49回升23条C→B：原C-168/C-173/C-176/C-178/C-191/C-194/C-197/C-199/C-204/C-205/C-209/C-210/C-215/C-216/C-226/C-227/C-228/C-272/C-282/C-284/C-285/C-291/C-298号空缺不回填）。",
+    "text": "- 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A421/B324/C288**（R48升级6条B→A、R50存量提炼37条B→A：原B号空缺不回填；R49回升23条C→B：原C-168/C-173/C-176/C-178/C-191/C-194/C-197/C-199/C-204/C-205/C-209/C-210/C-215/C-216/C-226/C-227/C-228/C-272/C-282/C-284/C-285/C-291/C-298号空缺不回填）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -176,13 +176,13 @@
   {
     "path": "AGENT-README.md",
     "locator": "L13",
-    "text": "- `profile/A/`384、`profile/B/`338、`profile/C/`311。编号和CSV物理顺序均冻结（升级行保持原物理位置）。",
+    "text": "- `profile/A/`421、`profile/B/`324、`profile/C/`288。编号和CSV物理顺序均冻结（升级行保持原物理位置）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L14",
-    "text": "- 下一新增或升级A：**A385**。A段联络研究已完成A080–A378；当前工作＝B/C复筛。",
+    "text": "- 下一新增或升级A：**A422**。A段已完成至A421（R48复筛升6条+R50存量提炼升37条）；当前工作＝存量全表复核（R50已完成一轮，待用户裁决重复提示）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -194,498 +194,504 @@
   {
     "path": "AGENT-README.md",
     "locator": "L19",
-    "text": "2. **B/C复筛进行中**（R48第1批：19条核验、6条升级A-379–A-384；R49第2批：9条+B-226维持B、23条C→B邮箱回升）；升级A只接末尾、保持原物理位置。",
+    "text": "2. **存量全表复核（R50）**：不再新挖客户；按既有口径全表过筛升A 37条（A-385–A-421）、31条与A行疑似同一实体只记录去重提示；升级A只接末尾、保持原物理位置。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L20",
-    "text": "3. 复筛标准：先核验官网是否有交换机产品线/渠道证据，再按人工定级；不升级、失败、疑似重复同样落证。",
+    "text": "3. 复筛标准：先核验官网是否有交换机产品线/渠道证据，再按人工定级；不升级、失败、疑似重复同样落证；R50 升A采用「官方名录收录+工程师级认证+直达邮箱+非重复」人工定级。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L21",
-    "text": "3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但803条客户没有逐项证据URL，其他230条也只是有结构化联络记录，不是全字段认证。",
+    "text": "3. 全仓历史补证持续推进：已建立全文件/客户/URL索引，但679条客户没有逐项证据URL，其他354条也只是有结构化联络记录，不是全字段认证（R50后计数，见全仓审计）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L25",
-    "text": "- **A360–A378（本轮）**：19条顺号研究：18条官网/官方结构化数据/官方登记邮箱（含官方mikrotik.com培训中心与顾问名录、公司站联系页）、1条public-register（A372官网正文未列邮箱文字，邮箱取自公司登记/工商目录）、1条leads-only（A378无公开邮箱，保留原电话与「待人工补信息」）；A372/A376/A377移除该块。两份xlsx同步至A378；技术栈/策略/邮件逐字不变。",
-    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
-  },
-  {
-    "path": "AGENT-README.md",
-    "locator": "L26",
-    "text": "  - A360：trainer@mikrotik.net.ua（官方培训中心名录；名录9项证书 vs 原备注“全部十证”仅备注；第二入口smart.center@elko.ua）。A361：dobsovic@itlearning.sk（IT LEARNING SLOVAKIA；+info@itlearning.sk）。A362：ivan.dolnak@connet-group.sk（ConNet Group；+info@connet-group.sk）。A363：sales@soselectronic.com（官网Contact us销售部；Košice总部；具名部门联系人留档）。",
+    "text": "- **R50（存量全表复核与A级提炼）**：1033行全表过筛（硬排除→★★★→有邮箱→工程师级认证→去重）：37条升A（A-385–A-421；原B号清单与逐条判据见批次JSON与审计MD）；31条与A行同邮箱/域名/人名去重提示（29条写入备注、2条早前已记）；C级288条细分理由齐全无可提升；新增批次JSON两个、审计MD一篇；未新挖客户、未发邮件、未提表单。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L27",
-    "text": "  - A364：olisian.sulaj@gmail.com（官方顾问名录条目一致；同页Dritan Vreshta/Erion Demiri留档）。A365：johann@nexus.com.mt（官方顾问名录；+hello@/support@）。A366：info@magit.lt（官网；+pagalba@；原robertas@保留）。A367：training@pgnetpro.bg（官方培训中心名录全十证；+info@mikrotikbg.shop）。",
+    "text": "- **A360–A378（本轮）**：19条顺号研究：18条官网/官方结构化数据/官方登记邮箱（含官方mikrotik.com培训中心与顾问名录、公司站联系页）、1条public-register（A372官网正文未列邮箱文字，邮箱取自公司登记/工商目录）、1条leads-only（A378无公开邮箱，保留原电话与「待人工补信息」）；A372/A376/A377移除该块。两份xlsx同步至A378；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L28",
-    "text": "  - A368：trainer@mikrotik-training.lt（官方名录6证含MTCSWE；主体名MB Tikslingi mokslai仅备注）。A369/A373：office@academia-mikrotik.ro（官方名录8证；A373名录现列MTCSWE与原备注差异仅记录；+vsamburski@gmail.com）。A370：oltionnikolla@gmail.com（官方顾问名录；+admin@router.al）。",
+    "text": "  - A360：trainer@mikrotik.net.ua（官方培训中心名录；名录9项证书 vs 原备注“全部十证”仅备注；第二入口smart.center@elko.ua）。A361：dobsovic@itlearning.sk（IT LEARNING SLOVAKIA；+info@itlearning.sk）。A362：ivan.dolnak@connet-group.sk（ConNet Group；+info@connet-group.sk）。A363：sales@soselectronic.com（官网Contact us销售部；Košice总部；具名部门联系人留档）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L29",
-    "text": "  - A371：martin.soovares@gmail.com（官方顾问名录）。A372：ekomunikacija@pondi.hr（公司登记/工商目录；官网联系页仅电话；原手机保留）。A374：rein.podra@ccisrd.eu（官方顾问名录；名录电话/城市/证书差异仅备注）。A375：jj@netops.lv（官方培训中心名录8证含MTCSWE）。A376：jernej.suhadolc@virtua.si（官方名录MTCNA；virtua-it.si；info@线索仅备注）。A377：ivan.jezerinac@infiniti.hr（官方名录+公司站一致；+trening@infiniti.hr）。A378：未获邮箱，保留人工补信息。",
+    "text": "  - A364：olisian.sulaj@gmail.com（官方顾问名录条目一致；同页Dritan Vreshta/Erion Demiri留档）。A365：johann@nexus.com.mt（官方顾问名录；+hello@/support@）。A366：info@magit.lt（官网；+pagalba@；原robertas@保留）。A367：training@pgnetpro.bg（官方培训中心名录全十证；+info@mikrotikbg.shop）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L30",
-    "text": "- **A340–A359**：15条官网/官方结构化数据/官方登记邮箱、2条official-named（A355具名导师邮箱、A359自营培训站具名邮箱）、1条official-search-only（A343邮箱见公司自设PDF与Kompass，官网仅表单/PEC）、1条public-register（A344无官网，邮箱见2024市镇公开招标文件与工商PEC）、1条partner-directory（A357邮箱取自Zyxel官方分销名录）、12条移除「待人工补信息」标注（本批含块者全部）。两份xlsx同步至A359；技术栈/策略/邮件逐字不变。",
+    "text": "  - A368：trainer@mikrotik-training.lt（官方名录6证含MTCSWE；主体名MB Tikslingi mokslai仅备注）。A369/A373：office@academia-mikrotik.ro（官方名录8证；A373名录现列MTCSWE与原备注差异仅记录；+vsamburski@gmail.com）。A370：oltionnikolla@gmail.com（官方顾问名录；+admin@router.al）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L31",
-    "text": "  - A340：mail@netengineering.it（AT伙伴页列SpA/Sesto S.Giovanni、+39 02 2412541；官网作Srl/Milano-Reggio-Roma；不与Padova工程公司netspa.com合并）。A341：info@securcrea.com（Follonica，Toscana/Piemonte两线）。A342：info@tnet.it（Milano；support@/account@留档）。A343：info@technocenter.it（官网联系页仅表单/PEC；邮箱见公司自设简介PDF+Kompass，标注官网未复现）。A344：worldtechnology@tiscali.it（无官网；2024公开招标文件+PEC worldtechnology@pec.it，触达前复核）。",
+    "text": "  - A371：martin.soovares@gmail.com（官方顾问名录）。A372：ekomunikacija@pondi.hr（公司登记/工商目录；官网联系页仅电话；原手机保留）。A374：rein.podra@ccisrd.eu（官方顾问名录；名录电话/城市/证书差异仅备注）。A375：jj@netops.lv（官方培训中心名录8证含MTCSWE）。A376：jernej.suhadolc@virtua.si（官方名录MTCNA；virtua-it.si；info@线索仅备注）。A377：ivan.jezerinac@infiniti.hr（官方名录+公司站一致；+trening@infiniti.hr）。A378：未获邮箱，保留人工补信息。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L32",
-    "text": "  - A345：info@avelution.nl（AT写Veghel、官网写Schijndel 5482 NN，未改城市）。A346：info@kappadata.nl（Utrecht）。A347：info@kappadata.be（De Pinte；与荷兰实体不混用）。A348：post@nlogic.no（Oslo；salg@销售）。A349：geral@c2f.pt（Barcarena）。",
+    "text": "- **A340–A359**：15条官网/官方结构化数据/官方登记邮箱、2条official-named（A355具名导师邮箱、A359自营培训站具名邮箱）、1条official-search-only（A343邮箱见公司自设PDF与Kompass，官网仅表单/PEC）、1条public-register（A344无官网，邮箱见2024市镇公开招标文件与工商PEC）、1条partner-directory（A357邮箱取自Zyxel官方分销名录）、12条移除「待人工补信息」标注（本批含块者全部）。两份xlsx同步至A359；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L33",
-    "text": "  - A350：info@landatel.com（Las Rozas；清算状态写入备注待核实；Netonix行保留且禁用同芯片话术）。A351：info@meconet.de（Siegen，店内在售Netonix）。A352：info@mhzshop.com（Marquixanes）。A353：info@elmat.com（Padova）。A354：sales@ntsdirect.com（Bolton MA）。",
+    "text": "  - A340：mail@netengineering.it（AT伙伴页列SpA/Sesto S.Giovanni、+39 02 2412541；官网作Srl/Milano-Reggio-Roma；不与Padova工程公司netspa.com合并）。A341：info@securcrea.com（Follonica，Toscana/Piemonte两线）。A342：info@tnet.it（Milano；support@/account@留档）。A343：info@technocenter.it（官网联系页仅表单/PEC；邮箱见公司自设简介PDF+Kompass，标注官网未复现）。A344：worldtechnology@tiscali.it（无官网；2024公开招标文件+PEC worldtechnology@pec.it，触达前复核）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L34",
-    "text": "  - A355：vartan@mikrotikls.com.ua（具名导师；通用info@留档；根页抓取失败，索引+价目页互证）。A356：info@xpatit.gr（XPATIT，Rafina；培训training@）。A357：sales@digitalsima.gr（Zyxel官方名录；官网仅表单）。A358：lexis@lexis.gr（Gerakas；分公司thes@）。A359：vadsco@gmail.com（自营mikrotik.coach；英国站点地址差异仅备注，CSV城市Kyiv保留）。",
+    "text": "  - A345：info@avelution.nl（AT写Veghel、官网写Schijndel 5482 NN，未改城市）。A346：info@kappadata.nl（Utrecht）。A347：info@kappadata.be（De Pinte；与荷兰实体不混用）。A348：post@nlogic.no（Oslo；salg@销售）。A349：geral@c2f.pt（Barcarena）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L35",
-    "text": "- **A320–A339**：18条官网/官方结构化数据/官方登记邮箱、1条官网可逆(at)写法（A335，已规范）、1条leads-only（A334官网为无关占位页，第三方旧案例页联系方式未互证）、19条移除「待人工补信息」标注、1条保留（A334）。两份xlsx同步至A339；技术栈/策略/邮件逐字不变。",
+    "text": "  - A350：info@landatel.com（Las Rozas；清算状态写入备注待核实；Netonix行保留且禁用同芯片话术）。A351：info@meconet.de（Siegen，店内在售Netonix）。A352：info@mhzshop.com（Marquixanes）。A353：info@elmat.com（Padova）。A354：sales@ntsdirect.com（Bolton MA）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L36",
-    "text": "  - A320：contact@evelem.fr（官网首页/服务页；客户空间support@；自社FB同邮箱同电话）。A321：vertrieb@edvpartner.de（Hamburg；Oberhausen的edv-partner.com为同名异主体，不合并）。A322：contact@alphacron.de（Impressum/Datenschutz；AS28748，Inhaber Marc Pauls）。A323：info@berg-duda.de（Sebastian Berg-Duda）。A324：info@hm-electronics.de（AGB页Anbieterkennzeichnung；第三方thomas.hoffmann@不采用）。",
+    "text": "  - A355：vartan@mikrotikls.com.ua（具名导师；通用info@留档；根页抓取失败，索引+价目页互证）。A356：info@xpatit.gr（XPATIT，Rafina；培训training@）。A357：sales@digitalsima.gr（Zyxel官方名录；官网仅表单）。A358：lexis@lexis.gr（Gerakas；分公司thes@）。A359：vadsco@gmail.com（自营mikrotik.coach；英国站点地址差异仅备注，CSV城市Kyiv保留）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L37",
-    "text": "  - A325：info@inseid.de（Ingo Seidenberg IT-Beratung）。A326：info@merlinedv.de（MERLIN Kommunikationstechnik e.K.，Erlangen；CSV城市字段“Bayern”为地区，未改）。A327：contact@cfigroupe.com（AT名录地址为旧址Saint-Ouen，官网现址Saint-Denis Carré Pleyel）。A328：contact@deltasertec.com（Marseille；DPO/招聘邮箱同级留档）。A329：contact@gtd-international.com（GTD集团法国子公司；Kompass具名邮箱不并入）。",
+    "text": "- **A320–A339**：18条官网/官方结构化数据/官方登记邮箱、1条官网可逆(at)写法（A335，已规范）、1条leads-only（A334官网为无关占位页，第三方旧案例页联系方式未互证）、19条移除「待人工补信息」标注、1条保留（A334）。两份xlsx同步至A339；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L38",
-    "text": "  - A330：contact@nxo.eu（总部2026-03-30迁Puteaux；法律页仍Rueil-Malmaison）。A331：contact@synexie.fr（官网+自社FB；现址Toulon，CSV城市为旧址La Valette-du-Var）。A332：info@adrianetsrl.it（2025年由snc转SRL；PEC留档）。A333：info@cgtelettronica.it（罗马/维泰博同邮箱）。",
+    "text": "  - A320：contact@evelem.fr（官网首页/服务页；客户空间support@；自社FB同邮箱同电话）。A321：vertrieb@edvpartner.de（Hamburg；Oberhausen的edv-partner.com为同名异主体，不合并）。A322：contact@alphacron.de（Impressum/Datenschutz；AS28748，Inhaber Marc Pauls）。A323：info@berg-duda.de（Sebastian Berg-Duda）。A324：info@hm-electronics.de（AGB页Anbieterkennzeichnung；第三方thomas.hoffmann@不采用）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L39",
-    "text": "  - A334：无可核证官网页邮箱，保留原电话与「待人工补信息」；第三方旧案例页邮箱/电话未获互证，不写主字段。A335：info@dpsinformatica.it（官网可逆(at)写法，规范书写；commerciale@/sistemi@/tecnici@留档）。A336：info@eulogic.it（Bari/Milano）。A337：info@ingesw.com（官网联系页仅表单；邮箱见公司自设European Job Days档案+名录，域内一致；法定Roma/运营Aprilia）。A338：info@irenesrl.it（运营Genova；注册Savona）。A339：info@mlsoftware.it（Catania；PEC留档）。",
+    "text": "  - A325：info@inseid.de（Ingo Seidenberg IT-Beratung）。A326：info@merlinedv.de（MERLIN Kommunikationstechnik e.K.，Erlangen；CSV城市字段“Bayern”为地区，未改）。A327：contact@cfigroupe.com（AT名录地址为旧址Saint-Ouen，官网现址Saint-Denis Carré Pleyel）。A328：contact@deltasertec.com（Marseille；DPO/招聘邮箱同级留档）。A329：contact@gtd-international.com（GTD集团法国子公司；Kompass具名邮箱不并入）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L40",
-    "text": "- **A300–A319**：18条官网/官方结构化数据/官方登记邮箱（A301仅社媒信箱、A316无公开邮箱，两条leads-only；A307为官网培训页商务信箱、A315为品牌页隐私政策公布邮箱、A319国别待人工确认）、15条移除「待人工补信息」标注、2条保留（A301/A316）。两份xlsx同步至A319；技术栈/策略/邮件逐字不变。",
+    "text": "  - A330：contact@nxo.eu（总部2026-03-30迁Puteaux；法律页仍Rueil-Malmaison）。A331：contact@synexie.fr（官网+自社FB；现址Toulon，CSV城市为旧址La Valette-du-Var）。A332：info@adrianetsrl.it（2025年由snc转SRL；PEC留档）。A333：info@cgtelettronica.it（罗马/维泰博同邮箱）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L41",
-    "text": "  - A300：info@gbeconverge.com（AT Platinum、隶属Mitie；荷兰EMEA邮箱info@gbeconvergebv.com次级）。A302：contact@accyotta.com（help@支持同站）。A303：info@trusol.com（Electracom Projects Ltd为另一家，不合并）。A304：sales@euroele.com（techsupport@技术）。",
+    "text": "  - A334：无可核证官网页邮箱，保留原电话与「待人工补信息」；第三方旧案例页邮箱/电话未获互证，不写主字段。A335：info@dpsinformatica.it（官网可逆(at)写法，规范书写；commerciale@/sistemi@/tecnici@留档）。A336：info@eulogic.it（Bari/Milano）。A337：info@ingesw.com（官网联系页仅表单；邮箱见公司自设European Job Days档案+名录，域内一致；法定Roma/运营Aprilia）。A338：info@irenesrl.it（运营Genova；注册Savona）。A339：info@mlsoftware.it（Catania；PEC留档）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L42",
-    "text": "  - A305：info@quadratek.net（主体PH15 Ventures Ltd）。A306：enquiries@holkerit.co.uk（AT UK Partner of the Year+Platinum；次级reassuringit@/support@）。A307：ec@bluebearsit.com（官网培训页商务信箱；第三方contact@/cg@仅候选）。A311：sales@fikesmedia.com。",
+    "text": "- **A300–A319**：18条官网/官方结构化数据/官方登记邮箱（A301仅社媒信箱、A316无公开邮箱，两条leads-only；A307为官网培训页商务信箱、A315为品牌页隐私政策公布邮箱、A319国别待人工确认）、15条移除「待人工补信息」标注、2条保留（A301/A316）。两份xlsx同步至A319；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L43",
-    "text": "  - A308：contact@itni.fr（官网反诈提示供应商往来须先电话）。A309：info@gci.it（米兰/罗马/Lacchiarella，本行城市对应罗马办公室）。A310：office@ittrust.at（无HTTPS旧站+FirmenABC登记Andreas Smeczka）。A312：info@atlantikelektronik.com（Lantronix获奖分销，Planegg）。A313：info@powertechcontrols.com（Ronkonkoma NY）。",
+    "text": "  - A300：info@gbeconverge.com（AT Platinum、隶属Mitie；荷兰EMEA邮箱info@gbeconvergebv.com次级）。A302：contact@accyotta.com（help@支持同站）。A303：info@trusol.com（Electracom Projects Ltd为另一家，不合并）。A304：sales@euroele.com（techsupport@技术）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L44",
-    "text": "  - A314：info@ningaloo.nl（顾问名录电话与Maurik公司官网电话一致）。A315：roelof.daleboudt@ip-central.nl（品牌页隐私政策公布；2025-08并入NiceCloud）。A317：info@sheaelectricllc.com（第三方项目页csheskey@候选）。A318：deinta@deinta.com（CIF B99060089；DPO privacidad@）。A319：ventas@nexus.com.pe（elioplus标注Peru，本行原为西班牙，国别待人工确认，未改字段/编号）。",
+    "text": "  - A305：info@quadratek.net（主体PH15 Ventures Ltd）。A306：enquiries@holkerit.co.uk（AT UK Partner of the Year+Platinum；次级reassuringit@/support@）。A307：ec@bluebearsit.com（官网培训页商务信箱；第三方contact@/cg@仅候选）。A311：sales@fikesmedia.com。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L45",
-    "text": "  - A301/A316：无官网页邮箱，保留原电话与「待人工补信息」；A301的social@3tec.co.uk仅为社媒信箱，A316不采信第三方邮箱格式站点推断。",
+    "text": "  - A308：contact@itni.fr（官网反诈提示供应商往来须先电话）。A309：info@gci.it（米兰/罗马/Lacchiarella，本行城市对应罗马办公室）。A310：office@ittrust.at（无HTTPS旧站+FirmenABC登记Andreas Smeczka）。A312：info@atlantikelektronik.com（Lantronix获奖分销，Planegg）。A313：info@powertechcontrols.com（Ronkonkoma NY）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L46",
-    "text": "- 上一批：A280–A299：11条官网/官方结构化数据/官方登记邮箱（A292为账单专用弱通道、A291含RIPE注册次级地址、A282含第三方分地址）、1条第三方目录结构化数据后仍无正文邮箱（A281）、8条leads-only保留原电话。两份xlsx同步至A299；技术栈/策略/邮件逐字不变。",
+    "text": "  - A314：info@ningaloo.nl（顾问名录电话与Maurik公司官网电话一致）。A315：roelof.daleboudt@ip-central.nl（品牌页隐私政策公布；2025-08并入NiceCloud）。A317：info@sheaelectricllc.com（第三方项目页csheskey@候选）。A318：deinta@deinta.com（CIF B99060089；DPO privacidad@）。A319：ventas@nexus.com.pe（elioplus标注Peru，本行原为西班牙，国别待人工确认，未改字段/编号）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L47",
-    "text": "  - A280：官网联系页sales@/info@/accounting@/orders@四入口；Deliberant经销页另给invictusnetworks.com候选域名，不并入主字段。A281：Manta结构化数据给地址/电话/sameAs，站点抓取失败+Wayback 429，无邮箱。",
+    "text": "  - A301/A316：无官网页邮箱，保留原电话与「待人工补信息」；A301的social@3tec.co.uk仅为社媒信箱，A316不采信第三方邮箱格式站点推断。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L48",
-    "text": "  - A282：官网info@berdin.com+Belartza地址；madrid@/berdinonline/agil第三方分地址次级留档。A283：Jellyfish Broadband官网结构化数据hello@+0800电话；Companies House 15800355与ICO ZB722352互证自营WISP身份。",
+    "text": "- 上一批：A280–A299：11条官网/官方结构化数据/官方登记邮箱（A292为账单专用弱通道、A291含RIPE注册次级地址、A282含第三方分地址）、1条第三方目录结构化数据后仍无正文邮箱（A281）、8条leads-only保留原电话。两份xlsx同步至A299；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L49",
-    "text": "  - A285/A286/A287/A288：官网 info@dael.com、info@sdc.nl（verkoop@/support@同站）、info@gewoon-it.nl、klima@wifiprofi.cz（Kryštof Klíma，TR0001）。A291：info@adeodc.dk，RIPE另列ms@adeodc.dk。A294：ISP Supplies官方页sales@（mywisptraining本轮522，info@仅索引待核）。",
+    "text": "  - A280：官网联系页sales@/info@/accounting@/orders@四入口；Deliberant经销页另给invictusnetworks.com候选域名，不并入主字段。A281：Manta结构化数据给地址/电话/sameAs，站点抓取失败+Wayback 429，无邮箱。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L50",
-    "text": "  - A299：info@sn-solution.hu；匈牙利公司登记显示Bacskai Antal Gábor为该公司ügyvezető（名录人士即公司负责人）。A292：官网只有billing@panorafiber.com（注明非24/7），技术/采购邮箱仍缺。",
+    "text": "  - A282：官网info@berdin.com+Belartza地址；madrid@/berdinonline/agil第三方分地址次级留档。A283：Jellyfish Broadband官网结构化数据hello@+0800电话；Companies House 15800355与ICO ZB722352互证自营WISP身份。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L51",
-    "text": "  - A284/A289/A290/A293/A295/A296/A297/A298：遮罩邮箱或无可归属主体，保留原电话；遮罩与第三方拼接候选（A290 hotmail/gmail/borderstates、A294 sdischer@）不采信；同名外部主体（A293 prado.consulting/mikrohelp、A296、A297、A298）不冒用。",
+    "text": "  - A285/A286/A287/A288：官网 info@dael.com、info@sdc.nl（verkoop@/support@同站）、info@gewoon-it.nl、klima@wifiprofi.cz（Kryštof Klíma，TR0001）。A291：info@adeodc.dk，RIPE另列ms@adeodc.dk。A294：ISP Supplies官方页sales@（mywisptraining本轮522，info@仅索引待核）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L52",
-    "text": "- 更早批次：A260–A279：16条官网/关联机构正文邮箱（含1条可逆(at)/(dot)、1条历史具名仅存档）、1条官网搜索索引待核、1条第三方目录结构化数据、2条仍无匹配邮箱。两份xlsx同步至A279；技术栈/策略/邮件逐字不变。",
+    "text": "  - A299：info@sn-solution.hu；匈牙利公司登记显示Bacskai Antal Gábor为该公司ügyvezető（名录人士即公司负责人）。A292：官网只有billing@panorafiber.com（注明非24/7），技术/采购邮箱仍缺。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L53",
-    "text": "  - A260：官网联系页info@与Haarlem地址、电话；LinkedIn/案例确认Maurice与GPE Networks；库内B-440同名同公司只关联不合并。A261：IP Techniek官网sales@，LinkedIn显示本人任职与Bladel一致。",
+    "text": "  - A284/A289/A290/A293/A295/A296/A297/A298：遮罩邮箱或无可归属主体，保留原电话；遮罩与第三方拼接候选（A290 hotmail/gmail/borderstates、A294 sdischer@）不采信；同名外部主体（A293 prado.consulting/mikrohelp、A296、A297、A298）不冒用。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L54",
-    "text": "  - A262：官方课程表确认里斯本培训伙伴；邮箱仅搜索索引且课程页404，标注待核。A263：官网可逆(at)/(dot)+sales@；旧电话与官网不同不改写客户字段。",
+    "text": "- 更早批次：A260–A279：16条官网/关联机构正文邮箱（含1条可逆(at)/(dot)、1条历史具名仅存档）、1条官网搜索索引待核、1条第三方目录结构化数据、2条仍无匹配邮箱。两份xlsx同步至A279；技术栈/策略/邮件逐字不变。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L55",
-    "text": "  - A264/A265：官网 enquiries@ / sales@sphinxfrance.fr，与Perle名录地址一致；部门邮箱分层记录。A266：支持页supportdesk@、首页结构化sales@，2018 MUM的andy@仅历史。",
+    "text": "  - A260：官网联系页info@与Haarlem地址、电话；LinkedIn/案例确认Maurice与GPE Networks；库内B-440同名同公司只关联不合并。A261：IP Techniek官网sales@，LinkedIn显示本人任职与Bladel一致。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L56",
-    "text": "  - A267/A268/A269/A270：官网正文 sales@industrialcomms.com、sales@5gstore.com、info@microtechnology.net、sales@data-connect.com（含分角色入口）。",
+    "text": "  - A262：官方课程表确认里斯本培训伙伴；邮箱仅搜索索引且课程页404，标注待核。A263：官网可逆(at)/(dot)+sales@；旧电话与官网不同不改写客户字段。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L57",
-    "text": "  - A271：LinkedIn显示任职Interstellar并做MTPC 2026 spine-leaf演讲；官网集团邮箱info@；名录城市与LinkedIn所在地不同不改城市。",
+    "text": "  - A264/A265：官网 enquiries@ / sales@sphinxfrance.fr，与Perle名录地址一致；部门邮箱分层记录。A266：支持页supportdesk@、首页结构化sales@，2018 MUM的andy@仅历史。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L58",
-    "text": "  - A273：官网 consulting@（原样含空格）；kevin.myers@仅2016 MUM PDF，历史具名。A274/A275/A276/A277：官网 info@joustsec.com、info@canservers.com、sales@neobits.com、contact@modelec.nl。",
+    "text": "  - A267/A268/A269/A270：官网正文 sales@industrialcomms.com、sales@5gstore.com、info@microtechnology.net、sales@data-connect.com（含分角色入口）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L59",
-    "text": "  - A272：官方名录邮箱为遮罩，保留原电话/WhatsApp，原“补邮箱”标注保留。A278：官网邮箱被遮罩，sales@仅有第三方目录支持，按public-register。A279：站点现为占位页、/contact-us/ 404，无邮箱，保留原电话。",
+    "text": "  - A271：LinkedIn显示任职Interstellar并做MTPC 2026 spine-leaf演讲；官网集团邮箱info@；名录城市与LinkedIn所在地不同不改城市。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L60",
-    "text": "- 更早批次：A240–A259：14条官网/关联机构正文邮箱、2条公共登记、1条官网搜索待核；2条仅仓库旧邮箱未外部确认、1条仍无匹配邮箱/域名；两份xlsx同步至A259。",
+    "text": "  - A273：官网 consulting@（原样含空格）；kevin.myers@仅2016 MUM PDF，历史具名。A274/A275/A276/A277：官网 info@joustsec.com、info@canservers.com、sales@neobits.com、contact@modelec.nl。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L61",
-    "text": "  - A240：AULAF现admin邮箱；Khalil具名邮箱只在旧页索引，旧页404。A241官网具名m.polainer；另存采购主管公开入口，不推断愿采购。",
+    "text": "  - A272：官方名录邮箱为遮罩，保留原电话/WhatsApp，原“补邮箱”标注保留。A278：官网邮箱被遮罩，sales@仅有第三方目录支持，按public-register。A279：站点现为占位页、/contact-us/ 404，无邮箱，保留原电话。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L62",
-    "text": "  - A242：MWTC info及Michał/Piotr具名入口。A243/A252：CS EDU两种法律主体，分别取个人经营者/公司的PARP登记；不合并不同人/实体。",
+    "text": "- 更早批次：A240–A259：14条官网/关联机构正文邮箱、2条公共登记、1条官网搜索待核；2条仅仓库旧邮箱未外部确认、1条仍无匹配邮箱/域名；两份xlsx同步至A259。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L63",
-    "text": "  - A244/A245/A246/A248/A250：有当前公司邮箱，但个人关联依赖历史、目录或原电话交叉，具体限制各条保留，不当现任职认证。",
+    "text": "  - A240：AULAF现admin邮箱；Khalil具名邮箱只在旧页索引，旧页404。A241官网具名m.polainer；另存采购主管公开入口，不推断愿采购。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L64",
-    "text": "  - A247：HC TECH明确info(at)，品牌官网互链；A254：Connect Data sales[at]与mailto一致。A257：弃旧404页，用现葡萄牙comercial邮箱，畸形http邮箱链接不作跳转。",
+    "text": "  - A242：MWTC info及Michał/Piotr具名入口。A243/A252：CS EDU两种法律主体，分别取个人经营者/公司的PARP登记；不合并不同人/实体。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L65",
-    "text": "  - A249：旧batch/be_pt_ie.json/B452有Camacho邮箱与同电话，但协会邮箱服务域名不能当个人官网；巴西/葡萄牙/Dublin关联未解决，旧邮箱未加入主联系字段。",
+    "text": "  - A244/A245/A246/A248/A250：有当前公司邮箱，但个人关联依赖历史、目录或原电话交叉，具体限制各条保留，不当现任职认证。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L66",
-    "text": "  - A251：旧batch/hu.json/B083同名音符差异+同电话+旧邮箱；网站403，未外部确认，旧邮箱未加入主联系字段。",
+    "text": "  - A247：HC TECH明确info(at)，品牌官网互链；A254：Connect Data sales[at]与mailto一致。A257：弃旧404页，用现葡萄牙comercial邮箱，畸形http邮箱链接不作跳转。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L67",
-    "text": "  - A253：Noriak旧域503、分销旧页跳首页，邮箱仅搜索索引；Canyon伙伴页502。A258：没有匹配邮箱/域名；排除Chicago招聘经理/演员，同名不冒用。MikroTik动态目录外壳不等于除名。",
+    "text": "  - A249：旧batch/be_pt_ie.json/B452有Camacho邮箱与同电话，但协会邮箱服务域名不能当个人官网；巴西/葡萄牙/Dublin关联未解决，旧邮箱未加入主联系字段。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L68",
-    "text": "  - A259：官网确认Henk/MikroTrain；现隐私页及2023PDF邮箱，关联B443，仅记录不合并。",
+    "text": "  - A251：旧batch/hu.json/B083同名音符差异+同电话+旧邮箱；网站403，未外部确认，旧邮箱未加入主联系字段。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L69",
-    "text": "- 本轮证据：`batch/contact_research_2026-09-27_A340-A359.json`、[核验说明](docs/audit/2026-09-27_A340-A359联络核验.md)；R46已入唯一要求总账，精确消息时间未知。",
+    "text": "  - A253：Noriak旧域503、分销旧页跳首页，邮箱仅搜索索引；Canyon伙伴页502。A258：没有匹配邮箱/域名；排除Chicago招聘经理/演员，同名不冒用。MikroTik动态目录外壳不等于除名。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L70",
-    "text": "- 上批证据：`batch/contact_research_2026-09-27_A320-A339.json`、[核验说明](docs/audit/2026-09-27_A320-A339联络核验.md)；R45已入唯一要求总账，精确消息时间未知。",
+    "text": "  - A259：官网确认Henk/MikroTrain；现隐私页及2023PDF邮箱，关联B443，仅记录不合并。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L71",
-    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A300-A319.json`、[核验说明](docs/audit/2026-09-27_A300-A319联络核验.md)。",
+    "text": "- 本轮证据：`batch/contact_research_2026-09-27_A340-A359.json`、[核验说明](docs/audit/2026-09-27_A340-A359联络核验.md)；R46已入唯一要求总账，精确消息时间未知。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L72",
-    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A280-A299.json`（A280–A299）。",
+    "text": "- 上批证据：`batch/contact_research_2026-09-27_A320-A339.json`、[核验说明](docs/audit/2026-09-27_A320-A339联络核验.md)；R45已入唯一要求总账，精确消息时间未知。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L73",
-    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A260-A279.json`（A260–A279）。",
+    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A300-A319.json`、[核验说明](docs/audit/2026-09-27_A300-A319联络核验.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L74",
-    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A240-A259.json`（A240–A259）。",
+    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A280-A299.json`（A280–A299）。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "AGENT-README.md",
+    "locator": "L75",
+    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A260-A279.json`（A260–A279）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L76",
-    "text": "- A210–A239（更早批次）：**22当前官网/商城正文 / 2协会或公共登记 / 2旧官方PDF / 2官网搜索索引 / 1身份城市待核 / 1仅电话线索**。该批两份xlsx同步到A239。",
-    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
-  },
-  {
-    "path": "AGENT-README.md",
-    "locator": "L77",
-    "text": "  - A212：Pomezia S.C.E.目录电话；无匹配邮箱，不冒用Modena/Zevio同名公司。",
+    "text": "- 更早批次证据：`batch/contact_research_2026-09-27_A240-A259.json`（A240–A259）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L78",
-    "text": "  - A215：SIM NT官网关闭、旧页404，邮箱搜索索引待核。A233：Young官网抓取500，报价邮箱仅索引待核。",
+    "text": "- A210–A239（更早批次）：**22当前官网/商城正文 / 2协会或公共登记 / 2旧官方PDF / 2官网搜索索引 / 1身份城市待核 / 1仅电话线索**。该批两份xlsx同步到A239。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L79",
-    "text": "  - A218：2023年官方PDF；A236：2007年演讲PDF，现任单位/邮箱有效性待核；旧域名跳转不证明个人仍在职。",
+    "text": "  - A212：Pomezia S.C.E.目录电话；无匹配邮箱，不冒用Modena/Zevio同名公司。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L80",
-    "text": "  - A227：官网Warszawa与主表Olsztyn不同；第三方同域名同电话桥接未完成登记核对，邮箱只作候选，主表城市及空白网站保留。",
+    "text": "  - A215：SIM NT官网关闭、旧页404，邮箱搜索索引待核。A233：Young官网抓取500，报价邮箱仅索引待核。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L81",
-    "text": "  - A221、A238：邮箱显示文字与mailto冲突，采用另一条显示/链接一致的通用/销售邮箱。",
+    "text": "  - A218：2023年官方PDF；A236：2007年演讲PDF，现任单位/邮箱有效性待核；旧域名跳转不证明个人仍在职。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L82",
-    "text": "  - A232：官网公开网络产品经理Vitor Gama及直线，不猜个人邮箱。",
+    "text": "  - A227：官网Warszawa与主表Olsztyn不同；第三方同域名同电话桥接未完成登记核对，邮箱只作候选，主表城市及空白网站保留。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L83",
-    "text": "  - 关联候选：A234↔A031、A235↔A013、A236↔B297、A237↔B299、A239↔A083/B141/B149；仅记录，不合并、不改前49、不算B/C复筛。",
+    "text": "  - A221、A238：邮箱显示文字与mailto冲突，采用另一条显示/链接一致的通用/销售邮箱。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L84",
-    "text": "- 上批证据：`batch/contact_research_2026-09-27_A210-A239.json`；[核验说明](docs/audit/2026-09-27_A210-A239联络核验.md)。本轮只改网站/联系方式/备注，原评级依据不动。",
+    "text": "  - A232：官网公开网络产品经理Vitor Gama及直线，不猜个人邮箱。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "AGENT-README.md",
+    "locator": "L85",
+    "text": "  - 关联候选：A234↔A031、A235↔A013、A236↔B297、A237↔B299、A239↔A083/B141/B149；仅记录，不合并、不改前49、不算B/C复筛。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L86",
-    "text": "- A110–A199（基线5ac5c56）：88条公开邮箱（87个独立主邮箱）；A111/A119仅线索。A118/A123/A165/A167第三方待核；A152/A153共享集团入口，不合并账户。",
-    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
-  },
-  {
-    "path": "AGENT-README.md",
-    "locator": "L87",
-    "text": "- A200–A209（上一批）：**7官网正文 / 1第三方旧目录 / 1旧官网搜索索引 / 1仅名录身份线索**。",
+    "text": "- 上批证据：`batch/contact_research_2026-09-27_A210-A239.json`；[核验说明](docs/audit/2026-09-27_A210-A239联络核验.md)。本轮只改网站/联系方式/备注，原评级依据不动。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L88",
-    "text": "  - A201：旧目录m.fucelli邮箱，官网只给表单，待核；不是官网证实。",
+    "text": "- A110–A199（基线5ac5c56）：88条公开邮箱（87个独立主邮箱）；A111/A119仅线索。A118/A123/A165/A167第三方待核；A152/A153共享集团入口，不合并账户。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L89",
-    "text": "  - A202：assistenza支持邮箱，不是采购人；旧info邮箱PDF已失效，不冒充当前证据。",
+    "text": "- A200–A209（上一批）：**7官网正文 / 1第三方旧目录 / 1旧官网搜索索引 / 1仅名录身份线索**。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L90",
-    "text": "  - A205：Allied Telesis名录确认姓名和地址，无匹配邮箱/电话；不能冒用Cargill同名人。",
+    "text": "  - A201：旧目录m.fucelli邮箱，官网只给表单，待核；不是官网证实。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L91",
-    "text": "  - A206：info邮箱来自旧官网搜索索引，新站未复见、旧页404；新站表单有效。700全球人员是官网自述，只记录规模风险，不擅改级。",
+    "text": "  - A202：assistenza支持邮箱，不是采购人；旧info邮箱PDF已失效，不冒充当前证据。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
     "locator": "L92",
+    "text": "  - A205：Allied Telesis名录确认姓名和地址，无匹配邮箱/电话；不能冒用Cargill同名人。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "AGENT-README.md",
+    "locator": "L93",
+    "text": "  - A206：info邮箱来自旧官网搜索索引，新站未复见、旧页404；新站表单有效。700全球人员是官网自述，只记录规模风险，不擅改级。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "AGENT-README.md",
+    "locator": "L94",
     "text": "- 批次证据：`batch/contact_research_2026-09-27_A200-A209.json`，包含身份、字段范围、原文摘录、URL、检索日期与限制；在CSV/档案备注及证据MD可查。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L102",
+    "locator": "L104",
     "text": "- **所有可恢复用户要求集中到唯一MD，每轮带时间信息**。真实消息时间缺失就未知；记录时间单列；旧Agent摘要不能伪装用户原话，Git时间不能替代对话时间。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L107",
+    "locator": "L109",
     "text": "- 大陆小贸易商Saga/Saga Telecom，极小预算；Marvell Prestera / 接入层 / 欧洲+美加 / 真正合适的A，数量无所谓。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L110",
+    "locator": "L112",
     "text": "- 新A与升级A永远追加末尾，**不插中间、不重排、不填空号**。前49位不动；第37轮尾部一次性排序已结束。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L116",
+    "locator": "L118",
     "text": "- **Bechtle Direct A103保级**仅个案；A080证书风险用户说OK只代表知悉，不代表有效。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L122",
+    "locator": "L124",
     "text": "入口：[审计报告](docs/audit/全仓审计.md) / [修复验证](docs/audit/2026-09-27_修复与验证.md) / [资料地图](docs/evidence/来源规则与资料地图.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L125",
+    "locator": "L127",
     "text": "- 新增SHA-256文件目录、URL反向索引、缺证候选段落、Git提交索引、1033客户按冻结编号的证据/缺证账。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L126",
+    "locator": "L128",
     "text": "- 修复profile索引1033个相对链接多出一层profile/的问题，含括号文件名仍用 `<...>`。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L127",
+    "locator": "L129",
     "text": "- 修复C级细分变量被目录路径覆盖；C档案“19列”改读实际列宽22；只修展示，不做B/C升级复筛。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L133",
+    "locator": "L135",
     "text": "- R48 只做B/C复筛的人工定级升级，**没有运行grade.py、不改自动评级口径**；禁止把来源说明中的词当作新的客户需求证据；升级行的证据在批次JSON与备注中逐条可查。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L139",
+    "locator": "L141",
     "text": "- `add_batch.py`仍构造17列并用旧去重规则，`fix_audit.py`是历史修补脚本；未经schema/身份测试不要在22列主表直接重跑。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L143",
+    "locator": "L145",
     "text": "python3 scripts/audit_repository.py --date 2026-09-27",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L144",
+    "locator": "L146",
     "text": "python3 -m unittest discover -s tests -v",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L151",
+    "locator": "L153",
     "text": "**从A360继续**；每条保存具体URL、字段、原文摘录、检索日期、来源等级与未确认事项。A340–A359已完成：A343（官网仅表单，邮箱见公司自设PDF/Kompass）、A344（无官网，邮箱见公开招标文件）、A357（邮箱取自厂商名录）为非官网正文来源；A350公司清算状态待人工核实；A340主体名/地址差异与A345/A356/A359地址差异仅备注。A334仍缺可核证正文邮箱（保留原电话与待人工补）；A326/A327/A330/A331城市字段与地区/旧址/现址差异仅备注说明。A280–A299：A284/A289/A290/A293/A295/A296/A297/A298仍缺可验证正文邮箱（保留原电话与待人工补），A292只有账单弱通道，A281站点与Wayback均失败。A205是仅身份线索，A201/A206待确认，不能遗漏复核。A212/A215/A218/A227/A233/A236、A249/A251/A253/A258、A262/A272/A273/A278/A279、A280/A281（Netonix保留豁免，禁用同芯片话术）及A301/A316等限制继续保留。A仍未完成，不启动B/C升级。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "AGENT-README.md",
-    "locator": "L152",
+    "locator": "L154",
     "text": "本轮用户要求/发言时间缺口、R37轮次冲突完整保留于总账；不要宣称恢复了不存在的聊天全文。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
@@ -17180,13 +17186,13 @@
   {
     "path": "README.md",
     "locator": "L21",
-    "text": "- **1,033 条 × 22列：A384 / B361 / C288。**主数据为根目录CSV，用户交付为xlsx。",
+    "text": "- **1,033 条 × 22列：A421 / B324 / C288。**主数据为根目录CSV，用户交付为xlsx。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L22",
-    "text": "- A段联系方式顺号研究已完成至 **A384**；**B/C复筛进行中**（第1批升级6条A-379–A-384；第2批9条+B-226维持B并落证）；下一位 **A385**。",
+    "text": "- A段联系方式顺号研究已完成至 **A421**（R48 复筛升6条、R50 存量全表提炼升37条）；**B/C复筛已并入本轮存量复核**；下一位 **A422**。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17198,96 +17204,102 @@
   {
     "path": "README.md",
     "locator": "L24",
-    "text": "- 本轮（R48）B/C复筛第1批：6条交换机渠道B行（Optitera/WISP.PL/Ditecom/MS Dist/Makro Wisp/WispMax）核验官网产品线后按人工定级升A，追加为A-379–A-384；13条保持B并同样落证（大盘分销/集成服务/培训顾问/失败站点/同域名重复提示）。详见[批次核验](docs/audit/2026-09-28_BC复筛第1批.md)。",
+    "text": "- R48 B/C复筛第1批（历史）：6条交换机渠道B行（Optitera/WISP.PL/Ditecom/MS Dist/Makro Wisp/WispMax）核验官网产品线后按人工定级升A，追加为A-379–A-384；13条保持B并同样落证。详见[批次核验](docs/audit/2026-09-28_BC复筛第1批.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L25",
-    "text": "- **A段已完成，现按顺序复筛B/C。**新增或升级A从 **A379** 往后追加，绝不插队、重排或回填；升级行保持原CSV物理位置，只换编号与评级，原号空缺不回填。",
+    "text": "- **R50（2026-09-28）：存量全表复核提炼 A 类** —— 用户指示不再新挖客户；按既有口径全表过筛，**37 条**认证顾问/培训/集成个体升 A（**A-385–A-421**，旧 B 号空置、物理位置不动），**31 条**与 A 行疑似同一实体只记录去重提示（不合并、不改级），其余 B/C 按既有理由保持。详见[复核与提炼](docs/audit/2026-09-28_R50存量全表复核与A级提炼.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L26",
-    "text": "- 全仓机械盘点已建立，但 **764条客户尚无逐项证据URL**；另外269条有结构化联络证据也不代表其全部字段已验证。不能把“索引齐全”说成“事实全部有证”。",
+    "text": "- **A段已完成，现按顺序复筛B/C。**新增或升级A从 **A379** 往后追加，绝不插队、重排或回填；升级行保持原CSV物理位置，只换编号与评级，原号空缺不回填。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L30",
-    "text": "1. **深搜整个仓库**：包含档案、原始批次、代码、历史、Office工作表/段落及隐藏资料；明确未解析和未核实范围，不用抽样冒充全量。",
+    "locator": "L27",
+    "text": "- 全仓机械盘点已建立，但 **679条客户尚无逐项证据URL**；另外354条有结构化联络证据也不代表其全部字段已验证。不能把“索引齐全”说成“事实全部有证”。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L31",
-    "text": "2. **发现的信息必须带来源**：在相关MD/字段旁写URL或本地文件位置、对应事实、检索/记录日期、来源等级；找不到证据就标“待补证”，不猜。",
+    "text": "1. **深搜整个仓库**：包含档案、原始批次、代码、历史、Office工作表/段落及隐藏资料；明确未解析和未核实范围，不用抽样冒充全量。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L32",
-    "text": "3. **结构准确、清晰、可读**：入口、主数据、生成物、原始材料、历史分层；整理目录不构成客户重排授权。",
+    "text": "2. **发现的信息必须带来源**：在相关MD/字段旁写URL或本地文件位置、对应事实、检索/记录日期、来源等级；找不到证据就标“待补证”，不猜。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L33",
-    "text": "4. **用户要求统一记录**：所有可恢复用户要求集中在一个[总账MD](docs/requirements/用户要求总账.md)，每轮带消息时间（能恢复的精度）和真实记录时间。旧摘要不是用户原文，提交时间不是发言时间，未知不得补造。",
+    "text": "3. **结构准确、清晰、可读**：入口、主数据、生成物、原始材料、历史分层；整理目录不构成客户重排授权。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L34",
+    "text": "4. **用户要求统一记录**：所有可恢复用户要求集中在一个[总账MD](docs/requirements/用户要求总账.md)，每轮带消息时间（能恢复的精度）和真实记录时间。旧摘要不是用户原文，提交时间不是发言时间，未知不得补造。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "README.md",
+    "locator": "L35",
     "text": "5. **README持续更新并核验**：每轮写明进度、未完成事项、下一位编号与规则变更；按历史要求用 `grep -c` 检查实际写入。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L38",
+    "locator": "L39",
     "text": "- 存量编号、CSV物理顺序不动；**前49位仅内容可编辑（2026-09-28 用户授权），位置/顺序仍冻结**；第37轮的一次性尾部重排许可已使用完。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L39",
+    "locator": "L40",
     "text": "- 不擅改评级规则。Bechtle A103保级是个案；A080风险已知悉不代表证书有效。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L48",
+    "locator": "L49",
     "text": "客户名单_反向信号_2026-09.csv  主数据（22列，冻结编号）",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L49",
+    "locator": "L50",
     "text": "客户分级跟进表_2026-09.xlsx    用户交付",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L55",
+    "locator": "L56",
     "text": "docs/requirements/          唯一用户要求总账",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L66",
+    "locator": "L67",
     "text": "依赖：Python 3.10+、Git、`openpyxl`（现有xlsx管道依赖）；审计/测试不会启动网络服务。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L69",
+    "locator": "L70",
     "text": "python3 scripts/audit_repository.py --date 2026-09-27",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L70",
+    "locator": "L71",
     "text": "python3 -m unittest discover -s tests -v",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },

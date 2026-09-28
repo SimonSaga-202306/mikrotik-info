@@ -43,22 +43,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-006"></a>
-## B-006 · Thomas Fossing / CloudPilot · 丹麦
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-98`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：cloudpilot.dk
-- 精确同名同国别首次入库提交：`7852cae45de685cd3995af3191ecbeeeac94ec34`。
-- 本地原始批次：`batch/dk.json / item[2]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[17]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：tcf@cloudpilot.dk；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为面向无专职IT部门中小企业的IT平台/托管与选型类服务（CloudPilot.dk ApS，Alsikemarken 46, 2860 Søborg；CVR 25706404；info@cloudpilot.dk；+45 3966-4525） → 无交换机产品线或采购证据，保持B（需求未证）；CSV具名联系人tcf@保留。未发送邮件、未提交表单。 证据：[1](https://cloudpilot.dk/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-006
-  - 保留原文：cloudpilot.dk：CloudPilot.dk ApS / Alsikemarken 46, 2860 Søborg / +45 3966-4525 / info@cloudpilot.dk / CVR 25706404；站点定位为中小企业IT平台与托管服务
-  - [1](https://cloudpilot.dk/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-008"></a>
 ## B-008 · Andrii Chernov / VIP · 乌克兰
 
@@ -215,19 +199,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-020"></a>
-## B-020 · Oleksandr Kovinia / K2O Services · 乌克兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-112`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：k2o.cc
-- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-021"></a>
 ## B-021 · Omnilink · 乌克兰
 
@@ -280,19 +251,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-025"></a>
-## B-025 · Serhii Antropov · 乌克兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-117`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-026"></a>
 ## B-026 · Serhii Maksymenko · 乌克兰
 
@@ -327,19 +285,6 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：technotrade.com.ua
 - 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-029"></a>
-## B-029 · Vadym Klymenko / Explorer · 乌克兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-121`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：explorer.od.ua
-- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -488,19 +433,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-045"></a>
-## B-045 · Mihail Gyoshev / Digit Consult · 保加利亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-137`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：digitconsult.eu
-- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
-- 本地原始批次：`batch/balkan.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-046"></a>
 ## B-046 · PCLife LTD. · 保加利亚
 
@@ -536,19 +468,6 @@
 - 官网线索（不自动背书其他字段）：vesuviustreamline.com
 - 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-050"></a>
-## B-050 · Stanimir Konakchiev / Nebo Systems · 保加利亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-142`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：nebosystems.eu
-- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
-- 本地原始批次：`batch/balkan.json / item[6]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -731,19 +650,6 @@
 - 官网线索（不自动背书其他字段）：solimedia.net
 - 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-074"></a>
-## B-074 · Sylvain Caron · 加拿大
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-166`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`f41e24a41c10c81c03d8c863726f183565b3452a`。
-- 本地原始批次：`batch/ca.json / item[8]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -1047,19 +953,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-102"></a>
-## B-102 · Nenad Marinkovic / Routerboard.rs · 塞尔维亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-194`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：routerboard.rs
-- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
-- 本地原始批次：`batch/balkan.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-104"></a>
 ## B-104 · Pixel Network LLC · 塞尔维亚
 
@@ -1108,19 +1001,6 @@
 - 官网线索（不自动背书其他字段）：alpenedv.at
 - 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-109"></a>
-## B-109 · Florian Valentin / Formatik · 奥地利
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-201`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：formatik.at
-- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
-- 本地原始批次：`batch/at_ch.json / item[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -1264,19 +1144,6 @@
 - 官网线索（不自动背书其他字段）：exasolutions.gr
 - 精确同名同国别首次入库提交：`dfb9062d4e1947a497435d7b5592d0ad4477f8fd`。
 - 本地原始批次：`batch/gr.json / item[11]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-122"></a>
-## B-122 · George Karoubalis · 希腊
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-214`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`dfb9062d4e1947a497435d7b5592d0ad4477f8fd`。
-- 本地原始批次：`batch/gr.json / item[9]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -1502,19 +1369,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-145"></a>
-## B-145 · Manuel Kuhn / EBC Marburg · 德国
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-237`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：ebc-marburg.de
-- 精确同名同国别首次入库提交：`67fe5bd3bea60390fa3dfe09481a60d02556e8aa`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-146"></a>
 ## B-146 · NSR One GmbH（nsr-tik.com） · 德国
 
@@ -1645,19 +1499,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-161"></a>
-## B-161 · Elia Fiumalbo Tino Spadoni / Spadhausen · 意大利
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-253`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：spadhausen.com
-- 精确同名同国别首次入库提交：`dd51b0a8336fdfb155b39322906d21c2578c974e`。
-- 本地原始批次：`batch/it.json / item[5]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-163"></a>
 ## B-163 · Giorgio Marchetti / Fastnet · 意大利
 
@@ -1749,19 +1590,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-172"></a>
-## B-172 · Simone Filippi / Byte Solutions · 意大利
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-264`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：bytesolutions.it
-- 精确同名同国别首次入库提交：`dd51b0a8336fdfb155b39322906d21c2578c974e`。
-- 本地原始批次：`batch/it.json / item[11]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-173"></a>
 ## B-173 · Valerio Simeraro · 意大利
 
@@ -1823,19 +1651,6 @@
 - 官网线索（不自动背书其他字段）：nasstore.eu
 - 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-181"></a>
-## B-181 · Oļegs Žakovs / NetPro · 拉脱维亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-273`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：netpro.lv
-- 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
-- 本地原始批次：`batch/lv.json / item[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -1944,32 +1759,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-198"></a>
-## B-198 · Martin Klablena · 捷克
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-290`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：fubar.cz
-- 精确同名同国别首次入库提交：`6b4624d1e31dcaee223be451418b977aa6b4a23c`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-199"></a>
-## B-199 · Martin Poisel / MapNet · 捷克
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-291`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：mapnet.cz
-- 精确同名同国别首次入库提交：`6b4624d1e31dcaee223be451418b977aa6b4a23c`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-200"></a>
 ## B-200 · OEM Automatic spol. s r.o. · 捷克
 
@@ -2070,19 +1859,6 @@
 - 官网线索（不自动背书其他字段）：pride.md
 - 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-212"></a>
-## B-212 · Radion Gareev / Meganet · 摩尔多瓦
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-304`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：meganet.md
-- 精确同名同国别首次入库提交：`c74a92dba8e95d90f1ddc956cb84467e4bfc008c`。
-- 本地原始批次：`batch/last.json / item[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -2217,27 +1993,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-226"></a>
-## B-226 · Jonathan De Graeve / Smarteye · 比利时
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-318`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：smarteye.eu
-- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
-- 本地原始批次：`batch/be_pt_ie.json / item[0]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：jonathan@smarteye.eu；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】抓取失败：smarteye.eu 返回 WordPress “Error establishing a database connection”，本次不可核验；不据此升级或降级，保留原信号；下批换路径（缓存/社媒/工商登记）复核。未发送邮件、未提交表单。 证据：[1](https://smarteye.eu/)（失败页）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-226
-  - 保留原文：smarteye.eu 抓取返回：“Error establishing a database connection”（WordPress 数据库错误页）
-  - [1](https://smarteye.eu/)
-- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[44]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：sales@smarteye.eu；投递未测试。
-  - 说明：【2026-09-28 R49 复筛补录】官网正文可见销售/支持邮箱与公司实体：sales@smarteye.eu / support@smarteye.eu。维持 B（群发可触达）；未发送邮件、未提交表单。 证据：[1](https://www.smarteye.eu/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-226
-  - 保留原文：smarteye.eu：Sales +32 9 395 7000 / sales@smarteye.eu；Support BE +32 9 395 6000 / support@smarteye.eu；SmartEye BV, Terbekehofdreef 24, B-2610 Wilrijk, B.T.W. BE0542740338；自述 30,000+ Wi-Fi 接入点、700+ 场址、165,000+ 年用户；客户含 Artevelde、UGent、Howest、XIOR、Home Invest、Hasselt 等
-  - [1](https://www.smarteye.eu/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-227"></a>
 ## B-227 · SmartEye BV（wifistock.be） · 比利时
 
@@ -2355,19 +2110,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-243"></a>
-## B-243 · Habib Kanso · 法国
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-335`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/fr.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-245"></a>
 ## B-245 · MHz Wireless · 法国
 
@@ -2475,19 +2217,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-257"></a>
-## B-257 · Bartłomiej Maliszewski · 波兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-349`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：maliszewski.pro
-- 精确同名同国别首次入库提交：`185bac43ebd92b79957c04da398dfad572f208e2`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-258"></a>
 ## B-258 · Batna（anteny24.pl） · 波兰
 
@@ -2583,19 +2312,6 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：wirelesslan.pl
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-267"></a>
-## B-267 · Krzysztof Dudek / Innored · 波兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-359`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：innored.pl
-- 精确同名同国别首次入库提交：`abe1ddf77a1a543cc018a48e90e238d4eeafdeec`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2796,22 +2512,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-293"></a>
-## B-293 · Fredrik Soderblom / XPD · 瑞典
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-385`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：xpd.se
-- 精确同名同国别首次入库提交：`41ab41ffc497bcf2ce7d3664f5fe2d11f65a51f8`。
-- 本地原始批次：`batch/se.json / item[2]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：fredrik@xpd.se；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：XPD AB 为独立安全咨询公司（自2002，斯德哥尔摩；设计与审计服务，页面列 Fredrik Söderblom） → 服务型，无交换机渠道/采购证据，保持B；具名邮箱fredrik@xpd.se与电话+46 70 829 2140保留。未发送邮件、未提交表单。 证据：[1](https://xpd.se/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-293
-  - 保留原文：xpd.se：XPD AB — independent security consulting（since 2002, Stockholm）；服务为设计与审计；页面列 Fredrik Söderblom
-  - [1](https://xpd.se/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-295"></a>
 ## B-295 · OEM Automatic AB · 瑞典
 
@@ -2890,19 +2590,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-302"></a>
-## B-302 · Philipp Marcel Albrecht / Portup · 瑞士
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-394`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：portup.ch
-- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
-- 本地原始批次：`batch/at_ch.json / item[5]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-303"></a>
 ## B-303 · Wifx SA · 瑞士
 
@@ -2968,19 +2655,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-309"></a>
-## B-309 · Dovydas Rimeisis · 立陶宛
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-401`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：atitic.eu
-- 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
-- 本地原始批次：`batch/lt.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-311"></a>
 ## B-311 · UAB ELKO Lietuva · 立陶宛
 
@@ -3016,19 +2690,6 @@
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`d6fbf68a8b610be36b4f07e59c5565913fb18423`。
 - 本地原始批次：`batch/ro.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-317"></a>
-## B-317 · Mircea Enache · 罗马尼亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-409`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`d6fbf68a8b610be36b4f07e59c5565913fb18423`。
-- 本地原始批次：`batch/ro.json / item[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -3337,40 +2998,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-356"></a>
-## B-356 · Joshua Moore / Archous Networks · 美国
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-448`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：archous.tech
-- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
-- 本地原始批次：`batch/us.json / item[8]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：mikrotik@archous.tech；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点自述为 ISP/数据中心/企业托管网络服务商（品牌含 MikroTik、EdgeCore、UfiSpace、NetElastic、Cisco、Dell、Juniper、IPInfusion、Paessler、Andrisoft），联系通道 support@archous.tech / 1-866-535-0358；CSV 具名邮箱 mikrotik@archous.tech 为站内品牌入口 → 集成/托管服务，未见自采购交换机产品线证据，保持B待集成商口径批次。未发送邮件、未提交表单。 证据：[1](https://archous.tech/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-356
-  - 保留原文：archous.tech：ISP / datacenter / enterprise managed services；vendors NetElastic / Cisco / Dell / Juniper / EdgeCore / UfiSpace / IPInfusion / MikroTik / Ubiquiti / Paessler / Andrisoft；1-866-535-0358 | support@archous.tech
-  - [1](https://archous.tech/)
-- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[35]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：support@archous.tech；投递未测试。
-  - 说明：【2026-09-28 R49 复筛补录】官网在线；ISP/数据中心网络设计（含开放网络厂商）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.archous.tech/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-356
-  - 保留原文：archous.tech 首页：1-866-535-0358 | support@archous.tech | support.archous.tech；自述 ISP/数据中心/企业网络的托管服务、设计与实施；专长品牌含 MikroTik、Edge-Core、UfiSpace、IP Infusion、Juniper、Cisco、Dell、Paessler、Andrisoft、Debian、Microsoft
-  - [1](https://www.archous.tech/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-357"></a>
-## B-357 · Kyle Heppler / The ISP Academy · 美国
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-449`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：theispacademy.com
-- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
-- 本地原始批次：`batch/us.json / item[6]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-359"></a>
 ## B-359 · Leverify LLC · 美国
 
@@ -3486,27 +3113,6 @@
 - 本地原始批次：`batch/us.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-378"></a>
-## B-378 · Rick Frey / Rick Frey Consulting · 美国
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-470`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：rickfreyconsulting.com
-- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
-- 本地原始批次：`batch/us.json / item[7]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[16]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：rickfrey1000@gmail.com；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】抓取受阻：rickfreyconsulting.com 被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT / purefindresults 重定向），本次不可核验；保留原信号，下批换路径（缓存/社媒/培训名录）复核。未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)（被拦截）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-378
-  - 保留原文：rickfreyconsulting.com：请求被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT），重定向至 purefindresults 类结果页
-  - [1](https://rickfreyconsulting.com/)
-- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[41]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：rickfrey1000@gmail.com；投递未测试。
-  - 说明：【2026-09-28 R49 复筛补录】站点持续被拦截，无法直连（失败站重试）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378
-  - 保留原文：rickfreyconsulting.com 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT，跳转纯搜寻域），无法直连核验内容
-  - [1](https://rickfreyconsulting.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-381"></a>
@@ -3894,19 +3500,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-441"></a>
-## B-441 · Menno van Krimpen / Libernet · 荷兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-533`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：libernet.nl
-- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-442"></a>
 ## B-442 · Michiel Visser / Connection Services · 荷兰
 
@@ -3975,19 +3568,6 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sdcgroup.nl
 - 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-447"></a>
-## B-447 · Stephan Szarafinski / MNW · 荷兰
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-539`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：mnw.nl
-- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -4136,28 +3716,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-463"></a>
-## B-463 · Darío Noguera / Lanpixel · 西班牙
-
-- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-555`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：lanpixel.com
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[6]`
-- 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[12]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：dario@lanpixel.com；投递未测试。
-  - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官方 MikroTik Academy / 培训中心（马德里，MTCNA/MTCSE 与 Ubiquiti UAS 课程、FUNDAE 学分、在线实验室平台），页面联系 hola@lanpixel.com、(+34) 91 00 52 276 → 属培训/顾问类，站内未列交换机产品线；列入培训/顾问批次统一定级，本轮保持B。未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/) [2](https://lanpixel.com/contacto)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-463
-  - 保留原文：lanpixel.com：Formaciones MikroTik & Ubiquiti、Certificación oficial（MTCNA / MTCSE / UniFi UAS）、FUNDAE 可报销、labs.lanpixel.com 远程实验室、training.lanpixel.com；联系 hola@lanpixel.com、(+34) 91 00 52 276、Madrid
-  - [1](https://lanpixel.com/)
-  - [2](https://lanpixel.com/contacto)
-- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[39]`；记录日期 2026-09-28；来源等级 `official-company`。
-  - 公开邮箱：dario@lanpixel.com；投递未测试。
-  - 说明：【2026-09-28 R49 复筛补录】官网在线并扩为培训中心；培训型，未见采购证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-463
-  - 保留原文：lanpixel.com：MikroTik Academy / Ubiquiti 授权培训中心、FUNDAE 学时补贴、labs.lanpixel.com 远程实验平台；公开联系 hola@lanpixel.com、(+34) 91 00 52 276；Madrid；课程含 MTCNA/MTCSE 与 switching/firewall 实验
-  - [1](https://lanpixel.com/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-464"></a>
 ## B-464 · David Forteza Rey Casasnovas · 西班牙
 
@@ -4223,32 +3781,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-472"></a>
-## B-472 · Jorge Castellet Marques · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-564`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：yatuaprendes.com
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-473"></a>
-## B-473 · Jorge Montero · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-565`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[14]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-474"></a>
 ## B-474 · José María Catalá Ortega / Dualcom CB · 西班牙
 
@@ -4262,19 +3794,6 @@
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
-<a id="B-475"></a>
-## B-475 · Juan Miguel Gallardo Pérez / Codisa Telco Solutions · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-567`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：codisats.es
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[4]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
 <a id="B-476"></a>
 ## B-476 · LAUFQUEN COMUNICACIONES · 西班牙
 
@@ -4284,19 +3803,6 @@
 - 官网线索（不自动背书其他字段）：es.laufquen.com
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-478"></a>
-## B-478 · Martin Ruiz / Ibersystems · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-570`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：ibersystems.es
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[9]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -4336,19 +3842,6 @@
 - 官网线索（不自动背书其他字段）：todotelecom.com
 - 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-483"></a>
-## B-483 · Xavier Poza · 西班牙
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-575`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：未留存
-- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
-- 本地原始批次：`batch/es.json / item[12]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -4464,19 +3957,6 @@
   - 说明：【2026-09-28 R49 复筛补录】官网在线；服务商口径，未见交换机产品线证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.janzen-group.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-510
   - 保留原文：janzen-group.com：服务面 Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik（布线、网络结构、WLAN 扩展）/ Wartungsverträge / Mikrotik Support（电话/远程/现场）；info@janzen-group.com、+49 40 696 022 11；页面人物介绍 Florian Janzen；ISO 9001 自述
   - [1](https://www.janzen-group.com/)
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
-
-<a id="B-511"></a>
-## B-511 · MikroTik Trening Srbija · 塞尔维亚
-
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-850`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
-- 官网线索（不自动背书其他字段）：mikrotiktrening.rs
-- 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-512"></a>

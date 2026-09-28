@@ -6145,3 +6145,595 @@
   - [1](https://www.wispmax.com/)
   - [2](https://www.wispmax.com/prodotto/managed-industrial-poe-switch-5p/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-385"></a>
+## A-385 · Thomas Fossing / CloudPilot · 丹麦
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-98`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：cloudpilot.dk
+- 精确同名同国别首次入库提交：`7852cae45de685cd3995af3191ecbeeeac94ec34`。
+- 本地原始批次：`batch/dk.json / item[2]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：tcf@cloudpilot.dk；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-006（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-385），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Denmark)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-385
+  - 保留原文：本行既有记录：面向没有专职 IT 经理的中小企业做 IT 平台规划与选型（预算内最优结构）；含 MTCWE（无线）+ MTCINE（ISP 互联）
+  - [1](https://mikrotik.com/consultants?region=Denmark)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-386"></a>
+## A-386 · Oleksandr Kovinia / K2O Services · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-112`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：k2o.cc
+- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：olekovin+mikrotik-consult@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-020（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-386），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-386
+  - 保留原文：本行既有记录：★ 专做 MikroTik 方案的公司：RouterOS 配置、**监控方案、自动化**、企业网络；设计/排障/性能优化/安全加固/长期运维
+  - [1](https://mikrotik.com/consultants?region=Ukraine)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-387"></a>
+## A-387 · Serhii Antropov · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-117`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[2]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：serega12034@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-025（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-387），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-387
+  - 保留原文：本行既有记录：含 MTCINE（ISP 互联）+ MTCTCE（流量控制）
+  - [1](https://mikrotik.com/consultants?region=Ukraine)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-388"></a>
+## A-388 · Vadym Klymenko / Explorer · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-121`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：explorer.od.ua
+- 精确同名同国别首次入库提交：`592267b9a982acd96aefd19c9b67794d416850a5`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[3]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：vadim@explorer.od.ua；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-029（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCSE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-388），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-388
+  - 保留原文：本行既有记录：系统集成公司：网络设计/审计/优化；OSPF、多厂商 VPN、高级防火墙与队列、**The Dude 与 RoMON 监控**、无线 CAPsMAN/PtP/PtMP、CHR 云；英俄德乌四语
+  - [1](https://mikrotik.com/consultants?region=Ukraine)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-389"></a>
+## A-389 · Mihail Gyoshev / Digit Consult · 保加利亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-137`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：digitconsult.eu
+- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
+- 本地原始批次：`batch/balkan.json / item[7]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：mihail.gyoshev@digitconsult.eu；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-045（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-389），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Bulgaria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-389
+  - 保留原文：本行既有记录：含 MTCINE（ISP 互联）+ MTCEWE（企业无线）
+  - [1](https://mikrotik.com/consultants?region=Bulgaria)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-390"></a>
+## A-390 · Stanimir Konakchiev / Nebo Systems · 保加利亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-142`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：nebosystems.eu
+- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
+- 本地原始批次：`batch/balkan.json / item[6]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[5]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：s.konakchiev@nebosystems.eu；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-050（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCRE、MTCSE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-390），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Bulgaria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-390
+  - 保留原文：本行既有记录：6 证含 MTCEWE（企业无线）+ MTCSE（安全）+ MTCUME（用户管理）
+  - [1](https://mikrotik.com/consultants?region=Bulgaria)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-391"></a>
+## A-391 · Sylvain Caron · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-166`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`f41e24a41c10c81c03d8c863726f183565b3452a`。
+- 本地原始批次：`batch/ca.json / item[8]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[6]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：scaron999@hotmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-074（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-391），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Canada)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-391
+  - 保留原文：本行既有记录：6 证含 MTCINE（ISP 互联）
+  - [1](https://mikrotik.com/consultants?region=Canada)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-392"></a>
+## A-392 · Nenad Marinkovic / Routerboard.rs · 塞尔维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-194`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：routerboard.rs
+- 精确同名同国别首次入库提交：`4fe58ac62e8402d00568e8c154f3307588c817e7`。
+- 本地原始批次：`batch/balkan.json / item[2]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：tech@routerboard.rs；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-102（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-392），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Serbia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-392
+  - 保留原文：本行既有记录：★ 域名直接叫 **routerboard.rs** → 塞尔维亚本地以 MikroTik 为主业的专营店/服务商，品牌绑定极深
+  - [1](https://mikrotik.com/consultants?region=Serbia)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-393"></a>
+## A-393 · Florian Valentin / Formatik · 奥地利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-201`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：formatik.at
+- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
+- 本地原始批次：`batch/at_ch.json / item[2]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：florian@formatik.at；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-109（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-393），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Austria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-393
+  - 保留原文：本行既有记录：小型系统集成商（system house），**主要就用 MikroTik 设备** → 品牌忠诚度高的小 ISV，替换决策链短
+  - [1](https://mikrotik.com/consultants?region=Austria)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-394"></a>
+## A-394 · George Karoubalis · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-214`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`dfb9062d4e1947a497435d7b5592d0ad4477f8fd`。
+- 本地原始批次：`batch/gr.json / item[9]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：g.karoub@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-122（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-394），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Greece)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-394
+  - 保留原文：本行既有记录：7 证含 MTCUME（用户管理）+ MTCTCE（流量控制）
+  - [1](https://mikrotik.com/consultants?region=Greece)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-395"></a>
+## A-395 · Manuel Kuhn / EBC Marburg · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-237`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ebc-marburg.de
+- 精确同名同国别首次入库提交：`67fe5bd3bea60390fa3dfe09481a60d02556e8aa`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：manuel.kuhn@ebc-marburg.de；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-145（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-395），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-395
+  - 保留原文：本行既有记录：含 MTCSE（安全）
+  - [1](https://mikrotik.com/consultants?region=Germany)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-396"></a>
+## A-396 · Elia Fiumalbo Tino Spadoni / Spadhausen · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-253`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：spadhausen.com
+- 精确同名同国别首次入库提交：`dd51b0a8336fdfb155b39322906d21c2578c974e`。
+- 本地原始批次：`batch/it.json / item[5]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[11]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：admin@spadhausen.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-161（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-396），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Italy)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-396
+  - 保留原文：本行既有记录：★ **自己拥有一家 ISP**（有实操场景可落设备）；自称「优化专家」，2002 年入行，MikroTik 认证讲师；主攻 BGP 与 ISP/企业冗余方案；常驻摩尔多瓦，可全球接单
+  - [1](https://mikrotik.com/consultants?region=Italy)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-397"></a>
+## A-397 · Simone Filippi / Byte Solutions · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-264`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：bytesolutions.it
+- 精确同名同国别首次入库提交：`dd51b0a8336fdfb155b39322906d21c2578c974e`。
+- 本地原始批次：`batch/it.json / item[11]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[12]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：info@bytesolutions.it；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-172（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-397），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Italy)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-397
+  - 保留原文：本行既有记录：企业网络与系统集成（贝加莫/莱科/米兰）；2017 年起用 MikroTik；**VoIP 语音路由与语音流量优先**、多 WAN、带宽管理 QoS → 语音场景 = PoE 话机供电需求
+  - [1](https://mikrotik.com/consultants?region=Italy)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-398"></a>
+## A-398 · Oļegs Žakovs / NetPro · 拉脱维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-273`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：netpro.lv
+- 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
+- 本地原始批次：`batch/lv.json / item[0]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[13]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：oleg@netpro.lv；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-181（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-398），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Latvia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-398
+  - 保留原文：本行既有记录：★ 拉脱维亚**唯一**认证顾问（稀缺）；15+ 年 MikroTik 经验；专长含 **802.1x 端口认证 + RADIUS**（→ 交换机接入层安全是他的活）、CAPsMAN、RoMON、The Dude 监控、
+  - [1](https://mikrotik.com/consultants?region=Latvia)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-399"></a>
+## A-399 · Martin Klablena · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-290`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：fubar.cz
+- 精确同名同国别首次入库提交：`6b4624d1e31dcaee223be451418b977aa6b4a23c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：klablena@fubar.cz；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-198（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-399），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-399
+  - 保留原文：本行既有记录：动态路由 OSPF/RIP/BGP、企业站点互联与集中式 IPSec/SSTP/OpenVPN、CAPsMAN、**高级 LAN 拓扑与双 WAN 备份设计**
+  - [1](https://mikrotik.com/consultants?region=Czech+Republic)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-400"></a>
+## A-400 · Martin Poisel / MapNet · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-291`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mapnet.cz
+- 精确同名同国别首次入库提交：`6b4624d1e31dcaee223be451418b977aa6b4a23c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[15]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：mpoisel@mapnet.cz；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-199（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-400），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-400
+  - 保留原文：本行既有记录：7 证；布尔诺
+  - [1](https://mikrotik.com/consultants?region=Czech+Republic)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-401"></a>
+## A-401 · Radion Gareev / Meganet · 摩尔多瓦
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-304`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：meganet.md
+- 精确同名同国别首次入库提交：`c74a92dba8e95d90f1ddc956cb84467e4bfc008c`。
+- 本地原始批次：`batch/last.json / item[3]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[16]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：radeon_service@mail.ru；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-212（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-401），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Moldova)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-401
+  - 保留原文：本行既有记录：承接任何 MikroTik 配置或咨询任务；含 MTCINE（ISP 互联）；英俄罗三语
+  - [1](https://mikrotik.com/consultants?region=Moldova)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-402"></a>
+## A-402 · Jonathan De Graeve / Smarteye · 比利时
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-318`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：smarteye.eu
+- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
+- 本地原始批次：`batch/be_pt_ie.json / item[0]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[17]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：jonathan@smarteye.eu；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-226（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-402），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Belgium)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-402
+  - 保留原文：本行既有记录：★ 比利时**唯一**认证顾问（稀缺）；专做**骨干网设计**与 RouterOS 全栈运维诊断：BGP、MPLS、VPLS、OSPF、流量管理、带宽整形、防火墙、Hotspots、VPN、无线
+  - [1](https://mikrotik.com/consultants?region=Belgium)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-403"></a>
+## A-403 · Habib Kanso · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-335`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/fr.json / item[0]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：habibkanso@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-243（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-403），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=France)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-403
+  - 保留原文：本行既有记录：自述专长为「企业核心网络架构与技术」，含 MTCINE（ISP 互联）+ MTCTCE（流量控制）+ MTCSE（安全）
+  - [1](https://mikrotik.com/consultants?region=France)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-404"></a>
+## A-404 · Bartłomiej Maliszewski · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-349`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：maliszewski.pro
+- 精确同名同国别首次入库提交：`185bac43ebd92b79957c04da398dfad572f208e2`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[19]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：bartlomiej@maliszewski.pro；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-257（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-404），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Poland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-404
+  - 保留原文：本行既有记录：8 年网络经验，其中 5 年在 ISP；为服务商和企业搭建 RouterOS 环境
+  - [1](https://mikrotik.com/consultants?region=Poland)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-405"></a>
+## A-405 · Krzysztof Dudek / Innored · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-359`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：innored.pl
+- 精确同名同国别首次入库提交：`abe1ddf77a1a543cc018a48e90e238d4eeafdeec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[20]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：krzysztof.d@adar.net.pl；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-267（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-405），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Poland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-405
+  - 保留原文：本行既有记录：含 MTCSE（安全）
+  - [1](https://mikrotik.com/consultants?region=Poland)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-406"></a>
+## A-406 · Fredrik Soderblom / XPD · 瑞典
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-385`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：xpd.se
+- 精确同名同国别首次入库提交：`41ab41ffc497bcf2ce7d3664f5fe2d11f65a51f8`。
+- 本地原始批次：`batch/se.json / item[2]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[21]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：fredrik@xpd.se；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-293（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-406），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Sweden)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-406
+  - 保留原文：本行既有记录：30+ 年 IT；1992 年就为惠普北欧设计实施第一套防火墙，后组建 HP 欧洲网络安全顾问组；在欧洲与美国做过大量边界安全方案与安全审计 → 资深安全专家，能听懂交换机安全特性
+  - [1](https://mikrotik.com/consultants?region=Sweden)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-407"></a>
+## A-407 · Philipp Marcel Albrecht / Portup · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-394`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：portup.ch
+- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
+- 本地原始批次：`batch/at_ch.json / item[5]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[22]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：info@portup.ch；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-302（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE、MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-407），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Switzerland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-407
+  - 保留原文：本行既有记录：含 MTCINE 方向外的路由与 IPv6、企业无线；英葡德三语
+  - [1](https://mikrotik.com/consultants?region=Switzerland)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-408"></a>
+## A-408 · Dovydas Rimeisis · 立陶宛
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-401`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：atitic.eu
+- 精确同名同国别首次入库提交：`68941d91cbdd8db92dc20e1fd99d303e78176834`。
+- 本地原始批次：`batch/lt.json / item[2]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[23]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：dovydas.rimeisis@atitic.eu；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-309（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-408），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Lithuania)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-408
+  - 保留原文：本行既有记录：10+ 年 MikroTik 实操、15+ 年 IT 基础设施；做本地/混合/公有云融合的完整方案（网络+计算+云+安全协同），擅长 MikroTik 作为大架构一环的复杂环境
+  - [1](https://mikrotik.com/consultants?region=Lithuania)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-409"></a>
+## A-409 · Mircea Enache · 罗马尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-409`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`d6fbf68a8b610be36b4f07e59c5565913fb18423`。
+- 本地原始批次：`batch/ro.json / item[1]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[24]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：mircea.enache@outlook.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-317（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-409），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Romania)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-409
+  - 保留原文：本行既有记录：网络架构师，10+ 年经验；含 MTCINE（ISP 互联）+ MTCEWE（企业无线）；英德罗三语
+  - [1](https://mikrotik.com/consultants?region=Romania)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-410"></a>
+## A-410 · Joshua Moore / Archous Networks · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-448`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：archous.tech
+- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
+- 本地原始批次：`batch/us.json / item[8]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[25]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：mikrotik@archous.tech；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-356（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCSE、MTCTCE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-410），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-410
+  - 保留原文：本行既有记录：多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道
+  - [1](https://mikrotik.com/consultants?region=USA)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-411"></a>
+## A-411 · Kyle Heppler / The ISP Academy · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-449`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：theispacademy.com
+- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
+- 本地原始批次：`batch/us.json / item[6]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[26]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：hello@theispacademy.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-357（B 级·群发型）。依据：官方名录（顾问/培训）收录的培训中心，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-411），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/training/centers?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-411
+  - 保留原文：本行既有记录：★ 经营 **The ISP Academy（ISP 学院，培训机构）**；专攻各规模 ISP，尤其 WISP；兼做网络监控、数据库、**网络自动化与编程**、无线工程、团队培训 → 他教出来的 WISP 就是他的渠道
+  - [1](https://mikrotik.com/training/centers?region=USA)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-412"></a>
+## A-412 · Rick Frey / Rick Frey Consulting · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-470`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：rickfreyconsulting.com
+- 精确同名同国别首次入库提交：`be293dcc5b749151710c776f369798960e53c737`。
+- 本地原始批次：`batch/us.json / item[7]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[27]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：rickfrey1000@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-378（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-412），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-412
+  - 保留原文：本行既有记录：**30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN
+  - [1](https://mikrotik.com/consultants?region=USA)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-413"></a>
+## A-413 · Menno van Krimpen / Libernet · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-533`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：libernet.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[28]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：info@libernet.nl；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-441（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-413），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-413
+  - 保留原文：本行既有记录：★ 荷兰第一位 MikroTik 认证讲师；资深 WISP 运营商，PtP/PtMP、VoIP、Hotspot、流量整形、负载均衡；可上门培训
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-414"></a>
+## A-414 · Stephan Szarafinski / MNW · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-539`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mnw.nl
+- 精确同名同国别首次入库提交：`ddcf52da580978559ef2a318e07981d963731ec0`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[29]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：stephan@mnw.nl；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-447（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-414），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-414
+  - 保留原文：本行既有记录：自述 2003 年起做 MikroTik 专家 → 荷兰最早一批用户，影响力型
+  - [1](https://mikrotik.com/consultants?region=Netherlands)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-415"></a>
+## A-415 · Darío Noguera / Lanpixel · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-555`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lanpixel.com
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[6]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[30]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：dario@lanpixel.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-463（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-415），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-415
+  - 保留原文：本行既有记录：15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/RADIUS/监控
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-416"></a>
+## A-416 · Jorge Castellet Marques · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-564`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：yatuaprendes.com
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[7]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[31]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：j.castellet@yatuaprendes.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-472（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-416），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-416
+  - 保留原文：本行既有记录：MikroTik 全科目认证讲师；从小型网到企业网与 ISP；还做 MikroTik 与 ACS 系统的集成
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-417"></a>
+## A-417 · Jorge Montero · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-565`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[14]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[32]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：cotiti@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-473（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-417），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-417
+  - 保留原文：本行既有记录：含 MTCINE（ISP 互联）+ MTCTCE（流量控制）+ MTCSE（安全）
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-418"></a>
+## A-418 · Juan Miguel Gallardo Pérez / Codisa Telco Solutions · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-567`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：codisats.es
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[4]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[33]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：jmgallardo@codisats.es；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-475（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-418），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-418
+  - 保留原文：本行既有记录：ISP/WISP/**FTTx** 工程师；高可用、安全、访问控制、MPLS、动态路由、流量控制、脚本、VPN；可远程支持
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-419"></a>
+## A-419 · Martin Ruiz / Ibersystems · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-570`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ibersystems.es
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[9]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[34]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：Martinruiz@ibersystems.es；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-478（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-419），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-419
+  - 保留原文：本行既有记录：高可用、无线 PtP/PtMP/Mesh、HotSpot、QoS、代理/防火墙、VPN；远程与现场支持
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-420"></a>
+## A-420 · Xavier Poza · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-575`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：未留存
+- 精确同名同国别首次入库提交：`775d1c3319398915d79e76a34f64b2dd8d6878d3`。
+- 本地原始批次：`batch/es.json / item[12]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[35]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：xavinetworks@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-483（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-420），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-420
+  - 保留原文：本行既有记录：自述方向：开放、自由、中立的公共/社区网络（含 MTCINE 互联）
+  - [1](https://mikrotik.com/consultants?region=Spain)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-421"></a>
+## A-421 · MikroTik Trening Srbija · 塞尔维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-850`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
+- 官网线索（不自动背书其他字段）：mikrotiktrening.rs
+- 精确同名同国别首次入库提交：`d65846cf813de39c636668ddcdaa0666485817e7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R50_A提炼.json` → `records[36]`；记录日期 2026-09-28；来源等级 `official-directory-prior-round`。
+  - 公开邮箱：office@mikrotiktrening.rs；+381 63 546126；投递未测试。
+  - 说明：【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-511（B 级·群发型）。依据：官方名录（顾问/培训）收录的培训中心，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-421），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/training/centers?region=Serbia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-421
+  - 保留原文：本行既有记录：塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。**有可直接用的邮箱**。
+  - [1](https://mikrotik.com/training/centers?region=Serbia)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

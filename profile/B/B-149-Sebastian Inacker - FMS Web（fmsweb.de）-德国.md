@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维，会自己采购设备 → 用 ERPS/IGMP/VLAN/CLI 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 同公司共 3 位 MikroTik 认证顾问（同一电话 +49 761 2926500）：Henrik Brinkmann（brinkmann@fmsweb.de，企业/ISP/运营商、MPLS-VPLS、公共 WiFi、3G-LTE M2M 与监控）；Patrik Schaub（schaub@fmsweb.de，无线/PtP·PtMP/MESH）。谈一次覆盖三人项目 |
+| 原备注 | 同公司共 3 位 MikroTik 认证顾问（同一电话 +49 761 2926500）：Henrik Brinkmann（brinkmann@fmsweb.de，企业/ISP/运营商、MPLS-VPLS、公共 WiFi、3G-LTE M2M 与监控）；Patrik Schaub（schaub@fmsweb.de，无线/PtP·PtMP/MESH）。谈一次覆盖三人项目 【2026-09-28 R50 去重提示】与 A-083、A-239 （同域名 fmsweb.de） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-149 |
 
 ## 三、人员与联系方式
 

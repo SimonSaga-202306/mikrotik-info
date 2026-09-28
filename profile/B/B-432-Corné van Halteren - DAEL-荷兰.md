@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328G-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | DAEL 公司有 2 位 MikroTik 顾问：Corné van Halteren（网络规划/实施/MikroTik 硬件管理）；Benito Stijger（benito.stijger@dael.com，+31 6 14333514，MTCSE 安全方向：防火墙、VPN、攻击防护） |
+| 原备注 | DAEL 公司有 2 位 MikroTik 顾问：Corné van Halteren（网络规划/实施/MikroTik 硬件管理）；Benito Stijger（benito.stijger@dael.com，+31 6 14333514，MTCSE 安全方向：防火墙、VPN、攻击防护） 【2026-09-28 R50 去重提示】与 A-285 （同域名 dael.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-432 |
 
 ## 三、人员与联系方式
 

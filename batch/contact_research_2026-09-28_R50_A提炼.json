@@ -1,0 +1,1042 @@
+{
+ "date": "2026-09-28",
+ "scope": "R50：用户指示“不再新挖客户，基于现有 list 全面审核挖掘，提炼 A 类客户”。本轮对 1033 条做全表复核：升 A 37 条（认证顾问/培训/集成个体，工程师级认证 + 直达邮箱 + 非重复 + 目标区域）；记录 31 条与 A 行疑似同一实体的重复提示（只记录不合并）；其余 B/C 行按既有口径维持。不改编号规则、不新增客户、不重排物理顺序。",
+ "records": [
+  {
+   "code": "A-385",
+   "before_code": "B-006",
+   "name": "Thomas Fossing / CloudPilot",
+   "country": "丹麦",
+   "city": "Copenhagen",
+   "email": "tcf@cloudpilot.dk",
+   "site": "cloudpilot.dk",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-006（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-385），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Denmark)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-385",
+   "quote": "本行既有记录：面向没有专职 IT 经理的中小企业做 IT 平台规划与选型（预算内最优结构）；含 MTCWE（无线）+ MTCINE（ISP 互联）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Denmark"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-386",
+   "before_code": "B-020",
+   "name": "Oleksandr Kovinia / K2O Services",
+   "country": "乌克兰",
+   "city": "Kyiv",
+   "email": "olekovin+mikrotik-consult@gmail.com",
+   "site": "k2o.cc",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-020（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-386），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-386",
+   "quote": "本行既有记录：★ 专做 MikroTik 方案的公司：RouterOS 配置、**监控方案、自动化**、企业网络；设计/排障/性能优化/安全加固/长期运维",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Ukraine"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-387",
+   "before_code": "B-025",
+   "name": "Serhii Antropov",
+   "country": "乌克兰",
+   "city": "Chernivtsi",
+   "email": "serega12034@gmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-025（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-387），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-387",
+   "quote": "本行既有记录：含 MTCINE（ISP 互联）+ MTCTCE（流量控制）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Ukraine"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-388",
+   "before_code": "B-029",
+   "name": "Vadym Klymenko / Explorer",
+   "country": "乌克兰",
+   "city": "Odesa",
+   "email": "vadim@explorer.od.ua",
+   "site": "explorer.od.ua",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-029（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCSE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-388），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Ukraine)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-388",
+   "quote": "本行既有记录：系统集成公司：网络设计/审计/优化；OSPF、多厂商 VPN、高级防火墙与队列、**The Dude 与 RoMON 监控**、无线 CAPsMAN/PtP/PtMP、CHR 云；英俄德乌四语",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Ukraine"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-389",
+   "before_code": "B-045",
+   "name": "Mihail Gyoshev / Digit Consult",
+   "country": "保加利亚",
+   "city": "Plovdiv",
+   "email": "mihail.gyoshev@digitconsult.eu",
+   "site": "digitconsult.eu",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-045（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-389），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Bulgaria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-389",
+   "quote": "本行既有记录：含 MTCINE（ISP 互联）+ MTCEWE（企业无线）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Bulgaria"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-390",
+   "before_code": "B-050",
+   "name": "Stanimir Konakchiev / Nebo Systems",
+   "country": "保加利亚",
+   "city": "Sofia",
+   "email": "s.konakchiev@nebosystems.eu",
+   "site": "nebosystems.eu",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-050（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCRE、MTCSE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-390），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Bulgaria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-390",
+   "quote": "本行既有记录：6 证含 MTCEWE（企业无线）+ MTCSE（安全）+ MTCUME（用户管理）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Bulgaria"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-391",
+   "before_code": "B-074",
+   "name": "Sylvain Caron",
+   "country": "加拿大",
+   "city": "Lévis, QC",
+   "email": "scaron999@hotmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-074（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-391），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Canada)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-391",
+   "quote": "本行既有记录：6 证含 MTCINE（ISP 互联）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Canada"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-392",
+   "before_code": "B-102",
+   "name": "Nenad Marinkovic / Routerboard.rs",
+   "country": "塞尔维亚",
+   "city": "Kragujevac",
+   "email": "tech@routerboard.rs",
+   "site": "routerboard.rs",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-102（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-392），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Serbia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-392",
+   "quote": "本行既有记录：★ 域名直接叫 **routerboard.rs** → 塞尔维亚本地以 MikroTik 为主业的专营店/服务商，品牌绑定极深",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Serbia"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-393",
+   "before_code": "B-109",
+   "name": "Florian Valentin / Formatik",
+   "country": "奥地利",
+   "city": "Ehrwald",
+   "email": "florian@formatik.at",
+   "site": "formatik.at",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-109（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-393），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Austria)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-393",
+   "quote": "本行既有记录：小型系统集成商（system house），**主要就用 MikroTik 设备** → 品牌忠诚度高的小 ISV，替换决策链短",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Austria"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-394",
+   "before_code": "B-122",
+   "name": "George Karoubalis",
+   "country": "希腊",
+   "city": "Athens",
+   "email": "g.karoub@gmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-122（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-394），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Greece)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-394",
+   "quote": "本行既有记录：7 证含 MTCUME（用户管理）+ MTCTCE（流量控制）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Greece"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-395",
+   "before_code": "B-145",
+   "name": "Manuel Kuhn / EBC Marburg",
+   "country": "德国",
+   "city": "Marburg",
+   "email": "manuel.kuhn@ebc-marburg.de",
+   "site": "ebc-marburg.de",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-145（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-395），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-395",
+   "quote": "本行既有记录：含 MTCSE（安全）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Germany"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-396",
+   "before_code": "B-161",
+   "name": "Elia Fiumalbo Tino Spadoni / Spadhausen",
+   "country": "意大利",
+   "city": "Ravenna",
+   "email": "admin@spadhausen.com",
+   "site": "spadhausen.com",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-161（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-396），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Italy)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-396",
+   "quote": "本行既有记录：★ **自己拥有一家 ISP**（有实操场景可落设备）；自称「优化专家」，2002 年入行，MikroTik 认证讲师；主攻 BGP 与 ISP/企业冗余方案；常驻摩尔多瓦，可全球接单",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Italy"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-397",
+   "before_code": "B-172",
+   "name": "Simone Filippi / Byte Solutions",
+   "country": "意大利",
+   "city": "Berbenno（Bergamo/Lecco/Milano 一带）",
+   "email": "info@bytesolutions.it",
+   "site": "bytesolutions.it",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-172（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-397），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Italy)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-397",
+   "quote": "本行既有记录：企业网络与系统集成（贝加莫/莱科/米兰）；2017 年起用 MikroTik；**VoIP 语音路由与语音流量优先**、多 WAN、带宽管理 QoS → 语音场景 = PoE 话机供电需求",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Italy"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-398",
+   "before_code": "B-181",
+   "name": "Oļegs Žakovs / NetPro",
+   "country": "拉脱维亚",
+   "city": "Rīga",
+   "email": "oleg@netpro.lv",
+   "site": "netpro.lv",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-181（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-398），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Latvia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-398",
+   "quote": "本行既有记录：★ 拉脱维亚**唯一**认证顾问（稀缺）；15+ 年 MikroTik 经验；专长含 **802.1x 端口认证 + RADIUS**（→ 交换机接入层安全是他的活）、CAPsMAN、RoMON、The Dude 监控、",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Latvia"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-399",
+   "before_code": "B-198",
+   "name": "Martin Klablena",
+   "country": "捷克",
+   "city": "Prague",
+   "email": "klablena@fubar.cz",
+   "site": "fubar.cz",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-198（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-399），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-399",
+   "quote": "本行既有记录：动态路由 OSPF/RIP/BGP、企业站点互联与集中式 IPSec/SSTP/OpenVPN、CAPsMAN、**高级 LAN 拓扑与双 WAN 备份设计**",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Czech+Republic"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-400",
+   "before_code": "B-199",
+   "name": "Martin Poisel / MapNet",
+   "country": "捷克",
+   "city": "Brno",
+   "email": "mpoisel@mapnet.cz",
+   "site": "mapnet.cz",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-199（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-400），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-400",
+   "quote": "本行既有记录：7 证；布尔诺",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Czech+Republic"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-401",
+   "before_code": "B-212",
+   "name": "Radion Gareev / Meganet",
+   "country": "摩尔多瓦",
+   "city": "Chisinau",
+   "email": "radeon_service@mail.ru",
+   "site": "meganet.md",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-212（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-401），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Moldova)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-401",
+   "quote": "本行既有记录：承接任何 MikroTik 配置或咨询任务；含 MTCINE（ISP 互联）；英俄罗三语",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Moldova"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-402",
+   "before_code": "B-226",
+   "name": "Jonathan De Graeve / Smarteye",
+   "country": "比利时",
+   "city": "Wilrijk (Antwerpen)",
+   "email": "jonathan@smarteye.eu",
+   "site": "smarteye.eu",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-226（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-402），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Belgium)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-402",
+   "quote": "本行既有记录：★ 比利时**唯一**认证顾问（稀缺）；专做**骨干网设计**与 RouterOS 全栈运维诊断：BGP、MPLS、VPLS、OSPF、流量管理、带宽整形、防火墙、Hotspots、VPN、无线",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Belgium"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-403",
+   "before_code": "B-243",
+   "name": "Habib Kanso",
+   "country": "法国",
+   "city": "Toulouse",
+   "email": "habibkanso@gmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-243（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-403），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=France)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-403",
+   "quote": "本行既有记录：自述专长为「企业核心网络架构与技术」，含 MTCINE（ISP 互联）+ MTCTCE（流量控制）+ MTCSE（安全）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=France"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-404",
+   "before_code": "B-257",
+   "name": "Bartłomiej Maliszewski",
+   "country": "波兰",
+   "city": "Maciejów",
+   "email": "bartlomiej@maliszewski.pro",
+   "site": "maliszewski.pro",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-257（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-404），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Poland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-404",
+   "quote": "本行既有记录：8 年网络经验，其中 5 年在 ISP；为服务商和企业搭建 RouterOS 环境",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Poland"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-405",
+   "before_code": "B-267",
+   "name": "Krzysztof Dudek / Innored",
+   "country": "波兰",
+   "city": "Jelcz-Laskowice",
+   "email": "krzysztof.d@adar.net.pl",
+   "site": "innored.pl",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-267（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-405），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Poland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-405",
+   "quote": "本行既有记录：含 MTCSE（安全）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Poland"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-406",
+   "before_code": "B-293",
+   "name": "Fredrik Soderblom / XPD",
+   "country": "瑞典",
+   "city": "Järfälla",
+   "email": "fredrik@xpd.se",
+   "site": "xpd.se",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-293（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-406），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Sweden)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-406",
+   "quote": "本行既有记录：30+ 年 IT；1992 年就为惠普北欧设计实施第一套防火墙，后组建 HP 欧洲网络安全顾问组；在欧洲与美国做过大量边界安全方案与安全审计 → 资深安全专家，能听懂交换机安全特性",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Sweden"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-407",
+   "before_code": "B-302",
+   "name": "Philipp Marcel Albrecht / Portup",
+   "country": "瑞士",
+   "city": "Zürich",
+   "email": "info@portup.ch",
+   "site": "portup.ch",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-302（B 级·群发型）。依据：官方名录（顾问/培训）收录的集成公司，工程师级认证 MTCEWE、MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-407），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Switzerland)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-407",
+   "quote": "本行既有记录：含 MTCINE 方向外的路由与 IPv6、企业无线；英葡德三语",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Switzerland"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-408",
+   "before_code": "B-309",
+   "name": "Dovydas Rimeisis",
+   "country": "立陶宛",
+   "city": "Vilnius",
+   "email": "dovydas.rimeisis@atitic.eu",
+   "site": "atitic.eu",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-309（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-408），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Lithuania)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-408",
+   "quote": "本行既有记录：10+ 年 MikroTik 实操、15+ 年 IT 基础设施；做本地/混合/公有云融合的完整方案（网络+计算+云+安全协同），擅长 MikroTik 作为大架构一环的复杂环境",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Lithuania"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-409",
+   "before_code": "B-317",
+   "name": "Mircea Enache",
+   "country": "罗马尼亚",
+   "city": "Chiajna, Ilfov",
+   "email": "mircea.enache@outlook.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-317（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-409），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Romania)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-409",
+   "quote": "本行既有记录：网络架构师，10+ 年经验；含 MTCINE（ISP 互联）+ MTCEWE（企业无线）；英德罗三语",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Romania"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-410",
+   "before_code": "B-356",
+   "name": "Joshua Moore / Archous Networks",
+   "country": "美国",
+   "city": "Lake Stevens, WA",
+   "email": "mikrotik@archous.tech",
+   "site": "archous.tech",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-356（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCSE、MTCTCE、MTCUME，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-410），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-410",
+   "quote": "本行既有记录：多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=USA"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-411",
+   "before_code": "B-357",
+   "name": "Kyle Heppler / The ISP Academy",
+   "country": "美国",
+   "city": "Tucson, AZ",
+   "email": "hello@theispacademy.com",
+   "site": "theispacademy.com",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-357（B 级·群发型）。依据：官方名录（顾问/培训）收录的培训中心，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-411），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/training/centers?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-411",
+   "quote": "本行既有记录：★ 经营 **The ISP Academy（ISP 学院，培训机构）**；专攻各规模 ISP，尤其 WISP；兼做网络监控、数据库、**网络自动化与编程**、无线工程、团队培训 → 他教出来的 WISP 就是他的渠道",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/training/centers?region=USA"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-412",
+   "before_code": "B-378",
+   "name": "Rick Frey / Rick Frey Consulting",
+   "country": "美国",
+   "city": "Rexburg, ID",
+   "email": "rickfrey1000@gmail.com",
+   "site": "rickfreyconsulting.com",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-378（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-412），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-412",
+   "quote": "本行既有记录：**30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=USA"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-413",
+   "before_code": "B-441",
+   "name": "Menno van Krimpen / Libernet",
+   "country": "荷兰",
+   "city": "Werkendam",
+   "email": "info@libernet.nl",
+   "site": "libernet.nl",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-441（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-413），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-413",
+   "quote": "本行既有记录：★ 荷兰第一位 MikroTik 认证讲师；资深 WISP 运营商，PtP/PtMP、VoIP、Hotspot、流量整形、负载均衡；可上门培训",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-414",
+   "before_code": "B-447",
+   "name": "Stephan Szarafinski / MNW",
+   "country": "荷兰",
+   "city": "Bussum",
+   "email": "stephan@mnw.nl",
+   "site": "mnw.nl",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-447（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-414），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-414",
+   "quote": "本行既有记录：自述 2003 年起做 MikroTik 专家 → 荷兰最早一批用户，影响力型",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-415",
+   "before_code": "B-463",
+   "name": "Darío Noguera / Lanpixel",
+   "country": "西班牙",
+   "city": "Barcelona",
+   "email": "dario@lanpixel.com",
+   "site": "lanpixel.com",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-463（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-415），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-415",
+   "quote": "本行既有记录：15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/RADIUS/监控",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-416",
+   "before_code": "B-472",
+   "name": "Jorge Castellet Marques",
+   "country": "西班牙",
+   "city": "Castellón de la Plana",
+   "email": "j.castellet@yatuaprendes.com",
+   "site": "yatuaprendes.com",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-472（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-416），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-416",
+   "quote": "本行既有记录：MikroTik 全科目认证讲师；从小型网到企业网与 ISP；还做 MikroTik 与 ACS 系统的集成",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-417",
+   "before_code": "B-473",
+   "name": "Jorge Montero",
+   "country": "西班牙",
+   "city": "Leganés (Madrid)",
+   "email": "cotiti@gmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-473（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-417），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-417",
+   "quote": "本行既有记录：含 MTCINE（ISP 互联）+ MTCTCE（流量控制）+ MTCSE（安全）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-418",
+   "before_code": "B-475",
+   "name": "Juan Miguel Gallardo Pérez / Codisa Telco Solutions",
+   "country": "西班牙",
+   "city": "Badajoz",
+   "email": "jmgallardo@codisats.es",
+   "site": "codisats.es",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-475（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-418），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-418",
+   "quote": "本行既有记录：ISP/WISP/**FTTx** 工程师；高可用、安全、访问控制、MPLS、动态路由、流量控制、脚本、VPN；可远程支持",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-419",
+   "before_code": "B-478",
+   "name": "Martin Ruiz / Ibersystems",
+   "country": "西班牙",
+   "city": "Mataró",
+   "email": "Martinruiz@ibersystems.es",
+   "site": "ibersystems.es",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-478（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCRE、MTCSE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-419），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-419",
+   "quote": "本行既有记录：高可用、无线 PtP/PtMP/Mesh、HotSpot、QoS、代理/防火墙、VPN；远程与现场支持",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-420",
+   "before_code": "B-483",
+   "name": "Xavier Poza",
+   "country": "西班牙",
+   "city": "Llinars del Vallès",
+   "email": "xavinetworks@gmail.com",
+   "site": "",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-483（B 级·群发型）。依据：官方名录（顾问/培训）收录的认证顾问/讲师，工程师级认证 MTCINE、MTCRE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-420），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Spain)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-420",
+   "quote": "本行既有记录：自述方向：开放、自由、中立的公共/社区网络（含 MTCINE 互联）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Spain"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-421",
+   "before_code": "B-511",
+   "name": "MikroTik Trening Srbija",
+   "country": "塞尔维亚",
+   "city": "Belgrade",
+   "email": "office@mikrotiktrening.rs；+381 63 546126",
+   "site": "mikrotiktrening.rs",
+   "level": "official-directory-prior-round",
+   "note": "【2026-09-28 R50 A级提炼】来源等级：official-directory-prior-round。原 B-511（B 级·群发型）。依据：官方名录（顾问/培训）收录的培训中心，工程师级认证 MTCRE、MTCSE、MTCTCE、MTCWE，邮箱/电话直达。R50 全表去重扫描未命中 A 行。升 A（A-421），人工定级。本轮未重抓个人页（用户要求基于现有 list），个人条目沿用既有轮次记录；未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/training/centers?region=Serbia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-421",
+   "quote": "本行既有记录：塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。**有可直接用的邮箱**。",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/training/centers?region=Serbia"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 提炼）",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "R50 存量复核；官方名录按国入口在线（本轮抽查 NL/ES/UA/GR/IT/CA/PL/CZ），个人条目沿用既有记录",
+   "quote_convention": "quote 为本行既有记录的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  }
+ ]
+}

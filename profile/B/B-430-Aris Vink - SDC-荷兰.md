@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★ 自述在某 MikroTik **Value Added Master Distributor 做售前顾问 + 认证讲师**，帮代理商设计/实施/运维 MikroTik 网络 →  distributor 内部的人，最接近「品类经理」入口 |
+| 原备注 | ★ 自述在某 MikroTik **Value Added Master Distributor 做售前顾问 + 认证讲师**，帮代理商设计/实施/运维 MikroTik 网络 →  distributor 内部的人，最接近「品类经理」入口 【2026-09-28 R50 去重提示】与 A-131、A-286 （同域名 sdc.nl；同名 aris vink） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-430 |
 
 ## 三、人员与联系方式
 

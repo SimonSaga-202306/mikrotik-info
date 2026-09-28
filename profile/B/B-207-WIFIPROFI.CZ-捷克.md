@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Lety；店主 Krystof Klima 本人是 MikroTik 认证顾问（7 证：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCIPv6E+MTCSE），专长带宽管理与队列、RADIUS、高级防火墙、VPN/隧道、无线、动态路由 → 既是分销又是集成商，技术型老板，可直接聊规格 |
+| 原备注 | Lety；店主 Krystof Klima 本人是 MikroTik 认证顾问（7 证：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCIPv6E+MTCSE），专长带宽管理与队列、RADIUS、高级防火墙、VPN/隧道、无线、动态路由 → 既是分销又是集成商，技术型老板，可直接聊规格 【2026-09-28 R50 去重提示】与 A-288 （同邮箱 klima@wifiprofi.cz；同域名 wifiprofi.cz） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-207 |
 
 ## 三、人员与联系方式
 

@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Farsta |
+| 原备注 | Farsta 【2026-09-28 R50 去重提示】与 A-064、A-246 （同邮箱 contact@axbyte.se；同域名 axbyte.se） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-290 |
 
 ## 三、人员与联系方式
 

@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 域名就是 mikrotik-shop → 单品牌依赖度极高 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Freiburg |
+| 原备注 | Freiburg 【2026-09-28 R50 去重提示】与 A-083、A-239 （同域名 fmsweb.de） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-141 |
 
 ## 三、人员与联系方式
 
