@@ -211,7 +211,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L293"
+        "locator": "L368"
       }
     ]
   },
@@ -365,7 +365,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L469"
+        "locator": "L544"
       }
     ]
   },
@@ -485,7 +485,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L337"
+        "locator": "L412"
       }
     ]
   },
@@ -551,7 +551,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L467"
+        "locator": "L542"
       }
     ]
   },
@@ -879,7 +879,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L292"
+        "locator": "L367"
       }
     ]
   },
@@ -1008,6 +1008,80 @@
     ]
   },
   {
+    "url": "https://airicom.com/nous-contacter/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q47"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1397"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1402"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q47"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-47/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://airicom.com/nous-contacter/)：`Vous",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L26"
+      }
+    ]
+  },
+  {
+    "url": "https://alpha-motion.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q208"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L48"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L53"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L39"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q95"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-208/备注"
+      }
+    ]
+  },
+  {
     "url": "https://ampliteltech.com",
     "http_checked": false,
     "occurrences": [
@@ -1110,6 +1184,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-984/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://atel.com.pl/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q348"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L422"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L427"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/B/B-525-Atel Electronics-波兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q203"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-348/备注"
       }
     ]
   },
@@ -1231,7 +1339,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L430"
+        "locator": "L505"
       }
     ]
   },
@@ -1705,7 +1813,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L336"
+        "locator": "L411"
       }
     ]
   },
@@ -1929,7 +2037,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L390"
+        "locator": "L465"
       }
     ]
   },
@@ -2090,6 +2198,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-775/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://connectionservices.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q534"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1216"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1221"
+      },
+      {
+        "path": "profile/B/B-442-Michiel Visser - Connection Services-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q319"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-534/备注"
       }
     ]
   },
@@ -2460,6 +2598,66 @@
     ]
   },
   {
+    "url": "https://danbit.dk/da/kontakt-os/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q95"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L796"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L801"
+      },
+      {
+        "path": "profile/C/C-152-Danbit-丹麦.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q3"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-95/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://datalinkcom.net/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q376"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1006"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1011"
+      },
+      {
+        "path": "profile/C/C-223-DataLink Communications-爱尔兰-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q60"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-376/备注"
+      }
+    ]
+  },
+  {
     "url": "https://dds-computer.de",
     "http_checked": false,
     "occurrences": [
@@ -2670,6 +2868,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-985/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://distribution.phoebe.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q341"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L916"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L921"
+      },
+      {
+        "path": "profile/C/C-212-Phoebe IDF-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q51"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-341/备注"
       }
     ]
   },
@@ -2885,7 +3113,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L388"
+        "locator": "L463"
       }
     ]
   },
@@ -2916,6 +3144,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-854/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://ekanet.es/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q558"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1066"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1071"
+      },
+      {
+        "path": "profile/C/C-296-Ekanet-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q125"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-558/备注"
       }
     ]
   },
@@ -3215,7 +3473,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L578"
+        "locator": "L701"
       }
     ]
   },
@@ -3225,7 +3483,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L578"
+        "locator": "L701"
       }
     ]
   },
@@ -3527,7 +3785,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L333"
+        "locator": "L408"
       }
     ]
   },
@@ -3811,7 +4069,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L256"
+        "locator": "L331"
       }
     ]
   },
@@ -4281,7 +4539,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L472"
+        "locator": "L547"
       }
     ]
   },
@@ -4475,7 +4733,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L259"
+        "locator": "L334"
       }
     ]
   },
@@ -4657,7 +4915,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L259"
+        "locator": "L334"
       }
     ]
   },
@@ -5186,12 +5444,36 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q555"
+      },
+      {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L421"
       },
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L426"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1276"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1281"
+      },
+      {
+        "path": "profile/B/B-463-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q336"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-555/备注"
       }
     ]
   },
@@ -5274,6 +5556,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-916/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mac-solutions.net/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q507"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L660"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L665"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L57"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q298"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-507/备注"
       }
     ]
   },
@@ -5467,7 +5783,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L432"
+        "locator": "L507"
       }
     ]
   },
@@ -9593,7 +9909,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L429"
+        "locator": "L504"
       }
     ]
   },
@@ -9783,7 +10099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L340"
+        "locator": "L415"
       }
     ]
   },
@@ -10599,7 +10915,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L335"
+        "locator": "L410"
       }
     ]
   },
@@ -10770,8 +11086,32 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q470"
+      },
+      {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L560"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1336"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1341"
+      },
+      {
+        "path": "profile/B/B-378-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q283"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-470/备注"
       }
     ]
   },
@@ -11128,6 +11468,40 @@
     ]
   },
   {
+    "url": "https://shop.fiber24.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q234"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L116"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L121"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L41"
+      },
+      {
+        "path": "profile/B/B-516-Fiber24-德国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q118"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-234/备注"
+      }
+    ]
+  },
+  {
     "url": "https://shop.hug.de/unknown/hp-image-aufspielung.html",
     "http_checked": false,
     "occurrences": [
@@ -11266,6 +11640,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-592/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://shopdoubleradius.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q436"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1096"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1101"
+      },
+      {
+        "path": "profile/B/B-344-DoubleRadius, Inc-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q265"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-436/备注"
       }
     ]
   },
@@ -11498,6 +11902,36 @@
     ]
   },
   {
+    "url": "https://sphinxfrance.com/Contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q345"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L946"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L951"
+      },
+      {
+        "path": "profile/C/C-214-Sphinx France-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q53"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-345/备注"
+      }
+    ]
+  },
+  {
     "url": "https://stlconnext.it",
     "http_checked": false,
     "occurrences": [
@@ -11718,6 +12152,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-591/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://tecon.cz/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q296"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L252"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L257"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L45"
+      },
+      {
+        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q162"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-296/备注"
       }
     ]
   },
@@ -13756,6 +14224,36 @@
     ]
   },
   {
+    "url": "https://www.allness.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q493"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1246"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1251"
+      },
+      {
+        "path": "profile/B/B-401-Barry Higgins - Allness-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q294"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-493/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.alphacron.de",
     "http_checked": false,
     "occurrences": [
@@ -13838,6 +14336,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-887/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alternetivo.cz/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q285"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L856"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L861"
+      },
+      {
+        "path": "profile/C/C-195-Alternetivo s.r.o-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q40"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-285/备注"
       }
     ]
   },
@@ -13997,7 +14525,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L260"
+        "locator": "L335"
       }
     ]
   },
@@ -14058,6 +14586,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-818/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aplus-sa.com/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q324"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L320"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L325"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L47"
+      },
+      {
+        "path": "profile/B/B-522-APLUS Systeme Automation-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q186"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-324/备注"
       }
     ]
   },
@@ -14130,6 +14692,36 @@
     ]
   },
   {
+    "url": "https://www.archous.tech/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q448"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1156"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1161"
+      },
+      {
+        "path": "profile/B/B-356-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q272"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-448/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.asit.it",
     "http_checked": false,
     "occurrences": [
@@ -14194,6 +14786,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-952/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ateg.de/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q231"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L82"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L87"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L40"
+      },
+      {
+        "path": "profile/B/B-515-ATEG Automation GmbH-德国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q116"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-231/备注"
       }
     ]
   },
@@ -14293,7 +14919,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L338"
+        "locator": "L413"
       }
     ]
   },
@@ -14418,6 +15044,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-890/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.batna24.com/gb/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q350"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1306"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1311"
+      },
+      {
+        "path": "profile/B/B-258-Batna（anteny24.pl）-波兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q205"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-350/备注"
       }
     ]
   },
@@ -14817,7 +15473,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L430"
+        "locator": "L505"
       }
     ]
   },
@@ -15486,12 +16142,36 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q432"
+      },
+      {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L258"
       },
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L263"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1126"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1131"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q262"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-432/备注"
       }
     ]
   },
@@ -15506,6 +16186,40 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L267"
+      }
+    ]
+  },
+  {
+    "url": "https://www.controsys.hu/kapcsolat/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q174"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L14"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L19"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/B/B-513-Controsys Control Engineering Ltd-匈牙利.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q65"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-174/备注"
       }
     ]
   },
@@ -15752,6 +16466,40 @@
     ]
   },
   {
+    "url": "https://www.cyberbajt.pl/handlowcy/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q352"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L461"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/B/B-526-Cyberbajt-波兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q207"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-352/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.dael.com",
     "http_checked": false,
     "occurrences": [
@@ -15783,7 +16531,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L290"
+        "locator": "L365"
       }
     ]
   },
@@ -16148,6 +16896,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-805/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datamonitor.fi/yhteystiedot/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q488"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L592"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L597"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L55"
+      },
+      {
+        "path": "profile/B/B-530-Data Monitor-芬兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q289"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-488/备注"
       }
     ]
   },
@@ -16534,6 +17316,66 @@
     ]
   },
   {
+    "url": "https://www.digimax.it/it/contattaci",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q251"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L826"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L831"
+      },
+      {
+        "path": "profile/C/C-183-DIGIMAX S.r.l-意大利.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q30"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-251/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.digitalcontrols.biz/index.php?route=information/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q501"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1036"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1041"
+      },
+      {
+        "path": "profile/C/C-279-Digital Controls-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q112"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-501/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.digitalsima.gr",
     "http_checked": false,
     "occurrences": [
@@ -16565,7 +17407,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L431"
+        "locator": "L506"
       }
     ]
   },
@@ -16745,7 +17587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L392"
+        "locator": "L467"
       }
     ]
   },
@@ -17006,6 +17848,40 @@
     ]
   },
   {
+    "url": "https://www.egelectronics.com/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q384"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L490"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L495"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L52"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q229"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-384/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.elko.ua/",
     "http_checked": false,
     "occurrences": [
@@ -17250,6 +18126,36 @@
     ]
   },
   {
+    "url": "https://www.es-france.com/content/23-contactez-nous",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q331"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L886"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L891"
+      },
+      {
+        "path": "profile/C/C-208-Equipements Scientifiques-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q49"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-331/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.euroele.com",
     "http_checked": false,
     "occurrences": [
@@ -17427,7 +18333,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L387"
+        "locator": "L462"
       }
     ]
   },
@@ -18024,6 +18930,74 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-849/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fget.fr/index.php?controller=contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q332"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L354"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L359"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L48"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q191"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-332/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fiberworks.no/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q277"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L150"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L155"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/B/B-517-Fiberworks AS-挪威.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q148"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-277/备注"
       }
     ]
   },
@@ -18974,6 +19948,74 @@
     ]
   },
   {
+    "url": "https://www.hdtechnology.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q334"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L388"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L393"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L49"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q193"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-334/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hightechnordic.com/kontakta-mig",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q386"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L524"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L529"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L53"
+      },
+      {
+        "path": "profile/B/B-528-HighTech Nordic AB-瑞典.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q231"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-386/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.hmt-hamburg.com",
     "http_checked": false,
     "occurrences": [
@@ -19543,7 +20585,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L393"
+        "locator": "L468"
       }
     ]
   },
@@ -19695,7 +20737,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L288"
+        "locator": "L363"
       }
     ]
   },
@@ -20159,7 +21201,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L468"
+        "locator": "L543"
       }
     ]
   },
@@ -20220,9 +21262,47 @@
     ]
   },
   {
+    "url": "https://www.ivoryegg.co.uk/contact-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q504"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L626"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L631"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L56"
+      },
+      {
+        "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q296"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-504/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.janzen-group.com/",
     "http_checked": false,
     "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q755"
+      },
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L293"
@@ -20230,6 +21310,26 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L298"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1186"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1191"
+      },
+      {
+        "path": "profile/B/B-510-Janzen Group-德国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q360"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-755/备注"
       }
     ]
   },
@@ -20279,7 +21379,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L289"
+        "locator": "L364"
       }
     ]
   },
@@ -20746,6 +21846,40 @@
     ]
   },
   {
+    "url": "https://www.leadernet.es/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q569"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L762"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L767"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L60"
+      },
+      {
+        "path": "profile/B/B-535-Leadernet Sistemas Telec-西班牙.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q347"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-569/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.lexis.gr",
     "http_checked": false,
     "occurrences": [
@@ -20828,6 +21962,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1018/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lextron.nl/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q531"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L728"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L733"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L59"
+      },
+      {
+        "path": "profile/B/B-534-Lextron B.V-荷兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q316"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-531/备注"
       }
     ]
   },
@@ -21764,6 +22932,36 @@
     ]
   },
   {
+    "url": "https://www.maritex.eu/en/contact-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q360"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L976"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L981"
+      },
+      {
+        "path": "profile/C/C-218-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "C级-难啃!Q55"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-360/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.marvell.com/products/enterprise-switches.html?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -21929,7 +23127,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L389"
+        "locator": "L464"
       }
     ]
   },
@@ -22303,7 +23501,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L431"
+        "locator": "L506"
       }
     ]
   },
@@ -22514,6 +23712,40 @@
     ]
   },
   {
+    "url": "https://www.millbeck.co.uk/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q509"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L694"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L699"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L58"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q299"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-509/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.mlsoftware.it",
     "http_checked": false,
     "occurrences": [
@@ -22545,7 +23777,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L394"
+        "locator": "L469"
       }
     ]
   },
@@ -22611,7 +23843,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L260"
+        "locator": "L335"
       }
     ]
   },
@@ -22732,6 +23964,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-72/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mpi.ch/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q393"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L558"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L563"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L54"
+      },
+      {
+        "path": "profile/B/B-529-MPI Technologies AG-瑞士.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q238"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-393/备注"
       }
     ]
   },
@@ -23655,7 +24921,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L341"
+        "locator": "L416"
       }
     ]
   },
@@ -24077,7 +25343,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L391"
+        "locator": "L466"
       }
     ]
   },
@@ -24691,7 +25957,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L471"
+        "locator": "L546"
       }
     ]
   },
@@ -24765,7 +26031,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L339"
+        "locator": "L414"
       }
     ]
   },
@@ -24996,6 +26262,40 @@
     ]
   },
   {
+    "url": "https://www.proficomms.cz/kontakt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q294"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L218"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L223"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L44"
+      },
+      {
+        "path": "profile/B/B-519-Proficomms-捷克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q161"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-294/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.prosoft-krippner.com/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -25200,6 +26500,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-999/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.satel.no/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q280"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L189"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L43"
+      },
+      {
+        "path": "profile/B/B-518-SATEL NORGE AS-挪威.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q149"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-280/备注"
       }
     ]
   },
@@ -25926,6 +27260,36 @@
     ]
   },
   {
+    "url": "https://www.smarteye.eu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q318"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1428"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1433"
+      },
+      {
+        "path": "profile/B/B-226-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q180"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-318/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.soselectronic.com/en-gb/contact-us-1677-1-18-22-9-4-1-7-14-3-1-15-1-1-1-3-3-2",
     "http_checked": false,
     "occurrences": [
@@ -26476,6 +27840,40 @@
     ]
   },
   {
+    "url": "https://www.teslanetworks.com/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q320"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L286"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L291"
+      },
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L46"
+      },
+      {
+        "path": "profile/B/B-521-Tesla Networks-比利时.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "B级-慢慢跟!Q182"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-320/备注"
+      }
+    ]
+  },
+  {
     "url": "https://www.tiefenbach-it.com",
     "http_checked": false,
     "occurrences": [
@@ -26893,7 +28291,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L334"
+        "locator": "L409"
       }
     ]
   },
@@ -27413,7 +28811,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L470"
+        "locator": "L545"
       }
     ]
   },
@@ -27546,6 +28944,46 @@
     ]
   },
   {
+    "url": "https://www.westercom.eu/cs/kontakt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
+        "locator": "反向信号名单!Q45"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1366"
+      },
+      {
+        "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "L1371"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L27"
+      },
+      {
+        "path": "客户分级跟进表_2026-09.xlsx",
+        "locator": "A级-重点好跟进!Q45"
+      },
+      {
+        "path": "客户名单_反向信号_2026-09.csv",
+        "locator": "row-45/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.westercom.eu/cs/kontakt)：Westercom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+        "locator": "L25"
+      }
+    ]
+  },
+  {
     "url": "https://www.wifiprofi.cz",
     "http_checked": false,
     "occurrences": [
@@ -27577,7 +29015,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L291"
+        "locator": "L366"
       }
     ]
   },

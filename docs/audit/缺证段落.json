@@ -164,7 +164,7 @@
   {
     "path": "AGENT-README.md",
     "locator": "L11",
-    "text": "- 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A384/B338/C311**（R48升级6条B→A，原B-070/B-272/B-465/B-416/B-361/B-175号空缺不回填）。",
+    "text": "- 主表：`客户名单_反向信号_2026-09.csv`，UTF-8 BOM，**1033×22**；**A384/B361/C288**（R48升级6条B→A：原B-070/B-272/B-465/B-416/B-361/B-175号空缺；R49回升23条C→B：原C-168/C-173/C-176/C-178/C-191/C-194/C-197/C-199/C-204/C-205/C-209/C-210/C-215/C-216/C-226/C-227/C-228/C-272/C-282/C-284/C-285/C-291/C-298号空缺不回填）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -194,7 +194,7 @@
   {
     "path": "AGENT-README.md",
     "locator": "L19",
-    "text": "2. **B/C复筛进行中**（R48第1批：19条核验、6条升级A-379–A-384）；升级A只接末尾、保持原物理位置。",
+    "text": "2. **B/C复筛进行中**（R48第1批：19条核验、6条升级A-379–A-384；R49第2批：9条+B-226维持B、23条C→B邮箱回升）；升级A只接末尾、保持原物理位置。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17180,108 +17180,114 @@
   {
     "path": "README.md",
     "locator": "L21",
-    "text": "- **1,033 条 × 22列：A384 / B338 / C311。**主数据为根目录CSV，用户交付为xlsx。",
+    "text": "- **1,033 条 × 22列：A384 / B361 / C288。**主数据为根目录CSV，用户交付为xlsx。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L22",
-    "text": "- A段联系方式顺号研究已完成至 **A378**；现进入 **B/C复筛**。第1批（2026-09-28）核验19条B行，升级6条为 **A-379–A-384**；下一位 **A385**。",
+    "text": "- A段联系方式顺号研究已完成至 **A384**；**B/C复筛进行中**（第1批升级6条A-379–A-384；第2批9条+B-226维持B并落证）；下一位 **A385**。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L23",
-    "text": "- 本轮 B/C复筛第1批：6条交换机渠道B行（Optitera/WISP.PL/Ditecom/MS Dist/Makro Wisp/WispMax）核验官网产品线后按人工定级升A，追加为A-379–A-384；13条保持B并同样落证（大盘分销/集成服务/培训顾问/失败站点/同域名重复提示）。详见[批次核验](docs/audit/2026-09-28_BC复筛第1批.md)。",
+    "text": "- R49（2026-09-28）：**前49位内容可编辑（位置/顺序仍冻结）** → A-044/A-046 补入官网邮箱；33条C级【待补】行逐条挖掘 → **23条补到官网邮箱回升B**（换号B-513–B-535，原C号空置）、10条维持C。详见[批次核验](docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L24",
-    "text": "- **A段已完成，现按顺序复筛B/C。**新增或升级A从 **A379** 往后追加，绝不插队、重排或回填；升级行保持原CSV物理位置，只换编号与评级，原号空缺不回填。",
+    "text": "- 本轮（R48）B/C复筛第1批：6条交换机渠道B行（Optitera/WISP.PL/Ditecom/MS Dist/Makro Wisp/WispMax）核验官网产品线后按人工定级升A，追加为A-379–A-384；13条保持B并同样落证（大盘分销/集成服务/培训顾问/失败站点/同域名重复提示）。详见[批次核验](docs/audit/2026-09-28_BC复筛第1批.md)。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
     "locator": "L25",
+    "text": "- **A段已完成，现按顺序复筛B/C。**新增或升级A从 **A379** 往后追加，绝不插队、重排或回填；升级行保持原CSV物理位置，只换编号与评级，原号空缺不回填。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "README.md",
+    "locator": "L26",
     "text": "- 全仓机械盘点已建立，但 **764条客户尚无逐项证据URL**；另外269条有结构化联络证据也不代表其全部字段已验证。不能把“索引齐全”说成“事实全部有证”。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L29",
+    "locator": "L30",
     "text": "1. **深搜整个仓库**：包含档案、原始批次、代码、历史、Office工作表/段落及隐藏资料；明确未解析和未核实范围，不用抽样冒充全量。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L30",
+    "locator": "L31",
     "text": "2. **发现的信息必须带来源**：在相关MD/字段旁写URL或本地文件位置、对应事实、检索/记录日期、来源等级；找不到证据就标“待补证”，不猜。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L31",
+    "locator": "L32",
     "text": "3. **结构准确、清晰、可读**：入口、主数据、生成物、原始材料、历史分层；整理目录不构成客户重排授权。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L32",
+    "locator": "L33",
     "text": "4. **用户要求统一记录**：所有可恢复用户要求集中在一个[总账MD](docs/requirements/用户要求总账.md)，每轮带消息时间（能恢复的精度）和真实记录时间。旧摘要不是用户原文，提交时间不是发言时间，未知不得补造。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L33",
+    "locator": "L34",
     "text": "5. **README持续更新并核验**：每轮写明进度、未完成事项、下一位编号与规则变更；按历史要求用 `grep -c` 检查实际写入。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L37",
-    "text": "- 存量编号、CSV物理顺序、前49位不动；第37轮的一次性尾部重排许可已使用完。",
+    "locator": "L38",
+    "text": "- 存量编号、CSV物理顺序不动；**前49位仅内容可编辑（2026-09-28 用户授权），位置/顺序仍冻结**；第37轮的一次性尾部重排许可已使用完。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L38",
+    "locator": "L39",
     "text": "- 不擅改评级规则。Bechtle A103保级是个案；A080风险已知悉不代表证书有效。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L47",
+    "locator": "L48",
     "text": "客户名单_反向信号_2026-09.csv  主数据（22列，冻结编号）",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L48",
+    "locator": "L49",
     "text": "客户分级跟进表_2026-09.xlsx    用户交付",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L54",
+    "locator": "L55",
     "text": "docs/requirements/          唯一用户要求总账",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L65",
+    "locator": "L66",
     "text": "依赖：Python 3.10+、Git、`openpyxl`（现有xlsx管道依赖）；审计/测试不会启动网络服务。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L68",
+    "locator": "L69",
     "text": "python3 scripts/audit_repository.py --date 2026-09-27",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
     "path": "README.md",
-    "locator": "L69",
+    "locator": "L70",
     "text": "python3 -m unittest discover -s tests -v",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
@@ -22221,6 +22227,54 @@
     "path": "死路与死链备案_2026-09.md",
     "locator": "L297",
     "text": "- mhzshop.com：B-245 与 A-352 同域名同国别，疑似重复记录；**本轮未抓取、未合并、未删除**，仅登记待人工确认。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L300",
+    "text": "## 2026-09-28 · R49 邮箱补录与 B/C 复筛第 2 批",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L302",
+    "text": "逐条源文、URL、判定与失败方式见[批次JSON](batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json)和[核验记录](docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md)。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L304",
+    "text": "- 站点失败/拦截（重试队列）：B-340 `controllerservice.com` 直连 HTTP 500（连续复现）；B-378 `rickfreyconsulting.com` 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT）；C-212 `distribution.phoebe.fr` OVH「站点未安装」占位（域名无站点）。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L305",
+    "text": "- 死链/域名易主：C-223 `datalinkcom.net` 现为印尼语博彩垃圾站（原爱尔兰集成商域名已易主），按死链处理。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L306",
+    "text": "- 邮箱不可复制（保持 C）：C-152 Danbit（邮箱为图片渲染；`/da/kontakt`、`/da/handelsbetingelser` 404）；C-296 Ekanet（商城表单，`/contacto` 404）；C-208 ES France（7 事业部表单 + 总机）；C-279 Digital Controls（仅地址电话 + 表单，`/contact-us` 404）。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L307",
+    "text": "- 需 JS 渲染/第三方来源（待核，不算找到）：C-183 DIGIMAX（官网页脚 `digimax@digimax.it` 仅搜索索引可见）；C-195 Alternetivo（第三方名录 `info@alternetivo.cz`、Softing 页 `matej@alternetivo.cz`）；C-218 Maritex（官网联系页 404，搜索索引 `maritex@maritex.eu`）；C-214 Sphinx France（联系入口需 JS，仅区域电话）。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L308",
+    "text": "- 域名/实体重复提示（只记录、不合并）：C-214 `sphinxfrance.com` ↔ A-265 Sphinx Connect `sphinxfrance.fr`；B-442 ↔ A-271（Michiel Visser）；B-245 ↔ A-352；B-226 ↔ B-227。",
+    "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
+  },
+  {
+    "path": "死路与死链备案_2026-09.md",
+    "locator": "L309",
+    "text": "- 404 路径（本轮实测）：`danbit.dk/da/kontakt`、`danbit.dk/da/handelsbetingelser`、`digimax.it/it/contatti`、`digimax.it/it/contatti-2`、`digimax.it/en/contacts`、`maritex.eu/en/contact-us`、`maritex.eu/pl/kontakt`、`maritex.com.pl/kontakt.html`、`sphinxfrance.com/Contact/`、`fget.fr/contact`、`digitalcontrols.biz/contact-us`、`ekanet.es/contacto(/)`、`leadernet.es/contacto/`、`airicom.com/nous-contacter(/)`（404 页正文反而给出 marketing@airicom.fr）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {

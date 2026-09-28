@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | ★ 比利时**唯一**认证顾问（稀缺）；专做**骨干网设计**与 RouterOS 全栈运维诊断：BGP、MPLS、VPLS、OSPF、流量管理、带宽整形、防火墙、Hotspots、VPN、无线 |
+| 原备注 | ★ 比利时**唯一**认证顾问（稀缺）；专做**骨干网设计**与 RouterOS 全栈运维诊断：BGP、MPLS、VPLS、OSPF、流量管理、带宽整形、防火墙、Hotspots、VPN、无线 【2026-09-28 R49 复筛补录】来源等级：official-company。官网正文可见销售/支持邮箱与公司实体：smarteye.eu：Sales +32 9 395 7000 / sales@smarteye.eu；Support BE +32 9 395 6000 / support@smarteye.eu；SmartEye BV, Terbekehofdreef 24, B-2610 Wilrijk, B.T.W. BE0542740338；自述 30,000+ Wi-Fi 接入点、700+ 场址、165,000+ 年用户；客户含 Artevelde、UGent、Howest、XIOR、Home Invest、Hasselt 等 结论：B 级群发可触达（原 jonathan@smarteye.eu 保留）。 证据：[1](https://www.smarteye.eu/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-226 |
 
 ## 三、人员与联系方式
 

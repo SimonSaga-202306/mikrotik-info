@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/RADIUS/监控 |
+| 原备注 | 15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/RADIUS/监控 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线并扩为培训中心；培训型，未见采购证据：lanpixel.com：MikroTik Academy / Ubiquiti 授权培训中心、FUNDAE 学时补贴、labs.lanpixel.com 远程实验平台；公开联系 hola@lanpixel.com、(+34) 91 00 52 276；Madrid；课程含 MTCNA/MTCSE 与 switching/firewall 实验 结论：维持 B（无采购/替换新证据）。 证据：[1](https://lanpixel.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-463 |
 
 ## 三、人员与联系方式
 

@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 含 MTCINE（ISP 互联）+ MTCWE（无线） |
+| 原备注 | 含 MTCINE（ISP 互联）+ MTCWE（无线） 【2026-09-28 R49 复筛补录】来源等级：official-company。站点仅占位页；与 A-271 同名同人，保留不合并：connectionservices.nl 现仅单页 IPv6 连通性测试占位（含 he.net 徽章），无公司介绍/产品/服务正文；原入口 +31 6 29047127 / michiel@connectionservices.nl 保留 结论：维持 B（无采购/替换新证据）。 证据：[1](https://connectionservices.nl/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442 |
 
 ## 三、人员与联系方式
 

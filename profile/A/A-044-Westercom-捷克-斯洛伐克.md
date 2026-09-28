@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | 同时代理 Westermo 与 B+B SmartWorx → 典型多品牌工业分销 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 已验证：站内还在卖 B+B SmartWorx 全线 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用；【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。站点有 Advantech EKI 工业以太网设备专区，共 440 个型号、153 个现货，含 EKI-2528-BE（€103）、EKI-5528I-AE（€160）、EKI-7712G-4FPI-BE（€298）、EKI-7720G-4FI-BU（€1,144）等，标价为中欧行情参考。；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。捷克与斯洛伐克双国 **Silver 分销商**（Westermo 渠道第二等级）。 |
+| 原备注 | 已验证：站内还在卖 B+B SmartWorx 全线 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用；【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。站点有 Advantech EKI 工业以太网设备专区，共 440 个型号、153 个现货，含 EKI-2528-BE（€103）、EKI-5528I-AE（€160）、EKI-7712G-4FPI-BE（€298）、EKI-7720G-4FI-BU（€1,144）等，标价为中欧行情参考。；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。捷克与斯洛伐克双国 **Silver 分销商**（Westermo 渠道第二等级）。 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /cs/kontakt 正文可见：eshop@westercom.eu。westercom.eu /cs/kontakt：eshop@westercom.eu；Na okraji 42, 162 00 Praha 6；IČO 03591689；站内电话 +420 607 550 014（与原字段 +420 603 509 790 不一致，均保留） 未发送邮件、未提交表单。 证据：[1](https://www.westercom.eu/cs/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-044 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
-- **电话**：+420 603 509 790
-- **原始联系字段**：+420 603 509 790
+- **邮箱**：eshop@westercom.eu
+- **电话**：+420 603 509 790、+420 607 550 014
+- **原始联系字段**：+420 603 509 790 / eshop@westercom.eu（官网 /cs/kontakt 正文；站内另列 +420 607 550 014）
 
 ## 四、品牌与技术栈
 

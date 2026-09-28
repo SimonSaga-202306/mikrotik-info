@@ -18,7 +18,7 @@ from numbering import renumber
 
 CSV = '客户名单_反向信号_2026-09.csv'
 BASELINE = '5ac5c56'  # Governance baseline; cumulative A200–A299 contact-only allowance.
-CONTACT_BASELINE = 'f974d9c'  # Before R48; B/C rescreen promotions A-379–A-384 may change.
+CONTACT_BASELINE = 'f974d9c'  # Before R48; R48 promotions and R49 email backfills carry explicit allowances below.
 
 
 def git_file(path):
@@ -40,6 +40,29 @@ class RepositoryTests(unittest.TestCase):
     PROMOTED_OLD = {'B-070', 'B-272', 'B-465', 'B-416', 'B-361', 'B-175'}   # R48 B/C rescreen
     PROMOTED_NEW = {'A-379', 'A-380', 'A-381', 'A-382', 'A-383', 'A-384'}
     PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注'}
+    # R49: 23 C rows regained an official mailbox -> back to B (renumbered, row stays in place).
+    R49_OLD_TO_NEW = {'C-168': 'B-513', 'C-173': 'B-514', 'C-176': 'B-515', 'C-178': 'B-516',
+                      'C-191': 'B-517', 'C-194': 'B-518', 'C-197': 'B-519', 'C-199': 'B-520',
+                      'C-204': 'B-521', 'C-205': 'B-522', 'C-209': 'B-523', 'C-210': 'B-524',
+                      'C-215': 'B-525', 'C-216': 'B-526', 'C-226': 'B-527', 'C-227': 'B-528',
+                      'C-228': 'B-529', 'C-272': 'B-530', 'C-282': 'B-531', 'C-284': 'B-532',
+                      'C-285': 'B-533', 'C-291': 'B-534', 'C-298': 'B-535'}
+    R49_C_TO_B_FIELDS = {'评级', '档案编号', '评级依据', '备注', '入口/联系方式', 'C级细分'}
+    R49_NOTE_ONLY = {'C-152', 'C-183', 'C-195', 'C-208', 'C-212', 'C-214', 'C-218', 'C-223',
+                     'C-279', 'C-296', 'B-344', 'B-340', 'B-356', 'B-510', 'B-442', 'B-401',
+                     'B-463', 'B-258', 'B-378', 'B-226'}
+    R49_A_CONTENT = {'A-044', 'A-046'}
+    R49_A_FIELDS = {'入口/联系方式', '备注'}
+
+    @classmethod
+    def r49_allowed(cls, code):
+        if code in cls.R49_OLD_TO_NEW:
+            return cls.R49_C_TO_B_FIELDS
+        if code in cls.R49_NOTE_ONLY:
+            return {'备注'}
+        if code in cls.R49_A_CONTENT:
+            return cls.R49_A_FIELDS
+        return None
 
     def test_frozen_identity_and_physical_order(self):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
@@ -50,11 +73,20 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual([pos(r) for r in baseline], [pos(r) for r in self.rows])
         targets = {f'A-{n:03}' for n in range(200, 379)}
         for before, after in zip(baseline, self.rows):
+            allowed = self.r49_allowed(before['档案编号'])
             if before['档案编号'] in self.PROMOTED_OLD:
                 self.assertIn(after['档案编号'], self.PROMOTED_NEW)
                 self.assertEqual(after['评级'], 'A')
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS:
+                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+            elif allowed is not None:
+                # R49: only the email-backfill fields may differ; the row keeps its position.
+                if before['档案编号'] in self.R49_OLD_TO_NEW:
+                    self.assertEqual(after['档案编号'], self.R49_OLD_TO_NEW[before['档案编号']])
+                    self.assertEqual(after['评级'], 'B')
+                for k in self.header:
+                    if k not in allowed:
                         self.assertEqual(before[k], after[k], (before['档案编号'], k))
             elif before['档案编号'] not in targets:
                 self.assertEqual(before, after)
@@ -62,11 +94,43 @@ class RepositoryTests(unittest.TestCase):
                 self.assertTrue(all(before[k] == after[k] for k in self.header
                                     if k not in {'网站', '入口/联系方式', '备注', '评级依据'}))
 
-    def test_first_49_dossiers_byte_identical(self):
-        first = [p for p in (ROOT / 'profile/A').glob('A-*.md') if int(p.name[2:5]) <= 49]
+    def test_first_49_dossiers_frozen_except_r49_content(self):
+        # 2026-09-28 用户授权：前 49 位内容可编辑，位置/编号仍冻结。
+        first = sorted(p for p in (ROOT / 'profile/A').glob('A-*.md') if int(p.name[2:5]) <= 49)
         self.assertEqual(len(first), 49)
+        self.assertEqual([p.name[:5] for p in first], [f'A-{n:03}' for n in range(1, 50)])
+        editable = {'A-044', 'A-046'}
+        mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
         for p in first:
-            self.assertEqual(p.read_bytes(), git_file(p.relative_to(ROOT).as_posix()), p.name)
+            base = git_file(p.relative_to(ROOT).as_posix()).decode('utf-8')
+            cur = p.read_text(encoding='utf-8')
+            if p.name[:5] not in editable:
+                self.assertEqual(cur, base, p.name)
+                continue
+            self.assertIn('R49', cur)
+
+            def blocks(text):
+                out, key = {}, '(head)'
+                for line in text.splitlines(keepends=True):
+                    if line.startswith('## '):
+                        key = line.strip()
+                    out[key] = out.get(key, '') + line
+                return out
+
+            b, c = blocks(base), blocks(cur)
+            self.assertEqual(list(b), list(c), p.name)
+            for key in b:
+                if key in ('## 二、公司概览', '## 三、人员与联系方式'):
+                    missing = [ln for ln in b[key].splitlines() if ln.strip()
+                               and ln not in cur and not ln.startswith(mutable_lines)]
+                    self.assertEqual(missing, [], (p.name, key, missing[:2]))
+                elif key == '## 四、品牌与技术栈':
+                    # R49 证据摘录可能引入新品牌名 → 只允许“品牌集合是原集合的超集”。
+                    bb = re.search(r'：(.+)', b[key]).group(1).split('、')
+                    cb = re.search(r'：(.+)', c[key]).group(1).split('、')
+                    self.assertTrue(set(bb) <= set(cb), (p.name, set(bb) - set(cb)))
+                else:
+                    self.assertEqual(c[key], b[key], (p.name, key))
 
     def test_dossier_identity_and_c_subdivision(self):
         files = list((ROOT / 'profile').glob('[ABC]/*.md'))
@@ -130,15 +194,24 @@ class RepositoryTests(unittest.TestCase):
         baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
+            allowed = self.r49_allowed(before['档案编号'])
             if before['档案编号'] in self.PROMOTED_OLD:
                 self.assertIn(after['档案编号'], self.PROMOTED_NEW)
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS:
                         self.assertEqual(before[k], after[k], (before['档案编号'], k))
+            elif allowed is not None:
+                if before['档案编号'] in self.R49_OLD_TO_NEW:
+                    self.assertEqual(after['档案编号'], self.R49_OLD_TO_NEW[before['档案编号']])
+                    self.assertEqual(after['评级'], 'B')
+                for k in self.header:
+                    if k not in allowed:
+                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
             else:
                 self.assertEqual(before, after)
         from openpyxl import load_workbook
-        skip = self.PROMOTED_OLD | self.PROMOTED_NEW
+        skip = (self.PROMOTED_OLD | self.PROMOTED_NEW | set(self.R49_OLD_TO_NEW)
+                | set(self.R49_OLD_TO_NEW.values()) | self.R49_NOTE_ONLY | self.R49_A_CONTENT)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)
@@ -153,8 +226,8 @@ class RepositoryTests(unittest.TestCase):
             else:
                 self.assertEqual(av, bv, name)
         self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 384)
-        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 338)
-        self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 311)
+        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 361)
+        self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 288)
         a.close()
         b.close()
         workbook2 = 'MikroTik_vs_SmartByte_替代对照表.xlsx'
@@ -194,6 +267,8 @@ class RepositoryTests(unittest.TestCase):
         note = '伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】Campus Q；旧产品经理新闻；bad@example.org'
         self.assertEqual(without_contact_evidence(note), '伙伴等级：Resell。')
         self.assertEqual(without_contact_evidence('legacy campus customer'), 'legacy campus customer')
+        r49 = '核心事实。【2026-09-28 R49 邮箱补录】…official-company…【2026-09-28 R49 复核】more'
+        self.assertEqual(without_contact_evidence(r49), '核心事实。')
         for p in (ROOT / 'profile/A').glob('A-*.md'):
             if not 210 <= int(p.name[2:5]) < 379:
                 continue
@@ -515,8 +590,8 @@ class RepositoryTests(unittest.TestCase):
         for r in holds:
             self.assertEqual(self.by_code[r['code']]['评级'], 'B')
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 384)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 338)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 311)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 361)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
         a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
         self.assertEqual(a_nums, list(range(1, 385)))
         self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 384)
@@ -524,13 +599,61 @@ class RepositoryTests(unittest.TestCase):
             self.assertNotIn('【待补】', self.by_code[code]['备注'])
             self.assertIn('待补标记解除', self.by_code[code]['备注'])
         leftover = [r for r in self.rows if '【待补】' in r['备注']]
-        self.assertEqual(len(leftover), 33)
+        self.assertEqual(len(leftover), 10)   # R49: 23 rows regained a mailbox via official pages
         self.assertTrue(all(r['评级'] == 'C' for r in leftover))
         hold_codes = {r['code'] for r in holds}
         self.assertIn('B-245', hold_codes)
         self.assertIn('mhzshop.com', json.dumps(holds, ensure_ascii=False))
         self.assertIn('B-344', hold_codes)
         self.assertIn('B-226', hold_codes)
+
+    def test_r49_email_backfill_and_rescreen(self):
+        obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json').read_text())
+        self.assertEqual(obj['date'], '2026-09-28')
+        records = obj['records']
+        self.assertEqual(len(records), 45)
+        by_dec = {}
+        for r in records:
+            by_dec.setdefault(r['decision'], []).append(r)
+            self.assertTrue(r['quote'] and r['fields_supported'] and r['sources'])
+            self.assertEqual(r['retrieved_on'], '2026-09-28')
+        self.assertEqual(len(by_dec['email-backfill-C-to-B']), 23)
+        self.assertEqual(len(by_dec['hold-C']), 10)
+        self.assertEqual(len(by_dec['hold-B']), 9)
+        self.assertEqual(len(by_dec['email-enrich-B']), 1)
+        self.assertEqual(len(by_dec['email-backfill-A']), 2)
+        for r in by_dec['email-backfill-C-to-B']:
+            self.assertEqual(r['code'], self.R49_OLD_TO_NEW[r['before_code']])
+            row = self.by_code[r['code']]
+            self.assertEqual(row['评级'], 'B')
+            self.assertEqual(row['C级细分'], '')
+            self.assertIn(r['email'], row['入口/联系方式'])
+            self.assertNotIn('【待补】', row['备注'])
+            self.assertIn('待补标记解除', row['备注'])
+            self.assertIn('复核回升', row['评级依据'])
+            self.assertIn(r['before_code'] + '→' + r['code'], row['评级依据'])
+            self.assertIn('#' + r['code'], row['备注'])
+            self.assertTrue(list((ROOT / 'profile/B').glob(r['code'] + '-*.md')))
+            self.assertEqual(list((ROOT / 'profile/C').glob(r['before_code'] + '-*.md')), [])
+            self.assertNotIn(r['before_code'], self.by_code)
+            profile = next((ROOT / 'profile/B').glob(r['code'] + '-*.md')).read_text()
+            self.assertIn(f'来源等级：{r["level"]}', profile)
+        for r in by_dec['hold-C']:
+            row = self.by_code[r['code']]
+            self.assertEqual(row['评级'], 'C')
+            self.assertIn('【待补】', row['备注'])
+            self.assertIn('R49 复核', row['备注'])
+        for r in by_dec['hold-B'] + by_dec['email-enrich-B']:
+            row = self.by_code[r['code']]
+            self.assertEqual(row['评级'], 'B')
+            self.assertIn('R49 复筛补录', row['备注'])
+        for r in by_dec['email-backfill-A']:
+            row = self.by_code[r['code']]
+            self.assertEqual(row['评级'], 'A')
+            self.assertIn(r['email'], row['入口/联系方式'])
+            self.assertIn('前 49 位内容可编辑', r['note'])
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 288)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 361)
 
     def test_office_exports_preserve_base_fields(self):
         from openpyxl import load_workbook
@@ -565,7 +688,7 @@ class RepositoryTests(unittest.TestCase):
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
         for n in range(1, 49):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 49)  # 48 + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 50)  # 49 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

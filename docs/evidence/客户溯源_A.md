@@ -566,14 +566,17 @@
 <a id="A-044"></a>
 ## A-044 · Westercom · 捷克/斯洛伐克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-45`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：westercom.eu
 - 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[42]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：eshop@westercom.eu；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】官网 /cs/kontakt 正文可见：eshop@westercom.eu。仅补入口/联系方式与备注，评级与档案编号不变（前 49 位内容可编辑、位置冻结）。 证据：[1](https://www.westercom.eu/cs/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-044
+  - 保留原文：westercom.eu /cs/kontakt：eshop@westercom.eu；Na okraji 42, 162 00 Praha 6；IČO 03591689；站内电话 +420 607 550 014（与原字段 +420 603 509 790 不一致，均保留）
+  - [1](https://www.westercom.eu/cs/kontakt)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-045"></a>
@@ -592,14 +595,17 @@
 <a id="A-046"></a>
 ## A-046 · AiRiCOM · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-47`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：airicom.com
 - 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[43]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：marketing@airicom.fr；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】官网 404 页正文可见；搜索索引所示 commercial@/support@airicom.fr 未复核，暂不写入：marketing@airicom.fr。仅补入口/联系方式与备注，评级与档案编号不变（前 49 位内容可编辑、位置冻结）。 证据：[1](https://airicom.com/nous-contacter/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-046
+  - 保留原文：airicom.com 404 页正文：Vous pouvez nous contacter via notre site Internet, par e-mail — 链接指向 marketing@airicom.fr；官网产品线为 Milesight / HMS(Anybus, Ewon, Intesis) / Watteco / Seneca / Advantech
+  - [1](https://airicom.com/nous-contacter/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-047"></a>

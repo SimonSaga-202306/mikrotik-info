@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | USIndian Trail；WISP 方案商 |
+| 原备注 | USIndian Trail；WISP 方案商 【2026-09-28 R49 复筛补录】来源等级：official-company。官网已迁至 shop 子域；交换机品类在售：doubleradius.com 现 301 → shopdoubleradius.com（Shopify）：品类 Routing/Switching、Access Points、Fiber、LTE 等；品牌 MikroTik / Ubiquiti / Cambium Networks / SAF Tehnika / Baicells / RF elements；另有 services.doubleradius.com 与 Training & Events 页 结论：维持 B（无采购/替换新证据）。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-344 |
 
 ## 三、人员与联系方式
 

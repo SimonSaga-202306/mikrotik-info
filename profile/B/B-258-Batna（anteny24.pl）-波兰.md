@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Częstochowa；WISP 渠道 |
+| 原备注 | Częstochowa；WISP 渠道 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线；货架含交换机品类与 MikroTik 线：batna24.com（Batna24，20+ 年，网络设备贸易）：在售 Switches 品类与 MikroTik / Ubiquiti / Teltonika / Mimosa 等品牌；波兰 Częstochowa 系 anteny24.pl 品牌经营 结论：维持 B（无采购/替换新证据）。 证据：[1](https://www.batna24.com/gb/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-258 |
 
 ## 三、人员与联系方式
 

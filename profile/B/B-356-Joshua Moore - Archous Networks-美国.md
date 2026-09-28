@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | 多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道；为企业与 ISP 定制监控与报表 |
+| 原备注 | 多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）；OSPF/BGP/MPLS 规模部署、WireGuard/IPIP/GRE/L2TP/PPP 隧道；为企业与 ISP 定制监控与报表 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线；ISP/数据中心网络设计（含开放网络厂商）：archous.tech 首页：1-866-535-0358 | support@archous.tech | support.archous.tech；自述 ISP/数据中心/企业网络的托管服务、设计与实施；专长品牌含 MikroTik、Edge-Core、UfiSpace、IP Infusion、Juniper、Cisco、Dell、Paessler、Andrisoft、Debian、Microsoft 结论：维持 B（无采购/替换新证据）。 证据：[1](https://www.archous.tech/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-356 |
 
 ## 三、人员与联系方式
 

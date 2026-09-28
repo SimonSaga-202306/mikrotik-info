@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | Moxa 渠道名录（经销商定位法） |
-| 原备注 | sales@controllerservice.com；电话 (800) 584-5565。【2026-09-22 补】经 Moxa 渠道名录确认为 Moxa 官方分销商（台厂 Moxa 旗下欧洲/北美渠道）。 |
+| 原备注 | sales@controllerservice.com；电话 (800) 584-5565。【2026-09-22 补】经 Moxa 渠道名录确认为 Moxa 官方分销商（台厂 Moxa 旗下欧洲/北美渠道）。 【2026-09-28 R49 复筛补录】来源等级：official-company。站点 HTTP 500，本轮无法核验（失败站重试）：controllerservice.com 直连返回 HTTP 500（连续复现，本轮无法核验站点内容） 结论：维持 B（无采购/替换新证据）。 证据：[1](https://www.controllerservice.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-340 |
 
 ## 三、人员与联系方式
 

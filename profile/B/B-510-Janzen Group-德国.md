@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训计划（欧洲） |
-| 原备注 | 【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。汉堡本地 MikroTik **支持/咨询/实施**商，全德远程+汉堡现场。自述团队为「认证培训师与顾问」，面向企业网络与 IT 基础设施。 |
+| 原备注 | 【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。汉堡本地 MikroTik **支持/咨询/实施**商，全德远程+汉堡现场。自述团队为「认证培训师与顾问」，面向企业网络与 IT 基础设施。 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线；服务商口径，未见交换机产品线证据：janzen-group.com：服务面 Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik（布线、网络结构、WLAN 扩展）/ Wartungsverträge / Mikrotik Support（电话/远程/现场）；info@janzen-group.com、+49 40 696 022 11；页面人物介绍 Florian Janzen；ISO 9001 自述 结论：维持 B（无采购/替换新证据）。 证据：[1](https://www.janzen-group.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-510 |
 
 ## 三、人员与联系方式
 

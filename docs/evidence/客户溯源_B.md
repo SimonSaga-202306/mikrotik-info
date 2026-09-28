@@ -2231,6 +2231,11 @@
   - 说明：【2026-09-28 B/C复筛第1批】抓取失败：smarteye.eu 返回 WordPress “Error establishing a database connection”，本次不可核验；不据此升级或降级，保留原信号；下批换路径（缓存/社媒/工商登记）复核。未发送邮件、未提交表单。 证据：[1](https://smarteye.eu/)（失败页）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-226
   - 保留原文：smarteye.eu 抓取返回：“Error establishing a database connection”（WordPress 数据库错误页）
   - [1](https://smarteye.eu/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[44]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@smarteye.eu；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网正文可见销售/支持邮箱与公司实体：sales@smarteye.eu / support@smarteye.eu。维持 B（群发可触达）；未发送邮件、未提交表单。 证据：[1](https://www.smarteye.eu/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-226
+  - 保留原文：smarteye.eu：Sales +32 9 395 7000 / sales@smarteye.eu；Support BE +32 9 395 6000 / support@smarteye.eu；SmartEye BV, Terbekehofdreef 24, B-2610 Wilrijk, B.T.W. BE0542740338；自述 30,000+ Wi-Fi 接入点、700+ 场址、165,000+ 年用户；客户含 Artevelde、UGent、Howest、XIOR、Home Invest、Hasselt 等
+  - [1](https://www.smarteye.eu/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-227"></a>
@@ -2498,6 +2503,11 @@
   - 保留原文：anteny24.pl：抓取失败 / HTTP 500；batna24.com：本轮未返回内容
   - [1](https://anteny24.pl/)
   - [2](https://batna24.com/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[40]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：lukasz@anteny24.pl；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网在线；货架含交换机品类与 MikroTik 线。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.batna24.com/gb/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-258
+  - 保留原文：batna24.com（Batna24，20+ 年，网络设备贸易）：在售 Switches 品类与 MikroTik / Ubiquiti / Teltonika / Mimosa 等品牌；波兰 Częstochowa 系 anteny24.pl 品牌经营
+  - [1](https://www.batna24.com/gb/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-259"></a>
@@ -3194,6 +3204,11 @@
   - 保留原文：controllerservice.com：Featured Categories 含 Industrial Ethernet Switches、Industrial Serial and Ethernet Edge Connectivity、PLC/I-O、HMI、Motor Control、Power Supplies、Enclosures；Featured Brands 含 ABB、Eaton、HPS、Mersen、Schmersal、Sprecher+Schuh、Moxa；Control Panel Fabrication 与 Field Services 分栏
   - [1](https://www.controllerservice.com/)
   - [2](https://www.controllerservice.com/linecardmoxa)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[34]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@controllerservice.com；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】站点 HTTP 500，本轮无法核验（失败站重试）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.controllerservice.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-340
+  - 保留原文：controllerservice.com 直连返回 HTTP 500（连续复现，本轮无法核验站点内容）
+  - [1](https://www.controllerservice.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-342"></a>
@@ -3237,6 +3252,11 @@
   - 保留原文：shopdoubleradius.com：Top Brands MikroTik / Ubiquiti / SAF Tehnika / Baicells / RF elements / Cambium Networks；Shop by Category 含 Routing/Switching、Switches(in stock)、Fiber、LTE、Outdoor Wireless、Video；services.doubleradius.com 服务分站
   - [1](https://www.doubleradius.com/)
   - [2](https://shopdoubleradius.com/collections/routing-switching)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[33]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：salesteam@doubleradius.com；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网已迁至 shop 子域；交换机品类在售。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-344
+  - 保留原文：doubleradius.com 现 301 → shopdoubleradius.com（Shopify）：品类 Routing/Switching、Access Points、Fiber、LTE 等；品牌 MikroTik / Ubiquiti / Cambium Networks / SAF Tehnika / Baicells / RF elements；另有 services.doubleradius.com 与 Training & Events 页
+  - [1](https://shopdoubleradius.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-346"></a>
@@ -3331,6 +3351,11 @@
   - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点自述为 ISP/数据中心/企业托管网络服务商（品牌含 MikroTik、EdgeCore、UfiSpace、NetElastic、Cisco、Dell、Juniper、IPInfusion、Paessler、Andrisoft），联系通道 support@archous.tech / 1-866-535-0358；CSV 具名邮箱 mikrotik@archous.tech 为站内品牌入口 → 集成/托管服务，未见自采购交换机产品线证据，保持B待集成商口径批次。未发送邮件、未提交表单。 证据：[1](https://archous.tech/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-356
   - 保留原文：archous.tech：ISP / datacenter / enterprise managed services；vendors NetElastic / Cisco / Dell / Juniper / EdgeCore / UfiSpace / IPInfusion / MikroTik / Ubiquiti / Paessler / Andrisoft；1-866-535-0358 | support@archous.tech
   - [1](https://archous.tech/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[35]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：support@archous.tech；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网在线；ISP/数据中心网络设计（含开放网络厂商）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.archous.tech/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-356
+  - 保留原文：archous.tech 首页：1-866-535-0358 | support@archous.tech | support.archous.tech；自述 ISP/数据中心/企业网络的托管服务、设计与实施；专长品牌含 MikroTik、Edge-Core、UfiSpace、IP Infusion、Juniper、Cisco、Dell、Paessler、Andrisoft、Debian、Microsoft
+  - [1](https://www.archous.tech/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-357"></a>
@@ -3477,6 +3502,11 @@
   - 说明：【2026-09-28 B/C复筛第1批】抓取受阻：rickfreyconsulting.com 被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT / purefindresults 重定向），本次不可核验；保留原信号，下批换路径（缓存/社媒/培训名录）复核。未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)（被拦截）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-378
   - 保留原文：rickfreyconsulting.com：请求被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT），重定向至 purefindresults 类结果页
   - [1](https://rickfreyconsulting.com/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[41]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：rickfrey1000@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】站点持续被拦截，无法直连（失败站重试）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378
+  - 保留原文：rickfreyconsulting.com 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT，跳转纯搜寻域），无法直连核验内容
+  - [1](https://rickfreyconsulting.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-381"></a>
@@ -3610,6 +3640,11 @@
   - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为小型 IT 服务（电话/工单系统、WiFi 资讯页、网站/托管/邮件服务、工作坊维修与定制） → 未见交换/供电需求证据；具名联系人（英国 MikroTik 讲师，10证）保留，列入培训/顾问批次统一定级。未发送邮件、未提交表单。 证据：[1](https://www.allness.it/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-401
   - 保留原文：allness.it：Welcome / 电话 03333 403 303 / email-ticket system；WiFi 资讯页；Websites, hosting and email service；Workshop repairs, custom builds or just advice
   - [1](https://www.allness.it/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[38]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：barry@allness.it；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网在线（工单制触达）；官方名录另一邮箱 training@allness.it。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.allness.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401
+  - 保留原文：allness.net 首页：电话 03333 403 303、联系走 support.allness.net 工单系统；MikroTik 官方培训中心名录（英国）另列 Barry Higgins / Kidderminster、training@allness.it、allness.it/?page=consult（10 证全拿、官方讲师）
+  - [1](https://www.allness.net/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-404"></a>
@@ -3886,6 +3921,11 @@
   - 说明：【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点仅 IPv6 就绪自检占位页（IPv6 测试与 HE 认证徽章，含 MichielVisser 徽章名），无业务/产品内容 → 本次无升级证据；具名联系人保留，下批换路径（工商/社媒/域名注册）复核。未发送邮件、未提交表单。 证据：[1](https://www.connectionservices.nl/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-442
   - 保留原文：connectionservices.nl：页面内容为 IPv6_ready_logo、IPv6 连接测试与 ipv6.he.net 认证徽章（pass_name=MichielVisser）、test-ipv6.com 链接；未见业务介绍或产品页
   - [1](https://www.connectionservices.nl/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[37]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：michiel@connectionservices.nl；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】站点仅占位页；与 A-271 同名同人，保留不合并。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://connectionservices.nl/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442
+  - 保留原文：connectionservices.nl 现仅单页 IPv6 连通性测试占位（含 he.net 徽章），无公司介绍/产品/服务正文；原入口 +31 6 29047127 / michiel@connectionservices.nl 保留
+  - [1](https://connectionservices.nl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-443"></a>
@@ -4111,6 +4151,11 @@
   - 保留原文：lanpixel.com：Formaciones MikroTik & Ubiquiti、Certificación oficial（MTCNA / MTCSE / UniFi UAS）、FUNDAE 可报销、labs.lanpixel.com 远程实验室、training.lanpixel.com；联系 hola@lanpixel.com、(+34) 91 00 52 276、Madrid
   - [1](https://lanpixel.com/)
   - [2](https://lanpixel.com/contacto)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[39]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：dario@lanpixel.com；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网在线并扩为培训中心；培训型，未见采购证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-463
+  - 保留原文：lanpixel.com：MikroTik Academy / Ubiquiti 授权培训中心、FUNDAE 学时补贴、labs.lanpixel.com 远程实验平台；公开联系 hola@lanpixel.com、(+34) 91 00 52 276；Madrid；课程含 MTCNA/MTCSE 与 switching/firewall 实验
+  - [1](https://lanpixel.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-464"></a>
@@ -4414,6 +4459,11 @@
   - 保留原文：janzen-group.com：Leistungen 含 Sicherheitstechnik（Alarm/Video/CS-Gas）、Medientechnik、KNX Programmierung、Netzwerktechnik（Verlegen von Netzwerkleitungen, Support, Netzwerkstrukturen, WLAN-Ausbau）、Wartungsverträge、Mikrotik Support（Beratung/Remote/Vorort）；页面人物介绍 Florian Janzen；info@janzen-group.com、+49 40 696 022 11
   - [1](https://www.janzen-group.com/)
   - [2](https://www.janzen-group.com/leistungen/netzwerktechnik/)
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[36]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@janzen-group.com；投递未测试。
+  - 说明：【2026-09-28 R49 复筛补录】官网在线；服务商口径，未见交换机产品线证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.janzen-group.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-510
+  - 保留原文：janzen-group.com：服务面 Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik（布线、网络结构、WLAN 扩展）/ Wartungsverträge / Mikrotik Support（电话/远程/现场）；info@janzen-group.com、+49 40 696 022 11；页面人物介绍 Florian Janzen；ISO 9001 自述
+  - [1](https://www.janzen-group.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="B-511"></a>
@@ -4440,4 +4490,372 @@
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-513"></a>
+## B-513 · Controsys Control Engineering Ltd. · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-174`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：controsys.hu
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：controsys@controsys.hu；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kapcsolat/ 正文可见：controsys@controsys.hu。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-168 → 现 B-513）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.controsys.hu/kapcsolat/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-513
+  - 保留原文：controsys.hu /kapcsolat/：controsys@controsys.hu（联系表单同页）；Budapest 控制工程/HMS·N-Tron 渠道
+  - [1](https://www.controsys.hu/kapcsolat/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-514"></a>
+## B-514 · Alpha Motion S.A. · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-208`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：alpha-motion.gr
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@alpha-motion.gr；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网全站页脚可见：info@alpha-motion.gr。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-173 → 现 B-514）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://alpha-motion.gr/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-514
+  - 保留原文：alpha-motion.gr 全站页脚：Λεωφ. Μαραθώνος 72, 19009 Πικέρμι；+30 210 82 27 470 / 82 27 472；info@alpha-motion.gr
+  - [1](https://alpha-motion.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-515"></a>
+## B-515 · ATEG Automation GmbH · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-231`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ateg.de
+- 精确同名同国别首次入库提交：`eedf4ded27ead2166ef47f987a1eb676f2dce563`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[2]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@ateg.de；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@ateg.de。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-176 → 现 B-515）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.ateg.de/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-515
+  - 保留原文：ateg.de /kontakt/：info@ateg.de（询价/商务）、vertrieb@ateg.de、support@ateg.de；Remscheid
+  - [1](https://www.ateg.de/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-516"></a>
+## B-516 · Fiber24 · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-234`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：shop.fiber24.net
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[3]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：shop@fiber24.net；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 Shop 正文可见：shop@fiber24.net。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-178 → 现 B-516）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://shop.fiber24.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-516
+  - 保留原文：shop.fiber24.net 正文：shop@fiber24.net；德国光通信/网络网店（PLANET IGS-5225 全系）
+  - [1](https://shop.fiber24.net/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-517"></a>
+## B-517 · Fiberworks AS · 挪威
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-277`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：fiberworks.no
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：salg@fiberworks.no；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：salg@fiberworks.no。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-191 → 现 B-517）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.fiberworks.no/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517
+  - 保留原文：fiberworks.no /kontakt/：salg@fiberworks.no；+47 23 03 53 30；ORing 授权分销
+  - [1](https://www.fiberworks.no/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-518"></a>
+## B-518 · SATEL NORGE AS · 挪威
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-280`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：satel.no
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[5]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：produktinfo@satel.no；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：produktinfo@satel.no。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-194 → 现 B-518）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.satel.no/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-518
+  - 保留原文：satel.no /kontakt/：produktinfo@satel.no；+47 69 27 70 40；ORing 授权分销
+  - [1](https://www.satel.no/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-519"></a>
+## B-519 · Proficomms · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-294`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：proficomms.cz
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[6]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@proficomms.cz；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 kontakt 正文可见：info@proficomms.cz。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-197 → 现 B-519）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.proficomms.cz/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-519
+  - 保留原文：proficomms.cz /kontakt：info@proficomms.cz；ComNet/Microsens/AMG/PLANET/Cisco IE/TRENDnet 专业分销
+  - [1](https://www.proficomms.cz/kontakt)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-520"></a>
+## B-520 · TECON s.r.o. · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-296`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：tecon.cz
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@tecon.cz；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@tecon.cz。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-199 → 现 B-520）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://tecon.cz/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520
+  - 保留原文：tecon.cz /kontakt/：poptávky/obchodní dotazy info@tecon.cz；objednavky@tecon.cz；faktury@tecon.cz；technická podpora support@tecon.cz；tel 499 429 100 / 499 429 117；IČO 60932091
+  - [1](https://tecon.cz/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-521"></a>
+## B-521 · Tesla Networks · 比利时
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-320`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：teslanetworks.com
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：Info@teslanetworks.com；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：Info@teslanetworks.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-204 → 现 B-521）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.teslanetworks.com/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-521
+  - 保留原文：teslanetworks.com /contact/：Info@teslanetworks.com；+32 (0)15 24 7007；ORing 授权分销
+  - [1](https://www.teslanetworks.com/contact/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-522"></a>
+## B-522 · APLUS Systeme Automation · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-324`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：aplus-sa.com
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@aplus-sa.com；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：sales@aplus-sa.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-205 → 现 B-522）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.aplus-sa.com/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-522
+  - 保留原文：aplus-sa.com /contact/：sales@aplus-sa.com；+33 1 69884300；ORing 授权分销
+  - [1](https://www.aplus-sa.com/contact/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-523"></a>
+## B-523 · FGET International · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-332`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：fget.fr
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：base.fget@gmail.com；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见；免费邮箱（gmail），群发投递风险需自行评估：base.fget@gmail.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-209 → 现 B-523）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.fget.fr/index.php?controller=contact)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-523
+  - 保留原文：fget.fr index.php?controller=contact：Envoyez-nous un e-mail : base.fget@gmail.com；站点为 PrestaShop（工业过程与控制、通信工业类目）
+  - [1](https://www.fget.fr/index.php?controller=contact)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-524"></a>
+## B-524 · HD Technology · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-334`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：hdtechnology.com
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[11]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：contact@hdtechnology.fr；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：contact@hdtechnology.fr。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-210 → 现 B-524）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.hdtechnology.fr/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-524
+  - 保留原文：hdtechnology.fr 联系页：contact@hdtechnology.fr；Bron (Lyon)；HMS/N-Tron·Red Lion 渠道
+  - [1](https://www.hdtechnology.fr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-525"></a>
+## B-525 · Atel Electronics · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-348`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：atel.com.pl
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[12]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：cust@atel.com.pl；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：cust@atel.com.pl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-215 → 现 B-525）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://atel.com.pl/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-525
+  - 保留原文：atel.com.pl /kontakt/：cust@atel.com.pl；+48 77 455 60 76；ORing 授权分销
+  - [1](https://atel.com.pl/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-526"></a>
+## B-526 · Cyberbajt · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-352`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：cyberbajt.pl
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[13]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：d.jonik@cyberbajt.pl；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 dział handlowy 正文可见（个人邮箱）：d.jonik@cyberbajt.pl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-216 → 现 B-526）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.cyberbajt.pl/handlowcy/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-526
+  - 保留原文：cyberbajt.pl /handlowcy/：Dominik Jonik 666 111 958 d.jonik@cyberbajt.pl；Krzysztof Godzisz、Eligiusz Raciborski、Michał Błaszczyk、Grzegorz Góźdź、Stanisław Sirko 同页具名邮箱；地址 ul. Młyńska 27, 22-400 Zamość
+  - [1](https://www.cyberbajt.pl/handlowcy/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-527"></a>
+## B-527 · EG Electronics AB · 瑞典
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-384`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：egelectronics.com
+- 精确同名同国别首次入库提交：`eedf4ded27ead2166ef47f987a1eb676f2dce563`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：hello@egelectronics.com；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us/ 正文可见：hello@egelectronics.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-226 → 现 B-527）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.egelectronics.com/contact-us/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-527
+  - 保留原文：egelectronics.com /contact-us/：hello@egelectronics.com；Spånga (Stockholm)；HMS/N-Tron·Red Lion·Anybus 渠道
+  - [1](https://www.egelectronics.com/contact-us/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-528"></a>
+## B-528 · HighTech Nordic AB · 瑞典
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-386`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：hightechnordic.com
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[15]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@hightechnordic.com；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：info@hightechnordic.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-227 → 现 B-528）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.hightechnordic.com/kontakta-mig)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528
+  - 保留原文：hightechnordic.com /kontakta-mig：Förfrågningar/sälj info@hightechnordic.com；Frakt logistics@；Service & support support@；Faktura invoice@；Tel 010-177 58 00；Org.nr 559097-1437
+  - [1](https://www.hightechnordic.com/kontakta-mig)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-529"></a>
+## B-529 · MPI Technologies AG · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-393`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：mpi.ch
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[16]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@mpi.ch；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@mpi.ch。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-228 → 现 B-529）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.mpi.ch/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-529
+  - 保留原文：mpi.ch /kontakt/：info@mpi.ch；+41 564 83 34 44；ORing 授权分销
+  - [1](https://www.mpi.ch/kontakt/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-530"></a>
+## B-530 · Data Monitor · 芬兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-488`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：datamonitor.fi
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[17]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：myynti@datamonitor.fi；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /yhteystiedot/ 正文可见：myynti@datamonitor.fi。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-272 → 现 B-530）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.datamonitor.fi/yhteystiedot/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-530
+  - 保留原文：datamonitor.fi /yhteystiedot/：myynti@datamonitor.fi、dm@datamonitor.fi；ORing 授权分销
+  - [1](https://www.datamonitor.fi/yhteystiedot/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-531"></a>
+## B-531 · IVORY EGG (UK) LIMITED · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-504`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ivoryegg.co.uk
+- 精确同名同国别首次入库提交：`eedf4ded27ead2166ef47f987a1eb676f2dce563`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@ivoryegg.co.uk；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us 正文可见：info@ivoryegg.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-282 → 现 B-531）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.ivoryegg.co.uk/contact-us)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-531
+  - 保留原文：ivoryegg.co.uk /contact-us：info@ivoryegg.co.uk；Nottingham；HMS/N-Tron·Red Lion·Anybus·Ewon 渠道
+  - [1](https://www.ivoryegg.co.uk/contact-us)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-532"></a>
+## B-532 · MAC Solutions UK Ltd · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-507`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mac-solutions.net
+- 精确同名同国别首次入库提交：`eedf4ded27ead2166ef47f987a1eb676f2dce563`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[19]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@mac-solutions.co.uk；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us/ 正文可见（官网 .net 域列 .co.uk 邮箱）：sales@mac-solutions.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-284 → 现 B-532）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mac-solutions.net/contact-us/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-532
+  - 保留原文：mac-solutions.net /contact-us/：Head Office Kingfisher Business Park, 6 Arthur St, Redditch B98 8LG；sales@mac-solutions.co.uk、01527 529774；技术支持 support@mac-solutions.co.uk；European Office MAC Solutions Sarl, 1 Avenue Christian Doppler, 77700 Serris (Paris), commercial@mac-solutions.co.uk, +33 (0)1 78710107
+  - [1](https://mac-solutions.net/contact-us/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-533"></a>
+## B-533 · Millbeck · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-509`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：millbeck.co.uk
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[20]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：hello@millbeck.co.uk；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：hello@millbeck.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-285 → 现 B-533）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.millbeck.co.uk/contact)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-533
+  - 保留原文：millbeck.co.uk /contact：hello@millbeck.co.uk；Teltonika Diamond 渠道
+  - [1](https://www.millbeck.co.uk/contact)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-534"></a>
+## B-534 · Lextron B.V. · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-531`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：lextron.nl
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[21]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@lextron.nl；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：info@lextron.nl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-291 → 现 B-534）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.lextron.nl/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-534
+  - 保留原文：lextron.nl /contact/：info@lextron.nl；+31 162 220229；ORing 授权分销
+  - [1](https://www.lextron.nl/contact/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-535"></a>
+## B-535 · Leadernet Sistemas Telec · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-569`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：leadernet.es
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[22]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@leadernet.es；投递未测试。
+  - 说明：【2026-09-28 R49 邮箱补录】来源等级：official-company。官网首页正文可见：info@leadernet.es。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-298 → 现 B-535）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.leadernet.es/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-535
+  - 保留原文：leadernet.es 首页正文（隐私条款）：…escribiéndonos a la dirección de nuestras oficinas o enviando un correo electrónico a info@leadernet.es；可再生/工业通信网络集成（Oricáin/Madrid/Gijón 等 8 国）
+  - [1](https://www.leadernet.es/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

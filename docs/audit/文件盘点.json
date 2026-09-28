@@ -58,8 +58,8 @@
     },
     {
       "path": "AGENT-README.md",
-      "sha256": "9ca248b73ea6ac4e70dbce055632c2257048ccc1a6d74f4595a68a8e3e83b379",
-      "bytes": 24497,
+      "sha256": "e8e1bc6eaa399ff850e4b80a1befe92462eb19de3a1a9599e5410c94068b8b91",
+      "bytes": 24729,
       "tracked_at_scan": true,
       "units_scanned": 152,
       "unique_url_count": 0,
@@ -167,11 +167,11 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "14e1d25ac28eee2a39f7a26b1c2725e490cb68f704eeabf43a8ad7fe49a07ad1",
-      "bytes": 287085,
+      "sha256": "3791998b1b47a77ddca56893a455c6d23c93963194235894dc2fcbd86ed06fce",
+      "bytes": 313159,
       "tracked_at_scan": true,
-      "units_scanned": 20357,
-      "unique_url_count": 800,
+      "units_scanned": 20334,
+      "unique_url_count": 845,
       "inspection": {
         "zip_members": 24,
         "embedded_media": 0,
@@ -255,7 +255,7 @@
           {
             "name": "反向信号名单",
             "state": "visible",
-            "nonempty_cells": 17520
+            "nonempty_cells": 17497
           }
         ]
       },
@@ -353,10 +353,10 @@
     },
     {
       "path": "README.md",
-      "sha256": "33bc4df16708424c70bcee9bf8032d0eff05d8121839fba774b432e5389ba107",
-      "bytes": 5529,
+      "sha256": "17d097c9d95aedd8d949ce3b07e0f52d44a629ab1707db83b0ea9fef1e29c867",
+      "bytes": 5945,
       "tracked_at_scan": true,
-      "units_scanned": 73,
+      "units_scanned": 74,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -715,6 +715,16 @@
       "errors": []
     },
     {
+      "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+      "sha256": "61f80317ba8b89568787b283d14dff1d0499570129dea47106a6a8dcff0a3c8d",
+      "bytes": 80557,
+      "tracked_at_scan": false,
+      "units_scanned": 1450,
+      "unique_url_count": 45,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/dk.json",
       "sha256": "d72bc0445b79c65d9474d6d3aeec71d74c458a1386f89da7ee89a504653c1ff7",
       "bytes": 1392,
@@ -965,6 +975,16 @@
       "errors": []
     },
     {
+      "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
+      "sha256": "1fa3ffd7d297f901dce5175a25b0a4e662ae80d214c0a15d79b8233271b97728",
+      "bytes": 12420,
+      "tracked_at_scan": false,
+      "units_scanned": 116,
+      "unique_url_count": 25,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "docs/evidence/来源规则与资料地图.md",
       "sha256": "7e7f1ccd3a71eae2f25442cde34774310cb7ca3a8f47ccf5f9d29fbe695e71ef",
       "bytes": 6975,
@@ -986,17 +1006,17 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "ec20ee5c39119728e1bc5329c3f5f161707df59bad4ad153a4f222367b08fe3c",
-      "bytes": 65755,
+      "sha256": "d0bf913a4785e75dee95d5e7fa42435d903c9bb58755f9130581d20dd49fc803",
+      "bytes": 67457,
       "tracked_at_scan": true,
-      "units_scanned": 967,
+      "units_scanned": 976,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/00-索引.md",
-      "sha256": "55b100d28b4f3f6fd606d8f3311e6f466ca08219e77edc6dda66666904d750fc",
+      "sha256": "d884d5213a649311ddca79186be6ed77630f3313d274520e417f94418969414c",
       "bytes": 91630,
       "tracked_at_scan": true,
       "units_scanned": 1058,
@@ -1436,11 +1456,11 @@
     },
     {
       "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
-      "sha256": "ea8a1436e3f29c798b04f286b3243aafb31db23c3f08d5eb97c334804b0b5691",
-      "bytes": 4330,
+      "sha256": "ed0e2c9adf92a34865c0b4176f86c8ca018199af3eda351fa49cab14f092c119",
+      "bytes": 4921,
       "tracked_at_scan": true,
       "units_scanned": 108,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -1456,11 +1476,11 @@
     },
     {
       "path": "profile/A/A-046-AiRiCOM-法国.md",
-      "sha256": "d2580b86c763e551a1f232ceacc7d35282185e56ad8c685750a30abe5651e3dd",
-      "bytes": 3651,
+      "sha256": "eda9534197fddb05ace242fa26127008ce981cbaaa690af263f9a4fd865ef37c",
+      "bytes": 4323,
       "tracked_at_scan": true,
       "units_scanned": 107,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -6546,11 +6566,11 @@
     },
     {
       "path": "profile/B/B-226-Jonathan De Graeve - Smarteye-比利时.md",
-      "sha256": "c1a50cc4a5f1bd80116271bdf0e9787981c6548b299e36f1b459f3659fbd5069",
-      "bytes": 2553,
+      "sha256": "99d22a2b9fc0efddf033ddc9863df6eafc0e2abb97deff20a96734b74a3ed67f",
+      "bytes": 3184,
       "tracked_at_scan": true,
       "units_scanned": 77,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -6746,11 +6766,11 @@
     },
     {
       "path": "profile/B/B-258-Batna（anteny24.pl）-波兰.md",
-      "sha256": "455dc2491e274bc39fcc3e0d381ca1cadda4093192f8374da41f2ec73e3895f4",
-      "bytes": 1986,
+      "sha256": "67544bc22437cc231cd81cb70b8b45d4443a853603db8481c10b0657cf787ee8",
+      "bytes": 2473,
       "tracked_at_scan": true,
       "units_scanned": 68,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7276,11 +7296,11 @@
     },
     {
       "path": "profile/B/B-340-Controller Service and Sales-美国.md",
-      "sha256": "1336699ed45b646d936a0c797d4f6fdf22c628fa1c11772fe13f40afdce0609d",
-      "bytes": 2230,
+      "sha256": "1ce2fa63a6057ea541e9e6a1eded2c102bde870c678cb12981b165ec8e7f3bb0",
+      "bytes": 2635,
       "tracked_at_scan": true,
       "units_scanned": 68,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7306,11 +7326,11 @@
     },
     {
       "path": "profile/B/B-344-DoubleRadius, Inc-美国.md",
-      "sha256": "217ac7c871a0fa20fccb1f22e1d0823031c3dc858486efde9a08088efa9b6c9a",
-      "bytes": 2005,
+      "sha256": "e4a72aaf0f5b523d715878fcc2e2e44d9fb1bfc367ccc504e49c889f0c15cbf9",
+      "bytes": 2576,
       "tracked_at_scan": true,
       "units_scanned": 68,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7376,11 +7396,11 @@
     },
     {
       "path": "profile/B/B-356-Joshua Moore - Archous Networks-美国.md",
-      "sha256": "5171d64c762274042d57a2b2f3250d8754b663d0995c4c10620663d8355d531f",
-      "bytes": 2675,
+      "sha256": "b513219ae59afe0eae8e02332c784ebf1563a999cccfc3897b3e3b5696b24c4b",
+      "bytes": 3277,
       "tracked_at_scan": true,
       "units_scanned": 78,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7486,11 +7506,11 @@
     },
     {
       "path": "profile/B/B-378-Rick Frey - Rick Frey Consulting-美国.md",
-      "sha256": "cdff29032011ac0f504bc3cc789d32401083bc68a48d385909f2bf9c7bf00a24",
-      "bytes": 2643,
+      "sha256": "45176272893eb4f57adf6cc3227a854b14044cf0bcbc9171f37d487292ec9c87",
+      "bytes": 3077,
       "tracked_at_scan": true,
       "units_scanned": 79,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7586,11 +7606,11 @@
     },
     {
       "path": "profile/B/B-401-Barry Higgins - Allness-英国.md",
-      "sha256": "1a493261421253f61d7cc7f3ac9431ca364be813b9bd114e346a2e0cdc312616",
-      "bytes": 2232,
+      "sha256": "65d1bc65ce9e314e9392f54a43fb9a5420699699d9ec391d2069fc53f35b6eac",
+      "bytes": 2808,
       "tracked_at_scan": true,
       "units_scanned": 69,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7796,11 +7816,11 @@
     },
     {
       "path": "profile/B/B-442-Michiel Visser - Connection Services-荷兰.md",
-      "sha256": "3414ddedc78a336443d5eb5455fe5d197d4f83732686d1b6217122f8653b9521",
-      "bytes": 2433,
+      "sha256": "0b5a6a68883ce41da0a682d6f6b7d23abc226c680c823e228fd2f3a63e54c63a",
+      "bytes": 2932,
       "tracked_at_scan": true,
       "units_scanned": 78,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -7966,11 +7986,11 @@
     },
     {
       "path": "profile/B/B-463-Darío Noguera - Lanpixel-西班牙.md",
-      "sha256": "664e09a002a34f317aa8306ddeb1a8453393d5333782b6163617d472aaecb0a4",
-      "bytes": 2413,
+      "sha256": "16eba76ef838f8e48da6c81447c220a5d564c2bc98c4396031c593316cfb3e36",
+      "bytes": 2959,
       "tracked_at_scan": true,
       "units_scanned": 75,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -8196,11 +8216,11 @@
     },
     {
       "path": "profile/B/B-510-Janzen Group-德国.md",
-      "sha256": "5fb7483b70e58c522c7dc9406e7f0dfe7a62a61ebbdeffafaacfa6ca54362d4f",
-      "bytes": 2252,
+      "sha256": "78c2fd900200042a784239ccbe8788430083528116d4ef04ad6cc45cbe45da77",
+      "bytes": 2869,
       "tracked_at_scan": true,
       "units_scanned": 68,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -8221,6 +8241,236 @@
       "tracked_at_scan": true,
       "units_scanned": 68,
       "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-513-Controsys Control Engineering Ltd-匈牙利.md",
+      "sha256": "44890b839cd5a35791c94b808e45281dfafc63d953494e9b1204dcee31886b24",
+      "bytes": 2915,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+      "sha256": "e7e27943e4a96f1a6135e553bbb6662c115620292ff29e425efe07d8019b6563",
+      "bytes": 2870,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-515-ATEG Automation GmbH-德国.md",
+      "sha256": "c540a3dae85a7d90da1985ab6289b09c284bbbdbfac8aa4ce1bb7eedf91540af",
+      "bytes": 2962,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-516-Fiber24-德国.md",
+      "sha256": "c2018e19e90b883cc342bfc91a30b8d7cfdb85787d4162c21e90fd79afc88697",
+      "bytes": 2659,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-517-Fiberworks AS-挪威.md",
+      "sha256": "78ba77d82b63ce40860db3eb46755d8db49afc9cef78778a05af352b080c8c19",
+      "bytes": 2645,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-518-SATEL NORGE AS-挪威.md",
+      "sha256": "b7c99697f21caed972232860614c668f53a2adedf700894994040c23455a1306",
+      "bytes": 2650,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-519-Proficomms-捷克.md",
+      "sha256": "2333ef755a4f16acc97c50cd952e551092a16af02914e3a0e72449425734f138",
+      "bytes": 2724,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+      "sha256": "8d6d4c9e05f1ff48c1a39de142aa1aa461363161979104b1bf254ce50f4e46a0",
+      "bytes": 2735,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-521-Tesla Networks-比利时.md",
+      "sha256": "6481a1514227022e3d6f706907dfb11ff29bbae325de99571cdbbe4fb3a607a6",
+      "bytes": 2681,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-522-APLUS Systeme Automation-法国.md",
+      "sha256": "49a93fac63662cd2afa728b8883db1e6c6e4247bd60ce3545ecc47163d8ed2fc",
+      "bytes": 2669,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-523-FGET International-法国.md",
+      "sha256": "30c4f20ae524f5183abf1d77b501084ba0aa5e71256a2a8745a270a7221b0f49",
+      "bytes": 3057,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-524-HD Technology-法国.md",
+      "sha256": "05db433b9b5c664b14cd0a4fd6f2452165560e23c72b151e281cb68b1d6d835a",
+      "bytes": 2841,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-525-Atel Electronics-波兰.md",
+      "sha256": "6b711a8748477e1012b8e007b62609673ef21dd058fb12649865a7ef5fa1c2ff",
+      "bytes": 2643,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-526-Cyberbajt-波兰.md",
+      "sha256": "70746d7e37d5ff1ddf7c7b1194ab82e12294ecb99271aefa86a8402f0c785075",
+      "bytes": 2926,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+      "sha256": "b0778c3b17b3c35c6b048c27892a285d9c830ae490a7098217ddfba378902bcf",
+      "bytes": 2939,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-528-HighTech Nordic AB-瑞典.md",
+      "sha256": "c406181e3314bc08781231b6f9d9b69a9492155fcb87deafaa9ad98a51164ae7",
+      "bytes": 2827,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-529-MPI Technologies AG-瑞士.md",
+      "sha256": "d432a71b07a2fe1202ed8b34aebb168b9d38936c6f8d61c13c0ff2cd74212957",
+      "bytes": 2625,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-530-Data Monitor-芬兰.md",
+      "sha256": "7072762d30c2fe0db28741e6d005ebbb0f90925da90fac6fb75c12975897d557",
+      "bytes": 2698,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
+      "sha256": "6c7ae1ae2006079228f76d4e97204f24f0962cd8cea84046746b972d69754d5f",
+      "bytes": 2915,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+      "sha256": "5c81c963a79f808606703adfcbb5bb110e89ed710215b26889821e65768670bf",
+      "bytes": 3157,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-533-Millbeck-英国.md",
+      "sha256": "dee75f5c447e6d8d53e0852bfb73906f2908f63b5cbdef4a576dd8ac63a931a2",
+      "bytes": 2665,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-534-Lextron B.V-荷兰.md",
+      "sha256": "b7a3dfdc78eb9e152faad85a915f48f259ce3d38c9c8ef3c6aa98b331986027d",
+      "bytes": 2625,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-535-Leadernet Sistemas Telec-西班牙.md",
+      "sha256": "dd71741e6178826bcb86d2fe793faee26de0f2ee3386c31cae0f3b6f4bf05cde",
+      "bytes": 2878,
+      "tracked_at_scan": false,
+      "units_scanned": 68,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -9736,11 +9986,11 @@
     },
     {
       "path": "profile/C/C-152-Danbit-丹麦.md",
-      "sha256": "9a28e2684a7fc79a7073b72356f0c355c4eb9845beba75895072b87992a9ebbe",
-      "bytes": 2864,
+      "sha256": "f500cb4e5c819181140a484ef6a20770f2891f1edeff507ab9cc5b55888bdd73",
+      "bytes": 3228,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -9895,16 +10145,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-168-Controsys Control Engineering Ltd-匈牙利.md",
-      "sha256": "1066361653b2385c55d435ac2d8623dc07b2db9e4c4f3744742135c24fb282e1",
-      "bytes": 3147,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-169-Aspect-北马其顿.md",
       "sha256": "42398beafff2bd3ec71e6482e146365b9fd30c1f20c0f5253b3019ba305247a8",
       "bytes": 2739,
@@ -9945,16 +10185,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-173-Alpha Motion S.A-希腊.md",
-      "sha256": "a57596ab4468c3da5fb17373939feb8ee86bbca00b80fe8af0cfb57d385d2f5b",
-      "bytes": 3118,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-174-NETAP-希腊.md",
       "sha256": "96c423841f957fcf9d7f19a1bfe869a0ba86f4412c73a80a17e4892fca1d60ed",
       "bytes": 2615,
@@ -9975,29 +10205,9 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-176-ATEG Automation GmbH-德国.md",
-      "sha256": "89ea1c72fc66133255a06741d1b54c7a742747f37a202768d42a5e7dd577a71b",
-      "bytes": 3150,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-177-Acceed GmbH-德国.md",
       "sha256": "008f4be336b62881737c6ee12e266b8b35246559456fad3937f117f123b191d0",
       "bytes": 2658,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-178-Fiber24-德国.md",
-      "sha256": "8ef1917f5c42424c0e7ad0757b7a40b9aedb074de274849f6123a225f969b063",
-      "bytes": 2923,
       "tracked_at_scan": true,
       "units_scanned": 72,
       "unique_url_count": 0,
@@ -10046,11 +10256,11 @@
     },
     {
       "path": "profile/C/C-183-DIGIMAX S.r.l-意大利.md",
-      "sha256": "165e123d14b27a048a9d61889f0d6fcc681e7bceeba61ff702313ceba3ed1a5f",
-      "bytes": 2887,
+      "sha256": "3c35d270a448dce6dc59557a3483c4a310f7b23c0354c3d98a994bb3450aed79",
+      "bytes": 3373,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10125,16 +10335,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-191-Fiberworks AS-挪威.md",
-      "sha256": "937c98a0f4783d9f01d6fd014ca9072f100bd11a2f451ae3068448d6b9eacf3d",
-      "bytes": 2892,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-192-Hatteland Technology-挪威.md",
       "sha256": "3870729240f263a0f00e09be772e58293fd380ea6272ab80b5df2b2c3a45e9e2",
       "bytes": 3023,
@@ -10155,22 +10355,12 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-194-SATEL NORGE AS-挪威.md",
-      "sha256": "af06d3586594d8f73fa87334452b7f696d3a8892df68c26d406fda88c8918d60",
-      "bytes": 2895,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-195-Alternetivo s.r.o-捷克.md",
-      "sha256": "efa4db2b33844aee825ffb5cc726706474ff6f722cb0c005d064bf93f1b3ee3d",
-      "bytes": 2907,
+      "sha256": "fbf5ceceaddf4d2acad1a42f2522485aeec91badcc68e3dfee0cd91df3c7e96b",
+      "bytes": 3365,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10185,29 +10375,9 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-197-Proficomms-捷克.md",
-      "sha256": "d8e4a3b104b4081b57d38599c218f29f6d5764edf1f8ead0eadc8d0b9b26c93b",
-      "bytes": 2947,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-198-SECOMP-捷克.md",
       "sha256": "5a0ccb35e2c3d3d57f2b5f2512a9b9c2c481b1f4628d5f76a82db2b4c428f070",
       "bytes": 2570,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-199-TECON s.r.o-捷克.md",
-      "sha256": "80e8cad4b2b27a97f4b1c8358cf1bcf40f971c1259cfea923ceb68e6fa1b13a8",
-      "bytes": 2882,
       "tracked_at_scan": true,
       "units_scanned": 72,
       "unique_url_count": 0,
@@ -10255,26 +10425,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-204-Tesla Networks-比利时.md",
-      "sha256": "a27839b13b535bd7e34bf203b8dcd25129cc1c00ad70e7075aae1a654876623d",
-      "bytes": 2911,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-205-APLUS Systeme Automation-法国.md",
-      "sha256": "ac771519961cdc1e1f90851adb2bbf49f9adee5226a36942986f86197d4271c1",
-      "bytes": 2915,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-206-Audin-法国.md",
       "sha256": "31530941299d66a0a342e044ccf7b8515ef42071954208f8ad88d36dd23f2f22",
       "bytes": 2857,
@@ -10296,31 +10446,11 @@
     },
     {
       "path": "profile/C/C-208-Equipements Scientifiques-法国.md",
-      "sha256": "f935ab3d3e5a27722e7811d60ed08b77ec9e8892642464f8ef1e87583bd3b222",
-      "bytes": 2907,
+      "sha256": "3dfdce063dc5ffcff68b835d1118fbe01c6927183be03bc28552dc4f6e63c7ee",
+      "bytes": 3306,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-209-FGET International-法国.md",
-      "sha256": "afe63a846dc8e4e7efe1e614f28460a0242986131796b8256956469031a9472e",
-      "bytes": 3145,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-210-HD Technology-法国.md",
-      "sha256": "3c73cff5448646a94bd86805c3dad22092287a7968413d70bddb7fa119f90969",
-      "bytes": 3101,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10336,11 +10466,11 @@
     },
     {
       "path": "profile/C/C-212-Phoebe IDF-法国.md",
-      "sha256": "46565bc32737de3248fa1658c6992df7eed3106288135b817551d58bdeca5052",
-      "bytes": 2912,
+      "sha256": "630fbda0be007329012504aca3940126b6e0a8e6349e2fd046e4ab4ac8eb506e",
+      "bytes": 3220,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10356,31 +10486,11 @@
     },
     {
       "path": "profile/C/C-214-Sphinx France-法国.md",
-      "sha256": "a77b69e7c873691b97c1ddabc5939613905ec342848148c4851ccb91514cf885",
-      "bytes": 3091,
+      "sha256": "1e5f56f4c3abb41e65abbf5fa0a5826f1f4f77d0a2758921b101bf6a77035fb1",
+      "bytes": 3587,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-215-Atel Electronics-波兰.md",
-      "sha256": "f10a3445adf7c6a2e63eb9f97296b5618519be19d436306be5f9eaedfbdd8042",
-      "bytes": 2901,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-216-Cyberbajt-波兰.md",
-      "sha256": "0c68fa2f8b1b568f702fb4bb7176e663d730921dd9cab92664b836c61cd6f6a4",
-      "bytes": 2872,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10396,11 +10506,11 @@
     },
     {
       "path": "profile/C/C-218-Maritex Leszek Łosin Sp.j-波兰.md",
-      "sha256": "e4c56023efd524123c22ce060e5e7f7f25ad5fc6523fef7ee0bac43cc5b4b09d",
-      "bytes": 2921,
+      "sha256": "f137e0c50c925fb168b04f126b71bfd06646e20b7835a5e36ac6a331af7fad7b",
+      "bytes": 3367,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10446,11 +10556,11 @@
     },
     {
       "path": "profile/C/C-223-DataLink Communications-爱尔兰-英国.md",
-      "sha256": "9a05430492523d0022bfc61fd44bf10a2204406376bf1ed13990a0ebb91ca62b",
-      "bytes": 3067,
+      "sha256": "b7271298f9b4c5d31d95266b731ced66fecddb3bd0e33991053d85f7684cd272",
+      "bytes": 3413,
       "tracked_at_scan": true,
       "units_scanned": 71,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -10468,36 +10578,6 @@
       "path": "profile/C/C-225-Dialect Skövde（evolvit.se）-瑞典.md",
       "sha256": "d94aebffbff5c8e3711b4933e64b70e5619b37bd4d8cb2b1ac4ac80973005ac0",
       "bytes": 2717,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-226-EG Electronics AB-瑞典.md",
-      "sha256": "cee79e1a41ffe8911b9a9983dd03f88731a7a24e9b603e1afb7b19e4239128c7",
-      "bytes": 3159,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-227-HighTech Nordic AB-瑞典.md",
-      "sha256": "402873698d95877a2bbe5a8681e92fed00b803f97d783b61c2aa1730d9779f34",
-      "bytes": 2896,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-228-MPI Technologies AG-瑞士.md",
-      "sha256": "9c7ba425924da16d33be21bca6116d1a2eccc46d24a22e7e9b8c816a13a0aad5",
-      "bytes": 2899,
       "tracked_at_scan": true,
       "units_scanned": 72,
       "unique_url_count": 0,
@@ -10935,16 +11015,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-272-Data Monitor-芬兰.md",
-      "sha256": "f7a66af5e0d03bb52e70aab5b25e7d341085e3017174ebb93c8f72c91569be6b",
-      "bytes": 2893,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-273-Blue Helix-英国.md",
       "sha256": "4c1b3a83197efabd73c697176c0aba88df20c27145081a6e221761fea72d8fb4",
       "bytes": 2595,
@@ -11006,11 +11076,11 @@
     },
     {
       "path": "profile/C/C-279-Digital Controls-英国.md",
-      "sha256": "920fdd0d8eb71d4676f71753af4625f6f5f1f1e018ede306fce113eafee6da6f",
-      "bytes": 3160,
+      "sha256": "e042bd9a20b8f44193bb5662a67bc21deaf30dd8b18e95f575d954de68e96146",
+      "bytes": 3589,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -11035,39 +11105,9 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-282-IVORY EGG (UK) LIMITED-英国.md",
-      "sha256": "a0a77a84b64aa4aea0efa76ff1d1776569fd046c18c4c8a007e32ef3400d9617",
-      "bytes": 3154,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-283-LC Automation Ltd-英国.md",
       "sha256": "f8424a1d7e99b4c1ea98b48a440dbbaee56b106c1f78ad8f0ae2229d55086842",
       "bytes": 2879,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-284-MAC Solutions UK Ltd-英国.md",
-      "sha256": "dffa85a48d6210cb0fca03fbda67a6691a1d9c3833e6902cfda347e9c8cbffda",
-      "bytes": 3157,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-285-Millbeck-英国.md",
-      "sha256": "06decbd4fda6ba0f216c8f2e9ede55d8bf796532a77f294c7cb2ddd9c88381cf",
-      "bytes": 2888,
       "tracked_at_scan": true,
       "units_scanned": 72,
       "unique_url_count": 0,
@@ -11125,16 +11165,6 @@
       "errors": []
     },
     {
-      "path": "profile/C/C-291-Lextron B.V-荷兰.md",
-      "sha256": "a3e6db6e0c83f91b4c8a83cbcdf58074a27ef5ceb3da6ec6a31ceb69a7d1f178",
-      "bytes": 2884,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
       "path": "profile/C/C-292-Koning & Hartman B.V-荷兰-比利时.md",
       "sha256": "eb311366ea2f54af185ee32cf0c566fa71dcb98c108dbacbbe8700c8090954e1",
       "bytes": 2832,
@@ -11176,11 +11206,11 @@
     },
     {
       "path": "profile/C/C-296-Ekanet-西班牙.md",
-      "sha256": "5abb5045ec68f7346d8ae1cebbd92e797aa9e3791837e339cd9bb92998958dc1",
-      "bytes": 2898,
+      "sha256": "bab769e88ce5a25b716fd764f12c670106cd11a2abe3e835cb72b5e2145c9cc5",
+      "bytes": 3215,
       "tracked_at_scan": true,
       "units_scanned": 72,
-      "unique_url_count": 0,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -11188,16 +11218,6 @@
       "path": "profile/C/C-297-Garma Electronica-西班牙.md",
       "sha256": "97acc18e2e990ace189b3d5d97253fd1ce1d884734520e822af03883b0e63d25",
       "bytes": 2830,
-      "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
-      "inspection": {},
-      "errors": []
-    },
-    {
-      "path": "profile/C/C-298-Leadernet Sistemas Telec-西班牙.md",
-      "sha256": "6b14c7feeef5a5a79997a905b6d3104defdbacaa045d4659c978d55fffa5a277",
-      "bytes": 3147,
       "tracked_at_scan": true,
       "units_scanned": 72,
       "unique_url_count": 0,
@@ -11406,10 +11426,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "c060f012ec60a0ac3fe5663e8cf2c22c78c53d02924513812514503ac860f7e4",
-      "bytes": 19003,
+      "sha256": "936602c198f6031d151cf66cf45a28009da1ff68a3106470f40995da3d2381f2",
+      "bytes": 19273,
       "tracked_at_scan": true,
-      "units_scanned": 419,
+      "units_scanned": 424,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -11436,10 +11456,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "87947839563c6a1c04443f08a5465ee369d07f1a7e864a35dce417c769fe6913",
-      "bytes": 39549,
+      "sha256": "b73f9205e236b68bd5f72844d7f16f0392cbaa528f8107a74fe8096d72954011",
+      "bytes": 47011,
       "tracked_at_scan": true,
-      "units_scanned": 623,
+      "units_scanned": 746,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []
@@ -11466,11 +11486,11 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "b9a0f1403a5601358825155ee3815f6f44c3fc6f19e5a0b1251b3ef8b74b6954",
-      "bytes": 315344,
+      "sha256": "84f7d22adcc3bd3a3c389cf6d7b542207a7c6b20d1c18d30d572ced5b03c78d5",
+      "bytes": 307531,
       "tracked_at_scan": true,
-      "units_scanned": 21166,
-      "unique_url_count": 800,
+      "units_scanned": 21074,
+      "unique_url_count": 845,
       "inspection": {
         "zip_members": 12,
         "embedded_media": 0,
@@ -11484,12 +11504,12 @@
           {
             "name": "B级-慢慢跟",
             "state": "visible",
-            "nonempty_cells": 6181
+            "nonempty_cells": 6558
           },
           {
             "name": "C级-难啃",
             "state": "visible",
-            "nonempty_cells": 6336
+            "nonempty_cells": 5867
           },
           {
             "name": "说明-评级口径与打法",
@@ -11502,11 +11522,11 @@
     },
     {
       "path": "客户名单_反向信号_2026-09.csv",
-      "sha256": "60143c183c5cf79c0cc1dac487909875d3f41c97ecb30e140e3f65f7fba42607",
-      "bytes": 744680,
+      "sha256": "679154240c3cdb8529173617959b26a8bba45ca0ad835b37a074a658897c81cc",
+      "bytes": 761115,
       "tracked_at_scan": true,
-      "units_scanned": 17498,
-      "unique_url_count": 800,
+      "units_scanned": 17475,
+      "unique_url_count": 845,
       "inspection": {
         "headers": [
           "公司名",
@@ -11547,10 +11567,10 @@
     },
     {
       "path": "死路与死链备案_2026-09.md",
-      "sha256": "2e93a3bf89ff294e220fd4d20621892969dfb4e570ff37f8d21c2cf85f04317a",
-      "bytes": 27095,
+      "sha256": "2be2c04fb40e2fd582d16f1b27a154bd715e444c87c27868995abf42c0fb1b93",
+      "bytes": 29159,
       "tracked_at_scan": true,
-      "units_scanned": 298,
+      "units_scanned": 309,
       "unique_url_count": 2,
       "inspection": {},
       "errors": []

@@ -708,9 +708,46 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-45",
     "legacy_source_label": "2026-09-22",
     "site_lead": "westercom.eu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.westercom.eu/cs/kontakt"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-044",
+        "name": "Westercom",
+        "country": "捷克/斯洛伐克",
+        "city": "",
+        "email": "eshop@westercom.eu",
+        "other_emails": "",
+        "site": "westercom.eu",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】官网 /cs/kontakt 正文可见：eshop@westercom.eu。仅补入口/联系方式与备注，评级与档案编号不变（前 49 位内容可编辑、位置冻结）。 证据：[1](https://www.westercom.eu/cs/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-044",
+        "quote": "westercom.eu /cs/kontakt：eshop@westercom.eu；Na okraji 42, 162 00 Praha 6；IČO 03591689；站内电话 +420 607 550 014（与原字段 +420 603 509 790 不一致，均保留）",
+        "sources": [
+          [
+            1,
+            "https://www.westercom.eu/cs/kontakt"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-044 原入口“+420 603 509 790 / eshop@westercom.eu（官网”、原备注“已验证：站内还在卖 B+B SmartWorx 全线 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用；【”"
+        ],
+        "fields_supported": [
+          "入口/联系方式（补邮箱）",
+          "备注（补录）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-044",
+        "decision": "email-backfill-A",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[42]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "77718d51eee6828c1d8fbcc805a8cced0decee6c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -740,9 +777,46 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-47",
     "legacy_source_label": "2026-09-22",
     "site_lead": "airicom.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://airicom.com/nous-contacter/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "A-046",
+        "name": "AiRiCOM",
+        "country": "法国",
+        "city": "",
+        "email": "marketing@airicom.fr",
+        "other_emails": "",
+        "site": "airicom.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】官网 404 页正文可见；搜索索引所示 commercial@/support@airicom.fr 未复核，暂不写入：marketing@airicom.fr。仅补入口/联系方式与备注，评级与档案编号不变（前 49 位内容可编辑、位置冻结）。 证据：[1](https://airicom.com/nous-contacter/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-046",
+        "quote": "airicom.com 404 页正文：Vous pouvez nous contacter via notre site Internet, par e-mail — 链接指向 marketing@airicom.fr；官网产品线为 Milesight / HMS(Anybus, Ewon, Intesis) / Watteco / Seneca / Advantech",
+        "sources": [
+          [
+            1,
+            "https://airicom.com/nous-contacter/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：A-046 原入口“marketing@airicom.fr（官网 404 页正文注明可邮件联系）；”、原备注“Boufféré + 巴黎两处办公室；【2026-09-22 补】经 Moxa 渠道名录确认同时为 Moxa 法国渠道伙”"
+        ],
+        "fields_supported": [
+          "入口/联系方式（补邮箱）",
+          "备注（补录）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-046",
+        "decision": "email-backfill-A",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[43]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "77718d51eee6828c1d8fbcc805a8cced0decee6c",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -1964,9 +2038,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-95",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "danbit.dk",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://danbit.dk/da/kontakt-os/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-152",
+        "name": "Danbit",
+        "country": "丹麦",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "danbit.dk",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网联系页邮箱为图片；本轮未获可复制邮箱；未发送邮件、未提交表单。 证据：[1](https://danbit.dk/da/kontakt-os/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-152",
+        "quote": "danbit.dk 联系页邮箱为图片渲染（无法复制）；/da/kontakt 与 /da/handelsbetingelser 均返回 404；可见电话 +45 56 66 20 20",
+        "sources": [
+          [
+            1,
+            "https://danbit.dk/da/kontakt-os/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-152 原入口“官网”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销）与「自有 + Moxa EDS-205」，尚无人工核实。建”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-152",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[23]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -3247,16 +3357,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-168",
+    "code": "B-513",
     "name": "Controsys Control Engineering Ltd.",
     "country": "匈牙利",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-174",
     "legacy_source_label": "2026-09-22",
     "site_lead": "controsys.hu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.controsys.hu/kapcsolat/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-513",
+        "name": "Controsys Control Engineering Ltd.",
+        "country": "匈牙利",
+        "city": "Budapest",
+        "email": "controsys@controsys.hu",
+        "other_emails": "",
+        "site": "controsys.hu",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kapcsolat/ 正文可见：controsys@controsys.hu。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-168 → 现 B-513）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.controsys.hu/kapcsolat/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-513",
+        "quote": "controsys.hu /kapcsolat/：controsys@controsys.hu（联系表单同页）；Budapest 控制工程/HMS·N-Tron 渠道",
+        "sources": [
+          [
+            1,
+            "https://www.controsys.hu/kapcsolat/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-168 原入口“controsys@controsys.hu（官网 kapcsolat 正文）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-168 → 回升后 B-513（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-513",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-168",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[0]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "a613a70d3a940fb1f529a51afe8d9fe8095f6178",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -3767,16 +3917,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-173",
+    "code": "B-514",
     "name": "Alpha Motion S.A.",
     "country": "希腊",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-208",
     "legacy_source_label": "2026-09-22",
     "site_lead": "alpha-motion.gr",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://alpha-motion.gr/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-514",
+        "name": "Alpha Motion S.A.",
+        "country": "希腊",
+        "city": "Pikermi (Attica)",
+        "email": "info@alpha-motion.gr",
+        "other_emails": "",
+        "site": "alpha-motion.gr",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网全站页脚可见：info@alpha-motion.gr。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-173 → 现 B-514）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://alpha-motion.gr/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-514",
+        "quote": "alpha-motion.gr 全站页脚：Λεωφ. Μαραθώνος 72, 19009 Πικέρμι；+30 210 82 27 470 / 82 27 472；info@alpha-motion.gr",
+        "sources": [
+          [
+            1,
+            "https://alpha-motion.gr/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-173 原入口“info@alpha-motion.gr；+30 210 82 27 470（官”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-173 → 回升后 B-514（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-514",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-173",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[1]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "a613a70d3a940fb1f529a51afe8d9fe8095f6178",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -4134,16 +4324,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-176",
+    "code": "B-515",
     "name": "ATEG Automation GmbH",
     "country": "德国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-231",
     "legacy_source_label": "2026-09-22",
     "site_lead": "ateg.de",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.ateg.de/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-515",
+        "name": "ATEG Automation GmbH",
+        "country": "德国",
+        "city": "Remscheid",
+        "email": "info@ateg.de",
+        "other_emails": "vertrieb@ateg.de、support@ateg.de",
+        "site": "ateg.de",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@ateg.de。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-176 → 现 B-515）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.ateg.de/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-515",
+        "quote": "ateg.de /kontakt/：info@ateg.de（询价/商务）、vertrieb@ateg.de、support@ateg.de；Remscheid",
+        "sources": [
+          [
+            1,
+            "https://www.ateg.de/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-176 原入口“info@ateg.de（销售 vertrieb@ / 支持 support@ ”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-176 → 回升后 B-515（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-515",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-176",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[2]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eedf4ded27ead2166ef47f987a1eb676f2dce563",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -4179,16 +4409,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-178",
+    "code": "B-516",
     "name": "Fiber24",
     "country": "德国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-234",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "shop.fiber24.net",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://shop.fiber24.net/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-516",
+        "name": "Fiber24",
+        "country": "德国",
+        "city": "",
+        "email": "shop@fiber24.net",
+        "other_emails": "",
+        "site": "shop.fiber24.net",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 Shop 正文可见：shop@fiber24.net。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-178 → 现 B-516）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://shop.fiber24.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-516",
+        "quote": "shop.fiber24.net 正文：shop@fiber24.net；德国光通信/网络网店（PLANET IGS-5225 全系）",
+        "sources": [
+          [
+            1,
+            "https://shop.fiber24.net/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-178 原入口“shop@fiber24.net（Shop 正文）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（光通信/网络网店）与「PLANET IGS-5225 全系」，尚无人工核”",
+          "编号变更：原 C-178 → 回升后 B-516（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-516",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-178",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[3]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -4445,9 +4715,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-251",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "digimax.it",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.digimax.it/it/contattaci"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-183",
+        "name": "DIGIMAX S.r.l.",
+        "country": "意大利",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "digimax.it",
+        "level": "official-search-only",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网正文未渲染出邮箱；搜索索引候选 digimax@digimax.it（待核）；未发送邮件、未提交表单。 证据：[1](https://www.digimax.it/it/contattaci)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-183",
+        "quote": "digimax.it /it/contattaci 与 /en/contact-us 正文由脚本渲染，抓取仅见标题；货架含 ORing/Advantech 工业交换机与 ATEX/轨交认证型号；搜索索引显示官网页脚 digimax@digimax.it（未在抓取正文复核）",
+        "sources": [
+          [
+            1,
+            "https://www.digimax.it/it/contattaci"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-183 原入口“+39 0444 574066”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-183",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[24]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -4886,16 +5192,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-191",
+    "code": "B-517",
     "name": "Fiberworks AS",
     "country": "挪威",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-277",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "fiberworks.no",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.fiberworks.no/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-517",
+        "name": "Fiberworks AS",
+        "country": "挪威",
+        "city": "",
+        "email": "salg@fiberworks.no",
+        "other_emails": "",
+        "site": "fiberworks.no",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：salg@fiberworks.no。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-191 → 现 B-517）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.fiberworks.no/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517",
+        "quote": "fiberworks.no /kontakt/：salg@fiberworks.no；+47 23 03 53 30；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.fiberworks.no/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-191 原入口“salg@fiberworks.no；+47 23 03 53 30”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-191 → 回升后 B-517（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-191",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[4]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -4931,16 +5277,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-194",
+    "code": "B-518",
     "name": "SATEL NORGE AS",
     "country": "挪威",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-280",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "satel.no",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.satel.no/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-518",
+        "name": "SATEL NORGE AS",
+        "country": "挪威",
+        "city": "",
+        "email": "produktinfo@satel.no",
+        "other_emails": "",
+        "site": "satel.no",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：produktinfo@satel.no。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-194 → 现 B-518）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.satel.no/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-518",
+        "quote": "satel.no /kontakt/：produktinfo@satel.no；+47 69 27 70 40；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.satel.no/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-194 原入口“produktinfo@satel.no；+47 69 27 70 40”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-194 → 回升后 B-518（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-518",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-194",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[5]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5013,9 +5399,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-285",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "alternetivo.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.alternetivo.cz/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-195",
+        "name": "Alternetivo s.r.o.",
+        "country": "捷克",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "alternetivo.cz",
+        "level": "official-search-only",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网未见邮箱；第三方名录候选 info@alternetivo.cz（待核）；未发送邮件、未提交表单。 证据：[1](https://www.alternetivo.cz/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-195",
+        "quote": "alternetivo.cz /kontakt/ 正文仅表单与电话 +420 221 771 881，无邮箱；第三方名录（firmy.cz / firmablizko.cz）列 info@alternetivo.cz，Softing 渠道页列 matej@alternetivo.cz（均第三方，待核）",
+        "sources": [
+          [
+            1,
+            "https://www.alternetivo.cz/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-195 原入口“+420 221 771 881”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-195",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[25]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5141,16 +5563,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-197",
+    "code": "B-519",
     "name": "Proficomms",
     "country": "捷克",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-294",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "proficomms.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.proficomms.cz/kontakt"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-519",
+        "name": "Proficomms",
+        "country": "捷克",
+        "city": "",
+        "email": "info@proficomms.cz",
+        "other_emails": "",
+        "site": "proficomms.cz",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 kontakt 正文可见：info@proficomms.cz。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-197 → 现 B-519）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.proficomms.cz/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-519",
+        "quote": "proficomms.cz /kontakt：info@proficomms.cz；ComNet/Microsens/AMG/PLANET/Cisco IE/TRENDnet 专业分销",
+        "sources": [
+          [
+            1,
+            "https://www.proficomms.cz/kontakt"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-197 原入口“info@proficomms.cz（官网 kontakt）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（专业分销）与「ComNet/Microsens/AMG/PLANET/C”",
+          "编号变更：原 C-197 → 回升后 B-519（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-519",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-197",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[6]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5171,16 +5633,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-199",
+    "code": "B-520",
     "name": "TECON s.r.o.",
     "country": "捷克",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-296",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "tecon.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://tecon.cz/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-520",
+        "name": "TECON s.r.o.",
+        "country": "捷克",
+        "city": "",
+        "email": "info@tecon.cz",
+        "other_emails": "objednavky@tecon.cz、faktury@tecon.cz、support@tecon.cz",
+        "site": "tecon.cz",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@tecon.cz。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-199 → 现 B-520）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://tecon.cz/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520",
+        "quote": "tecon.cz /kontakt/：poptávky/obchodní dotazy info@tecon.cz；objednavky@tecon.cz；faktury@tecon.cz；technická podpora support@tecon.cz；tel 499 429 100 / 499 429 117；IČO 60932091",
+        "sources": [
+          [
+            1,
+            "https://tecon.cz/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-199 原入口“info@tecon.cz（订单 objednavky@ / 支持 suppor”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-199 → 回升后 B-520（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-199",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[7]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5514,7 +6016,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-318",
     "legacy_source_label": "2026-09-22",
     "site_lead": "smarteye.eu",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.smarteye.eu/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -5551,6 +6055,39 @@
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[14]",
         "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-226",
+        "name": "Jonathan De Graeve / Smarteye",
+        "country": "比利时",
+        "city": "Wilrijk (Antwerpen)",
+        "email": "sales@smarteye.eu",
+        "other_emails": "support@smarteye.eu",
+        "site": "smarteye.eu",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网正文可见销售/支持邮箱与公司实体：sales@smarteye.eu / support@smarteye.eu。维持 B（群发可触达）；未发送邮件、未提交表单。 证据：[1](https://www.smarteye.eu/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-226",
+        "quote": "smarteye.eu：Sales +32 9 395 7000 / sales@smarteye.eu；Support BE +32 9 395 6000 / support@smarteye.eu；SmartEye BV, Terbekehofdreef 24, B-2610 Wilrijk, B.T.W. BE0542740338；自述 30,000+ Wi-Fi 接入点、700+ 场址、165,000+ 年用户；客户含 Artevelde、UGent、Howest、XIOR、Home Invest、Hasselt 等",
+        "sources": [
+          [
+            1,
+            "https://www.smarteye.eu/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-226 原入口“+32 9 395 6202 / jonathan@smarteye.eu”、原备注“★ 比利时**唯一**认证顾问（稀缺）；专做**骨干网设计**与 RouterOS 全栈运维诊断：BGP、MPLS、VP”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-226",
+        "decision": "email-enrich-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[44]",
+        "recorded_on": "2026-09-28"
       }
     ],
     "exact_batch_matches": [
@@ -5575,16 +6112,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-204",
+    "code": "B-521",
     "name": "Tesla Networks",
     "country": "比利时",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-320",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "teslanetworks.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.teslanetworks.com/contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-521",
+        "name": "Tesla Networks",
+        "country": "比利时",
+        "city": "",
+        "email": "Info@teslanetworks.com",
+        "other_emails": "",
+        "site": "teslanetworks.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：Info@teslanetworks.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-204 → 现 B-521）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.teslanetworks.com/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-521",
+        "quote": "teslanetworks.com /contact/：Info@teslanetworks.com；+32 (0)15 24 7007；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.teslanetworks.com/contact/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-204 原入口“Info@teslanetworks.com；+32 (0)15 24 7007”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-204 → 回升后 B-521（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-521",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-204",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[8]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5635,16 +6212,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-205",
+    "code": "B-522",
     "name": "APLUS Systeme Automation",
     "country": "法国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-324",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "aplus-sa.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.aplus-sa.com/contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-522",
+        "name": "APLUS Systeme Automation",
+        "country": "法国",
+        "city": "",
+        "email": "sales@aplus-sa.com",
+        "other_emails": "",
+        "site": "aplus-sa.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：sales@aplus-sa.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-205 → 现 B-522）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.aplus-sa.com/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-522",
+        "quote": "aplus-sa.com /contact/：sales@aplus-sa.com；+33 1 69884300；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.aplus-sa.com/contact/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-205 原入口“sales@aplus-sa.com；+33 1 69884300”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-205 → 回升后 B-522（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-522",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-205",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[9]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5749,24 +6366,100 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-331",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "es-france.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.es-france.com/content/23-contactez-nous"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-208",
+        "name": "Equipements Scientifiques",
+        "country": "法国",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "es-france.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网仅部门表单与总机，未列邮箱；未发送邮件、未提交表单。 证据：[1](https://www.es-france.com/content/23-contactez-nous)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-208",
+        "quote": "es-france.com /content/23-contactez-nous：按事业部（Composants/MSE/RF/Tests/Puissance/Bio/NI）分流表单 + 总机 01 47 95 99 00 / 01 47 95 99 81，页面未见邮箱",
+        "sources": [
+          [
+            1,
+            "https://www.es-france.com/content/23-contactez-nous"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-208 原入口“+33 1 47 95 99 81”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-208",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[26]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-209",
+    "code": "B-523",
     "name": "FGET International",
     "country": "法国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-332",
     "legacy_source_label": "2026-09-22",
     "site_lead": "fget.fr",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.fget.fr/index.php?controller=contact"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-523",
+        "name": "FGET International",
+        "country": "法国",
+        "city": "Genas (Lyon)",
+        "email": "base.fget@gmail.com",
+        "other_emails": "",
+        "site": "fget.fr",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见；免费邮箱（gmail），群发投递风险需自行评估：base.fget@gmail.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-209 → 现 B-523）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.fget.fr/index.php?controller=contact)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-523",
+        "quote": "fget.fr index.php?controller=contact：Envoyez-nous un e-mail : base.fget@gmail.com；站点为 PrestaShop（工业过程与控制、通信工业类目）",
+        "sources": [
+          [
+            1,
+            "https://www.fget.fr/index.php?controller=contact"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-209 原入口“base.fget@gmail.com（官网联系页；免费邮箱）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-209 → 回升后 B-523（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-523",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-209",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[10]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "a613a70d3a940fb1f529a51afe8d9fe8095f6178",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5787,16 +6480,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-210",
+    "code": "B-524",
     "name": "HD Technology",
     "country": "法国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-334",
     "legacy_source_label": "2026-09-22",
     "site_lead": "hdtechnology.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.hdtechnology.fr/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-524",
+        "name": "HD Technology",
+        "country": "法国",
+        "city": "Bron (Lyon)",
+        "email": "contact@hdtechnology.fr",
+        "other_emails": "",
+        "site": "hdtechnology.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：contact@hdtechnology.fr。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-210 → 现 B-524）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.hdtechnology.fr/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-524",
+        "quote": "hdtechnology.fr 联系页：contact@hdtechnology.fr；Bron (Lyon)；HMS/N-Tron·Red Lion 渠道",
+        "sources": [
+          [
+            1,
+            "https://www.hdtechnology.fr/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-210 原入口“contact@hdtechnology.fr（官网联系页）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-210 → 回升后 B-524（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-524",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-210",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[11]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "a613a70d3a940fb1f529a51afe8d9fe8095f6178",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5937,9 +6670,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-341",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "distribution.phoebe.fr",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://distribution.phoebe.fr/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-212",
+        "name": "Phoebe IDF",
+        "country": "法国",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "distribution.phoebe.fr",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。域名已无站点（OVH 占位）；未发送邮件、未提交表单。 证据：[1](https://distribution.phoebe.fr/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-212",
+        "quote": "distribution.phoebe.fr 返回 OVH「站点未安装」占位页（无内容）；原入口 +33 1 30 67 69 15 保留",
+        "sources": [
+          [
+            1,
+            "https://distribution.phoebe.fr/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-212 原入口“+33 1 30 67 69 15”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-212",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[27]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -5997,9 +6766,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-345",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "sphinxfrance.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://sphinxfrance.com/Contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-214",
+        "name": "Sphinx France",
+        "country": "法国",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "sphinxfrance.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网为表单+区域电话，未列邮箱；与 A-265 域名不同，保留不合并；未发送邮件、未提交表单。 证据：[1](https://sphinxfrance.com/Contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-214",
+        "quote": "sphinxfrance.com 联系入口需 JS（抓取到 /Contact/ 与 blog 联系页均为表单）；公开区域电话 02 51 09 26 60（西）、04 82 53 52 53（东）、01 83 64 64 06（北/法兰西岛）；货架含 Moxa 工业交换机/NIS2 路由等",
+        "sources": [
+          [
+            1,
+            "https://sphinxfrance.com/Contact/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-214 原入口“官网”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（专业分销）与「Moxa/Advantech/Perle/Terz”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-214",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[28]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6035,16 +6840,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-215",
+    "code": "B-525",
     "name": "Atel Electronics",
     "country": "波兰",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-348",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "atel.com.pl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://atel.com.pl/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-525",
+        "name": "Atel Electronics",
+        "country": "波兰",
+        "city": "",
+        "email": "cust@atel.com.pl",
+        "other_emails": "",
+        "site": "atel.com.pl",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：cust@atel.com.pl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-215 → 现 B-525）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://atel.com.pl/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-525",
+        "quote": "atel.com.pl /kontakt/：cust@atel.com.pl；+48 77 455 60 76；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://atel.com.pl/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-215 原入口“cust@atel.com.pl；+48 77 455 60 76”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-215 → 回升后 B-525（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-525",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-215",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[12]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6072,7 +6917,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-350",
     "legacy_source_label": "2026-09-22",
     "site_lead": "batna24.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.batna24.com/gb/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -6112,6 +6959,39 @@
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[15]",
         "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-258",
+        "name": "Batna（anteny24.pl）",
+        "country": "波兰",
+        "city": "",
+        "email": "lukasz@anteny24.pl",
+        "other_emails": "",
+        "site": "batna24.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网在线；货架含交换机品类与 MikroTik 线。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.batna24.com/gb/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-258",
+        "quote": "batna24.com（Batna24，20+ 年，网络设备贸易）：在售 Switches 品类与 MikroTik / Ubiquiti / Teltonika / Mimosa 等品牌；波兰 Częstochowa 系 anteny24.pl 品牌经营",
+        "sources": [
+          [
+            1,
+            "https://www.batna24.com/gb/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-258 原入口“+48 34 3610 448 / lukasz@anteny24.pl”、原备注“Częstochowa；WISP 渠道 【2026-09-28 R49 复筛补录】来源等级：official-compa”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-258",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[40]",
+        "recorded_on": "2026-09-28"
       }
     ],
     "exact_batch_matches": [],
@@ -6134,16 +7014,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-216",
+    "code": "B-526",
     "name": "Cyberbajt",
     "country": "波兰",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-352",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "cyberbajt.pl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.cyberbajt.pl/handlowcy/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-526",
+        "name": "Cyberbajt",
+        "country": "波兰",
+        "city": "",
+        "email": "d.jonik@cyberbajt.pl",
+        "other_emails": "k.godzisz@cyberbajt.pl、e.raciborski@cyberbajt.pl、m.blaszczyk@cyberbajt.pl、g.gozdz@cyberbajt.pl、s.sirko@cyberbajt.pl",
+        "site": "cyberbajt.pl",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 dział handlowy 正文可见（个人邮箱）：d.jonik@cyberbajt.pl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-216 → 现 B-526）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.cyberbajt.pl/handlowcy/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-526",
+        "quote": "cyberbajt.pl /handlowcy/：Dominik Jonik 666 111 958 d.jonik@cyberbajt.pl；Krzysztof Godzisz、Eligiusz Raciborski、Michał Błaszczyk、Grzegorz Góźdź、Stanisław Sirko 同页具名邮箱；地址 ul. Młyńska 27, 22-400 Zamość",
+        "sources": [
+          [
+            1,
+            "https://www.cyberbajt.pl/handlowcy/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-216 原入口“d.jonik@cyberbajt.pl 等 6 位销售具名邮箱（官网 dzia”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（集成/分销）与「Moxa 工业交换机」，尚无人工核实。建议先查证其是否已”",
+          "编号变更：原 C-216 → 回升后 B-526（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-526",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-216",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[13]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6261,9 +7181,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-360",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "maritex.eu",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.maritex.eu/en/contact-us"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-218",
+        "name": "Maritex Leszek Łosin Sp.j.",
+        "country": "波兰",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "maritex.eu",
+        "level": "official-search-only",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网联系页 404；搜索索引候选 maritex@maritex.eu（待核）；未发送邮件、未提交表单。 证据：[1](https://www.maritex.eu/en/contact-us)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-218",
+        "quote": "maritex.eu /en/contact-us、/pl/kontakt、maritex.com.pl/kontakt.html 均 404；官网在售 Switches 品类与 500+ 授权线；搜索索引在其联系页显示 maritex@maritex.eu（未抓取复核，待核）",
+        "sources": [
+          [
+            1,
+            "https://www.maritex.eu/en/contact-us"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-218 原入口“+48 58 622 89 00”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-218",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[29]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6547,9 +7503,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-376",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "datalinkcom.net",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://datalinkcom.net/contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-223",
+        "name": "DataLink Communications",
+        "country": "爱尔兰/英国",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "datalinkcom.net",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。域名已易主为垃圾站，按死链处理；未发送邮件、未提交表单。 证据：[1](https://datalinkcom.net/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-223",
+        "quote": "datalinkcom.net 现为印尼语博彩/垃圾内容站（原爱尔兰 DataLink Communications 域名已易主），页面无可信联系信息",
+        "sources": [
+          [
+            1,
+            "https://datalinkcom.net/contact/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-223 原入口“+353-91-840838 / UK +01214680041”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-223",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[30]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6662,16 +7654,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-226",
+    "code": "B-527",
     "name": "EG Electronics AB",
     "country": "瑞典",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-384",
     "legacy_source_label": "2026-09-22",
     "site_lead": "egelectronics.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.egelectronics.com/contact-us/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-527",
+        "name": "EG Electronics AB",
+        "country": "瑞典",
+        "city": "Spånga (Stockholm)",
+        "email": "hello@egelectronics.com",
+        "other_emails": "",
+        "site": "egelectronics.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us/ 正文可见：hello@egelectronics.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-226 → 现 B-527）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.egelectronics.com/contact-us/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-527",
+        "quote": "egelectronics.com /contact-us/：hello@egelectronics.com；Spånga (Stockholm)；HMS/N-Tron·Red Lion·Anybus 渠道",
+        "sources": [
+          [
+            1,
+            "https://www.egelectronics.com/contact-us/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-226 原入口“hello@egelectronics.com（官网联系页）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-226 → 回升后 B-527（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-527",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-226",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[14]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eedf4ded27ead2166ef47f987a1eb676f2dce563",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6729,16 +7761,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-227",
+    "code": "B-528",
     "name": "HighTech Nordic AB",
     "country": "瑞典",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-386",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "hightechnordic.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.hightechnordic.com/kontakta-mig"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-528",
+        "name": "HighTech Nordic AB",
+        "country": "瑞典",
+        "city": "",
+        "email": "info@hightechnordic.com",
+        "other_emails": "logistics@hightechnordic.com、support@hightechnordic.com、invoice@hightechnordic.com",
+        "site": "hightechnordic.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：info@hightechnordic.com。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-227 → 现 B-528）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.hightechnordic.com/kontakta-mig)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528",
+        "quote": "hightechnordic.com /kontakta-mig：Förfrågningar/sälj info@hightechnordic.com；Frakt logistics@；Service & support support@；Faktura invoice@；Tel 010-177 58 00；Org.nr 559097-1437",
+        "sources": [
+          [
+            1,
+            "https://www.hightechnordic.com/kontakta-mig"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-227 原入口“info@hightechnordic.com（销售；物流/支持/发票另有分邮箱”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-227 → 回升后 B-528（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-227",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[15]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -6834,16 +7906,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-228",
+    "code": "B-529",
     "name": "MPI Technologies AG",
     "country": "瑞士",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-393",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "mpi.ch",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.mpi.ch/kontakt/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-529",
+        "name": "MPI Technologies AG",
+        "country": "瑞士",
+        "city": "",
+        "email": "info@mpi.ch",
+        "other_emails": "",
+        "site": "mpi.ch",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@mpi.ch。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-228 → 现 B-529）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.mpi.ch/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-529",
+        "quote": "mpi.ch /kontakt/：info@mpi.ch；+41 564 83 34 44；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.mpi.ch/kontakt/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-228 原入口“info@mpi.ch；+41 564 83 34 44”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-228 → 回升后 B-529（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-529",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-228",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[16]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -7442,7 +8554,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-432",
     "legacy_source_label": "Moxa 渠道名录（经销商定位法）",
     "site_lead": "controllerservice.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.controllerservice.com/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -7481,6 +8595,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[7]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-340",
+        "name": "Controller Service and Sales",
+        "country": "美国",
+        "city": "",
+        "email": "sales@controllerservice.com",
+        "other_emails": "",
+        "site": "controllerservice.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】站点 HTTP 500，本轮无法核验（失败站重试）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.controllerservice.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-340",
+        "quote": "controllerservice.com 直连返回 HTTP 500（连续复现，本轮无法核验站点内容）",
+        "sources": [
+          [
+            1,
+            "https://www.controllerservice.com/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-340 原入口“官网联系页”、原备注“sales@controllerservice.com；电话 (800) 584-5565。【2026-09-22 补】”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-340",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[34]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -7541,7 +8688,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-436",
     "legacy_source_label": "2026-09-22",
     "site_lead": "doubleradius.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://shopdoubleradius.com/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -7580,6 +8729,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[6]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-344",
+        "name": "DoubleRadius, Inc.",
+        "country": "美国",
+        "city": "NC",
+        "email": "salesteam@doubleradius.com",
+        "other_emails": "",
+        "site": "doubleradius.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网已迁至 shop 子域；交换机品类在售。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-344",
+        "quote": "doubleradius.com 现 301 → shopdoubleradius.com（Shopify）：品类 Routing/Switching、Access Points、Fiber、LTE 等；品牌 MikroTik / Ubiquiti / Cambium Networks / SAF Tehnika / Baicells / RF elements；另有 services.doubleradius.com 与 Training & Events 页",
+        "sources": [
+          [
+            1,
+            "https://shopdoubleradius.com/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-344 原入口“+1 704 927 6100 / salesteam@doubleradius”、原备注“USIndian Trail；WISP 方案商 【2026-09-28 R49 复筛补录】来源等级：official-c”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-344",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[33]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -7760,7 +8942,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-448",
     "legacy_source_label": "2026-09-22",
     "site_lead": "archous.tech",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.archous.tech/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -7795,6 +8979,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[9]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-356",
+        "name": "Joshua Moore / Archous Networks",
+        "country": "美国",
+        "city": "Lake Stevens, WA",
+        "email": "support@archous.tech",
+        "other_emails": "",
+        "site": "archous.tech",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网在线；ISP/数据中心网络设计（含开放网络厂商）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.archous.tech/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-356",
+        "quote": "archous.tech 首页：1-866-535-0358 | support@archous.tech | support.archous.tech；自述 ISP/数据中心/企业网络的托管服务、设计与实施；专长品牌含 MikroTik、Edge-Core、UfiSpace、IP Infusion、Juniper、Cisco、Dell、Paessler、Andrisoft、Debian、Microsoft",
+        "sources": [
+          [
+            1,
+            "https://www.archous.tech/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-356 原入口“+1 912 218 3720 / mikrotik@archous.tech”、原备注“多厂商网络与系统集成商，专做 **MikroTik 及他牌的自动化网络方案**（端到端开通自动化：用户开通/停用/限速）”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-356",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[35]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -8173,7 +9390,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-470",
     "legacy_source_label": "2026-09-22",
     "site_lead": "rickfreyconsulting.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://rickfreyconsulting.com/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -8208,6 +9427,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[16]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-378",
+        "name": "Rick Frey / Rick Frey Consulting",
+        "country": "美国",
+        "city": "Rexburg, ID",
+        "email": "rickfrey1000@gmail.com",
+        "other_emails": "",
+        "site": "rickfreyconsulting.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】站点持续被拦截，无法直连（失败站重试）。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378",
+        "quote": "rickfreyconsulting.com 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT，跳转纯搜寻域），无法直连核验内容",
+        "sources": [
+          [
+            1,
+            "https://rickfreyconsulting.com/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-378 原入口“+1 430 236 5829 / rickfrey1000@gmail.com”、原备注“**30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[41]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -8473,16 +9725,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-272",
+    "code": "B-530",
     "name": "Data Monitor",
     "country": "芬兰",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-488",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "datamonitor.fi",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.datamonitor.fi/yhteystiedot/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-530",
+        "name": "Data Monitor",
+        "country": "芬兰",
+        "city": "",
+        "email": "myynti@datamonitor.fi",
+        "other_emails": "dm@datamonitor.fi",
+        "site": "datamonitor.fi",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /yhteystiedot/ 正文可见：myynti@datamonitor.fi。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-272 → 现 B-530）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.datamonitor.fi/yhteystiedot/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-530",
+        "quote": "datamonitor.fi /yhteystiedot/：myynti@datamonitor.fi、dm@datamonitor.fi；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.datamonitor.fi/yhteystiedot/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-272 原入口“myynti@datamonitor.fi（销售；dm@ 同页）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-272 → 回升后 B-530（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-530",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-272",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[17]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -8555,7 +9847,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-493",
     "legacy_source_label": "2026-09-22",
     "site_lead": "allness.net",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.allness.net/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -8590,6 +9884,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[10]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-401",
+        "name": "Barry Higgins / Allness",
+        "country": "英国",
+        "city": "Kidderminster",
+        "email": "barry@allness.it",
+        "other_emails": "training@allness.it",
+        "site": "allness.net",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网在线（工单制触达）；官方名录另一邮箱 training@allness.it。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.allness.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401",
+        "quote": "allness.net 首页：电话 03333 403 303、联系走 support.allness.net 工单系统；MikroTik 官方培训中心名录（英国）另列 Barry Higgins / Kidderminster、training@allness.it、allness.it/?page=consult（10 证全拿、官方讲师）",
+        "sources": [
+          [
+            1,
+            "https://www.allness.net/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-401 原入口“+44 3333 403 303 / barry@allness.it”、原备注“★ 10 证全拿 + 英国 MikroTik 官方讲师；有线+无线设计、OSPF/IS-IS/iBGP/eBGP、Rou”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[38]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -8710,9 +10037,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-501",
     "legacy_source_label": "2026-09-22",
     "site_lead": "digitalcontrols.biz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.digitalcontrols.biz/index.php?route=information/contact"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-279",
+        "name": "Digital Controls",
+        "country": "英国",
+        "city": "Peterborough",
+        "email": "",
+        "other_emails": "",
+        "site": "digitalcontrols.biz",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网仅地址电话+表单，未列邮箱；未发送邮件、未提交表单。 证据：[1](https://www.digitalcontrols.biz/index.php?route=information/contact)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-279",
+        "quote": "digitalcontrols.biz contact 页：Digital Controls, 2 Mary Armyne Road, Orton Longueville, Peterborough PE2 7DR；电话 01733 233481；其余为表单，未见邮箱（/contact-us 为 404）",
+        "sources": [
+          [
+            1,
+            "https://www.digitalcontrols.biz/index.php?route=information/contact"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-279 原入口“官网联系页（HMS 名录只公开地址与网址）”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-T”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-279",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[31]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eedf4ded27ead2166ef47f987a1eb676f2dce563",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -8748,16 +10111,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-282",
+    "code": "B-531",
     "name": "IVORY EGG (UK) LIMITED",
     "country": "英国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-504",
     "legacy_source_label": "2026-09-22",
     "site_lead": "ivoryegg.co.uk",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.ivoryegg.co.uk/contact-us"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-531",
+        "name": "IVORY EGG (UK) LIMITED",
+        "country": "英国",
+        "city": "Nottingham",
+        "email": "info@ivoryegg.co.uk",
+        "other_emails": "",
+        "site": "ivoryegg.co.uk",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us 正文可见：info@ivoryegg.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-282 → 现 B-531）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.ivoryegg.co.uk/contact-us)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-531",
+        "quote": "ivoryegg.co.uk /contact-us：info@ivoryegg.co.uk；Nottingham；HMS/N-Tron·Red Lion·Anybus·Ewon 渠道",
+        "sources": [
+          [
+            1,
+            "https://www.ivoryegg.co.uk/contact-us"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-282 原入口“info@ivoryegg.co.uk（官网联系页）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-282 → 回升后 B-531（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-531",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-282",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[18]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eedf4ded27ead2166ef47f987a1eb676f2dce563",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -8793,16 +10196,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-284",
+    "code": "B-532",
     "name": "MAC Solutions UK Ltd",
     "country": "英国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-507",
     "legacy_source_label": "2026-09-22",
     "site_lead": "mac-solutions.net",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://mac-solutions.net/contact-us/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-532",
+        "name": "MAC Solutions UK Ltd",
+        "country": "英国",
+        "city": "Redditch",
+        "email": "sales@mac-solutions.co.uk",
+        "other_emails": "support@mac-solutions.co.uk、commercial@mac-solutions.co.uk",
+        "site": "mac-solutions.net",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact-us/ 正文可见（官网 .net 域列 .co.uk 邮箱）：sales@mac-solutions.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-284 → 现 B-532）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mac-solutions.net/contact-us/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-532",
+        "quote": "mac-solutions.net /contact-us/：Head Office Kingfisher Business Park, 6 Arthur St, Redditch B98 8LG；sales@mac-solutions.co.uk、01527 529774；技术支持 support@mac-solutions.co.uk；European Office MAC Solutions Sarl, 1 Avenue Christian Doppler, 77700 Serris (Paris), commercial@mac-solutions.co.uk, +33 (0)1 78710107",
+        "sources": [
+          [
+            1,
+            "https://mac-solutions.net/contact-us/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-284 原入口“sales@mac-solutions.co.uk（支持 support@ / ”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-284 → 回升后 B-532（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-532",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-284",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[19]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "eedf4ded27ead2166ef47f987a1eb676f2dce563",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -8865,16 +10308,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-285",
+    "code": "B-533",
     "name": "Millbeck",
     "country": "英国",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-509",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "millbeck.co.uk",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.millbeck.co.uk/contact"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-533",
+        "name": "Millbeck",
+        "country": "英国",
+        "city": "",
+        "email": "hello@millbeck.co.uk",
+        "other_emails": "",
+        "site": "millbeck.co.uk",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：hello@millbeck.co.uk。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-285 → 现 B-533）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.millbeck.co.uk/contact)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-533",
+        "quote": "millbeck.co.uk /contact：hello@millbeck.co.uk；Teltonika Diamond 渠道",
+        "sources": [
+          [
+            1,
+            "https://www.millbeck.co.uk/contact"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-285 原入口“hello@millbeck.co.uk（官网联系页）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销）与「Teltonika（Diamond 最高级）」，尚无人工核实。”",
+          "编号变更：原 C-285 → 回升后 B-533（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-533",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-285",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[20]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9195,16 +10678,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-291",
+    "code": "B-534",
     "name": "Lextron B.V.",
     "country": "荷兰",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-531",
     "legacy_source_label": "ORing经销商名录/2026-09",
     "site_lead": "lextron.nl",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.lextron.nl/contact/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-534",
+        "name": "Lextron B.V.",
+        "country": "荷兰",
+        "city": "",
+        "email": "info@lextron.nl",
+        "other_emails": "",
+        "site": "lextron.nl",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /contact/ 正文可见：info@lextron.nl。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-291 → 现 B-534）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.lextron.nl/contact/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-534",
+        "quote": "lextron.nl /contact/：info@lextron.nl；+31 162 220229；ORing 授权分销",
+        "sources": [
+          [
+            1,
+            "https://www.lextron.nl/contact/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-291 原入口“info@lextron.nl；+31 162 220229”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是”",
+          "编号变更：原 C-291 → 回升后 B-534（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-534",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-291",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[21]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9247,7 +10770,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-534",
     "legacy_source_label": "2026-09-22",
     "site_lead": "connectionservices.nl",
-    "record_urls": [],
+    "record_urls": [
+      "https://connectionservices.nl/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -9282,6 +10807,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[11]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-442",
+        "name": "Michiel Visser / Connection Services",
+        "country": "荷兰",
+        "city": "Deventer",
+        "email": "michiel@connectionservices.nl",
+        "other_emails": "",
+        "site": "connectionservices.nl",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】站点仅占位页；与 A-271 同名同人，保留不合并。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://connectionservices.nl/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442",
+        "quote": "connectionservices.nl 现仅单页 IPv6 连通性测试占位（含 he.net 徽章），无公司介绍/产品/服务正文；原入口 +31 6 29047127 / michiel@connectionservices.nl 保留",
+        "sources": [
+          [
+            1,
+            "https://connectionservices.nl/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-442 原入口“+31 6 29047127 / michiel@connectionservi”、原备注“含 MTCINE（ISP 互联）+ MTCWE（无线） 【2026-09-28 R49 复筛补录】来源等级：offici”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-442",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[37]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -9607,7 +11165,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-555",
     "legacy_source_label": "2026-09-22",
     "site_lead": "lanpixel.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://lanpixel.com/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -9646,6 +11206,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[12]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-463",
+        "name": "Darío Noguera / Lanpixel",
+        "country": "西班牙",
+        "city": "Barcelona",
+        "email": "dario@lanpixel.com",
+        "other_emails": "hola@lanpixel.com",
+        "site": "lanpixel.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网在线并扩为培训中心；培训型，未见采购证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-463",
+        "quote": "lanpixel.com：MikroTik Academy / Ubiquiti 授权培训中心、FUNDAE 学时补贴、labs.lanpixel.com 远程实验平台；公开联系 hola@lanpixel.com、(+34) 91 00 52 276；Madrid；课程含 MTCNA/MTCSE 与 switching/firewall 实验",
+        "sources": [
+          [
+            1,
+            "https://lanpixel.com/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-463 原入口“+34 660 306 934 / dario@lanpixel.com”、原备注“15+ 年，既做培训也做生产网络设计；防火墙加固、VPN/IPSec、流量管理、QoS、高可用；兼 Linux/自动化/”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-463",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[39]",
         "recorded_on": "2026-09-28"
       }
     ],
@@ -9737,9 +11330,45 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-558",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "ekanet.es",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://ekanet.es/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "C-296",
+        "name": "Ekanet",
+        "country": "西班牙",
+        "city": "",
+        "email": "",
+        "other_emails": "",
+        "site": "ekanet.es",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复核】未获官网可复制邮箱，保持 C 待命。官网未见邮箱（商城表单）；未发送邮件、未提交表单。 证据：[1](https://ekanet.es/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-296",
+        "quote": "ekanet.es 为目录型商城（racks/cableado），页脚与末段未见邮箱（仅登录/表单）；/contacto 与 /contacto/ 均 404",
+        "sources": [
+          [
+            1,
+            "https://ekanet.es/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-296 原入口“官网”、原备注“【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销）与「PLANET 工业DIN（4–16口）」，尚无人工核实”"
+        ],
+        "fields_supported": [
+          "备注（复核记录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-296",
+        "decision": "hold-C",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[32]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "89ed28dc93ad791db40b0a2611bef7121f0dacec",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -9907,16 +11536,56 @@
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
   {
-    "code": "C-298",
+    "code": "B-535",
     "name": "Leadernet Sistemas Telec",
     "country": "西班牙",
-    "grade": "C",
+    "grade": "B",
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-569",
     "legacy_source_label": "2026-09-22",
     "site_lead": "leadernet.es",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
-    "contact_research": [],
+    "record_urls": [
+      "https://www.leadernet.es/"
+    ],
+    "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
+    "contact_research": [
+      {
+        "code": "B-535",
+        "name": "Leadernet Sistemas Telec",
+        "country": "西班牙",
+        "city": "Oricáin (Navarra)",
+        "email": "info@leadernet.es",
+        "other_emails": "",
+        "site": "leadernet.es",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 邮箱补录】来源等级：official-company。官网首页正文可见：info@leadernet.es。原 C 级下放原因（无邮箱/群发触达不到）消除，按既有规则恢复 B（原 C-298 → 现 B-535）；未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://www.leadernet.es/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-535",
+        "quote": "leadernet.es 首页正文（隐私条款）：…escribiéndonos a la dirección de nuestras oficinas o enviando un correo electrónico a info@leadernet.es；可再生/工业通信网络集成（Oricáin/Madrid/Gijón 等 8 国）",
+        "sources": [
+          [
+            1,
+            "https://www.leadernet.es/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：C-298 原入口“info@leadernet.es（官网正文/隐私条款）”、原备注“本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron ”",
+          "编号变更：原 C-298 → 回升后 B-535（按 numbering 规则：改级换号、旧号空置、行位置不动）。"
+        ],
+        "fields_supported": [
+          "入口/联系方式（含邮箱）",
+          "评级（C→B 回升）",
+          "评级依据（复核回升）",
+          "备注（待补标记解除）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-535",
+        "decision": "email-backfill-C-to-B",
+        "before_code": "C-298",
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[22]",
+        "recorded_on": "2026-09-28"
+      }
+    ],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "a613a70d3a940fb1f529a51afe8d9fe8095f6178",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
@@ -13415,7 +15084,9 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-755",
     "legacy_source_label": "MikroTik 官方培训计划（欧洲）",
     "site_lead": "janzen-group.com",
-    "record_urls": [],
+    "record_urls": [
+      "https://www.janzen-group.com/"
+    ],
     "status": "结构化联系方式证据（仅覆盖该字段/记录中所述内容）",
     "contact_research": [
       {
@@ -13454,6 +15125,39 @@
         "decision": "hold-B",
         "batch_path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "records[8]",
+        "recorded_on": "2026-09-28"
+      },
+      {
+        "code": "B-510",
+        "name": "Janzen Group",
+        "country": "德国",
+        "city": "Hamburg",
+        "email": "info@janzen-group.com",
+        "other_emails": "",
+        "site": "janzen-group.com",
+        "level": "official-company",
+        "note": "【2026-09-28 R49 复筛补录】官网在线；服务商口径，未见交换机产品线证据。结论：维持 B（无采购/替换新证据）；未发送邮件、未提交表单。 证据：[1](https://www.janzen-group.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-510",
+        "quote": "janzen-group.com：服务面 Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik（布线、网络结构、WLAN 扩展）/ Wartungsverträge / Mikrotik Support（电话/远程/现场）；info@janzen-group.com、+49 40 696 022 11；页面人物介绍 Florian Janzen；ISO 9001 自述",
+        "sources": [
+          [
+            1,
+            "https://www.janzen-group.com/"
+          ]
+        ],
+        "local_sources": [
+          "客户名单_反向信号_2026-09.csv：B-510 原入口“info@janzen-group.com”、原备注“【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。汉堡本地 MikroTik **支持/咨询/实施*”"
+        ],
+        "fields_supported": [
+          "备注（复筛证据补录，等级不变）"
+        ],
+        "retrieved_on": "2026-09-28",
+        "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+        "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+        "batch_ref": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-510",
+        "decision": "hold-B",
+        "before_code": null,
+        "batch_path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
+        "locator": "records[36]",
         "recorded_on": "2026-09-28"
       }
     ],

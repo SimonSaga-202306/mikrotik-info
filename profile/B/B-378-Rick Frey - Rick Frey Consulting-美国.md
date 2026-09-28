@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | **30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN/安全/CAPsMAN |
+| 原备注 | **30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN/安全/CAPsMAN 【2026-09-28 R49 复筛补录】来源等级：official-company。站点持续被拦截，无法直连（失败站重试）：rickfreyconsulting.com 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT，跳转纯搜寻域），无法直连核验内容 结论：维持 B（无采购/替换新证据）。 证据：[1](https://rickfreyconsulting.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378 |
 
 ## 三、人员与联系方式
 

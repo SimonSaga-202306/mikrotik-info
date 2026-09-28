@@ -24,13 +24,13 @@
 | 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
 | 切入点 | 工业交换机同类替换 |
 | 数据来源 | 2026-09-22 |
-| 原备注 | Boufféré + 巴黎两处办公室；【2026-09-22 补】经 Moxa 渠道名录确认同时为 Moxa 法国渠道伙伴，主营 Moxa 工业网络产品线。 |
+| 原备注 | Boufféré + 巴黎两处办公室；【2026-09-22 补】经 Moxa 渠道名录确认同时为 Moxa 法国渠道伙伴，主营 Moxa 工业网络产品线。 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 404 页正文可见；搜索索引所示 commercial@/support@airicom.fr 未复核，暂不写入：marketing@airicom.fr。airicom.com 404 页正文：Vous pouvez nous contacter via notre site Internet, par e-mail — 链接指向 marketing@airicom.fr；官网产品线为 Milesight / HMS(Anybus, Ewon, Intesis) / Watteco / Seneca / Advantech 未发送邮件、未提交表单。 证据：[1](https://airicom.com/nous-contacter/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-046 |
 
 ## 三、人员与联系方式
 
-- **邮箱**：—
+- **邮箱**：marketing@airicom.fr
 - **电话**：—
-- **原始联系字段**：airicom.com
+- **原始联系字段**：marketing@airicom.fr（官网 404 页正文注明可邮件联系）；airicom.com
 
 ## 四、品牌与技术栈
 

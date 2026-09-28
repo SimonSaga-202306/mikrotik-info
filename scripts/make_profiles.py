@@ -88,8 +88,13 @@ def without_contact_evidence(note):
     Keep the full note in the dossier, but exclude the explicitly marked
     append-only research section from scenario, brand and mail extraction.
     Legacy notes without this marker retain their existing behavior.
+
+    Two marker families are cut: the A###–A### 联络核验 rounds (R40+) and the
+    R-numbered rounds (R49 邮箱补录/复核), so audit prose such as
+    "official-company" or "R49" can never leak into a customer-facing mail.
     """
-    return re.split(r"【\d{4}-\d{2}-\d{2} A\d+[–-]A\d+联络核验】", note, maxsplit=1)[0].rstrip()
+    return re.split(r"【\d{4}-\d{2}-\d{2} (?:A\d+[–-]A\d+联络核验|R\d+[^】]*?)】",
+                    note, maxsplit=1)[0].rstrip()
 
 
 def phones(text):

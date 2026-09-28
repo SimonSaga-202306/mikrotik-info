@@ -24,7 +24,7 @@
 | 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
 | 切入点 | 法国分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
-| 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 |
+| 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 复核】官网仅部门表单与总机，未列邮箱：es-france.com /content/23-contactez-nous：按事业部（Composants/MSE/RF/Tests/Puissance/Bio/NI）分流表单 + 总机 01 47 95 99 00 / 01 47 95 99 81，页面未见邮箱 证据：[1](https://www.es-france.com/content/23-contactez-nous)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-208 |
 
 ## 三、人员与联系方式
 
