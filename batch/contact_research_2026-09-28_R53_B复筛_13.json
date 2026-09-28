@@ -116,15 +116,19 @@
   },
   {
    "code": "B-245",
-   "decision": "pending",
+   "decision": "promote",
    "site": "mhzshop.com",
    "level": "official-company",
-   "note": "【2026-09-28 R53 B段复筛13】官网核对：MHz（mhzshop.com，英文/多语 OXID 商城）为无线网络专营分销商：品牌 MikroTik／Ubiquiti／Teltonika／MARS Antennas／Telegärtner／Poynting，QuWireless 官方分销；类目 WiFi/UniFi AP/CPE/PoE 注入器/同轴电缆/Hotspot；**首页未出现交换机型号 → 待核验 MikroTik CRS 类目**；本轮维持B。",
-   "quote": "mhzshop.com（Online Shop）；Our brands: MikroTik／Ubiquiti Networks／Teltonika／MARS Antennas／Telegärtner／Poynting；Official distributor of QuWireless；Categories: WiFi → UniFi Access Points／CPE 5.x GHz／Accessories → PoE／Cables and Assemblies",
+   "note": "【2026-09-28 R53 B段逐站复筛13】官网核对：MHz（mhzshop.com，多语 OXID 商城）为无线网络专营分销商（MikroTik/Ubiquiti/Teltonika/MARS/Telegärtner/Poynting，QuWireless 官方分销）；**站内 CRS 检索 28 件，类目 Networks → Switches → Managed／PoE／Fibre**：CRS354-48G-4S+2Q+RM（48×GE+4×SFP+ & 2×QSFP+）、CRS125-24G-1S-2HnD-IN、CRS812 DDQ 400Gbps、CRS804-4DDQ 400Gbps、netPower 15FR CRS318（户外反 PoE 交换机）、FiberBox Plus CRS305-1G-4S+OUT、CRS328-4C-20S-4S+RM → 交换机品类完整+网络专营 → 人工定级升A。",
+   "quote": "mhzshop.com（Online Shop）；28 Hits for \"CRS\"；Networks → Switches → Managed/PoE/Fibre: MikroTik CRS354-48G-4S+2Q+RM network switch 48 GbE + 4 SFP+ & 2 QSFP+ 40 Gbps（569,90 €）／CRS125-24G-1S-2HnD-IN 24-port network switch／CRS812 DDQ 12-port 400 Gbps switch／netPower 15FR CRS318-1Fi-15Fr-2S-OUT outdoor reverse-PoE switch／FiberBox Plus CRS305-1G-4S+OUT",
    "sources": [
     [
      1,
      "https://www.mhzshop.com/"
+    ],
+    [
+     2,
+     "https://www.mhzshop.com/index.php?cl=search&searchparam=CRS&lang=1"
     ]
    ]
   },
