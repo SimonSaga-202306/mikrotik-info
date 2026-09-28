@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（光纤接入），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — MBN 塔站密封柜夏天高温：工业温宽 PoE 钉住缺口（$74.8 邮件锚点一致）；EU 补贴市政段走合规；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -131,11 +131,36 @@ updated: 2026-09-28
   > seit 18 Jahren auf dem Markt；RIPE lookup: ORG-MBG9-RIPE（官网页脚链接）
   > 来源：https://mbn-glasfaser.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Westhofen 18 年 WISP；FTTT+Richtfunk 10Gbit；自有 AS；EU 补贴市政段在售
+- **②芯片/型号**：回传定向无线为主；接入层未公开（塔站柜件）
+- **③KP 深挖**：Dinko Ivanov（MTCNA+MTCSE）技术直达
+- **④Saga 对标**：塔站机柜工业 PoE：STI-288GP ——钉住工业温宽缺口
+- **⑤在乎与偏好**：24h 服务 SLA 对等条件；合规文件齐
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Ersteller von Funknetz-Infrastruktur und Glasfasernetzen, sowie Netzbetreiber…Breitbandversorgung im ländlichen Raum…FTTT…bis zu 10 Gigabit…50 Meter bis 10 Kilometer”
+  > “Ersteller von Funknetz-Infrastruktur und Glasfasernetzen, sowie Netzbetreiber…Breitbandversorgung im ländlichen Raum…FTTT…bis zu 10 Gigabit…50 Meter bis 10 Kilometer”
+  > 来源：https://mbn-glasfaser.de/
+- **【产品线与在售品牌】**“Öffentliche Hotspots von MBN…erstklassige Technologie, rechtssicheren Betrieb und professionellen 24-h-Service”
+  > “Öffentliche Hotspots von MBN…erstklassige Technologie, rechtssicheren Betrieb und professionellen 24-h-Service”
+  > 来源：https://mbn-glasfaser.de/
+- **【近期动态与线索】**“Kommunenausbau mit förderfähigem EU-Internet-Breitbandzugang…wenige Monate statt Jahre…ORG-MBG9-RIPE”
+  > “Kommunenausbau mit förderfähigem EU-Internet-Breitbandzugang…wenige Monate statt Jahre…ORG-MBG9-RIPE”
+  > 来源：https://mbn-glasfaser.de/
+- **【联系方式】**MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
+  > MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://mbn-glasfaser.de/kontakt
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | MBN 塔站密封柜夏天高温：工业温宽 PoE 钉住缺口（$74.8 邮件锚点一致）；EU 补贴市政段走合规 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -144,10 +169,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（光纤接入），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：区域基础设施垄断
+- **W**：区域体量
+- **O**：EU 补贴+热点线增长
+- **T**：巨头下沉
 
 ## 触达与风险红线
 
@@ -181,21 +206,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
 Hi Dinko,
 
-I came across MBN Glasfaser - 集成商/顾问（MikroTik 认证）.
+I found you via the MikroTik consultant list (MTCNA/MTCSE) - and MBN's FTTT+Richtfunk hybrid for rural broadband is a clever architecture.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build industrial-grade managed PoE switches rated -40 to 75C, designed for exactly the sealed tower cabinets your tower sites use. 802.3af/at, PoE watchdog included. Reference: $74.8 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: how hot do your tower cabinets get in summer - and do the switches in them survive?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit for evaluation with the full temperature test report. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

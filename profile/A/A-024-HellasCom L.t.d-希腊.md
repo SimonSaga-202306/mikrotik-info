@@ -13,8 +13,8 @@ business_model: 培训交付
 decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
-needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: true}
-p1: STC-28DGGPM
+needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: true, oem: false, hotel: true, training: true}
+p1: STC-424DGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,8 +25,8 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇、组播/IPTV），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
@@ -52,10 +52,11 @@ updated: 2026-09-28
 
 ## 需求与场景（推断标签）
 
-- **推断需求面**：PoE 接入供电、工业/户外/宽温、VoIP/Voice VLAN、教学教具
+- **推断需求面**：PoE 接入供电、工业/户外/宽温、VoIP/Voice VLAN、酒店/多住户、教学教具
   - PoE 接入供电：【推断】依据 CSV 信号/深挖
   - 工业/户外/宽温：【推断】依据 CSV 信号/深挖
   - VoIP/Voice VLAN：【推断】依据 CSV 信号/深挖
+  - 酒店/多住户：【推断】依据 CSV 信号/深挖
   - 教学教具：【推断】依据 CSV 信号/深挖
 
 ## HR 与规模信号（招聘/团队/绿旗）
@@ -76,7 +77,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
@@ -130,23 +131,48 @@ updated: 2026-09-28
   > Ως Distributors & Certified Trainers MikroTik από το 2001, αντιπρόσωποι TAIT, Omnitronics, Zetron, BHE & Ruckus；Το e-shop μας (LinkShop.gr) παρέχει στους μεταπωλητές και πελάτες μια καινοτόμα επιλογή αξιόπιστων προϊόντων
   > 来源：https://www.hellascom.gr/el
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：1998/Piraeus/ISO 9001/500+项目；酒店+国家级隧道双线；MikroTik 分销 2001 起（与 A-022 同集团）
+- **②芯片/型号**：伙伴墙 20+：MikroTik/Ruckus/Cambium/Mimosa/Ubiquiti/TP-Link/2N/Dahua/Hikvision/Yeastar…（Marvell 系接入层大量在场）
+- **③KP 深挖**：商业进口部 sales@ 为第一窗；培训师线走 A-022；元件级维修实验室（技术支持部）
+- **④Saga 对标**：酒店 6Play 楼层接入标准：STC-424DGGPM-280W 对 Ruckus/Ubiquiti 档价格下切
+- **⑤在乎与偏好**：正规进口商体量：要合规、账期、稳定交期；价格带工程学
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Hospitality & Αεροδρομίων…έως 6Play & Multi-Sensors…Ως Distributors & Certified Trainers MikroTik από το 2001, αντιπρόσωποι TAIT, Omnitronics, Zetron, BHE & Ruckus”
+  > “Hospitality & Αεροδρομίων…έως 6Play & Multi-Sensors…Ως Distributors & Certified Trainers MikroTik από το 2001, αντιπρόσωποι TAIT, Omnitronics, Zetron, BHE & Ruckus”
+  > 来源：https://hellascom.gr/el
+- **【目标行业与场景】**“Εξειδικευμένες υπηρεσίες για Ξενοδοχεία, AirBNB & Καταλύματα σε Κυκλάδες, Κρήτη, Αττική, Δωδεκάνησα & Επτάνησα…από την προμήθεια εξοπλισμού μέχρι 24/7 υποστήριξη”
+  > “Εξειδικευμένες υπηρεσίες για Ξενοδοχεία, AirBNB & Καταλύματα σε Κυκλάδες, Κρήτη, Αττική, Δωδεκάνησα & Επτάνησα…από την προμήθεια εξοπλισμού μέχρι 24/7 υποστήριξη”
+  > 来源：https://hellascom.gr/el
+- **【技术与认证】**“Υποθαλάσσια σήραγγα Ακτίου-Πρεβέζης, Σήραγγα Κακιάς Σκάλας…Γέφυρα Ρίου-Αντιρρίου…ISO 9001:2015 / 1998 年创立 / 500+ 项目”
+  > “Υποθαλάσσια σήραγγα Ακτίου-Πρεβέζης, Σήραγγα Κακιάς Σκάλας…Γέφυρα Ρίου-Αντιρρίου…ISO 9001:2015 / 1998 年创立 / 500+ 项目”
+  > 来源：https://hellascom.gr/el
+- **【联系方式】**sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
+  > sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://hellascom.gr/el
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线 |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇、组播/IPTV），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：28年品牌+双通道+大项目背书
+- **W**：伙伴墙臃肿、决策链长
+- **O**：酒店翻新周期+AirBNB 潮
+- **T**：Ruckus/Cambium 既有供应
 
 ## 触达与风险红线
 
@@ -184,21 +210,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi HellasCom,
+Hi HellasCom team,
 
-I came across HellasCom L.t.d. - 分销（MikroTik 官方）.
+I came across HellasCom - 28 years, Greece-wide hospitality 6Play projects across the Cyclades and Crete, plus the MikroTik distribution and training arm. Remarkable footprint.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing available.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: in a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-28DGGPM
+p1: STC-424DGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -73,7 +73,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
@@ -124,23 +124,45 @@ updated: 2026-09-28
   > Strategic IT consulting, IT organisational development and transformation … Available as an interim manager and for advisory board and supervisory board mandates — backed by more than 15 years of leadership and management experience.
   > 来源：https://www.kehrlein.de/en/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：2007 起官方顾问全 10 证；慕尼黑+Haßfurt 双址；HA/MPLS 级咨询+SAFe 管理培训双轨
+- **②芯片/型号**：RouterOS 全谱；硬件项目推荐制
+- **③KP 深挖**：Sandro Kehrlein 本人（CSV“Kehrlein”名补全）；LinkedIn /in/kehrlein
+- **④Saga 对标**：咨询推荐通道：样机→技术档案→随荐 quotation
+- **⑤在乎与偏好**：NDA 级客户隐私、技术格物精神
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“IT consulting, IT services and support with a focus on high-availability network solutions — worldwide, remote and on-site, 24×7. Specialised in MikroTik and RouterOS”
+  > “IT consulting, IT services and support with a focus on high-availability network solutions — worldwide, remote and on-site, 24×7. Specialised in MikroTik and RouterOS”
+  > 来源：https://www.kehrlein.de/en/
+- **【技术与认证】**“Official MikroTik Consultant · Since 2007 / MTCNA·MTCRE·MTCWE·MTCTCE·MTCUME·MTCINE·MTCIPv6E·MTCSE·MTCSWE·MTCEWE”
+  > “Official MikroTik Consultant · Since 2007 / MTCNA·MTCRE·MTCWE·MTCTCE·MTCUME·MTCINE·MTCIPv6E·MTCSE·MTCSWE·MTCEWE”
+  > 来源：https://www.kehrlein.de/en/
+- **【决策链与对接人】**“KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > “KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://www.kehrlein.de/en/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单 |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：全证稀缺+管理线
+- **W**：个人带宽
+- **O**：HA 咨询稀缺
+- **T**：大厂咨询
 
 ## 触达与风险红线
 
@@ -174,21 +196,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Kehrlein（MikroTik,
+Hi Sandro,
 
-I came across Kehrlein（MikroTik 认证顾问） - 集成商/顾问（MikroTik 认证）.
+I found your profile - MikroTik consultant since 2007, full certification ladder including MTCSWE, and the HA/MLAG focus at kehrlein.de.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: do your client projects ever need a fresh candidate for the PoE access layer?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I ship one unit for your lab - evaluate it, break it, keep the data. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

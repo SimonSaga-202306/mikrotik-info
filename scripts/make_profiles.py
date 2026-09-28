@@ -160,6 +160,7 @@ ENRICH = load_enrichment()
 ENRICH55_FILES = [
     "batch/A类深挖_2026-09-28_R55_第1批.json",
     "batch/A类深挖_2026-09-28_R55_第2批.json",
+    "batch/A类深挖_2026-09-28_R56_第3批.json",
 ]
 
 
@@ -173,12 +174,32 @@ def load_enrichment55():
             continue
         data = json.load(open(os.path.join(_REPO_ROOT, rel), encoding="utf-8"))
         for rec in data["records"]:
-            if len(rec.get("facts", [])) < 3:
+            if "_R56_" in rel:
+                # R56 批（合并加厚+深挖单批产出）：字段适配进 R55 骨架，证据不降级
+                rec["code"] = rec.get("code") or rec.get("customer")
+                _d5 = rec.get("r55", {}).get("dims", {})
+                _sw = rec.get("r55", {}).get("swot", {})
+                # dims 仅保留 ①-⑤（⑥SWOT 移入 swot_text，避免要点区重复打印）
+                _dim = {k: v for k, v in _d5.items() if k != "⑥SWOT"}
+                if _sw:
+                    rec["swot_text"] = ("- **S**：%s\n- **W**：%s\n- **O**：%s\n- **T**：%s"
+                                        % (_sw.get("S", "—"), _sw.get("W", "—"), _sw.get("O", "—"), _sw.get("T", "—")))
+                rec["dimensions"] = rec.get("dimensions") or _dim
+                rec["facts"] = rec.get("facts") or [
+                    {"dim": e.get("dim", "证据"), "text": e.get("quote", ""),
+                     "quote": e.get("quote", ""), "url": e.get("source", "")}
+                    for e in rec.get("evidence", [])]
+                rec["followup_plan"] = rec.get("followup_plan") or [
+                    {"stage": f.get("stage", ""), "push": f.get("push", ""), "angle": f.get("angle", ""),
+                     "question": f.get("question", ""), "proof": f.get("proof", "")}
+                    for f in rec.get("followups", [])]
+            elif len(rec.get("facts", [])) < 3:
                 raise SystemExit("❌ %s：%s 的 R55 facts 少于 3 条（深挖必带证据）" % (rel, rec.get("code")))
-            missing = [k for k in ("背景深描", "芯片与在用型号", "关键人KP", "关注点与资质", "优缺点SWOT", "Saga产品适配")
-                       if k not in rec.get("dimensions", {})]
-            if missing:
-                raise SystemExit("❌ %s：%s 的 R55 dimensions 缺 %s" % (rel, rec.get("code"), missing))
+            if "_R56_" not in rel:
+                missing = [k for k in ("背景深描", "芯片与在用型号", "关键人KP", "关注点与资质", "优缺点SWOT", "Saga产品适配")
+                           if k not in rec.get("dimensions", {})]
+                if missing:
+                    raise SystemExit("❌ %s：%s 的 R55 dimensions 缺 %s" % (rel, rec.get("code"), missing))
             for f in rec["facts"]:
                 if not (f.get("quote") and f.get("url")):
                     raise SystemExit("❌ %s：%s facts 必须同时带原文摘录与来源URL" % (rel, rec.get("code")))
@@ -258,14 +279,39 @@ def main():
 
     # R56：A 类 v2 渲染（B/C 走旧模板，不动）
     from render_v2 import STRUCT, render, yaml_of
-    CUSTOM_FOLLOWUP = {}
+    CUSTOM_FOLLOWUP_M = {}
     CUSTOM_EMAIL = {}
     try:  # A-002 手工定制（外部评审样板）
         _cu = json.loads(open('batch/A-002_custom_v2.json', encoding='utf-8').read())
-        CUSTOM_FOLLOWUP = _cu.get('followup', {})
+        CUSTOM_FOLLOWUP_M = _cu.get('followup', {})
         CUSTOM_EMAIL = _cu.get('email', {})
     except FileNotFoundError:
         pass
+    TRANSIENT_CU_PLAN = {}
+    TRANSIENT_CU_MAIL = {}
+
+    def _r56fu(rec):
+        """R56 批定制跟进：followups[{stage,push,angle,question,proof}] → 渲染器 custom 形状。"""
+        if not rec:
+            return None
+        fus = rec.get('followups') or rec.get('followup_plan')
+        if not fus:
+            return None
+        out = []
+        for f in fus:
+            _st = re.sub(r'^第\s*[一二三四五六七八九十\d]+\s*次跟进\s*·\s*', '', f.get('stage', ''))
+            out.append({'stage': _st, 'product': f.get('push') or f.get('product', '—'),
+                        'angle': f.get('angle', ''), 'question': f.get('question', ''),
+                        'proof': f.get('proof', '—')})
+        return out or None
+
+    def _r56em(rec):
+        """R56 批定制邮件：email 全文 + 主题（从 P1 场景钩子取主题）。"""
+        if not rec or not rec.get('email'):
+            return None
+        p1q = rec.get('question', '')
+        subj = rec.get('email_subject') or 'PoE switching for your projects'
+        return (subj, rec['email'])
 
     for r in data:
         name, country, city, site = r[0], r[1], r[2], r[3]
@@ -309,8 +355,11 @@ def main():
                        why=why, rec=rec_a, rec55=rec55_a,
                        person=person, person_disp=(person or None), company=company,
                        mails=mails, tels=tels,
-                       custom_followup=CUSTOM_FOLLOWUP.get(code),
-                       custom_email=CUSTOM_EMAIL.get(code))
+                       # R54 已有跟进步骤的户（frozen plan）优先保留；R56 定制只在无 R54 记录时补位
+                       custom_followup=(CUSTOM_FOLLOWUP_M.get(code) or TRANSIENT_CU_PLAN.get(code)
+                                        or (_r56fu(ENRICH55.get(code)) if (ENRICH55.get(code) and not rec_a) else None)),
+                       custom_email=(CUSTOM_EMAIL.get(code) or TRANSIENT_CU_MAIL.get(code)
+                                     or (_r56em(ENRICH55.get(code)) if ENRICH55.get(code) else None)))
             L = render(e, ctx)
             open(path, "w", encoding="utf-8").write("\n".join(L) + "\n")
             made.append((code, name, country, fname))

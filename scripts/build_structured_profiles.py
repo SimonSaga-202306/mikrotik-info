@@ -120,6 +120,21 @@ OVERRIDE = {
  'A-012': {'p1': 'STC-28DGGPM', 'p1_reason': 'Cisco↔MikroTik 迁移实验室置换机'},
  'A-014': {'p1': 'STI-480XGGM', 'p1_reason': 'datasheet 级玩家：ERPS 环网自测最能建立技术信服'},
  'A-017': {'p1': 'STC-28DGGPM', 'p1_reason': 'MTCSWE 交换专向：L2+ 特性表即开场；样机 STC-28DGGPM 起步'},
+ # ── R56 批 3（A-021..A-030 深挖 2026-09-28）：邮件价格锚点 = P1 型号单价 ──
+ 'A-021': {'p1': 'STC-424DGGPM-280W', 'p1_reason': '克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$165 邮件锚点一致）'},
+ 'A-022': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': '希腊 MikroTik 培训中心（HellasCom 集团）：教具实验架红线内；同集团采购合并触达，主商务窗在 A-024'},
+ 'A-023': {'p1': 'STC-28DGGPM', 'p1_reason': 'GTA 站点休眠、现职 e-dreams 智能楼宇分销：酒店 KNX/IP 混接 8 口盒（按现职开场，不炒 GTA 旧故事）'},
+ 'A-024': {'needs': {'hotel': True, 'voice': True}, 'p1': 'STC-424DGGPM-280W',
+           'p1_reason': 'HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线'},
+ 'A-025': {'p1': 'STC-28DGGPM', 'p1_reason': 'IME 软件商交叉销售（imeFoodService 门店）：餐饮一盒网络 8 口 PoE；ΔΕΥΑ 水务市政段规避'},
+ 'A-026': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'DECOIT vendor-neutral 科研型：datasheet/SNMP 透明先行，Voice VLAN 对齐其 Asterisk 线'},
+ 'A-027': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'MBN 塔站密封柜夏天高温：工业温宽 PoE 钉住缺口（$74.8 邮件锚点一致）；EU 补贴市政段走合规'},
+ 'A-028': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SKYTRON 活动/市政 WLAN+监控：24 口 PoE 一台到位+10G 回传（Event 峰值问题开场）'},
+ 'A-029': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单'},
+ 'A-030': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'Linux-Schmie 2027 新增 MTCSWE 课=教具采购窗（STP/VLAN 实验架），师者红线内'},
 }
 
 out = {}

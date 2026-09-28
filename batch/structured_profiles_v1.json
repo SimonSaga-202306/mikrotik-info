@@ -870,11 +870,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "el",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$165 邮件锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -914,7 +914,7 @@
   ],
   "lang": "el",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "希腊 MikroTik 培训中心（HellasCom 集团）：教具实验架红线内；同集团采购合并触达，主商务窗在 A-024",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -955,7 +955,7 @@
   "risk_flags": [],
   "lang": "el",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "GTA 站点休眠、现职 e-dreams 智能楼宇分销：酒店 KNX/IP 混接 8 口盒（按现职开场，不炒 GTA 旧故事）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -986,7 +986,7 @@
    "l2plus": false,
    "voice": true,
    "oem": false,
-   "hotel": false,
+   "hotel": true,
    "training": true,
    "subscription": false
   },
@@ -997,11 +997,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "el",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
-  "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线",
+  "first_question": "Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -1039,7 +1039,7 @@
   "risk_flags": [],
   "lang": "el",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "IME 软件商交叉销售（imeFoodService 门店）：餐饮一盒网络 8 口 PoE；ΔΕΥΑ 水务市政段规避",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -1079,11 +1079,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "DECOIT vendor-neutral 科研型：datasheet/SNMP 透明先行，Voice VLAN 对齐其 Asterisk 线",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -1121,7 +1121,7 @@
   "risk_flags": [],
   "lang": "de",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "MBN 塔站密封柜夏天高温：工业温宽 PoE 钉住缺口（$74.8 邮件锚点一致）；EU 补贴市政段走合规",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -1161,12 +1161,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "SKYTRON 活动/市政 WLAN+监控：24 口 PoE 一台到位+10G 回传（Event 峰值问题开场）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -1202,11 +1202,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -1246,7 +1246,7 @@
   ],
   "lang": "de",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Linux-Schmie 2027 新增 MTCSWE 课=教具采购窗（STP/VLAN 实验架），师者红线内",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — GTA 站点休眠、现职 e-dreams 智能楼宇分销：酒店 KNX/IP 混接 8 口盒（按现职开场，不炒 GTA 旧故事）；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -122,11 +122,33 @@ updated: 2026-09-28
   > ★ 自述场景「controls running on the network，你需要为你的建筑提供稳定的承载网」→ 楼宇自动化/弱电集成方向（CSV 备注）
   > 来源：https://gta.gr/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：GTA 休眠（2010 止业务）；现职 e-dreams 经理（LinkedIn）；个人顾问技能线 MTCNA/MTCRE/MTCSE
+- **②芯片/型号**：KNX 体系（非交换机）；IP 侧品牌未公开
+- **③KP 深挖**：Tatsis 本人单一入口；gta.gr MX=O365 存活
+- **④Saga 对标**：酒店 KNX/IP 混接 8 口 PoE 盒 STC-28DGGPM
+- **⑤在乎与偏好**：分销价格敏感；懂行对话（KNX 术语）加分
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Manager e-dreams Apr 2010 - Present…Distribution and support of electrical/electronic devices for smart buildings”/“GTA Systems integrator Mar 2000 - Apr 2010…building controls projects with KNX…hotels”
+  > “Manager e-dreams Apr 2010 - Present…Distribution and support of electrical/electronic devices for smart buildings”/“GTA Systems integrator Mar 2000 - Apr 2010…building controls projects with KNX…hotels”
+  > 来源：https://www.linkedin.com/in/georgetatsis/
+- **【近期动态与线索】**gta.gr 仅存“GTA – Buildings for people”默认 WP 站+联系表单
+  > gta.gr 仅存“GTA – Buildings for people”默认 WP 站+联系表单
+  > 来源：https://gta.gr/
+- **【技术与认证】**MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
+  > MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
+  > 来源：https://mikrotik.com/consultants
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | GTA 站点休眠、现职 e-dreams 智能楼宇分销：酒店 KNX/IP 混接 8 口盒（按现职开场，不炒 GTA 旧故事） |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -135,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：单人快速决策
+- **W**：非专职采购
+- **O**：存量酒店 KNX IP 化
+- **T**：分销多品牌既有线
 
 ## 触达与风险红线
 
@@ -172,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi George,
 
-I came across GTA - 集成商/顾问（MikroTik 认证）.
+I found you through the MikroTik consultant list - and saw on LinkedIn you now run e-dreams, after the GTA years on KNX building controls. Solid track.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build an 8-port managed Gigabit PoE switch designed for exactly the mixed KNX/IP + CCTV corners of hotel projects. Reference: $99 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your hotel KNX projects today, which channel supplies the IP access-layer switches?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

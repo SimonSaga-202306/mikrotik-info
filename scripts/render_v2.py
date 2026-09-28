@@ -134,7 +134,7 @@ def render(e, ctx):
     # ---- SALES BRIEF ----
     w('## SALES BRIEF（压缩模型）')
     w('')
-    _bg = ctx['rec55']['dimensions']['背景深描'] if ctx['rec55'] else None
+    _bg = ctx['rec55']['dimensions'].get('背景深描') if ctx['rec55'] else None
     biz_one = (_bg.split('。')[0] + '。') if _bg and '。' in _bg[:130] else ((_bg[:110] + '…') if _bg else e['biz_org'] + '；' + e['business_model'])
     w('- **是谁**：%s' % biz_one)
     w('- **商业模式**：%s' % e['business_model'])
@@ -175,7 +175,7 @@ def render(e, ctx):
     # ---- 技术与在用 ----
     w('## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）')
     w('')
-    if ctx['rec55']:
+    if ctx['rec55'] and ctx['rec55']['dimensions'].get('芯片与在用型号'):
         w(ctx['rec55']['dimensions']['芯片与在用型号'])
     else:
         w('（待深挖批覆盖；当前仅有 CSV 名录口径：%s）' % ctx['signal'][:120])
@@ -257,7 +257,7 @@ def render(e, ctx):
     if steps:
         for i, st in enumerate(steps, 1):
             if custom:
-                w('### 第 %d 次 · %s' % (i, st['stage']))
+                w('### 第 %d 次跟进 · %s' % (i, st['stage']))
                 w('')
                 w('- **推什么**：%s（统一口径=P1 系列，不外溢）' % st['product'])
                 w('- **切入点**：%s' % st['angle'])
@@ -352,8 +352,11 @@ def render(e, ctx):
     # ---- SWOT ----
     w('## SWOT')
     w('')
-    if ctx['rec55']:
-        w(ctx['rec55']['dimensions']['优缺点SWOT'])
+    _swt = (ctx['rec55']['dimensions'].get('优缺点SWOT') or ctx['rec55'].get('swot_text')) if ctx['rec55'] else None
+    if _swt:
+        w(_swt)
+    elif ctx['rec55']:
+        w('- **S**：%s' % ctx['why'])
     else:
         w('- **S**：%s' % ctx['why'])
         w('- **W**：%s' % ('；'.join(e['risk_flags']) if e['risk_flags'] else '公开信息有限'))
