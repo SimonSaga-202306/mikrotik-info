@@ -129,6 +129,22 @@ updated: 2026-09-28
   > 邮箱来自第三方 Cylex，官网首页已抓并核对 Wiehl 电话及负责人 Wolfgang Deibel；官网未显示明文邮箱，不算官网确认（CSV 2026-09-27 记录）
   > 来源：https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：IT+KT 宽带店（监控/门禁随单），业主具名，性价比文化
+- **②芯片/型号**：未明示
+- **③KP 深挖**：info@+Wolfgang 具名
+- **④Saga 对标**：随单柜 value 件
+- **⑤在乎与偏好**：性价比
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Kommunikationstechnik: Zutrittskontrollsysteme, Videoüberwachungssysteme, Alarmanlagen…ohne auf Zuverlässigkeit und ein optimales Preis-Leistungs-Verhältnis verzichten zu müssen”
+  > “Kommunikationstechnik: Zutrittskontrollsysteme, Videoüberwachungssysteme, Alarmanlagen…ohne auf Zuverlässigkeit und ein optimales Preis-Leistungs-Verhältnis verzichten zu müssen”
+  > 来源：https://www.my-itservice.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -142,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：决断
+- **W**：体量
+- **O**：随单
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -179,21 +195,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi my,
+Hi Wolfgang,
 
-I came across my ITService Wolfgang Deibe - 集成商/代理（Allied Telesis）.
+Your communications technology list reads like ours: access control, video surveillance, alarms - all of it powered by PoE, all of it judged by price-performance. Your own website promises exactly that.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, hardware watchdog for frozen cameras) with full documentation. Reference: $165 USD EXW - the value line your "Preis-Leistung" promise was written for.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your surveillance and access-control projects, which switch brand powers the PoE endpoints today - and would a stronger value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

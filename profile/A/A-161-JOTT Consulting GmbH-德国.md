@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Service: Beraten · Planen · Umsetzen · Instand halten ‖ Was ist uns in der Zusammenarbeit wichtig? Nähe zum Kunden · Partnerschaftlich · Wertschätzend
   > 来源：https://www.jott.consulting/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：科隆 SMB 可信服务商（网络首块+合规线，Klaus 具名）
+- **②芯片/型号**：未明示
+- **③KP 深挖**：info@+Klaus 具名
+- **④Saga 对标**：SMB 随单接入件
+- **⑤在乎与偏好**：信任文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Unsere Experten kümmern sich darum, dass Ihre Server und Netzwerke reibungslos laufen（Kernkompetenz 首块）…ohne geschäftlichen Eigennutz”
+  > “Unsere Experten kümmern sich darum, dass Ihre Server und Netzwerke reibungslos laufen（Kernkompetenz 首块）…ohne geschäftlichen Eigennutz”
+  > 来源：https://www.jott.consulting/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：文化
+- **W**：体量
+- **O**：随单
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi JOTT,
+Hi Klaus,
 
-I came across JOTT Consulting GmbH - 集成商/代理（Allied Telesis）.
+JOTT runs on something rare in this trade: customers who trust a recommendation without suspecting commercial self-interest. That is the kind of table I want our hardware to deserve a place on.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, hardware watchdog) with complete CE documentation. Reference: $165 USD EXW - an honest value line for the networks behind your Cologne SMB clients.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your Server-&-Networks projects, which switch brand do you put behind the access layer today - and would a documented value alternative be worth one bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack - you verify, and only recommend what survives the test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

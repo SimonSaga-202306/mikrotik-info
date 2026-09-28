@@ -302,6 +302,17 @@ OVERRIDE = {
  'A-158': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Inducio NOC 专家：Allied 实版+KRITIS 守界，私营机械工程段窄位（$165 锚点一致）'},
  'A-159': {'p1': 'STC-28DGGPM', 'p1_reason': 'Insight 德国：全球超大目录 VAR 规模排除纪律建档不出信'},
  'A-160': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ISIMKO 科特布斯 120 人：工业布线专精私营段（$165 锚点一致）；行政/医疗守界'},
+ # ── R56 批 17（A-161..A-170 深挖 2026-09-28）──
+ 'A-161': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'JOTT 科隆可信 SMB：网络首块随单 value 件（$165 锚点一致）；Klaus 具名'},
+ 'A-162': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'KWS SMB 全栈：Switching/Routing 能力块直通（$165 锚点一致）'},
+ 'A-163': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'M-IT 东南巴伐利亚 MSP：KMU 段（$165 锚点一致）；学校/Behörde 守界'},
+ 'A-164': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'm² 双场景：厂房固定+活动临时 value 位（$165 锚点一致）；业主直决'},
+ 'A-165': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'MECO ISO27001 屋：合规随单 value 件（$165 锚点一致）'},
+ 'A-166': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'M. Schmidt Erlangen 安全屋：私营工业段（$165 锚点一致）；公共守界'},
+ 'A-167': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'my-ITService 宽带店：监控/门禁随单（$165 锚点一致）；Wolfgang 具名'},
+ 'A-168': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'N+P 萨克森 200 人：工厂/楼宇接入层（$165 锚点一致）；Hertwig 具名'},
+ 'A-169': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Netz16 accompio 集团过渡期：本地随单+集团准入双路（$165 锚点一致）'},
+ 'A-170': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'NiTo 电商商：Allied 独牌实版旁 value 上架位（$165 锚点一致）；einkauf@ 采购口'},
 }
 
 out = {}

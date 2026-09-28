@@ -125,6 +125,22 @@ updated: 2026-09-28
   > 邮箱为反向文本夹杂时间戳；第三方企业库及企业杂志明确列出完整邮箱，按第三方公开待核记录。官网当前法人为 GmbH，旧库为 GmbH & Co. KG，名称变化留待核实，不合并或改编号（CSV 2026-09-27 记录）
   > 来源：https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/1203534
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Boppard ISO27001 系统屋（合规/备份主权）
+- **②芯片/型号**：未明示
+- **③KP 深挖**：info@
+- **④Saga 对标**：合规随单 value 件
+- **⑤在乎与偏好**：审查级文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
+  > “ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
+  > 来源：https://www.meco.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：合规
+- **W**：审查
+- **O**：随单
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi MECO,
+Hi MECO team,
 
-I came across MECO Systemhaus GmbH & Co. KG - 集成商/代理（Allied Telesis）.
+ISO 27001 certification and backups on German soil - your house runs on documented, auditable trust. Any component you add to a client project has to survive the same scrutiny.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete CE and test dossier, ready for supplier review. Reference: $165 USD EXW - a documented value line for the access layer inside your managed projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your managed projects, which switch brand occupies the access layer today - and would a fully documented value alternative pass your supplier review?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit plus the complete documentation pack for assessment. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
