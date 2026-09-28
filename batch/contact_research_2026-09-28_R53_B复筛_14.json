@@ -1,0 +1,174 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第14批（SE/FR/PL 行）。判据同前。",
+ "records": [
+  {
+   "code": "B-251",
+   "decision": "hold-B",
+   "site": "redvi.se",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛14】官网核对：Redvise 自述 **MikroTik Certified Trainer and Reseller**（授权经销商+认证讲师）与 3CX 伙伴，提供 IT 咨询/培训并可出售预配置设备，但站点无产品目录与交换机品类 → 服务/培训为主，维持B并标注（如需可从 MikroTik 授权经销商切入）。",
+   "quote": "Solutions IT Sans chichis ! Certifié en Mikrotik et en système téléphonique VoIP 3CX, Redvise propose des services de conseil IT, de formation et du matériel；MikroTik: Nous sommes formateurs certifiés MikroTik, Revendeurs Agréés et Experts…nous pouvons vous aider ou vous vendre des appareils pré-configurés",
+   "sources": [
+    [
+     1,
+     "https://www.redvi.se/"
+    ]
+   ]
+  },
+  {
+   "code": "B-252",
+   "decision": "hold-B",
+   "site": "sewan.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Sewan 为面向企业的 Cloud/电信白标运营商生态（Sophia 平台、语音与协作、Internet/网络、SD-WAN、云、网络安全），面向集成商/DSI 渠道 → 运营商/服务商，无硬件分销目录 → 维持B。",
+   "quote": "Sewan : l'écosystème Cloud et Télécoms pour les entreprises；Solutions: Voix et Collaboration／Internet et Réseaux（Accès Internet, SD-WAN, Sécurité et réseau）／Services Cloud／Cybersécurité；Marque blanche pour Intégrateurs",
+   "sources": [
+    [
+     1,
+     "https://www.sewan.fr/fr-fr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-254",
+   "decision": "hold-B",
+   "site": "vodenn.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：VODENN SAS（法国）自述「Expert français en solutions radio…»，**自研自造** 60GHz/70-80GHz/24GHz 无线电传输、视频防护、自主能源与网络监控服务器，面向集成商/经销商 → 制造商/方案商，非交换机分销 → 维持B。",
+   "quote": "VODENN — Expert français en solutions radio et solutions de vidéoprotection；Vodenn conçoit et fabrique en France des systèmes de transmission radio haut débit, des bornes de vidéoprotection, des solutions d'énergie autonome et des serveurs de supervision réseau；Revendeurs: Distributeurs et Intégrateurs",
+   "sources": [
+    [
+     1,
+     "https://vodenn.fr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-255",
+   "decision": "promote",
+   "site": "alfaextranet.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Alfa Extranet（Częstochowa，波兰）自述为 **«specjalistyczna hurtownia teleinformatyczna»（专业电信信息批发商）**，经营范围明确含 **«ethernetowe przełączniki sieciowe»（以太网交换机）** 与 LAN/WLAN 组网、光纤器件、安装工具；品牌 **MikroTik／Ubiquiti／TP-Link／Fiberfox／D-Link／Huawei**，在售 MikroTik NetBox 5 ax、hAP be lite、optoFIB SFP 等 → 交换机品类+网络专营批发 → 人工定级升A。",
+   "quote": "Teleinformatyka, sklep i hurtownia - Częstochowa - Alfa Extranet；W naszej ofercie znajduje się wysokiej klasy sprzęt niezbędny do stworzenia sieci lokalnej LAN/WLAN, ethernetowe przełączniki sieciowe oraz artykuły z szeroko rozumianej techniki światłowodowej；producentów takich jak Mikrotik, Ubiquiti, TP-Link, Fiberfox",
+   "sources": [
+    [
+     1,
+     "https://alfaextranet.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-525",
+   "decision": "promote",
+   "site": "atel.com.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Atel Electronics（波兰，import i dystrybucja）为工业网络与电信器件分销商，**合作伙伴 ORing Industrial Networking（Sieci Przemysłowe）与 EN50155 铁路标准专区**；新品含 **ORing IGS-3084GP-LA 管理型交换机（8×10/100/1000 RJ-45 + 4×SFP/RJ-45, O/Open-Ring <30ms, 1 750 zł）**，另有 SFP/QSFP、VUTLAN 机房监控、WaveKVM、光纤跳线 → 交换机产品+工业网络专营 → 人工定级升A。",
+   "quote": "Atel Electronics - Import i dystrybucja（dostarczamy nowoczesne technologie）；Sieci Przemysłowe - ORing Industrial Networking；Urządzenia zgodne z normą kolejową EN50155；ORing IGS-3084GP-LA, Switch zarządzalny, 8x 10/1000 RJ-45 + 4 sloty SFP / RJ-45, O/Open-Ring <30ms — 1 750,00 PLN；SFP, SFP+, SFP28, QSFP+",
+   "sources": [
+    [
+     1,
+     "https://www.atel.com.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-258",
+   "decision": "promote",
+   "site": "batna24.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Batna24（波兰，2001 年起）自述 **«Leader in the network equipment trade»**，UniFi Enterprise Partner Program 成员；**Switches 类目在售 Ubiquiti USW-Pro-XG-8-PoE（L3, 8×10GbE PoE, 155W）、USW-Pro-XG-24-PoE（16×10GbE+8×2.5GbE+2×SFP28, 720W）、USW-WAN、USW-Flex-2.5G-8** 等；品牌 Ubiquiti／MikroTik／Teltonika／Mimosa → 交换机品类+网络设备专营 → 人工定级升A。",
+   "quote": "Batna24.com | Network equipment store；Leader in the network equipment trade — Batna24 is a company with over 20 years of experience…specializing in delivering high-quality networking equipment…Since 2001；UniFi Enterprise Partner Program；Switches: Ubiquiti USW-Pro-XG-8-PoE Switch Etherlighting 8x RJ45 10GbE PoE 2x SFP+ 155W Layer 3 — 2,448.45 zł",
+   "sources": [
+    [
+     1,
+     "https://www.batna24.com/gb/"
+    ]
+   ]
+  },
+  {
+   "code": "B-259",
+   "decision": "promote",
+   "site": "cdr.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：CDR.pl 自述 **«Dystrybutor dla operatorów internetowych»（面向互联网运营商的分销商）— MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie**；类目树含 **Switche (359 件)** 与 Światłowody (1590)、MikroTik (310)、Ubiquiti (931)、Mediakonwertery、Zasilanie；厂商计数 Mikrotik 567／Ubiquiti 1105／TP-Link 816／Solarix 202 → ISP 渠道交换机品类+网络专营 → 人工定级升A。",
+   "quote": "CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie；Kategorie: Switche (359)／MikroTik (310)／Ubiquiti (931)／Światłowody (1590)／Mediakonwertery (33)／Zasilanie (346)；Producent: Mikrotik (567), Ubiquiti Networks (1105), TP-Link (816)",
+   "sources": [
+    [
+     1,
+     "https://cdr.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-526",
+   "decision": "promote",
+   "site": "cyberbajt.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Cyberbajt（波兰）自述 **«Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring»**；LAN 部门说明 **«W ofercie znajdują się przełączniki, okablowanie, urządzenia VoIP, karty sieciowe, obudowy»（报价含交换机、布线、VoIP、网卡、机箱）**，部门含 Urządzenia/WLAN/LAN/Światłowody/Zasilanie/Maszty；有专人技术邮箱 m.blaszczyk@cyberbajt.pl → 交换机品类+网络/WISP 专营+直接联系人 → 人工定级升A。",
+   "quote": "Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring；Działy: Urządzenia／WLAN／LAN／Światłowody／Zasilanie／Maszty／Monitoring；LAN: Zapraszamy do zapoznania się z całą gamą rozwiązań dedykowanych do integracji sieci LAN. W ofercie znajdują się przełączniki, okablowanie, urządzenia VoIP, karty sieciowe, obudowy…（Michał Błaszczyk, m.blaszczyk@cyberbajt.pl）",
+   "sources": [
+    [
+     1,
+     "https://www.cyberbajt.pl/dzial/3/"
+    ]
+   ]
+  },
+  {
+   "code": "B-262",
+   "decision": "promote",
+   "site": "fiberm.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Fiberm（波兰，B2B 注册价、16:00 前下单当日发货）为电信/光纤基础设施与 LAN 分销商；**「Sieci LAN」板块含 Switche 类目** 与 Routery、Szafy RACK、Kable LAN，另供 GPON/EPON/XGS-PON、光缆、SFP 模块、微管；新品含 **MikroTik CRS304-4XG-IN switch（4×10GE + 1×GE, PoE IN）**，代理 TP-Link/Omada、Moxa → 交换机品类+网络基础设施专营 → 人工定级升A。",
+   "quote": "Fiberm（B2B；Zamówienia złożone do godziny 16:00 realizujemy tego samego dnia）；Sieci LAN: Szafy RACK／Kable LAN／Narzędzia／Routery／Switche（piktogram switch）；Światłowody: GPON, EPON, XGSPON／Moduły SFP i SFP+；Nowości: MikroTik CRS304-4XG-IN switch 4x 10GE, 1x 1GE, PoE IN",
+   "sources": [
+    [
+     1,
+     "https://fiberm.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-263",
+   "decision": "hold-B",
+   "site": "fyr-systems.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：FYR-SYSTEMS（波兰）为 IT 系统集成商（HCI/VDI/HPC、Dell VxRail、IBM LinuxONE、Backup/Archiwizacja），NETWORKING 板块提供 **Dell/Juniper/Extreme Networks 交换机**用于 SAN 组网 → 企业级数据中心集成，非网络专营分销 → 维持B。",
+   "quote": "Usługi informatyczne i obsługa IT firm FYR-SYSTEMS；HCI, VDI, HPC, Serwery, Backup, Archiwizacja - w tym się specjalizujemy；NETWORKING: Oferujemy przełączniki i inne urządzenia sieciowe od renomowanych producentów (Dell, Juniper, Extreme Networks), które służą m.in. do budowy sieci SAN",
+   "sources": [
+    [
+     1,
+     "https://fyr-systems.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-266",
+   "decision": "promote",
+   "site": "wirelesslan.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：WIRELESSLAN.COM.PL（Konsorcjum ATS，波兰）自述 **«centrum sieci bezprzewodowych»**；类目含 Access Pointy、Anteny、**Automatyka i Przemysł → Switche（produkty,421）**、Media konwertery、Kontrolery sieciowe、Karty sieciowe、Refurbished 商品；支持邮箱 support@wirelesslan.com.pl → 交换机品类+无线网络专营 → 人工定级升A。",
+   "quote": "WIRELESSLAN.COM.PL centrum sieci bezprzewodowych；Automatyka i Przemysł: Akcesoria／Lokalizatory GPS／Media konwertery／Modemy / Routery／Switche；Access Pointy；Kontrolery sieciowe；Towary refurbished；support@wirelesslan.com.pl",
+   "sources": [
+    [
+     1,
+     "https://www.wirelesslan.com.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-269",
+   "decision": "hold-B",
+   "site": "maslak.waw.pl",
+   "level": "individual",
+   "note": "【2026-09-28 R53 B段复筛14】官网核对：Piotr Maślak（个人，波兰）为 MikroTik 认证工程师/培训页面（MTCRE、MTCNA、Docker/Kubernetes 课程），无公司销售或产品目录 → 个人技术与培训，维持B。",
+   "quote": "Piotr Maślak；MikroTik Certified Routing Engineer (MTCRE)…The MTCRE training focuses on routing protocols (e.g., OSPF, BGP)；MTCNA certificate confirms knowledge of most of the functionalities of MikroTik devices and RouterOS",
+   "sources": [
+    [
+     1,
+     "https://maslak.waw.pl/?lang=en"
+    ]
+   ]
+  }
+ ]
+}
