@@ -115,7 +115,43 @@ PoE 供 AP / 摄像头 / 门禁、按楼栋或按班级 VLAN 隔离、组播、�
 - **要问的问题**：接入层要不要做环网冗余？他现在的冗余方案是什么？
 - **随附证明**：ERPS 切换实测 + VLAN 模板 + 招标参数条目（可直接引用）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Alain Casault, B.Ing.**（魁北克法语区，Sainte-Thérèse/Prévost 带），个体咨询公司「Télécommunications Alain Casault」=**MikroTik 官方培训+电信顾问**。履历亮点（ZoomInfo 工商画像）：**2018–2024 任 CSPE（魁北克校长联合会）信息技术副总裁**、**2023–2024 持 MikroTik Certified Trainer**。自有域 **alaincasault.com**（MX 今日核验有效：自建 mail.alaincasault.com）。⚠️ 原备案 educationhmo.com **域名已被改指到无关博客**（hex在他之前的教育系统项目域失活），但 MX 仍挂 MS365——旧邮箱 infra 未注销，按「遗产通道」处理。
+- **芯片与在用型号**：培训+规划型顾问：课程覆盖 wired/wireless 网络规划与配置、远程接入、存储；设备层 MikroTik RouterOS 全线。他 2018–2024 管过整个校长联合会的 IT——魁北克**教育网**人脉与采购语境深（校园 VLAN/PoE 场景词汇他全懂）。出货量：不适用（顾问不囤货），但其学员=魁省 ISP/学校网络操作者，是**影响力出货通道**。
+- **关键人KP**：**Alain Casault 本人**（业主&顾问&讲师，B.Ing. 工程师衔）。联系：电话 **1-514-394-0419**（多源一致）；邮箱既有 **casault.alain@educationhmo.com**（遗产通道，MX 活）；**模式猜测 alain@alaincasault.com / contact@alaincasault.com——自有域 MX 自建存活，首试 alain@（未验证）**。LinkedIn 未见公开档案（魁省法语老派咨询师常态）。
+- **关注点与资质**：①**动手实操** ：其公司介绍强调 hands-on training over self-study——寄样机比寄彩页有效 10 倍；②教育网络合规与长线稳定（他卖 CSPE 时代就处理的议题）；③法语区沟通：首封英文信末尾附一句法语问候可显著提回复率（Montréal 地区商务惯例）。无参展记录；B.Ing.=魁北克工程师学会会员语境。
+- **优缺点SWOT**：**S**：教育 IT 决策层 6 年 VP 履历+MikroTik 官方讲师背书=魁省教育/ISP 圈的**枢纽型个人**；培训班是天然带货位。**W**：一人公司、无库存能力、出货要经学员转手；公开数字足迹老旧（ZoomInfo 画像+失效域）。**O**：魁省学校网改造=L2+ Voice VLAN/VLAN-per-class 强需求；他的学员名录=间接渠道。**T**：直销链路长（顾问→学员→项目）；教育公立段如有招标资质要求需规避（只做私营/分包层）。
+- **Saga产品适配**：讲师教学机：**STC-424DGGPM-280W**（EXW $165）让学员亲手摸 L2+ CLI（Marvell 同源叙事）；校园底盒 **STC-424XGGM**（EXW $143，VLAN-per-class+QinQ）；机架小柜 **STC-448DGGM**（EXW $220）。话术：「培训教学机批量价+出厂预刷教学配置」（对口他 hands-on 卖点）。⚠️ 公立招标段不破例，只走私营学校/ISP 学员层。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Alain Casault | 业主/首席顾问/MikroTik 认证讲师（前 CSPE IT 副总裁） | 1-514-394-0419；casault.alain@educationhmo.com（遗产） | 电话多源一致；遗产邮箱 MX（MS365）今日核验仍解析 | https://www.zoominfo.com/p/Alain-Casault/5130311306 ・ dns://educationhmo.com/MX 2026-09-28 本机核验 |
+| —（模式猜测） | 自有域邮箱 | alain@alaincasault.com；备选 contact@alaincasault.com | 模式猜测 · 未验证（自有域 MX 自建存活，首试优先级高） | dns://alaincasault.com/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【现职】**自营 MikroTik 培训+电信顾问公司。
+  > Télécommunications Alain Casault specializes in providing MikroTik training and telecommunications consulting services.
+  > 来源：https://www.zoominfo.com/c/alain-casault/532760382
+- **【履历】**曾任 CSPE 信息技术副总裁（2018–2024）并任 MikroTik 认证讲师。
+  > Previously, Alain was a Vice President, Information Technology at Cspe and also held positions at Mikrotik.
+  > 来源：https://www.zoominfo.com/p/Alain-Casault/5130311306
+- **【自有域】**个人官网域 alaincasault.com 在册，电话与 CSV 一致。
+  > Phone number: (514) 394-0419 Website: www.alaincasault.com
+  > 来源：https://www.zoominfo.com/pic/alain-casault/532760382
+- **【遗产域失活】**educationhmo.com 已改指到无关法语博客，仅 MX 残存。
+  > Hélène Marcil – Orthopédagogue – Une aide à votre portée
+  > 来源：https://educationhmo.com/
+- **【教学理念】**强调动手实操优于自学——样机策略成立。
+  > The company emphasizes the importance of hands-on training over self-study methods.
+  > 来源：https://www.zoominfo.com/c/alain-casault/532760382
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -126,7 +162,7 @@ PoE 供 AP / 摄像头 / 门禁、按楼栋或按班级 VLAN 隔离、组播、�
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE access switching for campus / school builds
 
@@ -151,7 +187,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

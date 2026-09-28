@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `7c0427aa2c34` | 2026-09-28T10:27:29+00:00 | R55 Saga全局替换: 三份价格表入库+目录对照文档+全库SmartByte→Saga迁移(CSV/strategy/17批JSON/两份xlsx)+审计与测试归一化 28/28 |
 | `f8bcf9cb4c96` | 2026-09-28T10:01:17+00:00 | Saga price lists (user upload via main c377aaf): Marvell commercial managed xls + industrial managed PDF + industrial unmanaged xls |
 | `b8d4706942a9` | 2026-09-28T09:50:19+00:00 | R54 第17批: A-321–A-340 加厚+3步跟进 (200 dims, 59 quoted facts, 20 plans) |
 | `d99d8140222c` | 2026-09-28T09:31:18+00:00 | R54 第16批 A-301–A-320：A类加厚+3步跟进（20户/58条原文证据；Allied系15户分轨-GCI维保备件/Atlantik design-in/ITNI电话先行/Quadratek军段划出；A-319秘鲁待裁决） |

@@ -121,7 +121,40 @@
 - **要问的问题**：他希不希望所有站点的交换机用同一套配置模板交付？
 - **随附证明**：配置模板 + ERPS 实测 + MIB/自动化脚本示例。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Magenta Networks Inc.**，加拿大 Scarborough（多伦多东），小型 **MSP**：网络管理/服务台/咨询/网络安全/备份/云六条服务线。官网活体指标：**19 个在管站点、5 个在建项目、310 个端点**。行业覆盖 SMB/零售/医疗（合规商业段）/制造/酒店/金融。域名双持 magentanetworks.ca（站）+magentanetworks.net（邮箱域），MX 均 Google。
+- **芯片与在用型号**：MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是第二供应商的土壤。端点构成未公开；310 端点按 SMB 均值含 ~20–40 台接入交换存量。客户反馈：未见公开评价页（站体为模板站，案例区缺）。芯片向：未见自有硬件偏好，MikroTik 认证顾问输出（CSV 载 Amir Seifi 持 MTCNA 等）→ 路由/交换以 MikroTik 系为主推定。
+- **关键人KP**：**Amir Seifi**（推定负责人；其 MikroTik 认证名录行=CSV 源头）。邮箱公开双通道 **info@ / ops@magentanetworks.net**（contact 页「General Inquiries」「Operations & Sales」分工明示）+ 既有 support@ + 电话 +1-647-812-5170。模式猜测 **amir@ / aseifi@magentanetworks.net**（未验证）。LinkedIn 检索无确认命中（同名他行业者干扰，已如实排除）。
+- **关注点与资质**：①服务化定价/工单化交付（helpdesk 叙述浓）；②多行业合规敏感（医疗/金融写入行业页——**只谈商用 IT 段，不碰患者数据/金融核心系统**）；③「cutting-edge tools」自我要求=愿意试新供应商样机；④营业时间 Mon–Fri 9–6。参展/社媒未见。
+- **优缺点SWOT**：**S**：MSP 粘性强（19 站包年）→ 设备采购是持续流而非单笔；双邮箱分工=有人读采购邮件。**W**：体量小（310 端点）、模板站、无案例与团队页、LinkedIn 缺席→采购预算天花板低。**O**：制造/酒店/零售三线都是 PoE 密集业态；MSP 转售毛利诉求强 → Saga 半价带正中。**T**：Toronto 圈 MSP 密集（价格战区）；无差别开发信打开率低——要用「19 站点/310 端点」这种他自己公布的数字做开场以证明看过站。
+- **Saga产品适配**：主梯 **STC-424DGGPM-280W**（EXW $165，SMB 站点标配）；酒店/零售小柜 **STC-28DGGPM**（EXW $99）；制造客户车间 **STI-080GE**（EXW $55 非管理）/ **STI-288GP**（EXW $74.8 PoE，3 年保）+ **STI-111GP** 光纤收发（EXW $36.3）。话术：「Toronto 仓可议/DHL 5–7 天出厂，先送一台进你 19 站之一做 30 天」。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Amir Seifi | 负责人（推定；MikroTik 认证名录持证人） | info@magentanetworks.net；ops@magentanetworks.net；support@magentanetworks.net；+1-647-812-5170 | 双职能邮箱官网公开；MX 已验（Google）；LinkedIn 未确认 | https://magentanetworks.ca/contact |
+| —（模式猜测） | — | amir@magentanetworks.net；aseifi@magentanetworks.net | 模式猜测 · 未验证 | dns://magentanetworks.net/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【业务定位】**全栈 MSP：主动监控到全委托管理。
+  > IT Solutions for any business. Delivering comprehensive IT solutions, from proactive monitoring to full-spectrum management.
+  > 来源：https://magentanetworks.ca/
+- **【经营规模】**19 在管站点、5 在建项目、310 端点（官网自述）。
+  > 19 Active sites 5 ongoing projects 310 endpoints
+  > 来源：https://magentanetworks.ca/
+- **【行业覆盖】**SMB/零售/医疗/制造/酒店/金融六行业页。
+  > SMBs … Retail … Healthcare … Manufacturing … Hospitality … Financial Industry
+  > 来源：https://magentanetworks.ca/
+- **【KP 通道】**info@ 与 ops@ 分职能公开，联系电话一致。
+  > General Inquiries: info@magentanetworks.net … Operations & Sales: ops@magentanetworks.net … +1-647-812-5170
+  > 来源：https://magentanetworks.ca/contact
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -132,7 +165,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：L3 hardware offload + QinQ on access switching
 
@@ -157,7 +190,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

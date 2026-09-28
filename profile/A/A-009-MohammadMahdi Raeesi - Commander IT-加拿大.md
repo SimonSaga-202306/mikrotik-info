@@ -119,7 +119,40 @@
 - **要问的问题**：他愿不愿意把有线模板与无线模板一起标准化？
 - **随附证明**：VLAN 模板 + MIB/SNMP 清单 + ERPS 实测。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/Helpdesk/Managed IT/Backup/**VoIP Solutions**/Virtualization/Cloud/Remote Work，口号「Expert MikroTik solutions」。© 2019 起运营；2024 年做了一波 AI 生成 logo 的品牌刷新。营业 7 天 9–18=个体户节奏。
+- **芯片与在用型号**：自我标榜 MikroTik 专家站（RouterBOARD/CRS 语境），MSP 多技术栈。VoIP 方案在售=**Voice VLAN+QoS 是他的交付日常**——Saga L2+ 系独占 Voice VLAN（L3 系没有，推介不可张冠李戴）。出货量：未公开。客户反馈：站无案例区。
+- **关键人KP**：**MohammadMahdi（Mahdi）Raeesi**：LinkedIn 档案「MikroTik consultant @ wirelessnetware」（Richmond Hill，173 连接，MTCNA 1311NA033 2013–2016 已过期，Payam Noor 大学）——**与 A-010 Wireless Netware 有供职交集（知悉备查，沟通不刺探）**。联系：**admin@commanderit.ca**（官网公开）+ 647-562-2246；模式猜测 **mahdi@commanderit.ca**（未验证；commanderit.ca MX=A 记录同主机自托管，小站自建邮服，投递信誉一般——首封进垃圾箱概率高，电话跟进必要性大）。
+- **关注点与资质**：①VoIP+数据并网（SMB 一线多用）——Voice VLAN 话术正中；②7×9-18 营业=响应型客户画像，也提示他看手机=fallback 电话有效；③品牌意识刚起步（AI logo）=对 OEM 贴牌/自定义 branding 接受度高（Saga 定制 branding 条款可对）。参展未见；LinkedIn 个人页更新少。
+- **优缺点SWOT**：**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。
+- **Saga产品适配**：首梯 **STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| MohammadMahdi（Mahdi）Raeesi | 业主/MikroTik 顾问（前 wirelessnetware 供职记录） | admin@commanderit.ca；647-562-2246 | 官网公开邮箱+电话；姓名-公司关联经 LinkedIn 核验 | https://commanderit.ca/ ・ https://www.linkedin.com/in/mahdi-raeesi-4195173b/ |
+| —（模式猜测） | — | mahdi@commanderit.ca | 模式猜测 · 未验证（自托管邮服，建议电话先行） | dns://commanderit.ca/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【定位】**MikroTik 专家型 MSP，多行业服务。
+  > Expert MikroTik solutions for seamless connectivity. Specializing in robust networks, data security, and services for diverse industries.
+  > 来源：https://commanderit.ca/
+- **【服务线】**菜单含 VoIP Solutions（Voice VLAN 场景锚点）。
+  > Services - Network Management - Remote Support - Helpdesk Services - Managed IT Support - Data Backup Strategies - VoIP Solutions - Virtualization - Cloud Services - Remote Work Solutions
+  > 来源：https://commanderit.ca/
+- **【通道】**7 天 9–18 营业，admin@ 与电话公开。
+  > Richmnd Hill, Markham … +1 (647) 562-2246 … 7 days a week from 9:00 am to 6:00 pm … admin@commanderit.ca … © 2019 CommanderIT
+  > 来源：https://commanderit.ca/
+- **【KP 身份】**Mahdi Raeesi LinkedIn：MikroTik consultant（Richmond Hill），MTCNA 1311NA033。
+  > Mahdi Raeesi - Mikrotik consultant - wirelessnetware … Location: Richmond Hill … MTCNA Mikrotik Issued Nov 2013 Expires Nov 2016 Credential ID 1311NA033
+  > 来源：https://www.linkedin.com/in/mahdi-raeesi-4195173b/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -130,7 +163,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：L3 hardware offload + QinQ on access switching
 
@@ -155,7 +188,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -115,7 +115,43 @@
 - **要问的问题**：跨站点项目要不要环网冗余和统一 VLAN 模板？
 - **随附证明**：ERPS 切换实测（打流断链计时）+ 可直接套用的配置模板文件。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Puma Solutions ApS**（对外品牌 **Puma IT**），丹麦 Valby（Bjerregårdsvej 16, 2500），CVR **DK44763729**（丹麦 44 开头 CVR ≈ 2021–2022 年注册，年轻公司）。形态=**集成商+网店混合体**：MikroTik 171 个在售产品 + **UniFi 680 个在售产品**双线，配套「全国安装伙伴网+发货前预配置」交付模式（视频监控/多站点网络/办公仓储 WiFi/门禁四大方案页）。持 MTCNA+MTCRE 的丹麦认证顾问之一，强调「我们自己也天天配置这些设备」。LinkedIn/社媒：未见公开公司 LinkedIn，主要通道是官网+电话+rfi@。
+- **芯片与在用型号**：全线 MikroTik（RouterOS 生态）+ Ubiquiti UniFi（含 UniFi Switching 类目）。芯片层：MikroTik CRS3xx/5xx 交换线多为 Marvell 98DX 系（与我方同源叙事可直接对话）；UniFi 交换线为博通系封闭生态、价格显著高于同级 Marvell 方案——**这就是价差切入位**。出货量/订单信息：未公开（私营 ApS 无披露义务），在售 SKU 计数（171/680）作活跃库存代理指标。客户反馈：未见公开评价页，官网自述「Vi siger hvilket brand der passer til opgaven, også når svaret er det, vi tjener mindst på」（品牌中立自评，我方可用）。
+- **关键人KP**：公开面只有角色邮箱 **rfi@pumait.dk** 与双电话（首页 +45 32 33 13 12 / contactus 页 +45 60 70 90 09）。**决策人姓名未公开**——丹麦 ApS 通常业主即采购；CVR 页可查法定董事（建议跟进前查 datacvr.virk.dk 44763729 拉董事名，再按 firstname@pumait.dk 模式猜测，**当前未验证不写死**）。mx 已验：pumait.dk → Google Workspace。
+- **关注点与资质**：①**所有权哲学**：卖「Buy once. Own forever」「Perpetual licens, ingen cloud」——反感订阅/云绑定，报价话术要对齐「一次买断、无云控」；②**发货前预配置**服务是其溢价点，我方供货页可承诺出厂刷配置/贴标；③**GDPR 标识交付**写进监控方案（合规敏感）；④价格透明需求（Priser ekskl. moms 明示）。参展/社媒痕迹未见。
+- **优缺点SWOT**：**S**：双线现货（171+680 SKU）+全国安装伙伴网+「敢说 MikroTik 不合适」的顾问信誉；方案页做得细（pixels per meter 维度计算）。**W**：公司年轻（CVR 2021–22）、体量小、人员规模未公开，无自有品牌护城河，对 MikroTik/UniFi 两家供货高度绑定。**O**：UniFi 交换线毛利薄、价格带高 → Saga 同级 Marvell 24口PoE EXW $220 可给「自有利润池/第二品牌」；其 config-before-delivery 模式与 OEM 定制出厂配置天然咬合。**T**：UniFi/MikroTik 官方丹麦分销价格下探时第二供应商空间被挤；所有权哲学可能排拒「无品牌」货，需要样机实测背书破冰。
+- **Saga产品适配**：首梯 **STC-424DGGPM-440W**（24×GE PoE af/at 440W，PoE 管理+watchdog，**EXW $220**）对上视频监控/门禁方案页；多站点骨干 **STC-424XGGM**（4×10G SFP+24×GE，**EXW $143**）；小站点 **STC-48DGGPM-U**（EXW $115.5）。⚠️ 商用线无 802.3bt 90W：若其高功率摄像机（PTZ 加热/射灯）超 30W，回 SmartByte `LT-S8328XGP-4XS24GT-S` 并标注「Saga 暂无对应」。报价按 EXW+15 天有效，强调一次买断无云。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| （法定董事待查） | 业主/采购决策人（推定） | rfi@pumait.dk；+45 32 33 13 12 / +45 60 70 90 09 | 角色邮箱官网公开；姓名未公开→CVR 登记处可拉 | https://pumait.dk/ ・ https://www.pumait.dk/contactus |
+| —（模式猜测） | — | firstname@pumait.dk（待 CVR 查到董事名后套） | 模式猜测 · 未验证（MX 已验 Google） | dns://pumait.dk/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【背景】**法定实体 Puma Solutions ApS，CVR DK44763729，rfi@pumait.dk 为公开联系邮箱。
+  > PUMA SOLUTIONS APS · CVR DK44763729 · rfi@pumait.dk
+  > 来源：https://pumait.dk/
+- **【双产品线】**MikroTik 171 款 + UniFi 680 款在售，交换线为两条品牌线。
+  > MikroTik171 produkter … UniFi680 produkter
+  > 来源：https://pumait.dk/
+- **【所有权哲学】**主打一次买断、无云控——报价与出货话术需对齐。
+  > Perpetual licens, ingen cloud der skal spørges om lov, og et lettisk selskab bag softwaren.
+  > 来源：https://pumait.dk/
+- **【联系通道】**contactus 页给出法定地址与第二部电话。
+  > Puma Solutions ApS - CVR: DK44763729 - Bjerregårdsvej 16, 2500 Valby - +45 60 70 90 09
+  > 来源：https://www.pumait.dk/contactus
+- **【交付模式】**发货前按现场图纸预配置——OEM 出厂贴标/刷配置可对口。
+  > Vi konfigurerer efter jeres site plan, før udstyret sendes.
+  > 来源：https://pumait.dk/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -126,7 +162,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -151,7 +187,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

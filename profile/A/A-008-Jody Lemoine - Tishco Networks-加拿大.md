@@ -113,7 +113,46 @@
 - **要问的问题**：他的设计标准里，环网收敛与转发时延的门限是多少？
 - **随附证明**：ERPS 收敛实测（含测试拓扑）+ L3 卸载转发数据 + CLI/MIB 文档。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Tishco Networks**（tishco.ca），安大略 Niagara Falls（4551 Zimmerman Ave，预约制办公室），**2007 年创立**（官网「Since 2007」+Experts Exchange 档案 2007.03 至今相互印证）。业主 **Jody Lemoine**。定位极特殊：**「向 IT 公司批发网络服务、由他们转售给各自客户」的渠道型顾问（wholesale provisioning of networking services to IT firms for resale）**——白标/隐形交付老手，与中性包装 OEM 逻辑同构。服务半径：中小企业网到 **450+ 端点的 VPN 大网**。
+- **芯片与在用型号**：设计交付型：路由/交换/数据安全/统一通信/无线全栈；公开自述现持 **Cisco CCDP + CCIE R&S #41436**（思科正统底子），MikroTik MTCRE（2103RE2975，2021–2024 **已过期**——他不靠 MikroTik 证吃饭，更新视需要）。技术口味=协议与架构（Experts Exchange 2009 起的技术答主、GitHub/Mastodon 在册），对 CLI/MIB/ERPS 级细节会实测拷问。出货量：未公开（项目制）。客户反馈：Experts Exchange 长期答主身份=社区信誉资产。
+- **关键人KP**：**Jody Lemoine**（sole principal，Network Architect & Director）。邮箱 **jody.lemoine@tishco.ca**（CSV）+ **contact@tishco.ca**（官网公开）+ 电话 +1 905 378-1134。社媒矩阵罕见地全：**blog ghostinthenet.info（MX easydns 活）、GitHub @ghostinthenet、Mastodon @ghostinthenet@hachyderm.io、Bluesky @ghostinthenet.bsky.social、LinkedIn ca.linkedin.com/in/jodyl（500+）**——技术圈触点极多，冷启动邮件可引用其公开文章立场。⚠️ 敏感备注：他还任加拿大军校学员团 809 中队 Commanding Officer（CIC，2011.09 至今，公开履历）——**仅作背景知悉，任何话术不得利用/提及军警身份**。
+- **关注点与资质**：①**技术至上**：CCIE 级买家，彩页进不了门，要 datasheet/CLI 手册/MIB/实测窗口（180 天送测他都嫌短的话给远程 lab）；②白标可交付性（他把服务批发给别的 IT 公司——中性包装、双 branding、无原厂水印正中其需）；③可维护性/可持续（「sustainable»elegant»scalable」是他自我标签）；④预约制办公室=低接待成本运营，邮件异步沟通为主。
+- **优缺点SWOT**：**S**：CCIE+19 年店+批发式渠道（他一个 KP 身后挂着一串 IT 公司客户=**一对多放大器**）；中性货需求语义他天然懂。**W**：极度挑剔的技术评估（Marvell 特性表不全会当场露馅）；单人带宽；MikroTik 证书过期说明他对品牌不忠诚=对供应商也不忠诚。**O**：他的转售客户群=我们做「隐形第二供应商」的最佳掩体；450 端点 VPN 大网项目证明他能吞下企业级量。**T**：Cisco/MikroTik 存量偏好；打不进嘴炮型采购话题，只能靠实测口碑慢热。
+- **Saga产品适配**：评测机组合：**STC-424XGGPM-440W**（24口 PoE+4×10G，**EXW $264**，L2+ 全特性：ERPS<20ms/QinQ/Private VLAN/Voice VLAN/sFlow/MQTT——CCIE 会逐条试，特性表据实给全）+ **STI-480XGGM**（工业 8口 4×10G，**EXW $253**，ERPS 环形拓扑）+固件特性表原文（L2+/L3 两版）。话术：工程师对工程师，「spec sheet 两页内回复，180 天 nfr（not-for-resale）样机」；OEM 贴牌/中性包装写进首封信。⚠️ 被他抓包虚标=永久出局，只承诺特性表已有的行。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jody Lemoine | 业主/Network Architect（CCDP, CCIE R&S #41436；MTCRE 2103RE2975 已于 2024-03 过期） | jody.lemoine@tishco.ca；contact@tishco.ca；+1 905 378-1134 | 双邮箱其一官网公开；MX（Google）已验 | https://www.tishco.ca/ |
+| Jody Lemoine（社媒层） | 技术社区身份 ghostinthenet | blog ghostinthenet.info；GitHub/Mastodon/Bluesky @ghostinthenet；LinkedIn /in/jodyl | 多平台公开身份已核（GitHub 简介互链） | https://github.com/ghostinthenet ・ https://www.experts-exchange.com/members/jodylemoine.html |
+
+### R55 证据摘录
+
+- **【经营历史】**2007 年起经营网络设计与实施。
+  > Since 2007, tishco networks has offered business-focused network design and implementation services.
+  > 来源：https://www.tishco.ca/
+- **【联系】**contact@tishco.ca 公开；Niagara Falls 预约制办公室。
+  > contact@tishco.ca … +1 (905) 378-1134 … 4551 Zimmerman Avenue, Niagara Falls, Ontario L2E 3M5 … In-person meetings by appointment only.
+  > 来源：https://www.tishco.ca/
+- **【渠道定位】**向 IT 公司批发网络服务、由对方转售——白标交付结构。
+  > a consulting firm specializing in the wholesale provisioning of networking services to IT firms for resale to their respective clientele
+  > 来源：https://www.experts-exchange.com/members/jodylemoine.html
+- **【技术资历】**现持 Cisco CCDP 与 CCIE R&S（41436）。
+  > In addition, I maintain current Cisco CCDP and CCIE R&S (41436) certifications.
+  > 来源：https://www.experts-exchange.com/members/jodylemoine.html
+- **【MTCRE 状态】**MTCRE 2103RE2975（2021-03 发、2024-03 到期）。
+  > MikroTik Certified Routing Engineer … Issued Mar 2021 Expires Mar 2024 Credential ID 2103RE2975
+  > 来源：https://www.linkedin.com/in/jodyl/
+- **【社媒矩阵】**ghostinthenet 跨 GitHub/Mastodon/Bluesky 同名在册。
+  > @ghostinthenet@hachyderm.io … @ghostinthenet.bsky.social
+  > 来源：https://github.com/ghostinthenet
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -124,7 +163,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：Sample unit for your training lab
 
@@ -149,7 +188,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -121,7 +121,43 @@
 - **要问的问题**：多客户/多站点之间，他希不希望用同一套交换机配置模板来运维？
 - **随附证明**：配置模板 + 环网切换实测 + 集中管理（SNMP/MIB）清单。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN INVEST ApS 控股，任两公司董事（2013-10 起）。公开设计外包档案自述「**one-person business**」。盈利侧：ownr.dk 载 UNIFOSS ApS 2024-25 净利 **506k DKK**、权益 475k DKK——一人公司做到 50 万丹麦克朗净利，现金流健康。模式=**设备租赁/订阅制网络运营商**：包月（375 起）含设备+更新（29/月）+维保（49/月）。案例：Erhvervshuset Midtjylland（2 万㎡仓储）、Nørgaards Højskole（骨干替换）、Kongensbro Kro（1648 年老旅馆 MESH）。
+- **芯片与在用型号**：站点未列明设备品牌（服务化包装，硬件被租约遮蔽）；三个案例的容量/骨干/MESH 描述指向 MikroTik 或同级 PoE 交换+无线。出货量：未公开——可用租约客户数×每点 1–3 台 PoE 交换估算隐性吞量。客户反馈：三段案例引用（Lars Maretti、Nørgaards、Christian Andersen 口径均正面）。
+- **关键人KP**：**Troels Elkjær Nørmølle**（拼写以登记为准：Nørmølle；CSV 作 Normolle）=唯一决策人。邮箱 **troels@unifoss.com**（既有）+ **info@unifoss.com**（官网页脚公开）+ 电话 +45 2279 1234。ownr 公开档案挂 LinkedIn/Facebook/Twitter 入口。MX 已验 Google Workspace。
+- **关注点与资质**：①**长期主义**：案例话术全是「langtidsholdbar / fremtidssikrer」——设备寿命与保修年限是他对客户的承诺点（Saga 工业 3 年保可直接对上）；②可扩容/可服务性（skalerbart）；③服务协议定价成熟（SaaS 式收费，硬件成本敏感度中等——设备越便宜租约毛利越高）；④未参展痕迹，获客靠电工转介（Birger Brødløs 案例）与口碑。
+- **优缺点SWOT**：**S**：一人决策零链条、净利健康、三个可引用案例覆盖仓储/教育/酒店、订阅模式锁客。**W**：一人=单点故障与带宽上限；无技术团队页；品牌能见度低（2020 年才做品牌重塑）。**O**：租约毛利模型下，设备降本直接增厚利润——Saga 8口 PoE EXW $99 对欧洲同级半价的吸引力直接；骨干替换案例证明他做大单。**T**：若 MikroTik/UniFi 给他体系内优惠价，第二供应商说服成本上升；一人公司采购节奏慢。
+- **Saga产品适配**：租约盒首选 **STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 输入随附电源）；学校/仓储骨干替换对标他 Nørgaards 案例 → **STC-424XGGM**（4×10G+24GE，**EXW $143**）；旅馆 MESH 前端 PoE → **STC-48DGGPM-U**（**EXW $115.5**）。卖点对齐：「设备寿命=3 年保（工业线）/1 年（商用）+ 一次性买断，租约期内零品牌溢价」。报价 EXW 15 天有效。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Troels Elkjær Nørmølle | 业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%） | troels@unifoss.com；info@unifoss.com；+45 2279 1234 | 邮箱官网+CSV 双源；MX 已验 | https://unifoss.com/ ・ https://ownr.dk/users/public-profile/4000636356 |
+| —（社媒入口） | 业主本人社媒 | ownr 档案挂 LinkedIn/Facebook/Twitter 链接 | 入口已见，URL 未逐一展开（点击需登录） | https://ownr.dk/users/public-profile/4000636356 |
+
+### R55 证据摘录
+
+- **【法定信息】**UNIFOSS ApS，CVR DK-35517111，Østerbyvej 35, 8632 Lemming，info@unifoss.com。
+  > UNIFOSS ApS … Adresse: Østerbyvej 35, 8632 Lemming … CVR: DK-35517111
+  > 来源：http://www.unifoss.com/
+- **【股权与盈利】**Troels 100% 控股（TEN INVEST ApS），2024-25 净利 506k DKK。
+  > TEN INVEST ApS Ejerandel: 100% … Det bedste regnskab i 2024-25 var et overskud på 506' DKK (UNIFOSS ApS).
+  > 来源：https://ownr.dk/users/public-profile/4000636356
+- **【一人公司】**品牌重塑供应商档案确认一人公司形态。
+  > Unifoss is one-person business owned and founded by Troels E. Nørmølle.
+  > 来源：https://www.victoriataulbaek.dk/kopi-af-airshoot
+- **【商业模式】**设备打包进月租（375 起）+更新/维保订阅。
+  > Lej en komplet netværksløsning – inklusiv internet. … Fra 375,- / md.
+  > 来源：https://unifoss.com/
+- **【骨干替换能力】**Nørgaards Højskole 案例=整网骨干替换，大单能力证据。
+  > Udskiftning af rygraden i netværket for at håndtere den massive datamængde.
+  > 来源：https://unifoss.com/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -132,7 +168,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE + VLAN per room — question on your hotel jobs
 
@@ -157,7 +193,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

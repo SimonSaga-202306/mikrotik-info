@@ -247,7 +247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L702"
+        "locator": "L710"
       }
     ]
   },
@@ -453,7 +453,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L878"
+        "locator": "L886"
       }
     ]
   },
@@ -617,7 +617,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L746"
+        "locator": "L754"
       }
     ]
   },
@@ -703,7 +703,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L876"
+        "locator": "L884"
       }
     ]
   },
@@ -946,6 +946,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-989/备注"
+      }
+    ]
+  },
+  {
+    "url": "http://www.unifoss.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L146"
       }
     ]
   },
@@ -1355,7 +1369,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L701"
+        "locator": "L709"
       }
     ]
   },
@@ -2289,7 +2303,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L839"
+        "locator": "L847"
       }
     ]
   },
@@ -3015,7 +3029,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L745"
+        "locator": "L753"
       }
     ]
   },
@@ -3242,6 +3256,74 @@
       {
         "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
         "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://ca.linkedin.com/company/industrialsolutionsinc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L360"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L368"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L374"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://ca.linkedin.com/company/wireless-netware",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L539"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L560"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L566"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L578"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L149"
       }
     ]
   },
@@ -3473,7 +3555,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L799"
+        "locator": "L807"
       }
     ]
   },
@@ -3696,12 +3778,44 @@
         "locator": "L666"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L485"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L500"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L512"
+      },
+      {
         "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
         "locator": "L89"
       },
       {
         "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
         "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L150"
       }
     ]
   },
@@ -5368,8 +5482,16 @@
         "locator": "L362"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L272"
+      },
+      {
         "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L149"
       }
     ]
   },
@@ -5435,7 +5557,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L797"
+        "locator": "L805"
       }
     ]
   },
@@ -5965,7 +6087,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1210"
+        "locator": "L1218"
       }
     ]
   },
@@ -5975,7 +6097,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1210"
+        "locator": "L1218"
       }
     ]
   },
@@ -6507,7 +6629,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L742"
+        "locator": "L750"
       }
     ]
   },
@@ -6904,6 +7026,28 @@
     ]
   },
   {
+    "url": "https://github.com/ghostinthenet",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L426"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L464"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
     "url": "https://goodstore.lv/",
     "http_checked": false,
     "occurrences": [
@@ -6945,7 +7089,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L665"
+        "locator": "L673"
       }
     ]
   },
@@ -7963,7 +8107,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L881"
+        "locator": "L889"
       }
     ]
   },
@@ -8273,7 +8417,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L668"
+        "locator": "L676"
       }
     ]
   },
@@ -8575,7 +8719,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L668"
+        "locator": "L676"
       }
     ]
   },
@@ -8656,12 +8800,20 @@
         "locator": "L228"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L158"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L90"
       },
       {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
+        "locator": "L142"
       }
     ]
   },
@@ -10186,12 +10338,58 @@
         "locator": "L439"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L320"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L326"
+      },
+      {
         "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
         "locator": "L91"
       },
       {
         "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
         "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L146"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L149"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://magentanetworks.ca/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L299"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L332"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L155"
       }
     ]
   },
@@ -10583,7 +10781,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L841"
+        "locator": "L849"
       }
     ]
   },
@@ -10596,12 +10794,28 @@
         "locator": "反向信号名单!Q759"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L198"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L212"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A340-A359.json",
         "locator": "L702"
       },
       {
         "path": "docs/audit/2026-09-27_A340-A359联络核验.md",
         "locator": "L35"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-359-Scornici Vadim-乌克兰.md",
@@ -10984,12 +11198,44 @@
         "locator": "L1290"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L143"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L191"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L206"
+      },
+      {
+        "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
+        "locator": "L145"
+      },
+      {
         "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
         "locator": "L87"
       },
       {
         "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
         "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
@@ -17369,7 +17615,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L838"
+        "locator": "L846"
       }
     ]
   },
@@ -17865,7 +18111,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L749"
+        "locator": "L757"
       }
     ]
   },
@@ -18586,6 +18832,36 @@
     ]
   },
   {
+    "url": "https://ownr.dk/users/public-profile/4000636356",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L83"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L90"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L104"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
     "url": "https://paceintl.com/",
     "http_checked": false,
     "occurrences": [
@@ -19292,6 +19568,26 @@
         "locator": "L82"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L23"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L50"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L62"
+      },
+      {
         "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
         "locator": "L82"
       },
@@ -19306,6 +19602,26 @@
       {
         "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
         "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L146"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L152"
       }
     ]
   },
@@ -19361,7 +19677,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L744"
+        "locator": "L752"
       }
     ]
   },
@@ -23116,6 +23432,18 @@
         "locator": "L161"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L83"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L116"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L122"
+      },
+      {
         "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
         "locator": "L88"
       },
@@ -23130,6 +23458,18 @@
       {
         "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
         "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L155"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L158"
       }
     ]
   },
@@ -23790,6 +24130,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-228/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://wirelessnetware.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L539"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L554"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L572"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L146"
       }
     ]
   },
@@ -26409,7 +26779,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L669"
+        "locator": "L677"
       }
     ]
   },
@@ -27041,7 +27411,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L747"
+        "locator": "L755"
       }
     ]
   },
@@ -28071,7 +28441,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L839"
+        "locator": "L847"
       }
     ]
   },
@@ -29795,7 +30165,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L699"
+        "locator": "L707"
       }
     ]
   },
@@ -31043,7 +31413,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L840"
+        "locator": "L848"
       }
     ]
   },
@@ -31377,7 +31747,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L801"
+        "locator": "L809"
       }
     ]
   },
@@ -32665,7 +33035,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L796"
+        "locator": "L804"
       }
     ]
   },
@@ -32900,6 +33270,36 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第4批.json",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.experts-exchange.com/members/jodylemoine.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L426"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L446"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L452"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L147"
       }
     ]
   },
@@ -35840,12 +36240,50 @@
         "locator": "L520"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L353"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L380"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L386"
+      },
+      {
         "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
         "locator": "L82"
       },
       {
         "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
         "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://www.indsol.com/s/ISI-Product-Line-Card-Page-1-2026.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L398"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L152"
       }
     ]
   },
@@ -36143,7 +36581,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L802"
+        "locator": "L810"
       }
     ]
   },
@@ -36401,7 +36839,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L697"
+        "locator": "L705"
       }
     ]
   },
@@ -37129,7 +37567,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L877"
+        "locator": "L885"
       }
     ]
   },
@@ -37373,7 +37811,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L698"
+        "locator": "L706"
       }
     ]
   },
@@ -38650,6 +39088,20 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/hani-rahrouh-38019521/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L584"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/hector-prado-98896aa4/",
     "http_checked": false,
     "occurrences": [
@@ -38732,6 +39184,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-816/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/jodyl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L458"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L150"
       }
     ]
   },
@@ -38838,6 +39304,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-823/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/mahdi-raeesi-4195173b/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L485"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L518"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L153"
       }
     ]
   },
@@ -39803,7 +40291,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L798"
+        "locator": "L806"
       }
     ]
   },
@@ -40491,7 +40979,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L840"
+        "locator": "L848"
       }
     ]
   },
@@ -40801,7 +41289,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L803"
+        "locator": "L811"
       }
     ]
   },
@@ -40901,7 +41389,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L669"
+        "locator": "L677"
       }
     ]
   },
@@ -42443,7 +42931,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L750"
+        "locator": "L758"
       }
     ]
   },
@@ -43043,7 +43531,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L800"
+        "locator": "L808"
       }
     ]
   },
@@ -43997,7 +44485,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L880"
+        "locator": "L888"
       }
     ]
   },
@@ -44081,7 +44569,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L748"
+        "locator": "L756"
       }
     ]
   },
@@ -44662,6 +45150,28 @@
     ]
   },
   {
+    "url": "https://www.pumait.dk/contactus",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L23"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L56"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
     "url": "https://www.qtopia.nl/",
     "http_checked": false,
     "occurrences": [
@@ -44768,6 +45278,28 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3543"
+      }
+    ]
+  },
+  {
+    "url": "https://www.redlion.net/distributors/industrial-solutions-inc-22",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L353"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L392"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L149"
       }
     ]
   },
@@ -47362,6 +47894,18 @@
         "locator": "L593"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L419"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L434"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L440"
+      },
+      {
         "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
         "locator": "L83"
       },
@@ -47372,6 +47916,18 @@
       {
         "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
         "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L141"
       }
     ]
   },
@@ -47823,7 +48379,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L743"
+        "locator": "L751"
       }
     ]
   },
@@ -48496,6 +49052,20 @@
     ]
   },
   {
+    "url": "https://www.victoriataulbaek.dk/kopi-af-airshoot",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L110"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
     "url": "https://www.virtua-it.si",
     "http_checked": false,
     "occurrences": [
@@ -48527,7 +49097,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L879"
+        "locator": "L887"
       }
     ]
   },
@@ -48989,7 +49559,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L700"
+        "locator": "L708"
       }
     ]
   },
@@ -50080,6 +50650,28 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/c/alain-casault/532760382",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L254"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/c/knt-technology-sp-z-oo/558101916",
     "http_checked": false,
     "occurrences": [
@@ -50102,6 +50694,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1006/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Alain-Casault/5130311306",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L239"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L260"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L143"
       }
     ]
   },
@@ -50132,6 +50746,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/alain-casault/532760382",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
+        "locator": "L266"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L146"
       }
     ]
   },

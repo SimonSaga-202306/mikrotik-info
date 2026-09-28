@@ -117,7 +117,37 @@
 - **要问的问题**：他的方案里要不要做摄像头网段与办公网段的物理/VLAN 隔离？
 - **随附证明**：VLAN 模板 + ERPS 切换实测 + MIB 清单。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Iron Sentinel**（Andrew Drozd），乌克兰 Zhytomyr，MikroTik 认证顾问名录收录个体。重大变化：**官网 ironsentinel.net 当前为 Squarespace 停靠页（Coming Soon）——站点实质失效**，公司公开面近乎归零。乌克兰战时个体顾问常态：站点停运≠人停业，但公开可核信息只有名录行+邮箱 infra。
+- **芯片与在用型号**：无可核证据（站点失效，无产品页/案例页残留可用）。顾问层惯用 MikroTik 全线。出货量/订单：未知。客户反馈：无公开渠道。
+- **关键人KP**：**Andrew Drozd**（名录姓名）。邮箱 **support@ironsentinel.net**（CSV 既有；**MX 今日核验有效→smtp.google.com，Google Workspace 收件 infra 仍活**，说明邮箱多半仍有人收）。电话 **+380 63 418 8971**（Kyivstar 移动号段，**可试 WhatsApp/Telegram 添加验证**——乌克兰移动号社媒绑定率高，未验证不写死）。LinkedIn 搜索无确认命中。模式猜测 **andrew@ironsentinel.net**（未验证）。
+- **关注点与资质**：无近期公开信号；名录收录本身=持证顾问（CSV 载 MTCNA 等，详见 §四）。对乌客户的敏感点：战时供电/移动覆盖/重建项目，通信器材需求仍在，但外汇与物流条款要放软。
+- **优缺点SWOT**：**S**：决策链=本人；既有双通道（邮箱 infra 活+手机号）。**W**：公开面消亡、无法验证经营状态与规模。**O**：乌重建网络需求长尾；低量配货（小批量中性货）适合个体顾问。**T**：失联风险高（站点已死）；战时不可控。评级维持 A（联系通道仍通），但本轮优先级下调，电话/WhatsApp 先行。
+- **Saga产品适配**：低量试水：样机 **STC-424DGGPM-280W**（EXW $165）或 8口 **STC-28DGGPM**（EXW $99）；配「5–7 工作日、50 台以下」交期条款正中个体户。⚠️ 不谈 bt。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Andrew Drozd | 个体顾问（MikroTik 认证名录） | support@ironsentinel.net；+380 63 418 8971 | 邮箱 MX 2026-09-28 核验有效（Google）；电话可试 WhatsApp/Telegram（未验证） | dns://ironsentinel.net/MX 2026-09-28 本机核验 ・ https://mikrotik.com/consultants |
+| —（模式猜测） | — | andrew@ironsentinel.net | 模式猜测 · 未验证 | dns://ironsentinel.net/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【站点状态】**官网现为 Squarespace 停靠页，公开内容归零。
+  > Coming Soon — ironsentinel.net
+  > 来源：https://ironsentinel.net/
+- **【名录收录】** MikroTik 官方认证顾问名录在册（Zhytomyr, Ukraine）。
+  > Andrew Drozd / Iron Sentinel … Zhytomyr … 集成商/顾问（MikroTik 认证）
+  > 来源：https://mikrotik.com/consultants
+- **【邮箱 infra】**MX 指向 Google Workspace，域名邮箱服务仍运行。
+  > ironsentinel.net MX → smtp.google.com（2026-09-28 本机 dns.resolver 核验）
+  > 来源：dns://ironsentinel.net/MX
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -128,7 +158,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -153,7 +183,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

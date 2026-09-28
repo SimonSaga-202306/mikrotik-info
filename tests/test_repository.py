@@ -348,17 +348,22 @@ class RepositoryTests(unittest.TestCase):
         r54 = {f'A-{n:03}' for n in range(1, 341)}
         mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
         renumber = {'## 九、注意点': '## 六、注意点',
+                    '## 十、注意点': '## 六、注意点',
                     '## 十、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
-                    '## 十一、跟进记录': '## 八、跟进记录'}
+                    '## 十一、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
+                    '## 十一、跟进记录': '## 八、跟进记录',
+                    '## 十二、跟进记录': '## 八、跟进记录'}
 
         def strip_r54(text):
             """去掉 R54 新增的三段并把后续小节号退回 R49 前的编号。"""
             out, skip = [], False
             for line in text.splitlines():
                 if line.startswith('## '):
-                    skip = 'R54' in line
+                    skip = ('R54' in line) or ('R55' in line)
                     if skip:
                         continue
+                if re.match(r'^#+ ', line) or line.startswith('- **【R55 证据摘录】'):
+                    pass
                 if not skip:
                     out.append(renumber.get(line, line))
             return '\n'.join(out) + '\n'
@@ -592,16 +597,19 @@ class RepositoryTests(unittest.TestCase):
         r49 = '核心事实。【2026-09-28 R49 邮箱补录】…official-company…【2026-09-28 R49 复核】more'
         self.assertEqual(without_contact_evidence(r49), '核心事实。')
         def strip_r54_injection(tail):
-            """去掉 R54 注入的 §六/§七/§八，并把被顺延的旧段序号还原（九→六、十→七、十一→八）。"""
+            """去掉 R54（§六/七/八）与 R55（§九 深度再发掘）注入段，把被顺延的旧段序号还原。"""
             parts = tail.split('\n## 六、深度加厚', 1)
             if len(parts) == 1:
                 return tail
             head, rest = parts
-            _, rest = rest.split('\n## 九、注意点', 1)
-            tail = head + '\n## 六、注意点' + rest
-            return (tail
-                    .replace('\n## 十、首触邮件', '\n## 七、首触邮件')
-                    .replace('\n## 十一、跟进记录', '\n## 八、跟进记录'))
+            m = re.search(r'\n## (?:九|十)、注意点', rest)
+            _, rest = rest[:m.start()], rest[m.start():]
+            tail = head + '\n## 六、注意点' + rest.split('、注意点', 1)[1]
+            for oldn, newn in (('九', '六'), ('十', '七'), ('十一', '八')):
+                tail = (tail
+                        .replace('\n## %s、首触邮件' % oldn, '\n## %s、首触邮件' % newn)
+                        .replace('\n## %s、跟进记录' % oldn, '\n## %s、跟进记录' % newn))
+            return tail
         for p in (ROOT / 'profile/A').glob('A-*.md'):
             if not 210 <= int(p.name[2:5]) < 379:
                 continue
@@ -1195,7 +1203,7 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 55):
+        for n in range(1, 56):
             self.assertIn(f'### R{n:02d} ·', text)
         self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 55)  # 54 rounds + template
         self.assertIn('未知', text)

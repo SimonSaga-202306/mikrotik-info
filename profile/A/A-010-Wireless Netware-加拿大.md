@@ -112,7 +112,46 @@
 - **要问的问题**：他愿不愿意在课程里加入一两个我们的实验案例？
 - **随附证明**：可公开的实测数据 + 培训用配置模板 + 实验机（成本价）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Wireless Netware Technology**，Markham ON（货从 Toronto 仓发，IC 认证库存），**2011 年创立**、LinkedIn 规模 2–10 人、388 粉。自我定位 **「Value-Added MikroTik Master Distributor」**+**加拿大首位 MikroTik 官方培训师**（2017-04 授牌）+MikroTik 动力托管机房。副业务：**Bell/Rogers 批发上网服务转售**、SYNOXX 光模块与 **Wirelessnetware 自主牌网络器材**（贴牌资产已存在！）。Facebook 同名在册。
+- **芯片与在用型号**：全系 MikroTik（RouterOS/SwitchOS 专家，MTCNA/MTCRE 培训课程常态排期）；自有品牌光学件 SYNOXX（SFP/SFP+/QSFP28/QSFP-DD 全档）——**证明其已打通中国/亚洲 OEM 贴牌供应链（光模块贴牌→交换贴牌是自然延伸）**。出货量：未公开；「Full MikroTik Range In Stock」+Toronto 仓=现货分销体量。客户反馈：LinkedIn 推荐语（Sarah Kerr：业内最懂的人之一）；学员评价常态。
+- **关键人KP**：**Hani Rahrouh**（President, CEO & MikroTik Coordinator；加拿大首位官方 MikroTik 培训师；LinkedIn /in/hani-rahrouh-38019521，5K 粉、周更：Markham Board of Trade 活动、培训课程预告）。邮箱 **info@wirelessnetware.ca**（公开）+ 电话 +1 647 477 0163；模式猜测 **hani@wirelessnetware.ca**（未验证；pattern=firstname@ 与其家族式命名相符需验证）。渠道角色决定：**他是买手+培训双身份，见面先谈分销梯价与贴牌 MOQ**。
+- **关注点与资质**：①**IC/ISED 认证**（首页头牌「IC Certified Products」——⚠️ Saga 现证为 FCC/CE/UKCA 族，加拿大 IC 多为认可 FCC 报告或需补 ISED，**报价前必须核实 IC 适用性并在信中如实处理**，这是加拿大零售/培训教具的门槛）；②培训教具批量（MTCNA/MTCRE 班期稳定=教具箱规需求）；③光模块贴牌伙伴升级路径（SYNOXX 交换/工业交换贴牌）；④Bell/Rogers 批发线=ISP 级 VLAN/QinQ 语境（L2+ flow-based QinQ 可对）。社交：LinkedIn/Facebook 双活跃，本地商会（Markham Board of Trade）刷脸型。
+- **优缺点SWOT**：**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。
+- **Saga产品适配**：①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424DGGPM-280W**（EXW $165，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Hani Rahrouh | President & CEO / MikroTik Coordinator（加拿大首位官方培训师） | info@wirelessnetware.ca；+1 647 477 0163 | 官网公开；LinkedIn 5K 粉周更（可双通道） | https://ca.linkedin.com/company/wireless-netware ・ https://wirelessnetware.ca/ |
+| —（模式猜测） | — | hani@wirelessnetware.ca | 模式猜测 · 未验证（MX Google 已验） | dns://wirelessnetware.ca/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【定位】**加拿大授权 MikroTik 分销+Toronto 仓现货，IC 认证。
+  > Wireless Netware Technology is Canada's authorized MikroTik reseller, stocking the full range … All products are IC Certified for Canadian use and ship from our Toronto warehouse
+  > 来源：https://wirelessnetware.ca/
+- **【背景】**2011 年成立、2–10 人、Markham，LinkedIn 在册。
+  > Value-Added MikroTik Master Distributor … Company size: 2-10 employees … Headquarters: Markham, Ontario … Founded: 2011
+  > 来源：https://ca.linkedin.com/company/wireless-netware
+- **【特项】**培训 partner + Bell/Rogers 批发上网转售 + The Dude 顾问。
+  > MikroTik Certified Trainer Partner, Bell Wholesale Internet Service, Rogers Wholesale Internet Service, MikroTik Consultant, and The-Dude Consultant
+  > 来源：https://ca.linkedin.com/company/wireless-netware
+- **【自有品牌】**已有 SYNOXX 光模块与 Wirelessnetware 牌器材=贴牌路径已通。
+  > Looking for SYNOXX optical transceivers or Wirelessnetware-branded networking gear? We carry those too — all in one place.
+  > 来源：https://wirelessnetware.ca/
+- **【KP】**Hani Rahrouh 任 President/CEO/MikroTik Coordinator。
+  > Hani Rahrouh President, CEO, and MikroTik Coordinator @ Wireless Netware Technology | MikroTik Certified Trainer
+  > 来源：https://ca.linkedin.com/company/wireless-netware
+- **【口碑】**同行推荐：业内最懂的人之一。
+  > I've done Mikrotik training & collaboration with Hani. Hes one of the most knowledgeable people in the industry.
+  > 来源：https://www.linkedin.com/in/hani-rahrouh-38019521/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -123,7 +162,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：L3 hardware offload + QinQ on access switching
 
@@ -148,7 +187,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

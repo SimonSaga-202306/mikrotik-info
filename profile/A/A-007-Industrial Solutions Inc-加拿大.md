@@ -112,7 +112,46 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 - **要问的问题**：他们的油气/市政项目里，冗余环与 10G 上行比例多大？
 - **随附证明**：ERPS 切换实测 + 光模块兼容清单 + 认证文件包（UL/CSA/Class 1 Div 2 目标）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、LinkedIn 规模档 **2–10 人**、粉丝 **2,616**（LinkedIn 运营活跃）；行业标签 Oil & Gas（阿省油服腹地）。代理墙：Red Lion/N-Tron、Phoenix Contact、HMS eWon、Moxa、Cisco、Axis、Pelco、Panasonic、Bosch、Digi、Axiomtek、Advantech、ASUS、APC/Tripp Lite、Getac……产品线覆盖 HMI/PLC/电源/安全远程接入/机器视觉/工业计算/网络连接。**增长信号：1 周前在 LinkedIn 招 Technical Sales Representative**。Red Lion 官网分销商页在册背书。
+- **芯片与在用型号**：网络连接类目明确卖 **工业以太网交换（非管理/管理、多模单模光纤口、DIN 轨、冗余环、PoE）**——品牌 Red Lion（N-Tron/Sixnet 血统）/Phoenix/Cisco/Moxa。工业交换芯片语境：N-Tron/Red Lion 与 Moxa 多用 Marvell/Broadcom 商用 die 加固化——**与我方 Marvell 同源叙事成立**（可讲「同芯不同价」）。出货量：未公开；其 LinkedIn 发帖「we have demo units available for testing」=>常备演示库存的走量型分销。产品线卡 PDF 已定位。客户反馈：LinkedIn 2.6k 粉+34 年存续=西部渠道盘稳。
+- **关键人KP**：公开通道 **sales@indsol.com**（官网+Red Lion 分销商页双源）+电话 780-460-9533 / 866-460-9533。招聘帖留的公司 LinkedIn 号是话题入口（评论/私信可见度高）。团队角色页显示 Inside Technical Sales & Support/Computer Technician/Shipping & Receiving 在招——**具体 KP 姓名未公开：走 sales@ 问「who runs networking line-card purchasing」**，LinkedIn 上 2–10 人规模的公司员工名单页可逐个点开（需登录，未做）。MX=MS365 有效。
+- **关注点与资质**：①**Class 1 Div 2 危险区认证**反复出现在多类目（油气现场刚需）——⚠️ **Saga 全系无 C1D2 认证，危险区项目不可承诺，只做非危险区/控制室段（诚实边界）**；②代理官方度（Red Lion 官网收录）=他理解分销玩法，用分销语言谈（梯价/RMA/demo）；③Axis/Pelco PoE 摄像机线=PoE 预算话题现成；④Canada IC/ISED 合规以前在册产品为准。社媒：LinkedIn 周更（招聘+厂商转发），是真活跃渠道。
+- **优缺点SWOT**：**S**：34 年渠道根基+油气自动化客群+多品牌代理经验（教我们产品无门槛）+常备 demo 文化（送测流程现成）。**W**：全员≤10 人，新增供应商管理带宽有限；N-Tron/Red Lion 归 HMS 体系后关系链深；无自营网店现货计数。**O**：**Red Lion N-Tron 8口非管理工业交换街价 $500+ vs Saga STI-280GE EXW $63.8（3 年保）——同档 5–8 倍价差的第二供应商位**；油气资本开支回暖+扩招销售=要新弹药；其客户（integrator/油田服务）对交期敏感（Saga 50 台下 5–7 工作日）。**T**：现有品牌墙若给排他压力则只能做灰色补充位；C1D2 项目段永久进不去。
+- **Saga产品适配**：对标 N-Tron 非管理：**STI-280GE**（8GE+2SFP，**EXW $63.8**）、**STI-288GP**（PoE 版 **EXW $74.8**）；对标管理型：**STI-288DGGPM**（L2+ 8口 PoE 240W ERPS<20ms，**EXW $137.5**）；万兆上联位 **STI-480XGGM**（**EXW $253**）；介质转换 **STI-110GE**（**EXW $29.7**）；带 bt 需求（他卖 Axis PTZ 大功率）→ **STI-288DGGPM-2BT**（**EXW $154**，2×bt+6×af/at）。打法：**照抄他自己的 demo 文化——主动寄 STI-288DGGPM+STI-280GE 各 1 台进其测试台，随附 EXW 梯价表与 3 年保条款镜像**（他保 1–2 年的原厂件对比立体）。报价注明 15 天有效/不含电源光模块（工业线）。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| （采购/网络产品 owner 待问） | 网络连接类目采购决策人 | sales@indsol.com；780-460-9533 / 866-460-9533 | 官网+Red Lion 分销商页双源公开；MX（MS365）已验 | https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22 |
+| （LinkedIn 公司号） | 2,616 粉；周更；当前在招 Technical Sales Rep | ca.linkedin.com/company/industrialsolutionsinc | 已见；私信/评论为二通道（需登录操作，未执行） | https://ca.linkedin.com/company/industrialsolutionsinc |
+
+### R55 证据摘录
+
+- **【背景】**1992 年成立、2–10 人、Sherwood Park AB，LinkedIn 在册。
+  > Company size: 2-10 employees … Headquarters: Sherwood Park, Alberta … Founded: 1992
+  > 来源：https://ca.linkedin.com/company/industrialsolutionsinc
+- **【增长信号】**一周前公开招聘技术销售。
+  > We're #hiring a new Technical Sales Representative in Sherwood Park, Alberta.
+  > 来源：https://ca.linkedin.com/company/industrialsolutionsinc
+- **【工业交换阵容】**网络连接类目：Red Lion/Phoenix/N-TRON/Cisco/MOXA，含非管理/管理/环网/PoE。
+  > Red Lion | Phoenix Contact | N-TRON | CISCO | MOXA … Industrial Ethernet Switches … Redundant Ring Support … Power Over Ethernet ( PoE )
+  > 来源：https://www.indsol.com/product-categories
+- **【监控线】**Axis/Pelco/Panasonic/Bosch 摄像机类目明示 PoE Powered。
+  > AXIS | PELCO | Panasonic | Bosch … PoE Powered … Fixed, PTZ, Thermal, Panoramic, Explosion-Protected Cameras
+  > 来源：https://www.indsol.com/product-categories
+- **【官方背书】**Red Lion 官网分销商页在册（Sherwood Park, sales@indsol.com）。
+  > Location Sherwood Park, AB T8H 0X5, Canada … Email address: sales@indsol.com Phone: +1 (866) 460-9533
+  > 来源：https://www.redlion.net/distributors/industrial-solutions-inc-22
+- **【产品线卡】**官网提供 2026 版 Product Line-Card PDF 下载。
+  > Download Product Line-Card
+  > 来源：https://www.indsol.com/s/ISI-Product-Line-Card-Page-1-2026.pdf
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -123,7 +162,7 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：Ring convergence + -40 to 75C switches
 
@@ -148,7 +187,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

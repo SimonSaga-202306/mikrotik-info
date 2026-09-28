@@ -157,6 +157,37 @@ def load_enrichment():
 
 ENRICH = load_enrichment()
 
+ENRICH55_FILES = [
+    "batch/A类深挖_2026-09-28_R55_第1批.json",
+]
+
+
+def load_enrichment55():
+    """R55 深度再发掘（背景/芯片/KP/在意点/SWOT/Saga 适配）。结构：
+    code, researched_on, dimensions{6+}, kp[{name,role,contact,status,source}]（可空）,
+    facts[{dim,text,quote,url}]（>=3）。只加内容、不影响既有小节顺序逻辑之外的部分。"""
+    out = {}
+    for rel in ENRICH55_FILES:
+        if not os.path.exists(os.path.join(_REPO_ROOT, rel)):
+            continue
+        data = json.load(open(os.path.join(_REPO_ROOT, rel), encoding="utf-8"))
+        for rec in data["records"]:
+            if len(rec.get("facts", [])) < 3:
+                raise SystemExit("❌ %s：%s 的 R55 facts 少于 3 条（深挖必带证据）" % (rel, rec.get("code")))
+            missing = [k for k in ("背景深描", "芯片与在用型号", "关键人KP", "关注点与资质", "优缺点SWOT", "Saga产品适配")
+                       if k not in rec.get("dimensions", {})]
+            if missing:
+                raise SystemExit("❌ %s：%s 的 R55 dimensions 缺 %s" % (rel, rec.get("code"), missing))
+            for f in rec["facts"]:
+                if not (f.get("quote") and f.get("url")):
+                    raise SystemExit("❌ %s：%s facts 必须同时带原文摘录与来源URL" % (rel, rec.get("code")))
+            rec["_file"] = rel
+            out[rec["code"]] = rec
+    return out
+
+
+ENRICH55 = load_enrichment55()
+
 
 def _clear_stale_dossiers():
     """Remove old dossiers before regenerating.
@@ -424,6 +455,36 @@ def main():
                 w("- **要问的问题**：%s" % st["question"])
                 w("- **随附证明**：%s" % st["proof"])
                 w("")
+
+        # 5.6 R55 deep re-excavation (A tier only)
+        rec55 = ENRICH55.get(code) if grade == "A" else None
+        if rec55:
+            sec = 10
+            w("## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）")
+            w("")
+            w("> 调研日期 **%s**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；"
+              "原始记录：`%s`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。"
+              % (rec55.get("researched_on", "—"), rec55.get("_file", ENRICH55_FILES[0])))
+            w("")
+            for dim, text in rec55["dimensions"].items():
+                w("- **%s**：%s" % (dim, text))
+            w("")
+            if rec55.get("kp"):
+                w("### 关键人（KP）与触达通道")
+                w("")
+                w("| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |")
+                w("|---|---|---|---|---|")
+                for k in rec55["kp"]:
+                    w("| %s | %s | %s | %s | %s |" % (k.get("name", "—"), k.get("role", "—"),
+                                                      k.get("contact", "—"), k.get("status", "—"), k.get("source", "—")))
+                w("")
+            w("### R55 证据摘录")
+            w("")
+            for f in rec55["facts"]:
+                w("- **【%s】**%s" % (f["dim"], f["text"]))
+                w("  > %s" % f["quote"])
+                w("  > 来源：%s" % f["url"])
+            w("")
 
         # 6 cautions
         w("## %s、注意点" % CN[sec])

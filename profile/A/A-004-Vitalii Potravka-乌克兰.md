@@ -114,7 +114,37 @@
 - **要问的问题**：他愿不愿意把配置模板固化下来，后面项目直接复用？
 - **随附证明**：CLI 参考卡 + MIB 清单 + 一份可复用的配置模板。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Vitalii Potravka**，乌克兰 Kyiv，个体 MikroTik 认证顾问（名录在册），**无公司网站**。搜索到 mikrotik.coach（Mikrotik 欧洲/亚洲培训站）有「Vitalii, Kyiv」课程好评——**疑似同一人但无法证实，按未证线索登记**。通道=gmail+乌克兰手机。
+- **芯片与在用型号**：无公开证据；个体顾问推定 MikroTik 家用/小商用线。出货量：无。
+- **关键人KP**：**Vitalii Potravka 本人**。邮箱 **webvetal.mob@gmail.com**（CSV 既有；gmail MX 有效——Gmail 用户级有效性不可外部验证，如实标注）。电话 **+380 97 931 2131**（Kyivstar）——**移动端可试 WhatsApp/Telegram+Viber（乌常用三件套）**，未验证。mikrotik.coach 若确系其人，则其近期仍在消费 MikroTik 培训（活跃度信号）。
+- **关注点与资质**：持 MikroTik 认证（CSV 载）；个体户的价格敏感度最高，对**小批量/样品价/直邮**最感兴趣；无发票级合规负担。无参展/社媒可核痕迹。
+- **优缺点SWOT**：**S**：直达本人；既有回复概率高于失联公司站；小单决策快。**W**：无企业身份可核，信用与量都小；信息稀少（站点/LinkedIn 皆无）。**O**：Kyiv 重建/ISP 小单市场；样品试水成本低。**T**：战时因素与地址可行性（DHL/UPS 对乌线路需单独确认）。
+- **Saga产品适配**：样品位：**STC-28DGGPM**（EXW $99）或 **STI-288GP**（工业非管理 8口 PoE，EXW $74.8，3 年保）——个体顾问拿得动的价位档；成单后再谈箱规。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Vitalii Potravka | 个体顾问 | webvetal.mob@gmail.com；+380 97 931 2131 | CSV 既有；gmail 域 MX 有效、用户级不可验；手机社媒绑定未验证 | 客户名单_反向信号_2026-09.csv#A-004 ・ https://mikrotik.com/consultants |
+| （疑似培训站好评人） | 未证线索 | mikrotik.coach（Kyiv 在线课程页） | 疑似 · 未证实 | https://mikrotik.coach/ |
+
+### R55 证据摘录
+
+- **【名录收录】**MikroTik 认证顾问名录在册个体（Kyiv）。
+  > Vitalii Potravka … 乌克兰 Kyiv … 集成商/顾问（MikroTik 认证）
+  > 来源：https://mikrotik.com/consultants
+- **【疑似活跃信号】**MikroTik 培训站出现 Kyiv 的 Vitalii 好评，时间近（2026 春季课程表）。
+  > Vitalii Kyiv — I am confident in my ability to work with MikroTik network solutions.
+  > 来源：https://mikrotik.coach/
+- **【邮箱 infra】**gmail.com MX 正常（Google 收件簇）；用户级有效性外部不可验。
+  > gmail.com MX: 5:gmail-smtp-in.l.google.com …（2026-09-28 本机核验）
+  > 来源：dns://gmail.com/MX
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -125,7 +155,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：Switching question for an MTCSWE holder
 
@@ -150,7 +180,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
