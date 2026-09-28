@@ -1,0 +1,202 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第20批（美国+芬兰行）。判据同前：站点在线+交换机品类/产品+网络/交换机/PoE 专营+小公司/短决策链→升级；大盘宽线/非转售/死站→维持B。",
+ "records": [
+  {
+   "code": "B-365",
+   "decision": "promote",
+   "site": "products.nace.tv",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛20】官网核对：NACE = North American Cable Equipment（美国 PA，宽带/线缆设备专业分销），自述 **«Your Trusted MikroTik Master Distributor»**（北美 MikroTik 总代），MikroTik 专页产品类目含 **Switches（/mikrotik-product/switches/，CRS312-4C8XG-RM 图）**、Routers、Wireless AP、Mounting Adapters、Power Supply、SFP/Accessories，提供 «Request MikroTik Pricing / Availability» 与 FAQ 商务表单 → 交换机品类+网络专营分销 → 人工定级升A（注：属大盘总代级，决策链偏长，跟进按大客户节奏）。",
+   "quote": "North American Cable (NACE)……As a trusted **Master Distributor** for MikroTik networking equipment, NACE provides the products, support, and reliable fulfillment integrators need to deploy faster and scale smarter.；MikroTik Product Categories We Offer: MikroTik Routers／**MikroTik Switches**（See More Products）／MikroTik Wireless Access Points／MikroTik Mounting Adapters／MikroTik Power Supply／MikroTik SFP/Accessories；Request MikroTik Pricing / Availability",
+   "sources": [
+    [
+     1,
+     "https://products.nace.tv/mikrotik/"
+    ],
+    [
+     2,
+     "https://products.nace.tv/mikrotik-product/switches/"
+    ]
+   ]
+  },
+  {
+   "code": "B-366",
+   "decision": "hold-B",
+   "site": "paceintl.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛20】官网核对：Pace International（美国 MN）为**多行业连接/VAD 分销**：三大主业 RV & Marine（房车船用连接与影音，DISH/Roku）、Commercial Video & Networking（商业视频与网络）、Field Service Operations（工具耗材，Milwaukee/DeWalt）；代理品牌含 MikroTik、Teltonika、TP-Link、Televes、Positron、InHand；官网未见交换机专类，网络为多品类之一 → 宽线 VAD、维持B。",
+   "quote": "Pace International | Connectivity Products & Expertise；Where we focus: **RV & Marine Connectivity & Entertainment**（Connectivity, entertainment, cabling, components…for RV & Marine manufacturers, retailers）／**Commercial Video & Networking**（Video distribution, networking equipment, connectivity infrastructure）／**Field Service Operations**（Tools, equipment, supplies, kits）；Brands we stock and stand behind: Milwaukee Tool／DISH Business／Teltonika／Roku／**MikroTik**／Positron／DeWalt／InHand Networks／Televes／TP-Link；Services: Sourcing／Assembly & Kitting／Distribution／Custom Fabrication／Outsourced Direct & Indirect Sales",
+   "sources": [
+    [
+     1,
+     "https://paceintl.com/"
+    ],
+    [
+     2,
+     "https://paceintl.com/environments/commercial-properties"
+    ]
+   ]
+  },
+  {
+   "code": "B-373",
+   "decision": "promote",
+   "site": "roc-noc.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛20】官网核对：rOc-nOc.com（ICD Group, Inc，美国 IL）为面向 ISP/WISP 的小型网络直营网店，自述 «offers Mikrotik Routerboards, RouterOS, APs, and other high value networking products with live inventory»、«Shop our site for Mikrotik routers, **switches**, WiFi APs, radios…»；在售 **CSS106-5G-1S（RB260GS 千兆智能交换机）$37**、**CRS328-24P-4S+RM PoE 交换机 $485**，支持 20/100 件箱批量折扣（Volume discounts…case lots of 20 and 100 pieces），当日美加及出口发运 → 交换机品类+网络专营小店 → 人工定级升A。",
+   "quote": "rOc-nOc.com offers Mikrotik Routerboards, RouterOS, APs, and other high value networking products with live inventory for your ISP, WISP, or other networking application.；Shop our site for Mikrotik routers, **switches**, WiFi APs, radios, wired and wireless LAN and WAN products.；Featured products: Mikrotik RouterBoard CSS106-5G-1S (aka RB260GS) Smart Gigabit Switch $37.00／Mikrotik Cloud Router Switch CRS328-24P-4S+RM – PoE out switch, 24 PoE out Gigabit Ethernet ports with 4 SFP+ cages $485.00；Volume discounts are available on many products sold in case lots of 20 and 100 pieces.；We serve North American and Export markets with shipments daily",
+   "sources": [
+    [
+     1,
+     "https://www.roc-noc.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-375",
+   "decision": "hold-B",
+   "site": "ruggedscience.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Rugged Science LLC（美国）自述 **«Rugged Military & Industrial Computing Solutions»**、«designs and manufactures advanced mil-spec embedded PCs and industrial computing platforms»（CMMI L3 / ISO 9001 / AS9100D）；产品线为加固机架服务器、军用控制台/平板/IoT 计算机等，军用系统下仅 **Rugged Network Switches (2 款)** 附属类目 → 加固计算机制造商，网络交换机非主营/非转售 → 维持B。",
+   "quote": "Rugged Military & Industrial Computing Solutions；Rugged Science designs and manufactures advanced mil-spec embedded PCs and industrial computing platforms…；Rugged Science is appraised at CMMI Maturity Level 3 and is an ISO 9001:2015 & AS9100D certified company.；Military Systems：Rugged Computer Consoles (7)／Rugged Flat Panel Displays (7)／Rugged HMI Workstations (8)／Rugged Mil-Spec Computers (8)／**Rugged Network Switches (2)**／Rugged Tactical Servers (3)",
+   "sources": [
+    [
+     1,
+     "https://ruggedscience.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-381",
+   "decision": "hold-B",
+   "site": "solutionboxusa.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Solution Box LLC（美国 FL 迈阿密，西语站）自述 **«Distribuidores de marcas líderes en soluciones tecnológicas»**（信息技术/连接/安全/数据中心/电信综合方案分销），品牌墙含 Mercusys/MikroTik/Ubiquiti/AMD/Adata/Apple/Corsair/EVGA/GoPro/Kingston/Motorola/MSI/Patriot/Seagate/Garmin/Intel/Targus/WD/Asus/HPE/Aruba/APC/Lenovo/Samsung/Panduit/QNAP/WatchGuard/Jabra/Logitech/Grandstream/Yealink/Yeastar/TP-Link/Cambium **数十个跨品类品牌**；下单需企业账户（«Necesitas tener una cuenta con ejecutivo asignado»）+ B2B 登录价 → 宽线 IT/数据中心大盘分销、决策链长，维持B。",
+   "quote": "Solution Box LLC - IT distribution company；Distribuidores de marcas líderes en soluciones tecnológicas. Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones.；Solicita tu usuario web：¿Eres cliente de Solution Box? Necesitas tener una cuenta con ejecutivo asignado；Marcas disponibles: Mercusys／**Mikrotik**／Ubiquiti／AMD／Adata／Apple／Corsair／EVGA／Gopro／Kingston／Motorola／MSI／Patriot／NSX／Seagate／Garmin／Intel／Targus／Western Digital／Asus／HPE／Aruba／APC／Lenovo／Samsung／Panduit／QNAP／Watchguard／Jabra／Logitech／Grandstream／Yealink／Yeastar／TP-Link／Cambium",
+   "sources": [
+    [
+     1,
+     "https://solutionboxusa.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-383",
+   "decision": "promote",
+   "site": "streakwave.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Streakwave（美国 CA，仓配 UT/OH）为无线宽带/网络专营分销商：**MikroTik 专区 364 款在售**、**Networking→Switches 类目 317 款**（Zyxel GS1900/GS2220、XMG1915 等），区域库存实时显示（如 HS-31DLC20D 20 in Utah），支持缺货预订 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Streakwave MikroTik Routers & Wireless；MikroTik（364 products found）；Networking / **Switches**：**317 products found**（48-Port GbE L2 Web Managed Rackmount Switch 2x SFP ZYX-GS1900-48 $299.99／8-Port 2.5GbE PoE++ L2 Smart Managed Switch 2 SFP+ ZYX-XMG1915-10EP $299.99／48-Port Gigabit PoE+ Managed Switch ZYX-GS2220-50HP $999.99）；MikroTik S+2733LC10D $129.82；库存：13 in Ohio / 20 in Utah",
+   "sources": [
+    [
+     1,
+     "https://www.streakwave.com/mikrotik"
+    ],
+    [
+     2,
+     "https://www.streakwave.com/switches"
+    ]
+   ]
+  },
+  {
+   "code": "B-390",
+   "decision": "hold-B",
+   "site": "vodanetsystems.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Vodanet Systems（美国 NJ，自述 «Global IT Hardware & Network Equipment»）为**会员制 B2B IT 硬件门户**（VodaPlus 需企业邮箱，shopping@vodanetsystems.info，+1 862 274 9010）；sitemap 可见品类涵盖 Switches（Cisco Catalyst 1000/9200/9300/9400/9500/9600）、Routers（Cisco ISR、Juniper ACX）、Wireless（Ruckus/Cisco/**MikroTik AP**）、Security Appliances、Server（Dell/HPE）、Power、Office（Dell/Kodak）、Surveillance（Axis）**跨十余类**；公开页无价格/无品类页 → 宽线 IT 硬件门户（交换机以 Cisco 企业级为主），维持B。",
+   "quote": "Vodanet Systems | Global IT Hardware & Network Equipment；VodaPlus: A New Class of Membership；A valid business email is required for VodaPlus applications. Personal email addresses are not eligible.；sitemap: /products/switches.html／/products/switches/cisco/catalyst-series/catalyst-1000.html…catalyst-9600／/products/routers/juniper/acx-series/…／/products/wireless-products/mikrotik/access-points.html／/products/server-products/dell/storage／/products/office-products/dell/docking-stations／/products/surveillance-devices/axis.html",
+   "sources": [
+    [
+     1,
+     "https://www.vodanetsystems.com/"
+    ],
+    [
+     2,
+     "https://www.vodanetsystems.com/sitemap.xml"
+    ]
+   ]
+  },
+  {
+   "code": "B-391",
+   "decision": "promote",
+   "site": "wavonline.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：WAV, Inc.（美国，自述 **«Top Wireless Equipment Distributor For WISP & ISP»**）为**有线/无线设备专业分销**：«From private LTE to fixed wireless broadband, **network switches**, Wi-Fi, and fiber»，$25M+ 常备库存 / 70,000+ SKU / 10,000+ 客户 / 35+ 年；首页轮播 **RUCKUS Full Speed Switching Promo**，方案页含 Networking and Wi-Fi、Fiber、Fixed Wireless Access，与 Tarana/Cambium/Cyclone 等 WiSP 品牌深度合作 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Top Wireless Equipment Distributor For WISP & ISP；We are a wired and wireless equipment distributor specializing in connecting your customers to the Internet. From private LTE to fixed wireless broadband, **network switches**, Wi-Fi, and fiber…；$25+ Million Daily On Hand Inventory／70,000+ SKUs Available／10,000+ Trusted Customers／Over 35+ Years Of Experience；RUCKUS Full Speed Switching Promo；Solutions: Fiber／Networking and Wi-Fi／Fixed Wireless Access；Featured: Cambium ePMP 3000 5GHz AP $692.80；Become a Partner",
+   "sources": [
+    [
+     1,
+     "https://www.wavonline.com/"
+    ],
+    [
+     2,
+     "https://www.wavonline.com/promotions"
+    ]
+   ]
+  },
+  {
+   "code": "B-395",
+   "decision": "promote",
+   "site": "icomtechinc.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：iComTech, Inc.（美国，1-800-301-9097，网店带购物车/注册）为**工业以太网交换机专营供应**：全站品类即以 **Ethernet Switches** 起（卡式/CompactPCI/桌面型/**EN50155 车载**/**IEC 61850-3 电力**/工业 DIN 导轨托管与非托管/工业 PoE 交换机与注入器/工业 10Gb 核心交换机），另有 Media Converters、Ethernet Extenders、SFP 模块、串口设备等 → 交换机品类+工业网络专营小公司 → 人工定级升A。",
+   "quote": "iComTech® - Complete Industrial Network Computing Provider；SHOP BY CATEGORY — **Ethernet Switches**：Card-Type Ethernet Switch（Industrial PCI/PCIe/PCIe PoE/Module）／CompactPCI Ethernet Switch／Desktop-type Ethernet Switch（含 Layer 3 Gigabit）／**EN50155 Ethernet Switch**（Managed/Unmanaged）／**IEC 61850-3 Ethernet Switch**（DIN-Rail/Rackmount）／Industrial 10Gb Core Switches／Industrial Router／Industrial DIN-Rail Ethernet Switches／Industrial PoE Switches（PoE Injectors/Splitters/Switches）／Industrial Rackmount Ethernet Switches／Ethernet SFP Modules／Ethernet Accessories；Contact us @ 1-800-301-9097",
+   "sources": [
+    [
+     1,
+     "https://icomtechinc.com/"
+    ],
+    [
+     2,
+     "https://icomtechinc.com/ethernet-switches/"
+    ]
+   ]
+  },
+  {
+   "code": "B-530",
+   "decision": "promote",
+   "site": "datamonitor.fi",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Data Monitor Communication Finland Oy（1994 年起，dm@datamonitor.fi，+358 9 225 2270）为**通信/网络产品进口商**：产品组含 Tietoliikenne（通信）与 **Lähiverkot（局域网）——«työryhmä-, PoE-, TOR- ja teollisuuskytkimet, mediamuuntimet ja WiFi verkot»（工作组/PoE/ToR/工业交换机、媒体转换器、WiFi）**，另配线材附件；首页强调 WiFi6/7 与 **PoE-kytkimet 与电源** → 交换机品类+网络专营进口分销 → 人工定级升A。",
+   "quote": "Data Monitor Oy | Asiantunteva ja palveleva tietoliikennetuotteiden maahantuoja（专业的通信产品进口商）；Tuoteryhmät — Lähiverkot：Toimitamme ratkaisut teollisuuden, konesalien ja toimitilojen lähiverkkototeutuksiin. Lähiverkkovalikoimamme tuotteita ovat esim. **työryhmä-, PoE-, TOR- ja teollisuuskytkimet, mediamuuntimet ja WiFi verkot**；Wifi6, WiFi7 … yhdistettynä **PoE-kytkimiin ja virtalähteisiin**；Osaamista ja onnistumisia jo vuodesta 1994；dm@datamonitor.fi +358 9 225 2270",
+   "sources": [
+    [
+     1,
+     "https://datamonitor.fi/"
+    ],
+    [
+     2,
+     "https://datamonitor.fi/tuoteryhmat/"
+    ]
+   ]
+  },
+  {
+   "code": "B-397",
+   "decision": "hold-B",
+   "site": "fiseg.fi",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：Fiseg Oy（芬兰 Tampere，myynti@fiseg.fi，+358 50 5726 268）自述 »Automaatiotuotteet ja anturit kaikkialle teollisuuteen ja liikkuvaan kalustoon yli 20 vuoden kokemuksella»（工业与移动机械用自动化产品与传感器，20+ 年），品类为传感器/操纵杆/踏板/调节器/工业 PC/安全产品/**工业数据传输（含 ethernet kytkimet 以太网交换机）**/编码器/控制器/I-O 等，代理 Gefran 等 → 工业传感器与自动化分销，交换机为工业数据传输小类 → 维持B。",
+   "quote": "Finnish Sensor Group — Automaatiotuotteet ja anturit kaikkialle teollisuuteen ja liikkuvaan kalustoon yli 20 vuoden kokemuksella.；Tuotevalikoimastamme löydät erilaiset anturit… ja kaikki muut tarvikkeet teollisuuden automaatioon.；Teollisuuden tiedonsiirto：Laaja tuotevalikoima perinteisiä ja langattomia tuotteita…Valikoimastamme löytyvät **ethernet kytkimet**, muuntimet sekä liukurenkaat ja kaapelirummut liikkuvaan kalustoon.；myynti@fiseg.fi",
+   "sources": [
+    [
+     1,
+     "https://www.fiseg.fi/"
+    ]
+   ]
+  },
+  {
+   "code": "B-398",
+   "decision": "hold-B",
+   "site": "localnet.fi",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛20】官网核对：LocalNet（Local Loop Oy，芬兰 Espoo，myynti@localnet.fi，09-42413260）为**光纤宽带运营商/主机与数据中心服务商**（自 2003 年），面向家庭/企业/物业售卖 100–1000 Mbit 光纤上网、机房托管与虚拟服务器、企业 Wi-Fi 方案；官网无设备商城、无交换机品类 → 运营商自用，非设备转售 → 维持B。",
+   "quote": "LocalNet - ketterä suomalainen nettioperaattori；Valokuituyhteydet…Alkaen 27,90 €/kk；Palvelut yrityksille：Yritysliittymä／**Wi-Fi-verkot ja muut yrityspalvelut**／Virtuaalipalvelimet ja konesalipalvelut；LocalNet on suomalainen Internet- ja hostingpalveluyritys；© Local Loop Oy - Internet-yhteyksiä…jo vuodesta 2003（Kappelikuja 6, 02200 Espoo；myynti@localnet.fi）",
+   "sources": [
+    [
+     1,
+     "https://localnet.fi/"
+    ]
+   ]
+  }
+ ]
+}
