@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第10批.json`。
+
+- **业务定位**：斯图加特 142 人电气与楼宇技术商：网络/安全/新能源/活动供电五板块，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：电气安装/网络信息技术（WLAN/布线/交换）/安防/光伏/展馆与活动临时供电。
+- **目标行业与场景**：商业楼与展馆项目（Messehallen 照明案例）；活动临时基建。
+- **团队与规模**：142 人中型，双点运营。
+- **决策链与对接人**：info@ziegler-sh.de（CSV 9-27：总部地址匹配 Stuttgart，非分支展会专用邮箱）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：电气总包节奏：网络分包里的交换/PoE 件随楼项目走；WLAN 勘测项目=无线 AP 的 PoE 供电层刚配——项目 BOM 明。
+- **近期动态与线索**：2026-09 六名新学徒入职+展馆照明项目交付。
+- **与我方契合点**：楼项目 WLAN/监控的 PoE 接入层+活动临时网的工业小件。
+- **风险与注意**：电气公司网络件随项目窗口谈；德文报价+规格对照一页式。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网五板块中第二即「网络信息技术——数字化不受干扰」——它是电气公司为骨的全面商，另有活动供电新线。
+  > Geschäftsfelder: Elektrotechnik（Intelligent steuern）· Netzwerk-Informationstechnik（Weltweit verbinden – Digitalisierung – wir sichern störungsfreie Abläufe zu jeder Zeit）· Erneuerbare Energien · Sicherheitstechnik · Energieversorgung bei Veranstaltungen（Ob Messe, Konzert, Festival）
+  > 来源：https://www.ziegler-systemhaus.de/
+- **【团队与规模】**官网硬数据：500+ 项目完成、142 名员工（14 名学徒）、2001 年起、双点 Stuttgart+Schwieberdingen。
+  > 500+ Erfolgreich abgeschlossene Projekte · 140+ Hochspezialisierte Mitarbeitende · 25+ Jahre in der Branche tätig ‖ Seit 2001 · 142 Mitarbeitende · 14 Auszubildende ‖ Büros in Stuttgart und Schwieberdingen
+  > 来源：https://www.ziegler-systemhaus.de/
+- **【近期动态与线索】**项目新闻：三馆展馆照明改造+专业 WLAN 无线勘测（WLAN-Ausleuchtung）——网络项目常态在接。
+  > Beleuchtungstausch in drei Messehallen（项目）‖ Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk（项目）
+  > 来源：https://www.ziegler-systemhaus.de/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（楼项目 WLAN/监控供电接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：顺他 WLAN 勘测项目：AP/监控点位的 24 口 PoE++ 接入层现场对照。
+- **要问的问题**：楼项目 AP/监控点位的供电交换现在配什么？
+- **随附证明**：规格对照 + 项目价 + DIN/上架双模图（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（活动/竖井/车库点位）
+
+- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **切入点**：活动临时网与竖井/车库点位：4-8 口宽温小机试单价。
+- **要问的问题**：活动/竖井点位的小交换用什么？
+- **随附证明**：宽温报告 + 试单价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（楼宇网分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：楼宇弱电的分段标准件：VLAN/ERPS 模板进他的规划库。
+- **要问的问题**：弱电分段模板要不要进规划库？
+- **随附证明**：VLAN/ERPS 模板 + 实测（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

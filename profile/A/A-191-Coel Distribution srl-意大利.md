@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第10批.json`。
+
+- **业务定位**：蒙扎旁 Muggiò 布线与 IT 部件分销商：缆与无源件为骨、交换/视监为辅，Allied Resell（CSV 记录；品牌墙含 Allied 本体）。
+- **产品线与在售品牌**：布线大厂牌+工具熔接+Allied/Planet/LevelOne 交换线+海康/GeoVision 视监线+自有 Coel Cables。
+- **目标行业与场景**：北意安装商/数据中心项目方（B2B 分销正路）。
+- **团队与规模**：中型专业分销。
+- **决策链与对接人**：info@coeldistribution.it（CSV 9-27：联系页明细位）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：他已经有 Allied+Planet（Planet 有工业宽温线）——直接对撞类目不可取；现实空间：①PoE++ 大功率商用接入层他的平民线堆头薄 ②单端口进价优势的第二来源 ③缆旁供电件的套装话术（缆+交换成套）。
+- **近期动态与线索**：品牌墙 2026 年更新活跃（NTT AT/GeoVision/Shinho 2026 新上）。
+- **与我方契合点**：缆旁供电件的套装逻辑：他卖缆，我们交换——联合 BOM 话术谈；或作高功率 PoE++ 补位 SKU。
+- **风险与注意**：别硬顶其 Allied/Planet 锚位：以「缆旁补位/大功率空档」话术进入；先问类目经理缺什么档。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网：IT 基础设施部件与系统分销商——品牌墙含 **Allied Telesis 本体**+Planet/LevelOne 平民交换系+海康/GeoVision 视监系。
+  > componenti e sistemi per le infrastrutture tecnologiche nell'IT ‖（品牌墙）Allied Telesis · Planet Networking · LevelOne · Hikvision · GeoVision
+  > 来源：https://www.coeldistribution.it/
+- **【产品线与在售品牌】**布线主线厚：Prysmian/Datwyler/R&M/Rosenberger/Legrand/Leviton/Acome/Beta Cavi+工具（Klein/Trend Networks）与熔接（Shinho/Fujikura 系）——缆与无源件是骨。
+  > （品牌墙）Prysmian Group · Datwyler · Reichle & De-Massari · Rosenberger · Legrand · Leviton · Acome · Beta Cavi · Klein Tools · Trend Networks · Shinho · Patchsee · NTT AT · Metz Connect · HellermannTyton
+  > 来源：https://www.coeldistribution.it/
+- **【决策链与对接人】**CSV 9-27：联系页明确列 Muggiò 地址/税号/邮箱；第三方聚合站误置印度不采用。
+  > 官网联系页明确列出 Muggiò 地址、税号及邮箱；第三方聚合站把本公司误放印度，不采用其信息（CSV 2026-09-27 记录）
+  > 来源：https://www.coeldistribution.it/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（缆旁高功率 PoE++ 补位）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：缆+交换联合 BOM 话术：24 口 PoE++ 当布线项目的大功率电源位——他平民线堆头薄的档位。
+- **要问的问题**：布线项目的大功率 PoE++ 档位目录里有吗？（意/英）
+- **随附证明**：类目档位分析 + 分销价目。
+
+### 第 2 次跟进 · 工业级非管理 PoE（第二来源/价格带补位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：他 Planet 工业线在：按第二来源+价格带补位谈宽温 DIN PoE，不争主锚。
+- **要问的问题**：工业件有没有第二来源/更优价格带的需求？
+- **随附证明**：价格带对照 + 宽温报告（意/英）。
+
+### 第 3 次跟进 · 管理型 PoE（项目第二来源 SKU）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：管理型（ERPS/L3/10G）项目第二来源 SKU 上架评估。
+- **要问的问题**：项目比价的第二来源管理件要不要评估？
+- **随附证明**：VLAN/ERPS 速查 + 分销条款（意/英）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

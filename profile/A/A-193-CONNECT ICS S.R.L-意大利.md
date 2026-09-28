@@ -58,7 +58,61 @@
 
 这类人最在意「会不会砸我招牌」——绝不能让他推荐没实测过的东西；给他的一定要先自己测通；后续他带来的单子要让他有面子也有实际收益
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第10批.json`。
+
+- **业务定位**：莱切 SMB 全包店：网络/安全/打印/办公/视监门禁六块，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：LAN/WiFi/防火墙/备份 DR/打印/办公家具/视监/ScanFACE 温测门禁。
+- **目标行业与场景**：普利亚大区小微企业办公网与门店安防。
+- **团队与规模**：小型（工单台+明示作息）。
+- **决策链与对接人**：info@connect-ics.it（CSV 9-27：地址公司名吻合；勿用美国同名站——CSV 原话）。
+- **技术与认证**：ESET/WatchGuard/Acronis/Yeastar/HPE BP 认证（官网）；Allied Resell（CSV 记录）。
+- **采购与供应链信号**：小户价格敏感：门禁/视监 PoE 小件+办公网接入层的试单价逻辑。
+- **近期动态与线索**：新闻流 2018-2020 老帖为主（站维护轻）——电话文化。
+- **与我方契合点**：ScanFACE/视监项目的接入层 PoE 与库房小机。
+- **风险与注意**：新闻区沉旧≠停业（工单台+作息在线）；报价一页式。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网六块服务牌：网络与电话/IT 安全/数码打印/Web 与 PEC 邮箱/**办公家具**/视监与门禁（ScanFACE 无触测温门禁）——南意 SMB 全包店。
+  > I Nostri Servizi: Networking e Telefonia · Sicurezza Informatica · Digital Copy e Printer · Servizi Web e Posta Professionale · Arredo Ufficio · Sicurezza e Videosorveglianza（Controllo Accessi ScanFACE 3-in-1 touchless con termo-scanner）
+  > 来源：https://www.connect-ics.it/
+- **【产品线与在售品牌】**认证伙伴墙：ESET/WatchGuard/Acronis/Imagicle/Yeastar/HPE Business Partner/Dell——安全+通信栈清晰。
+  > Siamo Partner Certificati: ESET · WatchGuard · Acronis · Imagicle · Yeastar · HPE Business Partner · Dell
+  > 来源：https://www.connect-ics.it/
+- **【决策链与对接人】**官网明牌：Lecce 电话 0832.454561+工作日 9:00-17:30+工单台（helpdesk 子域）——CSV 9-27 邮箱同域互证。
+  > Aperti dal Lunedì al Venerdì dalle ore 9:00 alle 17:30 · 0832.454561 · Assistenza Tecnica (Apri un Ticket) helpdesk.connect-ics.it
+  > 来源：https://www.connect-ics.it/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（门店视监/门禁接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：ScanFACE/视监项目：24 口 PoE++ 一页试用价（小微预算版）。
+- **要问的问题**：视监/门禁项目的接入层现在配什么？
+- **随附证明**：一页报价 + 规格要点（意/英）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（车库/库房小点位）
+
+- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **切入点**：车库/库房小点位：4 口宽温小机试单价。
+- **要问的问题**：库房小点位用什么交换？
+- **随附证明**：宽温报告 + 试单价。
+
+### 第 3 次跟进 · 管理型 PoE（安防网分段简件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：WiFi/安防网分段简件：VLAN 速查一张。
+- **要问的问题**：安防网分段模板要不要留一份？
+- **随附证明**：VLAN 速查卡。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Sample unit for your training lab
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
