@@ -18,15 +18,19 @@
   },
   {
    "code": "B-195",
-   "decision": "pending",
+   "decision": "promote",
    "site": "discomp.cz",
    "level": "official-company",
-   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：Discomp（捷克）自述「dodáváme síťové prvky a bezdrátové řešení pro firmy」（为企业供应网络设备与无线方案），主营 MikroTik（SFP/KNOT/cAP ax）、Ubiquiti、TP-Link Omada、Teltonika、RF elements，B2B 注册价；首页样本未捕获交换机型号 → 待核验 MikroTik CRS 类目；本轮维持B。",
-   "quote": "Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy；New products: MikroTik HS-85DLC05D SFP／Ubiquiti UACC-AI-PTZ／Teltonika RUTM50／TP-Link Flex Bridge 5／RF elements SH20WB；Registration: Better prices, credit, validation by SN",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：Discomp（捷克）自述「dodáváme síťové prvky a bezdrátové řešení pro firmy」（为企业供应网络设备与无线方案，B2B 注册价/信用额度）；**站内 CRS 检索返回 46 件 MikroTik Cloud Router Switch**：CRS326-24G-2S+RM（SwOS/RouterOS 24 口千兆+2×SFP+）、CRS328-24P-4S+RM（PoE 交换机 500W，802.3af/at）、CRS317-1G-16S+RM（L3，16×SFP+）、CRS112-8P-4S-IN（千兆 PoE 路由/交换机）、CRS106-1C-5S 等 → 交换机品类完整+网络专营分销 → 人工定级升A。",
+   "quote": "Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy；Searching \"CRS\" → 46 items：MikroTik Cloud Router Switch CRS326-24G-2S+RM（SwOS/RouterOS powered 24 port Gigabit Ethernet switch with two SFP+ ports）／CRS328-24P-4S+RM（PoE switch, 500W, 802.3af/at）／CRS317-1G-16S+RM（rack-mountable manageable switch with Layer3 features, 16 SFP+）／CRS112-8P-4S-IN（eight-port Gigabit PoE Router/Switch）",
    "sources": [
     [
      1,
      "https://www.discomp.cz/"
+    ],
+    [
+     2,
+     "https://www.discomp.cz/default.asp?cls=stoitems&stifulltext_search=and&fulltext=CRS"
     ]
    ]
   },
