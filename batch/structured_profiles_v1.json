@@ -20969,7 +20969,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Goretti 翁布里亚综合电工：Reti 支线随单（$165 锚点一致）；CSV 邮箱供位待核",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -21050,11 +21050,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "IFI 摩德纳 27 牌墙集成：级别之下的接入 value 缝（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21132,11 +21132,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "JM 数字化咨询：IT Service 支线随单窄位（$165 锚点一致）低优先",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21173,11 +21173,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "LocalNet Allied/Omada 双银实版：双轨旁 value 第二轨+酒店线（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21217,7 +21217,7 @@
   ],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Luca Masetto Allied 独立集成商：无可确认邮箱——建档供位待用户报邮箱（B 边批19 先例）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -21298,11 +21298,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "N&C 700 人 8BU 大集成：Networking BU value 测试窄位（$165 锚点一致）低优先；体距明示",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21339,11 +21339,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "NA.EL 低信号配件页：窄位低优先（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21421,11 +21421,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "NSI Cuneo SMB 自研 NSGest：服务谱随单 value 件（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21462,11 +21462,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Newsoft 皮埃蒙特 Zebra/3CX 同盟：VoIP+仓储接入（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21504,7 +21504,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Omniconnect AXIS/MOBOTIX+Riello：商业段随单（$165 锚点一致）；军事谱系守界+Allied 列位",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",

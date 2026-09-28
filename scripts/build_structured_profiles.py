@@ -346,6 +346,17 @@ OVERRIDE = {
  'A-198': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Fiore 弱电分销巨头（自产 Fiore Rack）：networking 支线新线+白牌 ODM（$165 锚点一致）'},
  'A-199': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Gecopra TLC 工程承包：商业段随单（$165 锚点一致）；GPS Train 铁路谱系守界'},
  'A-200': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'GIS 安防 SI 集团 100 人：GDO/工业物流私段（$165 锚点一致）；公共/基建两段守界'},
+ # ── R56 批 21（A-201..A-210 深挖 2026-09-28）──
+ 'A-201': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Goretti 翁布里亚综合电工：Reti 支线随单（$165 锚点一致）；CSV 邮箱供位待核'},
+ 'A-202': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'IFI 摩德纳 27 牌墙集成：级别之下的接入 value 缝（$165 锚点一致）'},
+ 'A-203': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'JM 数字化咨询：IT Service 支线随单窄位（$165 锚点一致）低优先'},
+ 'A-204': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'LocalNet Allied/Omada 双银实版：双轨旁 value 第二轨+酒店线（$165 锚点一致）'},
+ 'A-205': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Luca Masetto Allied 独立集成商：无可确认邮箱——建档供位待用户报邮箱（B 边批19 先例）'},
+ 'A-206': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'N&C 700 人 8BU 大集成：Networking BU value 测试窄位（$165 锚点一致）低优先；体距明示'},
+ 'A-207': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'NA.EL 低信号配件页：窄位低优先（$165 锚点一致）'},
+ 'A-208': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'NSI Cuneo SMB 自研 NSGest：服务谱随单 value 件（$165 锚点一致）'},
+ 'A-209': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Newsoft 皮埃蒙特 Zebra/3CX 同盟：VoIP+仓储接入（$165 锚点一致）'},
+ 'A-210': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Omniconnect AXIS/MOBOTIX+Riello：商业段随单（$165 锚点一致）；军事谱系守界+Allied 列位'},
 }
 
 out = {}

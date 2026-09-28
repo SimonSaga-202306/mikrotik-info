@@ -125,6 +125,22 @@ updated: 2026-09-28
   > （客户墙）Salvi Harps · Confartigianato Cuneo · agriAstigiane · braservizi · opificioMiretto ‖ partner fondatore di digi-network.it · Polo di Innovazione ICT della Regione Piemonte
   > 来源：https://www.newsoft-tech.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：皮埃蒙特 SI（Zebra/3CX 同盟；三体；“artigiani”文化）
+- **②芯片/型号**：3CX 实版
+- **③KP 深挖**：info@+具名团队
+- **④Saga 对标**：Voice VLAN 实谱的 VoIP 接入件
+- **⑤在乎与偏好**：文档+伙伴文化
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“dal 1998 artigiani dell’informatica…[staff:] Carlo, Davide, Riccardo, Mattia…[certs:] Zebra Reseller Ruby, 3CX partner…Voucher MIMIT…Digi-Network”
+  > “dal 1998 artigiani dell’informatica…[staff:] Carlo, Davide, Riccardo, Mattia…[certs:] Zebra Reseller Ruby, 3CX partner…Voucher MIMIT…Digi-Network”
+  > 来源：https://www.newsoft-tech.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：同盟
+- **W**：区域
+- **O**：段
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi NEWSOFT,
+Hi Newsoft team,
 
-I came across NEWSOFT Technology SRL - 集成商/代理（Allied Telesis）.
+“Artigiani dell'informatica since 1998” - and the 3CX badge beside the Zebra Ruby tells us your bench includes both VoIP and the warehouse edge. (Plus plotteronline.it, which needs no introduction in Piedmont.)
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the access layer in your 3CX and Zebra projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your voice and magazzino installations, which switch brand holds the access layer today - and would a documented craftsman-grade alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

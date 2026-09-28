@@ -9694,6 +9694,14 @@
         "locator": "L184"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L211"
+      },
+      {
         "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
         "locator": "L120"
       },
@@ -9704,6 +9712,10 @@
       {
         "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
+        "locator": "L142"
       }
     ]
   },
@@ -19418,6 +19430,14 @@
         "locator": "L549"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L636"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L657"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L229"
       },
@@ -19432,6 +19452,10 @@
       {
         "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -27278,6 +27302,18 @@
         "locator": "L330"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L369"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L390"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L445"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L148"
       },
@@ -27296,6 +27332,14 @@
       {
         "path": "profile/A/A-205-Luca Masetto-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-205-Luca Masetto-意大利.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-205-Luca Masetto-意大利.md",
+        "locator": "L202"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -36310,6 +36354,14 @@
         "locator": "L38"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L32"
+      },
+      {
         "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
         "locator": "L121"
       },
@@ -36320,6 +36372,10 @@
       {
         "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
+        "locator": "L143"
       }
     ]
   },
@@ -37536,6 +37592,14 @@
         "locator": "L111"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L100"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L121"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L71"
       },
@@ -37550,6 +37614,10 @@
       {
         "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -41170,6 +41238,14 @@
         "locator": "L257"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L279"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L300"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L121"
       },
@@ -41184,6 +41260,10 @@
       {
         "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -43466,6 +43546,24 @@
     ]
   },
   {
+    "url": "https://www.nael.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L547"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L568"
+      },
+      {
+        "path": "profile/A/A-207-NA.EL Srl-意大利.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.nael.it/en/",
     "http_checked": false,
     "occurrences": [
@@ -43586,6 +43684,14 @@
         "locator": "L403"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L458"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L479"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L179"
       },
@@ -43600,6 +43706,10 @@
       {
         "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -44240,6 +44350,14 @@
         "locator": "L622"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L726"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L747"
+      },
+      {
         "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
         "locator": "L120"
       },
@@ -44250,6 +44368,10 @@
       {
         "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
+        "locator": "L142"
       }
     ]
   },
@@ -45286,6 +45408,14 @@
         "locator": "L695"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L816"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第21批.json",
+        "locator": "L837"
+      },
+      {
         "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
         "locator": "L121"
       },
@@ -45296,6 +45426,10 @@
       {
         "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
+        "locator": "L143"
       }
     ]
   },

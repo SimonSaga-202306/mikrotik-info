@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Impianti telefonici tradizionali e Voip · videosorveglianza, anti-incendio · controllo accessi · building automation · Sistemi di automazione alberghiera · Networking, cablaggio strutturato e apparati attivi · reti in fibra ottica · WiFi e WiMax · rilevazione presenze ‖ BASIC/FULL/BUSINESS/VIP（VIP: 障碍 4h, 7天制）
   > 来源：https://www.localnettoscana.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：托斯卡纳 SI（Allied/Omada 双银实版；酒店自动化线）
+- **②芯片/型号**：Allied/Omada/华为 实版
+- **③KP 深挖**：info.firenze@
+- **④Saga 对标**：双银旁 value 第二轨
+- **⑤在乎与偏好**：徽章级文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
+  > “[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
+  > 来源：https://www.localnettoscana.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：双银
+- **W**：同盟
+- **O**：二线
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Localnet,
+Hi LocalNet team,
 
-I came across Localnet Firenze Srl - 集成商/代理（Allied Telesis）.
+Two silver badges on the same wall - Allied Telesis and Omada - plus the alberghiera automation line serving Tuscany's hotel stock. When the talk turns to the access layer between those brands, a documented third track deserves a look.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value track beside your Allied and Omada silver lines, including at the hotel-room edge.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your impianti projects - security, hospitality automation, structured cabling - is the access layer always Allied or Omada, or is there room for a documented value third track?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

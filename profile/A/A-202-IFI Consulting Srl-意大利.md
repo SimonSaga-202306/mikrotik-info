@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Grazie alla presenza fisica in differenti zone d'Italia, il team IFI progetta soluzioni… · Storie di successo（case-history 页）· My-IFI 客户门户
   > 来源：https://www.ificonsulting.eu/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：安全/基础架构集成（27 牌墙+Yealink+OT 线）
+- **②芯片/型号**：大牌墙+Yealink
+- **③KP 深挖**：assistenza@
+- **④Saga 对标**：接入层 value 缝（大牌墙之下）
+- **⑤在乎与偏好**：集成级文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
+  > “security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
+  > 来源：https://www.ificonsulting.eu/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：多城
+- **W**：墙
+- **O**：缝
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi IFI,
+Hi IFI Consulting team,
 
-I came across IFI Consulting Srl - 集成商/代理（Allied Telesis）.
+A 27-vendor wall - Cisco, Palo Alto, Fortinet, Yealink - and an OT Security line for industrial sites. When the engagement reaches the wiring closet, the access switch is rarely the headline vendor, which is exactly the layer we service.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a documented value unit for the access layer in your infrastructure projects, beside your marquee brands and never against them.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your infrastructure or OT-security projects, which switch brand holds the gigabit access layer today - and would a documented value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
