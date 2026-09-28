@@ -62,7 +62,61 @@
 
 这类人最在意「会不会砸我招牌」——绝不能让他推荐没实测过的东西；给他的一定要先自己测通；后续他带来的单子要让他有面子也有实际收益
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第15批.json`。
+
+- **业务定位**：荷兰 30 年 ICT 分销（Switches 正式类目+次日达物流+Academy 培训配套）——**目录扩品逻辑直通的分销户**。
+- **产品线与在售品牌**：Ubiquiti/TP-Link/MikroTik/Grandstream/Gigaset 横幅系+DECT/AP/交换/机柜/防火墙。
+- **目标行业与场景**：荷兰经销商/集成商渠道（注册开户制）。
+- **团队与规模**：中型分销（微软 bookings 咨询排期体系=流程成熟）。
+- **决策链与对接人**：verkoop@sdc.nl（销售分箱，CSV 9-27）。
+- **技术与认证**：（分销职能+Academy 课程线；Aris 个人 MTCRE 名录在册）。
+- **采购与供应链信号**：**Switches 类目扩品**：其横幅系交换机（Ubiquiti/TPLink/Grandstream）之外补 24 口监控 PoE++ 价位档与工业宽温件。
+- **近期动态与线索**：2026 伙伴大会横幅在首页=渠道活跃期、供应商评估窗口。
+- **与我方契合点**：24 口 PoE 上架一页（分销条件+梯价）+工业件窄线+SFP 配件。
+- **风险与注意**：Aris 个人不直联（CSV 限制）；Grandstream GWN 交换线在架——价位档话术不顶牌。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**杜廷赫姆的 **ICT 分销商**（站题 Jouw ICT-Distributeur，30+ 年）：17 点前下单次日达+24/7 support desk+Academy 培训线+2026 伙伴大会。
+  > SDC.nl — Jouw ICT-Distributeur ‖ Voor 17.00 uur besteld, morgen in huis ‖ 24/7 support desk ‖ Ruim 30 jaar ervaring
+  > 来源：https://sdc.nl/
+- **【产品线与在售品牌】**头牌横幅：Gigaset Pro/Ubiquiti/TP-Link/**MikroTik**/Grandstream；热销：Omada EAP773、UniFi U7 Pro、MikroTik hAP ax3、Grandstream GCC6020 防火墙；类目：DECT/Access points/**Switches**/Smart Building（机柜）/Firewalls/桌面话机。
+  > （品牌横幅）gigaset · ubiquiti · tp-link · mikrotik · grandstream ‖ Onze top categorieën — Dect-Telefonie · Access points · Switches · Smart Building · Firewalls · Bureautoestellen
+  > 来源：https://sdc.nl/
+- **【决策链与对接人】**info@/verkoop@/support@sdc.nl 官网分箱（CSV 9-27 official-company）；Aris 在 CSV 记录里为某 MikroTik 增值总代售前顾问与认证讲师——**个人归属限制按备注执行，外联走公司箱**。
+  > （CSV 2026-09-27 记录）sdc.nl 官网给 info@/verkoop@/support@sdc.nl 与 0314 371111/150/160、Havenstraat 39 Doetinchem；ChannelConnect…official-company
+  > 来源：https://sdc.nl/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · Switches 类目扩品：24 口监控 PoE 上架一页
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：对 verkoop@：Switches 类目录的 24 口监控 PoE++ 价位档供应商上架提案（分销条件+次日达可配合节奏+梯价）。
+- **要问的问题**：Switches 类目有开新供应商位吗？24 口 PoE 价位档谁在占？
+- **随附证明**：上架一页提案（荷/英）+ 梯价表。
+
+### 第 2 次跟进 · 工业宽温件窄线
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **切入点**：Smart Building/机房外柜场景的宽温件窄线。
+- **要问的问题**：机房外/弱电井场景的宽温件有货架位吗？
+- **随附证明**：工业件一页。
+
+### 第 3 次跟进 · SFP/配件与 Academy 自用位（分开短件）
+
+- **推什么**：SFP 目录 + 演示机（可选）
+- **切入点**：主件配件窄线价卡；随后一句 Academy 实验环境要不要演示机（自用位，不向学员推）。
+- **要问的问题**：SFP 配件窄线+实验自用演示机各留档。
+- **随附证明**：配件价卡+演示机条款各一页。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -73,7 +127,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Sample unit for your training lab
 
@@ -98,7 +152,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
