@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 意大利官方 Trainer 双线：教具实验架红线内；WISP 咨询客户项目推荐位第 2 步；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -127,11 +127,33 @@ updated: 2026-09-28
   > Corsi di formazione ufficiali MikroTik；Certificazioni MikroTik：MTCNA｜MTCRE｜MTCINE｜MTCTCE｜MTCUME｜MTCWE｜MTCIPv6E｜MTCSE；(corsi on-line su Udemy)
   > 来源：https://mikrotik-training.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Lamezia Terme 官方 Trainer；Udemy 意语课；RIPE/MPLS 咨询线
+- **②芯片/型号**：MikroTik 谱系
+- **③KP 深挖**：Falà 本人；LinkedIn alejandropablofala
+- **④Saga 对标**：教具 8 口+WISP POP 24 口双线
+- **⑤在乎与偏好**：南意 WISP 圈口碑；师者真实
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Corsi di formazione ufficiali…Consulenza per Wisp e Isp / RIPE Gestione pratiche…Ospf Mpls Vpls Bgp”
+  > “Corsi di formazione ufficiali…Consulenza per Wisp e Isp / RIPE Gestione pratiche…Ospf Mpls Vpls Bgp”
+  > 来源：https://mikrotik-training.it/
+- **【近期动态与线索】**“Corso MikroTik MTCNA Lamezia Terme Ottobre 26-28 / MTCRE Gennaio 2027 / MTCRE Cagliari Febbraio 2027”
+  > “Corso MikroTik MTCNA Lamezia Terme Ottobre 26-28 / MTCRE Gennaio 2027 / MTCRE Cagliari Febbraio 2027”
+  > 来源：https://mikrotik-training.it/
+- **【联系方式】**info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://mikrotik-training.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 意大利官方 Trainer 双线：教具实验架红线内；WISP 咨询客户项目推荐位第 2 步 |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -140,10 +162,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：官方 Trainer+RIPE 咨询
+- **W**：个人带宽
+- **O**：南意 WISP 盘子
+- **T**：官方教具
 
 ## 触达与风险红线
 
@@ -181,21 +203,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Alejandro,
 
-I came across MikroTik Training Italia - 集成商/顾问（MikroTik 认证）.
+I came across MikroTik Training Italia - official courses from Lamezia to Cagliari, plus the WISP consultancy side with RIPE and MPLS work.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a compact 8-port managed PoE switch well suited for training benches and WISP access corners (802.3af/at, PoE watchdog, full L2). Reference: $99 USD EXW.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: which switch models do you currently put on the bench for switching labs?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

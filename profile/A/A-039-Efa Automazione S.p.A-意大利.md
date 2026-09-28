@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — EFA/Relatech 工业 DT：温宽 PoE+看门狗错位 Red Lion/N-Tron（$74.8 邮件锚点一致）；水务公用段规避；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -126,11 +126,36 @@ updated: 2026-09-28
   > EFA Automazione S.p.A. è una società [del gruppo Relatech]；Il trentennale know-how maturato sul campo … l'esperienza dei nostri system integrator e le migliaia di referenze che siamo in grado di documentare
   > 来源：https://www.efa.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Relatech 集团工业 DT；九线含 Switch & Networking；CSV 载 N-Tron+Red Lion
+- **②芯片/型号**：Red Lion/N-Tron（工业以太网美系）
+- **③KP 深挖**：vendite@ 销售部口；集团采购层级待问
+- **④Saga 对标**：温宽 PoE+看门狗错位于美系工业线
+- **⑤在乎与偏好**：工业件认证/文档/交期
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Soluzioni di Digital Transformation per il mondo industriale…Accompagniamo i clienti lungo la strada della digitalizzazione”+九大方案线含 Switch & Networking
+  > “Soluzioni di Digital Transformation per il mondo industriale…Accompagniamo i clienti lungo la strada della digitalizzazione”+九大方案线含 Switch & Networking
+  > 来源：https://www.efa.it/
+- **【目标行业与场景】**“manufacturing, processo, energia, building, trasporti, infrastrutture”+Consorzio di Bonifica 水务案例（2026-07）
+  > “manufacturing, processo, energia, building, trasporti, infrastrutture”+Consorzio di Bonifica 水务案例（2026-07）
+  > 来源：https://www.efa.it/caso/consorzio-di-bonifica-adige-euganeo-md-automation/
+- **【产品线】**CSV：N-Tron + Red Lion（工业以太网代表）
+  > CSV：N-Tron + Red Lion（工业以太网代表）
+  > 来源：https://www.efa.it/soluzioni/#36
+- **【联系方式】**vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://www.efa.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | EFA/Relatech 工业 DT：温宽 PoE+看门狗错位 Red Lion/N-Tron（$74.8 邮件锚点一致）；水务公用段规避 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -139,10 +164,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：集团+项目盘
+- **W**：美系线稳
+- **O**：错位 PoE
+- **T**：公用段壁垒
 
 ## 触达与风险红线
 
@@ -176,21 +201,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi Efa,
+Hi EFA team,
 
-I came across Efa Automazione S.p.A. - 分销（HMS/N-Tron·Red Lion 渠道）.
+I see EFA covers industrial digitalization end to end - and that Switch & Networking is one of your nine solution lines, with Ewon and Ignition in the mix.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build industrial-grade managed PoE switches rated -40 to 75C with a hardware PoE watchdog - a complement alongside, not a replacement for, your Red Lion / N-Tron lines, at a much lighter price point. Reference: $74.8 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: is there an open slot in your industrial switching line for PoE + self-healing at a sharper price?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full temperature test report for your lab. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

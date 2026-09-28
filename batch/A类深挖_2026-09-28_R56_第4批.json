@@ -1,0 +1,1003 @@
+{
+ "batch": 14,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-031",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "VARIA System GmbH（Chemnitz，+49 371 33716890）：德国大型网络产品 B2B 电商/增值分销（varia-store.com），Ubiquiti/MikroTik/Teltonika/Delock/TP-Link/Deciso 官方分销商，MikroTik Master+VAD 档；Kauf auf Rechnung（发票结算）/Bonus 积分/24/7 报价服务/DHL 国际发货/14 天退货",
+   "inference": "纯分销大流水业态：接入层 PoE 空白价位段与自有项目盘白牌是其可用的增量牌",
+   "hypothesis": "德企 SMB 走量盘对 $100-170 价位段的 24 口 PoE 有持续空白",
+   "evidence_main": "https://www.varia-store.com/",
+   "tech": "官方分销商墙：Ubiquiti/MikroTik/Teltonika/Deciso/Delock/TP-Link；自营 CDN 媒体库；服务项含 Omada 现场换机服务转售",
+   "hr": "纯分销组织，24/7 报价服务承诺",
+   "contact_found": "shop@varia-store.com +49 371 33716890；MX=mail.varia-system.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Chemnitz 大型 B2B 网络电商/增值分销（Ubiquiti/MikroTik 等官方分销，MikroTik Master 档）",
+    "产品线与在售品牌": "Ubiquiti/MikroTik/Teltonika/Delock/TP-Link/Deciso + RAID/ICYBOX 类存储配件",
+    "目标行业与场景": "德国/国际 SMB 与集成商零售批发盘",
+    "团队与规模": "电商+分销大流水（24/7 报价服务）",
+    "决策链与对接人": "shop@ 采购窗；Kauf auf Rechnung 信用审核体系成熟",
+    "技术与认证": "MikroTik Master+VAD 級",
+    "采购与供应链信号": "发票结算+国际 DHL：成熟 B2B 信用流程",
+    "近期动态与线索": "2026 年新服务包装（Omada 现场换机 3 年服务转售）",
+    "与我方契合点": "接入层 PoE 空白价位段白牌/新牌导入",
+    "风险与注意": "分销商毛利思维：要的是出厂价+交期+无售后雷；第一次别谈愿景"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Ubiquiti, MikroTik, Teltonika uvw. vom offiziellen Distributor”+“Kauf auf Rechnung…Angebotsservice 24/7…Internationaler Versand”",
+     "source": "https://www.varia-store.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "CSV：shop@varia-store.com +49 371 33716890；MX=mail.varia-system.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.varia-store.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 空白价位段报价单页",
+     "push": "STC-424DGGPM-280W（$165 EXW 阶梯）",
+     "angle": "24 口 PoE 在 165 美元 EXW 带的分销毛利测算",
+     "question": "当前 24 口 PoE 在其商城的空白价位段是哪个？",
+     "proof": "一页价卡（EN/DE）+阶梯表"
+    },
+    {
+     "stage": "第 2 次跟进 · 样机进评测",
+     "push": "24+8 口各一台 30 天评测",
+     "angle": "与其评测室对表参数",
+     "question": "评测流程需要哪些资料前置？",
+     "proof": "datasheet+实测报告包"
+    },
+    {
+     "stage": "第 3 次跟进 · 首批试单",
+     "push": "20-50 台起步+中性包装",
+     "angle": "Kauf auf Rechnung 结构的镜像账期试探",
+     "question": "首单可否 20 台走发票结算？",
+     "proof": "交期承诺+质保条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Chemnitz 大型 B2B 电商分销（官方分销墙 6+ 品牌、MikroTik Master 档）；信用体系成熟",
+     "②芯片/型号": "官方分销品牌墙；自有牌未见交换机",
+     "③KP 深挖": "shop@ 为采购第一入口；24/7 报价服务制度化",
+     "④Saga 对标": "$99/$165 接入层空白段；白牌贴其单或新牌上架",
+     "⑤在乎与偏好": "毛利/交期/质保文档；德式书面化",
+     "⑥SWOT": "S 大流水+信用成熟 / W 无自有交换机品牌 / O 空白价位段 / T 巨头直供价压"
+    },
+    "care": [
+     "出厂价与毛利空间",
+     "交期确定性与质保文件"
+    ],
+    "swot": {
+     "S": "大流水 B2B 信用体系",
+     "W": "无自有交换机线",
+     "O": "$100-170 空白段",
+     "T": "巨头直供"
+    },
+    "uncertain": {
+     "产品线核实": "商城接入层 PoE 在售清单未逐页核价",
+     "合作方式": "白牌/新牌意向未探",
+     "缺口证据": "缺商城滤芯类目存证"
+    },
+    "gap_proof": "商城类目页未逐抓"
+   },
+   "unknowns": [
+    "商城 24 口 PoE 在售与空白带",
+    "白牌意愿",
+    "账期结构"
+   ],
+   "email": "Hi VARIA team,\n\nI see VARIA is the official distributor for Ubiquiti, MikroTik, Teltonika and more - and the 24/7 quote service suggests you like fast, clean B2B.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) positioned exactly in the open price band between the brands you carry. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing, full datasheet and CE docs included.\n\nOne question: which price band for 24-port PoE is currently underserved in your shop?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which price band for 24-port PoE is currently underserved in your shop?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "德国|大型分销|官方分销墙|白牌增量|发票结算"
+  },
+  {
+   "customer": "A-032",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "Aikom Technology（Rimini）：2026 年满 20 周年的意大利 ICT 增值分销商（B2B VAD），2025-11 上线 AikomGo B2B 电商平台（go.aikomtech.com，24/7 库存/报价/促销）；垂直线：WiFi&Networking、Broadband/FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 专业电台、IoT 智慧零售",
+   "inference": "2026-09 新增 Zyxel 代理（已有 Ruijie/Peplink/Cambium/ComNet/Teltonika）——交换机代理品类在密集扩张窗口",
+   "hypothesis": "Connectivity Camp（10-13 Franciacorta）= 其伙伴招募与新牌检验节点",
+   "evidence_main": "https://www.aikomtech.com/",
+   "tech": "品牌墙：Hikvision/Peplink/Ruijie/Commend/Townet/Zyxel/Motorola Solutions/Avigilon/Cambium/Selea（CSV 另载 Teltonika、ComNet）；垂直：WiFi、FWA、安防监控、专业电台、IoT",
+   "hr": "20 周年（2026 Rimini Partner Conference）；国际化扩张自述",
+   "contact_found": "info@aikomtech.com +39 0541 648894；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "意大利 20 年 ICT 增值分销（VAD）+AikomGo B2B 电商；国际化扩张期",
+    "产品线与在售品牌": "Peplink/Ruijie/Zyxel(2026-09 新）/Cambium/Teltonika/ComNet/Motorola/Avigilon/Hikvision/Selea/Commend/Townet",
+    "目标行业与场景": "WiFi&Networking、FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 电台、IoT 零售",
+    "团队与规模": "20 周年大会级组织（2026-05 Rimini Partner Conference）",
+    "决策链与对接人": "info@；新品牌入职窗口（参照 Zyxel 2026-09 案例）",
+    "技术与认证": "VAD 级技术支持与销售赋能",
+    "采购与供应链信号": "密集纳新：2026-09 Zyxel 入职、e-commerce 上线",
+    "近期动态与线索": "Connectivity Camp 2026-10-13 Franciacorta（WiFi/switching/routing/IoT 实操日）",
+    "与我方契合点": "接入层 PoE 作为其 switching 线的新代理品牌；AikomGo 上架",
+    "风险与注意": "已有 Ruijie+Zyxel+ComNet+Teltonika 交换机线，差异化要打在 PoE 专精+看门狗+EXW 价"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态与线索",
+     "quote": "“Connectivity Camp…Il 13 ottobre…sessioni pratiche…dedicati a Wi-Fi, switching, routing e IoT”",
+     "source": "https://www.aikomtech.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "quote": "品牌墙 logo：Hikvision/Peplink/Ruijie/Commend/Townet/Zyxel(2026-09)/Motorola Solutions/Avigilon/Cambium/Selea",
+     "source": "https://www.aikomtech.com/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "“B2B value added distributor…Aikom Partner Conference 2026 – 20° Anniversario…AikomGo portale e-commerce B2B”",
+     "source": "https://www.aikomtech.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 差异化一页纸",
+     "push": "PoE 专精卖点页（看门狗/Surge/温宽）",
+     "angle": "与其既有 Ruijie/Zyxel 交换机线错位：PoE 专精+看门狗",
+     "question": "其 switching 线在 PoE 专精位有没有空档？",
+     "proof": "对标矩阵一页"
+    },
+    {
+     "stage": "第 2 次跟进 · Connectivity Camp 对接",
+     "push": "Camp 展会样机+实操演示",
+     "angle": "10-13 Franciacorta 现场摆机",
+     "question": "Camp 是否接受新供应商样机演示？",
+     "proof": "演示机借用条款"
+    },
+    {
+     "stage": "第 3 次跟进 · AikomGo 上架试单",
+     "push": "首批分销试单+营销包",
+     "angle": "电商口上架 24 口/8 口两 SKU",
+     "question": "上架门槛与首单结构？",
+     "proof": "SKU 资料包+阶梯价"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Rimini 20 年 VAD；2025-11 电商 AikomGo；2026-09 新增 Zyxel——纳新窗口",
+     "②芯片/型号": "Ruijie/Zyxel/ComNet/Teltonika 交换机线已全（Marvell 谱系在内）",
+     "③KP 深挖": "新品牌入职走 info@+市场线；Camp 是触达节点",
+     "④Saga 对标": "PoE 专精差异化（看门狗/温宽/EXW 价）补其 switching 空档",
+     "⑤在乎与偏好": "新品牌要能卖（营销包+培训）；Camp 实操文化",
+     "⑥SWOT": "S 20 年渠道+电商 / W 交换机线已多 / O switching 类目仍在纳新 / T 既有交换机四牌"
+    },
+    "care": [
+     "新品牌的可卖性（营销包/培训）",
+     "与其存量交换机线的差异化"
+    ],
+    "swot": {
+     "S": "20年渠道+新电商平台",
+     "W": "交换机品牌已拥挤",
+     "O": "Zyxel 案例证明在纳新",
+     "T": "四牌既有关系"
+    },
+    "uncertain": {
+     "产品线核实": "AikomGo 交换机类目 SKU 与价位未逐核",
+     "合作方式": "上架门槛未探",
+     "缺口证据": "go.aikomtech.com 类目未抓"
+    },
+    "gap_proof": "电商平台类目未抓"
+   },
+   "unknowns": [
+    "AikomGo 交换机在售矩阵",
+    "新牌上架门槛",
+    "Camp 供应商参与政策"
+   ],
+   "email": "Hi Aikom team,\n\nCongratulations on 20 years. And I noticed the brand wall gained Zyxel in September - switching is clearly an active category for you.\n\nWe are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $165 USD EXW.\n\nOne question: is there an open slot for a PoE-focused switching line in your portfolio?\n\nIf useful, I can send evaluation units - and if Connectivity Camp on Oct 13 accepts vendor demos, I would love to show the watchdog live. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Is there an open slot for a PoE-focused switching line in your portfolio?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-480XGGM",
+   "tag": "意大利|20年VAD|交换机纳新窗|ConnectivityCamp|差异化打法"
+  },
+  {
+   "customer": "A-033",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）",
+   "inference": "培训师+运营商咨询双轨：教具+其 WISP 客户项目制推荐两条线",
+   "hypothesis": "南意 WISP 圈（Lamezia/Cagliari 课点）项目制接入层需求经其手",
+   "evidence_main": "https://mikrotik-training.it/",
+   "tech": "官方 Training Partner；Udemy 意语课；RIPE/OSPF/MPLS/VPLS/BGP 咨询线",
+   "hr": "个人 Trainer 领衔（LinkedIn: alejandropablofala）",
+   "contact_found": "info@mikrotik-training.it +39 375 526 6786；MX=OVH 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "意大利官方 MikroTik 培训伙伴（Lamezia Terme）+WISP/ISP 咨询双轨",
+    "产品线与在售品牌": "MTCNA→MTCSE 全课程+Udemy 意语线上课",
+    "目标行业与场景": "工程师认证（南意课点 Lamezia/Cagliari）；WISP/ISP 架构咨询",
+    "团队与规模": "个人 Trainer 领衔",
+    "决策链与对接人": "Alejandro Pablo Falà 本人",
+    "技术与认证": "MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE；RIPE/MPLS 咨询",
+    "采购与供应链信号": "教具批次+其 WISP 客户项目推荐",
+    "近期动态与线索": "2026-10-26 Lamezia MTCNA、2027-01 MTCRE、2027-02 Cagliari 排课",
+    "与我方契合点": "教具实验架+其 WISP 咨询项目的接入层推荐位",
+    "风险与注意": "师者红线：报价真实；先教具后推荐位"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Corsi di formazione ufficiali…Consulenza per Wisp e Isp / RIPE Gestione pratiche…Ospf Mpls Vpls Bgp”",
+     "source": "https://mikrotik-training.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "“Corso MikroTik MTCNA Lamezia Terme Ottobre 26-28 / MTCRE Gennaio 2027 / MTCRE Cagliari Febbraio 2027”",
+     "source": "https://mikrotik-training.it/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mikrotik-training.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 教具实验架",
+     "push": "STC-28DGGPM 教具包",
+     "angle": "MTCNA/MTCSWE 实验架的 8 口 PoE",
+     "question": "实验架交换机现用型号？",
+     "proof": "教具拓扑+报价"
+    },
+    {
+     "stage": "第 2 次跟进 · WISP 项目推荐位",
+     "push": "24 口 PoE POP/接入",
+     "angle": "其 WISP 咨询客户的基站/POP 接入层",
+     "question": "其客户 POP 接入层现供？",
+     "proof": "WISP 参考设计一页"
+    },
+    {
+     "stage": "第 3 次跟进 · Udemy 联动",
+     "push": "线上课教具联名",
+     "angle": "Udemy 意语课实操教具推荐位",
+     "question": "线上课是否带教具推荐清单？",
+     "proof": "联名页草样"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Lamezia Terme 官方 Trainer；Udemy 意语课；RIPE/MPLS 咨询线",
+     "②芯片/型号": "MikroTik 谱系",
+     "③KP 深挖": "Falà 本人；LinkedIn alejandropablofala",
+     "④Saga 对标": "教具 8 口+WISP POP 24 口双线",
+     "⑤在乎与偏好": "南意 WISP 圈口碑；师者真实",
+     "⑥SWOT": "S 官方 Trainer+咨询双轨 / W 个人带宽 / O 南意 WISP 项目 / T MikroTik 本体教具"
+    },
+    "care": [
+     "师者真实",
+     "南意圈层口碑"
+    ],
+    "swot": {
+     "S": "官方 Trainer+RIPE 咨询",
+     "W": "个人带宽",
+     "O": "南意 WISP 盘子",
+     "T": "官方教具"
+    },
+    "uncertain": {
+     "产品线核实": "教具现用未公开",
+     "合作方式": "WISP 推荐位模式未谈",
+     "缺口证据": "无"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "教具现用型号",
+    "WISP 咨询带的项目量",
+    "Udemy 课教具政策"
+   ],
+   "email": "Hi Alejandro,\n\nI came across MikroTik Training Italia - official courses from Lamezia to Cagliari, plus the WISP consultancy side with RIPE and MPLS work.\n\nWe build a compact 8-port managed PoE switch well suited for training benches and WISP access corners (802.3af/at, PoE watchdog, full L2). Reference: $99 USD EXW.\n\nOne question: which switch models do you currently put on the bench for switching labs?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which switch models do you currently put on the bench for switching labs?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "意大利|官方Trainer|WISP咨询|教具+推荐双线|师者红线"
+  },
+  {
+   "customer": "A-034",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "1off srl（Alessandro Campanella，CEO）：意大利 MikroTik 官方培训中心+“Strategic Network Mentor”战略网络咨询（ISP/WISP/集成商/企业），自研 MikroTik 机队管理平台 OptiWize（原 CloudTik，ZeroTier 集成），Wholesale Tour 2026 演讲嘉宾；20+ 年电信经验、无线先驱",
+   "inference": "技术顶流：OptiWize 平台是对 MikroTik 的集中管理增强——同类“管理面”对话可谈 PoE 看门狗等自恢复特性",
+   "hypothesis": "其 ISP/WISP 咨询客户的接入层可经 mentorship 通道推荐",
+   "evidence_main": "https://www.1off.it/ | https://it.linkedin.com/showcase/optiwize-evoseed/",
+   "tech": "官方 Training Center；OptiWize（ZeroTier+MikroTik 机队管理平台）；RouterOS Competition 游戏化测验平台；MTCSWE+MTCEWE 等高阶证",
+   "hr": "CEO 20+ 年电信（producer/consultant/trainer）；Wholesale Tour 常驻讲师",
+   "contact_found": "a.campanella@1off.it +39 320 299 7787；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "意大利官方 MikroTik Training Center+Strategic Network Mentor（ISP/WISP 架构层咨询）+OptiWize 平台",
+    "产品线与在售品牌": "官方培训全谱+OptiWize（ZeroTier 深度集成）",
+    "目标行业与场景": "ISP/WISP、系统集成商、企业网络架构决策；培训全谱",
+    "团队与规模": "CEO Campanella 领衔精品咨询+培训",
+    "决策链与对接人": "Alessandro Campanella（CEO，直达邮箱在册）",
+    "技术与认证": "MTCNA+MTCIPv6E+MTCSE+MTCSWE+MTCEWE；Wholesale Tour 2026 speaker",
+    "采购与供应链信号": "平台型玩家：硬件随其 ISP 客户架构决策走",
+    "近期动态与线索": "OptiWize ZeroTier 集成活动（120+ 人 Deep Dive）；RouterOS Competition 上线",
+    "与我方契合点": "PoE 看门狗等自恢复硬件特性与其“管理面”理念同频；mentorship 推荐通道",
+    "风险与注意": "顶尖技术对话：虚参数一轮出局；Match 其管理面叙事"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Affianchiamo gli operatori come Strategic Network Mentor…ISP e WISP / System integrator / Organizzazioni enterprise…Training Center ufficiale MikroTik”",
+     "source": "https://www.1off.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "“OptiWize (ex CloudTik)…integrazione tra ZeroTier e MikroTik…oltre 120 persone”+CEO At Wholesale Tour 2026 speaker",
+     "source": "https://it.linkedin.com/showcase/optiwize-evoseed/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "“Alessandro Campanella CEO - 1off…pioniere del wireless…Strategic Network Mentor”",
+     "source": "https://wholesaletours.it/2026/wwt/speakers/Campanella.html"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "a.campanella@1off.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.1off.it/contatti"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 管理面共鸣",
+     "push": "PoE 看门狗=硬件级自恢复（对接其 OptiWize 理念）",
+     "angle": "“软件管面+硬件自愈”组合叙事",
+     "question": "OptiWize 是否有硬件遥测对接口（SNMP/API）？",
+     "proof": "SNMP OID 清单+API 文档"
+    },
+    {
+     "stage": "第 2 次跟进 · 实验室评测",
+     "push": "24 口/8 口各一台进其实验室",
+     "angle": "Training Center 教具+评测",
+     "question": "评测需要哪些指标在其演示里可现？",
+     "proof": "评测包"
+    },
+    {
+     "stage": "第 3 次跟进 · mentorship 推荐位",
+     "push": "ISP 架构参考清单里的接入层候选",
+     "angle": "其咨询客户的接入层二源",
+     "question": "参考架构清单是否开放候选接入层？",
+     "proof": "参考设计一页"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "官方 Training Center+Mentor 制咨询+OptiWize 自研平台（ZeroTier）；CEO 是无线先驱级人物",
+     "②芯片/型号": "MikroTik 全谱+OptiWize 机队管理",
+     "③KP 深挖": "Campanella CEO 直达；Wholesale Tour 2026 讲台级",
+     "④Saga 对标": "硬件级自愈（看门狗）补足管理面；ISP 客户接入层二源",
+     "⑤在乎与偏好": "架构正确性、可管理性、平台叙事",
+     "⑥SWOT": "S 讲台级影响力+自研平台 / W 不直接走硬件量 / O 其 ISP 客户盘子 / T 只推荐其信得过的硬件"
+    },
+    "care": [
+     "架构与管理面叙事",
+     "硬件遥测对接"
+    ],
+    "swot": {
+     "S": "讲台级+平台自研",
+     "W": "硬件不走量",
+     "O": "ISP 客户盘",
+     "T": "保守推荐"
+    },
+    "uncertain": {
+     "产品线核实": "其推荐硬件清单非公开",
+     "合作方式": "遥测对接可行性未探",
+     "缺口证据": "OptiWize API 未取证"
+    },
+    "gap_proof": "平台技档未公开"
+   },
+   "unknowns": [
+    "OptiWize 遥测/对接口",
+    "其推荐硬件清单",
+    "实验室评测窗口"
+   ],
+   "email": "Hi Alessandro,\n\nI watched the OptiWize + ZeroTier story - a management plane for MikroTik fleets is exactly where the industry hurts. And congratulations on the official Training Center.\n\nWe build PoE switches with a hardware-level self-healing feature your audience will appreciate: a PoE watchdog that power-cycles a hung AP or camera without a truck roll - SNMP/API telemetry exposed, so it could sit under a management plane like OptiWize. 24-port 280W model reference: $165 USD EXW.\n\nOne question: does OptiWize expose hooks for third-party hardware telemetry (SNMP/API)?\n\nIf useful, I can send evaluation units for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does OptiWize expose hooks for third-party hardware telemetry (SNMP/API)?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "意大利|官方培训中心|OptiWize平台|讲台级|管理面叙事"
+  },
+  {
+   "customer": "A-035",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "Bitmagic（Alessandro Del Ferro）：bitmagic.it 官网「Sito in costruzione」（休眠重建中）；CSV 载 MikroTik 顾问 8 证（含 MTCSWE+MTCEWE 双高阶）；Seeweb 托管邮箱存活",
+   "inference": "个人高级顾问休眠期或纯口碑接单：LinkedIn 外公开足迹弱",
+   "hypothesis": "8 证集合=工程深度型，教具/实验室概念仍适用",
+   "evidence_main": "https://www.bitmagic.it/index.html",
+   "tech": "8 证（含 MTCSWE 交换+MTCEWE 企业无线双高阶）",
+   "hr": "个人；站重建中",
+   "contact_found": "mikrotik_consultant@bitmagic.it（CSV）+39 339 651 8864；MX=Seeweb 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "官网休眠，建议短信/电话先解冻",
+   "dims": {
+    "业务定位": "个人 8 证 MikroTik 顾问（交换+企业无线双高阶）；站休眠",
+    "产品线与在售品牌": "咨询服务",
+    "目标行业与场景": "网络咨询（无线+交换双线）",
+    "团队与规模": "个人",
+    "决策链与对接人": "Del Ferro 本人",
+    "技术与认证": "MTCNA+…+MTCSWE+MTCEWE 8 证",
+    "采购与供应链信号": "未知（休眠）",
+    "近期动态与线索": "官网“Sito in costruzione”",
+    "与我方契合点": "交换专长人士对 L2+ 特性表敏感",
+    "风险与注意": "先电话/短信解冻再发信"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态与线索",
+     "quote": "bitmagic.it 首页仅“Sito in costruzione”",
+     "source": "https://www.bitmagic.it/index.html"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "CSV 名录：Alessandro Del Ferro 8 证（含 MTCSWE+MTCEWE）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话/短信先解冻",
+     "push": "—",
+     "angle": "确认其当前执业状态",
+     "question": "目前接的是哪类项目？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 交换特性表",
+     "push": "L2+ 特性表+样机",
+     "angle": "MTCSWE 级人士的特性对话",
+     "question": "客户项目接入层是否有空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机评测",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿否评一台？",
+     "proof": "评测条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "8 证个人顾问；官网休眠重建中",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "Del Ferro 本人；Seeweb 邮箱存活",
+     "④Saga 对标": "L2+ 特性表对话 MTCSWE 人士",
+     "⑤在乎与偏好": "深度技术对话",
+     "⑥SWOT": "S 双高阶证 / W 休眠状态不透明 / O 交换专长对口 / T 其他顾问"
+    },
+    "care": [
+     "技术深度对等"
+    ],
+    "swot": {
+     "S": "8证双高阶",
+     "W": "休眠",
+     "O": "MTCSWE 对口",
+     "T": "竞争顾问"
+    },
+    "uncertain": {
+     "产品线核实": "无公开在售",
+     "合作方式": "未探",
+     "缺口证据": "官网休眠"
+    },
+    "gap_proof": "Sito in costruzione"
+   },
+   "unknowns": [
+    "当前执业状态",
+    "现用接入层",
+    "评测意愿"
+   ],
+   "email": "Hi Alessandro,\n\nI found you on the MikroTik consultant list - eight certifications including MTCSWE and MTCEWE is rare air.\n\nQuick context: we build managed PoE switches with a full L2+ feature table (Voice VLAN, ERPS, watchdog). I would not pitch blind - your site says under construction, so I keep this short.\n\nOne question: are you currently taking on projects where the switching layer is open for alternatives?\n\nIf yes, I can send the full feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Are you currently taking on projects where the switching layer is open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "意大利|8证顾问|站休眠|先电话解冻"
+  },
+  {
+   "customer": "A-036",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材",
+   "inference": "双栈培训平台罕见：同时教 MikroTik 与 Ubiquiti——对“第三家硬件”无心理门槛",
+   "hypothesis": "数百张网络部署背景（自述 hundreds of networks）= 教具+工程推荐双通道",
+   "evidence_main": "https://tiktrain.com/",
+   "tech": "MikroTik 十证+Ubiquiti 五证全课程；自述部署过数百网络",
+   "hr": "2000 年起从业的培训师团队",
+   "contact_found": "alfredo@tiktrain.com +39 347 312 5813；MX=mail.tiktrain.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "MikroTik+Ubiquiti 双栈官方培训平台（2000 年起）",
+    "产品线与在售品牌": "MTCNA→MTCINE 十证；UBWA/UEWA/UBRSS/UBWS/UBRSA 五证",
+    "目标行业与场景": "工程师认证培训（多语言教材）",
+    "团队与规模": "培训师团体",
+    "决策链与对接人": "Alfredo Giordano（三证 Trainer）",
+    "技术与认证": "MTCNA+MTCRE+MTCTCE（个人）",
+    "采购与供应链信号": "双栈教具采购",
+    "近期动态与线索": "全谱课程在售",
+    "与我方契合点": "教具实验架；双栈文化对第三硬件开放",
+    "风险与注意": "师者红线：真实报价；别碰其既有渠道利益"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“We are a group of professionals working with in telecommunications from 2000. After deploying high value solutions over hundreds of networks…MTCNA, MTCRE, MTCWE, MTCEWE, MTCTCE, MTCIPv6E, MTCUME, MTCSWE, MTCSE, and MTCINE / UBWA, UEWA, UBRSS, UBWS, UBRSA”",
+     "source": "https://tiktrain.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "alfredo@tiktrain.com（CSV）；MX=mail.tiktrain.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://tiktrain.com/contact/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 双栈教具提案",
+     "push": "STC-28DGGPM 教具包",
+     "angle": "MikroTik/Ubiquiti 课程都能用的 8 口 PoE 实验架",
+     "question": "实验架用到 PoE 的课有哪些？",
+     "proof": "教具拓扑+报价"
+    },
+    {
+     "stage": "第 2 次跟进 · 交换机专项课",
+     "push": "MTCSWE/UBRSS 教具清单缺口",
+     "angle": "其课程表里的交换专项课教具",
+     "question": "交换课教具现用设备？",
+     "proof": "缺口对照表"
+    },
+    {
+     "stage": "第 3 次跟进 · 学员采购口子",
+     "push": "学员优惠+集采",
+     "angle": "培训后学员的项目采购口",
+     "question": "学员是否有采购清单页推荐位？",
+     "proof": "转化测算"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2000 年起的双栈（MikroTik+Ubiquiti）培训团体，自述数百网络部署",
+     "②芯片/型号": "教具两家谱系",
+     "③KP 深挖": "Giordano 直达",
+     "④Saga 对标": "双栈课程通用 8 口 PoE 实验架",
+     "⑤在乎与偏好": "双栈中立文化",
+     "⑥SWOT": "S 双栈稀缺 / W 团体松散 / O 交换专项课教具窗口 / T 两家官配教具"
+    },
+    "care": [
+     "双栈中立不被绑站队"
+    ],
+    "swot": {
+     "S": "双栈中立",
+     "W": "团体松散",
+     "O": "交换课窗口",
+     "T": "官配教具"
+    },
+    "uncertain": {
+     "产品线核实": "教具现用未公开",
+     "合作方式": "未探",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "教具现用设备",
+    "课程表 PoE 相关课",
+    "学员推荐位"
+   ],
+   "email": "Hi Alfredo,\n\nTikTrain is rare: the full MikroTik ladder AND the full Ubiquiti ladder under one roof since 2000.\n\nWe build a compact 8-port managed PoE switch that serves both worlds on the training bench (802.3af/at, L2 features, watchdog). Reference: $99 USD EXW.\n\nOne question: which of your courses actually put PoE-powered devices on the lab bench?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which of your courses actually put PoE-powered devices on the lab bench?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "意大利|双栈培训|MikroTik+Ubiquiti|教具|师者红线"
+  },
+  {
+   "customer": "A-037",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "Netify（Lodi，伦巴第）：安防系统集成商——物理安防（报警/视频/闸机/门禁）+网络安全+网络基础设施+统一通信；内部有 MikroTik 认证 Trainer（Cristian Delogu）开 MikroTik 培训线；伙伴墙：Cambium/Kalliope/Sophos/Nedap/MikroTik/Zucchetti Axess",
+   "inference": "安防集成本质=PoE 摄像头/门禁/闸机的供电接入层大户；培训线证明内生网络教研能力",
+   "hypothesis": "self-reception/酒店接待类博文显露其向酒店智能场景延展",
+   "evidence_main": "https://www.netify.it/",
+   "tech": "安防集成全栈+Sophos 安全+Cambium 无线+Kalliope VoIP+Nedap 门禁；MikroTik Trainer 内编",
+   "hr": "Lodi 本地集成商；训练师内编",
+   "contact_found": "cristian.delogu@netify.it +39 335 127 4723（Delogu 直达）；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Lodi 安防系统集成商（物理+网络+UC）+内编 MikroTik 培训",
+    "产品线与在售品牌": "Cambium/Kalliope/Sophos/Nedap/MikroTik/Zucchetti Axess",
+    "目标行业与场景": "企业安防（监控/门禁/闸机）+网络+UC；酒店 self-reception 方向",
+    "团队与规模": "本地中型；Trainer 内编",
+    "决策链与对接人": "Cristian Delogu（MTCNA+MTCRE+MTCSE Trainer 直达）",
+    "技术与认证": "MTCNA+MTCRE+MTCSE；Sophos/Nedap 伙伴",
+    "采购与供应链信号": "安防项目 PoE 接入层常备",
+    "近期动态与线索": "博客活跃（self-reception 酒店场景、视频分析）",
+    "与我方契合点": "PoE 摄像头/门禁供电接入层是其每单基础件",
+    "风险与注意": "价格敏感的本地项目制；工程语言"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“sistemi e impianti di sicurezza integrata…videosorveglianza, tornelli e controllo accessi…cyber security…infrastrutture di rete”",
+     "source": "https://www.netify.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "quote": "伙伴墙：CAMBIUM NETWORKS / KALLIOPE / SOPHOS / NEDAP / MIKROTIK / ZUCCHETTI AXESS",
+     "source": "https://www.netify.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "“Self Reception: trasformare l’esperienza del cliente con tecnologie avanzate”（2025-01-31 博客）",
+     "source": "https://www.netify.it/blog/self-reception-trasforma-esperienza-cliente"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "cristian.delogu@netify.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.netify.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 摄像头供电痛点",
+     "push": "STC-424DGGPM-280W",
+     "angle": "24 口 PoE 一柜收纳监控+门禁供电",
+     "question": "一个中型监控项目摄像头/门禁点数？",
+     "proof": "PoE 预算计算页"
+    },
+    {
+     "stage": "第 2 次跟进 · 安防项目阶梯价",
+     "push": "项目批量阶梯",
+     "angle": "其项目制备货的阶梯价",
+     "question": "项目盘季度进货节奏？",
+     "proof": "阶梯价卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 培训线教具",
+     "push": "其内编培训教具包",
+     "angle": "内训教具顺带",
+     "question": "内训实验架设备现用？",
+     "proof": "教具包"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Lodi 安防集成+UC+培训三位一体；Trainer 内编（Delogu）",
+     "②芯片/型号": "Cambium/Sophos/Nedap/Kalliope/Zucchetti Axess 伙伴墙",
+     "③KP 深挖": "Delogu 直达（Trainer）",
+     "④Saga 对标": "监控/门禁 PoE 接入层标准件",
+     "⑤在乎与偏好": "项目价+可靠供货",
+     "⑥SWOT": "S 安防项目盘子+内训 / W 本地型 / O 酒店 self-reception 延展 / T 大厂安防套件"
+    },
+    "care": [
+     "项目批量价",
+     "就近供货稳定"
+    ],
+    "swot": {
+     "S": "安防项目盘+内训",
+     "W": "本地型",
+     "O": "酒店智能场景延展",
+     "T": "大厂套件"
+    },
+    "uncertain": {
+     "产品线核实": "现用交换机品牌未公开",
+     "合作方式": "阶梯结构未谈",
+     "缺口证据": "官网无交换机类目"
+    },
+    "gap_proof": "netify.it 无硬件商城"
+   },
+   "unknowns": [
+    "现用接入层品牌",
+    "项目盘规模",
+    "培训教具现况"
+   ],
+   "email": "Hi Cristian,\n\nI found Netify - integrated security systems in Lodi, and you as the in-house MikroTik trainer (MTCNA/MTCRE/MTCSE). Nice combination.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G uplinks and a hardware PoE watchdog - sized for exactly the camera + access-control closets you wire every week. Reference: $165 USD EXW.\n\nOne question: in a mid-size surveillance project, how many PoE endpoints do you typically power from one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a mid-size surveillance project, how many PoE endpoints do you typically power from one cabinet?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "意大利|安防集成|PoE摄像头门禁|内编Trainer"
+  },
+  {
+   "customer": "A-038",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "Davide Toffoletto：CSV 载 9 证 MikroTik 顾问（MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE 等）；公开足迹弱（LinkedIn 无命中，仅 Facebook 同名页），gmail 联系方式",
+   "inference": "个人顾问以口碑/代理圈接单，公开数字化足迹低",
+   "hypothesis": "9 证深度= RouterOS 老炮，特性对话型",
+   "evidence_main": "https://www.facebook.com/davide.toffoletto/",
+   "tech": "9 证（CSV 名录口径）",
+   "hr": "个人",
+   "contact_found": "davide.toffoletto@gmail.com +39 347 918 8529（CSV）；gmail MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公开足迹弱，先短信/电话破冰再发信",
+   "dims": {
+    "业务定位": "个人 9 证 MikroTik 顾问（公开足迹弱）",
+    "产品线与在售品牌": "咨询",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Toffoletto 本人",
+    "技术与认证": "MTCNA/MTCRE/MTCWE/MTCTCE/MTCINE/MTCIPv6E/MTCSE 等 9 证",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无公开动态",
+    "与我方契合点": "老炮特性对话",
+    "风险与注意": "公开信息缺口如实标注；电话先破冰"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Davide Toffoletto MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE 等 9 证",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "LinkedIn 搜索无命中；仅 Facebook 同名页（弱证据，不作为事实层）",
+     "source": "https://www.facebook.com/davide.toffoletto/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话破冰",
+     "push": "—",
+     "angle": "确认执业与项目方向",
+     "question": "现在主要做哪类项目？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表对话",
+     "push": "L2+ 特性表",
+     "angle": "老炮对话",
+     "question": "客户接入层是否有空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿否评一台？",
+     "proof": "评测条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "9 证个人顾问；公开足迹弱（如实标注）",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "本人 gmail+手机",
+     "④Saga 对标": "特性表对话",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 9 证深度 / W 公开信息缺口 / O 接入层机会 / T 不可见竞争"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "9证",
+     "W": "足迹弱",
+     "O": "接入层",
+     "T": "不可见"
+    },
+    "uncertain": {
+     "产品线核实": "无公开",
+     "合作方式": "未知",
+     "缺口证据": "LinkedIn 无命中"
+    },
+    "gap_proof": "公开足迹缺失（如实）"
+   },
+   "unknowns": [
+    "执业状态",
+    "项目方向",
+    "接入层现供"
+   ],
+   "email": "Hi Davide,\n\nI found you on the MikroTik consultant list - nine certifications says you have been in the trenches a long time.\n\nWe build managed PoE switches (Voice VLAN, ERPS, watchdog, 4×10G uplinks on the 24-port). I keep this short because I could not find much public material - which usually means word-of-mouth business, fair enough.\n\nOne question: do your client projects ever leave room for an alternative on the switching layer?\n\nIf yes, I can send the full feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Do your client projects ever leave room for an alternative on the switching layer?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "意大利|9证顾问|足迹弱|电话破冰"
+  },
+  {
+   "customer": "A-039",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）",
+   "inference": "“Switch & Networking”是其九大方案线之一=X 家工业交换机在售（CSV 载 N-Tron+Red Lion）；工业 PoE 是其项目常备",
+   "hypothesis": "Red Lion/N-Tron 替代或补位（温宽/看门狗缺位时）是切入口",
+   "evidence_main": "https://www.efa.it/",
+   "tech": "N-Tron+Red Lion（CSV）；Switch & Networking 方案线；Ewon Flexy 远程协助；Ignition 平台生态（Consorzio Bonifica 等公用事业案例）",
+   "hr": "Relatech 集团子；30+ 年、数千项目",
+   "contact_found": "vendite@efa.it（销售部）+ info@efa.it；MX=efa-it.mail.protection.outlook.com（O365）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Relatech 集团旗下工业 DT 商（网关/HMI/SCADA/远控），Switch & Networking 为九大方案线之一",
+    "产品线与在售品牌": "N-Tron+Red Lion 工业以太网；Ewon Flexy；Ignition 生态",
+    "目标行业与场景": "制造/过程/能源/楼宇/交通/基础设施（水务 SCADA 案例多）",
+    "团队与规模": "30+ 年、集团编制、培训学院",
+    "决策链与对接人": "vendite@ 销售部",
+    "技术与认证": "Ignition/Ewon 生态深度",
+    "采购与供应链信号": "项目制工业件集采",
+    "近期动态与线索": "2026-07 发布 Ignition+AI 水务案例（Consorzio di Bonifica）",
+    "与我方契合点": "工业 PoE 温宽+看门狗可卡在 Red Lion/N-Tron 缺位",
+    "风险与注意": "公用事业/水务段公共性强——仅跟民营工业客户段；集团采购层级先问清"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Soluzioni di Digital Transformation per il mondo industriale…Accompagniamo i clienti lungo la strada della digitalizzazione”+九大方案线含 Switch & Networking",
+     "source": "https://www.efa.it/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "quote": "“manufacturing, processo, energia, building, trasporti, infrastrutture”+Consorzio di Bonifica 水务案例（2026-07）",
+     "source": "https://www.efa.it/caso/consorzio-di-bonifica-adige-euganeo-md-automation/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "CSV：N-Tron + Red Lion（工业以太网代表）",
+     "source": "https://www.efa.it/soluzioni/#36"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.efa.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 工业温宽+看门狗差异页",
+     "push": "STI-288GP 工业 PoE",
+     "angle": "与 Red Lion/N-Tron 错位：温宽 PoE+看门狗+EXW 价",
+     "question": "其工业交换线在 PoE 看门狗位有没有空档？",
+     "proof": "规格对照矩阵"
+    },
+    {
+     "stage": "第 2 次跟进 · 民营制造试点",
+     "push": "一台进其实验室/试点产线",
+     "angle": "民营制造客户试点",
+     "question": "试点需要哪些认证随附？",
+     "proof": "CE+温宽实测"
+    },
+    {
+     "stage": "第 3 次跟进 · 集团采购层级",
+     "push": "集团框架谈判",
+     "angle": "Relatech 集团层采购路径",
+     "question": "采购在国别还是集团层定？",
+     "proof": "交期/质保承诺函"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Relatech 集团工业 DT；九线含 Switch & Networking；CSV 载 N-Tron+Red Lion",
+     "②芯片/型号": "Red Lion/N-Tron（工业以太网美系）",
+     "③KP 深挖": "vendite@ 销售部口；集团采购层级待问",
+     "④Saga 对标": "温宽 PoE+看门狗错位于美系工业线",
+     "⑤在乎与偏好": "工业件认证/文档/交期",
+     "⑥SWOT": "S 集团+30年项目盘 / W 美系工业线已稳 / O PoE 看门狗错位 / T 水务公用段公共性"
+    },
+    "care": [
+     "认证随附",
+     "交期确定性"
+    ],
+    "swot": {
+     "S": "集团+项目盘",
+     "W": "美系线稳",
+     "O": "错位 PoE",
+     "T": "公用段壁垒"
+    },
+    "uncertain": {
+     "产品线核实": "Switch 线具体 SKU 未公开",
+     "合作方式": "集团采购路径未探",
+     "缺口证据": "方案线页无 SKU 表"
+    },
+    "gap_proof": "efa.it 无 SKU 级页"
+   },
+   "unknowns": [
+    "Switch 线 SKU 与价位",
+    "集团采购层级",
+    "试点认证清单"
+   ],
+   "email": "Hi EFA team,\n\nI see EFA covers industrial digitalization end to end - and that Switch & Networking is one of your nine solution lines, with Ewon and Ignition in the mix.\n\nWe build industrial-grade managed PoE switches rated -40 to 75C with a hardware PoE watchdog - a complement alongside, not a replacement for, your Red Lion / N-Tron lines, at a much lighter price point. Reference: $74.8 USD EXW.\n\nOne question: is there an open slot in your industrial switching line for PoE + self-healing at a sharper price?\n\nIf useful, I can send one unit with the full temperature test report for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Is there an open slot in your industrial switching line for PoE + self-healing at a sharper price?",
+   "alt2": "STI-280GE",
+   "alt3": "STI-480XGGM",
+   "tag": "意大利|工业DT|Relatech集团|温宽PoE错位|公共段规避"
+  },
+  {
+   "customer": "A-040",
+   "batch": 14,
+   "date": "2026-09-28",
+   "fact": "Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证",
+   "inference": "公立大学背景+法庭鉴定人=公立身份红线户；仅私人顾问/鉴定线可谈，公立单位采购一律不触",
+   "hypothesis": "鉴定/咨询业务的实验室概念（工具机）适用",
+   "evidence_main": "https://www.linkedin.com/in/gianpiero-ciacci/",
+   "tech": "MTCNA+MTCSE+UBWA+UEWA",
+   "hr": "前大学 IT 主管→CTU/CTP 鉴定顾问",
+   "contact_found": "gciacci@gmail.com +39 338 248 7996（CSV）；gmail MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公立背景红线：绝口不提其前单位；只谈其私人顾问/鉴定业务",
+   "dims": {
+    "业务定位": "前公立大学 IT 主管转 CTU/CTP 法庭技术鉴定顾问+MikroTik 顾问",
+    "产品线与在售品牌": "咨询/鉴定服务",
+    "目标行业与场景": "技术鉴定、顾问（私人线）",
+    "团队与规模": "个人",
+    "决策链与对接人": "Ciacci 本人",
+    "技术与认证": "MTCNA+MTCSE；UBWA+UEWA",
+    "采购与供应链信号": "个人实验室级",
+    "近期动态与线索": "LinkedIn 2026-04 仍活跃",
+    "与我方契合点": "鉴定/顾问实验室的工具机",
+    "风险与注意": "公立身份红线：前单位一切采购概不触及；仅私人业务对话"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "LinkedIn：“L’esperienza come responsabile informatico presso un Ateneo…”+课程栏 CTU/CTP、MTCNA、UBWA、UEWA",
+     "source": "https://www.linkedin.com/in/gianpiero-ciacci/"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Gianpiero Ciacci MTCNA+MTCSE",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 私人顾问线破冰",
+     "push": "—",
+     "angle": "鉴定/顾问实验室的工具机话题",
+     "question": "其私人业务是否有接入层工具需求？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 工具机报价",
+     "push": "STC-28DGGPM（个人实验室）",
+     "angle": "小型工具机",
+     "question": "实验室是否需要一台多功能 PoE 工具机？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 复购/圈荐",
+     "push": "顾问圈转介绍",
+     "angle": "其顾问圈层",
+     "question": "圈内是否有可转介的集成商？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "前锡耶纳外国人大学 IT 主管→CTU/CTP 法庭鉴定+MikroTik 顾问（MTCNA+MTCSE）",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "本人 gmail",
+     "④Saga 对标": "私人实验室工具机（公立线不触）",
+     "⑤在乎与偏好": "技术正确性与职业边界",
+     "⑥SWOT": "S 双栈证+鉴定资质 / W 公立背景敏感 / O 私人业务工具机 / T 边界误触风险"
+    },
+    "care": [
+     "职业边界清晰"
+    ],
+    "swot": {
+     "S": "鉴定资质+双栈",
+     "W": "公立敏感",
+     "O": "私人工具机",
+     "T": "边界风险"
+    },
+    "uncertain": {
+     "产品线核实": "无公开",
+     "合作方式": "未探",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "私人业务形态",
+    "工具机需求",
+    "圈荐意愿"
+   ],
+   "email": "Hi Gianpiero,\n\nI found you on the MikroTik consultant list (MTCNA/MTCSE) - and noticed your CTU/CTP forensic consulting path on LinkedIn. (To be clear upfront: I am reaching out about your private consulting practice, nothing related to any public institution.)\n\nWe build compact managed PoE switches that consultants like to keep on the bench as multi-purpose tools (802.3af/at, ERPS, watchdog, tap-friendly). Reference: $99 USD EXW.\n\nOne question: does your private consulting work ever need a versatile PoE tool on the bench?\n\nIf useful, I can send one unit for evaluation. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does your private consulting work ever need a versatile PoE tool on the bench?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "意大利|公立红线户|仅私人顾问线|CTU鉴定|双栈证"
+  }
+ ]
+}

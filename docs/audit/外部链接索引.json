@@ -8910,6 +8910,24 @@
     ]
   },
   {
+    "url": "https://it.linkedin.com/showcase/optiwize-evoseed/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L311"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L337"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L147"
+      }
+    ]
+  },
+  {
     "url": "https://itamtech.com/",
     "http_checked": false,
     "occurrences": [
@@ -10744,6 +10762,22 @@
         "locator": "L980"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L210"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L231"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L236"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L241"
+      },
+      {
         "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
         "locator": "L122"
       },
@@ -10754,6 +10788,18 @@
       {
         "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L150"
       }
     ]
   },
@@ -11254,6 +11300,18 @@
         "locator": "L776"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L443"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L734"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L940"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L79"
       },
@@ -11354,12 +11412,24 @@
         "locator": "L153"
       },
       {
+        "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
+        "locator": "L143"
+      },
+      {
         "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
         "locator": "L122"
       },
       {
+        "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
+        "locator": "L141"
+      },
+      {
         "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
-        "locator": "L127"
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-065-Peter Freeman - Freeclix-英国.md",
@@ -18445,7 +18515,7 @@
       },
       {
         "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
-        "locator": "L121"
+        "locator": "L122"
       }
     ]
   },
@@ -22742,12 +22812,38 @@
         "locator": "L1187"
       },
       {
-        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
-        "locator": "L122"
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L512"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L533"
       },
       {
         "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
-        "locator": "L125"
+        "locator": "L123"
+      },
+      {
+        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
+        "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
+    "url": "https://tiktrain.com/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L538"
+      },
+      {
+        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
+        "locator": "L145"
       }
     ]
   },
@@ -23127,7 +23223,7 @@
       },
       {
         "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
-        "locator": "L124"
+        "locator": "L125"
       }
     ]
   },
@@ -23542,6 +23638,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1004/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://wholesaletours.it/2026/wwt/speakers/Campanella.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L342"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L150"
       }
     ]
   },
@@ -24074,6 +24184,14 @@
         "locator": "L1053"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L311"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L332"
+      },
+      {
         "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
         "locator": "L122"
       },
@@ -24084,6 +24202,24 @@
       {
         "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://www.1off.it/contatti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L347"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L153"
       }
     ]
   },
@@ -25266,6 +25402,22 @@
         "locator": "L907"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L109"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L130"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L135"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L140"
+      },
+      {
         "path": "profile/A/A-032-Aikom Technology-意大利.md",
         "locator": "L121"
       },
@@ -25276,6 +25428,18 @@
       {
         "path": "profile/A/A-032-Aikom Technology-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L146"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L149"
       }
     ]
   },
@@ -27466,6 +27630,24 @@
       {
         "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
         "locator": "L124"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bitmagic.it/index.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L417"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L438"
+      },
+      {
+        "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
+        "locator": "L140"
       }
     ]
   },
@@ -31508,6 +31690,18 @@
         "locator": "L1404"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L808"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L829"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L844"
+      },
+      {
         "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
         "locator": "L121"
       },
@@ -31518,6 +31712,42 @@
       {
         "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://www.efa.it/caso/consorzio-di-bonifica-adige-euganeo-md-automation/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L834"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://www.efa.it/soluzioni/#36",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L839"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L149"
       }
     ]
   },
@@ -32720,6 +32950,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-804/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/davide.toffoletto/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L713"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L739"
+      },
+      {
+        "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
+        "locator": "L144"
       }
     ]
   },
@@ -38142,6 +38390,24 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/gianpiero-ciacci/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L914"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L935"
+      },
+      {
+        "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/hani-rahrouh-38019521/",
     "http_checked": false,
     "occurrences": [
@@ -41530,6 +41796,22 @@
         "locator": "L1260"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L607"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L628"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L633"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L643"
+      },
+      {
         "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
         "locator": "L122"
       },
@@ -41540,6 +41822,32 @@
       {
         "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netify.it/blog/self-reception-trasforma-esperienza-cliente",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L638"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L150"
       }
     ]
   },
@@ -47624,12 +47932,32 @@
         "locator": "L834"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L34"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第4批.json",
+        "locator": "L39"
+      },
+      {
         "path": "profile/A/A-031-VARIA System GmbH-德国.md",
         "locator": "L120"
       },
       {
         "path": "profile/A/A-031-VARIA System GmbH-德国.md",
         "locator": "L123"
+      },
+      {
+        "path": "profile/A/A-031-VARIA System GmbH-德国.md",
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-031-VARIA System GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },

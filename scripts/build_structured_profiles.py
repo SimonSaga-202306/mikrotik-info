@@ -135,6 +135,21 @@ OVERRIDE = {
  'A-029': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单'},
  'A-030': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
            'p1_reason': 'Linux-Schmie 2027 新增 MTCSWE 课=教具采购窗（STP/VLAN 实验架），师者红线内'},
+ # ── R56 批 4（A-031..A-040 深挖 2026-09-28）──
+ 'A-031': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'VARIA 大型 B2B 分销：$100-170 空白价位段是给它的牌；发票结算信用体系可镜像试探'},
+ 'A-032': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Aikom 2026 交换机线密集纳新（Zyxel 入职为证）：PoE 专精错位卡位，Connectivity Camp 为节点'},
+ 'A-033': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': '意大利官方 Trainer 双线：教具实验架红线内；WISP 咨询客户项目推荐位第 2 步'},
+ 'A-034': {'p1': 'STC-424DGGPM-280W', 'p1_reason': '1off OptiWize 管理面叙事：硬件级自愈（PoE 看门狗）+SNMP 遥测是同频语言'},
+ 'A-035': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Bitmagic 8 证休眠顾问：L2+ 特性表对话；先电话解冻再发信'},
+ 'A-036': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'TikTrain MikroTik+Ubiquiti 双栈培训：双栈通用 8 口 PoE 实验架，师者红线内'},
+ 'A-037': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Netify 安防集成：监控/门禁 PoE 供电接入层每单基础件（内编 Trainer 对话成本低）'},
+ 'A-038': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Toffoletto 9 证老炮、公开足迹弱：特性表+电话破冰，信息缺口如实标注'},
+ 'A-039': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'EFA/Relatech 工业 DT：温宽 PoE+看门狗错位 Red Lion/N-Tron（$74.8 邮件锚点一致）；水务公用段规避'},
+ 'A-040': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'Ciacci 前公立大学 IT 主管：公立红线户，仅私人顾问/鉴定线；实验室工具机 $99'},
 }
 
 out = {}

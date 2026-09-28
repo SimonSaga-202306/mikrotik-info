@@ -13,8 +13,8 @@ business_model: 顾问项目制
 decision_speed: fast
 price_sensitivity: high
 volume_potential: 4  # 1-5
-needs: {poe: true, industrial: true, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STI-288GP
+needs: {poe: true, industrial: true, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: true}
+p1: STC-28DGGPM
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,8 +25,8 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
-- **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Ciacci 前公立大学 IT 主管：公立红线户，仅私人顾问/鉴定线；实验室工具机 $99；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
@@ -52,10 +52,11 @@ updated: 2026-09-28
 
 ## 需求与场景（推断标签）
 
-- **推断需求面**：PoE 接入供电、工业/户外/宽温、万兆上行/骨干
+- **推断需求面**：PoE 接入供电、工业/户外/宽温、万兆上行/骨干、教学教具
   - PoE 接入供电：【推断】依据 CSV 信号/深挖
   - 工业/户外/宽温：【推断】依据 CSV 信号/深挖
   - 万兆上行/骨干：【推断】依据 CSV 信号/深挖
+  - 教学教具：【推断】依据 CSV 信号/深挖
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
@@ -75,7 +76,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
@@ -126,23 +127,42 @@ updated: 2026-09-28
   > MTCNA+MTCSE；专长含 switching、OSPF、动态路由、流量管理、带宽整形、VPN（CSV 备注）
   > 来源：https://mikrotik.com/consultants
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：前锡耶纳外国人大学 IT 主管→CTU/CTP 法庭鉴定+MikroTik 顾问（MTCNA+MTCSE）
+- **②芯片/型号**：未公开
+- **③KP 深挖**：本人 gmail
+- **④Saga 对标**：私人实验室工具机（公立线不触）
+- **⑤在乎与偏好**：技术正确性与职业边界
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**LinkedIn：“L’esperienza come responsabile informatico presso un Ateneo…”+课程栏 CTU/CTP、MTCNA、UBWA、UEWA
+  > LinkedIn：“L’esperienza come responsabile informatico presso un Ateneo…”+课程栏 CTU/CTP、MTCNA、UBWA、UEWA
+  > 来源：https://www.linkedin.com/in/gianpiero-ciacci/
+- **【技术与认证】**CSV：Gianpiero Ciacci MTCNA+MTCSE
+  > CSV：Gianpiero Ciacci MTCNA+MTCSE
+  > 来源：https://mikrotik.com/consultants
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Ciacci 前公立大学 IT 主管：公立红线户，仅私人顾问/鉴定线；实验室工具机 $99 |
+| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：工业非管理 8口 PoE af/at，250m 延伸供电，冗余 DC44–57V（过压/反接保护），DIN 轨，3 年保
+- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长），且有具体人直联
-- **W**：一人/个体=单点与节奏风险
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：鉴定资质+双栈
+- **W**：公立敏感
+- **O**：私人工具机
+- **T**：边界风险
 
 ## 触达与风险红线
 
@@ -180,21 +200,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
 Hi Gianpiero,
 
-I came across Gianpiero Ciacci - 集成商/顾问（MikroTik 认证）.
+I found you on the MikroTik consultant list (MTCNA/MTCSE) - and noticed your CTU/CTP forensic consulting path on LinkedIn. (To be clear upfront: I am reaching out about your private consulting practice, nothing related to any public institution.)
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build compact managed PoE switches that consultants like to keep on the bench as multi-purpose tools (802.3af/at, ERPS, watchdog, tap-friendly). Reference: $99 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: does your private consulting work ever need a versatile PoE tool on the bench?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit for evaluation. If not, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
