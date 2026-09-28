@@ -129,6 +129,22 @@ updated: 2026-09-28
   > DATEL Service- & Technikerteam — 0340 899-2781 · datel-vertrieb@dvv-dessau.de ‖ 故障台 24 h/365 d（0340 899 2000；Premium 0800 899 2770）
   > 来源：https://www.datel-dessau.de/geschaeftskunden/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Stadtwerke 全资市政 ISP
+- **②芯片/型号**：不适用（红线）
+- **③KP 深挖**：建档不出信
+- **④Saga 对标**：不适用
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
+  > “ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
+  > 来源：https://www.datel-dessau.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -142,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：区域
+- **W**：红线
+- **O**：无
+- **T**：不评
 
 ## 触达与风险红线
 
@@ -179,21 +195,10 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Daten-,
-
-I came across Daten- und Telekommunikations-GmbH Dessau - 集成商/代理（Allied Telesis）.
-
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（不出信——公共事业红线。动作：仅建档与 MX 核验。判定依据：官网自述 Stadtwerke Dessau 全资子公司身份，属德国公共采购规范适用实体。）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -2708,6 +2708,14 @@
         "locator": "L38"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L32"
+      },
+      {
         "path": "profile/A/A-141-BAIEN GmbH-德国.md",
         "locator": "L120"
       },
@@ -2718,6 +2726,10 @@
       {
         "path": "profile/A/A-141-BAIEN GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-141-BAIEN GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -4918,6 +4930,14 @@
         "locator": "L589"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L635"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L656"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L550"
       },
@@ -4938,12 +4958,30 @@
         "locator": "L129"
       },
       {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L145"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!Q433"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-898/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://de.itsbetter.com/search/show/432092-eckmann-spezialkabel-gmbh.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L836"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -29036,6 +29074,14 @@
         "locator": "L117"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L122"
+      },
+      {
         "path": "profile/A/A-142-bod networks GmbH-德国.md",
         "locator": "L120"
       },
@@ -29050,6 +29096,10 @@
       {
         "path": "profile/A/A-142-bod networks GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-142-bod networks GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -30196,6 +30246,14 @@
         "locator": "L273"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L281"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L302"
+      },
+      {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
         "locator": "L120"
       },
@@ -30210,6 +30268,10 @@
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -31166,6 +31228,14 @@
         "locator": "L352"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L371"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L392"
+      },
+      {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
         "locator": "L120"
       },
@@ -31180,6 +31250,10 @@
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -31248,6 +31322,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-896/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dallmeier.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L459"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L480"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -31690,6 +31782,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-897/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datel-dessau.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L547"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L568"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -32734,6 +32844,14 @@
         "locator": "L662"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L725"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L746"
+      },
+      {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
         "locator": "L120"
       },
@@ -32744,6 +32862,10 @@
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -32920,6 +33042,10 @@
       {
         "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
         "locator": "L741"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L815"
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
@@ -50220,6 +50346,24 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
         "locator": "L479"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wer-zu-wem.de/firma/buerodata.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L191"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L142"
       }
     ]
   },

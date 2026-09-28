@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Public Display — Digital Signage Displays · Digital Signage Displays Außenbereich（户外）· TouchScreen · LED-Wand Systeme · Whiteboard
   > 来源：https://baien.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：B2B IT 电商分销（机柜配件全谱）
+- **②芯片/型号**：Network 类目在架（厂牌未核）
+- **③KP 深挖**：vertrieb@
+- **④Saga 对标**：PoE 交换 value 位上架
+- **⑤在乎与偏好**：上架文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
+  > “PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
+  > 来源：https://baien.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：电商
+- **W**：在架
+- **O**：补位
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi BAIEN,
+Hi BAIEN team,
 
-I came across BAIEN GmbH - 集成商/代理（Allied Telesis）.
+A B2B catalog that runs from rack PDUs to KVM switches shows one philosophy: everything the rack needs, in stock, documented, shippable.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line for your Network category that gives resellers a healthier margin on routine PoE closets.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your Network category today, is there an open slot for a documented value PoE access switch?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

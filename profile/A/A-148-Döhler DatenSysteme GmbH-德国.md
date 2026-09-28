@@ -128,6 +128,22 @@ updated: 2026-09-28
   > （伙伴墙 Logo：Allied Telesis · Dell · Lenovo · Kyocera · Eizo · brother · Asus · Acer · HP · Gigabyte · Logitech · Western Digital · Seagate · Samsung · Owl Labs · NEC · Microsoft · LG · Lexmark · Intel）‖ Die Konfiguration, Einrichtung und Betreuung von Unternehmens-Netzwerken gehört ebenso zu unserer Arbeit, wie die Erstellung und Realisierung eines Sicherheitskonzeptes
   > 来源：https://dds-computer.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：科隆 30 年系统屋；Allied 品牌墙实版印证
+- **②芯片/型号**：Allied Telesis（官网实版）
+- **③KP 深挖**：Döhler/Eßer 具名
+- **④Saga 对标**：第二供位 value 线
+- **⑤在乎与偏好**：诚信口碑
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
+  > “Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
+  > 来源：https://dds-computer.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：印证
+- **W**：绑定
+- **O**：二线
+- **T**：同盟
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Döhler,
+Hi DDS team,
 
-I came across Döhler DatenSysteme GmbH - 集成商/代理（Allied Telesis）.
+Thirty-plus years in Köln-Lindenthal, and a brand wall that includes Allied Telesis - you already take switching seriously. We write with respect for that wall, not against it.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value second line for projects where the wall brands overshoot a customer's budget.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: when a mid-sized customer cannot carry the usual brands, is there room for a documented value alternative on your bench?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

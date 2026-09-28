@@ -128,6 +128,22 @@ updated: 2026-09-28
   > Dallmeier Systems HAMBURG — Kontakt: André Haack · GELSENKIRCHEN — Stephan Leberecht · MÜNCHEN（Aschheim）— Roland Feil ‖ Support nach Kundenanforderung bis zu 24/7/365 · Vor-Ort Einsatzbegleitung（z. B. bei Großereignissen, Fußballspielen）
   > 来源：https://www.dallmeier.com/de/ueber-uns/dallmeier-systems
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：视频监控制造商（Made in Germany）同业
+- **②芯片/型号**：不适用（同业）
+- **③KP 深挖**：建档不出信
+- **④Saga 对标**：不适用
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
+  > “Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
+  > 来源：https://www.dallmeier.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：厂牌
+- **W**：非客户
+- **O**：生态
+- **T**：不评
 
 ## 触达与风险红线
 
@@ -178,21 +194,10 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Dallmeier,
-
-I came across Dallmeier Electronics GmbH - 集成商/代理（Allied Telesis）.
-
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（不出信——制造商同业建档。动作：仅建档与 MX 核验。判定依据：官网自述视频技术制造商身份（Panomera/SeMSy）；厂家不是采购客户，其 installer/integrator 网络为公开生态线索。）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -280,6 +280,17 @@ OVERRIDE = {
  'A-138': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'AMRO 巴符 MSP：Terra Premium 主供下第二 value 线（$165 锚点一致）；ESET 铂金'},
  'A-139': {'p1': 'STC-28DGGPM', 'p1_reason': 'ARCHE 军工海事（海军/TKMS 潜艇链）：红线建档不出信（出口管制环境）'},
  'A-140': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Bachert 德 25 年全栈：网络 A-Z 随单接入层 value 位（$165 锚点一致）'},
+ # ── R56 批 15（A-141..A-150 深挖 2026-09-28）──
+ 'A-141': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'BAIEN 德 B2B 电商分销：Network 类目 PoE 交换补位上架（$165 锚点一致）'},
+ 'A-142': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'bod networks 开姆尼茨：交换选型核心块直通 value 件（$165 锚点一致）'},
+ 'A-143': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'buerodata 明斯特兰（Ricoh 子公司）：站点弹性窄二线（$165 锚点一致）；403 抓取受限如实'},
+ 'A-144': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'CompData 1976 系统+软件屋：烘焙/纺织多站点 rollout 接入层（$165 锚点一致）；GF Veit 具名'},
+ 'A-145': {'p1': 'STC-28DGGPM', 'p1_reason': 'dainox 国防通信（CWIX/FMN/AFCEA）：军技红线建档不出信'},
+ 'A-146': {'p1': 'STC-28DGGPM', 'p1_reason': 'Dallmeier 视频监控制造商同业：厂家非客户建档不出信'},
+ 'A-147': {'p1': 'STC-28DGGPM', 'p1_reason': 'DATEL Dessau：Stadtwerke 全资市政 ISP——公共红线建档不出信'},
+ 'A-148': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'DDS 科隆 30 年系统屋：Allied 品牌墙实版→第二供位（$165 锚点一致）'},
+ 'A-149': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ProSoft 德累斯顿：网络方案定制文化 value 二线（$165 锚点一致）'},
+ 'A-150': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Eckmann 电缆分销：aktive 类目 PoE 交换补位（$165 锚点一致）；Kai 具名'},
 }
 
 out = {}

@@ -1,0 +1,901 @@
+{
+ "batch": 25,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-141",
+   "fact": "BAIEN GmbH（德国）：B2B 型 IT 电商分销商——Kundenportal+全谱类目：显示/会议屏/数字标牌/桌面与笔记本/**服务器机柜 PDU（Gemessen/Switched/Verwaltet 分级）**/KVM/**Network 类目**；vertrieb@ 销售口",
+   "inference": "电商化分销架结构：“机柜里从 PDU 到 KVM 全铺”——PoE 接入交换机是其 Network 类目天然补位",
+   "hypothesis": "类目齐全度越高=value 位毛利层越需要（炮位竞争只看文档与利润）",
+   "evidence_main": "https://baien.de/",
+   "tech": "IT 电商分销：服务器/网络/显示",
+   "hr": "B2B portal 化",
+   "contact_found": "vertrieb@baien.de（CSV 具）；MX=IONOS 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德国 B2B IT 电商分销（全谱类目）",
+    "产品线与在售品牌": "全谱 IT（Network 类目在）",
+    "目标行业与场景": "reseller/集成商渠道",
+    "团队与规模": "中型分销",
+    "决策链与对接人": "vertrieb@ 口",
+    "技术与认证": "B2B 平台",
+    "采购与供应链信号": "上架分销",
+    "近期动态与线索": "Kundenportal 常态",
+    "与我方契合点": "Network 类目 PoE 交换补位",
+    "风险与注意": "在架竞争"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”",
+     "source": "https://baien.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 类目一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Network 类目 PoE 接入交换 value 位",
+     "question": "Network 类目接入位结构？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 上架准入",
+     "push": "CE/文档包",
+     "angle": "电商上架门槛",
+     "question": "上架要求？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 渠道滚动",
+     "push": "阶梯",
+     "angle": "reseller 渠道滚动",
+     "question": "渠道结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "B2B IT 电商分销（机柜配件全谱）",
+     "②芯片/型号": "Network 类目在架（厂牌未核）",
+     "③KP 深挖": "vertrieb@",
+     "④Saga 对标": "PoE 交换 value 位上架",
+     "⑤在乎与偏好": "上架文档",
+     "⑥SWOT": "S 电商化 / W 在架众 / O 补位 / T 大牌"
+    },
+    "care": [
+     "上架文档"
+    ],
+    "swot": {
+     "S": "电商",
+     "W": "在架",
+     "O": "补位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "Network 类目厂牌未核",
+     "合作方式": "未谈",
+     "缺口证据": "类目页未抓"
+    },
+    "gap_proof": "首页类目树"
+   },
+   "unknowns": [
+    "Network 类目结构",
+    "上架门槛",
+    "渠道滚动"
+   ],
+   "email": "Hi BAIEN team,\n\nA B2B catalog that runs from rack PDUs to KVM switches shows one philosophy: everything the rack needs, in stock, documented, shippable.\n\nWe build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line for your Network category that gives resellers a healthier margin on routine PoE closets.\n\nOne question: in your Network category today, is there an open slot for a documented value PoE access switch?\n\nIf useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your Network category today, is there an open slot for a documented value PoE access switch?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|B2B电商分销|Network类目补位",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-142",
+   "fact": "bod networks GmbH（德国开姆尼茨）：30+ 年 IT 商——**Networking & Switching 专块自述（Access 到 Core 交换选型/结构化组网/配置）**/铜缆光纤布线（OTDR 测量认证级）/服务器/USV/TK-VoIP/**光伏新线**；SMB 主力+大型布线项目；0371 电话+mail@",
+   "inference": "“Networking & Switching”作为独立服务块=交换选型是其核心交付——直接对口；布线 OTDR 认证级=工程严谨",
+   "hypothesis": "SMB 价敏+大项目工程双线：value 件在 SMB 线是毛利层，在大项目是第二供位",
+   "evidence_main": "https://www.bod-networks.com/",
+   "tech": "Networking&Switching/布线/光伏",
+   "hr": "30+ 年开姆尼茨",
+   "contact_found": "mail@bod-networks.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "开姆尼茨 30 年网络工程商（交换选型核心）",
+    "产品线与在售品牌": "交换/布线/服务器/USV/TK（CSV 载 Allied 信号）",
+    "目标行业与场景": "SMB+大型布线",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "mail@ 口",
+    "技术与认证": "OTDR 认证级",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "光伏扩线",
+    "与我方契合点": "交换选型位 value 件（直接对口）",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Networking & Switching…Egal ob einfache Access- oder komplexe Core-Switche…Wir beraten Sie hinsichtlich der Typenauswahl sowie des strukturierten Netzaufbaus”",
+     "source": "https://www.bod-networks.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 选型位一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Access 层选型位的文档齐全 value 件",
+     "question": "Access 层选型现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 布线联动",
+     "push": "OTDR 级项目案例",
+     "angle": "布线大项目的接入随单",
+     "question": "布线项目接入随单率？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 滚动框架",
+     "push": "阶梯",
+     "angle": "SMB+大项目双轨滚动",
+     "question": "年滚动量？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "30 年网络工程（交换选型核心块+OTDR 布线）",
+     "②芯片/型号": "CSV 载 Allied 信号",
+     "③KP 深挖": "mail@",
+     "④Saga 对标": "Access 选型位 value 件",
+     "⑤在乎与偏好": "工程文档",
+     "⑥SWOT": "S 选型核心 / W 区域 / O 直通位 / T 大牌"
+    },
+    "care": [
+     "工程文档"
+    ],
+    "swot": {
+     "S": "选型",
+     "W": "区域",
+     "O": "直通",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开厂牌",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "Access 选型现供",
+    "布线随单率",
+    "滚动量"
+   ],
+   "email": "Hi bod networks team,\n\n\"From simple access switches to complex core switches with routing and redundancy\" - switching is not an afterthought in your portfolio, it is a named discipline. That is exactly where we manufacture.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value line for the access layer you specify every week.\n\nOne question: in your network designs for SMB customers and larger cabling projects, which switch brand holds the access layer today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your network designs, which switch brand holds the access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|开姆尼茨网络工程|交换选型核心|直接对口",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-143",
+   "fact": "buerodata AG（德国 Stadtlohn，1988 年创）：IT 咨询与系统集成商，10-49 人；**Ricoh（日本）集团所有**（wer-zu-wem 名录级）；官网 www.buerodata.de 抓取 403（bot 拦截如实标注）；info@ 公开",
+   "inference": "Ricoh 集团从属=采购结构大概率与集团目录联动；区域 SMB 段自有弹性仍存",
+   "hypothesis": "集团子公司走窄二线试探：承认集团结构，问站点级 value 件空间",
+   "evidence_main": "https://www.wer-zu-wem.de/firma/buerodata.html",
+   "tech": "IT 咨询/系统集成",
+   "hr": "1988 创；10-49 人",
+   "contact_found": "info@buerodata.de（CSV 具）；自有 MX（mx1.buerodata.de）存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Ricoh 集团从属注明；官网 403 抓取受限（如实标注）",
+   "dims": {
+    "业务定位": "明斯特兰区域系统集成（Ricoh 子公司）",
+    "产品线与在售品牌": "集团目录（未核）",
+    "目标行业与场景": "区域 SMB",
+    "团队与规模": "10-49 人",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "Ricoh 体系",
+    "采购与供应链信号": "集团联动待核",
+    "近期动态与线索": "—",
+    "与我方契合点": "区域 value 二线窄位",
+    "风险与注意": "集团集权"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”",
+     "source": "https://www.wer-zu-wem.de/firma/buerodata.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 集团框架问候",
+     "push": "STC-424DGGPM-280W",
+     "angle": "承认 Ricoh 集团结构+站点级 value 件空间",
+     "question": "接入层采购层级（站点/集团）？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 区域 SMB",
+     "push": "案例",
+     "angle": "区域 SMB 随单",
+     "question": "区域项目接入件结构？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "若全集权集团——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1988 区域集成；Ricoh 集团所有（403 抓取受限如实）",
+     "②芯片/型号": "集团目录未核",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "区域 value 二线窄位",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 集团背书 / W 集权 / O 区域弹性 / T 大牌"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "背书",
+     "W": "集权",
+     "O": "弹性",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "403 抓取受限",
+     "合作方式": "未谈",
+     "缺口证据": "官网 403"
+    },
+    "gap_proof": "403+名录级"
+   },
+   "unknowns": [
+    "采购层级",
+    "区域弹性",
+    "接入现供"
+   ],
+   "email": "Hi buerodata team,\n\nA system house serving the Münsterland region since 1988, now inside the Ricoh family - congratulations on that stability.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line for regional SMB projects where group catalogue prices overshoot the budget.\n\nOne question: for your regional projects, does switch purchasing happen at site level, and is there room for a documented value alternative?\n\nIf useful, I can send one unit with full documentation. If the group handles it centrally, one line and I close the loop politely.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "For your regional projects, does switch purchasing happen at site level - and is there room for a documented value alternative?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|明斯特兰集成|Ricoh子公司|站点弹性窄位",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-144",
+   "fact": "CompData Computer GmbH（德国，**1976 年创**——业界最老之一）：系统屋（IT 基建/安全/托管）+软件屋（ERP Diamant/4/Sage HR/ATOSS 工时/PROXESS DMS/QlikSense BI）一体；行业深耕：**烘焙/纺织服装/牙科供应链**/中小企业；GF Reiner Veit 具名；数百客户德语区",
+   "inference": "“系统+软件一体”=硬件随其软件项目滚动；烘焙连锁等行业客户=多站点接入件滚动结构",
+   "hypothesis": "1976 老牌咨询文化=认稳定与文档；行业多站点 rollout 是接入件循环场景",
+   "evidence_main": "https://www.compdata.de/",
+   "tech": "系统屋+软件屋一体",
+   "hr": "1976 创；数百客户",
+   "contact_found": "vertrieb@compdata.de（CSV 具）；MX=Hornetsecurity 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德语区 1976 老牌系统+软件屋",
+    "产品线与在售品牌": "全谱基建（CSV 载 Allied 信号）",
+    "目标行业与场景": "烘焙/纺织/牙科/mittelstand",
+    "团队与规模": "中型双线",
+    "决策链与对接人": "vertrieb@+GF Veit 具名",
+    "技术与认证": "行业软件认证",
+    "采购与供应链信号": "软件项目随单+多站点滚动",
+    "近期动态与线索": "2026 IT Security Day",
+    "与我方契合点": "行业 rollout 接入层 value 位",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Seit 1976 betreut das System- und Softwarehaus mehrere Hundert Unternehmen im deutschsprachigen Raum”",
+     "source": "https://www.compdata.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 行业滚动一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "烘焙/纺织多站点 rollout 的接入层 value 位",
+     "question": "多站点项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 软件随单",
+     "push": "随单结构",
+     "angle": "ERP/DMS 项目的网络随单",
+     "question": "软件项目网络随单率？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 老牌对话",
+     "push": "实测包",
+     "angle": "1976 咨询文化实测",
+     "question": "评测窗？",
+     "proof": "包"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1976 系统+软件一体；行业深耕（烘焙/纺织/牙科）",
+     "②芯片/型号": "CSV 载 Allied 信号",
+     "③KP 深挖": "vertrieb@/GF Veit",
+     "④Saga 对标": "多站点 rollout 接入层",
+     "⑤在乎与偏好": "稳定+文档",
+     "⑥SWOT": "S 行业深耕 / W 体量中 / O rollout 滚动 / T 大牌"
+    },
+    "care": [
+     "稳定文档"
+    ],
+    "swot": {
+     "S": "深耕",
+     "W": "体量",
+     "O": "滚动",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开厂牌",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "多站点接入现供",
+    "随单率",
+    "评测窗"
+   ],
+   "email": "Hi CompData team,\n\nServing several hundred German-speaking companies since 1976 - that is not a business, that is an institution. And industry specializations like bakeries, textiles and dental depots mean one thing: multi-site rollouts, again and again.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - made for exactly those multi-site access closets.\n\nOne question: in your industry rollouts, which switch brand holds the PoE access layer today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your industry rollouts, which switch brand holds the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|1976系统软件屋|行业多站点|滚动接入",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-145",
+   "fact": "dainox GmbH（德国）：**国防通信专家**——“Experte für Kommunikationslösungen im **Defence-Umfeld**”；DWT-Marineworkshop 2026（海军装备）参展、**AFCEA Bonn（军口展会）**、**CWIX 2026（北约互操作演习）FMN/PCN 架构 COMMS 核心角色**、LBO 作战网络文章；2026 新建生产厂房",
+   "inference": "德国联邦军/北约 FMN 供应链成员——出口管制+密级审查环境，外资网络件无任何现实通道",
+   "hypothesis": "纪律建档不出信（军技红线，同 A-139 ARCHE 族）",
+   "evidence_main": "https://www.dainox.net/",
+   "tech": "国防通信/FMN 网络",
+   "hr": "国防专精",
+   "contact_found": "info@dainox.net（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "国防红线：建档不出信",
+   "dims": {
+    "业务定位": "德国国防通信专家（FMN/AFCEA/CWIX）",
+    "产品线与在售品牌": "国防通信方案（红线）",
+    "目标行业与场景": "联邦军/北约（红线）",
+    "团队与规模": "专精中型（扩产中）",
+    "决策链与对接人": "—",
+    "技术与认证": "军规",
+    "采购与供应链信号": "军工采购",
+    "近期动态与线索": "CWIX 2026 核心角色",
+    "与我方契合点": "无（红线建档）",
+    "风险与注意": "出口管制+密级"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Experte für Kommunikationslösungen im Defence-Umfeld…CWIX 2026…Federated Mission Networking…AFCEA Fachausstellung”",
+     "source": "https://www.dainox.net/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "—",
+     "angle": "国防红线：建档不出信（CWIX/FMN 供应链=军技环境）",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "国防通信（Defence-Umfeld 自述+CWIX/FMN 核心）",
+     "②芯片/型号": "不适用（红线）",
+     "③KP 深挖": "建档不出信",
+     "④Saga 对标": "不适用",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 专精 / W 红线 / O 无 / T 不评"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "专精",
+     "W": "红线",
+     "O": "无",
+     "T": "不评"
+    },
+    "uncertain": {
+     "产品线核实": "—",
+     "合作方式": "—",
+     "缺口证据": "红线判定"
+    },
+    "gap_proof": "官网 Defense 自述"
+   },
+   "unknowns": [
+    "—"
+   ],
+   "email": "（不出信——国防通信红线。动作：仅建档与 MX 核验。判定依据：官网自述 Defence-Umfeld+CWIX/AFCEA/FMN 供应链身份。）",
+   "question": "—",
+   "alt2": "—",
+   "alt3": "—",
+   "tag": "德国|国防通信|CWIX北约链|红线建档不出信",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-146",
+   "fact": "Dallmeier Electronics（德国雷根斯堡，1984 年创）：**视频监控制造商**——Panomera 多焦传感器专利/Domera 摄像系/SeMSy VMS/Hemisphere；机场/赌场/体育场/关键基建方案；**“Video Technology Made in Germany”**，全球 installer/integrator 渠道",
+   "inference": "制造商同业（视频安防厂牌）——是设备厂家不是采购客户；按其渠道结构，其合作伙伴（installer/integrator）才是接入交换的买家",
+   "hypothesis": "同业建档不出信（厂家非客户纪律，同 Round15 台湾信号源逻辑）；CSV 以 Allied 信号录入，如实标注同业身份",
+   "evidence_main": "https://www.dallmeier.com/",
+   "tech": "视频监控制造（Panomera/SeMSy）",
+   "hr": "1984 创；雷根斯堡",
+   "contact_found": "info@dallmeier.com（CSV 具）；MX=mx1.dallmeier.de 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "制造商同业：建档不出信",
+   "dims": {
+    "业务定位": "德国视频监控制造商（同业）",
+    "产品线与在售品牌": "Panomera/Domera/SeMSy",
+    "目标行业与场景": "机场/赌场/体育场/KRITIS",
+    "团队与规模": "中型制造商",
+    "决策链与对接人": "—",
+    "技术与认证": "Made in Germany",
+    "采购与供应链信号": "—（厂家）",
+    "近期动态与线索": "St. Louis 机场案例",
+    "与我方契合点": "无直接（同业）；其 installer 渠道为后续独立触点池",
+    "风险与注意": "同业身份"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”",
+     "source": "https://www.dallmeier.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "—",
+     "angle": "制造商同业：建档不出信（厂家非客户）；其 installer/integrator 网络属公开生态线索",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "视频监控制造商（Made in Germany）同业",
+     "②芯片/型号": "不适用（同业）",
+     "③KP 深挖": "建档不出信",
+     "④Saga 对标": "不适用",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 厂牌 / W 非客户 / O 渠道生态线索 / T 不评"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "厂牌",
+     "W": "非客户",
+     "O": "生态",
+     "T": "不评"
+    },
+    "uncertain": {
+     "产品线核实": "—",
+     "合作方式": "—",
+     "缺口证据": "同业判定"
+    },
+    "gap_proof": "官网制造商自述"
+   },
+   "unknowns": [
+    "—"
+   ],
+   "email": "（不出信——制造商同业建档。动作：仅建档与 MX 核验。判定依据：官网自述视频技术制造商身份（Panomera/SeMSy）；厂家不是采购客户，其 installer/integrator 网络为公开生态线索。）",
+   "question": "—",
+   "alt2": "—",
+   "alt3": "—",
+   "tag": "德国|视频制造商同业|Made-in-Germany|建档不出信",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-147",
+   "fact": "DATEL Daten- und Telekommunikations-GmbH Dessau：**德国 Stadtwerke Dessau 全资子公司**——区域市政 ISP（光纤到户/电话/IPTV/有线电视，1Gbit 消费级套餐 19.95€ 促销）；Google 4.7 分 532 评价；dvv-dessau.de 集团域",
+   "inference": "100% 市政公用事业所有=德国公共采购规范（VgV）适用实体；其接入网局端/配线采购走公共框架",
+   "hypothesis": "公共事业红线建档不出信（同 Centerprise/Stadtwerke 族：市政全资实体不触）",
+   "evidence_main": "https://www.datel-dessau.de/",
+   "tech": "市政 FTTH/IPTV ISP",
+   "hr": "Stadtwerke 全资",
+   "contact_found": "datel-vertrieb@dvv-dessau.de（CSV 具）；MX=dvv-dessau.de/post.datel-dessau.de 双域存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公共事业红线：建档不出信",
+   "dims": {
+    "业务定位": "市政全资区域 ISP（Stadtwerke Dessau）",
+    "产品线与在售品牌": "FTTH/IPTV（消费者向）",
+    "目标行业与场景": "住宅/市政（公共）",
+    "团队与规模": "市政子公司",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "公共采购框架",
+    "近期动态与线索": "1Gbit 促销",
+    "与我方契合点": "无（公共红线建档）",
+    "风险与注意": "VgV 公共采购"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”",
+     "source": "https://www.datel-dessau.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "—",
+     "angle": "公共事业红线：建档不出信（Stadtwerke 全资市政实体，VgV 采购框架）",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Stadtwerke 全资市政 ISP",
+     "②芯片/型号": "不适用（红线）",
+     "③KP 深挖": "建档不出信",
+     "④Saga 对标": "不适用",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 区域垄断 / W 公共红线 / O 无 / T 不评"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "区域",
+     "W": "红线",
+     "O": "无",
+     "T": "不评"
+    },
+    "uncertain": {
+     "产品线核实": "—",
+     "合作方式": "—",
+     "缺口证据": "公共判定"
+    },
+    "gap_proof": "官网 Stadtwerke 子公司自述"
+   },
+   "unknowns": [
+    "—"
+   ],
+   "email": "（不出信——公共事业红线。动作：仅建档与 MX 核验。判定依据：官网自述 Stadtwerke Dessau 全资子公司身份，属德国公共采购规范适用实体。）",
+   "question": "—",
+   "alt2": "—",
+   "alt3": "—",
+   "tag": "德国|市政ISP|Stadtwerke全资|公共红线建档不出信",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-148",
+   "fact": "Döhler DatenSysteme GmbH（德国科隆 Lindenthal，30+ 年）：PC/服务器定制+企业 IT 长期维保系统屋；**品牌墙实版含 Allied Telesis**（Eizo/Dell/Asus/HP/Lenovo/NEC/Microsoft 等同墙）；具名领导 Dipl.-Ing. Klaus Döhler+Manfred Eßer；客户：保险/法律/教育+中小企业",
+   "inference": "**Allied Telesis 品牌墙实版**=交换接入有其明现供——第二供位对话成立（承认在位不自贬）",
+   "hypothesis": "“ehrbar gearbeitet（诚信经营）”口碑文化+定制基因=文档齐全的 value 件有评测门",
+   "evidence_main": "https://dds-computer.de/",
+   "tech": "系统屋/网络/维保",
+   "hr": "30+ 年科隆；具名双人",
+   "contact_found": "kontakt@dds-computer.de（CSV 具）；MX=IONOS 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "科隆 30 年系统屋（Allied 实版在墙）",
+    "产品线与在售品牌": "**Allied Telesis**/Dell/Asus/HP/NEC 等",
+    "目标行业与场景": "保险/法律/教育/中小企业",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "kontakt@+Döhler/Eßer",
+    "技术与认证": "定制级",
+    "采购与供应链信号": "品牌墙随单",
+    "近期动态与线索": "—",
+    "与我方契合点": "Allied 在位下第二供位 value 线",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”",
+     "source": "https://dds-computer.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 第二供位一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "承认在墙品牌+预算受限项目 value 二线",
+     "question": "有无预算受限项目需二线件？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 维保滚动",
+     "push": "滚动方案",
+     "angle": "长期维保合约的 refresh 件",
+     "question": "维保户 refresh 结构？",
+     "proof": "方案"
+    },
+    {
+     "stage": "第 3 次跟进 · 实测对话",
+     "push": "报告",
+     "angle": "工程师文化实测",
+     "question": "评测窗？",
+     "proof": "报告"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "科隆 30 年系统屋；Allied 品牌墙实版印证",
+     "②芯片/型号": "Allied Telesis（官网实版）",
+     "③KP 深挖": "Döhler/Eßer 具名",
+     "④Saga 对标": "第二供位 value 线",
+     "⑤在乎与偏好": "诚信口碑",
+     "⑥SWOT": "S 印证信号 / W 在位绑定 / O 二线位 / T 同盟"
+    },
+    "care": [
+     "口碑文档"
+    ],
+    "swot": {
+     "S": "印证",
+     "W": "绑定",
+     "O": "二线",
+     "T": "同盟"
+    },
+    "uncertain": {
+     "产品线核实": "Allied 在墙",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "品牌墙"
+   },
+   "unknowns": [
+    "二线空间",
+    "refresh 结构",
+    "评测窗"
+   ],
+   "email": "Hi DDS team,\n\nThirty-plus years in Köln-Lindenthal, and a brand wall that includes Allied Telesis - you already take switching seriously. We write with respect for that wall, not against it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value second line for projects where the wall brands overshoot a customer's budget.\n\nOne question: when a mid-sized customer cannot carry the usual brands, is there room for a documented value alternative on your bench?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When a mid-sized customer cannot carry the usual brands, is there room for a documented value alternative?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|科隆系统屋|Allied实版|第二供位",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-149",
+   "fact": "Dresdner ProSoft GmbH（德国德累斯顿）：IT 系统屋——服务器（含定制）/**Netzwerklösungen（无线/LAN-WAN 集成/基建组件/规划实施，Cisco 配图）**/外部数据保护官服务/IT-Security（F-Secure 等厂牌伙伴）/工作站",
+   "inference": "网络方案是其独立服务块（Cisco 位图暗示在位同盟）——第二供位价值线切入",
+   "hypothesis": "“maßgeschneidert（量身定制）”文化=非同盟强制，评测门有",
+   "evidence_main": "https://www.dresdner-prosoft.com/",
+   "tech": "系统屋：服务器/网络/安全/DSB",
+   "hr": "德累斯顿",
+   "contact_found": "info@prosoft-dresden.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德累斯顿系统屋（网络方案独立块）",
+    "产品线与在售品牌": "HPE/Cisco 暗示/F-Secure",
+    "目标行业与场景": "区域企业",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "伙伴多厂",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "—",
+    "与我方契合点": "value 第二供位",
+    "风险与注意": "Cisco 同盟"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Ihr Partner für Netzwerklösungen…LAN/WAN-Netzwerkintegration, Infrastruktur und Komponenten, Planung sowie Implementierung”",
+     "source": "https://www.dresdner-prosoft.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 定制文化一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "maßgeschneidert 文化下的接入层 value 件",
+     "question": "网络方案接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 安全线联动",
+     "push": "文档包",
+     "angle": "其安全客户的合规文档",
+     "question": "文档门槛？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 区域滚动",
+     "push": "阶梯",
+     "angle": "德累斯顿区域滚动",
+     "question": "滚动量？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "德累斯顿系统屋（网络方案独立块+Cisco 暗示）",
+     "②芯片/型号": "HPE/Cisco 暗示（CSV 载 Allied 信号）",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "value 第二供位",
+     "⑤在乎与偏好": "定制+合规",
+     "⑥SWOT": "S 定制文化 / W 同盟 / O 二线 / T 在位"
+    },
+    "care": [
+     "合规文档"
+    ],
+    "swot": {
+     "S": "定制",
+     "W": "同盟",
+     "O": "二线",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "未公开全牌",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入现供",
+    "文档门槛",
+    "滚动量"
+   ],
+   "email": "Hi ProSoft team,\n\nCustom-built servers and tailored network solutions - a system house that configures instead of just shipping boxes. That is exactly where a well-documented component earns its place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value line for the access layer in your network projects.\n\nOne question: in your LAN/WAN integration projects, which switch brand holds the PoE access slots today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your LAN/WAN integration projects, which switch brand holds the PoE access slots?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|德累斯顿系统屋|网络方案定制|二线位",
+   "batch": 25,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-150",
+   "fact": "Eckmann Spezialkabel GmbH（德国 Quickborn，2000 年创家族企业，Eckmann 集团含 datacom）：**电缆分销专家**——网络技术（铜/光纤线缆/插座/**机柜机架**/配线架/**aktive Komponenten（实版类目：有源组件）**）/演播技术（视频/摄像/麦克线缆）/**船舶海工特种电缆（民用船用）**/定制接头与按米裁剪；Quickborn 大仓+法兰克福/萨尔布吕肯点；11-50 人；GF Kai Eckmann 具名",
+   "inference": "“aktive Komponenten”类目实版=架上已有有源位——value PoE 交换补位与 RWL 型被动旁 active 同型；海工电缆是民用商用常规段",
+   "hypothesis": "“按客户规格定制+快速物流”分销文化=上架看交付与文档；Kai Eckmann 具名可直触",
+   "evidence_main": "https://www.eckmann-spezialkabel.co/",
+   "tech": "电缆分销：网络/演播/船用特种",
+   "hr": "2000 创；集团多点",
+   "contact_found": "spezialkabel@eckmann.de（CSV 具；官网 contact 一致）；MX=Sophos 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德国电缆分销专家（aktive 件类目实版）",
+    "产品线与在售品牌": "电缆/机柜/aktive Komponenten",
+    "目标行业与场景": "网络工程/演播/船用（民用）",
+    "团队与规模": "11-50 家族集团",
+    "决策链与对接人": "Kai Eckmann GF/spezialkabel@",
+    "技术与认证": "品牌质控",
+    "采购与供应链信号": "分销上架",
+    "近期动态与线索": "海事线缆扩线",
+    "与我方契合点": "aktive 类目 PoE 交换补位",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Netzwerktechnik (z.B. Kupfer- und Glasfaserleitungen…Schränke/Racks, Patchpanels…aktive Komponenten)”",
+     "source": "https://de.itsbetter.com/search/show/432092-eckmann-spezialkabel-gmbh.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · aktive 类目一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "aktive Komponenten 类目 PoE 交换 value 位",
+     "question": "aktive 类目交换件现供结构？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 上架准入",
+     "push": "CE/文档包",
+     "angle": "分销上架门槛",
+     "question": "上架要求？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 集团多点",
+     "push": "阶梯",
+     "angle": "Quickborn/法兰/萨尔布吕肯多点滚动",
+     "question": "多点采购结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "电缆分销专家（aktive 件类目+船用民用线）",
+     "②芯片/型号": "aktive 类目（厂牌未核）",
+     "③KP 深挖": "Kai Eckmann 具名",
+     "④Saga 对标": "aktive 类目 PoE 补位",
+     "⑤在乎与偏好": "交付+文档",
+     "⑥SWOT": "S 类目契合 / W 体量 / O 补位 / T 大牌"
+    },
+    "care": [
+     "上架文档"
+    ],
+    "swot": {
+     "S": "契合",
+     "W": "体量",
+     "O": "补位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "aktive 类目厂牌未核",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "名录+官网 contact 页"
+   },
+   "unknowns": [
+    "aktive 类目结构",
+    "上架门槛",
+    "多点结构"
+   ],
+   "email": "Hi Kai / Eckmann team,\n\nA cable specialist whose range already runs from copper and fibre to racks, patch panels and active components - the natural shelf for a PoE access switch is yours.\n\nWe build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line for the active-components shelf that gives your project customers a healthier margin.\n\nOne question: in your active-components range today, is there an open slot for a documented value PoE switch?\n\nIf useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your active-components range today, is there an open slot for a documented value PoE switch?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|电缆分销|aktive类目补位|具名Kai",
+   "batch": 25,
+   "date": "2026-09-28"
+  }
+ ]
+}
