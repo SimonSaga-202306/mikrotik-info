@@ -5,6 +5,32 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `034c76e011b4` | 2026-09-28T02:24:22+00:00 | R53: B-segment rescreen batch 27 (B-318 mikrotik.ro promote) |
+| `7fd8c132a069` | 2026-09-28T02:23:54+00:00 | R53: B-segment rescreen batch 26 (domain/entry retries, 4 promotions) |
+| `758cb0cefc94` | 2026-09-28T02:20:21+00:00 | R53: B-segment rescreen batch 25 (pending-retry follow-ups, 11 promotions) |
+| `d928756d3c46` | 2026-09-28T02:16:27+00:00 | R53: B-segment rescreen batch 24 (leftover DK/UA/IL/BG/IS/CZ/US/BE rows, 3 promotions) |
+| `73084554c705` | 2026-09-28T02:12:58+00:00 | R53: B-segment rescreen batch 23 (PT+ES+AE/MT/ME/DE, 7 promotions) |
+| `27ba6081b2dd` | 2026-09-28T02:10:51+00:00 | R53: B-segment rescreen batch 22 (NL, 4 promotions) |
+| `ddd8ed492620` | 2026-09-28T02:10:26+00:00 | R53: B-segment rescreen batch 21 (UK, 7 promotions) |
+| `d9fe27f9a0c4` | 2026-09-28T02:09:31+00:00 | R53: B-segment rescreen batch 20 (US+FI, 6 promotions) |
+| `110efdac373c` | 2026-09-28T02:07:00+00:00 | R53: B-segment rescreen batch 19 (RO+US, 7 promotions) |
+| `3d2d2b2a89a6` | 2026-09-28T02:05:49+00:00 | R53: B-segment rescreen batch 18 (US network distributors, 8 promotions) |
+| `b62b95a23984` | 2026-09-28T02:04:58+00:00 | R53: B-segment rescreen batch 17 (CH/Kosovo/LT/RO, 4 promotions) |
+| `a2246d317875` | 2026-09-28T02:04:29+00:00 | R53: B-segment rescreen batch 16 (IE/EE/SE/CH, 5 promotions) |
+| `6bbcba61ed2f` | 2026-09-28T02:02:25+00:00 | R53: B-segment rescreen batch 15 (PL/BA/IE, 3 promotions) |
+| `7adf2f4d34dc` | 2026-09-28T02:01:59+00:00 | R53: B-segment rescreen batch 14 (SE/FR/PL, 7 promotions) |
+| `07bea7327426` | 2026-09-28T02:01:29+00:00 | R53: upgrade B-245 (MHz mhzshop) to promote after CRS switch-category verification |
+| `2938f875452b` | 2026-09-28T02:01:02+00:00 | R53: B-segment rescreen batch 13 (France, 3 promotions) |
+| `b6c5052ecedb` | 2026-09-28T02:00:33+00:00 | R53: B-segment rescreen batch 12 (SK/SI/GE/BE/FR, 3 promotions) |
+| `e1db32221007` | 2026-09-28T02:00:02+00:00 | R53: upgrade B-195 (Discomp) to promote after switch-category verification |
+| `92f8f4407060` | 2026-09-28T01:59:11+00:00 | R53: B-segment rescreen batch 11 (CZ/MD, 4 promotions) |
+| `4bc712f00e8c` | 2026-09-28T01:57:57+00:00 | R53: B-segment rescreen batch 10 (IT/LV/NO/CZ, 3 promotions) |
+| `df2f9dd89fed` | 2026-09-28T01:56:53+00:00 | R53: B-segment rescreen batches 8-9 (Germany/Italy, 6 promotions) |
+| `63a074a3771e` | 2026-09-28T01:55:29+00:00 | R53: B-segment rescreen batch 7 (Greece/Germany, 5 promotions) |
+| `3e07c87924ae` | 2026-09-28T01:55:02+00:00 | R53: B-segment rescreen batch 6 (Cyprus/Austria/Greece, 4 promotions) |
+| `b134ecf8fca1` | 2026-09-28T01:53:58+00:00 | R53: B-segment rescreen batch 5 (Turkey/Serbia, 8 promotions) |
+| `e3e3b591f576` | 2026-09-28T01:51:37+00:00 | R53: B-segment site rescreen batches 1-3 (13 promotions with URL evidence) |
+| `6c8dae72a642` | 2026-09-28T01:45:26+00:00 | Refresh audit index after R52 commit |
 | `3f117f069dec` | 2026-09-28T01:45:16+00:00 | R52: finish duplicate-hint review (C-011 to A-431, 21 rows held with reasons) |
 | `7f4dfd3fc73c` | 2026-09-28T01:40:43+00:00 | Refresh audit index after R51 commit |
 | `3a9e80117291` | 2026-09-28T01:40:34+00:00 | R51: upgrade qualifying duplicate-hint rows to A (user rule: upgrade when A standard met) |

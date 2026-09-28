@@ -6907,3 +6907,2219 @@
   - [1](https://mikrotik.com/consultants?region=Croatia)
   - [2](batch/dedup_hints_2026-09-28_R50.json#C-011)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-432"></a>
+## A-432 · DEPS · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-102`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：deps.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[0]`；记录日期 2026-09-28；来源等级 `official-channel`。
+  - 公开邮箱：+380 44 323 88 88 / Oleg.Smaliychuk@deps.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛24】官网核对：DEPS（乌克兰）自述 **«системный интегратор и дистрибьютор телекоммуникационного оборудования в Украине»**，目录中「Телекоммуникационное оборудование」大类明确含 **«Ethernet коммутаторы»**，并有 Оборудование PON（GPON/10GEPON）、Маршрутизаторы и ethernet брандмауэры、IP MPLS、SFP/SFP+/XFP 光模块、CWDM/DWDM、Ethernet медиаконвертеры、кабель（оптоволокно/витая пара FinMark）、ИБП、грозозащита 等；新品页为 FoxGate XE2901R 10GEPON、BDCOM XGSPON/GPON Combo、FinMark 双绞线（自有/区域品牌），另有 солнечные электростанции 业务线 → 电信设备批发分销+交换机品类（ISP 客户群） → 人工定级升A。 证据：[1](https://deps.ua/katalog.html)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-432
+  - 保留原文：DEPS — системный интегратор и дистрибьютор телекоммуникационного оборудования в Украине；Каталог товаров: Телекоммуникационное оборудование — **Ethernet коммутаторы／Оборудование PON／Маршрутизаторы и ethernet брандмауэры／Оборудование IP MPLS／XFP, SFP+, SFP оптические модули／Оборудование CWDM/DWDM／Ethernet медиаконвертеры**；Кабельно-проводниковая продукция（Оптоволоконный кабель／Витая пара FinMark）；Системы безопасности（IP видеонаблюдение）；Электропитание и грозозащита；Новые поступления: FoxGate XE2901R для сетей 10GEPON／XGSPON/GPON Combo от BDCOM／Поступление витой пары FinMark
+  - [1](https://deps.ua/katalog.html)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-433"></a>
+## A-433 · Lanbox · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-106`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lanbox.com.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 44 384 02 29 / sale@lanbox.com.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛1】官网核对：LanBox（利沃夫州新亚沃里夫斯克，小团队，2 个电话+营业时间）为无线/有线网络专营店，**交换机一级分类「Комутатори (239)」**、路由 246、AP 315、另有批发部门（Гуртовий відділ）→ 明确交换机品类+小公司决策链短+邮箱直达 → 人工定级升A。 证据：[1](https://lanbox.com.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-433
+  - 保留原文：Провідне обладнання ／ Комутатори (239) ／ Маршрутизатори (246) ／ Гуртовий відділ；sale@lanbox.com.ua
+  - [1](https://lanbox.com.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-434"></a>
+## A-434 · Lanmarket · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-107`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lanmarket.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[2]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 50 666 78 58 / sale@lanmarket.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛1】官网核对：Lanmarket 为网络/电信设备专营（零售+批发），在售 MikroTik（NetBox 5、SXT LTE、CCR2004-16G-2S+、Q+DA0001 40G 线缆）与 PON OLT 交换机品类、OTDR 等 → 电信/网络专长+交换机品类+决策链短 → 人工定级升A。 证据：[1](https://lanmarket.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-434
+  - 保留原文：Магазин сетевого оборудования Lanmarket - розничная и оптовая продажа；MikroTik CCR2004-16G-2S+ / NetBox 5 / ОLT коммутаторы / OTDR ZS1000-A
+  - [1](https://lanmarket.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-435"></a>
+## A-435 · Lantorg · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-108`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lantorg.com
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[3]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 57 780 40 63 / 238100@lantorg.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：LanTorg（乌克兰）自述 **«Ваш інтернет-магазин мережевого обладнання»**（网络设备网店）；类目/搜索结果含在售 **ZYXEL GS1920-48HPv2 48口 PoE 交换机（36 829 грн）**、ZYXEL SFP 模块、TP-Link 路由器、Signal Fire SFP+/GPON 模块等 → 网络设备网店+交换机在售 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://lantorg.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-435
+  - 保留原文：LanTorg — Ваш інтернет-магазин мережевого обладнання；Каталог: **Комутатор ZYXEL GS1920-48HPv2 (GS192048HPV2-EU0101F) 36 829.00 грн**／Модуль SFP ZYXEL SFP-BX1310-E／TP-Link TD-W8961N 1 199 грн；Signal Fire SFP+ 10G WDM／SFP GPON модулі
+  - [1](https://lantorg.com/)
+  - [2](https://lantorg.com/katalog/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-436"></a>
+## A-436 · Lux-Mobil · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-109`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lux-mobil.com.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 98 152 09 27 / info@lux-mobil.com.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛1】官网核对：Lux-Mobil 为小型网络+视频监控店（MikroTik 全系在售、Hikvision 相机、Tenda 交换机、Zyxel 许可），首页在售「Комутатор TENDA TEG1008D」 → 交换机+监控(PoE)场景+小公司 → 人工定级升A。 证据：[1](https://lux-mobil.com.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-436
+  - 保留原文：LUX-MOBIL ➤ Мережеве обладнання；Вся продукція компанії Mikrotik；Комутатор TENDA TEG1008D 8port…；Hikvision HDTVI камери
+  - [1](https://lux-mobil.com.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-437"></a>
+## A-437 · Network Discount · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-111`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：networkdiscount.com.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[5]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 44 392 28 30 / sales@networkdiscount.com.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛1】官网核对：Network Discount 为网络设备专营网店（Комутатори 为第一商品组，含 Cisco 认证翻新、PON、光模块、监控、UPS 等），小店体量 → 交换机品类+网络专长+决策链短 → 人工定级升A。 证据：[1](https://networkdiscount.com.ua/ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-437
+  - 保留原文：Network Discount - интернет магазин сетевого оборудования；Групи товарів: Комутатори／Маршрутизатори／Оптичні модулі／Cisco Certified Refurbished
+  - [1](https://networkdiscount.com.ua/ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-438"></a>
+## A-438 · Setevuha · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-119`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：setevuha.com.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[6]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 44 384 02 29 / mikrotik@setevuha.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛2】官网核对：Setevuha 为网络设备+安防专营店，**「Мережеві комутатори」列在热门分类首位**并含「Аксесуари для комутаторів」、SFP、机柜、PON、监控/门禁 → 交换机一级品类+PoE/安防场景+小店决策链短 → 人工定级升A。 证据：[1](https://setevuha.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-438
+  - 保留原文：Популярні категорії：Роутери Wi-Fi та Маршрутизатори／Мережеві комутатори／Серверні шафи…；Локальне обладнання：Мережеві комутатори／SFP модулі／Аксесуари для комутаторів
+  - [1](https://setevuha.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-439"></a>
+## A-439 · Technotrade LLC · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-120`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：technotrade.com.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 57 764 02 54 / molya@technotrade.com.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛2】官网核对：ТехноТрейд 为 Wi-Fi/网络设备专营店，**Комутатори 下分 PoE（MikroTik/TP-Link/Ubiquiti）、Керовані 管理型（MikroTik/Ubiquiti）、Некеровані**，另有酒店 Wi-Fi 方案与 RouterOS → 管理型/PoE 交换机品类齐全+行业方案+小店 → 人工定级升A。 证据：[1](https://www.technotrade.com.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-439
+  - 保留原文：Комутатори：PoE（MikroTik、TP-Link、Ubiquiti）／Керовані（MikroTik、Ubiquiti）／Некеровані（TP-Link）；Готові рішення Wi-Fi：Wi-Fi для готелю
+  - [1](https://www.technotrade.com.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-440"></a>
+## A-440 · Viatec · 乌克兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-122`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：viatec.ua
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+380 44 364 77 20 / viatec@viatec.ua；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛2】官网核对：Viatec 为安防/监控分销商（Dahua、Hikvision、U-PROX、Ruijie），有「Мережеве обладнання」一级品类与 Viatec Academy 培训（含 RUIJIE 认证课）→ PoE/监控场景明确+网络品类+培训影响力 → 人工定级升A。 证据：[1](https://viatec.ua/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-440
+  - 保留原文：Viatec - Системи безпеки та камери відеоспостереження；Категорії：Мережеве обладнання／Відеонагляд／Домофони, контроль доступу；Київ. Сертифікаційне навчання RUIJIE NETWORK
+  - [1](https://viatec.ua/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-441"></a>
+## A-441 · Dipole Wireless Communication · 以色列
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-125`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：dipole.co.il
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+972 3 573 2221 / sales@dipole-ltd.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛2】官网核对：Dipole 为以色列无线通信进口商（自述 MikroTik/Ubiquiti/Compex 等官方代理，服务数百企业），在售 UniFi Switch USW-Flex-Mini、USW-Flex-2.5G-8 等管理型交换机并含 MikroTik 全系 → 交换机品类明确+进口商直客渠道 → 人工定级升A。（地理口径：grade.py 现有 OUT_OF_SCOPE 未含以色列；清单里该行保留在 B/★★★，按既有口径处理。） 证据：[1](https://www.dipole.co.il/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-441
+  - 保留原文：דיפול תקשורת אלחוטית…יבואנית רשמית של UbiquiTi Networks, MikroTik…；在售 UniFi Switch USW-Flex-Mini／USW-Flex-2.5G-8
+  - [1](https://www.dipole.co.il/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-442"></a>
+## A-442 · MTBG OOD（mikrotikbg.shop） · 保加利亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-136`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotikbg.shop
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-channel`。
+  - 公开邮箱：+359 2 45 125 25 / info@mikrotikbg.shop；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛24】官网核对：**MikroTikBG.SHOP（MTBG OOD）** 自述 **«Сертифициран MikroTik дилър · MTCSA»**、«MikroTik MTCSA партньор за страната»：「Каталогът е свързан на живо със складовата ни система」实时库存、开票含税；商品页含 **CRS504-4XQ-IN — «Суич 4×100G QSFP28»**（4×QSFP28 100G/口、双热插拔电源、无风扇），同页 Wi-Fi 6 ax／Wi-Fi 7 hAP be／Cloud Core CCR；栏目「За фирми и интегратори」提供项目报价/对公付款/短交期 → MikroTik 专营经销+交换机在售+B2B 项目报价 → 人工定级升A。 证据：[1](https://mikrotikbg.shop/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-442
+  - 保留原文：MikroTikBG.SHOP — MikroTik оборудване за България；**Сертифициран MikroTik дилър · MTCSA**；Каталогът е свързан на живо със складовата ни система — виждаш това, което реално е тук…；Официална гаранция от MTBG OOD с обработка в България. MikroTik MTCSA партньор за страната.；**CRS504-4XQ-IN — Суич 4×100G QSFP28**（4 × QSFP28 — 100G на порт；Dual hot-swap захранване；Пасивно охлаждане）；За фирми и интегратори: Фактура с ДДС…Индивидуални оферти за проекти／Кратък срок на доставка
+  - [1](https://mikrotikbg.shop/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-443"></a>
+## A-443 · Rootelsat, Ltd.（vesuviustreamline.com） · 保加利亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-141`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：vesuviustreamline.com
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[11]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+359 54 862 991 / office@vesuviustreamline.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛3】官网核对：Vesuvius Streamline（Rootelsat）为通信网络专营，**「Суичове」一级分类含 ПОЕ Суичове／Оптични Рутери и Суичове**，MikroTik 线再分「PoE/Оптични/Медни Суичове」，另有 UniFi Switches、监控、PON → 交换机品类完整（PoE/光口）+网络专营 → 人工定级升A。 证据：[1](https://vesuviustreamline.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-443
+  - 保留原文：Кабелни Мрежи：Суичове／ПОЕ Суичове／Оптични Рутери и Суичове；MikroTik→СУИЧОВЕ：PoE Суичове、ОПТИЧНИ СУИЧОВЕ、МЕДНИ СУИЧОВЕ；UniFi Switches
+  - [1](https://vesuviustreamline.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-444"></a>
+## A-444 · Frédéric Gauthier / ProRéseau · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-155`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：proreseau.net
+- 精确同名同国别首次入库提交：`f41e24a41c10c81c03d8c863726f183565b3452a`。
+- 本地原始批次：`batch/ca.json / item[10]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[12]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 418 933 1285 / fgauthier@proreseau.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛3】官网核对：ProRéseau（魁北克城）为一人公司，服务含结构化布线、**routeur ou switch 编程**、5.2GHz 83km 点对点、SIP 电话；官网直接给出负责人手机与 fgauthier@proreseau.net → 交换机实操需求+决策链最短（本人） → 人工定级升A。 证据：[1](https://www.proreseau.net/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-444
+  - 保留原文：Pro Réseau Consultation Mikrotik：Cablage structurer／Programation Routeur… experte dans le cablage structuré, liens sans-fils et la programation de routeur ou switch；Frédéric Gauthier, fgauthier@proreseau.net, 418-847-6318
+  - [1](https://www.proreseau.net/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-445"></a>
+## A-445 · JRS Global Technologies Ltd · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-159`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：jrsglcanada.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[13]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 905 805 6660 / Sales@jrsgl.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛3】官网核对：JRSGL Canada 为网络/电信硬件分销网店，在售 **MikroTik CRS 系列交换机（CRS520-4XS-16XQ、CRS518-16XS-2XQ、CRS804）**、TP-Link Omada L2+ 管理型 PoE++ 交换机 SG3428XPP-M2（8×PoE++）→ 管理型/PoE++ 交换机品类明确 → 人工定级升A。 证据：[1](https://jrsglcanada.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-445
+  - 保留原文：IT Networking & Telecom Hardware Distributor；TP-Link Omada SG3428XPP-M2 24-Port 2.5G L2+ Managed Switch with 16 PoE+ / 8 PoE++；MikroTik CRS520-4XS-16XQ-RM 100G Enterprise Switch
+  - [1](https://jrsglcanada.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-446"></a>
+## A-446 · MBSI WAV · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-160`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mbsiwav.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 866 597 6274 / sales@mbsiwav.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛3】官网核对：MBSI WAV 定位「Canada’s Top Wireless Equipment Distributor For WISP & ISP」，主推 MikroTik/Ubiquiti/Cambium/Tarana/ALTA，库存与价格公开（含 MikroTik ROSE、hAP ax3 等）→ WISP/ISP 渠道核心分销、接入层设备需求明确 → 人工定级升A。 证据：[1](https://www.mbsiwav.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-446
+  - 保留原文：Canada’s Top Wireless Equipment Distributor For WISP & ISP；在售 MikroTik RDS2216-2XG-4S+4XS-2XQ、hAP ax3；Cambium ePMP 4600；ALTA Route10
+  - [1](https://www.mbsiwav.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-447"></a>
+## A-447 · Mahkesis Group Inc. · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-161`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.mahkesis.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[15]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 204 949 4012 / admin@mahkesis.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛3】官网核对：Mahkesis Group 为 MikroTik 专营网店，**有 Switches 分类**并在售 CRS354-48P-4S+2Q+RM（48 口 PoE）、CRS518-16XS-2XQ-RM（100G）、CRS312、CRS510 → 交换机品类+PoE 型号明确、小公司 → 人工定级升A。 证据：[1](https://shop.mahkesis.com/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-447
+  - 保留原文：Switches 分类：CRS354-48P-4S+2Q+RM（48 Port POE Switch）／CRS518-16xs-2XQ-RM（100G Enterprise Switch）／CRS312-4C+8XG-RM／CRS510-8xs-2XQ-IN
+  - [1](https://shop.mahkesis.com/en/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-448"></a>
+## A-448 · Solimedia Technology Inc · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-165`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：solimedia.net
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[16]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 604 568 9797 / sales@solimedia.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Solimedia 为 MikroTik/Grandstream/Optcore 专营网店（加拿大），**Featured/在售含 MikroTik 交换机：CRS418-8P-8G-2S+5axQ2axQ-RM、CSS318-16G-2S+IN** → 交换机品类明确 → 人工定级升A。 证据：[1](https://solimedia.net/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-448
+  - 保留原文：Solimedia: The Best Deals on Mikrotik and Grandstream；在售 CRS418-8P-8G-2S+5axQ2axQ-RM、CSS318-16G-2S+IN、Optcore SFP
+  - [1](https://solimedia.net/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-449"></a>
+## A-449 · Wilmer Almazan / Arawi · 加拿大
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-167`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：arawi.ca
+- 精确同名同国别首次入库提交：`f41e24a41c10c81c03d8c863726f183565b3452a`。
+- 本地原始批次：`batch/ca.json / item[4]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[17]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：1-431-990-6625 / info@arawi.ca；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Arawi 为 MikroTik **Authorized Training Center** + 咨询（10 证全，600+ 学员，服务 ISP/企业）→ 与 R50 已升 A 的培训中心先例同口径（B-511 等）→ 人工定级升A。 证据：[1](https://www.arawi.ca/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-449
+  - 保留原文：Arawi is a MikroTik Authorized Training Center and consulting firm serving ISPs, enterprises…；All 10 official certs. Live online or in-person. MTCNA through MTCINE
+  - [1](https://www.arawi.ca/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-450"></a>
+## A-450 · AXTEK line Kft. · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-169`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：axtek.hu
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+36 1 700 42 70 / info@axtek.hu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：axtek.hu 现跳转 ietek.hu（IETEK line Kft.，同一实体）——工业 PC/自动化专营 25 年，**「Ipari hálózati eszközök」明确含 Switch-ek/routerek/gateway-ek（工业以太网/M2M）** → 工业交换机需求明确 → 人工定级升A。 证据：[1](https://ietek.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-450
+  - 保留原文：IETEK：Ipari hálózati eszközök…Switch-ek, routerek, gateway-ek, modemek…ipari Ethernet, M2M és automatizálási rendszerekhez；Több mint 25 év ipari tapasztalat
+  - [1](https://ietek.hu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-451"></a>
+## A-451 · AbsolCom Kft. · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-170`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：absolcom.hu
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[19]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+36 1 431 0116 / info@absolcom.hu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Absolcom 为仅面向经销商/集成商的批发网店，**在售 D-Link DGS-1210-10MP PoE+ Smart Switch（130W）**、MikroTik CCR、Ubiquiti、Wi-Tek 工业 IOT 箱 → 管理型 PoE 交换机+B2B 渠道 → 人工定级升A。 证据：[1](https://www.absolcom.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-451
+  - 保留原文：Absolcom webáruház：Nagykereskedelem – csak viszonteladók / integrátorok részére；Kiemelt termék: D-link 10-Port Gigabit PoE+ Smart Switch…8 x PoE+，POE budget 130W
+  - [1](https://www.absolcom.hu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-452"></a>
+## A-452 · AccessPoint Kft. · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-171`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：accesspoint.hu
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[20]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+36 1 219 5345 / info@accesspoint.hu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：AccessPoint 为 B2B 批发/官方分销（安装商与系统集成商渠道），**明列 switch / POE switch / industrial switch（OT 组网）**，代理 Ubiquiti、MikroTik（含 Cloud Router Switch CRS、SwitchOS）、Cambium cnMatrix、Teltonika TSW、Belden Hirschmann、TP-Link Omada → 交换机全品类+工业/PoE+渠道 → 人工定级升A。 证据：[1](https://accesspoint.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-452
+  - 保留原文：B2B wholesale — for installers and system integrators；Wired Networking: switch, router, POE switch…；OT Networking: industrial switch…；MikroTik: SwitchOS, Cloud Router Switch (CRS)
+  - [1](https://accesspoint.hu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-453"></a>
+## A-453 · Controsys Control Engineering Ltd. · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-174`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：controsys.hu
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[21]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：controsys@controsys.hu（官网 kapcsolat 正文）；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Controsys 为工业自动化/过程控制分销商，**代理 HMS Networks 旗下 Red Lion / N-Tron / SIXNET 工业交换机（Layer 3、管理型冗余、PoE、IP67 甚至军工级）**，另有 AVEVA/Softing/MB Connect → 工业交换机品类明确+工业客户渠道 → 人工定级升A。（注：其代理线为竞品品牌，仅作渠道定位证据；本轮不发送任何邮件。） 证据：[1](https://controsys.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-453
+  - 保留原文：HMS (Red Lion és N-Tron) Disztribúció：Ipari switchek Layer 3 hálózatokhoz…menedzselt redundáns vagy nem menedzselt eszközöket…PoE (Power over Ethernet) megoldások
+  - [1](https://controsys.hu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-454"></a>
+## A-454 · Wireless-Bolt · 匈牙利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-178`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wireless-bolt.hu
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[22]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+36 20 927 2662 / info@wireless-bolt.hu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Wireless-Bolt 为无线/网络专营网店，**MikroTik▸Switches 分类、Ubiquiti UniFi—Switching、UISP Wired Switching、TP-Link Omada Switch（L3/L2 Managed、PoE、Smart、Unmanaged）**，并有 OKTATÁS 培训 → 交换机全品类+培训影响力 → 人工定级升A。 证据：[1](https://wireless-bolt.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-454
+  - 保留原文：MikroTik：Switches／SFP/QSFP；Ubiquiti：UniFi - Switching、UISP - Wired - UISP Switching；TP-Link：Omada - Switch - L3/L2 Managed、PoE、Smart、Unmanaged；OKTATÁS
+  - [1](https://wireless-bolt.hu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-455"></a>
+## A-455 · ALL4NET DOOEL · 北马其顿
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-179`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：toten.com.mk
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[23]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+389 2 321 77 99 / dejan.dudeski@overnet.com.mk；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛26·重试复核】域名核对：toten.com.mk 现跳转至 ALL4NET DOOEL（北马其顿，info@all4net.com.mk，+389 2 3217 799）自述 «One place stop for networking»；Active Equipment 下 **Mikrotik** 含 **Switches** 子类目（另有 Wireless SOHO／Ethernet／Wifi outdoor／Accessories／Antennas／IoT／LTE），并代理 Ubiquiti UniFi/AirFiber/AirMax/EdgeMax、**Planet（含 Switch 子类目）**、Grandstream（含 Switch）、Cisco、Synology、Teltonika、Cambium；被动/光纤/机柜/工具全系 → MikroTik 交换机专营网店 → 人工定级升A。 证据：[1](https://toten.com.mk/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-455
+  - 保留原文：ALL4NET – One place stop for networking；Product category → **Active Equipment → Mikrotik → Switches**（另 Ethernet／Wireless SOHO／Wifi outdoor／Accessories／Antennas／IoT／LTE）；**Planet (other) → Switch**；**Grandstream → Switch**；Ubiquiti UniFi/Airfiber/Airmax/Edgemax；Cisco／Synology／Teltonika／Cambium；Contact: +38923217799 / info@all4net.com.mk
+  - [1](https://toten.com.mk/)
+  - [2](https://all4net.mk/product-category/active-equipment/mikrotik/switches/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-456"></a>
+## A-456 · Treco · 北马其顿
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-181`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：treco.mk
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[24]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+389 70 411 415 / info@treco.mk；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛4】官网核对：Treco（北马其顿）为监控+网络设备商，**Cudy мрежна опрема 含 Switches 分类**、MikroTik 路由、IP 摄像机/NVR 全套 → 交换机品类+监控(PoE)场景+小公司 → 人工定级升A。 证据：[1](https://treco.mk/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-456
+  - 保留原文：Cudy мрежна опрема：Wi-Fi Рутери／Range Extenders／Switches；MikroTik рутери；IP камери/NVR/PTZ 全线
+  - [1](https://treco.mk/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-457"></a>
+## A-457 · C TECH BILISIM（enucuzmikrotik.com） · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-183`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：bilisimyol.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[25]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 850 480 44 74 / info@enucuzmikrotik.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：Bilişimyol（土耳其）自述 **«Her Kurum İçin Ağ Ekipmanları»**（面向各类机构的网络设备）；导航含 V-Sol／**Mikrotik（Kablosuz Sistem／Ethernet Yönlendiriciler／Cloud Router Switch Series／Metal, Basebox／Sfp／RouterBoard／Aksesuarlar）**／Mimosa Network／Ubiquiti／YaşaLink／DeltaLink／Kablolama Ürünleri／Home Router／IoT，在售 NetBox 5 ax、CCR2004-1G-2XS-PCIe、CCR2116-12G-4S+、RB5009UG+S+IN（TL 含税价） → MikroTik 交换机系列专营网店 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://www.bilisimyol.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-457
+  - 保留原文：Bilişimyol-Her Kurum İçin Ağ Ekipmanları；Menü: V-Sol／**Mikrotik**（Kablosuz Sistem／Ethernet Yönlendiriciler／**Cloud Router Switch Series**／Metal, Basebox／Sfp／RouterBoard／Aksesuarlar）／Mimosa Network／Ubiquiti Ürünleri／YaşaLink／DeltaLink／Kablolama Ürünleri／Home Router／IoT；Fırsat Ürünleri: NetBox 5 ax ₺4.819,20／CCR2004-1G-2XS-PCIe ₺9.688,60／CCR2116-12G-4S+ ₺44.427,00／RB5009UG+S+IN
+  - [1](https://www.bilisimyol.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-458"></a>
+## A-458 · COOLTECH TRADING · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-184`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：cooltechtrading.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[26]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 542 883 1111 / info@cooltechtrading.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛26·重试复核】官网核对：COOLTECH TRADING（土耳其，土耳其，自述 «Bilişim Sektöründeki İş Ortağınız»）MikroTik 专页列出在售清单（含 16% VAT）并注明 «You can pre-order all the other products found in Mikrotik's website through us»；在售含 **RB260GS 5x Gigabit Smart Switch（SFP、SwOS）39.95 USD**、RB750、RB2011iL-IN、RB951Ui-2HnD、OmniTIK、SXT Lite5、CCR1016-12G、CCR1036-12G-4S、S-RJ01、S-31DLC20D（SFP 模块）；另代 Cambium Networks，并有 fiyat listesi 渠道价目表 → MikroTik 转售含交换机在售 → 人工定级升A。 证据：[1](https://www.cooltechtrading.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-458
+  - 保留原文：COOLTECH TRADING — «Bilişim Sektöründeki İş Ortağınız»；Mikrotik Products: „The following products are the ones that are in stock. You can pre-order all the other products found in Mikrotik's website through us.“；**RB260GS 5x Gigabit Ethernet Smart Switch, SFP cage, plastic case, SwOS — $39.95**／RB750 $39.95／RB2011iL-IN $99／CCR1016-12G $645／CCR1036-12G-4S $995／S-RJ01 SFP $29／S-31DLC20D $29；Cambium Networks
+  - [1](https://www.cooltechtrading.com/)
+  - [2](https://www.cooltechtrading.com/mikrotik.aspx)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-459"></a>
+## A-459 · Internetten Ltd.（wi.com.tr） · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-185`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wi.com.tr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[27]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 262 644 66 63 / satis@wi.com.tr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Wi / WINET 为 MikroTik Authorized Distributor（fiber optik/telekom专营），**在售 Ruijie Reyee RG-ES206GS-P 千兆 PoE+ 交换机**、SFP 模块、GPON、B2B 经销商计划 → 交换机品类+网络专营+渠道 → 人工定级升A。 证据：[1](https://www.wi.com.tr/en)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-459
+  - 保留原文：Network, Fiber Optic and Telecom Equipment；MikroTik Authorized Distributor；New Arrivals: Ruijie Reyee RG-ES206GS-P 6 Port Gigabit PoE+ Switch；B2B Reseller Benefits
+  - [1](https://www.wi.com.tr/en)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-460"></a>
+## A-460 · NODENET GLOBAL · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-187`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：nodenetglobal.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[28]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 533 391 2232 / sales@nodenetglobal.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Nodenet Global 发布公告 **「Nodenet Global, MikroTik Türkiye Distribütörü Oldu!」（成为 MikroTik 土耳其区分销商）**，主营业务为网络管理/网络安全/云（10+ 年），有自有在线商店 → 网络专营+MikroTik 分销 → 人工定级升A。 证据：[1](https://nodenetglobal.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-460
+  - 保留原文：Nodenet Global, MikroTik Türkiye Distribütörü Oldu!；Ağ yönetimi, siber güvenlik ve bulut çözümlerinde uzman；Onlıne Mağaza
+  - [1](https://nodenetglobal.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-461"></a>
+## A-461 · Net Vizyon（4mimo.com） · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-188`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：4mimo.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[29]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 212 354 90 00 / satis@netvizyon.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：4mimo.com 现指向 Net Vizyon 网店（shop.netvizyon.net，同集团），**在售 Ubiquiti UniFi PoE 交换机全系（Switch 16/24/48 PoE、Enterprise 8 PoE、XG 6 PoE、USW-Pro-24-PoE）**，代理 Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy → 交换机品类+无线网络专营 → 人工定级升A。 证据：[1](https://4mimo.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-461
+  - 保留原文：Kablosuz Ağ Sistemleri – Net Vizyon；Markalar: Jirous, Mimosa, Ruijie, Siklu, Ubiquiti, Cudy；En Çok Satanlar: Switch 16 PoE／Switch 24 PoE／Switch 48 PoE／Switch Enterprise 8 PoE／Switch XG 6 PoE
+  - [1](https://4mimo.com/)
+  - [2](https://shop.netvizyon.net/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-462"></a>
+## A-462 · Nokta Elektronik · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-189`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：noktaelektronik.net
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[30]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 212 222 87 80 / nokta@noktaelektronik.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Nokta Elektronik 定位「Güvenlik ve Network Distribütörü」，**有 Aktif Network Ürünleri 分类（Dahua 交换机、Uptech ethernet switch）**，首页主推 Planet GS-5220 L3 24口 802.3bt PoE + 4×10G SFP+ 管理型交换机，另设 B2B 批发平台 → 交换机品类明确+分销+PoE → 人工定级升A。 证据：[1](https://www.noktaelektronik.net/tr)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-462
+  - 保留原文：Nokta Elektronik — Güvenlik ve Network Distribütörü；Aktif Network Ürünleri（dahua ethernet switch, uptech ethernet switch）；Planet GS-5220-24UP4X L3 24-Port 802.3bt PoE + 4-Port 10G SFP+ Managed Switch；Nokta B2B
+  - [1](https://www.noktaelektronik.net/tr)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-463"></a>
+## A-463 · Poyraz Network · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-190`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：poyraznetwork.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[31]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 850 346 93 63 / sales@poyraznetwork.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Poyraz Network 为 **MikroTik Master Distributor**（另 Ubiquiti Authorized Distributor、Mimosa/Cudy/V-Sol 等），导航含 **Switches** 与 **Training Programs** 分类，5000+ 产品、B2B 经销商价（10 年经验）→ 交换机品类+网通分销+培训 → 人工定级升A。 证据：[1](https://poyraznetwork.com/us)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-463
+  - 保留原文：Mikrotik — Master Distributor…professional routers, switches, and wireless systems；All Categories: Routers／Switches／Wireless Products／Training Programs；B2B Partner Program
+  - [1](https://poyraznetwork.com/us)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-464"></a>
+## A-464 · Sekuritim Bilisim · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-191`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sekuritim.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[32]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 216 302 22 21 / info@sekuritim.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Sekuritim 自述 **MikroTik Türkiye Master Distributor + MikroTik Certified Training Center**（2015 起），开设 MTCNA/MTCRE/MTCINE/MTCUME/MTCTCE/MTCWE/MTCIPv6E 全系课程，有独立网店 shop.sekuritim.com 与 24/7 认证支持 → 网络专营+交换机产品线+培训中心 → 人工定级升A。 证据：[1](https://sekuritim.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-464
+  - 保留原文：Sekuritim Bilişim - MikroTik Türkiye Master Distributor - MikroTik Certified Training Center；MTCNA, MTCRE, MTCINE, MTCUME, MTCTCE, MTCWE, MTCIPv6E；Online Satış shop.sekuritim.com
+  - [1](https://sekuritim.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-465"></a>
+## A-465 · Sis Bil tek（wifianten.com） · 土耳其
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-192`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifianten.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[33]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+90 850 277 5959 / bilgi@wifianten.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：wifianten.com 自述 **Türkiye Mikrotik Master Distributor & Yetkili Satıcı**，在售 **MikroTik CRS326-24S+2Q+RM（24×SFP+ 2×QSFP 骨干交换机）** 与 UBNT USW-Pro-Aggregation 交换机，另代理 UBNT/RF-Elements → 交换机型号明确+网络专营 → 人工定级升A。 证据：[1](https://wifianten.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-465
+  - 保留原文：Mikrotik ürünleri Türkiye Master Distribütör ve yetkili satıcı；MikroTik CRS326-24S+2Q+RM 24 Port SFP+ 2QSFP Omurga Switch；UBNT USW-Pro-Aggregation-EU 28 Adet SFP+ Fiber Omurga Switch
+  - [1](https://wifianten.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-466"></a>
+## A-466 · 3NET · 塞尔维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-193`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：3net.rs
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[34]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+381 65 678 2201 / contact@3net.rs；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛26·重试复核】官网核对：3NET（塞尔维亚，塞尔维亚，自述 «One place stop for Networking»）Aktivna oprema → **MikroTik → Svičevi（交换机）** 类目在售，站内检索 CRS 得 10+ 型号：**CRS310-8G+2S+IN（Layer 3，8×2.5G + 2×10G SFP+）、CRS305-1G-4S+IN、CRS328-4C-20S-4S+RM、CRS112-8P-4S-IN（PoE 供电）、CRS112-8G-4S-IN、CRS326-24G-2S+RM、CRS328-24P-4S+RM（PoE）、CRS125-24G-1S-2HnD-IN、CRS106-1C-5S、CRS310-1G-5S-4S+IN**；另售 Ubiquiti UniFi、SFP/DAC、光缆/铜缆/机柜 → MikroTik 交换机专营网店 → 人工定级升A。 证据：[1](https://3net.rs/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-466
+  - 保留原文：3NET – One place stop for Networking；Product-category → **Aktivna oprema → MikroTik → Svičevi（Switches）**；Search «CRS»：**CRS310-8G+2S+IN（„pametni prekidač Layer 3, sa 8 x 2.5G Ethernet portova, 2 x 10G SFP+ porta“）**／**CRS112-8P-4S-IN（„8x gigabitni PoE prekidač…802.3af/at PoE/PoE+ i pasivno“）**／**CRS326-24G-2S+RM**／**CRS328-24P-4S+RM**／CRS305-1G-4S+IN／CRS328-4C-20S-4S+RM／CRS112-8G-4S-IN／CRS125-24G-1S-2HnD-IN／CRS106-1C-5S／CRS310-1G-5S-4S+IN
+  - [1](https://3net.rs/)
+  - [2](https://3net.rs/?s=CRS)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-467"></a>
+## A-467 · Pixel Network LLC · 塞尔维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-196`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：pixelnetwork.rs
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[35]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+381 21 271 85 04 / office@pixelnetwork.rs；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛5】官网核对：Pixel Network（塞尔维亚）为监控/报警/对讲+网络设备商，**Top ponuda 全为交换机：MikroTik CRS320-8P-8B-4S+RM、CRS326-4C+20G+2Q+RM、CRS354-48P-4S+2Q+RM(48口PoE)、CSS610-8P-2S+IN、CRS112-8P-4S-IN、CRS106-1C-5S，以及 Ubiquiti USW-FLEX-MINI** → 交换机品类+PoE+小公司 → 人工定级升A。 证据：[1](https://pixelnetwork.rs/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-467
+  - 保留原文：Top ponuda：MikroTik CRS320-8P-8B-4S+RM／CRS304-4XG-IN／CRS326-4C+20G+2Q+RM／CSS610-8P-2S+IN／CRS112-8P-4S-IN／CRS354-48P-4S+2Q+RM；Ubiquiti USW-FLEX-MINI-EU
+  - [1](https://pixelnetwork.rs/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-468"></a>
+## A-468 · QEDV IT-Lösungen（Raum4 GmbH） · 奥地利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-204`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.qedv.at
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[36]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+43 676 852 996 701 / office@qedv.at；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛6】官网核对：QEDV（Tirol）IT 网店出售 **«Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos»（24口无风扇 SFP+ 交换机）与 24-Port PoE 交换机**，另售 MikroTik 路由器/AP 与 PoE 注入器 → 交换机型号明确+PoE → 人工定级升A。 证据：[1](https://shop.qedv.at/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-468
+  - 保留原文：Beliebte Artikel：Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos（224,17 €）／Mikrotik 24-Port PoE Switch mit 4x SFP（191,67 €）；Portabler aktiver PoE Injector
+  - [1](https://shop.qedv.at/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-469"></a>
+## A-469 · TRIOTRONIK · 奥地利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-205`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：triotronik.com
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[37]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+43 3172 42299 0 / mikrotik@triotronik.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：TRIOTRONIK（奥地利）自述 **«der Netzwerkdistributor»**，25 年、三大业务（Distribution／Academy／Technologies）；品牌/产品线含 **MikroTik（官方页：Routing-, Switching- und Wireless-Geräte；且 TRIOTRONIK ist zertifizierter Trainingspartner）**、Ubiquiti、Teltonika、TP-Link/Reyee、**PLANET**、**Moxa**、**Extreme Networks**、RF elements、自有品牌 Lightwin/Wirewin（DAC/AOC、SLIM 跳线、机柜）；另设 Glasfaser/FTTx 与 Wireless（室外/室内 WLAN、许可微波）类目 → 网络分销商含交换机产品线（MikroTik/PLANET/Moxa/Extreme 均为交换机厂商） → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://www.triotronik.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-469
+  - 保留原文：TRIOTRONIK - der Netzwerkdistributor；Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution／TRIOTRONIK Academy／TRIOTRONIK Technologies；Hersteller: Wirewin／Lightwin／Slim Patchkabel／Jetting／Jonard Tools／Hikvision／**Ubiquiti**／**MikroTik**／Teltonika／TP-Link／Avigilon／Pelco／**PLANET**／**Moxa**／RF elements／SIAE／PATCHBOX／**Extreme Networks**；MikroTik: „MikroTik bietet Routing-, Switching- und Wireless-Geräte…“／„TRIOTRONIK ist auch ein zertifizierter Trainingspartner und bietet regelmäßig MikroTik Schulungen an.“
+  - [1](https://www.triotronik.com/)
+  - [2](https://www.triotronik.com/mikrotik)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-470"></a>
+## A-470 · evoNET · 奥地利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-206`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：evonet.at
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[38]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+43 5442 64381 / info@evonet.at；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛6】官网核对：evoNET GmbH（Tirol 三地，约 10 人小公司）主营中小企业/酒店网络与 Guest-WLAN，**合作伙伴含 MikroTik 与 UniFi**，团队页公开 9 人邮箱（dr@/tj@/msc@evonet.at…），客户名单含多家酒店/缆车公司 → 网络专营+小型团队+直连邮箱 → 人工定级升A。 证据：[1](https://www.evonet.at/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-470
+  - 保留原文：IT-Support & Netzwerke im Tiroler Oberland；Netzwerke & Gast-WLAN - für Hotels, Gastronomie und Betriebe；Partner: terra, eset, acronis, … mikrotik.svg, unifi.svg；Geschäftsführung: Ing. Daniel Reinstadler (dr@evonet.at), Ing. Thomas Jordan (tj@evonet.at)
+  - [1](https://www.evonet.at/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-471"></a>
+## A-471 · Automation Experts · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-209`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：automationexperts.gr
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[39]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 210 28 15 988 / info@automationexperts.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛6】官网核对：Automation Experts 为工业自动化代理（希腊+塞浦路斯），**官方代理 Antaira（Industrial EtherNet Switches、PoE Solutions、Media Converters，2026-01 新签约）、Lantech（EN50155 车载/轨交工业以太网交换机，官网直接列 Switches 链接）、Red Lion/N-Tron、HMS/Anybus** → 工业交换机品类完整+PoE+两家网点+直邮箱 → 人工定级升A。 证据：[1](https://www.automationexperts.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-471
+  - 保留原文：Επίσημη αντιπροσωπεία των … Antaira … Lantech … Red Lion, N-Tron …；LANTECH Industrial Ethernet／Switches：Δικτύωση Industrial Ethernet με πιστοποίηση EN50155；Ιανουάριος 2026 - Νέα συνεργασία με την Antaira (Industrial EtherNet Switches, PoE Solutions, Media Converters)
+  - [1](https://www.automationexperts.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-472"></a>
+## A-472 · CABLEWORKS · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-210`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：cableworks.gr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[40]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 211 850 2484 / info@cableworks.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛6】官网核对：Cableworks（希腊）为有线/无线网络专营网店，**MikroTik 分类含 CSS Series 与 CRS Series（交换机专类）、Teltonika→Switches、TP-Link→Switches、Ubiquiti UniFi/UISP 生态**，另有光纤/结构化布线/PoE 适配器 → 交换机品类完整+网络专营 → 人工定级升A。 证据：[1](https://www.cableworks.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-472
+  - 保留原文：Cableworks | Wired & Wireless Networking, Fiber Optics, Ubiquiti, Mikrotik, TP-Link；MikroTik: CSS Series／CRS Series／CCR Series；Teltonika: Switches；TP-Link: Switches；Ubiquiti: UniFi Ecosystem／UISP Ecosystem
+  - [1](https://www.cableworks.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-473"></a>
+## A-473 · E-WIRELESS · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-212`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：e-wireless.gr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[41]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 211 850 2484 / info@e-wireless.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛7】官网核对：e-Wireless（希腊，与 Cableworks 同集团/同电话）为有线无线网络专营网店，**MikroTik→CSS Series、CRS Series、CCR Series 专类**，Teltonika→Switches，TP-Link→Switches，Ubiquiti UniFi/UISP → 交换机品类完整+网络专营 → 人工定级升A。 证据：[1](https://www.e-wireless.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-473
+  - 保留原文：e-Wireless | Wired & Wireless Networking, Fiber Optics, Ubiquiti, Mikrotik, TP-Link；MikroTik: CSS Series／CRS Series；Teltonika: Switches；TP-Link: Switches；Δικτυακά: Routers, switches, Οπτική Ίνα, Access Points
+  - [1](https://www.e-wireless.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-474"></a>
+## A-474 · Hellas Digital · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-217`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：hellasdigital.gr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[42]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 210 96 111 69 / info@hellasdigital.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛6/7】官网核对：Hellas Digital（雅典 Glyfada）在线商店 **Networking→Switch 独立分类**，另有 TP-Link Omada、PoE Peripherals、Mimosa Networks、结构化布线、防火墙 → 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://www.hellasdigital.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-474
+  - 保留原文：Networking：Tp-Link Omada／Wireless／Router／**Switch**／4G-5G LTE／Structured Hardware／Fiber Optics／PoE Peripherals／Firewall／Mimosa Networks
+  - [1](https://www.hellasdigital.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-475"></a>
+## A-475 · XPATIT S.A. · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-227`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：xpatit.gr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[43]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 211 800 0313 / info@xpatit.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛7】官网核对：Xpatit 为无线/网络专营网店（MIKROTIK/UBIQUITI/TP-LINK/TELTONIKA/RUCKUS/RF-ELEMENTS），**Switch 分类含 Managed：MikroTik CRS328-24P-4S+RM（24口PoE+4×SFP+）、CRS326、Teltonika SWM281、Grandstream GWN7811 L3 管理型**，B2B 伙伴计划（30 天账期）→ 交换机品类完整+PoE+渠道 → 人工定级升A。 证据：[1](https://www.xpatit.gr/el)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-475
+  - 保留原文：Switch—Managed：MikroTik CRS328-24P-4S+RM 24xGLAN 4xSFP+／CRS326-24G-2S+IN／Teltonika SWM281 Gigabit Managed Switch／Grandstream GWN7811 Enterprise Layer 3 Managed Network Switch；Β2Β συνεργασία με ανοικτή πίστωση έως 30 ημέρες
+  - [1](https://www.xpatit.gr/el)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-476"></a>
+## A-476 · wirelesslan.gr - Teledata e.e. · 希腊
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-228`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wirelesslan.gr
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[44]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+30 2310 510030 / info@wirelesslan.gr；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛7】官网核对：Wirelesslan（塞萨洛尼基）为无线/网络网店，**Featured/Best Seller 含 TP-LINK TL-SG3210 JetStream L2 管理型交换机（2×SFP）与 Ubiquiti USW-Ultra UniFi 交换机（7×PoE+，52W）**，另有 UniFi U7 Pro Max 等 → 交换机品类+PoE → 人工定级升A。 证据：[1](https://wirelesslan.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-476
+  - 保留原文：TP-LINK TL-SG3210 JetStream V3 8-Port Gigabit L2 Managed Switch with 2 SFP Slots（€125）；Ubiquiti USW-Ultra, UniFi Switch, 8xGigabit, 7xPoE+, 1xPoE++ IN, 52W（€127）
+  - [1](https://wirelesslan.gr/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-477"></a>
+## A-477 · 4Networks IT-Distribution（OMG.de） · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-229`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：omg.de
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[45]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 421 2440190 / info@4networks.de；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛7】官网核对：OMG.DE 为 WLAN/定向无线/智能家居专业零售商，**MikroTik 品牌专区含 Cloud Router Switches（在售 CRS520-4XS-16XQ-RM，Lagerware 现货）**，另有 Ubiquiti UniFi/Teltonika/Cambium，设 Enterprise 伙伴与安装商优惠计划 → 交换机品类+渠道 → 人工定级升A。 证据：[1](https://www.omg.de/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-477
+  - 保留原文：OMG.DE - WLAN, Richtfunk & Smart Home vom Fachhändler；MikroTik: Cloud Router Switch CRS520-4XS-16XQ-RM（1.741,49 €，Lagerware sofort verfügbar）／CCR2216-1G-12XS-2XQ；Ubiquiti Enterprise Partner-Aktion
+  - [1](https://www.omg.de/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-478"></a>
+## A-478 · ATEG Automation GmbH · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-231`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ateg.de
+- 精确同名同国别首次入库提交：`eedf4ded27ead2166ef47f987a1eb676f2dce563`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[46]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@ateg.de（销售 vertrieb@ / 支持 support@ 同页）；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛8】官网核对：ATEG Automation GmbH（Remscheid/工业自动化与工业通信专营）设「Industrielle Netzwerktechnik」板块，**直接销售 Red Lion 工业管理型以太网交换机（Industrielle Managed Ethernet Switches）**，另有工业路由器/Teleservice、HMS Networks 战略合作伙伴（2026-03）→ 工业交换机品类明确+工业客户渠道 → 人工定级升A。 证据：[1](https://www.ateg.de/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-478
+  - 保留原文：ATEG Automation GmbH – Ihr Partner für Systeme und Komponenten…；Industrielle Netzwerktechnik（Bild: Red Lion Industrial Managed Ethernet Switches）；ATEG Automation wird Strategic Partner von HMS Networks（04.03.2026）
+  - [1](https://www.ateg.de/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-479"></a>
+## A-479 · FMS Internetservice（mikrotik-shop.de） · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-233`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotik-shop.de
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[47]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 761 2926500 / sales@fmsweb.de；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛8】官网核对：mikrotik-shop.de 为 FMS Internetservice GmbH 的 MikroTik 专营网店，**产品导航含「Switche」独立分类**，首页在售 MikroTik CRS520-4XS-16XQ-RM / CRS320-8P-8B-4S-RM 交换机，面向 ISP/企业/热点运营商 → 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://www.mikrotik-shop.de/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-479
+  - 保留原文：Willkommen im Onlineshop der FMS Internetservice GmbH…RouterBOARD und RouterOS Produkte von MikroTik…；Produkte：Switche／Netzwerk／Richtfunk；MikroTik CRS320-8P-8B-4S-RM kaufen
+  - [1](https://www.mikrotik-shop.de/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-480"></a>
+## A-480 · Fiber24 · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-234`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：shop.fiber24.net
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[48]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：shop@fiber24.net（Shop 正文）；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：ShopFiber24（德国，shop@fiber24.net，德国发货）自述面向网络运营/电工/光纤施工者的光通信专业网店；类目明列 **«Netzwerkgeräte — Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches»** 与 **«Hutschienen-Equipment — Hutschienen-Geräte, wie Hutschienen-Switche, Hutschienen-Konverter und Hutschienen-Spleißboxen»**，另有 Transceivermodule（100M–400G，含 400G QSFP-DD）、LWL 跳线/配线、FTTx、MTP/MPO、光测量仪器 → 光纤网络专营含交换机品类 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://shop.fiber24.net/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-480
+  - 保留原文：Glasfaserkabel online kaufen beim Experten | ShopFiber24；Unsere Kategorien: **Netzwerkgeräte（„Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches, die die Funktionalität Ihres Glasfasernetzwerkes erweitern“）**／**Hutschienen-Equipment（„Hutschienen-Geräte, wie Hutschienen-Switche, Hutschienen-Konverter und Hutschienen-Spleißboxen“）**／Transceivermodule（QSFP/SFP, 100M–400G）／LWL-Patchkabel／FTTx／MTP-MPO／Optische Multiplexer；„Mo-Fr vor 16 Uhr online bestellt - Versand noch heute aus DE!“
+  - [1](https://shop.fiber24.net/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-481"></a>
+## A-481 · I-NetPartner GmbH（mikrotik-store.eu） · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-235`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotik-store.eu
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[49]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 7161 98499-55 / sales@mikrotik-store.eu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛8】官网核对：mikrotik-store.eu 为 I-Netpartner GmbH 网店，自述 **「Offizieller MikroTik Master Distributor seit 2008」**（面向 WISP/无线运营商/系统集成商），在售 **CRS418-8P-8G-2S+5axQ2axQ-RM、CRS812-8DS-2DQ-2DDQ-RM（400G 交换机）、CSS606-1G-2Gi-3S+OUT 交换机**，设 B2B 经销账期流程，公开 sales@/support@ 邮箱 → 交换机型号明确+官方总代 → 人工定级升A。 证据：[1](https://www.mikrotik-store.eu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-481
+  - 保留原文：Offizieller MikroTik Master Distributor seit 2008；MikroTik CRS812-8DS-2DQ-2DDQ-RM - 400G Switch；MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM；MikroTik CSS606-1G-2Gi-3S+OUT；Rechnungskauf B2B: Wiederverkäufer/Reseller；sales@mikrotik-store.eu
+  - [1](https://www.mikrotik-store.eu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-482"></a>
+## A-482 · Industrial Personal Computer 2U GmbH (IPC2U) · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-236`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ipc2u.com
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[50]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 511 807 259-0 / sales@ipc2u.de；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：IPC2U（德国）为工业自动化设备分销/集成商（NEXCOM／ICP DAS／Compulab／SolidRun 等品牌），目录中 **«Industrial Communications»** 大类下设 **«Industrial Ethernet Switches»**（/catalog/industrial-communication/ethernet-switch/），并有 Industrial Wireless Solutions、Serial Device Servers、Converters and Repeaters、Media Converters、Protocol Gateways；整机类为 Industrial Computers／Edge AI／Robotic（明码标价，如 iNNOKERN、AVD24WP 627 €） → 工业网络含交换机品类 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://ipc2u.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-482
+  - 保留原文：IPC2U Worldwide | Professional solutions for Industrial Automation；Product catalog → **Industrial Communications**：**Industrial Ethernet Switches**／Industrial Wireless Solutions／Serial Device Servers／Converters and Repeaters／Media Converters／Protocol Gateways；Industrial Computers（19" Rackmount／Embedded Edge PC／Panel PC／Rugged）／Industrial Motherboards／Edge AI Computing Platform；Brands: NEXCOM／ICP DAS／Compulab／SolidRun／Enbik
+  - [1](https://ipc2u.com/)
+  - [2](https://ipc2u.com/catalog/?q=switch)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-483"></a>
+## A-483 · NSR One GmbH（nsr-tik.com） · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-238`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：nsr-tik.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[51]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 157 33975258 / info@nsr-sy.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛8】官网核对：NSR（保护系统与通信）自述 **「Ihr offizieller Vertriebspartner für MikroTik-Produkte」**，明确「Wir bieten **Router, Switches** und Wireless-Lösungen für Unternehmen, IT-Dienstleister und Privatkunden」，并提供**批发价/经销商**支持（Großhandelsangebote für Firmen und Wiederverkäufer）→ 交换机品类+官方经销+批发渠道 → 人工定级升A。 证据：[1](https://nsr-tik.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-483
+  - 保留原文：NSR for Protection Systems and Communications；Professionelle MikroTik Netzwerk-und Kommunikationslösungen；Wir bieten Router, Switches und Wireless-Lösungen…；Autorisierter Vertriebspartner；Großhandelsangebote für Firmen und Wiederverkäufer
+  - [1](https://nsr-tik.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-484"></a>
+## A-484 · Neunetia GmbH · 德国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-239`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：neunetia.de
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[52]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+49 221 66961118 / sales@neunetia.de；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛8】官网核对：Neunetia（网络技术网店）**Hot Categories 首位即「Switches」专类**，在售 MikroTik 配件、Cisco C1000-24FP-4G-L、**Cisco Catalyst C1200-48P-4X 48口 PoE+ 交换机（4×10G SFP+）、C1200-24FP-4G PoE+**、Fortinet 防火墙、HPE Aruba AP → 交换机品类+PoE → 人工定级升A。 证据：[1](https://neunetia.de/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-484
+  - 保留原文：Netzwerktechnik kaufen: Router, Switches & Firewalls | Neunetia；Hot Categories: Switches／Router／Security／Wireless；Cisco Catalyst C1200-48P-4X 48-Port PoE+ Switch – 4x 10G SFP+；Cisco C1000-24FP-4G-L Switch
+  - [1](https://neunetia.de/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-485"></a>
+## A-485 · C1V Hosting · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-248`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：c1vhosting.it
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[53]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+39 324 6939 048 / mikrotik@c1vhosting.it；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：C1V Hosting（意大利，自营 AS212271/罗马 Pomezia 数据中心）自述 **«Distributore ufficiale MikroTik in Italia»**，商城「Prodotti e Licenze MikroTik」明列在售 **两款 SOHO 交换机（5 口千兆＋SFP＋web 管理；5 口千兆＋被动 PoE）**、RouterOS L4/L5/L6 许可、RB5009UG+S+IN、RB1100AHx4(Dude)、5G/LTE 室外单元、天线配件；另有 Ubiquiti 产品线与 VPS/主机业务 → 官方 MikroTik 分销+交换机在售 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://www.c1vhosting.it/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-485
+  - 保留原文：C1V hosting — Home；**RouterOS CHR VPS**：„Cloud Hosted Router pronto in meno di un minuto… **Distributore ufficiale MikroTik in Italia**“；「Apparati e licenze MikroTik — **distributore ufficiale**」：**„Switch SOHO compatto con 5 porte Gigabit Ethernet e interfaccia web“（五口千兆交换机，SFP×1，浏览器管理，PoE-in）**／**„Switch SOHO compatto con 5 porte Gigabit e funzionalità PoE passive“**／Licenza ufficiale MikroTik RouterOS livello L4/L5/L6／Router RB5009UG+S+IN／RB1100AHx4
+  - [1](https://www.c1vhosting.it/)
+  - [2](https://www.c1vhosting.it/store/mikrotik)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-486"></a>
+## A-486 · CorsiMikrotik（意大利 MikroTik 培训） · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-250`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：corsimikrotik.it
+- 精确同名同国别首次入库提交：`dd51b0a8336fdfb155b39322906d21c2578c974e`。
+- 本地原始批次：`batch/it.json / item[9]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[54]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+39 045 485 4174 / marco@corsimikrotik.it；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛9】官网核对：Corsi MikroTik 自述「意大利首个专注 MikroTik/RouterOS 的在线培训门户」，官网排课 **MTCSWE（Switching, Bridging, Layer2, VLAN）** 及 MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE 全系 MikroTik 官方认证课程，并免费提供含 GNS3 实验环境的 Corsi MikroTik VM → 与 R50 已升 A 的 MikroTik 培训中心同口径 → 人工定级升A。 证据：[1](https://corsimikrotik.it/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-486
+  - 保留原文：Corsi MikroTik è il primo portale italiano di formazione online dedicato esclusivamente al mondo MikroTik e RouterOS；MTCSWE — Switching, Bridging, Layer2, multicast, VLAN；MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE/MTCIPv6E/MTCUWE 全系开课
+  - [1](https://corsimikrotik.it/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-487"></a>
+## A-487 · MARCOM S.r.l. · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-259`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.marcomweb.it
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[55]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+39 045 8204747 / nfo@marcomweb.it；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：MARCOM S.r.l.（意大利 维琴察，info@marcomweb.it，+39 045 8204747）自述 **«Complete Hardware and Software Solutions for Digital Building and Digital Factory»**、工业自动化/工业通信专营（Fieldbuses、4G/5G 与 Wireless、LoRaWAN、多协议网关）；品牌含 **MOXA、ICP DAS、TELTONIKA、MIKROTIK、HILSCHER、METZ CONNECT、RAKWIRELESS** 等；MOXA 品牌页明列 **SWITCH 类目**：**EDS-2008-ELP 8 口非管理交换机 123,70 €／EDS-2005-ELP 5 口非管理交换机 85,30 €／EDS-2016 16 口非管理交换机 477,70 €** → 交换机品类在售的工业网络专营商 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://shop.marcomweb.it/en)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-487
+  - 保留原文：SHOP ONLINE - MARCOM S.r.l.；„Marcom is your specialized partner in Industrial Automation…expertise in Fieldbuses, Wireless and Cellular connections, and Multiprotocol Gateways…“；MOXA 品牌页 Products（**SWITCH 类目**）：**EDS-2008-ELP 8-Port Unmanaged Ethernet Switch € 123,70**／**EDS-2005-ELP 5-port Unmanaged Ethernet Switch € 85,30**／**16-Port Unmanaged Ethernet Switch (EDS-2016 ML) € 477,70**；MEDIA CONVERTER／DEVICE SERVER／MODBUS／PROFIBUS-MPI
+  - [1](https://shop.marcomweb.it/en)
+  - [2](https://shop.marcomweb.it/en/m/moxa)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-488"></a>
+## A-488 · SELIT s.r.l（wirmax.net） · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-262`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wirmax.net
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[56]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：075 8011725 / info@selit.it；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛10】官网核对：Wirmax（Wireless Networking Online Store，含英文站与经销商价）在售 **MikroTik CRS310-8G+2S+IN Cloud Router Switch**、Ubiquiti PoE、RF Elements 天线、Tachyon 60GHz、多种 PoE 注入器 → 交换机型号明确+无线网络专营 → 人工定级升A。 证据：[1](https://wirmax.net/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-488
+  - 保留原文：Wirmax - Wireless Networking Online Store；New Products: Mikrotik Cloud Router Switch CRS310-8G+2S+IN（RouterOS/ SwitchOS Dual boot）；Ubiquiti POE-50-60W；RF Elements TPA-A5x；Tachyon TNA-303L-65-LIB；Reserved Price（经销商价）
+  - [1](https://wirmax.net/en/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-489"></a>
+## A-489 · SICE Telecomunicazioni · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-263`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sicetelecom.it
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[57]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+39 0583 980787 / info@sicetelecom.it；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：SICE Telecomunicazioni（意大利，1980 年起，自述累计生产超百万台 TLC 设备）**Networking 产品线**页明示 **«La linea Networking di SICE è composta da una famiglia completa di Switch e Router»**（覆盖千兆以太网至光纤网络，支持 BGP/MPLS/OSPF），并售供电/太阳能 Energy Station（AirPower）；另设 Wireless／Videosorveglianza／VoIP／IoT／R&D 与 **SICE Partner 认证培训**（含 MikroTik MTCSWE、Ubiquiti UFSP、Cambium、TP-Link Omada 课程）；官方页标题即 «Networking **prodotti distribuiti** da SICE» → 交换机/路由器产品线+网络专营分销/集成 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://www.sicetelecom.it/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-489
+  - 保留原文：Networking prodotti distribuiti da SICE Telecomunicazioni；**«La linea Networking di SICE è composta da una famiglia completa di Switch e Router adatta a risolvere qualsiasi esigenza di interconnessione dalle reti Gigabit Ethernet alle reti in Fibra Ottica…»**（BGP, MPLS e OSPF）；„SICE…Dal 1980…produzione di oltre un milione di dispositivi realizzati“；Diventa Partner SICE — Corsi di Certificazione（**MTCSWE 6-7 ottobre 2026**／Ubiquiti UFSP／Cambium cnMaestro／Omada OCNA Routing e Switching）
+  - [1](https://www.sicetelecom.it/)
+  - [2](https://www.sicetelecom.it/networking/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-490"></a>
+## A-490 · WISP STORE SRLS · 意大利
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-266`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wisp.store
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[58]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+39 089 8427588 / info@wisp.store；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛10】官网核对：wisp.store（意大利，Ubiquiti/MikroTik/TP-Link/Tenda/Netis 经销商）**畅销榜含 Ubiquiti UniFi Switch Lite 8 PoE（USW-Lite-8-PoE-EU，4×802.3af/at PoE 口）**、UDM-SE、U6-Pro、MikroTik CCR2116 等 → 交换机产品+PoE+网络专营 → 人工定级升A。 证据：[1](https://wisp.store/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-490
+  - 保留原文：Wireless store - Wisp - Rivenditore - Ubiquiti - Mikrotik - TpLink - Tenda - Netis - Italia；I più venduti: Ubiquiti UniFi Switch Lite 8 PoE USW-Lite-8-PoE-EU（Numero di porte PoE: 4x [802.3af/at (1G)]）；Mikrotik CCR2116-12G-4S+
+  - [1](https://wisp.store/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-491"></a>
+## A-491 · NetPro SIA（nasstore.eu） · 拉脱维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-271`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：nasstore.eu
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[59]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+371 2786 6444 / info@netpro.lv；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：NAS STORE（拉脱维亚）自述 **«Quick EU-wide Network Gear Delivery»**，网店在售 MikroTik 全系（328 项）：搜索 CRS 返回 **CRS804-4DDQ-HRM（400G）／CRS812 DDQ／CRS418-8P-8G-2S+5AXQ2AXQ-RM／CRS418-8P-8G-2S+RM／CRS304-4XG-IN／CRS320-8P-8B-4S+RM（PoE++）／CRS520-4XS-16XQ-RM／CRS326-4C+20G+2Q+RM／CRS106-1C-5S／CRS310-8G+2S+IN**，另有 Synology/QNAP NAS、Ubiquiti U7 Pro、Teltonika、Ruijie、Zyxel 等品牌 → 网络设备网店+交换机全系在售 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://nasstore.eu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-491
+  - 保留原文：NAS STORE - Quick EU-wide Network Gear Delivery；Search CRS：**MikroTik Cloud Router Switch CRS804-4DDQ-HRM**／**MikroTik CRS812 DDQ**（50G/200G/400G）／**CRS418-8P-8G-2S+5AXQ2AXQ-RM**／**CRS418-8P-8G-2S+RM**／**CRS304-4XG-IN**／**CRS320-8P-8B-4S+RM**（„The first MikroTik high-power PoE++ switch“）／**CRS520-4XS-16XQ-RM**／**CRS326-4C+20G+2Q+RM**／**CRS106-1C-5S**／**CRS310-8G+2S+IN**；Brands: Ajax／MikroTik／NetPro／QNAP／Ruijie／Synology／Teltonika／Ubiquiti／Zyxel
+  - [1](https://nasstore.eu/)
+  - [2](https://nasstore.eu/?s=CRS)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-492"></a>
+## A-492 · SPX, SIA（router.lv） · 拉脱维亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-274`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：router.lv
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[60]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+371 6772 4000 / sales@router.lv；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛10】官网核对：router.lv（拉脱维亚）自述 **Mikrotik Distributor**，产品导航含 **Mikrotik CRS (Cloud Router Switch) 与 CSS (Cloud Smart Switch) 专类**，现货 **CRS518-16XS-2XQ-RM（1.2Tbps 100G 企业/数据中心交换机）**，另有 CCR 路由、SFP 模块、培训页 → 交换机品类完整+分销 → 人工定级升A。 证据：[1](https://router.lv/products.php)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-492
+  - 保留原文：www.router.lv - Mikrotik Distributor；Products: Mikrotik CRS (Cloud Router Switch)／Mikrotik CSS (Cloud Smart Switch)／SFP modules／Training；CRS518-16XS-2XQ-RM — A 100 Gigabit switch for enterprise networks and data centers…1.2 Tbps switching capacity（€1286.85，In stock 1）
+  - [1](https://router.lv/products.php)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-493"></a>
+## A-493 · SATEL NORGE AS · 挪威
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-280`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：satel.no
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[61]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：produktinfo@satel.no；+47 69 27 70 40；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：SATEL NORGE AS（挪威）自述 **«spesialisert på profesjonelle industrielle produkter og trådløse systemer»**、**«official distributor»**；站内检索 switch 结果为 **ORing Industrial Networking** 产品线：«en omfattende portefølje av hardføre industrielle Ethernet-switcher, fra kostnadseffektive Umanagede, Managed, Mediakonvertere, Fibertransivere (SFP) og PoE-Switcher…til avanserte Layer 2/3 Managed switcher med hurtige redundante ringer»，并有隧道项目案例（Hvalertunnelen 交付 80+ 台全管理光纤交换机）；主营 GNSS/SCADA/机器控制等无线数传 → 工业交换机分销商 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://satel.no/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-493
+  - 保留原文：SATEL Norge | Trådløse og industrielle nettverksprodukter；Søk «switch»：**Switcher & Nettverksutstyr — ORing Industrial Networking tilbyr en omfattende portefølje av hardføre industrielle Ethernet-switcher, fra kostnadseffektive Umanagede, Managed, Mediakonvertere, Fibertransivere (SFP) og PoE-Switcher, Wireless Access Points og til avanserte Layer 2/3 Managed switcher med hurtige redundante ringer**；Case: „levert over 80 Fiber Switcher i full Managed og Lite Managed…Hvalertunnelen“
+  - [1](https://satel.no/)
+  - [2](https://satel.no/?s=switch)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-494"></a>
+## A-494 · AIRCOM Praha s.r.o. · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-282`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifihw.cz
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[62]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+420 241 400 304 / info@wifihw.cz；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛25·重试复核】官网核对：AIRCOM Praha s.r.o.（捷克，wifihw.cz）为无线/网络设备网店（V-SOL GPON、Meanwell/Delta 电源、Dataway 机柜、Komshine 光纤、MikroTik 全线）；站内搜索 crs326 返回在售 **CRS326-24G-2S+RM 3 564 Kč／CRS326-24G-2S+IN 3 493 Kč／CRS326-24S+2Q+RM 9 755 Kč／CRS326-4C+20G+2Q+RM 16 270 Kč**（均可加购），另有 CRS812 热插拔电源等配件；并发布 MikroTik 产品/安全通告新闻 → MikroTik 专营网店含交换机在售 → 人工定级升A。（前置 pending 复核完成） 证据：[1](https://wifihw.cz/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-494
+  - 保留原文：AIRCOM Praha s.r.o.（wifihw.cz）；Vyhledávání: crs326 → **MIKROTIK • CRS326-24G-2S+RM • 24-port Gigabit Cloud Router Switch 3 564 Kč（bez DPH）／4 314 Kč s DPH**／**CRS326-24G-2S+IN 3 493 Kč**／**CRS326-24S+2Q+RM 9 755 Kč**／**CRS326-4C+20G+2Q+RM 16 270 Kč**；Novinka: MIKROTIK G1251-0150WNA Hot-swap napájecí zdroj 12V 150W pro CRS812；Aktuality: Důležitá bezpečnostní aktualizace software jednotek MikroTik
+  - [1](https://wifihw.cz/)
+  - [2](https://wifihw.cz/default.asp?cls=stoitems&fulltext=crs326)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-495"></a>
+## A-495 · Discomp s.r.o. · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-287`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：discomp.cz
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[63]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+420 377 221 177 / sales@discomp.cz；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛11】官网核对：Discomp（捷克）自述「dodáváme síťové prvky a bezdrátové řešení pro firmy」（为企业供应网络设备与无线方案，B2B 注册价/信用额度）；**站内 CRS 检索返回 46 件 MikroTik Cloud Router Switch**：CRS326-24G-2S+RM（SwOS/RouterOS 24 口千兆+2×SFP+）、CRS328-24P-4S+RM（PoE 交换机 500W，802.3af/at）、CRS317-1G-16S+RM（L3，16×SFP+）、CRS112-8P-4S-IN（千兆 PoE 路由/交换机）、CRS106-1C-5S 等 → 交换机品类完整+网络专营分销 → 人工定级升A。 证据：[1](https://www.discomp.cz/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-495
+  - 保留原文：Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy；Searching "CRS" → 46 items：MikroTik Cloud Router Switch CRS326-24G-2S+RM（SwOS/RouterOS powered 24 port Gigabit Ethernet switch with two SFP+ ports）／CRS328-24P-4S+RM（PoE switch, 500W, 802.3af/at）／CRS317-1G-16S+RM（rack-mountable manageable switch with Layer3 features, 16 SFP+）／CRS112-8P-4S-IN（eight-port Gigabit PoE Router/Switch）
+  - [1](https://www.discomp.cz/)
+  - [2](https://www.discomp.cz/default.asp?cls=stoitems&stifulltext_search=and&fulltext=CRS)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-496"></a>
+## A-496 · IPMEDIA · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-288`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ipmedia.cz
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[64]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+420 246 030 710 / info@ipmedia.cz；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛11】官网核对：IPMEDIA 自述 **«Distributor síťových technologií»（网络技术分销商）**；首页横幅直链 PoE 交换机（ES22xxP）检索页，产品线含 TP-Link Omada Fusion 2.5G/控制器、MikroTik hAP be lite/hAP be3/Cube 60GHz、Solarix 铜缆光缆 → 网络专营分销+PoE 交换机品类 → 人工定级升A。 证据：[1](https://www.ipmedia.cz/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-496
+  - 保留原文：IPMEDIA - Distributor síťových technologií；banner «poe-switch» → fulltext ES22%P；TP-Link Omada Fusion 2,5G（5x 2,5Gb port, až 4x WAN, IDS/IPS）；MikroTik hAP be lite（WiFi 7, 2,5Gb Ethernet）；MikroTik Cube/WWCube 60GHz skladem
+  - [1](https://www.ipmedia.cz/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-497"></a>
+## A-497 · Proficomms · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-294`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：proficomms.cz
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[65]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@proficomms.cz（官网 kontakt）；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛11】官网核对：PROFIcomms 自述 **«distributor aktivních síťových prvků»（有源网络设备分销商）**；类目树含 **Switche, routery → L2 a L3 switche, chassis／Data Center switche／PoE injektory／Uplink moduly**，代理 **BDCOM（交换机厂商 2026 促销）**、Palo Alto 防火墙、XGS-PON/GPON、WiFi PTP、有英文站 proficomms.eu → 交换机专营分销 → 人工定级升A。 证据：[1](https://www.proficomms.cz/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-497
+  - 保留原文：PROFIcomms - distributor aktivních síťových prvků；Switche, routery: L2 a L3 switche, chassis／Průmyslové routery, VPN, LTE／Full BGP a MPLS routery／Data Center switche／Karty do chassis；promo «BDCOM 2026 Slevy»；nove v portfoliu: firewally Palo Alto；eng版 proficomms.eu
+  - [1](https://www.proficomms.cz/)
+  - [2](https://www.proficomms.eu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-498"></a>
+## A-498 · VanCo.cz s.r.o.（wifi-shop.cz） · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-298`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifi-shop.cz
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[66]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+420 246 035 451 / obchod@vanco.cz；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛11】官网核对：WiFiShop.cz（VanCo.cz eStore）为网络专营网店，**LAN 类目下直接列出「Switches, Routers, Firewalls」子类**（LAN 类目 553 件），厂商含 **MikroTik 69／Ubiquiti 40／TP-LINK 27／D-Link／EnGenius／Fortinet**；顶层类目 Microwaves/Wireless/LAN/Optical Networks/Power supplies/CCTV/Racks，并独家分销 C-Data（CZ/SK）→ 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://www.wifishop.cz/lan_c79453934.html)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-498
+  - 保留原文：WiFiShop.cz - VanCo.cz eStore；LAN → Next subcategories: Switches, Routers, Firewalls／Ethernet cables／PatchCords／Powerline adapters…；Producer: MikroTik 69, Ubiquiti 40, TP-LINK 27, D-Link 1, EnGenius 28, Fortinet 22；Exclusive Distribution of C-Data Brand for the Czech Republic and Slovakia
+  - [1](https://www.wifishop.cz/lan_c79453934.html)
+  - [2](https://www.wifishop.cz/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-499"></a>
+## A-499 · i4wifi a.s. · 捷克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-301`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：i4wifi.eu
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[67]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+420 277 007 500 / export@i4wifi.eu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛11】官网核对：i4wifi EU（100MEGA Distribution s.r.o.）网络专营分销（英文站）；**PLANET 交换机产品树完整：Industrial & IoT Switches（L2／L2/L4／L3／EN50155）、PoE Switches（802.3at／802.3bt）、LAN & (PoE) Switches → Switches → Managed（L2/L4／L2+／L3）+ PoE（PoE/PoE+/PoE++）、Modular Chassis**；另有 Ubiquiti UniFi（含 Optical Switches）、MikroTik、Converters/PON → 交换机品类完整+网络专营 → 人工定级升A。 证据：[1](https://www.i4wifi.eu/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-499
+  - 保留原文：i4wifi EU 100MEGA Distribution s.r.o.；Planet → Industrial & IoT Devices → Switches（L2／L2/L4／L3／EN50155 switche）／PoE Switches（PoE+ 802.3at／PoE++ 802.3bt）；LAN & (PoE) Switches → Switches → Managed（L2/L4／L2+／L3）, PoE (PoE, PoE+, PoE++)；Ubiquiti UniFi Network → Optical Switches；MikroTik
+  - [1](https://www.i4wifi.eu/en/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-500"></a>
+## A-500 · TIMES NETWORKS（lancentrum） · 斯洛伐克
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-308`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：lancentrum.eu
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[68]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+421 46 542 7050 / info@lancentrum.sk；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛12】官网核对：LanCentrum.sk（店铺由 Times-VT, Prievidza 运营）自述 **«Všetko pre WiFi a sieť»（一切为了 WiFi 与网络）**；类目含 **LAN (10/100/1000) - aktívna／PoE - ochrany, adaptéry／Optika - aktívna**，品牌 **MIKROTIK／UBIQUITI／DASAN Zhone Solution／V-SOL／Wi-Tek**，在售 MikroTik GPER/hAP ac3 LTE6/RB911 与 Ubiquiti U7-Mesh、V-SOL OLT → 网络与 WISP 专营+有源 LAN/PoE 类目 → 人工定级升A。 证据：[1](https://www.lancentrum.eu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-500
+  - 保留原文：Všetko pre WiFi a sieť, LanCentrum.sk；* MIKROTIK／* UBIQUITI／* DASAN Zhone Solution／* V-SOL／* Wi-Tek；Kategórie: LAN (10/100/1000) - aktívna／LAN (10/100/1000) - pasívna／PoE - ochrany, adaptéry／Optika - aktívna；Obchod prevádzkuje: Times-VT, Nábr. Sv. Metoda 8, 971 01 Prievidza
+  - [1](https://www.lancentrum.eu/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-501"></a>
+## A-501 · SmartEye BV（wifistock.be） · 比利时
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-319`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifistock.be
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[69]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+32 9 395 70 00 / sales@smarteye.eu；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛12】官网核对：WifiStock（比利时，Shopify 店）为 MikroTik 专营网店，**Switches 系列含 CRS305-1G-4S+IN（4×SFP+ 10G 交换机，€149）**；Routers 系列含 PowerBox Pro/CCR1016-12S-1S+/CCR1009/RB1100AHx4 → 交换机产品+品牌专营 → 人工定级升A。 证据：[1](https://www.wifistock.be/collections/switches)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-501
+  - 保留原文：wifistock；Featured collection: PowerBox Pro／CCR1016-12S-1S+／CCR1009-7G-1C-1S+／RB1100AHx4；Switches: CRS305-1G-4S+IN — Regular price€149,00
+  - [1](https://www.wifistock.be/collections/switches)
+  - [2](https://www.wifistock.be/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-502"></a>
+## A-502 · Tesla Networks · 比利时
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-320`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：teslanetworks.com
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[70]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：Info@teslanetworks.com；+32 (0)15 24 7007；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛24】官网核对：Tesla Networks（比利时，30+ 年）自述 **«Connecting people and machines for over 30 years»**、«Your gateway to professional networking equipment»；产品页设 **«Industrial Networking equipment»** 板块，明确 **«Ethernet switches (L2 & L3) — Unmanaged or managed switches, with customizable port numbers, port speeds, connections…with the necessary certification»**（可定制端口数/速率/连接方式/认证），并有 Media Converter、Industrial Serial、Industrial WAP、VPN Routers、M2M Gateways、Industrial IoT，另售 1000+ 型天线（蜂窝/WiFi/GPS/LMR/C-V2X/LoRaWAN） → 交换机产品线+工业组网专营 → 人工定级升A。 证据：[1](https://www.teslanetworks.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-502
+  - 保留原文：Tesla Networks — Connecting people and machines for over 30 years；Your gateway to professional networking equipment…The perfect blend of affordability and the right preformance；Custom antennas, switches, routers, repeaters, cables,…；**Industrial Networking equipment**：Tesla Networks sells all kinds of industrial networking equipment. Standard of the shelf solutions or custom build equipment when necessary.；**Ethernet switches (L2 & L3)** — Unmanaged or mangaged switches, with customizable port numbers, port speeds, connections. For all types of installations and with the necessary certification.；Media Converter／Industrial Serial／Industrial WAP／VPN Routers／M2M Gateways／Industrial IoT
+  - [1](https://www.teslanetworks.com/)
+  - [2](https://www.teslanetworks.com/products)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-503"></a>
+## A-503 · Alfa Systems · 比利时/卢森堡
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-321`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：alfasystems.be
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[71]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+32 15 45 11 60 / info@alfasys.be；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛12】官网核对：Alfa Systems 自述 **«The most complete source for network cabling»**（比利时/卢森堡）；类目含 **Antaira Industrial Networking（10/100Mbps Unmanaged／Unmanaged POE+／Gigabit Unmanaged／Media Converters）与 Level One Networking → Gigabit unmanag. Switches／Gigabit POE unmanag. Switches**，另有 Netgate/VERIGATE 防火墙、Peplink/Digi/Teltonika 蜂窝路由、UPS、铜缆/光纤布线 → 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://alfasystems.be/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-503
+  - 保留原文：Alfa Systems - The most complete source for network cabling；Antaira Industrial Networking: 10/100Mbps Unmanaged／10/100Mbps Unmanaged, POE+／Gigabit Unmanaged／Media Converters；Level One Networking → Gigabit unmanag. Switches／Gigabit POE unmanag. Switches／Routers／Access Points；VERIGATE Firewalls (Netgate)；Peplink/Digi/Teltonika Cellular
+  - [1](https://alfasystems.be/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-504"></a>
+## A-504 · Azurtem · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-328`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.azurtem.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[72]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+33 6 88 20 00 04 / shop@azurtem.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛13】官网核对：AZURTEM SHOP（法国）为 MikroTik 专营 B2B 网店（含英文站），**Cloud Router Switches (CRS) 类目在售 CRS510-8XS-2XQ-IN（€735.47）、CRS310-8G+2S+IN、CRS418-8P-8G-2S+5axQ2axQ-RM、FiberBox Plus 户外交换机（switches-fibre 类目）**，另有 RouterBOARD/5G/LTE/IoT-LoRa/天线 → 交换机产品+品牌专营 → 人工定级升A。 证据：[1](https://shop.azurtem.com/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-504
+  - 保留原文：AZURTEM SHOP（B2B, 英文站）；MikroTik CRS510-8XS-2XQ-IN switch €735.47；MikroTik CRS310-8G+2S+IN switch €160.98；MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM wifi switch €367.21；MikroTik FiberBox Plus outdoor switch €168.35（switches-fibre / cloud-router-switches-crs 类目）
+  - [1](https://shop.azurtem.com/en/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-505"></a>
+## A-505 · GROUPE CONVERGENCE SAS · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-333`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：convergence.direct
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[73]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：05 49 67 30 75 / contact@convergence.direct；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛13】官网核对：Convergence Direct（GROUPE CONVERGENCE SAS，法国）为面向电信/IT 专业商的 B2B 电商，**自述「Fournisseur officiel Ascom et Mikrotik」（Ascom 与 MikroTik 官方供应商）**，类目 **Réseaux info → Routeur et switch（含 switch 类目 592）**，另有 DECT/IP 电话、耳机、呼叫系统与 IT 二手机；团队 8 人、330 条 4.7 分评价 → 网络/电信专营+交换机类目+短决策链 → 人工定级升A。 证据：[1](https://convergence.direct/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-505
+  - 保留原文：Convergence Direct : votre référence en solution de communication professionnelle；Fournisseur officiel Ascom et Mikrotik；Réseaux info — Routeur et switch: Routeur Wi-Fi／Routeur filaire／Routeur 4G/5G／switch（cat. 592）；Une équipe de 8 personnes est dédiée à vos projets；Avis Vérifiés 4.7/5, 330 avis
+  - [1](https://convergence.direct/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-506"></a>
+## A-506 · MHz Wireless · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-337`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mhzshop.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[74]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+33 486688330 / info@mhzshop.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛13】官网核对：MHz（mhzshop.com，多语 OXID 商城）为无线网络专营分销商（MikroTik/Ubiquiti/Teltonika/MARS/Telegärtner/Poynting，QuWireless 官方分销）；**站内 CRS 检索 28 件，类目 Networks → Switches → Managed／PoE／Fibre**：CRS354-48G-4S+2Q+RM（48×GE+4×SFP+ & 2×QSFP+）、CRS125-24G-1S-2HnD-IN、CRS812 DDQ 400Gbps、CRS804-4DDQ 400Gbps、netPower 15FR CRS318（户外反 PoE 交换机）、FiberBox Plus CRS305-1G-4S+OUT、CRS328-4C-20S-4S+RM → 交换机品类完整+网络专营 → 人工定级升A。 证据：[1](https://www.mhzshop.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-506
+  - 保留原文：mhzshop.com（Online Shop）；28 Hits for "CRS"；Networks → Switches → Managed/PoE/Fibre: MikroTik CRS354-48G-4S+2Q+RM network switch 48 GbE + 4 SFP+ & 2 QSFP+ 40 Gbps（569,90 €）／CRS125-24G-1S-2HnD-IN 24-port network switch／CRS812 DDQ 12-port 400 Gbps switch／netPower 15FR CRS318-1Fi-15Fr-2S-OUT outdoor reverse-PoE switch／FiberBox Plus CRS305-1G-4S+OUT
+  - [1](https://www.mhzshop.com/)
+  - [2](https://www.mhzshop.com/index.php?cl=search&searchparam=CRS&lang=1)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-507"></a>
+## A-507 · NFTECH - WIFI France · 法国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-339`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifi-france.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[75]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+33 3 72 39 08 63 / contact@wifi-france.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛13】官网核对：WiFi France 自述 **«Solutions WiFi, Réseaux & Téléphonie pour Entreprises»**，网络专营网店在售 **TP-Link Omada/Jetstream 交换机：TL-SG3210XHP-M2（PoE+ 网管 8×2.5G + 2×SFP+ 10G，€288.44 HT）、TL-SG2210MP（Jetstream 10 口 with 8×PoE+，€146.15 HT）**，并大量 Ubiquiti UniFi（AP/UPS/PDU/NAS/充电桩）、Grandstream、Jabra → 交换机产品+网络专营 → 人工定级升A。 证据：[1](https://www.wifi-france.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-507
+  - 保留原文：WiFi France - Solutions WiFi, Réseaux & Téléphonie pour Entreprises et Particuliers；TL-SG3210XHP-M2 Switch Poe+ Géré 8 Ports 2.5g + 2 Sfp+ 10g Omada Tp-link — 288,44 € HT；TL-SG2210MP Switch Jetstream Gigabit Intelligent 10 Ports Avec 8 Ports Poe+ — 146,15 € HT；Ubiquiti USP-PDU-Pro／UPS-TOWER-EU／ENAS
+  - [1](https://www.wifi-france.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-508"></a>
+## A-508 · Aenet.pl（alfaextranet.pl） · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-347`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：alfaextranet.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[76]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 608 376 100 / mciesielski@alfaextranet.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：Alfa Extranet（Częstochowa，波兰）自述为 **«specjalistyczna hurtownia teleinformatyczna»（专业电信信息批发商）**，经营范围明确含 **«ethernetowe przełączniki sieciowe»（以太网交换机）** 与 LAN/WLAN 组网、光纤器件、安装工具；品牌 **MikroTik／Ubiquiti／TP-Link／Fiberfox／D-Link／Huawei**，在售 MikroTik NetBox 5 ax、hAP be lite、optoFIB SFP 等 → 交换机品类+网络专营批发 → 人工定级升A。 证据：[1](https://alfaextranet.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-508
+  - 保留原文：Teleinformatyka, sklep i hurtownia - Częstochowa - Alfa Extranet；W naszej ofercie znajduje się wysokiej klasy sprzęt niezbędny do stworzenia sieci lokalnej LAN/WLAN, ethernetowe przełączniki sieciowe oraz artykuły z szeroko rozumianej techniki światłowodowej；producentów takich jak Mikrotik, Ubiquiti, TP-Link, Fiberfox
+  - [1](https://alfaextranet.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-509"></a>
+## A-509 · Atel Electronics · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-348`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：atel.com.pl
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[77]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：cust@atel.com.pl；+48 77 455 60 76；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：Atel Electronics（波兰，import i dystrybucja）为工业网络与电信器件分销商，**合作伙伴 ORing Industrial Networking（Sieci Przemysłowe）与 EN50155 铁路标准专区**；新品含 **ORing IGS-3084GP-LA 管理型交换机（8×10/100/1000 RJ-45 + 4×SFP/RJ-45, O/Open-Ring <30ms, 1 750 zł）**，另有 SFP/QSFP、VUTLAN 机房监控、WaveKVM、光纤跳线 → 交换机产品+工业网络专营 → 人工定级升A。 证据：[1](https://www.atel.com.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-509
+  - 保留原文：Atel Electronics - Import i dystrybucja（dostarczamy nowoczesne technologie）；Sieci Przemysłowe - ORing Industrial Networking；Urządzenia zgodne z normą kolejową EN50155；ORing IGS-3084GP-LA, Switch zarządzalny, 8x 10/1000 RJ-45 + 4 sloty SFP / RJ-45, O/Open-Ring <30ms — 1 750,00 PLN；SFP, SFP+, SFP28, QSFP+
+  - [1](https://www.atel.com.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-510"></a>
+## A-510 · Batna（anteny24.pl） · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-350`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：batna24.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[78]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 34 3610 448 / lukasz@anteny24.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：Batna24（波兰，2001 年起）自述 **«Leader in the network equipment trade»**，UniFi Enterprise Partner Program 成员；**Switches 类目在售 Ubiquiti USW-Pro-XG-8-PoE（L3, 8×10GbE PoE, 155W）、USW-Pro-XG-24-PoE（16×10GbE+8×2.5GbE+2×SFP28, 720W）、USW-WAN、USW-Flex-2.5G-8** 等；品牌 Ubiquiti／MikroTik／Teltonika／Mimosa → 交换机品类+网络设备专营 → 人工定级升A。 证据：[1](https://www.batna24.com/gb/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-510
+  - 保留原文：Batna24.com | Network equipment store；Leader in the network equipment trade — Batna24 is a company with over 20 years of experience…specializing in delivering high-quality networking equipment…Since 2001；UniFi Enterprise Partner Program；Switches: Ubiquiti USW-Pro-XG-8-PoE Switch Etherlighting 8x RJ45 10GbE PoE 2x SFP+ 155W Layer 3 — 2,448.45 zł
+  - [1](https://www.batna24.com/gb/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-511"></a>
+## A-511 · CDR P.S.A. · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-351`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：cdr.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[79]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 327505000 / sales@cdr.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：CDR.pl 自述 **«Dystrybutor dla operatorów internetowych»（面向互联网运营商的分销商）— MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie**；类目树含 **Switche (359 件)** 与 Światłowody (1590)、MikroTik (310)、Ubiquiti (931)、Mediakonwertery、Zasilanie；厂商计数 Mikrotik 567／Ubiquiti 1105／TP-Link 816／Solarix 202 → ISP 渠道交换机品类+网络专营 → 人工定级升A。 证据：[1](https://cdr.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-511
+  - 保留原文：CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie；Kategorie: Switche (359)／MikroTik (310)／Ubiquiti (931)／Światłowody (1590)／Mediakonwertery (33)／Zasilanie (346)；Producent: Mikrotik (567), Ubiquiti Networks (1105), TP-Link (816)
+  - [1](https://cdr.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-512"></a>
+## A-512 · Cyberbajt · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-352`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：cyberbajt.pl
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[80]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：d.jonik@cyberbajt.pl 等 6 位销售具名邮箱（官网 dział handlowy）；总机 600 601 602 / (84) 638 10 70；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：Cyberbajt（波兰）自述 **«Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring»**；LAN 部门说明 **«W ofercie znajdują się przełączniki, okablowanie, urządzenia VoIP, karty sieciowe, obudowy»（报价含交换机、布线、VoIP、网卡、机箱）**，部门含 Urządzenia/WLAN/LAN/Światłowody/Zasilanie/Maszty；有专人技术邮箱 m.blaszczyk@cyberbajt.pl → 交换机品类+网络/WISP 专营+直接联系人 → 人工定级升A。 证据：[1](https://www.cyberbajt.pl/dzial/3/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-512
+  - 保留原文：Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring；Działy: Urządzenia／WLAN／LAN／Światłowody／Zasilanie／Maszty／Monitoring；LAN: Zapraszamy do zapoznania się z całą gamą rozwiązań dedykowanych do integracji sieci LAN. W ofercie znajdują się przełączniki, okablowanie, urządzenia VoIP, karty sieciowe, obudowy…（Michał Błaszczyk, m.blaszczyk@cyberbajt.pl）
+  - [1](https://www.cyberbajt.pl/dzial/3/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-513"></a>
+## A-513 · FIBERM sp. z o.o. · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-354`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：fiberm.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[81]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 509-198-885 / sales@fiberm.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：Fiberm（波兰，B2B 注册价、16:00 前下单当日发货）为电信/光纤基础设施与 LAN 分销商；**「Sieci LAN」板块含 Switche 类目** 与 Routery、Szafy RACK、Kable LAN，另供 GPON/EPON/XGS-PON、光缆、SFP 模块、微管；新品含 **MikroTik CRS304-4XG-IN switch（4×10GE + 1×GE, PoE IN）**，代理 TP-Link/Omada、Moxa → 交换机品类+网络基础设施专营 → 人工定级升A。 证据：[1](https://fiberm.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-513
+  - 保留原文：Fiberm（B2B；Zamówienia złożone do godziny 16:00 realizujemy tego samego dnia）；Sieci LAN: Szafy RACK／Kable LAN／Narzędzia／Routery／Switche（piktogram switch）；Światłowody: GPON, EPON, XGSPON／Moduły SFP i SFP+；Nowości: MikroTik CRS304-4XG-IN switch 4x 10GE, 1x 1GE, PoE IN
+  - [1](https://fiberm.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-514"></a>
+## A-514 · Konsorcjum ATS · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-358`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wirelesslan.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[82]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 48-366-00-30 / sklep@wirelesslan.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛14】官网核对：WIRELESSLAN.COM.PL（Konsorcjum ATS，波兰）自述 **«centrum sieci bezprzewodowych»**；类目含 Access Pointy、Anteny、**Automatyka i Przemysł → Switche（produkty,421）**、Media konwertery、Kontrolery sieciowe、Karty sieciowe、Refurbished 商品；支持邮箱 support@wirelesslan.com.pl → 交换机品类+无线网络专营 → 人工定级升A。 证据：[1](https://www.wirelesslan.com.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-514
+  - 保留原文：WIRELESSLAN.COM.PL centrum sieci bezprzewodowych；Automatyka i Przemysł: Akcesoria／Lokalizatory GPS／Media konwertery／Modemy / Routery／Switche；Access Pointy；Kontrolery sieciowe；Towary refurbished；support@wirelesslan.com.pl
+  - [1](https://www.wirelesslan.com.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-515"></a>
+## A-515 · WiFi24 · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-365`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：store.wifi24.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[83]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 503 00 24 24 / mbuchatskyy@wifi24.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛15】官网核对：WiFi24 Sp. z o.o.（波兰）自述 **«Importer – Dystrybutor MikroTik»**（官网带 MikroTik Reseller 徽标），并明确 MikroTik 产品线含 **«przełączniki sieciowe (switche)»（网络交换机）**、以太网路由、AP、LoRaWAN/IoT、LTE/5G、60GHz 无线、天线、SFP/QSFP；网店含 MikroTik 专类与在售 RouterBOARD/Chateau/hAP ax2/cAP ax → 交换机品类+MikroTik 进口分销 → 人工定级升A。 证据：[1](https://store.wifi24.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-515
+  - 保留原文：WiFi24 Sp. z o.o. — Importer – Dystrybutor MikroTik（MT_Reseller 徽标）；Firma oferuje routery ethernet, przełączniki sieciowe (switche), punkty dostępowe (AP), LoRaWAN/IoT, routery LTE/5G, radiolinie 60 GHz, anteny, moduły SFP/QSFP；Przejdź do produktów Mikrotik
+  - [1](https://store.wifi24.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-516"></a>
+## A-516 · iWave Group S.A. · 波兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-367`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotik.org.pl
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[84]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+48 71 346 50 60 / info@iwave.pl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛15】官网核对：mikrotik.org.pl（iWave Group S.A.，波兰）为 MikroTik/RouterOS 专营网店（含论坛 mikrotikforum.pl、培训 Szkolenia、维修 Serwis、Download），类目树含 **Automatyka i Przemysł → Switche（produkty,421）**、Access Pointy、Anteny、Karty sieciowe、Media konwertery、Refurbished → 交换机品类+MikroTik 专营 → 人工定级升A。 证据：[1](https://www.mikrotik.org.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-516
+  - 保留原文：Mikrotik RouterOS :: MIKROTIK.ORG.PL；Menu: Nowości／Promocje／Wyprzedaże／Serwis／Szkolenia／Forum／Wiedza；Nasza oferta → Automatyka i Przemysł: Modemy / Routery／Media konwertery／Switche；Access Pointy；Towary refurbished
+  - [1](https://www.mikrotik.org.pl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-517"></a>
+## A-517 · Winncom Technologies（Dublin） · 爱尔兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-374`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：winncom.com
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[85]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+44 203 002 8410 / sales.emea@winncom.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛15】官网核对：Winncom Technologies（都柏林注册/全球无线宽带分销）为 **WISP/无线宽带专营分销商**：代理 Tarana／Intracom／SIAE／Proxim／Mimosa／Nomadix／Siklu，**横幅专推「MikroTik New CRS Series」并有 MikroTik Overstock Sale、Altowav 户外交换机促销**；行业会员 CANASA／CANWISP／FBA／FISPA／OnGo／UKWISPA，参展 WISPAPalooza → 交换机产品+网络专营分销 → 人工定级升A。 证据：[1](https://www.winncom.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-517
+  - 保留原文：Winncom — Wireless Broadband, Point-To-Point, Multipoint Wireless & Networking Solutions；Promotions: MikroTik Overstock Sale／Altowav: Outdoor Switch Promotion（limited time promotion on the Altowav Outdoor Switch）／Tarana／SIAE／Siklu；Banner: MikroTik New CRS Series → /en/manufacturer/mikrotik；Memberships: CANWISP, FBA, FISPA, OnGo, UKWISPA；Events: WISPAPalooza 2026
+  - [1](https://www.winncom.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-518"></a>
+## A-518 · Kernel AS · 爱沙尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-379`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：kernel.ee
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[86]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+372 7 420 234 / info@kernel.ee；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛16】官网核对：Kernel AS（爱沙尼亚）自述 **«Raadioühendused, Mikrotik tooted, Internet, Arvutid»**（无线链路、MikroTik 产品、互联网、计算机），网店含 **MIKROTIK 专类 103 件**，其中子类 **«MikroTik switch (11)»**（另 RouterBOARD、天线、无线系统、5G/LTE 路由）+ «Võrgu- ja WiFi seadmed (8)» → 交换机品类+MikroTik 专营小公司 → 人工定级升A。 证据：[1](https://www.kernel.ee/e-pood/pood/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-518
+  - 保留原文：Kernel AS | Raadioühendused, Mikrotik tooted, Internet, Arvutid；E-POOD/Pood：MIKROTIK (103)／Võrgu- ja WiFi seadmed (8)／ARVUTIKOMPONENDID (62)…；MikroTik 子类：Antennid (10)、Antennikonstruktsioonid (10)、MikroTik korpused (6)、MikroTik routerboard (9)、Raadiokaardid (4)、MikroTik lisad (13)、**MikroTik switch (11)**、MikroTik 5G router (11)、MikroTik wireless router (15)…
+  - [1](https://www.kernel.ee/e-pood/pood/)
+  - [2](https://www.kernel.ee/tootekategooria/uus-mikrotik/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-519"></a>
+## A-519 · Sonictest OÜ · 爱沙尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-381`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sonictest.ee
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[87]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+372 505 5961 / imre@sonictest.ee；投递未测试。
+  - 说明：【2026-09-28 R53 B段复评16】官网核对：Sonictest OÜ（爱沙尼亚）自述 **«tegeleb professionaalsete WiFi- ja optikavõrkude seadmete müügi, ehitamise ning konsulteerimisega»**（专业 WiFi 与光网络设备的销售、建设与咨询），网店设 **«Switchid» 类目**：CRS326-24G-2S+RM（228 €，现货）、CRS328-4C-20S-4S+RM（500.01 €，现货），另有 SFP 接口、60GHz、Ruuterid、netPower 16P → 交换机品类+网络专营+小公司 → 人工定级升A。 证据：[1](https://sonictest.ee/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-519
+  - 保留原文：OÜ SONICTEST — Sonictest OÜ tegeleb professionaalsete WiFi- ja optikavõrkude seadmete müügi, ehitamise ning konsulteerimisega. Pakume IT- ja sideteenuseid.；Tooted：Switchid → CRS326-24G-2S+RM switch 228,00 €（Laos）；CRS328-4C-20S-4S+RM ruuter/switch 500,01 €（Laos）；netPower 16P 304,00 €；SFP+ 1m kaabel 33,00 €；Wireless Wire Cube Pro（60 GHz）
+  - [1](https://sonictest.ee/)
+  - [2](https://sonictest.ee/tooted/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-520"></a>
+## A-520 · AxByte（netdist.se） · 瑞典
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-382`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：netdist.se
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[88]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：08-586 195 00 / contact@axbyte.se；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛16】官网核对：netdist.se（AxByte，瑞典）自述 **«MikroTik-distributör för ISP och telekom» / «Auktoriserad MikroTik-distributör»**，**«Köps in direkt från MikroTik»**（直接向 MikroTik 采购）、瑞典自有仓库（Frakt 1–3 dagar）、B2B-konton（批量价+发票）与技术支持；产品类目含 **Switchar 45 st**、Ethernet Routrar 22 st、5G/LTE 32 st、IoT 17 st、供电 39 st → 交换机品类+MikroTik 授权分销 → 人工定级升A。 证据：[1](https://netdist.se/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-520
+  - 保留原文：netdist – MikroTik-distributör för ISP och telekom；Auktoriserad MikroTik-distributör／Auktoriserad distributör: Köps in direkt från MikroTik；B2B-konton: Volympriser och faktura；Teknisk support: Konfigurationshjälp på svenska；Produktkategorier: Ethernet Routrar 22 st／**Switchar 45 st**／Trådlösa 802.11ax 11 st／5G/LTE produkter 32 st／IoT-produkter 17 st／Strömförsörjning 39 st
+  - [1](https://netdist.se/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-521"></a>
+## A-521 · Satellithuset i Limmared AB（routerboard.se） · 瑞典
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-389`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：routerboard.se
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[89]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+46 325 660 650 / info@mikrotik.se；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛16】官网核对：Satellithuset i Limmared AB（routerboard.se）自述 **«din Mikrotik partner»**，仅售 MikroTik/SHLab（品牌页 Mikrotik、SHLab，在售 231 件）；导航含 **Switchar（子类 PoE／Ethernet／SFP）** 与「Trådlöst för hemma och kontor → Switchar」，另有 Routerboard/LoRa/MikroTik 认证课程，站内提供 **ÅF ansökan（授权经销申请）** → 交换机品类+MikroTik 专营伙伴 → 人工定级升A。 证据：[1](https://www.routerboard.se/sv/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-521
+  - 保留原文：Routerboard.se din Mikrotik partner；Varumärken: Mikrotik／SHLab；Kategorier: Routrar（Ethernet, Trådlösa）／**Switchar（PoE, Ethernet, SFP）**／Trådlöst för hemma och kontor（Switchar, AP, Routrar, WiFi6 AX, WiFi7 be）／SFP／LoRa/IoT／Kurser（Certifierings utbildningar på Mikrotik）；ÅF ansökan（Företagsnamn, Orgnummer, E-post…）
+  - [1](https://www.routerboard.se/sv/)
+  - [2](https://www.routerboard.se/sv/2-hem)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-522"></a>
+## A-522 · ENGITECH S.A. · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-391`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：engitech.ch
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[90]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+41 76 326 40 00 / office@engitech.ch；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛16】官网核对：ENGITECH S.A.（瑞士日内瓦，1996 年起）为本地 IT 供应商（自述 «Vente et services informatiques depuis plus de 25 ans…appareils, logiciels, sauvegarde et réseau»），**站内检索 "CRS" 命中 6 件，其中 2 件位于 category «switchs»**：MikroTik CRS112-8P-4S-IN、CRS305-1G-4S+IN，另有 CRS125-24G-1S-2HnD-IN、CRS312-4C+8XG-RM；代理 MikroTik/Teltonika，售 G.fast SFP、Huawei ONT，并提供 MTCTCE 培训 → 交换机品类+MikroTik 网络专营小公司 → 人工定级升A。 证据：[1](https://www.engitech.ch/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-522
+  - 保留原文：ENGITECH S.A. — Compagnie informatique, basée en Suisse à Genève depuis 1996；Vente et services informatiques depuis plus de 25 ans…appareils, logiciels, sauvegarde et réseau；Search "CRS": There are 6 products — MikroTik CRS125-24G-1S-2HnD-IN（CHF214.04）／**switchs** 类目 MikroTik CRS112-8P-4S-IN（CHF185.69）／**switchs** 类目 MikroTik CRS305-1G-4S+IN（CHF160.59）／CRS312-4C+8XG-RM（CHF562.08）；Formation MTCTCE en Français（Genève）
+  - [1](https://www.engitech.ch/en/)
+  - [2](https://www.engitech.ch/en/search?controller=search&s=CRS)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-523"></a>
+## A-523 · INOVIS Live Automation AG · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-392`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.inovis-group.com
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[91]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+41 55 253 44 88 / sales@inovis-group.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛17】官网核对：INOVIS Live Automation AG（瑞士 Rüti ZH）为工业自动化/IIoT 产品分销商（Computing、Netzwerk und Server、Software、Fertig­lösungen 类目，代理 Milesight/Teltonika/Aplex/NEXCOM/IEI/Avalue/InHand/**Lantech**）；**站内检索 "switch" 返回在售交换机**（Lantech I(P)GS-5400-2P-PT、IGS-0204DSFP、IES-0104FT、IES-0016 等工业交换机，TELTONIKA TSW030、Milesight WS558、InHand ES220-5T），筛选维度含 **Switch Typ: Managed/Unmanaged**、Netzwerk PoE、EN50155 → 交换机品类+工业网络专营 → 人工定级升A。 证据：[1](https://shop.inovis-group.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-523
+  - 保留原文：INOVIS Shop — KATEGORIEN: Computing／Netzwerk und Server／Software und Lizenzen／Ladegeräte／Fertiglösungen；Zu "switch" wurden Produkte gefunden；Hersteller: …Lantech Communications Europe GmbH／SIA Mikrotikls／TELTONIKA NETWORKS UAB／Milesight／InHand Networks…；Produkte: **Lantech I(P)GS-5400-2P-PT**／Lantech IGS-0204DSFP／Lantech IES-0104FT／Lantech IES-0016／TELTONIKA TSW030（43,00 CHF）／Milesight WS558 - Switch（139,00 CHF）；Filter: **Switch Typ Managed/Unmanaged**、Netzwerk PoE（Aktiv 4 port PoE at/af switch）、Zertifizierungen EN50155
+  - [1](https://shop.inovis-group.com/)
+  - [2](https://shop.inovis-group.com/search?search=switch)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-524"></a>
+## A-524 · MPI Technologies AG · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-393`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：mpi.ch
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[92]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@mpi.ch；+41 564 83 34 44；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛17】官网核对：MPI Technologies AG（瑞士 Rüti，1992 年起，属 BIBUS/MPL 集团）自述「führender Anbieter von zuverlässigen IT- und IIoT-Produkten, -Systemen und Lösungen」，**NETWORK SOLUTIONS 板块明确「Industrielle Ethernet Switches」**：Openframe/Rack/DIN-Rail 至 IP67、Micro-Switch 至 28 端口、Optical Fiber Bypass Switch、**Layer 3 Ethernet Switch、PoE Ethernet Switch**，并提供网络配置器与工业级认证（EN50155/ATEX/IEC-61850/MIL-461/810） → 交换机产品线+工业网络专营 → 人工定级升A。 证据：[1](https://mpi.ch/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-524
+  - 保留原文：MPI Technologies AG — seit 1992 der führende Anbieter von zuverlässigen IT- und IIoT-Produkten, -Systemen und Lösungen；Network Solutions: INDUS TRIELLE NETZWERKTECHNIK；**Industrielle Ethernet Switches** — Openframe, Rack- & DIN-Rail-Lösungen bis IP67／Micro-Switch bis 28 Ports／Optical Fiber Bypass Switch／**Layer 3 Ethernet Switch**／**PoE Ethernet Switch**（Jetzt konfigurieren und Anfrage senden → Netzwerk-Konfigurator）；Rugged Solutions: EN50155 / ATEX / IEC-61850 / MIL-461/810
+  - [1](https://mpi.ch/)
+  - [2](https://mpi.ch/network-solutions/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-525"></a>
+## A-525 · Wifx SA · 瑞士
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-395`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.wifx.net
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[93]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+41 24 550 01 70 / info@wifx.net；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛17】官网核对：Wifx SA（瑞士，LoRaWAN 网关厂商）自营 MikroTik 网上商店，**设 «switches» 类目**：CRS112-8P-4S-IN（185.88 CHF）、CRS326-24G-2S+RM（185.88）、CRS354-48P-4S+2Q+RM（886.37）、CRS112-8G-4S-IN（136.15），另有 Ethernet Routers、Wireless for home/office、LTE/5G → 交换机品类+MikroTik 专营 → 人工定级升A。 证据：[1](https://shop.wifx.net/en/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-525
+  - 保留原文：Wifx SA shop；Popular Products: RB5009UG+S+IN／RB5009UPr+S+IN／RB4011iGS+RM／**switches** 类目 CRS112-8P-4S-IN 185.88 CHF／CRS326-24G-2S+RM 185.88 CHF／CRS354-48P-4S+2Q+RM 886.37 CHF／CRS112-8G-4S-IN 136.15 CHF；Kategorien: Ethernet Routers／LTE-5G／Wireless for home and office／Switches
+  - [1](https://shop.wifx.net/en/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-526"></a>
+## A-526 · KosProd · 科索沃
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-398`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：kosprod.com
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[94]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+377 45 607 000 / order@kosprod.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛17】官网核对：KosProd（科索沃，自述 «Dycan i Produkteve Teknologjike» 技术产品专卖）设 **Router & Switch（35 件）** 大类，**MikroTik 类目 134 件**（子类含 Switches - Mikrotik、Ethernet Routers - Mikrotik、Accessories、PoE Adapters）；站内检索 CRS326 命中 **CRS326-24G-2S+RM 220.52 €**，归类 **«Switch i menagjushëm»（管理型交换机）与 «Switches - Mikrotik»**；另有 Ubiquiti/UniFi、Cudy、NVR/CCTV 与以太网线材 → 交换机品类+网络设备专营 → 人工定级升A。 证据：[1](https://kosprod.com/product-category/mikrotik/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-526
+  - 保留原文：Kosprod - Dycan i Produkteve Teknologjike；Kategoritë: Kamera Sigurie（NVR/AI）／Networking Accessories（Ethernet Cable）／Inverter UPS／Pajisje Rrjeti（Cudy）／Ubiquiti（UniFi）／Kompjuter-Laptop-Monitor／Mikrotik（134）；Router & Switch（35 përfundime，含 Power over Ethernet Adapters）；Search "CRS326"：**CRS326-24G-2S+RM 220.52 €** — [Switch i menagjushëm]、[Mikrotik]、[Switches - Mikrotik]
+  - [1](https://kosprod.com/product-category/mikrotik/)
+  - [2](https://kosprod.com/?s=CRS326&post_type=product)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-527"></a>
+## A-527 · Netter System SRL（mikrotik.ro） · 罗马尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-410`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：mikrotik.ro
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[95]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+40 744 334 260 / office@mikrotik.ro；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛27·补充复核】官网核对：mikrotik.ro（Netter System SRL，罗马尼亚）为 **MikroTik 专营网店**（标题「Aici gasiti produsele marca MikroTik RouterBOARD de la routere wireless pentru acasa pana la routere profesionale pentru ISP」）；类目含 **Switch-uri**（https://mikrotik.ro/5-Switch-uri）、Routere Ethernet、Wireless SOHO/802.11abgn/ac/ad、Routere 3G/4G LTE、Powerline、IoT、RouterBOARD、Surse-POE、Licenta RouterOS、Antene；在售 **CRS418-8P-8G-2S+5axQ2axQ-RM（„HW L3 offload L3, procesor ARM quad-core 2,2 GHz, 16 porturi Gigabit Ethernet“，2.339 lei，可加购）**，另有 L009UiGS-2HaxD-IN、hAP ax²、hAP ax lite、LHG-5axD-XL、hAP be lite → MikroTik 交换机专营网店 → 人工定级升A。 证据：[1](https://mikrotik.ro/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-527
+  - 保留原文：mikrotik.ro — „Aici gasiti produsele marca MikroTik RouterBOARD de la routere wireless pentru acasa pana la routere profesionale pentru ISP!“；Categorii → MikroTik solutii integrate：**Routere Ethernet（/4-routere-ethernet）／Switch-uri（/5-Switch-uri）／Wireless SOHO／Wireless 802.11abgn/ac/ad／Routere 3G/4G LTE／Powerline／Produse IoT**；MikroTik componente：Kituri complete／RouterBOARD／Interfete／**Surse - POE**／Carcase／**Licenta RouterOS**／Antene；Produse recomandate：**MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM（2.339,00 lei，「HW L3 offload L3…16 porturi Gigabit Ethernet」）**／L009UiGS-2HaxD-IN 572 lei／E50UG hEX refresh 291 lei／hAP ax S 379 lei
+  - [1](https://mikrotik.ro/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-528"></a>
+## A-528 · Wifimag.ro · 罗马尼亚
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-413`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wifimag.ro
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[96]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+40 748 113 178 / mikrotik@wifimag.ro；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：Wifimag.ro（罗马尼亚，2007 年起）自述 **«Reseller autorizat pentru Ubiquiti și MikroTik»**（页面直链 ui.com distributors 与 mikrotik.com/buy），站内有 **Switch-uri 类目**：UniFi Switch 24（USW-24，1350 lei）、UniFi Switch Flex（USW-Flex，630 lei）、UniFi Switch Pro 8 PoE（USW-PRO-8-POE，1880 lei）、UniFi Switch Pro Max 16 机架件；另有 Routere、Module SFP、PoE、Wi-Fi、Antene，标榜真实库存与当日发运+技术咨询 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://wifimag.ro/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-528
+  - 保留原文：Wifimag.ro — echipamente de rețea și wireless, pe stoc, expediere rapidă；Reseller autorizat pentru Ubiquiti și MikroTik；Categorii: Wi-Fi／Routere／**Switch-uri**／Module SFP／Antene／Alimentatoare & PoE／Automatizări；Revenite în stoc: **UniFi Switch 24 (USW-24)** Switch layer 2 cu management, 24× Ethernet Gigabit, 2× 1G SFP — 1350.00 lei, Stoc: 1 buc／**UniFi Switch Flex (USW-Flex)** Switch PoE cu management, outdoor — 630.00 lei／**UniFi Switch Pro 8 PoE (USW-PRO-8-POE)** Switch PoE, Layer 3, 2× SFP+ 10G — 1880.00 lei；Router MikroTik hAP ax lite 220.00 lei
+  - [1](https://wifimag.ro/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-529"></a>
+## A-529 · 4Net Networking, Corp. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-414`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：4netonline.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[97]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 305 599 0086 / sales@4netonline.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：4Net Networking Corp.（美国）自述 **«Distributors for over 25 years! …distributors of computer network solutions»**，面向 ISP/WISP（broadband）、FTTH/FTTx、机房电源与控制柜、企业与垂直行业方案；数据 25+ 国家、50,000KM+ 光纤、5.7k+ 客户；品牌含 **MikroTik／Ubiquiti／Teltonika／TP-Link／Cambium／D-Link／Tenda／Vertiv／Xmart／AurCore**；在售 **MikroTik CRS309-1G-8S+IN** 交换机（另 CCR2116/CCR2004 路由、U7 Pro） → 交换机品类+网络分销 → 人工定级升A。 证据：[1](https://www.4netonline.com/wpg/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-529
+  - 保留原文：4Net Networking — Distributors for over 25 years! We are distributors of computer network solutions…for ISPs and WISPs (broadband), fiber optic networking (FTTH, FTTx), power and control cabinets, corporate networks…；25+ Countries Served／50,000KM+ Fiber Sold／5.7k+ Happy Customers；Brands: Xmart／v.sol／oZmap／Teltonika／Ubiquiti／Vertiv／TP-Link／Tenda／**MikroTik**／CAB／D-Link／Cambium／19 Labs／ALG／AurCore；Best sellers: U7 Pro／CCR2116-12G-4S+／CCR2004-16G-2S+／hAP ac²／airMAX Lite AP GPS／**CRS309-1G-8S+IN**
+  - [1](https://www.4netonline.com/wpg/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-530"></a>
+## A-530 · Altanet Corporation · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-418`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：altanet-corp.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[98]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 786 228 5758 / aeal@altanet-corp.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：AltaNet Corporation（美国迈阿密 FL，aeal@altanet-corp.com，+1 786 228 5758；亦为 Walmart 全球卖家）为 MikroTik/Tenda 网络设备网店，MikroTik 专类含 **«MIKROTIK CRS-24G-2S+RM»（CRS326-24G-2S+RM 交换机）** 与 hAP lite、LHG5、mANT Box、OMNITIK、SXT Lite 5，注明 «We have an extensive inventory of products, request an offer with the part number» → 交换机产品+MikroTik 专营小公司 → 人工定级升A。 证据：[1](https://altanet-corp.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-530
+  - 保留原文：AltaNet Corporation（7950 NW 53rd Street Suite 337, Miami, Florida 33166；aeal@altanet-corp.com；(786) 228 5758）；MIKROTIK — We have an extensive inventory of products, request an offer with the part number you are looking for：**MIKROTIK CRS-24G-2S+RM**（Get a Quote）／MIKROTIK HAP LITE／MIKROTIK LHG5／MIKROTIK MANT BOX／MIKROTIK OMNITIK／MIKROTIK SXT LITE 5
+  - [1](https://altanet-corp.com/)
+  - [2](https://altanet-corp.com/collections/mikrotik)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-531"></a>
+## A-531 · Baltic Network · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-422`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：balticnetworks.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[99]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 630 929 3610 / hello@balticnetworks.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：Baltic Networks（美国）自述 **«MikroTik & Ubiquiti Network Equipment»**，站内一级类目含 **Switches**（/collections/switches）；在售 **MikroTik CRS520-4XS-16XQ-RM 100G 交换机（16×QSFP28+4×SFP28，$1,975，In Stock 16）**、**CRS518-16XS-2XQ-RM 100Gbps（$1,450，In Stock 8）**，另 MikroTik 全线（CCR2216-1G-12XS-2XQ、ROSE RDS2216）；「MikroTik In Stock and Shipping」 → 交换机品类+MikroTik/Ubiquiti 专营 → 人工定级升A。 证据：[1](https://www.balticnetworks.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-531
+  - 保留原文：MikroTik & Ubiquiti Network Equipment | Baltic Networks；MikroTik In Stock and Shipping — Routers, **switches**, wireless, LTE, IoT and more gear just landed；Categories: Routers／**Switches**／Indoor Wireless／Outdoor Wireless／Cables & Accessories／Fiber／LTE & IOT／Enclosures & Hardware／Licensed Links；Featured: MikroTik **CRS520-4XS-16XQ-RM 100G Switch**（16x QSFP28, 4x 25G SFP28）$1,975 In Stock-16／MikroTik **CRS518-16XS-2XQ-RM 100Gbps Switch** $1,450 In Stock-8／CCR2216-1G-12XS-2XQ $2,495 In Stock-46
+  - [1](https://www.balticnetworks.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-532"></a>
+## A-532 · Business Systems Connection, Inc. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-426`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.bizsyscon.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[100]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 636 600 1400 / sales@bizsyscon.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：Business Systems Connection（BSC，美国，"Deliver Intelligent Networks"）为网络方案的 Shopify 商城 + 自研 **Lysora** 品牌（宣传 AI BOM／AI Designer／AI Diagnostics）；类目含 Indoor/Outdoor Wireless Radios、UniFi Video Surveillance、UniFi Access；**站内检索 "switch" 命中 706 条**，快速标签含 UniFi／Pro-Max／**Industrial Ethernet** → 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://bizsyscon.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-532
+  - 保留原文：BSC — Deliver Intelligent Networks；AI BOM／AI Designer／AI Diagnostics；Shop now（Lysora）／Product & Solution Guide（Lysora Leaflet 2026.pdf）；Collections: Indoor Wireless Radios／Outdoor Wireless Radios／Video Surveillance／Access Control；Search: **706 results found for "switch"**；Quick search tags: Ubiquiti／UniFi／**Pro-Max**／**Industrial Ethernet**
+  - [1](https://bizsyscon.com/)
+  - [2](https://bizsyscon.com/search?q=switch)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-533"></a>
+## A-533 · CTIconnect LLC · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-429`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：cticonnect.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[101]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 561 295 7899 / sales@cticonnect.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：CTIconnect, LLC（美国，sales@cticonnect.com，561-295-7899）自述 **«We have become a leading distributor of networking solutions…»**；类目含 Radios／Antennas／Cable Solutions／Fiber／**Networking Hardware**／Power Systems／Tower & Infrastructure Hardware；提供 Custom Network Design、Bulk & Enterprise Solutions 与企业级报价，代理 Tarana／Eltek／Cambium 等 → 网络硬件分销（含 Networking Hardware 类目）→ 人工定级升A。 证据：[1](https://www.cticonnect.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-533
+  - 保留原文：CTIconnect, LLC | Wireless Connectivity Solutions & Services；Shop By Category: All Categories／Radios／Antennas／Cable Solutions／Fiber／**Networking Hardware**／Power Systems／Tower & Infrastructure Hardware；Shop By Brands；We have become a leading distributor of networking solutions by being much more than a distributor…；Our Services: Custom Network Design & Consulting／Product Installation & Setup／Technical Support & Troubleshooting／Tower & Infrastructure Solutions／**Bulk & Enterprise Solutions — Special pricing and logistics support for large-scale projects**；sales@cticonnect.com，561-295-7899
+  - [1](https://www.cticonnect.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-534"></a>
+## A-534 · Digicomm International · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-434`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：digicomm.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[102]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 303 799 3444 / sales@digicomm.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛19】官网核对：Digicomm International（美国科罗拉多 Englewood，sales@digicomm.com，303-799-3444）自述 **«FTTx, Fixed Wireless, & HFC Supplier»**，与 **MikroTik 合作**（MikroTik Newsletter、Featured Products），MikroTik 专页设 **«Switches» 类目（/project/mikrotik-switches/）** 与 Ethernet Routers、Power Supplies、Wireless Systems、Accessories；另有 CommScope/Positron/Cisco 节点与 EXFO 测试仪（宽带接入网络供应） → 交换机品类+MikroTik 网络分销 → 人工定级升A。 证据：[1](https://digicomm.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-534
+  - 保留原文：Digicomm International | FTTx, Fixed Wireless, & HFC Supplier；Digicomm partners with MikroTik to deliver powerful, scalable networking solutions…；Featured Products（MikroTik）：Ethernet Routers／MikroTik Accessories／Power Supplies／**Switches**（/project/mikrotik-switches/）／Wireless Systems；View the MikroTik Newsletter；1 Digicomm Drive, Englewood, CO 80112；(303) 799-3444；sales@digicomm.com；Exclusive Distribution Partner: Gilbert Hardline Connectors／Quantum 1.8 HGD and HGBT
+  - [1](https://digicomm.com/)
+  - [2](https://digicomm.com/mikrotik/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-535"></a>
+## A-535 · DoubleRadius, Inc. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-436`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：doubleradius.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[103]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 704 927 6100 / salesteam@doubleradius.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：DoubleRadius（美国网络分销商，shopdoubleradius.com，另设 services.doubleradius.com 服务公司）自述 **«Network Gear & Services»**；品牌含 **MikroTik**／Ubiquiti／Cambium／SAF Tehnika／Baicells／RF elements；Shop by Category 含 **Routing/Switching** 与现货 **Switches** 集合，另有 Access Points、Fiber、LTE、Licensed Links、Video → 交换机品类+网络/WISP 专营分销 → 人工定级升A。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-535
+  - 保留原文：DoubleRadius – Beyond the Box｜Network Gear & Services；Top Brands: Ubiquiti／**MikroTik**／SAF Tehnika／Baicells／RF elements／Cambium Networks；Shop by Category: Access Points／Enclosures／Fiber／LTE／Licensed Links／Outdoor Wireless／**Routing/Switching**／Licenses & Warranties／Video；Featured products by category: …Routers…／**Switches**（switches-in-stock）；Services: services.doubleradius.com；Training & Events
+  - [1](https://shopdoubleradius.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-536"></a>
+## A-536 · Flytec Computers · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-442`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：flyteccomputers.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[104]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 305 471 5142 / sales@flyteccomputers.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Flytec Computers（美国迈阿密，website@flyteccomputers.com，+1 305-471-5142）自述 **«Trusted Distributor of Wireless, Wired & Fiber Equipment»**；**Wired Networking 类目 710 件**，页内明确 «Our catalog includes enterprise routers, **PoE and non-PoE switches**, SFP/SFP+ transceivers, rackmount gear, and structured cabling solutions»，另有 Fiber／Surveillance／Wireless Networking／VOIP 类目 → 交换机品类+网络分销 → 人工定级升A。 证据：[1](https://flyteccomputers.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-536
+  - 保留原文：Flytec Computers — Trusted Distributor of Wireless, Wired & Fiber Equipment；Flytec Computers offers a full selection of wired networking hardware…Our catalog includes enterprise routers, **PoE and non-PoE switches**, SFP/SFP+ transceivers, rackmount gear, and structured cabling solutions — all sourced from leading manufacturers…in stock and shipping fast across the USA；Wired Networking（Showing 16 of 710）；Fiber／Surveillance Systems／Wireless Networking／VOIP Systems／Auxiliary；website@flyteccomputers.com，(305) 471-5142
+  - [1](https://flyteccomputers.com/)
+  - [2](https://flyteccomputers.com/wired-networking/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-537"></a>
+## A-537 · Hexstar · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-443`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：hexstar.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[105]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 888 NETFIX8 / info@hexstar.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Hexstar Computer Hardware（美国）为 **MikroTik 专营网店**（品牌/类目：Mikrotik Wireless Systems、**Mikrotik Switches**、Mikrotik Ethernet Routers、Mikrotik Antennas，另 Mikrotik Wireless for SOHO），在售交换机含 **RB260GS、CRS112-8G-4S-IN、CRS125-24G-1S-2HnD-IN、CRS210-8G-2S+IN、CRS109-8G-1S-2HnD-IN**（均可 Add to Cart） → 交换机品类+MikroTik 专营 → 人工定级升A。 证据：[1](https://hexstar.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-537
+  - 保留原文：Hexstar Computer Hardware；Switches: Mikrotik Switches → **RB260GS**（five Gigabit Ethernet ports and one SFP cage）／**CRS112-8G-4S-IN**／**CRS125-24G-1S-2HnD-IN**（fully functional router and a Layer 3 switch）／**CRS210-8G-2S+IN**（eight Gigabit Ethernet ports and two SFP+ cages for 10G）／CRS109-8G-1S-2HnD-IN；Wireless Routers: Mikrotik Wireless Systems／Mikrotik Wireless for SOHO；Mikrotik Antennas: mANT 15s／mANT 19s／mANT30
+  - [1](https://hexstar.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-538"></a>
+## A-538 · Interamerican Tech Corp. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-445`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：itamtech.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[106]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 305 639 2524 / sales@itamtech.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Interamerican Tech Corp（ItamTech，美国迈阿密，sales@itamtech.com，305.639.2524）为网络/安防/VoIP 分销商，首页主推 **«Networking» → Routers & Switches 类目（865 件）**，品牌矩阵含 **MikroTik／Planet／Netonix／Ubiquiti／Teltonika／Cambium／Mimosa／LigoWave／RF elements** 及安防/对讲/对讲机品牌 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://itamtech.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-538
+  - 保留原文：ItamTech（Interamerican Tech Corp）— Helpline 305.639.2524，sales@itamtech.com；首页横幅 Networking → /routers-switches.html（NETWORKING，Items 1-27 of **865**）；Brands: 2N／AccessPRO／Alarm.com／Astron／AXIS／Cambium／Engenius／EPCOM／Fanvil／Fiberhome／Fire-Lite／Grandstream／Hikvision／LigoWave／LinkedPro／**MikroTik**／Mimosa／Motorola／**Netonix**／**Planet**／Plasma Cloud／Reyee／RF elements／Samlex／Shakespeare／Shelly／Sure-Fi／Teltonika／Tycon／Ubiquiti／V-SOL／Yealink／ZKTeco
+  - [1](https://itamtech.com/)
+  - [2](https://itamtech.com/routers-switches.html)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-539"></a>
+## A-539 · Itshopp.com · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-447`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：itshopp.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[107]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 786 495 0313 / eddy@itshopp.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：IT Shopp（美国）自述 «Online Shopping Networking Product and computer Parts»，在售交换机为核心品类：**TP-Link TL-SG3452P JetStream 52-Port L2 Managed PoE（$549.99）、TL-SG1016PE 16-Port Gigabit Easy Smart PoE（$175.99）、Grandstream GWN7806PL Pro L2++ 48-Port PoE（$545.00）、GWN7701M Unmanaged 8-Port（$75.00）**；品牌含 MikroTik／Ubiquiti／Engenius／TP-Link／Yealink／Grandstream／Ezviz，另有 Tycon 24 口千兆防雷 → 交换机品类+网络零售 → 人工定级升A。 证据：[1](https://www.itshopp.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-539
+  - 保留原文：IT Shopp - Online Shopping Networking Product and computer Parts；Top Deals: **TP Link TL-SG3452P JetStream 52-Port Gig L2 Mgd POE $549.99**／**TL-SG1016PE 16-Port Gigabit Easy Smart PoE Switch $175.99**／Grandstream 21XX-STAND／Ezviz C3TN；New products in Stock: **Grandstream GWN7701M - Unmanaged 8 Port switch $75.00**／**GWN7806PL Pro - L2++ Managed 48 Port PoE Switch - Enterprise $545.00**／Tycon Power TP-ESP-1G-24RM 24 Port Gigabit Lightning and Surge Protection $1,089.99；Brands: MikroTik／Ubiquiti／Engenius／TP-Link／Yealink／Grandstream／Ezviz
+  - [1](https://www.itshopp.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-540"></a>
+## A-540 · Microcom Technologies · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-454`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：microcom.us
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[108]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 818 880 8008 / sales@microcomtec.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Microcom Technologies, Inc.（美国）为网络/VoIP 分销商，提供 **Reseller Partner program（注册最高省 50%）**；品牌含 **MikroTik**／Ubiquiti／Cambium／TP-Link／HPE Networking Instant On／NETGEAR／Grandstream／Yealink／Fanvil／Tycon；在售交换机含 **NETGEAR GS108E（$69.95）、HPE Networking Instant On SG1004（$349.00）**，并有 Network Hardware、Wireless LAN、Point-to-point 类目 → 交换机品类+网络分销 → 人工定级升A。 证据：[1](https://www.microcom.us/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-540
+  - 保留原文：Microcom Technologies, Inc. — Save up to 50% by signing up for our Reseller Partner program；Featured Brands: TP-Link／HPE Networking Instant On／**MikroTik**／Cambium Networks／Tycon Systems／NETGEAR／Grandstream／Yealink／Ubiquiti／Fanvil；Featured Products: ZYXEL WBE630S／**NETGEAR GS108E $69.95**／UBIQUITI UNAS 2／**HPE NETWORKING INSTANT ON SG1004 $349.00**／TP-LINK ER706W；Categories: Wireless LAN／Wireless LAN - Point to Point／Network Hardware
+  - [1](https://www.microcom.us/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-541"></a>
+## A-541 · Mid Atlantic Rugged Systems · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-455`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：midatlanticruggedsystems.com
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[109]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 855 784-4334 / sales@marugged.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Mid-Atlantic Rugged Systems（美国，站点 marugged.com）自述 **«Rugged Industrial Computer and Networking Technologies»／«stocking distributor»**，方案含 **Industrial Networking**，厂商伙伴含 **Moxa（台湾）、ORing（台湾工业交换机）、Vecow、SparkLAN、Atop、IEI、Innodisk** 等；首页促销「Take advantage of limited-time promotions on **industrial switches** and more」；行业覆盖工业自动化、轨交 EN50155、电力 IEC-61850-3、IEC 62443 工控安全 → 交换机产品+工业网络专营 → 人工定级升A。 证据：[1](https://marugged.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-541
+  - 保留原文：Mid-Atlantic Rugged Systems — Rugged Industrial Computer and Networking Technologies；As a **stocking distributor** we are your supply chain partners…；Solutions: IP67 Devices／Mobile Computing／**Industrial Networking**／Industrial Serial／Industrial Wireless／Embedded Communication & Storage；Manufacturer Partners: **Moxa**／Vecow／Innodisk／**ORing**／Womaster／SparkLAN／RuggON／Handheld／Starlake／IEI／Pattor／Atop；Take advantage of limited-time promotions on **industrial switches** and more；Markets: Industrial Automation／Smart Transportation（EN50155）／Oil, Gas & Mining（ATEX）／Power & Utilities（IEC-61850-3）／Industrial Cybersecurity（IEC 62443-4-2）／Military & Government
+  - [1](https://marugged.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-542"></a>
+## A-542 · Multilink Solutions · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-456`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：multilink.us
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[110]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 513 501 8006 / info@multilink.us；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛18】官网核对：Multilink Solutions Inc.（美国辛辛那提，自述 **«B2B Network Hardware Distributor»／«Authorized US Distributor, ISP, WISP, Campus, Security Supply»**，sales@multilink.us，888-254-8006）：30+ 授权品牌、5,000+ SKU，代理 **MikroTik／Ubiquiti／TP-Link／Revotik**；企业方案明确含 **Switching**、WiFi、firewalls、racks、UPS；另供 Fiber & GPON/FTTH、VoIP 与项目报价 → 交换机品类+网络硬件分销 → 人工定级升A。 证据：[1](https://multilink.us/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-542
+  - 保留原文：Multilink Solutions Inc. | B2B Network Hardware Distributor；Authorized US Distributor — ISP, WISP, Campus, Security Supply；Wholesale Network Hardware for Business and Infrastructure Teams（networking, wireless, fiber, security, power, and voice hardware with US-based fulfillment and project pricing support）；10+ Years Supporting Networks／30+ Authorized Brands／5,000+ Available SKUs／US Fulfillment；Enterprise & IT Teams: **Switching**, WiFi, firewalls, racks, UPS, and power gear；Brands: **MikroTik**／Ubiquiti／TP-Link／Revotik；sales@multilink.us，(888) 254-8006
+  - [1](https://multilink.us/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-543"></a>
+## A-543 · NACE Inc（North American Cable） · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-457`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：products.nace.tv
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[111]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 800 688 9282 / sales@northamericancable.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛20】官网核对：NACE = North American Cable Equipment（美国 PA，宽带/线缆设备专业分销），自述 **«Your Trusted MikroTik Master Distributor»**（北美 MikroTik 总代），MikroTik 专页产品类目含 **Switches（/mikrotik-product/switches/，CRS312-4C8XG-RM 图）**、Routers、Wireless AP、Mounting Adapters、Power Supply、SFP/Accessories，提供 «Request MikroTik Pricing / Availability» 与 FAQ 商务表单 → 交换机品类+网络专营分销 → 人工定级升A（注：属大盘总代级，决策链偏长，跟进按大客户节奏）。 证据：[1](https://products.nace.tv/mikrotik/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-543
+  - 保留原文：North American Cable (NACE)……As a trusted **Master Distributor** for MikroTik networking equipment, NACE provides the products, support, and reliable fulfillment integrators need to deploy faster and scale smarter.；MikroTik Product Categories We Offer: MikroTik Routers／**MikroTik Switches**（See More Products）／MikroTik Wireless Access Points／MikroTik Mounting Adapters／MikroTik Power Supply／MikroTik SFP/Accessories；Request MikroTik Pricing / Availability
+  - [1](https://products.nace.tv/mikrotik/)
+  - [2](https://products.nace.tv/mikrotik-product/switches/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-544"></a>
+## A-544 · ROC-NOC · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-465`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：roc-noc.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[112]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 815 209 2224 / sales@roc-noc.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛20】官网核对：rOc-nOc.com（ICD Group, Inc，美国 IL）为面向 ISP/WISP 的小型网络直营网店，自述 «offers Mikrotik Routerboards, RouterOS, APs, and other high value networking products with live inventory»、«Shop our site for Mikrotik routers, **switches**, WiFi APs, radios…»；在售 **CSS106-5G-1S（RB260GS 千兆智能交换机）$37**、**CRS328-24P-4S+RM PoE 交换机 $485**，支持 20/100 件箱批量折扣（Volume discounts…case lots of 20 and 100 pieces），当日美加及出口发运 → 交换机品类+网络专营小店 → 人工定级升A。 证据：[1](https://www.roc-noc.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-544
+  - 保留原文：rOc-nOc.com offers Mikrotik Routerboards, RouterOS, APs, and other high value networking products with live inventory for your ISP, WISP, or other networking application.；Shop our site for Mikrotik routers, **switches**, WiFi APs, radios, wired and wireless LAN and WAN products.；Featured products: Mikrotik RouterBoard CSS106-5G-1S (aka RB260GS) Smart Gigabit Switch $37.00／Mikrotik Cloud Router Switch CRS328-24P-4S+RM – PoE out switch, 24 PoE out Gigabit Ethernet ports with 4 SFP+ cages $485.00；Volume discounts are available on many products sold in case lots of 20 and 100 pieces.；We serve North American and Export markets with shipments daily
+  - [1](https://www.roc-noc.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-545"></a>
+## A-545 · Streakwave · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-475`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：streakwave.com
+- 精确同名同国别首次入库提交：`24283e37136f1709ec236e3528df3b6c11c9bb97`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[113]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 888 604 5234 / contact@streakwave.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛20】官网核对：Streakwave（美国 CA，仓配 UT/OH）为无线宽带/网络专营分销商：**MikroTik 专区 364 款在售**、**Networking→Switches 类目 317 款**（Zyxel GS1900/GS2220、XMG1915 等），区域库存实时显示（如 HS-31DLC20D 20 in Utah），支持缺货预订 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://www.streakwave.com/mikrotik)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-545
+  - 保留原文：Streakwave MikroTik Routers & Wireless；MikroTik（364 products found）；Networking / **Switches**：**317 products found**（48-Port GbE L2 Web Managed Rackmount Switch 2x SFP ZYX-GS1900-48 $299.99／8-Port 2.5GbE PoE++ L2 Smart Managed Switch 2 SFP+ ZYX-XMG1915-10EP $299.99／48-Port Gigabit PoE+ Managed Switch ZYX-GS2220-50HP $999.99）；MikroTik S+2733LC10D $129.82；库存：13 in Ohio / 20 in Utah
+  - [1](https://www.streakwave.com/mikrotik)
+  - [2](https://www.streakwave.com/switches)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-546"></a>
+## A-546 · WAV, Inc. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-483`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wavonline.com
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[114]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 800 678-2419 / sales@wavonline.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛20】官网核对：WAV, Inc.（美国，自述 **«Top Wireless Equipment Distributor For WISP & ISP»**）为**有线/无线设备专业分销**：«From private LTE to fixed wireless broadband, **network switches**, Wi-Fi, and fiber»，$25M+ 常备库存 / 70,000+ SKU / 10,000+ 客户 / 35+ 年；首页轮播 **RUCKUS Full Speed Switching Promo**，方案页含 Networking and Wi-Fi、Fiber、Fixed Wireless Access，与 Tarana/Cambium/Cyclone 等 WiSP 品牌深度合作 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://www.wavonline.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-546
+  - 保留原文：Top Wireless Equipment Distributor For WISP & ISP；We are a wired and wireless equipment distributor specializing in connecting your customers to the Internet. From private LTE to fixed wireless broadband, **network switches**, Wi-Fi, and fiber…；$25+ Million Daily On Hand Inventory／70,000+ SKUs Available／10,000+ Trusted Customers／Over 35+ Years Of Experience；RUCKUS Full Speed Switching Promo；Solutions: Fiber／Networking and Wi-Fi／Fixed Wireless Access；Featured: Cambium ePMP 3000 5GHz AP $692.80；Become a Partner
+  - [1](https://www.wavonline.com/)
+  - [2](https://www.wavonline.com/promotions)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-547"></a>
+## A-547 · iComTech, Inc. · 美国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-487`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：icomtechinc.com
+- 精确同名同国别首次入库提交：`77718d51eee6828c1d8fbcc805a8cced0decee6c`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[115]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+1 949 861-2550 / sales@icomtechinc.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛20】官网核对：iComTech, Inc.（美国，1-800-301-9097，网店带购物车/注册）为**工业以太网交换机专营供应**：全站品类即以 **Ethernet Switches** 起（卡式/CompactPCI/桌面型/**EN50155 车载**/**IEC 61850-3 电力**/工业 DIN 导轨托管与非托管/工业 PoE 交换机与注入器/工业 10Gb 核心交换机），另有 Media Converters、Ethernet Extenders、SFP 模块、串口设备等 → 交换机品类+工业网络专营小公司 → 人工定级升A。 证据：[1](https://icomtechinc.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-547
+  - 保留原文：iComTech® - Complete Industrial Network Computing Provider；SHOP BY CATEGORY — **Ethernet Switches**：Card-Type Ethernet Switch（Industrial PCI/PCIe/PCIe PoE/Module）／CompactPCI Ethernet Switch／Desktop-type Ethernet Switch（含 Layer 3 Gigabit）／**EN50155 Ethernet Switch**（Managed/Unmanaged）／**IEC 61850-3 Ethernet Switch**（DIN-Rail/Rackmount）／Industrial 10Gb Core Switches／Industrial Router／Industrial DIN-Rail Ethernet Switches／Industrial PoE Switches（PoE Injectors/Splitters/Switches）／Industrial Rackmount Ethernet Switches／Ethernet SFP Modules／Ethernet Accessories；Contact us @ 1-800-301-9097
+  - [1](https://icomtechinc.com/)
+  - [2](https://icomtechinc.com/ethernet-switches/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-548"></a>
+## A-548 · Data Monitor · 芬兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-488`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：datamonitor.fi
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[116]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：myynti@datamonitor.fi（销售；dm@ 同页）；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛20】官网核对：Data Monitor Communication Finland Oy（1994 年起，dm@datamonitor.fi，+358 9 225 2270）为**通信/网络产品进口商**：产品组含 Tietoliikenne（通信）与 **Lähiverkot（局域网）——«työryhmä-, PoE-, TOR- ja teollisuuskytkimet, mediamuuntimet ja WiFi verkot»（工作组/PoE/ToR/工业交换机、媒体转换器、WiFi）**，另配线材附件；首页强调 WiFi6/7 与 **PoE-kytkimet 与电源** → 交换机品类+网络专营进口分销 → 人工定级升A。 证据：[1](https://datamonitor.fi/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-548
+  - 保留原文：Data Monitor Oy | Asiantunteva ja palveleva tietoliikennetuotteiden maahantuoja（专业的通信产品进口商）；Tuoteryhmät — Lähiverkot：Toimitamme ratkaisut teollisuuden, konesalien ja toimitilojen lähiverkkototeutuksiin. Lähiverkkovalikoimamme tuotteita ovat esim. **työryhmä-, PoE-, TOR- ja teollisuuskytkimet, mediamuuntimet ja WiFi verkot**；Wifi6, WiFi7 … yhdistettynä **PoE-kytkimiin ja virtalähteisiin**；Osaamista ja onnistumisia jo vuodesta 1994；dm@datamonitor.fi +358 9 225 2270
+  - [1](https://datamonitor.fi/)
+  - [2](https://datamonitor.fi/tuoteryhmat/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-549"></a>
+## A-549 · 4Gon · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-491`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：4gon.co.uk
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[117]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+44 330 088 0295 / info@4gon.co.uk；投递未测试。
+  - 说明：【2026-09-28 R53 B段逐站复筛21】官网核对：4Gon Solutions（英国，info@4gon.co.uk，+44 330 088 0295）为无线/网络专营网店：顶部类目含 **Switches**（UniFi Switches 子类，UniFi 24-Port PoE Switch USW-24-POE £306.30）、Access Points、Cloud Gateways、5G Routers、IP CCTV、Cabinets and Racks；自述 **Ubiquiti 官方分销/首选分销商** 并设 **Reseller 计划**（«If you are a Wireless or comms reseller…apply to become an authorised reseller…access to reseller pricing»，最低首单 £200，可白标直发客户） → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://4gon.co.uk/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-549
+  - 保留原文：4Gon | WiFi Access Points, **Switches**, IP CCTV, 4G & 5G Routers；Top categories: Point to Point／Routers／Cabinets and Racks／WiFi Training／5G Routers／Cloud Gateways／Access Points／**Switches**／Indoor WiFi／IP CCTV；Ubiquiti Distributor — Preferred Ubiquiti distributor；Most popular: UniFi Switches（See the complete UniFi Switch range）／Ubiquiti UniFi 24-Port PoE Switch £306.30；Reseller Program: Become a 4Gon Reseller…access to reseller pricing；We can white label drop-ship direct to you or your customer with next day delivery.；The initial minimum order value is £200.00
+  - [1](https://4gon.co.uk/)
+  - [2](https://www.4gon.co.uk/gb/become-a-4gon-reseller/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-550"></a>
+## A-550 · Comms Express Ltd · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-496`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：comms-express.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[118]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：01245 459490 / cesales@comms-express.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：Comms Express（英国，cesales@comms-express.com，01245 459490）自述 **«Top Supplier of Network Cables, Data & Server Racks»**，站内 **Network Switches 类目**（/categories/network-switches/）+ **HPE/Aruba 交换机专区**（Aruba Instant On 1930/1960 系列横幅）、Zyxel Switches、Ubiquiti UniFi、Cisco、DrayTek、Teltonika、TP-Link、Juniper 等；提供企业信用账户与报价（Request A Quote）→ 交换机品类+网络专营分销/电商 → 人工定级升A。 证据：[1](https://www.comms-express.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-550
+  - 保留原文：Comms Express | Top Supplier of Network Cables, Data & Server Racks；Aruba Instant On 1930s & 1960s Series Switches（/categories/hpe-and-aruba-switches/）；Browse: **Network Switches**（View Range）／Zyxel Switches／Ubiquiti UniFi Enterprise WiFi Systems／Cisco／DrayTek／Teltonika／TP-Link／Juniper Networks；Credit and Finance Options／Request A Quote；Call us FREE on 0800 488 0000
+  - [1](https://www.comms-express.com/)
+  - [2](https://www.comms-express.com/categories/network-switches/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-551"></a>
+## A-551 · Liberty-izone Ltd. · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-506`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：liberty-i.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[119]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+44 844 880 6680 / sales@liberty-izone.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：Liberty-i（Liberty-izone Ltd，英国，sales@liberty-izone…，0808 2819 500）自述 UK network operator，同时设 **自营硬件商店**：«Engineer-selected hardware — Professional routing, **switching** and wireless hardware from trusted manufacturers»，类目含 **Routers／Switches／Wireless／LTE & 5G**（Shop Switches → /product-category/switches/），联系表单服务意向含 **«Trade account / bulk enquiry»（贸易账户/批量询价）** → 交换机品类+网络专营+贸易批发入口 → 人工定级升A。 证据：[1](https://www.liberty-i.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-551
+  - 保留原文：Liberty-i – Secure business connectivity, VoIP and managed Guest Wi-Fi；Engineer-selected hardware：Build better networks with proven equipment. Professional routing, **switching** and wireless hardware from trusted manufacturers, backed by practical pre-sales expertise.；**Routers**／**Switches**（Power, fibre and capacity where it matters — Shop Switches）／**Wireless**／**LTE & 5G**（Browse network hardware）；Service interest: Connectivity availability／Business VoIP / SIP／Guest Wi-Fi survey／UK IT & network support／**Trade account / bulk enquiry**
+  - [1](https://www.liberty-i.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-552"></a>
+## A-552 · NetXL Distribution Ltd. · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-511`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：netxl.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[120]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+44 330 043 3000 / help@netxl.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：NetXL Distribution Ltd.（英国，help@netxl.com，+44 330 043 3000）自述 **«Disruptive Technology Distribution: Market-leading networking, VoIP and smart automation»**；一级类目含 **Networking**（内含 network-switches 子类），在售 **MikroTik CRS309-1G-8S+IN Cloud Router Switch £201.49（Best Seller）**；品牌含 Ubiquiti／DrayTek／**MikroTik**／Teltonika／Yealink／HPE Instant On／TP-Link／Poynting；设 **Trade Account**（«Apply for a trade account to access additional discounts, custom branded shipments»）→ 交换机品类+网络专营分销+贸易批发 → 人工定级升A。 证据：[1](https://www.netxl.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-552
+  - 保留原文：Disruptive Technology Distribution: IT, Network & VOIP | NetXL；Networking／Antennas／CCTV／Smart Home & Security／Speakers／VoIP／Accessories；Best Seller: **MikroTik CRS309-1G-8S+IN 8 SFP+ Port Cloud Router Switch £201.49**；Brands: Ubiquiti／Shelly／Homey／DrayTek／Yealink／HPE Networking Instant On／Poynting／**MikroTik**／TP-Link／Teltonika；Trade Account — Get the Best Trade Pricing: Apply for a trade account to access additional discounts, custom branded shipments and more
+  - [1](https://www.netxl.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-553"></a>
+## A-553 · Switch SFP · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-516`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：switchsfp.com
+- 精确同名同国别首次入库提交：`89ed28dc93ad791db40b0a2611bef7121f0dacec`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[121]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：sales@switchsfp.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：Switch SFP Ltd（英国，sales@switchsfp.com，01285 700 750，原表信号 Antaira 授权）自述 **«An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers»**、Jisc 网络设备框架成员；站内类目含 **Industrial Switches（工业交换机）**、Router、Media Converter、Network Cards、Ethernet Extender、Serial to Ethernet 等，并设渠道合作（与 ASM Technologies 渠道分销合作）→ 交换机品类+网络硬件专营小公司 → 人工定级升A（注：主业为兼容光模块/跳线，交换机为新增线）。 证据：[1](https://switchsfp.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-553
+  - 保留原文：Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd；An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers manufactured to ISO 9001:2015 with UKCA and RoHS compliant.；All categories: Active Optical Cable／Antenna／Direct Attached Cable／Ethernet Extender／Fibre Cables／**Industrial Switches**／Media Converter／Network Cards／Optical Transceiver／Router／Secure Terminal Server／Serial to Ethernet；Switch SFP now in Partnership with ASM Technologies for Channel Sales；sales@switchsfp.com 01285 700 750
+  - [1](https://switchsfp.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-554"></a>
+## A-554 · VoiceHost Limited · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-519`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：store.voicehost.co.uk
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[122]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：0345 561 0561 / support@voicehost.co.uk；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：VoiceHost（英国，0345 561 0561，support@voicehost.co.uk）为托管 PBX/VoIP 服务商并自营硬件商城：一级目录含 **IP Networking：Routers／Switches（/switches）／Access Points／Wireless Dongles** 与 **Refurbished Routers**，另有 IP 电话/耳机/ATA/Teams 设备，并售卖 **MTCNA（MikroTik 认证培训）** → 小型网络/语音服务商的设备商城，含交换机品类 → 人工定级升A。 证据：[1](https://store.voicehost.co.uk/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-554
+  - 保留原文：VoiceHost Store；**IP Networking**：Routers／**Switches**／Access Points／Wireless Dongles；**Refurbished**：Refurbished Routers／Refurbished Phones；IP Phones & Headsets：Desk Phones／Conference Phones／Headsets／Microsoft Teams Devices／Telephone Adapters (ATA)；Offers and Services: SPECIAL OFFERS／Snom-as-a-Service (Leasing)／Device Provisioning Service／**MTCNA**
+  - [1](https://store.voicehost.co.uk/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-555"></a>
+## A-555 · broadbandbuyer.com · 英国
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-521`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：broadbandbuyer.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[123]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：01908 760795 / info@broadbandbuyer.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛21】官网核对：broadbandbuyer（英国，info@broadbandbuyer.com，01908 760795）自述 **«Experts in networks. Your go-to distributor for class-leading network technologies»**；首页推荐类目含 **Gigabit Switches（/store/gigabit-switches/）**、WiFi APs、WiFi Routers、Firewalls、VoIP Phones、IP Cameras、Ethernet Cables；品牌合作含 Ubiquiti（**UK Distributor & Master Reseller**）、DrayTek、NETGEAR、TP-Link、Ruijie Reyee、Zyxel、Hikvision、Yealink、WatchGuard；促销页设 **TRADE ONLY 免费培训**（贸易客户）→ 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://www.broadbandbuyer.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-555
+  - 保留原文：Experts in networks. Your go-to distributor for class-leading network technologies.；WiFi Access Points／**Gigabit Switches**／Network Storage／WiFi Routers／Cyber Security／VoIP Phones／IP Cameras／Ethernet Cables；Key technology partners: Ruijie by Reyee／Hikvision UK Authorised Distributor／NETGEAR／**Ubiquiti Networks - UK Distributor & Master Reseller**／DrayTek Official Distributor／QNAP／WatchGuard／Yealink／Synology；TRADE ONLY: Free Training Sessions Available to Trade Customers
+  - [1](https://www.broadbandbuyer.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-556"></a>
+## A-556 · Lextron B.V. · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-531`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：ORing经销商名录/2026-09
+- 官网线索（不自动背书其他字段）：lextron.nl
+- 精确同名同国别首次入库提交：`c3fa7c73c80af7edd0957c8a2d77d7a303a6f5a3`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[124]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@lextron.nl；+31 162 220229；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛22】官网核对：Lextron B.V.（荷兰）自述 **«Specialist in Industrial Computers & Communication»**、«innovative company that provides both high quality generic industrial computers and networking products as 100% custom build solutions»；Industrial Networking **145 款**（含 **Ethernet Switch 109 款**、Smart Grid IEC-61850、Railway Series、Card-type Ethernet Switch、Media Converter 22 款、Fiber By-Pass Switch），展示页含 **ORing PROFINET CC-B 认证工业交换机**横幅、26 口托管千兆 PoE 交换机；工业计算 39 款/面板机/IPC 等（Vecow AI BOX、Intel 技术伙伴） → 交换机品类+工业网络专营 → 人工定级升A。 证据：[1](https://www.lextron.nl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-556
+  - 保留原文：Lextron | Industrial Computing and Networking Solutions；Industrial Networking (145)：**Ethernet Switch (109)**／Smart Grid IEC-61850 (1)／Wireless (2)／Railway Series (3)／Media Converter (22)／Fiber By Pass Switch (1)／Device Server (1)／Card-type Ethernet Switch (4)／Ethernet Extenders (2)；Specialist in Industrial Computers & Communication：…networking products as **100% custom build solutions**；ORing Introduces Industrial Ethernet Switches with PROFINET CC-B Certification；Industrial 26-port managed Gigabit PoE Ethernet switch
+  - [1](https://www.lextron.nl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-557"></a>
+## A-557 · Routershop.nl · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-537`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：routershop.nl
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[125]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：030 669 14222 / info@routershop.nl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛22】官网核对：Routershop（荷兰）自述 **«De router en switch specialist van Nederland met ruim 20 jaar ervaring»**（20+ 年路由与交换机专营）；类目含 **Netwerk switches（5/8/12/16/24/48 口、PoE switches、10GE switches、Cisco Catalyst、Switch licenties）**、Glasvezel switches、Routers/4G-5G/Firewalls/WiFi/Patchkasten/UPS，Bekabeling 含 SFP modules/DAC/Media converters；提供 **Offerte aanvragen（询价）**与 Professional Services → 交换机专营网店 → 人工定级升A。 证据：[1](https://www.routershop.nl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-557
+  - 保留原文：Routershop - De **router en switch specialist** van Nederland met ruim 20 jaar ervaring；Producten: Routers／Modems／4G en 5G／Firewalls／**Netwerk switches**（Alle Netwerk switches／5 poort／8 poort／12 poorten／16 poort／24 poort／48 poort／**PoE switches**／**10GE switches**／Cisco Catalyst／Switch licenties）／WiFi／Glasvezel（Glasvezel switches）／Bekabeling（SFP modules／DAC kabels／Media converters）／UPS noodstroom／Patchkasten；Offerte aanvragen；Professional Services
+  - [1](https://www.routershop.nl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-558"></a>
+## A-558 · SDC Group · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-538`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sdcgroup.nl
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[126]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+31 314 371 111 / verkoop@sdcgroup.nl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛22】官网核对：SDC Group（sdcgroup.nl → sdc.nl，荷兰）自述 **«SDC.nl Jouw ICT-Distributeur»**、30+ 年 ICT 分销、«Voor 17.00 uur besteld, morgen in huis» 与 24/7 支持台、Partner Event 与 Academy 培训；一级品牌横幅含 **Ubiquiti／TP-Link／MikroTik／Grandstream／Gigaset**，首页主类目含 **Switches（/categorie/153/switches.html）**、Access points、Firewalls、Smart Building；在售 MikroTik hAP ax3、Ubiquiti U7 Pro 等 → 交换机品类+网络专营 ICT 分销 → 人工定级升A。 证据：[1](https://sdc.nl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-558
+  - 保留原文：SDC.nl Jouw ICT-Distributeur；Voor 17.00 uur besteld, morgen in huis／24/7 support desk／Ruim 30 jaar ervaring；Merkbanners: Gigaset Pro／**Ubiquiti**／**TP-Link**／**Mikrotik**／Grandstream；Onze top categorieën: Dect-Telefonie／Access points／**Switches**／Smart Building／Firewalls／Bureautoestellen；Bestsellers: Grandstream GCC6020 firewall／TP-Link Omada EAP773／**MikroTik hAP ax3**／Ubiquiti UniFi U7 Pro
+  - [1](https://sdc.nl/)
+  - [2](https://sdc.nl/categorie/153/switches.html)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-559"></a>
+## A-559 · Wimood（wimoodshop.nl） · 荷兰
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-540`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：wimoodshop.nl
+- 精确同名同国别首次入库提交：`d9c7715a3bf3e8447e7f7c877c2f59f84d19c032`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[127]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+31 187 82 0204 / info@wimood.nl；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛22】官网核对：Wimood（wimoodshop.nl，荷兰）自述 **«Draadloze datacommunicatie»**，主要品牌 **Ubiquiti／MikroTik／Cambium／Alta Labs**（另有 Shelly、NetAlly 网络测试仪、Ubiquiti CyberSecure）；**Reseller 招募**（«Ben je nog geen klant? Profiteer van de vele voordelen en word reseller!»）；在售 **UniFi Switch Flex 2.5G €201.50**、**Enterprise Campus 24 PoE（1050W PoE 预算）€2,426**；主类目含 **UniFi Switching & Routing**、Routers、Access Points；当日下午 17:30 前下单当日发运、Ubiquiti & MikroTik 两年保 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://www.wimoodshop.nl/nl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-559
+  - 保留原文：Wimood - Draadloze datacommunicatie；Onze belangrijkste merken: **Ubiquiti／MikroTik／Cambium**；Ben je nog geen klant? Profiteer van de vele voordelen en **word reseller**!；Uitgelichte producten: **UniFi Switch Flex 2.5G - 8 poort** € 201,50／**Enterprise Campus 24 PoE, 1050W PoE budget** € 2.426,00／hAP ax S € 62,30；Meest bekeken categorieën: UniFi Access Points／**UniFi Switching & Routing**／Routers；Voor 17:30 uur besteld, dezelfde werkdag verzonden
+  - [1](https://www.wimoodshop.nl/nl/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-560"></a>
+## A-560 · Bruno Caiola Ricardo / Sinaltech · 葡萄牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-543`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：sinaltech.pt
+- 精确同名同国别首次入库提交：`fa7365a124b26d78c5ad5c238d8ef5d68247e690`。
+- 本地原始批次：`batch/be_pt_ie.json / item[3]`
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[128]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+351 931 048 461 / bruno.ricardo@sinaltech.pt；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛26·重试复核】官网核对：Sinaltech（葡萄牙，葡萄牙，十余年 ICT 集成商，联系人 Bruno Caiola Ricardo）业务范围含 **«Implementação de Soluções de Comunicações e Segurança»：Routing／Switching／Unified Communications／Wi-Fi／LAN-WAN／Segurança／Telefonia IP／Videoconferência**，另有网络/系统运维管理（Gestão e Operação de Redes e Sistemas）、结构化布线/数据中心/机房（Infraestruturas e Soluções Horizontais）；品牌合作方含 **Mikrotik**、Cisco、Juniper、Aruba、Huawei、Unify、Ekahau、Teldat → 交换/Routing 为核心业务的网络集成商 → 人工定级升A。 证据：[1](https://www.sinaltech.pt/pt/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-560
+  - 保留原文：Home | Sinaltech — „Competência Técnica aliada a um Serviço de Excelência… Parceiro certo para o apoiar na Transformação Digital“；Áreas de Negócio → **Implementação de Soluções de Comunicações e Segurança：Routing／Switching／Unified Communications／Wi-Fi／LAN/WAN／Segurança／Telefonia IP／Videoconferência／Infraestruturas**；Serviços de Suporte…（Gestão e Operação de Redes e Sistemas／Helpdesk／Manutenção）；Infraestruturas e Soluções Horizontais（Cablagens e Redes Estruturadas／Salas Técnicas／Data Centers）；Parceiros: NOS／Huawei／Cisco／Teldat／Ekahau／Yealink／**Mikrotik**／Unify／Juniper／Veeam／ESET／Aruba
+  - [1](https://www.sinaltech.pt/pt/)
+  - [2](https://www.sinaltech.pt/pt/areas-de-negocio)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-561"></a>
+## A-561 · Officelan · 葡萄牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-546`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：shop.officelan.pt
+- 精确同名同国别首次入库提交：`9762783e894d39f512c3032ac6ed712fdb907ef7`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[129]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+351 232 186 575 / comercial@officelan.pt；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：Officelan（葡萄牙，comercial@officelan.p…，+351 232 186 575）自述 **«Distribuidor de Redes, Fibra Ótica e CCTV»**（网络/光纤/CCTV 分销商）；网络通信类共 **781 款**，一级子类含 **Switches（/collections/redes-e-comunicacoes-switches）**、Pontos de Acesso、Routers-Cabo/Wi-Fi、Controladoras de Rede、VoIP、Servidores，并可按 **PoE 预算/SFP/SFP+/QSFP/QSFP28 端口数**筛选；品牌 MikroTik(84)/Ubiquiti(186)/Huawei(105)/TP-Link(154)/Grandstream(96)/Teltonika(39)/Alta Labs(12)/Mercusys(77)，在售 MikroTik wAP ax LTE7 kit、Ubiquiti UDR 5G Max 等 → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://shop.officelan.pt/collections/redes-e-comunicacoes)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-561
+  - 保留原文：Officelan | Distribuidor de Redes, Fibra Ótica e CCTV；Catálogo（781 produtos）：Pontos de Acesso／Routers - Cabo／Routers - Wi-Fi／**Switches**／Controladoras de Rede／VoIP／Repetidores／Servidores；Marca: Alta Labs(12)／Cudy(16)／Grandstream(96)／Huawei(105)／Lanberg(9)／Mercusys(77)／**MikroTik(84)**／Sirio Antenne(1)／Teltonika(39)／TP-Link(154)／**Ubiquiti(186)**／Yealink(1)；PoE Budget／SFP／SFP+／QSFP／SFP28 端口筛选；Portes oferta em encomendas acima de 75€
+  - [1](https://shop.officelan.pt/collections/redes-e-comunicacoes)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-562"></a>
+## A-562 · CiudadWireless · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-552`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ciudadwireless.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[130]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+34 91 060 97 21 / info@ciudadwireless.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：CiudadWireless（西班牙，info@ciudadwireless.c…，+34 91 060 97 21）为**无线/网络专营网店+分销**：一级类目 Wireless、Antenas、**Networking**、VoIP、Videovigilancia、Seguridad、Domótica、Movilidad、Informática、Recambios、Formación；制造/代理品牌墙含 **MikroTik、Ubiquiti、Cambium、TP-Link(Reyee)、Huawei eKit、Aruba、Cisco/Meraki、Netgear、Planet、Lancom、Zyxel、DrayTek、Tenda/Mercusys、Lantech** 等，且有自有品牌 **eRize**（含 «eRize - Switche…» 交换机线） → 交换机品类+网络专营分销/自有品牌运营 → 人工定级升A。 证据：[1](https://www.ciudadwireless.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-562
+  - 保留原文：CiudadWireless - Tienda Wifi / Wireless…Networking…Mikrotik, Ubiquiti, Huawei, Grandstream, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Tenda；Categorias: Wireless／Antenas／**Networking**／VoIP y telefonía／Videovigilancia／Seguridad y Prevención／Domótica／Movilidad／Informática／Recambios／Formación；Fabricantes（节选）: Cambium／Cisco／D-Link／Huawei eKit／Lancom／Lantech／**MikroTik**／Netgear／Planet／TP-Link／**Ubiquiti**／Zyxel／**eRize - Switche..**
+  - [1](https://www.ciudadwireless.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-563"></a>
+## A-563 · DITECAL S.L · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-553`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：tienda.ditecal.es
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[131]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+34 953 004 850 / pedidos@ditecal.es；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：Ditecal S.L（西班牙 Sevilla，pedidos@ditecal.es，953 004 850）自述 **«Tienda Online Proveedor telecomunicaciones»**，专营 **MikroTik（「Productos Mikrotik en stock」轮播）** + ISP/电信物料；在售 **RG-ES108GD 8 口千兆交换机 50,40 €**、**RG-ES209GC-P 8 口 PoE 千兆交换机 190,27 €**，另有天线（Cyberbajt/SRA/Itelite）、ONT（Huawei/RX8414CDW）、HSNM 热点管理与 **MikroTik 认证培训**；专业客户注册价 → 交换机品类+网络专营 → 人工定级升A。 证据：[1](https://tienda.ditecal.es/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-563
+  - 保留原文：Ditecal S.L — Tienda Online Proveedor telecomunicaciones；轮播: **Productos Mikrotik en stock**（RB5009UG+S+IN）／HUAWEI EG8145V5 GPON ONT；**RG-ES108GD Switch Reyee sobremesa 8P 10/100/1000 Mbps - Carcasa Metal 50,40 €**／**RG-ES209GC-P Switch Reyee 8p PoE Gigabit + 1 Uplink Rj45 Gigabit 190,27 €**；HSNM Hotspot manager；Formación MikroTik: Cursos de Certificación；Obtenga Grandes Descuentos. Tarifas para Profesionales.
+  - [1](https://tienda.ditecal.es/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-564"></a>
+## A-564 · Instant Byte S.L. · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-562`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：instantbyte.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[132]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+34 91 084 10 11 / comercial@instantbyte.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：Instant Byte S.L.（西班牙，comercial@instantbyte…，+34 91 084 10 11）为**无线/网络专营批发商（Mayorista Wifi…）**：一级类目 Wireless、Antenas、**Networking**、VoIP、Videovigilancia、Seguridad、Domótica、Informática、Recambios、Formación；品牌墙含 MikroTik/Ubiquiti/Cambium/TP-Link(Reyee)/Huawei eKit/Aruba/Cisco/Meraki/Netgear/Planet/Lancom/Lantech/**,«eRize - Switche..»** 等；页脚设 **«Alta de distribuidores»（经销商注册）** → 交换机品类+网络专营批发 → 人工定级升A。（注：与 B-460 CiudadWireless 栏目结构与品牌墙高度相似，疑同源/同平台，未做合并，仅记录线索。） 证据：[1](https://www.instantbyte.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-564
+  - 保留原文：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas…Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Tenda；Categorias: Wireless／Antenas／**Networking**／VoIP y telefonía／Videovigilancia／Domótica／Informática；Fabricantes（节选）: Cambium／Cisco／Huawei eKit／Lantech／**MikroTik**／Planet／TP-Link／**Ubiquiti**／Reyee／**eRize - Switche..**；Información: **Alta de distribuidores**／Contactenos
+  - [1](https://www.instantbyte.com/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-565"></a>
+## A-565 · LAUFQUEN COMUNICACIONES · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-568`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：es.laufquen.com
+- 精确同名同国别首次入库提交：`3c141469e37f6a77612a29bec6c6522b7bf7902e`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[133]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+34 91 599 8115 / fernando.novoa@laufquen.com；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：LAUFQUEN（es.laufquen.com，fernando.novoa@laufque…，+34 91 599 8115）为 **Ubiquiti/MikroTik/GLC 光纤** 专营分销 + 自营商城；商城在售 **UniFi Pro 48 PoE（USW-PRO-48-POE）935,38 €**、**Pro 24 PoE 594,86 €**、**Standard 16 PoE 257,53 €**、**USW-AGGREGATION**、**MikroTik CRS326-24G-2S+RM 152,43 €**、hAP ax lite LTE6 kit；商城顶部设 **「¿Sos ISP, Integrador o Revendedor? …registrate como profesional」专业客户/经销商注册** → 交换机品类+网络专营分销 → 人工定级升A。 证据：[1](https://es.laufquen.com/en/shop)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-565
+  - 保留原文：Tienda Online | Laufquen；**¿Sos ISP, Integrador o Revendedor?** Completa el siguiente formulario para registrarte como profesional y accedé a beneficios exclusivos；Shop: **[USW-PRO-48-POE] Pro 48 POE 935.38 €**／[USW-PRO-24-POE] Pro 24 PoE 594.86 €／[USW-16-POE] Standard 16 PoE 257.53 €／[USW-AGGREGATION] Aggregation／**[CRS326-24G-2S+RM] Cloud Router Switch 152.43 €**／[NBE-5AC-GEN2] NanoBeam；Home: Meet Ubiquiti／Discover MikroTik／GLC（Leading Fiber Optic Technology）
+  - [1](https://es.laufquen.com/en/shop)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-566"></a>
+## A-566 · Leadernet Sistemas Telec · 西班牙
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-569`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：leadernet.es
+- 精确同名同国别首次入库提交：`a613a70d3a940fb1f529a51afe8d9fe8095f6178`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[134]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：info@leadernet.es（官网正文/隐私条款）；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：Grupo Leadernet（西班牙，1992 年起；info@leadernet.es）自述 **«grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y seguridad electrónica»**（工业通信网络与电子安防的供应/安装/调试/维护），主业为风电/光伏/光热电站；明确 **«Suministro de electrónica de red: switches, routers, conversores de medio»**、«Suministro e instalación de la red de comunicaciones: switches; routers; fibra óptica MM, SM, HCS; bus serie 485; Profibus y Profinet»，并提供 Cisco 咨询支持；8 国设点、100+ 人员、1000+ 项目 → 工业网络专营集成/供货（含交换机） → 人工定级升A（注：项目型大盘，决策链偏长）。 证据：[1](https://www.leadernet.es/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-566
+  - 保留原文：Leadernet — Always innovating since 1992；Somos el Grupo Leadernet. Un grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y seguridad electrónica…；REDES DE COMUNICACIÓN LAN：**Suministro de electrónica de red: switches, routers, conversores de medio**；Suministro e instalación de la red de comunicaciones: **switches**; routers; fibra óptica MM, SM, HCS; bus serie 485; Profibus y Profinet y conversores de medios；Servicio de Consultoría y soporte técnico de Cisco；50 países／100 profesionales／8 países con sede
+  - [1](https://www.leadernet.es/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="A-567"></a>
+## A-567 · RIDMONT D.O.O. · 黑山
+
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-584`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：ridmont.me
+- 精确同名同国别首次入库提交：`a74ab8fa01a9aeee3020dbdbd4484a7cc808f627`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 联系方式证据记录：`batch/contact_research_2026-09-28_R53_B复筛升级.json` → `records[135]`；记录日期 2026-09-28；来源等级 `official-company`。
+  - 公开邮箱：+382 67 335 148 / info@ridmont.me；投递未测试。
+  - 说明：【2026-09-28 R53 B段复筛23】官网核对：RIDMONT Communications（黑山）为网络设备网店 + **B2B 门户**（«B2B portal, popusti za projekte / Izvodjenje instalacija i održavanje»，满 300€ 免运费）：首页轮播含 **Teltonika TSW200 工业交换机** 与 **Extralink Ares 16x Gigabit PoE PoE 交换机**，在售 Ubiquiti UK-Ultra 98.54 €／U7-PRO 251.53 €、**MikroTik L009UiGS-RM 129.68 €**、Extralink 机柜/Cat.6 跳线（**自有/区域品牌 Extralink**）等 → 交换机产品+网络专营分销（B2B 项目价） → 人工定级升A。 证据：[1](https://ridmont.me/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-567
+  - 保留原文：RIDMONT Communications；Besplatna dostava（Za narudžbe preko 300€）／Garantujemo kvalitet（Provjereni brendovi）／**B2B portal, popusti za projekte**；Slider: **Teltonika TSW200**（/artikli/teltonika-tsw200）／**Extralink Switch Crna Gora — Extralink Ares 16x Gigabit PoE PoE Switch**（/artikli/extralink-ares-16x-gigabit-poe-poe-switch）／Teltonika RUT955；Novo: MikroTik L009UiGS-RM 129.68 €／Ubiquiti U7-PRO 251.53 €／Ubiquiti UK-Ultra 98.54 €；ExtraLink Cat.6 FTP 跳线／Extralink 9U 机柜
+  - [1](https://ridmont.me/)
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
