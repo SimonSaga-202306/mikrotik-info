@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `822222e1e0fe` | 2026-09-28T01:19:53+00:00 | R49: backfill A-044/A-046 mailboxes, return 23 C rows to B, rescreen batch 2 |
 | `a61a014ea753` | 2026-09-27T16:47:41+00:00 | Refresh audit index after R48 commit |
 | `f956765ea0c3` | 2026-09-27T16:47:38+00:00 | Rescreen B/C batch 1: promote six verified switch channels to A-379-A-384 |
 | `f974d9cda458` | 2026-09-27T16:13:24+00:00 | Refresh audit index after R47 commit |
