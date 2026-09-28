@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | vodenn.fr/swos 专页 → SwOS 机型主推者，最懂你的对标产品 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | La Farlède |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`LT-S8328XG-4XS8GT-S`
+参考型号：`STC-48DGGM-U（Saga）`
 
 ## 六、注意点
 

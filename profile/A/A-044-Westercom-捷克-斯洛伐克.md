@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Silver） |
 | 反向信号 | Westermo, B+B SmartWorx |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 同时代理 Westermo 与 B+B SmartWorx → 典型多品牌工业分销 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 已验证：站内还在卖 B+B SmartWorx 全线 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用；【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。站点有 Advantech EKI 工业以太网设备专区，共 440 个型号、153 个现货，含 EKI-2528-BE（€103）、EKI-5528I-AE（€160）、EKI-7712G-4FPI-BE（€298）、EKI-7720G-4FI-BU（€1,144）等，标价为中欧行情参考。；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。捷克与斯洛伐克双国 **Silver 分销商**（Westermo 渠道第二等级）。 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /cs/kontakt 正文可见：eshop@westercom.eu。westercom.eu /cs/kontakt：eshop@westercom.eu；Na okraji 42, 162 00 Praha 6；IČO 03591689；站内电话 +420 607 550 014（与原字段 +420 603 509 790 不一致，均保留） 未发送邮件、未提交表单。 证据：[1](https://www.westercom.eu/cs/kontakt)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-044 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（安防/轨道站台的商用段位补充）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他的工业线强项在苛刻场景，但 CVBS 级的站台/机房 24 口 PoE++ 段位他靠高价工业款硬填——用同规格对照把成本差摆上桌。
 - **要问的问题**：站台/机房的常规 24 口 PoE 你们现在用哪个段位、价差敏感吗？
 - **随附证明**：规格-价格对照表（英/捷）+ 宽温报告。
 
 ### 第 2 次跟进 · 工业非管理 PoE（变电站/轨旁箱体）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：对着他的变电站叙述切：DIN、宽温宽压、免配置单机型，能做他 Westermo 之外的第二来源试换。
 - **要问的问题**：轨旁/变电站箱体设备你们的供货周期如何、是否需要第二来源备份？
 - **随附证明**：一台测试机（-40~75°C）+ DIN 装配方案 + 反向防护说明。
 
 ### 第 3 次跟进 · 管理型 + 项目注册报价体系
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：建立项目联动机制：轨道交通/能源投标项目注册后，我们给直通报价与交期承诺，ERPS/冗余让方案对得上他们的技术标。
 - **要问的问题**：下一个轨道交通/能源标什么时候开标、技术标里的冗余协议怎么写？
 - **随附证明**：ERPS <50ms 收敛实测（英文）+ 项目注册与价格保护条款页。
@@ -142,7 +142,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 伊利诺伊 【2026-09-28 R53 B段复筛达标升级】官网核对：WAV, Inc.（美国，自述 **«Top Wireless Equipment Distributor For WISP & ISP»**）为**有线/无线设备专业分销**：«From private LTE to fixed wireless broadband, **network switches**, Wi-Fi, and fiber»，$25M+ 常备库存 / 70,000+ SKU / 10,000+ 客户 / 35+ 年；首页轮播 **RUCKUS Full Speed Switching Promo**，方案页含 Networking and Wi-Fi、Fiber、Fixed Wireless Access，与 Tarana/Cambium/Cyclone 等 WiSP 品牌深度合作。原 B-391 → 现 A-546，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.wavonline.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-546 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XG-4XS8GT`
+初判可参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

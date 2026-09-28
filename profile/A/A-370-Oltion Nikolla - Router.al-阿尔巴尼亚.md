@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 域名 **router.al**（阿尔巴尼亚国别域名做 MikroTik 生意）；资深网络工程师与 IT 顾问，**业务覆盖整个巴尔干地区与国际**；核心专长明确含「**复杂路由与交换：BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多 WAN 负载均衡**」；高密度 Wi-Fi、CAPsMAN、Asterisk/VoIP 集成；服务含 ISP/WISP 建网与企业 IT 外包 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Oltion Nikolla（Tirana, Albania）：电话+355695250949、邮箱oltionnikolla@gmail.com、站点router.al；条目列MTCNA、MTCRE，自述资深网络工程师与IT顾问、服务覆盖巴尔干地区与国际，核心专长含复杂路由与交换（BGP、OSPF、MPLS/VPLS、VLAN Filtering、RSTP/MSTP、多WAN负载均衡）、高密度Wi-Fi与CAPsMAN、Asterisk/VoIP集成、ISP/WISP建网——与本行原备注一致。公司站另见admin@router.al（次级入口）。CSV城市Tirana与名录一致，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) [2](https://router.al/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-370 |
@@ -48,9 +48,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -90,7 +90,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

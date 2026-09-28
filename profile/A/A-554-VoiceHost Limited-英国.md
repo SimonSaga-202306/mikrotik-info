@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Norwich 【2026-09-28 R53 B段复筛达标升级】官网核对：VoiceHost（英国，0345 561 0561，support@voicehost.co.uk）为托管 PBX/VoIP 服务商并自营硬件商城：一级目录含 **IP Networking：Routers／Switches（/switches）／Access Points／Wireless Dongles** 与 **Refurbished Routers**，另有 IP 电话/耳机/ATA/Teams 设备，并售卖 **MTCNA（MikroTik 认证培训）**。原 B-427 → 现 A-554，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://store.voicehost.co.uk/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-554 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XG-4XS8GT`
+初判可参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

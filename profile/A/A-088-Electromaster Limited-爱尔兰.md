@@ -21,7 +21,7 @@
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
 | 原备注 | Perle 授权分销商。 【2026-09-27 挖邮箱】Golden Pages 与 HiFi 名录均收录；都柏林 Tallaght |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -86,25 +86,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 存续核实 + 工业 PoE 价位段试探
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：先电话确认公司是否仍在正常经营；若活，按 Perle 同规格价差递一页资料。
 - **要问的问题**：（电话）还在做工业联网类分销吗？
 - **随附证明**：一页规格单（英文）+ 同规格对照。
 
 ### 第 2 次跟进 · 4 口工业 PoE（楼宇安装配套）
 
-- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **推什么**：STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）
 - **切入点**：楼宇安装项目的零散 PoE 点位：4 口小机随项目配套，低起订混批低风险试单。
 - **要问的问题**：楼宇项目的 PoE 补充件现在哪个渠道拿？
 - **随附证明**：混批价目 + 宽温报告。
 
 ### 第 3 次跟进 · 管理型 10G（项目段扩展）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：若试单走通再谈管理型与项目注册；走不通即标记归档。
 - **要问的问题**：有没有整层/整栋网络段的配套机会？
 - **随附证明**：项目注册政策 + VLAN/ERPS 模板。
@@ -135,7 +135,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

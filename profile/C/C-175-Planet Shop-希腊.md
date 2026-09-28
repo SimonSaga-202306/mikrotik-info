@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET（台厂工业/商用交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 希腊区域授权经销商，专营 PLANET 全系（含工业 L2+/L3 与 48 口 PoE）；希腊是我们 A 级最密集市场之一 |
 | 数据来源 | PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】planet-shop.gr 自称 Region Authorized Reseller，在售 PLANET ITS-6326（M12/铁路）、SGS-6310-48T6X、IGS-10020HPT 等工业与商用型号。 |

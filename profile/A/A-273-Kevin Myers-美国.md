@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCNA MTCRE MTCTCE MTCUME MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 【2026-09-27 A260–A279联络核验】来源等级：official-company-historical-named。IP ArchiTechs现官网联系页正文给consulting@iparchitechs.com（原样含空格，mailto同），电话+1 (855) 645-7684；2016年MikroTik官方MUM PDF列出Kevin Myers职务与kevin.myers@iparchitechs.com、办公室(303) 590-9943，属历史具名证据，不作现直邮。LinkedIn显示其2024年起在StubArea51.net。库内C-131 Samson Kamwendo / IP Architechs为相关实体记录，仅关联。 证据：[1](https://iparchitechs.com/contact-ip-architechs/) [2](https://mum.mikrotik.com/presentations/US16/presentation_3327_1462279781.pdf) [3](https://www.linkedin.com/in/ipv6-kevin-myers/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-273 |
@@ -52,7 +52,7 @@
 
 **先给样机，不做型号推销**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,18 +97,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 白盒接入层评估机（参考设计用）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）评估机
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）评估机
 - **切入点**：尊重其中立身份的一封：贵司以 commodity hardware+验证设计模板降客户成本——提供一台 24 口 PoE++ L2+ 评估机供参考设计测试，不谈渠道/返点。
 - **要问的问题**：你们的接入层参考设计里有评估新硬件位置的流程吗？
 - **随附证明**：一页规格 + 配置参考（VLAN/ERPS/MLAG 能力清单）。
 
 ### 第 2 次跟进 · WISP/ISP 场景的工业宽温件
 
-- **推什么**：LT-IS6310G-2GX8GT / LT-IS6312G-4GX8GT（ERPS）
+- **推什么**：STI-280GE（Saga） / STI-480DGGM（Saga）（ERPS）
 - **切入点**：其 WISP/ISP 客户场景的宽温接入/环网件参数包（供设计引用）。
 - **要问的问题**：WISP 客户站点场景的宽温件参数要不要入库备用？
 - **随附证明**：工业件参数包 + 环网配置示例。
@@ -146,7 +146,7 @@ Where we may be useful: Managed access switching in both commercial and DIN-rail
 
 Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

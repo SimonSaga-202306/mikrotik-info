@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCTCE MTCSE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | Infiniti。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（克罗地亚筛选）列Ivan Jezerinac / Infiniti（Cakovec, Croatia）：MTCNA、MTCRE、MTCTCE、MTCEWE（4项，无MTCSWE），电话385916545467、邮箱ivan.jezerinac@infiniti.hr、站点infiniti.hr；公司站联系页给ivan.jezerinac@infiniti.hr与trening@infiniti.hr、+385 91 654 5467，并载Ivan Jezerinac, mag.inf.为MikroTik与Ubiquiti认证讲师、Infiniti Networking Academy（自2012年教学；课程单含MTCSWE及Ubiquiti UEWA/UBWS/UBWA/UBRSS/UBRSA）。与本行原备注“Infiniti”一致；原电话+385 91 6545467保留。CSV城市Cakovec与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Croatia&category=training) [2](https://infiniti.hr/kontakt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-377 |
@@ -47,7 +47,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -75,7 +75,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

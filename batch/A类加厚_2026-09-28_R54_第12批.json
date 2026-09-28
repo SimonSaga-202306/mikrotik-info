@@ -3,7 +3,7 @@
  "round": "R54",
  "batch": 12,
  "scope": "A 类深度加厚 + 3 步跟进计划（第 12 批：A-221–A-240；奥4/瑞3/波3/德2/匈2 + 荷/捷/挪/葡/瑞典/爱各1）。",
- "method": "fetch_page 全库 20 户官网/商城/联系页（2026-09-28）：young.hu HTTP 500 与 satelithuset.se 双协议失败实锤入档（失联户第一步人工核实）；A-227 KNT 候选站 knt.biz.pl 法定名逐字一致但站点总部 Warszawa 与 CSV 城市 Olsztyn 不符——桥接留人工终审、邮箱标注同站官方正文+主体待终审层级；公立/公立关联段划出：SABEL utilities 面、Salzgeber 学校 CO2+公立场馆案例、FIVE 的 SUVA/市立养老基金客户墙、KNT 联系页公立机构自述、Infinite 的 Fiscal Advisory Council 等公立客户、FMS 的 öffentliche Auftraggeber/Stadtwerke 面、Stovaris 医疗影像板块、Nomios 关键基础设施面；Allied 生态深绑户不置位：SABEL（Allied 牌 01 同架 CTC Union）走同品类毛利第二来源、Localnet 类深绑逻辑沿用；MTCSWE 培训师/顾问五户（A-235/236/237/239/240）按教师身份尊重打法：只谈本人工程/演示硬件、不打学员名单、不提替代 MikroTik；Varia（用户 2026-09-23 裁决保留、Vitesse 圈外标签在档）只做分销上架与白标履约互补；失联/弱线索户（A-227 桥接待审/A-233 站 500/A-236 站不可达）第一步设人工核实、不进群发不发历史邮箱；型号以 LT-S8328GP-4GX24GT-S（24 口 PoE++）+LT-S8328XGP-4XS24GT-S（万兆上联）+LT-IS6306G/LT-IS6310G（工业非管理）+LT-IS6312G/IS6312XG（工业管理，ERPS）+LT-S8528XG（高密度）为三轮话术阶梯。",
+ "method": "fetch_page 全库 20 户官网/商城/联系页（2026-09-28）：young.hu HTTP 500 与 satelithuset.se 双协议失败实锤入档（失联户第一步人工核实）；A-227 KNT 候选站 knt.biz.pl 法定名逐字一致但站点总部 Warszawa 与 CSV 城市 Olsztyn 不符——桥接留人工终审、邮箱标注同站官方正文+主体待终审层级；公立/公立关联段划出：SABEL utilities 面、Salzgeber 学校 CO2+公立场馆案例、FIVE 的 SUVA/市立养老基金客户墙、KNT 联系页公立机构自述、Infinite 的 Fiscal Advisory Council 等公立客户、FMS 的 öffentliche Auftraggeber/Stadtwerke 面、Stovaris 医疗影像板块、Nomios 关键基础设施面；Allied 生态深绑户不置位：SABEL（Allied 牌 01 同架 CTC Union）走同品类毛利第二来源、Localnet 类深绑逻辑沿用；MTCSWE 培训师/顾问五户（A-235/236/237/239/240）按教师身份尊重打法：只谈本人工程/演示硬件、不打学员名单、不提替代 MikroTik；Varia（用户 2026-09-23 裁决保留、Vitesse 圈外标签在档）只做分销上架与白标履约互补；失联/弱线索户（A-227 桥接待审/A-233 站 500/A-236 站不可达）第一步设人工核实、不进群发不发历史邮箱；型号以 STC-424DGGPM-440W（Saga）（24 口 PoE++）+STC-424XGGPM-440W（Saga）（万兆上联）+STI-240GE（Saga）/STI-280GE（Saga）（工业非管理）+STI-480DGGM（Saga）/IS6312XG（工业管理，ERPS）+STI-4240XGGM（Saga）（高密度）为三轮话术阶梯。",
  "records": [
   {
    "code": "A-221",
@@ -54,7 +54,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 呼应 WiFi 管理热题 + PoE 接入层",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其一月 WiFi 管理专题：托管 WiFi 背后要稳定的 PoE 接入层——24 口 PoE++ 一台覆盖一层/一仓。",
      "question": "托管 WiFi/办公网项目的接入层现在配什么牌？",
      "proof": "一页报价 + 规格要点（英/荷）。"
@@ -62,7 +62,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 监控/门禁扩展位",
-     "product": "LT-S8328XGP-4XS24GT-S（24×千兆 PoE++ 全万兆上联）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ 全万兆上联）",
      "angle": "摄像头/门禁类项目的高功率 PoE++ 余量与万兆上行版本。",
      "question": "监控/门禁项目单点 30W~90W 供电需求多吗？",
      "proof": "PoE 预算计算表 + 比牌一页（不偏提 Allied）。"
@@ -70,7 +70,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 现场级宽温小件",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
      "angle": "温室园艺/厂房现场环境的宽温非管理小件，Stocking 少量试样。",
      "question": "周边温室/厂房现场有没有 -40~75°C 级需求？",
      "proof": "宽温件一页 + CE/EMC 证书附件。"
@@ -127,7 +127,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 以厂商中立为钩：第二来源短清单",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其 herstellerunabhängig 定位：为贵司的客户方案库提供第二个编译的接入层选项（一页对比，专注供货连续性与交付期）。",
      "question": "你们的方案评估清单里有没有固定接入层备选位？",
      "proof": "一页对比（德/英）+ 交付期与保修条款。"
@@ -135,7 +135,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · Smart Office 安防项目 PoE 位",
-     "product": "LT-S8328XGP-4XS24GT-S（万兆上联通配）",
+     "product": "STC-424XGGPM-440W（Saga）（万兆上联通配）",
      "angle": "Smart Home & Office 安防项目的 PoE 接入层与万兆上行。",
      "question": "Smart Office 安防项目里交换/供电件怎么配？",
      "proof": "PoE 预算表 + 安装手册（德）。"
@@ -143,7 +143,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 培训/实验室小件",
-     "product": "LT-IS6306G-2GX4GT（工业非管理 4×电口 + 2×上联光）",
+     "product": "STI-240GE（Saga）（工业非管理 4×电口 + 2×上联光）",
      "angle": "安全培训/实验室用途的小批量工业件（实物实验比虚拟更直观）。",
      "question": "你们的 Trainings 课程需要可摸的硬件教具吗？",
      "proof": "小批量试单价 + 教具折扣提案。"
@@ -206,7 +206,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 同品类毛利第二来源（工业件对标 CTC 价带）",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
      "angle": "分销口直给：同品类（工业宽温/PoE/收发器）一页 CNY 到岸价对比——补齐缺位 SKU 与毛利改善，不动 Allied 排位。",
      "question": "工业宽温件这块你们现在由 CTC Union 供到什么温度段/价位？",
      "proof": "工业件一页报价（CNY+EUR 到岸）+ 规格一览（英/德）。"
@@ -214,7 +214,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 宽温高功率 PoE++ 缺位件",
-     "product": "LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS 环）",
+     "product": "STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS 环）",
      "angle": "高功率 PoE++（90W/口）与工业 ERPS 环在同品类里常常是缺位 SKU。",
      "question": "客户问 90W/口或工业环网时，现架上有现货吗？",
      "proof": "PoE++ 规格页 + ERPS 配置示例 + CE/EMC。"
@@ -222,7 +222,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 视频安防配套 24 口",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "其「视频安防 IP 安全」服务配套：项目制拿 24 口 PoE 接入层，分销价保护。",
      "question": "视频安防项目的接入层件走项目制还是常备库存？",
      "proof": "项目报价模板 + 分销保护条款 + 培训资料（英）。"
@@ -279,7 +279,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 自研硬件配套：IoT 现场盒宽温小件",
-     "product": "LT-IS6306G-2GX4GT（工业非管理 4×电口 + 2×上联光，宽温 DIN）",
+     "product": "STI-240GE（Saga）（工业非管理 4×电口 + 2×上联光，宽温 DIN）",
      "angle": "给 IoT Profiler/Facility Profiler 现场盒配套：宽温非管理小交换+收发器，量大稳定、可贴中性格式按批补货。",
      "question": "你们的 IoT Profiler 现场盒目前盒内联网件用哪家的？",
      "proof": "盒内配套一页（德）+ 宽温规格 + 阶梯价。"
@@ -287,7 +287,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 楼宇安防项目 24 口 PoE",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "安防技术域的商业楼宇项目：24 口 PoE++ 接入层（监控/门禁/传感一回到位）。",
      "question": "商业楼宇安防项目现在 24 口位配什么？",
      "proof": "一页报价（德/英）+ 防雷/PoE 预算表。"
@@ -295,7 +295,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · AV/机房侧万兆上联与光纤件",
-     "product": "LT-S8328XGP-4XS24GT-S（全万兆上联）+ 收发器/SFP",
+     "product": "STC-424XGGPM-440W（Saga）（全万兆上联）+ 收发器/SFP",
      "angle": "AV 与机房侧的万兆上联与光电转换小件，作为其 IT 解决域的供货补充。",
      "question": "AV/机房侧万兆上联和光电转换常备吗？",
      "proof": "SFP/收发器清单 + 兼容表（英）。"
@@ -343,7 +343,7 @@
     "团队与规模": "电商型小团队（货架明细=品类驱动力）。",
     "决策链与对接人": "info@dds.ch（官网 (at) 可逆，CSV 9-27）。",
     "技术与认证": "Allied Resell（CSV）。",
-    "采购与供应链信号": "**已接受中国工业牌（Kyland 在架）**=第三价格档（Hirschmann>Kyland>SmartByte）补位逻辑直白：更低价带+更快供货。",
+    "采购与供应链信号": "**已接受中国工业牌（Kyland 在架）**=第三价格档（Hirschmann>Kyland>Saga）补位逻辑直白：更低价带+更快供货。",
     "近期动态与线索": "货架扩充型目录商：新品上架=纯商业决策，试单门槛低。",
     "与我方契合点": "工业非管理 5/8 口 PoE+收发器底价档；宽温 DIN 高功率 PoE++（Hirschmann 价带下位）。",
     "风险与注意": "瑞士渠道讲究文件齐：CE/EMC/规格书/保修条款随首封齐件。"
@@ -352,7 +352,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 第三价格档上架提案（工业非管理+收发器）",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）+ 工业收发器系列",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）+ 工业收发器系列",
      "angle": "对照其在架 Kyland 位：同品类再下一档的 CNY 到岸价带，给电商货架一个更快的低价档选项。",
      "question": "工业非管理 PoE 和收发器这块，货架上 Kyland 之下还想补一个更低价带吗？",
      "proof": "工业件一页报价 + CE/EMC 证书 + 对比表（中/英/德）。"
@@ -360,7 +360,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 宽温高功率 PoE++ 与 DIN 附件",
-     "product": "LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）",
+     "product": "STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）",
      "angle": "Hirschmann PoE 型号价带的下位替代：90W/口 PoE++ 宽温管理件+DIN 电源附件。",
      "question": "客户问 90W/口工业件时你们现在指向哪个 SKU？",
      "proof": "PoE++ 规格页 + DIN 配件清单（德/英）。"
@@ -368,7 +368,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型工业万兆环网",
-     "product": "LT-IS6312XG-4XS8GT（工业管理 8×电口 + 4×万兆，ERPS）",
+     "product": "STI-480XGGM（Saga）（工业管理 8×电口 + 4×万兆，ERPS）",
      "angle": "项目制需求的工业 ERPS 环与万兆上联版本，与 Hirschmann Bobcat 位错开价格层。",
      "question": "ERPS 环网项目有报价位需求吗？",
      "proof": "ERPS 配置示例 + 环网白皮书 + 保修条款（英）。"
@@ -431,7 +431,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · KMU 网改接入层第二来源+合规文件齐件",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "给 IT-Services 块的 KMU 网改项目一个文件齐备（CE/EMC/ROHS/保修）的第二来源 24 口 PoE 接入层。",
      "question": "KMU 网改项目里接入层目前固定配哪个牌？有第二来源位吗？",
      "proof": "一页报价+规格（德/英）+ CE/EMC/ROHS 证书包。"
@@ -439,7 +439,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 物流/厂房客户带宽温件",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
      "angle": "KMU 客户里的仓储/厂房现场：宽温非管理小件随项目小批量走。",
      "question": "客户现场有厂房/仓库级宽温环境需求吗？",
      "proof": "宽温件一页 + 现场图集（德）。"
@@ -447,7 +447,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · PoC 演示件+知识转移",
-     "product": "LT-S8328XGP-4XS24GT-S（万兆上联版 PoC 演示机）",
+     "product": "STC-424XGGPM-440W（Saga）（万兆上联版 PoC 演示机）",
      "angle": "借演示机给 60 人服务团队做 PoC，附德语配置速查，降低其培训成本。",
      "question": "要不要留一台演示机给你们服务部跑 PoC？",
      "proof": "演示机条款 + 德语配置速查卡。"
@@ -522,7 +522,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 桥接成立后：硬件供应目录一页（波兰语）",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其「sprzęt komputerowy/rozwiązania sieciowe」目录：24 口 PoE 接入层+供货条件。",
      "question": "网络方案项目里接入层与供电件目前怎么配？",
      "proof": "波兰语一页报价 + 规格要点。"
@@ -530,7 +530,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 现场宽温小件选项",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）",
      "angle": "其客户里的厂房/仓库现场级宽温件。",
      "question": "厂房/仓库现场有宽温级需求吗？",
      "proof": "宽温件一页（波兰语）+ CE。"
@@ -587,7 +587,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · PL 采购口第二来源报价位留档",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
      "angle": "简一封给 PL 分部：工业宽温件的第二来源报价位（含 CE/EMC/保修），不动主牌关系，只为比价留档。",
      "question": "工业宽温件你们 PL 分部现在有第二来源价位吗？",
      "proof": "一页报价（英/波）+ 证书包。"
@@ -595,7 +595,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业安全板块配套宽温件",
-     "product": "LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）",
+     "product": "STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）",
      "angle": "呼应其工业安全证书板块：高功率 PoE++ 与工业 ERPS 管理件作为项目制配套。",
      "question": "工业客户问 PoE++ 或环网时，现在指向哪个型号？",
      "proof": "PoE++/ERPS 两页（英）。"
@@ -603,7 +603,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 办公/NOC 24 口接入层轻提",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "集团内部办公/NOC 的接入层第二来源，简短一页。",
      "question": "内部/客户办公项目接入层有比价位吗？",
      "proof": "24 口一页价卡。"
@@ -660,7 +660,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 网络板块 VAD 上架提案（24 口 PoE）",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "经总机/部门转接给网络品类采买：24 口 PoE 接入层的上架提案（分销条件+培训资料+阶梯回扣）。",
      "question": "网络板块的接入层/PoE 品类现在有开新供应商位吗？",
      "proof": "分销合作一页（波/英）+ 培训资料包。"
@@ -668,7 +668,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业系统板块宽温件",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
      "angle": "呼应其 Systemy przemysłowe i IoT 板块：宽温/防尘级非管理与收发器小件入目录。",
      "question": "工业板块目前宽温交换/收发器由谁供货？",
      "proof": "工业件一页 + CE/EMC（英/波）。"
@@ -676,7 +676,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · TAP/NPB 旁位高密度件",
-     "product": "LT-S8528XG-4XS24GT（24×千兆电 + 4×万兆 高密度 L2+/聚合）",
+     "product": "STC-448XGGM（Saga L3）（24×千兆电 + 4×万兆 高密度 L2+/聚合）",
      "angle": "与 TAP/NPB 品类互补的高密度聚合位（数据中心展语境呼应）。",
      "question": "机房聚合位有没有性价比型号需求？",
      "proof": "高密度一页价卡 + 展会后跟进备注。"
@@ -735,7 +735,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核实后：捷克语简洁一页（运维配套接入层）",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "网络运维外包配套的 24 口 PoE 接入层，一页价卡到位。",
      "question": "运维项目里接入层目前配什么牌？",
      "proof": "捷克语一页报价 + 规格要点。"
@@ -743,7 +743,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 小批量混批+现场小件",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）",
      "angle": "8/24 口混批与现场级小件，试单门槛低。",
      "question": "现场级宽温小件有没有需求？支持小批混批？",
      "proof": "混批阶梯价一页。"
@@ -806,7 +806,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 严酷环境工业件对口（监控杆/养殖机柜）",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温 DIN）",
      "angle": "给 SpectoWatch 杆与养殖机柜配套：-40~75°C 宽温小交换+PoE++，一箱试样起。",
      "question": "SpectoWatch 杆和渔场机柜里现在用哪个牌子的小交换？",
      "proof": "宽温件一页（英）+ 温度/IP 等级规格 + CNY 到岸价。"
@@ -814,7 +814,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 巡检走廊 ERPS 环网",
-     "product": "LT-IS6312XG-4XS8GT（工业管理 8×电口 + 4×万兆，ERPS）",
+     "product": "STI-480XGGM（Saga）（工业管理 8×电口 + 4×万兆，ERPS）",
      "angle": "渔场/码头多点位的管理型 ERPS 环：断纤自愈+万兆上联视频回传。",
      "question": "多点位视频回传有没有环网/断纤自愈需求？",
      "proof": "ERPS 环网图示一页 + 配置速查（英）。"
@@ -879,7 +879,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · AISENS 式新品牌上架流程+监控 PoE 组合",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "借其 2026-07 接入 AISENS 的先例：询问新连接品类供应商的上架流程，先递 24 口 PoE 监控交换组合（WD Purple 渠道可搭售）。",
      "question": "新连接/网络品类供应商的上架评估走哪个流程和负责人？",
      "proof": "上架一页提案（葡/英）+ 监控方案搭配示例。"
@@ -887,7 +887,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 户外监控/工业窄线",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
      "angle": "监控项目户外段的宽温小件与收发器窄线（不占大盘货位）。",
      "question": "户外监控点的宽温件有货架位吗？",
      "proof": "工业件窄线一页 + CE。"
@@ -954,7 +954,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核活后：匈语简洁价卡",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "小店逻辑一句话+一页价卡。",
      "question": "24 口 PoE 接入层现在配什么？",
      "proof": "匈语一页报价。"
@@ -962,7 +962,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 小批混批试单",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口）混批",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口）混批",
      "angle": "8 口/24 口小批混批低门槛试单。",
      "question": "支持小批混批试单吗？",
      "proof": "混批阶梯价一页。"
@@ -1016,7 +1016,7 @@
     "团队与规模": "中型运营体（自有物流与流程系统）。",
     "决策链与对接人": "info@varia.org（官网正文，CSV 9-27）；+49 371 400…。",
     "技术与认证": "（分销职能型；CSV 9-23 用户裁决保留）。",
-    "采购与供应链信号": "**双向互补**：其分销/白标能力=SmartByte 类目的德国履约与上架渠道；其 WISP 商户客群缺工业 PoE 宽温线。",
+    "采购与供应链信号": "**双向互补**：其分销/白标能力=Saga 类目的德国履约与上架渠道；其 WISP 商户客群缺工业 PoE 宽温线。",
     "近期动态与线索": "官网 2026 版改版强调白标/履约=正在向品牌方卖履约能力——正合我们「你出货品我出品类」结构。",
     "与我方契合点": "分销上架提案（接入层/CCTV 小件）+按其白标条款中性代发。",
     "风险与注意": "Netonix/Vitesse 条目不谈替代（用户裁决保留在档）；只做其目录空档与履约互补。"
@@ -1025,7 +1025,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 分销上架提案（接入层/CCTV 小件）",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "向其分销口递交品牌上架提案：24 口 PoE 接入层+监控小件类目，分销条款+白标代发可选。",
      "question": "你们现在接受新网络硬件品牌上架吗？走什么评估流程？",
      "proof": "品牌一页提案（德/英）+ 分销条款模板。"
@@ -1041,7 +1041,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · WISP 客群目录空档（工业宽温 PoE）",
-     "product": "LT-IS6310G-2GX8GT + 宽温收发器",
+     "product": "STI-280GE（Saga） + 宽温收发器",
      "angle": "其 WISP 商户客户群目录里尚无工业宽温 PoE/收发器线——类目空档提案。",
      "question": "户外/宽温件类目有上架空档吗？",
      "proof": "类目对比一页 + CE 包。"
@@ -1098,7 +1098,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 教师身份尊重开场+自用演示件",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
      "angle": "简短开场：知道您的培训主业、只推给您本人工程/演示用的一台 24 口 PoE++（中性品牌、MikroTik 生态之外的补充供货），可留样体验。",
      "question": "您自己的工程/实验室用得上 24 口 PoE++ 演示机吗？",
      "proof": "一页规格+体验机条款（匈/英）。"
@@ -1106,7 +1106,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工程备件小批",
-     "product": "LT-IS6310G-2GX8GT + 收发器/SFP",
+     "product": "STI-280GE（Saga） + 收发器/SFP",
      "angle": "其自述有线/无线设计施工业务的现场备件小批（宽温件+光配件）。",
      "question": "设计施工业务的现场备件有补充位吗？",
      "proof": "备件小批页 + 阶梯价。"
@@ -1179,7 +1179,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核活后：资深顾问真诚短件",
-     "product": "LT-S8328GP-4GX24GT-S 演示机（可选）",
+     "product": "STC-424DGGPM-440W（Saga） 演示机（可选）",
      "angle": "以后辈供应商姿态简短自我介绍：接入层新货源、可留演示机体验；不提替代 MikroTik。",
      "question": "您顾问项目里偶尔需要高性价比接入层吗？",
      "proof": "一页规格（英）。"
@@ -1252,7 +1252,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 监控 PoE 小件（hEX 生态旁位）",
-     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）",
      "angle": "其 hEX PoE 货架的旁位：监控/户外场景 8 口 PoE 工业小件。",
      "question": "客户装户外监控时小交换/供电怎么配？",
      "proof": "工业件一页 + CE。"
@@ -1260,7 +1260,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 宽温件配 Teltonika 客群",
-     "product": "LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）",
+     "product": "STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）",
      "angle": "Teltonika 车联/IoT 项目的现场管理件与环网位。",
      "question": "Teltonika 项目现场侧需要管理型工业件吗？",
      "proof": "ERPS/管理件一页（法/英）。"
@@ -1323,7 +1323,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · MSP 接入层第二来源一页",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "给 MSP 客户项目的 24 口 PoE 接入层第二来源（供货连续性+保修），一封到位。",
      "question": "客户项目接入层目前有固定的第二来源位吗？",
      "proof": "一页报价+规格（英）+ 保修条款。"
@@ -1331,7 +1331,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · Perle 类目旁位：高功率 PoE++/万兆上联",
-     "product": "LT-S8328XGP-4XS24GT-S（万兆上联通配）",
+     "product": "STC-424XGGPM-440W（Saga）（万兆上联通配）",
      "angle": "不碰 Perle 主类：提供 90W/口 PoE++ 与万兆上联通配位（其常见 SKU 之外的空档）。",
      "question": "高功率户外/园区 PoE 需求出现时通常配什么？",
      "proof": "PoE++ 规格页 + 对比表（英）。"
@@ -1339,7 +1339,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 备件池小批",
-     "product": "LT-IS6310G-2GX8GT 等小批",
+     "product": "STI-280GE（Saga） 等小批",
      "angle": "MSP 项目备件池：8 口/收发器小批常备。",
      "question": "项目备件池走常备价吗？",
      "proof": "备件小批价卡。"
@@ -1396,7 +1396,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 目录空档上架提案：接入层/监控 PoE",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "向其分销口提案：无线传输强项之外的接入层/监控 PoE 类目（分销条件+德语资料全套）。",
      "question": "目录里接入层/PoE 类目目前由哪家供应？开新品类位吗？",
      "proof": "品牌上架一页提案（德）+ 分销条款。"
@@ -1412,7 +1412,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 转售客户培训资料+演示机",
-     "product": "LT-S8328XGP-4XS24GT-S 演示机（VAD 评估用）",
+     "product": "STC-424XGGPM-440W（Saga） 演示机（VAD 评估用）",
      "angle": "留演示机给 VAD 技术团队（MTCSWE 级）评估+给系统屋客户的德语培训资料。",
      "question": "技术团队要不要留台演示机跑兼容与特性评估？",
      "proof": "演示机条款 + 德语技术包。"
@@ -1469,7 +1469,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 一次性尊重短件+演示机选项",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
      "angle": "简短自我介绍：接入层硬件供应商，愿为您的**自有工程**留一台 24 口 PoE++ 演示机体验；绝不影响您的培训业务。",
      "question": "您自己项目用得上吗？不用回长信。",
      "proof": "一页规格（英/德）。"

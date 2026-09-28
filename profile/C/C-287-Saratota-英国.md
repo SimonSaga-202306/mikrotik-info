@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET（台厂工业/商用交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂 PLANET 的英国分销；台厂不是客户，其渠道才是目标 |
 | 数据来源 | Netonix/PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】saratota.com 页面标注 Planet Technology UK distributor / supplier，上架 PLANET 工业 PoE 与太阳能供电交换机。；【2026-09-22 补】经 EtherWAN（台厂，1996 年创立，现被德国 Phoenix Contact 收购）渠道名录确认为其分销商。上架 EtherWAN 多台具体型号：ED3331 同轴以太网延长器、ED3601 工业千兆 VDSL2 延长器、EX36180 工业 8 口 PoE+ 交换机。 |

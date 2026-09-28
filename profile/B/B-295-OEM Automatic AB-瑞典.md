@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商/替换，价差 5 倍；北欧工业零部件大分销、自有品牌 → OEM 最优先 |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍；北欧工业零部件大分销、自有品牌 → OEM 最优先 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 波兰分公司已在名单第73行，有真实联系人：+48 22 863 27 22 / info@oemautomatic.pl（Antaira 授权）→ 从华沙打进去一次覆盖 SE/PL/CZ 【关联】同集团另一实体：OEM AUTOMATIC Sp. z o.o.（波兰）（oemautomatic.pl） |
 
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`LT-IS6312XGP-4XS8GT`
+参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 

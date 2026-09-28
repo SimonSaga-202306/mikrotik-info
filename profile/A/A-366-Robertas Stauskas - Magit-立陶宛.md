@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 服务项目第一条就是「**MikroTik router and switch configuration from scratch（从零配置路由器与交换机）**」；技能含 **VLANs、Bridges、Link Bonding（链路聚合）**、QoS/流量整形、防火墙加固、DDoS 防护、无线规划、网络审计与优化 → 接入层交换是他日常生意 【2026-09-27 A360–A378联络核验】来源等级：official-company。公司站magit.lt公开info@magit.lt与pagalba@magit.lt（支持）入口，站点载UAB Įm.k. 300624757、Verkių g. 46, Vilnius；本轮检索另见董事Robertas Stauskas与+37067447188，与本行原入口电话一致。原入口邮箱robertas@magit.lt保留（官网正文未见该地址，不删除、不否定）。CSV城市Vilnius与官网地址一致，未改字段。 证据：[1](https://magit.lt) [2](https://www.magit.lt/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-366 |
@@ -48,9 +48,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -90,7 +90,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

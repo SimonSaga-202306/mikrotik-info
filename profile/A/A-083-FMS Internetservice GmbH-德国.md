@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，开课/持证 MTCRE MTCSWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训计划（欧洲） |
 | 原备注 | 【2026-09-23】MikroTik 官方培训伙伴/顾问名录收录。在 Umkirch 开 MTCRE 与 **MTCSWE**，德语授课。ISP/网络服务商背景。 【2026-09-27 挖邮箱】Impressum 页；总经理 Patrick Schaub。⚠️**同时运营 mikrotik-shop.de**（MikroTik 网店）→ 直接竞品替代位 |
@@ -47,9 +47,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,25 +97,25 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 品类空缺补位（分销货架 Switche 价位段）
 
-- **推什么**：LT-IS6310G-2GX8GT 系列 + LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STI-280GE（Saga） 系列 + STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他的 Switche 类目以 MikroTik 为主：高性价比工业 PoE+24 口万兆上行接入层是明显的价位空缺，先寄贸易样册（德语）。
 - **要问的问题**：你们的 Switche 货架有没有考虑过 MikroTik 之外的第二品牌？
 - **随附证明**：分销价目（德语）+ 同档对照 + 欧盟交付/RMA 说明。
 
 ### 第 2 次跟进 · 工业非管理 PoE（ISP 塔站/室外配套）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他服务 ISP 与无线链路客户：塔站/室外箱配套宽温 DIN PoE 与他 SAF/LigoWave 链路同柜台，组合销售。
 - **要问的问题**：Richtfunk 客户塔站上的供电与交换现在配什么？
 - **随附证明**：宽温报告 + 链路配套组合清单 + 备件包价。
 
 ### 第 3 次跟进 · 管理型 + MTCSWE 课实训机
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：他开 MTCSWE 德语课：管理型（ERPS/VLAN/L3 卸载）进实训台做对照演示；分销+培训双通道合谈。
 - **要问的问题**：MTCSWE 课的实训交换机够不够？要不要加一组对照机型？
 - **随附证明**：实训机成本价 + 课程案例素材 + L3 卸载实测。
@@ -146,7 +146,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

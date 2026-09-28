@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 10 证全拿 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 网络架构师 12+ 年，中大型 IP 基础设施；动态路由/流量整形/负载均衡/HA/VPN/安全；同公司另有 info@mwtc.pl 【2026-09-28 R50 去重提示】与 A-242 （同邮箱 piotr@mwtc.pl；同邮箱 info@mwtc.pl） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-067 |

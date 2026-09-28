@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCIPv6E MTCINE MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。 【2026-09-27 A260–A279联络核验】来源等级：official-company。LinkedIn显示Michiel Visser任职Interstellar（Amersfoort/Utrecht），并在2026 MikroTik Professionals Conference演讲MikroTik spine-leaf交换架构；Interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室。名录城市Deventer与LinkedIn所在地Apeldoorn不同，不据此改城市；集团邮箱不等于个人直邮。 证据：[1](https://interstellar.nl/contact/) [2](https://www.linkedin.com/in/michiel-visser-a0720b81/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-271 |
@@ -48,7 +48,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328GP-4GX24GT-S`
+初判可参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -81,18 +81,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 商业客户段接入层第二来源一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：荷/英一封到集团箱（注明可转网基建团队）：商业客户办公室/园区项目的 24 口 PoE 第二来源（RMA/供货连续性随行）；声明不涉及市政/医疗客户段。
 - **要问的问题**：商业客户项目的接入层目前有第二来源位吗？
 - **随附证明**：一页报价（英）+ 保修/RMA。
 
 ### 第 2 次跟进 · 万兆上行/汇聚件
 
-- **推什么**：LT-S8328XGP-4XS24GT-S（24×万兆 PoE++ + 4×万兆 SFP+ 上行）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×万兆 PoE++ + 4×万兆 SFP+ 上行）
 - **切入点**：spine-leaf/汇聚话题的万兆上行件（与 MikroTik 演讲者的技术语境对齐）。
 - **要问的问题**：汇聚/spine-leaf 预商用场景需要高性价比万兆件吗？
 - **随附证明**：万兆件一页规格。
@@ -130,7 +130,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

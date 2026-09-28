@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 马耳他**唯一**认证顾问（Johann，+356 7946 1720 / johann@nexus.com.mt）；持有 **MTCSWE（交换认证）**+ MTCTCE（流量控制）；10 年网络工程；**服务行业明确列举：酒店 hospitality、在线游戏 online gaming、零售 retail、制造 manufacturing** → 马耳他是欧洲 iGaming（在线博彩）产业聚集地，该行业对网络时延与稳定性要求极高；酒店与制造则需要接入交换机 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（马耳他）条目自述十年网络工程、持MTCNA、MTCRE、MTCTCE、MTCSWE（页内原文写作“MTNCA”），行业含hospitality、online gaming、retail、manufacturing；电话+35679461720、邮箱johann@nexus.com.mt、站点nexus.com.mt——与本行原入口（+356 7946 1720 / hello@nexus.com.mt、Johann）一致。公司站另见support@nexus.com.mt等通用入口（次级）。CSV城市为空，未改字段。 证据：[1](https://mikrotik.com/consultants?region=Malta&category=consultants) [2](https://www.nexus.com.mt) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-365 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports (APs, IP phones and IPTV boxes on
 
 How many drops per room, and is your IPTV running on multicast?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

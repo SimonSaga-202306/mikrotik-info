@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。 【2026-09-27 A280–A299联络核验】来源等级：official-company。adeodc.com官网给info@adeodc.dk、+45 88 449 449、Herstedvang 8, 2620 Albertslund、CVR 37593184；RIPE登记另列ms@adeodc.dk（注册数据，次级）；MikroTik培训中心页列Martin Sundahl / Adeodc / knowmikrotik.com（Tampa FL / Denmark）。knowmikrotik.com本轮Cloudflare 522。 证据：[1](https://adeodc.com/) [2](https://www.ripe.net/membership/indices/data/dk.adeodc.html) [3](https://mikrotik.com/training/centers/europe) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-291 |
@@ -48,7 +48,7 @@
 
 **先给样机，不做型号推销**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,11 +93,11 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 机房 OOB/管理网接入件一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：英语一封：管理网/OOB 与客户笼位接入的 24 口 L2+ 件（供货连续性+机房本地 RMA 替代节奏）。
 - **要问的问题**：管理网/OOB 的接入件目前固定配哪个牌？有第二来源位吗？
 - **随附证明**：一页报价（英）+ RMA 条款。
@@ -142,7 +142,7 @@ Where we may be useful: Managed access switching in both commercial and DIN-rail
 
 Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

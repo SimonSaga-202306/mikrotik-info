@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6310GP-2GX8GT |
+| 首推 Saga 型号 | STI-288GP（Saga） |
 | 切入点 | 意大利分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 复核】官网正文未渲染出邮箱；搜索索引候选 digimax@digimax.it（待核）：digimax.it /it/contattaci 与 /en/contact-us 正文由脚本渲染，抓取仅见标题；货架含 ORing/Advantech 工业交换机与 ATEX/轨交认证型号；搜索索引显示官网页脚 digimax@digimax.it（未在抓取正文复核） 证据：[1](https://www.digimax.it/it/contattaci)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-183 |

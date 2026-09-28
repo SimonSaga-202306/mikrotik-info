@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 与英国 Wifi Stock、比利时 SmartEye 同名 → 疑似同一网络体系 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Kaunas 【关联】同集团另一实体：Wifi Stock (UK) Ltd（wifi-stock.co.uk）；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。 |

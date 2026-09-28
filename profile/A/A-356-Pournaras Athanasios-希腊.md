@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | XPATIT S.A.。持全部十证含 **MTCSWE**。 【2026-09-27 A340–A359联络核验】来源等级：official-company。XPATIT联系页给info@xpatit.gr（销售）、+30 211 0070080、service@/rma@/logistirio@/warehouse@/procurement@，培训部training@xpatit.gr / +30 211 0070086，地址26th km Marathonos Ave., Rafina, Attica 19009（CSV城市Athens为覆盖区/常用地，未改）；官方培训页确认讲师即公司创始成员Πουρνάρας Αθανάσιος（MikroTik Certified Trainer自2016，十证；Ubiquiti UCT 2018、TP-Link OCI 2023），1000+学员。原入口电话保留。 证据：[1](https://www.xpatit.gr/en/contact) [2](https://www.xpatit.gr/en/trainings-services/formal-trainings-mikrotik) [3](https://www.xpatit.gr/en/services/training-services) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-356 |
@@ -55,9 +55,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,7 +97,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

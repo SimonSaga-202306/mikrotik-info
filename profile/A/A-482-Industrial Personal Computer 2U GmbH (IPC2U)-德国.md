@@ -21,7 +21,7 @@
 | 类型 | 分销（Antaira + Korenix 授权） |
 | 反向信号 | Antaira, Korenix |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 同一家代理两个台湾品牌 → 典型多品牌分销 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 德/法/波/捷四国办公室，兼做系统集成 【2026-09-28 R53 B段复筛达标升级】官网核对：IPC2U（德国）为工业自动化设备分销/集成商（NEXCOM／ICP DAS／Compulab／SolidRun 等品牌），目录中 **«Industrial Communications»** 大类下设 **«Industrial Ethernet Switches»**（/catalog/industrial-communication/ethernet-switch/），并有 Industrial Wireless Solutions、Serial Device Servers、Converters and Repeaters、Media Converters、Protocol Gateways；整机类为 Industrial Computers／Edge AI／Robotic（明码标价，如 iNNOKERN、AVD24WP 627 €）。原 B-144 → 现 A-482，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://ipc2u.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-482 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

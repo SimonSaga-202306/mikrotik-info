@@ -21,7 +21,7 @@
 | 类型 | 分销（HMS：Red Lion / N-Tron） |
 | 反向信号 | Red Lion, N-Tron |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | N-Tron 就是工业交换机品牌 → 直接同类替换 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 维也纳 |

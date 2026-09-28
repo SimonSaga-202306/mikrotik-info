@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCIPv6E |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维，会自己采购设备 → 用 ERPS/IGMP/VLAN/CLI 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 同公司共 3 位 MikroTik 认证顾问（同一电话 +49 761 2926500）：Henrik Brinkmann（brinkmann@fmsweb.de，企业/ISP/运营商、MPLS-VPLS、公共 WiFi、3G-LTE M2M 与监控）；Patrik Schaub（schaub@fmsweb.de，无线/PtP·PtMP/MESH）。谈一次覆盖三人项目 【2026-09-28 R50 去重提示】与 A-083、A-239 （同域名 fmsweb.de） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-149 【2026-09-28 R51 达标即升级】按用户指示：达到 A 级标准即升级。本条独立满足 A 标准（★★★、工程师级认证 MTCRE、MTCTCE、MTCWE、直达邮箱）。原 B-149 → 现 A-423，物理位置不动、原 B 号空置不回填；与 A-083、A-239 的疑似同一实体重复提示继续保留，不合并、不删除。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-423 |
@@ -51,9 +51,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,7 +93,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

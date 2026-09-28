@@ -21,7 +21,7 @@
 | 类型 | 集成商/主备货分销（Belden 工业） |
 | 反向信号 | Hirschmann + GarrettCom（Belden 工业接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商渠道页（当前） |
 | 原备注 | **Belden/Hirschmann 与 GarrettCom 的 MASTER STOCKING DISTRIBUTOR + TAC 中心** —— 不是纯搬箱子的：提供售前方案、配置、安装与技术支持，并**明确给分销商/VAR/集成商特殊折扣**。带 TAC 中心=技术能力强，属优质集成商。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文按角色列出邮箱：总sales@/support@data-connect.com，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe drowe@，总部Olney, Maryland。GarrettCom授权行在vendors页复见；旧备注所称MASTER STOCKING DISTRIBUTOR与TAC在首页可见对应字样，未逐字复核TAC中心表述。 证据：[1](https://www.data-connect.com/contact_information.htm) [2](https://www.data-connect.com/) [3](https://www.data-connect.com/vendors.htm) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-270 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,11 +89,11 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 分销口：24 口商业 PoE 价位档上架一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：对 bpatton@（分销/顾问口）：其品牌墙价位谱系里补 24 口监控/商业 PoE 价位档上架提案（分销条件+TAC 级规格包）。
 - **要问的问题**：商业 PoE 接入层的价位档目前由哪几个牌覆盖？有上架位吗？
 - **随附证明**：一页提案（英）+ 规格包。
@@ -107,7 +107,7 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ### 第 3 次跟进 · 工业窄线收口
 
-- **推什么**：LT-IS6310G-2GX8GT 等窄线+条款
+- **推什么**：STI-280GE（Saga） 等窄线+条款
 - **切入点**：工业非管理件窄线价卡+分销条款收口；不回即冻结。
 - **要问的问题**：（无需回）条款留档。
 - **随附证明**：窄线+条款一页。
@@ -138,7 +138,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

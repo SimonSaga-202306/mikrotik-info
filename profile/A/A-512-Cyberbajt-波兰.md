@@ -21,8 +21,8 @@
 | 类型 | 集成/分销 |
 | 反向信号 | Moxa 工业交换机 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
-| 切入点 | 波兰T1，用LT-IS打价格 |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
+| 切入点 | 波兰T1，用 STI 工业非管理系（Saga）打价格 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（集成/分销）与「Moxa 工业交换机」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 dział handlowy 正文可见（个人邮箱）：d.jonik@cyberbajt.pl；同页另有 k.godzisz@cyberbajt.pl、e.raciborski@cyberbajt.pl、m.blaszczyk@cyberbajt.pl、g.gozdz@cyberbajt.pl、s.sirko@cyberbajt.pl。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://www.cyberbajt.pl/handlowcy/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-526 【2026-09-28 R53 B段复筛达标升级】官网核对：Cyberbajt（波兰）自述 **«Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring»**；LAN 部门说明 **«W ofercie znajdują się przełączniki, okablowanie, urządzenia VoIP, karty sieciowe, obudowy»（报价含交换机、布线、VoIP、网卡、机箱）**，部门含 Urządzenia/WLAN/LAN/Światłowody/Zasilanie/Maszty；有专人技术邮箱 m.blaszczyk@cyberbajt.pl。原 B-526 → 现 A-512，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.cyberbajt.pl/dzial/3/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-512 |
 
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

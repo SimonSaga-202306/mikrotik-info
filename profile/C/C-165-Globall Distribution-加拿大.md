@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET（台厂工业/商用交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 加拿大 PLANET 分销商，在售工业 PoE 与 DIN 导轨型号 |
 | 数据来源 | PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】globall.ca 自述 Canadian Distributor of Planet Networking & Communication，在售 IGS-504HPT、IGS-801M、WGS-5225-8P2S 等工业型号。 |

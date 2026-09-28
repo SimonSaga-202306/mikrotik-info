@@ -21,7 +21,7 @@
 | 类型 | 大分销 |
 | 反向信号 | Gigamedia |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6328XGP-4XS24GT |
+| 首推 Saga 型号 | STI-42424XGGPM（Saga） |
 | 切入点 | 渠道 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | Rexel 集团意大利实体；集团为全球电气分销巨头，另有 Rexel USA（rexelusa.com）。原「法国/意大利」合并行已并入此行与法国实体 |

@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | MacSoft。持 **MTCSWE**。 【2026-09-27 A240–A259联络核验】来源等级：official-company。MacSoft官网联系页正文邮箱、+36304963340、Budapest Kriván33，与原电话/备注匹配；beszerzes为采购入口词义，不据此推定Péter个人邮箱或权限。公司目录搜索列Major Péter为负责人；2019MUM日程中的AccessPoint任职为历史线索，不用来替换当前公司。不采用美国同名MacSoft游戏公司/其他Peter Major邮箱。 证据：[1](https://macsoft.hu/kapcsolat) [2](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0109374178/MacSoft-Kft) [3](https://mum.mikrotik.com/2019/HU/agenda) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-250 |
@@ -54,9 +54,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -101,25 +101,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 直达采购箱：设计 BOM 接入层第二来源一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：经 beszerzes@ 直达：其网络设计项目 BOM 的 24 口 PoE 接入层第二来源（匈语/英语一页，规格+交付期+保修一体）。
 - **要问的问题**：设计项目 BOM 里的接入层目前有第二来源位吗？
 - **随附证明**：一页报价+规格（匈/英）+ 保修/RMA。
 
 ### 第 2 次跟进 · WiFi 勘测配套 PoE 与运维备件
 
-- **推什么**：LT-IS6310G-2GX8GT 等小批
+- **推什么**：STI-280GE（Saga） 等小批
 - **切入点**：WiFi 勘测/运维线的现场小件与备件常备位。
 - **要问的问题**：运维备件池走常备价吗？现场有宽温需求吗？
 - **随附证明**：备件小批页 + 宽温参数。
 
 ### 第 3 次跟进 · 培训线的中性尊重短件（可选）
 
-- **推什么**：LT-S8328XGP-4XS24GT-S 演示机
+- **推什么**：STC-424XGGPM-440W（Saga） 演示机
 - **切入点**：随后短件给其 MikroTik 培训线的自用实验位（与采购主件分开、不打扰课程）。
 - **要问的问题**：培训实验环境用得上演示机吗？
 - **随附证明**：演示机条款一页。
@@ -150,7 +150,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

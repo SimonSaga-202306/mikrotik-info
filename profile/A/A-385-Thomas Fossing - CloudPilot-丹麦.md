@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 面向没有专职 IT 经理的中小企业做 IT 平台规划与选型（预算内最优结构）；含 MTCWE（无线）+ MTCINE（ISP 互联） 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCINE、MTCNA、MTCRE、MTCWE；面向没有专职 IT 经理的中小企业做 IT 平台规划与选型（预算内最优结构）；含 MTCWE（无线）+ MTCINE（ISP 互联）。R50 全表去重扫描：未发现与现有 A 行同邮箱/同域名/同名（对照同轮 31 条重复提示）。人工定级 A：认证顾问/讲师 + 直达邮箱 + 个体/小公司决策链短。原 B-006 → 现 A-385。 证据：[1](https://mikrotik.com/consultants?region=Denmark)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-385 |
@@ -50,9 +50,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,7 +92,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

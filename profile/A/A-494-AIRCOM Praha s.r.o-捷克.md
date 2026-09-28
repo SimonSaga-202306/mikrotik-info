@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Prague 【2026-09-28 R53 B段复筛达标升级】官网核对：AIRCOM Praha s.r.o.（捷克，wifihw.cz）为无线/网络设备网店（V-SOL GPON、Meanwell/Delta 电源、Dataway 机柜、Komshine 光纤、MikroTik 全线）；站内搜索 crs326 返回在售 **CRS326-24G-2S+RM 3 564 Kč／CRS326-24G-2S+IN 3 493 Kč／CRS326-24S+2Q+RM 9 755 Kč／CRS326-4C+20G+2Q+RM 16 270 Kč**（均可加购），另有 CRS812 热插拔电源等配件；并发布 MikroTik 产品/安全通告新闻。原 B-190 → 现 A-494，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://wifihw.cz/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-494 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XG-4XS8GT`
+初判可参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

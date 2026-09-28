@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Gold） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 金牌分销 = 销量大，第二供应源首选 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 挪威 T1 |

@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Bełk；【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-272。核验要点：站内为渠道分销（MikroTik/Ubiquiti/TP-Link/Teltonika/Cudy），并含工业交换机品类（Scodeno，/m242,scodeno.html）；站点横幅列 MBUM#11 Poznań 与 Solarix 机柜、USR-IoT LoRa → 交换机渠道证据成立，升A（A-380）。未获具名联系人，仅公开销售邮箱sklep@与电话+48 32 721 86 72（按人工定级A记录，公司与A-363等公司级入口同口径）。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://wisp.pl/) [2](https://wisp.pl/m242,scodeno.html) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-380 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

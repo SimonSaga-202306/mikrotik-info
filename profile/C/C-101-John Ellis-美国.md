@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCINE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 2007 年起持 MikroTik 认证；近 30 年任首席工程师/系统架构师；专长明确含 **routing、switching、bridging**、防火墙、园区与固定无线、VPN、脚本；运营本地 WISP、全国性企业网络、**区域学区的安全防火墙** → 学区是 PoE 交换机的大宗场景 |

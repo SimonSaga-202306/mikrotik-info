@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCTCE MTCSE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
 | 原备注 | SysDataCom s.r.o.。缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official-company。官网/kontakty/正文销售邮箱，+420777774215、Sys-DataCom s.r.o.及IČO26488400；Živéfirmy目录正文列Ing. Jaromír Čihák为jednatel，名称/网站/登记号相连，但个人任职仍为目录证据，不冒称官网具名。/kontakt/和Praha旧目录路径404。排除Všetaty机械设备同名人。 证据：[1](https://www.sys-data.com/kontakty/) [2](https://www.zivefirmy.cz/sys-datacom_f1160248) [3](https://www.sys-data.com/kontakt/) [4](https://www.praha.eu/jnp/cz/firmy/zive-firmy/lc-vypocetni-technika-internet/lc-internetove-sluzby/lc-pripojeni-k-internetu/sys-datacom-1160248.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-245 |
@@ -50,9 +50,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,18 +97,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 接入层第二来源一页（楼道/村汇聚）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：给 NOC/工程口：楼道交换与乡镇汇聚位的第二来源（备件/供货连续性随行）。
 - **要问的问题**：楼道/汇聚位的接入交换目前固定配哪个牌？有第二来源位吗？
 - **随附证明**：一页报价（捷/英）+ RMA/备件条款。
 
 ### 第 2 次跟进 · 60GHz 站点与户外宽温件
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）
 - **切入点**：60GHz 站点的户外机型柜宽温小件+防雷考虑附件。
 - **要问的问题**：无线站点机柜里的接入小件有宽温级吗？
 - **随附证明**：宽温件一页 + 站点典型拓扑图。
@@ -146,7 +146,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

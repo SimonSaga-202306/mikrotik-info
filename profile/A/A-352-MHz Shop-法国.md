@@ -21,7 +21,7 @@
 | 类型 | 分销（Netonix 授权） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
 | 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 法国分销。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网CGV与客服务句给info@mhzshop.com与+33 4 86 68 83 30；运营商主体Megahertz Wireless Eurl，注册地5, avenue Roger Roquefort, 66320 Marquixanes，RCS 484.713.052 Perpignan，TVA FR43484713052，出版负责人Daniel Doguet；自社Facebook页同邮箱同电话；主营无线网络（WiFi/4G/5G）在线商店。CSV城市字段原为空，本轮未改。 证据：[1](https://www.mhzshop.com/Conditions-generales-de-vente/) [2](https://www.mhzshop.com/shop/Accessoires-MHz/Protections/Onduleur-600VA-Nitram-BU600E-FR.html) [3](https://www.facebook.com/people/MHz-Shop-Officiel/100063453496887/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-352 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

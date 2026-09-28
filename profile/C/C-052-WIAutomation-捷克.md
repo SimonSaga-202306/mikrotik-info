@@ -21,7 +21,7 @@
 | 类型 | 分销（Advantech 授权） |
 | 反向信号 | 中欧站点分销 Advantech EKI 工业以太网设备（如 EKI-5629CI-EI-AE，8FE+2G 宽温 EtherNet/IP 交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | EtherWAN/Advantech 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。捷克语站点（cz.wiautomation.com），自称 100 万+ 产品与全球支持。 |

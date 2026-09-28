@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
 | 原备注 | 持全部十证，含 **MTCSWE**。奥地利首位进库的 MTCSWE 顾问。 【2026-09-27 A240–A259联络核验】来源等级：official-company。AULAF现官网正文公布训练咨询总邮箱、Vienna面授考试安排。Khalil姓名与khalil@aulaf.com只在旧/mtcna-vienna搜索索引复见，实际404；所以主用现机构admin邮箱，不说找到当前个人直邮。2019 Tahandos黎巴嫩邮箱不是奥地利现入口，未并入主联系字段。当前任职/原奥地利手机号未独立复核。 证据：[1](https://aulaf.com/) [2](https://aulaf.com/mtcna-vienna) [3](https://mum.mikrotik.com/presentations/LB19/presentation_6352_1548734037.pdf) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-240 |
@@ -55,9 +55,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -102,11 +102,11 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 一次性尊重短件+演示机选项
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）演示机
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机
 - **切入点**：简短自我介绍：接入层硬件供应商，愿为您的**自有工程**留一台 24 口 PoE++ 演示机体验；绝不影响您的培训业务。
 - **要问的问题**：您自己项目用得上吗？不用回长信。
 - **随附证明**：一页规格（英/德）。
@@ -151,7 +151,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

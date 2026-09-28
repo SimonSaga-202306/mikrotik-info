@@ -31,7 +31,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：association。邮箱在地区信息产业协会成员页正文确认，电话0805016393，地址Modugno(BA)。官网旧服务页与/contatti/跳回首页；旧服务页搜索同邮箱，但本轮未从当前官网正文确认。总部所在Bari省不等于主表城市应自动更改。 证据：[1](https://distrettoinformatica.it/associati/sfera-informatica-strumentazione-srl/) [2](https://www.sfera-srl.it/reti-locali/bari/puglia/) [3](https://www.sfera-srl.it/contatti/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-213 |
@@ -50,7 +50,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -83,25 +83,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 工业级非管理 PoE（工业自动化项目边缘件）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他卡片里有工业自动化：车间产线的宽温 DIN PoE 边缘件先手。
 - **要问的问题**：自动化项目车间点位的供电交换用什么规格？
 - **随附证明**：宽温报告 + 自动化场景方案 + DIN 图（意/英）。
 
 ### 第 2 次跟进 · 24 口 CCTV/PoE（企业接入层/租售全周期账）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：售租模式语境：24 口 PoE++ 采购+坏机全周期账。
 - **要问的问题**：企业客户的接入层租售怎么算账？
 - **随附证明**：全生命周期账 + 报价。
 
 ### 第 3 次跟进 · 管理型 PoE（IT/OT 分段标准件）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：自动化/云网安全语境：分段标准件（VLAN/ERPS）+样机。
 - **要问的问题**：IT/OT 分段模板要不要进方案库？
 - **随附证明**：VLAN/ERPS 模板 + 样机。
@@ -132,7 +132,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -21,10 +21,10 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=united-states） |
-| 原备注 | 伙伴等级：Resell。安防/消防系统集成商 —— IP 视频与门禁依赖接入层 PoE 交换机，属 SmartByte 可替换场景。 【2026-09-27 挖邮箱·真邮箱】经 marksman-titan.com 取得（Titan Security 现为 Marksman Titan）。具名：Todd Sheetz、Anthony Hernandez（VP） |
+| 原备注 | 伙伴等级：Resell。安防/消防系统集成商 —— IP 视频与门禁依赖接入层 PoE 交换机，属 Saga 可替换场景。 【2026-09-27 挖邮箱·真邮箱】经 marksman-titan.com 取得（Titan Security 现为 Marksman Titan）。具名：Todd Sheetz、Anthony Hernandez（VP） |
 
 ## 三、人员与联系方式
 
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,25 +89,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（电子安防项目接入层）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：合并整合期切入：给 Titan Electronics 递「同规格更低成本」的接入层选项，全国多项目的量配上多仓交付说明。
 - **要问的问题**：合并后项目接入层的标准件选型定了吗？
 - **随附证明**：单路成本测算 + 全国交付说明 + 质保政策（英文）。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（周界/车库室外点位）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：楼宇周界与车库的室外摄像头点位：宽温 DIN PoE 降低上门维护率——安保公司算账最懂「少跑一趟」的价值。
 - **要问的问题**：室外点位的维护上门一年多少趟？
 - **随附证明**：宽温报告 + 坏机替换测算 + 备件包价。
 
 ### 第 3 次跟进 · 管理型 PoE（安防网段标准件）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：合并后标准化：安防 VLAN 隔离+ERPS 冗余一套模板全国复制，项目注册保价。
 - **要问的问题**：全国项目的网络标准有没有统一窗口期？
 - **随附证明**：VLAN/ERPS 模板 + 项目注册政策 + 收敛实测。
@@ -132,13 +132,13 @@ Hi Titan,
 
 I work on PoE access switches, and your CCTV / access control work is exactly the use case I keep running into.
 
-What caught my eye is that you work on Resell, PoE and SmartByte.
+What caught my eye is that you work on Resell, PoE and Saga.
 
 Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink, per-port power budget you can actually plan against, PoE watchdog that power-cycles a hung camera instead of sending a truck.
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

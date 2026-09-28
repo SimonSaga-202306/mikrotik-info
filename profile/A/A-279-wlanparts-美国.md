@@ -21,7 +21,7 @@
 | 类型 | WISP 集成商/代理（Netonix） |
 | 反向信号 | Netonix 授权渠道（WISP 接入层交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | WISP 接入层替换 |
 | 数据来源 | Netonix 官方分销/代理名录 |
 | 原备注 | 【2026-09-23 用户裁决·保留】Netonix 交换机采用 **Vitesse** 芯片，并非 Marvell，严格按「Marvell 接入层生态」标准属于圈外；用户 2026-09-23 明确「先这样吧，没必要删」，故本条保留。注意：对其**不能使用「同芯片」话术**（详见 Netonix_WISP替换矩阵_2026-09.md），切入点应放在交期、宽温、上行与价格上。 Netonix 代理商。 【2026-09-27 A260–A279联络核验】来源等级：leads-only。wlanparts.com首页现为systeme.io占位页，只有电话626.243.2110/866.297.2281，/contact-us/返回404，站点不再是无线产品目录；未找到可验证邮箱，保留原电话。Crunchbase标注WLanParts(closed)、Pasadena, California；Ubiquiti社区帖称其为Pasadena Networks并提及名为Frank的联系人，属论坛转述，不作正式联系人。 证据：[1](https://www.wlanparts.com/) [2](https://www.crunchbase.com/organization/wlanparts) [3](https://community.ui.com/questions/Very-poor-experience-with-Pasadena-Networks-aka-wlanparts-com/424d2ee6-8e55-4bd8-9505-4af354999307) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-279 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -86,7 +86,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（电话）
 
@@ -97,7 +97,7 @@
 
 ### 第 2 次跟进 · 核活后：类目一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S
+- **推什么**：STC-424DGGPM-440W（Saga）
 - **切入点**：站点/监控 24 口 PoE 供货提案（交期/宽温/价格——不提芯片）。
 - **要问的问题**：24 口 PoE 有采购位吗？
 - **随附证明**：一页报价（英）。
@@ -135,7 +135,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

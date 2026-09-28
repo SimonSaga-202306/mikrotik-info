@@ -21,10 +21,10 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=portugal） |
-| 原备注 | 【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。  【2026-09-27 A210–A239联络核验】来源等级：official。官网contactos第6块正文确认总邮箱与Massamá地址、+351214308400。采购/产品部门公开Vitor Gama，负责D-Link、Equip、Digitus、Cisco、Level One、TP-Link、Ubiquiti，直线214308442；没有公开其个人邮箱，不猜。另有Cláudia Marques负责HP/HPE ARUBA，214308466；不是已确认SmartByte采购意向。 证据：[1](https://www.databox.pt/contactos/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-232 |
+| 原备注 | 【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。  【2026-09-27 A210–A239联络核验】来源等级：official。官网contactos第6块正文确认总邮箱与Massamá地址、+351214308400。采购/产品部门公开Vitor Gama，负责D-Link、Equip、Digitus、Cisco、Level One、TP-Link、Ubiquiti，直线214308442；没有公开其个人邮箱，不猜。另有Cláudia Marques负责HP/HPE ARUBA，214308466；不是已确认Saga采购意向。 证据：[1](https://www.databox.pt/contactos/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-232 |
 
 ## 三、人员与联系方式
 
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -73,18 +73,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · AISENS 式新品牌上架流程+监控 PoE 组合
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：借其 2026-07 接入 AISENS 的先例：询问新连接品类供应商的上架流程，先递 24 口 PoE 监控交换组合（WD Purple 渠道可搭售）。
 - **要问的问题**：新连接/网络品类供应商的上架评估走哪个流程和负责人？
 - **随附证明**：上架一页提案（葡/英）+ 监控方案搭配示例。
 
 ### 第 2 次跟进 · 户外监控/工业窄线
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）
 - **切入点**：监控项目户外段的宽温小件与收发器窄线（不占大盘货位）。
 - **要问的问题**：户外监控点的宽温件有货架位吗？
 - **随附证明**：工业件窄线一页 + CE。
@@ -120,7 +120,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

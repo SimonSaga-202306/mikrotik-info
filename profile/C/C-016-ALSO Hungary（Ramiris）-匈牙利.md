@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | ALSO 集团 = 欧洲三大 IT 分销之一（德/瑞/奥/匈等） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Budapest；泛欧大分销 |

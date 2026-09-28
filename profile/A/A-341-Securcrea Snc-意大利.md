@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网支持/联系页（securcrea.com/supporto.html 与 assistenza.securcrea.com/contatti.html）给info@securcrea.com、+39 0586 1713210（Toscana）、+39 0171 1723180（Piemonte）与Via Bicocchi 12, 58022 Follonica (GR)；自述Partner Kerio十年以上、IT安全/邮件/防火墙/man-down服务；页脚工商信息：Securcrea di Cianchi Michele & C. s.a.s.，P.IVA 01564970539，SDI M5UXCR1。第三方工商页给出同地址与电话05861713210、ATECO 62.02。本行AT伙伴名录（Follonica, GR；Resell）与此一致。 证据：[1](https://assistenza.securcrea.com/contatti.html) [2](http://www.securcrea.com/supporto.html) [3](https://www.informazione-aziende.it/Azienda_SECURCREA-DI-CIANCHI-MICHELE-C-SAS) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-341 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

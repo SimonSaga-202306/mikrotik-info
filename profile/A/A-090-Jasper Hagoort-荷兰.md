@@ -31,7 +31,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCIPv6E MTCINE MTCSE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。 【2026-09-27 挖邮箱·真邮箱】官网 contact 页。D-Side Telecom 所有者；持 **MTCSWE**（2023-07 发，2026-07 到期）；**2026 年在布拉格 MTPC 大会讲过 MikroTik spine-leaf 交换** → 技术深度高、活跃 |
@@ -62,9 +62,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -109,25 +109,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（商户现场交付标配）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：商户交付标配件：24 口 PoE++ 带 AP/话机/监控，单端口成本比现用件低，直接报到岸含税价。
 - **要问的问题**：商户现场的接入交换现在标配什么型号？
 - **随附证明**：报价单（含税到岸）+ 规格对照 + 质保说明。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（机房外/室外点位）
 
-- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **推什么**：STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）
 - **切入点**：商户库房/停车场的零散点位：4 口宽温小机+备件包，工具箱常备。
 - **要问的问题**：室外或仓库点位用什么供电交换？
 - **随附证明**：宽温报告 + 备件包价 + DIN 图。
 
 ### 第 3 次跟进 · 管理型 PoE（客户网分段标准模板）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：对冲他 MTCSWE 专长：管理型 VLAN/ERPS 模板做商户网分段标准，CLI/MIB 文档全给，他自评估。
 - **要问的问题**：商户网分段现在怎么做的？要不要看我们的模板？
 - **随附证明**：VLAN/ERPS 模板 + CLI 速查 + MIB 库。
@@ -158,7 +158,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

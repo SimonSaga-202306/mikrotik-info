@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus + Ewon |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商，价差 5 倍 |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 俄亥俄工业分销；⚠️ 中国产地不能做 TAA/NDAA 政府/电力项目，只谈商业渠道；【2026-09-22 补】1703 Brookpark Rd / 1951 W 112th St, Cleveland OH 44109；1–10 人小公司，60 年历史，做传感器、变频驱动、电机、传动与面板仪表。 |
 
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 工业非管理 PoE（N-Tron 价位段补位）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：直打 Red Lion/N-Tron 同规格价差：8 口宽温 DIN PoE 到岸成本约他现售件零头，商业项目做第二供应商不伤原厂关系。
 - **要问的问题**：非政府类的产线项目，8 口工业 PoE 你们现在毛利空间被压吗？
 - **随附证明**：价差对照（N-Tron 同规格）+ 到岸价目 + 交期（英文）。
 
 ### 第 2 次跟进 · 4 口工业 PoE（机器视觉/数采点位）
 
-- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **推什么**：STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）
 - **切入点**：机器视觉/数采安装商的零散点位：4 口小机按柜配货，起订量低、混批灵活——分销试单最轻量的一种。
 - **要问的问题**：机器视觉项目的点位交换你们随柜配还是客户自购？
 - **随附证明**：混批价目 + 宽温报告 + DIN 图。
 
 ### 第 3 次跟进 · 管理型 10G（OT 网络分段升级单）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：工厂 OT 网分段与 10G 上行需求上来时：管理型+ERPS+VLAN 打包给他的自动化客户做升级单，项目注册制保价。
 - **要问的问题**：客户在 OT 网分段上有没有预算窗口？
 - **随附证明**：项目注册政策 + VLAN/ERPS 模板 + 实测。
@@ -142,7 +142,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

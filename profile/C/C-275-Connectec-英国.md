@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET（台厂工业/商用交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂 PLANET 英国授权分销，含工业以太网与 PoE 线；台厂不是客户，其渠道才是目标 |
 | 数据来源 | PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】connectec.uk 自述 authorised Planet distributor，备货 Planet 交换机/光纤/Wi-Fi/工业以太网，提供贸易账户与批量折扣。 |

@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 专长含 **Switching（MAC-based VLAN）**、PPPoE 与 RADIUS 认证计费、HotSpot、WISP 有线无线 NOC 规划设计迁移、PtP/Mesh、队列与流量整形；英西双语 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方顾问名录（阿尔巴尼亚筛选）列Olisian Sulaj（Tirane, Albania）：电话00355692996257、邮箱olisian.sulaj@gmail.com，与本行原入口（+355 69 299 6257 / olisian.sulaj@gmail.com）一致；条目列MTCNA、MTCRE，专长含Switching（Mac based VLAN）、PPPoE与RADIUS认证计费、HotSpot、WISP有线/无线NOC规划设计迁移、PtP/Mesh、队列与流量整形，与本行原备注一致。同页另见Dritan Vreshta（dritan@vreshta.com）、Erion Demiri（erion.demiri@etronic.al）等阿尔巴尼亚顾问——第三方线索，不并入本行。CSV城市Tirana与名录Tirane一致。 证据：[1](https://mikrotik.com/consultants?region=Albania&category=consultants) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-364 |
@@ -47,9 +47,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,7 +89,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

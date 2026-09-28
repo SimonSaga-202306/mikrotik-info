@@ -21,7 +21,7 @@
 | 类型 | 分销（Zyxel 授权） |
 | 反向信号 | Zyxel（另代理 Netgear/TP-Link/Adtran/EnGenius 等） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商渠道页（当前） |
 | 原备注 | Zyxel 授权分销（Target 为北美老牌分销）。**同时代理 Netgear / TP-Link / Adtran / EnGenius** —— 产品线宽，适合做接入层替换的渠道对照。 |

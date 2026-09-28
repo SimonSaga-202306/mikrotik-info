@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 同时是 MikroTik 认证顾问（Hani Rahrouh，647-477-0163 / hr@wirelessnetware.ca，8 证含 MTCSWE）；有顾问团队；简历明确写「**Switching：熟悉 RouterOS 7.xx 的全部新交换功能，例如 L3 硬件卸载**」→ 他懂硬件卸载，能直接谈芯片规格；同时精通 RouterOS 与 SwitchOS；路由 BGP/OSPF、无线 PtP/PtMP/Mesh、CAPsMAN、API 与系统集成 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,25 +89,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他是渠道：用「加拿大现货仓库 + 与他现售 MikroTik 24 口 PoE 的规格/价位差」对话，把他当潜在分销商而不是终端客户。
 - **要问的问题**：他愿意先上几个 SKU 试销（24 口 PoE 与工业 8 口），还是先做项目配套？
 - **随附证明**：FOB/到岸价目表（含 IC 认证资料）+ 现货/交期说明 + 与 SYNOXX 光模块的组合清单。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（ISP/塔站场景）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他服务 ISP 与运营商：塔站/室外机箱用宽温 DIN 款，配他的光模块做长距离回传。
 - **要问的问题**：ISP 客户的塔站/室外设备箱现在用什么型号、缺什么价位段？
 - **随附证明**：宽温报告 + 光模块兼容清单 + 样品组合（交换机+SFP）。
 
 ### 第 3 次跟进 · 管理型 PoE + 培训合作
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8528XG-4XS24GT（L3，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）或 STC-448XGGM（Saga L3）（L3，PoE 版）
 - **切入点**：他开课：把我们的管理型交换机做成培训实验与案例（L3 卸载/ERPS 实测），既是销售也是影响力。
 - **要问的问题**：他愿不愿意在课程里加入一两个我们的实验案例？
 - **随附证明**：可公开的实测数据 + 培训用配置模板 + 实验机（成本价）。
@@ -138,7 +138,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

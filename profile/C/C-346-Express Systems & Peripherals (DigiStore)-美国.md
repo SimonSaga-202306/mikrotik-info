@@ -21,7 +21,7 @@
 | 类型 | 分销（Digi 授权） |
 | 反向信号 | Digi International（Marvell 生态，工业联网） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商授权分销页（当前） |
 | 原备注 | Digi 授权分销，自述为 **Digi 最大备货分销之一**并接受过厂方培训。站内同时销售 **Comtrol RocketLinx 工业以太网交换机**，并设有面向集成商/VAR 的合作报价计划。 |

@@ -21,7 +21,7 @@
 | 类型 | 分销（Antaira 授权） |
 | 反向信号 | Antaira |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Pécel，中东欧增量市场；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。匈牙利分销商。 【2026-09-28 R53 B段复筛达标升级】官网核对：axtek.hu 现跳转 ietek.hu（IETEK line Kft.，同一实体）——工业 PC/自动化专营 25 年，**「Ipari hálózati eszközök」明确含 Switch-ek/routerek/gateway-ek（工业以太网/M2M）**。原 B-077 → 现 A-450，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://ietek.hu/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-450 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

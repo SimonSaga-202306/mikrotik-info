@@ -21,7 +21,7 @@
 | 类型 | 自有品牌制造商 |
 | 反向信号 | Intellinet/Manhattan |
 | 是否自有品牌 | 是 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | 亚洲有QC、欧盟合规号齐全，沟通成本最低 |
 | 数据来源 | 重点客户/2026-09 |
 | 原备注 | WEEE DE40753042 / LUCID DE2489084505093 |

@@ -21,7 +21,7 @@
 | 类型 | 分销（Advantech 授权） |
 | 反向信号 | Advantech 授权分销商，上架 EKI-2525M-AE、EKI-2725-CE 等工业交换机，提供 2 年质保与自有维修服务 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | EtherWAN/Advantech 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。兼做停产件与维修件市场。 |

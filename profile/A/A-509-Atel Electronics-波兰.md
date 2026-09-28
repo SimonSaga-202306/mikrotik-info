@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 波兰 T1，第二供应源 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：cust@atel.com.pl。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://atel.com.pl/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-525 【2026-09-28 R53 B段复筛达标升级】官网核对：Atel Electronics（波兰，import i dystrybucja）为工业网络与电信器件分销商，**合作伙伴 ORing Industrial Networking（Sieci Przemysłowe）与 EN50155 铁路标准专区**；新品含 **ORing IGS-3084GP-LA 管理型交换机（8×10/100/1000 RJ-45 + 4×SFP/RJ-45, O/Open-Ring <30ms, 1 750 zł）**，另有 SFP/QSFP、VUTLAN 机房监控、WaveKVM、光纤跳线。原 B-525 → 现 A-509，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.atel.com.pl/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-509 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

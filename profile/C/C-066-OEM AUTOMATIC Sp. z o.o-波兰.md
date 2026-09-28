@@ -21,7 +21,7 @@
 | 类型 | 分销（Antaira 授权） |
 | 反向信号 | Antaira |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 华沙，自动化目录分销，SKU 量大；OEM Automatic 集团：瑞典 oemautomatic.se（自有品牌，OEM 优先）+ 捷克 oemautomatic.cz，一单谈三国 【关联】同集团另一实体：OEM Automatic AB（瑞典）（oemautomatic.se）；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。波兰分销商。 |

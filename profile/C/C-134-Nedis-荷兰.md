@@ -21,7 +21,7 @@
 | 类型 | 自有品牌分销 |
 | 反向信号 | Nedis（交换机仅非管理） |
 | 是否自有品牌 | 是 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | 补可管理/24口/PoE++ |
 | 数据来源 | 重点客户/2026-09 |
 | 原备注 | Chaitanya Mhatre (Director Sales Asia) |

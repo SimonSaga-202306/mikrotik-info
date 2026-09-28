@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 伊比利亚半岛分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 【关联】同集团另一实体：ALIDEX ITALIA（意大利）（alidex.it） 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用 |

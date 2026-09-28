@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6320G-4GX16GT-D |
+| 首推 Saga 型号 | STI-2160DGGM（Saga） |
 | 切入点 | 波兰工业/电信分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 复核】官网联系页 404；搜索索引候选 maritex@maritex.eu（待核）：maritex.eu /en/contact-us、/pl/kontakt、maritex.com.pl/kontakt.html 均 404；官网在售 Switches 品类与 500+ 授权线；搜索索引在其联系页显示 maritex@maritex.eu（未抓取复核，待核） 证据：[1](https://www.maritex.eu/en/contact-us)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-218 |

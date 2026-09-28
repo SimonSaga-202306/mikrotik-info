@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | **30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN/安全/CAPsMAN 【2026-09-28 R49 复筛补录】来源等级：official-company。站点持续被拦截，无法直连（失败站重试）：rickfreyconsulting.com 仍被客户端/扩展拦截（ERR_BLOCKED_BY_CLIENT，跳转纯搜寻域），无法直连核验内容 结论：维持 B（无采购/替换新证据）。 证据：[1](https://rickfreyconsulting.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-378 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCEWE、MTCINE、MTCNA、MTCRE、MTCSE、MTCTCE、MTCWE；**30+ 年网络、19 年 MikroTik**，提供 MikroTik 全科目咨询与培训（含 ROS7 迁移）；路由/无线/QoS/VPN/防火墙/监控/OSPF/BGP/MPLS/VPLS/TE/负载均衡/VLAN。R50 全表去重扫描：未发现与现有 A 行同邮箱/同域名/同名（对照同轮 31 条重复提示）。人工定级 A：认证顾问/讲师 + 直达邮箱 + 个体/小公司决策链短。原 B-378 → 现 A-412。 证据：[1](https://mikrotik.com/consultants?region=USA)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-412 |
@@ -53,9 +53,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328XG-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -95,7 +95,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XG-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

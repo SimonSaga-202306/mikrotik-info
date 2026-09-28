@@ -21,7 +21,7 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | Ixxat + 其他 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | HMS 渠道工业自动化分销，做 Intesis/Ewon 楼宇与远程运维 → 项目里需要交换机，做配套增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | CAN/工业总线方向 |

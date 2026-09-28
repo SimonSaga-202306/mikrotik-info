@@ -21,7 +21,7 @@
 | 类型 | 分销（EtherWAN 授权） |
 | 反向信号 | 上架 EtherWAN 非网管工业交换机多系列：EX39924 / EX33000 / EX43000 / EX32900 / EX34000（含 PoE 款） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | EtherWAN/Advantech 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 EtherWAN（台厂，1996 年创立，现被德国 Phoenix Contact 收购）渠道名录确认为其分销商。以非网管型（unmanaged）系列为主，定位经济型替代。 |

@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCNA / MTCIPv6E；IPv6 方向有专证 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录，含证书等级与直接联系方式。法国仅 2 位上榜顾问之一，驻巴黎。 |
@@ -47,7 +47,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`LT-S8328GP-4GX24GT-S`
+参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、注意点
 

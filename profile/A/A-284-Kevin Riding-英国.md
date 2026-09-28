@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 自述大量安装、配置与维护 MikroTik **路由器与交换机**的经验。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方顾问名录给MTCRE、Barton-upon-Humber、07904080953、WhatsApp 07930623513，邮箱为遮罩Email链接；LinkedIn同名区域档案显示DFDS IT Security Analyst、2021-2022在Pure Broadband（WISP），关联按note限制。无正文邮箱。 证据：[1](https://mikrotik.com/consultants/europe) [2](https://www.linkedin.com/in/kevinriding/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-284 |
@@ -46,9 +46,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -90,7 +90,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（WhatsApp/LinkedIn）
 
@@ -101,7 +101,7 @@
 
 ### 第 2 次跟进 · 核活后：真诚短件
 
-- **推什么**：LT-S8328GP-4GX24GT-S 演示机（可选）
+- **推什么**：STC-424DGGPM-440W（Saga） 演示机（可选）
 - **切入点**：自我介绍+演示机自用位（他自述交换机配置经验=对 L2+ 功能敏感）。
 - **要问的问题**：您咨询项目里需要高性价比接入层吗？
 - **随附证明**：一页规格（英）。
@@ -139,7 +139,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

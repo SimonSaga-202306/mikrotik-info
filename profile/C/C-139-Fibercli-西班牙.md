@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 10 证全拿 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 西班牙最大的 MikroTik 工程团队之一（自述「全球最大之一」），自带 MikroTik 认证培训中心 lo0.es（已在 10+ 时区开课）；客户覆盖 ISP/Telco、数据中心、**酒店 Hospitality**、零售、银行保险、油气，含 IBEX35 上市企业与公共部门；做 RouterOS + 多厂商集成的设计/部署/支持。公司内 2 位 10 证顾问 |

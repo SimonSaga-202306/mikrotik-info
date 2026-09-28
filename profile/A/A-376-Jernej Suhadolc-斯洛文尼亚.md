@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | Virtua d.o.o.。**斯洛文尼亚首位进库**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛文尼亚筛选）列Jernej Suhadolc, Virtua, d.o.o.（Ljubljana, Slovenia）：MTCNA（1项），电话+386 590 91780、邮箱jernej.suhadolc@virtua.si、条目链接virtua-it.si（培训页…/storitve/izobrazevanje-mikrotik/）；公司主站virtua.si为Virtua IT d.o.o.（Kotnikova ulica 31, 1000 Ljubljana），培训列MikroTik MTCNA/MTCWE/MTCRE与Fortinet。公司站在正文以保护写法呈现邮箱、未复现文字邮箱地址；info@virtua.si／info@virtua-it.si为早期线索，仅备注、不改字段。CSV城市Ljubljana与名录/官网一致。 证据：[1](https://mikrotik.com/training/centers?region=Slovenia&category=training) [2](https://www.virtua-it.si/storitve/izobrazevanje-mikrotik/) [3](https://www.virtua.si/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-376 |
@@ -44,7 +44,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

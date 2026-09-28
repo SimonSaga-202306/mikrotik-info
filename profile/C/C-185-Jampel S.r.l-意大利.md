@@ -21,7 +21,7 @@
 | 类型 | 分销（Moxa 授权） |
 | 反向信号 | Moxa 意大利官方分销商 18 年以上，站点自称 2012 年起为 Moxa 欧洲销售额第一的分销商；持有 Moxa MTSC 认证技术支持资质 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | Moxa 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 Moxa 渠道名录确认为 Moxa 官方分销商（台厂 Moxa 旗下欧洲/北美渠道）。1981 年成立，自有 Moxa 专营网店 moxa.distry.shop；产品线含 EDS-G2005/G2008/G308/SDS-3006/EDS-G4012 与 NPort 系列，主打 NIS2 与 IEC 62443-4-2 合规。 |

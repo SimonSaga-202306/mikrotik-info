@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商，价差 5 倍 |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网首页正文可见：info@leadernet.es。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://www.leadernet.es/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-535 【2026-09-28 R53 B段复筛达标升级】官网核对：Grupo Leadernet（西班牙，1992 年起；info@leadernet.es）自述 **«grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y seguridad electrónica»**（工业通信网络与电子安防的供应/安装/调试/维护），主业为风电/光伏/光热电站；明确 **«Suministro de electrónica de red: switches, routers, conversores de medio»**、«Suministro e instalación de la red de comunicaciones: switches; routers; fibra óptica MM, SM, HCS; bus serie 485; Profibus y Profinet»，并提供 Cisco 咨询支持；8 国设点、100+ 人员、1000+ 项目。原 B-535 → 现 A-566，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.leadernet.es/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-566 |
 
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

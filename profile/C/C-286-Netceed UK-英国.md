@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET 工业交换机 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂 PLANET 工业线（DIN 导轨、宽温）英国渠道 |
 | 数据来源 | Netonix/PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】Netceed UK 商店在售 PLANET DIN 导轨工业交换机（IGS-10020HPT 8口270W PoE、IGS-4215-4P4T2S、IGS-501T 5口）。 |

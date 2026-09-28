@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 含 Switching |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 专长 BGP/OSPF/MPLS/**Switching**；Hotspot（公共场所大型部署、企业项目）；**熟悉「Made for MikroTik」生态软件、扇区天线、链路、机柜外壳与配件 → 卖配件的人，进货渠道意识强**；WISP 规划与硬件选型 【2026-09-28 R50 去重提示】与 A-364 （同邮箱 dritan@vreshta.com；同域名 vreshta.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-145 |

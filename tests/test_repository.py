@@ -25,6 +25,33 @@ def git_file(path):
     return subprocess.check_output(['git', 'show', f'{BASELINE}:{path}'], cwd=ROOT)
 
 
+_R55_MAP = None
+
+
+def r55_sagify(text):
+    """R55（2026-09-28，用户新一轮要求第 4 条）：客户推荐型号全局从 SmartByte 换成
+    Saga（scripts/migrate_to_saga.py 同规则）。冻结/基线类校验把旧基线先按同一映射
+    归一化，再与当前内容比较。"""
+    global _R55_MAP
+    if _R55_MAP is None:
+        _R55_MAP = json.loads((ROOT / 'batch/saga_smartbyte_model_map_2026-09-28.json')
+                              .read_text(encoding='utf-8'))['map']
+    for k in sorted(_R55_MAP, key=len, reverse=True):
+        text = text.replace(k, _R55_MAP[k])
+    text = re.sub(r'[Ss]mart[Bb]yte', 'Saga', text)
+    text = text.replace('Saga/Saga', 'Saga').replace('Saga（Saga）', 'Saga')
+    # 邮件文案只取型号码本体（emails.py 在（处截断），品牌注解尾巴归一时剥掉
+    return re.sub(r'（Saga[^）]*）', '', text)
+
+
+def r55_sagify_row(row):
+    return {r55_sagify(str(k)): r55_sagify('' if v is None else str(v)) for k, v in row.items()}
+
+
+def r55_sagify_cells(row):
+    return [r55_sagify('' if c is None else str(c)) for c in row]
+
+
 def read_csv():
     with (ROOT / CSV).open(encoding='utf-8-sig', newline='') as f:
         reader = csv.DictReader(f)
@@ -268,6 +295,7 @@ class RepositoryTests(unittest.TestCase):
 
     def test_frozen_identity_and_physical_order(self):
         baseline = list(csv.DictReader(io.StringIO(git_file(CSV).decode('utf-8-sig'))))
+        baseline = [r55_sagify_row(r) for r in baseline]  # R55 SmartByte→Saga 全局替换归一化
         # Physical order stays frozen by 公司名/国家; R48 promotions keep the row in place and only
         # change 评级/档案编号 (+ the R48 reason/note fields), so those positions are compared with
         # the promotion map applied instead of raw equality.
@@ -285,7 +313,7 @@ class RepositoryTests(unittest.TestCase):
                                                                               or before['档案编号'] in self.R53_PROMOTED) else set())
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
-                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                        self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
             elif allowed is not None:
                 # R49: only the email-backfill fields may differ; the row keeps its position.
                 if before['档案编号'] in self.R49_OLD_TO_NEW:
@@ -296,17 +324,17 @@ class RepositoryTests(unittest.TestCase):
                         self.assertEqual(after['评级'], 'A')
                         for k in self.header:
                             if k not in (allowed | self.R53_PROMOTED_FIELDS):
-                                self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                                self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
                         continue
                     self.assertEqual(after['档案编号'], mapped)
                     self.assertEqual(after['评级'], 'B')
                 for k in self.header:
                     if k not in allowed:
-                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                        self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
             elif before['档案编号'] not in targets:
-                self.assertEqual(before, after)
+                self.assertEqual(before, r55_sagify_row(after))
             else:
-                self.assertTrue(all(before[k] == after[k] for k in self.header
+                self.assertTrue(all(before[k] == r55_sagify(after[k]) for k in self.header
                                     if k not in {'网站', '入口/联系方式', '备注', '评级依据'}))
 
     def test_first_49_dossiers_frozen_except_r49_content(self):
@@ -338,6 +366,7 @@ class RepositoryTests(unittest.TestCase):
         for p in first:
             base = git_file(p.relative_to(ROOT).as_posix()).decode('utf-8')
             cur = p.read_text(encoding='utf-8')
+            base, cur = r55_sagify(base), r55_sagify(cur)  # R55 型号替换归一化
             if p.name[:5] in r54:
                 self.assertIn('R54', cur)
                 self.assertEqual(cur.count('### 第 '), 3, p.name)
@@ -466,7 +495,7 @@ class RepositoryTests(unittest.TestCase):
     def test_current_round_promotion_fields_and_frozen_exports(self):
         def old(path):
             return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
-        baseline = list(csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig'))))
+        baseline = [r55_sagify_row(r) for r in csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig')))]
         self.assertEqual(len(baseline), len(self.rows))
         for before, after in zip(baseline, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
@@ -478,7 +507,7 @@ class RepositoryTests(unittest.TestCase):
                                                                               or before['档案编号'] in self.R53_PROMOTED) else set())
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
-                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                        self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
             elif allowed is not None:
                 if before['档案编号'] in self.R49_OLD_TO_NEW:
                     mapped = self.R49_OLD_TO_NEW[before['档案编号']]
@@ -487,15 +516,15 @@ class RepositoryTests(unittest.TestCase):
                         self.assertEqual(after['评级'], 'A')
                         for k in self.header:
                             if k not in (allowed | self.R53_PROMOTED_FIELDS):
-                                self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                                self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
                         continue
                     self.assertEqual(after['档案编号'], mapped)
                     self.assertEqual(after['评级'], 'B')
                 for k in self.header:
                     if k not in allowed:
-                        self.assertEqual(before[k], after[k], (before['档案编号'], k))
+                        self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
             else:
-                self.assertEqual(before, after)
+                self.assertEqual(before, r55_sagify_row(after))
         from openpyxl import load_workbook
         skip = (self.PROMOTED_OLD | self.PROMOTED_NEW | set(self.R49_OLD_TO_NEW)
                 | set(self.R49_OLD_TO_NEW.values()) | self.R49_NOTE_ONLY | self.R49_A_CONTENT
@@ -508,7 +537,8 @@ class RepositoryTests(unittest.TestCase):
         b = load_workbook(ROOT / workbook, read_only=True)
         self.assertEqual(a.sheetnames, b.sheetnames)
         for name in a.sheetnames:
-            av, bv = list(a[name].values), list(b[name].values)
+            av = [tuple(r55_sagify_cells(r)) for r in a[name].values]
+            bv = [tuple(r55_sagify_cells(r)) for r in b[name].values]
             if name in a.sheetnames[:3]:
                 # promoted rows move between grade sheets; every other row must be byte-identical
                 self.assertEqual(list(av[0]), list(bv[0]))
@@ -526,7 +556,8 @@ class RepositoryTests(unittest.TestCase):
         d = load_workbook(ROOT / workbook2, read_only=True)
         self.assertEqual(c.sheetnames, d.sheetnames)
         for name in c.sheetnames:
-            cv, dv = list(c[name].values), list(d[name].values)
+            cv = [tuple(r55_sagify_cells(r)) for r in c[name].values]
+            dv = [tuple(r55_sagify_cells(r)) for r in d[name].values]
             if name == '反向信号名单':
                 self.assertEqual(list(cv[0]), list(dv[0]))
                 self.assertEqual([r for r in cv[1:] if str(r[19]) not in skip],
@@ -576,8 +607,8 @@ class RepositoryTests(unittest.TestCase):
                 continue
             old = subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{p.relative_to(ROOT)}'], cwd=ROOT).decode()
             marker = '## 四、品牌与技术栈'
-            self.assertEqual(strip_r54_injection(p.read_text().split(marker, 1)[1]),
-                             strip_r54_injection(old.split(marker, 1)[1]), p.name)
+            self.assertEqual(r55_sagify(strip_r54_injection(p.read_text().split(marker, 1)[1])),
+                             r55_sagify(strip_r54_injection(old.split(marker, 1)[1])), p.name)
         young = next((ROOT / 'profile/A').glob('A-233-*.md')).read_text()
         self.assertIn('- **邮箱**：info@young.hu\n', young)
         self.assertNotIn('work on A210', young)

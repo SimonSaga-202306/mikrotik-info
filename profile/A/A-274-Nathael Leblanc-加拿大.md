@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 英法双语。 【2026-09-27 A260–A279联络核验】来源等级：official-company。Joust Security官网首页与关于页正文给info@joustsec.com、Montreal总部与电话+1-514-418-0585；隐私政策另给privacy@，joustlabs.net给noc@/soc@/abuse@joustsec.com。名录网页地址为joustsec.com，与公司一致；个人职衔未独立复核，客服电话与名录手机号不同、不改原电话。 证据：[1](https://joustsec.com/) [2](https://joustsec.com/about.html) [3](https://joustlabs.net/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-274 |
@@ -44,7 +44,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -77,18 +77,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · Axis 项目 24 口监控 PoE 一页（短、纯技术）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：超短一封（英语+法语一行）：Axis 监控项目的 24 口 PoE++ 接入层（视频 VLAN 即用模板+RMA），只谈规格与供货。
 - **要问的问题**：Axis 项目的大口数 PoE 接入目前固定配哪个牌？
 - **随附证明**：一页规格（英/法）+ VLAN 模板。
 
 ### 第 2 次跟进 · 实验/红队 infra 小节点
 
-- **推什么**：LT-S6326G-2X24GT 等 L2 小批
+- **推什么**：STC-424XGGM（Saga L3） 等 L2 小批
 - **切入点**：其 scenario simulations/实验环境的 L2 小节点小批（高性价比位）。
 - **要问的问题**：实验/靶场环境需要高性价比 L2 节点吗？
 - **随附证明**：小批价卡一页。
@@ -124,7 +124,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

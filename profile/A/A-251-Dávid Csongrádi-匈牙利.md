@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | 证书面广但缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：local-legacy-unverified。本地batch/hu.json的David Csongradi及B083保存mikrotik@csongradidavid.hu、相同电话/城市，和带音符姓名构成强关联候选，但不自动合并。域名实际403；姓名正反序、无音符、域名/邮箱搜索未找到可验证外部邮箱正文或摘要，不把旧批次冒称新发现。候选域名仅留备注；主表网站仍空、原电话保留。 证据：[1](https://csongradidavid.hu/) [2](https://mikrotik.com/training/centers) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-251 |
@@ -53,9 +53,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,7 +97,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（电话/LinkedIn）
 
@@ -108,7 +108,7 @@
 
 ### 第 2 次跟进 · 核活后：真诚短件
 
-- **推什么**：LT-S8328GP-4GX24GT-S 演示机（可选）
+- **推什么**：STC-424DGGPM-440W（Saga） 演示机（可选）
 - **切入点**：自我介绍+演示机自用位。
 - **要问的问题**：您项目里需要高性价比接入层吗？
 - **随附证明**：一页规格（匈/英）。
@@ -146,7 +146,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

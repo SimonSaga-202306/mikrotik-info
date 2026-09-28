@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=germany） |
 | 原备注 | 伙伴等级：Resell。 【2026-09-27 A320–A339联络核验】来源等级：official-company。官网联系页与Imprint给info@merlinedv.de、+49 9131 90715-0（Fax -10）与Gerberei 19, 91054 Erlangen，主体MERLIN Kommunikationstechnik e.K.（HRA 7006 Fürth；VAT DE178474116）；AT伙伴页（Merlin EDV）给同址Gerberei 19（其“Bayern”字段对应此址）、+49 9131 907150与Reseller等级。本行CSV城市写作“Bayern”（地区字段），未改字段，实际坐落为Erlangen。 证据：[1](https://www.merlinedv.de/en/about-merlin/contact) [2](https://www.merlinedv.de/en/imprint) [3](https://www.alliedtelesis.com/it/it/merlin-edv) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A320-A339.json#A-326 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -73,11 +73,11 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 供应源登记一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S + LT-IS6310G-2GX8GT 系列目录
+- **推什么**：STC-424DGGPM-440W（Saga） + STI-280GE（Saga） 系列目录
 - **切入点**：德语一封：申请入其采购名册——接入/工业件的第二供应源（批次一致性证明+供应年限 LTS 承诺+原厂文档）。
 - **要问的问题**：贵司采购名册接入/工业件的第二供应源缺位吗？
 - **随附证明**：供应商资料包（参数+原产地/批次+LTS）。
@@ -91,7 +91,7 @@
 
 ### 第 3 次跟进 · 托管臂 24 口常规件
 
-- **推什么**：LT-S8328GP-4GX24GT-S（一页报价）
+- **推什么**：STC-424DGGPM-440W（Saga）（一页报价）
 - **切入点**：Mittelstand 托管客户的 24 口 PoE 常规第二来源+小批梯；不回即冻结。
 - **要问的问题**：托管客户的接入层也要第二来源吗？
 - **随附证明**：一页报价（德）。
@@ -122,7 +122,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

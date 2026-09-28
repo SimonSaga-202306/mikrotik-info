@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MikroTik 培训伙伴（开 MTCSWE 等课程） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | 里斯本培训伙伴，官方课程表在列。 【2026-09-27 A260–A279联络核验】来源等级：official-search-only。MikroTik官方课程表确认其为里斯本培训伙伴（MTCSWE等课程在列）；邮箱与电话仅见于搜索索引（对应课程页本轮返回404，首页仍含MikroTik培训栏目），正文未复见，故按official-search-only处理、标注待核；Gmail地址不作为已验证企业邮箱、未测试投递。 证据：[1](https://mikrotik.com/training) [2](https://nethightech.com/300-630/) [3](https://www.nethightech.com/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-262 |
@@ -46,9 +46,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,11 +93,11 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 表单/电话核联络+演示机位
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ 演示机可选）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）
 - **切入点**：先经官网表单一句核实对接人；随后一封（葡/英）只邀其 ISP/WISP PoC 环境与 MikroTik 课程实验自用演示机。
 - **要问的问题**：OmniEdge 的 PoC 演示环境用得上高性价比 24 口 PoE 接入层吗？
 - **随附证明**：一页规格（葡/英）。
@@ -140,7 +140,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

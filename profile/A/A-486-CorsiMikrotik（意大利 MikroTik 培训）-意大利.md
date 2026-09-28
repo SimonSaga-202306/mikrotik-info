@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 含 CAPsMAN 与网络自动化 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 意大利 MikroTik 培训机构；CAPsMAN 管理 + 脚本化网络自动化 【2026-09-28 R50 去重提示】与 A-247 （同域名 corsimikrotik.it） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-158 【2026-09-28 R53 B段复筛达标升级】官网核对：Corsi MikroTik 自述「意大利首个专注 MikroTik/RouterOS 的在线培训门户」，官网排课 **MTCSWE（Switching, Bridging, Layer2, VLAN）** 及 MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE 全系 MikroTik 官方认证课程，并免费提供含 GNS3 实验环境的 Corsi MikroTik VM。原 B-158 → 现 A-486，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://corsimikrotik.it/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-486 |
@@ -44,7 +44,7 @@
 
 **先给样机，不做型号推销**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: Managed access switching in both commercial and DIN-rail
 
 Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

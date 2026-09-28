@@ -21,7 +21,7 @@
 | 类型 | 分销（ComNet 授权） |
 | 反向信号 | ComNet |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6310GP-2GX8GT |
+| 首推 Saga 型号 | STI-288GP（Saga） |
 | 切入点 | CCTV/PoE 同规格第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | — |

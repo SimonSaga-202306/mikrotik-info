@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 官网设 ORing 专页 → 主推该品牌，第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 加州 【2026-09-28 R53 B段复筛达标升级】官网核对：iComTech, Inc.（美国，1-800-301-9097，网店带购物车/注册）为**工业以太网交换机专营供应**：全站品类即以 **Ethernet Switches** 起（卡式/CompactPCI/桌面型/**EN50155 车载**/**IEC 61850-3 电力**/工业 DIN 导轨托管与非托管/工业 PoE 交换机与注入器/工业 10Gb 核心交换机），另有 Media Converters、Ethernet Extenders、SFP 模块、串口设备等。原 B-395 → 现 A-547，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://icomtechinc.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-547 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XG-4XS8GT`
+初判可参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

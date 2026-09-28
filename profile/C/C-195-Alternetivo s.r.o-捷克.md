@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 捷克 T1，第二供应源 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 复核】官网未见邮箱；第三方名录候选 info@alternetivo.cz（待核）：alternetivo.cz /kontakt/ 正文仅表单与电话 +420 221 771 881，无邮箱；第三方名录（firmy.cz / firmablizko.cz）列 info@alternetivo.cz，Softing 渠道页列 matej@alternetivo.cz（均第三方，待核） 证据：[1](https://www.alternetivo.cz/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-195 |

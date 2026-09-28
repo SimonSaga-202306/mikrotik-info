@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 同时是 MikroTik 认证顾问（MTCNA+MTCRE，Stefan Andersen，stefan@pumait.dk / +45 60 709 009）：1998 年起做 ISP 网络，实战派；还设计更大的运营技术栈——**仓库自动化 warehouse automation、门禁 access control、CCTV 视频监控** → 这三项全是 PoE 供电场景，交换机需求最硬。分销商身份 + 集成项目能力 + 工业/PoE 场景，三线合一 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++，4×万兆上行，440W 级）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++，4×万兆上行，440W 级）
 - **切入点**：接着他自己的话术走：把他手头一个监控项目的「摄像头数 × 单口瓦数」做成一张 PoE 预算表，用我们的整机功率预算实测数 + PoE 看门狗（摄像头死机自动断电重启）对比 CRS328-24P / UniFi Switch 的余量。
 - **要问的问题**：现在 24 口 PoE 项目里，他按每口多少瓦设计？满配后留多少余量？
 - **随附证明**：整机功率实测表（逐口负载曲线）+ 看门狗演示视频 + 30 天测试机。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（DIN 导轨/宽温，零配置）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C，PoE 版 / PoE++ 版）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C，PoE 版 / PoE++ 版）
 - **切入点**：他做仓储与门禁，现场经常没有机柜。工业壳 + 宽温 + 宽压 + 免配置，直接装在配电箱或门口弱电箱里；把「非管理」当卖点：插上就用，坏了整机换。
 - **要问的问题**：有没有需要装在现场电箱（无空调、无 UPS）的网络点？
 - **随附证明**：宽温/宽压测试报告 + DIN 配件实物照 + 现场接线图（一页）。
 
 ### 第 3 次跟进 · 管理型 PoE（跨站点标准化）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）
 - **切入点**：他卖「多站点同一套配置」，那就给他统一的 VLAN/环网（ERPS）模板：同一份配置下发到不同站点，链路故障 20ms 级切换；把配置模板做成他的交付资产。
 - **要问的问题**：跨站点项目要不要环网冗余和统一 VLAN 模板？
 - **随附证明**：ERPS 切换实测（打流断链计时）+ 可直接套用的配置模板文件。
@@ -141,7 +141,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

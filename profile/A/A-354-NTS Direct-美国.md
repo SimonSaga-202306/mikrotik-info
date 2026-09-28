@@ -21,7 +21,7 @@
 | 类型 | 分销（Teltonika 授权） |
 | 反向信号 | Teltonika Networks（含 TSW 系列交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
 | 原备注 | 2025 年与 Teltonika 达成**北美战略分销合作**，备货并提供预配置、技术培训、集成支持。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网Contact Us与公司About Us PDF给Sales@NTSDirect.com、877.483.5393、41 Main Street, Bolton, MA 01740；自述增值分销（VoIP/UC、网络、视频会议、安防），30万平方英尺仓库与实验室，面向电信/互联网/MSP/集成商/转售商。CSV原网站shop.ntsdirect.com保留，公司主站ntsdirect.com为同实体。2025年与Teltonika达成北美战略分销合作（原备注保留）。 证据：[1](https://ntsdirect.com/contact-us/) [2](https://www.ntsdirect.com/documents/NTS_About_Us.pdf) [3](https://www.linkedin.com/company/nts-direct) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-354 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

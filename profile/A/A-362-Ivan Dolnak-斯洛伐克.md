@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCIPv6E MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | ConNet Group s.r.o.。自述高级网络设计与安全、路由、**交换（RSTP/VLAN/Inter-VLAN）**、VPN、IPv6、CAPsMAN。学生平均成绩 83%。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（斯洛伐克筛选）列Ivan Dolnak / ConNet Group, s.r.o.（Zilina, Slovakia）：电话+421 948 672 185、邮箱ivan.dolnak@connet-group.sk、站点connet-group.sk；所列证书9项（MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCINE、MTCIPv6E、MTCSE、MTCEWE，无MTCSWE），评分91%，与本行原备注“交换（RSTP/VLAN/Inter-VLAN）专长”不冲突，未改评级依据。同页另列斯洛伐克培训者Martin Krug（Zvolen，krug@mikrotik.cool、mikrotik.cool）——第三方线索，不并入本行。公司站另见通用入口info@connet-group.sk。CSV城市Zilina与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Slovakia&category=training) [2](http://www.connet-group.sk/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-362 |
@@ -51,9 +51,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,7 +93,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

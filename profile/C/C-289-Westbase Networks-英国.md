@@ -21,10 +21,10 @@
 | 类型 | 分销（Netonix 官方） |
 | 反向信号 | Netonix（WISP PoE 交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 官方 Netonix 英国 + 欧洲分销，代理全系 WISP 交换机；手上有 Netonix 存量客户 |
 | 数据来源 | Netonix/PLANET 经销商名录/2026-09 |
-| 原备注 | 【2026-09-22 新增】eu.westbase.io 自称 official Netonix UK and European distributor，代理 WISP Switch 全系。Netonix 为美式 WISP PoE 交换机（宽温、DC 输入）。；【2026-09-22 补】确认为 Moxa 英国及欧洲分销商，且官网产品线同时包含 MikroTik（路由与交换机）。Netonix + Moxa + MikroTik 三重信号叠加——既懂 Moxa 工业级定位，也熟悉 MikroTik 价位段，是 SmartByte 工业线最直接的切入点。 |
+| 原备注 | 【2026-09-22 新增】eu.westbase.io 自称 official Netonix UK and European distributor，代理 WISP Switch 全系。Netonix 为美式 WISP PoE 交换机（宽温、DC 输入）。；【2026-09-22 补】确认为 Moxa 英国及欧洲分销商，且官网产品线同时包含 MikroTik（路由与交换机）。Netonix + Moxa + MikroTik 三重信号叠加——既懂 Moxa 工业级定位，也熟悉 MikroTik 价位段，是 Saga 工业线最直接的切入点。 |
 
 ## 三、人员与联系方式
 

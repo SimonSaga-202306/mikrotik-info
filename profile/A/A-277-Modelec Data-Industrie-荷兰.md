@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Reseller） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 荷兰工业数据通信分销；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。荷兰 reseller，具备全套技术支持与本地办会能力。 【2026-09-27 A260–A279联络核验】来源等级：official-company。MODELEC官网联系页正文给Sales contact@modelec.nl、Support support@modelec.nl、订单order@，电话+31 (0)318 636 262与旧记录一致，地址Ede；支持页复核其自称Moxa与Westermo荷兰官方分销商。 证据：[1](https://www.modelec.nl/contact/) [2](https://www.modelec.nl/support/) [3](https://www.modelec.nl/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-277 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -86,11 +86,11 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 工业非管理低价档一页（报价空档位）
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）
 - **切入点**：荷/英一封：Westermo 报价之外的非管理宽温价位档第二来源（CE/宽温参数一体）；提一句可直接书面报价到 order@。
 - **要问的问题**：现场非管理件的报价空档目前怎么填？
 - **随附证明**：工业件一页 + 参数包。
@@ -135,7 +135,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

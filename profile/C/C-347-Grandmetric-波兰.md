@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Extreme Networks） |
 | 反向信号 | Extreme Networks（Marvell 生态，接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商授权伙伴页（当前） |
 | 原备注 | Extreme Networks **授权伙伴**（波兰）。自述 Extreme 在波兰有自有代表处，且明确其方案**亦覆盖中小企业**，不限于 Fortune 500 场景。 |

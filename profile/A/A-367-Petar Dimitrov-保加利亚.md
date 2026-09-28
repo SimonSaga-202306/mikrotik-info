@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 可讲授 MTCSWE 等全部工程级课程 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
 | 原备注 | mikrotikbg.shop 与 PG NET PRO 合作开课，**Petar Dimitrov 为 MikroTik 认证讲师**，开 MTCNA/MTCTCE/**MTCSWE**/MTCSE/MTCIPv6E/MTCUME/MTCEWE/MTCWE/MTCRE/MTCINE 全部工程级课程。保加利亚首位进库。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（保加利亚筛选）列Petar Dimitrov（Sofia, Bulgaria）：电话+359 894 077980、邮箱training@pgnetpro.bg、站点pgnetpro.bg；所列证书为全部10项（含MTCSWE、MTCEWE），评分81%，与本行原备注一致。合作商城mikrotikbg.shop另给info@mikrotikbg.shop与+359 2 45 125 25（本行原入口，保留）。CSV城市Sofia与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Bulgaria&category=training) [2](https://mikrotikbg.shop) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-367 |
@@ -46,9 +46,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -88,7 +88,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

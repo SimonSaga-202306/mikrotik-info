@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | USMiami 【2026-09-28 R53 B段复筛达标升级】官网核对：IT Shopp（美国）自述 «Online Shopping Networking Product and computer Parts»，在售交换机为核心品类：**TP-Link TL-SG3452P JetStream 52-Port L2 Managed PoE（$549.99）、TL-SG1016PE 16-Port Gigabit Easy Smart PoE（$175.99）、Grandstream GWN7806PL Pro L2++ 48-Port PoE（$545.00）、GWN7701M Unmanaged 8-Port（$75.00）**；品牌含 MikroTik／Ubiquiti／Engenius／TP-Link／Yealink／Grandstream／Ezviz，另有 Tycon 24 口千兆防雷。原 B-355 → 现 A-539，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.itshopp.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-539 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

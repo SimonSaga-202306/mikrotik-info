@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | USIndian Trail；WISP 方案商 【2026-09-28 R49 复筛补录】来源等级：official-company。官网已迁至 shop 子域；交换机品类在售：doubleradius.com 现 301 → shopdoubleradius.com（Shopify）：品类 Routing/Switching、Access Points、Fiber、LTE 等；品牌 MikroTik / Ubiquiti / Cambium Networks / SAF Tehnika / Baicells / RF elements；另有 services.doubleradius.com 与 Training & Events 页 结论：维持 B（无采购/替换新证据）。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-344 【2026-09-28 R53 B段复筛达标升级】官网核对：DoubleRadius（美国网络分销商，shopdoubleradius.com，另设 services.doubleradius.com 服务公司）自述 **«Network Gear & Services»**；品牌含 **MikroTik**／Ubiquiti／Cambium／SAF Tehnika／Baicells／RF elements；Shop by Category 含 **Routing/Switching** 与现货 **Switches** 集合，另有 Access Points、Fiber、LTE、Licensed Links、Video。原 B-344 → 现 A-535，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://shopdoubleradius.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-535 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -31,7 +31,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 培训伙伴，持 MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 英/瑞典/芬兰三语。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方名录列Porvoo、三语、MTCNA/MTCRE（2023签发2026到期）与遮罩Email；LinkedIn同名同城显示Kirjavälitys/Storia（图书物流IT），与上网/交换设备场景无关。保留原电话。 证据：[1](https://mikrotik.com/consultants/europe) [2](https://www.linkedin.com/in/nugge/) [3](https://kustantajavayla.kirjavalitys.fi/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-297 |
@@ -58,7 +58,7 @@
 
 **先给样机，不做型号推销**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -100,7 +100,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（电话/LinkedIn）
 
@@ -111,7 +111,7 @@
 
 ### 第 2 次跟进 · 核活后：三语尊重短件
 
-- **推什么**：LT-S8328GP-4GX24GT-S 演示机（可选）
+- **推什么**：STC-424DGGPM-440W（Saga） 演示机（可选）
 - **切入点**：英/瑞/芬按其选择：自用演示机位。
 - **要问的问题**：您实验/工程用得上 24 口 PoE 演示机吗？
 - **随附证明**：一页规格（英/瑞）。
@@ -147,7 +147,7 @@ Where we may be useful: Managed access switching in both commercial and DIN-rail
 
 Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

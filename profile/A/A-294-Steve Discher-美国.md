@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MikroTik 与 Ubiquiti 认证讲师 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。《RouterOS by Example》作者，**自营 WISP 六年以上**，做 WISP 实操培训。 【2026-09-27 A280–A299联络核验】来源等级：official-company。ISP Supplies官网与官方Facebook结构化数据给sales@ispsupplies.com、855-947-7776、College Station TX；第三方档案显示Stephen R. Discher为所有者/CEO并给sdischer@（第三方，不采信）。mywisptraining.com本轮522，info@mywisptraining.com仅搜索索引，按待核。 证据：[1](https://www.ispsupplies.com/) [2](https://www.facebook.com/ISPSupplies/) [3](https://www.allbiz.com/business/isp-supplies_1G-855-947-7776) [4](https://mikrotik.com/training/partners) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-294 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,18 +89,18 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 交换类目空档：24 口商业监控 PoE 上架一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：对 sales@：Netonix/Teltonika 谱系之外的类目空档——24 口大 PoE 预算监控/末段接入层（上架提案+梯价+到岸价）。
 - **要问的问题**：站点配套的 24 口大 PoE 目前导购指向哪款？有上架位吗？
 - **随附证明**：一页提案（英）+ PoE 预算表+梯价。
 
 ### 第 2 次跟进 · 站点宽温件与万兆上行版
 
-- **推什么**：LT-IS6310G-2GX8GT + LT-S8328XGP-4XS24GT-S
+- **推什么**：STI-280GE（Saga） + STC-424XGGPM-440W（Saga）
 - **切入点**：站点机柜宽温件+万兆汇聚位（交期/宽温/上行/价档话术）。
 - **要问的问题**：站点宽温件与万兆上行位有需求吗？
 - **随附证明**：工业件+万兆件各一页。
@@ -138,7 +138,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

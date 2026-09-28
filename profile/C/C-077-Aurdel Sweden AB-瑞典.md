@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | Aurdel 集团北欧三国（瑞典/丹麦/芬兰）统一采购 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Åkersberga；北欧集团总部 |

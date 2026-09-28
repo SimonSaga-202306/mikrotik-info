@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：public-register。无官网。2024年市镇公开招标文件（Comune di Palau采购透明度附件）供应方名单同列worldtechnology@tiscali.it与worldtechnology@pec.it；工商/商录显示主体为World Technology di Luigi Boi（Impresa Individuale，P.IVA 03196380921，Via Montenero 15, 09122 Cagliari，2008-09-04注册，ATECO 47401），PEC worldtechnology@pec.it；电话070 2346452（黄页与MePA供货商卡）。邮箱来自公开招投标文件（非官网正文），仅为该主体公开登记渠道，触达前需人工复核。 证据：[1](https://trasparenza.palau.it/AttiVisualizzatore/download/allegato/2810179?fId=2810188) [2](https://www.ufficiocamerale.it/7178/world-technology-di-luigi-boi) [3](https://www.paginegialle.it/cagliari-ca/informatica/world-technology-luigi-boi) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-344 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

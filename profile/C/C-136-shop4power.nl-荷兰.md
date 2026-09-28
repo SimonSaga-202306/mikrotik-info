@@ -21,7 +21,7 @@
 | 类型 | 分销+自有品牌 |
 | 反向信号 | PLANET + E-Link |
 | 是否自有品牌 | 是 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | 已做OEM/贴牌，最容易谈中性货 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | Benelux Planet Partner |

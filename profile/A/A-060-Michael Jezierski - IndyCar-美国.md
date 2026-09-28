@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E+MTCSWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 持 MTCSWE；**专做美国赛车运动产业与车队（邮箱是 @indycar.com，人在 IndyCar 赛事方）**；业务：Layer 2/3、无线 LAN、PtP、**IP 视频与组播 IP Video & Multicast**、IP 对讲、**Audinate Dante 认证 1/2/3 级（专业音频 over IP）** → 赛事转播+ Dante 音频对交换机的 IGMP Snooping/组播/低时延要求极高，是极高门槛高单价的细分市场 |
@@ -50,9 +50,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（组播能力完整 + PoE 供电）**
+**STC-424DGGPM-440W（Saga）（组播能力完整 + PoE 供电）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,25 +97,25 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（Fan WiFi/监控的推荐档次）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：分站 Fan WiFi+监控接入层：24 口 PoE++ 一次到位，场地清单备件/到货可直接整箱——赛季收口时盘点他最敏感。
 - **要问的问题**：分站现场 24 口 PoE 一般用哪个档位、现在留多少台备用？
 - **随附证明**：功率实测表 + 与 CRS328-24P/UniFi 对照页（英文）。
 
 ### 第 2 次跟进 · 工业非管理 PoE（临时设施/移动机柜）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：临时设施的赛道旁+内场机柜：宽温宽压、DIN、免配置，随包随拆——拆装运输都轻。
 - **要问的问题**：现场临时点位和机柜现在怎么供货、搭建期交期压到几天？
 - **随附证明**：宽温报告 + DIN 安装图 + 备件包价格。
 
 ### 第 3 次跟进 · 管理型（IGMP 组播/ERPS 环）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：IP 视频/组播业务是他熟项：管理型 VLAN 分段+IGMP+ERPS 快速环——给方案文档面板到底，节省工时。
 - **要问的问题**：席位/监控/计时网段是分开的吗？环网用什么协议做？
 - **随附证明**：VLAN/ERPS/IGMP 配置模板 + ERPS 收敛实测（英文）。
@@ -146,7 +146,7 @@ Where we may be useful: IGMP snooping v2/v3, a querier so the VLAN stops floodin
 
 Are you running IGMP snooping plus a querier, or still flooding the VLAN?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

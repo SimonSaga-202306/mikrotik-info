@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCUME |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 自述「**酒店 Hospitality、多住户公寓 Multi-Dwelling Properties、公共接入 Public Access 的网络与强制门户 Captive Portal 环境专家**」，且「**手上有大量现场工程师与生态方案的数据库**」→ 酒店+MDU 是 PoE 接入交换机批量出货场景；他还有外场工程师网络，能铺量。同事 João Martins（+351 968 850 581 / joao@minimelabs.com，MTCNA+MTCUME） |
@@ -48,9 +48,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -98,25 +98,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（酒店/商圈 WiFi 接入主设备）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他每个场景 24 口一次到位：PoE++ 带齐 AP+监控+话机；他的 captive portal 架构完全不动——架构上零冲突。
 - **要问的问题**：一场景的 AP 平均多少个、楼层交换机现在是什么速位？
 - **随附证明**：功率实测表 + AP/监控混合供电对照。
 
 ### 第 2 次跟进 · 工业非管理 PoE（室外广场点位）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：广场/外部场馆的室外 AP 点位：宽温宽压、DIN、免配置、坏了整机现场热换——给他减少外场上门次数。
 - **要问的问题**：室外/广场点位冬天会出现什么供电问题？
 - **随附证明**：宽温报告 + DIN 安装图 + 一台测试机。
 
 ### 第 3 次跟进 · 管理型 + GDPR/客人网分段
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：管理型 VLAN 多网段+访客隔离+SNMP 资产管理——与他 GDPR 话术对齐，把「客人/员工/监控」的分层写成分段模板。
 - **要问的问题**：他的 captive portal 与 VLAN 分层怎么做的、每个场景分几个 VLAN？
 - **随附证明**：VLAN/ERPS/ACL 模板 + ERPS 收敛实测（英文）+ SNMP 参数页。
@@ -147,7 +147,7 @@ Where we may be useful: 24 gigabit PoE++ ports (APs, IP phones and IPTV boxes on
 
 How many drops per room, and is your IPTV running on multicast?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

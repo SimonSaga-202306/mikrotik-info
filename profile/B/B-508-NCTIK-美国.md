@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MikroTik 认证培训伙伴 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。北卡认证培训机构，开设全部 MTC*E 工程课程，面向网络工程师、ISP 与 WISP。 |
@@ -42,7 +42,7 @@
 
 先小批量试用跑稳定性。备件与 RMA 响应速度比价格更影响成交。
 
-参考型号：`LT-S8328XGP-4XS24GT-S`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 

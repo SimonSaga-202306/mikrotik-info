@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | netxl.com/mikrotik 专页 → 单品牌主推 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Guildford 【2026-09-28 R53 B段复筛达标升级】官网核对：NetXL Distribution Ltd.（英国，help@netxl.com，+44 330 043 3000）自述 **«Disruptive Technology Distribution: Market-leading networking, VoIP and smart automation»**；一级类目含 **Networking**（内含 network-switches 子类），在售 **MikroTik CRS309-1G-8S+IN Cloud Router Switch £201.49（Best Seller）**；品牌含 Ubiquiti／DrayTek／**MikroTik**／Teltonika／Yealink／HPE Instant On／TP-Link／Poynting；设 **Trade Account**（«Apply for a trade account to access additional discounts, custom branded shipments»）。原 B-419 → 现 A-552，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.netxl.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-552 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XG-4XS8GT-S`
+初判可参考型号：`STC-48DGGM-U（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XG-4XS8GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-48DGGM-U evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

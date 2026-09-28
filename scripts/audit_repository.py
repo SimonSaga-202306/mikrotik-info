@@ -103,6 +103,11 @@ def file_units(path):
                 for k, v in r.items():
                     if v:
                         units.append((f'row-{rowno}/{k}', str(v)))
+    elif suffix in {'.xls', '.pdf'}:
+        # Binary price lists (e.g. `Price List_Marvell Based *.xls/.pdf`) are
+        # scan targets for identity/hash only; parse tooling lives in scripts
+        # (xlrd/pypdf), so skip unit extraction without recording an error.
+        return [], {'type': 'binary-document', 'note': 'skipped by extension (.xls/.pdf); content vetted via dedicated parsers'}, []
     else:
         try:
             text = path.read_text(encoding='utf-8-sig')

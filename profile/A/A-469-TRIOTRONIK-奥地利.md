@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 专属邮箱 mikrotik@triotronik.com + 站内 MikroTik 专页 → 单品牌依赖 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Weiz 【2026-09-28 R50 去重提示】与 A-241 （同域名 triotronik.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-113 【2026-09-28 R53 B段复筛达标升级】官网核对：TRIOTRONIK（奥地利）自述 **«der Netzwerkdistributor»**，25 年、三大业务（Distribution／Academy／Technologies）；品牌/产品线含 **MikroTik（官方页：Routing-, Switching- und Wireless-Geräte；且 TRIOTRONIK ist zertifizierter Trainingspartner）**、Ubiquiti、Teltonika、TP-Link/Reyee、**PLANET**、**Moxa**、**Extreme Networks**、RF elements、自有品牌 Lightwin/Wirewin（DAC/AOC、SLIM 跳线、机柜）；另设 Glasfaser/FTTx 与 Wireless（室外/室内 WLAN、许可微波）类目。原 B-113 → 现 A-469，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.triotronik.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-469 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

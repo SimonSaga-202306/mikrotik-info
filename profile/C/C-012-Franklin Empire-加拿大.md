@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6310G / LT-IS6312XGP-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商/替换，价差 5 倍 |
+| 首推 Saga 型号 | STI-280GE（Saga） / STI-488XGGPM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 5 个仓库覆盖 ON/QC/AB/MB/SK；【2026-09-22 补】加拿大最大的独立电气分销商，1942 年创立，约 575 人。注意邮箱域名是 feinc.com 不是 franklinempire.com。自动化与控制部门自成一队（Siemens 工业产品独家）。 |
 

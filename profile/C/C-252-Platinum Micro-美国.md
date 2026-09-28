@@ -21,7 +21,7 @@
 | 类型 | 分销（PLANET 授权） |
 | 反向信号 | PLANET（台厂工业/商用交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | PLANET 美国官网列出的授权代理商，2000 年成立 |
 | 数据来源 | PLANET 经销商名录/2026-09 |
 | 原备注 | 【2026-09-22 新增】planetechusa.com/where-to-buy 列 PLATINUM MICRO 为 partner，成立于 2000 年。 |

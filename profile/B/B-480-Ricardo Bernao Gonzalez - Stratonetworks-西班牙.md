@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328G-4XS24GT-S |
+| 首推 Saga 型号 | STC-424DGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 15+ 年 MikroTik/RouterOS 实施经验，同时是 MikroTik 讲师 |
@@ -48,7 +48,7 @@
 
 寄样机 + 可公开讲的案例，让他讲课时用。不谈返点，谈「你能多讲什么内容」。
 
-参考型号：`LT-S8328G-4XS24GT-S`
+参考型号：`STC-424DGGM（Saga）`
 
 ## 六、注意点
 

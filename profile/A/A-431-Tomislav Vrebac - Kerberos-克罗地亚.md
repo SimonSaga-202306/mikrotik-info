@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 为**小型到大型、多站点**系统做 IT 基础设施设计与实施 → 多站点 = 每台点都要接入交换机 【2026-09-28 R50 去重提示】与 A-378 （同邮箱 mikrotik@kerberos.hr；同域名 kerberos.hr） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-011 【2026-09-28 R52 达标复核补升】与 A-378 疑似同一实体重复提示保留、不合并。C→A 依据：★★★ + MTCEWE + 直达邮箱 mikrotik@kerberos.hr；原 C 级细分「规模过大/决策链长」系模板词误伤，已复核为非规模证据（本人为个人顾问/集成）。原 C-011 → 现 A-431，位置不动。 证据：[1](https://mikrotik.com/consultants?region=Croatia)；批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#A-431 |
@@ -46,7 +46,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328GP-4GX24GT-S`
+初判可参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

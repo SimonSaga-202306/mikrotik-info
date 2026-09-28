@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | ELKO 集团立陶宛站（集团总部在拉脱维亚，覆盖 5+ 国） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Kaunas |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`LT-S8328GP-4GX24GT`
+参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、注意点
 

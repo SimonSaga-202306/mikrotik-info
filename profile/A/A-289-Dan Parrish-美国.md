@@ -31,7 +31,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录 / 认证培训伙伴收录。自述做 **WISP 工程与咨询支持**。 【2026-09-27 A280–A299联络核验】来源等级：leads-only。官方顾问名录/培训伙伴收录MTCRE、Fenton MO、自述WISP工程与咨询，邮箱为遮罩Email链接；未找到可归属公司或正文邮箱，同名的保险/IT咨询主体不并入。保留原电话。 证据：[1](https://mikrotik.com/consultants/north-america) [2](https://mikrotik.com/training/partners) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-289 |
@@ -58,9 +58,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -102,7 +102,7 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（电话/LinkedIn）
 
@@ -113,7 +113,7 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 
 ### 第 2 次跟进 · 核活后：站点件话题短件
 
-- **推什么**：LT-IS6310G-2GX8GT + LT-S8328GP-4GX24GT-S（演示机可选）
+- **推什么**：STI-280GE（Saga） + STC-424DGGPM-440W（Saga）（演示机可选）
 - **切入点**：WISP 工程语境：站点宽温件与接入层演示机自用位。
 - **要问的问题**：您的 WISP 站点项目需要高性价比接入/宽温件吗？
 - **随附证明**：一页规格（英）。
@@ -151,7 +151,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

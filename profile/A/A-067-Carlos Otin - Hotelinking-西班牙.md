@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 高级网络工程师，专注**酒店 hospitality 与多站点 multi-site** 可扩展网络；专长 MikroTik 路由 + **交换 switching** + 无线 + **GPON 集成**；做网络审计、复杂故障排查、配置标准化、对接监控与自动化平台 → 酒店多站点 = PoE 接入交换机批量需求 |
@@ -48,9 +48,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -98,25 +98,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（酒店楼层接入层）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：酒店一层楼的 AP+IPTV+话机+监控一张网：24 口 PoE++ + 4×10G 上行，按「每层一台」给他算总拥有成本。
 - **要问的问题**：WiFiBot 交付的酒店楼层接入换型时，哪段成本最头疼？
 - **随附证明**：每层一台的 BBOM 测算 + 规格对照（英文）。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（公区/户外/机电间点位）
 
-- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **推什么**：STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）
 - **切入点**：酒店泳池/露台/停车场/机电间的零散点位：宽温 DIN 免配置 4 口小机，NOC 远程看不出差别、现场免调试。
 - **要问的问题**：公区零散点位现在用什么型号？坏机率高不高？
 - **随附证明**：宽温报告 + 备件包价 + 免配置说明。
 
 ### 第 3 次跟进 · 管理型 PoE（客人网/员工网分段标准件）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：WiFiBot「厂商无关」标准件清单加一个候选：VLAN 三层分段+ERPS 冗余的接入层模板，整套交付文档英文齐套。
 - **要问的问题**：标准件清单评审周期是多久？我们可以走一次技术评估。
 - **随附证明**：VLAN/ERPS 模板 + 实测 + 质保/备件政策（英文）。
@@ -147,7 +147,7 @@ Where we may be useful: 24 gigabit PoE++ ports (APs, IP phones and IPTV boxes on
 
 How many drops per room, and is your IPTV running on multicast?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

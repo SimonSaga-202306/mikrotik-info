@@ -21,7 +21,7 @@
 | 类型 | MikroTik 生态集成商 |
 | 反向信号 | MikroTik + Ubiquiti（另用 Cisco/Fortinet/Ruckus 等） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | 厂商官网品牌页（当前） |
 | 原备注 | 伊利诺伊本地托管 IT 服务商，1996 年至今，**235+ 活跃客户**（含德州、佛州、亚利桑那、密歇根）。官网**明确列出 MikroTik 与 Ubiquiti** 为其信任品牌。**有可直接用的邮箱**。 |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`LT-S8328XGP-4XS24GT-S`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 

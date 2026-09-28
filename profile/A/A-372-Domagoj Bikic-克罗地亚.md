@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | Pondi d.o.o.。 【2026-09-27 A360–A378联络核验】来源等级：public-register。官网pondi.hr联系页仅列电话+385 (0)21 494-020（pon-pet 08-16h）与公司信息：Pondi d.o.o.，Skradinska 11（sjedište Ostravska 8），21000 Split，OIB 62781739468，MBS 060121488，成员/董事Domagoj Bikić（direktor）——正文未列邮箱文字（站点以保护写法呈现）。公司登记/工商目录（companywall.hr、reputacija.hr）给ekomunikacija@pondi.hr（另见knjigovodstvo@pondi.hr、marketing@pondi.hr）与公司电话021494000等。本行原入口手机+385 98 315319保留，新增登记邮箱作为触达入口；城市Split与原字段一致，未改。 证据：[1](https://www.pondi.hr/kontakt/) [2](https://www.companywall.hr/tvrtka/pondi-doo/MMxD5i8D) [3](https://reputacija.hr/tvrtka/pondi/dokumenti) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-372 |
@@ -44,7 +44,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

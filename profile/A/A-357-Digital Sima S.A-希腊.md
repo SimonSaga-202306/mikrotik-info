@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=greece） |
 | 原备注 | 【2026-09-27 A340–A359联络核验】来源等级：partner-directory。官网联系页给地址Ilia Iliou 54, 11743 N. Kosmos, Athens、+30 210 9010401、技术部+30 210 7002749与在线表单（正文未列邮箱文字）；sales@digitalsima.gr取自Zyxel官方分销商名录（同列该地址与电话）；公司简介页确认按厂商分销Allied Telesis等，覆盖希腊/塞浦路斯/马耳他。本行AT伙伴名录主体即此。 证据：[1](https://www.digitalsima.gr/contact/) [2](https://www.zyxel.com/global/en/where-to-buy/distributors-gr) [3](https://www.digitalsima.gr/company-profile/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A340-A359.json#A-357 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

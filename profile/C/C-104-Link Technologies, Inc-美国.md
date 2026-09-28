@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★★ 【升级：这不只是总代，还是北美最大的 MikroTik 工程公司之一】自述「北美领先的 MikroTik 工程与咨询公司之一」，客户从单人创业到全国性 ISP、**市政公用事业 utilities、园区/工业/多站点企业**，项目跨多洲。公司内 2 位认证顾问：Dennis Burgess（314-735-0270 / dmburgess@linktechs.net，6 证）、Dan Parrish（support@linktechs.net，5 证）。★**交换专长（逐条列出）：VLAN/Q-in-Q、VLAN 翻译与重写、LACP/绑定、生成树 RSTP/MSTP、二层传输与冗余、GPON 集成、EVPN/VXLAN、10G/25G/40G/100G/200G/400G 交换矩阵**。路由：BGP/OSPF/MPLS-TE/策略路由/路由反射器/CGNAT。★**另开网店 shop.linktechs.net 卖设备 → 总代 + 咨询集成 + 零售，三线合一，北美第一优先账号** |

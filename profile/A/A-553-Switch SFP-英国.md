@@ -21,7 +21,7 @@
 | 类型 | 分销 |
 | 反向信号 | Antaira |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 同价位替代 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 【2026-09-28 R53 B段复筛达标升级】官网核对：Switch SFP Ltd（英国，sales@switchsfp.com，01285 700 750，原表信号 Antaira 授权）自述 **«An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers»**、Jisc 网络设备框架成员；站内类目含 **Industrial Switches（工业交换机）**、Router、Media Converter、Network Cards、Ethernet Extender、Serial to Ethernet 等，并设渠道合作（与 ASM Technologies 渠道分销合作）。原 B-424 → 现 A-553，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://switchsfp.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-553 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XG-4XS8GT`
+初判可参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

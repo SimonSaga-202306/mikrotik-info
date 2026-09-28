@@ -21,7 +21,7 @@
 | 类型 | 分销 |
 | 反向信号 | 工业DIN（管理型/PoE） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 第二供应源 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | Calle Laguna del Marquesado 12 |

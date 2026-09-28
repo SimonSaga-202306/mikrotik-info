@@ -21,7 +21,7 @@
 | 类型 | 分销/集成商（Perle 授权） |
 | 反向信号 | Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Perle Systems 官方分销名录 |
 | 原备注 | Perle 授权分销商。 【2026-09-27 A210–A239联络核验】来源等级：official。官网联系页Sales显示文字与mailto一致。Enquiries显示info@但mailto为help@infinitetechnology.ie，保留冲突不擅选；主用sales。Dublin +35312939000、Unit E3 Centre Point Business Park一致，不把地图供应商信息当联系邮箱。 证据：[1](https://infinitetechnology.ie/contact-infinite-technology/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-238 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · MSP 接入层第二来源一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：给 MSP 客户项目的 24 口 PoE 接入层第二来源（供货连续性+保修），一封到位。
 - **要问的问题**：客户项目接入层目前有固定的第二来源位吗？
 - **随附证明**：一页报价+规格（英）+ 保修条款。
 
 ### 第 2 次跟进 · Perle 类目旁位：高功率 PoE++/万兆上联
 
-- **推什么**：LT-S8328XGP-4XS24GT-S（万兆上联通配）
+- **推什么**：STC-424XGGPM-440W（Saga）（万兆上联通配）
 - **切入点**：不碰 Perle 主类：提供 90W/口 PoE++ 与万兆上联通配位（其常见 SKU 之外的空档）。
 - **要问的问题**：高功率户外/园区 PoE 需求出现时通常配什么？
 - **随附证明**：PoE++ 规格页 + 对比表（英）。
 
 ### 第 3 次跟进 · 备件池小批
 
-- **推什么**：LT-IS6310G-2GX8GT 等小批
+- **推什么**：STI-280GE（Saga） 等小批
 - **切入点**：MSP 项目备件池：8 口/收发器小批常备。
 - **要问的问题**：项目备件池走常备价吗？
 - **随附证明**：备件小批价卡。
@@ -141,7 +141,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

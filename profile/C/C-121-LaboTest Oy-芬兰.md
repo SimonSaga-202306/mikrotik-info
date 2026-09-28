@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 芬兰分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 【关联】同集团另一实体：LaboTest Oy（芬兰）（labotest.se） |

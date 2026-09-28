@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | USMonroe；WISP 渠道；【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-361。核验要点：店铺分类含“Routers & Switches”，在售 MikroTik CRS418-8P-8G-2S+RM（$449，页面示8 in stock）与 Ubiquiti USW Pro XG 24（$1,185） → 交换机渠道证据成立，升A（A-383）。未获具名联系人，邮箱原文 Sales@makrowisp.com（首字母大写保留）与电话+1 980 441 1125 保留（按人工定级A记录）。页面缺货/库存字样为抓取时状态，不构成需求或供货承诺。未发送邮件、未提交表单。 证据：[1](https://makrowisp.com/) [2](https://makrowisp.com/product-category/routers-switches/) 仅覆盖所述商品品类事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-383 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

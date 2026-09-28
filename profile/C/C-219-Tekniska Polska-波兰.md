@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Gold） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6320G-4GX16GT-D |
+| 首推 Saga 型号 | STI-2160DGGM（Saga） |
 | 切入点 | 金牌分销 + 波兰 T1，体量大 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 波兰 T1 |

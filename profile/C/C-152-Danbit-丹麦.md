@@ -21,7 +21,7 @@
 | 类型 | 分销 |
 | 反向信号 | 自有 + Moxa EDS-205 |
 | 是否自有品牌 | 部分 |
-| 首推 SmartByte 型号 | LT-IS6328XGP-4XS24GT-4BT |
+| 首推 Saga 型号 | STI-42424XGGPM-4BT（Saga） |
 | 切入点 | 已有PoE++(95W/口)线→补10G与24口 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 【待补】本行由分销商名录批量导入，三星依据仅为渠道等级（分销）与「自有 + Moxa EDS-205」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 复核】官网联系页邮箱为图片；本轮未获可复制邮箱：danbit.dk 联系页邮箱为图片渲染（无法复制）；/da/kontakt 与 /da/handelsbetingelser 均返回 404；可见电话 +45 56 66 20 20 证据：[1](https://danbit.dk/da/kontakt-os/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#C-152 |

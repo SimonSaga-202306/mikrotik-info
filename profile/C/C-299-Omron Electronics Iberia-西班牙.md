@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Silver） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6320G-4GX16GT-D |
+| 首推 Saga 型号 | STI-2160DGGM（Saga） |
 | 切入点 | 大集团自有渠道，宜先从其区域经销商切入 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 体量大、流程长，优先级低；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。西班牙 **Silver 分销商**。 |

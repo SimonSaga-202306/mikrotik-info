@@ -31,7 +31,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A320–A339联络核验】来源等级：leads-only。AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（ditta individuale，P.IVA 01218330494），Via Vittorio Veneto 24, 57022 Castagneto Carducci (Donoratico)，电话0565 774391。官网域名camelisat.it现仅显示“I frutti del poggio”页面（未见Cameli Sat联系信息）；Kblue厂商案例页（第三方，2022）以“Kblue Point Cameli Sat”名义给出info@camelisat.it与0564 774391（区号与工商录0565不符）。因官网未见邮箱、第三方联系方式未获第二来源互证，本行维持leads-only并保留【待人工补信息】，主字段不写邮箱与网站。 证据：[1](https://kblue.it/la-domotica-kblue-soddisfa-le-esigenze-dei-villaggi-vacanze/) [2](https://www.coobiz.it/azienda/castagneto-carducci-riparazione-macchine/co6471615) [3](http://www.camelisat.it/) [4](https://www.europages.it/CAMELISAT-DI-BURGALASSI-AGNESE/SEAC000324635-001.html) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A320-A339.json#A-334 |
@@ -50,7 +50,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -80,7 +80,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 电话人工核活
 
@@ -91,7 +91,7 @@
 
 ### 第 2 次跟进 · 核活后：24 口短件
 
-- **推什么**：LT-S8328GP-4GX24GT-S
+- **推什么**：STC-424DGGPM-440W（Saga）
 - **切入点**：意语一页报价+RMA。
 - **要问的问题**：监控/网络项目的接入层谁供？
 - **随附证明**：一页报价（意）。
@@ -127,7 +127,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

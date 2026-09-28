@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328G-4XS24GT-S |
+| 首推 Saga 型号 | STC-424DGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 开 MikroTik 课程（cursos-mikrotik.com）；Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、**无线骨干网** |
@@ -48,7 +48,7 @@
 
 先问他在做什么监控项目、单口要多大功率，用小批量试单切入。
 
-参考型号：`LT-S8328G-4XS24GT-S`
+参考型号：`STC-424DGGM（Saga）`
 
 ## 六、注意点
 

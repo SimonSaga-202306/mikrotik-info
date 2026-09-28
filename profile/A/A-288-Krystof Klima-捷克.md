@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。自述专长带宽管理与队列、RADIUS、高级防火墙、VPN 与隧道、OSPF/BGP 动态路由。 【2026-09-27 A280–A299联络核验】来源等级：official-company。wifiprofi.cz官网正文给Kryštof Klíma、Lety 25229、IČ 61646385、+420 774 331 774与klima@wifiprofi.cz，自述MikroTik首期trainer证书TR0001；课程页把dobri.net列为技术支持站，第三方目录另给klima@dobri.net（次级）。 证据：[1](https://www.wifiprofi.cz/) [2](https://shop5.wifiprofi.cz/certifikacni-mtcre-skoleni-mikrotik-tvv-praded-20-22-5-2024/) [3](https://www.edb.cz/firma-61646385-krystof-klima) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A280-A299.json#A-288 |
@@ -51,9 +51,9 @@
 
 ### 推什么型号
 
-**LT-S8328XG-4XS24GT-S（4×10G 上行，收敛比高）**
+**STC-424XGGM（Saga）（4×10G 上行，收敛比高）**
 
-> 系统初判型号：`LT-S8328GP-4GX24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424DGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -98,11 +98,11 @@ ISP 对设备故障率极度敏感，一台炸掉就是一批投诉；要先小�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · TR0001 级尊重短件+自用演示机位
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ 演示机可选）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）
 - **切入点**：捷克语/英语一封：尊重您二十年培训与 MikroISP 主事；只邀您本人 ISP 实验/工程项目用一台演示机，完全不打会议/学员/店铺渠道主意。
 - **要问的问题**：您自己的实验/工程项目用得上 24 口 PoE 演示机吗？
 - **随附证明**：一页规格（捷/英）。
@@ -147,7 +147,7 @@ Where we may be useful: 4×10G uplink, QinQ subscriber isolation, port isolation
 
 How many subscribers per access switch, and what uplink ratio are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★ 资深网络工程师：参与多个**国家级 ISP 规模**基础设施设计与 fabric、路由架构、多厂商环境；实管 **40+ POP、约 8000 客户、20 Gbps 流量**；BGP 架构、OSPF/IS-IS/SRv6/IPv6、网络迁移与高可用 → 规模最大的个人顾问之一 |

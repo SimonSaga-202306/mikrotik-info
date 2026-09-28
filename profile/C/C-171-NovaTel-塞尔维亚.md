@@ -21,7 +21,7 @@
 | 类型 | 分销（Westermo Reseller） |
 | 反向信号 | Westermo |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 贝尔格莱德；【2026-09-23】Westermo 官方 where-to-buy 名录确认的分销商。塞尔维亚 reseller（本地库存）。 |

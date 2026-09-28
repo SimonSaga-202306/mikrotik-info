@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | WAV 集团加拿大站 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Ottawa 【关联】同集团另一实体：ISP Supplies（美国，powered by WAV）（ispsupplies.com） 【2026-09-28 R50 去重提示】与 A-294 （同邮箱 sales@ispsupplies.com；同域名 ispsupplies.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-014 |

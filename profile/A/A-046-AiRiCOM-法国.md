@@ -21,7 +21,7 @@
 | 类型 | 分销（HMS：Red Lion / N-Tron） |
 | 反向信号 | Red Lion, N-Tron |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 工业交换机同类替换 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Boufféré + 巴黎两处办公室；【2026-09-22 补】经 Moxa 渠道名录确认同时为 Moxa 法国渠道伙伴，主营 Moxa 工业网络产品线。 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 404 页正文可见；搜索索引所示 commercial@/support@airicom.fr 未复核，暂不写入：marketing@airicom.fr。airicom.com 404 页正文：Vous pouvez nous contacter via notre site Internet, par e-mail — 链接指向 marketing@airicom.fr；官网产品线为 Milesight / HMS(Anybus, Ewon, Intesis) / Watteco / Seneca / Advantech 未发送邮件、未提交表单。 证据：[1](https://airicom.com/nous-contacter/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#A-046 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,25 +89,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（IoT 项目配套）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他网关/摄像头/LoRaWAN 设备售出的每个项目都要配交换机：24 口 PoE++ 直接做他的项目套餐配件，先跟着他的 IoT 设备卖。
 - **要问的问题**：你们网关项目一般配什么价位/段位的 PoE 交换机？
 - **随附证明**：与 Moxa EDS 同档位规格-价格对照表（英文）+ 法国本土发货的物流时效一页说明。
 
 ### 第 2 次跟进 · 工业非管理 PoE（远程柜/变电站）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：Ewon/Moxa 类远程柜要 DIN 宽温 PoE：用宽压+看门狗，替他省去配套的工业开关高价。
 - **要问的问题**：远程柜里 PoE 供电现在走哪个系列、贵不贵？
 - **随附证明**：宽温报告 + DIN 安装图 + 一台测试机。
 
 ### 第 3 次跟进 · 管理型 + 上架他的新目录
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：他目录在扩（Cybersécurité OT 新品上架）：把管理型 PoE + ERPS 在他新目录里占位，项目注册 + 两年供货承诺封盘。
 - **要问的问题**：新目录还有几个交换机空位、哪个价格档他们卖不动？
 - **随附证明**：管理型规格书（英文）+ 项目注册条款 + 价格保护函。
@@ -138,7 +138,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

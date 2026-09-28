@@ -298,7 +298,7 @@ def main():
         w("| 类型 | %s |" % typ)
         w("| 反向信号 | %s |" % signal)
         w("| 是否自有品牌 | %s |" % (ownbrand or "—"))
-        w("| 首推 SmartByte 型号 | %s |" % (sku or "—"))
+        w("| 首推 Saga 型号 | %s |" % (sku or "—"))
         w("| 切入点 | %s |" % (angle or "—"))
         w("| 数据来源 | %s |" % (src or "—"))
         w("| 原备注 | %s |" % (note or "—"))
@@ -412,7 +412,7 @@ def main():
             w("")
             w("## 八、3 步跟进计划（R54，**最多 3 次**）")
             w("")
-            w("> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；"
+            w("> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；"
               "**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。")
             w("")
             for st in rec["followup_plan"]:

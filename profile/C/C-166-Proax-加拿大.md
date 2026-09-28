@@ -21,7 +21,7 @@
 | 类型 | 分销（Advantech 授权） |
 | 反向信号 | Advantech 加拿大官方分销商，上架 EKI-7712G-4F 网管型（8GE+4SFP）、EKI-7712G-4FPI 宽温 PoE 等 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | EtherWAN/Advantech 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。加拿大本地发货与自提，覆盖工业通信与网络产品线。 |

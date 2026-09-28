@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
 | 原备注 |  【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网 Connecticut 站公开服务邮箱；仅转接入口，非采购人。与 Rochester 同品牌不同地方入口，避免重复集团开发。 来源：[1](https://www.security101.com/connecticut) |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -76,25 +76,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（商业物业接入层）+服务邮箱递资料
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：经网点服务邮箱递一份简短资料：商业物业/制造项目的 24 口接入层成本对照，附 TAA 边界声明（共购段不供）。
 - **要问的问题**：商业物业项目的接入层同规格对照，转给采购一位？
 - **随附证明**：适用边界声明 + 单端口测算 + 规格对照（英文）。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（监控拖车/临时点位）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：拖车与临时部署点位：宽温 DIN PoE 扛户外温差，给他新长线当配套。
 - **要问的问题**：移动拖车上的交换与供电现在怎么配？
 - **随附证明**：宽温报告 + 部署示意 + 备件包价。
 
 ### 第 3 次跟进 · 管理型 PoE（园区分段标准件）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：商业地产/制造的安防网段标准件：VLAN/ERPS 模板，全国账户复用。
 - **要问的问题**：全国账户项目的网段标准要不要统一模板？
 - **随附证明**：VLAN/ERPS 模板 + 收敛实测（英文）。
@@ -125,7 +125,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

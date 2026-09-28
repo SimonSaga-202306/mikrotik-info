@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | Senetic 集团保加利亚站 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Sofia 【关联】Senetic（同集团另有 pl / co.uk / fr / it / ch / se 站点，一国的采购决策可能由集团统一，谈一家等于谈七国） |

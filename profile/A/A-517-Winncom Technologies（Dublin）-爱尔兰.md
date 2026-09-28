@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | Winncom 是跨国无线分销集团（美/欧/独联体） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Dublin；EMEA 总部 【2026-09-28 R53 B段复筛达标升级】官网核对：Winncom Technologies（都柏林注册/全球无线宽带分销）为 **WISP/无线宽带专营分销商**：代理 Tarana／Intracom／SIAE／Proxim／Mimosa／Nomadix／Siklu，**横幅专推「MikroTik New CRS Series」并有 MikroTik Overstock Sale、Altowav 户外交换机促销**；行业会员 CANASA／CANWISP／FBA／FISPA／OnGo／UKWISPA，参展 WISPAPalooza。原 B-282 → 现 A-517，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.winncom.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-517 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

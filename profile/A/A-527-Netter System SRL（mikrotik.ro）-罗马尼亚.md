@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 域名就是 mikrotik.ro → 单品牌依赖最高档 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Cristuru Secuiesc 【2026-09-28 R53 B段复筛达标升级】官网核对：mikrotik.ro（Netter System SRL，罗马尼亚）为 **MikroTik 专营网店**（标题「Aici gasiti produsele marca MikroTik RouterBOARD de la routere wireless pentru acasa pana la routere profesionale pentru ISP」）；类目含 **Switch-uri**（https://mikrotik.ro/5-Switch-uri）、Routere Ethernet、Wireless SOHO/802.11abgn/ac/ad、Routere 3G/4G LTE、Powerline、IoT、RouterBOARD、Surse-POE、Licenta RouterOS、Antene；在售 **CRS418-8P-8G-2S+5axQ2axQ-RM（„HW L3 offload L3, procesor ARM quad-core 2,2 GHz, 16 porturi Gigabit Ethernet“，2.339 lei，可加购）**，另有 L009UiGS-2HaxD-IN、hAP ax²、hAP ax lite、LHG-5axD-XL、hAP be lite。原 B-318 → 现 A-527，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://mikrotik.ro/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-527 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

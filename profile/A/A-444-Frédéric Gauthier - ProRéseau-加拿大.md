@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCSE+MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328G-4XS24GT-S |
+| 首推 Saga 型号 | STC-424DGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 【2026-09-28 R53 B段复筛达标升级】官网核对：ProRéseau（魁北克城）为一人公司，服务含结构化布线、**routeur ou switch 编程**、5.2GHz 83km 点对点、SIP 电话；官网直接给出负责人手机与 fgauthier@proreseau.net。原 B-063 → 现 A-444，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.proreseau.net/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-444 |
@@ -47,7 +47,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328G-4XS24GT-S`
+初判可参考型号：`STC-424DGGM（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328G-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

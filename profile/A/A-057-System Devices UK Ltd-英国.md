@@ -21,7 +21,7 @@
 | 类型 | 分销（Antaira 授权） |
 | 反向信号 | Antaira |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Runcorn，英国工业网络分销；【2026-09-23】Antaira 官方 where-to-buy 名录确认的分销商。英国分销商，另有 info@systemdevices.co.uk。 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（安防/视觉项目配套）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：机器人+视觉项目里的摄像/传感供电：24 口 PoE++ 先送少量测试机，让他在真实项目里验证。
 - **要问的问题**：机器类项目的 PoE 供电现在接什么设备？
 - **随附证明**：英文规格对照页 + 功率实测。
 
 ### 第 2 次跟进 · 工业非管理 PoE（车场/轨交/污水柜外）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他的轨道/污水/油气场景里柜外点位：宽温宽压、DIN、免配置——在他自动化总包里留座。
 - **要问的问题**：柜外点位现在什么来源、冬夏重更换吗？
 - **随附证明**：宽温报告 + DIN 安装图 + 台测试机寄 Runcorn。
 
 ### 第 3 次跟进 · 管理型
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：管理型进他的总包方案：VLAN 分段+ERPS 环网——随 ISO 流程交付完整文档包。
 - **要问的问题**：他们的 ISO 流程对供应商资质/范围（scope）有什么要求？
 - **随附证明**：ERPS 收敛实测 + spec 文件包 + 两年供货承诺。
@@ -141,7 +141,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

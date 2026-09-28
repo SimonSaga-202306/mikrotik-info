@@ -21,7 +21,7 @@
 | 类型 | 分销+网店 |
 | 反向信号 | 工业管理型（EX-9911M环网） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 第二供应源；公开电话与邮箱 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 原批量导入说明（三星依据仅渠道等级、需先查证是否已有工业交换机/PoE++产品线），本轮核验为“已有”，待补标记解除。【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-465（批量导入行，备注含待补标记）。核验要点：站内搜索命中在售工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA），Networking 分类存在（17项） → 待补标记所问“是否已有工业交换机产品线”核验为是；升A（A-381），待补标记解除。该店主业为测试/测量与监控仪器（HW Group STE2/Poseidon2 等）、马德里门店+校准实验室，交换机为其中一类，切入以工业线补位为主。原电话+34 91 528 54 37与邮箱info@ditecom.com保留；未获具名联系人（按人工定级A记录）。未发送邮件、未提交表单。 证据：[1](https://ditecom.com/) [2](https://ditecom.com/?s=switch) 仅覆盖所述产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-381 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 伙伴等级：Resell。 【2026-09-27 A300–A319联络核验】来源等级：official-company。官网页脚给info@gci.it、P.I. 01546870187；米兰法定总部、Lacchiarella运营地与罗马办公室（本行城市Roma对应后者）；AT名录Resell。 证据：[1](https://www.gci.it/) [2](https://www.alliedtelesis.com/us/en/resellers) [3](https://www.dnb.com/business-directory/company-profiles.general-computer-italia-spa.1870e0cd354ae4dbf9ef17a1549e2db6) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-309 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -73,18 +73,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 维保备件库一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：意语一封：过保交换机更换的备件库供应——批次一致性+RMA 先行+意大利到货期，适配其 SLA 承诺。
 - **要问的问题**：维保备件库的接入交换目前有第二来源位吗？
 - **随附证明**：备件供应方案一页+RMA 条款。
 
 ### 第 2 次跟进 · 工业备件窄线
 
-- **推什么**：LT-IS6310G-2GX8GT 等窄线
+- **推什么**：STI-280GE（Saga） 等窄线
 - **切入点**：工业现场维保的宽温备件窄线。
 - **要问的问题**：工业点位备件有常备目录吗？
 - **随附证明**：窄线一页价卡。
@@ -122,7 +122,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★★ 【升级：希腊 MikroTik 生态的源头】自述「**本公司是希腊第一家 MikroTik 分销商（2001 年起），并从 2011 年起是希腊的 MikroTik 培训中心**」。联系人 Smaragdos，+30 210 451 1087 / smarag@hellascom.gr。项目能力：HotSpot、Netinstall、脚本、桥接、RADIUS、3G/LTE、CAPsMAN、The Dude 监控、故障切换与负载均衡、隧道与 VPN、长距离无线 PtP/PtMP/Mesh、L7 流量整形、虚拟化、防火墙 Mangle、OSPF/BGP、QoS 与队列、**船用 WiFi 项目 Marine WiFi**、VoIP、网络视频流、RoIP、**KNX（楼宇自控总线）**、**IPTV 项目（用 MikroTik 组播）** → 分销+培训+集成三位一体，希腊第一优先账号 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（组播能力完整 + PoE 供电）**
+**STC-424DGGPM-440W（Saga）（组播能力完整 + PoE 供电）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -92,25 +92,25 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：酒店一层/一栋楼的 AP+IPTV+CCTV：24 口 PoE++ 一台吃下，重点讲 PoE 预算、端口隔离（客房/设备网段）与 250m 延长（老楼布线救急）。
 - **要问的问题**：他们 hospitality 项目里 24 口 PoE 现在用什么型号、缺什么规格？
 - **随附证明**：功率实测 + 老楼延长方案（250m/端口隔离）+ 与 CRS328-24P 对照。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（隧道/机房外/塔站）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：隧道与高速公路现场的通信箱、隧道口设备柜：宽温宽压、DIN、免配置，配合他们的漏缆/PA 系统。
 - **要问的问题**：隧道/道路项目的现场箱体目前用什么品牌规格？
 - **随附证明**：宽温报告 + 双电源接线图 + 隧道场景选型页。
 
 ### 第 3 次跟进 · 管理型 PoE（IPTV 组播 + 环网）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8328XGP-4XS24GT-S（24×PoE + 4×SFP+）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+）
 - **切入点**：他们做 IPTV 与船用 WiFi：IGMP snooping/querier、组播 VLAN、ERPS 环网，直接对上技术标书条目。
 - **要问的问题**：IPTV/组播项目里，他们对交换机最看哪几个指标？
 - **随附证明**：组播不泛洪实测 + ERPS 收敛数据 + 招标参数条目（希腊语/英语）。
@@ -141,7 +141,7 @@ Where we may be useful: IGMP snooping v2/v3, a querier so the VLAN stops floodin
 
 Are you running IGMP snooping plus a querier, or still flooding the VLAN?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

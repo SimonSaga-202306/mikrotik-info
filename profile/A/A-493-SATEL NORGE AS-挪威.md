@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 挪威工业无线通信分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：produktinfo@satel.no。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://www.satel.no/kontakt/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-518 【2026-09-28 R53 B段复筛达标升级】官网核对：SATEL NORGE AS（挪威）自述 **«spesialisert på profesjonelle industrielle produkter og trådløse systemer»**、**«official distributor»**；站内检索 switch 结果为 **ORing Industrial Networking** 产品线：«en omfattende portefølje av hardføre industrielle Ethernet-switcher, fra kostnadseffektive Umanagede, Managed, Mediakonvertere, Fibertransivere (SFP) og PoE-Switcher…til avanserte Layer 2/3 Managed switcher med hurtige redundante ringer»，并有隧道项目案例（Hvalertunnelen 交付 80+ 台全管理光纤交换机）；主营 GNSS/SCADA/机器控制等无线数传。原 B-518 → 现 A-493，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://satel.no/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-493 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

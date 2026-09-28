@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=italy） |
 | 原备注 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】旧官网搜索索引邮箱；页面404，待核。旧域名nectelecomunicazioni.it实际跳转新官网。info邮箱来自旧官网联系页/旧招聘PDF搜索索引，旧联系页及SA8000 PDF实际404，未在新站正文再次确认；新站有效表单/get-in-touch/为备用。官网自述700全球人员，存在规模/总部采购风险，保留原级不擅改口径。 来源：[1](https://www.nectlc.com/contacts.php?lang=fr) [2](https://www.nectlc.com/get-in-touch/) [3](https://www.nectlc.com/) [4](https://www.wildix.com/es/partners/nc-telecomunicazioni-srl/) |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -73,25 +73,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（商业段 Cabling/Networking 项目接入层）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：供应商名录敲门：公司资质+CE 文件包+24 口 PoE++ 对照——走 Networking/Cabling BU 商业段（汽车/制造/运输），声明公立/医疗/金融段不涉。
 - **要问的问题**：商业段布线/网络项目的接入层现在配什么？（请转 Networking BU）
 - **随附证明**：资质包 + CE 文件 + 边界声明（意/英）。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（海事/厂房/户外点位）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：Luxury 游艇建造与厂房/运输户外点位：宽温 DIN PoE——海事环境的真实场景。
 - **要问的问题**：船坞/厂房户外的供电交换坏机率？
 - **随附证明**：宽温报告 + 海事/厂房场景 + DIN 图。
 
 ### 第 3 次跟进 · 管理型 PoE（项目分段标准件）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：项目分段标准件：VLAN/ERPS 模板+样机评估进工程库。
 - **要问的问题**：分段模板要不要评估进工程库？
 - **随附证明**：VLAN/ERPS 模板 + 样机。
@@ -122,7 +122,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

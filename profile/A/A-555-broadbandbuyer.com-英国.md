@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Milton Keynes 【2026-09-28 R53 B段复筛达标升级】官网核对：broadbandbuyer（英国，info@broadbandbuyer.com，01908 760795）自述 **«Experts in networks. Your go-to distributor for class-leading network technologies»**；首页推荐类目含 **Gigabit Switches（/store/gigabit-switches/）**、WiFi APs、WiFi Routers、Firewalls、VoIP Phones、IP Cameras、Ethernet Cables；品牌合作含 Ubiquiti（**UK Distributor & Master Reseller**）、DrayTek、NETGEAR、TP-Link、Ruijie Reyee、Zyxel、Hikvision、Yealink、WatchGuard；促销页设 **TRADE ONLY 免费培训**（贸易客户）。原 B-429 → 现 A-555，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.broadbandbuyer.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-555 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XG-4XS8GT-S`
+初判可参考型号：`STC-48DGGM-U（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XG-4XS8GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-48DGGM-U evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

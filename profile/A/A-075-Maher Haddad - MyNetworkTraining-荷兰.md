@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 10 证全拿 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 10 证全拿 + 认证讲师，20+ 年 IT；技能清单明确含 **Switching**、MPLS/VPLS、The Dude、CAPsMAN、流量控制 |
@@ -43,9 +43,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,25 +93,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（拍摄实验台+学员推荐配置）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他的 LAB 哲学：24 口 PoE++ + 4×10G 上行的真实硬件做新课拍摄台，课程「推荐配置」挂我们型号=7 万学员的长尾带货。
 - **要问的问题**：新开课缺不缺实验硬件？我们可以提供拍摄样机。
 - **随附证明**：样机+规格书（英文）+ 带货合作说明。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（工业/监控课场景）
 
-- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **推什么**：STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）
 - **切入点**：补足课程场景：室外/工业 PoE 主题微课用宽温 DIN 小机演示（监控/摄像头供电课的天然教具）。
 - **要问的问题**：有没有计划做工业网络或监控方向的课？
 - **随附证明**：演示样机 + 微课素材建议（英文）。
 
 ### 第 3 次跟进 · 管理型 PoE（L3 卸载联合实测课）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：直打他已开的课：L3 硬件卸载 across 品牌实测对比（MikroTik vs 我们），课程上线同时挂购买指引——他出内容我们出机和数据。
 - **要问的问题**：L3 卸载课要不要加一个非 MikroTik 对照组？数据我们出。
 - **随附证明**：卸载实测数据（可公开）+ 联合课件授权。
@@ -142,7 +142,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you running for L2 redundancy — STP/RSTP/MSTP, or ERPS?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

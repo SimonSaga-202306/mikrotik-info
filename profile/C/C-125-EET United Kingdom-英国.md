@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS8GT-S |
+| 首推 Saga 型号 | STC-48DGGM-U（Saga） |
 | 切入点 | EET 集团=北欧最大 IT 分销，英国+挪威+丹麦+芬兰+瑞典都有实体 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Uxbridge；泛欧大分销 |

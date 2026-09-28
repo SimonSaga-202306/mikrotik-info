@@ -21,7 +21,7 @@
 | 类型 | 大分销+自有品牌 |
 | 反向信号 | RND 等 |
 | 是否自有品牌 | 部分 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Conrad走Mirakl入驻；Distrelec供应商onboarding |
 | 数据来源 | 重点客户/2026-09 |
 | 原备注 | 最快出单路径 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用 |

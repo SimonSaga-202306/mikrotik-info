@@ -21,7 +21,7 @@
 | 类型 | B2B IT分销 |
 | 反向信号 | STONET/PLANET/TRENDnet/Moxa/StarTech |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 上架/中性货，SKU多 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | Moxa EDS-G308 €298 |

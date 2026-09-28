@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 【2026-09-28 R53 B段复筛达标升级】官网核对：Mid-Atlantic Rugged Systems（美国，站点 marugged.com）自述 **«Rugged Industrial Computer and Networking Technologies»／«stocking distributor»**，方案含 **Industrial Networking**，厂商伙伴含 **Moxa（台湾）、ORing（台湾工业交换机）、Vecow、SparkLAN、Atop、IEI、Innodisk** 等；首页促销「Take advantage of limited-time promotions on **industrial switches** and more」；行业覆盖工业自动化、轨交 EN50155、电力 IEC-61850-3、IEC 62443 工控安全。原 B-363 → 现 A-541，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://marugged.com/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-541 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -66,7 +66,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

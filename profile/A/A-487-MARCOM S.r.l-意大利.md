@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Verona 【2026-09-28 R53 B段复筛达标升级】官网核对：MARCOM S.r.l.（意大利 维琴察，info@marcomweb.it，+39 045 8204747）自述 **«Complete Hardware and Software Solutions for Digital Building and Digital Factory»**、工业自动化/工业通信专营（Fieldbuses、4G/5G 与 Wireless、LoRaWAN、多协议网关）；品牌含 **MOXA、ICP DAS、TELTONIKA、MIKROTIK、HILSCHER、METZ CONNECT、RAKWIRELESS** 等；MOXA 品牌页明列 **SWITCH 类目**：**EDS-2008-ELP 8 口非管理交换机 123,70 €／EDS-2005-ELP 5 口非管理交换机 85,30 €／EDS-2016 16 口非管理交换机 477,70 €**。原 B-167 → 现 A-487，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://shop.marcomweb.it/en)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-487 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328GP-4GX24GT`
+初判可参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

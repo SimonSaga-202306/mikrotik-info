@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCINE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
 | 原备注 | Inter Project。缺 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official-company。现官网交易条款正文公开orders（订单/账单联系，不是个人邮箱）；Inter Projekt与Bartłomiej Rodek关联由2010官方托管MUM PDF正文确认，不能证明当前仍任职。历史PDF另有IDEA4PRO/info@idea4pro.com，仅历史，不替换身份。官网GPSR厂商support邮箱属于MikroTik/Ubiquiti，不能收为客户邮箱。 证据：[1](https://interprojekt.pl/pl/shipping-returns) [2](https://mum.mikrotik.com/presentations/PL10/hwmp_interprojekt.pdf) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A240-A259.json#A-244 |
@@ -49,9 +49,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -96,18 +96,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 类目空档：UNVR/UVC 项目 24 口监控 PoE 上架一页
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：直给分销口：UNVR 自带仅 6 口 PoE——15 路以上监控项目的 24 口大 PoE 接入层是现货架之外的空档，一页上架提案（分销条件+阶梯价）。
 - **要问的问题**：监控项目的 24 口接入位现在导购指向哪个型号？
 - **随附证明**：一页提案（波/英）+ PoE 预算表 + 证书包。
 
 ### 第 2 次跟进 · 户外/宽温工业件线
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）
 - **切入点**：WISP 站点/监控杆/机房外的宽温非管理小件与收发器（其天线牌客户群天然需求）。
 - **要问的问题**：站点/杆侧宽温件有上架空档吗？
 - **随附证明**：工业件一页 + -40~75°C 参数页。
@@ -145,7 +145,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

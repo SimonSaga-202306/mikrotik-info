@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Lety；店主 Krystof Klima 本人是 MikroTik 认证顾问（7 证：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCIPv6E+MTCSE），专长带宽管理与队列、RADIUS、高级防火墙、VPN/隧道、无线、动态路由 → 既是分销又是集成商，技术型老板，可直接聊规格 【2026-09-28 R50 去重提示】与 A-288 （同邮箱 klima@wifiprofi.cz；同域名 wifiprofi.cz） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 B 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#B-207 【2026-09-28 R51 达标即升级】按用户指示：达到 A 级标准即升级。本条独立满足 A 标准（★★★、工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE、直达邮箱）。原 B-207 → 现 A-424，物理位置不动、原 B 号空置不回填；与 A-288 的疑似同一实体重复提示继续保留，不合并、不删除。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-424 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-IS6312XGP-4XS8GT`
+初判可参考型号：`STI-488XGGPM（Saga）`
 
 ## 六、注意点
 
@@ -68,7 +68,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

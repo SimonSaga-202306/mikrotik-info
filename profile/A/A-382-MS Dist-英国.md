@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Oxfordshire；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。；【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-416。核验要点：站点为英国网络分销（MikroTik / Ubiquiti UniFi / Teltonika；trade account 体系；固定无线、企业WiFi、路由网关、摄像安保分栏），并沿用2026-09-22已记录的 Netonix WISP 交换机代理证据（PoE、宽温、DC输入） → 交换/供电产品线证据成立，升A（A-382）。未获具名联系人，仅公司级 hello@msdist.co.uk 与电话 01295 220 330（按人工定级A记录）。Netonix 为既有豁免品牌，“不得用同芯片话术”约束继续适用。未发送邮件、未提交表单。 证据：[1](https://www.msdist.co.uk/) [2](https://www.msdist.co.uk/collections/fixed-wireless) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-382 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

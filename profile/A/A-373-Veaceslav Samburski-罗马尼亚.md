@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MTCNA MTCRE MTCWE MTCUME MTCINE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | **Academia Mikrotik Romania** —— 罗马尼亚本地 MikroTik 培训机构，带渠道影响力。缺 MTCSWE。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（罗马尼亚筛选）列Veaceslav Samburski / Academia Mikrotik Romania（Brasov, Romania）：所列证书8项（MTCNA、MTCRE、MTCWE、MTCUME、MTCINE、MTCSE、MTCSWE、MTCEWE）含MTCSWE——与本行原备注“缺 MTCSWE”不一致（名录后续更新），仅记录，未改原备注与评级依据。邮箱office@academia-mikrotik.ro、电话+40 364086906与+40 748511932；学院站另给vsamburski@gmail.com（次级）。本行与A-369为同一主体两条记录（公司名拼写不同），分别保留、未合并。CSV城市Brasov与名录一致。 证据：[1](https://mikrotik.com/training/centers?region=Romania&category=training) [2](https://www.academia-mikrotik.ro/cursuri/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-373 |
@@ -51,9 +51,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -93,7 +93,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

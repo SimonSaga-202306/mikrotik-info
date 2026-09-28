@@ -21,7 +21,7 @@
 | 类型 | 分销（Lantronix 授权） |
 | 反向信号 | Lantronix（Marvell 生态，工业 IoT/边缘） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官网分销页（当前） |
 | 原备注 | Lantronix 授权分销，官网自述提供**全线产品 + design-in 支持**，可协助把嵌入式模块与网络产品整合进标准或定制项目。亦经营 atestore.de 电商。 【2026-09-27 A300–A319联络核验】来源等级：official-company。自营电商atestore的Lantronix专页与获奖新闻给info@atlantikelektronik.com、+49 89 89 505 0；Lantronix多年获奖分销（2022 EMEA Partner of the Year），总部Planegg。 证据：[1](https://www.atestore.de/en/lantronix/) [2](https://bcdatlantik.co.uk/en/news/atlantik-elektronik-becomes-emea-distributor-partner-of-the-year-again) [3](https://www.atestore.de/en/info/ate-services.html) [4](https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/exhibitordetails/atlantik-elektronik-gmbh/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A300-A319.json#A-312 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,18 +89,18 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 声明边界+design-in 供应商一页
 
-- **推什么**：LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）+板卡/整机 design-in 选项
+- **推什么**：STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）+板卡/整机 design-in 选项
 - **切入点**：德/英一封：声明不跟政府/KRITIS 与 C2 军向项目；仅就其零售/充电/机器人方案的联网件，作为 design-in 供应商候选（LTS 供货年限+宽温参数一体）。
 - **要问的问题**：零售/充电/机器人方案的联网件接 design-in 供应商评估吗？
 - **随附证明**：design-in 一页+宽温/EMC/LTS 参数包。
 
 ### 第 2 次跟进 · 场地监控方案的 24 口 PoE
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：其 Edge AI 场地监控方案工业客户面的 24 口 PoE 接入位。
 - **要问的问题**：场地监控方案的接入层谁在供？
 - **随附证明**：一页报价（德/英）。
@@ -138,7 +138,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

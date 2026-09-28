@@ -48,7 +48,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "按他「基础设施整体交付」的语境切入：监控/AP/门禁一次上 24 口 PoE++，把整机功率预算与看门狗写进他的交付清单，替代同档 MikroTik CRS328 / UniFi 的备选位。",
      "question": "他现在的接入层订单里，24 口 PoE 一般谁供货、卡在价格还是交期？",
      "proof": "整机功率实测表 + 看门狗演示 + 与 CRS328-24P/UniFi 的同规格对照页。"
@@ -56,7 +56,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（机房外点位）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "他做酒店、工厂、园区类客户时总有非机房点位：宽温宽压、DIN、免配置，坏了整机换。",
      "question": "有没有现场弱电箱/室外点位需要工业设备？",
      "proof": "宽温报告 + DIN 安装图 + 一台测试机。"
@@ -64,7 +64,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（VLAN/冗余进方案）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他讲高可用与网络优化：VLAN 分段 + ERPS 环网 + 10G 上行的标准模板，让他的方案书多一点可写的东西。",
      "question": "他的项目里监控/办公/门禁网段是分开的吗？",
      "proof": "VLAN 模板 + ERPS 实测 + 招标可用参数条目。"
@@ -127,7 +127,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "课程实验台角度：一台设备可同时演示 VLAN、PoE 功率预算、看门狗、端口隔离（MTCSWE/MTCNA 都能用），先给成本价实验机。",
      "question": "MTCSWE 实验台现在用哪台交换机、缺哪些演示点？",
      "proof": "实验手册草案 + 成本价实验机 + 可公开的实测数据。"
@@ -135,7 +135,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（现场课/客户现场）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "旅游区/岛屿现场课常遇到电箱、无空调环境：宽温 DIN、免配置，拿来当「现场盒」演示。",
      "question": "他们的学员项目里有没有室外/电箱场景？",
      "proof": "宽温报告 + 便携箱方案 + 样品价。"
@@ -143,7 +143,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（课程 + 客户项目）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "把管理型交换机写进 MTCSWE/企业网络课程案例与学员项目清单；与 A-024（HellasCom 商务口）协同，避免重复报价。",
      "question": "课程案例能不能用我们的 ERPS/VLAN 实测做一节？",
      "proof": "ERPS 实测 + 配置模板 + 招标参数条目。"
@@ -194,7 +194,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "楼宇承载网：BMS 控制器/门禁/摄像头/AP 全走 PoE，一台 24 口 PoE++ 喂一层楼；看门狗对无人值守楼宇尤其重要（死机自动断电重启）。",
      "question": "他做的一栋楼里，BMS + 门禁 + 摄像头大概多少路 PoE？",
      "proof": "整机功率预算表 + 看门狗演示 + VLAN 分段示例。"
@@ -202,7 +202,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（弱电间/机房外）",
-     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
      "angle": "楼宇弱电间、屋面机房、地下车库配电箱：宽温宽压、DIN、免配置。",
      "question": "有没有装在弱电间/车库/屋面的接入点？",
      "proof": "宽温报告 + DIN 图 + 样机。"
@@ -210,7 +210,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（楼宇分段与冗余）",
-     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP）",
+     "product": "STI-480DGGM（Saga） PoE 版（8G + 4×2.5G SFP）",
      "angle": "楼宇自控的行业规范要求分段（BMS/安防/办公/租户）：VLAN + ERPS 环网，一台设备解决一个竖井。",
      "question": "他的楼宇项目要不要做网段隔离与环网冗余？",
      "proof": "VLAN 模板 + ERPS 实测 + 端口隔离演示。"
@@ -277,7 +277,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "酒店一层/一栋楼的 AP+IPTV+CCTV：24 口 PoE++ 一台吃下，重点讲 PoE 预算、端口隔离（客房/设备网段）与 250m 延长（老楼布线救急）。",
      "question": "他们 hospitality 项目里 24 口 PoE 现在用什么型号、缺什么规格？",
      "proof": "功率实测 + 老楼延长方案（250m/端口隔离）+ 与 CRS328-24P 对照。"
@@ -285,7 +285,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（隧道/机房外/塔站）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "隧道与高速公路现场的通信箱、隧道口设备柜：宽温宽压、DIN、免配置，配合他们的漏缆/PA 系统。",
      "question": "隧道/道路项目的现场箱体目前用什么品牌规格？",
      "proof": "宽温报告 + 双电源接线图 + 隧道场景选型页。"
@@ -293,7 +293,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（IPTV 组播 + 环网）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8328XGP-4XS24GT-S（24×PoE + 4×SFP+）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+）",
      "angle": "他们做 IPTV 与船用 WiFi：IGMP snooping/querier、组播 VLAN、ERPS 环网，直接对上技术标书条目。",
      "question": "IPTV/组播项目里，他们对交换机最看哪几个指标？",
      "proof": "组播不泛洪实测 + ERPS 收敛数据 + 招标参数条目（希腊语/英语）。"
@@ -350,7 +350,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "门店/站点标准包：24 口 PoE++ 一次配齐 AP、摄像头、POS 终端；远程看门狗让他们少跑门店。",
      "question": "他们给连锁客户做门店网络时，接入层现在怎么配？",
      "proof": "门店标准包报价单（交换机+AP+线材）+ 看门狗演示。"
@@ -358,7 +358,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（水厂/泵站）",
-     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
      "angle": "水务站点的户外柜：宽温宽压、DIN、免配置，停电恢复自动回到工作状态。",
      "question": "水务/排水项目里有没有户外站点？",
      "proof": "宽温报告 + 户外柜接线图 + 备件政策。"
@@ -366,7 +366,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（多站点统一模板）",
-     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP）",
+     "product": "STI-480DGGM（Saga） PoE 版（8G + 4×2.5G SFP）",
      "angle": "他们给同一客户维护几十个门店/站点：统一 VLAN 模板 + ERPS 冗余 + SNMP 监控，一套模板复制。",
      "question": "多站点客户愿不愿意用统一交换模板运维？",
      "proof": "配置模板 + SNMP/MIB 清单 + ERPS 实测。"
@@ -423,7 +423,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "以「可验证指标」开场：给他整机功率曲线、逐口数据、SNMP/MIB 清单与 CLI 文档，让他用自己的方式验（他持 MTCSWE）。",
      "question": "他评估接入层交换机时，哪些指标是硬门槛（时延/功率/管理面）？",
      "proof": "完整规格 + MIB/CLI 文档 + 一台可自测的样机。"
@@ -431,7 +431,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（机房外/研究现场）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "研究机构与工业客户的现场点位：宽温、DIN、免配置，减少他的运维面。",
      "question": "他的客户里有没有非机房安装的网络点位？",
      "proof": "宽温报告 + 免维护设计说明（无风扇/宽压）+ 样品价。"
@@ -439,7 +439,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（自动化/监控集成）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他有 Icinga/Cacti/Munin 监控栈：把我们的交换机接进他的监控模板 + 批量配置脚本，做「可脚本化的标准化接入层」。",
      "question": "愿不愿意把他的监控模板接到我们设备上做一次联调？",
      "proof": "MIB 文件 + Icinga/Cacti 模板示例 + 批量配置脚本。"
@@ -502,7 +502,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "PoP/节点机柜：一台 24 口 PoE++ 同时喂热点 AP、监控与客户接入；重点给整机功率预算与长期稳定性（MTBF/温升）。",
      "question": "他的 PoP/节点现在用什么交换机、单点多少用户？",
      "proof": "功率实测 + 长稳测试建议 + 备件/RMA 政策。"
@@ -510,7 +510,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（塔站/室外箱）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "塔站与室外箱：宽温宽压、DIN、免配置；配合他们的 FTTT 架构做「现场盒」。",
      "question": "塔站/室外箱的供电与温度条件如何？",
      "proof": "宽温报告 + 双电源接线图 + SFP 兼容清单。"
@@ -518,7 +518,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（回传环与 QoS）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "多节点回传要环网与 QoS：ERPS + VLAN/QinQ + 端口限速，按运营商话术谈。",
      "question": "回传网要不要做环网冗余与用户隔离？",
      "proof": "ERPS 实测 + QinQ 模板 + SNMP 监控清单。"
@@ -581,7 +581,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "客户侧「托管交换机 + 企业 WLAN + 视频监控」打包：24 口 PoE++ 一台覆盖一层/一栋，讲整机功率预算与看门狗（减少上门）。",
      "question": "他们的企业客户项目里，接入层交换机现在谁供货？",
      "proof": "功率实测 + 与 CRS328-24P/UniFi 同规格对照 + 测试机。"
@@ -589,7 +589,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（塔站/室外箱）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "自建网塔站与室外箱：宽温宽压、DIN、免配置；他们自己就是运营商，最懂现场故障成本。",
      "question": "塔站/室外箱设备现在用什么、坏得最多的是哪一类？",
      "proof": "宽温/宽压报告 + 双电源 + 备件政策。"
@@ -597,7 +597,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（冗余与高可用）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他卖「介质冗余」：给他 ERPS/环网切换实测数据与 VLAN/QoS 模板，把我们的交换机写进他高可用方案的设备清单。",
      "question": "他们的冗余方案里，接入层交换机要不要支持 ERPS？切换指标多少？",
      "proof": "ERPS 切换实测（丢包/恢复时间）+ VLAN/QoS 模板 + 招标参数条目。"
@@ -654,7 +654,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "按他的设计口径给料：整机功率预算、逐口实测、PoE 看门狗、端口隔离；请他用自己的方法复测（他是评审型客户）。",
      "question": "他设计高可用接入层时，PoE 交换机的硬门槛是什么？",
      "proof": "测试方法说明 + 实测原始数据 + 可上他测试台的样机。"
@@ -662,7 +662,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（现场点位）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "给客户设计时总有非机房点位；宽温 DIN 免配置，减少设计复杂度与维护面。",
      "question": "他的方案里现场点位一般怎么做冗余与供电？",
      "proof": "宽温/宽压报告 + 双电源设计图 + 样品。"
@@ -670,7 +670,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（高可用实测）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他讲 MLAG/VRRP/ERPS：用我们的管理型做接入层环网与双上行，给他可复现的收敛时间与丢包数据。",
      "question": "他的高可用设计里，接入层环网收敛目标是多少？",
      "proof": "ERPS 收敛实测 + 双上行拓扑验证 + CLI/MIB 文档。"
@@ -727,7 +727,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "MTCSWE 课程实验台 + 学员项目两用：一台设备可演示 VLAN、PoE 预算、端口隔离、看门狗；先给成本价实验机与实验手册草稿。",
      "question": "他 2027 年 MTCSWE 课程的实验台还缺什么演示能力？",
      "proof": "实验手册草稿 + 成本价实验机 + 可公开实测数据。"
@@ -735,7 +735,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（现场/用户组演示）",
-     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
      "angle": "用户组演示与现场课需要便携耐用的设备：宽温、DIN、免配置，可做「现场盒」主题分享。",
      "question": "用户组活动里愿不愿意做一次工业交换机的现场演示？",
      "proof": "宽温报告 + 便携方案 + 样品价。"
@@ -743,7 +743,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（课程与安全视角）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他写安全分析：给他一份我们的管理面安全说明（默认关闭外部管理、VLAN 隔离、端口安全、固件更新流程），可写进课程的安全章节。",
      "question": "他课程里的交换安全章节愿意用我们的设备做案例吗？",
      "proof": "管理面安全配置清单 + 固件更新流程 + ERPS/VLAN 实测。"
@@ -806,7 +806,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "上架试销：对比他货架上的 MikroTik CRS328-24P 与 Ubiquiti 24 口 PoE，给一档「功率更大、价格更低」的价位补缺；先谈样品与首批小单。",
      "question": "他愿意先上 1–2 个 SKU 试销，还是先做项目配套？",
      "proof": "上架用中英文规格/图片包 + 首批档位价 + 退货/售后条款。"
@@ -814,7 +814,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（工业货架补缺）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "他已有 MOXA/Teltonika 工业线 → 工业交换机以「宽温 DIN 价位段补缺」进目录，配 MOXA/Teltonika 客户群卖。",
      "question": "他工业货架的客户最常问的交换机规格是什么？",
      "proof": "同规格对照表（MOXA/Teltonika/我们）+ 认证文件包 + 样品。"
@@ -822,7 +822,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（项目配套与光模块组合）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "项目型客户（园区/监控/工业）需要管理型 + 光模块：给组合清单（交换机 + SFP 模块 + 配件），提高客单价。",
      "question": "他的项目客户里，管理型交换机的询盘多不多？",
      "proof": "组合报价模板 + 光模块兼容清单 + ERPS/组播实测。"
@@ -879,7 +879,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "进 AikomGo 目录：对标他 Wi-Fi & Networking 板块的 24 口 PoE 档，给渠道价与文档包（datasheet/认证/图片），让他先上架再看动销。",
      "question": "他们的目录里 24 口 PoE 目前有几个价位段、缺哪一档？",
      "proof": "上架资料包 + 渠道价目 + 与他现售型号的对照表。"
@@ -887,7 +887,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（Broadband/工业安防项目）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "他的 Broadband 板块服务 WISP/ISP/MSP：塔站/室外箱用宽温 DIN 款；安防项目里的危险/室外点位同样适用。",
      "question": "WISP/ISP 渠道客户最缺哪一档工业交换设备？",
      "proof": "宽温报告 + SFP 兼容清单 + 样机。"
@@ -895,7 +895,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（活动演示 + 项目型）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "把管理型交换机放进 Connectivity Camp 之类的活动做「VLAN/环网/组播」现场演示；渠道活动带单，项目同款跟进。",
      "question": "下一场渠道活动能不能安排我们的交换演示位？",
      "proof": "演示脚本 + 现场拓扑图 + 实测数据（组播不泛洪/ERPS 收敛）。"
@@ -952,7 +952,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "课程实验台：一台设备演示 VLAN、PoE 预算、端口隔离；请他把实验清单里加一页「非 MikroTik 交换机怎么配」的对比内容。",
      "question": "他的交换实验现在用什么设备、缺哪些演示点？",
      "proof": "实验手册草案 + 成本价实验机 + 可公开实测数据。"
@@ -960,7 +960,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（ISP 现场课）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "南意与岛屿 ISP 站点现场：宽温 DIN、免配置；可在 ISP 客户现场课做「现场盒」演示。",
      "question": "他的 ISP 顾问项目里有没有室外/电箱点位？",
      "proof": "宽温报告 + 便携方案 + 样机。"
@@ -968,7 +968,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（ISP 接入层 + 课程）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他给 ISP 做 OSPF/MPLS/VPLS/BGP：接入层用我们的管理型（VLAN/QinQ/ERPS），课程里也能讲「接入层与核心的配合」。",
      "question": "他顾问的 ISP 项目里，接入层交换机选型谁定？",
      "proof": "VLAN/QinQ 模板 + ERPS 实测 + MIB 清单。"
@@ -1025,7 +1025,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他在给 ISP/SI 做架构评估：把 24 口 PoE++ 作为「接入层标准件」放进他的评估清单，附可交给客户采购的规格与测试方法。",
      "question": "他给 ISP 做接入层标准时，PoE 交换机的筛选条件是什么？",
      "proof": "规格书 + 实测方法 + 客户可直接用的选型页。"
@@ -1033,7 +1033,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（现场/塔站）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "WISP 现场与电箱：宽温 DIN 免配置；他一向强调「减少外部依赖」，免维护设计正好。",
      "question": "他的 ISP 客户里非机房点位占比多大？",
      "proof": "宽温/宽压报告 + 现场箱方案 + 样品。"
@@ -1041,7 +1041,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（架构标准件）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "把管理型交换机写进他的「接入层参考架构」：VLAN/QinQ + ERPS + SNMP，一次评估长期复用。",
      "question": "他愿不愿意把我们的交换机列进参考架构的可选清单？",
      "proof": "参考架构图 + ERPS/组播实测 + MIB/CLI 文档。"
@@ -1092,7 +1092,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他持 MTCSWE：直接给硬货（整机功率曲线、VLAN 上限、看门狗、端口隔离），请他自测后给结论。",
      "question": "他近期项目的接入层规格（口数/功率/上行）通常怎么定？",
      "proof": "完整规格 + 实测数据 + 30 天测试机。"
@@ -1100,7 +1100,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（现场点位）",
-     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
      "angle": "现场电箱/室外点位：宽温宽压、DIN、免配置；他的项目里非机房点位用得上。",
      "question": "有没有需要装进电箱/室外的接入点？",
      "proof": "宽温报告 + DIN 图 + 样品价。"
@@ -1108,7 +1108,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（QoS/环网）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他持 MTCTCE（流量控制）：给 QoS/队列与 ERPS 的实测与模板，对上他的专长。",
      "question": "他项目里 QoS 与环网冗余的需求多不多？",
      "proof": "QoS 模板 + ERPS 实测 + MIB 清单。"
@@ -1159,7 +1159,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "课程实验 + ISP 项目双用：MTCSWE 内容里加一节「24 口 PoE 供电预算与端口隔离」，项目上直接复用。",
      "question": "他 MTCSWE 课程的实验台用什么设备？",
      "proof": "实验手册 + 成本价实验机 + 实测数据。"
@@ -1167,7 +1167,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（ISP 站址）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "他服务 ISP/运营商：站址与室外箱要宽温 DIN 免配置设备，作为现场标准件。",
      "question": "他的 ISP 项目里站址设备现在怎么选？",
      "proof": "宽温报告 + SFP 兼容清单 + 样品。"
@@ -1175,7 +1175,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（QoS/环网）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他讲动态路由与 QoS：接入层给 VLAN/QoS/ERPS 模板与实测，与他课程里的 QoS 章节呼应。",
      "question": "他愿不愿意在课上用我们的设备做 QoS/环网演示？",
      "proof": "QoS 模板 + ERPS 实测 + 课程可用的演示脚本。"
@@ -1232,7 +1232,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "安防一体化：24 口 PoE++ 同时喂摄像头、门禁、对讲与 AP；算功率预算 + 看门狗（省上门），是他每个项目都用的账。",
      "question": "他一个典型安防项目里，PoE 端口一共多少路、单口最大多少瓦？",
      "proof": "整机功率实测 + 看门狗演示 + VLAN 分段示例。"
@@ -1240,7 +1240,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（闸机/停车场/室外）",
-     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
      "angle": "闸机、停车场、室外立柱的供电箱：宽温宽压、DIN、免配置，直接进他的现场箱标准。",
      "question": "他们的室外/停车场的网络点现在怎么做防护？",
      "proof": "宽温报告 + 户外箱方案 + 样机。"
@@ -1248,7 +1248,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（安防网段隔离）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "安防与办公必须隔离（他持 MTCSE）：VLAN + 端口隔离 + ERPS；谈管理面安全配置（默认关闭外部管理、固件更新流程）。",
      "question": "他的安防项目里要不要把监控/门禁与办公网物理或 VLAN 隔离？",
      "proof": "VLAN/隔离模板 + 管理面安全清单 + ERPS 实测。"
@@ -1299,7 +1299,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他做仓库/办公 CAPsMAN 覆盖：24 口 PoE++ 喂 AP + 摄像头，讲 PoE 预算与端口隔离；讲师身份 → 顺带提「课程实验机」合作。",
      "question": "他现在的仓库/办公项目里，一台交换机要喂多少 AP？",
      "proof": "功率预算表 + 看门狗演示 + 可公开的实测数据。"
@@ -1307,7 +1307,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（仓库/车间）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "仓库与车间不是机房环境：宽温、DIN、免配置，装进现场箱就用。",
      "question": "仓库/车间现场的温湿度与安装条件如何？",
      "proof": "宽温报告 + 现场安装图 + 样品价。"
@@ -1315,7 +1315,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（防火墙集群旁的接入层）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "他做防火墙集群与安全的接入层：VLAN 分段 + ERPS 双上行，把接入层做成「安全边界的一部分」。",
      "question": "他的防火墙集群方案里，接入层冗余与分段怎么设计？",
      "proof": "VLAN/双上行模板 + ERPS 实测 + MIB 清单。"
@@ -1376,7 +1376,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "从他们的工厂安防/无线场景切：24 口 PoE++ 汇聚摄像头与 AP；先给一份「同规格价差表」让他做内部降本论证。",
      "question": "他们的项目里商用级 PoE 汇聚现在谁供货、价格锚在哪？",
      "proof": "同规格对照表（含他现售品牌）+ 价差表 + 测试机。"
@@ -1384,7 +1384,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（第二供应商）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C，PoE++ 版）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C，PoE++ 版）",
      "angle": "他卖 N-Tron/Red Lion 8 口非网管约 $500+：同规格（DIN/宽温/双电源）中性货价差明显；以「备件/第二供应商」起步，不进主 BOM。",
      "question": "愿不愿意先拿 2 台做现场对比（不动他现有品牌）？",
      "proof": "规格对照（MTBF/宽温/双电源）+ 认证文件包 + 2 台测试机。"
@@ -1392,7 +1392,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（冗余环/10G）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "工厂与市政项目要冗余环与 10G 上行：管理型 + 光纤组合补他方案里的接入环；若集团框架允许，可谈区域代理。",
      "question": "水务/能源项目的接入环网与 10G 上行需求有多少？",
      "proof": "ERPS 切换实测 + 光模块兼容清单 + 参考案例（可公开）。"
@@ -1449,7 +1449,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
-     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "以校园接入层为题做技术交流：教室 AP/监控/门禁一次喂满，PoE 看门狗与端口隔离；配合他把参数写进采购规格（他是 RUP）。",
      "question": "他们校区接入层现在按什么规格采购 PoE 交换机？",
      "proof": "规格参数页（中英）+ 实测数据 + 可写入标书的条目。"
@@ -1457,7 +1457,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 工业级非管理 PoE（楼栋外/实验室）",
-     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
      "angle": "校园里非标准机房点位（实验楼、体育设施、室外）：宽温 DIN 免配置，直接进弱电箱。",
      "question": "哪些点位没有空调机柜但需要 PoE 接入？",
      "proof": "宽温报告 + DIN 安装图 + 一页选型对照。"
@@ -1465,7 +1465,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 管理型 PoE（多楼栋冗余与分段）",
-     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
      "angle": "多楼栋校园网：VLAN 分段（学生/教工/设备/监控）+ ERPS 环网 + 10G 上行，正好是他作为规格制定者关心的条目。",
      "question": "校园主干与接入之间要不要做环网冗余？",
      "proof": "ERPS 实测 + VLAN 模板 + 招标参数条目（双语）。"

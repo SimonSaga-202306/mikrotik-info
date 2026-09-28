@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus + Ewon |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商，价差 5 倍 |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 北卡；无公开网址；⚠️ 中国产地不能做 TAA/NDAA 政府/电力项目，只谈商业渠道 |
 

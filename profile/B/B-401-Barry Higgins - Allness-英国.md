@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 10 证全拿 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★ 10 证全拿 + 英国 MikroTik 官方讲师；有线+无线设计、OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本 【2026-09-28 R49 复筛补录】来源等级：official-company。官网在线（工单制触达）；官方名录另一邮箱 training@allness.it：allness.net 首页：电话 03333 403 303、联系走 support.allness.net 工单系统；MikroTik 官方培训中心名录（英国）另列 Barry Higgins / Kidderminster、training@allness.it、allness.it/?page=consult（10 证全拿、官方讲师） 结论：维持 B（无采购/替换新证据）。 证据：[1](https://www.allness.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401 |
@@ -43,7 +43,7 @@
 
 先小批量试用跑稳定性。备件与 RMA 响应速度比价格更影响成交。
 
-参考型号：`LT-S8328XGP-4XS24GT-S`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 

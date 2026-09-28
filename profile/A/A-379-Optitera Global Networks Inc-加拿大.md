@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 原批量导入说明（三星依据仅渠道等级、需先查证是否已有工业交换机/PoE++产品线），本轮核验为“已有”，待补标记解除。【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-070（批量导入行，三星依据仅渠道等级，备注含待补标记）。核验要点：官网为MikroTik经销商站点，MikroTik品类含Switches（品牌计数105款MikroTik SKU），另有ISP/WISP/电信/CCTV/企业方案分栏 → 具备交换机产品线/渠道证据，按人工定级升A（A-379），待补标记解除。差异仅备注：官网联系页电话+1 647-388-6222、+1 437-440-0729与原字段+1 437 424 4024不一致；CSV城市“Ontario”与官网Oakville ON（登记2065 Madden Blvd L6H3N9，仓库785 Pacific Rd Unit 3）差异同类处理，均未改字段。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://optiteraglobal.ca/) [2](https://optiteraglobal.ca/contact-us/) 仅覆盖所述联络/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-379 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

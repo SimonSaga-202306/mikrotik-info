@@ -21,7 +21,7 @@
 | 类型 | 专业分销 |
 | 反向信号 | EtherWAN |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | ⭐英国T1：熟悉工业交换机，缺低价第二供应源 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 交通/公用事业/监控；【2026-09-22 补】经 EtherWAN（台厂，1996 年创立，现被德国 Phoenix Contact 收购）渠道名录确认为其分销商。站点明示经销 EtherWAN 加固型工业交换机（-40~+75℃、5–48 口、非网管/网管/三层）、90W PoE、光纤介质转换器与 VDSL2 延长器，面向交通、公用事业、IP 监控与关键基础设施；地址 Toddington, Bedfordshire。；【2026-09-23】另经 Atop（台厂）渠道确认其为 Atop 英国分销商——串口服务器、Modbus/IEC 61850 协议网关、EN 50155 与 IEC 61850-3 交换机。 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页与EtherWAN产品页正文均给sales@industrialcomms.com与+44 (0)203 086 9569；公司名Industrial Communication Products Ltd、Toddington地址与旧记录一致。EtherWAN分销身份在本轮抓取的EtherWAN产品页复见。 证据：[1](https://www.industrialcomms.com/pages/contact-us) [2](https://www.industrialcomms.com/pages/etherwan) [3](https://www.modernrailways.com/companies/industrial-communication-products-ltd) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-267 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,18 +89,18 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 工业非管理低价档一页（报价单空档位）
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）
 - **切入点**：英语一封：其高端锚牌报价之外，现场只需非管理宽温件时的价位档第二来源（CE/宽温/振动参数一体）。
 - **要问的问题**：客户预算卡死但现场就要宽温非管理件时，你们的报价空档谁来填？
 - **随附证明**：工业件一页 + 参数包。
 
 ### 第 2 次跟进 · 仓储/交通监控 24 口商业款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）
 - **切入点**：Warehouse Logistics/Transport 客户的监控房 24 口商业 PoE（工业件之外的商业线空档）。
 - **要问的问题**：仓储/交通监控项目的大口数 PoE 目前指向哪款？
 - **随附证明**：24 口一页价卡。
@@ -138,7 +138,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

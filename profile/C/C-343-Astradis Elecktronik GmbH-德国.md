@@ -21,7 +21,7 @@
 | 类型 | 分销（Lantronix 授权） |
 | 反向信号 | Lantronix（Marvell 生态） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | Lantronix SEC 年报 EMEA 分销名单（2007） |
 | 原备注 | ⚠️ 来源为厂商 SEC 年报（2007 年），年代较久，**代理关系需先核实再触达**。 德国分销商，年报列为 Lantronix EMEA 主要分销之一。 |

@@ -21,7 +21,7 @@
 | 类型 | 分销（Teltonika 授权） |
 | 反向信号 | Teltonika Networks（含 TSW 系列交换机） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell 接入层生态切入 |
 | 数据来源 | 厂商官方渠道名录 |
 | 原备注 | Teltonika **Diamond 级伙伴，连续 7 年**、**欧洲最大增值分销**。备货型分销，提供售前咨询/项目支持/配置/培训/云管平台全托管。 |

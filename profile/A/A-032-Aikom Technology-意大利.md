@@ -21,7 +21,7 @@
 | 类型 | 分销（Teltonika Gold + ComNet 授权） |
 | 反向信号 | Teltonika, ComNet |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 同时是 Teltonika 金牌 + ComNet 分销 → 多品牌工业 IoT 分销 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 意大利 T1，宜主攻；【2026-09-22 补】PLANET（台厂工业/商用交换机）授权分销渠道。；【2026-09-22 补】Aikom Technology S.r.l.，Viale Lambrusco 1, 47838 Riccione (RN)；Teltonika Networks 意大利 GOLD 分销商，增值分销定位。 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,25 +89,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：进 AikomGo 目录：对标他 Wi-Fi & Networking 板块的 24 口 PoE 档，给渠道价与文档包（datasheet/认证/图片），让他先上架再看动销。
 - **要问的问题**：他们的目录里 24 口 PoE 目前有几个价位段、缺哪一档？
 - **随附证明**：上架资料包 + 渠道价目 + 与他现售型号的对照表。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（Broadband/工业安防项目）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他的 Broadband 板块服务 WISP/ISP/MSP：塔站/室外箱用宽温 DIN 款；安防项目里的危险/室外点位同样适用。
 - **要问的问题**：WISP/ISP 渠道客户最缺哪一档工业交换设备？
 - **随附证明**：宽温报告 + SFP 兼容清单 + 样机。
 
 ### 第 3 次跟进 · 管理型 PoE（活动演示 + 项目型）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：把管理型交换机放进 Connectivity Camp 之类的活动做「VLAN/环网/组播」现场演示；渠道活动带单，项目同款跟进。
 - **要问的问题**：下一场渠道活动能不能安排我们的交换演示位？
 - **随附证明**：演示脚本 + 现场拓扑图 + 实测数据（组播不泛洪/ERPS 收敛）。
@@ -138,7 +138,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

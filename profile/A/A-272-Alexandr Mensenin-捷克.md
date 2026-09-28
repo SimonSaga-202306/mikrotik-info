@@ -31,7 +31,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328GP-4GX24GT-S |
+| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方认证顾问名录 |
 | 原备注 | 【待人工补信息】本条为**集成商/顾问型**，属 A 级主产地，但当前**抓不到邮箱**（群发触达不到），故由人工定级提为 A。**需要人工处理**：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-23】MikroTik 官方认证顾问名录（mikrotik.com/consultants）收录。自述含 QoS、高级无线、流量分析、VPN/隧道、PtP/PtMP、QinQ。 【2026-09-27 A260–A279联络核验】来源等级：leads-only。官方顾问名录页邮箱为遮罩式Email链接不可读取，本轮直接抓取该国页面只得到JS地图外壳；未找到其自有网站或其他正文邮箱，保留原电话/WhatsApp为触达。搜索命中的Michal Měňšenin（Ostrava建筑与园林公司登记）为疑似不同人，不导入。原“待人工补邮箱”标注保留。 证据：[1](https://mikrotik.com/consultants/europe/czech) [2](https://www.finmag.cz/obchodni-rejstrik/osoba/michal-mensenin) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A260-A279.json#A-272 |
@@ -59,7 +59,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328GP-4GX24GT-S`
+初判可参考型号：`STC-424DGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -89,7 +89,7 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 人工核实（电话/WhatsApp/LinkedIn）
 
@@ -100,7 +100,7 @@
 
 ### 第 2 次跟进 · 核活后：真诚短件
 
-- **推什么**：LT-S8328GP-4GX24GT-S 演示机（可选）
+- **推什么**：STC-424DGGPM-440W（Saga） 演示机（可选）
 - **切入点**：自我介绍+演示机自用位。
 - **要问的问题**：您咨询项目里需要高性价比接入层吗？
 - **随附证明**：一页规格（捷/英）。
@@ -138,7 +138,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328GP-4GX24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424DGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

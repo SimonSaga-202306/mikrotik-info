@@ -247,7 +247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L671"
+        "locator": "L702"
       }
     ]
   },
@@ -453,7 +453,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L847"
+        "locator": "L878"
       }
     ]
   },
@@ -617,7 +617,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L715"
+        "locator": "L746"
       }
     ]
   },
@@ -703,7 +703,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L845"
+        "locator": "L876"
       }
     ]
   },
@@ -1355,7 +1355,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L670"
+        "locator": "L701"
       }
     ]
   },
@@ -2289,7 +2289,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L808"
+        "locator": "L839"
       }
     ]
   },
@@ -3015,7 +3015,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L714"
+        "locator": "L745"
       }
     ]
   },
@@ -3473,7 +3473,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L768"
+        "locator": "L799"
       }
     ]
   },
@@ -5150,6 +5150,36 @@
     ]
   },
   {
+    "url": "https://drive.google.com/drive/folders/18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
+        "locator": "L20"
+      }
+    ]
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
+        "locator": "L20"
+      }
+    ]
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
+        "locator": "L20"
+      }
+    ]
+  },
+  {
     "url": "https://dsgvo.human-art.de/（human-art.de",
     "http_checked": false,
     "occurrences": [
@@ -5405,7 +5435,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L766"
+        "locator": "L797"
       }
     ]
   },
@@ -5935,7 +5965,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1179"
+        "locator": "L1210"
       }
     ]
   },
@@ -5945,7 +5975,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1179"
+        "locator": "L1210"
       }
     ]
   },
@@ -6477,7 +6507,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L711"
+        "locator": "L742"
       }
     ]
   },
@@ -6915,7 +6945,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L634"
+        "locator": "L665"
       }
     ]
   },
@@ -7933,7 +7963,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L850"
+        "locator": "L881"
       }
     ]
   },
@@ -8243,7 +8273,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L637"
+        "locator": "L668"
       }
     ]
   },
@@ -8545,7 +8575,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L637"
+        "locator": "L668"
       }
     ]
   },
@@ -10553,7 +10583,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L810"
+        "locator": "L841"
       }
     ]
   },
@@ -17339,7 +17369,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L807"
+        "locator": "L838"
       }
     ]
   },
@@ -17835,7 +17865,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L718"
+        "locator": "L749"
       }
     ]
   },
@@ -19331,7 +19361,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L713"
+        "locator": "L744"
       }
     ]
   },
@@ -26379,7 +26409,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L638"
+        "locator": "L669"
       }
     ]
   },
@@ -27011,7 +27041,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L716"
+        "locator": "L747"
       }
     ]
   },
@@ -28041,7 +28071,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L808"
+        "locator": "L839"
       }
     ]
   },
@@ -29765,7 +29795,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L668"
+        "locator": "L699"
       }
     ]
   },
@@ -31013,7 +31043,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L809"
+        "locator": "L840"
       }
     ]
   },
@@ -31347,7 +31377,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L770"
+        "locator": "L801"
       }
     ]
   },
@@ -32635,7 +32665,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L765"
+        "locator": "L796"
       }
     ]
   },
@@ -36113,7 +36143,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L771"
+        "locator": "L802"
       }
     ]
   },
@@ -36371,7 +36401,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L666"
+        "locator": "L697"
       }
     ]
   },
@@ -37099,7 +37129,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L846"
+        "locator": "L877"
       }
     ]
   },
@@ -37343,7 +37373,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L667"
+        "locator": "L698"
       }
     ]
   },
@@ -39773,7 +39803,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L767"
+        "locator": "L798"
       }
     ]
   },
@@ -40461,7 +40491,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L809"
+        "locator": "L840"
       }
     ]
   },
@@ -40771,7 +40801,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L772"
+        "locator": "L803"
       }
     ]
   },
@@ -40871,7 +40901,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L638"
+        "locator": "L669"
       }
     ]
   },
@@ -42413,7 +42443,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L719"
+        "locator": "L750"
       }
     ]
   },
@@ -43013,7 +43043,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L769"
+        "locator": "L800"
       }
     ]
   },
@@ -43967,7 +43997,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L849"
+        "locator": "L880"
       }
     ]
   },
@@ -44051,7 +44081,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L717"
+        "locator": "L748"
       }
     ]
   },
@@ -47793,7 +47823,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L712"
+        "locator": "L743"
       }
     ]
   },
@@ -48497,7 +48527,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L848"
+        "locator": "L879"
       }
     ]
   },
@@ -48959,7 +48989,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L669"
+        "locator": "L700"
       }
     ]
   },

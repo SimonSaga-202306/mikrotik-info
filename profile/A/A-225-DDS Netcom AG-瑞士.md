@@ -21,7 +21,7 @@
 | 类型 | 集成商/代理（Allied Telesis） |
 | 反向信号 | Allied Telesis（Marvell Prestera 接入层） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | Marvell Prestera 接入层切入 |
 | 数据来源 | Allied Telesis 官方伙伴定位器（?country=switzerland） |
 | 原备注 | 【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-obfuscated。dds.ch实际跳转官网商城，正文DDS NETCOM AG、Allmendstrasse 8 CH-8320 Fehraltorf及info(at)dds.ch，可逆规范化不是猜测。电话正文同时有+41 43 3552211和+41 44 3552211；不选其中一个覆盖主表旧电话。商城品牌信号不证明具体芯片或采购。 证据：[1](https://webshop.dds.ch/) [2](https://www.dds.ch/) 仅证实对应联络字段/所述身份线索，不证明投递、当前任职、采购权、芯片或需求。批次：batch/contact_research_2026-09-27_A210-A239.json#A-225 |
@@ -40,7 +40,7 @@
 
 场景信号不明确，先摸底：问清他接入层现在用谁的设备、痛点是供电、VLAN 还是环网，再定型号。
 
-初判可参考型号：`LT-S8328XGP-4XS24GT-S`
+初判可参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、深度加厚（R54 逐户调研）
 
@@ -52,7 +52,7 @@
 - **团队与规模**：电商型小团队（货架明细=品类驱动力）。
 - **决策链与对接人**：info@dds.ch（官网 (at) 可逆，CSV 9-27）。
 - **技术与认证**：Allied Resell（CSV）。
-- **采购与供应链信号**：**已接受中国工业牌（Kyland 在架）**=第三价格档（Hirschmann>Kyland>SmartByte）补位逻辑直白：更低价带+更快供货。
+- **采购与供应链信号**：**已接受中国工业牌（Kyland 在架）**=第三价格档（Hirschmann>Kyland>Saga）补位逻辑直白：更低价带+更快供货。
 - **近期动态与线索**：货架扩充型目录商：新品上架=纯商业决策，试单门槛低。
 - **与我方契合点**：工业非管理 5/8 口 PoE+收发器底价档；宽温 DIN 高功率 PoE++（Hirschmann 价带下位）。
 - **风险与注意**：瑞士渠道讲究文件齐：CE/EMC/规格书/保修条款随首封齐件。
@@ -73,25 +73,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 第三价格档上架提案（工业非管理+收发器）
 
-- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）+ 工业收发器系列
+- **推什么**：STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）+ 工业收发器系列
 - **切入点**：对照其在架 Kyland 位：同品类再下一档的 CNY 到岸价带，给电商货架一个更快的低价档选项。
 - **要问的问题**：工业非管理 PoE 和收发器这块，货架上 Kyland 之下还想补一个更低价带吗？
 - **随附证明**：工业件一页报价 + CE/EMC 证书 + 对比表（中/英/德）。
 
 ### 第 2 次跟进 · 宽温高功率 PoE++ 与 DIN 附件
 
-- **推什么**：LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）
+- **推什么**：STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）
 - **切入点**：Hirschmann PoE 型号价带的下位替代：90W/口 PoE++ 宽温管理件+DIN 电源附件。
 - **要问的问题**：客户问 90W/口工业件时你们现在指向哪个 SKU？
 - **随附证明**：PoE++ 规格页 + DIN 配件清单（德/英）。
 
 ### 第 3 次跟进 · 管理型工业万兆环网
 
-- **推什么**：LT-IS6312XG-4XS8GT（工业管理 8×电口 + 4×万兆，ERPS）
+- **推什么**：STI-480XGGM（Saga）（工业管理 8×电口 + 4×万兆，ERPS）
 - **切入点**：项目制需求的工业 ERPS 环与万兆上联版本，与 Hirschmann Bobcat 位错开价格层。
 - **要问的问题**：ERPS 环网项目有报价位需求吗？
 - **随附证明**：ERPS 配置示例 + 环网白皮书 + 保修条款（英）。
@@ -122,7 +122,7 @@ Where we may be useful: L3 hardware offload so forwarding does not eat the CPU, 
 
 What are you using for access layer today, and where does it hurt?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

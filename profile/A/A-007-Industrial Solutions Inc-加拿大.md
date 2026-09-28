@@ -21,8 +21,8 @@
 | 类型 | 分销（HMS/N-Tron·Red Lion 渠道） |
 | 反向信号 | N-Tron + Red Lion + Anybus + Ewon |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
-| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 LT-IS6310G 约 $91，做第二供应商/替换，价差 5 倍 |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
+| 切入点 | 卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 阿尔伯塔工业自动化；【2026-09-22 补】仅 9 人小公司， Alberta/BC/Manitoba/Saskatchewan 四省。代理 Moxa、Red Lion、N-Tron、Sixnet、eWon、Phoenix Contact，主打工控与油气。 |
 
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-IS6312XGP-4XS8GT（导轨式，4×10G 上行 + 8×千兆 PoE++）**
+**STI-488XGGPM（Saga）（导轨式，4×10G 上行 + 8×千兆 PoE++）**
 
-> 系统初判型号：`LT-IS6312XGP-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-488XGGPM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -68,7 +68,7 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 - **团队与规模**：仅 9 人；两位 Managing Partner 直接管事，决策链极短。
 - **决策链与对接人**：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；sales@indsol.com；780.460.9533 / 免费 866.460.9533；公司邮箱格式 {first}@indsol.com。
 - **技术与认证**：工业品牌原厂渠道身份（Red Lion/N-TRON/Phoenix/MOXA），能读懂 Class 1 Div 2、宽温、冗余环等工业语言。
-- **采购与供应链信号**：他卖 N-Tron/Red Lion 8 口非管理工业交换机价格锚在 $500+ 级；同规格中性货 LT-IS6310G 在其报价体系里是 5 倍价差的空间 → 天然的「第二供应商/替换」故事。
+- **采购与供应链信号**：他卖 N-Tron/Red Lion 8 口非管理工业交换机价格锚在 $500+ 级；同规格中性货 STI-280GE（Saga） 在其报价体系里是 5 倍价差的空间 → 天然的「第二供应商/替换」故事。
 - **近期动态与线索**：官网（Squarespace）保持更新：产品类目页 + 2026 版产品线卡片（ISI Product Line Card 2026 PDF）可下载。
 - **与我方契合点**：他的网络连接类目里，工业交换机的规格（宽温/冗余环/PoE/光口）与我们工业线一一对应；摄像头类目（AXIS 等）又给了商用 PoE 的入口。
 - **风险与注意**：他已有强势代理品牌（Red Lion/Phoenix），替换故事要按「第二供应商、备件、短交期、非标规格补齐」来讲，不要正面比品牌；工业客户对认证（UL/CSA/Class 1 Div 2）文件要求硬。
@@ -89,25 +89,25 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：从他们自己的摄像头类目（AXIS/Pelco，PoE 供电）切进去：工业现场也要商用级 24 口 PoE 做摄像头汇聚，价格与交期由我们补齐。
 - **要问的问题**：他们做的监控项目里，PoE 汇聚交换机通常是谁家的、卡在哪（价格/交期/功率）？
 - **随附证明**：整机功率实测 + 交期承诺（现货/海运两种）+ 30 天测试机。
 
 ### 第 2 次跟进 · 工业级非管理 PoE（价格锚替换）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C；PoE++ 880 版）
-- **切入点**：他们现在 8 口非管理工业交换机卖 $500+ 级；同规格（DIN/宽温/双电源）的 LT-IS6310G 在其成本结构里是数量级差异 —— 从「备件/第二供应商」开始，不进主 BOM。
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C；PoE++ 880 版）
+- **切入点**：他们现在 8 口非管理工业交换机卖 $500+ 级；同规格（DIN/宽温/双电源）的 STI-280GE（Saga） 在其成本结构里是数量级差异 —— 从「备件/第二供应商」开始，不进主 BOM。
 - **要问的问题**：愿不愿意先拿 2 台做现场对比测试（不动主品牌）？
 - **随附证明**：同规格对照表（MTBF/宽温/双电源/认证）+ 2 台测试机 + 谁都能算的价差表。
 
 ### 第 3 次跟进 · 管理型 PoE（冗余环/危险区）
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）
 - **切入点**：工业客户要冗余环（ERPS/RSTP）与 10G 上行；管理型 + 光纤组合正是他们 Class 1 Div 2 / 长距离场景的拼图。
 - **要问的问题**：他们的油气/市政项目里，冗余环与 10G 上行比例多大？
 - **随附证明**：ERPS 切换实测 + 光模块兼容清单 + 认证文件包（UL/CSA/Class 1 Div 2 目标）。
@@ -138,7 +138,7 @@ Where we may be useful: DIN rail, -40 to 75 C, wide input voltage, dual power in
 
 What ring protocol are you on today, and what convergence do you actually see?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XGP-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-488XGGPM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

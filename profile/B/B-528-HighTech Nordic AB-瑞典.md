@@ -21,7 +21,7 @@
 | 类型 | 分销（ORing 授权） |
 | 反向信号 | ORing |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 瑞典工业分销 |
 | 数据来源 | ORing经销商名录/2026-09 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（ORing 授权））与「ORing」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：info@hightechnordic.com；同页另有 logistics@hightechnordic.com、support@hightechnordic.com、invoice@hightechnordic.com。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://www.hightechnordic.com/kontakta-mig)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528 |
@@ -42,7 +42,7 @@
 
 先问他在做什么监控项目、单口要多大功率，用小批量试单切入。
 
-参考型号：`LT-IS6312XG-4XS8GT`
+参考型号：`STI-480XGGM（Saga）`
 
 ## 六、注意点
 

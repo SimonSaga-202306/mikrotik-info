@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE+MTCSWE+MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XG-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | LinITX 是英国 MikroTik Master Distributor + VAD + 认证培训中心，公司内有 3 位认证顾问：Jono Thompson（training@linitx.com，7 证含 MTCSWE，交换/VLAN/CAPsMAN/流量管理）；Joel Blakey（MikroTik@LinITX.com，技术销售工程师，有线无线设计与无线勘测）；Luke Cuddehay（shop@linitx.com，技术销售工程师）。同一电话 +44 1449 888000；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。 |
@@ -53,9 +53,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-S8328XG-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -103,25 +103,25 @@
 
 ## 八、3 步跟进计划（R54，**最多 3 次**）
 
-> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+> 综合客户官网/公开资料与我方（Saga）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
 
 ### 第 1 次跟进 · 24 口 PoE++（第三波价格段试销）
 
-- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
 - **切入点**：他店里 Ubiquiti UniFi PoE 与 MikroTik CRS 两头，中间有第三档——24 口 PoE++ 做商业/监控按价的“第三品牌位”。
 - **要问的问题**：24 口 PoE++ 这个第三品牌位你们店里缺不缺？
 - **随附证明**：英文规格对照页 + 进价/贸易账户模拟表。
 
 ### 第 2 次跟进 · 工业非管理 PoE（WISP 塔站/安防箱）
 
-- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
 - **切入点**：他店里工业 DIN 类较空白：宽温宽压、免配置——WISP 塔站与安防箱是全新档位，可与他的安防安装商渠道成套卖。
 - **要问的问题**：塔站与箱外现在用哪个牌子、他店里 DIN 类是不是空白？
 - **随附证明**：宽温报告 + DIN 安装图 + 单台进价。
 
 ### 第 3 次跟进 · 管理型 + 项目报价联动
 
-- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
 - **切入点**：进他的项目报价盘（Project Deals 通道）：管理型 VLAN/ERPS/10G，配合他培训顾问而出的安装群。
 - **要问的问题**：项目报价怎么办配额、哪些安装群最容易拨动？
 - **随附证明**：管理型 ERPS/10G 实测（英文） + 项目注册条款 + 培训渠道的联动话术。
@@ -152,7 +152,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XG-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

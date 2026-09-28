@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证，持 MikroTik 培训伙伴（开 MTCNA/MTCRE 等） |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训伙伴/顾问名录 |
 | 原备注 | 塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。**有可直接用的邮箱**。 【2026-09-28 R50 A级提炼】来源等级：official-directory（沿用既有轮次官方名录记录）。持 MTCNA、MTCRE、MTCSE、MTCTCE、MTCWE；塞尔维亚本地 MikroTik 培训机构（贝尔格莱德），开 MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE。**有可直接用的邮箱**。。R50 全表去重扫描：未发现与现有 A 行同邮箱/同域名/同名（对照同轮 31 条重复提示）。人工定级 A：培训中心 + 直达邮箱 + 个体/小公司决策链短。原 B-511 → 现 A-421。 证据：[1](https://mikrotik.com/training/centers?region=Serbia)；批次：batch/contact_research_2026-09-28_R50_A提炼.json#A-421 |
@@ -49,7 +49,7 @@
 
 **先给样机，不做型号推销**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -89,7 +89,7 @@ Where we may be useful: Managed access switching in both commercial and DIN-rail
 
 Would a sample unit and the full CLI / MIB documentation be useful in your lab?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

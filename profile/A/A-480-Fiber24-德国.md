@@ -21,7 +21,7 @@
 | 类型 | 光通信/网络网店 |
 | 反向信号 | PLANET IGS-5225 全系 |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XG-4XS8GT |
+| 首推 Saga 型号 | STI-480XGGM（Saga） |
 | 切入点 | 同做网店，中性货接受度最高 |
 | 数据来源 | 反向信号/2026-09 |
 | 原备注 | 本行由分销商名录批量导入，三星依据仅为渠道等级（光通信/网络网店）与「PLANET IGS-5225 全系」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 Shop 正文可见：shop@fiber24.net。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://shop.fiber24.net/)；批次：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-516 【2026-09-28 R53 B段复筛达标升级】官网核对：ShopFiber24（德国，shop@fiber24.net，德国发货）自述面向网络运营/电工/光纤施工者的光通信专业网店；类目明列 **«Netzwerkgeräte — Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches»** 与 **«Hutschienen-Equipment — Hutschienen-Geräte, wie Hutschienen-Switche, Hutschienen-Konverter und Hutschienen-Spleißboxen»**，另有 Transceivermodule（100M–400G，含 400G QSFP-DD）、LWL 跳线/配线、FTTx、MTP/MPO、光测量仪器。原 B-516 → 现 A-480，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://shop.fiber24.net/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A-480 |
@@ -42,9 +42,9 @@
 
 ### 推什么型号
 
-**LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）**
+**STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）**
 
-> 系统初判型号：`LT-IS6312XG-4XS8GT`（供参考，以实际沟通为准）
+> 系统初判型号：`STI-480XGGM（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -84,7 +84,7 @@ Where we may be useful: 24 gigabit PoE++ ports at up to 90 W each, 4×10G uplink
 
 How many cameras per job, and what wattage per port are you designing to?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-IS6312XG-4XS8GT evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STI-480XGGM evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

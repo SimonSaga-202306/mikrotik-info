@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-S8328XGP-4XS24GT-S |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 生态切入 |
 | 数据来源 | MikroTik 官方培训中心名录 |
 | 原备注 | 持全部十证，含 **MTCSWE**。 【2026-09-27 A360–A378联络核验】来源等级：official-company。官方培训中心名录（乌克兰筛选）列Andrii Sychov（Kyiv, Ukraine）：电话+380 67 701 22 82、邮箱trainer@mikrotik.net.ua、站点mikrotik.net.ua，所列证书为MTCNA、MTCRE、MTCWE、MTCTCE、MTCUME、MTCIPv6E、MTCSE、MTCSWE、MTCEWE（9项，缺MTCINE），与本行原备注“持全部十证”不一致——仅记录，未改原备注与评级依据。名录未列评分文字以外内容；Smart Center/ELKO（elko.ua）公司站另公开smart.center@elko.ua与+38 044 461 9670，可作第二触达线索（公司站记录，未与本人邮箱互证）；旧域it@mikrotik.in.ua为早期站点遗留线索，不并入主字段。CSV城市Kyiv与名录一致，未改字段。 证据：[1](https://mikrotik.com/training/centers?region=Ukraine&category=training) [2](https://www.elko.ua/) 仅覆盖所述联络/关联事实，不证明投递、在职、采购权、芯片或需求；批次：batch/contact_research_2026-09-27_A360-A378.json#A-360 |
@@ -55,9 +55,9 @@
 
 ### 推什么型号
 
-**LT-S8328XGP-4XS24GT-S（24×千兆 + 4×万兆 SFP+，三层）**
+**STC-424XGGPM-440W（Saga）（24×千兆 + 4×万兆 SFP+，三层）**
 
-> 系统初判型号：`LT-S8328XGP-4XS24GT-S`（供参考，以实际沟通为准）
+> 系统初判型号：`STC-424XGGPM-440W（Saga）`（供参考，以实际沟通为准）
 
 ### 核心卖点
 
@@ -97,7 +97,7 @@ Where we may be useful: L3 hardware offload (line-rate forwarding off the CPU), 
 
 What are you using for L2 redundancy today, and does it need ERPS-class convergence?
 
-If it is easier to judge from hardware than from a datasheet, I can send a LT-S8328XGP-4XS24GT-S evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
+If it is easier to judge from hardware than from a datasheet, I can send a STC-424XGGPM-440W evaluation unit and you can put it in a rack for 30 days. Otherwise a two-page spec sheet is one email away.
 
 Either way, no follow-up sequence from me.
 

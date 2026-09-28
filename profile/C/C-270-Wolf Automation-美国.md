@@ -21,7 +21,7 @@
 | 类型 | 分销（Advantech 授权） |
 | 反向信号 | Advantech 授权分销商，上架 EKI-2525-BE、EKI-2528-BE（5/8 口非网管工业交换机）与 EKI-1221-CE |
 | 是否自有品牌 | 否 |
-| 首推 SmartByte 型号 | LT-IS6312XGP-4XS8GT |
+| 首推 Saga 型号 | STI-488XGGPM（Saga） |
 | 切入点 | 台厂渠道话术 |
 | 数据来源 | EtherWAN/Advantech 渠道名录（经销商定位法） |
 | 原备注 | 【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。在线商城明码标价（如 EKI-2528-BE 165 美元），可作为 Advantech 工业线价格基准参考。 |
