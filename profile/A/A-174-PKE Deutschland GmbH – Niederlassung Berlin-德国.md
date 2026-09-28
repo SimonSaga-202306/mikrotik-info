@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第9批.json`。
+
+- **业务定位**：PKE 集团德国实体柏林分支：安防+楼自动化（Priva 系）+自研平台线的系统集成，Allied Resell（CSV 记录）。⚠️ 集团采购链。
+- **产品线与在售品牌**：楼自动化（Priva 生态）/安防技术/通信媒体/物流系统/能源管理+自研 AVASYS/DHS-X/acurade。
+- **目标行业与场景**：大型楼宇/园区项目的自动化与安防；全国与集团项目。
+- **团队与规模**：集团（多国分支+自研产品线）。
+- **决策链与对接人**：berlin@pke-de.com（CSV 9-27：Priva 官方页公开分支邮箱）。
+- **技术与认证**：Allied Resell（CSV 记录）；Priva 伙伴（CSV 记录）。
+- **采购与供应链信号**：BMS 项目制：自动化层的接入层 PoE 是配套 BOM；集团=报价/认证文件一次给足，走分支引荐集团。
+- **近期动态与线索**：站点 2026 焕新（集团多页式体系）。
+- **与我方契合点**：楼自动化项目的 PoE 接入层+厂区工业件——他不产交换、自动化网络件是互补段。
+- **风险与注意**：集团链别越过分支直捣总部采购；自研平台“厂无关”是话术支点——真正的厂无关他们更懂。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网（pke-de.com 现跳转 pke-de.de）：PKE 集团（奥地利系多国布局 AT/DE/CZ/PL）的德国实体——安防/通信/媒体/楼宇自动化/移动方案/能源可持续/物流系统/软件/IT 安全九块。
+  > Die PKE Deutschland GmbH steht für zukunftsfähige Technologien und verlässliche Lösungen in Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation, Logistiksysteme, Mobility Solutions und Energie- und Nachhaltigkeitsmanagement. ‖ Geschäftsfelder: Sicherheitstechnik · Kommunikationstechnik · Medientechnik · Gebäudeautomation · Mobility Solutions · Energie- und Nachhaltigkeitsmanagement · Logistik Systeme · Software Solutions · IT-Security
+  > 来源：https://pke-de.de/de-de/PKE-DE-GmbH
+- **【产品线与在售品牌】**自研系统军：AVASYS®·DHS-X·acurade G5——“Made by PKE”厂无关集成平台。
+  > unsere Eigenentwicklungen wie AVASYS®, DHS-X oder acurade G5 stehen für höchste Qualität, Flexibilität und Zukunftssicherheit. Dank modularer Architektur, herstellerunabhängiger Integration… "Made by PKE"
+  > 来源：https://pke-de.de/de-de/PKE-DE-GmbH
+- **【决策链与对接人】**CSV 9-27 记录：Priva 官方伙伴定位页公开 Berlin 分支邮箱与 Egellsstraße 21 地址——楼宇自动化主栈 Priva 系（CSV 既有口径）。
+  > Priva 官方伙伴定位页公开 Berlin 分支邮箱及 Egellsstraße 21 地址，匹配本账号（CSV 2026-09-27 记录）
+  > 来源：https://www.priva.com/partnerfinder/pke-deutschland-gmbh-berlin
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（楼自动化项目接入层互补件）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：顺“厂无关”：BMS/安防项目的 24 口接入层互补件规格对照（他不产交换）。
+- **要问的问题**：BMS 项目的接入层现在配什么？（德文，分支口径）
+- **随附证明**：规格对照 + CE 文件包（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（厂区/屋顶机房点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：厂区与屋顶机房/竖井点位：宽温 DIN PoE。
+- **要问的问题**：厂区/屋顶点位的交换坏机率？
+- **随附证明**：宽温报告 + DIN 图（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（自动化网分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：BMS/安防网分段标准件：VLAN/ERPS 模板进集团工程库。
+- **要问的问题**：自动化网分段模板要不要进工程库？
+- **随附证明**：VLAN/ERPS 模板 + 实测（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

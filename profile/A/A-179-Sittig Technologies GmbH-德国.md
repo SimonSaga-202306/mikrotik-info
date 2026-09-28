@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第9批.json`。
+
+- **业务定位**：法兰克福家族 PA 专家：机场/铁路/工业自动播音系统（软+硬自有件），Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：PAXGuide 播音平台/PAXModular IP 广播端点/Auracast 新线/跨厂 PA 整合；另有 IP 照明与数据通信（CSV 口径）。
+- **目标行业与场景**：机场/航司/铁路/工业园/公共设施/应急——大型交通枢纽为其主场。
+- **团队与规模**：40+ 人全球四地。
+- **决策链与对接人**：info@sittig.de（CSV 9-27：页脚公开通用邮箱，Frankfurt；勿用招聘邮箱）。
+- **技术与认证**：Allied Resell（CSV 记录）；PA 厂整合资质（Praesideo 集成案例）。
+- **采购与供应链信号**：IP 广播端点成百上千散布大建筑：每台 IP 广播站/吸顶终点站要 PoE——项目型 PoE 接入层消耗体面；户外面位/滑行道段要宽温。
+- **近期动态与线索**：法兰克福/JFK T6/利物浦连续大项目=全球项目潮。
+- **与我方契合点**：PA-over-IP 的供电接入层+机场户外段工业 PoE——他不产交换、配套段空缺是我们位。
+- **风险与注意**：⚠️ 交通枢纽=敏感基建——项目多走主承包/招标链条，我们只当他的部件供应商（不直达机场客户）；户外生命安全提示语（PA/VA 人命广播）的联动控制链不碰，只做 PoE 供电网络段。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网：公共交通/公共设施/工业环境的自动广播专家——PAXGuide 149+ 种语言自动播音是行业标杆。
+  > Shaping the Future of Communication — Seamless scalable solutions for transportation hubs, public facilities and inductrial environments ‖ PAXGuide is the industry-proven solution for fully automated, multilingual announcements in airports, airlines, and railway networks… over 149 languages and dialects
+  > 来源：https://www.sittig-tech.com/
+- **【近期动态与线索】**硬新闻连发：法兰克福机场全球首家 Auracast™ 公共广播+**JFK 纽约 T6 航站楼**选 PAXGuide（2026-08-26）+利物浦机场 PA/VA 迁移（Bosch Praesideo 集成）。
+  > Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast™ for Public Announcements ‖ JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide for Automated Multilingual Passenger Announcements（2026-08-26）
+  > 来源：https://www.sittig-tech.com/
+- **【产品线与在售品牌】**PAXModular 自有硬件（IP 广播站/智能音频界面）+跨厂整合 PA/VA 平台（Bosch Praesideo 等）——IP 化广播端点背后是 PoE 供电网络。
+  > PAXModular offers a range of specialized hardware components… From IP-based paging stations to intelligent audio interfaces… in demanding environments such as airports, industrial facilities, and public institutions.
+  > 来源：https://www.sittig-tech.com/
+- **【团队与规模】**1987 年创立，500+ 项目，40+ 员工，4 地（Frankfurt/Munich/Chicago/Vrable），家族企业。
+  > 1987 Founded · 500+ Projects · 40+ Employees · 4 Locations ‖ offices in Frankfurt, Munich, Chicago, and Vrable… family-owned company
+  > 来源：https://www.sittig-tech.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（PA-over-IP 供电接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：顺 JFK T6/法兰克福项目潮：IP 广播端点群的 24 口 PoE++ 供电接入层——他不产交换，配套空缺我们来填。
+- **要问的问题**：广播端点群的供电接入层现在配什么？
+- **随附证明**：规格对照 + 端点群供电测算 + CE 文件包（英文/德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（机坪/户外广播点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：机坪面位/滑行道/户外柱与轨道侧广播点：宽温 DIN PoE+SFP 长距上行。
+- **要问的问题**：户外广播点位的供电交换坏机率？
+- **随附证明**：宽温报告 + SFP 方案 + DIN 图。
+
+### 第 3 次跟进 · 管理型 PoE（枢纽广播网分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：枢纽大项目的广播网分段标准件：VLAN/ERPS 模板+冗余实测。
+- **要问的问题**：枢纽项目的广播网分段模板要不要进方案库？
+- **随附证明**：VLAN/ERPS 模板 + 冗余实测 + 样机。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

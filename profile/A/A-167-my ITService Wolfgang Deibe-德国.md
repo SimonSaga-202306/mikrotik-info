@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第9批.json`。
+
+- **业务定位**：贝尔吉施 Wiehl 25 年 IT+低电压全包店：基础架构+监控/门禁/报警一体，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：IT（网络/集成/电商/培训）+通信（门禁/考勤/对讲/监控/报警）+贸易件（服务器/外设/家电）。
+- **目标行业与场景**：大科隆东区中小企业全包与托管。
+- **团队与规模**：小型一人门脸+团队（Wolfgang Deibel）。
+- **决策链与对接人**：info@my-itservice.com（第三方待核，CSV 口径：先电话核可达）；热线 02262-717750。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：全包店=项目小批量高频；监控/门禁线天然 PoE 接入层。
+- **近期动态与线索**：24/7 热线营销常态。
+- **与我方契合点**：监控/门禁项目的 24 口与室外工业件——低电压项目的正路。
+- **风险与注意**：先电话核实邮箱（第三方来源）；报价一页化（小户）。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【团队与规模】**官网自述：2000 年创立，负责人 Wolfgang Deibel 挂帅（CSV 9-27：库内 Deibe 漏 l，只注记不改名）。
+  > my-ITservice wurde im Jahre 2000 gegründet… wird von Wolfgang Deibel geleitet, der mit seinem hochqualifizierten Team…
+  > 来源：https://www.my-itservice.com/
+- **【业务定位】**一单到底：从单项目到 Full-Service 全托管；服务口号“系统方案一手包办”。
+  > Unser Spektrum reicht neben unserem Fokus auf infrastrukturelle Lösungen von Einzelprojekten über adhoc-Services bis hin zu Fullservices mit vollständigem IT-Outsourcing und -Management. ‖ professionelle Systemlösungen „aus einer Hand“
+  > 来源：https://www.my-itservice.com/
+- **【产品线与在售品牌】**通信技术线含门禁/考勤/对讲/视频监控/报警——低电压安防与 IT 一体的小户全包店；另有 24/7 支持热线。
+  > Kommunikationstechnik: Telekommunikationssysteme · Mobilfunktechnik · Bürotechnik · Zutrittskontrollsysteme · Zeiterfassung · Sprechanlagen · Videoüberwachungssysteme · Alarmanlagen ‖ Service-Hotline: 02262-717750 · Fragen Sie nach unserem 24/7 Support
+  > 来源：https://www.my-itservice.com/
+- **【决策链与对接人】**CSV 9-27 记录：info@my-itservice.com 来自第三方 Cylex（第三方公开待核）；官网首页已核对 Wiehl 电话与负责人。
+  > 邮箱来自第三方 Cylex，官网首页已抓并核对 Wiehl 电话及负责人 Wolfgang Deibel；官网未显示明文邮箱，不算官网确认（CSV 2026-09-27 记录）
+  > 来源：https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（监控/门禁项目接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：一页德文报价：24 口 PoE++ 对照现用件——监控/门禁 IP 项目的接入层。
+- **要问的问题**：监控/门禁项目的接入层现在配什么？
+- **随附证明**：一页报价 + 规格对照（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（室外门点/库房）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：室外门点与库房：宽温 DIN PoE。
+- **要问的问题**：室外门点的坏机率？
+- **随附证明**：宽温报告 + DIN 图 + 备件包价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（安防网分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：全包项目的安防网分段模板：VLAN/ERPS 简版+速查。
+- **要问的问题**：大点的项目网分段模板要不要来一套？
+- **随附证明**：VLAN/ERPS 模板 + 速查卡（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

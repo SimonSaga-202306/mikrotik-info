@@ -8262,6 +8262,32 @@
     ]
   },
   {
+    "url": "https://kws-partner.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L91"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
     "url": "https://kws-partner.de/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -8700,6 +8726,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-916/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://m-itsysteme.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L158"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L166"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L178"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -16406,6 +16466,40 @@
     ]
   },
   {
+    "url": "https://nitoit.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L687"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L695"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L701"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L707"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://nitoit.de/kontakt-1/",
     "http_checked": false,
     "occurrences": [
@@ -16666,6 +16760,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-925/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L760"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L768"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L774"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L780"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L786"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -17196,6 +17332,32 @@
     ]
   },
   {
+    "url": "https://pke-de.de/de-de/PKE-DE-GmbH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L985"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L997"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1003"
+      },
+      {
+        "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
     "url": "https://pl.linkedin.com/company/wisppl?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -17650,6 +17812,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-931/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://recos.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1218"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1226"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1232"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1238"
+      },
+      {
+        "path": "profile/A/A-177-RECOS SYSTEM SOLUTIONS GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-177-RECOS SYSTEM SOLUTIONS GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-177-RECOS SYSTEM SOLUTIONS GmbH-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -21062,12 +21258,24 @@
         "locator": "反向信号名单!Q921"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L452"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L478"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L121"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -33442,6 +33650,40 @@
     ]
   },
   {
+    "url": "https://www.jott.consulting/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.jott.consulting/impressum",
     "http_checked": false,
     "occurrences": [
@@ -35254,6 +35496,32 @@
     ]
   },
   {
+    "url": "https://www.m2-it-solutions.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L231"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L239"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L245"
+      },
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
     "url": "https://www.m2-it-solutions.de/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -35486,6 +35754,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-918/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.meco.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L298"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L310"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L316"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L69"
       }
     ]
   },
@@ -36882,12 +37176,40 @@
         "locator": "反向信号名单!Q920"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L375"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L383"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L389"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L395"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L104"
       },
       {
         "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -37004,12 +37326,40 @@
         "locator": "反向信号名单!Q921"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L448"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L466"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L472"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L125"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -37672,6 +38022,40 @@
     ]
   },
   {
+    "url": "https://www.netz16.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L614"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L622"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L628"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.netz16.de/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -38256,6 +38640,48 @@
     ]
   },
   {
+    "url": "https://www.nupis.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L531"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L543"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L549"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L555"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L561"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.nxo.eu",
     "http_checked": false,
     "occurrences": [
@@ -38390,6 +38816,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-926/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oas.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L839"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L847"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L853"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L859"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -38994,6 +39454,40 @@
     ]
   },
   {
+    "url": "https://www.phoenix-itsolutions.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L912"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L920"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L926"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L932"
+      },
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.pke-de.com",
     "http_checked": false,
     "occurrences": [
@@ -39298,6 +39792,40 @@
     ]
   },
   {
+    "url": "https://www.prego-services.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1062"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1070"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1076"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1082"
+      },
+      {
+        "path": "profile/A/A-175-prego services GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-175-prego services GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-175-prego services GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.pride.md/en",
     "http_checked": false,
     "occurrences": [
@@ -39350,6 +39878,40 @@
     ]
   },
   {
+    "url": "https://www.prinzing-elektro.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1135"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1147"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1153"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1159"
+      },
+      {
+        "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.prinzing-elektro.de/frankfurt/",
     "http_checked": false,
     "occurrences": [
@@ -39358,12 +39920,24 @@
         "locator": "反向信号名单!Q930"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1139"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1165"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L254"
       },
       {
         "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -39384,12 +39958,24 @@
         "locator": "反向信号名单!Q928"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L989"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1009"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L228"
       },
       {
         "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -40436,12 +41022,40 @@
         "locator": "反向信号名单!Q932"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1291"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1299"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1305"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1311"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L280"
       },
       {
         "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -40918,12 +41532,58 @@
     ]
   },
   {
+    "url": "https://www.sittig-tech.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1364"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1376"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1382"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1388"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1394"
+      },
+      {
+        "path": "profile/A/A-179-Sittig Technologies GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-179-Sittig Technologies GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-179-Sittig Technologies GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-179-Sittig Technologies GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.sittig-tech.com/career",
     "http_checked": false,
     "occurrences": [
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q933"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1368"
       },
       {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
@@ -41152,6 +41812,10 @@
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q922"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L535"
       },
       {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
@@ -41682,6 +42346,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-934/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.telcat.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1447"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1455"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1461"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L1467"
+      },
+      {
+        "path": "profile/A/A-180-TELCAT MULTICOM GmbH – HQ-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-180-TELCAT MULTICOM GmbH – HQ-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-180-TELCAT MULTICOM GmbH – HQ-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -42796,12 +43494,24 @@
         "locator": "反向信号名单!Q918"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L302"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第9批.json",
+        "locator": "L322"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L83"
       },
       {
         "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",

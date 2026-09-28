@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第9批.json`。
+
+- **业务定位**：不来梅工业流程方案 AG：衡器/装置/场院管理/MES+IT 方案，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：pronto MES/emaxx 行业软件/汽车衡/YMS 场院管理与自助终端/IT 方案（中小企业）。
+- **目标行业与场景**：能源/纸业/水泥建材/涂料化工的场院与产线项目；中小企业 IT 线。
+- **团队与规模**：AG 规模工业方案商（Bremen 总部）。
+- **决策链与对接人**：info@oas.de（CSV 9-27：联系页；Imprint 指销售营销董事 Uwe Heidbreder，仍走公共箱）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：场院/户外自助终端=工业宽温 PoE 的战略场景：每台发车衡/终端都要联网供电——工业件先手最正。
+- **近期动态与线索**：LEAG/Model/SCHWENK 连续案例=场院产品线旺盛。
+- **与我方契合点**：场院/衡车点位的工业 PoE（先手）→装置机房 24 口→pronto/YMS 项目的管理型分段件。
+- **风险与注意**：终端/衡器带自家认证体系——交换件只做网络配套不碰计量链本身；能源大客户（LEAG 类）侧走 OAS 集成商路径不直达。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网：从衡器技术先驱到工业衡器/设备/流程控制/场院管理/IT 方案五花——「Innovativpartner für Prozesslösungen」。
+  > Ihr Innovativpartner für Prozesslösungen… vom Pionier der Wägetechnik zu einem der führenden Anbieter industrieller Wäge- und Anlagentechnik ‖ Anlagenbau · Produktionssteuerung · Dosier- und Wägetechnik · Yard Management · IT-Lösungen
+  > 来源：https://www.oas.de/
+- **【目标行业与场景】**成功案例硬：LEAG 能源 Schwarze Pumpe 场院系统/Model 纸业（欧洲前五纸机）/SCHWENK 水泥国际场院铺开/DAW 涂料 pronto MES/VPL 涂料新装置。
+  > SUCCESS STORIES: Yard Management System für LEAG（Schwarze Pumpe）· Yard Management Rollout für die Model Group（625.000 吨/年纸机）· Internationales Yard Management Rollout für SCHWENK Zement · pronto MES für DAW SE · VPL Coatings… Lackproduktionsanlage
+  > 来源：https://www.oas.de/
+- **【产品线与在售品牌】**自有软硬件：pronto 生产控制/emaxx 行业软件（散装与回收）/汽车衡/自助终端场院系统——场院户外的自助终端=交换供电刚需点。
+  > Lieferung mess- sowie regelungstechnischer Komponenten… Entwicklung eigener Software für die Prozesssteuerung ‖ Yard Management — Selbstbedienterminals（图）· industrielle Fahrzeugwaagen
+  > 来源：https://www.oas.de/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 工业级非管理 PoE（场院/衡车/自助终端点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：场院自助终端与汽车衡的户外联网供电：宽温 DIN PoE 正是 YMS 项目标配段。
+- **要问的问题**：场院终端/衡车点位的供电交换现在配什么？
+- **随附证明**：宽温报告 + 场院场景方案 + 项目价（德文）。
+
+### 第 2 次跟进 · 24 口 CCTV/PoE（装置机房接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：产线/装置机房的接入层 24 口 PoE++ 成本对照。
+- **要问的问题**：装置机房的接入层现在配什么？
+- **随附证明**：规格对照 + 报价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（IT/OT 分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：pronto/YMS 项目的 IT/OT 分段标准件：VLAN/ERPS 模板+样机。
+- **要问的问题**：场院/产线的 IT/OT 分段模板要不要进方案库？
+- **随附证明**：VLAN/ERPS 模板 + 收敛实测 + 样机（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
