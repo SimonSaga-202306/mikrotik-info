@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第11批.json`。
+
+- **业务定位**：马德里波苏埃洛 40 年集团级集成商：电信/铁路/能源战略行业项目，Allied **Elite+Platinum 双深绑定**（CSV+官网 logo 互证）。⚠️防务伙伴语境（Mildef/Bertin）划线。
+- **产品线与在售品牌**：电信/铁路/能源基件集成+Allied/Dell/Commscope/Prysmian 全线分销式集成。
+- **目标行业与场景**：商业电信与铁路民营段、能源商业客户（谨慎）；⚠️防务关联段不碰。
+- **团队与规模**：40 年中型集团。
+- **决策链与对接人**：lyc@lineasycables.com（CSV 9-27：联系页公开）。
+- **技术与认证**：Allied Integrate Elite+Platinum（CSV+官网）；第三厂集成多牌资质。
+- **采购与供应链信号**：⚠️Elite/Platinum 深绑不可谈替位：现实空间=①Allied 无工业宽温真品线的类目空档（铁路沿线/户外/能源站点宽温 DIN PoE+ERPS 环）②项目第二来源 ③缆（Prysmian/NKT 关系）旁供电件套装。
+- **近期动态与线索**：伙伴墙 2025-2026 持续扩（Racks&Networking/Virtual Cable 新牌）。
+- **与我方契合点**：铁路/能源户外段的宽温工业 PoE+ERPS 线性环——他最痛的场景段恰是 Allied 无真品的空档。
+- **风险与注意**：全信「类目空档/第二来源」不谈替位；防务关联（Mildef/Bertin）项目不涉；西语材料。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网：Grupo Líneas y Cables——40+ 年战略行业技术方案：电信/**铁路（ferroviario）**/能源等；第三方制造产品集成是其模式。
+  > GRUPO LÍNEAS Y CABLES — Cuenta con más de 40 años de experiencia en la provisión de soluciones, productos y servicios tecnológicos en sectores estratégicos… telecomunicaciones, el sector ferroviario o la energía ‖ Trabajamos con partners referentes mundiales… e integramos soluciones fabricadas por terceros.
+  > 来源：https://www.grupolineasycables.com/
+- **【技术与认证】**伙伴墙亮牌：**Allied Platinum（Allied_Platinum logo 在列）**+Dell Platinum+Commscope/Prysmian/NKT/Clavister/SonicWall——核心堆头就是 Allied 旗舰位。
+  > （伙伴墙）Dell Platinum（logo）· Allied Platinum（Allied_Platinum_250x150 logo）· Commscope · Prysmian · NKT · Check Point · SonicWall · Clavister · Elcon Megarad · Polomarconi · Grandstream · Fluke Networks
+  > 来源：https://www.grupolineasycables.com/
+- **【风险与注意】**伙伴墙同时列 **Mildef（军用计算机）与 Bertin Technologies（国防技术集团）**——⚠️防务供应语境浓厚，按防务关联段划线处理（CSV：Integrate Elite 级）。
+  > （伙伴墙）Mildef · Bertin（Bertin Technologies）——防务技术供应商在册（官网）；（CSV 记录）伙伴等级：Integrate Elite, Resell
+  > 来源：https://www.grupolineasycables.com/
+- **【决策链与对接人】**CSV 9-27：官网联系页公开 lyc@lineasycables.com 与 +34 915 121 320、Calle Virgilio 19 Pozuelo de Alarcón——剔除地图噪声（CSV 原话）。
+  > 官网联系页正文邮箱与+34 915121320、Calle Virgilio 19 Pozuelo de Alarcón Madrid 28223匹配；不用地图噪声当邮箱（CSV 2026-09-27 记录）
+  > 来源：https://www.grupolineasycables.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 类目空缺提案（铁路/能源户外段工业宽温 PoE）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：Allied 货架无工业宽温真品：铁路沿线/能源站点/户外机柜的宽温 DIN PoE+SFP 长距——类目空档合作提案。
+- **要问的问题**：户外/沿线点位的工业宽温件这个类目你们怎么解？（西语材料）
+- **随附证明**：类目空档说明 + 宽温报告 + SFP 方案 + 分销价目（西）。
+
+### 第 2 次跟进 · 管理型 PoE（ERPS 线性环：铁路/能源拓扑）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：铁路/能源线性拓扑的 ERPS 环收敛实测+L3——项目第二来源技术档。
+- **要问的问题**：线性拓扑的 ERPS 环件要不要当第二来源测？
+- **随附证明**：ERPS 收敛实测 + 拓扑方案（西）。
+
+### 第 3 次跟进 · 24 口 CCTV/PoE（站点汇聚高段位补位）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：站点汇聚的 24 口 PoE++ 高段位补位；商业段第二来源价位。
+- **要问的问题**：站点汇聚的高段位件有没有第二来源需求？
+- **随附证明**：规格对照 + 第二来源价目（西）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

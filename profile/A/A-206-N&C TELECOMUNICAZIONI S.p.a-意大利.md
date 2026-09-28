@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第11批.json`。
+
+- **业务定位**：萨伦托 Veglie 起家的 700 人科技集团：八 BU 垂直交付大型民营与公立项目，Allied Resell（CSV 记录）。⚠️ 规模/总部采购风险保留（CSV 原话）。
+- **产品线与在售品牌**：八 BU 全谱：DC/布线/网络/安全/软件 AI/云/工作空间/托管。
+- **目标行业与场景**：商业段（汽车/制造/GDO/运输/豪华游艇 Stellantis·Azimut-Benetti 级）正路；⚠️PA/医疗/教育/金融公立相关段划线。
+- **团队与规模**：700 人全球（大型集团）。
+- **决策链与对接人**：info@nectlc.com（CSV 9-27：旧官网搜索索引邮箱，页面 404 待核；新站表单/get-in-touch 备用——先表单+电话确认）。
+- **技术与认证**：Allied Resell（CSV 记录）；930+ 厂资质（官网）。
+- **采购与供应链信号**：大体系=供应商名录/采购流程：按要求 BU 对口（Networking 或 Cabling BU）+全套资质文件进名录；游艇（Luxury）段=海事级环境，宽温工业件有真实场景。
+- **近期动态与线索**：2026-03 新站改版+营收 +23% 公告=扩张猛。
+- **与我方契合点**：Networking/Cabling BU 的项目接入层与海事/厂房工业件——商业段项目流大。
+- **风险与注意**：勿跨 BU 多头；公立/医疗/金融段不供；先表单登记后电话跟进档案。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【团队与规模】**官网硬数：700 全球人员、40+ 年、2025 营收 +23%、930+ 认证、每年 820+ 项目、UNI/PDR 125 配额认证——大型集成商。
+  > 40+ Anni di innovazione al servizio di imprese e PA · 700 Risorse nel mondo · +23% Crescita del fatturato (2025) · 930+ Certificazioni ottenute · 820+ Progetti ogni anno
+  > 来源：https://www.nectlc.com/
+- **【业务定位】**八个垂直 BU 自负运营：**Data Center/Cabling & Infrastructure/Networking/Cybersecurity/Software & AI/IT System & Cloud/Digital Workspace/Managed Services（Operation Center）**。
+  > Business Unit — Competenze verticali, visione integrata: Data Center · Cabling & Infrastructure · Networking · Cybersecurity & Security · Software & AI · IT System & Cloud · Digital Workspace & Collaboration · Managed Services（Operation Center）
+  > 来源：https://www.nectlc.com/
+- **【目标行业与场景】**十一行业页含 Automotive/制造/GDO/运输/Luxury（**Azimut-Benetti 豪华游艇**）等商业段；⚠️同时列 Pubblica Amministrazione/Healthcare/Finance/Istruzione——公立相关段划线。
+  > Settori: Automotive · Energy & Utilities · GDO · Manufacturing · Telco · Trasporti · Luxury · Finance · Healthcare · Istruzione · Pubblica Amministrazione ‖ Clienti privati（logo）：Stellantis · Azimut-Benetti · Leasys · CNH · TIM
+  > 来源：https://www.nectlc.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（商业段 Cabling/Networking 项目接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：供应商名录敲门：公司资质+CE 文件包+24 口 PoE++ 对照——走 Networking/Cabling BU 商业段（汽车/制造/运输），声明公立/医疗/金融段不涉。
+- **要问的问题**：商业段布线/网络项目的接入层现在配什么？（请转 Networking BU）
+- **随附证明**：资质包 + CE 文件 + 边界声明（意/英）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（海事/厂房/户外点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：Luxury 游艇建造与厂房/运输户外点位：宽温 DIN PoE——海事环境的真实场景。
+- **要问的问题**：船坞/厂房户外的供电交换坏机率？
+- **随附证明**：宽温报告 + 海事/厂房场景 + DIN 图。
+
+### 第 3 次跟进 · 管理型 PoE（项目分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：项目分段标准件：VLAN/ERPS 模板+样机评估进工程库。
+- **要问的问题**：分段模板要不要评估进工程库？
+- **随附证明**：VLAN/ERPS 模板 + 样机。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -58,7 +58,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第11批.json`。
+
+- **业务定位**：库内奥省 Vignolo 小型服务商：自研 NSGest 软件+维保+安防一体，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：NSGest（会计/仓储/工单）+安全/网络/视监/门禁/备份 DR。
+- **目标行业与场景**：库内奥地区中小企业与商户。
+- **团队与规模**：小型。
+- **决策链与对接人**：info@nsi.srl（CSV 9-27：首页明牌）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：视监/门禁=PoE 接入层常件；软件客户群=中小微企业预算敏感——试单价逻辑。
+- **近期动态与线索**：NSGest 持续营销（自研产品为其粘性抓手）。
+- **与我方契合点**：视监/门禁项目的接入层 24 口与库房小机。
+- **风险与注意**：CSV 提醒：官网服务信号不能认定其具体采购需求或芯片（照录）；以问题开路勿脑补。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网三条服务横幅：企业内外维保（监控/维护/干预/报告）+**自研 NSGest 管理软件**+创新硬软方案——库内那小服务商。
+  > ASSISTENZA in azienda e da remoto — monitoraggio · manutenzione · interventi · report ‖ SVILUPPO NSGest — trasformazione digitale · fatturazione elettronica · contabilità · commesse · ordini · magazzino
+  > 来源：https://nsi.srl/
+- **【产品线与在售品牌】**方案清单含安全/云私有/网络/虚拟化/备份DR/电话/**视监/门禁**/设备管理——监控门禁两件皆 PoE 场景。
+  > SOLUZIONI informatiche innovative hardware e software: sicurezza · cloud privato · networking · virtualizzazione · backup · DR · telefonia · videosorveglianza · controllo accessi · gestione dispositivi
+  > 来源：https://nsi.srl/
+- **【决策链与对接人】**官网明牌：info+support 双邮箱、电话、Via Cuneo 36/a Vignolo 一次给全（CSV 9-27：优先 info 普通入口）。
+  > info@nsi.srl · support@nsi.srl · 0171-601168 · Via Cuneo 36/a, 12010 Vignolo（联系块）
+  > 来源：https://nsi.srl/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（视监/门禁项目接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：视监/门禁两件都是 PoE 场景：24 口 PoE++ 一页试用价。
+- **要问的问题**：视监/门禁项目的接入层现在配什么？
+- **随附证明**：一页报价 + 规格要点（意/英）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（库房/车库小点位）
+
+- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **切入点**：库房/车库小点位试单价。
+- **要问的问题**：库房小点位用什么交换？
+- **随附证明**：宽温报告 + 试单价。
+
+### 第 3 次跟进 · 管理型 PoE（安防网分段简件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：安防网分段简件+监控语境匹配的 VLAN 速查。
+- **要问的问题**：安防网分段模板要不要留一份？
+- **随附证明**：VLAN 速查卡。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

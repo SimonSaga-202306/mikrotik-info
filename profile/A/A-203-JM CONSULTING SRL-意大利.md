@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第11批.json`。
+
+- **业务定位**：皮亚琴察 Gossolengo 数字化咨询商：战略+ERP+IT 服务，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：ERP 方案/AI 数字化/IT 服务（含系统基建）/打印。
+- **目标行业与场景**：食品/物流/制造/零售/时尚产业客户。
+- **团队与规模**：中小咨询商（lean 项目话术）。
+- **决策链与对接人**：info@jmconsulting.it（CSV 9-27：联系页 Via Donatori Sangue 3 匹配，采用普通 info 非 PEC）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：咨询制=项目化需求：ERP/物流改造项目带基础设施层；物流/食品客户库房工业件角度顺行业页谈。
+- **近期动态与线索**：2025-05 主页改版（Innovation Wind 新版）。
+- **与我方契合点**：物流/食品项目的库房工业件+客户机房接入层为项目配套。
+- **风险与注意**：咨询话术精简：给「行业场景一页」而非产品目录；意式节奏。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网「Innovation Wind」：公司战略+数字化转型咨询为骨——陪伴、支持与培训企业的创新路径。
+  > INNOVATION WIND — Strategie aziendali per l'innovazione e la competitività ‖ Accompagniamo, supportiamo e formiamo le aziende… orientando alla digitalizzazione i propri processi, i flussi di dati e l'intera filiera produttiva.
+  > 来源：https://jmconsulting.it/
+- **【产品线与在售品牌】**四块方案：ERP SOLUTION/AI & DIGITAL TRANSFORMATION/IT SERVICE/PRINTING——咨询带软件与系统。
+  > SOLUZIONI — attraverso 4 specifiche aree di intervento: ERP SOLUTION · AI & DIGITAL TRANSFORMATION · IT SERVICE · PRINTING（2023 宣传册下载）
+  > 来源：https://jmconsulting.it/
+- **【目标行业与场景】**五大行业页：食品/物流/制造/零售/时尚（旁及 oil&gas）——产业数字化客群。
+  > SETTORI: Food · Logistics · Manufacturing · Retail · Fashion ‖ dal food al fashion, dall'industria all'oil&gas
+  > 来源：https://jmconsulting.it/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 工业级非管理 PoE（物流/食品库房点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：顺他物流/食品行业页：库房扫描/无线点位的宽温 DIN PoE 场景一页。
+- **要问的问题**：物流/食品客户的库房无线供电怎么做？
+- **随附证明**：场景一页 + 宽温报告 + 试单价（意/英）。
+
+### 第 2 次跟进 · 24 口 CCTV/PoE（ERP 项目机房接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：ERP 项目配套：客户机房/办公接入层 24 口 PoE++。
+- **要问的问题**：ERP 项目机房的接入层现在配什么？
+- **随附证明**：规格对照 + 一页报价。
+
+### 第 3 次跟进 · 管理型 PoE（厂区 IT/OT 分段简件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：制造客户的厂区网分段简件：VLAN 模板速查。
+- **要问的问题**：厂区分段模板要不要进你们的方案？
+- **随附证明**：VLAN 速查卡 + 基线。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

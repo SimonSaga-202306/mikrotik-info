@@ -317,7 +317,7 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(len(first), 49)
         self.assertEqual([p.name[:5] for p in first], [f'A-{n:03}' for n in range(1, 50)])
         editable = {'A-044', 'A-046'}
-        r54 = {f'A-{n:03}' for n in range(1, 201)}
+        r54 = {f'A-{n:03}' for n in range(1, 221)}
         mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
         renumber = {'## 九、注意点': '## 六、注意点',
                     '## 十、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
@@ -376,7 +376,7 @@ class RepositoryTests(unittest.TestCase):
     def test_r54_enrichment_matches_dossiers(self):
         # 2026-09-28 R54：A 类逐户加厚 = 10 个维度 + 原文证据摘录 + 恰好 3 步跟进计划。
         # 数据源 batch/A类加厚_*.json 是唯一事实源；profile/ 由 make_profiles.py 渲染，不许手改。
-        batches = {1: range(1, 21), 2: range(21, 41), 3: range(41, 61), 4: range(61, 81), 5: range(81, 101), 6: range(101, 121), 7: range(121, 141), 8: range(141, 161), 9: range(161, 181), 10: range(181, 201)}
+        batches = {1: range(1, 21), 2: range(21, 41), 3: range(41, 61), 4: range(61, 81), 5: range(81, 101), 6: range(101, 121), 7: range(121, 141), 8: range(141, 161), 9: range(161, 181), 10: range(181, 201), 11: range(201, 221)}
         for batch, codes in batches.items():
             data = json.loads((ROOT / f'batch/A类加厚_2026-09-28_R54_第{batch}批.json').read_text(encoding='utf-8'))
             self.assertEqual(data['batch'], batch)
@@ -560,12 +560,24 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(without_contact_evidence('legacy campus customer'), 'legacy campus customer')
         r49 = '核心事实。【2026-09-28 R49 邮箱补录】…official-company…【2026-09-28 R49 复核】more'
         self.assertEqual(without_contact_evidence(r49), '核心事实。')
+        def strip_r54_injection(tail):
+            """去掉 R54 注入的 §六/§七/§八，并把被顺延的旧段序号还原（九→六、十→七、十一→八）。"""
+            parts = tail.split('\n## 六、深度加厚', 1)
+            if len(parts) == 1:
+                return tail
+            head, rest = parts
+            _, rest = rest.split('\n## 九、注意点', 1)
+            tail = head + '\n## 六、注意点' + rest
+            return (tail
+                    .replace('\n## 十、首触邮件', '\n## 七、首触邮件')
+                    .replace('\n## 十一、跟进记录', '\n## 八、跟进记录'))
         for p in (ROOT / 'profile/A').glob('A-*.md'):
             if not 210 <= int(p.name[2:5]) < 379:
                 continue
             old = subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{p.relative_to(ROOT)}'], cwd=ROOT).decode()
             marker = '## 四、品牌与技术栈'
-            self.assertEqual(p.read_text().split(marker, 1)[1], old.split(marker, 1)[1], p.name)
+            self.assertEqual(strip_r54_injection(p.read_text().split(marker, 1)[1]),
+                             strip_r54_injection(old.split(marker, 1)[1]), p.name)
         young = next((ROOT / 'profile/A').glob('A-233-*.md')).read_text()
         self.assertIn('- **邮箱**：info@young.hu\n', young)
         self.assertNotIn('work on A210', young)

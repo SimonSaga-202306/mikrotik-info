@@ -247,7 +247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L659"
+        "locator": "L671"
       }
     ]
   },
@@ -419,7 +419,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L835"
+        "locator": "L847"
       }
     ]
   },
@@ -583,7 +583,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L703"
+        "locator": "L715"
       }
     ]
   },
@@ -649,7 +649,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L833"
+        "locator": "L845"
       }
     ]
   },
@@ -714,6 +714,18 @@
         "locator": "反向信号名单!Q982"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L748"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L756"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L762"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L41"
       },
@@ -724,6 +736,14 @@
       {
         "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
+        "locator": "L69"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -800,12 +820,40 @@
         "locator": "反向信号名单!Q989"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1180"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1188"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1194"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1200"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L217"
       },
       {
         "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -1219,7 +1267,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L658"
+        "locator": "L670"
       }
     ]
   },
@@ -2097,7 +2145,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L796"
+        "locator": "L808"
       }
     ]
   },
@@ -2769,7 +2817,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L702"
+        "locator": "L714"
       }
     ]
   },
@@ -3139,7 +3187,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L756"
+        "locator": "L768"
       }
     ]
   },
@@ -4837,7 +4885,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L754"
+        "locator": "L766"
       }
     ]
   },
@@ -5333,7 +5381,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1167"
+        "locator": "L1179"
       }
     ]
   },
@@ -5343,7 +5391,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1167"
+        "locator": "L1179"
       }
     ]
   },
@@ -5875,7 +5923,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L699"
+        "locator": "L711"
       }
     ]
   },
@@ -6279,7 +6327,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L622"
+        "locator": "L634"
       }
     ]
   },
@@ -7159,7 +7207,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L838"
+        "locator": "L850"
       }
     ]
   },
@@ -7435,7 +7483,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L625"
+        "locator": "L637"
       }
     ]
   },
@@ -7669,7 +7717,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L625"
+        "locator": "L637"
       }
     ]
   },
@@ -8054,6 +8102,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-972/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://jmconsulting.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L178"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
+        "locator": "L72"
       }
     ]
   },
@@ -9495,7 +9577,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L798"
+        "locator": "L810"
       }
     ]
   },
@@ -16059,7 +16141,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L795"
+        "locator": "L807"
       }
     ]
   },
@@ -16521,7 +16603,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L706"
+        "locator": "L718"
       }
     ]
   },
@@ -16832,12 +16914,40 @@
         "locator": "反向信号名单!Q979"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L529"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L537"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L543"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L549"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L229"
       },
       {
         "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
+        "locator": "L88"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -17901,7 +18011,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L701"
+        "locator": "L713"
       }
     ]
   },
@@ -19634,6 +19744,40 @@
     ]
   },
   {
+    "url": "https://sielco.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L961"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L969"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L975"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L981"
+      },
+      {
+        "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://sielco.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -20090,6 +20234,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-990/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://stlconnext.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1253"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1261"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1267"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1273"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1279"
+      },
+      {
+        "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
+        "locator": "L85"
       }
     ]
   },
@@ -23548,6 +23734,22 @@
         "locator": "反向信号名单!Q974"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L310"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L318"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L324"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L330"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L148"
       },
@@ -23558,6 +23760,18 @@
       {
         "path": "profile/A/A-205-Luca Masetto-意大利.md",
         "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-205-Luca Masetto-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-205-Luca Masetto-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-205-Luca Masetto-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -24221,7 +24435,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L626"
+        "locator": "L638"
       }
     ]
   },
@@ -24825,7 +25039,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L704"
+        "locator": "L716"
       }
     ]
   },
@@ -25753,7 +25967,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L796"
+        "locator": "L808"
       }
     ]
   },
@@ -27381,7 +27595,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L656"
+        "locator": "L668"
       }
     ]
   },
@@ -28431,7 +28645,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L797"
+        "locator": "L809"
       }
     ]
   },
@@ -28765,7 +28979,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L758"
+        "locator": "L770"
       }
     ]
   },
@@ -29923,7 +30137,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L753"
+        "locator": "L765"
       }
     ]
   },
@@ -31684,6 +31898,40 @@
     ]
   },
   {
+    "url": "https://www.gorettitechnologicalsystems.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.gorettitechnologicalsystems.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -31794,6 +32042,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-995/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.grupolineasycables.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1405"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1413"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1419"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1425"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1431"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L75"
       }
     ]
   },
@@ -32694,12 +32984,40 @@
         "locator": "反向信号名单!Q970"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L91"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L111"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L71"
       },
       {
         "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -33041,7 +33359,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L759"
+        "locator": "L771"
       }
     ]
   },
@@ -33237,7 +33555,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L654"
+        "locator": "L666"
       }
     ]
   },
@@ -33821,7 +34139,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L834"
+        "locator": "L846"
       }
     ]
   },
@@ -34037,7 +34355,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L655"
+        "locator": "L667"
       }
     ]
   },
@@ -35880,12 +36198,40 @@
         "locator": "反向信号名单!Q973"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L237"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L245"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L251"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L257"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L121"
       },
       {
         "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -36371,7 +36717,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L755"
+        "locator": "L767"
       }
     ]
   },
@@ -36997,7 +37343,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L797"
+        "locator": "L809"
       }
     ]
   },
@@ -37273,7 +37619,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L760"
+        "locator": "L772"
       }
     ]
   },
@@ -37339,7 +37685,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L626"
+        "locator": "L638"
       }
     ]
   },
@@ -38016,12 +38362,40 @@
         "locator": "反向信号名单!Q977"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L464"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L470"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L476"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L206"
       },
       {
         "path": "profile/A/A-207-NA.EL Srl-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-207-NA.EL Srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-207-NA.EL Srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-207-NA.EL Srl-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -38084,12 +38458,40 @@
         "locator": "反向信号名单!Q976"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L383"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L391"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L397"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L403"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A200-A209.json",
         "locator": "L179"
       },
       {
         "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -38598,6 +39000,40 @@
     ]
   },
   {
+    "url": "https://www.newsoft-tech.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L602"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L610"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L616"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L622"
+      },
+      {
+        "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.newsoft-tech.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -38689,7 +39125,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L707"
+        "locator": "L719"
       }
     ]
   },
@@ -39187,7 +39623,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L757"
+        "locator": "L769"
       }
     ]
   },
@@ -39490,6 +39926,40 @@
     ]
   },
   {
+    "url": "https://www.omniconnect.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L675"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L683"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L689"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L695"
+      },
+      {
+        "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.omniconnect.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -39608,12 +40078,40 @@
         "locator": "反向信号名单!Q983"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L815"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L823"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L829"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L835"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L69"
       },
       {
         "path": "profile/A/A-212-S.C.E Telecomunicazioni S.r.l-意大利.md",
         "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-212-S.C.E Telecomunicazioni S.r.l-意大利.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-212-S.C.E Telecomunicazioni S.r.l-意大利.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-212-S.C.E Telecomunicazioni S.r.l-意大利.md",
+        "locator": "L82"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -40045,7 +40543,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L837"
+        "locator": "L849"
       }
     ]
   },
@@ -40129,7 +40627,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L705"
+        "locator": "L717"
       }
     ]
   },
@@ -41680,6 +42178,40 @@
     ]
   },
   {
+    "url": "https://www.sfera-srl.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L888"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L896"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L902"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L908"
+      },
+      {
+        "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.sfera-srl.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -41814,6 +42346,22 @@
         "locator": "反向信号名单!Q987"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1034"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1042"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1048"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1054"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L157"
       },
@@ -41824,6 +42372,18 @@
       {
         "path": "profile/A/A-215-SIM NT srl-意大利.md",
         "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-215-SIM NT srl-意大利.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-215-SIM NT srl-意大利.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-215-SIM NT srl-意大利.md",
+        "locator": "L82"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -42250,6 +42810,40 @@
     ]
   },
   {
+    "url": "https://www.sotech.srl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1107"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1115"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1121"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1127"
+      },
+      {
+        "path": "profile/A/A-216-SOTECH srl-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-216-SOTECH srl-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-216-SOTECH srl-意大利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.sotech.srl/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -42426,6 +43020,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-991/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.storelink.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1332"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1340"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1346"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第11批.json",
+        "locator": "L1352"
+      },
+      {
+        "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
+        "locator": "L72"
       }
     ]
   },
@@ -43577,7 +44205,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L700"
+        "locator": "L712"
       }
     ]
   },
@@ -44205,7 +44833,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L836"
+        "locator": "L848"
       }
     ]
   },
@@ -44667,7 +45295,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L657"
+        "locator": "L669"
       }
     ]
   },
