@@ -8324,6 +8324,16 @@
     ]
   },
   {
+    "url": "https://inducio-services.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L635"
+      }
+    ]
+  },
+  {
     "url": "https://inducio-services.net/en",
     "http_checked": false,
     "occurrences": [
@@ -8348,6 +8358,10 @@
         "locator": "L1351"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L656"
+      },
+      {
         "path": "profile/A/A-158-Inducio GmbH-德国.md",
         "locator": "L120"
       },
@@ -8362,6 +8376,10 @@
       {
         "path": "profile/A/A-158-Inducio GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -8618,12 +8636,24 @@
         "locator": "L1428"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L725"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L746"
+      },
+      {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
         "locator": "L120"
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -35542,6 +35572,28 @@
     ]
   },
   {
+    "url": "https://www.g-u.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L187"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L208"
+      },
+      {
+        "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.g-u.com/de-de",
     "http_checked": false,
     "occurrences": [
@@ -35750,6 +35802,14 @@
         "locator": "L814"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L32"
+      },
+      {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
         "locator": "L120"
       },
@@ -35760,6 +35820,10 @@
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -36242,6 +36306,24 @@
     ]
   },
   {
+    "url": "https://www.gu-bks.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L277"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L298"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.gu-bks.de/de-de",
     "http_checked": false,
     "occurrences": [
@@ -36594,6 +36676,14 @@
         "locator": "L1189"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L455"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L476"
+      },
+      {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
         "locator": "L120"
       },
@@ -36604,6 +36694,10 @@
       {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -36868,6 +36962,14 @@
         "locator": "L1116"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L365"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L386"
+      },
+      {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
         "locator": "L120"
       },
@@ -36882,6 +36984,10 @@
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -36918,6 +37024,24 @@
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L545"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L566"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -38112,6 +38236,14 @@
         "locator": "L1507"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L813"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
+        "locator": "L834"
+      },
+      {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
         "locator": "L120"
       },
@@ -38126,6 +38258,10 @@
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L145"
       }
     ]
   },

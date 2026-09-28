@@ -291,6 +291,17 @@ OVERRIDE = {
  'A-148': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'DDS 科隆 30 年系统屋：Allied 品牌墙实版→第二供位（$165 锚点一致）'},
  'A-149': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ProSoft 德累斯顿：网络方案定制文化 value 二线（$165 锚点一致）'},
  'A-150': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Eckmann 电缆分销：aktive 类目 PoE 交换补位（$165 锚点一致）；Kai 具名'},
+ # ── R56 批 16（A-151..A-160 深挖 2026-09-28）──
+ 'A-151': {'p1': 'STC-28DGGPM', 'p1_reason': 'GBS TEMPEST：BSI 六实验室+SDIP27 密级框架——红线建档不出信'},
+ 'A-152': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'A-152 与 A-153 同域同源 dup-suspect 标注（不删号）；随 A-153 判别'},
+ 'A-153': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Gretsch-Unitas 全球集团：门禁/楼宇 PoE 配套窄位，供应商准入问询先行（$165 锚点一致）'},
+ 'A-154': {'p1': 'STC-28DGGPM', 'p1_reason': 'GU BKS SERVICE：集团服务臂内循环+KRITIS 客户墙——建档不出信'},
+ 'A-155': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'H&G 波恩 30 年系统屋：教会/福利段价值二线（$165 锚点一致）；Aruba 主线不碰'},
+ 'A-156': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'HMT 北德安防（接警联动）：视频/门禁随单柜（$165 锚点一致）'},
+ 'A-157': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Human Art 柏林 1988：Behörde 框架红线明示不碰，私营 B2B 店窄段（$165 锚点一致）'},
+ 'A-158': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Inducio NOC 专家：Allied 实版+KRITIS 守界，私营机械工程段窄位（$165 锚点一致）'},
+ 'A-159': {'p1': 'STC-28DGGPM', 'p1_reason': 'Insight 德国：全球超大目录 VAR 规模排除纪律建档不出信'},
+ 'A-160': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ISIMKO 科特布斯 120 人：工业布线专精私营段（$165 锚点一致）；行政/医疗守界'},
 }
 
 out = {}

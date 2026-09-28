@@ -128,6 +128,22 @@ updated: 2026-09-28
   > ISIMKO goes Future — Mit KI-basierten Lösungen, Gebäudeautomatisierung und Prozessdigitalisierung in die Zukunft（Gefördert aus Mitteln der Europäischen Union）‖ Unser Team für audiovisuelle Medientechnik besteht aus über 20 Mitarbeiterinnen und Mitarbeiter
   > 来源：https://www.isimko.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：120 人家族全谱（工业布线专精）；公共段守界
+- **②芯片/型号**：严选供应商池（CSV 载 Allied 信号）
+- **③KP 深挖**：info@
+- **④Saga 对标**：私营工业段接入层 value 件
+- **⑤在乎与偏好**：准入文档+长期主义
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten…spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie”
+  > “familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten…spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie”
+  > 来源：https://www.isimko.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：全谱
+- **W**：门槛
+- **O**：工业
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi ISIMKO,
+Hi ISIMKO team,
 
-I came across ISIMKO GmbH - 集成商/代理（Allied Telesis）.
+A family Mittelstand company with 120+ people across four locations, specializing in high-quality copper and fibre networks for industry - you build the layer we manufacture for.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value line for the access layer inside your industrial network projects. (For clarity: this note concerns your private industrial and financial-sector work only.)
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your industrial cabling and security-technology projects, which switch brand holds the PoE access layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack for your supplier evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

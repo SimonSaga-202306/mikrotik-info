@@ -128,6 +128,22 @@ updated: 2026-09-28
   > NOC & Infrastructure Monitoring — from simple availability checks to detailed SNMP monitoring ‖ Asset Management + Network Access Control ‖ IT security checks — regular vulnerability scans ‖ Network Security Monitoring — threat intelligence integration
   > 来源：https://inducio-services.net/en
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：NOC 专家（KRITIS+私营双谱）；Allied 实版
+- **②芯片/型号**：Allied 实版（官网）
+- **③KP 深挖**：info@
+- **④Saga 对标**：私营段 value 位（KRITIS 不涉）
+- **⑤在乎与偏好**：SNMP 文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
+  > “we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
+  > 来源：https://inducio-services.net/en
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：专业
+- **W**：界
+- **O**：私营
+- **T**：同盟
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Inducio,
+Hi inducio team,
 
-I came across Inducio GmbH - 集成商/代理（Allied Telesis）.
+A NOC practice serving everything from KRITIS operators to mechanical engineering firms - this note concerns only your private mid-market and mechanical-engineering engagements; your critical-infrastructure clients stay fully out of scope, to be explicit.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, clean SNMP for your COD dashboards, watchdog) with full documentation. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your private-sector monitoring projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete SNMP and test documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

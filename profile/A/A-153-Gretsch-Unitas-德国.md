@@ -125,6 +125,22 @@ updated: 2026-09-28
   > ProPoint-Serviceportal — Als angemeldeter Kunde finden Sie in Ihrem ProPoint-Serviceportal Ihre Projekte, Bestellungen und unsere Serviceangebote. ‖ Seminare… online oder vor Ort（集团页服务板块）
   > 来源：https://www.g-u.com/de-de
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：GU 全球集团（门禁/楼宇 IP 化产品）
+- **②芯片/型号**：门禁/控制系统（自研+框架）
+- **③KP 深挖**：info@g-u.de
+- **④Saga 对标**：准入路径问询（窄）
+- **⑤在乎与偏好**：体系认证
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
+  > “automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
+  > 来源：https://www.g-u.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：场景
+- **W**：门槛
+- **O**：配套
+- **T**：自研
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Gretsch-Unitas,
+Hi Gretsch-Unitas team,
 
-I came across Gretsch-Unitas - 集成商/代理（Allied Telesis）.
+Your Group builds intelligent access solutions for modern buildings worldwide - from New York to Stuttgart. Where access control, automatic doors and building management meet the network, they ride PoE.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture 24-port Gigabit PoE access switches (280W, 802.3af/at, full CE documentation, $165 USD EXW reference) - the dependable layer behind exactly such systems.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question - and it is genuinely the only ask in this mail: what is the Group's path for onboarding a documented third-party component supplier?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If it is a conversation worth having, I will gladly follow your process. If not, one line and I close the loop politely.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
