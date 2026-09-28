@@ -229,7 +229,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L653"
+        "locator": "L658"
       }
     ]
   },
@@ -383,7 +383,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L829"
+        "locator": "L834"
       }
     ]
   },
@@ -529,7 +529,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L697"
+        "locator": "L702"
       }
     ]
   },
@@ -595,7 +595,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L827"
+        "locator": "L832"
       }
     ]
   },
@@ -1097,7 +1097,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L652"
+        "locator": "L657"
       }
     ]
   },
@@ -1823,7 +1823,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L790"
+        "locator": "L795"
       }
     ]
   },
@@ -2365,7 +2365,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L696"
+        "locator": "L701"
       }
     ]
   },
@@ -2623,7 +2623,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L750"
+        "locator": "L755"
       }
     ]
   },
@@ -4099,7 +4099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L748"
+        "locator": "L753"
       }
     ]
   },
@@ -4533,7 +4533,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1161"
+        "locator": "L1166"
       }
     ]
   },
@@ -4543,7 +4543,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1161"
+        "locator": "L1166"
       }
     ]
   },
@@ -5007,7 +5007,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L693"
+        "locator": "L698"
       }
     ]
   },
@@ -5349,7 +5349,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L616"
+        "locator": "L621"
       }
     ]
   },
@@ -5530,6 +5530,42 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-944/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gta.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L222"
+      },
+      {
+        "path": "profile/A/A-023-George Tatsis - GTA-希腊.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://gta.gr/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L226"
+      },
+      {
+        "path": "profile/A/A-023-George Tatsis - GTA-希腊.md",
+        "locator": "L89"
       }
     ]
   },
@@ -5862,6 +5898,40 @@
     ]
   },
   {
+    "url": "https://ime.com.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L334"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L340"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L346"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L378"
+      },
+      {
+        "path": "profile/A/A-025-Katsariotis Dimitrios - IME-希腊.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-025-Katsariotis Dimitrios - IME-希腊.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-025-Katsariotis Dimitrios - IME-希腊.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://inducio-services.net/en/impressum",
     "http_checked": false,
     "occurrences": [
@@ -5975,7 +6045,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L832"
+        "locator": "L837"
       }
     ]
   },
@@ -6179,7 +6249,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L619"
+        "locator": "L624"
       }
     ]
   },
@@ -6413,7 +6483,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L619"
+        "locator": "L624"
       }
     ]
   },
@@ -7780,6 +7850,48 @@
     ]
   },
   {
+    "url": "https://mbn-glasfaser.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L480"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L486"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L492"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L498"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L530"
+      },
+      {
+        "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://meretei.hu/",
     "http_checked": false,
     "occurrences": [
@@ -7804,6 +7916,40 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第21批.json",
         "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik-training.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L936"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L942"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L948"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L980"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-033-Alejandro Pablo Falà - MikroTik Training Italia-意大利.md",
+        "locator": "L97"
       }
     ]
   },
@@ -7839,7 +7985,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L792"
+        "locator": "L797"
       }
     ]
   },
@@ -8004,6 +8150,22 @@
         "locator": "L1353"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1289"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1327"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1445"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1485"
+      },
+      {
         "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
         "locator": "L87"
       },
@@ -8053,6 +8215,14 @@
       },
       {
         "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
         "locator": "L93"
       }
     ]
@@ -13038,6 +13208,48 @@
     ]
   },
   {
+    "url": "https://mikrotiktraining.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L123"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L155"
+      },
+      {
+        "path": "profile/A/A-022-Eleftherios Liodakis - MikroTik Training Greece-希腊.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-022-Eleftherios Liodakis - MikroTik Training Greece-希腊.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-022-Eleftherios Liodakis - MikroTik Training Greece-希腊.md",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-022-Eleftherios Liodakis - MikroTik Training Greece-希腊.md",
+        "locator": "L104"
+      }
+    ]
+  },
+  {
     "url": "https://millbeck.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -13769,7 +13981,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L789"
+        "locator": "L794"
       }
     ]
   },
@@ -14089,7 +14301,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L700"
+        "locator": "L705"
       }
     ]
   },
@@ -14526,6 +14738,24 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第26批.json",
         "locator": "L183"
+      }
+    ]
+  },
+  {
+    "url": "https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1433"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1477"
+      },
+      {
+        "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
+        "locator": "L87"
       }
     ]
   },
@@ -15249,7 +15479,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L695"
+        "locator": "L700"
       }
     ]
   },
@@ -16860,6 +17090,48 @@
     ]
   },
   {
+    "url": "https://skytron.business/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L559"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L565"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L571"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L577"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L609"
+      },
+      {
+        "path": "profile/A/A-028-Holger Witt - SKYTRON Communications GmbH & Co. KG-德国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-028-Holger Witt - SKYTRON Communications GmbH & Co. KG-德国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-028-Holger Witt - SKYTRON Communications GmbH & Co. KG-德国.md",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-028-Holger Witt - SKYTRON Communications GmbH & Co. KG-德国.md",
+        "locator": "L104"
+      }
+    ]
+  },
+  {
     "url": "https://smart-network.ge/",
     "http_checked": false,
     "occurrences": [
@@ -17348,6 +17620,40 @@
     ]
   },
   {
+    "url": "https://systemcon.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-021-Charalampos Marinakis - SystemCon-希腊.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-021-Charalampos Marinakis - SystemCon-希腊.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-021-Charalampos Marinakis - SystemCon-希腊.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
     "url": "https://t.me/s/corsimikrotik?before=116",
     "http_checked": false,
     "occurrences": [
@@ -17688,6 +17994,32 @@
     ]
   },
   {
+    "url": "https://tiktrain.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1149"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1155"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1187"
+      },
+      {
+        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-036-Alfredo Giordano - TikTrain-意大利.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
     "url": "https://timeless.fi",
     "http_checked": false,
     "occurrences": [
@@ -18000,6 +18332,24 @@
       {
         "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
         "locator": "L97"
+      }
+    ]
+  },
+  {
+    "url": "https://unistrasi.traspare.com/announcements/235",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1439"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1481"
+      },
+      {
+        "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
+        "locator": "L90"
       }
     ]
   },
@@ -18800,6 +19150,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-887/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.1off.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1009"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1015"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1021"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1053"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
+        "locator": "L97"
       }
     ]
   },
@@ -19698,6 +20082,40 @@
     ]
   },
   {
+    "url": "https://www.aikomtech.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L863"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L869"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L875"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L907"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://www.alarm-as.de",
     "http_checked": false,
     "occurrences": [
@@ -20557,7 +20975,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L620"
+        "locator": "L625"
       }
     ]
   },
@@ -21093,7 +21511,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L698"
+        "locator": "L703"
       }
     ]
   },
@@ -21518,6 +21936,32 @@
     ]
   },
   {
+    "url": "https://www.bitmagic.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1082"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1088"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1120"
+      },
+      {
+        "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://www.bod-networks.com",
     "http_checked": false,
     "occurrences": [
@@ -21867,7 +22311,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L790"
+        "locator": "L795"
       }
     ]
   },
@@ -23193,7 +23637,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L650"
+        "locator": "L655"
       }
     ]
   },
@@ -23806,6 +24250,40 @@
     ]
   },
   {
+    "url": "https://www.decoit.de/en/home_en.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L407"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L413"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L419"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L451"
+      },
+      {
+        "path": "profile/A/A-026-Alexej Sokolow - DECOIT-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-026-Alexej Sokolow - DECOIT-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-026-Alexej Sokolow - DECOIT-德国.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
     "url": "https://www.deinta.com",
     "http_checked": false,
     "occurrences": [
@@ -24069,7 +24547,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L791"
+        "locator": "L796"
       }
     ]
   },
@@ -24361,7 +24839,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L752"
+        "locator": "L757"
       }
     ]
   },
@@ -24662,6 +25140,40 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第13批.json",
         "locator": "L57"
+      }
+    ]
+  },
+  {
+    "url": "https://www.efa.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1360"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1366"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1372"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1404"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-039-Efa Automazione S.p.A-意大利.md",
+        "locator": "L88"
       }
     ]
   },
@@ -25247,7 +25759,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L747"
+        "locator": "L752"
       }
     ]
   },
@@ -26998,6 +27510,48 @@
     ]
   },
   {
+    "url": "https://www.hellascom.gr/el",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L255"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L261"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L267"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L273"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L305"
+      },
+      {
+        "path": "profile/A/A-024-HellasCom L.t.d-希腊.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-024-HellasCom L.t.d-希腊.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-024-HellasCom L.t.d-希腊.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-024-HellasCom L.t.d-希腊.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://www.hellasdigital.gr/",
     "http_checked": false,
     "occurrences": [
@@ -27763,7 +28317,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L753"
+        "locator": "L758"
       }
     ]
   },
@@ -27959,7 +28513,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L648"
+        "locator": "L653"
       }
     ]
   },
@@ -28467,7 +29021,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L828"
+        "locator": "L833"
       }
     ]
   },
@@ -28683,7 +29237,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L649"
+        "locator": "L654"
       }
     ]
   },
@@ -28994,6 +29548,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-997/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.kehrlein.de/en/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L638"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L644"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L650"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L682"
+      },
+      {
+        "path": "profile/A/A-029-Kehrlein（MikroTik 认证顾问）-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-029-Kehrlein（MikroTik 认证顾问）-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-029-Kehrlein（MikroTik 认证顾问）-德国.md",
+        "locator": "L92"
       }
     ]
   },
@@ -30138,6 +30726,70 @@
     ]
   },
   {
+    "url": "https://www.linux-schmie.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L755"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linux-schmie.de/posts/mikrotik-kurse-2027/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L711"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L759"
+      },
+      {
+        "path": "profile/A/A-030-Michael Gisbers - Linux-Schmie.de-德国.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linux-schmie.de/posts/mikrotik-routeros-mikrotrick/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L767"
+      },
+      {
+        "path": "profile/A/A-030-Michael Gisbers - Linux-Schmie.de-德国.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linux-schmie.de/posts/mug/mikrotik_user_group_oberhausen_2026-10-13/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L717"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L763"
+      },
+      {
+        "path": "profile/A/A-030-Michael Gisbers - Linux-Schmie.de-德国.md",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
     "url": "https://www.lo0.es",
     "http_checked": false,
     "occurrences": [
@@ -30683,7 +31335,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L749"
+        "locator": "L754"
       }
     ]
   },
@@ -31245,7 +31897,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L791"
+        "locator": "L796"
       }
     ]
   },
@@ -31521,7 +32173,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L754"
+        "locator": "L759"
       }
     ]
   },
@@ -31587,7 +32239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L620"
+        "locator": "L625"
       }
     ]
   },
@@ -32474,6 +33126,40 @@
     ]
   },
   {
+    "url": "https://www.netify.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1216"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1222"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1228"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1260"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-037-Cristian Delogu - Netify-意大利.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
     "url": "https://www.netxl.com/",
     "http_checked": false,
     "occurrences": [
@@ -32709,7 +33395,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L701"
+        "locator": "L706"
       }
     ]
   },
@@ -33165,7 +33851,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L751"
+        "locator": "L756"
       }
     ]
   },
@@ -33877,7 +34563,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L831"
+        "locator": "L836"
       }
     ]
   },
@@ -33961,7 +34647,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L699"
+        "locator": "L704"
       }
     ]
   },
@@ -36811,7 +37497,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L694"
+        "locator": "L699"
       }
     ]
   },
@@ -37218,6 +37904,32 @@
     ]
   },
   {
+    "url": "https://www.varia-store.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L796"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L802"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L834"
+      },
+      {
+        "path": "profile/A/A-031-VARIA System GmbH-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-031-VARIA System GmbH-德国.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.varia.org",
     "http_checked": false,
     "occurrences": [
@@ -37331,7 +38043,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L830"
+        "locator": "L835"
       }
     ]
   },
@@ -37671,7 +38383,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L651"
+        "locator": "L656"
       }
     ]
   },
@@ -38766,6 +39478,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-821/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/dtoffoletto",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1295"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
+        "locator": "L1331"
+      },
+      {
+        "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
+        "locator": "L96"
       }
     ]
   },

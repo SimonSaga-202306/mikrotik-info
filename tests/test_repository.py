@@ -316,7 +316,7 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(len(first), 49)
         self.assertEqual([p.name[:5] for p in first], [f'A-{n:03}' for n in range(1, 50)])
         editable = {'A-044', 'A-046'}
-        r54 = {f'A-{n:03}' for n in range(1, 21)}
+        r54 = {f'A-{n:03}' for n in range(1, 41)}
         mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
         renumber = {'## 九、注意点': '## 六、注意点',
                     '## 十、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
@@ -375,31 +375,36 @@ class RepositoryTests(unittest.TestCase):
     def test_r54_enrichment_matches_dossiers(self):
         # 2026-09-28 R54：A 类逐户加厚 = 10 个维度 + 原文证据摘录 + 恰好 3 步跟进计划。
         # 数据源 batch/A类加厚_*.json 是唯一事实源；profile/ 由 make_profiles.py 渲染，不许手改。
-        data = json.loads((ROOT / 'batch/A类加厚_2026-09-28_R54_第1批.json').read_text(encoding='utf-8'))
-        self.assertEqual(data['batch'], 1)
-        self.assertEqual([r['code'] for r in data['records']], [f'A-{n:03}' for n in range(1, 21)])
-        for rec in data['records']:
-            self.assertEqual([s['step'] for s in rec['followup_plan']], [1, 2, 3], rec['code'])
-            self.assertTrue(len(rec['dimensions']) >= 8, rec['code'])
-            self.assertTrue(rec['facts'] and rec['sources'], rec['code'])
-            for f in rec['facts']:
-                self.assertIn(f['url'], [s[1] for s in rec['sources']], (rec['code'], f['url']))
-            p = next((ROOT / 'profile/A').glob(rec['code'] + '-*.md'))
-            text = p.read_text(encoding='utf-8')
-            for head in ('## 六、深度加厚（R54 逐户调研）', '## 七、原文证据摘录（R54）',
-                         '## 八、3 步跟进计划（R54，**最多 3 次**）'):
-                self.assertIn(head, text, rec['code'])
-            self.assertEqual(text.count('### 第 '), 3, rec['code'])
-            self.assertEqual([ln for ln in text.splitlines() if ln.startswith('### 第 ')],
-                             [f'### 第 {n} 次跟进 · ' + next(
-                                 s for s in rec['followup_plan'] if s['step'] == n)['stage'].split('·', 1)[-1].strip()
-                              for n in (1, 2, 3)], rec['code'])
-            for f in rec['facts']:
-                self.assertIn(f['quote'].splitlines()[0][:40], text, rec['code'])
-                self.assertIn(f['url'], text, rec['code'])
-            for st in rec['followup_plan']:
-                for field in ('product', 'angle', 'question', 'proof'):
-                    self.assertIn(st[field], text, (rec['code'], field))
+        batches = {1: range(1, 21), 2: range(21, 41)}
+        for batch, codes in batches.items():
+            data = json.loads((ROOT / f'batch/A类加厚_2026-09-28_R54_第{batch}批.json').read_text(encoding='utf-8'))
+            self.assertEqual(data['batch'], batch)
+            self.assertEqual([r['code'] for r in data['records']], [f'A-{n:03}' for n in codes])
+            for rec in data['records']:
+                self._assert_r54_record(rec)
+
+    def _assert_r54_record(self, rec):
+        self.assertEqual([s['step'] for s in rec['followup_plan']], [1, 2, 3], rec['code'])
+        self.assertTrue(len(rec['dimensions']) >= 8, rec['code'])
+        self.assertTrue(rec['facts'] and rec['sources'], rec['code'])
+        for f in rec['facts']:
+            self.assertIn(f['url'], [s[1] for s in rec['sources']], (rec['code'], f['url']))
+        p = next((ROOT / 'profile/A').glob(rec['code'] + '-*.md'))
+        text = p.read_text(encoding='utf-8')
+        for head in ('## 六、深度加厚（R54 逐户调研）', '## 七、原文证据摘录（R54）',
+                     '## 八、3 步跟进计划（R54，**最多 3 次**）'):
+            self.assertIn(head, text, rec['code'])
+        self.assertEqual(text.count('### 第 '), 3, rec['code'])
+        self.assertEqual([ln for ln in text.splitlines() if ln.startswith('### 第 ')],
+                         [f'### 第 {n} 次跟进 · ' + next(
+                             s for s in rec['followup_plan'] if s['step'] == n)['stage'].split('·', 1)[-1].strip()
+                          for n in (1, 2, 3)], rec['code'])
+        for f in rec['facts']:
+            self.assertIn(f['quote'].splitlines()[0][:40], text, rec['code'])
+            self.assertIn(f['url'], text, rec['code'])
+        for st in rec['followup_plan']:
+            for field in ('product', 'angle', 'question', 'proof'):
+                self.assertIn(st[field], text, (rec['code'], field))
 
     def test_dossier_identity_and_c_subdivision(self):
         files = list((ROOT / 'profile').glob('[ABC]/*.md'))

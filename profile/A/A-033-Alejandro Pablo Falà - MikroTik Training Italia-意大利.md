@@ -67,7 +67,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第2批.json`。
+
+- **业务定位**：意大利官方 MikroTik 培训机构（mikrotik-training.it，讲师 Alejandro Pablo Falà）：线下认证课 + Udemy 意语在线课（MTCNA/MTCRE），并为 WISP/ISP 做顾问服务。
+- **产品线与在售品牌**：纯 MikroTik 生态（8 项认证徽标：MTCNA…MTCSE）；顾问服务覆盖 RIPE 资源申请、OSPF/MPLS/VPLS/BGP 实施。
+- **目标行业与场景**：意大利 WISP/ISP 与网络工程师培训；课程排期跑多城（Lamezia Terme、Cagliari 等），同时做运营商网络咨询。
+- **团队与规模**：个人讲师/顾问团队（LinkedIn 为本人），决策链 = 本人；可全球接单（西/意双语）。
+- **决策链与对接人**：info@mikrotik-training.it；手机 +39 375 526 6786（另有 +39 380 741 9844，可 WhatsApp）。
+- **技术与认证**：MikroTik 认证顾问/讲师（MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE 等）；站点挂 MikroTik Certified Training Partner 徽标。
+- **采购与供应链信号**：培训实验设备需求（多台可反复刷配置的交换机）+ 顾问项目设备清单；课程合作机构（如 Lamezia/Cagliari 场地合作方）也会带设备需求。
+- **近期动态与线索**：2026–2027 排期：MTCNA Lamezia Terme 10/26–28、MTCRE Lamezia 2027/1/18–20、MTCRE Cagliari 2027/2/17–19；Udemy 长期在线课。
+- **与我方契合点**：课程里的交换实验（VLAN/PoE/环网）+ 他的 ISP 顾问项目（OSPF/MPLS/VPLS/BGP 环境下的接入层）都能吃我们的管理型与工业款。
+- **风险与注意**：以「课程能多讲什么」切入而不是返点；南意/岛屿现场课交通成本高，样品要轻便耐用。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【近期动态与线索】**2026–2027 课程排期（多城）。
+  > Prossimi Corsi：Corso MikroTik MTCNA Lamezia Terme（Ottobre 26-28）；Corso MikroTik MTCRE – Lamezia Terme（Gennaio 18-20, 2027）；Corso MikroTik MTCRE – Cagliari（Febbraio 17-19, 2027）
+  > 来源：https://mikrotik-training.it/
+- **【业务定位】**顾问服务明确面向 Service Provider（RIPE 与 OSPF/MPLS/VPLS/BGP）。
+  > Consulenza e Servizi per Service Providers：RIPE — Gestione pratiche Ripe per ottenimento risorse quali IPv4, IPv6 e AS number；Ospf Mpls Vpls Bgp — Implementazione Ospf Mpls Vpls Bgp
+  > 来源：https://mikrotik-training.it/
+- **【产品线与在售品牌】**官方培训定位与 8 项认证覆盖（含在线课）。
+  > Corsi di formazione ufficiali MikroTik；Certificazioni MikroTik：MTCNA｜MTCRE｜MTCINE｜MTCTCE｜MTCUME｜MTCWE｜MTCIPv6E｜MTCSE；(corsi on-line su Udemy)
+  > 来源：https://mikrotik-training.it/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：课程实验台：一台设备演示 VLAN、PoE 预算、端口隔离；请他把实验清单里加一页「非 MikroTik 交换机怎么配」的对比内容。
+- **要问的问题**：他的交换实验现在用什么设备、缺哪些演示点？
+- **随附证明**：实验手册草案 + 成本价实验机 + 可公开实测数据。
+
+### 第 2 次跟进 · 工业级非管理 PoE（ISP 现场课）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：南意与岛屿 ISP 站点现场：宽温 DIN、免配置；可在 ISP 客户现场课做「现场盒」演示。
+- **要问的问题**：他的 ISP 顾问项目里有没有室外/电箱点位？
+- **随附证明**：宽温报告 + 便携方案 + 样机。
+
+### 第 3 次跟进 · 管理型 PoE（ISP 接入层 + 课程）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：他给 ISP 做 OSPF/MPLS/VPLS/BGP：接入层用我们的管理型（VLAN/QinQ/ERPS），课程里也能讲「接入层与核心的配合」。
+- **要问的问题**：他顾问的 ISP 项目里，接入层交换机选型谁定？
+- **随附证明**：VLAN/QinQ 模板 + ERPS 实测 + MIB 清单。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -78,7 +132,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -103,7 +157,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

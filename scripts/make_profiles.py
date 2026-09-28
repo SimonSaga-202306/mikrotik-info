@@ -113,6 +113,7 @@ FILLED_RE = re.compile(r'^\|\s*\d{4}-\d{2}-\d{2}\s*\|', re.M)
 # 「CSV + 加厚 JSON」重新生成，手工改 profile/ 的下场是下次重建被覆盖。
 ENRICH_FILES = [
     "batch/A类加厚_2026-09-28_R54_第1批.json",
+    "batch/A类加厚_2026-09-28_R54_第2批.json",
 ]
 CN = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
 
@@ -127,6 +128,7 @@ def load_enrichment():
             if len(rec.get("followup_plan", [])) != 3:
                 raise SystemExit("❌ %s：%s 的跟进计划不是 3 步（用户要求最多 3 次）"
                                  % (rel, rec.get("code")))
+            rec["_file"] = rel
             out[rec["code"]] = rec
     return out
 
@@ -371,7 +373,7 @@ def main():
             w("## 六、深度加厚（R54 逐户调研）")
             w("")
             w("> 调研日期 **%s**；来源为客户官网/公开页面抓取，原文摘录见下一节，"
-              "原始记录：`%s`。" % (rec.get("researched_on", "—"), ENRICH_FILES[0]))
+              "原始记录：`%s`。" % (rec.get("researched_on", "—"), rec.get("_file", ENRICH_FILES[0])))
             w("")
             for dim, text in rec["dimensions"].items():
                 w("- **%s**：%s" % (dim, text))

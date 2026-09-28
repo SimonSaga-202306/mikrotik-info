@@ -65,7 +65,61 @@
 
 他会拿 Cisco / 锐捷的功能逐条对表，缺一项就被记在小本子上；文档、MIB、CLI 手册必须一次给全；含糊其辞会立刻失去这类技术型客户的信任
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第2批.json`。
+
+- **业务定位**：不来梅的 IT 咨询/系统集成与软件公司（2001 年起），专做客户 IT 基础设施的优化与开源方案，并参与国家级/国际研究项目。
+- **产品线与在售品牌**：**明确「厂商中立」**：不与软件授权销量绑定，但以产品组合形式合作（网络/服务器/备份/虚拟化/身份管理：oVirt、KVM、UCS、Red Hat、OpenLDAP、Active Directory；安全：pfSense、OpenVPN、IPsec NCP；监控：Icinga/Nagios/Cacti/Munin；VoIP：Asterisk、Kamailio）。
+- **目标行业与场景**：科研/公共机构（Fraunhofer SIT/FOKUS、Uni Siegen、HSH、Infineon、devolo、isBremen 等研究合作伙伴）+ 企业 IT 基础设施。
+- **团队与规模**：中小型技术公司（研究项目 + 服务团队），决策链短，技术负责人即决策人。
+- **决策链与对接人**：Alexej Sokolow（sokolow@decoit.de；+49 421 5960640），持 **MTCSWE**（交换认证）。
+- **技术与认证**：MTCNA+MTCRE+MTCSWE；官网简历强调 2001 年起优化客户 IT 基础设施。
+- **采购与供应链信号**：厂商中立 = 只按技术标准与 TCO 选型，没有品牌忠诚包袱；开源栈出身 → 看重 CLI/SNMP/可脚本化与文档。
+- **近期动态与线索**：官网（德语/英语双语）持续更新研究项目与产品组合；研究合作方列表 15+ 家机构。
+- **与我方契合点**：MTCSWE + 开源栈：可以直接谈 VLAN/ERPS/MIB/自动化；监控栈（Icinga/Cacti）说明他们吃 SNMP 数据，我们的 MIB 支持是卖点。
+- **风险与注意**：厂商中立意味着必须用「可验证指标 + 完整文档」过他的评审；别谈品牌溢价，谈可替换性与备件。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【产品线与在售品牌】**官网明确厂商中立原则（不为销量绑定品牌）。
+  > In order to stay vendor-neutral we do not engage in contracts that oblige us to sell a certain amount of software licences. But we do cooperate with vendors by offering their products as part of our product portfolio.
+  > 来源：https://www.decoit.de/en/home_en.html
+- **【业务定位】**自 2001 年起做客户 IT 基础设施，并参与研究项目。
+  > Since 2001 we attend and optimize customer IT infrastructures. Our solutions always adjust to our customers' IT infrastructure and individual processes. Additionally, we have been active in several different IT research projects, both national and international ones.
+  > 来源：https://www.decoit.de/en/home_en.html
+- **【技术与认证】**产品组合覆盖监控/身份/虚拟化/安全/VoIP 全套开源栈（利于 SNMP/脚本化对话）。
+  > Network/server, back-up, virtualization, identity & infrastructure mgmt.（Sansymphony/Symantec/oVirt/KVM/UCS/RedHat/OpenLDAP/AD）；IT security（pfSense/OpenVPN/IPsec NCP）；Monitoring: Icinga｜Nagios｜Cacti｜Munin｜InterMapper；VoIP: Asterisk｜Kamailio｜Cisco｜Snom
+  > 来源：https://www.decoit.de/en/home_en.html
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：以「可验证指标」开场：给他整机功率曲线、逐口数据、SNMP/MIB 清单与 CLI 文档，让他用自己的方式验（他持 MTCSWE）。
+- **要问的问题**：他评估接入层交换机时，哪些指标是硬门槛（时延/功率/管理面）？
+- **随附证明**：完整规格 + MIB/CLI 文档 + 一台可自测的样机。
+
+### 第 2 次跟进 · 工业级非管理 PoE（机房外/研究现场）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：研究机构与工业客户的现场点位：宽温、DIN、免配置，减少他的运维面。
+- **要问的问题**：他的客户里有没有非机房安装的网络点位？
+- **随附证明**：宽温报告 + 免维护设计说明（无风扇/宽压）+ 样品价。
+
+### 第 3 次跟进 · 管理型 PoE（自动化/监控集成）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：他有 Icinga/Cacti/Munin 监控栈：把我们的交换机接进他的监控模板 + 批量配置脚本，做「可脚本化的标准化接入层」。
+- **要问的问题**：愿不愿意把他的监控模板接到我们设备上做一次联调？
+- **随附证明**：MIB 文件 + Icinga/Cacti 模板示例 + 批量配置脚本。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -76,7 +130,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Switching question for an MTCSWE holder
 
@@ -101,7 +155,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
