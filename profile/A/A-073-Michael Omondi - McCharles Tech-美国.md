@@ -13,7 +13,7 @@ business_model: 工程/集成项目制
 decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
-needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
+needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: true}
 p1: STC-28DGGPM
 stage: 00-researched
 struct_version: v2  # v2 骨架
@@ -25,8 +25,8 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
-- **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — McCharles 多厂牌学院（UniFi+MikroTik 课）：课程教具诚实比较样本；师者红线（$99 锚点一致）；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
@@ -53,9 +53,10 @@ updated: 2026-09-28
 
 ## 需求与场景（推断标签）
 
-- **推断需求面**：PoE 接入供电、L2+ 交换管理（VLAN/ERPS/QinQ）
+- **推断需求面**：PoE 接入供电、L2+ 交换管理（VLAN/ERPS/QinQ）、教学教具
   - PoE 接入供电：【推断】依据 CSV 信号/深挖
   - L2+ 交换管理（VLAN/ERPS/QinQ）：【推断】依据 CSV 信号/深挖
+  - 教学教具：【推断】依据 CSV 信号/深挖
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
@@ -129,11 +130,33 @@ updated: 2026-09-28
   > L2 的 VLAN 与 L3 的 VRF、从二层扁平桥接网迁移到三层分段网、网络准入控制与设备加固、.1X 与 RADIUS…（CSV 备注）
   > 来源：https://mikrotik.com/consultants
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第8批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：多厂牌学院（UniFi+MikroTik 课全美在售）；带走硬件促销
+- **②芯片/型号**：UniFi/MikroTik 教具
+- **③KP 深挖**：Omondi 十证；support@
+- **④Saga 对标**：教具小黑 BEPS 比较样本（红线）
+- **⑤在乎与偏好**：诚实课评
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“join us for UniFi training in New York... and Los Angeles... Keep student lab hardware after the class when you bundle all three courses”
+  > “join us for UniFi training in New York... and Los Angeles... Keep student lab hardware after the class when you bundle all three courses”
+  > 来源：https://mccharlestech.net/
+- **【产品线】**“Unifi: UFSP $1,795/URSCA/UWA…Mikrotik: MTCNA + MTCRE $1,175 全美多城”
+  > “Unifi: UFSP $1,795/URSCA/UWA…Mikrotik: MTCNA + MTCRE $1,175 全美多城”
+  > 来源：https://mccharlestech.net/
+- **【联系方式】**support@mccharlestech.com (833) 622-4275；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > support@mccharlestech.com (833) 622-4275；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://mccharlestech.net/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | McCharles 多厂牌学院（UniFi+MikroTik 课）：课程教具诚实比较样本；师者红线（$99 锚点一致） |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -142,10 +165,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：吞吐
+- **W**：审慎
+- **O**：双箱位
+- **T**：官配
 
 ## 触达与风险红线
 
@@ -179,21 +202,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Michael,
 
-I came across McCharles Tech - 集成商/顾问（MikroTik 认证）.
+McCharles runs an unusually honest catalog - UniFi and MikroTik courses side by side, and students sometimes walk home with lab hardware. That is the right way to teach.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a compact 8-port managed PoE switch that could serve as a fair second-vendor sample in your switching labs (STP/VLAN/watchdog, honestly labeled). Reference: $99 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: what switch hardware do students work on in your switching labs today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send a bench unit for the class to test - plainly, no strings. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

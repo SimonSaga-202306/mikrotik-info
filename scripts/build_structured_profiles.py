@@ -194,6 +194,20 @@ OVERRIDE = {
  'A-069': {'p1': 'STC-28DGGPM', 'p1_reason': 'Millie Evolution 英五证个人站裸目录：WhatsApp 破冰薄档如实（$99 锚点一致）'},
  'A-070': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
            'p1_reason': 'Hecnys Ignition 官认 SCADA 集成：边缘/现场段温宽 PoE（$74.8 锚点一致）；发电/油气/港口边界守'},
+ # ── R56 批 8（A-071..A-080 深挖 2026-09-28）──
+ 'A-071': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Straznet 瑞南部 SMB 托管+SaaS 转轨：SMB 机柜 24 口 PoE 随单（$165 锚点一致）'},
+ 'A-072': {'p1': 'STC-28DGGPM', 'p1_reason': 'Ocampo 美 7 证 Hotmail 个人：破冰薄档如实（$99 锚点一致）'},
+ 'A-073': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'McCharles 多厂牌学院（UniFi+MikroTik 课）：课程教具诚实比较样本；师者红线（$99 锚点一致）'},
+ 'A-074': {'p1': 'STC-28DGGPM', 'p1_reason': 'Shore 英双证个人 CV 页：WhatsApp 破冰薄档如实（$99 锚点一致）'},
+ 'A-075': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'MyNetworkTraining 在线平台 7 万学员：视频课诚实第二厂牌样本；师者红线+平台中立不付背书（$99 锚点一致）'},
+ 'A-076': {'p1': 'STC-28DGGPM', 'p1_reason': 'Ziółkowski 波双证个站 500 休眠：邮件直连薄档如实（$99 锚点一致）'},
+ 'A-077': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'JA Shomer 克利夫兰老分销（Red Lion/HMS/Fieldbus）：温宽 PoE 补件（$74.8 锚点一致）'},
+ 'A-078': {'p1': 'STC-28DGGPM', 'p1_reason': 'Bejarano 西 MTCINE 个人：WhatsApp 破冰薄档如实（$99 锚点一致）'},
+ 'A-079': {'p1': 'STC-28DGGPM', 'p1_reason': 'Fuentes 西三证个人：WhatsApp 破冰薄档如实（$99 锚点一致）'},
+ 'A-080': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Cárdenas 与 A-066 同人互注：商务统一走 A-066，不重复触达（档案互注留档）'},
 }
 
 out = {}

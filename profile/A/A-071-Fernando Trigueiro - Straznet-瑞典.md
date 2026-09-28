@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-28DGGPM
+p1: STC-424DGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Straznet 瑞南部 SMB 托管+SaaS 转轨：SMB 机柜 24 口 PoE 随单（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -74,7 +74,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（外包客户现场接入）
 
@@ -128,23 +128,45 @@ updated: 2026-09-28
   > Kabelgatan 5, 434 37, Kungsbacka · 0300-30 780 · info@straznet.se · 2026-08-07 — AI för företag – tre nivåer i praktiken（博客）
   > 来源：https://straznet.se/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第8批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：25 年 SMB 托管；2026-06 转 SaaS 公司
+- **②芯片/型号**：MikroTik 合作在册
+- **③KP 深挖**：Trigueiro+info@
+- **④Saga 对标**：SMB 机柜 24 口
+- **⑤在乎与偏好**：叽实文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Extern IT-avdelning…Nätverk…IT-säkerhet…partners Microsoft, Bitdefender, Synology, MikroTik”
+  > “Extern IT-avdelning…Nätverk…IT-säkerhet…partners Microsoft, Bitdefender, Synology, MikroTik”
+  > 来源：https://straznet.se/
+- **【近期动态】**“Straznet lanserar NextCloud och EuroOffice…ett fullfjädrat SaaS-företag”（2026-06-18）
+  > “Straznet lanserar NextCloud och EuroOffice…ett fullfjädrat SaaS-företag”（2026-06-18）
+  > 来源：https://straznet.se/straznet-lanserar-nextcloud-och-eurooffice/
+- **【联系方式】**info@straznet.se 0300-30 780；MX 自托管（MX/DNS 级核验：域存活=邮件可投递到域）
+  > info@straznet.se 0300-30 780；MX 自托管（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://straznet.se/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Straznet 瑞南部 SMB 托管+SaaS 转轨：SMB 机柜 24 口 PoE 随单（$165 锚点一致） |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：粘性
+- **W**：价敏
+- **O**：机房
+- **T**：大厂
 
 ## 触达与风险红线
 
@@ -178,21 +200,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Fernando,
 
-I came across Straznet - 集成商/顾问（MikroTik 认证）.
+An external-IT partner that just turned its cloud offering into a full SaaS stack knows what sits in a customer cabinet.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) sized for exactly those SMB cabinets. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your SMB network jobs, who supplies the access switching layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
