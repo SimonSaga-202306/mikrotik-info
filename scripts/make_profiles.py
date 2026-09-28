@@ -5,7 +5,7 @@ Each dossier carries the grade, what the company is, the people and
 their direct lines, the brands in play, the follow-up play, the risks,
 and an empty log that gets filled in as outreach happens.
 """
-import csv, os, re, sys
+import csv, json, os, re, sys
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -107,6 +107,31 @@ def phones(text):
 
 
 FILLED_RE = re.compile(r'^\|\s*\d{4}-\d{2}-\d{2}\s*\|', re.M)
+
+# ── R54：A 类档案加厚（逐户深度调研 + 原文证据 + 3 步跟进计划）────────────
+# 数据只放在 batch/*.json 里，本脚本负责渲染 → dossier 永远可由
+# 「CSV + 加厚 JSON」重新生成，手工改 profile/ 的下场是下次重建被覆盖。
+ENRICH_FILES = [
+    "batch/A类加厚_2026-09-28_R54_第1批.json",
+]
+CN = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
+
+
+def load_enrichment():
+    """{档案编号: 加厚记录}；缺文件就当没有（保持历史输出）。"""
+    out = {}
+    for rel in ENRICH_FILES:
+        if not os.path.exists(rel):
+            continue
+        for rec in json.load(open(rel, encoding="utf-8"))["records"]:
+            if len(rec.get("followup_plan", [])) != 3:
+                raise SystemExit("❌ %s：%s 的跟进计划不是 3 步（用户要求最多 3 次）"
+                                 % (rel, rec.get("code")))
+            out[rec["code"]] = rec
+    return out
+
+
+ENRICH = load_enrichment()
 
 
 def _clear_stale_dossiers():
@@ -338,8 +363,46 @@ def main():
             w("> ① 对方主动询价；② 出现停产替换需求；③ 我方补齐对应认证；④ 你从别处拿到其内部人线索。")
         w("")
 
+        # 5.5 R54 enrichment (A tier only): dimensions + evidence + 3-touch plan
+        sec = 6
+        rec = ENRICH.get(code) if grade == "A" else None
+        if rec:
+            sec = 9
+            w("## 六、深度加厚（R54 逐户调研）")
+            w("")
+            w("> 调研日期 **%s**；来源为客户官网/公开页面抓取，原文摘录见下一节，"
+              "原始记录：`%s`。" % (rec.get("researched_on", "—"), ENRICH_FILES[0]))
+            w("")
+            for dim, text in rec["dimensions"].items():
+                w("- **%s**：%s" % (dim, text))
+            w("")
+            w("## 七、原文证据摘录（R54）")
+            w("")
+            w("> 下列引用为 %s 抓取的页面原文（非我方转述）；点不开或内容变动时，"
+              "以抓取 JSON 中的记录为准。" % rec.get("researched_on", "—"))
+            w("")
+            for f in rec["facts"]:
+                w("- **【%s】**%s" % (f["dim"], f["text"]))
+                w("  > %s" % f["quote"])
+                w("  > 来源：%s" % f["url"])
+            w("")
+            w("## 八、3 步跟进计划（R54，**最多 3 次**）")
+            w("")
+            w("> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；"
+              "**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。")
+            w("")
+            for st in rec["followup_plan"]:
+                stage = re.sub(r'^第[一二三四五六七八九十]+次跟进\s*·\s*', '', st["stage"])
+                w("### 第 %d 次跟进 · %s" % (st["step"], stage))
+                w("")
+                w("- **推什么**：%s" % st["product"])
+                w("- **切入点**：%s" % st["angle"])
+                w("- **要问的问题**：%s" % st["question"])
+                w("- **随附证明**：%s" % st["proof"])
+                w("")
+
         # 6 cautions
-        w("## 六、注意点")
+        w("## %s、注意点" % CN[sec])
         w("")
         w("**通用红线（所有客户适用）**")
         w("")
@@ -359,9 +422,13 @@ def main():
 
         # 7 first-contact email (A tier only — these are the ones being worked now)
         if grade == "A":
+            log_sec = CN[sec + 2]
+        else:
+            log_sec = CN[sec + 1]
+        if grade == "A":
             from emails import build
             subject, body = build(name, person, country, city, key, sku, analysis_note)
-            w("## 七、首触邮件（可直接发送）")
+            w("## %s、首触邮件（可直接发送）" % CN[sec + 1])
             w("")
             w("**主题**：%s" % subject)
             w("")
@@ -374,7 +441,7 @@ def main():
             w("")
 
         # 8 log
-        w("## %s、跟进记录" % ("八" if grade == "A" else "七"))
+        w("## %s、跟进记录" % log_sec)
         w("")
         w("| 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |")
         w("|---|---|---|---|---|")
@@ -400,7 +467,8 @@ def main():
                  "- **A**　重点且好跟进：有明确需求信号 + 具体对接人 + 决策链短",
                  "- **B**　慢慢跟：信号待验证，或交换需求弱",
                  "- **C**　难啃：大公司 / 集团 / 自有品牌 / 竞品 / 区域外", "",
-                 "每份档案含：评级与结论 · 公司概览 · 人员与联系方式 · 品牌与技术栈 · 跟进策略 · 注意点 · 跟进记录（待填）",
+                 "每份档案含：评级与结论 · 公司概览 · 人员与联系方式 · 品牌与技术栈 · 跟进策略 · 注意点 · 跟进记录（待填）；"
+                 "A 级另有 R54 加厚：深度加厚 · 原文证据摘录 · 3 步跟进计划。",
                  "", "---", ""]
     cur = None
     for code, name, country, fname in made:

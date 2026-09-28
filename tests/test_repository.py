@@ -311,18 +311,43 @@ class RepositoryTests(unittest.TestCase):
 
     def test_first_49_dossiers_frozen_except_r49_content(self):
         # 2026-09-28 用户授权：前 49 位内容可编辑，位置/编号仍冻结。
+        # R54 起 A-001–A-020 允许追加「深度加厚 / 原文证据摘录 / 3 步跟进计划」三段（后续小节号顺延）。
         first = sorted(p for p in (ROOT / 'profile/A').glob('A-*.md') if int(p.name[2:5]) <= 49)
         self.assertEqual(len(first), 49)
         self.assertEqual([p.name[:5] for p in first], [f'A-{n:03}' for n in range(1, 50)])
         editable = {'A-044', 'A-046'}
+        r54 = {f'A-{n:03}' for n in range(1, 21)}
         mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
+        renumber = {'## 九、注意点': '## 六、注意点',
+                    '## 十、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
+                    '## 十一、跟进记录': '## 八、跟进记录'}
+
+        def strip_r54(text):
+            """去掉 R54 新增的三段并把后续小节号退回 R49 前的编号。"""
+            out, skip = [], False
+            for line in text.splitlines():
+                if line.startswith('## '):
+                    skip = 'R54' in line
+                    if skip:
+                        continue
+                if not skip:
+                    out.append(renumber.get(line, line))
+            return '\n'.join(out) + '\n'
+
         for p in first:
             base = git_file(p.relative_to(ROOT).as_posix()).decode('utf-8')
             cur = p.read_text(encoding='utf-8')
-            if p.name[:5] not in editable:
+            if p.name[:5] in r54:
+                self.assertIn('R54', cur)
+                self.assertEqual(cur.count('### 第 '), 3, p.name)
+                self.assertNotIn('深度加厚', strip_r54(cur), p.name)
+                comparable = strip_r54(cur)
+            elif p.name[:5] in editable:
+                self.assertIn('R49', cur)
+                comparable = cur
+            else:
                 self.assertEqual(cur, base, p.name)
                 continue
-            self.assertIn('R49', cur)
 
             def blocks(text):
                 out, key = {}, '(head)'
@@ -332,12 +357,12 @@ class RepositoryTests(unittest.TestCase):
                     out[key] = out.get(key, '') + line
                 return out
 
-            b, c = blocks(base), blocks(cur)
+            b, c = blocks(base), blocks(comparable)
             self.assertEqual(list(b), list(c), p.name)
             for key in b:
                 if key in ('## 二、公司概览', '## 三、人员与联系方式'):
                     missing = [ln for ln in b[key].splitlines() if ln.strip()
-                               and ln not in cur and not ln.startswith(mutable_lines)]
+                               and ln not in comparable and not ln.startswith(mutable_lines)]
                     self.assertEqual(missing, [], (p.name, key, missing[:2]))
                 elif key == '## 四、品牌与技术栈':
                     # R49 证据摘录可能引入新品牌名 → 只允许“品牌集合是原集合的超集”。
@@ -346,6 +371,35 @@ class RepositoryTests(unittest.TestCase):
                     self.assertTrue(set(bb) <= set(cb), (p.name, set(bb) - set(cb)))
                 else:
                     self.assertEqual(c[key], b[key], (p.name, key))
+
+    def test_r54_enrichment_matches_dossiers(self):
+        # 2026-09-28 R54：A 类逐户加厚 = 10 个维度 + 原文证据摘录 + 恰好 3 步跟进计划。
+        # 数据源 batch/A类加厚_*.json 是唯一事实源；profile/ 由 make_profiles.py 渲染，不许手改。
+        data = json.loads((ROOT / 'batch/A类加厚_2026-09-28_R54_第1批.json').read_text(encoding='utf-8'))
+        self.assertEqual(data['batch'], 1)
+        self.assertEqual([r['code'] for r in data['records']], [f'A-{n:03}' for n in range(1, 21)])
+        for rec in data['records']:
+            self.assertEqual([s['step'] for s in rec['followup_plan']], [1, 2, 3], rec['code'])
+            self.assertTrue(len(rec['dimensions']) >= 8, rec['code'])
+            self.assertTrue(rec['facts'] and rec['sources'], rec['code'])
+            for f in rec['facts']:
+                self.assertIn(f['url'], [s[1] for s in rec['sources']], (rec['code'], f['url']))
+            p = next((ROOT / 'profile/A').glob(rec['code'] + '-*.md'))
+            text = p.read_text(encoding='utf-8')
+            for head in ('## 六、深度加厚（R54 逐户调研）', '## 七、原文证据摘录（R54）',
+                         '## 八、3 步跟进计划（R54，**最多 3 次**）'):
+                self.assertIn(head, text, rec['code'])
+            self.assertEqual(text.count('### 第 '), 3, rec['code'])
+            self.assertEqual([ln for ln in text.splitlines() if ln.startswith('### 第 ')],
+                             [f'### 第 {n} 次跟进 · ' + next(
+                                 s for s in rec['followup_plan'] if s['step'] == n)['stage'].split('·', 1)[-1].strip()
+                              for n in (1, 2, 3)], rec['code'])
+            for f in rec['facts']:
+                self.assertIn(f['quote'].splitlines()[0][:40], text, rec['code'])
+                self.assertIn(f['url'], text, rec['code'])
+            for st in rec['followup_plan']:
+                for field in ('product', 'angle', 'question', 'proof'):
+                    self.assertIn(st[field], text, (rec['code'], field))
 
     def test_dossier_identity_and_c_subdivision(self):
         files = list((ROOT / 'profile').glob('[ABC]/*.md'))
@@ -1092,9 +1146,9 @@ class RepositoryTests(unittest.TestCase):
     def test_history_is_preserved_and_rounds_explicit(self):
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 54):
+        for n in range(1, 55):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 54)  # 53 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 55)  # 54 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

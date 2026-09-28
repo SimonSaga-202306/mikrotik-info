@@ -63,7 +63,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第1批.json`。
+
+- **业务定位**：塞尔维亚 Ćuprija 的 InterCom Computers（本地 IT/网络公司）工程师兼 MikroTik 培训讲师（公司培训页联系人就是他）；另有硬件维修与 WISP 运维背景。
+- **产品线与在售品牌**：本地 IT 公司（InterCom Computers：Zmaj Jovina 2, 35230 Ćuprija；035/84-77-077；office@intercom.rs；www.intercom.rs）；培训面向 ISP/WISP 管理员、系统工程师与集成商。
+- **目标行业与场景**：本地 ISP/WISP、企业网络；培训业务覆盖有线+无线网络的 RouterOS 管理。
+- **团队与规模**：小型本地公司（门店 + 培训），决策链短。
+- **决策链与对接人**：Goran Stojković（mikrotik@intercom.rs / 培训联系电话 035/8477-077, 063/600-324）；公司：office@intercom.rs。
+- **技术与认证**：MikroTik 认证顾问 MTCNA+MTCTCE；专长含 **RouterBOARD 硬件维修**（懂板级做工）、PtP/PtMP/Mesh、PPPoE、队列与流量整形、QoS、多路径故障切换、高可用、RIP/OSPF/BGP。
+- **采购与供应链信号**：会修板子 → 售后压力小、可接受中性货；本地公司采购按项目，价格与交期敏感。
+- **近期动态与线索**：InterCom 培训页仍在线（含 MikroTik 培训信息与他的联系方式）；本轮未抓取 intercom.rs 主页内容（以培训页证据为准）。
+- **与我方契合点**：他要给 ISP/WISP 学员讲交换：24 口 PoE（接入/监控）+ 工业 PoE（塔站）+ 管理型（冗余/环网）都能进他的课与客户项目。
+- **风险与注意**：市场小、预算有限；但他是本地技术意见领袖，先做「课程可用的样机+材料」。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**InterCom Computers 的 MikroTik 培训页（他本人是培训联系人）。
+  > Predavači: MikroTIK sertifikovani treneri；Kontakt: Telefon za informacije: 035/8477-077, 063/600-324 - Goran Stojković；Email: mikrotik@intercom.rs；InterCom Computers, Zmaj Jovina 2, 35230 Ćuprija … office@intercom.rs；www.intercom.rs
+  > 来源：http://www.intercom.rs/sr/mikrotik-440
+- **【目标行业与场景】**培训对象明确为 ISP/WISP 管理员、系统工程师、集成商。
+  > MikroTik trening nastave je za ISP, WISP administratore, sistem inženjere, integratore, menadžere … upravljanju žičanim i bežičnim mrežama pomoću MikroTik RouterOS
+  > 来源：http://www.intercom.rs/sr/mikrotik-440
+- **【技术与认证】**既有记录：专长含 RouterBOARD 硬件维修与 WISP 运维。
+  > ★ 专长含 RouterBOARD 硬件维修 → 懂板级硬件；另有有线无线网络设计（PtP/PtMP/Mesh）、PPPoE、QoS、多路径故障切换、高可用、RIP/OSPF/BGP、WISP 运维
+  > 来源：https://mikrotik.com/consultants
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：接入层升级：他给 ISP/WISP 与本地企业做网络，24 口 PoE++ 一次解决 AP、摄像头与用户口；强调端口隔离与看门狗（他会修硬件，最懂故障代价）。
+- **要问的问题**：本地客户接入层现在用什么交换机、故障率如何？
+- **随附证明**：功率实测 + 看门狗演示 + 可拆机看的做工说明（他懂板级）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（塔站/室外箱）
+
+- **推什么**：LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）
+- **切入点**：WISP 塔站与室外箱体：宽温宽压、DIN、免配置；他做硬件维修，能直观判断防护与电源设计。
+- **要问的问题**：塔站/室外箱体现在用什么、有没有因为电源/温度坏过？
+- **随附证明**：宽温/宽压报告 + 电路保护说明 + 一台可拆检的样机。
+
+### 第 3 次跟进 · 管理型 PoE（冗余/环网）+ 培训合作
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：他讲课：环网冗余（ERPS）、VLAN、QoS 都是课件内容；把设备放进课堂，客户项目自然跟上。
+- **要问的问题**：他愿不愿意在培训里加入我们的交换机实验？
+- **随附证明**：课堂实验手册 + ERPS 实测 + 成本价实验机。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -74,7 +128,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -99,7 +153,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

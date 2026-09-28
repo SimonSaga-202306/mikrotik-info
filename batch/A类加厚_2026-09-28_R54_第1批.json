@@ -1,0 +1,1505 @@
+{
+ "date": "2026-09-28",
+ "round": "R54",
+ "batch": 1,
+ "scope": "A 类深度加厚 + 3 步跟进计划（第 1 批：A-001–A-020）。每户 10 个维度 + 原文证据摘录 + 恰好 3 步跟进计划（24 口 CCTV/PoE → 工业非管理 PoE → 管理型 PoE，按客户业务调整）。",
+ "method": "fetch_page 抓取客户官网/公开页面（2026-09-28），保留原文摘录与 URL；无官网者用公开可查的第三方/社群页面（LinkedIn、GitHub、行业协会/培训页）并在记录中标注性质；未取得内容的站点如实标注失败原因。",
+ "records": [
+  {
+   "code": "A-001",
+   "name": "Puma Solutions ApS",
+   "country": "丹麦",
+   "city": "",
+   "site": "pumait.dk",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "丹麦 MikroTik 认证顾问 + 自营网店（Puma IT，口号「Teknik der virker. Forretning der virker.」），从方案设计、设备预配置到全国上门安装一条龙。",
+    "产品线与在售品牌": "自营网店两条主线：MikroTik 171 个 SKU（Routers / **Switches** / WiFi / Wireless PtP-PtMP / LTE-5G / 60 GHz）与 UniFi 680 个 SKU（WiFi / **Switching** / Gateways / Protect 视频 / Door Access 门禁）。",
+    "目标行业与场景": "四条打包方案：视频监控（按「像素/米」而不是按摄像头数量设计）、多站点网络（同一套配置、从第一天就分段）、办公+仓储 WiFi（先做站点勘测与信道规划，并**把 PoE 预算算清楚**）、门禁（门、卡、日志与摄像头同一系统）。",
+    "团队与规模": "小团队 + 全国服务/安装伙伴网络；自有库存 3–5 个工作日发货；项目只有「一个对接人」。",
+    "决策链与对接人": "rfi@pumait.dk（对外邮箱）、stefan@pumait.dk（Stefan Andersen，MTCNA+MTCRE，1998 年起做 ISP 网络）、电话 +45 32 33 13 12 / +45 60 70 90 09。",
+    "技术与认证": "丹麦持证 MikroTik 顾问（MTCNA、MTCRE）；强调「永久许可、无强制云、配置是可进 git 的文本文件」。",
+    "采购与供应链信号": "已经同时经营 MikroTik 与 UniFi 两条完整产品线，采购逻辑是「按任务选品牌，即使回报最低」——说明他对第三条补充线（成本/规格补位）是开放的。",
+    "近期动态与线索": "新上「监控存储合规检查（Retention-tjek）」与「30 分钟免费现状评估」两项服务 → 监控与合规项目在增加，摄像头盘位与 PoE 预算都要重算。",
+    "与我方契合点": "他自己的销售话术就是「把 PoE 预算算清楚」「按像素/米设计」——正是 24 口 PoE++（单口 90W、整机预算实测、看门狗）最能说服的对象；同时他做门禁/监控/多站点，全是我们的目标场景。",
+    "风险与注意": "已代理 UniFi + MikroTik 两条线，必须以「补规格/压成本/备第二供应商」身份进入；丹麦对 GDPR/CE/能效文件敏感，材料要备齐。"
+   },
+   "facts": [
+    {
+     "dim": "产品线与在售品牌",
+     "text": "官网首页明列 MikroTik 171 个产品、UniFi 680 个产品，并且两条线都有独立的 Switches/Switching 分类页。",
+     "quote": "MikroTik171 produkter … Routers｜Switches｜WiFi｜Wireless PtP/PtMP｜LTE/5G｜60 GHz；UniFi680 produkter … WiFi｜Switches｜Gateways｜Videoovervågning｜Adgangskontrol",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "监控方案以「像素/米」为设计口径，并把 GDPR 标识与后续运维写进交付内容。",
+     "quote": "Videoovervågning — Dimensioneret på pixels per meter, ikke på antal kameraer. Lokal storage, GDPR-skiltning som del af leverancen, og drift bagefter.",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "与我方契合点",
+     "text": "WiFi 方案承诺在下单前把 PoE 预算算清楚——这是我们最能接话的技术点。",
+     "quote": "WiFi til kontor og lager — Site plan før indkøb: dækning, kanalplan og PoE-budget regnet igennem, så der ikke skal hænges flere access points op bagefter.",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "官网自述为丹麦认证 MikroTik 顾问，且每天自己配置设备。",
+     "quote": "En af Danmarks certificerede MikroTik-konsulenter. Vi konfigurerer udstyret selv til daglig … MTCNA / MTCRE",
+     "url": "https://pumait.dk/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++，4×万兆上行，440W 级）",
+     "angle": "接着他自己的话术走：把他手头一个监控项目的「摄像头数 × 单口瓦数」做成一张 PoE 预算表，用我们的整机功率预算实测数 + PoE 看门狗（摄像头死机自动断电重启）对比 CRS328-24P / UniFi Switch 的余量。",
+     "question": "现在 24 口 PoE 项目里，他按每口多少瓦设计？满配后留多少余量？",
+     "proof": "整机功率实测表（逐口负载曲线）+ 看门狗演示视频 + 30 天测试机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（DIN 导轨/宽温，零配置）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C，PoE 版 / PoE++ 版）",
+     "angle": "他做仓储与门禁，现场经常没有机柜。工业壳 + 宽温 + 宽压 + 免配置，直接装在配电箱或门口弱电箱里；把「非管理」当卖点：插上就用，坏了整机换。",
+     "question": "有没有需要装在现场电箱（无空调、无 UPS）的网络点？",
+     "proof": "宽温/宽压测试报告 + DIN 配件实物照 + 现场接线图（一页）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（跨站点标准化）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）",
+     "angle": "他卖「多站点同一套配置」，那就给他统一的 VLAN/环网（ERPS）模板：同一份配置下发到不同站点，链路故障 20ms 级切换；把配置模板做成他的交付资产。",
+     "question": "跨站点项目要不要环网冗余和统一 VLAN 模板？",
+     "proof": "ERPS 切换实测（打流断链计时）+ 可直接套用的配置模板文件。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://pumait.dk/"
+    ]
+   ],
+   "note": "丹麦持证 MikroTik 顾问+网店（MikroTik 171 SKU / UniFi 680 SKU，含交换机分类），四大方案覆盖监控/多站点/仓储 WiFi/门禁；官网自述按 PoE 预算设计。3 步：24 口 PoE++ 预算话题 → 工业非管理 PoE（现场电箱）→ 管理型 PoE（跨站点模板）。"
+  },
+  {
+   "code": "A-002",
+   "name": "Troels E. Normolle / UNIFOSS",
+   "country": "丹麦",
+   "city": "Lemming",
+   "site": "unifoss.com",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "丹麦中小企业「网络即服务」商：网络+互联网按月出租（375 DKK/月起），另有更新协议（29 DKK/月）与维护协议（49 DKK/月），卖的是「不用操心的稳定运行」。",
+    "产品线与在售品牌": "未公开披露品牌清单；方案以 WiFi/网络为核心，含 Mesh 组网、跨楼组网（bygning til bygning）与高密度容量设计。",
+    "目标行业与场景": "案例三类可作画像：① 20,000 m² 仓储/办公楼（Erhvervshuset Midtjylland，租户数量经常变化）；② 高密度学校（Nørgaards Højskole，流媒体/社媒压力）；③ 老建筑酒店/客栈（Kongensbro Kro，要求不破坏观感、尽量少布线 → 全靠 PoE 接入）。CSV 记录的服务行业还包括农业、能源与电网控制、音乐节、医疗、ISP、零售。",
+    "团队与规模": "小团队（官网团队照与创始人 Troels 出镜）；以服务协议+外包安装为主，规模不大、决策链短。",
+    "决策链与对接人": "Troels E. Normolle（创始人）；troels@unifoss.com；+45 2279 1234。",
+    "技术与认证": "MikroTik 认证顾问（MTCNA+MTCRE，见档案原始记录与官方名录）；方案语言是「容量/覆盖/服务协议」，不是芯片参数。",
+    "采购与供应链信号": "按月出租设备意味着设备是他们的资产：单价、故障率、远程可维护性（能远程重启/恢复）比一次性毛利更重要。",
+    "近期动态与线索": "2026 年继续用案例营销（Erhvervshuset / Nørgaards Højskole / Kongensbro Kro 三个 case study），并在网站强调「先看现有网络能不能升级，不行才整套换新」。",
+    "与我方契合点": "他们做的每一个案例都需要一台多口 PoE 交换机喂 AP：学校（教室 AP）、仓储（大范围覆盖）、酒店（藏在吊顶/柜里的静音供电口）。PoE 看门狗 + 远程重启对我们而言是「减少上门次数」= 直接降低他服务协议的成本。",
+    "风险与注意": "他不卖硬件参数，卖服务；沟通要换算成「少一趟上门 = 多少钱」。另外丹麦市场对能效/电压合规敏感。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "网络按月租：设备+互联网+服务打包，另设更新与维护协议。",
+     "quote": "Internet og WiFi — Lej en komplet netværksløsning – inklusiv internet. Fra 375,- / md.；Opdateringsaftale Fra 29,- / md.；Vedligeholdelsesaftale Fra 49,- / md.",
+     "url": "https://unifoss.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "仓储存量改造案例：2 万 m²、用户数经常变化、要求可扩展。",
+     "quote": "Erhvervshuset Midtjylland udlejer over 20.000 m2 lagerplads … Det eksisterende netværk var aldrende … Et skalerbart system, som kan tilpasses det skiftende antal lejere. Én centralt styret system med mindre administration.",
+     "url": "https://unifoss.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "酒店/客栈场景明确要「少布线、别破坏观感」——PoE 接入是唯一解。",
+     "quote": "Kongensbro Kro … Diskret installation, der skåner den fine, gamle bygning. Moderne MESH teknologi … Minimeret kabeltræk, så man undgår synlige ledninger og bokse.",
+     "url": "https://unifoss.com/"
+    },
+    {
+     "dim": "采购与供应链信号",
+     "text": "先修后换的商业逻辑，说明他对设备生命周期成本敏感。",
+     "quote": "Vi sælger jer ikke noget, I ikke har brug for. Kan jeres nuværende netværk opgraderes og repareres til en god standard, anbefaler vi dét.",
+     "url": "https://unifoss.com/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "按「少一趟上门」算钱：24 口 PoE 喂 AP/摄像头，PoE 看门狗把挂死的设备自动断电重启——他的服务协议里最贵的就是上门。",
+     "question": "他现在的服务协议里，每个月有多少次是因为 AP/摄像头死机要上门的？",
+     "proof": "看门狗实测（断电重启日志）+ 远程重启/批量升级的演示配置。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（现场电箱/室外）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "农业、能源与电网控制、音乐节这些场景设备都装在非机房环境：宽温宽压、DIN 导轨、免配置，配一个小机箱就是一个现场节点。",
+     "question": "有没有装在现场（农机房、配电箱、临时场地）的网络节点？",
+     "proof": "宽温测试报告 + 一页现场接线图 + 样品机。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（多站点统一运维）",
+     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP，管理型）",
+     "angle": "他管的是「一批客户的一堆站点」：统一 VLAN/端口模板 + 环网冗余，让不同客户的站点用同一套模板交付维护。",
+     "question": "多客户/多站点之间，他希不希望用同一套交换机配置模板来运维？",
+     "proof": "配置模板 + 环网切换实测 + 集中管理（SNMP/MIB）清单。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://unifoss.com/"
+    ]
+   ],
+   "note": "丹麦中小企业网络服务商（按月租网络+维护协议）；案例=2 万 m² 仓储、学校高密度 WiFi、老酒店 Mesh；服务行业含农业/电网控制/音乐节/医疗。3 步：24 口 PoE++（减少上门）→ 工业非管理 PoE（现场电箱）→ 管理型 PoE（多站点统一运维）。"
+  },
+  {
+   "code": "A-003",
+   "name": "Andrew Drozd / Iron Sentinel",
+   "country": "乌克兰",
+   "city": "Zhytomyr",
+   "site": "ironsentinel.net",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "乌克兰日托米尔的网络/安防集成商（个人品牌 Iron Sentinel）：局域网、视频监控、报警系统、门禁的设计、安装与维护（既有轮次记录）。",
+    "产品线与在售品牌": "本轮未取得在售品牌清单（官网为占位页）；既有记录显示以 MikroTik 认证顾问身份做方案与集成。",
+    "目标行业与场景": "监控 + 报警 + 门禁 + 局域网 —— 典型的中小企业与园区安防一体化项目。",
+    "团队与规模": "小型集成商/个人主导，决策链就是本人。",
+    "决策链与对接人": "Andrew Drozd；support@ironsentinel.net；+380 63 418 8971。",
+    "技术与认证": "MikroTik 认证顾问：MTCNA + MTCTCE（流量控制）+ MTCINE（互联）+ MTCSE（安全）——偏路由/安全，交换靠外购设备补齐。",
+    "采购与供应链信号": "没有自己的网店，按项目采购；报价与到货速度是他赢单的关键之一。",
+    "近期动态与线索": "ironsentinel.net 本轮实测仍是 Squarespace「Coming Soon」占位页（无任何业务内容）——官网要么未上线、要么已停用。",
+    "与我方契合点": "监控/门禁是他的主营业务，PoE 交换机是每个项目的必需件；乌克兰电网不稳，宽压输入与 PoE 看门狗这种「防死机」特性比参数更好卖。",
+    "风险与注意": "官网未上线 → 首次联系要顺带确认公司仍在运营、以及他现在的项目节奏；战时供应链（交货期）是我们必须正面回答的问题。"
+   },
+   "facts": [
+    {
+     "dim": "近期动态与线索",
+     "text": "官网实测为 Squarespace 占位页，只有域名与背景图，没有任何业务内容。",
+     "quote": "Coming Soon — ironsentinel.net",
+     "url": "https://ironsentinel.net/"
+    },
+    {
+     "dim": "业务定位",
+     "text": "既有记录（CSV/档案）：做局域网、视频监控、报警系统、门禁的设计/安装/维护。",
+     "quote": "做局域网、视频监控、报警系统、门禁的设计/安装/维护 → PoE 交换机是刚需，首推 24 口 PoE",
+     "url": "https://ironsentinel.net/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "直接用他的项目清单说话：24 口 PoE++ 把摄像头/门禁/对讲一次喂满，PoE 看门狗在断电/死机时自动重启设备——乌克兰现场最怕的就是供电波动把摄像头挂死。",
+     "question": "最近一个监控项目有多少路摄像头、单口多少瓦、最远一路多远？",
+     "proof": "整机功率实测 + 看门狗演示 + 宽压输入规格。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（现场电箱/室外）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C，宽压）",
+     "angle": "门禁/报警的控制器常装在门口弱电箱或室外柜：宽温宽压 + DIN + 免配置，停电恢复后自动回到工作状态。",
+     "question": "门禁/报警回路里有没有装在户外或没有空调的配电箱里的点？",
+     "proof": "宽压（双电源）接线图 + 宽温报告 + 一台可现场测试的样机。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（分段与冗余）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他持 MTCSE（安全）——VLAN 隔离（摄像头/门禁/办公分段）+ 环网冗余正好是他讲标书的技术语言。",
+     "question": "他的方案里要不要做摄像头网段与办公网段的物理/VLAN 隔离？",
+     "proof": "VLAN 模板 + ERPS 切换实测 + MIB 清单。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://ironsentinel.net/"
+    ]
+   ],
+   "note": "日托米尔网络/安防集成商（局域网+监控+报警+门禁）；官网为本轮实测的占位页。3 步：24 口 PoE++（供电波动场景）→ 工业非管理 PoE（门禁/报警现场箱）→ 管理型 PoE（VLAN 隔离+冗余）。"
+  },
+  {
+   "code": "A-004",
+   "name": "Vitalii Potravka",
+   "country": "乌克兰",
+   "city": "Kyiv",
+   "site": "",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "基辅的 MikroTik 认证顾问/自由集成商（无公司官网，按项目接单）。",
+    "产品线与在售品牌": "无公开品牌清单；以 RouterOS/RouterBOARD 生态为主。",
+    "目标行业与场景": "既有多轮记录未列出具体行业；其认证结构显示偏交换与基础网络工程。",
+    "团队与规模": "个人/极小型，决策链=本人，采购即报价。",
+    "决策链与对接人": "webvetal.mob@gmail.com；+380 97 931 2131（个人邮箱，乌克兰常用通信习惯是手机/Viber/Telegram）。",
+    "技术与认证": "MikroTik 认证顾问 MTCNA + **MTCSWE（交换工程师）** —— 交换是正式专长，能读 VLAN/STP/链路聚合与转发性能细节。",
+    "采购与供应链信号": "个人顾问按项目购机，价格与到货期决定性；一旦试单成功，复购随项目走。",
+    "近期动态与线索": "本轮未取得新的公开动态（无官网可抓）；建议首次联系时顺带确认他近期的项目类型（校园/ISP/企业）。",
+    "与我方契合点": "MTCSWE 意味着不需要科普：可以直接谈 CLI、MIB、转发实测、L3 硬件卸载，以及 24 口 PoE 与同价位 MikroTik CRS328-24P 的差距。",
+    "风险与注意": "个人客户、单点依赖；个人邮箱下单意味着付款与收货都按个人处理，先小额试单降低他的风险。"
+   },
+   "facts": [
+    {
+     "dim": "技术与认证",
+     "text": "MikroTik 官方顾问名录结构显示其持有 MTCNA + MTCSWE（交换认证）。",
+     "quote": "MTCNA+MTCSWE → 交换机是正式专长（既有轮次记录）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "既有记录：手机 + 个人 Gmail 邮箱，无公司域名。",
+     "quote": "+380 97 931 2131 / webvetal.mob@gmail.com",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "他持 MTCSWE，直接给硬货：24 口 PoE++ 的整机功率预算、逐口曲线、看门狗、VLAN 数量上限——用参数说话，不谈价格。",
+     "question": "他最近手上的项目里，24 口 PoE 的预算卡在哪一项（功率/上行/价格）？",
+     "proof": "完整规格表 + 实测数据 + 30 天测试机（他自测）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（DIN/宽温）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "工业款当「免维护节点」卖：现场装、免配置、坏了整机换；对个人顾问来说，售后成本就是他的利润。",
+     "question": "有没有室外/车间/电箱里的接入点需要工业设备？",
+     "proof": "宽温报告 + 备件政策（坏件先换后修）+ 样品价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（可编程/可自动化）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他有 MTCSWE，会自己写脚本/模板：给他可脚本化的管理接口（CLI/MIB/配置文件），让部署可复制。",
+     "question": "他愿不愿意把配置模板固化下来，后面项目直接复用？",
+     "proof": "CLI 参考卡 + MIB 清单 + 一份可复用的配置模板。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "基辅 MikroTik 顾问（MTCNA+MTCSWE，交换专长），无官网、个人邮箱接单。3 步：24 口 PoE++（参数直给）→ 工业非管理 PoE（免维护节点）→ 管理型 PoE（可脚本化部署）。"
+  },
+  {
+   "code": "A-005",
+   "name": "Alain Casault, B.Ing.",
+   "country": "加拿大",
+   "city": "Prévost, QC",
+   "site": "educationhmo.com",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "魁北克持牌工程师（B.Ing.），任职于教育/卫生系统（educationhmo.com），同时做培训与企业网络设计/架构。",
+    "产品线与在售品牌": "无公开品牌清单；技术栈以企业网络工程为主（Routing/Switching/VLAN/无线/高可用与冗余）。",
+    "目标行业与场景": "教育（CEGEP/学校）与医疗（HMO）机构的网络架构与培训——典型的多楼栋校园网 + PoE 接入（AP、摄像头、门禁）。",
+    "团队与规模": "个人（工程师身份），项目多为机构内或顾问角色；决策链短，但机构采购流程可能较长。",
+    "决策链与对接人": "casault.alain@educationhmo.com；1-514-394-0419；英法双语。",
+    "技术与认证": "MikroTik 认证顾问 MTCNA+MTCRE+MTCWE；自述专长「培训、企业网络设计与架构、Routing、Switching、VLANs、无线、高可用与冗余」。",
+    "采购与供应链信号": "作为设计/架构方，他能写入规格（spec-in）；采购多半走机构招标或指定型号。",
+    "近期动态与线索": "educationhmo.com 本轮抓取已跳转到无关的 WordPress 博客（orthopédagogue 个人站）→ 原站点已停用或易主，说明其公开身份目前只剩 MikroTik 名录与个人邮箱。",
+    "与我方契合点": "他能把我们的型号写进校园/医疗项目的规格书：24 口 PoE（AP/摄像头）、工业款（实验楼/机房外）、管理型（VLAN 分段 + 冗余）都是标准配置。",
+    "风险与注意": "公共机构项目周期长、招标多；先做技术交流与规格影响，不要一上来谈价格。"
+   },
+   "facts": [
+    {
+     "dim": "近期动态与线索",
+     "text": "educationhmo.com 本轮抓取跳转到无关个人博客（WordPress 的 orthopédagogue 站点）。",
+     "quote": "Hélène Marcil – Orthopédagogue（跳转目标站标题）",
+     "url": "https://educationhmo.com/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：蒙克顿名录显示其专长为培训、企业网络设计与架构、Routing/Switching/VLAN/无线/高可用。",
+     "quote": "培训、企业网络设计与架构、Routing、Switching、VLANs、无线、高可用与冗余；任职于 educationhmo.com（教育/卫生系统）",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "以「校园/医疗接入层的 PoE 预算怎么算」为题做技术交流：24 口 PoE++ 的整机预算 + 看门狗（远程重启 AP/摄像头）+ 端口隔离（病房/教室分段）。",
+     "question": "他设计的接入层现在按什么标准选 PoE 交换机（口数/单口瓦数/上行）？",
+     "proof": "规格书 + 实测数据 + 可写入招标文件的技术参数页（中英对照）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（楼栋外/实验楼）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "校园里总有楼栋外、体育馆、实验楼等非标准机房点位：工业款免配置、宽温、可直接进电箱。",
+     "question": "校园项目里有没有需要装在非机房环境的接入点？",
+     "proof": "宽温报告 + DIN 安装图 + 一页选型表（与竞品同规格对照）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（冗余与分段）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他讲高可用与冗余：环网（ERPS）+ VLAN 分段 + 双上行正好对应校园核心到接入层的标准要求。",
+     "question": "接入层要不要做环网冗余？他现在的冗余方案是什么？",
+     "proof": "ERPS 切换实测 + VLAN 模板 + 招标参数条目（可直接引用）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://educationhmo.com/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "魁北克工程师（教育/卫生系统），专长企业网络设计与架构+培训；原站点已跳转到无关博客，公开身份靠 MikroTik 名录与个人邮箱。3 步：24 口 PoE++（写规格）→ 工业非管理 PoE（楼栋外点位）→ 管理型 PoE（冗余/分段）。"
+  },
+  {
+   "code": "A-006",
+   "name": "Amir Seifi / Magenta Networks",
+   "country": "加拿大",
+   "city": "Scarborough, ON",
+   "site": "magentanetworks.net",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "多伦多的托管 IT 服务商（Magenta Networks Inc.）：网络管理、Helpdesk、咨询、网络安全、备份与恢复、云服务。",
+    "产品线与在售品牌": "未公开品牌清单；自述精通 RouterOS 与 **SwitchOS**，能力含二层交换、VLAN 配置、链路聚合、端口优化管理，以及 OSPF/BGP、防火墙加固、DDoS 缓解、脚本自动化。",
+    "目标行业与场景": "官网列出服务行业：中小企业、零售、医疗、制造、酒店、金融；公开运营数据：19 个在管站点、5 个在建项目、310 个端点。",
+    "团队与规模": "小型 MSP 团队（19 站点/310 端点规模），决策链短（老板/技术负责人即决策人）。",
+    "决策链与对接人": "Amir Seifi；support@magentanetworks.net / info@ / ops@magentanetworks.net；+1-647-812-5170；周一至周五 9–18，周末预约。",
+    "技术与认证": "MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE；技能覆盖交换、路由、用户管理（Hotspot/PPPoE）。",
+    "采购与供应链信号": "MSP 模式：设备进他的资产池随客户站点部署；关注「到货快、可远程管理、故障率低」。",
+    "近期动态与线索": "官网（.ca 域名，CSV 记为 .net）2026 年仍在更新：新增「运营快照」指标区（19 站点/5 项目/310 端点）与服务行业页。",
+    "与我方契合点": "19 个站点 + 310 端点说明他反复在做同样的接入层：24 口 PoE 喂 AP/摄像头、VLAN 分客户、环网保稳定。我们的看门狗与远程重启正好降低 MSP 上门成本。",
+    "风险与注意": "硬件采购可能走现有分销渠道；要用「同规格更快到货 + 可远程管理 + 试点价」切入，别只谈单价。"
+   },
+   "facts": [
+    {
+     "dim": "目标行业与场景",
+     "text": "官网公开运营指标与行业清单（19 站点 / 5 在建 / 310 端点）。",
+     "quote": "19 Active sites；5 ongoing projects；310 endpoints；Industries we serve: SMBs｜Retail｜Healthcare｜Manufacturing｜Hospitality｜Financial Industry",
+     "url": "https://magentanetworks.ca/"
+    },
+    {
+     "dim": "业务定位",
+     "text": "服务目录：网络管理、Helpdesk、咨询、网络安全、备份与恢复、云服务。",
+     "quote": "Our services … Network Management｜Helpdesk Services｜Consulting Services｜Cybersecurity Solutions｜Backup & Recovery｜Cloud Services",
+     "url": "https://magentanetworks.ca/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "官网联系页给出销售/运维两条直达邮箱与客服电话。",
+     "quote": "Customer Service & Sales: +1-647-812-5170；General Inquiries: info@magentanetworks.net；Operations & Sales: ops@magentanetworks.net",
+     "url": "https://magentanetworks.ca/contact/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "按 MSP 账本谈：19 个站点里，每减少一次上门就省一笔。24 口 PoE++ + 看门狗 + 远程重启/批量升级，直接摊到他的服务成本里。",
+     "question": "他管 19 个站点，每个月因为接入交换/AP 上门几次？",
+     "proof": "远程管理演示（SNMP/看门狗日志）+ 30 天试点机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（制造/仓储客户现场）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "他的制造业与仓储客户现场条件差：宽温宽压 DIN 款，插上就用、坏了换机，不占他工程师的时间。",
+     "question": "制造业客户里有没有产线/仓库边上的网络点位？",
+     "proof": "宽温报告 + 一页现场安装图 + 备件政策。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（客户隔离与统一模板）",
+     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP）或 LT-S8328XGP-4XS24GT-S（24×PoE + 4×SFP+）",
+     "angle": "19 个站点、多客户：VLAN 隔离 + 环网 + 统一配置模板，一套模板复制到所有客户，减少他团队的记忆负担。",
+     "question": "他希不希望所有站点的交换机用同一套配置模板交付？",
+     "proof": "配置模板 + ERPS 实测 + MIB/自动化脚本示例。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://magentanetworks.ca/"
+    ],
+    [
+     2,
+     "https://magentanetworks.ca/contact/"
+    ]
+   ],
+   "note": "多伦多 MSP（19 站点/310 端点；SMB/零售/医疗/制造/酒店/金融）；精通 RouterOS+SwitchOS、二层/VLAN/链路聚合。3 步：24 口 PoE++（省上门）→ 工业非管理 PoE（制造现场）→ 管理型 PoE（多站点统一模板）。"
+  },
+  {
+   "code": "A-007",
+   "name": "Industrial Solutions Inc",
+   "country": "加拿大",
+   "city": "Sherwood Park AB",
+   "site": "indsol.com",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "阿尔伯塔的工业自动化分销商（9 人小公司，服务 AB/BC/MB/SK 四省）：工业自动化、通信、计算与电气供应的整体供货。",
+    "产品线与在售品牌": "代理阵营很强：Red Lion / N-TRON / Sixnet、Phoenix Contact、HMS/eWon/Anybus、**MOXA**、CISCO、AXIS/Pelco/Panasonic/Bosch（监控）、Advantech/Axiomtek（工控机）、APC/Tripp Lite（电源）。网络连接类目明列 **Industrial Ethernet Switches**（Class 1 Div 2、宽温、非管理/管理、光口、DIN 导轨、冗余环、PoE）与配件（媒体转换器、PoE 注入器、延长器）。",
+    "目标行业与场景": "油气、工业制造、市政/公用事业等重工业现场；摄像头/门禁/无线也在其目录内（AXIS 等）。",
+    "团队与规模": "仅 9 人；两位 Managing Partner 直接管事，决策链极短。",
+    "决策链与对接人": "Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；sales@indsol.com；780.460.9533 / 免费 866.460.9533；公司邮箱格式 {first}@indsol.com。",
+    "技术与认证": "工业品牌原厂渠道身份（Red Lion/N-TRON/Phoenix/MOXA），能读懂 Class 1 Div 2、宽温、冗余环等工业语言。",
+    "采购与供应链信号": "他卖 N-Tron/Red Lion 8 口非管理工业交换机价格锚在 $500+ 级；同规格中性货 LT-IS6310G 在其报价体系里是 5 倍价差的空间 → 天然的「第二供应商/替换」故事。",
+    "近期动态与线索": "官网（Squarespace）保持更新：产品类目页 + 2026 版产品线卡片（ISI Product Line Card 2026 PDF）可下载。",
+    "与我方契合点": "他的网络连接类目里，工业交换机的规格（宽温/冗余环/PoE/光口）与我们工业线一一对应；摄像头类目（AXIS 等）又给了商用 PoE 的入口。",
+    "风险与注意": "他已有强势代理品牌（Red Lion/Phoenix），替换故事要按「第二供应商、备件、短交期、非标规格补齐」来讲，不要正面比品牌；工业客户对认证（UL/CSA/Class 1 Div 2）文件要求硬。"
+   },
+   "facts": [
+    {
+     "dim": "产品线与在售品牌",
+     "text": "网络连接类目明确列出工业交换机的能力项与品牌。",
+     "quote": "Network Connectivity — Red Lion｜Phoenix Contact｜N-TRON｜CISCO｜MOXA；Industrial Ethernet Switches；Class 1 Div 2., Wide Temperature；Un-Managed, Managed；Fiber Ports；DIN Rail or Surface Mount；Redundant Ring Support；Power Over Ethernet (PoE)；Accessories: Media Converters / PoE Injectors / Mid-Spans / Ethernet Network Extenders",
+     "url": "https://www.indsol.com/product-categories"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "监控类目与其工业客户重叠（危险区、室外、PoE 供电）。",
+     "quote": "Camera Systems — AXIS｜PELCO｜Panasonic｜Bosch … Indoor, Outdoor, Hazardous Areas；PoE Powered；Access Control；Video Analytics & Detection",
+     "url": "https://www.indsol.com/product-categories"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "既有记录：两位 Managing Partner 直联，9 人公司、四省覆盖。",
+     "quote": "Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；sales@indsol.com；780.460.9533（免费 866.460.9533）",
+     "url": "https://www.indsol.com/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "从他们自己的摄像头类目（AXIS/Pelco，PoE 供电）切进去：工业现场也要商用级 24 口 PoE 做摄像头汇聚，价格与交期由我们补齐。",
+     "question": "他们做的监控项目里，PoE 汇聚交换机通常是谁家的、卡在哪（价格/交期/功率）？",
+     "proof": "整机功率实测 + 交期承诺（现货/海运两种）+ 30 天测试机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（价格锚替换）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C；PoE++ 880 版）",
+     "angle": "他们现在 8 口非管理工业交换机卖 $500+ 级；同规格（DIN/宽温/双电源）的 LT-IS6310G 在其成本结构里是数量级差异 —— 从「备件/第二供应商」开始，不进主 BOM。",
+     "question": "愿不愿意先拿 2 台做现场对比测试（不动主品牌）？",
+     "proof": "同规格对照表（MTBF/宽温/双电源/认证）+ 2 台测试机 + 谁都能算的价差表。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（冗余环/危险区）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版 / -2BT 版）",
+     "angle": "工业客户要冗余环（ERPS/RSTP）与 10G 上行；管理型 + 光纤组合正是他们 Class 1 Div 2 / 长距离场景的拼图。",
+     "question": "他们的油气/市政项目里，冗余环与 10G 上行比例多大？",
+     "proof": "ERPS 切换实测 + 光模块兼容清单 + 认证文件包（UL/CSA/Class 1 Div 2 目标）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.indsol.com/"
+    ],
+    [
+     2,
+     "https://www.indsol.com/product-categories"
+    ]
+   ],
+   "note": "阿尔伯塔 9 人工业自动化分销（AB/BC/MB/SK）；代理 Red Lion/N-TRON/Phoenix/MOXA/CISCO，网络连接类目含工业交换机（宽温/DIN/冗余环/PoE）与 AXIS 监控。3 步：24 口 PoE++（监控汇聚）→ 工业非管理 PoE（第二供应商/价格锚）→ 管理型 PoE（冗余环+10G）。"
+  },
+  {
+   "code": "A-008",
+   "name": "Jody Lemoine / Tishco Networks",
+   "country": "加拿大",
+   "city": "Ontario",
+   "site": "tishco.ca",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "自 2007 年运营的网络咨询与实施公司（tishco networks），从概念设计到持续维护，面向企业客户。",
+    "产品线与在售品牌": "多厂商（multi-vendor）网络设计与实施 + 配套培训；官网未列品牌清单。",
+    "目标行业与场景": "企业网络（设计与实施、增长期扩展）；本人同时是 MikroTik 认证讲师。",
+    "团队与规模": "小型公司（Niagara Falls 办公、预约制面谈），决策者=本人。",
+    "决策链与对接人": "Jody Lemoine；jody.lemoine@tishco.ca / contact@tishco.ca；+1 (905) 378-1134；4551 Zimmerman Avenue, Niagara Falls, ON L2E 3M5。",
+    "技术与认证": "**Cisco CCIE（证书号 41436）+ MikroTik 认证讲师**；1980 年代末入行 → 能直接谈芯片转发架构、CLI、MIB，不需要科普。",
+    "采购与供应链信号": "咨询/设计角色，设备随项目采购；他的选型标准是技术与长期可维护性，不是最低价。",
+    "近期动态与线索": "官网 2026 年仍在线（含 2026 版 logo），服务定位与地址、预约制联系。",
+    "与我方契合点": "他能读懂我们的硬指标：转发时延、PoE 预算、VLAN/ERPS、L3 卸载；给他可验证的材料（实测 + CLI/MIB），比给折扣有效。",
+    "风险与注意": "技术天花板高、要求严格：任何参数虚标都会被当场发现；先给第三方可复现的实测方法。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网自述：2007 年起做企业网络设计与实施，从概念到持续维护。",
+     "quote": "Since 2007, tishco networks has offered business-focused network design and implementation services … Our focus is on one outcome: Ensuring that your network does its job to make your business run at its best.",
+     "url": "https://www.tishco.ca/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "官网给出统一邮箱与电话、办公地址与预约制。",
+     "quote": "contact@tishco.ca；+1 (905) 378-1134；4551 Zimmerman Avenue, Niagara Falls, Ontario L2E 3M5；In-person meetings by appointment only.",
+     "url": "https://www.tishco.ca/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：CCIE 41436 与 MikroTik 认证讲师双料，1980 年代末入行，多厂商企业网络 + 培训。",
+     "quote": "同时持有 Cisco CCIE（证书号 41436，仍在有效期内）和 MikroTik 认证讲师资格 … 专做多厂商企业网络设计与实施 + 配套培训",
+     "url": "https://www.tishco.ca/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "给他可以直接验证的东西：24 口 PoE++ 的逐口功率曲线、整机预算、看门狗与端口隔离；请他用自己的测试方法复测（打流/断电/温升）。",
+     "question": "他评估接入层 PoE 交换机时最看哪三个指标？",
+     "proof": "测试方法说明 + 实测原始数据 + 一台可上他测试台的样机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（现场节点）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "企业客户的室外/厂房/停车楼点位：工业款免配置、宽温、双电源，减少故障面。",
+     "question": "他的客户里有没有需要非机房安装的接入点？",
+     "proof": "宽温/双电源规格 + DIN 安装图 + 现场照片样例。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（可验证的冗余与卸载）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "以 CCIE 的语言谈：ERPS 收敛时间、L3 硬件卸载、CLI/MIB 完整性；把「可复现测试报告」当成交付物。",
+     "question": "他的设计标准里，环网收敛与转发时延的门限是多少？",
+     "proof": "ERPS 收敛实测（含测试拓扑）+ L3 卸载转发数据 + CLI/MIB 文档。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.tishco.ca/"
+    ]
+   ],
+   "note": "Niagara Falls 网络咨询/实施公司（2007 起）；负责人 Jody Lemoine 是 CCIE 41436 + MikroTik 讲师。3 步：24 口 PoE++（可复现测试）→ 工业非管理 PoE（现场节点）→ 管理型 PoE（ERPS/L3 卸载实测）。"
+  },
+  {
+   "code": "A-009",
+   "name": "MohammadMahdi Raeesi / Commander IT",
+   "country": "加拿大",
+   "city": "Markham, ON",
+   "site": "commanderit.ca",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "万锦/列治文山的托管 IT 服务商（CommanderIT）：网络管理、远程支持、Helpdesk、托管 IT、数据备份、VoIP、虚拟化、云服务、远程办公方案；自述「Expert MikroTik solutions」。",
+    "产品线与在售品牌": "以 MikroTik 为技术核心（RouterOS 7.x、BGP/OSPF、CAPsMAN、含 switching 专长）；未公开代理品牌。",
+    "目标行业与场景": "中小企业为主的一站式 IT 外包（网络+终端+云+备份+电话）。",
+    "团队与规模": "小型 MSP（7×9 小时服务、周末可约），老板即技术与采购决策人。",
+    "决策链与对接人": "MohammadMahdi Raeesi；admin@commanderit.ca；647 562 2246（官网显示 +1 (647) 562-2…）。",
+    "技术与认证": "MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE；自述专长含 switching、RouterOS 7.xx、动态路由 BGP/OSPF、高性能无线与 CAPsMAN。",
+    "采购与供应链信号": "MSP 采购：设备上客户站点、随服务合同摊成本；看重价格与远程可维护性。",
+    "近期动态与线索": "官网持续运营（Markham，Richmond Hill 地址、7 天服务）；无公开项目案例细节。",
+    "与我方契合点": "他做中小企业整包：每单都可能需要 24 口 PoE 喂 AP/摄像头/VoIP；VLAN 分段与看门狗对他降低上门率有直接价值。",
+    "风险与注意": "规模小、价格敏感；先给「一次试单 + 一台测试机」，不要先谈大货。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网服务清单与 MikroTik 定位。",
+     "quote": "Expert MikroTik solutions for seamless connectivity. Specializing in robust networks, data security, and services for diverse industries.；Services: Network Management｜Remote Support｜Helpdesk Services｜Managed IT Support｜Data Backup Strategies｜VoIP Solutions｜Virtualization｜Cloud Services｜Remote Work Solutions",
+     "url": "https://commanderit.ca/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "官网联系信息：Markham/Richmond Hill、电话、邮箱与营业时间。",
+     "quote": "Richmnd Hill, Markham；+1 (647) 562-2…；admin@commanderit.ca；7 days a week from 9:00 am to 6:00 pm",
+     "url": "https://commanderit.ca/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：自述专长含 switching，RouterOS 7.xx、BGP/OSPF、CAPsMAN。",
+     "quote": "★ 自述专长含 switching；RouterOS 7.xx、动态路由 BGP/OSPF、高性能无线与 CAPsMAN",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "他的中小企业客户里，一次装修/搬迁就是一整柜：24 口 PoE++ 一次喂 AP、摄像头、IP 电话，配上远程重启减少上门。",
+     "question": "他最近一个客户站点，AP+摄像头+电话一共多少个 PoE 口？",
+     "proof": "一张「单口瓦数 × 路数」报价+功率对照页 + 测试机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（小工厂/仓库客户）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "他服务的小工厂/仓库常有粉尘、温差、没有机柜：工业款免配置、宽温，直接进电箱。",
+     "question": "有没有需要进电箱/非空调环境的点位？",
+     "proof": "宽温报告 + 一页选型图 + 备件政策。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（VLAN 与集中管理）",
+     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP）或 LT-S8328XGP-4XS24GT-S（24×PoE + 4×SFP+ 10G）",
+     "angle": "CAPsMAN 集中管理无线 → 有线侧也用统一模板：VLAN 分段（办公/摄像头/访客）+ 环网。",
+     "question": "他愿不愿意把有线模板与无线模板一起标准化？",
+     "proof": "VLAN 模板 + MIB/SNMP 清单 + ERPS 实测。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://commanderit.ca/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "万锦托管 IT（MikroTik 技术核心，专长含 switching/CAPsMAN）；中小企业整包。3 步：24 口 PoE++（整柜一次配齐）→ 工业非管理 PoE（小工厂电箱）→ 管理型 PoE（有线/无线统一模板）。"
+  },
+  {
+   "code": "A-010",
+   "name": "Wireless Netware",
+   "country": "加拿大",
+   "city": "Ontario",
+   "site": "wirelessnetware.ca",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "加拿大第一家 MikroTik 认证培训中心 + 授权代理（Toronto 仓库发货、全境配送）+ 咨询与托管机房（MikroTik-powered co-location）。",
+    "产品线与在售品牌": "MikroTik 全线现货（routers、**switches**、无线 AP、SFP 模块、配件，IC 认证）；另有 **SYNOXX** 光模块（SFP/SFP+/QSFP28/QSFP-DD）与自有品牌网络配件。",
+    "目标行业与场景": "ISP/运营商、企业、网络运营商客户：从中小企业到多站点 ISP 网络；培训覆盖官方认证课程与定制工作坊。",
+    "团队与规模": "小团队但角色多重（培训+分销+咨询+机房）；负责人 Hani Rahrouh 本人有 8 项认证含 MTCSWE。",
+    "决策链与对接人": "Hani Rahrouh；hr@wirelessnetware.ca；info@wirelessnetware.ca；+1 647 477 0163；网店 shop.wirelessnetware.ca。",
+    "技术与认证": "RouterOS & SwitchOS 认证专家；加拿大首个 MikroTik 培训师；既有记录提及其熟悉 RouterOS 7.x 交换新特性与 **L3 硬件卸载**。",
+    "采购与供应链信号": "他本身就是渠道（授权代理+现货仓库）：我们要以「OEM/补充线」而不是「找经销商」的身份谈；他的 SYNOXX 光模块业务说明他能接受非 MikroTik 体系的配件。",
+    "近期动态与线索": "官网 2026 年更新：强调 IC 认证、Toronto 现货、SYNOXX 光模块、托管机房；答疑区（FAQ）明确「全系列现货、海岸到海岸配送」。",
+    "与我方契合点": "他既卖设备又培训、还做托管机房：24 口 PoE（企业/ISP 接入）、工业款（室外塔站/机箱）与光模块配套（他有 SYNOXX）三条线都能接；L3 卸载的细节对话他也接得住。",
+    "风险与注意": "官方代理身份意味着 MikroTik 是他的核心利益，不要谈「替代 MikroTik」；谈「补 MikroTik 没有的规格/价位的第二线」，并把光模块配套做成组合拳。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网定位：授权代理 + 加拿大首个 MikroTik 培训中心 + 咨询 + 托管机房。",
+     "quote": "Canada's First MikroTik Certified Trainer；Authorized Reseller；MikroTik Consulting in Canada — RouterOS & SwitchOS Experts；MikroTik-Powered Co-Location",
+     "url": "https://www.wirelessnetware.ca/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "全线现货 + SYNOXX 光模块。",
+     "quote": "stocking the full range of MikroTik routers, switches, wireless access points, SFP modules, and accessories. All products are IC Certified … Ships from Toronto Warehouse；SYNOXX SFP, SFP+, QSFP28, and QSFP-DD optical transceivers",
+     "url": "https://www.wirelessnetware.ca/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：负责人持 8 证含 MTCSWE，熟悉 RouterOS 7 交换新特性（L3 硬件卸载）。",
+     "quote": "Hani Rahrouh … 8 证含 MTCSWE；简历明确写「Switching：熟悉 RouterOS 7.xx 的全部新交换功能，例如 L3 硬件卸载」",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "他是渠道：用「加拿大现货仓库 + 与他现售 MikroTik 24 口 PoE 的规格/价位差」对话，把他当潜在分销商而不是终端客户。",
+     "question": "他愿意先上几个 SKU 试销（24 口 PoE 与工业 8 口），还是先做项目配套？",
+     "proof": "FOB/到岸价目表（含 IC 认证资料）+ 现货/交期说明 + 与 SYNOXX 光模块的组合清单。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（ISP/塔站场景）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "他服务 ISP 与运营商：塔站/室外机箱用宽温 DIN 款，配他的光模块做长距离回传。",
+     "question": "ISP 客户的塔站/室外设备箱现在用什么型号、缺什么价位段？",
+     "proof": "宽温报告 + 光模块兼容清单 + 样品组合（交换机+SFP）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE + 培训合作",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8528XG-4XS24GT（L3，PoE 版）",
+     "angle": "他开课：把我们的管理型交换机做成培训实验与案例（L3 卸载/ERPS 实测），既是销售也是影响力。",
+     "question": "他愿不愿意在课程里加入一两个我们的实验案例？",
+     "proof": "可公开的实测数据 + 培训用配置模板 + 实验机（成本价）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.wirelessnetware.ca/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "加拿大首个 MikroTik 培训中心+授权代理（Toronto 现货，MikroTik 全线 + SYNOXX 光模块 + 托管机房）；负责人持 8 证含 MTCSWE。3 步：24 口 PoE++（渠道试销/项目配套）→ 工业非管理 PoE（ISP 塔站+光模块组合）→ 管理型 PoE（培训合作）。"
+  },
+  {
+   "code": "A-011",
+   "name": "Yvan Laverdiere",
+   "country": "加拿大",
+   "city": "Rouyn-Noranda, QC",
+   "site": "cegepat.qc.ca",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "魁北克 Cégep de l'Abitibi-Témiscamingue（3 校区）的网络技术人员/工程师，MikroTik 认证顾问。",
+    "产品线与在售品牌": "未公开品牌清单；技术面覆盖 VXLAN/VLAN、RADIUS、MPLS/VPLS/VRF、IPSec/GRE/EoIP、PPPoE、Hotspot、网络监控与 Proxmox 集成。",
+    "目标行业与场景": "校园网（CEGEP）：多校区互联、学生/教工分段、实验楼与体育设施、监控与门禁；另参与 Hotspot/PPPoE（宿舍）类需求。",
+    "团队与规模": "公共教育机构内部 IT（3 校区、22 个专业、Rouyn-Noranda / Val-d'Or / Amos）。",
+    "决策链与对接人": "yvan.laverdiere@cegepat.qc.ca；819-763-1411；英法双语。",
+    "技术与认证": "MTCNA+MTCRE+MTCWE+MTCINE+**MTCSWE**（交换）；VXLAN/VLAN、MPLS/VPLS/VRF 等进阶技能。",
+    "采购与供应链信号": "公立机构采购：走招标/年框，技术规格由他这类人写；一旦进入规格，后续几年都会带型号。",
+    "近期动态与线索": "学院官网 2026 年正常运营（招生、3 校区、22 专业），IT 项目随校区改造推进（本轮未取得具体网络项目公告）。",
+    "与我方契合点": "校园接入层是 24 口 PoE 的标准场景（教室 AP、走道摄像头、门禁）；实验楼/体育场需要工业款；多校区互联需要 ERPS/VLAN 分段与 10G 上行。",
+    "风险与注意": "周期长、招标流程重；不要催单，走「技术交流 + 写规格 + 试点」三步。"
+   },
+   "facts": [
+    {
+     "dim": "目标行业与场景",
+     "text": "学院官网：3 校区 22 个专业，多校区运行。",
+     "quote": "3 campus … 12 équipes sportives … 22 programmes d'études；Campus de Rouyn-Noranda｜Campus de Val-d'Or｜Campus d'Amos",
+     "url": "https://www.cegepat.qc.ca/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：持 MTCSWE 与多项进阶网络技能，任职教育系统。",
+     "quote": "持 MTCSWE；技能含 VXLAN、VLAN、RADIUS、MPLS/VPLS/VRF、IPSec/GRE/EoIP/IPIP、PPPoE、Hotspot、网络监控、Proxmox 集成；任职于 cegepat.qc.ca",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "校园接入层：教室/走廊 AP + 摄像头 + 门禁集中到一台 24 口 PoE++，配看门狗与端口隔离，减少寒暑假窗口期的上门。",
+     "question": "他们校区接入层现在的 PoE 口数与功率预算是多少、卡在哪里？",
+     "proof": "规格与功率表（法语/英语版）+ 测试机（假期窗口测试）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（实验楼/体育设施）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "实验楼、机械车间、体育场看台：非机房环境、温差大，工业款免配置进电箱。",
+     "question": "哪些点位没有空调机柜、但需要 PoE 接入？",
+     "proof": "宽温报告 + DIN 图 + 法语安装说明。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（多校区冗余）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他会 VXLAN/MPLS/VPLS：谈 10G 上行 + ERPS 环网 + VLAN 分段（学生/教工/设备/摄像头四段）的落地清单。",
+     "question": "多校区互联的接入层冗余与 10G 上行，他们现网怎么做的？",
+     "proof": "ERPS 实测 + VLAN 分段模板 + 招标参数条目（法/英）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.cegepat.qc.ca/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "魁北克 CEGEP（3 校区）网络工程师，持 MTCSWE 与 VXLAN/MPLS 等进阶技能。3 步：24 口 PoE++（校园接入）→ 工业非管理 PoE（实验楼/体育场电箱）→ 管理型 PoE（多校区冗余+VLAN 分段）。"
+  },
+  {
+   "code": "A-012",
+   "name": "Balazs Meretei",
+   "country": "匈牙利",
+   "city": "Kecskemét",
+   "site": "meretei.hu",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "匈牙利（Kecskemét）独立网络工程师，MikroTik 认证顾问；个人站点是技术备忘博客（RouterOS/IPsec/Cisco 现场笔记），说明是长期在项目上的实战派。",
+    "产品线与在售品牌": "以 MikroTik/RouterOS 生态为主，另有 Cisco/ASA 现场经验（博客内容）。",
+    "目标行业与场景": "ISP 网络（ADSL/DOCSIS/ETTH/FTTH/WISP）+ 大规模组播（IPTV、视频监控系统）+ RADIUS 认证计费系统（既有记录）。",
+    "团队与规模": "个人/小团队，决策链=本人。",
+    "决策链与对接人": "balazs@meretei.hu；+36 30 999 9900。",
+    "技术与认证": "MTCNA+MTCRE+MTCWE+MTCSE+**MTCSWE**（交换）；博客显示其关注 IPsec、证书、NTP/时区、Cisco 配置等细节。",
+    "采购与供应链信号": "按项目采购，个人决策；组播/IPTV 项目对 IGMP snooping、组播 VLAN、上行带宽要求高 —— 换设备试错成本高，需要样品测试。",
+    "近期动态与线索": "博客长期更新（最近含协议号速查、IPsec 证书生成、Cisco NTP 时区备忘等），无公司官网。",
+    "与我方契合点": "监控与 IPTV 组播是他明写的场景：24 口 PoE（摄像头/AP）+ 组播优化（IGMP snooping、组播 VLAN）+ 环网冗余，正好对上我们的管理型 PoE 与工业线。",
+    "风险与注意": "他是技术型个人客户：先聊组播/交换细节建立信任，价格话题放后面。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "个人站点为技术备忘博客（RouterOS/IPsec/Cisco 实战笔记）。",
+     "quote": "Gyakran kell, ha IPsec routereket bántunk …；Nagyon unom, hogy a switchek/routerek órája … Switch(config)#ntp server 148.6.0.1 / clock timezone CET 1",
+     "url": "https://meretei.hu/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "既有记录：ISP 网络 + 大规模组播（IPTV、视频监控）+ RADIUS/计费。",
+     "quote": "专长 ISP 网络（ADSL/DOCSIS/ETTH/FTTH/WISP）+ 大规模组播网络（IPTV、视频监控系统）+ RADIUS 认证计费系统的设计实施",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "持 MTCSWE（交换）与多证，博客体现 Cisco 现场经验。",
+     "quote": "MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "他在做视频监控与 IPTV：24 口 PoE++ 喂摄像头/AP，重点讲组播表现（IGMP snooping 行为、组播 VLAN）与功率预算。",
+     "question": "他现在监控/IPVT 项目里组播怎么做（snooping 开关、组播 VLAN、上行带宽）？",
+     "proof": "组播测试（不泛洪验证）+ 功率实测 + 30 天样机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（WISP/室外）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "WISP 塔站与室外箱体：宽温宽压、DIN、免配置；配 SFP 做长距离回传。",
+     "question": "他手上的 WISP 站点的供电与箱体条件如何？",
+     "proof": "宽温/宽压报告 + SFP 兼容清单 + 现场接线一页图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（组播+冗余）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "管理型：IGMP snooping/querier、组播 VLAN、ERPS 环网 —— 直接对应他的 IPTV/监控规模。",
+     "question": "规模上去后他打算怎么解决组播泛洪与链路冗余？",
+     "proof": "组播配置模板 + ERPS 实测 + MIB 清单。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://meretei.hu/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "匈牙利独立网络工程师（持 MTCSWE），主攻 ISP 网络+大规模组播（IPTV/监控）+RADIUS。3 步：24 口 PoE++（组播+功率）→ 工业非管理 PoE（WISP 塔站）→ 管理型 PoE（IGMP/组播 VLAN+ERPS）。"
+  },
+  {
+   "code": "A-013",
+   "name": "Laszlo Kalapos / MindenamiMikrotik",
+   "country": "匈牙利",
+   "city": "Miskolc",
+   "site": "mindenamimikrotik.hu",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "匈牙利 Miskolc 的 MikroTik 专营顾问（站点名直译「关于 MikroTik 的一切」）：现场/远程网络设计安装、VPN、PPPoE/RADIUS、防火墙、带宽管理与队列、Hotspot、User Manager、The Dude；同时是 MikroTik 培训站（现场课 + 视频课 + 电子书 + 支持服务）。",
+    "产品线与在售品牌": "纯 MikroTik 技术栈（RouterOS 全线），培训与实施并重。",
+    "目标行业与场景": "中小企业、ISP/WISP；培训学员覆盖匈牙利本地工程人员。",
+    "团队与规模": "个人主导（Kalapos László 为站点作者/讲师），决策链=本人。",
+    "决策链与对接人": "info@mindenamimikrotik.hu；+36 20 295 6414；站点联系页 kapcsolat。",
+    "技术与认证": "MikroTik 认证顾问 **MTCSWE + MTCEWE**（交换+企业无线）等 7 证。",
+    "采购与供应链信号": "他既是实施方也是讲师：设备用于客户项目与课程实验；愿意接非 MikroTik 设备做课程实验的可能性高（但需给他「可讲的内容」）。",
+    "近期动态与线索": "站点持续更新：2025 年 3 月开现场课程、2026 年 2 月挂出「hamarosan（即将推出）」新项目横幅（milpay），并维护在线俱乐部/电子书/技术支持页。",
+    "与我方契合点": "培训影响力客户：他在课上讲交换机 → 我们的管理型/工业款可以进他的实验台与案例；同时他的客户项目需要 24 口 PoE 与工业 PoE。",
+    "风险与注意": "影响力路线：谈「能多讲什么内容」而不是返点；先寄实验机 + 可公开案例。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "站点首页即培训与支持入口（现场课、视频课、电子书、技术支持）。",
+     "quote": "Élő MikroTik tanfolyamok；Videós MikroTik tanfolyamok；Segítség, terméktámogatás；Vezeték nélkül, egyszerűen - ebook；Network Online - hálózati alapozó tananyag",
+     "url": "https://mindenamimikrotik.hu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "2026 年 2 月挂出即将推出的新项目横幅（milpay）。",
+     "quote": "banner_hamarosan.webp（hamarosan = 即将推出）；页面更新时间 2026-05-19",
+     "url": "https://mindenamimikrotik.hu/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "持 MTCSWE+MTCEWE 等 7 证，站点名为「关于 MikroTik 的一切」。",
+     "quote": "MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE；站点名直译「所有关于 MikroTik 的事」",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "给课程/项目两用：他可以用我们的 24 口 PoE++ 上课（VLAN、端口隔离、PoE 预算、看门狗都能演示），学员项目又直接转化成销量。",
+     "question": "他课程里的交换实验现在用什么设备、缺哪些演示点？",
+     "proof": "实验机（成本价）+ 可直接用的实验手册草稿 + 可公开的实测数据。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（客户现场）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "他的客户里做监控/门禁的现场点位：宽温 DIN 免配置，作为他标准方案里的「现场盒」。",
+     "question": "他有没有客户是乡镇/农场/户外场景需要宽温设备？",
+     "proof": "宽温报告 + 一页方案模板（可直接进他的报价单）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（进他的课与方案）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8528XG-4XS24GT（L3，PoE 版）",
+     "angle": "把管理型交换机写进他的「企业网络」课程与标准方案：VLAN、ERPS、L3、SNMP 监控都可讲。",
+     "question": "他愿不愿意把我们的型号列进课程实验清单？",
+     "proof": "配置模板 + MIB/SNMP 清单 + ERPS 实测（可公开引用）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://mindenamimikrotik.hu/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "Miskolc 的 MikroTik 专营顾问+培训站（MTCSWE+MTCEWE 等 7 证），现场/远程实施与课程并重。3 步：24 口 PoE++（课程+项目两用）→ 工业非管理 PoE（客户现场盒）→ 管理型 PoE（写进课程与方案）。"
+  },
+  {
+   "code": "A-014",
+   "name": "Tamás Gajdos",
+   "country": "匈牙利",
+   "city": "Szeged",
+   "site": "",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "塞格德（Szeged）的网络/系统工程师，MikroTik 认证顾问；本职在 Furukawa Electric Institute of Technology（研究机构）做系统/实验仪器方向，同时在 MikroTik 社区活跃（开源工具、培训实践日）。",
+    "产品线与在售品牌": "MikroTik 生态为主（开源 wg-routeros-network：批量生成 RouterOS WireGuard 网络；mikrotik-certified-padawan 配置仓库）。",
+    "目标行业与场景": "中小企业 IT、实验/研究环境、WireGuard VPN 组网；也曾代 Alphasonic Kft（匈牙利 MikroTik 分销）主持免费的 MikroTik 实践日。",
+    "团队与规模": "个人（研究机构职员 + 社区讲师），决策链=本人。",
+    "决策链与对接人": "crowbarlabs@outlook.com；+36 30 243 2729；GitHub gajdipajti。",
+    "技术与认证": "8 项 MikroTik 认证含 **MTCSWE + MTCEWE**；GitHub 自述「barefoot physicist (+PhD)」、系统管理与实验仪器方向。",
+    "采购与供应链信号": "个人采购、预算有限但对技术内容要求高；他影响本地社区（实践日/开源），可作种子用户。",
+    "近期动态与线索": "GitHub 持续维护 MikroTik 相关工具；2025 年 2 月以 Gajdos Tamás 名义代 Alphasonic 主持 MikroTik 免费实践日与头脑风暴活动。",
+    "与我方契合点": "他写脚本、跑自动化：管理型交换机的 CLI/MIB/批量配置正好给他「可脚本化」的卖点；8G/24 口 PoE 可用于他的实验与中小企业项目。",
+    "风险与注意": "预算小、以技术内容换参与；先用开源/脚本友好的材料建立关系，再谈小批量。"
+   },
+   "facts": [
+    {
+     "dim": "技术与认证",
+     "text": "GitHub 主页：Szeged、Furukawa Electric Institute of Technology、MikroTik 开源工具作者。",
+     "quote": "A barefoot physicist (+PhD) … Lab instruments, sysadmin stuff, munin love. Furukawa Electric Institute of Technology；Szeged, Hungary；Pinned: wg-routeros-network — Tools for generating a Wireguard network for Mikrotik RouterOS",
+     "url": "https://github.com/gajdipajti"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "2025 年 2 月代 Alphasonic Kft 主持 MikroTik 免费实践日（本人为协调人）。",
+     "quote": "MikroTik Díjmentes Gyakorlónap és Ötletbörze … Az eseményt koordinálja: Gyenese László távollétében: Gajdos Tamás",
+     "url": "https://www.alphasonic.hu/esemeny/mikrotik-gyakorlonap/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "既有记录：8 证含 MTCSWE/MTCEWE；中小企业 IT、WireGuard VPN；英匈塞三语。",
+     "quote": "8 证含 MTCSWE（交换）+ MTCEWE（企业无线）；中小企业 IT、WireGuard VPN；英匈塞三语",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "用他熟悉的语言：给他一份可直接跑的配置模板（VLAN/PoE/端口隔离）与实测数据，让他自己复现；他若满意，会带进实践日/社区。",
+     "question": "他手上的中小企业项目最常缺什么规格（口数/功率/上行）？",
+     "proof": "配置模板 + 实测数据 + 一台可长期测试的样机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（研究/实验环境）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "研究机构的实验台/车间环境：宽温、DIN、免配置，适合仪器与测试网络。",
+     "question": "实验环境里有没有需要宽温/导轨安装的网络点？",
+     "proof": "宽温报告 + DIN 安装照片 + 样品价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（脚本化/自动化）",
+     "product": "LT-IS6312G-4GX8GT PoE 版（8G + 4×2.5G SFP）",
+     "angle": "他写 RouterOS 脚本：管理型交换机的 CLI/MIB 与批量下发能力，可以让他的自动化工具链延伸过来。",
+     "question": "他愿不愿意把交换机也纳入他的自动化脚本（生成配置/批量升级）？",
+     "proof": "CLI 参考 + MIB 清单 + 一份批量配置示例脚本。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://github.com/gajdipajti"
+    ],
+    [
+     2,
+     "https://www.alphasonic.hu/esemeny/mikrotik-gyakorlonap/"
+    ],
+    [
+     3,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "塞格德网络/系统工程师（研究机构本职 + MikroTik 社区活跃，8 证含 MTCSWE/MTCEWE，开源 RouterOS WireGuard 工具作者）。3 步：24 口 PoE++（配置模板直给）→ 工业非管理 PoE（实验环境）→ 管理型 PoE（脚本化/自动化）。"
+  },
+  {
+   "code": "A-015",
+   "name": "Goran Stojkovic",
+   "country": "塞尔维亚",
+   "city": "Ćuprija",
+   "site": "",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "塞尔维亚 Ćuprija 的 InterCom Computers（本地 IT/网络公司）工程师兼 MikroTik 培训讲师（公司培训页联系人就是他）；另有硬件维修与 WISP 运维背景。",
+    "产品线与在售品牌": "本地 IT 公司（InterCom Computers：Zmaj Jovina 2, 35230 Ćuprija；035/84-77-077；office@intercom.rs；www.intercom.rs）；培训面向 ISP/WISP 管理员、系统工程师与集成商。",
+    "目标行业与场景": "本地 ISP/WISP、企业网络；培训业务覆盖有线+无线网络的 RouterOS 管理。",
+    "团队与规模": "小型本地公司（门店 + 培训），决策链短。",
+    "决策链与对接人": "Goran Stojković（mikrotik@intercom.rs / 培训联系电话 035/8477-077, 063/600-324）；公司：office@intercom.rs。",
+    "技术与认证": "MikroTik 认证顾问 MTCNA+MTCTCE；专长含 **RouterBOARD 硬件维修**（懂板级做工）、PtP/PtMP/Mesh、PPPoE、队列与流量整形、QoS、多路径故障切换、高可用、RIP/OSPF/BGP。",
+    "采购与供应链信号": "会修板子 → 售后压力小、可接受中性货；本地公司采购按项目，价格与交期敏感。",
+    "近期动态与线索": "InterCom 培训页仍在线（含 MikroTik 培训信息与他的联系方式）；本轮未抓取 intercom.rs 主页内容（以培训页证据为准）。",
+    "与我方契合点": "他要给 ISP/WISP 学员讲交换：24 口 PoE（接入/监控）+ 工业 PoE（塔站）+ 管理型（冗余/环网）都能进他的课与客户项目。",
+    "风险与注意": "市场小、预算有限；但他是本地技术意见领袖，先做「课程可用的样机+材料」。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "InterCom Computers 的 MikroTik 培训页（他本人是培训联系人）。",
+     "quote": "Predavači: MikroTIK sertifikovani treneri；Kontakt: Telefon za informacije: 035/8477-077, 063/600-324 - Goran Stojković；Email: mikrotik@intercom.rs；InterCom Computers, Zmaj Jovina 2, 35230 Ćuprija … office@intercom.rs；www.intercom.rs",
+     "url": "http://www.intercom.rs/sr/mikrotik-440"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "培训对象明确为 ISP/WISP 管理员、系统工程师、集成商。",
+     "quote": "MikroTik trening nastave je za ISP, WISP administratore, sistem inženjere, integratore, menadžere … upravljanju žičanim i bežičnim mrežama pomoću MikroTik RouterOS",
+     "url": "http://www.intercom.rs/sr/mikrotik-440"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：专长含 RouterBOARD 硬件维修与 WISP 运维。",
+     "quote": "★ 专长含 RouterBOARD 硬件维修 → 懂板级硬件；另有有线无线网络设计（PtP/PtMP/Mesh）、PPPoE、QoS、多路径故障切换、高可用、RIP/OSPF/BGP、WISP 运维",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "接入层升级：他给 ISP/WISP 与本地企业做网络，24 口 PoE++ 一次解决 AP、摄像头与用户口；强调端口隔离与看门狗（他会修硬件，最懂故障代价）。",
+     "question": "本地客户接入层现在用什么交换机、故障率如何？",
+     "proof": "功率实测 + 看门狗演示 + 可拆机看的做工说明（他懂板级）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（塔站/室外箱）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "WISP 塔站与室外箱体：宽温宽压、DIN、免配置；他做硬件维修，能直观判断防护与电源设计。",
+     "question": "塔站/室外箱体现在用什么、有没有因为电源/温度坏过？",
+     "proof": "宽温/宽压报告 + 电路保护说明 + 一台可拆检的样机。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（冗余/环网）+ 培训合作",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他讲课：环网冗余（ERPS）、VLAN、QoS 都是课件内容；把设备放进课堂，客户项目自然跟上。",
+     "question": "他愿不愿意在培训里加入我们的交换机实验？",
+     "proof": "课堂实验手册 + ERPS 实测 + 成本价实验机。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "http://www.intercom.rs/sr/mikrotik-440"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "Ćuprija 的 InterCom Computers 工程师兼 MikroTik 讲师（培训联系人就是他），会修 RouterBOARD、做 WISP 运维。3 步：24 口 PoE++（接入层+看门狗）→ 工业非管理 PoE（塔站/室外箱）→ 管理型 PoE（冗余环+课堂实验）。"
+  },
+  {
+   "code": "A-016",
+   "name": "Igor Stojković / Netis",
+   "country": "塞尔维亚",
+   "city": "Beograd",
+   "site": "netis.rs",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "贝尔格莱德的网络架构师（Netis），塞尔维亚 MikroTik 讲师（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）；电信背景，做企业级与大规模 WISP 工程支持。",
+    "产品线与在售品牌": "MikroTik/RouterOS 技术栈；未公开其他品牌。",
+    "目标行业与场景": "电信、企业网络、大规模 WISP：网络设计、OSPF/BGP、带宽管理、Hotspot、PPPoE、PtP、防火墙、VLAN、DNS、代理缓存。",
+    "团队与规模": "个人/小团队（讲师+架构师），决策链=本人。",
+    "决策链与对接人": "igor.stojkovic@netis.rs；+381 63 546 126。",
+    "技术与认证": "MTCNA+MTCRE（讲师资格覆盖 5 门课）；电信背景网络架构师。",
+    "采购与供应链信号": "按项目采购；讲师身份意味着他能把设备带进课堂与学员项目。",
+    "近期动态与线索": "netis.rs 本轮实测返回共享主机的「Shared IP」占位页（未取得业务内容）——域名当前没有可用站点；建议联系时确认现用邮箱/公司主体。",
+    "与我方契合点": "大规模 WISP 需要 24 口 PoE 接入、塔站工业款与管理型（VLAN/QinQ、冗余）；讲师身份可带来二次传播。",
+    "风险与注意": "网站无内容 → 先确认他当前的项目与采购方式；别把他当企业客户，按个人顾问节奏走。"
+   },
+   "facts": [
+    {
+     "dim": "近期动态与线索",
+     "text": "netis.rs 当前返回共享主机默认页，没有业务内容。",
+     "quote": "Shared IP — This IP is being shared among many domains. To view the domain you are looking for, simply enter the domain name in the location bar of your web browser.",
+     "url": "https://netis.rs/"
+    },
+    {
+     "dim": "业务定位",
+     "text": "既有记录：塞尔维亚 MikroTik 讲师，可教 5 门课；电信背景网络架构师。",
+     "quote": "★ 塞尔维亚 MikroTik 讲师（可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）；网络架构师，电信背景；企业级与大规模 WISP 工程支持",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "WISP/企业接入层：24 口 PoE++ 用于 AP、摄像头与用户接入；重点给功率预算与端口隔离的实测。",
+     "question": "他现在做的 WISP 接入层，单点多少用户、多少路监控？",
+     "proof": "功率实测 + 端口隔离/VLAN 示例配置 + 样机。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（基站/室外）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "基站与室外箱体：宽温宽压、免配置；配合 SFP 长距离回传。",
+     "question": "基站/室外箱体的供电与温度条件如何？",
+     "proof": "宽温报告 + SFP 兼容清单 + 现场箱体安装图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（大规模 WISP 的 VLAN/QinQ）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "大规模 WISP 要 QinQ/多 VLAN 隔离与环网；他教课也用得上。",
+     "question": "他给 WISP 做用户隔离时用 VLAN 还是 QinQ？",
+     "proof": "VLAN/QinQ 配置模板 + ERPS 实测 + 课堂可用的实验手册。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://netis.rs/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "贝尔格莱德网络架构师+塞尔维亚 MikroTik 讲师（电信背景，企业/大规模 WISP）；netis.rs 当前为共享主机占位页。3 步：24 口 PoE++（WISP 接入）→ 工业非管理 PoE（基站点）→ 管理型 PoE（VLAN/QinQ+环网+课堂）。"
+  },
+  {
+   "code": "A-017",
+   "name": "Sasa Blagojevic",
+   "country": "塞尔维亚",
+   "city": "Niš",
+   "site": "",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "塞尔维亚 Niš 的网络架构师/工程师，MikroTik 认证讲师（Trainer ID TR0507、Academy Trainer ACTR0658），与 3Net（塞尔维亚）和 All4Net（北马其顿）合作办 MTCNA 培训；为 IP ArchiTechs 的 Niš 实验室撰写 MikroTik CHR 100G 实测文章。",
+    "产品线与在售品牌": "MikroTik 生态为主（含 CHR 虚拟化、100G 级转发测试）；交换专长段落与 IP ArchiTechs/LinkTechs 体系一致（VLAN q-in-q、s/c tag、STP、LACP、GPON、二层传输与冗余）。",
+    "目标行业与场景": "运营商 WISP/Wireline、企业园区/分支、数据中心；服务含 IPTV 与实时视频。",
+    "团队与规模": "个人 + 培训合作网络（3Net/All4Net/IP ArchiTechs 生态）。",
+    "决策链与对接人": "LinkedIn：Sasa Blagojevic（DojoNetworks）；培训机构联系人（经 3Net/All4Net）；本轮未取得新邮箱（既有记录 sajberista@gmail.com 待复核）。",
+    "技术与认证": "MikroTik 认证（MTCNA/MTCRE/MTCWE/MTCUME/MTCINE/MTCIPv6E/MTCTCE 等，含 2018 年讲师资格）+ Cambium ePMP 培训；以英文/技术写作见长（stubarea51 文章）。",
+    "采购与供应链信号": "技术选型影响力大（培训+实验室+写作），可带来案例与二次传播；本人不一定是采购人，但能进入方案。",
+    "近期动态与线索": "2021 年撰写 MikroTik CHR 100G 全双工实测（实验室在 Niš，IP ArchiTechs 的开发实验室）；LinkedIn 认证清单显示其持续持证；与 3Net/All4Net 的培训合作仍在（3Net 站点有他的培训页）。",
+    "与我方契合点": "他关注转发性能与二层冗余：管理型 PoE（ERPS/LACP/q-in-q）与 10G 上行能对话；培训合作可把我们设备写成教学案例。",
+    "风险与注意": "技术门槛最高的一类客户：不要讲虚的，只给可复现实测与文档；联系人邮箱需先核实。"
+   },
+   "facts": [
+    {
+     "dim": "技术与认证",
+     "text": "LinkedIn 认证栏：多项 MikroTik 认证 + 讲师资格（TR0507 / ACTR0658）。",
+     "quote": "Mikrotik Trainer — Credential ID TR0507；Mikrotik Academy Trainer — Credential ID ACTR0658；MTCINE 1806INE2171｜MTCWE 1806WE2064｜MTCUME 1806UME2105｜MTCIPv6E 1806IPv6E2209；ePMP Training Cambium Networks",
+     "url": "https://www.linkedin.com/in/sasa-blagojevic-3ba87230/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "3Net 培训页显示他与 3Net/All4Net 合作办 MTCNA 培训。",
+     "quote": "Saša Blagojević sertifikovan Mikrotik trener, u saradnji sa kompanijom 3Net iz Srbije i All4Net iz Makedonije, održaće MTCNA (Mikrotik Certified Network Associate) obuku.",
+     "url": "http://3net.rs/tag/sasa-blagojevic/"
+    },
+    {
+     "dim": "与我方契合点",
+     "text": "为 IP ArchiTechs 的 Niš 实验室撰写 CHR 100G 实测（200G 聚合吞吐）。",
+     "quote": "Shout out to Sasa Blagojevic who wrote up an in-depth article on how IP Architechs pushed the MikroTik CHR to 100Gbps full duplex (200Gbps total throughput). All of the testing was performed at our new development lab in Nis, Serbia.",
+     "url": "https://www.linkedin.com/posts/ipa-kevin-myers_mikrotik-chr-breaking-the-100g-barrier-activity-6876079340556165120-VRiU/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "园区/运营商接入层：24 口 PoE++ + 4×10G 上行；先给硬指标（转发时延、每口功率、VLAN 数量、LACP 哈希），他会自己复测。",
+     "question": "他给园区/运营商方案时，接入层的关键门限是什么？",
+     "proof": "完整规格 + 可复现测试方法 + 样机（他自测后给结论）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（室外/站点机柜）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "运营商站点与室外机柜：宽温宽压、DIN、免配置；作为「现场盒」补他方案里的边缘点位。",
+     "question": "他的方案里边缘点位（塔下/路边柜）现在用什么设备？",
+     "proof": "宽温/宽压报告 + 安装图 + 两台测试机。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（q-in-q / ERPS / 10G）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-IS6328XG-4XS24GT-D（24G + 4×SFP+ + DI/DO/RS485）",
+     "angle": "他会 q-in-q、GPON、二层冗余：给 VLAN/q-in-q 模板 + ERPS 收敛实测 + 10G 光模块兼容表；若合适，把我们的设备做成他下一篇文章的案例。",
+     "question": "他愿不愿意用我们的设备做一次可公开的二层冗余/10G 实测？",
+     "proof": "测试机 + 测试脚本 + 承诺不干预结论（数据由他发布）。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.linkedin.com/in/sasa-blagojevic-3ba87230/"
+    ],
+    [
+     2,
+     "http://3net.rs/tag/sasa-blagojevic/"
+    ],
+    [
+     3,
+     "https://www.linkedin.com/posts/ipa-kevin-myers_mikrotik-chr-breaking-the-100g-barrier-activity-6876079340556165120-VRiU/"
+    ]
+   ],
+   "note": "Niš 网络架构师+MikroTik 讲师（TR0507/ACTR0658），与 3Net/All4Net 合作培训，为 IP ArchiTechs 实验室写 CHR 100G 实测；专注运营商/园区/DC 二层与冗余。3 步：24 口 PoE++（硬指标）→ 工业非管理 PoE（边缘机柜）→ 管理型 PoE（q-in-q/ERPS/10G 实测合作）。"
+  },
+  {
+   "code": "A-018",
+   "name": "Bernhard Kröll / Giganet",
+   "country": "奥地利",
+   "city": "Mayrhofen",
+   "site": "giganet.at",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "奥地利 Mayrhofen 的 Giganet（Bernhard Kröll）：23 年 MikroTik/RouterOS 经验的网络工程与 IT 服务商，从 SOHO 到企业网与数据中心（HC3 Scale Computing）。",
+    "产品线与在售品牌": "MikroTik/RouterOS 主线；数据中心托管与监控/备份/自动化服务。",
+    "目标行业与场景": "本地企业、酒店/旅游区（Mayrhofen 是滑雪度假区，酒店与民宿密集）、小型数据中心。",
+    "团队与规模": "个人/小公司，决策链=本人。",
+    "决策链与对接人": "bk@giganet.at；+43 5285 2022。",
+    "技术与认证": "MTCNA+MTCTCE+MTCIPv6E+**MTCSWE**；专长 switching/VLANs、BGP、防火墙、VPN（IPsec/WireGuard）、PPPoE、CAPsMAN、QoS、高可用与负载均衡、数据中心托管、监控、备份、自动化、网络审计。",
+    "采购与供应链信号": "按项目采购；本地旅游区旺季前后是采购窗口。",
+    "近期动态与线索": "giganet.at 本轮抓取返回 HTTP 500（站点故障）——需在首次联系时确认站点状态；既有记录（2026-09 之前）显示其业务与技能覆盖完整。",
+    "与我方契合点": "酒店/民宿场景 = AP + 摄像头 + 门禁全 PoE；他会 CAPsMAN 与 VLAN 分段，管理型 PoE 是自然升级。",
+    "风险与注意": "站点 500 → 可能是临时故障；沟通中以「他的方案语言」（VLAN/CAPsMAN/可用性）切入。"
+   },
+   "facts": [
+    {
+     "dim": "近期动态与线索",
+     "text": "giganet.at 本轮抓取 HTTP 500（服务器错误，未取得页面）。",
+     "quote": "（2026-09-28 fetch_page 返回 HTTP 500）",
+     "url": "https://www.giganet.at/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "既有记录：23 年经验、MTCSWE、从 SOHO 到企业与数据中心。",
+     "quote": "持 MTCSWE；23 年 MikroTik/RouterOS 经验；专长含 switching、VLANs、BGP、防火墙、隧道 VPN/IPsec/WireGuard、PPPoE、CAPsMAN、QoS 与队列、高可用与负载均衡、数据中心托管、监控、备份、自动化、网络审计",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "滑雪区酒店/民宿：AP+摄像头+门禁集中到 24 口 PoE++，VLAN 分段与看门狗；旺季前是采购窗口。",
+     "question": "他手上酒店/民宿客户的接入层是怎样的（口数/分段/功率）？",
+     "proof": "功率实测 + VLAN 模板 + 旺季前交期承诺。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（滑雪场/室外）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "雪场缆车站/户外监控箱：低温宽温是硬条件（-40°C 起），免配置、双电源。",
+     "question": "户外/缆车站点位现在的供电与温度条件是什么？",
+     "proof": "低温实测报告 + 户外箱体安装图 + 样品。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（高可用/环网）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他讲高可用与负载均衡：ERPS 环网 + 双上行 + VLAN 分段，把他现有设计模板升级。",
+     "question": "他的高可用方案现在是 STP 还是 ERPS？收敛要求多少？",
+     "proof": "ERPS 收敛实测 + VLAN 模板 + MIB 清单。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://www.giganet.at/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "note": "Mayrhofen 网络工程/IT 服务商（23 年 MikroTik 经验、MTCSWE）；本地旅游区酒店与小型 DC。giganet.at 本轮 HTTP 500。3 步：24 口 PoE++（酒店旺季）→ 工业非管理 PoE（雪场低温）→ 管理型 PoE（高可用/环网）。"
+  },
+  {
+   "code": "A-019",
+   "name": "Khalil / Aulaf",
+   "country": "奥地利",
+   "city": "",
+   "site": "aulaf.com",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "奥地利的 MikroTik 培训机构 Aulaf：远程授课（RouterBOARD/CHR 实验）、最后一天在维也纳（或协商城市）线下考试；同时承接企业网络咨询（服务行业含政府、教育、医疗）。",
+    "产品线与在售品牌": "MikroTik 全线课程（MTCNA→MTC10 共 10 证）+ 自有实验环境（RouterBOARD、CHR/GNS3）。",
+    "目标行业与场景": "培训学员（网络工程师/集成商）+ 政府/教育/医疗的多厂商网络项目。",
+    "团队与规模": "小型培训与咨询机构，决策链=本人（Khalil）。",
+    "决策链与对接人": "khalil@aulaf.com；admin@aulaf.com；+43 688 9131190。",
+    "技术与认证": "MikroTik 认证顾问（Routing/Switching 多方向）；课程价格公开：单证 €600–1100，MTC06 打包 €4000（15 天）、MTC10 全证 €6600（25 天）。",
+    "采购与供应链信号": "培训实验设备需求（多台交换机/路由器，反复配置与重置）；客户项目采购取决于他的咨询业务。",
+    "近期动态与线索": "官网 2026 年在线，课程与价格页完整（远程授课 + 维也纳考试）。",
+    "与我方契合点": "实验台需要多台可反复刷配置的交换机（24 口 PoE 做 VLAN/ERPS/PoE 实验）；他在课上讲交换 → 影响力路线；政府/教育/医疗项目需要管理型 PoE。",
+    "风险与注意": "采购量小但影响力大：以「实验机支持 + 案例合作」切入，别按大客户谈。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "培训模式与考试安排（远程授课 + 维也纳线下考试）。",
+     "quote": "Training is conducted remotely. Labs are conducted on RouterBOARDs and MikroTik CHR on GNS3. Exam is offered face-to-face on the last day in Vienna or any city in Europe if travel can be arranged.",
+     "url": "https://aulaf.com/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "课程体系覆盖全部 10 证与打包课程，价格公开。",
+     "quote": "MTCNA €800 (3 days)｜MTCRE €600｜MTCWE €700｜MTCTCE €700｜MTCUME €700｜MTCINE €1100｜MTCIPv6E €600｜MTCSE €800｜MTCSWE €800（Switching technologies, VLANs, STP, and managing MikroTik switches）｜MTCEWE €800；MTC06 €4000｜MTC10 €6600",
+     "url": "https://aulaf.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "官网联系：admin@aulaf.com。",
+     "quote": "Please email us at admin@aulaf.com for your training needs.",
+     "url": "https://aulaf.com/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "培训实验台：24 口 PoE++ 可以在一台设备上同时演示 VLAN、PoE 预算、看门狗、端口隔离；他的 MTCSWE 课程正好缺一台能讲 PoE 的交换机。",
+     "question": "他的 MTCSWE 实验台现在用什么交换机、缺哪些演示能力？",
+     "proof": "实验手册草案 + 成本价实验机 + 可公开的实测数据。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（实验室与上门课）",
+     "product": "LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "实验室/上门课需要便携耐用的设备：宽温、DIN、免配置，可做「现场箱」演示。",
+     "question": "他上门课时会带什么设备做演示？",
+     "proof": "宽温报告 + 便携箱方案 + 样品价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（课程+政府/教育项目）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）或 LT-S8528XG-4XS24GT（L3，PoE 版）",
+     "angle": "课程讲 ERPS/L3/VLAN + 他的政府/教育/医疗项目需要合规的管理型 PoE —— 教学与项目一套设备。",
+     "question": "他愿不愿意把我们的设备写进课程案例与项目方案？",
+     "proof": "ERPS 实测 + L3 配置模板 + 招标参数条目。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://aulaf.com/"
+    ]
+   ],
+   "note": "奥地利 MikroTik 培训机构（远程课+维也纳考试，10 证课程体系价格公开；服务含政府/教育/医疗咨询）。3 步：24 口 PoE++（实验台）→ 工业非管理 PoE（上门课/实验室）→ 管理型 PoE（课程+项目方案）。"
+  },
+  {
+   "code": "A-020",
+   "name": "Apostolas Georgios",
+   "country": "希腊",
+   "city": "Rodos（罗德岛）",
+   "site": "apostolas.gr",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "业务定位": "罗德岛的 ΑΠΟΣΤΟΛΑΣ（1995 年起、30+ 年）：网络（光纤、WiFi、结构化布线）设计安装支持 + 税控收银/无线点单系统 + 网站与 e-shop + Cloud ERP；自述有认证工程师团队、与顶级厂商合作。",
+    "产品线与在售品牌": "未公开品牌清单；技术栈以有线/无线网络、结构化布线与酒店/餐饮系统集成为主。",
+    "目标行业与场景": "罗德岛酒店、餐厅、咖啡馆、beach bar（无线点单/收银）+ 中小企业；酒店与餐饮是 PoE 接入（AP、摄像头、点单终端）的重度场景。",
+    "团队与规模": "本地小型集成商（30+ 年、本地化服务），决策链短。",
+    "决策链与对接人": "george@apostolas.gr；+30 22410 38089。",
+    "技术与认证": "自述「酒店 WiFi 网络专家」：从结构化布线规划到 RouterOS 编程；技能含 Routing、**Switching**、HotSpot、CAPsMAN、无线、VLAN、脚本、防火墙；I&C 系统工程师背景。",
+    "采购与供应链信号": "按项目采购，旺季（旅游季）前集中下单；对施工效率与设备稳定性敏感。",
+    "近期动态与线索": "官网 2026 年在线并更新（Cloud ERP、无线点单、网页服务等业务推广），强调 1995 年起、30+ 年本地经验。",
+    "与我方契合点": "酒店/餐厅项目要「一台交换机喂一层楼」：24 口 PoE++ + 看门狗 + 端口隔离；海边/室外点位需要工业宽温款；多酒店客户需要管理型统一模板。",
+    "风险与注意": "季节性明显（旺季前是窗口）；他会 RouterOS 脚本，能用 CLI 语言对话；先给可靠性与交期，再谈价格。"
+   },
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "1995 年成立、30+ 年，业务含网络（光纤/WiFi/结构化布线）、收银/无线点单、网站与 Cloud ERP。",
+     "quote": "Δίπλα σας, από το 1995 … περισσότερα από 30 χρόνια εμπειρίας και με έδρα τη Ρόδο … δίκτυα υψηλής ταχύτητας (Οπτικές Ίνες, WiFi) και δομημένη καλωδίωση；Ταμειακά Συστήματα και Ασύρματη Παραγγελειοληψία για εστιατόρια και ξενοδοχεία；Business Cloud ERP",
+     "url": "https://apostolas.gr/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "自述酒店 WiFi 专家：从布线规划到 RouterOS 编程；有认证工程师。",
+     "quote": "Πιστοποιημένη Τεχνογνωσία — Συνεργαζόμαστε με κορυφαίους κατασκευαστές και διαθέτουμε πιστοποιημένους μηχανικούς",
+     "url": "https://apostolas.gr/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "服务对象集中在酒店/餐饮/零售（点单与收银场景）。",
+     "quote": "Ασύρματη Παραγγελειοληψία … (ξενοδοχεία, εστιατόρια, καφέ, beach bars)",
+     "url": "https://apostolas.gr/"
+    }
+   ],
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE 入门款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "酒店一层楼/一栋楼：AP + 摄像头 + 点单终端全部 PoE，24 口一台搞定；强调看门狗（旺季不中断）与端口隔离（客人网段与设备网段分开）。",
+     "question": "他一个典型酒店项目：多少间房、多少 AP/摄像头、PoE 口数怎么算？",
+     "proof": "功率与口数对照表 + 看门狗演示 + 旺季前交期承诺。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（海边/室外点位）",
+     "product": "LT-IS6306G-2GX4GT PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "罗德岛海边环境：泳池吧、沙滩区、室外走廊的弱电箱——宽温宽压、防潮防腐蚀设计（箱体方案）+ 免配置。",
+     "question": "室外点位现在的箱体防护与供电方案是什么？",
+     "proof": "宽温/宽压报告 + IP 箱体建议图 + 样品。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（多酒店统一模板）",
+     "product": "LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他服务多个酒店：统一 VLAN（客人/办公/摄像头/点单）+ 环网冗余 + 远程管理，一次做模板、处处复用。",
+     "question": "他手上的酒店客户之间，能不能用同一套交换配置模板？",
+     "proof": "VLAN 模板 + ERPS 实测 + 远程管理（SNMP/MIB）清单。"
+    }
+   ],
+   "sources": [
+    [
+     1,
+     "https://apostolas.gr/"
+    ]
+   ],
+   "note": "罗德岛本地集成商（1995 起、30+ 年）：网络/光纤/WiFi/布线 + 酒店餐饮收银与点单系统；自述酒店 WiFi 专家、会 RouterOS 编程。3 步：24 口 PoE++（酒店楼层）→ 工业非管理 PoE（海边/室外箱）→ 管理型 PoE（多酒店统一模板）。"
+  }
+ ]
+}

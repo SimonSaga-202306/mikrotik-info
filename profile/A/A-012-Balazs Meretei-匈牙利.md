@@ -66,7 +66,61 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 
 组播出问题是满屏花屏，客户零容忍；必须先小规模（一个楼层）验证再铺开；要确认他的组播源和播放器兼容性
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第1批.json`。
+
+- **业务定位**：匈牙利（Kecskemét）独立网络工程师，MikroTik 认证顾问；个人站点是技术备忘博客（RouterOS/IPsec/Cisco 现场笔记），说明是长期在项目上的实战派。
+- **产品线与在售品牌**：以 MikroTik/RouterOS 生态为主，另有 Cisco/ASA 现场经验（博客内容）。
+- **目标行业与场景**：ISP 网络（ADSL/DOCSIS/ETTH/FTTH/WISP）+ 大规模组播（IPTV、视频监控系统）+ RADIUS 认证计费系统（既有记录）。
+- **团队与规模**：个人/小团队，决策链=本人。
+- **决策链与对接人**：balazs@meretei.hu；+36 30 999 9900。
+- **技术与认证**：MTCNA+MTCRE+MTCWE+MTCSE+**MTCSWE**（交换）；博客显示其关注 IPsec、证书、NTP/时区、Cisco 配置等细节。
+- **采购与供应链信号**：按项目采购，个人决策；组播/IPTV 项目对 IGMP snooping、组播 VLAN、上行带宽要求高 —— 换设备试错成本高，需要样品测试。
+- **近期动态与线索**：博客长期更新（最近含协议号速查、IPsec 证书生成、Cisco NTP 时区备忘等），无公司官网。
+- **与我方契合点**：监控与 IPTV 组播是他明写的场景：24 口 PoE（摄像头/AP）+ 组播优化（IGMP snooping、组播 VLAN）+ 环网冗余，正好对上我们的管理型 PoE 与工业线。
+- **风险与注意**：他是技术型个人客户：先聊组播/交换细节建立信任，价格话题放后面。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**个人站点为技术备忘博客（RouterOS/IPsec/Cisco 实战笔记）。
+  > Gyakran kell, ha IPsec routereket bántunk …；Nagyon unom, hogy a switchek/routerek órája … Switch(config)#ntp server 148.6.0.1 / clock timezone CET 1
+  > 来源：https://meretei.hu/
+- **【目标行业与场景】**既有记录：ISP 网络 + 大规模组播（IPTV、视频监控）+ RADIUS/计费。
+  > 专长 ISP 网络（ADSL/DOCSIS/ETTH/FTTH/WISP）+ 大规模组播网络（IPTV、视频监控系统）+ RADIUS 认证计费系统的设计实施
+  > 来源：https://mikrotik.com/consultants
+- **【技术与认证】**持 MTCSWE（交换）与多证，博客体现 Cisco 现场经验。
+  > MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE
+  > 来源：https://mikrotik.com/consultants
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：他在做视频监控与 IPTV：24 口 PoE++ 喂摄像头/AP，重点讲组播表现（IGMP snooping 行为、组播 VLAN）与功率预算。
+- **要问的问题**：他现在监控/IPVT 项目里组播怎么做（snooping 开关、组播 VLAN、上行带宽）？
+- **随附证明**：组播测试（不泛洪验证）+ 功率实测 + 30 天样机。
+
+### 第 2 次跟进 · 工业级非管理 PoE（WISP/室外）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：WISP 塔站与室外箱体：宽温宽压、DIN、免配置；配 SFP 做长距离回传。
+- **要问的问题**：他手上的 WISP 站点的供电与箱体条件如何？
+- **随附证明**：宽温/宽压报告 + SFP 兼容清单 + 现场接线一页图。
+
+### 第 3 次跟进 · 管理型 PoE（组播+冗余）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：管理型：IGMP snooping/querier、组播 VLAN、ERPS 环网 —— 直接对应他的 IPTV/监控规模。
+- **要问的问题**：规模上去后他打算怎么解决组播泛洪与链路冗余？
+- **随附证明**：组播配置模板 + ERPS 实测 + MIB 清单。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -77,7 +131,7 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：IGMP / multicast behaviour on your IPTV builds
 
@@ -102,7 +156,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

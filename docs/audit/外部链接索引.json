@@ -10,6 +10,24 @@
     ]
   },
   {
+    "url": "http://3net.rs/tag/sasa-blagojevic/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1236"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1278"
+      },
+      {
+        "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
     "url": "http://archive.org/wayback/available?url=unifyingsolution.com",
     "http_checked": false,
     "occurrences": [
@@ -211,7 +229,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L599"
+        "locator": "L653"
       }
     ]
   },
@@ -365,7 +383,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L775"
+        "locator": "L829"
       }
     ]
   },
@@ -450,6 +468,32 @@
     ]
   },
   {
+    "url": "http://www.intercom.rs/sr/mikrotik-440",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1082"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1088"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1126"
+      },
+      {
+        "path": "profile/A/A-015-Goran Stojkovic-塞尔维亚.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-015-Goran Stojkovic-塞尔维亚.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
     "url": "http://www.ittrust.at",
     "http_checked": false,
     "occurrences": [
@@ -485,7 +529,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L643"
+        "locator": "L697"
       }
     ]
   },
@@ -551,7 +595,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L773"
+        "locator": "L827"
       }
     ]
   },
@@ -1053,7 +1097,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L598"
+        "locator": "L652"
       }
     ]
   },
@@ -1522,6 +1566,40 @@
     ]
   },
   {
+    "url": "https://apostolas.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1455"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1461"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1467"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1499"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
     "url": "https://archous.tech/",
     "http_checked": false,
     "occurrences": [
@@ -1634,12 +1712,40 @@
         "locator": "反向信号名单!Q757"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1382"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1388"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1394"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1426"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L17"
       },
       {
         "path": "docs/audit/2026-09-27_A240-A259联络核验.md",
         "locator": "L16"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L89"
       },
       {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
@@ -1717,7 +1823,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L736"
+        "locator": "L790"
       }
     ]
   },
@@ -2259,7 +2365,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L642"
+        "locator": "L696"
       }
     ]
   },
@@ -2517,7 +2623,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L696"
+        "locator": "L750"
       }
     ]
   },
@@ -2658,6 +2764,32 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第2批.json",
         "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://commanderit.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L622"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L628"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L666"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L92"
       }
     ]
   },
@@ -3888,6 +4020,24 @@
     ]
   },
   {
+    "url": "https://educationhmo.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L324"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L362"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://edv-partner.com/ueber-uns",
     "http_checked": false,
     "occurrences": [
@@ -3949,7 +4099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L694"
+        "locator": "L748"
       }
     ]
   },
@@ -4383,7 +4533,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1107"
+        "locator": "L1161"
       }
     ]
   },
@@ -4393,7 +4543,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1107"
+        "locator": "L1161"
       }
     ]
   },
@@ -4857,7 +5007,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L639"
+        "locator": "L693"
       }
     ]
   },
@@ -5140,6 +5290,24 @@
     ]
   },
   {
+    "url": "https://github.com/gajdipajti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1001"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1045"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
     "url": "https://goodstore.lv/",
     "http_checked": false,
     "occurrences": [
@@ -5181,7 +5349,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L562"
+        "locator": "L616"
       }
     ]
   },
@@ -5807,7 +5975,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L778"
+        "locator": "L832"
       }
     ]
   },
@@ -6011,7 +6179,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L565"
+        "locator": "L619"
       }
     ]
   },
@@ -6245,7 +6413,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L565"
+        "locator": "L619"
       }
     ]
   },
@@ -6286,6 +6454,32 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第15批.json",
         "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://ironsentinel.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L196"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L228"
+      },
+      {
+        "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
+        "locator": "L93"
       }
     ]
   },
@@ -7376,6 +7570,50 @@
     ]
   },
   {
+    "url": "https://magentanetworks.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L395"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L401"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L439"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://magentanetworks.ca/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L407"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L443"
+      },
+      {
+        "path": "profile/A/A-006-Amir Seifi - Magenta Networks-加拿大.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://magit.lt",
     "http_checked": false,
     "occurrences": [
@@ -7542,6 +7780,24 @@
     ]
   },
   {
+    "url": "https://meretei.hu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L847"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L891"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
     "url": "https://miatlantic.com/",
     "http_checked": false,
     "occurrences": [
@@ -7583,7 +7839,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L738"
+        "locator": "L792"
       }
     ]
   },
@@ -7644,6 +7900,160 @@
       {
         "path": "MikroTik芯片及价格抓取.py",
         "locator": "L258"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L257"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L263"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L295"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L330"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L366"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L670"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L711"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L747"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L782"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L818"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L853"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L859"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L895"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L936"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L972"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1013"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1053"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1094"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1130"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1165"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1201"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1317"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1353"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-009-MohammadMahdi Raeesi - Commander IT-加拿大.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-015-Goran Stojkovic-塞尔维亚.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L93"
       }
     ]
   },
@@ -12664,6 +13074,32 @@
     ]
   },
   {
+    "url": "https://mindenamimikrotik.hu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L924"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L930"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L968"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://mindenamimikrotik.hu/kapcsolat/",
     "http_checked": false,
     "occurrences": [
@@ -13333,7 +13769,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L735"
+        "locator": "L789"
       }
     ]
   },
@@ -13394,6 +13830,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-831/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://netis.rs/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1159"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1197"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L90"
       }
     ]
   },
@@ -13635,7 +14089,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L646"
+        "locator": "L700"
       }
     ]
   },
@@ -14702,6 +15156,48 @@
     ]
   },
   {
+    "url": "https://pumait.dk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L50"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-001-Puma Solutions ApS-丹麦.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://pymatek.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -14753,7 +15249,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L641"
+        "locator": "L695"
       }
     ]
   },
@@ -17466,6 +17962,48 @@
     ]
   },
   {
+    "url": "https://unifoss.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L123"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L129"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L161"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-002-Troels E. Normolle - UNIFOSS-丹麦.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=134180",
     "http_checked": false,
     "occurrences": [
@@ -19816,6 +20354,24 @@
     ]
   },
   {
+    "url": "https://www.alphasonic.hu/esemeny/mikrotik-gyakorlonap/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1007"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1049"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://www.alternetivo.cz/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -20001,7 +20557,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L566"
+        "locator": "L620"
       }
     ]
   },
@@ -20537,7 +21093,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L644"
+        "locator": "L698"
       }
     ]
   },
@@ -21311,7 +21867,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L736"
+        "locator": "L790"
       }
     ]
   },
@@ -21492,6 +22048,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-774/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cegepat.qc.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L776"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L814"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L90"
       }
     ]
   },
@@ -22619,7 +23193,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L596"
+        "locator": "L650"
       }
     ]
   },
@@ -23495,7 +24069,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L737"
+        "locator": "L791"
       }
     ]
   },
@@ -23787,7 +24361,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L698"
+        "locator": "L752"
       }
     ]
   },
@@ -24673,7 +25247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L693"
+        "locator": "L747"
       }
     ]
   },
@@ -26154,6 +26728,24 @@
     ]
   },
   {
+    "url": "https://www.giganet.at/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1311"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1349"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
     "url": "https://www.gorettitechnologicalsystems.it",
     "http_checked": false,
     "occurrences": [
@@ -26902,6 +27494,50 @@
     ]
   },
   {
+    "url": "https://www.indsol.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L484"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L516"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.indsol.com/product-categories",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L472"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L478"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L520"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-007-Industrial Solutions Inc-加拿大.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.inducio-services.net",
     "http_checked": false,
     "occurrences": [
@@ -27127,7 +27763,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L699"
+        "locator": "L753"
       }
     ]
   },
@@ -27323,7 +27959,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L594"
+        "locator": "L648"
       }
     ]
   },
@@ -27831,7 +28467,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L774"
+        "locator": "L828"
       }
     ]
   },
@@ -28047,7 +28683,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L595"
+        "locator": "L649"
       }
     ]
   },
@@ -28607,7 +29243,7 @@
       },
       {
         "path": "docs/requirements/用户要求总账.md",
-        "locator": "L826"
+        "locator": "L828"
       },
       {
         "path": "死路与死链备案_2026-09.md",
@@ -29466,6 +30102,42 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/sasa-blagojevic-3ba87230/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1230"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1274"
+      },
+      {
+        "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/ipa-kevin-myers_mikrotik-chr-breaking-the-100g-barrier-activity-6876079340556165120-VRiU/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1242"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L1282"
+      },
+      {
+        "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://www.lo0.es",
     "http_checked": false,
     "occurrences": [
@@ -30011,7 +30683,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L695"
+        "locator": "L749"
       }
     ]
   },
@@ -30573,7 +31245,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L737"
+        "locator": "L791"
       }
     ]
   },
@@ -30849,7 +31521,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L700"
+        "locator": "L754"
       }
     ]
   },
@@ -30915,7 +31587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L566"
+        "locator": "L620"
       }
     ]
   },
@@ -32037,7 +32709,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L647"
+        "locator": "L701"
       }
     ]
   },
@@ -32493,7 +33165,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L697"
+        "locator": "L751"
       }
     ]
   },
@@ -33031,7 +33703,7 @@
       },
       {
         "path": "docs/requirements/用户要求总账.md",
-        "locator": "L690"
+        "locator": "L692"
       }
     ]
   },
@@ -33075,7 +33747,7 @@
       },
       {
         "path": "docs/requirements/用户要求总账.md",
-        "locator": "L727"
+        "locator": "L729"
       }
     ]
   },
@@ -33205,7 +33877,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L777"
+        "locator": "L831"
       }
     ]
   },
@@ -33289,7 +33961,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L645"
+        "locator": "L699"
       }
     ]
   },
@@ -35720,6 +36392,40 @@
     ]
   },
   {
+    "url": "https://www.tishco.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L549"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L555"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L561"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L593"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-008-Jody Lemoine - Tishco Networks-加拿大.md",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
     "url": "https://www.tnet.it",
     "http_checked": false,
     "occurrences": [
@@ -36105,7 +36811,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L640"
+        "locator": "L694"
       }
     ]
   },
@@ -36625,7 +37331,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L776"
+        "locator": "L830"
       }
     ]
   },
@@ -36965,7 +37671,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L597"
+        "locator": "L651"
       }
     ]
   },
@@ -37220,6 +37926,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-358/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wirelessnetware.ca/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L699"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L705"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第1批.json",
+        "locator": "L743"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-010-Wireless Netware-加拿大.md",
+        "locator": "L85"
       }
     ]
   },
