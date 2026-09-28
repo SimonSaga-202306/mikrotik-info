@@ -335,6 +335,17 @@ OVERRIDE = {
  'A-188': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'A.G. informatica 罗马 25 牌宽分销：私营安防随单（$165 锚点一致）；MEPA 公共守界'},
  'A-189': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Agomir Lecco 三柱商：Sistemi 支线随单（$165 锚点一致）'},
  'A-190': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Asit 弱电分销：Networking BU value 新线+rackAsit 白牌 OEM 通道（$165 锚点一致）'},
+ # ── R56 批 20（A-191..A-200 深挖 2026-09-28）──
+ 'A-191': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Coel 弱电分销：Allied 实版旁 value 二线+Coel Cables 贴牌双通道（$165 锚点一致）'},
+ 'A-192': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Computer Time VAR+SI：企业段（$165 锚点一致）；MEPA/学校守界'},
+ 'A-193': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Connect ICS 普利亚：Yeastar 同盟视频门禁随单（$165 锚点一致）'},
+ 'A-194': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'CTC Lecco OA/软件主线：硬件支线窄位低优先（$165 锚点一致）'},
+ 'A-195': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Emilia Informatica：Extreme 旁二供位窄位（$165 锚点一致）；Giovanni Sanna BU 具名'},
+ 'A-196': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Evergreen1 目录电商（Esprinet 前端）：cablaggio 类目旁窄位低优先（$165 锚点一致）；MEPA 守界'},
+ 'A-197': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'FarPoint 摩德纳：布线项目 value 位（$165 锚点一致）；Cisco 在位'},
+ 'A-198': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Fiore 弱电分销巨头（自产 Fiore Rack）：networking 支线新线+白牌 ODM（$165 锚点一致）'},
+ 'A-199': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Gecopra TLC 工程承包：商业段随单（$165 锚点一致）；GPS Train 铁路谱系守界'},
+ 'A-200': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'GIS 安防 SI 集团 100 人：GDO/工业物流私段（$165 锚点一致）；公共/基建两段守界'},
 }
 
 out = {}

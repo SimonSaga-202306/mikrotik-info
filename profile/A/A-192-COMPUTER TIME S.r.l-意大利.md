@@ -126,6 +126,22 @@ updated: 2026-09-28
   > Siamo tra i primi in Italia a proporre ed installare soluzioni… alle scuole（Educational/PON）‖ presente sul MEPA partecipando attivamente alle necessità di fornitura da parte della Pubblica Amministrazione
   > 来源：https://ctime.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：1995 VAR+SI（MEPA 在册守界，自装机模式）
+- **②芯片/型号**：ASUS/自装
+- **③KP 深挖**：ctime@
+- **④Saga 对标**：企业段 value 件（边界句+OEM 友善）
+- **⑤在乎与偏好**：诚实文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“presente sul MEPA e sulle piattaforme di e-Procurement partecipando attivamente alle necessità della Pubblica Amministrazione…VAR e System Integrator…nata nel 1995”
+  > “presente sul MEPA e sulle piattaforme di e-Procurement partecipando attivamente alle necessità della Pubblica Amministrazione…VAR e System Integrator…nata nel 1995”
+  > 来源：https://ctime.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：友善
+- **W**：墙
+- **O**：企业
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -176,21 +192,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi COMPUTER,
+Hi Computer Time team,
 
-I came across COMPUTER TIME S.r.l. - 集成商/代理（Allied Telesis）.
+As a VAR building custom-configured machines since 1995, you already work without brand superstition - the right component for the right job. (For clarity: your MEPA and school engagements stay fully out of scope here; this concerns your private business customers only.)
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with honest documentation. Reference: $165 USD EXW - the same logic as your custom builds: specification first, badge second.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your enterprise networking projects, which switch brand holds the PoE access layer today - and would a documented component-first alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

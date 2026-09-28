@@ -126,6 +126,22 @@ updated: 2026-09-28
   > Aperti dal Lunedì al Venerdì dalle ore 9:00 alle 17:30 · 0832.454561 · Assistenza Tecnica (Apri un Ticket) helpdesk.connect-ics.it
   > 来源：https://www.connect-ics.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：普利亚 SMB 全谱（Yeastar/视频门禁随单）
+- **②芯片/型号**：Yeastar/HPE 生态
+- **③KP 深挖**：info@
+- **④Saga 对标**：随单 value 件
+- **⑤在乎与偏好**：意大利语文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
+  > “Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
+  > 来源：https://www.connect-ics.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：覆盖
+- **W**：体量
+- **O**：随单
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -180,21 +196,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi CONNECT,
+Hi Connect ICS team,
 
-I came across CONNECT ICS S.R.L. - 集成商/代理（Allied Telesis）.
+From LAN cabling to ScanFACE access control to office furniture - your SMB projects are full-office installs, and every camera and badge reader sits on a PoE switch upstream.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the network closets inside your Puglia installations.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: in your networking and videosorveglianza projects, which switch brand powers the PoE endpoints today - and would a documented value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

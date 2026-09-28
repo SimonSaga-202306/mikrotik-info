@@ -125,6 +125,22 @@ updated: 2026-09-28
   > esempio di ciò è il recente deposito di un brevetto per la realizzazione di un sistema GPS Train e Locator.
   > 来源：https://gecopra.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：1988 TLC 工程承包（铁路谱系守界；全国六点）
+- **②芯片/型号**：工程级
+- **③KP 深挖**：info@
+- **④Saga 对标**：商业工程随单 value 件（铁路守界）
+- **⑤在乎与偏好**：工程级文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
+  > “nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
+  > 来源：https://gecopra.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：滚动
+- **W**：墙
+- **O**：随单
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi GECOPRA,
+Hi Gecopra team,
 
-I came across GECOPRA SRL - 集成商/代理（Allied Telesis）.
+Five generations of engineering, six offices from Naples to Milan, and a patented GPS Train locator on the shelf - your TLC and videosorveglianza work covers Italy end to end. (For clarity: this note concerns your commercial engagements only; any railway-spectrum projects stay fully out of scope.)
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full engineering documentation. Reference: $165 USD EXW - a value unit for the access layer inside your commercial FO and radio projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your commercial TLC and surveillance projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
