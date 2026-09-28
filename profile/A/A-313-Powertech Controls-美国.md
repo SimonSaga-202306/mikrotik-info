@@ -58,7 +58,61 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 
 工业客户认硬认证（CE / UL / EN50155 / 海事 DNV），缺一项直接出局；温度范围、MTBF、EMC 等级必须给书面数据，不能口头说；现场一旦上线几乎不换，所以第一次必须测通，否则永远没第二次
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第16批.json`。
+
+- **业务定位**：长岛 35 年电气自动化分销（**Ethernet Switches 类目原本就在**+Hirschmann 授权）——交换类目扩品直接对口。
+- **产品线与在售品牌**：电气/保护/机柜/线缆/工控/驱动+RFQ 电商。
+- **目标行业与场景**：美东北盘柜厂/OEM/集成商客群。
+- **团队与规模**：中型三分支分销。
+- **决策链与对接人**：info@powertechcontrols.com（联系页，CSV 9-27）。
+- **技术与认证**：Hirschmann 授权（CSV）。
+- **采购与供应链信号**：**交换类目扩品逻辑**：Hirschmann 之外的工业非管理宽温价位档与 24 口商业件的 RFQ 上架。
+- **近期动态与线索**：RFQ 询价制=B2B 平台型，上 SKU 资料包最合拍。
+- **与我方契合点**：工业宽温件 RFQ SKU 包+24 口商业款。
+- **风险与注意**：Hirschmann 锚位不碰；其客群是盘柜厂——资料带 DIN 轨/宽温/认证 CE/UL 口径。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**纽约长岛 1991 年自动化与电气元件分销（Hirschmann 授权）：RFQ 购物车制电商+三地分支（Ronkonkoma/Albany NY/Fitchburg MA）。
+  > （CSV 2026-09-27 记录）About 页自述 1991 年起分销自动化控制与元件，另有 Albany NY/Fitchburg MA 分支；Hirschmann 授权分销商
+  > 来源：https://www.powertechcontrols.com/
+- **【产品线与在售品牌】**类目树含 **Switches > Ethernet Switches** 与 Industrial Control > Networking and Communication；另机柜（Rittal 定制配置器直通）、线缆/工业控制/电机驱动——**以太交换类目原本就在**。
+  > Switches — Ethernet Switches ‖ Industrial Control — Networking and Communication ‖ （定制配置器）Rittal enclosure configuration tool
+  > 来源：https://www.powertechcontrols.com/
+- **【决策链与对接人】**info@powertechcontrols.com 官网联系页正文+1-800-938-6678（CSV 9-27 official-company）。
+  > （CSV 2026-09-27 记录）官网联系页给 info@powertechcontrols.com、1-800-938-6678 与 Ronkonkoma NY；official-company
+  > 来源：https://www.powertechcontrols.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · Ethernet 类目 RFQ 上架一页
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **切入点**：英语一封：Ethernet Switches 类目下 Hirschmann 价位档之外的工业宽温件 RFQ 上架提案（SKU 资料包+DIN 轨/宽温/认证）。
+- **要问的问题**：Ethernet 类目有开价位档供应商位吗？
+- **随附证明**：SKU 资料包+梯价表。
+
+### 第 2 次跟进 · 24 口商业款
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：盘柜厂客户的商用大口数 PoE 接入款。
+- **要问的问题**：客户要 24 口商业 PoE 时报什么？
+- **随附证明**：一页报价（英）。
+
+### 第 3 次跟进 · 条款收口
+
+- **推什么**：—（条款）
+- **切入点**：梯价/中性发货条款收口；不回即冻结。
+- **要问的问题**：（无需回）条款留档。
+- **随附证明**：条款一页（英）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@ DIN 导轨安装、-40~75℃ 宽温、宽压输入、双电源冗余、ERPS 环�
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Ring convergence + -40 to 75C switches
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

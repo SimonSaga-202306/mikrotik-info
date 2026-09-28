@@ -630,6 +630,18 @@
         "locator": "反向信号名单!Q1000"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L675"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L683"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L689"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A300-A319.json",
         "locator": "L185"
       },
@@ -640,6 +652,14 @@
       {
         "path": "profile/A/A-310-IT-TRUST Network Solution-奥地利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-310-IT-TRUST Network Solution-奥地利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-310-IT-TRUST Network Solution-奥地利.md",
+        "locator": "L69"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -2974,6 +2994,40 @@
     ]
   },
   {
+    "url": "https://bluebearsit.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L464"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L470"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L476"
+      },
+      {
+        "path": "profile/A/A-307-BlueBearsIT-法国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-307-BlueBearsIT-法国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-307-BlueBearsIT-法国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://bluebearsit.com/contact/",
     "http_checked": false,
     "occurrences": [
@@ -4522,6 +4576,40 @@
       {
         "path": "profile/A/A-079-Jaime Fuentes-西班牙.md",
         "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://deinta.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1247"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1255"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1261"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1267"
+      },
+      {
+        "path": "profile/A/A-318-DeInta-西班牙.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-318-DeInta-西班牙.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-318-DeInta-西班牙.md",
+        "locator": "L72"
       }
     ]
   },
@@ -17502,6 +17590,32 @@
     ]
   },
   {
+    "url": "https://ningaloo.cloud/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L961"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L969"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L975"
+      },
+      {
+        "path": "profile/A/A-314-Rogier Banis-荷兰.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/A/A-314-Rogier Banis-荷兰.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://ningaloo.cloud/contact/",
     "http_checked": false,
     "occurrences": [
@@ -18972,6 +19086,40 @@
     ]
   },
   {
+    "url": "https://quadratek.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L310"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L318"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L324"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L330"
+      },
+      {
+        "path": "profile/A/A-305-Quadratek-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-305-Quadratek-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-305-Quadratek-英国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://quadratek.net/contact-quadratek/",
     "http_checked": false,
     "occurrences": [
@@ -20086,6 +20234,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-799/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://sheaelectricllc.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1174"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1182"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1188"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1194"
+      },
+      {
+        "path": "profile/A/A-317-Shea Electric-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-317-Shea Electric-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-317-Shea Electric-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -21468,6 +21650,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-990/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://store.nexus.com.pe/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1320"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1328"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1334"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1340"
+      },
+      {
+        "path": "profile/A/A-319-Nexus Technology-西班牙.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-319-Nexus Technology-西班牙.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-319-Nexus Technology-西班牙.md",
+        "locator": "L72"
       }
     ]
   },
@@ -23776,6 +23992,40 @@
     ]
   },
   {
+    "url": "https://www.3tec.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/A/A-301-3TEC-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-301-3TEC-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-301-3TEC-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.3tec.co.uk/contact-us",
     "http_checked": false,
     "occurrences": [
@@ -24236,6 +24486,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-868/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.accyotta.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L91"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "profile/A/A-302-ACC Yotta-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-302-ACC Yotta-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-302-ACC Yotta-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -26422,6 +26706,40 @@
       {
         "path": "tests/test_repository.py",
         "locator": "L716"
+      }
+    ]
+  },
+  {
+    "url": "https://www.atlantikelektronik.com/en",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L815"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L823"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L829"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L835"
+      },
+      {
+        "path": "profile/A/A-312-Atlantik Elektronik-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-312-Atlantik Elektronik-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-312-Atlantik Elektronik-德国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -29938,6 +30256,40 @@
     ]
   },
   {
+    "url": "https://www.davisulmer.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1101"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1109"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1115"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1121"
+      },
+      {
+        "path": "profile/A/A-316-Davis Ulmer Family of Companies-美国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-316-Davis Ulmer Family of Companies-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-316-Davis Ulmer Family of Companies-美国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.davisulmer.com/contact-us/",
     "http_checked": false,
     "occurrences": [
@@ -31690,6 +32042,40 @@
     ]
   },
   {
+    "url": "https://www.euroele.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L237"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L245"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L251"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L257"
+      },
+      {
+        "path": "profile/A/A-304-European Electronique-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-304-European Electronique-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-304-European Electronique-英国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.euroele.com/2024/11/20/european-electronique-at-the-schools-and-academies-show-pioneering-educations-digital-future/",
     "http_checked": false,
     "occurrences": [
@@ -31854,6 +32240,22 @@
         "locator": "反向信号名单!Q852"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1393"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1401"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1407"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1413"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A320-A339.json",
         "locator": "L18"
       },
@@ -31864,6 +32266,18 @@
       {
         "path": "profile/A/A-320-Evelem-法国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-320-Evelem-法国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-320-Evelem-法国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-320-Evelem-法国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -32642,6 +33056,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-751/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fikesmedia.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L742"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L750"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L756"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L762"
+      },
+      {
+        "path": "profile/A/A-311-Christopher Fikes-美国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-311-Christopher Fikes-美国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-311-Christopher Fikes-美国.md",
+        "locator": "L92"
       }
     ]
   },
@@ -33584,6 +34032,22 @@
         "locator": "反向信号名单!Q966"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L602"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L610"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L616"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L622"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A300-A319.json",
         "locator": "L168"
       },
@@ -33594,6 +34058,18 @@
       {
         "path": "profile/A/A-309-General Computer Italia S.p.A-意大利.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-309-General Computer Italia S.p.A-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-309-General Computer Italia S.p.A-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-309-General Computer Italia S.p.A-意大利.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -34360,6 +34836,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-861/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.holkerit.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L383"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L391"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L397"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L403"
+      },
+      {
+        "path": "profile/A/A-306-Holker IT-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-306-Holker IT-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-306-Holker IT-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -36116,6 +36626,22 @@
         "locator": "反向信号名单!Q946"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L529"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L537"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L543"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L549"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A300-A319.json",
         "locator": "L151"
       },
@@ -36126,6 +36652,18 @@
       {
         "path": "profile/A/A-308-ITNI-法国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-308-ITNI-法国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-308-ITNI-法国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-308-ITNI-法国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -41336,6 +41874,40 @@
     ]
   },
   {
+    "url": "https://www.nicecloud.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1028"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1036"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1042"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L1048"
+      },
+      {
+        "path": "profile/A/A-315-Roelof Daleboudt-荷兰.md",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/A/A-315-Roelof Daleboudt-荷兰.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/A/A-315-Roelof Daleboudt-荷兰.md",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
     "url": "https://www.nlogic.no",
     "http_checked": false,
     "occurrences": [
@@ -42872,6 +43444,40 @@
       {
         "path": "tests/test_repository.py",
         "locator": "L717"
+      }
+    ]
+  },
+  {
+    "url": "https://www.powertechcontrols.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L888"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L896"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L902"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L908"
+      },
+      {
+        "path": "profile/A/A-313-Powertech Controls-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-313-Powertech Controls-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-313-Powertech Controls-美国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -46546,6 +47152,40 @@
       {
         "path": "tests/test_repository.py",
         "locator": "L712"
+      }
+    ]
+  },
+  {
+    "url": "https://www.trusol.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L178"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第16批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "profile/A/A-303-Electracom-Trusol-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-303-Electracom-Trusol-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-303-Electracom-Trusol-英国.md",
+        "locator": "L72"
       }
     ]
   },
