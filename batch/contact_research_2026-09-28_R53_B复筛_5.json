@@ -1,0 +1,178 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第5批（土耳其/塞尔维亚行）。判据同前。",
+ "records": [
+  {
+   "code": "B-091",
+   "decision": "pending",
+   "site": "bilisimyol.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】站点抓取失败（Failed to fetch），本轮无法核验 → 待重试；暂维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://bilisimyol.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-092",
+   "decision": "pending",
+   "site": "cooltechtrading.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Cool Tech Trading（İzmir）为 MikroTik/Cambium 经销+渠道合作（有 fiyat listesi 与“成为伙伴”页），但首页未展示交换机品类 → 待核验 MikroTik 产品页后再判；本轮维持B。",
+   "quote": "Bilişim Sektöründeki İş Ortağınız...；菜单：Mikrotik Products／Cambium Networks／Fiyat Listesi／Hemen Katılın",
+   "sources": [
+    [
+     1,
+     "https://www.cooltechtrading.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-093",
+   "decision": "promote",
+   "site": "wi.com.tr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Wi / WINET 为 MikroTik Authorized Distributor（fiber optik/telekom专营），**在售 Ruijie Reyee RG-ES206GS-P 千兆 PoE+ 交换机**、SFP 模块、GPON、B2B 经销商计划 → 交换机品类+网络专营+渠道 → 人工定级升A。",
+   "quote": "Network, Fiber Optic and Telecom Equipment；MikroTik Authorized Distributor；New Arrivals: Ruijie Reyee RG-ES206GS-P 6 Port Gigabit PoE+ Switch；B2B Reseller Benefits",
+   "sources": [
+    [
+     1,
+     "https://www.wi.com.tr/en"
+    ]
+   ]
+  },
+  {
+   "code": "B-094",
+   "decision": "hold-B",
+   "site": "merpazar.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Merpa（36 年）为工业计算机/服务器机箱/触控面板与工业主板专营，未见交换机品类 → 垂直错位，维持B。",
+   "quote": "Merpazar.com - Endüstriyel Bilişimde 36 Yıllık Tecrübe；主推工业 PC、Panel PC、空服务器机箱、触控显示器、Jetway 防火墙机",
+   "sources": [
+    [
+     1,
+     "https://www.merpazar.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-095",
+   "decision": "promote",
+   "site": "nodenetglobal.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Nodenet Global 发布公告 **「Nodenet Global, MikroTik Türkiye Distribütörü Oldu!」（成为 MikroTik 土耳其区分销商）**，主营业务为网络管理/网络安全/云（10+ 年），有自有在线商店 → 网络专营+MikroTik 分销 → 人工定级升A。",
+   "quote": "Nodenet Global, MikroTik Türkiye Distribütörü Oldu!；Ağ yönetimi, siber güvenlik ve bulut çözümlerinde uzman；Onlıne Mağaza",
+   "sources": [
+    [
+     1,
+     "https://nodenetglobal.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-096",
+   "decision": "promote",
+   "site": "4mimo.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：4mimo.com 现指向 Net Vizyon 网店（shop.netvizyon.net，同集团），**在售 Ubiquiti UniFi PoE 交换机全系（Switch 16/24/48 PoE、Enterprise 8 PoE、XG 6 PoE、USW-Pro-24-PoE）**，代理 Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy → 交换机品类+无线网络专营 → 人工定级升A。",
+   "quote": "Kablosuz Ağ Sistemleri – Net Vizyon；Markalar: Jirous, Mimosa, Ruijie, Siklu, Ubiquiti, Cudy；En Çok Satanlar: Switch 16 PoE／Switch 24 PoE／Switch 48 PoE／Switch Enterprise 8 PoE／Switch XG 6 PoE",
+   "sources": [
+    [
+     1,
+     "https://4mimo.com/"
+    ],
+    [
+     2,
+     "https://shop.netvizyon.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-097",
+   "decision": "promote",
+   "site": "noktaelektronik.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Nokta Elektronik 定位「Güvenlik ve Network Distribütörü」，**有 Aktif Network Ürünleri 分类（Dahua 交换机、Uptech ethernet switch）**，首页主推 Planet GS-5220 L3 24口 802.3bt PoE + 4×10G SFP+ 管理型交换机，另设 B2B 批发平台 → 交换机品类明确+分销+PoE → 人工定级升A。",
+   "quote": "Nokta Elektronik — Güvenlik ve Network Distribütörü；Aktif Network Ürünleri（dahua ethernet switch, uptech ethernet switch）；Planet GS-5220-24UP4X L3 24-Port 802.3bt PoE + 4-Port 10G SFP+ Managed Switch；Nokta B2B",
+   "sources": [
+    [
+     1,
+     "https://www.noktaelektronik.net/tr"
+    ]
+   ]
+  },
+  {
+   "code": "B-098",
+   "decision": "promote",
+   "site": "poyraznetwork.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Poyraz Network 为 **MikroTik Master Distributor**（另 Ubiquiti Authorized Distributor、Mimosa/Cudy/V-Sol 等），导航含 **Switches** 与 **Training Programs** 分类，5000+ 产品、B2B 经销商价（10 年经验）→ 交换机品类+网通分销+培训 → 人工定级升A。",
+   "quote": "Mikrotik — Master Distributor…professional routers, switches, and wireless systems；All Categories: Routers／Switches／Wireless Products／Training Programs；B2B Partner Program",
+   "sources": [
+    [
+     1,
+     "https://poyraznetwork.com/us"
+    ]
+   ]
+  },
+  {
+   "code": "B-099",
+   "decision": "promote",
+   "site": "sekuritim.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Sekuritim 自述 **MikroTik Türkiye Master Distributor + MikroTik Certified Training Center**（2015 起），开设 MTCNA/MTCRE/MTCINE/MTCUME/MTCTCE/MTCWE/MTCIPv6E 全系课程，有独立网店 shop.sekuritim.com 与 24/7 认证支持 → 网络专营+交换机产品线+培训中心 → 人工定级升A。",
+   "quote": "Sekuritim Bilişim - MikroTik Türkiye Master Distributor - MikroTik Certified Training Center；MTCNA, MTCRE, MTCINE, MTCUME, MTCTCE, MTCWE, MTCIPv6E；Online Satış shop.sekuritim.com",
+   "sources": [
+    [
+     1,
+     "https://sekuritim.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-100",
+   "decision": "promote",
+   "site": "wifianten.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：wifianten.com 自述 **Türkiye Mikrotik Master Distributor & Yetkili Satıcı**，在售 **MikroTik CRS326-24S+2Q+RM（24×SFP+ 2×QSFP 骨干交换机）** 与 UBNT USW-Pro-Aggregation 交换机，另代理 UBNT/RF-Elements → 交换机型号明确+网络专营 → 人工定级升A。",
+   "quote": "Mikrotik ürünleri Türkiye Master Distribütör ve yetkili satıcı；MikroTik CRS326-24S+2Q+RM 24 Port SFP+ 2QSFP Omurga Switch；UBNT USW-Pro-Aggregation-EU 28 Adet SFP+ Fiber Omurga Switch",
+   "sources": [
+    [
+     1,
+     "https://wifianten.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-101",
+   "decision": "pending",
+   "site": "3net.rs",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：3NET 定位「One place stop for Networking」，售 MikroTik wAP/hAP/mANTBox、光纤跳线/配线架、Digitus 机柜，但首页未展示交换机型号 → 待核验交换机分类页后再判；本轮维持B。",
+   "quote": "3NET – One place stop for Networking；在售 MikroTik wAPG-5HaxD2HaxD、E62iUGS-2axD5axT、LHG-5axD-XL、SXTsq；光纤跳线、配线架、Digitus 机柜",
+   "sources": [
+    [
+     1,
+     "https://3net.rs/"
+    ]
+   ]
+  },
+  {
+   "code": "B-104",
+   "decision": "promote",
+   "site": "pixelnetwork.rs",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛5】官网核对：Pixel Network（塞尔维亚）为监控/报警/对讲+网络设备商，**Top ponuda 全为交换机：MikroTik CRS320-8P-8B-4S+RM、CRS326-4C+20G+2Q+RM、CRS354-48P-4S+2Q+RM(48口PoE)、CSS610-8P-2S+IN、CRS112-8P-4S-IN、CRS106-1C-5S，以及 Ubiquiti USW-FLEX-MINI** → 交换机品类+PoE+小公司 → 人工定级升A。",
+   "quote": "Top ponuda：MikroTik CRS320-8P-8B-4S+RM／CRS304-4XG-IN／CRS326-4C+20G+2Q+RM／CSS610-8P-2S+IN／CRS112-8P-4S-IN／CRS354-48P-4S+2Q+RM；Ubiquiti USW-FLEX-MINI-EU",
+   "sources": [
+    [
+     1,
+     "https://pixelnetwork.rs/"
+    ]
+   ]
+  }
+ ]
+}
