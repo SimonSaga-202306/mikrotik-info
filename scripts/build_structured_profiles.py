@@ -181,6 +181,19 @@ OVERRIDE = {
            'p1_reason': 'AGL 葡 Edge AI 分销（视觉机 4×PoE+、PoE 入类目）：PoE 上游温宽交换上架位（$74.8 锚点一致）'},
  'A-059': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致）'},
  'A-060': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$165 锚点一致）；顾问身份接触'},
+ # ── R56 批 7（A-061..A-070 深挖 2026-09-28）──
+ 'A-061': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Mikrotikon 个人专家（CAPsMAN 集中 Wi-Fi 专长）：多 AP 项目 24 口 PoE 随单（$165 锚点一致）'},
+ 'A-062': {'p1': 'STC-28DGGPM', 'p1_reason': 'Tayyebi 奥斯汀 7 证个人、站 FreeHostia 占位：短信破冰薄档如实（$99 锚点一致）'},
+ 'A-063': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'Netrotik 芬兰培训中心+工程咨询双轨：诚实教具对比样本（$99 锚点一致）；师者红线'},
+ 'A-064': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Axbyte 瑞典托管 datacom（自有 co-lo+外包 NOC）：NOC 监控集成 24 口 PoE（$165 锚点一致）'},
+ 'A-065': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'FreeClix 英全栈 ISP（Guest WiFi+VoIP 双线）：Voice VLAN 接入层随单；NHS/郡议会公共段守边界（$165 锚点一致）'},
+ 'A-066': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Celenet 西班牙区域运营商+企业线：企业 WiFi/安防接入层随单，节点小盒二轨（$165 锚点一致）'},
+ 'A-067': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$165 锚点一致）；vendor-agnostic 中立尊重'},
+ 'A-068': {'p1': 'STC-28DGGPM', 'p1_reason': 'Díaz Gómez 十证个人、足迹薄：WhatsApp 破冰薄档如实（$99 锚点一致）'},
+ 'A-069': {'p1': 'STC-28DGGPM', 'p1_reason': 'Millie Evolution 英五证个人站裸目录：WhatsApp 破冰薄档如实（$99 锚点一致）'},
+ 'A-070': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'Hecnys Ignition 官认 SCADA 集成：边缘/现场段温宽 PoE（$74.8 锚点一致）；发电/油气/港口边界守'},
 }
 
 out = {}

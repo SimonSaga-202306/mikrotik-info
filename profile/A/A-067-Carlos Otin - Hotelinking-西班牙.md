@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、酒店/多住户、光纤接入），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$165 锚点一致）；vendor-agnostic 中立尊重；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -130,11 +130,30 @@ updated: 2026-09-28
   > RIU · Zafiro Hotels · Best Hotels · Bluesea · Coral Hotels · Grupotel（客户墙 Logo）
   > 来源：https://www.hotelinking.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：酒店科技独角兽级（1000+ 店/60% 渗透）；WiFiBot=NOC 统一管酒店网
+- **②芯片/型号**：vendor-agnostic（客户多元）
+- **③KP 深挖**：Otin 直达
+- **④Saga 对标**：客房 Wi-Fi 接入层康复振推荐位
+- **⑤在乎与偏好**：监控集成/少巡店/海量文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“1,000+ hotels and chains trust Hotelinking…60% penetration among hotel chains in Spain…WiFiBot: 24/7 Network Monitoring…centralized control seamlessly managed by expert NOC services”
+  > “1,000+ hotels and chains trust Hotelinking…60% penetration among hotel chains in Spain…WiFiBot: 24/7 Network Monitoring…centralized control seamlessly managed by expert NOC services”
+  > 来源：https://www.hotelinking.com/en/
+- **【联系方式】**c.otin@hotelinking.com +34 691 837 651（CSV）；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > c.otin@hotelinking.com +34 691 837 651（CSV）；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://www.hotelinking.com/en/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$165 锚点一致）；vendor-agnostic 中立尊重 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -143,10 +162,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长、酒店/多住户、光纤接入），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：杠杆
+- **W**：中立
+- **O**：推荐位
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -180,21 +199,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
 Hi Carlos,
 
-I came across Hotelinking - 集成商/顾问（MikroTik 认证）.
+A NOC watching vendor-agnostic WiFi across 1,000+ hotels knows exactly which access switches stay silent and which ones cause truck rolls.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $165 USD EXW.
 
-One question: Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
+One question: how does a switch get onto your compatible-hardware recommendation list for hotels?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full integration pack for your NOC team to evaluate. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
