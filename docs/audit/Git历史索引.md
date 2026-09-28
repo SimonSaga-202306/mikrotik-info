@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `b98c0afd83e2` | 2026-09-28T01:33:37+00:00 | R50: mine existing 1033-row list for A-class (37 promotions, 31 dedup hints) |
 | `ad0302bdf2e4` | 2026-09-28T01:20:02+00:00 | Refresh audit index after R49 commit |
 | `822222e1e0fe` | 2026-09-28T01:19:53+00:00 | R49: backfill A-044/A-046 mailboxes, return 23 C rows to B, rescreen batch 2 |
 | `a61a014ea753` | 2026-09-27T16:47:41+00:00 | Refresh audit index after R48 commit |
