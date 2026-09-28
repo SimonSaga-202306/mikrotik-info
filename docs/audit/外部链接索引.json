@@ -1660,6 +1660,48 @@
     ]
   },
   {
+    "url": "https://ampliteltech.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1019"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1027"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1033"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1039"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1045"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://anteny24.pl/",
     "http_checked": false,
     "occurrences": [
@@ -2332,12 +2374,48 @@
         "locator": "反向信号名单!Q786"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1098"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1106"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1112"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1118"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1124"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L88"
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -2688,6 +2766,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-804/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L857"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L865"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L871"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L877"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L883"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L91"
       }
     ]
   },
@@ -3948,12 +4068,24 @@
         "locator": "反向信号名单!Q790"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1337"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1363"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L127"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -4344,6 +4476,48 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L187"
+      }
+    ]
+  },
+  {
+    "url": "https://eac-ns.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L97"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L123"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -8116,6 +8290,48 @@
       {
         "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
         "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://lloret.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L101"
       }
     ]
   },
@@ -17740,6 +17956,48 @@
     ]
   },
   {
+    "url": "https://securityandnetworks.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1177"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1185"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1191"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1197"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1203"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://securityandnetworks.com/terms-and-conditions/",
     "http_checked": false,
     "occurrences": [
@@ -21254,6 +21512,24 @@
     ]
   },
   {
+    "url": "https://www.a3communications.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L940"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L948"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L66"
+      }
+    ]
+  },
+  {
     "url": "https://www.aajones.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -23550,6 +23826,40 @@
     ]
   },
   {
+    "url": "https://www.bechtle.com/gb",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L176"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L196"
+      },
+      {
+        "path": "profile/A/A-103-Bechtle Direct Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-103-Bechtle Direct Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-103-Bechtle Direct Ltd-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.berdin.com",
     "http_checked": false,
     "occurrences": [
@@ -24296,6 +24606,40 @@
     ]
   },
   {
+    "url": "https://www.cbxsolutions.com/branches/irmo-700/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L936"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L954"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L960"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L966"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.cegepat.qc.ca/",
     "http_checked": false,
     "occurrences": [
@@ -24310,6 +24654,48 @@
       {
         "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
         "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.centerprise.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L249"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L257"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L263"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L275"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L101"
       }
     ]
   },
@@ -24400,6 +24786,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-947/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cisilion.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L328"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L336"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L342"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L348"
+      },
+      {
+        "path": "profile/A/A-105-Cisilion Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-105-Cisilion Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-105-Cisilion Ltd-英国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -25420,6 +25840,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-352/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dacceurope.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L401"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L409"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L415"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L421"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L427"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -27528,6 +27990,48 @@
     ]
   },
   {
+    "url": "https://www.esotec.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L480"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L488"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L494"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L500"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L506"
+      },
+      {
+        "path": "profile/A/A-107-Esotec Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-107-Esotec Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-107-Esotec Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-107-Esotec Ltd-英国.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.euroele.com",
     "http_checked": false,
     "occurrences": [
@@ -28156,12 +28660,24 @@
         "locator": "反向信号名单!Q789"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1260"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1280"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L114"
       },
       {
         "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -29360,6 +29876,32 @@
     ]
   },
   {
+    "url": "https://www.griffonsecurity.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1256"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1268"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1274"
+      },
+      {
+        "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
     "url": "https://www.grupolineasycables.com",
     "http_checked": false,
     "occurrences": [
@@ -29496,6 +30038,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-790/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hbs.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1333"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1345"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1351"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1357"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -31038,6 +31614,40 @@
     ]
   },
   {
+    "url": "https://www.itc-technologies.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1416"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1428"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1434"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1440"
+      },
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.itc-technologies.com/contact",
     "http_checked": false,
     "occurrences": [
@@ -31804,6 +32414,48 @@
     ]
   },
   {
+    "url": "https://www.kidwellinc.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1499"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1507"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1513"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1519"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1525"
+      },
+      {
+        "path": "profile/A/A-120-Kidwell Inc-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-120-Kidwell Inc-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-120-Kidwell Inc-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-120-Kidwell Inc-美国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.kidwellinc.com/contact",
     "http_checked": false,
     "occurrences": [
@@ -32232,6 +32884,14 @@
         "locator": "反向信号名单!Q791"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1420"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L1446"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L136"
       },
@@ -32246,6 +32906,10 @@
       {
         "path": "profile/A/A-119-ITC Technologies-美国.md",
         "locator": "L43"
+      },
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L85"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -37654,6 +38318,40 @@
     ]
   },
   {
+    "url": "https://www.roadtech.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L559"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L567"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L573"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L579"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.roc-noc.com/",
     "http_checked": false,
     "occurrences": [
@@ -37814,6 +38512,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-999/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rwlas.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L632"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L640"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L646"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L652"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L98"
       }
     ]
   },
@@ -38242,6 +38974,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-880/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sensecosystems.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L705"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L713"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L719"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L725"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -40346,6 +41112,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-881/网站"
+      }
+    ]
+  },
+  {
+    "url": "https://www.universalnetworks.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L778"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L786"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L792"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L798"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第6批.json",
+        "locator": "L804"
+      },
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L85"
       }
     ]
   },

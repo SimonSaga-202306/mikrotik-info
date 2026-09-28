@@ -52,7 +52,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第6批.json`。
+
+- **业务定位**：伦敦环球系统集成商（70+ 国家交付，CSV 记录）：Cisco/Microsoft/Palo Alto/Dell 生态头部伙伴，Allied 代理（CSV 记录）。
+- **产品线与在售品牌**：Modern Work/Network Infrastructure/Data & AI/Cyber Security/Hybrid Cloud/AI Readiness 六大方案线。
+- **目标行业与场景**：大中型企业与公私组织的基础设施换代；AI 就绪咨询为获客入口。
+- **团队与规模**：公司化大集成商（营销/售前/交付全建制）。
+- **决策链与对接人**：marketing@cisilion.com（另有 info@，CSV 9-27 记录）；采购走供应商管理通道。
+- **技术与认证**：Cisco/Microsoft/Palo Alto/Dell 顶级伙伴矩阵（CSV 记录）；Allied 在册（CSV 记录）。
+- **采购与供应链信号**：大 SI 供应商池封闭且流程重：新硬件品牌的准入成本极高。
+- **近期动态与线索**：2026 年 AI Readiness 产品线主推——预算与注意力都在 AI/云上。
+- **与我方契合点**：按 CSV 既判：自有品牌大集成商难啃，走影响力路线——给参考架构与对照数据做口碑，不强推报价。
+- **风险与注意**：不要发价目表开场（会被供应商漏斗直接归档）；以技术内容换在其 SME 客户段的能见度，期待被动询盘而非主动成交。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网抬头：「超越期待的伙伴」——不止于 IT 服务与方案商的战略伙伴定位。
+  > Beyond Expectations — Achieving success together. A trusted partner beyond an IT services and solutions provider.
+  > 来源：https://www.cisilion.com/
+- **【产品线与在售品牌】**四大专业线：现代办公、安全网络、数据与 AI、企业级安全——由头部厂商伙伴驱动（Cisco/Microsoft 在打头）。
+  > Our expertise spans modern workplaces, secure networks, data and AI and enterprise-grade security, powered by partnerships with leading technology vendors.（伙伴墙打头：Cisco · Microsoft）
+  > 来源：https://www.cisilion.com/
+- **【技术与认证】**网络基建线自述：建韧性安全网络，连接人、应用与运营；另有 AI Readiness 评估产品线——方法论输出者。
+  > Network Infrastructure — Build a resilient, secure network that keeps people, applications and operations connected.
+  > 来源：https://www.cisilion.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 技术内容换能见度（接入层对照资料）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：不发报价发内容：24 口 PoE++ 与一线品牌同档的规格/成本对照白皮书，给他们 SME 段方案库多一个数据点。
+- **要问的问题**：你们的方案库里接入层有成本敏感段的备选吗？资料给参考无报价诉求。
+- **随附证明**：对照白皮书 + 一页公司介绍（英文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（边缘/仓储场景素材）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：边缘侧场景素材：宽温工业 PoE 在仓储/场馆/室外的案例，补他 Network Infrastructure 线的场景覆盖。
+- **要问的问题**：边缘严苛场景（仓储/室外）的客户需求现在怎么答？
+- **随附证明**：场景案例集 + 宽温报告。
+
+### 第 3 次跟进 · 管理型评估（实验室样机，期待引荐）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：给他们实验室留一台评估机：ERPS/L3 卸载实测他们自己会跑；目标=进入其 SME 段备选清单或获引荐。
+- **要问的问题**：实验室要不要留一台做对照评估？
+- **随附证明**：评估样机 + 实测数据 + MIB 文档（英文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -63,7 +117,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -88,7 +142,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

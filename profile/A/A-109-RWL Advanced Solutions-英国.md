@@ -68,7 +68,61 @@
 
 他会拿 Cisco / 锐捷的功能逐条对表，缺一项就被记在小本子上；文档、MIB、CLI 手册必须一次给全，含糊其辞立刻失去信任
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第6批.json`。
+
+- **业务定位**：三地（都柏林为总部）布线分销；⚠️ CSV 已注明：属分销商（转化率低）且主业是布线不是交换机——但「有源缺口」正是提案点。
+- **产品线与在售品牌**：Panduit/Leviton/Excel 无源布线+机柜+电气+CEL-FI；未见自有有源交换品牌。（Allied 关系为 CSV 记录）
+- **目标行业与场景**：安装商渠道的 DC/商业楼宇/电信配套；培训业务（Educational Programs）做渠道粘性。
+- **团队与规模**：近 20 年三地公司（官网）。
+- **决策链与对接人**：sales@rwlas.com（CSV 9-27 记录）；分销采购走品类经理。
+- **技术与认证**：布线体系认证完善；Allied 代理（CSV 记录）。
+- **采购与供应链信号**：分销商上架逻辑：类目空隙（有源 PoE/接入层）+安装商「布线+交换一单拿齐」的便利性是他的增收点。
+- **近期动态与线索**：IE/UK/NL 三站分站运营常态。
+- **与我方契合点**：无源货架补有源：24 口 PoE/工业件以「安装商一单配齐」提案上架，三地仓储是现成放大器。
+- **风险与注意**：CSV 已预警分销转化率低：用「类目建议+试点 KPI」商务方式谈，不做技术宣讲；90 天动销试点定去留。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网自述：欧洲领先的数据布线与网络产品独立分销商，都柏林/伦敦/阿姆斯特丹三地覆盖欧洲及以外。
+  > Europe’s leading independent distributor for Data Cabling and Network products. With locations in Dublin, London and Amsterdam, we have a comprehensive reach across Europe and beyond.
+  > 来源：https://www.rwlas.com/
+- **【产品线与在售品牌】**战略合作品牌：Panduit/Leviton/Excel 等无源巨头，向安装商分发交钥匙方案；近 20 年经营、数千客户。
+  > We are strategically partnered with leading Global brands such as Panduit, Leviton and Excel. We distribute Turnkey solutions to installers across many different theatres. … With almost 20 years in business
+  > 来源：https://www.rwlas.com/
+- **【目标行业与场景】**方案类目九大件全是「无源+周边」：数据中心/铜缆/光纤/机柜/走线架/电气/标签/电信/CEL-FI 信号增强——有源交换类目缺位。
+  > Data Centres · Copper Cabling · Fibre Optic · Cabinets & Racks · Cable Containment · Electrical · Labelling & Identification · Telecom · Nextivity CEL-FI Cellular Enhancement（Solutions 类目）
+  > 来源：https://www.rwlas.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 品类空缺提案（无源货架补有源层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：「布线+接入层一单配齐」类目建议书：24 口 PoE++ 上架给安装商渠道，附试点动销方案。
+- **要问的问题**：你们的有源类目现在什么状态？试销位怎么谈？
+- **随附证明**：类目建议书 + 货架提案（型号/价位/毛利）+ 公司一页（英文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（场馆/工业安装商 SKU）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：工业/场馆安装商：宽温 DIN PoE 与他布线机柜同货架组合装。
+- **要问的问题**：工业场景的 SKU 试点愿意上哪几款？90 天 KPI 怎么定？
+- **随附证明**：试点方案 + 宽温报告 + 营销物料。
+
+### 第 3 次跟进 · 管理型 10G（类目扩展+渠道政策）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：试点动销后扩管理型：项目注册+价格保护+他的 Educational Programs 培训位。
+- **要问的问题**：项目注册与培训位按你们的模板来？
+- **随附证明**：渠道政策包 + 培训计划 + VLAN/ERPS 模板。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -79,7 +133,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：L3 hardware offload + QinQ on access switching
 
@@ -104,7 +158,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

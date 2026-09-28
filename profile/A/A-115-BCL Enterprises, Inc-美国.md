@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第6批.json`。
+
+- **业务定位**：Ohio 女性持有 ICT 设计安装商（Christy Miller 主创）：「墙里的魔法」——学校/医院/场馆的弱电基建设计与施工，Allied 代理（CSV 记录）。
+- **产品线与在售品牌**：布线/视听/无线/安防/监控/VoIP/电竞沉浸/DAS 八块弱电全家桶+零售些设备。
+- **目标行业与场景**：K-12 校区、高校（Ohio University 证言）、医疗、政府（DBE 定向单）、体育馆、机场。
+- **团队与规模**：小型公司、行业标准委员会级人脉（官网自述：团队成员牵头标准制定、坐协会委员会）。
+- **决策链与对接人**：info@bclenterprise.com（CSV 9-27 核验：官网首页明文）。
+- **技术与认证**：WBE/WOSB/DBE/Ohio EDGE（官网）；Allied 代理（CSV 记录）。
+- **采购与供应链信号**：⚠️ DBE 定向的政府/公立单有 Buy America/BAA 约束——定向单段划线；私立教育/医疗商业段可谈。
+- **近期动态与线索**：电竞沉浸环境产品线（ESports）是新增长点——高校电竞馆=商业段良机。
+- **与我方契合点**：教育/医疗项目的布线配套接入层与电竞馆高密 PoE；女性/少数裔企业生态对「扶持型供应链」叙事有好感。
+- **风险与注意**：政府 DBE 定向单不碰（BAA 产地约束）；按设计师沟通方式：给 CAD 图块/规格书进他方案库。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网抬头：女性持有的技术设计/安装/零售集成商（Ohio Middletown）。
+  > Woman-owned Firm — Technology Design, Installation & Retail
+  > 来源：https://bclenterprise.com/
+- **【产品线与在售品牌】**九大服务块：布线/A/V/无线/物理安防门禁/监控视频/VoIP/沉浸环境（电竞）/网络/分布式天线（应急+蜂窝）。
+  > Cable Infrastructure · Audiovisual · Wireless Connectivity · Physical Security / Access Controls / Alarms · Surveillance Systems + Cameras · VOIP · Immersive Environments · NETWORK · Distributed Antenna Systems (Emergency + Cellular)
+  > 来源：https://bclenterprise.com/
+- **【目标行业与场景】**行业清单：PreK-12/高教/医疗/政府/会议中心/体育场馆/图书馆/商业库房/机场/多单元住宅等 14 类。
+  > Pre K - 12 · Higher Education · Health Care · Government · Conference Centers · Entertainment Venues · Libraries · Commercial Warehouses · Recreational · Hospitality · Sports + Stadiums / Field Houses · Multi-Dwelling Unit · Assisted Living · Airports
+  > 来源：https://bclenterprise.com/
+- **【技术与认证】**资质：WBE/WOSB/DBE/Ohio EDGE 多项少数族裔女性企业认证——政府定向采购套餐的入场券。
+  > BCL is WBE, WOSB, DBE, and Ohio EDGE Certified. We can work hand-in-hand with teams who need to meet set DBE criteria.
+  > 来源：https://bclenterprise.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（私立教育/医疗项目）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：设计方案库切入：24 口 PoE++ 规格书+CAD 资料进他的设计模板，私立教育/医疗商业段项目随图带出。
+- **要问的问题**：设计库里的接入层规格书要不要加一份备选？（限私立/商业项目）
+- **随附证明**：规格书+CAD 资料 + 单端口测算 + BAA 边界声明（英文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（库房/体育馆室外点）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：商业库房与体育馆外场：宽温 DIN PoE 颠簸粉尘环境适用。
+- **要问的问题**：库房/外场点位的供电交换怎么设计的？
+- **随附证明**：宽温报告 + DIN 图 + 备件包价。
+
+### 第 3 次跟进 · 管理型 PoE（电竞馆高密 LAN）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：高校/商业电竞馆：高密终端分段+10G 上行的管理型，随沉浸环境产品线打包。
+- **要问的问题**：电竞馆项目的网络段谁在做？我们的分段模板发你。
+- **随附证明**：VLAN/ERPS 模板 + 10G 实测（英文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
