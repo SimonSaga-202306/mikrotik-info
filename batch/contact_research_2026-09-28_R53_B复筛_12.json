@@ -1,0 +1,178 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第12批（SK/SI/GE/BE/FR行）。判据同前。",
+ "records": [
+  {
+   "code": "B-215",
+   "decision": "hold-B",
+   "site": "alfac.sk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：Alfa Centauri（斯洛伐克）为 IT 服务/托管商（虚拟服务器与私有云、整体 IT 管理、流程自动化），品牌墙含 MikroTik/Ubiquiti/Fortinet/Synology/Microsoft/ESET，但无产品目录与交换机品类 → 维持B。",
+   "quote": "Sme Alfa Centauri, IT služby, ktoré vám uvoľnia ruky pre váš skutočný biznis；Služby: Virtuálne servery a privátny cloud／Komplexná správa IT／Automatizácia procesov；品牌墙: Microsoft, Apple, ESET, HP, Dell, Lenovo, Fortinet, Ubiquiti, Synology, MikroTik",
+   "sources": [
+    [
+     1,
+     "https://www.alfac.sk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-216",
+   "decision": "promote",
+   "site": "lancentrum.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：LanCentrum.sk（店铺由 Times-VT, Prievidza 运营）自述 **«Všetko pre WiFi a sieť»（一切为了 WiFi 与网络）**；类目含 **LAN (10/100/1000) - aktívna／PoE - ochrany, adaptéry／Optika - aktívna**，品牌 **MIKROTIK／UBIQUITI／DASAN Zhone Solution／V-SOL／Wi-Tek**，在售 MikroTik GPER/hAP ac3 LTE6/RB911 与 Ubiquiti U7-Mesh、V-SOL OLT → 网络与 WISP 专营+有源 LAN/PoE 类目 → 人工定级升A。",
+   "quote": "Všetko pre WiFi a sieť, LanCentrum.sk；* MIKROTIK／* UBIQUITI／* DASAN Zhone Solution／* V-SOL／* Wi-Tek；Kategórie: LAN (10/100/1000) - aktívna／LAN (10/100/1000) - pasívna／PoE - ochrany, adaptéry／Optika - aktívna；Obchod prevádzkuje: Times-VT, Nábr. Sv. Metoda 8, 971 01 Prievidza",
+   "sources": [
+    [
+     1,
+     "https://www.lancentrum.eu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-217",
+   "decision": "hold-B",
+   "site": "online.westech.sk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：WESTech（斯洛伐克大型 IT 分销商，Galvaniho 新址）主页为 Lenovo/Dell/Canon/Logitech/Kingston/TCL/Uniview 等整机与配件促销，网络非主营 → 大盘 IT 分销、决策链长 → 维持B。",
+   "quote": "WESTech — Akcia: Lenovo TAB Plus／Logitech MX Master 4／TCL Movetime Family Watch／Canon PIXMA TS3750i／Lenovo L27-4C／Dell Pro 16 Plus；Zmena sídla spol. WESTech od 1.10.2026 (Galvaniho 7B)",
+   "sources": [
+    [
+     1,
+     "https://online.westech.sk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-219",
+   "decision": "hold-B",
+   "site": "pchand.si",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：PC H.AND（斯洛文尼亚，B2B 主题网店）为宽线 IT/家电/办公零售批发：IT 备件、显示器、Philips 电视与电子纸、碎纸机、自行车码表等，MikroTik Chateau 5G 仅为其中一项 → 维持B。",
+   "quote": "PC H.AND - Tehnologija vredna zaupanja（Theme: PC_Hand_B2B）；Novosti: Philips 100PQS9001 4K QLED／Philips 27B2N3500JH／Mikrotik Chateau 5G R17 ax／Intimus uničevalci dokumentov／AOC CU34V5CW；IT rezervni deli in komponente",
+   "sources": [
+    [
+     1,
+     "https://www.pchand.si/"
+    ]
+   ]
+  },
+  {
+   "code": "B-220",
+   "decision": "pending",
+   "site": "tehnox.si",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】站点被 reCAPTCHA 拦截（\"Verifying that you are not a robot\"）→ 待重试；本轮维持B。",
+   "quote": "Bot Verification — Recaptcha requires verification（protected by reCAPTCHA）",
+   "sources": [
+    [
+     1,
+     "https://tehnox.si/"
+    ]
+   ]
+  },
+  {
+   "code": "B-221",
+   "decision": "hold-B",
+   "site": "gcom.ge",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：GCOM（格鲁吉亚）网络设备网店，**在售 MikroTik CRS112-8G-4S-IN「მართვადი სვიჩი 8G 4xSFP」（管理型交换机）与 Ubiquiti USW-48-POE（PoE 管理型交换机 48 口）**，另有 CCR2116、EPON OLT、SFP+、天线与电池，sale@gcom.ge；**产品与渠道达标，但地理属西亚（格鲁吉亚），超出 EU/NA 目标市场（对照：TR/RS 按欧洲处理）** → 维持B并标注，如接受高加索市场可直接升A。",
+   "quote": "GCOM ინტერნეტ მაღაზია｜sale@gcom.ge；CRS112-8G-4S-IN - მართვადი სვიჩი 8G 4xSFP（441.00 ₾, მარაგშია）；USW-48-POE - PoE მართვადი სვიჩი 48 პორტით（2,271.00 ₾）；CCR2116-12G-4S+；EP5800-04 EPON OLT；GC10G10B SFP+ 10G BIDI",
+   "sources": [
+    [
+     1,
+     "https://gcom.ge/"
+    ]
+   ]
+  },
+  {
+   "code": "B-222",
+   "decision": "hold-B",
+   "site": "intellcom.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：IntelliCom Group（格鲁吉亚，有 EN 版与培训学院 academy.intellcom.net）为能源/供电方案商：太阳能板与并网/离网/混合逆变器、UPS（在线式/模块化）、蓄电池、电气保护（断路器/熔断器）、DC-AC 逆变器；无网络交换机品类 → 产品不匹配，维持B。",
+   "quote": "ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები（ენერგო უზრუნველყოფა）；მზის ენერგია: მზის პანელები／On-Grid ინვერტორები／Off-Grid／ჰიბრიდული；UPS: Line Interactive／On-Line／მოდულარული；აკუმულატორები；DC-AC ინვერტორები",
+   "sources": [
+    [
+     1,
+     "https://intellcom.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-223",
+   "decision": "pending",
+   "site": "smart-network.ge",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】站点抓取两次失败（Failed to fetch；smart-network.ge 直连与 www 均不可达）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://smart-network.ge/"
+    ]
+   ]
+  },
+  {
+   "code": "B-225",
+   "decision": "hold-B",
+   "site": "foxconcept.be",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：Foxconcept Srl（比利时 Tongrinne，AS218909）为 B2B 托管 IT 服务商（helpdesk、网络配置、服务器托管/云、VoIP Yeastar&3CX 认证、备份），硬件供货品牌 Lenovo/Dell/Synology/Ubiquiti/MikroTik，持 MTCNA/MTCTCE 认证，info@foxconcept.be；无产品目录与交换机品类 → 维持B。",
+   "quote": "Foxconcept — Solutions IT pragmatiques pour clients professionnels；Réseaux: Configuration réseau（câblage, solutions sans fils, organisation de rack）；Matériel: LENOVO, SYNOLOGY, UBIQUITI, MIKROTIK, Serveurs DELL；MTCNA/MTCTCE 认证图标；RIPE: AS218909；info@foxconcept.be",
+   "sources": [
+    [
+     1,
+     "https://foxconcept.be/"
+    ]
+   ]
+  },
+  {
+   "code": "B-227",
+   "decision": "promote",
+   "site": "wifistock.be",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：WifiStock（比利时，Shopify 店）为 MikroTik 专营网店，**Switches 系列含 CRS305-1G-4S+IN（4×SFP+ 10G 交换机，€149）**；Routers 系列含 PowerBox Pro/CCR1016-12S-1S+/CCR1009/RB1100AHx4 → 交换机产品+品牌专营 → 人工定级升A。",
+   "quote": "wifistock；Featured collection: PowerBox Pro／CCR1016-12S-1S+／CCR1009-7G-1C-1S+／RB1100AHx4；Switches: CRS305-1G-4S+IN — Regular price€149,00",
+   "sources": [
+    [
+     1,
+     "https://www.wifistock.be/collections/switches"
+    ],
+    [
+     2,
+     "https://www.wifistock.be/"
+    ]
+   ]
+  },
+  {
+   "code": "B-229",
+   "decision": "promote",
+   "site": "alfasystems.be",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：Alfa Systems 自述 **«The most complete source for network cabling»**（比利时/卢森堡）；类目含 **Antaira Industrial Networking（10/100Mbps Unmanaged／Unmanaged POE+／Gigabit Unmanaged／Media Converters）与 Level One Networking → Gigabit unmanag. Switches／Gigabit POE unmanag. Switches**，另有 Netgate/VERIGATE 防火墙、Peplink/Digi/Teltonika 蜂窝路由、UPS、铜缆/光纤布线 → 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "Alfa Systems - The most complete source for network cabling；Antaira Industrial Networking: 10/100Mbps Unmanaged／10/100Mbps Unmanaged, POE+／Gigabit Unmanaged／Media Converters；Level One Networking → Gigabit unmanag. Switches／Gigabit POE unmanag. Switches／Routers／Access Points；VERIGATE Firewalls (Netgate)；Peplink/Digi/Teltonika Cellular",
+   "sources": [
+    [
+     1,
+     "https://alfasystems.be/"
+    ]
+   ]
+  },
+  {
+   "code": "B-230",
+   "decision": "hold-B",
+   "site": "actn.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛12】官网核对：ACTN（法国，B2B 客户登录制）目录含 Reseau/Switches/Gigabit Ethernet L3（**ZYXEL XS1935-10 10G L3 交换机**）、PoE 延长器、EnGenius Wi-Fi 7 AP、UniFi，博客含 MikroTik Newsletter（2026-08），但站点定位为「Votre Distributeur IT」，视频监控/报警/门禁/电话/网络多线并行 → 宽线分销、决策链长 → 维持B。",
+   "quote": "ACTN - Votre Distributeur IT；Nouveautés: SWITCH L3 8 PORTS 10G 2 PORTS SFP（ZYXEL XS1935-10, catalogue/Reseau/Switches/Gigabit Ethernet L3）；POE10E TP-LINK extenseur PoE+；ECW510P EnGenius Cloud Managed AP Wi-Fi 7；blog: «Téléchargez la dernière Newsletter Mikrotik !»",
+   "sources": [
+    [
+     1,
+     "https://www.actn.fr/"
+    ]
+   ]
+  }
+ ]
+}
