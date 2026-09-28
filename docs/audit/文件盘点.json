@@ -827,7 +827,7 @@
       "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
       "sha256": "e66d8f778146650d53b578bdb1d8bc997d395389e06033356cb20c9a1a6b1417",
       "bytes": 40986,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 907,
       "unique_url_count": 10,
       "inspection": {},
