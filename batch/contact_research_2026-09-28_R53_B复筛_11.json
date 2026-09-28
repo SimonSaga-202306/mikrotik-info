@@ -1,0 +1,182 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第11批（捷克/摩尔多瓦行）。判据同前。",
+ "records": [
+  {
+   "code": "B-194",
+   "decision": "hold-B",
+   "site": "axilogi.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：Axilogi s.r.o.（捷克）宽线 IT/电子网店：NAS/硬盘（Synology/Seagate）、Teltonika LTE 路由、Ubiquiti、Hikvision 安防、TP-Link Tapo、Cudy、光伏储能；首页仅见 MikroTik Wi-Fi7 资讯位，无交换机品类 → 维持B。",
+   "quote": "Axilogi s.r.o.；Nové produkty: Synology HDD HAT3320-20T／Seagate Exos／Triton panely／TP-Link Tapo／Teltonika RUTX09／Hikvision AX PRO／Ubiquiti UTR-LR；Aktuality: MikroTik vstupuje do světa IoT – CLAIRÉ",
+   "sources": [
+    [
+     1,
+     "https://axilogi.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-195",
+   "decision": "pending",
+   "site": "discomp.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：Discomp（捷克）自述「dodáváme síťové prvky a bezdrátové řešení pro firmy」（为企业供应网络设备与无线方案），主营 MikroTik（SFP/KNOT/cAP ax）、Ubiquiti、TP-Link Omada、Teltonika、RF elements，B2B 注册价；首页样本未捕获交换机型号 → 待核验 MikroTik CRS 类目；本轮维持B。",
+   "quote": "Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy；New products: MikroTik HS-85DLC05D SFP／Ubiquiti UACC-AI-PTZ／Teltonika RUTM50／TP-Link Flex Bridge 5／RF elements SH20WB；Registration: Better prices, credit, validation by SN",
+   "sources": [
+    [
+     1,
+     "https://www.discomp.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-196",
+   "decision": "promote",
+   "site": "ipmedia.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：IPMEDIA 自述 **«Distributor síťových technologií»（网络技术分销商）**；首页横幅直链 PoE 交换机（ES22xxP）检索页，产品线含 TP-Link Omada Fusion 2.5G/控制器、MikroTik hAP be lite/hAP be3/Cube 60GHz、Solarix 铜缆光缆 → 网络专营分销+PoE 交换机品类 → 人工定级升A。",
+   "quote": "IPMEDIA - Distributor síťových technologií；banner «poe-switch» → fulltext ES22%P；TP-Link Omada Fusion 2,5G（5x 2,5Gb port, až 4x WAN, IDS/IPS）；MikroTik hAP be lite（WiFi 7, 2,5Gb Ethernet）；MikroTik Cube/WWCube 60GHz skladem",
+   "sources": [
+    [
+     1,
+     "https://www.ipmedia.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-200",
+   "decision": "hold-B",
+   "site": "oemautomatic.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：OEM Automatic（捷克，OEM Automatic 集团）为工业自动化元件分销：PLC/传感器/机器安全/机器人/机柜温控/真空/泵/Mobile Vehicle，无网络交换机品类 → 产品不匹配，维持B。",
+   "quote": "OEM Automatic - specialista pro průmyslovou automatizaci；Nová generace kontrolérů Millenium；Fixní skenery a smart kamery (ZEBRA)；KUKA coboti；Seifert Systems；Vakuová technika (Coval)；Průmyslová čerpadla (Xylem SFC)",
+   "sources": [
+    [
+     1,
+     "https://www.oemautomatic.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-201",
+   "decision": "hold-B",
+   "site": "pcvcomp.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：PCV Computers（捷克）宽线 IT/安防分销（B2B 登录价）：主页横幅可见 Ruijie Reyee 交换机类目与 MikroTik CRS 备件（G1251/MTP60 电源、KNOT、CLAIRÉ），但主营 PC/显示器/摄像/门禁/VoIP → 宽线分销、决策链长 → 维持B。",
+   "quote": "PCV Computers, s.r.o.；Novinky Reyee → sitove-prvky-switche-ruijie-reyee；MikroTik G1251-0150WNA Hot Swap PSU pro CRS812 DDQ；Mikrotik KNOT Gateway HL9；Hikvision／Grandstream／Yealink／Ajax；Cena po přihlášení",
+   "sources": [
+    [
+     1,
+     "https://pcvcomp.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-519",
+   "decision": "promote",
+   "site": "proficomms.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：PROFIcomms 自述 **«distributor aktivních síťových prvků»（有源网络设备分销商）**；类目树含 **Switche, routery → L2 a L3 switche, chassis／Data Center switche／PoE injektory／Uplink moduly**，代理 **BDCOM（交换机厂商 2026 促销）**、Palo Alto 防火墙、XGS-PON/GPON、WiFi PTP、有英文站 proficomms.eu → 交换机专营分销 → 人工定级升A。",
+   "quote": "PROFIcomms - distributor aktivních síťových prvků；Switche, routery: L2 a L3 switche, chassis／Průmyslové routery, VPN, LTE／Full BGP a MPLS routery／Data Center switche／Karty do chassis；promo «BDCOM 2026 Slevy»；nove v portfoliu: firewally Palo Alto；eng版 proficomms.eu",
+   "sources": [
+    [
+     1,
+     "https://www.proficomms.cz/"
+    ],
+    [
+     2,
+     "https://www.proficomms.eu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-520",
+   "decision": "hold-B",
+   "site": "tecon.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：TECON s.r.o. 自述「Distributor systémů řízení a vizualizace technologických procesů」（制程控制与可视化系统分销），代理 Weintek HMI、AutomationDirect PLC、IIoT 软件，无网络交换机品类 → 维持B。",
+   "quote": "TECON s.r.o. – Distributor systémů řízení a vizualizace technologických procesů；Nový Productivity Suite 4.7（AutomationDirect）；Weincloud V1.5（Weintek）；HMI cMT3072XH3",
+   "sources": [
+    [
+     1,
+     "https://tecon.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-206",
+   "decision": "promote",
+   "site": "wifi-shop.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：WiFiShop.cz（VanCo.cz eStore）为网络专营网店，**LAN 类目下直接列出「Switches, Routers, Firewalls」子类**（LAN 类目 553 件），厂商含 **MikroTik 69／Ubiquiti 40／TP-LINK 27／D-Link／EnGenius／Fortinet**；顶层类目 Microwaves/Wireless/LAN/Optical Networks/Power supplies/CCTV/Racks，并独家分销 C-Data（CZ/SK）→ 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "WiFiShop.cz - VanCo.cz eStore；LAN → Next subcategories: Switches, Routers, Firewalls／Ethernet cables／PatchCords／Powerline adapters…；Producer: MikroTik 69, Ubiquiti 40, TP-LINK 27, D-Link 1, EnGenius 28, Fortinet 22；Exclusive Distribution of C-Data Brand for the Czech Republic and Slovakia",
+   "sources": [
+    [
+     1,
+     "https://www.wifishop.cz/lan_c79453934.html"
+    ],
+    [
+     2,
+     "https://www.wifishop.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-208",
+   "decision": "hold-B",
+   "site": "edshop.edsystem.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：eD system a.s.（捷克最大 IT 分销商之一）B2B 电商，主页为 HP/Lenovo/Canon/Logitech/Trust 等整机与配件、价格登录后可见 → 大盘 IT 分销、决策链长 → 维持B。",
+   "quote": "eD system a.s. — IT；Nejprodávanější PC a Notebooky（HP Everyday, i-tec, Lenovo, TRUST）；Zobrazit cenu／Přihlásit se（B2B 登录价）",
+   "sources": [
+    [
+     1,
+     "https://edshop.edsystem.cz/info-other/it/n-52,0,0"
+    ]
+   ]
+  },
+  {
+   "code": "B-209",
+   "decision": "promote",
+   "site": "i4wifi.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：i4wifi EU（100MEGA Distribution s.r.o.）网络专营分销（英文站）；**PLANET 交换机产品树完整：Industrial & IoT Switches（L2／L2/L4／L3／EN50155）、PoE Switches（802.3at／802.3bt）、LAN & (PoE) Switches → Switches → Managed（L2/L4／L2+／L3）+ PoE（PoE/PoE+/PoE++）、Modular Chassis**；另有 Ubiquiti UniFi（含 Optical Switches）、MikroTik、Converters/PON → 交换机品类完整+网络专营 → 人工定级升A。",
+   "quote": "i4wifi EU 100MEGA Distribution s.r.o.；Planet → Industrial & IoT Devices → Switches（L2／L2/L4／L3／EN50155 switche）／PoE Switches（PoE+ 802.3at／PoE++ 802.3bt）；LAN & (PoE) Switches → Switches → Managed（L2/L4／L2+／L3）, PoE (PoE, PoE+, PoE++)；Ubiquiti UniFi Network → Optical Switches；MikroTik",
+   "sources": [
+    [
+     1,
+     "https://www.i4wifi.eu/en/"
+    ]
+   ]
+  },
+  {
+   "code": "B-210",
+   "decision": "hold-B",
+   "site": "doxyterra.md",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：DOXYTERRA（摩尔多瓦）为笔记本/整机/游戏 PC/显示器与花园家具（NARDI）混营网店，品牌 ASUS/Dell/HP/Lenovo/Ubiquiti 等，无交换机专营 → 宽线消费零售，维持B。",
+   "quote": "DOXYTERRA - magazin specializat in laptopuri, computere si mobilier de terasa；branduri: ASUS, DELL, HP, LENOVO, UBIQUITI, LOGITECH…；Categorii populare: Laptopuri／Calculatoare Gaming／Desktop PC／NARDI mobilă grădină",
+   "sources": [
+    [
+     1,
+     "https://doxyterra.md/ro/"
+    ]
+   ]
+  },
+  {
+   "code": "B-211",
+   "decision": "hold-B",
+   "site": "pride.md",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛11】官网核对：PRIDE.MD（PRIDE Group，摩尔多瓦）自述「Your partner for delivering technological solutions from leading suppliers」；电商主销 HP/Dell/Apple 整机、CSB 电池、Teltonika 工业网关，网络仅类目之一 → 宽线 IT 零售/分销，维持B。",
+   "quote": "PRIDE.MD - Your partner for delivering technological solutions from leading suppliers；banner: HP notebooky／CSB Battery／Teltonika TRB145 industrial gateway；Apple Mac Pro, Dell Vostro, HP 250 G9",
+   "sources": [
+    [
+     1,
+     "https://www.pride.md/en"
+    ]
+   ]
+  }
+ ]
+}
