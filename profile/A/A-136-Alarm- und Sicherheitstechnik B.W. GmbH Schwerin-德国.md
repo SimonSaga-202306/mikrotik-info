@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第7批.json`。
+
+- **业务定位**：汉堡总部+什未林分部的认证安防安装商：BMA/EMA/视频/门禁整体方案+厂商无关维保，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：消防报警/入侵报警/视频监控/语音报警/GMS 平台/锁与门禁一体。
+- **目标行业与场景**：工商企业/医院/公共行政/银行/酒店/停车场/泳场——商业为主行政为辅。
+- **团队与规模**：认证 Errichter 体系（Zeichenbüro 绘图室/Schulung 培训/维修班组建制）。
+- **决策链与对接人**：info@alarm-as.de（CSV 9-27：公司总邮箱，可要求转 Schwerin 分部）。
+- **技术与认证**：Errichter 认证体系；Allied Resell（CSV 记录）。
+- **采购与供应链信号**：Modernisierung（旧系统改 IP）项目潮=门禁/监控联网的 PoE 接入层刚需；厂商无关维保=他天天接触异品牌件。
+- **近期动态与线索**：官网维护良好（服务板块完整）——区域业务稳。
+- **与我方契合点**：改造项目的接入层与室外/停车场点位：24 口 PoE/工业件伴随 BMA/EMA/视频联网化；消防联动（生命安全）段不碰。
+- **风险与注意**：医院/公共设施（市政）单附合规声明走商业条款；德文资料；先「现代化改造场景」话术——他听得懂。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网抬头：认证安防技术安装商（Errichter），为企业客户的安防与危险报警技术提供智能前瞻的整体方案。
+  > A+S - Errichter für Alarm- und Sicherheitstechnik Hamburg · Als zertifizierter Errichter für Sicherheitstechnik, bieten wir unseren Geschäftskunden intelligente und zukunftssichere Komplettlösungen für Ihre Sicherheits- und Gefahrenmeldetechnik
+  > 来源：https://www.alarm-as.de/
+- **【目标行业与场景】**行业清单：工商业/医院/行政机构与公共设施/零售/停车场管理/泳场/酒店餐饮/银行——⚠️ 公共设施与医院（市政相关）段谨慎。
+  > Ob Gewerbe, Industrie, Krankenhäuser, Verwaltung / öffentliche Einrichtungen, Groß- und Einzelhandel, Parkraummanagement, Badestätten, Hotel- und Gastgewerbe, Banken und Geldinstitute
+  > 来源：https://www.alarm-as.de/
+- **【产品线与在售品牌】**技术全谱：火灾报警 BMA/入侵报警 EMA/视频监控/语音报警 SAA/危机管理 GMS/锁系统/门禁——全 IP 集成趋势。
+  > …mit Brandmeldeanlagen (BMA), Einbruchmeldeanlagen (EMA), Videoüberwachung, Sprachalarmierungsanlagen (SAA), Gefahren-Management-Systeme (GMS), Schließanlagen und Zutrittskontrolle
+  > 来源：https://www.alarm-as.de/
+- **【采购与供应链信号】**官网特色服务：「厂商无关」的维保——存量系统的现代化改造（Modernisierung）是他的增量生意（对异品牌件本能开放）。
+  > Herstellerunabhängiger Wartungsservice · Modernisierung von Alarm und Sicherheitstechnik — Warum alte Konzepte, wenn die Neuen effektiver sind?
+  > 来源：https://www.alarm-as.de/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（安防系统 IP 化改造接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：Modernisierung 话术：门禁/监控 IP 化改造项目的接入层 24 口 PoE++ 成本对照——配他「厂商无关维保」的开放心态。
+- **要问的问题**：改造项目的接入层现在配什么牌子？（德文对照表）
+- **随附证明**：规格对照 + 单端口测算 + 交付说明（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（停车场/室外点位）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：停车场管理系统与室外门禁/泳场点位：宽温 DIN PoE 北方冬季稳定。
+- **要问的问题**：停车场/室外点位的交换坏机率？
+- **随附证明**：宽温报告 + DIN 图 + 备件包价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（安防网段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：GMS 平台下的多系统分段：VLAN/ERPS 模板+附合规声明（医院/行政单用）。
+- **要问的问题**：多系统分段有没有标准模板？
+- **随附证明**：VLAN/ERPS 模板 + 合规声明 + 实测（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

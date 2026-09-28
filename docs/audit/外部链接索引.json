@@ -1146,6 +1146,48 @@
     ]
   },
   {
+    "url": "https://acteos.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1104"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1112"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1118"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1124"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1130"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://adeodc.com",
     "http_checked": false,
     "occurrences": [
@@ -3286,12 +3328,24 @@
         "locator": "反向信号名单!Q795"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L198"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L201"
       },
       {
         "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -15878,12 +15932,32 @@
         "locator": "反向信号名单!Q793"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L22"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L42"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L171"
       },
       {
         "path": "profile/A/A-121-Nexware Technologies-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-121-Nexware Technologies-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-121-Nexware Technologies-美国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -15904,12 +15978,24 @@
         "locator": "反向信号名单!Q793"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L30"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L175"
       },
       {
         "path": "profile/A/A-121-Nexware Technologies-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-121-Nexware Technologies-美国.md",
+        "locator": "L66"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -16722,6 +16808,40 @@
     ]
   },
   {
+    "url": "https://paramountsec.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L95"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L103"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L109"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L115"
+      },
+      {
+        "path": "profile/A/A-122-Paramount Security Partners-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-122-Paramount Security Partners-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-122-Paramount Security Partners-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://paramountsec.com/contact/",
     "http_checked": false,
     "occurrences": [
@@ -17052,6 +17172,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-795/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://professionalcablingsolutions.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L168"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L180"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L186"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L192"
+      },
+      {
+        "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -17872,12 +18026,40 @@
         "locator": "反向信号名单!Q841"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L790"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L798"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L804"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L810"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L317"
       },
       {
         "path": "profile/A/A-131-SDC B.V-荷兰.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-131-SDC B.V-荷兰.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-131-SDC B.V-荷兰.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-131-SDC B.V-荷兰.md",
+        "locator": "L88"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -18914,6 +19096,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-800/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://silcofs.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L486"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L494"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L500"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L512"
+      },
+      {
+        "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -20448,6 +20672,48 @@
     ]
   },
   {
+    "url": "https://vartek.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L638"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L646"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L652"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L658"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L664"
+      },
+      {
+        "path": "profile/A/A-129-VARtek Services Inc-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-129-VARtek Services Inc-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-129-VARtek Services Inc-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-129-VARtek Services Inc-美国.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://vesuviustreamline.com/",
     "http_checked": false,
     "occurrences": [
@@ -21244,12 +21510,48 @@
         "locator": "反向信号名单!Q796"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L251"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L259"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L265"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L271"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L277"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L218"
       },
       {
         "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -21494,12 +21796,48 @@
         "locator": "反向信号名单!Q882"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L946"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L954"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L960"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L966"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L972"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L343"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -21802,6 +22140,26 @@
         "locator": "反向信号名单!Q883"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1025"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1033"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1039"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1045"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1051"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L350"
       },
@@ -21820,6 +22178,22 @@
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
         "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -22216,6 +22590,48 @@
     ]
   },
   {
+    "url": "https://www.alarm-as.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1183"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1191"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1197"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1203"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1209"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.alarm-as.de/kontakt/impressum",
     "http_checked": false,
     "occurrences": [
@@ -22292,12 +22708,48 @@
         "locator": "反向信号名单!Q886"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1262"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1270"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1276"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1282"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1288"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L399"
       },
       {
         "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -22976,6 +23428,48 @@
     ]
   },
   {
+    "url": "https://www.amro.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1341"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1349"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1355"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1361"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1367"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.amro.de/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -23240,6 +23734,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-889/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.arche-systeme.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1420"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1432"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1438"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1444"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -23720,6 +24248,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-890/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bachert.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1503"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1511"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1517"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1523"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -35666,6 +36228,16 @@
     ]
   },
   {
+    "url": "https://www.nabacom.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L867"
+      }
+    ]
+  },
+  {
     "url": "https://www.nabacom.it/contatti/",
     "http_checked": false,
     "occurrences": [
@@ -35688,6 +36260,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-853/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nabacom.it/facciamo/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L863"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L875"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L881"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L887"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L893"
+      },
+      {
+        "path": "profile/A/A-132-Nabacom-意大利.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-132-Nabacom-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-132-Nabacom-意大利.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-132-Nabacom-意大利.md",
+        "locator": "L75"
       }
     ]
   },
@@ -38726,12 +39340,24 @@
         "locator": "反向信号名单!Q798"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L413"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L421"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L244"
       },
       {
         "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
+        "locator": "L66"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -38760,6 +39386,26 @@
         "locator": "反向信号名单!Q797"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L330"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L338"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L344"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L350"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L356"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L225"
       },
@@ -38778,6 +39424,22 @@
       {
         "path": "profile/A/A-125-Security 101 - CT-美国.md",
         "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-125-Security 101 - CT-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-125-Security 101 - CT-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-125-Security 101 - CT-美国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-125-Security 101 - CT-美国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -38822,6 +39484,18 @@
         "locator": "反向信号名单!Q798"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L409"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L427"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L433"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L238"
       },
@@ -38840,6 +39514,14 @@
       {
         "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
         "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -39662,12 +40344,24 @@
         "locator": "反向信号名单!Q889"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1424"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L1450"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L425"
       },
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L91"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -40892,12 +41586,40 @@
         "locator": "反向信号名单!Q801"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L565"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L573"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L579"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L585"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L274"
       },
       {
         "path": "profile/A/A-128-UberData Networks-美国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-128-UberData Networks-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-128-UberData Networks-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-128-UberData Networks-美国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -42138,6 +42860,40 @@
       {
         "path": "profile/A/A-010-Wireless Netware-加拿大.md",
         "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wiretechnologies.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L717"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L725"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L731"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第7批.json",
+        "locator": "L737"
+      },
+      {
+        "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
+        "locator": "L72"
       }
     ]
   },
