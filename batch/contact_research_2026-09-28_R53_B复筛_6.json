@@ -1,0 +1,176 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第6批（塞浦路斯/奥地利/希腊行）。判据同前。",
+ "records": [
+  {
+   "code": "B-105",
+   "decision": "pending",
+   "site": "prod.cy-wireless.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】站点在线但正文被 reCAPTCHA 拦截（仅标题 CY-WIRELESS - Your Wireless Partner）→ 品类无法核验，待重试；本轮维持B。",
+   "quote": "CY-WIRELESS - Your Wireless Partner（正文被 reCAPTCHA 拦截）",
+   "sources": [
+    [
+     1,
+     "https://prod.cy-wireless.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-106",
+   "decision": "pending",
+   "site": "mstronics.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://mstronics.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-108",
+   "decision": "hold-B",
+   "site": "alpenedv.at",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：AlpenEDV KG（Hall in Tirol）为本地 IT 服务/电脑店（维修、数据恢复、零售、网络服务中的 WLAN/VPN/公司家庭网络），无交换机品类与产品目录 → 维持B。",
+   "quote": "AlpenEDV – IT-Spezialisten in der Region；Leistungen：Mobilgerät／PC, Laptop／Server；Netzwerk: WLAN-Lösungen, VPN, Firmen- und Heimnetzwerk；Ladengeschäft",
+   "sources": [
+    [
+     1,
+     "https://alpenedv.at/"
+    ]
+   ]
+  },
+  {
+   "code": "B-110",
+   "decision": "pending",
+   "site": "sei-ned.org",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】站点抓取失败（HTTP 500）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败：HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://sei-ned.org/"
+    ]
+   ]
+  },
+  {
+   "code": "B-111",
+   "decision": "pending",
+   "site": "netzware.at",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：Netzware 为奥中小企业 IT 服务/网络技术商（网络方案、安全、VOIP、备份、硬件采购），并有 MikroTik Newsletter 栏目；首页未列交换机品类 → 待核验其“Netzwerk Lösungen/Produkte”页后再判；本轮维持B。",
+   "quote": "Netzware | IT-Consulting | Netzwerktechnik & IT-Dienstleistungen；Mikrotik Newsletter 12/2024；CORE：IT-SECURITY／NETZWERK LÖSUNGEN (VPLS & STANDORT VERNETZUNG)／HARDWARE BESCHAFFUNG",
+   "sources": [
+    [
+     1,
+     "https://netzware.at/"
+    ]
+   ]
+  },
+  {
+   "code": "B-112",
+   "decision": "promote",
+   "site": "shop.qedv.at",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：QEDV（Tirol）IT 网店出售 **«Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos»（24口无风扇 SFP+ 交换机）与 24-Port PoE 交换机**，另售 MikroTik 路由器/AP 与 PoE 注入器 → 交换机型号明确+PoE → 人工定级升A。",
+   "quote": "Beliebte Artikel：Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos（224,17 €）／Mikrotik 24-Port PoE Switch mit 4x SFP（191,67 €）；Portabler aktiver PoE Injector",
+   "sources": [
+    [
+     1,
+     "https://shop.qedv.at/"
+    ]
+   ]
+  },
+  {
+   "code": "B-113",
+   "decision": "pending",
+   "site": "triotronik.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：TRIOTRONIK 自称「der Netzwerkdistributor」（25 年，网络布线/光缆/安防/IoT 三大业务），首页主推 SLIM 光跳线、Avigilon 视频、Teltonika 5G 路由 → 网络分销属性明确但首页未见交换机品类，待核验产品树；本轮维持B。",
+   "quote": "TRIOTRONIK - der Netzwerkdistributor；Unsere drei Geschäftsbereiche: Distribution／Academy／Technologies；ATRM50 5G-Router von Teltonika",
+   "sources": [
+    [
+     1,
+     "https://www.triotronik.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-114",
+   "decision": "promote",
+   "site": "evonet.at",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：evoNET GmbH（Tirol 三地，约 10 人小公司）主营中小企业/酒店网络与 Guest-WLAN，**合作伙伴含 MikroTik 与 UniFi**，团队页公开 9 人邮箱（dr@/tj@/msc@evonet.at…），客户名单含多家酒店/缆车公司 → 网络专营+小型团队+直连邮箱 → 人工定级升A。",
+   "quote": "IT-Support & Netzwerke im Tiroler Oberland；Netzwerke & Gast-WLAN - für Hotels, Gastronomie und Betriebe；Partner: terra, eset, acronis, … mikrotik.svg, unifi.svg；Geschäftsführung: Ing. Daniel Reinstadler (dr@evonet.at), Ing. Thomas Jordan (tj@evonet.at)",
+   "sources": [
+    [
+     1,
+     "https://www.evonet.at/"
+    ]
+   ],
+   "email": "info@evonet.at"
+  },
+  {
+   "code": "B-115",
+   "decision": "hold-B",
+   "site": "allnet-italia.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：Allnet.Italia 为大型 ICT 增值分销商（年 10K 项目、2 个物流中心、1.5K 认证人员；品牌含 Yealink/Snom/Teltonika/Ubiquiti/H3C/Axis 等），网络只是其一解决方案线 → 大盘分销、决策链长，维持B。",
+   "quote": "Allnet.Italia – We Make Connections；10K Progetti ogni anno／2 Centri Logistici／1.5K Persone certificate；mercati: MSP, Hospitality, Healthcare, Industry 4.0, Retail, Trasporti, Education",
+   "sources": [
+    [
+     1,
+     "https://www.allnet-italia.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-514",
+   "decision": "hold-B",
+   "site": "alpha-motion.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：Alpha Motion（希腊，32 年）为运动控制/机器人/工业自动化专营（Yaskawa、Parker、Kollmorgen、WEG…），仅将工业网络列为应用领域之一，无交换机产品线 → 维持B。",
+   "quote": "Η εταιρεία μας εισάγει και εμπορεύεται εξειδικευμενα προϊόντα βιομηχανικού αυτοματισμού και ρομποτικής；Προμηθευτές: Yaskawa, Kollmorgen, Parker, WEG；Βιομηχανικά Δίκτυα（仅应用领域）",
+   "sources": [
+    [
+     1,
+     "https://alpha-motion.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-117",
+   "decision": "promote",
+   "site": "automationexperts.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：Automation Experts 为工业自动化代理（希腊+塞浦路斯），**官方代理 Antaira（Industrial EtherNet Switches、PoE Solutions、Media Converters，2026-01 新签约）、Lantech（EN50155 车载/轨交工业以太网交换机，官网直接列 Switches 链接）、Red Lion/N-Tron、HMS/Anybus** → 工业交换机品类完整+PoE+两家网点+直邮箱 → 人工定级升A。",
+   "quote": "Επίσημη αντιπροσωπεία των … Antaira … Lantech … Red Lion, N-Tron …；LANTECH Industrial Ethernet／Switches：Δικτύωση Industrial Ethernet με πιστοποίηση EN50155；Ιανουάριος 2026 - Νέα συνεργασία με την Antaira (Industrial EtherNet Switches, PoE Solutions, Media Converters)",
+   "sources": [
+    [
+     1,
+     "https://www.automationexperts.gr/"
+    ]
+   ],
+   "email": "info@automationexperts.gr"
+  },
+  {
+   "code": "B-118",
+   "decision": "promote",
+   "site": "cableworks.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6】官网核对：Cableworks（希腊）为有线/无线网络专营网店，**MikroTik 分类含 CSS Series 与 CRS Series（交换机专类）、Teltonika→Switches、TP-Link→Switches、Ubiquiti UniFi/UISP 生态**，另有光纤/结构化布线/PoE 适配器 → 交换机品类完整+网络专营 → 人工定级升A。",
+   "quote": "Cableworks | Wired & Wireless Networking, Fiber Optics, Ubiquiti, Mikrotik, TP-Link；MikroTik: CSS Series／CRS Series／CCR Series；Teltonika: Switches；TP-Link: Switches；Ubiquiti: UniFi Ecosystem／UISP Ecosystem",
+   "sources": [
+    [
+     1,
+     "https://www.cableworks.gr/"
+    ]
+   ]
+  }
+ ]
+}
