@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第1批（乌克兰渠道/集成行，CSV顺序）。判据：站点在线且有一级交换机品类/在售交换机+网络专长（或监控/PoE场景）且为小公司/个体（决策链短）→ 人工定级升A；宽线大盘分销、整机零售附属网络品类、站点失败 → 维持B并落证。未发送邮件、未提交表单。",
+ "records": [
+  {
+   "code": "B-011",
+   "decision": "hold-B",
+   "site": "elko.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：ELKO Ukraine 为宽线 IT/家电分销商（自述 40 000 产品、10 000 客户、400 厂商；含消费电子与家电），网络品类只是其一 → 大盘/决策链长，维持B。",
+   "quote": "ELKO Ukraine – дистриб’ютор широкого асортименту IT продуктів і рішень, споживчої електроніки та побутової техніки … 40 000 Продуктів / 10 000 Клієнтів / 400 Виробників",
+   "sources": [
+    [
+     1,
+     "https://www.elko.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-012",
+   "decision": "hold-B",
+   "site": "erc.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：ERC 为 15 大类超大盘分销（电池/照明/玩具/水处理/暖通/日用品等），网络设备仅一小类 → 大盘，维持B。",
+   "quote": "За категоріями: Електроживлення…; Товари для дітей та іграшки; Сантехніка; FMCG; HVAC; Туристичне спорядження（分类导航）",
+   "sources": [
+    [
+     1,
+     "https://erc.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-013",
+   "decision": "hold-B",
+   "site": "gazik.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：Gazik 为二手/整机电脑零售（笔记本、显示器、品牌机为主），网络品类仅附属导航（Комутатори 有分类但站点定位非网络商）→ 维持B。",
+   "quote": "GAZIK – інтернет-магазин надійної техніки；首页商品为笔记本/显示器/系统 блок；含 Мережеве обладнання（Маршрутизатори/Комутатори）导航",
+   "sources": [
+    [
+     1,
+     "https://gazik.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-014",
+   "decision": "promote",
+   "site": "lanbox.com.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：LanBox（利沃夫州新亚沃里夫斯克，小团队，2 个电话+营业时间）为无线/有线网络专营店，**交换机一级分类「Комутатори (239)」**、路由 246、AP 315、另有批发部门（Гуртовий відділ）→ 明确交换机品类+小公司决策链短+邮箱直达 → 人工定级升A。",
+   "quote": "Провідне обладнання ／ Комутатори (239) ／ Маршрутизатори (246) ／ Гуртовий відділ；sale@lanbox.com.ua",
+   "sources": [
+    [
+     1,
+     "https://lanbox.com.ua/"
+    ]
+   ],
+   "email": "sale@lanbox.com.ua"
+  },
+  {
+   "code": "B-015",
+   "decision": "promote",
+   "site": "lanmarket.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：Lanmarket 为网络/电信设备专营（零售+批发），在售 MikroTik（NetBox 5、SXT LTE、CCR2004-16G-2S+、Q+DA0001 40G 线缆）与 PON OLT 交换机品类、OTDR 等 → 电信/网络专长+交换机品类+决策链短 → 人工定级升A。",
+   "quote": "Магазин сетевого оборудования Lanmarket - розничная и оптовая продажа；MikroTik CCR2004-16G-2S+ / NetBox 5 / ОLT коммутаторы / OTDR ZS1000-A",
+   "sources": [
+    [
+     1,
+     "https://lanmarket.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-016",
+   "decision": "pending",
+   "site": "lantorg.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：LanTorg 为网络设备网店（路由/天线/OTDR/电池等），首页未见交换机品类证据 → 待二次核验交换机分类页后再判；本轮不改级。",
+   "quote": "LanTorg — Ваш інтернет-магазин мережевого обладнання；首页在售 Tenda 路由、OTDR、LiFePO4 电池",
+   "sources": [
+    [
+     1,
+     "https://lantorg.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-017",
+   "decision": "promote",
+   "site": "lux-mobil.com.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：Lux-Mobil 为小型网络+视频监控店（MikroTik 全系在售、Hikvision 相机、Tenda 交换机、Zyxel 许可），首页在售「Комутатор TENDA TEG1008D」 → 交换机+监控(PoE)场景+小公司 → 人工定级升A。",
+   "quote": "LUX-MOBIL ➤ Мережеве обладнання；Вся продукція компанії Mikrotik；Комутатор TENDA TEG1008D 8port…；Hikvision HDTVI камери",
+   "sources": [
+    [
+     1,
+     "https://lux-mobil.com.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-018",
+   "decision": "hold-B",
+   "site": "products.mti.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：MTI 为宽线 IT 分销（笔记本/PC/配件/外设/存储/打印机/网络），网络设备为其一栏（含 Комутатори 分类） → 大盘分销、决策链长，维持B。",
+   "quote": "Каталог товарів MTI：Ноутбуки／Комп’ютери／Комплектуючі／Периферія／Пристрої для друку／Активне мережеве обладнання（Комутатори）",
+   "sources": [
+    [
+     1,
+     "https://products.mti.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-019",
+   "decision": "promote",
+   "site": "networkdiscount.com.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】官网核对：Network Discount 为网络设备专营网店（Комутатори 为第一商品组，含 Cisco 认证翻新、PON、光模块、监控、UPS 等），小店体量 → 交换机品类+网络专长+决策链短 → 人工定级升A。",
+   "quote": "Network Discount - интернет магазин сетевого оборудования；Групи товарів: Комутатори／Маршрутизатори／Оптичні модулі／Cisco Certified Refurbished",
+   "sources": [
+    [
+     1,
+     "https://networkdiscount.com.ua/ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-021",
+   "decision": "pending",
+   "site": "omnilink.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛1】站点抓取失败（HTTP 500），本轮无法核验 → 待重试；暂维持B。",
+   "quote": "（抓取失败：HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://omnilink.ua/"
+    ]
+   ]
+  }
+ ]
+}
