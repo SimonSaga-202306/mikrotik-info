@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: true, oem: true, hotel: false, training: true}
-p1: CONSULT-OEM
+p1: STC-424DGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、PoE/监控/门禁），且有具体人直联
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 白牌/分销语境；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -80,7 +80,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 PoE++（第三波价格段试销）
 
@@ -134,23 +134,42 @@ updated: 2026-09-28
   > UniFi 6 (U6) · UniFi U7 Lite · TP-Link Aginet · Tachyon 60GHz
   > 来源：https://linitx.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：英国双 Master 分销+官方培训中心；Alta/Aginet 值价位线在册
+- **②芯片/型号**：Ubiquiti/Alta/TPL/Teltonika
+- **③KP 深挖**：Thompson 六证双口直达
+- **④Saga 对标**：24 口 PoE 纯值价位段补位；教具箱二轨
+- **⑤在乎与偏好**：错价位/标价透明
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Mikrotik & Ubiquiti Master Distributors…Alta Labs…Teltonika Energy TeltoCharge…Training”
+  > “Mikrotik & Ubiquiti Master Distributors…Alta Labs…Teltonika Energy TeltoCharge…Training”
+  > 来源：https://linitx.com/
+- **【联系方式】**training@linitx.com +44 1449 888000；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > training@linitx.com +44 1449 888000；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://linitx.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | 白牌/分销语境 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、PoE/监控/门禁），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（白牌/分销语境）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：吞吐
+- **W**：线在
+- **O**：错价位
+- **T**：内比
 
 ## 触达与风险红线
 
@@ -188,21 +207,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：PoE switching for your projects
 
 ```text
 Hi Jono,
 
-I came across LinITX - 集成商/顾问（MikroTik 认证）.
+LinITX covers almost every shelf - Ubiquiti, MikroTik, Alta, Aginet, Teltonika EV, and a UK MikroTik training center on top.
 
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $165 USD EXW.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: is there an open value slot for a PoE-focused 24-port switch on your shelf?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit for evaluation with a suggested shelf positioning. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

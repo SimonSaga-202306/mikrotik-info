@@ -165,6 +165,22 @@ OVERRIDE = {
            'p1_reason': 'mtik.pl 全真硬件教室：MTCSWE 工位交换教具期期消耗（$99 锚点一致）；师者红线'},
  'A-049': {'p1': 'STC-28DGGPM', 'p1_reason': 'C3NET 双高阶工作室站休眠：支持邮箱域存活走 mt-support@；企业无线随单'},
  'A-050': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SINUX 华沙个体双高阶（MTCSWE+MTCEWE）：特性表+电话核实（NIP 在册真实存续）'},
+ # ── R56 批 6（A-051..A-060 深挖 2026-09-28）──
+ 'A-051': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SAFES 波高端物业/酒店 IT 全托管（PMS+SOC）：单店客房 Wi-Fi+安防 24 口 PoE 随单（$165 锚点一致）'},
+ 'A-052': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'narrowin 瑞士 OT 可见性软件商：多站点试点被推荐温宽小盒（$74.8 锚点一致）；基建客户招牌段守边界'},
+ 'A-053': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'MiniMeLabs 葡团伦敦场所 Wi-Fi/分析：高密 AP 项目 PoE 接入层随单（$165 锚点一致）'},
+ 'A-054': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Direktronik PCR 40 年分销（N-net 在卖 ERPS/SNMPv3）：value-tier 24 口 PoE 白牌补位（$165 锚点一致）'},
+ 'A-055': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'Sarlin 芬兰 90 年工业伙伴（LNG/生物气站）：能源站温宽 PoE 补充+生命周期语言（$74.8 锚点一致）'},
+ 'A-056': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'AA Jones 赫尔批发大仓（N-Tron+Red Lion/HMS）：温宽 PoE 批发补件（$74.8 锚点一致）'},
+ 'A-057': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'System Devices 独代分销（Opto22/Epson 等）：Antaira 旁柜内温宽 PoE 独代候选（$74.8 锚点一致）'},
+ 'A-058': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'AGL 葡 Edge AI 分销（视觉机 4×PoE+、PoE 入类目）：PoE 上游温宽交换上架位（$74.8 锚点一致）'},
+ 'A-059': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致）'},
+ 'A-060': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$165 锚点一致）；顾问身份接触'},
 }
 
 out = {}

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — AGL 葡 Edge AI 分销（视觉机 4×PoE+、PoE 入类目）：PoE 上游温宽交换上架位（$74.8 锚点一致）；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -128,11 +128,33 @@ updated: 2026-09-28
   > Arbor AEC-4201 (NVIDIA® Jetson Orin™ NX, 117/157 TOPS, 4x PoE+)
   > 来源：https://guedeslopes.pt/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：葡工业计算/Edge AI 电商分销；PoE 入类目+监控解法在册
+- **②芯片/型号**：Antaira（CSV）+视觉机 4×PoE+
+- **③KP 深挖**：geral@ 口+电话
+- **④Saga 对标**：PoE 上游温宽交换（避其视觉机正面）
+- **⑤在乎与偏好**：目录文档齐/RFQ
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Comunicação Industrial: Ethernet·PoE·Wireless·Serial…07 Vigiar e proteger: Vídeo·PoE·Processamento”
+  > “Comunicação Industrial: Ethernet·PoE·Wireless·Serial…07 Vigiar e proteger: Vídeo·PoE·Processamento”
+  > 来源：https://guedeslopes.pt/
+- **【产品线】**新品：Arbor AEC-4201 (Jetson Orin NX, 4x PoE+)、NVIDIA DGX Spark
+  > 新品：Arbor AEC-4201 (Jetson Orin NX, 4x PoE+)、NVIDIA DGX Spark
+  > 来源：https://guedeslopes.pt/en/collections/novos-produtos
+- **【联系方式】**geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://guedeslopes.pt/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | AGL 葡 Edge AI 分销（视觉机 4×PoE+、PoE 入类目）：PoE 上游温宽交换上架位（$74.8 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -141,10 +163,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：目录吞吐
+- **W**：非主轴
+- **O**：双吞 PoE
+- **T**：在位盘
 
 ## 触达与风险红线
 
@@ -178,21 +200,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi AGL,
+Hi AGL team,
 
-I came across AGL Industrial Solutions - 分销（Antaira 授权）.
+A catalog that sells Jetson vision platforms with 4x PoE+ on board knows the PoE device world well - it is right there in your Industrial Communication category.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build industrial managed PoE switches rated -40 to 75C that sit just upstream of those devices. Reference: $74.8 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: who supplies the PoE switch layer upstream of your vision and security device rows today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit plus catalog-ready documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

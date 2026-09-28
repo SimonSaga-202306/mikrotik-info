@@ -1,0 +1,982 @@
+{
+ "batch": 16,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-051",
+   "fact": "SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证",
+   "inference": "酒店物业 IT 托管商=客房 Wi-Fi/UAP+安防接入层的长期随单口——PMS 防护=酒店业持证深度",
+   "hypothesis": "“objects premium”=酒店/商办物业包年外包，接入层以项目量滚动采购",
+   "evidence_main": "https://safes.pl/",
+   "tech": "LAN/WAN/Wi-Fi 基建+SOC 24/7+Zero Trust+PMS 防护；enova365 授权伙伴",
+   "hr": "20 年、non-stop 托管模式、境内外项目",
+   "contact_found": "biuro@safes.pl +48 412 412 324；MX=O365（safes-com-pl.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "波兰高端物业/酒店 IT 全托管商（机房代管+网络基建+SOC 安全）",
+    "产品线与在售品牌": "外包服务+enova365 授权伙伴",
+    "目标行业与场景": "酒店/高端物业（“obiekty premium”）境内外 consistently",
+    "团队与规模": "中型托管商",
+    "决策链与对接人": "Wandas（六证顾问）biuro@",
+    "技术与认证": "MTCNA/MTCRE/MTCWE/MTCTCE/MTCINE/MTCIPv6E",
+    "采购与供应链信号": "托管项目随单滚动采购",
+    "近期动态与线索": "Cybersecurity 页面强推 SOC 24/7+PMS",
+    "与我方契合点": "酒店 Wi-Fi/安防接入层随单托管耗材位",
+    "风险与注意": "机房代管属性→报价须带长期支持口径"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Od 20 lat obsługujemy obiekty premium w Polsce i za granicą – w trybie non-stop…Sieci LAN/WAN/Wi-Fi…SOC, Architektura Zero Trust, Ochrona PMS”",
+     "source": "https://safes.pl/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "biuro@safes.pl +48 412 412 324；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://safes.pl/kontakt/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 酒店翻修随单",
+     "push": "STC-424DGGPM-280W",
+     "angle": "客房 Wi-Fi+安防一台收纳",
+     "question": "单店物业点位规模？",
+     "proof": "酒店方案页"
+    },
+    {
+     "stage": "第 2 次跟进 · Voice VLAN",
+     "push": "特性对口页",
+     "angle": "客房话机+楼道分开",
+     "question": "Voice VLAN 配了没？",
+     "proof": "配置样张"
+    },
+    {
+     "stage": "第 3 次跟进 · SOC 联动",
+     "push": "SNMP 对接其 SOC",
+     "angle": "监控对接",
+     "question": "SOC 监控协议接入方式？",
+     "proof": "MIB/样机"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "20 年高端物业 IT 托管（酒店味浓：PMS 防护）+SOC 自运营",
+     "②芯片/型号": "六证 MikroTik 全链",
+     "③KP 深挖": "Wandas biuro@ O365 直达",
+     "④Saga 对标": "单店 24 口 PoE 随单（客房 Wi-Fi+安防+话机）",
+     "⑤在乎与偏好": "包年托管=稳定+长期支持口径",
+     "⑥SWOT": "S 托管高粘性 / W 无线下渠道 / O 物业量滚动 / T 大厂直采"
+    },
+    "care": [
+     "长期支持与 SLA 口径"
+    ],
+    "swot": {
+     "S": "托管粘性",
+     "W": "无渠道",
+     "O": "项目滚动",
+     "T": "直采"
+    },
+    "uncertain": {
+     "产品线核实": "接入层 SKU 未公开",
+     "合作方式": "框架未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "物业清单规模",
+    "现用交换品牌",
+    "框架采购结构"
+   ],
+   "email": "Hi Paweł,\n\nA hotel or premium-property IT team that runs SOC 24/7, Zero Trust and PMS protection is rare - SAFES wears all three.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog) sized exactly for property Wi-Fi plus camera closets, with multi-year supply guarantees for managed-estate rollouts. Reference: $165 USD EXW.\n\nOne question: in a typical property you manage, how many outlets and cameras land on one access cabinet?\n\nIf useful, I can send one unit plus a hotel reference design. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a typical property you manage, how many outlets and cameras land on one access cabinet?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "波兰|酒店物业托管|SOC24/7|随单滚动",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-052",
+   "fact": "narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、EnBW、巴塞尔大学/大学医院/州立医院、IBB Brugg、Breitband Lörrach、**格斯根核电站（KKG）**；Innosuisse+FHNW 资助研究：**跑在现网交换机/防火墙/网关容器里的边缘 OT-IDS**（自校准基线），正招试点（供暖/能源/交通多站点）；Tomas Horyl MTCNA+MTCSWE",
+   "inference": "其软件卖进 MikroTik 浓度高的瑞士关键基础设施圈——我们不是卖软件的直接对手，而是其落地方案里可选的可靠交换硬件推荐位",
+   "hypothesis": "与其只当客户，不如当被推荐硬件：其评估/试点项目里的温宽小盒需求真实存在",
+   "evidence_main": "https://narrowin.com/en/",
+   "tech": "无 agent 网络可视化/IDS/OT 连通模板；on-prem 容器化 IDS 研究（跑在现网交换机上）",
+   "hr": "工程师团队 IT/OT 一体；瑞士关键基础设施客户群",
+   "contact_found": "info@narrowin.ch；MX=O365（narrowin-ch / narrowin-com 双域）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "核电站/Swissgas 等关键基础设施段=其客户招牌非我方触达对象；只谈其试点合作与评估推荐位；容器特性=其软件跑在别人硬件上，我方硬件容器能力如不实不可承诺",
+   "dims": {
+    "业务定位": "瑞士 OT 网络可见性/安全软件商（轻量哲学，客单价友好位）",
+    "产品线与在售品牌": "Explorer/IPAM/Log/OT Connect/Diode/AI Stack 六件",
+    "目标行业与场景": "关键基础设施/能源/医院/高校/供暖网络",
+    "团队与规模": "精悍工程师初创",
+    "决策链与对接人": "Tomas Horyl（MTCNA+MTCSWE）",
+    "技术与认证": "Innosuisse 资助容器化 OT-IDS 研究",
+    "采购与供应链信号": "评估/试点项目所需硬件推荐位",
+    "近期动态与线索": "OT-IDS 研究招试点中（供暖/能源/交通多站点）",
+    "与我方契合点": "其试点与评估项目里的被推荐管理型 PoE 硬件",
+    "风险与注意": "关键基础设施招牌段边界；不得虚称容器能力"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Lightweight network and security tools…visibility, segmentation & security for OT…customers: Swissgas, EnBW, Universitätsspital Basel, Kantonsspital Baselland, Kernkraftwerk Gösgen”",
+     "source": "https://narrowin.com/en/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“An OT-IDS that runs on the equipment you already have…Looking for pilot partners (heating, energy, transportation, multi-site)”",
+     "source": "https://narrowin.com/en/work-ot-ids-research"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@narrowin.ch；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://narrowin.com/en/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 推荐位架构",
+     "push": "STI-288GP 温宽小盒",
+     "angle": "其多站点试点项目的被推荐管理型交换硬件",
+     "question": "试点项目现场交换位由谁供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 互操作床检",
+     "push": "样机+其 Explorer 扫一台",
+     "angle": "设备被其 Explorer 认全的验证",
+     "question": "愿收一台让其 Explorer 扫认？",
+     "proof": "LLDP/SNMP 达标说明"
+    },
+    {
+     "stage": "第 3 次跟进 · 联合材料",
+     "push": "试点联合推荐清单",
+     "angle": "双方互补材料",
+     "question": "联合推荐材料可行？",
+     "proof": "样张"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "瑞士 OT 可见性软件初创（轻量哲学）；MikroTik 浓度高的基建客户群；IHF 研究容器 IDS",
+     "②芯片/型号": "目标网络 CRS326 级 MikroTik",
+     "③KP 深挖": "Horyl 直达（MTCSWE）",
+     "④Saga 对标": "温宽小盒被推荐位（非正面对标）",
+     "⑤在乎与偏好": "轻量/可运维/价格友好——同频",
+     "⑥SWOT": "S 基建客户渠道 / W 软件商无采购体量 / O 试点推荐位 / T 边界敏感"
+    },
+    "care": [
+     "轻量、透明、可问 real 问题、不夸大能力"
+    ],
+    "swot": {
+     "S": "基建借势",
+     "W": "无量",
+     "O": "推荐位",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "硬件推荐清单未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "试点硬件现供",
+    "推荐清单形态",
+    "联合材料意愿"
+   ],
+   "email": "Hi Tomas,\n\nYour \"lightweight by default\" manifesto reads like our own spec sheet - and I saw a CRS326 in your example topology, so we already speak the same metal.\n\nWe build industrial managed PoE switches (-40..75C, hardware watchdog, LLDP/SNMP clean for visibility tools like your Explorer). Reference: $74.8 USD EXW.\n\nOne question: in your distributed-OT pilots, who supplies the managed switches on site today?\n\nIf useful, I can send one unit so your Explorer can meet a new device - always a fair test. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your distributed-OT pilots, who supplies the managed switches on site today?",
+   "alt2": "STI-280GE",
+   "alt3": "STC-28DGGPM",
+   "tag": "瑞士|OT可见性|试点被推荐位|基建边界",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-053",
+   "fact": "MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）",
+   "inference": "场所 Wi-Fi（captive portal+分析）=高密 AP 部署→PoE 供电接入层是每张单的水电煤",
+   "hypothesis": "商场/机场/球场型项目普遍 50-300 AP，接入层 PoE 量可观",
+   "evidence_main": "https://minimelabs.com/",
+   "tech": "Wi-Fi analytics/captive portal 平台；IoT 智能电表；MTCUME 对口",
+   "hr": "葡源团队；伦敦核心商圈实落地",
+   "contact_found": "urbino@minimelabs.com +351 919 379 550；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "场所数字互动/Wi-Fi 获客平台商（伦敦商圈已落地）",
+    "产品线与在售品牌": "Morfus/MidasMoon/EzeHome/Morfus Connect",
+    "目标行业与场景": "公共空间/酒店/餐饮/商场/机场/竞技场",
+    "团队与规模": "软件平台小团",
+    "决策链与对接人": "Urbino Lobo（MTCNA+MTCUME）",
+    "技术与认证": "MTCUME=门户体系对口",
+    "采购与供应链信号": "场所项目整包部署含接入层",
+    "近期动态与线索": "平台产品四件套成型，伦敦持续运营",
+    "与我方契合点": "高密 AP 项目 PoE 供电接入层整包随行",
+    "风险与注意": "平台商——硬件采购量随项目波动"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“operating digital engagement solutions throughout London – Trafalgar Square, Oxford Street, Westminster…airports, shopping centers, arenas…Morfus Connect 绕 MAC 随机化的场所 Wi-Fi 分析”",
+     "source": "https://minimelabs.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://minimelabs.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 商场 Wi-Fi 项目",
+     "push": "STC-424DGGPM-280W",
+     "angle": "高密 AP 一台收纳供电",
+     "question": "单项目 AP 量级？",
+     "proof": "商超方案页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对客门户共存",
+     "push": "其平台+我方机柜合影",
+     "angle": "接入层不抢其软件戏",
+     "question": "接入层供货现况？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 翻修滚动",
+     "push": "框架小批",
+     "angle": "老场翻修滚动",
+     "question": "年度翻新节奏？",
+     "proof": "阶梯卡"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "葡团伦敦落地场所数字互动平台；Wi-Fi 获客/分析+IoT 四件套",
+     "②芯片/型号": "MTCUME 对口门户；平台软面板",
+     "③KP 深挖": "Lobo 直达",
+     "④Saga 对标": "高密 AP PoE 接入层随单",
+     "⑤在乎与偏好": "整包快速部署",
+     "⑥SWOT": "S 场景落地实证 / W 量随项目 / O 商圈滚动 / T 大厂直采"
+    },
+    "care": [
+     "整包省时"
+    ],
+    "swot": {
+     "S": "落地实证",
+     "W": "量波动",
+     "O": "滚动",
+     "T": "直采"
+    },
+    "uncertain": {
+     "产品线核实": "接入层品牌未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "AP 采购模式",
+    "项目量",
+    "接入层现供"
+   ],
+   "email": "Hi Urbino,\n\nRunning live venue Wi-Fi and analytics across Trafalgar Square and Oxford Street is no slideshow - it means real dense AP grids.\n\nWe build 24-port Gigabit PoE switches (280W, 802.3af/at, silent for back-of-house, watchdog) sized exactly for those AP clusters. Reference: $165 USD EXW.\n\nOne question: in a typical venue deployment, how many APs land on one access switch for you?\n\nIf useful, I can send one unit plus a venue rack layout. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a typical venue deployment, how many APs land on one access switch for you?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "葡萄牙/伦敦|场所WiFi分析|高密AP接入层",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-054",
+   "fact": "Direktronik AB（瑞典，1986 创立）：40 年北欧网络/通信/基础设施分销商——每年上新 1000+ SKU；电商登录制特价体系；在册自台：数据中心 400G L3 交换机、SFP 全谱、PoE injector/交换机、边缘到 FTTH；CSV 信号：**已卖带 ERPS/SNMPv3 的管理型（N-net 品牌线）**；Fredrik Brunzell 直接邮箱",
+   "inference": "N-net=其自有/value 品牌管理型线——我们可直接对应其 value-tier OEM 换血或补充 SKU：SNR 承接 ERPS/SNMPv3 特性永不输查",
+   "hypothesis": "“自集+白牌”每年 1000 SKU 吸纳机制=准入真实；400G 大盒在册显其吃高端，value PoE 位是空档补位",
+   "evidence_main": "https://www.direktronik.se/",
+   "tech": "已在卖管理型（ERPS/SNMPv3）N-net 线+400G DC 级；光模块全谱",
+   "hr": "40 年历史、北欧覆盖、1000+ SKU/年吞吐",
+   "contact_found": "fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "北欧 40 年网络分销（自集 SKU 吞吐强，N-net value 品牌）。",
+    "产品线与在售品牌": "N-net 管理型（ERPS/SNMPv3）+400G DC 交换+光模块全谱",
+    "目标行业与场景": "北欧企业/数据中心/FTTH 建设",
+    "团队与规模": "全国型分销",
+    "决策链与对接人": "Fredrik Brunzell（采购侧直达）",
+    "技术与认证": "SKU 吞吐工程化",
+    "采购与供应链信号": "自集 SKU+白牌机制",
+    "近期动态与线索": "40 周年（1986-2026）",
+    "与我方契合点": "value-tier 管理型 PoE 白牌补位（不当其 400G 大牌对手）",
+    "风险与注意": "SNR 特性永不输查（ERPS/SNMPv3 已在卖）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Direktronik firar 40 år…Vi introducerar över 1000 nya produkter varje år”+在售 400G L3 DC 交换与 PoE 线",
+     "source": "https://www.direktronik.se/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.direktronik.se/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 白牌对照页",
+     "push": "STC-424DGGPM-280W（24 口 PoE，ERPS/SNMPv3 全带）",
+     "angle": "其 N-net 旁 value 补位",
+     "question": "value-tier 24 口 PoE 现源？",
+     "proof": "特性对照页"
+    },
+    {
+     "stage": "第 2 次跟进 · SKU 准入",
+     "push": "其 SKU 准入流程对接",
+     "angle": "千 SKU 机制",
+     "question": "准入文件清单？",
+     "proof": "CE/DoC 包"
+    },
+    {
+     "stage": "第 3 次跟进 · 北欧组合",
+     "push": "8+24 口双 SKU 包",
+     "angle": "边缘+汇聚双位",
+     "question": "双 SKU 阶梯？",
+     "proof": "阶梯+交期"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "40 年北欧分销，1000+ SKU/年；N-net 管理型在册（ERPS/SNMPv3）",
+     "②芯片/型号": "N-net+400G DC 大牌",
+     "③KP 深挖": "Brunzell 直达采购侧",
+     "④Saga 对标": "value-tier 24 口 PoE 白牌补位",
+     "⑤在乎与偏好": "SKU 化吞吐+技术文档齐",
+     "⑥SWOT": "S 吞吐机制 / W 已有 value 线 / O 补位 / T 直接比价"
+    },
+    "care": [
+     "文档/SKU 化/稳定供货"
+    ],
+    "swot": {
+     "S": "吞吐机制",
+     "W": "有线",
+     "O": "补位",
+     "T": "比价"
+    },
+    "uncertain": {
+     "产品线核实": "N-net 线型号价位未核",
+     "合作方式": "白牌/并线未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "N-net 供应商现况",
+    "value 24 口 PoE 源",
+    "准入清单"
+   ],
+   "email": "Hi Fredrik,\n\nCongratulations on 40 years - and on a catalog that swallows 1000 new SKUs a year. That is a machine.\n\nWe build a 24-port Gigabit PoE switch with ERPS, SNMPv3, Voice VLAN and a hardware PoE watchdog at a value price point - built for catalog throughput, not for glossy booths. Reference: $165 USD EXW.\n\nOne question: next to your N-net line, is there an open value slot for a 24-port PoE access switch?\n\nIf useful, I can send a unit plus the full documentation pack for SKU review. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Next to your N-net line, is there an open value slot for a 24-port PoE access switch?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "瑞典|北欧分销40年|白牌补位|ERPS/SNMPv3对照",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-055",
+   "fact": "Sarlin Oy Ab（芬兰）：90+ 年工业伙伴——工业压缩空气（芬兰最资深服务商）、绿色能源技术（**芬兰首批 LNG 加气站+大部分生物气加气站总包**，绿色氢能工业集成研究）+工控自动化品牌进口代办（CSV：N-Tron+Red Lion）；全国维保/生命周期服务；安全记录：连续 1825 天无损工事故、TL Nolla tapaturmaa 一级认；Mikko Ylilammi（自动化产品管理 Head）",
+   "inference": "加气/能源站体+自动化机柜=温宽工业现场真实场景；其“终身周期”文化=供货寿命承诺是最打动它的语言",
+   "hypothesis": "生物气/LNG/氢能站点扩建潮带来现场工业交换件的持续需求",
+   "evidence_main": "https://www.sarlin.com/",
+   "tech": "压缩空气/LNG/生物气/氢能全链+工控自动化品牌进口",
+   "hr": "90 年、全国维保体系、安全世界级",
+   "contact_found": "Mikko Ylilammi（Head of Product Management, Automation，CSV）；+358 400 510 566（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "芬兰 90 年工业伙伴：压缩空气+绿色能源（LNG/生物气/氢）+自动化品牌进口",
+    "产品线与在售品牌": "N-Tron+Red Lion（自动化进口线）",
+    "目标行业与场景": "工业制造/能源站/自动化全周期",
+    "团队与规模": "全国服务网络规模",
+    "决策链与对接人": "Ylilammi（自动化产品线负责人）",
+    "技术与认证": "TL Nolla tapaturmaa 安全一級",
+    "采购与供应链信号": "品牌进口代办+生命周期承诺",
+    "近期动态与线索": "2025-12 PVAT 密闭空间安全合作；氢能集成持续研究",
+    "与我方契合点": "能源站体现场温宽 PoE（不当 N-Tron 正面对标）",
+    "风险与注意": "生命周期/安全文档必须一口到位"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“yli 90 vuoden kokemuksella…toimitta nyt maan ensimmäiset LNG-tankkausasemat sekä suurimman osan biokaasun tankkausasemista…maahantuomme laadukkaita teollisen automaation brändejä”",
+     "source": "https://www.sarlin.com/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“1 825 peräkkäistä työpäivää ilman poissaoloon johtanutta tapaturmaa…Nolla tapaturmaa taso 1”",
+     "source": "https://www.sarlin.com/ajankohtaista/nolla-tapaturmaa-turvallisuus"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "Mikko Ylilammi（自动化产品管理 Head，CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.sarlin.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 能源站现场一页",
+     "push": "STI-288GP 温宽 PoE",
+     "angle": "加气/生物气站现场供电交换件",
+     "question": "站体现场供电交换现供？",
+     "proof": "规格/温宽页"
+    },
+    {
+     "stage": "第 2 次跟进 · 生命周期包",
+     "push": "10 年供货承诺白皮书",
+     "angle": "其生命周期文化对口",
+     "question": "需何级别生命周期承诺？",
+     "proof": "承诺文档"
+    },
+    {
+     "stage": "第 3 次跟进 · 自动化线并轨",
+     "push": "与其自动化品牌线并排货架",
+     "angle": "N-Tron/Red Lion 旁补充",
+     "question": "并排可行的条件？",
+     "proof": "DOA/RMA 条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "90 年芬兰工业伙伴：LNG/生物气站总包+自动化进口；安全世界级",
+     "②芯片/型号": "N-Tron+Red Lion",
+     "③KP 深挖": "Ylilammi 产品线负责人直达",
+     "④Saga 对标": "能源站温宽 PoE 补充位（对标避开）",
+     "⑤在乎与偏好": "生命周期承诺+安全文档",
+     "⑥SWOT": "S 国家服务网络 / W 美系盘在位 / O 能源站潮 / T 盘高度忠诚"
+    },
+    "care": [
+     "生命周期承诺",
+     "安全文档"
+    ],
+    "swot": {
+     "S": "服务网络",
+     "W": "美系在位",
+     "O": "能源潮",
+     "T": "忠诚"
+    },
+    "uncertain": {
+     "产品线核实": "N-Tron 在售 SKU 未核",
+     "合作方式": "代办线准入未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "自动化线交换机位置",
+    "站体项目量",
+    "生命周期门槛"
+   ],
+   "email": "Hi Mikko,\n\nFirst LNG stations, most of the biogas stations, and now green hydrogen integration - Sarlin is building Finland’s gas infrastructure with a safety record to match.\n\nWe build industrial managed PoE switches rated -40 to 75C with a hardware watchdog and multi-year supply commitments, sized for field cabinets at exactly those stations. Reference: $74.8 USD EXW.\n\nOne question: in your station field builds, who supplies the Ethernet access layer today?\n\nIf useful, I can send one unit plus our lifecycle commitment letter. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your station field builds, who supplies the Ethernet access layer today?",
+   "alt2": "STI-280GE",
+   "alt3": "STI-480XGGM",
+   "tag": "芬兰|90年工业伙伴|能源站|生命周期语言",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-056",
+   "fact": "AA Jones Electric Ltd（英国赫尔）：独立电气批发商——3 万件常备库存、1.3 万 SKU 行业控制件（工厂自动化/盘柜件、海运业件、防爆危险区件）；CSV 信号：N-Tron+Red Lion+Anybus+Ixxat（HMS 全家）",
+   "inference": "工控批发柜带 HMS/N-Tron 全档=其工业以太网线成形；我们温宽 PoE 是批发货架的恰位补件",
+   "hypothesis": "海运+防爆两件头是差异化场景：船用柜/Zone 1 周边配线伴生",
+   "evidence_main": "https://www.aajones.co.uk/",
+   "tech": "工控盘件/海运/防爆+Red Lion/N-Tron/HMS",
+   "hr": "独立批发+大仓现货（3 万件）",
+   "contact_found": "sales@aajones.co.uk +44 1482 589015；MX=emailsecurity.app 双活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "赫尔独立电气批发商（工控+海运+防爆，大现货）",
+    "产品线与在售品牌": "N-Tron+Red Lion+Anybus+Ixxat；电工/照明/盘柜全品",
+    "目标行业与场景": "工厂自动化/海运/危险区",
+    "团队与规模": "独立批发商",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "30 年仓批发",
+    "采购与供应链信号": "大仓现货批发",
+    "近期动态与线索": "Blauberg Zone 1 防爆风机线推广中",
+    "与我方契合点": "工业以太网旁温宽 PoE 批发补件",
+    "风险与注意": "批发走量价敏感"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“over 30,000 items in stock…controls for industry; panel equipment for factory automation, components for the marine industry, hazardous area equipment”",
+     "source": "https://www.aajones.co.uk/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "sales@aajones.co.uk 01482 589015；MX=mx1-eu.emailsecurity.app（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.aajones.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 批发价卡",
+     "push": "STI-288GP 温宽 PoE",
+     "angle": "其工业以太网线旁温宽 PoE 批发件",
+     "question": "N-Tron 旁有多少温宽 PoE 位？",
+     "proof": "规格/价卡"
+    },
+    {
+     "stage": "第 2 次跟进 · 海运场景",
+     "push": "船用柜场景页",
+     "angle": "海运用件差异化",
+     "question": "海运项目温宽要求占比？",
+     "proof": "场景页"
+    },
+    {
+     "stage": "第 3 次跟进 · 现货配套",
+     "push": "备货计划对接",
+     "angle": "其大仓现货模式",
+     "question": "备货深度？",
+     "proof": "阶梯+交期"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "赫尔独立批发；HMS 全家+N-Tron/Red Lion 工业以太网在册",
+     "②芯片/型号": "Red Lion/N-Tron 盘",
+     "③KP 深挖": "sales@ 口；电话并行",
+     "④Saga 对标": "温宽 PoE 批发件（避对标）",
+     "⑤在乎与偏好": "现货/价卡/文档",
+     "⑥SWOT": "S 大仓现货 / W 价敏 / O 海运防爆差异场 / T 美系定价壁垒"
+    },
+    "care": [
+     "现货节奏",
+     "文档随件"
+    ],
+    "swot": {
+     "S": "大仓",
+     "W": "价敏",
+     "O": "差异场",
+     "T": "美系壁垒"
+    },
+    "uncertain": {
+     "产品线核实": "N-Tron 在售 SKU 未核",
+     "合作方式": "批发条款未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "批发量",
+    "盘件线价带",
+    "备货模式"
+   ],
+   "email": "Hi AA Jones team,\n\nThirty thousand items in stock and a controls-for-industry range including N-Tron and Red Lion - that is a serious industrial shelf.\n\nWe build industrial managed PoE switches rated -40 to 75C, aimed as a cost-friendly complement on exactly that shelf, with honest stock-keeping prices. Reference: $74.8 USD EXW.\n\nOne question: next to the N-Tron range, how much room is there for an industrial PoE switch line?\n\nIf useful, I can send a unit with the price card and documents. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Next to the N-Tron range, how much room is there for an industrial PoE switch line?",
+   "alt2": "STI-280GE",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "英国|批发大仓|HMS全家|温宽PoE补件",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-057",
+   "fact": "System Devices UK Ltd（1983 创立）：UK/爱尔兰工控自动化分销——独家英国总代 Opto 22、Epson Robots、Asyril 柔性上料、Mecademic 精密机器人+Weintek HMI；ISO 9001:2015；行业覆盖含废水/农业/运输/制药/汽车/油气/制造；客户口碑（Harwin/油气/制药代表）突出",
+   "inference": "CSV 信号 Antaira=其工业以太网线；自动化机柜生态（Opto22 groov/Epson 机械臂）的网络接入层=PoE 供视觉/传感尾头的配位",
+   "hypothesis": "其“独家总代”喜好=喜欢做差异化代理；温宽 PoE 作为其独家位候选有戏",
+   "evidence_main": "https://systemdevices.co.uk/",
+   "tech": "Opto 22/Epson/Asyril/Mecademic 独家总代+Weintek；CSV：Antaira",
+   "hr": "40 年+ISO 9001:2015；三级售后支持",
+   "contact_found": "info@systemdevices.co.uk +44 1928 571 977；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "废水/运输等公共段属间接客群，只跟民营制造/制药/农业段",
+   "dims": {
+    "业务定位": "UK 工控自动化独代分销（1983）：Opto22/Epson/Asyril/Mecademic",
+    "产品线与在售品牌": "独代四件+Weintek+Antaira（CSV）",
+    "目标行业与场景": "制造/制药/农业/汽车（废水占比公共）",
+    "团队与规模": "中型独代分销",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "ISO 9001:2015",
+    "采购与供应链信号": "独代制采购入库",
+    "近期动态与线索": "2024-25 换 Logo 墙+新增 Opto22/Mecademic 独代",
+    "与我方契合点": "Antaira 旁温宽 PoE 独代候选",
+    "风险与注意": "公共段（废水/交通）守边界"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“exclusive UK distributors of Opto 22, Epson Robotics, Asyril, Mecademic…ISO 9001:2015…Ahead of the Technology Curve since 1983”",
+     "source": "https://systemdevices.co.uk/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@systemdevices.co.uk +44 1928 571 977；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://systemdevices.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 独代位一页",
+     "push": "STI-288GP",
+     "angle": "其 Antaira 旁温宽 PoE 候选",
+     "question": "工业以太网有多少 PoE 位？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 柜内配位",
+     "push": "Opto22 柜配位样张",
+     "angle": "柜内接入层",
+     "question": "自动化机柜交换位现供？",
+     "proof": "样张"
+    },
+    {
+     "stage": "第 3 次跟进 · 独代条款",
+     "push": "独家档条款草样",
+     "angle": "其独代偏好",
+     "question": "独代条件？",
+     "proof": "草样"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1983 独代分销四件（Opto22/Epson/Asyril/Mecademic）；Antaira 线在册",
+     "②芯片/型号": "Antaira 工业以太网",
+     "③KP 深挖": "info@ 口；电话并行",
+     "④Saga 对标": "温宽 PoE 独代候选（避对标）",
+     "⑤在乎与偏好": "独代差异化+ISO 文档",
+     "⑥SWOT": "S 独代偏好 / W 交换机非主流 / O 柜配位 / T 美系在位"
+    },
+    "care": [
+     "独代条款",
+     "ISO 文档"
+    ],
+    "swot": {
+     "S": "独代偏好",
+     "W": "非主流",
+     "O": "柜配位",
+     "T": "在位盘"
+    },
+    "uncertain": {
+     "产品线核实": "Antaira SKU 未核",
+     "合作方式": "独代未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "Antaira 盘规模",
+    "独代可行性",
+    "柜内现供"
+   ],
+   "email": "Hi System Devices team,\n\nExclusive distribution done right since 1983 - Opto 22, Epson, Asyril, Mecademic, and ISO 9001 behind it.\n\nWe build industrial managed PoE switches rated -40 to 75C, aimed as an exclusive-candidate industrial Ethernet line next to your current connectivity portfolio. Reference: $74.8 USD EXW.\n\nOne question: within your automation cabinets, who supplies the Ethernet switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Within your automation cabinets, who supplies the Ethernet switching layer today?",
+   "alt2": "STI-280GE",
+   "alt3": "STI-480XGGM",
+   "tag": "英国|独代分销|柜内配位|温宽PoE",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-058",
+   "fact": "AGL（Guedes Lopes，葡萄牙）：工业计算/Edge AI/触控/网络分销——AAEON BOXER 全系、Arbor（含 AEC-4201 Jetson Orin NX 4×PoE+ 机载视觉平台）、Aetina、NVIDIA DGX Spark；工业通信类目显式含 Ethernet·PoE·Wireless·Serial；八解法列：安防监控（Vídeo·PoE·Processing）在册；葡语技术支持+BTO 装配",
+   "inference": "机器视觉/安防两线都吞 PoE 尾头（相机/传感）：其 4×PoE+ 视觉机旁需要再上游的供电交换层；CSV：Antaira 盘在位",
+   "hypothesis": "其 Shopify 电商化目录+葡语技术支持=上架型分销，SKU 准入路径短",
+   "evidence_main": "https://guedeslopes.pt/",
+   "tech": "AAEON/Arbor/Aetina/NVIDIA Edge AI；PoE 入类目；CSV：Antaira",
+   "hr": "葡语技术支持+BTO 装配服务",
+   "contact_found": "geral@guedeslopes.pt +351 218 278 341；MX=Google（aspmx.l.google.com）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "葡萄牙工业计算/Edge AI 分销（视觉/安防 PoE 尾头两大主线）",
+    "产品线与在售品牌": "AAEON/Arbor/Aetina/NVIDIA+Antaira（CSV）",
+    "目标行业与场景": "自动化/视觉/安防监控/医疗/车载",
+    "团队与规模": "电商化目录分销",
+    "决策链与对接人": "geral@ 口",
+    "技术与认证": "BTO 装配服务",
+    "采购与供应链信号": "目录上架+RFQ",
+    "近期动态与线索": "2026-08 新视觉站+NVIDIA DGX Spark/Arbor 新品",
+    "与我方契合点": "视觉/安防 PoE 供电上游",
+    "风险与注意": "营造“4×PoE+ 机上游”位，不当其视觉机竞品"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Comunicação Industrial: Ethernet·PoE·Wireless·Serial…07 Vigiar e proteger: Vídeo·PoE·Processamento”",
+     "source": "https://guedeslopes.pt/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "新品：Arbor AEC-4201 (Jetson Orin NX, 4x PoE+)、NVIDIA DGX Spark",
+     "source": "https://guedeslopes.pt/en/collections/novos-produtos"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://guedeslopes.pt/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · PoE 上游一页",
+     "push": "STI-288GP",
+     "angle": "4×PoE+ 视觉机上游供电交换",
+     "question": "PoE 设备上游交换现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 安防类目上架",
+     "push": "SKU 上架材料包",
+     "angle": "07 监控类目",
+     "question": "上架门槛？",
+     "proof": "SKU 包"
+    },
+    {
+     "stage": "第 3 次跟进 · Antaira 旁并架",
+     "push": "对照+样机",
+     "angle": "错位并架",
+     "question": "并架条件？",
+     "proof": "矩阵+样机"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "葡工业计算/Edge AI 电商分销；PoE 入类目+监控解法在册",
+     "②芯片/型号": "Antaira（CSV）+视觉机 4×PoE+",
+     "③KP 深挖": "geral@ 口+电话",
+     "④Saga 对标": "PoE 上游温宽交换（避其视觉机正面）",
+     "⑤在乎与偏好": "目录文档齐/RFQ",
+     "⑥SWOT": "S 目录化吞吐 / W 交换机非主轴 / O 视觉+安防双吞 PoE / T Antaira 在位"
+    },
+    "care": [
+     "目录文档齐"
+    ],
+    "swot": {
+     "S": "目录吞吐",
+     "W": "非主轴",
+     "O": "双吞 PoE",
+     "T": "在位盘"
+    },
+    "uncertain": {
+     "产品线核实": "在售交换 SKU 未核",
+     "合作方式": "上架门槛未探",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "在售交换矩阵",
+    "上架路径",
+    "项目量"
+   ],
+   "email": "Hi AGL team,\n\nA catalog that sells Jetson vision platforms with 4x PoE+ on board knows the PoE device world well - it is right there in your Industrial Communication category.\n\nWe build industrial managed PoE switches rated -40 to 75C that sit just upstream of those devices. Reference: $74.8 USD EXW.\n\nOne question: who supplies the PoE switch layer upstream of your vision and security device rows today?\n\nIf useful, I can send one unit plus catalog-ready documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Who supplies the PoE switch layer upstream of your vision and security device rows today?",
+   "alt2": "STI-280GE",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "葡萄牙|EdgeAI分销|PoE上游|上架型",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-059",
+   "fact": "LinITX（英国）：Ubiquiti+MikroTik 双 Master 分销商——Alta Labs/TP-Link/Aginet（trade-only）/Teltonika（含 TeltoCharge EV 充电）全谱电商；trade 账户体系+当日发运；在营英国 MikroTik 培训中心（training@linitx.com；Jono Thompson MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE+MTCSWE 六证讲师）",
+   "inference": "分销货架上已有 Ubiquiti/Alta 交换线——value-tier 专注 PoE 的自管理型线仍是空档；培训中心=教具耗材第二轨",
+   "hypothesis": "Project Deals（HubSpot 量单竞价机制）里 value PoE 能打",
+   "evidence_main": "https://linitx.com/",
+   "tech": "Ubiquiti/MikroTik/Alta/TP-Link/Teltonika 全谱；MikroTik 培训中心",
+   "hr": "电商+当日发运+贸易账户",
+   "contact_found": "training@linitx.com +44 1449 888000；Jono Thompson 六证；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Aginet=trade-only 友商下位线存在，需给错价位货架说辞",
+   "dims": {
+    "业务定位": "英国网络全谱电商分销（Ubiquiti/MikroTik Master）+官方培训中心",
+    "产品线与在售品牌": "Ubiquiti/Alta/TP-Link/Aginet/Teltonika",
+    "目标行业与场景": "WISP/企业/培训",
+    "团队与规模": "中型电商分销",
+    "决策链与对接人": "Jono Thompson（培训/商务双口 training@）",
+    "技术与认证": "官方培训师六证",
+    "采购与供应链信号": "Project Deals 竞价机制",
+    "近期动态与线索": "TeltoCharge EV 新类目、WiFi7 上新",
+    "与我方契合点": "value-tier 专注 PoE 货架位+培训教具箱",
+    "风险与注意": "与 Alta/Aginet 货架错价位摆"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Mikrotik & Ubiquiti Master Distributors…Alta Labs…Teltonika Energy TeltoCharge…Training”",
+     "source": "https://linitx.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "training@linitx.com +44 1449 888000；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://linitx.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 货架错价位一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Alta 价位段旁的纯 PoE 专注位",
+     "question": "24 口 PoE 纯值价位段空档？",
+     "proof": "价卡"
+    },
+    {
+     "stage": "第 2 次跟进 · Project Deals",
+     "push": "竞价档阶梯",
+     "angle": "其 Project Deals 机制",
+     "question": "量单竞价准入？",
+     "proof": "阶梯"
+    },
+    {
+     "stage": "第 3 次跟进 · 培训教具",
+     "push": "实验架教具箱",
+     "angle": "其英国 MikroTik 培训课",
+     "question": "课时交换教具现用？",
+     "proof": "箱单"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "英国双 Master 分销+官方培训中心；Alta/Aginet 值价位线在册",
+     "②芯片/型号": "Ubiquiti/Alta/TPL/Teltonika",
+     "③KP 深挖": "Thompson 六证双口直达",
+     "④Saga 对标": "24 口 PoE 纯值价位段补位；教具箱二轨",
+     "⑤在乎与偏好": "错价位/标价透明",
+     "⑥SWOT": "S 电商吞吐+培训 / W 值价位线在 / O 错价位+教具 / T 内比"
+    },
+    "care": [
+     "错价位摆位",
+     "标价透明"
+    ],
+    "swot": {
+     "S": "吞吐",
+     "W": "线在",
+     "O": "错价位",
+     "T": "内比"
+    },
+    "uncertain": {
+     "产品线核实": "Alta 价位段未核",
+     "合作方式": "未谈",
+     "缺口证据": "价目页未抓"
+    },
+    "gap_proof": "未逐抓"
+   },
+   "unknowns": [
+    "值价位段覆盖",
+    "Project Deals 门槛",
+    "教具现况"
+   ],
+   "email": "Hi Jono,\n\nLinITX covers almost every shelf - Ubiquiti, MikroTik, Alta, Aginet, Teltonika EV, and a UK MikroTik training center on top.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $165 USD EXW.\n\nOne question: is there an open value slot for a PoE-focused 24-port switch on your shelf?\n\nIf useful, I can send one unit for evaluation with a suggested shelf positioning. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Is there an open value slot for a PoE-focused 24-port switch on your shelf?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "英国|双Master分销|货架错价位|培训教具",
+   "batch": 16,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-060",
+   "fact": "Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；MikroTik 论坛常驻（2019 加入）；MTCNA+MTCRE+MTCIPv6E+MTCSWE",
+   "inference": "赛事网=每场临时搭建的移动机房：计时计分+车队视频/数据回传都吞 PoE（摄像/传感尾头）；大厂交期痛点=我们现货交期直击",
+   "hypothesis": "US 赛事赛道网=高价值 showcase；从单场协商切入",
+   "evidence_main": "https://forum.mikrotik.com/viewtopic.php?t=187155",
+   "tech": "计时计分网+视频回传+赛道临时网；CCR1009 团队配发",
+   "hr": "赛事技术经理；论坛声明“观点仅代表本人”——按顾问身份得体接触",
+   "contact_found": "mjezierski@indycar.com +1 317 492 5005；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "以其顾问/技术身份讲设备，不对外借 INDYCAR 名头宣传",
+   "dims": {
+    "业务定位": "美国顶级赛车系列赛赛道技术总管（计时/视频/车队网）",
+    "产品线与在售品牌": "CCR1009 车队配发（论坛自证）",
+    "目标行业与场景": "赛事临时网/计时计分/视频回传",
+    "团队与规模": "赛事技术组",
+    "决策链与对接人": "Jezierski 本人",
+    "技术与认证": "MTCNA+MTCRE+MTCIPv6E+MTCSWE",
+    "采购与供应链信号": "赛务更迭高频采购；大厂交期痛点（自诉）",
+    "近期动态与线索": "2026 赛季在即；论坛吐槽交期待解",
+    "与我方契合点": "临时网 PoE 解锁+现货速度",
+    "风险与注意": "以顾问身份接触；品牌名头不外借"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Technology Manager - NTT INDYCAR Series…we issue the teams CCR1009s for network access”",
+     "source": "https://forum.mikrotik.com/viewtopic.php?t=187155"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“Our corporate IT was quoted almost a year from Big C on some Catalyst equipment with PoE”",
+     "source": "https://forum.mikrotik.com/viewtopic.php?t=187155"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "mjezierski@indycar.com +1 317 492 5005；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 交期痛点直击",
+     "push": "STC-424DGGPM-280W 现货",
+     "angle": "赛事时段不等人——现货",
+     "question": "赛道侧 PoE 现况？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 临时网部署",
+     "push": "抗震机柜部署页",
+     "angle": "运输振动耐受+快速部署",
+     "question": "箱柜部署流程？",
+     "proof": "部署页"
+    },
+    {
+     "stage": "第 3 次跟进 · 单赛场试点",
+     "push": "单赛场样机包",
+     "angle": "2026 赛季单赛场评测",
+     "question": "哪一站适合评测？",
+     "proof": "评测条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "INDYCAR 赛道技术总管；CCR1009 已车队配发；自诉大厂交期痛点",
+     "②芯片/型号": "CCR1009 在役",
+     "③KP 深挖": "本人直达+论坛 ID 互证",
+     "④Saga 对标": "临时赛事网 24 口 PoE+现货速度",
+     "⑤在乎与偏好": "可靠+速度+震动耐受",
+     "⑥SWOT": "S 痛点吻合 / W 采购制度未知 / O 赛季现窗 / T 大厂关系"
+    },
+    "care": [
+     "现货速度",
+     "运输耐受"
+    ],
+    "swot": {
+     "S": "痛点吻合",
+     "W": "制度未知",
+     "O": "赛季现窗",
+     "T": "大厂关系"
+    },
+    "uncertain": {
+     "产品线核实": "赛道侧交换现用未公开",
+     "合作方式": "采购通道未探",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "赛道 POE 现供",
+    "采购通道",
+    "评测时间窗"
+   ],
+   "email": "Hi Michael,\n\nYour forum post about waiting a year for PoE switches while running CCR1009s on race weekends really landed - timing and scoring does not wait for vendor backlogs.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $165 USD EXW.\n\nOne question: who supplies the PoE switching layer trackside today?\n\nIf useful, I can have an evaluation unit ready in days, not months. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Who supplies the PoE switching layer trackside today?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "美国|赛事计时网|交期痛点|showcase",
+   "batch": 16,
+   "date": "2026-09-28"
+  }
+ ]
+}

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（酒店/多住户），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — MiniMeLabs 葡团伦敦场所 Wi-Fi/分析：高密 AP 项目 PoE 接入层随单（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -130,11 +130,30 @@ updated: 2026-09-28
   > Customer Insights That Overcome MAC Randomization — Our Wi-Fi analytics and communications platform… maintains GDPR compliance.
   > 来源：https://minimelabs.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：葡团伦敦落地场所数字互动平台；Wi-Fi 获客/分析+IoT 四件套
+- **②芯片/型号**：MTCUME 对口门户；平台软面板
+- **③KP 深挖**：Lobo 直达
+- **④Saga 对标**：高密 AP PoE 接入层随单
+- **⑤在乎与偏好**：整包快速部署
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“operating digital engagement solutions throughout London – Trafalgar Square, Oxford Street, Westminster…airports, shopping centers, arenas…Morfus Connect 绕 MAC 随机化的场所 Wi-Fi 分析”
+  > “operating digital engagement solutions throughout London – Trafalgar Square, Oxford Street, Westminster…airports, shopping centers, arenas…Morfus Connect 绕 MAC 随机化的场所 Wi-Fi 分析”
+  > 来源：https://minimelabs.com/
+- **【联系方式】**urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://minimelabs.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | MiniMeLabs 葡团伦敦场所 Wi-Fi/分析：高密 AP 项目 PoE 接入层随单（$165 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -143,10 +162,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（酒店/多住户），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：落地实证
+- **W**：量波动
+- **O**：滚动
+- **T**：直采
 
 ## 触达与风险红线
 
@@ -180,21 +199,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
 Hi Urbino,
 
-I came across MiniMeLabs - 集成商/顾问（MikroTik 认证）.
+Running live venue Wi-Fi and analytics across Trafalgar Square and Oxford Street is no slideshow - it means real dense AP grids.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build 24-port Gigabit PoE switches (280W, 802.3af/at, silent for back-of-house, watchdog) sized exactly for those AP clusters. Reference: $165 USD EXW.
 
-One question: Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
+One question: in a typical venue deployment, how many APs land on one access switch for you?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit plus a venue rack layout. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
