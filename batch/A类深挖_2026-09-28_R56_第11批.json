@@ -1,0 +1,904 @@
+{
+ "batch": 21,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-101",
+   "fact": "Lloret Control Systems Ltd（英国）：智慧楼宇集成商——BEMS 楼宇能管/自动控制、**Converged Network Systems（ICT 融合网络）**、Master Systems Integration、安防系统、照明控制；具名 Graham Budd（Commissioning Manager）",
+   "inference": "融合网络系统（ICT）=楼宇所有系统上 IP 的供给侧：BMS/安防/照明/对讲全要 PoE 接入层——黄金对口",
+   "hypothesis": "Master SI 身份意味它常是“楼网总承包”——墙内交换件指定权在手",
+   "evidence_main": "https://lloret.co.uk/",
+   "tech": "BEMS/ICT 融合网/MSI/安防/照明",
+   "hr": "24/7 支持+多年集成经验",
+   "contact_found": "sales@lloret.co.uk；Graham Budd 具名（CSV）；MX=lloret-co-uk.n-v1.mx.microsoft 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "英国智慧楼宇全系统集成（MSI 总承包位）",
+    "产品线与在售品牌": "BEMS/ICT/MSI/安防/照明",
+    "目标行业与场景": "商办楼/地产",
+    "团队与规模": "集成商（副厂牌 Lloret Fire 等）",
+    "决策链与对接人": "Graham Budd（调试经理）",
+    "技术与认证": "全集成项目管理",
+    "采购与供应链信号": "楼网总包指定",
+    "近期动态与线索": "2026-01 品牌更新+持续交付",
+    "与我方契合点": "ICT 融合网 PoE 接入层",
+    "风险与注意": "MSI 项目流程化采购"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”",
+     "source": "https://lloret.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · ICT 融合网一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其楼网融合层的 PoE 接入",
+     "question": "BMS/安防/照明的汇总点位现供？",
+     "proof": "融合网方案页"
+    },
+    {
+     "stage": "第 2 次跟进 · MSI 指定位",
+     "push": "指定清单候选",
+     "angle": "其 MSI 总包指定清单",
+     "question": "指定清单准入？",
+     "proof": "规格"
+    },
+    {
+     "stage": "第 3 次跟进 · 楼行进滚动",
+     "push": "多楼框架",
+     "angle": "多楼盘滚动",
+     "question": "楼数与翻新节奏？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "MSI 楼网总包；ICT 融合网在册",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "Budd 具名",
+     "④Saga 对标": "ICT 融合网 PoE",
+     "⑤在乎与偏好": "指定清单工况",
+     "⑥SWOT": "S 总包指定权 / W 流程化 / O 楼网全量 / T 大牌"
+    },
+    "care": [
+     "指定清单文档"
+    ],
+    "swot": {
+     "S": "指定权",
+     "W": "流程",
+     "O": "全量",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "指定清单",
+    "项目量",
+    "现供"
+   ],
+   "email": "Hi Graham,\n\nWhen BEMS, security and lighting all ride one converged ICT network, the access closet becomes the most important cabinet in the building - that is exactly the layer we build.\n\n24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog). Reference: $165 USD EXW.\n\nOne question: in a Lloret-converged building, which switch brand lands on the specification for the ICT access layer today?\n\nIf useful, I can send one unit plus the spec pack for your MSI library. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a Lloret-converged building, which switch brand lands on the specification for the ICT access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|智慧楼宇MSI|ICT融合网|指定清单",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-102",
+   "fact": "EAC Network Solutions（英国白金汉郡）：20 年托管 IT——教育（含 Princethorpe Foundation 私立教育集团）、制造、专业服务段；托管支持+Sophos 安全+vCIO+基础设施；{first}.{last}@ 邮箱格式（CSV 注）",
+   "inference": "私立学校教育+制造这两条段都是日常 PoE 接入层高频（校园 Wi-Fi/安防+产线边缘）",
+   "hypothesis": "其托管客群翻修滚动=框架小批量",
+   "evidence_main": "https://eac-ns.co.uk/",
+   "tech": "托管 IT+Sophos+基础设施",
+   "hr": "20 年本地托管（“团队感”文风）",
+   "contact_found": "enquiry@eac-ns.co.uk；MX=自建 ESVA 集群存活（01esva/02esva.uk1.eac-services.co.uk）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "教育=Princethorpe 类私立学校（私立，OK）；公立学校段自动守边界",
+   "dims": {
+    "业务定位": "白金汉郡托管 IT（教育/制造/专业服务）",
+    "产品线与在售品牌": "Sophos+托管栈",
+    "目标行业与场景": "私立教育/制造/商服",
+    "团队与规模": "本地中型 MSP",
+    "决策链与对接人": "enquiry@ 口",
+    "技术与认证": "业认认证团队",
+    "采购与供应链信号": "托管项目随单",
+    "近期动态与线索": "案件引述常态",
+    "与我方契合点": "校园/厂内接入层",
+    "风险与注意": "公立教育自动守边界"
+   },
+   "evidence": [
+    {
+     "dim": "目标行业",
+     "quote": "“education, manufacturing, and professional services…Princethorpe Foundation”",
+     "source": "https://eac-ns.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 学校/厂一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "校园 Wi-Fi/安防+厂内接入",
+     "question": "单校/厂柜接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 托管滚动",
+     "push": "框架价",
+     "angle": "客群翻修节奏",
+     "question": "年翻新量？",
+     "proof": "阶梯卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机入监控",
+     "push": "样机+SNMP",
+     "angle": "入其托管监控",
+     "question": "监控接入协议？",
+     "proof": "文档"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "20 年本地 MSP；私立教育/制造段",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "enquiry@+格式线索",
+     "④Saga 对标": "校园/厂内接入",
+     "⑤在乎与偏好": "非技术文风+可靠",
+     "⑥SWOT": "S 托管粘 / W 价敏 / O 滚动 / T 大厂"
+    },
+    "care": [
+     "简平文档"
+    ],
+    "swot": {
+     "S": "粘",
+     "W": "价敏",
+     "O": "滚动",
+     "T": "大厂"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入层现供",
+    "客群数",
+    "滚动量"
+   ],
+   "email": "Hi EAC team,\n\nManaged IT across schools, factories and professional firms means you live with access closets in every one of them.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with plain-English documentation your team can trust. Reference: $165 USD EXW.\n\nOne question: in a typical school or factory deployment of yours, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a typical school or factory deployment, who supplies the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|本地MSP|私立教育+制造|随单",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-105",
+   "fact": "Cisilion Ltd（英国）：大型企业 IT 集成商（“Beyond Expectations”）；CSV 载 info@/marketing@；**CSV 内有警告字条被截断（“⚠️ **环”），内容无法核辑**",
+   "inference": "集成级规模客群；正常 VAR 对白",
+   "hypothesis": "待用户确认该 CSV 截断警告是否涉及规模排除纪律",
+   "evidence_main": "https://www.cisilion.com/",
+   "tech": "企业 IT 集成（大厂生态）",
+   "hr": "大型集成商",
+   "contact_found": "marketing@cisilion.com + info@cisilion.com；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "⚠️ CSV 警告字条截断待核——若属规模排除纪律请用户明示，在此之前按纪律性暂停排期（发信在用户确认口径后）",
+   "dims": {
+    "业务定位": "英国大型企业 IT 集成商",
+    "产品线与在售品牌": "大厂生态组合",
+    "目标行业与场景": "企业/公共混",
+    "团队与规模": "大型",
+    "决策链与对接人": "marketing@/info@",
+    "技术与认证": "大厂认证",
+    "采购与供应链信号": "项目",
+    "近期动态与线索": "站常态运营",
+    "与我方契合点": "value 档补位",
+    "风险与注意": "⚠️ CSV 警告截断待核→排期冻结"
+   },
+   "evidence": [
+    {
+     "dim": "风险与注意",
+     "quote": "CSV：入口/联系方式列尾标“⚠️ **环”（截断）——内容无法核辑",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "暂停排期",
+     "angle": "CSV 警告截断待核",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "大型集成；CSV 截断警告",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "两箱均适用",
+     "④Saga 对标": "wait",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "建档观察"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "截断",
+     "O": "—",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "未核",
+     "合作方式": "冻结",
+     "缺口证据": "警告截断"
+    },
+    "gap_proof": "CSV 截断"
+   },
+   "unknowns": [
+    "CSV 警告全文",
+    "规模口径"
+   ],
+   "email": "（不出信——CSV 内警告字条截断待核。动作：请用户在空档时核对 A-105 原表该处警告全文；确认非规模排除后即刻排期入列。）",
+   "question": "—",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "英国|大型集成|警告截断待核|排期冻结",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-103",
+   "fact": "Bechtle Direct Ltd（英国）：**CSV 载原注“Bechtle 在本项目的规模排除名单内”**——超大型泛欧 VAR，按既有纪律排除商务计划",
+   "inference": "纪律建档：保留在册信息+MX 存活核验，不出信",
+   "hypothesis": "若用户调整规模名单再重排",
+   "evidence_main": "（CSV 名录口径+纪律注）",
+   "tech": "超大型 VAR（Bechtle 集团）",
+   "hr": "集团级",
+   "contact_found": "sales.uk@bechtle.com；MX=bg365securemaillb.bechtle.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "纪律：规模排除名单——不出信，仅完成 MX/DNS 级核验与建档",
+   "dims": {
+    "业务定位": "超大型 VAR（纪律排除）",
+    "产品线与在售品牌": "全谱",
+    "目标行业与场景": "全谱",
+    "团队与规模": "集团级",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "常态",
+    "与我方契合点": "—",
+    "风险与注意": "规模排除纪律"
+   },
+   "evidence": [
+    {
+     "dim": "风险与注意",
+     "quote": "CSV 自注“Bechtle 在本项目的规模排除名单内”——按纪律建档不出信",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "不出信",
+     "angle": "规模排除名单",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "规模排除纪律建档",
+     "②芯片/型号": "—",
+     "③KP 深挖": "sales.uk@ MX 存活",
+     "④Saga 对标": "—",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "建档观察"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "—",
+     "O": "—",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "—",
+     "合作方式": "排除",
+     "缺口证据": "—"
+    },
+    "gap_proof": "纪律注"
+   },
+   "unknowns": [
+    "纪律口径变化"
+   ],
+   "email": "（不出信——规模排除纪律。动作：仅建档与 MX 核验。）",
+   "question": "—",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "英国|超大VAR|规模排除纪律|建档不出信",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-104",
+   "fact": "Centerprise International（英国）：40 年——自称“UK technology and lifecycle partner”，**40 年公共部门经验（G-Cloud/Tech Services/Digital Outcomes/TePAS 框架）**；CiCloud 主权云、CiContinuity DR、CiLifecycle ITAD（ADISA 8.0）；客群含中央/地方政府、NHS、警务、消防、教育、**国防部（MoD/DE&S）**，另含 Enterprise & Regulated（金融/住房/基建）私营段",
+   "inference": "公共框架主干=红线区；私营 Regulated 窄段（金融/住房基建）为唯一合规带",
+   "hypothesis": "其 Sovereign 定位+主权云叙事明确——不碰公共框架，明示边界以示专业",
+   "evidence_main": "https://www.centerprise.co.uk/",
+   "tech": "全生命周期 IT+主权云+ITAD",
+   "hr": "40 年；ADISA 8.0 认证",
+   "contact_found": "info@centerprise.co.uk（另 admin@）；MX=titanhq 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公共框架+MoD/DE&S=红线不涉；只谈其私营 Regulated 段（金融/住房/基建）并明示边界",
+   "dims": {
+    "业务定位": "英国公共部门全生命周期伙伴（私营窄段并存）",
+    "产品线与在售品牌": "主权云/DR/ITAD/终端",
+    "目标行业与场景": "公共主干（红线）+私营 Regulated",
+    "团队与规模": "中型集团（Ci 系品牌群）",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "ADISA 8.0/框架体系",
+    "采购与供应链信号": "框架为主",
+    "近期动态与线索": "2025-12 新站上新",
+    "与我方契合点": "私营窄段 value PoE 补位",
+    "风险与注意": "公共框架+国防红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“over 40 years of public sector experience…G-Cloud, Tech Services, Digital Outcomes, TePAS…Ministry of Defence, DE&S”",
+     "source": "https://www.centerprise.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 边界先行一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "私营 Regulated 段 value PoE；明确不涉框架/国防",
+     "question": "金融/住房段接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 私营窄段评测",
+     "push": "样机+文档",
+     "angle": "私营试点",
+     "question": "评测窗？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 窄段小批",
+     "push": "小批阶梯",
+     "angle": "窄段滚动",
+     "question": "滚动量？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "40 年公共生命周期伙伴（红线主干）+私营窄段",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "窄段 value PoE",
+     "⑤在乎与偏好": "合规文档",
+     "⑥SWOT": "S 生命周期 / W 红线主干 / O 窄段 / T 大牌"
+    },
+    "care": [
+     "合规文档"
+    ],
+    "swot": {
+     "S": "生命周期",
+     "W": "红线",
+     "O": "窄段",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "窄段规模",
+    "现供",
+    "评测窗"
+   ],
+   "email": "Hi Centerprise team,\n\nForty years of public-sector lifecycle work and a sovereign-cloud story speaks for itself - and we will not touch your frameworks or defence engagements, to be explicit.\n\nFor your private-sector regulated customers (finance, housing, infrastructure), we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement. Reference: $165 USD EXW.\n\nOne question: in your private-sector projects, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your private-sector projects, who supplies the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|公共生命周期|红线主干|私营窄段",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-106",
+   "fact": "DACC Europe Ltd（英国伦敦港区）：25 年综合布线/网络设施集成商——结构布线、机电、**数据中心线**、托管服务、**铁路专业部（FORS & RISQS 认证=公共铁路系红线）**；客户案例：全球银行（卢森堡/布鲁塞尔/法兰克福）/制药/汽车/学院；全球办（UK/EU/UAE/USA）；ISO 9001+14001；领导层具名完整（CEO Shkodrov/FD Matharu/COO Yearwood/商务总监 Grace/技术总监 Long）",
+   "inference": "其铁路部=公共系红线；布线+数据中心+大企业（银行/制药）=接入层线缆上端 active 件的工程随单位",
+   "hypothesis": "“manufacturer-independent（厂商中立）”自述=对候选件开放评——这是进函角度",
+   "evidence_main": "https://www.dacceurope.com/",
+   "tech": "结构布线/M&E/数据中心/托管/铁路部；厂商中立自述",
+   "hr": "25 年；全球办；ISO 双证",
+   "contact_found": "+44 (0) 207 538 8701（CSV 注无直接邮箱——但站点联系体系存在）；域 MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "铁路部（RISQS/FORS）=公共红线不触；CSV 注缺直邮——以官网联系口起步+Tony Grace（Commercial & Sales）具名请求",
+   "dims": {
+    "业务定位": "伦敦 25 年布线/DC/托管集成商（厂商中立）",
+    "产品线与在售品牌": "布线/M&E/DC/托管（铁路部红线）",
+    "目标行业与场景": "银行/制药/汽车/数据中心（铁路段守界）",
+    "团队与规模": "中型全球办",
+    "决策链与对接人": "Tony Grace（商务总监）/站点 contact",
+    "技术与认证": "ISO 9001+14001",
+    "采购与供应链信号": "大项目工程指定",
+    "近期动态与线索": "持续年增案例",
+    "与我方契合点": "厂商中立语境下的 active 层候选",
+    "风险与注意": "铁路公共红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“fully manufacturer-independent…impartial and tailored solutions…FOR & RISQS approved Railway Division and Data Centre Division”",
+     "source": "https://www.dacceurope.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 厂商中立一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "厂商中立语境候选件的接入层",
+     "question": "结构布线项目 active 层随单现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · DC 边缘位",
+     "push": "STI-288GP",
+     "angle": "其数据中心线边缘/带外接入",
+     "question": "DC 带外/边位现用？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 大项目指定",
+     "push": "银行/制药案例对",
+     "angle": "金融指定清单",
+     "question": "指定清单准入？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "25 年布线/DC 集成（厂商中立）；铁路公共红线",
+     "②芯片/型号": "未公开（TransCAD 不指定）",
+     "③KP 深挖": "Grace 商务总监具名",
+     "④Saga 对标": "active 接入层候选",
+     "⑤在乎与偏好": "独立评+案例",
+     "⑥SWOT": "S 厂商中立 / W 无直邮公开 / O 大项目指定 / T 在位大牌"
+    },
+    "care": [
+     "案例与规格文档"
+    ],
+    "swot": {
+     "S": "中立",
+     "W": "无直邮",
+     "O": "指定",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "直邮不公开"
+    },
+    "gap_proof": "CSV 注无直邮"
+   },
+   "unknowns": [
+    "active 层现供",
+    "指定清单",
+    "DC 边缘位"
+   ],
+   "email": "Hi Tony,\n\nA fully manufacturer-independent integrator is one of the few places where a switch is judged on merit and documentation - thank you for that culture.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with the full test pack your projects expect. Reference: $165 USD EXW. (For clarity: we work only with DACC's private-sector builds; your RISQS/FORS railway division is outside our scope entirely.)\n\nOne question: in your structured cabling and DC projects, which switch brand lands on the BoQ for the access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your structured cabling and DC projects, which switch brand lands on the BoQ for the access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|布线DC集成|厂商中立|铁路红线",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-107",
+   "fact": "Esotec Ltd（英国）：高监管安防集成商——**secure government/national heritage/public spaces** 全生命周期安防（测试/设计/安装/支持）；**30+ 安审级别员工（Security Cleared）**；NSI Gold+ISO 14001/27001/45001+**Crown Commercial Service 供应商**；客户墙：London Transport Authority（公共）/大型赛事组织/历史建筑信托/World-leading 安全印务/高净值人士/工程企业",
+   "inference": "公共+安审主干=红线区；私营窄段（安全印务/高净值/工程企业/部分赛事）为高规格但合规可触的位",
+   "hypothesis": "安审级操作=文档与来源核验异常敏感——外资设备在 secure government 场景不现实，承认并只谈非安审私营段",
+   "evidence_main": "https://www.esotec.co.uk/",
+   "tech": "高监管安防全生命周期（CCTV/访问/入侵）",
+   "hr": "35,000 员工日防护规模；5000+ 项目",
+   "contact_found": "sales@esotec.co.uk（另 info@/support@/finance@）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "安审政府/国家遗产/CCS 框架=红线不涉；只谈其私营客户段且明示承认其安审场景的边界（外资设备不推进 secure 场）",
+   "dims": {
+    "业务定位": "英国高监管安防集成（安审主干 红线）+私营窄段",
+    "产品线与在售品牌": "安防全生命周期",
+    "目标行业与场景": "安审政府（红线）+安全印务/高净值/工程（窄段）",
+    "团队与规模": "大型安防集成",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "NSI Gold+三 ISO+安审员工",
+    "采购与供应链信号": "高规格项目",
+    "近期动态与线索": "CCS 供应商在册",
+    "与我方契合点": "非安审私营窄段 value PoE",
+    "风险与注意": "安审/公共红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“secure government, national heritage, public spaces…30+ security cleared staff…Crown Commercial Service Supplier”",
+     "source": "https://www.esotec.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 私段窄段一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "非安审私营客户段的摄像头柜",
+     "question": "安全印务/工程企业段的接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 承认边界",
+     "push": "（明示外资设备不推安审场）",
+     "angle": "专业姿态",
+     "question": "非安审项目占多少？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 窄段试点",
+     "push": "样机+报告",
+     "angle": "窄段评测",
+     "question": "评测窗？",
+     "proof": "报告"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "高监管安防（安审主干红线）；CCS 供应商",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "非安审窄段 value PoE（承认安审不进）",
+     "⑤在乎与偏好": "规格+来源核验",
+     "⑥SWOT": "S 项目规格 / W 红线主导 / O 窄段 / T 在位大牌"
+    },
+    "care": [
+     "来源披露文档"
+    ],
+    "swot": {
+     "S": "规格",
+     "W": "红线",
+     "O": "窄段",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "非安审占比",
+    "接入现供",
+    "评测窗"
+   ],
+   "email": "Hi Esotec team,\n\nYour security-cleared projects demand equipment provenance we respect completely - this note explicitly does not touch those engagements in any way.\n\nFor your private commercial customers (secure printers, engineering firms, private estates), we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW.\n\nOne question: in your non-cleared private projects, who supplies the PoE camera closet layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your non-cleared private projects, who supplies the PoE camera closet layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|安审安防|红线主干|私段窄段",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-108",
+   "fact": "Roadtech Computer Systems Ltd（英国）：运输行业软件套件 40 年——Tachomaster（转速表分析市场头部）/DOT Tracking（GPS 车队）/Roadrunner（TMS）/Checkmaster（驾照核验）/PreDrive（车辆周检 App）；远端转速表下载装置（硬件件）；数千家公司用户",
+   "inference": "软件服务商主体：我方硬件场景窄（其自有机房/运营支撑）",
+   "hypothesis": "CSV 载 Allied Telesis 信号=其自有基础设施或历史项目，不是分发通路——测深后很可能降级为“弱适配留档”",
+   "evidence_main": "https://www.roadtech.co.uk/",
+   "tech": "运输软件套件（转速表/追踪/TMS）",
+   "hr": "40 年；数千企业用户",
+   "contact_found": "sales@roadtech.co.uk（另 info@/crm@）；MX=roadtechmail.rtisp.net+smtp.roadtech.co.uk 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "弱适配候选：如其自有机房/支撑无接入层需求则降级为留档关系户（如实评级）",
+   "dims": {
+    "业务定位": "英国运输 SaaS 套件 40 年",
+    "产品线与在售品牌": "Tachomaster/DOT/Roadrunner/Checkmaster/PreDrive",
+    "目标行业与场景": "运输/车队合规",
+    "团队与规模": "中型软件商",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "DVLA 体系联通",
+    "采购与供应链信号": "弱（CSV Allied 信号来源未明）",
+    "近期动态与线索": "Earned Recognition 试点支持",
+    "与我方契合点": "弱候选（信号来源待核）",
+    "风险与注意": "若需求不实如实降级"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”",
+     "source": "https://www.roadtech.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 信号核实",
+     "push": "—",
+     "angle": "确认 Allied 信号来源（自有网管/机房/历史项目）",
+     "question": "贵司交换件用在何场景？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 若有机房路",
+     "push": "STC-28DGGPM",
+     "angle": "机房带外接入",
+     "question": "机房管理位？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "若弱适配归档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "运输 SaaS 40 年（转速表头牌）；Allied 信号来源待核",
+     "②芯片/型号": "CSV 载 Allied Telesis",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "弱候选→核实后定",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 体量大 / W 信号不直 / O 机房路 / T 弱适配"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "体量",
+     "W": "信号不直",
+     "O": "机房",
+     "T": "弱"
+    },
+    "uncertain": {
+     "产品线核实": "Allied 信号来源待用户捕获核",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "信号来源未明"
+   },
+   "unknowns": [
+    "信号来源",
+    "机房需求",
+    "真实 fit"
+   ],
+   "email": "Hi Roadtech team,\n\nTachomaster and DOT Tracking power thousands of fleets - which means a serious operation running quietly behind the scenes.\n\nWe build compact managed switches that usually land in exactly such operations (server-room management, on-prem access, remote-device staging). Reference: 8-port model $99 USD EXW.\n\nOne question: inside Roadtech's own infrastructure, what kind of switching gear do you run today?\n\nIf useful, I can share the portfolio page. If not relevant, one line and I will stand down politely.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Inside Roadtech's own infrastructure, what kind of switching gear do you run today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "英国|运输SaaS|信号来源待核|弱适配候选",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-109",
+   "fact": "RWL Advanced Solutions（都柏林/伦敦/阿姆斯特丹）：**欧洲领先的数据布线与网络产品独立分销商**——Panduit/Leviton/Excel 等布线大牌；数据中心/铜揽/光纤/机柜围保/电力/标签标识/电信/CEl-Fi 手机增强；近 20 年、数千客户、installer 渠道",
+   "inference": "其“网络产品”自主类以无源为主——active PoE 接入交换机是其架上的天然补充位（无源布线+active 层才构成 turnkey）",
+   "hypothesis": "installer 渠道的 turnkey 话术与“Panduit 旁的 active 补位”是进函角度",
+   "evidence_main": "https://www.rwlas.com/",
+   "tech": "数据布线/网络产品分销（Panduit/Leviton/Excel）",
+   "hr": "近 20 年+三地布点",
+   "contact_found": "sales@rwlas.com（都柏林）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "欧洲布线/网络产品独立分销（installer 渠道）",
+    "产品线与在售品牌": "Panduit/Leviton/Excel（无源为主）",
+    "目标行业与场景": "DC/布线/机柜/电力",
+    "团队与规模": "欧洲独立分销",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "20 年",
+    "采购与供应链信号": "分销入库",
+    "近期动态与线索": "三地布点常态化",
+    "与我方契合点": "架上 active PoE 补位",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Europe’s leading independent distributor for Data Cabling and Network products…strategically partnered with leading Global brands as we distribute Turnkey solutions to installers”",
+     "source": "https://www.rwlas.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 架上 active 一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Panduit 旁 active PoE 补位=turnkey 完整化",
+     "question": "架上 active 位现状？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 上架准入",
+     "push": "CE/案例/文档包",
+     "angle": "分销上架",
+     "question": "上架门槛？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 三区域滚动",
+     "push": "三地阶梯",
+     "angle": "Dublin/London/Amsterdam",
+     "question": "三区域采购结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "欧洲布线网络分销（无源主干）；installer 渠道",
+     "②芯片/型号": "Panduit/Leviton/Excel",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "架上 active PoE 补位",
+     "⑤在乎与偏好": "证书+案例+文档",
+     "⑥SWOT": "S 三地+20 年 / W active 空档未证 / O 补位 / T 大厂"
+    },
+    "care": [
+     "上架文档"
+    ],
+    "swot": {
+     "S": "覆盖",
+     "W": "空档未证",
+     "O": "补位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "active 类现状未核",
+     "合作方式": "未谈",
+     "缺口证据": "active 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "active 位现状",
+    "上架门槛",
+    "区域结构"
+   ],
+   "email": "Hi RWL team,\n\nTwenty years of turnkey distribution to installers, and the passive layer owned end to end - the open lane next to it is the active layer.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) designed for exactly the active side of turnkey cabling. Reference: $165 USD EXW.\n\nOne question: in your catalog next to Panduit and Leviton, is there an open slot for an active PoE access switch?\n\nIf useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your catalog next to Panduit and Leviton, is there an open slot for an active PoE access switch?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "爱尔兰+英荷|布线分销|active补位|installer渠道",
+   "batch": 21,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-110",
+   "fact": "Senseco Systems Ltd（英国全行业覆盖办公室）：英国首家 CarbonNeutral 认证消防安防公司——消防探测/报警、被动防火、喷淋、气体抑制、语音报警、安防、监控、集成；“Founded by Engineers, Led by Engineers”",
+   "inference": "楼宇消防/安防系统全面 IP 化：语音警报/报警面板/安防摄像全走 IP+PoE——接入柜是惯件",
+   "hypothesis": "“engineers founded/led”=实测级技术评语言有效",
+   "evidence_main": "https://www.sensecosystems.com/",
+   "tech": "消防/安防全谱（探测/抑制/语音/监控/集成）",
+   "hr": "UK 多地办公室；CarbonNeutral 首家",
+   "contact_found": "sales@sensecosystems.com（CSV：公开列联、deliverable 注）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "英国首家碳中和消防安防专家（全国办）",
+    "产品线与在售品牌": "消防探测/被动/喷淋/语音/安防/监控/集成",
+    "目标行业与场景": "商办楼/设施业主",
+    "团队与规模": "全国性专家商",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "CarbonNeutral 认",
+    "采购与供应链信号": "楼宇项目随单",
+    "近期动态与线索": "2026-04 品牌更新",
+    "与我方契合点": "楼内消防/安防 IP 化接入柜",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“UK’s first CarbonNeutral-certified fire and security company…fire, passive, sprinklers, suppression, voice, security, monitoring and integrated systems”",
+     "source": "https://www.sensecosystems.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 工程语言一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "楼宇消防/安防 IP 化的接入柜",
+     "question": "楼内消防/安防 IP 点位现供？",
+     "proof": "实测页"
+    },
+    {
+     "stage": "第 2 次跟进 · 监控/安防联动",
+     "push": "集成 API 文档",
+     "angle": "其 monitoring 线集成",
+     "question": "监控接入协议？",
+     "proof": "文档"
+    },
+    {
+     "stage": "第 3 次跟进 · 全国滚动",
+     "push": "小批框架",
+     "angle": "全国办滚动",
+     "question": "滚动量？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "全国消防安防专家（碳中和首家）；工程师文化",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "楼内消防/安防接入柜",
+     "⑤在乎与偏好": "工程实测文档",
+     "⑥SWOT": "S 工程文化 / W 价敏 / O IP 化滚动 / T 大牌"
+    },
+    "care": [
+     "实测文档"
+    ],
+    "swot": {
+     "S": "工程文化",
+     "W": "价敏",
+     "O": "IP化滚动",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入层现供",
+    "项目量",
+    "集成接口"
+   ],
+   "email": "Hi Senseco team,\n\nFounded by engineers, led by engineers - and the first carbon-neutral fire and security company in the UK. A good combination.\n\nWhere fire detection, voice alarm and security cameras all ride IP, they need a reliable PoE access cabinet. That is exactly the switch we build: 24-port, 280W, 802.3af/at, hardware watchdog. Reference: $165 USD EXW.\n\nOne question: in a Senseco integrated building, who supplies the PoE switching for the IP fire and security endpoints today?\n\nIf useful, I can send one unit with the full test documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a Senseco integrated building, who supplies the PoE switching for the IP fire and security endpoints today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|消防安防全国办|楼内IP化|工程文化",
+   "batch": 21,
+   "date": "2026-09-28"
+  }
+ ]
+}

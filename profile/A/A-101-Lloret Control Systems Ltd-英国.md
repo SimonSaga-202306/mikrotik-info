@@ -131,6 +131,22 @@ updated: 2026-09-28
   > 2024 saw us successfully collaborating together to deliver the Converged Network Systems (CNS) on Victoria House, Stonecutter Court and Carlton House Terrace. · Our Engineering Director Joins the BCIA Management Committee（2026-01）
   > 来源：https://lloret.co.uk/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：MSI 楼网总包；ICT 融合网在册
+- **②芯片/型号**：未公开
+- **③KP 深挖**：Budd 具名
+- **④Saga 对标**：ICT 融合网 PoE
+- **⑤在乎与偏好**：指定清单工况
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
+  > “Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
+  > 来源：https://lloret.co.uk/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -144,10 +160,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：一人/个体=单点与节奏风险
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：指定权
+- **W**：流程
+- **O**：全量
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -185,21 +201,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Lloret,
+Hi Graham,
 
-I came across Lloret Control Systems Ltd - 集成商/代理（Allied Telesis）.
+When BEMS, security and lighting all ride one converged ICT network, the access closet becomes the most important cabinet in the building - that is exactly the layer we build.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog). Reference: $165 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: in a Lloret-converged building, which switch brand lands on the specification for the ICT access layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit plus the spec pack for your MSI library. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

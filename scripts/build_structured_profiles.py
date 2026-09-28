@@ -235,6 +235,17 @@ OVERRIDE = {
  'A-098': {'p1': 'STC-28DGGPM', 'p1_reason': 'Vargyas 美 MTCNA 单证 LinkedIn 渠道：破冰薄档如实（$99 锚点一致）'},
  'A-099': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'MSI Works 英小体 Allied 信号（Wix 表单无邮箱）：手机破冰（$165 锚点一致）'},
  'A-100': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用'},
+ # ── R56 批 11（A-101..A-110 深挖 2026-09-28）──
+ 'A-101': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Lloret 英智慧楼宇 MSI：Converged Network Systems 楼网总包指定权切入（$165 锚点一致）；Budd 具名'},
+ 'A-102': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'EAC 白金汉郡 MSP：私立教育段+制造随单接入柜（$165 锚点一致）；公立教育守边界已注'},
+ 'A-103': {'p1': 'STC-28DGGPM', 'p1_reason': 'Bechtle 英超大 VAR：CSV 自注规模排除名单——纪律建档不出信'},
+ 'A-104': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Centerprise 40 年公共生命周期（G-Cloud/TePAS/MoD·DE&S 红线）：只谈私营 Regulated 窄段+边界句（$165 锚点一致）'},
+ 'A-105': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Cisilion 大型集成：CSV 警告字条截断待核——排期冻结，待用户核原表全文后定'},
+ 'A-106': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'DACC 伦敦布线/DC 厂商中立：RISQS 铁路红线不触；私营银行/制药段+电话先行（$165 锚点一致）'},
+ 'A-107': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Esotec 安审安防（CCS 红线主干）：只谈非安审私营窄段+承认边界（$165 锚点一致）'},
+ 'A-108': {'p1': 'STC-28DGGPM', 'p1_reason': 'Roadtech 运输 SaaS：Allied 信号来源待核的弱对口破冰（$99 锚点一致）；如实薄档'},
+ 'A-109': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'RWL 爱/英/荷布线独立分销：Panduit 旁 active PoE 补位铺货（$165 锚点一致）'},
+ 'A-110': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Senseco 消防安防全国办：楼内消防/安防 IP 化接入柜（$165 锚点一致）；工程师文化实测文档'},
 }
 
 out = {}

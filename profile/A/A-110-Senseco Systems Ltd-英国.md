@@ -126,6 +126,22 @@ updated: 2026-09-28
   > Senseco, Founded by Engineers, Led by Engineers（官网宣传片标题）·（2026-04 Logo 资源文件名：FINAL-andwis-Logo-Assets）
   > 来源：https://www.sensecosystems.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：全国消防安防专家（碳中和首家）；工程师文化
+- **②芯片/型号**：未公开
+- **③KP 深挖**：sales@
+- **④Saga 对标**：楼内消防/安防接入柜
+- **⑤在乎与偏好**：工程实测文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“UK’s first CarbonNeutral-certified fire and security company…fire, passive, sprinklers, suppression, voice, security, monitoring and integrated systems”
+  > “UK’s first CarbonNeutral-certified fire and security company…fire, passive, sprinklers, suppression, voice, security, monitoring and integrated systems”
+  > 来源：https://www.sensecosystems.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：工程文化
+- **W**：价敏
+- **O**：IP化滚动
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -176,21 +192,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Senseco,
+Hi Senseco team,
 
-I came across Senseco Systems Ltd - 集成商/代理（Allied Telesis）.
+Founded by engineers, led by engineers - and the first carbon-neutral fire and security company in the UK. A good combination.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+Where fire detection, voice alarm and security cameras all ride IP, they need a reliable PoE access cabinet. That is exactly the switch we build: 24-port, 280W, 802.3af/at, hardware watchdog. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in a Senseco integrated building, who supplies the PoE switching for the IP fire and security endpoints today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full test documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

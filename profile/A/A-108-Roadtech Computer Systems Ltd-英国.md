@@ -126,6 +126,22 @@ updated: 2026-09-28
   > Tachomaster is the market leading Tachograph Analysis solution. ‖ Tachograph Analysis · Vehicle Tracking & Analytics · Transport Management System · Driver Licence Checking · Vehicle Daily Defect & Damage Reporting
   > 来源：https://www.roadtech.co.uk/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：运输 SaaS 40 年（转速表头牌）；Allied 信号来源待核
+- **②芯片/型号**：CSV 载 Allied Telesis
+- **③KP 深挖**：sales@
+- **④Saga 对标**：弱候选→核实后定
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
+  > “Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
+  > 来源：https://www.roadtech.co.uk/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：一人/个体=单点与节奏风险
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：体量
+- **W**：信号不直
+- **O**：机房
+- **T**：弱
 
 ## 触达与风险红线
 
@@ -180,21 +196,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Roadtech,
+Hi Roadtech team,
 
-I came across Roadtech Computer Systems Ltd - 集成商/代理（Allied Telesis）.
+Tachomaster and DOT Tracking power thousands of fleets - which means a serious operation running quietly behind the scenes.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build compact managed switches that usually land in exactly such operations (server-room management, on-prem access, remote-device staging). Reference: 8-port model $99 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: inside Roadtech's own infrastructure, what kind of switching gear do you run today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can share the portfolio page. If not relevant, one line and I will stand down politely.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
