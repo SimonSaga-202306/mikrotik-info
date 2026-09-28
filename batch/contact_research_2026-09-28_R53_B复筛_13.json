@@ -1,0 +1,174 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第13批（FR 行）。判据同前。",
+ "records": [
+  {
+   "code": "B-231",
+   "decision": "hold-B",
+   "site": "allnetfrance.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛13】官网核对：ALLNET France SAS（德国 ALLNET 集团法国子公司）为宽线通讯/网络分销+活动（webinar、roadshow），主页以 Yeastar/SNOM/Gigaset DECT、IP 电话为主，未见交换机专营 → 大盘分销，维持B。",
+   "quote": "ALLNET France；The latest ALLNET news: promotions, new products, and upcoming events；WEBINAR ALLNET France x Yeastar；Gigaset N870 IP PRO（DECT multi-cellules）；bundle Yeastar x SNOM",
+   "sources": [
+    [
+     1,
+     "https://allnetfrance.fr/en"
+    ]
+   ]
+  },
+  {
+   "code": "B-234",
+   "decision": "hold-B",
+   "site": "rihan.fr",
+   "level": "individual",
+   "note": "【2026-09-28 R53 B段逐站复筛13】官网核对：Adnan RIHAN（个人，巴黎 ITIC 授课）为 **MikroTik 认证顾问/讲师**（Network Associate、IPv6/Routing/Traffic Control/Wireless Engineer），提供培训与架构咨询、无产品目录与销售 → 个人服务型，维持B。",
+   "quote": "Adnan RIHAN - Architecte Informatique, Développeur Full-Stack, Cryptographe et Pilote；MikroTik: Consultant Certifié（Network Associate, IPv6 Engineer, Routing Engineer, Traffic Control Engineer, Wireless Engineer）；Formateur Certifié MikroTik（ITIC Paris）",
+   "sources": [
+    [
+     1,
+     "https://adnan.rihan.fr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-236",
+   "decision": "promote",
+   "site": "shop.azurtem.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛13】官网核对：AZURTEM SHOP（法国）为 MikroTik 专营 B2B 网店（含英文站），**Cloud Router Switches (CRS) 类目在售 CRS510-8XS-2XQ-IN（€735.47）、CRS310-8G+2S+IN、CRS418-8P-8G-2S+5axQ2axQ-RM、FiberBox Plus 户外交换机（switches-fibre 类目）**，另有 RouterBOARD/5G/LTE/IoT-LoRa/天线 → 交换机产品+品牌专营 → 人工定级升A。",
+   "quote": "AZURTEM SHOP（B2B, 英文站）；MikroTik CRS510-8XS-2XQ-IN switch €735.47；MikroTik CRS310-8G+2S+IN switch €160.98；MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM wifi switch €367.21；MikroTik FiberBox Plus outdoor switch €168.35（switches-fibre / cloud-router-switches-crs 类目）",
+   "sources": [
+    [
+     1,
+     "https://shop.azurtem.com/en/"
+    ]
+   ]
+  },
+  {
+   "code": "B-238",
+   "decision": "hold-B",
+   "site": "edox.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：EDOX SAS（法国，1993 年创立，100% 间接分销/批发，5000+ 经销商、40,000 m³ 库存）自述「distributeur leader des solutions réseau, sécurité et téléphonie sur IP」；8 条业务线含布线/有线与 Wi-Fi 网络，但首页未捕获交换机品类，规模大、决策链长 → 维持B。",
+   "quote": "EDOX, Votre grossiste à valeur ajoutée — informatique et télécom；« Aujourd’hui, EDOX est reconnu comme un distributeur leader des solutions réseau, sécurité et téléphonie sur IP »；Nos métiers: Câblage réseaux & infrastructure／Réseaux filaires & Wi-fi／Sécurité des réseaux／Téléphonie sur IP／PC & serveurs sur mesure…；+5000 revendeurs",
+   "sources": [
+    [
+     1,
+     "https://www.edox.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-522",
+   "decision": "hold-B",
+   "site": "aplus-sa.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：APLUS Système Automation（法国，1988 年创立，ISO9001）为工业/医疗/国防计算机与嵌入式系统制造商与集成商，无网络交换机品类 → 产品不匹配，维持B。",
+   "quote": "APLUS Système Automation — Experts en Informatique Industrielle；depuis 1988, nous sommes fabricant, concepteur et distributeur… informatique industrielle, informatique médicale, Défense & Sécurité, Digital Média et systèmes de points de vente；Domaines: Industrie et Production／Systèmes embarqués／Logistique／IA／Informatique médicale",
+   "sources": [
+    [
+     1,
+     "https://www.aplus-sa.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-523",
+   "decision": "hold-B",
+   "site": "fget.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：FGET（法国）为工业过程控制与自动化分销：PLC、工业通信、检测、继电器、电机控制、能源分配、工具与安全；无网络交换机品类（且首页显示 \"No product at this time\"）→ 维持B。",
+   "quote": "FGET — Process et contrôle industriel: Automates programmables industriels／Communication industrielle／Détection／Relais temporisés／Blocs relais programmables／Commande de moteurs／Compteurs／Régulateurs；Connectiques／Distribution énergie／outillage；（No product at this time）",
+   "sources": [
+    [
+     1,
+     "https://www.fget.fr/index.php?"
+    ]
+   ]
+  },
+  {
+   "code": "B-241",
+   "decision": "promote",
+   "site": "convergence.direct",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：Convergence Direct（GROUPE CONVERGENCE SAS，法国）为面向电信/IT 专业商的 B2B 电商，**自述「Fournisseur officiel Ascom et Mikrotik」（Ascom 与 MikroTik 官方供应商）**，类目 **Réseaux info → Routeur et switch（含 switch 类目 592）**，另有 DECT/IP 电话、耳机、呼叫系统与 IT 二手机；团队 8 人、330 条 4.7 分评价 → 网络/电信专营+交换机类目+短决策链 → 人工定级升A。",
+   "quote": "Convergence Direct : votre référence en solution de communication professionnelle；Fournisseur officiel Ascom et Mikrotik；Réseaux info — Routeur et switch: Routeur Wi-Fi／Routeur filaire／Routeur 4G/5G／switch（cat. 592）；Une équipe de 8 personnes est dédiée à vos projets；Avis Vérifiés 4.7/5, 330 avis",
+   "sources": [
+    [
+     1,
+     "https://convergence.direct/"
+    ]
+   ]
+  },
+  {
+   "code": "B-524",
+   "decision": "hold-B",
+   "site": "hdtechnology.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：HD Technology（法国）为 MES/工业数据采集软件编辑与集成商（Pollen MES、Pollen Traceability/SPC、Follow-Bee、Inno-Bee 能耗、地磅/拣货），非硬件分销 → 维持B。",
+   "quote": "HD Technology, Editeur et Intégrateur de Solution MES；Expert in industrial data collection and processing for a connected and efficient factory；Software: MES Pollen／Production monitoring (Follow-Bee)／Energy management (Inno-Bee)／Weighbridge management",
+   "sources": [
+    [
+     1,
+     "https://www.hdtechnology.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-245",
+   "decision": "pending",
+   "site": "mhzshop.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：MHz（mhzshop.com，英文/多语 OXID 商城）为无线网络专营分销商：品牌 MikroTik／Ubiquiti／Teltonika／MARS Antennas／Telegärtner／Poynting，QuWireless 官方分销；类目 WiFi/UniFi AP/CPE/PoE 注入器/同轴电缆/Hotspot；**首页未出现交换机型号 → 待核验 MikroTik CRS 类目**；本轮维持B。",
+   "quote": "mhzshop.com（Online Shop）；Our brands: MikroTik／Ubiquiti Networks／Teltonika／MARS Antennas／Telegärtner／Poynting；Official distributor of QuWireless；Categories: WiFi → UniFi Access Points／CPE 5.x GHz／Accessories → PoE／Cables and Assemblies",
+   "sources": [
+    [
+     1,
+     "https://www.mhzshop.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-246",
+   "decision": "hold-B",
+   "site": "netcom-group.fr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：Netcom（GROUPE NETCOM，法国）为面向 TPE/PME 的电信运营商（移动套餐、Fibre Pro、云总机 Saylo，15 个本地机构）→ 运营商/服务商，无硬件分销目录 → 维持B。",
+   "quote": "Fibre Pro, Téléphonie et Mobile Pro pour TPE & PME | Netcom；Netcom, l'opérateur télécom préféré des professionnels；Mobile Pro（14,99€ HT/mois）／Fibre Pro（jusqu'à 10Gb/s）／Standard Téléphonique cloud；15 agences en France；20 ans d'expérience",
+   "sources": [
+    [
+     1,
+     "https://netcom-group.fr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-247",
+   "decision": "promote",
+   "site": "wifi-france.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：WiFi France 自述 **«Solutions WiFi, Réseaux & Téléphonie pour Entreprises»**，网络专营网店在售 **TP-Link Omada/Jetstream 交换机：TL-SG3210XHP-M2（PoE+ 网管 8×2.5G + 2×SFP+ 10G，€288.44 HT）、TL-SG2210MP（Jetstream 10 口 with 8×PoE+，€146.15 HT）**，并大量 Ubiquiti UniFi（AP/UPS/PDU/NAS/充电桩）、Grandstream、Jabra → 交换机产品+网络专营 → 人工定级升A。",
+   "quote": "WiFi France - Solutions WiFi, Réseaux & Téléphonie pour Entreprises et Particuliers；TL-SG3210XHP-M2 Switch Poe+ Géré 8 Ports 2.5g + 2 Sfp+ 10g Omada Tp-link — 288,44 € HT；TL-SG2210MP Switch Jetstream Gigabit Intelligent 10 Ports Avec 8 Ports Poe+ — 146,15 € HT；Ubiquiti USP-PDU-Pro／UPS-TOWER-EU／ENAS",
+   "sources": [
+    [
+     1,
+     "https://www.wifi-france.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-248",
+   "decision": "hold-B",
+   "site": "osmozis.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛13】官网核对：Osmozis（法国）自述「leader européen des réseaux Wifi et services connectés pour tous les environnements outdoor」（露营地/度假村/体育场 WiFi 与连接服务商，20 年经验），提供 WiFi/IPTV/数字标牌/IP 电话/安防等整体方案与自研软件（OsmoGestion/OsmoVentes），非硬件分销 → 服务/集成商，维持B。",
+   "quote": "Osmozis — Expert de la connectivité pour tous les environnements outdoor；leader européen des réseaux Wifi et services connectés…campings, résidences de vacances, collectivités, commerces, stades；Nos solutions: Wifi Network／TV & Streaming／Affichage dynamique／VoIP／Caméra／OsmoGestion（NF 203）",
+   "sources": [
+    [
+     1,
+     "https://www.osmozis.com/"
+    ]
+   ]
+  }
+ ]
+}
