@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第8批.json`。
+
+- **业务定位**：GU 集团的全国安全/建筑技术服务实体（Velbert）：门禁/楼控/消防/逃生线保安，Allied Resell（CSV 记录）。⚠️ 公共与 KRITIS 客户段划线。
+- **产品线与在售品牌**：门禁控制/楼宇管理/消防/逃生线保安的规划-实施-维保-24/7 SLA。
+- **目标行业与场景**：企业楼宇+公共机构+KRITIS 运营商的安全与建筑技术项目。
+- **团队与规模**：全国服务网络（认证技师班组建制）。
+- **决策链与对接人**：info@gu-bks.de（CSV 9-27：BHE 协会列出服务公司邮箱，GU 官网站确认同集团实体）。
+- **技术与认证**：Allied Resell（CSV 记录）。
+- **采购与供应链信号**：SLA 维保存量盘+大项目增量盘：维保备件与项目配套双需；⚠️ KRITIS/公共段的不供声明先入。
+- **近期动态与线索**：全国网点与 24/7 热线营销在推。
+- **与我方契合点**：商业企业段的门禁/楼控网络配套：24 口接入+户外门机组工业件（与 A-152 口径一致、错峰递）。
+- **风险与注意**：消防/生命安全联动段不碰（只做非联动的门禁/楼控网络段）；与 A-152 内容错峰不同模板（CSV 重点避免重复联系）。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网抬头：安全与建筑技术的服务专家——「从规划到维护」的全国性服务实体（GU 集团旗下，与 A-152/153 协同错峰）。
+  > Dienstleistungsexperte für Sicherheitstechnik — Ihr Partner von der Planung bis zur Wartung ‖ Als bundesweit tätiger Dienstleistungspartner begleitet GU BKS SERVICE Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen
+  > 来源：https://www.gu-bks.de/de-de
+- **【目标行业与场景】**⚠️ 客户段含「公共机构与关键基础设施运营商」——KRITIS/公共段要划线；商业企业段可谈。
+  > Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen bei anspruchsvollen Projekten rund um Sicherheits- und Gebäudetechnik
+  > 来源：https://www.gu-bks.de/de-de
+- **【产品线与在售品牌】**服务全链：规划咨询（含消防规划/安全规划）→认证技师实施→维保→24/7 热线+SLA+软件维护。
+  > Planung und Beratung — inklusive Brandschutzplanung, Sicherheitsplanung, Projektierung und Werkplanung ‖ Realisierung und Installation — Unsere zertifizierten Techniker ‖ Kundenbetreuung — 24/7-Hotline, Serviceeinsätze, Reparaturen, SLA-Verträge und Softwarewartung
+  > 来源：https://www.gu-bks.de/de-de
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（商业企业段门禁配套，KRITIS/公共段划线）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：服务实体视角：SLA 维保盘里替换与改造项目的 24 口接入层成本对照——明示仅供商业企业段。
+- **要问的问题**：商业客户的门禁改造接入层现在配什么？（KRITIS/公共段不供声明随附）
+- **随附证明**：边界声明 + 规格对照 + 单端口测算（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（户外门机组/逃生线保安外围非联动点）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：户外门机组与非联动外围点位：宽温 DIN PoE——备件化（24/7 热线承诺的反面就是坏机成本）。
+- **要问的问题**：SLA 盘里户外点位的坏机率与上门次数？
+- **随附证明**：宽温报告 + 坏机替换测算 + 备件包价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（商业楼宇分段标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：商业楼宇的门禁/楼控网分段模板：VLAN/ERPS 进他的工程标准。
+- **要问的问题**：商业段的网分段模板要不要进你们的工程标准？
+- **随附证明**：VLAN/ERPS 模板 + 收敛实测（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

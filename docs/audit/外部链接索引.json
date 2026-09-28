@@ -2300,6 +2300,40 @@
     ]
   },
   {
+    "url": "https://baien.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/A/A-141-BAIEN GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-141-BAIEN GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-141-BAIEN GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://baien.de/BAIEN-GmbH/",
     "http_checked": false,
     "occurrences": [
@@ -2552,6 +2586,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-901/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://berlin.branchen-info.net/fp_1174620.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1242"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1254"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1260"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L69"
       }
     ]
   },
@@ -4000,12 +4060,48 @@
         "locator": "反向信号名单!Q898"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L563"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L571"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L577"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L583"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L589"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L550"
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -4454,6 +4550,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第11批.json",
         "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://dsgvo.human-art.de/（human-art.de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1265"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L71"
       }
     ]
   },
@@ -6522,6 +6632,20 @@
     ]
   },
   {
+    "url": "https://humanart.online-reseller.de/eshop.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1265"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
     "url": "https://ico.org.uk/ESDWebPages/Entry/ZB722352",
     "http_checked": false,
     "occurrences": [
@@ -6684,6 +6808,48 @@
       {
         "path": "profile/A/A-025-Katsariotis Dimitrios - IME-希腊.md",
         "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://inducio-services.net/en",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1325"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1333"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1339"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1345"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1351"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -6882,6 +7048,32 @@
     ]
   },
   {
+    "url": "https://insightportal.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1404"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1416"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1428"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://insightportal.de/impressum",
     "http_checked": false,
     "occurrences": [
@@ -6890,12 +7082,24 @@
         "locator": "反向信号名单!Q912"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1408"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1422"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L721"
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L69"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -16642,6 +16846,20 @@
     ]
   },
   {
+    "url": "https://owncloud.human-art.de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1265"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
     "url": "https://paceintl.com/",
     "http_checked": false,
     "occurrences": [
@@ -20172,6 +20390,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-935/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://ticket.human-art.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1265"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L71"
       }
     ]
   },
@@ -24676,6 +24908,48 @@
     ]
   },
   {
+    "url": "https://www.bod-networks.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L91"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "profile/A/A-142-bod networks GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-142-bod networks GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-142-bod networks GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-142-bod networks GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.bod-networks.com/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -25728,6 +26002,48 @@
     ]
   },
   {
+    "url": "https://www.compdata.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L247"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L255"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L261"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L267"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L273"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.compdata.de/sections",
     "http_checked": false,
     "occurrences": [
@@ -26556,6 +26872,48 @@
     ]
   },
   {
+    "url": "https://www.dainox.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L326"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L334"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L340"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L346"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L352"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.dainox.net/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -26632,12 +26990,48 @@
         "locator": "反向信号名单!Q896"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L405"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L413"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L419"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L425"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L431"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L524"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L75"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -26882,6 +27276,32 @@
     ]
   },
   {
+    "url": "https://www.datavisiongroup.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L170"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L182"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L188"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
     "url": "https://www.datel-dessau.de",
     "http_checked": false,
     "occurrences": [
@@ -26932,12 +27352,48 @@
         "locator": "反向信号名单!Q897"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L484"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L492"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L498"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L504"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L510"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L537"
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L91"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -27830,6 +28286,40 @@
     ]
   },
   {
+    "url": "https://www.dresdner-prosoft.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L642"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L650"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L656"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L662"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.dside.nl/",
     "http_checked": false,
     "occurrences": [
@@ -27984,6 +28474,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-900/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eckmann-spezialkabel.co/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L715"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L729"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L735"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L741"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -30102,12 +30634,60 @@
         "locator": "反向信号名单!Q903"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L867"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L875"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L881"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L887"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L940"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L958"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L964"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L614"
       },
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
+        "locator": "L72"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -30128,12 +30708,24 @@
         "locator": "反向信号名单!Q904"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L944"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L952"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L631"
       },
       {
         "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
         "locator": "L27"
+      },
+      {
+        "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
+        "locator": "L66"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -30230,6 +30822,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-902/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gbs-tempest.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L794"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L802"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L808"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L814"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -30562,6 +31188,40 @@
     ]
   },
   {
+    "url": "https://www.gu-bks.de/de-de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1017"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1025"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1031"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1037"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.hbs.net",
     "http_checked": false,
     "occurrences": [
@@ -30844,6 +31504,40 @@
     ]
   },
   {
+    "url": "https://www.hmt-hamburg.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1169"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1177"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1183"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1189"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.hmt-hamburg.com/kontakt",
     "http_checked": false,
     "occurrences": [
@@ -31020,6 +31714,48 @@
     ]
   },
   {
+    "url": "https://www.hug.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1090"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1098"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1104"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1110"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1116"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.hug.de/unternehmen/kontakt/?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef776cd94f3a8be1a988aec2bc6a13a0",
     "http_checked": false,
     "occurrences": [
@@ -31042,6 +31778,46 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-906/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1265"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de/datenschutz.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1246"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1266"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1272"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -31972,6 +32748,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-913/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.isimko.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1481"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1489"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1495"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1501"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L1507"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L75"
       }
     ]
   },
@@ -36114,6 +36932,24 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第26批.json",
         "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://www.muensterlandzeitung.de/themenseiten-mlz/glasfaser-ausbau-im-muensterland-die-datavisiongroup-beim-gewerbetag-w1033684-9001597453/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L174"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第8批.json",
+        "locator": "L194"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L72"
       }
     ]
   },

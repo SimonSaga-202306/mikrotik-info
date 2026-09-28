@@ -317,7 +317,7 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(len(first), 49)
         self.assertEqual([p.name[:5] for p in first], [f'A-{n:03}' for n in range(1, 50)])
         editable = {'A-044', 'A-046'}
-        r54 = {f'A-{n:03}' for n in range(1, 141)}
+        r54 = {f'A-{n:03}' for n in range(1, 161)}
         mutable_lines = ('- **邮箱**', '- **电话**', '- **原始联系字段**', '- **原备注**', '| 原备注 |')
         renumber = {'## 九、注意点': '## 六、注意点',
                     '## 十、首触邮件（可直接发送）': '## 七、首触邮件（可直接发送）',
@@ -376,7 +376,7 @@ class RepositoryTests(unittest.TestCase):
     def test_r54_enrichment_matches_dossiers(self):
         # 2026-09-28 R54：A 类逐户加厚 = 10 个维度 + 原文证据摘录 + 恰好 3 步跟进计划。
         # 数据源 batch/A类加厚_*.json 是唯一事实源；profile/ 由 make_profiles.py 渲染，不许手改。
-        batches = {1: range(1, 21), 2: range(21, 41), 3: range(41, 61), 4: range(61, 81), 5: range(81, 101), 6: range(101, 121), 7: range(121, 141)}
+        batches = {1: range(1, 21), 2: range(21, 41), 3: range(41, 61), 4: range(61, 81), 5: range(81, 101), 6: range(101, 121), 7: range(121, 141), 8: range(141, 161)}
         for batch, codes in batches.items():
             data = json.loads((ROOT / f'batch/A类加厚_2026-09-28_R54_第{batch}批.json').read_text(encoding='utf-8'))
             self.assertEqual(data['batch'], batch)

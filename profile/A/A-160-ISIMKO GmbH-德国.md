@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第8批.json`。
+
+- **业务定位**：勃兰登堡/萨克森四站的 120 人工程集团：IT/安防/媒体/通信四大块，工业铜纤网络是专长，Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：工业网络布线+IT 基建+安防技术+AV 媒体技术（20 人）+通信技术+自有 PC-Spezialist+YellowFox 车载远程信息（伙伴）。
+- **目标行业与场景**：厂房工业网/校园网/医疗与金融机构+行政（划线）/文化场馆 AV。
+- **团队与规模**：120+ 人四处站点；柏林 TB 有专属 medientechnik@isimko.de 分箱。
+- **决策链与对接人**：info@isimko.de（CSV 9-27：Impressum 明文，Cottbus；负责人 Ralph Hannemann、Diego Noack 具名）。
+- **技术与认证**：ISO 9001/SGU（官网）；Allied Resell（CSV 记录）。
+- **采购与供应链信号**：工业工程项目制：厂房铜纤网络的接入/工业件是常客；EU 基金周期里他自己的数字化扩项也会买。
+- **近期动态与线索**：EU 资助的 AI/楼自动项目=新场景预算在位。
+- **与我方契合点**：工业铜纤项目的工业 PoE 与管理型——他专长是缆，供电交换正是配套段；AV 场馆项目的 PoE 接入层也是天然配套。
+- **风险与注意**：公共行政（Verwaltung）段划线只谈商业客户；Schwarze Pumpe 工业区涉及能源设施客户时同样谨慎；德文。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网自述：信息/安全/媒体/通信四大技术工程的全套方案商——「高质量铜缆与光纤工业网络」是专长。
+  > Wir planen und realisieren Projekte in der Informationstechnik, Sicherheitstechnik, Medientechnik sowie Kommunikations- und Sicherheitstechnik ‖ Wir sind spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie.
+  > 来源：https://www.isimko.de/
+- **【团队与规模】**家族中型企业 120+ 员工，四处站点：Cottbus 总部+Berlin/Dresden/Schwarze Pumpe 技术处；ISO 9001、劳资协定绑定、SGU 管理体系。
+  > Wir sind ein familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten an den Standorten Cottbus, Berlin, Dresden und Schwarze Pumpe. ‖ ISO 9001 zertifiziert · tarifgebundenes Unternehmen · SGU Management-System
+  > 来源：https://www.isimko.de/
+- **【目标行业与场景】**行业九大版块：教育/医疗/金融/⚠️行政/研究/工业/文化艺术/交通——公共行政在列（该段划线），工业与教育是重项。
+  > Immer die richtige Lösung für Ihre Branche: Bildung · Medizin · Finanzen · Verwaltung · Forschung · Industrie · Kunst & Kultur · Verkehr
+  > 来源：https://www.isimko.de/
+- **【近期动态与线索】**欧盟基金项目「ISIMKO goes Future」（AI 方案/楼宇自动化/流程数字化）在跑；媒体技术团队 20+ 人；自有 PC-Spezialist 线。
+  > ISIMKO goes Future — Mit KI-basierten Lösungen, Gebäudeautomatisierung und Prozessdigitalisierung in die Zukunft（Gefördert aus Mitteln der Europäischen Union）‖ Unser Team für audiovisuelle Medientechnik besteht aus über 20 Mitarbeiterinnen und Mitarbeiter
+  > 来源：https://www.isimko.de/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 工业级非管理 PoE（厂房铜纤配套段）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：顺他工业铜纤专长：厂房改造项目的宽温 DIN PoE 配套段——缆他强项、交换让我方来配。
+- **要问的问题**：厂房项目的供电交换现在配什么？
+- **随附证明**：宽温报告 + DIN 图 + 项目价（德文）。
+
+### 第 2 次跟进 · 24 口 CCTV/PoE（园区/场馆接入层）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：校园与文化场馆 AV 项目的接入层 24 口 PoE++ 成本对照。
+- **要问的问题**：校园/场馆项目的接入层现在配什么？
+- **随附证明**：规格对照 + 单端口测算（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（工业分段/AV 网络标准件）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：工业网与 AV 网的分段标准件：VLAN/ERPS 模板+冗余实测进他的工程库。
+- **要问的问题**：工业/AV 网分段模板要不要进工程库？
+- **随附证明**：VLAN/ERPS 模板 + 冗余实测 + 样机（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

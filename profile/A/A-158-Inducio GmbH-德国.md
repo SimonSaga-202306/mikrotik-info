@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第8批.json`。
+
+- **业务定位**：巴伐利亚 Traunstein 的 NOC/监控 MSP：COD 厂商无关监控+NAC+漏洞/威胁监测 24/7，Allied Resell（伙伴墙+CSV 记录）。
+- **产品线与在售品牌**：监控/NAC/安全检查/威胁监测托管；分销通路 Ingram/TD SYNNEX。
+- **目标行业与场景**：KRITIS 运营商（划线）、机械制造、高中型企业的稳定与安全运营。
+- **团队与规模**：约 25 人专家队（官网口径），30+ 技术伙伴。
+- **决策链与对接人**：info@inducio.de；负责人 Siegmund Gromotka（CSV 9-27：联系/Impressum 公开）。
+- **技术与认证**：Allied Resell（CSV+伙伴墙）；COD/NAC 体系（官网）。
+- **采购与供应链信号**：托管栈进货走分销（Ingram/TD Synnex 在墙）：要么有能力跟分销并价，要么走「项目第二来源注册」绕开比价；SNMP/MIB 完备性是他的技术门槛。
+- **近期动态与线索**：英文页新上线=在拓客（2026 版式）。
+- **与我方契合点**：制造的/中型企业客户的接入层标准件：全 MIB/ERPS 配 COD 监控、NAC 动态 VLAN 兼容清单——技术评估先行。
+- **风险与注意**：KRITIS 客户段不供（首封声明）；他懂监控协议细节——MIB 库/固件路线一次给全，别被问倒。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**官网（EN 页）：2010 年起的安全基设运营专家——NOC/监控/安全方案三件主业，约 25 人团队。
+  > Since 2010, we have been helping companies operate complex IT infrastructures in a stable, transparent, and secure manner—with a focus on network operations (NOC), monitoring, and smart security solutions. ‖ a team of around 25 specialists
+  > 来源：https://inducio-services.net/en
+- **【目标行业与场景】**⚠️ 客户层：「从 KRITIS 运营商到机械制造与中型企业」——KRITIS 段划线，制造/中型企业段是正路。
+  > we serve customers ranging from KRITIS operators to mechanical engineering companies and medium-sized enterprises with high requirements for availability and security.
+  > 来源：https://inducio-services.net/en
+- **【技术与认证】**核心栈 COD 平台（extocode 厂商无关监控）+NAC（基于 MAC 认证/动态 VLAN）——管理型交换是他的监控对象，SNMP 兼容是硬门槛；伙伴墙：Allied Telesis/HPE/Cisco/Fortinet/Huawei/Ingram/TD Synnex 等 30+。
+  > Central Operations Dashboard (COD)… a manufacturer-independent platform that combines monitoring, network topologies, automated configuration backups, network access control (NAC), and firewall management ‖ Network access is controlled via NAC (e.g., MAC-based authentication, dynamic VLAN assignment)（伙伴墙 Logo 含 Allied Telesis · Cisco · HPE · Fortinet · Huawei · Ingram Micro · TD Synnex · RIPE · Greenbone · Nakivo）
+  > 来源：https://inducio-services.net/en
+- **【产品线与在售品牌】**服务四件：NOC 与基设监控（从可用性到 SNMP 全监）/资产+NAC/IT 安全检查（漏洞扫描）/网络安全监控（威胁情报）。
+  > NOC & Infrastructure Monitoring — from simple availability checks to detailed SNMP monitoring ‖ Asset Management + Network Access Control ‖ IT security checks — regular vulnerability scans ‖ Network Security Monitoring — threat intelligence integration
+  > 来源：https://inducio-services.net/en
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（监控兼容的接入标准件）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：贴他 COD 监控：24 口接入层全 SNMP MIB/ERPS，先过技术评估；KRITIS 客户段不供声明随附。
+- **要问的问题**：制造/中型企业客户的接入层标准件要不要进 COD 评估？（KRITIS 段不供）
+- **随附证明**：MIB 库 + 兼容清单 + 边界声明（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（机械制造客户车间段）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：机械制造客户的车间/室外点位：宽温 DIN PoE 减现场工单——正好扣他 24/7 运维成本线。
+- **要问的问题**：车间/室外点位的工单量一年多少？
+- **随附证明**：宽温报告 + 坏机工单测算（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（NAC 动态 VLAN 兼容验证）
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：管理型接入件的 NAC（MAC 认证/动态 VLAN）兼容验证+分段模板——过了他这关就是标准件。
+- **要问的问题**：NAC 动态 VLAN 全流程要不要对一遍？
+- **随附证明**：NAC 兼容验证记录 + VLAN/ERPS 模板 + 样机（德文）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
