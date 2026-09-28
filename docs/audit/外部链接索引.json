@@ -2100,6 +2100,18 @@
         "locator": "L374"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L402"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L423"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L433"
+      },
+      {
         "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
         "locator": "L119"
       },
@@ -2114,6 +2126,28 @@
       {
         "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L150"
+      }
+    ]
+  },
+  {
+    "url": "https://atec-security.co.uk/markets/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L428"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L147"
       }
     ]
   },
@@ -5370,6 +5404,32 @@
     ]
   },
   {
+    "url": "https://dside.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L887"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L908"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L913"
+      },
+      {
+        "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
+        "locator": "L148"
+      }
+    ]
+  },
+  {
     "url": "https://dslab.gr/",
     "http_checked": false,
     "occurrences": [
@@ -5710,8 +5770,26 @@
         "locator": "L599"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L718"
+      },
+      {
         "path": "profile/A/A-088-Electromaster Limited-爱尔兰.md",
         "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-088-Electromaster Limited-爱尔兰.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://electromaster.ie/（2026-09-28",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L697"
       }
     ]
   },
@@ -16664,6 +16742,30 @@
       {
         "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
         "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotikinfo.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L328"
+      },
+      {
+        "path": "profile/A/A-084-Amin Dashti-美国.md",
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotikinfo.com/（2026-09-28",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L307"
       }
     ]
   },
@@ -33036,6 +33138,22 @@
         "locator": "L453"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L502"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L523"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L528"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L533"
+      },
+      {
         "path": "profile/A/A-086-EQUIPAGES-法国.md",
         "locator": "L121"
       },
@@ -33050,6 +33168,18 @@
       {
         "path": "profile/A/A-086-EQUIPAGES-法国.md",
         "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L146"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L149"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L152"
       }
     ]
   },
@@ -34678,12 +34808,32 @@
         "locator": "L200"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L207"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L228"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L238"
+      },
+      {
         "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
         "locator": "L123"
       },
       {
         "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L154"
       },
       {
         "path": "profile/A/A-239-Patrik Schaub-德国.md",
@@ -40738,8 +40888,26 @@
         "locator": "L113"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L133"
+      },
+      {
         "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
         "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://www.microstar.com.pl/（",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L112"
       }
     ]
   },
@@ -44284,8 +44452,28 @@
         "locator": "L522"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L602"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L623"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L628"
+      },
+      {
         "path": "profile/A/A-087-PEDAB-法国.md",
         "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-087-PEDAB-法国.md",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-087-PEDAB-法国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -45048,6 +45236,18 @@
         "locator": "L44"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L42"
+      },
+      {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L121"
       },
@@ -45062,6 +45262,28 @@
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L146"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://www.profcon.se/nyheter",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L149"
       }
     ]
   },
@@ -47248,6 +47470,14 @@
         "locator": "L684"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L792"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L813"
+      },
+      {
         "path": "profile/A/A-089-Switchshop Ltd-英国.md",
         "locator": "L120"
       },
@@ -47262,6 +47492,24 @@
       {
         "path": "profile/A/A-089-Switchshop Ltd-英国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://www.switchshop.co.uk/frameworks/nhs-shared-business-services-framework",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
+        "locator": "L818"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L148"
       }
     ]
   },

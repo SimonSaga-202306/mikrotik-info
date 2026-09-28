@@ -208,6 +208,21 @@ OVERRIDE = {
  'A-078': {'p1': 'STC-28DGGPM', 'p1_reason': 'Bejarano 西 MTCINE 个人：WhatsApp 破冰薄档如实（$99 锚点一致）'},
  'A-079': {'p1': 'STC-28DGGPM', 'p1_reason': 'Fuentes 西三证个人：WhatsApp 破冰薄档如实（$99 锚点一致）'},
  'A-080': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Cárdenas 与 A-066 同人互注：商务统一走 A-066，不重复触达（档案互注留档）'},
+ # ── R56 批 9（A-081..A-090 深挖 2026-09-28）──
+ 'A-081': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'Profcon 瑞典 60 年工业集团：Nova 网络线温宽 PoE 生命周期补位（$74.8 锚点一致）；国防载荷线红线不触'},
+ 'A-082': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'Microstar 华沙 Perle 分销（站维护页）：Perle 旁并架（$74.8 锚点一致）维护期电话并行'},
+ 'A-083': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'FMS 德国 ISP 向 VAD+培训伙伴：ISP 白牌随单+训练教具比较样本（$99 锚点一致）；市政段边界+师者红线'},
+ 'A-084': {'p1': 'STC-28DGGPM', 'p1_reason': 'Dashti 美 7 证站长（站暂不可达）：邮件深持破冰（$99 锚点一致）'},
+ 'A-085': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ATEC 英 30 年安防整合（全厂牌）：私营段监控柜 value PoE 补位（$165 锚点一致）；公共段边界'},
+ 'A-086': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'EQUIPAGES 法全 SI 集成：办公网无线/VoIP 接入柜随单+infogérance 滚动（$165 锚点一致）'},
+ 'A-087': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'PEDAB 法国大集团分销：工业 PoE value 档并架（$74.8 锚点一致）；准入文件严谨'},
+ 'A-088': {'p1': 'STC-28DGGPM', 'p1_reason': 'Electromaster 爱尔兰：域名流落+NO-MX 触达降级（站被占如实标注；先电话名录核验）'},
+ 'A-089': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Switchshop 英框架大户：公共框架红线明示不碰；只谈私营段 24 口 PoE 补位（$165 锚点一致）'},
+ 'A-090': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'D-Side 荷中小电信一体交付：Voice VLAN 接入柜随单（$165 锚点一致）'},
 }
 
 out = {}

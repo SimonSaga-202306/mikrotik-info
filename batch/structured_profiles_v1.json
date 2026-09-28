@@ -11642,7 +11642,7 @@
   ],
   "lang": "nl",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "D-Side 荷中小电信一体交付：Voice VLAN 接入柜随单（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -12065,7 +12065,7 @@
   ],
   "lang": "en",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Dashti 美 7 证站长（站暂不可达）：邮件深持破冰（$99 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -12456,7 +12456,7 @@
   ],
   "lang": "de",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "FMS 德国 ISP 向 VAD+培训伙伴：ISP 白牌随单+训练教具比较样本（$99 锚点一致）；市政段边界+师者红线",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -16510,12 +16510,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Switchshop 英框架大户：公共框架红线明示不碰；只谈私营段 24 口 PoE 补位（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -16889,11 +16889,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "ATEC 英 30 年安防整合（全厂牌）：私营段监控柜 value PoE 补位（$165 锚点一致）；公共段边界",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -23278,12 +23278,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "fr",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "EQUIPAGES 法全 SI 集成：办公网无线/VoIP 接入柜随单+infogérance 滚动（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -23322,7 +23322,7 @@
   ],
   "lang": "fr",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "PEDAB 法国大集团分销：工业 PoE value 档并架（$74.8 锚点一致）；准入文件严谨",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -23404,7 +23404,7 @@
   "risk_flags": [],
   "lang": "sv",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Profcon 瑞典 60 年工业集团：Nova 网络线温宽 PoE 生命周期补位（$74.8 锚点一致）；国防载荷线红线不触",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -23486,7 +23486,7 @@
   "risk_flags": [],
   "lang": "pl",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Microstar 华沙 Perle 分销（站维护页）：Perle 旁并架（$74.8 锚点一致）维护期电话并行",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -23651,12 +23651,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "Electromaster 爱尔兰：域名流落+NO-MX 触达降级（站被占如实标注；先电话名录核验）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STC-424DGGPM-280W",
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",

@@ -14,7 +14,7 @@ decision_speed: fast
 price_sensitivity: high
 volume_potential: 1  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STI-288GP
+p1: STC-424DGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Switchshop 英框架大户：公共框架红线明示不碰；只谈私营段 24 口 PoE 补位（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -74,7 +74,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（商业侧 LAN 项目）
 
@@ -128,23 +128,42 @@ updated: 2026-09-28
   > Trusted Supplier on Major Public & Commercial Frameworks — NHS SBS Digital Workplace Solutions 2 · Crown Commercial Service Network Services 3 - Lot 2a: Intra-site Connectivity (LAN) · Jisc Network Equipment Framework（Lots 3 HPE Aruba / 6 Fortinet）· enFrame · Everything ICT
   > 来源：https://www.switchshop.co.uk/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：25 年 VAR；公共框架大户（红线区）+私营段并存
+- **②芯片/型号**：Allied Telesis 在册
+- **③KP 深挖**：sales@；电话并行
+- **④Saga 对标**：私营段 value PoE（框架不涉）
+- **⑤在乎与偏好**：三重 ISO 文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Enterprise networks…backed by the highest Fortinet and HPE Aruba accreditations in the country…Fortinet Public Sector Partner of the Year 2025”
+  > “Enterprise networks…backed by the highest Fortinet and HPE Aruba accreditations in the country…Fortinet Public Sector Partner of the Year 2025”
+  > 来源：https://www.switchshop.co.uk/
+- **【风险与注意】**框架墙：NHS SBS Digital Workplace 2 / CCS Network Services 3 Lot 2a / Jisc / enFrame / Everything ICT（DfE）
+  > 框架墙：NHS SBS Digital Workplace 2 / CCS Network Services 3 Lot 2a / Jisc / enFrame / Everything ICT（DfE）
+  > 来源：https://www.switchshop.co.uk/frameworks/nhs-shared-business-services-framework
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Switchshop 英框架大户：公共框架红线明示不碰；只谈私营段 24 口 PoE 补位（$165 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：工业非管理 8口 PoE af/at，250m 延伸供电，冗余 DC44–57V（过压/反接保护），DIN 轨，3 年保
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **W**：一人/个体=单点与节奏风险
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：大客群
+- **W**：红线主干
+- **O**：私营
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -182,21 +201,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi Switchshop,
+Hi Switchshop team,
 
-I came across Switchshop Ltd - 集成商/代理（Allied Telesis）.
+Twenty-five years, Fortinet UK Public Sector Partner of the Year 2025, and the strongest framework coverage in the market - congratulations, earned.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+To be perfectly clear upfront: this email does NOT touch your public frameworks in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your existing switching lines. Reference: $165 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: in your private-sector builds, who supplies the PoE access layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

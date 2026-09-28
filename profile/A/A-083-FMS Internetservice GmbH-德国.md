@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），三星重点
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — FMS 德国 ISP 向 VAD+培训伙伴：ISP 白牌随单+训练教具比较样本（$99 锚点一致）；市政段边界+师者红线；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -131,11 +131,33 @@ updated: 2026-09-28
   > MikroTik 官方培训伙伴，开课/持证 MTCRE MTCSWE（CSV 信号列；名录页 JS 渲染，以既有记录为准）
   > 来源：https://mikrotik.com/consultants
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：20 年 ISP 向 VAD+培训伙伴；市政客群边界
+- **②芯片/型号**：MikroTik 课程持证
+- **③KP 深挖**：Schaub 总经
+- **④Saga 对标**：ISP 白牌随单+教具样本双轨
+- **⑤在乎与偏好**：知识转移型合作
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Value Added Distribution…Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau…Kunden: ISPs, Stadtwerke, Systemhäuser”
+  > “Value Added Distribution…Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau…Kunden: ISPs, Stadtwerke, Systemhäuser”
+  > 来源：https://www.fmsweb.de/
+- **【技术与认证】**CSV：FMS 是 MikroTik 培训伙伴，开课含 MTCRE/MTCSWE
+  > CSV：FMS 是 MikroTik 培训伙伴，开课含 MTCRE/MTCSWE
+  > 来源：客户名单_反向信号_2026-09.csv
+- **【联系方式】**info@fmsweb.de；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > info@fmsweb.de；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://www.fmsweb.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | FMS 德国 ISP 向 VAD+培训伙伴：ISP 白牌随单+训练教具比较样本（$99 锚点一致）；市政段边界+师者红线 |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -144,10 +166,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE），三星重点
-- **W**：一人/个体=单点与节奏风险；教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：双管
+- **W**：公共占比
+- **O**：白牌
+- **T**：大厂
 
 ## 触达与风险红线
 
@@ -186,21 +208,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi FMS,
+Hi Patrick,
 
-I came across FMS Internetservice GmbH - 集成商/顾问（MikroTik 认证）.
+A value-added distributor specializing in ISPs and broadband, plus a MikroTik training partnership - FMS sits exactly where access networks get built.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) as a white-label-friendly complement for your reseller and ISP customers. Reference: $165 USD EXW. (We respect your public-sector and municipal customer boundaries - this offer targets your private ISP and system-house channel.)
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: who supplies the PoE access layer in your portfolio today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
