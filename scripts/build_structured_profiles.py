@@ -246,6 +246,17 @@ OVERRIDE = {
  'A-108': {'p1': 'STC-28DGGPM', 'p1_reason': 'Roadtech 运输 SaaS：Allied 信号来源待核的弱对口破冰（$99 锚点一致）；如实薄档'},
  'A-109': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'RWL 爱/英/荷布线独立分销：Panduit 旁 active PoE 补位铺货（$165 锚点一致）'},
  'A-110': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Senseco 消防安防全国办：楼内消防/安防 IP 化接入柜（$165 锚点一致）；工程师文化实测文档'},
+ # ── R56 批 12（A-111..A-120 深挖 2026-09-28）──
+ 'A-111': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Universal Networks 英 30 年光纤布线（multipartner）：架上 active 补位（$165 锚点一致）；无公开邮箱电话先行'},
+ 'A-112': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'BRS Networks 瑞典 NaaS+OT 监控（80 专家）：NaaS 接入位 TCO 话术（$165 锚点一致）'},
+ 'A-113': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'A3/CBX 美全国楼宇集团：安防/网络一体接入柜（$165 锚点一致）；集团采购中心化注意'},
+ 'A-114': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Amplitel 威州 MSP：公营事业楼宇接入+透明定价文化（$165 锚点一致）；CEO Lahm 具名'},
+ 'A-115': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'BCL 俄亥俄女性持有 ICT 设计（WBE/WOSB/DBE）：指定单接入层 value 位（$165 锚点一致）；Christy Miller 具名'},
+ 'A-116': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'GSI 密歇根 30 年安防/网络（厂商中立）：客户墙能源/汽车段接入层（$165 锚点一致）；USACE 联邦红线明示不触'},
+ 'A-117': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Griffon 缅因本地安防：摄像头柜 value PoE（$165 锚点一致）；安装质量文化'},
+ 'A-118': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'HBS 威州全栈（Cisco/HPE 同盟）：第二架价值线窄判别（$165 锚点一致）；第三方名录邮箱存疑标注'},
+ 'A-119': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ITC 纽约 SMB 托管（监控+VoIP 双主线）：随单柜 value 位（$165 锚点一致）；无公开邮箱'},
+ 'A-120': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Kidwell 内布拉斯加 75 年弱电+电气：交钥匙 BOM 接入层 value 位（$165 锚点一致）'},
 }
 
 out = {}

@@ -128,6 +128,22 @@ updated: 2026-09-28
   > 业务联系人邮箱 jgasperich@hbs.net（商会列出，第三方待核；不把 legal 法务邮箱当销售入口——CSV 2026-09-27 说明）
   > 来源：https://deltami.org/places/heartland-business-systems/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：中大企业全栈商；一线伙伴同盟（Cisco/HPE/Verkada）；value 位窄
+- **②芯片/型号**：Allied 信号（CSV 载）
+- **③KP 深挖**：jgasperich 第三方名录存疑
+- **④Saga 对标**：第二架价值线（窄）
+- **⑤在乎与偏好**：伙伴目录
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
+  > “Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
+  > 来源：https://www.hbs.net/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：全栈
+- **W**：同盟
+- **O**：预算线
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Heartland,
+Hi HBS team,
 
-I came across Heartland Business Systems - 集成商/代理（Allied Telesis）.
+A partner wall anchored by Cisco, HPE and Verkada speaks for where your first shelf stands. We are not writing to displace it.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - built for projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, or SMB rollouts inside your managed plans.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: when a project cannot carry the first-shelf price, is there a second approved value line at HBS today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation for the lab. If not relevant, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

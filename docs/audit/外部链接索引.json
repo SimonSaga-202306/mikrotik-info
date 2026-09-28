@@ -1904,6 +1904,14 @@
         "locator": "L1045"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L281"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L302"
+      },
+      {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
         "locator": "L120"
       },
@@ -1918,6 +1926,10 @@
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -2830,6 +2842,14 @@
         "locator": "L1124"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L371"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L392"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L88"
       },
@@ -2848,6 +2868,10 @@
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -3296,6 +3320,14 @@
         "locator": "L883"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L122"
+      },
+      {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
         "locator": "L121"
       },
@@ -3310,6 +3342,10 @@
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
         "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L146"
       }
     ]
   },
@@ -21380,6 +21416,14 @@
         "locator": "L1203"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L461"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L482"
+      },
+      {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
         "locator": "L120"
       },
@@ -21394,6 +21438,10 @@
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -29298,6 +29346,24 @@
     ]
   },
   {
+    "url": "https://www.cbxsolutions.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L191"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
     "url": "https://www.cbxsolutions.com/branches/irmo-700/",
     "http_checked": false,
     "occurrences": [
@@ -35692,12 +35758,24 @@
         "locator": "L1274"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L551"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L572"
+      },
+      {
         "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
         "locator": "L121"
       },
       {
         "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
         "locator": "L124"
+      },
+      {
+        "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
+        "locator": "L143"
       }
     ]
   },
@@ -35946,6 +36024,14 @@
         "locator": "L1357"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L641"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L662"
+      },
+      {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L120"
       },
@@ -35956,6 +36042,10 @@
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -38006,6 +38096,14 @@
         "locator": "L1440"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L731"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L752"
+      },
+      {
         "path": "profile/A/A-119-ITC Technologies-美国.md",
         "locator": "L122"
       },
@@ -38016,6 +38114,10 @@
       {
         "path": "profile/A/A-119-ITC Technologies-美国.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L147"
       }
     ]
   },
@@ -38914,6 +39016,14 @@
         "locator": "L1525"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L821"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L842"
+      },
+      {
         "path": "profile/A/A-120-Kidwell Inc-美国.md",
         "locator": "L120"
       },
@@ -38928,6 +39038,10 @@
       {
         "path": "profile/A/A-120-Kidwell Inc-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-120-Kidwell Inc-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -49232,6 +49346,14 @@
         "locator": "L804"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
+        "locator": "L32"
+      },
+      {
         "path": "profile/A/A-111-Universal Networks-英国.md",
         "locator": "L122"
       },
@@ -49246,6 +49368,10 @@
       {
         "path": "profile/A/A-111-Universal Networks-英国.md",
         "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L147"
       }
     ]
   },

@@ -128,6 +128,22 @@ updated: 2026-09-28
   > Jervey Gym and Watt Family Performance and Wellness Center — Owner: Clemson University · Richmond County Marshal’s Office — partnering with Genetec, we streamlined the security infrastructure
   > 来源：https://www.cbxsolutions.com/branches/irmo-700/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：CBX 全国集团（A3 为安防/网络事业部）；2025 更名整合
+- **②芯片/型号**：Allied 信号（网络事业部接入层）
+- **③KP 深挖**：salesteam@a3（CSV）
+- **④Saga 对标**：楼宇接入柜 value 位
+- **⑤在乎与偏好**：集团认证+文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Integrated commercial openings, security, and technology - delivered as one…structured cabling, network infrastructure, and A/V systems…National Presence. Local Service.”
+  > “Integrated commercial openings, security, and technology - delivered as one…structured cabling, network infrastructure, and A/V systems…National Presence. Local Service.”
+  > 来源：https://www.cbxsolutions.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：管线
+- **W**：集权
+- **O**：整合窗
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi A3,
+Hi A3 / CBX Solutions team,
 
-I came across A3 Communications - 集成商/代理（Allied Telesis）.
+Congratulations on the rebrand into CBX Solutions - uniting doors, security and network technology under one national team is a big, well-timed move.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+Where access control and video surveillance meet structured cabling, there is a PoE access cabinet on every floor. That is the switch we build: 24-port, 280W, 802.3af/at, Voice VLAN, watchdog. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: across CBX network-solutions projects, who supplies the PoE access switches today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full compliance and documentation pack for evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

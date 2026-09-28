@@ -130,6 +130,22 @@ updated: 2026-09-28
   > LinkedIn 公司页公开宣布新域名，匹配 Maybrook NY；旧名 ITC Communications（CSV 2026-09-27 记录）
   > 来源：https://www.linkedin.com/company/itccommunications
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：NY SMB 托管（监控+VoIP 双主线）；cost-effective 文化
+- **②芯片/型号**：Allied 信号
+- **③KP 深挖**：官网表单身
+- **④Saga 对标**：SMB 随单柜
+- **⑤在乎与偏好**：价格点
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“cost-effective solution to manage all aspects of your IT infrastructure…commercial-grade video surveillance…utilize the latest in VoIP technology”
+  > “cost-effective solution to manage all aspects of your IT infrastructure…commercial-grade video surveillance…utilize the latest in VoIP technology”
+  > 来源：https://www.itc-technologies.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -143,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：双主线
+- **W**：无邮箱
+- **O**：价值位
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -180,21 +196,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi ITC,
+Hi ITC team,
 
-I came across ITC Technologies - 集成商/代理（Allied Telesis）.
+"We manage your technology so you can manage your business" - and a cost-effective promise like that lives or dies by the hardware line underneath it.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build the switch that sits in exactly your installs: 24-port Gigabit PoE, 280W, 802.3af/at, Voice VLAN, hardware watchdog - for camera and VoIP closets at SMB sites. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your surveillance and phone-system rollouts, which PoE switch brand do your techs rack today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can share the spec page or arrange a sample unit. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
