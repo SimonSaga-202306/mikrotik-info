@@ -58,7 +58,64 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第4批.json`。
+
+- **业务定位**：哥伦比亚麦德林的 MikroTik 认证讲师+顾问（Wiretel SAS），通信名片登记在美国 Tampa——跨境服务美国拉美裔/拉美 WISP 市场，英西双语。
+- **产品线与在售品牌**：课程（MTCNA/MTCTCE 等认证班）+ WISP 整网实施陪跑 + CCTV 城市监控项目 + 24×7 监控支持。
+- **目标行业与场景**：拉美 WISP 从零建网、城市 CCTV 监控网、企业 LAN/WLAN；CCTV ciudadano=几十上百路摄像头的 PoE 大现场。
+- **团队与规模**：讲师本人+Wiretel SAS 小团队；MUM 多国演讲者，拉美 MikroTik 圈活跃面孔。
+- **决策链与对接人**：Juan Manuel 本人；+57 315 649 0735 / training@jmikrotik.co（官网）；CSV 另记 sutik.oficial@gmail.com。
+- **技术与认证**：10 证全拿+认证讲师，18+ 年经验（CSV 名录记录）；MUM 演讲资料可公开核验其讲师资历。
+- **采购与供应链信号**：WISP 实施=整批设备选型采购；CCTV 项目=PoE 交换机大户；培训实验台=持续教具需求。
+- **近期动态与线索**：培训站 jmikrotik.co 本轮直连失败（搜索快照仍有效）——线上资产波动，触达走手机/Gmail。
+- **与我方契合点**：CCTV ciudadano=24 口 PoE++ 刚需；WISP 塔站=工业件；讲师课=实验台硬件；西语资料我们也能配。
+- **风险与注意**：跨境身份（CSV=Tampa/官网=Medellín）——报价与交付按哥伦比亚/美国两种路径都备好；关税与物流先讲清。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**培训官网（本轮直接抓取失败，内容经搜索引擎快照核实）：电信工程师，10+ 年 MikroTik，认证顾问+讲师，Wiretel SAS CEO。
+  > Ingeniero de Telecomunicaciones Universidad Santo Tomás sede Medellín, gran experiencia trabajando con equipos de la marca MikroTik por más de 10 años. Consultor y entrenador Certificado MikroTik. — Juan Manuel Díaz Gómez CEO Wiretel SAS
+  > 来源：https://jmikrotik.co/
+- **【目标行业与场景】**官网服务范围：LAN、无线网、WISP 实施与「CCTV 市民监控」，WISP 项目从选型到 24×7 驻场/远程支持全陪跑。
+  > redes LAN, redes inalámbricas, WISP´s, CCTV ciudadano — Implementación de WISP´S … monitoreo de red … soporte en sitio y remoto 24X7
+  > 来源：https://jmikrotik.co/
+- **【决策链与对接人】**官网触点：麦德林办公地址、手机与培训邮箱；CSV 记录通信地址在美国 Tampa（英西双语，拉美方向）。
+  > +57 315 649 0735 · training@jmikrotik.co · Calle 32f # 66C - 67 Medellín - Antioquia · @jmmikrotik2
+  > 来源：https://jmikrotik.co/
+- **【技术与认证】**MUM 洪都拉斯 2020 演讲者：2008 年起用 MikroTik，当时已持 MTCNA/MTCTCE（与 CSV「10 证全拿+认证讲师」记录为同一人）。
+  > Experiencia con Mikrotik desde el año 2008 · Certificaciones obtenidas: MTCNA-MTCTCE · Juan Manuel Diaz Gómez, Ingeniero de Telecomunicaciones
+  > 来源：https://mum.mikrotik.com/presentations/HN20/presentation_7422_1580111784.pdf
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（城市监控项目）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行）
+- **切入点**：他做 CCTV ciudadano：几十路摄像头整网 PoE++ 一次到位，4×10G 上行回监控中心——按「每路口/每段一台」测算。
+- **要问的问题**：CCTV 项目里接入交换现在用哪家的、每路功率预算怎么算？
+- **随附证明**：PoE 预算测算表 + 规格对照（英/西语）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（WISP 塔站）
+
+- **推什么**：LT-IS6310G-2GX8GT PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：WISP 塔站/高山点位：宽温宽压 DIN 免配置，配 SFP 上行回传——他建网时的塔上标准件。
+- **要问的问题**：塔站交换与供电现在怎么配？雷击/高温故障多不多？
+- **随附证明**：宽温报告 + DIN 图 + 塔站备件包价。
+
+### 第 3 次跟进 · 管理型 PoE + 课程实验台
+
+- **推什么**：LT-IS6312XG-4XS8GT（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：讲师收尾：管理型进他 MTCNA/MTCTCE 课的实验台（VLAN/QoS 实测），学员即未来客户。
+- **要问的问题**：下一期班实验台缺不缺可做 VLAN/ERPS 实测的交换机？
+- **随附证明**：实验机成本价 + 课程案例页 + 配置模板。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +126,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +151,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
