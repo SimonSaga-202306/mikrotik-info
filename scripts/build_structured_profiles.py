@@ -144,7 +144,9 @@ for r in data:
     _em = re.search(r'[\w.+-]+@[\w-]+\.[\w.]+', contact or '')
     email = _em.group(0) if _em else ''
     site = col(r, '网站')
-    email_state = ('既有/公开' if email and not any(x in email for x in ['猜测', '未验证']) else
+    pending = bool(re.search(r'待核|待人工|未验证', contact or ''))
+    email_state = ('待核·未验证投递（不进群发）' if email and pending else
+                   '既有/公开' if email and not any(x in email for x in ['猜测', '未验证']) else
                    '模式猜测·未验证' if email else '缺失')
     p1 = ov.get('p1', p1_of(needs, org))
     entry = {

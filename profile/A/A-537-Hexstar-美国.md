@@ -63,7 +63,8 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：info@hexstar.com（既有/公开）
+- **邮箱**：info@hexstar.com
+  - 状态：既有/公开
 - **电话**：—
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 888 NETFIX8 / info@hexstar.com
@@ -161,7 +162,7 @@ One question: Do any of your nodes sit outdoors or in unheated cabinets, and how
 If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Communications - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

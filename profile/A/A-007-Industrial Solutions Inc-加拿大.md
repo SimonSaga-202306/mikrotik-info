@@ -65,7 +65,8 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：sales@indsol.com（既有/公开）
+- **邮箱**：sales@indsol.com
+  - 状态：待核·未验证投递（不进群发）
 - **电话**：780.460.9533、866.460.9533
 - **原始联系字段**：sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {first}@indsol.com（bob@/amy@ 属推测，未验证）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
@@ -223,7 +224,7 @@ One question: Do any of your nodes sit outdoors or in unheated cabinets, and how
 If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Communications - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

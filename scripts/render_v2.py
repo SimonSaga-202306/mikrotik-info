@@ -212,8 +212,10 @@ def render(e, ctx):
     # ---- 联系方式 ----
     w('## 联系方式（已有/猜测分标）')
     w('')
+    # 版式纪律：邮箱地址独占一行（R41–R48 冻结断言逐字匹配「- **邮箱**：{addr}」与「- **邮箱**：—」）
     if e['email']:
-        w('- **邮箱**：%s（%s）' % (e['email'], e['email_state']))
+        w('- **邮箱**：%s' % e['email'])
+        w('  - 状态：%s' % e['email_state'])
     else:
         w('- **邮箱**：—')
         w('  - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）')
@@ -415,7 +417,7 @@ def render(e, ctx):
         body = ('Hi %s,\n\n%s\n\n%s\n\n%s\n\n'
                 'If it is useful, I can send one unit for a 30-day evaluation - '
                 'just tell me where to ship it. If not a fit, one line and I close the loop.\n\n'
-                'Best regards,\nSaga Communications - PoE switch OEM/ODM (neutral packing available)'
+                'Best regards,\nSaga Telecom - PoE switch OEM/ODM (neutral packing available)'
                 % (first, obs, pitch, 'One question: %s' % e['first_question']))
     else:
         body = ctx['custom_email'][1]
