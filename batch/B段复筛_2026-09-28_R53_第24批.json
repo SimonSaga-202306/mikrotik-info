@@ -1,0 +1,220 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第24批（覆盖此前 fetch 失败/未覆盖的 15 行：DK/UA/IL/BG/IS/CZ/US/BE + 站点失效核验）。",
+ "records": [
+  {
+   "code": "B-001",
+   "decision": "hold-B",
+   "site": "shop.allnet.dk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：ALLNET Nordic A/S – WEBSHOP（info@allnet.dk，+45 6996 0000）自述 **«ALLNET Group expands the online service to the NORDIC Region…more than 20.000 parts in stock»**，品类 Network／Wireless／UCC（unified communication）／Video surveillance & Security／Maker／LED，现货当日发货 → ALLNET 集团北欧宽线大盘分销，网络仅其中一类，维持B。",
+   "quote": "ALLNET Nordic A/S – WEBSHOP；ALLNET Group expands the online service to the NORDIC Region – …more than 20.000 parts in stock – we give you products within the following categories: Network…Wireless…UCC - unified communication - Video surveillance & Security…Maker…LED；Everything in stock, ship´s same day…info@allnet.dk or call +45 6996 0000",
+   "sources": [
+    [
+     1,
+     "https://shop.allnet.dk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-004",
+   "decision": "hold-B",
+   "site": "shop.dvisor.dk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Dvisor IT ApS（salg@dvisor.dk，+45 69 17 07 08）为丹麦宽线 IT 转售商：Computere（Bærbar PC/Servere/POS/Tablet/UPS）／Skærme-TV／**Netværk（Switche／Routere & Firewalls／Trådløst Netværk／KVM-Dataswitch）**／Print／Telefoni／Datalagring／Software（Adobe/Microsoft/Sonicwall/Check Point…）／Komponenter／Kamera／Hjem-Fritid → 整机/办公/消费电子为主，交换机仅为网络子类之一，维持B。",
+   "quote": "Dvisor；Netværk: Kabler／KVM/Dataswitch／Trådløst Netværk／Hubs/Splitters／Routere & Firewalls／**Switche**／Netværkskort／Netværkstilbehør；Computere: Bærbar PC／POS／Servere／Tablet／UPS／Stationære PC；Datalagring／Software: Adobe／CA／Check Point／Microsoft／Sonicwall／Symantec／Trend Micro；Kamera（Overvågning）；Hjem/Fritid（Gadgets／Hi-Fi／Spil）",
+   "sources": [
+    [
+     1,
+     "https://shop.dvisor.dk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-005",
+   "decision": "hold-B",
+   "site": "nextron.dk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Nextron（挪威/丹麦）自述 **«Servers, Storage & Workstations»**、«Building your AI/storage/edge/HPC/solutions/workstations»，年交付 4,500+ 台服务器、5 年质保；伙伴为 Supermicro／ASUS／NVIDIA／AMD／Intel，客户案例为存储服务商与机器人算力 → 服务器/存储/工作站专营，无网络交换机品类，维持B。",
+   "quote": "Nextron – Servers, Storage & Workstations；Building your AI／Building your storage／Building your edge／Building your hpc／Building your solutions／Building your workstations；…over 4,500 annual server deliveries…5-year warranty；Partners & Manufacturers: Supermicro／ASUS／NVIDIA／AMD／Intel",
+   "sources": [
+    [
+     1,
+     "https://nextron.dk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-008",
+   "decision": "hold-B",
+   "site": "vip.te.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：VIP Комп'ютери（乌克兰）为**电脑维修与系统管理服务商**：服务含 Впровадження та налаштування відеоспостереження（监控）、**Прокладання та налаштування мереж（布线组网）**、Апаратне забезпечення、системний адміністратор、Обслуговування ресторанів та магазинів、Ремонт комп'ютерної техніки（整机/打印机/笔记本/显示器）、заправка картриджів、GPS 调试；**无设备商城/无交换机品类** → 本地 IT 服务，维持B。",
+   "quote": "VIP Комп'ютери — Професійний ремонт та продаж комп'ютерів；Наші послуги: Впровадження та налаштування відеоспостереження／**Прокладання та налаштування мереж**／Встановлення та підбір апаратного забезпечення／Послуги системного адміністратора／Адміністрування локальних мереж та серверів／Обслуговування ресторанів та магазинів／Ремонт комп'ютерної техніки；Компанія ВІП Комп'ютери – це команда фахівців, які професійно…виконують обслуговування комп'ютерів, локальних мереж, серверів…",
+   "sources": [
+    [
+     1,
+     "https://vip.te.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-010",
+   "decision": "promote",
+   "site": "deps.ua",
+   "level": "official-channel",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：DEPS（乌克兰）自述 **«системный интегратор и дистрибьютор телекоммуникационного оборудования в Украине»**，目录中「Телекоммуникационное оборудование」大类明确含 **«Ethernet коммутаторы»**，并有 Оборудование PON（GPON/10GEPON）、Маршрутизаторы и ethernet брандмауэры、IP MPLS、SFP/SFP+/XFP 光模块、CWDM/DWDM、Ethernet медиаконвертеры、кабель（оптоволокно/витая пара FinMark）、ИБП、грозозащита 等；新品页为 FoxGate XE2901R 10GEPON、BDCOM XGSPON/GPON Combo、FinMark 双绞线（自有/区域品牌），另有 солнечные электростанции 业务线 → 电信设备批发分销+交换机品类（ISP 客户群） → 人工定级升A。",
+   "quote": "DEPS — системный интегратор и дистрибьютор телекоммуникационного оборудования в Украине；Каталог товаров: Телекоммуникационное оборудование — **Ethernet коммутаторы／Оборудование PON／Маршрутизаторы и ethernet брандмауэры／Оборудование IP MPLS／XFP, SFP+, SFP оптические модули／Оборудование CWDM/DWDM／Ethernet медиаконвертеры**；Кабельно-проводниковая продукция（Оптоволоконный кабель／Витая пара FinMark）；Системы безопасности（IP видеонаблюдение）；Электропитание и грозозащита；Новые поступления: FoxGate XE2901R для сетей 10GEPON／XGSPON/GPON Combo от BDCOM／Поступление витой пары FinMark",
+   "sources": [
+    [
+     1,
+     "https://deps.ua/katalog.html"
+    ]
+   ]
+  },
+  {
+   "code": "B-037",
+   "decision": "pending",
+   "site": "ronitek.co.il",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网抓取失败（HTTP 500，两次）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://ronitek.co.il/"
+    ]
+   ]
+  },
+  {
+   "code": "B-038",
+   "decision": "hold-B",
+   "site": "triple-core.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Triple Core 自述 **«AUTHORIZED DISTRIBUTOR»**，**«Enterprise-grade networking equipment…WiFi, point-to-point, switching, VoIP»**，6500+ 无线方案、29+ 品牌（Ubiquiti／**Mikrotik**／RF Elements／Mimosa／Cudy／Ruijie／Cambium／D-Link／Huawei／Masterlan／MaxLink／Mercusys／TP-Link／Yealink 等）、18 年经验——专业度符合但**注册地以色列，超出 EU/北美目标区域**，按区域规则维持B（作为来源信号保留）。",
+   "quote": "Triple Core — AUTHORIZED DISTRIBUTOR；Best Solutions For Your Business；Enterprise-grade networking equipment from the world's leading manufacturers. WiFi, point-to-point, **switching**, VoIP, and communication solutions；6500+ WiFi Solutions／29+ Brand Partners／18+ Years Experience；Brand Partners: Ubiquiti／**Mikrotik**／RF Elements／Mimosa／Cudy／Ruijie／Cambium Networks／D-Link／Huawei／Masterlan／MaxLink／Mercusys／TP-Link／Workpro／Yealink／Yeastar",
+   "sources": [
+    [
+     1,
+     "https://triple-core.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-039",
+   "decision": "hold-B",
+   "site": "voicenter.co.il",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Voicenter 为**云通信/AI 语音平台**（虚拟 PBX、呼叫中心、Voicenter AI 转写、70+ CRM 集成、99.99% SLA、3000+ 组织），无网络硬件/交换机品类；且注册地以色列超出目标区域 → 维持B。",
+   "quote": "Voicenter — פתרונות תקשורת חכמים לעסקים；Voicenter AI（תמלול שיחות…）／שירותי מרכזיה וקול סנטר／99.99% התחייבות ל-SLA／3000+ ארגונים／אינטגרציות מלאות עם 70+ מערכות מידע",
+   "sources": [
+    [
+     1,
+     "https://voicenter.co.il/"
+    ]
+   ]
+  },
+  {
+   "code": "B-040",
+   "decision": "hold-B",
+   "site": "asap.bg",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：ASAP（保加利亚）自述 **«Разработка на софтуер, системна интеграция и технологично обучение»**：主业为定制软件开发、AI 解决方案、PostgreSQL 托管、Smart City、SAP 培训、NIS2 合规；产品焦点为 FortiGate NGFW（安全设备代理）→ 软件/集成/培训为主，无交换机品类，维持B。",
+   "quote": "ASAP – Разработка на софтуер, системна интеграция и технологично обучение | ASAP.BG；Разработка на софтуер／AI решения／PostgreSQL поддръжка и администриране／Интелигентни системи за модерния град／SAP Обучение／NIS 2；Продукти на фокус: FortiGate NGFW（Защитни стени…за защита на мрежовия периметър）",
+   "sources": [
+    [
+     1,
+     "https://www.asap.bg/"
+    ]
+   ]
+  },
+  {
+   "code": "B-042",
+   "decision": "hold-B",
+   "site": "computermarket.bg",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Компютър Маркет（保加利亚）为**电脑/消费电子网店**：TOP 商品为 QUANTA GH200 AI-HPC 服务器（63,600 €）、AeroCool 机箱、Samsung SSD、Razer 游戏鼠标、MONDEA 摄像头、Logitech 耳机等；无网络/交换机专营 → 宽线零售，维持B。",
+   "quote": "Компютър Маркет - онлайн магазин за техника；ТОП ПРОДУКТИ: Сървър QUANTA GH200 AI-HPC 63 600,00 €／Кутия AeroCool CS-110／SSD Samsung 990 EVO Plus 1TB 207,90 €／Уеб камера MONDEA WC1000／Геймърска мишка Razer DeathAdder／Logitech G432",
+   "sources": [
+    [
+     1,
+     "https://www.computermarket.bg/"
+    ]
+   ]
+  },
+  {
+   "code": "B-044",
+   "decision": "promote",
+   "site": "mikrotikbg.shop",
+   "level": "official-channel",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：**MikroTikBG.SHOP（MTBG OOD）** 自述 **«Сертифициран MikroTik дилър · MTCSA»**、«MikroTik MTCSA партньор за страната»：「Каталогът е свързан на живо със складовата ни система」实时库存、开票含税；商品页含 **CRS504-4XQ-IN — «Суич 4×100G QSFP28»**（4×QSFP28 100G/口、双热插拔电源、无风扇），同页 Wi-Fi 6 ax／Wi-Fi 7 hAP be／Cloud Core CCR；栏目「За фирми и интегратори」提供项目报价/对公付款/短交期 → MikroTik 专营经销+交换机在售+B2B 项目报价 → 人工定级升A。",
+   "quote": "MikroTikBG.SHOP — MikroTik оборудване за България；**Сертифициран MikroTik дилър · MTCSA**；Каталогът е свързан на живо със складовата ни система — виждаш това, което реално е тук…；Официална гаранция от MTBG OOD с обработка в България. MikroTik MTCSA партньор за страната.；**CRS504-4XQ-IN — Суич 4×100G QSFP28**（4 × QSFP28 — 100G на порт；Dual hot-swap захранване；Пасивно охлаждане）；За фирми и интегратори: Фактура с ДДС…Индивидуални оферти за проекти／Кратък срок на доставка",
+   "sources": [
+    [
+     1,
+     "https://mikrotikbg.shop/"
+    ]
+   ]
+  },
+  {
+   "code": "B-058",
+   "decision": "hold-B",
+   "site": "securenet.is",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Öruggt Net ehf（Secure Net，冰岛雷克雅未克）为**网络安全咨询公司**：Consulting（审计/风险评估）、**Networking（微隔离网络架构设计安装）**、Training（网络/安全培训）、Systems/Storage，并设 «Network Devices → /mikrotik/» 栏目（MikroTik 设备页）；**官网无设备商城/无交换机品类与价格** → 咨询服务型，维持B。",
+   "quote": "Secure Net - Secure Net Ltd.；We are Öruggt Net ehf…We help companies of all sizes to reduce their cybersecurity risk through advice, audit, and training.；Networking: Architecture, design, and installation of microsegmented networks；Training: cybersecurity and networking；Systems（/software-price-list/）／Storage（encrypted-drives-comparison）／**Network Devices（/mikrotik/）**",
+   "sources": [
+    [
+     1,
+     "https://securenet.is/"
+    ]
+   ]
+  },
+  {
+   "code": "B-192",
+   "decision": "hold-B",
+   "site": "atesystem.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：ATEsystem s.r.o.（捷克）自述 **«Jsme specialisté na automatické testování, kamerové inspekce a dodávky komponent kamerových systémů»**（机器视觉/相机检测/自动化测试），e-shop 售工业相机、镜头、光源、防护罩及配件；客户为 Škoda／Bosch／onsemi／Continental 等制造企业 → 工业视觉专营，无网络/交换机品类，维持B。",
+   "quote": "ATEsystem — Specialisté na strojové vidění；Dodáváme komplexní služby v oblasti 2D a 3D vizuální inspekce…；**E-SHOP: Prodej průmyslových kamer, světel, objektivů a dalších komponent**；Řešení: Kontrola v polovodičovém průmyslu／Kontrola nanesení teplovodivé pasty…",
+   "sources": [
+    [
+     1,
+     "https://www.atesystem.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-512",
+   "decision": "hold-B",
+   "site": "mtk-tech.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：MTK Technologies（美国 Illinois，Savoy；info@mtk-tech.com，+1 217 402 9070）自述 **«Managed IT Services – MSP in Champaign Urbana, Illinois»**，1996 年起、235+ 客户、2,500+ 设备；服务为 Managed IT／Cybersecurity／Cloud（M365/Azure）／Help Desk／**Network Management**／IT Consulting；厂商含 **MikroTik**、Ubiquiti、Cisco、Fortinet、Datto 等 → 托管 IT 服务商（设备采购非主营），维持B。",
+   "quote": "MTK Technologies … **Managed IT Services – MSP in Champaign Urbana, Illinois**；Technology that works. Support you can trust.；30+ Years in Business／235+ Active Business Clients／2,500+ Devices Managed；What We Do: Managed IT Services／Cybersecurity／Cloud Solutions／Help Desk Support／**Network Management**／IT Consulting；Technology Vendors: Microsoft／Dell／Cisco／Datto／Fortinet／SonicWall／Untangle／HP／Supermicro／ASUS／Samsung／Western Digital／Google／**MikroTik**／Ubiquiti／Nakivo",
+   "sources": [
+    [
+     1,
+     "https://mtk-tech.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-521",
+   "decision": "promote",
+   "site": "teslanetworks.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛24】官网核对：Tesla Networks（比利时，30+ 年）自述 **«Connecting people and machines for over 30 years»**、«Your gateway to professional networking equipment»；产品页设 **«Industrial Networking equipment»** 板块，明确 **«Ethernet switches (L2 & L3) — Unmanaged or managed switches, with customizable port numbers, port speeds, connections…with the necessary certification»**（可定制端口数/速率/连接方式/认证），并有 Media Converter、Industrial Serial、Industrial WAP、VPN Routers、M2M Gateways、Industrial IoT，另售 1000+ 型天线（蜂窝/WiFi/GPS/LMR/C-V2X/LoRaWAN） → 交换机产品线+工业组网专营 → 人工定级升A。",
+   "quote": "Tesla Networks — Connecting people and machines for over 30 years；Your gateway to professional networking equipment…The perfect blend of affordability and the right preformance；Custom antennas, switches, routers, repeaters, cables,…；**Industrial Networking equipment**：Tesla Networks sells all kinds of industrial networking equipment. Standard of the shelf solutions or custom build equipment when necessary.；**Ethernet switches (L2 & L3)** — Unmanaged or mangaged switches, with customizable port numbers, port speeds, connections. For all types of installations and with the necessary certification.；Media Converter／Industrial Serial／Industrial WAP／VPN Routers／M2M Gateways／Industrial IoT",
+   "sources": [
+    [
+     1,
+     "https://www.teslanetworks.com/"
+    ],
+    [
+     2,
+     "https://www.teslanetworks.com/products"
+    ]
+   ]
+  }
+ ]
+}

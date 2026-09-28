@@ -1,0 +1,360 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第23批（葡萄牙+西班牙+阿联酋/马耳他/黑山/德国行）。判据同前。",
+ "records": [
+  {
+   "code": "B-451",
+   "decision": "pending",
+   "site": "sinaltech.pt",
+   "level": "official-channel",
+   "note": "【2026-09-28 R53 B段复筛23】官网已不可用：根路径跳转 404 页（«404 Página não encontrada»）→ 本站视为异常，待重试；表内入口 +351 931 048 461 / bruno.ricardo@sinaltech…（MikroTik 认证顾问方向）。本轮维持B（未复核）。",
+   "quote": "404 Página não encontrada | Sinaltech — A página que pediu não foi encontrada（URL 落在 /pt/403.shtml）",
+   "sources": [
+    [
+     1,
+     "https://www.sinaltech.pt/"
+    ]
+   ]
+  },
+  {
+   "code": "B-452",
+   "decision": "pending",
+   "site": "engenheiros.pt",
+   "level": "official-channel",
+   "note": "【2026-09-28 R53 B段复筛23】官网抓取失败（Failed to fetch page）→ 待重试；表内入口 +351 965 869 277 / camacho@engenheiros.p…。本轮维持B（未复核）。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://www.engenheiros.pt/"
+    ]
+   ]
+  },
+  {
+   "code": "B-454",
+   "decision": "promote",
+   "site": "shop.officelan.pt",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Officelan（葡萄牙，comercial@officelan.p…，+351 232 186 575）自述 **«Distribuidor de Redes, Fibra Ótica e CCTV»**（网络/光纤/CCTV 分销商）；网络通信类共 **781 款**，一级子类含 **Switches（/collections/redes-e-comunicacoes-switches）**、Pontos de Acesso、Routers-Cabo/Wi-Fi、Controladoras de Rede、VoIP、Servidores，并可按 **PoE 预算/SFP/SFP+/QSFP/QSFP28 端口数**筛选；品牌 MikroTik(84)/Ubiquiti(186)/Huawei(105)/TP-Link(154)/Grandstream(96)/Teltonika(39)/Alta Labs(12)/Mercusys(77)，在售 MikroTik wAP ax LTE7 kit、Ubiquiti UDR 5G Max 等 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Officelan | Distribuidor de Redes, Fibra Ótica e CCTV；Catálogo（781 produtos）：Pontos de Acesso／Routers - Cabo／Routers - Wi-Fi／**Switches**／Controladoras de Rede／VoIP／Repetidores／Servidores；Marca: Alta Labs(12)／Cudy(16)／Grandstream(96)／Huawei(105)／Lanberg(9)／Mercusys(77)／**MikroTik(84)**／Sirio Antenne(1)／Teltonika(39)／TP-Link(154)／**Ubiquiti(186)**／Yealink(1)；PoE Budget／SFP／SFP+／QSFP／SFP28 端口筛选；Portes oferta em encomendas acima de 75€",
+   "sources": [
+    [
+     1,
+     "https://shop.officelan.pt/collections/redes-e-comunicacoes"
+    ]
+   ]
+  },
+  {
+   "code": "B-456",
+   "decision": "hold-B",
+   "site": "truenet.pt",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Truenet（葡萄牙，comercial@truenet.pt，+351 936 794 301）为**网络与系统集成/服务商**：服务含 Cibersegurança、Redes de Comunicação de Dados（Routing／**Switching**／Redes Wi-Fi／Unified Communications／Administração de Sistemas／Kymata DAS／InfraEstruturas）、Pearson VUE 考点、软件外包；新闻栏为 MikroTik CRS804 DDQ 视频（«Equipamentos e Produtos»）；**官网无设备商城/无交换机品类与价格** → 集成服务型，维持B。",
+   "quote": "Truenet – Redes de Comunicação de Dados：Routing／**Switching**（Com certificações em vários fabricantes temos a solução ideal para o seu negócio）／Redes Wi-Fi（Ekahau 分析）／Unified Communications／Administração de Sistemas／Solução WIFI DAS／InfraEstruturas；Novidades: Equipamentos e Produtos — Mikrotik CRS804 DDQ: affordable wire-speed 400 Gigabit switching；Centro de Testes Autorizado Pearson Vue",
+   "sources": [
+    [
+     1,
+     "https://truenet.pt/"
+    ],
+    [
+     2,
+     "https://truenet.pt/data-communication"
+    ]
+   ]
+  },
+  {
+   "code": "B-457",
+   "decision": "hold-B",
+   "site": "adrnet.site",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】域名已停放：adrnet.site 现为 **Hostinger 停放页**（«Parked Domain name on Hostinger DNS system — Start your online journey»），无任何业务内容 → 站点失效，维持B（记录在案；表内入口 services@adrnet.site）。",
+   "quote": "Parked Domain name on Hostinger DNS system — Start your online journey. Build your website today…",
+   "sources": [
+    [
+     1,
+     "https://adrnet.site/"
+    ]
+   ]
+  },
+  {
+   "code": "B-460",
+   "decision": "promote",
+   "site": "ciudadwireless.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：CiudadWireless（西班牙，info@ciudadwireless.c…，+34 91 060 97 21）为**无线/网络专营网店+分销**：一级类目 Wireless、Antenas、**Networking**、VoIP、Videovigilancia、Seguridad、Domótica、Movilidad、Informática、Recambios、Formación；制造/代理品牌墙含 **MikroTik、Ubiquiti、Cambium、TP-Link(Reyee)、Huawei eKit、Aruba、Cisco/Meraki、Netgear、Planet、Lancom、Zyxel、DrayTek、Tenda/Mercusys、Lantech** 等，且有自有品牌 **eRize**（含 «eRize - Switche…» 交换机线） → 交换机品类+网络专营分销/自有品牌运营 → 人工定级升A。",
+   "quote": "CiudadWireless - Tienda Wifi / Wireless…Networking…Mikrotik, Ubiquiti, Huawei, Grandstream, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Tenda；Categorias: Wireless／Antenas／**Networking**／VoIP y telefonía／Videovigilancia／Seguridad y Prevención／Domótica／Movilidad／Informática／Recambios／Formación；Fabricantes（节选）: Cambium／Cisco／D-Link／Huawei eKit／Lancom／Lantech／**MikroTik**／Netgear／Planet／TP-Link／**Ubiquiti**／Zyxel／**eRize - Switche..**",
+   "sources": [
+    [
+     1,
+     "https://www.ciudadwireless.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-461",
+   "decision": "promote",
+   "site": "tienda.ditecal.es",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Ditecal S.L（西班牙 Sevilla，pedidos@ditecal.es，953 004 850）自述 **«Tienda Online Proveedor telecomunicaciones»**，专营 **MikroTik（「Productos Mikrotik en stock」轮播）** + ISP/电信物料；在售 **RG-ES108GD 8 口千兆交换机 50,40 €**、**RG-ES209GC-P 8 口 PoE 千兆交换机 190,27 €**，另有天线（Cyberbajt/SRA/Itelite）、ONT（Huawei/RX8414CDW）、HSNM 热点管理与 **MikroTik 认证培训**；专业客户注册价 → 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "Ditecal S.L — Tienda Online Proveedor telecomunicaciones；轮播: **Productos Mikrotik en stock**（RB5009UG+S+IN）／HUAWEI EG8145V5 GPON ONT；**RG-ES108GD Switch Reyee sobremesa 8P 10/100/1000 Mbps - Carcasa Metal 50,40 €**／**RG-ES209GC-P Switch Reyee 8p PoE Gigabit + 1 Uplink Rj45 Gigabit 190,27 €**；HSNM Hotspot manager；Formación MikroTik: Cursos de Certificación；Obtenga Grandes Descuentos. Tarifas para Profesionales.",
+   "sources": [
+    [
+     1,
+     "https://tienda.ditecal.es/"
+    ]
+   ]
+  },
+  {
+   "code": "B-462",
+   "decision": "hold-B",
+   "site": "dmi.es",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：DMI Computer S.A.（西班牙，clientes@dmi.es）自述 **«Mayorista y distribuidor Informático»**（IT 大盘批发）；首页为 HP/Lenovo/Dell/Asus/Gigabyte/MSI/Xiaomi/Samsung/LG/Hisense/Viewsonic/Toshiba/Maxhub/Posiflex/Salicru/Zebra/Intel/AMD 等**整机/家电/外设**广告位（笔记本、Mini PC、显示器、Zona Gaming），网络仅 TP-LINK/Ubiquiti 两条品牌线 → 宽线 IT 大盘分销，维持B。",
+   "quote": "DMI Computer S.A. - Mayorista y distribuidor Informático；首页广告位: BTS26 笔记本／Viewsonic／Thermaltake／Logitech MK270；Fabricantes: HP／Lenovo／DELL／ASUS／Gigabyte／MSI／MOTOROLA／Xiaomi／Samsung／LG／Hisense／Viewsonic／**TP-LINK**／**Ubiquiti Networks**／Toshiba／MAXHUB／POSIFLEX／Salicru／Zebra／Intel／AMD；MINIPCS（Lenovo ThinkCentre／Dell Pro Micro 等）",
+   "sources": [
+    [
+     1,
+     "https://www.dmi.es/"
+    ]
+   ]
+  },
+  {
+   "code": "B-467",
+   "decision": "hold-B",
+   "site": "perpi.tech",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Perpi.tech（Enric Perpinyà Pitarch，enric@perpi.tech，+34 657 334 318）为**小型 IT/网络安全服务商**：服务含 Informática 支持、Ciberseguridad、Web、**Redes（网络规划与结构化）**、**Cursos MikroTik（MTCNA/MTCRE/MTCSE）**、All-in-one Secure 套餐与 SaaS Connection Tracker；**无设备商城/无交换机品类** → 维持B。",
+   "quote": "Perpi.tech — Protégete a ti y a tus clientes utilizando una red realmente segura…；Servicios: Informática（soporte técnico especializado a domicilio）／Seguridad informática／Páginas web／**Redes**（Planificamos y estructuramos tu red, equipos y sistemas）／**Cursos MikroTik**（Realizamos la certificación MTCNA, MTCRE y MTCSE）；Connection Tracker（SaaS 网络安全）",
+   "sources": [
+    [
+     1,
+     "https://perpi.tech/"
+    ]
+   ]
+  },
+  {
+   "code": "B-469",
+   "decision": "hold-B",
+   "site": "infortisa.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：INFORTISA（西班牙，ventas@infortisa.com，961 309 006）自述 **«Mayorista Informática. Proveedor y Distribuidor al por mayor»**；首页横幅为 Kingston/WD/Epson/TCL/Oppo/Samsung/MTK Brand/Winday 等消费电子与整机促销，注册用户价（«PRECIO DISPONIBLE PARA USUARIOS REGISTRADOS»），品类含显示器/交互屏/PC/SSD 等；网络仅 TP-Link、D-Link 等少数品牌线（推荐位见 TP-Link IES206G 工业交换机） → 宽线 IT 大盘分销，维持B。",
+   "quote": "Mayorista Informática. Proveedor y Distribuidor al por mayor | INFORTISA；Banners: Kingston 促销周／Mini PC i5 IGGUAL／Salicru 网络研讨会／Omada Fusion TP-Link 研讨会／WD Purple／Epson EcoTank／TCL／OPPO／Samsung 990 PRO；Recomendados: 三星显示器／iggual 交互屏／MSI Pro AP222T／MSI Roamii Mesh／**TP-Link IES206G Switch Industrial 4xG 1xSFP**（STOCK 2）；PRECIO DISPONIBLE PARA USUARIOS REGISTRADOS",
+   "sources": [
+    [
+     1,
+     "https://www.infortisa.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-470",
+   "decision": "promote",
+   "site": "instantbyte.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Instant Byte S.L.（西班牙，comercial@instantbyte…，+34 91 084 10 11）为**无线/网络专营批发商（Mayorista Wifi…）**：一级类目 Wireless、Antenas、**Networking**、VoIP、Videovigilancia、Seguridad、Domótica、Informática、Recambios、Formación；品牌墙含 MikroTik/Ubiquiti/Cambium/TP-Link(Reyee)/Huawei eKit/Aruba/Cisco/Meraki/Netgear/Planet/Lancom/Lantech/**,«eRize - Switche..»** 等；页脚设 **«Alta de distribuidores»（经销商注册）** → 交换机品类+网络专营批发 → 人工定级升A。（注：与 B-460 CiudadWireless 栏目结构与品牌墙高度相似，疑同源/同平台，未做合并，仅记录线索。）",
+   "quote": "Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas…Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Tenda；Categorias: Wireless／Antenas／**Networking**／VoIP y telefonía／Videovigilancia／Domótica／Informática；Fabricantes（节选）: Cambium／Cisco／Huawei eKit／Lantech／**MikroTik**／Planet／TP-Link／**Ubiquiti**／Reyee／**eRize - Switche..**；Información: **Alta de distribuidores**／Contactenos",
+   "sources": [
+    [
+     1,
+     "https://www.instantbyte.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-471",
+   "decision": "pending",
+   "site": "itconsultores.es",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网抓取失败（HTTP 500）→ 待重试；表内入口 +34 966 830 220 / jorge.agullo@itconsult…。本轮维持B（未复核）。",
+   "quote": "（抓取失败 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://itconsultores.es/"
+    ]
+   ]
+  },
+  {
+   "code": "B-474",
+   "decision": "hold-B",
+   "site": "dualcomcb.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】域名已停放：dualcomcb.com 现为 **IONOS 默认页**（«Este dominio ya ha sido registrado»，仅域名/建站广告），无业务内容 → 站点失效，维持B（记录在案；表内入口 josecat@dualcomcb.com）。",
+   "quote": "Este dominio ya ha sido registrado — Este dominio ya se encuentra registrado con IONOS y ahora es accesible online.（仅 IONOS 建站/域名广告）",
+   "sources": [
+    [
+     1,
+     "https://dualcomcb.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-476",
+   "decision": "promote",
+   "site": "es.laufquen.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：LAUFQUEN（es.laufquen.com，fernando.novoa@laufque…，+34 91 599 8115）为 **Ubiquiti/MikroTik/GLC 光纤** 专营分销 + 自营商城；商城在售 **UniFi Pro 48 PoE（USW-PRO-48-POE）935,38 €**、**Pro 24 PoE 594,86 €**、**Standard 16 PoE 257,53 €**、**USW-AGGREGATION**、**MikroTik CRS326-24G-2S+RM 152,43 €**、hAP ax lite LTE6 kit；商城顶部设 **「¿Sos ISP, Integrador o Revendedor? …registrate como profesional」专业客户/经销商注册** → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Tienda Online | Laufquen；**¿Sos ISP, Integrador o Revendedor?** Completa el siguiente formulario para registrarte como profesional y accedé a beneficios exclusivos；Shop: **[USW-PRO-48-POE] Pro 48 POE 935.38 €**／[USW-PRO-24-POE] Pro 24 PoE 594.86 €／[USW-16-POE] Standard 16 PoE 257.53 €／[USW-AGGREGATION] Aggregation／**[CRS326-24G-2S+RM] Cloud Router Switch 152.43 €**／[NBE-5AC-GEN2] NanoBeam；Home: Meet Ubiquiti／Discover MikroTik／GLC（Leading Fiber Optic Technology）",
+   "sources": [
+    [
+     1,
+     "https://es.laufquen.com/en/shop"
+    ]
+   ]
+  },
+  {
+   "code": "B-535",
+   "decision": "promote",
+   "site": "leadernet.es",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Grupo Leadernet（西班牙，1992 年起；info@leadernet.es）自述 **«grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y seguridad electrónica»**（工业通信网络与电子安防的供应/安装/调试/维护），主业为风电/光伏/光热电站；明确 **«Suministro de electrónica de red: switches, routers, conversores de medio»**、«Suministro e instalación de la red de comunicaciones: switches; routers; fibra óptica MM, SM, HCS; bus serie 485; Profibus y Profinet»，并提供 Cisco 咨询支持；8 国设点、100+ 人员、1000+ 项目 → 工业网络专营集成/供货（含交换机） → 人工定级升A（注：项目型大盘，决策链偏长）。",
+   "quote": "Leadernet — Always innovating since 1992；Somos el Grupo Leadernet. Un grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y seguridad electrónica…；REDES DE COMUNICACIÓN LAN：**Suministro de electrónica de red: switches, routers, conversores de medio**；Suministro e instalación de la red de comunicaciones: **switches**; routers; fibra óptica MM, SM, HCS; bus serie 485; Profibus y Profinet y conversores de medios；Servicio de Consultoría y soporte técnico de Cisco；50 países／100 profesionales／8 países con sede",
+   "sources": [
+    [
+     1,
+     "https://www.leadernet.es/"
+    ]
+   ]
+  },
+  {
+   "code": "B-480",
+   "decision": "hold-B",
+   "site": "stratonetworks.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Strato Networks（西班牙 Las Rozas，ricardo@stratonetworks…，+34 657 478 596）自述 **«Diseño y Gestión de Sistemas IT que funcionan»**：服务为 Ingeniería de red、Ing. de sistemas IT、Blue team 安全、**Formación técnica（redes, virtualización, seguridad, Mikrotik）**、Proxmox 授权经销、CPD/监控/备份；**官网无设备商城/无交换机品类** → IT 系统集成与培训，维持B。",
+   "quote": "Strato Networks — Diseño y Gestión de Sistemas IT que funcionan；Servicios: Ing. de sistemas IT／**Ingeniería de red**（Confíenos el diseño de su red）／Blue team／**Formación técnica**（Cualificacion de tecnicos en redes, virtualizacion, seguridad, **Mikrotik**）／Servicios AAPP；Próximo curso de Proxmox VE；Logo Proxmox reseller；info(ARROBA)stratonetworks(punto)com",
+   "sources": [
+    [
+     1,
+     "https://stratonetworks.com/portada/index.php"
+    ]
+   ]
+  },
+  {
+   "code": "B-481",
+   "decision": "hold-B",
+   "site": "cursos-mikrotik.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Cursos Mikrotik Valencia（运营方 **Nostravant**，info@cursos-mikrotik.com，96 434 45 90）自述 **«Somos pioneros en España trabajando con Mikrotik desde 2004…Expertos en hardware y software de Mikrotik»**，但页面主体为**培训业务**（MTCNA 400 €／MTCRE 350 €／MTCWE 350 € 等 7 项认证课程、Trainer 团队、报名表单）；**无设备商城/无交换机品类** → 培训机构，维持B。",
+   "quote": "Cursos Mikrotik Valencia - Añade valor a tu perfil profesional；Nostravant es una compañía especializada en tecnologías de telecomunicaciones. Somos pioneros en España trabajando con Mikrotik desde 2004 y parte de su personal está certificado para impartir los cursos Mikrotik. Expertos en hardware y software de Mikrotik.；PRECIOS: MTCNA 400€／MTCRE 350€／MTCWE 350€；Formamos a Ingenieros y Técnicos de Redes…así como a Clientes WISP e ISP",
+   "sources": [
+    [
+     1,
+     "https://cursos-mikrotik.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-482",
+   "decision": "hold-B",
+   "site": "todotelecom.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Todo Telecom（西班牙，webinfo@todotelecom.com，965 784 463）自述 **«Material de Telecomunicaciones: CCTV, WiFi, Redes…»**，首页轮播为 Ksenia 安防/自动化、EZVIZ 4K 可视对讲、Grandstream 门禁、VIGI by TP-Link 太阳能 CCTV、**Shelly 智能家居**，以及 **«OMADA by TP-Link SWITCHES INDUSTRIALES»** 专推（室外/工业/CCTV/光伏/关键设施）与 B2B 注册（registro?idxb2b=1）；**主体为安防/智能家居/电信材料宽线**，交换机为其中一类 → 维持B。",
+   "quote": "Material de Telecomunicaciones: CCTV, WiFi, Redes… | Todo Telecom；轮播: Ksenia 安防与自动化（西班牙直供）／EZVIZ 4K 可视对讲／Grandstream GDS3720 门禁／**OMADA by TP-Link SWITCHES INDUSTRIALES — Infraestructura de red profesional para exterior, industria, CCTV, parques solares e instalaciones críticas**／VIGI by TP-Link 太阳能 CCTV／Shelly 智能家居；B2B 注册: registro?idxb2b=1",
+   "sources": [
+    [
+     1,
+     "https://www.todotelecom.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-485",
+   "decision": "hold-B",
+   "site": "ict-international.ae",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：ICT International L.L.C.（阿联酋，17 年）自述 **«IT Consultant & IT Solutions»**，设 **DISTRIBUTION** 板块；品牌墙含 **ORing**、BIVOCOM、Cisco、Synology、Fortinet、HPE、Dell、Lenovo、VMware、Microsoft、Crestron、Acronis 等；方案为 Networking／Structured Cabling／Wireless／Telephony／Cloud & IoT／Power Backup／Video Surveillance／IT Support／Cyber Security／Data Centers／Industrial IoT 共 12 类，产品杂含数据中心/安防/电话/无源网络 → IT 集成/方案商（网络为其一），维持B。",
+   "quote": "ICT International * IT Consultant & IT Solutions；Unlocking Tomorrow’s Technology Today；DISTRIBUTION；品牌: **ORing**／BIVOCOM／Cisco／Synology／HPE／Fortinet／Dell EMC／Lenovo／VMware／Microsoft／Crestron／Acronis／Barracuda／DNSFilter；Our Solutions: Audio & Video／**Networking**／Structured Cabling／Wireless／Telephony／Cloud & IoT／Power Backup／Video Surveillance／IT Support／Cyber Security／Data Centers／Industrial IoT；Wide range of Data Center, Security, Telephony & Passive Network products.",
+   "sources": [
+    [
+     1,
+     "https://ict-international.ae/"
+    ]
+   ]
+  },
+  {
+   "code": "B-487",
+   "decision": "hold-B",
+   "site": "accreda.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Accreda（马耳他/英国）自述 **«ICT Consultancy, ERP Systems and Web portal solutions»**：主业为 Microsoft Dynamics NAV/365 Business Central ERP 实施、Web 门户开发、ICT 技术咨询与支持计划；**无网络硬件/交换机品类** → 维持B。",
+   "quote": "Accreda - ERP WEB ICT - Malta | UK；Core Business Solutions Now! **ICT Consultancy, ERP Systems and Web portal solutions**；Services: ERP（Microsoft Dynamics NAV / 365 Business Central）／Web-based Solutions／Technical Consultancy（PRINCE2/ISO/ITIL）；Buy your support plan today",
+   "sources": [
+    [
+     1,
+     "https://accreda.eu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-489",
+   "decision": "hold-B",
+   "site": "wstsystems.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：WST Systems Ltd（马耳他，1998 年起）自述 **«ICT Consultancy and Services»**、«Your Reliable IT Support Partner Since 1998»；服务为 IT consultancy／Disaster recovery／Network audits／Technical support（24/7）／Network security；伙伴与供应商栏含 **Cambium／MikroTik／UniFi**、3CX、Cisco、Dell、HP、Lenovo、Microsoft、Fujitsu、Posiflex；**官网无设备商城/无交换机品类** → IT 支持/咨询，维持B。",
+   "quote": "WST Systems Ltd – ICT Consultancy and Services；Your Reliable IT Support Partner Since 1998；Services: IT consultancy／Disaster recovery／**Network audits**／Technical support（24/7）／**Network security**；Our Partners and Suppliers: **cambium**／**Mikrotik**／3CX／**UniFi**／Odoo／Posiflex／Lenovo／HP／Microsoft／Fujitsu／Cisco／Dell／SOS Data Recovery",
+   "sources": [
+    [
+     1,
+     "https://wstsystems.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-490",
+   "decision": "hold-B",
+   "site": "core-bridge.me",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网现状：core-bridge.me 仅显示 **«Under consruction until 3Q2026...»**（在建）→ 站点无业务内容，维持B（记录在案）。",
+   "quote": "Under consruction until 3Q2026...",
+   "sources": [
+    [
+     1,
+     "https://core-bridge.me/"
+    ]
+   ]
+  },
+  {
+   "code": "B-491",
+   "decision": "hold-B",
+   "site": "netmont.me",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Netmont DOO（黑山）自述 **«licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore»**（黑山持牌无线宽带 ISP），售卖 Net16/24/36 与 Biznis/Premium 及季票套餐（含 Wifi 路由器），公示年度服务质量报表；**无设备商城/无交换机品类** → 运营商自用，维持B。",
+   "quote": "Netmont - bezicni internet；Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore.；Paketi: Net16 16€／Net24 24€／Net36 36€／Premium/Net52B 60€／Profesionalni/Net150B 120€／Biznis/Net180B 150€；Kvalitet servisa-usluga pristupa internetu（年度/季度 xlsx 报表）",
+   "sources": [
+    [
+     1,
+     "https://netmont.me/"
+    ]
+   ]
+  },
+  {
+   "code": "B-492",
+   "decision": "promote",
+   "site": "ridmont.me",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：RIDMONT Communications（黑山）为网络设备网店 + **B2B 门户**（«B2B portal, popusti za projekte / Izvodjenje instalacija i održavanje»，满 300€ 免运费）：首页轮播含 **Teltonika TSW200 工业交换机** 与 **Extralink Ares 16x Gigabit PoE PoE 交换机**，在售 Ubiquiti UK-Ultra 98.54 €／U7-PRO 251.53 €、**MikroTik L009UiGS-RM 129.68 €**、Extralink 机柜/Cat.6 跳线（**自有/区域品牌 Extralink**）等 → 交换机产品+网络专营分销（B2B 项目价） → 人工定级升A。",
+   "quote": "RIDMONT Communications；Besplatna dostava（Za narudžbe preko 300€）／Garantujemo kvalitet（Provjereni brendovi）／**B2B portal, popusti za projekte**；Slider: **Teltonika TSW200**（/artikli/teltonika-tsw200）／**Extralink Switch Crna Gora — Extralink Ares 16x Gigabit PoE PoE Switch**（/artikli/extralink-ares-16x-gigabit-poe-poe-switch）／Teltonika RUT955；Novo: MikroTik L009UiGS-RM 129.68 €／Ubiquiti U7-PRO 251.53 €／Ubiquiti UK-Ultra 98.54 €；ExtraLink Cat.6 FTP 跳线／Extralink 9U 机柜",
+   "sources": [
+    [
+     1,
+     "https://ridmont.me/"
+    ]
+   ]
+  },
+  {
+   "code": "B-510",
+   "decision": "hold-B",
+   "site": "janzen-group.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛23】官网核对：Janzen-Group（德国汉堡，info@janzen-group.com，+49 40 696 022 11）自述服务为 Sicherheitstechnik（报警/视频/催泪与雾炮）、Medientechnik（会议/培训）、**KNX Programmierung**、**Netzwerktechnik**（布线/支持/网络结构/WLAN）、Wartungsverträge、**Mikrotik Support**；品牌墙为 TURM、jabraton、**MikroTik**、KNX、FURIE、Ajax → 安防/媒体/KNX 集成为主，MikroTik 支持为辅，**无设备商城/无交换机品类** → 维持B。",
+   "quote": "Janzen-Group Hamburg | KNX | Medien-/ & Sicherheitstechnik；Unsere Leistungen: Sicherheitstechnik／Medientechnik／KNX Programmierung／**Netzwerktechnik**（Verlegen von Netzwerkleitungen, Support, Netzwerkstrukturen, WLAN-Ausbau）／Wartungsverträge／**Mikrotik Support**（Beratung und Unterstützung per Telefon, Remote-Zugriff oder direkt vor Ort）；Marken: TURM／jabraton／MikroTik／KNX／FURIE／Ajax",
+   "sources": [
+    [
+     1,
+     "https://www.janzen-group.com/"
+    ]
+   ]
+  }
+ ]
+}

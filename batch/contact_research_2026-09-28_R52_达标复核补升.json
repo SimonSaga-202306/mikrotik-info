@@ -1,0 +1,40 @@
+{
+ "date": "2026-09-28",
+ "scope": "R52：用户指示「31条 搞吧 够升A就升 先不管其他的」——对 R50/R51 后剩余的 22 条重复提示行逐条复核对 A 标准：1 条（C-011 Kerberos，持 MTCEWE+邮箱，原 C 判定系模板词误伤）补升 A-431；其余 21 条维持原级并记录原因。仅改 C-011 一行六字段；物理顺序不动、原 C 号空置；重复提示保留、不合并。",
+ "records": [
+  {
+   "code": "A-431",
+   "before_code": "C-011",
+   "name": "Tomislav Vrebac / Kerberos",
+   "country": "克罗地亚",
+   "city": "Kraljevica",
+   "email": "mikrotik@kerberos.hr",
+   "site": "kerberos.hr",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R52 达标复核补升】31 条重复提示行逐条复核：本条独立满足 A 标准（★★★+MTCEWE+邮箱）→ 人工定级升 A-431。原 C 级「规模过大」依据为模板词误伤，已复核更正。重复提示保留、不合并。未发送邮件、未提交表单。 证据：[1](https://mikrotik.com/consultants?region=Croatia)；批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#A-431",
+   "quote": "Tomislav Vrebac / Kerberos；mikrotik@kerberos.hr；MTCEWE",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Croatia"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#C-011"
+    ]
+   ],
+   "fields_supported": [
+    "评级（C→A 补升）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注",
+    "C级细分（清空）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核；官方名录入口在线，个人条目沿用既有记录",
+   "quote_convention": "quote 为既有记录字段摘录。",
+   "decision": "promote"
+  }
+ ]
+}

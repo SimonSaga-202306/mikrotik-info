@@ -1,0 +1,726 @@
+{
+ "date": "2026-09-27",
+ "scope": "A340–A359顺号联络研究：官网/官方名录与登记/第三方目录/本地旧线索；不改等级、编号、顺序或策略输出",
+ "records": [
+  {
+   "code": "A-340",
+   "name": "Net Engineering SpA",
+   "country": "意大利",
+   "city": "Sesto S.Giovanni (MI)",
+   "email": "mail@netengineering.it",
+   "site": "https://netengineering.it",
+   "level": "official-company",
+   "note": "Allied Telesis伙伴页列Net Engineering SpA（Via G. Di Vittorio 427, Sesto S.Giovanni 20099；+39 02 2412541），其“Visit Website”指向netengineering.it；该站联系页给mail@netengineering.it、+39 0522 380038、PEC netengineering@legalmail.it、技术支持号码800 855048，自述IT咨询/基础设施/网络安全/软件开发，办公地Milano（法定，Via Cicerone 4）/Reggio Emilia/Roma；站点主体写作“Net engineering Srl”（P.IVA IT10286420152、REA 1361422），与AT名录的“SpA”及Sesto S.Giovanni地址不完全一致——按AT官方链接关联，不擅改CSV城市字段。同名提示：Padova的NET Engineering S.r.l.（net-e.it，info@netspa.com/commerciale@netspa.com）为工程与建筑公司、另一主体，不合并。",
+   "quote": "AT伙伴页：Net Engineering SpA / Via G. Di Vittorio 427 / Sesto S.Giovanni 20099 Italy / +39 02 2412541 / Visit Website → netengineering.it / 官网联系页：Mail mail@netengineering.it；Sede legale: Via Cicerone, 4 – 20162 Milano (Mi)；Sede Reggio Emilia Tel. 0522 380038；PEC netengineering@legalmail.it；Numero verde per l’assistenza tecnica Net Engineering: 800 855048 / 同名主体：NET Engineering S.r.l.（Padova）info@netspa.com、commerciale@netspa.com",
+   "sources": [
+    [
+     1,
+     "https://www.alliedtelesis.com/it/it/net-engineering-spa"
+    ],
+    [
+     2,
+     "https://netengineering.it/en/contact-us/"
+    ],
+    [
+     3,
+     "https://www.net-e.it/it/contatti/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-340原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-341",
+   "name": "Securcrea Snc",
+   "country": "意大利",
+   "city": "Follonica (GR)",
+   "email": "info@securcrea.com",
+   "site": "https://www.securcrea.com",
+   "level": "official-company",
+   "note": "官网支持/联系页（securcrea.com/supporto.html 与 assistenza.securcrea.com/contatti.html）给info@securcrea.com、+39 0586 1713210（Toscana）、+39 0171 1723180（Piemonte）与Via Bicocchi 12, 58022 Follonica (GR)；自述Partner Kerio十年以上、IT安全/邮件/防火墙/man-down服务；页脚工商信息：Securcrea di Cianchi Michele & C. s.a.s.，P.IVA 01564970539，SDI M5UXCR1。第三方工商页给出同地址与电话05861713210、ATECO 62.02。本行AT伙伴名录（Follonica, GR；Resell）与此一致。",
+   "quote": "联系页：info@securcrea.com / +39 0586. 1713210 / +39 0171. 1723180 / Partner Kerio da oltre 10 anni... ©2022 Securcrea di Cianchi Michele & C. s.a.s. -- Via Bicocchi, 12 - 58022 - Follonica (GR) -- P.IVA 01564970539 / 支持页：info@securcrea.com；Zona Toscana +39 0586 1713210；Zona Piemonte +39 0171 1723180 / 工商页：VIA EMILIO BICOCCHI 12, 58022, Follonica, Grosseto；ATECO 62.02；电话05861713210",
+   "sources": [
+    [
+     1,
+     "https://assistenza.securcrea.com/contatti.html"
+    ],
+    [
+     2,
+     "http://www.securcrea.com/supporto.html"
+    ],
+    [
+     3,
+     "https://www.informazione-aziende.it/Azienda_SECURCREA-DI-CIANCHI-MICHELE-C-SAS"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-341原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-342",
+   "name": "T.net S.p.A",
+   "country": "意大利",
+   "city": "Milano",
+   "email": "info@tnet.it",
+   "site": "https://www.tnet.it",
+   "level": "official-company",
+   "note": "官网“Legal Information”给T.net S.p.A.：注册地Via Roberto Lepetit 8/10 – 20124 Milano，电话+39 02 97084111，邮箱info@tnet.it，PEC tnetitalia@cert.tnet.it，公司登记号03979950874；联系汇总页另给support@/press@/account@tnet.it与免费号800 90 8000、数据中心Via Caldera 21/C；自述DC与网络基础设施设计建设、工程与IoT。本行为AT伙伴名录Milano主体。",
+   "quote": "Legal Information：T.net S.p.A. Registered office: Via Roberto Lepetit, 8/10 – 20124 Milano Phone.: +39 02 97 084 111 ... E-mail: info@tnet.it ... Registered at the Milan Chamber of Commerce ... 03979950874 / Contacts：800 90 8000；General Info info@tnet.it；Technical Info support@tnet.it；Press Office press@tnet.it；Administrative Info account@tnet.it；Certified Email tnetitalia@cert.tnet.it；Data Center Milan Via Caldera, 21/C",
+   "sources": [
+    [
+     1,
+     "https://www.tnet.it/en/legal-information/"
+    ],
+    [
+     2,
+     "https://www.tnet.it/en/contacts-summary/"
+    ],
+    [
+     3,
+     "https://www.tnet.it/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-342原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-343",
+   "name": "Techno Center S.p.A.",
+   "country": "意大利",
+   "city": "Roma",
+   "email": "info@technocenter.it",
+   "site": "https://www.technocenter.it",
+   "level": "official-search-only",
+   "note": "官网联系页现仅表单+电话06.62279692/PEC technocenter@legalmail.it（P.IVA 09319261005；法人地址Via Gino Funaioli 54-56, 00151 Roma；支持线+39 06 8879 6677），正文未列邮箱；info@technocenter.it见于公司自设《Company profile 2019-2020》PDF末页与Kompass档案——按官方搜索索引/公司自设材料记录，并在备注标注官网未复现。System Integrator（Physical/Cyber Security、Voice&Data、Digital Solutions），Mitel Platinum Partner；2026-07新闻UCC部门并入Syntax生态（仅背景，不影响联系方式）。",
+   "quote": "官网联系页：TECHNO CENTER S.p.A. Tel./Fax: 06.62279692 - 06.62277066 P.IVA: 09319261005 P.e.c.: technocenter@legalmail.it / 公司简介PDF：TECHNO CENTER SPA ... HQ: Via Gino Funaioli, 54/56 - 00151 –Roma (RM) www.technocenter.it ... Tel./Fax: 06.62279692 – 06.62277066 P.IVA: 09319261005 CCIA: RM nr. ... info@technocenter.it / Kompass：TECHNO CENTER S.P.A. ... email info@technocenter.it",
+   "sources": [
+    [
+     1,
+     "https://www.technocenter.it/contatti/"
+    ],
+    [
+     2,
+     "https://www.slideshare.net/MassimoDePersio/ita-company-profile-2019-2020"
+    ],
+    [
+     3,
+     "https://it.kompass.com/c/techno-center-s-p-a/it5769611/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-343原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-344",
+   "name": "World Technology di Luigi Boi",
+   "country": "意大利",
+   "city": "Cagliari",
+   "email": "worldtechnology@tiscali.it",
+   "site": "",
+   "level": "public-register",
+   "note": "无官网。2024年市镇公开招标文件（Comune di Palau采购透明度附件）供应方名单同列worldtechnology@tiscali.it与worldtechnology@pec.it；工商/商录显示主体为World Technology di Luigi Boi（Impresa Individuale，P.IVA 03196380921，Via Montenero 15, 09122 Cagliari，2008-09-04注册，ATECO 47401），PEC worldtechnology@pec.it；电话070 2346452（黄页与MePA供货商卡）。邮箱来自公开招投标文件（非官网正文），仅为该主体公开登记渠道，触达前需人工复核。",
+   "quote": "招标文件供应方列表：worldtechnology@tiscali.it;worldtechnology@pec.it / 工商档案：WORLD TECHNOLOGY DI LUIGI BOI - PEC worldtechnology@pec.it - Dipendenti 1 - IMPRESA INDIVIDUALE - Data Iscrizione 04/09/2008 - Commercio al dettaglio di computer, unita' periferiche e software / 黄页：World Technology di Luigi Boi / Via Montenero, 15 - 09122 Cagliari (CA) / Telefono 070 2346452",
+   "sources": [
+    [
+     1,
+     "https://trasparenza.palau.it/AttiVisualizzatore/download/allegato/2810179?fId=2810188"
+    ],
+    [
+     2,
+     "https://www.ufficiocamerale.it/7178/world-technology-di-luigi-boi"
+    ],
+    [
+     3,
+     "https://www.paginegialle.it/cagliari-ca/informatica/world-technology-luigi-boi"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-344原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-345",
+   "name": "Avelution",
+   "country": "荷兰",
+   "city": "Veghel",
+   "email": "info@avelution.nl",
+   "site": "https://avelution.nl",
+   "level": "official-company",
+   "note": "官网联系页给info@avelution.nl、+31 85 90 23 14 0、Nobelweg 12, 5482 NN（官网写作Schijndel，5482 NN邮编对应Schijndel；AT伙伴页写作Veghel）——CSV城市字段保留Veghel，差异仅记备注。自述OT网络架构/MSI（数字化认证、网络安全、网络架构与连通性、WiredScore & SmartScore），AT伙伴名单（Resell）与本行一致。",
+   "quote": "官网联系页：Address: Nobelweg 12 5482 NN Schijndel / Tel: +31 85 90 23 14 0 / E-mail: info@avelution.nl / AT伙伴页：Avelution / Nobelweg 12 / Veghel 5482 NN NL / +31 (0) 85 902 3140",
+   "sources": [
+    [
+     1,
+     "https://avelution.nl/contact/"
+    ],
+    [
+     2,
+     "https://avelution.nl/"
+    ],
+    [
+     3,
+     "https://www.alliedtelesis.com/nl/en/avelution"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-345原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-346",
+   "name": "Kappa Data Nederland",
+   "country": "荷兰",
+   "city": "Utrecht",
+   "email": "info@kappadata.nl",
+   "site": "https://www.kappadata.nl",
+   "level": "official-company",
+   "note": "官网联系页明确“send an e-mail to info@kappadata.nl”，并给Atoomweg 63, 3542 AA Utrecht与+31 88 527 7200；集团页同列Kappa Data Nederland（Atoomweg 63, 3542 AA Utrecht NL）与info@kappadata.nl；支持页按厂商列Allied Telesis直连支持。自述面向reseller的IT安全/基础设施/IoT分销。本行为AT伙伴名录Utrecht主体。",
+   "quote": "Kappa Data contact：If you have questions or suggestions about Kappa Data’s products and services, don't hesitate to contact us via our contact page, or send an e-mail to info@kappadata.nl / Kappa Data The Netherlands / Atoomweg 63 3542 AA Utrecht, NL / +31885277200 / 集团页：Kappa Data Nederland Atoomweg 63, 3542 AA Utrecht NL info@kappadata.nl +31 70 764 06 00 / 支持页：You can contact Kappa Data at ...；Allied Telesis Direct phone and e-mail support at Allied Telesis",
+   "sources": [
+    [
+     1,
+     "https://www.kappadata.nl/en/contact/"
+    ],
+    [
+     2,
+     "https://www.kappadata.be/kappa-data-holding/"
+    ],
+    [
+     3,
+     "https://www.kappadata.nl/en/support/support-request/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-346原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-347",
+   "name": "Kappa Data Belgium",
+   "country": "比利时",
+   "city": "De Pinte",
+   "email": "info@kappadata.be",
+   "site": "https://www.kappadata.be",
+   "level": "official-company",
+   "note": "集团页列Kappa Data Holding BVBA与Kappa Data BVBA（Grote Steenweg 18, 9840 De Pinte；info@kappadata.be；+32 (0)9 243 42 10；BE0667661886 / BE0463715428）；NIS2子站联系页同邮箱电话。主体为Kappa Data集团比利时总部（AT伙伴名录De Pinte），与荷兰Kappa Data Nederland为集团内不同登记实体，各自邮箱不混用。",
+   "quote": "Kappa Data Holding BVBA / Grote Steenweg 18, 9840 De Pinte / info@kappadata.be / +32 (0)9 243 42 10 / BE0667661886 / Kappa Data BVBA ... BE0463715428 / NIS2：Kappa Data HQ Grote Steenweg 18 9840 De Pinte Phone: +3292434210 Mail: ...",
+   "sources": [
+    [
+     1,
+     "https://www.kappadata.be/kappa-data-holding/"
+    ],
+    [
+     2,
+     "https://nis2.kappadata.be/contact/"
+    ],
+    [
+     3,
+     "https://www.runzero.com/partner-directory/kappa-data/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-347原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-348",
+   "name": "nLogic",
+   "country": "挪威",
+   "city": "Oslo",
+   "email": "post@nlogic.no",
+   "site": "https://www.nlogic.no",
+   "level": "official-company",
+   "note": "官网联系页给一般邮箱post@nlogic.no、销售salg@nlogic.no、支持support@nlogic.no、发票faktura@nlogic.no，电话+47 40 61 88 88，地址Karenslyst Allé 20, 0278 Oslo，Org.nr. 821 678 102；自述网络/安全/数据中心咨询、架构与实施。本行AT伙伴名录Oslo主体即此。",
+   "quote": "Kontakt oss：nLogic AS Karenslyst alle 20 ... Kontaktinformasjon generelle henvendelser +47 40 61 88 88 post@nlogic.no / salg@nlogic.no / support@nlogic.no / Org.nr.: 821 678 102",
+   "sources": [
+    [
+     1,
+     "https://www.nlogic.no/kontakt-oss"
+    ],
+    [
+     2,
+     "https://www.nlogic.no/"
+    ],
+    [
+     3,
+     "https://www.facebook.com/nLogicAS/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-348原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块；伙伴等级Resell"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-349",
+   "name": "C2F Copper2Fiber",
+   "country": "葡萄牙",
+   "city": "Barcarena",
+   "email": "geral@c2f.pt",
+   "site": "https://www.c2f.pt",
+   "level": "official-company",
+   "note": "官网联系页给geral@c2f.pt、214 373 217（固定网）与R. Comendador Álvaro Vilela 19 Tercena, 2730-051 Barcarena；自述2013年成立、仅面向专业市场的电信解决方案分销商（Copper2Fiber – Soluções de Conectividade, Lda.），代理Multimedia Connect等铜缆/光纤产品。本行AT伙伴名录Barcarena主体即此，未见CRM/订单专用邮箱。",
+   "quote": "Contactos：R. Comendador Álvaro Vilela / 19 Tercena / 2730-051 BARCARENA / Telefone 214373217 / Email geral@c2f.pt / 首页：Criada em 2013 e vocacionada exclusivamente para o mercado profissional, a Copper2Fiber – Soluções de Conectividade, Lda.",
+   "sources": [
+    [
+     1,
+     "https://www.c2f.pt/contactos"
+    ],
+    [
+     2,
+     "https://www.c2f.pt/"
+    ],
+    [
+     3,
+     "https://www.c2f.pt/servicos"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-349原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-350",
+   "name": "Landatel",
+   "country": "西班牙",
+   "city": "Madrid",
+   "email": "info@landatel.com",
+   "site": "https://www.landatel.com",
+   "level": "official-company",
+   "note": "官网条款/客服页给info@landatel.com、+34 911 461 700、注册地Carretera de La Coruña km 17,800 28231 Las Rozas (Madrid)、CIF B-83170944；分销商政策页给B2B渠道专用comercial@landatel.com，仓库C/ Río Odiel 14, 28906 Getafe。重要：第三方工商档案标题与官网退货/保证页均出现“en liquidación / Liquidation”字样（公司处于清算状态），触达与信用风险须先人工核实。本条为Netonix授权行（Vitesse芯片），2026-09-23用户裁决保留且禁用“同芯片”话术。",
+   "quote": "Terms：LANDATEL COMUNICACIONES, S.L., with registered office at Carretera de La Coruña, km. 17,800 28231 Las Rozas (Spain), C.I.F B-83170944 ... E-mail address: info@landatel.com / Resellers：envíe un e-mail a comercial[at]landatel.com o llámenos (+34-911461700)；ALMACEN: C/ Río Odiel, 14 28906 Getafe / Garantías：(Landatel Liquidation) / 工商页：Landatel Comunicaciones Sl (en Liquidacion) ... Teléfono: 911461700 ... Email: info@landatel.com",
+   "sources": [
+    [
+     1,
+     "https://www.landatel.com/en_US/terminos-y-condiciones"
+    ],
+    [
+     2,
+     "https://www.landashop.com/resellers?___store=default"
+    ],
+    [
+     3,
+     "https://empresite.eleconomista.es/LANDATEL-COMUNICACIONES.html"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-350为Netonix授权行（2026-09-23用户裁决保留、禁用同芯片话术）；原入口+34-911-461-700、网站空"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-351",
+   "name": "meconet",
+   "country": "德国",
+   "city": "",
+   "email": "info@meconet.de",
+   "site": "https://www.meconet.de",
+   "level": "official-company",
+   "note": "官网服务页与商店页均为meconet e.K.：Seelbacher Weg 7, 57072 Siegen，Tel. +49 (0)271 703087 0，info@meconet.de；商店在售Netonix（WS-6-MINI等）与多厂商网络/无线产品，服务含咨询与培训。AT/Netonix名录原电话与本行一致；CSV城市字段原为空，本轮未改。",
+   "quote": "meconet e.K. / Seelbacher Weg 7 / 57072 Siegen / Tel.: +49 (0)271 70 30 87 0 / Fax: +49 (0)271 70 30 87 111 / info@meconet.de / 商店页：K. 1996-2025 | Seelbacher Weg 7 | D-57072 Siegen | Tel.: +49 (0)271 703087 0 | Fax: +49 (0)271 703087 99 | info@meconet.de / 产品页：Netonix WS-6-MINI, 6-Port 24/48VDC passive PoE Switch",
+   "sources": [
+    [
+     1,
+     "https://www.meconet.de/ueberblick_service.html"
+    ],
+    [
+     2,
+     "https://shop.meconet.de/Switche/Netonix-WS-6-MINI-6-Port-24-48VDC-passive-PoE-Switch::116838.html"
+    ],
+    [
+     3,
+     "https://shop.meconet.de/AGB-Widerrufsrecht:_:3.html"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-351为Netonix授权行（2026-09-23用户裁决保留、禁用同芯片话术）；原入口+49 (0)271 703087 0、网站空、城市空"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-352",
+   "name": "MHz Shop",
+   "country": "法国",
+   "city": "",
+   "email": "info@mhzshop.com",
+   "site": "https://www.mhzshop.com",
+   "level": "official-company",
+   "note": "官网CGV与客服务句给info@mhzshop.com与+33 4 86 68 83 30；运营商主体Megahertz Wireless Eurl，注册地5, avenue Roger Roquefort, 66320 Marquixanes，RCS 484.713.052 Perpignan，TVA FR43484713052，出版负责人Daniel Doguet；自社Facebook页同邮箱同电话；主营无线网络（WiFi/4G/5G）在线商店。CSV城市字段原为空，本轮未改。",
+   "quote": "CGV：Megahertz Wireless Eurl au capital de 118.000,00 Euros / Siège social : 5, avenue Roger Roquefort 66320 Marquixanes / RCS 484.713.052 Perpignan / Directeur de la publication: Daniel Doguet ... info@mhzshop.com / 客服务句：Besoin d'un conseil? Des conseillers techniques à votre écoute +33 4 86 68 83 30 ... service clients info@mhzshop.com / FB：+33 4 86 68 83 30 info@mhzshop.com",
+   "sources": [
+    [
+     1,
+     "https://www.mhzshop.com/Conditions-generales-de-vente/"
+    ],
+    [
+     2,
+     "https://www.mhzshop.com/shop/Accessoires-MHz/Protections/Onduleur-600VA-Nitram-BU600E-FR.html"
+    ],
+    [
+     3,
+     "https://www.facebook.com/people/MHz-Shop-Officiel/100063453496887/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-352为Netonix授权行（2026-09-23用户裁决保留、禁用同芯片话术）；原入口+33 486 688 330、网站空、城市空"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-353",
+   "name": "ELMAT",
+   "country": "意大利",
+   "city": "Padova / Roma",
+   "email": "info@elmat.com",
+   "site": "https://www.elmat.com",
+   "level": "official-company",
+   "note": "官网联系页给info@elmat.com、049.7623011、Via Uruguay 15, 35127 Padova (PD)、P.IVA 00130980287、PEC elmat@pec.it；B2B门户页重复info@elmat.com与049 7623011；分销电子/电信设备，AT伙伴名录（Resell）与本行一致。CSV城市为“Padova / Roma”两地，字段未改。",
+   "quote": "Contatti：Elmat spa Headquarter / Via Uruguay, 15 / 35127 Padova (PD) / Tel. 049.7623011 / Fax. 049.761800 / email info@elmat.com / elmat@pec.it / Registro Imprese Padova - C.F./P.Iva 00130980287 / Portale B2B：telefono 049 7623011 email info@elmat.com",
+   "sources": [
+    [
+     1,
+     "https://www.elmat.com/it/contatti"
+    ],
+    [
+     2,
+     "https://elmat.com/azienda/servizi/portale.html"
+    ],
+    [
+     3,
+     "https://it.kompass.com/c/elmat-s-p-a/it0236459/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-353为Netonix授权行（2026-09-23用户裁决保留、禁用同芯片话术）；原入口049-7623011 / 0774-300502、网站空"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-354",
+   "name": "NTS Direct",
+   "country": "美国",
+   "city": "Bolton, MA",
+   "email": "sales@ntsdirect.com",
+   "site": "https://shop.ntsdirect.com",
+   "level": "official-company",
+   "note": "官网Contact Us与公司About Us PDF给Sales@NTSDirect.com、877.483.5393、41 Main Street, Bolton, MA 01740；自述增值分销（VoIP/UC、网络、视频会议、安防），30万平方英尺仓库与实验室，面向电信/互联网/MSP/集成商/转售商。CSV原网站shop.ntsdirect.com保留，公司主站ntsdirect.com为同实体。2025年与Teltonika达成北美战略分销合作（原备注保留）。",
+   "quote": "Contact Us：For Additional Information Please Contact / Headquarters: NTS Direct 41 Main Street Bolton, MA 01740 / Sales: 877.483.5393 Sales@NTSDirect.com / About PDF：Headquartered in Bolton, MA ... sales@ntsdirect.com 877-483-5393 41 Main St. Bolton, MA 01740",
+   "sources": [
+    [
+     1,
+     "https://ntsdirect.com/contact-us/"
+    ],
+    [
+     2,
+     "https://www.ntsdirect.com/documents/NTS_About_Us.pdf"
+    ],
+    [
+     3,
+     "https://www.linkedin.com/company/nts-direct"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-354原入口“见 shop.ntsdirect.com”、网站shop.ntsdirect.com"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-355",
+   "name": "Ahababian V.",
+   "country": "乌克兰",
+   "city": "Kyiv",
+   "email": "vartan@mikrotikls.com.ua",
+   "site": "https://www.mikrotikls.com.ua",
+   "level": "official-named",
+   "note": "mikrotikls.com.ua首页团队区给导师Вартан Агабабян（MikroTik Trainer TR0686，持MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCSE/MTCSWE/MTCEWE）、地址Київ, вул. Маршала Рибалка 11Б与具名邮箱vartan@mikrotikls.com.ua；价目页给通用info@mikrotikls.com.ua与+380 44 339 56 97；自述2009年起为官方培训中心、已培养1000+工程师。站点根页直连抓取失败（TLS/超时），内容取自检索索引并与价目页互证。原入口电话保留。",
+   "quote": "首页：Наши тренеры ... Вартан Агабабян ... Trainer MikroTik TR0686 - 2021г ... MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCSE, MTCSWE, MTCEWE / Адрес вул. Маршала Рыбалко, 11Б, Киев, Украина, 04116 / Email vartan@mikrotikls.com.ua / 价目页：Информация +380 44 339 56 97 ... Email info@mikrotikls.com.ua",
+   "sources": [
+    [
+     1,
+     "https://www.mikrotikls.com.ua/"
+    ],
+    [
+     2,
+     "https://www.mikrotikls.com.ua/price"
+    ],
+    [
+     3,
+     "https://www.mikrotik.place/en"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-355原入口+380669074488、网站mikrotikls.com.ua；来源MikroTik官方培训中心名录"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-356",
+   "name": "Pournaras Athanasios",
+   "country": "希腊",
+   "city": "Athens",
+   "email": "info@xpatit.gr",
+   "site": "https://www.xpatit.gr",
+   "level": "official-company",
+   "note": "XPATIT联系页给info@xpatit.gr（销售）、+30 211 0070080、service@/rma@/logistirio@/warehouse@/procurement@，培训部training@xpatit.gr / +30 211 0070086，地址26th km Marathonos Ave., Rafina, Attica 19009（CSV城市Athens为覆盖区/常用地，未改）；官方培训页确认讲师即公司创始成员Πουρνάρας Αθανάσιος（MikroTik Certified Trainer自2016，十证；Ubiquiti UCT 2018、TP-Link OCI 2023），1000+学员。原入口电话保留。",
+   "quote": "Contact：Sales Department Email info@xpatit.gr Phone (+30) 211 0070080 / Training Department Email training@xpatit.gr Phone (+30) 211 0070086 / 26th km Marathonos Ave., Rafina, Attica, ZIP:19009 / Formal trainings：... εισηγητή τον κύριο Πουρνάρα Aθανάσιο ... MikroTik Certified Trainer since 2016 ... training@xpatit.gr",
+   "sources": [
+    [
+     1,
+     "https://www.xpatit.gr/en/contact"
+    ],
+    [
+     2,
+     "https://www.xpatit.gr/en/trainings-services/formal-trainings-mikrotik"
+    ],
+    [
+     3,
+     "https://www.xpatit.gr/en/services/training-services"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-356原入口+30 211 8000313 / +30 693 7019004、网站空；来源MikroTik官方培训伙伴/顾问名录"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-357",
+   "name": "Digital Sima S.A.",
+   "country": "希腊",
+   "city": "Athens",
+   "email": "sales@digitalsima.gr",
+   "site": "https://www.digitalsima.gr",
+   "level": "partner-directory",
+   "note": "官网联系页给地址Ilia Iliou 54, 11743 N. Kosmos, Athens、+30 210 9010401、技术部+30 210 7002749与在线表单（正文未列邮箱文字）；sales@digitalsima.gr取自Zyxel官方分销商名录（同列该地址与电话）；公司简介页确认按厂商分销Allied Telesis等，覆盖希腊/塞浦路斯/马耳他。本行AT伙伴名录主体即此。",
+   "quote": "Contact：Ilia Iliou 54, 11743 N. Kosmos, Athens Greece / +30 210 9010401 / Technical Department: +30 210 7002749 / @ SALES DEPARTMENT / SEND AN EMAIL / Zyxel Distributors in Greece：Digital Sima / 54 Ilia Iliou, 11743 N. Kosmos, Athens / (+30) 210 90 10 401 / sales@digitalsima.gr / Company Profile：Digital SIMA distributes quality products and solutions, through a network of authorized partners, covering Greece, Cyprus and Malta ... By Vendor: Allied Telesis",
+   "sources": [
+    [
+     1,
+     "https://www.digitalsima.gr/contact/"
+    ],
+    [
+     2,
+     "https://www.zyxel.com/global/en/where-to-buy/distributors-gr"
+    ],
+    [
+     3,
+     "https://www.digitalsima.gr/company-profile/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-357原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-358",
+   "name": "LEXIS S.A.",
+   "country": "希腊",
+   "city": "Gerakas Attikis",
+   "email": "lexis@lexis.gr",
+   "site": "https://www.lexis.gr",
+   "level": "official-company",
+   "note": "官网Contact Us页给lexis@lexis.gr、+30 210 6777007、401 Kleisthenous str., 15344 Gerakas，以及塞萨洛尼基分公司thes@lexis.gr / 0030 2310 329350-1；产品页（UPS）重复同一邮箱电话；自述语音/数据/视频通信与UPS系统，1986年成立。本行AT伙伴名录（Gerakas Attikis）与城市字段一致。",
+   "quote": "Contact Us：LEXIS S.A. Voice/Data/Video Communications and UPS Systems / Head Office: 401, Kleisthenous str., 15344, Gerakas / 0030 210-6777007 / lexis@lexis.gr / Branch Office: 32, Mavromichali str, 54248, Thessaloniki / 0030 2310-329350,-1 / thes@lexis.gr",
+   "sources": [
+    [
+     1,
+     "https://www.lexis.gr/en/contactus"
+    ],
+    [
+     2,
+     "https://www.lexis.gr/en/ups-2"
+    ],
+    [
+     3,
+     "https://www.linkedin.com/company/lexis-sa"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-358原入口“见 alliedtelesis.com 伙伴页”、网站空、含【待人工补信息】块"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-359",
+   "name": "Scornici Vadim",
+   "country": "乌克兰",
+   "city": "Kyiv",
+   "email": "vadsco@gmail.com",
+   "site": "https://mikrotik.coach",
+   "level": "official-named",
+   "note": "自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com、+44 7429897667、Walnut Tree, Milton Keynes, UK；团队页列VADIM SCORNICI（Certificate No. TR0659，2019年3月起授课，2800+学员，自称欧洲Top 3），并提供Telegram t.me/vadsco与FB专页；MikroTik.UA讲师页确认Скорніч Вадим Дмитрович持TR0659与十证、授课点Київ, вул. О.Теліги 11。CSV城市Kyiv与原电话保留；站点英国联系地址差异仅备注说明。",
+   "quote": "Contacts：Walnut Tree, Milton Keynes, UK / vadsco@gmail.com / +447429897667 / Our team：VADIM SCORNICI / CERTIFIED TRAINER / Certificate No.: TR0659 / Teaching experience: since March 2019 / Ranking: Top 3 coaches in Europe / Number of students: 2800+ / ASK A QUESTION → t.me/vadsco / mikrotik.ua教师页：Вадим Скорніч ... Тренерський сертифікат – TR0659 ... Київ, вул. О.Теліги, 11",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.coach/"
+    ],
+    [
+     2,
+     "https://www.mikrotik.ua/trainer"
+    ],
+    [
+     3,
+     "https://www.facebook.com/mikrotik.coach"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-359原入口+380 662340273、网站空；来源MikroTik官方培训中心名录"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话/PEC）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第22批（荷兰行）。判据同前。",
+ "records": [
+  {
+   "code": "B-433",
+   "decision": "pending",
+   "site": "it-support.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网抓取失败（Failed to fetch page）→ 待重试；本轮维持B（未复核）。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://www.it-support.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-434",
+   "decision": "hold-B",
+   "site": "interstroom.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：Interstroom informatietechnologie bv（荷兰 Twente）自述 **«Gewoon heldere ICT uit Twente!»**、28+ 年；业务为 ICT 服务（Kantoorautomatisering en Systeembeheer、iVoIP 云电话、Enschede 机房云服务/托管桌面、ADSL/VDSL/光纤/4G/VPN 连接），合作品牌 HP/Apple/Dell/Lenovo/Microsoft/Kaspersky/Snom；**无设备商城、无交换机品类** → 系统集成/托管服务，维持B。",
+   "quote": "Interstroom – informatietechnologie bv：Gewoon heldere ICT uit Twente!；ICT Dienstverlening／Hosted VoIP（iVoIP Cloudtelefonie）／Cloud diensten／Connectiviteit；Kantoorautomatisering en Systeembeheer…O.a. werken we met merken als; HP, Apple, Dell, Lenovo, Microsoft, Kaspersky en Snom.；Al meer dan **28 jaar** zakelijke Internet en ICT diensten vanuit Twente!",
+   "sources": [
+    [
+     1,
+     "https://www.interstroom.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-435",
+   "decision": "hold-B",
+   "site": "jpk-consulting.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：JPK Consulting（荷兰）主页主打 **«Een eigen hosted WiFI setup? Op basis van diverse merken zoals HP Aruba, Ruckus of Mikrotik»**、HSNM Hotspot manager、网络故障排查（«Van klein MKB tot ISP ondersteuning»）与 **Technisch Product management**；属无线/网络咨询与产品管理服务，**官网无设备商城、无交换机品类** → 维持B。",
+   "quote": "Home | JPK Consulting；Een eigen hosted WiFI setup? Op basis van diverse merken zoals HP Aruba, Ruckus of Mikrotik.；Wifi hotspot：HSNM Hotspot manager, het krachtigste Wifi-toegangssyteem；Netwerk problemen? Wij lossen ze voor u op! Van klein MKB tot **ISP ondersteuning**；Technisch Product management：Voor een actueel portfolio of een nieuwe ontwikkeling",
+   "sources": [
+    [
+     1,
+     "https://www.jpk-consulting.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-436",
+   "decision": "hold-B",
+   "site": "qtopia.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：Qtopia B.V.（荷兰 Heelweg，info@qtopia.nl，088 711 0500）为**软件研发与 ICT 咨询公司**（Software Ontwikkeling、Next Level Consultancy、Requirements Engineering、Solution Architectuur、Performance optimalisatie、Informatiemodelling/Koppelingen），资质为 Microsoft/Sophos/CEH/TOGAF/Prince2 等；**无网络硬件品类** → 维持B。",
+   "quote": "Qtopia B.V. — SoftwareOntwikkeling／Next Level Consultancy／Samen Innoveren；Disciplines: Veilige Systemen／Solution Architectuur／Requirements Engineering／Performance optimalisatie／Informatiemodellering／Koppelingen Tussen Systemen；Onze doelstelling: Organisaties ondersteunen met onze vaardigheden en kennis",
+   "sources": [
+    [
+     1,
+     "https://www.qtopia.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-534",
+   "decision": "promote",
+   "site": "lextron.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：Lextron B.V.（荷兰）自述 **«Specialist in Industrial Computers & Communication»**、«innovative company that provides both high quality generic industrial computers and networking products as 100% custom build solutions»；Industrial Networking **145 款**（含 **Ethernet Switch 109 款**、Smart Grid IEC-61850、Railway Series、Card-type Ethernet Switch、Media Converter 22 款、Fiber By-Pass Switch），展示页含 **ORing PROFINET CC-B 认证工业交换机**横幅、26 口托管千兆 PoE 交换机；工业计算 39 款/面板机/IPC 等（Vecow AI BOX、Intel 技术伙伴） → 交换机品类+工业网络专营 → 人工定级升A。",
+   "quote": "Lextron | Industrial Computing and Networking Solutions；Industrial Networking (145)：**Ethernet Switch (109)**／Smart Grid IEC-61850 (1)／Wireless (2)／Railway Series (3)／Media Converter (22)／Fiber By Pass Switch (1)／Device Server (1)／Card-type Ethernet Switch (4)／Ethernet Extenders (2)；Specialist in Industrial Computers & Communication：…networking products as **100% custom build solutions**；ORing Introduces Industrial Ethernet Switches with PROFINET CC-B Certification；Industrial 26-port managed Gigabit PoE Ethernet switch",
+   "sources": [
+    [
+     1,
+     "https://www.lextron.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-440",
+   "decision": "hold-B",
+   "site": "gpe-networks.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：GPE Networks（荷兰，Maurice van der Grijspaarde）为 **ICT 管理服务商**：Systeembeheer／Netwerkbeheer／Cloud Diensten／Backup／Consultancy／Webhosting，客户评价含「设置 MikroTik 路由器」「网络布线」等服务；**无设备销售目录/无交换机品类** → 维持B。",
+   "quote": "GPE Networks biedt maatwerk oplossingen voor iedere onderneming；Systeembeheer／Netwerkbeheer／Cloud Diensten／Backup／Consultancy／Webhosting；Klantreview: Mijn Mikrotik Router…GPE-Networks heeft dit voor ons keurig weten in te stellen；Lord Empire: Maurice heeft mij geholpen met mijn internetkabel aanleggen en testen",
+   "sources": [
+    [
+     1,
+     "https://gpe-networks.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-444",
+   "decision": "hold-B",
+   "site": "rvdbict.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：RvdB ICT（Robbin van den Berg，荷兰，info@rvdbict.nl，+31 6 19 600 106）自述 **«Uw partner binnen de ICT»**；业务为远程/现场 IT 支持、Netwerkbeheer & Beveiliging（管理/监控/防火墙交付配置）、Webhosting & Cloud、Zakelijk Internet、VoIP、IPTV → IT 托管服务商，**无设备商城/无交换机品类** → 维持B。",
+   "quote": "RVDBICT | Uw partner binnen de ICT；Remote Support／On Site Support／Advies op maat／**Netwerkbeheer & Beveiliging**（wij leveren en configureren geavanceerde firewalls）／Webhosting & Cloud／Zakelijk Internet／Mobiel & Vaste Telefonie (VoIP)／IPTV / Zakelijke TV；Robbin van den Berg",
+   "sources": [
+    [
+     1,
+     "https://rvdbict.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-445",
+   "decision": "promote",
+   "site": "routershop.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：Routershop（荷兰）自述 **«De router en switch specialist van Nederland met ruim 20 jaar ervaring»**（20+ 年路由与交换机专营）；类目含 **Netwerk switches（5/8/12/16/24/48 口、PoE switches、10GE switches、Cisco Catalyst、Switch licenties）**、Glasvezel switches、Routers/4G-5G/Firewalls/WiFi/Patchkasten/UPS，Bekabeling 含 SFP modules/DAC/Media converters；提供 **Offerte aanvragen（询价）**与 Professional Services → 交换机专营网店 → 人工定级升A。",
+   "quote": "Routershop - De **router en switch specialist** van Nederland met ruim 20 jaar ervaring；Producten: Routers／Modems／4G en 5G／Firewalls／**Netwerk switches**（Alle Netwerk switches／5 poort／8 poort／12 poorten／16 poort／24 poort／48 poort／**PoE switches**／**10GE switches**／Cisco Catalyst／Switch licenties）／WiFi／Glasvezel（Glasvezel switches）／Bekabeling（SFP modules／DAC kabels／Media converters）／UPS noodstroom／Patchkasten；Offerte aanvragen；Professional Services",
+   "sources": [
+    [
+     1,
+     "https://www.routershop.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-446",
+   "decision": "promote",
+   "site": "sdc.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：SDC Group（sdcgroup.nl → sdc.nl，荷兰）自述 **«SDC.nl Jouw ICT-Distributeur»**、30+ 年 ICT 分销、«Voor 17.00 uur besteld, morgen in huis» 与 24/7 支持台、Partner Event 与 Academy 培训；一级品牌横幅含 **Ubiquiti／TP-Link／MikroTik／Grandstream／Gigaset**，首页主类目含 **Switches（/categorie/153/switches.html）**、Access points、Firewalls、Smart Building；在售 MikroTik hAP ax3、Ubiquiti U7 Pro 等 → 交换机品类+网络专营 ICT 分销 → 人工定级升A。",
+   "quote": "SDC.nl Jouw ICT-Distributeur；Voor 17.00 uur besteld, morgen in huis／24/7 support desk／Ruim 30 jaar ervaring；Merkbanners: Gigaset Pro／**Ubiquiti**／**TP-Link**／**Mikrotik**／Grandstream；Onze top categorieën: Dect-Telefonie／Access points／**Switches**／Smart Building／Firewalls／Bureautoestellen；Bestsellers: Grandstream GCC6020 firewall／TP-Link Omada EAP773／**MikroTik hAP ax3**／Ubiquiti UniFi U7 Pro",
+   "sources": [
+    [
+     1,
+     "https://sdc.nl/"
+    ],
+    [
+     2,
+     "https://sdc.nl/categorie/153/switches.html"
+    ]
+   ]
+  },
+  {
+   "code": "B-448",
+   "decision": "promote",
+   "site": "wimoodshop.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛22】官网核对：Wimood（wimoodshop.nl，荷兰）自述 **«Draadloze datacommunicatie»**，主要品牌 **Ubiquiti／MikroTik／Cambium／Alta Labs**（另有 Shelly、NetAlly 网络测试仪、Ubiquiti CyberSecure）；**Reseller 招募**（«Ben je nog geen klant? Profiteer van de vele voordelen en word reseller!»）；在售 **UniFi Switch Flex 2.5G €201.50**、**Enterprise Campus 24 PoE（1050W PoE 预算）€2,426**；主类目含 **UniFi Switching & Routing**、Routers、Access Points；当日下午 17:30 前下单当日发运、Ubiquiti & MikroTik 两年保 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Wimood - Draadloze datacommunicatie；Onze belangrijkste merken: **Ubiquiti／MikroTik／Cambium**；Ben je nog geen klant? Profiteer van de vele voordelen en **word reseller**!；Uitgelichte producten: **UniFi Switch Flex 2.5G - 8 poort** € 201,50／**Enterprise Campus 24 PoE, 1050W PoE budget** € 2.426,00／hAP ax S € 62,30；Meest bekeken categorieën: UniFi Access Points／**UniFi Switching & Routing**／Routers；Voor 17:30 uur besteld, dezelfde werkdag verzonden",
+   "sources": [
+    [
+     1,
+     "https://www.wimoodshop.nl/nl/"
+    ]
+   ]
+  }
+ ]
+}

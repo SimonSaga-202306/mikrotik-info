@@ -1,0 +1,5 @@
+[
+ {"name":"Troels E. Normolle / UNIFOSS","country":"丹麦","city":"Lemming","site":"unifoss.com","cert":"MTCNA+MTCRE","sku":"LT-IS6312XGP-4XS8GT","prio":"★★★","contact":"+45 2279 1234 / troels@unifoss.com","note":"★★ 网络公司创始人，服务行业列举：**农业、能源与电网控制 Energy and grid control、音乐节 Festivals、医疗、酒店 Hospitality、ISP、办公、零售** → 电网控制与农业是工业级场景，音乐节是临时大容量组网，酒店是 PoE 接入，一家公司覆盖三种需求"},
+ {"name":"Stefan Andersen / Pumait","country":"丹麦","city":"Valby (Copenhagen)","site":"pumait.dk","cert":"MTCNA+MTCRE","sku":"LT-S8328GP-4GX24GT-S","prio":"★★★","contact":"+45 60 709 009 / stefan@pumait.dk","note":"★★ 1998 年起做 ISP 网络，实战派；**还做更大的运营技术栈：仓库自动化 warehouse automation、门禁 access control、CCTV 视频监控** → 这三项全是 PoE 供电场景，交换机需求最硬"},
+ {"name":"Thomas Fossing / CloudPilot","country":"丹麦","city":"Copenhagen","site":"cloudpilot.dk","cert":"MTCNA+MTCRE+MTCWE+MTCINE","sku":"LT-S8328XGP-4XS24GT-S","prio":"★★★","contact":"+45 23 708 070 / tcf@cloudpilot.dk","note":"面向没有专职 IT 经理的中小企业做 IT 平台规划与选型（预算内最优结构）；含 MTCWE（无线）+ MTCINE（ISP 互联）"}
+]

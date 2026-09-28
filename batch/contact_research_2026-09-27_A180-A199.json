@@ -1,0 +1,294 @@
+{
+  "date": "2026-09-27",
+  "scope": "Contact research only; existing A numbers retained; no email delivery testing.",
+  "records": [
+    {
+      "code": "A-180",
+      "email": "info@telcat.de",
+      "site": "https://www.telcat.de",
+      "level": "official",
+      "note": "官网联系页匹配 Salzgitter 总部，集团采购链风险保留。",
+      "sources": [
+        [
+          1,
+          "https://www.telcat.de/unternehmen/kontakt"
+        ]
+      ]
+    },
+    {
+      "code": "A-181",
+      "email": "frontoffice@think-about.it",
+      "site": "https://think-about.it",
+      "level": "company-store",
+      "note": "公司自营 eBay 店铺法律资料明文列出，匹配 Bochum 地址、法人和官网；前台转接入口，不是具名采购人。官网公开 Janina Elsenheimer 为前台团队负责人。",
+      "sources": [
+        [
+          3,
+          "https://www.ebay.de/str/notebooksandmoredebochum"
+        ],
+        [
+          2,
+          "https://think-about.it/janina-elsenheimer/"
+        ]
+      ]
+    },
+    {
+      "code": "A-182",
+      "email": "kontakt@tiefenbach-it.de",
+      "site": "https://www.tiefenbach-it.com",
+      "level": "official",
+      "note": "自营报价与 IT 服务页面明确指定此邮箱。",
+      "sources": [
+        [
+          1,
+          "https://www.tiefenbach-it.com/angebot"
+        ],
+        [
+          2,
+          "https://www.tiefenbach-it.com/it-services"
+        ]
+      ]
+    },
+    {
+      "code": "A-183",
+      "email": "info@tq-group.com",
+      "site": "https://www.tq-group.com",
+      "level": "official",
+      "note": "官网 Seefeld 总部联系邮箱；本体为电子制造/方案集团，不因补邮箱就证明是普通交换买家；本轮不改评级。",
+      "sources": [
+        [
+          1,
+          "https://www.tq-group.com/en/company/"
+        ]
+      ]
+    },
+    {
+      "code": "A-184",
+      "email": "info@wpdata.com",
+      "site": "https://www.wpdata.com",
+      "level": "official",
+      "note": "官网 Impressum 明文邮箱，Neuss。检索必须带完整公司名，否则 wp.DATA 被误搜为 WordPress 软件模块。",
+      "sources": [
+        [
+          1,
+          "https://www.wpdata.com/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-185",
+      "email": "info@ziegler-sh.de",
+      "site": "https://www.ziegler-systemhaus.de",
+      "level": "official",
+      "note": "官网总部地址匹配 Stuttgart；不是分支展会专用邮箱。",
+      "sources": [
+        [
+          1,
+          "https://www.ziegler-systemhaus.de/kontakt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-186",
+      "email": "info@zorn-elektrik.de",
+      "site": "https://www.zorn-elektrik.de",
+      "level": "official",
+      "note": "官网联系页明文邮箱，Korntal-Münchingen 地址匹配。",
+      "sources": [
+        [
+          1,
+          "https://www.zorn-elektrik.de/kontakt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-187",
+      "email": "contact@groupenetworks.fr",
+      "site": "https://groupenetworks.fr",
+      "level": "official",
+      "note": "联系页为表单，进一步找到官网支持页的商业/行政公共邮箱；未用员工聚合站遮码推测。",
+      "sources": [
+        [
+          1,
+          "https://groupenetworks.fr/support-clients/"
+        ]
+      ]
+    },
+    {
+      "code": "A-188",
+      "email": "info@aginformaticasrl.it",
+      "site": "https://www.aginformaticasrl.it",
+      "level": "official",
+      "note": "官网公开邮箱，Roma Via Eugenio Chiesa 地址和税号可匹配；页面含模板电话，不采用该假电话。",
+      "sources": [
+        [
+          3,
+          "https://www.aginformaticasrl.it/"
+        ]
+      ]
+    },
+    {
+      "code": "A-189",
+      "email": "marketing@agomir.com",
+      "site": "https://agomir.com",
+      "level": "official",
+      "note": "官网联系页当前页脚公开营销邮箱；可要求转采购，不能当采购人直邮。Lecco 另有系统支持邮箱。",
+      "sources": [
+        [
+          1,
+          "https://agomir.com/contatti/"
+        ]
+      ]
+    },
+    {
+      "code": "A-190",
+      "email": "asit@asit.it",
+      "site": "https://www.asit.it",
+      "level": "company-social",
+      "note": "官网首页两段已抓未显示自身邮箱，公司 Facebook 公开 asit@asit.it 及 Via Goretta 地址、电话；排除网站托管厂商 PDF 中的大华/Emerson 邮箱。本身为 ICT 分销商。",
+      "sources": [
+        [
+          2,
+          "https://www.facebook.com/p/Asit-SpA-100057768365511/"
+        ],
+        [
+          2,
+          "https://www.asit.it/categoria-prodotto/brand/ascom/"
+        ]
+      ]
+    },
+    {
+      "code": "A-191",
+      "email": "info@coeldistribution.it",
+      "site": "https://www.coeldistribution.it",
+      "level": "official",
+      "note": "官网联系页明确列出 Muggiò 地址、税号及邮箱；第三方聚合站把本公司误放印度，不采用其信息。",
+      "sources": [
+        [
+          1,
+          "https://www.coeldistribution.it/contattaci/"
+        ]
+      ]
+    },
+    {
+      "code": "A-192",
+      "email": "ctime@ctime.it",
+      "site": "https://ctime.it",
+      "level": "official",
+      "note": "实际抓取官网 contatti_ctime 联系页，Somma Lombardo；首页明确为 VAR/System Integrator，含路由交换配置和学校网络。",
+      "sources": [
+        [
+          1,
+          "https://ctime.it/contatti_ctime/"
+        ],
+        [
+          1,
+          "https://ctime.it/"
+        ]
+      ]
+    },
+    {
+      "code": "A-193",
+      "email": "info@connect-ics.it",
+      "site": "https://www.connect-ics.it",
+      "level": "official",
+      "note": "官网 Lecce 地址与公司名吻合；不使用美国 ICS-CONNECT 培训网站或同名网络商。",
+      "sources": [
+        [
+          2,
+          "https://www.connect-ics.it/"
+        ]
+      ]
+    },
+    {
+      "code": "A-194",
+      "email": "info@ctcsystems.it",
+      "site": "https://www.ctcsystems.it",
+      "level": "official",
+      "note": "官网明确列出 Calco 总部与 Lecco 办公室，邮箱适用于本企业。",
+      "sources": [
+        [
+          1,
+          "https://www.ctcsystems.it/"
+        ]
+      ]
+    },
+    {
+      "code": "A-195",
+      "email": "support@emiliainformatica.it",
+      "site": "https://www.emiliainformatica.it",
+      "level": "official",
+      "note": "猜测 /contatti 路径为404；改搜公司介绍页找到公开支持邮箱。仅作为转接入口，不用隐私合规邮箱作营销入口。",
+      "sources": [
+        [
+          1,
+          "https://www.emiliainformatica.it/la-nostra-azienda/"
+        ]
+      ]
+    },
+    {
+      "code": "A-196",
+      "email": "mepa@evergreen1.it",
+      "site": "https://www.evergreen1.it",
+      "level": "official",
+      "note": "官网明确这是公共部门报价入口，另有供应商行政入口 amministrazione@evergreen1.it；不使用 PEC 法律邮箱作为普通营销入口。",
+      "sources": [
+        [
+          2,
+          "https://www.evergreen1.it/contattaci"
+        ]
+      ]
+    },
+    {
+      "code": "A-197",
+      "email": "info@farpoint.it",
+      "site": "https://farpoint.eu",
+      "level": "official",
+      "note": "首页未见邮箱，继续检索找到 WordPress page_id=131 联系页；公开通用邮箱及网络技术联系人 Giorgio Bertoni（bertoni@farpoint.it）。域名 .eu 网站与 .it 邮箱在官网关联，不按域名猜。排除 PEC 地址。",
+      "sources": [
+        [
+          1,
+          "http://farpoint.eu/?page_id=131"
+        ],
+        [
+          2,
+          "http://farpoint.eu/?page_id=209"
+        ]
+      ]
+    },
+    {
+      "code": "A-198",
+      "email": "info@fioresrl.com",
+      "site": "https://www.fioresrl.com",
+      "level": "official",
+      "note": "官网历史新闻分类页公开邮箱，第三方渠道名录同址同邮箱；当前首页已抓，主营 ICT 分销并自制 rack，不因补邮箱提升质量判断。",
+      "sources": [
+        [
+          1,
+          "https://www.fioresrl.com/category/press-room/comunicati/"
+        ],
+        [
+          1,
+          "https://www.trademanager.it/whoswho/listing/fiore-srl"
+        ],
+        [
+          1,
+          "https://www.fioresrl.com/"
+        ]
+      ]
+    },
+    {
+      "code": "A-199",
+      "email": "info@gecopra.it",
+      "site": "https://gecopra.it",
+      "level": "official",
+      "note": "官网公开 Napoli 公司邮箱；业务为通信、光纤/无线、视频监控和技术系统设计维护。",
+      "sources": [
+        [
+          1,
+          "https://gecopra.it/en/home/"
+        ]
+      ]
+    }
+  ]
+}

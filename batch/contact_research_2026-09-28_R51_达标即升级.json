@@ -1,0 +1,303 @@
+{
+ "date": "2026-09-28",
+ "scope": "R51：用户指示「达到 A 级标准即可升级」——把 R50 因疑似与 A 行同一实体而暂缓、但自身满足 A 标准的 9 条 B 行升 A（A-422–A-430）。升级不改物理顺序、旧号空置；与既有 A 行的重复提示保留，不合并。其余 22 条不够 A 标准的行维持原级。",
+ "records": [
+  {
+   "code": "A-422",
+   "before_code": "B-083",
+   "name": "David Csongradi",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "email": "+36 30 616 9819 / mikrotik@csongradidavid.hu",
+   "site": "csongradidavid.hu",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-083（B 级）。本条与 A-251 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-422。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Hungary)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-422",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Hungary"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-083"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-423",
+   "before_code": "B-149",
+   "name": "Sebastian Inacker / FMS Web（fmsweb.de）",
+   "country": "德国",
+   "city": "Umkirch (Freiburg)",
+   "email": "+49 761 2926500 / inacker@fmsweb.de",
+   "site": "fmsweb.de",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-149（B 级）。本条与 A-083、A-239 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-423。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Germany)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-423",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Germany"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-149"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-424",
+   "before_code": "B-207",
+   "name": "WIFIPROFI.CZ",
+   "country": "捷克",
+   "city": "",
+   "email": "774 331 774 / klima@wifiprofi.cz",
+   "site": "shop5.wifiprofi.cz",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-207（B 级）。本条与 A-288 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCTCE、MTCUME、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-424。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Czech+Republic)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-424",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Czech+Republic"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-207"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-425",
+   "before_code": "B-288",
+   "name": "Rein Podra",
+   "country": "爱沙尼亚",
+   "city": "Põltsamaa",
+   "email": "+372 505 1372 / rein.podra@ccisrd.eu",
+   "site": "ccisrd.eu",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-288（B 级）。本条与 A-374 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE、MTCUME + 直达邮箱 + 非硬排除 → 人工定级升 A-425。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Estonia)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-425",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Estonia"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-288"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-426",
+   "before_code": "B-430",
+   "name": "Aris Vink / SDC",
+   "country": "荷兰",
+   "city": "Zoetermeer",
+   "email": "+31 6 17552148 / aris@sdc.nl",
+   "site": "sdc.nl",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-430（B 级）。本条与 A-131、A-286 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE + 直达邮箱 + 非硬排除 → 人工定级升 A-426。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-426",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-430"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-427",
+   "before_code": "B-432",
+   "name": "Corné van Halteren / DAEL",
+   "country": "荷兰",
+   "city": "'s-Hertogenbosch",
+   "email": "+31 6 28026574 / corne.vanhalteren@dael.com",
+   "site": "dael.com",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-432（B 级）。本条与 A-285 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCRE、MTCSE + 直达邮箱 + 非硬排除 → 人工定级升 A-427。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-427",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-432"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-428",
+   "before_code": "B-437",
+   "name": "Jasper Hagoort / Dside",
+   "country": "荷兰",
+   "city": "Geertruidenberg",
+   "email": "+31 6 50462617 / jasper@dside.nl",
+   "site": "dside.nl",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-437（B 级）。本条与 A-090 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCSE、MTCTCE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-428。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-428",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-437"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-429",
+   "before_code": "B-442",
+   "name": "Michiel Visser / Connection Services",
+   "country": "荷兰",
+   "city": "Deventer",
+   "email": "+31 6 29047127 / michiel@connectionservices.nl",
+   "site": "connectionservices.nl",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-442（B 级）。本条与 A-271 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE、MTCRE、MTCSE、MTCWE + 直达邮箱 + 非硬排除 → 人工定级升 A-429。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-429",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-442"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  },
+  {
+   "code": "A-430",
+   "before_code": "B-443",
+   "name": "MikroTrain（荷兰 MikroTik 培训）",
+   "country": "荷兰",
+   "city": "",
+   "email": "+31 6 12224005 / info@mikrotrain.nl",
+   "site": "mikrotrain.nl",
+   "level": "official-directory-dup",
+   "note": "【2026-09-28 R51 达标即升级】用户指示达到 A 级标准即升级。原 B-443（B 级）。本条与 A-259 疑似同一实体（R50 去重提示），但独立满足 A 标准：★★★ + 工程师级认证 MTCINE + 直达邮箱 + 非硬排除 → 人工定级升 A-430。重复提示保留、不合并。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://mikrotik.com/consultants?region=Netherlands)；批次：batch/contact_research_2026-09-28_R51_达标即升级.json#A-430",
+   "quote": "R50 去重提示：R50 全表去重扫描命中（同邮箱/同域名/同名，排除免费邮箱域）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants?region=Netherlands"
+    ],
+    [
+     2,
+     "batch/dedup_hints_2026-09-28_R50.json#B-443"
+    ]
+   ],
+   "fields_supported": [
+    "评级（B→A 达标升级）",
+    "档案编号",
+    "评级依据",
+    "人工定级",
+    "备注"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核：官方名录入口在线；个人条目沿用既有轮次记录，不新抓个人页",
+   "quote_convention": "quote 为 R50 去重提示的压缩摘句，非本轮新抓原文。",
+   "decision": "promote"
+  }
+ ]
+}

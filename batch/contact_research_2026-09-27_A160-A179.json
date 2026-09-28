@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-27",
+  "scope": "Existing A contact enrichment; no grade or number changes; public listing does not verify delivery.",
+  "records": [
+    {
+      "code": "A-160",
+      "email": "info@isimko.de",
+      "site": "https://www.isimko.de",
+      "level": "official",
+      "note": "官网 Impressum 明文邮箱；Cottbus，负责人 Ralph Hannemann、Diego Noack。",
+      "sources": [
+        [
+          1,
+          "https://www.isimko.de/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-161",
+      "email": "info@jott.consulting",
+      "site": "https://www.jott.consulting",
+      "level": "official",
+      "note": "官网联系页和 Impressum 相符；Köln，具名负责人 Klaus Jettkant。",
+      "sources": [
+        [
+          1,
+          "https://www.jott.consulting/kontakt"
+        ],
+        [
+          2,
+          "https://www.jott.consulting/impressum"
+        ]
+      ]
+    },
+    {
+      "code": "A-162",
+      "email": "info@kws-partner.de",
+      "site": "https://kws-partner.de",
+      "level": "official",
+      "note": "官网 Impressum；Frankenberg，负责人 Andreas Werner、Jens Krenkel。",
+      "sources": [
+        [
+          1,
+          "https://kws-partner.de/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-163",
+      "email": "info@m-itsysteme.de",
+      "site": "https://m-itsysteme.de",
+      "level": "official",
+      "note": "官网公开 info[at] 邮箱，规范化为 @；Mühldorf am Inn；服务中小企业、学校和公共机构。",
+      "sources": [
+        [
+          1,
+          "https://m-itsysteme.de/kontakt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-164",
+      "email": "mail@m2-it-solutions.de",
+      "site": "https://www.m2-it-solutions.de",
+      "level": "official",
+      "note": "官网 Impressum；Tübingen，业主 Martin Mayer；采用通用邮箱而非数据保护邮箱。",
+      "sources": [
+        [
+          1,
+          "https://www.m2-it-solutions.de/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-165",
+      "email": "info@meco.de",
+      "site": "https://www.meco.de",
+      "level": "directory",
+      "note": "官网已抓，邮箱为反向文本夹杂时间戳；第三方企业库及企业杂志明确列出完整邮箱，按第三方公开待核记录。官网当前法人为 GmbH，旧库为 GmbH & Co. KG，名称变化留待核实，不合并或改编号。",
+      "sources": [
+        [
+          1,
+          "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/1203534"
+        ],
+        [
+          2,
+          "https://mittelrheinland.de/unternehmer-in-der-gemeinschaft/meco-systemhaus/"
+        ],
+        [
+          1,
+          "https://www.meco.de/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-166",
+      "email": "info@msit-gmbh.de",
+      "site": "https://www.msit-gmbh.de",
+      "level": "official",
+      "note": "官网明确列出；Spardorf，企业网络及 IT 安全服务。",
+      "sources": [
+        [
+          1,
+          "https://www.msit-gmbh.de/"
+        ],
+        [
+          3,
+          "https://www.msit-gmbh.de/dokumentation/"
+        ]
+      ]
+    },
+    {
+      "code": "A-167",
+      "email": "info@my-itservice.com",
+      "site": "https://www.my-itservice.com",
+      "level": "directory",
+      "note": "邮箱来自第三方 Cylex，官网首页已抓并核对 Wiehl 电话及负责人 Wolfgang Deibel；库内 Deibe 可能漏 l，保留原公司名和编号，姓名更正仅注记。官网未显示明文邮箱，不算官网确认。",
+      "sources": [
+        [
+          1,
+          "https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html"
+        ],
+        [
+          1,
+          "https://www.my-itservice.com/"
+        ]
+      ]
+    },
+    {
+      "code": "A-168",
+      "email": "nupis@nupis.de",
+      "site": "https://www.nupis.de",
+      "level": "official",
+      "note": "自营 SPARTACUS 产品站联系页明确列出母公司名称、Meerane 总部和此邮箱；不是按域名生成。",
+      "sources": [
+        [
+          2,
+          "https://www.spartacus-fm.de/kontakt"
+        ]
+      ]
+    },
+    {
+      "code": "A-169",
+      "email": "info@netz16.de",
+      "site": "https://www.netz16.de",
+      "level": "official",
+      "note": "官网联系页，Augsburg；页面包含 accompio 关联信息，集团决策链需留意。",
+      "sources": [
+        [
+          1,
+          "https://www.netz16.de/kontakt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-170",
+      "email": "einkauf@nitoit.de",
+      "site": "https://nitoit.de",
+      "level": "official",
+      "note": "官网直接公开采购邮箱（Einkauf），优先于同页销售/通用入口；另有 vertrieb@nitoit.de、kontakt@nitoit.de。邮箱用途明确，但不代表已验证采购意愿。",
+      "sources": [
+        [
+          1,
+          "https://nitoit.de/kontakt-1/"
+        ]
+      ]
+    },
+    {
+      "code": "A-171",
+      "email": "epost@nutz.com",
+      "site": "https://nutz.com",
+      "level": "official",
+      "note": "官网 Impressum 和 Xing 公开邮箱一致；匹配 Ampfing。",
+      "sources": [
+        [
+          2,
+          "https://nutz.com/en/das-impressum-der-nutz-gmbh"
+        ],
+        [
+          1,
+          "https://www.xing.com/pages/nutzgmbh"
+        ]
+      ]
+    },
+    {
+      "code": "A-172",
+      "email": "info@oas.de",
+      "site": "https://www.oas.de",
+      "level": "official",
+      "note": "官网联系页，Bremen 总部；Imprint 指定销售营销董事 Uwe Heidbreder，仍通过公共邮箱。",
+      "sources": [
+        [
+          1,
+          "https://www.oas.de/en/contact"
+        ],
+        [
+          2,
+          "https://www.oas.de/en/imprint"
+        ]
+      ]
+    },
+    {
+      "code": "A-173",
+      "email": "office@phoenix-itsolutions.de",
+      "site": "https://www.phoenix-itsolutions.de",
+      "level": "partner-directory",
+      "note": "tricoma 官方伙伴名录明确列出 Brackenheim 地址和邮箱；第三方具名 Uwe Herczeg。不混用其他国家 Phoenix 同名公司。",
+      "sources": [
+        [
+          3,
+          "https://www.tricoma.de/Partner/Phoenix-IT-Solutions/"
+        ],
+        [
+          1,
+          "https://web2.cylex.de/firma-home/phoenix-it-solutions-it-solutions--inh--uwe-herczeg-10380885.html"
+        ]
+      ]
+    },
+    {
+      "code": "A-174",
+      "email": "berlin@pke-de.com",
+      "site": "https://www.pke-de.com",
+      "level": "partner-directory",
+      "note": "Priva 官方伙伴定位页公开 Berlin 分支邮箱及 Egellsstraße 21 地址，匹配本账号。",
+      "sources": [
+        [
+          1,
+          "https://www.priva.com/partnerfinder/pke-deutschland-gmbh-berlin"
+        ]
+      ]
+    },
+    {
+      "code": "A-175",
+      "email": "info@prego-services.de",
+      "site": "https://www.prego-services.de",
+      "level": "official",
+      "note": "自有域名 Impressum 明确列出 Ludwigshafen 分支和公司通用邮箱，非地方专属采购入口。",
+      "sources": [
+        [
+          1,
+          "https://dlcat.prego-services.de/common/impress.html"
+        ]
+      ]
+    },
+    {
+      "code": "A-176",
+      "email": "info@prinzing-elektro.de",
+      "site": "https://www.prinzing-elektro.de",
+      "level": "official",
+      "note": "官网 Frankfurt 页公开此地址；不混用同集团 Automation 法人邮箱。",
+      "sources": [
+        [
+          1,
+          "https://www.prinzing-elektro.de/frankfurt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-177",
+      "email": "kontakt@recos.de",
+      "site": "https://recos.de",
+      "level": "official",
+      "note": "官网联系页明确列出 München 地址与通用邮箱。",
+      "sources": [
+        [
+          1,
+          "https://recos.de/contact/"
+        ]
+      ]
+    },
+    {
+      "code": "A-178",
+      "email": "kontakt@selos.de",
+      "site": "https://www.selos.de",
+      "level": "official",
+      "note": "实际抓取官网首页，联系方式明确为 kontakt@selos.de，Bismarckstraße 185 Wilhelmshaven；与目录交叉吻合。",
+      "sources": [
+        [
+          1,
+          "https://www.selos.de/"
+        ]
+      ]
+    },
+    {
+      "code": "A-179",
+      "email": "info@sittig.de",
+      "site": "https://www.sittig-tech.com",
+      "level": "official",
+      "note": "官网页脚公开通用邮箱，Frankfurt；业务含公共广播、数据通信及 IP 照明，勿用招聘邮箱代替。",
+      "sources": [
+        [
+          1,
+          "https://www.sittig-tech.com/career"
+        ]
+      ]
+    }
+  ]
+}

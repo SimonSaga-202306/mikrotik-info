@@ -1,0 +1,9 @@
+# Python build artefacts - regenerated on every run, churn in every commit
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*~

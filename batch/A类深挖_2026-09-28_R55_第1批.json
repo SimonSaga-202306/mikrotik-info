@@ -1,0 +1,589 @@
+{
+ "created_on": "2026-09-28",
+ "batch": "R55 第1批",
+ "scope": "A-001–A-010 深度再发掘",
+ "records": [
+  {
+   "code": "A-001",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Puma Solutions ApS**（对外品牌 **Puma IT**），丹麦 Valby（Bjerregårdsvej 16, 2500），CVR **DK44763729**（丹麦 44 开头 CVR ≈ 2021–2022 年注册，年轻公司）。形态=**集成商+网店混合体**：MikroTik 171 个在售产品 + **UniFi 680 个在售产品**双线，配套「全国安装伙伴网+发货前预配置」交付模式（视频监控/多站点网络/办公仓储 WiFi/门禁四大方案页）。持 MTCNA+MTCRE 的丹麦认证顾问之一，强调「我们自己也天天配置这些设备」。LinkedIn/社媒：未见公开公司 LinkedIn，主要通道是官网+电话+rfi@。",
+    "芯片与在用型号": "全线 MikroTik（RouterOS 生态）+ Ubiquiti UniFi（含 UniFi Switching 类目）。芯片层：MikroTik CRS3xx/5xx 交换线多为 Marvell 98DX 系（与我方同源叙事可直接对话）；UniFi 交换线为博通系封闭生态、价格显著高于同级 Marvell 方案——**这就是价差切入位**。出货量/订单信息：未公开（私营 ApS 无披露义务），在售 SKU 计数（171/680）作活跃库存代理指标。客户反馈：未见公开评价页，官网自述「Vi siger hvilket brand der passer til opgaven, også når svaret er det, vi tjener mindst på」（品牌中立自评，我方可用）。",
+    "关键人KP": "公开面只有角色邮箱 **rfi@pumait.dk** 与双电话（首页 +45 32 33 13 12 / contactus 页 +45 60 70 90 09）。**决策人姓名未公开**——丹麦 ApS 通常业主即采购；CVR 页可查法定董事（建议跟进前查 datacvr.virk.dk 44763729 拉董事名，再按 firstname@pumait.dk 模式猜测，**当前未验证不写死**）。mx 已验：pumait.dk → Google Workspace。",
+    "关注点与资质": "①**所有权哲学**：卖「Buy once. Own forever」「Perpetual licens, ingen cloud」——反感订阅/云绑定，报价话术要对齐「一次买断、无云控」；②**发货前预配置**服务是其溢价点，我方供货页可承诺出厂刷配置/贴标；③**GDPR 标识交付**写进监控方案（合规敏感）；④价格透明需求（Priser ekskl. moms 明示）。参展/社媒痕迹未见。",
+    "优缺点SWOT": "**S**：双线现货（171+680 SKU）+全国安装伙伴网+「敢说 MikroTik 不合适」的顾问信誉；方案页做得细（pixels per meter 维度计算）。**W**：公司年轻（CVR 2021–22）、体量小、人员规模未公开，无自有品牌护城河，对 MikroTik/UniFi 两家供货高度绑定。**O**：UniFi 交换线毛利薄、价格带高 → Saga 同级 Marvell 24口PoE EXW $220 可给「自有利润池/第二品牌」；其 config-before-delivery 模式与 OEM 定制出厂配置天然咬合。**T**：UniFi/MikroTik 官方丹麦分销价格下探时第二供应商空间被挤；所有权哲学可能排拒「无品牌」货，需要样机实测背书破冰。",
+    "Saga产品适配": "首梯 **STC-424DGGPM-440W**（24×GE PoE af/at 440W，PoE 管理+watchdog，**EXW $220**）对上视频监控/门禁方案页；多站点骨干 **STC-424XGGM**（4×10G SFP+24×GE，**EXW $143**）；小站点 **STC-48DGGPM-U**（EXW $115.5）。⚠️ 商用线无 802.3bt 90W：若其高功率摄像机（PTZ 加热/射灯）超 30W，回 SmartByte `LT-S8328XGP-4XS24GT-S` 并标注「Saga 暂无对应」。报价按 EXW+15 天有效，强调一次买断无云。"
+   },
+   "kp": [
+    {
+     "name": "（法定董事待查）",
+     "role": "业主/采购决策人（推定）",
+     "contact": "rfi@pumait.dk；+45 32 33 13 12 / +45 60 70 90 09",
+     "status": "角色邮箱官网公开；姓名未公开→CVR 登记处可拉",
+     "source": "https://pumait.dk/ ・ https://www.pumait.dk/contactus"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "—",
+     "contact": "firstname@pumait.dk（待 CVR 查到董事名后套）",
+     "status": "模式猜测 · 未验证（MX 已验 Google）",
+     "source": "dns://pumait.dk/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "背景",
+     "text": "法定实体 Puma Solutions ApS，CVR DK44763729，rfi@pumait.dk 为公开联系邮箱。",
+     "quote": "PUMA SOLUTIONS APS · CVR DK44763729 · rfi@pumait.dk",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "双产品线",
+     "text": "MikroTik 171 款 + UniFi 680 款在售，交换线为两条品牌线。",
+     "quote": "MikroTik171 produkter … UniFi680 produkter",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "所有权哲学",
+     "text": "主打一次买断、无云控——报价与出货话术需对齐。",
+     "quote": "Perpetual licens, ingen cloud der skal spørges om lov, og et lettisk selskab bag softwaren.",
+     "url": "https://pumait.dk/"
+    },
+    {
+     "dim": "联系通道",
+     "text": "contactus 页给出法定地址与第二部电话。",
+     "quote": "Puma Solutions ApS - CVR: DK44763729 - Bjerregårdsvej 16, 2500 Valby - +45 60 70 90 09",
+     "url": "https://www.pumait.dk/contactus"
+    },
+    {
+     "dim": "交付模式",
+     "text": "发货前按现场图纸预配置——OEM 出厂贴标/刷配置可对口。",
+     "quote": "Vi konfigurerer efter jeres site plan, før udstyret sendes.",
+     "url": "https://pumait.dk/"
+    }
+   ]
+  },
+  {
+   "code": "A-002",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN INVEST ApS 控股，任两公司董事（2013-10 起）。公开设计外包档案自述「**one-person business**」。盈利侧：ownr.dk 载 UNIFOSS ApS 2024-25 净利 **506k DKK**、权益 475k DKK——一人公司做到 50 万丹麦克朗净利，现金流健康。模式=**设备租赁/订阅制网络运营商**：包月（375 起）含设备+更新（29/月）+维保（49/月）。案例：Erhvervshuset Midtjylland（2 万㎡仓储）、Nørgaards Højskole（骨干替换）、Kongensbro Kro（1648 年老旅馆 MESH）。",
+    "芯片与在用型号": "站点未列明设备品牌（服务化包装，硬件被租约遮蔽）；三个案例的容量/骨干/MESH 描述指向 MikroTik 或同级 PoE 交换+无线。出货量：未公开——可用租约客户数×每点 1–3 台 PoE 交换估算隐性吞量。客户反馈：三段案例引用（Lars Maretti、Nørgaards、Christian Andersen 口径均正面）。",
+    "关键人KP": "**Troels Elkjær Nørmølle**（拼写以登记为准：Nørmølle；CSV 作 Normolle）=唯一决策人。邮箱 **troels@unifoss.com**（既有）+ **info@unifoss.com**（官网页脚公开）+ 电话 +45 2279 1234。ownr 公开档案挂 LinkedIn/Facebook/Twitter 入口。MX 已验 Google Workspace。",
+    "关注点与资质": "①**长期主义**：案例话术全是「langtidsholdbar / fremtidssikrer」——设备寿命与保修年限是他对客户的承诺点（Saga 工业 3 年保可直接对上）；②可扩容/可服务性（skalerbart）；③服务协议定价成熟（SaaS 式收费，硬件成本敏感度中等——设备越便宜租约毛利越高）；④未参展痕迹，获客靠电工转介（Birger Brødløs 案例）与口碑。",
+    "优缺点SWOT": "**S**：一人决策零链条、净利健康、三个可引用案例覆盖仓储/教育/酒店、订阅模式锁客。**W**：一人=单点故障与带宽上限；无技术团队页；品牌能见度低（2020 年才做品牌重塑）。**O**：租约毛利模型下，设备降本直接增厚利润——Saga 8口 PoE EXW $99 对欧洲同级半价的吸引力直接；骨干替换案例证明他做大单。**T**：若 MikroTik/UniFi 给他体系内优惠价，第二供应商说服成本上升；一人公司采购节奏慢。",
+    "Saga产品适配": "租约盒首选 **STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 输入随附电源）；学校/仓储骨干替换对标他 Nørgaards 案例 → **STC-424XGGM**（4×10G+24GE，**EXW $143**）；旅馆 MESH 前端 PoE → **STC-48DGGPM-U**（**EXW $115.5**）。卖点对齐：「设备寿命=3 年保（工业线）/1 年（商用）+ 一次性买断，租约期内零品牌溢价」。报价 EXW 15 天有效。"
+   },
+   "kp": [
+    {
+     "name": "Troels Elkjær Nørmølle",
+     "role": "业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%）",
+     "contact": "troels@unifoss.com；info@unifoss.com；+45 2279 1234",
+     "status": "邮箱官网+CSV 双源；MX 已验",
+     "source": "https://unifoss.com/ ・ https://ownr.dk/users/public-profile/4000636356"
+    },
+    {
+     "name": "—（社媒入口）",
+     "role": "业主本人社媒",
+     "contact": "ownr 档案挂 LinkedIn/Facebook/Twitter 链接",
+     "status": "入口已见，URL 未逐一展开（点击需登录）",
+     "source": "https://ownr.dk/users/public-profile/4000636356"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "法定信息",
+     "text": "UNIFOSS ApS，CVR DK-35517111，Østerbyvej 35, 8632 Lemming，info@unifoss.com。",
+     "quote": "UNIFOSS ApS … Adresse: Østerbyvej 35, 8632 Lemming … CVR: DK-35517111",
+     "url": "http://www.unifoss.com/"
+    },
+    {
+     "dim": "股权与盈利",
+     "text": "Troels 100% 控股（TEN INVEST ApS），2024-25 净利 506k DKK。",
+     "quote": "TEN INVEST ApS Ejerandel: 100% … Det bedste regnskab i 2024-25 var et overskud på 506' DKK (UNIFOSS ApS).",
+     "url": "https://ownr.dk/users/public-profile/4000636356"
+    },
+    {
+     "dim": "一人公司",
+     "text": "品牌重塑供应商档案确认一人公司形态。",
+     "quote": "Unifoss is one-person business owned and founded by Troels E. Nørmølle.",
+     "url": "https://www.victoriataulbaek.dk/kopi-af-airshoot"
+    },
+    {
+     "dim": "商业模式",
+     "text": "设备打包进月租（375 起）+更新/维保订阅。",
+     "quote": "Lej en komplet netværksløsning – inklusiv internet. … Fra 375,- / md.",
+     "url": "https://unifoss.com/"
+    },
+    {
+     "dim": "骨干替换能力",
+     "text": "Nørgaards Højskole 案例=整网骨干替换，大单能力证据。",
+     "quote": "Udskiftning af rygraden i netværket for at håndtere den massive datamængde.",
+     "url": "https://unifoss.com/"
+    }
+   ]
+  },
+  {
+   "code": "A-003",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Iron Sentinel**（Andrew Drozd），乌克兰 Zhytomyr，MikroTik 认证顾问名录收录个体。重大变化：**官网 ironsentinel.net 当前为 Squarespace 停靠页（Coming Soon）——站点实质失效**，公司公开面近乎归零。乌克兰战时个体顾问常态：站点停运≠人停业，但公开可核信息只有名录行+邮箱 infra。",
+    "芯片与在用型号": "无可核证据（站点失效，无产品页/案例页残留可用）。顾问层惯用 MikroTik 全线。出货量/订单：未知。客户反馈：无公开渠道。",
+    "关键人KP": "**Andrew Drozd**（名录姓名）。邮箱 **support@ironsentinel.net**（CSV 既有；**MX 今日核验有效→smtp.google.com，Google Workspace 收件 infra 仍活**，说明邮箱多半仍有人收）。电话 **+380 63 418 8971**（Kyivstar 移动号段，**可试 WhatsApp/Telegram 添加验证**——乌克兰移动号社媒绑定率高，未验证不写死）。LinkedIn 搜索无确认命中。模式猜测 **andrew@ironsentinel.net**（未验证）。",
+    "关注点与资质": "无近期公开信号；名录收录本身=持证顾问（CSV 载 MTCNA 等，详见 §四）。对乌客户的敏感点：战时供电/移动覆盖/重建项目，通信器材需求仍在，但外汇与物流条款要放软。",
+    "优缺点SWOT": "**S**：决策链=本人；既有双通道（邮箱 infra 活+手机号）。**W**：公开面消亡、无法验证经营状态与规模。**O**：乌重建网络需求长尾；低量配货（小批量中性货）适合个体顾问。**T**：失联风险高（站点已死）；战时不可控。评级维持 A（联系通道仍通），但本轮优先级下调，电话/WhatsApp 先行。",
+    "Saga产品适配": "低量试水：样机 **STC-424DGGPM-280W**（EXW $165）或 8口 **STC-28DGGPM**（EXW $99）；配「5–7 工作日、50 台以下」交期条款正中个体户。⚠️ 不谈 bt。"
+   },
+   "kp": [
+    {
+     "name": "Andrew Drozd",
+     "role": "个体顾问（MikroTik 认证名录）",
+     "contact": "support@ironsentinel.net；+380 63 418 8971",
+     "status": "邮箱 MX 2026-09-28 核验有效（Google）；电话可试 WhatsApp/Telegram（未验证）",
+     "source": "dns://ironsentinel.net/MX 2026-09-28 本机核验 ・ https://mikrotik.com/consultants"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "—",
+     "contact": "andrew@ironsentinel.net",
+     "status": "模式猜测 · 未验证",
+     "source": "dns://ironsentinel.net/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "站点状态",
+     "text": "官网现为 Squarespace 停靠页，公开内容归零。",
+     "quote": "Coming Soon — ironsentinel.net",
+     "url": "https://ironsentinel.net/"
+    },
+    {
+     "dim": "名录收录",
+     "text": " MikroTik 官方认证顾问名录在册（Zhytomyr, Ukraine）。",
+     "quote": "Andrew Drozd / Iron Sentinel … Zhytomyr … 集成商/顾问（MikroTik 认证）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "MX 指向 Google Workspace，域名邮箱服务仍运行。",
+     "quote": "ironsentinel.net MX → smtp.google.com（2026-09-28 本机 dns.resolver 核验）",
+     "url": "dns://ironsentinel.net/MX"
+    }
+   ]
+  },
+  {
+   "code": "A-004",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Vitalii Potravka**，乌克兰 Kyiv，个体 MikroTik 认证顾问（名录在册），**无公司网站**。搜索到 mikrotik.coach（Mikrotik 欧洲/亚洲培训站）有「Vitalii, Kyiv」课程好评——**疑似同一人但无法证实，按未证线索登记**。通道=gmail+乌克兰手机。",
+    "芯片与在用型号": "无公开证据；个体顾问推定 MikroTik 家用/小商用线。出货量：无。",
+    "关键人KP": "**Vitalii Potravka 本人**。邮箱 **webvetal.mob@gmail.com**（CSV 既有；gmail MX 有效——Gmail 用户级有效性不可外部验证，如实标注）。电话 **+380 97 931 2131**（Kyivstar）——**移动端可试 WhatsApp/Telegram+Viber（乌常用三件套）**，未验证。mikrotik.coach 若确系其人，则其近期仍在消费 MikroTik 培训（活跃度信号）。",
+    "关注点与资质": "持 MikroTik 认证（CSV 载）；个体户的价格敏感度最高，对**小批量/样品价/直邮**最感兴趣；无发票级合规负担。无参展/社媒可核痕迹。",
+    "优缺点SWOT": "**S**：直达本人；既有回复概率高于失联公司站；小单决策快。**W**：无企业身份可核，信用与量都小；信息稀少（站点/LinkedIn 皆无）。**O**：Kyiv 重建/ISP 小单市场；样品试水成本低。**T**：战时因素与地址可行性（DHL/UPS 对乌线路需单独确认）。",
+    "Saga产品适配": "样品位：**STC-28DGGPM**（EXW $99）或 **STI-288GP**（工业非管理 8口 PoE，EXW $74.8，3 年保）——个体顾问拿得动的价位档；成单后再谈箱规。"
+   },
+   "kp": [
+    {
+     "name": "Vitalii Potravka",
+     "role": "个体顾问",
+     "contact": "webvetal.mob@gmail.com；+380 97 931 2131",
+     "status": "CSV 既有；gmail 域 MX 有效、用户级不可验；手机社媒绑定未验证",
+     "source": "客户名单_反向信号_2026-09.csv#A-004 ・ https://mikrotik.com/consultants"
+    },
+    {
+     "name": "（疑似培训站好评人）",
+     "role": "未证线索",
+     "contact": "mikrotik.coach（Kyiv 在线课程页）",
+     "status": "疑似 · 未证实",
+     "source": "https://mikrotik.coach/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "名录收录",
+     "text": "MikroTik 认证顾问名录在册个体（Kyiv）。",
+     "quote": "Vitalii Potravka … 乌克兰 Kyiv … 集成商/顾问（MikroTik 认证）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "疑似活跃信号",
+     "text": "MikroTik 培训站出现 Kyiv 的 Vitalii 好评，时间近（2026 春季课程表）。",
+     "quote": "Vitalii Kyiv — I am confident in my ability to work with MikroTik network solutions.",
+     "url": "https://mikrotik.coach/"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "gmail.com MX 正常（Google 收件簇）；用户级有效性外部不可验。",
+     "quote": "gmail.com MX: 5:gmail-smtp-in.l.google.com …（2026-09-28 本机核验）",
+     "url": "dns://gmail.com/MX"
+    }
+   ]
+  },
+  {
+   "code": "A-005",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Alain Casault, B.Ing.**（魁北克法语区，Sainte-Thérèse/Prévost 带），个体咨询公司「Télécommunications Alain Casault」=**MikroTik 官方培训+电信顾问**。履历亮点（ZoomInfo 工商画像）：**2018–2024 任 CSPE（魁北克校长联合会）信息技术副总裁**、**2023–2024 持 MikroTik Certified Trainer**。自有域 **alaincasault.com**（MX 今日核验有效：自建 mail.alaincasault.com）。⚠️ 原备案 educationhmo.com **域名已被改指到无关博客**（hex在他之前的教育系统项目域失活），但 MX 仍挂 MS365——旧邮箱 infra 未注销，按「遗产通道」处理。",
+    "芯片与在用型号": "培训+规划型顾问：课程覆盖 wired/wireless 网络规划与配置、远程接入、存储；设备层 MikroTik RouterOS 全线。他 2018–2024 管过整个校长联合会的 IT——魁北克**教育网**人脉与采购语境深（校园 VLAN/PoE 场景词汇他全懂）。出货量：不适用（顾问不囤货），但其学员=魁省 ISP/学校网络操作者，是**影响力出货通道**。",
+    "关键人KP": "**Alain Casault 本人**（业主&顾问&讲师，B.Ing. 工程师衔）。联系：电话 **1-514-394-0419**（多源一致）；邮箱既有 **casault.alain@educationhmo.com**（遗产通道，MX 活）；**模式猜测 alain@alaincasault.com / contact@alaincasault.com——自有域 MX 自建存活，首试 alain@（未验证）**。LinkedIn 未见公开档案（魁省法语老派咨询师常态）。",
+    "关注点与资质": "①**动手实操** ：其公司介绍强调 hands-on training over self-study——寄样机比寄彩页有效 10 倍；②教育网络合规与长线稳定（他卖 CSPE 时代就处理的议题）；③法语区沟通：首封英文信末尾附一句法语问候可显著提回复率（Montréal 地区商务惯例）。无参展记录；B.Ing.=魁北克工程师学会会员语境。",
+    "优缺点SWOT": "**S**：教育 IT 决策层 6 年 VP 履历+MikroTik 官方讲师背书=魁省教育/ISP 圈的**枢纽型个人**；培训班是天然带货位。**W**：一人公司、无库存能力、出货要经学员转手；公开数字足迹老旧（ZoomInfo 画像+失效域）。**O**：魁省学校网改造=L2+ Voice VLAN/VLAN-per-class 强需求；他的学员名录=间接渠道。**T**：直销链路长（顾问→学员→项目）；教育公立段如有招标资质要求需规避（只做私营/分包层）。",
+    "Saga产品适配": "讲师教学机：**STC-424DGGPM-280W**（EXW $165）让学员亲手摸 L2+ CLI（Marvell 同源叙事）；校园底盒 **STC-424XGGM**（EXW $143，VLAN-per-class+QinQ）；机架小柜 **STC-448DGGM**（EXW $220）。话术：「培训教学机批量价+出厂预刷教学配置」（对口他 hands-on 卖点）。⚠️ 公立招标段不破例，只走私营学校/ISP 学员层。"
+   },
+   "kp": [
+    {
+     "name": "Alain Casault",
+     "role": "业主/首席顾问/MikroTik 认证讲师（前 CSPE IT 副总裁）",
+     "contact": "1-514-394-0419；casault.alain@educationhmo.com（遗产）",
+     "status": "电话多源一致；遗产邮箱 MX（MS365）今日核验仍解析",
+     "source": "https://www.zoominfo.com/p/Alain-Casault/5130311306 ・ dns://educationhmo.com/MX 2026-09-28 本机核验"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "自有域邮箱",
+     "contact": "alain@alaincasault.com；备选 contact@alaincasault.com",
+     "status": "模式猜测 · 未验证（自有域 MX 自建存活，首试优先级高）",
+     "source": "dns://alaincasault.com/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "现职",
+     "text": "自营 MikroTik 培训+电信顾问公司。",
+     "quote": "Télécommunications Alain Casault specializes in providing MikroTik training and telecommunications consulting services.",
+     "url": "https://www.zoominfo.com/c/alain-casault/532760382"
+    },
+    {
+     "dim": "履历",
+     "text": "曾任 CSPE 信息技术副总裁（2018–2024）并任 MikroTik 认证讲师。",
+     "quote": "Previously, Alain was a Vice President, Information Technology at Cspe and also held positions at Mikrotik.",
+     "url": "https://www.zoominfo.com/p/Alain-Casault/5130311306"
+    },
+    {
+     "dim": "自有域",
+     "text": "个人官网域 alaincasault.com 在册，电话与 CSV 一致。",
+     "quote": "Phone number: (514) 394-0419 Website: www.alaincasault.com",
+     "url": "https://www.zoominfo.com/pic/alain-casault/532760382"
+    },
+    {
+     "dim": "遗产域失活",
+     "text": "educationhmo.com 已改指到无关法语博客，仅 MX 残存。",
+     "quote": "Hélène Marcil – Orthopédagogue – Une aide à votre portée",
+     "url": "https://educationhmo.com/"
+    },
+    {
+     "dim": "教学理念",
+     "text": "强调动手实操优于自学——样机策略成立。",
+     "quote": "The company emphasizes the importance of hands-on training over self-study methods.",
+     "url": "https://www.zoominfo.com/c/alain-casault/532760382"
+    }
+   ]
+  },
+  {
+   "code": "A-006",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Magenta Networks Inc.**，加拿大 Scarborough（多伦多东），小型 **MSP**：网络管理/服务台/咨询/网络安全/备份/云六条服务线。官网活体指标：**19 个在管站点、5 个在建项目、310 个端点**。行业覆盖 SMB/零售/医疗（合规商业段）/制造/酒店/金融。域名双持 magentanetworks.ca（站）+magentanetworks.net（邮箱域），MX 均 Google。",
+    "芯片与在用型号": "MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是第二供应商的土壤。端点构成未公开；310 端点按 SMB 均值含 ~20–40 台接入交换存量。客户反馈：未见公开评价页（站体为模板站，案例区缺）。芯片向：未见自有硬件偏好，MikroTik 认证顾问输出（CSV 载 Amir Seifi 持 MTCNA 等）→ 路由/交换以 MikroTik 系为主推定。",
+    "关键人KP": "**Amir Seifi**（推定负责人；其 MikroTik 认证名录行=CSV 源头）。邮箱公开双通道 **info@ / ops@magentanetworks.net**（contact 页「General Inquiries」「Operations & Sales」分工明示）+ 既有 support@ + 电话 +1-647-812-5170。模式猜测 **amir@ / aseifi@magentanetworks.net**（未验证）。LinkedIn 检索无确认命中（同名他行业者干扰，已如实排除）。",
+    "关注点与资质": "①服务化定价/工单化交付（helpdesk 叙述浓）；②多行业合规敏感（医疗/金融写入行业页——**只谈商用 IT 段，不碰患者数据/金融核心系统**）；③「cutting-edge tools」自我要求=愿意试新供应商样机；④营业时间 Mon–Fri 9–6。参展/社媒未见。",
+    "优缺点SWOT": "**S**：MSP 粘性强（19 站包年）→ 设备采购是持续流而非单笔；双邮箱分工=有人读采购邮件。**W**：体量小（310 端点）、模板站、无案例与团队页、LinkedIn 缺席→采购预算天花板低。**O**：制造/酒店/零售三线都是 PoE 密集业态；MSP 转售毛利诉求强 → Saga 半价带正中。**T**：Toronto 圈 MSP 密集（价格战区）；无差别开发信打开率低——要用「19 站点/310 端点」这种他自己公布的数字做开场以证明看过站。",
+    "Saga产品适配": "主梯 **STC-424DGGPM-280W**（EXW $165，SMB 站点标配）；酒店/零售小柜 **STC-28DGGPM**（EXW $99）；制造客户车间 **STI-080GE**（EXW $55 非管理）/ **STI-288GP**（EXW $74.8 PoE，3 年保）+ **STI-111GP** 光纤收发（EXW $36.3）。话术：「Toronto 仓可议/DHL 5–7 天出厂，先送一台进你 19 站之一做 30 天」。"
+   },
+   "kp": [
+    {
+     "name": "Amir Seifi",
+     "role": "负责人（推定；MikroTik 认证名录持证人）",
+     "contact": "info@magentanetworks.net；ops@magentanetworks.net；support@magentanetworks.net；+1-647-812-5170",
+     "status": "双职能邮箱官网公开；MX 已验（Google）；LinkedIn 未确认",
+     "source": "https://magentanetworks.ca/contact"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "—",
+     "contact": "amir@magentanetworks.net；aseifi@magentanetworks.net",
+     "status": "模式猜测 · 未验证",
+     "source": "dns://magentanetworks.net/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "全栈 MSP：主动监控到全委托管理。",
+     "quote": "IT Solutions for any business. Delivering comprehensive IT solutions, from proactive monitoring to full-spectrum management.",
+     "url": "https://magentanetworks.ca/"
+    },
+    {
+     "dim": "经营规模",
+     "text": "19 在管站点、5 在建项目、310 端点（官网自述）。",
+     "quote": "19 Active sites 5 ongoing projects 310 endpoints",
+     "url": "https://magentanetworks.ca/"
+    },
+    {
+     "dim": "行业覆盖",
+     "text": "SMB/零售/医疗/制造/酒店/金融六行业页。",
+     "quote": "SMBs … Retail … Healthcare … Manufacturing … Hospitality … Financial Industry",
+     "url": "https://magentanetworks.ca/"
+    },
+    {
+     "dim": "KP 通道",
+     "text": "info@ 与 ops@ 分职能公开，联系电话一致。",
+     "quote": "General Inquiries: info@magentanetworks.net … Operations & Sales: ops@magentanetworks.net … +1-647-812-5170",
+     "url": "https://magentanetworks.ca/contact"
+    }
+   ]
+  },
+  {
+   "code": "A-007",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、LinkedIn 规模档 **2–10 人**、粉丝 **2,616**（LinkedIn 运营活跃）；行业标签 Oil & Gas（阿省油服腹地）。代理墙：Red Lion/N-Tron、Phoenix Contact、HMS eWon、Moxa、Cisco、Axis、Pelco、Panasonic、Bosch、Digi、Axiomtek、Advantech、ASUS、APC/Tripp Lite、Getac……产品线覆盖 HMI/PLC/电源/安全远程接入/机器视觉/工业计算/网络连接。**增长信号：1 周前在 LinkedIn 招 Technical Sales Representative**。Red Lion 官网分销商页在册背书。",
+    "芯片与在用型号": "网络连接类目明确卖 **工业以太网交换（非管理/管理、多模单模光纤口、DIN 轨、冗余环、PoE）**——品牌 Red Lion（N-Tron/Sixnet 血统）/Phoenix/Cisco/Moxa。工业交换芯片语境：N-Tron/Red Lion 与 Moxa 多用 Marvell/Broadcom 商用 die 加固化——**与我方 Marvell 同源叙事成立**（可讲「同芯不同价」）。出货量：未公开；其 LinkedIn 发帖「we have demo units available for testing」=>常备演示库存的走量型分销。产品线卡 PDF 已定位。客户反馈：LinkedIn 2.6k 粉+34 年存续=西部渠道盘稳。",
+    "关键人KP": "公开通道 **sales@indsol.com**（官网+Red Lion 分销商页双源）+电话 780-460-9533 / 866-460-9533。招聘帖留的公司 LinkedIn 号是话题入口（评论/私信可见度高）。团队角色页显示 Inside Technical Sales & Support/Computer Technician/Shipping & Receiving 在招——**具体 KP 姓名未公开：走 sales@ 问「who runs networking line-card purchasing」**，LinkedIn 上 2–10 人规模的公司员工名单页可逐个点开（需登录，未做）。MX=MS365 有效。",
+    "关注点与资质": "①**Class 1 Div 2 危险区认证**反复出现在多类目（油气现场刚需）——⚠️ **Saga 全系无 C1D2 认证，危险区项目不可承诺，只做非危险区/控制室段（诚实边界）**；②代理官方度（Red Lion 官网收录）=他理解分销玩法，用分销语言谈（梯价/RMA/demo）；③Axis/Pelco PoE 摄像机线=PoE 预算话题现成；④Canada IC/ISED 合规以前在册产品为准。社媒：LinkedIn 周更（招聘+厂商转发），是真活跃渠道。",
+    "优缺点SWOT": "**S**：34 年渠道根基+油气自动化客群+多品牌代理经验（教我们产品无门槛）+常备 demo 文化（送测流程现成）。**W**：全员≤10 人，新增供应商管理带宽有限；N-Tron/Red Lion 归 HMS 体系后关系链深；无自营网店现货计数。**O**：**Red Lion N-Tron 8口非管理工业交换街价 $500+ vs Saga STI-280GE EXW $63.8（3 年保）——同档 5–8 倍价差的第二供应商位**；油气资本开支回暖+扩招销售=要新弹药；其客户（integrator/油田服务）对交期敏感（Saga 50 台下 5–7 工作日）。**T**：现有品牌墙若给排他压力则只能做灰色补充位；C1D2 项目段永久进不去。",
+    "Saga产品适配": "对标 N-Tron 非管理：**STI-280GE**（8GE+2SFP，**EXW $63.8**）、**STI-288GP**（PoE 版 **EXW $74.8**）；对标管理型：**STI-288DGGPM**（L2+ 8口 PoE 240W ERPS<20ms，**EXW $137.5**）；万兆上联位 **STI-480XGGM**（**EXW $253**）；介质转换 **STI-110GE**（**EXW $29.7**）；带 bt 需求（他卖 Axis PTZ 大功率）→ **STI-288DGGPM-2BT**（**EXW $154**，2×bt+6×af/at）。打法：**照抄他自己的 demo 文化——主动寄 STI-288DGGPM+STI-280GE 各 1 台进其测试台，随附 EXW 梯价表与 3 年保条款镜像**（他保 1–2 年的原厂件对比立体）。报价注明 15 天有效/不含电源光模块（工业线）。"
+   },
+   "kp": [
+    {
+     "name": "（采购/网络产品 owner 待问）",
+     "role": "网络连接类目采购决策人",
+     "contact": "sales@indsol.com；780-460-9533 / 866-460-9533",
+     "status": "官网+Red Lion 分销商页双源公开；MX（MS365）已验",
+     "source": "https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22"
+    },
+    {
+     "name": "（LinkedIn 公司号）",
+     "role": "2,616 粉；周更；当前在招 Technical Sales Rep",
+     "contact": "ca.linkedin.com/company/industrialsolutionsinc",
+     "status": "已见；私信/评论为二通道（需登录操作，未执行）",
+     "source": "https://ca.linkedin.com/company/industrialsolutionsinc"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "背景",
+     "text": "1992 年成立、2–10 人、Sherwood Park AB，LinkedIn 在册。",
+     "quote": "Company size: 2-10 employees … Headquarters: Sherwood Park, Alberta … Founded: 1992",
+     "url": "https://ca.linkedin.com/company/industrialsolutionsinc"
+    },
+    {
+     "dim": "增长信号",
+     "text": "一周前公开招聘技术销售。",
+     "quote": "We're #hiring a new Technical Sales Representative in Sherwood Park, Alberta.",
+     "url": "https://ca.linkedin.com/company/industrialsolutionsinc"
+    },
+    {
+     "dim": "工业交换阵容",
+     "text": "网络连接类目：Red Lion/Phoenix/N-TRON/Cisco/MOXA，含非管理/管理/环网/PoE。",
+     "quote": "Red Lion | Phoenix Contact | N-TRON | CISCO | MOXA … Industrial Ethernet Switches … Redundant Ring Support … Power Over Ethernet ( PoE )",
+     "url": "https://www.indsol.com/product-categories"
+    },
+    {
+     "dim": "监控线",
+     "text": "Axis/Pelco/Panasonic/Bosch 摄像机类目明示 PoE Powered。",
+     "quote": "AXIS | PELCO | Panasonic | Bosch … PoE Powered … Fixed, PTZ, Thermal, Panoramic, Explosion-Protected Cameras",
+     "url": "https://www.indsol.com/product-categories"
+    },
+    {
+     "dim": "官方背书",
+     "text": "Red Lion 官网分销商页在册（Sherwood Park, sales@indsol.com）。",
+     "quote": "Location Sherwood Park, AB T8H 0X5, Canada … Email address: sales@indsol.com Phone: +1 (866) 460-9533",
+     "url": "https://www.redlion.net/distributors/industrial-solutions-inc-22"
+    },
+    {
+     "dim": "产品线卡",
+     "text": "官网提供 2026 版 Product Line-Card PDF 下载。",
+     "quote": "Download Product Line-Card",
+     "url": "https://www.indsol.com/s/ISI-Product-Line-Card-Page-1-2026.pdf"
+    }
+   ]
+  },
+  {
+   "code": "A-008",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Tishco Networks**（tishco.ca），安大略 Niagara Falls（4551 Zimmerman Ave，预约制办公室），**2007 年创立**（官网「Since 2007」+Experts Exchange 档案 2007.03 至今相互印证）。业主 **Jody Lemoine**。定位极特殊：**「向 IT 公司批发网络服务、由他们转售给各自客户」的渠道型顾问（wholesale provisioning of networking services to IT firms for resale）**——白标/隐形交付老手，与中性包装 OEM 逻辑同构。服务半径：中小企业网到 **450+ 端点的 VPN 大网**。",
+    "芯片与在用型号": "设计交付型：路由/交换/数据安全/统一通信/无线全栈；公开自述现持 **Cisco CCDP + CCIE R&S #41436**（思科正统底子），MikroTik MTCRE（2103RE2975，2021–2024 **已过期**——他不靠 MikroTik 证吃饭，更新视需要）。技术口味=协议与架构（Experts Exchange 2009 起的技术答主、GitHub/Mastodon 在册），对 CLI/MIB/ERPS 级细节会实测拷问。出货量：未公开（项目制）。客户反馈：Experts Exchange 长期答主身份=社区信誉资产。",
+    "关键人KP": "**Jody Lemoine**（sole principal，Network Architect & Director）。邮箱 **jody.lemoine@tishco.ca**（CSV）+ **contact@tishco.ca**（官网公开）+ 电话 +1 905 378-1134。社媒矩阵罕见地全：**blog ghostinthenet.info（MX easydns 活）、GitHub @ghostinthenet、Mastodon @ghostinthenet@hachyderm.io、Bluesky @ghostinthenet.bsky.social、LinkedIn ca.linkedin.com/in/jodyl（500+）**——技术圈触点极多，冷启动邮件可引用其公开文章立场。⚠️ 敏感备注：他还任加拿大军校学员团 809 中队 Commanding Officer（CIC，2011.09 至今，公开履历）——**仅作背景知悉，任何话术不得利用/提及军警身份**。",
+    "关注点与资质": "①**技术至上**：CCIE 级买家，彩页进不了门，要 datasheet/CLI 手册/MIB/实测窗口（180 天送测他都嫌短的话给远程 lab）；②白标可交付性（他把服务批发给别的 IT 公司——中性包装、双 branding、无原厂水印正中其需）；③可维护性/可持续（「sustainable»elegant»scalable」是他自我标签）；④预约制办公室=低接待成本运营，邮件异步沟通为主。",
+    "优缺点SWOT": "**S**：CCIE+19 年店+批发式渠道（他一个 KP 身后挂着一串 IT 公司客户=**一对多放大器**）；中性货需求语义他天然懂。**W**：极度挑剔的技术评估（Marvell 特性表不全会当场露馅）；单人带宽；MikroTik 证书过期说明他对品牌不忠诚=对供应商也不忠诚。**O**：他的转售客户群=我们做「隐形第二供应商」的最佳掩体；450 端点 VPN 大网项目证明他能吞下企业级量。**T**：Cisco/MikroTik 存量偏好；打不进嘴炮型采购话题，只能靠实测口碑慢热。",
+    "Saga产品适配": "评测机组合：**STC-424XGGPM-440W**（24口 PoE+4×10G，**EXW $264**，L2+ 全特性：ERPS<20ms/QinQ/Private VLAN/Voice VLAN/sFlow/MQTT——CCIE 会逐条试，特性表据实给全）+ **STI-480XGGM**（工业 8口 4×10G，**EXW $253**，ERPS 环形拓扑）+固件特性表原文（L2+/L3 两版）。话术：工程师对工程师，「spec sheet 两页内回复，180 天 nfr（not-for-resale）样机」；OEM 贴牌/中性包装写进首封信。⚠️ 被他抓包虚标=永久出局，只承诺特性表已有的行。"
+   },
+   "kp": [
+    {
+     "name": "Jody Lemoine",
+     "role": "业主/Network Architect（CCDP, CCIE R&S #41436；MTCRE 2103RE2975 已于 2024-03 过期）",
+     "contact": "jody.lemoine@tishco.ca；contact@tishco.ca；+1 905 378-1134",
+     "status": "双邮箱其一官网公开；MX（Google）已验",
+     "source": "https://www.tishco.ca/"
+    },
+    {
+     "name": "Jody Lemoine（社媒层）",
+     "role": "技术社区身份 ghostinthenet",
+     "contact": "blog ghostinthenet.info；GitHub/Mastodon/Bluesky @ghostinthenet；LinkedIn /in/jodyl",
+     "status": "多平台公开身份已核（GitHub 简介互链）",
+     "source": "https://github.com/ghostinthenet ・ https://www.experts-exchange.com/members/jodylemoine.html"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "经营历史",
+     "text": "2007 年起经营网络设计与实施。",
+     "quote": "Since 2007, tishco networks has offered business-focused network design and implementation services.",
+     "url": "https://www.tishco.ca/"
+    },
+    {
+     "dim": "联系",
+     "text": "contact@tishco.ca 公开；Niagara Falls 预约制办公室。",
+     "quote": "contact@tishco.ca … +1 (905) 378-1134 … 4551 Zimmerman Avenue, Niagara Falls, Ontario L2E 3M5 … In-person meetings by appointment only.",
+     "url": "https://www.tishco.ca/"
+    },
+    {
+     "dim": "渠道定位",
+     "text": "向 IT 公司批发网络服务、由对方转售——白标交付结构。",
+     "quote": "a consulting firm specializing in the wholesale provisioning of networking services to IT firms for resale to their respective clientele",
+     "url": "https://www.experts-exchange.com/members/jodylemoine.html"
+    },
+    {
+     "dim": "技术资历",
+     "text": "现持 Cisco CCDP 与 CCIE R&S（41436）。",
+     "quote": "In addition, I maintain current Cisco CCDP and CCIE R&S (41436) certifications.",
+     "url": "https://www.experts-exchange.com/members/jodylemoine.html"
+    },
+    {
+     "dim": "MTCRE 状态",
+     "text": "MTCRE 2103RE2975（2021-03 发、2024-03 到期）。",
+     "quote": "MikroTik Certified Routing Engineer … Issued Mar 2021 Expires Mar 2024 Credential ID 2103RE2975",
+     "url": "https://www.linkedin.com/in/jodyl/"
+    },
+    {
+     "dim": "社媒矩阵",
+     "text": "ghostinthenet 跨 GitHub/Mastodon/Bluesky 同名在册。",
+     "quote": "@ghostinthenet@hachyderm.io … @ghostinthenet.bsky.social",
+     "url": "https://github.com/ghostinthenet"
+    }
+   ]
+  },
+  {
+   "code": "A-009",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/Helpdesk/Managed IT/Backup/**VoIP Solutions**/Virtualization/Cloud/Remote Work，口号「Expert MikroTik solutions」。© 2019 起运营；2024 年做了一波 AI 生成 logo 的品牌刷新。营业 7 天 9–18=个体户节奏。",
+    "芯片与在用型号": "自我标榜 MikroTik 专家站（RouterBOARD/CRS 语境），MSP 多技术栈。VoIP 方案在售=**Voice VLAN+QoS 是他的交付日常**——Saga L2+ 系独占 Voice VLAN（L3 系没有，推介不可张冠李戴）。出货量：未公开。客户反馈：站无案例区。",
+    "关键人KP": "**MohammadMahdi（Mahdi）Raeesi**：LinkedIn 档案「MikroTik consultant @ wirelessnetware」（Richmond Hill，173 连接，MTCNA 1311NA033 2013–2016 已过期，Payam Noor 大学）——**与 A-010 Wireless Netware 有供职交集（知悉备查，沟通不刺探）**。联系：**admin@commanderit.ca**（官网公开）+ 647-562-2246；模式猜测 **mahdi@commanderit.ca**（未验证；commanderit.ca MX=A 记录同主机自托管，小站自建邮服，投递信誉一般——首封进垃圾箱概率高，电话跟进必要性大）。",
+    "关注点与资质": "①VoIP+数据并网（SMB 一线多用）——Voice VLAN 话术正中；②7×9-18 营业=响应型客户画像，也提示他看手机=fallback 电话有效；③品牌意识刚起步（AI logo）=对 OEM 贴牌/自定义 branding 接受度高（Saga 定制 branding 条款可对）。参展未见；LinkedIn 个人页更新少。",
+    "优缺点SWOT": "**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。",
+    "Saga产品适配": "首梯 **STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。"
+   },
+   "kp": [
+    {
+     "name": "MohammadMahdi（Mahdi）Raeesi",
+     "role": "业主/MikroTik 顾问（前 wirelessnetware 供职记录）",
+     "contact": "admin@commanderit.ca；647-562-2246",
+     "status": "官网公开邮箱+电话；姓名-公司关联经 LinkedIn 核验",
+     "source": "https://commanderit.ca/ ・ https://www.linkedin.com/in/mahdi-raeesi-4195173b/"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "—",
+     "contact": "mahdi@commanderit.ca",
+     "status": "模式猜测 · 未验证（自托管邮服，建议电话先行）",
+     "source": "dns://commanderit.ca/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "定位",
+     "text": "MikroTik 专家型 MSP，多行业服务。",
+     "quote": "Expert MikroTik solutions for seamless connectivity. Specializing in robust networks, data security, and services for diverse industries.",
+     "url": "https://commanderit.ca/"
+    },
+    {
+     "dim": "服务线",
+     "text": "菜单含 VoIP Solutions（Voice VLAN 场景锚点）。",
+     "quote": "Services - Network Management - Remote Support - Helpdesk Services - Managed IT Support - Data Backup Strategies - VoIP Solutions - Virtualization - Cloud Services - Remote Work Solutions",
+     "url": "https://commanderit.ca/"
+    },
+    {
+     "dim": "通道",
+     "text": "7 天 9–18 营业，admin@ 与电话公开。",
+     "quote": "Richmnd Hill, Markham … +1 (647) 562-2246 … 7 days a week from 9:00 am to 6:00 pm … admin@commanderit.ca … © 2019 CommanderIT",
+     "url": "https://commanderit.ca/"
+    },
+    {
+     "dim": "KP 身份",
+     "text": "Mahdi Raeesi LinkedIn：MikroTik consultant（Richmond Hill），MTCNA 1311NA033。",
+     "quote": "Mahdi Raeesi - Mikrotik consultant - wirelessnetware … Location: Richmond Hill … MTCNA Mikrotik Issued Nov 2013 Expires Nov 2016 Credential ID 1311NA033",
+     "url": "https://www.linkedin.com/in/mahdi-raeesi-4195173b/"
+    }
+   ]
+  },
+  {
+   "code": "A-010",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Wireless Netware Technology**，Markham ON（货从 Toronto 仓发，IC 认证库存），**2011 年创立**、LinkedIn 规模 2–10 人、388 粉。自我定位 **「Value-Added MikroTik Master Distributor」**+**加拿大首位 MikroTik 官方培训师**（2017-04 授牌）+MikroTik 动力托管机房。副业务：**Bell/Rogers 批发上网服务转售**、SYNOXX 光模块与 **Wirelessnetware 自主牌网络器材**（贴牌资产已存在！）。Facebook 同名在册。",
+    "芯片与在用型号": "全系 MikroTik（RouterOS/SwitchOS 专家，MTCNA/MTCRE 培训课程常态排期）；自有品牌光学件 SYNOXX（SFP/SFP+/QSFP28/QSFP-DD 全档）——**证明其已打通中国/亚洲 OEM 贴牌供应链（光模块贴牌→交换贴牌是自然延伸）**。出货量：未公开；「Full MikroTik Range In Stock」+Toronto 仓=现货分销体量。客户反馈：LinkedIn 推荐语（Sarah Kerr：业内最懂的人之一）；学员评价常态。",
+    "关键人KP": "**Hani Rahrouh**（President, CEO & MikroTik Coordinator；加拿大首位官方 MikroTik 培训师；LinkedIn /in/hani-rahrouh-38019521，5K 粉、周更：Markham Board of Trade 活动、培训课程预告）。邮箱 **info@wirelessnetware.ca**（公开）+ 电话 +1 647 477 0163；模式猜测 **hani@wirelessnetware.ca**（未验证；pattern=firstname@ 与其家族式命名相符需验证）。渠道角色决定：**他是买手+培训双身份，见面先谈分销梯价与贴牌 MOQ**。",
+    "关注点与资质": "①**IC/ISED 认证**（首页头牌「IC Certified Products」——⚠️ Saga 现证为 FCC/CE/UKCA 族，加拿大 IC 多为认可 FCC 报告或需补 ISED，**报价前必须核实 IC 适用性并在信中如实处理**，这是加拿大零售/培训教具的门槛）；②培训教具批量（MTCNA/MTCRE 班期稳定=教具箱规需求）；③光模块贴牌伙伴升级路径（SYNOXX 交换/工业交换贴牌）；④Bell/Rogers 批发线=ISP 级 VLAN/QinQ 语境（L2+ flow-based QinQ 可对）。社交：LinkedIn/Facebook 双活跃，本地商会（Markham Board of Trade）刷脸型。",
+    "优缺点SWOT": "**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。",
+    "Saga产品适配": "①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424DGGPM-280W**（EXW $165，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。"
+   },
+   "kp": [
+    {
+     "name": "Hani Rahrouh",
+     "role": "President & CEO / MikroTik Coordinator（加拿大首位官方培训师）",
+     "contact": "info@wirelessnetware.ca；+1 647 477 0163",
+     "status": "官网公开；LinkedIn 5K 粉周更（可双通道）",
+     "source": "https://ca.linkedin.com/company/wireless-netware ・ https://wirelessnetware.ca/"
+    },
+    {
+     "name": "—（模式猜测）",
+     "role": "—",
+     "contact": "hani@wirelessnetware.ca",
+     "status": "模式猜测 · 未验证（MX Google 已验）",
+     "source": "dns://wirelessnetware.ca/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "定位",
+     "text": "加拿大授权 MikroTik 分销+Toronto 仓现货，IC 认证。",
+     "quote": "Wireless Netware Technology is Canada's authorized MikroTik reseller, stocking the full range … All products are IC Certified for Canadian use and ship from our Toronto warehouse",
+     "url": "https://wirelessnetware.ca/"
+    },
+    {
+     "dim": "背景",
+     "text": "2011 年成立、2–10 人、Markham，LinkedIn 在册。",
+     "quote": "Value-Added MikroTik Master Distributor … Company size: 2-10 employees … Headquarters: Markham, Ontario … Founded: 2011",
+     "url": "https://ca.linkedin.com/company/wireless-netware"
+    },
+    {
+     "dim": "特项",
+     "text": "培训 partner + Bell/Rogers 批发上网转售 + The Dude 顾问。",
+     "quote": "MikroTik Certified Trainer Partner, Bell Wholesale Internet Service, Rogers Wholesale Internet Service, MikroTik Consultant, and The-Dude Consultant",
+     "url": "https://ca.linkedin.com/company/wireless-netware"
+    },
+    {
+     "dim": "自有品牌",
+     "text": "已有 SYNOXX 光模块与 Wirelessnetware 牌器材=贴牌路径已通。",
+     "quote": "Looking for SYNOXX optical transceivers or Wirelessnetware-branded networking gear? We carry those too — all in one place.",
+     "url": "https://wirelessnetware.ca/"
+    },
+    {
+     "dim": "KP",
+     "text": "Hani Rahrouh 任 President/CEO/MikroTik Coordinator。",
+     "quote": "Hani Rahrouh President, CEO, and MikroTik Coordinator @ Wireless Netware Technology | MikroTik Certified Trainer",
+     "url": "https://ca.linkedin.com/company/wireless-netware"
+    },
+    {
+     "dim": "口碑",
+     "text": "同行推荐：业内最懂的人之一。",
+     "quote": "I've done Mikrotik training & collaboration with Hani. Hes one of the most knowledgeable people in the industry.",
+     "url": "https://www.linkedin.com/in/hani-rahrouh-38019521/"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "created_on": "2026-09-28",
+ "batch": "R55 第2批",
+ "scope": "A-011–A-020 深度再发掘",
+ "records": [
+  {
+   "code": "A-011",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Yvan Laverdière**，加拿大魁北克 Rouyn-Noranda。**Cégep de l'Abitibi-Témiscamingue 计算机技术教授（Techniques de l'informatique），2008 年入职至今 18 年**；此前任 Vidéotron（魁北克电信运营商）系统管理员，兼具运营商+教育双履历。LinkedIn 已定位（in/yvan-laverdiere-30898496）。MikroTik 认证顾问持 5 证（MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE）——交换（SWE）与互联（INE）双修的技术型教师。⚠️ **公立学院身份**：跟进严格限定其私人顾问/教学实验语境，不谈学院机构采购。",
+    "芯片与在用型号": "教学+顾问双场景 MikroTik 全线（RouterOS 教学实验床=长期设备消耗口）；电信系统管理员出身=接入层/汇聚层语境母语。学院实验室设备归属机构预算（不碰）；其私人顾问项目与教学演示机为可做面。出货量/订单：无公开。客户反馈：2020 年省内教师联名信签署记录佐证其活跃教师身份。",
+    "关键人KP": "**Yvan Laverdière 本人**。邮箱 **yvan.laverdiere@cegepat.qc.ca**（CSV 既有，学院 MS365 MX 今日核验有效）；电话：CSV 手机 819-763-1411 / 校办总机（ZoomInfo）(819) 762-0931。LinkedIn 页已见（可二通道）。法语沟通优先。",
+    "关注点与资质": "①教学实操优先（实验床/学生可摸的设备）；②公立雇员合规敏感（利益冲突回避——首封即声明**只谈私人顾问与自费教具**，不涉学院采购流程）；③法语区（魁北克 Abitibi 偏远地区，ISP 小客户多）；④5 证体系=接受技术深度对话。参展/社媒：未见公开痕迹。",
+    "优缺点SWOT": "**S**：18 年教职的稳定性+运营商履历+SWE/INE 高阶双证=能听懂全部 Marvell 特性叙事；教具需求年年有。**W**：公立身份=商业动作慢、合规顾虑重；个人顾问体量小；偏远地区物流。**O**：教学样机（学生实验交换机组网）、其私营顾问单（地区中小企业）；学院暑期实验室更新若走公开采购则回避、由他自己评估。**T**：公立合规红线一旦踩错=连私人线一起丢；回复周期以学期节奏计。",
+    "Saga产品适配": "教学实验床：**STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**，L2+ 全特性给学生演示 VLAN/ERPS/QinQ/sFlow）；私人顾问小单：**STC-28DGGPM**（**EXW $99**）。话术：法语落款+「自费教具 NFR 价、工业 3 年保/商用 1 年保如实、15 天有效」；L2+ 特性表（Marvell AC5 Lite）随附——SWE 持证者自己会读出价值。"
+   },
+   "kp": [
+    {
+     "name": "Yvan Laverdière",
+     "role": "Cégep 计算机技术教授（2008–今）/ MikroTik 认证顾问（5证）",
+     "contact": "yvan.laverdiere@cegepat.qc.ca；819-763-1411（手机）；(819) 762-0931（校办）",
+     "status": "邮箱既有；学院 MX（MS365）已验；LinkedIn 页已见",
+     "source": "https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842 ・ https://www.linkedin.com/in/yvan-laverdiere-30898496"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "身份",
+     "text": "Cégep de l'Abitibi-Témiscamingue 教授（2008 至今）。",
+     "quote": "Yvan Laverdiere is a Professor at Cégep de l'Abitibi-Témiscamingue based in Rouyn Noranda, Quebec … Cégep de l'Abitibi-Témiscamingue … 2008-present (18 years)",
+     "url": "https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842"
+    },
+    {
+     "dim": "履历",
+     "text": "曾任 Vidéotron 系统管理员。",
+     "quote": "Previously, Yvan was a System Administrator at Videotron and also held positions at Comite Municipal De Laniel.",
+     "url": "https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842"
+    },
+    {
+     "dim": "学科确认",
+     "text": "计算机技术学科教授。",
+     "quote": "Yvan Laverdière, professeur en Techniques de l'informatique, Cégep de l'Abitibi-Témiscamingue",
+     "url": "https://seeclg.org/wp-content/uploads/2020/11/liste-des-signataires-lettre-ouverte-cegeps.pdf"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "学院域 MX 指向 MS365，邮箱 infra 有效。",
+     "quote": "cegepat.qc.ca MX → cegepat-qc-ca.mail.protection.outlook.com（2026-09-28 本机核验）",
+     "url": "dns://cegepat.qc.ca/MX"
+    }
+   ]
+  },
+  {
+   "code": "A-012",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Balázs Meretei**（圈内名 **NoXy**），匈牙利 Kecskemét 独立网络顾问。个人技术博客 meretei.hu（2015–2024 持续发帖：IANA 协议号备忘、IPsec DH-group、PKCS12/openssl、Cisco NTP 夏令时配置备忘——**Cisco 与 MikroTik 双栈实操者**）。另在匈牙利 MikroTik 装备店 **wireless-bolt.hu 讲授 MTCNA 课程**（第三方授课记录）。持 5 证含 MTCSWE+MTCSE（交换+安全双专向）。",
+    "芯片与在用型号": "Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本（写过 import 即用的 facebook.rsc 生成 bash 脚本）——**自动化与 CLI 深度用户**，对芯片层话题（Marvell 同源）听得懂。其交换笔记覆盖 STP/NTP 等 L2 运维痛点=与我方 L2+ 特性表语境重合。出货量：无（顾问）。客户反馈：博客形态即其作品集。",
+    "关键人KP": "**Balázs Meretei 本人（NoXy）**。邮箱 **balazs@meretei.hu**（CSV 既有；自有域 MX flash-net.hu 今日核验有效）；电话 +36 30 999 9900。LinkedIn 未见确认档案（技术博客型人格）。无需猜测邮箱——实名自有域。",
+    "关注点与资质": "①证书运维痛点自述（每年 cert 更新流程吐槽=时间敏感型实操者）；②实用主义脚本复用（我写我用）；③swap Cisco↔MikroTik 双语境迁移类项目（企业把思科换 MikroTik 时找他=**交换机替换项目入口人**！）；④匈牙利语沟通。社媒：无，纯博客。",
+    "优缺点SWOT": "**S**：双栈迁移经验=替换案场的天然买手；自有域实名深技术；教学出镜（wireless-bolt 课）带流量。**W**：一人低频运营、无公司外壳；采购自己动手量小。**O**：Cisco→MikroTik/白牌迁移项目潮里，给他一台可放实验室的 Saga 交换=进入其方案推荐清单的门票；MTCSWE 持证=ERPS/QinQ 特性可深聊。**T**：玩家型顾问忠诚度靠技术信服度；他对虚标零容忍（同 A-008 类型）。",
+    "Saga产品适配": "实验室置换机：**STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 随附电源）+ 进阶 **STI-480XGGM**（工业 L2+ 8口 4×10G ERPS<20ms，**EXW $253**）。话术：工程师对工程师，附 L2+ 特性表原文（<20ms ERPS、Private VLAN、QinQ、MQTT/sFlow）与「出厂可刷预配置」；注明 af/at 上限，不夸大 bt。"
+   },
+   "kp": [
+    {
+     "name": "Balázs Meretei（NoXy）",
+     "role": "独立顾问/wireless-bolt.hu 客座 MTCNA 讲师",
+     "contact": "balazs@meretei.hu；+36 30 999 9900",
+     "status": "自有域邮箱既有；MX（flash-net.hu）已验",
+     "source": "https://meretei.hu/ ・ https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "双栈实操",
+     "text": "Cisco 交换 NTP/夏令时配置笔记（双栈证据）。",
+     "quote": "Switch(config)#ntp server 148.6.0.1 … Switch(config)#clock summer-time CEST recurring last Sun Mar 02:00 last Sun Oct 03:00",
+     "url": "https://meretei.hu/"
+    },
+    {
+     "dim": "教学出镜",
+     "text": "wireless-bolt.hu 的 MTCNA 课程由 Meretei Balázs 授课。",
+     "quote": "A képzést Meretei Balázs tartja.",
+     "url": "https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes"
+    },
+    {
+     "dim": "脚本能力",
+     "text": "写过 MikroTik 配置自动生成脚本（facebook.rsc 生成器）。",
+     "quote": "A mellékelt bash script bármilyen Linux/MAC gépen futtatva generál egy facebook.rsc fájlt, amit csak importálni kell a MikroTik routerbe.",
+     "url": "https://meretei.hu/facebook-tiltasa-mikrotik-routerrel/"
+    },
+    {
+     "dim": "痛点自述",
+     "text": "年度证书更新流程常忘——时间敏感实操者画像。",
+     "quote": "Évente mikor lejárnak a certek mindig elfelejtem hogyan is kellett PKCS12-t generálni",
+     "url": "https://meretei.hu/"
+    }
+   ]
+  },
+  {
+   "code": "A-013",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**László Kalapos / MindenamiMikrotik**，匈牙利 Miskolc。**匈牙利第一位 MikroTik Certified Trainer**（2009 授证、2010 起授课）——站点自述战绩：**350+ 场培训、约 3000 人次通过考试、20 年 MikroTik 经验、16 年教龄**。mindenamimikrotik.hu=完整培训电商：直播课（élő tanfolyamok）+视频课（online klub）+产品支持服务+自著电子书《Vezeték nélkül, egyszerűen》（无线，简单化）+Network Online 网络基础课；2026 年新挂 milpay 横幅（新业务线酝酿）。站点 2026-05 仍活跃更新。",
+    "芯片与在用型号": "RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教具消耗+课程推荐位双重价值。其电子书与基础课面向初学者=匈牙利 MikroTik 入口守门人。出货量：教具批次+学员引导去向（不可追踪，尊重红线不打探）。客户反馈：课页学员感言摘录（「Többé nem félek hozzányúlni a beállításokhoz」——再也不怕碰配置）=教学口碑资产。",
+    "关键人KP": "**Kalapos László 本人**。邮箱 **info@mindenamimikrotik.hu**（官网公开；MX nethely.hu 今日核验有效）+ 电话 +36 20 295 6414。公开身份「Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója」（匈牙利首位持证培训师）。LinkedIn 未见（个人品牌站即门面）。",
+    "关注点与资质": "①**匈牙利第一培训师**品牌=他最大的资产，任何合作都不能稀释其 MikroTik 官方感；②教学工业化（视频课+基础课漏斗）；③学员成果导向（3000 通过数是硬指标）；④⚠️ **教师红线纪律（R54 既定）**：不经培训语境向学员推销、不打学员名单、只谈他本人的教学硬件与自有工程。参展：培训即其展场。",
+    "优缺点SWOT": "**S**：一国 MikroTik 教学垄断位+3000 学员长尾影响力+站点内容工业化成熟。**W**：教师身份=商业合作边界窄；个人品牌依赖 MikroTik 官方关系。**O**：**教具更新潮**（课程设备换代：24口 PoE 教具箱）+他本人工程/演示自购机——这是红线内全部可做面；milpay 新业务若落地含线下收银/门店网络（2026-02 横幅起步，观察）。**T**：官方培训体系竞争与政策变化；红线踩错永久失信。",
+    "Saga产品适配": "教具箱（红线内，自述教学用途）：**STC-424DGGPM-280W**（**EXW $165**，L2+ 全套特性=MTCSWE 级演示素材：ERPS<20ms/Private VLAN/QinQ）+ 入门 **STC-28DGGPM**（**EXW $99**）。随附 L2+/L3 特性表原文说明 Voice VLAN 仅在 L2+ 系（教学避坑点）。绝不主动要学员数据、不给课程联名报价。"
+   },
+   "kp": [
+    {
+     "name": "Kalapos László",
+     "role": "匈牙利首位 MikroTik Certified Trainer（2009）/ 培训站主",
+     "contact": "info@mindenamimikrotik.hu；+36 20 295 6414",
+     "status": "官网公开；MX（nethely.hu）已验",
+     "source": "https://mindenamimikrotik.hu/ ・ https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "头部地位",
+     "text": "匈牙利首位 MikroTik 认证培训师自证。",
+     "quote": "Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója. 2010 óta tartok élő képzéseket",
+     "url": "https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/"
+    },
+    {
+     "dim": "战绩",
+     "text": "350+ 场、约 3000 人次通过、20 年 MikroTik 经验。",
+     "quote": "Összes képzés: 350+ … Összes sikeres vizsga: ~3000 … MikroTik-es tapasztalat: 20 év",
+     "url": "https://mindenamimikrotik.hu/mikrotik-alapozas/"
+    },
+    {
+     "dim": "业务范围",
+     "text": "直播课+视频课+产品支持+电子书+基础课全线。",
+     "quote": "Élő MikroTik tanfolyamok … Videós MikroTik tanfolyamok … Segítség, terméktámogatás … Vezeték nélkül, egyszerűen - ebook … Network Online - hálózati alapozó tananyag",
+     "url": "https://mindenamimikrotik.hu/"
+    },
+    {
+     "dim": "学员口碑",
+     "text": "课页学员感言。",
+     "quote": "Többé nem félek hozzányúlni a beállításokhoz – most már átlátom a rendszert, és ki fogom hozni belőle a legtöbbet.",
+     "url": "https://mindenamimikrotik.hu/mikrotik-alapozas/"
+    }
+   ]
+  },
+  {
+   "code": "A-014",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Tamás Gajdos**（1988 生），匈牙利 Szeged 个体顾问（公开名录 5 证：MTCNA+MTCRE+MTCWE+MTCINE+MTCIP）。GitHub **gajdipajti** 自述**就职 Furukawa Electric Institute of Technology**（古河电工在匈研发机构），自称「barefoot physicist (+PhD)」——物理+信息学双背景（塞格德大学物理系主页存档），**四门语言：匈牙利语/英语/塞尔维亚语/德语**。RouterOS 开源作者：wg-routeros-network（WireGuard 网络生成器）、mikrotik-certified-padawan（MikroTik 认证学员配置组）。2008 年曾赴贝尔格莱德 S&T 培训（塞语境+多语=巴尔干项目沟通无障碍）。",
+    "芯片与在用型号": "RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验室仪器+sysadmin 日常（munin 插件 fork）；Furukawa 圈=光通信/大企业研发环境（布线与光器件语境）。出货量：无（雇员+侧咨询）。客户反馈：GitHub 26 星的 munin 插件=社区小有认可。",
+    "关键人KP": "**Gajdos Tamás 本人**。邮箱 **crowbarlabs@outlook.com**（CSV 既有；outlook.com MX 有效）+ 电话 +36 30 243 2729；GitHub @gajdipajti（可 issue/私讯二通道）；（大学旧页 gajdos.tamas@stud.u-szeged.hu 为历史邮箱不投）。LinkedIn 未见。",
+    "关注点与资质": "①开源/自动化优先（会读源码的买家，给他 MIB/CLI 文档比彩页有用）；②WireGuard/IPv6 新协议兴趣（MTCIP 持证佐证）；③多语人脉（塞/德/英）；④学术严谨=虚标零容忍。参展/社媒：GitHub 即社媒。",
+    "优缺点SWOT": "**S**：极客深度+多语+大厂研发履历=完美技术对话者；MTCINE/IP 高阶证=能评估 L3 边界。**W**：侧咨询属性=采购主动权弱、量小；outlook 个人邮无商务外壳。**O**：实验室级样机（STI 工业线 10G 环/ERPS 玩具属性正中）；Furukawa 产业圈的长尾可能（不主动刺探雇主项目，只谈个人）。**T**：雇员身份决定响应慢、成交偶发。",
+    "Saga产品适配": "技术玩家样机：**STI-480XGGM**（工业 L2+ 8口 4×10G，**EXW $253**，ERPS<20ms 环网自测）+ **STC-424XGGM**（**EXW $143**，L2+/L3 两档对比实验）。随附特性表与「L3 系无 Voice VLAN/PC3 无 HTTPS」的诚实边界说明——这种买家最吃如实标注。"
+   },
+   "kp": [
+    {
+     "name": "Gajdos Tamás",
+     "role": "个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述）",
+     "contact": "crowbarlabs@outlook.com；+36 30 243 2729；GitHub @gajdipajti",
+     "status": "邮箱既有；MX（outlook.com）已验；GitHub 身份已核",
+     "source": "https://github.com/gajdipajti ・ http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "现职",
+     "text": "GitHub 资料：Furukawa Electric Institute of Technology，Szeged。",
+     "quote": "Gajdos Tamás gajdipajti - Furukawa Electric Institute of Technology - Szeged, Hungary",
+     "url": "https://github.com/gajdipajti"
+    },
+    {
+     "dim": "开源作品",
+     "text": "RouterOS WireGuard 网络生成器等开源项目作者。",
+     "quote": "wg-routeros-network Public Tools for generating a Wireguard network for Mikrotik RouterOS … mikrotik-certified-padawan Public Mikrotik Certified Padawan group Mikrotik configurations.",
+     "url": "https://github.com/gajdipajti"
+    },
+    {
+     "dim": "自述画像",
+     "text": "物理+PhD、仪器与 sysadmin 方向。",
+     "quote": "A barefoot physicist (+PhD), I've never been much of a coder … Lab instruments, sysadmin stuff, munin love.",
+     "url": "https://github.com/gajdipajti?tab=stars"
+    },
+    {
+     "dim": "语言能力",
+     "text": "匈/英/塞/德四语。",
+     "quote": "Spoken Languages: Hungarian, English, Serbian, German",
+     "url": "http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html"
+    }
+   ]
+  },
+  {
+   "code": "A-015",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Goran Stojkovic**，塞尔维亚 Ćuprija 个体 MikroTik 顾问（MTCNA+MTCTCE 两证）。无网站、无 LinkedIn 命中；邮箱挂本土 ISP **Beotel** 域（intercom@beotel.net，MX assp.beotel.net 今日核验有效），电话 +381 35 847 7077 为 Ćuprija 固话段。公开画像极简。⚠️ **R32 既定纪律：塞尔维亚属暂定低投入小国**——档案深挖照做，外联投入降级、不发多封。",
+    "芯片与在用型号": "顾问语境 MikroTik；塞尔维亚 WISP/小 ISP 市场 MikroTik 渗透率高，接入层小盒子为常态消耗。出货量/客户反馈：无公开。",
+    "关键人KP": "**Goran Stojkovic 本人**。邮箱 intercom@beotel.net（既有；MX 有效）+ 电话 +381 35 847 7077（固话）。无可猜邮箱素材（ISP 域非自有）。手机未见——固话为主，拨打注意时区与语言（塞语/英语）。",
+    "关注点与资质": "①价格极敏感（巴尔干小微市场常态）；②TC 流量控制证=QoS/带宽管理语境熟（WISP 计费/整形活）；③无公开社媒/参展痕迹。",
+    "优缺点SWOT": "**S**：直达个体、证件对口接入层话题。**W**：公开信息近乎零（站/LinkedIn 皆无）、固话联系摩擦大、R32销售投入降级。**O**：低成本样机维持弱连接（等待 WISP 小单信号）。**T**：小国小市场的自然低产出；邮件送达率一般（本土 ISP 邮服）。",
+    "Saga产品适配": "弱连接样机位：**STI-288GP**（工业非管理 8口 PoE af/at 250m 延伸，**EXW $74.8**，3 年保）或 **STC-28DGGPM**（**EXW $99**）。一封短英文信+型号对价目即可，不做序列跟进外的额外动作（遵守 R32）。"
+   },
+   "kp": [
+    {
+     "name": "Goran Stojkovic",
+     "role": "个体顾问（MTCNA+MTCTCE）",
+     "contact": "intercom@beotel.net；+381 35 847 7077（固话）",
+     "status": "邮箱既有；MX（assp.beotel.net）已验",
+     "source": "客户名单_反向信号_2026-09.csv#A-015 ・ dns://beotel.net/MX 2026-09-28 本机核验"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "名录收录",
+     "text": "MikroTik 认证顾问名录在册（Ćuprija, Serbia，MTCNA+MTCTCE）。",
+     "quote": "Goran Stojkovic … 塞尔维亚 Ćuprija … MikroTik 认证顾问 MTCNA+MTCTCE",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "Beotel 邮服 MX 有效。",
+     "quote": "beotel.net MX → assp.beotel.net（2026-09-28 本机核验）",
+     "url": "dns://beotel.net/MX"
+    },
+    {
+     "dim": "投入纪律",
+     "text": "R32：塞尔维亚为暂定低投入小国（除非用户主动提）。",
+     "quote": "R32既定：abandon tiny countries SI/HR/RS/RO/BG/EE/LV/LT/LU/IS unless asked",
+     "url": "docs/requirements/用户要求总账.md#R32"
+    }
+   ]
+  },
+  {
+   "code": "A-016",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Igor Stojković**，塞尔维亚贝尔格莱德。双主体：**Netis DOO**（顾问壳，netis.rs 站已失效为 Shared IP 默认页）+ **Owner at eWireless**（LinkedIn 自述）；真实经营面=**自有培训站 mikrotiktrening.rs（在营：2026-05 MTCNA 课表照常排期）**。塞尔维亚 MikroTik 培训师（TR0237，师证记录 2014–2023 已届满）；500+ LinkedIn 连接；授 MTCNA/MTCRE/MTCTE 课。技术学校出身（Tehnička škola Mihajlo Pupin）。⚠️ R32：塞尔维亚低投入——但本户自有培训站活跃，按「教师户红线内」处理。",
+    "芯片与在用型号": "RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售课=教具消耗口。出货量：无公开。客户反馈：LinkedIn 课帖点赞常态（MTCNA 帖 5–21 赞），学员到课率即口碑。",
+    "关键人KP": "**Igor Stojković 本人**。邮箱 **igor.stojkovic@netis.rs**（CSV 既有；netis.rs MX=自建 mail.netis.rs **今日核验仍有效**——站死邮活，可用但建议正文极简）+ 电话 +381 63 546 126（Vip 移动段，**WhatsApp/Viber 可试未验证**）+ LinkedIn 私信通道（rs.linkedin.com/in/igor-stojković-30329a23）。",
+    "关注点与资质": "①自有培训品牌在营（排期/招生是他 KPI）；②塞语本土市场；③⚠️ 教师红线：不经培训语境触达学员、只用本人工程/教具语境；④eWireless 工程侧=无线接入+户外 PoE 可能。",
+    "优缺点SWOT": "**S**：自有培训站活跃+500+ 连接=塞市场 MikroTik 圈节点人物；双邮箱+手机多通道。**W**：师证届满未续（2023-02）=官方背书弱化；双主体混乱（netis.rs 站死）；R32 低投入。**O**：教具样机（红线内）+eWireless 工程侧户外 PoE 件。**T**：小国+官方培训生态竞争。",
+    "Saga产品适配": "教具/工程两轨（均红线内）：教具 **STC-28DGGPM**（**EXW $99**）；工程 **STI-288GP**（**EXW $74.8**，户外 250m 延伸喂 AP/摄像头）。一封短英文信问他「今年课程用哪台交换机做 VLAN/PoE 演示」开场，不推学员侧任何东西。"
+   },
+   "kp": [
+    {
+     "name": "Igor Stojković",
+     "role": "Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满）",
+     "contact": "igor.stojkovic@netis.rs；+381 63 546 126；LinkedIn 私信",
+     "status": "邮箱既有；MX（自建 mail.netis.rs）站死邮活已验；手机社媒绑定未验",
+     "source": "https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/ ・ https://www.mikrotiktrening.rs/event/mtcna-maj-2026/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "培训师身份",
+     "text": "LinkedIn：塞尔维亚 MikroTik 顾问与培训师。",
+     "quote": "Consultant and experienced Serbian trainer for Mikrotik RouterOS (MTCNA, MTCRE, MTCTE… … Mikrotik Certified Trainer … Credential ID TR0237",
+     "url": "https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/"
+    },
+    {
+     "dim": "培训站在营",
+     "text": "mikrotiktrening.rs 2026-05 MTCNA 课程排期。",
+     "quote": "MTCNA trening u maju … 2026-05-04 10:00 Instaliranje, ažuriranje i logovanje na RouterOS … Predavači: Igor Stojković",
+     "url": "https://www.mikrotiktrening.rs/event/mtcna-maj-2026/"
+    },
+    {
+     "dim": "双主体",
+     "text": "LinkedIn 自述 Owner at eWireless。",
+     "quote": "Owner at eWireless, Mikrotik Trainer, Consultant",
+     "url": "https://rs.linkedin.com/posts/igor-stojkovi%C4%87-30329a23_mtcna-trening-u-septembru-mikrotik-trening-activity-6961279559149215744-V628"
+    },
+    {
+     "dim": "站点状态",
+     "text": "netis.rs 解析为共享 IP 默认页（站失效），MX 仍活。",
+     "quote": "This IP is being shared among many domains.",
+     "url": "https://netis.rs/"
+    },
+    {
+     "dim": "投入纪律",
+     "text": "R32：塞尔维亚为暂定低投入小国。",
+     "quote": "R32既定：abandon tiny countries SI/HR/RS… unless asked",
+     "url": "docs/requirements/用户要求总账.md#R32"
+    }
+   ]
+  },
+  {
+   "code": "A-017",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Sasa Blagojevic**，塞尔维亚 Niš 个体顾问。公开名录 5 证（MTCNA+MTCRE+MTCTCE+**MTCSWE**+MTC 系另一证，CSV 字段截断处按原文记）——**MTCSWE（交换工程师）持有者，是本批唯一的交换专向个体**。无网站/LinkedIn 命中；gmail 邮箱（sajberista@）+ Niš 手机号。⚠️ R32：塞尔维亚低投入，档案照做、外联降级。",
+    "芯片与在用型号": "交换专向顾问语境（MTCSWE=VLAN/STP/交换硬件卸载方向）——**Saga L2+ 特性表（ERPS/QinQ/Private VLAN/sFlow）正是他的语言**。出货量/客户反馈：无公开。",
+    "关键人KP": "**Sasa Blagojevic 本人**。邮箱 **sajberista@gmail.com**（CSV 既有；gmail MX 有效、用户级不可验）+ 电话 +381 64 910 8717（M/Telenor 移动段，**WhatsApp/Viber 可试未验证**）。无其他公开通道。",
+    "关注点与资质": "①交换技术纵深（MTCSWE 话题切入点：硬件卸载/ERPS 收玫）；②价格敏感个体；③无社媒痕迹=邮件+手机是唯一战场。",
+    "优缺点SWOT": "**S**：MTCSWE 持证=对接入层有真兴趣的小众卖家画像（十大 MikroTik 顾问里最少见的证）；直达本人。**W**：小国个体、通道单一、信息稀薄。**O**：给他实测一台 L2+ 全特性交换机=技术对话即成交前置。**T**：R32 低投入；无后续可追的公开触点。",
+    "Saga产品适配": "技术对话开场：**STI-480XGGM**（工业 L2+ 8口 4×10G ERPS<20ms，**EXW $253**）或 **STC-424XGGM**（**EXW $143**。附 L2+ 特性表：64 聚合组、QinQ flow-based、Private VLAN、480 条 ACL、sFlow——MTCSWE 玩家自己会读懂）。短信一封，不做多封。"
+   },
+   "kp": [
+    {
+     "name": "Sasa Blagojevic",
+     "role": "个体顾问（含 MTCSWE 交换专向证）",
+     "contact": "sajberista@gmail.com；+381 64 910 8717",
+     "status": "邮箱既有；gmail MX 有效；手机社媒绑定未验",
+     "source": "客户名单_反向信号_2026-09.csv#A-017 ・ https://mikrotik.com/consultants"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "名录收录",
+     "text": "MikroTik 认证顾问名录在册（Niš, Serbia）。",
+     "quote": "Sasa Blagojevic … 塞尔维亚 Niš … MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCSWE+MTCE",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "gmail MX 有效。",
+     "quote": "gmail.com MX: 5:gmail-smtp-in.l.google.com（2026-09-28 本机核验）",
+     "url": "dns://gmail.com/MX"
+    },
+    {
+     "dim": "投入纪律",
+     "text": "R32：塞尔维亚为暂定低投入小国。",
+     "quote": "R32既定：abandon tiny countries SI/HR/RS… unless asked",
+     "url": "docs/requirements/用户要求总账.md#R32"
+    }
+   ]
+  },
+  {
+   "code": "A-018",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Bernhard Kröll / GiGaNet.at**，奥地利 Mayrhofen（齐勒河谷 Zillertal——阿尔卑**滑雪旅游区**），地址 Rauchenwald 651, 6290 Mayrhofen，UID **ATU49219304**。关键身份：**ISPA（Internet Service Providers Austria，奥地利 ISP 协会）名录在册**=本地 WISP/ISP 运营者；MikroTik 4 证（MTCNA+MTCTCE+MTCIPv6E+**MTCSWE**）。⚠️ **主域 giganet.at 本站 HTTP 500 ×2（2026-09-28）**；镜像 giganet.co.at/wordpress 存活但内容=山间 webcam 相册（Olperer 峰等）——**他同时运营高山 webcam 阵列（户外 PoE 点位证据）**。ISPA 名录电话 +43-5285 630 850（与 impressum 的 (5285)2022-0 并存）。",
+    "芯片与在用型号": "本地 ISP 语境（MikroTik 核心+无线回传）；高山 webcam=无人值守户外 PoE 节点（-20℃ 冬季工况）；旅游区酒店/民宿 WiFi 改造市场（Mayrhofen 是 Zillertal 主镇）。出货量：无公开。客户反馈：无公开评价面。",
+    "关键人KP": "**Bernhard Kröll 业主**。邮箱 **bk@giganet.at**（CSV 既有）+ **office@giganet.at**（impressum 公开）；域 MX=MS365 今日核验有效（站 500 邮活）。电话 +43 (5285)2022-0（impressum）/ ISPA 名录 630 850。德语。",
+    "关注点与资质": "①户外宽温/无人值守可靠性（高山点位运维成本极高——坏了要上山）；②IPv6E+SWE 双证=新技术接受度高；③ISPA 圈内人=行业话术（批发/回传/中立性他全懂）；④旅游季窗（冬季雪季前是改造旺季，Q3 末=黄金报价窗）。社媒：无（webcam 即他的社媒）。",
+    "优缺点SWOT": "**S**：区域 ISP 垄断位+ISPA 协会信用+酒店观光业底盘+SWE/IP 双证技术对话力。**W**：站点维护崩坏（主域 500 双零）、一人/小店带宽、强季节性。**O**：**高山 webcam/户外 AP 的工业 PoE 供电网**（Saga STI 工业系 DIN 轨+冗余电源+反接保护=他痛点直球）；雪季前酒店 WiFi/PoE 改造潮。**T**：阿尔卑斯小市场天花板；站点 500 或预示经营波动（电话先核活）。",
+    "Saga产品适配": "户外位：**STI-288GP**（工业非管理 8口 PoE af/at 250m 延伸，**EXW $74.8**，冗余电源 DC44–57V+过压保护，3 年保）喂 webcam/AP 阵列；**STI-280GE**（**EXW $63.8**）非 PoE 节点；酒店侧 **STC-28DGGPM**（**EXW $99**）。⚠️ 工业温宽（-40~75℃）以官方规格页实证为准再承诺高海拔工况——先寄 1 台给他冬季实测。"
+   },
+   "kp": [
+    {
+     "name": "Bernhard Kröll",
+     "role": "GiGaNet.at 业主 / ISPA 会员本地 ISP",
+     "contact": "bk@giganet.at；office@giganet.at；+43 (5285)2022-0 / +43-5285 630 850",
+     "status": "邮箱 office@ 官网 impressum 公开；MX（MS365）已验；站 HTTP 500×2 如实记录",
+     "source": "https://giganet.co.at/wordpress/impressum/ ・ https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "法定信息",
+     "text": "impressum：Bernhard Kröll, Rauchenwald 651, 6290 Mayrhofen, UID ATU49219304, office@giganet.at。",
+     "quote": "Bernhard Kröll, GiGaNet.at … Adresse: Rauchenwald 651 6290 Mayrhofen … E-Mail: office@giganet.at … UID: ATU49219304",
+     "url": "https://giganet.co.at/wordpress/impressum/"
+    },
+    {
+     "dim": "ISPA 会员",
+     "text": "奥地利 ISP 协会 ISPA 名录在册（含第二部电话）。",
+     "quote": "GiGaNet.at, Bernhard Kröll (A) Rauchenwald 651 6290 Mayrhofen Tel.: +43-5285 630 850 E-Mail: office@giganet.at",
+     "url": "https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11"
+    },
+    {
+     "dim": "站点状态",
+     "text": "主域 HTTP 500×2；镜像为高山 webcam 相册。",
+     "quote": "Failed to fetch page (HTTP 500) ×2 —— giganet.co.at/wordpress: Bilder Cam … Olperer",
+     "url": "https://giganet.co.at/wordpress/"
+    },
+    {
+     "dim": "邮箱 infra",
+     "text": "MX 指向 MS365，邮路活。",
+     "quote": "giganet.at MX → giganet-at.mail.protection.outlook.com（2026-09-28 本机核验）",
+     "url": "dns://giganet.at/MX"
+    }
+   ]
+  },
+  {
+   "code": "A-019",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**Khalil Chamseddine / AULAF**，奥地利维也纳（Donaustadt 授课点）。**MikroTik Certified Trainer，ICT/软件/网络工程 20+ 年**（履历语境含服务商/政府/教育/医疗），**九大方向证书全持**（MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE/MTCEWE）。aulaf.com=纯培训商：全 10 门课价目公开（€600–1100/门；MTC06 打包 €4000/15 天；MTC10 €6600/25 天），远程实作（RouterBOARD+CHR on GNS3）+维也纳或欧洲巡回面考。英语/阿拉伯语双语。LinkedIn「Khalil Chamseddine AULAF」64 粉小体量。",
+    "芯片与在用型号": "RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ **教师红线纪律**：不经培训语境向学员推销、不打学员名单、不借课程联名——**只谈他本人的教学硬件与工程自购**。多厂商路由/交换/BGP/MPLS/VPLS 全栈语境（其自述 Multi-vendor environments）。出货量：无。",
+    "关键人KP": "**Khalil Chamseddine 本人（唯一可见角色）**。邮箱 **khalil@aulaf.com**（CSV 既有+课程页公开双源）+ **admin@aulaf.com**（官网联系段公开）；电话 +43 688 9131190；Skype khalil.chamseddine（公开名录列示）；MX IONOS 今日核验有效。",
+    "关注点与资质": "①教学交付质量（远程实验+面考混合模式成熟）；②多厂商中立语境（他对「非 MikroTik 硬件」无抗体——但也意味着评估严格）；③欧区巡回（在哪考就去哪=设备便携性重要）；④阿语市场人脉（中东学员通道——观察，不主动利用）。参展：课程表即展场。",
+    "优缺点SWOT": "**S**：9 证全满贯培训师+20 年背书；价目透明的成熟课商；沟通通道多。**W**：纯培训=硬件采购量有限（教具批次小）；64 粉 LinkedIn=社媒弱。**O**：教具更新（路由板实验床换代时加一台 L2+ 交换做 MTCSWE 演示台）；其工程咨询侧（服务商项目）的第二来源。**T**：教师红线与官方生态关系；低价竞品培训机构涌现。",
+    "Saga产品适配": "教具位（红线内）：**STC-424XGGM**（L2+ 24口 4×10G，**EXW $143**：MTCSWE 课的 VLAN/ERPS/聚合演示全包）+ **STC-28DGGPM**（**EXW $99** PoE 演示）。话术：只问「MTCSWE 实验台现在用什么设备」，提供 NFR 教具价与特性表；绝不提学员、不提联名、不打课程折扣。L3 系课程（BGP/OSPF）可补 **STC-424XGGM（L3）**（**EXW $294.8**）作第二个台阶。"
+   },
+   "kp": [
+    {
+     "name": "Khalil Chamseddine",
+     "role": "AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证）",
+     "contact": "khalil@aulaf.com；admin@aulaf.com；+43 688 9131190；Skype khalil.chamseddine",
+     "status": "双邮箱其一课程页公开其一官网公开；MX（IONOS）已验",
+     "source": "https://aulaf.com/mtcna-vienna ・ https://mikrotik.com/consultants/europe/austria"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "培训师身份",
+     "text": "MikroTik 官方名录：Khalil Chamseddine，Vienna，全方向证书。",
+     "quote": "Khalil Chamseddine … MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCINE, MTCSE, MTCSWE, MTCEWE … Vienna, Austria MikroTik Certified Trainer with more than 20 years experience",
+     "url": "https://mikrotik.com/consultants/europe/austria"
+    },
+    {
+     "dim": "课程价目",
+     "text": "MTCNA €800/3 天起，MTC10 全包 €6600/25 天。",
+     "quote": "MTCNA … €800 3 days … MTC10 MikroTik Senior Expert Engineer … Complete Package €6600 25 Days",
+     "url": "https://aulaf.com/"
+    },
+    {
+     "dim": "授课模式",
+     "text": "远程实验+维也纳或欧洲巡回面考。",
+     "quote": "Training is conducted remotely. Labs are conducted on RouterBOARDs and MikroTik CHR on GNS3. Exam is offered face-to-face on the last day in Vienna or any city in Europe if travel can be arranged.",
+     "url": "https://aulaf.com/"
+    },
+    {
+     "dim": "KP 与通道",
+     "text": "课程页署名 Khalil Chamseddine（khalil@aulaf.com）为常驻讲师。",
+     "quote": "Trainer: MikroTik Certified Trainer, Khalil Chamseddine (khalil@aulaf.com)",
+     "url": "https://aulaf.com/mtcna-vienna"
+    },
+    {
+     "dim": "语言",
+     "text": "英/阿双语。",
+     "quote": "Languages: English, Arabic … Skype khalil.chamseddine … phone +436889131190",
+     "url": "https://mikrotik.com/consultants/europe/austria"
+    }
+   ]
+  },
+  {
+   "code": "A-020",
+   "researched_on": "2026-09-28",
+   "dimensions": {
+    "背景深描": "**ΑΠΟΣΤΟΛΑΣ（Apostolas）**，希腊罗德岛（Καναδά 28, Ρόδος 85100），**1995 年创立、30+ 年本地老店**。四合一 360° 业务：①**收银系统/POS**（认证机型+**myDATA 希腊电子发票合规对接**）与餐饮无线点餐；②**网络工程**（光纤/WiFi/结构化布线设计施工维保）；③网站/eshop/SEO；④**Business Cloud ERP** 分销（库存/销售/myDATA 一体化）。自我定位「Δίπλα σας, από το 1995」（自 1995 年在您身边）+多德卡尼斯群岛 25+ 年 support 经验。Georgios Apostolas 推定业主（george@ + MikroTik MTCNA+MTCRE 双证）。",
+    "芯片与在用型号": "POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/话机/POS 的常态场景）；网络工程线=光纤到楼+结构化布线（机房交换是其工单内件）。ERP/reseller 逻辑=他天生理解分销梯价。出货量：未公开（罗德+多德卡尼斯群岛酒店密度=稳定消耗）。客户反馈：无公开评分面（口碑靠 30 年岛域存续）。",
+    "关键人KP": "**Georgios Apostolas（推定业主/双证工程师）**。邮箱 **george@apostolas.gr**（CSV 既有个人姓）+ **info@apostolas.gr**（官网公开）；电话 +30 22410 38089；MX Google 今日核验有效。无 LinkedIn 命中（本地口碑型老商）。希腊语/英语。",
+    "关注点与资质": "①**myDATA 合规**（希腊 AADE 电子发票强制化=他 POS/ERP 业务的卖点锚，我方不涉但要对齐「合规优先」叙事）；②**旅游季窗**（罗德岛 4–10 月旺季——**冬季 Q4–Q1 是布网改造窗口，报价/备库要踩他施工季**）；③一站式交钥匙（他喜欢「360° support」式全包供应商——我方可直接给「交换+供电+光模块」整包）；④海岛物流慢→计划性批量箱规优于零碎单。参展/社媒：未见。",
+    "优缺点SWOT": "**S**：30 年岛域霸主+四业合一（POS/网/站/ERP 交叉带货能力=他卖网络时顺便卖收银，反之亦然）；认证工程师自持=技术沟通无翻译损耗。**W**：岛域天花板+季节波动；团队规模未公开；无连锁扩张面。**O**：2026 旺季前酒店网改（WiFi/PoE/监控）+POS 换机潮+ERP 新客布线——**一季度箱规备货提案**正好；多德卡尼斯跳岛岛屿（Kos/Karpathos）复制模式的可能。**T**：雅典大陆分销/电商的价格碾压；希腊本土 IT 生态小圈竞争。",
+    "Saga产品适配": "酒店 PoE 标配 **STC-424DGGPM-280W**（**EXW $165**；AP/摄像头/话机/POS 一柜喂齐，PoE 管理+watchdog）+ 餐厅/民宿小柜 **STC-28DGGPM**（**EXW $99**）+ 光纤互联 **STI-111GP**（GE 收发，**EXW $36.3**，250m 延伸）+ 户外非管理 **STI-280GE**（**EXW $63.8**）。话术：「Q1 施工季的箱规 EXW 梯价+15 天锁价+出厂预刷配置」，附工业线 3 年保条款。⚠️ 海边盐雾场景不口头承诺耐蚀，建议装柜内。"
+   },
+   "kp": [
+    {
+     "name": "Georgios Apostolas",
+     "role": "业主（推定）/ MTCNA+MTCRE 工程师",
+     "contact": "george@apostolas.gr；info@apostolas.gr；+30 22410 38089",
+     "status": "info@ 官网公开；个人邮箱既有；MX（Google）已验",
+     "source": "https://apostolas.gr/epikoinonia/ ・ 客户名单_反向信号_2026-09.csv#A-020"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "老店年份",
+     "text": "1995 年起经营的罗德岛技术商。",
+     "quote": "Δίπλα σας, από το 1995 … Με περισσότερα από 30 χρόνια εμπειρίας και με έδρα τη Ρόδο",
+     "url": "https://apostolas.gr/"
+    },
+    {
+     "dim": "四业合一",
+     "text": "POS+网络+网站+ERP 360° 覆盖。",
+     "quote": "Ολοκληρωμένες λύσεις πληροφορικής, ταμειακών συστημάτων & web services στη Ρόδο. Εγκαταστάσεις δικτύων, ασύρματη παραγγελειοληψία, ηλεκτρονική τιμολόγηση, ιστοσελίδες.",
+     "url": "https://apostolas.gr/"
+    },
+    {
+     "dim": "myDATA 合规",
+     "text": "Cloud ERP 对接希腊 myDATA 电子发票。",
+     "quote": "Οργανώστε την αποθήκη, τις πωλήσεις και το myDATA της επιχείρησής σας εύκολα, οικονομικά και με ασφάλεια.",
+     "url": "https://apostolas.gr/"
+    },
+    {
+     "dim": "多德卡尼斯经验",
+     "text": "25+ 年群岛企业支持经验。",
+     "quote": "με εμπειρία άνω των 25 ετών στην υποστήριξη επιχειρήσεων της Δωδεκανήσου",
+     "url": "https://apostolas.gr/poia-tameiaki-michani-chreiazetai-i-epicheirisi-sas-sti-rodo/"
+    },
+    {
+     "dim": "联系",
+     "text": "Καναδά 28, Ρόδος 85100；电话与 info@ 公开。",
+     "quote": "Δωδεκάνησα, Ρόδος, Καναδά 28, 85100 … +30 22410 38089 … info@apostolas.gr",
+     "url": "https://apostolas.gr/epikoinonia/"
+    }
+   ]
+  }
+ ]
+}

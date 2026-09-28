@@ -1,0 +1,62 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第9批（意大利行）。判据同前。",
+ "records": [
+  {
+   "code": "B-158",
+   "decision": "promote",
+   "site": "corsimikrotik.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛9】官网核对：Corsi MikroTik 自述「意大利首个专注 MikroTik/RouterOS 的在线培训门户」，官网排课 **MTCSWE（Switching, Bridging, Layer2, VLAN）** 及 MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE 全系 MikroTik 官方认证课程，并免费提供含 GNS3 实验环境的 Corsi MikroTik VM → 与 R50 已升 A 的 MikroTik 培训中心同口径 → 人工定级升A。",
+   "quote": "Corsi MikroTik è il primo portale italiano di formazione online dedicato esclusivamente al mondo MikroTik e RouterOS；MTCSWE — Switching, Bridging, Layer2, multicast, VLAN；MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE/MTCIPv6E/MTCUWE 全系开课",
+   "sources": [
+    [
+     1,
+     "https://corsimikrotik.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-160",
+   "decision": "pending",
+   "site": "dnet-distribution.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛9】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://dnet-distribution.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-163",
+   "decision": "hold-B",
+   "site": "fastnet.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛9】官网核对：Fastnet S.p.A.（Fiberwide 集团：Fiberwide/Profexional/Praim）为数据中心/云/互联服务商，团队持 MikroTik/Cisco/Fortinet/Juniper 认证但无产品目录与交换机品类 → 维持B。",
+   "quote": "Fastnet il cuore infrastrutturale per i servizi Cloud e Data Center del gruppo Fiberwide；Servizi: Cloud／Co-location／Connettività／Consulenza Specialistica Networking／Cybersecurity；Certificazioni del Team: fortinet, juniper, mikrotik, cisco…",
+   "sources": [
+    [
+     1,
+     "https://fastnet.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-167",
+   "decision": "pending",
+   "site": "shop.marcomweb.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛9】官网核对：Marcom S.r.l.（维罗纳，工业自动化/工业通信）网店代理 **MOXA、HILSCHER、TELTONIKA、MIKROTIK、ICP DAS** 等，业务含 Fieldbuses/工业网络/多协议网关，但首页未列交换机品类 → 待核验（MOXA/MikroTik）类目；本轮维持B。",
+   "quote": "Complete Hardware and Software Solutions for Digital Building and Digital Factory；Our Main Areas of Expertise: Fieldbuses and Industrial Networks／Multiprotocol Gateways and Converters；Marchi: TELTONIKA, METZ CONNECT, HILSCHER, MOXA, MIKROTIK, ICP DAS…",
+   "sources": [
+    [
+     1,
+     "https://shop.marcomweb.it/en"
+    ]
+   ]
+  }
+ ]
+}

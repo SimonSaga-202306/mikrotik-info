@@ -1,0 +1,264 @@
+{
+  "date": "2026-09-27",
+  "scope": "Contact research only; fixed IDs/grades/order. Public listing is not deliverability; source IDs are record-local.",
+  "records": [
+    {
+      "code": "A-200",
+      "name": "GIS s.r.l.",
+      "country": "意大利",
+      "email": "gis@gisimp.it",
+      "site": "https://gisimp.it",
+      "level": "official",
+      "note": "官网contatti页明确邮箱与Pedrengo地址。主页自述属于Hu.Tech Group（2公司/100专业人员），不是已证实短决策链；保留原级，仅记录采购层级风险。",
+      "quote": "E-mail: gis@gisimp.it / Sede di Pedrengo Via G. Garibaldi, 37 24066 Pedrengo (BG)",
+      "sources": [
+        [
+          1,
+          "https://gisimp.it/contatti/"
+        ],
+        [
+          2,
+          "https://gisimp.it/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-201",
+      "name": "Goretti Technological System S.r.l.",
+      "country": "意大利",
+      "email": "m.fucelli@gtstec.com",
+      "site": "https://www.gorettitechnologicalsystems.it",
+      "level": "directory-only",
+      "note": "第三方B2all目录完整公开旧域名具名邮箱，P.IVA/地址/电话与现官网对应；现官网只给表单/电话，未独立确认邮箱仍有效。目录夹有保险业务异常句，故降为待核，不凭姓推定岗位；PEC不作普通业务邮箱。",
+      "quote": "CONTATTI AZIENDALI / Goretti Technological Systems Srl / P.IVA 03178850545 / email: m.fucelli@gtstec.com",
+      "sources": [
+        [
+          1,
+          "http://b2all.piccolamediaimpresa.com/goretti-technological-systems-srl"
+        ],
+        [
+          2,
+          "https://www.gorettitechnologicalsystems.it/contatti/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-202",
+      "name": "IFI Consulting Srl",
+      "country": "意大利",
+      "email": "assistenza@ificonsulting.eu",
+      "site": "https://www.ificonsulting.eu",
+      "level": "official",
+      "note": "官网首页给assistenza支持邮箱（不是采购/销售专员）。旧2025销售条款搜索索引有info邮箱，但实际页面已Not Found，不当作本次官网确认；现隐私PDF确认Modena地址/税号，法律邮箱不作开发主入口。",
+      "quote": "Ricevi supporto tecnico dal nostro team di assistenza. / Sei un nuovo cliente / Scrivi: assistenza@ificonsulting.eu",
+      "sources": [
+        [
+          1,
+          "https://www.ificonsulting.eu/"
+        ],
+        [
+          2,
+          "https://www.ificonsulting.eu/app/uploads/2026/04/PRIVACY-E-COOKIE-POLICY-IFI_2026.pdf"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-203",
+      "name": "JM CONSULTING SRL",
+      "country": "意大利",
+      "email": "info@jmconsulting.it",
+      "site": "https://jmconsulting.it",
+      "level": "official",
+      "note": "官网联系页匹配Via Donatori Sangue 3、Gossolengo，采用普通info邮箱而非PEC。搜索到的遮罩个人邮箱不收录。",
+      "quote": "JM CONSULTING SRL / Via Donatori Sangue, 3 / 29020 Gossolengo (PC) / info@jmconsulting.it",
+      "sources": [
+        [
+          1,
+          "https://jmconsulting.it/contatti/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-204",
+      "name": "Localnet Firenze Srl",
+      "country": "意大利",
+      "email": "info.firenze@localnettoscana.it",
+      "site": "https://www.localnettoscana.it",
+      "level": "official",
+      "note": "公司LinkedIn与官网互链，确认Localnet Firenze对应LocalNet Toscana；官网页尾有Firenze专属邮箱/地址/税号。官网自述GlobalNet网络成员，不能把关联企业直接合并。",
+      "quote": "Via Benedetto Dei, 64 / 50127 Firenze FI / info.firenze@localnettoscana.it / P.I. 05807570485",
+      "sources": [
+        [
+          1,
+          "https://www.localnettoscana.it/"
+        ],
+        [
+          2,
+          "https://it.linkedin.com/company/localnet-firenze-srl"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-205",
+      "name": "Luca Masetto",
+      "country": "意大利",
+      "email": "",
+      "site": "",
+      "level": "leads-only",
+      "note": "Allied Telesis独立伙伴页确认Luca Masetto及Via Cavin di Sala 17, Santa Maria di Sala VE 30036。页面Visit Website未提取可用目标，未找到可匹配邮箱/电话。已检索姓名+城市/Allied/网络/社媒；Treviso的Cargill同名人、美国masetto.com与Roberto Masetto均不能认定同一人，不收录其联系方式。保留A及名录身份线索，不宣称可触达或已穷尽。",
+      "quote": "Luca Masetto / Via Cavin di Sala 17 / Santa Maria di Sala VE 30036 Italy",
+      "sources": [
+        [
+          1,
+          "https://www.alliedtelesis.com/it/en/luca-masetto"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-206",
+      "name": "N&C TELECOMUNICAZIONI S.p.a.",
+      "country": "意大利",
+      "email": "info@nectlc.com",
+      "site": "https://www.nectlc.com",
+      "level": "official-search-only",
+      "note": "旧域名nectelecomunicazioni.it实际跳转新官网。info邮箱来自旧官网联系页/旧招聘PDF搜索索引，旧联系页及SA8000 PDF实际404，未在新站正文再次确认；新站有效表单/get-in-touch/为备用。官网自述700全球人员，存在规模/总部采购风险，保留原级不擅改口径。",
+      "quote": "搜索摘要（不是本次抓取正文）：CONTACTS / info@nectlc.com / Via Bosco s.n., 73010, Veglie (LE)",
+      "sources": [
+        [
+          1,
+          "https://www.nectlc.com/contacts.php?lang=fr"
+        ],
+        [
+          2,
+          "https://www.nectlc.com/get-in-touch/"
+        ],
+        [
+          3,
+          "https://www.nectlc.com/"
+        ],
+        [
+          4,
+          "https://www.wildix.com/es/partners/nc-telecomunicazioni-srl/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-207",
+      "name": "NA.EL Srl",
+      "country": "意大利",
+      "email": "info@nael.it",
+      "site": "https://www.nael.it",
+      "level": "official",
+      "note": "官网英文Contact info页完整邮箱与Napoli地址/税号。页面含大量地图SVG，继续读到第三块才是联络字段，不把地图/网站供应商信息当客户联系方式。",
+      "quote": "ADDRESS: Via Ferrante Imparato, 190 - 80146 Napoli / Email info@nael.it / VAT registration IT 02077090617",
+      "sources": [
+        [
+          1,
+          "https://www.nael.it/en/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-208",
+      "name": "Net System Innovazione srl",
+      "country": "意大利",
+      "email": "info@nsi.srl",
+      "site": "https://nsi.srl",
+      "level": "official",
+      "note": "官网明确info与support邮箱，优先普通info入口；Via Cuneo36/a Vignolo匹配。网络/视频监控/门禁为官网服务信号，但不能据此认定其具体采购需求或芯片。",
+      "quote": "info@nsi.srl | support@nsi.srl / 0171-601168 / Via Cuneo 36/a, 12010 Vignolo",
+      "sources": [
+        [
+          1,
+          "https://nsi.srl/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    },
+    {
+      "code": "A-209",
+      "name": "NEWSOFT Technology SRL",
+      "country": "意大利",
+      "email": "info@newsoft-tech.it",
+      "site": "https://www.newsoft-tech.it",
+      "level": "official",
+      "note": "实际抓取官网contatti页确认Saluzzo Via Mattatoio42及普通业务邮箱；首页正文抽取缺页尾邮箱，不以首页无邮箱判定没有入口。",
+      "quote": "Indirizzo Via Mattatoio, 42 – Saluzzo (CN) / Email info@newsoft-tech.it / Telefono +39.0175.249770",
+      "sources": [
+        [
+          1,
+          "https://www.newsoft-tech.it/contatti/"
+        ]
+      ],
+      "fields_supported": [
+        "入口/联系方式",
+        "网站",
+        "身份匹配（见note限定）"
+      ],
+      "retrieved_on": "2026-09-27",
+      "retrieval_method": "web_search + fetch_page; A206 email search-only"
+    }
+  ]
+}

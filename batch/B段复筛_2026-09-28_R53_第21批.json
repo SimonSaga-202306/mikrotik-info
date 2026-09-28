@@ -1,0 +1,246 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第21批（英国行）。判据同前。",
+ "records": [
+  {
+   "code": "B-399",
+   "decision": "promote",
+   "site": "4gon.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛21】官网核对：4Gon Solutions（英国，info@4gon.co.uk，+44 330 088 0295）为无线/网络专营网店：顶部类目含 **Switches**（UniFi Switches 子类，UniFi 24-Port PoE Switch USW-24-POE £306.30）、Access Points、Cloud Gateways、5G Routers、IP CCTV、Cabinets and Racks；自述 **Ubiquiti 官方分销/首选分销商** 并设 **Reseller 计划**（«If you are a Wireless or comms reseller…apply to become an authorised reseller…access to reseller pricing»，最低首单 £200，可白标直发客户） → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "4Gon | WiFi Access Points, **Switches**, IP CCTV, 4G & 5G Routers；Top categories: Point to Point／Routers／Cabinets and Racks／WiFi Training／5G Routers／Cloud Gateways／Access Points／**Switches**／Indoor WiFi／IP CCTV；Ubiquiti Distributor — Preferred Ubiquiti distributor；Most popular: UniFi Switches（See the complete UniFi Switch range）／Ubiquiti UniFi 24-Port PoE Switch £306.30；Reseller Program: Become a 4Gon Reseller…access to reseller pricing；We can white label drop-ship direct to you or your customer with next day delivery.；The initial minimum order value is £200.00",
+   "sources": [
+    [
+     1,
+     "https://4gon.co.uk/"
+    ],
+    [
+     2,
+     "https://www.4gon.co.uk/gb/become-a-4gon-reseller/"
+    ]
+   ]
+  },
+  {
+   "code": "B-400",
+   "decision": "hold-B",
+   "site": "hpnetworks.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：High Performance Networks（HPN，贝尔法斯特+都柏林）自述 **«Secure connectivity and voice that keep business moving»**、«Business internet, SIP trunks, phone systems and managed networks engineered, monitored and supported by a **UK network operator**»；业务为专线/宽带、托管 WAN、托管防火墙、数据中心与虚拟化、SIP 中继/托管电话，**官网无设备商城、无交换机品类** → 运营商/托管通信服务商，非设备转售 → 维持B。",
+   "quote": "High Performance Networks — HPN provides Creative Managed Communications to customers throughout the UK and Ireland from our offices in Belfast and Dublin.；Connectivity: Managed Internet Access (Leased Lines)／Managed WAN／Mobile Broadband／Business Broadband／Hosted Firewall；Data Centre／Virtualisation；Unified Communications: SIP Trunks／Hosted Telephony；We believe it’s less to do with the physical products that we supply, more about the solutions we create",
+   "sources": [
+    [
+     1,
+     "https://www.hpnetworks.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-401",
+   "decision": "hold-B",
+   "site": "allness.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Allness IT Limited（英国 Kidderminster，03333 403 303，barry@allness.it）为**自营固定无线 ISP + IT 服务**：自述 2010 年起在 Kidderminster 自建 6 个主发射点做无线宽带（£18.75/月起），另有网站/托管/邮箱服务与工坊维修、整机组装；官网为极简静态页（无商城）→ 运营商/IT 服务，非设备转售 → 维持B。",
+   "quote": "Allness IT Limited — We wouldn’t be complete without a web presence so here it is…；WiFi: We decided to take on the project of getting a respectable speed WiFi service over the Kidderminster area. We started in 2010…line of sight to one of our **6 main transmitters**…Costs for provision start from as little as £18.75/month；For Websites, hosting and email service；Workshop repairs, custom builds or just advice",
+   "sources": [
+    [
+     1,
+     "https://allness.net/"
+    ],
+    [
+     2,
+     "https://allness.net/?page=wifi"
+    ]
+   ]
+  },
+  {
+   "code": "B-404",
+   "decision": "promote",
+   "site": "comms-express.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Comms Express（英国，cesales@comms-express.com，01245 459490）自述 **«Top Supplier of Network Cables, Data & Server Racks»**，站内 **Network Switches 类目**（/categories/network-switches/）+ **HPE/Aruba 交换机专区**（Aruba Instant On 1930/1960 系列横幅）、Zyxel Switches、Ubiquiti UniFi、Cisco、DrayTek、Teltonika、TP-Link、Juniper 等；提供企业信用账户与报价（Request A Quote）→ 交换机品类+网络专营分销/电商 → 人工定级升A。",
+   "quote": "Comms Express | Top Supplier of Network Cables, Data & Server Racks；Aruba Instant On 1930s & 1960s Series Switches（/categories/hpe-and-aruba-switches/）；Browse: **Network Switches**（View Range）／Zyxel Switches／Ubiquiti UniFi Enterprise WiFi Systems／Cisco／DrayTek／Teltonika／TP-Link／Juniper Networks；Credit and Finance Options／Request A Quote；Call us FREE on 0800 488 0000",
+   "sources": [
+    [
+     1,
+     "https://www.comms-express.com/"
+    ],
+    [
+     2,
+     "https://www.comms-express.com/categories/network-switches/"
+    ]
+   ]
+  },
+  {
+   "code": "B-531",
+   "decision": "hold-B",
+   "site": "ivoryegg.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Ivory Egg (UK) Ltd（英国 Nottingham，info@ivoryegg.co.uk，+44 3333 079 100）自述 **«Building Intelligence»**、«Supporting System Integrators on their journey since 2005»，代理品牌为 KNX/楼宇智能类（ABB KNX、Elsner、Lithoss、Faradite、Intesis、Casambi…）；站内 **「switches」指 KNX 墙面开关/照面板**，**未见网络交换机品类**（原表信号 N-Tron/Red Lion 未在现站可见）→ 楼宇智能分销、维持B。",
+   "quote": "Ivory Egg United Kingdom | Building Intelligence；Supporting System Integrators on their journey since 2005.；Product Spotlight: ABB InSite - Smart Energy Monitoring／ABB Yurika（KNX keypad or room controller）／Introducing Elsner Elektronik（Elsner KNX products）；News: New Lithoss Brochure 2025-2026 — KNX, Casambi or Dry contact **switches**, Lithoss offers it all；Our favourites brands（HMS/N-Tron 未见）",
+   "sources": [
+    [
+     1,
+     "https://ivoryegg.co.uk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-414",
+   "decision": "promote",
+   "site": "liberty-i.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Liberty-i（Liberty-izone Ltd，英国，sales@liberty-izone…，0808 2819 500）自述 UK network operator，同时设 **自营硬件商店**：«Engineer-selected hardware — Professional routing, **switching** and wireless hardware from trusted manufacturers»，类目含 **Routers／Switches／Wireless／LTE & 5G**（Shop Switches → /product-category/switches/），联系表单服务意向含 **«Trade account / bulk enquiry»（贸易账户/批量询价）** → 交换机品类+网络专营+贸易批发入口 → 人工定级升A。",
+   "quote": "Liberty-i – Secure business connectivity, VoIP and managed Guest Wi-Fi；Engineer-selected hardware：Build better networks with proven equipment. Professional routing, **switching** and wireless hardware from trusted manufacturers, backed by practical pre-sales expertise.；**Routers**／**Switches**（Power, fibre and capacity where it matters — Shop Switches）／**Wireless**／**LTE & 5G**（Browse network hardware）；Service interest: Connectivity availability／Business VoIP / SIP／Guest Wi-Fi survey／UK IT & network support／**Trade account / bulk enquiry**",
+   "sources": [
+    [
+     1,
+     "https://www.liberty-i.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-532",
+   "decision": "hold-B",
+   "site": "mac-solutions.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：MAC Solutions (UK) Ltd（英国 Redditch，sales@mac-solutions.co.uk，01527 529774）自述 **«Leading provider of Industrial IT and OT technical products»**、25+ 年、80% 客户强推荐；业务为 OPC 软件与中间件（Kepware/KepServerEX/OpcRouter/DataHub）、工业 OT 网络安全服务、机器通信（协议转换/边缘网关/安全远程访问/网络诊断）；**官网无交换机品类** → 工业 IT/OT 软件与网关集成，维持B。",
+   "quote": "MAC Solutions — Industrial IT Services for Manufacturing；Secure. Connect. Innovate. Leading provider of Industrial IT and OT technical products for the connected world.；Open Platform Communications (OPC) Software and Middleware（Kepware／KepServerEX／Kepware+／Opc router／Data hub）／Industrial OT Cyber Security／Machine Communications（from protocol conversion and edge gateways to secure remote access and network diagnostics）；sales@mac-solutions.co.uk",
+   "sources": [
+    [
+     1,
+     "https://mac-solutions.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-533",
+   "decision": "hold-B",
+   "site": "millbeck.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Millbeck（英国，hello@millbeck.co.uk）自述 **«Simplifying IoT Connectivity»**、«Millbeck delivers cellular IoT connectivity solutions…deploy, manage, and scale connected devices»；伙伴为 KPN IoT／EE／VodafoneThree／O.V.／**Teltonika**／Panorama Antennas；内容为 SIM/路由器/天线选型与预配置（Parking/Transport/Retail/Utilities/Energy/Security 等行业方案），**无交换机品类** → 蜂窝 IoT 连接分销，维持B。",
+   "quote": "Industrial IoT Connectivity | SIMs, Routers & Hardware | Millbeck — Simplifying IoT Connectivity. Millbeck delivers cellular IoT connectivity solutions that help businesses deploy, manage, and scale connected devices worldwide.；Our partners: KPN IoT／…／EE／Panorama Antennas／Teltonika／VodafoneThree；Specialist Advice: We’ll help you specify the right SIM, router, and antenna for your site, then pre-configure everything before dispatch",
+   "sources": [
+    [
+     1,
+     "https://millbeck.co.uk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-418",
+   "decision": "hold-B",
+   "site": "miatlantic.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Morgan Ingland Limited（英国，info@miatlantic.com，0808 189 1246）自述 **«We source and supply ICT hardware for both private and public sectors across the UK»**（服务器/存储/网络/备份/整机工作站，可预配置与资产标签）；首页品类为 **Laptops／Data Media Tapes／Hard Drives／NAS／Workstations／Graphics Cards／Servers／Switches／UPS／Printers**（含 Nvidia RTX 50 系显卡、游戏笔电、打印机）、行业覆盖政府/医疗/教育/地产等 → 宽线 ICT 转售商（交换机仅一类），维持B。",
+   "quote": "Morgan Ingland Limited - IT Hardware & Software | IT Reseller；We source and supply ICT hardware for both private and public sectors across the UK. From servers and storage, networking equipment and backup infrastructure to purpose-built PCs and workstations…；Shop by Categories: Laptops／Data Media Tapes／Hard Drives／NAS Storages／Work Stations／Graphics card／Servers／**Switches**（/network-switch）／UPS；Banners: HPE | Aruba Switches／Nvidia RTX 50-series／Professional Gaming Laptops／Synology；Industries: Government／Enterprise／Healthcare／Education／Real Estate／Hospitality／Power & Utility",
+   "sources": [
+    [
+     1,
+     "https://miatlantic.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-419",
+   "decision": "promote",
+   "site": "netxl.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：NetXL Distribution Ltd.（英国，help@netxl.com，+44 330 043 3000）自述 **«Disruptive Technology Distribution: Market-leading networking, VoIP and smart automation»**；一级类目含 **Networking**（内含 network-switches 子类），在售 **MikroTik CRS309-1G-8S+IN Cloud Router Switch £201.49（Best Seller）**；品牌含 Ubiquiti／DrayTek／**MikroTik**／Teltonika／Yealink／HPE Instant On／TP-Link／Poynting；设 **Trade Account**（«Apply for a trade account to access additional discounts, custom branded shipments»）→ 交换机品类+网络专营分销+贸易批发 → 人工定级升A。",
+   "quote": "Disruptive Technology Distribution: IT, Network & VOIP | NetXL；Networking／Antennas／CCTV／Smart Home & Security／Speakers／VoIP／Accessories；Best Seller: **MikroTik CRS309-1G-8S+IN 8 SFP+ Port Cloud Router Switch £201.49**；Brands: Ubiquiti／Shelly／Homey／DrayTek／Yealink／HPE Networking Instant On／Poynting／**MikroTik**／TP-Link／Teltonika；Trade Account — Get the Best Trade Pricing: Apply for a trade account to access additional discounts, custom branded shipments and more",
+   "sources": [
+    [
+     1,
+     "https://www.netxl.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-421",
+   "decision": "hold-B",
+   "site": "pymatek.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Pymatek Automation（英国）自述 **«Global sales and distribution of critical components: PLCs, HMIs, drives, motors, and much more»**，品类为 General Automation／Drives & Inverters／Encoders／PLC Systems & Software／Sensors／Pneumatics & Hydraulics，厂家墙为 Danfoss/ABB/Yaskawa/Siemens/Sick/Schneider/Omron/Mitsubishi/Honeywell/Festo/Bosch；**EtherWAN 品牌页存在但为备件检索式（Results 为空），官网无交换机类目** → 工业自动化备件大盘分销，维持B。",
+   "quote": "Global sales and distribution of critical components: PLCs, HMIs, drives, motors, and much more.；Our Categories: General Automation／Drivers & Inverters／Encoders／PLC Systems & Software／Sensors／Pneumatics & Hydraulics；ETHERWAN | Industrial Automation Spare Parts | Pymatek（品牌页 Results: 空，需按料号检索）；Obsolete Industrial Components? How to Source Rotork, Merlin Gerin and Vickers Spares",
+   "sources": [
+    [
+     1,
+     "https://pymatek.co.uk/"
+    ],
+    [
+     2,
+     "https://pymatek.co.uk/etherwan/"
+    ]
+   ]
+  },
+  {
+   "code": "B-422",
+   "decision": "pending",
+   "site": "mikrotiktraining.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网抓取失败（http/https 均不可达）→ 待重试；表内入口 +44 1227 314316 / training@hoka.co.uk（MikroTik 培训方向）。本轮维持B（未复核）。",
+   "quote": "（抓取失败：Failed to fetch page，http 与 https 均不可达）",
+   "sources": [
+    [
+     1,
+     "https://mikrotiktraining.co.uk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-424",
+   "decision": "promote",
+   "site": "switchsfp.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Switch SFP Ltd（英国，sales@switchsfp.com，01285 700 750，原表信号 Antaira 授权）自述 **«An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers»**、Jisc 网络设备框架成员；站内类目含 **Industrial Switches（工业交换机）**、Router、Media Converter、Network Cards、Ethernet Extender、Serial to Ethernet 等，并设渠道合作（与 ASM Technologies 渠道分销合作）→ 交换机品类+网络硬件专营小公司 → 人工定级升A（注：主业为兼容光模块/跳线，交换机为新增线）。",
+   "quote": "Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd；An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers manufactured to ISO 9001:2015 with UKCA and RoHS compliant.；All categories: Active Optical Cable／Antenna／Direct Attached Cable／Ethernet Extender／Fibre Cables／**Industrial Switches**／Media Converter／Network Cards／Optical Transceiver／Router／Secure Terminal Server／Serial to Ethernet；Switch SFP now in Partnership with ASM Technologies for Channel Sales；sales@switchsfp.com 01285 700 750",
+   "sources": [
+    [
+     1,
+     "https://switchsfp.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-425",
+   "decision": "hold-B",
+   "site": "telasys.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：Telasys Ltd（英国，info@telasys.com，+44 2920 002722）自述 **«New, Refurbished, Network and Telecoms Equipment Supplier. Disposal and Remanufacture of Decommissioned Assets»**；主业为二手/翻新 Cisco/Juniper 级设备（MX960、ASR 9006）、资产回收/估值/下线拆机/维修/保修与支持合同、顾问服务；**非新品分销**（页面为「Active Discounts 以旧换新」「Repair 返修」逻辑）→ 维持B。",
+   "quote": "Telasys – New, Refurbished, Network and Telecoms Equipment Supplier. Disposal and Remanufacture of Decommissioned Assets.；Telecoms hardware supply, support & licensing — Huge savings on all aspects of routing, switching and storage systems…；Asset Recovery：Maximise the value of redundant equipment…；Field Services：Decommissioning and De-installs／Integration and Installs／**Repair**（collecting the defective hardware…remanufactured back to OEM specification）；OEM Support: whether it’s SmartNet or J-Care",
+   "sources": [
+    [
+     1,
+     "https://telasys.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-427",
+   "decision": "promote",
+   "site": "store.voicehost.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：VoiceHost（英国，0345 561 0561，support@voicehost.co.uk）为托管 PBX/VoIP 服务商并自营硬件商城：一级目录含 **IP Networking：Routers／Switches（/switches）／Access Points／Wireless Dongles** 与 **Refurbished Routers**，另有 IP 电话/耳机/ATA/Teams 设备，并售卖 **MTCNA（MikroTik 认证培训）** → 小型网络/语音服务商的设备商城，含交换机品类 → 人工定级升A。",
+   "quote": "VoiceHost Store；**IP Networking**：Routers／**Switches**／Access Points／Wireless Dongles；**Refurbished**：Refurbished Routers／Refurbished Phones；IP Phones & Headsets：Desk Phones／Conference Phones／Headsets／Microsoft Teams Devices／Telephone Adapters (ATA)；Offers and Services: SPECIAL OFFERS／Snom-as-a-Service (Leasing)／Device Provisioning Service／**MTCNA**",
+   "sources": [
+    [
+     1,
+     "https://store.voicehost.co.uk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-429",
+   "decision": "promote",
+   "site": "broadbandbuyer.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛21】官网核对：broadbandbuyer（英国，info@broadbandbuyer.com，01908 760795）自述 **«Experts in networks. Your go-to distributor for class-leading network technologies»**；首页推荐类目含 **Gigabit Switches（/store/gigabit-switches/）**、WiFi APs、WiFi Routers、Firewalls、VoIP Phones、IP Cameras、Ethernet Cables；品牌合作含 Ubiquiti（**UK Distributor & Master Reseller**）、DrayTek、NETGEAR、TP-Link、Ruijie Reyee、Zyxel、Hikvision、Yealink、WatchGuard；促销页设 **TRADE ONLY 免费培训**（贸易客户）→ 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Experts in networks. Your go-to distributor for class-leading network technologies.；WiFi Access Points／**Gigabit Switches**／Network Storage／WiFi Routers／Cyber Security／VoIP Phones／IP Cameras／Ethernet Cables；Key technology partners: Ruijie by Reyee／Hikvision UK Authorised Distributor／NETGEAR／**Ubiquiti Networks - UK Distributor & Master Reseller**／DrayTek Official Distributor／QNAP／WatchGuard／Yealink／Synology；TRADE ONLY: Free Training Sessions Available to Trade Customers",
+   "sources": [
+    [
+     1,
+     "https://www.broadbandbuyer.com/"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第10批（意大利/拉脱维亚/挪威/捷克行）。判据同前。",
+ "records": [
+  {
+   "code": "B-168",
+   "decision": "hold-B",
+   "site": "neostar.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛10】域名现跳转至 Brevi Distribuzione（意大利最大 IT 分销/Cash&Carry 网络，43 年，品牌含 Ubiquiti/TP-Link/Zyxel/Aruba 等）→ 大盘分销、决策链长，维持B（域名证据：neostar.it → brevi.it）。",
+   "quote": "Brevi rappresenta uno dei principali Distributori italiani nel mondo dell'Information Technology…Presente da 43 anni…un'ampia rete di Cash & Carry",
+   "sources": [
+    [
+     1,
+     "https://neostar.it/"
+    ],
+    [
+     2,
+     "https://www.brevi.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-170",
+   "decision": "promote",
+   "site": "wirmax.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛10】官网核对：Wirmax（Wireless Networking Online Store，含英文站与经销商价）在售 **MikroTik CRS310-8G+2S+IN Cloud Router Switch**、Ubiquiti PoE、RF Elements 天线、Tachyon 60GHz、多种 PoE 注入器 → 交换机型号明确+无线网络专营 → 人工定级升A。",
+   "quote": "Wirmax - Wireless Networking Online Store；New Products: Mikrotik Cloud Router Switch CRS310-8G+2S+IN（RouterOS/ SwitchOS Dual boot）；Ubiquiti POE-50-60W；RF Elements TPA-A5x；Tachyon TNA-303L-65-LIB；Reserved Price（经销商价）",
+   "sources": [
+    [
+     1,
+     "https://wirmax.net/en/"
+    ]
+   ]
+  },
+  {
+   "code": "B-171",
+   "decision": "pending",
+   "site": "sicetelecom.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛10】站点抓取失败（HTTP 500）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败：HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://sicetelecom.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-174",
+   "decision": "promote",
+   "site": "wisp.store",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛10】官网核对：wisp.store（意大利，Ubiquiti/MikroTik/TP-Link/Tenda/Netis 经销商）**畅销榜含 Ubiquiti UniFi Switch Lite 8 PoE（USW-Lite-8-PoE-EU，4×802.3af/at PoE 口）**、UDM-SE、U6-Pro、MikroTik CCR2116 等 → 交换机产品+PoE+网络专营 → 人工定级升A。",
+   "quote": "Wireless store - Wisp - Rivenditore - Ubiquiti - Mikrotik - TpLink - Tenda - Netis - Italia；I più venduti: Ubiquiti UniFi Switch Lite 8 PoE USW-Lite-8-PoE-EU（Numero di porte PoE: 4x [802.3af/at (1G)]）；Mikrotik CCR2116-12G-4S+",
+   "sources": [
+    [
+     1,
+     "https://wisp.store/"
+    ]
+   ]
+  },
+  {
+   "code": "B-178",
+   "decision": "hold-B",
+   "site": "goodstore.lv",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛10】官网核对：Goodstore.lv（Goodman 集团）为安防/视频监控/门禁/供电/光伏/智能家居网店，仅在供电类下含 PoE，未见网络交换机品类 → 维持B。",
+   "quote": "Goodstore.lv - labākas cenas, ātra piegāde；分类：Videonovērošana／Apsardze／Barošanas avoti（含 PoE, UPS）／Kabeļi un vadi／Saules enerģija／Viedā māja／Piekļuves sistēmas",
+   "sources": [
+    [
+     1,
+     "https://goodstore.lv/"
+    ]
+   ]
+  },
+  {
+   "code": "B-179",
+   "decision": "pending",
+   "site": "nasstore.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：NAS STORE（「Quick EU-wide Network Gear Delivery」）主销 Synology/QNAP NAS 与 MikroTik/Ubiquiti/Teltonika/Ruijie/Zyxel 网络设备，但首页（We Recommend/Brands）未出现交换机 SKU → 待核验 MikroTik/Ruijie 类目；本轮维持B。",
+   "quote": "NAS STORE - Quick EU-wide Network Gear Delivery；Brands: MikroTik, Ubiquiti, Teltonika, Ruijie, Zyxel, NetPro, Synology, QNAP；We Recommend 多为 MikroTik 路由/AP 与 NAS",
+   "sources": [
+    [
+     1,
+     "https://nasstore.eu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-182",
+   "decision": "promote",
+   "site": "router.lv",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：router.lv（拉脱维亚）自述 **Mikrotik Distributor**，产品导航含 **Mikrotik CRS (Cloud Router Switch) 与 CSS (Cloud Smart Switch) 专类**，现货 **CRS518-16XS-2XQ-RM（1.2Tbps 100G 企业/数据中心交换机）**，另有 CCR 路由、SFP 模块、培训页 → 交换机品类完整+分销 → 人工定级升A。",
+   "quote": "www.router.lv - Mikrotik Distributor；Products: Mikrotik CRS (Cloud Router Switch)／Mikrotik CSS (Cloud Smart Switch)／SFP modules／Training；CRS518-16XS-2XQ-RM — A 100 Gigabit switch for enterprise networks and data centers…1.2 Tbps switching capacity（€1286.85，In stock 1）",
+   "sources": [
+    [
+     1,
+     "https://router.lv/products.php"
+    ]
+   ]
+  },
+  {
+   "code": "B-517",
+   "decision": "hold-B",
+   "site": "fiberworks.no",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：Fiberworks AS（奥斯陆，ISO 9001/14001）为光纤网络专营（收发器、WDM 复用器、MPO/MTP、光缆、TAP、仪器、熔接与测试服务），首页无交换机品类（\"Aktivt utstyr\" 仅为入口）→ 维持B。",
+   "quote": "Fiberworks…Netthandel: Transceivere／Multipleksere／MPO/MTP／Aktivt utstyr／TAPs og splittere／Instrumenter…；Tjenester: Kurs, Testlab, Klimakammer, Nettverksanalyse",
+   "sources": [
+    [
+     1,
+     "https://www.fiberworks.no/"
+    ]
+   ]
+  },
+  {
+   "code": "B-518",
+   "decision": "pending",
+   "site": "satel.no",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：SATEL NORGE AS 为 SATEL 官方分销（工业无线/SCADA/GNSS/Machine Control），\"Network Solutions\" 指向 Oring 工业以太网方案但首页无交换机型号 → 待核验 Oring/工业交换类目；本轮维持B。",
+   "quote": "SATEL Norge AS er spesialisert på profesjonelle industrielle produkter og trådløse systemer…；Network Solutions → oringnet.com（manufacturing automation）；satel-official-distributor",
+   "sources": [
+    [
+     1,
+     "https://satel.no/"
+    ]
+   ]
+  },
+  {
+   "code": "B-189",
+   "decision": "hold-B",
+   "site": "abctech.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：ABCTECH 为宽线电子/IT 网店（光伏、逆变、电池、测试仪器、机箱、Cudy 无线、MikroTik 推广位），首页无网络交换机品类 → 宽线零售，维持B。",
+   "quote": "ABCTECH - výpočetní technika a elektronika；banner：MikroTik - řešení, výkon, spolehlivost, cena；产品线含 CARSPA 逆变/充电器、MEAN WELL DIN 电源、Victron、UNI-T 仪表、配电箱",
+   "sources": [
+    [
+     1,
+     "https://www.abctech.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-190",
+   "decision": "pending",
+   "site": "wifihw.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://wifihw.cz/"
+    ]
+   ]
+  },
+  {
+   "code": "B-191",
+   "decision": "hold-B",
+   "site": "atcmarket.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛10】官网核对：ATC Market（AT Computers 集团）为捷克大盘 IT 分销 B2B 平台（整机/服务器/打印/网络/安防/家电等数十品类，含 \"Síťové prvky aktivní\" 类目）→ 大盘分销、决策链长，维持B。",
+   "quote": "ATC Market — Kategorie：Stolní počítače／Notebooky／Servery／Síťové prvky aktivní／Síťové prvky pasivní／Síťové prvky bezdrátové／Dohledové systémy…（B2B 登录/注册）",
+   "sources": [
+    [
+     1,
+     "https://www.atcmarket.cz/"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第18批（美国行）。判据同前。",
+ "records": [
+  {
+   "code": "B-343",
+   "decision": "hold-B",
+   "site": "distrigoinc.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛18】官网核对：Distrigo Inc.（美国北迈阿密 FL，sales@distrigoinc.com）定位 **«STRATEGIC SOURCING PARTNER»**（战略采购/批发代理：Strategic Sourcing、Bulk Procurement、Relationship Management），首页仅展示 MikroTik 精选（LtAP LTE6、Audience、hEX S、CCR2004-16G-2S+、RB4011iGS+RM）并标注 Official MikroTik Reseller；**站内检索 \"switch\" 无结果**（无交换机品类）→ 采购代理/贸易，维持B。",
+   "quote": "Distrigo Inc — STRATEGIC SOURCING PARTNER；We help brands and suppliers grow through smart, tech-enabled sourcing…；What We Do: Strategic Sourcing／Bulk Procurement／Relationship Management；Official MikroTik Reseller（LtAP LTE6 kit／Audience／hEX S／CCR2004-16G-2S+／RB4011iGS+RM）；Search Results for \"switch\": It seems we can’t find what you’re looking for.",
+   "sources": [
+    [
+     1,
+     "https://distrigoinc.com/"
+    ],
+    [
+     2,
+     "https://distrigoinc.com/?s=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-344",
+   "decision": "promote",
+   "site": "doubleradius.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：DoubleRadius（美国网络分销商，shopdoubleradius.com，另设 services.doubleradius.com 服务公司）自述 **«Network Gear & Services»**；品牌含 **MikroTik**／Ubiquiti／Cambium／SAF Tehnika／Baicells／RF elements；Shop by Category 含 **Routing/Switching** 与现货 **Switches** 集合，另有 Access Points、Fiber、LTE、Licensed Links、Video → 交换机品类+网络/WISP 专营分销 → 人工定级升A。",
+   "quote": "DoubleRadius – Beyond the Box｜Network Gear & Services；Top Brands: Ubiquiti／**MikroTik**／SAF Tehnika／Baicells／RF elements／Cambium Networks；Shop by Category: Access Points／Enclosures／Fiber／LTE／Licensed Links／Outdoor Wireless／**Routing/Switching**／Licenses & Warranties／Video；Featured products by category: …Routers…／**Switches**（switches-in-stock）；Services: services.doubleradius.com；Training & Events",
+   "sources": [
+    [
+     1,
+     "https://shopdoubleradius.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-346",
+   "decision": "hold-B",
+   "site": "epcom.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：EPCOM（美国/拉美，Syscom 集团，自述 «Everything in Security, Emergency and Communication Systems»）**在售交换机丰富**：WI-TEK PoE 交换机（WI-PS205V2／WI-PS205HV2／WK-PS305／户外反 PoE WI-PS310GFR-O）、Alta Labs S48-APOE 48 口 PoE+（740W、4×SFP+ 10G）、Grandstream GWN7700/7701/7702/7706；但公司为安防/应急/通信**宽线大型分销商**（月度促销、培训活动、WD/Grandstream 等多品牌）→ 按宽线大型分销商规则维持B。",
+   "quote": "EPCOM - Everything in Security, Emergency and Communication Systems；Search \"switch\"：WI-TEK **WI-PS205V2**（Switch with 4 PoE ports 10/100 up to 250m…Hi-PoE）／**WI-PS205HV2**（PoE Switch Ideal for CCTV）／**WK-PS305**（Smart Switch: 4 PoE Gigabit + 1 Uplink, 45W）／**WI-PS310GFR-O**（WISP/FTTX Switch 7-port 24V reverse PoE + 2 SFP, IP67）／**ALTA Labs S48-APOE**（48 PoE+ Ports, 740W, 4×SFP+ up to 10Gbps）／GRANDSTREAM **GWN7700/7701/7702/7706**；Monthly Deals／Upcoming Trainings／New Solutions",
+   "sources": [
+    [
+     1,
+     "https://epcom.net/"
+    ],
+    [
+     2,
+     "https://epcom.net/products?query=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-350",
+   "decision": "promote",
+   "site": "flyteccomputers.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Flytec Computers（美国迈阿密，website@flyteccomputers.com，+1 305-471-5142）自述 **«Trusted Distributor of Wireless, Wired & Fiber Equipment»**；**Wired Networking 类目 710 件**，页内明确 «Our catalog includes enterprise routers, **PoE and non-PoE switches**, SFP/SFP+ transceivers, rackmount gear, and structured cabling solutions»，另有 Fiber／Surveillance／Wireless Networking／VOIP 类目 → 交换机品类+网络分销 → 人工定级升A。",
+   "quote": "Flytec Computers — Trusted Distributor of Wireless, Wired & Fiber Equipment；Flytec Computers offers a full selection of wired networking hardware…Our catalog includes enterprise routers, **PoE and non-PoE switches**, SFP/SFP+ transceivers, rackmount gear, and structured cabling solutions — all sourced from leading manufacturers…in stock and shipping fast across the USA；Wired Networking（Showing 16 of 710）；Fiber／Surveillance Systems／Wireless Networking／VOIP Systems／Auxiliary；website@flyteccomputers.com，(305) 471-5142",
+   "sources": [
+    [
+     1,
+     "https://flyteccomputers.com/"
+    ],
+    [
+     2,
+     "https://flyteccomputers.com/wired-networking/"
+    ]
+   ]
+  },
+  {
+   "code": "B-351",
+   "decision": "promote",
+   "site": "hexstar.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Hexstar Computer Hardware（美国）为 **MikroTik 专营网店**（品牌/类目：Mikrotik Wireless Systems、**Mikrotik Switches**、Mikrotik Ethernet Routers、Mikrotik Antennas，另 Mikrotik Wireless for SOHO），在售交换机含 **RB260GS、CRS112-8G-4S-IN、CRS125-24G-1S-2HnD-IN、CRS210-8G-2S+IN、CRS109-8G-1S-2HnD-IN**（均可 Add to Cart） → 交换机品类+MikroTik 专营 → 人工定级升A。",
+   "quote": "Hexstar Computer Hardware；Switches: Mikrotik Switches → **RB260GS**（five Gigabit Ethernet ports and one SFP cage）／**CRS112-8G-4S-IN**／**CRS125-24G-1S-2HnD-IN**（fully functional router and a Layer 3 switch）／**CRS210-8G-2S+IN**（eight Gigabit Ethernet ports and two SFP+ cages for 10G）／CRS109-8G-1S-2HnD-IN；Wireless Routers: Mikrotik Wireless Systems／Mikrotik Wireless for SOHO；Mikrotik Antennas: mANT 15s／mANT 19s／mANT30",
+   "sources": [
+    [
+     1,
+     "https://hexstar.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-352",
+   "decision": "pending",
+   "site": "ieiworld.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://ieiworld.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-353",
+   "decision": "promote",
+   "site": "itamtech.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Interamerican Tech Corp（ItamTech，美国迈阿密，sales@itamtech.com，305.639.2524）为网络/安防/VoIP 分销商，首页主推 **«Networking» → Routers & Switches 类目（865 件）**，品牌矩阵含 **MikroTik／Planet／Netonix／Ubiquiti／Teltonika／Cambium／Mimosa／LigoWave／RF elements** 及安防/对讲/对讲机品牌 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "ItamTech（Interamerican Tech Corp）— Helpline 305.639.2524，sales@itamtech.com；首页横幅 Networking → /routers-switches.html（NETWORKING，Items 1-27 of **865**）；Brands: 2N／AccessPRO／Alarm.com／Astron／AXIS／Cambium／Engenius／EPCOM／Fanvil／Fiberhome／Fire-Lite／Grandstream／Hikvision／LigoWave／LinkedPro／**MikroTik**／Mimosa／Motorola／**Netonix**／**Planet**／Plasma Cloud／Reyee／RF elements／Samlex／Shakespeare／Shelly／Sure-Fi／Teltonika／Tycon／Ubiquiti／V-SOL／Yealink／ZKTeco",
+   "sources": [
+    [
+     1,
+     "https://itamtech.com/"
+    ],
+    [
+     2,
+     "https://itamtech.com/routers-switches.html"
+    ]
+   ]
+  },
+  {
+   "code": "B-355",
+   "decision": "promote",
+   "site": "itshopp.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：IT Shopp（美国）自述 «Online Shopping Networking Product and computer Parts»，在售交换机为核心品类：**TP-Link TL-SG3452P JetStream 52-Port L2 Managed PoE（$549.99）、TL-SG1016PE 16-Port Gigabit Easy Smart PoE（$175.99）、Grandstream GWN7806PL Pro L2++ 48-Port PoE（$545.00）、GWN7701M Unmanaged 8-Port（$75.00）**；品牌含 MikroTik／Ubiquiti／Engenius／TP-Link／Yealink／Grandstream／Ezviz，另有 Tycon 24 口千兆防雷 → 交换机品类+网络零售 → 人工定级升A。",
+   "quote": "IT Shopp - Online Shopping Networking Product and computer Parts；Top Deals: **TP Link TL-SG3452P JetStream 52-Port Gig L2 Mgd POE $549.99**／**TL-SG1016PE 16-Port Gigabit Easy Smart PoE Switch $175.99**／Grandstream 21XX-STAND／Ezviz C3TN；New products in Stock: **Grandstream GWN7701M - Unmanaged 8 Port switch $75.00**／**GWN7806PL Pro - L2++ Managed 48 Port PoE Switch - Enterprise $545.00**／Tycon Power TP-ESP-1G-24RM 24 Port Gigabit Lightning and Surge Protection $1,089.99；Brands: MikroTik／Ubiquiti／Engenius／TP-Link／Yealink／Grandstream／Ezviz",
+   "sources": [
+    [
+     1,
+     "https://www.itshopp.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-359",
+   "decision": "hold-B",
+   "site": "leverify.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Leverify（自述 «Wholesale distributor in North America»）为**通用消费电子/办公批发**：耳机（Logitech/Jabra/Sennheiser）、笔记本与配件（HP/Lenovo/Samsung/Canon/Epson）、Garmin 手表、山地自行车零件（SRAM/Shimano）、打印机、存储与内存等，未见网络/交换机品类 → 维持B。",
+   "quote": "Leverify - Wholesale distributor in North America；Categories: Audio Video／Computer Accessories／Electronics／Label Printers／Electronic Devices／Memory Storage；Brands: Samsung／Garmin／Logitech／HP／Microsoft／ASUS／Canon／Sennheiser／Epson／NETGEAR／Apple／Toshiba／Targus／Kingston／SRAM／Shimano／Jabra…；Featured: Logitech H111 Headset／Garmin fēnix 5／Sangean WR-15WL Radio／Targus CityLite Briefcase",
+   "sources": [
+    [
+     1,
+     "https://leverify.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-362",
+   "decision": "promote",
+   "site": "microcom.us",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Microcom Technologies, Inc.（美国）为网络/VoIP 分销商，提供 **Reseller Partner program（注册最高省 50%）**；品牌含 **MikroTik**／Ubiquiti／Cambium／TP-Link／HPE Networking Instant On／NETGEAR／Grandstream／Yealink／Fanvil／Tycon；在售交换机含 **NETGEAR GS108E（$69.95）、HPE Networking Instant On SG1004（$349.00）**，并有 Network Hardware、Wireless LAN、Point-to-point 类目 → 交换机品类+网络分销 → 人工定级升A。",
+   "quote": "Microcom Technologies, Inc. — Save up to 50% by signing up for our Reseller Partner program；Featured Brands: TP-Link／HPE Networking Instant On／**MikroTik**／Cambium Networks／Tycon Systems／NETGEAR／Grandstream／Yealink／Ubiquiti／Fanvil；Featured Products: ZYXEL WBE630S／**NETGEAR GS108E $69.95**／UBIQUITI UNAS 2／**HPE NETWORKING INSTANT ON SG1004 $349.00**／TP-LINK ER706W；Categories: Wireless LAN／Wireless LAN - Point to Point／Network Hardware",
+   "sources": [
+    [
+     1,
+     "https://www.microcom.us/"
+    ]
+   ]
+  },
+  {
+   "code": "B-363",
+   "decision": "promote",
+   "site": "midatlanticruggedsystems.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Mid-Atlantic Rugged Systems（美国，站点 marugged.com）自述 **«Rugged Industrial Computer and Networking Technologies»／«stocking distributor»**，方案含 **Industrial Networking**，厂商伙伴含 **Moxa（台湾）、ORing（台湾工业交换机）、Vecow、SparkLAN、Atop、IEI、Innodisk** 等；首页促销「Take advantage of limited-time promotions on **industrial switches** and more」；行业覆盖工业自动化、轨交 EN50155、电力 IEC-61850-3、IEC 62443 工控安全 → 交换机产品+工业网络专营 → 人工定级升A。",
+   "quote": "Mid-Atlantic Rugged Systems — Rugged Industrial Computer and Networking Technologies；As a **stocking distributor** we are your supply chain partners…；Solutions: IP67 Devices／Mobile Computing／**Industrial Networking**／Industrial Serial／Industrial Wireless／Embedded Communication & Storage；Manufacturer Partners: **Moxa**／Vecow／Innodisk／**ORing**／Womaster／SparkLAN／RuggON／Handheld／Starlake／IEI／Pattor／Atop；Take advantage of limited-time promotions on **industrial switches** and more；Markets: Industrial Automation／Smart Transportation（EN50155）／Oil, Gas & Mining（ATEX）／Power & Utilities（IEC-61850-3）／Industrial Cybersecurity（IEC 62443-4-2）／Military & Government",
+   "sources": [
+    [
+     1,
+     "https://marugged.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-364",
+   "decision": "promote",
+   "site": "multilink.us",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛18】官网核对：Multilink Solutions Inc.（美国辛辛那提，自述 **«B2B Network Hardware Distributor»／«Authorized US Distributor, ISP, WISP, Campus, Security Supply»**，sales@multilink.us，888-254-8006）：30+ 授权品牌、5,000+ SKU，代理 **MikroTik／Ubiquiti／TP-Link／Revotik**；企业方案明确含 **Switching**、WiFi、firewalls、racks、UPS；另供 Fiber & GPON/FTTH、VoIP 与项目报价 → 交换机品类+网络硬件分销 → 人工定级升A。",
+   "quote": "Multilink Solutions Inc. | B2B Network Hardware Distributor；Authorized US Distributor — ISP, WISP, Campus, Security Supply；Wholesale Network Hardware for Business and Infrastructure Teams（networking, wireless, fiber, security, power, and voice hardware with US-based fulfillment and project pricing support）；10+ Years Supporting Networks／30+ Authorized Brands／5,000+ Available SKUs／US Fulfillment；Enterprise & IT Teams: **Switching**, WiFi, firewalls, racks, UPS, and power gear；Brands: **MikroTik**／Ubiquiti／TP-Link／Revotik；sales@multilink.us，(888) 254-8006",
+   "sources": [
+    [
+     1,
+     "https://multilink.us/"
+    ]
+   ]
+  }
+ ]
+}

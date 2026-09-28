@@ -1,0 +1,662 @@
+{
+ "date": "2026-09-27",
+ "scope": "A260–A279顺号联络研究：官网/注册/第三方目录/本地旧线索；不改等级、编号、顺序或策略输出",
+ "records": [
+  {
+   "code": "A-260",
+   "name": "Maurice Van Der Grijspaarde",
+   "country": "荷兰",
+   "city": "Haarlem",
+   "email": "info@gpe-networks.com",
+   "site": "https://gpe-networks.com",
+   "level": "official-company",
+   "note": "官网联系页正文给出公司邮箱info@gpe-networks.com、电话023 7640 540与Haarlem地址Wateringweg 133，与MikroTik名录城市一致；LinkedIn与客户案例页显示Maurice van der Grijspaarde与GPE Networks关联。公司邮箱不等于个人直邮/现任职。库内B-440为同名同公司记录，只关联不合并；另有SMT Systems/Amsterdam同名旧档案线索，不能确认同一人。",
+   "quote": "Contact页正文：E-mail info@gpe-networks.com / Telefoon 023 7640 540 / Wateringweg 133, 2031 EG Haarlem / KvK 99477238 / LinkedIn：Experience GPE Networks, Location Haarlem / GPE首页客户评价：Maurice onze Netwerk legend! ... Mikrotik Router",
+   "sources": [
+    [
+     1,
+     "https://gpe-networks.com/contact/"
+    ],
+    [
+     2,
+     "https://www.linkedin.com/in/mauricevandergrijspaarde/"
+    ],
+    [
+     3,
+     "https://xs-anywhere.com/klantcases/de-titel-van-een-opgeleverd-project-4/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-440 Maurice van der Grijspaarde / GPE Networks（同名同公司，仅关联不合并）"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-261",
+   "name": "Joost Van De Weijer",
+   "country": "荷兰",
+   "city": "Bladel",
+   "email": "sales@iptechniek.nl",
+   "site": "https://iptechniek.nl",
+   "level": "official-company",
+   "note": "IP Techniek官网首页正文给出Bladel地址、电话与sales@iptechniek.nl；LinkedIn显示Joost Van De Weijer任职IPtechniek.nl、所在地Bladel、教育背景为mikrotik network education。公司邮箱不等于个人直邮/现任职。",
+   "quote": "Ip Techniek Telefonie en Data Communicatie / IP Techniek, Raamloop 3, 5531PC, Bladel / T. 0497-741013, E. sales@iptechniek.nl / LinkedIn：Experience IPtechniek.nl; Education mikrotik network education; Location Bladel",
+   "sources": [
+    [
+     1,
+     "https://iptechniek.nl/"
+    ],
+    [
+     2,
+     "https://www.linkedin.com/in/joost-van-de-weijer-86482a179/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-262",
+   "name": "NetHighTech",
+   "country": "葡萄牙",
+   "city": "Lisboa",
+   "email": "nethightech@gmail.com",
+   "site": "https://www.nethightech.com",
+   "level": "official-search-only",
+   "note": "MikroTik官方课程表确认其为里斯本培训伙伴（MTCSWE等课程在列）；邮箱与电话仅见于搜索索引（对应课程页本轮返回404，首页仍含MikroTik培训栏目），正文未复见，故按official-search-only处理、标注待核；Gmail地址不作为已验证企业邮箱、未测试投递。",
+   "quote": "mikrotik.com/training：Portugal, Lisboa — NetHighTech（MTCWE/MTCNA/MTCSE/MTCIPv6E/MTCSWE等）/ 搜索索引 nethightech.com/300-630/：nethightech@gmail.com、(+)351 912 826594 / 本轮直取该页与/contact/均404，nethightech.com首页含MikroTik培训栏目",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/training"
+    ],
+    [
+     2,
+     "https://nethightech.com/300-630/"
+    ],
+    [
+     3,
+     "https://www.nethightech.com/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-263",
+   "name": "ATYS Co Controll Enginering",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "email": "sales@atysco.hu",
+   "site": "https://www.atysco.hu",
+   "level": "official-obfuscated-company",
+   "note": "ATYS-CO Kft官网联系页以可逆写法给出邮箱（EN页atysco[at]atysco[dot]hu、sales[at]atysco[dot]eu；HU页atysco[kukac]atysco[pont]hu）并列出销售邮箱sales@atysco.hu、总经理Ottó Jász及具名邮箱；主用销售入口。CSV原电话+36 1 263 2561与官网公布的+36 1 263-2193/263-0212不同，属名录与官网差异，不据此改写客户电话。库内C-167、C-231为相关实体，仅关联不合并。",
+   "quote": "EN contact：E-mail: atysco[at]atysco[dot]hu, sales[at]atysco[dot]eu / Sales: E-mail sales@atysco.hu / Impressum: Manager Director Ottó Jász, Contact ifj.jasz.otto@atysco.hu / HU kapcsolat: atysco[kukac]atysco[pont]hu, sales[kukac]atysco[pont]hu",
+   "sources": [
+    [
+     1,
+     "https://www.atysco.hu/en/contact"
+    ],
+    [
+     2,
+     "http://www.atysco.hu/hu/kapcsolat"
+    ],
+    [
+     3,
+     "https://www.companywall.hu/v%C3%A1llalat/atys-co-kft/MM9yv8a0"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：C-167 ATYS Co Controll Engineering（匈牙利）、C-231 ATYS-co Romania（罗马尼亚）——相关实体，仅关联不合并"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-264",
+   "name": "Cogent Distribution",
+   "country": "英国",
+   "city": "Newbury, Berkshire",
+   "email": "enquiries@cogentdistribution.com",
+   "site": "https://www.cogentdistribution.com",
+   "level": "official-company",
+   "note": "官网联系页正文给enquiries@cogentdistribution.com与电话+44 (0)1635 917 722、Newbury地址；2023官方手册另给sales@与solutions@部门入口。Perle授权分销身份来自旧记录来源标签，本轮未重读Perle名录页，不重复背书。",
+   "quote": "Contact Us：enquiries@cogentdistribution.com / +44 (0)1635 917 722 / Cogent Distribution Ltd, Technology House, Kennet Side, Bone Ln, Newbury, RG14 5PX / 2023官方手册：sales@cogentdistribution.com、solutions@cogentdistribution.com",
+   "sources": [
+    [
+     1,
+     "https://www.cogentdistribution.com/contact-us/"
+    ],
+    [
+     2,
+     "https://www.cogentdistribution.com/wp-content/uploads/2023/10/Cogent-Distribution-A4-Brochure_digital_version.pdf"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-265",
+   "name": "Sphinx Connect",
+   "country": "法国",
+   "city": "Montaigu",
+   "email": "sales@sphinxfrance.fr",
+   "site": "https://www.sphinxfrance.com",
+   "level": "official-company",
+   "note": "Sphinx France官网联系页正文给出sales@sphinxfrance.fr、+33 2 51 09 26 60与Montaigu地址Parc de la Bretonnière，与Perle法国名录中的Sphinx Connect地址一致；Advantech伙伴目录另给mail@sphinxconnect.fr作旁证。库内C-214 Sphinx France、C-047 Sphinx Italia及德Sphinx Computer Vertriebs为不同法人/品牌，勿合并。",
+   "quote": "Contactez-nous：Email : sales@sphinxfrance.fr / Parc de la Bretonnière, 85600, Montaigu, France / +33 2 51 09 26 60 / Perle France名录：Sphinx Connect, Parc de la Bretonnière, Montaigu / Advantech伙伴页：mail@sphinxconnect.fr",
+   "sources": [
+    [
+     1,
+     "https://www.sphinxfrance.com/contactez-nous"
+    ],
+    [
+     2,
+     "https://www.perle.com/howtobuy/distributors.aspx?countryname=France"
+    ],
+    [
+     3,
+     "https://www.advantech.com/emt/partners/channel/419"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：C-214 Sphinx France（法国）、C-047 Sphinx Italia（意大利）——相关品牌不同实体，仅关联不合并"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-266",
+   "name": "Andisa IT",
+   "country": "英国",
+   "city": "Harrogate",
+   "email": "supportdesk@andisa.net",
+   "site": "https://www.andisa.net",
+   "level": "official-company",
+   "note": "官网支持页正文给supportdesk@andisa.net与电话01423 290029，首页结构化数据给sales@andisa.net；Harrogate地址与名录一致。2018年MUM官方PDF显示Andy Morrison为MikroTik顾问/主讲并列出andy@andisa.net，属历史具名证据，不当作现直邮；个人现任职未独立复核。",
+   "quote": "Support页正文：Phone: 01423 290029 / Email: supportdesk@andisa.net / 首页结构化数据：contactPoint sales@andisa.net / MUM UK18 PDF：Andy Morrison ... www.andisa.net 01423 290029 ... Provide Mikrotik consultancy & IT Consultancy",
+   "sources": [
+    [
+     1,
+     "https://www.andisa.net/support/"
+    ],
+    [
+     2,
+     "https://www.andisa.net/"
+    ],
+    [
+     3,
+     "https://mum.mikrotik.com/presentations/UK18/presentation_5911_1539085610.pdf"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-267",
+   "name": "IndustrialComms",
+   "country": "英国",
+   "city": "Toddington, Bedfordshire",
+   "email": "sales@industrialcomms.com",
+   "site": "https://www.industrialcomms.com",
+   "level": "official-company",
+   "note": "官网联系页与EtherWAN产品页正文均给sales@industrialcomms.com与+44 (0)203 086 9569；公司名Industrial Communication Products Ltd、Toddington地址与旧记录一致。EtherWAN分销身份在本轮抓取的EtherWAN产品页复见。",
+   "quote": "Contact Us：Telephone: +44 (0) 203 086 9569 Extn 10# / Email: sales@industrialcomms.com / EtherWAN页：UK distributor of EtherWAN ... Industrial Communication Products Ltd, The Angel Business Centre, 1 Luton Road, Toddington, Bedfordshire, LU5 6DE",
+   "sources": [
+    [
+     1,
+     "https://www.industrialcomms.com/pages/contact-us"
+    ],
+    [
+     2,
+     "https://www.industrialcomms.com/pages/etherwan"
+    ],
+    [
+     3,
+     "https://www.modernrailways.com/companies/industrial-communication-products-ltd"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-268",
+   "name": "5Gstore",
+   "country": "美国",
+   "city": "",
+   "email": "sales@5gstore.com",
+   "site": "https://5gstore.com",
+   "level": "official-company",
+   "note": "官网隐私页正文给sales@5gstore.com与1-833-5GSTORE、Crystal Lake IL地址；Teltonika分销栏目页复核其为authorized Teltonika Distributor。官网联系表单为第三方Cognito表单，不显示邮箱。",
+   "quote": "Privacy Notice：We can be reached via e-mail at sales@5gstore.com or you can reach us by telephone at 1-833-5GSTORE / postal address 220 Exchange Drive, Crystal Lake, IL / Teltonika landing：As an authorized Teltonika Distributor ...",
+   "sources": [
+    [
+     1,
+     "https://5gstore.com/site/privacy.html"
+    ],
+    [
+     2,
+     "https://5gstore.com/landing/c/teltonika_distributor/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-269",
+   "name": "Micro Technology Consultants",
+   "country": "美国",
+   "city": "Warner Robins, GA",
+   "email": "info@microtechnology.net",
+   "site": "https://www.microtechnology.net",
+   "level": "official-company",
+   "note": "官网联系页正文给info@与sales@microtechnology.net及电话478-953-1921、Warner Robins地址。Facebook页显示具名Kyle.smith@Microtechnology.net（第三方平台、不作主邮箱）；ZoomInfo等对员工邮箱遮罩，未采纳。",
+   "quote": "CONTACT US：Email info@microtechnology.net / sales@microtechnology.net / Phone 478-953-1921 (local), 800-689-9301 / 132 Osigian Blvd, Warner Robins, GA 31088 / Facebook intro：Kyle.smith@Microtechnology.net",
+   "sources": [
+    [
+     1,
+     "https://www.microtechnology.net/contact"
+    ],
+    [
+     2,
+     "https://www.facebook.com/MicroTechnologyConsultants/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-270",
+   "name": "Data Connect",
+   "country": "美国",
+   "city": "",
+   "email": "sales@data-connect.com",
+   "site": "https://www.data-connect.com",
+   "level": "official-company",
+   "note": "官网联系页正文按角色列出邮箱：总sales@/support@data-connect.com，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe drowe@，总部Olney, Maryland。GarrettCom授权行在vendors页复见；旧备注所称MASTER STOCKING DISTRIBUTOR与TAC在首页可见对应字样，未逐字复核TAC中心表述。",
+   "quote": "WORLDWIDE SALES & SUPPORT ... sales@data-connect.com / support@data-connect.com / Distributors & Consultants: Barry Patton 301-924-7400x12 bpatton@data-connect.com / Integrators, VARs & Resellers: Daniel Rowe drowe@data-connect.com / vendors页：garrettcom Authorized Reseller",
+   "sources": [
+    [
+     1,
+     "https://www.data-connect.com/contact_information.htm"
+    ],
+    [
+     2,
+     "https://www.data-connect.com/"
+    ],
+    [
+     3,
+     "https://www.data-connect.com/vendors.htm"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-271",
+   "name": "Michiel Visser",
+   "country": "荷兰",
+   "city": "Deventer",
+   "email": "info@interstellar.nl",
+   "site": "https://interstellar.nl",
+   "level": "official-company",
+   "note": "LinkedIn显示Michiel Visser任职Interstellar（Amersfoort/Utrecht），并在2026 MikroTik Professionals Conference演讲MikroTik spine-leaf交换架构；Interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室。名录城市Deventer与LinkedIn所在地Apeldoorn不同，不据此改城市；集团邮箱不等于个人直邮。",
+   "quote": "Interstellar Contact：Stuur een email mailto:info@interstellar.nl；Amersfoort Terminalweg 38A / Delft Delftechpark 35 ... / LinkedIn：Experience Interstellar; Location Apeldoorn; ... my talk at Mikrotik Professionals Conference (MTPC) 2026 in Prague about Mikrotik based spine-leaf switching architecture",
+   "sources": [
+    [
+     1,
+     "https://interstellar.nl/contact/"
+    ],
+    [
+     2,
+     "https://www.linkedin.com/in/michiel-visser-a0720b81/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-272",
+   "name": "Alexandr Mensenin",
+   "country": "捷克",
+   "city": "Ostrava",
+   "email": "",
+   "site": "",
+   "level": "leads-only",
+   "note": "官方顾问名录页邮箱为遮罩式Email链接不可读取，本轮直接抓取该国页面只得到JS地图外壳；未找到其自有网站或其他正文邮箱，保留原电话/WhatsApp为触达。搜索命中的Michal Měňšenin（Ostrava建筑与园林公司登记）为疑似不同人，不导入。原“待人工补邮箱”标注保留。",
+   "quote": "Consultants（搜索索引）：Alexandr Mensenin — MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCSE — Ostrava, Czech Republic — phone +420608746740 / WhatsApp 608746740 / email Email（遮罩链接）/ 本轮 https://mikrotik.com/consultants/europe/czech 仅返回地图外壳与No results found",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants/europe/czech"
+    ],
+    [
+     2,
+     "https://www.finmag.cz/obchodni-rejstrik/osoba/michal-mensenin"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-273",
+   "name": "Kevin Myers",
+   "country": "美国",
+   "city": "Flowood, MS",
+   "email": "consulting@iparchitechs.com",
+   "site": "https://iparchitechs.com",
+   "level": "official-company-historical-named",
+   "note": "IP ArchiTechs现官网联系页正文给consulting@iparchitechs.com（原样含空格，mailto同），电话+1 (855) 645-7684；2016年MikroTik官方MUM PDF列出Kevin Myers职务与kevin.myers@iparchitechs.com、办公室(303) 590-9943，属历史具名证据，不作现直邮。LinkedIn显示其2024年起在StubArea51.net。库内C-131 Samson Kamwendo / IP Architechs为相关实体记录，仅关联。",
+   "quote": "Contact IP ArchiTechs：consulting @iparchitechs.com（页面原样，mailto同）/ +1 (855) 645-7684 / MUM US16 PDF：KEVIN MYERS, NETWORK ARCHITECT / MANAGING PARTNER, MTCINE #1409, MIKROTIK CERTIFIED TRAINER — Email: kevin.myers@iparchitechs.com — Office: (303) 590-9943 / LinkedIn：IPv6/IPv4 Network Architect ... StubArea51.net Jan 2024 - Present",
+   "sources": [
+    [
+     1,
+     "https://iparchitechs.com/contact-ip-architechs/"
+    ],
+    [
+     2,
+     "https://mum.mikrotik.com/presentations/US16/presentation_3327_1462279781.pdf"
+    ],
+    [
+     3,
+     "https://www.linkedin.com/in/ipv6-kevin-myers/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：C-131 Samson Kamwendo / IP Architechs（英国）——相关实体，仅关联不合并"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-274",
+   "name": "Nathael Leblanc",
+   "country": "加拿大",
+   "city": "Montreal",
+   "email": "info@joustsec.com",
+   "site": "https://joustsec.com",
+   "level": "official-company",
+   "note": "Joust Security官网首页与关于页正文给info@joustsec.com、Montreal总部与电话+1-514-418-0585；隐私政策另给privacy@，joustlabs.net给noc@/soc@/abuse@joustsec.com。名录网页地址为joustsec.com，与公司一致；个人职衔未独立复核，客服电话与名录手机号不同、不改原电话。",
+   "quote": "Clever Security Consulting / Headquartered in Montreal, Canada / info@joustsec.com / Montreal: +1-514-418-0585 / Privacy：privacy@joustsec.com / Joust Labs POCs：noc@joustsec.com, soc@joustsec.com, abuse@joustsec.com",
+   "sources": [
+    [
+     1,
+     "https://joustsec.com/"
+    ],
+    [
+     2,
+     "https://joustsec.com/about.html"
+    ],
+    [
+     3,
+     "https://joustlabs.net/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-275",
+   "name": "Philippe Lachapelle",
+   "country": "加拿大",
+   "city": "Montreal",
+   "email": "info@canservers.com",
+   "site": "https://canservers.com",
+   "level": "official-company",
+   "note": "CanServers官网联系页正文给info@canservers.com、1-866-696-3912与Skype ludarcorp，电话与名录一致；X账号显示Montréal, Québec。个人与公司关系仅来自MikroTik名录网页地址，未独立复核职衔。",
+   "quote": "Contact Us：Phone: 1-866-696-3912 / Email: info@canservers.com / Skype: ludarcorp / X：CanServers ... Montréal, Québec",
+   "sources": [
+    [
+     1,
+     "https://canservers.com/contact"
+    ],
+    [
+     2,
+     "https://x.com/canadaservers"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-276",
+   "name": "Neobits",
+   "country": "美国",
+   "city": "California",
+   "email": "sales@neobits.com",
+   "site": "https://www.neobits.com",
+   "level": "official-company",
+   "note": "官网联系页正文给sales@neobits.com、1-866-636-2487与Santa Clara总部地址，并列出供应商入口vendors@与客服customercare@；电话与名录一致。第三方政府采购资料重复同一组邮箱，仅旁证。",
+   "quote": "Contact Us：Neobits Inc. 3350 Scott Blvd., STE 4601 Santa Clara, CA 95054 / Toll free: 1-866-636-2487 / email us at sales@neobits.com / Prospective new suppliers, please email vendors@neobits.com / Customer Care ... customercare@neobits.com",
+   "sources": [
+    [
+     1,
+     "https://www.neobits.com/contactUs"
+    ],
+    [
+     2,
+     "https://www.neobits.com/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-277",
+   "name": "Modelec Data-Industrie",
+   "country": "荷兰",
+   "city": "Ede",
+   "email": "contact@modelec.nl",
+   "site": "https://www.modelec.nl",
+   "level": "official-company",
+   "note": "MODELEC官网联系页正文给Sales contact@modelec.nl、Support support@modelec.nl、订单order@，电话+31 (0)318 636 262与旧记录一致，地址Ede；支持页复核其自称Moxa与Westermo荷兰官方分销商。",
+   "quote": "Contact：Bezoekadres Galvanistraat 38 6716 AE Ede / Telefoonnummer +31 (0)318 – 636 262 / Afdeling Sales contact@modelec.nl / Support support@modelec.nl / Bestellingen order@modelec.nl / Support页：officieel Nederlands distributeur van Moxa en Westermo",
+   "sources": [
+    [
+     1,
+     "https://www.modelec.nl/contact/"
+    ],
+    [
+     2,
+     "https://www.modelec.nl/support/"
+    ],
+    [
+     3,
+     "https://www.modelec.nl/"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-278",
+   "name": "Cayman Wireless",
+   "country": "美国",
+   "city": "",
+   "email": "sales@caymanwireless.com",
+   "site": "https://www.caymanwireless.com",
+   "level": "public-register",
+   "note": "官网正文确认其Authorized Partner Brands含MikroTik与Netonix，但联系入口邮箱在本轮抓取中被遮罩、正文未显示；sales@caymanwireless.com仅有第三方目录结构化数据支持，故按public-register处理，未验证投递、未测试。",
+   "quote": "官网：Authorized Partner Brands ... MikroTik ... Netonix；Contact Technical Sales（邮箱被遮罩）956-825-0710 / 黄页与Manta结构化数据：sales@caymanwireless.com，Harlingen, TX，电话956-825-0710",
+   "sources": [
+    [
+     1,
+     "https://www.caymanwireless.com/"
+    ],
+    [
+     2,
+     "https://www.yellowpages.com/harlingen-tx/mip/cayman-wireless-inc-461428339"
+    ],
+    [
+     3,
+     "https://www.manta.com/c/mryrnqs/cayman-wireless-inc"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  },
+  {
+   "code": "A-279",
+   "name": "wlanparts",
+   "country": "美国",
+   "city": "",
+   "email": "",
+   "site": "",
+   "level": "leads-only",
+   "note": "wlanparts.com首页现为systeme.io占位页，只有电话626.243.2110/866.297.2281，/contact-us/返回404，站点不再是无线产品目录；未找到可验证邮箱，保留原电话。Crunchbase标注WLanParts(closed)、Pasadena, California；Ubiquiti社区帖称其为Pasadena Networks并提及名为Frank的联系人，属论坛转述，不作正式联系人。",
+   "quote": "wlanparts.com首页现为systeme.io占位页：626.243.2110 / 866.297.2281 / /contact-us/ 404 / Crunchbase：WLanParts (closed), Pasadena, California, +1 626 243 2110 / Ubiquiti社区：Pasadena Networks aka wlanparts.com ... Frank",
+   "sources": [
+    [
+     1,
+     "https://www.wlanparts.com/"
+    ],
+    [
+     2,
+     "https://www.crunchbase.com/organization/wlanparts"
+    ],
+    [
+     3,
+     "https://community.ui.com/questions/Very-poor-experience-with-Pasadena-Networks-aka-wlanparts-com/424d2ee6-8e55-4bd8-9505-4af354999307"
+    ]
+   ],
+   "local_sources": [],
+   "fields_supported": [
+    "入口/联系方式（含待核或未找到状态）",
+    "网站/候选域名",
+    "身份关联（按note限制）"
+   ],
+   "retrieved_on": "2026-09-27",
+   "retrieval_method": "web_search + fetch_page；逐来源的正文/索引/失败/本地证据差异见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。"
+  }
+ ]
+}

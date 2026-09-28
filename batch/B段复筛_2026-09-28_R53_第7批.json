@@ -1,0 +1,174 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第7批（希腊/德国行）。判据同前。",
+ "records": [
+  {
+   "code": "B-120",
+   "decision": "promote",
+   "site": "e-wireless.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：e-Wireless（希腊，与 Cableworks 同集团/同电话）为有线无线网络专营网店，**MikroTik→CSS Series、CRS Series、CCR Series 专类**，Teltonika→Switches，TP-Link→Switches，Ubiquiti UniFi/UISP → 交换机品类完整+网络专营 → 人工定级升A。",
+   "quote": "e-Wireless | Wired & Wireless Networking, Fiber Optics, Ubiquiti, Mikrotik, TP-Link；MikroTik: CSS Series／CRS Series；Teltonika: Switches；TP-Link: Switches；Δικτυακά: Routers, switches, Οπτική Ίνα, Access Points",
+   "sources": [
+    [
+     1,
+     "https://www.e-wireless.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-121",
+   "decision": "hold-B",
+   "site": "exasolutions.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：EXA Solutions（Ηράκλειο/Αθήνα）为 Managed IT/云/安全服务商（网络规划含 Routing/Wi-Fi/VPN），无产品目录与交换机品类 → 维持B。",
+   "quote": "EXA Solutions | Managed IT, Cloud；Υπηρεσίες：Managed IT & Υποστήριξη／Δίκτυα, Cloud & Ασφάλεια（Routing, Wi-Fi & VPN）／Λογισμικό & Integrations",
+   "sources": [
+    [
+     1,
+     "https://exasolutions.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-124",
+   "decision": "hold-B",
+   "site": "dslab.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】站点为「Site is under construction」占位页，无任何业务/品类信息 → 维持B（死站/未上线）。",
+   "quote": "Digital Services Lab — Site is under construction.",
+   "sources": [
+    [
+     1,
+     "https://dslab.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-125",
+   "decision": "promote",
+   "site": "hellasdigital.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛6/7】官网核对：Hellas Digital（雅典 Glyfada）在线商店 **Networking→Switch 独立分类**，另有 TP-Link Omada、PoE Peripherals、Mimosa Networks、结构化布线、防火墙 → 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "Networking：Tp-Link Omada／Wireless／Router／**Switch**／4G-5G LTE／Structured Hardware／Fiber Optics／PoE Peripherals／Firewall／Mimosa Networks",
+   "sources": [
+    [
+     1,
+     "https://www.hellasdigital.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-127",
+   "decision": "hold-B",
+   "site": "alfa-tech.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：AlfaTech 自称 Total Solutions Provider（IT/机械信息化/POS/安全/电话系统），品牌墙含 MikroTik/UBNT/TP-Link，但无交换机品类或产品目录，网络只是服务项之一 → 维持B。",
+   "quote": "AlfaTech - Total Solutions Provider；Υπηρεσίες: Τεχνική Υποστήριξη／Εγκατάσταση Δικτύων／Μηχανογράφηση ERP/POS／Συστήματα ασφαλείας／Τηλεφωνικά Κέντρα；品牌含 Mikrotik, UBNT, TP-Link",
+   "sources": [
+    [
+     1,
+     "https://www.alfa-tech.gr/el/"
+    ]
+   ]
+  },
+  {
+   "code": "B-129",
+   "decision": "hold-B",
+   "site": "marac.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：MARAC S.A.（1976 年创立，曾于雅典证交所上市，集团型）为系统集成商，业务跨有线/无线通信、海运、能源、气象等六大板块 → 大型集团、决策链长，维持B。",
+   "quote": "Η MARAC ιδρύθηκε το 1976 στον Πειραιά…ένας από τους σημαντικότερους ομίλους…εισηγμένη στο ελληνικό χρηματιστήριο από το 2003；六大板块：Ενσύρματες/Ασύρματες Επικοινωνίες, Πληροφορική, Ναυτιλιακά, Ειδικές Εφαρμογές, Ενέργεια",
+   "sources": [
+    [
+     1,
+     "https://marac.gr/intro.php"
+    ]
+   ]
+  },
+  {
+   "code": "B-131",
+   "decision": "hold-B",
+   "site": "ien.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：IEN 为 Mitel Gold Partner（企业电话/统一通信/呼叫中心软件，BT/Noetica/Poly 合作），无网络交换机业务 → 品类不符，维持B。",
+   "quote": "IEN, a leading telecommunication solution provider…As a Mitel Gold Partner…collaboration, unified communications, and contact center solutions；IEN is an official distributor of BT’s trading and command portfolio",
+   "sources": [
+    [
+     1,
+     "https://www.ien.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-134",
+   "decision": "pending",
+   "site": "tele-net.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://tele-net.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-135",
+   "decision": "promote",
+   "site": "xpatit.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：Xpatit 为无线/网络专营网店（MIKROTIK/UBIQUITI/TP-LINK/TELTONIKA/RUCKUS/RF-ELEMENTS），**Switch 分类含 Managed：MikroTik CRS328-24P-4S+RM（24口PoE+4×SFP+）、CRS326、Teltonika SWM281、Grandstream GWN7811 L3 管理型**，B2B 伙伴计划（30 天账期）→ 交换机品类完整+PoE+渠道 → 人工定级升A。",
+   "quote": "Switch—Managed：MikroTik CRS328-24P-4S+RM 24xGLAN 4xSFP+／CRS326-24G-2S+IN／Teltonika SWM281 Gigabit Managed Switch／Grandstream GWN7811 Enterprise Layer 3 Managed Network Switch；Β2Β συνεργασία με ανοικτή πίστωση έως 30 ημέρες",
+   "sources": [
+    [
+     1,
+     "https://www.xpatit.gr/el"
+    ]
+   ]
+  },
+  {
+   "code": "B-136",
+   "decision": "promote",
+   "site": "wirelesslan.gr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：Wirelesslan（塞萨洛尼基）为无线/网络网店，**Featured/Best Seller 含 TP-LINK TL-SG3210 JetStream L2 管理型交换机（2×SFP）与 Ubiquiti USW-Ultra UniFi 交换机（7×PoE+，52W）**，另有 UniFi U7 Pro Max 等 → 交换机品类+PoE → 人工定级升A。",
+   "quote": "TP-LINK TL-SG3210 JetStream V3 8-Port Gigabit L2 Managed Switch with 2 SFP Slots（€125）；Ubiquiti USW-Ultra, UniFi Switch, 8xGigabit, 7xPoE+, 1xPoE++ IN, 52W（€127）",
+   "sources": [
+    [
+     1,
+     "https://wirelesslan.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-137",
+   "decision": "promote",
+   "site": "omg.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：OMG.DE 为 WLAN/定向无线/智能家居专业零售商，**MikroTik 品牌专区含 Cloud Router Switches（在售 CRS520-4XS-16XQ-RM，Lagerware 现货）**，另有 Ubiquiti UniFi/Teltonika/Cambium，设 Enterprise 伙伴与安装商优惠计划 → 交换机品类+渠道 → 人工定级升A。",
+   "quote": "OMG.DE - WLAN, Richtfunk & Smart Home vom Fachhändler；MikroTik: Cloud Router Switch CRS520-4XS-16XQ-RM（1.741,49 €，Lagerware sofort verfügbar）／CCR2216-1G-12XS-2XQ；Ubiquiti Enterprise Partner-Aktion",
+   "sources": [
+    [
+     1,
+     "https://www.omg.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-138",
+   "decision": "hold-B",
+   "site": "shop.allnet.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛7】官网核对：shop.allnet.de 为 ALLNET Distribution **仅限注册经销商的 B2B 订货平台**（德/奥大盘分销，含网络_主动元件、UCC、视频监控、测量仪器等数十品类）→ 大盘分销、决策链长，维持B（与 B-001 ALLNET Nordic 同集团口径）。",
+   "quote": "ALLNET Fachhandelsshop…Als registrierter Wiederverkäufer können Sie hier 24 Stunden am Tag auf das komplette Portfolio der ALLNET Distribution zugreifen…professionelle Netzwerk-, UCC-, Video Surveillance- Lösungen und professionelles Messequipment",
+   "sources": [
+    [
+     1,
+     "https://shop.allnet.de/"
+    ]
+   ]
+  }
+ ]
+}
