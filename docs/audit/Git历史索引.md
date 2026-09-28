@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `3f117f069dec` | 2026-09-28T01:45:16+00:00 | R52: finish duplicate-hint review (C-011 to A-431, 21 rows held with reasons) |
 | `7f4dfd3fc73c` | 2026-09-28T01:40:43+00:00 | Refresh audit index after R51 commit |
 | `3a9e80117291` | 2026-09-28T01:40:34+00:00 | R51: upgrade qualifying duplicate-hint rows to A (user rule: upgrade when A standard met) |
 | `6f2988b7ef51` | 2026-09-28T01:33:48+00:00 | Refresh audit index after R50 commit |
