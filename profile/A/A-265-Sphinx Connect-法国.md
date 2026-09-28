@@ -58,7 +58,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第14批.json`。
+
+- **业务定位**：法国 25 年 IIoT 分销（Moxa 锚牌+OT 安全门面）：工业交换机在架——**Moxa 之下价位档与窄线是口子**。
+- **产品线与在售品牌**：Moxa/Semtech/Sintrones/Kerlink/Adder/InHand 等+工业交换机/4G 路由/串口/KVM 类目。
+- **目标行业与场景**：法国工业/能源/交通集成商渠道；OT 安全话题客群。
+- **团队与规模**：中型 VAD（商城+博客+25 年）。
+- **决策链与对接人**：sales@sphinxfrance.fr（官网联系页正文，CSV 9-27 official-company）；+33 2 51 09 26 60。
+- **技术与认证**：Perle 授权分销（CSV 记录）+Moxa 等在架。
+- **采购与供应链信号**：Moxa 锚位极深：只做**非管理低价档工业件**与 Moxa EOL 替换报价单旁的价位档——EOL 横幅=老型号替换需求在流动。
+- **近期动态与线索**：Moxa EOL 通知挂首页=替换潮窗口主动。
+- **与我方契合点**：工业非管理 8 口低价档（CNY）+EOL 替换场景的收发器/小件。
+- **风险与注意**：不提替位 Moxa；Sphinx 系三法人勿混淆（只发法国主体）。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**旺代 Montaigu 的 25 年 M2M/IIoT 分销：自述随客户是「distributeur / intégrateur / installateur」都陪跑，OT 网络安全（IEC 62443）为门面主题。
+  > Que vous soyez distributeur, intégrateur ou installateur de systèmes, Sphinx France vous accompagne ‖ Cybersécurité OT : Des solutions certifiées… IEC 62443 ‖ 25 ans（横幅）
+  > 来源：https://sphinxfrance.com/
+- **【产品线与在售品牌】**品牌墙：**Moxa（锚牌，EOL 通告横幅）**/Semtech-Sierra Wireless/Sintrones/Kerlink/Adder/InHand Networks/SECKIOT/Tyrex/Tosibox；类目=工业交换机/4G 路由/工控机/LoRaWAN 网关/串口转换/KVM。Perle 授权（CSV 记录）。
+  > （品牌墙）Moxa · Semtech-Sierra Wireless · Sintrones · Kerlink · Adder · InHand ‖ Switch industriel · Routeur 4G industriel · PC industriel · Gateway LoRaWAN · Convertisseur RS232…
+  > 来源：https://sphinxfrance.com/
+- **【风险与注意】**⚠️ 与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）同属 Sphinx 系但**不同法人**，CSV 明示勿当重复合并、勿跨主体串话。
+  > （CSV 记录）与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）同为 Sphinx 系但不同法人，勿当成重复合并
+  > 来源：https://sphinxfrance.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · Moxa 邻位：工业非管理低价档一页
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **切入点**：法语一封：其工业交换机类目录下补「友善价位」非管理档（分销条件+CE 一体），不碰 Moxa 管理机排位。
+- **要问的问题**：工业交换类目录在 Moxa 之外有没有低价位非管理档需求？
+- **随附证明**：工业件一页（法）+ CE/EMC/宽温参数。
+
+### 第 2 次跟进 · EOL 替换旁位件
+
+- **推什么**：收发器 + 串口联网件邻位窄线
+- **切入点**：随 Moxa EOL 潮的替换报价里可搭的光电转换/串口邻位件（Perle 谱系邻位）。
+- **要问的问题**：EOL 替换单的邻位件（收发器类）有供应空档吗？
+- **随附证明**：窄线一页价卡（法）。
+
+### 第 3 次跟进 · 分销条款包收口
+
+- **推什么**：—（条款）
+- **切入点**：中性发货/梯价/首单条件条款包；不回即冻结。
+- **要问的问题**：（无需回）条款留档。
+- **随附证明**：分销条款一页（法/英）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

@@ -58,7 +58,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第14批.json`。
+
+- **业务定位**：芝加哥区蜂窝电商（Teltonika 授权+七大路由落地页）：其客群=车辆/野外/企业容灾——PoE 小件与工业件是邻位货架。
+- **产品线与在售品牌**：蜂窝路由/天线/数据套餐；TSW212 工业 PoE+ 在架=已吃交换类目。
+- **目标行业与场景**：车联/野外作业/企业容灾备份链路客群（评价点名报价快）。
+- **团队与规模**：中型电商（工程师认证客服团）。
+- **决策链与对接人**：sales@5gstore.com（隐私页正文，CSV 9-27）。
+- **技术与认证**：Teltonika 授权分销（站+CSV 双证）。
+- **采购与供应链信号**：蜂窝盒子配套的 LAN 侧接入件：TSW 之外的**大口数商业 PoE 与更低价工业件**两个价位档空档。
+- **近期动态与线索**：评价滚动（2026 仍在更新）+当日发承诺=动销型渠道。
+- **与我方契合点**：车载/现场套装旁的 24 口 PoE（营地监控/AP）与工业非管理件窄线。
+- **风险与注意**：电商比价敏感：报价给到岸全款+阶梯；别碰其 Teltonika/Peplink 锚牌排位。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**伊利诺伊 Crystal Lake 的蜂窝联网电商：路由/天线/数据套餐/连接方案四线，自述美国本土获奖客服+大库存当日发+全员工程师认证。
+  > Cellular Routers • Antennas • Data Plans • Connectivity Solutions ‖ Award Winning customer service (US based sales & support teams) ‖ Large inventory for Same Day error free shipping
+  > 来源：https://5gstore.com/
+- **【产品线与在售品牌】**路由落地页七家：Digi/Ericsson Cradlepoint/Inseego/Katalyst/Peplink/Semtech/**Teltonika**；天线八家 MobileMark/Panorama/PCTEL/Poynting/SureCall/Taoglas/weBoost/Wilson；**Teltonika TSW212 工业 PoE+ 交换机在架**（CSV 复核）。
+  > Router Landing Pages — Digi · Ericsson Cradlepoint · Inseego · Katalyst · Peplink · Semtech · Teltonika ‖ （CSV 记录）亦供 TSW212 等工业 PoE+ 交换机
+  > 来源：https://5gstore.com/
+- **【决策链与对接人】**sales@5gstore.com 官网隐私页正文（CSV 9-27 official-company）；联系表单为第三方 Cognito 表单不显邮箱；Teltonika 分销栏目复核 authorized。
+  > （CSV 2026-09-27 记录）官网隐私页正文 sales@5gstore.com 与 1-833-5GSTORE、Crystal Lake IL 地址；Teltonika 分销栏目页复核 authorized Teltonika Distributor；official-company
+  > 来源：https://5gstore.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 交换类目价位档扩品一页
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：对 sales@：TSW212 之外的大口数商业 PoE 接入层电商上架提案（当日发可配合其节奏+梯价）。
+- **要问的问题**：交换类目在 Teltonika 之外有没有大口数价位档上架位？
+- **随附证明**：一页提案（英）+ 梯价表。
+
+### 第 2 次跟进 · 车载/野外工业件窄线
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）
+- **切入点**：车联/野外项目的宽温小件与收发器窄线（其蜂窝路由的 LAN 侧周边）。
+- **要问的问题**：蜂窝项目的 LAN 侧宽温小件有货架位吗？
+- **随附证明**：工业件一页（英）。
+
+### 第 3 次跟进 · 供应商条款包
+
+- **推什么**：—（条款）
+- **切入点**：中性发货/梯价/RMA 条款包收口；不回即冻结。
+- **要问的问题**：（无需回）条款留档。
+- **随附证明**：供应商条款一页（英）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

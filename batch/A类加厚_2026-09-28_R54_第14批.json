@@ -1,0 +1,1445 @@
+{
+ "date": "2026-09-28",
+ "round": "R54",
+ "batch": 14,
+ "scope": "A 类深度加厚 + 3 步跟进计划（第 14 批：A-261–A-280；美国 8 / 荷兰 3 / 英国 3 / 加拿大 2 / 葡 1 / 匈 1 / 法 1 / 捷 1 —— MikroTik 认证顾问/培训 8 户、Perle 授权 2 户、Westermo 系 2 户、EtherWAN/Atop 工业 1 户、Teltonika 1 户、Belden 主备货总代 1 户、Netonix 用户裁决保留 4 户、失联弱线索 2 户）。",
+ "method": "fetch_page 全库 18 户官网/联系页（2026-09-28，Modelec 与 CanServers 各补抓联系页）；失联两户（A-272/A-279）以 CSV 9-27 记录为唯一证据面并如实标 leads-only；MikroTik 顾问户分轨：集成/项目型（IP Techniek/Andisa/Interstellar/IP ArchiTechs/Joust/CanServers）按项目接入层切入，IP ArchiTechs 为厂商中立白盒方法论——只供评估机进参考设计、红线不做渠道推销；培训伙伴 NetHighTech 已转型企业 AI 软件、Gmail 为搜索索引级——先核联络、只谈 PoC/实验自用；Perle/Westermo/Moxa/Belden 等锚牌户不替位：Cogent 交换类目现仅 Teltonika 小工业款=空档精准、Sphinx France 只做 Moxa 邻位低价档与 EOL 旁位件（Sphinx 系三法人 CSV 明示勿合并）、IndustrialComms 锚牌最密（Belden/Hirschmann/Siemens/Ruggedcom 现墙）只填报价空档价位档、ATYS 与 Modelec 走 Westermo 第二来源标准打法；Data Connect 双轨：分销口（bpatton@）24 口价位档上架 + 其 DCE Made 自有产线 OEM/白牌提案（本库独有切法），政府/国防市场段划出；合规划出：Micro Tech 的 K-12/E-Rate 公立学校段、Interstellar 的市政（Gemeente Katwijk)/医疗（Emergis) 案例段、Data Connect 的 Federal/State-Local 段——首封声明只做商业段；Netonix 四户（Neobits/Cayman/wlanparts/Invictus）按用户 2026-09-23 裁决保留：禁用「同芯片」话术，只谈交期/宽温/上行/价格；Neobits 走 vendors@ 供应商入驻逻辑；联络口径待核先行：A-262 Gmail 索引级、A-278 sales@ 第三方目录级、A-279 电话-only——第一步表单/电话/人工核实后启用；型号三轮阶梯沿用：LT-S8328GP-4GX24GT-S（24 口 PoE++）/LT-S8328XGP-4XS24GT-S（万上联版）/LT-S6326G-2X24GT（L2 小节点）/LT-IS6310G（工业非管理 8 口）/LT-IS6312G/IS6312XG（工业管理 ERPS）。",
+ "records": [
+  {
+   "code": "A-261",
+   "name": "Joost Van De Weijer（IP Techniek）",
+   "country": "荷兰",
+   "city": "Bladel",
+   "site": "iptechniek.nl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://iptechniek.nl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "布拉班特 Bladel 的电话与数据通信店（站题 Telefonie en Data Communicatie）：官网为单页名片型，直接给地址/电话/销售邮箱与 TeamViewer 远程支持入口。",
+     "quote": "Ip Techniek Telefonie en Data Communicatie ‖ IP Techniek, Raamloop 3, 5531PC, Bladel ‖ T. 0497-741013, E. sales@iptechniek.nl",
+     "url": "https://iptechniek.nl/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "Joost 持 MikroTik 六证含 MTCSWE，官方顾问名录收录（CSV 9-23/27 记录）；LinkedIn 显示其任职 IPtechniek.nl、教育与 MikroTik 网络方向一致。",
+     "quote": "（CSV 2026-09-23/27 记录）MikroTik 官方认证顾问名录收录；持 MTCRE/MTCWE/MTCTCE/MTCINE/MTCSWE/MTCEWE；official-company",
+     "url": "https://iptechniek.nl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "Bladel 电话+数据通信小店（单页站+TeamViewer 支持链接）；Joost 六证含 MTCSWE=技术型买手。",
+    "产品线与在售品牌": "（站极简无目录；按 CSV：MikroTik 顾问型集成/运维服务）。",
+    "目标行业与场景": "当地 SMB 的电话系统（VoIP）+数据网络项目——**VoIP 话机/AP 的 PoE 接入层是天然对口**。",
+    "团队与规模": "主理人单店。",
+    "决策链与对接人": "sales@iptechniek.nl（官网首页正文，CSV 9-27 official-company；个人归属按备注限制走公司箱）。",
+    "技术与认证": "六证 MikroTik 顾问（CSV）。",
+    "采购与供应链信号": "顾问自己设计+采购：PoE 接入层第二来源话术直通（ERPS/VLAN/CLI 语言有效）。",
+    "近期动态与线索": "站常年单页=轻营销重交付；无负面信号。",
+    "与我方契合点": "VoIP/监控小项目的 24 口 PoE 接入层+商铺/办公室小件。",
+    "风险与注意": "单页站目录零信息——外联只凭顾问身份与邮箱，一步一问问清他是否在接项目。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · VoIP/小项目 24 口 PoE 接入层一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "荷语/英语一封到 sales@：电话+网络项目的 24 口 PoE++ 接入层第二来源（供货连续性+RMA 随行）。",
+     "question": "您交付的电话/网络项目，接入层目前固定配哪个牌？有第二来源位吗？",
+     "proof": "一页报价（荷/英）+ 保修条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 商铺/库房宽温小件",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "客户现场（车库/库房/楼层间）的宽温小件与收发器。",
+     "question": "现场环境有宽温/机柜受限的点位吗？",
+     "proof": "工业件一页 + -40~75°C 参数。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档、不催单；无回复即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "布拉班特电话+数据通信店（六证顾问单店；VoIP/AP 的 PoE 接入层对口）。3 步：24 口第二来源 → 宽温小件 → 留档收口。"
+  },
+  {
+   "code": "A-262",
+   "name": "NetHighTech",
+   "country": "葡萄牙",
+   "city": "Lisboa",
+   "site": "nethightech.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.nethightech.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "里斯本 MikroTik 培训伙伴（官方课程表在列，CSV）——**现官网已整体转型企业级 AI 软件**：OmniCore AI（厂商无关网络/IoT/ERP 控制）、OmniEdge BRAS（运营商级 BNG/TR-069 ACS/ISP 计费，明写面向 ISP 与 WISP）、SolarOps AI、OmniBrain AI。",
+     "quote": "Carrier-Grade BNG, TR-069 ACS & ISP Billing — OmniEdge BRAS … designed for modern ISPs and WISPs ‖ Universal Network, IoT & ERP Controller — OmniCore AI — completely vendor-agnostic platform",
+     "url": "https://www.nethightech.com/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "首页仍保留 Enterprise IT Academy 栏目并列出 MikroTik 课程（Routing & Bandwidth Mgmt），另有 Cisco/AI/Linux 课线。",
+     "quote": "Enterprise IT Academy ‖ MikroTik — Routing & Bandwidth Mgmt ‖ Cisco — Advanced Enterprise Networks",
+     "url": "https://www.nethightech.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "nethightech@gmail.com 仅见搜索索引（对应课程页本轮 404），CSV 定级 official-search-only 待核——**第一步先经表单/电话核联络，不直发 Gmail**。",
+     "quote": "（CSV 2026-09-27 记录）official-search-only：邮箱与电话仅见于搜索索引（对应课程页本轮返回 404，首页仍含 MikroTik 培训栏目）",
+     "url": "https://www.nethightech.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "里斯本 MikroTik 培训伙伴（MTCSWE 课在列，CSV）——现主业企业 AI 软件平台（其 OmniEdge BRAS 明写服务 ISP/WISP 客户）。",
+    "产品线与在售品牌": "OmniCore/OmniEdge/SolarOps/OmniBrain 四件自有软件+IT 学院（MikroTik/Cisco/AI/Linux）。",
+    "目标行业与场景": "ISP/WISP 软件客群（BNG/计费）+企业 AI 改造客群；培训学员群。",
+    "团队与规模": "软件团队（预约 demo 制）。",
+    "决策链与对接人": "nethightech@gmail.com（**搜索索引级待核**，CSV 9-27）；先表单/电话核。",
+    "技术与认证": "MikroTik 培训伙伴（官方课程表，CSV）。",
+    "采购与供应链信号": "其 ISP/WISP 软件 PoC 与培训实验=潜在的硬件演示/实验位；但其已非硬件渠道——**只谈自用实验与 PoC 演示机，不谈渠道**。",
+    "近期动态与线索": "向 AI 软件整体转型中（2026 站全面重做）=培训线收缩风险，硬件口很窄。",
+    "与我方契合点": "尊重型一封：OmniEdge 的 ISP/WISP PoC 环境要不要高性价比接入层演示机。",
+    "风险与注意": "Gmail 不直发；不向其学员推销；若核得其已完全不做硬件，归档冻结。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 表单/电话核联络+演示机位",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ 演示机可选）",
+     "angle": "先经官网表单一句核实对接人；随后一封（葡/英）只邀其 ISP/WISP PoC 环境与 MikroTik 课程实验自用演示机。",
+     "question": "OmniEdge 的 PoC 演示环境用得上高性价比 24 口 PoE 接入层吗？",
+     "proof": "一页规格（葡/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：实验备件小批",
+     "product": "—（按回复定）",
+     "angle": "仅当其回复感兴趣，补备件小批价卡。",
+     "question": "—",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "无回复不再自动化跟进（转型期公司，不追）。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "里斯本培训伙伴转型企业 AI 软件（OmniEdge 面向 ISP/WISP；Gmail 搜索索引级先核）。3 步：核联络+演示机 → 有回复才续 → 冻结。"
+  },
+  {
+   "code": "A-263",
+   "name": "ATYS Co Controll Engineering（ATYS-CO Kft.）",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "site": "atysco.hu",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.atysco.hu/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "布达佩斯约 30 年的**工业控制/自动化集团**：自述设计并实施过程控制-自动化系统且全生命周期运维，三大板块=工业服务+商贸+可再生能源（2009 起），正进军机器人。",
+     "quote": "Nem csupán megtervezzük és kivitelezzük a folyamatirányítási-automatizálási rendszereket, hanem a teljes életciklusukon keresztül üzemeltetjük ‖ kereskedelem — ipari tápegységek forgalmazása ‖ megújuló energia (2009)",
+     "url": "https://www.atysco.hu/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "工业服务（设计/软硬件开发/实施/维护）+商贸线（自述**工业电源分销为主干**）+新能源分部；Westermo Reseller（CSV 伙伴等级记录；罗马尼亚 ATYS-co 同属一家覆盖中东欧两国）。",
+     "quote": "a kereskedelem, amelynek gerincét az ipari tápegységek forgalmazása jelenti ‖ （CSV 记录）Westermo Reseller；与 ATYS-co Romania 同属一家",
+     "url": "https://www.atysco.hu/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@atysco.hu 官网正文公开（另 EN 页 atysco[at]…、HU 页 kukac/pont 可逆写法、销售箱与总经理 Ottó Jász 具名箱——CSV 9-27 official-obfuscated-company）。",
+     "quote": "（CSV 2026-09-27 记录）官网联系页可逆写法+正文销售邮箱 sales@atysco.hu、总经理具名邮箱；official-obfuscated-company",
+     "url": "https://www.atysco.hu/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "匈牙利工业自动化集团（30 年，设计+实施+运维全周期）——Westermo Reseller+自有商贸线=工业件真买家。",
+    "产品线与在售品牌": "工业控制自动化工程+工业电源分销+光伏新能源分部（RO 姐妹公司覆盖中东欧）。",
+    "目标行业与场景": "过程工业/制造厂自动化；光伏电场=户外宽温件场景。",
+    "团队与规模": "中型集团（三板块+扩编中自述）。",
+    "决策链与对接人": "sales@atysco.hu（官网正文/可逆写法，CSV 9-27）；+36 1 263 2561。",
+    "技术与认证": "Westermo Reseller（CSV 伙伴记录）。",
+    "采购与供应链信号": "Westermo 锚位在——**同规格 1/3 价工业第二来源**话术直通；光伏场户外柜宽温件、过程网 ERPS 环。",
+    "近期动态与线索": "进军机器人+自动化扩编=网络件增量窗口。",
+    "与我方契合点": "工业非管理宽温 8 口低价档+ERPS 环管理机+光伏场 PoE（球机/传感）。",
+    "风险与注意": "Westermo 锚位不碰；匈语对接佳；集团多板块一封别铺太广、先工业网配件类。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Westermo 邻位工业第二来源一页",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "匈语/英语一封到 sales@：过程自动化项目的工业非管理宽幅价位档第二来源（CE/宽温参数一体），只谈价位档不碰其锚牌排位。",
+     "question": "自动化盘的网络接入件有没有一个更友善价位的第二来源需求？",
+     "proof": "工业件一页 + CE/EMC/宽温参数。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 光伏场/户外 PoE 与 ERPS 环",
+     "product": "LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS）",
+     "angle": "新能源分部的户外柜监控 PoE+光纤环网。",
+     "question": "光伏场的户外监控/环网件目前怎么配？",
+     "proof": "ERPS 环配置示例 + 光伏场景拓扑图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 商贸线分销条款",
+     "product": "—（条款）",
+     "angle": "其商贸线的窄线分销条款（中性发货/梯价）收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "分销条款一页（英）。"
+    }
+   ],
+   "note": "布达佩斯工业自动化集团（Westermo Reseller+工业电源商贸线+光伏分部）。3 步：工业第二来源 → 光伏户外 PoE/ERPS → 商贸条款收口。"
+  },
+  {
+   "code": "A-264",
+   "name": "Cogent Distribution",
+   "country": "英国",
+   "city": "Newbury, Berkshire",
+   "site": "cogentdistribution.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.cogentdistribution.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "纽伯里的无线与连接增值分销（VAD）快速成长者：自述 stocking and selling best-of-breed connectivity equipment，服务对象 VAR/集成商/垂直行业/消费端四类。",
+     "quote": "We’re a fast-growing value-added distributor (VAD) focused on stocking and selling best-of-breed connectivity equipment ‖ For resellers (VARs) and system integrators, we don’t just supply premium connectivity products but solutions design…",
+     "url": "https://www.cogentdistribution.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "13 个产品类目：Fixed Wireless（RADWIN）/Routers&Gateways（Teltonika RUT 图）/**Switches（页面配图为 Teltonika TSW200）**/Antennas（RF elements）/频谱仪（SAF）/5G&LTE（Peplink）/信号增强/Device Servers/Ethernet Extenders/Serial Extenders/Media Converters/配件——**交换类目现仅小型工业款**。",
+     "quote": "Switches —（类目配图为 Teltonika Networks TSW200）‖ Device servers · Ethernet extenders · Serial extenders · Media converters",
+     "url": "https://www.cogentdistribution.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "enquiries@cogentdistribution.com 官网联系页正文（CSV 9-27 official-company）；2023 官方手册另有 sales@/solutions@ 部门入口。",
+     "quote": "（CSV 2026-09-27 记录）官网联系页正文给 enquiries@cogentdistribution.com 与 +44 (0)1635 917 722、Newbury 地址；official-company",
+     "url": "https://www.cogentdistribution.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "英国无线/连接 VAD（RADWIN/Teltonika/RF elements/Peplink/SAF 微波系）——**交换类目存在但只有 Teltonika 小工业款=空档精准**。",
+    "产品线与在售品牌": "13 类目含 Switches/Device Servers/Media Converters 等（Perle 授权为旧记录标签，本轮未重读名录不重复背书）。",
+    "目标行业与场景": "VAR/集成商渠道+垂直行业（港口/交通等轮播图）。",
+    "团队与规模": "中型 VAD（在线商城+方案设计服务）。",
+    "决策链与对接人": "enquiries@cogentdistribution.com（官网联系页，CSV 9-27）。",
+    "技术与认证": "多牌厂商认证依据官方手册；Teltonika/RF elements 等在架。",
+    "采购与供应链信号": "**交换类目扩品逻辑**：TSW 小工业之外缺 24 口商业监控 PoE 与更宽温工业管理件——两段提案。",
+    "近期动态与线索": "「fast-growing」自述+快速上新记录=供应商评估窗口常在。",
+    "与我方契合点": "24 口 CCTV PoE 上架提案+工业宽温件线扩品。",
+    "风险与注意": "其无线为主业：别把交换说成其核心，提案以「补齐连接解决方案最后一公里」为框。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Switches 类目扩品：24 口监控 PoE 上架一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 enquiries@：Switches 类目目前只有小型工业款——补 24 口 CCTV/商业 PoE 接入层的供应商上架提案（分销条件+英语资料包+梯价）。",
+     "question": "Switches 类目有扩 24 口商业 PoE 货架位的计划吗？",
+     "proof": "上架一页提案（英）+ 证书包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业宽温件线",
+     "product": "LT-IS6310G-2GX8GT / LT-IS6312G-4GX8GT（ERPS）",
+     "angle": "交通/港口垂直行业客户的现场宽温件与环网件线。",
+     "question": "交通/港口类项目的现场宽温件谁在供？",
+     "proof": "工业件一页 + 宽温参数。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 光铜配件窄线",
+     "product": "SFP/收发器 目录",
+     "angle": "Device Servers/Media Converters 邻位的光配件窄线低价档。",
+     "question": "SFP/收发器窄线有补价位档需求吗？",
+     "proof": "配件价卡一页。"
+    }
+   ],
+   "note": "英国无线 VAD（交换类目现仅小工业款=空档精准）。3 步：24 口上架提案 → 工业宽温线 → 光配件窄线。"
+  },
+  {
+   "code": "A-265",
+   "name": "Sphinx Connect（Sphinx France）",
+   "country": "法国",
+   "city": "Montaigu",
+   "site": "sphinxfrance.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://sphinxfrance.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "旺代 Montaigu 的 25 年 M2M/IIoT 分销：自述随客户是「distributeur / intégrateur / installateur」都陪跑，OT 网络安全（IEC 62443）为门面主题。",
+     "quote": "Que vous soyez distributeur, intégrateur ou installateur de systèmes, Sphinx France vous accompagne ‖ Cybersécurité OT : Des solutions certifiées… IEC 62443 ‖ 25 ans（横幅）",
+     "url": "https://sphinxfrance.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "品牌墙：**Moxa（锚牌，EOL 通告横幅）**/Semtech-Sierra Wireless/Sintrones/Kerlink/Adder/InHand Networks/SECKIOT/Tyrex/Tosibox；类目=工业交换机/4G 路由/工控机/LoRaWAN 网关/串口转换/KVM。Perle 授权（CSV 记录）。",
+     "quote": "（品牌墙）Moxa · Semtech-Sierra Wireless · Sintrones · Kerlink · Adder · InHand ‖ Switch industriel · Routeur 4G industriel · PC industriel · Gateway LoRaWAN · Convertisseur RS232…",
+     "url": "https://sphinxfrance.com/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "⚠️ 与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）同属 Sphinx 系但**不同法人**，CSV 明示勿当重复合并、勿跨主体串话。",
+     "quote": "（CSV 记录）与库内 Sphinx Italia / Sphinx Computer Vertriebs（德）同为 Sphinx 系但不同法人，勿当成重复合并",
+     "url": "https://sphinxfrance.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "法国 25 年 IIoT 分销（Moxa 锚牌+OT 安全门面）：工业交换机在架——**Moxa 之下价位档与窄线是口子**。",
+    "产品线与在售品牌": "Moxa/Semtech/Sintrones/Kerlink/Adder/InHand 等+工业交换机/4G 路由/串口/KVM 类目。",
+    "目标行业与场景": "法国工业/能源/交通集成商渠道；OT 安全话题客群。",
+    "团队与规模": "中型 VAD（商城+博客+25 年）。",
+    "决策链与对接人": "sales@sphinxfrance.fr（官网联系页正文，CSV 9-27 official-company）；+33 2 51 09 26 60。",
+    "技术与认证": "Perle 授权分销（CSV 记录）+Moxa 等在架。",
+    "采购与供应链信号": "Moxa 锚位极深：只做**非管理低价档工业件**与 Moxa EOL 替换报价单旁的价位档——EOL 横幅=老型号替换需求在流动。",
+    "近期动态与线索": "Moxa EOL 通知挂首页=替换潮窗口主动。",
+    "与我方契合点": "工业非管理 8 口低价档（CNY）+EOL 替换场景的收发器/小件。",
+    "风险与注意": "不提替位 Moxa；Sphinx 系三法人勿混淆（只发法国主体）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Moxa 邻位：工业非管理低价档一页",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "法语一封：其工业交换机类目录下补「友善价位」非管理档（分销条件+CE 一体），不碰 Moxa 管理机排位。",
+     "question": "工业交换类目录在 Moxa 之外有没有低价位非管理档需求？",
+     "proof": "工业件一页（法）+ CE/EMC/宽温参数。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · EOL 替换旁位件",
+     "product": "收发器 + 串口联网件邻位窄线",
+     "angle": "随 Moxa EOL 潮的替换报价里可搭的光电转换/串口邻位件（Perle 谱系邻位）。",
+     "question": "EOL 替换单的邻位件（收发器类）有供应空档吗？",
+     "proof": "窄线一页价卡（法）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 分销条款包收口",
+     "product": "—（条款）",
+     "angle": "中性发货/梯价/首单条件条款包；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "分销条款一页（法/英）。"
+    }
+   ],
+   "note": "法国 25 年 IIoT 分销（Moxa 锚/EOL 替换潮；Sphinx 系三法人勿混）。3 步：非管理低价档 → EOL 旁位件 → 条款收口。"
+  },
+  {
+   "code": "A-266",
+   "name": "Andisa IT",
+   "country": "英国",
+   "city": "Harrogate",
+   "site": "andisa.net",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.andisa.net/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "约克郡 Harrogate 的 MSP：自述六大核心业务 IT 方案（电脑/网络/服务器/移动设备/电话系统），7×24 监控与远程管理。",
+     "quote": "At Andisa IT Consultants Ltd, we offer six core types of business IT solutions… computers, networks, servers, mobile devices and telephone systems ‖ 24/7 network monitoring",
+     "url": "https://www.andisa.net/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "supportdesk@andisa.net（支持页正文）+ sales@andisa.net（首页结构化数据）双箱（CSV 9-27 official-company）；2018 MUM 官方 PDF 的 Andy Morrison 具名邮箱为历史证据、不当现直邮。",
+     "quote": "（CSV 2026-09-27 记录）官网支持页正文 supportdesk@、首页结构化数据 sales@；2018 年 MUM PDF 显示 Andy Morrison 为 MikroTik 顾问/主讲——历史具名证据，不当作现直邮",
+     "url": "https://www.andisa.net/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "MikroTik 认证顾问持 MTCNA/MTCRE/MTCWE（CSV）；做整网设计、站点勘测、实施协助（官网服务口径+CSV）。",
+     "quote": "（CSV 记录）MikroTik 认证顾问 MTCNA+MTCRE+MTCWE；完整网络设计、站点勘测、实施协助，可全英现场或远程",
+     "url": "https://www.andisa.net/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "约克郡 MSP（六服务+24/7 监控）：客户网项目接入层真消耗位。",
+    "产品线与在售品牌": "托管 IT/帮助台/监控+网络设计勘测实施（MikroTik 顾问线）。",
+    "目标行业与场景": "约克郡 SMB 托管客群。",
+    "团队与规模": "小型 MSP（Google 评分图在首页）。",
+    "决策链与对接人": "supportdesk@/sales@andisa.net（CSV 9-27 official-company）；01423 290029。",
+    "技术与认证": "MTCNA/MTCRE/MTCWE 顾问（CSV）；Andy 为 MUM 历史主讲。",
+    "采购与供应链信号": "MSP 项目接入层第二来源+备件池——**无 MTCSWE（就主打即插即用 L2 易管话术，别堆 ERPS 深配置）**。",
+    "近期动态与线索": "MSP 站持续更新（博客/预约会）。",
+    "与我方契合点": "24 口 PoE 接入层（SMB 监控/无线/电话三供一体）+备件小批。",
+    "风险与注意": "MikroTik 本位尊重，第二来源话术；历史具名邮箱不用。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · MSP 项目接入层第二来源一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "英语一封：SMB 托管项目的 24 口 PoE 接入层第二来源（监控/无线/电话三供一体场景 VLAN 预设即插即用+保修）。",
+     "question": "托管项目的接入层目前固定配哪个牌？有第二来源位吗？",
+     "proof": "一页报价（英）+ 三供一体 VLAN 预设示例。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 备件池小批",
+     "product": "LT-IS6310G-2GX8GT 等小批",
+     "angle": "MSP 常备备件池小批价（含现场宽温位）。",
+     "question": "备件池走常备价吗？有库房/机房宽温点位吗？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档、不催单；无回复即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "约克郡 MikroTik 顾问型 MSP（Andy MUM 主讲史；历史具名邮箱不用）。3 步：接入层第二来源 → 备件池 → 留档收口。"
+  },
+  {
+   "code": "A-267",
+   "name": "IndustrialComms（Industrial Communication Products Ltd）",
+   "country": "英国",
+   "city": "Toddington, Bedfordshire",
+   "site": "industrialcomms.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.industrialcomms.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "英国&爱尔兰工业网络方案伙伴（现站为 Shopify 新公司名 Industrial Communication Products Ltd）：自述供水务、交通与工业客户供工业联网/光纤/以太/无线/电源方案。",
+     "quote": "Your Trusted UK & Ireland Partner for Industrial Networking Solutions ‖ We supply high-quality industrial networking, fibre-optic, Ethernet, wireless and power solutions to utilities, transportation providers, and industrial clients across the UK.",
+     "url": "https://www.industrialcomms.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "现官网伙伴墙：**Belden/Hirschmann/Beijer Electronics/Siemens/RUGGEDCOM/EKS**；行业页六块 Water/Power/Transport/Factory Automation/Warehouse Logistics/Oil&Gas+Marine。EtherWAN（Phoenix Contact 系）与 Atop 英国分销身份来自 2026-09-22/23 渠道核验记录（CSV）。",
+     "quote": "（伙伴墙）belden · hirschmann · beijer · siemens · ruggedcom · eks fibre ‖ （CSV 2026-09-22/23 记录）EtherWAN、Atop 英国分销商",
+     "url": "https://www.industrialcomms.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@industrialcomms.com 官网页尾正文+表单双入口（CSV 9-27 official-company）；技术热线 +44 0203 086 9569。",
+     "quote": "sales@industrialcomms.com ‖ +44 0203 086 9569 ‖ Our team at IndustrialComms will provide technical support to help you choose the right product",
+     "url": "https://www.industrialcomms.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "英国工业连接专业分销（Belden/Hirschmann/Siemens/Ruggedcom 现墙+EtherWAN/Atop 底仓关系）——**锚牌最密的一户**：1/3 价第二来源直击。",
+    "产品线与在售品牌": "工业以太交换/HMI/光纤接续/OT 安全/电源；六行业页。",
+    "目标行业与场景": "水务/电力/交通/工厂自动化/仓储物流/油气/海事——全是对口严酷环境。",
+    "团队与规模": "中型专业分销（专家热线话术）。",
+    "决策链与对接人": "sales@industrialcomms.com（页尾正文+表单，CSV 9-27）。",
+    "技术与认证": "EtherWAN/Atop 分销（CSV 渠道记录）；Belden 系现墙。",
+    "采购与供应链信号": "锚牌价位高：仓库物流/交通监控的现场非管理件与低价位档=补报价单空档；**Hirschmann/Ruggedcom 排位不碰**。",
+    "近期动态与线索": "换站 Shopify 化+伙伴墙更新=货架重构期，评估窗口。",
+    "与我方契合点": "工业非管理宽温 8 口低价档+24 口商业款（仓储/监控房）+SFP 工业件。",
+    "风险与注意": "锚牌密集禁替位话术；以「报价单空档价位档」自我定位。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 工业非管理低价档一页（报价单空档位）",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "英语一封：其高端锚牌报价之外，现场只需非管理宽温件时的价位档第二来源（CE/宽温/振动参数一体）。",
+     "question": "客户预算卡死但现场就要宽温非管理件时，你们的报价空档谁来填？",
+     "proof": "工业件一页 + 参数包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 仓储/交通监控 24 口商业款",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "Warehouse Logistics/Transport 客户的监控房 24 口商业 PoE（工业件之外的商业线空档）。",
+     "question": "仓储/交通监控项目的大口数 PoE 目前指向哪款？",
+     "proof": "24 口一页价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 工业 SFP 窄线",
+     "product": "工业级 SFP/SFP+（宽温）目录",
+     "angle": "宽温光配件窄线低价档（锚牌光件价高）。",
+     "question": "宽温 SFP 有补价位档需求吗？",
+     "proof": "工业 SFP 一页价卡。"
+    }
+   ],
+   "note": "英国工业连接分销（锚牌最密：Belden/Hirschmann/Siemens/Ruggedcom/EtherWAN/Atop——只填报价空档价位档）。3 步：工业低价档 → 24 口商业款 → 工业 SFP 窄线。"
+  },
+  {
+   "code": "A-268",
+   "name": "5Gstore",
+   "country": "美国",
+   "city": "Crystal Lake, IL",
+   "site": "5gstore.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://5gstore.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "伊利诺伊 Crystal Lake 的蜂窝联网电商：路由/天线/数据套餐/连接方案四线，自述美国本土获奖客服+大库存当日发+全员工程师认证。",
+     "quote": "Cellular Routers • Antennas • Data Plans • Connectivity Solutions ‖ Award Winning customer service (US based sales & support teams) ‖ Large inventory for Same Day error free shipping",
+     "url": "https://5gstore.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "路由落地页七家：Digi/Ericsson Cradlepoint/Inseego/Katalyst/Peplink/Semtech/**Teltonika**；天线八家 MobileMark/Panorama/PCTEL/Poynting/SureCall/Taoglas/weBoost/Wilson；**Teltonika TSW212 工业 PoE+ 交换机在架**（CSV 复核）。",
+     "quote": "Router Landing Pages — Digi · Ericsson Cradlepoint · Inseego · Katalyst · Peplink · Semtech · Teltonika ‖ （CSV 记录）亦供 TSW212 等工业 PoE+ 交换机",
+     "url": "https://5gstore.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@5gstore.com 官网隐私页正文（CSV 9-27 official-company）；联系表单为第三方 Cognito 表单不显邮箱；Teltonika 分销栏目复核 authorized。",
+     "quote": "（CSV 2026-09-27 记录）官网隐私页正文 sales@5gstore.com 与 1-833-5GSTORE、Crystal Lake IL 地址；Teltonika 分销栏目页复核 authorized Teltonika Distributor；official-company",
+     "url": "https://5gstore.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "芝加哥区蜂窝电商（Teltonika 授权+七大路由落地页）：其客群=车辆/野外/企业容灾——PoE 小件与工业件是邻位货架。",
+    "产品线与在售品牌": "蜂窝路由/天线/数据套餐；TSW212 工业 PoE+ 在架=已吃交换类目。",
+    "目标行业与场景": "车联/野外作业/企业容灾备份链路客群（评价点名报价快）。",
+    "团队与规模": "中型电商（工程师认证客服团）。",
+    "决策链与对接人": "sales@5gstore.com（隐私页正文，CSV 9-27）。",
+    "技术与认证": "Teltonika 授权分销（站+CSV 双证）。",
+    "采购与供应链信号": "蜂窝盒子配套的 LAN 侧接入件：TSW 之外的**大口数商业 PoE 与更低价工业件**两个价位档空档。",
+    "近期动态与线索": "评价滚动（2026 仍在更新）+当日发承诺=动销型渠道。",
+    "与我方契合点": "车载/现场套装旁的 24 口 PoE（营地监控/AP）与工业非管理件窄线。",
+    "风险与注意": "电商比价敏感：报价给到岸全款+阶梯；别碰其 Teltonika/Peplink 锚牌排位。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 交换类目价位档扩品一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 sales@：TSW212 之外的大口数商业 PoE 接入层电商上架提案（当日发可配合其节奏+梯价）。",
+     "question": "交换类目在 Teltonika 之外有没有大口数价位档上架位？",
+     "proof": "一页提案（英）+ 梯价表。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 车载/野外工业件窄线",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "车联/野外项目的宽温小件与收发器窄线（其蜂窝路由的 LAN 侧周边）。",
+     "question": "蜂窝项目的 LAN 侧宽温小件有货架位吗？",
+     "proof": "工业件一页（英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 供应商条款包",
+     "product": "—（条款）",
+     "angle": "中性发货/梯价/RMA 条款包收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "供应商条款一页（英）。"
+    }
+   ],
+   "note": "芝加哥蜂窝电商（Teltonika 授权、TSW212 在架=交换口已开）。3 步：大口数扩品 → 车载工业窄线 → 条款收口。"
+  },
+  {
+   "code": "A-269",
+   "name": "Micro Technology Consultants",
+   "country": "美国",
+   "city": "Warner Robins, GA",
+   "site": "microtechnology.net",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.microtechnology.net/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "佐治亚 Warner Robins 的 SMB/K12 全包 IT 商：三大服务=网络安全与备份/服务器与网络架构/站点安防（**Surveillance and access control to secure your business or school**）。",
+     "quote": "SITE SECURITY — Surveillance and access control to secure your business or school ‖ SERVER AND NETWORK INFRASTRUCTURE ‖ MICRO TECHNOLOGY CONSULTANTS — Your Trusted IT Partner",
+     "url": "https://www.microtechnology.net/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "信任品牌墙 15 家：Audio Enhancement（**K-12 广播**）/**Avigilon 监控门禁**/**RUCKUS 无线与网络交换**/Fortinet/3CX/Clear Touch/HPE/Cove/Wahsega IP 广播/**Verkada 云监控**/Lenovo/ESET/SentinelOne/Adlumin。",
+     "quote": "PRODUCTS WE TRUST AND SUPPORT — AVIGILON Surveillance and Access Control ‖ RUCKUS Wireless and Network Switching ‖ WAHSEGA IP Intercoms ‖ VERKADA Cloud Surveillance ‖ AUDIO ENHANCEMENT K-12 Intercom",
+     "url": "https://www.microtechnology.net/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@ 与 sales@microtechnology.net 官网联系页正文双箱（CSV 9-27 official-company）；Facebook 具名 Kyle.smith@ 为第三方平台不作直邮。",
+     "quote": "（CSV 2026-09-27 记录）官网联系页正文 info@ 与 sales@microtechnology.net、478-953-1921、Warner Robins 地址；official-company",
+     "url": "https://www.microtechnology.net/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "佐治亚 SMB/K12 集成商（RUCKUS 为交换锚牌+Avigilon/Verkada/Wahsega 监控广播三牌）——监控项目 PoE 接入层真需求。",
+    "产品线与在售品牌": "网络/服务器/安防三服务；RUCKUS/Avigilon/Verkada/Wahsega/Fortinet/3CX 等 15 牌。",
+    "目标行业与场景": "K-12 学校与本地 SMB——**K-12/E-Rate 公立资金面划出不涉，只做商业段**。",
+    "团队与规模": "小型集成商（Wix 站）。",
+    "决策链与对接人": "info@/sales@microtechnology.net（官网联系页，CSV 9-27）。",
+    "技术与认证": "（集成商职能型；无 MikroTik 证书面——RUCKUS 体系）。",
+    "采购与供应链信号": "**RUCKUS 锚位不碰**：Avigilon/Wahsega/Verkada 监控广播项目的 24 口大 PoE 接入层（视频 VLAN 预设旁位）与库房/体育馆现场宽温件。",
+    "近期动态与线索": "监控+广播双线活跃=PoE 消耗稳定。",
+    "与我方契合点": "24 口监控 PoE（视频 VLAN 即用模板）→现场宽温件→3CX 话机 PoE 旁位。",
+    "风险与注意": "K12/E-Rate 公立段不经由我们（首封声明只做商业段）；RUCKUS 锚牌不提替位。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 监控/广播项目 24 口 PoE（视频 VLAN 即用）",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "英语一封：Avigilon/Wahsega/Verkada 项目的大口数 PoE 接入层（视频/广播 VLAN 预设即插即用+RMA），声明只做商业段、不涉及公立学校采购。",
+     "question": "监控/广播项目的大口数 PoE 目前由哪个牌供应？要第二来源吗？",
+     "proof": "一页报价（英）+ 视频 VLAN 预设示例。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 现场宽温小件",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "体育馆/库房/停车场的宽温件与收发器。",
+     "question": "户外/库房点位有宽温件需求吗？",
+     "proof": "工业件一页 + 参数。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 话机/3CX 旁位与价卡收口",
+     "product": "PoE 小件 + 价卡留档",
+     "angle": "3CX 话机/无线 AP 的 PoE 预算一页+全品类价卡留档；不回即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "PoE 预算表 + 价卡各一页。"
+    }
+   ],
+   "note": "佐治亚 SMB/K12 集成商（RUCKUS 锚+监控广播三牌；K12/E-Rate 公立段划出只做商业段）。3 步：监控 24 口 → 宽温件 → 价卡收口。"
+  },
+  {
+   "code": "A-270",
+   "name": "Data Connect",
+   "country": "美国",
+   "city": "（MD/NJ/CA 三仓）",
+   "site": "data-connect.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.data-connect.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "美国 30 年网络边缘连接**主备货分销+制造商**：母体下辖 DSL Warehouse/ClickITDirect/VOIP-Networking/Arc Electronics/Information Data Products/Synxcom/Wireless Network Supply 七实体，MD/NJ/CA 三仓，Positron 官宣其为 Access/Telecom/Power 线 Master Stocking Distributor。",
+     "quote": "MASTER STOCKING DISTRIBUTOR ‖ Data Connect is both a manufacturer and a specialty distributer ‖ Positron announces Data Connect as their Master Stocking Distributor for their Access, Telecom, and Power Product Lines.",
+     "url": "https://www.data-connect.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "品牌字母墙逾 200 家：Belden/**Hirschmann/GarrettCom**/Moxa/EtherWAN/ATOP/Perle/MikroTik/Ubiquiti/Allied Telesis/Netgear/Planet/Transition Networks… 另有 **DCE Made 自有产线**+翻新/二手机与延保体系。",
+     "quote": "DATA-CONNECT BRANDS — B&B SMARTWORX · BELDEN · HIRSCHMANN · GARRETTCOM · MOXA · ETHERWAN · ATOP · PERLE · MIKROTIK · UBIQUITI ‖ DCE Made Products ‖ New, Like New, Refurbished and Used Equipment Available",
+     "url": "https://www.data-connect.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "联系页按角色分箱：总 sales@/support@，**分销商与顾问口 Barry bpatton@data-connect.com**（CSV 9-27 official-company 记录）；市场清单含 Federal/State-Local 政府段——划出。",
+     "quote": "（CSV 2026-09-27 记录）官网联系页正文按角色列出：总 sales@/support@，分销商/顾问 Barry Patton bpatton@；official-company ‖ （市场页）Federal Government · State & Local Government（划出）· VARS & Integrators · Wholesale Distribution",
+     "url": "https://www.data-connect.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "美国 30 年总代大厂（七实体三仓）：Belden/Hirschmann+GarrettCom 主备货+TAC 中心——**其 DCE Made 自有线=白牌/OEM 供货位是本库独有切法**。",
+    "产品线与在售品牌": "自有制造（DCE Made 吸纳 Ctek/Relcomm/Synxcom/Telenetics 产线）+200 牌分销+翻新机+延保。",
+    "目标行业与场景": "VAR/集成商/批发/WISP/CLEC/ISP 渠道（政府段划出）。",
+    "团队与规模": "大型总代（三仓多实体）。",
+    "决策链与对接人": "bpatton@data-connect.com（分销/顾问口，CSV 9-27）；sales@ 总箱；1-888-492-6526。",
+    "技术与认证": "数百厂牌授权与 TAC（官网 authorizations 页）。",
+    "采购与供应链信号": "**双轨**：①对其分销渠道=24 口商业 PoE 与工业非管理件的价位档上架；②对其 DCE Made 自有线=OEM/白牌代工供货（本库独有）。",
+    "近期动态与线索": "Positron 新任 MSD=扩张窗口、品类评审活跃。",
+    "与我方契合点": "24 口 PoE 上架+工业件窄线+DCE Made 白牌提案三选二节奏走。",
+    "风险与注意": "政府/国防市场段不经由我们；首封走 bpatton@ 分销口、OEM 话题单独一封不混。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 分销口：24 口商业 PoE 价位档上架一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 bpatton@（分销/顾问口）：其品牌墙价位谱系里补 24 口监控/商业 PoE 价位档上架提案（分销条件+TAC 级规格包）。",
+     "question": "商业 PoE 接入层的价位档目前由哪几个牌覆盖？有上架位吗？",
+     "proof": "一页提案（英）+ 规格包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · DCE Made 白牌/OEM 提案",
+     "product": "工业非管理/管理交换机 OEM 线（中性或可贴 DCE 牌）",
+     "angle": "单独一封对其制造侧：DCE Made 产品族的交换机白牌/代工供货（CNY 成本位、可做品牌定制），不接政府/国防终向。",
+     "question": "DCE Made 线考虑过引入交换机的代工/白牌供应吗？",
+     "proof": "OEM 能力一页 + 定制范围说明。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 工业窄线收口",
+     "product": "LT-IS6310G-2GX8GT 等窄线+条款",
+     "angle": "工业非管理件窄线价卡+分销条款收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "窄线+条款一页。"
+    }
+   ],
+   "note": "美国 30 年总代+制造商（DCE Made 白牌位独有；政府段划出）。3 步：分销口 24 口上架 → OEM/白牌提案 → 工业窄线收口。"
+  },
+  {
+   "code": "A-271",
+   "name": "Michiel Visser（Interstellar）",
+   "country": "荷兰",
+   "city": "Deventer",
+   "site": "interstellar.nl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://interstellar.nl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "荷兰全国多地的微软系 MSP 集团：四大域 Cloud & Infrastructure/Workspace/Security/Data & AI，**2026-08 被提名 TD SYNNEX Partner of the Year 2026**；认证 NEN 7510/ISO 9001/ISO 27001/B Corp。",
+     "quote": "Eén partner. Vier domeinen. ‖ Interstellar uitgeroepen tot TD SYNNEX Partner of the Year 2026（26.08.2026）‖ Gecertificeerd. Volgens de eisen van NEN 7510, ISO 9001, ISO 27001 en B Corp.",
+     "url": "https://interstellar.nl/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "客户案例墙：Gemeente Katwijk（**市政——公立面划出**）、Emergis（**医疗——划出**）、Quooker（商业）、KLM 等墙标——只做商业客户段。",
+     "quote": "Gemeente Katwijk ‖ Emergis ‖ Quooker ‖ （墙标）KLM · VHZ …",
+     "url": "https://interstellar.nl/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@interstellar.nl 集团总箱（官网联系页，CSV 9-27 official-company）；Michiel Visser 个人归属限制按 CSV 备注走集团箱——LinkedIn 显示其 2026 在 MikroTik Professionals Conference 讲 spine-leaf 交换架构（个人技术信用留档）。",
+     "quote": "（CSV 2026-09-27 记录）info@interstellar.nl（官网联系页集团总邮箱）；LinkedIn 显示 Michiel Visser 任职 Interstellar（Amersfoort/Utrecht），并在 2026 MikroTik Professionals Conference 演讲 MikroTik spine-leaf 交换架构",
+     "url": "https://interstellar.nl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "荷兰全国微软系 MSP 集团（TD SYNNEX 2026 年度伙伴）：其顾问 Michiel 是 MikroTik spine-leaf 演讲者=集团内有交换技术火种。",
+    "产品线与在售品牌": "Cloud/Workspace/Security/Data-AI 四域+全国多地办公室。",
+    "目标行业与场景": "中大型组织（市政/医疗案例划出、商业客户如 Quooker/KLM 体系可做）。",
+    "团队与规模": "大型 MSP（多地点+认证群）。",
+    "决策链与对接人": "info@interstellar.nl（集团总箱，CSV 9-27；个人归属限制按备注）。",
+    "技术与认证": "（集团 ISO/NEN/B Corp；Michiel 个人 MikroTik 顾问持 MTCRE/MTCWE/MTCIPv6E/MTCINE/MTCSE，CSV）。",
+    "采购与供应链信号": "商业客户园区/办公室项目的接入层第二来源；**spine-leaf/数据中心话题与万兆上行件对得上 Michiel 的技术口味**。",
+    "近期动态与线索": "TD SYNNEX 年度伙伴=采购走渠道架构，报价须走他们的供应商引入流程。",
+    "与我方契合点": "商业段办公室/园区 24 口 PoE + 万兆上行件第二来源。",
+    "风险与注意": "公立市政/医疗案例客户段不经由我们；大集团评估周期长、3 封后留档不催。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 商业客户段接入层第二来源一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "荷/英一封到集团箱（注明可转网基建团队）：商业客户办公室/园区项目的 24 口 PoE 第二来源（RMA/供货连续性随行）；声明不涉及市政/医疗客户段。",
+     "question": "商业客户项目的接入层目前有第二来源位吗？",
+     "proof": "一页报价（英）+ 保修/RMA。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 万兆上行/汇聚件",
+     "product": "LT-S8328XGP-4XS24GT-S（24×万兆 PoE++ + 4×万兆 SFP+ 上行）",
+     "angle": "spine-leaf/汇聚话题的万兆上行件（与 MikroTik 演讲者的技术语境对齐）。",
+     "question": "汇聚/spine-leaf 预商用场景需要高性价比万兆件吗？",
+     "proof": "万兆件一页规格。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档、评估流程走完前不打扰；无回复即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "荷兰微软系 MSP 集团（TD SYNNEX 年度伙伴；市政/医疗案例段划出只做商业段）。3 步：接入层第二来源 → 万兆汇聚件 → 留档收口。"
+  },
+  {
+   "code": "A-272",
+   "name": "Alexandr Mensenin",
+   "country": "捷克",
+   "city": "Ostrava",
+   "site": "（无站；电话-only）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.com/consultants"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 2026-09-27 核验：仅保留原电话/WhatsApp +420 608 746 740；官方名录邮箱为遮罩、未获可验证邮箱——**leads-only 失联户，第一步人工**。",
+     "quote": "（CSV 2026-09-27 记录）+420 608 746 740（原电话/WhatsApp；官方名录邮箱为遮罩，未获可验证邮箱）；leads-only",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "持 MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCSE 六证；自述覆盖 QoS、高级无线、流量分析、VPN/隧道、PtP/PtMP、QinQ（CSV 名录记录）。",
+     "quote": "（CSV 2026-09-23 记录）官方顾问名录收录；自述含 QoS、高级无线、流量分析、VPN/隧道、PtP/PtMP、QinQ",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "俄斯特拉发 MikroTik 六证顾问（服务覆盖面广但**缺 MTCSWE**）——无站无邮，第一步人工核实。",
+    "产品线与在售品牌": "（独立顾问面：QoS/无线/隧道/PtP/QinQ 服务口径，CSV）。",
+    "目标行业与场景": "捷克东部企业咨询类。",
+    "团队与规模": "个人顾问。",
+    "决策链与对接人": "+420 608 746 740（电话/WhatsApp，CSV 9-27）；**不发遮罩/猜测邮箱**。",
+    "技术与认证": "六证（缺 MTCSWE，CSV 9-23/27）。",
+    "采购与供应链信号": "失联状态：WhatsApp 触达成功率高于冷邮件；核活后再评。",
+    "近期动态与线索": "本批不做超出 CSV 记录的断言。",
+    "与我方契合点": "—（待人工核实后再评）。",
+    "风险与注意": "不猜邮箱不发猜测件；电话/WhatsApp 人工核实优先。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 人工核实（电话/WhatsApp/LinkedIn）",
+     "product": "—",
+     "angle": "核其现职与活跃领域；确认后启用触点。",
+     "question": "（内部）WhatsApp/LinkedIn 核现职？",
+     "proof": "核实记录存档。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 核活后：真诚短件",
+     "product": "LT-S8328GP-4GX24GT-S 演示机（可选）",
+     "angle": "自我介绍+演示机自用位。",
+     "question": "您咨询项目里需要高性价比接入层吗？",
+     "proof": "一页规格（捷/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "俄斯特拉发六证顾问失联户（缺 MTCSWE；电话/WhatsApp-only）。3 步：人工核活 → 真诚短件 → 冻结。"
+  },
+  {
+   "code": "A-273",
+   "name": "Kevin Myers（IP ArchiTechs）",
+   "country": "美国",
+   "city": "Flowood, MS",
+   "site": "iparchitechs.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://iparchitechs.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "密西西比 Flowood 的**厂商中立**网络咨询集团：自述「solutions-first、不做厂商伙伴驱动」，四大服务=网络工程/设计架构/NetBox 知识库/Tier III-IV NOC 升级支持。",
+     "quote": "Unlike typical consulting groups that are driven by vendor partnerships, IP ArchiTechs maintains a solutions-first approach ‖ Network Engineering ‖ Network Design and Architecture ‖ Tier III / IV NOC Services",
+     "url": "https://iparchitechs.com/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "明写 **Open Networking/解耦+白盒商用硬件降低客户成本** 为其领先领域；生态墙 MikroTik/Cisco/Calix/Ubiquiti/Nokia/Juniper；客户面=企业/数据中心与 IX/卫星/三类 ISP。",
+     "quote": "Open Networking — Disaggregating network software and hardware… building open networks ‖ Lowering Network Costs — commodity hardware and validated design templates ‖ Ecosystem — MikroTik · Cisco · Calix · Ubiquiti · Nokia · Juniper",
+     "url": "https://iparchitechs.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "consulting@iparchitechs.com 官网联系页正文（**页面原样含空格**，mailto 同——照原文引用、不可自行删改；CSV 9-27 official-company-historical-named）；Kevin Myers 2016 MUM PDF 具名邮箱为历史证据。",
+     "quote": "（CSV 2026-09-27 记录）consulting@iparchitechs.com（官网联系页正文，页面原样含空格）；2016 MUM PDF 的 kevin.myers@ 为历史具名证据不作现直邮",
+     "url": "https://iparchitechs.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "密西西比**厂商中立**网络咨询（白盒/commodity hardware 是其公开方法论）——与我们产品哲学最对频的顾问户。",
+    "产品线与在售品牌": "网络工程/设计/NetBox/NOC 升级；MikroTik/Cisco/Calix/Ubiquiti/Nokia/Juniper 生态面。",
+    "目标行业与场景": "企业/DC&IX/卫星/WISP·FISP·Cable 三类运营商客户。",
+    "团队与规模": "多时区顾问团队。",
+    "决策链与对接人": "consulting@iparchitechs.com（官网正文，**原样含空格**，CSV 9-27）；+1 (855) 645-7684。",
+    "技术与认证": "Kevin Myers 为 MikroTik 顾问+培训伙伴（CSV 9-23；MTCNA/MTCRE/MTCTCE/MTCUME/MTCSE）。",
+    "采购与供应链信号": "**他们保护「客户代言人」中立身份——绝不做渠道推销**；正解=供「白盒接入层参考设计」的评估机：他们设计选型、客户自采。",
+    "近期动态与线索": "NetBox 工具线+开放网络话题=参考设计共建空间。",
+    "与我方契合点": "白盒 L2+/PoE 接入层评估机进其参考设计测试；DC/ISP 客户 BOM 出现即成功。",
+    "风险与注意": "中立身份红线：不提代理/返点/转售；邮件到 consulting@ 用原文空格邮箱格式照抄。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 白盒接入层评估机（参考设计用）",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）评估机",
+     "angle": "尊重其中立身份的一封：贵司以 commodity hardware+验证设计模板降客户成本——提供一台 24 口 PoE++ L2+ 评估机供参考设计测试，不谈渠道/返点。",
+     "question": "你们的接入层参考设计里有评估新硬件位置的流程吗？",
+     "proof": "一页规格 + 配置参考（VLAN/ERPS/MLAG 能力清单）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · WISP/ISP 场景的工业宽温件",
+     "product": "LT-IS6310G-2GX8GT / LT-IS6312G-4GX8GT（ERPS）",
+     "angle": "其 WISP/ISP 客户场景的宽温接入/环网件参数包（供设计引用）。",
+     "question": "WISP 客户站点场景的宽温件参数要不要入库备用？",
+     "proof": "工业件参数包 + 环网配置示例。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 参数包留档收口",
+     "product": "—（参数包留档）",
+     "angle": "全品类参数包留档供设计引用；不追单、无回复即冻结。",
+     "question": "（无需回）参数留档。",
+     "proof": "全品类参数一页。"
+    }
+   ],
+   "note": "密西西比中立咨询（白盒方法论对频；红线=不做渠道推销，只供评估机进参考设计）。3 步：评估机 → ISP 场景工业件 → 参数留档。"
+  },
+  {
+   "code": "A-274",
+   "name": "Nathael Leblanc（Joust Security）",
+   "country": "加拿大",
+   "city": "Montreal",
+   "site": "joustsec.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://joustsec.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "蒙特利尔+温哥华两地的**安全评估/渗透测试**咨询：服务含 AppSec/Web/移动/嵌入式/恶意软件分析/**NetSec 与路由安全**/GenAI 安全；另有安全基础设施托管（异地备份 BCP/DRP，**加拿大数据驻留**）。",
+     "quote": "Joust Security specializes in providing advanced information security services ‖ Network Security (NetSec), Routing Security ‖ Secure off-site backups, BCP & DRP infrastructure services — Canadian data residency",
+     "url": "https://joustsec.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "技术伙伴墙：Bitwarden/Dell Authorized/**Juniper Networks VAR**/Getac/Tenable/**Axis Authorized Partner**——Axis 监控+基础设施托管=硬件触点。",
+     "quote": "Technology Partners — Bitwarden Partner · Dell Technologies Authorized Partner · Juniper Networks VAR · Getac Partner · Tenable Assure Bronze Partner MSSP · Axis Authorized Partner",
+     "url": "https://joustsec.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@joustsec.com 官网首页/关于页正文（CSV 9-27 official-company）；英法双语客群（蒙特利尔），首封英语+一行法语寒暄即可。",
+     "quote": "info@joustsec.com ‖ Montreal: +1-514-418-0585 · Vancouver: +1-604-484-0640 ‖ （CSV 2026-09-24 记录）英法双语",
+     "url": "https://joustsec.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "蒙特利尔安全咨询（渗透评估+基础设施托管）：Axis 授权伙伴=监控项目 PoE 接入层触点；自有实验/红队 infra 也要交换件。",
+    "产品线与在售品牌": "安全评估/咨询/基础设施托管；Juniper VAR+Axis 授权。",
+    "目标行业与场景": "科技/SaaS/金融科技/地产楼控/医疗保险（私企高监管段，公立面不涉及）。",
+    "团队与规模": "高级顾问团队（自称全是 senior+）。",
+    "决策链与对接人": "info@joustsec.com（官网正文，CSV 9-27）。",
+    "技术与认证": "MTCRE（CSV）；Juniper VAR/Axis Authorized（官网伙伴墙）。",
+    "采购与供应链信号": "**两个硬件位**：①Axis 监控项目的 24 口 PoE 接入层（视频 VLAN 即用）；②其红队/渗透实验 infra 的高性价比 L2 节点（他们自建 scenario simulations 环境）。",
+    "近期动态与线索": "基础设施托管线（BCP/DRP）在扩=机柜消耗起步。",
+    "与我方契合点": "监控 PoE 接入层+实验室 L2 小节点。",
+    "风险与注意": "安全公司反垃圾/反钓鱼敏感度极高：邮件务必短、纯文本风、无营销话术，否则进沙箱。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Axis 项目 24 口监控 PoE 一页（短、纯技术）",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "超短一封（英语+法语一行）：Axis 监控项目的 24 口 PoE++ 接入层（视频 VLAN 即用模板+RMA），只谈规格与供货。",
+     "question": "Axis 项目的大口数 PoE 接入目前固定配哪个牌？",
+     "proof": "一页规格（英/法）+ VLAN 模板。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 实验/红队 infra 小节点",
+     "product": "LT-S6326G-2X24GT 等 L2 小批",
+     "angle": "其 scenario simulations/实验环境的 L2 小节点小批（高性价比位）。",
+     "question": "实验/靶场环境需要高性价比 L2 节点吗？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档；安全行业不催单，无回复即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "蒙特利尔安全咨询（Axis 授权=监控 PoE 触点+红队实验 infra 小节点；邮件务必短纯技术）。3 步：监控 24 口 → 实验 L2 节点 → 留档。"
+  },
+  {
+   "code": "A-275",
+   "name": "Philippe Lachapelle（CanServers）",
+   "country": "加拿大",
+   "city": "Montreal",
+   "site": "canservers.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://canservers.com/contact"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "蒙特利尔的**加拿大翻新服务器**电商：页脚自述所有二手定制与翻新服务器从加拿大发货、加元计价；首页为店铺骨架（精选/新品/品牌区留白）——动销状态不明朗。",
+     "quote": "All used custom and refurbished servers are shipped from Canada. ‖ All Prices are in CAD.",
+     "url": "https://canservers.com/contact"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@canservers.com 联系页正文 + 1-866-696-3912 + Skype ludarcorp（CSV 9-27 official-company）；X 账号显示 Montréal, Québec。",
+     "quote": "Phone: 1-866-696-3912 ‖ Email: info@canservers.com ‖ Skype: ludarcorp",
+     "url": "https://canservers.com/contact"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "Philippe Lachapelle 持 MTCRE，MikroTik 名录网页地址与该公司一致（CSV 9-23/27；个人职衔未独立复核）。",
+     "quote": "（CSV 2026-09-27 记录）持 MTCRE；个人与公司关系仅来自 MikroTik 名录网页地址，未独立复核职衔",
+     "url": "https://canservers.com/contact"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "蒙特利尔翻新服务器店（加元/加拿大发货；店铺骨架态=先核活再谈）。",
+    "产品线与在售品牌": "翻新服务器/工作站（店铺类目骨架）。",
+    "目标行业与场景": "价格敏感的机房/实验室买家——**与我们 CNY 价位接入层对味**。",
+    "团队与规模": "微型电商。",
+    "决策链与对接人": "info@canservers.com（联系页正文，CSV 9-27）。",
+    "技术与认证": "MTCRE（CSV）。",
+    "采购与供应链信号": "翻新店的客群讲性价比：机架 L2 接入层作其服务器单的网络搭子提案；量小但门槛极低。",
+    "近期动态与线索": "店铺骨架=活跃度存疑，先轻触核活。",
+    "与我方契合点": "机架 L2 24 口（机柜配套位）+小批条款。",
+    "风险与注意": "先核店铺动销（新品区空白）再决定追否；别对其夸大我方体量。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 核活+机柜配套位一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "一封短件：翻新服务器客户的机柜网络配套——高性价比 24 口 L2+/PoE 接入层（加拿大到岸/梯价）。",
+     "question": "服务器客户会顺带问网络件吗？有搭售空间吗？",
+     "proof": "一页报价（英/法一行）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 小批条款",
+     "product": "L2 小批混装",
+     "angle": "按店铺节奏的小批混装条款（低 MOQ）。",
+     "question": "小批混装 MOQ 怎么走合适？",
+     "proof": "小批条款一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "店铺骨架态不追，档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "蒙特利尔翻新服务器店（店铺骨架先核活；性价比客群与 CNY 接入层对味）。3 步：核活+配套位 → 小批条款 → 冻结。"
+  },
+  {
+   "code": "A-276",
+   "name": "Neobits",
+   "country": "美国",
+   "city": "California",
+   "site": "neobits.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.neobits.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "加州 B2B 百货级电商「where business goes shopping」：类目录从标签打印机到色谱膜——其中**基站基础设施/基站天线/视频监控系统**为头部类目（Netonix 渠道身份 CSV 9-23 用户裁决保留户）。",
+     "quote": "Neobits.com is where business goes shopping. ‖ Top Categories — Base Station Infrastructure · Base Station Antennas · Video Surveillance Systems",
+     "url": "https://www.neobits.com/"
+    },
+    {
+     "dim": "采购与供应链信号",
+     "text": "货架含 NewMar DIN 轨 DC UPS 等工业件（在库标价直出）=工业/基站供电件已在动销；**vendors@neobits.com 为供应商入口**（CSV 9-27）——我们按「供应商入驻」而非「客户推销」逻辑走。",
+     "quote": "NewMar - DIN-UPS 24-20 - DIN rail mount DC UPS Power System ‖ （CSV 2026-09-27 记录）官网联系页正文 sales@；供应商入口 vendors@neobits.com",
+     "url": "https://www.neobits.com/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "【2026-09-23 用户裁决·保留】Netonix 采用 Vitesse 芯片、非 Marvell，严格标准属圈外；用户明确保留——**禁用「同芯片」话术**，切入只放交期/宽温/上行/价格。",
+     "quote": "（CSV 2026-09-23 用户裁决）Netonix=非 Marvell 圈外，「先这样吧，没必要删」；切入应放在交期、宽温、上行与价格上",
+     "url": "https://www.neobits.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "加州 B2B 大卖场（基站基础设施是头部类目）——按**供应商入驻**逻辑走 vendors@，别的户都是对客推销、这户是上架。",
+    "产品线与在售品牌": "万货电商+基站件/监控件类目；Netonix 渠道（CSV）。",
+    "目标行业与场景": "全美 SMB/机构买家（长尾动销）。",
+    "团队与规模": "大型电商后台（Item#/MPN/UPC 体系完整）。",
+    "决策链与对接人": "vendors@neobits.com（供应商入口，CSV 9-27）；sales@ 客服线。",
+    "技术与认证": "Netonix 授权渠道（CSV；Vitesse 圈外标签在档）。",
+    "采购与供应链信号": "**SKU 化供货商逻辑**：24 口 PoE/工业件按 UPC/MPN 上架资料包直达 vendors@（比测量/梯价/代发一体）。",
+    "近期动态与线索": "海量 SKU 持续在册=长尾类目常年扩。",
+    "与我方契合点": "24 口 PoE 上架 SKU 包+工业件窄线。",
+    "风险与注意": "Netonix 用户裁决保留户：绝不提芯片；不与客服线谈合作（只走 vendors@）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · vendors@ 供应商入驻一页（SKU 包）",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 vendors@：供应商入驻提案——24 口 PoE++ 接入层（SKU 资料包：UPC/规格图/比价表/梯价/代发条款一体）。",
+     "question": "网络交换类目接受新供应商入驻吗？需要什么资料？",
+     "proof": "SKU 上架资料包（英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业窄线 SKU",
+     "product": "LT-IS6310G-2GX8GT 等窄线",
+     "angle": "基站基础设施类目的工业宽温件窄线 SKU 包。",
+     "question": "工业类目的宽温件窄线要上架吗？",
+     "proof": "窄线 SKU 包。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 条款收口",
+     "product": "—（条款）",
+     "angle": "代发/批发条款收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "条款一页（英）。"
+    }
+   ],
+   "note": "加州 B2B 大卖场（vendors@ 供应商入驻逻辑；Netonix 用户裁决保留话规）。3 步：SKU 包入驻 → 工业窄线 → 条款收口。"
+  },
+  {
+   "code": "A-277",
+   "name": "Modelec Data-Industrie",
+   "country": "荷兰",
+   "city": "Ede",
+   "site": "modelec.nl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.modelec.nl/contact/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "埃德（Ede）的工业数据通信分销：站题自述「以可靠安全的网络方案做连接」；支持页自述 Moxa 与 Westermo（CSV 9-27 复核；Westermo 官方 where-to-buy 名录在册）。",
+     "quote": "MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen ‖ （CSV 2026-09-23/27 记录）Westermo 官方 where-to-buy 名录确认；支持页复核其自称 Moxa 与 Westermo",
+     "url": "https://www.modelec.nl/contact/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "联系页按部门分箱：Sales contact@modelec.nl / Support support@ / 行政 administratie@ / **订单与采购委托 order@modelec.nl**；Ede Galvanistraat 38，KvK 09079853。",
+     "quote": "📧 Afdeling Sales — contact@modelec.nl ‖ 📧 Afdeling Support — support@modelec.nl ‖ 📧 Bestellingen / Inkoopopdrachten — order@modelec.nl ‖ Galvanistraat 38, 6716 AE Ede · KvK 09079853",
+     "url": "https://www.modelec.nl/contact/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "荷兰工业数据通信分销（Westermo+Moxa 双锚，Ede）——同规格 1/3 价工业第二来源标准打法。",
+    "产品线与在售品牌": "工业联网件/布线（Westermo/Moxa 口径）；全套技术支持与本地办会能力（CSV）。",
+    "目标行业与场景": "荷兰工业/轨道/公用事业客群。",
+    "团队与规模": "中型专业分销（部门制分箱）。",
+    "决策链与对接人": "contact@modelec.nl（销售）/order@modelec.nl（订单采购箱，官网联系页正文）。",
+    "技术与认证": "Westermo Reseller（名录+CSV）。",
+    "采购与供应链信号": "Westermo 锚位深：**报价空档的非管理价位档与配线/收发器邻位件**；order@ 存在=其采购流程习惯书面报价单，合拍我们的报价节奏。",
+    "近期动态与线索": "站正常运行、部门体系完整=采购流程规范户。",
+    "与我方契合点": "工业非管理宽温 8 口低价档+收发器邻位件。",
+    "风险与注意": "Westermo/Moxa 锚牌不碰排位；首封到 contact@、报价单抄送习惯提一句可 order@ 直接下单。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 工业非管理低价档一页（报价空档位）",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "荷/英一封：Westermo 报价之外的非管理宽温价位档第二来源（CE/宽温参数一体）；提一句可直接书面报价到 order@。",
+     "question": "现场非管理件的报价空档目前怎么填？",
+     "proof": "工业件一页 + 参数包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 收发器/配线邻位件",
+     "product": "收发器 + SFP 窄线",
+     "angle": "工业光纤场景的收发器/SFP 邻位窄线低价档。",
+     "question": "收发器/SFP 邻位件有补价位档需求吗？",
+     "proof": "窄线一页价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 条款收口",
+     "product": "—（条款）",
+     "angle": "梯价/中性发货条款收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "条款一页（英）。"
+    }
+   ],
+   "note": "荷兰 Westermo+Moxa 双锚分销（order@ 书面采购箱=报价节奏合拍）。3 步：工业低价档 → 收发器邻位 → 条款收口。"
+  },
+  {
+   "code": "A-278",
+   "name": "Cayman Wireless",
+   "country": "美国",
+   "city": "（TX）",
+   "site": "caymanwireless.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.caymanwireless.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "2004 年起的 WISP 社区 VAR/增值转售：自述服务国内外 WISP 客群，「Expert programming and pre-configured wireless solutions for mission-critical networks」。",
+     "quote": "Specialized Value-Added Reseller — Expert programming and pre-configured wireless solutions for mission-critical networks. ‖ Founded in 2004, Cayman Wireless has served the WISP community as a VAR distributor both domestic and abroad.",
+     "url": "https://www.caymanwireless.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "授权品牌墙十家：**Ubiquiti/MikroTik/Cambium/Grandstream/Mimosa/Netonix/IC Realtime/TP-Link/Tycon/Laird**；服务=MikroTik 编程配置、UBWA/UEWA 无线设计、NAS、监控摄像头。",
+     "quote": "Authorized Partner Brands — Ubiquiti · MikroTik · Cambium · Grandstream · Mimosa · Netonix · IC Realtime · TP-Link · Tycon · Laird ‖ MikroTik Programming — UBWA/UEWA Certified",
+     "url": "https://www.caymanwireless.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@caymanwireless.com 系第三方目录结构化数据（官网联系入口遮罩），CSV 9-27 定级**待核——第一步先表单/电话核再发件**。",
+     "quote": "（CSV 2026-09-27 记录）sales@caymanwireless.com（第三方目录结构化数据，官网联系入口为遮罩；待核）；public-register",
+     "url": "https://www.caymanwireless.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "美国 WISP 老牌 VAR（2004 起，Ubiquiti/MikroTik/Cambium/Netonix/Tycon 墙）——监控+站点供电件对口。",
+    "产品线与在售品牌": "无线天线/电台/配件分销+编程配置服务（MikroTik RouterOS/Grandstream 逻辑）+监控+NAS。",
+    "目标行业与场景": "WISP 与任务关键网络客群（国内外）。",
+    "团队与规模": "小型 VAR（motto：The Best Antennas This Side of Paradise）。",
+    "决策链与对接人": "sales@caymanwireless.com（**第三方目录级待核**，CSV 9-27）；1-956-825-0710（先表单/电话核）。",
+    "技术与认证": "UBWA/UEWA 认证（官网徽标）；Netonix 渠道（CSV，Vitesse 圈外标签在档）。",
+    "采购与供应链信号": "Tycon（PoE/供电牌）在售=供电 PoE 类目熟——我们的 24 口 PoE/工业件是邻位价档；Netonix 位不碰芯片话术。",
+    "近期动态与线索": "预配置服务=替客户定 BOM 的影响力位。",
+    "与我方契合点": "24 口 PoE（站点/监控）+宽温小件窄线。",
+    "风险与注意": "邮箱待核不直发；Netonix 裁决话规：只谈交期/宽温/上行/价格。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 表单/电话核联络+类目一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "先表单一句核对接人；随后一页：站点/监控 24 口 PoE 接入层的供货提案（交期+宽温+价格档——不提芯片）。",
+     "question": "站点/监控项目的 24 口 PoE 目前指向哪款？",
+     "proof": "一页报价（英）+ 供货期表。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 宽温小件窄线",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "站点/杆侧宽温小件与收发器窄线。",
+     "question": "杆侧/机柜外宽温件有货架位吗？",
+     "proof": "工业件一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 条款收口",
+     "product": "—（条款）",
+     "angle": "梯价/代发条款收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "条款一页（英）。"
+    }
+   ],
+   "note": "2004 年老牌 WISP VAR（Tycon/Netonix 墙；邮箱第三方目录级先核）。3 步：核联络+24 口一页 → 宽温窄线 → 条款收口。"
+  },
+  {
+   "code": "A-279",
+   "name": "wlanparts",
+   "country": "美国",
+   "city": "（无站可核）",
+   "site": "（站现为占位页）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://wlanparts.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 2026-09-27 核验：wlanparts.com 现为占位页，未找到可验证邮箱；仅保留原电话 1-866-297-2281——**leads-only 失联户，第一步人工**。",
+     "quote": "（CSV 2026-09-27 记录）1-866-297-2281（原电话；网站现为占位页，未找到可验证邮箱）；leads-only",
+     "url": "https://wlanparts.com/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "【2026-09-23 用户裁决·保留】Netonix=Vitesse 非 Marvell 圈外保留户——**禁用「同芯片」话术**；切入只放交期/宽温/上行/价格。",
+     "quote": "（CSV 2026-09-23 用户裁决）「先这样吧，没必要删」；切入点应放在交期、宽温、上行与价格上",
+     "url": "https://wlanparts.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "美国 WISP 渠道（Netonix 授权，CSV）——站点占位失联，第一步人工核实。",
+    "产品线与在售品牌": "（无可核站；Netonix 谱系无线配件商，CSV）。",
+    "目标行业与场景": "WISP 客群。",
+    "团队与规模": "小型渠道。",
+    "决策链与对接人": "1-866-297-2281（原电话，CSV 9-27）；**不发猜测邮箱**。",
+    "技术与认证": "Netonix 授权渠道（CSV 9-23/27）。",
+    "采购与供应链信号": "占位页=经营状态存疑；核活后按 Netonix 话规（交期/宽温/上行/价格）。",
+    "近期动态与线索": "本批不做超出 CSV 记录的断言。",
+    "与我方契合点": "—（待人工核实后再评）。",
+    "风险与注意": "不猜邮箱；电话人工核实优先，核死即归档。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 人工核实（电话）",
+     "product": "—",
+     "angle": "核其经营状态与采购口；确认后启用触点。",
+     "question": "（内部）电话核在营状态？",
+     "proof": "核实记录存档。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 核活后：类目一页",
+     "product": "LT-S8328GP-4GX24GT-S",
+     "angle": "站点/监控 24 口 PoE 供货提案（交期/宽温/价格——不提芯片）。",
+     "question": "24 口 PoE 有采购位吗？",
+     "proof": "一页报价（英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结/按核实结果归档。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "Netonix 渠道失联户（站点占位、电话-only；用户裁决话规）。3 步：人工核活 → 类目一页 → 冻结。"
+  },
+  {
+   "code": "A-280",
+   "name": "Invictus（Invictus Wireless）",
+   "country": "美国",
+   "city": "Tigard, OR",
+   "site": "invictuswireless.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.invictuswireless.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "俄勒冈 Tigard 的无线/网络/安防电商：三大卖场类目=室内网络/**室外无线网络**（楼宇-园区-城市级，licensed+unlicensed）/**监控与门禁**；Netonix 授权渠道（CSV）。",
+     "quote": "Networking, Security & Wireless ‖ Outdoor Wireless Networking Technologies — licensed and unlicensed products to connect and enhance spaces across buildings to campuses to cities ‖ Surveillance & Access Control",
+     "url": "https://www.invictuswireless.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "在售精选 Ubiquiti 系（UISP-CONSOLE、UVC-G4-IRExtender、UVC-AI-THETA 360° 相机等）——**UniFi 监控线活跃**；Netonix 渠道（CSV）；候选同实体域 invictusnetworks.com（Deliberant 北美经销页，待核）。",
+     "quote": "UISP-CONSOLE — UISP Host Console with Integrated Switch and Multi-Gig Ethernet Gateway by Ubiquiti Networks ‖ UVC-AI-THETA UniFi Protect 8/9MP IP Camera ‖ （CSV 2026-09-27 记录）同页另有 info@/accounting@/orders@ 分工邮箱；候选 sales@invictusnetworks.com 同一实体待核",
+     "url": "https://www.invictuswireless.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@invictuswireless.com 官网联系页正文（CSV 9-27 official-company；info@/accounting@/orders@ 分工同页）。",
+     "quote": "（CSV 2026-09-27 记录）sales@invictuswireless.com（官网联系页正文）；official-company",
+     "url": "https://www.invictuswireless.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "俄勒冈无线/安防电商（室外 WISP 件+监控门禁类目）——**UniFi 监控线的 24 口大 PoE 空档与 Inter Project 同型**。",
+    "产品线与在售品牌": "Ubiquiti 精选（UISP/UVC）+Netonix（CSV）+安防/自动化类目。",
+    "目标行业与场景": "楼宇-园区-城市级室外无线与监控客群。",
+    "团队与规模": "中型电商（Volusion 店）。",
+    "决策链与对接人": "sales@invictuswireless.com（官网联系页，CSV 9-27）；1-503-635-2562。",
+    "技术与认证": "Netonix 授权渠道（CSV；Vitesse 圈外标签在档）。",
+    "采购与供应链信号": "UVC/UISP 监控项目的大口数 PoE 接入层（UniFi 交换薄位）+站点宽温件；Netonix 位只谈交期/宽温/上行/价格。",
+    "近期动态与线索": "UISP-CONSOLE 特价置顶=流量入口在 UniFi 生态，话音接得上。",
+    "与我方契合点": "24 口监控 PoE（UniFi 项目旁位）+工业窄线。",
+    "风险与注意": "Netonix 裁决话规；候选 invictusnetworks.com 域未核不引用。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · UniFi 监控项目 24 口 PoE 一页",
+     "product": "LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 sales@：UVC/UISP 监控项目 15 路以上的大口数 PoE 接入层上架提案（梯价+代发）。",
+     "question": "UVC 项目的大口数 PoE 目前导购指向哪款？",
+     "proof": "一页提案（英）+ PoE 预算表。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 室外站点宽温件",
+     "product": "LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "室外无线站点的机柜宽温小件与收发器窄线（交期/宽温/价格档位——不提芯片）。",
+     "question": "室外站点机柜里的接入小件有宽温位吗？",
+     "proof": "工业件一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 条款收口",
+     "product": "—（条款）",
+     "angle": "梯价/代发条款收口；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "条款一页（英）。"
+    }
+   ],
+   "note": "俄勒冈无线/安防电商（UniFi 监控大口数 PoE 空档；Netonix 裁决话规）。3 步：监控 24 口上架 → 站点宽温件 → 条款收口。"
+  }
+ ]
+}
