@@ -767,7 +767,7 @@
       "path": "batch/A类深挖_2026-09-28_R55_第1批.json",
       "sha256": "ca61cc31f5828d9f221a096b80642906d89cc96ae8b7437cb16ecbc020a535c1",
       "bytes": 49988,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 589,
       "unique_url_count": 28,
       "inspection": {},
@@ -12085,7 +12085,7 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "704eeb76c650df48c74c3e830a425daba5412ae0b67f3468941c99b2f8ab95b5",
+      "sha256": "e6ca0d12121e411fd6499f26f3a7afb8cbb0bd2fd7b9fbc71334edc4dd81dece",
       "bytes": 74887,
       "tracked_at_scan": true,
       "units_scanned": 1263,

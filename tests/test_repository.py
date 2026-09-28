@@ -1205,7 +1205,7 @@ class RepositoryTests(unittest.TestCase):
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
         for n in range(1, 56):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 55)  # 54 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 56)  # 55 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
