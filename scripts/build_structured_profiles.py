@@ -223,6 +223,18 @@ OVERRIDE = {
  'A-088': {'p1': 'STC-28DGGPM', 'p1_reason': 'Electromaster 爱尔兰：域名流落+NO-MX 触达降级（站被占如实标注；先电话名录核验）'},
  'A-089': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Switchshop 英框架大户：公共框架红线明示不碰；只谈私营段 24 口 PoE 补位（$165 锚点一致）'},
  'A-090': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'D-Side 荷中小电信一体交付：Voice VLAN 接入柜随单（$165 锚点一致）'},
+ # ── R56 批 10（A-091..A-100 深挖 2026-09-28）──
+ 'A-091': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'mikrotikgyor 匈官方 Training Center：交换课诚实比较样本（$99 锚点一致）；师者红线；无公开邮箱先电话'},
+ 'A-092': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Marksman Titan 安保合并电子线：全国楼宇监控柜 value PoE（$165 锚点一致）'},
+ 'A-093': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Watkins 60 年安防：场馆高密摄像柜 PoE（$165 锚点一致）；DHS 联邦红线不触'},
+ 'A-094': {'p1': 'STC-28DGGPM', 'p1_reason': 'VELOCIgroup 丹 Netonix 渠道：Round-28 Netonix-out 纪律建档不推，无官网电话核验'},
+ 'A-095': {'p1': 'STC-28DGGPM', 'p1_reason': 'Rowe Networks 美 Netonix 渠道：Netonix-out 纪律建档不推（表单站+电话）'},
+ 'A-096': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Last Mile Gear→已并入 WAV 集团（301+同 MX 设施双信号）：Netonix-out 纪律建档；WAV 入口价值留档'},
+ 'A-097': {'p1': 'STC-28DGGPM', 'p1_reason': 'InternetTY 英 AltNet（100+ 五星）：POP/街柜接入小盒（$99 锚点一致）；网责 MTCSE/MTCINE 在册'},
+ 'A-098': {'p1': 'STC-28DGGPM', 'p1_reason': 'Vargyas 美 MTCNA 单证 LinkedIn 渠道：破冰薄档如实（$99 锚点一致）'},
+ 'A-099': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'MSI Works 英小体 Allied 信号（Wix 表单无邮箱）：手机破冰（$165 锚点一致）'},
+ 'A-100': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用'},
 }
 
 out = {}

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -129,11 +129,33 @@ updated: 2026-09-28
   > You’ll find our services on G-Cloud, DoS and many other UK and regional frameworks. · Statements-of-Work (SOW), Workpackage descriptions or Service Token based contracts.
   > 来源：https://networkology.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：高监管 IT 服务商（公共主干）+私营双轨；NETVETS 社区向
+- **②芯片/型号**：Allied Telesis 在册
+- **③KP 深挖**：contact@ 唯一口（tenders@ 不动）
+- **④Saga 对标**：私营段 value PoE
+- **⑤在乎与偏好**：ISO 文档严
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“providing professional services to defence, government and other public sector clients…architecting, engineering and deploying IT solutions within highly regulated environments”
+  > “providing professional services to defence, government and other public sector clients…architecting, engineering and deploying IT solutions within highly regulated environments”
+  > 来源：https://networkology.com/aboutus/
+- **【风险与注意】**Frameworks & DPS：G-Cloud, DoS 等；客户墙含 National Archives/DWP（公共红线）
+  > Frameworks & DPS：G-Cloud, DoS 等；客户墙含 National Archives/DWP（公共红线）
+  > 来源：https://networkology.com/services/
+- **【联系方式】**contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://networkology.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -142,10 +164,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：一人/个体=单点与节奏风险
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：信誉
+- **W**：红线
+- **O**：私营轨
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -183,21 +205,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Networkology,
+Hi Networkology team,
 
-I came across Networkology Ltd - 集成商/代理（Allied Telesis）.
+"Engineering Excellence" for highly regulated environments is a reputation you protect every day - respected.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+To be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $165 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your private-sector builds, who supplies the PoE access layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -13180,12 +13180,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "da",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "VELOCIgroup 丹 Netonix 渠道：Round-28 Netonix-out 纪律建档不推，无官网电话核验",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STC-424DGGPM-280W",
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -13348,12 +13348,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "Rowe Networks 美 Netonix 渠道：Netonix-out 纪律建档不推（表单站+电话）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STC-424DGGPM-280W",
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -13475,12 +13475,12 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Last Mile Gear→已并入 WAV 集团（301+同 MX 设施双信号）：Netonix-out 纪律建档；WAV 入口价值留档",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -14627,11 +14627,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "InternetTY 英 AltNet（100+ 五星）：POP/街柜接入小盒（$99 锚点一致）；网责 MTCSE/MTCINE 在册",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
+   "STC-424DGGPM-280W",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -15526,7 +15526,7 @@
   ],
   "lang": "hu",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "mikrotikgyor 匈官方 Training Center：交换课诚实比较样本（$99 锚点一致）；师者红线；无公开邮箱先电话",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -16221,11 +16221,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "Vargyas 美 MTCNA 单证 LinkedIn 渠道：破冰薄档如实（$99 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-28DGGPM",
+   "STC-424DGGPM-280W",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -16595,7 +16595,7 @@
   ],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "MSI Works 英小体 Allied 信号（Wix 表单无邮箱）：手机破冰（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -16679,7 +16679,7 @@
   ],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -22659,11 +22659,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Marksman Titan 安保合并电子线：全国楼宇监控柜 value PoE（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -22702,11 +22702,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Watkins 60 年安防：场馆高密摄像柜 PoE（$165 锚点一致）；DHS 联邦红线不触",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",

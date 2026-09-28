@@ -8594,6 +8594,18 @@
         "locator": "L1284"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L573"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L594"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L599"
+      },
+      {
         "path": "profile/A/A-097-Benjamin Wragg-英国.md",
         "locator": "L123"
       },
@@ -8604,6 +8616,14 @@
       {
         "path": "profile/A/A-097-Benjamin Wragg-英国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L151"
       }
     ]
   },
@@ -10852,6 +10872,18 @@
         "locator": "L907"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L127"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L132"
+      },
+      {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
         "locator": "L120"
       },
@@ -10862,6 +10894,14 @@
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -11666,6 +11706,10 @@
         "locator": "L313"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L689"
+      },
+      {
         "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
         "locator": "L44"
       },
@@ -11968,6 +12012,10 @@
       {
         "path": "profile/A/A-097-Benjamin Wragg-英国.md",
         "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-098-Brian Vargyas-美国.md",
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-272-Alexandr Mensenin-捷克.md",
@@ -16732,6 +16780,18 @@
         "locator": "L834"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L37"
+      },
+      {
         "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
         "locator": "L122"
       },
@@ -16742,6 +16802,14 @@
       {
         "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L147"
       }
     ]
   },
@@ -18436,6 +18504,14 @@
         "locator": "L1523"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L853"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L884"
+      },
+      {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L121"
       },
@@ -18450,6 +18526,38 @@
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://networkology.com/aboutus/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L874"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://networkology.com/services/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L879"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L149"
       }
     ]
   },
@@ -20690,6 +20798,30 @@
       {
         "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
         "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://rowewireless.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L406"
+      },
+      {
+        "path": "profile/A/A-095-Rowe Networks-美国.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://rowewireless.com/（",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L385"
       }
     ]
   },
@@ -38900,8 +39032,16 @@
         "locator": "L1189"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L505"
+      },
+      {
         "path": "profile/A/A-096-Last Mile Gear-美国.md",
         "locator": "L122"
+      },
+      {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L150"
       }
     ]
   },
@@ -49484,6 +49624,18 @@
         "locator": "L986"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L201"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L222"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L227"
+      },
+      {
         "path": "profile/A/A-093-Watkins Security-美国.md",
         "locator": "L120"
       },
@@ -49498,6 +49650,14 @@
       {
         "path": "profile/A/A-093-Watkins Security-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L148"
       }
     ]
   },
@@ -49526,6 +49686,10 @@
         "locator": "L1207"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L500"
+      },
+      {
         "path": "batch/B段复筛_2026-09-28_R53_第20批.json",
         "locator": "L129"
       },
@@ -49550,6 +49714,10 @@
         "locator": "L131"
       },
       {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L147"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!Q243"
       },
@@ -49570,6 +49738,16 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3461"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wavonline.com/（lastmilegear.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
+        "locator": "L479"
       }
     ]
   },
