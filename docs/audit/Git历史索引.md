@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `b2dc57bec2cf` | 2026-09-28T02:28:09+00:00 | R53: B-segment site-by-site rescreen complete — 136 promotions (A-432–A-567) |
 | `034c76e011b4` | 2026-09-28T02:24:22+00:00 | R53: B-segment rescreen batch 27 (B-318 mikrotik.ro promote) |
 | `7fd8c132a069` | 2026-09-28T02:23:54+00:00 | R53: B-segment rescreen batch 26 (domain/entry retries, 4 promotions) |
 | `758cb0cefc94` | 2026-09-28T02:20:21+00:00 | R53: B-segment rescreen batch 25 (pending-retry follow-ups, 11 promotions) |
