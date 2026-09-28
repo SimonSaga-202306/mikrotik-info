@@ -126,6 +126,22 @@ updated: 2026-09-28
   > （品牌墙节选）Netgear · Zyxel · D-Link · WatchGuard · Belden · Panduit · Leviton · Prysmian · Dahua · Selea · Yealink · snom · 3CX · Mitel · Avaya · Vertiv · Ribbon
   > 来源：https://www.asit.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：弱电分销（5 BU+自贴牌）40 年
+- **②芯片/型号**：D-Link/Netgear/Zyxel/华为在位
+- **③KP 深挖**：asit@
+- **④Saga 对标**：Networking BU value 新线+白牌 ODM（rackAsit 逻辑）
+- **⑤在乎与偏好**：分销文档+阶梯
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“5 sedi, 40 anni, 42 dipendenti, 1500 clienti attivi, 35 brand…[BU:] Networking…cabling, AV, TVCC…[自有:] rackasit”
+  > “5 sedi, 40 anni, 42 dipendenti, 1500 clienti attivi, 35 brand…[BU:] Networking…cabling, AV, TVCC…[自有:] rackasit”
+  > 来源：https://www.asit.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：贴牌
+- **W**：在位
+- **O**：白牌
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -176,21 +192,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Asit,
+Hi Asit team,
 
-I came across Asit SpA - 集成商/代理（Allied Telesis）.
+Five business units, forty years, a "rackAsit" brand of your own - you already know the OEM logic from the inside. Your Networking BU spans Leviton to Huawei; what seems open is a documented value PoE access line at the honest end of the tier.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - open branding or private label, two conversations.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your Networking BU, is there room for a documented value PoE access line - listed as Saga, or built under your own label, whichever model fits your house?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send a sample unit with the complete distribution pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -125,6 +125,22 @@ updated: 2026-09-28
   > 自营报价与 IT 服务页面明确指定此邮箱（CSV 2026-09-27 记录，源 tiefenbach-it.com/angebot 与 /it-services）
   > 来源：https://www.tiefenbach-it.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：硬件电商（OEM 兼容光收+Aruba 大牌实版）文化同源
+- **②芯片/型号**：HPE Aruba 实版实价
+- **③KP 深挖**：kontakt@
+- **④Saga 对标**：OEM-compatible 叙事同款 value 交换上架
+- **⑤在乎与偏好**：上架文档+价位对照
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“[listing:] OEM 10GBASE SFP+ LR 1310nm 10km LC Cisco kompatibel €26…HPE Aruba 6000 48G CL4 4SFP Switch R8N85A €1.034,89”
+  > “[listing:] OEM 10GBASE SFP+ LR 1310nm 10km LC Cisco kompatibel €26…HPE Aruba 6000 48G CL4 4SFP Switch R8N85A €1.034,89”
+  > 来源：https://www.tiefenbach-it.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：哲学
+- **W**：在位
+- **O**：上架
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Tiefenbach,
+Hi Tiefenbach IT team,
 
-I came across Tiefenbach IT GmbH - 集成商/代理（Allied Telesis）.
+Your shop sells OEM-compatible transceivers beside HPE Aruba switches - you already serve buyers who want reliable gear without the badge premium. That is exactly the buyer we build for.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW. It would slot naturally into your catalogue as the value PoE line your compatible-transceiver customers already expect from you.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: is there room in your assortment for a documented 24-port PoE access switch at a value price tier - listed openly, like the transceivers, no lock-in story?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with listing-ready documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

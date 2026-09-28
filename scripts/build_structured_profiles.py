@@ -324,6 +324,17 @@ OVERRIDE = {
  'A-178': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Selos 威廉港深 SMB：Auerswald/1&1 同盟随单（$165 锚点一致）'},
  'A-179': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Sittig 航空广播商：JFK T6+Auracast 双事件窗，IP audio 配套（$165 锚点一致）'},
  'A-180': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'TELCAT 大型 ITK 集团：私营工程随单（$165 锚点一致）；Digitalpakt 学校守界'},
+ # ── R56 批 19（A-181..A-190 深挖 2026-09-28）──
+ 'A-181': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'thinkGROUP Top30 系统屋：企业段 SMB 端窄位（$165 锚点一致）；公共/医疗守界'},
+ 'A-182': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Tiefenbach 电商：OEM 兼容件同源哲学，PoE 上架位（$165 锚点一致）'},
+ 'A-183': {'p1': 'STC-28DGGPM', 'p1_reason': 'TQ-Group：E²MS+自有产品线纯制造商同业——建档不出信（Dallmeier 范式）'},
+ 'A-184': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'wp.DATA SAP 金牌+系统屋双线：机械/汽车行业中企业随单（$165 锚点一致）'},
+ 'A-185': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Ziegler 142 人电气+IT 混合屋：WLAN/楼宇项目随单（$165 锚点一致）'},
+ 'A-186': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Zorn 1971 电工承包（控制柜自制+IKT 双证）：楼宇弱电随单（$165 锚点一致）；证据偏薄标注'},
+ 'A-187': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Groupe Networks 马赛圈：数字转型方案随单件窄位（$165 锚点一致）'},
+ 'A-188': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'A.G. informatica 罗马 25 牌宽分销：私营安防随单（$165 锚点一致）；MEPA 公共守界'},
+ 'A-189': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Agomir Lecco 三柱商：Sistemi 支线随单（$165 锚点一致）'},
+ 'A-190': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Asit 弱电分销：Networking BU value 新线+rackAsit 白牌 OEM 通道（$165 锚点一致）'},
 }
 
 out = {}

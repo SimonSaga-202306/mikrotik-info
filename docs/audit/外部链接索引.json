@@ -1506,6 +1506,14 @@
         "locator": "L616"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L729"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L750"
+      },
+      {
         "path": "profile/A/A-189-Agomir-意大利.md",
         "locator": "L120"
       },
@@ -1516,6 +1524,10 @@
       {
         "path": "profile/A/A-189-Agomir-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-189-Agomir-意大利.md",
+        "locator": "L142"
       }
     ]
   },
@@ -7600,6 +7612,14 @@
         "locator": "L470"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L549"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L570"
+      },
+      {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
         "locator": "L120"
       },
@@ -7610,6 +7630,10 @@
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -24048,6 +24072,14 @@
         "locator": "L38"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L32"
+      },
+      {
         "path": "profile/A/A-181-think about IT GmbH-德国.md",
         "locator": "L120"
       },
@@ -24058,6 +24090,10 @@
       {
         "path": "profile/A/A-181-think about IT GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-181-think about IT GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -26756,6 +26792,14 @@
         "locator": "L543"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L639"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L660"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A180-A199.json",
         "locator": "L126"
       },
@@ -26770,6 +26814,10 @@
       {
         "path": "profile/A/A-188-A.G.informatica S.r.l-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-188-A.G.informatica S.r.l-意大利.md",
+        "locator": "L143"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -28234,6 +28282,14 @@
         "locator": "L689"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L819"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L840"
+      },
+      {
         "path": "profile/A/A-190-Asit SpA-意大利.md",
         "locator": "L121"
       },
@@ -28244,6 +28300,10 @@
       {
         "path": "profile/A/A-190-Asit SpA-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-190-Asit SpA-意大利.md",
+        "locator": "L143"
       }
     ]
   },
@@ -49176,6 +49236,14 @@
         "locator": "L111"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L122"
+      },
+      {
         "path": "profile/A/A-182-Tiefenbach IT GmbH-德国.md",
         "locator": "L120"
       },
@@ -49186,6 +49254,10 @@
       {
         "path": "profile/A/A-182-Tiefenbach IT GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-182-Tiefenbach IT GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -49452,6 +49524,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-937/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tq-group.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L191"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/A/A-183-TQ-Systems GmbH-德国.md",
+        "locator": "L143"
       }
     ]
   },
@@ -51472,6 +51562,14 @@
         "locator": "L257"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L279"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L300"
+      },
+      {
         "path": "profile/A/A-184-wp.DATA Kommunikations GmbH-德国.md",
         "locator": "L120"
       },
@@ -51482,6 +51580,10 @@
       {
         "path": "profile/A/A-184-wp.DATA Kommunikations GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-184-wp.DATA Kommunikations GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -51972,6 +52074,14 @@
         "locator": "L330"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L369"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L390"
+      },
+      {
         "path": "profile/A/A-185-Ziegler Systemhaus GmbH-德国.md",
         "locator": "L120"
       },
@@ -51982,6 +52092,10 @@
       {
         "path": "profile/A/A-185-Ziegler Systemhaus GmbH-德国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-185-Ziegler Systemhaus GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -52250,12 +52364,24 @@
         "locator": "L397"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L459"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第19批.json",
+        "locator": "L480"
+      },
+      {
         "path": "profile/A/A-186-Zorn Elektrik GmbH-德国.md",
         "locator": "L120"
       },
       {
         "path": "profile/A/A-186-Zorn Elektrik GmbH-德国.md",
         "locator": "L123"
+      },
+      {
+        "path": "profile/A/A-186-Zorn Elektrik GmbH-德国.md",
+        "locator": "L139"
       }
     ]
   },

@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Branchen: Geschäftskunden · Öffentliche Auftraggeber · Healthcare（导航栏）
   > 来源：https://think-about.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Top30 系统屋（HPC 能力强）+thinkGROUP 结构
+- **②芯片/型号**：NVIDIA/M365 深处
+- **③KP 深挖**：frontoffice@
+- **④Saga 对标**：企业段 SMB 端 value 件（边界句）
+- **⑤在乎与偏好**：ITIL 流程文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“zählt zu den Top 30 Systemhäusern Deutschlands…Managed Services bis hin zur Realisation komplexer HPC-Cluster…Geschäftskunden/Öffentliche Auftraggeber/Healthcare”
+  > “zählt zu den Top 30 Systemhäusern Deutschlands…Managed Services bis hin zur Realisation komplexer HPC-Cluster…Geschäftskunden/Öffentliche Auftraggeber/Healthcare”
+  > 来源：https://think-about.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：规模
+- **W**：框架
+- **O**：缝
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi think,
+Hi thinkGROUP team,
 
-I came across think about IT GmbH - 集成商/代理（Allied Telesis）.
+A Top-30 German system house doing everything from NVIDIA DGX clusters to residential-site managed networks - the kind of breadth where the SMB end of the access layer is easy to starve of attention. (This note concerns your Geschäftskunden engagements only; public and healthcare segments stay fully out of scope.)
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the SMB ends of your managed networks.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: across your commercial managed-network projects, which switch brand holds the access layer today - and is there room for a documented value alternative at the smaller end of the spectrum?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
