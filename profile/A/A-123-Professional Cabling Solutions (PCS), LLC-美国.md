@@ -129,6 +129,22 @@ updated: 2026-09-28
   > 仅 ContactOut 问答列出 Heath Bowerman 及完整邮箱，不能据其格式表认定验证成功；官网仅提供表单及电话（CSV 2026-09-27 记录）
   > 来源：https://contactout.com/company/Professional-Cabling-Solutions-9325
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：2003 布线一站式；F1000 项目史
+- **②芯片/型号**：Allied 信号（CSV）
+- **③KP 深挖**：NO-MX 降级（表单/电话）
+- **④Saga 对标**：BOM 接入层 value 位
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“single-source provider for Voice and Data Infrastructures…small businesses and Fortune 1000 clients nationwide”
+  > “single-source provider for Voice and Data Infrastructures…small businesses and Fortune 1000 clients nationwide”
+  > 来源：https://professionalcablingsolutions.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -142,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：史
+- **W**：NO-MX
+- **O**：BOM
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -179,21 +195,10 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Professional,
-
-I came across Professional Cabling Solutions (PCS), LLC - 集成商/代理（Allied Telesis）.
-
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（NO-MX 降级：不出信。动作：以官网联系表单+电话起步，确认有效对接邮箱后排期。参考话术："We build a 24-port Gigabit PoE switch (280W, 802.3af/at) at $165 USD EXW reference - a value line for the access layer of your one-stop BOMs. In your cabling projects, which switch brand holds the access slots today?"）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

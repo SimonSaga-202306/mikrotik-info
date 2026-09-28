@@ -257,6 +257,17 @@ OVERRIDE = {
  'A-118': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'HBS 威州全栈（Cisco/HPE 同盟）：第二架价值线窄判别（$165 锚点一致）；第三方名录邮箱存疑标注'},
  'A-119': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ITC 纽约 SMB 托管（监控+VoIP 双主线）：随单柜 value 位（$165 锚点一致）；无公开邮箱'},
  'A-120': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Kidwell 内布拉斯加 75 年弱电+电气：交钥匙 BOM 接入层 value 位（$165 锚点一致）'},
+ # ── R56 批 13（A-121..A-130 深挖 2026-09-28）──
+ 'A-121': {'p1': 'STC-28DGGPM', 'p1_reason': 'Nexware 美：站点 500 异常如实薄档；MX 存活 support@ 信号核实破冰（$99 锚点一致）'},
+ 'A-122': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Paramount 三州安防：SHIELD SECaaS 月付模式的硬件现金结构切入（$165 锚点一致）'},
+ 'A-123': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'PCS 辛辛那提 2003 布线 F1000 史：NO-MX 触达降级，电话/表单先行（$165 锚点一致）'},
+ 'A-124': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'RTI 全国教育部署+仓储入库：K-12 接入柜（$165 锚点一致）；danl@ 具名'},
+ 'A-125': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Security 101 CT 加盟：一线同盟下分支第二架 value 线窄判别（$165 锚点一致）'},
+ 'A-126': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Security 101 Rochester：同集团判别具名 Victor 首邮（$165 锚点一致）'},
+ 'A-127': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Silco 多州消防安防 45,000 客户：随单柜+看门狗免回访（$165 锚点一致）'},
+ 'A-128': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'UberData NaaS 订阅+refresh 采购池：入门档套餐 value 位（$165 锚点一致）'},
+ 'A-129': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'VARtek K-12 教育专属驻场托管：学区接入柜免回访（$165 锚点一致）'},
+ 'A-130': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Wire Technologies 30 年布线/DC/交换直通：直接对口接入层 value 位（$165 锚点一致）'},
 }
 
 out = {}

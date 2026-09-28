@@ -125,6 +125,22 @@ updated: 2026-09-28
   > （检索快照）Payment information is encrypted and stored in our Payment gateway providers’ database. · Business Hours: 9am-5pm MST
   > 来源：https://nexwaretechnologies.com/policies/privacy-policy
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：美国 IT 商；站点异常+MX 存活（如实）
+- **②芯片/型号**：Allied 信号（CSV）
+- **③KP 深挖**：support@
+- **④Saga 对标**：核实后再判
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**CSV 载 Allied Telesis（Marvell Prestera 接入层）；站点 HTTP 500×2 抓取异常（如实标注）
+  > CSV 载 Allied Telesis（Marvell Prestera 接入层）；站点 HTTP 500×2 抓取异常（如实标注）
+  > 来源：https://nexwaretechnologies.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：信号
+- **W**：异常
+- **O**：核实
+- **T**：薄
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Nexware,
+Hi Nexware team,
 
-I came across Nexware Technologies - 集成商/代理（Allied Telesis）.
+A quick note rather than a long pitch: we came across Nexware in connection with Allied Telesis networking gear, and wanted to ask one question.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build PoE access switches (8-port compact to 24-port 280W, 802.3af/at) - the value alternative for access closets. Compact model reference: $99 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: is switching hardware part of what Nexware deploys for clients today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If yes, happy to send a spec page. If not relevant, one line and I will close the loop politely.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

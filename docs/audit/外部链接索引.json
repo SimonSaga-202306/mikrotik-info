@@ -18732,6 +18732,20 @@
     ]
   },
   {
+    "url": "https://nexwaretechnologies.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-121-Nexware Technologies-美国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://nexwaretechnologies.com/policies/privacy-policy",
     "http_checked": false,
     "occurrences": [
@@ -18804,6 +18818,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-793/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://nexwaretechnologies.com/（",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L11"
       }
     ]
   },
@@ -19794,6 +19818,14 @@
         "locator": "L115"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L122"
+      },
+      {
         "path": "profile/A/A-122-Paramount Security Partners-美国.md",
         "locator": "L120"
       },
@@ -19804,6 +19836,10 @@
       {
         "path": "profile/A/A-122-Paramount Security Partners-美国.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-122-Paramount Security Partners-美国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -20206,6 +20242,14 @@
         "locator": "L192"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L191"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L212"
+      },
+      {
         "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
         "locator": "L121"
       },
@@ -20216,6 +20260,10 @@
       {
         "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -22448,6 +22496,14 @@
         "locator": "L512"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L551"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L572"
+      },
+      {
         "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
         "locator": "L120"
       },
@@ -22462,6 +22518,10 @@
       {
         "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -24452,6 +24512,14 @@
         "locator": "L664"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L731"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L752"
+      },
+      {
         "path": "profile/A/A-129-VARtek Services Inc-美国.md",
         "locator": "L120"
       },
@@ -24466,6 +24534,10 @@
       {
         "path": "profile/A/A-129-VARtek Services Inc-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-129-VARtek Services Inc-美国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -25400,6 +25472,14 @@
         "locator": "L277"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L281"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L302"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L218"
       },
@@ -25418,6 +25498,10 @@
       {
         "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -46422,6 +46506,36 @@
     ]
   },
   {
+    "url": "https://www.security101.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L371"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L392"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L461"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L482"
+      },
+      {
+        "path": "profile/A/A-125-Security 101 - CT-美国.md",
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.security101.com/blog/security-101-helps-secure-the-pga-championship-with-mobile-surveillance",
     "http_checked": false,
     "occurrences": [
@@ -49110,6 +49224,14 @@
         "locator": "L585"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L641"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L662"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L274"
       },
@@ -49124,6 +49246,10 @@
       {
         "path": "profile/A/A-128-UberData Networks-美国.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-128-UberData Networks-美国.md",
+        "locator": "L143"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -50516,6 +50642,14 @@
         "locator": "L737"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L821"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第13批.json",
+        "locator": "L842"
+      },
+      {
         "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
         "locator": "L121"
       },
@@ -50526,6 +50660,10 @@
       {
         "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
+        "locator": "L143"
       }
     ]
   },

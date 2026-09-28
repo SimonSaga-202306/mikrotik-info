@@ -126,6 +126,22 @@ updated: 2026-09-28
   > …we deploy and manage your complete environment with 24/7 support, proactive maintenance, and automatic hardware refresh. Enterprise performance without the capital expense or operational complexity.
   > 来源：https://www.uberdatanetworks.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：NaaS MSP（订阅+自动硬件更新=持续采购池）
+- **②芯片/型号**：CSV 载 Allied 信号
+- **③KP 深挖**：info@
+- **④Saga 对标**：NaaS 入门档 value 位
+- **⑤在乎与偏好**：TCO/毛利结构
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“networking as a service…switching and routing to Wi-Fi and security…with 24/7 support, proactive maintenance, and automatic hardware refresh”
+  > “networking as a service…switching and routing to Wi-Fi and security…with 24/7 support, proactive maintenance, and automatic hardware refresh”
+  > 来源：https://www.uberdatanetworks.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：采购池
+- **W**：同盟
+- **O**：入门档
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -176,21 +192,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi UberData,
+Hi UberData team,
 
-I came across UberData Networks - 集成商/代理（Allied Telesis）.
+UconnectX is a clean NaaS proposition - and with automatic hardware refresh built in, your hardware pool economics are the engine of the whole subscription margin.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - spec-grade behavior aimed exactly at entry and mid tiers of a NaaS bundle, where Cisco and Aruba price points compress the margin.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
