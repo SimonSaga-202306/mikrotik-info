@@ -229,7 +229,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L658"
+        "locator": "L659"
       }
     ]
   },
@@ -383,7 +383,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L834"
+        "locator": "L835"
       }
     ]
   },
@@ -414,6 +414,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-874/备注"
+      }
+    ]
+  },
+  {
+    "url": "http://www.grifonline.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L34"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L93"
       }
     ]
   },
@@ -529,7 +547,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L702"
+        "locator": "L703"
       }
     ]
   },
@@ -595,7 +613,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L832"
+        "locator": "L833"
       }
     ]
   },
@@ -1097,7 +1115,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L657"
+        "locator": "L658"
       }
     ]
   },
@@ -1242,6 +1260,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-951/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://airicom.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L431"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L439"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L445"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L451"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -1823,7 +1875,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L795"
+        "locator": "L796"
       }
     ]
   },
@@ -2365,7 +2417,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L701"
+        "locator": "L702"
       }
     ]
   },
@@ -2502,6 +2554,42 @@
     ]
   },
   {
+    "url": "https://c3net.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L674"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L700"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://cabb.pl/firma/c-net-jacek-rokicki-8251386484",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L670"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L694"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://canservers.com",
     "http_checked": false,
     "occurrences": [
@@ -2623,7 +2711,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L755"
+        "locator": "L756"
       }
     ]
   },
@@ -3088,6 +3176,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-827/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://csi.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L504"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L512"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L518"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L524"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L530"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L91"
       }
     ]
   },
@@ -3602,6 +3732,24 @@
     ]
   },
   {
+    "url": "https://deltacontrols.com/pl-partnerzy-delta",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L757"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L771"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
     "url": "https://deltami.org/places/heartland-business-systems/",
     "http_checked": false,
     "occurrences": [
@@ -4099,7 +4247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L753"
+        "locator": "L754"
       }
     ]
   },
@@ -4533,7 +4681,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1166"
+        "locator": "L1167"
       }
     ]
   },
@@ -4543,7 +4691,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1166"
+        "locator": "L1167"
       }
     ]
   },
@@ -5007,7 +5155,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L698"
+        "locator": "L699"
       }
     ]
   },
@@ -5349,7 +5497,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L621"
+        "locator": "L622"
       }
     ]
   },
@@ -5622,6 +5770,58 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-945/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://guedeslopes.pt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1377"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1385"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1391"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1397"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1403"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://hanacke.net/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L196"
       }
     ]
   },
@@ -6045,7 +6245,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L837"
+        "locator": "L838"
       }
     ]
   },
@@ -6249,7 +6449,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L624"
+        "locator": "L625"
       }
     ]
   },
@@ -6483,7 +6683,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L624"
+        "locator": "L625"
       }
     ]
   },
@@ -7404,6 +7604,74 @@
     ]
   },
   {
+    "url": "https://linitx.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1456"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1464"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1470"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1476"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1482"
+      },
+      {
+        "path": "profile/A/A-059-Jono Thompson - LinITX-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-059-Jono Thompson - LinITX-英国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-059-Jono Thompson - LinITX-英国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-059-Jono Thompson - LinITX-英国.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://linkwave.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L22"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L40"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L46"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
     "url": "https://localnet.fi/",
     "http_checked": false,
     "occurrences": [
@@ -7985,7 +8253,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L797"
+        "locator": "L798"
       }
     ]
   },
@@ -13342,6 +13610,48 @@
     ]
   },
   {
+    "url": "https://minimelabs.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L988"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L996"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1002"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1008"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1014"
+      },
+      {
+        "path": "profile/A/A-053-Urbino Lobo - MiniMeLabs-葡萄牙.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-053-Urbino Lobo - MiniMeLabs-葡萄牙.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-053-Urbino Lobo - MiniMeLabs-葡萄牙.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-053-Urbino Lobo - MiniMeLabs-葡萄牙.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://mittelrheinland.de/unternehmer-in-der-gemeinschaft/meco-systemhaus/",
     "http_checked": false,
     "occurrences": [
@@ -13422,6 +13732,62 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第6批.json",
         "locator": "L29"
+      }
+    ]
+  },
+  {
+    "url": "https://mtik.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L583"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L591"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L597"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L603"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L609"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://mtik.pl/courses/mtcswe)…",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L602"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L88"
       }
     ]
   },
@@ -13814,6 +14180,48 @@
     ]
   },
   {
+    "url": "https://narrowin.com/en/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L909"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L917"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L923"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L929"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L935"
+      },
+      {
+        "path": "profile/A/A-052-Tomas Horyl - Narrowin-瑞士.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-052-Tomas Horyl - Narrowin-瑞士.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-052-Tomas Horyl - Narrowin-瑞士.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-052-Tomas Horyl - Narrowin-瑞士.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://nasstore.eu/",
     "http_checked": false,
     "occurrences": [
@@ -13981,7 +14389,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L794"
+        "locator": "L795"
       }
     ]
   },
@@ -14301,7 +14709,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L705"
+        "locator": "L706"
       }
     ]
   },
@@ -14984,6 +15392,24 @@
     ]
   },
   {
+    "url": "https://panoramafirm.pl/mazowieckie,pruszkowski,falenty_nowe,rozbrat,3/c3_net_jacek_rokicki-axpjfb_fsc.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L666"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L688"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
     "url": "https://paramountsec.com",
     "http_checked": false,
     "occurrences": [
@@ -15479,7 +15905,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L700"
+        "locator": "L701"
       }
     ]
   },
@@ -15608,6 +16034,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-931/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://rejstrik-firem.kurzy.cz/04241959/hanacke-net-sro/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L188"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L216"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L96"
       }
     ]
   },
@@ -15886,6 +16330,24 @@
     ]
   },
   {
+    "url": "https://routing.wireless.academy/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L52"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
     "url": "https://ruggedscience.com/",
     "http_checked": false,
     "occurrences": [
@@ -15958,6 +16420,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1002/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://safes.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L830"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L838"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L844"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L850"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L856"
+      },
+      {
+        "path": "profile/A/A-051-Paweł Wandas - SAFES-波兰.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-051-Paweł Wandas - SAFES-波兰.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-051-Paweł Wandas - SAFES-波兰.md",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-051-Paweł Wandas - SAFES-波兰.md",
+        "locator": "L104"
       }
     ]
   },
@@ -17090,6 +17594,32 @@
     ]
   },
   {
+    "url": "https://sinux.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L753"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L765"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L777"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://skytron.business/",
     "http_checked": false,
     "occurrences": [
@@ -17654,6 +18184,48 @@
     ]
   },
   {
+    "url": "https://systemdevices.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1298"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1306"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1312"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1318"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1324"
+      },
+      {
+        "path": "profile/A/A-057-System Devices UK Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-057-System Devices UK Ltd-英国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-057-System Devices UK Ltd-英国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-057-System Devices UK Ltd-英国.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://t.me/s/corsimikrotik?before=116",
     "http_checked": false,
     "occurrences": [
@@ -17858,6 +18430,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1029/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://themonic.com/iconic-one/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L776"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L96"
       }
     ]
   },
@@ -19084,6 +19670,20 @@
     ]
   },
   {
+    "url": "https://wordpress.org/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L776"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://wstsystems.com/",
     "http_checked": false,
     "occurrences": [
@@ -19502,6 +20102,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-882/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aajones.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1225"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1233"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1239"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1245"
+      },
+      {
+        "path": "profile/A/A-056-AA Jones Electric Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-056-AA Jones Electric Ltd-英国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-056-AA Jones Electric Ltd-英国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -20975,7 +21609,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L625"
+        "locator": "L626"
       }
     ]
   },
@@ -21511,7 +22145,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L703"
+        "locator": "L704"
       }
     ]
   },
@@ -22311,7 +22945,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L795"
+        "locator": "L796"
       }
     ]
   },
@@ -23637,7 +24271,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L655"
+        "locator": "L656"
       }
     ]
   },
@@ -24547,7 +25181,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L796"
+        "locator": "L797"
       }
     ]
   },
@@ -24652,6 +25286,48 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第17批.json",
         "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.direktronik.se/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1067"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1075"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1081"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1087"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1093"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L91"
       }
     ]
   },
@@ -24839,7 +25515,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L757"
+        "locator": "L758"
       }
     ]
   },
@@ -25100,6 +25776,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-900/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.edb.cz/firma-1000296-martin-pina-olomouc/kontakt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L192"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L222"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L99"
       }
     ]
   },
@@ -25759,7 +26453,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L752"
+        "locator": "L753"
       }
     ]
   },
@@ -26792,6 +27486,32 @@
     ]
   },
   {
+    "url": "https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L204"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L210"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
     "url": "https://www.fiseg.fi/",
     "http_checked": false,
     "occurrences": [
@@ -27322,6 +28042,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-968/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gowork.pl/c3-net-jacek-rokicki,23332517/dane-kontaktowe-firmy",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L662"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L682"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L91"
       }
     ]
   },
@@ -28246,6 +28984,40 @@
     ]
   },
   {
+    "url": "https://www.indycar.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1535"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1543"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1549"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1555"
+      },
+      {
+        "path": "profile/A/A-060-Michael Jezierski - IndyCar-美国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-060-Michael Jezierski - IndyCar-美国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-060-Michael Jezierski - IndyCar-美国.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://www.informazione-aziende.it/Azienda_SECURCREA-DI-CIANCHI-MICHELE-C-SAS",
     "http_checked": false,
     "occurrences": [
@@ -28317,7 +29089,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L758"
+        "locator": "L759"
       }
     ]
   },
@@ -28513,7 +29285,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L653"
+        "locator": "L654"
       }
     ]
   },
@@ -29021,7 +29793,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L833"
+        "locator": "L834"
       }
     ]
   },
@@ -29237,7 +30009,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L654"
+        "locator": "L655"
       }
     ]
   },
@@ -30232,6 +31004,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-836/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/dan-erhan-067708242/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L358"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L366"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L372"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L378"
+      },
+      {
+        "path": "profile/A/A-045-Dan Erhan-摩尔多瓦.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-045-Dan Erhan-摩尔多瓦.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-045-Dan Erhan-摩尔多瓦.md",
+        "locator": "L93"
       }
     ]
   },
@@ -31335,7 +32141,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L754"
+        "locator": "L755"
       }
     ]
   },
@@ -31897,7 +32703,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L796"
+        "locator": "L797"
       }
     ]
   },
@@ -32173,7 +32979,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L759"
+        "locator": "L760"
       }
     ]
   },
@@ -32239,7 +33045,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L625"
+        "locator": "L626"
       }
     ]
   },
@@ -33395,7 +34201,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L706"
+        "locator": "L707"
       }
     ]
   },
@@ -33851,7 +34657,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L756"
+        "locator": "L757"
       }
     ]
   },
@@ -34438,6 +35244,48 @@
     ]
   },
   {
+    "url": "https://www.pftech.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L119"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L125"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://www.phoenix-itsolutions.de",
     "http_checked": false,
     "occurrences": [
@@ -34563,7 +35411,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L836"
+        "locator": "L837"
       }
     ]
   },
@@ -34647,7 +35495,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L704"
+        "locator": "L705"
       }
     ]
   },
@@ -35364,6 +36212,48 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第16批.json",
         "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sarlin.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1146"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1154"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1160"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1166"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L1172"
+      },
+      {
+        "path": "profile/A/A-055-Sarlin Oy Ab-芬兰.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-055-Sarlin Oy Ab-芬兰.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-055-Sarlin Oy Ab-芬兰.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-055-Sarlin Oy Ab-芬兰.md",
+        "locator": "L91"
       }
     ]
   },
@@ -37497,7 +38387,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L699"
+        "locator": "L700"
       }
     ]
   },
@@ -38043,7 +38933,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L835"
+        "locator": "L836"
       }
     ]
   },
@@ -38244,6 +39134,58 @@
     ]
   },
   {
+    "url": "https://www.westercom.eu/cs/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L275"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L287"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L293"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L299"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.westercom.eu/cs/37-produkty",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L279"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第3批.json",
+        "locator": "L305"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://www.westercom.eu/cs/kontakt",
     "http_checked": false,
     "occurrences": [
@@ -38383,7 +39325,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L656"
+        "locator": "L657"
       }
     ]
   },
