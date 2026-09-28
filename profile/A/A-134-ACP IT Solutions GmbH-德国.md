@@ -128,6 +128,22 @@ updated: 2026-09-28
   > Daniel-Vorländer-Straße 6, 06120 Halle (Saale) · Tel: +49 345 233040 · E-Mail: halle@acp.de · Ihre Ansprechpartner: Eric Meier（Prokurist）· Annemarie Plaschnik（stellv. Vertriebsleiterin）
   > 来源：https://www.acp-gruppe.com/standorte/halle
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：ACP 中德 125 人；公共/KRITIS 红线+私营窄段
+- **②芯片/型号**：全栈同盟
+- **③KP 深挖**：halle@+Meier/Plaschnik 具名
+- **④Saga 对标**：私营窄段 value 补位（边界句）
+- **⑤在乎与偏好**：数据主权文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Public Sector…KRITIS & Renewables…ISO 9001- & 27001-zertifizierten Rechenzentrum…Kunden sind mittelständische Unternehmen und Konzerne…sowie öffentliche Einrichtungen”
+  > “Public Sector…KRITIS & Renewables…ISO 9001- & 27001-zertifizierten Rechenzentrum…Kunden sind mittelständische Unternehmen und Konzerne…sowie öffentliche Einrichtungen”
+  > 来源：https://www.acp-gruppe.com/standorte/halle
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：背书
+- **W**：红线
+- **O**：窄段
+- **T**：同盟
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi ACP,
+Hi ACP Halle team,
 
-I came across ACP IT Solutions GmbH - 集成商/代理（Allied Telesis）.
+Your public-sector and KRITIS practices set a compliance bar we fully respect - this note concerns only your private mid-market engagements, and we will not touch your public or critical-infrastructure work, to be explicit.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with complete CE and supply-chain documentation. Reference: $165 USD EXW - a value line for mid-market access closets where the standard brands overshoot the budget.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your private-sector projects around Mitteldeutschland, which switch brand currently holds the PoE access slots?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

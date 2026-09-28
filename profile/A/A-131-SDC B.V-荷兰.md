@@ -126,6 +126,22 @@ updated: 2026-09-28
   > MikroTik 认证，持 MikroTik 培训伙伴（官方课程表在列）（CSV 既有记录）
   > 来源：https://sdc.nl/brands/MikroTik
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：30 年 ICT 分销（次日达+Academy）
+- **②芯片/型号**：Ubiquiti/Omada/MikroTik/Grandstream 在架；CSV 另载 Allied 信号
+- **③KP 深挖**：verkoop@
+- **④Saga 对标**：PoE 接入 value 位（不贬 MikroTik）
+- **⑤在乎与偏好**：交付+文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
+  > “Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
+  > 来源：https://sdc.nl/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：渠道
+- **W**：在架众
+- **O**：value
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -180,21 +196,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi SDC,
+Hi SDC team,
 
-I came across SDC B.V. - 集成商/顾问（MikroTik 认证）.
+Thirty-plus years, next-day delivery before 17:00, and a 24/7 support desk - the operational backbone installers count on.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line that gives your installer channel a healthier margin layer on routine PoE closets.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: in your Switches category today, is there an open slot for a documented value PoE access line?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full documentation pack for your evaluation bench. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

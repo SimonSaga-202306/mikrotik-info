@@ -268,6 +268,18 @@ OVERRIDE = {
  'A-128': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'UberData NaaS 订阅+refresh 采购池：入门档套餐 value 位（$165 锚点一致）'},
  'A-129': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'VARtek K-12 教育专属驻场托管：学区接入柜免回访（$165 锚点一致）'},
  'A-130': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Wire Technologies 30 年布线/DC/交换直通：直接对口接入层 value 位（$165 锚点一致）'},
+ # ── R56 批 14（A-131..A-140 深挖 2026-09-28）──
+ 'A-131': {'p1': 'STC-424DGGPM-280W',
+           'p1_reason': 'SDC.nl 荷兰 30 年 ICT 分销：PoE 交换 value 位上架（$165 锚点一致）；其自有 Academy 生态在册，不贬 MikroTik'},
+ 'A-132': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Nabacom 意 H24 值守全栈：布线/交换随单供货直接对口（$165 锚点一致）'},
+ 'A-133': {'p1': 'STC-424DGGPM-280W', 'p1_reason': '5G IT NRW：Allied 伙伴实版印证→第二供位 value 线（$165 锚点一致）'},
+ 'A-134': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ACP Halle 集团中德区：公共/KRITIS 红线不触，私营 mittelstand 窄段+边界句（$165 锚点一致）'},
+ 'A-135': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Acteos 法德 WMS SaaS：仓储 Wi-Fi 接入层随单（$165 锚点一致）'},
+ 'A-136': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'A+S 汉堡全谱安防：厂家中立维保文化下视频/门禁接入件（$165 锚点一致）；公共守界'},
+ 'A-137': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'ALCO 35 年系统屋：90 年代替代方案基因同频 value 件（$165 锚点一致）'},
+ 'A-138': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'AMRO 巴符 MSP：Terra Premium 主供下第二 value 线（$165 锚点一致）；ESET 铂金'},
+ 'A-139': {'p1': 'STC-28DGGPM', 'p1_reason': 'ARCHE 军工海事（海军/TKMS 潜艇链）：红线建档不出信（出口管制环境）'},
+ 'A-140': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Bachert 德 25 年全栈：网络 A-Z 随单接入层 value 位（$165 锚点一致）'},
 }
 
 out = {}
