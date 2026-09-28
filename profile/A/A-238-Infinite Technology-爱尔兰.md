@@ -58,7 +58,64 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第12批.json`。
+
+- **业务定位**：都柏林 29 年 MSP：Perle 授权分销（CSV 9-27 记录）；公立/医疗慈善客户面在列——划出经营商业段。
+- **产品线与在售品牌**：MSP 托管+云+网安+战略支持；SaaS 伙伴栈（MESH 邮滤/LastPass/Spanning 等首页 logo）。
+- **目标行业与场景**：爱尔兰中小企业托管；公立关联与医疗慈善客户段划出。
+- **团队与规模**：中型 MSP（24/7 支持口径）。
+- **决策链与对接人**：sales@infinitetechnology.ie **唯一启用**（info@ 的 mailto 实跳 help@、CSV 9-27 记录）。
+- **技术与认证**：Perle Systems 授权（CSV 9-27 记：工业 PoE 交换/媒体转换/串口联网）。
+- **采购与供应链信号**：Perle 类目与我方工业线部分重叠：只谈**高功率 PoE++/万兆上行/L2+ 管理**等类目缺位；MSP 自身客户项目的 24 口接入层是正路。
+- **近期动态与线索**：2026 版新站格调=正在强化获客，供应商评估窗口常规化。
+- **与我方契合点**：MSP 客户项目 24 口 PoE 接入层第二来源；户外/园区高功率 PoE++ 与 L2+ 管理件（Perle 价带旁位）。
+- **风险与注意**：公立客户（Fiscal Advisory Council 等）与医疗慈善段不经由我们；邮件只走 sales@。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**都柏林 1997 年 Irish-owned MSP：Managed Services/Cloud/Cybersecurity/Strategic Support，24/7 IT Support。
+  > Since 1997, Infinite Technology has proudly served as your local, Irish-owned IT Managed Services provider... delivers 24/7 IT Support, IT Services, Advanced Cloud Solutions, and Cybersecurity Services
+  > 来源：https://infinitetechnology.ie/
+- **【目标行业与场景】**客户墙含 **National Biodiversity Data Centre、Irish Fiscal Advisory Council（公立关联）与 John of God（医疗慈善）**——公立/医疗慈善客户面占显著位，对应项目段划出不涉。
+  > （客户墙）National Biodiversity Data Centre · Irish Fiscal Advisory Council · John of God
+  > 来源：https://infinitetechnology.ie/
+- **【团队与规模】**计数器：100 客户/月关 1000 工单（另有 50% retention 等动效口径不一致——只取「百家客户/千单」业务感，不引具体数字）。
+  > 100 Clients nationwide · 1000 Tickets closed last month
+  > 来源：https://infinitetechnology.ie/
+- **【决策链与对接人】**销售口 sales@ 优先（官网联系页文字与 mailto 一致）；info@ 文字但 mailto 实为 help@（CSV 9-27 记录）——只走 sales@。
+  > （CSV 2026-09-27 记录）官网联系页Sales显示文字与mailto一致；Enquiries显示info@但mailto为help@
+  > 来源：https://infinitetechnology.ie/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · MSP 接入层第二来源一页
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：给 MSP 客户项目的 24 口 PoE 接入层第二来源（供货连续性+保修），一封到位。
+- **要问的问题**：客户项目接入层目前有固定的第二来源位吗？
+- **随附证明**：一页报价+规格（英）+ 保修条款。
+
+### 第 2 次跟进 · Perle 类目旁位：高功率 PoE++/万兆上联
+
+- **推什么**：LT-S8328XGP-4XS24GT-S（万兆上联通配）
+- **切入点**：不碰 Perle 主类：提供 90W/口 PoE++ 与万兆上联通配位（其常见 SKU 之外的空档）。
+- **要问的问题**：高功率户外/园区 PoE 需求出现时通常配什么？
+- **随附证明**：PoE++ 规格页 + 对比表（英）。
+
+### 第 3 次跟进 · 备件池小批
+
+- **推什么**：LT-IS6310G-2GX8GT 等小批
+- **切入点**：MSP 项目备件池：8 口/收发器小批常备。
+- **要问的问题**：项目备件池走常备价吗？
+- **随附证明**：备件小批价卡。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +126,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +151,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

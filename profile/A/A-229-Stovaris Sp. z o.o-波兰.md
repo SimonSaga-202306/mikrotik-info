@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第12批.json`。
+
+- **业务定位**：华沙老牌 VAD：Allied Resell（CSV 记录）；网络/工业系统两个对口板块均在列。
+- **产品线与在售品牌**：品牌墙 TEKTELIC/Toshiba 存储/Tripp Lite-EATON/Vertiv/Xilinx/xp-pen/Actility/Advantech 等；网络板块供交换机/TAP/NPB。
+- **目标行业与场景**：分销伙伴网络+展会活跃；医疗影像板块在列——该板块划出不涉。
+- **团队与规模**：VAD 中型（自有工程师与培训体系）。
+- **决策链与对接人**：esklep@stovaris.pl（官方商城正文；CSV 9-27 记：商城客服箱、非采购口）→采购口需经总机/部门转接。
+- **技术与认证**：Allied Resell（CSV）。
+- **采购与供应链信号**：分销逻辑=品类互补报价：网络板块的 24 口 PoE 接入层与工业板块的宽温件两条线均可入。
+- **近期动态与线索**：2026-09 双展参展=上新与拓品类窗口期；月内 WiFi 排障科普文=网络品类在维护。
+- **与我方契合点**：网络板块接入层+VAD 上架提案；工业板块宽温件；TAP/NPB 旁位的高密度聚合件。
+- **风险与注意**：esklep@ 是商城客服勿当采购口；医疗影像板块不涉。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**90 年代起家的波兰价值分销（VAD）：从服务商长成经典 VAD，多合伙伙伴体系与培训。
+  > historia naszej firmy sięga lat 90. Od tego czasu z małego przedsiębiorstwa serwisowego... Stovaris stał się klasycznym dystrybutorem z wartością dodaną (VAD)
+  > 来源：https://stovaris.pl/
+- **【产品线与在售品牌】**专属「Sieci informatyczne 计算机网络」板块直写**交换机/无线/路由/防火墙/TAP/NPB**——有独立网络品类采买线。
+  > Ten zakres produktowy... obejmuje podstawowe urządzenia takie jak switch-e, systemy bezprzewodowe, routery, firewall-e oraz zaawansowane systemy bezpieczeństwa i rozwiązania typu TAP lub NPB.
+  > 来源：https://stovaris.pl/
+- **【近期动态与线索】**独立「Systemy przemysłowe i IoT 工业系统」板块（非标温湿度粉尘环境件）+ 2026-09 双展：Data Center Expo Poland 展台 B24 / Warsaw Medical Expo——活跃参展窗口。
+  > Systemy przemysłowe muszą być przystosowane do pracy w nietypowych środowiskach ‖ DATA CENTER Expo Poland 2026 — 22–24 września... stoisko B24 w Hali C
+  > 来源：https://stovaris.pl/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 网络板块 VAD 上架提案（24 口 PoE）
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：经总机/部门转接给网络品类采买：24 口 PoE 接入层的上架提案（分销条件+培训资料+阶梯回扣）。
+- **要问的问题**：网络板块的接入层/PoE 品类现在有开新供应商位吗？
+- **随附证明**：分销合作一页（波/英）+ 培训资料包。
+
+### 第 2 次跟进 · 工业系统板块宽温件
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光，宽温 DIN）
+- **切入点**：呼应其 Systemy przemysłowe i IoT 板块：宽温/防尘级非管理与收发器小件入目录。
+- **要问的问题**：工业板块目前宽温交换/收发器由谁供货？
+- **随附证明**：工业件一页 + CE/EMC（英/波）。
+
+### 第 3 次跟进 · TAP/NPB 旁位高密度件
+
+- **推什么**：LT-S8528XG-4XS24GT（24×千兆电 + 4×万兆 高密度 L2+/聚合）
+- **切入点**：与 TAP/NPB 品类互补的高密度聚合位（数据中心展语境呼应）。
+- **要问的问题**：机房聚合位有没有性价比型号需求？
+- **随附证明**：高密度一页价卡 + 展会后跟进备注。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

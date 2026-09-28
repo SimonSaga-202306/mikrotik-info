@@ -123,17 +123,25 @@ ENRICH_FILES = [
     "batch/A类加厚_2026-09-28_R54_第9批.json",
     "batch/A类加厚_2026-09-28_R54_第10批.json",
     "batch/A类加厚_2026-09-28_R54_第11批.json",
+    "batch/A类加厚_2026-09-28_R54_第12批.json",
 ]
 CN = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
 
 
+_SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+_REPO_ROOT = os.path.dirname(_SCRIPT_DIR)
+
+
 def load_enrichment():
-    """{档案编号: 加厚记录}；缺文件就当没有（保持历史输出）。"""
+    """{档案编号: 加厚记录}；缺文件就当没有（保持历史输出）。
+    先在当前工作目录找 batch/ 相对路径；找不到就回退到仓库根（脚本上一级）。
+    这样从隔离目录调用本脚本时（如测试）与正常根目录调用产出一致。"""
     out = {}
     for rel in ENRICH_FILES:
-        if not os.path.exists(rel):
+        path = rel if os.path.exists(rel) else os.path.join(_REPO_ROOT, rel)
+        if not os.path.exists(path):
             continue
-        for rec in json.load(open(rel, encoding="utf-8"))["records"]:
+        for rec in json.load(open(path, encoding="utf-8"))["records"]:
             if len(rec.get("followup_plan", [])) != 3:
                 raise SystemExit("❌ %s：%s 的跟进计划不是 3 步（用户要求最多 3 次）"
                                  % (rel, rec.get("code")))
