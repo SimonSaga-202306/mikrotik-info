@@ -162,6 +162,24 @@
     ]
   },
   {
+    "url": "http://hifi.ie/stockist/electromaster-ltd-dublin/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L591"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L605"
+      },
+      {
+        "path": "profile/A/A-088-Electromaster Limited-爱尔兰.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "http://krs.infoveriti.pl/Knt,Technology,Olsztyn,Udzialowcy,KRS,0000755293.html",
     "http_checked": false,
     "occurrences": [
@@ -1736,6 +1754,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-984/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://atec-security.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L348"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L356"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L362"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L368"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L374"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-085-ATEC Security Ltd-英国.md",
+        "locator": "L91"
       }
     ]
   },
@@ -4412,6 +4472,24 @@
     ]
   },
   {
+    "url": "https://efipo.pl/warszawa/microstar-sp-z-oo",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://ekanet.es/",
     "http_checked": false,
     "occurrences": [
@@ -4438,6 +4516,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-558/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://electromaster.ie/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L587"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L599"
+      },
+      {
+        "path": "profile/A/A-088-Electromaster Limited-爱尔兰.md",
+        "locator": "L82"
       }
     ]
   },
@@ -6594,6 +6690,40 @@
     ]
   },
   {
+    "url": "https://internetty.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1260"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1272"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1278"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1284"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
     "url": "https://interprojekt.pl",
     "http_checked": false,
     "occurrences": [
@@ -8382,6 +8512,40 @@
     ]
   },
   {
+    "url": "https://marksman-titan.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L887"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L895"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L901"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L907"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://marugged.com/",
     "http_checked": false,
     "occurrences": [
@@ -8902,6 +9066,38 @@
         "locator": "L1601"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L186"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L212"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L295"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L741"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L761"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1264"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1290"
+      },
+      {
         "path": "profile/A/A-004-Vitalii Potravka-乌克兰.md",
         "locator": "L87"
       },
@@ -9008,6 +9204,22 @@
       {
         "path": "profile/A/A-080-Carlos Cárdenas Cebrián-西班牙.md",
         "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-084-Amin Dashti-美国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
+        "locator": "L108"
+      },
+      {
+        "path": "profile/A/A-097-Benjamin Wragg-英国.md",
+        "locator": "L108"
       }
     ]
   },
@@ -13978,6 +14190,40 @@
     ]
   },
   {
+    "url": "https://mikrotikgyor.hu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L814"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L822"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L828"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L834"
+      },
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotikon.pl/",
     "http_checked": false,
     "occurrences": [
@@ -14688,6 +14934,42 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/presentations/US10/Brian.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1343"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1359"
+      },
+      {
+        "path": "profile/A/A-098-Brian Vargyas-美国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/US15/brian.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1347"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1365"
+      },
+      {
+        "path": "profile/A/A-098-Brian Vargyas-美国.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/presentations/US16/presentation_3327_1462279781.pdf",
     "http_checked": false,
     "occurrences": [
@@ -15216,6 +15498,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-111/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://networkology.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1497"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1505"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1511"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1517"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1523"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -22974,6 +23298,24 @@
     ]
   },
   {
+    "url": "https://www.atto.com/microstar-sp-z-o-o/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.atysco.hu",
     "http_checked": false,
     "occurrences": [
@@ -24812,6 +25154,24 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/baltic-networks",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1351"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1371"
+      },
+      {
+        "path": "profile/A/A-098-Brian Vargyas-美国.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/simnt",
     "http_checked": false,
     "occurrences": [
@@ -26446,6 +26806,32 @@
     ]
   },
   {
+    "url": "https://www.dside.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L737"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L749"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L755"
+      },
+      {
+        "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
     "url": "https://www.dssi.pt/pt/tecnologias/owncloud",
     "http_checked": false,
     "occurrences": [
@@ -27066,6 +27452,48 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L2721"
+      }
+    ]
+  },
+  {
+    "url": "https://www.equipages.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L427"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L435"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L441"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L447"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L453"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-086-EQUIPAGES-法国.md",
+        "locator": "L91"
       }
     ]
   },
@@ -28454,6 +28882,32 @@
     ]
   },
   {
+    "url": "https://www.fmsweb.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L178"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L194"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L200"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
     "url": "https://www.fmsweb.de/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -29552,6 +30006,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-301/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ibm.com/partnerplus/directory/company/4191",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L510"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L528"
+      },
+      {
+        "path": "profile/A/A-087-PEDAB-法国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -31496,6 +31968,24 @@
     ]
   },
   {
+    "url": "https://www.lastmilegear.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1177"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1189"
+      },
+      {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.leadernet.es/",
     "http_checked": false,
     "occurrences": [
@@ -33326,6 +33816,24 @@
     ]
   },
   {
+    "url": "https://www.microstar.com.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L97"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L113"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.microtechnology.net",
     "http_checked": false,
     "occurrences": [
@@ -33420,6 +33928,14 @@
         "locator": "反向信号名单!Q233"
       },
       {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L182"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L206"
+      },
+      {
         "path": "batch/B段复筛_2026-09-28_R53_第8批.json",
         "locator": "L29"
       },
@@ -33430,6 +33946,10 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L1406"
+      },
+      {
+        "path": "profile/A/A-083-FMS Internetservice GmbH-德国.md",
+        "locator": "L93"
       },
       {
         "path": "profile/A/A-479-FMS Internetservice（mikrotik-shop.de）-德国.md",
@@ -33596,6 +34116,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-759/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mikrotikinfo.com/about/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L265"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L277"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L283"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L289"
+      },
+      {
+        "path": "profile/A/A-084-Amin Dashti-美国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-084-Amin Dashti-美国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-084-Amin Dashti-美国.md",
+        "locator": "L95"
       }
     ]
   },
@@ -34196,6 +34750,40 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-508/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msi-works.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1424"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1432"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1438"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1444"
+      },
+      {
+        "path": "profile/A/A-099-MSI Works Ltd-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-099-MSI Works Ltd-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-099-MSI Works Ltd-英国.md",
+        "locator": "L98"
       }
     ]
   },
@@ -36114,6 +36702,42 @@
     ]
   },
   {
+    "url": "https://www.pedab.com/about-pedab/newsroom/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L514"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L534"
+      },
+      {
+        "path": "profile/A/A-087-PEDAB-法国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pedab.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L522"
+      },
+      {
+        "path": "profile/A/A-087-PEDAB-法国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.perle.com/howtobuy/distributors.aspx?countryname=Deutschland",
     "http_checked": false,
     "occurrences": [
@@ -36664,6 +37288,48 @@
     ]
   },
   {
+    "url": "https://www.profcon.se/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L18"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L26"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://www.proficomms.cz/",
     "http_checked": false,
     "occurrences": [
@@ -37100,6 +37766,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-537/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rowewireless.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1106"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1118"
+      },
+      {
+        "path": "profile/A/A-095-Rowe Networks-美国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -38386,6 +39070,48 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3428"
+      }
+    ]
+  },
+  {
+    "url": "https://www.switchshop.co.uk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L658"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L666"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L672"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L678"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L684"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-089-Switchshop Ltd-英国.md",
+        "locator": "L91"
       }
     ]
   },
@@ -40014,12 +40740,70 @@
     ]
   },
   {
+    "url": "https://www.watkins-security.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L960"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L968"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L974"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L980"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L986"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
     "url": "https://www.wavonline.com/",
     "http_checked": false,
     "occurrences": [
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q483"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1181"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1195"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1201"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1207"
       },
       {
         "path": "batch/B段复筛_2026-09-28_R53_第20批.json",
@@ -40032,6 +40816,18 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3457"
+      },
+      {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-096-Last Mile Gear-美国.md",
+        "locator": "L91"
       },
       {
         "path": "profile/A/A-546-WAV, Inc-美国.md",
@@ -40962,6 +41758,32 @@
     ]
   },
   {
+    "url": "https://www.yelp.com/biz/velocigroup-roskilde",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1039"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1047"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1053"
+      },
+      {
+        "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.young.hu",
     "http_checked": false,
     "occurrences": [
@@ -41220,6 +42042,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/rowe-networks/1132675586",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1110"
+      },
+      {
+        "path": "batch/A类加厚_2026-09-28_R54_第5批.json",
+        "locator": "L1124"
+      },
+      {
+        "path": "profile/A/A-095-Rowe Networks-美国.md",
+        "locator": "L85"
       }
     ]
   },
