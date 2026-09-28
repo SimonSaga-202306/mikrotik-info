@@ -125,6 +125,22 @@ updated: 2026-09-28
   > 🤖 KI im Unternehmen sicher und sinnvoll nutzen · 🇪🇺 Cyber Resilience Act: IT-Sicherheit wird zur Produktanforderung · 🛡️ Moderne Firewall statt Blackbox… Segmentierung · 🪟 Windows 10 ist aus dem Support
   > 来源：https://recos.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：慕尼黑全服务（WaaS 订阅+1973 根源）
+- **②芯片/型号**：未明示
+- **③KP 深挖**：kontakt@
+- **④Saga 对标**：订阅模型成本敏感 value 件
+- **⑤在乎与偏好**：成本+文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“IT als Service, nicht als Investition…WiFi as a Service…IT-Infrastrukturen, Netzwerke, Cloud- und Sicherheitslösungen…seit 1973（roots）”
+  > “IT als Service, nicht als Investition…WiFi as a Service…IT-Infrastrukturen, Netzwerke, Cloud- und Sicherheitslösungen…seit 1973（roots）”
+  > 来源：https://recos.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：订阅
+- **W**：成本
+- **O**：随单
+- **T**：在位
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi RECOS,
+Hi RECOS team,
 
-I came across RECOS SYSTEM SOLUTIONS GmbH - 集成商/代理（Allied Telesis）.
+“IT as a service, not an investment” - your WiFi-as-a-Service model makes every euro of device cost a monthly margin question.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit that protects precisely that monthly margin in your WaaS and network projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: which switch brand currently sits behind your WaaS and network infrastructures - and would a documented value alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

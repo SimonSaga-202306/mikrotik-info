@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Lieferung mess- sowie regelungstechnischer Komponenten… Entwicklung eigener Software für die Prozesssteuerung ‖ Yard Management — Selbstbedienterminals（图）· industrielle Fahrzeugwaagen
   > 来源：https://www.oas.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：工业流程商（MES/YMS/地磅）；能源水泥纸客墙
+- **②芯片/型号**：自研软硬件
+- **③KP 深挖**：info@
+- **④Saga 对标**：场站/产线厂房边缘加固件
+- **⑤在乎与偏好**：加固文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”
+  > “Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”
+  > 来源：https://www.oas.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：工业
+- **W**：严
+- **O**：rollout
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi OAS,
+Hi OAS team,
 
-I came across OAS AG - 集成商/代理（Allied Telesis）.
+From LEAG logistics yards to the Model Group's 625,000-tonne paper machine - your systems run where the environment is unforgiving, and the network behind every self-service terminal and MES line has to match.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a compact industrial fanless PoE+ switch (240W total, 6 kV surge, EFT/ESD hardened, -40 to +75°C) with full documentation for harsh sites. Reference: $319.90 USD EXW.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your yard-management and plant-rollout projects, which industrial switch brand carries the edge layer today - and would a documented alternative earn a bench test?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

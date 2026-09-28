@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Priva 官方伙伴定位页公开 Berlin 分支邮箱及 Egellsstraße 21 地址，匹配本账号（CSV 2026-09-27 记录）
   > 来源：https://www.priva.com/partnerfinder/pke-deutschland-gmbh-berlin
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：PKE 集团楼宇技术（九域+自研系统，柏林分部口）
+- **②芯片/型号**：自研 AVASYS 族
+- **③KP 深挖**：berlin@ 分部口
+- **④Saga 对标**：楼宇项目接入件（分部预算）
+- **⑤在乎与偏好**：集成文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“zukunftsfähige Technologien…Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation…Eigensysteme wie AVASYS, DHS-X oder acurade G5…Made by PKE”
+  > “zukunftsfähige Technologien…Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation…Eigensysteme wie AVASYS, DHS-X oder acurade G5…Made by PKE”
+  > 来源：https://www.pke-de.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：覆盖
+- **W**：路径
+- **O**：随单
+- **T**：自研
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi PKE,
+Hi PKE Berlin team,
 
-I came across PKE Deutschland GmbH – Niederlassung Berlin - 集成商/代理（Allied Telesis）.
+Across nine disciplines from security to building automation, with your own systems like AVASYS and acurade, PKE still positions itself manufacturer-independent - that openness is exactly the door I am knocking on.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, clean SNMP for mixed-vendor integrations) with full documentation. Reference: $165 USD EXW - a value unit for the network closets inside your Berlin-area building projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your Berlin branch's building-projects, which switch brand holds the PoE access layer today - and does your project budget sit with the branch or with Group procurement?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete integration documentation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

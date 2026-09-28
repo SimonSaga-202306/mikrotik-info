@@ -1,0 +1,906 @@
+{
+ "batch": 28,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-171",
+   "fact": "Nutz Elektrotechnik GmbH & Co. KG（德国 Ampfing,1978 年创，40+ 年）：**楼宇技术一体商**——电气工程/数据技术（Datentechnik)/安全技术/媒体技术/楼宇自动化/规划设计文档/维保，全国+欧洲项目；2026-06-01 起原 Nutz GmbH 分立为 GmbH & Co. KG；参考客户 **Goldman Sachs/Bender/GSK-Altezza/Sparkasse Erding/GfK Nürnberg/adesso München**=集团高安全标准级+酒店+私宅",
+   "inference": "“schnittstellenfreie Gebäudetechnik（无接口楼宇技术）”自述=其数据技术线直接做弱电网络层；Konzern 参考=规范文档级准入",
+   "hypothesis": "作为总包级楼宇技术商，随单接入件口径大；value 件在其私营酒店/商业项目段有实位",
+   "evidence_main": "https://nutz.com/",
+   "tech": "电气/数据/安全/楼自动化一体",
+   "hr": "1978 创；40+ 年",
+   "contact_found": "epost@nutz.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "巴伐利亚楼宇技术一体商（数据技术线直通）",
+    "产品线与在售品牌": "未明示（规范级）",
+    "目标行业与场景": "Konzern/酒店/金融/私宅",
+    "团队与规模": "中型全工种",
+    "决策链与对接人": "epost@ 口",
+    "技术与认证": "规范级",
+    "采购与供应链信号": "总包随单",
+    "近期动态与线索": "2026-06 GmbH&Co.KG 分立",
+    "与我方契合点": "楼宇数据技术线弱电随单件",
+    "风险与注意": "Konzern 规范门槛"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”",
+     "source": "https://nutz.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 数据技术一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其数据技术线的弱电接入柜 value 位",
+     "question": "Datentechnik 项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 总包规范",
+     "push": "CE/测试包",
+     "angle": "Konzern 项目的规范文档包",
+     "question": "供应商档案要求？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 项目滚动",
+     "push": "阶梯",
+     "angle": "全国+欧洲项目滚动",
+     "question": "年项目量",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1978 楼宇技术一体商（数据技术线直通+Konzern 参考）",
+     "②芯片/型号": "未明（规范级）",
+     "③KP 深挖": "epost@",
+     "④Saga 对标": "数据技术线弱电随单value 位",
+     "⑤在乎与偏好": "规范文档",
+     "⑥SWOT": "S 全工种粘 / W 规范门槛 / O 项目随单 / T 大牌"
+    },
+    "care": [
+     "规范文档"
+    ],
+    "swot": {
+     "S": "全工种",
+     "W": "门槛",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "业务块结构"
+   },
+   "unknowns": [
+    "现供",
+    "供应商档案",
+    "年项目量"
+   ],
+   "email": "Hi Nutz team,\n\n“Schnittstellenfreie Gebäudetechnik” since 1978, delivered for clients up to the highest security standards - Goldman Sachs infrastructure to hotel fit-outs. The Datentechnik layer behind that promise rides on access switches.\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete CE/test dossier, ready for your supplier files. Reference: $165 USD EXW - a value line for the data closets inside your projects.\n\nOne question: in your Datentechnik projects, which switch brand holds the PoE access layer today - and would a fully documented value alternative earn a place in your supplier review?\n\nIf useful, I can send one unit with the complete dossier. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your Datentechnik projects, which switch brand holds the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|楼宇技术一体|Datentechnik直通|Konzern规范",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-172",
+   "fact": "OAS AG（德国）：**称重技术先驱发家的工业流程方案商**——工厂建设（Anlagenbau)/生产控制（pronto MES)/剂量称重技术/车辆地磅/**Yard Management 场站管理**/散装与回收行业软件 emaxx；客户 **LEAG（能源巨头）/Model Group 纸业（欧洲前五产线 62.5 万吨）/SCHWENK 水泥/DAW SE/JSC/VPL Coatings**；IT-Lösungen 线并行",
+   "inference": "**工业现场层对口**：其 YMS 自助终端/MES 产线连接/场站网络的厂房边缘=加固场景；能源+水泥+造纸客户=环境苛刻",
+   "hypothesis": "国际 rollout 结构（Model 15 站/SCHWENK 国际）=项目随单网络件成规模",
+   "evidence_main": "https://www.oas.de/",
+   "tech": "工厂建设/MES/称重/场站管理",
+   "hr": "AG 结构中型",
+   "contact_found": "info@oas.de（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德国工业流程方案商（MES+场站管理）",
+    "产品线与在售品牌": "pronto/emaxx 自研软件+硬件",
+    "目标行业与场景": "能源/水泥/纸/漆/散装",
+    "团队与规模": "AG 中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "工业级",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "国际 rollout 常态",
+    "与我方契合点": "场站/产线厂房边缘加固",
+    "风险与注意": "工业规范门槛"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”",
+     "source": "https://www.oas.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 场站一页",
+     "push": "STI-288GP",
+     "angle": "YMS 自助终端/产线边的厂房边缘加固",
+     "question": "场站项目网络件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · rollout 量",
+     "push": "参考",
+     "angle": "Model/SCHWENK 级 rollout 的网络配套",
+     "question": "rollout 网络配套模式？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 评测",
+     "push": "DIN-rail/环网注记",
+     "angle": "其产线层评测窗",
+     "question": "评测计划",
+     "proof": "报告"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "工业流程商（MES/YMS/地磅）；能源水泥纸客墙",
+     "②芯片/型号": "自研软硬件",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "场站/产线厂房边缘加固件",
+     "⑤在乎与偏好": "加固文档",
+     "⑥SWOT": "S 工业深 / W 规范严 / O rollout / T 大牌"
+    },
+    "care": [
+     "加固文档"
+    ],
+    "swot": {
+     "S": "工业",
+     "W": "严",
+     "O": "rollout",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "网络件现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "业务块结构"
+   },
+   "unknowns": [
+    "网络件现供",
+    "rollout 模式",
+    "评测窗"
+   ],
+   "email": "Hi OAS team,\n\nFrom LEAG logistics yards to the Model Group's 625,000-tonne paper machine - your systems run where the environment is unforgiving, and the network behind every self-service terminal and MES line has to match.\n\nWe build a compact industrial fanless PoE+ switch (240W total, 6 kV surge, EFT/ESD hardened, -40 to +75°C) with full documentation for harsh sites. Reference: $319.90 USD EXW.\n\nOne question: in your yard-management and plant-rollout projects, which industrial switch brand carries the edge layer today - and would a documented alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your yard-management and plant-rollout projects, which industrial switch brand carries the edge layer today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|工业流程商|MES/场站|加固边缘",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-173",
+   "fact": "PHOENIX IT SOLUTIONS（德国，30+ 年）：微型 SMB 专精（1-50 工位/1-100 人）——**开源栈 Proxmox/Univention/EGroupware/Tine 2.0**+Kaspersky/Securepoint 安全；**STARFACE 认证伙伴**；客群自由职业/微型企业/手工业+**Kommunen/Schulen（公共段守界）**；“bezahlbar（可负担）”是三承诺之一",
+   "inference": "开源栈+可负担承诺=value 件文化极亲（成本敏感专业户）；STARFACE 同盟旁接入层开放",
+   "hypothesis": "“老知识烧掉重生”凤凰文化=对新方案技术好奇心强",
+   "evidence_main": "https://www.phoenix-itsolutions.de/",
+   "tech": "开源栈/STARFACE/安全",
+   "hr": "30+ 年微型 SMB",
+   "contact_found": "office@phoenix-itsolutions.de（CSV 具）；MX=mk.de 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Kommunen/Schulen 公共段守界",
+   "dims": {
+    "业务定位": "30 年微型 SMB 商（开源栈+可负担文化）",
+    "产品线与在售品牌": "STARFACE/Proxmox/UCS 生态",
+    "目标行业与场景": "微型企业/手工业（主打）+Kommunen（守界）",
+    "团队与规模": "小型",
+    "决策链与对接人": "office@ 口",
+    "技术与认证": "STARFACE 认证",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "开源栈成熟",
+    "与我方契合点": "可负担接入层 value 件（同款叙事）",
+    "风险与注意": "公共段守界"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“maßgeschneiderte, sichere, bezahlbare und DSGVO-konforme IT-Lösungen…Selbstständige, Unternehmen und Firmen von 1 bis circa 50 PC-Arbeitsplätzen…Kommunen, Schulen…zertifizierter STARFACE Partner”",
+     "source": "https://www.phoenix-itsolutions.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 可负担一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "“bezahlbar”承诺同语言接入件+公共边界句",
+     "question": "私营微型项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 开源互补",
+     "push": "开放管理维度",
+     "angle": "标准管理接口（SNMP/Web）不虚标",
+     "question": "管理接口需求？",
+     "proof": "文档"
+    },
+    {
+     "stage": "第 3 次跟进 · 样本滚动",
+     "push": "阶梯",
+     "angle": "样本→微型随单",
+     "question": "量确认",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "30 年微型 SMB（开源+可负担，公共守界）",
+     "②芯片/型号": "STARFACE/开源生态",
+     "③KP 深挖": "office@",
+     "④Saga 对标": "可负担 value 件同款叙事",
+     "⑤在乎与偏好": "诚实文档",
+     "⑥SWOT": "S 文化亲 / W 体量 / O 随单 / T 在位"
+    },
+    "care": [
+     "诚实文档"
+    ],
+    "swot": {
+     "S": "文化",
+     "W": "体量",
+     "O": "随单",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "主页三承诺"
+   },
+   "unknowns": [
+    "接入现供",
+    "STARFACE 随单率",
+    "量"
+   ],
+   "email": "Hi Phoenix team,\n\nThirty years serving one-to-fifty-seat businesses with solutions that are safe, affordable and GDPR-fit - \"bezahlbar\" is literally one of your three promises.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog, standard web/SNMP management - the kind of honest interface your open-stack culture appreciates). Reference: $165 USD EXW. (For clarity: this concerns your private-sector work only.)\n\nOne question: in your self-employed and small-business projects, which switch brand holds the access layer today - and would a documented affordable alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your self-employed and small-business projects, which switch brand holds the access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|微型SMB|开源栈|可负担文化",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-174",
+   "fact": "PKE Deutschland GmbH（PKE Gruppe，德奥捷波四国集团，柏林分部口）：**楼宇技术集团**——安全技术/通信技术/媒体技术/楼宇自动化/物流系统/Mobility Solutions/能源可持续管理/IT-Security 九域；**自研系统族 AVASYS®/DHS-X/acurade G5（“Made by PKE”制造商性）**；厂商中立集成",
+   "inference": "集团级楼宇技术商+自研报警/楼控系统=双通道：项目随单件+自研系统旁网络配套（厂商中立自述利好第三方件）",
+   "hypothesis": "“lokaler Dienstleister”定位=柏林分部有本地项目预算",
+   "evidence_main": "https://www.pke-de.com/",
+   "tech": "楼宇技术九域+自研系统",
+   "hr": "四国集团德国",
+   "contact_found": "berlin@pke-de.com（CSV 具=**柏林分部直口**）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "PKE 集团楼宇技术商（自研系统+厂商中立）",
+    "产品线与在售品牌": "AVASYS/DHS-X/acurade 自研",
+    "目标行业与场景": "楼宇/物流/能源全谱",
+    "团队与规模": "四国集团",
+    "决策链与对接人": "berlin@ 分部口",
+    "技术与认证": "自研级",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "acurade G5 新代",
+    "与我方契合点": "楼宇项目接入件+自研系统旁配套",
+    "风险与注意": "集团采购路径"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“zukunftsfähige Technologien…Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation…Eigensysteme wie AVASYS, DHS-X oder acurade G5…Made by PKE”",
+     "source": "https://www.pke-de.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 分部一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "柏林分部楼宇项目的接入件 value 位",
+     "question": "楼宇项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 厂商中立",
+     "push": "标准兼容",
+     "angle": "“厂商中立集成”自述+标准 SNMP 文档",
+     "question": "集成兼容需求？",
+     "proof": "文档"
+    },
+    {
+     "stage": "第 3 次跟进 · 集团路径",
+     "push": "vendor 路径",
+     "angle": "若集团集中采购→路径问询",
+     "question": "采购路径？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "PKE 集团楼宇技术（九域+自研系统，柏林分部口）",
+     "②芯片/型号": "自研 AVASYS 族",
+     "③KP 深挖": "berlin@ 分部口",
+     "④Saga 对标": "楼宇项目接入件（分部预算）",
+     "⑤在乎与偏好": "集成文档",
+     "⑥SWOT": "S 集团覆盖 / W 采购路径 / O 分部随单 / T 自研+大牌"
+    },
+    "care": [
+     "集成文档"
+    ],
+    "swot": {
+     "S": "覆盖",
+     "W": "路径",
+     "O": "随单",
+     "T": "自研"
+    },
+    "uncertain": {
+     "产品线核实": "现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "分部预算权未证"
+    },
+    "gap_proof": "集团页+分部口"
+   },
+   "unknowns": [
+    "分部预算权",
+    "接入现供",
+    "采购路径"
+   ],
+   "email": "Hi PKE Berlin team,\n\nAcross nine disciplines from security to building automation, with your own systems like AVASYS and acurade, PKE still positions itself manufacturer-independent - that openness is exactly the door I am knocking on.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, clean SNMP for mixed-vendor integrations) with full documentation. Reference: $165 USD EXW - a value unit for the network closets inside your Berlin-area building projects.\n\nOne question: in your Berlin branch's building-projects, which switch brand holds the PoE access layer today - and does your project budget sit with the branch or with Group procurement?\n\nIf useful, I can send one unit with the complete integration documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your Berlin branch's projects, which switch brand holds the PoE access layer - and is the budget local or Group-level?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|PKE集团楼宇|自研系统|分部窄位",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-175",
+   "fact": "prego services GmbH（德国，**能源市场服务商 25+ 年**）：流程咨询/IT 解决方案/**SAP（咨询到运营）/Data&Analytics/BPO（薪资外包/材料物流）**；客户墙几乎全是 **Stadtwerke 群**（Saarbrücken/Heidelberg/Bad Nauheim/Kreuznach/St. Wendel/Am See）+区县/医疗商会；13+ 员工精益专深",
+   "inference": "**结构性公共客群（EVU/Stadtwerke=集体市立资本）**：其交付进来的方案件在公共采购规范光照内——纪律只谈 prego 自身企业 IT 与私营侧面，明示不碰其 Stadtwerke 交付线",
+   "hypothesis": "13 人精益+SAP 级专业=其自身内部 infra 小量无需大谈，窄位低优先客观",
+   "evidence_main": "https://prego-services.de/",
+   "tech": "SAP/BPO/IT 托管（能源领域）",
+   "hr": "13+ 人精益；25+ 年",
+   "contact_found": "info@prego-services.de（CSV 具）；MX=自建 rhino/polarbear 双机存活（冗余自建邮件系统=技术型自我托管）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Stadtwerke 交付线=公共采购规范不碰；只谈 prego 自身 IT 侧窄位",
+   "dims": {
+    "业务定位": "能源 BPO 专家（Stadtwerke 客墙——公共本性）",
+    "产品线与在售品牌": "SAP 体系",
+    "目标行业与场景": "EVU/Stadtwerke（守界）",
+    "团队与规模": "13+ 精益",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "SAP 级",
+    "采购与供应链信号": "其自身 IT 小量",
+    "近期动态与线索": "能源转型内容线",
+    "与我方契合点": "prego 自身 IT 窄位（低优先）",
+    "风险与注意": "公共客群结构"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“der Energiemarktdienstleister für Prozess-, System und Digitalisierungslösungen…[referenz logos:] Stadtwerke Saarbrücken, Stadtwerke Heidelberg…Seit über 25 Jahren Partner der Energiewirtschaft”",
+     "source": "https://prego-services.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 自身 IT 一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "prego 自身办公/实验室 IT 的 value 件+Stadtwerke 交付线边界句",
+     "question": "内部 IT 接入件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 降级",
+     "push": "—",
+     "angle": "若其自身 IT 已坐拥大牌——留档",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "低优先档案",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "能源 BPO 专家（Stadtwerke 客墙全谱）；自身 IT 窄位",
+     "②芯片/型号": "SAP 生态",
+     "③KP 深挖": "info@；自建双 MX（技术自托）",
+     "④Saga 对标": "prego 自身 IT value 件（窄位低优先，公共交付线守界）",
+     "⑤在乎与偏好": "SAP 级文档",
+     "⑥SWOT": "S 专深 / W 体量极小+公共结构 / O 自身件 / T 大牌占据"
+    },
+    "care": [
+     "文档"
+    ],
+    "swot": {
+     "S": "专",
+     "W": "小+公共",
+     "O": "自身",
+     "T": "占据"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "公共结构（F: 客户墙）"
+    },
+    "gap_proof": "客户墙 logo"
+   },
+   "unknowns": [
+    "自身 IT 现状",
+    "私营侧面"
+   ],
+   "email": "Hi prego team,\n\nTwenty-five years deep in the energy market - Microsoft to SAP, process consulting to payroll BPO, for a customer list of Stadtwerke that speaks for itself. (To be explicit: this note concerns prego's own corporate IT only - your Stadtwerke delivery lines are fully out of scope here.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for your own office and lab infrastructure, nothing more ambitious.\n\nOne question: what currently powers the access layer of prego's own internal IT - and would a documented value alternative be worth a look for your own rack?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "What currently powers the access layer of prego's own internal IT?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|能源BPO专家|Stadtwerke客墙|自身IT窄位",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-176",
+   "fact": "Prinzing Elektrotechnik GmbH（德国 Eislingen，斯瓦比亚，30+ 年创于 Volker Prinzing）：**600+ 员工/80 培训生/€80M（2024）的电气技术巨头中型**——电气技术+楼宇技术（Erlangen）+eTech Schaltanlagenbau 控制柜厂（Gotha）；全国（Aalen/Eislingen/Frankfurt/Erlangen）；双掌门 **Volker Prinzing（创始人）+Yasin Erdogan（2017 起掌门）具名**；WAGO 伙伴（Building Security Talk 2026）",
+   "inference": "600 人电气承包级+控制柜厂+Azubi 体系=项目随单件大口径；双掌门具名+活跃公众感=决策人直触",
+   "hypothesis": "其 Building Security Talk 2026（WAGO 同台）=主动生态姿态，厂商关系窗口开",
+   "evidence_main": "https://www.prinzing-elektro.de/",
+   "tech": "电气技术/楼宇技术/控制柜",
+   "hr": "600+ 人；€80M；双掌门具名",
+   "contact_found": "info@prinzing-elektro.de（CSV 具）；MX=Hornetsecurity 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "斯瓦比亚 600 人电气承包巨头（全国+控制柜厂）",
+    "产品线与在售品牌": "WAGO 伙伴同台",
+    "目标行业与场景": "楼宇/工商项目全谱",
+    "团队与规模": "600+/€80M",
+    "决策链与对接人": "Volker Prinzing+Yasin Erdogan 具名",
+    "技术与认证": "师傅级体系",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "Building Security Talk 2026",
+    "与我方契合点": "楼宇项目弱电接入随单（量大）",
+    "风险与注意": "规模级供应商准入门槛"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“über 600 Mitarbeitern einen sicheren und zukunftsorientierten Arbeitsplatz…zu den führenden Spezialisten in der Elektrotechnik…Volker Prinzing und Yasin Erdogan…bilden eine schlagkräftige Doppelspitze”",
+     "source": "https://www.prinzing-elektro.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 双掌门一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "600 人项目体系的弱电接入随单件",
+     "question": "楼宇项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 控制柜配套",
+     "push": "机柜/结构",
+     "angle": "eTech 控制柜厂旁的网络机柜配套",
+     "question": "柜体配套需求？",
+     "proof": "结构说明"
+    },
+    {
+     "stage": "第 3 次跟进 · Building Talk 生态",
+     "push": "生态开放问询",
+     "angle": "其安全 Talk 生态的组件开放度",
+     "question": "新组件准入窗口？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "600 人电气承包巨头（双掌门具名+控制柜厂）",
+     "②芯片/型号": "WAGO 生态同台",
+     "③KP 深挖": "Volker Prinzing/Yasin Erdogan 具名",
+     "④Saga 对标": "项目随单弱电接入件",
+     "⑤在乎与偏好": "生态开放",
+     "⑥SWOT": "S 量大 / W 准入门 / O 生态窗 / T 大牌"
+    },
+    "care": [
+     "准入文档"
+    ],
+    "swot": {
+     "S": "量",
+     "W": "门",
+     "O": "生态",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "公司页数字化"
+   },
+   "unknowns": [
+    "接入现供",
+    "准入路径",
+    "柜配套"
+   ],
+   "email": "Hi Mr. Prinzing and Mr. Erdogan,\n\n600 people plus 80 apprentices growing into the trade, a controls factory in Gotha, and nationwide projects from Swabia to Frankfurt - the data closets behind your building projects are a volume channel.\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete test dossier. Reference: $165 USD EXW - a value unit for the access layer your teams pull into buildings every week.\n\nOne question: across Prinzing's building projects, which switch brand holds the PoE access layer today - and is there room for a documented value alternative in your supplier structure?\n\nIf useful, I can send one unit with the complete dossier for your evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Across Prinzing's building projects, which switch brand holds the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|600人电气承包|双掌门具名|项目随单",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-177",
+   "fact": "RECOS SYSTEM SOLUTIONS GmbH（德国慕尼黑，2013 年创，**Dr. Richtmann & Eder AG 子公司，根源 1973**）：全服务 IT——服务器存储/客户端/**网络（Netzwerke)/WLAN**/顾问/销售/支持；**WiFi-as-a-Service 订阅模型**；新闻线 KI/CRA（Cyber Resilience Act)/Win10 EOL 迁移+防火墙现代化（“transparency not blackbox”叙事）",
+   "inference": "**X-as-a-Service 模型**=硬件月度化承诺=单件成本极敏感（$165 锚点对口）；CRA 话题线=其审查合规意识新",
+   "hypothesis": "“Komplexe IT. Einfach gelöst.”口号=客户 SMB 深",
+   "evidence_main": "https://recos.de/",
+   "tech": "全服务 IT+WaaS 订阅",
+   "hr": "2013 创；AG 体系",
+   "contact_found": "kontakt@recos.de（CSV 具）；MX=sv6.recos.net 自建存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "慕尼黑全服务 IT（WaaS 订阅模型）",
+    "产品线与在售品牌": "未明示",
+    "目标行业与场景": "慕尼黑区域企业",
+    "团队与规模": "中型 AG 子",
+    "决策链与对接人": "kontakt@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "订阅型随单",
+    "近期动态与线索": "CRA/防火墙内容线",
+    "与我方契合点": "WaaS/网络线随单 value 件（成本敏感）",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“IT als Service, nicht als Investition…WiFi as a Service…IT-Infrastrukturen, Netzwerke, Cloud- und Sicherheitslösungen…seit 1973（roots）”",
+     "source": "https://recos.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 订阅一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "WaaS/网络线的成本敏感随单件",
+     "question": "WaaS/网络线接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 防火墙现代化",
+     "push": "分段/看门狗",
+     "angle": "其“防火墙透明化”话题的 L2/L3 配套",
+     "question": "网络现代化需求？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 样本滚动",
+     "push": "阶梯",
+     "angle": "订阅型滚动",
+     "question": "季度量",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "慕尼黑全服务（WaaS 订阅+1973 根源）",
+     "②芯片/型号": "未明示",
+     "③KP 深挖": "kontakt@",
+     "④Saga 对标": "订阅模型成本敏感 value 件",
+     "⑤在乎与偏好": "成本+文档",
+     "⑥SWOT": "S 订阅黏 / W 成本敏 / O 随单 / T 在位"
+    },
+    "care": [
+     "成本模型"
+    ],
+    "swot": {
+     "S": "订阅",
+     "W": "成本",
+     "O": "随单",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "WaaS 页"
+   },
+   "unknowns": [
+    "现供",
+    "季度量",
+    "CRA 影响"
+   ],
+   "email": "Hi RECOS team,\n\n“IT as a service, not an investment” - your WiFi-as-a-Service model makes every euro of device cost a monthly margin question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit that protects precisely that monthly margin in your WaaS and network projects.\n\nOne question: which switch brand currently sits behind your WaaS and network infrastructures - and would a documented value alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which switch brand currently sits behind your WaaS and network infrastructures?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|慕尼黑全服务|WaaS订阅|成本敏感",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-178",
+   "fact": "Selos Informationssysteme GmbH（德国 Wilhelmshaven 威廉港）：区域 SMB IT——伙伴墙 **1&1/Auerswald（Advanced Partner）/Dell/Kaspersky/IONOS（官方伙伴）**；页面后台图片主题 explicit 含 ethernet/switch 元素",
+   "inference": "Auerswald 高级伙伴=德国深 SMB 通信同盟（PBX 厂）+1&1/IONOS 双通道=托管 ISP 生态；深 SMB 随单 value 件自然",
+   "hypothesis": "威廉港港口/海事经济区域=本地企业特色客群",
+   "evidence_main": "https://www.selos.de/",
+   "tech": "SMB IT（通信同盟深）",
+   "hr": "威廉港区域",
+   "contact_found": "kontakt@selos.de（CSV 具）；MX=自建 mail 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "威廉港深 SMB IT（Auerswald/1&1 同盟）",
+    "产品线与在售品牌": "Auerswald/Dell/Kaspersky",
+    "目标行业与场景": "深 SMB",
+    "团队与规模": "小型",
+    "决策链与对接人": "kontakt@ 口",
+    "技术与认证": "伙伴级",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "—",
+    "与我方契合点": "深 SMB 随单 value 件",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“[partner wall:] 1und1, Auerswald Advanced Partner, Dell, Kaspersky, IONOS Offizieller Partner”",
+     "source": "https://www.selos.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 同盟一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Auerswald/1&1 生态旁的接入层 value 件",
+     "question": "深 SMB 项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 区域特色",
+     "push": "海事/港口注记",
+     "angle": "威廉港区域场景",
+     "question": "区域场景需求？",
+     "proof": "注记"
+    },
+    {
+     "stage": "第 3 次跟进 · 样本滚动",
+     "push": "阶梯",
+     "angle": "样本→随单",
+     "question": "量确认",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "威廉港深 SMB（Auerswald 高级伙伴+1&1/IONOS）",
+     "②芯片/型号": "Auerswald/Dell",
+     "③KP 深挖": "kontakt@",
+     "④Saga 对标": "深 SMB 随单 value 件",
+     "⑤在乎与偏好": "伙伴级文档",
+     "⑥SWOT": "S 同盟稳 / W 体量小 / O 随单 / T 大牌"
+    },
+    "care": [
+     "文档"
+    ],
+    "swot": {
+     "S": "同盟",
+     "W": "体量",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "网络件现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "伙伴墙"
+   },
+   "unknowns": [
+    "接入现供",
+    "1&1 通道关系",
+    "量"
+   ],
+   "email": "Hi Selos team,\n\nAn Auerswald Advanced Partner serving Wilhelmshaven's local businesses - deep-SMB communication systems, configured and cared for.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN - the feature your Auerswald telephony customers actually use) with full documentation. Reference: $165 USD EXW.\n\nOne question: in your deep-SMB installations, which switch brand carries the PoE voice and network layer today - and would a documented value alternative earn a bench test beside your Auerswald line?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your deep-SMB installations, which switch brand carries the PoE voice and network layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|威廉港深SMB|Auerswald同盟|随单件",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-179",
+   "fact": "Sittig Technologies GmbH（德国法兰克福，1987 创，40+ 人家族，四点法兰克福/慕尼黑/**芝加哥**/Vrable 斯洛伐克）：**机场/铁路自动广播系统商**——PAXGuide 多语种自动播报（149 语言）+Audio Management Platform+**PAXModular 自研硬件**（IP 寻呼站/智能音频接口）；**法兰克福机场全球首个 Auracast 广播（2026-01 发布）**；**JFK Terminal 6 签约（2026-08 新闻）**；利物浦机场+Bosch Praesideo 集成共计 500+ 项目",
+   "inference": "**航空广播 + 自研 IP audio 硬件商=项目随单件+自研集成件客户**；JFK T6 与法兰克福 Auracast=项目滚动活跃窗",
+   "hypothesis": "其 IP paging stations 自研硬件线需射频/PoE 集成配套；300 台级机场项目随单接入件",
+   "evidence_main": "https://www.sittig-tech.com/",
+   "tech": "机场自动广播+IP audio 硬件",
+   "hr": "40+ 四点位 500+ 项目",
+   "contact_found": "info@sittig.de（CSV 具；CSV 网站域 sittig-tech.com MX O365，邮箱域 sittig.de exchange 自建——双域均存活（MX/DNS 级核验：域存活=邮件可投递到域））",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德全球航空广播商（自研 IP audio 硬件）",
+    "产品线与在售品牌": "PAXGuide/PAXModular 自研",
+    "目标行业与场景": "机场/铁路/展会/工业/应急",
+    "团队与规模": "40+，四点跨欧美",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "机场级",
+    "采购与供应链信号": "项目随单+自研集成",
+    "近期动态与线索": "JFK T6 签约+法兰克福 Auracast",
+    "与我方契合点": "IP audio 集成的接入层配套+机场项目随单",
+    "风险与注意": "机场级规范门槛"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“PAXModular offers a range of specialized hardware components…IP-based paging stations to intelligent audio interfaces…JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide…Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast”",
+     "source": "https://www.sittig-tech.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · JFK/Auracast 贺电一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其 PAXModular IP 音频的 PoE 接入配套+两大项目窗口",
+     "question": "PAXModular 部署的接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 集成配套",
+     "push": "PoE 供电精度",
+     "angle": "IP paging 站的供电规范匹配",
+     "question": "供电规范需求？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 国际滚动",
+     "push": "参考",
+     "angle": "法兰克福/芝加哥/斯洛伐克四点滚动",
+     "question": "项目管线",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "航空广播全球商（自研硬件+500 项目）；JFK T6+Auracast 新签",
+     "②芯片/型号": "PAXModular 自研",
+     "③KP 深挖": "info@+四点",
+     "④Saga 对标": "IP audio 集成接入配套（大项目随单）",
+     "⑤在乎与偏好": "机场级可靠文档",
+     "⑥SWOT": "S 全球滚动活跃 / W 规范门槛 / O 双事件窗 / T Bosch 等大牌随商"
+    },
+    "care": [
+     "可靠文档"
+    ],
+    "swot": {
+     "S": "滚动",
+     "W": "门槛",
+     "O": "事件",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "网络件现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "PAXModular 页+新闻"
+   },
+   "unknowns": [
+    "接入现供",
+    "JFK 项目量",
+    "硬件集成模式"
+   ],
+   "email": "Hi Sittig team,\n\nCongratulations on the JFK Terminal 6 award and on Frankfurt becoming the world's first Auracast airport - your PAXGuide platform is clearly setting the tempo in public announcements.\n\nBehind every IP paging station and intelligent audio interface lies a dependable PoE access layer. We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with airport-grade documentation. Reference: $165 USD EXW.\n\nOne question: in PAXModular deployments - which switch brand powers the PoE endpoints today - and would a documented value alternative earn a bench test in your Frankfurt lab?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In PAXModular deployments, which switch brand powers the PoE endpoints today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|航空广播商|JFK T6新签|IP audio配套",
+   "batch": 28,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-180",
+   "fact": "TELCAT MULTICOM GmbH（总部德国，Halberstadt 根基，全国多站）：**德国最大 ITK 系统屋集团之一**——安全基础设施全线：IT 安全/安全网络/**视频监控分析/门禁/消防报警/无人机防御**+Charging Stations；项目参考 **Holiday Inn Express Wiesbaden（12 工种总包）/Buff Medical Resort 消防/SCHAUMWERK 洗车设施/**Helmstedt 小学 WLAN（Lancom 伙伴——Digitalpakt Schule 公共）**",
+   "inference": "集团级 ITK+安全承包：私营段（酒店/洗车/医疗度假村）=项目随单窄位；**学校段=Digitalpakt 公共红线守界明示不碰**",
+   "hypothesis": "其酒店类工程总包线（12 工种）=弱电件成规模随单",
+   "evidence_main": "https://www.telcat.de/",
+   "tech": "ITK+安全全工种（总包级）",
+   "hr": "全国多站集团",
+   "contact_found": "info@telcat.de（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Digitalpakt 学校段=公共红线守界；私营段（酒店/商业）主打",
+   "dims": {
+    "业务定位": "德国大型 ITK 集团（安全+弱电总包）",
+    "产品线与在售品牌": "Lancom 及大牌",
+    "目标行业与场景": "酒店/商业（主）+学校（Publicpakt 守界）",
+    "团队与规模": "集团级",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "工程级",
+    "采购与供应链信号": "总包随单",
+    "近期动态与线索": "无人机防御/Charging 新线",
+    "与我方契合点": "私营工程随单 value 位",
+    "风险与注意": "学校公共段守界"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“TELCAT Unternehmensgruppe zählt zu den größten ITK-Systemhäusern Deutschlands…Holiday Inn Express…12 Gewerke…Neues WLAN für Helmstedts Grundschulen…Digitalpakt Schule”",
+     "source": "https://www.telcat.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 私营工程一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "酒店/商业工程的弱电随单 value 位+Digitalpakt 边界句",
+     "question": "私营工程接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 总包维度",
+     "push": "机柜/配套",
+     "angle": "12 工种总包的网络机柜配套",
+     "question": "配套模式？",
+     "proof": "结构说明"
+    },
+    {
+     "stage": "第 3 次跟进 · 集团路径",
+     "push": "vendor 路径",
+     "angle": "集团级供应商准入问询",
+     "question": "准入路径？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "大型 ITK 集团（酒店随单为主，Digitalpakt 守界）",
+     "②芯片/型号": "Lancom 等",
+     "③KP 深挖": "info@+全国站点",
+     "④Saga 对标": "私营工程随单 value 位（学校红线守界）",
+     "⑤在乎与偏好": "工程级文档",
+     "⑥SWOT": "S 总包量 / W 公共墙 / O 私营随单 / T 大牌"
+    },
+    "care": [
+     "工程文档"
+    ],
+    "swot": {
+     "S": "总包",
+     "W": "墙",
+     "O": "私营",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "现供未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "项目页结构"
+   },
+   "unknowns": [
+    "现供",
+    "准入路径",
+    "总包模式"
+   ],
+   "email": "Hi TELCAT team,\n\nFrom a 12-trade general-contracting build for Holiday Inn Express to fire-alarm systems for medical resorts - your private-sector engineering projects run on network closets that never make the brochure but never get to fail either. (For clarity: your Digitalpakt school work stays fully out of scope here; this concerns your commercial engineering projects only.)\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete engineering dossier. Reference: $165 USD EXW.\n\nOne question: in your commercial engineering projects - hotels, facilities, security builds - which switch brand holds the PoE access layer today, and does supplier onboarding run through individual branches or Group procurement?\n\nIf useful, I can send one unit with the complete dossier. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your commercial engineering projects, which switch brand holds the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|大型ITK集团|酒店工程随单|Digitalpakt守界",
+   "batch": 28,
+   "date": "2026-09-28"
+  }
+ ]
+}

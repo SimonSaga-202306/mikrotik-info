@@ -313,6 +313,17 @@ OVERRIDE = {
  'A-168': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'N+P 萨克森 200 人：工厂/楼宇接入层（$165 锚点一致）；Hertwig 具名'},
  'A-169': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Netz16 accompio 集团过渡期：本地随单+集团准入双路（$165 锚点一致）'},
  'A-170': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'NiTo 电商商：Allied 独牌实版旁 value 上架位（$165 锚点一致）；einkauf@ 采购口'},
+ # ── R56 批 18（A-171..A-180 深挖 2026-09-28）──
+ 'A-171': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Nutz 1978 楼宇技术一体商：Datentechnik 线弱电随单（$165 锚点一致）；Konzern 规范'},
+ 'A-172': {'p1': 'STI-288GP', 'p1_reason': 'OAS 工业流程商：MES/YMS 场站边缘加固（$319.90 锚点一致）；LEAG/Model 客墙'},
+ 'A-173': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Phoenix 微型 SMB：开源栈可负担同款叙事（$165 锚点一致）；公共守界'},
+ 'A-174': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'PKE 集团楼宇技术：柏林分部项目窄位（$165 锚点一致）；厂商中立自述'},
+ 'A-175': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'prego 能源 BPO 专家：自身 IT 窄位低优先（$165 锚点一致）；Stadtwerke 交付线守界'},
+ 'A-176': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Prinzing 600 人电气承包：项目弱电随单（$165 锚点一致）；双掌门具名'},
+ 'A-177': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'RECOS 慕尼黑：WaaS 订阅模型成本敏感随单（$165 锚点一致）'},
+ 'A-178': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Selos 威廉港深 SMB：Auerswald/1&1 同盟随单（$165 锚点一致）'},
+ 'A-179': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Sittig 航空广播商：JFK T6+Auracast 双事件窗，IP audio 配套（$165 锚点一致）'},
+ 'A-180': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'TELCAT 大型 ITK 集团：私营工程随单（$165 锚点一致）；Digitalpakt 学校守界'},
 }
 
 out = {}

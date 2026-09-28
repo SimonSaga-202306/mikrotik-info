@@ -128,6 +128,22 @@ updated: 2026-09-28
   > Sparkasse Erding — Elektrotechnik, Sicherheitssysteme, Netzwerktechnik und Gebäudeautomation（参考项目栏）
   > 来源：https://nutz.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：1978 楼宇技术一体商（数据技术线直通+Konzern 参考）
+- **②芯片/型号**：未明（规范级）
+- **③KP 深挖**：epost@
+- **④Saga 对标**：数据技术线弱电随单value 位
+- **⑤在乎与偏好**：规范文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
+  > “Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
+  > 来源：https://nutz.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：全工种
+- **W**：门槛
+- **O**：随单
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Nutz,
+Hi Nutz team,
 
-I came across Nutz GmbH - 集成商/代理（Allied Telesis）.
+“Schnittstellenfreie Gebäudetechnik” since 1978, delivered for clients up to the highest security standards - Goldman Sachs infrastructure to hotel fit-outs. The Datentechnik layer behind that promise rides on access switches.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete CE/test dossier, ready for your supplier files. Reference: $165 USD EXW - a value line for the data closets inside your projects.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your Datentechnik projects, which switch brand holds the PoE access layer today - and would a fully documented value alternative earn a place in your supplier review?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete dossier. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

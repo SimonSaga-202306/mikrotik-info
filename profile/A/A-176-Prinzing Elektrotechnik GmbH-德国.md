@@ -128,6 +128,22 @@ updated: 2026-09-28
   > 官网 Frankfurt 页公开此地址；不混用同集团 Automation 法人邮箱（CSV 2026-09-27 记录）
   > 来源：https://www.prinzing-elektro.de/frankfurt/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：600 人电气承包巨头（双掌门具名+控制柜厂）
+- **②芯片/型号**：WAGO 生态同台
+- **③KP 深挖**：Volker Prinzing/Yasin Erdogan 具名
+- **④Saga 对标**：项目随单弱电接入件
+- **⑤在乎与偏好**：生态开放
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“über 600 Mitarbeitern einen sicheren und zukunftsorientierten Arbeitsplatz…zu den führenden Spezialisten in der Elektrotechnik…Volker Prinzing und Yasin Erdogan…bilden eine schlagkräftige Doppelspitze”
+  > “über 600 Mitarbeitern einen sicheren und zukunftsorientierten Arbeitsplatz…zu den führenden Spezialisten in der Elektrotechnik…Volker Prinzing und Yasin Erdogan…bilden eine schlagkräftige Doppelspitze”
+  > 来源：https://www.prinzing-elektro.de/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；人工指定
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：量
+- **W**：门
+- **O**：生态
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -178,21 +194,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Prinzing,
+Hi Mr. Prinzing and Mr. Erdogan,
 
-I came across Prinzing Elektrotechnik GmbH - 集成商/代理（Allied Telesis）.
+600 people plus 80 apprentices growing into the trade, a controls factory in Gotha, and nationwide projects from Swabia to Frankfurt - the data closets behind your building projects are a volume channel.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete test dossier. Reference: $165 USD EXW - a value unit for the access layer your teams pull into buildings every week.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: across Prinzing's building projects, which switch brand holds the PoE access layer today - and is there room for a documented value alternative in your supplier structure?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete dossier for your evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
