@@ -1,0 +1,194 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第16批（IE/EE/SE/CH 行）。判据同前。",
+ "records": [
+  {
+   "code": "B-283",
+   "decision": "hold-B",
+   "site": "gcntech.ie",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛16】官网核对：gCn Tech Limited（爱尔兰都柏林）为小型 PC/IT 零售兼装机店（自建 PC、内存/CPU/硬盘、线材、CCTV、Ajax、蓝牙设备、笔记本配件等，全站分类未见网络交换机类目），首页仅以 Ubiquiti 批量折扣＋个人联系（Greg, greg@gcntech.ie）作网络卖点 → PC 零售、网络属附带，维持B。",
+   "quote": "gCn Tech limited — All items on our website are in stock in Dublin；We can do up to 10% discount on Ubiquiti product compared to their retail store for larger orders；Ring Greg on 087 7682964 if you’re stuck ! greg@gcntech.ie；Shop 类目：Ajax (55)／Bluetooth Devices／Cable Networking (9595)／Cables/Splitters／CCTV (35)／Computer Accessories (82)／Computer Components (254)",
+   "sources": [
+    [
+     1,
+     "https://gcntech.ie/"
+    ],
+    [
+     2,
+     "https://gcntech.ie/shop-2/"
+    ]
+   ]
+  },
+  {
+   "code": "B-285",
+   "decision": "hold-B",
+   "site": "elko.ee",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛16】官网核对：ELKO Eesti OÜ 自述 **«IT ja tarbeelektroonika toodete ja lahenduste edasimüüja»**（IT 与消费电子批发分销商），规模 **40 000 toodet / 10 000 klienti / 400 tootjat**，主营 IT 整机与消费电子 → 宽线大型分销商，维持B。",
+   "quote": "ELKO Eesti — IT ja tarbeelektroonika toodete ja lahenduste edasimüüja；Spetsialiseerumisvaldkonnad: IT（komponendid, lauaarvutid, sülearvutid, nutitelefonid…hulgimüük）／Tarbeelektroonika／Lahendus；Hard facts: 40 000 Toodet, 10 000 Klienti, 400 Tootjat",
+   "sources": [
+    [
+     1,
+     "https://www.elko.ee/"
+    ]
+   ]
+  },
+  {
+   "code": "B-287",
+   "decision": "promote",
+   "site": "kernel.ee",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛16】官网核对：Kernel AS（爱沙尼亚）自述 **«Raadioühendused, Mikrotik tooted, Internet, Arvutid»**（无线链路、MikroTik 产品、互联网、计算机），网店含 **MIKROTIK 专类 103 件**，其中子类 **«MikroTik switch (11)»**（另 RouterBOARD、天线、无线系统、5G/LTE 路由）+ «Võrgu- ja WiFi seadmed (8)» → 交换机品类+MikroTik 专营小公司 → 人工定级升A。",
+   "quote": "Kernel AS | Raadioühendused, Mikrotik tooted, Internet, Arvutid；E-POOD/Pood：MIKROTIK (103)／Võrgu- ja WiFi seadmed (8)／ARVUTIKOMPONENDID (62)…；MikroTik 子类：Antennid (10)、Antennikonstruktsioonid (10)、MikroTik korpused (6)、MikroTik routerboard (9)、Raadiokaardid (4)、MikroTik lisad (13)、**MikroTik switch (11)**、MikroTik 5G router (11)、MikroTik wireless router (15)…",
+   "sources": [
+    [
+     1,
+     "https://www.kernel.ee/e-pood/pood/"
+    ],
+    [
+     2,
+     "https://www.kernel.ee/tootekategooria/uus-mikrotik/"
+    ]
+   ]
+  },
+  {
+   "code": "B-289",
+   "decision": "promote",
+   "site": "sonictest.ee",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复评16】官网核对：Sonictest OÜ（爱沙尼亚）自述 **«tegeleb professionaalsete WiFi- ja optikavõrkude seadmete müügi, ehitamise ning konsulteerimisega»**（专业 WiFi 与光网络设备的销售、建设与咨询），网店设 **«Switchid» 类目**：CRS326-24G-2S+RM（228 €，现货）、CRS328-4C-20S-4S+RM（500.01 €，现货），另有 SFP 接口、60GHz、Ruuterid、netPower 16P → 交换机品类+网络专营+小公司 → 人工定级升A。",
+   "quote": "OÜ SONICTEST — Sonictest OÜ tegeleb professionaalsete WiFi- ja optikavõrkude seadmete müügi, ehitamise ning konsulteerimisega. Pakume IT- ja sideteenuseid.；Tooted：Switchid → CRS326-24G-2S+RM switch 228,00 €（Laos）；CRS328-4C-20S-4S+RM ruuter/switch 500,01 €（Laos）；netPower 16P 304,00 €；SFP+ 1m kaabel 33,00 €；Wireless Wire Cube Pro（60 GHz）",
+   "sources": [
+    [
+     1,
+     "https://sonictest.ee/"
+    ],
+    [
+     2,
+     "https://sonictest.ee/tooted/"
+    ]
+   ]
+  },
+  {
+   "code": "B-290",
+   "decision": "promote",
+   "site": "netdist.se",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：netdist.se（AxByte，瑞典）自述 **«MikroTik-distributör för ISP och telekom» / «Auktoriserad MikroTik-distributör»**，**«Köps in direkt från MikroTik»**（直接向 MikroTik 采购）、瑞典自有仓库（Frakt 1–3 dagar）、B2B-konton（批量价+发票）与技术支持；产品类目含 **Switchar 45 st**、Ethernet Routrar 22 st、5G/LTE 32 st、IoT 17 st、供电 39 st → 交换机品类+MikroTik 授权分销 → 人工定级升A。",
+   "quote": "netdist – MikroTik-distributör för ISP och telekom；Auktoriserad MikroTik-distributör／Auktoriserad distributör: Köps in direkt från MikroTik；B2B-konton: Volympriser och faktura；Teknisk support: Konfigurationshjälp på svenska；Produktkategorier: Ethernet Routrar 22 st／**Switchar 45 st**／Trådlösa 802.11ax 11 st／5G/LTE produkter 32 st／IoT-produkter 17 st／Strömförsörjning 39 st",
+   "sources": [
+    [
+     1,
+     "https://netdist.se/"
+    ]
+   ]
+  },
+  {
+   "code": "B-527",
+   "decision": "hold-B",
+   "site": "egelectronics.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：EG Electronics AB（瑞典，1951 年起）为工业/嵌入式元器件与系统分销商，市场为 Defence／Transportation／Healthcare／Automation（AI 边缘系统、车载终端、军用显示器），无网络交换机品类 → 维持B。",
+   "quote": "EG Electronics — PART OF SOMETHING GREAT；Since 1951 we have provided cost-effective customized solutions…We still supply our customers with cutting-edge components and systems；Markets: Defence／Transportation／Healthcare／Automation；New products: Axiomtek AIE900B-ONX Fanless Edge AI System（four GbE PoE ports…）／Winmate Vehicle Mount Tablets／NVIS Defence Displays",
+   "sources": [
+    [
+     1,
+     "https://www.egelectronics.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-528",
+   "decision": "hold-B",
+   "site": "hightechnordic.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复评16】官网核对：HighTech Nordic AB（瑞典 Norrtälje）自述 30+ 年，设计/配置/生产嵌入式、工业 PC、显示器与定制显示方案（医疗、交通、严苛环境），无网络交换机品类 → 维持B。",
+   "quote": "HighTechNordic AB — Business by people – tekniklösningar för krävande miljöer；Vi designar, konfigurerar och producerar allt från komponenter och embedded-lösningar, till industri-PC, datorer, skärmar och skräddarsydda displaylösningar；Områden: Embedded／Industri-PC／Medicinteknik／Komponenter",
+   "sources": [
+    [
+     1,
+     "https://www.hightechnordic.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-295",
+   "decision": "hold-B",
+   "site": "oemautomatic.se",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复评16】官网核对：OEM Automatic AB（瑞典 Tranås，含挪/丹姊妹公司）为 **工业自动化元件宽线分销**（«marknadens bredaste sortiment»、more than components），主营传感器/安全开关/流量与压力/机器视觉/igus 轴承等，未见网络交换机品类 → 维持B。",
+   "quote": "Komponenter för industriautomation | OEM Automatic；Vi hjälper dig att hitta rätt komponenter och effektivisera dina inköp…marknadens bredaste sortiment；Utökat samarbete med igus（lager- och linjärteknik）；Produkter: massflödesregulator／låsbara brytare／Lidar／nivåmätning；Logistikcenter Höganloft（Tranås）",
+   "sources": [
+    [
+     1,
+     "https://www.oemautomatic.se/"
+    ]
+   ]
+  },
+  {
+   "code": "B-296",
+   "decision": "hold-B",
+   "site": "sanuksystems.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：Sanuk Systems AB（瑞典/泰国）自述为宽带与电视/电话服务商：「deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden」，标题带 Mikrotik Reseller 但无产品目录与交换机品类 → 服务商为主，维持B。",
+   "quote": "Sanuk Systems – Fast and reliable broadband in Thailand. International television. Flexible telephony. Global hosting. Mikrotik Reseller；We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden； Dienstleistungen: Hotel and Resort／Villa and Condominium／Business and Office／Sanuk VPN-box",
+   "sources": [
+    [
+     1,
+     "https://www.sanuksystems.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-297",
+   "decision": "promote",
+   "site": "routerboard.se",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：Satellithuset i Limmared AB（routerboard.se）自述 **«din Mikrotik partner»**，仅售 MikroTik/SHLab（品牌页 Mikrotik、SHLab，在售 231 件）；导航含 **Switchar（子类 PoE／Ethernet／SFP）** 与「Trådlöst för hemma och kontor → Switchar」，另有 Routerboard/LoRa/MikroTik 认证课程，站内提供 **ÅF ansökan（授权经销申请）** → 交换机品类+MikroTik 专营伙伴 → 人工定级升A。",
+   "quote": "Routerboard.se din Mikrotik partner；Varumärken: Mikrotik／SHLab；Kategorier: Routrar（Ethernet, Trådlösa）／**Switchar（PoE, Ethernet, SFP）**／Trådlöst för hemma och kontor（Switchar, AP, Routrar, WiFi6 AX, WiFi7 be）／SFP／LoRa/IoT／Kurser（Certifierings utbildningar på Mikrotik）；ÅF ansökan（Företagsnamn, Orgnummer, E-post…）",
+   "sources": [
+    [
+     1,
+     "https://www.routerboard.se/sv/"
+    ],
+    [
+     2,
+     "https://www.routerboard.se/sv/2-hem"
+    ]
+   ]
+  },
+  {
+   "code": "B-298",
+   "decision": "hold-B",
+   "site": "alltron.ch",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：Alltron AG（瑞士 Mägenwil）为宽线大型 IT/电子与安防分销商：首页同时推 Dell/RISE、Microsoft Surface、Huawei 虚拟化、AXIS 摄像、Jabra、Wirewin 跳线、Kingston 内存、Ubiquiti U7-Pro AP 五件装、笔记本、办公用品等 → 宽线大型分销商（网络仅为其中之一），维持B。",
+   "quote": "Alltron AG — Top Angebote: Wirewin Patchkabel／Kingston DDR5-RAM／Ubiquiti Access Point U7-Pro 5er-Pack（Kategorie: Access Point, /netzwerk-server/wlan-komponenten）／FURBER Schuhtrockner／Lenovo ThinkPad／Werbekugelschreiber；Banner: Dell RISE／Surface／Huawei DCS／AXIS AI／Jabra；2N-Installateur 认证课程",
+   "sources": [
+    [
+     1,
+     "https://alltron.ch/de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-299",
+   "decision": "promote",
+   "site": "engitech.ch",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛16】官网核对：ENGITECH S.A.（瑞士日内瓦，1996 年起）为本地 IT 供应商（自述 «Vente et services informatiques depuis plus de 25 ans…appareils, logiciels, sauvegarde et réseau»），**站内检索 \"CRS\" 命中 6 件，其中 2 件位于 category «switchs»**：MikroTik CRS112-8P-4S-IN、CRS305-1G-4S+IN，另有 CRS125-24G-1S-2HnD-IN、CRS312-4C+8XG-RM；代理 MikroTik/Teltonika，售 G.fast SFP、Huawei ONT，并提供 MTCTCE 培训 → 交换机品类+MikroTik 网络专营小公司 → 人工定级升A。",
+   "quote": "ENGITECH S.A. — Compagnie informatique, basée en Suisse à Genève depuis 1996；Vente et services informatiques depuis plus de 25 ans…appareils, logiciels, sauvegarde et réseau；Search \"CRS\": There are 6 products — MikroTik CRS125-24G-1S-2HnD-IN（CHF214.04）／**switchs** 类目 MikroTik CRS112-8P-4S-IN（CHF185.69）／**switchs** 类目 MikroTik CRS305-1G-4S+IN（CHF160.59）／CRS312-4C+8XG-RM（CHF562.08）；Formation MTCTCE en Français（Genève）",
+   "sources": [
+    [
+     1,
+     "https://www.engitech.ch/en/"
+    ],
+    [
+     2,
+     "https://www.engitech.ch/en/search?controller=search&s=CRS"
+    ]
+   ]
+  }
+ ]
+}
