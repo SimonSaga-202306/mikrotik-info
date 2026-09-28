@@ -794,6 +794,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+      "sha256": "56524cea6cf47d3b36b74733f0d6be2527d3c147bc5d5d9b023deca17395955e",
+      "bytes": 60403,
+      "tracked_at_scan": false,
+      "units_scanned": 1047,
+      "unique_url_count": 17,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
       "sha256": "9cbc96cae1b76495026948a9d2442e6b968d0d87d1ded8c5dd2de900337633e5",
       "bytes": 7964,

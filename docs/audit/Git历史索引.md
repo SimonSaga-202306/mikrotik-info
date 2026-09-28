@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `14fb000aabda` | 2026-09-28T12:51:08+00:00 | 正名 Saga Telecom（替换 Saga Communications，567 档重生）+联系方式版式对齐 R41-R48 冻结断言+基线可达后测试转真实比对（29/29 OK） |
 | `bb8598614d71` | 2026-09-28T12:28:06+00:00 | merge: 与远端 arena 分支合流（环境侧将分支指针回退至 dcc1ec1 后提交；本树已包含远端 59bddad 全部内容，采用新合并提交不reset不force） Co-authored-by: arena-agent <297053741+arena-agent@users.noreply.github.com> |
 | `14771a087b5d` | 2026-09-28T12:25:44+00:00 | R56 v2 结构全量切换（A 类 567 档 17 节骨架+P1 单一决策+structured_profile YAML；规则书+A-002 评审样板邮件；README 零字节修复；29/29 测试 OK skipped=6） |
 | `59bddadece0f` | 2026-09-28T11:07:39+00:00 | R55-β 深度再发掘·第2批（A-011–A-020，10户41条证据，28/28测试） |

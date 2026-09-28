@@ -4732,6 +4732,24 @@
     ]
   },
   {
+    "url": "https://decoit.de/en/home_en.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L537"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L558"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L563"
+      }
+    ]
+  },
+  {
     "url": "https://deepenrich.com/profile/0c85/jaime-fuentes-p%C3%A9rez-0011u3b7c",
     "http_checked": false,
     "occurrences": [
@@ -7062,6 +7080,20 @@
     ]
   },
   {
+    "url": "https://gr.linkedin.com/company/systemcon",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L39"
+      }
+    ]
+  },
+  {
     "url": "https://griffonsecurity.com",
     "http_checked": false,
     "occurrences": [
@@ -7248,6 +7280,10 @@
         "locator": "L222"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L254"
+      },
+      {
         "path": "profile/A/A-023-George Tatsis - GTA-希腊.md",
         "locator": "L123"
       }
@@ -7264,6 +7300,10 @@
       {
         "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
         "locator": "L226"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L228"
       },
       {
         "path": "profile/A/A-023-George Tatsis - GTA-希腊.md",
@@ -7478,6 +7518,32 @@
       {
         "path": "profile/A/A-070-Carlos Villalobos - Hecnys-西班牙.md",
         "locator": "L131"
+      }
+    ]
+  },
+  {
+    "url": "https://hellascom.gr/el",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L329"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L350"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L355"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L360"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L365"
       }
     ]
   },
@@ -7774,6 +7840,18 @@
       {
         "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
         "locator": "L378"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L436"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L457"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L462"
       },
       {
         "path": "profile/A/A-025-Katsariotis Dimitrios - IME-希腊.md",
@@ -9752,6 +9830,28 @@
     ]
   },
   {
+    "url": "https://linux-schmie.de/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L952"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L973"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L978"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L983"
+      }
+    ]
+  },
+  {
     "url": "https://lloret.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -10412,6 +10512,22 @@
         "locator": "L530"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L639"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L660"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L665"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L670"
+      },
+      {
         "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
         "locator": "L123"
       },
@@ -10426,6 +10542,16 @@
       {
         "path": "profile/A/A-027-Dinko Ivanov - MBN Glasfaser-德国.md",
         "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://mbn-glasfaser.de/kontakt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L675"
       }
     ]
   },
@@ -11038,6 +11164,26 @@
       {
         "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
         "locator": "L313"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L259"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L467"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L568"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L776"
       },
       {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
@@ -16046,6 +16192,22 @@
       {
         "path": "batch/A类加厚_2026-09-28_R54_第2批.json",
         "locator": "L155"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L121"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L142"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L147"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L152"
       },
       {
         "path": "profile/A/A-022-Eleftherios Liodakis - MikroTik Training Greece-希腊.md",
@@ -21208,6 +21370,22 @@
         "locator": "L609"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L745"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L766"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L771"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L781"
+      },
+      {
         "path": "profile/A/A-028-Holger Witt - SKYTRON Communications GmbH & Co. KG-德国.md",
         "locator": "L122"
       },
@@ -21934,6 +22112,14 @@
         "locator": "L76"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L34"
+      },
+      {
         "path": "profile/A/A-021-Charalampos Marinakis - SystemCon-希腊.md",
         "locator": "L121"
       },
@@ -21944,6 +22130,16 @@
       {
         "path": "profile/A/A-021-Charalampos Marinakis - SystemCon-希腊.md",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://systemcon.gr/en/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L49"
       }
     ]
   },
@@ -36966,6 +37162,22 @@
         "locator": "L682"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L851"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L872"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L877"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L882"
+      },
+      {
         "path": "profile/A/A-029-Kehrlein（MikroTik 认证顾问）-德国.md",
         "locator": "L119"
       },
@@ -37776,6 +37988,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-830/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/georgetatsis/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L228"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L249"
       }
     ]
   },
@@ -39648,6 +39874,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-760/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mikrotiktraining.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第3批.json",
+        "locator": "L157"
       }
     ]
   },
