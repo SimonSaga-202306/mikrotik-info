@@ -123,7 +123,39 @@
 - **要问的问题**：他愿不愿意把交换机也纳入他的自动化脚本（生成配置/批量升级）？
 - **随附证明**：CLI 参考 + MIB 清单 + 一份批量配置示例脚本。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Tamás Gajdos**（1988 生），匈牙利 Szeged 个体顾问（公开名录 5 证：MTCNA+MTCRE+MTCWE+MTCINE+MTCIP）。GitHub **gajdipajti** 自述**就职 Furukawa Electric Institute of Technology**（古河电工在匈研发机构），自称「barefoot physicist (+PhD)」——物理+信息学双背景（塞格德大学物理系主页存档），**四门语言：匈牙利语/英语/塞尔维亚语/德语**。RouterOS 开源作者：wg-routeros-network（WireGuard 网络生成器）、mikrotik-certified-padawan（MikroTik 认证学员配置组）。2008 年曾赴贝尔格莱德 S&T 培训（塞语境+多语=巴尔干项目沟通无障碍）。
+- **芯片与在用型号**：RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验室仪器+sysadmin 日常（munin 插件 fork）；Furukawa 圈=光通信/大企业研发环境（布线与光器件语境）。出货量：无（雇员+侧咨询）。客户反馈：GitHub 26 星的 munin 插件=社区小有认可。
+- **关键人KP**：**Gajdos Tamás 本人**。邮箱 **crowbarlabs@outlook.com**（CSV 既有；outlook.com MX 有效）+ 电话 +36 30 243 2729；GitHub @gajdipajti（可 issue/私讯二通道）；（大学旧页 gajdos.tamas@stud.u-szeged.hu 为历史邮箱不投）。LinkedIn 未见。
+- **关注点与资质**：①开源/自动化优先（会读源码的买家，给他 MIB/CLI 文档比彩页有用）；②WireGuard/IPv6 新协议兴趣（MTCIP 持证佐证）；③多语人脉（塞/德/英）；④学术严谨=虚标零容忍。参展/社媒：GitHub 即社媒。
+- **优缺点SWOT**：**S**：极客深度+多语+大厂研发履历=完美技术对话者；MTCINE/IP 高阶证=能评估 L3 边界。**W**：侧咨询属性=采购主动权弱、量小；outlook 个人邮无商务外壳。**O**：实验室级样机（STI 工业线 10G 环/ERPS 玩具属性正中）；Furukawa 产业圈的长尾可能（不主动刺探雇主项目，只谈个人）。**T**：雇员身份决定响应慢、成交偶发。
+- **Saga产品适配**：技术玩家样机：**STI-480XGGM**（工业 L2+ 8口 4×10G，**EXW $253**，ERPS<20ms 环网自测）+ **STC-424XGGM**（**EXW $143**，L2+/L3 两档对比实验）。随附特性表与「L3 系无 Voice VLAN/PC3 无 HTTPS」的诚实边界说明——这种买家最吃如实标注。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gajdos Tamás | 个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述） | crowbarlabs@outlook.com；+36 30 243 2729；GitHub @gajdipajti | 邮箱既有；MX（outlook.com）已验；GitHub 身份已核 | https://github.com/gajdipajti ・ http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html |
+
+### R55 证据摘录
+
+- **【现职】**GitHub 资料：Furukawa Electric Institute of Technology，Szeged。
+  > Gajdos Tamás gajdipajti - Furukawa Electric Institute of Technology - Szeged, Hungary
+  > 来源：https://github.com/gajdipajti
+- **【开源作品】**RouterOS WireGuard 网络生成器等开源项目作者。
+  > wg-routeros-network Public Tools for generating a Wireguard network for Mikrotik RouterOS … mikrotik-certified-padawan Public Mikrotik Certified Padawan group Mikrotik configurations.
+  > 来源：https://github.com/gajdipajti
+- **【自述画像】**物理+PhD、仪器与 sysadmin 方向。
+  > A barefoot physicist (+PhD), I've never been much of a coder … Lab instruments, sysadmin stuff, munin love.
+  > 来源：https://github.com/gajdipajti?tab=stars
+- **【语言能力】**匈/英/塞/德四语。
+  > Spoken Languages: Hungarian, English, Serbian, German
+  > 来源：http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -134,7 +166,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：Switching question for an MTCSWE holder
 
@@ -159,7 +191,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

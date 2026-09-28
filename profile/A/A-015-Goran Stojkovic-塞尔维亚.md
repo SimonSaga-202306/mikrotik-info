@@ -117,7 +117,36 @@
 - **要问的问题**：他愿不愿意在培训里加入我们的交换机实验？
 - **随附证明**：课堂实验手册 + ERPS 实测 + 成本价实验机。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Goran Stojkovic**，塞尔维亚 Ćuprija 个体 MikroTik 顾问（MTCNA+MTCTCE 两证）。无网站、无 LinkedIn 命中；邮箱挂本土 ISP **Beotel** 域（intercom@beotel.net，MX assp.beotel.net 今日核验有效），电话 +381 35 847 7077 为 Ćuprija 固话段。公开画像极简。⚠️ **R32 既定纪律：塞尔维亚属暂定低投入小国**——档案深挖照做，外联投入降级、不发多封。
+- **芯片与在用型号**：顾问语境 MikroTik；塞尔维亚 WISP/小 ISP 市场 MikroTik 渗透率高，接入层小盒子为常态消耗。出货量/客户反馈：无公开。
+- **关键人KP**：**Goran Stojkovic 本人**。邮箱 intercom@beotel.net（既有；MX 有效）+ 电话 +381 35 847 7077（固话）。无可猜邮箱素材（ISP 域非自有）。手机未见——固话为主，拨打注意时区与语言（塞语/英语）。
+- **关注点与资质**：①价格极敏感（巴尔干小微市场常态）；②TC 流量控制证=QoS/带宽管理语境熟（WISP 计费/整形活）；③无公开社媒/参展痕迹。
+- **优缺点SWOT**：**S**：直达个体、证件对口接入层话题。**W**：公开信息近乎零（站/LinkedIn 皆无）、固话联系摩擦大、R32销售投入降级。**O**：低成本样机维持弱连接（等待 WISP 小单信号）。**T**：小国小市场的自然低产出；邮件送达率一般（本土 ISP 邮服）。
+- **Saga产品适配**：弱连接样机位：**STI-288GP**（工业非管理 8口 PoE af/at 250m 延伸，**EXW $74.8**，3 年保）或 **STC-28DGGPM**（**EXW $99**）。一封短英文信+型号对价目即可，不做序列跟进外的额外动作（遵守 R32）。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Goran Stojkovic | 个体顾问（MTCNA+MTCTCE） | intercom@beotel.net；+381 35 847 7077（固话） | 邮箱既有；MX（assp.beotel.net）已验 | 客户名单_反向信号_2026-09.csv#A-015 ・ dns://beotel.net/MX 2026-09-28 本机核验 |
+
+### R55 证据摘录
+
+- **【名录收录】**MikroTik 认证顾问名录在册（Ćuprija, Serbia，MTCNA+MTCTCE）。
+  > Goran Stojkovic … 塞尔维亚 Ćuprija … MikroTik 认证顾问 MTCNA+MTCTCE
+  > 来源：https://mikrotik.com/consultants
+- **【邮箱 infra】**Beotel 邮服 MX 有效。
+  > beotel.net MX → assp.beotel.net（2026-09-28 本机核验）
+  > 来源：dns://beotel.net/MX
+- **【投入纪律】**R32：塞尔维亚为暂定低投入小国（除非用户主动提）。
+  > R32既定：abandon tiny countries SI/HR/RS/RO/BG/EE/LV/LT/LU/IS unless asked
+  > 来源：docs/requirements/用户要求总账.md#R32
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -128,7 +157,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -153,7 +182,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

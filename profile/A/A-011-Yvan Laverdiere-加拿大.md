@@ -117,7 +117,39 @@
 - **要问的问题**：多校区互联的接入层冗余与 10G 上行，他们现网怎么做的？
 - **随附证明**：ERPS 实测 + VLAN 分段模板 + 招标参数条目（法/英）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Yvan Laverdière**，加拿大魁北克 Rouyn-Noranda。**Cégep de l'Abitibi-Témiscamingue 计算机技术教授（Techniques de l'informatique），2008 年入职至今 18 年**；此前任 Vidéotron（魁北克电信运营商）系统管理员，兼具运营商+教育双履历。LinkedIn 已定位（in/yvan-laverdiere-30898496）。MikroTik 认证顾问持 5 证（MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE）——交换（SWE）与互联（INE）双修的技术型教师。⚠️ **公立学院身份**：跟进严格限定其私人顾问/教学实验语境，不谈学院机构采购。
+- **芯片与在用型号**：教学+顾问双场景 MikroTik 全线（RouterOS 教学实验床=长期设备消耗口）；电信系统管理员出身=接入层/汇聚层语境母语。学院实验室设备归属机构预算（不碰）；其私人顾问项目与教学演示机为可做面。出货量/订单：无公开。客户反馈：2020 年省内教师联名信签署记录佐证其活跃教师身份。
+- **关键人KP**：**Yvan Laverdière 本人**。邮箱 **yvan.laverdiere@cegepat.qc.ca**（CSV 既有，学院 MS365 MX 今日核验有效）；电话：CSV 手机 819-763-1411 / 校办总机（ZoomInfo）(819) 762-0931。LinkedIn 页已见（可二通道）。法语沟通优先。
+- **关注点与资质**：①教学实操优先（实验床/学生可摸的设备）；②公立雇员合规敏感（利益冲突回避——首封即声明**只谈私人顾问与自费教具**，不涉学院采购流程）；③法语区（魁北克 Abitibi 偏远地区，ISP 小客户多）；④5 证体系=接受技术深度对话。参展/社媒：未见公开痕迹。
+- **优缺点SWOT**：**S**：18 年教职的稳定性+运营商履历+SWE/INE 高阶双证=能听懂全部 Marvell 特性叙事；教具需求年年有。**W**：公立身份=商业动作慢、合规顾虑重；个人顾问体量小；偏远地区物流。**O**：教学样机（学生实验交换机组网）、其私营顾问单（地区中小企业）；学院暑期实验室更新若走公开采购则回避、由他自己评估。**T**：公立合规红线一旦踩错=连私人线一起丢；回复周期以学期节奏计。
+- **Saga产品适配**：教学实验床：**STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**，L2+ 全特性给学生演示 VLAN/ERPS/QinQ/sFlow）；私人顾问小单：**STC-28DGGPM**（**EXW $99**）。话术：法语落款+「自费教具 NFR 价、工业 3 年保/商用 1 年保如实、15 天有效」；L2+ 特性表（Marvell AC5 Lite）随附——SWE 持证者自己会读出价值。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Yvan Laverdière | Cégep 计算机技术教授（2008–今）/ MikroTik 认证顾问（5证） | yvan.laverdiere@cegepat.qc.ca；819-763-1411（手机）；(819) 762-0931（校办） | 邮箱既有；学院 MX（MS365）已验；LinkedIn 页已见 | https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842 ・ https://www.linkedin.com/in/yvan-laverdiere-30898496 |
+
+### R55 证据摘录
+
+- **【身份】**Cégep de l'Abitibi-Témiscamingue 教授（2008 至今）。
+  > Yvan Laverdiere is a Professor at Cégep de l'Abitibi-Témiscamingue based in Rouyn Noranda, Quebec … Cégep de l'Abitibi-Témiscamingue … 2008-present (18 years)
+  > 来源：https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842
+- **【履历】**曾任 Vidéotron 系统管理员。
+  > Previously, Yvan was a System Administrator at Videotron and also held positions at Comite Municipal De Laniel.
+  > 来源：https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842
+- **【学科确认】**计算机技术学科教授。
+  > Yvan Laverdière, professeur en Techniques de l'informatique, Cégep de l'Abitibi-Témiscamingue
+  > 来源：https://seeclg.org/wp-content/uploads/2020/11/liste-des-signataires-lettre-ouverte-cegeps.pdf
+- **【邮箱 infra】**学院域 MX 指向 MS365，邮箱 infra 有效。
+  > cegepat.qc.ca MX → cegepat-qc-ca.mail.protection.outlook.com（2026-09-28 本机核验）
+  > 来源：dns://cegepat.qc.ca/MX
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -128,7 +160,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -153,7 +185,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

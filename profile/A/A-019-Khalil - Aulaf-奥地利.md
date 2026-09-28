@@ -113,7 +113,42 @@ PoE 供 AP / 摄像头 / 门禁、按楼栋或按班级 VLAN 隔离、组播、�
 - **要问的问题**：他愿不愿意把我们的设备写进课程案例与项目方案？
 - **随附证明**：ERPS 实测 + L3 配置模板 + 招标参数条目。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Khalil Chamseddine / AULAF**，奥地利维也纳（Donaustadt 授课点）。**MikroTik Certified Trainer，ICT/软件/网络工程 20+ 年**（履历语境含服务商/政府/教育/医疗），**九大方向证书全持**（MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE/MTCEWE）。aulaf.com=纯培训商：全 10 门课价目公开（€600–1100/门；MTC06 打包 €4000/15 天；MTC10 €6600/25 天），远程实作（RouterBOARD+CHR on GNS3）+维也纳或欧洲巡回面考。英语/阿拉伯语双语。LinkedIn「Khalil Chamseddine AULAF」64 粉小体量。
+- **芯片与在用型号**：RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ **教师红线纪律**：不经培训语境向学员推销、不打学员名单、不借课程联名——**只谈他本人的教学硬件与工程自购**。多厂商路由/交换/BGP/MPLS/VPLS 全栈语境（其自述 Multi-vendor environments）。出货量：无。
+- **关键人KP**：**Khalil Chamseddine 本人（唯一可见角色）**。邮箱 **khalil@aulaf.com**（CSV 既有+课程页公开双源）+ **admin@aulaf.com**（官网联系段公开）；电话 +43 688 9131190；Skype khalil.chamseddine（公开名录列示）；MX IONOS 今日核验有效。
+- **关注点与资质**：①教学交付质量（远程实验+面考混合模式成熟）；②多厂商中立语境（他对「非 MikroTik 硬件」无抗体——但也意味着评估严格）；③欧区巡回（在哪考就去哪=设备便携性重要）；④阿语市场人脉（中东学员通道——观察，不主动利用）。参展：课程表即展场。
+- **优缺点SWOT**：**S**：9 证全满贯培训师+20 年背书；价目透明的成熟课商；沟通通道多。**W**：纯培训=硬件采购量有限（教具批次小）；64 粉 LinkedIn=社媒弱。**O**：教具更新（路由板实验床换代时加一台 L2+ 交换做 MTCSWE 演示台）；其工程咨询侧（服务商项目）的第二来源。**T**：教师红线与官方生态关系；低价竞品培训机构涌现。
+- **Saga产品适配**：教具位（红线内）：**STC-424XGGM**（L2+ 24口 4×10G，**EXW $143**：MTCSWE 课的 VLAN/ERPS/聚合演示全包）+ **STC-28DGGPM**（**EXW $99** PoE 演示）。话术：只问「MTCSWE 实验台现在用什么设备」，提供 NFR 教具价与特性表；绝不提学员、不提联名、不打课程折扣。L3 系课程（BGP/OSPF）可补 **STC-424XGGM（L3）**（**EXW $294.8**）作第二个台阶。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Khalil Chamseddine | AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证） | khalil@aulaf.com；admin@aulaf.com；+43 688 9131190；Skype khalil.chamseddine | 双邮箱其一课程页公开其一官网公开；MX（IONOS）已验 | https://aulaf.com/mtcna-vienna ・ https://mikrotik.com/consultants/europe/austria |
+
+### R55 证据摘录
+
+- **【培训师身份】**MikroTik 官方名录：Khalil Chamseddine，Vienna，全方向证书。
+  > Khalil Chamseddine … MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCINE, MTCSE, MTCSWE, MTCEWE … Vienna, Austria MikroTik Certified Trainer with more than 20 years experience
+  > 来源：https://mikrotik.com/consultants/europe/austria
+- **【课程价目】**MTCNA €800/3 天起，MTC10 全包 €6600/25 天。
+  > MTCNA … €800 3 days … MTC10 MikroTik Senior Expert Engineer … Complete Package €6600 25 Days
+  > 来源：https://aulaf.com/
+- **【授课模式】**远程实验+维也纳或欧洲巡回面考。
+  > Training is conducted remotely. Labs are conducted on RouterBOARDs and MikroTik CHR on GNS3. Exam is offered face-to-face on the last day in Vienna or any city in Europe if travel can be arranged.
+  > 来源：https://aulaf.com/
+- **【KP 与通道】**课程页署名 Khalil Chamseddine（khalil@aulaf.com）为常驻讲师。
+  > Trainer: MikroTik Certified Trainer, Khalil Chamseddine (khalil@aulaf.com)
+  > 来源：https://aulaf.com/mtcna-vienna
+- **【语言】**英/阿双语。
+  > Languages: English, Arabic … Skype khalil.chamseddine … phone +436889131190
+  > 来源：https://mikrotik.com/consultants/europe/austria
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -124,7 +159,7 @@ PoE 供 AP / 摄像头 / 门禁、按楼栋或按班级 VLAN 隔离、组播、�
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE access switching for campus / school builds
 
@@ -149,7 +184,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

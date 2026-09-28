@@ -123,7 +123,39 @@
 - **要问的问题**：他愿不愿意把我们的型号列进课程实验清单？
 - **随附证明**：配置模板 + MIB/SNMP 清单 + ERPS 实测（可公开引用）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**László Kalapos / MindenamiMikrotik**，匈牙利 Miskolc。**匈牙利第一位 MikroTik Certified Trainer**（2009 授证、2010 起授课）——站点自述战绩：**350+ 场培训、约 3000 人次通过考试、20 年 MikroTik 经验、16 年教龄**。mindenamimikrotik.hu=完整培训电商：直播课（élő tanfolyamok）+视频课（online klub）+产品支持服务+自著电子书《Vezeték nélkül, egyszerűen》（无线，简单化）+Network Online 网络基础课；2026 年新挂 milpay 横幅（新业务线酝酿）。站点 2026-05 仍活跃更新。
+- **芯片与在用型号**：RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教具消耗+课程推荐位双重价值。其电子书与基础课面向初学者=匈牙利 MikroTik 入口守门人。出货量：教具批次+学员引导去向（不可追踪，尊重红线不打探）。客户反馈：课页学员感言摘录（「Többé nem félek hozzányúlni a beállításokhoz」——再也不怕碰配置）=教学口碑资产。
+- **关键人KP**：**Kalapos László 本人**。邮箱 **info@mindenamimikrotik.hu**（官网公开；MX nethely.hu 今日核验有效）+ 电话 +36 20 295 6414。公开身份「Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója」（匈牙利首位持证培训师）。LinkedIn 未见（个人品牌站即门面）。
+- **关注点与资质**：①**匈牙利第一培训师**品牌=他最大的资产，任何合作都不能稀释其 MikroTik 官方感；②教学工业化（视频课+基础课漏斗）；③学员成果导向（3000 通过数是硬指标）；④⚠️ **教师红线纪律（R54 既定）**：不经培训语境向学员推销、不打学员名单、只谈他本人的教学硬件与自有工程。参展：培训即其展场。
+- **优缺点SWOT**：**S**：一国 MikroTik 教学垄断位+3000 学员长尾影响力+站点内容工业化成熟。**W**：教师身份=商业合作边界窄；个人品牌依赖 MikroTik 官方关系。**O**：**教具更新潮**（课程设备换代：24口 PoE 教具箱）+他本人工程/演示自购机——这是红线内全部可做面；milpay 新业务若落地含线下收银/门店网络（2026-02 横幅起步，观察）。**T**：官方培训体系竞争与政策变化；红线踩错永久失信。
+- **Saga产品适配**：教具箱（红线内，自述教学用途）：**STC-424DGGPM-280W**（**EXW $165**，L2+ 全套特性=MTCSWE 级演示素材：ERPS<20ms/Private VLAN/QinQ）+ 入门 **STC-28DGGPM**（**EXW $99**）。随附 L2+/L3 特性表原文说明 Voice VLAN 仅在 L2+ 系（教学避坑点）。绝不主动要学员数据、不给课程联名报价。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kalapos László | 匈牙利首位 MikroTik Certified Trainer（2009）/ 培训站主 | info@mindenamimikrotik.hu；+36 20 295 6414 | 官网公开；MX（nethely.hu）已验 | https://mindenamimikrotik.hu/ ・ https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/ |
+
+### R55 证据摘录
+
+- **【头部地位】**匈牙利首位 MikroTik 认证培训师自证。
+  > Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója. 2010 óta tartok élő képzéseket
+  > 来源：https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/
+- **【战绩】**350+ 场、约 3000 人次通过、20 年 MikroTik 经验。
+  > Összes képzés: 350+ … Összes sikeres vizsga: ~3000 … MikroTik-es tapasztalat: 20 év
+  > 来源：https://mindenamimikrotik.hu/mikrotik-alapozas/
+- **【业务范围】**直播课+视频课+产品支持+电子书+基础课全线。
+  > Élő MikroTik tanfolyamok … Videós MikroTik tanfolyamok … Segítség, terméktámogatás … Vezeték nélkül, egyszerűen - ebook … Network Online - hálózati alapozó tananyag
+  > 来源：https://mindenamimikrotik.hu/
+- **【学员口碑】**课页学员感言。
+  > Többé nem félek hozzányúlni a beállításokhoz – most már átlátom a rendszert, és ki fogom hozni belőle a legtöbbet.
+  > 来源：https://mindenamimikrotik.hu/mikrotik-alapozas/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -134,7 +166,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -159,7 +191,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

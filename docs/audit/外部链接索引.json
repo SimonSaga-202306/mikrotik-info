@@ -950,6 +950,36 @@
     ]
   },
   {
+    "url": "http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L190"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L156"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L65"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L70"
+      }
+    ]
+  },
+  {
     "url": "http://www.unifoss.com/",
     "http_checked": false,
     "occurrences": [
@@ -1996,6 +2026,18 @@
         "locator": "L1499"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L454"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L466"
+      },
+      {
         "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
         "locator": "L87"
       },
@@ -2006,6 +2048,78 @@
       {
         "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
         "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L163"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L164"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://apostolas.gr/epikoinonia/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L446"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L478"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L153"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L161"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://apostolas.gr/poia-tameiaki-michani-chreiazetai-i-epicheirisi-sas-sti-rodo/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L472"
+      },
+      {
+        "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
+        "locator": "L150"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L166"
       }
     ]
   },
@@ -2196,6 +2310,14 @@
         "locator": "L1426"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L407"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L413"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L17"
       },
@@ -2216,6 +2338,14 @@
         "locator": "L89"
       },
       {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L140"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L143"
+      },
+      {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
         "locator": "L27"
       },
@@ -2230,6 +2360,14 @@
       {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
         "locator": "L101"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L148"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -2250,6 +2388,14 @@
         "locator": "反向信号名单!Q757"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L393"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L419"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L21"
       },
@@ -2258,8 +2404,24 @@
         "locator": "L16"
       },
       {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L146"
+      },
+      {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
         "locator": "L27"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L144"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L149"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -6886,6 +7048,54 @@
     ]
   },
   {
+    "url": "https://giganet.co.at/wordpress/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L366"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://giganet.co.at/wordpress/impressum/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L346"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L354"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L141"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L128"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
     "url": "https://gisimp.it",
     "http_checked": false,
     "occurrences": [
@@ -7020,8 +7230,62 @@
         "locator": "L1045"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L178"
+      },
+      {
         "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
         "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L150"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L65"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L67"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L68"
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/gajdipajti?tab=stars",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "profile/A/A-014-Tamás Gajdos-匈牙利.md",
+        "locator": "L153"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L69"
       }
     ]
   },
@@ -10700,8 +10964,62 @@
         "locator": "L891"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L70"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L78"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L96"
+      },
+      {
         "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
         "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L153"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L33"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L35"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L38"
+      }
+    ]
+  },
+  {
+    "url": "https://meretei.hu/facebook-tiltasa-mikrotik-routerrel/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L150"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L37"
       }
     ]
   },
@@ -11214,6 +11532,18 @@
         "locator": "L206"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L219"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L305"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L313"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L135"
       },
@@ -11274,8 +11604,20 @@
         "locator": "L93"
       },
       {
+        "path": "profile/A/A-015-Goran Stojkovic-塞尔维亚.md",
+        "locator": "L141"
+      },
+      {
         "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
         "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
@@ -11400,6 +11742,18 @@
       {
         "path": "profile/A/A-296-Frederic Gauthier-加拿大.md",
         "locator": "L84"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L83"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L113"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L115"
       }
     ]
   },
@@ -11526,6 +11880,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-828/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants/europe/austria",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L393"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L401"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L425"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-019-Khalil - Aulaf-奥地利.md",
+        "locator": "L149"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L144"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L146"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L150"
       }
     ]
   },
@@ -16628,12 +17024,28 @@
         "locator": "L968"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L137"
+      },
+      {
         "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
         "locator": "L93"
       },
       {
         "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
         "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L153"
       },
       {
         "path": "profile/A/A-235-László Kalapos-匈牙利.md",
@@ -16646,6 +17058,14 @@
       {
         "path": "profile/A/A-235-László Kalapos-匈牙利.md",
         "locator": "L99"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L49"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L53"
       }
     ]
   },
@@ -16676,6 +17096,66 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-833/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mindenamimikrotik.hu/mikrotik-alapozas/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L131"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L143"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L150"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L156"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L52"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L54"
+      }
+    ]
+  },
+  {
+    "url": "https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-013-Laszlo Kalapos - MindenamiMikrotik-匈牙利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L49"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L51"
       }
     ]
   },
@@ -17726,8 +18206,20 @@
         "locator": "L1197"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L278"
+      },
+      {
         "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
         "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L150"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L101"
       }
     ]
   },
@@ -20188,6 +20680,24 @@
     ]
   },
   {
+    "url": "https://rs.linkedin.com/posts/igor-stojkovi%C4%87-30329a23_mtcna-trening-u-septembru-mikrotik-trening-activity-6961279559149215744-V628",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L272"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
     "url": "https://ruggedscience.com/",
     "http_checked": false,
     "occurrences": [
@@ -20722,6 +21232,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-788/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://seeclg.org/wp-content/uploads/2020/11/liste-des-signataires-lettre-ouverte-cegeps.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L43"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L21"
       }
     ]
   },
@@ -39132,6 +39660,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L252"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L260"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L141"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L96"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/ipv6-kevin-myers/",
     "http_checked": false,
     "occurrences": [
@@ -39546,6 +40104,24 @@
       {
         "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
         "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/yvan-laverdiere-30898496",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L23"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L135"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L17"
       }
     ]
   },
@@ -41040,6 +41616,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-760/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mikrotiktrening.rs/event/mtcna-maj-2026/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L252"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L266"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-016-Igor Stojković - Netis-塞尔维亚.md",
+        "locator": "L144"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L96"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L99"
       }
     ]
   },
@@ -49812,6 +50418,36 @@
     ]
   },
   {
+    "url": "https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L70"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-012-Balazs Meretei-匈牙利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L33"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L36"
+      }
+    ]
+  },
+  {
     "url": "https://www.wirelesslan.com.pl/",
     "http_checked": false,
     "occurrences": [
@@ -50518,6 +51154,36 @@
     ]
   },
   {
+    "url": "https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L346"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L360"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L128"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L131"
+      }
+    ]
+  },
+  {
     "url": "https://www.ziegler-systemhaus.de",
     "http_checked": false,
     "occurrences": [
@@ -50746,6 +51412,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L23"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R55_第2批.json",
+        "locator": "L37"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-011-Yvan Laverdiere-加拿大.md",
+        "locator": "L144"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L17"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L19"
+      },
+      {
+        "path": "tmp_r55_batch2.py",
+        "locator": "L20"
       }
     ]
   },

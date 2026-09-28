@@ -120,7 +120,39 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 - **要问的问题**：规模上去后他打算怎么解决组播泛洪与链路冗余？
 - **随附证明**：组播配置模板 + ERPS 实测 + MIB 清单。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Balázs Meretei**（圈内名 **NoXy**），匈牙利 Kecskemét 独立网络顾问。个人技术博客 meretei.hu（2015–2024 持续发帖：IANA 协议号备忘、IPsec DH-group、PKCS12/openssl、Cisco NTP 夏令时配置备忘——**Cisco 与 MikroTik 双栈实操者**）。另在匈牙利 MikroTik 装备店 **wireless-bolt.hu 讲授 MTCNA 课程**（第三方授课记录）。持 5 证含 MTCSWE+MTCSE（交换+安全双专向）。
+- **芯片与在用型号**：Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本（写过 import 即用的 facebook.rsc 生成 bash 脚本）——**自动化与 CLI 深度用户**，对芯片层话题（Marvell 同源）听得懂。其交换笔记覆盖 STP/NTP 等 L2 运维痛点=与我方 L2+ 特性表语境重合。出货量：无（顾问）。客户反馈：博客形态即其作品集。
+- **关键人KP**：**Balázs Meretei 本人（NoXy）**。邮箱 **balazs@meretei.hu**（CSV 既有；自有域 MX flash-net.hu 今日核验有效）；电话 +36 30 999 9900。LinkedIn 未见确认档案（技术博客型人格）。无需猜测邮箱——实名自有域。
+- **关注点与资质**：①证书运维痛点自述（每年 cert 更新流程吐槽=时间敏感型实操者）；②实用主义脚本复用（我写我用）；③swap Cisco↔MikroTik 双语境迁移类项目（企业把思科换 MikroTik 时找他=**交换机替换项目入口人**！）；④匈牙利语沟通。社媒：无，纯博客。
+- **优缺点SWOT**：**S**：双栈迁移经验=替换案场的天然买手；自有域实名深技术；教学出镜（wireless-bolt 课）带流量。**W**：一人低频运营、无公司外壳；采购自己动手量小。**O**：Cisco→MikroTik/白牌迁移项目潮里，给他一台可放实验室的 Saga 交换=进入其方案推荐清单的门票；MTCSWE 持证=ERPS/QinQ 特性可深聊。**T**：玩家型顾问忠诚度靠技术信服度；他对虚标零容忍（同 A-008 类型）。
+- **Saga产品适配**：实验室置换机：**STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 随附电源）+ 进阶 **STI-480XGGM**（工业 L2+ 8口 4×10G ERPS<20ms，**EXW $253**）。话术：工程师对工程师，附 L2+ 特性表原文（<20ms ERPS、Private VLAN、QinQ、MQTT/sFlow）与「出厂可刷预配置」；注明 af/at 上限，不夸大 bt。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Balázs Meretei（NoXy） | 独立顾问/wireless-bolt.hu 客座 MTCNA 讲师 | balazs@meretei.hu；+36 30 999 9900 | 自有域邮箱既有；MX（flash-net.hu）已验 | https://meretei.hu/ ・ https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes |
+
+### R55 证据摘录
+
+- **【双栈实操】**Cisco 交换 NTP/夏令时配置笔记（双栈证据）。
+  > Switch(config)#ntp server 148.6.0.1 … Switch(config)#clock summer-time CEST recurring last Sun Mar 02:00 last Sun Oct 03:00
+  > 来源：https://meretei.hu/
+- **【教学出镜】**wireless-bolt.hu 的 MTCNA 课程由 Meretei Balázs 授课。
+  > A képzést Meretei Balázs tartja.
+  > 来源：https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes
+- **【脚本能力】**写过 MikroTik 配置自动生成脚本（facebook.rsc 生成器）。
+  > A mellékelt bash script bármilyen Linux/MAC gépen futtatva generál egy facebook.rsc fájlt, amit csak importálni kell a MikroTik routerbe.
+  > 来源：https://meretei.hu/facebook-tiltasa-mikrotik-routerrel/
+- **【痛点自述】**年度证书更新流程常忘——时间敏感实操者画像。
+  > Évente mikor lejárnak a certek mindig elfelejtem hogyan is kellett PKCS12-t generálni
+  > 来源：https://meretei.hu/
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -131,7 +163,7 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：IGMP / multicast behaviour on your IPTV builds
 
@@ -156,7 +188,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

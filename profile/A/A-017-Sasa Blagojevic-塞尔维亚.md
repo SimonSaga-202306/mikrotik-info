@@ -120,7 +120,36 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 - **要问的问题**：他愿不愿意用我们的设备做一次可公开的二层冗余/10G 实测？
 - **随附证明**：测试机 + 测试脚本 + 承诺不干预结论（数据由他发布）。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Sasa Blagojevic**，塞尔维亚 Niš 个体顾问。公开名录 5 证（MTCNA+MTCRE+MTCTCE+**MTCSWE**+MTC 系另一证，CSV 字段截断处按原文记）——**MTCSWE（交换工程师）持有者，是本批唯一的交换专向个体**。无网站/LinkedIn 命中；gmail 邮箱（sajberista@）+ Niš 手机号。⚠️ R32：塞尔维亚低投入，档案照做、外联降级。
+- **芯片与在用型号**：交换专向顾问语境（MTCSWE=VLAN/STP/交换硬件卸载方向）——**Saga L2+ 特性表（ERPS/QinQ/Private VLAN/sFlow）正是他的语言**。出货量/客户反馈：无公开。
+- **关键人KP**：**Sasa Blagojevic 本人**。邮箱 **sajberista@gmail.com**（CSV 既有；gmail MX 有效、用户级不可验）+ 电话 +381 64 910 8717（M/Telenor 移动段，**WhatsApp/Viber 可试未验证**）。无其他公开通道。
+- **关注点与资质**：①交换技术纵深（MTCSWE 话题切入点：硬件卸载/ERPS 收玫）；②价格敏感个体；③无社媒痕迹=邮件+手机是唯一战场。
+- **优缺点SWOT**：**S**：MTCSWE 持证=对接入层有真兴趣的小众卖家画像（十大 MikroTik 顾问里最少见的证）；直达本人。**W**：小国个体、通道单一、信息稀薄。**O**：给他实测一台 L2+ 全特性交换机=技术对话即成交前置。**T**：R32 低投入；无后续可追的公开触点。
+- **Saga产品适配**：技术对话开场：**STI-480XGGM**（工业 L2+ 8口 4×10G ERPS<20ms，**EXW $253**）或 **STC-424XGGM**（**EXW $143**。附 L2+ 特性表：64 聚合组、QinQ flow-based、Private VLAN、480 条 ACL、sFlow——MTCSWE 玩家自己会读懂）。短信一封，不做多封。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sasa Blagojevic | 个体顾问（含 MTCSWE 交换专向证） | sajberista@gmail.com；+381 64 910 8717 | 邮箱既有；gmail MX 有效；手机社媒绑定未验 | 客户名单_反向信号_2026-09.csv#A-017 ・ https://mikrotik.com/consultants |
+
+### R55 证据摘录
+
+- **【名录收录】**MikroTik 认证顾问名录在册（Niš, Serbia）。
+  > Sasa Blagojevic … 塞尔维亚 Niš … MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCSWE+MTCE
+  > 来源：https://mikrotik.com/consultants
+- **【邮箱 infra】**gmail MX 有效。
+  > gmail.com MX: 5:gmail-smtp-in.l.google.com（2026-09-28 本机核验）
+  > 来源：dns://gmail.com/MX
+- **【投入纪律】**R32：塞尔维亚为暂定低投入小国。
+  > R32既定：abandon tiny countries SI/HR/RS… unless asked
+  > 来源：docs/requirements/用户要求总账.md#R32
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -131,7 +160,7 @@ IGMP Snooping v2/v3、IGMP Querier、组播 VLAN、快速离开（Fast Leave）�
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：IGMP / multicast behaviour on your IPTV builds
 
@@ -156,7 +185,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

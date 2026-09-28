@@ -117,7 +117,42 @@
 - **要问的问题**：他给 WISP 做用户隔离时用 VLAN 还是 QinQ？
 - **随附证明**：VLAN/QinQ 配置模板 + ERPS 实测 + 课堂可用的实验手册。
 
-## 九、注意点
+## 九、深度再发掘（R55：背景 · 芯片/型号 · 关键人 · 在意点 · SWOT · Saga 适配）
+
+> 调研日期 **2026-09-28**；来源含官网/公开工商与社媒页面，原文摘录见本节后部；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`。涉及我方价格均为 EXW 快照（15 天有效，报价前核价）。
+
+- **背景深描**：**Igor Stojković**，塞尔维亚贝尔格莱德。双主体：**Netis DOO**（顾问壳，netis.rs 站已失效为 Shared IP 默认页）+ **Owner at eWireless**（LinkedIn 自述）；真实经营面=**自有培训站 mikrotiktrening.rs（在营：2026-05 MTCNA 课表照常排期）**。塞尔维亚 MikroTik 培训师（TR0237，师证记录 2014–2023 已届满）；500+ LinkedIn 连接；授 MTCNA/MTCRE/MTCTE 课。技术学校出身（Tehnička škola Mihajlo Pupin）。⚠️ R32：塞尔维亚低投入——但本户自有培训站活跃，按「教师户红线内」处理。
+- **芯片与在用型号**：RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售课=教具消耗口。出货量：无公开。客户反馈：LinkedIn 课帖点赞常态（MTCNA 帖 5–21 赞），学员到课率即口碑。
+- **关键人KP**：**Igor Stojković 本人**。邮箱 **igor.stojkovic@netis.rs**（CSV 既有；netis.rs MX=自建 mail.netis.rs **今日核验仍有效**——站死邮活，可用但建议正文极简）+ 电话 +381 63 546 126（Vip 移动段，**WhatsApp/Viber 可试未验证**）+ LinkedIn 私信通道（rs.linkedin.com/in/igor-stojković-30329a23）。
+- **关注点与资质**：①自有培训品牌在营（排期/招生是他 KPI）；②塞语本土市场；③⚠️ 教师红线：不经培训语境触达学员、只用本人工程/教具语境；④eWireless 工程侧=无线接入+户外 PoE 可能。
+- **优缺点SWOT**：**S**：自有培训站活跃+500+ 连接=塞市场 MikroTik 圈节点人物；双邮箱+手机多通道。**W**：师证届满未续（2023-02）=官方背书弱化；双主体混乱（netis.rs 站死）；R32 低投入。**O**：教具样机（红线内）+eWireless 工程侧户外 PoE 件。**T**：小国+官方培训生态竞争。
+- **Saga产品适配**：教具/工程两轨（均红线内）：教具 **STC-28DGGPM**（**EXW $99**）；工程 **STI-288GP**（**EXW $74.8**，户外 250m 延伸喂 AP/摄像头）。一封短英文信问他「今年课程用哪台交换机做 VLAN/PoE 演示」开场，不推学员侧任何东西。
+
+### 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Igor Stojković | Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满） | igor.stojkovic@netis.rs；+381 63 546 126；LinkedIn 私信 | 邮箱既有；MX（自建 mail.netis.rs）站死邮活已验；手机社媒绑定未验 | https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/ ・ https://www.mikrotiktrening.rs/event/mtcna-maj-2026/ |
+
+### R55 证据摘录
+
+- **【培训师身份】**LinkedIn：塞尔维亚 MikroTik 顾问与培训师。
+  > Consultant and experienced Serbian trainer for Mikrotik RouterOS (MTCNA, MTCRE, MTCTE… … Mikrotik Certified Trainer … Credential ID TR0237
+  > 来源：https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/
+- **【培训站在营】**mikrotiktrening.rs 2026-05 MTCNA 课程排期。
+  > MTCNA trening u maju … 2026-05-04 10:00 Instaliranje, ažuriranje i logovanje na RouterOS … Predavači: Igor Stojković
+  > 来源：https://www.mikrotiktrening.rs/event/mtcna-maj-2026/
+- **【双主体】**LinkedIn 自述 Owner at eWireless。
+  > Owner at eWireless, Mikrotik Trainer, Consultant
+  > 来源：https://rs.linkedin.com/posts/igor-stojkovi%C4%87-30329a23_mtcna-trening-u-septembru-mikrotik-trening-activity-6961279559149215744-V628
+- **【站点状态】**netis.rs 解析为共享 IP 默认页（站失效），MX 仍活。
+  > This IP is being shared among many domains.
+  > 来源：https://netis.rs/
+- **【投入纪律】**R32：塞尔维亚为暂定低投入小国。
+  > R32既定：abandon tiny countries SI/HR/RS… unless asked
+  > 来源：docs/requirements/用户要求总账.md#R32
+
+## 十、注意点
 
 **通用红线（所有客户适用）**
 
@@ -128,7 +163,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 十、首触邮件（可直接发送）
+## 十一、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -153,7 +188,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 十一、跟进记录
+## 十二、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
