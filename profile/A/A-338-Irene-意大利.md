@@ -42,7 +42,64 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第17批.json`。
+
+- **业务定位**：热那亚 35 年工业+船舶 IT（Allied/EKS 工业网件谱系；**防务船舶段划出**，商用船/工业段可谈）。
+- **产品线与在售品牌**：五线：IT/工业/船舶/视频墙/工业安保。
+- **目标行业与场景**：利古里亚船舶配套/工业厂房（防务向不涉）。
+- **团队与规模**：中型集成商。
+- **决策链与对接人**：info@irenesrl.it（联系页，CSV 9-27）。
+- **技术与认证**：Allied Resell（CSV）+Advantech/EKS 伙伴墙（官网）。
+- **采购与供应链信号**：**正谱**：船载/厂房的工业非管理与准管理交换件（宽温/抗振/海事舱室旁位）+控制室 Video Wall 旁的接入 PoE。
+- **近期动态与线索**：工业网络安全（Radiflow）乘 OT 融合潮=工业件话题欢迎。
+- **与我方契合点**：工业交换件（宽温/海事旁位）+24 口监控 PoE。
+- **风险与注意**：防务船舶段绝不谈；Advantech/EKS 生态位不顶，补价位档。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**热那亚 1991 年起的**工业与船舶**电子信息化集成商：Informatica（网/服务器）/**Industriale（嵌入/工业网络/工控机）**/**Navale（船舶：嵌入式/服务器/工作站）**/Video Wall/**工业网络安全（Radiflow）**五线。
+  > IRENE è una società specializzata nella progettazione e realizzazione di sistemi elettronici e informatici ‖ Dalla sua fondazione, nel 1991, l’azienda ha orientato la propria attività in ambiti altamente specialistici per applicazioni industriali. ‖ Navale — Embedded, Monitor, Server, Workstation
+  > 来源：https://www.irenesrl.it/
+- **【风险与注意】**热那亚船舶工业语境可能涉军舰项目——**防务船舶段划出不涉**；商用船/游艇与工业厂房段正常。
+  > （按用户军规）Navale 板块中的防务/军舰向项目不涉，只做商用船舶与工业段。
+  > 来源：https://www.irenesrl.it/
+- **【决策链与对接人】**info@irenesrl.it 官网意/英联系页（CSV 9-27 official-company）；010 6972264。
+  > （CSV 2026-09-27 记录）官网（意/英）给 info@irenesrl.it、010 6972264 与 Via Opisso 91 Genova；C.F./P.IVA 01002040093，自 1991 年起做船舶/工业 IT
+  > 来源：https://www.irenesrl.it/
+- **【产品线与在售品牌】**Premium 伙伴墙：Advantech/**Allied Telesis**/Cogent Datahub/**DELL EMC Platinum**/EKS-Engel（德国工业网件）等——工业网件谱系深厚。
+  > Premium Partners — advantech · alliedtelesis · cogent datahub · DELL EMC Platinum · eks-engel …
+  > 来源：https://www.irenesrl.it/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 商用船/厂房工业件一页
+
+- **推什么**：LT-IS6312G-4GX8GT（工业管理 8×电口 + 4×千兆上联，ERPS 宽温）
+- **切入点**：意语一封：商用船舶舱室网与工业厂房的工业管理交换件（宽温/抗振证据+DIN 轨；声明不涉防务/军舰项目）。
+- **要问的问题**：商用船/厂房项目有工业管理件需求吗？
+- **随附证明**：工业件一页 + 宽温参数（意）。
+
+### 第 2 次跟进 · EKS 旁价位档非管理件
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）
+- **切入点**：EKS/Advantech 谱系外的非管理件价位档。
+- **要问的问题**：EKS 之外的非管理件价位档缺吗？
+- **随附证明**：一页报价（意）。
+
+### 第 3 次跟进 · 控制室 24 口 PoE 收口
+
+- **推什么**：LT-S8328GP-4GX24GT-S
+- **切入点**：Video Wall 控制室旁位的 24 口监控 PoE；不回即冻结。
+- **要问的问题**：控制室的接入 PoE 位呢？
+- **随附证明**：一页报价（意）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +110,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +135,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

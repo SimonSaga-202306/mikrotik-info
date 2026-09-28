@@ -42,7 +42,61 @@
 
 初判可参考型号：`LT-S8328XGP-4XS24GT-S`
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第17批.json`。
+
+- **业务定位**：埃尔朗根 30 年托管+采购服务双臂（**采购供应链专长=在其采购册里登记为我们的供应源**；医疗客群面注意只做商业）。
+- **产品线与在售品牌**：Mittelstand 托管+工业采购服务（LTB/EOL/寄售/套件/检测）。
+- **目标行业与场景**：科研/医疗/工业企业（医疗运营面声明只做商业网络件段）。
+- **团队与规模**：中型（国际物流通关能力）。
+- **决策链与对接人**：info@merlinedv.de（Imprint，CSV 9-27）。
+- **技术与认证**：Allied Resell（CSV 9-23；AT 伙伴页同址）。
+- **采购与供应链信号**：**反向切法**：把我们的产品入其采购名册——常规接入层的第二供应源+EOL 交换件的替代型号对照（真伪检测他们自己做，我们给原厂证明）。
+- **近期动态与线索**：2026-08 新图文版 Industrielösungen=该臂在营销扩张。
+- **与我方契合点**：在册供应源（接入/工业件）+EOL 替代对照+寄售仓议案。
+- **风险与注意**：医疗机构客群=只做其商业网络件采购段（医疗专用系统不涉）；替代对照不得冒称原厂件。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**埃尔朗根 30 年双臂：Mittelstand IT 托管 + **Industrielösungen 采购供应链服务**（LTB/EOL 尾货采购/寄售仓/套件组配/国际物流通关/真伪检测）——服务科研机构/医疗运营/工业企业。
+  > Industrielösungen — Beschaffung · LTB/EOL-Support · Supply Chain Services ‖ Last-Time-Buy (LTB) & End-of-Life-Produkte… spezialisierte Lieferquellen ‖ Authentizitäts- und Plagiatsprüfungen
+  > 来源：https://www.merlinedv.de/
+- **【采购与供应链信号】****他们本职就是替客户找难买件**——我们的位置=其采购案的**在册供应源**：接入交换/工业件的常规供 + 停厂件的替代品（EOL 替代位）。
+  > Wir unterstützen Forschungseinrichtungen, Healthcare-Betriebe und Industrieunternehmen mit umfassenden Supply-Chain-Services bei anspruchsvollen Beschaffungsaufgaben und Sonderprojekten.
+  > 来源：https://www.merlinedv.de/
+- **【决策链与对接人】**info@merlinedv.de（Contact/Imprint，CSV 9-27 official-company）；+49 9131 90715-0；主体 MERLIN Kommunikationstechnik e.K.（HRA 7006 Fürth）。
+  > （CSV 2026-09-27 记录）官网联系页与 Imprint 给 info@merlinedv.de、+49 9131 90715-0 与 Gerberei 19, 91054 Erlangen；official-company
+  > 来源：https://www.merlinedv.de/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 供应源登记一页
+
+- **推什么**：LT-S8328GP-4GX24GT-S + LT-IS6310G-2GX8GT 系列目录
+- **切入点**：德语一封：申请入其采购名册——接入/工业件的第二供应源（批次一致性证明+供应年限 LTS 承诺+原厂文档）。
+- **要问的问题**：贵司采购名册接入/工业件的第二供应源缺位吗？
+- **随附证明**：供应商资料包（参数+原产地/批次+LTS）。
+
+### 第 2 次跟进 · EOL 替代对照
+
+- **推什么**：EOL 替代型号对照页
+- **切入点**：停厂接入件的规格替代对照（同 PoE 预算/端口/管理级）；配套真伪证明流程由他们主导。
+- **要问的问题**：近期有停厂交换件的替代需求吗？
+- **随附证明**：对照一页（德）。
+
+### 第 3 次跟进 · 托管臂 24 口常规件
+
+- **推什么**：LT-S8328GP-4GX24GT-S（一页报价）
+- **切入点**：Mittelstand 托管客户的 24 口 PoE 常规第二来源+小批梯；不回即冻结。
+- **要问的问题**：托管客户的接入层也要第二来源吗？
+- **随附证明**：一页报价（德）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -53,7 +107,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Access switching — quick question
 
@@ -78,7 +132,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
