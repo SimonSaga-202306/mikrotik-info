@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — mtik.pl 全真硬件教室：MTCSWE 工位交换教具期期消耗（$99 锚点一致）；师者红线；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -132,11 +132,33 @@ updated: 2026-09-28
   > Szkolenia zamknięte dla firm — Program dopasowany do sieci klienta, w siedzibie firmy lub w Krakowie.
   > 来源：https://mtik.pl/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：克拉科夫全真硬件培训教室（8 人小班）；十证 Trainer；315+ 期 1675+ 学员
+- **②芯片/型号**：教具全真 MikroTik（路由/交换/AP）
+- **③KP 深挖**：Hreskiv biuro@ 直达
+- **④Saga 对标**：MTCSWE 工位交换教具——STC-28DGGPM（期期消耗）
+- **⑤在乎与偏好**：教具要真硬件、可搬动（内训）
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“315+ szkoleń / 1675+ kursantów / Stacjonarnie, na realnym sprzęcie, w grupach do 8 osób…Routery, switche, AP — fizyczne, nie wirtualne”
+  > “315+ szkoleń / 1675+ kursantów / Stacjonarnie, na realnym sprzęcie, w grupach do 8 osób…Routery, switche, AP — fizyczne, nie wirtualne”
+  > 来源：https://mtik.pl/
+- **【近期动态】**“MTCNA 4-6 października 2026 1400 PLN / MTCIPv6E 11-12 / MTCRE 18-19 1900 PLN Kraków ul. Starowiślna 20/3”
+  > “MTCNA 4-6 października 2026 1400 PLN / MTCIPv6E 11-12 / MTCRE 18-19 1900 PLN Kraków ul. Starowiślna 20/3”
+  > 来源：https://mtik.pl/szkolenia
+- **【联系方式】**biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://mtik.pl/kontakt
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | mtik.pl 全真硬件教室：MTCSWE 工位交换教具期期消耗（$99 锚点一致）；师者红线 |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -145,10 +167,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：全真教室口碑
+- **W**：个人带宽
+- **O**：MTCSWE 耗材
+- **T**：官配
 
 ## 触达与风险红线
 
@@ -186,21 +208,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Ihor,
 
-I came across mtik.pl - 集成商/顾问（MikroTik 认证）.
+I found mtik.pl - a real-hardware classroom in Kraków, 315+ courses, 1.675+ students, everything physical, no simulators. That is the right religion.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a compact 8-port managed PoE switch that fits a per-student switching bench for MTCSWE days (STP/VLAN/L2 labs, 802.3af/at). Reference: $99 USD EXW per unit, trainer pricing for bench sets.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: which switch do you put on each student bench for the switching labs today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send a bench unit plus a suggested lab topology. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

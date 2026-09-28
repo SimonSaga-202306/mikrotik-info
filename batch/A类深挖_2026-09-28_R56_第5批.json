@@ -1,0 +1,993 @@
+{
+ "batch": 15,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-041",
+   "fact": "Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）",
+   "inference": "意大利 WISP 教父级人物：本人持证 6+（含 MTCSWE），其 WISP 门徒网络是接入层间接放量通道",
+   "hypothesis": "教具+其 WISP 生态的柴发药品柜（POP）接入层双通道",
+   "evidence_main": "https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf",
+   "tech": "ISP/WISP 双创始人；MUM 讲台级；MTCSWE 在册",
+   "hr": "routing.wireless.academy 站 WP 报错（休眠）；grifonline.it MX 存活",
+   "contact_found": "training@grifonline.it +39 340 894 8064；MX=mail.grifonline.it 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "routing.wireless.academy 站崩（WP critical error，2026-09-28 抓取实测）——发信走 grifonline 域",
+   "dims": {
+    "业务定位": "意大利 WISP 教父：Grifonline ISP（1997）+Linkwave WISP（2006）双创始人，2010 起官方 Trainer",
+    "产品线与在售品牌": "自有 ISP/WISP 运营+培训+MUM 演讲",
+    "目标行业与场景": "WISP 运营、工程师培训",
+    "团队与规模": "双公司小而精",
+    "决策链与对接人": "Busatti 本人",
+    "技术与认证": "MTCNA/MTCRE/MTCINE/MTCIPv6E/MTCSE/MTCSWE；RIPE/AMS-IX/MIX-IT 会员",
+    "采购与供应链信号": "自有网运营采购+生态推荐",
+    "近期动态与线索": "routing.wireless.academy 站崩（WP 错误）",
+    "与我方契合点": "POP/基站接入层+教具；其门徒网络口碑口",
+    "风险与注意": "讲台级人物：参数字字可验"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Founder of Grifonline S.r.l. [ISP] (1997), Founder of Linkwave [WISP] (2006), MikroTik Trainer (2010), Member of RIPE, AMS-IX, MIX-IT”",
+     "source": "https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "routing.wireless.academy 返回 WordPress critical error（2026-09-28 实测）",
+     "source": "https://routing.wireless.academy/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · POP 柴发柜现场语言",
+     "push": "STC-28DGGPM/IP 级运维自愈卖点",
+     "angle": "WISP POP 机柜夏天掉线的硬痛点",
+     "question": "其 POP 柜一年掉线复电几次？",
+     "proof": "看门狗逻辑图"
+    },
+    {
+     "stage": "第 2 次跟进 · 教具背书",
+     "push": "实验架教具包",
+     "angle": "其 Trainer 课程的交换教具",
+     "question": "MTCSWE 课时教具交换现用？",
+     "proof": "教具包报价"
+    },
+    {
+     "stage": "第 3 次跟进 · 生态推荐位",
+     "push": "其 WISP 门徒圈推荐",
+     "angle": "培训伙伴 NPO 圈子的推荐位",
+     "question": "其意语 WISP 圈可否做口碑转发？",
+     "proof": "案例一页"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "WISP 教父级：双公司创始人（1997/2006）、2010 起 Trainer、讲台常客、NPO 发起人",
+     "②芯片/型号": "自有网 MikroTik 谱系",
+     "③KP 深挖": "本人直达；training@ grifonline 域存活",
+     "④Saga 对标": "POP 柜自愈 PoE；教具二轨",
+     "⑤在乎与偏好": "讲台级技术正确性",
+     "⑥SWOT": "S 教父背书力 / W 站崩维护差 / O WISP 门徒圈 / T MikroTik 官配"
+    },
+    "care": [
+     "技术正确性一字不差"
+    ],
+    "swot": {
+     "S": "教父级背书",
+     "W": "个人维护",
+     "O": "门徒圈",
+     "T": "官配"
+    },
+    "uncertain": {
+     "产品线核实": "自有网硬件清单未公开",
+     "合作方式": "推荐位模式未谈",
+     "缺口证据": "站崩按休眠处理"
+    },
+    "gap_proof": "WP critical error 实测"
+   },
+   "unknowns": [
+    "自有 POP 硬件清单",
+    "教具现况",
+    "门徒圈推荐意愿"
+   ],
+   "email": "Hi Lorenzo,\n\nYour mAP talk at MUM Dallas is still passed around - and Grifonline + Linkwave plus a trainer badge since 2010 is a full WISP life.\n\nWe build managed PoE switches with a hardware watchdog that power-cycles a hung AP/CPE by itself - built for exactly the dusty POP cabinets WISPs fight every summer. 8-port model reference: $99 USD EXW.\n\nOne question: how many times a year does someone drive to a POP cabinet just to power-cycle one device?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "How many times a year does someone drive to a POP cabinet just to power-cycle one device?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "意大利|WISP教父|双创始人|讲台级|POP自愈",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-042",
+   "fact": "PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问（MTCNA+MTCRE+MTCSE）",
+   "inference": "持牌 ROC 运营商+分销+工程三线=接入层 PoE 常态化自用+转售双通道",
+   "hypothesis": "公私监控系统线=PoE 摄像头供电大户；公共段只走规范",
+   "evidence_main": "https://www.pftech.it/",
+   "tech": "ROC 授权运营商；LAN/Ethernet/Fibra/Wireless、radio p2p、videosorveglianza；3 人 MikroTik 顾问",
+   "hr": "3 人持证团队；Via Aldo Moro 10, Favria (TO)",
+   "contact_found": "info@pftech.it 0124-576160/161；MX=mail.pftech.it 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "官网标 “SITE UNDER COSTRUCTION” 但信息面完整；公共监控段仅走规范",
+   "dims": {
+    "业务定位": "分销+ROC 持牌运营商（全国 ISP/VoIP 云）+工程（园区网/点到点无线/监控）三线",
+    "产品线与在售品牌": "分销+自有运营；技术设施含监控（私有+公共）",
+    "目标行业与场景": "政企/家庭；全国 ISP/VoIP 服务",
+    "团队与规模": "3 人 MikroTik 顾问小团队",
+    "决策链与对接人": "Paolo Vacca（CSV 载）",
+    "技术与认证": "MTCNA+MTCRE+MTCSE×3 人",
+    "采购与供应链信号": "运营+工程+分销三头采购",
+    "近期动态与线索": "站标在建中但内容完整",
+    "与我方契合点": "监控 PoE 接入层+运营商 POP 小盒",
+    "风险与注意": "公共监控采购=规范流程"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“PF Tech è Operatore autorizzato ROC…servizi di connettività internet, linee telefoniche voce tradizionali e VoIP con centrali Cloud”",
+     "source": "https://www.pftech.it/"
+    },
+    {
+     "dim": "目标行业",
+     "quote": "“reti locali Ethernet/Fibra/Wireless, sistemi punto-punto via radio…videosorveglianza privata e pubblica”",
+     "source": "https://www.pftech.it/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "“0124-576160 / 0124-576161, Via Aldo Moro 10 - 10083 Favria (TO), info@pftech.it, P.IVA 09509780012”；MX=mail.pftech.it（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.pftech.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 监控项目 PoE 预算",
+     "push": "STC-424DGGPM-280W",
+     "angle": "监控柜 24 口 PoE 一台收纳",
+     "question": "个中项目摄像头点数？",
+     "proof": "PoE 预算页"
+    },
+    {
+     "stage": "第 2 次跟进 · 运营商 POP 盒",
+     "push": "STC-28DGGPM（POP/CPE 侧）",
+     "angle": "ROC 网络节点小盒",
+     "question": "POP 节点接入现用？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 分销转售",
+     "push": "分销口白牌",
+     "angle": "其分销线接入层空档",
+     "question": "分销线有没有 24 口 PoE 空档？",
+     "proof": "阶梯价"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Favria 三线公司：分销/ROC 运营/工程监控；3 人持证",
+     "②芯片/型号": "MikroTik 顾问口径；现用未公开",
+     "③KP 深挖": "Vacca+团队 info@",
+     "④Saga 对标": "监控柜 24 口+POP/节点 8 口双线",
+     "⑤在乎与偏好": "持牌运营商重稳定证件",
+     "⑥SWOT": "S 三线互哺 / W 小团队 / O 监控+运营双盘 / T 大厂直供"
+    },
+    "care": [
+     "合规证件齐"
+    ],
+    "swot": {
+     "S": "三线互哺",
+     "W": "团队小",
+     "O": "双盘",
+     "T": "大厂"
+    },
+    "uncertain": {
+     "产品线核实": "分销线 SKU 未公开",
+     "合作方式": "未谈",
+     "缺口证据": "分销商城未上"
+    },
+    "gap_proof": "站标在建"
+   },
+   "unknowns": [
+    "分销线 SKU",
+    "监控项目点位规模",
+    "POP 现用"
+   ],
+   "email": "Hi Paolo,\n\nI see PF Tech runs three lines at once - distribution, a licensed ROC operator, and the plant/surveillance builds around Turin.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) with a hardware PoE watchdog - sized for exactly the camera closets in your surveillance jobs. Reference: $165 USD EXW.\n\nOne question: in a mid-size surveillance build, how many PoE endpoints land on one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a mid-size surveillance build, how many PoE endpoints land on one cabinet?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "意大利|ROC运营商|分销+工程|监控PoE|公共段规范",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-043",
+   "fact": "Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误",
+   "inference": "自用型 ISP+培训双轨：其网内 CPE/AP/POP 长期换件；魔：但也接诊包月用户批评（owner 缺位差评如实登记）",
+   "hypothesis": "捷克区域小 ISP 的 POP/CPE 接入盒是常换常购品",
+   "evidence_main": "https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html",
+   "tech": "5 证（MTCNA/MTCINE/MTCIPv6E/MTCSE/MTCSWE）；HA 专题 MUM 演讲",
+   "hr": "个人运营；firmy.cz 评价两极（技术样板网 vs 客服缺位控诉）",
+   "contact_found": "martin.pina@hanacke.net（CSV+工商互证）；电话 firmy.cz 载 +420 733 113 050（CSV 为 732 712 317——两号并录）；MX=holubnik.hanacke.net 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "hanacke.net 网页 500（2026-09-28 实测）；CSV 电话与工商电话不一致，发信前以手机确认",
+   "dims": {
+    "业务定位": "Olomouc 区域 ISP 运营+网设/网管+MikroTik 培训",
+    "产品线与在售品牌": "自用运营网络",
+    "目标行业与场景": "区域住户互联网+企业网设计",
+    "团队与规模": "个人运营",
+    "决策链与对接人": "Pína 本人",
+    "技术与认证": "MTCNA/MTCINE/MTCIPv6E/MTCSE/MTCSWE；MUM Prague 2012 HA 演讲",
+    "采购与供应链信号": "自用网络常换件",
+    "近期动态与线索": "站点 500；firmy.cz 评价两极（如实登记）",
+    "与我方契合点": "POP/CPE 接入盒常换购",
+    "风险与注意": "客服缺位差评=其交付带宽紧张，报价要极简"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Poskytuji připojení k internetu. Provádím návrhy a správy sítí.”+评价“Pan Pina patří mezi nejlepší síťaře, školí MikroTiky”",
+     "source": "https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "“High availability network services using MikroTik RouterOS by Martin Pina (hanacke.net, Czech Republic)” MUM PL12",
+     "source": "https://mum.mikrotik.com/presentations/PL12/PL12.pdf"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 极简一页",
+     "push": "STC-28DGGPM 价格+看门狗三行字",
+     "angle": "其时间紧张——三行字报价",
+     "question": "POP 接入盒现用型号？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 换件节奏",
+     "push": "常备小批",
+     "angle": "其网内换件常备价",
+     "question": "月度换件量？",
+     "proof": "常备价卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 培训教具",
+     "push": "教具一台",
+     "angle": "其 MikroTik 课程教具",
+     "question": "课架交换现用？",
+     "proof": "教具条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Olomouc 个人 ISP+培训；MUM 2012 HA 讲师；firmy.cz 评价两极",
+     "②芯片/型号": "自有网 MikroTik",
+     "③KP 深挖": "本人双电话不一致（CSV vs 工商），以手机为准",
+     "④Saga 对标": "POP/CPE 8 口盒常换购",
+     "⑤在乎与偏好": "极简报价省时",
+     "⑥SWOT": "S 技术样板网+培训 / W 客服带宽 / O 换件常量 / T 时间稀缺不读长信"
+    },
+    "care": [
+     "邮件越短越好"
+    ],
+    "swot": {
+     "S": "样板网",
+     "W": "客服带宽",
+     "O": "常量换件",
+     "T": "不读长信"
+    },
+    "uncertain": {
+     "产品线核实": "网内型号未公开",
+     "合作方式": "未探",
+     "缺口证据": "站 500"
+    },
+    "gap_proof": "hanacke.net HTTP 500 实测"
+   },
+   "unknowns": [
+    "网内接入盒现用",
+    "换件节奏",
+    "教具现况"
+   ],
+   "email": "Hi Martin,\n\nI found you through the MikroTik consultant list - and your MUM talk on high-availability services is still on the playlist.\n\nWe build a compact 8-port managed PoE switch with a hardware watchdog (reboots a hung AP/CPE without a site visit). Reference: $99 USD EXW.\n\nOne question: which switch model sits in your POP cabinets today?\n\nShort answer is enough. If useful, I ship one evaluation unit; if not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which switch model sits in your POP cabinets today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "捷克|个人ISP|HA讲师|极简沟通|双电话待核",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-044",
+   "fact": "Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价",
+   "inference": "工业交换机等对手盘（EKI/Westermo/B+B）=我们温宽 PoE 的错位补位口；其 EOL 替代服务恰是低价位替换的接客场景",
+   "hypothesis": "铁路/能源段公共性强（ČD/ČEZ 体系），民营制造/水务才是一把手",
+   "evidence_main": "https://www.westercom.eu/cs/",
+   "tech": "Advantech 全线（ADAM I/O、EKI 工业以太网、UNO/ARK 工控机）+Westermo+B+B SmartWorx",
+   "hr": "项目型分销组织（技术选型/替代/项目报价/EU 现货确认）",
+   "contact_found": "eshop@westercom.eu +420 603 509 790；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "铁路/能源/机场段=公共采购体系，只跟民营制造/水务/物流段",
+   "dims": {
+    "业务定位": "捷克斯洛伐克工业通信分销（Advantech 全线+Westermo+B+B）：EOL 替代+项目报价",
+    "产品线与在售品牌": "ADAM/EKI/UNO/ARK/Westermo/B+B SmartWorx",
+    "目标行业与场景": "能源电网/铁路/制造/水务/医疗/机场/半导体/物流",
+    "团队与规模": "项目型分销",
+    "决策链与对接人": "eshop@+603 509 790",
+    "技术与认证": "工业通信选型服务",
+    "采购与供应链信号": "EU 现货确认服务=其穿梭性强",
+    "近期动态与线索": "2026 新视觉（hero-*-2026）多行业落地",
+    "与我方契合点": "EOL 替代场景低价补位；温宽 PoE 错位",
+    "风险与注意": "公共段（铁路整车/电网）守边界；与 Westermo 正面对标需谨慎定位“补充线”"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Průmyslová komunikace a edge infrastruktura…Nástupnické modely a alternativy za ukončené produktové řady / Projektové nabídky / Dostupnost v EU”",
+     "source": "https://www.westercom.eu/cs/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "“ADAM – moduly pro sběr dat｜EKI — prvky průmyslového Ethernetu｜UNO/ARK”+CSV：Westermo, B+B SmartWorx",
+     "source": "https://www.westercom.eu/cs/37-produkty"
+    },
+    {
+     "dim": "目标行业",
+     "quote": "“Energetika a kritická infrastruktura…Železnice a doprava…Výroba a automatizace…Vodárenství”",
+     "source": "https://www.westercom.eu/cs/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · EOL 替代口一页",
+     "push": "STI-288GP 温宽 PoE",
+     "angle": "其 EOL 替代服务里的低价位 PoE 候选",
+     "question": "EOL 替代清单里有没有 PoE 工业位？",
+     "proof": "规格/温宽页"
+    },
+    {
+     "stage": "第 2 次跟进 · 民营制造试点",
+     "push": "样机+CE 包",
+     "angle": "制造自动化/水务民营段",
+     "question": "试点随附文件清单？",
+     "proof": "CE+实测"
+    },
+    {
+     "stage": "第 3 次跟进 · 项目组合价",
+     "push": "projektové nabídky 结构对接",
+     "angle": "其项目报价线",
+     "question": "项目报价线的准入？",
+     "proof": "阶梯+交期"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "工业通信分销（Advantech 全线+Westermo+B+B）；EOL 替代店招",
+     "②芯片/型号": "EKI/Westermo 工业以太网在册",
+     "③KP 深挖": "eshop@第一口；项目报价团队",
+     "④Saga 对标": "温宽 PoE 低价位补位（不当 Westermo 对标）",
+     "⑤在乎与偏好": "EU 现货/交期/生命周期承诺",
+     "⑥SWOT": "S 多垂直落地 / W 交换机强牌已多 / O EOL 替代场景 / T 公共段壁垒"
+    },
+    "care": [
+     "生命周期与 EU 现货承诺"
+    ],
+    "swot": {
+     "S": "多垂直+EOL 店",
+     "W": "强牌已多",
+     "O": "EOL 补位",
+     "T": "公共壁垒"
+    },
+    "uncertain": {
+     "产品线核实": "EKI 全 SKU 与价未核",
+     "合作方式": "补充线定位未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "产品页未逐抓"
+   },
+   "unknowns": [
+    "EKI/Westermo 在售价带",
+    "EOL 清单 PoE 位",
+    "项目报价准入"
+   ],
+   "email": "Hi Westercom team,\n\nI see Westercom takes EOL replacements seriously - \"successor models and alternatives for discontinued series\" is a service customers genuinely need.\n\nWe build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - positioned as a complement at a much lighter price point than the lines you carry. Reference: $74.8 USD EXW.\n\nOne question: in your EOL-replacement list, is there an open slot for an industrial PoE switch?\n\nIf useful, I can send one unit with the full test report. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your EOL-replacement list, is there an open slot for an industrial PoE switch?",
+   "alt2": "STI-280GE",
+   "alt3": "STI-480XGGM",
+   "tag": "捷克|工业分销|EOL替代场景|温宽PoE|公共段边界",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-045",
+   "fact": "Dan Erhan（摩尔多瓦）：MTCNA+MTCSWE 双证顾问，gmail 联系方式，公开足迹未查得（本轮 LinkedIn/站均未命中）",
+   "inference": "个人顾问/执业状态待电话确认",
+   "hypothesis": "信息缺口如实标注，不编造",
+   "evidence_main": "（无公开来源；CSV 名录口径）",
+   "tech": "MTCNA+MTCSWE",
+   "hr": "个人",
+   "contact_found": "dan.erhan.off@gmail.com +373 798 117 28（CSV）；gmail MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公开足迹缺失·载明；先短信破冰",
+   "dims": {
+    "业务定位": "摩尔多瓦个人顾问（MTCNA+MTCSWE），公开足迹缺失",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Erhan 本人",
+    "技术与认证": "MTCNA+MTCSWE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无",
+    "与我方契合点": "未知（待破冰）",
+    "风险与注意": "公开信息缺口如实标注，不得脑补"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Dan Erhan MTCNA+MTCSWE（摩尔多瓦）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 短信破冰",
+     "push": "—",
+     "angle": "确认执业状态",
+     "question": "目前接哪类项目？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "MTCSWE 对口",
+     "question": "客户接入层有空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "评测条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "双证个人顾问；公开足迹缺失如实标注",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "本人 gmail",
+     "④Saga 对标": "待破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S MTCSWE / W 信息缺口 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "MTCSWE",
+     "W": "缺口",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无公开",
+     "合作方式": "未知",
+     "缺口证据": "LinkedIn/站均无命中"
+    },
+    "gap_proof": "公开足迹缺失"
+   },
+   "unknowns": [
+    "执业状态",
+    "项目方向",
+    "预算"
+   ],
+   "email": "Hi Dan,\n\nI found you on the MikroTik consultant list (MTCNA/MTCSWE).\n\nWe build managed PoE switches with a full L2+ feature table (Voice VLAN, ERPS, watchdog). Short and honest note since I could not find public material about your practice.\n\nOne question: are you currently taking projects where the switching layer is open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Are you currently taking projects where the switching layer is open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "摩尔多瓦|双证顾问|足迹缺失|短信破冰",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-046",
+   "fact": "AIRICOM（法国）：IoT/M2M 专家分销——Milesight（LoRaWAN 传感器/网关/4G-5G 工业路由）、HMS 全家（Intesis 空调网关/Ewon/Anybus 协议转换）、Watteco、Advantech；OT 网安目录；KNX 空调网关跨界线；CSV 载 Red Lion/N-Tron",
+   "inference": "LoRaWAN/工业路由项目随带现场接入层；Red Lion/N-Tron=工业以太网盘，温宽 PoE 可错位",
+   "hypothesis": "KNX 空调网关跨界（三菱电机空调→KNX）显其楼宇自动化延展，PoE 配套随单",
+   "evidence_main": "https://airicom.com/",
+   "tech": "Milesight/HMS(Ewon/Intesis/Anybus)/Watteco/Advantech；工业 4G/5G 路由；OT 网安目录；CSV：Red Lion+N-Tron",
+   "hr": "目录电商化 IoT 分销",
+   "contact_found": "marketing@airicom.fr（CSV 载官网 404 页注明可邮件）+ airicom.com 新版目录站；MX=mx1.airicom.com（.com）/Google（.fr）双活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "marketing@airicom.fr 为 CSV 记档口；新版站为 airicom.com——两域并发",
+   "dims": {
+    "业务定位": "法国 IoT/M2M 专家分销（LoRaWAN/4G-5G 工业路由/协议网关/OT 网安）",
+    "产品线与在售品牌": "Milesight/HMS Intesis/Ewon/Anybus/Watteco/Advantech/Red Lion/N-Tron",
+    "目标行业与场景": "工业 IoT 数采、远程接入、楼宇（KNX 空调网关）、OT 网安",
+    "团队与规模": "目录电商化中型",
+    "决策链与对接人": "marketing@airicom.fr",
+    "技术与认证": "HMS 全线+LoRaWAN 生态",
+    "采购与供应链信号": "目录型分销+项目随单",
+    "近期动态与线索": "2026-09 上新 OT 网安目录横幅；KNX×三菱空调跨界件",
+    "与我方契合点": "工业路由项目现场接入层；Red Lion/N-Tron 盘的温宽 PoE 错位",
+    "风险与注意": "KNX/楼宇段与 MikroTik 生态交集小——主打工业随单"
+   },
+   "evidence": [
+    {
+     "dim": "产品线",
+     "quote": "供应商墙：Milesight/Intesis/Ewon/Anybus/Watteco/Advantech；类目：Gateway LoRaWAN、Routeurs 4G/5G industriels、Cybersécurité OT、Convertisseurs de protocole、Gateway de climatisation KNX",
+     "source": "https://airicom.com/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“SLIDER SITE Catalogue Cyberscurité OT”+三菱电机空调→KNX 网关件",
+     "source": "https://airicom.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "marketing@airicom.fr（CSV）；.com MX=mx1.airicom.com / .fr MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://airicom.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 工业路由随单页",
+     "push": "STI-288GP 温宽 PoE",
+     "angle": "其 4G/5G 路由项目现场的接入层随单",
+     "question": "其路由项目现场供电交换机现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · Red Lion 盘错位",
+     "push": "温宽 PoE vs 美系价位",
+     "angle": "Red Lion/N-Tron 价位的下切补充",
+     "question": "温宽 PoE 是否有补充位？",
+     "proof": "对照矩阵"
+    },
+    {
+     "stage": "第 3 次跟进 · 目录上架",
+     "push": "目录两 SKU 上架",
+     "angle": "电商目录口",
+     "question": "上架门槛？",
+     "proof": "SKU 包"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "法国 IoT/M2M 专家分销：LoRaWAN+工业路由+HMS 全线+OT 网安目录",
+     "②芯片/型号": "Red Lion/N-Tron 工业以太网盘（CSV）",
+     "③KP 深挖": "marketing@airicom.fr 口；双域并存",
+     "④Saga 对标": "工业路由随单温宽 PoE 错位",
+     "⑤在乎与偏好": "目录化、文档齐",
+     "⑥SWOT": "S IoT 类目全 / W 交换机非主轴 / O 随单接入层 / T 美系工业盘"
+    },
+    "care": [
+     "文档齐随单省心"
+    ],
+    "swot": {
+     "S": "类目全",
+     "W": "交换非主轴",
+     "O": "随单",
+     "T": "美系盘"
+    },
+    "uncertain": {
+     "产品线核实": "交换机 SKU 价位未核",
+     "合作方式": "目录上架门槛未探",
+     "缺口证据": "目录页未逐抓"
+    },
+    "gap_proof": "airicom.com 交换机类目未抓"
+   },
+   "unknowns": [
+    "交换机在售矩阵",
+    "随单模式",
+    "上架门槛"
+   ],
+   "email": "Hi Airicom team,\n\nI browsed the catalog - LoRaWAN gateways, industrial 4G/5G routers, HMS protocol conversion - and noticed Red Lion / N-Tron on the industrial Ethernet side.\n\nWe build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - sized as the field access layer right next to your industrial routers, at a much lighter price point. Reference: $74.8 USD EXW.\n\nOne question: when your router projects go to the field, who supplies the powering switch layer today?\n\nIf useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When your router projects go to the field, who supplies the powering switch layer today?",
+   "alt2": "STI-280GE",
+   "alt3": "STC-28DGGPM",
+   "tag": "法国|IoT分销|工业路由随单|温宽PoE错位",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-047",
+   "fact": "CSI S.A.（克拉科夫）：30+ 年波兰工业计算机系统分销商（工控机/工业外壳/工业闪存 SSD/Rugged/工业通信），伙伴含 Aaeon/VIA/Antaira/Schroff/ATP/APLEX；100 万+ 订单、1 万+ 客户；Gazele Biznesu/Forbes Diamenty；华沙电车（Tramwaje Warszawskie）SSD/CF 供货案例；2026-09 连赶 MSPO（军防展）/ENERGETAB（能源展）/TEK.day 三展；零售分支 EasyUse.pl",
+   "inference": "Antaira 工业以太网=其通信类核心盘；工业 PoE 温宽是错位低价位候选；电车/军展段=公共/军警边界明确标出",
+   "hypothesis": "ENERGETAB 能源展=其电网自动化接入层泛件需求口",
+   "evidence_main": "https://csi.pl/",
+   "tech": "Antaira 工业以太网+Aaeon/VIA/Schroff/ATP/APLEX 工控全链；CSV：Antaira",
+   "hr": "30+ 年、百万订单、1 万客户、获奖企业",
+   "contact_found": "kontakt@csi.pl +48 12 390 61 80；MX=csi-pl.mail.protection.outlook.com（O365）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "MSPO 军防展+电车案例→军警/公共段不触，仅民营工业/能源民营段",
+   "dims": {
+    "业务定位": "克拉科夫 30 年工业计算机+通信分销（Antaira 工业以太网核心盘）",
+    "产品线与在售品牌": "Antaira/Aaeon/VIA/Schroff/ATP/APLEX；工控机/壳/SSD/Rugged/通信",
+    "目标行业与场景": "工业/交通/物流/Digital Signage/安防/能源/AI",
+    "团队与规模": "大型分销（100 万+订单）",
+    "决策链与对接人": "kontakt@csi.pl",
+    "技术与认证": "获奖分销（Gazele/Forbes 钻石）",
+    "采购与供应链信号": "大流水+项目双线",
+    "近期动态与线索": "2026-09 三展连赶（MSPO 军防/ENERGETAB 能源/TEK.day）",
+    "与我方契合点": "Antaira 旁的温宽 PoE 低价位错位；能源民营段",
+    "风险与注意": "军防（MSPO）与公共（电车）段一律不触"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“ponad 30 lat…kompletne rozwiązania…przemysł, transport, logistyka, Digital Signage, security, energetyka”+“ponad 1 mln zamówień / 10 000 klientów”",
+     "source": "https://csi.pl/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "参考案例提及“artykuły Aaeon, VIA, Antaira, Schroff”+Od Aplex AiTRON 新闻",
+     "source": "https://csi.pl/realizacje/referencje-od-zakladow-elektroniki-i-mechaniki-precyzyjnej-rg-s-a/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“MSPO, ENERGETAB, TEK.day” 2026-09 三展（军防/能源/电子制造）",
+     "source": "https://csi.pl/wrzesniowy-harmonogram-csi-s-a-spotkajmy-sie-na-mspo-energetab-lub-tek-day/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://csi.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 能源民营段一页",
+     "push": "STI-288GP 温宽 PoE",
+     "angle": "ENERGETAB 客群（能源自动化）的温宽 PoE 低价位",
+     "question": "其能源自动化项目的接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · Antaira 错位对照",
+     "push": "对照矩阵+样机",
+     "angle": "价位下切补充不当对标",
+     "question": "Antaira 线旁有没有低价位 PoE 位？",
+     "proof": "矩阵+报告"
+    },
+    {
+     "stage": "第 3 次跟进 · 项目量阶梯",
+     "push": "分销阶梯",
+     "angle": "百万订单流水口的阶梯",
+     "question": "阶梯与账期结构？",
+     "proof": "框架草样"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "克拉科夫 30 年工业分销龙头：Antaira 工业以太网+工控机全链；百万订单、三展连赶",
+     "②芯片/型号": "Antaira（美系工业以太网）",
+     "③KP 深挖": "kontakt@ 口；能源展/电子制造展是触达节点",
+     "④Saga 对标": "温宽 PoE 低价位错位（不当正面对标）；仅民营工业/能源段",
+     "⑤在乎与偏好": "供货稳定+文档+长期供货承诺",
+     "⑥SWOT": "S 规模口碑 / W 军防公共段多边界 / O 能源自动化潮 / T 美系工业盘"
+    },
+    "care": [
+     "长期供货承诺",
+     "文档随附"
+    ],
+    "swot": {
+     "S": "规模+口碑",
+     "W": "边界多",
+     "O": "能源潮",
+     "T": "美系盘"
+    },
+    "uncertain": {
+     "产品线核实": "Antaira SKU 价带未核",
+     "合作方式": "阶梯账期未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "oferta 页未逐抓"
+   },
+   "unknowns": [
+    "Antaira 在售矩阵",
+    "能源段项目量",
+    "阶梯账期"
+   ],
+   "email": "Hi CSI team,\n\n30+ years, a million orders, and the September triple-header - MSPO, ENERGETAB, TEK.day - says CSI runs hard.\n\nWe build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - sized as a cost-friendly complement beside your Antaira line for energy-automation and factory builds. Reference: $74.8 USD EXW.\n\nOne question: in your energy-automation projects, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your energy-automation projects, who supplies the PoE access layer today?",
+   "alt2": "STI-280GE",
+   "alt3": "STI-480XGGM",
+   "tag": "波兰|工业分销龙头|Antaira错位|军防公共段不触",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-048",
+   "fact": "mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产网；闭公司内训业务",
+   "inference": "全真交换硬件教具是其每一期的消耗位——MTCSWE 3 天国课尤其吃交换机台数",
+   "hypothesis": "1675+ 学员池=培训后项目采购转化口",
+   "evidence_main": "https://mtik.pl/",
+   "tech": "十证全 Trainer；教具全真（路由/交换/AP 不模拟）",
+   "hr": "20+ 年经验；克拉科夫教室+上门内训",
+   "contact_found": "biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（Google）存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "克拉科夫 MikroTik 全课程培训中心（全真硬件 8 人小班）",
+    "产品线与在售品牌": "MTCNA→MTCINE 十证课程+公司内训",
+    "目标行业与场景": "工程师认证；PL/UA/USA/UK 生产网背景",
+    "团队与规模": "Trainer 本人+教室",
+    "决策链与对接人": "Ihor Hreskiv（biuro@ 直达）",
+    "技术与认证": "官方 Trainer 十证",
+    "采购与供应链信号": "全真教具批次（交换是 MTCSWE 耗材）",
+    "近期动态与线索": "2026-10 排期：MTCNA/MTCIPv6E/MTCRE 连开",
+    "与我方契合点": "MTCSWE 交换教具箱——期期消耗的台位",
+    "风险与注意": "师者红线：教具真实报价，不得“师供价”话术"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“315+ szkoleń / 1675+ kursantów / Stacjonarnie, na realnym sprzęcie, w grupach do 8 osób…Routery, switche, AP — fizyczne, nie wirtualne”",
+     "source": "https://mtik.pl/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“MTCNA 4-6 października 2026 1400 PLN / MTCIPv6E 11-12 / MTCRE 18-19 1900 PLN Kraków ul. Starowiślna 20/3”",
+     "source": "https://mtik.pl/szkolenia"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mtik.pl/kontakt"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · MTCSWE 教具箱",
+     "push": "STC-28DGGPM×8 教具箱",
+     "angle": "其全真硬件工位每台的交换位",
+     "question": "MTCSWE 课每个工位配什么交换机？",
+     "proof": "教具拓扑+箱价"
+    },
+    {
+     "stage": "第 2 次跟进 · 内训教具",
+     "push": "公司内训随车教具",
+     "angle": "上门内训的便携实验架",
+     "question": "内训教具现用箱单？",
+     "proof": "便携箱方案"
+    },
+    {
+     "stage": "第 3 次跟进 · 学员转化",
+     "push": "学员集采码",
+     "angle": "1675+ 学员的项目采购口",
+     "question": "学员毕业后采购清单推荐位？",
+     "proof": "转化测算"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "克拉科夫全真硬件培训教室（8 人小班）；十证 Trainer；315+ 期 1675+ 学员",
+     "②芯片/型号": "教具全真 MikroTik（路由/交换/AP）",
+     "③KP 深挖": "Hreskiv biuro@ 直达",
+     "④Saga 对标": "MTCSWE 工位交换教具——STC-28DGGPM（期期消耗）",
+     "⑤在乎与偏好": "教具要真硬件、可搬动（内训）",
+     "⑥SWOT": "S 全真实操口碑 / W 个人带宽 / O MTCSWE 3 日课耗材位 / T MikroTik 官配"
+    },
+    "care": [
+     "教具真硬件口径"
+    ],
+    "swot": {
+     "S": "全真教室口碑",
+     "W": "个人带宽",
+     "O": "MTCSWE 耗材",
+     "T": "官配"
+    },
+    "uncertain": {
+     "产品线核实": "教具箱型号未公开",
+     "合作方式": "学员转化未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "教具箱现用型号",
+    "内训便携箱",
+    "学员推荐位"
+   ],
+   "email": "Hi Ihor,\n\nI found mtik.pl - a real-hardware classroom in Kraków, 315+ courses, 1.675+ students, everything physical, no simulators. That is the right religion.\n\nWe build a compact 8-port managed PoE switch that fits a per-student switching bench for MTCSWE days (STP/VLAN/L2 labs, 802.3af/at). Reference: $99 USD EXW per unit, trainer pricing for bench sets.\n\nOne question: which switch do you put on each student bench for the switching labs today?\n\nIf useful, I can send a bench unit plus a suggested lab topology. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which switch do you put on each student bench for the switching labs today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "波兰|全真教室|十证Trainer|MTCSWE教具耗材|师者红线",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-049",
+   "fact": "C3NET（Jacek Rokicki）：CSV 载 5 证顾问（MTCNA+MTCTCE+MTCINE+MTCSE+MTCEWE）；c3net.pl 2026-09-28 抓取 HTTP 500（休眠）；mt-support@c3net.pl 技术支持域邮箱存在",
+   "inference": "独立顾问/支持工作室；站休眠但支持邮箱域 MX 自托管存活→业务在邮件层运转",
+   "hypothesis": "MTCEWE+MTCTCE 组合=企业无线+QoS 工程线；教具双证型同 A-035 打法",
+   "evidence_main": "https://c3net.pl/（HTTP 500 实测）",
+   "tech": "5 证（MTCINE+MTCEWE 双高阶）",
+   "hr": "工作室级",
+   "contact_found": "mt-support@c3net.pl +48 506 457 447（CSV）；MX=mx.c3net.pl 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "网页 500 休眠；联网走 mt-support@+手机",
+   "dims": {
+    "业务定位": "独立顾问工作室（支持域邮箱运转中，站休眠）",
+    "产品线与在售品牌": "咨询/支持",
+    "目标行业与场景": "企业无线/QoS 工程（证书组合推断）",
+    "团队与规模": "个人/微室",
+    "决策链与对接人": "Jacek Rokicki",
+    "技术与认证": "MTCNA/MTCTCE/MTCINE/MTCSE/MTCEWE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "站 500（2026-09-28）",
+    "与我方契合点": "企业无线工程随单接入层",
+    "风险与注意": "网页休眠如实标注；电话+支持邮箱双轨"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Jacek Rokicki/C3NET MTCNA+MTCTCE+MTCINE+MTCSE+MTCEWE",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "c3net.pl 抓取返回 500；mt-support@c3net.pl 域 MX=mx.c3net.pl 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://c3net.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 支持邮箱短函",
+     "push": "L2+ 特性表",
+     "angle": "MTCEWE 工程线一句话",
+     "question": "无线工程随单接入层现供？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 2 次跟进 · 电话补位",
+     "push": "—",
+     "angle": "站休眠→电话确认执业",
+     "question": "目前项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "评测条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "5 证双高阶独立工作室；站 500 休眠但支持邮箱域存活",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "Rokicki；mt-support@+手机",
+     "④Saga 对标": "企业无线随单接入",
+     "⑤在乎与偏好": "高效短函",
+     "⑥SWOT": "S 双高阶 / W 站休眠 / O 随单 / T.其他顾问"
+    },
+    "care": [
+     "短函高效"
+    ],
+    "swot": {
+     "S": "双高阶",
+     "W": "站休眠",
+     "O": "随单",
+     "T": "竞争"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未知",
+     "缺口证据": "站 500"
+    },
+    "gap_proof": "HTTP 500 实测"
+   },
+   "unknowns": [
+    "执业状态",
+    "项目方向",
+    "随单现供"
+   ],
+   "email": "Hi Jacek,\n\nI found C3NET via the MikroTik consultant list - MTCINE plus MTCEWE plus MTCSE is a serious wireless-enterprise combination.\n\nWe build managed PoE switches that fit the access layer of enterprise wireless builds (802.3af/at, full L2, watchdog). Reference: 8-port bench unit $99 USD EXW.\n\nOne question: in your wireless projects, who supplies the switching layer today?\n\nIf useful, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your wireless projects, who supplies the switching layer today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "波兰|双高阶工作室|站休眠|支持邮箱存活",
+   "batch": 15,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-050",
+   "fact": "SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续",
+   "inference": "华沙个体顾问，双高阶（交换+企业无线）；公开内容面极薄——按工商存续+NIP 采信，邮件层运转",
+   "hypothesis": "MTCSWE+MTCEWE 对口企业 WLAN/交换工程线",
+   "evidence_main": "https://sinux.pl/",
+   "tech": "5 证双高阶（MTCSWE+MTCEWE）",
+   "hr": "个体（NIP 在册）",
+   "contact_found": "r.labus@sinux.pl +48 666 385 002（CSV 与站内一致）；MX=mail.sinux.pl 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "单页站=信息量低，电话确认执业线",
+   "dims": {
+    "业务定位": "华沙个体顾问（NIP 登记）；MTCSWE+MTCEWE 双高阶",
+    "产品线与在售品牌": "咨询",
+    "目标行业与场景": "交换/企业无线工程（证书推断）",
+    "团队与规模": "个体",
+    "决策链与对接人": "Labus 本人",
+    "技术与认证": "MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "官网 WordPress 默认单页（名称/地址/电话/NIP）",
+    "与我方契合点": "双高阶特性对话",
+    "风险与注意": "公开内容薄，如实标注；电话核实"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“SINUX Ryszard Labus, ul. Domaniewska 47/10, 02-672 Warszawa, NIP 548-138-01-53, tel 666 385 002”",
+     "source": "https://sinux.pl/"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Ryszard Labus/SINUX MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话核实+短函",
+     "push": "L2+ 特性表",
+     "angle": "双高阶对口一句话",
+     "question": "客户项目接入层有空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 2 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "评测条款"
+    },
+    {
+     "stage": "第 3 次跟进 · 随单",
+     "push": "工程随单价",
+     "angle": "项目随单",
+     "question": "随单结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "华沙 NIP 在册个体顾问；MTCSWE+MTCEWE 双高阶；站单页",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "Labus r.labus@ 与站互证",
+     "④Saga 对标": "双高阶特性对话",
+     "⑤在乎与偏好": "直接",
+     "⑥SWOT": "S 双高阶+NIP 实存 / W 内容薄 / O 工程随单 / T 竞争"
+    },
+    "care": [
+     "直接高效"
+    ],
+    "swot": {
+     "S": "双高阶",
+     "W": "内容薄",
+     "O": "随单",
+     "T": "竞争"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "单页站"
+    },
+    "gap_proof": "官网单页"
+   },
+   "unknowns": [
+    "项目方向",
+    "随单现供",
+    "评测意愿"
+   ],
+   "email": "Hi Ryszard,\n\nI found SINUX on the MikroTik consultant list - MTCSWE and MTCEWE together points to switching and enterprise wireless work.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Reference: 24-port model $165 USD EXW; bench 8-port $99.\n\nOne question: do your client projects leave room for an alternative on the switching layer?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Do your client projects leave room for an alternative on the switching layer?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "波兰|双高阶个体|NIP在册|单页站|电话核实",
+   "batch": 15,
+   "date": "2026-09-28"
+  }
+ ]
+}

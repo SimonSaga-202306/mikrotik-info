@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STI-288GP
+p1: STC-28DGGPM
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Pína 个人 ISP：POP/CPE 8 口盒常换购（$99 锚点一致）；邮件极简三行字；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -76,7 +76,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 PoE++（小而多的接入点位）
 
@@ -130,23 +130,45 @@ updated: 2026-09-28
   > Služby: - poskytovatel internetu - návrh a správa sítě - provozování serverů - hosting.
   > 来源：https://www.edb.cz/firma-1000296-martin-pina-olomouc/kontakt
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Olomouc 个人 ISP+培训；MUM 2012 HA 讲师；firmy.cz 评价两极
+- **②芯片/型号**：自有网 MikroTik
+- **③KP 深挖**：本人双电话不一致（CSV vs 工商），以手机为准
+- **④Saga 对标**：POP/CPE 8 口盒常换购
+- **⑤在乎与偏好**：极简报价省时
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Poskytuji připojení k internetu. Provádím návrhy a správy sítí.”+评价“Pan Pina patří mezi nejlepší síťaře, školí MikroTiky”
+  > “Poskytuji připojení k internetu. Provádím návrhy a správy sítí.”+评价“Pan Pina patří mezi nejlepší síťaře, školí MikroTiky”
+  > 来源：https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html
+- **【技术与认证】**“High availability network services using MikroTik RouterOS by Martin Pina (hanacke.net, Czech Republic)” MUM PL12
+  > “High availability network services using MikroTik RouterOS by Martin Pina (hanacke.net, Czech Republic)” MUM PL12
+  > 来源：https://mum.mikrotik.com/presentations/PL12/PL12.pdf
+- **【联系方式】**firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Pína 个人 ISP：POP/CPE 8 口盒常换购（$99 锚点一致）；邮件极简三行字 |
+| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：工业非管理 8口 PoE af/at，250m 延伸供电，冗余 DC44–57V（过压/反接保护），DIN 轨，3 年保
+- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：样板网
+- **W**：客服带宽
+- **O**：常量换件
+- **T**：不读长信
 
 ## 触达与风险红线
 
@@ -180,21 +202,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
 Hi Martin,
 
-I came across Martin Pina - 集成商/顾问（MikroTik 认证）.
+I found you through the MikroTik consultant list - and your MUM talk on high-availability services is still on the playlist.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build a compact 8-port managed PoE switch with a hardware watchdog (reboots a hung AP/CPE without a site visit). Reference: $99 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: which switch model sits in your POP cabinets today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+Short answer is enough. If useful, I ship one evaluation unit; if not, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

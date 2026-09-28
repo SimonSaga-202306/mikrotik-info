@@ -1550,6 +1550,22 @@
         "locator": "L451"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L501"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L522"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L527"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L532"
+      },
+      {
         "path": "profile/A/A-046-AiRiCOM-法国.md",
         "locator": "L122"
       },
@@ -1560,6 +1576,18 @@
       {
         "path": "profile/A/A-046-AiRiCOM-法国.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-046-AiRiCOM-法国.md",
+        "locator": "L150"
       }
     ]
   },
@@ -3244,8 +3272,26 @@
         "locator": "L700"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L833"
+      },
+      {
         "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
         "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L150"
+      }
+    ]
+  },
+  {
+    "url": "https://c3net.pl/（HTTP",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L807"
       }
     ]
   },
@@ -4140,6 +4186,18 @@
         "locator": "L530"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L601"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L622"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L637"
+      },
+      {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L120"
       },
@@ -4154,6 +4212,42 @@
       {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://csi.pl/realizacje/referencje-od-zakladow-elektroniki-i-mechaniki-precyzyjnej-rg-s-a/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L627"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L148"
+      }
+    ]
+  },
+  {
+    "url": "https://csi.pl/wrzesniowy-harmonogram-csi-s-a-spotkajmy-sie-na-mspo-energetab-lub-tek-day/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L632"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L151"
       }
     ]
   },
@@ -11312,6 +11406,18 @@
         "locator": "L940"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L432"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L828"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L928"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L79"
       },
@@ -11429,6 +11535,18 @@
       },
       {
         "path": "profile/A/A-040-Gianpiero Ciacci-意大利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-045-Dan Erhan-摩尔多瓦.md",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/A/A-049-Jacek Rokicki - C3NET-波兰.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
         "locator": "L147"
       },
       {
@@ -16738,6 +16856,14 @@
         "locator": "L609"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L707"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L728"
+      },
+      {
         "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
         "locator": "L124"
       },
@@ -16752,6 +16878,10 @@
       {
         "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
         "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L149"
       }
     ]
   },
@@ -16766,6 +16896,34 @@
       {
         "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
         "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://mtik.pl/kontakt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L738"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://mtik.pl/szkolenia",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L733"
+      },
+      {
+        "path": "profile/A/A-048-Ihor Hreskiv - mtik.pl-波兰.md",
+        "locator": "L152"
       }
     ]
   },
@@ -16998,6 +17156,20 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/presentations/PL12/PL12.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L237"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L150"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/presentations/UK18/presentation_5911_1539085610.pdf",
     "http_checked": false,
     "occurrences": [
@@ -17108,6 +17280,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-746/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L149"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L155"
       }
     ]
   },
@@ -19938,8 +20136,16 @@
         "locator": "L52"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L37"
+      },
+      {
         "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
         "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-041-Lorenzo Busatti - Grifonline-意大利.md",
+        "locator": "L152"
       }
     ]
   },
@@ -21506,12 +21712,24 @@
         "locator": "L777"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L902"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L923"
+      },
+      {
         "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
         "locator": "L122"
       },
       {
         "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-050-Ryszard Labus - SINUX-波兰.md",
+        "locator": "L144"
       }
     ]
   },
@@ -33626,12 +33844,32 @@
         "locator": "L210"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L211"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L242"
+      },
+      {
         "path": "profile/A/A-043-Martin Pina-捷克.md",
         "locator": "L122"
       },
       {
         "path": "profile/A/A-043-Martin Pina-捷克.md",
         "locator": "L125"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-043-Martin Pina-捷克.md",
+        "locator": "L153"
       }
     ]
   },
@@ -43486,6 +43724,22 @@
         "locator": "L131"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L132"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L137"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L142"
+      },
+      {
         "path": "profile/A/A-042-PF Tech-意大利.md",
         "locator": "L119"
       },
@@ -43500,6 +43754,18 @@
       {
         "path": "profile/A/A-042-PF Tech-意大利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L144"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-042-PF Tech-意大利.md",
+        "locator": "L150"
       }
     ]
   },
@@ -48402,6 +48668,18 @@
         "locator": "L299"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L311"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L342"
+      },
+      {
         "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
         "locator": "L122"
       },
@@ -48412,6 +48690,14 @@
       {
         "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L153"
       }
     ]
   },
@@ -48428,8 +48714,16 @@
         "locator": "L305"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
+        "locator": "L337"
+      },
+      {
         "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
         "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-044-Westercom-捷克-斯洛伐克.md",
+        "locator": "L150"
       }
     ]
   },

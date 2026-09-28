@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `b6c4caad8abb` | 2026-09-28T13:26:51+00:00 | 批4 (A-031..A-040 德国1+意大利9): VARIA分销白牌/Aikom交换机纳新窗/1off OptiWize管理面/EFA工业温宽错位/Ciacci公立红线户；29/29 OK audit0 |
 | `fff4065bd57a` | 2026-09-28T13:17:04+00:00 | 打通R56批3进入档案管道（ENRICH55注册+R56schema适配+OVERRIDE灌注P1/needs+custom_followup/email接线+渲染器防御）;批3希腊德国10档v2加厚生效 |
 | `d96c7b79d10b` | 2026-09-28T13:03:07+00:00 | 批3 (A-021..A-030 希腊5+德国5) 深挖调研+10档v2加厚：HellasCom集团合并触达/GTA休眠站e-dreams现职/MBN工业温宽/SKYTRON 9证/Kehrlein NDA/Gisbers MTCSWE采购窗；MX 10域全验；29/29 OK audit0 |
 | `14fb000aabda` | 2026-09-28T12:51:08+00:00 | 正名 Saga Telecom（替换 Saga Communications，567 档重生）+联系方式版式对齐 R41-R48 冻结断言+基线可达后测试转真实比对（29/29 OK） |

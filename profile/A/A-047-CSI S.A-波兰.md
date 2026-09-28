@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — CSI 30 年工业分销（Antaira 核心盘）：能源自动化民营段低价位错位；MSPO 军防+电车公共段一律不触（$74.8 锚点一致）；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -128,11 +128,36 @@ updated: 2026-09-28
   > Referencje udzielone od spółki Tramwaje Warszawskie sp. z o.o.
   > 来源：https://csi.pl/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：克拉科夫 30 年工业分销龙头：Antaira 工业以太网+工控机全链；百万订单、三展连赶
+- **②芯片/型号**：Antaira（美系工业以太网）
+- **③KP 深挖**：kontakt@ 口；能源展/电子制造展是触达节点
+- **④Saga 对标**：温宽 PoE 低价位错位（不当正面对标）；仅民营工业/能源段
+- **⑤在乎与偏好**：供货稳定+文档+长期供货承诺
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“ponad 30 lat…kompletne rozwiązania…przemysł, transport, logistyka, Digital Signage, security, energetyka”+“ponad 1 mln zamówień / 10 000 klientów”
+  > “ponad 30 lat…kompletne rozwiązania…przemysł, transport, logistyka, Digital Signage, security, energetyka”+“ponad 1 mln zamówień / 10 000 klientów”
+  > 来源：https://csi.pl/
+- **【产品线】**参考案例提及“artykuły Aaeon, VIA, Antaira, Schroff”+Od Aplex AiTRON 新闻
+  > 参考案例提及“artykuły Aaeon, VIA, Antaira, Schroff”+Od Aplex AiTRON 新闻
+  > 来源：https://csi.pl/realizacje/referencje-od-zakladow-elektroniki-i-mechaniki-precyzyjnej-rg-s-a/
+- **【近期动态】**“MSPO, ENERGETAB, TEK.day” 2026-09 三展（军防/能源/电子制造）
+  > “MSPO, ENERGETAB, TEK.day” 2026-09 三展（军防/能源/电子制造）
+  > 来源：https://csi.pl/wrzesniowy-harmonogram-csi-s-a-spotkajmy-sie-na-mspo-energetab-lub-tek-day/
+- **【联系方式】**kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://csi.pl/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | CSI 30 年工业分销（Antaira 核心盘）：能源自动化民营段低价位错位；MSPO 军防+电车公共段一律不触（$74.8 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -141,10 +166,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：规模+口碑
+- **W**：边界多
+- **O**：能源潮
+- **T**：美系盘
 
 ## 触达与风险红线
 
@@ -178,21 +203,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi CSI,
+Hi CSI team,
 
-I came across CSI S.A. - 分销（Antaira 授权）.
+30+ years, a million orders, and the September triple-header - MSPO, ENERGETAB, TEK.day - says CSI runs hard.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - sized as a cost-friendly complement beside your Antaira line for energy-automation and factory builds. Reference: $74.8 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: in your energy-automation projects, who supplies the PoE access layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

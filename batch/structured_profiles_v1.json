@@ -1708,7 +1708,7 @@
   ],
   "lang": "it",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Busatti WISP 教父（Grifonline ISP+Linkwave 双创始人）：POP 柜自愈看门狗语言开路（$99 锚点一致），教具/生态二轨",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -1748,11 +1748,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "PF Tech 分销+ROC 运营+监控工程三线：监控柜 24 口 PoE 牵头；公共监控段走规范",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -1789,12 +1789,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "cs",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "Pína 个人 ISP：POP/CPE 8 口盒常换购（$99 锚点一致）；邮件极简三行字",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STC-424DGGPM-280W",
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -1830,12 +1830,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STI-288GP",
+  "p1_reason": "Westercom 工业分销（Advantech EKI/Westermo）：EOL 替代场景低位温宽 PoE 补位不当对标（$74.8 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STI-288GP"
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -1873,11 +1873,11 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Erhan 摩尔多瓦双证、公开足迹缺失：先短信破冰，信息缺口如实标注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -1915,7 +1915,7 @@
   "risk_flags": [],
   "lang": "fr",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "AIRICOM IoT/M2M 分销：工业路由项目现场随单温宽 PoE；Red Lion/N-Tron 盘错位（$74.8 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -1956,7 +1956,7 @@
   "risk_flags": [],
   "lang": "pl",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "CSI 30 年工业分销（Antaira 核心盘）：能源自动化民营段低价位错位；MSPO 军防+电车公共段一律不触（$74.8 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -1999,7 +1999,7 @@
   ],
   "lang": "pl",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "mtik.pl 全真硬件教室：MTCSWE 工位交换教具期期消耗（$99 锚点一致）；师者红线",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -2040,7 +2040,7 @@
   "risk_flags": [],
   "lang": "pl",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "C3NET 双高阶工作室站休眠：支持邮箱域存活走 mt-support@；企业无线随单",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -2162,12 +2162,12 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "pl",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "SINUX 华沙个体双高阶（MTCSWE+MTCEWE）：特性表+电话核实（NIP 在册真实存续）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Busatti WISP 教父（Grifonline ISP+Linkwave 双创始人）：POP 柜自愈看门狗语言开路（$99 锚点一致），教具/生态二轨；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -132,11 +132,33 @@ updated: 2026-09-28
   > WordPress › Error — There has been a critical error on this website.
   > 来源：https://routing.wireless.academy/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：WISP 教父级：双公司创始人（1997/2006）、2010 起 Trainer、讲台常客、NPO 发起人
+- **②芯片/型号**：自有网 MikroTik 谱系
+- **③KP 深挖**：本人直达；training@ grifonline 域存活
+- **④Saga 对标**：POP 柜自愈 PoE；教具二轨
+- **⑤在乎与偏好**：讲台级技术正确性
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Founder of Grifonline S.r.l. [ISP] (1997), Founder of Linkwave [WISP] (2006), MikroTik Trainer (2010), Member of RIPE, AMS-IX, MIX-IT”
+  > “Founder of Grifonline S.r.l. [ISP] (1997), Founder of Linkwave [WISP] (2006), MikroTik Trainer (2010), Member of RIPE, AMS-IX, MIX-IT”
+  > 来源：https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf
+- **【近期动态】**routing.wireless.academy 返回 WordPress critical error（2026-09-28 实测）
+  > routing.wireless.academy 返回 WordPress critical error（2026-09-28 实测）
+  > 来源：https://routing.wireless.academy/
+- **【联系方式】**training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
+  > training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Busatti WISP 教父（Grifonline ISP+Linkwave 双创始人）：POP 柜自愈看门狗语言开路（$99 锚点一致），教具/生态二轨 |
 | 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -145,10 +167,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：教父级背书
+- **W**：个人维护
+- **O**：门徒圈
+- **T**：官配
 
 ## 触达与风险红线
 
@@ -186,21 +208,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Lorenzo,
 
-I came across Grifonline - 集成商/顾问（MikroTik 认证）.
+Your mAP talk at MUM Dallas is still passed around - and Grifonline + Linkwave plus a trainer badge since 2010 is a full WISP life.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build managed PoE switches with a hardware watchdog that power-cycles a hung AP/CPE by itself - built for exactly the dusty POP cabinets WISPs fight every summer. 8-port model reference: $99 USD EXW.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
+One question: how many times a year does someone drive to a POP cabinet just to power-cycle one device?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

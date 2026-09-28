@@ -150,6 +150,21 @@ OVERRIDE = {
            'p1_reason': 'EFA/Relatech 工业 DT：温宽 PoE+看门狗错位 Red Lion/N-Tron（$74.8 邮件锚点一致）；水务公用段规避'},
  'A-040': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
            'p1_reason': 'Ciacci 前公立大学 IT 主管：公立红线户，仅私人顾问/鉴定线；实验室工具机 $99'},
+ # ── R56 批 5（A-041..A-050 深挖 2026-09-28）──
+ 'A-041': {'p1': 'STC-28DGGPM', 'p1_reason': 'Busatti WISP 教父（Grifonline ISP+Linkwave 双创始人）：POP 柜自愈看门狗语言开路（$99 锚点一致），教具/生态二轨'},
+ 'A-042': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'PF Tech 分销+ROC 运营+监控工程三线：监控柜 24 口 PoE 牵头；公共监控段走规范'},
+ 'A-043': {'p1': 'STC-28DGGPM', 'p1_reason': 'Pína 个人 ISP：POP/CPE 8 口盒常换购（$99 锚点一致）；邮件极简三行字'},
+ 'A-044': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'Westercom 工业分销（Advantech EKI/Westermo）：EOL 替代场景低位温宽 PoE 补位不当对标（$74.8 锚点一致）'},
+ 'A-045': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Erhan 摩尔多瓦双证、公开足迹缺失：先短信破冰，信息缺口如实标注'},
+ 'A-046': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'AIRICOM IoT/M2M 分销：工业路由项目现场随单温宽 PoE；Red Lion/N-Tron 盘错位（$74.8 锚点一致）'},
+ 'A-047': {'needs': {'industrial': True}, 'p1': 'STI-288GP',
+           'p1_reason': 'CSI 30 年工业分销（Antaira 核心盘）：能源自动化民营段低价位错位；MSPO 军防+电车公共段一律不触（$74.8 锚点一致）'},
+ 'A-048': {'needs': {'training': True}, 'p1': 'STC-28DGGPM',
+           'p1_reason': 'mtik.pl 全真硬件教室：MTCSWE 工位交换教具期期消耗（$99 锚点一致）；师者红线'},
+ 'A-049': {'p1': 'STC-28DGGPM', 'p1_reason': 'C3NET 双高阶工作室站休眠：支持邮箱域存活走 mt-support@；企业无线随单'},
+ 'A-050': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SINUX 华沙个体双高阶（MTCSWE+MTCEWE）：特性表+电话核实（NIP 在册真实存续）'},
 }
 
 out = {}

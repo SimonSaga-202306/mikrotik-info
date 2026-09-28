@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），三星重点
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — AIRICOM IoT/M2M 分销：工业路由项目现场随单温宽 PoE；Red Lion/N-Tron 盘错位（$74.8 锚点一致）；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -127,11 +127,33 @@ updated: 2026-09-28
   > Routeurs 4G/5G industriels · Cybersécurité OT · Gateway LoRaWAN · Convertisseurs de protocole
   > 来源：https://airicom.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：法国 IoT/M2M 专家分销：LoRaWAN+工业路由+HMS 全线+OT 网安目录
+- **②芯片/型号**：Red Lion/N-Tron 工业以太网盘（CSV）
+- **③KP 深挖**：marketing@airicom.fr 口；双域并存
+- **④Saga 对标**：工业路由随单温宽 PoE 错位
+- **⑤在乎与偏好**：目录化、文档齐
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【产品线】**供应商墙：Milesight/Intesis/Ewon/Anybus/Watteco/Advantech；类目：Gateway LoRaWAN、Routeurs 4G/5G industriels、Cybersécurité OT、Convertisseurs de protocole、Gateway de climatisation KNX
+  > 供应商墙：Milesight/Intesis/Ewon/Anybus/Watteco/Advantech；类目：Gateway LoRaWAN、Routeurs 4G/5G industriels、Cybersécurité OT、Convertisseurs de protocole、Gateway de climatisation KNX
+  > 来源：https://airicom.com/
+- **【近期动态】**“SLIDER SITE Catalogue Cyberscurité OT”+三菱电机空调→KNX 网关件
+  > “SLIDER SITE Catalogue Cyberscurité OT”+三菱电机空调→KNX 网关件
+  > 来源：https://airicom.com/
+- **【联系方式】**marketing@airicom.fr（CSV）；.com MX=mx1.airicom.com / .fr MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > marketing@airicom.fr（CSV）；.com MX=mx1.airicom.com / .fr MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
+  > 来源：https://airicom.com/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | AIRICOM IoT/M2M 分销：工业路由项目现场随单温宽 PoE；Red Lion/N-Tron 盘错位（$74.8 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -140,10 +162,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（工业/楼宇），三星重点
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：类目全
+- **W**：交换非主轴
+- **O**：随单
+- **T**：美系盘
 
 ## 触达与风险红线
 
@@ -177,21 +199,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi AiRiCOM,
+Hi Airicom team,
 
-I came across AiRiCOM - 分销（HMS：Red Lion / N-Tron）.
+I browsed the catalog - LoRaWAN gateways, industrial 4G/5G routers, HMS protocol conversion - and noticed Red Lion / N-Tron on the industrial Ethernet side.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - sized as the field access layer right next to your industrial routers, at a much lighter price point. Reference: $74.8 USD EXW.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+One question: when your router projects go to the field, who supplies the powering switch layer today?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
