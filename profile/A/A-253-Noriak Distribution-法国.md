@@ -58,7 +58,61 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第13批.json`。
+
+- **业务定位**：雷恩消费外设批发平台（réseau 为其九类目之一）：Perle 授权为旧域时代关系（CSV 注）——配套深度未证，按浅渠道姿态。
+- **产品线与在售品牌**：音频/箱包/移动/游戏/连接/备份/网络/家居；Samsonite/Port/Cougar/Transcend 等消费品牌墙。
+- **目标行业与场景**：法国零售/店头渠道 6 名地推。
+- **团队与规模**：中小批发（消费向为主）。
+- **决策链与对接人**：contact@noriak-distri.com（搜索索引级，CSV 9-27 待核，旧域已注销）。
+- **技术与认证**：Perle 授权分销（CSV 9-27 记录为旧 noriak-reseau 时代口径）。
+- **采购与供应链信号**：网络类目SKU 轻提位：消费级 PoE 注入/小交换可拼货；工业件不合其谱系——不推荐。
+- **近期动态与线索**：新闻区仍在滚动（屏幕保护/平板新品类扩充）。
+- **与我方契合点**：réseau 类目录的 PoE 小件低价档（桌面级 8 口）。
+- **风险与注意**：先表核邮箱有效性再发件；工业产品线不提（不合其渠道）。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**雷恩旁的**消费外设批发商**（Perle 授权关系 CSV 存录）：音频/箱包/移动/外设/游戏配件/连接件/备份/网络/家居配件九类目；6 名地推覆盖全法国。
+  > Grossiste en périphériques, matériels et consommables informatiques... audio, la bagagerie, la mobilité, les périphériques, les accessoires gaming, la connectique, la sauvegarde, le réseau et les accessoires résidentiels ‖ force de vente terrain composée de 6 commerciaux
+  > 来源：https://www.noriak-distri.com/
+- **【产品线与在售品牌】**伙伴墙消费向：Samsonite/Port Designs/Cougar/Transcend/JapanNext——réseau 仅九类目之一。
+  > （伙伴墙）Samsonite · Port Designs · Cougar · Transcend · JapanNext
+  > 来源：https://www.noriak-distri.com/
+- **【决策链与对接人】**contact@noriak-distri.com 系官网搜索索引级（CSV 9-27：official-search-only，首页未直接示出）——先表单/总机核收法。
+  > （CSV 2026-09-27 记record）contact@noriak-distri.com（待核：仅官网搜索索引，旧 noriak-reseau 域已注销）
+  > 来源：https://www.noriak-distri.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 表单/总机核联络+réseau 类目轻提
+
+- **推什么**：——（核实后再定）
+- **切入点**：联系页表单一句+一页：network/réseau 类目要不要消费级 PoE 小件供货？
+- **要问的问题**：réseau 类目现在由谁供货？有开新供应商位吗？
+- **随附证明**：法语一页简介+类目空档对照。
+
+### 第 2 次跟进 · 消费级 PoE 小件（桌面 8 口）
+
+- **推什么**：桌面级 8 口 PoE 小交换+PoE 注入器（目录件）
+- **切入点**：店头可摆的低价档网络小件（非工业线）。
+- **要问的问题**：店头 PoE 小件走低价档吗？
+- **随附证明**：小件一页价卡（法）。
+
+### 第 3 次跟进 · 分销条款/中性代发选项
+
+- **推什么**：—（条款）
+- **切入点**：中性发货/拼箱分销条款随件；不回即冻结。
+- **要问的问题**：（无需回）条款留档。
+- **随附证明**：条款一页（法）。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +123,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +148,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

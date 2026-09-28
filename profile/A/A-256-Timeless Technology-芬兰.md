@@ -58,7 +58,64 @@
 
 **PoE 功率预算和供电稳定性是验收红线**，虚标功率会当场翻车；必须送测、必须给整机功率实测数；部分非标 PoE 相机存在兼容性问题，要先拿他的机型测
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第13批.json`。
+
+- **业务定位**：芬兰增值进口商（ICT/工业 IoT/测量三域）：**Perle 为主推活跃牌——深绑，只做价位档空档**。
+- **产品线与在售品牌**：Perle 全线+Cailabs 高端光纤+Milesight/ControlByWeb IoT+Profitap TAP 等九系。
+- **目标行业与场景**：芬兰工业/资产监控/机房高端客群。
+- **团队与规模**：小型精品进口商（新闻频率高=活跃）。
+- **决策链与对接人**：info@timeless.fi（官网正文，CSV 9-27）。
+- **技术与认证**：Perle 授权（CSV+官网产品页双证）。
+- **采购与供应链信号**：Perle/Cailabs 高端价带之下：工业非管理低价档+商业 24 口接入层为其价带空档——从「补目录低价位」切入最稳。
+- **近期动态与线索**：Perle 三新闻连发=其 Perle 线正在强化——切勿替位，只旁位。
+- **与我方契合点**：工业非管理 8 口低价档（CNY 到岸）；LoRa 现场回传箱的 24 口/8 口接入位；SFP 配件。
+- **风险与注意**：Cailabs/Milesight 等高端位不碰；报价走 CNY+到岸总价、别低质量印象。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**波里的芬兰增值进口商：ICT+工业 IoT+测量技术三域（lisäarvoa tuottavana teknisenä maahantuojana）。
+  > Timeless Technology toimii lisäarvoa tuottavana teknisenä maahantuojana, joka on erikoistunut ICT, teollinen IoT ja mittaustekniikka tuotteisiin.
+  > 来源：https://timeless.fi/
+- **【产品线与在售品牌】**九系产品：**Perle Systems（路由/交换/控制台/终端/收发器/Ethernet Extender）**、Cailabs AROONA（MM→SM 光纤变换）、Milesight LoRaWAN、ControlByWeb PLC、Eos GNSS、Profitap TAP、Tempmate、Plug and Track、TITAN——工业链路全栈档位高。
+  > Perle Systems reitittimet, kytkimet, konsolipalvelimet, päätepalvelimet, mediamuuntimet ja Ethernet Extenderit ‖ Cailabs AROONA kuitumuuntimet ‖ Milesight LoRaWAN ‖ Profitap verkko-TAPit
+  > 来源：https://timeless.fi/
+- **【近期动态与线索】**2026-08/09 高频 Perle 新闻三件（IOLAN SCR/PerleCLOUD·PerleVIEW/IRG7000 工业 5G）——Perle 是其主推活跃牌。
+  > Perle IOLAN SCR – turvallinen konsolipalvelin（22/09/2026）‖ PerleCLOUD ja PerleVIEW（09/09/2026）‖ Perle IRG7000 – teollinen 5G-reititin（24/08/2026）
+  > 来源：https://timeless.fi/
+- **【决策链与对接人】**info@timeless.fi 官网公司页正文（CSV 9-27：official）；Pori 地址与 +358 44 998823… 座机同一。
+  > （CSV 2026-09-27 记录）info@timeless.fi（官网正文）；Pori 与电话匹配
+  > 来源：https://timeless.fi/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 目录低价位档：工业非管理+收发器一页
+
+- **推什么**：LT-IS6310G-2GX8GT（工业非管理 8×电口 + 2×上联光）+ 收发器
+- **切入点**：芬兰语/英语短件：在 Perle/Cailabs 高端的之下补一个友善价位的工业非管理档与收发器窄线（分销条件+CE 一体）。
+- **要问的问题**：目录里在高端之外有没有一个更友善的工业非管理价位档需求？
+- **随附证明**：工业件一页（芬/英）+ CE/EMC。
+
+### 第 2 次跟进 · 商业/LoRa 现场回传接入位
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：其工业 IoT 项目落回传位时的 24 口 PoE/接入层（Milesight 网关回传旁位）。
+- **要问的问题**：IoT 项目的回传/汇聚位接入层现在怎么配？
+- **随附证明**：24 口一页价卡。
+
+### 第 3 次跟进 · SFP 配件窄线
+
+- **推什么**：SFP/SFP+ 目录
+- **切入点**：光配件窄线低价档；不回即冻结。
+- **要问的问题**：—
+- **随附证明**：配件一页价卡。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -69,7 +126,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：PoE budget question on your camera jobs
 
@@ -94,7 +151,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|

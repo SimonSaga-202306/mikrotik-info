@@ -68,7 +68,61 @@
 
 他会拿 Cisco / 锐捷的功能逐条对表，缺一项就被记在小本子上；文档、MIB、CLI 手册必须一次给全；含糊其辞会立刻失去这类技术型客户的信任
 
-## 六、注意点
+## 六、深度加厚（R54 逐户调研）
+
+> 调研日期 **2026-09-28**；来源为客户官网/公开页面抓取，原文摘录见下一节，原始记录：`batch/A类加厚_2026-09-28_R54_第13批.json`。
+
+- **业务定位**：哈勒姆 SMB 一站式系统/网络管理商：Maurice 即网络招牌（评审三次点名）；A-259 MikroTrain 客户墙含 GPE=关系互证。
+- **产品线与在售品牌**：系统/网络管理+云+备份+咨询+托管；MikroTik 配置口碑在评审区。
+- **目标行业与场景**：当地 SMB 网络代维与布线项目（办公/小楼宇）。
+- **团队与规模**：小团队主理人制（no-nonsense 自述）。
+- **决策链与对接人**：info@gpe-networks.com（关联公司官网，CSV 9-27）。
+- **技术与认证**：MTCSWE + 官方顾问名录收录（CSV 9-23）。
+- **采购与供应链信号**：网络管理+布线项目=消耗位的 24 口接入层第二来源；布线案（评审称布线返工扎实）监测其案量。
+- **近期动态与线索**：评审近期活跃+签约习惯免合约=成交路径短。
+- **与我方契合点**：客户 SMB 项目 24 口 PoE 接入层+办公室小件；布线案配套机柜件。
+- **风险与注意**：与 A-259 Henk 的教师关系互证但各自独立、不代问；MikroTik 本位尊重，以第二来源/供货连续性话术。
+
+## 七、原文证据摘录（R54）
+
+> 下列引用为 2026-09-28 抓取的页面原文（非我方转述）；点不开或内容变动时，以抓取 JSON 中的记录为准。
+
+- **【业务定位】**哈勒姆 SMB 一站式 IT 商六服务：系统管理/**网络管理**/云/备份/咨询/网页托管，自述「保证全额 ICT 都安排妥」（无服务合约也能快 帮）。
+  > GPE Networks biedt maatwerk oplossingen voor iedere onderneming ‖ Systeembeheer · Netwerkbeheer · Cloud Diensten · Backup · Consultancy · Webhosting
+  > 来源：https://gpe-networks.com/
+- **【团队与规模】**Google 评审点名 Maurice 三次（「我们的网络传奇」、布线返工售后好评）——主理人即网络招牌：Maurice Van Der Grijspaard 持 MTCSWE（CSV 9-23 官方顾问名录收录）。
+  > （Google 评审）Maurice onze Netwerk legend! Wij hadden ontzettende moeiten met het instellen van onze Mikrotik Router. Gelukkig heeft GPE-Networks dit voor ons keurig weten in te stellen.‖Maurice heeft mij geholpen met mijn internetkabel aanleggen en testen
+  > 来源：https://gpe-networks.com/
+- **【决策链与对接人】**info@gpe-networks.com 关联公司官网联系页正文（CSV 9-27：official-company；个人归属按备注限制）。
+  > （CSV 2026-09-27 记录）info@gpe-networks.com（关联公司官网联系页正文）；钱 任限制见备注
+  > 来源：https://gpe-networks.com/
+
+## 八、3 步跟进计划（R54，**最多 3 次**）
+
+> 综合客户官网/公开资料与我方（Saga/SmartByte）型号与能力矩阵得出；**只做 3 次**，每次推进一个台阶，第三次后要么出单、要么降频。
+
+### 第 1 次跟进 · 网络管理项目 24 口接入层第二来源一页
+
+- **推什么**：LT-S8328GP-4GX24GT-S（24×千兆 PoE++ + 4×万兆上行 L2+）
+- **切入点**：荷语/英语一封：SMB 网络管理/办公室项目的 24 口 PoE 接入层第二来源（供货连续性+RMA 随行）。
+- **要问的问题**：客户项目的接入层目前固定配哪个牌？有第二来源位吗？
+- **随附证明**：一页报价（荷/英）+ 保修条款。
+
+### 第 2 次跟进 · 布线案配套与小件池
+
+- **推什么**：机柜件 + LT-IS6310G-2GX8GT 等小批
+- **切入点**：布线/机房小案的柜件与现场小件小批常备。
+- **要问的问题**：布线案配套的柜件/现场小件有常备需求吗？
+- **随附证明**：小批价卡一页。
+
+### 第 3 次跟进 · 价卡留档收口
+
+- **推什么**：—（价卡留档）
+- **切入点**：全品类价卡留档、不催单；无回复即冻结。
+- **要问的问题**：（无需回）价卡留档。
+- **随附证明**：全品类一页价卡。
+
+## 九、注意点
 
 **通用红线（所有客户适用）**
 
@@ -79,7 +133,7 @@
 5. 样机先送测，再谈价格。
 
 
-## 七、首触邮件（可直接发送）
+## 十、首触邮件（可直接发送）
 
 **主题**：Switching question for an MTCSWE holder
 
@@ -104,7 +158,7 @@ Best,
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ 一次只问一个问题。
 
-## 八、跟进记录
+## 十一、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
 |---|---|---|---|---|
