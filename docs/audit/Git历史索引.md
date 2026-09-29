@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `f90e8985d3b9` | 2026-09-29T01:17:56+00:00 | 批22 (A-211..A-220 意9西1): PAM墨西拿窄位/SCE建档供位同A-205/Sfera私营段/Sielco RENTRI软+Yealink支线/SIMNT Esperia-MePA守界私营主打/Sotech MSP fornitura硬缺口批内机选/SSC MEPA塔口一针/STL伦巴第布线双主业/Storelink ATM守界BMS窄位/LineasyCables三重守界Allied旁私营段;1/10建档 9出信 audit0 unittest29（沙盒历史事故重置恢复:已学备份取流正放）； |
 | `bb7c916500b5` | 2026-09-28T16:09:58+00:00 | 批21 (A-201..A-210 全意): Goretti Reti支线/IFI 27牌墙缝/JM ITService窄位/LocalNet Allied-Omada双银二线/Masetto建档供位/NC 700人BU窄口/NAEL低信号/NSI自研NSGest(Newsoft Zebra-3CX同盟)/Omniconnect军事守界商业段；1/10建档 9出信 audit0 unittest29 |
 | `18e7af08d94b` | 2026-09-28T15:58:34+00:00 | 批20 (A-191..A-200 全意): Coel Allied旁双线/ComputerTime MEPA守界/ConnectICS Yeastar/CTC硬件窄支线/Emilia Extreme二供位/Evergreen Esprinet前端窄位/FarPoint布线Cisco旁/Fiore自产Rack白牌/Gecopra铁路守界商业段/GIS安防私段；10/10出信 audit0 unittest29 |
 | `cb0aa25bc1a4` | 2026-09-28T15:51:25+00:00 | 批19 (A-181..A-190 德6法1意3): thinkGROUP企业段/Tiefenbach OEM兼容哲学/TQ制造商建档/wp.DATA SAP双线/Ziegler混合屋/Zorn 50年电工/GroupeNetworks MARSEILLE/AGinformatica宽分销MEPA守界/Agomir三柱/Asit rackAsit白牌通道；1/10建档不出信 9出信 audit0 unittest29 |

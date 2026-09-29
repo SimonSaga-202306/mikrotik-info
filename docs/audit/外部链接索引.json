@@ -2250,6 +2250,14 @@
         "locator": "反向信号名单!D757"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L812"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L833"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L10"
       },
@@ -2260,6 +2268,10 @@
       {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -2512,6 +2524,14 @@
         "locator": "反向信号名单!D824"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L477"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L182"
       },
@@ -2522,6 +2542,10 @@
       {
         "path": "profile/A/A-246-Fredrik Hellgren-瑞典.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-246-Fredrik Hellgren-瑞典.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -4226,6 +4250,14 @@
         "locator": "反向信号名单!D827"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L545"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L566"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L210"
       },
@@ -4236,6 +4268,10 @@
       {
         "path": "profile/A/A-247-Marco Boschini-意大利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-247-Marco Boschini-意大利.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -4434,6 +4470,22 @@
         "locator": "反向信号名单!D839"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L210"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L100"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L121"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L90"
       },
@@ -4454,8 +4506,16 @@
         "locator": "L39"
       },
       {
+        "path": "profile/A/A-243-Tadeusz Ruchlewicz-波兰.md",
+        "locator": "L146"
+      },
+      {
         "path": "profile/A/A-252-Kajetan Tadra-波兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-252-Kajetan Tadra-波兰.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -5582,6 +5642,14 @@
         "locator": "反向信号名单!D1032"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L545"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L566"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L522"
       },
@@ -5592,6 +5660,10 @@
       {
         "path": "profile/A/A-257-DSSI-葡萄牙.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-257-DSSI-葡萄牙.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -7432,6 +7504,14 @@
         "locator": "反向信号名单!D91"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L812"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L833"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A260-A279.json",
         "locator": "L11"
       },
@@ -7442,6 +7522,10 @@
       {
         "path": "profile/A/A-260-Maurice Van Der Grijspaarde-荷兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-260-Maurice Van Der Grijspaarde-荷兰.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -8232,6 +8316,20 @@
     ]
   },
   {
+    "url": "https://hu.linkedin.com/company/youngbts",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L210"
+      },
+      {
+        "path": "profile/A/A-233-Young B.T.S. Ltd-匈牙利.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://humanart.online-reseller.de/eshop.php",
     "http_checked": false,
     "occurrences": [
@@ -8510,6 +8608,14 @@
         "locator": "反向信号名单!D1033"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L655"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L786"
       },
@@ -8520,6 +8626,10 @@
       {
         "path": "profile/A/A-238-Infinite Technology-爱尔兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-238-Infinite Technology-爱尔兰.md",
+        "locator": "L147"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -8860,6 +8970,14 @@
         "locator": "反向信号名单!D764"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L299"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L118"
       },
@@ -8870,6 +8988,10 @@
       {
         "path": "profile/A/A-244-Bartłomiej Rodek-波兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-244-Bartłomiej Rodek-波兰.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -10020,8 +10142,20 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L545"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L566"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L466"
+      },
+      {
+        "path": "profile/A/A-227-KNT Technology SP. Z O.O-波兰.md",
+        "locator": "L147"
       }
     ]
   },
@@ -10856,6 +10990,14 @@
         "locator": "反向信号名单!D834"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L812"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L833"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L314"
       },
@@ -10866,6 +11008,10 @@
       {
         "path": "profile/A/A-250-Péter Major-匈牙利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-250-Péter Major-匈牙利.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -17334,6 +17480,14 @@
         "locator": "反向信号名单!D833"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L367"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L388"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L694"
       },
@@ -17344,6 +17498,10 @@
       {
         "path": "profile/A/A-235-László Kalapos-匈牙利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-235-László Kalapos-匈牙利.md",
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -17770,6 +17928,20 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/2019/EU/agenda/UK",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L477"
+      },
+      {
+        "path": "profile/A/A-236-Leo De Geer-瑞典.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/2019/HU/agenda",
     "http_checked": false,
     "occurrences": [
@@ -18146,6 +18318,14 @@
         "locator": "反向信号名单!D762"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L100"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L121"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L66"
       },
@@ -18156,6 +18336,10 @@
       {
         "path": "profile/A/A-242-Mikrotik Warsaw Training Center-波兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-242-Mikrotik Warsaw Training Center-波兰.md",
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -20166,6 +20350,14 @@
         "locator": "反向信号名单!D998"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L32"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L310"
       },
@@ -20176,6 +20368,10 @@
       {
         "path": "profile/A/A-221-Pijl Solutions-荷兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-221-Pijl Solutions-荷兰.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -21278,6 +21474,14 @@
         "locator": "反向信号名单!D1002"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L210"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L358"
       },
@@ -21288,6 +21492,10 @@
       {
         "path": "profile/A/A-223-S.A.B.E.L. Handels GmbH-奥地利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-223-S.A.B.E.L. Handels GmbH-奥地利.md",
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -23122,6 +23330,14 @@
         "locator": "反向信号名单!D1013"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L32"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L586"
       },
@@ -23132,6 +23348,10 @@
       {
         "path": "profile/A/A-231-Specto Remote AS-挪威.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-231-Specto Remote AS-挪威.md",
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -23536,6 +23756,14 @@
         "locator": "反向信号名单!D1008"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L744"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L526"
       },
@@ -23546,6 +23774,10 @@
       {
         "path": "profile/A/A-229-Stovaris Sp. z o.o-波兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-229-Stovaris Sp. z o.o-波兰.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -24028,6 +24260,14 @@
         "locator": "反向信号名单!D1029"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L367"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L388"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L474"
       },
@@ -24038,6 +24278,10 @@
       {
         "path": "profile/A/A-255-The Junction-挪威.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-255-The Junction-挪威.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -24368,6 +24612,14 @@
         "locator": "反向信号名单!D1031"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L477"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L498"
       },
@@ -24378,6 +24630,10 @@
       {
         "path": "profile/A/A-256-Timeless Technology-芬兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-256-Timeless Technology-芬兰.md",
+        "locator": "L147"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -25090,6 +25346,14 @@
         "locator": "反向信号名单!D1004"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L367"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L388"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L410"
       },
@@ -25100,6 +25364,10 @@
       {
         "path": "profile/A/A-225-DDS Netcom AG-瑞士.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-225-DDS Netcom AG-瑞士.md",
+        "locator": "L143"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -26006,6 +26274,14 @@
         "locator": "反向信号名单!D1011"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L812"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L833"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L554"
       },
@@ -26016,6 +26292,10 @@
       {
         "path": "profile/A/A-230-4service s.r.o-捷克.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-230-4service s.r.o-捷克.md",
+        "locator": "L141"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -30778,6 +31058,14 @@
         "locator": "反向信号名单!D1024"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L299"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L450"
       },
@@ -30788,6 +31076,10 @@
       {
         "path": "profile/A/A-254-Connect Data-法国.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-254-Connect Data-法国.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -31924,6 +32216,14 @@
         "locator": "反向信号名单!D1016"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L100"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L121"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L610"
       },
@@ -31934,6 +32234,10 @@
       {
         "path": "profile/A/A-232-Databox-葡萄牙.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-232-Databox-葡萄牙.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -33952,6 +34256,14 @@
         "locator": "反向信号名单!D825"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L545"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L566"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L754"
       },
@@ -33962,6 +34274,10 @@
       {
         "path": "profile/A/A-237-Philippe ROBERT-瑞士.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-237-Philippe ROBERT-瑞士.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -35634,6 +35950,14 @@
         "locator": "反向信号名单!D1005"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L477"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L438"
       },
@@ -35644,6 +35968,10 @@
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -35748,6 +36076,14 @@
         "locator": "反向信号名单!D756"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L744"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L810"
       },
@@ -35758,6 +36094,10 @@
       {
         "path": "profile/A/A-239-Patrik Schaub-德国.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-239-Patrik Schaub-德国.md",
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -38806,6 +39146,14 @@
         "locator": "反向信号名单!D1003"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L299"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L382"
       },
@@ -38816,6 +39164,10 @@
       {
         "path": "profile/A/A-224-Salzgeber GmbH-奥地利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-224-Salzgeber GmbH-奥地利.md",
+        "locator": "L143"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -41180,6 +41532,14 @@
         "locator": "反向信号名单!D829"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L655"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L246"
       },
@@ -41190,6 +41550,10 @@
       {
         "path": "profile/A/A-248-Victor Bolaños Guerra-西班牙.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-248-Victor Bolaños Guerra-西班牙.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -42396,6 +42760,16 @@
     ]
   },
   {
+    "url": "https://www.mikrotik.se",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L456"
+      }
+    ]
+  },
+  {
     "url": "https://www.mikrotik.se/",
     "http_checked": false,
     "occurrences": [
@@ -42614,6 +42988,14 @@
         "locator": "反向信号名单!D90"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L744"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L582"
       },
@@ -42624,6 +43006,10 @@
       {
         "path": "profile/A/A-259-Henk Veldkamp-荷兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-259-Henk Veldkamp-荷兰.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -44742,6 +45128,14 @@
         "locator": "反向信号名单!D1007"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L655"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L498"
       },
@@ -44752,6 +45146,10 @@
       {
         "path": "profile/A/A-228-Nomios Poland Sp. z o. o-波兰.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-228-Nomios Poland Sp. z o. o-波兰.md",
+        "locator": "L143"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -44854,6 +45252,14 @@
         "locator": "反向信号名单!D1023"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第26批.json",
+        "locator": "L210"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L410"
       },
@@ -44864,6 +45270,10 @@
       {
         "path": "profile/A/A-253-Noriak Distribution-法国.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-253-Noriak Distribution-法国.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -46888,6 +47298,14 @@
         "locator": "反向信号名单!D1001"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L100"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第23批.json",
+        "locator": "L121"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L334"
       },
@@ -46898,6 +47316,10 @@
       {
         "path": "profile/A/A-222-quattroSEC Gmbh-奥地利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-222-quattroSEC Gmbh-奥地利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -49146,6 +49568,14 @@
         "locator": "反向信号名单!D765"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L367"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L388"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L146"
       },
@@ -49156,6 +49586,10 @@
       {
         "path": "profile/A/A-245-Jaromir Cihak-捷克.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-245-Jaromir Cihak-捷克.md",
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -50038,6 +50472,14 @@
         "locator": "反向信号名单!D758"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第25批.json",
+        "locator": "L32"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A240-A259.json",
         "locator": "L42"
       },
@@ -50048,6 +50490,10 @@
       {
         "path": "profile/A/A-241-Martin Polainer-奥地利.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-241-Martin Polainer-奥地利.md",
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -50762,6 +51208,14 @@
         "locator": "反向信号名单!D770"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L299"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L666"
       },
@@ -50772,6 +51226,10 @@
       {
         "path": "profile/A/A-234-Varia Group-德国.md",
         "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-234-Varia Group-德国.md",
+        "locator": "L148"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -52256,6 +52714,10 @@
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!D1019"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第24批.json",
+        "locator": "L189"
       },
       {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",

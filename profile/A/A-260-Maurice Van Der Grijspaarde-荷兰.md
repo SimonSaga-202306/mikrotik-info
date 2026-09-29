@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），三星重点
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — GPE Networks 荷 SMB 一站式 MSP（评论墙 MikroTik 存量实锤/Maurice 具名）：换代随单（$165 锚点一致）；存量共存话术；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -128,11 +128,27 @@ updated: 2026-09-28
   > （CSV 2026-09-27 记录）info@gpe-networks.com（关联公司官网联系页正文）；钱 任限制见备注
   > 来源：https://gpe-networks.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：NL SMB MSP（官网一手核）
+- **②芯片/型号**：MikroTik 存量
+- **③KP 深挖**：info@（Maurice）
+- **④Saga 对标**：value 随单（$165 锚点一致）
+- **⑤在乎与偏好**：快/个人/诚实
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**Systeembeheer/Netwerkbeheer/Cloud/Backup/Consultancy/Webhosting——reviews: 'Maurice onze Netwerk legend…Mikrotik Router'
+  > Systeembeheer/Netwerkbeheer/Cloud/Backup/Consultancy/Webhosting——reviews: 'Maurice onze Netwerk legend…Mikrotik Router'
+  > 来源：https://gpe-networks.com
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | GPE Networks 荷 SMB 一站式 MSP（评论墙 MikroTik 存量实锤/Maurice 具名）：换代随单（$165 锚点一致）；存量共存话术 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -141,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），三星重点
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：口碑
+- **W**：小
+- **O**：换代
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -178,21 +194,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Maurice,
+Hi Maurice, hi GPE Networks team,
 
-I came across Maurice Van Der Grijspaarde - 集成商/顾问（MikroTik 认证）.
+Your review wall says it - the MikroTik router you untangled for a customer, the cables you installed and tested. Small-team, hands-on, honest advice. That is exactly the shop that needs a trustworthy switch on the shelf.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Full honesty: we are a switch maker, not here to argue with MikroTik's router space. Reference: $165 USD EXW (2026-09-29).
 
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: when an SMB customer network needs a new switch, where do you source it today - and would a documented value PoE unit earn a test?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

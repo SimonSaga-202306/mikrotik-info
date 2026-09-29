@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 2  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: true, oem: false, hotel: false, training: true}
-p1: STC-28DGGPM
+p1: CONSULT-OEM
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — MWTC 华沙多厂商认证培训（MikroTik/Zabbix/UniFi+轻实施）：对照单元+wdrożenia 窄位双角（$165 锚点一致）；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -78,7 +78,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
 ### 第 1 次跟进 · 实施线接入层第二来源+MTCSWE 实验室演示机
 
@@ -129,23 +129,39 @@ updated: 2026-09-28
   > Możliwość dofinansowania do 100%
   > 来源：https://mwtc.pl/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第25批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：PL 培训中心（官网一手核）
+- **②芯片/型号**：多厂商课程
+- **③KP 深挖**：info@
+- **④Saga 对标**：对照+轻实施双角（$165 锚点一致）
+- **⑤在乎与偏好**：多厂商中立感
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
+  > Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
+  > 来源：https://mwtc.pl
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | MWTC 华沙多厂商认证培训（MikroTik/Zabbix/UniFi+轻实施）：对照单元+wdrożenia 窄位双角（$165 锚点一致） |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
+- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：多厂商
+- **W**：占比小
+- **O**：对照
+- **T**：边界
 
 ## 触达与风险红线
 
@@ -183,21 +199,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Mikrotik,
+Hi MWTC team,
 
-I came across Mikrotik Warsaw Training Center - 集成商/顾问（MikroTik 认证）.
+Three locations, certified tracks for MikroTik, Zabbix and UniFi side by side - a genuinely multi-vendor classroom, plus audits and deployments beside the training. Full honesty: we build PoE switches, and neither MikroTik nor UniFi needs me to compete for your bench.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a third-voice comparison unit for switching labs - and, quietly, for your deployment projects where a value PoE line protects the budget.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: do your labs ever run comparison gear, and where do your deployment jobs source switches?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
