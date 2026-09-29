@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `96ee12491993` | 2026-09-29T05:25:26+00:00 | R56 第51-54批：A-501..A-540 深挖加厚 40 家（波兰9家/美区12家集中；STI×5：503 Antaira·509 ORing+EN50155铁路·513 Moxa·523 工业嵌入·524 IIoT瑞士造；514/516同电话姊妹站；516/520/521授权分销诚实角窄针；517 Winncom EMEA大VAD；533自牌机柜对照+贴牌双路）；ENRICH55 50→54、OVERRIDES→A-540；P1账本 STC387/STI48/28DG62/CONSULT69；1033 dossiers；audit 1249/0；29 tests OK |
 | `11e99acaa4bd` | 2026-09-29T05:07:31+00:00 | R56 第47-50批：A-461..A-500 深挖加厚 40 家（土MT MasterD三家低密/塞/奥/希STI+姊妹店/德FMS同法人+公购军列守界句/意培训+工业STI/拉厂方自营店/捷斯收录）；ENRICH55 46→50、OVERRIDES→A-500；P1 账本重归 STC356/STI74/28DG67/CONSULT69；1033 dossiers；audit 1245/0；29 tests OK |
 | `16ff55107763` | 2026-09-29T04:44:58+00:00 | 深挖加厚 A-421..A-460（第43-46批/batch53-56）：东欧培训/UA分销电商九连/加拿大六连/匈牙利五连/保2+北马2+土4波；UA 9 家民用限定、DAEL/MBSI 守界句、A-450/A-453 P1=STI-288GP 工业件；ENRICH55 +4（46)、OVERRIDES +40(460)；P1 未登记 0；29 tests OK |
 | `c2e7c9605cd8` | 2026-09-29T04:12:52+00:00 | 深挖加厚 A-381..A-420（第39-42批/batch49-52）：STC×17（SmartEye楼宇IaaS 30k AP/Spadhausen独立ISP/Ibersystems 8000项目/Archous白盒谱/PortUp官训/FUBAR关基守界/Codisa ENS守界等16家）+CONSULT-OEM×23（顾问/培训个体波：LanPixel实验室/YaTuAprendes #TR0299/ISPAcademny/XPD安全屋等；含A-401 mail.ru注/A-404+413占位页注/A-405域错配注/A-408谱变注）；A深挖覆盖至420/567；ENRICH55+4、OVERRIDES+40；build/make/audit(0 err)/unittest 29 OK |

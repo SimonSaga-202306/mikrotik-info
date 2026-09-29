@@ -9847,7 +9847,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Marugged 美 rugged 工业分销（Moxa/ORing/Vecow/Innodisk/RuggON；EN50155+IEC61850-3+ATEX 认证族）：工业 PoE 谱正口（$74.8 锚点一致）；站点另列 Military & Government 市场档=守界：首触只走民用工业段（轨交/能源/制造），不问军档范围",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -9888,7 +9888,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Multilink 美 B2B 授权分销（MT/Ubi/TP-Link 30+牌 5000 SKU+Cincinnati 仓）：WISP/校园 PoE 多场景对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -9928,12 +9928,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "CONSULT-OEM",
-  "p1_reason": "白牌/分销语境",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "NACE 美 CATV 前端商（FiberTronix+LigoWave+MT Solutions 专页）：headend 项目随单低密窄位（$165 锚点一致）",
   "first_question": "Do you currently badge any switching hardware under your own name, or is everything resold vendor-branded?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -9969,12 +9969,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "ROC-NOC 美 ICD Group MT 深谱老商（CRS328-24P-4S+RM $485 在价+自营 ISP 20 年+量折 20/100）：直接对照款旁 value 正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10053,11 +10053,11 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Streakwave 美无线大 VAD（Ubi/Cambium/EnGenius/Baicells/MT/Grandstream 牌墙+9dot 电源谱）：无线单随带接入层对照正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -10094,12 +10094,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "WAV 美 WISP 分销巨头（$25M 在库/70K SKU/10K 客户/35+年；Tarana/RUCKUS/Cyclone 谱）：大锚级对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10136,7 +10136,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "IcomTech 美工业网络计算商（Industrial PoE 全类目+EN50155+IEC61850-3 DIN 管/非管+10Gb core；ISO 徽标）：工业谱旁 value 温宽 DIN 正口（$74.8 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -10176,12 +10176,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "fi",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Datamonitor 芬 1994 进口批发（WiFi6/7+PoE-kytkimet 类目+布线件；酒店/城区网络点名）：北欧老渠道对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10217,12 +10217,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "4Gon 英 Ubiquiti Preferred 分销（USW-24PoE £306.30/RUT200 £87.05 在价+trade account+WiFi training）：UniFi 谱旁 value 对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10258,12 +10258,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Comms Express 英布线/机柜大盘（Excel 自牌+APC/Aruba IO/DrayTek/Zyxel/Netgear/Ubi 牌墙）：布线单随带对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10299,12 +10299,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Liberty-i 英运营商+店双业（Yeastar VoIP/PortalV2 guest WiFi+店侧路由/交换/无线/LTE）：店侧低密随单位（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10382,7 +10382,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "NetXL 英 disrupt 新派大盘（Ubi/MT CRS309-1G-8S+ £201.49 在价/TPLink WiFi7/DrayTek/Yealink/Teltonika/HPE IO/Shelly）：多牌对照正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -10422,12 +10422,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-28DGGPM",
+  "p1_reason": "Switch SFP 英兼容光模块专家（12,100+ 规格+ISO9001/UKCA/RoHS+Jisc 教育框架+ASM 渠道；类目含工业交换）：SFP 客户群随单 8 口 PoE+SFP 盒窄位（$99 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
-   "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STC-424DGGPM-280W",
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10465,11 +10465,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "VoiceHost Store 英 VoIP 店侧（话机主业+routers/switches/APs 类目+MTCNA 课页）：话机单随带低密位（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -10508,11 +10508,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "broadbandbuyer 英 SMB 网络分销（Ubiquiti Master Reseller+Netgear/DrayTek/Ruijie/QNAP/Yealink/Hikvision；厂商培训日）：SMB 渠道对照正口（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -10675,7 +10675,7 @@
   "risk_flags": [],
   "lang": "nl",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Lextron 荷工业计算+网络专家（Industrial Networking 147 项/Ethernet Switch 109 项+IEC61850/Railway/ORing PROFINET+Vecow；100% 定制 build）：工业谱旁 value 温宽 DIN 正口（$74.8 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -10842,11 +10842,11 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "nl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Routershop 荷 20 年路由/交换专家店（交换 5-48 口分层+PoE/10GE 类目+Fortinet/Zyxel/Cisco/APC；Professional Services）：专家店对照正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -10883,12 +10883,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "nl",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "SDC 荷 30 年 ICT 分销（Ubiquiti/TP-Link/MikroTik/Grandstream/Gigaset Pro 牌墙+Academy+次日达）：双谱大盘对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10967,12 +10967,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "nl",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Wimood 荷无线分销（Ubi/MT/Cambium 三主牌；Enterprise Campus 48 PoE €3397/UDM Pro €397 在价；17:30 当日发）：UniFi 谱旁 value 对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11008,11 +11008,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "pt",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Sinaltech 葡 ICT 集成/MSP（伙伴墙 Huawei/Cisco/MikroTik/Aruba+Ekahau；地方公共行政数字化案例公开=透明合规流程优先）：项目随单低密位（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -11050,7 +11050,7 @@
   "risk_flags": [],
   "lang": "pt",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Officelan 葡网络/光纤/CCTV 分销（UniFi 深谱在价 UDR-5G-MAX €599.90+MT 新品线 hAP be lite €69.90+CCTV 谱）：双谱对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -11091,7 +11091,7 @@
   "risk_flags": [],
   "lang": "es",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "CiudadWireless 西全谱老店（100+牌含 Planet/Lantech/RF Elements+Formación 培训；与 A-564 同模板同类目姊妹站注）：百牌对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -11133,11 +11133,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Ditecal 西电信供应商店（MT 库存页+MT 认证培训+HSNM hotspot 总代；Reyee RG-ES209GC-P 8口 PoE €190.27 在价）：Reyee 谱旁 value 对照正口（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -11259,7 +11259,7 @@
   "risk_flags": [],
   "lang": "es",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Instant Byte 西 mayorista 批发老店（100+牌+批发注册口；与 A-562 同模板同类目姊妹站注）：批发对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -11429,12 +11429,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "es",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Laufquen 西三牌专精分销（Ubiquiti/MikroTik/GLC 光纤专页+新店上线）：三牌谱旁低密窄位（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11470,12 +11470,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "es",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11598,12 +11598,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "RIDMONT 黑山 B2B 通信分销+安装（Teltonika TSW200 banner+Ubi U7-PRO €251.53/MT L009 €129.68 在价+Extralink 16口 PoE banner；R32 小国降级注）：Extralink 谱旁对照正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",

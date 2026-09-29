@@ -6998,6 +6998,66 @@
     ]
   },
   {
+    "url": "https://es.laufquen.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1122"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1143"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1148"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1153"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1181"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L774"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L783"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L784"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L785"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L788"
+      }
+    ]
+  },
+  {
+    "url": "https://es.laufquen.com/en/contactus",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1125"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L776"
+      }
+    ]
+  },
+  {
     "url": "https://es.laufquen.com/en/shop",
     "http_checked": false,
     "occurrences": [
@@ -22746,6 +22806,52 @@
     ]
   },
   {
+    "url": "https://products.nace.tv",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L213"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L216"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L234"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L239"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L244"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L112"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L114"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L121"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L122"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L123"
+      }
+    ]
+  },
+  {
     "url": "https://products.nace.tv/mikrotik-product/switches/",
     "http_checked": false,
     "occurrences": [
@@ -22786,6 +22892,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-457/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://products.nace.tv|CATV",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L272"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L126"
       }
     ]
   },
@@ -23374,6 +23494,52 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L555"
+      }
+    ]
+  },
+  {
+    "url": "https://ridmont.me",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1324"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1345"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1350"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1355"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1383"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L834"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L843"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L844"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L845"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L848"
       }
     ]
   },
@@ -24044,12 +24210,44 @@
         "locator": "L525"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L415"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L436"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L441"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L446"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L311"
       },
       {
         "path": "batch/structured_profiles_v1.json",
         "locator": "L15762"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L564"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L573"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L574"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L575"
       },
       {
         "path": "profile/A/A-131-SDC B.V-荷兰.md",
@@ -24216,6 +24414,20 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3829"
+      }
+    ]
+  },
+  {
+    "url": "https://sdc.nl|ICT",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L474"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L578"
       }
     ]
   },
@@ -25212,6 +25424,52 @@
       {
         "path": "profile/A/A-354-NTS Direct-美国.md",
         "locator": "L108"
+      }
+    ]
+  },
+  {
+    "url": "https://shop.officelan.pt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L718"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L739"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L744"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L749"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L777"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L654"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L663"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L664"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L665"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L668"
       }
     ]
   },
@@ -26474,6 +26732,52 @@
     ]
   },
   {
+    "url": "https://store.voicehost.co.uk",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L14"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L42"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L444"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L446"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L453"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L454"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L455"
+      }
+    ]
+  },
+  {
     "url": "https://store.voicehost.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -26500,6 +26804,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-519/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://store.voicehost.co.uk|VoIP",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L70"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L458"
       }
     ]
   },
@@ -27330,6 +27648,52 @@
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://tienda.ditecal.es",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L920"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L941"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L946"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L951"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L979"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L714"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L723"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L724"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L725"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L728"
       }
     ]
   },
@@ -29402,6 +29766,44 @@
     ]
   },
   {
+    "url": "https://www.4gon.co.uk",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L819"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L840"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L845"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L850"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L292"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L301"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L302"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L303"
+      }
+    ]
+  },
+  {
     "url": "https://www.4gon.co.uk/gb/become-a-4gon-reseller/",
     "http_checked": false,
     "occurrences": [
@@ -29412,6 +29814,20 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3560"
+      }
+    ]
+  },
+  {
+    "url": "https://www.4gon.co.uk|Ubiquiti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L878"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L306"
       }
     ]
   },
@@ -33404,6 +33820,44 @@
     ]
   },
   {
+    "url": "https://www.broadbandbuyer.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L112"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L133"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L138"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L143"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L474"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L483"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L484"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L485"
+      }
+    ]
+  },
+  {
     "url": "https://www.broadbandbuyer.com/",
     "http_checked": false,
     "occurrences": [
@@ -33430,6 +33884,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-521/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.broadbandbuyer.com|SMB",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L171"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L488"
       }
     ]
   },
@@ -34222,6 +34690,60 @@
     ]
   },
   {
+    "url": "https://www.ciudadwireless.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L819"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L822"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L840"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L845"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L878"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1052"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L684"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L686"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L693"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L694"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L698"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L755"
+      }
+    ]
+  },
+  {
     "url": "https://www.ciudadwireless.com/",
     "http_checked": false,
     "occurrences": [
@@ -34554,6 +35076,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1022/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.comms-express.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L920"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L941"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L946"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L951"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L979"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L322"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L331"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L332"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L333"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L336"
       }
     ]
   },
@@ -36318,6 +36886,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-805/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datamonitor.fi",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L718"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L739"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L744"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L749"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L777"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L262"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L271"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L272"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L273"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L276"
       }
     ]
   },
@@ -42456,6 +43070,52 @@
     ]
   },
   {
+    "url": "https://www.icomtechinc.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L617"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L638"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L643"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L648"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L676"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L232"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L241"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L242"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L243"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L246"
+      }
+    ]
+  },
+  {
     "url": "https://www.ieiworld.com/",
     "http_checked": false,
     "occurrences": [
@@ -43188,6 +43848,52 @@
     ]
   },
   {
+    "url": "https://www.instantbyte.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L850"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1021"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1024"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1042"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1047"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L695"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L744"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L746"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L753"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L754"
+      }
+    ]
+  },
+  {
     "url": "https://www.instantbyte.com/",
     "http_checked": false,
     "occurrences": [
@@ -43214,6 +43920,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-562/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.instantbyte.com|mayorista",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1080"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L758"
       }
     ]
   },
@@ -45324,6 +46044,52 @@
     ]
   },
   {
+    "url": "https://www.leadernet.es",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1223"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1244"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1249"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1254"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L1282"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L804"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L813"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L814"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L815"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L818"
+      }
+    ]
+  },
+  {
     "url": "https://www.leadernet.es/",
     "http_checked": false,
     "occurrences": [
@@ -45474,6 +46240,52 @@
     ]
   },
   {
+    "url": "https://www.lextron.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L213"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L234"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L239"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L244"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L272"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L504"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L513"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L514"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L515"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L518"
+      }
+    ]
+  },
+  {
     "url": "https://www.lextron.nl/",
     "http_checked": false,
     "occurrences": [
@@ -45530,6 +46342,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-531/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.liberty-i.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1021"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1042"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1047"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1052"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1080"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L352"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L361"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L362"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L363"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L366"
       }
     ]
   },
@@ -46894,6 +47752,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-360/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.marugged.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L42"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L70"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L52"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L61"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L62"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L63"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L66"
       }
     ]
   },
@@ -49028,6 +49932,52 @@
     ]
   },
   {
+    "url": "https://www.multilink.us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L112"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L133"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L138"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L143"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L171"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L82"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L91"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L92"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L93"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
     "url": "https://www.my-itservice.com",
     "http_checked": false,
     "occurrences": [
@@ -49928,6 +50878,52 @@
       {
         "path": "profile/A/A-281-UNIFYING SOLUTION-美国.md",
         "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netxl.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1122"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1143"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1148"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1153"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1181"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L382"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L391"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L392"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L393"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L396"
       }
     ]
   },
@@ -53052,6 +54048,44 @@
     ]
   },
   {
+    "url": "https://www.roc-noc.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L335"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L340"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L345"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L142"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L151"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L152"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
     "url": "https://www.roc-noc.com/",
     "http_checked": false,
     "occurrences": [
@@ -53078,6 +54112,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-465/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.roc-noc.com|MT",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L373"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L156"
       }
     ]
   },
@@ -53148,6 +54196,52 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L2688"
+      }
+    ]
+  },
+  {
+    "url": "https://www.routershop.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L335"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L340"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L345"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L373"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L534"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L543"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L544"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L545"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L548"
       }
     ]
   },
@@ -54354,6 +55448,52 @@
     ]
   },
   {
+    "url": "https://www.sinaltech.pt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L617"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L638"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L643"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L648"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L676"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L624"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L633"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L634"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L635"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L638"
+      }
+    ]
+  },
+  {
     "url": "https://www.sinaltech.pt/",
     "http_checked": false,
     "occurrences": [
@@ -55084,6 +56224,52 @@
     ]
   },
   {
+    "url": "https://www.streakwave.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L415"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L436"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L441"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L446"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L474"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L172"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L181"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L182"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L183"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L186"
+      }
+    ]
+  },
+  {
     "url": "https://www.streakwave.com/mikrotik",
     "http_checked": false,
     "occurrences": [
@@ -55124,6 +56310,52 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3428"
+      }
+    ]
+  },
+  {
+    "url": "https://www.switchsfp.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1223"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1244"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1249"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1254"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L1282"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L412"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L421"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L422"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L423"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L426"
       }
     ]
   },
@@ -57486,6 +58718,52 @@
     ]
   },
   {
+    "url": "https://www.wavonline.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L516"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L537"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L542"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L547"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+        "locator": "L575"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L202"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L211"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L212"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L213"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L216"
+      }
+    ]
+  },
+  {
     "url": "https://www.wavonline.com/",
     "http_checked": false,
     "occurrences": [
@@ -58072,6 +59350,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-976/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wimoodshop.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L516"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L537"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L542"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L547"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+        "locator": "L575"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L594"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L603"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L604"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L605"
+      },
+      {
+        "path": "gen_super9.py",
+        "locator": "L608"
       }
     ]
   },

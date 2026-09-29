@@ -1,5 +1,5 @@
 {
-  "recorded_on": "2026-09-29",
+  "recorded_on": "2026-09-27",
   "excluded": [
     ".arena",
     ".aws",
@@ -1227,7 +1227,7 @@
       "path": "batch/A类深挖_2026-09-28_R56_第51批.json",
       "sha256": "77047b528355119eb90efeb57bd96a646228c6983c1686ac315b09465f12f9af",
       "bytes": 39468,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 897,
       "unique_url_count": 12,
       "inspection": {},
@@ -1237,7 +1237,7 @@
       "path": "batch/A类深挖_2026-09-28_R56_第52批.json",
       "sha256": "2197f6a014502fd34a0bed07da0ce4458e89a01d6ed32a688ce84b18d0c5d7a4",
       "bytes": 38819,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 897,
       "unique_url_count": 10,
       "inspection": {},
@@ -1247,7 +1247,7 @@
       "path": "batch/A类深挖_2026-09-28_R56_第53批.json",
       "sha256": "7ad3d68249b468c234753638f8a8a8cd3281dc146cd86089cc0d2f879868a40b",
       "bytes": 38082,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 897,
       "unique_url_count": 10,
       "inspection": {},
@@ -1257,9 +1257,29 @@
       "path": "batch/A类深挖_2026-09-28_R56_第54批.json",
       "sha256": "212714ccc584453f04f6b8f0b3c7e8ca2d303033d9fa48dac4c37bca73f369b0",
       "bytes": 38784,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 897,
       "unique_url_count": 13,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-09-28_R56_第55批.json",
+      "sha256": "ddd2679308131a6b980808874682be435d4a0e534817bb27249eda8e10b82c48",
+      "bytes": 52459,
+      "tracked_at_scan": false,
+      "units_scanned": 1320,
+      "unique_url_count": 16,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-09-28_R56_第56批.json",
+      "sha256": "6de72a3abaee1119c9096b0bc01f37cce7b09a543fc738fbfc9558e0a9a95619",
+      "bytes": 56628,
+      "tracked_at_scan": false,
+      "units_scanned": 1421,
+      "unique_url_count": 19,
       "inspection": {},
       "errors": []
     },
@@ -1965,8 +1985,8 @@
     },
     {
       "path": "batch/structured_profiles_v1.json",
-      "sha256": "574f1e6fa3f50ab500c3c2ca9fec08064d429473bfd46f5a0acab7c96306c9df",
-      "bytes": 629102,
+      "sha256": "4806892cb6b0371bd70b6370da5aaeb6d7e540557ca83e486d694892d772dbe3",
+      "bytes": 632456,
       "tracked_at_scan": true,
       "units_scanned": 23666,
       "unique_url_count": 233,
@@ -2190,6 +2210,16 @@
       "tracked_at_scan": true,
       "units_scanned": 52,
       "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "gen_super9.py",
+      "sha256": "18172173108c4ead90fdcdf7180e2b044f4b88e5b1da7de6d4a71a16163dd683",
+      "bytes": 75918,
+      "tracked_at_scan": false,
+      "units_scanned": 863,
+      "unique_url_count": 35,
       "inspection": {},
       "errors": []
     },
@@ -12565,10 +12595,10 @@
     },
     {
       "path": "scripts/build_structured_profiles.py",
-      "sha256": "f5b1e7da4c55fc48c23c8da7dc0e76c043a95409b751ffb14371286cee37fcc6",
-      "bytes": 108648,
+      "sha256": "c956a66a3742e827637deba79b0e45da340c60af93423d3e08d1d1a0cca38eea",
+      "bytes": 114779,
       "tracked_at_scan": true,
-      "units_scanned": 751,
+      "units_scanned": 778,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -12615,10 +12645,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "0e2a18610beb350e81b98134f3136ed9636d7be1640b34f0f24b603f39407c8d",
-      "bytes": 33957,
+      "sha256": "23155c366d4faf53c49a705d857861db4f960c0ecb1f6b03fcde80ea62df3559",
+      "bytes": 34063,
       "tracked_at_scan": true,
-      "units_scanned": 707,
+      "units_scanned": 709,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
