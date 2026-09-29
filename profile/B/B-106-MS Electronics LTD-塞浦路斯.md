@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位)
+- 【推断】AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅
+- 【假设】开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话
+
+**SWOT 速描**
+- **S**: 50+ 牌 800 dealer 大网
+- **W**: 网通二级类目
+- **O**: 类目升级=管理型 PoE 入架
+- **T**: AV 主导,网通预算薄
+
+**证据（quote → 来源）**
+- 「an extensive network of over 800 dealers across Cyprus … official distributor for more than 50 renowned brands … IT & Networking, Security, Mobile Accessories, and Solar Power」 — https://brandfetch.com/mstronics.com
+- 「MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus」 — https://www.cyprusnet.com/ms-electronics
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 消费大分销 Networking 类目的管理型 PoE 升级档
+- 第一问: 你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?
+- 标签: 塞浦路斯|Limassol|AV大分销|类目升级
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Panicos,
+
+Fifty brands and an 800-dealer network across Cyprus - your IT & Networking category sits next to a strong AV business, and a managed PoE switch line is exactly the kind of documented, high-rotation product that upgrades such a category.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit to upgrade your networking shelf, white-label friendly.
+
+One question: in your IT & Networking line-up, whose managed PoE switch fills the 24-port slot today - and is there room for a value unit beside it?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. Networking 类目现存档位
+2. Security 谱相机牌
+
+**跟进建议（守档节奏）**
+- D+3 类目升级谱 PoE 页
+- D+14 pieris@mstronics.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

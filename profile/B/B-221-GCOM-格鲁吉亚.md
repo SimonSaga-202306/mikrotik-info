@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge)
+- 【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
+- 【假设】开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
+
+**SWOT 速描**
+- **S**: 双雄+光纤接入谱
+- **W**: 高加索单国
+- **O**: ISP 谱随单+商用 PoE 档
+- **T**: 区域购买力敏感
+
+**证据（quote → 来源）**
+- 「DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick」 — https://gcom.ge/en/brand/GCOM
+- 「GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449」 — http://www.dyalkom.com/buy.html
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 双雄谱电商的商用 PoE 管理档
+- 第一问: 你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?
+- 标签: 格鲁吉亚|Tbilisi|双雄谱|XGSPON
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi GCOM team,
+
+MikroTik and Ubiquiti on one shelf, XGSPON sticks for the FTTH crowd on the other - a well-rounded ISP/CPE catalog for Georgia. Between the radios and the OLTs, the 24-port managed PoE switch is the line your reseller base orders on repeat.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.
+
+One question: next to your MikroTik and Ubiquiti lines, whose 24-port managed PoE switch holds the value slot today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 交换机谱 PoE 档位现供
+2. ISP/FTTH 客层占比
+
+**跟进建议（守档节奏）**
+- D+3 ISP 谱 PoE 页
+- D+14 sale@gcom.ge 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

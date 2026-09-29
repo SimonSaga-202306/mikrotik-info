@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】A.K. ART2SOFT LTD / CY-WIRELESS(Nicosia Lakatameia;2006 创,**起点即 Ubiquiti 分销面向 WISP 市场**;2009 扩路由交换,**2012 加 VoIP 谱(IP PBX/SIP 话机/网关)**,后加布线/UPS;自述 500+ 分销商/2000+ 客户/10000+ 项目;具名 Theodoulos Vikarios(采购与业务开发)、Timoleon Charilaou(销售工程师);thomas.thoma@art2soft.com)
+- 【推断】塞浦路斯 WISP→VoIP 专营分销:12+ 年 IP 话机谱=桌面话机 PoE 随单场景厚(Voicenter 逻辑),WISP 侧又带站点位
+- 【假设】开口角度=「话机+WISP 双谱的 PoE 随单位」:STC-424 主力档,具名 Theodoulos(采购)开口
+
+**SWOT 速描**
+- **S**: WISP+VoIP 双专谱 500+ reseller
+- **W**: 实体团队小(壳 4 人)
+- **O**: 桌面话机 PoE 随单放量
+- **T**: 单岛市场规模上限
+
+**证据（quote → 来源）**
+- 「ART2SOFT was founded in 2006 with its primary focus to distribute Ubiquiti wireless products primarily for the emerging WISP market … in 2012 to VoIP products including IP PBX systems, SIP phones, Gateways」 — https://prod.cy-wireless.com/index.php?route=information/contact
+- 「We serve over 500 resellers all over Cyprus … 2000+ Clients … 10000+ Projects Completed」 — https://art2soft.eu/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — WISP+VoIP 专营分销的话机/站点 PoE 随单位
+- 第一问: 你们的 IP 话机/WISP 项目里,PoE 管理型交换现随哪家?
+- 标签: 塞浦路斯|Nicosia|WISP+VoIP专营|具名Theodoulos
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Theodoulos,
+
+From Ubiquiti WISP distribution in 2006 to a full VoIP line with IP PBX and SIP phones - your resellers deploy phones and radios, and both settle onto the same PoE switch. That makes the PoE line behind your catalog a quiet volume driver.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing catalog, white-label friendly.
+
+One question: for your IP telephony and wireless deployments, which managed PoE switch rides in the same order today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 话机谱 PoE 交换现供
+2. 全谱分销与白标接受度
+
+**跟进建议（守档节奏）**
+- D+3 话机谱 PoE 页
+- D+14 thomas.thoma@art2soft.com 开口(抄送具名 Theodoulos 角度)
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

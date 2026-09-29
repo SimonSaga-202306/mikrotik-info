@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net)
+- 【推断】通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层
+- 【假设】开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力
+
+**SWOT 速描**
+- **S**: Ubiquiti 官分+话机谱双强
+- **W**: 单国体量
+- **O**: 桌面话机 PoE 随单放量
+- **T**: 双牌内斗挤压带宽
+
+**证据（quote → 来源）**
+- 「Distributors & Master Resellers ### Intellcom Group Ltd. 42, Tereverko Str. 0159, Tbilisi, Georgia」 — https://www.ui.com/distributors/?region=eur
+- 「partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uniview」 — https://ge.linkedin.com/company/intellcomgroup
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 话机+无线双谱 VAD 的 PoE 随单管理档
+- 第一问: 你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?
+- 标签: 格鲁吉亚|Tbilisi|Ubiquiti官分|Yealink/Yeastar话机谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Intellcom team,
+
+Ubiquiti master distribution with Yealink and Yeastar telephony beside it - every SIP phone you ship needs PoE behind it, and that makes the switch line the quiet volume driver of your telephony business.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your phone fleet orders, white-label friendly.
+
+One question: for your Yealink/Yeastar deployments, which managed PoE switch do you reach for today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 话机谱现配交换件
+2. Uniview 谱 PoE 供电轨空缺与否
+
+**跟进建议（守档节奏）**
+- D+3 话机谱 PoE 页
+- D+14 sale@intellcom.net 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

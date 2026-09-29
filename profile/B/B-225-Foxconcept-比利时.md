@@ -55,6 +55,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be)
+- 【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
+- 【假设】开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)
+
+**SWOT 速描**
+- **S**: 具名老板直通+维护合约谱
+- **W**: 1-10 人极小
+- **O**: 维护/施工项目 PoE 自选件
+- **T**: 体量不支撑分销合作形态
+
+**证据（quote → 来源）**
+- 「Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur」 — https://www.crunchbase.com/organization/foxconcept
+- 「FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be」 — https://www.verixi.be/partners/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 判型校正:IT 服务商备养,按顾问/集成商模板激活
+- 第一问: (先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?
+- 标签: 比利时|Namur|IT服务商|判型校正|具名David
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【备养】活跃验证(D+7)后按顾问/集成商模板具名出信(维护合约谱的 PoE 自选件扣)。
+
+**待补证清单**
+1. 在手维护合同量
+2. 项目谱网络件自选权重
+
+**跟进建议（守档节奏）**
+- D+7 活跃度快验
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

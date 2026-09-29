@@ -1,0 +1,732 @@
+{
+  "batch": "B类深挖_2026-09-29_R57-BC_第11波",
+  "date": "2026-09-29",
+  "scope": "B 类东南欧+高加索收官 20 家:保加利亚 5+克罗地亚 3+摩尔多瓦 3+格鲁吉亚 3+塞浦路斯 2+比利时/拉脱维亚/波黑各 1(与第 12 波连发共 37 家=B 类全清)",
+  "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-225 Foxconcept 判型校正为 IT 服务商备养;B-223 TAKOPI 集团级开口一处覆盖 smart-network.ge 双站",
+  "records": [
+    {
+      "code": "B-040",
+      "fact": "ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg)",
+      "inference": "实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺",
+      "hypothesis": "开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100",
+          "source": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+        },
+        {
+          "dim": "官网",
+          "quote": "ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg",
+          "source": "https://www.asap.bg/en-us/it-solutions/networks/mikrotik-en"
+        },
+        {
+          "dim": "体量",
+          "quote": "ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia",
+          "source": "https://contactout.com/company/ASAP-Ltd-94248"
+        }
+      ],
+      "unknowns": [
+        "项目交付里的交换机现供品牌",
+        "PoE 功率密度需求档位"
+      ],
+      "swot": {
+        "S": "47 人实体方案商在营+官网 MikroTik 专页",
+        "W": "交换谱单一,工业档零",
+        "O": "企业项目 PoE 随单增量",
+        "T": "MikroTik 商券锚价深,换牌教育成本"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "IT 方案商项目谱的 value PoE 管理档",
+      "question": "你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?",
+      "tag": "保加利亚|Sofia|IT方案商|MikroTik谱|47人",
+      "email": "Hi ASAP team,\n\nAn IT solutions house in Sofia with a MikroTik shelf behind your enterprise network projects - you know the brands end customers specify, and where a project BOM gets tight on PoE switching.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.\n\nOne question: in your enterprise network deployments, which 24-port PoE managed switch do you reach for today - and is there a value slot beside it?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 项目谱 PoE 页",
+        "D+14 sales@asap.bg 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-042",
+      "fact": "Computer Market(Burgas 门店型 IT 商;altostrat 名录 Reseller 在册 sales@computermarket.bg +359 700 200 02;公开足迹薄)",
+      "inference": "Burgas 城区门店级小商,MikroTik 谱挂名零售,体量小",
+      "hypothesis": "开口角度=「门店小商活跃验证+value 试探」:先验活跃,谱情摸清后再按 STC-424 模板激活",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "Local Resellers ### Computer Market Reseller Burgas sales@computermarket.bg +35970020002",
+          "source": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+        }
+      ],
+      "unknowns": [
+        "活跃经营佐证",
+        "网络谱真实占比"
+      ],
+      "swot": {
+        "S": "Burgas 实体门店",
+        "W": "小,足迹薄",
+        "O": "城区 SME 装机谱 PoE 随单",
+        "T": "失联/低优先"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "门店型小商备养:活跃验证后按 value PoE 模板激活",
+      "question": "(先验活跃)你们给本地企业装机时,PoE 交换件现随哪家?",
+      "tag": "保加利亚|Burgas|门店小商|活跃验证",
+      "email": "【备养】活跃验证(D+7,电话/门店页更新)后按 value PoE 模板出信(城区 SME 装机谱扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-043",
+      "fact": "Georgi Vasilev(georgi.petkov.vasilev@gmail.com;+359 889 895 830;**MikroTik 认证顾问 MTCNA+MTCRE**;电信硕士,10+ 年 IT,电子爱好者)",
+      "inference": "个人顾问型:自行设计方案/采购/运维,采购决策一人;项目里交换机随客户预算走",
+      "hypothesis": "开口角度=「顾问工具箱里多一件 value PoE 档」:先验活跃与项目节奏,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;电信硕士,10+ 年 IT,电子爱好者",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量与谱系",
+        "交换机采购实际决策权重"
+      ],
+      "swot": {
+        "S": "双证顾问,方案采购一体",
+        "W": "个人体量小",
+        "O": "顾问指定=我方白标进项目",
+        "T": "顾问点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+      "tag": "保加利亚|顾问|MTCNA+MTCRE|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(开放式规格文档+白标进项目扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-046",
+      "fact": "PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名)",
+      "inference": "二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺",
+      "hypothesis": "开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "PCLIFE Ltd… founded in 2008, specializing in providing high-quality used computer equipment and POS systems … сертифициран дистрибутор на MikroTik … 99% Positive Feedback … 0887 624 895",
+          "source": "https://www.pclife.bg/en/%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81-109"
+        },
+        {
+          "dim": "体量",
+          "quote": "PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million",
+          "source": "https://www.zoominfo.com/c/pclife-ltd/457922169"
+        }
+      ],
+      "unknowns": [
+        "网络类目真实占比",
+        "批量装机客户是否指定网络件"
+      ],
+      "swot": {
+        "S": "活跃电商+批量 B2B 客层",
+        "W": "网通谱边缘,二手主导",
+        "O": "批量装机单 PoE 搭售",
+        "T": "价格敏感,网通溢价空间薄"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "二手整机批发电商的网络谱 value 补位",
+      "question": "你们的批量装机/SME 项目单里,PoE 交换件现随哪家?",
+      "tag": "保加利亚|Plovdiv|二手IT电商|B2B装机谱",
+      "email": "Hi PCLife team,\n\nHigh-volume refurbished IT with nationwide 24h delivery and a MikroTik shelf on the side - your B2B batch orders for SMEs often land together with network gear, and PoE switching is usually the least differentiated line on that BOM.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides along with your batch orders, white-label friendly.\n\nOne question: on your SME batch-delivery deals, which PoE switch do you stock today - and is a value unit worth a bench test for that line?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 批量装机谱 PoE 页",
+        "D+14 orders@pclife.bg 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-048",
+      "fact": "Riva Ltd / Рива ООД(Burgas;**MikroTik 官方 VAD 名录在册**;官网自诩「Рива ООД е официален дистрибутор на Mikrotik за България」;MikroTik 类目 141 SKU、Burgas 现货 125 款;门店 Лермонтов 52+服务部 Славейков бл.72;riva@riva.bg)",
+      "inference": "Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射",
+      "hypothesis": "开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23",
+          "source": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+        },
+        {
+          "dim": "官网",
+          "quote": "Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)",
+          "source": "https://www.riva.bg/mikrotik/show/all.html"
+        }
+      ],
+      "unknowns": [
+        "商用交换机谱现存档位",
+        "PoE 管理型价带"
+      ],
+      "swot": {
+        "S": "官方 VAD+本地现货仓+服务部",
+        "W": "单 MikroTik 强绑,交换机谱浅",
+        "O": "商用 PoE 档随无线谱放量",
+        "T": "与 MikroTik 交换机自产线正面撞"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "官方 VAD 现货谱的商用 PoE 管理栏",
+      "question": "你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?",
+      "tag": "保加利亚|Burgas|官方VAD|MikroTik现货谱",
+      "email": "Hi Riva team,\n\nAn official MikroTik VAD in Burgas with 125 items in local stock and a service branch behind it - your wireless shelf is deep, and the commercial PoE switching line beside it is where resellers quietly compare slots and prices.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.\n\nOne question: beside your MikroTik stock, which 24-port PoE managed switch fills the value slot for your resellers today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 商用 PoE 槽位页",
+        "D+14 riva@riva.bg 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-051",
+      "fact": "Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持)",
+      "inference": "克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点",
+      "hypothesis": "开口角度=「顾问工具箱价值档」:先验活跃,项目谱摸清后按顾问模板激活",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;项目规划与实施、基础与高级配置、现场与远程支持",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "无线谱客户 PoE 需求强度"
+      ],
+      "swot": {
+        "S": "三证顾问含无线向",
+        "W": "个人体量小",
+        "O": "无线项目谱 PoE 随单",
+        "T": "点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你做无线/路由项目时,PoE 交换机现随哪家?",
+      "tag": "克罗地亚|顾问|MTCNA+MTCRE+MTCWE|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(无线场点 PoE 随单扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-052",
+      "fact": "EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr)",
+      "inference": "克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实",
+      "hypothesis": "开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "EZY Infotech d.o.o. Master Distributor Cakovec prodaja@ezy.hr +385 40 363 888",
+          "source": "https://altostrat.io/buying/hardware/resellers/europe/croatia/"
+        },
+        {
+          "dim": "名录",
+          "quote": "Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888",
+          "source": "https://www.ui.com/distributors/?region=eur"
+        }
+      ],
+      "unknowns": [
+        "交换机现存档位",
+        "区域经销商网规模"
+      ],
+      "swot": {
+        "S": "双牌 Master 名录",
+        "W": "体量小(10-19 人)",
+        "O": "区域谱 PoE 补位",
+        "T": "被大 VAD(EVOL/Pondi)压价"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "双牌小 Master 的 value PoE 管理补位",
+      "question": "你们给区域经销商配货时,24 口 PoE 管理型段现随哪家?",
+      "tag": "克罗地亚|Čakovec|Master|双牌谱",
+      "email": "Hi EZY Infotech team,\n\nA Master distributor in Čakovec carrying both MikroTik and Ubiquiti lines - your regional resellers buy radios and routers from you, and the PoE switch line behind those deployments is where a documented value unit earns its shelf.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your reseller-facing line-up, white-label friendly.\n\nOne question: for the deployments your resellers build, which PoE managed switch fills the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 双牌谱 PoE 页",
+        "D+14 prodaja@ezy.hr 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-053",
+      "fact": "LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr)",
+      "inference": "老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角",
+      "hypothesis": "开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话",
+      "evidence": [
+        {
+          "dim": "官网/LinkedIn",
+          "quote": "One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees",
+          "source": "https://hr.linkedin.com/company/lost-d-o-o-"
+        },
+        {
+          "dim": "新品类",
+          "quote": "WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila",
+          "source": "https://x.com/lostdoo"
+        }
+      ],
+      "unknowns": [
+        "网络谱现存 PoE 档位",
+        "EV 充电桩铺货里的网络件配套"
+      ],
+      "swot": {
+        "S": "25 年老牌全国批发网",
+        "W": "网通为子谱",
+        "O": "新品类敢接,value 档好切",
+        "T": "既成谱系换牌惰性"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "老牌 IT 批发的商用 PoE 管理档",
+      "question": "你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?",
+      "tag": "克罗地亚|Zagreb|25年老牌批发|EV桩谱",
+      "email": "Hi LOST team,\n\nTwenty-five years of IT wholesale across Croatia, and bold enough to add EV charging stations to the line card - you clearly earn margin from categories others ignore. PoE switching is one of those understated, high-rotation lines.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.\n\nOne question: in your networking line-up, which 24-port PoE managed switch holds the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 商用 PoE 档页",
+        "D+14 lost@lost.hr 开口(可提 EV 桩场点配套)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-094",
+      "fact": "Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M)",
+      "inference": "工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景",
+      "hypothesis": "开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM",
+      "evidence": [
+        {
+          "dim": "自述",
+          "quote": "Panel PC ler, Endüstriyel PC ler, Dokunmatik Ürünler ithalatımızın ana unsurlarıdır. Bu doğrultuda 6 ülkeden 10 markanın distribütörlüğünü yapmaktayız.",
+          "source": "https://rocketreach.co/merpa-bilgi-islem-ltdsti-profile_b405d56afc11f555"
+        },
+        {
+          "dim": "具名",
+          "quote": "Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız",
+          "source": "https://www.linkedin.com/in/alinailkocyigit/"
+        }
+      ],
+      "unknowns": [
+        "项目谱里交换机现供",
+        "电商货架 PoE 档位"
+      ],
+      "swot": {
+        "S": "GM 具名直通+工业计算 20+ 年",
+        "W": "交换机非主业",
+        "O": "工业 PC 装机配套 PoE 随单",
+        "T": "土耳其汇率/付款条件"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "工业计算电商+项目谱的 value PoE 配套档",
+      "question": "你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?",
+      "tag": "土耳其|Istanbul|工业计算电商|GM具名",
+      "email": "Hi Nail,\n\nTwo decades in industrial computing - Panel PCs, industrial PCs and touch lines from 10 brands across 6 countries, plus merpazar.com moving the catalog online. Where those industrial PCs are commissioned on-site, managed PoE switching is usually bundled into the same project.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your industrial PC projects, white-label friendly.\n\nOne question: in your industrial computing projects, which managed PoE switch do you supply today - and would a documented value unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 工业装机谱 PoE 页",
+        "D+14 alinail@merpazar.com 具名开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-105",
+      "fact": "A.K. ART2SOFT LTD / CY-WIRELESS(Nicosia Lakatameia;2006 创,**起点即 Ubiquiti 分销面向 WISP 市场**;2009 扩路由交换,**2012 加 VoIP 谱(IP PBX/SIP 话机/网关)**,后加布线/UPS;自述 500+ 分销商/2000+ 客户/10000+ 项目;具名 Theodoulos Vikarios(采购与业务开发)、Timoleon Charilaou(销售工程师);thomas.thoma@art2soft.com)",
+      "inference": "塞浦路斯 WISP→VoIP 专营分销:12+ 年 IP 话机谱=桌面话机 PoE 随单场景厚(Voicenter 逻辑),WISP 侧又带站点位",
+      "hypothesis": "开口角度=「话机+WISP 双谱的 PoE 随单位」:STC-424 主力档,具名 Theodoulos(采购)开口",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "ART2SOFT was founded in 2006 with its primary focus to distribute Ubiquiti wireless products primarily for the emerging WISP market … in 2012 to VoIP products including IP PBX systems, SIP phones, Gateways",
+          "source": "https://prod.cy-wireless.com/index.php?route=information/contact"
+        },
+        {
+          "dim": "自述体量",
+          "quote": "We serve over 500 resellers all over Cyprus … 2000+ Clients … 10000+ Projects Completed",
+          "source": "https://art2soft.eu/"
+        }
+      ],
+      "unknowns": [
+        "话机谱 PoE 交换现供",
+        "全谱分销与白标接受度"
+      ],
+      "swot": {
+        "S": "WISP+VoIP 双专谱 500+ reseller",
+        "W": "实体团队小(壳 4 人)",
+        "O": "桌面话机 PoE 随单放量",
+        "T": "单岛市场规模上限"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "WISP+VoIP 专营分销的话机/站点 PoE 随单位",
+      "question": "你们的 IP 话机/WISP 项目里,PoE 管理型交换现随哪家?",
+      "tag": "塞浦路斯|Nicosia|WISP+VoIP专营|具名Theodoulos",
+      "email": "Hi Theodoulos,\n\nFrom Ubiquiti WISP distribution in 2006 to a full VoIP line with IP PBX and SIP phones - your resellers deploy phones and radios, and both settle onto the same PoE switch. That makes the PoE line behind your catalog a quiet volume driver.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing catalog, white-label friendly.\n\nOne question: for your IP telephony and wireless deployments, which managed PoE switch rides in the same order today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 话机谱 PoE 页",
+        "D+14 thomas.thoma@art2soft.com 开口(抄送具名 Theodoulos 角度)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-106",
+      "fact": "MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位)",
+      "inference": "AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅",
+      "hypothesis": "开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话",
+      "evidence": [
+        {
+          "dim": "类目",
+          "quote": "an extensive network of over 800 dealers across Cyprus … official distributor for more than 50 renowned brands … IT & Networking, Security, Mobile Accessories, and Solar Power",
+          "source": "https://brandfetch.com/mstronics.com"
+        },
+        {
+          "dim": "沿革",
+          "quote": "MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus",
+          "source": "https://www.cyprusnet.com/ms-electronics"
+        }
+      ],
+      "unknowns": [
+        "Networking 类目现存档位",
+        "Security 谱相机牌"
+      ],
+      "swot": {
+        "S": "50+ 牌 800 dealer 大网",
+        "W": "网通二级类目",
+        "O": "类目升级=管理型 PoE 入架",
+        "T": "AV 主导,网通预算薄"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "消费大分销 Networking 类目的管理型 PoE 升级档",
+      "question": "你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?",
+      "tag": "塞浦路斯|Limassol|AV大分销|类目升级",
+      "email": "Hi Panicos,\n\nFifty brands and an 800-dealer network across Cyprus - your IT & Networking category sits next to a strong AV business, and a managed PoE switch line is exactly the kind of documented, high-rotation product that upgrades such a category.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit to upgrade your networking shelf, white-label friendly.\n\nOne question: in your IT & Networking line-up, whose managed PoE switch fills the 24-port slot today - and is there room for a value unit beside it?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 类目升级谱 PoE 页",
+        "D+14 pieris@mstronics.com 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-178",
+      "fact": "GOODSTORE(SIA \"Goodman Group\" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店)",
+      "inference": "弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份",
+      "hypothesis": "开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, security systems, access control systems, fire safety systems … network equipment, optical networks … products related to solar energy",
+          "source": "https://goodstore.lv/en/about-us/"
+        }
+      ],
+      "unknowns": [
+        "监控谱相机品牌与 PoE 供电现供",
+        "DIN 轨档位空缺与否"
+      ],
+      "swot": {
+        "S": "弱电施工背景=懂场点供电",
+        "W": "Daugavpils 体量有限",
+        "O": "监控柜 DIN PoE 轨+光伏场站",
+        "T": "拉脱维亚东部市场薄"
+      },
+      "p1": "STI-288GP",
+      "p1_reason": "弱电安防垂直店的监控谱工业 PoE 供电轨",
+      "question": "你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?",
+      "tag": "拉脱维亚|Daugavpils|弱电安防电商|光伏+弱电",
+      "email": "Hi GOODSTORE team,\n\nA low-voltage systems shop built by installers - CCTV, access control, fire alarm, cabling, and now solar. Your camera and control panels end up in cabinets and on DIN rails, where the PoE switch is the part that decides whether an install holds through a Baltic winter.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your surveillance cabinets and outbuildings, white-label friendly.\n\nOne question: in your CCTV and low-voltage projects, which DIN-rail industrial PoE switch feeds the cameras today?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 监控柜 DIN PoE 页",
+        "D+14 info@goodstore.lv 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-210",
+      "fact": "DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md)",
+      "inference": "摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证)",
+      "hypothesis": "开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "DOXYTERRA.md(subcompanul COMITEK S.R.L.), înființată în 1996 … distribuitor și partener oficial al marilor producători mondiali, precum: ASUS, Logitech, Intel, D-Link, KINGSTON … Departamentul Soluții Clienți Corporativi",
+          "source": "https://doxyterra.md/ro/page/despre-companie/"
+        },
+        {
+          "dim": "独家谱",
+          "quote": "DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA",
+          "source": "https://doxyterra.md/ro/page/keychron-in-moldova/"
+        }
+      ],
+      "unknowns": [
+        "网通谱交换机档位现供",
+        "企业部项目谱网络件随哪家"
+      ],
+      "swot": {
+        "S": "多牌官方分销+企业方案部",
+        "W": "交换机谱弱于整机/外设",
+        "O": "CSC 项目+电商双线 PoE 随单",
+        "T": "摩国市场小,单量有限"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "多牌电商企业双线谱的 value PoE 管理档",
+      "question": "你们的企业项目单里,24 口 PoE 管理型交换现随哪家?",
+      "tag": "摩尔多瓦|Chișinău|多牌电商|企业方案部",
+      "email": "Hi DOXYTERRA team,\n\nAn official-distributor portfolio built since 1996, plus a corporate-solutions department - and the Keychron-exclusive move says you pick up promising brands early. Behind your corporate and e-commerce orders, managed PoE switching is one of the quiet repeat lines.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your corporate shelf, white-label friendly.\n\nOne question: in your corporate project orders, which 24-port managed PoE switch do you supply today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 CSC 谱 PoE 页",
+        "D+14 info@doxyterra.md 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-211",
+      "fact": "PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md)",
+      "inference": "企业服务集团+全谱电商双线:MikroTik 谱系统上架(分销价明示),项目侧为集团服务输出,供应链成熟",
+      "hypothesis": "开口角度=「全谱电商 VAD 的商用 PoE 管理档」:STC-424 随 MikroTik 商券谱流动开口",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "Router Mikrotik hEX S … la pret de distribuitor … PRIDE GROUP … www.pride.global IT Consulting Digital Transformation Outsourcing Services",
+          "source": "https://www.pride.md/retelistica-ro/routere-ro/rb760igs_ro"
+        }
+      ],
+      "unknowns": [
+        "交换机谱现存档位",
+        "集团项目侧是否自采网络件"
+      ],
+      "swot": {
+        "S": "全谱上架体系+集团服务背书",
+        "W": "MikroTik 单牌深绑",
+        "O": "商用 PoE 随单+集团项目侧",
+        "T": "摩国市场小"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "全谱电商 VAD 的商用 PoE 管理档",
+      "question": "你们 MikroTik 商券谱旁,24 口 PoE 管理型档现随哪家?",
+      "tag": "摩尔多瓦|Chișinău|全谱电商|集团服务侧",
+      "email": "Hi PRIDE team,\n\nA distributor-priced MikroTik catalog with SKU discipline behind it, and a consulting/digital-transformation group on the other side - you see both the shelf and the project floor. The 24-port managed PoE line is where those two meet margin.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit beside your MikroTik catalog, white-label friendly.\n\nOne question: next to your MikroTik shelf, which 24-port managed PoE switch holds the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 商用 PoE 档页",
+        "D+14 sales@pride.md 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-214",
+      "fact": "个人(摩尔多瓦;Vovcik81@mail.ru;+373 795 065 44;**MikroTik 生态自研软件:集中化设备备份/集中软件升级/流量控制/版本变更比对一套搞定**;承有线无线网络、控制器与流量优先级、防火墙、CAPsMAN、OSPF 项目;MikroTik 安全工程师资质(安全审计含))",
+      "inference": "ISV 型顾问:工具链围绕设备可管理性(API/SNMP)展开,对交换机开放文档/协议栈的敏感度远高于一般顾问;他的集中管理谱若认可我方设备=自带传播",
+      "hypothesis": "开口角度=「可被集中管理谱看管的 PoE 交换机」:先验活跃,激活后以开放 API/SNMP 文档角度出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV(MikroTik 认证顾问含 Security Engineer 方向;自研集中备份/集中升级/流控/版本比对软件;承接 CAPsMAN/OSPF/防火墙项目安全审计)",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "集中管理谱是否已覆盖非 MikroTik 交换机",
+        "活跃与项目量"
+      ],
+      "swot": {
+        "S": "自研工具=技术判断权威",
+        "W": "个人,单据小",
+        "O": "开放 SNMP/API 我方卖点正对其工具",
+        "T": "只认 RouterOS 生态"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "ISV 型顾问备养:开放 SNMP/API 文档角度激活",
+      "question": "(先验活跃)你的集中管理谱里,交换机侧现管到哪几家?",
+      "tag": "摩尔多瓦|顾问|MikroTik生态ISV|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(全量 SNMP OID/API 文档+可被自研管理谱接管扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-221",
+      "fact": "GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge)",
+      "inference": "格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深",
+      "hypothesis": "开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话",
+      "evidence": [
+        {
+          "dim": "官网",
+          "quote": "DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick",
+          "source": "https://gcom.ge/en/brand/GCOM"
+        },
+        {
+          "dim": "名录",
+          "quote": "GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449",
+          "source": "http://www.dyalkom.com/buy.html"
+        }
+      ],
+      "unknowns": [
+        "交换机谱 PoE 档位现供",
+        "ISP/FTTH 客层占比"
+      ],
+      "swot": {
+        "S": "双雄+光纤接入谱",
+        "W": "高加索单国",
+        "O": "ISP 谱随单+商用 PoE 档",
+        "T": "区域购买力敏感"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "双雄谱电商的商用 PoE 管理档",
+      "question": "你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?",
+      "tag": "格鲁吉亚|Tbilisi|双雄谱|XGSPON",
+      "email": "Hi GCOM team,\n\nMikroTik and Ubiquiti on one shelf, XGSPON sticks for the FTTH crowd on the other - a well-rounded ISP/CPE catalog for Georgia. Between the radios and the OLTs, the 24-port managed PoE switch is the line your reseller base orders on repeat.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.\n\nOne question: next to your MikroTik and Ubiquiti lines, whose 24-port managed PoE switch holds the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 ISP 谱 PoE 页",
+        "D+14 sale@gcom.ge 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-222",
+      "fact": "Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net)",
+      "inference": "通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层",
+      "hypothesis": "开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "Distributors & Master Resellers ### Intellcom Group Ltd. 42, Tereverko Str. 0159, Tbilisi, Georgia",
+          "source": "https://www.ui.com/distributors/?region=eur"
+        },
+        {
+          "dim": "谱系",
+          "quote": "partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uniview",
+          "source": "https://ge.linkedin.com/company/intellcomgroup"
+        }
+      ],
+      "unknowns": [
+        "话机谱现配交换件",
+        "Uniview 谱 PoE 供电轨空缺与否"
+      ],
+      "swot": {
+        "S": "Ubiquiti 官分+话机谱双强",
+        "W": "单国体量",
+        "O": "桌面话机 PoE 随单放量",
+        "T": "双牌内斗挤压带宽"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "话机+无线双谱 VAD 的 PoE 随单管理档",
+      "question": "你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?",
+      "tag": "格鲁吉亚|Tbilisi|Ubiquiti官分|Yealink/Yeastar话机谱",
+      "email": "Hi Intellcom team,\n\nUbiquiti master distribution with Yealink and Yeastar telephony beside it - every SIP phone you ship needs PoE behind it, and that makes the switch line the quiet volume driver of your telephony business.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your phone fleet orders, white-label friendly.\n\nOne question: for your Yealink/Yeastar deployments, which managed PoE switch do you reach for today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 话机谱 PoE 页",
+        "D+14 sale@intellcom.net 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-223",
+      "fact": "TAKOPI GEORGIA(**Takopi Group 国际 IT 分销 2007 年起覆盖东欧+高加索+中亚多国**;格鲁吉亚站=smart-network.ge 项目站同壳;~25 品牌:MikroTik/Netgear/Ruckus/D-Link/Edimax/ZyXEL/**Teltonika 工业路由**/Sophos/**Tiandy 相机**/Kaytus(原浪潮)服务器/Grandstream/Unify 话机/nJoy UPS/Creality/Elegoo 3D/Anern 光伏/Ekahau;Tbilisi 本地仓+集成商伙伴价;名录 SMART NETWORK GEORGIA Master)",
+      "inference": "集团级 VAD 全谱:Teltonika 工业+Tiandy 监控+Grandstream 话机三线 PoE 场景齐聚;集团多国铺=统一开口、多国放量(集团架 value SKU 逻辑)",
+      "hypothesis": "开口角度=「集团架 stocking SKU」:STC-424 以一条 value SKU 吃多国,STI-288GP 备位(Teltonika 旁工业轨);开口一次覆盖 smart-network.ge",
+      "evidence": [
+        {
+          "dim": "集团",
+          "quote": "Takopi Georgia is the Georgian arm of the international Takopi Group, an IT distributor operating since 2007 across Eastern Europe, the Caucasus and Central Asia … around 25 brands",
+          "source": "https://kompas.ge/en/company/takopi-georgia-distribyutor-it-oborudovaniya"
+        },
+        {
+          "dim": "名录",
+          "quote": "SMART NETWORK GEORGIA Master Distributors Tbilisi, Georgia Tel: +995 558 654 383",
+          "source": "http://www.dyalkom.com/buy.html"
+        }
+      ],
+      "unknowns": [
+        "集团采购层级(国别 vs 集团统一)",
+        "Teltonika 旁工业 PoE 轨空缺与否"
+      ],
+      "swot": {
+        "S": "集团多国+25 牌谱+本地仓",
+        "W": "谱系拥挤,单品注意力有限",
+        "O": "集团架一 SKU 多国放量",
+        "T": "被现有交换谱品牌挡门"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "集团级 VAD 的 stocking SKU 商用 PoE 档(STI-288GP 备位)",
+      "question": "集团谱里,24 口 PoE 管理型的 value stocking 档谁来填?(采购是国别还是集团统一?)",
+      "tag": "格鲁吉亚|Tbilisi|Takopi集团|多国铺|smart-network双站",
+      "email": "Hi Takopi team,\n\nTakopi Group across Eastern Europe, the Caucasus and Central Asia since 2007 - a 25-brand line card from MikroTik networking to Tiandy cameras and Grandstream phones, with local stock discipline in Tbilisi. Groups like yours run on documented stocking SKUs that sell across borders.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit, one SKU that can serve your Georgian, Caucasus and Central Asian desks, white-label friendly.\n\nOne question: in your line-up, who fills the 24-port PoE value slot today - and does group purchasing sit with the local desk or centrally?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 集团架 SKU 页",
+        "D+14 info@takopi.ge 开口(单站覆盖 smart-network.ge)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-225",
+      "fact": "Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be)",
+      "inference": "**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销",
+      "hypothesis": "开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur",
+          "source": "https://www.crunchbase.com/organization/foxconcept"
+        },
+        {
+          "dim": "具名",
+          "quote": "FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be",
+          "source": "https://www.verixi.be/partners/"
+        }
+      ],
+      "unknowns": [
+        "在手维护合同量",
+        "项目谱网络件自选权重"
+      ],
+      "swot": {
+        "S": "具名老板直通+维护合约谱",
+        "W": "1-10 人极小",
+        "O": "维护/施工项目 PoE 自选件",
+        "T": "体量不支撑分销合作形态"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "判型校正:IT 服务商备养,按顾问/集成商模板激活",
+      "question": "(先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?",
+      "tag": "比利时|Namur|IT服务商|判型校正|具名David",
+      "email": "【备养】活跃验证(D+7)后按顾问/集成商模板具名出信(维护合约谱的 PoE 自选件扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-277",
+      "fact": "Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语)",
+      "inference": "全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型",
+      "hypothesis": "开口角度=「唯一顾问的工具箱价值档」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV(波黑唯一认证顾问;MTCNA+MTCTCE;路由搭建配置/远程排障/无线/VPN/OSPF;英德塞克波五语)",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "谱系内交换机自选权重"
+      ],
+      "swot": {
+        "S": "全国唯一=壁垒",
+        "W": "个人体量小",
+        "O": "顾问指定权大,value 档随案进",
+        "T": "单靠一人节奏"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "全国唯一顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给波黑项目配网络时,PoE 交换机现指定哪家?",
+      "tag": "波黑|顾问|全国唯一|五语|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(唯一顾问工具箱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    }
+  ]
+}

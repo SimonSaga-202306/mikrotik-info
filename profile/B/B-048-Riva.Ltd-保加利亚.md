@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Riva Ltd / Рива ООД(Burgas;**MikroTik 官方 VAD 名录在册**;官网自诩「Рива ООД е официален дистрибутор на Mikrotik за България」;MikroTik 类目 141 SKU、Burgas 现货 125 款;门店 Лермонтов 52+服务部 Славейков бл.72;riva@riva.bg)
+- 【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射
+- 【假设】开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频
+
+**SWOT 速描**
+- **S**: 官方 VAD+本地现货仓+服务部
+- **W**: 单 MikroTik 强绑,交换机谱浅
+- **O**: 商用 PoE 档随无线谱放量
+- **T**: 与 MikroTik 交换机自产线正面撞
+
+**证据（quote → 来源）**
+- 「Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23」 — https://altostrat.io/buying/hardware/resellers/europe/bulgaria/
+- 「Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)」 — https://www.riva.bg/mikrotik/show/all.html
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 官方 VAD 现货谱的商用 PoE 管理栏
+- 第一问: 你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?
+- 标签: 保加利亚|Burgas|官方VAD|MikroTik现货谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Riva team,
+
+An official MikroTik VAD in Burgas with 125 items in local stock and a service branch behind it - your wireless shelf is deep, and the commercial PoE switching line beside it is where resellers quietly compare slots and prices.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.
+
+One question: beside your MikroTik stock, which 24-port PoE managed switch fills the value slot for your resellers today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 商用交换机谱现存档位
+2. PoE 管理型价带
+
+**跟进建议（守档节奏）**
+- D+3 商用 PoE 槽位页
+- D+14 riva@riva.bg 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

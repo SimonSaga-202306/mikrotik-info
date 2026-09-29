@@ -55,6 +55,53 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店)
+- 【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
+- 【假设】开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
+
+**SWOT 速描**
+- **S**: 弱电施工背景=懂场点供电
+- **W**: Daugavpils 体量有限
+- **O**: 监控柜 DIN PoE 轨+光伏场站
+- **T**: 拉脱维亚东部市场薄
+
+**证据（quote → 来源）**
+- 「SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, security systems, access control systems, fire safety systems … network equipment, optical networks … products related to solar energy」 — https://goodstore.lv/en/about-us/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 弱电安防垂直店的监控谱工业 PoE 供电轨
+- 第一问: 你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?
+- 标签: 拉脱维亚|Daugavpils|弱电安防电商|光伏+弱电
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi GOODSTORE team,
+
+A low-voltage systems shop built by installers - CCTV, access control, fire alarm, cabling, and now solar. Your camera and control panels end up in cabinets and on DIN rails, where the PoE switch is the part that decides whether an install holds through a Baltic winter.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your surveillance cabinets and outbuildings, white-label friendly.
+
+One question: in your CCTV and low-voltage projects, which DIN-rail industrial PoE switch feeds the cameras today?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 监控谱相机品牌与 PoE 供电现供
+2. DIN 轨档位空缺与否
+
+**跟进建议（守档节奏）**
+- D+3 监控柜 DIN PoE 页
+- D+14 info@goodstore.lv 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

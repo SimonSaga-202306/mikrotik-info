@@ -55,6 +55,53 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md)
+- 【推断】企业服务集团+全谱电商双线:MikroTik 谱系统上架(分销价明示),项目侧为集团服务输出,供应链成熟
+- 【假设】开口角度=「全谱电商 VAD 的商用 PoE 管理档」:STC-424 随 MikroTik 商券谱流动开口
+
+**SWOT 速描**
+- **S**: 全谱上架体系+集团服务背书
+- **W**: MikroTik 单牌深绑
+- **O**: 商用 PoE 随单+集团项目侧
+- **T**: 摩国市场小
+
+**证据（quote → 来源）**
+- 「Router Mikrotik hEX S … la pret de distribuitor … PRIDE GROUP … www.pride.global IT Consulting Digital Transformation Outsourcing Services」 — https://www.pride.md/retelistica-ro/routere-ro/rb760igs_ro
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 全谱电商 VAD 的商用 PoE 管理档
+- 第一问: 你们 MikroTik 商券谱旁,24 口 PoE 管理型档现随哪家?
+- 标签: 摩尔多瓦|Chișinău|全谱电商|集团服务侧
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi PRIDE team,
+
+A distributor-priced MikroTik catalog with SKU discipline behind it, and a consulting/digital-transformation group on the other side - you see both the shelf and the project floor. The 24-port managed PoE line is where those two meet margin.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit beside your MikroTik catalog, white-label friendly.
+
+One question: next to your MikroTik shelf, which 24-port managed PoE switch holds the value slot today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 交换机谱现存档位
+2. 集团项目侧是否自采网络件
+
+**跟进建议（守档节奏）**
+- D+3 商用 PoE 档页
+- D+14 sales@pride.md 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

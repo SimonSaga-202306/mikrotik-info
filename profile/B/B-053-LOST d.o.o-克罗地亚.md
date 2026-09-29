@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr)
+- 【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
+- 【假设】开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
+
+**SWOT 速描**
+- **S**: 25 年老牌全国批发网
+- **W**: 网通为子谱
+- **O**: 新品类敢接,value 档好切
+- **T**: 既成谱系换牌惰性
+
+**证据（quote → 来源）**
+- 「One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees」 — https://hr.linkedin.com/company/lost-d-o-o-
+- 「WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila」 — https://x.com/lostdoo
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 老牌 IT 批发的商用 PoE 管理档
+- 第一问: 你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?
+- 标签: 克罗地亚|Zagreb|25年老牌批发|EV桩谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi LOST team,
+
+Twenty-five years of IT wholesale across Croatia, and bold enough to add EV charging stations to the line card - you clearly earn margin from categories others ignore. PoE switching is one of those understated, high-rotation lines.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.
+
+One question: in your networking line-up, which 24-port PoE managed switch holds the value slot today?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 网络谱现存 PoE 档位
+2. EV 充电桩铺货里的网络件配套
+
+**跟进建议（守档节奏）**
+- D+3 商用 PoE 档页
+- D+14 lost@lost.hr 开口(可提 EV 桩场点配套)
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

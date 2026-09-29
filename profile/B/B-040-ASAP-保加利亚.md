@@ -55,6 +55,55 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg)
+- 【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
+- 【假设】开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
+
+**SWOT 速描**
+- **S**: 47 人实体方案商在营+官网 MikroTik 专页
+- **W**: 交换谱单一,工业档零
+- **O**: 企业项目 PoE 随单增量
+- **T**: MikroTik 商券锚价深,换牌教育成本
+
+**证据（quote → 来源）**
+- 「Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100」 — https://altostrat.io/buying/hardware/resellers/europe/bulgaria/
+- 「ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg」 — https://www.asap.bg/en-us/it-solutions/networks/mikrotik-en
+- 「ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia」 — https://contactout.com/company/ASAP-Ltd-94248
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — IT 方案商项目谱的 value PoE 管理档
+- 第一问: 你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?
+- 标签: 保加利亚|Sofia|IT方案商|MikroTik谱|47人
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi ASAP team,
+
+An IT solutions house in Sofia with a MikroTik shelf behind your enterprise network projects - you know the brands end customers specify, and where a project BOM gets tight on PoE switching.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.
+
+One question: in your enterprise network deployments, which 24-port PoE managed switch do you reach for today - and is there a value slot beside it?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 项目交付里的交换机现供品牌
+2. PoE 功率密度需求档位
+
+**跟进建议（守档节奏）**
+- D+3 项目谱 PoE 页
+- D+14 sales@asap.bg 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
