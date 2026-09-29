@@ -62,6 +62,39 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Piotr Poniatowski(Miedzyrzec Podlaski;poniatowski.pl 自有域;**四证 MTCNA+MTCRE+MTCUME(Hotspot/PPPoE 用户管理)+MTCSWE(交换)**;piotr@poniatowski.pl)
+- 【推断】MTCSWE(交换专项证)在四证里——交换方向是 MikroTik 近年新证,持有人对交换段有专门兴趣;MTCUME=Hotspot 谱(酒店/公共接入);小城自有域顾问
+- 【假设】守档备养:具名引见(交换专项语言最对路),其 Hotspot/酒店谱 PoE 场景长线
+
+**SWOT 速描**
+- **S**: 四证含 MTCSWE 交换专项+自有域
+- **W**: 小城量级
+- **O**: Hotspot 谱 PoE 长线
+- **T**: 失联
+
+**证据（quote → 来源）**
+- 「CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME+MTCSWE;poniatowski.pl 自有域」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 四证含交换专项顾问备养:具名交换语言引见,Hotspot 谱信号再激活
+- 第一问: 你的 Hotspot/酒店项目里,PoE 接入交换现随哪家?(MTCSWE 对口话题)
+- 标签: 波兰|Miedzyrzec|四证含MTCSWE|自有域
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定(交换专项语言最对路)。
+
+**待补证清单**
+1. Hotspot/酒店客户谱
+2. 现证在档
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第8波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

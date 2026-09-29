@@ -8180,6 +8180,20 @@
     ]
   },
   {
+    "url": "https://fyr-systems.pl/o-nas/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/B/B-263-FYR-SYSTEMS Sp. z o.o-波兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://gaming.canyon.eu/france/",
     "http_checked": false,
     "occurrences": [
@@ -9106,6 +9120,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-944/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gsliwinski.wi.zut.edu.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L68"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/B/B-264-Grzegorz Śliwiński-波兰.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/B/B-264-Grzegorz Śliwiński-波兰.md",
+        "locator": "L78"
       }
     ]
   },
@@ -19476,6 +19512,20 @@
     ]
   },
   {
+    "url": "https://mikrotiknederland.nl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L49"
+      },
+      {
+        "path": "profile/B/B-434-Interstroom informatietechnologie b.v-荷兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotikon.pl/",
     "http_checked": false,
     "occurrences": [
@@ -23198,6 +23248,20 @@
       {
         "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
         "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://pl.linkedin.com/company/eltrox",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "profile/B/B-274-eltrox.pl-波兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -29250,6 +29314,20 @@
     ]
   },
   {
+    "url": "https://webdesignergids.net/hengelo/interstroom-informatietechnologie-bv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/B/B-434-Interstroom informatietechnologie b.v-荷兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://webshop.dds.ch",
     "http_checked": false,
     "occurrences": [
@@ -34392,6 +34470,20 @@
       {
         "path": "profile/A/A-035-Alessandro Del Ferro - Bitmagic-意大利.md",
         "locator": "L147"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bizraport.pl/krs/0000900908/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/B/B-263-FYR-SYSTEMS Sp. z o.o-波兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -39874,6 +39966,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第15批.json",
         "locator": "L43"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eltrox.pl/sprzet-it/sieci-komputerowe/mikrotik/akcesoria.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/B/B-274-eltrox.pl-波兰.md",
+        "locator": "L73"
       }
     ]
   },
@@ -58414,6 +58520,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-590/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.telefoonboek.nl/bedrijven/t7798164/zwolle/jpk-consulting/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第8波.json",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/B/B-435-JPK Consulting-荷兰.md",
+        "locator": "L72"
       }
     ]
   },
