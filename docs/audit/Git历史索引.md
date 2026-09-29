@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `38dd8a83a77c` | 2026-09-29T03:52:07+00:00 | R57 超批四波：A-341..A-380 加厚深挖 40 家（批35-38）落盘；21×STC-424 出信+13×CONSULT-OEM+6 建档（A-347 Kappa 同集团错峰/A-351 meconet 退市场/A-360 站504/A-365 同A-319主体/A-373 同人错峰/A-378 无邮箱）;STC-424=284 CONSULT-OEM=43;audit 0、unittest 29 OK； |
 | `f94e8e7813c9` | 2026-09-29T03:21:00+00:00 | R57 超批三波：A-301..A-340 加厚深挖 40 家（批31-34）落盘；34/40 出自 AT 伙伴定位器源；30出信+4 CONSULT-OEM+3 红线建档（A-305/329/333)+3 建档供位（A-301/316/334);STC-424=278 CONSULT=26;audit 0、unittest 29 OK；（本地历史被沙盒重置回 dcc1ec1：commit-tree 正父修复，内容零变更） |
 | `aa9b6204ce60` | 2026-09-29T02:18:07+00:00 | R57 超批二波：A-261..A-300 加厚深挖 40 家（批27-30）落盘；STC-424=256/CONSULT-OEM=22；audit 0 errors、unittest 29 OK； |
 | `1afe10259436` | 2026-09-29T01:54:39+00:00 | R57超批 批23-26 (A-221..A-260 40家一次管线): KNT华沙30年MSP不花冤枉钱缺口句/TRIOTRONIK三板块二轨Polainer具名/Connect Data-Sintel明列LANSwitching二轨/The Junction Perle旁替补/DDS Kyland之上Hirschmann之下中档/Spectral渔场机柜备件/InterProjekt Ubiquiti主分销替补/FMS转售商二轨/Young分销官网宕期标注/VARIA入册服务商/10家MikroTik生态CONSULT-OEM(Leo死域活箱双核/A-243252同主体错峰)/A-249/251/258三无建档供位;30×STC-424+10×CONSULT 37出信3建档 audit0 unittest29; |

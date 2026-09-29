@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— B/C复筛第1批：站内在售管理型工业PoE交换机（5口）；原B-175升级，编号顺延A-384
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — WispMax 意 WISP 店品类超宽（Townet managed industrial PoE 交换类目已开+EV 充电桩）：商业对照行+工业件二轨双角（$165 锚点一致+STI-288GP 轮证）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -80,31 +80,49 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W（24口 PoE + 4×10G）
-- **要问的问题**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：商业 PoE 替补对照行（品类开放史角）
+- **要问的问题**：对照行收吗？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 工业线
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
+- **切入点**：Townet 类目旁 8 口工业 PoE 二轨
+- **要问的问题**：工业类目收第二选择吗？
+- **随附/动作**：规格页
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：无响——留档
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第39批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：https://www.wispmax.com|Townet managed industrial PoE switch 5P 在售+EV 线
+- **②芯片/型号**：Townet（工业）
+- **③KP 深挖**：WISP 店多年
+- **④Saga 对标**：STC-424+STI-288GP 双角（$165 锚点一致）
+- **⑤在乎与偏好**：敢上新牌（品类开放史）
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【在售品牌】**Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
+  > Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
+  > 来源：https://www.wispmax.com
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | WispMax 意 WISP 店品类超宽（Townet managed industrial PoE 交换类目已开+EV 充电桩）：商业对照行+工业件二轨双角（$165 锚点一致+STI-288GP 轮证） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -113,10 +131,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— B/C复筛第1批：站内在售管理型工业PoE交换机（5口）；原B-175升级，编号顺延A-384
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：类目已开
+- **W**：店小
+- **O**：双角
+- **T**：多牌
 
 ## 触达与风险红线
 
@@ -150,21 +168,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi WispMax,
+Hi WispMax team,
 
-I came across WispMax - 分销（MikroTik 官方）.
+An industrial PoE switch from Townet already earns shelf space next to EV chargers and WISP kit - that tells us you run an open category. Two honest rows to offer: a documented 24-port commercial PoE switch at $165 USD EXW (2026-09-29), and an 8-port DIN-rail industrial PoE unit beside it.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: would your switch category carry a documented value row, commercial or industrial?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

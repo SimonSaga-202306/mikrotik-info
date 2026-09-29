@@ -3837,12 +3837,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "da",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "CloudPilot.dk 丹麦沙拉 IT 顾问（CVR 25706404；rådgivning/backend/hosting 单页站）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -4126,12 +4126,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "uk",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Oleksandr Kovinia/K2O 乌 MT 顾问（gmail+mikrotik-consult 专用别名）：顾问对照单元（民用限定前句）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -4170,12 +4170,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "uk",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Serhii Antropov 乌 MT 顾问个体（gmail 具名）：顾问对照单元低密（民用限定）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -4295,12 +4295,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "uk",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Vadym Klymenko/Explorer 敖德萨 IT 服务（开发/实施/维护/紧急救援）：顾问对照单元低密（民用限定）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -4466,12 +4466,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Mihail Gyoshev/Digit Consult 保 SMB 全栈 IT 顾问（虚拟化/AD/网设计/GDPR/热点）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -4553,11 +4553,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Nebo Systems 保中型 MSP 全栈（Managed IT/Cloud/Sec/DevOps/自有 Server Colocation）：MSP+集成现场随单窄位（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -4843,12 +4843,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Sylvain Caron 加拿大 MT 顾问个体（hotmail 具名注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -5676,12 +5676,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "sr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Nenad Marinkovic/routerboard.rs 塞 MT 工程（routerboard.rs 明牌；首页近空薄站注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -5762,11 +5762,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "FORMATIK 奥 20 年 IT-Systemhaus 双址（Ing. Florian 兼教育/审计）：托管现场随单+教学对照位双角低密针（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -6054,12 +6054,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "el",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "George Karoubalis 希 MT 顾问个体（gmail 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -6466,11 +6466,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "EBC Marburg 德社区维修店（Terra Partner；服务列表明列 MikroTik Routing/Switching/WiFi）：MT 服务随件缝（Terra 旁；低密；$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -6716,11 +6716,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Spadhausen 意 Romagna 独立 ISP（est 2008；~7.000 客；自有 FTTH/FWA×8 市镇；MANRS）：机柜/POP/接入层 value PoE 强口（自建网角度；$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -6883,7 +6883,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Byte Solutions 意 Bergamo SMB IT 服务（3CX/MikroTik 双证；实业客群）：网络+电话项目 PoE 随单正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -6965,7 +6965,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "WispMax 意 WISP 店品类超宽（Townet managed industrial PoE 交换类目已开+EV 充电桩）：商业对照行+工业件二轨双角（$165 锚点一致+STI-288GP 轮证）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -7051,11 +7051,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "lv",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "NetPro 拉中型 MSP 15+ 年（MTC×4 认证服务页+自有电商 EU 发货）：托管现场随单+店收录双角（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -7302,11 +7302,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "cs",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "FUBAR a.s. 捷 ICT/安全 turnkey（厂商独立宣言；项目墙 ČNB/ČEZ/ČEPS/SŽDC 关基）：私营商业段缝窄针（$165 锚点一致）；关基守界句必压",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -7345,11 +7345,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "cs",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "mapnet 捷 20+ 年 IT 服务+MikroTik 课程明列（基础/高级/防火墙/定制）：现场随单+课堂对照行双角低密（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -7552,12 +7552,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Radion Gareev/Meganet 摩 MT 顾问个体（mail.ru 俄域基础设施注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -7636,11 +7636,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "nl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "SmartEye 比 Wilrijk 楼宇网络 IaaS（30.000+ AP/700+ 地点/165.000 年用户）：接入层 value PoE 强口（换代+备件+新建三流；$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -7885,12 +7885,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "fr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Habib Kanso 法 MT 顾问个体（gmail 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -8092,12 +8092,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "pl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Bartłomiej Maliszewski 波 MT 顾问个体（maliszewski.pro=mydevil 占位页注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -8340,12 +8340,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "pl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Krzysztof Dudek/Innored 波 MT 顾问（域错配：箱挂 Adar 暖通安装公司域注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -8720,12 +8720,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "sv",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Fredrik Söderblom/XPD AB 瑞安全咨询研究屋（2002；白盒审计；CISA feed）：顾问对照单元低密（证据心态角）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -8927,11 +8927,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "PortUp 瑞士 Zürich 网络工程+MT 官训（MT 专精宣言+Cisco/UniFi/Aruba/FortiGate 兼）：现场随单+官训课堂对照行双角（组合开放期；$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -9053,12 +9053,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "lt",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Dovydas Rimeisis/atitic.eu 立顾问转 EU 合规 SaaS（九框架工作区；谱变注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -9098,12 +9098,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "ro",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Mircea Enache 罗 MT 顾问个体（outlook 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -9680,11 +9680,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Archous Networks 美 ISP/DC 咨询+托管（白盒/开放网牌墙 Edge-Core/Ufispace/netElastic；ISPaaS）：开放网语境对照行正口（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -9723,12 +9723,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Kyle Heppler/The ISP Academy 美 MT 专精咨询+课程（社区型新 ISP 孵化）：顾问对照单元；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -9765,7 +9765,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "MakroWisp 美 WISP 电商（多牌墙+热销品缺货轮转快）：替补对照行（旗舰缺货留住单角；$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -10012,12 +10012,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Rick Frey Consulting 美 MT 顾问个体（gmail 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10341,7 +10341,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "MS Dist 英 WISP 电商分销（Ubiquiti/MikroTik 双大牌墙+贸易账户体系）：目录第三档 value 对照行正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -10717,12 +10717,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "nl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Menno van Krimpen/Libernet 荷 MT 顾问（libernet.nl 默认占位页注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -10926,12 +10926,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "nl",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Stephan Szarafinski/MNW 荷 MT 顾问（mnw.nl=JS app 壳 capsapp 注）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11176,12 +11176,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Darío Noguera/LanPixel 西 MikroTik Academy 官训中心+自研远程实验室平台（FUNDAE 报销）：顾问对照单元（课堂/实验室对照角）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11218,7 +11218,7 @@
   "risk_flags": [],
   "lang": "es",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Ditecom Madrid 仪器/传感店（Networking 区=串口转IP/媒体转换器；Pico/HWg）：工业联网类目旁 PoE 口子低密长针（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -11301,12 +11301,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Jorge Castellet/YaTuAprendes 西 MT 官训 #TR0299 全证+Ubiquiti 官训全证（guifi.net 经历）：顾问对照单元（MTCSWE 课堂对照角）；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11345,12 +11345,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Jorge Montero 西 MT 顾问个体（gmail 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11388,11 +11388,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Codisa TS 西 Badajoz 电信工程+MSP+MT 官训（MTCSWE/MTCEWE；ENS ALTA 徽标；无人机巡检）：私营段随单+课堂双角（$165 锚点一致）；ENS 守界句必压",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -11513,11 +11513,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Ibersystems 西 Mataró WiFi/WiMAX/CCTV 工程商（2003 起 8.000+ 项目；MikroTik 官方专家；BBK Live）：监控/WiFi 项目 PoE 随单强口（$165 锚点一致）；码头案例轻守界",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -11557,12 +11557,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Xavier Poza 西 MT 顾问个体（gmail 具名）：顾问对照单元低密；alt STC-424",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
