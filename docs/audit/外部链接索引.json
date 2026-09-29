@@ -748,6 +748,14 @@
         "locator": "L762"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L32"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L41"
       },
@@ -762,6 +770,10 @@
       {
         "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
         "locator": "L124"
+      },
+      {
+        "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
+        "locator": "L140"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -854,6 +866,14 @@
         "locator": "L1200"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L546"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L567"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A210-A239.json",
         "locator": "L217"
       },
@@ -868,6 +888,10 @@
       {
         "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
         "locator": "L126"
+      },
+      {
+        "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -9444,6 +9468,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-973/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://it.linkedin.com/company/simnt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L388"
+      },
+      {
+        "path": "profile/A/A-215-SIM NT srl-意大利.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://it.linkedin.com/company/simnt；https://www.amministrazionicomunali.it/puglia/bari/sim-nt-srl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L367"
       }
     ]
   },
@@ -22652,6 +22700,14 @@
         "locator": "L981"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L299"
+      },
+      {
         "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
         "locator": "L121"
       },
@@ -22662,6 +22718,10 @@
       {
         "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
+        "locator": "L143"
       }
     ]
   },
@@ -23270,6 +23330,14 @@
         "locator": "L1279"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L634"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L655"
+      },
+      {
         "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
         "locator": "L122"
       },
@@ -23284,6 +23352,10 @@
       {
         "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
         "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
+        "locator": "L147"
       }
     ]
   },
@@ -27578,6 +27650,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-861/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alliedtelesis.com（",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L100"
       }
     ]
   },
@@ -36530,6 +36612,14 @@
         "locator": "L1431"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L812"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L833"
+      },
+      {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L120"
       },
@@ -36544,6 +36634,10 @@
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L145"
       }
     ]
   },
@@ -47944,6 +48038,14 @@
         "locator": "L908"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L210"
+      },
+      {
         "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
         "locator": "L122"
       },
@@ -47954,6 +48056,10 @@
       {
         "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
+        "locator": "L144"
       }
     ]
   },
@@ -48560,6 +48666,14 @@
         "locator": "L1127"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L477"
+      },
+      {
         "path": "profile/A/A-216-SOTECH srl-意大利.md",
         "locator": "L121"
       },
@@ -48570,6 +48684,10 @@
       {
         "path": "profile/A/A-216-SOTECH srl-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-216-SOTECH srl-意大利.md",
+        "locator": "L143"
       }
     ]
   },
@@ -48766,6 +48884,14 @@
         "locator": "L1352"
       },
       {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
+        "locator": "L744"
+      },
+      {
         "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
         "locator": "L121"
       },
@@ -48776,6 +48902,10 @@
       {
         "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
         "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
+        "locator": "L143"
       }
     ]
   },

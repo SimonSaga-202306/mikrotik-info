@@ -125,6 +125,22 @@ updated: 2026-09-28
   > Con sede legale a Milano e sedi operative a Milano, Padova e Lecce… È certificata ISO 9001:2015.
   > 来源：http://www.ssc.srl/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：软件/卫生行政商（MEPA-CONSIP 实锤；能力四域无网络件）
+- **②芯片/型号**：—
+- **③KP 深挖**：info@
+- **④Saga 对标**：塔口诚实一针
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
+  > “è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
+  > 来源：http://www.ssc.srl/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -138,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：—
+- **W**：主权
+- **O**：一角
+- **T**：—
 
 ## 触达与风险红线
 
@@ -175,21 +191,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi SSC,
+Hi SSC team,
 
-I came across SSC – Software Servizi Consulting Srl - 集成商/代理（Allied Telesis）.
+A company four-square on software, GIS/BIM, and public-sector services - one honest line from our side before anything else: networking hardware does not appear among your four capability blocks, so this is a one-line-no-more note.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW. Where it could conceivably matter for you: the internal switching behind your three offices' own IT benches - nothing more.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: if any internal network gear is ever chosen at your desk, which brand holds it - and is a documented value unit worth a note in the drawer?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

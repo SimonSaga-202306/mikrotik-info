@@ -126,6 +126,22 @@ updated: 2026-09-28
   > ISO 28001, ISO 23053, ISO 42001, ISO 23894 · ISO 27001, ISO 37001, ISO 45001 · ISO 9001 · Registro TRAC ‖ Siamo abilitati su MePA & SDAPA
   > 来源：https://www.storelink.it/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：集团 SI（ATM 关键守界硬；BMS 私营窄）
+- **②芯片/型号**：大牌墙
+- **③KP 深挖**：sales@
+- **④Saga 对标**：BMS 窄位低优先（体距句）
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
+  > “Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
+  > 来源：https://www.storelink.it/
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：ISO
+- **W**：关键
+- **O**：窄
+- **T**：协议
 
 ## 触达与风险红线
 
@@ -176,21 +192,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi STORELINK,
+Hi Storelink team,
 
-I came across STORELINK S.R.L. - 集成商/代理（Allied Telesis）.
+From BMS control rooms to air-traffic-management on one wall - you operate at the critical-infrastructure end of Italian ICT. Two honest boundaries from our side: your ATM and MePA/SDAPA engagements stay fully out of scope here, and our scale suits selective deliveries, not framework contracts.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the networking layer inside your private-sector BMS and impiantistica projects, where a building's floors need switches more often than a control center does.
 
-One question: How many PoE ports does a typical site of yours need today?
+One question: in your private building automation projects, which switch brand holds the networking layer today - and is a documented value unit worth a line in your component book?
 
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

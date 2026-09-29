@@ -357,6 +357,17 @@ OVERRIDE = {
  'A-208': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'NSI Cuneo SMB 自研 NSGest：服务谱随单 value 件（$165 锚点一致）'},
  'A-209': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Newsoft 皮埃蒙特 Zebra/3CX 同盟：VoIP+仓储接入（$165 锚点一致）'},
  'A-210': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Omniconnect AXIS/MOBOTIX+Riello：商业段随单（$165 锚点一致）；军事谱系守界+Allied 列位'},
+ # ── R56 批 22（A-211..A-220 深挖 2026-09-28）──
+ 'A-211': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'PAM 墨西拿办公用品 IT 支线：低信号窄位（$165 锚点一致）'},
+ 'A-212': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'S.C.E Allied R 级名录（Pomezia）：无邮箱——建档供位待用户补（A-205 先例）'},
+ 'A-213': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Sfera 全谱 SI：私营段（自动化+网安）随单（$165 锚点一致）；公共守界'},
+ 'A-214': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Sielco 瓦雷塞 RENTRI 软件主线：IT 支持支线随单（$165 锚点一致）；Yealink 在墙'},
+ 'A-215': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SIM NT 巴里 1995 SI：私营网络随单（$165 锚点一致）；Esperia/MePA PA 主权守界、建站关闭注明'},
+ 'A-216': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Sotech Brescia MSP：fornitura hardware 主动采购块 value 硬缺口（$165 锚点一致）；四人具名——批内机选'},
+ 'A-217': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'SSC Milano 软件/卫生行政（MEPA-CONSIP 实锤）：塔口诚实一针（$165 锚点一致）本批最低触点'},
+ 'A-218': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'STL 伦巴第电话+布线双主业：reti dati 随单+Voice VLAN（$165 锚点一致）；PA/PNRR 守界'},
+ 'A-219': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Storelink 集团 SI：私营 BMS 楼宇窄位（$165 锚点一致）；ATM/MePA-SDAPA 守界+体距句'},
+ 'A-220': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Lineas y Cables 西班牙集团：私营电信工程随单（$165 锚点一致）；铁路/能源/军工三重守界+Allied 实版'},
 }
 
 out = {}
