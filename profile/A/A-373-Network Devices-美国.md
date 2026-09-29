@@ -1,11 +1,11 @@
 # Network Devices Inc.
 
-> **评级 A**　|　美国　|　档案编号 `A-569`　|　优先级 ★★★　|　状态：未触达
+> **评级 A**　|　美国　|　档案编号 `A-373`　|　优先级 ★★★　|　状态：未触达
 >
 > **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
-code: A-569
+code: A-373
 rating: A
 country: 美国
 biz_org: 公司/工作室（有官网）

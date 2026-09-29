@@ -1,6 +1,6 @@
 # OEM Automatic spol. s r.o.
 
-> **评级 B**　|　捷克 · Zdiby (Praha)　|　档案编号 `B-200`　|　优先级 ★★★　|　状态：未触达
+> **评级 B**　|　捷克 · Zdiby (Praha)　|　档案编号 `B-200`　|　优先级 ★★　|　状态：未触达
 
 ---
 

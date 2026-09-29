@@ -723,7 +723,7 @@ OVERRIDE = {
  'A-568': {'org': '公司/工作室（有官网）', 'model': '分销（增值分销 VAD）', 'vol': 5, 'p1': 'STC-424DGGPM-280W',
    'needs': {'poe': True, 'industrial': True, 'tenG': True, 'l2plus': True, 'voice': False, 'oem': False, 'hotel': False, 'training': False},
    'p1_reason': 'Purdicom 英 Oxfordshire £38–45M VAD（CIN 05361794，2005 起；Cambium 冠军 2020）：15 品牌谱交换线空（ICX=Broadcom/Cambium 被动PoE/TP-Link 散件）→ PoE++/10G 对照行+工业二轨（$165 锚点一致）'},
- 'A-569': {'org': '公司/工作室（有官网）', 'model': '分销（独立 IT 硬件零售分销）', 'vol': 4, 'p1': 'STC-424DGGPM-280W',
+ 'A-373': {'org': '公司/工作室（有官网）', 'model': '分销（独立 IT 硬件零售分销）', 'vol': 4, 'p1': 'STC-424DGGPM-280W',
    'needs': {'poe': True, 'industrial': False, 'tenG': True, 'l2plus': True, 'voice': False, 'oem': False, 'hotel': False, 'training': False},
    'p1_reason': 'Network Devices 美 TX Sugar Land 独立分销（2014 起 Trustpilot 4.7/44 评，10K+ 客户 50+ 国；MikroTik CRS 全谱含 CRS518/3xx 在架）：二手 Cisco 与 CRS3xx 之间全新保修对照行（$165 锚点一致）'},
 }

@@ -117,6 +117,21 @@ class RepositoryTests(unittest.TestCase):
     R52_PROMOTED = {'C-011': 'A-431'}
     R52_PROMOTED_NEW = set(R52_PROMOTED.values())
     R52_PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注', 'C级细分'}
+    # R59 资产池审核处置(2026-09-29,docs/audit/客户资产池审核_2026-09-29.md 决议):
+    # ①合并真重复:B-233(旧 Adnan 残缺行)→B-234、A-373(旧 Samburski)→A-369(受益行,备注/评级依据允许加注)
+    # A-369 为 R47 target 区行:targets 分支本放行'网站/入口/联系方式/备注/评级依据',合并受益行合并后须并回同宽allowed,
+    # 不然被 allowed 严格分支挤出 targets 而冻结联系方式。
+    R59_MERGED_BENEFICIARY = {'B-234': {'备注', '评级依据'}, 'A-369': {'网站', '入口/联系方式', '备注', '评级依据'}}
+    # ②四户 ★★★→★★ 降级(触达手段不足):允许字段=优先级+备注
+    R59_DOWNGRADED = {'A-205', 'B-200', 'B-295', 'A-568'}
+    R59_DOWNGRADED_FIELDS = {'优先级', '备注'}
+    # A-205/A-568 位于 targets 区(200<=n<379),若没有 allowed 会走 targets 宽分支放行
+    # {'网站','入口/联系方式','备注','评级依据'};故给 allowed 同时放行这 4 字段 + 优先级。
+    R59_DOWNGRADED_TARGETS = {'A-205', 'A-568'}
+    R59_DOWNGRADED_TARGETS_FIELDS = {'优先级', '网站', '入口/联系方式', '备注', '评级依据'}
+    # ③OEM Automatic 集团互链:允许字段=备注
+    R59_GROUP_LINK = {'B-200', 'B-295', 'C-066'}
+    #
     # R58 退信处置(2026-09-29 用户实测,见 batch/邮件退信_2026-09-29.json):
     # A-054 steffo@blocked→fredrik.brunzell@主走; A-096 info@not-found永久停用→sales@主;
     # A-101 sales@blocked→graham.budd@主+sales@抄送; A-103/A-105 退信停用仅归档不外溢。
@@ -317,16 +332,22 @@ class RepositoryTests(unittest.TestCase):
         # change 评级/档案编号 (+ the R48 reason/note fields), so those positions are compared with
         # the promotion map applied instead of raw equality.
         pos = lambda r: (r['公司名'], r['国家'])
-        # R58(2026-09-29): MikroTik 竞品谱系挖客户第 1 波——尾部新增 6 行
-        # (A-568/A-569 深挖 + B-536 评估 + C-371/C-372/C-373 评估)，前 1033 行位置冻结不动。
-        self.assertEqual(len(self.rows), len(baseline) + 6)
-        self.assertEqual([pos(r) for r in baseline], [pos(r) for r in self.rows[:len(baseline)]])
+        # R58(2026-09-29): MikroTik 竞品谱系挖客户第 1 波——尾部新增 6 行。
+        # R59(2026-09-29): 资产池审核去重——B-233(原 Adnan RIHAN 残缺行)并入 B-234、A-373(原 Veaceslav Samburski)并入 A-369,删掉 2 行;
+        # 同时把退役号复用:B-536 Tech Atlantix→B-233、A-569 Network Devices→A-373。净增 4 行。
+        merged_away = {'B-233', 'A-373'}
+        baseline_f = [r for r in baseline if r['档案编号'] not in merged_away]
+        self.assertEqual(len(self.rows), len(baseline_f) + 6)
+        self.assertEqual([pos(r) for r in baseline_f], [pos(r) for r in self.rows[:len(baseline_f)]])
         targets = {f'A-{n:03}' for n in range(200, 379)}
-        for before, after in zip(baseline, self.rows):
+        for before, after in zip(baseline_f, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
                        or self.r49_allowed(before['档案编号'])
-                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None))
+                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None)
+                       or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
+                       or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
+                             else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 self.assertEqual(after['评级'], 'A')
@@ -541,6 +562,10 @@ class RepositoryTests(unittest.TestCase):
             batch = json.loads(path.read_text())['records']
             self.assertEqual([r['code'] for r in batch], [f'A-{n:03}' for n in range(low, high)])
             for r in batch:
+                # R59 资产池改号:A-373(原 Samburski)并入 A-369,A-373 号由 Network Devices(原 A-569)占用;
+                # batch JSON 为历史快照,A-373 record 与原 CSV 行不再对应,跳过其 company-name 对照。
+                if r['code'] == 'A-373':
+                    continue
                 row = self.by_code[r['code']]
                 self.assertEqual(row['公司名'], r['name'])
                 self.assertTrue(r['quote'] and r['fields_supported'] and r['retrieved_on'])
@@ -556,13 +581,19 @@ class RepositoryTests(unittest.TestCase):
             return subprocess.check_output(['git', 'show', f'{CONTACT_BASELINE}:{path}'], cwd=ROOT)
         baseline = [r55_sagify_row(r) for r in csv.DictReader(io.StringIO(old(CSV).decode('utf-8-sig')))]
         # R58(2026-09-29): MikroTik 竞品谱系挖客户第 1 波——尾部新增 6 行(零重复);
-        # 比较走 zip(baseline, rows) 自动只覆盖前 1033 行,新行不参与历史字段冻结断言。
-        self.assertEqual(len(baseline) + 6, len(self.rows))
-        for before, after in zip(baseline, self.rows):
+        # R59(2026-09-29): 资产池去重——删 B-233 旧(Adnan)→B-234、删 A-373 旧(Samburski)→A-369;
+        # B-536 Tech Atlantix 改号 B-233、A-569 Network Devices 改号 A-373 占用退役号。
+        merged_away = {'B-233', 'A-373'}
+        baseline_f = [r for r in baseline if r['档案编号'] not in merged_away]
+        self.assertEqual(len(baseline_f) + 6, len(self.rows))
+        for before, after in zip(baseline_f, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
                        or self.r49_allowed(before['档案编号'])
-                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None))
+                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None)
+                       or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
+                       or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
+                             else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 extra = (self.R52_PROMOTED_FIELDS if (before['档案编号'] in self.R52_PROMOTED
@@ -595,10 +626,12 @@ class RepositoryTests(unittest.TestCase):
                 | set(self.R52_PROMOTED) | self.R52_PROMOTED_NEW
                 | set(self.R53_PROMOTED) | self.R53_PROMOTED_NEW
                 # R58(2026-09-29)新挖入库 6 户:xlsx 现状比基线多 6 行,跳过其编号使存量行仍可字节级对比
-                | {'A-568', 'A-569', 'B-536', 'C-371', 'C-372', 'C-373'}
+                | {'A-568', 'A-373', 'B-233', 'C-371', 'C-372', 'C-373'}
                 # R58 退信处置(2026-09-29 用户实测):5 户联系方式/备注字段已更新,
                 # xlsx 反向信号名单 sheet 同步重导,存量其他行仍字节级对齐
-                | self.R58_BOUNCED)
+                | self.R58_BOUNCED
+                # R59 审核处置:受益/降级/互链行的备注/优先级字段被改,其 xlsx 行整体过滤
+                | set(self.R59_MERGED_BENEFICIARY) | self.R59_DOWNGRADED | self.R59_GROUP_LINK)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)
@@ -624,8 +657,9 @@ class RepositoryTests(unittest.TestCase):
             av = [tuple(r55_sagify_cells(r)) for r in a[name].values]
             bv = [tuple(r55_sagify_cells(r)) for r in b[name].values]
             self.assertEqual(av, bv, name)
-        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 569)
-        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 180)
+        # R59 审核去重:A -1(删 A-373 旧)=568、B -1(删 B-233 旧)=179,改号不动行数;C 不变
+        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 568)
+        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 179)
         self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 290)
         a.close()
         b.close()
@@ -955,7 +989,8 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual([r['code'] for r in records if r['level'] == 'public-register'], ['A-372'])
         self.assertEqual([r['code'] for r in records if r['level'] == 'leads-only'], ['A-378'])
         self.assertFalse(by_code['A-378']['email'])
-        for code in [f'A-{n:03}' for n in range(360, 379)]:
+        for code in [f'A-{n:03}' for n in range(360, 379) if n != 373]:
+            # R59 改号:A-373 由 Network Devices(原 A-569)占用,原 Samburski 并入 A-369;source-level 批次口径不适用
             self.assertIn('来源等级：', self.by_code[code]['备注'])
             self.assertIn(f'batch/contact_research_2026-09-27_A360-A378.json#{code}', self.by_code[code]['备注'])
             self.assertTrue(by_code[code]['quote'] and by_code[code]['fields_supported'] and by_code[code]['retrieved_on'])
@@ -981,7 +1016,8 @@ class RepositoryTests(unittest.TestCase):
             profile = next((ROOT / 'profile/A').glob(code + '-*.md')).read_text()
             self.assertIn(f'来源等级：{by_code[code]["level"]}', profile)
         self.assertEqual(self.by_code['A-365']['城市'], '')
-        self.assertEqual(self.by_code['A-373']['城市'], 'Brasov')
+        # R59 改号:A-373 由 Network Devices(TX,原 A-569)占用,原 Samburski 并入 A-369
+        self.assertEqual(self.by_code['A-373']['城市'], 'Sugar Land, TX')
 
     def test_r48_bc_rescreen_promotions(self):
         obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_BCrescreen_A379-A384.json').read_text())
@@ -1015,12 +1051,13 @@ class RepositoryTests(unittest.TestCase):
                 self.assertEqual(self.grade_now(r['code']), 'A')   # R50/R51 达标升级
             else:
                 self.assertEqual(self.grade_now(r['code']), 'B')
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 569)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 180)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 568)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 179)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 290)
         a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
-        self.assertEqual(a_nums, list(range(1, 570)))
-        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 569)
+        self.assertEqual(a_nums, list(range(1, 569)))
+        # R59 去重:A 档 -1 = 568(A-001..A-568 全齐,569 号空出)
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 568)
         for code in ['A-379', 'A-381']:
             self.assertNotIn('【待补】', self.by_code[code]['备注'])
             self.assertIn('待补标记解除', self.by_code[code]['备注'])
@@ -1095,7 +1132,7 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn(r['email'], row['入口/联系方式'])
             self.assertIn('前 49 位内容可编辑', r['note'])
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 290)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 180)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 179)
 
     def test_r50_full_list_audit_and_promotions(self):
         obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_R50_A提炼.json').read_text())
@@ -1130,13 +1167,15 @@ class RepositoryTests(unittest.TestCase):
                 self.assertEqual(self.grade_now(code), 'A')   # R51/R52/R53 达标升级
             else:
                 self.assertEqual(self.by_code[code]['评级'], code[0])
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 569)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 180)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 568)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 179)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 290)
         a_nums = sorted(int(r['档案编号'][2:]) for r in self.rows if r['评级'] == 'A')
-        self.assertEqual(a_nums, list(range(1, 570)))
-        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 569)
-        self.assertEqual(len(list((ROOT / 'profile/B').glob('B-*.md'))), 180)
+        self.assertEqual(a_nums, list(range(1, 569)))
+        # R59 去重:A 档 -1 = 568(A-001..A-568 全齐,569 号空出)
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 568)
+        # R59 去重:B 档 -1 = 179
+        self.assertEqual(len(list((ROOT / 'profile/B').glob('B-*.md'))), 179)
         self.assertEqual(len(list((ROOT / 'profile/C').glob('C-*.md'))), 290)
         leftover = [r for r in self.rows if '【待补】' in r['备注']]
         self.assertEqual(len(leftover), 10)
@@ -1174,8 +1213,8 @@ class RepositoryTests(unittest.TestCase):
         for code in ['B-245', 'C-214']:           # 早前轮次已记录的 2 条重复提示，仍不合并
             expect = 'A' if code in self.R53_PROMOTED else code[0]
             self.assertEqual(self.grade_now(code), expect)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 569)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 180)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 568)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 179)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 290)
         leftover = [r for r in self.rows if '【待补】' in r['备注']]
         self.assertEqual(len(leftover), 10)
@@ -1210,10 +1249,11 @@ class RepositoryTests(unittest.TestCase):
                 continue
             self.assertIn(r['code'], self.by_code)
             self.assertEqual(self.by_code[r['code']]['评级'], r['code'][0])
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 569)
-        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 180)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'A'), 568)
+        self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'B'), 179)
         self.assertEqual(sum(1 for r in self.rows if r['评级'] == 'C'), 290)
-        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 569)
+        # R59 去重:A 档 -1 = 568(A-001..A-568 全齐,569 号空出)
+        self.assertEqual(len(list((ROOT / 'profile/A').glob('A-*.md'))), 568)
 
     def test_r53_b_rescreen_promotions(self):
         obj = json.loads((ROOT / 'batch/contact_research_2026-09-28_R53_B复筛升级.json').read_text())
@@ -1288,9 +1328,10 @@ class RepositoryTests(unittest.TestCase):
             self.skipTest(BASELINE_MISSING_REASON)
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 58):
+        for n in range(1, 59):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 59)  # 58 rounds + template
+        # R59(2026-09-29)资产池审核轮已归档,轮次段+时间戳各加一
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 60)  # 59 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

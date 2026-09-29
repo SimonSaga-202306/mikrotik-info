@@ -1,6 +1,6 @@
 # Luca Masetto
 
-> **评级 A**　|　意大利 · Santa Maria di Sala (VE)　|　档案编号 `A-205`　|　优先级 ★★★　|　状态：未触达
+> **评级 A**　|　意大利 · Santa Maria di Sala (VE)　|　档案编号 `A-205`　|　优先级 ★★　|　状态：未触达
 >
 > **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
