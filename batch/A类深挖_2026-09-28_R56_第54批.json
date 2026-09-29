@@ -1,0 +1,897 @@
+{
+  "batch": 64,
+  "date": "2026-09-29",
+  "source": "R55/R56 全A深挖·合并加厚（R57 超批八波）",
+  "records": [
+    {
+      "customer": "A-531",
+      "fact": "Baltic Networks（美国）：Baltic Networks 美大店（CCR2216 $2495/CRS520-16XQ $1975/RDS2216 $1850 现货；WiFi7 giveaway 2026 活；free shipping $150 档）",
+      "inference": "旗舰+中端双杸=中档 value 档空位",
+      "hypothesis": "CCS 旗舰旁 value 对照正口",
+      "evidence_main": "https://www.balticnetworks.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "hello@balticnetworks.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 MT/Ubi 大店（100G 谱尖）",
+        "产品线与在售品牌": "MikroTik CCR/CRS100G/RDS+Ubiquiti 全谱",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "hello@balticnetworks.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "CCR2216/CRS520 谱旁 value 对照正口",
+        "风险与注意": "高端谱厚"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "CCR2216-1G-12XS-2XQ $2495 + CRS520-4XS-16XQ $1975 in stock",
+          "source": "https://www.balticnetworks.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "旗舰旁 value 档",
+          "question": "加档吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.balticnetworks.com|旗舰谱厚",
+          "②芯片/型号": "MikroTik CCR/CRS100G/RDS+Ubiquiti 全谱",
+          "③KP 深挖": "100G 现货",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "空位补",
+          "⑥SWOT": "S 旗舰谱厚 / W 高端厚 / O value 档 / T 营销活"
+        },
+        "care": [
+          "空位补"
+        ],
+        "swot": {
+          "S": "旗舰谱厚",
+          "W": "高端厚",
+          "O": "value 档",
+          "T": "营销活"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi Baltic Networks team,\n\nCCR2216 at 2,495 USD in stock, CRS520 100G on the shelf and a WiFi 7 giveaway running - the flagship end is covered; the installer mid-range is the other half of the basket\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside the flagship CCR/CRS rows, would you add one documented 24-port PoE value line for mid-range installer baskets?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "beside the flagship CCR/CRS rows, would you add one documented 24-port PoE value line for mid-range installer baskets?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|大店|100G谱|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-532",
+      "fact": "BizSysCon (BSC)（美国）：BizSysCon 美店（UniFi 谱主：U7-Pro-XG/Protect/Access；自牌 Lysora AI networking；AI BOM 推）",
+      "inference": "自牌 Lysora=懂贴牌+多牌策展",
+      "hypothesis": "对照+自牌双路口正口",
+      "evidence_main": "https://shop.bizsyscon.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@bizsyscon.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 UniFi 主线店（自牌 Lysora）",
+        "产品线与在售品牌": "UniFi U7 XG/视频/门禁+自牌 Lysora AI 谱",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@bizsyscon.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "UniFi 谱主+自牌双熟→对照行正口",
+        "风险与注意": "UniFi 谱忠诚"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Lysora AI BOM + UniFi U7-Pro-XG/Protect/Access 谱",
+          "source": "https://shop.bizsyscon.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "Lysora 旁 PoE 档",
+          "question": "benchmark 吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://shop.bizsyscon.com|策展+贴牌",
+          "②芯片/型号": "UniFi U7 XG/视频/门禁+自牌 Lysora AI 谱",
+          "③KP 深挖": "自牌 Lysora",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "双路",
+          "⑥SWOT": "S 策展+贴牌 / W UniFi 厚 / O value 档 / T AI 叙事"
+        },
+        "care": [
+          "双路"
+        ],
+        "swot": {
+          "S": "策展+贴牌",
+          "W": "UniFi 厚",
+          "O": "value 档",
+          "T": "AI 叙事"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi BizSysCon team,\n\nUniFi U7 XG, protect cameras and access control on the shelf, and your own Lysora line proving you already curate beyond Ubiquiti\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: with Lysora showing you curate beyond one vendor, would you benchmark one documented 24-port PoE value row beside the UniFi core?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "with Lysora showing you curate beyond one vendor, would you benchmark one documented 24-port PoE value row beside the UniFi core?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|UniFi主线|自牌Lysora|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-533",
+      "fact": "CTIconnect（美国）：CTIconnect 美无线大 VAD(Proxim/Taara 光认证班/Thor E2/Eltek 电源/Vertical Cable；自牌 CTI-ENCL-24RU 机柜 $4350;NetSuite 店+24/7 支）",
+      "inference": "自牌 CTI-ENCL=懂贴牌；site 电源谱=塔站 PoE 场景口",
+      "hypothesis": "对照+贴牌双路正口",
+      "evidence_main": "https://www.cticonnect.com",
+      "tech": "VAD 栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@cticonnect.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美德州/佛州大 VAD（无线+电源）",
+        "产品线与在售品牌": "Proxim/Taara 光/Thor/Eltek 电源/Vertical Cable+自牌 CTI-ENCL 机柜",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@cticonnect.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "自牌机柜+Eltek 电源谱=对照行正口（贴牌熟）",
+        "风险与注意": "VAD 管线长"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "CTI-ENCL-24RU-FLM-AC-BAT1 自牌 $4350 + Eltek DC power 谱",
+          "source": "https://www.cticonnect.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "塔站篮补 PoE 档",
+          "question": "评吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.cticonnect.com|贴牌熟",
+          "②芯片/型号": "Proxim/Taara 光/Thor/Eltek 电源/Vertical Ca",
+          "③KP 深挖": "自牌机柜",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "双路",
+          "⑥SWOT": "S 贴牌熟 / W 管线长 / O value 档 / T 服务深"
+        },
+        "care": [
+          "双路"
+        ],
+        "swot": {
+          "S": "贴牌熟",
+          "W": "管线长",
+          "O": "value 档",
+          "T": "服务深"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补周期",
+        "首发量"
+      ],
+      "email": "Hi CTIconnect team,\n\nApex9 Lion enclosures under your own CTI part numbers, Eltek DC power beside Taara optical links - a house that already manufacturers its own accessories will read a third-party spec sheet fast\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: with CTI-ENCL proving your private-label muscle, would you evaluate one documented 24-port PoE value unit for the tower-site basket?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "with CTI-ENCL proving your private-label muscle, would you evaluate one documented 24-port PoE value unit for the tower-site basket?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|大VAD|自牌机柜|对照+贴牌",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-534",
+      "fact": "Digicomm International（美国）：Digicomm 美 FTTx/HFC 大分销（CommScope/EXFO 测试/Positron GAM/Gilbert 连接器独家+GigaXtend 放大器+headend optics;MT accessories 类目薄）",
+      "inference": "有源类目薄萌→配套窄位；粗大主力 HFC 不干扰",
+      "hypothesis": "有源窄位低密收录",
+      "evidence_main": "https://digicomm.com",
+      "tech": "分销栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@digicomm.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 FTTx/HFC 大分销",
+        "产品线与在售品牌": "CommScope/EXFO/Positron/Gilbert 独家+MikroTik accessories",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@digicomm.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "有线主业旁有源窄位低密（MT accessories 薄）",
+        "风险与注意": "HFC/光学占大头"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Exclusive Gilbert distribution + MikroTik Accessories 类目",
+          "source": "https://digicomm.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "有源类目补档",
+          "question": "填补吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://digicomm.com|光学+测试强",
+          "②芯片/型号": "CommScope/EXFO/Positron/Gilbert 独家+Mikro",
+          "③KP 深挖": "Gilbert 独家",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "类目补",
+          "⑥SWOT": "S 光学+测试强 / W 有源薄 / O value 档 / T MSO 客户"
+        },
+        "care": [
+          "类目补"
+        ],
+        "swot": {
+          "S": "光学+测试强",
+          "W": "有源薄",
+          "O": "value 档",
+          "T": "MSO 客户"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "谱薄",
+        "首发量"
+      ],
+      "email": "Hi Digicomm team,\n\nCommScope nodes, EXFO testers, Positron GAM and exclusive Gilbert connectors - a broadband house where active switching is the thin shelf beside optics\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a benchmark and catalogue-completeness line, not to displace the line you lead with.\n\nOne question: your MikroTik accessory corner is thin today - would one documented 24-port PoE value line fill it without disturbing the HFC core?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "your MikroTik accessory corner is thin today - would one documented 24-port PoE value line fill it without disturbing the HFC core?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|FTTxHFC分销|有源薄|低密窄位",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-535",
+      "fact": "DoubleRadius（美国）：DoubleRadius 美 WISP 大店（Ubi/MT/SAF Tehnika/Baicells/RF elements/Cambium;training & events 页；beyond the box 服务）",
+      "inference": "多牌对照惯性=对照行自然",
+      "hypothesis": "多牌对照正口",
+      "evidence_main": "https://www.doubleradius.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "salesteam@doubleradius.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 WISP 全谱大店",
+        "产品线与在售品牌": "Ubiquiti/MikroTik/SAF Tehnika/Baicells/RF elements/Cambium",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "salesteam@doubleradius.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "全谱+SAF/Baicells 门卫=对照行正口",
+        "风险与注意": "谱厚需规格价格双实"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Ubiquiti/MikroTik/SAF/Baicells/Cambium/RF elements 全谱",
+          "source": "https://www.doubleradius.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "对照表加行",
+          "question": "加行吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.doubleradius.com|对照惯性",
+          "②芯片/型号": "Ubiquiti/MikroTik/SAF Tehnika/Baicells/R",
+          "③KP 深挖": "WISP 多年",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "对照行",
+          "⑥SWOT": "S 对照惯性 / W 谱厚 / O value 档 / T 服务活"
+        },
+        "care": [
+          "对照行"
+        ],
+        "swot": {
+          "S": "对照惯性",
+          "W": "谱厚",
+          "O": "value 档",
+          "T": "服务活"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi DoubleRadius team,\n\nUbiquiti, MikroTik, SAF Tehnika, Baicells and Cambium on one card, with training sessions running - a WISP counter where comparison rows are the daily language\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: your WISP customers quote against three brands at once - would you add one documented 24-port PoE value row to the comparison sheet?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "your WISP customers quote against three brands at once - would you add one documented 24-port PoE value row to the comparison sheet?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|WISP大店|多牌全谱|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-536",
+      "fact": "Flytec Computers（美国）：Flytec 迈阿密分销（Fiber/Wired/Wireless/VOIP/Surveillance/Auxiliary 六类全；sign-in 专业口）",
+      "inference": "六类全=筐配逻辑；专业口=掂量收类",
+      "hypothesis": "收录对照正口",
+      "evidence_main": "https://flyteccomputers.com",
+      "tech": "分销栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@flyteccomputers.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "迈阿密六类专业分销",
+        "产品线与在售品牌": "Fiber/Wired/Wireless/VOIP/Surveillance/Aux 六类全",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@flyteccomputers.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "专业分销口收录正口",
+        "风险与注意": "登录挡无法估价"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Fiber/Wired/Wireless/VOIP/Surveillance/Auxiliary 六类",
+          "source": "https://flyteccomputers.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "部门挡补档",
+          "question": "留档吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://flyteccomputers.com|部门清晰",
+          "②芯片/型号": "Fiber/Wired/Wireless/VOIP/Surveillance/A",
+          "③KP 深挖": "六部门",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "部门补",
+          "⑥SWOT": "S 部门清晰 / W 登录挡 / O value 档 / T 专业客户"
+        },
+        "care": [
+          "部门补"
+        ],
+        "swot": {
+          "S": "部门清晰",
+          "W": "登录挡",
+          "O": "value 档",
+          "T": "专业客户"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "登录后谱",
+        "首发量"
+      ],
+      "email": "Hi Flytec team,\n\nA Miami distributor with six clean departments - fiber, wired, wireless, VOIP, surveillance, auxiliary - built for professional buyers behind a login\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your wired and wireless departments, is there one shelf for a documented 24-port PoE value unit for your installer accounts?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "in your wired and wireless departments, is there one shelf for a documented 24-port PoE value unit for your installer accounts?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|迈阿密分销|六类全|收录正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-537",
+      "fact": "Hexstar（美国）：Hexstar 美 MT 老批店（OpenCart;CRS109/CRS125/RB 谱+天线；站面 PHP warning=维护注）",
+      "inference": "站点老旧注明-先低密记录",
+      "hypothesis": "收录低密",
+      "evidence_main": "https://www.hexstar.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "info@hexstar.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 MT 老批店",
+        "产品线与在售品牌": "MikroTik 全谱（CRS/RB/天线/Radio）",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "info@hexstar.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "MT 专卖老谱收录低密（站老讯注）",
+        "风险与注意": "OpenCart 老站-活性注"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "CRS109/CRS125-24G-1S 谱+PHP notice",
+          "source": "https://www.hexstar.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "老谱补档",
+          "question": "刷新吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.hexstar.com|谱全",
+          "②芯片/型号": "MikroTik 全谱（CRS/RB/天线/Radio）",
+          "③KP 深挖": "老站",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "先记录",
+          "⑥SWOT": "S 谱全 / W 活性疑 / O value 档 / T 老客"
+        },
+        "care": [
+          "先记录"
+        ],
+        "swot": {
+          "S": "谱全",
+          "W": "活性疑",
+          "O": "value 档",
+          "T": "老客"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "站活性",
+        "首发量"
+      ],
+      "email": "Hi Hexstar team,\n\nA MikroTik-focused catalog with CRS rows and outdoor radios - and a PHP notice on the front page hinting the shop runs on autopilot\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a benchmark and catalogue-completeness line, not to displace the line you lead with.\n\nOne question: your MikroTik catalog is deep but aging - would a documented 24-port PoE value line freshen the switch section for long-time buyers?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "your MikroTik catalog is deep but aging - would a documented 24-port PoE value line freshen the switch section for long-time buyers?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|MT老批店|站老讯|低密",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-538",
+      "fact": "ITAMTECH（美国）：ITAMTECH 迈阿密 50 牌大盘（MT/Mimosa/Ubiquiti/Grandstream/Yealink/Fanvil/2N/ZKTeco/Netonix/LigoWave/V-SOL/RF elements/Tycon；同日 3pm 前发+best price guarantee）",
+      "inference": "voice 谱尖+Netonix=VLAN PoE 意识；best-price pledge=value 档逻辑天然",
+      "hypothesis": "语音谱尖旁 value 对照正口",
+      "evidence_main": "https://itamtech.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@itamtech.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "迈阿密 50 牌大盘（语音尖）",
+        "产品线与在售品牌": "MT/Mimosa/Ubi/Grandstream/Yealink/Fanvil/2N/Netonix/V-SOL 等 50 牌",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@itamtech.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "牌墙+语音谱尖旁 value 对照正口",
+        "风险与注意": "50 牌挤—需 EXW 锐"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Grandstream/Yealink/Fanvil/Netonix/MikroTik 牌墙+best price guarantee",
+          "source": "https://itamtech.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "best-price 谱旁对照",
+          "question": "benchmark 吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://itamtech.com|voz 尖+价诺",
+          "②芯片/型号": "MT/Mimosa/Ubi/Grandstream/Yealink/Fanvil",
+          "③KP 深挖": "50 牌墙",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "谱旁对照",
+          "⑥SWOT": "S voz 尖+价诺 / W 牌挤 / O EXW 档 / T 当曰发"
+        },
+        "care": [
+          "谱旁对照"
+        ],
+        "swot": {
+          "S": "voz 尖+价诺",
+          "W": "牌挤",
+          "O": "EXW 档",
+          "T": "当曰发"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi ITAMTECH team,\n\nFifty brands on one Magento wall - Grandstream, Yealink and Fanvil for voice, Netonix and MikroTik for switching - with same-day shipment and a best-price pledge\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: your best-price-guarantee shelf already carries Grandstream PoE - would you benchmark one documented 24-port PoE value unit against it?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "your best-price-guarantee shelf already carries Grandstream PoE - would you benchmark one documented 24-port PoE value unit against it?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|50牌大盘|语音尖|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-539",
+      "fact": "IT Shopp（美国）：IT Shopp 美店（Yealink T88W/T85W 新品队+TP-Link SG3452P $549/TL-SG1016PE $176+Grandstream GWN7806PL-PRO $545+Tycon 防浪涌）",
+      "inference": "PoE 谱已价化；value 档 = EXW 对位",
+      "hypothesis": "PoE 谱旁 value 对照正口",
+      "evidence_main": "https://www.itshopp.com",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "eddy@itshopp.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美综合网店（语音头）",
+        "产品线与在售品牌": "Yealink/Grandstream/TP-Link/Ubiquiti/Alta Labs/Tycon",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "eddy@itshopp.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "Yealink 新队+TP-Link/Grandstream PoE 在价=对照正口",
+        "风险与注意": "谱语音为主"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "TL-SG3452P $549 + GWN7806PL-PRO $545 在价+Yealink T88W 新品",
+          "source": "https://www.itshopp.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "PoE 谱旁 value 档",
+          "question": "加档吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.itshopp.com|PoE 谱在价",
+          "②芯片/型号": "Yealink/Grandstream/TP-Link/Ubiquiti/Alt",
+          "③KP 深挖": "语音新品滚",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "对照行",
+          "⑥SWOT": "S PoE 谱在价 / W 语音厚 / O EXW 档 / T 谱紧"
+        },
+        "care": [
+          "对照行"
+        ],
+        "swot": {
+          "S": "PoE 谱在价",
+          "W": "语音厚",
+          "O": "EXW 档",
+          "T": "谱紧"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi IT Shopp team,\n\nYealink T85W and T88W on the new-arrival row, TP-Link TL-SG3452P at 549 USD and Grandstream GWN7806PL-PRO at 545 USD - the PoE switch tier is already priced out\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: with TP-Link and Grandstream PoE already priced side by side, is there room for a documented 24-port value row at a sharper EXW point?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "with TP-Link and Grandstream PoE already priced side by side, is there room for a documented 24-port value row at a sharper EXW point?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|语音头店|PoE在价|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-540",
+      "fact": "Microcom Technologies（美国）：Microcom 美分销（Tycon injectors 谱banner+Reseller Partner 省 50% 项目；Netgear/Ubiquiti/MT/Cambium/Grandstream/Yealink/Fanvil/MTI 天线；Yahoo 老站注）",
+      "inference": "Tycon PoE 配件谱=PoE 意识已在；reseller 折扣口=走量门路",
+      "hypothesis": "Tycon 谱旁 value 对照正口",
+      "evidence_main": "https://www.microcom.us",
+      "tech": "分销电商栈",
+      "hr": "（官网推）",
+      "contact_found": "sales@microcomtec.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "美 MT/Tycon 谱分销（Reseller 项目）",
+        "产品线与在售品牌": "Tycon injectors/Netgear/Ubiquiti/MikroTik/Grandstream/Yealink/MTI",
+        "目标行业与场景": "装维/集成/ISP/转售",
+        "团队与规模": "（官网推）",
+        "决策链与对接人": "sales@microcomtec.com 口",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "Tycon PoE 电源谱尖+Reseller -50% 项目=对照正口",
+        "风险与注意": "Yahoo 老站注"
+      },
+      "evidence": [
+        {
+          "dim": "产品线",
+          "quote": "Tycon injectors banner + Reseller Partner save up to 50%",
+          "source": "https://www.microcom.us"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照行",
+          "push": "STC-424DGGPM-280W",
+          "angle": "injector 旁 24口档",
+          "question": "加档吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.microcom.us|PoE 配件熟",
+          "②芯片/型号": "Tycon injectors/Netgear/Ubiquiti/MikroTi",
+          "③KP 深挖": "Reseller 项目",
+          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "⑤在乎与偏好": "谱旁补主机",
+          "⑥SWOT": "S PoE 配件熟 / W 老站 / O value 档 / T 配件厚"
+        },
+        "care": [
+          "谱旁补主机"
+        ],
+        "swot": {
+          "S": "PoE 配件熟",
+          "W": "老站",
+          "O": "value 档",
+          "T": "配件厚"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网一手"
+        },
+        "gap_proof": "官网在价"
+      },
+      "unknowns": [
+        "替补接受度",
+        "首发量"
+      ],
+      "email": "Hi Microcom team,\n\nTycon injectors on the banner and a reseller program promising dealers up to 50% savings - a house already fluent in PoE accessories and dealer economics\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: with Tycon injectors already on the card, would you add one documented 24-port PoE switch as the natural box behind the injector sales?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "with Tycon injectors already on the card, would you add one documented 24-port PoE switch as the natural box behind the injector sales?",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "美|Tycon谱尖|Reseller项目|对照正口",
+      "batch": "64",
+      "date": "2026-09-29"
+    }
+  ]
+}

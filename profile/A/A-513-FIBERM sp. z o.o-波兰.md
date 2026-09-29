@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Fiberm（波兰，B2B 注册价、16:00 前下单当日发货）为电信/光纤基础设施与 LAN 分销商；**「Sieci LAN」板块含 Switche 类目** 与 Routery、Szafy RACK、Kable LAN，另供 GPON/EPON/XGS-PON、光缆、SFP 模块、微管；新品含 **MikroTik CRS304-4XG-IN switch（4×10GE + 1×G…；原 B-262 升级，编号顺延 A-513
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON 全谱+Moxa 牌页+CRS304 PoE 新品）：工业谱入水 value DIN 档；alt STC-424；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -78,31 +78,49 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 对照行
 
-- **推什么**：STI-288GP（工业非管理 8口 PoE）
-- **要问的问题**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
+- **切入点**：Moxa 旁 DIN 档
+- **要问的问题**：评吗？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 留档
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：无响——留档
+- **要问的问题**：—
+- **随附/动作**：—
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：留档
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第52批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：https://fiberm.pl|光纤主力工业入水
+- **②芯片/型号**：光纤 GPON/EPON/XGSPON+Moxa/Jonard/TP-Link+
+- **③KP 深挖**：Moxa+CRS 新品
+- **④Saga 对标**：STI-288GP 对照行（EXW on request）
+- **⑤在乎与偏好**：谱入水跟进
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【产品线】**Moxa 品牌页+MikroTik CRS304-4XG-IN PoE IN 新品
+  > Moxa 品牌页+MikroTik CRS304-4XG-IN PoE IN 新品
+  > 来源：https://fiberm.pl
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON 全谱+Moxa 牌页+CRS304 PoE 新品）：工业谱入水 value DIN 档；alt STC-424 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -111,10 +129,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Fiberm（波兰，B2B 注册价、16:00 前下单当日发货）为电信/光纤基础设施与 LAN 分销商；**「Sieci LAN」板块含 Switche 类目** 与 Routery、Szafy RACK、Kable LAN，另供 GPON/EPON/XGS-PON、光缆、SFP 模块、微管；新品含 **MikroTik CRS304-4XG-IN switch（4×10GE + 1×G…；原 B-262 升级，编号顺延 A-513
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：光纤主力工业入水
+- **W**：有源薄
+- **O**：DIN 档
+- **T**：增速快
 
 ## 触达与风险红线
 
@@ -148,21 +166,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi FIBERM,
+Hi Fiberm team,
 
-I came across FIBERM sp. z o.o. - 分销（MikroTik 官方）.
+GPON to cable chambers on the passive side, Moxa and a CRS304 PoE IN on the active side - the industrial edge of the catalogue is growing, and the value DIN tier is the natural next shelf
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: with Moxa already on your line card, would you evaluate one documented DIN-rail industrial PoE unit to deepen the active corner?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
