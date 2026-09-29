@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner)
+- 【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
+- 【假设】开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
+
+**SWOT 速描**
+- **S**: 瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训
+- **W**: Cisco/大牌绑定深
+- **O**: 监控随单 value PoE 档(+教具影子)
+- **T**: Broadliner 谱内挤
+
+**证据（quote → 来源）**
+- 「Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)」 — https://www.ineltec.ch/de/p/alltron-ag.137297 & itreseller.ch
+- 「Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil」 — https://www.it-markt.ch/news/2020-09-21/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)
+- 第一问: 你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?
+- 标签: 瑞士|Mägenwil|BrackAlltron集团|Hanwha监控谱|20万SKU
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Alltron team,
+
+Two hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.
+
+One question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. Hanwha 随单 PoE 现供品牌与价位
+2. Brack.Alltron 新品牌入架门槛
+
+**跟进建议（守档节奏）**
+- D+3 Hanwha 随单对照页
+- D+14 mail@alltron.ch 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第10波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

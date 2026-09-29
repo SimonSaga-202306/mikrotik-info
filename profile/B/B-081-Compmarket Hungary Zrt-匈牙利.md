@@ -55,6 +55,51 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán)
+- 【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
+- 【假设】开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
+
+**SWOT 速描**
+- **S**: Master+VAD+具名
+- **W**: 公开谱薄
+- **O**: value PoE 档
+- **T**: 谱重叠
+
+**证据（quote → 来源）**
+- 「CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees」 — https://www.crunchbase.com/organization/compmarket-hungary
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)
+- 第一问: 你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
+- 标签: 匈牙利|布达佩斯|Master|具名
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Zoltán,
+
+A MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+
+If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 架上网络谱与 PoE 档
+2. 客户谱(店商/集成商占比)
+
+**跟进建议（守档节奏）**
+- D+3 value 档页
+- D+14 rakos.zoltan@compmarket.hu 具名
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第10波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

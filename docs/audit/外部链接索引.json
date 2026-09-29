@@ -2200,6 +2200,36 @@
     ]
   },
   {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L50"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L69"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://altostrat.io/buying/hardware/resellers/europe/france",
     "http_checked": false,
     "occurrences": [
@@ -5690,6 +5720,28 @@
       {
         "path": "profile/A/A-512-Cyberbajt-波兰.md",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://cz.linkedin.com/company/atesystem",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L122"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L123"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L73"
       }
     ]
   },
@@ -9962,6 +10014,20 @@
       {
         "path": "profile/A/A-450-AXTEK line Kft-匈牙利.md",
         "locator": "L113"
+      }
+    ]
+  },
+  {
+    "url": "https://ifirmy.cz/firma/005422-at-computers-as",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L73"
       }
     ]
   },
@@ -34008,6 +34074,20 @@
     ]
   },
   {
+    "url": "https://www.axilogi.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L49"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.axxonsoft.com/partners/partner-locator/ukraine/romsat",
     "http_checked": false,
     "occurrences": [
@@ -35668,6 +35748,20 @@
     ]
   },
   {
+    "url": "https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L68"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.cisilion.com/",
     "http_checked": false,
     "occurrences": [
@@ -36868,6 +36962,20 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/at-computers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/baltic-networks",
     "http_checked": false,
     "occurrences": [
@@ -36882,6 +36990,20 @@
       {
         "path": "profile/A/A-098-Brian Vargyas-美国.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/compmarket-hungary",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L176"
+      },
+      {
+        "path": "profile/B/B-081-Compmarket Hungary Zrt-匈牙利.md",
+        "locator": "L72"
       }
     ]
   },
@@ -39418,6 +39540,20 @@
     ]
   },
   {
+    "url": "https://www.drzacky.cz/en/where-to-buy/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.dside.nl",
     "http_checked": false,
     "occurrences": [
@@ -41632,6 +41768,20 @@
       {
         "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/westech.networking/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/B/B-217-WESTech, spol. s r.o-斯洛伐克.md",
+        "locator": "L73"
       }
     ]
   },
@@ -44970,6 +45120,20 @@
     ]
   },
   {
+    "url": "https://www.ineltec.ch/de/p/alltron-ag.137297",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx",
     "http_checked": false,
     "occurrences": [
@@ -45904,6 +46068,20 @@
       {
         "path": "profile/A/A-294-Steve Discher-美国.md",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-markt.ch/news/2020-09-21/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L73"
       }
     ]
   },
@@ -60754,6 +60932,20 @@
     ]
   },
   {
+    "url": "https://www.westechtrade.eu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L104"
+      },
+      {
+        "path": "profile/B/B-217-WESTech, spol. s r.o-斯洛伐克.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.westercom.eu/cs/",
     "http_checked": false,
     "occurrences": [
@@ -62414,6 +62606,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1006/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/netzware/461196365",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第10波.json",
+        "locator": "L211"
+      },
+      {
+        "path": "profile/B/B-111-NETZWARE-奥地利.md",
+        "locator": "L72"
       }
     ]
   },

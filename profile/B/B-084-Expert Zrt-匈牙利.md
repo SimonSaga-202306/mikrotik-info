@@ -55,6 +55,53 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu)
+- 【推断】匈牙利 Master+VAD 老牌(expert.hu 域资历老);Zrt.=股份公司内部治理
+- 【假设】开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 开口(与 B-081 同城双 Master,后开口者引第一家回应做参照)
+
+**SWOT 速描**
+- **S**: Master+VAD+老牌域
+- **W**: 谱未摸
+- **O**: value PoE 档
+- **T**: 同城双 Master 内卷
+
+**证据（quote → 来源）**
+- 「CSV:MikroTik 官方分销 Master+VAD;Budapest;network@expert.hu」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)
+- 第一问: 你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
+- 标签: 匈牙利|布达佩斯|Master+VAD|老牌
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Expert team,
+
+A MikroTik Master VAD in Budapest - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+
+If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 架上网络谱与量级
+2. Zrt 治理下采购决策层
+
+**跟进建议（守档节奏）**
+- D+3 value 档页
+- D+14 network@expert.hu 开口
+- D+30 果归守档
+
+> 备注: **同城双 Master 注记**:与 B-081 Compmarket 同为布达佩斯 Master;触达先 B-081(具名人在档),其回应作本家话术参照。
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第10波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

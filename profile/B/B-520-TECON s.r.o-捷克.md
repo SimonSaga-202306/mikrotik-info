@@ -55,6 +55,53 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化)
+- 【推断】ORing 授权工业分销(捷克),四部组织化在营
+- 【假设】开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)
+
+**SWOT 速描**
+- **S**: ORing 授权+组织化
+- **W**: 足迹薄
+- **O**: value DIN 轨二源
+- **T**: ORing 排他
+
+**证据（quote → 来源）**
+- 「R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz」 — batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 捷克 ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)
+- 第一问: 你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?
+- 标签: 捷克|ORing授权|四部组织化
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi TECON team,
+
+An organized four-mailbox operation carrying ORing industrial switching in Czechia - you know the price points where projects walk away from premium rail-mount switches.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Czech documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.
+
+One question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. ORing 在架深与客层
+2. value 二源开放度
+
+**跟进建议（守档节奏）**
+- D+3 ORing 对位页
+- D+14 info@tecon.cz 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第10波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

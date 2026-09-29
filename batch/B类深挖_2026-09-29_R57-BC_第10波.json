@@ -1,0 +1,360 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第10波",
+ "date": "2026-09-29",
+ "scope": "B 类中欧 20 家:捷克 8+匈牙利 4+奥地利 3+斯洛伐克 2+瑞士 1+斯洛文尼亚 2(与第 9 波连发共 42 家)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-192 ATEsystem 判型为机器视觉集成商;B-200 与第 9 波 B-295 同集团联动不重复开口",
+ "records": [
+  {
+   "code": "B-191",
+   "fact": "AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口)",
+   "inference": "中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策",
+   "hypothesis": "开口角度=「AB Group 系大架的 value PoE  stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓",
+   "evidence": [
+    {"dim": "体量", "quote": "annual sales of CZK 23 billion, the largest Czech distributor of IT and telecommunications products…part of the Polish AB Group…among the ten largest companies in Europe", "source": "https://www.crunchbase.com/organization/at-computers"},
+    {"dim": "制造", "quote": "Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek", "source": "https://ifirmy.cz/firma/005422-at-computers-as"}
+   ],
+   "unknowns": ["networking 品类采购负责人(类目 BU)", "AB Group 集团层 value 品牌策略(自牌或三方)"],
+   "swot": {"S": "€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场", "W": "巨物决策链长", "O": "集团架 value PoE stocking SKU", "T": "集团集采门槛"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)",
+   "question": "你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?",
+   "tag": "捷克|俄斯特拉发|AB Group系|€1B级|自有PC牌",
+   "email": "Hi AT Computers team,\n\nThe largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.\n\nOne question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 集团架上 value 档提案", "D+14 obchod@atcomp.cz 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-298",
+   "fact": "Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner)",
+   "inference": "瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎",
+   "hypothesis": "开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架",
+   "evidence": [
+    {"dim": "体量", "quote": "Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)", "source": "https://www.ineltec.ch/de/p/alltron-ag.137297 & itreseller.ch"},
+    {"dim": "培训", "quote": "Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil", "source": "https://www.it-markt.ch/news/2020-09-21/"}
+   ],
+   "unknowns": ["Hanwha 随单 PoE 现供品牌与价位", "Brack.Alltron 新品牌入架门槛"],
+   "swot": {"S": "瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训", "W": "Cisco/大牌绑定深", "O": "监控随单 value PoE 档(+教具影子)", "T": "Broadliner 谱内挤"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)",
+   "question": "你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?",
+   "tag": "瑞士|Mägenwil|BrackAlltron集团|Hanwha监控谱|20万SKU",
+   "email": "Hi Alltron team,\n\nTwo hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.\n\nOne question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 Hanwha 随单对照页", "D+14 mail@alltron.ch 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-194",
+   "fact": "AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料",
+   "inference": "「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示",
+   "hypothesis": "开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线",
+   "evidence": [
+    {"dim": "谱系", "quote": "DEYE, MikroTik, Vami, TP-Link, Conexpro, Cudy, Alta Labs, Ubiquiti Networks, Stromberg, Teltonika, Olife Energy, Felicity…Fotovoltaika, Bezdráty, LAN, Optické sítě, Napájení, Rozvaděče", "source": "https://www.axilogi.com/"},
+    {"dim": "名录", "quote": "AxiLogi Master Distributors Pilsen sales@axilogi.cz", "source": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/"}
+   ],
+   "unknowns": ["光伏安装商谱里网络件随单频度", "Cudy/Alta 价位带与我司对位"],
+   "swot": {"S": "光伏+弱电双驱+Master 名录", "W": "中价牌已在架(Cudy/Alta)", "O": "安装商随单 24 口管理型位", "T": "Cudy 低价惯性"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)",
+   "question": "你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?",
+   "tag": "捷克|比尔森|光伏+弱电双驱|Master",
+   "email": "Hi AxiLogi team,\n\nPhotovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.\n\nOne question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 Cudy/Alta 对位页", "D+14 sales@axilogi.cz 开口", "D+30 果归守档"],
+   "note": "二线注记:Rozvaděče(配电柜)类目在谱,STC-424 开口顺后可续 STI-288GP DIN 轨工业线。"
+  },
+  {
+   "code": "B-208",
+   "fact": "eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册)",
+   "inference": "中东欧三国九点的区域分销巨头:与 AT Computers 同量级赛道;Krakow 点=波兰谱直接入口",
+   "hypothesis": "开口角度=「三国九点大架的 value PoE 集团位」:STC-424 开口,其对区域 reseller 的放量能力强",
+   "evidence": [
+    {"dim": "体量", "quote": "patří mezi největší distributory IT…CZECH TOP 100…9 poboček (Ostrava, Brno, Pardubice, Praha, Bratislava, Žilina, Banská Bystrica, Košice, Krakow)", "source": "https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/"},
+    {"dim": "名录", "quote": "eD's system Czech, Master Distributor Value Added Distributor, Ostrava", "source": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/"}
+   ],
+   "unknowns": ["networking 品类 value 品牌谱", "波兰(Krakow)谱与捷克谱的采购关系"],
+   "swot": {"S": "三国九点+CZECH TOP100", "W": "巨物决策层多", "O": "区域 value PoE 架位", "T": "大牌谱内挤"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)",
+   "question": "你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?",
+   "tag": "捷克|俄斯特拉发|三国九点|TOP100",
+   "email": "Hi eD system team,\n\nNine branches across Czechia, Slovakia and Poland, perennial CZECH TOP 100 member - when a product lands on your shelf, it reaches three countries at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.\n\nOne question: across your three-country shelf, which brand holds the value 24-port managed PoE tier today - and what does a new-vendor pilot look like?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 三国架位提案", "D+14 info@edsystem.cz 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-201",
+   "fact": "PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌)",
+   "inference": "若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位",
+   "hypothesis": "开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联",
+   "evidence": [
+    {"dim": "名录", "quote": "i4wifi a.s. logo ### PCV Computers, s.r.o. Master Distributor Value Added Distributor Ceske Budejovice obchod@pcvcomp.cz", "source": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/"},
+    {"dim": "关联", "quote": "PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha", "source": "https://www.drzacky.cz/en/where-to-buy/"}
+   ],
+   "unknowns": ["PCV 与 i4wifi 股权/同族关系验证", "其无线安装客层 PoE 档现供"],
+   "swot": {"S": "Master+VAD+疑 i4wifi WISP 谱", "W": "关联未证", "O": "WISP 客层 PoE 随单", "T": "非同族则价值减半"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位",
+   "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)",
+   "tag": "捷克|Č.Budějovice|Master|疑i4wifi同族",
+   "email": "Hi PCV team,\n\nMaster distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.\n\nOne question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?\n\n(Also: should we address this to the i4wifi family as well, or are you the right desk?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 WISP 客层 PoE 页", "D+14 obchod@pcvcomp.cz 开口(附 i4wifi 关联确认)", "D+30 果归守档"]
+  },
+  {
+   "code": "B-217",
+   "fact": "WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权;networking@westech.sk 专队+WESTech on Air 视频栏目)",
+   "inference": "ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国",
+   "hypothesis": "开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能",
+   "evidence": [
+    {"dim": "集团", "quote": "Company WESTech Slovakia is through ELKO GROUP distributor's society…warehouses in Bratislava…60 employees…40,000+ products…1000 active resellers", "source": "https://www.westechtrade.eu/ & channeltrends"},
+    {"dim": "专队", "quote": "WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)", "source": "https://www.facebook.com/westech.networking/"}
+   ],
+   "unknowns": ["networking 专队 brand 谱与 value 档空位", "ELKO 集团层品牌准入(国别 or 集团)"],
+   "swot": {"S": "ELKO 集团+1000 reseller+网络专队", "W": "TP-Link 等大牌绑定", "O": "value PoE 位+集团多国溢出", "T": "集团集采权重"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)",
+   "question": "你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?",
+   "tag": "斯洛伐克|布拉迪斯拉发|ELKO集团|1000reseller",
+   "email": "Hi WESTech networking team,\n\nA thousand active resellers through the ELKO Group network, and a dedicated networking squad with its own show - you are the desk where networking brands get placed in Slovakia and beyond.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.\n\nOne question: on your networking shelf, which brand holds the value 24-port managed PoE tier today - and does ELKO Group offer a group-level path for a new vendor?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 ELKO 集团谱页", "D+14 networking@westech.sk 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-192",
+   "fact": "ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处",
+   "inference": "**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客",
+   "hypothesis": "开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)",
+   "evidence": [
+    {"dim": "判型", "quote": "comprehensive services in machine vision and visual inspection…official distributor of machine vision components (Basler, JAI, Computar, Kowa, CCS, Effilux…) for the Czech Republic and Slovakia…NI Silver Alliance Partner", "source": "https://cz.linkedin.com/company/atesystem"},
+    {"dim": "研发", "quote": "vlastnímu vývoji strojového vidění na klíč…testy a studie proveditelnosti, zápůjčky kamer", "source": "https://cz.linkedin.com/company/atesystem"}
+   ],
+   "unknowns": ["其 turnkey BOM 里 PoE 交换现供(Antaira?)与价位", "GigE 相机功率谱(PoE vs PoE+ 需求)"],
+   "swot": {"S": "机器视觉专精+自研 turnkey+多国相机牌", "W": "Antaira 授权已在位", "O": "GigE 相机 PoE 供电 DIN 轨伴随刚需", "T": "Antaira 排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)",
+   "question": "你们的 turnkey 视觉系统 BOM 里,GigE 相机供电的 DIN 轨 PoE 交换现随哪家?Antaira 旁二源有位吗?",
+   "tag": "捷克|俄斯特拉发|机器视觉|GigE相机PoE刚需|NI伙伴",
+   "email": "Hi ATEsystem team,\n\nMachine vision turnkey systems with Basler and JAI cameras on the line card - every GigE camera you deploy is a PoE load on a DIN rail in a harsh cabinet. You know exactly what those camera power budgets look like.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Czech documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source for your vision-system BOMs, fully open to an OEM variant under your terms.\n\nOne question: inside your turnkey vision BOMs, which DIN-rail PoE switch feeds the GigE cameras today - and would a documented second source earn a bench test in your feasibility lab?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 机器视觉 BOM PoE 对位页", "D+14 atesystem@atesystem.cz 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-200",
+   "fact": "OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion)",
+   "inference": "集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理",
+   "hypothesis": "开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准",
+   "evidence": [
+    {"dim": "集团", "quote": "波兰分公司已在名单第73行:+48 22 863 27 22 / info@oemautomatic.pl(Antaira 授权)→ 从华沙打进去一次覆盖 SE/PL/CZ", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "同族", "quote": "B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线", "source": "batch/B类深挖_2026-09-29_R57-BC_第9波.json#B-295"}
+   ],
+   "unknowns": ["捷克站采购自主度(集团 or 本地)", "CZ 客层与 PL 站的分工"],
+   "swot": {"S": "集团背书(见 B-295)", "W": "区域执行体,开口权在集团", "O": "随集团开口果自动受惠", "T": "双头开口自乱"},
+   "p1": "STI-288GP",
+   "p1_reason": "集团系从属档:同 B-295 模板备信,实际开口走 CSV 既定『华沙一口覆盖 SE/PL/CZ』路径,不双头",
+   "question": "(集团开口后)CZ 站 N-Tron 旁 value DIN 轨位",
+   "tag": "捷克|Zdiby|集团系从属|不双头开口",
+   "email": "【集团联动·备信不另发】同 B-295 模板;开口动作集中在 oemautomatic.pl(华沙,Antaira 授权线)一次覆盖 SE/PL/CZ,本档待集团线果再触。",
+   "followups": ["等 B-295/PL 开口果", "D+30 果归守档"],
+   "note": "**集团系联动注记**:与 B-295(瑞典总部)+oemautomatic.pl(波兰分公司,CSV 既联系点)同集团;开口集中在华沙点,本档与 B-295 互注,防双头开口自乱。"
+  },
+  {
+   "code": "B-520",
+   "fact": "TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化)",
+   "inference": "ORing 授权工业分销(捷克),四部组织化在营",
+   "hypothesis": "开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)",
+   "evidence": [
+    {"dim": "身份", "quote": "R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz", "source": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520"}
+   ],
+   "unknowns": ["ORing 在架深与客层", "value 二源开放度"],
+   "swot": {"S": "ORing 授权+组织化", "W": "足迹薄", "O": "value DIN 轨二源", "T": "ORing 排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "捷克 ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)",
+   "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+   "tag": "捷克|ORing授权|四部组织化",
+   "email": "Hi TECON team,\n\nAn organized four-mailbox operation carrying ORing industrial switching in Czechia - you know the price points where projects walk away from premium rail-mount switches.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Czech documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 ORing 对位页", "D+14 info@tecon.cz 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-081",
+   "fact": "Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán)",
+   "inference": "布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档",
+   "hypothesis": "开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口",
+   "evidence": [
+    {"dim": "身份", "quote": "CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees", "source": "https://www.crunchbase.com/organization/compmarket-hungary"}
+   ],
+   "unknowns": ["架上网络谱与 PoE 档", "客户谱(店商/集成商占比)"],
+   "swot": {"S": "Master+VAD+具名", "W": "公开谱薄", "O": "value PoE 档", "T": "谱重叠"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+   "tag": "匈牙利|布达佩斯|Master|具名",
+   "email": "Hi Zoltán,\n\nA MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 value 档页", "D+14 rakos.zoltan@compmarket.hu 具名", "D+30 果归守档"]
+  },
+  {
+   "code": "B-084",
+   "fact": "Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu)",
+   "inference": "匈牙利 Master+VAD 老牌(expert.hu 域资历老);Zrt.=股份公司内部治理",
+   "hypothesis": "开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 开口(与 B-081 同城双 Master,后开口者引第一家回应做参照)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Master+VAD;Budapest;network@expert.hu", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["架上网络谱与量级", "Zrt 治理下采购决策层"],
+   "swot": {"S": "Master+VAD+老牌域", "W": "谱未摸", "O": "value PoE 档", "T": "同城双 Master 内卷"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+   "tag": "匈牙利|布达佩斯|Master+VAD|老牌",
+   "email": "Hi Expert team,\n\nA MikroTik Master VAD in Budapest - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 value 档页", "D+14 network@expert.hu 开口", "D+30 果归守档"],
+   "note": "**同城双 Master 注记**:与 B-081 Compmarket 同为布达佩斯 Master;触达先 B-081(具名人在档),其回应作本家话术参照。"
+  },
+  {
+   "code": "B-111",
+   "fact": "NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形)",
+   "inference": "维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销",
+   "hypothesis": "开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口",
+   "evidence": [
+    {"dim": "身份", "quote": "Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing", "source": "https://www.zoominfo.com/c/netzware/461196365"}
+   ],
+   "unknowns": ["架上谱与服务/分销占比", "客户端(奥地利 SME/政企?)"],
+   "swot": {"S": "Master+VAD+维也纳", "W": "服务血统,谱未摸", "O": "value PoE 档", "T": "服务主导时分销谱弱"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "维也纳 Master 的 value PoE 架位试探",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+   "tag": "奥地利|维也纳|Master+VAD|服务血统",
+   "email": "Hi NETZWARE team,\n\nA MikroTik Master VAD in Vienna with a service-heavy DNA - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 value 档页", "D+14 office@netzware.at 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-108",
+   "fact": "AlpenEDV(Hall in Tirol 奥地利阿尔卑斯山区;alpenedv.at;MikroTik Reseller;office@alpenedv.at)",
+   "inference": "蒂罗尔山区小型 IT/Reseller;滑雪旅游经济圈(SME/酒店谱)",
+   "hypothesis": "开口角度=「山区小 reseller 活跃验证+value 试探」:先验活跃,酒店/民宿谱 PoE 场景待摸",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Hall in Tirol;office@alpenedv.at", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "酒店/tourism 客户谱"],
+   "swot": {"S": "山区旅游圈位", "W": "小,足迹薄", "O": "酒店/民宿 PoE 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "蒂罗尔山区小商备养:活跃验证后按 value 模板激活",
+   "question": "(先验活跃)你们给山区酒店/民宿做项目时,PoE 件现随哪家?",
+   "tag": "奥地利|蒂罗尔|山区小商|活跃验证",
+   "email": "【备养】活跃验证(D+7)后按 value PoE 模板出信(酒店/民宿谱扣)。",
+   "followups": ["D+7 活跃度快验", "D+30 果归守档"]
+  },
+  {
+   "code": "B-080",
+   "fact": "András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名)",
+   "inference": "佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)",
+   "hypothesis": "守档备养:具名引见(无线专项语言对路)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E;lazybear.hu 公司域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["LazyBear 业务面与团队", "Pécs 客户谱"],
+   "swot": {"S": "四证+公司域+具名", "W": "小谱", "O": "无线/IPv6 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "Pécs 四证顾问备养(无线专项):具名通道",
+   "question": "你在 Pécs 做无线/网络项目时,PoE 件现随哪家?",
+   "tag": "匈牙利|Pécs|公司域顾问|MTCWE+IPv6",
+   "email": "【合作通道·备养】具名引见后定(无线专项语言)。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-085",
+   "fact": "Richárd Szabolcs Tóth(Pécs 匈牙利;MTCNA+MTCRE+MTCIPv6E;原备注:有线与无线网络,家庭与中小企业;gmail 个人)",
+   "inference": "Pécs 个人顾问,家庭/SME 谱(与 B-080 同城圈,信息互证位)",
+   "hypothesis": "守档备养:具名引见(同城 B-080 圈互证)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E;有线与无线网络,家庭与中小企业", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与活跃度"],
+   "swot": {"S": "三证+SME 谱", "W": "个人量级", "O": "Pécs SME 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "Pécs 个人顾问备养(与 B-080 同城互证)",
+   "question": "你做家庭/SME 网络时,PoE 件现随哪家?",
+   "tag": "匈牙利|Pécs|个人顾问|同城B-080",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"],
+   "note": "**关联**:与 B-080(András Németh/Pécs)同城顾问圈,触达序先 B-080(公司域),信息可互证。"
+  },
+  {
+   "code": "B-110",
+   "fact": "Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org)",
+   "inference": "萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项",
+   "hypothesis": "守档备养:具名引见(无线专项)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE;sei-ned.org 域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["sei-ned.org 业务面", "活跃与谱"],
+   "swot": {"S": "三证+无线专项", "W": "足迹薄", "O": "萨尔茨堡圈 SME 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "萨尔茨堡圈顾问备养:具名通道",
+   "question": "你在萨尔茨堡圈做无线项目时,PoE 件现随哪家?",
+   "tag": "奥地利|萨尔茨堡圈|顾问|MTCWE+MTCTCE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-215",
+   "fact": "Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名)",
+   "inference": "布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位)",
+   "hypothesis": "守档备养:具名引见",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;alfac.sk 公司域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["Alfac 业务面与谱"],
+   "swot": {"S": "公司域+具名+首都市", "W": "足迹薄", "O": "布拉迪斯拉发 SME 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "布拉迪斯拉发顾问备养:具名通道",
+   "question": "你在布拉迪斯拉发做项目时,PoE 件现随哪家?",
+   "tag": "斯洛伐克|布拉迪斯拉发|公司域顾问",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-189",
+   "fact": "ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz)",
+   "inference": "东波希米亚小型 Reseller;足迹薄",
+   "hypothesis": "守档备养:活跃验证后按 value 模板激活",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Hradec Králové;obchod@abctech.cz", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "谱与量级"],
+   "swot": {"S": "东波希米亚区位", "W": "足迹薄", "O": "验活后 value 位", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "东波希米亚小商备养:活跃验证先行",
+   "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+   "tag": "捷克|Hradec Králové|小商|活跃验证",
+   "email": "【备养】活跃验证(D+7)后按 value PoE 模板出信。",
+   "followups": ["D+7 活跃度快验", "D+30 果归守档"]
+  },
+  {
+   "code": "B-219",
+   "fact": "PC H.AND d.o.o.(Trzin 斯洛文尼亚(卢布尔雅那圈);pchand.si;MikroTik Reseller;info@pchand.si)",
+   "inference": "卢布尔雅那圈小型 Reseller",
+   "hypothesis": "守档备养:活跃验证后按 value 模板激活",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Trzin;info@pchand.si", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "谱与量级"],
+   "swot": {"S": "卢布尔雅那圈", "W": "足迹薄", "O": "验活后 value 位", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "卢布尔雅那圈小商备养:活跃验证先行",
+   "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+   "tag": "斯洛文尼亚|Trzin|小商|活跃验证",
+   "email": "【备养】活跃验证(D+7)后按 value PoE 模板出信。",
+   "followups": ["D+7 活跃度快验", "D+30 果归守档"]
+  },
+  {
+   "code": "B-220",
+   "fact": "PEC SISTEMI d.o.o.(Maribor 斯洛文尼亚;tehnox.si(电商域);MikroTik Reseller;info@pec-sistemi.si)",
+   "inference": "Maribor(斯洛文尼亚第二城)电商型小商(tehnox.si 网店)",
+   "hypothesis": "守档备养:活跃验证后按 value 模板激活(电商架 PoE 档扣)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Maribor;tehnox.si 电商;info@pec-sistemi.si", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["电商在架谱与活跃度", "PoE 档现供"],
+   "swot": {"S": "电商架+第二城", "W": "小,足迹薄", "O": "验活后电商架 value 位", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "Maribor 电商小商备养:活跃验证先行",
+   "question": "(先验活跃)你们电商架上 PoE 接层现供哪家?",
+   "tag": "斯洛文尼亚|Maribor|电商小商|活跃验证",
+   "email": "【备养】活跃验证(D+7)后按 value PoE 模板出信(电商架扣)。",
+   "followups": ["D+7 活跃度快验", "D+30 果归守档"]
+  }
+ ]
+}

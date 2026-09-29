@@ -55,6 +55,51 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形)
+- 【推断】维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销
+- 【假设】开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口
+
+**SWOT 速描**
+- **S**: Master+VAD+维也纳
+- **W**: 服务血统,谱未摸
+- **O**: value PoE 档
+- **T**: 服务主导时分销谱弱
+
+**证据（quote → 来源）**
+- 「Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing」 — https://www.zoominfo.com/c/netzware/461196365
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 维也纳 Master 的 value PoE 架位试探
+- 第一问: 你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
+- 标签: 奥地利|维也纳|Master+VAD|服务血统
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi NETZWARE team,
+
+A MikroTik Master VAD in Vienna with a service-heavy DNA - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+
+If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 架上谱与服务/分销占比
+2. 客户端(奥地利 SME/政企?)
+
+**跟进建议（守档节奏）**
+- D+3 value 档页
+- D+14 office@netzware.at 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第10波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
