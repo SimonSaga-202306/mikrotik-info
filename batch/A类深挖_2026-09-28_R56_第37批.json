@@ -1,0 +1,939 @@
+{
+  "batch": 47,
+  "date": "2026-09-29",
+  "source": "R55/R56 全A深挖·合并加厚（R57 超批四波）",
+  "records": [
+    {
+      "customer": "A-361",
+      "fact": "Michal Dobšovič (IT Learning SK)（斯洛伐克）：**斯洛伐克头部综合 IT 培训商**（百门课表；**'Oficiálne kurzy MikroTik' 官方课分类明列**;Bratislava)",
+      "inference": "trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照",
+      "hypothesis": "课堂/咨询旁的一行了解位",
+      "evidence_main": "https://www.itlearning.sk",
+      "tech": "顾问谱+培训站",
+      "hr": "Michal 个体",
+      "contact_found": "dobsovic@itlearning.sk（trainer 谱页核；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "斯洛伐克 MikroTik 顾问/培训实体（官网核）",
+        "产品线与在售品牌": "MikroTik 生态为主",
+        "目标行业与场景": "咨询/培训现场",
+        "团队与规模": "小微",
+        "决策链与对接人": "dobsovic@itlearning.sk 口",
+        "技术与认证": "MikroTik 认证体系",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "顾问对照单元（Your academy teaches）",
+        "风险与注意": "体量微——低期待窄针"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "Ponuka kurzov: serverové operačné systémy a siete → 'Oficiálne kurzy MikroTik' 明列",
+          "source": "https://www.itlearning.sk"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照单元",
+          "push": "CONSULT-OEM",
+          "angle": "顾问对照库了解单元（诚实角；非替换）",
+          "question": "值得进对照库吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 课堂角",
+          "push": "一页对照卡",
+          "angle": "MTCSWE 课堂旁的了解位（学员问性价比场景）",
+          "question": "课堂需要对照样本吗？",
+          "proof": "卡"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.itlearning.sk|Michal 具名",
+          "②芯片/型号": "MikroTik 生态",
+          "③KP 深挖": "trainer/顾问页与证书核",
+          "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+          "⑤在乎与偏好": "比照心态/拒硬销",
+          "⑥SWOT": "S 对照态 / W 体量微 / O 课堂旁了解位 / T 大牌"
+        },
+        "care": [
+          "官方课排期",
+          "认证讲师梯队",
+          "培训制",
+          "证书现况",
+          "复购场景"
+        ],
+        "swot": {
+          "S": "对照态",
+          "W": "体量微",
+          "O": "课堂旁了解位",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "顾问无分销条款",
+          "合作方式": "培训制",
+          "缺口证据": "trainer 谱页核"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "证书现况",
+        "复购场景"
+      ],
+      "email": "Hi Michal,\n\nYour academy teaches everything from Excel to official MikroTik courses - breadth like yours runs on honest comparisons. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: for your official MikroTik courses, would a documented value switch be a useful budget-scenario comparison for students?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "for your official MikroTik courses, would a documented value switch be a useful budget-scenario comparison for students?",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-424DGGPM-280W",
+      "tag": "斯洛伐克|综合IT培训头部|MT官方课分类|CONSULT-OEM",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-362",
+      "fact": "Ivan Dolnak (ConNet Group)（斯洛伐克）：Žilina 网络培训/支持小团:'Vedieme školenia Mikrotik + Cisco 培训 + 远程网络支持 + 光网络设计测试'(ConNet Group s.r.o.)",
+      "inference": "trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照",
+      "hypothesis": "课堂/咨询旁的一行了解位",
+      "evidence_main": "http://www.connet-group.sk",
+      "tech": "顾问谱+培训站",
+      "hr": "Ivan 个体",
+      "contact_found": "ivan.dolnak@connet-group.sk（trainer 谱页核；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "斯洛伐克 MikroTik 顾问/培训实体（官网核）",
+        "产品线与在售品牌": "MikroTik 生态为主",
+        "目标行业与场景": "咨询/培训现场",
+        "团队与规模": "小微",
+        "决策链与对接人": "ivan.dolnak@connet-group.sk 口",
+        "技术与认证": "MikroTik 认证体系",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "顾问对照单元（MikroTik and Cisco t）",
+        "风险与注意": "体量微——低期待窄针"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "'Vedieme školenia Mikrotik. Organizujeme školenia Cisco. Poskytujeme vzdialenú podporu… Navrhujeme a testujeme optické siete.'",
+          "source": "http://www.connet-group.sk"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照单元",
+          "push": "CONSULT-OEM",
+          "angle": "顾问对照库了解单元（诚实角；非替换）",
+          "question": "值得进对照库吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 课堂角",
+          "push": "一页对照卡",
+          "angle": "MTCSWE 课堂旁的了解位（学员问性价比场景）",
+          "question": "课堂需要对照样本吗？",
+          "proof": "卡"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "http://www.connet-group.sk|Ivan 具名",
+          "②芯片/型号": "MikroTik 生态",
+          "③KP 深挖": "trainer/顾问页与证书核",
+          "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+          "⑤在乎与偏好": "比照心态/拒硬销",
+          "⑥SWOT": "S 对照态 / W 体量微 / O 课堂旁了解位 / T 大牌"
+        },
+        "care": [
+          "排课频次",
+          "企业客户",
+          "培训制",
+          "证书现况",
+          "复购场景"
+        ],
+        "swot": {
+          "S": "对照态",
+          "W": "体量微",
+          "O": "课堂旁了解位",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "顾问无分销条款",
+          "合作方式": "培训制",
+          "缺口证据": "trainer 谱页核"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "证书现况",
+        "复购场景"
+      ],
+      "email": "Hi Ivan,\n\nMikroTik and Cisco trainings side by side - you already teach by comparison, which is exactly our angle. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: in your MikroTik/Cisco classes, would a documented value PoE switch be a useful comparison row for budget builds?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "in your MikroTik/Cisco classes, would a documented value PoE switch be a useful comparison row for budget builds?",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-424DGGPM-280W",
+      "tag": "斯洛伐克|MT+Cisco双牌培训|光网设计|CONSULT-OEM",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-363",
+      "fact": "SOS electronic（斯洛伐克）：**SK 1991 元器件大分销（欧洲 6 址，客户 100+ 国，15 万+ 电子件 SKU)**;electronica 2026 慕尼黑 B5 展台；TOP 牌含 Traco Power/Quectel/**Lantronix**/Sensirion;API 供采自动化",
+      "inference": "元器件大分销通道=编制交换机成品（成品非其主类）；唯一缝=工业/嵌入式领域的联网件口子——低密长针",
+      "hypothesis": "元器件分销联网件口子窄位（低密）",
+      "evidence_main": "https://www.soselectronic.com",
+      "tech": "元器件分销栈",
+      "hr": "中型 1991",
+      "contact_found": "sales@soselectronic.com（官网 B2B 口；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "SK 元器件大分销（6 址/100+ 国）",
+        "产品线与在售品牌": "Quectel/Lantronix/Traco/Sensirion 等",
+        "目标行业与场景": "OEM/研发/MRO 客群",
+        "团队与规模": "中型",
+        "决策链与对接人": "sales@ 口",
+        "技术与认证": "electronica 2026 参展",
+        "采购与供应链信号": "API 供采体系",
+        "近期动态与线索": "API 自动化宣传",
+        "与我方契合点": "联网工业件口子窄位（低密长针）",
+        "风险与注意": "**成品交换非主类——期待管理**"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "Founded in 1991; 6 European locations; customers from 100+ countries; electronica 2026 Hall B5; TOP brands: Quectel/Lantronix/Traco/Sensirion",
+          "source": "https://www.soselectronic.com"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 口子针",
+          "push": "STC-424DGGPM-280W",
+          "angle": "工业/IoT 联网件口子（低密长针）",
+          "question": "口子存在吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.soselectronic.com|15万+SKU+6址+100+国三核",
+          "②芯片/型号": "Lantronix 谱",
+          "③KP 深挖": "元器件分销 35 年",
+          "④Saga 对标": "STC-424 窄位低密（$165 锚点一致）",
+          "⑤在乎与偏好": "SKU 数据完整性嗜好",
+          "⑥SWOT": "S 通道体 / W 成品非主类 / O 工业物联网口 / T 大牌"
+        },
+        "care": [
+          "成品口子",
+          "买手口",
+          "成品接受度",
+          "品类口子",
+          "分销条款",
+          "口子存在性",
+          "首发量"
+        ],
+        "swot": {
+          "S": "通道体",
+          "W": "成品非主类",
+          "O": "工业物联网口",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "成品接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网公司页"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "成品口子",
+        "买手口"
+      ],
+      "email": "Hi SOS electronic team,\n\nYour 100+ country reach runs on components - but Lantronix in your TOP brands shows an appetite for finished connectivity modules too. We build one documented 24-port Gigabit PoE access switch at $165 USD EXW (2026-09-29); if industrial IoT projects ever ask you for the switch behind the sensor, we would be that row.\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: is finished network gear anywhere near your industrial/IoT category roadmap?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "工业联网件口子收 value 单元吗？",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "斯洛伐克|元器件大分销|工业联网件口子|低密窄位",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-364",
+      "fact": "Olisian Sulaj（阿尔巴尼亚）：阿尔巴尼亚 MikroTik 顾问个体（roster 谱；gmail 具名，无官网）",
+      "inference": "trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照",
+      "hypothesis": "课堂/咨询旁的一行了解位",
+      "evidence_main": "无独立站（gmail）",
+      "tech": "顾问谱+培训站",
+      "hr": "Olisian 个体",
+      "contact_found": "olisian.sulaj@gmail.com（trainer 谱页核；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "阿尔巴尼亚 MikroTik 顾问/培训实体（官网核）",
+        "产品线与在售品牌": "MikroTik 生态为主",
+        "目标行业与场景": "咨询/培训现场",
+        "团队与规模": "小微",
+        "决策链与对接人": "olisian.sulaj@gmail.com 口",
+        "技术与认证": "MikroTik 认证体系",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "顾问对照单元（Independent consulta）",
+        "风险与注意": "体量微——低期待窄针"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "roster 具名顾问（无官网，gmail 域）",
+          "source": "roster 谱"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照单元",
+          "push": "CONSULT-OEM",
+          "angle": "顾问对照库了解单元（诚实角；非替换）",
+          "question": "值得进对照库吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 课堂角",
+          "push": "一页对照卡",
+          "angle": "MTCSWE 课堂旁的了解位（学员问性价比场景）",
+          "question": "课堂需要对照样本吗？",
+          "proof": "卡"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "无独立站（gmail）|Olisian 具名",
+          "②芯片/型号": "MikroTik 生态",
+          "③KP 深挖": "trainer/顾问页与证书核",
+          "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+          "⑤在乎与偏好": "比照心态/拒硬销",
+          "⑥SWOT": "S 对照态 / W 体量微 / O 课堂旁了解位 / T 大牌"
+        },
+        "care": [
+          "在营性",
+          "项目密度",
+          "顾问制",
+          "证书现况",
+          "复购场景"
+        ],
+        "swot": {
+          "S": "对照态",
+          "W": "体量微",
+          "O": "课堂旁了解位",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "顾问无分销条款",
+          "合作方式": "顾问制",
+          "缺口证据": "trainer 谱页核"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "证书现况",
+        "复购场景"
+      ],
+      "email": "Hi Olisian,\n\nIndependent consultants in the region meet every budget reality in the field. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: would a documented value PoE switch be worth a row in your field notebook for budget-driven clients?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "would a documented value PoE switch be worth a row in your field notebook for budget-driven clients?",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-424DGGPM-280W",
+      "tag": "阿尔巴尼亚|MT顾问个体|gmail无站|CONSULT-OEM低密",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-365",
+      "fact": "Nexus Networks（马耳他）：建档注：与 A-319 Nexus Networks 同主体（同域 nexus.com.mt，同 hello@ 箱）——A-319 已深挖出信，此处错峰防双倍触达",
+      "inference": "判定=建档（先例同族）",
+      "hypothesis": "（待触发供位）",
+      "evidence_main": "https://nexus.com.mt",
+      "tech": "—",
+      "hr": "—",
+      "contact_found": "",
+      "contact_pending": "**建档不出信**（与 A-319 Nexus Networks 同主体（同域 nexus.com.mt，同 hello@ 箱）——A-319 已深挖出信，此处错峰防双倍触达）；触发条件=A-319 无回后→以本档案为备份联络面（johann@ 具名备用）",
+      "dims": {
+        "业务定位": "马耳他：马耳他 vendor-independent 顾问小团（A-319 深挖已落）",
+        "产品线与在售品牌": "—",
+        "目标行业与场景": "—",
+        "团队与规模": "—",
+        "决策链与对接人": "—",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "候选供位（待触发）",
+        "风险与注意": "与 A-319 Nexus Networks 同主体（同域 nexus.com.mt，同 hello@ 箱）——A-319 已深挖出信，此处错峰防双倍触达"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "同 A-319：nexus.com.mt/+356；hello@/johann@ 双箱",
+          "source": "roster+A-319 深挖"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "【仅供位·触发装】",
+          "push": "STC-424DGGPM-280W",
+          "angle": "候选供位（待触发启用）",
+          "question": "（触发后再发）",
+          "proof": "规格页"
+        },
+        {
+          "stage": "",
+          "push": "",
+          "angle": "",
+          "question": "",
+          "proof": ""
+        },
+        {
+          "stage": "",
+          "push": "",
+          "angle": "",
+          "question": "",
+          "proof": ""
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://nexus.com.mt|与 A-319 Nexus Networks 同主体（同域 nexus.com.",
+          "②芯片/型号": "—",
+          "③KP 深挖": "—",
+          "④Saga 对标": "候选供位（$165 锚点一致）",
+          "⑤在乎与偏好": "—",
+          "⑥SWOT": "S 候选位 / W 无点 / O 触发 / T —"
+        },
+        "care": [
+          "A-319 回音",
+          "在营旁证",
+          "—"
+        ],
+        "swot": {
+          "S": "候选位",
+          "W": "无点",
+          "O": "触发",
+          "T": "—"
+        },
+        "uncertain": {
+          "产品线核实": "建档待证",
+          "合作方式": "未谈",
+          "缺口证据": "CSV/官网备案"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "A-319 回音",
+        "johann@ 活性"
+      ],
+      "email": "【建档不出信】与 A-319 Nexus Networks 同主体（同域 nexus.com.mt，同 hello@ 箱）——A-319 已深挖出信，此处错峰防双倍触达；触发条件=A-319 无回后→以本档案为备份联络面（johann@ 具名备用）。",
+      "question": "（待触发）",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-28DGGPM",
+      "tag": "马耳他|同A-319主体|错峰建档|防双触达",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-366",
+      "fact": "Robertas Stauskas (Magit)（立陶宛）：Vilnius 2006 IT 服务商（LT/NL/DK/NO 四区）：伙伴墙含 **MikroTik**+Telia/Bitė/ACC Distribution/ALSO/SolarWinds/Dell EMC；数百客户 MSP",
+      "inference": "四区 MSP:MikroTik 在墙=小件谱熟；托管现场 value PoE 随单缝正口",
+      "hypothesis": "MSP 现场随单窄位",
+      "evidence_main": "https://magit.lt",
+      "tech": "MSP 栈",
+      "hr": "小型 2006",
+      "contact_found": "robertas@magit.lt（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "立陶宛四区 MSP(2006)",
+        "产品线与在售品牌": "MikroTik/Telia/SolarWinds/Dell 等",
+        "目标行业与场景": "SMB 托管现场",
+        "团队与规模": "小型",
+        "决策链与对接人": "robertas@ 具名",
+        "技术与认证": "—",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "招聘在营",
+        "与我方契合点": "托管现场 value PoE 随单缝",
+        "风险与注意": "体量小——低密"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "'nuo 2006 m. teikianti IT verslo sprendimų paslaugas Lietuvoje, Olandijoje, Danijoje ir Norvegijoje' + 伙伴墙 MikroTik",
+          "source": "https://magit.lt"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 随单缝",
+          "push": "STC-424DGGPM-280W",
+          "angle": "四区 MSP 托管现场随单窄位",
+          "question": "随单有缝吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://magit.lt|2006+四区+伙伴墙三核",
+          "②芯片/型号": "MikroTik 谱",
+          "③KP 深挖": "MSP 20 年",
+          "④Saga 对标": "STC-424 随单窄位（$165 锚点一致）",
+          "⑤在乎与偏好": "性价比自述（'optimaliomis kainomis'）",
+          "⑥SWOT": "S 具名直达 / W 体量小 / O 随单缝 / T 大牌"
+        },
+        "care": [
+          "随单频次",
+          "首发量",
+          "四区主次",
+          "现供",
+          "随单逻辑",
+          "替补接受度"
+        ],
+        "swot": {
+          "S": "具名直达",
+          "W": "体量小",
+          "O": "随单缝",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网伙伴墙"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "随单频次",
+        "首发量"
+      ],
+      "email": "Hi Robertas,\n\nTwenty years serving SMBs across four countries, with MikroTik already on the partner wall - you clearly know value networking. For managed sites where the customer's budget is the deciding factor, we keep one documented 24-port PoE option.\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your managed-site builds, is there room for a documented value PoE unit beside MikroTik?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "托管现场有 value 件缝吗？",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "立陶宛|四区MSP|MT墙旁随单|具名直达",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-367",
+      "fact": "Petar Dimitrov (MikroTikBG.SHOP)（保加利亚）：保加利亚 **MikroTik 认证经销商（MTCSA）专店**:MTBG OOD；库存联动电商（CCR/WiFi7/CLAIRÉ/KNOT 全线）；企业报价支持",
+      "inference": "纯 MT 专店=替换不现实；唯一缝=客户硬压预算时的'诚实二选一'——低密窄针不追",
+      "hypothesis": "专店预算缝低密窄针（诚实角）",
+      "evidence_main": "https://mikrotikbg.shop",
+      "tech": "MT 专店电商",
+      "hr": "小微",
+      "contact_found": "info@mikrotikbg.shop（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "保加利亚 MT 认证专店（MTCSA)",
+        "产品线与在售品牌": "MikroTik 全线+CLAIRÉ/KNOT",
+        "目标行业与场景": "保国 MT 客群",
+        "团队与规模": "小微",
+        "决策链与对接人": "info@mikrotikbg.shop 口",
+        "技术与认证": "MTCSA 认证",
+        "采购与供应链信号": "库存联动",
+        "近期动态与线索": "预售/现货体系",
+        "与我方契合点": "专店预算缝低密针（诚实角：不抢 MT) ",
+        "风险与注意": "**专店抵触替补——低期待**"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "'Сертифициран MikroTik дилър · MTCSA… Каталогът е свързан на живо със складовата ни система'",
+          "source": "https://mikrotikbg.shop"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 预算缝",
+          "push": "STC-424DGGPM-280W",
+          "angle": "专店预算缝（诚实角，不抢 MT 主位）",
+          "question": "预算缝留吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://mikrotikbg.shop|MTCSA+实时库存双核",
+          "②芯片/型号": "MikroTik 全线",
+          "③KP 深挖": "专店经销商",
+          "④Saga 对标": "STC-424 低密窄针（$165 锚点一致）",
+          "⑤在乎与偏好": "专店忠诚",
+          "⑥SWOT": "S 对口盒 / W 专店忠诚 / O 预算缝 / T MT"
+        },
+        "care": [
+          "替补缝",
+          "首发量",
+          "替补接受度",
+          "专店条款",
+          "缝存在性"
+        ],
+        "swot": {
+          "S": "对口盒",
+          "W": "专店忠诚",
+          "O": "预算缝",
+          "T": "MT"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网认证标"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "替补缝",
+        "首发量"
+      ],
+      "email": "Hi MikroTikBG team,\n\nA certified MTCSA shop that shows live stock - respect. We are not asking you to carry a rival to MikroTik. But when a customer's budget simply rules out the CRS your would quote, a documented value PoE switch at $165 USD EXW (2026-09-29) keeps that deal yours instead of losing it elsewhere.\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: when budget kills the MikroTik option, do you have a documented fallback row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "专店留 budget 缝吗？",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "保加利亚|MT专店MTCSA|预算缝低密|诚实角",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-368",
+      "fact": "Kęstutis Viselga (MT Training LT)（立陶宛）：立陶宛 MikroTik 培训个体站（Vilnius J.Jasinskio 教室；MTCNA/MTCRE/MTCTCE/**MTCSWE** 课表；站 2024 末后更新放缓注）",
+      "inference": "trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照",
+      "hypothesis": "课堂/咨询旁的一行了解位",
+      "evidence_main": "https://www.mikrotik-training.lt",
+      "tech": "顾问谱+培训站",
+      "hr": "Kęstutis 个体",
+      "contact_found": "trainer@mikrotik-training.lt（trainer 谱页核；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "立陶宛 MikroTik 顾问/培训实体（官网核）",
+        "产品线与在售品牌": "MikroTik 生态为主",
+        "目标行业与场景": "咨询/培训现场",
+        "团队与规模": "小微",
+        "决策链与对接人": "trainer@mikrotik-training.lt 口",
+        "技术与认证": "MikroTik 认证体系",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "顾问对照单元（MTCSWE is the switch）",
+        "风险与注意": "体量微——低期待窄针"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "Kursai: MTCNA/MTCRE/MTCTCE/MTCSWE（2024-12 最后更新注）",
+          "source": "https://www.mikrotik-training.lt"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照单元",
+          "push": "CONSULT-OEM",
+          "angle": "顾问对照库了解单元（诚实角；非替换）",
+          "question": "值得进对照库吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 课堂角",
+          "push": "一页对照卡",
+          "angle": "MTCSWE 课堂旁的了解位（学员问性价比场景）",
+          "question": "课堂需要对照样本吗？",
+          "proof": "卡"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://www.mikrotik-training.lt|Kęstutis 具名",
+          "②芯片/型号": "MikroTik 生态",
+          "③KP 深挖": "trainer/顾问页与证书核",
+          "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+          "⑤在乎与偏好": "比照心态/拒硬销",
+          "⑥SWOT": "S 对照态 / W 体量微 / O 课堂旁了解位 / T 大牌"
+        },
+        "care": [
+          "站更新放缓",
+          "排课现况",
+          "培训制",
+          "证书现况",
+          "复购场景"
+        ],
+        "swot": {
+          "S": "对照态",
+          "W": "体量微",
+          "O": "课堂旁了解位",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "顾问无分销条款",
+          "合作方式": "培训制",
+          "缺口证据": "trainer 谱页核"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "证书现况",
+        "复购场景"
+      ],
+      "email": "Hi Kęstutis,\n\nMTCSWE is the switching course - the one place students systematically learn what a switch must do. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: for your MTCSWE students, would a documented value switch be a useful budget-scenario example?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "for your MTCSWE students, would a documented value switch be a useful budget-scenario example?",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-424DGGPM-280W",
+      "tag": "立陶宛|MT培训个体|MTCSWE课表|CONSULT-OEM",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-369",
+      "fact": "Veaceslav Samburschii (Academia)（罗马尼亚）：罗马尼亚 Academia MikroTik 主理：**官网 WordPress critical error 挂注（2026-09-29 实测）;gmail 具名存活**;**与 A-373 同人（本档出信、A-373 错峰建档）**",
+      "inference": "trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照",
+      "hypothesis": "课堂/咨询旁的一行了解位",
+      "evidence_main": "https://academia-mikrotik.ro",
+      "tech": "顾问谱+培训站",
+      "hr": "Veaceslav 个体",
+      "contact_found": "vsamburski@gmail.com（trainer 谱页核；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "罗马尼亚 MikroTik 顾问/培训实体（官网核）",
+        "产品线与在售品牌": "MikroTik 生态为主",
+        "目标行业与场景": "咨询/培训现场",
+        "团队与规模": "小微",
+        "决策链与对接人": "vsamburski@gmail.com 口",
+        "技术与认证": "MikroTik 认证体系",
+        "采购与供应链信号": "—",
+        "近期动态与线索": "—",
+        "与我方契合点": "顾问对照单元（Your Academy has tra）",
+        "风险与注意": "体量微——低期待窄针"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "academia-mikrotik.ro 实返 WordPress fatal error；邮箱 gmail 具名",
+          "source": "https://academia-mikrotik.ro"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 对照单元",
+          "push": "CONSULT-OEM",
+          "angle": "顾问对照库了解单元（诚实角；非替换）",
+          "question": "值得进对照库吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 课堂角",
+          "push": "一页对照卡",
+          "angle": "MTCSWE 课堂旁的了解位（学员问性价比场景）",
+          "question": "课堂需要对照样本吗？",
+          "proof": "卡"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://academia-mikrotik.ro|Veaceslav 具名",
+          "②芯片/型号": "MikroTik 生态",
+          "③KP 深挖": "trainer/顾问页与证书核",
+          "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+          "⑤在乎与偏好": "比照心态/拒硬销",
+          "⑥SWOT": "S 对照态 / W 体量微 / O 课堂旁了解位 / T 大牌"
+        },
+        "care": [
+          "站修复",
+          "排课现况",
+          "培训制",
+          "证书现况",
+          "复购场景"
+        ],
+        "swot": {
+          "S": "对照态",
+          "W": "体量微",
+          "O": "课堂旁了解位",
+          "T": "大牌"
+        },
+        "uncertain": {
+          "产品线核实": "顾问无分销条款",
+          "合作方式": "培训制",
+          "缺口证据": "trainer 谱页核"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "证书现况",
+        "复购场景"
+      ],
+      "email": "Hi Veaceslav,\n\nYour Academy has trained the region's MikroTik admins for years - the site being down changes nothing about the know-how. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: would a documented value PoE switch earn a comparison row in your courses for budget-driven deployments?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "would a documented value PoE switch earn a comparison row in your courses for budget-driven deployments?",
+      "alt2": "CONSULT-OEM",
+      "alt3": "STC-424DGGPM-280W",
+      "tag": "罗马尼亚|Academia主理|站挂gmail活|与A-373同人错峰主发",
+      "batch": 47,
+      "date": "2026-09-29"
+    },
+    {
+      "customer": "A-370",
+      "fact": "Oltion Nikolla (Router.al)（阿尔巴尼亚）：阿国 'Hardware Specialist Albania':**全 MikroTik 电商**(CCR/CRS/hAP/CLAIRÉ 新件齐）+**技术咨询文块**（'network maintenance…transfer to a specialized IT company')",
+      "inference": "专营店+咨询双角：预算缝+咨询对照行两缝——但专店忠诚，低密不追",
+      "hypothesis": "双角低密窄针（诚实角）",
+      "evidence_main": "https://router.al",
+      "tech": "MT 专营+咨询栈",
+      "hr": "小微",
+      "contact_found": "oltionnikolla@gmail.com（官网联系页；未实测投递）",
+      "contact_pending": "",
+      "dims": {
+        "业务定位": "阿国 MT 专营电商+咨询",
+        "产品线与在售品牌": "MikroTik 全线",
+        "目标行业与场景": "阿国 DIY/企业客群",
+        "团队与规模": "小微",
+        "决策链与对接人": "oltionnikolla@gmail.com 具名",
+        "技术与认证": "—",
+        "采购与供应链信号": "库存电商",
+        "近期动态与线索": "新品同步",
+        "与我方契合点": "预算缝+咨询对照行双角低密针",
+        "风险与注意": "专店忠诚——低期待"
+      },
+      "evidence": [
+        {
+          "dim": "业务定位",
+          "quote": "'Hardware Specialist Albania' 全 MT 电商 + TECHNICAL CONSULTATION 文块",
+          "source": "https://router.al"
+        }
+      ],
+      "followups": [
+        {
+          "stage": "第 1 次跟进 · 预算缝",
+          "push": "STC-424DGGPM-280W",
+          "angle": "预算缝+咨询对照行双角（诚实角）",
+          "question": "预算缝留吗？",
+          "proof": "规格页"
+        },
+        {
+          "stage": "第 2 次跟进 · 留档",
+          "push": "—",
+          "angle": "无响——留档",
+          "question": "—",
+          "proof": "—"
+        },
+        {
+          "stage": "第 3 次跟进 · 留档",
+          "push": "—",
+          "angle": "留档",
+          "question": "—",
+          "proof": "—"
+        }
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "https://router.al|专营店+咨询文块双核",
+          "②芯片/型号": "MikroTik 全线",
+          "③KP 深挖": "专营店",
+          "④Saga 对标": "STC-424 低密窄针（$165 锚点一致）",
+          "⑤在乎与偏好": "专店忠诚",
+          "⑥SWOT": "S 双角 / W 专店 / O 预算缝 / T MT"
+        },
+        "care": [
+          "替补缝",
+          "首发量",
+          "咨询转化",
+          "专店条款",
+          "缝存在性",
+          "替补接受度"
+        ],
+        "swot": {
+          "S": "双角",
+          "W": "专店",
+          "O": "预算缝",
+          "T": "MT"
+        },
+        "uncertain": {
+          "产品线核实": "替补接受度",
+          "合作方式": "未谈",
+          "缺口证据": "官网店+咨询块"
+        },
+        "gap_proof": "官网一手"
+      },
+      "unknowns": [
+        "替补缝",
+        "首发量"
+      ],
+      "email": "Hi Oltion,\n\nA MikroTik-only store plus real consultation on top - you are the region's reference counter. We are not asking for a shelf. Only: when a budget-driven client cannot reach the CRS price point, a documented value PoE switch at $165 USD EXW (2026-09-29) is the answer that keeps the project alive.\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in budget-blocked deals, would you ever point customers to a documented value PoE row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "question": "预算场景留对照缝吗？",
+      "alt2": "STI-288GP",
+      "alt3": "STC-28DGGPM",
+      "tag": "阿尔巴尼亚|MT专营+咨询|双角低密|诚实角",
+      "batch": 47,
+      "date": "2026-09-29"
+    }
+  ]
+}
