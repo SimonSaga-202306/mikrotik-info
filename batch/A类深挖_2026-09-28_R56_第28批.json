@@ -1,0 +1,897 @@
+{
+ "batch": 38,
+ "date": "2026-09-29",
+ "source": "R55/R56 全A深挖·合并加厚（R57 超批二波）",
+ "records": [
+  {
+   "customer": "A-271",
+   "fact": "Interstellar（荷兰 Microsoft 主栈大 MSP）：四域=Cloud&Infra/Workspace/Security/Data&AI；TD SYNNEX Partner of the Year 2026；ISO 27001/B Corp；客户墙含 KLM/Gemeente Katwijk（市政=公共守界）；CSV=Michiel Visser MikroTik 认证顾问在册",
+   "inference": "大 MSP 微软栈：网络件边缘位——窄针；公共段（市政）守界句先置",
+   "hypothesis": "私营段客户现场的偶发随单窄针",
+   "evidence_main": "https://interstellar.nl",
+   "tech": "Microsoft 栈+TD SYNNEX",
+   "hr": "荷兰",
+   "contact_found": "info@interstellar.nl（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰微软栈大 MSP",
+    "产品线与在售品牌": "Microsoft/TD SYNNEX",
+    "目标行业与场景": "企业/公共（守界注）",
+    "团队与规模": "大规模组织",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "ISO 27001/B Corp",
+    "采购与供应链信号": "集团采购",
+    "近期动态与线索": "TD SYNNEX 年度伙伴 2026",
+    "与我方契合点": "窄针（私营段，公共守界句在）",
+    "风险与注意": "微软栈离轴+公共敏感"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Eén partner. Vier domeinen——TD SYNNEX Partner of the Year 2026；case: Gemeente Katwijk（公共标注）",
+     "source": "https://interstellar.nl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 窄针",
+     "push": "STC-424DGGPM-280W",
+     "angle": "私营段客户现场随单窄针（公共段守界前句）",
+     "question": "私营项目网络件现供渠道？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "备件知晓位",
+     "question": "留档备查？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL 微软栈大 MSP（官网一手核）",
+     "②芯片/型号": "Microsoft",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "窄针（$165 锚点一致，低密）",
+     "⑤在乎与偏好": "合规/品牌",
+     "⑥SWOT": "S 规模 / W 离轴+公共段 / O 私营随单 / T 大牌"
+    },
+    "care": [
+     "基础设施采购集权未明"
+    ],
+    "swot": {
+     "S": "规模",
+     "W": "离轴",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "硬件权重",
+     "合作方式": "未谈",
+     "缺口证据": "四域叙事实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "硬件权重",
+    "采购集权"
+   ],
+   "email": "Hi Interstellar team,\n\nFour domains, one partner - and TD SYNNEX Partner of the Year 2026. One boundary sentence: your public-sector engagements, Gemeente included, stay on your established paths; this is a narrow question about private-segment sites.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for private customer sites where your infrastructure teams need a documented switching unit.\n\nOne question: when a private-segment site needs switching, who sources it - and would a value PoE line be worth keeping on file?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When a private-segment site needs switching, who sources it?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|微软栈大MSP|窄针|市政守界",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-272",
+   "fact": "Alexandr Mensenin（捷克个体顾问，存档行）：CSV=MikroTik 认证顾问（MTCRE/MTCWE 等），当前无可确认网站与邮箱——CSV 9-27 标注'抓不到'待人工补",
+   "inference": "顾问目录档案位；无话术出口先供位",
+   "hypothesis": "用户补邮箱后启用候选位",
+   "evidence_main": "—",
+   "tech": "—",
+   "hr": "—",
+   "contact_found": "无可确认邮箱",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→CONSULT-OEM 候选供位",
+   "dims": {
+    "业务定位": "捷克 MikroTik 认证顾问（存档）",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "—",
+    "团队与规模": "—",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "候选供位（待邮箱）",
+    "风险与注意": "无接触点"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Alexandr Mensenin（捷克个体顾问，存档行）：CSV=MikroTik 认证顾问（MTCRE/MTCWE 等），当前无可确认网站与邮箱——CSV 9-27 标注'抓不到'待人工补",
+     "source": "CSV/注册表存档（存档注）"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "CONSULT-OEM",
+     "angle": "候选供位（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CSV/注册表存档（MikroTik 认证顾问名录）；网站与邮箱双空——先建档",
+     "②芯片/型号": "—",
+     "③KP 深挖": "—",
+     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
+    },
+    "care": [
+     "邮箱"
+    ],
+    "swot": {
+     "S": "候选位",
+     "W": "无点",
+     "O": "补邮箱",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "建档待证",
+     "合作方式": "未谈",
+     "缺口证据": "CSV/注册表备案"
+    },
+    "gap_proof": "存档证据"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 CONSULT-OEM 候选供位。",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "捷克|个体顾问|无站无邮箱|建档供位",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-273",
+   "fact": "IP ArchiTechs（美国 Kevin Myers）：'领先独立网络咨询集团'——厂商中立（solutions-first，不走厂商伙伴）；Network Engineering/设计架构/Netbox 知识/Tier III-IV NOC；生态墙 MikroTik/Cisco/Calix/Ubiquiti/Nokia/Juniper；Open Networking+'Lowering Network Costs'（commodity hardware+validated designs 降本）自报；行业含 WISP/FISP/Cable ISP",
+   "inference": "美国 MikroTik 系顾问头牌：其'降本=commodity hardware+validated design'哲学与 value 线天然同频——CONSULT-OEM 框架但高契合",
+   "hypothesis": "其 WISP/ISP 客户的 POP/接入设计指引：规格化 value 交换机可入对照库",
+   "evidence_main": "https://iparchitechs.com",
+   "tech": "厂商中立多生态（MikroTik 叙述在墙）",
+   "hr": "美国",
+   "contact_found": "consulting@iparchitechs.com（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国独立网络咨询头牌",
+    "产品线与在售品牌": "厂商中立多生态",
+    "目标行业与场景": "WISP/FISP/企业/数据中心/卫星",
+    "团队与规模": "多市区咨询团队",
+    "决策链与对接人": "consulting@ 口",
+    "技术与认证": "MikroTik 顾问名录（Kevin Myers）",
+    "采购与供应链信号": "顾问指定权",
+    "近期动态与线索": "Netbox/NOC 产品化",
+    "与我方契合点": "设计中立的 value 规格对照（CONSULT-OEM）",
+    "风险与注意": "顾问主权——话术=规格化对照不推销"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "The Leading Independent Network Consulting Group——solutions-first, vendor-neutral;Lowering Network Costs via commodity hardware+validated design templates",
+     "source": "https://iparchitechs.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 规格对照",
+     "push": "CONSULT-OEM",
+     "angle": "其'commodity hardware 降本'设计哲学的规格化对照单元（诚实角）",
+     "question": "对照库接受 value PoE 规格吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 实验证",
+     "push": "样机+规格页",
+     "angle": "其验证实验室跑通？",
+     "question": "可跑实测吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US 独立咨询头牌（官网一手核）",
+     "②芯片/型号": "MikroTik/多生态",
+     "③KP 深挖": "consulting@",
+     "④Saga 对标": "规格对照（$165 锚点一致）",
+     "⑤在乎与偏好": "厂商中立/降本哲学",
+     "⑥SWOT": "S 哲学同频 / W 主权 / O 对照库 / T达成达成广告设"
+    },
+    "care": [
+     "对照库机制未明"
+    ],
+    "swot": {
+     "S": "同频",
+     "W": "主权",
+     "O": "对照",
+     "T": "广告圈"
+    },
+    "uncertain": {
+     "产品线核实": "对照接受度",
+     "合作方式": "未谈",
+     "缺口证据": "降本叙事实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "对照机制",
+    "验证路径"
+   ],
+   "email": "Hi Kevin, hi IP ArchiTechs team,\n\nVendor-neutral consulting with a 'lowering network costs' philosophy - commodity hardware plus validated design templates. That is exactly the world we build for.\n\nFull honesty: we are a PoE switch maker, and your neutrality matters, so no pitch framing here. What we can offer is a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a spec candidate wherever cost-efficient access switching is designed - your lab can verify the claims unit by unit.\n\nOne question: how does a new hardware candidate get into your validated-design consideration set - via lab eval, or via a customer's bill of materials?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "How does a new hardware candidate get into your validated-design consideration set?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|MikroTik顾问头牌|CONSULT-OEM|降本同频",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-274",
+   "fact": "Joust Security（加拿大蒙特利尔+温哥华）：高级安全评估/渗透测试+安全架构咨询+基础设施代管（渗透仿真/BCP-DRP 备份，加拿大数据居留）；伙伴墙=Bitwarden/Dell 授权/Juniper VAR/Getac/Tenable/Axis；CSV=Nathael Leblanc MikroTik 认证顾问（英法双语）",
+   "inference": "安全专业屋：硬件窄位——但其基础设施代管线（机架/备份）与 Juniper VAR 身份背后有实物随件；MikroTik 顾问个体在团队里",
+   "hypothesis": "顾问+感知名义窄针：CONSULT-OEM 探询（地下设备与评估实验的装备来源）",
+   "evidence_main": "https://joustsec.com",
+   "tech": "安全服务（Juniper VAR/Dell/Axis 在墙）",
+   "hr": "Montreal",
+   "contact_found": "info@joustsec.com（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "加拿大高级安全咨询屋",
+    "产品线与在售品牌": "Juniper/Dell/Axis 等伙伴",
+    "目标行业与场景": "企业安全评估/FinTech/楼BA/医疗保",
+    "团队与规模": "高级咨询团队",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "MikroTik 顾问（Nathael，CSV）",
+    "采购与供应链信号": "服务随件窄位",
+    "近期动态与线索": "GenAI 安全新课程",
+    "与我方契合点": "基础设施代管+顾问双窄针（CONSULT-OEM）",
+    "风险与注意": "安全主业硬件离轴低密"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Advanced Security Assessments/Consulting/Infrastructure Services（Canadian data residency）——Juniper VAR 在墙",
+     "source": "https://joustsec.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 顾问双针",
+     "push": "CONSULT-OEM",
+     "angle": "基础设施代管（BCP/DRP 机架）+顾问身份的装备窄针（诚实角）",
+     "question": "代管机架与评估实验的交换件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "备件槽",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CA 安全屋（官网+CSV 双核）",
+     "②芯片/型号": "Juniper 线在墙",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "双窄针（$165 锚点一致，低密）",
+     "⑤在乎与偏好": "专业声誉/加拿大居留",
+     "⑥SWOT": "S 专业 / W 离轴 / O 代管随件 / T 一线"
+    },
+    "care": [
+     "代管机架体量未明"
+    ],
+    "swot": {
+     "S": "专业",
+     "W": "离轴",
+     "O": "随件",
+     "T": "一线"
+    },
+    "uncertain": {
+     "产品线核实": "机架采购",
+     "合作方式": "未谈",
+     "缺口证据": "基础设施代管叙事实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "机架采购",
+    "Nathael 门缝"
+   ],
+   "email": "Hi Joust Security team,\n\nPenetration testing, security architecture, and hosted infrastructure with Canadian data residency - a serious boutique, and we noticed a MikroTik-certified consultant on the team. Full honesty: we build PoE switches, so any vendor preference stays respected; this is a narrow infrastructure question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for hosted racks and lab environments that need switching.\n\nOne question: where does switching for your hosted racks and lab benches come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Where does switching for your hosted racks and labs come from today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "加拿大|安全屋MikroTik顾问|CONSULT-OEM|低密",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-275",
+   "fact": "CanServers（加拿大）：翻新服务器电商（全 CAD 计价，加拿大发货）；CSV=Philippe Lachapelle MikroTik 认证顾问（来源等级 official 已验）",
+   "inference": "二手服务器店+顾问个体：服务器店新类目窄针——value PoE 上架探询",
+   "hypothesis": "其客户（设机柜装服务器的 SMB）要的接入件随单",
+   "evidence_main": "https://canservers.com",
+   "tech": "二手服务器（Dell/HP 类）",
+   "hr": "加拿大",
+   "contact_found": "info@canservers.com（电商公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "加拿大翻新服务器电商",
+    "产品线与在售品牌": "Dell/HP 二手",
+    "目标行业与场景": "SMB 机房随件",
+    "团队与规模": "小店团队",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "MikroTik 顾问（Philippe，CSV official）",
+    "采购与供应链信号": "店铺上架",
+    "近期动态与线索": "—",
+    "与我方契合点": "新类目窄针（诚实角：新机线在老店旁）",
+    "风险与注意": "店薄、新品类低优先"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Canadian Refurbished Servers——All prices CAD, shipped from Canada；CSV: MikroTik 顾问（official）",
+     "source": "https://canservers.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 新类目",
+     "push": "STC-424DGGPM-280W",
+     "angle": "装机柜客户要的 value PoE 新类目窄针",
+     "question": "客户装机柜时交换件顺带卖吗？",
+     "proof": "规格页+供货页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "旁sku知晓",
+     "question": "试一台？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CA 二手服务器店（官网+CSV 双核）",
+     "②芯片/型号": "二手品牌墙",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "新类目窄针（$165 锚点一致）",
+     "⑤在乎与偏好": "性价比客群",
+     "⑥SWOT": "S 客群同价敏 / W 店薄 / O 新类目 / T —"
+    },
+    "care": [
+     "Philippe 店内角色未明"
+    ],
+    "swot": {
+     "S": "客敏",
+     "W": "薄",
+     "O": "新类目",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "新类目意愿",
+     "合作方式": "未谈",
+     "缺口证据": "店铺+顾问实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "新类目意愿",
+    "Philippe 角色"
+   ],
+   "email": "Hi CanServers team,\n\nRefurbished servers shipped across Canada - customers buying racks for real projects. Every rack we have ever seen eventually wanted a switch beside it. (We also noticed the MikroTik-certified expertise behind the shop, so no mystery about networking here.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit your rack-buying customers could add in the same order.\n\nOne question: would switching be a sensible new category beside the server shelf - and would one evaluation unit help you decide?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Would switching be a sensible new category beside the server shelf?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "加拿大|二手服务器店|新类目窄针|MikroTik顾问在店",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-276",
+   "fact": "Neobits（美国）：超宽线电商市场（Base Station Infrastructure 类目为网络唯一现实触点+视频监控类目）；CSV=Netonix 授权渠道（WISP 接入层交换机）身份在档",
+   "inference": "百货市场里基站基建类目一小口——value PoE 上架窄位低优先；Netonix 渠道身份=已在交换分销语境",
+   "hypothesis": "Base Station 类目下 WISP 客群的 value PoE 窄位",
+   "evidence_main": "https://www.neobits.com",
+   "tech": "超宽市场（Netonix 渠道 CSV）",
+   "hr": "美国",
+   "contact_found": "sales@neobits.com（页面公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国超宽线电商",
+    "产品线与在售品牌": "Netonix 渠道（CSV）",
+    "目标行业与场景": "宽线企业采购",
+    "团队与规模": "电商组织",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "类目上架",
+    "近期动态与线索": "—",
+    "与我方契合点": "Base Station 类目 value 窄位",
+    "风险与注意": "类目极小、信号弱（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Top Categories: Base Station Infrastructure…Video Surveillance Systems——CSV: Netonix 授权渠道（WISP 接入层）",
+     "source": "https://www.neobits.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 类目窄位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Base Station 类目里 WISP 客群的 value PoE（Netonix 旁前句）",
+     "question": "Base Station 类目能加一条 value PoE 吗？",
+     "proof": "规格页+上架页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "知晓位",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US 超宽电商（官网+CSV 双核）",
+     "②芯片/型号": "Netonix 渠道",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "类目窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "SKU 广度",
+     "⑥SWOT": "S 渠道身份 / W 类小信号弱 / O 窄位 / T —"
+    },
+    "care": [
+     "类目采购权谁属未明"
+    ],
+    "swot": {
+     "S": "身份",
+     "W": "弱",
+     "O": "窄",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "类目权重",
+     "合作方式": "电商条款未谈",
+     "缺口证据": "渠道+类目实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "类目权重",
+    "采购权"
+   ],
+   "email": "Hi Neobits team,\n\nA business supermarket with a Base Station Infrastructure category - and, if our notes are right, a Netonix channel relationship in wireless access. One sentence up front: we are not asking to displace that line.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for the WISP buyers already browsing that category.\n\nOne question: who runs the Base Station category, and would a value PoE listing be worth a test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Would a value PoE listing in Base Station Infrastructure be worth a test?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|超宽电商|BaseStation窄位|Netonix渠道",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-277",
+   "fact": "Modelec Data-Industrie（荷兰）：工业数据通信分销——官网题'betrouwbare en veilige netwerkoplossingen'；CSV=Westermo 官方 where-to-buy 名录（2026-09-23 验）",
+   "inference": "荷兰工业数据通信分销（Westermo 在墙）：value 替补窄位死守界前句；官网 JS 重证据偏薄已标注",
+   "hypothesis": "Westermo 旁的替补槽窄口",
+   "evidence_main": "https://www.modelec.nl",
+   "tech": "Westermo（官方名录）",
+   "hr": "荷兰",
+   "contact_found": "contact@modelec.nl（官网公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰工业数据通信分销",
+    "产品线与在售品牌": "Westermo",
+    "目标行业与场景": "工业 OT",
+    "团队与规模": "分销团队",
+    "决策链与对接人": "contact@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "分销泳道",
+    "近期动态与线索": "—",
+    "与我方契合点": "替补窄位（守界前句）",
+    "风险与注意": "官网 JS 重的一手证偏薄（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen——CSV: Westermo 官方 where-to-buy 名录（9-23 验）",
+     "source": "https://www.modelec.nl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界句",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Westermo 旁 value 替补窄位（前句框定）",
+     "question": "工业交换有价值替补槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 非管理线",
+     "push": "STI-288GP",
+     "angle": "8 口工业 PoE 对照",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL 工业数据通信分销（官网+CSV 双核）",
+     "②芯片/型号": "Westermo 线",
+     "③KP 深挖": "contact@",
+     "④Saga 对标": "替补窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "可靠/安全网络",
+     "⑥SWOT": "S 对口 / W 证据薄+在墙 / O 替补 / T Westermo"
+    },
+    "care": [
+     "其实体品类页未得（JS）"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "薄",
+     "O": "替补",
+     "T": "Westermo"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "名录双重实锤"
+    },
+    "gap_proof": "官网题+名录"
+   },
+   "unknowns": [
+    "替补机制",
+    "采购权责"
+   ],
+   "email": "Hi Modelec team,\n\nReliable and secure network solutions for Dutch industry - and, per the official Westermo listing, a data-communication house with real industrial wiring behind it. One sentence up front: your Westermo line stays untouched.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value substitute where projects do not need the full industrial tier.\n\nOne question: does Modelec keep a substitute tier for industrial switching - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does Modelec keep a substitute tier for industrial switching?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|工业数据通信分销|Westermo旁替补|证据薄注",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-278",
+   "fact": "Cayman Wireless Inc（美国，2004 起 WISP 专 VAR 分销）：天线/无线/配件+'The Best Antennas This Side of Paradise!'；授权品牌墙=Ubiquiti/MikroTik/Cambium/Grandstream/Mimosa/**Netonix**/TP-Link/Tycon/Laird；UBWA/UEWA 双证+MikroTik/Grandstream 编程预配服务+NAS+监控",
+   "inference": "WISP 专 VAR 资深：天线为主但 Netonix 在墙=交换分销语境已在；value PoE 替补窄位好靶",
+   "hypothesis": "其 WISP 客户的塔站/现场 value PoE 替补槽",
+   "evidence_main": "https://www.caymanwireless.com",
+   "tech": "Ubiquiti/MikroTik/Cambium/Netonix/Tycon…",
+   "hr": "美国",
+   "contact_found": "sales@caymanwireless.com（官网公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国 WISP 专 VAR（2004）",
+    "产品线与在售品牌": "Ubiquiti/MikroTik/Netonix 等",
+    "目标行业与场景": "WISP 族群",
+    "团队与规模": "专精小团",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "UBWA/UEWA",
+    "采购与供应链信号": "VAR 上架+预配服务",
+    "近期动态与线索": "—",
+    "与我方契合点": "塔站/现场 PoE 替补窄位（Netonix 旁前句）",
+    "风险与注意": "天线主业（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Value-Added Reseller & Programming——Authorized: Ubiquiti/MikroTik/Cambium/Grandstream/Mimosa/Netonix/TP-Link/Tycon/Laird",
+     "source": "https://www.caymanwireless.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 替补窄位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "WISP 塔站/现场 value PoE 替补（Netonix 旁前句）",
+     "question": "交换类目加一条 value PoE？",
+     "proof": "规格页+上架页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs Netonix 级并排",
+     "question": "对照试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US WISP VAR（官网一手核）",
+     "②芯片/型号": "Netonix 线在墙",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "替补窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "预算/交期/稀罕货帮助",
+     "⑥SWOT": "S 客群对口 / W 天线主业 / O 替补 / T Netonix"
+    },
+    "care": [
+     "交换类目策略未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "主业差",
+     "O": "替补",
+     "T": "Netonix"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "VAR 条款未谈",
+     "缺口证据": "授权墙实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "类目权"
+   ],
+   "email": "Hi Cayman Wireless team,\n\nSince 2004 - 'The Best Antennas This Side of Paradise' - with UBWA/UEWA certs, MikroTik programming services, and Netonix among your authorized brands. One sentence up front: that Netonix line stays untouched.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for WISP sites and customer-premises gear beside your antenna and radio core.\n\nOne question: would a documented value PoE switch earn a slot beside your switching offers - and can one unit prove it?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Would a documented value PoE switch earn a slot beside your switching offers?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|WISP专VAR|UBWA/UEWA|Netonix旁替补",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-279",
+   "fact": "wlanparts（美国，存档行）：CSV=Netonix 授权渠道（WISP 接入层交换机）主条目，当前无可确认网站与邮箱——CSV 9-23 用户裁决保留注",
+   "inference": "WISP 渠道目录位；无话术出口先供位",
+   "hypothesis": "用户补邮箱后启用候选位",
+   "evidence_main": "—",
+   "tech": "—",
+   "hr": "—",
+   "contact_found": "无可确认邮箱",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "dims": {
+    "业务定位": "美国 Netonix 授权渠道（存档）",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "—",
+    "团队与规模": "—",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "候选供位（待邮箱）",
+    "风险与注意": "无接触点"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "wlanparts（美国，存档行）：CSV=Netonix 授权渠道（WISP 接入层交换机）主条目，当前无可确认网站与邮箱——CSV 9-23 用户裁决保留注",
+     "source": "CSV/注册表存档（存档注）"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "STC-424DGGPM-280W",
+     "angle": "候选供位（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CSV/注册表存档（Netonix 授权渠道名录）；网站与邮箱双空——先建档",
+     "②芯片/型号": "—",
+     "③KP 深挖": "—",
+     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
+    },
+    "care": [
+     "邮箱"
+    ],
+    "swot": {
+     "S": "候选位",
+     "W": "无点",
+     "O": "补邮箱",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "建档待证",
+     "合作方式": "未谈",
+     "缺口证据": "CSV/注册表备案"
+    },
+    "gap_proof": "存档证据"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|Netonix渠道|无站无邮箱|建档供位",
+   "batch": 38,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-280",
+   "fact": "Invictus Wireless（美国）：无线/网络/监控网店——Indoor/Outdoor/Surveillance&Access 三分区，在售 Ubiquiti 全簇（UISP-CONSOLE/UniFi 相机等 '$89.00 SPECIAL PRICE' 促销）；CSV=Netonix 授权渠道",
+   "inference": "WISP 网店、价格敏感促销口径：Ubiquiti+Netonix 旁的 value PoE 上架窄口",
+   "hypothesis": "其客群（WISP/监控安装商）的替换价窄位",
+   "evidence_main": "https://www.invictuswireless.com",
+   "tech": "Ubiquiti/Netonix 渠道",
+   "hr": "美国",
+   "contact_found": "sales@invictuswireless.com（网店公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国无线网络网店",
+    "产品线与在售品牌": "Ubiquiti 领衔+Netonix 渠道",
+    "目标行业与场景": "WISP/监控安装群",
+    "团队与规模": "网店团队",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "网店上架",
+    "近期动态与线索": "SPECIAL PRICE 促销体系",
+    "与我方契合点": "价格替换窄位（Netonix 旁前句）",
+    "风险与注意": "Ubiquiti 浓度高（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Networking, Security & Wireless——SHOP: Indoor/Outdoor/Surveillance&Access；UISP-CONSOLE $89 SPECIAL PRICE",
+     "source": "https://www.invictuswireless.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 促销窄位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "促销体系里的 value PoE 上新（Netonix 旁前句）",
+     "question": "交换类能加促销位 value PoE 吗？",
+     "proof": "规格页+上架页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs Ubiquiti/Netonix 中档并排",
+     "question": "对照试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US WISP 网店（官网+CSV 双核）",
+     "②芯片/型号": "Ubiquiti/Netonix",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "促销窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "折扣驱动的客群",
+     "⑥SWOT": "S 促销体系 / W U 浓度 / O 替换 / T U/Netonix"
+    },
+    "care": [
+     "类目负责人未明"
+    ],
+    "swot": {
+     "S": "促销",
+     "W": "浓度",
+     "O": "替换",
+     "T": "大厂"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "网店条款未谈",
+     "缺口证据": "SPECIAL PRICE 实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "类目权"
+   ],
+   "email": "Hi Invictus Wireless team,\n\nUbiquiti runs deep in your shop - and the SPECIAL PRICE banners tell me your buyers close on price. There is one category where price decides fastest: PoE switching.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier that fits your promotion rhythm beside the Ubiquiti and Netonix lines (both noted, untouched).\n\nOne question: would a value PoE switch earn a promotional slot in your shop - and can one unit start the story?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Would a value PoE switch earn a promotional slot in your shop?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|WISP网店|促销窄位|Netonix旁",
+   "batch": 38,
+   "date": "2026-09-29"
+  }
+ ]
+}
