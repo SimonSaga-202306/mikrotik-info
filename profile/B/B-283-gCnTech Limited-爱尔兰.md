@@ -55,6 +55,51 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg)
+- 【推断】都柏林小型 Reseller,具名直达;足迹薄
+- 【假设】开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走
+
+**SWOT 速描**
+- **S**: 具名直达+都柏林
+- **W**: 足迹薄
+- **O**: value PoE 档
+- **T**: 失联
+
+**证据（quote → 来源）**
+- 「CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)
+- 第一问: (先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?
+- 标签: 爱尔兰|都柏林|Reseller|具名
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Greg,
+
+A MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+
+If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 活跃经营佐证
+2. 谱与量级
+
+**跟进建议（守档节奏）**
+- D+7 活跃度快验
+- D+14 greg@gcntech.ie 具名开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

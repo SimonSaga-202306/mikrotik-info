@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事)
+- 【推断】新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱
+- 【假设】开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口
+
+**SWOT 速描**
+- **S**: 丹麦本土+服务贴心位
+- **W**: 2023 新创小体量
+- **O**: SME 项目随单 PoE 位
+- **T**: 量小
+
+**证据（quote → 来源）**
+- 「DVISOR er en 100% danskejet virksomhed…It-ydelser og it-rådgivning, 2-10 medarbejdere, Grundlagt 2023, Rønde」 — https://dk.linkedin.com/company/dvisor
+- 「Hardware / software. Løsninger. Services. Konsulenter…shop.dvisor.dk」 — https://dvisor.dk/om-os/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位
+- 第一问: 你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?
+- 标签: 丹麦|Rønde|新创IT伙伴|小微企业
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Dvisor team,
+
+A young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.
+
+One question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. SME 客户谱行业构成
+2. 架上网络件现供价位
+
+**跟进建议（守档节奏）**
+- D+3 SME 随单页
+- D+14 info@dvisor.dk 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

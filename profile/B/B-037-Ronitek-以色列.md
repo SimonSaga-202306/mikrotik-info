@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Ronitek Distribution Ltd(Tel Aviv Ben Tzvi 84;ח.פ 516918844):**以色列网络设备中坚分销(希伯来语电商+B2B)**——Ubiquiti/MikroTik/TP-Link/Teltonika/Huawei/Cisco/Supermicro/RF Elements/Synology/Yealink/HPE Aruba/Juniper/NVIDIA 全谱;官方进口商口径;在架 MikroTik 深(RDS2216/CCR/CRS,SFP 类目 27 项);WhatsApp 商务线
+- 【推断】同 etree/Ronitek 画像:中东市场电商型全谱分销;Teltonika+Ubiquiti 均在架=PoE 需求谱明确;希伯来语本地服务是其护城河
+- 【假设】开口角度=「以色列电商分销的 24 口 280W 管理型 PoE value 档」:STC-424 以其 CRS/UniFi 之间的 value 空档入架
+
+**SWOT 速描**
+- **S**: 全谱+官方进口+本地希语服务
+- **W**: Ubiquiti 走量压
+- **O**: 24 口 280W 管理型 value 空档
+- **T**: 地缘物流与合规
+
+**证据（quote → 来源）**
+- 「Ubiquiti, MikroTik, TP-Link, Teltonika, Huawei, Cisco, Supermicro, RF Elements, Synology, Yealink…HPE Aruba, Juniper, NETGEAR, NVIDIA」 — https://www.ronitek.co.il
+- 「MikroTik RDS2216…Switches [27]…Routers and Firewalls [17]…SFP optical modules [18]」 — https://www.ronitek.co.il/products/cat/Mikrotik
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 以色列中坚分销的 24 口 280W 管理型 PoE value 架位
+- 第一问: 你们架上 24 口管理型 PoE+ 现供哪款?UniFi/CRS 之间 value 档有位吗?
+- 标签: 以色列|特拉维夫|全谱分销|MikroTik深架
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Ronitek team,
+
+A full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.
+
+One question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?
+
+If useful, I can send one unit with the complete test pack (note: we can align on Israeli import certification needs). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 其安装商/ISP 客层 PoE 随单结构
+2. 新品牌入架的认证门槛(以色列进口认证)
+
+**跟进建议（守档节奏）**
+- D+3 价档对照页
+- D+14 info@ronitek.co.il 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

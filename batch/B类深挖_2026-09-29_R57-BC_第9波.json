@@ -1,0 +1,398 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第9波",
+ "date": "2026-09-29",
+ "scope": "B 类北欧+北美+以色列+冰岛 22 家(用户要求一波 30-40 家,本波与第 10 波连发共 42 家)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-058『冰岛唯一 Master』判型校正为 2024 新创安全咨询小店;B-039 Voicenter 判型为云通信运营商非分销",
+ "records": [
+  {
+   "code": "B-001",
+   "fact": "ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱)",
+   "inference": "集团第 6 站:北欧分销站(DK/SE/NO/FI 谱),与法意希站同构=纯分销面,自牌冲突不在此层",
+   "hypothesis": "开口角度=「ALLNET 集团北欧站的 value PoE 集团合合」(同 B-231/B-154 模板):STC-424 做北欧四站统一 value  stocking SKU",
+   "evidence": [
+    {"dim": "集团", "quote": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe", "source": "https://www.allnet-italia.it/en/allnet-international-network/"}
+   ],
+   "unknowns": ["北欧站采购集权度(集团统一 or DK 自主)", "北欧 MikroTik 架 PoE 档空位"],
+   "swot": {"S": "集团北欧四点+Master", "W": "决策或上集团", "O": "集团 value PoE 第 6 站联动", "T": "总部自牌谱边界"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)",
+   "question": "ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?",
+   "tag": "丹麦|Ballerup|集团北欧站|Master",
+   "email": "Hi ALLNET Nordic team,\n\nAnother ALLNET branch on our map after France, Italy and Greece - the Group shelf deserves one uniform value PoE tier across all countries.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.\n\nOne question: for the Nordic branch, which PoE access SKU holds the value tier today - and would a group-level second source earn a pilot here?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 集团联动页(法意希背书)", "D+14 info@allnet.dk 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-004",
+   "fact": "Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事)",
+   "inference": "新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱",
+   "hypothesis": "开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口",
+   "evidence": [
+    {"dim": "身份", "quote": "DVISOR er en 100% danskejet virksomhed…It-ydelser og it-rådgivning, 2-10 medarbejdere, Grundlagt 2023, Rønde", "source": "https://dk.linkedin.com/company/dvisor"},
+    {"dim": "模式", "quote": "Hardware / software. Løsninger. Services. Konsulenter…shop.dvisor.dk", "source": "https://dvisor.dk/om-os/"}
+   ],
+   "unknowns": ["SME 客户谱行业构成", "架上网络件现供价位"],
+   "swot": {"S": "丹麦本土+服务贴心位", "W": "2023 新创小体量", "O": "SME 项目随单 PoE 位", "T": "量小"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位",
+   "question": "你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?",
+   "tag": "丹麦|Rønde|新创IT伙伴|小微企业",
+   "email": "Hi Dvisor team,\n\nA young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.\n\nOne question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 SME 随单页", "D+14 info@dvisor.dk 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-005",
+   "fact": "Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂**",
+   "inference": "定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口",
+   "hypothesis": "开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线",
+   "evidence": [
+    {"dim": "身份", "quote": "Nextron builds and sells custom servers, storage systems and workstations…distributor of SuperMicro…offices in Oslo, Stockholm, Copenhagen and Helsinki", "source": "https://gh.linkedin.com/company/nextron"},
+    {"dim": "板块", "quote": "Servers, AI, HPC, Virtualization, Supermicro, Nvidia…Storage, Embedded IoT, Industry", "source": "https://www.nextron.dk/solutions"},
+    {"dim": "MikroTik", "quote": "As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers", "source": "https://www.zoominfo.com/c/nextron/433791882"}
+   ],
+   "unknowns": ["机柜方案打包时网络件随单方式(自购 or 推荐单)", "Embedded/Industry 板块 PoE 谱深"],
+   "swot": {"S": "25 年定制服务器+北欧四点+Nvidia 独家", "W": "网络非主业", "O": "机柜打包随单 PoE+Embedded 板块二线", "T": "Supermicro 谱内锁"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)",
+   "question": "你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?",
+   "tag": "丹麦+北欧4站|定制服务器|Supermicro|Nvidia独家",
+   "email": "Hi Nextron team,\n\nCustom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.\n\nOne question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 机柜打包随单页", "D+14 sales@nextron.dk 开口", "D+30 果归守档"],
+   "note": "二线注记:Embedded IoT/Industry 板块存在,STC-424 开口顺后可续 STI-288GP 工业线。"
+  },
+  {
+   "code": "B-037",
+   "fact": "Ronitek Distribution Ltd(Tel Aviv Ben Tzvi 84;ח.פ 516918844):**以色列网络设备中坚分销(希伯来语电商+B2B)**——Ubiquiti/MikroTik/TP-Link/Teltonika/Huawei/Cisco/Supermicro/RF Elements/Synology/Yealink/HPE Aruba/Juniper/NVIDIA 全谱;官方进口商口径;在架 MikroTik 深(RDS2216/CCR/CRS,SFP 类目 27 项);WhatsApp 商务线",
+   "inference": "同 etree/Ronitek 画像:中东市场电商型全谱分销;Teltonika+Ubiquiti 均在架=PoE 需求谱明确;希伯来语本地服务是其护城河",
+   "hypothesis": "开口角度=「以色列电商分销的 24 口 280W 管理型 PoE value 档」:STC-424 以其 CRS/UniFi 之间的 value 空档入架",
+   "evidence": [
+    {"dim": "谱系", "quote": "Ubiquiti, MikroTik, TP-Link, Teltonika, Huawei, Cisco, Supermicro, RF Elements, Synology, Yealink…HPE Aruba, Juniper, NETGEAR, NVIDIA", "source": "https://www.ronitek.co.il"},
+    {"dim": "在架", "quote": "MikroTik RDS2216…Switches [27]…Routers and Firewalls [17]…SFP optical modules [18]", "source": "https://www.ronitek.co.il/products/cat/Mikrotik"}
+   ],
+   "unknowns": ["其安装商/ISP 客层 PoE 随单结构", "新品牌入架的认证门槛(以色列进口认证)"],
+   "swot": {"S": "全谱+官方进口+本地希语服务", "W": "Ubiquiti 走量压", "O": "24 口 280W 管理型 value 空档", "T": "地缘物流与合规"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "以色列中坚分销的 24 口 280W 管理型 PoE value 架位",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪款?UniFi/CRS 之间 value 档有位吗?",
+   "tag": "以色列|特拉维夫|全谱分销|MikroTik深架",
+   "email": "Hi Ronitek team,\n\nA full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.\n\nOne question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack (note: we can align on Israeli import certification needs). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 价档对照页", "D+14 info@ronitek.co.il 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-039",
+   "fact": "Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登台讲 MikroTik debug VoIP**(技术圈实名);阿姆斯特丹 QXIP 姐妹公司(开源语音);Master 挂证应源自其企业客户部署配送 MikroTik CPE",
+   "inference": "云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件",
+   "hypothesis": "开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)",
+   "evidence": [
+    {"dim": "判型", "quote": "cloud-based VoIP PBX & call center service providers, and operates five telecom data-centers, distributed worldwide…since 2007", "source": "https://www.zoominfo.com/c/voicenter/461174517"},
+    {"dim": "技术", "quote": "Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)", "source": "https://mum.mikrotik.com/presentations/NL16/presentation_3876_1479372782.pdf"}
+   ],
+   "unknowns": ["企业部署随单 PoE 件现供与 OEM 白标开放度", "其客户桌面话机谱(Yealink/Poly?)PoE 功率需求"],
+   "swot": {"S": "2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者)", "W": "运营商本体,不零售硬件", "O": "桌面话机 PoE 部署随单/OEM 白标", "T": "自研中心,硬件谱敏感"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)",
+   "question": "你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?",
+   "tag": "以色列|特拉维夫|云PBX运营商|5DC|MUM演讲CTO",
+   "email": "Hi Shlomi, hi Voicenter team,\n\nFive telecom datacenters worldwide, an open-source telephony DNA, and a CTO who has literally stood on the MUM stage teaching VoIP debugging on MikroTik - you understand exactly what happens on the wire.\n\nEvery hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.\n\nOne question: in your enterprise and hosted deployments, which PoE switch feeds the desktop phone fleets today - and would a documented OEM unit earn a lab test in your datacenter bench?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 话机 PoE 部署随单页", "D+14 info@voicenter.co.il 具名 Shlomi", "D+30 果归守档"]
+  },
+  {
+   "code": "B-058",
+   "fact": "Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FCF/FCA+MTCNA/MTCRE/MTCINE/MTCWE/MTCTCE 5 证,西雅图同步法人;服务=安全咨询/审计/培训+网络培训+Druva/1Password 软件**",
+   "inference": "「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线",
+   "hypothesis": "开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长",
+   "evidence": [
+    {"dim": "注册", "quote": "Öruggt Net ehf was registered with the Icelandic tax authority on 21 February 2024…We are a small consulting firm…Gróska Growhouse", "source": "https://securenet.is/about-us/our-founder-and-us/"},
+    {"dim": "唯一", "quote": "Öruggt Net er eini viðurkenndi dreifingaraðili MikroTik á Íslandi", "source": "https://www.cbinsights.com/company/mikroTik(冰岛语引述)"},
+    {"dim": "谱系", "quote": "Cybersecurity consultation, Network Services, Cybersecurity Training, Network Training, Software Price List", "source": "https://securenet.is/"}
+   ],
+   "unknowns": ["培训课频度与学员谱", "其冰岛企业客户 PoE 随单真实量级(小岛市场)"],
+   "swot": {"S": "冰岛唯一 Master 名头+5 证创始人+美冰双法人", "W": "2024 新创,量级极小", "O": "教具样本+冰岛政企咨询随单", "T": "小岛市场天花板"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "2024 新创安全咨询+培训谱:教具样本为最白开口(『唯一 Master』名头下实为咨询店,守其成长)",
+   "question": "你的网络培训课上,PoE 段对照教具现有没有位?",
+   "tag": "冰岛|雷克雅未克|2024新创|安全咨询|唯一Master名头",
+   "email": "Hi Secure Net team,\n\nIceland's only recognized MikroTik distributor title on a 2024-founded cybersecurity consultancy with an ISO 27001 Lead Auditor at the helm - small shop, serious credentials, and a training roster to match.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your network-training bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on your training bench in Reykjavik, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本一页", "D+14 info@oruggtnet.is 开口", "D+30 果归守档"],
+   "note": "**判型校正注记**:『冰岛唯一 Master』实际是 2024 新创安全咨询小店,非货架型分销;原『无竞争』切入点应修正为『教具+咨询随单,量小守档』。"
+  },
+  {
+   "code": "B-279",
+   "fact": "Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层",
+   "inference": "25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**",
+   "hypothesis": "开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档",
+   "evidence": [
+    {"dim": "资历", "quote": "Delivering excellence in Wireless since 2001…If a standard off-the-shelf device does not fit your needs, we're here to help", "source": "https://x.com/irishwireless"},
+    {"dim": "类目", "quote": "Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more", "source": "https://irishwireless.net/active-poe"}
+   ],
+   "unknowns": ["PoE 类目升级意愿(散件 到主机档)", "其 WISP/酒店客户 24 口场景量级"],
+   "swot": {"S": "25 年无线专精+老站信誉", "W": "散件为主,主机档未入", "O": "PoE 类目升到 24 口管理型", "T": "类目扩品决策慢"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)",
+   "question": "你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。",
+   "tag": "爱尔兰|Clare|无线专精电商|25年|PoE类目",
+   "email": "Hi Irish Wireless team,\n\nTwenty-five years of wireless kit for rural Ireland - and an Active PoE category that today stops at injectors and extenders. Your customers building WISP nodes and hotel networks eventually need the switch itself, not just the injectors.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.\n\nOne question: would your Active PoE category carry a documented 24-port managed PoE switch as the category's head unit - and is a sample worth a test listing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 PoE 类目升级页", "D+14 sales@irishwireless.net 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-398",
+   "fact": "LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在)",
+   "inference": "芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型",
+   "hypothesis": "开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Master;Espoo;myynti@localnet.fi", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["在架品牌谱与 PoE 档现供", "活跃经营规模"],
+   "swot": {"S": "Master 级位", "W": "足迹薄,谱未摸", "O": "value PoE 档", "T": "谱重叠 MikroTik 自家交换"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "芬兰 Master 的 value PoE 档试探(先验架深与活跃度)",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+   "tag": "芬兰|Espoo|Master|足迹薄先验",
+   "email": "Hi LocalNet team,\n\nA MikroTik Master in Espoo serving Finnish integrators and ISPs - the value PoE tier is usually the quietest slot in a Nordic catalog.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, documented for bench testing.\n\nOne question: on your shelf, which 24-port managed PoE switch holds the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 value 档试探页", "D+14 myynti@localnet.fi 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-296",
+   "fact": "Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄)",
+   "inference": "瑞典小型 Reseller;足迹薄,活跃度待验",
+   "hypothesis": "开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "谱与量级"],
+   "swot": {"S": "斯京区位", "W": "足迹薄", "O": "value PoE 档", "T": "失联"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "瑞典 Reseller value PoE 试探(活跃验证先行)",
+   "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+   "tag": "瑞典|Älvsjö|Reseller|活跃验证",
+   "email": "Hi Sanuk team,\n\nA MikroTik reseller in Älvsjö - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+7 活跃度快验(电话/网站)", "D+14 mail@sanuksystems.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-283",
+   "fact": "gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg)",
+   "inference": "都柏林小型 Reseller,具名直达;足迹薄",
+   "hypothesis": "开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "谱与量级"],
+   "swot": {"S": "具名直达+都柏林", "W": "足迹薄", "O": "value PoE 档", "T": "失联"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)",
+   "question": "(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?",
+   "tag": "爱尔兰|都柏林|Reseller|具名",
+   "email": "Hi Greg,\n\nA MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+7 活跃度快验", "D+14 greg@gcntech.ie 具名开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-295",
+   "fact": "OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**",
+   "inference": "北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)",
+   "hypothesis": "开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动",
+   "evidence": [
+    {"dim": "体量", "quote": "one of the leading suppliers of industrial automation components in Europe…Höganloft logistics center in Tranås…over 30,000 items as standard, deliver over 300,000 order lines each year", "source": "https://www.oemautomatic.se/om-oss/in-english"},
+    {"dim": "板块", "quote": "Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)", "source": "https://www.oemautomatic.se/"}
+   ],
+   "unknowns": ["Produktförädling 线现状与 OEM 代工开放度", "N-Tron 在架价位带"],
+   "swot": {"S": "40 年巨头+3 万 SKU 仓+六大域+自有开发线", "W": "谱大决策层多", "O": "value DIN 轨位或自有谱 OEM 代工(CSV 已点)", "T": "N-Tron/Red Lion 排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)",
+   "question": "你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?",
+   "tag": "瑞典|Tranås|工业巨头|自有开发线|OEM最优先",
+   "email": "Hi OEM Automatic team,\n\nForty years, six product areas, thirty thousand stocked SKUs at Höganloft - and a Produktförädling line that says you shape products yourselves, not just move boxes.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29). Two placements: as the value-side DIN-rail source beside your industrial-communication shelf, or as an OEM basis under your Produktförädling product line.\n\nOne question: beside the N-Tron shelf, is there a documented value DIN-rail slot - and would your own development line evaluate an OEM unit?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 双案页(value 位 vs OEM 代工)", "D+14 info@oemautomatic.pl(波兰分公司,CSV 已存联系人)开口", "D+30 果归守档"],
+   "note": "**集团系注记**:B-200 OEM Automatic spol. s r.o.(捷克)为同集团实体,第 10 波同模板;CSV 指明从华沙(info@oemautomatic.pl,+48 22 863 27 22,Antaira 授权)一次覆盖 SE/PL/CZ。"
+  },
+  {
+   "code": "B-527",
+   "fact": "EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块",
+   "inference": "嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层",
+   "hypothesis": "开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入",
+   "evidence": [
+    {"dim": "集团", "quote": "The largest company in the business area is EG Electronics…represented in eight countries…central warehouse in Stockholm…integrated logistics centres in the USA and Hong Kong", "source": "https://kamicgroup.com/index.php/en/electronics-2/"},
+    {"dim": "市场", "quote": "We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectivity", "source": "https://egelectronics.com/markets/industrial-automation/"}
+   ],
+   "unknowns": ["connectivity 板块在架(PoE 件谱深)", "其 OEM 客户 value 档接受度"],
+   "swot": {"S": "KAMIC 集团+8 国物流+OEM/机械制造客层", "W": "connectivity 非主业", "O": "N-Tron 旁 DIN 轨 value 位", "T": "主业绑定显示谱"},
+   "p1": "STI-288GP",
+   "p1_reason": "KAMIC 集团 VAD 的 connectivity 板块 N-Tron 谱旁 DIN 轨 value 二源(OEM/机械制造客层对口)",
+   "question": "你们 connectivity 板块 N-Tron 旁,value DIN 轨 PoE 二源有位吗?OEM 客户要 value 件的频次多高?",
+   "tag": "瑞典|斯德哥尔摩|KAMIC集团|显示嵌入式VAD",
+   "email": "Hi EG Electronics team,\n\nKAMIC Group's electronics flagship with HMI displays, embedded computing and industrial connectivity for machine builders across eight countries - your OEM customers already ask you for the connectivity layer, and the value side of that layer is thin.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your N-Tron shelf, fully open to an OEM variant under your terms.\n\nOne question: inside your connectivity offering for machine builders, is there a documented value DIN-rail PoE source today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 N-Tron 对位页", "D+14 hello@egelectronics.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-397",
+   "fact": "Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Antaira(官网 where-to-buy 芬兰列名确认)**/Gefran/FSG/Wago/Winmate/R+W/Elgo/Code corp/lenze/systec;自动化零组件进口分销+组装咨询",
+   "inference": "新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗",
+   "hypothesis": "开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口",
+   "evidence": [
+    {"dim": "身份", "quote": "Fiseg Oy…4 työntekijää…Liiketulos 519 000 €(2023)…Toimitusjohtaja: Tero Henrik Närhi…Tuotemerkit: Idem Safety, Antaira, Gefran, FSG, Wago, Winmate", "source": "https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455"},
+    {"dim": "授权", "quote": "Where to Buy Finland: Fiseg Oy, Aurinkokuja 5 B FI-33420 Tampere", "source": "https://antaira.eu/antaira-where-to-buy,81"}
+   ],
+   "unknowns": ["Antaira 在其谱的实际走量", "其客户(轨道/机械)PoE 件需求带"],
+   "swot": {"S": "新创盈利好+具名 CEO+Antaira 授权", "W": "4 人小谱", "O": "Antaira 独苗旁 value 二源", "T": "传感器主业重心偏"},
+   "p1": "STI-288GP",
+   "p1_reason": "芬兰小而精进口商 Antaira 独苗旁的 DIN 轨 value 二源(具名 Tero,决策快)",
+   "question": "你们 Antaira 谱旁,DIN 轨 value PoE 二源有位吗?轨道/机械客户的 PoE 件随单频次多高?",
+   "tag": "芬兰|坦佩雷|新创进口商|Antaira授权|具名CEO",
+   "email": "Hi Tero,\n\nFiseg is three years in, profitable, and already carrying Antaira beside Idem Safety and Gefran - a tight, well-chosen line card from someone who picks brands carefully.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Finnish documentation on request. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your Antaira shelf, fully open to an OEM variant.\n\nOne question: beside Antaira, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 Antaira 对位页", "D+14 myynti@fiseg.fi 具名 Tero", "D+30 果归守档"]
+  },
+  {
+   "code": "B-528",
+   "fact": "HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构)",
+   "inference": "ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE",
+   "hypothesis": "开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)",
+   "evidence": [
+    {"dim": "身份", "quote": "R49 复核:官网联系页正文可见 info@/logistics@/support@/invoice@hightechnordic.com", "source": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528"},
+    {"dim": "渠道", "quote": "CSV:分销(ORing 授权),瑞典工业分销", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["ORing 谱深(在架 DIN 轨 PoE 价位)", "其客层(机械/交通/能源?)"],
+   "swot": {"S": "ORing 授权+组织化在营", "W": "足迹薄", "O": "value DIN 轨二源", "T": "ORing 排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)",
+   "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+   "tag": "瑞典|ORing授权|四部组织化",
+   "email": "Hi HighTech Nordic team,\n\nAn organized four-mailbox operation carrying ORing industrial switching in Sweden - you know the price points where projects walk away from premium rail-mount switches.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 ORing 对位页", "D+14 info@hightechnordic.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-517",
+   "fact": "Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义)",
+   "inference": "挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)",
+   "hypothesis": "开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣",
+   "evidence": [
+    {"dim": "身份", "quote": "R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no", "source": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517"},
+    {"dim": "渠道", "quote": "CSV:分销(ORing 授权),挪威光纤/网络分销", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["光纤项目机柜侧 PoE 随单谱", "ORing 在架深"],
+   "swot": {"S": "光纤专精+ORing 授权", "W": "足迹薄", "O": "value DIN 轨二源+机柜随单", "T": "ORing 排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)",
+   "question": "你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?",
+   "tag": "挪威|ORing授权|光纤专精",
+   "email": "Hi Fiberworks team,\n\nFiber infrastructure for Norwegian ISPs and contractors, with ORing on the industrial side - your roadside and node cabinets need powered switching that can take the cold.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: in your fiber-project cabinets, which DIN-rail PoE switch rides along today - and is there a value second-source slot beside ORing?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 光纤机柜随单页", "D+14 salg@fiberworks.no 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-066",
+   "fact": "Hussein Khalil(Calgary 加拿大;MTCNA+MTCRE+MTCTCE;**原备注:MikroTik 顾问兼讲师**,覆盖防火墙/QoS/桥接/高级路由/无线全特性;hkhalil_7@hotmail.com)",
+   "inference": "加拿大讲师型顾问(卡尔加里,油气城 SME 谱);讲师身份=教具位开口",
+   "hypothesis": "开口角度=「讲师的课桌对照教具样本位」:STC-28DGGPM(师者红线下最白开口)",
+   "evidence": [
+    {"dim": "身份", "quote": "MikroTik 顾问兼讲师,覆盖防火墙、QoS、桥接、高级路由协议、无线等全部特性", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["课桌对照教具开放度", "卡尔加里客户谱(油气 SME?)"],
+   "swot": {"S": "讲师+三证+全特性覆盖", "W": "教具量小", "O": "教具样本", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "加拿大讲师的课桌对照教具样本位",
+   "question": "你的课上 PoE 段有没有对照教具?文档全 8 口小机当对照样本可评吗?",
+   "tag": "加拿大|卡尔加里|讲师顾问|教具样本",
+   "email": "Hi Hussein,\n\nA MikroTik consultant and trainer covering everything from firewall to advanced routing in Calgary - your classroom bench is exactly where a documented comparison SKU belongs.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison device for the PoE segment without any brand pressure.\n\nOne question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本一页", "D+14 hkhalil_7@hotmail.com 具名", "D+30 果归守档"]
+  },
+  {
+   "code": "B-038",
+   "fact": "Triple core(Jerusalem 耶路撒冷;triple-core.com;MikroTik Reseller;公开足迹薄(搜索被同城 Ronitek 强势谱遮蔽))",
+   "inference": "耶路撒冷小型 Reseller;活跃度与谱未验",
+   "hypothesis": "守档备养:活跃度快验后再定(若活跃→STC-424 模板同 Ronitek;若不活→放盘)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 官方分销 Reseller;Jerusalem;info@triple-core.com", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["活跃经营佐证", "谱与量级"],
+   "swot": {"S": "耶路撒冷区位", "W": "足迹薄", "O": "验活后 value 位", "T": "失联/停业"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "耶路撒冷小 Reseller 活跃验证先行:验活后按 STC-424 模板激活",
+   "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+   "tag": "以色列|耶路撒冷|小Reseller|活跃验证",
+   "email": "【备养】活跃验证(D+7 电话/网站快验)后按 value PoE 模板出信。",
+   "followups": ["D+7 活跃度快验", "D+30 果归守档"]
+  },
+  {
+   "code": "B-059",
+   "fact": "Afshin Yadollahi(Toronto 多伦多;MTCNA+MTCRE;**英西波斯法四语**;gmail 个人)",
+   "inference": "多伦多四语个人顾问;波斯语=伊朗裔社区 SME 谱",
+   "hypothesis": "守档备养:具名引见(四语优势是跨族裔 SME 谱观察口)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英西波斯法四语", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与生计形态", "族裔 SME 客户谱"],
+   "swot": {"S": "四语+多市大谱", "W": "个人量级", "O": "多族裔 SME 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "多伦多四语个人顾问备养:具名通道",
+   "question": "你在多伦多的 SME 项目里,PoE 件现随哪家?",
+   "tag": "加拿大|多伦多|四语顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-062",
+   "fact": "Falak Sheth(Brampton ON 加拿大;MTCNA+MTCRE;gmail 个人)",
+   "inference": "大多伦多 Brampton 个人顾问(南亚裔社区谱)",
+   "hypothesis": "守档备养:具名引见,低频",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与活跃度"],
+   "swot": {"S": "双证", "W": "个人量级", "O": "Brampton 南亚裔 SME 谱", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问备养:低频具名引见",
+   "question": "你在 Brampton 的项目里碰 PoE 选型场景多吗?",
+   "tag": "加拿大|Brampton|个人顾问|低频",
+   "email": "【合作通道·备养】具名引见后定(低频)。",
+   "followups": ["D+30 低频具名引见", "D+60 放盘"]
+  },
+  {
+   "code": "B-064",
+   "fact": "Gerald Paul Mamaril(Hamilton ON 加拿大;MTCNA+MTCRE+**MTCUME(Hotspot/PPPoE)**;gmail 个人)",
+   "inference": "Hamilton 个人顾问;MTCUME=Hotspot 公众接入谱(酒店/场馆/宿舍)",
+   "hypothesis": "守档备养:具名引见(Hotspot 谱 PoE 场景长线)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["Hotspot 项目谱", "现证在档"],
+   "swot": {"S": "三证含 MTCUME", "W": "个人量级", "O": "Hotspot 谱 PoE 长线", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "Hamilton 个人顾问备养(MTCUME Hotspot 方向):具名通道",
+   "question": "你的 Hotspot/公众接入项目里,PoE 接入件现随哪家?",
+   "tag": "加拿大|Hamilton|个人顾问|MTCUME",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-072",
+   "fact": "Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名)",
+   "inference": "尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布)",
+   "hypothesis": "守档备养:具名引见;旅游城酒店网络更新谱是其潜在 PoE 场景",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;jmr.ca 公司域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["JMR 业务面与团队", "酒店客户谱"],
+   "swot": {"S": "公司域+旅游城谱位", "W": "足迹薄", "O": "酒店网络 PoE 随单(瀑布城)", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "尼亚加拉 IT 商备养:具名通道,酒店谱信号再激活",
+   "question": "你在瀑布城做酒店/tourism 网络时,PoE 监控/AP 接入现随哪家?",
+   "tag": "加拿大|尼亚加拉|公司域顾问|旅游城谱",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-280",
+   "fact": "Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie)",
+   "inference": "都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱",
+   "hypothesis": "守档备养:具名引见;波兰语是其后门优势(波兰安装商/侨企谱)",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英波双语", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["vit.ie 业务面", "波兰裔客户谱"],
+   "swot": {"S": "英波双语+公司域+都柏林", "W": "个人量级", "O": "波兰裔企业谱随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "都柏林波兰裔顾问备养:具名通道(双语谱)",
+   "question": "你给都柏林(波兰裔?)企业做网络时,PoE 件现随哪家?",
+   "tag": "爱尔兰|都柏林|英波双语|vit.ie",
+   "email": "【合作通道·备养】具名引见后定(英波双语谱)。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  }
+ ]
+}

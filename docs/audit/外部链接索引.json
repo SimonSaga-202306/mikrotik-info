@@ -2372,6 +2372,20 @@
     ]
   },
   {
+    "url": "https://antaira.eu/antaira-where-to-buy,81",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L231"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://anteny24.pl/",
     "http_checked": false,
     "occurrences": [
@@ -6466,6 +6480,20 @@
     ]
   },
   {
+    "url": "https://dk.linkedin.com/company/dvisor",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/B/B-004-Dvisor IT ApS-丹麦.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://dlcat.prego-services.de/common/impress.html",
     "http_checked": false,
     "occurrences": [
@@ -6700,6 +6728,20 @@
     ]
   },
   {
+    "url": "https://dvisor.dk/om-os/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/B/B-004-Dvisor IT ApS-丹麦.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://eac-ns.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -6896,6 +6938,20 @@
       {
         "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://egelectronics.com/markets/industrial-automation/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L213"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L73"
       }
     ]
   },
@@ -8546,6 +8602,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-589/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gh.linkedin.com/company/nextron",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L48"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L72"
       }
     ]
   },
@@ -11014,6 +11084,20 @@
     ]
   },
   {
+    "url": "https://irishwireless.net/active-poe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://ironsentinel.net/",
     "http_checked": false,
     "occurrences": [
@@ -11776,6 +11860,20 @@
       {
         "path": "profile/A/A-445-JRS Global Technologies Ltd-加拿大.md",
         "locator": "L114"
+      }
+    ]
+  },
+  {
+    "url": "https://kamicgroup.com/index.php/en/electronics-2/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L72"
       }
     ]
   },
@@ -20430,6 +20528,20 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/presentations/NL16/presentation_3876_1479372782.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/presentations/PL10/hwmp_interprojekt.pdf",
     "http_checked": false,
     "occurrences": [
@@ -25074,6 +25186,28 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第24批.json",
         "locator": "L169"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://securenet.is/about-us/our-founder-and-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L104"
+      },
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
+        "locator": "L72"
       }
     ]
   },
@@ -32508,6 +32642,14 @@
         "locator": "L55"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
+        "locator": "L72"
+      },
+      {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
         "locator": "L72"
       },
@@ -35225,6 +35367,20 @@
       },
       {
         "path": "profile/B/B-153-hsc solutions-德国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cbinsights.com/company/mikroTik(",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
         "locator": "L73"
       }
     ]
@@ -41762,6 +41918,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-840/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L230"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -52588,6 +52758,20 @@
     ]
   },
   {
+    "url": "https://www.nextron.dk/solutions",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L49"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.nexus.com.mt",
     "http_checked": false,
     "occurrences": [
@@ -53652,6 +53836,28 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第16批.json",
         "locator": "L125"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L194"
+      },
+      {
+        "path": "profile/B/B-295-OEM Automatic AB-瑞典.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oemautomatic.se/om-oss/in-english",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L193"
+      },
+      {
+        "path": "profile/B/B-295-OEM Automatic AB-瑞典.md",
+        "locator": "L73"
       }
     ]
   },
@@ -55674,6 +55880,34 @@
       {
         "path": "profile/A/A-544-ROC-NOC-美国.md",
         "locator": "L115"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ronitek.co.il",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L68"
+      },
+      {
+        "path": "profile/B/B-037-Ronitek-以色列.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ronitek.co.il/products/cat/Mikrotik",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/B/B-037-Ronitek-以色列.md",
+        "locator": "L73"
       }
     ]
   },
@@ -62184,6 +62418,20 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/c/nextron/433791882",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/c/telasys-ltd/412222510",
     "http_checked": false,
     "occurrences": [
@@ -62193,6 +62441,20 @@
       },
       {
         "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/voicenter/461174517",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
         "locator": "L72"
       }
     ]
@@ -62530,6 +62792,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-902/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/irishwireless",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第9波.json",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
+        "locator": "L72"
       }
     ]
   },

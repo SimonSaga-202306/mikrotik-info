@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义)
+- 【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
+- 【假设】开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
+
+**SWOT 速描**
+- **S**: 光纤专精+ORing 授权
+- **W**: 足迹薄
+- **O**: value DIN 轨二源+机柜随单
+- **T**: ORing 排他
+
+**证据（quote → 来源）**
+- 「R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no」 — batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517
+- 「CSV:分销(ORing 授权),挪威光纤/网络分销」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)
+- 第一问: 你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?
+- 标签: 挪威|ORing授权|光纤专精
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Fiberworks team,
+
+Fiber infrastructure for Norwegian ISPs and contractors, with ORing on the industrial side - your roadside and node cabinets need powered switching that can take the cold.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source beside your ORing shelf, fully open to an OEM variant.
+
+One question: in your fiber-project cabinets, which DIN-rail PoE switch rides along today - and is there a value second-source slot beside ORing?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 光纤项目机柜侧 PoE 随单谱
+2. ORing 在架深
+
+**跟进建议（守档节奏）**
+- D+3 光纤机柜随单页
+- D+14 salg@fiberworks.no 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

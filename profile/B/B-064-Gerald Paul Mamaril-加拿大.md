@@ -61,6 +61,39 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Gerald Paul Mamaril(Hamilton ON 加拿大;MTCNA+MTCRE+**MTCUME(Hotspot/PPPoE)**;gmail 个人)
+- 【推断】Hamilton 个人顾问;MTCUME=Hotspot 公众接入谱(酒店/场馆/宿舍)
+- 【假设】守档备养:具名引见(Hotspot 谱 PoE 场景长线)
+
+**SWOT 速描**
+- **S**: 三证含 MTCUME
+- **W**: 个人量级
+- **O**: Hotspot 谱 PoE 长线
+- **T**: 失联
+
+**证据（quote → 来源）**
+- 「CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — Hamilton 个人顾问备养(MTCUME Hotspot 方向):具名通道
+- 第一问: 你的 Hotspot/公众接入项目里,PoE 接入件现随哪家?
+- 标签: 加拿大|Hamilton|个人顾问|MTCUME
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定。
+
+**待补证清单**
+1. Hotspot 项目谱
+2. 现证在档
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

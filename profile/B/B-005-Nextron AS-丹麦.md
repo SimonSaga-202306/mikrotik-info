@@ -55,6 +55,57 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂**
+- 【推断】定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口
+- 【假设】开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线
+
+**SWOT 速描**
+- **S**: 25 年定制服务器+北欧四点+Nvidia 独家
+- **W**: 网络非主业
+- **O**: 机柜打包随单 PoE+Embedded 板块二线
+- **T**: Supermicro 谱内锁
+
+**证据（quote → 来源）**
+- 「Nextron builds and sells custom servers, storage systems and workstations…distributor of SuperMicro…offices in Oslo, Stockholm, Copenhagen and Helsinki」 — https://gh.linkedin.com/company/nextron
+- 「Servers, AI, HPC, Virtualization, Supermicro, Nvidia…Storage, Embedded IoT, Industry」 — https://www.nextron.dk/solutions
+- 「As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers」 — https://www.zoominfo.com/c/nextron/433791882
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)
+- 第一问: 你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?
+- 标签: 丹麦+北欧4站|定制服务器|Supermicro|Nvidia独家
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Nextron team,
+
+Custom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.
+
+One question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 机柜方案打包时网络件随单方式(自购 or 推荐单)
+2. Embedded/Industry 板块 PoE 谱深
+
+**跟进建议（守档节奏）**
+- D+3 机柜打包随单页
+- D+14 sales@nextron.dk 开口
+- D+30 果归守档
+
+> 备注: 二线注记:Embedded IoT/Industry 板块存在,STC-424 开口顺后可续 STI-288GP 工业线。
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

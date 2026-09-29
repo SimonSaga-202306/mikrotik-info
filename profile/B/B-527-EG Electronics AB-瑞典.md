@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块
+- 【推断】嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层
+- 【假设】开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入
+
+**SWOT 速描**
+- **S**: KAMIC 集团+8 国物流+OEM/机械制造客层
+- **W**: connectivity 非主业
+- **O**: N-Tron 旁 DIN 轨 value 位
+- **T**: 主业绑定显示谱
+
+**证据（quote → 来源）**
+- 「The largest company in the business area is EG Electronics…represented in eight countries…central warehouse in Stockholm…integrated logistics centres in the USA and Hong Kong」 — https://kamicgroup.com/index.php/en/electronics-2/
+- 「We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectivity」 — https://egelectronics.com/markets/industrial-automation/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — KAMIC 集团 VAD 的 connectivity 板块 N-Tron 谱旁 DIN 轨 value 二源(OEM/机械制造客层对口)
+- 第一问: 你们 connectivity 板块 N-Tron 旁,value DIN 轨 PoE 二源有位吗?OEM 客户要 value 件的频次多高?
+- 标签: 瑞典|斯德哥尔摩|KAMIC集团|显示嵌入式VAD
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi EG Electronics team,
+
+KAMIC Group's electronics flagship with HMI displays, embedded computing and industrial connectivity for machine builders across eight countries - your OEM customers already ask you for the connectivity layer, and the value side of that layer is thin.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your N-Tron shelf, fully open to an OEM variant under your terms.
+
+One question: inside your connectivity offering for machine builders, is there a documented value DIN-rail PoE source today, or is that slot still open?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. connectivity 板块在架(PoE 件谱深)
+2. 其 OEM 客户 value 档接受度
+
+**跟进建议（守档节奏）**
+- D+3 N-Tron 对位页
+- D+14 hello@egelectronics.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
