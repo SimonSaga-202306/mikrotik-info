@@ -61,6 +61,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）**
+- 【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
+- 【假设】守档后优先序:具名引见最优先(MTCINE 高位拉级)
+
+**SWOT 速描**
+- **S**: 三证+MTCINE 高位
+- **W**: 零足迹
+- **O**: 具名引见后案
+- **T**: 失联
+
+**证据（quote → 来源）**
+- 「CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证」 — 客户名单_反向信号_2026-09.csv
+- 「MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS」 — https://www.mikrotikusers.com/mikrotik-certification-program/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — MTCINE 高位三证派==师者予顾问通道(入具名引见中单)
+- 第一问: Nafplio 旅游港 MTCINE 高度型的项目普布局
+- 标签: 希腊|Nafplio|MTCINE高位|个体顾问
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定
+
+**待补证清单**
+1. 具名足迹核查(MTCINE 高位程)
+2. Nafplio 旅游区案谱密度
+
+**跟进建议（守档节奏）**
+- D+14 具名引见(MTCINE 高位拉级)
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第3波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

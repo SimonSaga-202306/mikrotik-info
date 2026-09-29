@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer
+- 【推断】自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)
+- 【假设】开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)
+
+**SWOT 速描**
+- **S**: 希腊工谱老牌+电梯/伺服血统+具名
+- **W**: 自动品谱导渠,动力排他
+- **O**: STI-288GP 电梯/产线柜随单
+- **T**: 自品谱价功能动化
+
+**证据（quote → 来源）**
+- 「ALPHA MOTION SA is active for over 28 years…robotic-innovative automation products (servo motors, stepper motors, inverters)…elevators」 — https://www.ascen-tec.gr/en/alpha-motion-s-a/
+- 「Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer」 — https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口
+- 第一问: 你们的电机/电梯/产线项目柜里,DIN 轨 PoE 来电现供 N-Tron/Red Lion 还是另陪份？
+- 标签: 希腊|Pikermi|工业自动化|电梯伺服血统
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Alpha Motion team,
+
+Twenty-eight years of Greek industrial automation with motion control and elevator drives as core trades - your cabinets are solving power and signal for real production machines.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built for the auxiliary PoE runs (cameras, sensors, CCTV) that slip inside your elevator and production cabinets.
+
+One question: for those cabinet-level PoE feeds, are you running N-Tron/Red Lion exclusively - or is there room for a documented value-side second source in your BOMs?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 现场柜项里现供 DIN 轨 PoE 型号(他们自动化谱上还是第三方)
+2. Argiris 三人对 PoE 类目的商业价值判定面
+
+**跟进建议（守档节奏）**
+- D+3 DIN 轨样张+温宽测试包
+- D+14 Dimitris Psichoulas 具名应用工程师亦开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第3波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

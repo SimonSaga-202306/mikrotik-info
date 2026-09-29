@@ -55,6 +55,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」
+- 【推断】军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列
+- 【假设】同时是 NATO/军红线+同业:不入供位不首销;守档并作为我厂竞品对标镜像维护(研发式坚固网谱方向)
+
+**SWOT 速描**
+- **S**: 军工+上市+NATO 客户
+- **W**: 同业制造侧+军红线双关
+- **O**: 无落地
+- **T**: 收留同业镜像随缘
+
+**证据（quote → 来源）**
+- 「certified by MOD for military industrial security…official National manufacturer of Defense electronic products…listed in the Athens Greek Stock Exchange since 2003」 — https://www.epicos.com/company/10012/marac-electronics-sa
+- 「Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping」 — https://www.epicos.com/company/10012/marac-electronics-sa
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序
+- 第一问: (守档不入触点)
+- 标签: 希腊|雅典|军工电子厂|NATO客户|同业
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【军工红线+同业侧·建档守界】不出信;MARAC 军用 rugged 谱作我厂竞品对标镜像档维护。
+
+**待补证清单**
+1. MARAC 军用加 PoE 谱研发谱(自家市卖有厂为从动)
+2. 希军工采购公开索外禁丁资位口径
+
+**跟进建议（守档节奏）**
+- 竞品对标维护
+- 不入出信序
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第3波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

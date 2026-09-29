@@ -2172,6 +2172,20 @@
     ]
   },
   {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/italy/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://altostrat.io/es/buying/hardware/resellers/north-america/usa/",
     "http_checked": false,
     "occurrences": [
@@ -7348,6 +7362,28 @@
     ]
   },
   {
+    "url": "https://exasolutions.gr/en/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L132"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-121-George Alexander Kontaxakis - EXA Solutions-希腊.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-121-George Alexander Kontaxakis - EXA Solutions-希腊.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/exhibitordetails/atlantik-elektronik-gmbh/",
     "http_checked": false,
     "occurrences": [
@@ -11514,6 +11550,20 @@
     ]
   },
   {
+    "url": "https://kefallonia.topodigos.gr/el/pelates/alfa-tech-analytis-pan-konstantinos",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L210"
+      },
+      {
+        "path": "profile/B/B-127-Konstantinos Analytis - Alfa-Tech-希腊.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://knt.biz.pl",
     "http_checked": false,
     "occurrences": [
@@ -13960,6 +14010,30 @@
         "locator": "L409"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L254"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L291"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L328"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L365"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L440"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L477"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L79"
       },
@@ -14246,6 +14320,30 @@
       {
         "path": "profile/B/B-026-Serhii Maksymenko-乌克兰.md",
         "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-119-Christos Kotoufos-希腊.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-123-Georgios Floros-希腊.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-128-Lechouritis Ioannis-希腊.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-131-Nikolaos Giovanopoulos-希腊.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-132-Panagiotis Taxiarchis Chatzinikolaou-希腊.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-134-Spiros Potsikas - Tele-Net-希腊.md",
+        "locator": "L79"
       },
       {
         "path": "profile/B/B-327-Andrei Zhernosek-美国.md",
@@ -23742,6 +23840,20 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L60"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/axbyte-internet-services-ab-management_b7fbccf0c2536729",
     "http_checked": false,
     "occurrences": [
@@ -31964,6 +32076,20 @@
     ]
   },
   {
+    "url": "https://www.allnet-italia.it/en/allnet-international-network/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L16"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.alphacron.de",
     "http_checked": false,
     "occurrences": [
@@ -32714,6 +32840,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第24批.json",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ascen-tec.gr/en/alpha-motion-s-a/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L55"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L72"
       }
     ]
   },
@@ -39608,6 +39748,28 @@
     ]
   },
   {
+    "url": "https://www.epicos.com/company/10012/marac-electronics-sa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L94"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.equipages.fr/",
     "http_checked": false,
     "occurrences": [
@@ -40522,6 +40684,20 @@
       {
         "path": "profile/A/A-038-Davide Toffoletto-意大利.md",
         "locator": "L151"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/dslab.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L171"
+      },
+      {
+        "path": "profile/B/B-124-Georgios Papageorgiou - DSlab-希腊.md",
+        "locator": "L81"
       }
     ]
   },
@@ -49448,6 +49624,20 @@
     ]
   },
   {
+    "url": "https://www.mikrotikusers.com/mikrotik-certification-program/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L402"
+      },
+      {
+        "path": "profile/B/B-126-Ioannis Orfanos-希腊.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.mikrotrain.nl",
     "http_checked": false,
     "occurrences": [
@@ -57850,6 +58040,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L257"
+      }
+    ]
+  },
+  {
+    "url": "https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
+        "locator": "L215"
+      },
+      {
+        "path": "profile/B/B-127-Konstantinos Analytis - Alfa-Tech-希腊.md",
+        "locator": "L79"
       }
     ]
   },
