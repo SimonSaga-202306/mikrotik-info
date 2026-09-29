@@ -1010,6 +1010,20 @@
     ]
   },
   {
+    "url": "http://www.stratonetworks.com/portada/index.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html",
     "http_checked": false,
     "occurrences": [
@@ -4672,6 +4686,20 @@
     ]
   },
   {
+    "url": "https://conectandolapalma.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L197"
+      },
+      {
+        "path": "profile/B/B-474-José María Catalá Ortega - Dualcom CB-西班牙.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://connectamericas.com/company/vodanet-systems",
     "http_checked": false,
     "occurrences": [
@@ -7234,6 +7262,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-568/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://es.linkedin.com/company/dmi-computer-s-a-",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L73"
       }
     ]
   },
@@ -10762,6 +10812,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-887/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://ipinfo.io/AS201361",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L107"
+      },
+      {
+        "path": "profile/B/B-457-Adrián González Notario-西班牙.md",
+        "locator": "L78"
       }
     ]
   },
@@ -22872,6 +22936,14 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L131"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L162"
+      },
+      {
+        "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
+        "locator": "L80"
       }
     ]
   },
@@ -38622,6 +38694,20 @@
     ]
   },
   {
+    "url": "https://www.dmi.es/fabricantes/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L15"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://www.dnb.com/business-directory/company-profiles.general-computer-italia-spa.1870e0cd354ae4dbf9ef17a1549e2db6",
     "http_checked": false,
     "occurrences": [
@@ -42034,6 +42120,20 @@
     ]
   },
   {
+    "url": "https://www.formacionmikrotik.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/B/B-481-Santiago Balaguer Garcia-西班牙.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.frenchweb.fr/telecoms-75-millions-deuros-pour-loperateur-b2b-sewan/384659",
     "http_checked": false,
     "occurrences": [
@@ -44474,6 +44574,20 @@
     ]
   },
   {
+    "url": "https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L52"
+      },
+      {
+        "path": "profile/B/B-482-Todo Telecom-西班牙.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.informazione-aziende.it/Azienda_SECURCREA-DI-CIANCHI-MICHELE-C-SAS",
     "http_checked": false,
     "occurrences": [
@@ -44506,6 +44620,34 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://www.infortisa.com/canal/redes/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L35"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.infortisa.com/contenido/departamentos/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L33"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L72"
       }
     ]
   },
@@ -45624,6 +45766,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-791/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.itconsultores.es/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L179"
+      },
+      {
+        "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
+        "locator": "L78"
       }
     ]
   },
@@ -48786,6 +48942,20 @@
       {
         "path": "profile/B/B-155-Andrea Somma - Matrix Computers-意大利.md",
         "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mayoristas.net/post/nuestros-productos-mayorista-de-informatica-y-tecnologia-infortisa/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L34"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L73"
       }
     ]
   },
@@ -57346,6 +57516,20 @@
     ]
   },
   {
+    "url": "https://www.stratonetworks.com/formacion/formacion.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.streakwave.com",
     "http_checked": false,
     "occurrences": [
@@ -59270,6 +59454,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-877/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L161"
+      },
+      {
+        "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
+        "locator": "L79"
       }
     ]
   },
@@ -61962,6 +62160,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1017/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/TodotelecomSL",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第6波.json",
+        "locator": "L53"
+      },
+      {
+        "path": "profile/B/B-482-Todo Telecom-西班牙.md",
+        "locator": "L73"
       }
     ]
   },

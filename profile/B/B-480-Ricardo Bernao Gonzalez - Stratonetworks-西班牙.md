@@ -61,6 +61,56 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**)
+- 【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
+- 【假设】开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
+
+**SWOT 速描**
+- **S**: 15 年师者+学院+官方数字化代理三重
+- **W**: 教具量小
+- **O**: 教具样本+数字化代理 SME 项目随单双线
+- **T**: 师者红线
+
+**证据（quote → 来源）**
+- 「Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de laboratorio práctico, disponiendo cada alumno de un router」 — https://www.stratonetworks.com/formacion/formacion.php
+- 「agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas」 — http://www.stratonetworks.com/portada/index.php
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-28DGGPM` — Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)
+- 第一问: Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?
+- 标签: 西班牙|马德里|师者学院|InstantByte合作|数字化代理
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Ricardo,
+
+Strato Academy running hands-on RouterOS labs where every student gets a real router, alongside InstantByte - and a digitalization-agent practice on top. You sit exactly where the training bench meets SME rollouts.
+
+We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your bench can carry a documented comparison SKU for the PoE segment without any brand pressure.
+
+One question: on the Strato Academy bench, do your students only see MikroTik for the PoE segment - or would a documented comparison unit with a full test pack be worth a slot?
+
+If useful, I can send one unit. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 教具采购走 InstantByte 还是自采
+2. 数字化代理谱里 SME 布线/监控随单量
+
+**跟进建议（守档节奏）**
+- D+3 教具样本合作一页(师者红线下)
+- D+14 ricardo@stratonetworks.com 具名
+- D+30 果归守档
+
+> 备注: **对外注记**:InstantByte=MikroTik 欧洲大分销,与其课程合作紧;若后续 InstantByte 入谱,可引 Ricardo 具名互背。
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

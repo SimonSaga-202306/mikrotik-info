@@ -61,6 +61,39 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公)
+- 【推断】SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星
+- 【假设】守档备养:具名引见;等其 SME 客户布网/监控项目信号
+
+**SWOT 速描**
+- **S**: 20 年团队+具名座机
+- **W**: 咨询主业,硬件零星
+- **O**: 旅游城市 SME 改造随单
+- **T**: 量小
+
+**证据（quote → 来源）**
+- 「Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD」 — https://www.itconsultores.es/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — SME 顾问小团队备养:具名通道,项目随单信号再激活
+- 第一问: 你们给 Benidorm 的 SME(餐饮酒店)做 LOPD/网络项目时,PoE 监控/接入件现随哪家?
+- 标签: 西班牙|Benidorm|SME顾问|20年团队
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定;项目型随单,量小,勿推架位。
+
+**待补证清单**
+1. SME 客户行业构成(酒店餐饮占比)
+2. 项目型硬件采购频度
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

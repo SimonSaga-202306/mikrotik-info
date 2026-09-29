@@ -55,6 +55,55 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单)
+- 【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
+- 【假设】开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
+
+**SWOT 速描**
+- **S**: 1986 巨头+三自牌+ISO 27001+24h 物流
+- **W**: 谱大牌挤 value 档
+- **O**: iggual OEM PoE 延伸(第四自牌类目)
+- **T**: 自牌谱优先于外来牌
+
+**证据（quote → 来源）**
+- 「es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji」 — https://www.infortisa.com/contenido/departamentos/
+- 「fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas」 — https://www.mayoristas.net/post/nuestros-productos-mayorista-de-informatica-y-tecnologia-infortisa/
+- 「distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream」 — https://www.infortisa.com/canal/redes/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)
+- 第一问: iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。
+- 标签: 西班牙|瓦伦西亚|批发巨头|三自牌|iggual-OEM候选
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Infortisa team,
+
+The only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.
+
+One question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. iggual 自牌是否计划延到网络硬件/PoE
+2. Global Pro 谱 PoE 档现供价位
+
+**跟进建议（守档节奏）**
+- D+3 双案提案页(架位 vs iggual OEM)
+- D+14 ventas@infortisa.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

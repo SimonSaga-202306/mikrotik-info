@@ -61,6 +61,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径)
+- 【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
+- 【假设】开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
+
+**SWOT 速描**
+- **S**: ISP 级三证+1300 课时+无线骨干专长
+- **W**: 教具量小
+- **O**: 教具+学员 WISP 谱长线口
+- **T**: 师者红线
+
+**证据（quote → 来源）**
+- 「开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网」 — 客户名单_反向信号_2026-09.csv
+- 「Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia」 — https://www.formacionmikrotik.com/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-28DGGPM` — ISP 级培训师的课桌 PoE 对照教具样本位
+- 第一问: 你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?
+- 标签: 西班牙|Castellón|师者|MTCINE|无线骨干
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Santiago,
+
+Thirteen hundred hours of MikroTik training delivered, with Diameter, AAA and wireless backhaul on the syllabus - your classroom is where Spain's WISP technicians learn the trade.
+
+We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
+
+One question: in your WISP and backhaul courses, does the PoE segment have a documented comparison device on the bench - and would a sample unit with a full test pack be worth evaluating?
+
+If useful, I can send one unit. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. cursos-mikrotik.com 与 formacionmikrotik.com 是否同一主体
+2. 其 WISP 学员谱的硬件询问频度
+
+**跟进建议（守档节奏）**
+- D+3 教具样本合作一页
+- D+14 santiagoayodar@hotmail.com 具名
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

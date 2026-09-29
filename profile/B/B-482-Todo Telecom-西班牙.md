@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO STOCK SWITCHES POE UBIQUITI, MIKROTIK, TPLINK』)
+- 【推断】安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档
+- 【假设】开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振
+
+**SWOT 速描**
+- **S**: 1986 资历+安防电信双驱+PoE 常备
+- **W**: 三家 PoE 牌已占架
+- **O**: 24 口 280W 管理型 value 中间档
+- **T**: Ubiquiti/TPLink 走量压价
+
+**证据（quote → 来源）**
+- 「mikrotik, ubiquiti, cambium, tp-link, cctv, safire, hikvision, zk-teco, control de accesos, anviz, control de presencia, grandstream, redes de datos, fibra, huawei, ont, olt」 — https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx
+- 「NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN」 — https://x.com/TodotelecomSL
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位
+- 第一问: 你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?
+- 标签: 西班牙|Denia|安防CCTV分销|PoE常备走量
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Todo Telecom team,
+
+CCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.
+
+One question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 安防安装商谱 PoE 随单结构与价位敏带
+2. 其谱引入第四家 PoE 品牌的动力
+
+**跟进建议（守档节奏）**
+- D+3 安防随单 PoE 样张
+- D+14 webinfo@todotelecom.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

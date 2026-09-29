@@ -1,0 +1,209 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第6波",
+ "date": "2026-09-29",
+ "scope": "B 类西班牙 11 家(本波按 CSV 序全取)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-457 为 2026-02 新拿 AS 号的潜在运营者,守档观其网络上线路",
+ "records": [
+  {
+   "code": "B-462",
+   "fact": "DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989  Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**)",
+   "inference": "大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)",
+   "hypothesis": "开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口",
+   "evidence": [
+    {"dim": "体量", "quote": "más de 110 empleados…más de 5.000 clientes distribuidos por toda la Península y Europa…más de 6.000 referencias vivas", "source": "https://es.linkedin.com/company/dmi-computer-s-a-"},
+    {"dim": "渠道", "quote": "DMI Computer es fundador de la red de tiendas MR Micro, en España tiene más de 200 puntos de venta", "source": "https://es.linkedin.com/company/dmi-computer-s-a-"},
+    {"dim": "谱", "quote": "Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL", "source": "https://www.dmi.es/fabricantes/"}
+   ],
+   "unknowns": ["CUDY/LANBERG 价位档在架深(有无 24 口管理 PoE)", "DMI PRO 新 vendor 准入与上架费"],
+   "swot": {"S": "110 人+5000 客户+200 门店+葡办+PRO 事业部", "W": "value 档多牌挤位", "O": "24 口 280W 管理型 PoE 价位空档", "T": "CUDY/LANBERG 低价惯性"},
+   "p1": "STC-424DGGPM-280W",
+   "p1r": null,
+   "p1_reason": "大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)",
+   "question": "你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?",
+   "tag": "西班牙|马德里|大型批发|200门店|DMI-PRO",
+   "email": "Hi DMI team,\n\nThirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.\n\nWe build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.\n\nOne question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 价位空档对照页(CUDY/LANBERG/Ubiquiti 对位)", "D+14 clientes@dmi.es 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-469",
+   "fact": "Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单)",
+   "inference": "自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺",
+   "hypothesis": "开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门",
+   "evidence": [
+    {"dim": "自牌", "quote": "es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji", "source": "https://www.infortisa.com/contenido/departamentos/"},
+    {"dim": "体量", "quote": "fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas", "source": "https://www.mayoristas.net/post/nuestros-productos-mayorista-de-informatica-y-tecnologia-infortisa/"},
+    {"dim": "网络谱", "quote": "distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream", "source": "https://www.infortisa.com/canal/redes/"}
+   ],
+   "unknowns": ["iggual 自牌是否计划延到网络硬件/PoE", "Global Pro 谱 PoE 档现供价位"],
+   "swot": {"S": "1986 巨头+三自牌+ISO 27001+24h 物流", "W": "谱大牌挤 value 档", "O": "iggual OEM PoE 延伸(第四自牌类目)", "T": "自牌谱优先于外来牌"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)",
+   "question": "iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。",
+   "tag": "西班牙|瓦伦西亚|批发巨头|三自牌|iggual-OEM候选",
+   "email": "Hi Infortisa team,\n\nThe only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.\n\nOne question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 双案提案页(架位 vs iggual OEM)", "D+14 ventas@infortisa.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-482",
+   "fact": "Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO STOCK SWITCHES POE UBIQUITI, MIKROTIK, TPLINK』)",
+   "inference": "安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档",
+   "hypothesis": "开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振",
+   "evidence": [
+    {"dim": "谱系", "quote": "mikrotik, ubiquiti, cambium, tp-link, cctv, safire, hikvision, zk-teco, control de accesos, anviz, control de presencia, grandstream, redes de datos, fibra, huawei, ont, olt", "source": "https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx"},
+    {"dim": "PoE 走量", "quote": "NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN", "source": "https://x.com/TodotelecomSL"}
+   ],
+   "unknowns": ["安防安装商谱 PoE 随单结构与价位敏带", "其谱引入第四家 PoE 品牌的动力"],
+   "swot": {"S": "1986 资历+安防电信双驱+PoE 常备", "W": "三家 PoE 牌已占架", "O": "24 口 280W 管理型 value 中间档", "T": "Ubiquiti/TPLink 走量压价"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位",
+   "question": "你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?",
+   "tag": "西班牙|Denia|安防CCTV分销|PoE常备走量",
+   "email": "Hi Todo Telecom team,\n\nCCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.\n\nOne question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 安防随单 PoE 样张", "D+14 webinfo@todotelecom.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-480",
+   "fact": "Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**)",
+   "inference": "师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权",
+   "hypothesis": "开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口",
+   "evidence": [
+    {"dim": "学院", "quote": "Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de laboratorio práctico, disponiendo cada alumno de un router", "source": "https://www.stratonetworks.com/formacion/formacion.php"},
+    {"dim": "身份", "quote": "agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas", "source": "http://www.stratonetworks.com/portada/index.php"}
+   ],
+   "unknowns": ["教具采购走 InstantByte 还是自采", "数字化代理谱里 SME 布线/监控随单量"],
+   "swot": {"S": "15 年师者+学院+官方数字化代理三重", "W": "教具量小", "O": "教具样本+数字化代理 SME 项目随单双线", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)",
+   "question": "Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?",
+   "tag": "西班牙|马德里|师者学院|InstantByte合作|数字化代理",
+   "email": "Hi Ricardo,\n\nStrato Academy running hands-on RouterOS labs where every student gets a real router, alongside InstantByte - and a digitalization-agent practice on top. You sit exactly where the training bench meets SME rollouts.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on the Strato Academy bench, do your students only see MikroTik for the PoE segment - or would a documented comparison unit with a full test pack be worth a slot?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页(师者红线下)", "D+14 ricardo@stratonetworks.com 具名", "D+30 果归守档"],
+   "note": "**对外注记**:InstantByte=MikroTik 欧洲大分销,与其课程合作紧;若后续 InstantByte 入谱,可引 Ricardo 具名互背。"
+  },
+  {
+   "code": "B-481",
+   "fact": "Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径)",
+   "inference": "ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景",
+   "hypothesis": "开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口",
+   "evidence": [
+    {"dim": "身份", "quote": "开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "体量", "quote": "Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia", "source": "https://www.formacionmikrotik.com/"}
+   ],
+   "unknowns": ["cursos-mikrotik.com 与 formacionmikrotik.com 是否同一主体", "其 WISP 学员谱的硬件询问频度"],
+   "swot": {"S": "ISP 级三证+1300 课时+无线骨干专长", "W": "教具量小", "O": "教具+学员 WISP 谱长线口", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "ISP 级培训师的课桌 PoE 对照教具样本位",
+   "question": "你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?",
+   "tag": "西班牙|Castellón|师者|MTCINE|无线骨干",
+   "email": "Hi Santiago,\n\nThirteen hundred hours of MikroTik training delivered, with Diameter, AAA and wireless backhaul on the syllabus - your classroom is where Spain's WISP technicians learn the trade.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: in your WISP and backhaul courses, does the PoE segment have a documented comparison device on the bench - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页", "D+14 santiagoayodar@hotmail.com 具名", "D+30 果归守档"]
+  },
+  {
+   "code": "B-457",
+   "fact": "Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**)",
+   "inference": "持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口",
+   "hypothesis": "守档备养+重点观察:具名技术对话(BGP/互联语言),其 AS 上线部署时接入/汇聚件选型是我方窗口;不推消费档,被他节奏走",
+   "evidence": [
+    {"dim": "ASN", "quote": "AS201361 Adrian Gonzalez Notario…adrnet.site…Allocated 3 months ago on Feb 6, 2026…ASN type: ISP/Business…Inactive", "source": "https://ipinfo.io/AS201361"},
+    {"dim": "证件", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["AS201361 计划上线路(WISP/ISP/托管?)", "接入/汇聚设备选型窗口期", "上游/互联对象"],
+   "swot": {"S": "自有 ASN+MTCINE=运营者血统,选型窗口刚开", "W": "网络未上线,量级极小", "O": "上线部署时 PoE 接入/汇聚件入谱", "T": "创业流产失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "2026 新 ASN 运营者守档观察:技术对话备养,等其上线部署的硬件窗口",
+   "question": "(守档)AS201361 计划什么形态上线?部署时接入/汇聚侧件选型开始看了吗?",
+   "tag": "西班牙|马德里|新ASN运营者|MTCINE|选型窗口",
+   "email": "【合作通道·备养】具名引见后定;2026-02 新拿 AS 号的潜在运营者,网络未上线,守档观其部署节奏,勿推消费档件。",
+   "followups": ["D+14 具名技术短引见(BGP/互联语言)", "D+60 观察 AS201361 上线信号再触"],
+   "note": "**观察标记**:AS201361 上线信号(BGP peer 出现/IP 广播)出现时立即重评估提级窗口。"
+  },
+  {
+   "code": "B-458",
+   "fact": "Arber Reca Sina(Seville 塞维利亚;MTCNA+MTCIPv6E(IPv6 专长);arberreca@gmail.com +34 636 423 442;原备注:路由、防火墙、无线、网络设计、QoS;无公司网站)",
+   "inference": "纯个人顾问,IPv6 专长+全栈网络设计;安达卢西亚 SME 圈",
+   "hypothesis": "守档备养:具名引见(IPv6 语言),等其项目谱 PoE 信号",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCIPv6E;路由、防火墙、无线、网络设计、QoS", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与项目谱", "安达卢西亚 SME 客户构成"],
+   "swot": {"S": "IPv6 专长+具名手机直达", "W": "无公开谱", "O": "安达卢西亚 SME 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问通道备养(IPv6 专长),具名引见后定",
+   "question": "你在安达卢西亚的项目里,PoE 接入与 IPv6 部署场景现随哪家?",
+   "tag": "西班牙|塞维利亚|个人顾问|MTCIPv6E",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-464",
+   "fact": "David Forteza Rey Casasnovas(马略卡 Colonia de Sant Jordi;MTCNA+MTCSE;+34 744 408 692;原备注:各类 MikroTik 网络的搭建/配置/排障;无网站)",
+   "inference": "马略卡岛本地个人顾问,安全方向;岛上 SME/酒店/tourism 网络维护谱(与 B-467 同岛,巴利阿里谱小圈)",
+   "hypothesis": "守档备养:具名引见;岛圈与 B-467(Enric)同域,后纯信息互证",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE;各类 MikroTik 网络的搭建/配置/排障", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与生计形态(受雇/独立)", "岛上客户谱(酒店占比)"],
+   "swot": {"S": "岛上具名直达+双证", "W": "无公开谱", "O": "酒店/tourism 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "马略卡个人顾问备养(与 B-467 同岛,信息互证位)",
+   "question": "你在马略卡做酒店/SME 网络维护时,PoE 监控/AP 接入现随哪家?",
+   "tag": "西班牙|马略卡|个人顾问|MTCSE|同岛B-467",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"],
+   "note": "**关联**:与 B-467(Enric Perpinyà/Palma)同属巴利阿里谱,岛圈信息可互证;触达顺序先 Enric(公司实体)后 David。"
+  },
+  {
+   "code": "B-467",
+   "fact": "Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)",
+   "inference": "年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)",
+   "hypothesis": "守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位",
+   "evidence": [
+    {"dim": "获奖", "quote": "Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar con el personal IT de las empresas hoteleras", "source": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/"},
+    {"dim": "业务", "quote": "Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en la nube", "source": "https://perpi.tech/"}
+   ],
+   "unknowns": ["酒店客户布网/改造项目的硬件采购节奏", "团队规模与现金流"],
+   "swot": {"S": "创始人直决+获奖背书+酒店客谱", "W": "初创体量极小,SaaS 优先", "O": "酒店改造 PoE 项目随单(中长线)", "T": "初创存活率"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道",
+   "question": "你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)",
+   "tag": "西班牙|马略卡|初创获奖|酒店客谱|创始人直决",
+   "email": "【合作通道·备养】创始人具名引见后定;初创 SaaS 为主,硬件需求随酒店项目出现才激活,勿推架位。",
+   "followups": ["D+14 创始人具名短引见", "D+60 酒店项目信号观察"]
+  },
+  {
+   "code": "B-471",
+   "fact": "Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公)",
+   "inference": "SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星",
+   "hypothesis": "守档备养:具名引见;等其 SME 客户布网/监控项目信号",
+   "evidence": [
+    {"dim": "身份", "quote": "Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD", "source": "https://www.itconsultores.es/"}
+   ],
+   "unknowns": ["SME 客户行业构成(酒店餐饮占比)", "项目型硬件采购频度"],
+   "swot": {"S": "20 年团队+具名座机", "W": "咨询主业,硬件零星", "O": "旅游城市 SME 改造随单", "T": "量小"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "SME 顾问小团队备养:具名通道,项目随单信号再激活",
+   "question": "你们给 Benidorm 的 SME(餐饮酒店)做 LOPD/网络项目时,PoE 监控/接入件现随哪家?",
+   "tag": "西班牙|Benidorm|SME顾问|20年团队",
+   "email": "【合作通道·备养】具名引见后定;项目型随单,量小,勿推架位。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-474",
+   "fact": "José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PALMA』6/10/12Mb 无线+企业 PtP+视频监控+报警+机房维护,驻 Los Llanos)",
+   "inference": "离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感",
+   "hypothesis": "守档备养:具名引见,岛上 WISP 回程/监控安装 PoE 场景长线;若其确为运营型,客户 CPE/回程件有其谱但量小",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE;dualcomcb.com", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "岛域", "quote": "Realizamos instalaciones y mantenimiento en todo tipo de infraestructuras de telecomunicaciones…wimax…somos tu operador de telecomunicaciones para particulares y empresas en la isla de La Palma", "source": "https://conectandolapalma.com/"}
+   ],
+   "unknowns": ["双站域是否同一主体(dualcomcb vs conectandolapalma)", "WISP 回程/安装 PoE 件现供与量级"],
+   "swot": {"S": "离岛本地垄断圈+具名", "W": "量级极小+物流离岛", "O": "岛 WISP 回程/监控安装随单", "T": "量不抵运"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "加那利离岛 WISP/安装生态备养:量级小,守档观察",
+   "question": "岛上 WISP 回程与客户 CPE/监控安装里,PoE 件现供哪家?离岛物流怎么解?",
+   "tag": "西班牙|加那利|离岛WISP|量级小",
+   "email": "【合作通道·备养】具名引见后定;离岛小谱,守档观察,先问清两站域是否同一主体。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  }
+ ]
+}
