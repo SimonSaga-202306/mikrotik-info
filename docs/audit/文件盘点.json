@@ -604,6 +604,26 @@
       "errors": []
     },
     {
+      "path": "batch/A类_中国品牌命中_2026-09-29.json",
+      "sha256": "df7548bde2ccbe838ce0105a643cb7237428f07fda21b8847a97b0a15a3ac2b2",
+      "bytes": 9669,
+      "tracked_at_scan": false,
+      "units_scanned": 692,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类_芯片谱_2026-09-29.json",
+      "sha256": "7a77d8281a4095faf404e46cc3dd20f9fe3a8197a33622969bfd02adc241691d",
+      "bytes": 64946,
+      "tracked_at_scan": false,
+      "units_scanned": 4110,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/A类加厚_2026-09-28_R54_第10批.json",
       "sha256": "95d18dccaf361c17d18d4dd9d487e78ad5ac37bbc91d733ad2e9bcb5d1407018",
       "bytes": 87805,
@@ -2399,6 +2419,36 @@
       "bytes": 5784,
       "tracked_at_scan": true,
       "units_scanned": 52,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/sales/A类_Saga型号速查_2026-09-29.md",
+      "sha256": "9081925f515bccbe4216870ebd66be1cde160fdfe0a5a57a1ce97e80b2c94f64",
+      "bytes": 73624,
+      "tracked_at_scan": false,
+      "units_scanned": 1195,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/sales/A类_中国进口与管制风险_2026-09-29.md",
+      "sha256": "73f2d16e258478482f9eeb5b5bdc5bb7fbad05cadf0788a9a8c1ed6a2692573b",
+      "bytes": 12495,
+      "tracked_at_scan": false,
+      "units_scanned": 235,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/sales/A类_芯片Marvell专注度_2026-09-29.md",
+      "sha256": "1b0498de1604990170a9469d85b40f2808843d18cff80312a3de9e959a92005e",
+      "bytes": 6645,
+      "tracked_at_scan": false,
+      "units_scanned": 125,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

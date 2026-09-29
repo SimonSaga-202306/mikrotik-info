@@ -498,7 +498,9 @@
     "record_urls": [],
     "status": "无逐项证据URL·待补证",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[2]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -513,7 +515,9 @@
     "record_urls": [],
     "status": "无逐项证据URL·待补证",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[3]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -764,6 +768,7 @@
     "status": "无逐项证据URL·待补证",
     "contact_research": [],
     "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[4]",
       "batch/last.json / item[2]"
     ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
@@ -2398,7 +2403,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[35]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -2452,7 +2459,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[36]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -2502,7 +2511,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[37]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -2840,7 +2851,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[38]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -2939,7 +2952,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[39]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -3367,7 +3382,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[40]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -3755,7 +3772,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[41]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4483,7 +4502,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[43]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4537,7 +4558,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[44]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4771,7 +4794,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[45]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4890,7 +4915,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[46]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4940,7 +4967,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[47]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -4990,7 +5019,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[48]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -5260,7 +5291,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[49]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -5507,7 +5540,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[50]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -5727,7 +5762,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[51]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -5794,7 +5831,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[52]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -5946,7 +5985,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[53]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -6243,7 +6284,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[56]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -7463,7 +7506,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[57]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -7621,7 +7666,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[58]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -8176,7 +8223,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[60]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -8513,7 +8562,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[61]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -9751,7 +9802,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[62]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -9978,7 +10031,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[63]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -10029,7 +10084,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[64]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -10591,7 +10648,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[32]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -12157,7 +12216,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[68]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -13150,7 +13211,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[70]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -13405,7 +13468,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[71]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -13505,7 +13570,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[72]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -14523,7 +14590,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[73]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -15271,7 +15340,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[75]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -15866,7 +15937,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[76]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -16264,7 +16337,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[78]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -16314,7 +16389,9 @@
         "recorded_on": "2026-09-28"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[79]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -17399,7 +17476,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[24]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -20504,7 +20583,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[25]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -20763,7 +20844,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[21]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -21479,7 +21562,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[28]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -21566,7 +21651,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[23]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -21897,7 +21984,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[29]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -22950,7 +23039,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[26]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -23712,7 +23803,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[20]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -23927,7 +24020,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[22]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -24102,7 +24197,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[30]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -26302,7 +26399,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[9]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -26592,7 +26691,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[10]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -27055,7 +27156,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[11]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -27130,7 +27233,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[12]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -27883,7 +27988,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[13]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -28825,7 +28932,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[27]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -28900,7 +29009,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[14]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -29058,7 +29169,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[15]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -29441,7 +29554,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[16]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -29749,7 +29864,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[17]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -29903,7 +30020,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[18]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
@@ -32021,7 +32140,9 @@
         "recorded_on": "2026-09-27"
       }
     ],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/A类_中国品牌命中_2026-09-29.json / item[19]"
+    ],
     "first_seen_exact_identity_commit": "14771a087b5ddb2cc87db4dc573ab5867daa63ac",
     "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
   },
