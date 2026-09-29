@@ -1737,7 +1737,7 @@
       "path": "batch/B类深挖_2026-09-29_R58-BC_第1波.json",
       "sha256": "03966ca3627a654a4e5bd031fae7b9d815fcc41a82c98006ede46fecb4707bec",
       "bytes": 4919,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 51,
       "unique_url_count": 3,
       "inspection": {},
@@ -2340,6 +2340,26 @@
       "tracked_at_scan": true,
       "units_scanned": 125,
       "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/audit/客户资产池审核_2026-09-29.json",
+      "sha256": "3ae381bade0984fa0dafd87b72e3b0d5303e9b468126d36a5c1d017ecf9a5475",
+      "bytes": 9767,
+      "tracked_at_scan": false,
+      "units_scanned": 676,
+      "unique_url_count": 4,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/audit/客户资产池审核_2026-09-29.md",
+      "sha256": "447127f9432b61374d9995bdb352a1f4abbb09017c053cb1180bb4553d00857c",
+      "bytes": 6838,
+      "tracked_at_scan": false,
+      "units_scanned": 82,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -12800,6 +12820,16 @@
       "tracked_at_scan": true,
       "units_scanned": 200,
       "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "scripts/audit_customer_assets.py",
+      "sha256": "d3f0dbbe165357304c576c86f91f0f58bd293534da735d66639b6fe8a83706e6",
+      "bytes": 6976,
+      "tracked_at_scan": false,
+      "units_scanned": 144,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },

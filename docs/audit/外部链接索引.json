@@ -1116,6 +1116,16 @@
     ]
   },
   {
+    "url": "https://','').replace('http://','').rstrip('/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/audit_customer_assets.py",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://1220-ge.all.biz/",
     "http_checked": false,
     "occurrences": [
@@ -5454,6 +5464,10 @@
         "locator": "L15675"
       },
       {
+        "path": "docs/audit/客户资产池审核_2026-09-29.json",
+        "locator": "L123"
+      },
+      {
         "path": "profile/A/A-243-Tadeusz Ruchlewicz-波兰.md",
         "locator": "L41"
       },
@@ -8538,6 +8552,16 @@
       {
         "path": "profile/B/B-263-FYR-SYSTEMS Sp. z o.o-波兰.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://g-u.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "docs/audit/客户资产池审核_2026-09-29.json",
+        "locator": "L128"
       }
     ]
   },
@@ -25584,6 +25608,10 @@
         "locator": "L15762"
       },
       {
+        "path": "docs/audit/客户资产池审核_2026-09-29.json",
+        "locator": "L108"
+      },
+      {
         "path": "profile/A/A-131-SDC B.V-荷兰.md",
         "locator": "L41"
       },
@@ -32930,6 +32958,16 @@
     ]
   },
   {
+    "url": "https://www.alliedtelesis.co",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "docs/audit/客户资产池审核_2026-09-29.json",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
     "url": "https://www.alliedtelesis.com/fr/fr/cfi-france",
     "http_checked": false,
     "occurrences": [
@@ -33038,6 +33076,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-974/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alliedtelesis.com/it/en/luca-masetto」**",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "docs/audit/客户资产池审核_2026-09-29.md",
+        "locator": "L39"
       }
     ]
   },
