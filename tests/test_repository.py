@@ -1259,9 +1259,9 @@ class RepositoryTests(unittest.TestCase):
             self.skipTest(BASELINE_MISSING_REASON)
         self.assertEqual((ROOT / 'docs/history/AGENT-README_截至5ac5c56.md').read_bytes(), git_file('AGENT-README.md'))
         text = (ROOT / 'docs/requirements/用户要求总账.md').read_text()
-        for n in range(1, 57):
+        for n in range(1, 58):
             self.assertIn(f'### R{n:02d} ·', text)
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 57)  # 56 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 58)  # 57 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
