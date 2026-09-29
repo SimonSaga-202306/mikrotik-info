@@ -117,6 +117,12 @@ class RepositoryTests(unittest.TestCase):
     R52_PROMOTED = {'C-011': 'A-431'}
     R52_PROMOTED_NEW = set(R52_PROMOTED.values())
     R52_PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注', 'C级细分'}
+    # R58 退信处置(2026-09-29 用户实测,见 batch/邮件退信_2026-09-29.json):
+    # A-054 steffo@blocked→fredrik.brunzell@主走; A-096 info@not-found永久停用→sales@主;
+    # A-101 sales@blocked→graham.budd@主+sales@抄送; A-103/A-105 退信停用仅归档不外溢。
+    # 允许字段:入口/联系方式+备注.
+    R58_BOUNCED = {'A-054', 'A-096', 'A-101', 'A-103', 'A-105'}
+    R58_BOUNCED_FIELDS = {'入口/联系方式', '备注'}
     # R53: B 段逐站复筛（283 条带网站 B 行，按 CSV 顺序）达标升级 -> 136 条 B 升 A-432..A-567。
     R53_PROMOTED = {
         'B-010': 'A-432',
@@ -319,7 +325,8 @@ class RepositoryTests(unittest.TestCase):
         for before, after in zip(baseline, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
-                       or self.r49_allowed(before['档案编号']))
+                       or self.r49_allowed(before['档案编号'])
+                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None))
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 self.assertEqual(after['评级'], 'A')
@@ -554,7 +561,8 @@ class RepositoryTests(unittest.TestCase):
         for before, after in zip(baseline, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
-                       or self.r49_allowed(before['档案编号']))
+                       or self.r49_allowed(before['档案编号'])
+                       or (self.R58_BOUNCED_FIELDS if before['档案编号'] in self.R58_BOUNCED else None))
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 extra = (self.R52_PROMOTED_FIELDS if (before['档案编号'] in self.R52_PROMOTED
@@ -587,7 +595,10 @@ class RepositoryTests(unittest.TestCase):
                 | set(self.R52_PROMOTED) | self.R52_PROMOTED_NEW
                 | set(self.R53_PROMOTED) | self.R53_PROMOTED_NEW
                 # R58(2026-09-29)新挖入库 6 户:xlsx 现状比基线多 6 行,跳过其编号使存量行仍可字节级对比
-                | {'A-568', 'A-569', 'B-536', 'C-371', 'C-372', 'C-373'})
+                | {'A-568', 'A-569', 'B-536', 'C-371', 'C-372', 'C-373'}
+                # R58 退信处置(2026-09-29 用户实测):5 户联系方式/备注字段已更新,
+                # xlsx 反向信号名单 sheet 同步重导,存量其他行仍字节级对齐
+                | self.R58_BOUNCED)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)

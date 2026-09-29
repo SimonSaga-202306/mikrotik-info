@@ -239,7 +239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L780"
+        "locator": "L791"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L956"
+        "locator": "L967"
       }
     ]
   },
@@ -647,7 +647,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L824"
+        "locator": "L835"
       }
     ]
   },
@@ -769,7 +769,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L954"
+        "locator": "L965"
       }
     ]
   },
@@ -1643,7 +1643,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L779"
+        "locator": "L790"
       }
     ]
   },
@@ -3081,7 +3081,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L917"
+        "locator": "L928"
       }
     ]
   },
@@ -3877,7 +3877,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L823"
+        "locator": "L834"
       }
     ]
   },
@@ -4567,7 +4567,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L877"
+        "locator": "L888"
       }
     ]
   },
@@ -7119,7 +7119,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L875"
+        "locator": "L886"
       }
     ]
   },
@@ -7801,7 +7801,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1328"
+        "locator": "L1339"
       }
     ]
   },
@@ -7811,7 +7811,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1328"
+        "locator": "L1339"
       }
     ]
   },
@@ -8633,7 +8633,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L820"
+        "locator": "L831"
       }
     ]
   },
@@ -9265,7 +9265,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L743"
+        "locator": "L754"
       }
     ]
   },
@@ -10659,7 +10659,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L959"
+        "locator": "L970"
       }
     ]
   },
@@ -11039,7 +11039,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L746"
+        "locator": "L757"
       }
     ]
   },
@@ -11409,7 +11409,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L746"
+        "locator": "L757"
       }
     ]
   },
@@ -14217,7 +14217,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L919"
+        "locator": "L930"
       }
     ]
   },
@@ -21729,7 +21729,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L916"
+        "locator": "L927"
       }
     ]
   },
@@ -22521,7 +22521,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L827"
+        "locator": "L838"
       }
     ]
   },
@@ -24447,7 +24447,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L822"
+        "locator": "L833"
       }
     ]
   },
@@ -28680,6 +28680,18 @@
       {
         "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
         "locator": "L139"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R58-BC_第1波.json",
+        "locator": "L20"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -28690,6 +28702,18 @@
       {
         "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
         "locator": "L138"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R58-BC_第1波.json",
+        "locator": "L15"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L144"
       }
     ]
   },
@@ -28700,6 +28724,18 @@
       {
         "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
         "locator": "L140"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R58-BC_第1波.json",
+        "locator": "L25"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/B/B-536-Tech Atlantix-美国.md",
+        "locator": "L148"
       }
     ]
   },
@@ -33709,7 +33745,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L747"
+        "locator": "L758"
       }
     ]
   },
@@ -34463,7 +34499,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L825"
+        "locator": "L836"
       }
     ]
   },
@@ -35807,7 +35843,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L917"
+        "locator": "L928"
       }
     ]
   },
@@ -38155,7 +38191,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L777"
+        "locator": "L788"
       }
     ]
   },
@@ -39551,7 +39587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L918"
+        "locator": "L929"
       }
     ]
   },
@@ -40063,7 +40099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L879"
+        "locator": "L890"
       }
     ]
   },
@@ -41723,7 +41759,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L874"
+        "locator": "L885"
       }
     ]
   },
@@ -46023,7 +46059,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L880"
+        "locator": "L891"
       }
     ]
   },
@@ -46349,7 +46385,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L775"
+        "locator": "L786"
       }
     ]
   },
@@ -47193,7 +47229,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L955"
+        "locator": "L966"
       }
     ]
   },
@@ -47521,7 +47557,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L776"
+        "locator": "L787"
       }
     ]
   },
@@ -50651,7 +50687,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L876"
+        "locator": "L887"
       }
     ]
   },
@@ -51507,7 +51543,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L918"
+        "locator": "L929"
       }
     ]
   },
@@ -51915,7 +51951,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L881"
+        "locator": "L892"
       }
     ]
   },
@@ -52059,7 +52095,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L747"
+        "locator": "L758"
       }
     ]
   },
@@ -53861,7 +53897,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L828"
+        "locator": "L839"
       }
     ]
   },
@@ -54579,7 +54615,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L878"
+        "locator": "L889"
       }
     ]
   },
@@ -55711,7 +55747,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L958"
+        "locator": "L969"
       }
     ]
   },
@@ -55853,7 +55889,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L826"
+        "locator": "L837"
       }
     ]
   },
@@ -60689,7 +60725,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L821"
+        "locator": "L832"
       }
     ]
   },
@@ -61505,7 +61541,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L957"
+        "locator": "L968"
       }
     ]
   },
@@ -62163,7 +62199,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L778"
+        "locator": "L789"
       }
     ]
   },
