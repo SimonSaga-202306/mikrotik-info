@@ -84,7 +84,7 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他在做视频监控与 IPTV：24 口 PoE++ 喂摄像头/AP，重点讲组播表现（IGMP snooping 行为、组播 VLAN）与功率预算。
 - **要问的问题**：他现在监控/IPVT 项目里组播怎么做（snooping 开关、组播 VLAN、上行带宽）？
 - **随附证明**：组播测试（不泛洪验证）+ 功率实测 + 30 天样机。

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Officelan（葡萄牙，comercial@officelan.p…，+351 232 186 575）自述 **«Distribuidor de Redes, Fibra Ótica e CCTV»**（网络/光纤/CCTV 分销商）；网络通信类共 **781 款**，一级子类含 **Switches（/collections/redes-e-comunicacoes-switch…；原 B-454 升级，编号顺延 A-561
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Officelan 葡网络/光纤/CCTV 分销（UniFi 深谱在价 UDR-5G-MAX €599.90+MT 新品线 hAP be lite €69.90+CCTV 谱）：双谱对照正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -78,31 +78,55 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（24口 PoE + 4×10G）
-- **要问的问题**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：双谱对照正口
+- **要问的问题**：CCTV/网络单随带收 24 口 value PoE 吗？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 留档
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：无响——留档
+- **要问的问题**：—
+- **随附/动作**：—
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：留档
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第56批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：https://shop.officelan.pt|葡分销店
+- **②芯片/型号**：UniFi/MT 双谱
+- **③KP 深挖**：geral@ 直口
+- **④Saga 对标**：STC-424 对照行（$165 锚点一致）
+- **⑤在乎与偏好**：CCTV 刚需
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【价格】**hAP be lite €69.90/UDR-5G-MAX €599.90 在价
+  > hAP be lite €69.90/UDR-5G-MAX €599.90 在价
+  > 来源：https://shop.officelan.pt
+- **【谱位】**UniFi+MikroTik 双谱+CCTV
+  > UniFi+MikroTik 双谱+CCTV
+  > 来源：https://shop.officelan.pt
+- **【新品】**wAP ax LTE7/UCG-Industrial 同步上架
+  > wAP ax LTE7/UCG-Industrial 同步上架
+  > 来源：https://shop.officelan.pt
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Officelan 葡网络/光纤/CCTV 分销（UniFi 深谱在价 UDR-5G-MAX €599.90+MT 新品线 hAP be lite €69.90+CCTV 谱）：双谱对照正口（$165 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -111,10 +135,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Officelan（葡萄牙，comercial@officelan.p…，+351 232 186 575）自述 **«Distribuidor de Redes, Fibra Ótica e CCTV»**（网络/光纤/CCTV 分销商）；网络通信类共 **781 款**，一级子类含 **Switches（/collections/redes-e-comunicacoes-switch…；原 B-454 升级，编号顺延 A-561
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：UniFi+MT 双谱深
+- **W**：value 段待证
+- **O**：24 口随带档
+- **T**：大牌价段
 
 ## 触达与风险红线
 
@@ -141,6 +165,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] 首发量
+  - [ ] 返单节奏
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -148,21 +176,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Officelan,
+Hi Officelan team,
 
-I came across Officelan - 分销（MikroTik 官方）.
+Deep UniFi and MikroTik shelves - hAP be lite at EUR69.90 up to UDR-5G-MAX - plus CCTV says your installers build whole site networks from your catalogue, and every camera run needs PoE.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a value line for CCTV and network jobs that die on switch cost, not to displace the brands you lead with.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: on CCTV and site-network jobs, would a documented value 24-port PoE switch be worth listing as the attach line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

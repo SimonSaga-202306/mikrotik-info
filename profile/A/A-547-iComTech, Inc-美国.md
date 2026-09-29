@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：iComTech, Inc.（美国，1-800-301-9097，网店带购物车/注册）为**工业以太网交换机专营供应**：全站品类即以 **Ethernet Switches** 起（卡式/CompactPCI/桌面型/**EN50155 车载**/**IEC 61850-3 电力**/工业 DIN 导轨托管与非托管/工业 PoE 交换机与注入器/工业 10Gb 核心交换机），另有 Me…；原 B-395 升级，编号顺延 A-547
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — IcomTech 美工业网络计算商（Industrial PoE 全类目+EN50155+IEC61850-3 DIN 管/非管+10Gb core；ISO 徽标）：工业谱旁 value 温宽 DIN 正口（$74.8 锚点一致）；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -79,31 +79,55 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 对照行
 
-- **推什么**：STI-288GP（工业非管理 8口 PoE）
-- **要问的问题**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
+- **切入点**：工业对照 DIN 档
+- **要问的问题**：非管温宽 8 口 PoE 作 value 档补位收吗？
+- **随附/动作**：规格页+3 年保
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 留档
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：无响——留档
+- **要问的问题**：—
+- **随附/动作**：—
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：留档
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第55批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：https://www.icomtechinc.com|工业网络计算商
+- **②芯片/型号**：EN50155/IEC61850-3 谱
+- **③KP 深挖**：sales@ 直口
+- **④Saga 对标**：STI-288GP 对照行（$74.8 锚点一致）
+- **⑤在乎与偏好**：认证门槛
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【产品线】**Industrial PoE switches 类目+10Gb core
+  > Industrial PoE switches 类目+10Gb core
+  > 来源：https://www.icomtechinc.com
+- **【认证】**EN 50155/IEC 61850-3 谱+ISO 徽标
+  > EN 50155/IEC 61850-3 谱+ISO 徽标
+  > 来源：https://www.icomtechinc.com
+- **【形态】**DIN-rail 管/非管
+  > DIN-rail 管/非管
+  > 来源：https://www.icomtechinc.com
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | IcomTech 美工业网络计算商（Industrial PoE 全类目+EN50155+IEC61850-3 DIN 管/非管+10Gb core；ISO 徽标）：工业谱旁 value 温宽 DIN 正口（$74.8 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -112,10 +136,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：iComTech, Inc.（美国，1-800-301-9097，网店带购物车/注册）为**工业以太网交换机专营供应**：全站品类即以 **Ethernet Switches** 起（卡式/CompactPCI/桌面型/**EN50155 车载**/**IEC 61850-3 电力**/工业 DIN 导轨托管与非托管/工业 PoE 交换机与注入器/工业 10Gb 核心交换机），另有 Me…；原 B-395 升级，编号顺延 A-547
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：工业类目深度
+- **W**：非管 value 空白
+- **O**：温宽 DIN 档
+- **T**：大牌价段
 
 ## 触达与风险红线
 
@@ -142,6 +166,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] 证型等级
+  - [ ] 首发量
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -149,21 +177,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi iComTech,,
+Hi IcomTech team,
 
-I came across iComTech, Inc. - 分销（ORing 授权）.
+A full industrial PoE shelf - injectors, splitters, managed and unmanaged DIN-rail switches, EN 50155 and IEC 61850-3 certified lines, right up to 10Gb core - says your buyers come to you for spec-driven industrial networking.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+We build an 8-port industrial PoE switch (unmanaged, wide-temperature, DIN-rail, redundant DC 44-57V, 250m extended reach, 3-year warranty) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - as a value line for budget-blocked industrial quotes, not a replacement for your certified managed lines.
 
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: would a documented unmanaged wide-temperature PoE switch fill the value slot under your managed industrial shelf?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

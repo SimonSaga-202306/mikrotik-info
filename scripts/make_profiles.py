@@ -242,6 +242,7 @@ def load_enrichment55():
                     {"dim": e.get("dim", "证据"), "text": e.get("quote", ""),
                      "quote": e.get("quote", ""), "url": e.get("source", "")}
                     for e in rec.get("evidence", [])]
+                rec["unknowns56"] = rec.get("unknowns") or []
                 rec["followup_plan"] = rec.get("followup_plan") or [
                     {"stage": f.get("stage", ""), "push": f.get("push", ""), "angle": f.get("angle", ""),
                      "question": f.get("question", ""), "proof": f.get("proof", "")}

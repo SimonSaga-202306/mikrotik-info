@@ -8298,7 +8298,7 @@
   "risk_flags": [],
   "lang": "pl",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌）：类目 anchor 对照收录正口（$165 锚点一致）",
+  "p1_reason": "Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌；与 A-516 同电话 32 721 86 72 姊妹站注）：类目 anchor 对照收录正口（$165 锚点一致）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -14920,12 +14920,12 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "CONSULT-OEM",
-  "p1_reason": "CanServers 加拿大翻新服务器店（Philippe Lachapelle MikroTik 顾问 official）：装机柜客户新类目窄针（$165 锚点一致）；训练通道判",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "CanServers 加拿大翻新服务器店（Philippe Lachapelle MikroTik 顾问 official）：装机柜客户新类目窄针（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",

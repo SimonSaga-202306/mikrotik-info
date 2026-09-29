@@ -267,7 +267,11 @@ def render(e, ctx):
                 stage = re.sub(r'^第[一二三四五六七八九十]+次跟进\s*·\s*', '', st['stage'])
                 w('### 第 %d 次跟进 · %s' % (st['step'], stage))
                 w('')
-                w('- **推什么**：%s' % st['product'])
+                # R54 frozen 计划保留原文（测试冻结）；440W 档停编仅追加现行对照注记
+                prod = (st.get('product') or '')
+                if '440W' in prod and '现行对照' not in prod:
+                    prod = prod + '（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）'
+                w('- **推什么**：%s' % prod)
                 w('- **切入点**：%s' % st['angle'])
                 w('- **要问的问题**：%s' % st['question'])
                 w('- **随附证明**：%s' % st['proof'])
@@ -401,6 +405,12 @@ def render(e, ctx):
     # ---- Unknowns（登记待问清单）
     w('## Unknowns（待问清单 · 首触后逐项消除）')
     w('')
+    _u56 = (ctx.get('rec55') or {}).get('unknowns56') or []
+    if _u56:
+        w('- **深挖专属待问（R56）**：')
+        for _u in _u56:
+            w('  - [ ] %s' % _u)
+        w('')
     w('- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）')
     w('- [ ] 典型站点端口数与供电预算')
     w('- [ ] 上门/故障频次（订阅制客户的核心成本）')

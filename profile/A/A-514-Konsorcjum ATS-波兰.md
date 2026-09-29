@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：WIRELESSLAN.COM.PL（Konsorcjum ATS，波兰）自述 **«centrum sieci bezprzewodowych»**；类目含 Access Pointy、Anteny、**Automatyka i Przemysł；原 B-266 升级，编号顺延 A-514
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌）：类目 anchor 对照收录正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌；与 A-516 同电话 32 721 86 72 姊妹站注）：类目 anchor 对照收录正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -119,7 +119,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌）：类目 anchor 对照收录正口（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Wirelesslan.pl 波大谱老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目薄萌；与 A-516 同电话 32 721 86 72 姊妹站注）：类目 anchor 对照收录正口（$165 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -157,6 +157,10 @@ updated: 2026-09-28
 | 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
 ## Unknowns（待问清单 · 首触后逐项消除）
+
+- **深挖专属待问（R56）**：
+  - [ ] 类目薄
+  - [ ] 首发量
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
