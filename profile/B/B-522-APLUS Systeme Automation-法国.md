@@ -55,6 +55,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita
+- 【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
+- 【假设】不入供位不首销:守档（同业+军规）
+
+**SWOT 速描**
+- **S**: 1988 老法资+44 人军规设计制
+- **W**: 同业制造侧+军红线双关
+- **O**: 守档
+- **T**: 不推出入
+
+**证据（quote → 来源）**
+- 「French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million」 — https://www.zoominfo.com/c/aplus-systme-automation/351414636
+- 「APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry」 — https://www.pagesjaunes.fr/pros/50512730
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 军规嵌入式同业设计制造商:守档不入供位
+- 第一问: (守档不入触点）
+- 标签: 法国|SaintMichel|军规嵌入式|同业
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【军红线+同业侧·建档守界】不出信;其 militarized 与 industrial embedded 谱对客体源可入我厂 OEM 元器件对面（圣抄档）,不入销售入信序。
+
+**待补证清单**
+1. APLUS 谱在 militarized 段阻守位面开态(CSV 挂的 ORing 授权只是销面）
+2. 军规加固电脑谱路由与我谱正对面排位
+
+**跟进建议（守档节奏）**
+- 竞品对标维护
+- 不入出信序
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

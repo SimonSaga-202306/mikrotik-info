@@ -2172,6 +2172,28 @@
     ]
   },
   {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/france",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L16"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-230-ACTN-法国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-238-EDOX SAS-法国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://altostrat.io/buying/hardware/resellers/europe/italy/",
     "http_checked": false,
     "occurrences": [
@@ -7026,6 +7048,34 @@
     ]
   },
   {
+    "url": "https://entreprises.lefigaro.fr/fget-international-69/entreprise-328732565",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L366"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L289"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://epcom.net/",
     "http_checked": false,
     "occurrences": [
@@ -7894,6 +7944,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-946/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://fr.linkedin.com/company/fget-internationnal",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L361"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -26962,6 +27026,20 @@
     ]
   },
   {
+    "url": "https://store.hdtechnology.com/red-lion/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L400"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://store.nexus.com.pe/",
     "http_checked": false,
     "occurrences": [
@@ -28818,6 +28896,14 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第14批.json",
         "locator": "L43"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L284"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -32084,7 +32170,15 @@
         "locator": "L16"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L55"
+      },
+      {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
         "locator": "L72"
       }
     ]
@@ -38360,6 +38454,20 @@
     ]
   },
   {
+    "url": "https://www.distributique.com/actualites/lire-tour-de-france-actn-12361.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/B/B-230-ACTN-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.ditecom.com",
     "http_checked": false,
     "occurrences": [
@@ -39094,6 +39202,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第13批.json",
         "locator": "L57"
+      }
+    ]
+  },
+  {
+    "url": "https://www.edox.com/Webshop/advancedSearchResults.aspx?catfilter=%7C_GENERAL.MANUFACTURER%3D@MKT",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/B/B-238-EDOX SAS-法国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -40814,6 +40936,20 @@
     ]
   },
   {
+    "url": "https://www.facebook.com/osmozis.wifi/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L167"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.facebook.com/p/Asit-SpA-100057768365511/",
     "http_checked": false,
     "occurrences": [
@@ -41742,6 +41878,34 @@
     ]
   },
   {
+    "url": "https://www.frenchweb.fr/telecoms-75-millions-deuros-pour-loperateur-b2b-sewan/384659",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L245"
+      },
+      {
+        "path": "profile/B/B-252-SEWAN-法国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L250"
+      },
+      {
+        "path": "profile/B/B-252-SEWAN-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.g-u.com",
     "http_checked": false,
     "occurrences": [
@@ -42198,6 +42362,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-966/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gestion-camping.com/fournisseurs-camping/646/osmozis.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L172"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -48212,6 +48390,42 @@
     ]
   },
   {
+    "url": "https://www.manageo.fr/entreprises/390778769.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://www.manageo.fr/entreprises/453006314.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L128"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.manta.com/c/mhwy7j9/unifying-solution-llc",
     "http_checked": false,
     "occurrences": [
@@ -53022,6 +53236,20 @@
     ]
   },
   {
+    "url": "https://www.pagesjaunes.fr/pros/50512730",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L328"
+      },
+      {
+        "path": "profile/B/B-522-APLUS Systeme Automation-法国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.paginebianche.it/pomezia/s-c-e-telecomunicazioni.3371943",
     "http_checked": false,
     "occurrences": [
@@ -54570,6 +54798,28 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第14批.json",
         "locator": "L15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.redvi.se/home",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L206"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L211"
+      },
+      {
+        "path": "profile/B/B-251-Redvise-法国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-251-Redvise-法国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -61172,6 +61422,20 @@
       {
         "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
         "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/aplus-systme-automation/351414636",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第4波.json",
+        "locator": "L323"
+      },
+      {
+        "path": "profile/B/B-522-APLUS Systeme Automation-法国.md",
+        "locator": "L72"
       }
     ]
   },

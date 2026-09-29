@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】EDOX SAS(Burnhaupt-le-Haut 68520 阿尔萨斯 Z.I de la Doller 1 rue Forêt Noire):**官方 MikroTik Master(altostrat 名录)**;「100% indirecte」纯间接渠道 IT 批发商;在架 MikroTik 极深(RDS2216-2XG-4S+4XS-2XQ 数据中心类/CCR2004-16G-2S+/C52IG-5HAXD2HAXD/wAP LTE6/RBGPOE-CON-HP)
+- 【推断】EDOX 是阿尔萨斯老区 Master 纯间接（只做 B2B 集成商客户，不卖最终）;RDS2216(企业级 NVME 数据服务器）在架=谱深到数据中心级;CCR2004/C52IG/wAP 多层谱
+- 【假设】开口角度=「法 Master 纯间接商的 value PoE 档配 2 供位」——STC-424 以其集成商谱随单+半 Have 价数字位预案
+
+**SWOT 速描**
+- **S**: Master+RDS 深谱+纯间接100%
+- **W**: 间接渠道独立档难拉
+- **O**: STC-424 集成商随单 value 位
+- **T**: 渠道上下洞察
+
+**证据（quote → 来源）**
+- 「EDOX SAS Master Distributors BURNHAUPT LE HAUT France」 — https://altostrat.io/buying/hardware/resellers/europe/france
+- 「Mikrotik Enterprise Data server 20 NvVMe 2x100G 4x25G 4x10G…RDS2216-2XG-4S+4XS-2XQ…CCR2004-16G-2S+」 — https://www.edox.com/Webshop/advancedSearchResults.aspx?catfilter=%7C_GENERAL.MANUFACTURER%3D@MKT
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 法 Master 纯间接商的 value PoE 档随单位(RDS 深谱对照寸 fond)
+- 第一问: 你们承接其集成商 BOM 里 PoE 接层现随哪单发？2 供位考虑？
+- 标签: 法国|阿尔萨斯|Master|纯间接100%
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi EDOX team,
+
+A hundred-percent indirect wholesale Master with a MikroTik shelf deep enough to include the RDS2216 enterprise tier - on-site you are building the business structure for B2B integrators, not for shelf browsing.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - the value PoE stocking line your B2B integrators can pull on together with the MikroTik shelf.
+
+One question: downstream inside your integrator BOMs, which PoE access switch is riding alongside the MikroTik gear today - and is there a slot for a documented second source?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 谱 RDS2216 在业务类自业价值轮沓流？
+2. 对客户集成商谱 PoE 接层随单深度
+
+**跟进建议（守档节奏）**
+- D+3 纯间接商价值 PoE 随单页
+- D+14 commercial@edox.com 具名
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

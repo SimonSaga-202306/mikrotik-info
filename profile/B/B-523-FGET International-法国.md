@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营
+- 【推断】法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)
+- 【假设】开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)
+
+**SWOT 速描**
+- **S**: 老品商+ACSI 并购了品路
+- **W**: 并购后位不固定,接触错乱
+- **O**: STI-288GP 老谱后值二线
+- **T**: 品牌面前面目更新
+
+**证据（quote → 来源）**
+- 「IMPORTATEUR & DISTRIBUTEUR DE COMPOSANTS (AUTOMATISME/CONNECTIQUE/ROBOTIQUE/PHOTOVOLTAÏQUE)…Fondée en 1984」 — https://fr.linkedin.com/company/fget-internationnal
+- 「2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5」 — https://entreprises.lefigaro.fr/fget-international-69/entreprise-328732565
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道
+- 第一问: 你们 FGET/ACSI 后 Red Lion 谱望向 DIN 轨 PoE 现供 N-Tron/Red Lion 还是 OEM?
+- 标签: 法国|Genas|FGET老品|ACSI并购|N-Tron谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi FGET team,
+
+An automation-components importer-distributor since 1984, now nested under ACSI - your rear-history weight is deeper than the last merger label suggests.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - designed as the value-side second source alongside the Red Lion/N-Tron shelf.
+
+One question: after the ACSI consolidation, for your Red Lion/N-Tron customer base, which DIN-rail PoE switch is the value-side default today - and is there room for a documented second source?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. ACSI 购构后 PoE 类目的采购口（FGET 还是 ACSI)
+2. N-Tron+Red Lion+Anybus+Ewon 谱的 value 档 PoE 现供
+
+**跟进建议（守档节奏）**
+- D+3 老谱后二线 OEM 样张
+- D+14 fget.fr 联系页+ACSI 试口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线
+- 【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放
+- 【假设】开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走
+
+**SWOT 速描**
+- **S**: 小微高证+双址双国号
+- **W**: 小体量对上架位
+- **O**: 教具样本/对照牌教具位
+- **T**: 师者红线
+
+**证据（quote → 来源）**
+- 「We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform」 — https://www.redvi.se/home
+- 「PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ」 — https://www.redvi.se/home
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-28DGGPM` — 师者+reseller 双证的教具样本线:8 口小机当课桌对照教具（师者红线下最白开口）
+- 第一问: 你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？
+- 标签: 法国|巴黎+伦敦|师者+reseller双证|3CX+Laravel谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Redvise team,
+
+Certified MikroTik Trainer and Reseller on one business card, plus 3CX and Laravel on the other - you sit at that rare spot where the training bench and the reseller shelf meet.
+
+We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/French documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
+
+One question: on your training bench, do you currently use a documented comparison device for the PoE segment - and would a sample-unit offer with a full test pack be something you would evaluate?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. Trainer+Reseller 双份对教具 OEM 的开放度
+2. 课桌对照教具现有没有位
+
+**跟进建议（守档节奏）**
+- D+3 教具样本合作一页(师者红线下）
+- D+14 样机提议
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

@@ -1,0 +1,507 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第4波",
+ "date": "2026-09-29",
+ "scope": "B 类法国 13 家",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-233/234 同一人双档注记待用户定",
+ "records": [
+  {
+   "code": "B-230",
+   "fact": "ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/Au 品牌代理;2024 起办「Tour de France ACTN」六城路演(Bayonne/Nantes/Aix/Toulouse/Lyon/Paris);谱面=réseau filaire/sans fil/cabling/video surveillance/stockage/protection data/téléphonie",
+   "inference": "ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱",
+   "hypothesis": "开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "ACTN Master Distributors Tournefeuille France marketing@actn.fr",
+     "source": "https://altostrat.io/buying/hardware/resellers/europe/france"
+    },
+    {
+     "dim": "路演",
+     "quote": "Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, téléphonie",
+     "source": "https://www.distributique.com/actualites/lire-tour-de-france-actn-12361.html"
+    }
+   ],
+   "unknowns": [
+    "自牌(ACN/Armagnet）营造能决 PoE 开放位（加 3 线不冲自牌？)",
+    "Tour de France 波段使客层谱(B2B 集成商信谱密度）"
+   ],
+   "swot": {
+    "S": "Master+自牌血统+六城路演引擎",
+    "W": "自牌 ACN 与我厂 之可能号普",
+    "O": "STC-424 自牌之外 value 第 3 线",
+    "T": "自牌压制随单接"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "法式 Master+自牌血统(OEM 咬合基因）:自牌之外的 value PoE 楼价补位",
+   "question": "你们 ACTN 谱里,PoE 接层现走哪个 OEM？ACN 桩自牌之外如何评价？",
+   "tag": "法国|图卢兹|Master|自牌ACN/Armagnet血统",
+   "email": "Hi ACTN team,\n\nA Tour de France that pulls integrators through six cities with your own ACN antenna line and Armagnet software on stage - that is private-label DNA rare among French Master distributors.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE stocking tier right beside your own label gear, white-label friendly.\n\nOne question: below the ACN-brand shelf, which PoE access source are your Tour de France integrators standardizing on - and would a documented white-label unit earn a bench test at Tournefeuille?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 白牌 OEM 样张+TDF 波段合作提议",
+    "D+14 marketing@actn.fr 开口",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-231",
+   "fact": "ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配",
+   "inference": "Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂",
+   "hypothesis": "开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护",
+   "evidence": [
+    {
+     "dim": "集团",
+     "quote": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe",
+     "source": "https://www.allnet-italia.it/en/allnet-international-network/"
+    }
+   ],
+   "unknowns": [
+    "法国站采购/库存与集团徽郑州出列关系",
+    "Allnet France 谱已覆盖 PoE SKU 现状"
+   ],
+   "swot": {
+    "S": "集团欧洲多站+品牌一致",
+    "W": "多站决策散，入位想",
+    "O": "集团全谱 value PoE 合合",
+    "T": "集团内在异构"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）",
+   "question": "ALLNET 集团经 NORDIC/Italia/Greece 谱的 value PoE 档现供哪家？",
+   "tag": "法国|ALLNET法国|集团站|集团联动",
+   "email": "Hi ALLNET France team,\n\nThird ALLNET branch on our map after Nordic and Greece - the EUR 500M Allnet Network is the exact multi-country flow a value PoE line is built to slide through.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Allnet Group shelf.\n\nOne question: across the Group, which PoE access SKU holds the value tier today - and would a group-level second-source earn a pilot at the France branch?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 Allnet 集团 Turrey 联动术页",
+    "D+14 sales@allnetfrance.fr 开口",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-238",
+   "fact": "EDOX SAS(Burnhaupt-le-Haut 68520 阿尔萨斯 Z.I de la Doller 1 rue Forêt Noire):**官方 MikroTik Master(altostrat 名录)**;「100% indirecte」纯间接渠道 IT 批发商;在架 MikroTik 极深(RDS2216-2XG-4S+4XS-2XQ 数据中心类/CCR2004-16G-2S+/C52IG-5HAXD2HAXD/wAP LTE6/RBGPOE-CON-HP)",
+   "inference": "EDOX 是阿尔萨斯老区 Master 纯间接（只做 B2B 集成商客户，不卖最终）;RDS2216(企业级 NVME 数据服务器）在架=谱深到数据中心级;CCR2004/C52IG/wAP 多层谱",
+   "hypothesis": "开口角度=「法 Master 纯间接商的 value PoE 档配 2 供位」——STC-424 以其集成商谱随单+半 Have 价数字位预案",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "EDOX SAS Master Distributors BURNHAUPT LE HAUT France",
+     "source": "https://altostrat.io/buying/hardware/resellers/europe/france"
+    },
+    {
+     "dim": "在架",
+     "quote": "Mikrotik Enterprise Data server 20 NvVMe 2x100G 4x25G 4x10G…RDS2216-2XG-4S+4XS-2XQ…CCR2004-16G-2S+",
+     "source": "https://www.edox.com/Webshop/advancedSearchResults.aspx?catfilter=%7C_GENERAL.MANUFACTURER%3D@MKT"
+    }
+   ],
+   "unknowns": [
+    "谱 RDS2216 在业务类自业价值轮沓流？",
+    "对客户集成商谱 PoE 接层随单深度"
+   ],
+   "swot": {
+    "S": "Master+RDS 深谱+纯间接100%",
+    "W": "间接渠道独立档难拉",
+    "O": "STC-424 集成商随单 value 位",
+    "T": "渠道上下洞察"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "法 Master 纯间接商的 value PoE 档随单位(RDS 深谱对照寸 fond)",
+   "question": "你们承接其集成商 BOM 里 PoE 接层现随哪单发？2 供位考虑？",
+   "tag": "法国|阿尔萨斯|Master|纯间接100%",
+   "email": "Hi EDOX team,\n\nA hundred-percent indirect wholesale Master with a MikroTik shelf deep enough to include the RDS2216 enterprise tier - on-site you are building the business structure for B2B integrators, not for shelf browsing.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - the value PoE stocking line your B2B integrators can pull on together with the MikroTik shelf.\n\nOne question: downstream inside your integrator BOMs, which PoE access switch is riding alongside the MikroTik gear today - and is there a slot for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 纯间接商价值 PoE 随单页",
+    "D+14 commercial@edox.com 具名",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-246",
+   "fact": "NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP(2013)+linknet(2021)+Phenix Partner(2021);高度结构化『数字法国产』分销",
+   "inference": "NETCOM GROUP 承载 FRANCE NUMERIQUE 集团并维护自有三层品牌——Master 挂证连体式自有品牌",
+   "hypothesis": "开口角度=「集团自牌之外的 value PoE 第 4 品牌」——STC-424 以其新品牌位置或集层 value 楼价档入（RMA 三件套）",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "NETCOM GROUP…41 RUE DELIZY 93500 PANTIN…Fabrication, commerce de gros de matériel, équipements de télécommunications",
+     "source": "https://www.manageo.fr/entreprises/453006314.html"
+    },
+    {
+     "dim": "集团",
+     "quote": "Phenix Partner…linknet…NETCOM GROUP，Président actuellement une PERSONNE MORALE, FRANCE NUMERIQUE",
+     "source": "https://www.manageo.fr/entreprises/453006314.html"
+    }
+   ],
+   "unknowns": [
+    "Phenix Partner/linknet 三层品牌的类目下界线（各自放什么）",
+    "FRANCE NUMERIQUE 集团谱经营层格局与 PoE 位"
+   ],
+   "swot": {
+    "S": "集团自持品牌+48 人团队",
+    "W": "自有品牌压谱",
+    "O": "STC-424 Phenix 之外第 4 线",
+    "T": "集团重品牌密度预售时机"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "FRANCE NUMERIQUE 集团自牌之外的 value PoE 第 4 线入端",
+   "question": "Phenix Partner/linknet 之外,你们 PoE 接层现供哪家？客资加入第 4 线可谈？",
+   "tag": "法国|Pantin|NEXERA|FRANCENUMERIQUE集团",
+   "email": "Hi NETCOM team,\n\nPhenix Partner, linknet, NETCOM GROUP - a three-brand house already nested under the FRANCE NUMERIQUE umbrella. You know exactly what it takes to launch and sustain an own-brand networking line.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to own-label partner programs. Reference: $165 USD EXW (2026-09-29) - offered either as an outside label fourth line or as OEM stock for your own brand umbrella.\n\nOne question: is the PoE access tier something you prefer to source as a fourth external label inside NETCOM GROUP, or would your umbrella prefer an OEM run under one of your existing brand names?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 三层品牌 谱对照页",
+    "D+14 own-label 或 OEM 二案下试",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-248",
+   "fact": "Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」",
+   "inference": "「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)",
+   "hypothesis": "开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "OSMOZIS S.A. est opérateur majeur de réseaux Wifi et de l'Internet des Objets (IoT) dédiés aux campings",
+     "source": "https://www.facebook.com/osmozis.wifi/"
+    },
+    {
+     "dim": "自造",
+     "quote": "Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay/OsmoPower",
+     "source": "https://www.gestion-camping.com/fournisseurs-camping/646/osmozis.html"
+    }
+   ],
+   "unknowns": [
+    "自产 bornes 组网中 PoE 接层/回程现供(每个 bornes/共 camp LAN 中心）",
+    "Alternext 上市计划构成谱压力(公众化后采购单层面）"
+   ],
+   "swot": {
+    "S": "法国第一露营 WiFi 运营+自牌血统",
+    "W": "主路径 WiFi harvest 不是 PoE",
+    "O": "bornes 组网 backhaul/备触 PoE 刚需随单",
+    "T": "其自研 AP 和我 outdoor 在我司面同向"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）",
+   "question": "你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？",
+   "tag": "法国|Montpellier|露营WiFi|自研bornes",
+   "email": "Hi Osmozis team,\n\nFrance's leading WiFi-and-IoT operator for campgrounds with your own bornes, your own software stack (OsmoGestion / OsmoPay / OsmoPower…), and a network story so good it once had you looking at Alternext - bornes everywhere, and every single one of them is a PoE load.\n\nWe build PoE switches for exactly that job: a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) for the camp LAN core, and an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class, $74.8 EXW) for the individual borne cabinets. Full English/French documentation, fully open to Osmozis own branding.\n\nOne question: across your bornes and camp LAN installations, which PoE source are your borne boxes and the camp core running on today - and would a documented OEM unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 bornes PoE 接线部署页(核心+节子双联）",
+    "D+14 样机 OEM 贴牌提案",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-251",
+   "fact": "Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线",
+   "inference": "小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放",
+   "hypothesis": "开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform",
+     "source": "https://www.redvi.se/home"
+    },
+    {
+     "dim": "双址",
+     "quote": "PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ",
+     "source": "https://www.redvi.se/home"
+    }
+   ],
+   "unknowns": [
+    "Trainer+Reseller 双份对教具 OEM 的开放度",
+    "课桌对照教具现有没有位"
+   ],
+   "swot": {
+    "S": "小微高证+双址双国号",
+    "W": "小体量对上架位",
+    "O": "教具样本/对照牌教具位",
+    "T": "师者红线"
+   },
+   "p1": "STC-28DGGPM",
+   "p1_reason": "师者+reseller 双证的教具样本线:8 口小机当课桌对照教具（师者红线下最白开口）",
+   "question": "你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？",
+   "tag": "法国|巴黎+伦敦|师者+reseller双证|3CX+Laravel谱",
+   "email": "Hi Redvise team,\n\nCertified MikroTik Trainer and Reseller on one business card, plus 3CX and Laravel on the other - you sit at that rare spot where the training bench and the reseller shelf meet.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/French documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: on your training bench, do you currently use a documented comparison device for the PoE segment - and would a sample-unit offer with a full test pack be something you would evaluate?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 教具样本合作一页(师者红线下）",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-252",
+   "fact": "SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面",
+   "inference": "SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链",
+   "hypothesis": "开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署",
+   "evidence": [
+    {
+     "dim": "体量",
+     "quote": "75 millions d'euros auprès de Kartesia en novembre 2019…450 collaborateurs…55 000 entreprises clientes dans 4 pays européens",
+     "source": "https://www.frenchweb.fr/telecoms-75-millions-deuros-pour-loperateur-b2b-sewan/384659"
+    },
+    {
+     "dim": "扩张",
+     "quote": "cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte",
+     "source": "https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067"
+    }
+   ],
+   "unknowns": [
+    "SEWAN 渠道伙伴部署级 SME 接入设备（含 PoE 交换）现供目录",
+    "白标 OEM 供应链现有没有"
+   ],
+   "swot": {
+    "S": "€75M 投资+450 人+55k 客户+4国",
+    "W": "不直购硬件",
+    "O": "OEM 白标(SEWAN 牌）渠道伙伴部署随单位",
+    "T": "运营型血易拐谱对我不熟"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用",
+   "question": "你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？",
+   "tag": "法国|巴黎|B2B运营型|55k客户|€75M",
+   "email": "Hi SEWAN team,\n\n450 people, a €75M war chest from Kartesia, 55k B2B customers and a four-country footprint (France / Spain / Belgium / Germany) - Sewan is the heavyweight operator of the European indirect-sale channel.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to Sewan white-label. Reference: $165 USD EXW (2026-09-29) - designed to become the default PoE access SKU your channel partners deploy under the Sewan brand.\n\nOne question: for your channel partners' SME deployments, which PoE access source supplies the installations today - and would a documented white-label unit earn a pilot in your catalog?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 SEWAN 牌 OEM 白标套件页",
+    "D+14 contact@sewan.com 具名开口",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-254",
+   "fact": "VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径",
+   "inference": "「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头",
+   "hypothesis": "开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés",
+     "source": "https://vodenn.fr/"
+    },
+    {
+     "dim": "司形",
+     "quote": "VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon",
+     "source": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962"
+    }
+   ],
+   "unknowns": [
+    "市政 bornes 部署里 PoE 回程现供 OEM",
+    "其能源自主+监管服务谱 PoE 接点位"
+   ],
+   "swot": {
+    "S": "自研自造法国市政专谱+直接标",
+    "W": "PME 随组位低,数量小",
+    "O": "bornes 装置 PoE 回程随单位",
+    "T": "自研 AP 面正对面"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位",
+   "question": "你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？",
+   "tag": "法国|Toulon|自研市政无线|视频保护专家",
+   "email": "Hi Vodenn team,\n\nFrench-made radio and video-protection systems for municipalities, with borne boxes that go into the field with their own power and supervision - every single field installation is a PoE assembly.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus 8-port industrial DIN-rail models, with full English/French documentation and OEM-friendly branding.\n\nOne question: inside the borne assemblies you ship to municipalities, which PoE source feeds the links and the cam runs - and would a documented OEM unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 borne 装置回程位样张",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-522",
+   "fact": "APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita",
+   "inference": "「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出",
+   "hypothesis": "不入供位不首销:守档（同业+军规）",
+   "evidence": [
+    {
+     "dim": "司形",
+     "quote": "French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million",
+     "source": "https://www.zoominfo.com/c/aplus-systme-automation/351414636"
+    },
+    {
+     "dim": "副题",
+     "quote": "APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry",
+     "source": "https://www.pagesjaunes.fr/pros/50512730"
+    }
+   ],
+   "unknowns": [
+    "APLUS 谱在 militarized 段阻守位面开态(CSV 挂的 ORing 授权只是销面）",
+    "军规加固电脑谱路由与我谱正对面排位"
+   ],
+   "swot": {
+    "S": "1988 老法资+44 人军规设计制",
+    "W": "同业制造侧+军红线双关",
+    "O": "守档",
+    "T": "不推出入"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "军规嵌入式同业设计制造商:守档不入供位",
+   "question": "(守档不入触点）",
+   "tag": "法国|SaintMichel|军规嵌入式|同业",
+   "email": "【军红线+同业侧·建档守界】不出信;其 militarized 与 industrial embedded 谱对客体源可入我厂 OEM 元器件对面（圣抄档）,不入销售入信序。",
+   "followups": [
+    "竞品对标维护",
+    "不入出信序"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-523",
+   "fact": "FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营",
+   "inference": "法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)",
+   "hypothesis": "开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "IMPORTATEUR & DISTRIBUTEUR DE COMPOSANTS (AUTOMATISME/CONNECTIQUE/ROBOTIQUE/PHOTOVOLTAÏQUE)…Fondée en 1984",
+     "source": "https://fr.linkedin.com/company/fget-internationnal"
+    },
+    {
+     "dim": "法人",
+     "quote": "2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5",
+     "source": "https://entreprises.lefigaro.fr/fget-international-69/entreprise-328732565"
+    }
+   ],
+   "unknowns": [
+    "ACSI 购构后 PoE 类目的采购口（FGET 还是 ACSI)",
+    "N-Tron+Red Lion+Anybus+Ewon 谱的 value 档 PoE 现供"
+   ],
+   "swot": {
+    "S": "老品商+ACSI 并购了品路",
+    "W": "并购后位不固定,接触错乱",
+    "O": "STI-288GP 老谱后值二线",
+    "T": "品牌面前面目更新"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道",
+   "question": "你们 FGET/ACSI 后 Red Lion 谱望向 DIN 轨 PoE 现供 N-Tron/Red Lion 还是 OEM?",
+   "tag": "法国|Genas|FGET老品|ACSI并购|N-Tron谱",
+   "email": "Hi FGET team,\n\nAn automation-components importer-distributor since 1984, now nested under ACSI - your rear-history weight is deeper than the last merger label suggests.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - designed as the value-side second source alongside the Red Lion/N-Tron shelf.\n\nOne question: after the ACSI consolidation, for your Red Lion/N-Tron customer base, which DIN-rail PoE switch is the value-side default today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 老谱后二线 OEM 样张",
+    "D+14 fget.fr 联系页+ACSI 试口",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-524",
+   "fact": "HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**)",
+   "inference": "30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传",
+   "hypothesis": "开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "Les switchs Ethernet industriels de Red Lion, incluant notamment les séries N-Tron®, Sixnet®, NT4008 et NT5000…disponibles en versions managées, non managées, PoE, IP67 et OEM",
+     "source": "https://store.hdtechnology.com/red-lion/"
+    },
+    {
+     "dim": "司形",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président",
+     "source": "https://www.manageo.fr/entreprises/390778769.html"
+    }
+   ],
+   "unknowns": [
+    "NT4008/NT5000 OEM 版本（他们已给 Red Lion 开出 OEM），我们能出 STI 的 OEM 关各项",
+    "Richard DENIS 对 PoE 类别的商务判位"
+   ],
+   "swot": {
+    "S": "1993 老工业+Red Lion OEM 版本已开",
+    "W": "Red Lion 王牌亚位稳",
+    "O": "STI-288GP 第 2 源或 STI-288GP OEM 变体系",
+    "T": "Red Lion 售供血脉"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源",
+   "question": "Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？",
+   "tag": "法国|Bron|RedLion谱|1993老牌|已开OEM型",
+   "email": "Hi Richard,\n\nThirty years in industrial automation with Red Lion on your wall and the NT4008 / NT5000 series in managed / unmanaged / PoE / IP67 / OEM variants - you already know exactly what an OEM-version story looks like.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.\n\nOne question: alongside the Red Lion shelf, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 OEM 样张 Red Lion 对位",
+    "D+14 Richard DENIS 具名联络",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-233",
+   "fact": "Adnan RIHAN(法国巴黎;CSV 载 MTCNA+MTCIPv6E;IPv6 专长明确):rihan.fr 域名持有者,具名邮箱 adnan+mikrotik@rihan.fr;**与 B-234 同一人(同邮箱 adnan+mikrotik@rihan.fr、同手机号 +33 6 78 62 26 20)**——B-233/B-234 是同一程双档",
+   "inference": "IPv6 专长型 MTCIPv6E 高证;rihan.fr 是其个人 domain",
+   "hypothesis": "守档促具名引见:**双档合并判——B-233=具名+domain 具体档,B-234=同一人贷名层;关联档案由用户按位定是否合并**",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA/MTCIPv6E;IPv6 方向有专",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "双档",
+     "quote": "adnan+mikrotik@rihan.fr(联系邮箱)同于 B-234",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns": [
+    "双档合并与否(委员会是 CSV 收录历史）",
+    "现证在档(mikrotik.com 顾问名录）"
+   ],
+   "swot": {
+    "S": "IPv6 专长+具名 domain+CSV 两档同名",
+    "W": "ré镐再具解析",
+    "O": "具名引见 IPv6 高级对谈",
+    "T": "失联 B-233/234 同"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "IPv6 专长师者通道统一,同 B-234 同一人双档序原",
+   "question": "IPv6 谱向 PoE 部署与 carrier 海与块的过累",
+   "tag": "法国|巴黎|MTCIPv6E专长|双档同一人",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+14 具名引见",
+    "D+30 放盘"
+   ],
+   "note": "**关联：B-233↔B-234 同一人物双档(adnan+mikrotik@rihan.fr 同邮箱+同手机号)。本档为具名主档,合并与否待用户指导。"
+  },
+  {
+   "code": "B-234",
+   "fact": "Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20",
+   "inference": "本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档",
+   "hypothesis": "守档促具名引见（与 B-233 一文）",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "双档",
+     "quote": "adnan+mikrotik@rihan.fr(联系邮箱)同于 B-233;/+33 6 78 62 26 20 过手机号同",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns": [
+    "双档合并与否",
+    "现址在档 mikrotik.com 顾问名录"
+   ],
+   "swot": {
+    "S": "IPv6 专长",
+    "W": "双档原壁",
+    "O": "具名引见",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "IPv6 专长师者通道统一,同 B-233 同一人双档（B-234=次档顺位并发）",
+   "question": "IPv6 专长向 PoE",
+   "tag": "法国|巴黎|MTCIPv6E专长|双档同一人",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+14 具名引见",
+    "D+30 放盘"
+   ],
+   "note": "**关联:B-233↔B-234 同一人物双档。并入指导等闲用户示在下波合并(以 B-233 主档)。"
+  }
+ ]
+}

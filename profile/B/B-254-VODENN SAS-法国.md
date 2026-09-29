@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径
+- 【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
+- 【假设】开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
+
+**SWOT 速描**
+- **S**: 自研自造法国市政专谱+直接标
+- **W**: PME 随组位低,数量小
+- **O**: bornes 装置 PoE 回程随单位
+- **T**: 自研 AP 面正对面
+
+**证据（quote → 来源）**
+- 「Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés」 — https://vodenn.fr/
+- 「VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon」 — https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位
+- 第一问: 你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？
+- 标签: 法国|Toulon|自研市政无线|视频保护专家
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Vodenn team,
+
+French-made radio and video-protection systems for municipalities, with borne boxes that go into the field with their own power and supervision - every single field installation is a PoE assembly.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus 8-port industrial DIN-rail models, with full English/French documentation and OEM-friendly branding.
+
+One question: inside the borne assemblies you ship to municipalities, which PoE source feeds the links and the cam runs - and would a documented OEM unit earn a bench test?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 市政 bornes 部署里 PoE 回程现供 OEM
+2. 其能源自主+监管服务谱 PoE 接点位
+
+**跟进建议（守档节奏）**
+- D+3 borne 装置回程位样张
+- D+14 样机提议
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
