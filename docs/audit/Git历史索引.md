@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `16ff55107763` | 2026-09-29T04:44:58+00:00 | 深挖加厚 A-421..A-460（第43-46批/batch53-56）：东欧培训/UA分销电商九连/加拿大六连/匈牙利五连/保2+北马2+土4波；UA 9 家民用限定、DAEL/MBSI 守界句、A-450/A-453 P1=STI-288GP 工业件；ENRICH55 +4（46)、OVERRIDES +40(460)；P1 未登记 0；29 tests OK |
 | `c2e7c9605cd8` | 2026-09-29T04:12:52+00:00 | 深挖加厚 A-381..A-420（第39-42批/batch49-52）：STC×17（SmartEye楼宇IaaS 30k AP/Spadhausen独立ISP/Ibersystems 8000项目/Archous白盒谱/PortUp官训/FUBAR关基守界/Codisa ENS守界等16家）+CONSULT-OEM×23（顾问/培训个体波：LanPixel实验室/YaTuAprendes #TR0299/ISPAcademny/XPD安全屋等；含A-401 mail.ru注/A-404+413占位页注/A-405域错配注/A-408谱变注）；A深挖覆盖至420/567；ENRICH55+4、OVERRIDES+40；build/make/audit(0 err)/unittest 29 OK |
 | `38dd8a83a77c` | 2026-09-29T03:52:07+00:00 | R57 超批四波：A-341..A-380 加厚深挖 40 家（批35-38）落盘；21×STC-424 出信+13×CONSULT-OEM+6 建档（A-347 Kappa 同集团错峰/A-351 meconet 退市场/A-360 站504/A-365 同A-319主体/A-373 同人错峰/A-378 无邮箱）;STC-424=284 CONSULT-OEM=43;audit 0、unittest 29 OK； |
 | `f94e8e7813c9` | 2026-09-29T03:21:00+00:00 | R57 超批三波：A-301..A-340 加厚深挖 40 家（批31-34）落盘；34/40 出自 AT 伙伴定位器源；30出信+4 CONSULT-OEM+3 红线建档（A-305/329/333)+3 建档供位（A-301/316/334);STC-424=278 CONSULT=26;audit 0、unittest 29 OK；（本地历史被沙盒重置回 dcc1ec1：commit-tree 正父修复，内容零变更） |
