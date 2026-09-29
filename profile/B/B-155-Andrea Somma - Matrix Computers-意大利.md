@@ -61,6 +61,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it)
+- 【推断】一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维
+- 【假设】守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级
+
+**SWOT 速描**
+- **S**: 具名直达+双证+决策一人
+- **W**: 个体户,采购量极小
+- **O**: 项目随单小批
+- **T**: 失联
+
+**证据（quote → 来源）**
+- 「Matrix Computers di Somma Andrea - Via Madonnina 28 - 20814 Varedo (MB) - P.iva 07535620962」 — https://www.matrixcomputers.it/privacy
+- 「Consulenza informatica e sviluppo software」 — https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 个体顾问通道:具名引见备养,小批随单机会出现时再激活
+- 第一问: 你给 SME 客户做网络方案时,PoE 接入现随哪家?
+- 标签: 意大利|Varedo|个体顾问|MTCNA+MTCRE
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定;个体顾问(ditta individuale),软件咨询主业,出信等他项目信号。
+
+**待补证清单**
+1. 客户谱(SME 行业)与项目频度
+2. 现证在档状态
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第5波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

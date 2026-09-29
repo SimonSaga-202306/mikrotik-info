@@ -62,6 +62,41 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE)
+- 【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
+- 【假设】守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户
+
+**SWOT 速描**
+- **S**: 三证工程师+DC 雇主背书
+- **W**: 公司 DC 级采购不在我们谱
+- **O**: 个人顾问通道+集团内 SME 侧留意
+- **T**: 误判其雇主为分销客户(100G 级不沾)
+
+**证据（quote → 来源）**
+- 「Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 100Gbps…punto Enable di Namex」 — https://www.fastnet.it/azienda/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判
+- 第一问: (个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?
+- 标签: 意大利|Ancona|顾问|雇主Fiberwide云/DC|谱外注记
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定;雇主 Fastnet=Fiberwide 集团云/DC 运营商(Tier IV/100G/Namex),非分销客户谱,勿按分销客户出信。
+
+**待补证清单**
+1. Giorgio 在 Fastnet 的具体角色与外部顾问活
+2. Fiberwide 集团谱有无 SME 接入侧子牌
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见
+- D+30 放盘
+
+> 备注: **雇主判型注记**:Fastnet=云/DC 服务商(Gruppo Fiberwide),100G 骨干级,不在我厂谱系;只走 Giorgio 个人顾问通道。
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第5波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

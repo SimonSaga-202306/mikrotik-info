@@ -62,6 +62,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com)
+- 【推断】在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人
+- 【假设】守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)
+
+**SWOT 速描**
+- **S**: 四证含 MTCINE+ISP 在职双轨
+- **W**: 采购决策非他
+- **O**: 具名引见+ISP 场景观察口
+- **T**: 个人换岗失联
+
+**证据（quote → 来源）**
+- 「Valerio Simeraro - Network and System Administrator presso LinkSpace Soc. Coop.…fibra FTTH linkspace」 — https://it.linkedin.com/posts/valerio-simeraro-45aabb44_fibra-ftth-linkspace-activity-6705367925668237312-R1Q0
+- 「CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E」 — 客户名单_反向信号_2026-09.csv
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — ISP 在职高证顾问备养:具名通道+雇主 FTTH 场景长线观察(决策不在他)
+- 第一问: 你在 LinkSpace 的 FTTH 接入/机房场景里,PoE 交换件现见哪些品牌?(顾问身份)你给西西里客户做 IPv6/互联项目时,接层现随哪家?
+- 标签: 意大利|西西里|四证含MTCINE|LinkSpace在职|ISP场景
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名引见后定;雇主 LinkSpace(FTTH ISP)为观察口,勿以雇主名义推分销件。
+
+**待补证清单**
+1. LinkSpace FTTH 接入/机房侧 PoE 现供
+2. 其顾问活在 Fastweb/本地 WISP 圈的客户谱
+
+**跟进建议（守档节奏）**
+- D+14 具名技术短引见(IPv6/MTCINE 语言)
+- D+30 放盘
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第5波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

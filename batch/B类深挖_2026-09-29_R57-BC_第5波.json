@@ -1,0 +1,242 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第5波",
+ "date": "2026-09-29",
+ "scope": "B 类德国 4 家 + 意大利 9 家(凑满一波 13 家)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-138 德国总部判型为同业制造(自牌在产工业 PoE),走代工二源守档,与集团各分销站 STC-424 动线不冲突",
+ "records": [
+  {
+   "code": "B-138",
+   "fact": "ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991  Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH",
+   "inference": "德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子",
+   "hypothesis": "开口角度=「ALLNET brand 产线的 OEM/代工二源」——不自正面推第三方品牌(会与自牌冲突);试探其自牌 PoE 产线当下 OEM 伙伴与第二来源开放度;谱合则谈代工,不合守档",
+   "evidence": [
+    {"dim": "双血", "quote": "Der 1991 in Germering gegründete Hersteller und Distributor ALLNET GmbH…unter eigenem Brand auch eine breit gestreute Produktpalette", "source": "https://wir-sind-germering.de/unternehmen/allnet-gmbh-computersysteme/"},
+    {"dim": "自牌产线", "quote": "Own development and production under the ALLNET brand…PoE switches with up to 90 W per port and industrial suitability: -40 °C to +75 °C…produced at its own facility in Hungary", "source": "https://industry-electronics.com/allnet/products.htm"}
+   ],
+   "unknowns": ["ALLNET brand PoE 产线(匈牙利厂)当下 OEM/ODM 伙伴与外包深度", "自牌交换机与我厂谱的正对面程度(端口/功率/价位映射)"],
+   "swot": {"S": "1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌", "W": "自牌与我谱正对面(同业红线)", "O": "其自牌产线的 OEM/代工二源", "T": "正面推第三方品牌必被拒,守档"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突",
+   "question": "(守档)ALLNET brand PoE/交换机产线的 OEM 伙伴结构是什么?第二来源有无开放度?",
+   "tag": "德国|慕尼黑|集团总部|同业制造|代工二源守档",
+   "email": "【同业制造侧·建档守界】不出信;其 ALLNET brand 产线(PoE 交换机工业级 90W/-40~75°C,匈牙利厂)与我厂谱正对面,可入我厂 OEM 代工二源对面(圣抄档),不入销售入信序。集团各分销站(B-001/B-115/B-154/B-231)的 STC-424 动线不受影响。",
+   "followups": ["竞品对标维护(自牌 PoE 谱端口/功率映射)", "不入出信序"],
+   "note": "**判型:同业制造商守档**。与集团四站动线区分:分销站欢迎第三方 value PoE 线,总部母体则只谈代工二源。红线守档名单新增。"
+  },
+  {
+   "code": "B-152",
+   "fact": "etree GmbH(Köln Mathias-Brüggen-Straße 160 50829;2009 创):**电商型(e-tailer)+B2B 分销双轨**,LinkedIn 1421 followers;官方分销 MikroTik/Arista/Teltonika/Zyxel/Tenda/Dahua/Honeywell/Acer/Fujitsu 等;在架 MikroTik 深到 CRS504-4XQ-OUT(100G €498)、CSS610-8P-2S+IN(8 口 PoE+ 140W €169);B2B 注册价制",
+   "inference": "多品牌电商架+监控 Dahua 谱=走量型;其 MikroTik 架 PoE 段到 CSS610(8 口 140W)即止——24 口管理型 PoE 档在其价位谱里是空档(MikroTik 无 24 口 PoE+ 甜点位产品)",
+   "hypothesis": "开口角度=「电商架 24 口 280W 管理型 PoE 空档补位」:STC-424 以其 €169 CSS610 上一档的 value 24 口位入架,B2B 注册价+快速发货模式适配",
+   "evidence": [
+    {"dim": "身份", "quote": "etree Group…hardware, software & consumer electronics distributor, and e-tailer established in 2009 in Cologne…official distributor of…Mikrotik, Arista, Teltonika, Zyxel", "source": "https://www.linkedin.com/company/etree-group"},
+    {"dim": "在架", "quote": "MikroTik CSS610-8P-2S+IN - Switch - Smart - 8 x 10/100/1000 + 2 x 10 Gigabit SFP+…PoE+ (140 W) €169.58", "source": "https://shop.etree.de/Hersteller/MikroTik/Switches/"}
+   ],
+   "unknowns": ["其 B2B 客户谱里 24 口 PoE 需求量级(监控/Dahua 随单)", "电商架引入新品牌的 MOQ/上架费门槛"],
+   "swot": {"S": "电商+B2B 双轨 15 年+多品牌官分", "W": "无自牌无增值深度,走量价格敏感", "O": "24 口 280W 管理型 PoE 价位空档", "T": "TP-Link/Ubiquiti 低价架压"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "电商型分销的 24 口 280W 管理型 PoE 价位空档补位(CSS610 8 口上一档)",
+   "question": "你们 B2B 客户在监控/网络项目里,24 口管理型 PoE+ 现供哪款?架上有没有 value 档空位?",
+   "tag": "德国|科隆|电商分销|24口PoE空档",
+   "email": "Hi etree team,\n\nFifteen years of e-tail plus B2B distribution out of Cologne, with MikroTik, Teltonika, Dahua and Zyxel all on one shelf - you know exactly where the price gaps in your own catalog are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.\n\nOne question: for your B2B buyers building camera and network deployments, which 24-port managed PoE switch fills the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 价位空档对照页(CSS610 vs STC-424)", "D+14 sales@etree.de 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-153",
+   "fact": "hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroTik Reseller 谱在其 IT-Infrastruktur 项目内",
+   "inference": "中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点",
+   "hypothesis": "开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口",
+   "evidence": [
+    {"dim": "身份", "quote": "hsc solutions ist ein mittelständiges Unternehmen aus Chemnitz/Sachsen…Spezialgebiete: DMS, IT-Infrastruktur, erp-Lösung und IT-Consulting/Beratung…Gegründet 2005", "source": "https://de.linkedin.com/company/hsc-solutions"},
+    {"dim": "谱系", "quote": "IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises", "source": "https://www.cbinsights.com/company/hsc-solutions"}
+   ],
+   "unknowns": ["其 IT 基础设施项目年量级与 PoE 随单频度", "condition monitoring 项目里工业网络件现供"],
+   "swot": {"S": "20 年老店+owner 决策快+项目随单", "W": "软件主业,硬件谱浅", "O": "项目随单 PoE 接入位", "T": "项目型采购不稳定"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)",
+   "question": "你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?",
+   "tag": "德国|开姆尼茨|软件+集成|项目随单",
+   "email": "Hi Tom,\n\nTwenty years of DMS, ERP and IT-infrastructure projects out of Chemnitz - your projects are where switches actually get installed, not just listed.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.\n\nOne question: inside your IT-infrastructure projects, which PoE access switch rides along with the rollout today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 项目随单样张", "D+14 office@hsc-solutions.de 具名 Tom 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-510",
+   "fact": "Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线)",
+   "inference": "汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能",
+   "hypothesis": "开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」",
+   "evidence": [
+    {"dim": "身份", "quote": "MikroTik 培训伙伴,开课/持证 MikroTik 认证顾问与讲师", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "谱系", "quote": "Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述", "source": "https://www.janzen-group.com/(R49 复核)"}
+   ],
+   "unknowns": ["Trainer 课桌对照教具开放度", "KNX/安全技术项目里 PoE 件随单可能"],
+   "swot": {"S": "培训伙伴+汉堡本地网络服务 ISO 9001", "W": "无分销货架,采购量小", "O": "教具样本+KNX 项目随单双线", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)",
+   "question": "你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?",
+   "tag": "德国|汉堡|培训伙伴|KNX谱|教具样本",
+   "email": "Hi Florian,\n\nMikroTik training partner with KNX programming, security technology and on-site support across Hamburg - you sit exactly where the classroom bench meets the customer site.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/German documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: for your training and support work, do you currently use a documented comparison device for the PoE segment - and would a sample unit with a full test pack be something you would evaluate?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页(师者红线下)", "D+14 info@janzen-group.com 具名 Florian", "D+30 果归守档"]
+  },
+  {
+   "code": "B-154",
+   "fact": "Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战略联盟",
+   "inference": "意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)",
+   "hypothesis": "开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书",
+   "evidence": [
+    {"dim": "scouting", "quote": "La nostra offerta non si basa sui brand, ma sulle tecnologie ritenute più adatte…molti vendor a cui il mercato italiano non è ancora abituato", "source": "https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/"},
+    {"dim": "结构", "quote": "suddivisa in 5 differenti Business Unit: UCC, Networking & Wireless, Sicurezza fisica e cyber, IoT e Data Center…CEO Emiliano Papadopoulos", "source": "https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/"},
+    {"dim": "模式", "quote": "opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati", "source": "https://802service.com/chi-siamo/"}
+   ],
+   "unknowns": ["Networking&Wireless BU 当下 value PoE 档供应商", "scouting 新 vendor 的准入流程(测试期/上架门槛)"],
+   "swot": {"S": "scouting 战略明示+5BU+纯间接+集团联盟", "W": "纯间接决策在 BU,周期或长", "O": "STC-424 作 scouting 新 vendor 直对口", "T": "集团自牌谱边界需辨(总部 ALLNET brand)"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动",
+   "question": "Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?",
+   "tag": "意大利|Bologna|Master+VAD|scouting血统|集团第5站",
+   "email": "Hi Allnet.Italia team,\n\nYour CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.\n\nOne question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 scouting 开口页+集团五站背书", "D+14 networking@allnet-italia.it 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-155",
+   "fact": "Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it)",
+   "inference": "一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维",
+   "hypothesis": "守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级",
+   "evidence": [
+    {"dim": "身份", "quote": "Matrix Computers di Somma Andrea - Via Madonnina 28 - 20814 Varedo (MB) - P.iva 07535620962", "source": "https://www.matrixcomputers.it/privacy"},
+    {"dim": "类目", "quote": "Consulenza informatica e sviluppo software", "source": "https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea"}
+   ],
+   "unknowns": ["客户谱(SME 行业)与项目频度", "现证在档状态"],
+   "swot": {"S": "具名直达+双证+决策一人", "W": "个体户,采购量极小", "O": "项目随单小批", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个体顾问通道:具名引见备养,小批随单机会出现时再激活",
+   "question": "你给 SME 客户做网络方案时,PoE 接入现随哪家?",
+   "tag": "意大利|Varedo|个体顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定;个体顾问(ditta individuale),软件咨询主业,出信等他项目信号。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-160",
+   "fact": "Dnet-Distribution(Lainate MI Via De Gasperi 19;**Nim Wave S.r.l. 旗下品牌**,P.IVA 06095990963,2008 创):**大型欧洲 MikroTik 分销,100+ reseller 渠道;自牌天线 Nim Wave(SECWAVE/MIMOWAVE/PANWAVE);FlashStart 案例证白标再牌血统**(『DNet branded-solution』reseller 贴牌);Sales Director **Daniela Cibien** 具名;MikroTik 培训课;WISP 侧 lainit.it;谱含 Cambium/Ubiquiti/Stella Doradus/Wifx",
+   "inference": "自牌天线+白标服务双血统=自有品牌运营经验丰富;100+ reseller 渠道是白牌硬件放大的现成管道;天线自牌之外,网络硬件(PoE 交换)是自牌谱的自然延伸位",
+   "hypothesis": "开口角度=「Nim Wave 自牌谱的 PoE 硬件 OEM 延伸」:STC-424 以 OEM 白牌(Dnet/Nim Wave 贴牌)供其 100+ reseller,具名 Daniela 开口",
+   "evidence": [
+    {"dim": "体量", "quote": "DNet Distribution, a division of NIM Wave Srl, is a large European distributor of MikroTik products…more than 100 resellers…Mrs Daniela Cibien, Sales Director", "source": "https://www.flashstart.com/wp-content/uploads/2017/06/fs_cloud_casestudy_dnet_eng.final_.pdf"},
+    {"dim": "白标血统", "quote": "The 'DNet branded-solution' helps to brand awareness and increase loyalty", "source": "https://www.flashstart.com/wp-content/uploads/2017/06/fs_cloud_casestudy_dnet_eng.final_.pdf"},
+    {"dim": "自牌", "quote": "NimWave…SECWAVE 56908DPA MIMOWAVE2 PANWAVE5623VA…Marchi e-commerce: www.dnet-distribution.com", "source": "https://www.nimwave.it/"}
+   ],
+   "unknowns": ["Nim Wave 自牌是否计划延到 PoE 硬件类目", "100+ reseller 谱里 PoE 随单量"],
+   "swot": {"S": "自牌+白标双血统+100+渠道+具名 Sales Director", "W": "天线自牌重心,硬件自牌未起步", "O": "自牌谱 PoE OEM 延伸第一家", "T": "Ubiquiti/Cambium 谱内挤"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "自牌天线之外的 PoE 硬件 OEM 白牌延伸位(渠道与白标经验现成,具名开口)",
+   "question": "Nim Wave 自牌谱会不会延到 PoE 交换硬件?白牌 OEM 件给你们 100+ reseller 供货可谈吗?",
+   "tag": "意大利|Lainate|NimWave自牌|白标血统|100+渠道",
+   "email": "Hi Daniela,\n\nOwn-brand antennas under Nim Wave, a white-labeled FlashStart service your resellers put their logo on, and a hundred-plus resellers across Europe - you already run the exact playbook that a white-label PoE line is built for.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $165 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.\n\nOne question: does the Nim Wave own-label catalog plan to extend into PoE switching - and would a documented OEM unit earn a bench test for your reseller channel?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 自牌延伸 OEM 提案页", "D+14 info@dnet-distribution.com 具名 Daniela", "D+30 果归守档"]
+  },
+  {
+   "code": "B-163",
+   "fact": "Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE)",
+   "inference": "公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)",
+   "hypothesis": "守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户",
+   "evidence": [
+    {"dim": "公司", "quote": "Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 100Gbps…punto Enable di Namex", "source": "https://www.fastnet.it/azienda/"}
+   ],
+   "unknowns": ["Giorgio 在 Fastnet 的具体角色与外部顾问活", "Fiberwide 集团谱有无 SME 接入侧子牌"],
+   "swot": {"S": "三证工程师+DC 雇主背书", "W": "公司 DC 级采购不在我们谱", "O": "个人顾问通道+集团内 SME 侧留意", "T": "误判其雇主为分销客户(100G 级不沾)"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判",
+   "question": "(个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?",
+   "tag": "意大利|Ancona|顾问|雇主Fiberwide云/DC|谱外注记",
+   "email": "【合作通道·备养】具名引见后定;雇主 Fastnet=Fiberwide 集团云/DC 运营商(Tier IV/100G/Namex),非分销客户谱,勿按分销客户出信。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"],
+   "note": "**雇主判型注记**:Fastnet=云/DC 服务商(Gruppo Fiberwide),100G 骨干级,不在我厂谱系;只走 Giorgio 个人顾问通道。"
+  },
+  {
+   "code": "B-164",
+   "fact": "Jacopo Cipriani(Grosseto 托斯卡纳;MTCNA+MTCRE;jacopocipriani@me.com;无公司网站,公开足迹极少;CSV 载 MikroTik 认证顾问)",
+   "inference": "纯个人顾问,托斯卡纳腹地 SME 圈;公开谱薄,价值在具名直达与技术对话",
+   "hypothesis": "守档备养:具名引见后按其项目谱再定",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档状态", "客户谱(行业/量级)"],
+   "swot": {"S": "具名直达+双证", "W": "无公开谱,摸底难", "O": "托斯卡纳 SME 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问通道备养,具名引见后定",
+   "question": "你给托斯卡纳本地客户做网络项目时,PoE 接入现随哪家?",
+   "tag": "意大利|Grosseto|个人顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-166",
+   "fact": "Lorenzo Webber(Mezzolombardo 特伦蒂诺;MTCNA+MTCSE(安全方向);lory76@gmail.com +39 347 091 9297;无公司网站,公开足迹极少)",
+   "inference": "纯个人顾问,安全工程方向(MTCSE)突出;特伦蒂诺山区 SME/酒店业圈潜力(当地 tourism 盛)",
+   "hypothesis": "守档备养:具名引见;若有酒店/山区 SME 项目谱,PoE(监控/AP)随单机会再激活",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档状态", "客户谱(酒店/tourism 占比)"],
+   "swot": {"S": "安全方向证+具名手机直达", "W": "无公开谱", "O": "特伦蒂诺酒店/山区 SME PoE 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问通道备养(MTCSE 安全方向),具名引见后按项目谱定",
+   "question": "你在特伦蒂诺的项目里(酒店/SME),PoE 监控与 AP 接入现随哪家?",
+   "tag": "意大利|Mezzolombardo|个人顾问|MTCSE安全",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-168",
+   "fact": "Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Legrand(结构化布线)**/Magnoni/NZXT/Thecus/TP-Link/Transcend/Ubiquiti/MikroTik;题头即『Distributore Informatica Networking **Cablaggio Strutturato**』",
+   "inference": "C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感",
+   "hypothesis": "开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配",
+   "evidence": [
+    {"dim": "身份", "quote": "Neostar Master Distributor Value Added Distributor Brescia, Italy info@neostar.it +39 030 349771, +39 030 3544107", "source": "https://altostrat.io/buying/hardware/resellers/europe/italy/"},
+    {"dim": "谱系", "quote": "Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo", "source": "https://neostar.it/?vendor=RB"}
+   ],
+   "unknowns": ["C&C 架上 PoE 交换走量 SKU 与价位", "新品牌入仓的现货押款条件"],
+   "swot": {"S": "双仓 C&C 现货+Legrand 布线谱+Master", "W": "走量型,品牌忠诚度低", "O": "24 口 value PoE 现货位", "T": "TP-Link 低价现货压"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)",
+   "question": "你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?",
+   "tag": "意大利|Brescia|Master|双仓C&C|Legrand布线谱",
+   "email": "Hi Neostar team,\n\nTwo cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.\n\nOne question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 C&C 现货走量提案页", "D+14 info@neostar.it 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-173",
+   "fact": "Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com)",
+   "inference": "在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人",
+   "hypothesis": "守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)",
+   "evidence": [
+    {"dim": "身份", "quote": "Valerio Simeraro - Network and System Administrator presso LinkSpace Soc. Coop.…fibra FTTH linkspace", "source": "https://it.linkedin.com/posts/valerio-simeraro-45aabb44_fibra-ftth-linkspace-activity-6705367925668237312-R1Q0"},
+    {"dim": "证件", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["LinkSpace FTTH 接入/机房侧 PoE 现供", "其顾问活在 Fastweb/本地 WISP 圈的客户谱"],
+   "swot": {"S": "四证含 MTCINE+ISP 在职双轨", "W": "采购决策非他", "O": "具名引见+ISP 场景观察口", "T": "个人换岗失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "ISP 在职高证顾问备养:具名通道+雇主 FTTH 场景长线观察(决策不在他)",
+   "question": "你在 LinkSpace 的 FTTH 接入/机房场景里,PoE 交换件现见哪些品牌?(顾问身份)你给西西里客户做 IPv6/互联项目时,接层现随哪家?",
+   "tag": "意大利|西西里|四证含MTCINE|LinkSpace在职|ISP场景",
+   "email": "【合作通道·备养】具名引见后定;雇主 LinkSpace(FTTH ISP)为观察口,勿以雇主名义推分销件。",
+   "followups": ["D+14 具名技术短引见(IPv6/MTCINE 语言)", "D+30 放盘"]
+  },
+  {
+   "code": "B-176",
+   "fact": "Zen Vittore(Pordenone 弗留利;MTCNA+MTCSE;vittore@zenfamily.it(自有域 zenfamily.it)+39 320 057 9027;公开足迹极少)",
+   "inference": "纯个人顾问,自有域名 zenfamily.it 暗示家庭/个人工作室形态;安全方向证",
+   "hypothesis": "守档备养:具名引见后按其项目谱再定",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档状态", "zenfamily.it 承载业务形态", "客户谱"],
+   "swot": {"S": "具名直达+双证+自有域", "W": "无公开谱", "O": "弗留利 SME 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人顾问通道备养,具名引见后定",
+   "question": "你在弗留利本地项目里,PoE 接入与安防线现随哪家?",
+   "tag": "意大利|Pordenone|个人顾问|MTCNA+MTCSE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  }
+ ]
+}

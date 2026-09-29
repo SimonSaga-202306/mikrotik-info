@@ -1342,6 +1342,20 @@
     ]
   },
   {
+    "url": "https://802service.com/chi-siamo/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://academia-mikrotik.ro",
     "http_checked": false,
     "occurrences": [
@@ -2202,8 +2216,16 @@
         "locator": "L21"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L194"
+      },
+      {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
         "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-168-Neostar-意大利.md",
+        "locator": "L72"
       }
     ]
   },
@@ -5846,6 +5868,20 @@
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
         "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/hsc-solutions",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/B/B-153-hsc solutions-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -9896,6 +9932,20 @@
     ]
   },
   {
+    "url": "https://industry-electronics.com/allnet/products.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/B/B-138-ALLNET GmbH Computersysteme-德国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://infinitetechnology.ie",
     "http_checked": false,
     "occurrences": [
@@ -11014,6 +11064,20 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第22批.json",
         "locator": "L367"
+      }
+    ]
+  },
+  {
+    "url": "https://it.linkedin.com/posts/valerio-simeraro-45aabb44_fibra-ftth-linkspace-activity-6705367925668237312-R1Q0",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/B/B-173-Valerio Simeraro-意大利.md",
+        "locator": "L79"
       }
     ]
   },
@@ -20824,6 +20888,20 @@
     ]
   },
   {
+    "url": "https://neostar.it/?vendor=RB",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L195"
+      },
+      {
+        "path": "profile/B/B-168-Neostar-意大利.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://netcom-group.fr/",
     "http_checked": false,
     "occurrences": [
@@ -25316,6 +25394,20 @@
     ]
   },
   {
+    "url": "https://shop.etree.de/Hersteller/MikroTik/Switches/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L33"
+      },
+      {
+        "path": "profile/B/B-152-etree GmbH-德国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://shop.fiber24.net",
     "http_checked": false,
     "occurrences": [
@@ -29370,6 +29462,20 @@
       {
         "path": "profile/B/B-032-WinTik-乌克兰.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://wir-sind-germering.de/unternehmen/allnet-gmbh-computersysteme/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "profile/B/B-138-ALLNET GmbH Computersysteme-德国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -34850,6 +34956,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-774/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cbinsights.com/company/hsc-solutions",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/B/B-153-hsc solutions-德国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -41048,6 +41168,20 @@
     ]
   },
   {
+    "url": "https://www.fastnet.it/azienda/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.ferit.unios.hr/",
     "http_checked": false,
     "occurrences": [
@@ -41706,6 +41840,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1005/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.flashstart.com/wp-content/uploads/2017/06/fs_cloud_casestudy_dnet_eng.final_.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L123"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
+        "locator": "L73"
       }
     ]
   },
@@ -45796,6 +45952,20 @@
     ]
   },
   {
+    "url": "https://www.janzen-group.com/(R49",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/B/B-510-Janzen Group-德国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.janzen-group.com/leistungen/netzwerktechnik/",
     "http_checked": false,
     "occurrences": [
@@ -47151,6 +47321,20 @@
       },
       {
         "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/etree-group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/B/B-152-etree GmbH-德国.md",
         "locator": "L72"
       }
     ]
@@ -48588,6 +48772,20 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L2250"
+      }
+    ]
+  },
+  {
+    "url": "https://www.matrixcomputers.it/privacy",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/B/B-155-Andrea Somma - Matrix Computers-意大利.md",
+        "locator": "L78"
       }
     ]
   },
@@ -52150,6 +52348,20 @@
     ]
   },
   {
+    "url": "https://www.nimwave.it/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://www.nlogic.no",
     "http_checked": false,
     "occurrences": [
@@ -53348,6 +53560,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-983/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "profile/B/B-155-Andrea Somma - Matrix Computers-意大利.md",
+        "locator": "L79"
       }
     ]
   },
@@ -57542,6 +57768,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-765/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L86"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第5波.json",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L73"
       }
     ]
   },
