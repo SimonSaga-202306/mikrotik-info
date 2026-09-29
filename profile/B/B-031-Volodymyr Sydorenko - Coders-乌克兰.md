@@ -61,6 +61,42 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将
+- 【推断】ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E
+- 【假设】软件 CEO/GM+多证+乌办 GM 复合者:过往的咨询谱现在更倾向于「软件方案商侧的网络选型岗」;Consult 线开口谱:具名 LinkedIn 引见+「老牌软件方案商」话谱
+
+**SWOT 速描**
+- **S**: 软+网双深功(25 年软 GM+三证）
+- **W**: 现职变动、接点意向未明
+- **O**: 软方案商网络选型角度谱
+- **T**: 面谱未实/守界反馈
+
+**证据（quote → 来源）**
+- 「Coders in UA team…1999-…MTCWE Issued Sep 2016…MTCRE Issued Jun 2016…MTCNA Issued May 2015」 — https://www.linkedin.com/in/blackvs/
+- 「Volodymyr Sydorenko…General Manager, Ukranian Branch (Cinegy Systems Llc) at Cinegy」 — https://www.zoominfo.com/p/Volodymyr-Sydorenko/11098653389
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 软件 CEO 双深谱走顾问关系线,不入上架
+- 第一问: 你现在主导的方案里,PoE 接层选型现用哪家？「老软+网顾问」运续吗？
+- 标签: 乌克兰|Zhytomyr|软资CEO25年|Cinegy乌办GM
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【合作通道·备养】具名 LinkedIn 引见走师者通道
+
+**待补证清单**
+1. 现从属（Coders in UA vs Cinegy）明确与否
+2. Cinegy 侧的谱或 Coders 侧现案参考
+
+**跟进建议（守档节奏）**
+- D+14 LinkedIn 具名引见谱
+- D+30 果归守档
+
+> 备注: （乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第2波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

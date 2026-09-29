@@ -55,6 +55,56 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G
+- 【推断】运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容
+- 【假设】开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手
+
+**SWOT 速描**
+- **S**: 运营商项目谱+三站+MTCSA 证
+- **W**: 谱太宽,单列进难
+- **O**: 三站 value 随单
+- **T**: 运营商压谱导价惨
+
+**证据（quote → 来源）**
+- 「ROMSAT специализируется в многопрофильной проектной дистрибуции телекоммуникационного и телевизионного оборудования…Украина, а также Грузия и Болгария」 — https://www.axxonsoft.com/partners/partner-locator/ukraine/romsat
+- 「CRS418-8P-8G-2S+5axQ2axQ-RM…QSFP28 100G…SFP+ 10G」 — https://romsat.ua/partners/mikrotik/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 电信/多形态项目分销三站的 value PoE 档随单
+- 第一问: 你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？
+- 标签: 乌克兰|基辅|电信头端|三站|MTCSA
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Romsat team,
+
+Multi-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.
+
+One question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 电信/多形态三站谱里 PoE 接层现供
+2. CRS418 在架是否说明高位资费段已锁,我们的 value 层在哪插
+
+**跟进建议（守档节奏）**
+- D+3 跨三站随单方案页
+- D+14 样机提议
+- D+30 果归守档
+
+> 备注: （乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第2波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

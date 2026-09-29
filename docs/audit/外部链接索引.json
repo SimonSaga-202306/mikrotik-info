@@ -7042,6 +7042,20 @@
     ]
   },
   {
+    "url": "https://erc.ua/en/vendor/mikrotik/list.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L60"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://es.laufquen.com",
     "http_checked": false,
     "occurrences": [
@@ -7998,6 +8012,14 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第1批.json",
         "locator": "L43"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L177"
+      },
+      {
+        "path": "profile/B/B-013-Gazik Store-乌克兰.md",
+        "locator": "L73"
       }
     ]
   },
@@ -9398,6 +9420,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-907/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://hotline.ua/ua/yp/32481/reviews/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L172"
+      },
+      {
+        "path": "profile/B/B-013-Gazik Store-乌克兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -11568,6 +11604,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1006/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://ko.com.ua/rim2000_distribyutor_setevogo_oborudovaniya_mikrotik_115519",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L255"
+      },
+      {
+        "path": "profile/B/B-022-RIM2000-乌克兰.md",
+        "locator": "L73"
       }
     ]
   },
@@ -13902,6 +13952,14 @@
         "locator": "L408"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L372"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L409"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L79"
       },
@@ -14182,6 +14240,14 @@
         "locator": "L132"
       },
       {
+        "path": "profile/B/B-009-Andrii Nagornyi-乌克兰.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-026-Serhii Maksymenko-乌克兰.md",
+        "locator": "L78"
+      },
+      {
         "path": "profile/B/B-327-Andrei Zhernosek-美国.md",
         "locator": "L81"
       },
@@ -14358,6 +14424,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-593/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants/europeThe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
+        "locator": "L79"
       }
     ]
   },
@@ -23724,6 +23804,20 @@
     ]
   },
   {
+    "url": "https://romsat.ua/partners/mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L294"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://ronitek.co.il/",
     "http_checked": false,
     "occurrences": [
@@ -29060,6 +29154,28 @@
     ]
   },
   {
+    "url": "https://wintik.com.ua/about-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L479"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L484"
+      },
+      {
+        "path": "profile/B/B-032-WinTik-乌克兰.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-032-WinTik-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://wirac.ba/",
     "http_checked": false,
     "occurrences": [
@@ -33182,6 +33298,20 @@
     ]
   },
   {
+    "url": "https://www.axxonsoft.com/partners/partner-locator/ukraine/romsat",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L289"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.bachert.de",
     "http_checked": false,
     "occurrences": [
@@ -34688,6 +34818,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-942/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channel-summit.com/post/mikrotik-chooses-mti-to-cover-ukraine",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -39046,6 +39190,20 @@
     ]
   },
   {
+    "url": "https://www.elko.ua/ru/produkty/setevoe-oborudovanie-u-oficialnogo-distribyutora-elko-ukraine",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.elmat.com",
     "http_checked": false,
     "occurrences": [
@@ -40528,6 +40686,20 @@
     ]
   },
   {
+    "url": "https://www.facebook.com/shopgsm/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L328"
+      },
+      {
+        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.facebook.com/vartekservices/",
     "http_checked": false,
     "occurrences": [
@@ -40546,6 +40718,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-802/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/vip.te.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
+        "locator": "L80"
       }
     ]
   },
@@ -43216,6 +43402,20 @@
       {
         "path": "profile/A/A-499-i4wifi a.s-捷克.md",
         "locator": "L114"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ibm.com/partnerplus/directory/company/1645",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L73"
       }
     ]
   },
@@ -46588,6 +46788,20 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/company/elko-ukraine",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L16"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/company/itccommunications",
     "http_checked": false,
     "occurrences": [
@@ -46756,6 +46970,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-836/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/blackvs/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L441"
+      },
+      {
+        "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
+        "locator": "L78"
       }
     ]
   },
@@ -52562,6 +52790,28 @@
     ]
   },
   {
+    "url": "https://www.omnilink.com.ua/ukr/vendors",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L211"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L216"
+      },
+      {
+        "path": "profile/B/B-021-Omnilink-乌克兰.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-021-Omnilink-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.oringnet.com/en/products/industrial-ethernet-switch/poe-accessory/65-ips-3082gc-at?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -54152,6 +54402,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-983/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rim2000.com/news/company/rim2000-distribyutor-mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L250"
+      },
+      {
+        "path": "profile/B/B-022-RIM2000-乌克兰.md",
+        "locator": "L72"
       }
     ]
   },
@@ -58030,6 +58294,20 @@
     ]
   },
   {
+    "url": "https://www.ua-region.com.ua/en/38204199",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L55"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.uberdatanetworks.com",
     "http_checked": false,
     "occurrences": [
@@ -60496,6 +60774,20 @@
     ]
   },
   {
+    "url": "https://www.youtube.com/c/Shop-gsmNet/videos",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L333"
+      },
+      {
+        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11",
     "http_checked": false,
     "occurrences": [
@@ -60746,6 +61038,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-749/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Volodymyr-Sydorenko/11098653389",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第2波.json",
+        "locator": "L446"
+      },
+      {
+        "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
+        "locator": "L79"
       }
     ]
   },

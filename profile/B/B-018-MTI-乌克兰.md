@@ -55,6 +55,56 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持
+- 【推断】MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;"we work individually on each Partner request" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广
+- 【假设】MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」
+
+**SWOT 速描**
+- **S**: MikroTik 官方主分销+Tier 1
+- **W**: MikroTik 主铺压制后话
+- **O**: PoE 独立档 OEM 辅线
+- **T**: 供应商排他边线
+
+**证据（quote → 来源）**
+- 「Mikrotik Chooses MTI to Cover Ukraine…Broadliner MTI hi-tech distribution has signed a partnership agreement with Mikrotik」 — https://www.channel-summit.com/post/mikrotik-chooses-mti-to-cover-ukraine
+- 「Distributor Tier 1…MTI hi-tech distribution…+380 44 2074061」 — https://www.ibm.com/partnerplus/directory/company/1645
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位
+- 第一问: 你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？
+- 标签: 乌克兰|基辅|MTI|MikroTik主分销|Tier1
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi MTI team,
+
+MikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.
+
+We are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.
+
+One question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. MikroTik 排他性条款实际程度（可否上书其它交换牌）
+2. Tier 1 企业政采项 PoE 层现行选型
+
+**跟进建议（守档节奏）**
+- D+3 OEM 侧辅位方案页
+- D+14 具名 Serhiy Yakovlev 引见请求
+- D+30 果归守档
+
+> 备注: （乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第2波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
