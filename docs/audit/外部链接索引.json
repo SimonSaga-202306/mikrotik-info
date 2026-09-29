@@ -239,7 +239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L762"
+        "locator": "L780"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L938"
+        "locator": "L956"
       }
     ]
   },
@@ -647,7 +647,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L806"
+        "locator": "L824"
       }
     ]
   },
@@ -769,7 +769,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L936"
+        "locator": "L954"
       }
     ]
   },
@@ -1112,6 +1112,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-779/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://1220-ge.all.biz/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L221"
       }
     ]
   },
@@ -1633,7 +1643,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L761"
+        "locator": "L779"
       }
     ]
   },
@@ -3071,7 +3081,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L899"
+        "locator": "L917"
       }
     ]
   },
@@ -3867,7 +3877,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L805"
+        "locator": "L823"
       }
     ]
   },
@@ -4557,7 +4567,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L859"
+        "locator": "L877"
       }
     ]
   },
@@ -7109,7 +7119,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L857"
+        "locator": "L875"
       }
     ]
   },
@@ -7406,6 +7416,16 @@
       {
         "path": "profile/B/B-311-UAB ELKO Lietuva-立陶宛.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Tradeinn",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L167"
       }
     ]
   },
@@ -7781,7 +7801,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1310"
+        "locator": "L1328"
       }
     ]
   },
@@ -7791,7 +7811,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1310"
+        "locator": "L1328"
       }
     ]
   },
@@ -8613,7 +8633,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L802"
+        "locator": "L820"
       }
     ]
   },
@@ -8846,6 +8866,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-965/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://georgia.travel/coming-to-georgia/telecom-mail-and-internet",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L223"
       }
     ]
   },
@@ -9235,7 +9265,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L725"
+        "locator": "L743"
       }
     ]
   },
@@ -10629,7 +10659,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L941"
+        "locator": "L959"
       }
     ]
   },
@@ -11009,7 +11039,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L728"
+        "locator": "L746"
       }
     ]
   },
@@ -11379,7 +11409,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L728"
+        "locator": "L746"
       }
     ]
   },
@@ -14187,7 +14217,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L901"
+        "locator": "L919"
       }
     ]
   },
@@ -14274,6 +14304,16 @@
       {
         "path": "MikroTik芯片及价格抓取.py",
         "locator": "L258"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/buy/resellers/europe/lv",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L196"
       }
     ]
   },
@@ -21689,7 +21729,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L898"
+        "locator": "L916"
       }
     ]
   },
@@ -21952,6 +21992,54 @@
       {
         "path": "profile/A/A-063-Amin Hamidi Younessi - Netrotik-芬兰.md",
         "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://networkdevicesinc.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-569-Network Devices-美国.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://networkdevicesinc.com/pages/contact-us-inquiry",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-569-Network Devices-美国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://networkdevicesinc.com/products/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-569-Network Devices-美国.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://networkdevicesinc.com/products/mikrotik-crs518-16xs-2xq-network-switch-microchip-mikrotik-2-ports-crs518-16xx",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L92"
       }
     ]
   },
@@ -22433,7 +22521,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L809"
+        "locator": "L827"
       }
     ]
   },
@@ -23100,6 +23188,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第12批.json",
         "locator": "L43"
+      }
+    ]
+  },
+  {
+    "url": "https://open.endole.co.uk/insight/company/05361794-purdicom-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L29"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L137"
       }
     ]
   },
@@ -24264,6 +24366,20 @@
     ]
   },
   {
+    "url": "https://purdicom.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
     "url": "https://pymatek.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -24331,7 +24447,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L804"
+        "locator": "L822"
       }
     ]
   },
@@ -28558,6 +28674,36 @@
     ]
   },
   {
+    "url": "https://techatlantix.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://techatlantix.com/about-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://techatlantix.com/switches/mikroTik",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
     "url": "https://tecon.cz/",
     "http_checked": false,
     "occurrences": [
@@ -29208,6 +29354,26 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3463"
+      }
+    ]
+  },
+  {
+    "url": "https://tracxn.com/d/companies/purdicom/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://tracxn.com/d/companies/purdicom/__xWiPZ6y_AdH8M4sNAUUipBZ3Oy3nHPcdGCjLEwSGV0c",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L31"
       }
     ]
   },
@@ -33543,7 +33709,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L729"
+        "locator": "L747"
       }
     ]
   },
@@ -34297,7 +34463,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L807"
+        "locator": "L825"
       }
     ]
   },
@@ -35641,7 +35807,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L899"
+        "locator": "L917"
       }
     ]
   },
@@ -36166,6 +36332,20 @@
     ]
   },
   {
+    "url": "https://www.channelfutures.com/market-trends/crown-group-completes-acquisition-of-purdicom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L34"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L147"
+      }
+    ]
+  },
+  {
     "url": "https://www.channelnews.fr/nxo-installe-son-siege-a-la-defense-156826",
     "http_checked": false,
     "occurrences": [
@@ -36240,6 +36420,16 @@
       {
         "path": "profile/A/A-105-Cisilion Ltd-英国.md",
         "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://www.city24.ge/en/tbilisi/organizations/4994/telco-systems/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L222"
       }
     ]
   },
@@ -36708,6 +36898,20 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L3593"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companiesintheuk.co.uk/ltd/purdicom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L30"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L139"
       }
     ]
   },
@@ -37951,7 +38155,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L759"
+        "locator": "L777"
       }
     ]
   },
@@ -39347,7 +39551,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L900"
+        "locator": "L918"
       }
     ]
   },
@@ -39859,7 +40063,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L861"
+        "locator": "L879"
       }
     ]
   },
@@ -41272,6 +41476,26 @@
     ]
   },
   {
+    "url": "https://www.eurodk.lv/en/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L194"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eurodk.lv/en/contacts/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L195"
+      }
+    ]
+  },
+  {
     "url": "https://www.euroele.com",
     "http_checked": false,
     "occurrences": [
@@ -41499,7 +41723,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L856"
+        "locator": "L874"
       }
     ]
   },
@@ -43754,6 +43978,30 @@
     ]
   },
   {
+    "url": "https://www.google.com/search?q=Purdicom+Cambium+WiFi+Networking+Champion+2020",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L35"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
+    "url": "https://www.google.com/search?q=tradeinn+techinn+MikroTik+CRS305",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L169"
+      }
+    ]
+  },
+  {
     "url": "https://www.gorettitechnologicalsystems.it",
     "http_checked": false,
     "occurrences": [
@@ -45775,7 +46023,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L862"
+        "locator": "L880"
       }
     ]
   },
@@ -46101,7 +46349,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L757"
+        "locator": "L775"
       }
     ]
   },
@@ -46945,7 +47193,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L937"
+        "locator": "L955"
       }
     ]
   },
@@ -47273,7 +47521,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L758"
+        "locator": "L776"
       }
     ]
   },
@@ -48716,6 +48964,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-782/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/purdicom/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L33"
+      },
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L145"
       }
     ]
   },
@@ -50389,7 +50651,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L858"
+        "locator": "L876"
       }
     ]
   },
@@ -51245,7 +51507,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L900"
+        "locator": "L918"
       }
     ]
   },
@@ -51653,7 +51915,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L863"
+        "locator": "L881"
       }
     ]
   },
@@ -51797,7 +52059,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L729"
+        "locator": "L747"
       }
     ]
   },
@@ -53599,7 +53861,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L810"
+        "locator": "L828"
       }
     ]
   },
@@ -54317,7 +54579,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L860"
+        "locator": "L878"
       }
     ]
   },
@@ -55449,7 +55711,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L940"
+        "locator": "L958"
       }
     ]
   },
@@ -55591,7 +55853,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L808"
+        "locator": "L826"
       }
     ]
   },
@@ -60162,6 +60424,16 @@
     ]
   },
   {
+    "url": "https://www.tradeinn.com/help/10.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
     "url": "https://www.trademanager.it/whoswho/listing/fiore-srl",
     "http_checked": false,
     "occurrences": [
@@ -60417,7 +60689,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L803"
+        "locator": "L821"
       }
     ]
   },
@@ -60478,6 +60750,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-874/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.trustpilot.com/review/networkdevicesinc.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-569-Network Devices-美国.md",
+        "locator": "L133"
       }
     ]
   },
@@ -61219,7 +61505,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L939"
+        "locator": "L957"
       }
     ]
   },
@@ -61877,7 +62163,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L760"
+        "locator": "L778"
       }
     ]
   },

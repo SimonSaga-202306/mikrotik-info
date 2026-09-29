@@ -2389,3 +2389,16 @@
   - 保留原文：millbeck.co.uk /contact：hello@millbeck.co.uk；Teltonika Diamond 渠道
   - [1](https://www.millbeck.co.uk/contact)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+
+<a id="B-536"></a>
+## B-536 · Tech Atlantix · 美国
+
+- 状态：**无逐项证据URL·待补证**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-1037`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-29 R58 竞品谱挖第1波
+- 官网线索（不自动背书其他字段）：techatlantix.com
+- 精确同名同国别首次入库提交：`未匹配`。
+- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 原记录URL（只做线索，不等于本次验证）：未留存
+- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

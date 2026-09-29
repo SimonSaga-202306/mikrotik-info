@@ -167,10 +167,10 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "a2d827a8001d5f8e27c5864094ccaffdadd37155c29dbff4c186350ab5d5898b",
-      "bytes": 336598,
+      "sha256": "41c21b169a65f9319fc28a53f01e83aa7fe43e38fec46f408746192da5b3824a",
+      "bytes": 363569,
       "tracked_at_scan": true,
-      "units_scanned": 20520,
+      "units_scanned": 20628,
       "unique_url_count": 1005,
       "inspection": {
         "zip_members": 24,
@@ -255,7 +255,7 @@
           {
             "name": "反向信号名单",
             "state": "visible",
-            "nonempty_cells": 17683
+            "nonempty_cells": 17791
           }
         ]
       },
@@ -1334,6 +1334,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
+      "sha256": "595348d91803cc5bb1a688c8b19e1fc376014dc32e9de6c6b8015775628052ce",
+      "bytes": 27575,
+      "tracked_at_scan": false,
+      "units_scanned": 237,
+      "unique_url_count": 23,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
       "sha256": "9cbc96cae1b76495026948a9d2442e6b968d0d87d1ded8c5dd2de900337633e5",
       "bytes": 7964,
@@ -2105,10 +2115,10 @@
     },
     {
       "path": "batch/structured_profiles_v1.json",
-      "sha256": "aed533c9ac9237070f681ec28dbd76fe8a0f8ada39dc55c1038b0f7d6e176524",
-      "bytes": 632482,
+      "sha256": "c1b1b2967df586aea9925609504a8b7a670393f91616974d87d2df1a101246aa",
+      "bytes": 634900,
       "tracked_at_scan": true,
-      "units_scanned": 23666,
+      "units_scanned": 23748,
       "unique_url_count": 233,
       "inspection": {},
       "errors": []
@@ -2345,10 +2355,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "c0213a9a90b499caa0c5b07e8dd0f666303f323fbe3dee4bc18c9a6895eb7320",
-      "bytes": 103962,
+      "sha256": "98b1e03c0005f91971f6d4c9726610906ffe4c151773f8519d0b865641f84af4",
+      "bytes": 107129,
       "tracked_at_scan": true,
-      "units_scanned": 1073,
+      "units_scanned": 1085,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -2365,10 +2375,10 @@
     },
     {
       "path": "profile/00-索引.md",
-      "sha256": "fc66cc882fd46559a017c38f2a5782e52aedd0b5475919e1ab6a8d7d8977b86a",
-      "bytes": 92011,
+      "sha256": "be1b9e4687abf1f6b9470c741584e5bb3afcc251424d0b814d39a56bee01451c",
+      "bytes": 93327,
       "tracked_at_scan": true,
-      "units_scanned": 1058,
+      "units_scanned": 1064,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -8044,6 +8054,26 @@
       "errors": []
     },
     {
+      "path": "profile/A/A-568-Purdicom-英国.md",
+      "sha256": "b97c48be2282b59e08a0d9bf531e64b4878eae6b200590dcffcdc7c24320bbf2",
+      "bytes": 18642,
+      "tracked_at_scan": false,
+      "units_scanned": 253,
+      "unique_url_count": 7,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/A/A-569-Network Devices-美国.md",
+      "sha256": "a801711bf9772dd8b778642acdc5429147f7653b1c29430b4911763d237cac7a",
+      "bytes": 16353,
+      "tracked_at_scan": false,
+      "units_scanned": 243,
+      "unique_url_count": 4,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
       "sha256": "47d2e015aa850016ab020323c4b08ca46d1c497b48e5e395c40fdfd3d52c7b15",
       "bytes": 4322,
@@ -9830,6 +9860,16 @@
       "tracked_at_scan": true,
       "units_scanned": 118,
       "unique_url_count": 3,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/B/B-536-Tech Atlantix-美国.md",
+      "sha256": "009bd01dfd28a997321dcad60ca4cacffb0190b1482f4b1e1db170d3940cadab",
+      "bytes": 3621,
+      "tracked_at_scan": false,
+      "units_scanned": 77,
+      "unique_url_count": 0,
       "inspection": {},
       "errors": []
     },
@@ -12704,6 +12744,36 @@
       "errors": []
     },
     {
+      "path": "profile/C/C-371-TradeInn-西班牙.md",
+      "sha256": "7ebf81e8b9226b3b241dd9f1e4756ab34caaf640d3462db9c8225bb1e2ff6578",
+      "bytes": 3613,
+      "tracked_at_scan": false,
+      "units_scanned": 75,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/C/C-372-EURO DK-拉脱维亚.md",
+      "sha256": "f7c971874396b3236db3b6533b1cbd2ac90cc2a1eca864dc93f4305c8c44098c",
+      "bytes": 3447,
+      "tracked_at_scan": false,
+      "units_scanned": 75,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "profile/C/C-373-Telco Systems-格鲁吉亚.md",
+      "sha256": "a8c5c93d3d1e41104cddc6a5afe0bf950313de48a381a24528abfeb89cfed2ed",
+      "bytes": 3474,
+      "tracked_at_scan": false,
+      "units_scanned": 76,
+      "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/add_batch.py",
       "sha256": "8ff0402a31b8fa1f8e0df2474d0f1e770b630c7cde89d718123080a2672ec3ba",
       "bytes": 3576,
@@ -12745,10 +12815,10 @@
     },
     {
       "path": "scripts/build_structured_profiles.py",
-      "sha256": "2b8fbc3970eabfe0767011dd7ebf2e0b3759999eff679fa679f889ab0c8ba0e7",
-      "bytes": 114813,
+      "sha256": "70ae3b248fccf822e6eca3cd09a6146065f8fb107a8f8df15d6a0e33bc45e09e",
+      "bytes": 115865,
       "tracked_at_scan": true,
-      "units_scanned": 778,
+      "units_scanned": 784,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -12805,10 +12875,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "0573f9e722418b45ae38c8a367187a539cb0366baa7e487ecdb3956f17d0c985",
-      "bytes": 34353,
+      "sha256": "e9bc50398d3efd023fc13955ca7b21de831b1c79e61604c6fdadad09fc96b3d4",
+      "bytes": 34495,
       "tracked_at_scan": true,
-      "units_scanned": 713,
+      "units_scanned": 714,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -12855,10 +12925,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "66534a0377fac0548fd155f7bc3289e5fd64dccab3755c59f2d74fb1176f6795",
-      "bytes": 81174,
+      "sha256": "ce47352a98140262347d76a9c68027546a9d942412f142101e955df016c2d75c",
+      "bytes": 82878,
       "tracked_at_scan": true,
-      "units_scanned": 1355,
+      "units_scanned": 1373,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []
@@ -12885,10 +12955,10 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "c9fb14dcc4f4e036a73b45ff65eb3d6986da440f61d35bddf2b93cfc8e09d81e",
-      "bytes": 336264,
+      "sha256": "fbd61ccc2776012c70e601badb2737789dcdbd078700fed7521f5bef17838e2a",
+      "bytes": 389433,
       "tracked_at_scan": true,
-      "units_scanned": 21400,
+      "units_scanned": 21983,
       "unique_url_count": 1005,
       "inspection": {
         "zip_members": 12,
@@ -12898,17 +12968,17 @@
           {
             "name": "A级-重点好跟进",
             "state": "visible",
-            "nonempty_cells": 12254
+            "nonempty_cells": 12732
           },
           {
             "name": "B级-慢慢跟",
             "state": "visible",
-            "nonempty_cells": 3246
+            "nonempty_cells": 3288
           },
           {
             "name": "C级-难啃",
             "state": "visible",
-            "nonempty_cells": 5846
+            "nonempty_cells": 5909
           },
           {
             "name": "说明-评级口径与打法",
@@ -12921,10 +12991,10 @@
     },
     {
       "path": "客户名单_反向信号_2026-09.csv",
-      "sha256": "8fafd56aeb18407f004c72328bf8cd295b7431bedae24aa1765533222400f1ac",
-      "bytes": 953686,
+      "sha256": "86039e7103c02267a560d9ba88761946e0559aab9be93b92110253fd1fd374ad",
+      "bytes": 958907,
       "tracked_at_scan": true,
-      "units_scanned": 17661,
+      "units_scanned": 17769,
       "unique_url_count": 1005,
       "inspection": {
         "headers": [

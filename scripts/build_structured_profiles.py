@@ -720,6 +720,12 @@ OVERRIDE = {
  'A-565': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Laufquen 西三牌专精分销（Ubiquiti/MikroTik/GLC 光纤专页+新店上线）：三牌谱旁低密窄位（$165 锚点一致）'},
  'A-566': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$165 锚点一致）'},
  'A-567': {'p1': 'STC-424DGGPM-280W', 'p1_reason': 'RIDMONT 黑山 B2B 通信分销+安装（Teltonika TSW200 banner+Ubi U7-PRO €251.53/MT L009 €129.68 在价+Extralink 16口 PoE banner；R32 小国降级注）：Extralink 谱旁对照正口（$165 锚点一致）'},
+ 'A-568': {'org': '公司/工作室（有官网）', 'model': '分销（增值分销 VAD）', 'vol': 5, 'p1': 'STC-424DGGPM-280W',
+   'needs': {'poe': True, 'industrial': True, 'tenG': True, 'l2plus': True, 'voice': False, 'oem': False, 'hotel': False, 'training': False},
+   'p1_reason': 'Purdicom 英 Oxfordshire £38–45M VAD（CIN 05361794，2005 起；Cambium 冠军 2020）：15 品牌谱交换线空（ICX=Broadcom/Cambium 被动PoE/TP-Link 散件）→ PoE++/10G 对照行+工业二轨（$165 锚点一致）'},
+ 'A-569': {'org': '公司/工作室（有官网）', 'model': '分销（独立 IT 硬件零售分销）', 'vol': 4, 'p1': 'STC-424DGGPM-280W',
+   'needs': {'poe': True, 'industrial': False, 'tenG': True, 'l2plus': True, 'voice': False, 'oem': False, 'hotel': False, 'training': False},
+   'p1_reason': 'Network Devices 美 TX Sugar Land 独立分销（2014 起 Trustpilot 4.7/44 评，10K+ 客户 50+ 国；MikroTik CRS 全谱含 CRS518/3xx 在架）：二手 Cisco 与 CRS3xx 之间全新保修对照行（$165 锚点一致）'},
 }
 
 out = {}

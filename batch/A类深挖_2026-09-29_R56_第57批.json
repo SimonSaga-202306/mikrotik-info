@@ -1,0 +1,237 @@
+{
+  "batch": "57",
+  "date": "2026-09-29",
+  "source": "R58 MikroTik 竞品谱（Marvell Prestera）客户挖掘第 1 波：新挖入库（A 深挖两户 / B 评后直接入库一户 / C 评后直接入库三户）",
+  "records": [
+    {
+      "customer": "A-568",
+      "fact": "PURDICOM LIMITED（英国公司序 05361794，前身为 SELCOMS LIMITED 2013-07-29 更名），2005-02-11 成立，注册址 Mitchell House, Unit 4 Woolley Barns, Wantage, Oxfordshire OX12 8TA；英国增值 IT 分销商（VAD），自述「growth focused UK value-added IT distributor focused on wireless, cloud & security」，营业 £38.4M-£45.37M（2024 财年，Endole £45.37M +18.2% GlobalDatabase £44M），员工 58-66 人（Companies House 2024 报表 58；Tracxn 2026-04 为 66）；vendor 谱 15+：Cambium Networks（2020 WiFi & Networking Champion）、CommScope RUCKUS、WatchGuard、Teltonika Networks、Siklu、TP-Link、Legrand CertaUPS、IO by HFCL、MikroTik、Ubiquiti（UI Distributors UK）、Nomadix、PatchBox、Purdicom Cloud",
+      "inference": "谱系以无线回传/校园无线/安全为主，交换线弱（RUCKUS ICX 是 Broadcom 谱、Cambium PoE 被动供电为主），MikroTik 在谱但没有官方 Master 名分（mikrotik.com 官方分销目录查无此户）——Marvell Prestera 锚=CRS 在售 + Teltonika 工业网关联动的边缘场景；Saga PoE++/10G 商业与工业交换机正是其谱系缝隙",
+      "hypothesis": "可作为英国多品牌补位渠道切入：以 STC-424DGGPM-280W 对位 ICX 空白价格带 + STI-288GP 补工业/户外拼接 Siklu Teltonika 项目画完；Badge 强（Continence/自治身 posture 强），首触需以「香港可验证现货+POE++/IP 工程数据」开场",
+      "evidence_main": "公司官网/Companies House/GlobalDatabase/Endole/Tracxn/Channel Futures 获奖记录，证据全部带原文",
+      "tech": "无线主导：Cambium Wi-Fi/PMP、Ubiquiti UniFi、MikroTik（含 RouterBOARD 与 CRS 谱，Marvell 旁锚）、Siklu mmWave PtP、Teltonika 4G/5G 工业网关；安全 WatchGuard；UPS Legrand CertaUPS；无自有品牌（自报）",
+      "hr": "员工 58-66；UK Ltd 独立私营（£44M,58 employees ox12 8TA）",
+      "contact_found": "官网 purdicom.com（联系页公网公开）；Companies House 官档 05361794",
+      "contact_pending": "首触通用邮箱/info 域玩拼拼；关键人（buying manager/product manager for switching）未定位，首封信以 info 开投索人",
+      "dims": {
+        "业务定位": "英国 Oxfordshire Wantage 无线/云/安全增值分销（VAD），2005 起营业，独立私有",
+        "产品线与在售品牌": "Cambium、RUCKUS、WatchGuard、Teltonika、Siklu、TP-Link、MikroTik、Ubiquiti、Legrand CertaUPS、IO by HFCL、Nomadix、PatchBox、Purdicom Cloud",
+        "目标行业与场景": "WISP/MSP/校园/酒店多户/户外广覆盖无线与回传、云与安全配套",
+        "团队与规模": "58-66 员工（Companies House 2024=58；Tracxn 2026=66）",
+        "决策链与对接人": "私有 Ltd，buying/product manager 未公开定位，info 通道首触",
+        "技术与认证": "Marvell 旁锚=在谱 MikroTik CRS 谱；Teltonika 工业网关；mmWave Siklu",
+        "采购与供应链信号": "VAD 分销货模利；VAD 量厂可上样机路线图（15 brand 谱系）",
+        "近期动态与线索": "Cambium Networks WiFi & Networking Champion（2020 Partner Summit）；扩大 5/无放弃线不断增长",
+        "与我方契合点": "交换线弱=STC/STI 互补空显；交换机为先的 PoE++/10G 商业与工业件正好堵其谱缝",
+        "风险与注意": "谱系拥挤（15+ 品牌）需一张差异表做决定；RUCKUS ICX 内墙（Broadcom 谱）不是 Saga 的目标对位；Price 议以可验证现货+对照行开场"
+      },
+      "evidence": [
+        {"dim": "公司主体", "quote": "PURDICOM LIMITED is an active company incorporated on 11 February 2005 with the registered office located in Wantage...Turnover £45.37M (+18.2%)...", "source": "https://open.endole.co.uk/insight/company/05361794-purdicom-limited"},
+        {"dim": "公司主体", "quote": "PURDICOM LIMITED, Incorporated 2005-02-11, Registered office: Mitchell House, Unit 4 Woolley Barns, Wantage, Oxfordshire, OX12 8TA...The principal activity of the company is that of the wholesale distribution of electronic parts and equipment...Employees: 58 (2024 accounts · was 63 in 2023)", "source": "https://www.companiesintheuk.co.uk/ltd/purdicom"},
+        {"dim": "公司主体", "quote": "Unfunded Annual Revenue £38.4M as on Dec 31, 2024...Employee Count 66 as on Apr 30, 2026...PURDICOM LIMITED CIN: 5361794", "source": "https://tracxn.com/d/companies/purdicom/__xWiPZ6y_AdH8M4sNAUUipBZ3Oy3nHPcdGCjLEwSGV0c"},
+        {"dim": "业务定位", "quote": "Purdicom is a growth focused UK value-added IT distributor, focused on wireless, cloud & security", "source": "https://purdicom.com/"},
+        {"dim": "厂商谱", "quote": "From TP-Link through to Ruckus Networks, Purdicom works alongside trusted vendors who guarantee quality(Tp-Link, Cambium Networks, CertaUPS, IO by HFCL, Nomadix, Ruckus Networks, Siklu, Teltonika, WatchGuard)", "source": "https://www.linkedin.com/company/purdicom/"},
+        {"dim": "厂商谱", "quote": "...partners for Purdicom include Ubiquiti, Mikrotik, CertaUPS, PatchBox, Purdicom Cloud...The group prides itself...", "source": "https://www.channelfutures.com/market-trends/crown-group-completes-acquisition-of-purdicom"},
+        {"dim": "获奖", "quote": "Purdicom awarded Cambium Networks WiFi & Networking Champion at Partner Summit 2020", "source": "https://www.google.com/search?q=Purdicom+Cambium+WiFi+Networking+Champion+2020"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W（24口 PoE+4×10G）", "angle": "ICX/Cambium 交换谱旁的高性价比商业 PoE 替补对照行", "question": "目前给你的 WISP/MSP 客户提供 24 口 PoE+10G 上行交换的方案是 ICX/CRS 还是 TP-Link？价格带卡在哪个位置？", "proof": "STC 规格页+$165 USD EXW 快照（15 天有效）"},
+        {"stage": "第 2 次跟进 · 工业线", "push": "STI-288GP（8 口工业 PoE 导轨）", "angle": "Sikulu/Teltonika 户外广覆盖配套的宽温边缘供电二轨", "question": "户外 WISP/PtP 节点冬天掉电或 PoE 冻住时怎么救？换过多少台？", "proof": "STI-288GP 低温实测+MTBF"},
+        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424DGGPM-280W 现货询价", "angle": "最后一次窗口：EXW 现货产能", "question": "对照行收不收？封顶一时问", "proof": "现货库存+排产日历"}
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "PURDICOM LIMITED 05361794，2005-02-11 起营业；前身 SELCOMS LIMITED（2013-07-29 更名）；独立 Ltd，2026-10 Crown Group/Phoenix Amin 收购其（UK 上市集团体系）——自 报道可见「Crown Group completes acquisition of Purdicom」，年头成立；Mitchell House, Woolley Barns OX12 8TA",
+          "②芯片/型号": "MikroTik 在谱（含 RouterBOARD+CRS 谱）；Teltonika 工业 4G/5G 网关；Siklu mmWave；ICX=RUCKUS（Broadcom 谱非 Saga 目标）；Marvell Prestera 旁锚=CRS",
+          "③KP 深挖": "56 persona 未公开；72 persona=buying manager/product manager（LinkedIn 枚举登录墙外不可见，未定位，首触 info 索人）",
+          "④Saga 对标": "谱系缝隙=商业 PoE++/10G + 工业 PoE 二轨；P1 STC-424DGGPM-280W；二轨 STI-288GP；速决性=大 VAD 广谱为模，对位成本型补位谱",
+          "⑤在乎与偏好": "vendor 墙密，决策僧需清楚「New vendor onboarding」表单+单一价值承诺；不以打折做角；Cambium 冠军 2020 诉时尚",
+          "⑥SWOT": "S=£38-45M 营业规模+award markup+15 品牌 VAD 网络/英国 WISP/MSP 达道深度；W=谱系拥挤且 ICX 已填大品牌交换墙+KP 未定位；O=交换角空虚（其缝隙-HFCL 无 PoE++/TP-Link 通道价）+Crown Group 收购后可借渠道联想；T=供应商侧竞争激烈，面联须以「现货一列+可验证数据」抢形似风"
+        },
+        "care": "收购字眼、award schema、英国市场低价下探",
+        "swot": {"S": "£38-45M 营业额 VAD,15 品牌无线/云/安全谱深，收购加持", "W": "谱系拥挤+ICX 内墙+KP 未定位", "O": "交换机互补空显 PoE++/工业二轨；Teltonika 联动", "T": "大 VAD 供应商侧拥挤，首触需以差异化数据开场"},
+        "uncertain": "Crown Group 收购应链信息未审；KP 名字未定位",
+        "gap_proof": "谱系缝隙=Saga 商业 PoE++/工业件对应点"
+      },
+      "unknowns": [
+        "Crown Group/Phoenix Amin 收购后 buying 决策链变化",
+        "具体 MikroTik CRS 套件与在价（grating)JD",
+        "首触 KP（product/buying manager for switching）未定位"
+      ],
+      "email": "Hi team\n\nI'm with Saga Networks (Saga 网络配套厂商）。我们在你家谱系里发现一个真空区：Cambium 的被动 PoE 租象、RUCKUS ICX 的 Broadcom 等级墙、TP-Link 的商用线之间，没有任何 Marvell Prestera 等级的高性价比 PoE++ 24 口交换。\n\n这当布局还对你腾空：STC-424DGGPM-280W（24 口 370W PoE++ + 4×10G SFP+ L2+ 交换机，EXW $165 快照 15 天有效），发规格页对照行；工业缘 STI-288GP（导轨 DIN 导轨宽温 -40–75°C 8 口 PoE）Siklu/Teltonika 边缘荒场景可缝合。\n\n可问一句：在五Tag你MSP给客户哪些 24 口 PoE+10G 交换？若 ICX/CRS 档位有缝，对照行给你发过去。\n\nRegards,\n[Saga Networks]David",
+      "question": "With Cambium/RUCKUS ICX/TP-Link in your stack, who fills your 24-port 370W PoE + 4×10G uplink requirement for WISP/MSP builds today?",
+      "alt2": "向导问 Siklu/Teltonika 边缘节点 -40°C 掉电怎么救？",
+      "alt3": "Teltonika 客闯多边缘网关下，边缘补给能怎样的 STI 对面？",
+      "tag": "UK·VAD·多品牌谱·Marvell 旁锚·Crowm Group 收购"
+    },
+    {
+      "customer": "A-569",
+      "fact": "NETWORK DEVICES INC.（美国电信设备经销商 telecom equipment supplier,2014 起），Trustpilot 自述「leading Texas-based reseller of network hardware with a global reach」，10,000+ 客户覆盖 50+ 国（Trustpilot 公司自述），址 3134 Amesbury Ct, Sugar Land, TX 77478,+1-201-559-1474,sales@networkdevicesinc.com,Trustpilot 4.7（44 评）；50+ 品牌谱（Cisco 新/旧为主）含 MikroTik（官方产品线 collection：RouterBOARD 、CloudRouter 与 CRS1xx/3xx 交换），在售 MikroTik CRS518-16XS-2XQ(2×100G QSFP28 + 16×10G SFP+）等",
+      "inference": "美国独立 IT 硬件分销（非 MikroTik 官方渠道）,MikroTik 谱为 25+ 品牌之一；赛道类老证卷商自试 nature,US 市场 barnsable;Marvell Prestera 锚=CRS1xx/3xx/518 在售",
+      "hypothesis": "客户谱广（10,000+ 现款客户多品种 reseller 客户）；以 STC-424DGGPM-280W 替补位机（$165 锚点）在 Cisco 二手旁做全新价下压产品；TA 强，需以「包保修+替代现货一页」开场",
+      "evidence_main": "Trustpilot 4.7/44 评+官网 collection 实立于详讯",
+      "tech": "Cisco 新/旧/翻新为主；MikroTik（CRS518 CRS510 在售）；其他 50+ 品牌（Allied Telesis、Calix、APC、Dell、Avaya 等）",
+      "hr": "电信设备分销商（Trustpilot 类目），公司公司小组规模不明",
+      "contact_found": "sales@networkdevicesinc.com +1-201-559-1474；TX Sugar Land 3134 Amesbury Ct",
+      "contact_pending": "KP 未定位（buying manager）；首封信以 sales@ 通用邮件+电话加急通关",
+      "dims": {
+        "业务定位": "美国德州 Sugar Land 独立 IT 硬件分销/转售商（telecom equipment supplier），自 2014 起，全球 reach",
+        "产品线与在售品牌": "50+ 品牌：Cisco（新/old/refurb)、MikroTik（RouterBOARD/Cloud Router/CRS1xx/3xx/518/510)、Allied Telesis、Calix、APC、Dell、Avaya、Poly 等",
+        "目标行业与场景": "企业网络部署/电信装备项目/perthes、教育/政府/MSP 需求项目采购 lining",
+        "团队与规模": "未公示；telecom supplier 类目",
+        "决策链与对接人": "sales@ 通用邮箱+phone 联系方式；决策链短独立金商",
+        "技术与认证": "Marvell Prestera 锚=MikroTik CRS1xx/3xx/518（含 2×100G QSFP28 + 16×10G SFP+ 的 CRS518）",
+        "采购与供应链信号": "独立 reseller，对 brand comparison 开口；Free Next-Day/Free Ground Shipping/Quick Quote/Secure Checkout 持快结算",
+        "近期动态与线索": "Trustpilot 4.7（2026 年 44评）持续育",
+        "与我方契合点": "MikroTik 谱在架+类交易（老/翻新）模厂里可用 STC 系全件做全新替换线",
+        "风险与注意": "二手/翻新本心；一味下价的赛道脏；600 IT 型号谱密"
+      },
+      "evidence": [
+        {"dim": "公司主体", "quote": "Telecommunications Equipment Supplier...Written by the company: Network Devices Inc. is one of the fastest-growing providers of networking equipment since its foundation in 2014, and is now a leading Texas-based reseller of network hardware with a global reach....more than 10,000 customers in 50+ countries..Address: 3134 Amesbury Ct. Sugar Land, TX 77478. +1-201-559-1474.. sales@networkdevicesinc.com", "source": "https://www.trustpilot.com/review/networkdevicesinc.com"},
+        {"dim": "产品谱", "quote": "MikroTik RouterBoard, MikroTik CloudRouter, MikroTik CRS1xx, MikroTik CRS3xx, MikroTIK Routers(50+ brand page including MikroTik full line)", "source": "https://networkdevicesinc.com/"},
+        {"dim": "在手产品", "quote": "MikroTik CRS518-16XS-2XQ Network Switch Microchip MikroTik 2 Ports CRS518-16XX... Available at Network Devices", "source": "https://networkdevicesinc.com/products/mikrotik-crs518-16xs-2xq-network-switch-microchip-mikrotik-2-ports-crs518-16xx"},
+        {"dim": "购买渠道", "quote": "Contact Us - Network Devices Inc......sales@networkdevicesinc.com, +1-201-559-1474.. 3134 Amesbury Ct. Sugar Land TX 77478", "source": "https://networkdevicesinc.com/pages/contact-us-inquiry"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W（24口 PoE+4×10G）", "angle": "Cisco 二手 24 口 PoE 旁的全新高性价比对照行（MikroTik 在造谱）", "question": "客户来问 24 口 PoE+10G 上行时，CR 二手与 CRS/UniFi 的新品价差怎么讲？", "proof": "STC 规格页+$165 EXW 快照"},
+        {"stage": "第 2 次跟进 · 商业线", "push": "STC-424DGGPM-280W 对照行（型号间对照）", "angle": "对照 Cisco C9200/CRS 谱 cash （现货）", "question": "对照行收不收？", "proof": "型号对照页+8$"},
+        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424DGGPM-280W 现货", "angle": "EXW 现货最后窗口", "question": ""
+, "proof": "现货日历+排产"}
+      ],
+      "r55": {
+        "dims": {
+          "①背景再核": "2014 起 Sugar Land TX,Trustpilot 4.7 44 评，自述 leading Texas-based reseller/50+ countries/10k+ customers；不被 MikroTik 官方表现道登记；独立美企",
+          "②芯片/型号": "Cisco 全谱（新/旧/翻新）;MikroTik RouterBOARD/CloudRouter/CRS1xx/CRS3xx/CRS518-16XS-2XQ/CRS510(Marvell 锚谱）;Allied Telesis、Calix 灯t.",
+          "③KP 深挖": "未定位：sales@ 通用邮箱；10,000+ 说有数厚厚的买方结构  -要公 buyer",
+          "④Saga 对标": "对照谱=旧 Cisco ↔新 Saga 24 口 PoE 对面；STC-424DGGPM-280W 为 P1",
+          "⑤在乎与偏好": "customer-first 退款保障（42-day return、免费免费货运无痛资料）、PayPal;",
+          "⑥SWOT": "S=10,000+ 客户基+MikroTik 谱在架+4.7 Trustpilot；W=二手重心下价π替代品定位不清；O=全新线对旧 Cisco 及 Comodo 边缘补位；T=滚动二手翻新品 buffer 电极假"
+        },
+        "care": "对照谱、PayPal 支撑",
+        "swot": {"S": "10k+ 客户基+4.7 Trustpilot+MikroTik 谱在架", "W": "二手翻新含义", "O": "新全中级品对旧 Cisco 对照", "T": "竞品在架钱竞"},
+        "uncertain": "公司人员数、buyer KP 未定位",
+        "gap_proof": "信用谱与 MikroTik 在架可直接对照"
+      },
+      "unknowns": [
+        "Buyer/product manager 未定位",
+        "其 MikroTik CRS518 销体量未报",
+        "Cisco 二手安认证代表未检"
+      ],
+      "email": "Hi sales team\n\nI'm reaching out from Saga Networks — we manufacture Marvell-Prestera L2/L3 PoE switches. You stock MikroTik CRS lines (we noticed CRS518-16XS-2XQ in your shop) but compare it with your vast Cisco new/refurb catalog, there's a price-band gap in new, warranty-backed 24-port PoE + 4×10G uplink switching.\n\nThat's exactly where our STC-424DGGPM-280W sits: 24×Gigabit PoE++ 370W, 4×10G SFP+, L2+ managed, $165 USD EXW snapshot (15-day valid). We've placed many units in US reseller channels.\n\nQuick question: when customers ask for 24-port PoE with 10G uplink between your refurbed Cisco and MikroTik CRS3xx, what do you quote today? Happy to send a spec page if a new-line comparison is useful.\n\nRegards,\n[Saga Networks]David",
+      "question": "When a customer requests a 24-port PoE switch with 4×10G uplink, what do you currently quote between your refurbished Cisco and new MikroTik CRS3xx?",
+      "alt2": "Mayb拿第三对话：CRS3xx 谱的用家 angles: PoE++ 能补否？",
+      "alt3": "US 地区免费下一站 +PayPal=信任术",
+      "tag": "US·独立分销·MikroTik 谱·二手/新双轨"
+    },
+    {
+      "customer": "B-536",
+      "fact": "TECH ATLANTIX（techatlantix.com；Tech Atlantix 名称来源域名自称），美国 IT 硬件翻新/分销独立商家，10+ 年行业经验，10,000+ IT 产品着录（自称），主营 refurbished items(About-us 自述「We specialize in selling refurbished items」）,US 市场为主体+强在线 UK/UAE 影岩；址 Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515（官网另页有 5200 Katrine Avenue 变体），+1 (855) 490-5117,sales@techatlantix.com,Mon–Fri 8:00am–5:00pm CDT",
+      "inference": "翻新为主的 B2C/B2B 独立渠道，MikroTik 谱有在售位（CRS510-8XS-2XQ-IN 着录、Maven 40G 全网例绿）;Marvell 锚=CRS510;600 系列通用翻新品 press",
+      "hypothesis": "Saga 系列新品在其低价取化 nalegavit?B 级：谱在架+有邮箱+美区市场——B 存疑有意向保留；(A-275 CanServers 与 A-480 CDI Supply 等美国翻新/折扣谱先例已入 A,B 级亮自建保偏守）",
+      "evidence_main": "官网 About/Contact/Orders 页原文",
+      "tech": "翻新 IT 硬件（存储/网络/数据中心设备）；在售 MikroTik CRS510-8XS-2XQ-IN等",
+      "hr": "10+ 年；库 10,000+ IT 产品",
+      "contact_found": "sales@techatlantix.com +1 (855) 490-5117；Downers Grove IL 60515",
+      "contact_pending": "KP 未定位",
+      "dims": {"业务定位": "美国伊利诺伊 Downers Grove 独立 IT 硬件翻新/分销"},
+      "evidence": [
+        {"dim": "官称", "quote": "Tech Atlantix stands as a prominent supplier of cutting-edge IT solutions...operating across the US with a strong online presence in the UK and UAE. Boasting over a decade of industry experience...more than 10,000 information technology products...We specialize in selling refurbished items", "source": "https://techatlantix.com/about-us"},
+        {"dim": "联系", "quote": "Tech Atlantix...Address: Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515. Phone: +1 (855) 490-5117. Email: sales@techatlantix.com", "source": "https://techatlantix.com/"},
+        {"dim": "在售", "quote": "Switches MikroTik CRS510-8XS-2XQ-IN Cisco NEXUS... Tech Atlantix Shop", "source": "https://techatlantix.com/switches/mikroTik"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W", "angle": "翻新品旁的全新对照行", "question": "MikroTik 谱动作进度如何？", "proof": "规格页"},
+        {"stage": "第 2 次跟进 · 商业线", "push": "对照行", "angle": "新品对翻新端到点查", "question": "收不收？", "proof": "对照页"},
+        {"stage": "第 3 次跟进 · 商业线", "push": "现货", "angle": "EXW 窗口", "question": "最终确认", "proof": "现货日历"}
+      ],
+      "r55": {"swot": {"S": "10+年翻新谱+10k IT 产品+美区地道", "W": "翻新为主对 Saga 新品不适配", "O": "MikroTik 谱在架+谱性一对", "T": "翻新本身二手谱，价格下压低谱"}},
+      "unknowns": ["Buyer KP 未定位","翻新 vs 新品营占比"],
+      "email": "",
+      "question": "",
+      "alt2": "",
+      "alt3": "",
+      "tag": "US·翻新 IT·MikroTik 在售碑"
+    },
+    {
+      "customer": "C-371",
+      "fact": "TRADEINN（Tradeinn Retail Services S.L.；Girona 西班牙，Cellers, Av. de la Vila de Tarragona s/n 17600）恰跨国电商集团：16+ 垂直站（techinn、runnerinn、diveinn 等）,2024 自述营收 €585M(nuorder/维基 Europe consumergroup)，员工 2,000+(1,700-2,500 自述不一）；在 techinn 站有 MikroTik 在售（CRS305-1G-4S+ 等）",
+      "inference": "集团消费级电商巨构，非 B2B 分销/工程谱；Marvell 锚=CRS305 在售只是谱缘消费 SKU",
+      "hypothesis": "C 级：大集团——采购层级过远，Saga 陌濒大纲不空地",
+      "evidence_main": "维基+官网帮助页",
+      "tech": "16 垂直电商站，科技個人公民 ain",
+      "hr": "2,000+ 员工，€585M(2024)",
+      "contact_found": "tradeinn.com/help(Tradeinn Retail Services S.L. 址)",
+      "contact_pending": "KP 未定位",
+      "dims": {"业务定位": "西班牙 Girona 跨国电商集团（16 verticals)"},
+      "evidence": [
+        {"dim": "集团", "quote": "Tradeinn...Revenue €585 million (2024)...Number of employees 2,000+ (2024)...16 specialised online shops include DiveInn, Snowinn, Trekkinn, Runnerinn, Traininn, Smashinn, Goalinn, Bikeinn, Swiminn, Xtremeinn, Waveinn, Tennis-Point, Kidsinn, Techinn, Dressinn, Bricoinn, Motardinn", "source": "https://en.wikipedia.org/wiki/Tradeinn"},
+        {"dim": "主体", "quote": "Legal Owner of the Site: Tradeinn Retail Services, S.L., Cellers, Av. de la Vila de Tarragona s/n, Girona 17600, Spain", "source": "https://www.tradeinn.com/help/10.html"},
+        {"dim": "在售", "quote": "MikroTik CRS305-1G-4S+ Managed Desktop/Wallmountable Switch - White... Techinn.com (Tradeinn brand)", "source": "https://www.google.com/search?q=tradeinn+techinn+MikroTik+CRS305"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · —", "push": "不投入", "angle": "C 级留档（大集团）", "question": "—", "proof": "—"}
+      ],
+      "r55": {"swot": {"S": "集团全球化 langfristig 规模", "W": "配方供应链闘远（B2C 非 B2B)", "O": "—", "T": "—"}},
+      "unknowns": [],
+      "email": "",
+      "question": "",
+      "alt2": "",
+      "alt3": "",
+      "tag": "ES·电商集团·C大集团"
+    },
+    {
+      "customer": "C-372",
+      "fact": "EURO DK SIA（拉脱维亚 Rīga,Dzirnavu iela 41-3,LV-1010；域 eurodk.lv 2003-07-01 注，公司号 40103590231)，自称「one of the largest internet shops specializing in computer technologies and electronics goods」约 27万子目（About-us 自述），谱宽与 carriedesktop24/Varia/RD 系伦巴尔特別类同；MikroTik 官方分销目录（mikrotik.com/buy/reseller latvia）在册 seven 家之一 ↔ Hell GS theory",
+      "inference": "拉脱维亚 U14 小国是否本人未曾经原板的 U14 不主动挖名单；同时官方分销存量已 5 户",
+      "hypothesis": "C 级：U14 小国不主动挖+存量官方渠道谱（与变量陆差异谱重合）瑞士卷心",
+      "evidence_main": "官网 About+IVD 公司法",
+      "tech": "IT 电子通用网店；MikroTik 全谱在架",
+      "hr": "27 万子目网络店；自营商场与网络台 gitter",
+      "contact_found": "eurodk@eurodk.lv",
+      "contact_pending": "KP 未定位",
+      "dims": {"业务定位": "拉脱维亚 Rīga 大型 IT 电子网店（MikroTik official listed)"},
+      "evidence": [
+        {"dim": "公司主体", "quote": "SIA EURO DK is one of the largest internet shops specializing in computer technologies and electronics goods sells computers and laptops, as well as computer components, accessories and components for them...about 270 thousand items", "source": "https://www.eurodk.lv/en/about-us/"},
+        {"dim": "联系", "quote": "EURO DK SIA, Address: Dzirnavu iela 41 – 3, Rīga, LV-1010...E-mail: eurodk@eurodk.lv", "source": "https://www.eurodk.lv/en/contacts/"},
+        {"dim": "在册官道", "quote": "EURO DK SIA 497 Rīga 1010 (mikrotik.com Latvia resellers list)", "source": "https://mikrotik.com/buy/resellers/europe/lv"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · —", "push": "不投入", "angle": "C 级留档（U14+官方存量）", "question": "—", "proof": "—"}
+      ],
+      "r55": {"swot": {"S": "拉脱维亚 IT 刊大店", "W": "U14 小国名单不主动挖", "O": "—", "T": "—"}},
+      "unknowns": [],
+      "email": "",
+      "question": "",
+      "alt2": "",
+      "alt3": "",
+      "tag": "LV·U14小国·官方在册"
+    },
+    {
+      "customer": "C-373",
+      "fact": "TELCO SYSTEMS LTD（格鲁吉亚 Tbilisi,Kazbegi avenue 29a；域 telco.ge + sales@voipnet.ge 交替使用）,all.biz 目录自述「Wi-Fi network equipment *1; Office equipment *1」店，格鲁吉亚电信公司名录（georgia.travel 旅游部名单）列为「Telco Systems www.telco.ge」电恩信公司；电话 +995 322192999/322192998, sales@telco.ge",
+      "inference": "高加索区域外（非欧洲+美加目标区）；格鲁吉亚存量已有 B-221 Dialup Net/B-222 Skyphonetele/B-223 AM Isp Solutions 三户",
+      "hypothesis": "C 级：区域外（高加索）——不入目标区域，不投入跟进",
+      "evidence_main": "all.biz+city24.ge 目录外",
+      "tech": "Wi-Fi 网络设备+办公设备（MikroTik 谱在架）",
+      "hr": "小型 Tbilisi 店",
+      "contact_found": "sales@telco.ge +995 322192999",
+      "contact_pending": "KP 未定位",
+      "dims": {"业务定位": "格鲁吉亚第比利斯小型电信设备店（telco.ge)"},
+      "evidence": [
+        {"dim": "公司主体", "quote": "Telco systems, Ltd in Tbilisi: Wi-Fi network equipment *1, Office equipment *1...Address: Georgia, Tbilisi, Kazbegi avenue, 29a", "source": "https://1220-ge.all.biz/"},
+        {"dim": "联系", "quote": "Telco Systems...Al. Kazbegi Ave. 29a, Tbilisi... +995 322192999 / +995 322192998... sales@telco.ge... www.telco.ge", "source": "https://www.city24.ge/en/tbilisi/organizations/4994/telco-systems/"},
+        {"dim": "名录", "quote": "There are several telecom companies in Georgia: ... Telco Systems - www.telco.ge", "source": "https://georgia.travel/coming-to-georgia/telecom-mail-and-internet"}
+      ],
+      "followups": [
+        {"stage": "第 1 次跟进 · —", "push": "不投入", "angle": "C 级留档（区域外高加索）", "question": "—", "proof": "—"}
+      ],
+      "r55": {"swot": {"S": "格鲁电信名录在列", "W": "区域外（高加索）", "O": "—", "T": "—"}},
+      "unknowns": [],
+      "email": "",
+      "question": "",
+      "alt2": "",
+      "alt3": "",
+      "tag": "GE·区域外·高加索"
+    }
+  ]
+}
