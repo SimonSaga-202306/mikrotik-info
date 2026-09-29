@@ -11848,12 +11848,12 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "nl",
-  "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Ningaloo 荷 Maurik 1996 本地 MSP+MikroTik 顾问 Rogier Banis（MTCRE/MTCINE 电话双核）：顾问+托管双窄针（$165 锚点一致）；诚实角",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
-   "STI-288GP"
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -11891,8 +11891,8 @@
    "一人/个体=单点与节奏风险"
   ],
   "lang": "nl",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "IP Central 荷 MikroTik 顾问 Roelof Daleboudt（AS207942；2025-08 并入 NiceCloud 注）：个人箱窄针（$165 锚点一致）；Ruckus/HP-E 栈共存句",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -12368,12 +12368,12 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$165 锚点一致）；地方政府/K12 守界句",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -13724,7 +13724,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Davis-Ulmer 美消防安防集团（life safety：报警/喷淋/安防/AED）：表单+电话唯一无邮箱——建档不出信；用户补邮箱→启用候选供位",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -14215,11 +14215,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Shea Electric 美 WI 工商电工承包商（CCTV/门禁/网络随单；CSV: N-Tron/Red Lion 渠道价差注）：项目 value PoE 随单正口（$165 锚点一致）；alt STI-288GP",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -14503,7 +14503,7 @@
   "risk_flags": [],
   "lang": "es",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Deinta Seguridad 西 Zaragoza 内政部认证安保集成商（Almand 自研+24/7 维护+ISO 9001/14001）：多址项目随单（$165 锚点一致）；Axis/AT 旁前句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -14543,12 +14543,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "es",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "CONSULT-OEM",
+  "p1_reason": "Nexus Networks 马耳他（更正： roster 原标西班牙）小团 vendor-independent（MikroTik mt 徽标在墙+全国唯一顾问 Johann MTCSWE）：顾问对照窄针（$165 锚点一致）；government 守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
-   "STI-288GP"
+   "STC-28DGGPM",
+   "STC-424DGGPM-280W"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -14584,12 +14584,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Atlantik Elektronik 德 40 年 B2B 分销 ODM（Lantronix 授权+design-in）：私营工业边缘段（AGV/充电/零售/场站监控）二轨窄位（$165 锚点一致）；政府/关键基建守界句",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -16263,7 +16263,7 @@
   "risk_flags": [],
   "lang": "fr",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Evelem 法 Meudon 集成商（Meraki 旗舰+Cambium EX3000 展示+Small Business 板块）：SMB 段二轨窄位（$165 锚点一致）；Meraki/Cambium 旁前句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -16344,11 +16344,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "EDV-Partner 汉堡 31 年 MSP（LANCOM+AT 双 Platinum+ISO27001/NIS2/KRITIS 审计）：私营 KMU 二槽窄针（$165 锚点一致）；KRITIS+双白金守界；Oberhausen 同名勿合并注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -16467,12 +16467,12 @@
   "volume_potential": 4,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Powertech Controls 美 1991 自动化电商大分销（Ethernet Switches 类目+Hirschmann 授权）：类目内替补窄位（$165 锚点一致）；Hirschmann 旁前句",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -16551,11 +16551,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Holker IT 英 Burnley 托管 MSP（CSV: AT Platinum+UK PoY）：托管现场 value 二槽窄位（$165 锚点一致）；Platinum 旁守界前句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -16806,7 +16806,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "3TEC 英 2012 Network|UC|Security 转售商（AT 在墙）：有站无邮箱——建档不出信（参照 A-205/A-212 先例）；用户补邮箱→启用候选供位",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -16846,11 +16846,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "ACC Yotta 英应用方案屋（自有 DC+AT 专区）：私营段（酒店/零售/法律金融）二槽窄位（$165 锚点一致）；航空防务证言守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -17102,11 +17102,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Trusol 英 25 年教育/休闲/企业整合安装商：私营段（健身/会议/企业）随单正口（$165 锚点一致）；公立学校守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -17186,11 +17186,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "en",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "European Electronique 英大 SI 近30年（Aruba Platinum+Fortinet Expert+教育公共浓）：私营商业段窄针（$165 锚点一致）；双守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -17228,7 +17228,7 @@
   "risk_flags": [],
   "lang": "en",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Quadratek 英 since 1997（官网 RMAS/MoD 防务案例核心）：国防红线建档不出信（批15先例同族）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -17641,11 +17641,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "AlphaCron 德图林根系统屋（自有 DC+DSL/Funk 接入+汽车厂支持+LWL/监控）：自用+客户双角窄位（$165 锚点一致）；Marc Pauls 具名",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -18215,11 +18215,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Berg-Duda 德 2000 个体 EDV 店（GF Sebastian 具名）：SMB 随身窄位低密（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -18461,11 +18461,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "H&M electronics 德 Dillingen 30 年通信店（Terra Partner+Securepoint+Unify/Agfeo）：SMB 电话/网络 Voice VLAN 随件（$165 锚点一致）；实体名 OHG/GbR 双形注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -18626,7 +18626,7 @@
   "risk_flags": [],
   "lang": "de",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "INSEID 德 Burgwedel 25 年 SMB 系统店（**Hirschmann Kompetenz-Center 资质**+Intel/Synology Gold+工业监控规划）：SMB 件+工业线双角（$165 锚点一致）；alt STI-288GP",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -18953,11 +18953,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Merlin EDV 德 Erlangen 30 年 MSP+Industrielösungen（LTB/EOL/真伪鉴别/Kits/JIT/报关）：供应链服务通道角度强对口（$165 锚点一致+EOL 逻辑）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -19857,11 +19857,11 @@
    "教师红线：不打学员名单、不经培训语境推销"
   ],
   "lang": "fr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "BlueBearsIT 法里昂 MSP TPE/PME（infogérance 三地+Qualiopi 培训注）：托管现场随单（$165 锚点一致）",
   "first_question": "Which switch do you currently put on the bench for the VLAN/PoE lab demos?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -19898,11 +19898,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "fr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "CFI Groupe 法 Saint-Denis 知名多行业集成商（Éducation/Retail/Santé/Smart office/Smart city）：私营板块窄位（$165 锚点一致）；教育/智慧城市守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -19939,11 +19939,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "fr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Delta Sertec 法马赛楼宇智能集成商（WiFi 点位/视频监控/门禁/布线四省覆盖）：楼宇项目 PoE 随单正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -20022,7 +20022,7 @@
   "risk_flags": [],
   "lang": "fr",
   "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "GTD International 法 GTD 集团子司（官网自宣 défence/spatial/transports/publics 四赛道居首）：国防/航天红线建档不出信（批15先例同族）",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20063,7 +20063,7 @@
   "risk_flags": [],
   "lang": "fr",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "ITNI 法 Saint-Denis（CSV: AT Integrate Elite 三证；官网壳页+先电话反诈规则）：低信号窄针（$165 锚点一致）；薄证注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20103,11 +20103,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "fr",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "NXO 法超大集成/运营商（SOC aaS+Linkernet 运营+总部迁 Puteaux；CSV: AT Integrate Elite）：商业客户长尾窄针（$165 锚点一致）；公共段守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -20145,7 +20145,7 @@
   "risk_flags": [],
   "lang": "fr",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "SYNEXIE 法 Toulon 安全屋（硬件分销服务在营；Naval Group/部委信任墙）：VSB/SME 私营硬件段窄位（$165 锚点一致）；军工公共守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20227,7 +20227,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "Adrianet 意 Bari 布线监控装维店（官网 Dati 栏明写 Switch L2/L3 多牌 Zyxel/ATI/Cisco/Netgear/DLink；2025 转 SRL 扩张注）：项目随单正口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20350,7 +20350,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "CGT Elettronica 意 Roma 1985（官网 History 自述核电站咨询+Rome-Naples 铁路列控+政府合作）：核/铁路/政府关键基建红线建档不出信（批15先例同族）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-424DGGPM-280W",
@@ -20393,7 +20393,7 @@
   ],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "CAMELI SAT 意 Donoratico（AT 名录主体；camelisat.it HTTP500+无邮箱）：建档不出信（站挂型同 Young 先例）；用户补邮箱→启用候选供位",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20599,11 +20599,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "DPS Informatica 意 Fagagna 1986 本地店（MEPA 注册+PMI/事务所/私人）：私营段窄位（$165 锚点一致）；MEPA 守界句",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -20682,7 +20682,7 @@
   "risk_flags": [],
   "lang": "it",
   "p1": "STC-424DGGPM-280W",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1_reason": "EULOGIC NT 意 Bari SOC 大屋（60+专家 H24；伙伴墙 Ubiquiti+Allied Telesis）：项目 bundle 二轨窄位（$165 锚点一致）；A-215 SIM NT 同族错峰注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
    "STC-28DGGPM",
@@ -20886,11 +20886,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "GCI 意 Milano 维修服务厂（post-warranty 现场+100×100 白标通道）：备件池窄位窄针（$165 锚点一致，低密）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21009,12 +21009,12 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "I&SI ingesw 意 Roma/Aprilia 1984 complex-systems 工程商（SA8000/ISO27001；薄站+域内邮箱三源核）：低密窄针（$165 锚点一致）；薄证注",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -21091,12 +21091,12 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STI-288GP",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Irene srl 意 Genova 1991 工业嵌入式 IT（Industrial Networking/Navale/Radiflow；Advantech/EKS/AT/DELL EMC 墙）：工业网络二轨+海事双角强对口（$165 锚点一致）；alt STI-288GP",
   "first_question": "Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?",
   "alternates": [
    "STC-28DGGPM",
-   "STC-424DGGPM-280W"
+   "STI-288GP"
   ],
   "stage": "00-researched",
   "struct_version": "v2",
@@ -21257,11 +21257,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "MLS 西西里 30 年 Network Management+安全专屋（自有 DC+ISO 9001/27001；伙伴墙无网络厂牌=接入层空位）：托管网络换代随单强口（$165 锚点一致）",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -21380,11 +21380,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "it",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "Net Engineering Srl 意三区网络工程集团 31 年（5000 客户/50 人/300 城；监控/VoIP/视频/VoIP 工程）：项目随单正口（$165 锚点一致）；实体名 Srl 订正注",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",
@@ -22286,11 +22286,11 @@
   "volume_potential": 3,
   "risk_flags": [],
   "lang": "de",
-  "p1": "STC-28DGGPM",
-  "p1_reason": "主场景匹配+首触只推一个型号的纪律",
+  "p1": "STC-424DGGPM-280W",
+  "p1_reason": "IT-TRUST 奥小型服务商（DNS 失败+FirmenABC 在营档 UID ATU62644115）：在营试验低密针（$165 锚点一致）；勿判 DEAD",
   "first_question": "How many PoE ports does a typical site of yours need today?",
   "alternates": [
-   "STC-424DGGPM-280W",
+   "STC-28DGGPM",
    "STI-288GP"
   ],
   "stage": "00-researched",

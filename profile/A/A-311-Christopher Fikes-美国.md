@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: true, oem: false, hotel: false, training: true}
-p1: STC-28DGGPM
+p1: CONSULT-OEM
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），三星重点
-- **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$165 锚点一致）；地方政府/K12 守界句；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -79,7 +79,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
 ### 第 1 次跟进 · 声明边界+商业段接入层评估位
 
@@ -130,23 +130,39 @@ updated: 2026-09-28
   > （CSV 2026-09-27 记录）官网联系页给销售 sales@fikesmedia.com、支持 support@、+1 409.877.4220；official-company
   > 来源：https://www.fikesmedia.com/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：US TX MikroTik 顾问双身份（官网+CSV 双核）
+- **②芯片/型号**：MikroTik 生态
+- **③KP 深挖**：sales@
+- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **⑤在乎与偏好**：function-first 中立/降本
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
+  > It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
+  > 来源：https://www.fikesmedia.com
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$165 锚点一致）；地方政府/K12 守界句 |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
+- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：有明确交换/供电需求（交换专长），三星重点
-- **W**：教师红线：不打学员名单、不经培训语境推销
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：同频
+- **W**：公共
+- **O**：对照
+- **T**：边界
 
 ## 触达与风险红线
 
@@ -184,21 +200,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
 Hi Christopher,
 
-I came across Christopher Fikes - 集成商/顾问（MikroTik 认证）.
+'It's about function, not vendors' - and a consulting page literally named /mikrotik-consulting. Two honest notes before anything else: we build PoE switches, so your RouterOS world stays untouched, and your public-sector engagements (city, police, K12) stay on their established paths.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
+Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a comparison candidate for the access-switching layer of private-sector designs.
 
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: when your functional comparisons shortlist access switches, what does a documented value candidate have to show to be considered?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

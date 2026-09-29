@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — INSEID 德 Burgwedel 25 年 SMB 系统店（**Hirschmann Kompetenz-Center 资质**+Intel/Synology Gold+工业监控规划）：SMB 件+工业线双角（$165 锚点一致）；alt STI-288GP；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -126,11 +126,27 @@ updated: 2026-09-28
   > （Impressum 正文）INSEID - Ingo Seidenberg · IT-Beratung – Technisches Büro · Schulze-Delitzsch-Str. 11, 30938 Burgwedel · Tel.: +49 5139 - 985230 · info@inseid.de
   > 来源：https://www.inseid.de/
 
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：DE Burgwedel 系统店（官网一手核）
+- **②芯片/型号**：Hirschmann 资质
+- **③KP 深挖**：info@（Ingo）
+- **④Saga 对标**：双角（$165 锚点一致）
+- **⑤在乎与偏好**：资质自证/工程完整
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【技术与认证】**Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
+  > Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
+  > 来源：https://www.inseid.de
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | INSEID 德 Burgwedel 25 年 SMB 系统店（**Hirschmann Kompetenz-Center 资质**+Intel/Synology Gold+工业监控规划）：SMB 件+工业线双角（$165 锚点一致）；alt STI-288GP |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -139,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **W**：公开信息有限
-- **O**：P1 场景切入（主场景匹配+首触只推一个型号的纪律）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：资质
+- **W**：个体
+- **O**：双角
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -176,21 +192,19 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Ingo,
+Hallo Herr Seidenberg,
 
-I came across Ingo Seidenberg Inseid – EDV-Beratung - 集成商/代理（Allied Telesis）.
+Your qualifications list caught my eye: Intel Gold, Synology Gold - and the Hirschmann competence center for industrial Ethernet and network management, which few small houses hold. Full honesty up front: we build PoE switches, so your industrial flagship world stays untouched; this is about value tiers where the flagships overshoot.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for your industrial video projects. Reference: $165 USD EXW (2026-09-29).
 
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+One question: for SMB networks and industrial monitoring jobs, do you keep a value tier - and would you test one unit?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Telecom - PoE switch OEM/ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
