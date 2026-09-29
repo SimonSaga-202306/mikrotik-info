@@ -1,0 +1,171 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第7波",
+ "date": "2026-09-29",
+ "scope": "B 类英国 9 家(全取)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-531 Ivory Egg 判型校正为 KNX 楼宇分销(CSV 品牌谱有偏);B-533 Millbeck 切入点随 Teltonika SWM 谱更新修正",
+ "records": [
+  {
+   "code": "B-418",
+   "fact": "Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350",
+   "inference": "同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话",
+   "hypothesis": "开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打",
+   "evidence": [
+    {"dim": "身份", "quote": "proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality, power and utility, and retail", "source": "https://www.cbinsights.com/company/morgan-ingland"},
+    {"dim": "在架", "quote": "Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands", "source": "https://miatlantic.com/"}
+   ],
+   "unknowns": ["其架上 24 口管理 PoE 现供价位带", "Match Price 下的 MOQ/账期门槛"],
+   "swot": {"S": "100 品牌电商架+多行业谱+9 年站", "W": "无增值,纯价搏", "O": "24 口 280W 管理型 value 空档", "T": "TP-Link/Ubiquiti 低价压"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)",
+   "question": "你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?",
+   "tag": "英国|伯明翰|电商reseller|MatchPrice",
+   "email": "Hi Morgan Ingland team,\n\nA hundred brands on one shelf across government, education and hospitality - with a Match Price promise that tells me you respect a hard number more than a brand story.\n\nHere is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $165 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.\n\nOne question: on your shelf today, which 24-port managed PoE unit holds that value tier - and would a documented unit at this EXW number earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 价位对标页(Teltonika/Ubiquiti 对位)", "D+14 info@miatlantic.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-421",
+   "fact": "Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭)",
+   "inference": "工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动",
+   "hypothesis": "开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体",
+   "evidence": [
+    {"dim": "双牌", "quote": "Distributor of Etherwan in UK…Hirschmann industrial connectivity solutions: industrial Ethernet switches, M12 connectors, industrial networking systems", "source": "https://www.pymatek.co.uk/manufacturers/542-etherwan/ & /76-hirschmann/"},
+    {"dim": "区域", "quote": "Distributor of Etherwan in UK, Perú, Bolivia, España, Colombia, México, Ecuador, Chile, Argentina, Uruguay, Paraguay", "source": "https://www.pymatek.co.uk/manufacturers/542-etherwan/"},
+    {"dim": "目录", "quote": "PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron", "source": "https://www.pymatek.us/"}
+   ],
+   "unknowns": ["EtherWAN/Hirschmann 在谱价位带(其客户价值缺口在哪)", "拉美 11 国站的 value 件需求真实量级"],
+   "swot": {"S": "双工业牌已带+11 国跨区域+大目录", "W": "第三家工业交换品牌教育成本", "O": "value DIN 轨第三源+拉美价差带", "T": "EtherWAN 排他条款"},
+   "p1": "STI-288GP",
+   "p1_reason": "EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)",
+   "question": "你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?",
+   "tag": "英国|斯塔福德郡|工业目录分销|EtherWAN+Hirschmann|拉美11国",
+   "email": "Hi Pymatek team,\n\nEtherWAN and Hirschmann on the same industrial shelf, plus plain-Spanish channels into eleven Latin American markets - you already run two premium industrial Ethernet names, and you know exactly where the budget-constrained projects walk away.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side third source beside your premium pair, fully open to an OEM variant under your terms.\n\nOne question: for your EtherWAN/Hirschmann buyers with tight project budgets - especially in Latin America - is there a documented value-side DIN-rail source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 双牌对位表+拉美 value 带提案", "D+14 sales@pymatek.co.uk 开口(西英双版)", "D+30 果归守档"]
+  },
+  {
+   "code": "B-425",
+   "fact": "Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商",
+   "inference": "商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』",
+   "hypothesis": "开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入",
+   "evidence": [
+    {"dim": "身份", "quote": "global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioning, network and cabling deployment", "source": "https://www.zoominfo.com/c/telasys-ltd/412222510 & cbinsights"},
+    {"dim": "名录", "quote": "Telasys Ltd Reseller Cardiff info@telasys.com", "source": "https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/"}
+   ],
+   "unknowns": ["新机 vs 翻新在其营收占比", "其 ISP 客户 24 口 PoE 采购场景(接入/机房)"],
+   "swot": {"S": "新机+翻新双轨+五大洲供应链", "W": "翻新吃低价叙事", "O": "翻新价带的全新 value 位(生命周期叙事)", "T": "翻新 Cisco 低价惯性"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)",
+   "question": "你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?",
+   "tag": "英国|卡迪夫|新机+翻新双轨|五大洲",
+   "email": "Hi Telasys team,\n\nNew and refurbished telecom hardware across five continents, with asset recovery and decommissioning on top - you know better than anyone what a switch costs at every point of its lifecycle.\n\nWe build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $165 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.\n\nOne question: do your buyers ever ask for new hardware at refurbished prices - and would a documented new unit in that band earn a listing test beside your second-life shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 [新机 at 翻新价] 对位页", "D+14 info@telasys.com 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-533",
+   "fact": "Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281/282 管理型 PoE)** + IoT SIM + 天线 + RMS rms.credit;**公用事业垂直深绑(水/气/电/热网络运营商 SCADA/智能计量 LTE-M/NB-IoT)**;自述开放式站位『without vendor lock-in, fully compatible with Cisco, Juniper, HPE』",
+   "inference": "Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求",
+   "hypothesis": "开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎",
+   "evidence": [
+    {"dim": "深度", "quote": "Millbeck is a Teltonika Diamond Partner…TSW/SWM switch range: unmanaged industrial TSW switches and SWM managed PoE switches for enterprise LAN, CCTV, smart building and industrial automation…without vendor lock-in", "source": "https://millbeck.co.uk/teltonika-switches/"},
+    {"dim": "垂直", "quote": "Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed private IP addressing for SCADA", "source": "https://millbeck.co.uk/solutions/utilities"}
+   ],
+   "unknowns": ["SWM 交换谱上市后的客户接受度与价带", "公用事业招标里双源要求出现频度"],
+   "swot": {"S": "Diamond 最高级+公用事业深垂直+16 年", "W": "Teltonika 排他深绑", "O": "招标双源/交期备胎对照位(其自写不锁 vendor)", "T": "Diamond 忠诚冲突"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)",
+   "question": "公用事业招标要双源、或 Teltonika 交期紧时,你们对照件现用哪家?非 Teltonika 的文档全对照位可谈吗?",
+   "tag": "英国|利兹|Teltonika-Diamond|公用事业|双源对照位",
+   "email": "Hi Millbeck team,\n\nSixteen years as a Teltonika Diamond Partner with utility networks on your customer list - and your own switching page still says without vendor lock-in. That sentence is exactly where a second source lives.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - not a Teltonika replacement; the documented comparison unit for tender dual-source requirements and tight-lead-time weeks, white-label friendly.\n\nOne question: when a utility tender asks for a second source, or Teltonika lead time stretches, which switch do you quote as the alternative today - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 [双源对照] 招标场景页", "D+14 hello@millbeck.co.uk 开口", "D+30 果归守档"],
+   "note": "**切入点修正**:R49 原判『只有8口→补16/24口』已失效——Teltonika SWM280/281/282 管理型 PoE 与 TSW202 工业 PoE+ 已全谱在架;角度改为『排他谱外双源对照』,勿再提补口数。"
+  },
+  {
+   "code": "B-531",
+   "fact": "IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名",
+   "inference": "CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期",
+   "hypothesis": "开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入",
+   "evidence": [
+    {"dim": "判型", "quote": "Ivory Egg specializes in supplying KNX products, accessories, and training for home automation and building control", "source": "https://www.crunchbase.com/organization/ivory-egg"},
+    {"dim": "扩张", "quote": "This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point", "source": "https://ivoryegg.co.uk/news_items/new-UK-HQ"}
+   ],
+   "unknowns": ["KNX/IP 融合项目里 IP 骨干件现供(随单 or 客户自理)", "新仓上架窗口的品牌招募节奏"],
+   "swot": {"S": "KNX 专精+培训+新仓窗口+澳新集团", "W": "以太网非其主课", "O": "KNX 大项目 IP 骨干 PoE 随单", "T": "KNX bus 自足时网络件外采少"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位",
+   "question": "你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?",
+   "tag": "英国|诺丁汉|KNX楼宇|新仓窗口|澳新集团",
+   "email": "Hi Ivory Egg team,\n\nA brand-new warehouse HQ in Colwick, a KNX training roster, and a customer base of installers wiring hotels and commercial buildings - every one of those KNX-over-IP projects needs an IP backbone with PoE muscle behind the panels and gateways.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented PoE tier your KNX installers can pull on the same order, white-label friendly.\n\nOne question: inside your hotel and commercial-building KNX projects, which PoE backbone switch rides along today - and is the new warehouse opening a window for a networking line on the shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 KNX/IP 项目 PoE 随单页", "D+14 info@ivoryegg.co.uk 开口", "D+30 果归守档"],
+   "note": "**判型校正**:CSV 载『N-Tron+Red Lion+Anybus+Ewon』是其架上工业角;本体=KNX 楼宇自动化分销+培训(澳新系集团英国站),按 KNX 谱定角度。"
+  },
+  {
+   "code": "B-532",
+   "fact": "MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/cyberbytes);客户=交通/监控/基础设施/自动化+OEM/machine builders",
+   "inference": "同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业",
+   "hypothesis": "开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈",
+   "evidence": [
+    {"dim": "身份", "quote": "industrial Ethernet 'open connectivity' solutions, industrial Ethernet switches…Founded 1996…connect to all their assets both fixed and moving", "source": "https://uk.linkedin.com/company/mac-solutions-uk-ltd"},
+    {"dim": "谱系", "quote": "Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches", "source": "https://www.bertelkamp.com/products/red-lion"}
+   ],
+   "unknowns": ["Red Lion 谱内 PoE 件价位带", "OEM/machine builder 客户对 value 件接受度"],
+   "swot": {"S": "30 年 IDC 专注+OT 安全内容+法国办", "W": "Red Lion 王牌位稳", "O": "value DIN 轨第二源/OEM 变体", "T": "Red Lion 直系排他"},
+   "p1": "STI-288GP",
+   "p1_reason": "英国 Red Lion/N-Tron 老牌 IDC 分销的 DIN 轨 value 第二源(参照 HD Technology 模板)",
+   "question": "你们 Red Lion 谱望向 N-Tron PoE 之外,value DIN 轨第二源有位吗?OEM 变体可谈。",
+   "tag": "英国|Redditch|工业IDC分销|RedLion谱|法国办",
+   "email": "Hi David,\n\nThirty years of industrial data communication out of Redditch with Red Lion, N-Tron and Sixnet on the wall - plus an OT-security content program that tells me you sell on engineering merit, not on logos.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.\n\nOne question: alongside the N-Tron PoE range, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 Red Lion 对位表(HD Technology 模板)", "D+14 sales@mac-solutions.co.uk 具名 David", "D+30 果归守档"]
+  },
+  {
+   "code": "B-401",
+   "fact": "Barry Higgins - Allness(Kidderminster;**MikroTik 认证顾问 10 证全拿+英国官方讲师**;专长:有线+无线设计、OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本;R49 复核:官网走 support.allness.net 工单制;官方培训中心名录另列 training@allness.it)",
+   "inference": "英国 MikroTik 培训/顾问顶级证型(10 证全拿极少);工单制=流程化服务;其课程面对职业工程师谱",
+   "hypothesis": "开口角度=「十证讲师的课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 PoE 段对照教具(师者红线下最白开口)",
+   "evidence": [
+    {"dim": "身份", "quote": "MikroTik 认证顾问 10 证全拿 + 英国 MikroTik 官方讲师;OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "R49", "quote": "官网在线(工单制触达);官方培训中心名录另列 Barry Higgins/Kidderminster/training@allness.it", "source": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401"}
+   ],
+   "unknowns": ["课桌对照教具开放度", "工单制下商务询问入口"],
+   "swot": {"S": "十证全拿+官方讲师(英国顶级证型)", "W": "教具量小", "O": "教具样本+学员工程师谱长线", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "十证全拿官方讲师的对照教具样本位(英国双讲师之一)",
+   "question": "你的课上有没有对照厂牌的 PoE 教具?STC-28DGGPM 这样的文档全 8 口小机当对照样本可评吗?",
+   "tag": "英国|Kidderminster|十证讲师|教具样本",
+   "email": "Hi Barry,\n\nTen MikroTik certifications and an official trainer seat - one of the most qualified classrooms in the UK. Your students learn OSPF, BGP and scripting on real hardware; the PoE switching segment deserves the same documented rigor.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating via your ticket system?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页", "D+14 training@allness.it+工单双口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-422",
+   "fact": "Ron Touw - MikroTik Training UK(Whitstable Kent;mikrotiktraining.co.uk;**10 证全拿+官方讲师**;专长:无线勘测与设计、固定网络基础设施、BGP/MPLS/VPLS/OSPF、流量管理;training@hoka.co.uk(hoka.co.uk 同族域))",
+   "inference": "英国双十证讲师之二(与 B-401 同级);MPLS/VPLS 专长=carrier 级课堂;hoka.co.uk 为其咨询侧主体",
+   "hypothesis": "开口角度=「十证讲师的课桌对照教具样本位」(同 B-401 模板)",
+   "evidence": [
+    {"dim": "身份", "quote": "10 证全拿 + 英国培训讲师;无线勘测与设计、固定网络基础设施设计、BGP/MPLS/VPLS/OSPF、流量管理", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["课桌对照教具开放度", "hoka.co.uk 咨询侧项目谱"],
+   "swot": {"S": "十证全拿+MPLS 级专长+双域(培训+咨询)", "W": "教具量小", "O": "教具+咨询项目随单双线", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "十证全拿官方讲师的对照教具样本位(英国双讲师之二)",
+   "question": "你的 MPLS/无线课上,PoE 段对照教具现有没有位?",
+   "tag": "英国|Whitstable|十证讲师|MPLS|教具样本",
+   "email": "Hi Ron,\n\nTen certifications, an official UK trainer seat, and a syllabus that runs from wireless site surveys to BGP, MPLS and VPLS - your bench works at carrier level.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页", "D+14 training@hoka.co.uk 具名", "D+30 果归守档"]
+  },
+  {
+   "code": "B-400",
+   "fact": "Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达)",
+   "inference": "北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策",
+   "hypothesis": "守档备养:具名技术对话,等其项目谱 PoE 信号;北爱物流(英本土隔海)订单需议",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;Adam@hpnetworks.net", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["HP Networks 公司谱与项目频度", "北爱客户行业构成"],
+   "swot": {"S": "具名直达+实体座机", "W": "公开谱薄", "O": "北爱 SME 项目随单", "T": "失联/量小"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "北爱集成顾问备养:具名通道,项目信号再激活",
+   "question": "你在北爱做 SME 网络项目时,PoE 接入现随哪家?",
+   "tag": "英国|北爱Belfast|集成顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  }
+ ]
+}

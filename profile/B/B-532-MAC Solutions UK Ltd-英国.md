@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/cyberbytes);客户=交通/监控/基础设施/自动化+OEM/machine builders
+- 【推断】同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业
+- 【假设】开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈
+
+**SWOT 速描**
+- **S**: 30 年 IDC 专注+OT 安全内容+法国办
+- **W**: Red Lion 王牌位稳
+- **O**: value DIN 轨第二源/OEM 变体
+- **T**: Red Lion 直系排他
+
+**证据（quote → 来源）**
+- 「industrial Ethernet 'open connectivity' solutions, industrial Ethernet switches…Founded 1996…connect to all their assets both fixed and moving」 — https://uk.linkedin.com/company/mac-solutions-uk-ltd
+- 「Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches」 — https://www.bertelkamp.com/products/red-lion
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 英国 Red Lion/N-Tron 老牌 IDC 分销的 DIN 轨 value 第二源(参照 HD Technology 模板)
+- 第一问: 你们 Red Lion 谱望向 N-Tron PoE 之外,value DIN 轨第二源有位吗?OEM 变体可谈。
+- 标签: 英国|Redditch|工业IDC分销|RedLion谱|法国办
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi David,
+
+Thirty years of industrial data communication out of Redditch with Red Lion, N-Tron and Sixnet on the wall - plus an OT-security content program that tells me you sell on engineering merit, not on logos.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.
+
+One question: alongside the N-Tron PoE range, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?
+
+If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. Red Lion 谱内 PoE 件价位带
+2. OEM/machine builder 客户对 value 件接受度
+
+**跟进建议（守档节奏）**
+- D+3 Red Lion 对位表(HD Technology 模板)
+- D+14 sales@mac-solutions.co.uk 具名 David
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第7波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

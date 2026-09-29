@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350
+- 【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
+- 【假设】开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
+
+**SWOT 速描**
+- **S**: 100 品牌电商架+多行业谱+9 年站
+- **W**: 无增值,纯价搏
+- **O**: 24 口 280W 管理型 value 空档
+- **T**: TP-Link/Ubiquiti 低价压
+
+**证据（quote → 来源）**
+- 「proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality, power and utility, and retail」 — https://www.cbinsights.com/company/morgan-ingland
+- 「Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands」 — https://miatlantic.com/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)
+- 第一问: 你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?
+- 标签: 英国|伯明翰|电商reseller|MatchPrice
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Morgan Ingland team,
+
+A hundred brands on one shelf across government, education and hospitality - with a Match Price promise that tells me you respect a hard number more than a brand story.
+
+Here is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $165 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.
+
+One question: on your shelf today, which 24-port managed PoE unit holds that value tier - and would a documented unit at this EXW number earn a listing test?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 其架上 24 口管理 PoE 现供价位带
+2. Match Price 下的 MOQ/账期门槛
+
+**跟进建议（守档节奏）**
+- D+3 价位对标页(Teltonika/Ubiquiti 对位)
+- D+14 info@miatlantic.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第7波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

@@ -2244,6 +2244,20 @@
     ]
   },
   {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://altostrat.io/es/buying/hardware/resellers/north-america/usa/",
     "http_checked": false,
     "occurrences": [
@@ -11264,6 +11278,20 @@
     ]
   },
   {
+    "url": "https://ivoryegg.co.uk/news_items/new-UK-HQ",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://ixtenso.com/anbieter/2757-acteos-gmbh-co-kg.html",
     "http_checked": false,
     "occurrences": [
@@ -13534,6 +13562,14 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第21批.json",
         "locator": "L139"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L14"
+      },
+      {
+        "path": "profile/B/B-418-Morgan Ingland Limited（miatlantic.com）-英国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -19624,6 +19660,34 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第21批.json",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://millbeck.co.uk/solutions/utilities",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://millbeck.co.uk/teltonika-switches/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L68"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -28612,6 +28676,20 @@
     ]
   },
   {
+    "url": "https://uk.linkedin.com/company/mac-solutions-uk-ltd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://uk.linkedin.com/company/universal-networks-ltd",
     "http_checked": false,
     "occurrences": [
@@ -34126,6 +34204,20 @@
     ]
   },
   {
+    "url": "https://www.bertelkamp.com/products/red-lion",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L107"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.bhe.de/kongresspartner-detailseiten/brand/gu-bks-service-gmb-h",
     "http_checked": false,
     "occurrences": [
@@ -35042,6 +35134,20 @@
       {
         "path": "profile/B/B-153-hsc solutions-德国.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cbinsights.com/company/morgan-ingland",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L13"
+      },
+      {
+        "path": "profile/B/B-418-Morgan Ingland Limited（miatlantic.com）-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -36528,6 +36634,20 @@
       {
         "path": "profile/A/A-098-Brian Vargyas-美国.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/ivory-egg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -55044,6 +55164,42 @@
     ]
   },
   {
+    "url": "https://www.pymatek.co.uk/manufacturers/542-etherwan/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pymatek.us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L33"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://www.qtopia.nl/",
     "http_checked": false,
     "occurrences": [
@@ -61904,6 +62060,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1006/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/telasys-ltd/412222510",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第7波.json",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L72"
       }
     ]
   },

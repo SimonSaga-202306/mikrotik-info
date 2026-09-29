@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商
+- 【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
+- 【假设】开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
+
+**SWOT 速描**
+- **S**: 新机+翻新双轨+五大洲供应链
+- **W**: 翻新吃低价叙事
+- **O**: 翻新价带的全新 value 位(生命周期叙事)
+- **T**: 翻新 Cisco 低价惯性
+
+**证据（quote → 来源）**
+- 「global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioning, network and cabling deployment」 — https://www.zoominfo.com/c/telasys-ltd/412222510 & cbinsights
+- 「Telasys Ltd Reseller Cardiff info@telasys.com」 — https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)
+- 第一问: 你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?
+- 标签: 英国|卡迪夫|新机+翻新双轨|五大洲
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Telasys team,
+
+New and refurbished telecom hardware across five continents, with asset recovery and decommissioning on top - you know better than anyone what a switch costs at every point of its lifecycle.
+
+We build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $165 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.
+
+One question: do your buyers ever ask for new hardware at refurbished prices - and would a documented new unit in that band earn a listing test beside your second-life shelf?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 新机 vs 翻新在其营收占比
+2. 其 ISP 客户 24 口 PoE 采购场景(接入/机房)
+
+**跟进建议（守档节奏）**
+- D+3 [新机 at 翻新价] 对位页
+- D+14 info@telasys.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第7波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
