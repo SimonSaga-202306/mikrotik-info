@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Ziegler Systemhaus GmbH（德国斯图加特+Schwieberdingen 双点，2001 创，25+ 年）：**142 人电气+IT 混合系统屋**——电气工程/网络信息技术（“erfolgreich VERNETZEN”）/再生能源/安全技术/**活动与展会供电专线**；500+ 项目；项目新闻：Messehalle 展馆灯光改造+**专业 WLAN 覆盖（Ausleuchtung）项目**；14 培训生在训
+- 【推断】电气+网络双工+展馆活动供电=弱电随单活跃；WLAN Ausleuchtung 项目自述=无线工程在撒单
+- 【假设】“namhafte Kunden”高层客户+快速招人=增长型中型
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“142 Mitarbeitende…14 Auszubildende…Namhafte Kunden…Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk…500+ Erfolgreich abgeschlossene Projekte”
   > “142 Mitarbeitende…14 Auszubildende…Namhafte Kunden…Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk…500+ Erfolgreich abgeschlossene Projekte”
   > 来源：https://www.ziegler-systemhaus.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯图加特电气+IT 混合系统屋（活动供电特色）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：楼宇/活动/企业
+- **团队与规模**：142 人
+- **决策链与对接人**：info@ 口
+- **技术与认证**：电工+IT 双证
+- **采购与供应链信号**：随单
+- **近期动态与线索**：WLAN 覆盖项目+展厅灯改
+- **与我方契合点**：网络技术线接入随单 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

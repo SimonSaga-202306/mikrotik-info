@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Ditecal（西电信供应商店）：MikroTik 库存页+MikroTik 认证培训课在架+HSNM hotspot 总代;Reyee RG-ES209GC-P 8 口 PoE €190.27 在价;Huawei ONT/RB5009UG+S+IN 谱;Kit Digital 项目线
+- 【推断】MT 培训点+库存页=RouterOS 深度口;Reyee PoE 在价=value 谱已开
+- 【假设】HSNM 总代=hotspot 场景客户群（酒店/营地）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -123,6 +130,19 @@ updated: 2026-09-28
 - **【场景】**HSNM hotspot 总代
   > HSNM hotspot 总代
   > 来源：https://tienda.ditecal.es
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西电信供应商店
+- **产品线与在售品牌**：MT 库存页+Reyee/Huawei ONT/HSNM hotspot
+- **目标行业与场景**：WISP/装维/hotspot 场景
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ 直口+953004850
+- **技术与认证**：MikroTik 认证培训点
+- **采购与供应链信号**：专业费率（注册报价）
+- **近期动态与线索**：认证课排期开放
+- **与我方契合点**：Reyee PoE 谱旁 value 对照正口（$165 vs €190）
+- **风险与注意**：培训点——教具/商用两轨分清
 
 ## 产品决策（Saga · 单一决策口径）
 

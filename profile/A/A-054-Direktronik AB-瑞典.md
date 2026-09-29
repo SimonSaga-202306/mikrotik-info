@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Direktronik AB（瑞典，1986 创立）：40 年北欧网络/通信/基础设施分销商——每年上新 1000+ SKU；电商登录制特价体系；在册自台：数据中心 400G L3 交换机、SFP 全谱、PoE injector/交换机、边缘到 FTTH；CSV 信号：**已卖带 ERPS/SNMPv3 的管理型（N-net 品牌线）**；Fredrik Brunzell 直接邮箱
+- 【推断】N-net=其自有/value 品牌管理型线——我们可直接对应其 value-tier OEM 换血或补充 SKU：SNR 承接 ERPS/SNMPv3 特性永不输查
+- 【假设】“自集+白牌”每年 1000 SKU 吸纳机制=准入真实；400G 大盒在册显其吃高端，value PoE 位是空档补位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：N-net 等；已在卖带ERPS/SNMPv3的管理型）
@@ -68,6 +75,9 @@ updated: 2026-09-28
 - **原始联系字段**：Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）；Stefan Sandstrom - steffo@direktronik.se；总机 +46 8 52 400 700
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-09-29）**：`steffo@direktronik.se` 服务器拒收（Your message to steffo@direktronik.se has been blocked）→ 停用该地址；替代通道：fredrik.brunzell@direktronik.se（Fredrik Brunzell · Softing 名录公开，CSV 主联系）；+46 公司电话（官网）
+  > 处置：停用 steffo@（个人地址被挡）；R37 公司/具名交替：改走 fredrik.brunzell@，若无回响再官网表单+电话
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
@@ -146,6 +156,19 @@ updated: 2026-09-28
 - **【联系方式】**fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.direktronik.se/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：北欧 40 年网络分销（自集 SKU 吞吐强，N-net value 品牌）。
+- **产品线与在售品牌**：N-net 管理型（ERPS/SNMPv3）+400G DC 交换+光模块全谱
+- **目标行业与场景**：北欧企业/数据中心/FTTH 建设
+- **团队与规模**：全国型分销
+- **决策链与对接人**：Fredrik Brunzell（采购侧直达）
+- **技术与认证**：SKU 吞吐工程化
+- **采购与供应链信号**：自集 SKU+白牌机制
+- **近期动态与线索**：40 周年（1986-2026）
+- **与我方契合点**：value-tier 管理型 PoE 白牌补位（不当其 400G 大牌对手）
+- **风险与注意**：SNR 特性永不输查（ERPS/SNMPv3 已在卖）
 
 ## 产品决策（Saga · 单一决策口径）
 

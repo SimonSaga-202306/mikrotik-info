@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】dainox GmbH（德国）：**国防通信专家**——“Experte für Kommunikationslösungen im **Defence-Umfeld**”；DWT-Marineworkshop 2026（海军装备）参展、**AFCEA Bonn（军口展会）**、**CWIX 2026（北约互操作演习）FMN/PCN 架构 COMMS 核心角色**、LBO 作战网络文章；2026 新建生产厂房
+- 【推断】德国联邦军/北约 FMN 供应链成员——出口管制+密级审查环境，外资网络件无任何现实通道
+- 【假设】纪律建档不出信（军技红线，同 A-139 ARCHE 族）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Experte für Kommunikationslösungen im Defence-Umfeld…CWIX 2026…Federated Mission Networking…AFCEA Fachausstellung”
   > “Experte für Kommunikationslösungen im Defence-Umfeld…CWIX 2026…Federated Mission Networking…AFCEA Fachausstellung”
   > 来源：https://www.dainox.net/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国国防通信专家（FMN/AFCEA/CWIX）
+- **产品线与在售品牌**：国防通信方案（红线）
+- **目标行业与场景**：联邦军/北约（红线）
+- **团队与规模**：专精中型（扩产中）
+- **决策链与对接人**：—
+- **技术与认证**：军规
+- **采购与供应链信号**：军工采购
+- **近期动态与线索**：CWIX 2026 核心角色
+- **与我方契合点**：无（红线建档）
+- **风险与注意**：出口管制+密级
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ATEC Security Ltd（英国）：30+ 年安防系统设计/安装/运维——伙伴墙含 **Allied Telesis（Marvell Prestera 接入层！）**、Axis、Milestone、Siklu、TagMaster、Tyco、Avigilon、Genetec、HID、Abloy 等 40+ 厂牌；市场：机场与边境、政府、交通基建（公共段多）、企业、教育、金融、医疗（公私混）
+- 【推断】监控网络柜=其每张单的 PoE 供电层（Axis/Avigilon 摄像机都要）；商用/私营段是合规主巷
+- 【假设】30 年老安防商与 Allied 长联播——我们定位为“value PoE 补位货架”，不当 Allied 对标
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**info@atec-security.co.uk 0330 0580 050；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > info@atec-security.co.uk 0330 0580 050；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://atec-security.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国 30 年安防工程商（全厂牌整合）
+- **产品线与在售品牌**：Axis/Milestone/Allied Telesis 等 40+ 牌
+- **目标行业与场景**：企业/教育/金融/私营医疗（公共段守界）
+- **团队与规模**：全国性安防工程商
+- **决策链与对接人**：info@ 口
+- **技术与认证**：整案集成能力
+- **采购与供应链信号**：项目随单（摄像头柜 PoE 是惯件）
+- **近期动态与线索**：2026 站常态化
+- **与我方契合点**：监控柜 24 口 PoE value 补位
+- **风险与注意**：公共段边界+Allied 在位
 
 ## 产品决策（Saga · 单一决策口径）
 

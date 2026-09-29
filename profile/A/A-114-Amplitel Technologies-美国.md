@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Amplitel Technologies（威斯康星 Kaukauna）：托管 IT 商——托管 IT/云/无线勘查/布线/服务器/备灾+网络安全（CJIS/HIPAA/PCI 合规）+本地安防（on-prem security)+商显 A/V；**客户：Kaukauna Utilities 公营水电+Kaukauna 市**（Avaya 电话/安防系统/网络）；CEO Aaron Lahm 具名；“No Nonsense IT”透明定价
+- 【推断】公共事业（CJIS 执法合规）是其招牌客群——非国防级，地方公用事业段在美属常规商用；“安全中心”文化=文档与合规清单必查
+- 【假设】“透明定价”文化对 $165 一口价锚点话术天然亲和
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Kaukauna Utilities and the City of Kaukauna…Avaya phone systems, security systems, and networks…protects your systems, meets CJIS, HIPAA, and PCI requirements”
   > “Kaukauna Utilities and the City of Kaukauna…Avaya phone systems, security systems, and networks…protects your systems, meets CJIS, HIPAA, and PCI requirements”
   > 来源：https://ampliteltech.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：威斯康星托管 IT（安全中心文化）
+- **产品线与在售品牌**：托管IT/云/布线/无线/A/V（Allied 信号）
+- **目标行业与场景**：地方公用事业/城市/商企
+- **团队与规模**：本地中型
+- **决策链与对接人**：CEO Aaron Lahm/sales@ 口
+- **技术与认证**：CJIS/HIPAA/PCI 话术
+- **采购与供应链信号**：本地项目滚动
+- **近期动态与线索**：公营客户关系示证
+- **与我方契合点**：公用事业楼宇接入柜
+- **风险与注意**：合规文档必查
 
 ## 产品决策（Saga · 单一决策口径）
 

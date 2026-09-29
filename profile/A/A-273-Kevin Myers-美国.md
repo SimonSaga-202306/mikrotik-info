@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IP ArchiTechs（美国 Kevin Myers）：'领先独立网络咨询集团'——厂商中立（solutions-first，不走厂商伙伴）；Network Engineering/设计架构/Netbox 知识/Tier III-IV NOC；生态墙 MikroTik/Cisco/Calix/Ubiquiti/Nokia/Juniper；Open Networking+'Lowering Network Costs'（commodity hardware+validated designs 降本）自报；行业含 WISP/FISP/Cable ISP
+- 【推断】美国 MikroTik 系顾问头牌：其'降本=commodity hardware+validated design'哲学与 value 线天然同频——CONSULT-OEM 框架但高契合
+- 【假设】其 WISP/ISP 客户的 POP/接入设计指引：规格化 value 交换机可入对照库
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCNA MTCRE MTCTCE MTCUME MTCSE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**The Leading Independent Network Consulting Group——solutions-first, vendor-neutral;Lowering Network Costs via commodity hardware+validated design templates
   > The Leading Independent Network Consulting Group——solutions-first, vendor-neutral;Lowering Network Costs via commodity hardware+validated design templates
   > 来源：https://iparchitechs.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国独立网络咨询头牌
+- **产品线与在售品牌**：厂商中立多生态
+- **目标行业与场景**：WISP/FISP/企业/数据中心/卫星
+- **团队与规模**：多市区咨询团队
+- **决策链与对接人**：consulting@ 口
+- **技术与认证**：MikroTik 顾问名录（Kevin Myers）
+- **采购与供应链信号**：顾问指定权
+- **近期动态与线索**：Netbox/NOC 产品化
+- **与我方契合点**：设计中立的 value 规格对照（CONSULT-OEM）
+- **风险与注意**：顾问主权——话术=规格化对照不推销
 
 ## 产品决策（Saga · 单一决策口径）
 

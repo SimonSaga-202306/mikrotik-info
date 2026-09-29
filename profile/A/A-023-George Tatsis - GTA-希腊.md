@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）
+- 【推断】主业已迁至 e-dreams 智能楼宇分销；MikroTik 顾问身份（MTCNA+MTCRE+MTCSE）为残留技能线
+- 【假设】酒店/别墅 KNX 项目仍有 IP 侧接入层需求（KNX/IP 网关、安防 PoE）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【技术与认证】**MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
   > MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：前 KNX 楼宇自控集成商（GTA），现 e-dreams 智能楼宇分销经理（LinkedIn 在册 2010 起）
+- **产品线与在售品牌**：e-dreams：电气/电子设备分销；GTA 站休眠
+- **目标行业与场景**：智能楼宇/别墅/酒店 KNX；酒店行业 IP 侧配套
+- **团队与规模**：个人级
+- **决策链与对接人**：George Tatsis 本人
+- **技术与认证**：MTCNA+MTCRE+MTCSE；KNX/ModBus/Honeywell BMS 老资质
+- **采购与供应链信号**：分销渠道常客，价格敏感
+- **近期动态与线索**：gta.gr 残留“Buildings for people”默认页——休眠站实锤
+- **与我方契合点**：酒店 KNX 项目 IP 侧 PoE 接入（KNX/IP 网关与安防」
+- **风险与注意**：不要用 GTA 老故事开场；站点已休眠，按 e-dreams 身份对待
 
 ## 产品决策（Saga · 单一决策口径）
 

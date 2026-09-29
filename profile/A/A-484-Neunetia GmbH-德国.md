@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Neunetia GmbH（德国）：Neunetia GmbH（德 Magento 店）:**高价 IT 灰折扣店**：Fortinet FG-60F €670/**Cisco C1000-24FP PoE €1,100/C1200-48P PoE €1,109 €1,265 在价**/Aruba/Mellanox/APC;品牌无忠谱
+- 【推断】大牌 PoE 贵价位列=value 档替补对照缝最直（其 Cisco PoE=10 倍价）
+- 【假设】高价大牌 PoE 旁 value 对照缝正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**Cisco Catalyst C1000-24FP-4G-L PoE Switch €1,100 + C1200-48P-4X 48口 PoE+ €1,109
   > Cisco Catalyst C1000-24FP-4G-L PoE Switch €1,100 + C1200-48P-4X 48口 PoE+ €1,109
   > 来源：https://neunetia.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德 IT 灰折扣店（Cisco PoE 高价在列）
+- **产品线与在售品牌**：Fortinet/Cisco/Aruba/Mellanox
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@neunetia.de 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：高价 PoE 旁 value 对照缝正口
+- **风险与注意**：灰店——条款需清晰
 
 ## 产品决策（Saga · 单一决策口径）
 

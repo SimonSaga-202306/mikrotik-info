@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】BAIEN GmbH（德国）：B2B 型 IT 电商分销商——Kundenportal+全谱类目：显示/会议屏/数字标牌/桌面与笔记本/**服务器机柜 PDU（Gemessen/Switched/Verwaltet 分级）**/KVM/**Network 类目**；vertrieb@ 销售口
+- 【推断】电商化分销架结构：“机柜里从 PDU 到 KVM 全铺”——PoE 接入交换机是其 Network 类目天然补位
+- 【假设】类目齐全度越高=value 位毛利层越需要（炮位竞争只看文档与利润）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
   > “PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
   > 来源：https://baien.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 B2B IT 电商分销（全谱类目）
+- **产品线与在售品牌**：全谱 IT（Network 类目在）
+- **目标行业与场景**：reseller/集成商渠道
+- **团队与规模**：中型分销
+- **决策链与对接人**：vertrieb@ 口
+- **技术与认证**：B2B 平台
+- **采购与供应链信号**：上架分销
+- **近期动态与线索**：Kundenportal 常态
+- **与我方契合点**：Network 类目 PoE 交换补位
+- **风险与注意**：在架竞争
 
 ## 产品决策（Saga · 单一决策口径）
 

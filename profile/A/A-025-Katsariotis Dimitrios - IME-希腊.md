@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IME Πληροφορική（帕特雷总部 Αγ. Διονυσίου 20-22 + 雅典分部 Θρασυμάχου 8）：自研商务软件公司（ΔΕΥΑ 水务计账、imeFoodService 餐饮点单、imeSales/imeRetail ERP/零售），Microsoft Certified/Gold Partner；CSV 口径 MikroTik 顾问 Katsariotis Dimitrios（MTCNA+MTCRE+MTCTCE+MTCSE 4 证）
+- 【推断】软件商但手握餐饮/零售/水务客户群——其客户开店与门店网络改造时有接入层需求（类 A-020 交叉销售型）
+- 【假设】imeFoodService 餐饮系统部署随带门店网络（AP/PoS 打印/客显）接入层 PoE 机会
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCSE）
@@ -146,6 +153,19 @@ updated: 2026-09-28
 - **【技术与认证】**CSV 名录：Katsariotis Dimitrios MTCNA+MTCRE+MTCTCE+MTCSE（Patra）
   > CSV 名录：Katsariotis Dimitrios MTCNA+MTCRE+MTCTCE+MTCSE（Patra）
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：帕特雷自研商务软件商（水务计账/餐饮点单/ERP/零售四线），Microsoft Gold 伙伴
+- **产品线与在售品牌**：自研软件 ΔΕΥΑ/imeFoodService/imeSales/imeRetail；硬件非主业
+- **目标行业与场景**：餐饮门店/零售连锁/市政水务（ΔΕΥΑ 段涉公共，规避）
+- **团队与规模**：双办公点（帕特雷+雅典）；365 日支持
+- **决策链与对接人**：Dimitrios Katsariotis（顾问 4 证）为最懂网之人；info@ 通用口
+- **技术与认证**：MTCNA+MTCRE+MTCTCE+MTCSE（个人）；Microsoft Gold
+- **采购与供应链信号**：硬件偶发随项目采购
+- **近期动态与线索**：2025-08 官网仍在更新产品页
+- **与我方契合点**：餐饮/零售门店网络随单接入层 PoE（类 A-020 交叉销售）
+- **风险与注意**：ΔΕΥΑ 水务=市政公共段，仅跟私营餐饮/零售线
 
 ## 产品决策（Saga · 单一决策口径）
 

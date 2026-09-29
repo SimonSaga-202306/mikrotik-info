@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ALL4NET DOOEL（北马其顿）：ALL4NET DOOEL:**北马'One place stop'装备店（all4net.mk；迁前 toten.com.mk 注）**:Active(MikroTik/Ubiquiti/Planet/Cisco/Hikvision/Synology/Grandstream/Teltonika/Cambium)+Passive(线材/机柜/工具）+Services(布纤/机柜/网络配置）；电话 Skopje
+- 【推断】被动+主动双层+服务配置=中型装备商；谱全无忠类；Services 线=项目随单缝
+- 【假设】店收录+服务随单双角（一站式心态）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**ALL4NET: Active(MikroTik/Ubiquiti/Grandstream...)+Passive(cable/racks)+Services(network configuration) 三层
   > ALL4NET: Active(MikroTik/Ubiquiti/Grandstream...)+Passive(cable/racks)+Services(network configuration) 三层
   > 来源：https://all4net.mk
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：北马一站式网络装备商
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Grandstream/Hikvision 等
+- **目标行业与场景**：装维/集成/ISP
+- **团队与规模**：中型
+- **决策链与对接人**：dejan.dudeski@ 具名（overnet 域注）
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：Services 线在营
+- **与我方契合点**：店收录+服务随单双角
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

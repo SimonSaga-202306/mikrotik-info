@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】RECOS SYSTEM SOLUTIONS GmbH（德国慕尼黑，2013 年创，**Dr. Richtmann & Eder AG 子公司，根源 1973**）：全服务 IT——服务器存储/客户端/**网络（Netzwerke)/WLAN**/顾问/销售/支持；**WiFi-as-a-Service 订阅模型**；新闻线 KI/CRA（Cyber Resilience Act)/Win10 EOL 迁移+防火墙现代化（“transparency not blackbox”叙事）
+- 【推断】**X-as-a-Service 模型**=硬件月度化承诺=单件成本极敏感（$165 锚点对口）；CRA 话题线=其审查合规意识新
+- 【假设】“Komplexe IT. Einfach gelöst.”口号=客户 SMB 深
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“IT als Service, nicht als Investition…WiFi as a Service…IT-Infrastrukturen, Netzwerke, Cloud- und Sicherheitslösungen…seit 1973（roots）”
   > “IT als Service, nicht als Investition…WiFi as a Service…IT-Infrastrukturen, Netzwerke, Cloud- und Sicherheitslösungen…seit 1973（roots）”
   > 来源：https://recos.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：慕尼黑全服务 IT（WaaS 订阅模型）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：慕尼黑区域企业
+- **团队与规模**：中型 AG 子
+- **决策链与对接人**：kontakt@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：订阅型随单
+- **近期动态与线索**：CRA/防火墙内容线
+- **与我方契合点**：WaaS/网络线随单 value 件（成本敏感）
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

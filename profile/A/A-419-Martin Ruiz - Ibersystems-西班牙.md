@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Martin Ruiz (Ibersystems)（西班牙）：Mataró/Barcelona **2003 起 20+ 年、8.000+ 项目**:WiFi 高密度（BBK Live/Indian Wells 大型活动）/WiMAX PtP/**CCTV 监控**；**MikroTik 官方专家+Alvarion**；工业/仓储/集装箱码头 CONCASA 案例
+- 【推断】8000 项目=PoE 随单高频（监控/活动/楼宇 WiFi 背后的供电层）；活动/企业/工业私营为主（码头案例前句轻守界）
+- 【假设】监控/WiFi 项目 PoE 随单强口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'Más de 8.000 proyectos desde 2003 · especialistas oficiales MikroTik y Alvarion · BBK Live/Indian Wells/CCTV/WiMAX'
   > 'Más de 8.000 proyectos desde 2003 · especialistas oficiales MikroTik y Alvarion · BBK Live/Indian Wells/CCTV/WiMAX'
   > 来源：https://ibersystems.es
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西加泰 WiFi/WiMAX/CCTV 工程商（20 年）
+- **产品线与在售品牌**：**MikroTik 官方专家**+Alvarion
+- **目标行业与场景**：企业活动/工业/楼宇私营
+- **团队与规模**：中型
+- **决策链与对接人**：Martinruiz@ 具名
+- **技术与认证**：MikroTik 官方专家
+- **采购与供应链信号**：—
+- **近期动态与线索**：8.000+ 项目累计
+- **与我方契合点**：**监控/WiFi/WiMAX 项目 PoE 随单强口**
+- **风险与注意**：码头（CONCASA）关基案例——轻守界前句
 
 ## 产品决策（Saga · 单一决策口径）
 

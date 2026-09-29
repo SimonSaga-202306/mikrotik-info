@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】meconet（德国）：建档注：官宣退出电子经销市场（'We stop business… withdrawing from the electronics market'，仅清库存+专营 Mars 天线/RF/Eltek 电源）
+- 【推断】判定=建档（先例同族）
+- 【假设】（待触发供位）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -118,6 +125,19 @@ updated: 2026-09-28
 - **【近期动态】**'After almost 30 years…meconet e.K. is withdrawing from the electronics market - only selling our inventory'
   > 'After almost 30 years…meconet e.K. is withdrawing from the electronics market - only selling our inventory'
   > 来源：https://shop.meconet.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国：德 30 年电子分销→退役清库（仅 RF/天线/电源线存续）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：—
+- **团队与规模**：—
+- **决策链与对接人**：—
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：候选供位（待触发）
+- **风险与注意**：官宣退出电子经销市场（'We stop business… withdrawing from the electronics market'，仅清库存+专营 Mars 天线/RF/Eltek 电源）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Irene srl（意大利 Genova/Savona，1991 起）：工业嵌入式 PC/系统专营——Informatica（Networking/Server/Storage/Workstation)+Industriale（Embedded/**Industrial Networking**/工业 PC)+**Navale 海事**+Video Wall（Hiperwall)+Industrial Cybersecurity(**Radiflow**);Premium Partners=Advantech/**Allied Telesis**/Cogent Datahub/DELL EMC Platinum/**EKS Engel**
+- 【推断】Genova 海事工业 IT 三十年店：工业网络栏目直属对口，EKS/Advantech 旁 value 二轨+工业线双角——私营造船配套放心
+- 【假设】工业网络栏与海事项目的 value 二轨（STC+STI 双角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【目标行业】**Industriale: Embedded, Industrial Networking, Industrial PC；Navale: Embedded, Monitor, Server…Industrial Cybersecurity: Radiflow
   > Industriale: Embedded, Industrial Networking, Industrial PC；Navale: Embedded, Monitor, Server…Industrial Cybersecurity: Radiflow
   > 来源：https://www.irenesrl.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 Genova 工业嵌入式 IT 专店（1991）
+- **产品线与在售品牌**：Advantech/AT/EKS/DELL EMC/Radiflow
+- **目标行业与场景**：工业自动化/海事/控制室
+- **团队与规模**：中型专店
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：行业项目随单
+- **近期动态与线索**：Radiflow 工业安全线在列
+- **与我方契合点**：工业网络二轨+海事项目双角（强对口）
+- **风险与注意**：大牌墙——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

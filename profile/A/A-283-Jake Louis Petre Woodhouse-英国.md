@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Jellyfish Broadband（英国）：度假屋/度假公园宽带商（£19.99/月起）——园区整体 WiFi+客服；CSV=创始人 Jake Woodhouse MikroTik 认证顾问（MTCRE/MTCINE），自述有线无线设计施工/交换/VLAN/防火墙
+- 【推断】私营度假园区网络=全园区 AP+回传场景——PoE 接入消耗真实存在；创始人顾问深度=能对线对话
+- 【假设】园区 WiFi 部署/扩容的 value PoE 随单正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCINE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Unlimited Holiday Home Broadband——Holiday Park Operators: premium internet services…whole park
   > Unlimited Holiday Home Broadband——Holiday Park Operators: premium internet services…whole park
   > 来源：https://www.jellyfishbroadband.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国度假园区宽带商
+- **产品线与在售品牌**：自营运（MikroTik 栈 推断 标注）
+- **目标行业与场景**：度假屋/园区（私营）
+- **团队与规模**：小型 ISP 团队
+- **决策链与对接人**：hello@ 口
+- **技术与认证**：MikroTik 认证顾问（创始人，CSV）
+- **采购与供应链信号**：自营扩容随件
+- **近期动态与线索**：—
+- **与我方契合点**：园区 PoE 随单正口
+- **风险与注意**：MikroTik 存量（诚实角）
 
 ## 产品决策（Saga · 单一决策口径）
 

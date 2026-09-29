@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-286、A-131（人-司关联档）→ 互注；首触走 A-131 公司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -44,6 +46,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Aris Vink (SDC)（荷兰）：SDC BV(30+年荷 ICT 分销）：品牌墙 Gigaset/Ubiquiti/TP-Link Omada/MikroTik/Grandstream;17点前次日达+24/7 supportdesk+Academy 培训线+合作伙伴活动 2026。Aris Vink=室内销售/专家
+- 【推断】大分销多牌墙=value 档替补收录逻辑最顺（Switches 类目明列）；分销规格化流程=文档完整正中
+- 【假设】大分销 Switches 类目 value 档正口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -116,6 +125,19 @@ updated: 2026-09-28
 - **【业务定位】**SDC.nl Jouw ICT-Distributeur: 30+ jaar ervaring; Merkbanner Gigaset/Ubiquiti/TP-Link/MikroTik/Grandstream; Top categorieën: Switches
   > SDC.nl Jouw ICT-Distributeur: 30+ jaar ervaring; Merkbanner Gigaset/Ubiquiti/TP-Link/MikroTik/Grandstream; Top categorieën: Switches
   > 来源：https://sdc.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷 30 年 ICT 分销大厂
+- **产品线与在售品牌**：Gigaset/Ubiquiti/TP-Link/MikroTik/Grandstream
+- **目标行业与场景**：
+- **团队与规模**：
+- **决策链与对接人**：aris@sdc.nl 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：大分销 Switches 类目 value 档对照行正口
+- **风险与注意**：类目经理决策链——首信触达未必落在Aris
 
 ## 产品决策（Saga · 单一决策口径）
 

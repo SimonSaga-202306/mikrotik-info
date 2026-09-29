@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Human Art Computersysteme GmbH（德国柏林，1988 年创）：系统屋+B2B 在线店——**Behördensysteme（公共部门系统专门线）+Rahmenverträge（框架协议）+E-Procurement 强项**；伙伴 HP Enterprise/Kyocera/Wortmann/Epson；服务线含装配/物流/租赁/环保处置；“Technik für Menschen”
+- 【推断】**公共框架/Behörde 专门线=公共采购红线主干**；私营段（中小企业/装配/商店）为窄切口
+- 【假设】边界句邮件：明示不碰 Behörde/框架，只谈私营 B2B 段的 value 件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Lösungen für Behörden aus einer Hand…Behördensysteme…Rahmenverträge…seit mehr als 25 Jahren”
   > “Lösungen für Behörden aus einer Hand…Behördensysteme…Rahmenverträge…seit mehr als 25 Jahren”
   > 来源：https://www.human-art.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：柏林 1988 系统屋（公共框架专精+私营段）
+- **产品线与在售品牌**：HPE/Kyocera/Wortmann/Epson
+- **目标行业与场景**：公共（红线）+私营 SMB（窄段）
+- **团队与规模**：区域中型
+- **决策链与对接人**：vertrieb@ 口
+- **技术与认证**：框架级
+- **采购与供应链信号**：框架+B2B 店
+- **近期动态与线索**：Top5 Lieferant 2025
+- **与我方契合点**：私营 B2B 店 value 件
+- **风险与注意**：公共红线
 
 ## 产品决策（Saga · 单一决策口径）
 

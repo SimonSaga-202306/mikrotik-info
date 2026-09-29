@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-475（人-司关联档）→ 互注；首触走 A-475
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Pournaras Athanasios (Xpat IT)（希腊）：雅典 WISP/网络活跃电商：**MikroTik/Ubiquiti/TP-Link/Teltonika/Grandstream/Alta Labs/Ruckus/Ajax/Dahua/Hikvision**;Managed Switch 类目在营（CRS418 PoE €460 在价）;B2B 30 天信用开放
+- 【推断】店已有 Managed PoE 贵族牌=替补对照行直接正口（€ 价格文化+30 天信用=分销心态）
+- 【假设】店目录替补对照行正口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -117,6 +126,19 @@ updated: 2026-09-28
 - **【在售品牌】**Manufacturers: MikroTik/Ubiquiti/TP-Link/Teltonika/Grandstream/Alta Labs/Ruckus; Managed Switch 类目在营（CRS418 €460）
   > Manufacturers: MikroTik/Ubiquiti/TP-Link/Teltonika/Grandstream/Alta Labs/Ruckus; Managed Switch 类目在营（CRS418 €460）
   > 来源：https://www.xpatit.gr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希腊网络装备电商（雅典）
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Teltonika/Grandstream 等
+- **目标行业与场景**：WISP/集成商/ SMB
+- **团队与规模**：小型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：B2B 30 天信用
+- **采购与供应链信号**：库存电商
+- **近期动态与线索**：B2B 信用新政
+- **与我方契合点**：替补对照行（Managed Switch 类目在营）
+- **风险与注意**：两大牌深度
 
 ## 产品决策（Saga · 单一决策口径）
 

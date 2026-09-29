@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Michael Schmidt IT GmbH（德国 Erlangen-Nürnberg 大区）：安全为先系统屋——IT 安全/IT 外包/虚拟化安全/ITK 通信/云安全/微软支持（O365/虚拟化）；客户=企业+**öffentlichen Einrichtungen（公共机构守界段）**；公司名即创始人迈克尔·施密特具名
+- 【推断】“Sichere”贯穿全站（安全叙事六次以上）=文档完整度+认证件敏感；公共段守界，私营段主打
+- 【假设】Erlangen-Nürnberg=西门子等工业腹地，私营制造业客户为核
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Als zuverlässiger IT-Partner für die Region Erlangen-Nürnberg bieten wir Unternehmen und öffentlichen Einrichtungen innovative, sichere IT-Lösungen”
   > “Als zuverlässiger IT-Partner für die Region Erlangen-Nürnberg bieten wir Unternehmen und öffentlichen Einrichtungen innovative, sichere IT-Lösungen”
   > 来源：https://www.msit-gmbh.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Erlangen 安全系统屋（公段守界+私段主打）
+- **产品线与在售品牌**：微软体系/未明示硬件
+- **目标行业与场景**：工业私营（主打）+公共（守界）
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@/M. Schmidt 具名
+- **技术与认证**：安全体系
+- **采购与供应链信号**：随单
+- **近期动态与线索**：安全线完整
+- **与我方契合点**：安全意识客户的文档级 value 件
+- **风险与注意**：公共段守界
 
 ## 产品决策（Saga · 单一决策口径）
 

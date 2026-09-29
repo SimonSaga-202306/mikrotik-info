@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Poyraz Network（土耳其）：Poyraz Network（土 B2B 分销大盘）:**MikroTik Master Distributor**+Ubiquiti Authorized+Mimosa/Tachyon/Cudy/V-Sol/Cambium/RF element/Ruijie/Ignitenet;10+ 年 5000+ SKU;15 点当天发
+- 【推断】**官方 Master Distributor=替补接受度最低档**；诚实低密窄针（预算场景替补）+其 B2B 大盘=对照行逻辑自洽
+- 【假设】官方谱旁对照低密窄针（诚实角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**'Mikrotik - Master Distributor' + 'Ubiquiti - Authorized Distributor' + 5000+ product varieties
   > 'Mikrotik - Master Distributor' + 'Ubiquiti - Authorized Distributor' + 5000+ product varieties
   > 来源：https://poyraznetwork.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土 B2B 大盘（MT Master Distributor）
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Mimosa/Cudy/V-Sol 等
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@poyraznetwork.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：对照低密窄针（官方谱旁诚实角）
+- **风险与注意**：官方档优先——接受度最低档
 
 ## 产品决策（Saga · 单一决策口径）
 

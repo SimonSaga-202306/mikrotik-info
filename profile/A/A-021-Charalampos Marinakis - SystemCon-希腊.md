@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntalianis
+- 【推断】中小企业 IT 全栈（BI/ERP/基础设施/云+结构化布线/有线无线网/网安）项目制；多厂商组合（Microsoft/AWS/Fortinet/Huawei Enterprise/Ubiquiti/Alcatel/MikroTik/Dell/Lenovo/Yeastar/Synology）
+- 【假设】克里特岛旅游旺季酒店/企业 WiFi 项目多，接入层 PoE 交换机走其组合品牌
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCINE）
@@ -150,6 +157,19 @@ updated: 2026-09-28
 - **【联系方式】**+30 2811 217219 / info@systemcon.gr；MX=systemcon-gr.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
   > +30 2811 217219 / info@systemcon.gr；MX=systemcon-gr.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
   > 来源：https://systemcon.gr/en/contact-us/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：克里特全栈 IT 服务商（BI/ERP/基础设施/布线/网络/网安），MTCINE 双证工程师带队
+- **产品线与在售品牌**：Microsoft/AWS/Fortinet/Huawei Enterprise/Ubiquiti/Alcatel/MikroTik/Dell/Lenovo/Yeastar/Synology 伙伴墙
+- **目标行业与场景**：本地中小企业→酒店（克里特旅游季 WiFi）；结构化布线+有线无线网
+- **团队与规模**：LinkedIn 2-10 人；合伙人制；前台 1 人
+- **决策链与对接人**：创始人 Charis Marinakis（Founder/Senior IT Engineer）+ 联创 Spyros Ntalianis，双人到顶
+- **技术与认证**：MTCNA+MTCINE（讲师级路由深度）；fortinet/huawei 伙伴
+- **采购与供应链信号**：多厂商比价常态；接入层型号常随 Ubiquiti/MikroTik 摇摆
+- **近期动态与线索**：官网 2025-02 上新 BI 平台页面（在用中）
+- **与我方契合点**：PoE 接入层刚需（AP/CCTV/酒店）；白标补其无硬件品牌短板
+- **风险与注意**：已有 Ubiquiti/华为企业级供应关系；务必讲工程语言不夸参数
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ISP Supplies（美国 College Station TX 等三仓）：**美国 WISP/ISP 装备分销头牌**——Ubiquiti/Tarana/TP-Link/Omada 领衔+Cyclone 自牌（线柜/井盖/熔接盒 均 BABA Compliant 标注）；专页 'UniFi Enterprise Switching'；**BABA 合规边界**：部分品类标注 Build America Buy America——非合规品不可提（守界句必压）
+- 【推断】二轨替补窄位死守界句边界。更风险权重：对面是可能讨论下替代和 OEM 的对手——BABA 标注品类不可供应，话术必须前句限定
+- 【假设】非 BABA 品类的 value PoE 二轨替补窄口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MikroTik 与 Ubiquiti 认证讲师）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Wireless & Fiber Network Equipment for ISPs & WISPs——Cyclone BABA Compliant 标注品类；UniFi Enterprise Switching 专页
   > Wireless & Fiber Network Equipment for ISPs & WISPs——Cyclone BABA Compliant 标注品类；UniFi Enterprise Switching 专页
   > 来源：https://www.ispsupplies.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 WISP/ISP 分销头牌
+- **产品线与在售品牌**：Ubiquiti/Tarana/Omada/自牌 Cyclone
+- **目标行业与场景**：WISP/ISP/FISP 全谱
+- **团队与规模**：分销组织+三仓
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：**BABA Compliant 品类标注**
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：MDU 专页/新品专区
+- **与我方契合点**：非 BABA 品类二轨窄口（守界句关键）
+- **风险与注意**：BABA 边界+自牌线自重——前句句法
 
 ## 产品决策（Saga · 单一决策口径）
 

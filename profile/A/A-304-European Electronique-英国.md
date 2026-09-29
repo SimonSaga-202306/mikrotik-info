@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】European Electronique（英国 Eynsham，近 30 年系统集成商）：Hybrid IT/网络安全/网络基础设施；**Aruba Platinum Partner（HPE 系）+Fortinet Expert Partner**;公私双接但教育公共叙事浓（Connect the Classroom 2026 £325M 增拨、BETT 2026 参展）
+- 【推断】大 SI 教育主线 + Aruba Platinum 主权：私营单采窄位死守界句（公立教育段+Aruba 前句框定）
+- 【假设】私营商务楼宇项目的 value 替补窄针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**leading UK systems Integrator…Aruba Platinum Partner……Fortinet Expert Partner；News: Connect the Classroom 2026/BETT 2026
   > leading UK systems Integrator…Aruba Platinum Partner……Fortinet Expert Partner；News: Connect the Classroom 2026/BETT 2026
   > 来源：https://www.euroele.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国大系统集成商（≈30 年）
+- **产品线与在售品牌**：Aruba Platinum/Fortinet/HPE
+- **目标行业与场景**：教育公共强+私营（守界注）
+- **团队与规模**：大 SI
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：框架采购+项目随单
+- **近期动态与线索**：Connect the Classroom 2026
+- **与我方契合点**：私营段窄针（公立教学段+Aruba 双守界）
+- **风险与注意**：Aruba Platinum 主权——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

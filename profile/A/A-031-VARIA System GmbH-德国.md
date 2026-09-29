@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】VARIA System GmbH（Chemnitz，+49 371 33716890）：德国大型网络产品 B2B 电商/增值分销（varia-store.com），Ubiquiti/MikroTik/Teltonika/Delock/TP-Link/Deciso 官方分销商，MikroTik Master+VAD 档；Kauf auf Rechnung（发票结算）/Bonus 积分/24/7 报价服务/DHL 国际发货/14 天退货
+- 【推断】纯分销大流水业态：接入层 PoE 空白价位段与自有项目盘白牌是其可用的增量牌
+- 【假设】德企 SMB 走量盘对 $100-170 价位段的 24 口 PoE 有持续空白
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【联系方式】**CSV：shop@varia-store.com +49 371 33716890；MX=mail.varia-system.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > CSV：shop@varia-store.com +49 371 33716890；MX=mail.varia-system.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.varia-store.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Chemnitz 大型 B2B 网络电商/增值分销（Ubiquiti/MikroTik 等官方分销，MikroTik Master 档）
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Teltonika/Delock/TP-Link/Deciso + RAID/ICYBOX 类存储配件
+- **目标行业与场景**：德国/国际 SMB 与集成商零售批发盘
+- **团队与规模**：电商+分销大流水（24/7 报价服务）
+- **决策链与对接人**：shop@ 采购窗；Kauf auf Rechnung 信用审核体系成熟
+- **技术与认证**：MikroTik Master+VAD 級
+- **采购与供应链信号**：发票结算+国际 DHL：成熟 B2B 信用流程
+- **近期动态与线索**：2026 年新服务包装（Omada 现场换机 3 年服务转售）
+- **与我方契合点**：接入层 PoE 空白价位段白牌/新牌导入
+- **风险与注意**：分销商毛利思维：要的是出厂价+交期+无售后雷；第一次别谈愿景
 
 ## 产品决策（Saga · 单一决策口径）
 

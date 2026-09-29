@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】PKE Deutschland GmbH（PKE Gruppe，德奥捷波四国集团，柏林分部口）：**楼宇技术集团**——安全技术/通信技术/媒体技术/楼宇自动化/物流系统/Mobility Solutions/能源可持续管理/IT-Security 九域；**自研系统族 AVASYS®/DHS-X/acurade G5（“Made by PKE”制造商性）**；厂商中立集成
+- 【推断】集团级楼宇技术商+自研报警/楼控系统=双通道：项目随单件+自研系统旁网络配套（厂商中立自述利好第三方件）
+- 【假设】“lokaler Dienstleister”定位=柏林分部有本地项目预算
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“zukunftsfähige Technologien…Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation…Eigensysteme wie AVASYS, DHS-X oder acurade G5…Made by PKE”
   > “zukunftsfähige Technologien…Sicherheitstechnik, Kommunikations- und Medientechnik sowie Gebäudeautomation…Eigensysteme wie AVASYS, DHS-X oder acurade G5…Made by PKE”
   > 来源：https://www.pke-de.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：PKE 集团楼宇技术商（自研系统+厂商中立）
+- **产品线与在售品牌**：AVASYS/DHS-X/acurade 自研
+- **目标行业与场景**：楼宇/物流/能源全谱
+- **团队与规模**：四国集团
+- **决策链与对接人**：berlin@ 分部口
+- **技术与认证**：自研级
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：acurade G5 新代
+- **与我方契合点**：楼宇项目接入件+自研系统旁配套
+- **风险与注意**：集团采购路径
 
 ## 产品决策（Saga · 单一决策口径）
 

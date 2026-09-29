@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-352（人-司关联档）→ 互注；首触走 A-506
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MHzShop（法国）：MHzShop 法 OXID 店（QuWireless 官方分销+MT/Ubiquiti/Teltonika/MARS/Poynting/Telegartner；PoE 配件与众 line；custom cable）
+- 【推断】天线+PoE 配件同篮逻辑；官方分销习惯=多线收品
+- 【假设】收录对照正口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -115,6 +124,19 @@ updated: 2026-09-28
 - **【产品线】**Official distributor of QuWireless + Ubiquiti Teltonika 牌墙+PoE injectors €16
   > Official distributor of QuWireless + Ubiquiti Teltonika 牌墙+PoE injectors €16
   > 来源：https://www.mhzshop.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法 OXID 射频+网络店（官方徽标墙）
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Teltonika/QuWireless/Poynting/Telegartner
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@mhzshop.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：QuWireless 官方分销+5 牌墙收录对照正口
+- **风险与注意**：Ubiquiti 谱厚——需对照明确
 
 ## 产品决策（Saga · 单一决策口径）
 

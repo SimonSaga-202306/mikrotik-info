@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-125（同品牌不同分部（独立实体，可并行））→ 非重复，可并行开发；标注防误判
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Security 101 Rochester NY 分支：同 Security 101 集团体系（一线伙伴墙+Team101+101ware 门户）；**具名 victor.wainwright@security101.com**（CSV 公开列）
+- 【推断】具名分支负责人=直接商务对话口；同集团判别与 A-125 一致（一线同盟→第二架窄位）
+- 【假设】具名首邮定制（祝贺 SiteGuard/监控托管线）+分支弹性问题
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**“Security 101 maintains long-standing strategic partnerships with the security industry’s leading manufacturers”
   > “Security 101 maintains long-standing strategic partnerships with the security industry’s leading manufacturers”
   > 来源：https://www.security101.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Security 101 加盟分支（Rochester NY）
+- **产品线与在售品牌**：一线伙伴墙（同集团；CSV 载 Allied 信号）
+- **目标行业与场景**：十行业
+- **团队与规模**：集团级分支
+- **决策链与对接人**：Victor Wainwright 具名
+- **技术与认证**：Team101
+- **采购与供应链信号**：集团伙伴目录
+- **近期动态与线索**：同集团
+- **与我方契合点**：分支第二架价值线（窄判别）
+- **风险与注意**：同盟强
 
 ## 产品决策（Saga · 单一决策口径）
 

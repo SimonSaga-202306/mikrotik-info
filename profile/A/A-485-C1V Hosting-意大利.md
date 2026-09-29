@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】C1V Hosting（意大利）：C1V Hosting（意 Pomezia RM):VPS/hosting 主业+**'Distributore ufficiale MikroTik in Italia' CHR 自称**+MikroTik/Ubiquiti 硬件 store 副业线；AS212271/LIR
+- 【推断】主业云=硬件副业浅；有专箱=线确有在管；低密窄针
+- 【假设】硬件 store 副业收录窄位（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**Store 类目： 'Prodotti e Licenze MikroTik' + 'Prodotti Ubiquiti' 硬件销售线
   > Store 类目： 'Prodotti e Licenze MikroTik' + 'Prodotti Ubiquiti' 硬件销售线
   > 来源：https://www.c1vhosting.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意罗马 VPS 云商（硬件 store 副业）
+- **产品线与在售品牌**：MikroTik/Ubiquiti 小谱
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：mikrotik@c1vhosting.it 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：store 收录窄位（副业低密）
+- **风险与注意**：主业云——硬件优先序低
 
 ## 产品决策（Saga · 单一决策口径）
 

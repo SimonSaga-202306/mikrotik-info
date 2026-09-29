@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年
+- 【推断】45,000 客户基盘=随单件滚动量大；消防+安防一体=联动柜位多；K-12 校安=地方常规商用
+- 【假设】“quality is the standard”文化+多执照技师制度=对“安装后不出事”的硬件（看门狗/宽压）话术有效
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“more than 45,000 customers across Ohio rely on Silco…over 1,000 reviews on Google with an average of a 4.9 star rating”
   > “more than 45,000 customers across Ohio rely on Silco…over 1,000 reviews on Google with an average of a 4.9 star rating”
   > 来源：https://silcofs.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：俄亥俄多州消防安防领先商（45,000 客户）
+- **产品线与在售品牌**：消防/安防全谱（CSV 载 Allied 信号）
+- **目标行业与场景**：K-12/商业/住宅
+- **团队与规模**：区域大型
+- **决策链与对接人**：info@/调度口
+- **技术与认证**：多执照技师
+- **采购与供应链信号**：45,000 客户滚动
+- **近期动态与线索**：BDA/群通知扩线
+- **与我方契合点**：安防随单 PoE 柜
+- **风险与注意**：体量大概率谈判周期
 
 ## 产品决策（Saga · 单一决策口径）
 

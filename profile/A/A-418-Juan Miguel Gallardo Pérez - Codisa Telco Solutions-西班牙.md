@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Juan Miguel Gallardo Pérez (Codisa TS)（西班牙）：**Badajoz/PCTEX Codisa TS：电信工程咨询+MSP 托管+无人机巡检（含机场空域）+MikroTik 认证培训（MTCSWE/MTCEWE 新课在列）+Industria 4.0**;**ENS RD311-2022 ALTA 认证徽标（西国家安全框架高级）**
+- 【推断】工程+MSP+MT 培训三业态=随单+课堂双角；ENS ALTA=公共/关基项目在谱——守界句必压（私营段主打）
+- 【假设】双角：MSP 随单+MT 培训课堂（私营段；ENS 守界句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE）
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**Servicios: Ingeniería telecom MSP/Drones/Formación MikroTik(MTCSWE/MTCEWE)/Industria 4.0 + distintivo ENS ALTA RD311-2022
   > Servicios: Ingeniería telecom MSP/Drones/Formación MikroTik(MTCSWE/MTCEWE)/Industria 4.0 + distintivo ENS ALTA RD311-2022
   > 来源：https://www.codisats.es
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西 Badajoz 电信工程+MSP+MT 培训
+- **产品线与在售品牌**：电信工程/MSP/无人机/MTCSWE/Industria 4.0
+- **目标行业与场景**：**私营段为主打**（ENS 级公共/关基=守界）
+- **团队与规模**：中型
+- **决策链与对接人**：jmgallardo@ 具名
+- **技术与认证**：**ENS ALTA RD311-2022**+MT 官训
+- **采购与供应链信号**：PCTEX 孵化
+- **近期动态与线索**：新区块扩张
+- **与我方契合点**：MSP 随单+课堂对照行双角（私营段）
+- **风险与注意**：**ENS ALTA 在墙**——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

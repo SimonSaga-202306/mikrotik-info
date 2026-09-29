@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Sinaltech（葡 ICT 集成/MSP）：项目设计/支持管理/MSP 三线；地方公共行政数字化案例公开；Huawei Partner Summit 2021 双奖；伙伴墙 NOS/Huawei/Cisco/Teldat/Yealink/MikroTik/Juniper/Aruba/ESET/Veeam/Ekahau
+- 【推断】集成/MSP 项目型=设备随方案走；多厂商伙伴墙=比价心智成熟
+- 【假设】公共行政案例=采购合规流程优先（民用政务，透明招标段）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE）
@@ -120,6 +127,19 @@ updated: 2026-09-28
 - **【荣誉】**Huawei Partner Summit 2021 双奖
   > Huawei Partner Summit 2021 双奖
   > 来源：https://www.sinaltech.pt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：葡 ICT 集成/MSP
+- **产品线与在售品牌**：NOS/Huawei/Cisco/Teldat/Yealink/MikroTik/Aruba 伙伴墙
+- **目标行业与场景**：企业网络/公共行政数字化
+- **团队与规模**：（官网推）
+- **决策链与对接人**：geral@ 直口
+- **技术与认证**：Huawei 双奖 2021;Ekahau 无线设计
+- **采购与供应链信号**：项目随单采购
+- **近期动态与线索**：公共行政案例公开
+- **与我方契合点**：项目随单 24 口 PoE 低密位（$165 锚点一致）
+- **风险与注意**：公共行政案例——透明合规采购流程优先
 
 ## 产品决策（Saga · 单一决策口径）
 

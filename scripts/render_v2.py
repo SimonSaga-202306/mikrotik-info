@@ -32,6 +32,21 @@ for _tp in sorted(ROOT.glob('batch/contact_research_*.json')):
         if _r.get('code') and _r.get('level'):
             TIER[_r['code']] = _r['level']
 
+# 2026-09-29 用户实测退信台账 + 关联实体群（复盘波）
+BOUNCE = {}
+try:
+    for _br in json.loads((ROOT / 'batch/邮件退信_2026-09-29.json').read_text(encoding='utf-8'))['records']:
+        BOUNCE[_br['code']] = _br
+except FileNotFoundError:
+    pass
+GROUPS = {}
+try:
+    for _gr in json.loads((ROOT / 'batch/关联实体群_2026-09-29.json').read_text(encoding='utf-8'))['groups']:
+        for _c in _gr['codes']:
+            GROUPS.setdefault(_c, _gr)
+except FileNotFoundError:
+    pass
+
 PRICE = {'STC-28DGGPM': {'price': '$99 USD EXW (2026-09-28, 15天有效）'.replace('（', '(').replace('）', ')'),
                          'price_cn': '$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）',
                          'desc': '8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启'},
@@ -146,6 +161,13 @@ def render(e, ctx):
     w('- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理')
     w('')
 
+    _gr = GROUPS.get(e['code'])
+    if _gr:
+        _map = {'dup': '同一实体重复建档', 'person-corp': '人-司关联档', 'brand-branch': '同品牌不同分部（独立实体，可并行）'}
+        _others = '、'.join(c for c in _gr['codes'] if c != e['code'])
+        w('- **关联档警示**：%s（%s）→ %s' % (_others, _map.get(_gr['relation'], _gr['relation']), _gr['action']))
+        w('')
+
     # ---- 基本事实 ----
     w('## 基本事实（事实/推断/假设分层）')
     w('')
@@ -171,6 +193,18 @@ def render(e, ctx):
     if '待人工补信息' in note:
         w('| ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |')
     w('')
+
+    _fih = (ctx.get('rec55') or {}).get('fih56') or {}
+    if _fih.get('fact'):
+        w('')
+        w('**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**')
+        w('')
+        w('- 【事实】%s' % _fih['fact'])
+        if _fih.get('inference'):
+            w('- 【推断】%s' % _fih['inference'])
+        if _fih.get('hypothesis'):
+            w('- 【假设】%s' % _fih['hypothesis'])
+        w('')
 
     # ---- 技术与在用 ----
     w('## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）')
@@ -232,6 +266,15 @@ def render(e, ctx):
     w('')
 
     # ---- 关键人 KP ----
+    _bc = BOUNCE.get(e['code'])
+    if _bc:
+        w('')
+        w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
+          % (_bc.get('date', '2026-09-29'), _bc['bounced'],
+             '服务器拒收' if _bc['type'] == 'blocked' else '地址不存在',
+             _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', []))))
+        w('  > 处置：%s' % _bc.get('action', ''))
+
     w('## 关键人（KP）与触达通道')
     w('')
     if ctx['rec55'] and ctx['rec55'].get('kp'):
@@ -336,6 +379,14 @@ def render(e, ctx):
         if ctx['rec55'].get('reliability'):
             w('> 核对可靠性说明：%s' % ctx['rec55']['reliability'])
             w('')
+
+    _d10 = (ctx.get('rec55') or {}).get('dims10') or {}
+    if _d10:
+        w('### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）')
+        w('')
+        for _k, _v in _d10.items():
+            w('- **%s**：%s' % (_k, _v))
+        w('')
 
     # ---- 产品决策 ----
     w('## 产品决策（Saga · 单一决策口径）')

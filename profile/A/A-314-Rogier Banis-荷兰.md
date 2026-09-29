@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Ningaloo Network Solutions B.V.（荷兰 Maurik，'connecting the dots since 1996'）：nCloud/nSafe/nVoice/nSecure/nConnect/nStorage 六线本地 IT/云服务；CSV=**MikroTik 认证顾问 Rogier Banis（MTCRE/MTCINE），20+ 年 LAN/WAN 含无线 P2P/P2MP 与流量整形**（顾问页电话与官网 088-7777500 一致双核）
+- 【推断】本地 MSP+顾问双身份：顾问诚实角挂着、客户现场件随单真实——训练通道判 CONSULT-OEM（其 MikroTik 栈共存）
+- 【假设】顾问+托管双窄针（CONSULT-OEM）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCINE）
@@ -139,6 +146,19 @@ updated: 2026-09-28
 - **【业务定位】**internet & cloud, but simple——connecting the dots since 1996；CSV: MikroTik 顾问名录双核（官网电话一致）
   > internet & cloud, but simple——connecting the dots since 1996；CSV: MikroTik 顾问名录双核（官网电话一致）
   > 来源：https://ningaloo.cloud
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 Maurik 本地 MSP（1996）
+- **产品线与在售品牌**：自有栈（推断 MikroTik 注）
+- **目标行业与场景**：本地 SMB/住家
+- **团队与规模**：小型团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：MTCRE/MTCINE（CSV 双核）
+- **采购与供应链信号**：托管随件
+- **近期动态与线索**：—
+- **与我方契合点**：顾问+托管双窄针（CONSULT-OEM）
+- **风险与注意**：栈未公开（推断标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Watkins Security LLC（美国）：60+ 年经验安防工程——AI 视频监控/IP 视频/火警/门禁/网络+IT 方案全链；过往客户墙：**美国国土安全部（DHS）**、美网公开赛、G20 匹兹堡、Vail（公私混，含联邦机构红线）；1000 客户/200 万+安装件/3 国；开放式架构集成（POS/入侵/考勤/群发通知皆可互联）；CSV：Allied Telesis 在册
+- 【推断】赛事/会场级高清监控=密度摄像柜 PoE 惯件；联邦线不碰
+- 【假设】Vail/美网类场地项目是其私营合规主巷
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -146,6 +153,19 @@ updated: 2026-09-28
 - **【风险与注意】**Past Clients：US Department of Homeland Security（联邦红线不涉）/US Open/G20 Pittsburgh/Vail
   > Past Clients：US Department of Homeland Security（联邦红线不涉）/US Open/G20 Pittsburgh/Vail
   > 来源：https://www.watkins-security.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 60 年安防工程商（AI 监控+IT 全链）
+- **产品线与在售品牌**：开源架构集成+Allied Telesis 等
+- **目标行业与场景**：赛事场馆/度假村/商业（联邦段不触）
+- **团队与规模**：跨 3 国
+- **决策链与对接人**：Principal（CSV 具名）info@
+- **技术与认证**：开放式架构集成
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：AI 监控主打
+- **与我方契合点**：高密度摄像柜 PoE 合作
+- **风险与注意**：联邦红线+私营段合规
 
 ## 产品决策（Saga · 单一决策口径）
 

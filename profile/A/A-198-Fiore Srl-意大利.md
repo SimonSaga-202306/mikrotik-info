@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Fiore Srl（意大利 Paderno Dugnano MI 总部，1983 年创，40+ 年）：**弱电分销专家**——结构化布线/Networking/**UCC**；**总仓 2,300 mq、SKU 8,500、客户 1,000/年、机柜 19" 年销 10,000 台、数据电缆年销 13,000 km**；三分支 Vicenza/Roma/Bari；**Fiore Rack 自产定制机柜（“Progettiamo e produciamo rack su misura”=自产模式实锤）**；新闻：Omada Fusion Pro/Leviton webinar/Yeastar PBX 新发布/Avaya banking；联系表单按职业分（安装商/数据安装/电话安装/批发/分销/经销商/Carrier…）
+- 【推断】**自产模式=OEM 逻辑实操验证**；10,000 机柜/年=机柜线旁的网络件上架天然；Leviton/Omada 在新闻线
+- 【假设】表单按“Distributore/Grossista”分型=服务多层渠道，其 networking 线对 value 档新线是职业级窗口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Oltre 40 anni di esperienza…2.300 mq…10.000 Rack 19" consegnati per anno…13.000 Km cavo dati venduto per anno…Progettiamo e produciamo rack su misura per te”
   > “Oltre 40 anni di esperienza…2.300 mq…10.000 Rack 19" consegnati per anno…13.000 Km cavo dati venduto per anno…Progettiamo e produciamo rack su misura per te”
   > 来源：https://www.fioresrl.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利弱电分销巨头（自产机柜+多分支）
+- **产品线与在售品牌**：Leviton/Omada/Yeastar/Avaya 生态
+- **目标行业与场景**：安装商/分销多层渠道
+- **团队与规模**：34 人分销
+- **决策链与对接人**：info@ 口
+- **技术与认证**：350h 培训
+- **采购与供应链信号**：分销目录+自产
+- **近期动态与线索**：Omada Fusion Pro 发布
+- **与我方契合点**：networking 支线 value 新线+Fiore Rack 式自产商谈
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

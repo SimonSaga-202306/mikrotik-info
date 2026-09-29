@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Andrii Sychov（乌克兰）：建档注：官网 504 Gateway Timeout(2026-09-29 实测）——站挂不可达；roster 邮箱 trainer@mikrotik.net.ua 无存活旁证
+- 【推断】判定=建档（先例同族）
+- 【假设】（待触发供位）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE）
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【近期动态】**mikrotik.net.ua 实返 '504 - Gateway Timeout'
   > mikrotik.net.ua 实返 '504 - Gateway Timeout'
   > 来源：http://www.mikrotik.net.ua
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：乌克兰：乌 MT 培训站主理（站 504 挂注）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：—
+- **团队与规模**：—
+- **决策链与对接人**：—
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：候选供位（待触发）
+- **风险与注意**：官网 504 Gateway Timeout(2026-09-29 实测）——站挂不可达；roster 邮箱 trainer@mikrotik.net.ua 无存活旁证
 
 ## 产品决策（Saga · 单一决策口径）
 

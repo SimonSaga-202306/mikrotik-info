@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Philipp Marcel Albrecht (PortUp)（瑞士）：Zürich PortUp GmbH(CHE-451.076.872):**'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, OPNsense'**;MTCNA 课页+Proxmox/Synology/MS/Yeastar/Sipcall/Swisscom 伙伴
+- 【推断】多牌网络工程+MT 官训双业态：现场随单缝+课堂对照行；新公司的组合开放期=接触窗
+- 【假设】双角：现场随单+MT 官训课堂对照行
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E+MTCEWE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, and OPNsense'
   > 'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, and OPNsense'
   > 来源：https://www.portup.ch
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞士 Zürich 网络工程+MT 官训
+- **产品线与在售品牌**：MikroTik 专精+Cisco/UniFi/Aruba/FortiGate/OPNsense 兼
+- **目标行业与场景**：单/多点企业网+VoIP
+- **团队与规模**：小微
+- **决策链与对接人**：info@portup.ch 口
+- **技术与认证**：MT 官训资质
+- **采购与供应链信号**：Synology/MS/Sipcall/Swisscom 伙伴
+- **近期动态与线索**：CHE 新注册
+- **与我方契合点**：现场随单+课堂对照行双角（组合开放期）
+- **风险与注意**：新公司——验证量未明
 
 ## 产品决策（Saga · 单一决策口径）
 

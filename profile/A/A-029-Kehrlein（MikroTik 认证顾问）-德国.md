@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）
+- 【推断】高端个人顾问：客户为需要 HA/MPLS 级网络的企业；交换机话题随 CAPsMAN/MLAG 咨询带出来，教具+实验室概念适用
+- 【假设】“References on request”NDA 客户群=多为中大型项目，POC 样机文化适用
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCRE 等）
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【决策链与对接人】**“KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > “KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.kehrlein.de/en/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：慕尼黑+Haßfurt 双址高端网络咨询（HA/BGP/MLAG 级）+IT 管理/SAFe 培训双轨
+- **产品线与在售品牌**：不卖硬件；项目式推荐
+- **目标行业与场景**：中大型企业 HA 网络/全球远程+现场 24×7
+- **团队与规模**：个人（15+ 年管理经验；监事/顾问级）
+- **决策链与对接人**：Sandro Kehrlein 本人
+- **技术与认证**：官方 MikroTik 顾问 2007 起；10 证全谱；SAFe ASPC 培训师
+- **采购与供应链信号**：项目制推荐、POC 文化
+- **近期动态与线索**：SAFe ASPC 高阶认证（德企管理咨询稀缺位）
+- **与我方契合点**：咨询顾问型推荐通道；实验室样机；技术信服先行
+- **风险与注意**：“References on request”NDA 级客户——不得打探其客户名单；高逼格技术对话
 
 ## 产品决策（Saga · 单一决策口径）
 

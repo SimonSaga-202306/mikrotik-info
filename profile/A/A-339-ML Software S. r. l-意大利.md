@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MLS（意大利 Catania，30 年）：**Network Management & Cybersecurity 专屋**——自有数据中心、ISO 9001+27001:2022、h24 assistenza；伙伴 OPSWAT/Orchestra Group/Barracuda;Full Network Management 服务+Offsite Backup/Virtual Office
+- 【推断】西西里 30 年网络管理屋：Full Network Management=长期管客户网络与换代——随单正口；网络安全伙伴墙偏安全而非网络厂牌=接入层空位真实
+- 【假设】托管客户网络的 value PoE 换代随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Network Management e Cybersecurity——Full Network Management: Gestiamo e monitoriamo totalmente la tua rete aziendale；自有 Data Center
   > Network Management e Cybersecurity——Full Network Management: Gestiamo e monitoriamo totalmente la tua rete aziendale；自有 Data Center
   > 来源：https://www.mlsoftware.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利西西里网络管理+安全专屋（30 年）
+- **产品线与在售品牌**：安全栈（无网络厂牌在墙）
+- **目标行业与场景**：区域企业全谱
+- **团队与规模**：中型 MSP
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO 9001/27001:2022
+- **采购与供应链信号**：托管随单+自有 DC
+- **近期动态与线索**：Voucher 云与网络安全推广
+- **与我方契合点**：托管网络 value 换代随单（强口）
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

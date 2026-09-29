@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Marcom S.r.l.（意大利）：Marcom S.r.l.（意 Verona):**工业自动化分销**:Moxa/Teltonika/RAK/Milesight/InHand/Hilscher/Softing/ICP DAS/RESI/Metz Connect 等 22 牌；LoRaWAN/4G5G/多协议网关/Fieldbus 专精
+- 【推断】Moxa/InHand 高端工业谱=DIN 轨 PoE 类目存在；value 档是谱系补充逻辑
+- 【假设】Moxa/InHand 谱旁 value 工业 PoE 档
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > 'Industrial Automation 伙伴： Fieldbuses, Wireless, Multiprotocol Gateways' + Moxa/InHand/ICP DAS 牌墙
   > 来源：https://shop.marcomweb.it
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意工业自动化分销（Verona 实体店）
+- **产品线与在售品牌**：Moxa/Teltonika/InHand/Milesight
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：nfo@marcomweb.it 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：工业谱旁 value 档（谱补逻辑）
+- **风险与注意**：Moxa 谱厚——需规格战
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi Marcom team,
 
 Fieldbus gateways, LoRaWAN, 4G/5G industrial routers, Moxa and InHand on the wall - your industrial connectivity catalogue is deep, and the DIN-rail PoE mid-tier is the one slot that keeps coming up in automation cabinets
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: beside your Moxa and InHand lines, would you evaluate a documented value DIN-rail industrial PoE unit?
 

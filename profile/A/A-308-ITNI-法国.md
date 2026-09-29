@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ITNI SAS（法国 Saint-Denis）：官网为壳页（安全 Extranet 门户）+反诈警示（'不提供应商开户、不先电话不邮件下单'——即供应商首触须电话+邮件并用，其自布规则）;CSV=**Allied Telesis Integrate Elite/Integrate/Resell 三证伙伴**
+- 【推断】大集成商壳页证据偏薄：AT Elite 名录身份=体量与工程能力在；低信号一针，话术尊其电话-邮件并用规则
+- 【假设】其一页窄针：价值替补上架缝隙
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【合作方式】**Avertissement: ITNI…ne passe de commande par mail sans appel téléphonique au préalable——CSV: AT Integrate Elite 三证
   > Avertissement: ITNI…ne passe de commande par mail sans appel téléphonique au préalable——CSV: AT Integrate Elite 三证
   > 来源：https://www.itni.fr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国 Saint-Denis 大集成商（壳页）
+- **产品线与在售品牌**：AT Integrate Elite（CSV）
+- **目标行业与场景**：—
+- **团队与规模**：—
+- **决策链与对接人**：contact@ 口（先电话规则注）
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：低信号窄位一针
+- **风险与注意**：官网壳页证据偏薄已标注
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价
+- 【推断】工业交换机等对手盘（EKI/Westermo/B+B）=我们温宽 PoE 的错位补位口；其 EOL 替代服务恰是低价位替换的接客场景
+- 【假设】铁路/能源段公共性强（ČD/ČEZ 体系），民营制造/水务才是一把手
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Westermo, B+B SmartWorx）
@@ -151,6 +158,19 @@ updated: 2026-09-28
 - **【目标行业】**“Energetika a kritická infrastruktura…Železnice a doprava…Výroba a automatizace…Vodárenství”
   > “Energetika a kritická infrastruktura…Železnice a doprava…Výroba a automatizace…Vodárenství”
   > 来源：https://www.westercom.eu/cs/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：捷克斯洛伐克工业通信分销（Advantech 全线+Westermo+B+B）：EOL 替代+项目报价
+- **产品线与在售品牌**：ADAM/EKI/UNO/ARK/Westermo/B+B SmartWorx
+- **目标行业与场景**：能源电网/铁路/制造/水务/医疗/机场/半导体/物流
+- **团队与规模**：项目型分销
+- **决策链与对接人**：eshop@+603 509 790
+- **技术与认证**：工业通信选型服务
+- **采购与供应链信号**：EU 现货确认服务=其穿梭性强
+- **近期动态与线索**：2026 新视觉（hero-*-2026）多行业落地
+- **与我方契合点**：EOL 替代场景低价补位；温宽 PoE 错位
+- **风险与注意**：公共段（铁路整车/电网）守边界；与 Westermo 正面对标需谨慎定位“补充线”
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Groupe Networks（法国 Aubagne/马赛圈，20+ 年）：**企业数字化转型集成商**——数字打印逻辑+**ZEENDOC 集成伙伴（法国 DMS）**+网络安全全线服务；“acteur incontournable de la cybersécurité en France”自评；客户=大企业+PME 双谱
+- 【推断】打印/DMS/网络安全三线的项目随单中，网络层是其交付物的载体——接入件随单窄位
+- 【假设】其“réponse globale à la gestion digitale”定位=硬件在方案里随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Nous apportons aux grandes entreprises et PME une réponse globale à la gestion digitale…Fort de plus de 20 ans d’expérience[Groupe Networks 官网/官档]”
   > “Nous apportons aux grandes entreprises et PME une réponse globale à la gestion digitale…Fort de plus de 20 ans d’expérience[Groupe Networks 官网/官档]”
   > 来源：https://groupenetworks.fr/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：马赛圈数字转型集成商（ZEENDOC/安全）
+- **产品线与在售品牌**：ZEENDOC 伙伴
+- **目标行业与场景**：大企业+PME
+- **团队与规模**：区域中型
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：网络安全线
+- **与我方契合点**：方案随单的接入件窄位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

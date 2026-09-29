@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DECOIT GmbH（不莱梅）：2001 起（25 年）IT 系统集成+软件自研；深耕国家/国际科研合作（Fraunhofer SIT/FOKUS、Infineon、devolo、Pulse Secure、Tzi、锡根大学等）；vendor-neutral 开源优先
+- 【推断】德国学究型集成商：研究项目（awareness/schulung、SIEM、NAC）背景深，采购要过技术信服关
+- 【假设】实验室/PoC 环境与客户站点接入层走开源可管设备；Voice VLAN（Asterisk/Kamailio 线）场景刚需
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCSWE）
@@ -147,6 +154,19 @@ updated: 2026-09-28
 - **【决策链与对接人】**CSV 名录：Alexej Sokolow MTCNA+MTCRE+MTCSWE（Bremen）sokolow@decoit.de
   > CSV 名录：Alexej Sokolow MTCNA+MTCRE+MTCSWE（Bremen）sokolow@decoit.de
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：不莱梅 25 年 IT 集成+软件自研+国家级科研项目常客；vendor-neutral 开源路线
+- **产品线与在售品牌**：VoIP（Asterisk/Kamailio/snom/gigaset）、开源 SIEM/监控栈；vendor-neutral 明文
+- **目标行业与场景**：企业 IT 基础设施+科研 PoC；VoIP 部署
+- **团队与规模**：独立中型（25 年）
+- **决策链与对接人**：Alexej Sokolow（MTCNA+MTCRE+MTCSWE 顾问）
+- **技术与认证**：MTCSWE 级交换内力；Franken 圈开源社区
+- **采购与供应链信号**：反对绑定式 OEM；要 datasheet 级透明
+- **近期动态与线索**：研究项目滚动（15 年不停）
+- **与我方契合点**：交换机 datasheet/固件透明打开技术对话；Voice VLAN 实测
+- **风险与注意**：德国学究型：过度营销=出局；先技术信服后商务
 
 ## 产品决策（Saga · 单一决策口径）
 

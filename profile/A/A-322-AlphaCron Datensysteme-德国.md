@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AlphaCron Datensysteme（德国 Apfelstädt/Erfurt 一带；Inhaber Marc Pauls）：IT 系统屋+**自有数据中心+DSL/Funknetz（自有接入网运营）**+24/7 监控+汽车厂系统支持（Volvo/VW…）+LWL 熔接+视频监控+VoIP；CSV=Allied Telesis Resell
+- 【推断】系统屋兼接入网运营+自有 DC：其 Funknetz/DC/监控线自身消耗交换件+其客户现场件双线——中密窄位
+- 【假设】自有 DC/接入与客户现场的 value 件双角
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**IT-Systemhaus mit angeschlossenem Rechenzentrum…DSL Zugänge/Standortvernetzung/netzwerkbasierte Videoüberwachung/LWL Spleißarbeiten；Inh. Marc Pauls
   > IT-Systemhaus mit angeschlossenem Rechenzentrum…DSL Zugänge/Standortvernetzung/netzwerkbasierte Videoüberwachung/LWL Spleißarbeiten；Inh. Marc Pauls
   > 来源：https://www.alphacron.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国图林根系统屋（自有 DC+接入）
+- **产品线与在售品牌**：AT Resell（CSV）+多牌
+- **目标行业与场景**：区域企业+汽车配套
+- **团队与规模**：小团
+- **决策链与对接人**：contact@（Marc Pauls 具名）
+- **技术与认证**：—
+- **采购与供应链信号**：自用件+随单
+- **近期动态与线索**：DSL/Funk 网 IPv6 native
+- **与我方契合点**：自用+客户双角窄位
+- **风险与注意**：个体运营——低中密度
 
 ## 产品决策（Saga · 单一决策口径）
 

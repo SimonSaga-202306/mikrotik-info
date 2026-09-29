@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】BlueBearsIT（法国 Lyon/Grenoble/Annecy）：TPE/PME 外包 IT（infogérance N1-N3）+系统集成+BI;品牌墙 Veeam/VMware/Dell/Sophos/OVHcloud/Barracuda;CSV=Allied Telesis Resell 伙伴+Qualiopi 培训资质注
+- 【推断】法国中型 MSP：私营 TPE/PME 托管现场交换件随单真实；AT Resell 粘性低——value 窄位好靶
+- 【假设】TPE/PME 托管现场的 value PoE 随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Infogérance N1/N2/N3+Intégration Systèmes & Réseaux——TPE/PME，3 sites Lyon/Grenoble/Annecy；CSV: AT Resell+Qualiopi
   > Infogérance N1/N2/N3+Intégration Systèmes & Réseaux——TPE/PME，3 sites Lyon/Grenoble/Annecy；CSV: AT Resell+Qualiopi
   > 来源：https://bluebearsit.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国 Lyon MSP（TPE/PME）
+- **产品线与在售品牌**：Veeam/VMware/Dell/Sophos（AT Resell CSV）
+- **目标行业与场景**：私营 TPE/PME
+- **团队与规模**：中型（3 城）
+- **决策链与对接人**：ec@ 商务口
+- **技术与认证**：Qualiopi 培训（CSV）
+- **采购与供应链信号**：托管随单
+- **近期动态与线索**：—
+- **与我方契合点**：托管现场 value 随单窄位
+- **风险与注意**：品牌散——需问清现供
 
 ## 产品决策（Saga · 单一决策口径）
 

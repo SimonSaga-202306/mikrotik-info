@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ATEG Automation（德国）：ATEG Automation（德 Remscheid):**工业自动化系统+部件商**：工业网络（Red Lion 交换谱）+**HMS Strategic Partner 2026-03 新宣布**;SELA 风电鸟类防控系统自研；红外测温 Optris;Schaltschrank 柜件
+- 【推断】Red Lion 高端谱+HMS 战略合作期=高端谱忠诚；但系统商项目总有 value 预算场景
+- 【假设】Red Lion/HMS 谱旁 value 工业 PoE 档（窄位）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：N-Tron + Red Lion + Anybus + Ewon）
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > 'ATEG Automation wird Strategic Partner von HMS Networks' 04.03.2026
   > 来源：https://www.ateg.de
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德工业自动化（HMS 战略伙伴 2026-03）
+- **产品线与在售品牌**：Red Lion/HMS/Optris+自研 SELA
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ateg.de 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：工业谱旁 value 档窄位
+- **风险与注意**：高端谱忠诚期——窄位
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi ATEG team,
 
 Red Lion industrial switches on your industrial networking page and a fresh HMS Strategic Partner title from March 2026 - your line is premium by design. Beside it, the DIN-rail PoE mid-tier is exactly the slot your customers ask about
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: beside your Red Lion line, would you evaluate a documented value DIN-rail industrial PoE unit?
 

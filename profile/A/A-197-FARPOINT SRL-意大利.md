@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】FARPOINT SRL（意大利摩德纳，20+ 年）：SMB IT——硬件销售维保/**布线咨询设计（reti cablate）**/硬件防火墙周界/数据保护/Windows Server-Exchange-SharePoint/ERP King Azienda（Datalog-Zucchetti）/远程办公安全/租赁打印；伙伴 logo：**Cisco（横幅）**/WatchGuard/Synology/Intel/Microsoft/Veeam/OKI/Kyocera/Norton
+- 【推断】Cisco logo 在位=其网络选型走 Cisco 生态；摩德纳机械谷 SMB 客户=其价值件对窗
+- 【假设】“assistenza per qualsiasi problema informatico”贴身式 服务=单品随单决策快
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“operante con successo nel territorio modenese da oltre 20 anni…progettazione di reti cablate…[logos:] Cisco, WatchGuard, Synology…”
   > “operante con successo nel territorio modenese da oltre 20 anni…progettazione di reti cablate…[logos:] Cisco, WatchGuard, Synology…”
   > 来源：https://farpoint.eu/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：摩德纳 SMB IT（Cisco 生态在位）
+- **产品线与在售品牌**：Cisco/WatchGuard/Synology 等
+- **目标行业与场景**：摩德纳机械谷 SMB
+- **团队与规模**：小型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：伙伴级
+- **采购与供应链信号**：随单
+- **近期动态与线索**：King ERP 线
+- **与我方契合点**：布线项目 value 位（Cisco 旁）
+- **风险与注意**：Cisco 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MECO Systemhaus GmbH & Co. KG（德国 Boppard）：区域系统屋——**ISO 27001 认证**；桌面管理/德语区云备份（数据主权落点）/防火墙管理/邮件归档 100% revisionssicher；Trust Center 页面
+- 【推断】ISO 27001+“Server auf deutschem Boden”云备份=文档主权文化敏感；合规级供货文件是准入硬条
+- 【假设】托管随单接入件价值位（数据主权叙事下补位条文重）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
   > “ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
   > 来源：https://www.meco.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Boppard 合规系统屋（ISO 27001）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：区域企业
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO 27001
+- **采购与供应链信号**：随单
+- **近期动态与线索**：ISO 认证新闻
+- **与我方契合点**：合规随单 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

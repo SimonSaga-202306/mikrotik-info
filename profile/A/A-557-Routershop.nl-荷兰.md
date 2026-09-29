@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Routershop（荷 20+ 年路由/交换专家店）：交换类目细到 5/8/12/16/24/48 口+PoE+10GE 分层；Fortinet/Zyxel/Cisco/SonicWall 防火墙+APC UPS+patchkasten;Professional Services 在架
+- 【推断】路由交换专精 20 年=客户群精准;24 口类目独立=走货位现成
+- 【假设】Pro Services=方案型买家，随单惯性强
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -121,6 +128,19 @@ updated: 2026-09-28
 - **【服务】**Professional Services 在架
   > Professional Services 在架
   > 来源：https://www.routershop.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷路由/交换专家店（20+ 年）
+- **产品线与在售品牌**：Zyxel/Cisco/Fortinet/APC/ACT 谱;PoE/10GE 分口类目
+- **目标行业与场景**：SMB/集成商/企业网
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ 直口+030-669 1220
+- **技术与认证**：Professional Services 在架
+- **采购与供应链信号**：荷兰仓现货
+- **近期动态与线索**：Zyxel trade-in 促销中
+- **与我方契合点**：交换类目旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：专精店——比价硬，需如实 value 数
 
 ## 产品决策（Saga · 单一决策口径）
 

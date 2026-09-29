@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Micro Technology Consultants（美国佐治亚）：K12 与 SMB IT 服务商——网络安全备份/服务器与网络基础设施/站点安防；品牌墙=Avigilon/Verkada/RUCKUS（无线与 Network Switching）/Fortinet/3CX/Clear Touch/Wahsega/HPE 等
+- 【推断】K12+SMB：RUCKUS 交换在墙——价值替补窄位；K12=公立教育段守界句（只有私校/商业段可谈）
+- 【假设】合规双句后价值替补窄口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Ruckus（无线与交换）+ Avigilon）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**CYBERSECURITY AND BACKUP/SERVER AND NETWORK INFRASTRUCTURE/SITE SECURITY——RUCKUS Wireless and Network Switching 在墙
   > CYBERSECURITY AND BACKUP/SERVER AND NETWORK INFRASTRUCTURE/SITE SECURITY——RUCKUS Wireless and Network Switching 在墙
   > 来源：https://www.microtechnology.net
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国佐治亚 K12+SMB IT 服务商
+- **产品线与在售品牌**：RUCKUS（含 Switching）/Avigilon/Verkada…
+- **目标行业与场景**：K12（公立守界）+SMB
+- **团队与规模**：服务商团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：SMB/私校段 RUCKUS 旁 value 窄位（公立守界句）
+- **风险与注意**：公立段采购规范敏感
 
 ## 产品决策（Saga · 单一决策口径）
 

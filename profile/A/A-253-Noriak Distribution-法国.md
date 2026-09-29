@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Noriak Distribution（法国边境大区）：批发外设/配件/耗材+网络件——音频/箱包/外设/游戏/线缆/备份/网络/家用附件；6 名地面销售全国
+- 【推断】宽线批发里'produits réseaux'类是小板块——value 网络件槽存在但优先级中低
+- 【假设】其 réseau 品类的value PoE 上架窄口（法国中小零售 IT 通道）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Grossiste en périphériques, matériels et consommables informatiques…produits réseaux——6 commerciaux terrain
   > Grossiste en périphériques, matériels et consommables informatiques…produits réseaux——6 commerciaux terrain
   > 来源：https://www.noriak-distri.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国宽线批发（配件为主）
+- **产品线与在售品牌**：配件品牌墙（含网络件类）
+- **目标行业与场景**：法语零售/经销 IT 商
+- **团队与规模**：6 销售地面团队
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：批发上架
+- **近期动态与线索**：—
+- **与我方契合点**：réseau 品类 value 槽窄位
+- **风险与注意**：网络件非主角（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

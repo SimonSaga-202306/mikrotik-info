@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AXTEK line Kft. (IETEK)（匈牙利）：AXTEK line Kft（布达佩斯；官网 axtek.hu→ietek.hu 品牌更名注）:**IETEK:=25+ 年工业自动化 IT——自有认证工业 PC/面板+工业以太网/M2M/安全件（Taicenn/Axiomtek 类）**;Orosi Levente CEO 具名
+- 【推断】工业网络类目存在（ipari ethernet/M2M/switch）但交换件谱浅=8 口 DIN 轨工业 PoE 正口；25 年工业关系网=转化需时
+- 【假设】工业类目 8 口 DIN 轨 PoE 正口（工业件主腿）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira）
@@ -115,6 +122,19 @@ updated: 2026-09-28
   > IETEK line Kft: 'Több mint 25 éve ipari automatizálás' + Ipari ethernet, M2M eszközök - switch/router/gateway 类目
   > 来源：https://ietek.hu
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈 25 年工业自动化 IT 分销
+- **产品线与在售品牌**：工业 PC/面板/**工业以太网 M2M**
+- **目标行业与场景**：制造/自动化
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：自有认证体系
+- **采购与供应链信号**：B2B 分销
+- **近期动态与线索**：ietek.hu 更名 2026
+- **与我方契合点**：**STI-288GP 工业 DIN 轨 PoE 档**（工业类目旁）
+- **风险与注意**：关系深——认证路径长
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -174,7 +194,7 @@ updated: 2026-09-28
 ```text
 Hi AXTEK team,
 
-Twenty-five years in industrial automation, certified industrial PCs, and an industrial Ethernet category that keeps growing - and the DIN-rail PoE slot in that line is often sourced long-distance. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, -40..75C class) with full English documentation. Reference EXW pricing on request.
+Twenty-five years in industrial automation, certified industrial PCs, and an industrial Ethernet category that keeps growing - and the DIN-rail PoE slot in that line is often sourced long-distance. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: would your industrial Ethernet category evaluate a documented DIN-rail PoE unit?
 

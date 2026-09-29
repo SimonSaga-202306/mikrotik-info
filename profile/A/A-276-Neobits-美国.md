@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Neobits（美国）：超宽线电商市场（Base Station Infrastructure 类目为网络唯一现实触点+视频监控类目）；CSV=Netonix 授权渠道（WISP 接入层交换机）身份在档
+- 【推断】百货市场里基站基建类目一小口——value PoE 上架窄位低优先；Netonix 渠道身份=已在交换分销语境
+- 【假设】Base Station 类目下 WISP 客群的 value PoE 窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**Top Categories: Base Station Infrastructure…Video Surveillance Systems——CSV: Netonix 授权渠道（WISP 接入层）
   > Top Categories: Base Station Infrastructure…Video Surveillance Systems——CSV: Netonix 授权渠道（WISP 接入层）
   > 来源：https://www.neobits.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国超宽线电商
+- **产品线与在售品牌**：Netonix 渠道（CSV）
+- **目标行业与场景**：宽线企业采购
+- **团队与规模**：电商组织
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：类目上架
+- **近期动态与线索**：—
+- **与我方契合点**：Base Station 类目 value 窄位
+- **风险与注意**：类目极小、信号弱（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

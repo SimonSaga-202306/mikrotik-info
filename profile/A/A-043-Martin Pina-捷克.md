@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误
+- 【推断】自用型 ISP+培训双轨：其网内 CPE/AP/POP 长期换件；魔：但也接诊包月用户批评（owner 缺位差评如实登记）
+- 【假设】捷克区域小 ISP 的 POP/CPE 接入盒是常换常购品
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCINE+MTCIPv6E+MTCSE+MTCSWE）
@@ -151,6 +158,19 @@ updated: 2026-09-28
 - **【联系方式】**firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Olomouc 区域 ISP 运营+网设/网管+MikroTik 培训
+- **产品线与在售品牌**：自用运营网络
+- **目标行业与场景**：区域住户互联网+企业网设计
+- **团队与规模**：个人运营
+- **决策链与对接人**：Pína 本人
+- **技术与认证**：MTCNA/MTCINE/MTCIPv6E/MTCSE/MTCSWE；MUM Prague 2012 HA 演讲
+- **采购与供应链信号**：自用网络常换件
+- **近期动态与线索**：站点 500；firmy.cz 评价两极（如实登记）
+- **与我方契合点**：POP/CPE 接入盒常换购
+- **风险与注意**：客服缺位差评=其交付带宽紧张，报价要极简
 
 ## 产品决策（Saga · 单一决策口径）
 

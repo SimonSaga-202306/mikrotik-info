@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NSR (nsr-sy.com)（德国）：NSR for Protection Systems and Communications（德；Jimdo 站）:**MikroTik 授权 Vertriebspartner**;B2B 批发报价 Großhandelsangebote;SMB/物流/零售客群
+- 【推断】授权批发伙伴=谱小但批发口子明；新店低密
+- 【假设】授权批发口 value 对照收录（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -113,6 +120,19 @@ updated: 2026-09-28
 - **【业务定位】**'Wir sind Ihr offizieller Vertriebspartner für MikroTik-Produkte' + Großhandelsangebote für Wiederverkäufer
   > 'Wir sind Ihr offizieller Vertriebspartner für MikroTik-Produkte' + Großhandelsangebote für Wiederverkäufer
   > 来源：https://nsr-tik.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德 MT 授权 Vertriebspartner（批发口）
+- **产品线与在售品牌**：MikroTik 纯谱
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@nsr-sy.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：批发口 value 对照收录（低密）
+- **风险与注意**：体微——低期待
 
 ## 产品决策（Saga · 单一决策口径）
 

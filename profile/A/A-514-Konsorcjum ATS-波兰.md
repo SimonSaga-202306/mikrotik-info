@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Wirelesslan.pl（波兰）：Wirelesslan.pl 波老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目：工业 media konwertery/switche）
+- 【推断】工业类目薄萌=从监控网络迈向工业的先兆；对照行标 anchor
+- 【假设】类目 anchor 对照收录正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**Automatyka i Przemysl: Switche/Media konwertery 类目+全 MT 谱
   > Automatyka i Przemysl: Switche/Media konwertery 类目+全 MT 谱
   > 来源：https://wirelesslan.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波无线大谱老店
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Cambium 大谱+Automatyka 工业类目
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sklep@wirelesslan.pl 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：大谱店收录对照正口（Automatyka 类目薄萌）
+- **风险与注意**：谱 MT/Ubi 厚--需对照明确
 
 ## 产品决策（Saga · 单一决策口径）
 

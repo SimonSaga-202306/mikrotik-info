@@ -315,6 +315,11 @@
      "dim": "产品线",
      "quote": "CSV：Netonix 授权渠道（WISP 接入层交换机）",
      "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "电话 +45 8891 7070（CSV 名录既有）；官网未找到",
+     "source": "客户名单_反向信号_2026-09.csv"
     }
    ],
    "followups": [
@@ -687,6 +692,11 @@
      "dim": "技术与认证",
      "quote": "CSV：Brian Vargyas MTCNA（美国）",
      "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "电话 630-986-xxxx 段既有（CSV 名录）；LinkedIn 链接截断",
+     "source": "客户名单_反向信号_2026-09.csv"
     }
    ],
    "followups": [

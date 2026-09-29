@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Riverside Technologies（RTI，1rti.com，堪萨斯城 MO+奥马哈 NE）：全国 IT 部署/生命周期/支持商——托管服务、IT 硬件、仓储服务、技术部署；客群：K-12 学校/高教/企业/州地政府；见证含 Rapid City Area Schools 网络 MSP 案例；“You've Got a Friend in the Business”
+- 【推断】K-12 州地教育=美国地方预算常规商用段（非联邦）；硬件+仓储侧=其可入库分销
+- 【假设】“friend in the business”关系文化+仓储能力=入库型分销切入可行
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“managed services, IT hardware, warehouse services, and technology deployment…K-12 Schools…state and local governments nationwide”
   > “managed services, IT hardware, warehouse services, and technology deployment…K-12 Schools…state and local governments nationwide”
   > 来源：https://www.1rti.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：全国 IT 部署/硬件/仓储（教育深耕）
+- **产品线与在售品牌**：HP 系硬件+托管（Allied 信号，CSV）
+- **目标行业与场景**：K-12/高教/州地/企业
+- **团队与规模**：全国中型
+- **决策链与对接人**：danl@ 具名+官网口
+- **技术与认证**：仓储级部署
+- **采购与供应链信号**：入库+项目
+- **近期动态与线索**：MSP 博客活跃
+- **与我方契合点**：入库分销+教育接入柜
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

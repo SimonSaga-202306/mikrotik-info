@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】A+S Alarm- und Sicherheitstechnik（德国汉堡）：认证安防工程商（Errichter）——**BMA 火灾报警/EMA 入侵/视频监控/SAA 语音告警/GMS 危管系统/锁具门禁**；客群 Gewerbe/工业/医院/行政/零售/停车/酒店/银行；服务全链：规划/制图/安装/**培训**/厂家中立维保/现代化改造
+- 【推断】视频+门禁+语音告警全 IP 化=每项目接入柜惯件量大；“herstellerunabhängig（厂家中立）维保”=对非原厂件的文化接受度高
+- 【假设】银行/医院段规范严但属常规商用；业主私营段是落点，行政公共段按德国采购规范不主动
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“zertifizierter Errichter für Sicherheitstechnik…BMA, EMA, Videoüberwachung, SAA, GMS…herstellerunabhängiger Wartungsservice”
   > “zertifizierter Errichter für Sicherheitstechnik…BMA, EMA, Videoüberwachung, SAA, GMS…herstellerunabhängiger Wartungsservice”
   > 来源：https://www.alarm-as.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：汉堡全谱安防工程商（厂家中立维保）
+- **产品线与在售品牌**：BMA/EMA/视频/SAA/GMS
+- **目标行业与场景**：私营商业+医院行政（公共守界）
+- **团队与规模**：区域专业商
+- **决策链与对接人**：info@ 口
+- **技术与认证**：认证 Errichter
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：视频/门禁 PoE 柜随单
+- **风险与注意**：公共段守界
 
 ## 产品决策（Saga · 单一决策口径）
 

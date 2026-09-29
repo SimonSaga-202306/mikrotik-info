@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-522（人-司关联档）→ 互注；首触走 A-522
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ENGITECH S.A.（日内瓦 1996）：IT 销售+服务商——在售 MikroTik（hEX PoE/hAP AX2)/Teltonika(RUTX11/TCR100)+Flashstart DNS 过滤；曾办 MTCTCE 培训
+- 【推断】MikroTik+Teltonika 双驻的小系统商=生态店判：CONSULT-OEM/窄位探询（不套用普通 MSP 模板）
+- 【假设】其 MikroTik PoE 客户升级更高端口密度时的替补窄口（诚实角）
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -143,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Compagnie informatique…Genève depuis 1996——hEX PoE/hAP AX2/Teltonika RUTX11 在售；Formation MTCTCE
   > Compagnie informatique…Genève depuis 1996——hEX PoE/hAP AX2/Teltonika RUTX11 在售；Formation MTCTCE
   > 来源：https://www.engitech.ch
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：日内瓦 IT 系统商（1996）
+- **产品线与在售品牌**：MikroTik/Teltonika/Flashstart
+- **目标行业与场景**：企业 IT 供货+服务
+- **团队与规模**：小型老店
+- **决策链与对接人**：office@ 口
+- **技术与认证**：MTCTCE 办课履历
+- **采购与供应链信号**：窄位替补
+- **近期动态与线索**：—
+- **与我方契合点**：MikroTik 旁 24 口级替补宽口窄针
+- **风险与注意**：生态双驻——话术诚实不挖墙
 
 ## 产品决策（Saga · 单一决策口径）
 

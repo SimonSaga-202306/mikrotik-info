@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Connect Data - Sintel（法国 30+年电信网络 VAD）：明写 LAN Switching 板块+Carrier Ethernet/WiFi/安全/IoT/VoIP；品牌含 RUCKUS/RAD/RADWIN/Teltonika/Sangoma/AudioCodes；国家认可培训中心+售前咨询+物流
+- 【推断】法国 VAD 明列 LAN Switching——RUCKUS 旁边存在 value 第二轨条例（批 26 最强分销）
+- 【假设】其转售网络的 value PoE 接入二轨：RUCKUS 之下不撞车定位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Distributeur de solutions télécoms & réseaux——Wifi, Sécurité, Radio, LAN Switching, Accès Carrier Ethernet, IOT, VoIP；centre de formation agréé
   > Distributeur de solutions télécoms & réseaux——Wifi, Sécurité, Radio, LAN Switching, Accès Carrier Ethernet, IOT, VoIP；centre de formation agréé
   > 来源：https://www.connectdata.fr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国电信网络 VAD（30+年）
+- **产品线与在售品牌**：RUCKUS/RAD/Teltonika 等
+- **目标行业与场景**：转售商/企业/运营商
+- **团队与规模**：分销+培训中心组织
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：国认可培训中心
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：Sintel 组合叙事
+- **与我方契合点**：LAN Switching 板块内二轨（守界前句）
+- **风险与注意**：RUCKUS 生态引力——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-469（人-司关联档）→ 互注；首触走 A-469
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】TRIOTRONIK（奥地利 25 年网络分销三板块=Distribution/Academy/Technologies）：HIKVISION/Avigilon/Teltonika/Ubiquiti(UI 企业路演）+自牌 LIGHTWIN 布线/GHMT SLIM 跳线
+- 【推断】网络分销头部：多品牌墙+三大部——二轨价值槽正位靶（批 25 最强分销 +1）
+- 【假设】其二线价值槽：ROI 敏感转售商的 PoE 接入替补——Ubiquiti 旁边不撞车定位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -143,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution/Academy/Technologies——Avigilon/HIKVISION/Teltonika/LIGHTWIN/GHMT Lightpatchkabel
   > Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution/Academy/Technologies——Avigilon/HIKVISION/Teltonika/LIGHTWIN/GHMT Lightpatchkabel
   > 来源：https://www.triotronik.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥地利网络分销头部（25 年）
+- **产品线与在售品牌**：多品牌墙（HIKVision/Ubiquiti/Teltonika…)
+- **目标行业与场景**：转售商/监控/企业网
+- **团队与规模**：分销+学院+技术三板块
+- **决策链与对接人**：M. Polainer 具名
+- **技术与认证**：GHMT 认证敏感
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：UI Enterprise Roadshow 2026
+- **与我方契合点**：二轨价值槽正位
+- **风险与注意**：SKU 主权+白牌自重——守界前句
 
 ## 产品决策（Saga · 单一决策口径）
 

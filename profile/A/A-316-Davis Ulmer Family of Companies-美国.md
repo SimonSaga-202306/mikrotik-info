@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
+- 【推断】真实身份=消防/安防施工集团（理论上是 PoE 件的采购方而非渠道）——但没可投递邮箱，照 R30 手动 A 先建档供位
+- 【假设】用户补邮箱后启用候选位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
   > The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
   > 来源：https://www.davisulmer.com|官网一手：DU Family=life safety services——fire protection and advanced security systems；表单分支选择制
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Davis Ulmer Family of Companies
+- **产品线与在售品牌**：—
+- **目标行业与场景**：—
+- **团队与规模**：—
+- **决策链与对接人**：—
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：候选供位（待邮箱）
+- **风险与注意**：无接触点
 
 ## 产品决策（Saga · 单一决策口径）
 

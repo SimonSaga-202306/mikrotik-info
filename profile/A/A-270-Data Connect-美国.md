@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Data Connect（美国 Maryland 等三仓）：**MASTER STOCKING DISTRIBUTOR**——母体握 DSL Warehouse/ClickITDirect/VOIP-Networking/Arc Electronics/IDP/Synxcom/Wireless Network Supply 多实体；既是制造商（DCE Made/旧 Ctek/Relcomm/Telenetics 资产）又是专业大盘：品牌墙数百（Belden/Hirschmann/GarrettCom/Moxa/Perle/EtherWAN/Allied/MIKROTIK 在列）；行业含 Federal Government/State & Local（守界句关键）
+- 【推断】巨型分销+自有制造线：双钩——分销侧 value 二轨窄口+制造侧可能合作；联邦/州/地方段守界句必压
+- 【假设】商业/批发段的窝口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Hirschmann + GarrettCom（Belden 工业接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**MASTER STOCKING DISTRIBUTOR——Positron Master Stocking Distributor；DCE Made Products；markets: Federal Government/State & Local Government（守界注）
   > MASTER STOCKING DISTRIBUTOR——Positron Master Stocking Distributor；DCE Made Products；markets: Federal Government/State & Local Government（守界注）
   > 来源：https://www.data-connect.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 master stocking 大盘+制造商
+- **产品线与在售品牌**：数百品牌+自有线
+- **目标行业与场景**：批发/VAR/ISP/WISP；（联邦/州地方=守界）
+- **团队与规模**：三仓大盘+制造
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：数百授权名录
+- **采购与供应链信号**：批发泳道+制造成线
+- **近期动态与线索**：Positron 新 master 授权
+- **与我方契合点**：商业/批发段二轨窄口+边角：自牌 OEM 通道
+- **风险与注意**：守界句必压（联邦/州/地方段）
 
 ## 产品决策（Saga · 单一决策口径）
 

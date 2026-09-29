@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Lloret Control Systems Ltd（英国）：智慧楼宇集成商——BEMS 楼宇能管/自动控制、**Converged Network Systems（ICT 融合网络）**、Master Systems Integration、安防系统、照明控制；具名 Graham Budd（Commissioning Manager）
+- 【推断】融合网络系统（ICT）=楼宇所有系统上 IP 的供给侧：BMS/安防/照明/对讲全要 PoE 接入层——黄金对口
+- 【假设】Master SI 身份意味它常是“楼网总承包”——墙内交换件指定权在手
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -71,6 +78,9 @@ updated: 2026-09-28
 - **原始联系字段**：sales@lloret.co.uk（具名 Graham Budd（Commissioning Manager）graham.budd@lloret.co.uk。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-09-29）**：`sales@lloret.co.uk` 服务器拒收（Your message to sales@lloret.co.uk has been blocked）→ 停用该地址；替代通道：graham.budd@lloret.co.uk（Graham Budd · Commissioning Manager，CSV 具名）
+  > 处置：sales@ 角色箱被挡（反垃圾概率高）；改走具名 graham.budd@（人名通道通过率高）；保留 sales@ 为抄送位
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
@@ -146,6 +156,19 @@ updated: 2026-09-28
 - **【业务定位】**“Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
   > “Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
   > 来源：https://lloret.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国智慧楼宇全系统集成（MSI 总承包位）
+- **产品线与在售品牌**：BEMS/ICT/MSI/安防/照明
+- **目标行业与场景**：商办楼/地产
+- **团队与规模**：集成商（副厂牌 Lloret Fire 等）
+- **决策链与对接人**：Graham Budd（调试经理）
+- **技术与认证**：全集成项目管理
+- **采购与供应链信号**：楼网总包指定
+- **近期动态与线索**：2026-01 品牌更新+持续交付
+- **与我方契合点**：ICT 融合网 PoE 接入层
+- **风险与注意**：MSI 项目流程化采购
 
 ## 产品决策（Saga · 单一决策口径）
 

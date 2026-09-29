@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Shea Electric & Communications（美国威斯康星）：工商电气承包商——低压布线/商用网络/AV/EBCS/DAS（WiLS）/**安防（CCTV/门禁/入侵）**与消防报警；CSV=**N-Tron+Red Lion 工业交换渠道**（Anybus/Ewon 同墙，8 口非管理工业约 $500+ 同价位档快照注）
+- 【推断】电工承包商连锁里罕见的工业网络渠道线：监控/门禁项目 PoE 消耗真实，随单正口；其工业价档揭价值杠杆
+- 【假设】CCTV/门禁/网络项目 value PoE 随单正口（工业价差角度旁注）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Industrial And Commercial Electrical Contractors——Low Voltage Wiring/Communication Networks/CCTV/Access Control；CSV: N-Tron+Red Lion 渠道
   > Industrial And Commercial Electrical Contractors——Low Voltage Wiring/Communication Networks/CCTV/Access Control；CSV: N-Tron+Red Lion 渠道
   > 来源：https://sheaelectricllc.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 WI 工商电气承包商
+- **产品线与在售品牌**：N-Tron/Red Lion（CSV）
+- **目标行业与场景**：工商楼宇/工厂
+- **团队与规模**：区域承包商
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：CCTV/门禁/网络项目 PoE 随单正口+工业价差杠杆（STI-288GP alt）
+- **风险与注意**：电工资质见重（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

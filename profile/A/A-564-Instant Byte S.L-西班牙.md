@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Instant Byte（西 mayorista 批发老店）：Ubiquiti/Huawei/Grandstream/Yealink/MikroTik/TP-Link/Cambium/Lantech/Planet 等 100+ 牌;Alta de distribuidores 批发注册口;Formación/Descargas 支持页;**与 A-562 ciudadwireless.com 同店面模板同类目同品牌墙=姊妹站注**
+- 【推断】mayorista 定位=批发通道明示；姊妹站双入口=采购量合并看
+- 【假设】百牌谱=value 档可测空位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -121,6 +128,19 @@ updated: 2026-09-28
 - **【关联】**与 ciudadwireless.com 同模板同类目=姊妹站
   > 与 ciudadwireless.com 同模板同类目=姊妹站
   > 来源：https://www.ciudadwireless.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西 mayorista 批发老店
+- **产品线与在售品牌**：Ubi/Huawei/Grandstream/Yealink/MT/TPLink/Cambium 百牌
+- **目标行业与场景**：WISP/装维/分销客户
+- **团队与规模**：（官网推）
+- **决策链与对接人**：官网联系页+批发注册口
+- **技术与认证**：Formación/Descargas 支持体系
+- **采购与供应链信号**：批发账期体系
+- **近期动态与线索**：姊妹站双入口运作
+- **与我方契合点**：百牌谱旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：姊妹站注（与 A-562 同模板同类目）
 
 ## 产品决策（Saga · 单一决策口径）
 

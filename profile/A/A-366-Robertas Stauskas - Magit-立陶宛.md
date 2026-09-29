@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Robertas Stauskas (Magit)（立陶宛）：Vilnius 2006 IT 服务商（LT/NL/DK/NO 四区）：伙伴墙含 **MikroTik**+Telia/Bitė/ACC Distribution/ALSO/SolarWinds/Dell EMC；数百客户 MSP
+- 【推断】四区 MSP:MikroTik 在墙=小件谱熟；托管现场 value PoE 随单缝正口
+- 【假设】MSP 现场随单窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE）
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**'nuo 2006 m. teikianti IT verslo sprendimų paslaugas Lietuvoje, Olandijoje, Danijoje ir Norvegijoje' + 伙伴墙 MikroTik
   > 'nuo 2006 m. teikianti IT verslo sprendimų paslaugas Lietuvoje, Olandijoje, Danijoje ir Norvegijoje' + 伙伴墙 MikroTik
   > 来源：https://magit.lt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：立陶宛四区 MSP(2006)
+- **产品线与在售品牌**：MikroTik/Telia/SolarWinds/Dell 等
+- **目标行业与场景**：SMB 托管现场
+- **团队与规模**：小型
+- **决策链与对接人**：robertas@ 具名
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：招聘在营
+- **与我方契合点**：托管现场 value PoE 随单缝
+- **风险与注意**：体量小——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

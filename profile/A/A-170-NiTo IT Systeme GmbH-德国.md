@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NiTo IT Systeme GmbH（德国）：Webshop 服务商——**电子商务实版销售 Allied Telesis 全线（防火墙/路由/交换机/WLAN AP，含安装服务）**+KMU 订单管理软件；工单票务系统运营；**einkauf@（采购部）公开直口**
+- 【推断】**CSV Allied 信号实锤（电商页面直售）**——Allied 是唯一网络牌在其 Webshop=窄竞争，但电商上架门槛低=value 线补位逻辑直连
+- 【假设】einkauf@ 采购口+Webshop 模式=B2B 零售商行为：上架新 line 决策快
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Von Firewall und Router über Mediacontroller und Switche bis hin zum WLAN-Accesspoint bieten wir Qualitätsprodukte aus dem Hause Allied Telesis einschließlich eines gewünschten Installationsservices”
   > “Von Firewall und Router über Mediacontroller und Switche bis hin zum WLAN-Accesspoint bieten wir Qualitätsprodukte aus dem Hause Allied Telesis einschließlich eines gewünschten Installationsservices”
   > 来源：https://nitoit.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国电子商务 IT 商（Allied 实版独牌）
+- **产品线与在售品牌**：**Allied Telesis 全线（实版）**
+- **目标行业与场景**：电商+安装服务
+- **团队与规模**：小型
+- **决策链与对接人**：einkauf@ 采购口
+- **技术与认证**：—
+- **采购与供应链信号**：电上架模式（快）
+- **近期动态与线索**：订单管理软件线
+- **与我方契合点**：第三线上架（Allied 旁 value 位）
+- **风险与注意**：Allied 独牌窄竞
 
 ## 产品决策（Saga · 单一决策口径）
 

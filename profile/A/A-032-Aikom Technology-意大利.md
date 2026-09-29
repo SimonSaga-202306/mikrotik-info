@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Aikom Technology（Rimini）：2026 年满 20 周年的意大利 ICT 增值分销商（B2B VAD），2025-11 上线 AikomGo B2B 电商平台（go.aikomtech.com，24/7 库存/报价/促销）；垂直线：WiFi&Networking、Broadband/FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 专业电台、IoT 智慧零售
+- 【推断】2026-09 新增 Zyxel 代理（已有 Ruijie/Peplink/Cambium/ComNet/Teltonika）——交换机代理品类在密集扩张窗口
+- 【假设】Connectivity Camp（10-13 Franciacorta）= 其伙伴招募与新牌检验节点
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Teltonika, ComNet）
@@ -147,6 +154,19 @@ updated: 2026-09-28
 - **【业务定位】**“B2B value added distributor…Aikom Partner Conference 2026 – 20° Anniversario…AikomGo portale e-commerce B2B”
   > “B2B value added distributor…Aikom Partner Conference 2026 – 20° Anniversario…AikomGo portale e-commerce B2B”
   > 来源：https://www.aikomtech.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 20 年 ICT 增值分销（VAD）+AikomGo B2B 电商；国际化扩张期
+- **产品线与在售品牌**：Peplink/Ruijie/Zyxel(2026-09 新）/Cambium/Teltonika/ComNet/Motorola/Avigilon/Hikvision/Selea/Commend/Townet
+- **目标行业与场景**：WiFi&Networking、FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 电台、IoT 零售
+- **团队与规模**：20 周年大会级组织（2026-05 Rimini Partner Conference）
+- **决策链与对接人**：info@；新品牌入职窗口（参照 Zyxel 2026-09 案例）
+- **技术与认证**：VAD 级技术支持与销售赋能
+- **采购与供应链信号**：密集纳新：2026-09 Zyxel 入职、e-commerce 上线
+- **近期动态与线索**：Connectivity Camp 2026-10-13 Franciacorta（WiFi/switching/routing/IoT 实操日）
+- **与我方契合点**：接入层 PoE 作为其 switching 线的新代理品牌；AikomGo 上架
+- **风险与注意**：已有 Ruijie+Zyxel+ComNet+Teltonika 交换机线，差异化要打在 PoE 专精+看门狗+EXW 价
 
 ## 产品决策（Saga · 单一决策口径）
 

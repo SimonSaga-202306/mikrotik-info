@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GU BKS SERVICE GmbH（GU 集团服务子公司）：**安防与楼宇技术服务专家（规划/咨询/安装/维保全程，全国服务网）**——客户含企业/**公共机构/kRITIS 关键基建运营商**；服务围绕集团产品体系（门禁/楼宇管理/消防/逃生）
+- 【推断】集团服务臂角色：设备推荐/指定在集团产品体系内循环，第三方网络件采购近零；KRITIS 客户墙叠加
+- 【假设】纪律建档不出信（集团服务臂采购内循环+KRITIS 客户墙=无现实缝隙）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“bundesweit tätiger Dienstleistungspartner…Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen”
   > “bundesweit tätiger Dienstleistungspartner…Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen”
   > 来源：https://www.gu-bks.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：GU 集团安防/楼宇技术服务臂
+- **产品线与在售品牌**：集团产品体系
+- **目标行业与场景**：企业/公共/KRITIS（守界）
+- **团队与规模**：全国服务网
+- **决策链与对接人**：—
+- **技术与认证**：认证技师体系
+- **采购与供应链信号**：集团内循环
+- **近期动态与线索**：—
+- **与我方契合点**：无现实缝隙（内循环）
+- **风险与注意**：KRITIS 客户墙
 
 ## 产品决策（Saga · 单一决策口径）
 

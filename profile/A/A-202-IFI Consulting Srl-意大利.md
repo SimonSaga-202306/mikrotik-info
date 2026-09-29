@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IFI Consulting Srl（意大利摩德纳 059）：security/infrastructure/digital-transformation 咨询集成；**伙伴墙 27 牌（Cisco Partner/CheckPoint/PaloAlto/Fortinet/Sophos/Stormshield/Huawei/HPE/DellEMC/AWS/Veeam/Commvault/CyberArk/Wallix/Splunk/Ivanti/Lenovo/Microsoft/Parallels/A10/VMware/…+Yealink 话音）**；**OT Security Suite 专页**=工业 OT 段
+- 【推断】27 牌墙=大牌生态内运营者；其 Infrastructure 支线的接入层=value 缝窄位（大牌之下）；Yealink=VoIP 支线在墙
+- 【假设】OT Security Suite 显示其在工业场景 OT 网段护航——工业段接入件需求工况隐含
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
   > “security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
   > 来源：https://www.ificonsulting.eu/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：摩德纳安全/基础架构集成（多 BU）
+- **产品线与在售品牌**：27 大牌+Yealink
+- **目标行业与场景**：企业+OT 工业
+- **团队与规模**：中型多城
+- **决策链与对接人**：assistenza@ 口
+- **技术与认证**：伙伴级
+- **采购与供应链信号**：随单
+- **近期动态与线索**：MyIFI 门户
+- **与我方契合点**：Infrastructure 支线接入层 value 缝
+- **风险与注意**：大牌墙
 
 ## 产品决策（Saga · 单一决策口径）
 

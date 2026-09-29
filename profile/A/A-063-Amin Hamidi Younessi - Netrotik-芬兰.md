@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTCSWE）
+- 【推断】培训中心+MTCSWE 在册=交换教具台位真实；同时企业工程线有项目随单面
+- 【假设】其课程走 MikroTik 全链，教具为 MikroTik 官方谱系——我方教具宜定位“补充比较样本”，不越师者红线
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCSWE+MTCEWE）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**info@netrotik.com +358 41 723 1250；MX 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）
   > info@netrotik.com +358 41 723 1250；MX 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://netrotik.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：芬兰 IT 培训中心+基础设施咨询（MikroTik/Cisco 双轨）
+- **产品线与在售品牌**：培训课程+工程咨询
+- **目标行业与场景**：企业/ISP 工程与认证培训
+- **团队与规模**：小团队
+- **决策链与对接人**：Amin Hamidi Younessi
+- **技术与认证**：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCSWE
+- **采购与供应链信号**：教具+项目随单
+- **近期动态与线索**：2026-03 官网上新（Amin 头像/机房图）
+- **与我方契合点**：意外教书教具补充样本+工程项目随单
+- **风险与注意**：师者红线：教具措辞诚实；站元素疑似被挂（内部注）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Roadtech Computer Systems Ltd（英国）：运输行业软件套件 40 年——Tachomaster（转速表分析市场头部）/DOT Tracking（GPS 车队）/Roadrunner（TMS）/Checkmaster（驾照核验）/PreDrive（车辆周检 App）；远端转速表下载装置（硬件件）；数千家公司用户
+- 【推断】软件服务商主体：我方硬件场景窄（其自有机房/运营支撑）
+- 【假设】CSV 载 Allied Telesis 信号=其自有基础设施或历史项目，不是分发通路——测深后很可能降级为“弱适配留档”
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
   > “Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
   > 来源：https://www.roadtech.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国运输 SaaS 套件 40 年
+- **产品线与在售品牌**：Tachomaster/DOT/Roadrunner/Checkmaster/PreDrive
+- **目标行业与场景**：运输/车队合规
+- **团队与规模**：中型软件商
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：DVLA 体系联通
+- **采购与供应链信号**：弱（CSV Allied 信号来源未明）
+- **近期动态与线索**：Earned Recognition 试点支持
+- **与我方契合点**：弱候选（信号来源待核）
+- **风险与注意**：若需求不实如实降级
 
 ## 产品决策（Saga · 单一决策口径）
 

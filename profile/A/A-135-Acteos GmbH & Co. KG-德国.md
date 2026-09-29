@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Acteos GmbH（德国/法国，1982 年创）：供应链软件专家——WMS/TMS/FPS 采购预测/APS/BI/移动 App（100% SaaS）；**硬件配套：Auto-ID/移动终端/车载设备随方案**；客户墙 Mr.Bricolage/Auchan/Monoprix/Kiloutou/Bolloré Logistics/BIC/Clarins/Saint-Gobain Placo 等法德零售物流大牌；BVMID TOP 100 奖
+- 【推断】WMS 项目落地必配仓库 Wi-Fi 覆盖——**仓储无线接入层是其方案隐形 BOM**；仓库环境对 PoE 接入件（AP 供电）是持续随单位
+- 【假设】“软件+硬件一体交付”模式=件单可随 WMS 项目滚动；Auto-ID 硬件线说明其已有供件通道
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
   > “TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
   > 来源：https://acteos.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法德供应链软件（SaaS）+仓储硬件配套
+- **产品线与在售品牌**：WMS/TMS/FPS/BI+Auto-ID 终端
+- **目标行业与场景**：零售/物流/食品仓配
+- **团队与规模**：40+ 年 EU 中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO 9001+BVMID TOP100
+- **采购与供应链信号**：随方案供件
+- **近期动态与线索**：SyncPro 新线
+- **与我方契合点**：仓储 Wi-Fi 接入层随单
+- **风险与注意**：软件商硬件深度待核
 
 ## 产品决策（Saga · 单一决策口径）
 

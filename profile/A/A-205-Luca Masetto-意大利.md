@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Luca Masetto（意大利 Santa Maria di Sala VE，Via Cavin di Sala 17）：**Allied Telesis 官方名录（Integrate 级）登记的独立集成商/代理**——官网无常开；既往 2026-09-27 核验未找到可确认邮箱；Treviso 同名 Cargill、美国 masetto.com 均排除
+- 【推断】**Allied 名录身份=正统渠道旁一候选——但无邮箱即无从触达，按 B 边批19 先例建档供位（不出信）**
+- 【假设】若其在区域活跃，其 Allied 身份整合单=Value 第二供槽（供槽编号保留；待用户报邮箱）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Allied Telesis 官方伙伴定位器‘Luca Masetto’Via Cavin di Sala 17, Santa Maria di Sala VE…伙伴等级：Integrate”
   > “Allied Telesis 官方伙伴定位器‘Luca Masetto’Via Cavin di Sala 17, Santa Maria di Sala VE…伙伴等级：Integrate”
   > 来源：https://www.alliedtelesis.com/it/en/luca-masetto
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Allied 名录独立集成商（一人档）
+- **产品线与在售品牌**：Allied 代理
+- **目标行业与场景**：区域
+- **团队与规模**：一人
+- **决策链与对接人**：（邮箱缺）
+- **技术与认证**：Allied Integrate
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Allied 旁 value 第二供槽（供位待邮箱）
+- **风险与注意**：无邮箱=不出信
 
 ## 产品决策（Saga · 单一决策口径）
 

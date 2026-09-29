@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-424（人-司关联档）→ 互注；首触走 A-424
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】WifiProfi.cz（捷克 Lety，Kryštof Klíma）：**MikroTik 第一号认证教练 TR0001**——自报 2004/05 起教 MikroTik，早于 MikroTik 官方培训体系；主办 MikroISP 大会 19 年+Vigvam；另做电信基建/登塔作业；eshop 卖 HW
+- 【推断】传奇教练 TR0001=训练通道顶个案：CONSULT-OEM 尊敬入场；其 eshop、社群、作业队后还有实物面
+- 【假设】课程对照单元+作业队装备双角
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Jako trenér společnosti MikroTik……certifikát TR0001——19.ročník konference MikroISP；výstavba/montáže/instalace
   > Jako trenér společnosti MikroTik……certifikát TR0001——19.ročník konference MikroISP；výstavba/montáže/instalace
   > 来源：https://www.wifiprofi.cz
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：捷克 MikroTik 传奇教练
+- **产品线与在售品牌**：MikroTik 课/店
+- **目标行业与场景**：受训 ISP 社群+作业队
+- **团队与规模**：个体+社群网络
+- **决策链与对接人**：klima@ 直连
+- **技术与认证**：TR0001（全球首证教练）
+- **采购与供应链信号**：课程教具+作业装备
+- **近期动态与线索**：MikroISP 19 年大会
+- **与我方契合点**：课程对照+作业装备双角（CONSULT-OEM）
+- **风险与注意**：社群声望敏感——话术必须极诚
 
 ## 产品决策（Saga · 单一决策口径）
 

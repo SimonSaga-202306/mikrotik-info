@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Trusol（英国 Feltham，25+ 年）：教育/休闲/企业三板块整合安装商——IT 支持、网络布线与 AV、学校 ICT/AV、健身房音响、会议室系统；证言墙含 Arup 顾问、多家健身房与学校；'ECP Trusol' 字样在案例（兼并脉络注）
+- 【推断】实体安装商：校园/健身房 AP+监控+AV 的 PoE 盒消耗真实；公立学校占比高=守界句先置；休闲/企业私营段主打
+- 【假设】休闲与企业私营段的 value PoE 随单正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**technology solutions, service and support partner…education, leisure & corporate sectors；案例: Arup/Better Gym/会议系统
   > technology solutions, service and support partner…education, leisure & corporate sectors；案例: Arup/Better Gym/会议系统
   > 来源：https://www.trusol.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国教育/休闲/企业整合安装商
+- **产品线与在售品牌**：设备多牌
+- **目标行业与场景**：健身房/会议/私校（公立学校=守界）
+- **团队与规模**：中型安装商
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：ECP 兼并脉络注
+- **与我方契合点**：私营段随单正口（公立校守界句）
+- **风险与注意**：学校占比高——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

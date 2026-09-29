@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CSI S.A.（克拉科夫）：30+ 年波兰工业计算机系统分销商（工控机/工业外壳/工业闪存 SSD/Rugged/工业通信），伙伴含 Aaeon/VIA/Antaira/Schroff/ATP/APLEX；100 万+ 订单、1 万+ 客户；Gazele Biznesu/Forbes Diamenty；华沙电车（Tramwaje Warszawskie）SSD/CF 供货案例；2026-09 连赶 MSPO（军防展）/ENERGETAB（能源展）/TEK.day 三展；零售分支 EasyUse.pl
+- 【推断】Antaira 工业以太网=其通信类核心盘；工业 PoE 温宽是错位低价位候选；电车/军展段=公共/军警边界明确标出
+- 【假设】ENERGETAB 能源展=其电网自动化接入层泛件需求口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira）
@@ -152,6 +159,19 @@ updated: 2026-09-28
 - **【联系方式】**kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://csi.pl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：克拉科夫 30 年工业计算机+通信分销（Antaira 工业以太网核心盘）
+- **产品线与在售品牌**：Antaira/Aaeon/VIA/Schroff/ATP/APLEX；工控机/壳/SSD/Rugged/通信
+- **目标行业与场景**：工业/交通/物流/Digital Signage/安防/能源/AI
+- **团队与规模**：大型分销（100 万+订单）
+- **决策链与对接人**：kontakt@csi.pl
+- **技术与认证**：获奖分销（Gazele/Forbes 钻石）
+- **采购与供应链信号**：大流水+项目双线
+- **近期动态与线索**：2026-09 三展连赶（MSPO 军防/ENERGETAB 能源/TEK.day）
+- **与我方契合点**：Antaira 旁的温宽 PoE 低价位错位；能源民营段
+- **风险与注意**：军防（MSPO）与公共（电车）段一律不触
 
 ## 产品决策（Saga · 单一决策口径）
 

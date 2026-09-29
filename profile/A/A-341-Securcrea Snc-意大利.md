@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Securcrea Snc（意大利）：Follonica/Livorno+Cuneo 双区，20+ 年 IT 集成/监控/管理；**官网整站 Under Construction 改版中**；自研 Eurysco 远程管控软件+Supremo 工具；CSV 谱=Allied Telesis
+- 【推断】真集成商+自研软件栈：站改版=窗口期，硬件随单件缝仍在；AT 谱旁诚实替补
+- 【假设】私营集成段随单窄位（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Da più di 20 anni… sistemi informatici + Eurysco/Supremo 自研；整站 Under Construction
   > Da più di 20 anni… sistemi informatici + Eurysco/Supremo 自研；整站 Under Construction
   > 来源：https://www.securcrea.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意双区 IT 集成商+自研软件（20 年）
+- **产品线与在售品牌**：AT 谱+自有软件
+- **目标行业与场景**：SMB/私营现场
+- **团队与规模**：小微
+- **决策链与对接人**：info@ 口（页头）
+- **技术与认证**：自研 Eurysco/Supremo
+- **采购与供应链信号**：官网改版中
+- **近期动态与线索**：改版=接触窗口
+- **与我方契合点**：项目随单 value PoE 件缝（AT 旁前句）
+- **风险与注意**：**官网改版中**——新版上线后再跟进更佳
 
 ## 产品决策（Saga · 单一决策口径）
 

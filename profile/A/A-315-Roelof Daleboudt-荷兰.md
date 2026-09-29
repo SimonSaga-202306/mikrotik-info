@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IP Central（荷兰 Coevorden，RIPE 档 'Roelof Daleboudt trading as IP Central',AS207942）:CSV=MikroTik 认证顾问名录收录；**2025-08-01 并入 NiceCloud**（Zwolle 托管 IT 屋：KPN 伙伴/微软 Solutions Partner/**Ruckus Big Dog**/Fortinet/HP-E Aruba，PEC Zwolle 赞助商）;ip-central.nl 域→跳转 nicecloud.nl/ipcentral=404 取链注
+- 【推断】顾问个体已并入区域 MSP：post-merger 接触还是要从 Roelof 个人箱（隐私页公布）打——训练通道判 CONSULT-OEM；并入单位为 Ruckus/HP-E 墙，守线注
+- 【假设】顾问个人通道窄针（并轨注+NiceCloud 共存句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【近期动态】**ip-central.nl→nicecloud.nl/ipcentral=404；CSV: 2025-08-01 并入 NiceCloud（隐私页公布 roelof.daleboudt@ip-central.nl）
   > ip-central.nl→nicecloud.nl/ipcentral=404；CSV: 2025-08-01 并入 NiceCloud（隐私页公布 roelof.daleboudt@ip-central.nl）
   > 来源：https://www.nicecloud.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 MikroTik 顾问个体（已并入 MSP）
+- **产品线与在售品牌**：NiceCloud 栈（Ruckus/HP-E）
+- **目标行业与场景**：区域 SMB（Zwolle）
+- **团队与规模**：个体→并轨
+- **决策链与对接人**：roelof@ 个人口
+- **技术与认证**：MikroTik 顾问（CSV）
+- **采购与供应链信号**：随件窄口
+- **近期动态与线索**：并轨 2025-08
+- **与我方契合点**：CONSULT-OEM（顾问通道）+并轨注
+- **风险与注意**：并购后职责未明
 
 ## 产品决策（Saga · 单一决策口径）
 

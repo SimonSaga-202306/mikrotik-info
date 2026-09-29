@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Senseco Systems Ltd（英国全行业覆盖办公室）：英国首家 CarbonNeutral 认证消防安防公司——消防探测/报警、被动防火、喷淋、气体抑制、语音报警、安防、监控、集成；“Founded by Engineers, Led by Engineers”
+- 【推断】楼宇消防/安防系统全面 IP 化：语音警报/报警面板/安防摄像全走 IP+PoE——接入柜是惯件
+- 【假设】“engineers founded/led”=实测级技术评语言有效
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“UK’s first CarbonNeutral-certified fire and security company…fire, passive, sprinklers, suppression, voice, security, monitoring and integrated systems”
   > “UK’s first CarbonNeutral-certified fire and security company…fire, passive, sprinklers, suppression, voice, security, monitoring and integrated systems”
   > 来源：https://www.sensecosystems.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国首家碳中和消防安防专家（全国办）
+- **产品线与在售品牌**：消防探测/被动/喷淋/语音/安防/监控/集成
+- **目标行业与场景**：商办楼/设施业主
+- **团队与规模**：全国性专家商
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：CarbonNeutral 认
+- **采购与供应链信号**：楼宇项目随单
+- **近期动态与线索**：2026-04 品牌更新
+- **与我方契合点**：楼内消防/安防 IP 化接入柜
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

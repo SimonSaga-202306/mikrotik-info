@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GBS TEMPEST & Service GmbH（德国 Diepholz）：**TEMPEST 泄射防护设备制造商+服务商**——六个 **BSI 认可电磁泄射测试实验室**；按 **BSI-Zonenmodell/SDIP 27/IASG 7-03** 执行入网与快速测量；GBS CERBERUS 防窃听 IT 产品线（SDIP 27）
+- 【推断】BSI 密级框架（TEMPEST=军/政防窃听领域）——供应商体系受密级审查，外资网络件无任何现实通道
+- 【假设】纪律建档不出信（密级红线，同 ARCHE/dainox 族）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“TEMPEST-Gerätehersteller…sechs vom BSI anerkannte Abstrahlprüflabore…BSI-Zonenmodell, SDIP 27 und IASG 7-03”
   > “TEMPEST-Gerätehersteller…sechs vom BSI anerkannte Abstrahlprüflabore…BSI-Zonenmodell, SDIP 27 und IASG 7-03”
   > 来源：https://www.gbs-tempest.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 TEMPEST 密级设备商（BSI 实验室）
+- **产品线与在售品牌**：CERBERUS SDIP27（红线）
+- **目标行业与场景**：联邦/军/密级（红线）
+- **团队与规模**：专精
+- **决策链与对接人**：—
+- **技术与认证**：BSI 六实验室
+- **采购与供应链信号**：密级采购
+- **近期动态与线索**：—
+- **与我方契合点**：无（密级红线建档）
+- **风险与注意**：密级审查环境
 
 ## 产品决策（Saga · 单一决策口径）
 

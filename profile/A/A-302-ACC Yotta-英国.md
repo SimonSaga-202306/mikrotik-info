@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ACC Yotta（英国 Woking）：应用专注 IT 方案屋——自有数据中心托管（APP:HOST/APP:LINK）、商业连续性、群集存储、安全；行业=航空航天/教育/企业/酒店活动/法律金融/零售；品牌导航明列 **ALLIED TELESIS 专区**+Brocade/Palo Alto/Scale/Spectra；首页存一桩 'Aerospace and Defence' 客户（Safran Labinal）证言
+- 【推断】中大型混合行业方案商：AT 在墙但非独家——私营段（酒店/零售/法律金融）二轨窄位；航空防务证言=守界句必压
+- 【假设】其私营段客户现场的 value PoE 二槽窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**bench tested, performance proven solutions…BRANDS: ALLIED TELESIS/BROCADE/PALO ALTO——SECTORS: Aerospace/Education/Hospitality/Legal/Retail
   > bench tested, performance proven solutions…BRANDS: ALLIED TELESIS/BROCADE/PALO ALTO——SECTORS: Aerospace/Education/Hospitality/Legal/Retail
   > 来源：https://www.accyotta.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国应用专注 IT 方案屋
+- **产品线与在售品牌**：ALLIED TELESIS/Brocade/Palo Alto/Scale
+- **目标行业与场景**：酒店/零售/法律金融（航空防务=守界注）
+- **团队与规模**：中型组织
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单+托管
+- **近期动态与线索**：自有 DC 运营中
+- **与我方契合点**：私营段二轨窄位（守界句在）
+- **风险与注意**：航防证言——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

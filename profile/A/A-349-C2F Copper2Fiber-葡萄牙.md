@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】C2F Copper2Fiber（葡萄牙）：Barcarena 2013 专业市场纯分销商：伙伴块=**Allied Telesis**+Trend Networks+PatchSee+Multimedia Connect 等布线/连接系
+- 【推断】布线系分销+AT 在列=替补收录直接对口（多牌组合逻辑内）
+- 【假设】分销目录替补收录窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -113,6 +120,19 @@ updated: 2026-09-28
 - **【业务定位】**Criada em 2013 e vocacionada exclusivamente para o mercado profissional… distribuição de soluções de telecomunicações; 伙伴块含 AlliedTelesis
   > Criada em 2013 e vocacionada exclusivamente para o mercado profissional… distribuição de soluções de telecomunicações; 伙伴块含 AlliedTelesis
   > 来源：https://www.c2f.pt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：葡专业电信分销（2013)
+- **产品线与在售品牌**：**Allied Telesis**/Trend/PatchSee/MMC
+- **目标行业与场景**：专业集成商客群
+- **团队与规模**：小微
+- **决策链与对接人**：geral@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：分销库存
+- **近期动态与线索**： LinkedIn 在营
+- **与我方契合点**：分销目录替补收录（AT 旁二轨）
+- **风险与注意**：体量小——低密针
 
 ## 产品决策（Saga · 单一决策口径）
 

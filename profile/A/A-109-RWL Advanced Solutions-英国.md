@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】RWL Advanced Solutions（都柏林/伦敦/阿姆斯特丹）：**欧洲领先的数据布线与网络产品独立分销商**——Panduit/Leviton/Excel 等布线大牌；数据中心/铜揽/光纤/机柜围保/电力/标签标识/电信/CEl-Fi 手机增强；近 20 年、数千客户、installer 渠道
+- 【推断】其“网络产品”自主类以无源为主——active PoE 接入交换机是其架上的天然补充位（无源布线+active 层才构成 turnkey）
+- 【假设】installer 渠道的 turnkey 话术与“Panduit 旁的 active 补位”是进函角度
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**“Europe’s leading independent distributor for Data Cabling and Network products…strategically partnered with leading Global brands as we distribute Turnkey solutions to installers”
   > “Europe’s leading independent distributor for Data Cabling and Network products…strategically partnered with leading Global brands as we distribute Turnkey solutions to installers”
   > 来源：https://www.rwlas.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：欧洲布线/网络产品独立分销（installer 渠道）
+- **产品线与在售品牌**：Panduit/Leviton/Excel（无源为主）
+- **目标行业与场景**：DC/布线/机柜/电力
+- **团队与规模**：欧洲独立分销
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：20 年
+- **采购与供应链信号**：分销入库
+- **近期动态与线索**：三地布点常态化
+- **与我方契合点**：架上 active PoE 补位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

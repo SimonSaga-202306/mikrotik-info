@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AIRICOM（法国）：IoT/M2M 专家分销——Milesight（LoRaWAN 传感器/网关/4G-5G 工业路由）、HMS 全家（Intesis 空调网关/Ewon/Anybus 协议转换）、Watteco、Advantech；OT 网安目录；KNX 空调网关跨界线；CSV 载 Red Lion/N-Tron
+- 【推断】LoRaWAN/工业路由项目随带现场接入层；Red Lion/N-Tron=工业以太网盘，温宽 PoE 可错位
+- 【假设】KNX 空调网关跨界（三菱电机空调→KNX）显其楼宇自动化延展，PoE 配套随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Red Lion, N-Tron）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**marketing@airicom.fr（CSV）；.com MX=mx1.airicom.com / .fr MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > marketing@airicom.fr（CSV）；.com MX=mx1.airicom.com / .fr MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://airicom.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国 IoT/M2M 专家分销（LoRaWAN/4G-5G 工业路由/协议网关/OT 网安）
+- **产品线与在售品牌**：Milesight/HMS Intesis/Ewon/Anybus/Watteco/Advantech/Red Lion/N-Tron
+- **目标行业与场景**：工业 IoT 数采、远程接入、楼宇（KNX 空调网关）、OT 网安
+- **团队与规模**：目录电商化中型
+- **决策链与对接人**：marketing@airicom.fr
+- **技术与认证**：HMS 全线+LoRaWAN 生态
+- **采购与供应链信号**：目录型分销+项目随单
+- **近期动态与线索**：2026-09 上新 OT 网安目录横幅；KNX×三菱空调跨界件
+- **与我方契合点**：工业路由项目现场接入层；Red Lion/N-Tron 盘的温宽 PoE 错位
+- **风险与注意**：KNX/楼宇段与 MikroTik 生态交集小——主打工业随单
 
 ## 产品决策（Saga · 单一决策口径）
 

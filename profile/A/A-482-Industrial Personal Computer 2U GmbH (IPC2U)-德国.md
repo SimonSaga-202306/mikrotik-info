@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**
+- 【推断】工业网络类目存在但谱集中于 PC/Edge=交换件窄位；工程分销文化=文档正中
+- 【假设】工业网络类目 DIN 轨 value PoE 档正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira, Korenix）
@@ -115,6 +122,19 @@ updated: 2026-09-28
   > 'Smart Network Solutions for Industrial Applications! Robust in Harsh Environments' + DIN-rail 工业计算谱
   > 来源：https://ipc2u.com
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德工业分销（全球；Edge AI 大国）
+- **产品线与在售品牌**：NEXCOM/ICP DAS/SolidRun/Compulab
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ipc2u.de 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：工业类目 DIN 轨 value PoE 正口
+- **风险与注意**：谱以 PC 为主——交换档需后台论证
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -176,7 +196,7 @@ Hi IPC2U team,
 
 Industrial computers, edge AI, smart network solutions for harsh environments - your Smart Network section already teaches that DIN-rail connectivity is the backbone. A documented value industrial PoE switch fits exactly that teaching
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: in your industrial network portfolio, is there room for a documented value DIN-rail PoE unit?
 

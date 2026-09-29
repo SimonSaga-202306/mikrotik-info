@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Florian Valentin (FORMATIK)（奥地利）：奥 Außerfern(Ehrwald/Pflach)**20 年 IT-Systemhaus**:IT 全供（基建/托管服务/RMM)；服务奥/德/南蒂罗尔；**Herr Ing. Florian 兼教育部门与审计员**
+- 【推断】20 年实体 MSP+教学/审计双角：现场随单缝+课程/审计旁对照位；小型但根深
+- 【假设】双角：托管现场随单+教学审计对照位（低密针）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'20 Jahre FORMATIK' + IT 全供+Managed Service+ Herr Ing. Florian Valentin 教育/审计兼任
   > '20 Jahre FORMATIK' + IT 全供+Managed Service+ Herr Ing. Florian Valentin 教育/审计兼任
   > 来源：https://formatik.at
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥 20 年 IT-Systemhaus(双址）
+- **产品线与在售品牌**：全供 infra/托管/RMM
+- **目标行业与场景**：SMB（奥/德/南蒂罗尔）
+- **团队与规模**：小微
+- **决策链与对接人**：florian@ 具名
+- **技术与认证**：Ing. 头衔+教育/审计
+- **采购与供应链信号**：—
+- **近期动态与线索**：20 年庆 2025
+- **与我方契合点**：托管现场随单+教学对照位双角
+- **风险与注意**：体量小——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

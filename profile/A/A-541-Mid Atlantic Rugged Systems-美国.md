@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Marugged（美工业 rugged 分销）：Moxa/ORing/Vecow/Innodisk/Womaster/SPARKLAN/RuggON/Handheld/ATOP 多牌在架；站页明示 EN 50155 / IEC 61850-3 / IEC 62443 / ATEX 认证族
+- 【推断】工业轨交/能源/制造谱全栈=温宽 DIN 档真实走货口；多牌并售=比价心智成熟
+- 【假设】Military & Government 市场档在列=公共敏感面：只走民用工业段
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -121,6 +128,19 @@ updated: 2026-09-28
 - **【市场档】**Military & Government 档在列（守界注记）
   > Military & Government 档在列（守界注记）
   > 来源：https://www.marugged.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 rugged 工业多牌分销
+- **产品线与在售品牌**：Moxa/ORing/Vecow/Innodisk/RuggON/ATOP 工业谱
+- **目标行业与场景**：轨交/能源/制造/车载（民用工业段）
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ 直口
+- **技术与认证**：EN 50155/IEC 61850-3/IEC 62443/ATEX 族
+- **采购与供应链信号**：多牌现货架子
+- **近期动态与线索**：IEC 62443 安规谱扩容中
+- **与我方契合点**：温宽 DIN PoE 8 口盒=其谱旁 value 档（$74.8 锚点一致）
+- **风险与注意**：Military & Government 档在列——守界：首触只谈民用工业段，不问军档范围
 
 ## 产品决策（Saga · 单一决策口径）
 

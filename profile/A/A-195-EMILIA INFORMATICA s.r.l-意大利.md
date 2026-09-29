@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Emilia Informatica（意大利皮亚琴察，1997 年创，~1M 营收/9+ 人数级）：硬件维保出身（Bull/IBM 委托）→服务线 Print/Desktop/IoT/**Datacenter Management/Network Monitoring**/Cyber Security；**团队页实名：Marco Castagnola+Alberto Corti（双 DG）/Paolo Bernazzani（商务）/Giovanni Sanna（B.U. CABLING & NETWORKING 负责人）**；伙伴 **Commscope/Extreme Networks（实版伙伴）/HPE/Unify/Panduit Gold/Fortinet/innovaphone/Schneider/APC/Syneto/Arcserve**
+- 【推断】**Extreme Networks 实版同盟+专设 Cabling&Networking BU**=接入层现供明确；Extreme 旁第二供位窄位是诚实角度
+- 【假设】“RESONSABILE B.U. CABLING & NETWORKING”徽章级具名=业务单元独立权——Giovanni 是直通 KP
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“[team:] Giovanni Sanna – RESPONSABILE B.U. CABLING & NETWORKING…[partners:] Extreme Networks, Panduit Gold, Commscope, Fortinet…”
   > “[team:] Giovanni Sanna – RESPONSABILE B.U. CABLING & NETWORKING…[partners:] Extreme Networks, Panduit Gold, Commscope, Fortinet…”
   > 来源：https://www.emiliainformatica.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：皮亚琴察维保+网络 BU（Extreme 旁窄位）
+- **产品线与在售品牌**：Extreme/Fortinet/Panduit
+- **目标行业与场景**：艾米利亚企业
+- **团队与规模**：小型 9+
+- **决策链与对接人**：Giovanni Sanna BU 具名
+- **技术与认证**：Panduit Gold 等
+- **采购与供应链信号**：随单
+- **近期动态与线索**：DG 双人结构
+- **与我方契合点**：Extreme 旁第二供位窄位（Giovanni 直通）
+- **风险与注意**：Extreme 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

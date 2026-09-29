@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-126（同品牌不同分部（独立实体，可并行））→ 非重复，可并行开发；标注防误判
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案
+- 【推断】一线制造商战略同盟结构下接入层被大牌主力占据；分支层面价值线空间窄——承认在位并定位“第二架/预算受限位”
+- 【假设】加盟分支有本地采购弹性——分支级 value 件测试比集团级准入更现实
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -143,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**“long-standing strategic partnerships with the security industry’s leading manufacturers…[Axis] [Genetec] [Verkada] [Motorola Solutions]…”
   > “long-standing strategic partnerships with the security industry’s leading manufacturers…[Axis] [Genetec] [Verkada] [Motorola Solutions]…”
   > 来源：https://www.security101.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Security 101 加盟分支（CT）
+- **产品线与在售品牌**：一线伙伴墙（Axis/Avigilon/Genetec/Verkada…；CSV 载 Allied 信号）
+- **目标行业与场景**：十行业（含地方政府常规段）
+- **团队与规模**：集团级分支
+- **决策链与对接人**：分支 service 邮箱
+- **技术与认证**：Team101 体系
+- **采购与供应链信号**：集团伙伴目录
+- **近期动态与线索**：SiteGuard/101ware 产品化
+- **与我方契合点**：分支级第二架价值线（窄判别）
+- **风险与注意**：同盟强
 
 ## 产品决策（Saga · 单一决策口径）
 

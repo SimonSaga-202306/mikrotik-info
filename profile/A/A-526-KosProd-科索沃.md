@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Kosprod (Kreu)（科索沃）：Kosprod 科索沃科技大店（MT/Ubiquiti/UniFi/Cudy/Riello UPS+监控+Gaming PC;AI NVR push）
+- 【推断】Cudy=中国 value 已收→多价值档不违
+- 【假设】Cudy 旁 value 对照正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【产品线】**Cudy + UniFi + MikroTik 并列 + Riello UPS
   > Cudy + UniFi + MikroTik 并列 + Riello UPS
   > 来源：https://kosprod.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：科索沃普里什蒂纳科技大店
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Cudy/Riello UPS+监控+Gaming
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：order@kosprod.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Cudy+Ubiquiti 谱旁 value 对照正口
+- **风险与注意**：谱杂—需规格全
 
 ## 产品决策（Saga · 单一决策口径）
 

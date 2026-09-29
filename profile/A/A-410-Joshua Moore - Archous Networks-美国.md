@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Joshua Moore (Archous Networks)（美国）：美 ISP/DC/企业网咨询+托管：**'ISP as a Service'**；专精牌墙=**netElastic/Cisco/Dell/Juniper/Edge-Core/Ufispace/IPinfusion/MikroTik/Ubiquiti**/Andrisoft——白盒/开放网生态（EdgeCore+Ufispace+netElastic=开放NOS系）
+- 【推断】开放网/白盒谱=多源采购是方法论本身；替补对照行接受度全网最高族；其客群（新 ISP/小 ISP）正是预算纪律最重层
+- 【假设】开放网语境对照行正口（白盒谱）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE）
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**'Vendors We Specialize In: netElastic/Cisco/Dell/Juniper/Edge-Core/Ufispace/IPinfusion/MikroTik/Ubiquiti' + ISP as a Service
   > 'Vendors We Specialize In: netElastic/Cisco/Dell/Juniper/Edge-Core/Ufispace/IPinfusion/MikroTik/Ubiquiti' + ISP as a Service
   > 来源：https://www.archous.tech
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 ISP/DC 网络咨询+托管
+- **产品线与在售品牌**：**Edge-Core/Ufispace/netElastic/IPinfusion**+MikroTik/Cisco/Juniper
+- **目标行业与场景**：新 ISP/小 ISP/DC/企业
+- **团队与规模**：小型
+- **决策链与对接人**：mikrotik@ 专线+support@
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：ISPaaS 产品线
+- **与我方契合点**：**开放网谱对照行正口（白盒=多源常态）**
+- **风险与注意**：咨询型——复购路径经其下游 ISP 客群
 
 ## 产品决策（Saga · 单一决策口径）
 

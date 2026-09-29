@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-486（人-司关联档）→ 互注；首触走 A-486
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】corsimikrotik.it（意大利，Marco Boschini / HC Tech）：意大利首个 MikroTik 在线培训门户——全证书课+CorsiMikroTik VM 3.0+GNS3+Telegram/YouTube 社群
+- 【推断】纯 MikroTik 培训品牌=训练通道判（CONSULT-OEM）
+- 【假设】其 MTCSWE 课与 VM 生态的对照单元思路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -143,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Il primo portale italiano di formazione online dedicato esclusivamente al mondo MikroTik e RouterOS——CorsiMikroTik VM 3.0 gratis
   > Il primo portale italiano di formazione online dedicato esclusivamente al mondo MikroTik e RouterOS——CorsiMikroTik VM 3.0 gratis
   > 来源：https://corsimikrotik.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 MikroTik 在线培训
+- **产品线与在售品牌**：MikroTik 证书课+VM
+- **目标行业与场景**：受训工程师
+- **团队与规模**：讲师团队+社群
+- **决策链与对接人**：info@hctech.it（Marco Boschini）
+- **技术与认证**：认证讲师+课程平台
+- **采购与供应链信号**：课程教具
+- **近期动态与线索**：MTCNA 17-19/11/2026 新课表
+- **与我方契合点**：课程对照窄口（CONSULT-OEM）
+- **风险与注意**：阵营纯——诚实角
 
 ## 产品决策（Saga · 单一决策口径）
 

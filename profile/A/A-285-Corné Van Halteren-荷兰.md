@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-427（同一实体重复建档）→ 互注；首触只走 A-427
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DAEL（荷兰技术安装集团，25 年/多独立子公司）：Installatiegroep/Elektra/Klimaat/Technisch Beheer/Power/**Telecom（netwerkbouw/维护/临时移动）**/**Connectivity**/Security/Energy；客户墙=Schiphol/Center Parcs/McDonalds/**DJI（司法机构=公共守界 关键）**；CSV=Corné Van Halteren MikroTik 顾问在册
+- 【推断】安装集团的 Telecom/Connectivity 板块建网维护=交换件消耗在私营商业项目（Center Parcs/McDonalds 类）；公共段（DJI/Gemeente 类）守界句先置
+- 【假设】私营客户项目的 network build/refresh 随单窄位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Telecom: Netwerkbouw, onderhoud en tijdelijke mobiele oplossingen——klanten: Center Parcs/McDonald's/DJI（公共标注）
   > Telecom: Netwerkbouw, onderhoud en tijdelijke mobiele oplossingen——klanten: Center Parcs/McDonald's/DJI（公共标注）
   > 来源：https://www.dael.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰技术安装集团（25 年）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：商业设施/酒店乐园/公共（守界）
+- **团队与规模**：集团级（数百人）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：集团项目随单
+- **近期动态与线索**：25 周年叙事
+- **与我方契合点**：私营段随单窄位（公共守界句在）
+- **风险与注意**：公共项目占比高+主权敏感
 
 ## 产品决策（Saga · 单一决策口径）
 

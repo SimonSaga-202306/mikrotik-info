@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】JRS Global Technologies（加拿大）：JRS Global(Mississauga ON):Shopify 分销店（MikroTik 深谱——CCR2216/CRS520/RDS2216/CRS804 高端新件第一波上架；TP-Link Omada SG3428XPP/Cambium/Grandstream/Cudy);905 电话
+- 【推断】MT 新品差一秒上架=分销敏锐；高端同类（CRS 2K+)旁价值档=经典补位；店在跑
+- 【假设】高端 MT 谱旁 value 档替补收录
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【产品线】**New products: MikroTik CCR2216-1G-12XS-2XQ/CRS520-4XS-16XQ-RM/RDS2216 + TP-Link Omada SG3428XPP-M2
   > New products: MikroTik CCR2216-1G-12XS-2XQ/CRS520-4XS-16XQ-RM/RDS2216 + TP-Link Omada SG3428XPP-M2
   > 来源：https://jrsglcanada.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加网络设备分销店
+- **产品线与在售品牌**：MikroTik 深谱/TP-Link/Cambium/Grandstream
+- **目标行业与场景**：装维/ISP/企业
+- **团队与规模**：中型
+- **决策链与对接人**：Sales@jrsgl.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：Shopify 自动化
+- **近期动态与线索**：100G 新品上架
+- **与我方契合点**：高端谱旁 value 档替补收录
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

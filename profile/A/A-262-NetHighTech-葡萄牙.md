@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NetHighTech（葡萄牙里斯本）：企业级 AI 平台软件屋（OmniCore/OmniEdge BRAS 面向 ISP-WISP 的 BNG/计费）+IT Academy（Cisco/MikroTik/Linux 课程）；CSV=MikroTik 培训伙伴
+- 【推断】软件屋+学院：硬件非主业——但其学院 MikroTik 课程=训练通道；BRAS 线连 ISP 客群是信号
+- 【假设】学院课程对照单元窄口（CONSULT-OEM）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 培训伙伴，持 MikroTik 培训伙伴（开 MTCSWE 等课程））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Enterprise AI:OmniCore/OmniEdge BRAS(TR-069/ISP Billing)/SolarOps/OmniBrain——IT Academy:Cisco/MikroTik/Linux
   > Enterprise AI:OmniCore/OmniEdge BRAS(TR-069/ISP Billing)/SolarOps/OmniBrain——IT Academy:Cisco/MikroTik/Linux
   > 来源：https://www.nethightech.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：葡 AI 软件+培训学院
+- **产品线与在售品牌**：（自家软件）Cisco/MikroTik 课程
+- **目标行业与场景**：企业/ISP 软件+受训人
+- **团队与规模**：软件团队
+- **决策链与对接人**：nethightech@gmail.com
+- **技术与认证**：MikroTik 培训伙伴名录
+- **采购与供应链信号**：课程教具
+- **近期动态与线索**：BRAS 面向 ISP/WISP
+- **与我方契合点**：学院对照单元（CONSULT-OEM）
+- **风险与注意**：硬件离轴——窄位
 
 ## 产品决策（Saga · 单一决策口径）
 

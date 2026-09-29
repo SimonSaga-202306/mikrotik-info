@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Oltion Nikolla (Router.al)（阿尔巴尼亚）：阿国 'Hardware Specialist Albania':**全 MikroTik 电商**(CCR/CRS/hAP/CLAIRÉ 新件齐）+**技术咨询文块**（'network maintenance…transfer to a specialized IT company')
+- 【推断】专营店+咨询双角：预算缝+咨询对照行两缝——但专店忠诚，低密不追
+- 【假设】双角低密窄针（诚实角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE）
@@ -118,6 +125,19 @@ updated: 2026-09-28
 - **【业务定位】**'Hardware Specialist Albania' 全 MT 电商 + TECHNICAL CONSULTATION 文块
   > 'Hardware Specialist Albania' 全 MT 电商 + TECHNICAL CONSULTATION 文块
   > 来源：https://router.al
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：阿国 MT 专营电商+咨询
+- **产品线与在售品牌**：MikroTik 全线
+- **目标行业与场景**：阿国 DIY/企业客群
+- **团队与规模**：小微
+- **决策链与对接人**：oltionnikolla@gmail.com 具名
+- **技术与认证**：—
+- **采购与供应链信号**：库存电商
+- **近期动态与线索**：新品同步
+- **与我方契合点**：预算缝+咨询对照行双角低密针
+- **风险与注意**：专店忠诚——低期待
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Oļegs Žakovs (NetPro)（拉脱维亚）：Riga+Ventspils **15+ 年中型 MSP**:IT 外包全栈（24/7 监控 Zabbix/云迁移/M365/备份/CCTV);**MikroTik 认证顾问服务页明列（MTCNA/MTCRE/MTCWE/MTCSE)**;**电商店（EU 发货）**;Olegs=Co-founder CEO
+- 【推断】MSP+认证 MikroTik 服务+自营电商三业态：现场随单缝+店目录收录双角
+- 【假设】双角：托管现场随单+自有店收录
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCWE）
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**Services: IT Support/Cloud/Networks/'MikroTik Support - Certified MikroTik consultants'/IP CCTV/E-Commerce Store (EU delivery)
   > Services: IT Support/Cloud/Networks/'MikroTik Support - Certified MikroTik consultants'/IP CCTV/E-Commerce Store (EU delivery)
   > 来源：https://netpro.lv
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：拉脱维亚中型 MSP（双城）
+- **产品线与在售品牌**：MikroTik 认证服务+Synology/Veeam/ESET/Dahua 墙
+- **目标行业与场景**：企业外包+CCTV 装维
+- **团队与规模**：中型
+- **决策链与对接人**：oleg@ 具名（CEO)
+- **技术与认证**：MTC×4+Azure/AWS
+- **采购与供应链信号**：自有电商 EU 发货
+- **近期动态与线索**：服务页系统化成形
+- **与我方契合点**：托管现场随单+自有店收录双角
+- **风险与注意**：谱深——对照行诚实定位
 
 ## 产品决策（Saga · 单一决策口径）
 

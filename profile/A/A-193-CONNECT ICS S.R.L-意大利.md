@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CONNECT ICS S.R.L.（意大利普利亚 Lecce 圈）：SMB IT 全谱——Networking&Telefonia（LAN 结构化布线/WiFi/防火墙）/IT 安全/打印/Web 服务/**办公家具**/视频监控+ScanFACE 门禁考勤三合一；伙伴 **Eset/WatchGuard/Acronis/Imagicle/Yeastar/HPE Business Partner/Dell/Expert**；工单 helpdesk 系统运营
+- 【推断】Yeastar PBX 伙伴=意大利版深 SMB 通信同盟（同 Auerswald）；办公家具线=arredo ufficio chiavi in mano 文化
+- 【假设】其“办公全配套”模式里网络件随单量大；ScanFACE 门禁=PoE 终端直连
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
   > “Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
   > 来源：https://www.connect-ics.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：普利亚 SMB 全谱商（Yeastar 同盟）
+- **产品线与在售品牌**：Yeastar/HPE/Dell/Expert
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：小型中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：伙伴级
+- **采购与供应链信号**：随单
+- **近期动态与线索**：PO Puglia 项目
+- **与我方契合点**：网络+视频门禁随单 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

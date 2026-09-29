@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DPS Informatica s.n.c.（意大利 Fagagna UD，1986 起 PC/服务器店）：面向 PMI/**enti pubblici（MEPA 注册，官网明示）**/专业事务所与私人客户；CSV=Allied Telesis Resell
+- 【推断】北部 40 年实体小店：MEPA 段守界句、PMI/私营事务所段为窄口
+- 【假设】PMI/事务所段的 value 件窄位（MEPA 守界）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**negozio di informatica…iscritto al MEPA；attività prevalentemente rivolta alle PMI, enti pubblici, studi professionali
   > negozio di informatica…iscritto al MEPA；attività prevalentemente rivolta alle PMI, enti pubblici, studi professionali
   > 来源：https://www.dpsinformatica.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 Friuli 本地 IT 店（1986）
+- **产品线与在售品牌**：多牌（AT CSV）
+- **目标行业与场景**：PMI/事务所/私人（MEPA=守界注）
+- **团队与规模**：本地店
+- **决策链与对接人**：info@ 口（commerciale@ 备）
+- **技术与认证**：MEPA 注册
+- **采购与供应链信号**：门店随件
+- **近期动态与线索**：—
+- **与我方契合点**：PMI/事务所段窄位（MEPA 守界句）
+- **风险与注意**：公共段采购规范敏感
 
 ## 产品决策（Saga · 单一决策口径）
 

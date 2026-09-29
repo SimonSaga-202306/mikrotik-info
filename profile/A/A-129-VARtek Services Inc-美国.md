@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】VARtek Services（俄亥俄西南，vartek.com）：**教育专属 IT 伙伴**——K-12 学区 IT 托管（驻场技术团队）+整合支持+网络安全教育资源（10 步网络犯罪防御计划等）；“strategic partner to schools…save school leaders time”
+- 【推断】教育专属=学区预算审批常规商用段；驻场托管结构=硬件随单+refresh 滚动；服务商为主但硬件线存在（integration support）
+- 【假设】“save leaders time”使命=可靠免回访件话术（看门狗）适配
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“strategic partner to schools, delivering tailored, innovative technology and integration support so that educators are empowered…staffing your school with a team of on-site technology professionals”
   > “strategic partner to schools, delivering tailored, innovative technology and integration support so that educators are empowered…staffing your school with a team of on-site technology professionals”
   > 来源：https://vartek.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：K-12 教育专属 IT 托管（驻场模式）
+- **产品线与在售品牌**：托管+整合（CSV 载 Allied 信号）
+- **目标行业与场景**：K-12 学区
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：教育资源内容
+- **采购与供应链信号**：随单+refresh
+- **近期动态与线索**：网络安全教育资源化
+- **与我方契合点**：学区接入柜 value 件
+- **风险与注意**：服务主硬件辅
 
 ## 产品决策（Saga · 单一决策口径）
 

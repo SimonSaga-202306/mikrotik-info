@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Inducio GmbH（德国特劳恩施泰因，2010 年创）：NOC/基础设施监控/NAC/漏洞扫描专家（25 人）；**客户谱系从 KRITIS 运营商到机械制造与中型企业**；COD 平台（extocode）厂家中立监控；**伙伴墙实版含 Allied Telesis**+Cisco/HPE/Fortinet/Huawei/Greenbone/Nakivo+Ingram/TD Synnex 渠道
+- 【推断】Allied Telesis 实版+KRITIS 客群：第二供位窄位在私营机械工程/mittelstand 段（KRITIS 客户段守界明示）
+- 【假设】NOC 监控70+ 项目滚动的接入件 refresh 是窄位切角
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
   > “we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
   > 来源：https://inducio-services.net/en
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：巴伐利亚 NOC/监控专家（KRITIS+私营双谱）
+- **产品线与在售品牌**：**Allied Telesis 实版**/Cisco/HPE/Fortinet
+- **目标行业与场景**：KRITIS（守界）+机械工程/中小（窄位）
+- **团队与规模**：25 人专精
+- **决策链与对接人**：info@ 口
+- **技术与认证**：COD 平台
+- **采购与供应链信号**：渠道+随单
+- **近期动态与线索**：COD 平台扩
+- **与我方契合点**：私营段监控项目接入件 value 位
+- **风险与注意**：KRITIS 守界
 
 ## 产品决策（Saga · 单一决策口径）
 

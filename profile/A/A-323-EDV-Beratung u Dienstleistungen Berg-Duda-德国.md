@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】EDV-Beratung u Dienstleistungen Berg-Duda（德国 Bergneustadt，2000 起；GF Sebastian Berg-Duda）：硬件/软件售卖与网络建设管理+IT Consulting;CSV=Allied Telesis Resell
+- 【推断】个体级 EDV 顾问夫妻店：客户现场随身件微窄位——低密一针
+- 【假设】SMB 客户现场随身 value 件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -137,6 +144,19 @@ updated: 2026-09-28
 - **【业务定位】**Beratung bei Anschaffung sowie Verkauf von Hard-/Software…Aufbau und Administration von Netzwerken；GF Sebastian Berg-Duda
   > Beratung bei Anschaffung sowie Verkauf von Hard-/Software…Aufbau und Administration von Netzwerken；GF Sebastian Berg-Duda
   > 来源：https://berg-duda.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国个体 EDV 顾问店（2000）
+- **产品线与在售品牌**：多牌（AT 在列 CSV）
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：个体
+- **决策链与对接人**：info@（Sebastian 具名）
+- **技术与认证**：—
+- **采购与供应链信号**：随身微单
+- **近期动态与线索**：—
+- **与我方契合点**：随身窄位低密
+- **风险与注意**：极小体量
 
 ## 产品决策（Saga · 单一决策口径）
 

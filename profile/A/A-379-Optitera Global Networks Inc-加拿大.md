@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Optitera Global Networks（加拿大）：**加拿大网件分销+自有品牌 Optitera(43 SKU：光纤 patch cord/pigtail 等）**;店牌=TP-Link/MikroTik(105)/Mimosa/Cambium/Grandstream/Cudy;客群宣言=ISP/WISP/装维/CCTV 集成/企业
+- 【推断】已跑通自牌 OEM 模式（43 SKU 光纤件）=**自牌扩线角度天然：自牌交换机线=OEM/ODM 正中我口**
+- 【假设】自牌扩线 OEM/ODM 角（强口）+店收录备选
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**Shop-by-brand: Optitera (43 products)+MikroTik (105)/TP-Link/Cudy/Cambium/Grandstream; Solutions for ISPs/WISP/Telecom installers
   > Shop-by-brand: Optitera (43 products)+MikroTik (105)/TP-Link/Cudy/Cambium/Grandstream; Solutions for ISPs/WISP/Telecom installers
   > 来源：https://optiteraglobal.ca
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加拿大网件分销+自牌（Toronto 区）
+- **产品线与在售品牌**：自牌 Optitera 43 SKU+MT/TP-Link/Cudy/Cambium
+- **目标行业与场景**：ISP/WISP/集成商
+- **团队与规模**：小型
+- **决策链与对接人**：sales@ 口+647 电话
+- **技术与认证**：—
+- **采购与供应链信号**：自牌 OEM 供应链实锤
+- **近期动态与线索**：2026-04 新牌墙（Cudy/Yealink)
+- **与我方契合点**：**自牌扩线 OEM/ODM 角（强口）**；店收录备选
+- **风险与注意**：自牌现仅无源件——有源线或已有另一供应商（问清）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NODENET GLOBAL（土耳其）：NODENET GLOBAL(İstanbul Maslak/Fethiye):10+ 年企业 IT 方案（网管/安全/云/数据库）+**2026-04 官宣 MikroTik Türkiye Distribütörü 分销资格**+shop.nodenetglobal.com 店
+- 【推断】**刚刚官宣 MT 分销商=牌谱扩张蜜月期（还会收别家？)；企业服务+店双业态**：MSP 随单+店收录双角
+- 【假设】新分销商蜜月期双角（随单+店收录）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【近期动态】**'Nodenet Global, MikroTik Türkiye Distribütörü Oldu!' - 2026 新闻 + 10 yılı aşkın tecrübe 企业 IT
   > 'Nodenet Global, MikroTik Türkiye Distribütörü Oldu!' - 2026 新闻 + 10 yılı aşkın tecrübe 企业 IT
   > 来源：https://nodenetglobal.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土企业 IT 方案+MT 新分销商
+- **产品线与在售品牌**：企业服务+MikroTik 分销
+- **目标行业与场景**：企业/KOBİ
+- **团队与规模**：中型
+- **决策链与对接人**：sales@nodenetglobal.com 口
+- **技术与认证**：**2026-04 MT 分销商官宣**
+- **采购与供应链信号**：shop 子站
+- **近期动态与线索**：分销新闻 2026-04
+- **与我方契合点**：蜜月期双角：随单+店收录
+- **风险与注意**：新分销商=谱忠诚期——对照行需诚实
 
 ## 产品决策（Saga · 单一决策口径）
 

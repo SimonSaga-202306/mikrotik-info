@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】KWS Partner GmbH（德国）：SMB IT 全栈——**Kompetenz 第二块即“Networking, Switching, Routing”**+云方案/邮件服务器/备份策略/虚拟化/安全防火墙 VPN/M365/通信系统/**软件开发**/监控/DMS；方法三步：分析概念→项目落地→托管维护
+- 【推断】“Switching/Routing”独立能力块=交换选型直连职能位；软件 dev 能力=定制文化
+- 【假设】“verständliche Erklärungen für Laien”文化=its 客户 SMB 深，value 件预算位对口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -137,6 +144,19 @@ updated: 2026-09-28
 - **【业务定位】**“Unsere Kompetenzen…Networking, Switching, Routing…Softwareentwicklung…Monitoring”
   > “Unsere Kompetenzen…Networking, Switching, Routing…Softwareentwicklung…Monitoring”
   > 来源：https://kws-partner.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 SMB 全栈（交换能力块直通）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：SMB
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：随单
+- **近期动态与线索**：DMS 线
+- **与我方契合点**：交换块直连 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

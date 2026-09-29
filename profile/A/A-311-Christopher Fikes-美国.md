@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Fikes Media（美国 Silsbee TX）:'It's about function, not vendors' 厂商中立叙事——网络规划/数据中心网络（VXLAN/ToR）/Open Voice/咨询（官网路径直接叫 **/mikrotik-consulting**）;行业页首列地方政府（图书馆/市政/警局）→K12 与高校→SMB;CSV=MikroTik 官方顾问名录+认证培训伙伴双收录，20+ 年教育/公共网络经验
+- 【推断】MikroTik 顾问+培训双身份的厂商中立咨询屋——CONSULT-OEM 训练/顾问通道判；公共段（市政/警局/公立校）守界句必压
+- 【假设】顾问对照单元窄针（诚实角，公共段守界）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
   > It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
   > 来源：https://www.fikesmedia.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 TX MikroTik 顾问咨询屋
+- **产品线与在售品牌**：厂商中立（MikroTik 生态）
+- **目标行业与场景**：SMB/私营（地方政府/K12=守界注）
+- **团队与规模**：个体顾问
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：MikroTik 顾问+培训双收录（CSV）
+- **采购与供应链信号**：顾问随件窄口
+- **近期动态与线索**：—
+- **与我方契合点**：训练通道判（CONSULT-OEM）
+- **风险与注意**：公共段露——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

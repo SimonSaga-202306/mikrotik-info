@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DATABOX Lda.（葡萄牙大分销）：Dell 连续 16 年 Top Distributor；WD/Samsung/ASUS/Norton/Fsas/AISENS 等品牌墙，B2B 经销商门户
+- 【推断】大盘商体量错位——value 线在其面对几千经销商的货架有一窄口，但接触面窄（唯一品牌墙无网络件主线）
+- 【假设】其经销商网络的接入件夹带窄口；AISENS（附件线）刚入册=开新线心态期
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**16.º ano consecutivo Top Distributor SNS da DELL；AISENS chega ao nosso portefólio
   > 16.º ano consecutivo Top Distributor SNS da DELL；AISENS chega ao nosso portefólio
   > 来源：https://www.databox.pt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：葡萄牙大盘分销
+- **产品线与在售品牌**：Dell 领衔品牌墙
+- **目标行业与场景**：B2B 经销商网络
+- **团队与规模**：大盘商规模
+- **决策链与对接人**：databox@ 口
+- **技术与认证**：16 年 Dell Top Distributor
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：AISENS 新线入册
+- **与我方契合点**：窄口二轨（体量错位注）
+- **风险与注意**：品牌墙深、接触面广而薄
 
 ## 产品决策（Saga · 单一决策口径）
 

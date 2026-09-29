@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Kappa Data Belgium（比利时）：建档注：与 A-346 Kappa Data Nederland 同集团（Kappa Data, Benelux+波兰 VAD)
+- 【推断】判定=建档（先例同族）
+- 【假设】（待触发供位）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Kappa Data BE 站与 NL 同构：vendors 含 Allied Telesis/Barracuda/Extreme/Sophos
   > Kappa Data BE 站与 NL 同构：vendors 含 Allied Telesis/Barracuda/Extreme/Sophos
   > 来源：https://www.kappadata.be
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：比利时：Kappa Data BE（Kluisbergen)：同集团同栈（AT/Barracuda/Extreme/Sophos)
+- **产品线与在售品牌**：—
+- **目标行业与场景**：—
+- **团队与规模**：—
+- **决策链与对接人**：—
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：候选供位（待触发）
+- **风险与注意**：与 A-346 Kappa Data Nederland 同集团（Kappa Data, Benelux+波兰 VAD)
 
 ## 产品决策（Saga · 单一决策口径）
 

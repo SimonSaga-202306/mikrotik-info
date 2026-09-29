@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）
+- 【推断】意大利 WISP 教父级人物：本人持证 6+（含 MTCSWE），其 WISP 门徒网络是接入层间接放量通道
+- 【假设】教具+其 WISP 生态的柴发药品柜（POP）接入层双通道
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE）
@@ -153,6 +160,19 @@ updated: 2026-09-28
 - **【联系方式】**training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
   > training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 WISP 教父：Grifonline ISP（1997）+Linkwave WISP（2006）双创始人，2010 起官方 Trainer
+- **产品线与在售品牌**：自有 ISP/WISP 运营+培训+MUM 演讲
+- **目标行业与场景**：WISP 运营、工程师培训
+- **团队与规模**：双公司小而精
+- **决策链与对接人**：Busatti 本人
+- **技术与认证**：MTCNA/MTCRE/MTCINE/MTCIPv6E/MTCSE/MTCSWE；RIPE/AMS-IX/MIX-IT 会员
+- **采购与供应链信号**：自有网运营采购+生态推荐
+- **近期动态与线索**：routing.wireless.academy 站崩（WP 错误）
+- **与我方契合点**：POP/基站接入层+教具；其门徒网络口碑口
+- **风险与注意**：讲台级人物：参数字字可验
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DATEL Daten- und Telekommunikations-GmbH Dessau：**德国 Stadtwerke Dessau 全资子公司**——区域市政 ISP（光纤到户/电话/IPTV/有线电视，1Gbit 消费级套餐 19.95€ 促销）；Google 4.7 分 532 评价；dvv-dessau.de 集团域
+- 【推断】100% 市政公用事业所有=德国公共采购规范（VgV）适用实体；其接入网局端/配线采购走公共框架
+- 【假设】公共事业红线建档不出信（同 Centerprise/Stadtwerke 族：市政全资实体不触）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
   > “ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
   > 来源：https://www.datel-dessau.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：市政全资区域 ISP（Stadtwerke Dessau）
+- **产品线与在售品牌**：FTTH/IPTV（消费者向）
+- **目标行业与场景**：住宅/市政（公共）
+- **团队与规模**：市政子公司
+- **决策链与对接人**：—
+- **技术与认证**：—
+- **采购与供应链信号**：公共采购框架
+- **近期动态与线索**：1Gbit 促销
+- **与我方契合点**：无（公共红线建档）
+- **风险与注意**：VgV 公共采购
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】broadbandbuyer（英 SMB 网络分销）：Ubiquiti Master Reseller+NETGEAR/DrayTek/Ruijie-Reyee/QNAP/WatchGuard/Yealink/Hikvision/Seagate/Zyxel；Gigabit Switches 类目+厂商培训日体系
+- 【推断】Master Reseller 级+多牌=SOHO/SMB 渠道厚；交换类目主推位=走货口现成
+- 【假设】培训日体系=厂商关系深、新品接受快
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -122,6 +129,19 @@ updated: 2026-09-28
 - **【体系】**厂商培训日/Roadshow
   > 厂商培训日/Roadshow
   > 来源：https://www.broadbandbuyer.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英 SMB 网络分销
+- **产品线与在售品牌**：Ubi Master/Netgear/DrayTek/Ruijie/QNAP/Yealink/Hikvision
+- **目标行业与场景**：SMB/SOHO/集成商
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ 直口
+- **技术与认证**：Ubiquiti Master Reseller
+- **采购与供应链信号**：大仓现货+trade
+- **近期动态与线索**：厂商培训日常开
+- **与我方契合点**：交换类目旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：多牌挤压——需差异价段叙事
 
 ## 产品决策（Saga · 单一决策口径）
 

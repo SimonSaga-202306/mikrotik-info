@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GIS s.r.l.（意大利，Hu.Tech Group 一部分，GIS+Tecnos 两公司 100 人集团）：**安防系统商**——security integrazita（风险分析/系统设计/安装/维保）；域线：videosorveglianza/antintrusione/controllo accessi/rivelazione incendio-EVAC/domotica e building automation/gestione e monitoraggio；行业四分：**Pubblico/Infrastrutture e trasporti（守界两段）+GDO 大零售/Industria e logistica（私营双段）**；Tecnos 姊妹做电气安装
+- 【推断】100 人集团安防 SI+电气姊妹=随单大口径（同 GESA 族）；公共/基建运输两段守界，零售/工业物流双私段主打
+- 【假设】“intelligenza umana”顾问式自述=方案导向销售，组件选择听工程判断
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Un unico gruppo, due aziende…100 professionisti…[settori:] Pubblico, Infrastrutture e trasporti, GDO, Industria e logistica…videosorveglianza, controllo accessi…”
   > “Un unico gruppo, due aziende…100 professionisti…[settori:] Pubblico, Infrastrutture e trasporti, GDO, Industria e logistica…videosorveglianza, controllo accessi…”
   > 来源：https://gisimp.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利安防 SI 集团（GDO/工业物流私段）
+- **产品线与在售品牌**：大牌体系
+- **目标行业与场景**：GDO/工业物流（主）+公共/基建（守界）
+- **团队与规模**：100 人两公司
+- **决策链与对接人**：gis@ 口
+- **技术与认证**：集成级
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：Hu.Tech Group 结构
+- **与我方契合点**：零售/工业物流 PoE 安防随单 value 位
+- **风险与注意**：公共基建两段
 
 ## 产品决策（Saga · 单一决策口径）
 

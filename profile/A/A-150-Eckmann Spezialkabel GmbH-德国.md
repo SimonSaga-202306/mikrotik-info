@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Eckmann Spezialkabel GmbH（德国 Quickborn，2000 年创家族企业，Eckmann 集团含 datacom）：**电缆分销专家**——网络技术（铜/光纤线缆/插座/**机柜机架**/配线架/**aktive Komponenten（实版类目：有源组件）**）/演播技术（视频/摄像/麦克线缆）/**船舶海工特种电缆（民用船用）**/定制接头与按米裁剪；Quickborn 大仓+法兰克福/萨尔布吕肯点；11-50 人；GF Kai Eckmann 具名
+- 【推断】“aktive Komponenten”类目实版=架上已有有源位——value PoE 交换补位与 RWL 型被动旁 active 同型；海工电缆是民用商用常规段
+- 【假设】“按客户规格定制+快速物流”分销文化=上架看交付与文档；Kai Eckmann 具名可直触
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“Netzwerktechnik (z.B. Kupfer- und Glasfaserleitungen…Schränke/Racks, Patchpanels…aktive Komponenten)”
   > “Netzwerktechnik (z.B. Kupfer- und Glasfaserleitungen…Schränke/Racks, Patchpanels…aktive Komponenten)”
   > 来源：https://de.itsbetter.com/search/show/432092-eckmann-spezialkabel-gmbh.html
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国电缆分销专家（aktive 件类目实版）
+- **产品线与在售品牌**：电缆/机柜/aktive Komponenten
+- **目标行业与场景**：网络工程/演播/船用（民用）
+- **团队与规模**：11-50 家族集团
+- **决策链与对接人**：Kai Eckmann GF/spezialkabel@
+- **技术与认证**：品牌质控
+- **采购与供应链信号**：分销上架
+- **近期动态与线索**：海事线缆扩线
+- **与我方契合点**：aktive 类目 PoE 交换补位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

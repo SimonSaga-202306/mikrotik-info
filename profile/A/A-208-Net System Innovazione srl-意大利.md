@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Net System Innovazione srl（意大利 Cuneo Vignolo，Via Cuneo 36/a）：SMB IT 服务——在场+远程协助（monitoraggio/manutenzione/interventi/report）+自研 **NSGest**（数字化转型/fatturazione/commesse/magazzino/ticket）+解决方案（sicurezza/digitalizzazione/cloud privato/**networking**/virtualizzazione/backup/telefonia/**videosorveglianza/controllo accessi**）
+- 【推断】自研 NSGest+服务全谱=皮埃蒙特 SMB 管家；networking 在 menu
+- 【假设】自研 ERP 文化=对 OEM 文档天然友善；其 SMB 随单件流
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“ASSISTENZA in azienda e da remoto…NSGest…SOLUZIONI: sicurezza, networking, cloud privato, videosorveglianza…”
   > “ASSISTENZA in azienda e da remoto…NSGest…SOLUZIONI: sicurezza, networking, cloud privato, videosorveglianza…”
   > 来源：https://nsi.srl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Cuneo SMB IT（自研 NSGest+服务谱）
+- **产品线与在售品牌**：谱件
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：小型
+- **决策链与对接人**：info@/support@
+- **技术与认证**：—
+- **采购与供应链信号**：随单
+- **近期动态与线索**：NSGest 线
+- **与我方契合点**：SMB 谱随单 value 件（OEM 文档友善）
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

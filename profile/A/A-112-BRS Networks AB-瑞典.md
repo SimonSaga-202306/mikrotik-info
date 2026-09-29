@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】BRS Networks AB（瑞典）：15 年 IT 托管商——Modern Workplace/网络安全/*Nätverk som tjänst（网络即服务）*/数字基建；**“为多种行业：医疗(bejukvård)、建筑(bwygg)、电网(elnät)、金融(ekonomi)”**；**80 名技术专家**；24/7 IT 与 OT 环境监控；本地化+全国覆盖
+- 【推断】NaaS 订阅模式+OT 监控=下联接入件是持续滚动消耗位；医疗/电网段对 value 件的规格审查严
+- 【假设】80 专家级团队=实测级技术语言有效；NaaS 计费模式让单件 TCO 话术直接命中
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层）+ Fortinet）
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“Säkrar och övervakar IT- och OT-miljöer dygnet runt…80 tekniska experter…sjukvård, bygg, elnät eller ekonomi”
   > “Säkrar och övervakar IT- och OT-miljöer dygnet runt…80 tekniska experter…sjukvård, bygg, elnät eller ekonomi”
   > 来源：https://brsnetworks.se/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞典 NaaS/托管 IT（OT 监控强项）
+- **产品线与在售品牌**：NaaS/M365/安全（Allied 信号）
+- **目标行业与场景**：医疗/建筑/电网/金融
+- **团队与规模**：80 技术专家
+- **决策链与对接人**：info@ 口
+- **技术与认证**：24/7 IT+OT 监控
+- **采购与供应链信号**：NaaS 滚动消耗
+- **近期动态与线索**：Leadfeeder 营销活跃
+- **与我方契合点**：NaaS 接入位 value 件
+- **风险与注意**：医疗/电网规格审查
 
 ## 产品决策（Saga · 单一决策口径）
 

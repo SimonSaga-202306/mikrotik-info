@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CTIconnect（美国）：CTIconnect 美无线大 VAD(Proxim/Taara 光认证班/Thor E2/Eltek 电源/Vertical Cable；自牌 CTI-ENCL-24RU 机柜 $4350;NetSuite 店+24/7 支）
+- 【推断】自牌 CTI-ENCL=懂贴牌；site 电源谱=塔站 PoE 场景口
+- 【假设】对照+贴牌双路正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**CTI-ENCL-24RU-FLM-AC-BAT1 自牌 $4350 + Eltek DC power 谱
   > CTI-ENCL-24RU-FLM-AC-BAT1 自牌 $4350 + Eltek DC power 谱
   > 来源：https://www.cticonnect.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美德州/佛州大 VAD（无线+电源）
+- **产品线与在售品牌**：Proxim/Taara 光/Thor/Eltek 电源/Vertical Cable+自牌 CTI-ENCL 机柜
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@cticonnect.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：自牌机柜+Eltek 电源谱=对照行正口（贴牌熟）
+- **风险与注意**：VAD 管线长
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Coel Distribution srl（意大利）：**弱电/网络分销品牌墙实版**——R&M/Rosenberger/Datwyler/Legrand/Leviton/Prysmian/Acome/Beta Cavi 线缆系+Metz Connect/Nexconec/Optotecnika/OWL/Patchsee 连接系+**Allied Telesis（CSV 信号实锤在品牌页）**+Planet Networking/LevelOne/TP-Link Omada/Trend Networks 网络系+**Coel Cables 自有贴牌**+ITRack/HellermannTyton 配套
+- 【推断】**CSV Allied 信号实锤+自有贴牌=双通道**：Allied 旁的 value 二线（公开上架）或 Coel Cables 式 ODM 贴牌（深度 ODM）
+- 【假设】其品牌结构既有高端（Allied）也有中低品牌（Planet/LevelOne/Omada）——value 档位的“文档可靠件”有自然空档
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“[brands:] Allied Telesis, Planet Networking, LevelOne, Omada by TP-Link, Metz Connect…Coel Cables[自有贴牌]…componenti e sistemi per le infrastrutture tecnologiche nell’IT”
   > “[brands:] Allied Telesis, Planet Networking, LevelOne, Omada by TP-Link, Metz Connect…Coel Cables[自有贴牌]…componenti e sistemi per le infrastrutture tecnologiche nell’IT”
   > 来源：https://www.coeldistribution.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利弱电网络分销（自贴牌+Allied）
+- **产品线与在售品牌**：约 30 品牌+Coel Cables
+- **目标行业与场景**：安装商/集成商客户群
+- **团队与规模**：分销中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：品牌级
+- **采购与供应链信号**：分销目录
+- **近期动态与线索**：Metz Connect 2026 新加
+- **与我方契合点**：Allied 旁 value 二线+ODM 贴牌双通道
+- **风险与注意**：Allied 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】QEDV GmbH（奥地利）：QEDV（奥 Tirol IT 全案商+PrestaShop 店）:**MikroTik 24 口 PoE 交换 €224 爆款在价**+ET-1 便携 PoE injector+SMB 数字化转型服务线（Windows Server/Dell)
+- 【推断】**24 口 PoE 即爆款**=同档品认知已建立=对照行直接可比（最顺正口之一）
+- 【假设】爆款 24 口 PoE 旁的 value 对照正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【产品线】**Beliebte Artikel: 'Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos' €224 + 便携 PoE injector 谱
   > Beliebte Artikel: 'Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos' €224 + 便携 PoE injector 谱
   > 来源：https://shop.qedv.at
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥 Tirol SMB IT 方案商（24口 PoE 爆款）
+- **产品线与在售品牌**：MikroTik/Dell/Wortmann
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：office@qedv.at 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：24 口 PoE 爆款旁 value 对照正口
+- **风险与注意**：同档品直接对位——胜在文档+价
 
 ## 产品决策（Saga · 单一决策口径）
 

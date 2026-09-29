@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Switchshop Ltd（英国）：25+ 年企业网络/网安/基建 VAR——Fortinet 英国最高位（**2025 公共部门年度伙伴**）、HPE Aruba/Juniper/**Allied Telesis（Marvell Prestera 接入层）**/Splicecom 在册；500+ 机构、137 张技术认证、全英自有工程团；ISO 9001/14001/27001+Cyber Essentials；**公共采购框架大户：NHS SBS、Crown Commercial Service LAN Lot 2a、Jisc、enFrame、DfE Everything ICT**
+- 【推断】其业务主干是公共部门框架采购（学校/NHS/政府）= 我方公共段红线区；合规触达仅限其私营企业项目，定位为 Allied 旁的 value PoE 补位
+- 【假设】私营段为其边角业务但真实存在（Allied+Splicecom 线）；一口价明确“不碰框架”反而加分
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -146,6 +153,19 @@ updated: 2026-09-28
 - **【风险与注意】**框架墙：NHS SBS Digital Workplace 2 / CCS Network Services 3 Lot 2a / Jisc / enFrame / Everything ICT（DfE）
   > 框架墙：NHS SBS Digital Workplace 2 / CCS Network Services 3 Lot 2a / Jisc / enFrame / Everything ICT（DfE）
   > 来源：https://www.switchshop.co.uk/frameworks/nhs-shared-business-services-framework
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国 25 年企业网络 VAR（Fortinet 公部年度伙伴）
+- **产品线与在售品牌**：Fortinet/Aruba/Juniper/Allied Telesis/Splicecom
+- **目标行业与场景**：公共部门为主（学校/NHS/地方政府）+私营企业段
+- **团队与规模**：500+ 客户大型 VAR
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：Fortinet 最高位+三重 ISO
+- **采购与供应链信号**：框架采购为主
+- **近期动态与线索**：2025 Fortinet 公部年度伙伴；2026 全网换新
+- **与我方契合点**：私营段 value PoE 补位（Allied 旁）
+- **风险与注意**：公共框架红线——明确不投标、不涉框架
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Adrianet SRL（意大利 Valenzano Bari；2025 年由 snc 转 SRL）：Communication & Security 装维店——铜缆/光纤布线（CAT5E-7 认证）、videosorveglianza（Hikvision/Dahua/Samsung）、antintrusione、烟雾检测；官网 Dati 栏明写 **'Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link'**——多牌交换明存
+- 【推断】布线/监控安装商把多品牌交换写在 Dati 栏——其项目（监控/局域网）PoE 消耗明确真实，随单正口；玩家多为中档牌=value 层天然有空
+- 【假设】布线/监控项目 value PoE 随单正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【产品线】**Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link（Dati 栏原句）
   > Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link（Dati 栏原句）
   > 来源：https://www.adrianetsrl.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 Bari 布线监控装维店
+- **产品线与在售品牌**：Zyxel/ATI/Cisco/Netgear/DLink
+- **目标行业与场景**：公私楼宇（私营传统）
+- **团队与规模**：区域装维店
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：2025 转 SRL（扩张信号）
+- **与我方契合点**：监控/局域网项目 PoE 随单正口
+- **风险与注意**：多牌散——比价决策快
 
 ## 产品决策（Saga · 单一决策口径）
 

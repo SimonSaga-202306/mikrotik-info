@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证
+- 【推断】公立大学背景+法庭鉴定人=公立身份红线户；仅私人顾问/鉴定线可谈，公立单位采购一律不触
+- 【假设】鉴定/咨询业务的实验室概念（工具机）适用
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSE）
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【技术与认证】**CSV：Gianpiero Ciacci MTCNA+MTCSE
   > CSV：Gianpiero Ciacci MTCNA+MTCSE
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：前公立大学 IT 主管转 CTU/CTP 法庭技术鉴定顾问+MikroTik 顾问
+- **产品线与在售品牌**：咨询/鉴定服务
+- **目标行业与场景**：技术鉴定、顾问（私人线）
+- **团队与规模**：个人
+- **决策链与对接人**：Ciacci 本人
+- **技术与认证**：MTCNA+MTCSE；UBWA+UEWA
+- **采购与供应链信号**：个人实验室级
+- **近期动态与线索**：LinkedIn 2026-04 仍活跃
+- **与我方契合点**：鉴定/顾问实验室的工具机
+- **风险与注意**：公立身份红线：前单位一切采购概不触及；仅私人业务对话
 
 ## 产品决策（Saga · 单一决策口径）
 

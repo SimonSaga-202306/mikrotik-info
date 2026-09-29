@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Nexus Networks（**马耳他**——roster/CSV 国家更正注：原标'西班牙'，实为马耳他小团）:'Vendor Independent'（不带厂商销售目标）全栈网络店——cabling/routing/**switching**/wireless/security/DC/cloud/automation/voice;品牌墙 Cambium/Ubiquiti/Aruba/Dell/Cisco/Netgear/**MikroTik(mt 徽标）**/3CX;客户=coworking/酒店娱乐/government/fintech/在线体育(iGaming)公司；CSV=**马耳他唯一 MikroTik 认证顾问 Johann（MTCSWE+MTCTCE，10 年）**，服务酒店/在线游戏/零售/制造
+- 【推断】小型顾问+集成双身份：vendor-independent+cost-effective 宣言=同频；iGaming/酒店/零售私营段真实；government 露头=守界句必压
+- 【假设】训练/顾问通道判 CONSULT-OEM（私营段同频窄针，政府守界句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis 等）
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Vendor Independent——we are not bound by any vendors…customers: coworking/hospitality/government/fintech/online sports；CSV: 马耳他唯一 MikroTik 顾问（MTCSWE）
   > Vendor Independent——we are not bound by any vendors…customers: coworking/hospitality/government/fintech/online sports；CSV: 马耳他唯一 MikroTik 顾问（MTCSWE）
   > 来源：https://www.nexus.com.mt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：马耳他小型全栈网络店
+- **产品线与在售品牌**：Cambium/Ubiquiti/Aruba/Cisco/Netgear/MikroTik(mt)
+- **目标行业与场景**：iGaming/酒店/零售/制造（government=守界注）
+- **团队与规模**：小团
+- **决策链与对接人**：hello@/johann@ 具名
+- **技术与认证**：MTCSWE/MTCTCE（CSV：全国唯一顾问）
+- **采购与供应链信号**：顾问+随件窄口
+- **近期动态与线索**：—
+- **与我方契合点**：顾问诚实角窄针（CONSULT-OEM）
+- **风险与注意**：政府客户守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

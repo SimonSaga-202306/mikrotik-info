@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线
+- 【推断】酒店科技是大头：Cyclades/克里特/雅典/多德卡尼斯/伊奥尼亚群岛酒店与 AirBNB 全栈（WiFi/IPTV/CCTV/VoIP/光纤），接入层 PoE 采购为经常性盘
+- 【假设】6Play 单房方案里 24 口 PoE 接入+10G 上联是标准件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -155,6 +162,19 @@ updated: 2026-09-28
 - **【联系方式】**sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
   > sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://hellascom.gr/el
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：1998 起希腊技术贸易公司：酒店科技全栈+国家级隧道 SCADA；MikroTik 分销+培训双身份
+- **产品线与在售品牌**：MikroTik 分销+Ruckus/Cambium/Mimosa/Ubiquiti 等 20+ 伙伴墙；TAIT/Omnitronics/Zetron 对讲代理
+- **目标行业与场景**：酒店/AirBNB（Cyclades、克里特、雅典、多德卡尼斯、伊奥尼亚）+隧道/机场基建
+- **团队与规模**：三部一室（研发集成、技术支持到元件级维修、商业进口）；500+ 项目
+- **决策链与对接人**：商业部进口窗口 sales@；培训中心兄弟实体（A-022 同集团）
+- **技术与认证**：ISO 9001:2015；MikroTik 官方 Trainer 资质
+- **采购与供应链信号**：自营进口部+电商 LinkShop——价格可得强
+- **近期动态与线索**：2026 在售排课+酒店季前备货节奏
+- **与我方契合点**：酒店 6Play 接入层 PoE 标准件；分销+零售双通道
+- **风险与注意**：隧道/机场段涉公共采购——只跟酒店私营段；与 A-022 合并触达避免重复打扰
 
 ## 产品决策（Saga · 单一决策口径）
 

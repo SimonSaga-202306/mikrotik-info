@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Jernej Suhadolc (Virtua IT)（斯洛文尼亚）：Ljubljana 15+ 年 IT 伙伴：**Fortinet+Ubiquiti+MikroTik 三牌明示**;SD-WAN/VPS/DR/备份/外包全 MSP;**MikroTik(MTCNA/MTCWE/MTCRE)+Fortinet 认证课**
+- 【推断】MSP+trainer 双角：托管现场随单缝+顾问对照行两缝；Ubiquiti 是其接入层主牌=诚实替补角
+- 【假设】双角：托管现场随单+课堂对照行（Ubiquiti 旁前句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证，持 MTCNA）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'IT varnost: Fortinet in Ubiquiti… MikroTik certifikacije: MTCNA, MTCWE, MTCRE' + SD-WAN/VPS/DR/outsourcing 全谱
   > 'IT varnost: Fortinet in Ubiquiti… MikroTik certifikacije: MTCNA, MTCWE, MTCRE' + SD-WAN/VPS/DR/outsourcing 全谱
   > 来源：https://virtua.si
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯洛文尼亚 MSP+认证培训（15 年）
+- **产品线与在售品牌**：Fortinet/Ubiquiti/MikroTik 三牌
+- **目标行业与场景**：SMB 托管+云迁移
+- **团队与规模**：小型
+- **决策链与对接人**：jernej.suhadolc@ 具名
+- **技术与认证**：MT+Fortinet 认证讲师
+- **采购与供应链信号**：—
+- **近期动态与线索**：24/7 支持承诺
+- **与我方契合点**：托管现场随单+课堂对照行双角
+- **风险与注意**：Ubiquiti 主牌——替补角前置诚实句
 
 ## 产品决策（Saga · 单一决策口径）
 

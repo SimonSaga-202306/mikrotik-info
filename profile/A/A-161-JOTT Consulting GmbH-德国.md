@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】JOTT Consulting GmbH（德国科隆）：SMB IT 服务商——服务器与网络（Kernkompetenz “Server & Netzwerke”首块）/Hyper-V 虚拟化/网络安全/服务器与服务监控/云/合规；**Klaus Jettkant 具名 掌门**（官网图片文件署名）；价值观：如同伴级别、被信任无商业私利（“unseren Empfehlungen vertrauen können ohne geschäftlichen Eigennutz”）
+- 【推断】上门级 SMB 服务信任文化+网络首块：随单接入件价值位对口；合规线=文档完整度敏感
+- 【假设】“中小企业自解小问题”赋能自述=客户群深度 SMB，预算克制——$165 位天然
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Unsere Experten kümmern sich darum, dass Ihre Server und Netzwerke reibungslos laufen（Kernkompetenz 首块）…ohne geschäftlichen Eigennutz”
   > “Unsere Experten kümmern sich darum, dass Ihre Server und Netzwerke reibungslos laufen（Kernkompetenz 首块）…ohne geschäftlichen Eigennutz”
   > 来源：https://www.jott.consulting/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：科隆可信型 SMB IT 商（具名）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：一人领衔团队
+- **决策链与对接人**：Klaus Jettkant 具名
+- **技术与认证**：—
+- **采购与供应链信号**：随单
+- **近期动态与线索**：合规线
+- **与我方契合点**：SMB 网络随单 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

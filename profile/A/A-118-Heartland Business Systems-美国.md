@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】HBS Heartland Business Systems（威斯康星 Little Chute）：中大企业技术全栈商——基础设施转型（数据中心）/协作（Webex）/网络安全（SOC/IR/渗透/GRC）/托管 IT（Managed One）/应用开发；伙伴墙：Cisco/HPE/Microsoft/Verkada/Lenovo/Everpure；Copilot 生态营销活跃
+- 【推断】伙伴墙=一线大牌（Cisco/HPE/Verkada）——其接入层被在位大牌主力占据；CSV 具名邮箱 jgasperich@hbs.net 为第三方名录来源，质量存疑
+- 【假设】大牌同盟结构下 value 位切入空间窄：最现实角度=报价受限项目/中小客户的价值线补位——承认大牌主场并定位“第二架”
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
   > “Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
   > 来源：https://www.hbs.net/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：威州中大企业技术全栈商
+- **产品线与在售品牌**：Cisco/HPE/MS/Verkada 一线同盟
+- **目标行业与场景**：中大企业/数据中心
+- **团队与规模**：中大型
+- **决策链与对接人**：官网联系口主路+jgasperich 辅助
+- **技术与认证**：SOC/渗透级
+- **采购与供应链信号**：伙伴目录内采购
+- **近期动态与线索**：Copilot 生态营销
+- **与我方契合点**：第二架价值线（窄判别）
+- **风险与注意**：大牌同盟强
 
 ## 产品决策（Saga · 单一决策口径）
 

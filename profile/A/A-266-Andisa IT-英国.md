@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Andisa IT Consultants Ltd（英国约克郡）：本地 MSP——托管 IT 六线（支持/helpdesk/网络安全等）+网络/服务器/移动/电话；CSV=MikroTik 认证顾问（可全英现场或远程，做完整网络设计/站点勘测）
+- 【推断】MSP 主体+顾问深度：其网络设计/站点勘测项目的交换件随单真实——诚实角记 MikroTik 顾问身份
+- 【假设】网络设计项目/托管现场的 value PoE 随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCNA MTCRE MTCWE）
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Managed IT Services six solutions——networks/servers/mobile/telephone；CSV: MikroTik 顾问全英现场/设计/站点勘测
   > Managed IT Services six solutions——networks/servers/mobile/telephone；CSV: MikroTik 顾问全英现场/设计/站点勘测
   > 来源：https://www.andisa.net
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国约克郡 MSP
+- **产品线与在售品牌**：—
+- **目标行业与场景**：本地 SMB 托管/现场设计
+- **团队与规模**：本地团队
+- **决策链与对接人**：supportdesk 口
+- **技术与认证**：MikroTik 认证顾问（CSV）
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：设计+托管双随单
+- **风险与注意**：伙伴墙未全显（标注）；顾问身份诚实角
 
 ## 产品决策（Saga · 单一决策口径）
 

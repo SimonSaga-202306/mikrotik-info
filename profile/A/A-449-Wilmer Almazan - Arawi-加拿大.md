@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Wilmer Almazan (Arawi)（加拿大）：**Arawi(Winnipeg):MikroTik 授权培训中心+咨询——六大洲授课、10 官方证书全谱（MTCNA→MTCINE)、600+ 工程师、全球 <600 trainer 之一**;Global 在线一对多开
+- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
+- 【假设】课堂/咨询旁的一行了解位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 10 证全拿）
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**arawi.ca: 'MikroTik Authorized Training Center' + All 10 official certs + 600+ trained + 6 continents
   > arawi.ca: 'MikroTik Authorized Training Center' + All 10 official certs + 600+ trained + 6 continents
   > 来源：https://www.arawi.ca
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加拿大 MikroTik 顾问/培训实体（官网核）
+- **产品线与在售品牌**：MikroTik 生态为主
+- **目标行业与场景**：咨询/培训现场
+- **团队与规模**：小微
+- **决策链与对接人**：info@arawi.ca 口
+- **技术与认证**：MikroTik 认证体系
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：顾问对照单元（Fewer than six hundr）
+- **风险与注意**：体量微——低期待窄针
 
 ## 产品决策（Saga · 单一决策口径）
 

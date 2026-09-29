@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Asit SpA（意大利，40 年，42 员工，5 布点，1,500 活跃客户）：**弱电分销专家**——BU 五个：UCC/Cabling&Datacenter/AV/TVCC/**Networking**；**品牌实版 35-40 个**（R&M/Ribbon/Riello/Vertiv/Belden/Panduit/Leviton/Prysmian/Acome/Fujikura/Yealink/3CX/Avaya/Mitel/Snom/WatchGuard/Ekahau/Fluke/Maxhub/Hisense/D-Link/**Netgear**/Zyxel/**Huawei**/Dahua 等）+**自有贴牌 rackAsit（机柜系列）**+培训学院 250h/年
+- 【推断】**意大利级弱电分销（LANDE 同族）+自有贴牌=白牌 OEM 模式实操证明**；Networking BU 现有 Netgear/D-Link/Zyxel/华为——value 档新线缝+白牌商谈双通道
+- 【假设】“rackAsit”自有品牌=其对 OEM 合作模式的实操接受度已验证
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“5 sedi, 40 anni, 42 dipendenti, 1500 clienti attivi, 35 brand…[BU:] Networking…cabling, AV, TVCC…[自有:] rackasit”
   > “5 sedi, 40 anni, 42 dipendenti, 1500 clienti attivi, 35 brand…[BU:] Networking…cabling, AV, TVCC…[自有:] rackasit”
   > 来源：https://www.asit.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利弱电分销（5 BU+rackAsit 自贴牌）
+- **产品线与在售品牌**：35-40 牌+自贴牌
+- **目标行业与场景**：集成商/安装商客户群
+- **团队与规模**：分销商 42 人
+- **决策链与对接人**：asit@ 口
+- **技术与认证**：250h 培训
+- **采购与供应链信号**：分销目录
+- **近期动态与线索**：培训学院
+- **与我方契合点**：Networking BU 的 value 档新线+白牌 ODM 商谈
+- **风险与注意**：中华牌已在位
 
 ## 产品决策（Saga · 单一决策口径）
 

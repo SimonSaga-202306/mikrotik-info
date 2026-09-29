@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Davide Toffoletto：CSV 载 9 证 MikroTik 顾问（MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE 等）；公开足迹弱（LinkedIn 无命中，仅 Facebook 同名页），gmail 联系方式
+- 【推断】个人顾问以口碑/代理圈接单，公开数字化足迹低
+- 【假设】9 证深度= RouterOS 老炮，特性对话型
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE+MTCEWE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**LinkedIn 搜索无命中；仅 Facebook 同名页（弱证据，不作为事实层）
   > LinkedIn 搜索无命中；仅 Facebook 同名页（弱证据，不作为事实层）
   > 来源：https://www.facebook.com/davide.toffoletto/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：个人 9 证 MikroTik 顾问（公开足迹弱）
+- **产品线与在售品牌**：咨询
+- **目标行业与场景**：未公开
+- **团队与规模**：个人
+- **决策链与对接人**：Toffoletto 本人
+- **技术与认证**：MTCNA/MTCRE/MTCWE/MTCTCE/MTCINE/MTCIPv6E/MTCSE 等 9 证
+- **采购与供应链信号**：未知
+- **近期动态与线索**：无公开动态
+- **与我方契合点**：老炮特性对话
+- **风险与注意**：公开信息缺口如实标注；电话先破冰
 
 ## 产品决策（Saga · 单一决策口径）
 

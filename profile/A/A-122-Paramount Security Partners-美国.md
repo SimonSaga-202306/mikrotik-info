@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）
+- 【推断】SECaaS 月付模式下公司先投硬件后收月租——硬件采购单价直接决定其现金结构，value 件话术命中商业模型
+- 【假设】“not a one size fits all”设计文化=候选件工业位开放评
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Security as a Service…convenient monthly payment option to procure your security solutions…not a one size fits all solution”
   > “Security as a Service…convenient monthly payment option to procure your security solutions…not a one size fits all solution”
   > 来源：https://paramountsec.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：三州安防集成（SECaaS 月付创新）
+- **产品线与在售品牌**：安防系统（Allied 信号，CSV）
+- **目标行业与场景**：区域商业安防
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@/报价表单
+- **技术与认证**：全服务
+- **采购与供应链信号**：SECaaS 前端采购
+- **近期动态与线索**：SHIELD 产品化
+- **与我方契合点**：月付模式的 value 硬件位
+- **风险与注意**：随单结构
 
 ## 产品决策（Saga · 单一决策口径）
 

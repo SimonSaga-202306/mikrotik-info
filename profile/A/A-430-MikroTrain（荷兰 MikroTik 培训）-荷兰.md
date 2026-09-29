@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-259（人-司关联档）→ 互注；首触走 A-430 司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MikroTrain（荷兰）：MikroTrain(Zwolle):**MikroTik 官训（MTCNA/MTCRE)+incompany;300+ 学员毕业，客户墙 Cegeka/UMCG/FunX/Kinly/DAEL/rijksoverheid 荷兰政府**
+- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
+- 【假设】课堂/咨询旁的一行了解位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -115,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**mikrotrain.nl: 'MikroTrain verzorgt officiële MikroTik-certificeringstrainingen' + 300+ professionals 墙（Cegeka/UMCG/DAEL/rijksoverheid)
   > mikrotrain.nl: 'MikroTrain verzorgt officiële MikroTik-certificeringstrainingen' + 300+ professionals 墙（Cegeka/UMCG/DAEL/rijksoverheid)
   > 来源：https://www.mikrotrain.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 MikroTik 顾问/培训实体（官网核）
+- **产品线与在售品牌**：MikroTik 生态为主
+- **目标行业与场景**：咨询/培训现场
+- **团队与规模**：小微
+- **决策链与对接人**：info@mikrotrain.nl 口
+- **技术与认证**：MikroTik 认证体系
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：顾问对照单元（Three hundred profes）
+- **风险与注意**：体量微——低期待窄针
 
 ## 产品决策（Saga · 单一决策口径）
 

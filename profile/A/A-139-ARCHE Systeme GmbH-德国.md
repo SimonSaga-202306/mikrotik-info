@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ARCHE Systeme GmbH（德国，arche-systeme.de）：**军工海事硬件专家**——硬件开发/系统近底层软件（显示系统/适配转换板/导航/信号分配）；**军用与民用造船复杂网络（铜缆+光纤）+数据中心**；**海军舰艇硬件加固/集成/安装（扫雷艇/护卫舰/补给舰/潜艇），EMV/磁/气候/冲击/振动环境测试**；伙伴与项目方：德国海军/船厂/THALES/Hagenuk/IBM/ESG/CONET/Blohm+Voss/**ThyssenKrupp Marine Systems 潜艇项目**；软件线：港口与交通技术/SKSS 港口管理/风电雷达夜标
+- 【推断】军工海军供应链受出口管制与安全审查全面约束——外资网络件无现实通道，接触本身不经济亦不适当
+- 【假设】纪律建档，不出信（军技红线类目：同培训中心/Netonix/规模排除同级的“不出信”纪律族）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Härtung, Integration und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen…deutsche Marine, Werften…THALES…Thyssen Krupp Marine Systeme…U-Boot Projekte”
   > “Härtung, Integration und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen…deutsche Marine, Werften…THALES…Thyssen Krupp Marine Systeme…U-Boot Projekte”
   > 来源：https://www.arche-systeme.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国军工海事硬件（海军/TKMS 供应链）
+- **产品线与在售品牌**：加固硬件/舰载网络
+- **目标行业与场景**：海军舰艇/船厂（红线）
+- **团队与规模**：专精小型
+- **决策链与对接人**：—
+- **技术与认证**：EMV/磁/气候/冲击测试
+- **采购与供应链信号**：军工采购体系
+- **近期动态与线索**：—
+- **与我方契合点**：无现实通道（红线建档）
+- **风险与注意**：出口管制环境
 
 ## 产品决策（Saga · 单一决策口径）
 

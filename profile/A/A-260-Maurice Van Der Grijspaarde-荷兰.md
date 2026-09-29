@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GPE Networks（荷兰 SMB 一站式 MSP）：系统管理/网络管理/云/备份/咨询/网站托管六线；评论墙实锤 MikroTik 路由排障修配案件（Maurice 具名）
+- 【推断】SMB 网络管理一站式——MikroTik 存量在客户墙（诚实角），网络件随单真实存在=value 正口窄针
+- 【假设】其 SMB 客户网络管理换代件的 value 随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCTCE MTCUME MTCIPv6E MTCINE MTCSE MTCSWE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Systeembeheer/Netwerkbeheer/Cloud/Backup/Consultancy/Webhosting——reviews: 'Maurice onze Netwerk legend…Mikrotik Router'
   > Systeembeheer/Netwerkbeheer/Cloud/Backup/Consultancy/Webhosting——reviews: 'Maurice onze Netwerk legend…Mikrotik Router'
   > 来源：https://gpe-networks.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 SMB 一站式 MSP
+- **产品线与在售品牌**：云栈+MikroTik 存量
+- **目标行业与场景**：SMB 企业网/云/备份
+- **团队与规模**：小型团队（Maurice 具名）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：随单件
+- **近期动态与线索**：多年好评墙
+- **与我方契合点**：SMB 换代随单正口
+- **风险与注意**：MikroTik 存量——话术诚实
 
 ## 产品决策（Saga · 单一决策口径）
 

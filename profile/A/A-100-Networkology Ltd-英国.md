@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Networkology Ltd（英国）：技术专家 IT 服务商——“Engineering Excellence”，服务**国防/政府/公共部门**（架构/工程/部署高监管环境）+私营双轨；伙伴：Juniper/**Cisco**/Extreme/Splunk/Cribl/Riverbed/Palo Alto/Dynatrace/Allegro Packets/**Allied Telesis（+SergeantClip！）**；客户墙 Fujitsu/**National Archives/DWP（公共红线）**；框架：**G-Cloud、DoS 等**；ISO 27001/9001/14001+Cyber Essentials Plus；NETVETS 退役军人招聘项目（社区向
+- 【推断】公共部门是其主干（红线）——其 Allied/SergeantClip 侧像“私营项目里的交换机与安全图钉类小件”供应；NETVETS=值得尊重的社区名片（不做商务工具）
+- 【假设】私营段与（管线）铺料类 margin 业务是合规入口；公共/国防框架明确不触
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -150,6 +157,19 @@ updated: 2026-09-28
 - **【联系方式】**contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://networkology.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国高监管 IT 专家服务商（公共主干+私营双轨）
+- **产品线与在售品牌**：Juniper/Cisco/Extreme/Splunk/Allied Telesis 等
+- **目标行业与场景**：国防/政府/公共（红线）+私营
+- **团队与规模**：专家型中型
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：ISO 27001/9001/14001+CE Plus
+- **采购与供应链信号**：框架+项目混合
+- **近期动态与线索**：G-Cloud/DoS 在册；NETVETS 在营
+- **与我方契合点**：私营项目 value PoE 补位（Allied 旁）
+- **风险与注意**：公共红线
 
 ## 产品决策（Saga · 单一决策口径）
 

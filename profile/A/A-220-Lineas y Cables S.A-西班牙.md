@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Lineas y Cables S.A. / Grupo Líneas y Cables（西班牙马德里，40+ 年）：**集团化工程商**——电信/铁路/能源三大战略行业（自述）;**三页品牌墙 ~30 牌： Dell Platinum、Commscope、Prysmian、NKT、Checkpoint、Samsung、Eaton、Elcon Megarad、Polomarconi（意大利铁路通信天线）、Clavister、Mildef（瑞典军规加固）、Fonestar、Xerox、Bertin、Exavision（加固相机）、Racks & Networking Solutions、Beta Tools、Blancco、SonicWall、Fluke Networks、Grandstream、**Allied Telesis 实版**、StarTech**
+- 【推断】**铁路（RENFE/ADIF 公营）+Mildef 军规+Bertin/Elcon 战略技术=公共/军工/战略三重守界**；私营电信工程段是随单真实面；Allied Telesis 在墙=接入层现牌实版
+- 【假设】铁路/能源的站场工程=虽公共委托却由工程商采购非招标小件——但按政策口沿用守界不碰，信里明钉私营电信工程段
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“más de 40 años de experiencia…sectores estratégicos…telecomunicaciones, el sector ferroviario o la energía…[partners:] Allied Telesis, Mildef, Polomarconi, Prysmian…”
   > “más de 40 años de experiencia…sectores estratégicos…telecomunicaciones, el sector ferroviario o la energía…[partners:] Allied Telesis, Mildef, Polomarconi, Prysmian…”
   > 来源：https://www.grupolineasycables.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西班牙集团工程商（铁路/能源/军工守界；私营电信工程段）
+- **产品线与在售品牌**：Allied+Commscope/Prysmian/Mildef 实版 30+ 牌
+- **目标行业与场景**：私营电信工程（主）+铁路/能源/军工（守界）
+- **团队与规模**：集团中型
+- **决策链与对接人**：lyc@ 口
+- **技术与认证**：集团级
+- **采购与供应链信号**：工程套装
+- **近期动态与线索**：40+ 年自述
+- **与我方契合点**：私营电信工程随单件（Allied 旁 value 二线+守界句）
+- **风险与注意**：三重守界+Allied 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SYNEXIE（法国 Toulon/La Ciotat/Paris）：网络安全专商——VSBs/SMEs/大企业/公共机构四客群页；**300+ 信任客户墙含 Naval Group（军）+Ministère Agriculture/Culture（部委）+Airbus+RTM+Helisim+ArcelorMittal**;服务含 Hardware & licensing（IT 设备分销）；伙伴墙 **Stormshield Gold/Allied-Telesis Partner 徽标**等一众
+- 【推断】安全主业+明设硬件分销服务一缝：VSB/SME 私营段硬件线=唯一现实窄口；Naval/部委在墙=守界句必压
+- 【假设】VSB/SME 段 Hardware&licensing 线的 value 窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【目标行业】**VSBs/SMEs/Large Businesses/Public Institutions 四档；信任墙: Naval Group/Ministère Agriculture/Airbus/RTM
   > VSBs/SMEs/Large Businesses/Public Institutions 四档；信任墙: Naval Group/Ministère Agriculture/Airbus/RTM
   > 来源：https://www.synexie.fr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国 Toulon 网络安全+硬件分销屋
+- **产品线与在售品牌**：Stormshield/Allied/Aruba/Cisco 等
+- **目标行业与场景**：**VSB/SME 私营**（公共/军工=守界注）
+- **团队与规模**：中型
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：硬件分销服务在营
+- **近期动态与线索**：—
+- **与我方契合点**：VSB/SME 硬件段窄位（军工/部委守界句）
+- **风险与注意**：Naval Group/部委在墙——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

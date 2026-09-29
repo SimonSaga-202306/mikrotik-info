@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】WispMax（意大利）：意大利 WISP 装备店（品类宽：天线/板卡/能源/监控/热区/IoT/**EV 充电桩 Trydan**);**switch Townet managed industrial PoE 5P 在售**;TinyControl LAN controller
+- 【推断】工业 PoE 交换类目（Townet）已开+品类开放度高（EV 充电桩都收）=替补收录最自然；双角：商业 PoE 对照行+工业 8 口件（Townet 旁）
+- 【假设】双角：商业对照行+工业件（Townet 旁）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【在售品牌】**Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
   > Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
   > 来源：https://www.wispmax.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意 WISP 装备店（品类超宽）
+- **产品线与在售品牌**：MikroTik/Ubiquiti/**Townet 工业 PoE**/Trydan EV
+- **目标行业与场景**：WISP/装维/工业/EV 客
+- **团队与规模**：小型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：库存电商
+- **近期动态与线索**：EV 充电桩线 2026 扩张
+- **与我方契合点**：**双角**:STC-424 对照行+STI-288GP 工业件（Townet 类目已开）
+- **风险与注意**：品类过宽——卖点须极简
 
 ## 产品决策（Saga · 单一决策口径）
 

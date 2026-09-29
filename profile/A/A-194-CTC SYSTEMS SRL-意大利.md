@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CTC SYSTEMS SRL（意大利 Lecco，10+ 年）：**Office Automation+管理软件主线（Sistemi 产品线 eSOLVER/SPRING/PROFIS/PEOPLELINK）+硬件支线+租赁打印+零售**；“arredo-ufficio chiavi in mano（交钥匙办公配套）”；伙伴 Lenovo/Nethesis；自述硬件线含“infrastrutture di networking”
+- 【推断】管理软件主线商：网络基础是其硬件支线的次级类目——窄位低优先但存在
+- 【假设】Lecco 伦巴第小圈子（同批18 Agomir 同城文化）：关系密集，慢而粘
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“consulenza, il noleggio, la vendita e l’assistenza tecnica nel campo dell’Office Automation, ICT, Software Gestionali e Retail…Dispositivi e infrastrutture di networking al caso tuo”
   > “consulenza, il noleggio, la vendita e l’assistenza tecnica nel campo dell’Office Automation, ICT, Software Gestionali e Retail…Dispositivi e infrastrutture di networking al caso tuo”
   > 来源：https://www.ctcsystems.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Lecco OA/软件主线商（硬件窄支线）
+- **产品线与在售品牌**：Lenovo/Sistemi 族
+- **目标行业与场景**：区域企业
+- **团队与规模**：小型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：伙伴级
+- **采购与供应链信号**：随单（窄）
+- **近期动态与线索**：交钥匙办公文化
+- **与我方契合点**：硬件支线网络基础窄位（低优先）
+- **风险与注意**：主要语言软件
 
 ## 产品决策（Saga · 单一决策口径）
 

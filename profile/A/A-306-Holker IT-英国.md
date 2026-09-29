@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Holker IT（英国 Burnley）：托管 IT 服务商——管理 ICT 支持/网络安全/连接/M365+Copilot/DaaS/备份/VoIP/打印；CSV=**Allied Telesis Platinum Partner + AT UK Partner of the Year（Featured Partner 页）**
+- 【推断】白金级 AT 伙伴的托管业务：客户现场换代随单真实——但 Platinum 粘合强，value 二槽窄位死守界前句
+- 【假设】托管现场的 value 二槽窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Transforming Technology for Success——Managed ICT/Cyber/Connectivity/DaaS；CSV: Allied Telesis Platinum + UK Partner of the Year
   > Transforming Technology for Success——Managed ICT/Cyber/Connectivity/DaaS；CSV: Allied Telesis Platinum + UK Partner of the Year
   > 来源：https://www.holkerit.co.uk
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国 Burnley 托管 MSP
+- **产品线与在售品牌**：Allied Telesis Platinum（CSV）
+- **目标行业与场景**：本地 SMB 托管
+- **团队与规模**：中型 MSP
+- **决策链与对接人**：enquiries@ 口
+- **技术与认证**：AT UK PoY（CSV）
+- **采购与供应链信号**：托管随单
+- **近期动态与线索**：—
+- **与我方契合点**：二槽窄位（Platinum 旁前句框定）
+- **风险与注意**：Platinum 粘合强
 
 ## 产品决策（Saga · 单一决策口径）
 

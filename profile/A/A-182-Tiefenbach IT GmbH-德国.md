@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Tiefenbach IT GmbH（德国）：**硬软件在线店**——首页实版在售：**OEM 兼容光模块（Cisco/HPE Aruba 兼容 SFP-10G-LR-C 等 €14-35）**+光纤跳线+**HPE Aruba 6000/6300M 交换机（€442-12,500）**+HP/Lenovo 硬件；**“OEM 兼容件”正是其主营模式**
+- 【推断】**经营哲学与我方同源：兼容 value 件卖给在意总价的采购**——其客户群已习惯“第三方 OEM 逻辑”，PoE 交换上架位天然
+- 【假设】其 Aruba 大牌目录旁，一个规范的 value PoE 交换线能丰富其“省钱但可靠”叙事
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“[listing:] OEM 10GBASE SFP+ LR 1310nm 10km LC Cisco kompatibel €26…HPE Aruba 6000 48G CL4 4SFP Switch R8N85A €1.034,89”
   > “[listing:] OEM 10GBASE SFP+ LR 1310nm 10km LC Cisco kompatibel €26…HPE Aruba 6000 48G CL4 4SFP Switch R8N85A €1.034,89”
   > 来源：https://www.tiefenbach-it.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国硬件电商（OEM 兼容件文化同源）
+- **产品线与在售品牌**：OEM 兼容光收+HPE Aruba 交换
+- **目标行业与场景**：在线 B2B 采购
+- **团队与规模**：电商中型
+- **决策链与对接人**：kontakt@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：店上架模式
+- **近期动态与线索**：促销 banner 页
+- **与我方契合点**：OEM-compatible 买家的 PoE 交换上架线
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Bachert Datentechnik GmbH（德国，25+ 年）：数据技术全栈——**Netzwerktechnik（无线/布线/安全）项目 A-Z**/Kommunikationstechnik（VoIP/视频会议）/IT-Systeme+Rechenzentrum/媒体技术（Panasonic/FilmGEAR/Spectera 项目，Eurovision 2026 新闻）；vertrieb@ 销售口；25+ 年经验团队（技术员/安装工/学徒/商务）
+- 【推断】“Netzwerktechnik A-Z 一手包办”=接入交换随单惯件位；媒体技术大项目（Eurovision）显示其高规格活动网交付能力
+- 【假设】“Neutrale Beratung”自述=中立咨询文化同频 candidate 件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Netzwerktechnik - Projekte von A bis Z aus kompetenter und freundlicher Hand…Mehr als 25 Jahre Branchenerfahrung”
   > “Netzwerktechnik - Projekte von A bis Z aus kompetenter und freundlicher Hand…Mehr als 25 Jahre Branchenerfahrung”
   > 来源：https://www.bachert.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 25 年数据技术全栈（网络 A-Z）
+- **产品线与在售品牌**：网络/VoIP/RZ/媒体（CSV 载 Allied 信号）
+- **目标行业与场景**：区域企业/教育/活动
+- **团队与规模**：区域中型
+- **决策链与对接人**：vertrieb@ 口
+- **技术与认证**：25+ 年
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：Eurovision 2026 Spectera 项目
+- **与我方契合点**：网络项目随单接入层 value 位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

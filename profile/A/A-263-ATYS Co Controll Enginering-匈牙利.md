@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ATYS-CO Kft（匈牙利，近三十年工业自动化集团）：过程控制/自动化系统设计+施工+全生命周期运维；贸易部 20 年主打工业电源销售；2009 加可再生能源部；CSV=Westermo Reseller
+- 【推断】自动化承包+贸易双主业：项目里的工业网络件随单真实存在（Westermo 在墙），贸易部自带分销能力
+- 【假设】自动化项目 PoE 接入随单（Westermo 旁 value 替补）+贸易部上架双角
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Westermo（工业接入层交换机））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**irányítástechnika——jelentős kivitelezői kapacitás;kereskedelem gerincét az ipari tápegységek forgalmazása（20 年）
   > irányítástechnika——jelentős kivitelezői kapacitás;kereskedelem gerincét az ipari tápegységek forgalmazása（20 年）
   > 来源：https://www.atysco.hu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈牙利自动化集团（近 30 年）
+- **产品线与在售品牌**：Westermo+工业电源
+- **目标行业与场景**：过程工业/制造厂
+- **团队与规模**：承包集团规模
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：承包随单+贸易上架
+- **近期动态与线索**：机器人/自动化扩张叙事
+- **与我方契合点**：项目随单+贸易双通道（Westermo 旁守界前句）
+- **风险与注意**：Westermo 主权——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

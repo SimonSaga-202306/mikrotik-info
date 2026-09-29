@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Tomislav Vrebac (Kerberos)（克罗地亚）：Kerberos d.o.o.(Kastav/Opatija 区）:SMB IT 方案+网络安全+**MikroTik 认证培训中心（官网三节匾）**;Blog 2025-04 活跃（MTCNA 备考/安全威胁文）;contact=tomislav.vrebac@ 具名
+- 【推断】SMB 项目实施+MT 培训双业态：现场随单+课堂对照双角；small MSP 体量低密
+- 【假设】SMB 项目随单+MT 课堂对照双角（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCEWE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**Kerberos d.o.o.: Inovacije, sigurnost i edukacija u IT-u + 'Mikrotik trening centar' 节匾
   > Kerberos d.o.o.: Inovacije, sigurnost i edukacija u IT-u + 'Mikrotik trening centar' 节匾
   > 来源：https://www.kerberos.hr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：克 SMB IT 方案+MT 培训中心
+- **产品线与在售品牌**：SMB 方案+MT 官训
+- **目标行业与场景**：SMB/教育机构
+- **团队与规模**：微型
+- **决策链与对接人**：tomislav.vrebac@ 具名
+- **技术与认证**：MT 官训
+- **采购与供应链信号**：—
+- **近期动态与线索**：Blog 2025-04 活跃
+- **与我方契合点**：SMB 随单+课堂对照双角
+- **风险与注意**：体量微——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

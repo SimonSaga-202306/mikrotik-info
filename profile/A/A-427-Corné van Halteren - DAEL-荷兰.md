@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-285（同一实体重复建档）→ 互注；首触只走 A-427
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -44,6 +46,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Corné van Halteren (DAEL)（荷兰）：DAEL(荷 25 年机电集团，多子公司数百人）:Installatiegroep/Elektra/Klimaat/Technisch Beheer/Power/**Telecom（网络建设维护）**/Connectivity/Security/Energy；客户墙 Schiphol/Center Parcs/**Dienst Justitiële Inrichtingen 司法**/McDonald's/GGZ
+- 【推断】机电集团 Telecom 线=弱电/网络项目随单必然；但 DJI 司法+机场=守界句必压；私营商业段（Center Parcs/McDonald's 类）主打
+- 【假设】Telecom/Connectivity 线项目随单缝（私营段；司法机场守界句）
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -114,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**Specialismen: Telecom 'Netwerkbouw, onderhoud' + Connectivity; klanten: Schiphol/Center Parcs/DJI/McDonald's
   > Specialismen: Telecom 'Netwerkbouw, onderhoud' + Connectivity; klanten: Schiphol/Center Parcs/DJI/McDonald's
   > 来源：https://www.dael.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷 25 年机电集团（Telecom/Connectivity 线）
+- **产品线与在售品牌**：机电+网络集成（供应商未明列）
+- **目标行业与场景**：
+- **团队与规模**：
+- **决策链与对接人**：corne.vanhalteren@dael.com 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：私营段弱电网建随单缝（司法/机场守界）
+- **风险与注意**：项目制采购链长——首信=开场
 
 ## 产品决策（Saga · 单一决策口径）
 

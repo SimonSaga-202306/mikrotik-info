@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Nokta Elektronik（土耳其）：Nokta Elektronik（土伊斯坦布尔安全+网络分销）:Dahua 全线（CCTV/火警/医护呼叫/道闸）+Planet(L3 24口 802.3bt PoE+10G 上架）+Uptech 自牌+Ignitenet;B2B 平台+定制软件线
+- 【推断】Planet bt 谱=已收中国 value 开关牌；安全主业=PoE 是每单随行件
+- 【假设】Planet 谱旁 value 对照窄位（医用/安全项目民用段）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**Öne Çıkan: Planet GS-5220-24UP4X L3 24-Port 802.3bt PoE + Dahua 全谱
   > Öne Çıkan: Planet GS-5220-24UP4X L3 24-Port 802.3bt PoE + Dahua 全谱
   > 来源：https://www.noktaelektronik.net
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土安全+网络分销商（B2B 平台）
+- **产品线与在售品牌**：Dahua/Planet/Uptech/Ignitenet
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：nokta@noktaelektronik.net 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Planet bt 谱旁 value 对照（医疗线=民用段无守界）
+- **风险与注意**：Planet 同价位档——需差异化
 
 ## 产品决策（Saga · 单一决策口径）
 

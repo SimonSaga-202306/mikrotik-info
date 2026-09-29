@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NACE（美 CATV 前端商，products.nace.tv）：FiberTronix 光纤谱+LigoWave+MikroTik Solutions 专页；headend 组装主业
+- 【推断】CATV 前端/FTTH 项目型=网络件随单走；MT 专页=RouterOS 客户群在
+- 【假设】窄位：CATV 主业，PoE 接入随单低密
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -121,6 +128,19 @@ updated: 2026-09-28
 - **【谱位】**MT Solutions 页=RouterOS 客户群
   > MT Solutions 页=RouterOS 客户群
   > 来源：https://products.nace.tv
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 CATV 前端设备商
+- **产品线与在售品牌**：FiberTronix/LigoWave/MT Solutions 页
+- **目标行业与场景**：CATV headend/FTTH 项目
+- **团队与规模**：（官网推）
+- **决策链与对接人**：官网联系页+电话
+- **技术与认证**：headend 组装能力
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：MT 专页维护中
+- **与我方契合点**：24 口 PoE 随单低密窄位（$165 锚点一致）
+- **风险与注意**：CATV 主业——外联低密窄针
 
 ## 产品决策（Saga · 单一决策口径）
 

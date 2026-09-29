@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
-- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — OAS 工业流程商：MES/YMS 场站边缘加固（$319.90 锚点一致）；LEAG/Model 客墙；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — OAS 工业流程商：MES/YMS 场站边缘加固（$74.8 锚点一致）；LEAG/Model 客墙；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -43,6 +43,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】OAS AG（德国）：**称重技术先驱发家的工业流程方案商**——工厂建设（Anlagenbau)/生产控制（pronto MES)/剂量称重技术/车辆地磅/**Yard Management 场站管理**/散装与回收行业软件 emaxx；客户 **LEAG（能源巨头）/Model Group 纸业（欧洲前五产线 62.5 万吨）/SCHWENK 水泥/DAW SE/JSC/VPL Coatings**；IT-Lösungen 线并行
+- 【推断】**工业现场层对口**：其 YMS 自助终端/MES 产线连接/场站网络的厂房边缘=加固场景；能源+水泥+造纸客户=环境苛刻
+- 【假设】国际 rollout 结构（Model 15 站/SCHWENK 国际）=项目随单网络件成规模
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,11 +148,24 @@ updated: 2026-09-28
   > “Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”
   > 来源：https://www.oas.de/
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国工业流程方案商（MES+场站管理）
+- **产品线与在售品牌**：pronto/emaxx 自研软件+硬件
+- **目标行业与场景**：能源/水泥/纸/漆/散装
+- **团队与规模**：AG 中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：工业级
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：国际 rollout 常态
+- **与我方契合点**：场站/产线厂房边缘加固
+- **风险与注意**：工业规范门槛
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | OAS 工业流程商：MES/YMS 场站边缘加固（$319.90 锚点一致）；LEAG/Model 客墙 |
+| **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | OAS 工业流程商：MES/YMS 场站边缘加固（$74.8 锚点一致）；LEAG/Model 客墙 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -203,7 +223,7 @@ Hi OAS team,
 
 From LEAG logistics yards to the Model Group's 625,000-tonne paper machine - your systems run where the environment is unforgiving, and the network behind every self-service terminal and MES line has to match.
 
-We build a compact industrial fanless PoE+ switch (240W total, 6 kV surge, EFT/ESD hardened, -40 to +75°C) with full documentation for harsh sites. Reference: $319.90 USD EXW.
+We build a compact industrial fanless PoE+ switch (240W total, 6 kV surge, EFT/ESD hardened, -40 to +75°C) with full documentation for harsh sites. Reference: $74.8 USD EXW (2026-09-29).
 
 One question: in your yard-management and plant-rollout projects, which industrial switch brand carries the edge layer today - and would a documented alternative earn a bench test?
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Centerprise International（英国）：40 年——自称“UK technology and lifecycle partner”，**40 年公共部门经验（G-Cloud/Tech Services/Digital Outcomes/TePAS 框架）**；CiCloud 主权云、CiContinuity DR、CiLifecycle ITAD（ADISA 8.0）；客群含中央/地方政府、NHS、警务、消防、教育、**国防部（MoD/DE&S）**，另含 Enterprise & Regulated（金融/住房/基建）私营段
+- 【推断】公共框架主干=红线区；私营 Regulated 窄段（金融/住房基建）为唯一合规带
+- 【假设】其 Sovereign 定位+主权云叙事明确——不碰公共框架，明示边界以示专业
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“over 40 years of public sector experience…G-Cloud, Tech Services, Digital Outcomes, TePAS…Ministry of Defence, DE&S”
   > “over 40 years of public sector experience…G-Cloud, Tech Services, Digital Outcomes, TePAS…Ministry of Defence, DE&S”
   > 来源：https://www.centerprise.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国公共部门全生命周期伙伴（私营窄段并存）
+- **产品线与在售品牌**：主权云/DR/ITAD/终端
+- **目标行业与场景**：公共主干（红线）+私营 Regulated
+- **团队与规模**：中型集团（Ci 系品牌群）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ADISA 8.0/框架体系
+- **采购与供应链信号**：框架为主
+- **近期动态与线索**：2025-12 新站上新
+- **与我方契合点**：私营窄段 value PoE 补位
+- **风险与注意**：公共框架+国防红线
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Salzgeber IT-Revolutions（奥地利）：IoT 自研（IoT Profiler/Waterguard/Facility）+安防/AV 集成；案例=维也纳国家歌剧院 smart metering（公共机构——守界句在）
+- 【推断】传感/仪表接 PoE 的窄位；私营段（商业楼宇/酒店）为主战场，公共案例仅守约展示
+- 【假设】私营楼宇项目里传感/摄像 PoE 接入随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**IoT Profiler/Waterguard/Facility——Case: Wiener Staatsoper smart metering（公共案例标注守界）
   > IoT Profiler/Waterguard/Facility——Case: Wiener Staatsoper smart metering（公共案例标注守界）
   > 来源：https://www.it-revolutions.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥地利 IoT/AV 集成商
+- **产品线与在售品牌**：自研 IoT/AV/安防
+- **目标行业与场景**：私营楼宇为主；公共案例守界
+- **团队与规模**：专业集成团队
+- **决策链与对接人**：office@ 口
+- **技术与认证**：自研产品力
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：国家歌剧院 smart metering（守界注）
+- **与我方契合点**：私营段 PoE 随单
+- **风险与注意**：公共段国家主权守界（前句）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】LEXIS S.A（希腊）：希腊 40 年技贸集团：部门=UPS 电力/网络安全/网络/监控/IP 电话；**εξειδικευμένες λύσεις=Marine UPS+Industrial Switches+Media Converters 明列**;24/7 支持+维保约
+- 【推断】Industrial Switches 类目明列=STI-288GP 工业件直接对口；商业网络部 PoE 随单=STC-424；双针并行
+- 【假设】双角：工业件（STI-288GP)+商业 PoE(STC-424)
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**εξειδικευμένες λύσεις: Marine UPS/Τριφασικά UPS/Industrial Switches/Media Converters 明列
   > εξειδικευμένες λύσεις: Marine UPS/Τριφασικά UPS/Industrial Switches/Media Converters 明列
   > 来源：https://www.lexis.gr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希腊 40 年技贸集团（五部门）
+- **产品线与在售品牌**：Eaton Marine UPS/Industrial Switches/Media Converters 等
+- **目标行业与场景**：企业关键电+网络+监控
+- **团队与规模**：中型
+- **决策链与对接人**：lexis@ 口
+- **技术与认证**：24/7 支持/SLA
+- **采购与供应链信号**：分销+维保约
+- **近期动态与线索**：40 年庆 2026
+- **与我方契合点**：**双角对口**:STC-424（网络部）+STI-288GP（工业交换类目）
+- **风险与注意**：部门多——找对口买手
 
 ## 产品决策（Saga · 单一决策口径）
 

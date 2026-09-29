@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MS Dist（英国）：英国 WISP 电商分销：Ubiquiti 全深（UniFi U7/G5 促销流）+MikroTik（Chateau 5G £265)+Teltonika+相机安防/range 分类；贸易账户体系+次日达物流
+- 【推断】店很有章法（专家推荐+range 分类+贸易账户）——替补对照行=他们缺的第三档:UniFi/CRS 下面的 value 位
+- 【假设】店目录替补对照行正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【在售品牌】**Collections: UniFi Bundles/MikroTik Wireless for Home & Office/Teltonika + Trade accounts
   > Collections: UniFi Bundles/MikroTik Wireless for Home & Office/Teltonika + Trade accounts
   > 来源：https://www.msdist.co.uk
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英 WISP 电商分销
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Teltonika
+- **目标行业与场景**：装维/WISP/酒店业态
+- **团队与规模**：中型
+- **决策链与对接人**：hello@ 口
+- **技术与认证**：贸易账户体系
+- **采购与供应链信号**：次日达物流
+- **近期动态与线索**：UniFi U7 促销流活跃
+- **与我方契合点**：替补对照行（两大牌下的 value 档）
+- **风险与注意**：大牌墙深——对照行定位须诚实
 
 ## 产品决策（Saga · 单一决策口径）
 

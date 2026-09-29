@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Goretti Technological System S.r.l（意大利翁布里亚 Umbertide 圈，坐标 43.13N）：综合电工工程——安全/电气/能效（光伏）/**Reti e connettività（网络连接）**/自动化/**Assistenza 24/7 全天候**；24 小时运维等级自述
+- 【推断】网络/连接是其六域之一（非主线）；“enti ed aziende”客户端=公共+企业双
+- 【假设】光伏+电气工程的项目里网络配套随单，Added 工况多为室内/半户外
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Dal singolo impianto a sistemi integrati per enti ed aziende…Reti e connettività: Infrastrutture affidabili…Assistenza 24/7”
   > “Dal singolo impianto a sistemi integrati per enti ed aziende…Reti e connettività: Infrastrutture affidabili…Assistenza 24/7”
   > 来源：https://www.gorettitechnologicalsystems.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：翁布里亚综合电工工程（网络支线）
+- **产品线与在售品牌**：工程件
+- **目标行业与场景**：企业+公共
+- **团队与规模**：区域
+- **决策链与对接人**：CSV 具名（第三方索引待核）
+- **技术与认证**：工程级
+- **采购与供应链信号**：随单
+- **近期动态与线索**：24/7 运维
+- **与我方契合点**：Reti 支线随单件窄位
+- **风险与注意**：CSV 邮箱供位待核
 
 ## 产品决策（Saga · 单一决策口径）
 

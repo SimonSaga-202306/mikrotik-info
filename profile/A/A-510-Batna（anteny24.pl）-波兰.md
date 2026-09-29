@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Batna24（波兰）：Batna24 波 20 年大盘（UniFi Enterprise Partner Program 徽标；USW-Pro-XG-24-PoE 8458 zł 在价；联络邮箱 anteny24.pl=同集团注）
+- 【推断】EPP 徽标下有 UniFi 谱忠诚-高价端外的 value 档=开位
+- 【假设】UniFi 谱旁 value 对照正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**UniFi Enterprise Partner Program banner + USW-Pro-XG-24-PoE 8448 zł
   > UniFi Enterprise Partner Program banner + USW-Pro-XG-24-PoE 8448 zł
   > 来源：https://www.batna24.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 20 年网络大盘店（UniFi EPP）
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Teltonika/Mimosa 等大谱
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：lukasz@anteny24.pl 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：USW-Pro-XG 谱旁 value 对照正口（anteny24 关联注）
+- **风险与注意**：UniFi EPP 徽标=谱忠诚高
 
 ## 产品决策（Saga · 单一决策口径）
 

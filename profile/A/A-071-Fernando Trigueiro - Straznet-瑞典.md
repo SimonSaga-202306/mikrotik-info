@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Straznet（瑞典 Kungsbacka/哥德堡）：25 年经验 SMB IT 伙伴——外部 IT 部（单一支持号）、云（2026-06 上线自有 SaaS：Nextcloud+EuroOffice 致数据本地可控）、网络（安装/优化/排障/安全）、IT 安全审计；合作墙 Microsoft/Bitdefender/Synology/MikroTik；Fernando Trigueiro MTCNA+MTCSE；Peter Straznyk 博客常驻（AI 三阶段实务）
+- 【推断】SMB 网络+存储（Synology）一线：客户机柜接入层随行；自有 SaaS 机房位为二轨
+- 【假设】其 SMB 客户随单滚动+AI 实务博客显其处增长期
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSE）
@@ -149,6 +156,19 @@ updated: 2026-09-28
 - **【联系方式】**info@straznet.se 0300-30 780；MX 自托管（MX/DNS 级核验：域存活=邮件可投递到域）
   > info@straznet.se 0300-30 780；MX 自托管（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://straznet.se/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞南部 SMB IT 托管（外部 IT 部+云+网络+安全）
+- **产品线与在售品牌**：Microsoft/Bitdefender/Synology/MikroTik
+- **目标行业与场景**：哥德堡地区 SMB
+- **团队与规模**：小中托管
+- **决策链与对接人**：Trigueiro（MTCNA+MTCSE）+Straznyk
+- **技术与认证**：MTCSE；25 年云经验
+- **采购与供应链信号**：SMB 随行随单
+- **近期动态与线索**：2026-06 Nextcloud+EuroOffice 自有 SaaS 上线
+- **与我方契合点**：SMB 机柜 24 口 PoE 随行
+- **风险与注意**：SMB 价敏
 
 ## 产品决策（Saga · 单一决策口径）
 

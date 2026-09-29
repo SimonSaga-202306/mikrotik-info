@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SIM NT srl（意大利巴里，1995 年创，11-50 人/60+ 认证专家）：网站建设关闭（“closed by administrator”）但**LinkedIn+欧盟证据链齐**：system integration、reti（网络设计施工运维）、DC、GDPR/网安、管理软件 ERP；ISO 9001/27001；**MePA 供应商已 enabled（“Apparati di rete/Storaggio/SAN 品类”2022-04-15 中标资格）+Esperia 联盟 11 家 SI 之一（100% made in Italy 支持 PA 的 SI 网络，全国主权科技叙事）**；分点 Bari/Roma/Milano
+- 【推断】**公共/主权段是其战略主战场（Esperia+MePA 双证）**——守界硬度高；私营网络集成是其 30 年根基业务
+- 【假设】网站建设关闭或=重组/Esperia 品牌线整合期（推断）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**“SIM NT dal 1995…Networking: progettazione, realizzazione e conduzione di reti informatiche,”(LinkedIn);"SIM NT tra gli 11 system integrator di Esperia: rete d'imprese 100% made in Italy a supporto della Pubblica Amministrazione"
   > “SIM NT dal 1995…Networking: progettazione, realizzazione e conduzione di reti informatiche,”(LinkedIn);"SIM NT tra gli 11 system integrator di Esperia: rete d'imprese 100% made in Italy a supporto della Pubblica Amministrazione"
   > 来源：https://it.linkedin.com/company/simnt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：巴里 1995 SI（网络 30 年根基；Esperia/MePA PA 主权段守界）
+- **产品线与在售品牌**：未明
+- **目标行业与场景**：私营（主）+PA 主权（守界）
+- **团队与规模**：60+ 认证，11-50 人
+- **决策链与对接人**：info@ 口（站位待核）
+- **技术与认证**：ISO9001/27001
+- **采购与供应链信号**：MePA enabled（检索证据）
+- **近期动态与线索**：网站建设关闭+Esperia 出席
+- **与我方契合点**：私营网络集成随单件（低-中优先，守界）
+- **风险与注意**：PA 主权叙事+网站关闭
 
 ## 产品决策（Saga · 单一决策口径）
 

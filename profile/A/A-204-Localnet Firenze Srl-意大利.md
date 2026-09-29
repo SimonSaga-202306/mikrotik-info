@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】LocalNet Firenze Srl（托斯卡纳 Firenze+Livorno 双点，2007 年创，Global Net 全国网）：技术设备 SI 三大块电信/IT/安全；Quaser+Accredia 认证；**伙伴徽章墙实版：Allied Telesis Silver Partner+Omada Silver Partner+华为/Cambium Networks/Siemens/Samsung/Selta/YEASTAR/VOISPEED/Grandstream/MSI**；服务跨布线/光纤/**酒店客房监督自动化（alberghiera）**/WiFi/WiMax 传输/SLA 四档（Basic 24h→VIP 7×24 4h）
+- 【推断】**Allied Silver+Omada Silver 双银=其网络双轨实版**（CSV Allied 信号实锤）；酒店自动化线=酒店客房段 PoE 潜景；SLA 四档=服务营运模式
+- 【假设】托斯卡纳酒店住宿业的网络升级=其 alberghiera 自动化线的接入件随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
   > “[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
   > 来源：https://www.localnettoscana.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：托斯卡纳 SI（Allied/Omada 双银实版+酒店线）
+- **产品线与在售品牌**：Allied/Omada/华为/Yeastar 等
+- **目标行业与场景**：企业+酒店
+- **团队与规模**：中型双{点
+- **决策链与对接人**：info.firenze@ 口
+- **技术与认证**：Quaser/Accredia+徽章墙
+- **采购与供应链信号**：随单
+- **近期动态与线索**：Omada Silver 2025 新加
+- **与我方契合点**：Allied 旁 value 二线（双银现状并叙）
+- **风险与注意**：Allied 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

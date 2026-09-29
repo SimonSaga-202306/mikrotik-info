@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-423、A-083（人-司关联档）→ 互注；首触走 A-083 公司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】FMS Internetservice GmbH（德国，20+年 VAD）：专精 ISP/宽带/无线（WLAN/微波/毫米波直放）；客户=ISP/Stadtwerke/系统商+IT 服务商；自有物流
+- 【推断】ISP 通道分销守界：主线在其无线/宽带类——价值二线槽供转售商窄口
+- 【假设】其转售商网络（Systemhäuser/IT-Dienstleister）要的 value PoE 接入二轨
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -144,6 +153,19 @@ updated: 2026-09-28
 - **【业务定位】**Value Added Distributor…Internet-Service-Provider, Breitbandausbau, Funklösungen von WLAN bis Mikro-/Millimeterrichtfunk——Kunden: ISP, Stadtwerke, Systemhäuser
   > Value Added Distributor…Internet-Service-Provider, Breitbandausbau, Funklösungen von WLAN bis Mikro-/Millimeterrichtfunk——Kunden: ISP, Stadtwerke, Systemhäuser
   > 来源：https://www.fmsweb.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 ISP 向 VAD（20+年）
+- **产品线与在售品牌**：ISP/宽带/无线组合
+- **目标行业与场景**：ISP/Stadtwerke/转售商
+- **团队与规模**：分销团队
+- **决策链与对接人**：info@+Schaub 具名
+- **技术与认证**：—
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：—
+- **与我方契合点**：转售商二轨（守界前句：Stadtwerke=半公共守界）
+- **风险与注意**：SKU 主权+半公共客群守界
 
 ## 产品决策（Saga · 单一决策口径）
 

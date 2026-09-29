@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Joust Security（加拿大蒙特利尔+温哥华）：高级安全评估/渗透测试+安全架构咨询+基础设施代管（渗透仿真/BCP-DRP 备份，加拿大数据居留）；伙伴墙=Bitwarden/Dell 授权/Juniper VAR/Getac/Tenable/Axis；CSV=Nathael Leblanc MikroTik 认证顾问（英法双语）
+- 【推断】安全专业屋：硬件窄位——但其基础设施代管线（机架/备份）与 Juniper VAR 身份背后有实物随件；MikroTik 顾问个体在团队里
+- 【假设】顾问+感知名义窄针：CONSULT-OEM 探询（地下设备与评估实验的装备来源）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Advanced Security Assessments/Consulting/Infrastructure Services（Canadian data residency）——Juniper VAR 在墙
   > Advanced Security Assessments/Consulting/Infrastructure Services（Canadian data residency）——Juniper VAR 在墙
   > 来源：https://joustsec.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加拿大高级安全咨询屋
+- **产品线与在售品牌**：Juniper/Dell/Axis 等伙伴
+- **目标行业与场景**：企业安全评估/FinTech/楼BA/医疗保
+- **团队与规模**：高级咨询团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：MikroTik 顾问（Nathael，CSV）
+- **采购与供应链信号**：服务随件窄位
+- **近期动态与线索**：GenAI 安全新课程
+- **与我方契合点**：基础设施代管+顾问双窄针（CONSULT-OEM）
+- **风险与注意**：安全主业硬件离轴低密
 
 ## 产品决策（Saga · 单一决策口径）
 

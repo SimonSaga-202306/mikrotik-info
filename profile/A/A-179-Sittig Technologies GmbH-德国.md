@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Sittig Technologies GmbH（德国法兰克福，1987 创，40+ 人家族，四点法兰克福/慕尼黑/**芝加哥**/Vrable 斯洛伐克）：**机场/铁路自动广播系统商**——PAXGuide 多语种自动播报（149 语言）+Audio Management Platform+**PAXModular 自研硬件**（IP 寻呼站/智能音频接口）；**法兰克福机场全球首个 Auracast 广播（2026-01 发布）**；**JFK Terminal 6 签约（2026-08 新闻）**；利物浦机场+Bosch Praesideo 集成共计 500+ 项目
+- 【推断】**航空广播 + 自研 IP audio 硬件商=项目随单件+自研集成件客户**；JFK T6 与法兰克福 Auracast=项目滚动活跃窗
+- 【假设】其 IP paging stations 自研硬件线需射频/PoE 集成配套；300 台级机场项目随单接入件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“PAXModular offers a range of specialized hardware components…IP-based paging stations to intelligent audio interfaces…JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide…Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast”
   > “PAXModular offers a range of specialized hardware components…IP-based paging stations to intelligent audio interfaces…JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide…Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast”
   > 来源：https://www.sittig-tech.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德全球航空广播商（自研 IP audio 硬件）
+- **产品线与在售品牌**：PAXGuide/PAXModular 自研
+- **目标行业与场景**：机场/铁路/展会/工业/应急
+- **团队与规模**：40+，四点跨欧美
+- **决策链与对接人**：info@ 口
+- **技术与认证**：机场级
+- **采购与供应链信号**：项目随单+自研集成
+- **近期动态与线索**：JFK T6 签约+法兰克福 Auracast
+- **与我方契合点**：IP audio 集成的接入层配套+机场项目随单
+- **风险与注意**：机场级规范门槛
 
 ## 产品决策（Saga · 单一决策口径）
 

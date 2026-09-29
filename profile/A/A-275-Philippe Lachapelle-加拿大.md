@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CanServers（加拿大）：翻新服务器电商（全 CAD 计价，加拿大发货）；CSV=Philippe Lachapelle MikroTik 认证顾问（来源等级 official 已验）
+- 【推断】二手服务器店+顾问个体：服务器店新类目窄针——value PoE 上架探询
+- 【假设】其客户（设机柜装服务器的 SMB）要的接入件随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Canadian Refurbished Servers——All prices CAD, shipped from Canada；CSV: MikroTik 顾问（official）
   > Canadian Refurbished Servers——All prices CAD, shipped from Canada；CSV: MikroTik 顾问（official）
   > 来源：https://canservers.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加拿大翻新服务器电商
+- **产品线与在售品牌**：Dell/HP 二手
+- **目标行业与场景**：SMB 机房随件
+- **团队与规模**：小店团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：MikroTik 顾问（Philippe，CSV official）
+- **采购与供应链信号**：店铺上架
+- **近期动态与线索**：—
+- **与我方契合点**：新类目窄针（诚实角：新机线在老店旁）
+- **风险与注意**：店薄、新品类低优先
 
 ## 产品决策（Saga · 单一决策口径）
 

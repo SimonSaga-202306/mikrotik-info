@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Cogent Distribution（英国）：无线+连接件 VAD——固定无线（RADWIN 图）/路由网关（Teltonika）/**Switches 类目（Teltonika TSW 图）**/天线/光谱仪/5G-LTE/设备服务器/媒体转换等；VAR-集成商+行业+消费者三通道；CSV=Perle 授权
+- 【推断】VAD 有明设 Switches 类目——Teltonika TSW 级之上存在 value 替补窄口（分销守界前句）
+- 【假设】其转售管线的 value PoE 接入二轨
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**value-added distributor stocking wireless and connectivity…products: Fixed wireless/Routers/Switches/Antennas——VARs & Integrators 通道
   > value-added distributor stocking wireless and connectivity…products: Fixed wireless/Routers/Switches/Antennas——VARs & Integrators 通道
   > 来源：https://www.cogentdistribution.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国无线连接 VAD
+- **产品线与在售品牌**：RADWIN/Teltonika/Peplink/Perle…
+- **目标行业与场景**：VAR/集成商+行业垂直
+- **团队与规模**：分销团队
+- **决策链与对接人**：enquiries 口
+- **技术与认证**：—
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：行业垂直页在扩
+- **与我方契合点**：Switches 类目内二轨窄口（守界前句）
+- **风险与注意**：SKU 主权强——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

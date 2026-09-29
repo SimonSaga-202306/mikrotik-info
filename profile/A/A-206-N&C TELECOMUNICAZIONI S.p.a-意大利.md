@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】N&C S.p.A.（意大利，Tech Innovation Company）：**40+ 年、700 人全球、+23% 2025 营收增长、930+ 认证、820 项目/年**；八大 BU（DC/Cabling/Networking/Cybersecurity/Software&AI/IT&Cloud/Digital Workspace/Managed Services）；行业 Automotive/Education/Energy/Finance/GDO/Healthcare/Manufacturing/PA/Telco/Transport/**Luxury**；私客墙 **Stellantis、Azimut-Benetti（贝尼蒂豪华游艇）、Leasys、CNH、TIM**
+- 【推断】700 人级大集成商按协议价运作（非我方规模甜点）；Networking BU 的 value 档测试宽口已给，不过度承诺；公共段守界
+- 【假设】Luxury 游艇段+运输段+GDO 是其 private 名单里的亮点——豪华游艇建设链的 access 件窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“700 Risorse nel mondo…40+ Anni di innovazione…820+ Progetti ogni anno…8 Business Unit…Automotive…Luxury…Stellantis, Azimut-Benetti…”
   > “700 Risorse nel mondo…40+ Anni di innovazione…820+ Progetti ogni anno…8 Business Unit…Automotive…Luxury…Stellantis, Azimut-Benetti…”
   > 来源：https://www.nectlc.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：大型 ICT 集成 8 BU（700 人）
+- **产品线与在售品牌**：全谱
+- **目标行业与场景**：汽车/能源/金融/GDO/医疗/制造/PA（守界）/Luxury
+- **团队与规模**：700
+- **决策链与对接人**：info@（CSV 注待核）
+- **技术与认证**：930+
+- **采购与供应链信号**：项目制
+- **近期动态与线索**：+23% 增长
+- **与我方契合点**：Networking BU value 档测试窄位（低优先）
+- **风险与注意**：体量距+公共段
 
 ## 产品决策（Saga · 单一决策口径）
 

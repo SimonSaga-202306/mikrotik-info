@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】STL Connext – Società Telefonica Lombarda（伦巴第，40+ 年，2024 rebrand 45 周年）：**电话/网络双主业**——Unified Communications（PBX 全栈 L2-L7，招 VoIP & Network sistemista 实词）+**Cablaggio e networking（reti dati 全尺寸）**+Connettività 固移/Sicurezza/Cloud 管理/Mobile/AI 虚助 ERMES；服务 imprese+PA 双客群；**PNRR 措辞出现**
+- 【推断】真网络布线主业线（reti dati ogni dimensione）+PBX 深度=**接入层 PoE 是交付动作一部分**；PA+PNRR=公共段守界
+- 【假设】正在扩编 VoIP 网络工程师=近季交付量在涨
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**“Cablaggio e networking: Progettiamo e realizziamo reti dati di ogni dimensione e tipo…Sistemista VoIP & Network…stack trasmissivo dal Layer 2 al Layer 7…imprese e pubblica amministrazione”
   > “Cablaggio e networking: Progettiamo e realizziamo reti dati di ogni dimensione e tipo…Sistemista VoIP & Network…stack trasmissivo dal Layer 2 al Layer 7…imprese e pubblica amministrazione”
   > 来源：https://stlconnext.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：伦巴第电话+布线网络 SI（双主业）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：私营（主）+PA（守界）
+- **团队与规模**：中型扩编
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：布线项目制
+- **近期动态与线索**：招 VoIP+Network 工程师
+- **与我方契合点**：布线项目 24 口 PoE 接入随单（实谱对口）
+- **风险与注意**：PA/PNRR 边界
 
 ## 产品决策（Saga · 单一决策口径）
 

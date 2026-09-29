@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Esotec Ltd（英国）：高监管安防集成商——**secure government/national heritage/public spaces** 全生命周期安防（测试/设计/安装/支持）；**30+ 安审级别员工（Security Cleared）**；NSI Gold+ISO 14001/27001/45001+**Crown Commercial Service 供应商**；客户墙：London Transport Authority（公共）/大型赛事组织/历史建筑信托/World-leading 安全印务/高净值人士/工程企业
+- 【推断】公共+安审主干=红线区；私营窄段（安全印务/高净值/工程企业/部分赛事）为高规格但合规可触的位
+- 【假设】安审级操作=文档与来源核验异常敏感——外资设备在 secure government 场景不现实，承认并只谈非安审私营段
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“secure government, national heritage, public spaces…30+ security cleared staff…Crown Commercial Service Supplier”
   > “secure government, national heritage, public spaces…30+ security cleared staff…Crown Commercial Service Supplier”
   > 来源：https://www.esotec.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国高监管安防集成（安审主干 红线）+私营窄段
+- **产品线与在售品牌**：安防全生命周期
+- **目标行业与场景**：安审政府（红线）+安全印务/高净值/工程（窄段）
+- **团队与规模**：大型安防集成
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：NSI Gold+三 ISO+安审员工
+- **采购与供应链信号**：高规格项目
+- **近期动态与线索**：CCS 供应商在册
+- **与我方契合点**：非安审私营窄段 value PoE
+- **风险与注意**：安审/公共红线
 
 ## 产品决策（Saga · 单一决策口径）
 

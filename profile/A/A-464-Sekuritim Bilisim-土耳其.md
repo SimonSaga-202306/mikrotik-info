@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Sekuritim Bilişim（土耳其）：Sekuritim（土）:**MikroTik Türkiye Master Distributor+认证培训中心（2015 起 7 证）+24/7 支持**;客户墙 Vodafone/Superonline/Sony/TEB/市政府谱（公客混入注）
+- 【推断】Master Distributor+培训中心双身份=替补最弱；ISP/企业项目报价单=budget 场景真实存在；客户名不写进信
+- 【假设】官方谱旁对照低密窄针（ISP 报价场景角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**'MikroTik Türkiye Master Distributor' + 'Sekuritim 2015 yılından itibaren MikroTik Eğitim Merkezi'
   > 'MikroTik Türkiye Master Distributor' + 'Sekuritim 2015 yılından itibaren MikroTik Eğitim Merkezi'
   > 来源：https://sekuritim.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土 MT Master Distributor+培训中心
+- **产品线与在售品牌**：MikroTik 纯谱
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@sekuritim.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：对照低密窄针（ISP 报价场景）
+- **风险与注意**：官方+公客谱——接受度最低档
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】buerodata AG（德国 Stadtlohn，1988 年创）：IT 咨询与系统集成商，10-49 人；**Ricoh（日本）集团所有**（wer-zu-wem 名录级）；官网 www.buerodata.de 抓取 403（bot 拦截如实标注）；info@ 公开
+- 【推断】Ricoh 集团从属=采购结构大概率与集团目录联动；区域 SMB 段自有弹性仍存
+- 【假设】集团子公司走窄二线试探：承认集团结构，问站点级 value 件空间
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
   > “buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
   > 来源：https://www.wer-zu-wem.de/firma/buerodata.html
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：明斯特兰区域系统集成（Ricoh 子公司）
+- **产品线与在售品牌**：集团目录（未核）
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：10-49 人
+- **决策链与对接人**：info@ 口
+- **技术与认证**：Ricoh 体系
+- **采购与供应链信号**：集团联动待核
+- **近期动态与线索**：—
+- **与我方契合点**：区域 value 二线窄位
+- **风险与注意**：集团集权
 
 ## 产品决策（Saga · 单一决策口径）
 

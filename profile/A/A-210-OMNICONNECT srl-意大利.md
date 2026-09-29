@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】OMNICONNECT srl（意大利，2001 创）：Networking Solutions——产品线：Cybersecurity Awareness/Mobile Security(Ermetix SaaS)/Cybersecurity&Conformità（NIS2）/**Networking**/**Videosorveglianza（AXIS+MOBOTIX “forte partnership”）**/VoIP&UC/Business Continuity（“sanitari, produttivi e militari”关键段经验自述）/**Energy Supply Systems（Riello UPS 同盟）**/Datacenter；服务维保/咨询；**BITDEFENDER PLATINUM RESELLER MSP 2025 新加**；“move to green and secure ICT”
+- 【推断】**与 CSV Allied 关联列位一致**——接入层现供或在 Allied 体系内（推断）；militari 谱系=公共/国防守界；AXIS/MOBOTIX 视频+Riello UPS 的机房连续性=随单件线索
+- 【假设】Riello UPS 同盟=机房连续性配套文化——能源件旁接入件同理
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Videosorveglianza: forte partnership con i maggiori produttori, come AXIS e MOBOTIX…esperienza operativa in settori critici quali sanitari, produttivi e militari…Energy Supply Systems: Riello UPS”
   > “Videosorveglianza: forte partnership con i maggiori produttori, come AXIS e MOBOTIX…esperienza operativa in settori critici quali sanitari, produttivi e militari…Energy Supply Systems: Riello UPS”
   > 来源：https://www.omniconnect.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：2001 网络 SI（AXIS/MOBOTIX 视频+能源 Riello；军事谱系守界）
+- **产品线与在售品牌**：AXIS/MOBOTIX/Bitdefender/Riello
+- **目标行业与场景**：商业（主）+军事谱系（守界）
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：Bitdefender Platinum
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：Bitdefender Platinum 新加
+- **与我方契合点**：AXIS/MOBOTIX 商业视频工程的 PoE 接入随单
+- **风险与注意**：军事谱系+Allied 列位
 
 ## 产品决策（Saga · 单一决策口径）
 

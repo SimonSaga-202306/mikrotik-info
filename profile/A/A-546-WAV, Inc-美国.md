@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】WAV（美一线 WISP 分销巨头）：$25M 在库/70K SKU/10K 客户/35+ 年；Tarana 6GHz/RUCKUS 交换促销/Cyclone 机柜/viaPhoton/NetPoint 谱
+- 【推断】行业锚级 VAD=进门即规模；RUCKUS 交换在架=有企业交换走货口
+- 【假设】70K SKU=交换机段多牌挤压，value 空位需实测
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -121,6 +128,19 @@ updated: 2026-09-28
 - **【牌墙】**Tarana/Cyclone/viaPhoton/NetPoint
   > Tarana/Cyclone/viaPhoton/NetPoint
   > 来源：https://www.wavonline.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 WISP 分销巨头（35+ 年）
+- **产品线与在售品牌**：Tarana/RUCKUS/Cyclone/viaPhoton/NetPoint 谱
+- **目标行业与场景**：WISP/运营商/企业
+- **团队与规模**：$25M 在库/70K SKU/10K 客户
+- **决策链与对接人**：sales@ 分销 buyer 口
+- **技术与认证**：VAD 方案+物流体系
+- **采购与供应链信号**：大库存在架
+- **近期动态与线索**：Tarana 6GHz 推广中
+- **与我方契合点**：24 口 PoE value 档对照（$165 锚点一致）；大锚级客户
+- **风险与注意**：巨头级——进门线长、比价严苛
 
 ## 产品决策（Saga · 单一决策口径）
 

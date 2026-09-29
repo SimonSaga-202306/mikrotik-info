@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Jasper Hagoort (Dside)（荷兰）：D-SIDE Telecom(荷企业电信服务商）:VoIP/Cloud PBX/移动/云 hosting/连接（地址级可用性 checker=代理模式）；混合办公 werkplek 线
+- 【推断】电信代理型：SMB 现场网组（werkplek/连接交付）=PoE 随单缝浅但存在；无店=低密
+- 【假设】SMB 连接/混合办公交付随单缝（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE+MTCIPv6E+MTCSE）
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**D-SIDE: 'Flexibele telecom oplossingen' - VoIP/Cloud PBX/Mobiel/Cloud hosting/Verbindingen/Werkplek
   > D-SIDE: 'Flexibele telecom oplossingen' - VoIP/Cloud PBX/Mobiel/Cloud hosting/Verbindingen/Werkplek
   > 来源：https://www.dside.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷企业电信服务商（代理型）
+- **产品线与在售品牌**：VoIP/Cloud PBX/连接（第三方牌）
+- **目标行业与场景**：
+- **团队与规模**：
+- **决策链与对接人**：jasper@dside.nl 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：SMB 现场交付随单缝低密
+- **风险与注意**：代理型——硬件决策权浅
 
 ## 产品决策（Saga · 单一决策口径）
 

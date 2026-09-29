@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Digicomm International（美国）：Digicomm 美 FTTx/HFC 大分销（CommScope/EXFO 测试/Positron GAM/Gilbert 连接器独家+GigaXtend 放大器+headend optics;MT accessories 类目薄）
+- 【推断】有源类目薄萌→配套窄位；粗大主力 HFC 不干扰
+- 【假设】有源窄位低密收录
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**Exclusive Gilbert distribution + MikroTik Accessories 类目
   > Exclusive Gilbert distribution + MikroTik Accessories 类目
   > 来源：https://digicomm.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 FTTx/HFC 大分销
+- **产品线与在售品牌**：CommScope/EXFO/Positron/Gilbert 独家+MikroTik accessories
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@digicomm.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：有线主业旁有源窄位低密（MT accessories 薄）
+- **风险与注意**：HFC/光学占大头
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-506（人-司关联档）→ 互注；首触走 A-506
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MHz Shop（法国）：法国天线/WISP 装备活跃电商：**品牌墙=MikroTik/Ubiquiti/Teltonika/Poynting/RF-Elements/QuWireless/Telegärtner**;PoE 配件区存在；CloudSpot hotspot
+- 【推断】店里 PoE 交换仅两大牌=替补收录缝正口（value 对照行）
+- 【假设】店目录替补收录窄位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -117,6 +126,19 @@ updated: 2026-09-28
 - **【在售品牌】**By manufacturer: MikroTik/Ubiquiti/Teltonika/MARS/Telegärtner/Poynting + Accessories/PoE 区
   > By manufacturer: MikroTik/Ubiquiti/Teltonika/MARS/Telegärtner/Poynting + Accessories/PoE 区
   > 来源：https://www.mhzshop.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法 WISP 装备电商
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Teltonika/Poynting 等
+- **目标行业与场景**：WISP/营地/安装商
+- **团队与规模**：小微
+- **决策链与对接人**：info@ 口
+- **技术与认证**：QuWireless 官方分销
+- **采购与供应链信号**：库存电商
+- **近期动态与线索**：WiFi6/7 新品活跃
+- **与我方契合点**：店目录替补收录（两大牌旁对照行）
+- **风险与注意**：体量小——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

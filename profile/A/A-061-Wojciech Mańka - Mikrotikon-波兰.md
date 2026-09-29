@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Mikrotikon（Wojciech Mańka，波兰）：MikroTik 全配置个人专家——路由/交换/AP 全谱配置、**CAPsMAN 集中式 Wi-Fi 部署**、VPN（远程办公/分支互联）、电网维护与审计（远程或到场）；六证
+- 【推断】CAPsMAN 多 AP 集中部署=每一个 Wi-Fi 项目都要供电接入层——随行随单
+- 【假设】中小型企服务站点为主；其维护合同客群=翻修滚动口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**kontakt@mikrotechnology.pl +48 791 560 569；双域 MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）
   > kontakt@mikrotechnology.pl +48 791 560 569；双域 MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://mikrotikon.pl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰个人 MikroTik 全配置专家（CAPsMAN/VPN/审计维护）
+- **产品线与在售品牌**：配置服务
+- **目标行业与场景**：中小企业 Wi-Fi/VPN/网络基建
+- **团队与规模**：个人
+- **决策链与对接人**：Mańka 本人
+- **技术与认证**：MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E
+- **采购与供应链信号**：项目随单推荐
+- **近期动态与线索**：站活、条目齐
+- **与我方契合点**：CAPsMAN 工程的 PoE 接入层随行
+- **风险与注意**：个人带宽
 
 ## 产品决策（Saga · 单一决策口径）
 

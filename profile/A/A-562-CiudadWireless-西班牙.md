@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CiudadWireless（西全谱老店）：Ubiquiti/Huawei/Grandstream/Yealink/MikroTik/TP-Link/Cambium/Planet/Lantech/RF Elements 等 100+ 牌;Formación 培训类目；**与 A-564 instantbyte.com 同店面模板同类目 ID 同品牌墙=姊妹站注**
+- 【推断】百牌全谱=西葡 WISP/装维大集市；姊妹站双入口=采购量合并看
+- 【假设】Planet/Lantech 工业牌在墙=工业谱线索
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -122,6 +129,19 @@ updated: 2026-09-28
 - **【关联】**与 instantbyte.com 同模板同类目=姊妹站
   > 与 instantbyte.com 同模板同类目=姊妹站
   > 来源：https://www.instantbyte.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西全谱无线老店
+- **产品线与在售品牌**：Ubi/Huawei/Grandstream/Yealink/MT/TPLink/Cambium 百牌
+- **目标行业与场景**：WISP/装维/集成商
+- **团队与规模**：（官网推）
+- **决策链与对接人**：官网联系页
+- **技术与认证**：Formación 培训类目
+- **采购与供应链信号**：多牌现货
+- **近期动态与线索**：姊妹站双入口运作
+- **与我方契合点**：百牌谱旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：姊妹站注（与 A-564 同模板同类目）
 
 ## 产品决策（Saga · 单一决策口径）
 

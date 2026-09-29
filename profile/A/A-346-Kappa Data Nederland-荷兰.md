@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Kappa Data Nederland（荷兰）：1998 年 VAD(Benelux+**波兰**):**官网 Alliiert Telesis vendor 页+'Een sterk partnerschap met Allied Telesis' 博文**+Barracuda/Extreme/Sophos 等；SMB 与企业双档
+- 【推断】AT 主推线=VAD 组合逻辑内属大牌；我们不碰主推，只问长尾替补 SKU 缝（客户硬压预算场景）
+- 【假设】VAD 长尾替补 SKU 窄位（AT 主推守界前句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -113,6 +120,19 @@ updated: 2026-09-28
 - **【在售品牌】**Vendors 列表含 Allied Telesis 专页 + 博文'Een sterk partnerschap met Allied Telesis'
   > Vendors 列表含 Allied Telesis 专页 + 博文'Een sterk partnerschap met Allied Telesis'
   > 来源：https://www.kappadata.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷比卢+波兰 VAD 分销（1998)
+- **产品线与在售品牌**：**Allied Telesis 主推**+Barracuda/Extreme/Sophos
+- **目标行业与场景**：reseller 生态（SMB+企业）
+- **团队与规模**：中型
+- **决策链与对接人**：info@kappadata.nl 口
+- **技术与认证**：Tech Academy 体系
+- **采购与供应链信号**：VAD 库存池
+- **近期动态与线索**：AT 伙伴博文 2026
+- **与我方契合点**：长尾替补 SKU 缝（AT 主推守界；**A-347 BE 同集团错峰**）
+- **风险与注意**：**AT 强伙伴——主推位不动**
 
 ## 产品决策（Saga · 单一决策口径）
 

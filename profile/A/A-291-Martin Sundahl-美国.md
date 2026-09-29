@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Adeo Datacenter（**丹麦** Albertslund，非美国——roster/CSV 国家更正注）：1,200 m² 丹麦自有 colocation/虚拟 DC，carrier neutral，绿色电力，0 绑定，25 年经验，24/7 值守；CSV=Martin Sundahl MikroTik 认证顾问关联；邮箱=info@adeodc.dk
+- 【推断】中型 colocation/DC：机房/客户机柜的接入件消耗真实；0 绑定/绿色叙事=运营型买家
+- 【假设】机柜/客户现场的 value PoE 窄位（更正国家注后一针）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**1,200 m2 Danish-owned data center in Greater Copenhagen——carrier neutral, Free setup, 0 commitment;+45 88 449 449 Albertslund
   > 1,200 m2 Danish-owned data center in Greater Copenhagen——carrier neutral, Free setup, 0 commitment;+45 88 449 449 Albertslund
   > 来源：https://adeodc.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：丹麦 colocation/虚拟 DC
+- **产品线与在售品牌**：自有设施
+- **目标行业与场景**：企业机柜托管/VPS/备份
+- **团队与规模**：中型 DC 团队
+- **决策链与对接人**：info@adeodc.dk
+- **技术与认证**：24/7 值守
+- **采购与供应链信号**：现场件+客户建议件
+- **近期动态与线索**：0 绑定/绿色叙事
+- **与我方契合点**：机柜/现场件窄位
+- **风险与注意**：roster 国家字段已更正注
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Techno Center S.p.A（意大利）：Palermo/Urbino B2B 大 SI:**Mitel Platinum 2026 再确认**;Physical/Cyber Security+Voice&Data+**民防应急平台**;**2026-07 新闻：UCC 分支并入 Syntax 集团**
+- 【推断】UCC 已售→网络/安防主业犹在；Mitel Platinum 守界；公共/民防段守界；私营 B2B 段窄位
+- 【假设】私营 B2B 段 value 件窄位（Mitel+公共双守界）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【近期动态】**Mitel ci riconferma Platinum Partner (2026) + Il ramo UCC entra nell'ecosistema Syntax (22/07/2026)
   > Mitel ci riconferma Platinum Partner (2026) + Il ramo UCC entra nell'ecosistema Syntax (22/07/2026)
   > 来源：https://www.technocenter.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西西里 B2B System Integrator
+- **产品线与在售品牌**：Mitel Platinum+网络/安防栈
+- **目标行业与场景**：**私营 B2B 段为主打**（公共/民防=守界）
+- **团队与规模**：大型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：Platinum 2026/231 合规
+- **采购与供应链信号**：Syntax 集团化
+- **近期动态与线索**：UCC 分支 2026-07 售予 Syntax
+- **与我方契合点**：私营段窄位（Mitel/公共守界句）
+- **风险与注意**：**民防应急平台+Platinum 在墙**——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

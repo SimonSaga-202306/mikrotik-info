@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】UberData Networks：专业网络 MSP——**UconnectX™ NaaS（网络即服务）：交换/路由/Wi-Fi/安全打包月付+automatic hardware refresh（自动硬件更新）**；伙伴墙：Cisco/Aruba/Ruckus/Juniper-Mist/Fortinet/Tellabs/Corning/Belden/Panduit/**VoltServer（数字电力）**/Axis/APC 等
+- 【推断】NaaS+自动硬件更新=硬件是其资产负债表上的持续采购池，unit economics 直接决定订阅毛利——value 件话术与商业模型直接挂钩；大牌伙伴墙是第一架，NaaS 平价套餐需要第二架
+- 【假设】“NaaS 套餐分层”角度：入门档套餐的接入件毛利结构最需要 value 供位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“networking as a service…switching and routing to Wi-Fi and security…with 24/7 support, proactive maintenance, and automatic hardware refresh”
   > “networking as a service…switching and routing to Wi-Fi and security…with 24/7 support, proactive maintenance, and automatic hardware refresh”
   > 来源：https://www.uberdatanetworks.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：NaaS 专业网络 MSP（UconnectX 订阅+自动更新）
+- **产品线与在售品牌**：一线网络伙伴墙（Cisco/Aruba/Ruckus/Mist…）
+- **目标行业与场景**：现代组织网络外包
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：认证工程师团队
+- **采购与供应链信号**：NaaS 硬件池持续采购+refresh
+- **近期动态与线索**：UconnectX 产品化
+- **与我方契合点**：NaaS 入门档 value 接入件
+- **风险与注意**：同盟强
 
 ## 产品决策（Saga · 单一决策口径）
 

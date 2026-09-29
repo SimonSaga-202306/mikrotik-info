@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SDC（荷 30+ 年 ICT 分销，原 sdcgroup）：Ubiquiti/TP-Link/MikroTik/Grandstream/Gigaset Pro 牌横幅；DECT/AP/Switches/Smart Building/Firewall 顶类；Academy 培训在架;17 点截单次日达
+- 【推断】MT/Ubi 双谱并售=RouterOS+UniFi 客户群通吃；次日达物流=返单体系成熟
+- 【假设】Academy=培训线带动硬件接受
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -120,6 +127,19 @@ updated: 2026-09-28
 - **【物流】**17:00 截单次日达
   > 17:00 截单次日达
   > 来源：https://sdc.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷 ICT 分销商（30+ 年）
+- **产品线与在售品牌**：Ubiquiti/TP-Link/MikroTik/Grandstream/Gigaset Pro
+- **目标行业与场景**：集成商/装维/Smart Building
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ 直口+24/7 support desk
+- **技术与认证**：Academy 培训体系
+- **采购与供应链信号**：17:00 截单次日达
+- **近期动态与线索**：Partner Event 2026 排期
+- **与我方契合点**：交换类目旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：大盘——需窄针进门先报价
 
 ## 产品决策（Saga · 单一决策口径）
 

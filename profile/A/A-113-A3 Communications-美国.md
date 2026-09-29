@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】A3 Communications（美国缅因 Cumberland Foreside）：Cook & Boardman Group（2025 年整合更名 **CBX Solutions**）旗下安防/网络事业部——门类五金+**系统集成（访问控制/视频监控）+结构化布线与网络基础设施+A/V**；“National Presence. Local Service.”全国分支网；CSV 直邮 salesteam@a3communications.com 有效
+- 【推断】并入大集团后全国项目管线与安防/楼宇接入柜滚动量放大——集团级供应链为入口，A3 品牌团队保持项目执行
+- 【假设】CSV 所载 Allied Telesis 信号对应 CBX 网络事业部的接入层现供——value 位替换空间大
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Integrated commercial openings, security, and technology - delivered as one…structured cabling, network infrastructure, and A/V systems…National Presence. Local Service.”
   > “Integrated commercial openings, security, and technology - delivered as one…structured cabling, network infrastructure, and A/V systems…National Presence. Local Service.”
   > 来源：https://www.cbxsolutions.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：CBX 集团全国楼门/安防/网络一体交付
+- **产品线与在售品牌**：门类/访问/监控/布线/AV（Allied 信号来自网络事业部）
+- **目标行业与场景**：商建/机构楼宇
+- **团队与规模**：全国集团级
+- **决策链与对接人**：salesteam@a3 口+集团采购
+- **技术与认证**：全国分支
+- **采购与供应链信号**：全国项目管线
+- **近期动态与线索**：2025 CBX 整合更名
+- **与我方契合点**：楼宇安防/网络接入柜 value 位
+- **风险与注意**：集团采购中心化
 
 ## 产品决策（Saga · 单一决策口径）
 

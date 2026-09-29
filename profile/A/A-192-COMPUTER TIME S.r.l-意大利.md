@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】COMPUTER TIME S.r.l.（意大利，1995 年创）：VAR+SI——公司专业/**Educational 学校线（互动白班/校园网）/Government & PA 三线结构**；**“presente sul MEPA”自述实锤**；ASUS 促销横幅；自制硬件高配装机+布线铜/光纤+路由交换配置+DC/SAN/NAS/DAS
+- 【推断】MEPA+学校双线=公共边界守界；私营段（企业专业）随单值件主打
+- 【假设】“tutto da noi”双模式（自组装+品牌转售）=对 OEM 叙事天然友善
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“presente sul MEPA e sulle piattaforme di e-Procurement partecipando attivamente alle necessità della Pubblica Amministrazione…VAR e System Integrator…nata nel 1995”
   > “presente sul MEPA e sulle piattaforme di e-Procurement partecipando attivamente alle necessità della Pubblica Amministrazione…VAR e System Integrator…nata nel 1995”
   > 来源：https://ctime.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 VAR+SI（MEPA 在册守界）
+- **产品线与在售品牌**：ASUS/自装机
+- **目标行业与场景**：企业（主）+学校/PA（守界）
+- **团队与规模**：中型
+- **决策链与对接人**：ctime@ 口
+- **技术与认证**：伙伴级
+- **采购与供应链信号**：随单
+- **近期动态与线索**：ASUS 横幅
+- **与我方契合点**：私营段随单 value 件（OEM 友善）
+- **风险与注意**：MEPA 公共段
 
 ## 产品决策（Saga · 单一决策口径）
 

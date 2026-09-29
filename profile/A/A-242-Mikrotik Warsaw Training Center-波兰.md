@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MWTC（华沙/波兹南/琴斯托霍瓦三址）：认证培训线 MikroTik/Zabbix/UniFi+自研 Linux/Proxmox/Windows/VoIP/LoRa 课；另做审计/部署/14-支持/咨询
+- 【推断】培训机构+轻实施——多厂商教学（MikroTik/UniFi 都在）=对照单元心态较好的训练通道（CONSULT-OEM）
+- 【假设】其交换/无线课实验室对照单元+部署业务的窄位随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE）
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
   > Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
   > 来源：https://mwtc.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰 IT 认证培训中心
+- **产品线与在售品牌**：多厂商课程体系
+- **目标行业与场景**：网管受训人/中小实施
+- **团队与规模**：多址讲师团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：认证讲师阵容
+- **采购与供应链信号**：教具+少量实施随单
+- **近期动态与线索**：可申请 100% 资助叙事
+- **与我方契合点**：课程对照+轻实施窄位（CONSULT-OEM）
+- **风险与注意**：主营培训——不套用销售模板
 
 ## 产品决策（Saga · 单一决策口径）
 

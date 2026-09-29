@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-426、A-286（人-司关联档）→ 互注；首触走 A-131 公司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**
+- 【推断】分销架上 SMB 网络件齐全（Ubiquiti/Omada/MikroTik 层）——其 PoE 接入交换 value 位仍有更下沿空间；Academy=培训生态敏感，不作贬低对照
+- 【假设】“24/7 support+次日达”分销文化=上架看交付与文档；$165 value 位给其 installer 渠道一个毛利层
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
   > “Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
   > 来源：https://sdc.nl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 30 年 ICT 分销（SMB 网络架）
+- **产品线与在售品牌**：Ubiquiti/Omada/MikroTik/Grandstream/Gigaset（CSV 另载 Allied 信号）
+- **目标行业与场景**：installer/reseller 渠道
+- **团队与规模**：中型分销
+- **决策链与对接人**：verkoop@ 口
+- **技术与认证**：Academy 培训体系
+- **采购与供应链信号**：上架分销
+- **近期动态与线索**：2026 partner event
+- **与我方契合点**：PoE 交换 value 位上架
+- **风险与注意**：MikroTik 在架=禁贬低比较
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Martin Poisel (mapnet IT services)（捷克）：捷克 20+ 年 IT 服务（服务出租/hosting/基建/网络建设/云）+**IT 培训：MikroTik 课程明列（基础/高级/防火墙/定制）**+Windows/VMware 课
+- 【推断】服务+MT 培训双业态：现场随单缝+课堂对照行双角；体量小微低密
+- 【假设】双角：现场随单+MT 课堂对照行（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCIPv6E+MTCSE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'Působíme v oblasti IT více jak 20 let' + IT ŠKOLENÍ: MikroTik（基础/高级/防火墙/定制）
   > 'Působíme v oblasti IT více jak 20 let' + IT ŠKOLENÍ: MikroTik（基础/高级/防火墙/定制）
   > 来源：https://www.mapnet.cz
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：捷克 20 年 IT 服务+MT 培训
+- **产品线与在售品牌**：ISO 服务+MikroTik/Windows/VMware 课
+- **目标行业与场景**：SMB 客群
+- **团队与规模**：小微
+- **决策链与对接人**：mpoisel@ 具名
+- **技术与认证**：MT 培训在营
+- **采购与供应链信号**：服务器出租
+- **近期动态与线索**：—
+- **与我方契合点**：现场随单+课堂对照行双角
+- **风险与注意**：体量小——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

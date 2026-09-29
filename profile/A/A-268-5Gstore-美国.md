@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】5Gstore（美国，蜂窝路由/天线电商大户）：品牌=Peplink/Cradlepoint/Teltonika/Semtech/Digi/Inseego/Katalyst+天线系；美国仓当日发、工程师持股支持；CSV=Teltonika 授权（含 TSW212 工业交换机）
+- 【推断】蜂窝电商大户：TSW 级是其唯一交换存在——24 口 PoE 在其分支/IoT 部署客群里是新窄口
+- 【假设】其大客户分支现场/车载-IoT 项目的 PoE 接入窄口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Teltonika Networks（含 TSW212 工业 PoE+ 交换机））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Cellular Routers•Antennas•Data Plans——Large inventory Same Day shipping;Teltonika 授权含 TSW212（CSV 9-23）
   > Cellular Routers•Antennas•Data Plans——Large inventory Same Day shipping;Teltonika 授权含 TSW212（CSV 9-23）
   > 来源：https://5gstore.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国蜂窝连接电商分销
+- **产品线与在售品牌**：Teltonika/Peplink/Cradlepoint…
+- **目标行业与场景**：移动/车载/IoT/分支
+- **团队与规模**：电商+工程师客服
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：Teltonika 授权（CSV）
+- **采购与供应链信号**：电商上架
+- **近期动态与线索**：—
+- **与我方契合点**：PoE 交换新窄口（TSW 旁，前句框定）
+- **风险与注意**：蜂窝主业、交换子类窄
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】4Networks GmbH（德国）：4Networks GmbH（德 Bremen):**VAD 分销**：牌墙 MikroTik/UniFi/Teltonika/Patchbox/Cambium/Zyxel/Clavister/Hikvision/Ruckus/Ekahau;CEO Thilko Cullmann+4 销售具名
+- 【推断】VAD=增值分销心态；牌墙全=value 档替补逻辑通
+- 【假设】VAD 组合 value 对照行正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**'Wir sind ein führender Value Add Distributor' + 牌墙 MikroTik/UniFi/Teltonika/Cambium/Zyxel
   > 'Wir sind ein führender Value Add Distributor' + 牌墙 MikroTik/UniFi/Teltonika/Cambium/Zyxel
   > 来源：https://www.4networks.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德 Bremen VAD 分销（4 销售具名）
+- **产品线与在售品牌**：MikroTik/UniFi/Teltonika/Cambium/Zyxel
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@4networks.de 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：VAD 组合价值对照正口
+- **风险与注意**：牌墙深——需差异化
 
 ## 产品决策（Saga · 单一决策口径）
 

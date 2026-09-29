@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Ditecom（西班牙）：Madrid 测试测量店（Pico 示波器/光纤熔接/OTDR/CAT6 认证仪）+环境监控传感（STE2/Poseidon/Sensdesk);Networking 区=RS232/485 转以太网、E/S por IP、媒体转换器；实体店+光纤校准实验室
+- 【推断】仪器/传感主业，联网件=串口/光电口子——唯一缝=工业联网类目旁 PoE 口子；低密长针不追
+- 【假设】工业联网类目旁 PoE 口子窄位（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：工业管理型（EX-9911M环网））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**Networking – Conectividad: Conversores de medios RS232/422/485 a ethernet / E/S por IP / Repetidor RS232/485/CAN
   > Networking – Conectividad: Conversores de medios RS232/422/485 a ethernet / E/S por IP / Repetidor RS232/485/CAN
   > 来源：https://ditecom.com/instrumentacion/networking/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：马德里测试测量/监控传感店
+- **产品线与在售品牌**：Rigol/HWg/Pico+串口联网件
+- **目标行业与场景**：实验室/机房/装维客群
+- **团队与规模**：小型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：光纤校准实验室
+- **采购与供应链信号**：门店+实验室
+- **近期动态与线索**：4 天工作制注
+- **与我方契合点**：工业联网类目旁 PoE 口子（低密长针）
+- **风险与注意**：**交换非主类——期待管理**
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IPMEDIA s.r.o.（捷克）：IPMEDIA s.r.o.（捷 Brno):**síťových technologií 分销商**:TP-Link partner+MikroTik/Solarix/Conexpro/Komshine;**IPM 自牌 SFP/patchcord（=OEM 熟）+poe-switch banner 直达**
+- 【推断】**IPM 自牌=波/OEM 心态最熟**;PoE 谱已开=对照行口子直
+- 【假设】自牌心态 value 对照正口（IPM 类贴牌逻辑）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**Poe-switch banner 直达 ES22 搜索 + IPM 自牌 SFP/patchcord 谱
   > Poe-switch banner 直达 ES22 搜索 + IPM 自牌 SFP/patchcord 谱
   > 来源：https://www.ipmedia.cz
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：捷 Brno 分销（IPM 自牌;PoE banner）
+- **产品线与在售品牌**：MikroTik/TP-Link/Solarix+自牌
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ipmedia.cz 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：自牌心态 value 对照正口
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

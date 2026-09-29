@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AMRO IT-Systeme GmbH（德国巴符州，09141 区号）：MSP 型系统商——NinjaOne RMM 运维+监控+ESET **Platinum**（2025 获奖，GF Jürgen Reutelhuber 具名受奖）+Sophos Gold+**Terra Premium Partner（Wortmann）**+Xelion 电话+自有 WWS 商管软件开发；远程维护/Webmail/Monitoring 自助服务台
+- 【推断】Terra Premium Partner=硬件主供是 Wortmann Terra（其交换机线在架）——第二供位价值线切入（不贬在位）；自有软件部门=技术文化
+- 【假设】ESET Platinum 级 MSP=量大价敏的随单结构；value 件帮其保加盟地位下的毛利
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“ESET Platin Partner Award 2025…Terra Premium Partner…Sophos Gold…NinjaOne”
   > “ESET Platin Partner Award 2025…Terra Premium Partner…Sophos Gold…NinjaOne”
   > 来源：https://www.amro.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：巴符州 MSP（Terra Premium+ESET Platinum）
+- **产品线与在售品牌**：Terra/ESET/Sophos/Xelion/NinjaOne
+- **目标行业与场景**：区域 SMB 托管
+- **团队与规模**：区域中型
+- **决策链与对接人**：GF Reutelhuber/info@
+- **技术与认证**：ESET Platinum/Sophos Gold
+- **采购与供应链信号**：Terra 目录随单
+- **近期动态与线索**：2025 ESET 获奖
+- **与我方契合点**：Terra 主供下的第二 value 线
+- **风险与注意**：同盟绑定
 
 ## 产品决策（Saga · 单一决策口径）
 

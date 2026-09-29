@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】KNT Technology（波兰华沙/Olsztyn）：全托管 MSP（托管/Microsoft365/网络件板块存在/培训/审计）；30 年老牌，Katarzyna Grabiec 具名；'Dobieramy i dostarczamy sprzęt…bez przepłacania'（帮选硬件不花冤枉钱）=value 供货主动缺口
+- 【推断】MSP 主动采购硬件板块+不花冤枉钱承诺=value 线硬缺口的正面靶位（本批最强 MSP 缺口句之一）
+- 【假设】其托管客户的网络换代：PoE 接入随单+供货价差叙事正中 424 定位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Dobieramy i dostarczamy sprzęt…bez przepłacania——30 lat, Katarzyna Grabiec
   > Dobieramy i dostarczamy sprzęt…bez przepłacania——30 lat, Katarzyna Grabiec
   > 来源：https://knt.biz.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰资深 MSP（30年/双城）
+- **产品线与在售品牌**：M365+网络件板块
+- **目标行业与场景**：SMB 托管/审计
+- **团队与规模**：30年团队，Katarzyna Grabiec
+- **决策链与对接人**：biuro@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：主动采购硬件缺口
+- **近期动态与线索**：“不花冤枉钱”供货叙事
+- **与我方契合点**：value PoE 正口
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

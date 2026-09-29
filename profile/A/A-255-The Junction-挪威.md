@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】The Junction AS（挪威 Drammen，30+年）：专科硬件分销欧陆+斯堪的纳维亚——连接/嵌入式/ATC/录音/加固屏五块；IT Infrastructure 板块明列 media converter/Ethernet extender/工业管理型交换机/PoE/console server/LTE-5G 路由；品牌含 Perle/Connect Tech/Bluestone
+- 【推断】IT 基建板块存在'工业管理型 PoE'明栏——STC-424 与 Perle 并排替补是正位窄口（批 26 分销双雄之一）
+- 【假设】其 IT 基建板块的 value 替补槽：Perle 旁不撞车的工程件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**IT Infrastructure: Fiber media converters, Ethernet extenders, industrial managed switches, PoE, console servers, LTE/5G routers——Perle 1976
   > IT Infrastructure: Fiber media converters, Ethernet extenders, industrial managed switches, PoE, console servers, LTE/5G routers——Perle 1976
   > 来源：https://thejunction.eu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：挪威专科硬件分销（30+年）
+- **产品线与在售品牌**：Perle 等专科品牌
+- **目标行业与场景**：工厂/海事/ATC/录音等僻域
+- **团队与规模**：专科分销团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：专科选型深度
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：ATC/嵌入式新板块扩展
+- **与我方契合点**：IT 基建板块 value 替补（Perle 旁守界前句）
+- **风险与注意**：专科主线分量强——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

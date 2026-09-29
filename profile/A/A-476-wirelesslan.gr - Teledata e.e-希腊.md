@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Wirelesslan.gr（希腊）：Wirelesslan（希 Thessaloniki 2310.510030):Ubiquiti/TP-Link 店（USW-Ultra 52W PoE/U7 Pro Max 上架）;WP 店（模板含 localhost 内链注=维护粗）
+- 【推断】USW-Ultra PoE 在卖=类目已开；店维护粗=低密
+- 【假设】店收录对照行（PoE 类谱已开；低密维护注）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【产品线】**Featured: Ubiquiti USW-Ultra 8xGig 7xPoE+ €127 + U7 Pro Max
   > Featured: Ubiquiti USW-Ultra 8xGig 7xPoE+ €127 + U7 Pro Max
   > 来源：https://wirelesslan.gr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希 Thessaloniki 无线店
+- **产品线与在售品牌**：Ubiquiti/TP-Link
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@wirelesslan.gr 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：收录对照行（PoE 谱已开；低密）
+- **风险与注意**：站维护粗——触达率注
 
 ## 产品决策（Saga · 单一决策口径）
 

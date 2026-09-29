@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Nutz Elektrotechnik GmbH & Co. KG（德国 Ampfing,1978 年创，40+ 年）：**楼宇技术一体商**——电气工程/数据技术（Datentechnik)/安全技术/媒体技术/楼宇自动化/规划设计文档/维保，全国+欧洲项目；2026-06-01 起原 Nutz GmbH 分立为 GmbH & Co. KG；参考客户 **Goldman Sachs/Bender/GSK-Altezza/Sparkasse Erding/GfK Nürnberg/adesso München**=集团高安全标准级+酒店+私宅
+- 【推断】“schnittstellenfreie Gebäudetechnik（无接口楼宇技术）”自述=其数据技术线直接做弱电网络层；Konzern 参考=规范文档级准入
+- 【假设】作为总包级楼宇技术商，随单接入件口径大；value 件在其私营酒店/商业项目段有实位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
   > “Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
   > 来源：https://nutz.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：巴伐利亚楼宇技术一体商（数据技术线直通）
+- **产品线与在售品牌**：未明示（规范级）
+- **目标行业与场景**：Konzern/酒店/金融/私宅
+- **团队与规模**：中型全工种
+- **决策链与对接人**：epost@ 口
+- **技术与认证**：规范级
+- **采购与供应链信号**：总包随单
+- **近期动态与线索**：2026-06 GmbH&Co.KG 分立
+- **与我方契合点**：楼宇数据技术线弱电随单件
+- **风险与注意**：Konzern 规范门槛
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Fiberm（波兰）：Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON+管井件全谱；Moxa 品牌页+Jonard 工具；MT CRS304-4XG-IN PoE 新品在列；同日 16:00 发）
+- 【推断】Moxa 页=工业谱入水；CRS304 PoE IN=PoE 意识已在
+- 【假设】工业谱旁 value 工业档窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > Moxa 品牌页+MikroTik CRS304-4XG-IN PoE IN 新品
   > 来源：https://fiberm.pl
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波光纤+B2B 分销（工业谱入水）
+- **产品线与在售品牌**：光纤 GPON/EPON/XGSPON+Moxa/Jonard/TP-Link+MT CRS
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@fiberm.pl 口
+- **技术与认证**：工业谱（官网类目）
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Moxa 谱+CRS304 PoE 新品旁 value 工业档窄位
+- **风险与注意**：光纤被动件仍大头
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi Fiberm team,
 
 GPON to cable chambers on the passive side, Moxa and a CRS304 PoE IN on the active side - the industrial edge of the catalogue is growing, and the value DIN tier is the natural next shelf
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: with Moxa already on your line card, would you evaluate one documented DIN-rail industrial PoE unit to deepen the active corner?
 

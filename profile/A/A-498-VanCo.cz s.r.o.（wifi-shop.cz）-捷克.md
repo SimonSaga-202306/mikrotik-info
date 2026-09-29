@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】VanCo.cz (WiFiShop.cz)（捷克）：VanCo.cz / WiFiShop.cz（捷）:**全欧递送 eStore**:**C-Data 捷/斯独家分销 2025-09 签**（中国 value 网络牌）+Tachyon/Mimosa/Turris/Adel System;14 大类目（LAN/Optical/CCTV/Racks)
+- 【推断】**刚签 C-Data 独家=value 中国牌收录心态正热**=对照行口子最开期
+- 【假设】C-Data 旁的第二条 value 中国线（窗口期角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【近期动态】**'Exclusive Distribution of C-Data Brand for the Czech Republic and Slovakia' 23.09.2025
   > 'Exclusive Distribution of C-Data Brand for the Czech Republic and Slovakia' 23.09.2025
   > 来源：https://www.wifishop.cz
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：捷全欧递 eStore（C-Data 独家 2025-09）
+- **产品线与在售品牌**：C-Data/Tachyon/Mimosa/Turris
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：obchod@vanco.cz 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：第二条 value 中国线（窗口期）
+- **风险与注意**：C-Data 直接竞争——需差异化
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Frédéric Gauthier (ProRéseau)（加拿大）：Pro Réseau(Québec City 魁北克城）:结构化布线/5.2GHz **83KM 点对点链路**案例/路由编程/SIP 电话；70 员工布线环境案例；Wix 站法语
+- 【推断】硬核服务店（83km PtP=野外作业级）:LAN/WiFi 项目=PoE 随单；微型体量低密
+- 【假设】布线/无线项目随单缝（法语区；低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSE+MTCEWE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【案例】**'Point a point 5.2GHz sur 83KM' + 'Câblage structuré pour environ 70 employés'
   > 'Point a point 5.2GHz sur 83KM' + 'Câblage structuré pour environ 70 employés'
   > 来源：https://proreseau.net
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加魁北克法语网络服务
+- **产品线与在售品牌**：结构化布线/PtP 链路/SIP
+- **目标行业与场景**：SMB 现场
+- **团队与规模**：微型
+- **决策链与对接人**：fgauthier@ 具名
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：83KM PtP 案例
+- **与我方契合点**：项目随单缝（法语区；低密）
+- **风险与注意**：体量微——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

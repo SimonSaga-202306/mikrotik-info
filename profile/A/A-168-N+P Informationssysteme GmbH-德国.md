@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】N+P Informationssysteme GmbH（德国萨克森，1990 年创，**200+ 员工/2,000+ 客户/100% 家族企业二代**）：**工业与建筑行业数字化专家**——Digitale Fabrik（工厂数字化）/IT-Service 基础设施/**Digitales Gebäude（楼宇数字化）**；PLM/PRO.FILE；客户 BREMER AG/G. KRAFT Maschinenbau/Goldbeck/KWD Kupplungswerk；2025 萨克森年度企业家 finalist；**Jens/Paul/Till Hertwig 三兄弟掌门具名**
+- 【推断】工业+建筑双线=工厂网络与楼宇网络两大场景；200 人规模+PLM 伴侣=专业体量大
+- 【假设】其 IT-Service 基建线“Beratung, Implementierung, Betrieb und Support aus einer Hand – inklusive der IT-Infrastruktur”=接入层随单口径明确
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Wir sind Digitalisierungsexperten für Prozesse in Industrie und Bauwesen…inklusive der IT-Infrastruktur…über 200 Team-Mitglieder…über 2.000 Kunden”
   > “Wir sind Digitalisierungsexperten für Prozesse in Industrie und Bauwesen…inklusive der IT-Infrastruktur…über 200 Team-Mitglieder…über 2.000 Kunden”
   > 来源：https://www.nupis.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：萨克森工业/建筑数字化（三线：工厂/IT 基建/楼宇）
+- **产品线与在售品牌**：PLM/PRO.FILE+未明示
+- **目标行业与场景**：工业/建筑（BREMER/Goldbeck 级）
+- **团队与规模**：200+ 人
+- **决策链与对接人**：Hertwig 三兄弟具名
+- **技术与认证**：PLM 级
+- **采购与供应链信号**：项目随单+全托管
+- **近期动态与线索**：Sachsen finalist
+- **与我方契合点**：工厂/楼宇接入层 value 位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

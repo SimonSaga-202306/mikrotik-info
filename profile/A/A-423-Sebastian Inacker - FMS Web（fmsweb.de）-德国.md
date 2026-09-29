@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-083、A-239（人-司关联档）→ 互注；首触走 A-083 公司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -44,6 +46,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Sebastian Inacker (FMS Web)（德国）：FMS Internetservice GmbH(20+年 Value Added Distributor)：专长 ISP/宽带/Richtfunk 无线，客群=ISP/Stadtwerke/系统屋；Sebastian Inacker 具名口
+- 【推断】德 VAD=技术营销型分销；ISP 客群接入层缺口=VAD 缺的 value 档
+- 【假设】VAD 组合里的接入层 value 档正口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -117,6 +126,19 @@ updated: 2026-09-28
 - **【业务定位】**'Als Value Added Distributor ... Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau und digitale Funklösungen'
   > 'Als Value Added Distributor ... Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau und digitale Funklösungen'
   > 来源：https://www.fmsweb.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德 20 年 VAD 分销（ISP/无线专长）
+- **产品线与在售品牌**：Richtfunk/ISP 组合（牌墙未全列）
+- **目标行业与场景**：
+- **团队与规模**：
+- **决策链与对接人**：inacker@fmsweb.de 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：VAD 组合接入层 value 档（系统屋供货逻辑）
+- **风险与注意**：牌墙未全列——谱口待核
 
 ## 产品决策（Saga · 单一决策口径）
 

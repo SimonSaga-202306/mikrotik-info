@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】TQ-Group / TQ-Systems GmbH（德国）：**E²MS 电子产品全生命周期服务+自有产品族（TQ-Embedded 嵌入模块/TQ-E-Mobility 电助力电机/TQ-RoboDrive 无框电机/TQ-Aviation 航空电子/TQ-Automation 能源管理/TQ-Medical 医疗电子/TQ-PCC 认证测试）**——“Made in Germany”电子制造；2026-09-28 获 IRIS 铁路认证（InnoTrans）；行业谱农业/驱动/EMS/楼宇自动化/工业自动化/**工业通信**/IoT/航空航天/医疗/船运/运输
+- 【推断】**纯制造商（EMS+自有产品线）：其采购链=半导体/PCBA/元器件，不购成品交换机转售或随单——我方价值逻辑无接口
+- 【假设】台账式判别：同业制造商族（同 Dallmeier/Confi 范式）——建档不出信
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“As a leading technology company we provide solutions to all your electronics needs…TQ-Systems has strong roots as an E²MS service provider…Embedded modules and systems”
   > “As a leading technology company we provide solutions to all your electronics needs…TQ-Systems has strong roots as an E²MS service provider…Embedded modules and systems”
   > 来源：https://www.tq-group.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 E²MS+嵌入式制造商（同业）
+- **产品线与在售品牌**：TQ 全线自有产品
+- **目标行业与场景**：行业谱全（客户产业）
+- **团队与规模**：大型制造商
+- **决策链与对接人**：—
+- **技术与认证**：IRIS 铁路级
+- **采购与供应链信号**：半导体/PCBA（其内）
+- **近期动态与线索**：IRIS 认证新闻
+- **与我方契合点**：无接口（同业建档）
+- **风险与注意**：同业
 
 ## 产品决策（Saga · 单一决策口径）
 

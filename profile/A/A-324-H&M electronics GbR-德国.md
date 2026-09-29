@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】H&M electronics（德国 Dillingen a.d. Donau；30 年通信技术店）：电话系统至 ~600 分机+固网/移动资费+IT 线（**Terra Partner+Securepoint Authorized Reseller**）；墙牌 Unify/Agfeo/Wortmann/Securepoint；门店零售在营；CSV=Allied Telesis Resell（官网实体名 OHG vs CSV 'GbR' 名注）
+- 【推断】区域通信店多牌共存：SMB 电话/网络项目交换件随身——Voice VLAN 叙事可讲；低中密度
+- 【假设】SMB 通信项目随身 value 件（Voice VLAN 角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【技术与认证】**Als Terra Partner und Securepoint Authorized Reseller haben wir die komplette Hardware im Programm（官网）
   > Als Terra Partner und Securepoint Authorized Reseller haben wir die komplette Hardware im Programm（官网）
   > 来源：https://hm-electronics.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国区域通信技术店（30 年）
+- **产品线与在售品牌**：Terra/Securepoint/Unify/Agfeo（AT CSV）
+- **目标行业与场景**：区域 SMB 电话/IT
+- **团队与规模**：门店微团
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：门店断码随件
+- **近期动态与线索**：—
+- **与我方契合点**：SMB 通信项目随身件（Voice VLAN 角）
+- **风险与注意**：实体名 OHG/GbR 名注已落
 
 ## 产品决策（Saga · 单一决策口径）
 

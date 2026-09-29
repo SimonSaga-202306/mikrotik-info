@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CompData Computer GmbH（德国，**1976 年创**——业界最老之一）：系统屋（IT 基建/安全/托管）+软件屋（ERP Diamant/4/Sage HR/ATOSS 工时/PROXESS DMS/QlikSense BI）一体；行业深耕：**烘焙/纺织服装/牙科供应链**/中小企业；GF Reiner Veit 具名；数百客户德语区
+- 【推断】“系统+软件一体”=硬件随其软件项目滚动；烘焙连锁等行业客户=多站点接入件滚动结构
+- 【假设】1976 老牌咨询文化=认稳定与文档；行业多站点 rollout 是接入件循环场景
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Seit 1976 betreut das System- und Softwarehaus mehrere Hundert Unternehmen im deutschsprachigen Raum”
   > “Seit 1976 betreut das System- und Softwarehaus mehrere Hundert Unternehmen im deutschsprachigen Raum”
   > 来源：https://www.compdata.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德语区 1976 老牌系统+软件屋
+- **产品线与在售品牌**：全谱基建（CSV 载 Allied 信号）
+- **目标行业与场景**：烘焙/纺织/牙科/mittelstand
+- **团队与规模**：中型双线
+- **决策链与对接人**：vertrieb@+GF Veit 具名
+- **技术与认证**：行业软件认证
+- **采购与供应链信号**：软件项目随单+多站点滚动
+- **近期动态与线索**：2026 IT Security Day
+- **与我方契合点**：行业 rollout 接入层 value 位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

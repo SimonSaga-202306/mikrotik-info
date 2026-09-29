@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GECOPRA SRL（意大利那坡里总部，1988 年创，5 代工程家传，50+ 人，全国六点 Milano/Torino/Roma/Foggia/Palermo）：**电信工程承包商**——技术设备安装维保+**TLC 光纤与无线电方案**+videosorveglianza+特殊系统+**GPS Train and Locator 专利（铁路车辆定位）**
+- 【推断】**GPS Train 专利=铁路谱系客户（守界段：RFI/Trenitalia 等公营买方）**；TLC/视频工程的商业段主打；光纤+无线工程=随单接入件活跃
+- 【假设】五点全国结构=工程口径大，备件随单是实打实的量
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
   > “nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
   > 来源：https://gecopra.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：那坡里 TLC 工程承包（铁路谱系守界）
+- **产品线与在售品牌**：工程级
+- **目标行业与场景**：商业（主）+铁路（守界）
+- **团队与规模**：50+ 六点
+- **决策链与对接人**：info@ 口
+- **技术与认证**：专利级
+- **采购与供应链信号**：工程随单
+- **近期动态与线索**：GPS Train 专利
+- **与我方契合点**：TLC/视频工程随单 value 件（商业段）
+- **风险与注意**：铁路公共段
 
 ## 产品决策（Saga · 单一决策口径）
 

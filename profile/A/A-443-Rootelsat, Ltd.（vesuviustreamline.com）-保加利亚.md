@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Rootelsat (Vesuvius Streamline)（保加利亚）：Vesuvius Streamline/Rootelsat: **保国 WISP/网络全能店**:Ubiquiti 全谱/MikroTik 深/Mimosa/Dahua/SFP 25G 全档/光纤熔接/**PoE Switches 类目明列**/Helium/LoRa;office@ 联系
+- 【推断】类目全=对照行位置已开；PoE Switches 类目明列=正中；全能杂货心态=收录门槛最低
+- 【假设】PoE Switches 类目对照行正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**Кабелни Мрежи: Суичове/ПОЕ Суичове/Оптични Рутери + ПОЕ Суичове 类目 明列
   > Кабелни Мрежи: Суичове/ПОЕ Суичове/Оптични Рутери + ПОЕ Суичове 类目 明列
   > 来源：https://vesuviustreamline.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：保 WISP/网络全能店
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Mimosa/Dahua
+- **目标行业与场景**：WISP/装维/监控
+- **团队与规模**：中型
+- **决策链与对接人**：office@vesuviustreamline.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：SFP 25G 全档
+- **与我方契合点**：PoE Switches 类目对照行正口
+- **风险与注意**：牌墙深——对比战直接
 
 ## 产品决策（Saga · 单一决策口径）
 

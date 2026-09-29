@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MERLIN Kommunikationstechnik e.K.（德国 Erlangen，30 年）：双柱——**Mittelstand MSP** ＋ **Industrielösungen（采购/供应链服务）：LTB/EOL 支持、真伪鉴别、Kits 集配、JIT、报关物流**（面向研究/医疗/工业客户）;CSV=Allied Telesis Resell（站点实体 MERLIN e.K.,Erlangen 实注）
+- 【推断】供应链服务商本身就是'找得到、配得齐'的通道——我们文档化的 value 件可其 EOL 承载/Kits 组件/二供线进入其服务流程——高度同频道
+- 【假设】以 EOL 满载与 kit 供货通道角度切入：value 件入其供应链货架
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【采购与供应链信号】**LTB & End-of-Life-Produkte…Konsignationslager…Just-in-Time…Kundenspezifische Konfektionierung (Lieferung als Kit)——30 Jahre Procurement-Lösungen
   > LTB & End-of-Life-Produkte…Konsignationslager…Just-in-Time…Kundenspezifische Konfektionierung (Lieferung als Kit)——30 Jahre Procurement-Lösungen
   > 来源：https://www.merlinedv.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 Erlangen MSP+供应链服务商（30 年）
+- **产品线与在售品牌**：多牌（AT CSV）
+- **目标行业与场景**：研究/医疗/工业+本地 SMB
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：供应链服务泳道（受方可溯源）
+- **近期动态与线索**：—
+- **与我方契合点**：EOL 满载+Kits 通道到位（强对口）
+- **风险与注意**：其采购半步法规客户多——诚实角
 
 ## 产品决策（Saga · 单一决策口径）
 

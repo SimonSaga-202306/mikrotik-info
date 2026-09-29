@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Zorn Elektrik GmbH（德国 Korntal-Münchingen，斯图加特北，1971 年创 Ludwig Zorn 起，50+ 年）：**电工技术商——楼宇电气/控制柜制造（Schaltschrankbau 自做）/照明/送配电**；“Augenhöhe（平视）”合作文化+长在职（25 年在职者公开）；掌门 **Othmar Zorn 具名**；手工业上装证（Elektroniker Energie/Gebäude-技术+IKT 双证）
+- 【推断】电气承包+自做控制柜=项目随单件稳定；IKT 证含信息与通信技术=弱电人脉职能在册
+- 【假设】1971 的“Augenhöhe”老城文化=长期供应商关系取向，窄线评测愿意给窗
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -137,6 +144,19 @@ updated: 2026-09-28
 - **【业务定位】**“Als kompetentes Dienstleistungsunternehmen im Elektrohandwerk…seit 1971…50 Jahre Zorn Elektrik GmbH…[Schaltschrankbau]+[Gebäude- und Elektrotechnik]”（滑片+官网新闻存档）
   > “Als kompetentes Dienstleistungsunternehmen im Elektrohandwerk…seit 1971…50 Jahre Zorn Elektrik GmbH…[Schaltschrankbau]+[Gebäude- und Elektrotechnik]”（滑片+官网新闻存档）
   > 来源：https://www.zorn-elektrik.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯图加特北 50 年电工承包（控制柜自制）
+- **产品线与在售品牌**：未明示（白标随单）
+- **目标行业与场景**：楼宇/工商业
+- **团队与规模**：老牌中型
+- **决策链与对接人**：Othmar Zorn 具名
+- **技术与认证**：手工业上装双证
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：50 周年纪
+- **与我方契合点**：楼宇弱电随单件+控制柜旁网络配套
+- **风险与注意**：证据偏薄（—fatto）
 
 ## 产品决策（Saga · 单一决策口径）
 

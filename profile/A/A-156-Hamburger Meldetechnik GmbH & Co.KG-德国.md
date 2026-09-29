@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Hamburger Meldetechnik GmbH & Co. KG（HMT，北德汉堡）：安防技术商——入侵报警/视频监控/门禁/无线报警；伙伴 **TELENOT/Honeywell/JABLOTRON/ARITECH/Hikvision/Erdkreis**；与 Securitas/VSU 接警中心联动；私人住宅+商业+工业三段
+- 【推断】视频+门禁随单=PoE 柜惯件；北德区域商体量适中，value 件直发概率高
+- 【假设】“Komplettlösungen höchste Sicherheitsstandards”+接警中心结构=其项目随单件毛利敏感
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Partnerschaften mit führenden Herstellern wie TELENOT, Honeywell, JABLOTRON und ARITECH…renommierte Notrufzentralen wie Securitas”
   > “Partnerschaften mit führenden Herstellern wie TELENOT, Honeywell, JABLOTRON und ARITECH…renommierte Notrufzentralen wie Securitas”
   > 来源：https://www.hmt-hamburg.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：北德安防商（接警中心联动）
+- **产品线与在售品牌**：Telenot/Honeywell/Jablotron/Aritech
+- **目标行业与场景**：住宅/商业/工业
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@/040 口
+- **技术与认证**：伙伴认证
+- **采购与供应链信号**：随单
+- **近期动态与线索**：无线报警扩线
+- **与我方契合点**：视频/门禁 PoE 柜随单
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Atel Electronics（波兰）：Atel 波进口分销商（ORing Industrial Networking+EN50155 铁路类目；WAVE 自牌 KVM/光缆；Vutlan 监控；TP-Link PoE++ 584 zł 在价）
+- 【推断】EN50155 类目=工业铁路档已开；自牌 WAVE=贴牌熟
+- 【假设】ORing 谱旁 value 工业档窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > ORing Industrial + Urządzenia zgodne z normą kolejową EN50155 tag
   > 来源：https://atel.com.pl
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波进口分销商（工业谱尖）
+- **产品线与在售品牌**：ORing 工业网/WAVE 自牌/Vutlan 机房监控/TP-Link/MS-Term
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：cust@atel.com.pl 口
+- **技术与认证**：工业谱（官网类目）
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：ORing Industrial+EN50155 铁路类目=value 工业档窄位
+- **风险与注意**：ORing 谱忠诚-但 EN50155 类目=档已开
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi Atel team,
 
 ORing industrial networking and a dedicated EN50155 rolling-stock tag sit between your patch cords and the WAVE own brand - the industrial PoE tier already has a door here
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: with ORing and EN50155 lines live, would you test one more documented DIN-rail industrial PoE unit for the rolling-stock and panel builds?
 

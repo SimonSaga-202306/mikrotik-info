@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】1off srl（Alessandro Campanella，CEO）：意大利 MikroTik 官方培训中心+“Strategic Network Mentor”战略网络咨询（ISP/WISP/集成商/企业），自研 MikroTik 机队管理平台 OptiWize（原 CloudTik，ZeroTier 集成），Wholesale Tour 2026 演讲嘉宾；20+ 年电信经验、无线先驱
+- 【推断】技术顶流：OptiWize 平台是对 MikroTik 的集中管理增强——同类“管理面”对话可谈 PoE 看门狗等自恢复特性
+- 【假设】其 ISP/WISP 咨询客户的接入层可经 mentorship 通道推荐
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCIPv6E+MTCSE+MTCSWE+MTCEWE）
@@ -151,6 +158,19 @@ updated: 2026-09-28
 - **【联系方式】**a.campanella@1off.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > a.campanella@1off.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.1off.it/contatti
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利官方 MikroTik Training Center+Strategic Network Mentor（ISP/WISP 架构层咨询）+OptiWize 平台
+- **产品线与在售品牌**：官方培训全谱+OptiWize（ZeroTier 深度集成）
+- **目标行业与场景**：ISP/WISP、系统集成商、企业网络架构决策；培训全谱
+- **团队与规模**：CEO Campanella 领衔精品咨询+培训
+- **决策链与对接人**：Alessandro Campanella（CEO，直达邮箱在册）
+- **技术与认证**：MTCNA+MTCIPv6E+MTCSE+MTCSWE+MTCEWE；Wholesale Tour 2026 speaker
+- **采购与供应链信号**：平台型玩家：硬件随其 ISP 客户架构决策走
+- **近期动态与线索**：OptiWize ZeroTier 集成活动（120+ 人 Deep Dive）；RouterOS Competition 上线
+- **与我方契合点**：PoE 看门狗等自恢复硬件特性与其“管理面”理念同频；mentorship 推荐通道
+- **风险与注意**：顶尖技术对话：虚参数一轮出局；Match 其管理面叙事
 
 ## 产品决策（Saga · 单一决策口径）
 

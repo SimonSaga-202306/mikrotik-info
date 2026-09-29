@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】INSEID EDV-Beratung（德国 Burgwedel，25+ 年）：SMB 服务器/网络/客户定制+**工业视频监控规划**+Sonderanfertigungen 网络组件；资质=**Intel Technology Provider GOLD+Synology GOLD+Hirschmann Kompetenz-Center（工业以太网与网络管理合格）**;CSV=Allied Telesis 伙伴
+- 【推断】罕见持 Hirschmann 工业以太网能力中心资质的小系统集成店——工业监控规划在列=STI/STC 无缝对线，回答者=Ingo 本人
+- 【假设】SMB 网络的 value 件+工业监控项目的工业线二角
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【技术与认证】**Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
   > Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
   > 来源：https://www.inseid.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 SMB 系统店（25+ 年）
+- **产品线与在售品牌**：—（Hirschmann 资质在）
+- **目标行业与场景**：SMB/工业项目
+- **团队与规模**：个体
+- **决策链与对接人**：info@（Ingo 具名）
+- **技术与认证**：Hirschmann Kompetenz-Center/Intel Gold/Synology Gold
+- **采购与供应链信号**：项目随件
+- **近期动态与线索**：—
+- **与我方契合点**：SMB 件+工业监控工业线二角
+- **风险与注意**：个体——中低密
 
 ## 产品决策（Saga · 单一决策口径）
 

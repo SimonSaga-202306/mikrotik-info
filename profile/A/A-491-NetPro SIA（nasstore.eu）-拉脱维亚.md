@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NAS Store (NetPro)（拉脱维亚）：NAS Store（拉 Riga;NetPro 同主）:Synology/MikroTik/Ubiquiti/Ajax/Ruijie/Teltonika+**自有 NetPro 牌**;21% VAT 欧递
+- 【推断】**NetPro 自牌=OEM/贴牌心态熟**；多牌店=对照行位置存在
+- 【假设】多牌店对照收录+自牌 OEM 双路（心态同频）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Brands: Synology/MikroTik/Ubiquiti/Ajax/Ruijie/Teltonika + NetPro 自牌
   > Brands: Synology/MikroTik/Ubiquiti/Ajax/Ruijie/Teltonika + NetPro 自牌
   > 来源：https://nasstore.eu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：拉 EU 递多牌店（自牌 NetPro）
+- **产品线与在售品牌**：Synology/MikroTik/Ubiquiti+自牌
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@netpro.lv 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：对照收录+自牌 OEM 双路
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

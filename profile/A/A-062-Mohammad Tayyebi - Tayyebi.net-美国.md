@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Mohammad Tayyebi（美国奥斯汀）：7 证 MikroTik 顾问（MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE）；tayyebi.net 当前为 FreeHostia 占位页（“This hostname is not configured”，2026-09-28 实测）；Gmail 联系方式
+- 【推断】个人顾问，公开足迹极薄（占位页）；以短信/电话确认执业状态
+- 【假设】MTCUME+MTCWE 组合=热点/无线方向；不脑补，先破冰
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSWE）
@@ -147,6 +154,19 @@ updated: 2026-09-28
 - **【技术与认证】**CSV：Mohammad Tayyebi 7 证（美国）
   > CSV：Mohammad Tayyebi 7 证（美国）
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥斯汀个人顾问，公开足迹极薄
+- **产品线与在售品牌**：未公开
+- **目标行业与场景**：未知（热点/无线证向）
+- **团队与规模**：个人
+- **决策链与对接人**：Tayyebi 本人
+- **技术与认证**：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE
+- **采购与供应链信号**：未知
+- **近期动态与线索**：站为 FreeHostia 占位
+- **与我方契合点**：破冰后再定
+- **风险与注意**：信息缺口如实标注
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Inter Projekt（波兰）：Ubiquiti 波兰主分销（uipoland.pl)+MikroTik/RF-Elements/Interline/Jirous 分销；网店正卖 UniFi 全家桶（U7/UNVR/UCG-Fiber…)+MikroTik WiFi/LoRa 新品
+- 【推断】无线/ISP 类主分销：其 UniFi 交换机线已在墙——守界前句+value 二轨窄口
+- 【假设】其 ISP 客群的 PoE 接入二线槽：Ubiquiti 供应缺口/交期时的替补
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证培训伙伴，持 MTCNA MTCRE MTCWE MTCINE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Główny dystrybutor Ubiquiti, Mikrotik, RF-Elements, Interline, Jirous, Stonet——网店在售 UniFi 全簇新品
   > Główny dystrybutor Ubiquiti, Mikrotik, RF-Elements, Interline, Jirous, Stonet——网店在售 UniFi 全簇新品
   > 来源：https://interprojekt.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰无线/ISP 主分销
+- **产品线与在售品牌**：Ubiquiti 主旗+MikroTik 等
+- **目标行业与场景**：ISP/WISP/安装商转售
+- **团队与规模**：分销+网店团队
+- **决策链与对接人**：orders@ 口
+- **技术与认证**：UI Care 延保体系
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：UNVR-Instant/UCG-Fiber 新品上架
+- **与我方契合点**：供应缺口时的二轨替补窄口
+- **风险与注意**：Ubiquiti 独占引力——守界前句
 
 ## 产品决策（Saga · 单一决策口径）
 

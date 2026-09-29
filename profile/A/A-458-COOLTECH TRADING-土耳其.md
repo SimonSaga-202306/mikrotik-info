@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】COOLTECH TRADING（土耳其）：Cool Tech Trading（伊斯坦布尔）:MikroTik/Cambium 产品页+Fiyat Listesi批发价表；**首页被 SEO 垃圾词污染（假发外链注入——站安全失守/无人维护注；诚实注记）**
+- 【推断】产品页在营但首页荒废=生意靠线下/人脉流；污染注不写进信；低密窄针
+- 【假设】批发价表窄针（站荒废注；低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Cool Tech Trading: MikroTik Products/Cambium Networks 页+Fiyat Listesi 批发价表；首页垃圾注入注
   > Cool Tech Trading: MikroTik Products/Cambium Networks 页+Fiyat Listesi 批发价表；首页垃圾注入注
   > 来源：https://www.cooltechtrading.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土 MikroTik/Cambium 分销商
+- **产品线与在售品牌**：MikroTik/Cambium
+- **目标行业与场景**：转售/ISP
+- **团队与规模**：小型
+- **决策链与对接人**：info@cooltechtrading.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：Fiyat Listesi 价表
+- **近期动态与线索**：**首页 SEO 污染注**
+- **与我方契合点**：批发窄针（低密）
+- **风险与注意**：站疏于维护——触达率存疑
 
 ## 产品决策（Saga · 单一决策口径）
 

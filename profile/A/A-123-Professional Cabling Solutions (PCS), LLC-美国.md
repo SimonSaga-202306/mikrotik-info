@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Professional Cabling Solutions（俄亥俄辛辛那提，2003 年创）：语音数据基建一站式——结构化布线/光纤/视频监控/门禁/入侵/A/V/扩声/声掩蔽；客户跨小企业至 **Fortune 1000 全国项目**
+- 【推断】布线主干+安防随单结构：接入交换机是 BOM 配套件；F1000 项目管线预示指定件话语权
+- 【假设】2003 老牌布线商的“一站式”话术=随单 BOM 价值位切入自然
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**“single-source provider for Voice and Data Infrastructures…small businesses and Fortune 1000 clients nationwide”
   > “single-source provider for Voice and Data Infrastructures…small businesses and Fortune 1000 clients nationwide”
   > 来源：https://professionalcablingsolutions.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：辛辛那提 2003 布线一站式（F1000 项目史）
+- **产品线与在售品牌**：布线/光纤/监控/门禁（Allied 信号，CSV）
+- **目标行业与场景**：小企至 F1000 全国
+- **团队与规模**：区域中型
+- **决策链与对接人**：表单/电话（NO-MX）
+- **技术与认证**：20+ 年
+- **采购与供应链信号**：随单 BOM
+- **近期动态与线索**：—
+- **与我方契合点**：BOM 接入层 value 位
+- **风险与注意**：NO-MX 降级
 
 ## 产品决策（Saga · 单一决策口径）
 

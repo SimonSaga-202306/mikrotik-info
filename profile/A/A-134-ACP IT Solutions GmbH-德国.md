@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ACP IT Solutions GmbH Halle（ACP 集团中德区：Halle/德累斯顿/莱比锡/Sangerhausen/Bielefeld，约 125 人；1990 起源 Wichmann，2018 并入 ACP）：360° IT——Managed Services/Professional Services/Veeam BaaS（德国最大 Veeam SP 之一）/ISO 27001+9001 双证 Tier-3 自有 DC（德累斯顿+耶拿）/SIOS HA 独家欧洲伙伴/**NIS2 咨询**；站点分区含 **Public Sector（Sangerhausen）与 KRITIS & Renewables（莱比锡）**；客户墙 IHK Potsdam/莱比锡会展/Stadtwerke Halle/哈雷大学医院/BGH 钢企；具名 Eric Meier（Prokurist）/Annemarie Plaschnik（销售副总监）
+- 【推断】公共（IHK/市政/Stadtwerke/大学医院）与 KRITIS 专线=高规格审查段；集团结构下私营 mittelstand 窄段是合规切入位
+- 【假设】“Datensouveränität 数据主权”文化=德式来源审查；承认边界+私营窄段+文档齐全是唯一能走的路
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Public Sector…KRITIS & Renewables…ISO 9001- & 27001-zertifizierten Rechenzentrum…Kunden sind mittelständische Unternehmen und Konzerne…sowie öffentliche Einrichtungen”
   > “Public Sector…KRITIS & Renewables…ISO 9001- & 27001-zertifizierten Rechenzentrum…Kunden sind mittelständische Unternehmen und Konzerne…sowie öffentliche Einrichtungen”
   > 来源：https://www.acp-gruppe.com/standorte/halle
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：ACP 集团中德区 360° IT（公共+KRITIS 强）
+- **产品线与在售品牌**：全栈伙伴（全球厂牌同盟）
+- **目标行业与场景**：公共/医疗/KRITIS（红线）+私营 mittelstand（窄段）
+- **团队与规模**：125 人中德
+- **决策链与对接人**：halle@acp.de+具名
+- **技术与认证**：ISO 27001/9001 DC
+- **采购与供应链信号**：集团伙伴目录
+- **近期动态与线索**：NIS2 咨询线
+- **与我方契合点**：私营窄段 value 补位
+- **风险与注意**：公共/KRITIS 红线
 
 ## 产品决策（Saga · 单一决策口径）
 

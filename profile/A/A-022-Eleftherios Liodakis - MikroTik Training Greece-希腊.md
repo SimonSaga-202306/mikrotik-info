@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证
+- 【推断】出货体量：8.311+ 认证工程师 / 1.723+ 期课程的教具消耗与分销库存周转是希腊 MikroTik 生态中枢
+- 【假设】MTCSWE 交换工程师认证赛道兴起→交换教具与实验架需求上升
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCSWE）
@@ -155,6 +162,19 @@ updated: 2026-09-28
 - **【联系方式】**mikrotiktraining.gr MX=aspmx.l.google.com（Google Workspace）（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
   > mikrotiktraining.gr MX=aspmx.l.google.com（Google Workspace）（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
   > 来源：https://www.mikrotiktraining.gr/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希腊 MikroTik 生态中枢：首个官方培训中心+母司分销商 HellasCom+电商 LinkShop
+- **产品线与在售品牌**：MikroTik 全谱系（分销口径）；课程教具
+- **目标行业与场景**：工程师培训（MTCNA→MTCINE 十证）
+- **团队与规模**：双讲师 10 证（Maragkoudakis/Liodakis）；HellasCom 集团支撑
+- **决策链与对接人**：Liodakis 领衔；集团决策在 HellasCom（A-024 链接）
+- **技术与认证**：官方 Trainer 资质×2；10 证全谱
+- **采购与供应链信号**：教具批次采购；分销库存按课程/零售节奏
+- **近期动态与线索**：2026-10/11 排课（MTCNA €490、MTCSE €500，比雷埃夫斯/干尼亚）
+- **与我方契合点**：教具/实验架 PoE 交换机+分销渠道口
+- **风险与注意**：师者红线：报价真实，严禁“教具特供价”话术；出货数据 8.311+ 为官网自报口径
 
 ## 产品决策（Saga · 单一决策口径）
 

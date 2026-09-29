@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Controsys Control Engineering（匈牙利）：Controsys Kft.:**匈工业自动化分销/咨询——AVEVA 官方分销+Softing Industrial+Red Lion/N-Tron（工业 L3 交换谱明列）+codebeamer ALM+MB Connect Line 远接**;'irányítástechnika automatizálás' 专长
+- 【推断】Red Lion/N-Tron 工业交换谱在售=工业 PoE 类目存在；谱为高端（Red Lion 贵）=中档替补逻辑；工程师文化=文档/认证正中
+- 【假设】工业 PoE 类目替补档（Red Lion/N-Tron 谱旁 value 档）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：N-Tron + Red Lion）
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > Controsys: AVEVA disztribútor + 'Red Lion, N-Tron ipari switchek Layer 3 ... PoE megoldások' 谱明列
   > 来源：https://controsys.hu
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈工业自动化分销（AVEVA 官分）
+- **产品线与在售品牌**：AVEVA/Softing/**Red Lion-N-Tron 工业交换**/MB Connect Line
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：中型
+- **决策链与对接人**：controsys@ 口
+- **技术与认证**：AVEVA 官分
+- **采购与供应链信号**：B2B 分销
+- **近期动态与线索**：2026-07 牌墙更新
+- **与我方契合点**：**STI-288GP 工业 DIN 轨 PoE 替补档**（谱旁 value 档）
+- **风险与注意**：高端谱忠诚——替补需规格战
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -175,7 +195,7 @@ updated: 2026-09-28
 ```text
 Hi Controsys team,
 
-Your Red Lion and N-Tron lines cover the premium end of industrial switching - and your engineers know the mid-tier gap: affordable DIN-rail PoE that still means business. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, fanless) with full English documentation. Reference EXW pricing on request.
+Your Red Lion and N-Tron lines cover the premium end of industrial switching - and your engineers know the mid-tier gap: affordable DIN-rail PoE that still means business. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, fanless) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: beside the Red Lion/N-Tron lines, would you evaluate a documented value industrial PoE unit?
 

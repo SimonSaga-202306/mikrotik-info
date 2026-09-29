@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Wimood（荷无线分销）：Ubiquiti/MikroTik/Cambium 三大主牌+Alta Labs/NetAlly/Shelly;UniFi Enterprise Campus 48 PoE 2150W €3,397、UDM Pro €397.10、Cambium NSE3000 €746.96 在价；17:30 截单当日发+Ubi/MT 两年保
+- 【推断】Enterprise Campus 48 PoE 在价=企业级 PoE 谱直通；三主牌=客户群厚
+- 【假设】B2B reseller 口=集成商通道现成
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -120,6 +127,19 @@ updated: 2026-09-28
 - **【物流】**17:30 截单当日发
   > 17:30 截单当日发
   > 来源：https://www.wimoodshop.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷无线分销（B2B reseller 口）
+- **产品线与在售品牌**：Ubiquiti/MT/Cambium 主牌+Alta/NetAlly/Shelly
+- **目标行业与场景**：集成商/WISP/企业无线
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@ 直口
+- **技术与认证**：Ubi/MT 两年保体系
+- **采购与供应链信号**：17:30 截单当日发
+- **近期动态与线索**：Alta Labs 新牌上架
+- **与我方契合点**：UniFi 谱旁 value 对照正口（$165 vs €3,397 旗舰）
+- **风险与注意**：无线主业——交换机为随带档
 
 ## 产品决策（Saga · 单一决策口径）
 

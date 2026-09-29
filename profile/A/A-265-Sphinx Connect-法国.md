@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SPHINX Connect France（法国 25 年工业/IIoT 分销）：品牌墙=Moxa（正售 EDS-(G)2000 非管理交换机/XM 模块）/Semtech-Sierra/Sintrones/Kerlink/Adder/InHand/Lanner/Lantronix/Barix；工业以太网/LoRaWAN/OT 安全（IEC 62443/NIS2）多板块；CSV 注与库内 Sphinx Italia 重名异主体
+- 【推断】Moxa 工业交换线在墙的工业分销——value 二轨窄位死守界前句；NIS2/OT 叙事实锤其工业客群
+- 【假设】其二轨替补槽：EDS-2000 非管理级下方对照或项目特价槽
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Switch industriel/Routeur 4G industriel/Gateway LoRaWAN——Cybersécurité OT IEC 62443/NIS2；Moxa EDS-(G)2000 在售
   > Switch industriel/Routeur 4G industriel/Gateway LoRaWAN——Cybersécurité OT IEC 62443/NIS2；Moxa EDS-(G)2000 在售
   > 来源：https://sphinxfrance.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国工业/IIoT 分销（25 年）
+- **产品线与在售品牌**：Moxa 领衔多品牌
+- **目标行业与场景**：工业 OT/IIoT/公用与工厂
+- **团队与规模**：分销组织
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：IEC 62443/NIS2 敏感
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：OT 安全叙事活跃
+- **与我方契合点**：Moxa 旁二轨窄位（守界前句）
+- **风险与注意**：Moxa 主权强+品牌重名注
 
 ## 产品决策（Saga · 单一决策口径）
 

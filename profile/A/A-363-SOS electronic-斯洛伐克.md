@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SOS electronic（斯洛伐克）：**SK 1991 元器件大分销（欧洲 6 址，客户 100+ 国，15 万+ 电子件 SKU)**;electronica 2026 慕尼黑 B5 展台；TOP 牌含 Traco Power/Quectel/**Lantronix**/Sensirion;API 供采自动化
+- 【推断】元器件大分销通道=编制交换机成品（成品非其主类）；唯一缝=工业/嵌入式领域的联网件口子——低密长针
+- 【假设】元器件分销联网件口子窄位（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Hirschmann（Belden 工业接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Founded in 1991; 6 European locations; customers from 100+ countries; electronica 2026 Hall B5; TOP brands: Quectel/Lantronix/Traco/Sensirion
   > Founded in 1991; 6 European locations; customers from 100+ countries; electronica 2026 Hall B5; TOP brands: Quectel/Lantronix/Traco/Sensirion
   > 来源：https://www.soselectronic.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：SK 元器件大分销（6 址/100+ 国）
+- **产品线与在售品牌**：Quectel/Lantronix/Traco/Sensirion 等
+- **目标行业与场景**：OEM/研发/MRO 客群
+- **团队与规模**：中型
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：electronica 2026 参展
+- **采购与供应链信号**：API 供采体系
+- **近期动态与线索**：API 自动化宣传
+- **与我方契合点**：联网工业件口子窄位（低密长针）
+- **风险与注意**：**成品交换非主类——期待管理**
 
 ## 产品决策（Saga · 单一决策口径）
 

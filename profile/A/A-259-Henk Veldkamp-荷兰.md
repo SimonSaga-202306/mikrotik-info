@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-430（人-司关联档）→ 互注；首触走 A-430 司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MikroTrain（荷兰 Zwolle，Henk Veldkamp）：MikroTik 官方认证培训——三大日速成叙事，300+ 学员（客户墙含政府/医疗/AV 集成商 Kinly 等——公共段守界注）
+- 【推断】官方 MikroTik 讲师行=训练通道判（CONSULT-OEM）
+- 【假设】其三天速成课 MTCSWE 对照单元窄口（公共学员主体守界句先置）
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -143,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Officiële MikroTik-certificeringstrainingen——300+ professionals opgeleid（Kinly/Rijksoverheid/UMCG 等 logo 墙）
   > Officiële MikroTik-certificeringstrainingen——300+ professionals opgeleid（Kinly/Rijksoverheid/UMCG 等 logo 墙）
   > 来源：https://www.mikrotrain.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰官方 MikroTik 培训
+- **产品线与在售品牌**：MikroTik 认证课
+- **目标行业与场景**：网工受训（客户墙含公私）
+- **团队与规模**：个体讲师（Henk Veldkamp）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：官方认证讲师
+- **采购与供应链信号**：课程教具
+- **近期动态与线索**：300+ 学员墙
+- **与我方契合点**：MTCSWE 对照单元窄口（CONSULT-OEM）
+- **风险与注意**：公共学员守界注
 
 ## 产品决策（Saga · 单一决策口径）
 

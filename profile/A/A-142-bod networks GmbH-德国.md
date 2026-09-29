@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】bod networks GmbH（德国开姆尼茨）：30+ 年 IT 商——**Networking & Switching 专块自述（Access 到 Core 交换选型/结构化组网/配置）**/铜缆光纤布线（OTDR 测量认证级）/服务器/USV/TK-VoIP/**光伏新线**；SMB 主力+大型布线项目；0371 电话+mail@
+- 【推断】“Networking & Switching”作为独立服务块=交换选型是其核心交付——直接对口；布线 OTDR 认证级=工程严谨
+- 【假设】SMB 价敏+大项目工程双线：value 件在 SMB 线是毛利层，在大项目是第二供位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Networking & Switching…Egal ob einfache Access- oder komplexe Core-Switche…Wir beraten Sie hinsichtlich der Typenauswahl sowie des strukturierten Netzaufbaus”
   > “Networking & Switching…Egal ob einfache Access- oder komplexe Core-Switche…Wir beraten Sie hinsichtlich der Typenauswahl sowie des strukturierten Netzaufbaus”
   > 来源：https://www.bod-networks.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：开姆尼茨 30 年网络工程商（交换选型核心）
+- **产品线与在售品牌**：交换/布线/服务器/USV/TK（CSV 载 Allied 信号）
+- **目标行业与场景**：SMB+大型布线
+- **团队与规模**：区域中型
+- **决策链与对接人**：mail@ 口
+- **技术与认证**：OTDR 认证级
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：光伏扩线
+- **与我方契合点**：交换选型位 value 件（直接对口）
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

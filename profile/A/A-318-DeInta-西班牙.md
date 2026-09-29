@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Deinta Seguridad（西班牙 Zaragoza，Enebro 集团旗下）：**内政部认证电子安保系统集成商**——Ingeniería 设计/llave en mano 项目/**24/7 call center 维护**+远程操作+自研软件 Almand（多楼宇集中控制）；ISO 9001/14001，RSA Aragón 标；CSV=Allied Telesis+Axis+3CX+HP 品牌墙位
+- 【推断】持证安保工程商：监控/楼宇项目的多址 PoE 消耗真实，随单正口；Axis/AT 在墙需要前句框定；私营业态（企业楼宇）主打
+- 【假设】其 SoC/主管中心下多址项目 value PoE 随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis + Axis + 3CX + HP）
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**homologada por el Ministerio del Interior…instalaciones de sistemas electrónicos de seguridad；24/7 call center；自研 Alman'd 多址集中管控
   > homologada por el Ministerio del Interior…instalaciones de sistemas electrónicos de seguridad；24/7 call center；自研 Alman'd 多址集中管控
   > 来源：https://www.deinta.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西班牙 Zaragoza 安保工程集成商
+- **产品线与在售品牌**：Axis/Allied/3CX/HP（CSV）
+- **目标行业与场景**：企业楼宇/工业（守界：其内政部认证=官方资质本身正常商用资质，仅法规级安装）
+- **团队与规模**：工程组织
+- **决策链与对接人**：deinta@ 口
+- **技术与认证**：ISO 9001/14001/RSA
+- **采购与供应链信号**：项目随单+全国 SLA
+- **近期动态与线索**：ISO 27001 推进中
+- **与我方契合点**：多址项目 PoE 随单正口（Axis/AT 旁前句）
+- **风险与注意**：大牌在墙——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

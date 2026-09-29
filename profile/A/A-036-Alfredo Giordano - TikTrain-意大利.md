@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材
+- 【推断】双栈培训平台罕见：同时教 MikroTik 与 Ubiquiti——对“第三家硬件”无心理门槛
+- 【假设】数百张网络部署背景（自述 hundreds of networks）= 教具+工程推荐双通道
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【联系方式】**alfredo@tiktrain.com（CSV）；MX=mail.tiktrain.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > alfredo@tiktrain.com（CSV）；MX=mail.tiktrain.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://tiktrain.com/contact/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：MikroTik+Ubiquiti 双栈官方培训平台（2000 年起）
+- **产品线与在售品牌**：MTCNA→MTCINE 十证；UBWA/UEWA/UBRSS/UBWS/UBRSA 五证
+- **目标行业与场景**：工程师认证培训（多语言教材）
+- **团队与规模**：培训师团体
+- **决策链与对接人**：Alfredo Giordano（三证 Trainer）
+- **技术与认证**：MTCNA+MTCRE+MTCTCE（个人）
+- **采购与供应链信号**：双栈教具采购
+- **近期动态与线索**：全谱课程在售
+- **与我方契合点**：教具实验架；双栈文化对第三硬件开放
+- **风险与注意**：师者红线：真实报价；别碰其既有渠道利益
 
 ## 产品决策（Saga · 单一决策口径）
 

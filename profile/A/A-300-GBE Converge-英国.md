@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GBE Converge（英国，Mitie 集团旗下）：消防/安防/IT 三线设计+安装+支持——Fire（探测/抑制/EVCS）/Security（入侵/门禁/CCTV/闸机/PA）/IT（基础设施/结构化布线/DC 冷热通道）；**2024 拿 Allied Telesis 双项大奖（Platinum Partner per CSV）**；客户=大型建造项目（Wates 级）
+- 【推断】英消防安防 IT 融合安装集团：IT 基础设施+结构化布线=网络件消耗真实；Allied Platinum 粘合牢——value 二槽窄位死守界前句
+- 【假设】基础设施承包商槽的 value 随单窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Fire, Security and IT Solutions——GBE received two prestigious awards from Allied Telesis (08/2024)；IT Infrastructure/Structured Cabling/DC hot-cold aisle
   > Fire, Security and IT Solutions——GBE received two prestigious awards from Allied Telesis (08/2024)；IT Infrastructure/Structured Cabling/DC hot-cold aisle
   > 来源：https://gbeconverge.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国消防安防 IT 安装集团（Mitie 系）
+- **产品线与在售品牌**：Allied Telesis Platinum
+- **目标行业与场景**：大型建造/商业设施
+- **团队与规模**：集团规模
+- **决策链与对接人**：info@ 口
+- **技术与认证**：集团 ESG 叙事
+- **采购与供应链信号**：集团项目随单
+- **近期动态与线索**：Allied 双奖 2024
+- **与我方契合点**：infra 包内 value 二槽（Platinum 旁守界前句）
+- **风险与注意**：Platinum 粘合强+Mitie 合规口径
 
 ## 产品决策（Saga · 单一决策口径）
 

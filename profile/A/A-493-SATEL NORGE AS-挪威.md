@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SATEL Norge（挪威）：SATEL Norge AS（挪；SATEL Oy 芬兰分支）:**mission-critical 无线分销**：机场/隧道/水电/**militære installasjoner 军列明**+ORing 工业网络代理；GNSS RTK/UHF 电台专精
+- 【推断】**军列明=守界句必压**；主业电台非 PoE=低密；民用工业段窄位
+- 【假设】民用工业段照低密窄针（军列守界强句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'MISSION-CRITICAL COMMUNICATIONS' + 应用： lufthavner/militære installasjoner/tunneler/kraftforsyning
   > 'MISSION-CRITICAL COMMUNICATIONS' + 应用： lufthavner/militære installasjoner/tunneler/kraftforsyning
   > 来源：https://satel.no
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：挪 SATEL 分支（军列守界）
+- **产品线与在售品牌**：SATEL/ORing/GNSS
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：produktinfo@satel.no 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：民用段低密窄针（军守界句必压）
+- **风险与注意**：军单混入——守界硬约束
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Liberty-i（英网络运营商+店双业）：connectivity/leased line 主业+Yeastar VoIP+PortalV2 guest WiFi；店侧 router/switch/wireless/LTE 谱
+- 【推断】运营商主业+零售店副业=硬件走货低频；guest WiFi 方案=酒店/商客场景
+- 【假设】双业型：店侧随单低密
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -120,6 +127,19 @@ updated: 2026-09-28
 - **【店谱】**router/switch/wireless/LTE 类目
   > router/switch/wireless/LTE 类目
   > 来源：https://www.liberty-i.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英运营商+店双业
+- **产品线与在售品牌**：Yeastar/PortalV2+店侧路由/交换/无线/LTE
+- **目标行业与场景**：企业 connectivity/guest WiFi
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ 直口
+- **技术与认证**：ISP 运营资质
+- **采购与供应链信号**：店侧随单采购
+- **近期动态与线索**：guest WiFi 方案推
+- **与我方契合点**：店侧 24 口 PoE 低密随单位（$165 锚点一致）
+- **风险与注意**：主业运营——外联低密
 
 ## 产品决策（Saga · 单一决策口径）
 

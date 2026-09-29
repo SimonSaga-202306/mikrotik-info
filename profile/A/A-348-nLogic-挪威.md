@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】nLogic（挪威）：北欧（NO/SE/DK）网络/安全方案商 15+ 年：**伙伴墙=HPE/Palo Alto/Nutanix/Nokia+Arista 活动**；客户墙=**Bane Nor（国铁）/NRK/GlobalConnect/Orange Business/Oslo Met/Eidsiva/气象所**
+- 【推断】服务商+关键基建客户为主=私营段窄针；Arista/Nokia/HPE 大牌墙旁 value 长尾缝
+- 【假设】私营段 value 长尾窄针（关基/SERPRO 守界句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【目标行业】**Referanser: Bane Nor/NRK/GlobalConnect/Orange Business/Oslo Met/Eidsiva/Meteorologisk
   > Referanser: Bane Nor/NRK/GlobalConnect/Orange Business/Oslo Met/Eidsiva/Meteorologisk
   > 来源：https://www.nlogic.no
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：北欧网络/安全方案商
+- **产品线与在售品牌**：HPE/PAN/Nutanix/Nokia/Arista
+- **目标行业与场景**：**私营段为主打**（Bane Nor 等国铁/关基=守界）
+- **团队与规模**：中型
+- **决策链与对接人**：post@ 口
+- **技术与认证**：AI infra 顾问线
+- **采购与供应链信号**：—
+- **近期动态与线索**：Service Provider Days 2026
+- **与我方契合点**：私营段长尾窄针（关基守界句）
+- **风险与注意**：**国铁/广电/运营商在客户墙**——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续
+- 【推断】华沙个体顾问，双高阶（交换+企业无线）；公开内容面极薄——按工商存续+NIP 采信，邮件层运转
+- 【假设】MTCSWE+MTCEWE 对口企业 WLAN/交换工程线
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE）
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【技术与认证】**CSV：Ryszard Labus/SINUX MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
   > CSV：Ryszard Labus/SINUX MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：华沙个体顾问（NIP 登记）；MTCSWE+MTCEWE 双高阶
+- **产品线与在售品牌**：咨询
+- **目标行业与场景**：交换/企业无线工程（证书推断）
+- **团队与规模**：个体
+- **决策链与对接人**：Labus 本人
+- **技术与认证**：MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
+- **采购与供应链信号**：未知
+- **近期动态与线索**：官网 WordPress 默认单页（名称/地址/电话/NIP）
+- **与我方契合点**：双高阶特性对话
+- **风险与注意**：公开内容薄，如实标注；电话核实
 
 ## 产品决策（Saga · 单一决策口径）
 

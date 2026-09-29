@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】m² IT Solutions e. K.（德国）：双线 IT 商——**制造业机械园区/生产企业**一侧与**节日/活动/剧院**一侧；楼宇技术与工业；数据中心与企业网络；e.K. 个人业主制（决策快）
+- 【推断】工业厂房+活动临时网络双场景：前者=固定 value 件，后者=临时部署（快部署/加固）
+- 【假设】个人业主制=单一拍板人，枢纽问题直问直达
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -137,6 +144,19 @@ updated: 2026-09-28
 - **【业务定位】**“Passende IT-Lösungen für Maschinenparks, produzierende Betriebe…Festivals, Veranstaltungen, Theater…Gebäudetechnik, Industrie…Rechenzentren, Unternehmensnetzwerke”
   > “Passende IT-Lösungen für Maschinenparks, produzierende Betriebe…Festivals, Veranstaltungen, Theater…Gebäudetechnik, Industrie…Rechenzentren, Unternehmensnetzwerke”
   > 来源：https://www.m2-it-solutions.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国双场景 IT 商（工业生产+活动）
+- **产品线与在售品牌**：未明示
+- **目标行业与场景**：制造/活动/楼宇/IDC
+- **团队与规模**：e.K. 个人业主
+- **决策链与对接人**：业主直决
+- **技术与认证**：—
+- **采购与供应链信号**：随单
+- **近期动态与线索**：活动 IT 线
+- **与我方契合点**：厂房+活动双位 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

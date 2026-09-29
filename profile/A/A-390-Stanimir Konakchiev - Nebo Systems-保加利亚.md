@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Stanimir Konakchiev (Nebo Systems)（保加利亚）：保国 Managed IT/Cloud/Sec/DevOps/**Server Colocation**/System Integration 中型 MSP；服务面企业级
+- 【推断】有 colocation+集成两块实体业务=设备随单逻辑实存；MSP 正装（非纯顾问）
+- 【假设】托管+集成现场随单窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCUME+MTCIPv6E+MTCSE+MTCEWE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**Services: Managed IT/Cloud/Information Security/DevOps/Server Colocation/System Administration/IT Compliance/System Integration
   > Services: Managed IT/Cloud/Information Security/DevOps/Server Colocation/System Administration/IT Compliance/System Integration
   > 来源：https://nebosystems.eu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：保国中型 MSP（全栈）
+- **产品线与在售品牌**：Managed IT/Cloud/Sec/DevOps/Colocation
+- **目标行业与场景**：企业外包客群
+- **团队与规模**：中型
+- **决策链与对接人**：s.konakchiev@ 具名
+- **技术与认证**：CookieYes 站正装
+- **采购与供应链信号**：自有 colo
+- **近期动态与线索**：服务线 2024 扩
+- **与我方契合点**：托管/集成/COLO 现场随单窄位
+- **风险与注意**：密度中——单角一针
 
 ## 产品决策（Saga · 单一决策口径）
 

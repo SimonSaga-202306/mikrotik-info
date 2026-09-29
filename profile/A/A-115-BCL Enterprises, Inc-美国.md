@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】BCL Enterprises（俄亥俄 Middletown）：**女性持有 ICT 设计+安装公司（WBE/WOSB/DBE/Ohio EDGE 认证）**——布线基建/A/V/无线/物理安防门禁告警/监控摄像/VoIP/**DAS 应急+蜂窝分布式天线**/沉浸式环境（电竞）；**客群：PreK-12+高教+医疗+政府+会展+图书馆+体育馆+多单元住宅+机场+辅助生活**；团队持行业标准委员会席位
+- 【推断】政府+教育+公务设施为招牌客群（含机场/政府楼）——美国地方政府/教育段非联邦红线但采购规范严；DBE 认证=其投标路径常需少数/多元配比
+- 【假设】设计咨询+安装双身份=接入件多为指定后采购，设计师文化接受“文档齐全候选件”
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“WBE, WOSB, DBE, and Ohio EDGE Certified…Pre K-12, Higher Education, Health Care, Government…team members lead standards development, sit on and chair professional association committees”
   > “WBE, WOSB, DBE, and Ohio EDGE Certified…Pre K-12, Higher Education, Health Care, Government…team members lead standards development, sit on and chair professional association committees”
   > 来源：https://bclenterprise.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：俄亥俄女性持有 ICT 设计安装（多认证）
+- **产品线与在售品牌**：布线/AV/无线/安防/DAS（Allied 信号）
+- **目标行业与场景**：教育/医疗/政府/体育/住宅
+- **团队与规模**：标准委员会级团队
+- **决策链与对接人**：Christy Miller 负责人级
+- **技术与认证**：WBE/WOSB/DBE/EDGE
+- **采购与供应链信号**：设计指定→采购
+- **近期动态与线索**：行业委员会活跃
+- **与我方契合点**：指定候选件的接入层 value 位
+- **风险与注意**：政府教育采购规范
 
 ## 产品决策（Saga · 单一决策口径）
 

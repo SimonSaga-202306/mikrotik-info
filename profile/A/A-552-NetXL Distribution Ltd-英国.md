@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NetXL（英 disrupt 大盘分销）：Ubiquiti/MikroTik（CRS309-1G-8S+ £201.49 在价）/TP-Link WiFi7/DrayTek/Yealink/Teltonika/Poynting/HPE Instant On/Shelly/Bold
+- 【推断】新派大盘+多牌=集成商客户群厚；MT CRS 在价=RouterOS 谱实锤
+- 【假设】HPE IO/Shelly=从企业到智能家居全谱带
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -120,6 +127,19 @@ updated: 2026-09-28
 - **【定位】**disrupt 新派大盘
   > disrupt 新派大盘
   > 来源：https://www.netxl.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英新派大盘分销
+- **产品线与在售品牌**：Ubiquiti/MT/TPLink/DrayTek/Yealink/Teltonika/HPE IO 等
+- **目标行业与场景**：集成商/ISP/企业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ 直口
+- **技术与认证**：多牌授权链
+- **采购与供应链信号**：大仓现货
+- **近期动态与线索**：WiFi7/新牌持续上
+- **与我方契合点**：多牌谱旁 value 对照正口（$165 锚点一致）
+- **风险与注意**：disrupt 定位=比价透明，需硬 value 数
 
 ## 产品决策（Saga · 单一决策口径）
 

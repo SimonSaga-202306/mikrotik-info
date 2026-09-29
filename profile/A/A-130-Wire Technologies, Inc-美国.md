@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Wire Technologies, Inc.：30+ 年 IT 基建全栈商——结构化布线/数据中心/**路由交换（30 年设计实施经验）**/无线（20+ 年数百网部署）/语音视频会议/云/网络安全/服务器虚拟化备份/**门禁与监控**；联系域 wiretech-inc.com（Barracuda ESS MX 存活，独立双域同归）
+- 【推断】CSV 载 Allied Telesis 信号与其“Routing & Switching 30 年”自述相互印证=接入交换是其核心惯件
+- 【假设】最对口对象之一：布线+DC+交换三线合一——接入层 value 位切入直接专业
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“expert design, implementation, and support of routing and switching infrastructure for over thirty years…deployed hundreds of wireless network solutions across many business sectors”
   > “expert design, implementation, and support of routing and switching infrastructure for over thirty years…deployed hundreds of wireless network solutions across many business sectors”
   > 来源：https://www.wiretechnologies.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：30 年 IT 基建全栈（布线+DC+交换直通）
+- **产品线与在售品牌**：布线/DC/交换/无线/安防（CSV Allied 信号）
+- **目标行业与场景**：企业/中小营商用
+- **团队与规模**：中型
+- **决策链与对接人**：info@wiretech-inc.com
+- **技术与认证**：30 年交换 20 年无线
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：直接对口：接入层 value 位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

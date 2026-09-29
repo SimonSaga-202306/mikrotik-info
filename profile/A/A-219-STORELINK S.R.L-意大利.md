@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】STORELINK SRL（意大利，2009 创，storage+networking 起）：**六域集团化 SI**——BMS（楼宇管理）/**ATM 空管（frequentis/ScioTeq mission-critical 伙伴实锤）**/Cyber Security/Data Science+AI/**Servizi Impiantistica（能源水来通信技术设施）**/ICT Enterprise；ISO 9001/27001/37001/45001/28001/42001 多张+TRAC；**MePA&SDAPA habilitated 自述**；客户墙含 Cisco/HPE/Dell EMC/Fortinet/CyberArk/Commvault/Cloudera 等
+- 【推断】**ATM 空管+frequentis 伙伴=国家关键基础设施专用格**+MePA/SDAPA=**守界硬度高**；私营 BMS/Impiantistica/楼宇工程段才有随单口
+- 【假设】BMS control room 项目的弱电布线=私营楼宇段的真实网络件需求
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
   > “Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
   > 来源：https://www.storelink.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：集团化 SI（ATM 关键=守界硬；BMS 楼宇私营窄位）
+- **产品线与在售品牌**：Cisco/HPE/Dell/Fortinet 等大牌
+- **目标行业与场景**：空管（守界）+私营楼宇（窄）
+- **团队与规模**：集团中型
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：7+ ISO
+- **采购与供应链信号**：项目协议
+- **近期动态与线索**：多 ISO 新拿
+- **与我方契合点**：私营楼宇 BMS 布线随单窄位（低优先，体距句）
+- **风险与注意**：ATM 关键主权+大牌墙
 
 ## 产品决策（Saga · 单一决策口径）
 

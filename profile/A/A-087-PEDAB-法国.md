@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线
+- 【推断】大型生态分销=我们的对白是“value 档位上架”，须有文档与稳定供体系
+- 【假设】Perle 线意味工业 PoE 类目已开通；并架说辞成立
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【联系方式】**commercial@pedab.fr；Christine Berthon 法国区总经理（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > commercial@pedab.fr；Christine Berthon 法国区总经理（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.pedab.fr/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国大型生态分销（Pedab 集团法国区）
+- **产品线与在售品牌**：全 IT 生态+Perle 工业线
+- **目标行业与场景**：企业/零售渠道
+- **团队与规模**：集团级
+- **决策链与对接人**：Berthon（法国 GM）commercial@
+- **技术与认证**：集团 VAD 体系
+- **采购与供应链信号**：集团采购入库
+- **近期动态与线索**：法国站常态化
+- **与我方契合点**：工业 PoE value 档位上架
+- **风险与注意**：大集团准入文件严谨
 
 ## 产品决策（Saga · 单一决策口径）
 

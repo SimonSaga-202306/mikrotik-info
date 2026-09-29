@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】prego services GmbH（德国，**能源市场服务商 25+ 年**）：流程咨询/IT 解决方案/**SAP（咨询到运营）/Data&Analytics/BPO（薪资外包/材料物流）**；客户墙几乎全是 **Stadtwerke 群**（Saarbrücken/Heidelberg/Bad Nauheim/Kreuznach/St. Wendel/Am See）+区县/医疗商会；13+ 员工精益专深
+- 【推断】**结构性公共客群（EVU/Stadtwerke=集体市立资本）**：其交付进来的方案件在公共采购规范光照内——纪律只谈 prego 自身企业 IT 与私营侧面，明示不碰其 Stadtwerke 交付线
+- 【假设】13 人精益+SAP 级专业=其自身内部 infra 小量无需大谈，窄位低优先客观
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“der Energiemarktdienstleister für Prozess-, System und Digitalisierungslösungen…[referenz logos:] Stadtwerke Saarbrücken, Stadtwerke Heidelberg…Seit über 25 Jahren Partner der Energiewirtschaft”
   > “der Energiemarktdienstleister für Prozess-, System und Digitalisierungslösungen…[referenz logos:] Stadtwerke Saarbrücken, Stadtwerke Heidelberg…Seit über 25 Jahren Partner der Energiewirtschaft”
   > 来源：https://prego-services.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：能源 BPO 专家（Stadtwerke 客墙——公共本性）
+- **产品线与在售品牌**：SAP 体系
+- **目标行业与场景**：EVU/Stadtwerke（守界）
+- **团队与规模**：13+ 精益
+- **决策链与对接人**：info@ 口
+- **技术与认证**：SAP 级
+- **采购与供应链信号**：其自身 IT 小量
+- **近期动态与线索**：能源转型内容线
+- **与我方契合点**：prego 自身 IT 窄位（低优先）
+- **风险与注意**：公共客群结构
 
 ## 产品决策（Saga · 单一决策口径）
 

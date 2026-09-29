@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Timeless Technology Oy（芬兰）：增值技术进口商——ICT+工业 IoT+测量技术；Perle（路由/交换/console)/Milesight LoRaWAN/Cailabs/ControlByWeb/Profitap/Tempmate/TITAN；产品用于 ICT/商业/工业
+- 【推断】技术进口商：Perle 交换线在墙——同 A-255 判（Perle 旁替补窄口）
+- 【假设】其 ICT/工业客户的 value 替补槽：Perle 之下不撞车
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网））
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**Lisäarvoa tuottava tekninen maahantuoja: ICT, teollinen IoT, mittaustekniikka——Perle Systems reitittimet, kytkimet, konsolipalvelimet
   > Lisäarvoa tuottava tekninen maahantuoja: ICT, teollinen IoT, mittaustekniikka——Perle Systems reitittimet, kytkimet, konsolipalvelimet
   > 来源：https://timeless.fi
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：芬兰增值技术进口商
+- **产品线与在售品牌**：Perle/Milesight 等
+- **目标行业与场景**：ICT/商业/工业客户
+- **团队与规模**：进口商团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：EN 12830 类合规敏感
+- **采购与供应链信号**：进口分销
+- **近期动态与线索**：PerleCLOUD/IRG7000 新品叙事
+- **与我方契合点**：Perle 旁替补窄口（前句框定）
+- **风险与注意**：Perle 引力——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

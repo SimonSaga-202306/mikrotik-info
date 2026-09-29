@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】FIVE Informatik AG（瑞士，38年/60人/1500客）：DMS/ITSM/流程自动化软件主线，swiss-made-software+CyberSeal；无网络硬证据（客户含公共机构——守界句在）
+- 【推断】软线公司硬件低优先；其 IT 服务支线（基础设施课）是唯一窄针位
+- 【假设】私营段客户基础设施换代的偶发随单——低密一针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**38 Jahre/60 Mitarbeitende/1500 Kunden——DMS/ITSM swiss made software+CyberSeal
   > 38 Jahre/60 Mitarbeitende/1500 Kunden——DMS/ITSM swiss made software+CyberSeal
   > 来源：https://www.fiveinformatik.ch
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞士软件+IT 服务商
+- **产品线与在售品牌**：DMS/ITSM/自动化软件
+- **目标行业与场景**：私营+部分公共（守界）
+- **团队与规模**：60人/1500客
+- **决策链与对接人**：info@ 口
+- **技术与认证**：swiss-made/CyberSeal
+- **采购与供应链信号**：随单窄针
+- **近期动态与线索**：38 周年叙事
+- **与我方契合点**：软线低密窄针
+- **风险与注意**：软件主业、公共段守界
 
 ## 产品决策（Saga · 单一决策口径）
 

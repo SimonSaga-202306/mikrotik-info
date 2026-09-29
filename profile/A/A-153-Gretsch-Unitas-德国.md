@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-152（同一实体重复建档）→ A-153 冻结不出信；一切触达只走 A-152 主档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietberg)；参考项目：Zaha Hadid 520W28 NYC/Stadtbibliothek Stuttgart/Anna Freud Centre London；下载门户/研讨会/ProPoint 服务门户
+- 【推断】大型制造商集团：其电子门禁/楼宇管理产品的项目集成含 IP 联网配套；但集团级供应商准入严、框架成熟——value 件缝隙窄
+- 【假设】以“供应商准入路径”轻问询切入（不谈价格直推），其门禁/楼宇项目的 PoE 接入配套是真实场景
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**“automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
   > “automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
   > 来源：https://www.g-u.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：GU 集团：五金/自动门/门禁/楼宇全球集团
+- **产品线与在售品牌**：GU/BKS/FERCO/GU Automatic
+- **目标行业与场景**：住宅/公建/国际大项目
+- **团队与规模**：大型集团
+- **决策链与对接人**：info@g-u.de 口
+- **技术与认证**：多品牌体系
+- **采购与供应链信号**：集团框架准入
+- **近期动态与线索**：国际参考项目常态
+- **与我方契合点**：门禁/楼宇项目 PoE 接入配套（窄）
+- **风险与注意**：集团准入门槛
 
 ## 产品决策（Saga · 单一决策口径）
 

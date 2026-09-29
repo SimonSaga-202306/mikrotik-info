@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Panora Fiber（美国 Iowa 乡村合作系：Panora/Guthrie 两区）：2001 年首家光纤 ISP 先行者，Cornerstone Group 旗下，农村社区型宽——FastFiber 远程支持+流媒体门户；CSV=David Garland MTCINE 顾问关联；唯一箱=billing@
+- 【推断】农村光纤局：POP/局端有实机柜——但 billing 箱触及度低，低密一针；顾问关联人在背后
+- 【假设】边缘局端/商用客户现场的窄位一针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCINE）
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**Panora Fiber——first fiber customer December 2001;rural communities;Cornerstone Group；电话 Panora/Guthrie 双号
   > Panora Fiber——first fiber customer December 2001;rural communities;Cornerstone Group；电话 Panora/Guthrie 双号
   > 来源：https://panorafiber.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国 Iowa 农村光纤局
+- **产品线与在售品牌**：自有网
+- **目标行业与场景**：农村社区/商客
+- **团队与规模**：乡村局团队
+- **决策链与对接人**：billing@ 唯一箱（宽注）
+- **技术与认证**：MTCINE 顾问关联（CSV）
+- **采购与供应链信号**：自用件
+- **近期动态与线索**：2001 先行叙事
+- **与我方契合点**：局端/商用现场窄位低密针
+- **风险与注意**：billing 箱宽窄已标注
 
 ## 产品决策（Saga · 单一决策口径）
 

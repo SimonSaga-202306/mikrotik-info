@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）
+- 【推断】场所 Wi-Fi（captive portal+分析）=高密 AP 部署→PoE 供电接入层是每张单的水电煤
+- 【假设】商场/机场/球场型项目普遍 50-300 AP，接入层 PoE 量可观
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCUME）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://minimelabs.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：场所数字互动/Wi-Fi 获客平台商（伦敦商圈已落地）
+- **产品线与在售品牌**：Morfus/MidasMoon/EzeHome/Morfus Connect
+- **目标行业与场景**：公共空间/酒店/餐饮/商场/机场/竞技场
+- **团队与规模**：软件平台小团
+- **决策链与对接人**：Urbino Lobo（MTCNA+MTCUME）
+- **技术与认证**：MTCUME=门户体系对口
+- **采购与供应链信号**：场所项目整包部署含接入层
+- **近期动态与线索**：平台产品四件套成型，伦敦持续运营
+- **与我方契合点**：高密 AP 项目 PoE 供电接入层整包随行
+- **风险与注意**：平台商——硬件采购量随项目波动
 
 ## 产品决策（Saga · 单一决策口径）
 

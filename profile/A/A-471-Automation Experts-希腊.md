@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Automation Experts（希腊）：Automation Experts（希 Athens+Thessaloniki):**工业自动化代理（希腊+塞浦路斯）**:**Antaira 工业 PoE 交换 2026-01 新签**+Lantech(EN50155 轨）/Red Lion/N-Tron/HMS/Anybus/MBConnect Line/Invertek/IDEC/Proface/CMZ/Wachendorff
+- 【推断】Antaira 高端谱刚开=工业 PoE 类目自动完善中；value 档是谱系补充逻辑
+- 【假设】Antaira/Lantech 谱旁 value 工业 PoE 档
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira）
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > 'Ιανουάριος 2026 - Νέα συνεργασία με την Antaira (Industrial EtherNet Switches, PoE Solutions)'
   > 来源：https://www.automationexperts.gr
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希工业自动化代理（希+塞双区）
+- **产品线与在售品牌**：Antaira/Lantech/Red Lion/HMS/IDEC
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@automationexperts.gr 口
+- **技术与认证**：
+- **采购与供应链信号**：
+- **近期动态与线索**：
+- **与我方契合点**：工业 PoE 谱旁 value 档（新签窗口+谱补逻辑）
+- **风险与注意**：Antaira 刚签——谱忠诚期
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi Automation Experts team,
 
 Antaira joined your line card in January 2026 - proof you keep adding industrial Ethernet and PoE. Beside Lantech, Red Lion and N-Tron, the mid-tier DIN-rail PoE slot is where volume lives
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: beside Antaira and Red Lion, would you evaluate a documented value DIN-rail industrial PoE unit?
 

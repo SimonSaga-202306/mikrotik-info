@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SN-Solution（匈牙利）：SMB 与中大企业 IT 外包运维——网建/系统运维/风险评估/远程+现场 24h 双可达；页脚 logo=MikroTik/**Ubiquiti**/**Digi**/Grandsoft；CSV=Antal Bacskai（MTCWE/MTCTCE；official 级已验）
+- 【推断】运维型集成商：MikroTik+Ubiquiti 双存量在墙（诚实角）——其运维项目换代件随单真实
+- 【假设】运维客户现场的 value PoE 随单窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证，持 MTCWE MTCTCE）
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**hálózatfejlesztés, számítógépes rendszerek üzemeltetése, karbantartása——akár 24 órás rendelkezésre állással;logo: MikroTik/Ubiquiti/Digi
   > hálózatfejlesztés, számítógépes rendszerek üzemeltetése, karbantartása——akár 24 órás rendelkezésre állással;logo: MikroTik/Ubiquiti/Digi
   > 来源：http://sn-solution.hu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈牙利 IT 运维集成商
+- **产品线与在售品牌**：MikroTik/Ubiquiti 存量
+- **目标行业与场景**：SMB/中大企
+- **团队与规模**：专业运维团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：MTCWE/MTCTCE（Antal）
+- **采购与供应链信号**：运维随单件
+- **近期动态与线索**：—
+- **与我方契合点**：运维换代随单窄位（存量诚实角）
+- **风险与注意**：双存量在墙（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

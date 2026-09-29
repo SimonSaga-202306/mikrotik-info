@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Net Vizyon (4mimo)（土耳其）：Net Vizyon（土 Shopify 店；原 4mimo.com→shop.netvizyon.net 迁域注）:Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy 谱；USW-24-PoE $550/USW-Pro-24 $1016 在价
+- 【推断】UniFi PoE 谱已开且挂牌价=value 档替补逻辑顺势；Ruijie 谱说明可收中国牌
+- 【假设】UniFi PoE 谱旁 value 档对照行正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【产品线】**Markalarımız: Jirous/Mimosa/Ruijie/Siklu/Ubiquiti/Cudy + 'Switch 24 PoE USW-24-PoE-EU $550.80'
   > Markalarımız: Jirous/Mimosa/Ruijie/Siklu/Ubiquiti/Cudy + 'Switch 24 PoE USW-24-PoE-EU $550.80'
   > 来源：https://shop.netvizyon.net
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：土网络分销店（UniFi PoE 谱在价）
+- **产品线与在售品牌**：Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：satis@netvizyon.net 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：UniFi PoE 谱旁 value 对照正口
+- **风险与注意**：USW 谱厚——需规格和价格双实
 
 ## 产品决策（Saga · 单一决策口径）
 

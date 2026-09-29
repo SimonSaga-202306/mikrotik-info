@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】think about IT GmbH（thinkGROUP，德国）：**德国 Top 30 系统屋**——ITIL 认证一站式服务；**Managed NVIDIA DGX/Spark 托管+High Performance Computing 集群落地**+Managed Network/Workplace/Datacenter/Security；自有房展 InfinIT Future（Hattingen Henrichshütte）；Branchen 三块=**Geschäftskunden/Öffentliche Auftraggeber/Healthcare（公共+医疗守界段）**
+- 【推断】Top30 规模+Managed Network 模块=其交付接入层随单结构清晰；公共/医疗段守界，企业客户段主打窄位
+- 【假设】HPC/数据中心业务重=其 Managed Network 里 SMB 端的 value 件缝隙
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“zählt zu den Top 30 Systemhäusern Deutschlands…Managed Services bis hin zur Realisation komplexer HPC-Cluster…Geschäftskunden/Öffentliche Auftraggeber/Healthcare”
   > “zählt zu den Top 30 Systemhäusern Deutschlands…Managed Services bis hin zur Realisation komplexer HPC-Cluster…Geschäftskunden/Öffentliche Auftraggeber/Healthcare”
   > 来源：https://think-about.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 Top30 一站式系统屋（thinkGROUP）
+- **产品线与在售品牌**：NVIDIA DGX/M365 生态
+- **目标行业与场景**：企业（主）+公共/医疗（守界）
+- **团队与规模**：Top30 规模
+- **决策链与对接人**：frontoffice@ 口
+- **技术与认证**：ITIL 级
+- **采购与供应链信号**：框架+随单
+- **近期动态与线索**：InfinIT Future 自家展会
+- **与我方契合点**：Managed Network 线 SMB 端 value 件
+- **风险与注意**：集团框架
 
 ## 产品决策（Saga · 单一决策口径）
 

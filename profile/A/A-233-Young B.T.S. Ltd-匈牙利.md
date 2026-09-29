@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Young B.T.S. Kft.（布达佩斯 1992，分销/品牌代表）：结构化布线/电话系统/rack 柜/安防摄像/门禁/整网——约 20 领先厂牌；Excel Networking 伙伴；LoRaWAN 传感线在；13 人/9.11 亿 HUF 营收（≈236 万欧元）
+- 【推断】活跃/被动网络件批发是主业——体量中小的本地分销，正位靶
+- 【假设】其二轨 value 交换机槽：Rack+机柜 PoE 配套随单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -139,6 +146,19 @@ updated: 2026-09-28
 - **【业务定位】**IT-Telco and Safety since 1992——≈20 gyártó: strukturált kábelezés/rack/biztonsági kamerák/komplett hálózatok；营收 911M HUF
   > IT-Telco and Safety since 1992——≈20 gyártó: strukturált kábelezés/rack/biztonsági kamerák/komplett hálózatok；营收 911M HUF
   > 来源：https://hu.linkedin.com/company/youngbts
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈牙利 ICT 分销/品牌代表（1992）
+- **产品线与在售品牌**：≈20 品牌（Excel 等）
+- **目标行业与场景**：布线/门禁/摄像/网络件
+- **团队与规模**：13人/236万欧营收
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：批发分销
+- **近期动态与线索**：官网宕机（2026）但信用报告 26/07 鲜活
+- **与我方契合点**：中小分销正位
+- **风险与注意**：官网宕期接触面弱（注明）
 
 ## 产品决策（Saga · 单一决策口径）
 

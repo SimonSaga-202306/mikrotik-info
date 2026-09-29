@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Mahkesis Group（加拿大）：Mahkesis Group: **PrestaShop MikroTik 专店**(CCR/CRS 全线+LTU/LiteBeam；多台'Discontinued -25%'清库+US/Intl 双库存）;shop.mahkesis.com+admin@
+- 【推断】纯 MT 谱店；Discontinued 清库=库存周转心态（接受新档？）——低密窄针
+- 【假设】纯谱清库窗口期 value 对照窄位（低密）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**Deals of the day: CCR1016/CRS354-48P 'Discontinued -25%' + CCR2216 新品
   > Deals of the day: CCR1016/CRS354-48P 'Discontinued -25%' + CCR2216 新品
   > 来源：https://shop.mahkesis.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加 MikroTik 专店（PrestaShop 店）
+- **产品线与在售品牌**：MikroTik 纯谱
+- **目标行业与场景**：零售/装维
+- **团队与规模**：小型
+- **决策链与对接人**：admin@mahkesis.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：双库存线
+- **近期动态与线索**：Discontinued 清库
+- **与我方契合点**：清库窗口期对照窄位（低密）
+- **风险与注意**：纯谱——替补接受度低
 
 ## 产品决策（Saga · 单一决策口径）
 

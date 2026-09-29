@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】EULOGIC NT SpA（意大利 Bari/Roma/Milano）：Cybersecurity/Digital Forensics & IR/Digital Transformation/Consulting——**60+ 认证专家、H24 Operation Center**；伙伴墙极长（**UBIQUITI + Allied Telesis**+Engenius/3CX/Cisco/Fortinet、Lenovo/HP、Pearson Vue、Sangfor 等）;CSV 注：自述脉络 1995 年 SIM NT→2020s 沿革——**与库内 A-215（SIM NT 巴里 1995）疑同族**，错峰双行注
+- 【推断】Bari 系 SOC 大屋：其客户基础有接入件需求——Ubiquiti/AT 双在墙需要前句框定；同类主体注必落
+- 【假设】其 customer-project/bundle 里的 value 二轨窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Cybersecurity • Digital Forensics & IR • Digital Transformation——60+ specialisti certificati, Operation Center H24；伙伴墙 Ubiquiti/Allied Telesis 在列
   > Cybersecurity • Digital Forensics & IR • Digital Transformation——60+ specialisti certificati, Operation Center H24；伙伴墙 Ubiquiti/Allied Telesis 在列
   > 来源：https://eulogic.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 Bari SOC/咨询大屋
+- **产品线与在售品牌**：Ubiquiti/Allied/Engenius/Cisco 等
+- **目标行业与场景**：中大型企业
+- **团队与规模**：60+ 专家
+- **决策链与对接人**：info@ 口
+- **技术与认证**：H24 SOC
+- **采购与供应链信号**：项目随单+bundle
+- **近期动态与线索**：Pearson Vue/Smau 伙伴
+- **与我方契合点**：value 二轨窄位（Ubiquiti/AT 旁前句）
+- **风险与注意**：**A-215 同族疑——错峰注**
 
 ## 产品决策（Saga · 单一决策口径）
 

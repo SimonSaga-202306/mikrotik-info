@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GSI Gemellaro Systems Integration（密歇根 Troy）：30+ 年高规格物理安防+网络基建集成商——客户墙：**US Army Corps of Engineers（联邦红线）、DTE、Consumers Energy、Ford、Rocket Mortgage、AAA、Marathon、Detroit Lions、EMU、St. Joseph's Health**；自述“untied to any specific vendor（不受任何单一厂商绑定）”
+- 【推断】厂商中立自述+客户墙横跨能源/汽车/金融/体育/医疗——接入层指定权大，联邦军段红线不触不碍其余
+- 【假设】“untied to any specific vendor”=对新候选件开放评——进函直引原话
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Untied to any specific vendor, we can offer the best solution for your unique case…US Army Corps, DTE, Ford, Rocket Mortgage, Detroit Lions”
   > “Untied to any specific vendor, we can offer the best solution for your unique case…US Army Corps, DTE, Ford, Rocket Mortgage, Detroit Lions”
   > 来源：https://securityandnetworks.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：密歇根 30 年安防/网络集成（厂商中立）
+- **产品线与在售品牌**：安防/网络基建/托管（Allied 信号）
+- **目标行业与场景**：能源/汽车/金融/体育/医疗
+- **团队与规模**：东南密歇根全国项目
+- **决策链与对接人**：info@ 口
+- **技术与认证**：30+ 年
+- **采购与供应链信号**：指定权+中立
+- **近期动态与线索**：指挥中心项目史
+- **与我方契合点**：中立语境候选件
+- **风险与注意**：联邦军段红线
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】LanCentrum (Times-VT)（斯洛伐克）：LanCentrum.sk / Times-VT（斯 Prievidza):**MIKROTIK/UBIQUITI/V-SOL/DASAN/**Wi-Tek** 店**;PoE 保护/电源/机柜全类目；博客 2026-04 活
+- 【推断】**Wi-Tek 谱=中国 value 牌已收录=口子直开**；全类目配套
+- 【假设】Wi-Tek 旁第二档 value 对照（谱口子直开）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【业务定位】**Výrobcovia: MIKROTIK/UBIQUITI/V-SOL/DASAN Zhone/Wi-Tek + PoE ochrany, adaptéry 类目
   > Výrobcovia: MIKROTIK/UBIQUITI/V-SOL/DASAN Zhone/Wi-Tek + PoE ochrany, adaptéry 类目
   > 来源：https://www.lancentrum.eu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯 Prievidza 网络装备店（Wi-Tek 谱）
+- **产品线与在售品牌**：MikroTik/Ubiquiti/V-SOL/DASAN/Wi-Tek
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@lancentrum.sk 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Wi-Tek 旁第二档 value 对照
+- **风险与注意**：Wi-Tek 同位竞争——差异化
 
 ## 产品决策（Saga · 单一决策口径）
 

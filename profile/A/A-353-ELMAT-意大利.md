@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ELMAT S.p.A（意大利）：意大利网络/安防大 B2B 分销:'vendere tutti e solo i prodotti che vanno in rete';牌墙=Axis/Milestone/**Cambium(认证课）**/Teltonika/**Ruijie Reyee**/2N/Hikvision/Milesight 等；B2B 门户+formazione 体系
+- 【推断】大分销组合逻辑内：企业网有线/无线现由 Ruijie 担=替补 SKU 缝（金压场景）;Cambium 旁无线随带
+- 【假设】企业网替补 SKU 窄位（Ruijie 旁前句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【在售品牌】**'Vendere tutti e solo i prodotti che vanno in rete' + 牌墙 Ruijie Reyee/Cambium/Teltonika/Axis/Milestone
   > 'Vendere tutti e solo i prodotti che vanno in rete' + 牌墙 Ruijie Reyee/Cambium/Teltonika/Axis/Milestone
   > 来源：https://www.elmat.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大型 B2B 网络/安防分销
+- **产品线与在售品牌**：Ruijie Reyee/Cambium/Teltonika/Axis/Milestone 等
+- **目标行业与场景**：集成商/装维生态
+- **团队与规模**：大型
+- **决策链与对接人**：info@ 口+B2B 门户
+- **技术与认证**：厂训体系（Cambium 认证课）
+- **采购与供应链信号**：大库存池
+- **近期动态与线索**：elmat 学院排课 2026-10
+- **与我方契合点**：替补 SKU 缝（Ruijie 旁前句，诚实角）
+- **风险与注意**：大分销层级深——找对口品类买手难
 
 ## 产品决策（Saga · 单一决策口径）
 

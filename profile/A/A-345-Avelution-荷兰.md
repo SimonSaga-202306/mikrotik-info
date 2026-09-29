@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Avelution（荷兰）：**Master Systems Integrator|OT-netwerkarchitectuur**:500.000+ m² OT 骨干、50+ 项目、20+ 年；WiredScore/SmartScore AP;IEC 62443;NIS2/GACS/EPBD IV/CRA/SRI 五框架；官网明言'不是安装商不是 IT 方，是独立网络架构师'
+- 【推断】顾问型集成商=天然对照者：把规格写入他们的 PvE（规格纲领）对照库=最长尾入口
+- 【假设】PvE 规格库对照行窄针（诚实角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -113,6 +120,19 @@ updated: 2026-09-28
 - **【业务定位】**'Avelution is geen installateur en geen IT-partij - wij zijn de onafhankelijke architect' + WiredScore/SmartScore Accredited Professional
   > 'Avelution is geen installateur en geen IT-partij - wij zijn de onafhankelijke architect' + WiredScore/SmartScore Accredited Professional
   > 来源：https://avelution.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷楼宇 OT 网独立架构顾问
+- **产品线与在售品牌**：顾问制（无品牌绑定）
+- **目标行业与场景**：开发商/业主/安装商三方
+- **团队与规模**：小团
+- **决策链与对接人**：info@ 口
+- **技术与认证**：WiredScore/SmartScore AP;IEC 62443
+- **采购与供应链信号**：—
+- **近期动态与线索**：NIS2/EPBD IV/GACS 顺风期
+- **与我方契合点**：PvE 规格库对照单元（诚实角）
+- **风险与注意**：顾问不卖硬件——只落对照行
 
 ## 产品决策（Saga · 单一决策口径）
 

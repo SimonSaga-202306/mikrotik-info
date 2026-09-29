@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NXO（法国，总部 2026-03 迁 Puteaux）：大盘'集成商+运营商'——Infrastructures digitales（LAN/WiFi/SD-WAN/DC)+UCaaS/通信+Cybersécurité（含 SOC aaS)+Cloud&Opérateur（Linkernet/Linkerconnect 电信运营）+Academy；客户案例含 Ville de Villefranche（公共）;CSV=**Allied Telesis Integrate Elite+Resell**
+- 【推断】法国超大一体集成/运营：value 只在其商业客户长尾的私段窄口；公共案例=守界句；大盘低密窄针
+- 【假设】商业客户长尾的 value 二轨窄针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【近期动态】**NXO installe son siège social à La Défense（Puteaux 2026-03）;案例: La Ville de Villefranche（公共标注）；CSV: AT Integrate Elite
   > NXO installe son siège social à La Défense（Puteaux 2026-03）;案例: La Ville de Villefranche（公共标注）；CSV: AT Integrate Elite
   > 来源：https://www.nxo.eu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法国超大集成/运营商
+- **产品线与在售品牌**：AT Integrate Elite（CSV）
+- **目标行业与场景**：大型商业/公共（守界注）
+- **团队与规模**：千人级组织
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：框架+项目随单
+- **近期动态与线索**：总部迁 Puteaux 2026-03
+- **与我方契合点**：商业长尾窄针（公共守界句）
+- **风险与注意**：大盘集中——低密窄位
 
 ## 产品决策（Saga · 单一决策口径）
 

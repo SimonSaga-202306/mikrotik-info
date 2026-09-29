@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IndustrialComms（英国 & 爱尔兰工业网络专店，Shopify）：伙伴墙=Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS；工业以太网/HMI/光纤/OT 安全；行业=水/电/交通/工厂自动化/仓储物流/油气/海事；CSV=EtherWAN 档
+- 【推断】工业网络专店：Hirschmann/Ruggedcom 高端在墙——value 替补窄位死守界前句；公用事业段守界标注一句话
+- 【假设】私营工业段的替补槽（工厂自自动化/仓储物流/海事）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：EtherWAN）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Your Trusted UK & Ireland Partner for Industrial Networking Solutions——partners: Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS
   > Your Trusted UK & Ireland Partner for Industrial Networking Solutions——partners: Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS
   > 来源：https://www.industrialcomms.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国工业网络专店
+- **产品线与在售品牌**：Belden/Hirschmann/Ruggedcom
+- **目标行业与场景**：工厂自动化/仓储/海事（水电气交=守界注）
+- **团队与规模**：专店团队
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：行业项目随单
+- **近期动态与线索**：新伙伴持续加入
+- **与我方契合点**：私营工业段替补窄位（守界前句+公用事业段守界标注）
+- **风险与注意**：高端在墙/公用段敏感
 
 ## 产品决策（Saga · 单一决策口径）
 

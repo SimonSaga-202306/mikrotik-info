@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IT-TRUST Network Solution（奥地利 Weinsteig 2114，Andreas Smeczka，2006 起）:CSV=Allied Telesis Resell;**官网域 ittrust.at DNS 本轮解析失败（2026-09-29 核验）**;FirmenABC 工商档在营（UID ATU62644115）；旧站联系页公布 office@ittrust.at
+- 【推断】站挂但公司在营型（同 Young B.T.S. 先例）：即时体况不清，低密一针以邮箱口试验证在营态
+- 【假设】低密窄针：私营小型现场的 value 件
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -137,6 +144,19 @@ updated: 2026-09-28
 - **【背景再核】**ittrust.at DNS A-record 2026-09-29 解析失败；FirmenABC: Andreas Smeczka, Weinsteig 2114, seit 2006, UID ATU62644115 在营档
   > ittrust.at DNS A-record 2026-09-29 解析失败；FirmenABC: Andreas Smeczka, Weinsteig 2114, seit 2006, UID ATU62644115 在营档
   > 来源：FirmenABC+CSV（存档注）
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥地利小型 IT 服务商（在营核验中）
+- **产品线与在售品牌**：AT Resell（CSV）
+- **目标行业与场景**：本地 SMB
+- **团队与规模**：个体级
+- **决策链与对接人**：office@ 口
+- **技术与认证**：UID ATU62644115
+- **采购与供应链信号**：—
+- **近期动态与线索**：域名失效注
+- **与我方契合点**：低密窄针+在营核验一体
+- **风险与注意**：**DNS 解析失败已明示，勿当 DEAD 判**
 
 ## 产品决策（Saga · 单一决策口径）
 

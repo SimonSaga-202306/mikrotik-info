@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Titan Security Group / Marksman Security Corporation（美国）：安保服务巨头合并案（boutique national footprint）——安保服务+礼宾/前台+**Titan Electronics 电子安防线**+咨询培训；CSV：Allied Telesis（Marvell Prestera 接入层）在册
+- 【推断】Titan Electronics=楼宇监控/门禁工程线=摄像头柜 PoE 惯件
+- 【假设】全国性大客户楼宇=翻修滚动量
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【联系方式】**info@titan-security.com；双域 MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > info@titan-security.com；双域 MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://marksman-titan.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国全国性安保集团（合并后生）
+- **产品线与在售品牌**：安保/礼宾/电子线+Allied Telesis
+- **目标行业与场景**：商业楼宇/场馆
+- **团队与规模**：全国性
+- **决策链与对接人**：info@ 口
+- **技术与认证**：工程整合
+- **采购与供应链信号**：全国项目随单
+- **近期动态与线索**：Titan+Marksman 合并公告
+- **与我方契合点**：Titan Electronics 监控柜 PoE
+- **风险与注意**：大集团采购流程
 
 ## 产品决策（Saga · 单一决策口径）
 

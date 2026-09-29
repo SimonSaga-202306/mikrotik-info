@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Group Oberhausen 月度会；安全博客活跃（MikroTrick CVE 分析）；FOSDEM/Chemnitzer Linuxtage 常客
+- 【推断】MTCSWE 新课上线=交换教具采购窗口；MUG 月度会=德国 Ruhr 区 MikroTik 社群节点
+- 【假设】2027 排课表一出，教具采购会在 2026Q4 落单
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE（10 证，全证））
@@ -149,6 +156,19 @@ updated: 2026-09-28
 - **【联系方式】**MX=mx.mylinuxtime.de（MX/DNS 级核验：域存活=邮件可投递到域）；m.gisbers@linux-schmie.de（CSV）
   > MX=mx.mylinuxtime.de（MX/DNS 级核验：域存活=邮件可投递到域）；m.gisbers@linux-schmie.de（CSV）
   > 来源：https://linux-schmie.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国 MikroTik 官方培训师+Ruhr 区 MUG 主理人+安全博客作者
+- **产品线与在售品牌**：官方培训课程（十证全谱，2027 起 MTCSWE）
+- **目标行业与场景**：工程师认证培训；MUG 月度会
+- **团队与规模**：个人
+- **决策链与对接人**：Michael Gisbers 本人
+- **技术与认证**：官方 Trainer 全证；CVE 深度分析能力
+- **采购与供应链信号**：教具批次采购；2027 新课=新采购窗
+- **近期动态与线索**：2026-09-16 公告 2027 排课含 MTCSWE 新课
+- **与我方契合点**：MTCSWE 交换课教具 PoE 交换机+MUG 现场展示位
+- **风险与注意**：师者红线：教具报价真实不套路；社群信任是其资产
 
 ## 产品决策（Saga · 单一决策口径）
 

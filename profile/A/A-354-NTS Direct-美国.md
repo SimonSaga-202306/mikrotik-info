@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】NTS Direct（美国）：美语音/UC 分销（**Avaya Cloud Office Master Agent**):Grandstream/Fanvil/Yealink/Unify/**TP-Link/Teltonika**/NEC/Patton;**Data Networking→Switches 类目存在**;Fanvil ITSP Channel 2026
+- 【推断】Voice 主业店的 Switches 类目=随件替补收录位（voice VLAN/PoE 话机供电场景=天然 PoE 叙事）
+- 【假设】Switches 类目替补收录窄位（Voice VLAN 角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Teltonika Networks（含 TSW 系列交换机））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**Data Networking: Switches 类目 + 牌墙 Avaya/Grandstream/Fanvil/Unify/Yealink/TP-Link/Teltonika/NEC/Patton
   > Data Networking: Switches 类目 + 牌墙 Avaya/Grandstream/Fanvil/Unify/Yealink/TP-Link/Teltonika/NEC/Patton
   > 来源：https://shop.ntsdirect.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美 UC/语音分销（Master Agent)
+- **产品线与在售品牌**：Avaya/Grandstream/Fanvil/Yealink/TP-Link/Teltonika
+- **目标行业与场景**：ITSP/reseller 生态
+- **团队与规模**：中型
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：Master Agent 体系
+- **采购与供应链信号**：分销库存
+- **近期动态与线索**：Fanvil 2026 渠道计划
+- **与我方契合点**：Switches 类目替补（Voice VLAN/PoE 供电场景角）
+- **风险与注意**：Voice 主业——网络位次
 
 ## 产品决策（Saga · 单一决策口径）
 

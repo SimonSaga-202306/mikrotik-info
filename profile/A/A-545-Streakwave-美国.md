@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Streakwave（美无线大 VAD）：9dot power/Baicells/Cambium/CradlePoint/EnGenius/Fanvil/Grandstream/UniFi/MikroTik TikTube/Zyxel 多牌；HubSpot 站体系
+- 【推断】无线大 VAD=集成商/ISP 客户群厚；9dot 电源谱=PoE 供电场景自证
+- 【假设】多牌谱=其 buyer 按场景配货，PoE 接入层随 WISP 单走
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -119,6 +126,19 @@ updated: 2026-09-28
 - **【定位】**无线 VAD 大盘
   > 无线 VAD 大盘
   > 来源：https://www.streakwave.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美无线大 VAD
+- **产品线与在售品牌**：Ubiquiti/Cambium/EnGenius/Baicells/MT/Grandstream 谱
+- **目标行业与场景**：WISP/集成商/企业无线
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales@ 分销 buyer 口
+- **技术与认证**：VAD 培训/方案体系
+- **采购与供应链信号**：多牌账期体系
+- **近期动态与线索**：牌墙持续扩
+- **与我方契合点**：24 口 PoE=无线单随带接入层对照档（$165 锚点一致）
+- **风险与注意**：VAD 体量大——进门线长，先窄针报价
 
 ## 产品决策（Saga · 单一决策口径）
 

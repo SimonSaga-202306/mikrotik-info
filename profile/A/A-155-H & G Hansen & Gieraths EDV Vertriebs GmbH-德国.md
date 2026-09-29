@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】H&G Hansen & Gieraths EDV Vertriebsgesellschaft mbH（德国波恩）：30+ 年跨区域系统屋——Digital Workplace/打印管理 MPS/服务器存储/托管服务；**Aruba ClearPass 主推位（HPE 同盟）**；自有 readIT 杂志+**Kirche und Wohlfahrt（教会与福利事业）细分线**；E-Procurement/会议 IT 服务
+- 【推断】Aruba 同盟=网络接入层有其明确现供；教会/福利细分=德国特色非营利机构段（预算敏感）
+- 【假设】第二供位窄位：教会/福利段的预算线value 件是自然切角（不贬 Aruba 主线）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Als überregionales IT-Systemhaus…seit über 30 Jahren in allen Bereichen der IT zuhause…Kirche und Wohlfahrt”
   > “Als überregionales IT-Systemhaus…seit über 30 Jahren in allen Bereichen der IT zuhause…Kirche und Wohlfahrt”
   > 来源：https://www.hug.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波恩 30 年系统屋（Aruba 同盟+教会福利细分）
+- **产品线与在售品牌**：Aruba/HPE 暗示/M365 生态
+- **目标行业与场景**：企业+教会福利机构
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：伙伴体系
+- **采购与供应链信号**：伙伴目录随单
+- **近期动态与线索**：ClearPass 主推
+- **与我方契合点**：教会/福利段 value 二线
+- **风险与注意**：Aruba 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

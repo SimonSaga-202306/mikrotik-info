@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Interstellar（荷兰 Microsoft 主栈大 MSP）：四域=Cloud&Infra/Workspace/Security/Data&AI；TD SYNNEX Partner of the Year 2026；ISO 27001/B Corp；客户墙含 KLM/Gemeente Katwijk（市政=公共守界）；CSV=Michiel Visser MikroTik 认证顾问在册
+- 【推断】大 MSP 微软栈：网络件边缘位——窄针；公共段（市政）守界句先置
+- 【假设】私营段客户现场的偶发随单窄针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCWE MTCIPv6E MTCINE MTCSE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Eén partner. Vier domeinen——TD SYNNEX Partner of the Year 2026；case: Gemeente Katwijk（公共标注）
   > Eén partner. Vier domeinen——TD SYNNEX Partner of the Year 2026；case: Gemeente Katwijk（公共标注）
   > 来源：https://interstellar.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰微软栈大 MSP
+- **产品线与在售品牌**：Microsoft/TD SYNNEX
+- **目标行业与场景**：企业/公共（守界注）
+- **团队与规模**：大规模组织
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO 27001/B Corp
+- **采购与供应链信号**：集团采购
+- **近期动态与线索**：TD SYNNEX 年度伙伴 2026
+- **与我方契合点**：窄针（私营段，公共守界句在）
+- **风险与注意**：微软栈离轴+公共敏感
 
 ## 产品决策（Saga · 单一决策口径）
 

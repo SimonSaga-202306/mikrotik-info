@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】I&SI SpA（意大利 Roma 法定/Aprilia 运营，1984 起）：'COMPLEX TECHNOLOGY SYSTEMS' 工程/工业软件集成商；SA8000/ISO27001、GHG 报告、反腐政策齐备；官网为幻灯薄站（联系表单+地图）;CSV: info@ingesw.com 由 European Job Days 档案+名录+Crunchbase 三源核得（域内邮箱实锤）
+- 【推断】40+ 年的复杂系统工程主体：薄站低信号——其价值在其 istituzionale 工程项目名单；窄针低密
+- 【假设】工程项目的 value 件低密窄针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【背景再核】**COMPLEX TECHNOLOGY SYSTEMS——Instagram 手柄 isi_spa1984 佐证 1984 年；SA8000/ISO27001/GHG 报告在页
   > COMPLEX TECHNOLOGY SYSTEMS——Instagram 手柄 isi_spa1984 佐证 1984 年；SA8000/ISO27001/GHG 报告在页
   > 来源：https://www.ingesw.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 complex-systems 工程商（1984）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：工业/楼宇工程
+- **团队与规模**：工程主体
+- **决策链与对接人**：info@ 口
+- **技术与认证**：SA8000/ISO27001
+- **采购与供应链信号**：框架工程采购
+- **近期动态与线索**：廉洁政策/环境声明更新
+- **与我方契合点**：低密窄针
+- **风险与注意**：官网薄站证据偏薄已标注
 
 ## 产品决策（Saga · 单一决策口径）
 

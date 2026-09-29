@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Elia Fiumalbo Tino Spadoni (Spadhausen)（意大利）：**Ravenna/Romagna 独立 ISP(est 2008):~7.000 客户，自有 FTTH/FWA 网络（8 市镇）,MANRS certified,NOC/DC POP,4.6/5 Google 618 评；10G FTTH/5G SIM/VoIP**
+- 【推断】自建网 ISP=接入层/机柜/POP 设备持续自采；'MikroTik 类生态位 ISP'谱绝配（MANRS/RouterOS 文化）;PoE 交换=BTS/机柜/接入间高频件
+- 【假设】ISP 机柜/接入层 value PoE 强口（自建网角度）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCEWE）
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【业务定位】**'Dal 2008 ISP indipendente · ~7.000 clienti · MANRS certified · rete di proprietà 8 comuni · FTTH 10G/FWA 300M'
   > 'Dal 2008 ISP indipendente · ~7.000 clienti · MANRS certified · rete di proprietà 8 comuni · FTTH 10G/FWA 300M'
   > 来源：https://www.spadhausen.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意 Romagna 独立 ISP（自有网）
+- **产品线与在售品牌**：自有 FTTH/FWA+wholesale 转售
+- **目标行业与场景**：居民/商客 7.000
+- **团队与规模**：小中型
+- **决策链与对接人**：admin@ 口
+- **技术与认证**：MANRS certified
+- **采购与供应链信号**：NOC+DC POP
+- **近期动态与线索**：5G SIM 2026 新品
+- **与我方契合点**：**接入层/机柜/POP 用 value PoE 强口**（自建网随单）
+- **风险与注意**：区域 ISP 预算纪律严——价格正口
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】lo0 / LoopBack0（西班牙，V. Bolaños）：IT 技术培训厂——Linux/Kubernetes/Python/MikroTik/Huawei/Ubiquiti/Grandstream 全线官方课程+AI-OPS 新课；FUND-=AE 话术（西班牙企业补贴实锤）
+- 【推断】多厂商培训厂（Huawei/Ubiquiti/MikroTik/Grandstream 同墙）=心态最开放的训练通道（CONSULT-OEM，对照单元概率较高）
+- 【假设】其 URSCA（UniFi 交换课）/MTCSWE/Grandstream GCS-RS 课的对照单元——买教具的多厂商心态
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 培训伙伴，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSWE MTCEWE）
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Forma a los ingenieros que el sector necesita: LINUX·KUBERNETES·PYTHON·MIKROTIK·HUAWEI·UBIQUITI——20 años
   > Forma a los ingenieros que el sector necesita: LINUX·KUBERNETES·PYTHON·MIKROTIK·HUAWEI·UBIQUITI——20 años
   > 来源：https://www.lo0.es
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：西班牙多厂商 IT 培训厂
+- **产品线与在售品牌**：多厂商官方课程
+- **目标行业与场景**：企业工程师（FUNDAE 补贴）
+- **团队与规模**：讲师网络（V. Bolaños）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：多厂认证讲师
+- **采购与供应链信号**：课程教具
+- **近期动态与线索**：AI-OPS/ISO 42001 新课
+- **与我方契合点**：多厂商对照窄口（CONSULT-OEM）
+- **风险与注意**：—
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Simone Filippi (Byte Solutions)（意大利）：Bergamo/Lombardia SMB IT 服务：企业连接/3CX 电话/**网络设计**/安全（FlashStart)；认证墙=VoipVoice+3CX+**MikroTik**；客户=木工制造/医疗等本地实业
+- 【推断】网络设计+电话=PoE/Voice VLAN 随单高频场景；MikroTik 认证在墙；实业客户预算敏感
+- 【假设】项目随单正口（PoE/Voice VLAN 场景）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE+MTCEWE）
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**Servizi: Connettività/Centralini VoIP 3CX/Progettazione reti/Sicurezza; 认证： VoipVoice/3CX/MikroTik
   > Servizi: Connettività/Centralini VoIP 3CX/Progettazione reti/Sicurezza; 认证： VoipVoice/3CX/MikroTik
   > 来源：https://bytesolutions.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意 Bergamo SMB IT 服务
+- **产品线与在售品牌**：3CX/VoipVoice/MikroTik 认证
+- **目标行业与场景**：本地实业/医疗 SMB
+- **团队与规模**：小微
+- **决策链与对接人**：info@bytesolutions.it 口
+- **技术与认证**：3CX+MikroTik 双证
+- **采购与供应链信号**：—
+- **近期动态与线索**：实业客户墙证言
+- **与我方契合点**：网络+电话项目 PoE 随单正口
+- **风险与注意**：体量小——低密
 
 ## 产品决策（Saga · 单一决策口径）
 

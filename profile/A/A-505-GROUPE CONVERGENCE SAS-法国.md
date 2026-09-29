@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Convergence Direct（法国）：Convergence Direct 法 B2B 通信店（官方 Ascom+MikroTik 徽标；2336 refs/43 marques；医护呼叫+DECT/耳机主业；28% 当日发）
+- 【推断】医护 DECT 项目常同层 PoE 吪叫/摄像机=类目随单逻辑
+- 【假设】语音医护项目随单对照收录正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**Fournisseur officiel Ascom et Mikrotik + 网络类目 Routeur/Switch
   > Fournisseur officiel Ascom et Mikrotik + 网络类目 Routeur/Switch
   > 来源：https://convergence.direct
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法专业通信 B2B 店（语音尖）
+- **产品线与在售品牌**：Ascom 医护+DECT/耳机+Routeur/Switch+MikroTik 官方徽标
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：contact@convergence.direct 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：语音医护主业旁 network 类目收录对照正口
+- **风险与注意**：语音占大头——交换类目薄
 
 ## 产品决策（Saga · 单一决策口径）
 

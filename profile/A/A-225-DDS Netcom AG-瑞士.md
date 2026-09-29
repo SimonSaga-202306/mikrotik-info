@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DDS Netcom（瑞士 Fehraltorf 8320）：webshop 主售 Hirschmann/Belden（高端工业 L2）+Kyland（Opal 非管理）+Digi 串口；博客主打'旧工控替换/OT 分割'
+- 【推断】工业网络专柜：Hirschmann 之上贵、Kyland Opal 之下缺中档——二线管理型替补在正面并排
+- 【假设】其替换博客叙事的'中端替补'窄口：管理型 STC-424 或 STI-288GP 非管理硬线
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**Webshop: Hirschmann/Belden, Kyland Opal, Digi Serial——Blog: 旧工控设备替换/OT 分割
   > Webshop: Hirschmann/Belden, Kyland Opal, Digi Serial——Blog: 旧工控设备替换/OT 分割
   > 来源：https://webshop.dds.ch
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞士工业网络 webshop
+- **产品线与在售品牌**：Hirschmann/Kyland/Digi
+- **目标行业与场景**：OT/工控替换
+- **团队与规模**：网店主理团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：GHMT 类供货规范
+- **采购与供应链信号**：网店分销
+- **近期动态与线索**：旧工控替换叙事
+- **与我方契合点**：中端替补位（与 Kyland 并排）
+- **风险与注意**：Hirschmann 品牌引力强
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】ALCO Systemhaus（德国 Idstein，1988 年创）：35+ 年系统屋——硬件/软件/服务/融资租赁/**自有 ISO 级机房（光伏自给+余热回收）**；自述“**1990 年代初即在标准厂家产品目录之外提供替代方案**”；客户全程陪伴（咨询/实施/维保）
+- 【推断】“alternative Lösungen neben den standardisierten Herstellerproduktpaletten”=其商业基因就是替代候选——价值位 OEM 件语言完全同频
+- 【假设】自有 DC+光伏=技术玩家型买家：实测级文档说话
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Anfang der 1990er Jahre…alternative Lösungen neben den standardisierten Herstellerproduktpaletten anzubieten…seit über 35 Jahren”
   > “Anfang der 1990er Jahre…alternative Lösungen neben den standardisierten Herstellerproduktpaletten anzubieten…seit über 35 Jahren”
   > 来源：https://www.alcoidstein.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Idstein 35 年系统屋（替代方案基因）
+- **产品线与在售品牌**：全谱 HW/SW（厂牌图墙）
+- **目标行业与场景**：中小企业/区域
+- **团队与规模**：区域系统屋
+- **决策链与对接人**：info@ 口
+- **技术与认证**：自有光伏 DC
+- **采购与供应链信号**：咨询型随单
+- **近期动态与线索**：1MWp 光伏扩建
+- **与我方契合点**：替代方案基因的 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MacSoft Kft.（匈牙利）：WiFi 设计测量/网络设计/服务器运维/IT 咨询/MikroTik 官方培训/系统管理员外包六线；团队含无线→服务器→应用开发
+- 【推断】集成六线+MikroTik 教师副业——网络设计主业使硬件随单真实存在（生态脚踩但主线对口）；beszerzes@=采购专用箱（匈牙利语）
+- 【假设】其网络设计/运维项目的 value PoE 随单（采购箱直达）正位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCIPv6E MTCSE MTCSWE MTCEWE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Hálózattervezés/Hálózat és szerver üzemeltetés/Wifi tervezés/MikroTik oktatás/Rendszergazda
   > Hálózattervezés/Hálózat és szerver üzemeltetés/Wifi tervezés/MikroTik oktatás/Rendszergazda
   > 来源：https://macsoft.hu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈牙利六线集成商
+- **产品线与在售品牌**：—
+- **目标行业与场景**：企业网络设计/运维
+- **团队与规模**：多技能团队
+- **决策链与对接人**：beszerzes@ 采购箱
+- **技术与认证**：MikroTik 官方培训身份
+- **采购与供应链信号**：项目随单（采购箱实锤）
+- **近期动态与线索**：Demján Sándor Program hotel subsidy讲究
+- **与我方契合点**：采购箱直达的 value 随单正口
+- **风险与注意**：MikroTik 培训副业（话术诚实）
 
 ## 产品决策（Saga · 单一决策口径）
 

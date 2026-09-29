@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）
+- 【推断】AltNet 运营商=街柜/MDU/POP 接入小盒与机房接入层是其自运营资产
+- 【假设】其 4 张交换/骨干/安全证（MTCSE+MTCINE+MTCTCE）=其公司网络底程以 MikroTik 为骨架，接入层小盒有对话空间
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCTCE MTCINE MTCSE）
@@ -149,6 +156,19 @@ updated: 2026-09-28
 - **【联系方式】**+44 3331 020000；MX=O365 存活（internetty-uk.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）
   > +44 3331 020000；MX=O365 存活（internetty-uk.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://internetty.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国全光纤 AltNet（家庭/企业/VoIP）
+- **产品线与在售品牌**：全光纤宽带+digital landline
+- **目标行业与场景**：英国家庭/中小企业宽带
+- **团队与规模**：小型 AltNet
+- **决策链与对接人**：Benjamin Wragg（网传 4 证）
+- **技术与认证**：MTCRE+MTCTCE+MTCINE+MTCSE
+- **采购与供应链信号**：自运营网络接入层
+- **近期动态与线索**：Trustpilot 100+ 五星常态增长
+- **与我方契合点**：POP/街柜接入小盒
+- **风险与注意**：无公开邮箱走热线
 
 ## 产品决策（Saga · 单一决策口径）
 

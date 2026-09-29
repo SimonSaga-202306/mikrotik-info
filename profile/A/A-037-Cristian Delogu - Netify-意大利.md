@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Netify（Lodi，伦巴第）：安防系统集成商——物理安防（报警/视频/闸机/门禁）+网络安全+网络基础设施+统一通信；内部有 MikroTik 认证 Trainer（Cristian Delogu）开 MikroTik 培训线；伙伴墙：Cambium/Kalliope/Sophos/Nedap/MikroTik/Zucchetti Axess
+- 【推断】安防集成本质=PoE 摄像头/门禁/闸机的供电接入层大户；培训线证明内生网络教研能力
+- 【假设】self-reception/酒店接待类博文显露其向酒店智能场景延展
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE）
@@ -151,6 +158,19 @@ updated: 2026-09-28
 - **【联系方式】**cristian.delogu@netify.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > cristian.delogu@netify.it（CSV）；MX=aspmx.l.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.netify.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Lodi 安防系统集成商（物理+网络+UC）+内编 MikroTik 培训
+- **产品线与在售品牌**：Cambium/Kalliope/Sophos/Nedap/MikroTik/Zucchetti Axess
+- **目标行业与场景**：企业安防（监控/门禁/闸机）+网络+UC；酒店 self-reception 方向
+- **团队与规模**：本地中型；Trainer 内编
+- **决策链与对接人**：Cristian Delogu（MTCNA+MTCRE+MTCSE Trainer 直达）
+- **技术与认证**：MTCNA+MTCRE+MTCSE；Sophos/Nedap 伙伴
+- **采购与供应链信号**：安防项目 PoE 接入层常备
+- **近期动态与线索**：博客活跃（self-reception 酒店场景、视频分析）
+- **与我方契合点**：PoE 摄像头/门禁供电接入层是其每单基础件
+- **风险与注意**：价格敏感的本地项目制；工程语言
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SSC – Software Servizi Consulting Srl（意大利 Milano 法座+Padova/Lecce 投送，1970 家族根源，ISO 9001：2015）：**软件开发主线**（分析/DBMS/工业研发项目）+IT 运维辅助（1°/2° 级）+**GIS/地理信息/BIM CAD**+卫生服务（CUP 预约/报表/rendicontazioni=国民卫生体系行政包干）;**“presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP”自述实锤**
+- 【推断】**MEPA-CONSIP 实锤+卫生体系服务+软件咨询主线=公共深度染合**；网络/硬件不在其能力四域里
+- 【假设】BIM/GIS 业务底=工程算力工作站内部网，非项目对外件——真正触点变得极薄
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
   > “è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
   > 来源：http://www.ssc.srl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Milano 软件/卫生行政商（MEPA-CONSIP 实锤）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：PA+卫生（主体，守界）
+- **团队与规模**：中型三地
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO9001:2015
+- **采购与供应链信号**：公共招标体系
+- **近期动态与线索**：—
+- **与我方契合点**：几乎无网络件对口——**本批最低触点，信内诚实钉或bitskip**
+- **风险与注意**：公共主权
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MPI Technologies（瑞士）：MPI 瑞士 1992 IIoT 技术分销（Computing/Mobile/Display/Network/System 五板；MPL rugged 兄弟+Bibus 集团；100% 瑞士造）
+- 【推断】高门槛瑞士造→价值档替补=第二报价逻辑
+- 【假设】IIoT 谱旁 value 工业档窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：ORing）
@@ -116,6 +123,19 @@ updated: 2026-09-28
   > Network Solutions rugged + MPL/Bibus 集团 + 100% Swiss made
   > 来源：https://mpi.ch
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞士 1992 IIoT 技术分销
+- **产品线与在售品牌**：Computing/Mobile/Display/Network/System 五板+MPL rugged
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@mpi.ch 口
+- **技术与认证**：工业谱（官网类目）
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：IIoT 五板谱旁 value 工业档窄位（瑞士自产档旁）
+- **风险与注意**：瑞士造高门槛-需 EXW 合
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -177,7 +197,7 @@ Hi MPI team,
 
 Since 1992 MPI has built Swiss-rugged computing and network solutions - the 100% Swiss-made badge sets the bar, and project pricing still needs a documented value benchmark
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: for the network-solution projects where Swiss-made rugged is beyond the budget line, would you keep one documented industrial PoE value unit as the second quote?
 

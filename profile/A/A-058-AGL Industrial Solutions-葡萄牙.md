@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AGL（Guedes Lopes，葡萄牙）：工业计算/Edge AI/触控/网络分销——AAEON BOXER 全系、Arbor（含 AEC-4201 Jetson Orin NX 4×PoE+ 机载视觉平台）、Aetina、NVIDIA DGX Spark；工业通信类目显式含 Ethernet·PoE·Wireless·Serial；八解法列：安防监控（Vídeo·PoE·Processing）在册；葡语技术支持+BTO 装配
+- 【推断】机器视觉/安防两线都吞 PoE 尾头（相机/传感）：其 4×PoE+ 视觉机旁需要再上游的供电交换层；CSV：Antaira 盘在位
+- 【假设】其 Shopify 电商化目录+葡语技术支持=上架型分销，SKU 准入路径短
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira）
@@ -149,6 +156,19 @@ updated: 2026-09-28
 - **【联系方式】**geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://guedeslopes.pt/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：葡萄牙工业计算/Edge AI 分销（视觉/安防 PoE 尾头两大主线）
+- **产品线与在售品牌**：AAEON/Arbor/Aetina/NVIDIA+Antaira（CSV）
+- **目标行业与场景**：自动化/视觉/安防监控/医疗/车载
+- **团队与规模**：电商化目录分销
+- **决策链与对接人**：geral@ 口
+- **技术与认证**：BTO 装配服务
+- **采购与供应链信号**：目录上架+RFQ
+- **近期动态与线索**：2026-08 新视觉站+NVIDIA DGX Spark/Arbor 新品
+- **与我方契合点**：视觉/安防 PoE 供电上游
+- **风险与注意**：营造“4×PoE+ 机上游”位，不当其视觉机竞品
 
 ## 产品决策（Saga · 单一决策口径）
 

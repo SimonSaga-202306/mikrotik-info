@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Nabacom srl（意大利南部，CSV 载 Allied Telesis 信号）：技术集成商——H24/365 值守运维（networking/fonia/server/安全/endpoint/视频监控/铜缆光纤 LAN 与广域网）；**网络线：路由/SDWAN/交换/Wi-Fi/铜缆光纤布线认证/土建/楼宇自动化/门禁 设计供货安装配置全包**；视频监控（含热成像+AI 分析+控制室）；数据中心交钥匙；与大学合作远程医疗研发
+- 【推断】“交换/Wi-Fi/布线 设计供货安装”自述=接入交换机是其供货 BOM 基础件——直接对口；H24 值守文化=可靠性话术有效
+- 【假设】远程医疗研发+热成像监控=方案前卫的集成商，对文档齐全的候选件开放评
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“PROGETTAZIONE, FORNITURA, INSTALLAZIONE E CONFIGURAZIONE…SWITCH – WI.FI – CABLAGGIO IN RAME ED IN FIBRA OTTICA…PRESIDI TECNICI…IN H24 365GG”
   > “PROGETTAZIONE, FORNITURA, INSTALLAZIONE E CONFIGURAZIONE…SWITCH – WI.FI – CABLAGGIO IN RAME ED IN FIBRA OTTICA…PRESIDI TECNICI…IN H24 365GG”
   > 来源：https://www.nabacom.it/facciamo/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意南部技术集成（H24 值守）
+- **产品线与在售品牌**：路由/SDWAN/交换/Wi-Fi/布线（CSV Allied 信号）
+- **目标行业与场景**：企业/机构/医疗研发
+- **团队与规模**：中型全栈
+- **决策链与对接人**：info@ 口
+- **技术与认证**：布线认证级
+- **采购与供应链信号**：供货安装一体
+- **近期动态与线索**：远程医疗研发线
+- **与我方契合点**：接入交换供货位（直接对口）
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

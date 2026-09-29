@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】5G IT Service GmbH（德国 NRW Kreis Borken / IDPM 园区）：区域整体 IT 服务商——咨询/概念/实施/运维一站式；团队 15+ 人全员头像具名（Falk Kappenhagen、Jens Tarraschewski 等）；**伙伴墙实版：Ruckus、Acronis、Sophos、Allied Telesis、Microsoft、enreach、VMware**；参考客户 Wiesehoff/Faserfreunde/Ruthmann/Bewital/FC Bocholt
+- 【推断】**Allied Telesis 伙伴身份官网实版印证**=交换接入层有其明确现供——对标替代位对话成立（第二供位，不自贬在位）
+- 【假设】“Starke Partner…zertifizierte Mitarbeiter”文化=德式严谨，认证书级文档+实测报告
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Starke Partner…zertifizierte Mitarbeiter aus Vertrieb und Technik…[Allied Telesis][Ruckus][Sophos]…”
   > “Starke Partner…zertifizierte Mitarbeiter aus Vertrieb und Technik…[Allied Telesis][Ruckus][Sophos]…”
   > 来源：https://www.5g-it.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：NRW 区域整体 IT 商（伙伴认证文化）
+- **产品线与在售品牌**：Ruckus/Sophos/**Allied Telesis（实版）**/enreach
+- **目标行业与场景**：地区企业/食品/物流/体育俱乐部
+- **团队与规模**：15+ 区域商
+- **决策链与对接人**：info@+具名团队
+- **技术与认证**：伙伴认证体系
+- **采购与供应链信号**：伙伴目录随单
+- **近期动态与线索**：团队扩编可见
+- **与我方契合点**：Allied 在位下的第二供位 value 线
+- **风险与注意**：代理关系绑定
 
 ## 产品决策（Saga · 单一决策口径）
 

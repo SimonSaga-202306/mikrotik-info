@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MBSI WAV（加拿大）：MBSI WAV: **加拿大 WISP/ISP 无线设备大分销**（南 AB 等省）:Ubiquiti 官方主推+MikroTik RDS/Cambium ePMP/Tarana 6GHz/**BABA-compliant 徽标**（Build America Buy America!)/自有牌 Cyclone 浪涌抑制+LightSaber 机柜；SuiteCommerce 大店
+- 【推断】**BABA 徽标=公购单线存在：守界句必压**（公购段守其认证路径）；私营 WISP 段替补对照正口；自有牌心态（Cyclone)=OEM 熟
+- 【假设】私营 WISP 段对照行（BABA 公购守界句；自牌心态同频）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'Canada's Top Wireless Equipment Distributor For WISP & ISP' + BABA-compliant 徽标 + Cyclone 自牌
   > 'Canada's Top Wireless Equipment Distributor For WISP & ISP' + BABA-compliant 徽标 + Cyclone 自牌
   > 来源：https://www.mbsiwav.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：加 WISP/ISP 大分销
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Cambium/Tarana+自牌 Cyclone
+- **目标行业与场景**：WISP/ISP/集成
+- **团队与规模**：大型
+- **决策链与对接人**：sales@mbsiwav.com 口
+- **技术与认证**：BABA-compliant 徽标
+- **采购与供应链信号**：多级分销
+- **近期动态与线索**：Tarana 6GHz 谱
+- **与我方契合点**：私营段对照行（公购守界句）
+- **风险与注意**：**BABA=公购线存在**——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】WISP.PL（波兰）：**Poznań 著名 WISP 装备大店分销+MBUM #11(MikroTik Beer User Meeting）主办方**:MikroTik/Ubiquiti/Teltonika/TP-Link/Cudy/Solarix/**Scodeno 工业交换（switche przemysłowe)**/USR-IoT LoRa
+- 【推断】工业交换类目已被 Scodeno 开=品类口子实存；大牌墙深=替补收录最自然（我们=第二选择对照行）
+- 【假设】双角：商业 PoE 替补+工业件二轨（Scodeno 旁诚实对照）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -117,6 +124,19 @@ updated: 2026-09-28
 - **【在售品牌】**牌墙：MikroTik/Ubiquiti/Teltonika/Cudy/Solarix/Scodeno-switche przemysłowe；MBUM #11 主办
   > 牌墙：MikroTik/Ubiquiti/Teltonika/Cudy/Solarix/Scodeno-switche przemysłowe；MBUM #11 主办
   > 来源：https://www.wisp.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰 WISP 装备大分销（Poznań)
+- **产品线与在售品牌**：MikroTik/Ubiquiti/Teltonika/Cudy/**Scodeno 工业交换**
+- **目标行业与场景**：WISP/集成商/工业客
+- **团队与规模**：中型
+- **决策链与对接人**：sklep@ 口
+- **技术与认证**：MBUM 主办方
+- **采购与供应链信号**：大库存店
+- **近期动态与线索**：2026-09 新闻流活跃
+- **与我方契合点**：**双角**:STC-424 替补+STI-288GP 工业件（Scodeno 类目已开）
+- **风险与注意**：大牌墙极深——对照行定位须诚实
 
 ## 产品决策（Saga · 单一决策口径）
 

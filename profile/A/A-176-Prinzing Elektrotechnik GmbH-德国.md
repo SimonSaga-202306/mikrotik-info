@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Prinzing Elektrotechnik GmbH（德国 Eislingen，斯瓦比亚，30+ 年创于 Volker Prinzing）：**600+ 员工/80 培训生/€80M（2024）的电气技术巨头中型**——电气技术+楼宇技术（Erlangen）+eTech Schaltanlagenbau 控制柜厂（Gotha）；全国（Aalen/Eislingen/Frankfurt/Erlangen）；双掌门 **Volker Prinzing（创始人）+Yasin Erdogan（2017 起掌门）具名**；WAGO 伙伴（Building Security Talk 2026）
+- 【推断】600 人电气承包级+控制柜厂+Azubi 体系=项目随单件大口径；双掌门具名+活跃公众感=决策人直触
+- 【假设】其 Building Security Talk 2026（WAGO 同台）=主动生态姿态，厂商关系窗口开
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“über 600 Mitarbeitern einen sicheren und zukunftsorientierten Arbeitsplatz…zu den führenden Spezialisten in der Elektrotechnik…Volker Prinzing und Yasin Erdogan…bilden eine schlagkräftige Doppelspitze”
   > “über 600 Mitarbeitern einen sicheren und zukunftsorientierten Arbeitsplatz…zu den führenden Spezialisten in der Elektrotechnik…Volker Prinzing und Yasin Erdogan…bilden eine schlagkräftige Doppelspitze”
   > 来源：https://www.prinzing-elektro.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯瓦比亚 600 人电气承包巨头（全国+控制柜厂）
+- **产品线与在售品牌**：WAGO 伙伴同台
+- **目标行业与场景**：楼宇/工商项目全谱
+- **团队与规模**：600+/€80M
+- **决策链与对接人**：Volker Prinzing+Yasin Erdogan 具名
+- **技术与认证**：师傅级体系
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：Building Security Talk 2026
+- **与我方契合点**：楼宇项目弱电接入随单（量大）
+- **风险与注意**：规模级供应商准入门槛
 
 ## 产品决策（Saga · 单一决策口径）
 

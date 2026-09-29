@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】DACC Europe Ltd（英国伦敦港区）：25 年综合布线/网络设施集成商——结构布线、机电、**数据中心线**、托管服务、**铁路专业部（FORS & RISQS 认证=公共铁路系红线）**；客户案例：全球银行（卢森堡/布鲁塞尔/法兰克福）/制药/汽车/学院；全球办（UK/EU/UAE/USA）；ISO 9001+14001；领导层具名完整（CEO Shkodrov/FD Matharu/COO Yearwood/商务总监 Grace/技术总监 Long）
+- 【推断】其铁路部=公共系红线；布线+数据中心+大企业（银行/制药）=接入层线缆上端 active 件的工程随单位
+- 【假设】“manufacturer-independent（厂商中立）”自述=对候选件开放评——这是进函角度
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -145,6 +152,19 @@ updated: 2026-09-28
 - **【业务定位】**“fully manufacturer-independent…impartial and tailored solutions…FOR & RISQS approved Railway Division and Data Centre Division”
   > “fully manufacturer-independent…impartial and tailored solutions…FOR & RISQS approved Railway Division and Data Centre Division”
   > 来源：https://www.dacceurope.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：伦敦 25 年布线/DC/托管集成商（厂商中立）
+- **产品线与在售品牌**：布线/M&E/DC/托管（铁路部红线）
+- **目标行业与场景**：银行/制药/汽车/数据中心（铁路段守界）
+- **团队与规模**：中型全球办
+- **决策链与对接人**：Tony Grace（商务总监）/站点 contact
+- **技术与认证**：ISO 9001+14001
+- **采购与供应链信号**：大项目工程指定
+- **近期动态与线索**：持续年增案例
+- **与我方契合点**：厂商中立语境下的 active 层候选
+- **风险与注意**：铁路公共红线
 
 ## 产品决策（Saga · 单一决策口径）
 

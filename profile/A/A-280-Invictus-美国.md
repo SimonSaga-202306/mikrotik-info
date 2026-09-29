@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Invictus Wireless（美国）：无线/网络/监控网店——Indoor/Outdoor/Surveillance&Access 三分区，在售 Ubiquiti 全簇（UISP-CONSOLE/UniFi 相机等 '$89.00 SPECIAL PRICE' 促销）；CSV=Netonix 授权渠道
+- 【推断】WISP 网店、价格敏感促销口径：Ubiquiti+Netonix 旁的 value PoE 上架窄口
+- 【假设】其客群（WISP/监控安装商）的替换价窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Networking, Security & Wireless——SHOP: Indoor/Outdoor/Surveillance&Access；UISP-CONSOLE $89 SPECIAL PRICE
   > Networking, Security & Wireless——SHOP: Indoor/Outdoor/Surveillance&Access；UISP-CONSOLE $89 SPECIAL PRICE
   > 来源：https://www.invictuswireless.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美国无线网络网店
+- **产品线与在售品牌**：Ubiquiti 领衔+Netonix 渠道
+- **目标行业与场景**：WISP/监控安装群
+- **团队与规模**：网店团队
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：网店上架
+- **近期动态与线索**：SPECIAL PRICE 促销体系
+- **与我方契合点**：价格替换窄位（Netonix 旁前句）
+- **风险与注意**：Ubiquiti 浓度高（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 决策链 | 短（本人即决策） | 【推断】 |
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】EAC Network Solutions（英国白金汉郡）：20 年托管 IT——教育（含 Princethorpe Foundation 私立教育集团）、制造、专业服务段；托管支持+Sophos 安全+vCIO+基础设施；{first}.{last}@ 邮箱格式（CSV 注）
+- 【推断】私立学校教育+制造这两条段都是日常 PoE 接入层高频（校园 Wi-Fi/安防+产线边缘）
+- 【假设】其托管客群翻修滚动=框架小批量
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【目标行业】**“education, manufacturing, and professional services…Princethorpe Foundation”
   > “education, manufacturing, and professional services…Princethorpe Foundation”
   > 来源：https://eac-ns.co.uk/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：白金汉郡托管 IT（教育/制造/专业服务）
+- **产品线与在售品牌**：Sophos+托管栈
+- **目标行业与场景**：私立教育/制造/商服
+- **团队与规模**：本地中型 MSP
+- **决策链与对接人**：enquiry@ 口
+- **技术与认证**：业认认证团队
+- **采购与供应链信号**：托管项目随单
+- **近期动态与线索**：案件引述常态
+- **与我方契合点**：校园/厂内接入层
+- **风险与注意**：公立教育自动守边界
 
 ## 产品决策（Saga · 单一决策口径）
 

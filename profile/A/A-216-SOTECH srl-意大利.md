@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SOTECH srl（意大利 Brescia 布雷西亚，团队 20 年 know-how）：**MSP 结构明确**——Servizi Gestiti 24/7 监控/咨询（HW/SW fornitura+file audit+reti nuova installazione）/Business Continuity/Backup on-premise e cloud/**Fornitura hardware（PMI 小站到大厂 IT 部门两侧自述）**；**团队四人全具名：Luca Paganin/Stefano Ferrari/Stefano Rolfi/Andrea Vanelli**；Sotech 自己说“recente ma i suoi professionisti no”
+- 【推断】**“Fornitura hardware PMI 大企两侧”+reti nuova installazione 自述=het 关键随单服务块**；MSP 月费模式=其设备全生命周期运营+鳍网责任→value 件管理成本优势直接挂钩其 SLA 成本
+- 【假设】Brescia 机械谷的 PMI 客户=工位/办公混合场景增支大热
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【业务定位】**“Servizi gestiti…monitoraggio 24/7…Fornitura hardware: Gestione server e workstation per PMI con poche postazioni, per grandi aziende con reparto IT interno…nuova installazione reti di computer”
   > “Servizi gestiti…monitoraggio 24/7…Fornitura hardware: Gestione server e workstation per PMI con poche postazioni, per grandi aziende con reparto IT interno…nuova installazione reti di computer”
   > 来源：https://www.sotech.srl/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Brescia MSP（HW fornitura 为菜单核心块）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：Brescia 机械谷 PMI 小站→大企 IT 部两侧
+- **团队与规模**：四人具名
+- **决策链与对接人**：Luca Paganin 具名核心
+- **技术与认证**：—
+- **采购与供应链信号**：**HW fornitura 自述=餐厅主动买货**
+- **近期动态与线索**：24/7 监控上线
+- **与我方契合点**：MSP 的 fornitura 块 value 量件（$165 锚点直接对 PMI 报价结构）
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Dipole Wireless Communication（以色列）：Dipole(IL):**Ubiquiti/MikroTik/Compex/Wouxun/L-com 官方进口商**（老练无线分销，希伯来语站；5G ATL/辐射计架）;销售箱 dipole-ltd.com
+- 【推断】官方进口渠道=已有两大牌的主档；替补档只留窄位（价值档与其授权位互补）
+- 【假设】授权档旁 value 档窄位（诚实互补角）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -115,6 +122,19 @@ updated: 2026-09-28
 - **【业务定位】**'יבואנית רשמית UbiquiTi Networks, MikroTik, Compex, Wouxun, L-com' 官方进口商自述
   > 'יבואנית רשמית UbiquiTi Networks, MikroTik, Compex, Wouxun, L-com' 官方进口商自述
   > 来源：https://www.dipole.co.il
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：以 Ubiquiti/MikroTik 官方进口商
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Compex/L-com
+- **目标行业与场景**：无线装维/ISP
+- **团队与规模**：中型
+- **决策链与对接人**：sales@dipole-ltd.com 口
+- **技术与认证**：官方进口权
+- **采购与供应链信号**：—
+- **近期动态与线索**：5G ATL 架
+- **与我方契合点**：授权档旁 value 档窄位
+- **风险与注意**：官方档优先——窄位
 
 ## 产品决策（Saga · 单一决策口径）
 

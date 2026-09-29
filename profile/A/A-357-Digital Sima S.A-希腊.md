@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Digital Sima S.A（希腊）：希腊分销/MSP:**Allied Telesis 专页**+Juniper/Zyxel/WatchGuard/Kaspersky/Infortrend/Barracuda;**2×Tier III DC 云底+SecureOffice 品牌**;Veeam 技术 DR
+- 【推断】AT 专页+MSP 自营双角：组合分销逻辑内替补缝+自有云项目随单件缝
+- 【假设】替补缝+随单双角窄位（AT 旁前句）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【在售品牌】**Οίκοι: Allied Telesis 专页 + Juniper/Zyxel/WatchGuard/Kaspersky/Infortrend/Barracuda; 2×Tier III DC
   > Οίκοι: Allied Telesis 专页 + Juniper/Zyxel/WatchGuard/Kaspersky/Infortrend/Barracuda; 2×Tier III DC
   > 来源：https://www.digitalsima.gr
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：希腊分销/MSP 双业态
+- **产品线与在售品牌**：**AT 专页**+Juniper/Zyxel/WatchGuard 等
+- **目标行业与场景**：企业转售+自托管
+- **团队与规模**：中型
+- **决策链与对接人**：sales@ 口
+- **技术与认证**：Tier III DC×2
+- **采购与供应链信号**：分销+云池
+- **近期动态与线索**：WatchGuard 2026 webinar 活跃
+- **与我方契合点**：替补缝+自有项目随单双角
+- **风险与注意**：AT 主推——前句守界
 
 ## 产品决策（Saga · 单一决策口径）
 

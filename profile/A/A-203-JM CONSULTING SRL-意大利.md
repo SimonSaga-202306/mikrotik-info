@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】JM CONSULTING SRL（意大利）：咨询主线——“INNOVATION WIND”数字化/ERP/AI 业务转型咨询；四区 ERP Solution/AI & Digital Transformation/**IT Service**/Printing；行业 food（食品）/logistics（物流）/manufacturing（制造）/retail/fashion/oil&gas；IT Service 区自述“infrastruttura sistemistica adeguata”
+- 【推断】数字化顾问主线：IT Service 支线里的基础设施随单=窄位低优先
+- 【假设】其行业客户（食品/制造/物流/oil&gas 中游）=工业场景潜景，但采购权责边界未明
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Strategie aziendali per l’innovazione e la competitività…ERP Solution / AI & Digital Transformation / IT Service / Printing…settori: food, logistics, manufacturing…”
   > “Strategie aziendali per l’innovazione e la competitività…ERP Solution / AI & Digital Transformation / IT Service / Printing…settori: food, logistics, manufacturing…”
   > 来源：https://jmconsulting.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：数字化/ERP 咨询（IT Service 支线）
+- **产品线与在售品牌**：ERP/AI
+- **目标行业与场景**：食品/物流/制造/零售/时尚
+- **团队与规模**：中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：咨询级
+- **采购与供应链信号**：咨询项目随单
+- **近期动态与线索**：AI 线
+- **与我方契合点**：IT Service 基础设施随单窄位（低优先）
+- **风险与注意**：咨询主线
 
 ## 产品决策（Saga · 单一决策口径）
 

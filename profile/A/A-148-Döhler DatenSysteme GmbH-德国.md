@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Döhler DatenSysteme GmbH（德国科隆 Lindenthal，30+ 年）：PC/服务器定制+企业 IT 长期维保系统屋；**品牌墙实版含 Allied Telesis**（Eizo/Dell/Asus/HP/Lenovo/NEC/Microsoft 等同墙）；具名领导 Dipl.-Ing. Klaus Döhler+Manfred Eßer；客户：保险/法律/教育+中小企业
+- 【推断】**Allied Telesis 品牌墙实版**=交换接入有其明现供——第二供位对话成立（承认在位不自贬）
+- 【假设】“ehrbar gearbeitet（诚信经营）”口碑文化+定制基因=文档齐全的 value 件有评测门
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
   > “Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
   > 来源：https://dds-computer.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：科隆 30 年系统屋（Allied 实版在墙）
+- **产品线与在售品牌**：**Allied Telesis**/Dell/Asus/HP/NEC 等
+- **目标行业与场景**：保险/法律/教育/中小企业
+- **团队与规模**：区域中型
+- **决策链与对接人**：kontakt@+Döhler/Eßer
+- **技术与认证**：定制级
+- **采购与供应链信号**：品牌墙随单
+- **近期动态与线索**：—
+- **与我方契合点**：Allied 在位下第二供位 value 线
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

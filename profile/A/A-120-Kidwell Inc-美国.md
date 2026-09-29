@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Kidwell Inc（内布拉斯加 Lincoln）：**75+ 年**技术设计集成商——视频监控/门禁/数据布线/电气承包/商务电话/A/V/虚拟建造（BIM);**客群：学校、医院、机场、企业、医疗**；自有电商 cart 页；校招/承建文化
+- 【推断】75 年+电气承包+弱电一体=项目随单接入柜量大且稳定；学校/医院/机场段预算审批规范但常规商用
+- 【假设】“ONE TEAM ONE CALL”交钥匙文化=交钥匙 BOM 中接入层 value 件最能帮其压价中标
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“More Than 75 Years of Expertise…empowers schools, hospitals, airports and corporations…ONE TEAM ONE CALL”
   > “More Than 75 Years of Expertise…empowers schools, hospitals, airports and corporations…ONE TEAM ONE CALL”
   > 来源：https://www.kidwellinc.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：内布拉斯加 75 年弱电+电气一体集成
+- **产品线与在售品牌**：监控/门禁/布线/电气/AV（Allied 信号）
+- **目标行业与场景**：学校/医院/机场/企业
+- **团队与规模**：区域中大型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：75 年+BIM
+- **采购与供应链信号**：交钥匙 BOM
+- **近期动态与线索**：电商 cart 常态
+- **与我方契合点**：交钥匙 BOM 接入层 value 位
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Stovaris Sp. z o.o.（华沙 VAD 分销，自90s）：伙伴墙=Toshiba/TrippLite/Vertiv/TEKTELIC/advantech/Sangfor/Veeam/Barracuda 等；医疗影像（Embitron)+DC+存储+无线+工业/IoT 板块
+- 【推断】分销商等宽通道守界前句+无线/工业两窄口——TEKTELIC/Advantech 处存在工业/IoT 接件口
+- 【假设】其二轨价值槽或工业 PoE 替补位窄口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**Partners: Toshiba, Tripp Lite, Vertiv, TEKTELIC, Advantech, Sangfor, Veeam, Barracuda——医影/DC/存储/无线/工业IoT
   > Partners: Toshiba, Tripp Lite, Vertiv, TEKTELIC, Advantech, Sangfor, Veeam, Barracuda——医影/DC/存储/无线/工业IoT
   > 来源：https://stovaris.pl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：华沙 VAD（自90s）
+- **产品线与在售品牌**：多伙伴墙（东芝/Vertiv/Advantech 等）
+- **目标行业与场景**：医疗/DC/工业/无线
+- **团队与规模**：分销团队
+- **决策链与对接人**：esklep@→采购引见
+- **技术与认证**：—
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：—
+- **与我方契合点**：工业/IoT 窄口+二轨槽
+- **风险与注意**：SKU 主权强——守界前句
 
 ## 产品决策（Saga · 单一决策口径）
 

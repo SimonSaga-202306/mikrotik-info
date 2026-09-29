@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/esprinet）=Esprinet 前端分销零售模型；ISO 认证
+- 【推断】**上游 Esprinet 直连**——其议价链长、上架决定可能不在其手；其“antinfortunistica/cassetta”电工类旁的网络类目有 value 上架缝但带宽窄
+- 【假设】MEPA 专职口=公共采购是其业务线（守界）；私营窄位=其 cablaggio/电工类目旁的 value 上架位，低优先
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Soluzioni per la Pubblica Amministrazione…[catalog categories:] cablaggio, elettricità, telefonia…[上游迹:] fornitori/RCS/esprinet（商品图源）”
   > “Soluzioni per la Pubblica Amministrazione…[catalog categories:] cablaggio, elettricità, telefonia…[上游迹:] fornitori/RCS/esprinet（商品图源）”
   > 来源：https://www.evergreen1.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：目录式电商（Esprinet 前端+PA 守界）
+- **产品线与在售品牌**：目录全谱
+- **目标行业与场景**：B2B2C+PA（守界）
+- **团队与规模**：小型
+- **决策链与对接人**：mepa@ 口
+- **技术与认证**：ISO
+- **采购与供应链信号**：下拉 Esprinet
+- **近期动态与线索**：促 70% banner
+- **与我方契合点**：cablaggio 类目旁 value 上架缝（窄位低优先）
+- **风险与注意**：上游依赖
 
 ## 产品决策（Saga · 单一决策口径）
 

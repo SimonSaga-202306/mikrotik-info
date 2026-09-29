@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络
+- 【推断】Fieldbus 通信+Red Lion 盘表+HMS 全家=其工业通信线成形；温宽 PoE 是随其传感/控制单的补件
+- 【假设】Cleveland 老线分销；其 Drive 带 Web/Ethernet 通信选件皆需接入层
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：N-Tron + Red Lion + Anybus + Ewon）
@@ -147,6 +154,19 @@ updated: 2026-09-28
 - **【联系方式】**sales@jashomer.com 216-221-4157；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > sales@jashomer.com 216-221-4157；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://jashomer.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：克利夫兰工控分销（传感+驱动+盘表+通信）
+- **产品线与在售品牌**：Red Lion/N-Tron/HMS+Yaskawa/Baldor/Leeson
+- **目标行业与场景**：制造/自动化
+- **团队与规模**：地区老分销
+- **决策链与对接人**：Charles Zaugg（CSV）sales@
+- **技术与认证**：Fieldbus/驱动全链
+- **采购与供应链信号**：常规随单
+- **近期动态与线索**：站常态化
+- **与我方契合点**：其 Fieldbus 盘旁的温宽 PoE 补件
+- **风险与注意**：老分销重关系节奏
 
 ## 产品决策（Saga · 单一决策口径）
 

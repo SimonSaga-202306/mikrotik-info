@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】AccessPoint Kft.（匈牙利）：AccessPoint Kft.:**匈 B2B 批发大分销（shop.accesspoint.eu)+集团 biztributor 安全分销姊妹**;品牌全墙 Ubiquiti/MikroTik/Cambium/TP-Link/Teltonika/RACOM/SAF/Belden(Hirschmann)/CCS/Fibrain/Delta/**Procet（中国 PoE 牌）**/Mean Well/Halny;PWR 类目含 'PoE switch';OT 工业类专区
+- 【推断】PWR 类目含 PoE switch+Procet 谱=交换件口子已开；OT 工业专区（Teltonika/Belden)=工业件备选；大型分销=文档/合规正中
+- 【假设】PWR 类目 value 对照正口+OT 工业件备选（双轨）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master））
@@ -114,6 +121,19 @@ updated: 2026-09-28
 - **【产品线】**PWR - Power Supply: 'PoE switch, PDU, 802.3af/at/bt' 类目 + 品牌墙 Procet/Delta/Mean Well + OT Networking 专区
   > PWR - Power Supply: 'PoE switch, PDU, 802.3af/at/bt' 类目 + 品牌墙 Procet/Delta/Mean Well + OT Networking 专区
   > 来源：https://accesspoint.hu
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：匈大型 B2B 批发分销（集团）
+- **产品线与在售品牌**：Ubiquiti/MikroTik/Teltonika/Belden/Procet 全墙
+- **目标行业与场景**：转售/集成/ISP
+- **团队与规模**：中大型
+- **决策链与对接人**：info@accesspoint.hu 口
+- **技术与认证**：集团结构 biztributor 姊妹
+- **采购与供应链信号**：多级分销
+- **近期动态与线索**：2026 牌墙扩张
+- **与我方契合点**：**PWR 类目 value 对照正口**+OT 工业件备选
+- **风险与注意**：牌墙极深——对比战直接
 
 ## 产品决策（Saga · 单一决策口径）
 

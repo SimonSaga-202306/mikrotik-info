@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Winncom EMEA（爱尔兰）：Winncom 爱尔兰 EMEA 大 VAD(Tarana/Intracom/SIAE/MikroTik Overstock/Mimosa/Proxim/Nomadix/Nokia；协会墙 CANWISP/UKWISPA/FBA)
+- 【推断】Overstock 大促=价敏感基因；VAD RFQ 表=对照行位置
+- 【假设】大 VAD 对照行正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**MikroTik Overstock Sale + Tarana/SIAE promotion wall
   > MikroTik Overstock Sale + Tarana/SIAE promotion wall
   > 来源：https://www.winncom.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：EMEA 无线大 VAD
+- **产品线与在售品牌**：Tarana/SIAE/Intracom/Mimosa/Proxim/Nomadix/Nokia/MikroTik
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：sales.emea@winncom.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：MikroTik Overstock+牌墙大促旁 value 对照正口
+- **风险与注意**：VAD 规矩严-管线长
 
 ## 产品决策（Saga · 单一决策口径）
 

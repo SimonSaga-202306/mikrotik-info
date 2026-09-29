@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Bitmagic（Alessandro Del Ferro）：bitmagic.it 官网「Sito in costruzione」（休眠重建中）；CSV 载 MikroTik 顾问 8 证（含 MTCSWE+MTCEWE 双高阶）；Seeweb 托管邮箱存活
+- 【推断】个人高级顾问休眠期或纯口碑接单：LinkedIn 外公开足迹弱
+- 【假设】8 证集合=工程深度型，教具/实验室概念仍适用
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 8 证（含 MTCSWE+MTCEWE））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【技术与认证】**CSV 名录：Alessandro Del Ferro 8 证（含 MTCSWE+MTCEWE）
   > CSV 名录：Alessandro Del Ferro 8 证（含 MTCSWE+MTCEWE）
   > 来源：https://mikrotik.com/consultants
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：个人 8 证 MikroTik 顾问（交换+企业无线双高阶）；站休眠
+- **产品线与在售品牌**：咨询服务
+- **目标行业与场景**：网络咨询（无线+交换双线）
+- **团队与规模**：个人
+- **决策链与对接人**：Del Ferro 本人
+- **技术与认证**：MTCNA+…+MTCSWE+MTCEWE 8 证
+- **采购与供应链信号**：未知（休眠）
+- **近期动态与线索**：官网“Sito in costruzione”
+- **与我方契合点**：交换专长人士对 L2+ 特性表敏感
+- **风险与注意**：先电话/短信解冻再发信
 
 ## 产品决策（Saga · 单一决策口径）
 

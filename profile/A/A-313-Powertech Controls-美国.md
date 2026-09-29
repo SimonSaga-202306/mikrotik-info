@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Powertech Controls（美国 Ronkonkoma NY+Albany+Fitchburg MA，1991 起）：自动化/电气全类电商分销——目录含 **Ethernet Switches 类目**;CSV=**Hirschmann 授权分销**
+- 【推断】美东自动化大分销：目录里 Ethernet Switches 类目在营、Hirschmann 在墙——value 替补窄位死守界前句
+- 【假设】类目内 Hirschmann 旁的 value 替补槽
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Hirschmann（Belden 工业接入层））
@@ -141,6 +148,19 @@ updated: 2026-09-28
 - **【产品线】**目录含 Switches→Ethernet Switches 类目；CSV: Hirschmann 授权分销商，1991 起三分支
   > 目录含 Switches→Ethernet Switches 类目；CSV: Hirschmann 授权分销商，1991 起三分支
   > 来源：https://www.powertechcontrols.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：美东自动化/电气电商分销（1991）
+- **产品线与在售品牌**：Hirschmann+自动化全类
+- **目标行业与场景**：制造/工控买家
+- **团队与规模**：大分销组织
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：电商类目+RFQ
+- **近期动态与线索**：—
+- **与我方契合点**：Ethernet Switches 类目内替补（Hirschmann 旁前句）
+- **风险与注意**：大牌主权——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

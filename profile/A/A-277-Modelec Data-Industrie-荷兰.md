@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Modelec Data-Industrie（荷兰）：工业数据通信分销——官网题'betrouwbare en veilige netwerkoplossingen'；CSV=Westermo 官方 where-to-buy 名录（2026-09-23 验）
+- 【推断】荷兰工业数据通信分销（Westermo 在墙）：value 替补窄位死守界前句；官网 JS 重证据偏薄已标注
+- 【假设】Westermo 旁的替补槽窄口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Westermo）
@@ -139,6 +146,19 @@ updated: 2026-09-28
 - **【业务定位】**MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen——CSV: Westermo 官方 where-to-buy 名录（9-23 验）
   > MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen——CSV: Westermo 官方 where-to-buy 名录（9-23 验）
   > 来源：https://www.modelec.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰工业数据通信分销
+- **产品线与在售品牌**：Westermo
+- **目标行业与场景**：工业 OT
+- **团队与规模**：分销团队
+- **决策链与对接人**：contact@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：分销泳道
+- **近期动态与线索**：—
+- **与我方契合点**：替补窄位（守界前句）
+- **风险与注意**：官网 JS 重的一手证偏薄（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

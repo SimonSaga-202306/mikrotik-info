@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证
+- 【推断】酒店物业 IT 托管商=客房 Wi-Fi/UAP+安防接入层的长期随单口——PMS 防护=酒店业持证深度
+- 【假设】“objects premium”=酒店/商办物业包年外包，接入层以项目量滚动采购
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**biuro@safes.pl +48 412 412 324；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > biuro@safes.pl +48 412 412 324；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://safes.pl/kontakt/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波兰高端物业/酒店 IT 全托管商（机房代管+网络基建+SOC 安全）
+- **产品线与在售品牌**：外包服务+enova365 授权伙伴
+- **目标行业与场景**：酒店/高端物业（“obiekty premium”）境内外 consistently
+- **团队与规模**：中型托管商
+- **决策链与对接人**：Wandas（六证顾问）biuro@
+- **技术与认证**：MTCNA/MTCRE/MTCWE/MTCTCE/MTCINE/MTCIPv6E
+- **采购与供应链信号**：托管项目随单滚动采购
+- **近期动态与线索**：Cybersecurity 页面强推 SOC 24/7+PMS
+- **与我方契合点**：酒店 Wi-Fi/安防接入层随单托管耗材位
+- **风险与注意**：机房代管属性→报价须带长期支持口径
 
 ## 产品决策（Saga · 单一决策口径）
 

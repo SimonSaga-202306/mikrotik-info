@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】IP Techniek（荷兰 Bladel，Joost Van De Weijer）：极简页=电话+数据通信顾问；CSV=MikroTik 官方认证顾问（MTCRE/MTCWE 等）
+- 【推断】个体顾问=训练通道判（CONSULT-OEM）；站极薄，顾问身份为主证
+- 【假设】顾问项目里的装备对照/随件窄口——低密针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCINE MTCSWE MTCEWE）
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**IP Techniek…Telefonie en Data Communicatie——MikroTik 官方认证顾问名录收录（CSV 9-23）
   > IP Techniek…Telefonie en Data Communicatie——MikroTik 官方认证顾问名录收录（CSV 9-23）
   > 来源：https://iptechniek.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰个体 ICT 顾问
+- **产品线与在售品牌**：—
+- **目标行业与场景**：SMB 电话/数据顾问
+- **团队与规模**：个体
+- **决策链与对接人**：sales@ 具名（Joost）
+- **技术与认证**：MikroTik 认证顾问
+- **采购与供应链信号**：顾问随件
+- **近期动态与线索**：—
+- **与我方契合点**：顾问窄口（CONSULT-OEM）
+- **风险与注意**：薄站低信号
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）
+- 【推断】工业谱已开-Antaira 旁 value DIN 档=谱补逻辑
+- 【假设】工业 PoE 谱旁 value 工业档窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Antaira）
@@ -115,6 +122,19 @@ updated: 2026-09-28
   > Antaira Industrial Networking + POE+ unmanaged gigabit switch 类目
   > 来源：https://www.alfasystems.be
 
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：比/卢布线全网分销（工业谱尖）
+- **产品线与在售品牌**：Antaira/Digi/Silex/LevelOne/Peplink/Teltonika+布线全谱
+- **目标行业与场景**：制造/过程工业
+- **团队与规模**：（官网推）
+- **决策链与对接人**：info@alfasys.be 口
+- **技术与认证**：工业谱（官网类目）
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：Antaira 工业 PoE 谱旁 value 工业档窄位
+- **风险与注意**：Antaira/Digi 谱厚——谱忠诚高
+
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
@@ -176,7 +196,7 @@ Hi Alfa Systems team,
 
 Antaira industrial networking already sits in your catalogue between the patch panels and the fiber - the DIN-rail PoE tier is where Belgian installers meet the spec
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference EXW pricing on request.
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
 
 One question: beside Antaira and Digi, would you evaluate a documented DIN-rail industrial PoE unit for your cabling-house customer base?
 

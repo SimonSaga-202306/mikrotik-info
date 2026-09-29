@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-241（人-司关联档）→ 互注；首触走 A-469
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】TRIOTRONIK（奥地利）：TRIOTRONIK（奥 Linz 25+ 年网络分销）:Distribution/Academy/Technologies 三板块；**自有 LIGHTWIN 牌**+Teltonika/Avigilon/UniFi(UI Enterprise Roadshow 2026)/Hikvision;GHMT 自牌线材
+- 【推断】自有 LIGHTWIN/GHMT 牌=OEM/自牌心态熟=对照行/贴牌双路皆可谈
+- 【假设】大分销 value 对照+自牌贴牌双路口（OEM 心态同频）
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -114,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**Drei Geschäftsbereiche: Distribution/Academy/Technologies + LIGHTWIN DAC/AOC 自牌 + UI Enterprise Roadshow 2026
   > Drei Geschäftsbereiche: Distribution/Academy/Technologies + LIGHTWIN DAC/AOC 自牌 + UI Enterprise Roadshow 2026
   > 来源：https://www.triotronik.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：奥 25 年网络分销（三板块；自牌 LIGHTWIN）
+- **产品线与在售品牌**：Teltonika/Avigilon/UniFi/Hikvision+自牌
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：mikrotik@triotronik.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：对照行+贴牌双路口（自牌心态同频）
+- **风险与注意**：牌墙深——对比战直接
 
 ## 产品决策（Saga · 单一决策口径）
 

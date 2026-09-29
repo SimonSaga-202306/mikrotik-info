@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIPE ORG-MBG9-RIPE 自有 AS
+- 【推断】WISP 运营商：塔站/杆站机柜接入层=工业温宽 PoE 刚需（CPE 供电、AP、回传），热点业务线再多一层 PoE AP 采购
+- 【假设】农村学校/市政热点是其增长段（EU 补贴节奏）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSE）
@@ -155,6 +162,19 @@ updated: 2026-09-28
 - **【联系方式】**MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
   > MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://mbn-glasfaser.de/kontakt
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Rheinhessen 农村宽带运营商：FTTT+Richtfunk 混合；公共热点业务线；EU 补贴市政段
+- **产品线与在售品牌**：自建塔站+热点系统；品牌未公开
+- **目标行业与场景**：农村住户、学校热点、市政（EU 补贴段=公共采购，走规范流程）
+- **团队与规模**：18 年区域运营商
+- **决策链与对接人**：Dinko Ivanov（MTCNA+MTCSE，技术口直达）
+- **技术与认证**：MTCNA+MTCSE；自有 AS（RIPE ORG-MBG9-RIPE）
+- **采购与供应链信号**：塔站机柜工业温宽件；热点 AP 批量
+- **近期动态与线索**：“Kommunenausbau mit förderfähigem EU-Internet-Breitband”持续主推
+- **与我方契合点**：工业温宽 PoE 接入（STI-288GP 系）进塔站柜；热点 AP 供电
+- **风险与注意**：EU 补贴采购=公共流程守规则；私营住户/热点段可正常商务
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SKYTRON Communications GmbH & Co. KG（Karlsbad/Karlsruhe）：2000 年起家“Richtfunk 先锋”，全线电信方案商（定向无线/光纤/VDSL/电话/WLAN/IT-Security/站点互联/云/数据中心/IoT/LoRaWAN），自有基础设施覆盖私房与企业客户
+- 【推断】“managed Switchen…Enterprise WLAN…öffentliches WLAN für Städte, Event-WLAN, Videoüberwachung”=交换机直采自营，校园/市政 WLAN 与监控段为 PoE 消化口
+- 【假设】LoRaWAN/IoT 仪表盘线会拉动室外 PoE 网关供电
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCEWE）
@@ -154,6 +161,19 @@ updated: 2026-09-28
 - **【联系方式】**+49 (72 48) 45 28-0 / info@skytron.de；MX=mailhub01.skytron.de（MX/DNS 级核验：域存活=邮件可投递到域）
   > +49 (72 48) 45 28-0 / info@skytron.de；MX=mailhub01.skytron.de（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://skytron.business/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Karlsruhe 大区 26 年电信全线方案商：Richtfunk 先锋起家→全服务（自有基础设施）
+- **产品线与在售品牌**：自有基础设施+全线方案；品牌未公开
+- **目标行业与场景**：企业/市政公共 WLAN、活动 WLAN、视频监控、LoRaWAN/IoT、园区互联
+- **团队与规模**：26 年中型全线
+- **决策链与对接人**：Holger Witt（9 证实战派）直达；总机 +49 7248 4528-0
+- **技术与认证**：MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCINE/MTCIPv6E 等 9 证
+- **采购与供应链信号**：全服务自采自营
+- **近期动态与线索**：IoT/LoRaWAN 线强推中（仪表盘产品化）
+- **与我方契合点**：wlan/监控 PoE 接入层直采；LoRaWAN 网关室外供电
+- **风险与注意**：市政公共 WLAN 段守公共采购边界
 
 ## 产品决策（Saga · 单一决策口径）
 

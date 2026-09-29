@@ -30,6 +30,8 @@ updated: 2026-09-28
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
+- **关联档警示**：A-426、A-131（人-司关联档）→ 互注；首触走 A-131 公司档
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -43,6 +45,13 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】SDC BV（荷兰 ICT 分销 30+年）：网店类目=Dect 电话/Access points/**Switches**/Smart Building/Firewalls；品牌=Gigaset/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream 首页横幅位；17:00 前下单次日达+24/7 support desk+Academy；CSV=Aris Vink 顾问关联
+- 【推断】老牌 ICT 网店分销：Switches 类目存在+中段品牌在墙——value 二轨窄口好靶
+- 【假设】其转售商客群的 value PoE 上架窄位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**Onze top categorieën: Access points/Switches/Smart Building——merkbanner: Ubiquiti/TP-Link/MikroTik/Gigaset；voor 17.00 besteld, morgen in huis
   > Onze top categorieën: Access points/Switches/Smart Building——merkbanner: Ubiquiti/TP-Link/MikroTik/Gigaset；voor 17.00 besteld, morgen in huis
   > 来源：https://www.sdc.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 ICT 分销（30+年）
+- **产品线与在售品牌**：Ubiquiti/Omada/MikroTik 等
+- **目标行业与场景**：转售商/安装商
+- **团队与规模**：分销+支持台
+- **决策链与对接人**：info@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：网店上架+次日达
+- **近期动态与线索**：Partner Event 2026
+- **与我方契合点**：Switches 类目二轨窄位
+- **风险与注意**：既有中段品牌在墙——前句框定
 
 ## 产品决策（Saga · 单一决策口径）
 

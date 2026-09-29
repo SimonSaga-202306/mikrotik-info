@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】VARIA System GmbH（德国开姆尼茨，25年）：Distribution+E-Commerce+Fulfillment——为制造商/品牌做分销与市场直达（Amazon/eBay/Galaxus/Conrad/MediaMarkt），White Label 中性发货
+- 【推断】制造商侧分销服务商=渠道合作型对象：等于问'愿不愿意把 Saga 线带进你仓'
+- 【假设】其仓配+多 marketplace 上架机器，缺的是一条高周转网络件价值线
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -146,6 +153,19 @@ updated: 2026-09-28
 - **【业务定位】**VARIA übernimmt die Distribution für Hersteller und Marken…Direktvermarktung B2B & B2C über Amazon, eBay, Galaxus, Conrad, MediaMarkt；White Label
   > VARIA übernimmt die Distribution für Hersteller und Marken…Direktvermarktung B2B & B2C über Amazon, eBay, Galaxus, Conrad, MediaMarkt；White Label
   > 来源：https://www.varia.org
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国分销履约服务商（2000）
+- **产品线与在售品牌**：为品牌商分销（无自有 IT 品牌墙）
+- **目标行业与场景**：品牌商/电商/B2B-B2C 直达
+- **团队与规模**：中型仓储团队
+- **决策链与对接人**：info@ 口
+- **技术与认证**：系统接口集成
+- **采购与供应链信号**：入册/上架类合作
+- **近期动态与线索**：白标中性发货叙事
+- **与我方契合点**：入册分销合作（非普通销售）
+- **风险与注意**：服务条款型对象——沟通=入册逻辑
 
 ## 产品决策（Saga · 单一决策口径）
 

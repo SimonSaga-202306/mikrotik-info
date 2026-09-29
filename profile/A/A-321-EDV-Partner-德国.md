@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】EDV-Partner Ingenieurgesellschaft mbH（德国 Hamburg Große Bahnstraße 33；31 年/1635 客户/25+ 专家）：IT-Audit（ISO27001/NIS2/**KRITIS**）+IT-Sicherheit+Managed Services+Digitalisierung;伙伴墙=**LANCOM PLATINUM + ALLIED TELESIS PLATINUM 双白金**+Swyx/Abbyy/MS/Netwrix 等；（CSV 警：另有 Oberhausen 同名 EDV-Partner 勿合并）
+- 【推断】双白金在墙的成熟 MSP：KRITIS 审计业务=其关键基建客户段守界句；私营 KMU 段二槽窄位
+- 【假设】私营 KMU 托管现场 value 二槽窄针（双白金+KRITIS 守界）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【技术与认证】**IT-Audit nach ISO27001/NIS2/KRITIS；Partner: LANCOM Platinum+Allied Telesis Platinum；CSV: 勿与 Oberhausen 同名合并
   > IT-Audit nach ISO27001/NIS2/KRITIS；Partner: LANCOM Platinum+Allied Telesis Platinum；CSV: 勿与 Oberhausen 同名合并
   > 来源：https://www.edvpartner.de
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国汉堡成熟 MSP（31 年）
+- **产品线与在售品牌**：LANCOM Platinum+AT Platinum
+- **目标行业与场景**：KMU 私营（KRITIS 审计段=守界注）
+- **团队与规模**：25+ 人
+- **决策链与对接人**：vertrieb@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：托管随单
+- **近期动态与线索**：—
+- **与我方契合点**：二槽窄针（双白金+KRITIS 双守界）
+- **风险与注意**：双白金+KRITIS——守界句必压
 
 ## 产品决策（Saga · 单一决策口径）
 

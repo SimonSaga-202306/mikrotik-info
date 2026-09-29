@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Michal Dobšovič (IT Learning SK)（斯洛伐克）：**斯洛伐克头部综合 IT 培训商**（百门课表；**'Oficiálne kurzy MikroTik' 官方课分类明列**;Bratislava)
+- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
+- 【假设】课堂/咨询旁的一行了解位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证，持 MTCNA MTCRE MTCTCE MTCIPv6E MTCSE MTCSWE MTCEWE）
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【业务定位】**Ponuka kurzov: serverové operačné systémy a siete → 'Oficiálne kurzy MikroTik' 明列
   > Ponuka kurzov: serverové operačné systémy a siete → 'Oficiálne kurzy MikroTik' 明列
   > 来源：https://www.itlearning.sk
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：斯洛伐克 MikroTik 顾问/培训实体（官网核）
+- **产品线与在售品牌**：MikroTik 生态为主
+- **目标行业与场景**：咨询/培训现场
+- **团队与规模**：小微
+- **决策链与对接人**：dobsovic@itlearning.sk 口
+- **技术与认证**：MikroTik 认证体系
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：顾问对照单元（Your academy teaches）
+- **风险与注意**：体量微——低期待窄针
 
 ## 产品决策（Saga · 单一决策口径）
 

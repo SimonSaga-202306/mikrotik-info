@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Specto Remote AS（挪威 Oslo+Bodø）：海事/离岸/水产养殖网络——Viking Line/Mowi/Cermaq 客户（商业养鱼场=私营）；机柜/点对点天线/监控/对讲全案
+- 【推断】水产养殖私营关键场景：鱼场监控机柜=PoE+恶劣半户外接入，正位
+- 【假设】鱼场/码头监控机柜的 PoE 接入随单（双城仓有备件叙事实锤）
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -144,6 +151,19 @@ updated: 2026-09-28
 - **【业务定位】**Maritime/offshore/aquaculture networking——clients: Viking Line, Mowi, Cermaq；warehouse spare parts
   > Maritime/offshore/aquaculture networking——clients: Viking Line, Mowi, Cermaq；warehouse spare parts
   > 来源：https://spectoremote.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：挪威海事/水产网络专案商
+- **产品线与在售品牌**：监控/天线/机柜集成
+- **目标行业与场景**：渔场（Mowi/Cermaq)/码头/离岸
+- **团队与规模**：Oslo+Bodø 双点
+- **决策链与对接人**：post@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单+仓库备件实锤
+- **近期动态与线索**：SpectoWatch 防盗监控产品
+- **与我方契合点**：鱼场机柜 PoE 正口
+- **风险与注意**：恶劣环境需宽温注意（标注）
 
 ## 产品决策（Saga · 单一决策口径）
 

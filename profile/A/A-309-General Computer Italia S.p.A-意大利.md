@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】GCI SpA（意大利 Milano，法定 Foro Buonaparte 68；Lacchiarella 运营；罗马办）：**GCI SERVICE FACTORY=post-warranty 硬件现场维修（mission-critical ICT）**+GCI GREEN 可持续+**100×100 canale 服务厂商（白标服务给渠道伙伴）**;Cap. Soc. €2M
+- 【推断】服务厂非转售商：硬件窄位——但其白标服务/备件池体系背后有实物与渠道面；窄针讲备件池/增值替换逻辑
+- 【假设】其渠道伙伴备件池的 value 单元窄位
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**GCI SERVICE FACTORY: Manutenzione Post Warranty Hardware On-site per ICT mission critical；100×100 Canale: Amplia la tua offerta con i servizi GCI
   > GCI SERVICE FACTORY: Manutenzione Post Warranty Hardware On-site per ICT mission critical；100×100 Canale: Amplia la tua offerta con i servizi GCI
   > 来源：https://www.gci.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利 IT 维修服务厂（白标给渠道）
+- **产品线与在售品牌**：—
+- **目标行业与场景**：渠道伙伴（经其服务）
+- **团队与规模**：服务厂（€2M 股本）
+- **决策链与对接人**：info@ 口
+- **技术与认证**：231 模型/道德码治理
+- **采购与供应链信号**：备件池+白标服务
+- **近期动态与线索**：—
+- **与我方契合点**：备件池窄位窄针
+- **风险与注意**：非传统转售——话术讲备件逻辑
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）
+- 【推断】“Switch & Networking”是其九大方案线之一=X 家工业交换机在售（CSV 载 N-Tron+Red Lion）；工业 PoE 是其项目常备
+- 【假设】Red Lion/N-Tron 替代或补位（温宽/看门狗缺位时）是切入口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：N-Tron + Red Lion）
@@ -150,6 +157,19 @@ updated: 2026-09-28
 - **【联系方式】**vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.efa.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Relatech 集团旗下工业 DT 商（网关/HMI/SCADA/远控），Switch & Networking 为九大方案线之一
+- **产品线与在售品牌**：N-Tron+Red Lion 工业以太网；Ewon Flexy；Ignition 生态
+- **目标行业与场景**：制造/过程/能源/楼宇/交通/基础设施（水务 SCADA 案例多）
+- **团队与规模**：30+ 年、集团编制、培训学院
+- **决策链与对接人**：vendite@ 销售部
+- **技术与认证**：Ignition/Ewon 生态深度
+- **采购与供应链信号**：项目制工业件集采
+- **近期动态与线索**：2026-07 发布 Ignition+AI 水务案例（Consorzio di Bonifica）
+- **与我方契合点**：工业 PoE 温宽+看门狗可卡在 Red Lion/N-Tron 缺位
+- **风险与注意**：公用事业/水务段公共性强——仅跟民营工业客户段；集团采购层级先问清
 
 ## 产品决策（Saga · 单一决策口径）
 

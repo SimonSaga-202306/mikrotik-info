@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Agomir S.r.l.（意大利 Lecco，伦巴第，45 年）：**软件（自研 ERP IntegraERP/BI)+系统（infrastrutture sistemistiche e di rete 设计与运维）+服务**三柱；Zebra AutoID 伙伴（智能物流 webinar）；案例 Logicat/Stepper Italia/Protecta Group；Copilot+ PC 工作坊常态
+- 【推断】“软件+系统+服务三柱”中的系统柱=网络基础设计运维——随单接入件；ERP 客户的 rollout 必配网络
+- 【假设】45 年自我品牌+“persone, tecnologie, competenze”人文调=关系驱动销售，窄线耐心评估愿意
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Da 45 anni…Software. Sistemi. Servizi…Infrastrutture sistemistiche e di rete progettate e manutenute nel tempo”
   > “Da 45 anni…Software. Sistemi. Servizi…Infrastrutture sistemistiche e di rete progettate e manutenute nel tempo”
   > 来源：https://agomir.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Lecco ERP+系统三柱商（网络支线）
+- **产品线与在售品牌**：Zebra/IntegraERP 自有
+- **目标行业与场景**：伦巴第制造 Mittelstand
+- **团队与规模**：中型
+- **决策链与对接人**：marketing@ 口
+- **技术与认证**：Zebra 生态
+- **采购与供应链信号**：随单
+- **近期动态与线索**：AutoID/物流 webinar
+- **与我方契合点**：系统柱的接入随单 value 件
+- **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 

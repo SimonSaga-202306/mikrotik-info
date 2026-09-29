@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】PHOENIX IT SOLUTIONS（德国，30+ 年）：微型 SMB 专精（1-50 工位/1-100 人）——**开源栈 Proxmox/Univention/EGroupware/Tine 2.0**+Kaspersky/Securepoint 安全；**STARFACE 认证伙伴**；客群自由职业/微型企业/手工业+**Kommunen/Schulen（公共段守界）**；“bezahlbar（可负担）”是三承诺之一
+- 【推断】开源栈+可负担承诺=value 件文化极亲（成本敏感专业户）；STARFACE 同盟旁接入层开放
+- 【假设】“老知识烧掉重生”凤凰文化=对新方案技术好奇心强
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“maßgeschneiderte, sichere, bezahlbare und DSGVO-konforme IT-Lösungen…Selbstständige, Unternehmen und Firmen von 1 bis circa 50 PC-Arbeitsplätzen…Kommunen, Schulen…zertifizierter STARFACE Partner”
   > “maßgeschneiderte, sichere, bezahlbare und DSGVO-konforme IT-Lösungen…Selbstständige, Unternehmen und Firmen von 1 bis circa 50 PC-Arbeitsplätzen…Kommunen, Schulen…zertifizierter STARFACE Partner”
   > 来源：https://www.phoenix-itsolutions.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：30 年微型 SMB 商（开源栈+可负担文化）
+- **产品线与在售品牌**：STARFACE/Proxmox/UCS 生态
+- **目标行业与场景**：微型企业/手工业（主打）+Kommunen（守界）
+- **团队与规模**：小型
+- **决策链与对接人**：office@ 口
+- **技术与认证**：STARFACE 认证
+- **采购与供应链信号**：随单
+- **近期动态与线索**：开源栈成熟
+- **与我方契合点**：可负担接入层 value 件（同款叙事）
+- **风险与注意**：公共段守界
 
 ## 产品决策（Saga · 单一决策口径）
 

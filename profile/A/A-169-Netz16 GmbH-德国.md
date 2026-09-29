@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Netz16 GmbH（德国 Bayerisch-Schwaben 区，2009 年创）：MSP——Cyber Security/Managed Services/Modern Infrastructure/AI Solutions/Odoo 数字化；**2025 年起隶属 accompio Gruppe（700+ 员工/17 站/€100M+ 集团营收）**，同 digisoolut/PARIT/Fundwerk 一并并入；伙伴 ncp/Odoo/SonicWall/seppmail
+- 【推断】**集团并购新态**（同批13 STARFACE/ESCAD 族）：采购规则转向集团 vendor onboarding——netz16 团队预算内随单仍有窗口，但集团框架可能收回
+- 【假设】“本地中型 MSP → 集团一部分”过渡期=本地化随单价值件窗口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Gemeinsam mit unseren Tochterunternehmen digisoolut, PARIT und Fundwerk sind wir ab 2025 offiziell Teil der accompio Gruppe…über 700 Mitarbeitende an 17 Standorten”
   > “Gemeinsam mit unseren Tochterunternehmen digisoolut, PARIT und Fundwerk sind wir ab 2025 offiziell Teil der accompio Gruppe…über 700 Mitarbeitende an 17 Standorten”
   > 来源：https://www.netz16.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：巴伐利亚-士瓦本 MSP（accompio 集团 2025 并入）
+- **产品线与在售品牌**：ncp/Odoo/SonicWall/seppmail
+- **目标行业与场景**：区域 KMU
+- **团队与规模**：区域→集团700人
+- **决策链与对接人**：info@+集团采购可能
+- **技术与认证**：伙伴体系
+- **采购与供应链信号**：集团框架+团队随单
+- **近期动态与线索**：accompio 并表
+- **与我方契合点**：现代基建线+过渡期团队随单窄位
+- **风险与注意**：集团采购收回风险
 
 ## 产品决策（Saga · 单一决策口径）
 

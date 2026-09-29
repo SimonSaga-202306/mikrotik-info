@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）
+- 【推断】培训师+运营商咨询双轨：教具+其 WISP 客户项目制推荐两条线
+- 【假设】南意 WISP 圈（Lamezia/Cagliari 课点）项目制接入层需求经其手
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE）
@@ -148,6 +155,19 @@ updated: 2026-09-28
 - **【联系方式】**info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://mikrotik-training.it/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利官方 MikroTik 培训伙伴（Lamezia Terme）+WISP/ISP 咨询双轨
+- **产品线与在售品牌**：MTCNA→MTCSE 全课程+Udemy 意语线上课
+- **目标行业与场景**：工程师认证（南意课点 Lamezia/Cagliari）；WISP/ISP 架构咨询
+- **团队与规模**：个人 Trainer 领衔
+- **决策链与对接人**：Alejandro Pablo Falà 本人
+- **技术与认证**：MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE；RIPE/MPLS 咨询
+- **采购与供应链信号**：教具批次+其 WISP 客户项目推荐
+- **近期动态与线索**：2026-10-26 Lamezia MTCNA、2027-01 MTCRE、2027-02 Cagliari 排课
+- **与我方契合点**：教具实验架+其 WISP 咨询项目的接入层推荐位
+- **风险与注意**：师者红线：报价真实；先教具后推荐位
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Net Engineering Srl（意大利 Reggio Emilia/Milano/Roma；**31 年**）：'GLOBAL NETWORK SERVICE'——Networking/无线互联/VoIP/IP Phone/**视频 over IP/视频监控**/视频会议/流媒体/VPN/安全+结构化布线/CED 机房/楼自动化；**5000 客户/50 staff/300 城市/2500 realizzazioni/年 2100 ticket**；品牌墙 Meraki/HP/Avaya/Cisco/Alcatel/Vertix/Rainbow;CSV：实体名 Srl（roster 记 'SpA' 订正注）
+- 【推断】意三区网络工程中型集团：监控/VoIP/视频工程全谱全消耗 PoE——随单正口；中档多牌环境利于 value 位
+- 【假设】其监控/VoIP/网络工程的 value PoE 随单正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**GLOBAL NETWORK SERVICE——31 Anni, 5000 Clienti, 50 staff, 300 città……Services: Networking/VoIP/Video sorveglianza/Video conferenza
   > GLOBAL NETWORK SERVICE——31 Anni, 5000 Clienti, 50 staff, 300 città……Services: Networking/VoIP/Video sorveglianza/Video conferenza
   > 来源：https://netengineering.it
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：意大利三区网络工程集团（31 年）
+- **产品线与在售品牌**：Meraki/HP/Avaya/Cisco/Alcatel
+- **目标行业与场景**：企业楼宇/机构私营为主
+- **团队与规模**：50 人/5000 客户
+- **决策链与对接人**：mail@ 口
+- **技术与认证**：—
+- **采购与供应链信号**：项目随单
+- **近期动态与线索**：—
+- **与我方契合点**：监控/VoIP/视频工程 value PoE 随单正口（强口）
+- **风险与注意**：多牌墙——现供待问清
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】WiFi France（法国）：WiFi France 法多牌店（Ubiquiti 新品滚+TP-Link Omada PoE €146-€346+Grandstream/Jabra 语音条）
+- 【推断】TP-Link PoE 谱已开=value 档认可度高；EXW 对照国产档
+- 【假设】TP-Link 旁 value 对照正口
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -116,6 +123,19 @@ updated: 2026-09-28
 - **【产品线】**TL-SG2210MP 8xPoE+ €146 + SG3210XHP-M2 €288 在价
   > TL-SG2210MP 8xPoE+ €146 + SG3210XHP-M2 €288 在价
   > 来源：https://www.wifi-france.com
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法综合网络店（Ubiquiti+TP-Link）
+- **产品线与在售品牌**：Ubiquiti/TP-Link Omada/Grandstream/Jabra
+- **目标行业与场景**：装维/集成/ISP/转售
+- **团队与规模**：（官网推）
+- **决策链与对接人**：contact@wifi-france.com 口
+- **技术与认证**：—
+- **采购与供应链信号**：—
+- **近期动态与线索**：—
+- **与我方契合点**：TP-Link Omada PoE 谱在价=对照逻辑最顺正口
+- **风险与注意**：Ubiquiti 牌已厚-但 TP-Link 谱也收=value 档已落
 
 ## 产品决策（Saga · 单一决策口径）
 

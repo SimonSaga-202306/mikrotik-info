@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Dallmeier Electronics（德国雷根斯堡，1984 年创）：**视频监控制造商**——Panomera 多焦传感器专利/Domera 摄像系/SeMSy VMS/Hemisphere；机场/赌场/体育场/关键基建方案；**“Video Technology Made in Germany”**，全球 installer/integrator 渠道
+- 【推断】制造商同业（视频安防厂牌）——是设备厂家不是采购客户；按其渠道结构，其合作伙伴（installer/integrator）才是接入交换的买家
+- 【假设】同业建档不出信（厂家非客户纪律，同 Round15 台湾信号源逻辑）；CSV 以 Allied 信号录入，如实标注同业身份
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -143,6 +150,19 @@ updated: 2026-09-28
 - **【业务定位】**“Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
   > “Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
   > 来源：https://www.dallmeier.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德国视频监控制造商（同业）
+- **产品线与在售品牌**：Panomera/Domera/SeMSy
+- **目标行业与场景**：机场/赌场/体育场/KRITIS
+- **团队与规模**：中型制造商
+- **决策链与对接人**：—
+- **技术与认证**：Made in Germany
+- **采购与供应链信号**：—（厂家）
+- **近期动态与线索**：St. Louis 机场案例
+- **与我方契合点**：无直接（同业）；其 installer 渠道为后续独立触点池
+- **风险与注意**：同业身份
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡议会、Naked Wines、Cosy Club、Auntie Anne’s 等（公私混）
+- 【推断】Guest WiFi+酒店餐饮连锁+Hosted VoIP 三线都需要 Voice VLAN/PoE 接入层——餐饮连锁翻修滚动口
+- 【假设】酒店/餐饮私域客户（Cosy Club/Auntie Anne’s/Naked Wines）是合规主巷，NHS/Norfolk CC 公共段守边界
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSWE）
@@ -151,6 +158,19 @@ updated: 2026-09-28
 - **【联系方式】**sales@freeclix.com +44 1603 703340；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > sales@freeclix.com +44 1603 703340；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://freeclix.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国 ISP 全栈托管商（互联网/无线/VoIP/移动/Guest WiFi）
+- **产品线与在售品牌**：自有服务+运营商代理
+- **目标行业与场景**：酒店餐饮连锁/商企/（公共部分存在）
+- **团队与规模**：中型 ISP
+- **决策链与对接人**：Peter Freeman（MTCNA+MTCSWE）sales@
+- **技术与认证**：ISO9001
+- **采购与供应链信号**：连锁项目滚动+VoIP 线 VoWiFi 配位
+- **近期动态与线索**：客户墙持续扩（2024-25 新增）
+- **与我方契合点**：Guest WiFi/VoIP 的 Voice VLAN 接入层随行
+- **风险与注意**：公共账户段边界明确
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Dresdner ProSoft GmbH（德国德累斯顿）：IT 系统屋——服务器（含定制）/**Netzwerklösungen（无线/LAN-WAN 集成/基建组件/规划实施，Cisco 配图）**/外部数据保护官服务/IT-Security（F-Secure 等厂牌伙伴）/工作站
+- 【推断】网络方案是其独立服务块（Cisco 位图暗示在位同盟）——第二供位价值线切入
+- 【假设】“maßgeschneidert（量身定制）”文化=非同盟强制，评测门有
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
@@ -140,6 +147,19 @@ updated: 2026-09-28
 - **【业务定位】**“Ihr Partner für Netzwerklösungen…LAN/WAN-Netzwerkintegration, Infrastruktur und Komponenten, Planung sowie Implementierung”
   > “Ihr Partner für Netzwerklösungen…LAN/WAN-Netzwerkintegration, Infrastruktur und Komponenten, Planung sowie Implementierung”
   > 来源：https://www.dresdner-prosoft.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：德累斯顿系统屋（网络方案独立块）
+- **产品线与在售品牌**：HPE/Cisco 暗示/F-Secure
+- **目标行业与场景**：区域企业
+- **团队与规模**：区域中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：伙伴多厂
+- **采购与供应链信号**：随单
+- **近期动态与线索**：—
+- **与我方契合点**：value 第二供位
+- **风险与注意**：Cisco 同盟
 
 ## 产品决策（Saga · 单一决策口径）
 

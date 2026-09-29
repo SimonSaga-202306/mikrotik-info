@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）
+- 【推断】LMG 疑并入 WAV 集团：sales@lastmilegear.com 邮箱仍活（MX 同 WAV 设施），邮件大概率有 WAV 团队接收——但 Netonix-out 纪律优先
+- 【假设】WAV 庞大的 WISP 客群是反向观察样本；用户口径放开后其价值相当于“WAV 的入口”
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：Netonix 授权渠道（WISP 接入层交换机））
@@ -70,6 +77,9 @@ updated: 2026-09-28
 - **原始联系字段**：sales@lastmilegear.com（官网与 X（@LastMileGear）双向印证；另有 info@lastmilegear.com。自述卖 Cambium / SAF 等 WISP 设备）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-09-29）**：`info@lastmilegear.com` 地址不存在（address couldn't be found / unable to receive mail）→ 停用该地址；替代通道：sales@lastmilegear.com（官网与 X(@LastMileGear) 双向印证，CSV 主联系）
+  > 处置：info@ 判定不存在→永久停用；主通道=sales@；X 私信作第三通道
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
@@ -148,6 +158,19 @@ updated: 2026-09-28
 - **【联系方式】**sales@lastmilegear.com；两域 MX 同为 mx1-us1.ppe-hosted.com（并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）
   > sales@lastmilegear.com；两域 MX 同为 mx1-us1.ppe-hosted.com（并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://www.lastmilegear.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：LMG：Netonix 渠道→已并入 WAV 集团（疑似）
+- **产品线与在售品牌**：Netonix（历史）+WAV 全谱
+- **目标行业与场景**：WISP/ISP/MSP
+- **团队与规模**：集团规模
+- **决策链与对接人**：sales@lastmilegear.com（箱仍在）
+- **技术与认证**：—
+- **采购与供应链信号**：集团级
+- **近期动态与线索**：域名 301 至 WAV+邮箱基础设施同群
+- **与我方契合点**：纪律建档（潜在 WAV 入口价值）
+- **风险与注意**：Netonix-out 纪律
 
 ## 产品决策（Saga · 单一决策口径）
 

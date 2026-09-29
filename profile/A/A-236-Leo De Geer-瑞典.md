@@ -44,6 +44,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Satelithuset i Limmared AB（瑞典 Leo De Geer）：mikrotik.se 历史支持口+MUM 多届演讲人（Radio Mobile 全球无线顾问）；satelithuset.se 已死（DNS 不解析）但 mikrotik.se 解析存活→支持箱在线
+- 【推断】元老级 MikroTik 顾问=信号源/顾问通道；公司载体可能半退场（老域死）→CONSULT-OEM 顾问探询
+- 【假设】其顾问网络的工业/长距场景里仍可能点装备件口——低密顾问针
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 培训伙伴，持 MTCNA MTCRE MTCTCE MTCUME MTCSWE）
@@ -142,6 +149,19 @@ updated: 2026-09-28
 - **【业务定位】**Global wireless MikroTik consulting——Radio Mobile/WinBox; Leo De Geer, Satelitthuset i Limmared；MUM 2019 IPv6 演讲
   > Global wireless MikroTik consulting——Radio Mobile/WinBox; Leo De Geer, Satelitthuset i Limmared；MUM 2019 IPv6 演讲
   > 来源：https://mum.mikrotik.com/2019/EU/agenda/UK
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：瑞典 MikroTik 元老顾问
+- **产品线与在售品牌**：mikrotik.se 支持口
+- **目标行业与场景**：全球无线顾问/培训
+- **团队与规模**：个体顾问
+- **决策链与对接人**：support@mikrotik.se 口
+- **技术与认证**：MUM 多届讲师
+- **采购与供应链信号**：顾问装备/教具
+- **近期动态与线索**：satelithuset.se 域死（2026 核）
+- **与我方契合点**：顾问探询（CONSULT-OEM）
+- **风险与注意**：载体半退场信号——低密针
 
 ## 产品决策（Saga · 单一决策口径）
 

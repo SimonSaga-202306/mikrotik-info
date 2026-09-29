@@ -45,6 +45,13 @@ updated: 2026-09-28
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】LinITX（英国）：Ubiquiti+MikroTik 双 Master 分销商——Alta Labs/TP-Link/Aginet（trade-only）/Teltonika（含 TeltoCharge EV 充电）全谱电商；trade 账户体系+当日发运；在营英国 MikroTik 培训中心（training@linitx.com；Jono Thompson MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE+MTCSWE 六证讲师）
+- 【推断】分销货架上已有 Ubiquiti/Alta 交换线——value-tier 专注 PoE 的自管理型线仍是空档；培训中心=教具耗材第二轨
+- 【假设】Project Deals（HubSpot 量单竞价机制）里 value PoE 能打
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE+MTCSWE+MTCEWE）
@@ -152,6 +159,19 @@ updated: 2026-09-28
 - **【联系方式】**training@linitx.com +44 1449 888000；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > training@linitx.com +44 1449 888000；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
   > 来源：https://linitx.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：英国网络全谱电商分销（Ubiquiti/MikroTik Master）+官方培训中心
+- **产品线与在售品牌**：Ubiquiti/Alta/TP-Link/Aginet/Teltonika
+- **目标行业与场景**：WISP/企业/培训
+- **团队与规模**：中型电商分销
+- **决策链与对接人**：Jono Thompson（培训/商务双口 training@）
+- **技术与认证**：官方培训师六证
+- **采购与供应链信号**：Project Deals 竞价机制
+- **近期动态与线索**：TeltoCharge EV 新类目、WiFi7 上新
+- **与我方契合点**：value-tier 专注 PoE 货架位+培训教具箱
+- **风险与注意**：与 Alta/Aginet 货架错价位摆
 
 ## 产品决策（Saga · 单一决策口径）
 
