@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt)
+- 【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
+- 【假设】开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
+
+**SWOT 速描**
+- **S**: MUM 展商+LigoWave 官分
+- **W**: 单国单体
+- **O**: WISP/无线安装商 PoE 随单
+- **T**: 同圈 Officelan 等竞争
+
+**证据（quote → 来源）**
+- 「TRUENET Distributor in Portugal Tel: +351 936 794 301 info@truenet.pt www.truenet.pt」 — https://www.ligowave.com/distributors/europe
+- 「Expositores … Truenet (Portugal)」 — https://mum.mikrotik.com/2019/PT/exhibitors/PT
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 无线专精 VAD 的客层 PoE 随单位
+- 第一问: 你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?
+- 标签: 葡萄牙|Porto|LigoWave官分|MUM展商
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi TRUENET team,
+
+A MikroTik MUM Portugal exhibitor and the LigoWave desk for the country - your WISP and wireless installer customers climb towers and build node cabinets, and every site needs dependable PoE switching behind the radios.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
+
+One question: for your WISP and wireless installer customers, which PoE switch stocks their sites today - and is there a value slot for a documented unit?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 无线谱旁交换档位现供
+2. LigoWave 谱占比
+
+**跟进建议（守档节奏）**
+- D+3 无线客层 PoE 页
+- D+14 comercial@truenet.pt 开口(MUM 圈层提)
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第12波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

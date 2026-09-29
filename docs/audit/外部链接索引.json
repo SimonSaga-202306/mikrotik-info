@@ -470,6 +470,28 @@
     ]
   },
   {
+    "url": "http://www.dyalkom.com/buy.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L562"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L638"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-223-TAKOPI GEORGIA（smart-network.ge）-格鲁吉亚.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "http://www.electracomprojects.com/contact-us/",
     "http_checked": false,
     "occurrences": [
@@ -1424,6 +1446,20 @@
     ]
   },
   {
+    "url": "https://accdistribution.eu/news/acc-distribution-was-recognized-with-four-awards/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://accesspoint.hu",
     "http_checked": false,
     "occurrences": [
@@ -2200,6 +2236,50 @@
     ]
   },
   {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L16"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L59"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L161"
+      },
+      {
+        "path": "profile/B/B-040-ASAP-保加利亚.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-042-Computer Market-保加利亚.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/croatia/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L231"
+      },
+      {
+        "path": "profile/B/B-052-EZY Infotech d.o.o-克罗地亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/",
     "http_checked": false,
     "occurrences": [
@@ -2270,6 +2350,20 @@
       {
         "path": "profile/B/B-168-Neostar-意大利.md",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/montenegro",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L586"
+      },
+      {
+        "path": "profile/B/B-491-Netmont DOO-黑山.md",
+        "locator": "L73"
       }
     ]
   },
@@ -2540,6 +2634,20 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L333"
+      }
+    ]
+  },
+  {
+    "url": "https://art2soft.eu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L350"
+      },
+      {
+        "path": "profile/B/B-105-Cy-Wireless（art2soft）-塞浦路斯.md",
+        "locator": "L73"
       }
     ]
   },
@@ -3876,6 +3984,20 @@
     ]
   },
   {
+    "url": "https://brandfetch.com/mstronics.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L383"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://brsnetworks.se",
     "http_checked": false,
     "occurrences": [
@@ -4856,6 +4978,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-747/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/ASAP-Ltd-94248",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L26"
+      },
+      {
+        "path": "profile/B/B-040-ASAP-保加利亚.md",
+        "locator": "L74"
       }
     ]
   },
@@ -6588,6 +6724,34 @@
     ]
   },
   {
+    "url": "https://doxyterra.md/ro/page/despre-companie/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L454"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://doxyterra.md/ro/page/keychron-in-moldova/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L459"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://drive.google.com/drive/folders/18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn",
     "http_checked": false,
     "occurrences": [
@@ -7220,6 +7384,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-767/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Elko_Grupa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L16"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L167"
+      },
+      {
+        "path": "profile/B/B-285-ELKO Eesti OÜ-爱沙尼亚.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-311-UAB ELKO Lietuva-立陶宛.md",
+        "locator": "L73"
       }
     ]
   },
@@ -8048,6 +8234,16 @@
     ]
   },
   {
+    "url": "https://fortshpejt.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L58"
+      }
+    ]
+  },
+  {
     "url": "https://fortshpejt.com/",
     "http_checked": false,
     "occurrences": [
@@ -8058,12 +8254,36 @@
     ]
   },
   {
+    "url": "https://fortshpejt.com/care",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L54"
+      },
+      {
+        "path": "profile/B/B-304-H2 HOLDING LLC（fortshpejt.com）-科索沃.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://fortshpejt.com/category/switches",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/B段复筛_2026-09-28_R53_第17批.json",
         "locator": "L69"
+      }
+    ]
+  },
+  {
+    "url": "https://fortshpejt.com」",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-304-H2 HOLDING LLC（fortshpejt.com）-科索沃.md",
+        "locator": "L73"
       }
     ]
   },
@@ -8484,6 +8704,34 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第12批.json",
         "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://gcom.ge/en/brand/GCOM",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L557"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://ge.linkedin.com/company/intellcomgroup",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L600"
+      },
+      {
+        "path": "profile/B/B-222-Intellcom Group Ltd-格鲁吉亚.md",
+        "locator": "L73"
       }
     ]
   },
@@ -8922,6 +9170,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
         "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://goodstore.lv/en/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L421"
+      },
+      {
+        "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
+        "locator": "L72"
       }
     ]
   },
@@ -9680,6 +9942,20 @@
     ]
   },
   {
+    "url": "https://hitcom.mk/consumer/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L59"
+      },
+      {
+        "path": "profile/B/B-304-H2 HOLDING LLC（fortshpejt.com）-科索沃.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://hm-electronics.de",
     "http_checked": false,
     "occurrences": [
@@ -9791,6 +10067,20 @@
       },
       {
         "path": "profile/B/B-013-Gazik Store-乌克兰.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://hr.linkedin.com/company/lost-d-o-o-",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L269"
+      },
+      {
+        "path": "profile/B/B-053-LOST d.o.o-克罗地亚.md",
         "locator": "L72"
       }
     ]
@@ -12088,6 +12378,20 @@
       {
         "path": "profile/B/B-022-RIM2000-乌克兰.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://kompas.ge/en/company/takopi-georgia-distribyutor-it-oborudovaniya",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L633"
+      },
+      {
+        "path": "profile/B/B-223-TAKOPI GEORGIA（smart-network.ge）-格鲁吉亚.md",
+        "locator": "L72"
       }
     ]
   },
@@ -20480,6 +20784,20 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/2019/PT/exhibitors/PT",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L409"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf",
     "http_checked": false,
     "occurrences": [
@@ -21494,6 +21812,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L327"
+      }
+    ]
+  },
+  {
+    "url": "https://netmont.me/mikrotik.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L581"
+      },
+      {
+        "path": "profile/B/B-491-Netmont DOO-黑山.md",
+        "locator": "L72"
       }
     ]
   },
@@ -23584,6 +23916,20 @@
     ]
   },
   {
+    "url": "https://prod.cy-wireless.com/index.php?route=information/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L345"
+      },
+      {
+        "path": "profile/B/B-105-Cy-Wireless（art2soft）-塞浦路斯.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://products.mti.ua/",
     "http_checked": false,
     "occurrences": [
@@ -24400,6 +24746,20 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L442"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/matthew-main-email_129997222",
     "http_checked": false,
     "occurrences": [
@@ -24422,6 +24782,34 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-815/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/merpa-bilgi-islem-ltdsti-profile_b405d56afc11f555",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L307"
+      },
+      {
+        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/telesystem-profile_b402d648fc0a032a",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L307"
+      },
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L73"
       }
     ]
   },
@@ -25000,6 +25388,34 @@
       {
         "path": "profile/A/A-236-Leo De Geer-瑞典.md",
         "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://scoris.lt/en/imone/110604815",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L162"
+      },
+      {
+        "path": "profile/B/B-311-UAB ELKO Lietuva-立陶宛.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://scoris.lt/en/imone/135150085",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L72"
       }
     ]
   },
@@ -31270,6 +31686,20 @@
     ]
   },
   {
+    "url": "https://www.accreda.eu/about-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L480"
+      },
+      {
+        "path": "profile/B/B-487-Accreda Ltd-马耳他.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.accyotta.com",
     "http_checked": false,
     "occurrences": [
@@ -33476,6 +33906,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第24批.json",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.asap.bg/en-us/it-solutions/networks/mikrotik-en",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/B/B-040-ASAP-保加利亚.md",
+        "locator": "L73"
       }
     ]
   },
@@ -36962,6 +37406,20 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/accreda",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L485"
+      },
+      {
+        "path": "profile/B/B-487-Accreda Ltd-马耳他.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/at-computers",
     "http_checked": false,
     "occurrences": [
@@ -37003,6 +37461,20 @@
       },
       {
         "path": "profile/B/B-081-Compmarket Hungary Zrt-匈牙利.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/foxconcept",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L671"
+      },
+      {
+        "path": "profile/B/B-225-Foxconcept-比利时.md",
         "locator": "L72"
       }
     ]
@@ -37348,6 +37820,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-352/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cyprusnet.com/ms-electronics",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L388"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L73"
       }
     ]
   },
@@ -38994,6 +39480,22 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第17批.json",
         "locator": "L129"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L200"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L205"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L73"
       }
     ]
   },
@@ -45148,6 +45650,20 @@
     ]
   },
   {
+    "url": "https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "profile/B/B-285-ELKO Eesti OÜ-爱沙尼亚.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.informazione-aziende.it/Azienda_SECURCREA-DI-CIANCHI-MICHELE-C-SAS",
     "http_checked": false,
     "occurrences": [
@@ -48042,6 +48558,20 @@
     ]
   },
   {
+    "url": "https://www.ligowave.com/distributors/europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L404"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/company/elko-ukraine",
     "http_checked": false,
     "occurrences": [
@@ -48066,6 +48596,20 @@
       {
         "path": "profile/B/B-152-etree GmbH-德国.md",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/ictintl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L447"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L73"
       }
     ]
   },
@@ -48194,6 +48738,34 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-986/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/telesystem.romania",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L302"
+      },
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/alinailkocyigit/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L312"
+      },
+      {
+        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
+        "locator": "L73"
       }
     ]
   },
@@ -54470,6 +55042,20 @@
     ]
   },
   {
+    "url": "https://www.pclife.bg/en/%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81-109",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L123"
+      },
+      {
+        "path": "profile/B/B-046-PCLife LTD-保加利亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.pedab.com/about-pedab/newsroom/",
     "http_checked": false,
     "occurrences": [
@@ -55212,6 +55798,20 @@
     ]
   },
   {
+    "url": "https://www.pride.md/retelistica-ro/routere-ro/rb760igs_ro",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L492"
+      },
+      {
+        "path": "profile/B/B-211-Pride-摩尔多瓦.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.prinzing-elektro.de",
     "http_checked": false,
     "occurrences": [
@@ -55934,6 +56534,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第3批.json",
         "locator": "L29"
+      }
+    ]
+  },
+  {
+    "url": "https://www.riva.bg/mikrotik/show/all.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L166"
+      },
+      {
+        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
+        "locator": "L73"
       }
     ]
   },
@@ -60120,6 +60734,28 @@
     ]
   },
   {
+    "url": "https://www.ui.com/distributors/?region=eur",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L236"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L595"
+      },
+      {
+        "path": "profile/B/B-052-EZY Infotech d.o.o-克罗地亚.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-222-Intellcom Group Ltd-格鲁吉亚.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.ukpostcodecheck.com/address/6c62ef84/quadratek-consulting-ltd._unit-6-taplins-court-church-lane_hartley-wintney_hook_rg27-8xu",
     "http_checked": false,
     "occurrences": [
@@ -60516,6 +61152,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-770/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.verixi.be/partners/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L676"
+      },
+      {
+        "path": "profile/B/B-225-Foxconcept-比利时.md",
+        "locator": "L73"
       }
     ]
   },
@@ -61944,6 +62594,20 @@
     ]
   },
   {
+    "url": "https://www.wstsystems.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第12波.json",
+        "locator": "L517"
+      },
+      {
+        "path": "profile/B/B-489-WST Systems Ltd-马耳他.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.xing.com/pages/dresdnerprosoftgmbh",
     "http_checked": false,
     "occurrences": [
@@ -62638,6 +63302,20 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/c/pclife-ltd/457922169",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/B/B-046-PCLife LTD-保加利亚.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/c/telasys-ltd/412222510",
     "http_checked": false,
     "occurrences": [
@@ -63012,6 +63690,20 @@
       {
         "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/lostdoo",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第11波.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/B/B-053-LOST d.o.o-克罗地亚.md",
+        "locator": "L73"
       }
     ]
   },

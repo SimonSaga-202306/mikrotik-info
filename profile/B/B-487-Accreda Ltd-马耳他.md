@@ -55,6 +55,40 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu)
+- 【推断】**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销
+- 【假设】开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信
+
+**SWOT 速描**
+- **S**: ERP 实施谱+双办公点
+- **W**: 网络非主业
+- **O**: ERP 项目机房谱随单
+- **T**: 单量不支撑分销形态
+
+**证据（quote → 来源）**
+- 「niche ICT Services Provider … Enterprise Resource Planning, Web Development and Content Management Systems, and Enterprise Technology Management … Valletta, Malta, and London」 — https://www.accreda.eu/about-us
+- 「Microsoft Dynamics NAV / 365 Business Central ERP Solutions」 — https://www.crunchbase.com/organization/accreda
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 判型校正:ERP/ICT 服务商备养,按顾问/集成商模板激活
+- 第一问: (先验活跃)你们 ERP/机房项目实施中,PoE 交换件现随哪家?
+- 标签: 马耳他|Valletta|ERP服务商|判型校正|备养
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【备养】活跃验证(D+7)后按顾问/集成商模板出信(ERP 项目机房谱 value 档扣)。
+
+**待补证清单**
+1. 已激活项目实施量
+2. 网络件自选权重
+
+**跟进建议（守档节奏）**
+- D+7 活跃度快验
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第12波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

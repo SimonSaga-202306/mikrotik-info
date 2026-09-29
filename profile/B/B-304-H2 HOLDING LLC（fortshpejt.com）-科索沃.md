@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com)
+- 【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
+- 【假设】开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
+
+**SWOT 速描**
+- **S**: Hitcom 系+自营电商
+- **W**: 科索沃市场薄
+- **O**: 巴尔干分销家族谱放量
+- **T**: 关联未证/体量小
+
+**证据（quote → 来源）**
+- 「FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove」 — https://fortshpejt.com/care
+- 「Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com」 — https://hitcom.mk/consumer/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — Hitcom 系电商谱的商用 PoE 补位档
+- 第一问: 你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)
+- 标签: 科索沃|Prishtina|Hitcom系|电商
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi FortShpejt team,
+
+H2 Holding running its own e-commerce shelf in Prishtina, with the Hitcom family behind it across the Balkans - a distribution family that knows how a well-documented value SKU moves through a regional network.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.
+
+One question: on your networking shelf, whose 24-port managed PoE switch fills the value slot today? (And a quick one: should we treat H2 and Hitcom as the same group for follow-ups?)
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. H2 与 Hitcom 股权/集团关系
+2. 网通谱现存档位
+
+**跟进建议（守档节奏）**
+- D+3 电商谱 PoE 页
+- D+14 info@fortshpejt.com 开口(附 Hitcom 确认)
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第12波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

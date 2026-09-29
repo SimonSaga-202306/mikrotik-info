@@ -55,6 +55,54 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com)
+- 【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
+- 【假设】开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
+
+**SWOT 速描**
+- **S**: 独家 Master+自营 WISP
+- **W**: 国小网小
+- **O**: 自用+分销双谱 PoE 随单
+- **T**: 总量天花板低
+
+**证据（quote → 来源）**
+- 「Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa」 — https://netmont.me/mikrotik.html
+- 「Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376」 — https://altostrat.io/buying/hardware/resellers/europe/montenegro
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 独家 Master+WISP 自营的双谱 PoE 随单位
+- 第一问: 你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?
+- 标签: 黑山|Bar|独家Master|WISP自营
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Netmont team,
+
+A licensed wireless ISP covering Montenegro and the country's Master MikroTik distributor at the same time - your own sites need PoE behind the radios, and your reseller customers need a documented unit on their shelves too.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.
+
+One question: for your own PoP sites and your reseller line, which 24-port managed PoE switch do you run today - and is there a value slot for a documented unit?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 场点自建谱 PoE 档位现供
+2. 分销谱与自用谱占比
+
+**跟进建议（守档节奏）**
+- D+3 WISP 场点谱 PoE 页
+- D+14 info@setehnica.com 开口
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第12波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

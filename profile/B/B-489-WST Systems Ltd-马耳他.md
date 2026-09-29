@@ -55,6 +55,39 @@
 5. 样机先送测，再谈价格。
 
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+
+**深挖三层**
+- 【事实】WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com)
+- 【推断】**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带
+- 【假设】开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信
+
+**SWOT 速描**
+- **S**: 28 年老号稳定
+- **W**: 非分销,体量小
+- **O**: LAN/Wi-Fi/电话项目 PoE 自选件
+- **T**: 单量不支持分销形态
+
+**证据（quote → 来源）**
+- 「As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardware Sourcing … LAN/WAN/Wi-Fi Design … Telephony」 — https://www.wstsystems.com/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 判型校正:IT 服务商备养,按顾问/集成商模板激活
+- 第一问: (先验活跃)你们 LAN/Wi-Fi/电话项目里,PoE 交换件现随哪家?
+- 标签: 马耳他|Birkirkara|IT服务商|判型校正|备养
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【备养】活跃验证(D+7)后按顾问/集成商模板出信(LAN/Wi-Fi/电话项目谱 value 档扣)。
+
+**待补证清单**
+1. 在手服务项目量
+2. 采购自选权重与谱系
+
+**跟进建议（守档节奏）**
+- D+7 活跃度快验
+- D+30 果归守档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第12波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
