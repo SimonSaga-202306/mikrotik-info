@@ -54,7 +54,39 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
 
+**深挖三层**
+- 【事实】IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商）
+- 【推断】产业错位：CSV 层级弄反——IEI 不是"授权分销"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧
+- 【假设】同业+上游集团不是我们上架通道；走「OEM/联合设计」或「供应链互备」面才是真开口——判位不进供位，B 级守档
+
+**SWOT 速描**
+- **S**: 集团厂资源+自研深
+- **W**: 同业制造侧=无我们上架位
+- **O**: OEM 合作/联合设计通道
+- **T**: 台厂信号源≠客户（纪律）
+
+**证据（quote → 来源）**
+- 「IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA」 — https://www.ieiworld.com/en/support/con_show.php?cid=93
+- 「20 years of experience in electronic product design and manufacture…100% own manufacturing facilities」 — https://www.ieiworld.com/en/support/con_show.php?cid=93
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `CONSULT-OEM` — 产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）
+- 第一问: （联络路：如用户想洽 OEM，走联合设计面）
+- 标签: 美国|Pomona|IEI集团美国办|同业制造侧
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【建档观察·同业侧】不出信；触发=用户决 OEM 合作时约集团采购线。
+
+**待补证清单**
+1. IEI USA 对集团 ORing 谱的销售通道与本地授权分工
+2. IEI 是否正面销 PoE 交换（自家谱），还是借 ORing 网谱入
+
+**跟进建议（守档节奏）**
+- 不入出信序；B 观察档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

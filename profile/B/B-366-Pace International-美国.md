@@ -54,7 +54,54 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
 
+**深挖三层**
+- 【事实】Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网
+- 【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
+- 【假设】从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
+
+**SWOT 速描**
+- **S**: 50 年血脉+Dish 全国独分+ install 网
+- **W**: 交换件为工具位非主推线
+- **O**: 随单 STC-424 入 install BOM
+- **T**: 主品谱挤压架空 PoE 品
+
+**证据（quote → 来源）**
+- 「Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network」 — https://topworkplaces.com/company/pace-international/
+- 「Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally」 — https://futureforward.org/search-directory/pace-international/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口
+- 第一问: 你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？
+- 标签: 美国|明尼苏达|Dish独分|install谱
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Pace International team,
+
+The only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.
+
+One question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. 卫星/蜂窝安装商用工具的混装 BOM 中 PoE 接层现状
+2. 其 B2B 网大半是 install 群还是直营仓转售
+
+**跟进建议（守档节奏）**
+- D+3 install BOM 随单方案单页
+- D+14 样机 CD 级
+- D+30 归档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

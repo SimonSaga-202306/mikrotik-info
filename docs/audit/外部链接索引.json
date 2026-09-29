@@ -2172,6 +2172,20 @@
     ]
   },
   {
+    "url": "https://altostrat.io/es/buying/hardware/resellers/north-america/usa/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L287"
+      },
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
     "url": "https://ampliteltech.com",
     "http_checked": false,
     "occurrences": [
@@ -4600,6 +4614,20 @@
     ]
   },
   {
+    "url": "https://connectamericas.com/company/vodanet-systems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L484"
+      },
+      {
+        "path": "profile/B/B-390-Vodanet Systems LLC-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://connectionservices.nl",
     "http_checked": false,
     "occurrences": [
@@ -6220,6 +6248,22 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第18批.json",
         "locator": "L15"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L177"
+      },
+      {
+        "path": "profile/B/B-343-Distrigo Inc-美国.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-343-Distrigo Inc-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -7894,6 +7938,20 @@
       {
         "path": "profile/A/A-399-Martin Klablena-捷克.md",
         "locator": "L124"
+      }
+    ]
+  },
+  {
+    "url": "https://futureforward.org/search-directory/pace-international/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L331"
+      },
+      {
+        "path": "profile/B/B-366-Pace International-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -13832,6 +13890,18 @@
         "locator": "L797"
       },
       {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L21"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L408"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L79"
       },
@@ -14110,6 +14180,18 @@
       {
         "path": "profile/A/A-296-Frederic Gauthier-加拿大.md",
         "locator": "L132"
+      },
+      {
+        "path": "profile/B/B-327-Andrei Zhernosek-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-338-Christopher Schiessl-美国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-377-Ray Evelyn-美国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -19660,6 +19742,22 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第24批.json",
         "locator": "L197"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L557"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L562"
+      },
+      {
+        "path": "profile/B/B-512-MTK Technologies-美国.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-512-MTK Technologies-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -23864,6 +23962,20 @@
     ]
   },
   {
+    "url": "https://ruggedscience.com/military-computers/rugged-network-switches/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L365"
+      },
+      {
+        "path": "profile/B/B-375-RUGGED SCIENCE-美国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
     "url": "https://rvdbict.nl/",
     "http_checked": false,
     "occurrences": [
@@ -27846,6 +27958,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1031/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://topworkplaces.com/company/pace-international/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L326"
+      },
+      {
+        "path": "profile/B/B-366-Pace International-美国.md",
+        "locator": "L71"
       }
     ]
   },
@@ -33490,6 +33616,20 @@
     ]
   },
   {
+    "url": "https://www.bibaonline.com/pages/contact-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L60"
+      },
+      {
+        "path": "profile/B/B-329-BIBAOnline-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.bilisimyol.com",
     "http_checked": false,
     "occurrences": [
@@ -35564,6 +35704,34 @@
     ]
   },
   {
+    "url": "https://www.controllerservice.com/content/downloads/moxa/user_manual/Moxa_Industrial_Smart_Ethernet_UM_e1.0.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://www.controllerservice.com/index.jsp?path=home&pgl=false",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.controllerservice.com/linecardmoxa",
     "http_checked": false,
     "occurrences": [
@@ -35794,6 +35962,20 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/leverify-707f",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L292"
+      },
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/simnt",
     "http_checked": false,
     "occurrences": [
@@ -35812,6 +35994,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-987/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/solution-box",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L440"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L445"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -39232,6 +39436,20 @@
     ]
   },
   {
+    "url": "https://www.epcom.net/principal/listadopormarca/MIKROTIK",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L211"
+      },
+      {
+        "path": "profile/B/B-346-EPCOM-美国.md",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
     "url": "https://www.equipages.fr/",
     "http_checked": false,
     "occurrences": [
@@ -40092,6 +40310,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-874/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/bibaonline1/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L55"
+      },
+      {
+        "path": "profile/B/B-329-BIBAOnline-美国.md",
+        "locator": "L71"
       }
     ]
   },
@@ -43054,6 +43286,28 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第25批.json",
         "locator": "L187"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ieiworld.com/en/support/con_show.php?cid=93",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L250"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L255"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -50236,6 +50490,28 @@
     ]
   },
   {
+    "url": "https://www.nctik.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L518"
+      },
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L523"
+      },
+      {
+        "path": "profile/B/B-508-NCTIK-美国.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-508-NCTIK-美国.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.nectlc.com",
     "http_checked": false,
     "occurrences": [
@@ -52136,6 +52412,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第16批.json",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L216"
+      },
+      {
+        "path": "profile/B/B-346-EPCOM-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -54182,6 +54472,20 @@
       {
         "path": "profile/A/A-095-Rowe Networks-美国.md",
         "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L370"
+      },
+      {
+        "path": "profile/B/B-375-RUGGED SCIENCE-美国.md",
+        "locator": "L72"
       }
     ]
   },
@@ -58496,6 +58800,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第20批.json",
         "locator": "L111"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vodanetsystems.com/about-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-09-29_R57-BC_第1波.json",
+        "locator": "L479"
+      },
+      {
+        "path": "profile/B/B-390-Vodanet Systems LLC-美国.md",
+        "locator": "L71"
       }
     ]
   },

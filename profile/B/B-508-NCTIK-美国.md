@@ -54,7 +54,41 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
 
+**深挖三层**
+- 【事实】NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行）
+- 【推断】师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口
+- 【假设】教具样本线=向其课桌要"对照牌教具"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）
+
+**SWOT 速描**
+- **S**: 官方师者位+15 年史
+- **W**: 师者红线+教具非销量
+- **O**: 教具样本位（对照牌）
+- **T**: 学员名单绝对红线
+
+**证据（quote → 来源）**
+- 「NCTIK.com is MikroTik certified Training Partner in Raleigh, NC…over 15 years」 — https://www.nctik.com/
+- 「ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina」 — https://www.nctik.com/
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-28DGGPM` — 师者教具位：8 口小机器作为"对照牌教具"上课桌——$99 样本线，不是商业上架
+- 第一问: 你的 MTCNA/MTCRE 课堂上，有对照厂牌教具位吗？STC-28DGGPM 这样的可贴牌小交换当对照教具评测样本可行？
+- 标签: 美国|北卡|师者|认证培训伙伴
+
+**备养出信稿（未触发，供后续用户启用参考）**
+> 【师者红线·教具样本通道】不首销推销、只谈教具；触发=用户明示。
+
+**待补证清单**
+1. 现行课表时间（2020 页是否过期）
+2. 教具目型/MikroTik 官训 vs 他牌对照教具的有无
+
+**跟进建议（守档节奏）**
+- D+7 教具页方案
+- D+30 OOM 放盘
+- 师者不入回弹序
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

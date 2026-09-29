@@ -54,7 +54,54 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
 
+**深挖三层**
+- 【事实】Leverify LLC（华盛顿州 Bellevue/Redmond 6825 176TH Ave NE Ste 135A）:Crunchbase 称"electronics wholesale distributor"101-250 人规模带；brands@leverify.com 是品牌线接口邮箱（altostrat 官列 MikroTik Reseller)；扛 stockyfy.com 牌
+- 【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转
+- 【假设】101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通
+
+**SWOT 速描**
+- **S**: 规模批发带+具名品牌口
+- **W**: 杂货化谱强、品牌忠弱
+- **O**: STC-424 入 brands@ 供位
+- **T**: 纯货量比价心智的利器淘汰
+
+**证据（quote → 来源）**
+- 「Leverify LLC Reseller Bellevue Washington brands@leverify.com」 — https://altostrat.io/es/buying/hardware/resellers/north-america/usa/
+- 「electronics wholesale distributor…Bellevue, Washington…101-250」 — https://www.crunchbase.com/organization/leverify-707f
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STC-424DGGPM-280W` — 大批发电商盘的品牌口补位：value 交换档直接货量比价可得
+- 第一问: 你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $165 EXW 档有位置吗？
+- 标签: 美国|西雅图圈|电子批发大盘|品牌口
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi Leverify brands team,
+
+Bellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.
+
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.
+
+One question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. brands@ 口对应的品牌上架规则（ROQ/Window/保修三件套）
+2. MikroTik 属上架量线还是项目引导线
+
+**跟进建议（守档节奏）**
+- D+3 RMA/保修三件套单页
+- D+14 不上的转楼价档随单
+- D+30 归档
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |

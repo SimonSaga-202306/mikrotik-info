@@ -54,7 +54,54 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
 
+**深挖三层**
+- 【事实】EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角
+- 【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
+- 【假设】自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
+
+**SWOT 速描**
+- **S**: 自牌+分销血统+拉美现金通道
+- **W**: 品牌铁忠度稀释，价驱重
+- **O**: STI-288GP OEM 随单拉美
+- **T**: 自牌项目对在架的自主决策封闭
+
+**证据（quote → 来源）**
+- 「Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX」 — https://www.epcom.net/principal/listadopormarca/MIKROTIK
+- 「EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers」 — https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom
+
+**判位备档**(参考位，评级仍 B · 不出信）
+- 参考 P1: `STI-288GP` — 缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口
+- 第一问: 你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？
+- 标签: 美国|ElPaso/Doral|EPCOM血统|拉美通道
+
+**备养出信稿（未触发，供后续用户启用参考）**
+```text
+Hi EPCOM team,
+
+From El Paso to Doral your reach is real - a manufacturer-distributor hybrid that actually moves volume through the Latin corridor rather than just listing it.
+
+We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - and we are fully open to your OEM branding for the LatAm line.
+
+One question: for your industrial and outdoor deployments across Latin America, which DIN-rail PoE source are you standardizing on today - and would a documented OEM alternative earn a bench test?
+
+If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+**待补证清单**
+1. EPCOM 在架 PoE/交换谱是否含工业 DIN 轨档
+2. 拉美侧（Doral）进出口关务路径与 OEM 贴牌接受度
+
+**跟进建议（守档节奏）**
+- D+3 OEM 牌面样张+E/S 文档样本一页
+- D+10 样机提议
+- D+30 无果归档观察
+
+<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
 ## 七、跟进记录
 
 | 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
