@@ -1,0 +1,1463 @@
+{
+ "date": "2026-09-28",
+ "round": "R54",
+ "batch": 10,
+ "scope": "A 类深度加厚 + 3 步跟进计划（第 10 批：A-181–A-200；德 6 / 法 1 / 意 13，全 Allied Telesis 集成/代理）。",
+ "method": "fetch_page 抓客户官网与公开页面（2026-09-28），保留原文摘录与 URL；公共采购段（Evergreen1×Pubblica Amministrazione、COMPUTER TIME×MEPA/PON 学校、A.G.informatica×acquistinretePA、GIS×Pubblico、think about IT×Öffentliche Auftraggeber/Healthcare）首节声明不供终端公共项目；生命安全段（A.G.informatica rilevazione incendio、GIS EVAC、TELCAT 同例）不碰联动控制链；TQ-Systems 为 EMS 制造集团按 CSV「非普通交换买家」口径只谈自用产线/园区网；分销/电商户（Tiefenbach、Asit、Coel、Fiore、Evergreen1）按类目空缺/同生态补位/第二来源与分销价目逻辑排步，Coel 不顶 Allied/Planet 锚位、Fiore 不碰 Omada 云网红牌走室外/工业空档；具名对口（Emilia Informatica 布线与网络 BU 负责人 Giovanni Sanna、FarPoint Giorgio Bertoni）记录并请转；GroupeNetworks 抓法国铜网关停窗口；计数器动效失真数字（GECOPRA/prego 同例）不引用；CSV 既有记录注明来源性质。",
+ "records": [
+  {
+   "code": "A-181",
+   "name": "think about IT GmbH",
+   "country": "德国",
+   "city": "Bochum",
+   "site": "think-about.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://think-about.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "团队与规模",
+     "text": "官网自述：德国 Top 30 系统屋之一；thinkGROUP 自有房展 InfinIT Future 2026 落地 Hattingen 工业遗址 Henrichshütte。",
+     "quote": "Die think about IT GmbH zählt zu den Top 30 Systemhäusern Deutschlands. ‖ InfinIT Future — Die Hausmesse 2026 der thinkGROUP（Henrichshütte Hattingen）",
+     "url": "https://think-about.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "One-Stop 组合：咨询/采购/Staging/集成/运维/物流 + Managed Workplace/Security/Network/Datacenter，另有 NVIDIA DGX 托管与 HPC 集群.",
+     "quote": "Our Portfolio: Beratung, Beschaffung, Staging und Integration, Betrieb, Logistik ‖ Managed Workplace · Managed Security · Managed Network · Managed Datacenter · Managed NVIDIA DGX · High Performance Computing",
+     "url": "https://think-about.it/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "官网行业导航三大块：企业客户、⚠️公共甲方（Öffentliche Auftraggeber）、Healthcare——公立与医疗段划线。",
+     "quote": "Branchen: Geschäftskunden · Öffentliche Auftraggeber · Healthcare（导航栏）",
+     "url": "https://think-about.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "波鸿 Top30 系统屋（thinkGROUP，并购成长）：ITIL 认证一站式服务+HPC/AI 栈，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "咨询/采购/Staging/集成/运维/物流全链+四款 Managed 模块+NVIDIA DGX/HPC；Secure Boot 专题（2026-06 证书到期预警内容营销）。",
+    "目标行业与场景": "企业商业项目（正路）；⚠️公共甲方与 Healthcare（首节划线）。",
+    "团队与规模": "大型集团（Top30 口径+M&A 页持续并购）。",
+    "决策链与对接人": "frontoffice@think-about.it（CSV 9-27：前台转接入口；官网公开 Janina Elsenheimer 为前台团队负责人）；eBay 店法律资料匹配 Bochum（CSV）。",
+    "技术与认证": "Allied Resell（CSV 记录）；ITIL 流程体系（官网）。",
+    "采购与供应链信号": "大屋走供应商名录与流程：首封给公司一页+合规文件包进名录；商业项目组件化切入；Secure Boot 内容营销显示其资料文化，材料齐全者胜。",
+    "近期动态与线索": "InfinIT Future 2026 房展+Secure Boot 预警专题（2026-06 起）。",
+    "与我方契合点": "Managed Network 模块的标准接入层件与商用项目组件——他按 BOM 买件，我们按栈供货。",
+    "风险与注意": "公共甲方/医疗段不供；大屋节奏慢，别以价格新闻开路——走名录+文件包正规流程。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（商业项目接入层；公共/医疗段划线）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "供应商名录敲门：公司一页+CE/声明文件包+24 口 PoE++ 规格对照，声明公共与医疗项目段不涉。",
+     "question": "Managed Network 里的接入层标准件现在什么型号？",
+     "proof": "公司一页 + CE/声明文件包 + 规格对照（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（商业客户厂房/车库点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "商业客户厂房与车库点位：宽温 DIN PoE+备件包。",
+     "question": "厂房/车库点位的交换坏机率？",
+     "proof": "宽温报告 + 备件包价（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（Managed Network 分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "分段标准件（VLAN/ERPS/SNMP）进他 Managed Network 模块评估——过评估即模块 BOM。",
+     "question": "分段模板要不要进 Managed Network 评估？",
+     "proof": "VLAN/ERPS 模板 + MIB 库 + 样机（德文）。"
+    }
+   ],
+   "note": "波鸿 Top30 系统屋（公共/医疗段划线；名录+文件包正规流程）。3 步：商业 24 口 → 厂房工业件 → Managed Network 分段件。"
+  },
+  {
+   "code": "A-182",
+   "name": "Tiefenbach IT GmbH",
+   "country": "德国",
+   "city": "Hochdorf-Assenheim",
+   "site": "tiefenbach-it.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.tiefenbach-it.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网即 Shopware 电商：硬软件在线店——货架第一排就是 SFP+ 光模块（Cisco/HPE Aruba 兼容）与 LWL 跳线。",
+     "quote": "Hard- und Software Onlineshop ‖ Transceiver 10GBASE SFP+ LR 1310nm 10km LC Cisco kompatibel · HPE Aruba kompatibel · LWL Patchkabel LC/UPC-LC/UPC Duplex OS2/OM4/OM5",
+     "url": "https://www.tiefenbach-it.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "交换货架主打 HPE Aruba CX：6000 48G CL4 PoE 370W、6000 12G CL4 2SFP 139W、6300M 24×SFP+——同生态商用 PoE 在售。",
+     "quote": "HPE Aruba Networking CX 6000 48p … Class4 PoE 4p SFP 1G 370W Switch (R8N85A) 1.034,89 € ‖ Aruba CX 6300M 24-port SFP+ and 4-port SFP56 (JL658A) 12.500,00 € ‖ Aruba 6000 12G CL4 2SFP 139W (R8N89A) 442,20 €",
+     "url": "https://www.tiefenbach-it.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 9-27：报价与 IT 服务页公开 kontakt@tiefenbach-it.de（自有站 kondakt 域，非模板假电话）。",
+     "quote": "自营报价与 IT 服务页面明确指定此邮箱（CSV 2026-09-27 记录，源 tiefenbach-it.com/angebot 与 /it-services）",
+     "url": "https://www.tiefenbach-it.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "普法尔茨 Hochdorf 小型 IT 电商+服务商：Aruba/光模块/光纤配件在线货架，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "HPE Aruba CX 交换、SFP+ 光模块（多厂商兼容）、LWL 跳线、HPE 存储/服务器、Lenovo/Surface 终端。",
+    "目标行业与场景": "区域中小企业+线上散客；光纤布线周边。",
+    "团队与规模": "小型（电商+服务一体）。",
+    "决策链与对接人": "kontakt@tiefenbach-it.de（CSV 9-27：报价页公开）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "电商货架逻辑=可直接比 SKU：同生态 24 口 PoE++ 对照 Aruba 6000 24G 档的价格位最直观；他卖兼容光模块=对「兼容性价比」天然接受。",
+    "近期动态与线索": "货架常态更新（Aruba CX 系列为近期上架）。",
+    "与我方契合点": "同生态商用接入层对照件+工业宽温 PoE 类目他货架没有——电商可直接挂品。",
+    "风险与注意": "他即是卖家：谈分销挂品逻辑（梯价/MAP）比谈项目更对路；先邮件别打电话（电商习惯异步）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（同生态对照件：对照 Aruba 6000 档）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "货架对话：24 口 PoE++ +4×10G 上行对照 Aruba 6000 档的每端口价——给他多个挂品选项。",
+     "question": "客户要 Aruba 平替时你们的候补选项是什么？",
+     "proof": "规格对照 + 梯价 + 分销条款（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（货架类目空缺提案）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "他货架无工业宽温件：类目空档挂品提案——宽温 DIN PoE 可配着 LWL 跳线卖。",
+     "question": "工业宽温 PoE 这个类目店里有吗？",
+     "proof": "类目空缺清单 + 宽温报告 + 挂品价目（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（项目第二来源/高段位补位）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "管理型（VLAN/ERPS/10G）高段位补位 SKU——项目比价时的第二报价。",
+     "question": "高段位管理件的第二来源报价要不要挂？",
+     "proof": "VLAN/ERPS 速查 + 梯价（德文）。"
+    }
+   ],
+   "note": "普法尔茨小型 IT 电商（Aruba/光件货架；挂品分销逻辑）。3 步：同生态对照 → 工业类目空档 → 管理件第二来源。"
+  },
+  {
+   "code": "A-183",
+   "name": "TQ-Systems GmbH",
+   "country": "德国",
+   "city": "Seefeld",
+   "site": "tq-group.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.tq-group.com/en/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：TQ-Group=电子技术集团——E²MS 电子制造服务起家，「与客户共立异标准」，自有七大产品线。",
+     "quote": "As a leading technology company we provide solutions to all your electronics needs. ‖ TQ-Systems has strong roots as an E²MS service provider and offers solutions for electronics needs.",
+     "url": "https://www.tq-group.com/en/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "自有产品军：TQ-Embedded 模块/E-Mobility 电助力系统/RoboDrive 无框伺服电机（上卫星）/Aviation/Automation 能源管理/Medical/PCC 合规测试中心。",
+     "quote": "Products & Services: TQ-Embedded · TQ-E-Mobility · TQ-RoboDrive · TQ-Aviation · TQ-Automation · TQ-Medical · TQ-PCC（Certifications and product testing）· Other Products",
+     "url": "https://www.tq-group.com/en/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "行业列表含工业通信/楼宇自动化/IoT 4.0/航空航天/医疗/船海/交通——高科技制造客户为主。",
+     "quote": "TQ industries: Agriculture · Drive technology · E-Mobility · Energy & Smart Grid · Building automation · Industrial automation · Industrial electronics · Industrial communication · IoT / Industry 4.0 · Aerospace/ Aviation · Medical technology · Robotics · Shipping & Offshore · Transportation",
+     "url": "https://www.tq-group.com/en/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "慕尼黑西侧 Seefeld 电子技术集团：E²MS 制造+自有嵌入式/电驱/航电产品线，Allied Resell（CSV 记录）。⚠️ 本体为制造方案商，非普通交换买家（CSV 口径）。",
+    "产品线与在售品牌": "E²MS 定制电子+TQ-Embedded/RoboDrive/eBike/Aviation/Automation/Medical 自有线；arkona 直播系统成功案例。",
+    "目标行业与场景": "高科技制造客户（他们卖电子产品给别人）；自用产线/实验室/园区网络是现实空间。",
+    "团队与规模": "大型技术集团（多产品线+多厂区）。",
+    "决策链与对接人": "info@tq-group.com（CSV 9-27：Seefeld 总部公开联系邮箱；集团层级，非具名采购）。",
+    "技术与认证": "Allied Resell（CSV 记录）；全系产品认证体系+PCC 自有合规中心（官网）。",
+    "采购与供应链信号": "制造集团=自用网络采购走设施/IT 部门：宽温工业 PoE（产线/实验环境）与 24 口（园区/办公）是现实类目；产品级嵌入不现实（他们自研电子）。",
+    "近期动态与线索": "新闻流活跃：arkona 大赛直播系统（2026-06）/Formula Student 车队合作/TQ.Compliant 工作坊系列。",
+    "与我方契合点": "自用产线与实验室的宽温工业 PoE——他自己懂电子，宽温/MTBF 数据最能对话。",
+    "风险与注意": "别当他们普通客户谈「卖你交换机装项目」；按自用件+数据的工程师对话走，一步一印。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 工业级非管理 PoE（自用产线/实验室网络段）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "工程师对工程师：产线测试区/实验室的宽温 DIN PoE——宽温报告/MTBF/浪涌数据摆上桌。",
+     "question": "产线与实验室的供电交换用什么规格？",
+     "proof": "宽温报告 + MTBF/浪涌数据 + DIN 图（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 24 口 CCTV/PoE（园区/办公接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "Seefeld 园区与办公接入层 24 口 PoE++ 成本对照。",
+     "question": "园区/办公接入层现在配什么？",
+     "proof": "规格对照 + 报价（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（研发网分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "研发/测试网分段：VLAN/ERPS 模板+收敛实测——给实验室同仁看得懂的文档。",
+     "question": "实验网分段模板要不要留一套？",
+     "proof": "VLAN/ERPS 模板 + 收敛实测（德文）。"
+    }
+   ],
+   "note": "电子技术集团（制造自有产品；只谈自用产线/实验室/园区网络）。3 步：产线工业件 → 园区 24 口 → 研发分段件。"
+  },
+  {
+   "code": "A-184",
+   "name": "wp.DATA Kommunikations GmbH",
+   "country": "德国",
+   "city": "Neuss",
+   "site": "wpdata.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.wpdata.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网抬头即双主业：**SAP Business One 金牌伙伴** + IT 系统屋——1992 年起服务中小制造业。",
+     "quote": "wp.DATA | SAP Business One ERP Gold Partner & IT Systemhaus ‖ Em Fokus: Individuelle Komplettlösung für kleine und mittlere Unternehmen ‖ wie wir es auch seit 1992 tun",
+     "url": "https://www.wpdata.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙：SAP/Microsoft/**enreach（通信）**/mailstore/VMware/DocuWare/cobisoft/**Aerohive**——网络无线线含 Aerohive 生态；系统屋线=网络与服务器技术+IT 安全。",
+     "quote": "（伙伴 Logo 墙）SAP · Microsoft · enreach · mailstore · VMware · DocuWare · cobisoft · Aerohive ‖ von der einzelnen Lösung bis hin zur kompletten Netzwerk- und Servertechnik",
+     "url": "https://www.wpdata.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "SAP 行业方案四行：Automotive/塑料/食品/机械制造——150+ 项目的中型制造业客群。",
+     "quote": "Lesen Sie die Referenzgeschichten unserer Kunden aus den Branchen Automotive, Kunststoff, Nahrungsmittel und Maschinenbau. ‖ Mehr als 150 Projekte & Implementierungen in verschiedenen Branchen",
+     "url": "https://www.wpdata.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "杜塞旁 Neuss 的 SAP B1 金牌+系统屋：ERP 牵头的制造 SMB 全包，Allied Integrate/Resell（CSV 记录）。",
+    "产品线与在售品牌": "SAP B1(powered by HANA)/系统屋网络+服务器/安全线；enreach/Aerohive 通信无线栈。",
+    "目标行业与场景": "汽车供应链/塑料/食品/机械制造中型厂的 ERP+机房项目。",
+    "团队与规模": "中型（老员工平均司龄 10+ 年，官网自述）。",
+    "决策链与对接人": "info@wpdata.com（CSV 9-27：Impressum 明文邮箱；检索必须带全名否则搜成 WordPress 模块——CSV 原话）。",
+    "技术与认证": "SAP Gold 伙伴（官网）；Allied Integrate/Resell（CSV 记录）。",
+    "采购与供应链信号": "ERP 项目带基建：机房服务器技术+制造厂网络随 SAP 上线走——接入层 PoE 是 BOM 常客；SLA+7×24 可达服务文化。",
+    "近期动态与线索": "2025-08 伙伴墙更新（enreach/mailstore/cobisoft 新 logo）。",
+    "与我方契合点": "制造厂机房与车间随 ERP 项目的接入层件——单项目件量稳。",
+    "风险与注意": "检索务必用全名 wp.DATA Kommunikations；ERP 导向强，网件按项目窗口谈。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（ERP 上线配套机房接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "顺 SAP 上线：客户机房/办公的 24 口 PoE++ 接入层——ERP 项目 BOM 里的网件位。",
+     "question": "ERP 项目的接入层现在配什么？",
+     "proof": "规格对照 + 一页报价（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（制造厂车间点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "汽车/机械客户的车间机台点位：宽温 DIN PoE。",
+     "question": "车间点位的坏机率？",
+     "proof": "宽温报告 + DIN 图 + 备件包价（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（厂区 IT/OT 分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "厂区分段模板：VLAN/ERPS 进他的方案库——SLA 文化下给配置基线。",
+     "question": "厂区网分段模板要不要进方案库？",
+     "proof": "VLAN/ERPS 模板 + 基线（德文）。"
+    }
+   ],
+   "note": "Neuss SAP 金牌系统屋（ERP 项目带基建节奏）。3 步：机房 24 口 → 车间工业件 → 厂区分段件。"
+  },
+  {
+   "code": "A-185",
+   "name": "Ziegler Systemhaus GmbH",
+   "country": "德国",
+   "city": "Stuttgart",
+   "site": "ziegler-systemhaus.de",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.ziegler-systemhaus.de/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网五板块中第二即「网络信息技术——数字化不受干扰」——它是电气公司为骨的全面商，另有活动供电新线。",
+     "quote": "Geschäftsfelder: Elektrotechnik（Intelligent steuern）· Netzwerk-Informationstechnik（Weltweit verbinden – Digitalisierung – wir sichern störungsfreie Abläufe zu jeder Zeit）· Erneuerbare Energien · Sicherheitstechnik · Energieversorgung bei Veranstaltungen（Ob Messe, Konzert, Festival）",
+     "url": "https://www.ziegler-systemhaus.de/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "官网硬数据：500+ 项目完成、142 名员工（14 名学徒）、2001 年起、双点 Stuttgart+Schwieberdingen。",
+     "quote": "500+ Erfolgreich abgeschlossene Projekte · 140+ Hochspezialisierte Mitarbeitende · 25+ Jahre in der Branche tätig ‖ Seit 2001 · 142 Mitarbeitende · 14 Auszubildende ‖ Büros in Stuttgart und Schwieberdingen",
+     "url": "https://www.ziegler-systemhaus.de/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "项目新闻：三馆展馆照明改造+专业 WLAN 无线勘测（WLAN-Ausleuchtung）——网络项目常态在接。",
+     "quote": "Beleuchtungstausch in drei Messehallen（项目）‖ Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk（项目）",
+     "url": "https://www.ziegler-systemhaus.de/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "斯图加特 142 人电气与楼宇技术商：网络/安全/新能源/活动供电五板块，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "电气安装/网络信息技术（WLAN/布线/交换）/安防/光伏/展馆与活动临时供电。",
+    "目标行业与场景": "商业楼与展馆项目（Messehallen 照明案例）；活动临时基建。",
+    "团队与规模": "142 人中型，双点运营。",
+    "决策链与对接人": "info@ziegler-sh.de（CSV 9-27：总部地址匹配 Stuttgart，非分支展会专用邮箱）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "电气总包节奏：网络分包里的交换/PoE 件随楼项目走；WLAN 勘测项目=无线 AP 的 PoE 供电层刚配——项目 BOM 明。",
+    "近期动态与线索": "2026-09 六名新学徒入职+展馆照明项目交付。",
+    "与我方契合点": "楼项目 WLAN/监控的 PoE 接入层+活动临时网的工业小件。",
+    "风险与注意": "电气公司网络件随项目窗口谈；德文报价+规格对照一页式。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（楼项目 WLAN/监控供电接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "顺他 WLAN 勘测项目：AP/监控点位的 24 口 PoE++ 接入层现场对照。",
+     "question": "楼项目 AP/监控点位的供电交换现在配什么？",
+     "proof": "规格对照 + 项目价 + DIN/上架双模图（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（活动/竖井/车库点位）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "活动临时网与竖井/车库点位：4-8 口宽温小机试单价。",
+     "question": "活动/竖井点位的小交换用什么？",
+     "proof": "宽温报告 + 试单价（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（楼宇网分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "楼宇弱电的分段标准件：VLAN/ERPS 模板进他的规划库。",
+     "question": "弱电分段模板要不要进规划库？",
+     "proof": "VLAN/ERPS 模板 + 实测（德文）。"
+    }
+   ],
+   "note": "斯图加特 142 人电气商（WLAN 勘测+展馆项目常态；项目 BOM 节奏）。3 步：楼项目 24 口 → 活动/竖井小机 → 弱电分段件。"
+  },
+  {
+   "code": "A-186",
+   "name": "Zorn Elektrik GmbH",
+   "country": "德国",
+   "city": "Korntal-Münchingen",
+   "site": "zorn-elektrik.de",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.zorn-elektrik.de/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网首页极简：轮播图即主业自述——脚手架施工/配电柜/楼宇外景——典型本地电气承包商站。",
+     "quote": "（首页轮播图题注文件）slider_steiger_zorn_elektrik（施工）· Slider_schaltschrank_zorn_elektrik（配电柜）· slider_gebaeude_zorn_elektrik（楼宇）‖ 仅声明\"本网站仅使用功能必需 Cookie\"（页面正文极薄）",
+     "url": "https://www.zorn-elektrik.de/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 9-27：联系页公开 info@zorn-elektrik.de 且 Korntal-Münchingen 地址匹配——本地店作风。",
+     "quote": "官网联系页明文邮箱，Korntal-Münchingen 地址匹配（CSV 2026-09-27 记录，源 zorn-elektrik.de/kontakt/）",
+     "url": "https://www.zorn-elektrik.de/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "路德维希堡旁 Korntal-Münchingen 本地电气承包商：楼宇电气+配电柜施工，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "电气安装/配电柜/楼宇电气（官网图注口径）。",
+    "目标行业与场景": "区域楼宇电气项目；数据/弱电配套段。",
+    "团队与规模": "小型本地店。",
+    "决策链与对接人": "info@zorn-elektrik.de（CSV 9-27：联系页明文）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "小电气店：项目里数据技术配套的接入层件偶发——给一页报价+挂靠价快。",
+    "近期动态与线索": "站点 2017-2020 版式（静态运营，电话文化）。",
+    "与我方契合点": "楼宇数据配套的 24 口与小机位。",
+    "风险与注意": "站薄说明轻线上——邮件简短一句+附件报价，或先电话；别塞长文档。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（楼宇数据配套接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "一句话敲门：楼宇数据/监控配套的 24 口 PoE++ 一页报价。",
+     "question": "楼宇项目的数据/监控供电交换怎么配？报价发您。",
+     "proof": "一页报价 + 规格要点（德文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（竖井/车库点位）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "竖井/车库小点位：4 口宽温小机试单价。",
+     "question": "竖井/车库点位的小交换用什么？",
+     "proof": "宽温报告 + 试单价（德文）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（大点项目的分段简件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "大点楼宇项目的分段简件：VLAN 速查一张。",
+     "question": "大点项目的网分段模板要不要？",
+     "proof": "VLAN 速查卡（德文）。"
+    }
+   ],
+   "note": "Korntal-Münchingen 本地电气店（站薄走简洁节奏）。3 步：楼宇 24 口 → 竖井小机 → 分段简件。"
+  },
+  {
+   "code": "A-187",
+   "name": "Groupe Networks",
+   "country": "法国",
+   "city": "Aubagne (Marseille)",
+   "site": "groupenetworks.fr",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://groupenetworks.fr/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：马赛企业数字化 360°——打印（Xerox/Lexmark 官方经销）/GED/SIRH/大屏/电信/视监报警/IT 安全 MSP/备份八瓣花。",
+     "quote": "Notre métier : tout le numérique d'entreprise — IMPRESSION · GED · SIRH · AFFICHAGE · TÉLÉCOMS · VIDÉO · SÉCURITÉ IT · SAUVEGARDE ‖ Votre Concessionnaire et Distributeur officiel: XEROX, LEXMARK, Zeendoc, Factorial, Beemo et Sophos à MARSEILLE",
+     "url": "https://groupenetworks.fr/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "姐妹实体 HEO NETWORKS 获 ExpertCyber 认证标签+托管 SOC（Cyna）——网络安全产品线自有资质。",
+     "quote": "HEO NETWORKS est labelisé Expert Cyber（ExpertCyber 标签图）‖ SOC managé（Cyna）· sécurité informatique",
+     "url": "https://groupenetworks.fr/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "博客紧贴政策脉冲：**法国铜网关停**（fin du cuivre）为中小企业写应对指南+ANSSI 2025 威胁全景+IA Act 合规工具。",
+     "quote": "La Fin du Cuivre en France : Ce que les PME doivent impérativement anticiper ‖ Décryptage du Panorama ANSSI 2025 · Conformité IA Act : Le Tableau de Bord Pratique",
+     "url": "https://groupenetworks.fr/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "马赛（Aubagne）360° 数字服务商：打印+电信+视监+MSP 安全一体，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "Xerox/Lexmark 打印经销、Zeendoc GED、Factorial SIRH、Beemo 备份、Sophos 安全、托管 SOC（Cyna）+视监报警。",
+    "目标行业与场景": "普罗旺斯地区 SMB；电信/视监/安全集成项目。",
+    "团队与规模": "区域服务商（TrustIndex 4.6）。",
+    "决策链与对接人": "contact@groupenetworks.fr（CSV 9-27：支持页公开商业/行政邮箱；主联系页为表单）。",
+    "技术与认证": "ExpertCyber 标签（HEO 实体）；Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "订购制（abonnement mensuel/location déductible）模式=设备按月租算：接入层件租售比账最能谈；铜网关停=全法企业换光纤接入的窗口，SFP/光纤接入件需求抬头。",
+    "近期动态与线索": "铜网关停内容营销正热（2026-09 博客）。",
+    "与我方契合点": "视监/报警 IP 项目的 PoE 接入层+铜换光窗口的光纤接入件——租售模式按全周期账谈。",
+    "风险与注意": "法国 SMB 重关系：先给法语材料包+租售测算；别催单节奏。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（视监/报警 IP 项目接入层+铜换光窗口）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "法国铜网关停窗口：换光客户叠加视监/报警 IP 化的 24 口 PoE++ 接入层——租售全周期账给他客户讲。",
+     "question": "视监/报警 IP 项目的接入层现在配什么？（法语材料包随附）",
+     "proof": "规格对照（法）+ 租售全周期测算。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（车库/户外点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "车库/户外监控点位：宽温 DIN PoE。",
+     "question": "户外点位的坏机率？",
+     "proof": "宽温报告（法）+ DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（MSP 托管分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他 MSP/SOC 托管语境：分段标准件（VLAN/ERPS/SNMP）纳入托管栈评估。",
+     "question": "托管网分段模板要不要纳入你们的栈？",
+     "proof": "VLAN/ERPS 模板 + MIB 库（法/英）。"
+    }
+   ],
+   "note": "马赛 360° 服务商（铜网关停窗口+租售模式账）。3 步：视监接入层+换光 → 户外工业件 → 托管分段件。"
+  },
+  {
+   "code": "A-188",
+   "name": "A.G.informatica S.r.l.",
+   "country": "意大利",
+   "city": "Roma",
+   "site": "aginformaticasrl.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.aginformaticasrl.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网四线：ICT 咨询/媒体代理/电信与安全/多厂商上门维保——「做伙伴不做供应商」是口号；首页挂 ⚠️acquistinretePA（公共电子采购）横幅。",
+     "quote": "Information and Communication Technologies · Media Agency · Telecommunications and Security · Assistenza Tecnica multivendor ‖ diventare un partner e non un semplice fornitore（横幅 acquistinretepa.it = 意公共采购平台）",
+     "url": "https://www.aginformaticasrl.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "电信安全线明细：电话/VoIP、视监、综合布线、铜/光 LAN 与 WAN、无线、入侵报警、⚠️火灾探测、门禁考勤。",
+     "quote": "Realizzazione di sistemi telefonici con centralini tradizionali e VoIP, videosorveglianza, cablaggio strutturato, reti locali e geografiche in fibra ottica e in rame, reti wireless, sistemi antintrusione, impianti di rilevazione incendio, sistemi di controllo accessi/presenze.",
+     "url": "https://www.aginformaticasrl.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙厚：WatchGuard/RedHat/Sophos/Juniper/D-Link/QNAP/APC/Cisco（横幅）/HP 展廊——多厂商整合商定位。",
+     "quote": "（伙伴墙）WatchGuard · RedHat · Sophos · Juniper · D-Link · QNAP · APC …（Cisco 横幅 + HP brand showcase 专页）",
+     "url": "https://www.aginformaticasrl.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "罗马多厂商 ICT 整合商：电信安全+视监布线+维保四线，Allied Resell（CSV 记录）。⚠️ 公共采购（acquistinretePA）与火灾探测（生命安全）段划线。",
+    "产品线与在售品牌": "VoIP/视监/布线/铜光网络/无线/报警/门禁+多厂商伙伴墙+Cisco/HP 橱窗线。",
+    "目标行业与场景": "罗马与拉齐奥企业客户（正路）；⚠️公共机构采购段、火灾探测生命安全段不碰。",
+    "团队与规模": "中小整合商（自有 assistenza 子域工单系统）。",
+    "决策链与对接人": "info@aginformaticasrl.it（CSV 9-27：官网公开，税号/地址可匹配；页面含模板假电话不采用——CSV 原话）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "IP 视监/门禁/电话多线走 PoE：商业项目的接入层件稳定消耗；Cisco/HP 橱窗客户有比价第二来源需求。",
+    "近期动态与线索": "2026-07 advocate 庆贺横幅（社区内容活跃）。",
+    "与我方契合点": "商业视监/门禁项目的 PoE 接入层+第二来源报价。",
+    "风险与注意": "acquistinretePA 公共项目段与火灾探测联动段不碰；意式节奏：先发材料包，电话跟进。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（商业视监/门禁接入层；公共/消防段划线）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "商业客户视监+门禁+VoIP 的 IP 项目：24 口 PoE++ 接入层对照，声明公共采购与消防联动段不涉。",
+     "question": "视监/门禁项目的接入层现在配什么？（意/英材料包）",
+     "proof": "规格对照 + 一页报价 + 边界声明。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（车库/户外点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "车库/户外监控点位：宽温 DIN PoE。",
+     "question": "户外点位坏机率怎么算？",
+     "proof": "宽温报告 + DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（Cisco/HP 橱窗客户第二来源）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "大橱窗客户比价时的管理型第二来源：VLAN/ERPS/L3 规格+价。",
+     "question": "大项目比价的第二来源报价要不要？",
+     "proof": "VLAN/ERPS 速查 + 第二来源价目。"
+    }
+   ],
+   "note": "罗马多厂商整合商（公共采购/消防段划线；商业视监接入层正路）。3 步：商业 24 口 → 户外工业件 → 第二来源管理件。"
+  },
+  {
+   "code": "A-189",
+   "name": "Agomir S.r.l.",
+   "country": "意大利",
+   "city": "Lecco",
+   "site": "agomir.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://agomir.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：45 年 Lecco 数字化伙伴——Software（自有 gestionale 线）/Sistemi（基础设施）/Servizi 三柱。",
+     "quote": "Da 45 anni, collaboriamo con i nostri clienti per guidarli nell'evoluzione digitale ‖ SOFTWARE · SISTEMI · SERVIZI（三柱）",
+     "url": "https://agomir.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "自有方案牌：IntegraERP/AgomirBI/Business Continuity；案例流：Logicat 工时管理/Stepper Italia 订单库存/Protecta 安防 ERP——制造与分销 SMB 客群。",
+     "quote": "Alcune delle nostre soluzioni: IntegraERP · AgomirBI · Business continuity ‖ Case history: Logicat · Stepper Italia · Protecta Group",
+     "url": "https://agomir.com/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "内容流紧贴物流 AutoID：Zebra 智能物流（AI/移动/AutoID）网络研讨会+Copilot+ PC 工作坊——仓库数据化是他的热题。",
+     "quote": "Logistica Intelligente: la visione di Zebra Technologies su AI, mobile app e autoID（网络研讨会）· Workshop Copilot+PC e Windows 11 Pro（2026-10-15 Lecco）",
+     "url": "https://agomir.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "Lecco 45 年 ERP+基建整合商：软件带硬件的 SMB 制造/分销客群，Allied Integrate/Resell（CSV 记录）。",
+    "产品线与在售品牌": "IntegraERP/BI/业务连续性+系统线（网络基建）+Zebra AutoID 物流栈对话中。",
+    "目标行业与场景": "伦巴第制造与分销 SMB；仓库/物流数据化项目。",
+    "团队与规模": "中型老牌（团队合影街拍文化）。",
+    "决策链与对接人": "marketing@agomir.com（CSV 9-27：页脚公开营销邮箱，可要求转采购不能当采购人直邮；另有系统支持邮箱）。",
+    "技术与认证": "Allied Integrate/Resell（CSV 记录）。",
+    "采购与供应链信号": "仓库 AutoID 热题=无线覆盖+扫描终端的 PoE 接入层项目窗口；ERP 客户多制造=车间工业件自然延伸。",
+    "近期动态与线索": "2026-09 Zebra AutoID 网络研讨会+意媒报道（咨讯人设）。",
+    "与我方契合点": "仓库 WiFi/扫描网的 PoE 供电层+车间工业件——接他 AutoID 内容热。",
+    "风险与注意": "marketing@ 是入口不是买家：首封请转系统/采购对口；别轰炸营销线。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（仓库 AutoID 无线网供电层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "顺他 Zebra AutoID 话题：仓库 AP/扫描终端的 24 口 PoE++ 供电接入层——请他转系统线对口。",
+     "question": "仓库无线项目的供电接入层现在配什么？",
+     "proof": "仓库场景方案 + 规格对照（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（车间/冷库点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "制造客户车间与冷库点位：宽温 DIN PoE。",
+     "question": "车间/冷库点位的坏机率？",
+     "proof": "宽温报告（冷库低温语境）+ DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（厂区 IT/OT 分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "厂区业务连续性语境：分段标准件（VLAN/ERPS）+冗余收斂值——业务连续性他的产品线正好接。",
+     "question": "厂区 IT/OT 分段模板要不要进业务连续性方案？",
+     "proof": "VLAN/ERPS 模板 + 收敛实测。"
+    }
+   ],
+   "note": "Lecco ERP+基建整合商（AutoID 物流热题切入；marketing@ 转对口）。3 步：仓库供电 24 口 → 车间工业件 → 业务连续分段件。"
+  },
+  {
+   "code": "A-190",
+   "name": "Asit SpA",
+   "country": "意大利",
+   "city": "Caselle Torinese (TO)",
+   "site": "asit.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.asit.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "团队与规模",
+     "text": "官网计数：5 个网点、40 年经验、42 名员工、1500 活跃客户、35-40 品牌分销、年 250 培训小时——老牌都灵分销商。",
+     "quote": "5 Le Nostre Sedi · 40 Anni di esperienza · 42 Dipendenti · 1500 Clienti Attivi · 35 Brand Distribuiti · 250 Ore Di Formazione Annue",
+     "url": "https://www.asit.it/"
+    },
+    {
+     "dim": "业务定位",
+     "text": "五大事业部型分销：UCC 统一通信/布线与数据中心/AV/视监（TVCC）/Networking——品牌墙自有 Rackasit 机架牌。",
+     "quote": "Ucc Comunicazione unificata · Cabling e Datacenter · AV Soluzioni AV · Tvcc Soluzioni Videosorveglianza · Networking Soluzioni per le tue connessioni（Rackasit 自有品牌位）",
+     "url": "https://www.asit.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "品牌墙 40 块：Networking/安全侧 Netgear·Zyxel·D-Link·WatchGuard·Ekahau·Fluke，布线侧 Belden·Panduit·Leviton·Prysmian，视监 Dahua·Selea，通信 Yealink·snom·3CX·Mitel·Avaya——苍茫分销目录。",
+     "quote": "（品牌墙节选）Netgear · Zyxel · D-Link · WatchGuard · Belden · Panduit · Leviton · Prysmian · Dahua · Selea · Yealink · snom · 3CX · Mitel · Avaya · Vertiv · Ribbon",
+     "url": "https://www.asit.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "都灵 40 年 ICT 分销商（5 网点/42 人/1500 客）：UCC/布线/AV/视监/网络五部，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "40 品牌目录+Rackasit 自有机架牌；年收入 250 培训小时=厂商关系运营型分销。",
+    "目标行业与场景": "北意集成商/安装商客群（B2B 分销正路）。",
+    "团队与规模": "中型分销（5 网点）。",
+    "决策链与对接人": "asit@asit.it（CSV 9-27：公司 Facebook 公开，地址电话匹配；排除 PDF 中大华/Emerson 邮箱——CSV 原话）。",
+    "技术与认证": "Allied Resell（CSV 记录）；各厂资质挂墙（官网品牌页）。",
+    "采购与供应链信号": "分销货架逻辑=类目空缺提案：现有 Netgear/Zyxel/D-Link 商用栈中，工业宽温 DIN PoE 是清晰空档；自有 Rackasit 牌=他对「谁能给毛利」敏感，梯价+MAP+培训包全上。",
+    "近期动态与线索": "品牌墙 2026 年仍在扩（Adam Hall/B-tech/Neomounts 2026-06 上线）。",
+    "与我方契合点": "工业宽温 PoE 类目上架提案+商用 PoE++ 高段位补位 SKU——分销目录的空白我们填。",
+    "风险与注意": "他目录里商用堆头足：突出「宽温 DIN 类目空缺+单端口进价优势」，别硬碰他商用主栈；培训小时文化=随附培训材料服务承诺。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 类目空缺提案（工业宽温 DIN PoE 上架）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "你目录有商用堆头无工业宽温：8/4 口 DIN PoE 上架提案——梯价+MAP+培训材料一体。",
+     "question": "工业宽温 PoE 这个类目目录里还空着——上架怎么谈？",
+     "proof": "类目空缺说明 + 分销价目 + 培训材料包（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 24 口 CCTV/PoE（商用高段位补位 SKU）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "PoE++ 大功率+4×10G 上行档位：视监/无线大项目的补位 SKU。",
+     "question": "视监/无线大项目的高段位件还缺吗？",
+     "proof": "规格对照 + 梯价（意/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（项目第二来源 SKU）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "导商项目比价的第二来源 SKU：管理型（ERPS/L3）+报价档位表。",
+     "question": "项目比价的第二来源档要不要挂？",
+     "proof": "VLAN/ERPS 速查 + 档位表（意/英）。"
+    }
+   ],
+   "note": "都灵 40 年分销商（类目空缺提案=工业宽温 PoE；MAP/梯价/培训包）。3 步：工业类目上架 → 高段位补位 → 第二来源 SKU。"
+  },
+  {
+   "code": "A-191",
+   "name": "Coel Distribution srl",
+   "country": "意大利",
+   "city": "Muggiò (MB)",
+   "site": "coeldistribution.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.coeldistribution.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：IT 基础设施部件与系统分销商——品牌墙含 **Allied Telesis 本体**+Planet/LevelOne 平民交换系+海康/GeoVision 视监系。",
+     "quote": "componenti e sistemi per le infrastrutture tecnologiche nell'IT ‖（品牌墙）Allied Telesis · Planet Networking · LevelOne · Hikvision · GeoVision",
+     "url": "https://www.coeldistribution.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "布线主线厚：Prysmian/Datwyler/R&M/Rosenberger/Legrand/Leviton/Acome/Beta Cavi+工具（Klein/Trend Networks）与熔接（Shinho/Fujikura 系）——缆与无源件是骨。",
+     "quote": "（品牌墙）Prysmian Group · Datwyler · Reichle & De-Massari · Rosenberger · Legrand · Leviton · Acome · Beta Cavi · Klein Tools · Trend Networks · Shinho · Patchsee · NTT AT · Metz Connect · HellermannTyton",
+     "url": "https://www.coeldistribution.it/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 9-27：联系页明确列 Muggiò 地址/税号/邮箱；第三方聚合站误置印度不采用。",
+     "quote": "官网联系页明确列出 Muggiò 地址、税号及邮箱；第三方聚合站把本公司误放印度，不采用其信息（CSV 2026-09-27 记录）",
+     "url": "https://www.coeldistribution.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "蒙扎旁 Muggiò 布线与 IT 部件分销商：缆与无源件为骨、交换/视监为辅，Allied Resell（CSV 记录；品牌墙含 Allied 本体）。",
+    "产品线与在售品牌": "布线大厂牌+工具熔接+Allied/Planet/LevelOne 交换线+海康/GeoVision 视监线+自有 Coel Cables。",
+    "目标行业与场景": "北意安装商/数据中心项目方（B2B 分销正路）。",
+    "团队与规模": "中型专业分销。",
+    "决策链与对接人": "info@coeldistribution.it（CSV 9-27：联系页明细位）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "他已经有 Allied+Planet（Planet 有工业宽温线）——直接对撞类目不可取；现实空间：①PoE++ 大功率商用接入层他的平民线堆头薄 ②单端口进价优势的第二来源 ③缆旁供电件的套装话术（缆+交换成套）。",
+    "近期动态与线索": "品牌墙 2026 年更新活跃（NTT AT/GeoVision/Shinho 2026 新上）。",
+    "与我方契合点": "缆旁供电件的套装逻辑：他卖缆，我们交换——联合 BOM 话术谈；或作高功率 PoE++ 补位 SKU。",
+    "风险与注意": "别硬顶其 Allied/Planet 锚位：以「缆旁补位/大功率空档」话术进入；先问类目经理缺什么档。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（缆旁高功率 PoE++ 补位）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "缆+交换联合 BOM 话术：24 口 PoE++ 当布线项目的大功率电源位——他平民线堆头薄的档位。",
+     "question": "布线项目的大功率 PoE++ 档位目录里有吗？（意/英）",
+     "proof": "类目档位分析 + 分销价目。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（第二来源/价格带补位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "他 Planet 工业线在：按第二来源+价格带补位谈宽温 DIN PoE，不争主锚。",
+     "question": "工业件有没有第二来源/更优价格带的需求？",
+     "proof": "价格带对照 + 宽温报告（意/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（项目第二来源 SKU）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "管理型（ERPS/L3/10G）项目第二来源 SKU 上架评估。",
+     "question": "项目比价的第二来源管理件要不要评估？",
+     "proof": "VLAN/ERPS 速查 + 分销条款（意/英）。"
+    }
+   ],
+   "note": "蒙扎布线分销（缆旁供电件套装话术+第二来源；不顶 Allied/Planet 锚位）。3 步：大功率补位 → 工业第二来源 → 管理件 SKU。"
+  },
+  {
+   "code": "A-192",
+   "name": "COMPUTER TIME S.r.l.",
+   "country": "意大利",
+   "city": "Somma Lombardo (VA)",
+   "site": "ctime.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://ctime.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：1995 年生 VAR/System Integrator——三大客群板块明列：企业/教育（**PON 学校**）/**政府与公共行政（MEPA 在场）**。",
+     "quote": "Computer Time Group è un'azienda informatica, nata nel 1995… VAR (rivenditore a valore aggiunto) e un System Integrator ‖ Aziende / Professionisti · Educational (PON) · Governament & PA — presente sul MEPA e sulle piattaforme di e-Procurement",
+     "url": "https://ctime.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "技术自述宽：铜/光网络设计、路由交换配置、边界安全、数据中心、SAN/NAS/DAS、无线 corporate 内外覆——网络设计是卡片正面。",
+     "quote": "Progettazione di networking, dati e fonia in rame e in fibra ottica, configurazioni router e switch, sistemi di sicurezza perimetrali ed individuali… Datacenter, SAN, NAS, DAS, sistemi client server",
+     "url": "https://ctime.it/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "学校线自述「意大利最早为学校提案安装方案」+公共行政 MEPA 活跃——⚠️ 公立学校/PA 段划线，商业企业段为正路。",
+     "quote": "Siamo tra i primi in Italia a proporre ed installare soluzioni… alle scuole（Educational/PON）‖ presente sul MEPA partecipando attivamente alle necessità di fornitura da parte della Pubblica Amministrazione",
+     "url": "https://ctime.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "瓦雷泽省 30 年 VAR/SI：企业+学校+公共行政三客群，Allied Resell（CSV 记录）。⚠️ 公立学校（PON）与 MEPA/PA 段划线。",
+    "产品线与在售品牌": "网络设计/布线/路由交换配置/安全/DC/打印按页付费/视监+ASUS 合作横幅。",
+    "目标行业与场景": "商业企业办公网与机房（正路）；学校/PA 公立段不碰。",
+    "团队与规模": "中小 VAR（inner sales 团队口）。",
+    "决策链与对接人": "ctime@ctime.it（CSV 9-27：联系页，Somma Lombardo；首页明确 VAR/SI 与学校网——CSV 原话）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "商业企业段的网络更新项目是常态件；PON/MEPA 段走公共程序我们不供（首节声明）。",
+    "近期动态与线索": "ASUS ExpertBook 横幅（2026-06）=厂商关系活跃。",
+    "与我方契合点": "商业客户办公网接入层与机房件——他卡片正面就是网络设计。",
+    "风险与注意": "首封即划公立/MEPA 段；意式 SMB 先材料包后电话。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（商业企业网接入层；公立/MEPA 段划线）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "商业企业办公网与机房：24 口 PoE++ 对照现用件，声明公立学校/MEPA 段不涉。",
+     "question": "商业客户的办公网接入层现在配什么？",
+     "proof": "规格对照 + 一页报价 + 边界声明（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（企业库房/车库点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "企业库房/车库点位：宽温 DIN PoE。",
+     "question": "库房/车库点位的交换坏机率？",
+     "proof": "宽温报告 + DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（商业客户分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "安全边界语境：管理型（VLAN/ERPS）分段件+基线。",
+     "question": "边界安全语境的交换分段模板要不要？",
+     "proof": "VLAN/ERPS 模板 + 基线。"
+    }
+   ],
+   "note": "瓦雷泽 30 年 VAR（公立学校/MEPA 段划线；商业企业网正路）。3 步：商业 24 口 → 库房工业件 → 分段标准件。"
+  },
+  {
+   "code": "A-193",
+   "name": "CONNECT ICS S.R.L.",
+   "country": "意大利",
+   "city": "Lecce",
+   "site": "connect-ics.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.connect-ics.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网六块服务牌：网络与电话/IT 安全/数码打印/Web 与 PEC 邮箱/**办公家具**/视监与门禁（ScanFACE 无触测温门禁）——南意 SMB 全包店。",
+     "quote": "I Nostri Servizi: Networking e Telefonia · Sicurezza Informatica · Digital Copy e Printer · Servizi Web e Posta Professionale · Arredo Ufficio · Sicurezza e Videosorveglianza（Controllo Accessi ScanFACE 3-in-1 touchless con termo-scanner）",
+     "url": "https://www.connect-ics.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "认证伙伴墙：ESET/WatchGuard/Acronis/Imagicle/Yeastar/HPE Business Partner/Dell——安全+通信栈清晰。",
+     "quote": "Siamo Partner Certificati: ESET · WatchGuard · Acronis · Imagicle · Yeastar · HPE Business Partner · Dell",
+     "url": "https://www.connect-ics.it/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "官网明牌：Lecce 电话 0832.454561+工作日 9:00-17:30+工单台（helpdesk 子域）——CSV 9-27 邮箱同域互证。",
+     "quote": "Aperti dal Lunedì al Venerdì dalle ore 9:00 alle 17:30 · 0832.454561 · Assistenza Tecnica (Apri un Ticket) helpdesk.connect-ics.it",
+     "url": "https://www.connect-ics.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "莱切 SMB 全包店：网络/安全/打印/办公/视监门禁六块，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "LAN/WiFi/防火墙/备份 DR/打印/办公家具/视监/ScanFACE 温测门禁。",
+    "目标行业与场景": "普利亚大区小微企业办公网与门店安防。",
+    "团队与规模": "小型（工单台+明示作息）。",
+    "决策链与对接人": "info@connect-ics.it（CSV 9-27：地址公司名吻合；勿用美国同名站——CSV 原话）。",
+    "技术与认证": "ESET/WatchGuard/Acronis/Yeastar/HPE BP 认证（官网）；Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "小户价格敏感：门禁/视监 PoE 小件+办公网接入层的试单价逻辑。",
+    "近期动态与线索": "新闻流 2018-2020 老帖为主（站维护轻）——电话文化。",
+    "与我方契合点": "ScanFACE/视监项目的接入层 PoE 与库房小机。",
+    "风险与注意": "新闻区沉旧≠停业（工单台+作息在线）；报价一页式。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（门店视监/门禁接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "ScanFACE/视监项目：24 口 PoE++ 一页试用价（小微预算版）。",
+     "question": "视监/门禁项目的接入层现在配什么？",
+     "proof": "一页报价 + 规格要点（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（车库/库房小点位）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "车库/库房小点位：4 口宽温小机试单价。",
+     "question": "库房小点位用什么交换？",
+     "proof": "宽温报告 + 试单价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（安防网分段简件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "WiFi/安防网分段简件：VLAN 速查一张。",
+     "question": "安防网分段模板要不要留一份？",
+     "proof": "VLAN 速查卡。"
+    }
+   ],
+   "note": "莱切 SMB 全包店（ScanFACE 门禁/视监；小件试单价逻辑）。3 步：安防 24 口 → 库房小机 → 分段简件。"
+  },
+  {
+   "code": "A-194",
+   "name": "CTC SYSTEMS SRL",
+   "country": "意大利",
+   "city": "Lecco",
+   "site": "ctcsystems.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.ctcsystems.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：10+ 年 Office Automation/ICT/管理软件/零售四线——Sistemi 系 gestionale（eSOLVER/SPRING/PROFIS/PEOPLELINK）+数码多功能+网络基建。",
+     "quote": "Da oltre 10 anni al servizio del cambiamento… partner di riferimento per la consulenza, il noleggio, la vendita e l'assistenza tecnica nel campo dell'Office Automation, Information & Communication Technology, Software Gestionali e Retail. ‖ Dispositivi e infrastrutture di networking al caso tuo",
+     "url": "https://www.ctcsystems.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "零售语境小件：telematic 收银机（registratori telematici）假期流程帖——店销/零售 POS 场景是他的日常。",
+     "quote": "Registratori telematici: cambio di stato in modalità \"Fuori Servizio\" per le ferie estive（#NEWS 帖）· CTC System: arredo-ufficio chiavi in mano（Giornale di Lecco 2021）",
+     "url": "https://www.ctcsystems.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴牌含 Lenovo/NethServer（Nethesis 开源）/OpenAI/ItalRetail——开源感 SMB 栈。",
+     "quote": "（伙伴牌）Lenovo · Nethesis（NethServer）· OpenAI · ItalRetail",
+     "url": "https://www.ctcsystems.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "Lecco 十年办公自动化+ICT 店：软件/硬件/多功能/零售四线，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "Sistemi 系 gestionale+硬件+多功能打印+零售 POS/telematic 收银+网络基建。",
+    "目标行业与场景": "Lecco 商圈小微企业/门店/事务所。",
+    "团队与规模": "小型（Calco 总部+Lecco 办公，CSV 9-27 双点记录）。",
+    "决策链与对接人": "info@ctcsystems.it（CSV 9-27：官网列 Calco 总部与 Lecco 办公，邮箱适用本企业）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "零售/POS/门店场景=小型 PoE（收银/打印/摄像头/门显）接件；价格敏感先试单价。",
+    "近期动态与线索": "本地报（Giornale di Lecco）2021 两次报道——区域口碑店。",
+    "与我方契合点": "门店小 PoE 件+稍大办公网的接入层。",
+    "风险与注意": "新闻区日期字段有乱码（30/11/-0001 模板 bug）不影响正文采用；报价一页式。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 工业级非管理小件（门店/POS 供电层）",
+     "product": "STI-240GE（Saga） PoE 版（4G + 2×SFP，DIN，-40~75°C）",
+     "angle": "门店 POS/打印/摄像头的供电小件：4 口宽温小机试单价先行。",
+     "question": "门店/库房点位的小交换用什么？试用价发您。",
+     "proof": "一页报价 + 宽温要点（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 24 口 CCTV/PoE（办公网/多点位接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "稍大办公/门店多点位：24 口 PoE++ 对照现用件。",
+     "question": "稍大项目的接入层现在配什么？",
+     "proof": "规格对照 + 报价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（门店网分段简件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "门店/办公分段简件：VLAN 速查。",
+     "question": "门店网分段模板要不要留一份？",
+     "proof": "VLAN 速查卡。"
+    }
+   ],
+   "note": "Lecco 办公自动化店（零售/POS 场景小件先导）。3 步：门店小件 → 办公 24 口 → 分段简件。"
+  },
+  {
+   "code": "A-195",
+   "name": "EMILIA INFORMATICA s.r.l.",
+   "country": "意大利",
+   "city": "Piacenza",
+   "site": "emiliainformatica.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.emiliainformatica.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：1997 年生于 Piacenza——起于为 Bull/IBM 做区域硬件维保，今六大服务线（监控/安全/IoT/桌面/DC/打印）。",
+     "quote": "Emilia Informatica nasce nel 1997 a Piacenza… servizi di manutenzione professionali… per conto di grosse aziende di servizi come Bull e IBM ‖ Print Management · Desktop Management · IoT · Datacenter Management · Network Monitoring · Cyber Security",
+     "url": "https://www.emiliainformatica.it/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "团队页明牌：**Giovanni Sanna=布线与网络事业部负责人**（另有商务总监 Paolo Bernazzani、两位总经理 Castagnola/Corti）——网络件有具名对口。",
+     "quote": "Giovanni Sanna — RESPONSABILE B.U. CABLING & NETWORKING ‖ Paolo Bernazzani — Direzione commerciale · Marco Castagnola / Alberto Corti — Direzione Generale",
+     "url": "https://www.emiliainformatica.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙：CommScope/**Extreme Networks**/HPE/Unify/**Panduit Gold**/Schneider/innovaphone/Fortinet/Syneto/arcserve——布线+安全栈厚。",
+     "quote": "（伙伴墙）CommScope · Extreme Networks · HPE · Unify · Panduit Gold Partner · Schneider Electric · innovaphone · Fortinet · Syneto · arcserve",
+     "url": "https://www.emiliainformatica.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "皮亚琴察 28 年服务商：维保基因+布线与网络 BU，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "网络监控/安全/IoT/桌面/数据中心/打印管理六服务+CommScope/Panduit 布线+Extreme 网络栈。",
+    "目标行业与场景": "艾米利亚-罗马涅企业客户与机房项目。",
+    "团队与规模": "中小（BU 制：布线与网络/系统管理/维保/行政）。",
+    "决策链与对接人": "support@emiliainformatica.it（CSV 9-27：公司介绍页公开支持邮箱=转接入口，不用隐私合规邮箱）；具名对口 Giovanni Sanna（布线与网络 BU 负责人）。",
+    "技术与认证": "Panduit Gold 等厂商资质（官网）；Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "Extreme 堆头在——同生态补位与第二来源逻辑；布线项目（CommScope/Panduit）随缆配交换=缆旁供电件话术最对路；具名 BU 负责人=邮件请转 Sanna。",
+    "近期动态与线索": "团队页 2026-06 更新（Bernazzani 商务照新）。",
+    "与我方契合点": "布线项目的缆旁 PoE 件+Extreme 项目的第二来源报价。",
+    "风险与注意": "首封走 support@ 请转 Sanna；别当隐私邮箱用。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（布线项目缆旁供电件；请转 Sanna）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "缆旁供电件话术：CommScope/Panduit 布线项目的 24 口 PoE++ 接入层——邮件请转布线与网络 BU 的 Sanna。",
+     "question": "布线项目的供电接入层现在配什么？（请转 Sanna 先生）",
+     "proof": "规格对照 + 一页报价（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（库房/车库/机房外点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "机房外/库房/车库点位：宽温 DIN PoE。",
+     "question": "库房/车库点位坏机率？",
+     "proof": "宽温报告 + DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（Extreme 项目第二来源）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "Extreme 项目比价的第二来源管理件：VLAN/ERPS/L3+价。",
+     "question": "比价的第二来源管理件要不要评估？",
+     "proof": "VLAN/ERPS 速查 + 第二来源价目。"
+    }
+   ],
+   "note": "皮亚琴察服务商（布线与网络 BU 具名对口；缆旁件+第二来源）。3 步：缆旁 24 口 → 库房工业件 → 第二来源管理件。"
+  },
+  {
+   "code": "A-196",
+   "name": "Evergreen1 S.R.L",
+   "country": "意大利",
+   "city": "Ciampino (Roma)",
+   "site": "evergreen1.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.evergreen1.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网首页明写：**专精公共行政技术与服务供货**（Soluzioni per la Pubblica Amministrazione）——mepa@ 即其公共报价入口（CSV）。",
+     "quote": "Siamo specializzati nella fornitura di tecnologie e servizi innovativi per la Pubblica Amministrazione, con competenza e affidabilità.",
+     "url": "https://www.evergreen1.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "站体裁为全类目电商（手机/家电/办公/标识/电料/打印），带 ISO 徽标与 Natale 集团图——综合货商基因+B2B 公共盘。",
+     "quote": "（类目横贯）telefonia · elettrodomestici · monitor · notebook · cablaggio（utensili/etichettatrici）· stampanti laser inkjet ‖（首屏）ISO 徽标与 natale-e-logo 集团图",
+     "url": "https://www.evergreen1.it/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 9-27：mepa@ 为公共部门报价入口，**供应商行政另有 amministrazione@evergreen1.it**；不用 PEC 法律邮箱营销。",
+     "quote": "官网明确这是公共部门报价入口，另有供应商行政入口 amministrazione@evergreen1.it；不使用 PEC 法律邮箱作为普通营销入口（CSV 2026-09-27 记录）",
+     "url": "https://www.evergreen1.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "罗马 Ciampino 综合货商+公共行政供货专精：B2B 电商底盘+PA 项目盘，Allied Resell（CSV 记录）。⚠️ 公共项目段边界。",
+    "产品线与在售品牌": "全类目电商+PA 技术与服务供货（其上游=我们这类供应商的挂品渠道）。",
+    "目标行业与场景": "公共行政采购（他的下游=公共，⚠️我们不做终端公共项目）；内部仓储/办公 IT 与商业客户段可谈。",
+    "团队与规模": "中小货商（Natale 集团关联）。",
+    "决策链与对接人": "供应商行政 amministrazione@evergreen1.it（CSV 9-27：供应商入口）；mepa@ 只用在其程式的公共报价并非我方主通道。",
+    "技术与认证": "ISO 徽标（官网）；Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "他作为 PA 供货商会从供应商目录拿货：现实空间=①我们作为其 B2B 挂品供应商（供应商注册流程）②他自用/仓储运营 IT 件；公共终端项目不直接供（首节边界）。",
+    "近期动态与线索": "电商促销横幅常态（手机/家电折扣）。",
+    "与我方契合点": "作他的「供应商」而非「客户的客户」：分销价目+供货条款按 B2B 挂品谈；运营自用件按 SMB 逻辑补。",
+    "风险与注意": "别去谈 PA 终端项目（公共程序与中标语境）；供应商注册走其 amministrazione 流程，一次给全资质。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 供应商挂品提案（作为 B2B 供应商而非 PA 终端）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "按供应商注册路径敲门：公司资质+分销价目——24 口 PoE++ 与工业宽温件作其 B2B/仓储自用与商业客户类目件；声明不走 PA 终端项目。",
+     "question": "供应商注册的流程与资料清单怎么走？（资质随附）",
+     "proof": "公司资质包 + 分销价目 + 边界声明（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（仓储/运营自用件）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "仓储/物流运营自用的宽温工业件试单。",
+     "question": "仓储运营点位的交换自用有需求吗？",
+     "proof": "宽温报告 + 试单价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（自用/商业客户分段简件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "自用机房与商业客户分段简件；挂品谈判顺推。",
+     "question": "自用/商业客户的分段模板要不要挂一套？",
+     "proof": "VLAN 速查卡 + 梯价。"
+    }
+   ],
+   "note": "罗马综合货商+PA 供货专精（作供应商挂品，不碰 PA 终端项目）。3 步：供应商注册 → 仓储自用件 → 分段简件。"
+  },
+  {
+   "code": "A-197",
+   "name": "FARPOINT SRL",
+   "country": "意大利",
+   "city": "Modena",
+   "site": "farpoint.eu",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://farpoint.eu/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：摩德纳 20+ 年 IT 商——销售维保/布线网络设计/边界防火墙/备份杀毒/Windows Server 系/ERP（KING AZIENDA×Datalog-Zucchetti）/远程办公/打印租赁八件。",
+     "quote": "FarPoint Srl… operante con successo nel territorio modenese da oltre 20 anni ‖ Consulenza aziendale per la progettazione di reti cablate · protezione perimetrale anti-intrusione… firewall hardware · Soluzioni Gestionali ERP… KING AZIENDA di DATALOG ITALIA",
+     "url": "https://farpoint.eu/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙：OKI/Synology/Intel/Norton/Cisco/Datalog-Zucchetti/Microsoft/WatchGuard/Kyocera/Veeam——SMB 实用栈。",
+     "quote": "（伙伴墙 Logo）OKI · Synology · Intel · Norton · Cisco · Datalog Zucchetti · Microsoft · WatchGuard · Kyocera · Veeam",
+     "url": "https://farpoint.eu/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 9-27：通用邮箱+**具名网络技术联系人 Giorgio Bertoni（bertoni@farpoint.it）**（官网关联页非域名猜测）；排除 PEC。",
+     "quote": "公开通用邮箱及网络技术联系人 Giorgio Bertoni（bertoni@farpoint.it）。域名 .eu 网站与 .it 邮箱在官网关联，不按域名猜。排除 PEC 地址（CSV 2026-09-27 记录）",
+     "url": "https://farpoint.eu/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "摩德纳 20 年 SMB IT 商：布线网络设计+防火墙+ERP 实用栈，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "布线网络设计/防火墙/备份/Windows Server 系/ERP/MFC 租赁+实用品牌墙。",
+    "目标行业与场景": "摩德纳制造与商贸 SMB 办公网与机房。",
+    "团队与规模": "小型团队。",
+    "决策链与对接人": "info@farpoint.it（CSV 9-27：关联页公开）+具名 Giorgio Bertoni（网络技术）可作二触。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "布线网络设计是自营话：项目接入层件+具名技术人=对话直达技术决策。",
+    "近期动态与线索": "站体 2024 焕新（伙伴墙新 logo 集）。",
+    "与我方契合点": "布线项目的 24 口与车间工业件；具名网络技术人可发规格直谈。",
+    "风险与注意": "小户：规格+一页价双皮（给老板看价、给 Bertoni 看规格）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（布线项目接入层对照）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "布线网络设计自营话：24 口 PoE++ 对照现用件——规格给 Bertoni、报价给老板的双皮寄法。",
+     "question": "布线项目的接入层现在配什么？",
+     "proof": "规格对照（意/英）+ 一页报价。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（制造厂车间点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "摩德纳制造客户的车间点位：宽温 DIN PoE。",
+     "question": "车间点位的坏机率？",
+     "proof": "宽温报告 + 备件包价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（边界语境分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "防火墙/边界语境：管理型（VLAN/ERPS）分段件+基线——技术人对技术人给模板。",
+     "question": "分段模板要不要进你们的方案库？",
+     "proof": "VLAN/ERPS 模板 + 基线。"
+    }
+   ],
+   "note": "摩德纳 20 年 SMB 商（具名网络技术人 Bertoni；双皮寄法）。3 步：布线 24 口 → 车间工业件 → 分段标准件。"
+  },
+  {
+   "code": "A-198",
+   "name": "Fiore Srl",
+   "country": "意大利",
+   "city": "Palazzolo Milanese (MI)",
+   "site": "fioresrl.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.fioresrl.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：1983 年起 ICT 分销（布线/网络/IP 电话）+**自研自产 Fiore Rack 机架**——年交付 10,000 台 19\" 机架、13,000 km 数据缆。",
+     "quote": "Dal 1983 Fiore si occupa della distribuzione di Cablaggio strutturato, Networking e Telefonia IP. ‖ Progettiamo e produciamo rack su misura per te · 10.000 Rack 19\" consegnati per anno · 13.000 Km cavo dati venduto per anno",
+     "url": "https://www.fioresrl.com/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "硬数据：Paderno Dugnano 总部 2300 平米仓+3 分支（Vicenza/Roma/Bari）、34 员工、1000 年客户、24 小时订单履约、350 培训小时。",
+     "quote": "1 Sede（Paderno Dugnano MI）· 3 Filiali（Vicenza, Roma e Bari）· 24 Ore evasione ordini · 34 Dipendenti · 350 Ore di Formazione · 1.000 Clienti · 2.300 Mq logistica interna · 8.500 Articoli movimentati ogni anno",
+     "url": "https://www.fioresrl.com/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "新闻流：**Omada Fusion Pro 云管网 2026-09 推新**+Avaya Banking Summit 2026+Leviton webinar+Yeastar PBX——SMB 云网目录线在扩。",
+     "quote": "𝗢𝗺𝗮𝗱𝗮 𝗙𝘂𝘀𝗶𝗼𝗻 𝗣𝗿𝗼: la gestione del network entra in una nuova dimensione（2026-09-25）· Banking Summit 2026 · Webinar Leviton · Nuovo Sistema PBX Serie P Yeastar",
+     "url": "https://www.fioresrl.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "米兰北 Fiore：布线/网络/UCC 分销+自产机架，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "布线/网络/IP 电话/安全/视监目录+Fiore Rack 自有牌；Omada（TP-Link 云网）新线热推。",
+    "目标行业与场景": "全意安装商/集成商客群（B2B 分销正路）。",
+    "团队与规模": "34 人中型分销（全国 4 点）。",
+    "决策链与对接人": "info@fioresrl.com（CSV 9-27：历史新闻页公开+第三方名录同址互证）；表单分「商务/技术/行政」勾选路由。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "分销目录逻辑=类目提案：Omada 主推=他在扩云网 SMB 段；工业宽温 DIN PoE 是云网系列的室外/工业空档；自产机架=「机架+交换成套」捆绑话术。",
+    "近期动态与线索": "Omada Fusion Pro 2026-09 新推（云网目录扩张信号）。",
+    "与我方契合点": "工业宽温类目上架提案+机架成套捆绑；商用 PoE++ 高段位补位。",
+    "风险与注意": "Omada 是他的云网红牌：别硬碰 SMB 云网档，按工业/室外空档与高功率正位谈。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 类目空缺提案（工业宽温 DIN PoE 上架）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "Omada 云网系列的室外/工业空档：8/4 口宽温 DIN PoE 上架提案+梯价。",
+     "question": "室外/工业宽温 PoE 这个类目目录还空着——上架怎么谈？",
+     "proof": "类目空缺说明 + 分销价目 + 宽温报告（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 24 口 CCTV/PoE（机架成套捆绑件）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "「Fiore Rack+24 口 PoE++」成套 BOM 话术：机架年销万台随附电源位。",
+     "question": "机架成套的供电交换位要不要挂？",
+     "proof": "成套 BOM 话术 + 梯价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（高段位项目 SKU）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "管理型（ERPS/L3/10G）高段位 SKU：导商大项目的备选档。",
+     "question": "高段位项目的管理件档要不要评估？",
+     "proof": "VLAN/ERPS 速查 + 档位表。"
+    }
+   ],
+   "note": "米兰北分销+自产机架（类目空档+机架成套捆绑；云网 Omada 不硬碰）。3 步：工业类目上架 → 机架成套 24 口 → 高段位管理件。"
+  },
+  {
+   "code": "A-199",
+   "name": "GECOPRA SRL",
+   "country": "意大利",
+   "city": "Napoli (HQ)",
+   "site": "gecopra.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://gecopra.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网：1988 年创立的技术工程商——设计、施工、维护技术设施；TLC 光纤/无线、视监、特殊系统、无线覆盖是主打。",
+     "quote": "La GECOPRA S.r.l., nasce nel 1988, come impresa specializzata nella progettazione, realizzazione, manutenzione e presidi di impianti tecnologici… TLC su FO e radio, Videosorveglianza, sistemi speciali, sistemi wireless e coperture.",
+     "url": "https://gecopra.it/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "硬口径：5 代家族经营、50+ 合作者、全国六据点（Napoli HQ+Milano/Torino/Roma/Foggia/Palermo）。",
+     "quote": "Dal 1988 · Da 5 generazioni · Oltre 50 collaboratori · Presenza Nazionale ‖ Napoli - Head Quarter · Milano · Torino · Roma · Foggia · Palermo",
+     "url": "https://gecopra.it/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "官网自曝新近注册**GPS Train e Locator 系统专利**——轨道/交通语境的工程能力。",
+     "quote": "esempio di ciò è il recente deposito di un brevetto per la realizzazione di un sistema GPS Train e Locator.",
+     "url": "https://gecopra.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "那不勒斯五代家族工程商：光纤/无线 TLC 与视监全国施工，Allied Resell（CSV 记录）。",
+    "产品线与在售品牌": "TLC FO/radio、视监、特殊系统、无线覆盖+GPS 轨道专利（自有研发）。",
+    "目标行业与场景": "运营商/交通/商业的室外与场地项目（隧道、轨道、楼宇覆盖）。",
+    "团队与规模": "50+ 合作者全国六点。",
+    "决策链与对接人": "info@gecopra.it（CSV 9-27：官网公开 Napoli 公司邮箱）。",
+    "技术与认证": "Allied Resell（CSV 记录）；GPS Train 专利（官网）。",
+    "采购与供应链信号": "室外/轨道/隧道项目=宽温工业 PoE 天然场景：Radio/FO 点位与视监杆位的供电件；六据点=全国项目流。",
+    "近期动态与线索": "专利注册近况=研发资本在投。",
+    "与我方契合点": "室外/轨道段宽温工业 PoE+SFP 长距——他的项目场景正是工业件的指导书上的每一页。",
+    "风险与注意": "公共交通终端客户多为大机构：我们当他部件供应商（不直达终端）；计数器动效数字失真不引用。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 工业级非管理 PoE（室外/轨道/隧道点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "FO/radio 与视监点位、隧道/轨道段：宽温 DIN PoE+SFP 长距——全国工程装备。",
+     "question": "室外/轨道点位的供电交换现在配什么？",
+     "proof": "宽温报告 + SFP 方案 + DIN 图（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 24 口 CCTV/PoE（站点汇聚/机房接入层）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "站点汇聚与建筑覆盖的机房接入层 24 口 PoE++。",
+     "question": "站点机房接入层现在配什么？",
+     "proof": "规格对照 + 项目价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（环网/分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "他工程网语境：ERPS 环+分段模板——轨道/隧道线性拓扑正解。",
+     "question": "线性拓扑的 ERPS 环模板要不要测？",
+     "proof": "ERPS 收敛实测 + VLAN 模板（意/英）。"
+    }
+   ],
+   "note": "五代家族全国工程商（室外/轨道宽温工业件主打；终端大机构走集成商路径）。3 步：室外工业件 → 站点 24 口 → ERPS 环模板。"
+  },
+  {
+   "code": "A-200",
+   "name": "GIS s.r.l.",
+   "country": "意大利",
+   "city": "Pedrengo (BG)",
+   "site": "gisimp.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://gisimp.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "官网口号「Human intelligence for security development」：综合安全系统集成为本（风险分析→方案→设计→施工→售后五步）。",
+     "quote": "Progettiamo, realizziamo e gestiamo sistemi di sicurezza integrata ‖ Analisi del rischio · Proposta del sistema più adatto · Progettazione · Installazione · Servizio post-vendita",
+     "url": "https://gisimp.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "六类解决方案：视监（TVCC）/入侵报警/门禁/**⚠️火灾探测与 EVAC（生命安全段）**/家居与楼宇自动化/管理监控。",
+     "quote": "Videosorveglianza (TVCC) · Antintrusione · Controllo accessi · Rivelazione incendio – EVAC · Domotica e building automation · Gestione e monitoraggio",
+     "url": "https://gisimp.it/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "⚠️ Hu.Tech Group 架构：1 集团 2 司 100 名专业人员——GIS（安全）+Tecnos（电气）一体；行业含 **Pubblico** 公共段。",
+     "quote": "Un unico gruppo, due aziende — 1 gruppo, 2 aziende, 100 professionisti ‖ Hu.Tech Group unisce… GIS e Tecnos ‖ Settori: Pubblico · Infrastrutture e trasporti · GDO · Industria e logistica",
+     "url": "https://gisimp.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "贝加莫 Pedrengo 综合安全集成商（Hu.Tech 集团=GIS 安全+Tecnos 电气 100 人版），Allied Resell（CSV 记录）。⚠️ 火灾/EVAC 生命安全段与 Pubblico 公共段划线。",
+    "产品线与在售品牌": "TVCC/入侵/门禁/楼自动化/管理监控正路；火灾 EVAC 段不涉；电气姊妹司 Tecnos 一体。",
+    "目标行业与场景": "GDO 零售/工业物流/基础设施交通商业段（正路）；⚠️Pubblico 公共与消防 EVAC 段不碰。",
+    "团队与规模": "集团 100 人（2 司）。",
+    "决策链与对接人": "gis@gisimp.it（CSV 9-27：联系页明址 Pedrengo；集团层级——采购层级风险保留 CSV 口径）。",
+    "技术与认证": "Allied Resell（CSV 记录）。",
+    "采购与供应链信号": "TVCC/门禁/楼自动化 IP 化=PoE 接入层稳定消耗；GDO/工业物流大场景=室外/仓储工业件；集团架构=先 GIS 站点关系再谈集团。",
+    "近期动态与线索": "站体 2023 焕新+集团 hutechgroup.it 上线。",
+    "与我方契合点": "TVCC/门禁项目的 24 口与室外工业件；不碰 EVAC 联动与公共段。",
+    "风险与注意": "生命安全与公共段首节声明；勿跨司多头联系（Tecnos 电气线另走）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（商业 TVCC/门禁接入层；公共/EVAC 段划线）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "GDO/工业物流的 TVCC+门禁 IP 项目：24 口 PoE++ 接入层对照，声明公共与消防 EVAC 段不涉。",
+     "question": "TVCC/门禁项目的接入层现在配什么？（意/英材料包）",
+     "proof": "规格对照 + 一页报价 + 边界声明。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（仓储/户外点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "工业物流仓储与户外监控点位：宽温 DIN PoE+备件包。",
+     "question": "仓储/户外点位坏机率？",
+     "proof": "宽温报告 + 备件包价。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（商业安防网分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "楼自动化/安防网分段标准件：VLAN/ERPS 模板进他设计库。",
+     "question": "安防网分段模板要不要进设计库？",
+     "proof": "VLAN/ERPS 模板 + 实测（意/英）。"
+    }
+   ],
+   "note": "Hu.Tech 集团安全集成商（公共/EVAC 段划线；商业 TVCC/门禁正路）。3 步：商业 24 口 → 仓储工业件 → 分段标准件。"
+  }
+ ]
+}

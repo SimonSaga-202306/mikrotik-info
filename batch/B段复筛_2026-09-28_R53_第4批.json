@@ -1,0 +1,174 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第4批（加拿大/匈牙利/北马其顿行）。判据同前。",
+ "records": [
+  {
+   "code": "B-073",
+   "decision": "promote",
+   "site": "solimedia.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Solimedia 为 MikroTik/Grandstream/Optcore 专营网店（加拿大），**Featured/在售含 MikroTik 交换机：CRS418-8P-8G-2S+5axQ2axQ-RM、CSS318-16G-2S+IN** → 交换机品类明确 → 人工定级升A。",
+   "quote": "Solimedia: The Best Deals on Mikrotik and Grandstream；在售 CRS418-8P-8G-2S+5axQ2axQ-RM、CSS318-16G-2S+IN、Optcore SFP",
+   "sources": [
+    [
+     1,
+     "https://solimedia.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-075",
+   "decision": "promote",
+   "site": "arawi.ca",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Arawi 为 MikroTik **Authorized Training Center** + 咨询（10 证全，600+ 学员，服务 ISP/企业）→ 与 R50 已升 A 的培训中心先例同口径（B-511 等）→ 人工定级升A。",
+   "quote": "Arawi is a MikroTik Authorized Training Center and consulting firm serving ISPs, enterprises…；All 10 official certs. Live online or in-person. MTCNA through MTCINE",
+   "sources": [
+    [
+     1,
+     "https://www.arawi.ca/"
+    ]
+   ]
+  },
+  {
+   "code": "B-077",
+   "decision": "promote",
+   "site": "ietek.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：axtek.hu 现跳转 ietek.hu（IETEK line Kft.，同一实体）——工业 PC/自动化专营 25 年，**「Ipari hálózati eszközök」明确含 Switch-ek/routerek/gateway-ek（工业以太网/M2M）** → 工业交换机需求明确 → 人工定级升A。",
+   "quote": "IETEK：Ipari hálózati eszközök…Switch-ek, routerek, gateway-ek, modemek…ipari Ethernet, M2M és automatizálási rendszerekhez；Több mint 25 év ipari tapasztalat",
+   "sources": [
+    [
+     1,
+     "https://ietek.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-078",
+   "decision": "promote",
+   "site": "absolcom.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Absolcom 为仅面向经销商/集成商的批发网店，**在售 D-Link DGS-1210-10MP PoE+ Smart Switch（130W）**、MikroTik CCR、Ubiquiti、Wi-Tek 工业 IOT 箱 → 管理型 PoE 交换机+B2B 渠道 → 人工定级升A。",
+   "quote": "Absolcom webáruház：Nagykereskedelem – csak viszonteladók / integrátorok részére；Kiemelt termék: D-link 10-Port Gigabit PoE+ Smart Switch…8 x PoE+，POE budget 130W",
+   "sources": [
+    [
+     1,
+     "https://www.absolcom.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-079",
+   "decision": "promote",
+   "site": "accesspoint.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：AccessPoint 为 B2B 批发/官方分销（安装商与系统集成商渠道），**明列 switch / POE switch / industrial switch（OT 组网）**，代理 Ubiquiti、MikroTik（含 Cloud Router Switch CRS、SwitchOS）、Cambium cnMatrix、Teltonika TSW、Belden Hirschmann、TP-Link Omada → 交换机全品类+工业/PoE+渠道 → 人工定级升A。",
+   "quote": "B2B wholesale — for installers and system integrators；Wired Networking: switch, router, POE switch…；OT Networking: industrial switch…；MikroTik: SwitchOS, Cloud Router Switch (CRS)",
+   "sources": [
+    [
+     1,
+     "https://accesspoint.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-080",
+   "decision": "pending",
+   "site": "lazybear.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】站点抓取失败（HTTP 500），本轮无法核验 → 待重试；暂维持B。",
+   "quote": "（抓取失败：HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://lazybear.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-081",
+   "decision": "hold-B",
+   "site": "compmarket.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：CompMarket Hungary 为宽线 IT/电子分销（2004 起，含消费电子、Gaming、安防等），网络只是其中一类 → 大盘分销、决策链长，维持B。",
+   "quote": "CompMarket Hungary is an emerging IT distributor…core range of IT products…addition of the ever-important security products",
+   "sources": [
+    [
+     1,
+     "https://compmarket.hu/?p=english"
+    ]
+   ]
+  },
+  {
+   "code": "B-513",
+   "decision": "promote",
+   "site": "controsys.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Controsys 为工业自动化/过程控制分销商，**代理 HMS Networks 旗下 Red Lion / N-Tron / SIXNET 工业交换机（Layer 3、管理型冗余、PoE、IP67 甚至军工级）**，另有 AVEVA/Softing/MB Connect → 工业交换机品类明确+工业客户渠道 → 人工定级升A。（注：其代理线为竞品品牌，仅作渠道定位证据；本轮不发送任何邮件。）",
+   "quote": "HMS (Red Lion és N-Tron) Disztribúció：Ipari switchek Layer 3 hálózatokhoz…menedzselt redundáns vagy nem menedzselt eszközöket…PoE (Power over Ethernet) megoldások",
+   "sources": [
+    [
+     1,
+     "https://controsys.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-084",
+   "decision": "hold-B",
+   "site": "expert.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Expert Zrt. 为宽线 IT 大型分销（笔记本/外设/组件，Networking 仅为其事业部之一）→ 大盘、决策链长，维持B。",
+   "quote": "Expert webáruház - notebook, számítógép periféria és informatikai eszköz nagykereskedés；Expert networking üzletág",
+   "sources": [
+    [
+     1,
+     "https://www.expert.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-086",
+   "decision": "promote",
+   "site": "wireless-bolt.hu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Wireless-Bolt 为无线/网络专营网店，**MikroTik▸Switches 分类、Ubiquiti UniFi—Switching、UISP Wired Switching、TP-Link Omada Switch（L3/L2 Managed、PoE、Smart、Unmanaged）**，并有 OKTATÁS 培训 → 交换机全品类+培训影响力 → 人工定级升A。",
+   "quote": "MikroTik：Switches／SFP/QSFP；Ubiquiti：UniFi - Switching、UISP - Wired - UISP Switching；TP-Link：Omada - Switch - L3/L2 Managed、PoE、Smart、Unmanaged；OKTATÁS",
+   "sources": [
+    [
+     1,
+     "https://wireless-bolt.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-087",
+   "decision": "pending",
+   "site": "toten.com.mk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】站点抓取失败（Failed to fetch），本轮无法核验 → 待重试；暂维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://toten.com.mk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-089",
+   "decision": "promote",
+   "site": "treco.mk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛4】官网核对：Treco（北马其顿）为监控+网络设备商，**Cudy мрежна опрема 含 Switches 分类**、MikroTik 路由、IP 摄像机/NVR 全套 → 交换机品类+监控(PoE)场景+小公司 → 人工定级升A。",
+   "quote": "Cudy мрежна опрема：Wi-Fi Рутери／Range Extenders／Switches；MikroTik рутери；IP камери/NVR/PTZ 全线",
+   "sources": [
+    [
+     1,
+     "https://treco.mk/"
+    ]
+   ]
+  }
+ ]
+}

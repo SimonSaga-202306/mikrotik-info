@@ -1,0 +1,726 @@
+{
+  "date": "2026-09-27",
+  "scope": "Existing A contacts only; numbering and grades unchanged. Public listing is not deliverability verification.",
+  "records": [
+    {
+      "code": "A-110",
+      "email": "sales@sensecosystems.com",
+      "site": "https://www.sensecosystems.com",
+      "level": "official",
+      "note": "官网联系页明确列出销售邮箱，保留原电话；北区另有销售入口。",
+      "sources": [
+        [
+          1,
+          "https://www.sensecosystems.com/contact-us/"
+        ]
+      ]
+    },
+    {
+      "code": "A-111",
+      "email": "",
+      "site": "https://www.universalnetworks.co.uk",
+      "level": "lead",
+      "contact": "No published email found; universalnetworks.co.uk; +44 1488 685800; contact form: https://www.universalnetworks.co.uk/contact-us/; Eddie Hing (Managing Director); LinkedIn: https://uk.linkedin.com/company/universal-networks-ltd",
+      "note": "已抓官网联系页两段并查公司 LinkedIn，未找到明文邮箱。撤回此前按姓名猜出的地址及建议试投 info 邮箱，不计入已找到邮箱。负责人 Eddie Hing 见官网公开署名；公司 LinkedIn 可作为后续入口。",
+      "sources": [
+        [
+          1,
+          "https://www.universalnetworks.co.uk/contact-us/"
+        ],
+        [
+          1,
+          "https://www.universalnetworks.co.uk/we-are-here-to-help-you/"
+        ],
+        [
+          2,
+          "https://uk.linkedin.com/company/universal-networks-ltd"
+        ]
+      ]
+    },
+    {
+      "code": "A-112",
+      "email": "info@brsnetworks.se",
+      "site": "https://brsnetworks.se",
+      "level": "company-social",
+      "note": "公司 Facebook 公开邮箱、Visby 地址和电话相符。邮箱公开列出，未做投递测试。",
+      "sources": [
+        [
+          3,
+          "https://www.facebook.com/brsnetworks/"
+        ]
+      ]
+    },
+    {
+      "code": "A-113",
+      "email": "salesteam@a3communications.com",
+      "site": "https://www.cookandboardman.com/division/a3-communications",
+      "level": "official",
+      "note": "集团官网明确列出 Cumberland ME 办事处及销售邮箱；不要混用同名公关公司的域名。",
+      "sources": [
+        [
+          3,
+          "https://www.cookandboardman.com/division/a3-communications"
+        ]
+      ]
+    },
+    {
+      "code": "A-114",
+      "email": "sales@ampliteltech.com",
+      "site": "https://ampliteltech.com",
+      "level": "official",
+      "note": "官网公开销售邮箱；Kaukauna WI 企业 IT、AV 和安防。",
+      "sources": [
+        [
+          3,
+          "https://www.ampliteltech.com/contact-us/"
+        ]
+      ]
+    },
+    {
+      "code": "A-115",
+      "email": "info@bclenterprise.com",
+      "site": "https://bclenterprise.com",
+      "level": "official",
+      "note": "追加查得官网首页明文 info@bclenterprise.com，与此前 Alignable 一致；Ohio 企业身份匹配。",
+      "sources": [
+        [
+          3,
+          "https://bclenterprise.com/"
+        ]
+      ]
+    },
+    {
+      "code": "A-116",
+      "email": "info@securityandnetworks.com",
+      "site": "https://securityandnetworks.com",
+      "level": "official",
+      "note": "首页提取未见邮箱后，官网条款页找到明文地址；不是按域名猜测。安防与网络基础设施集成。",
+      "sources": [
+        [
+          1,
+          "https://securityandnetworks.com/terms-and-conditions/"
+        ]
+      ]
+    },
+    {
+      "code": "A-117",
+      "email": "sales@griffonsecurity.com",
+      "site": "https://griffonsecurity.com",
+      "level": "company-social",
+      "note": "公司 Facebook 明文列出销售邮箱，Kennebunk ME 地址及电话吻合。",
+      "sources": [
+        [
+          1,
+          "https://www.facebook.com/griffontechnology/"
+        ]
+      ]
+    },
+    {
+      "code": "A-118",
+      "email": "jgasperich@hbs.net",
+      "site": "https://www.hbs.net",
+      "level": "directory",
+      "note": "选用商会列出的业务联系人邮箱；先前 admin 地址仅第三方目录提供，不作为优先入口。不把 legal 法务邮箱当销售入口。",
+      "sources": [
+        [
+          3,
+          "https://deltami.org/places/heartland-business-systems/"
+        ]
+      ]
+    },
+    {
+      "code": "A-119",
+      "email": "",
+      "site": "https://www.itc-technologies.com",
+      "level": "lead",
+      "contact": "No published email found; itc-technologies.com; +1 845-561-4440; form: https://www.itc-technologies.com/contact/; LinkedIn: https://www.linkedin.com/company/itccommunications",
+      "note": "已抓官网首页与联系页，仅表单及电话；LinkedIn 公司页公开宣布新域名，匹配 Maybrook NY。旧名 ITC Communications，可从公司页找业务人员；不混用加拿大暖通同名公司。",
+      "sources": [
+        [
+          1,
+          "https://www.itc-technologies.com/contact"
+        ],
+        [
+          1,
+          "https://www.linkedin.com/company/itccommunications"
+        ]
+      ]
+    },
+    {
+      "code": "A-120",
+      "email": "info@kidwellinc.com",
+      "site": "https://www.kidwellinc.com",
+      "level": "official",
+      "note": "官网联系页明文邮箱，匹配 Lincoln NE；保留现有 A 级。",
+      "sources": [
+        [
+          2,
+          "https://www.kidwellinc.com/contact"
+        ]
+      ]
+    },
+    {
+      "code": "A-121",
+      "email": "support@nexwaretechnologies.com",
+      "site": "https://nexwaretechnologies.com",
+      "level": "official",
+      "note": "官网条款与隐私页均公开，Chandler AZ 地址吻合；这是支持邮箱，可作转接入口，不等于采购决策人；排除印度同名公司。",
+      "sources": [
+        [
+          2,
+          "https://nexwaretechnologies.com/policies/privacy-policy"
+        ],
+        [
+          3,
+          "https://nexwaretechnologies.com/policies/terms-of-service"
+        ]
+      ]
+    },
+    {
+      "code": "A-122",
+      "email": "info@paramountsec.com",
+      "site": "https://paramountsec.com",
+      "level": "official",
+      "note": "官网联系页公开，Plymouth Meeting PA 安防集成。",
+      "sources": [
+        [
+          1,
+          "https://paramountsec.com/contact/"
+        ]
+      ]
+    },
+    {
+      "code": "A-123",
+      "email": "hbowerman@professionalcablingsolutions.com",
+      "site": "https://professionalcablingsolutions.com",
+      "level": "directory",
+      "note": "仅 ContactOut 问答列出 Heath Bowerman 及完整邮箱，不能据其格式表认定验证成功；官网仅提供表单及电话。第三方地址待交叉确认，不混用另一域名 professionalcabling.com。",
+      "sources": [
+        [
+          2,
+          "https://contactout.com/company/Professional-Cabling-Solutions-9325"
+        ],
+        [
+          3,
+          "https://professionalcablingsolutions.com/contact-us/"
+        ]
+      ]
+    },
+    {
+      "code": "A-124",
+      "email": "danl@1rti.com",
+      "site": "https://www.1rti.com",
+      "level": "official",
+      "note": "官网搜索结果结构化 contactPoint 列出此邮箱；North Sioux City SD 地址相符。只记录公开地址，不推断姓名或职位。",
+      "sources": [
+        [
+          3,
+          "https://www.1rti.com/"
+        ]
+      ]
+    },
+    {
+      "code": "A-125",
+      "email": "connecticut-service@security101.com",
+      "site": "https://www.security101.com/connecticut",
+      "level": "official",
+      "note": "官网 Connecticut 站公开服务邮箱；仅转接入口，非采购人。与 Rochester 同品牌不同地方入口，避免重复集团开发。",
+      "sources": [
+        [
+          1,
+          "https://www.security101.com/connecticut"
+        ]
+      ]
+    },
+    {
+      "code": "A-126",
+      "email": "victor.wainwright@security101.com",
+      "site": "https://www.security101.com/rochester",
+      "level": "official",
+      "note": "官网 2023 年 PGA 项目新闻公开 Owner/CEO Victor Wainwright 邮箱；另有当前地方服务邮箱 rochester-service@security101.com。具名职位属历史披露，未验证任职延续。",
+      "sources": [
+        [
+          3,
+          "https://www.security101.com/blog/security-101-helps-secure-the-pga-championship-with-mobile-surveillance"
+        ],
+        [
+          1,
+          "https://www.security101.com/rochester"
+        ]
+      ]
+    },
+    {
+      "code": "A-127",
+      "email": "info@silcofs.com",
+      "site": "https://silcofs.com",
+      "level": "official",
+      "note": "以官网条款页公开邮箱为主，替代第三方旧域名联系人入口。",
+      "sources": [
+        [
+          1,
+          "https://silcofs.com/terms-of-use/"
+        ]
+      ]
+    },
+    {
+      "code": "A-128",
+      "email": "info@uberdatanetworks.com",
+      "site": "https://www.uberdatanetworks.com",
+      "level": "official",
+      "note": "官网公开邮箱；包含交换、无线、光网络的实施与运维，不使用测试站作为唯一依据。",
+      "sources": [
+        [
+          3,
+          "https://www.uberdatanetworks.com/"
+        ]
+      ]
+    },
+    {
+      "code": "A-129",
+      "email": "info@vartek.com",
+      "site": "https://vartek.com",
+      "level": "company-social",
+      "note": "公司 Facebook 与 Crunchbase 公开邮箱一致；Dayton OH 教育 IT 服务。",
+      "sources": [
+        [
+          3,
+          "https://www.facebook.com/vartekservices/"
+        ],
+        [
+          1,
+          "https://www.crunchbase.com/organization/vartek-services"
+        ]
+      ]
+    },
+    {
+      "code": "A-130",
+      "email": "info@wiretech-inc.com",
+      "site": "https://wiretechnologies.com",
+      "level": "official",
+      "note": "官网页脚真实地址及 Kaukauna WI 联系方式；页面正文有未清除的模板邮箱和假电话，已排除，不混用英国或德国同名实体。",
+      "sources": [
+        [
+          2,
+          "https://wiretechnologies.com/contact/"
+        ]
+      ]
+    },
+    {
+      "code": "A-131",
+      "email": "verkoop@sdc.nl",
+      "site": "https://sdc.nl",
+      "level": "official",
+      "note": "官网 MikroTik 品牌页明确列出销售邮箱，另有 info@sdc.nl。Doetinchem NL。",
+      "sources": [
+        [
+          2,
+          "https://sdc.nl/brands/MikroTik"
+        ]
+      ]
+    },
+    {
+      "code": "A-132",
+      "email": "info@nabacom.it",
+      "site": "https://www.nabacom.it",
+      "level": "official",
+      "note": "意大利官网联系页公开；不混用萨尔瓦多 nabacom.com，人员聚合库混杂两者。",
+      "sources": [
+        [
+          1,
+          "https://www.nabacom.it/contatti/"
+        ]
+      ]
+    },
+    {
+      "code": "A-133",
+      "email": "info@5g-it.de",
+      "site": "https://www.5g-it.de",
+      "level": "official",
+      "note": "官网公开邮箱，Velen；IT 服务涵盖 Network、Security。",
+      "sources": [
+        [
+          2,
+          "https://www.5g-it.de/"
+        ]
+      ]
+    },
+    {
+      "code": "A-134",
+      "email": "halle@acp.de",
+      "site": "https://www.acp-gruppe.com/standorte/halle",
+      "level": "official",
+      "note": "匹配库内 Halle 分支；不拿 Mannheim 或奥地利邮箱代替本账号；集团采购决策链仍需区分。",
+      "sources": [
+        [
+          1,
+          "https://www.acp-gruppe.com/standorte/halle"
+        ]
+      ]
+    },
+    {
+      "code": "A-135",
+      "email": "info@acteos.de",
+      "site": "https://www.acteos.de",
+      "level": "official",
+      "note": "德国 Gilching 官网联系页公开，非法国总部邮箱；物流软件及硬件方案，接入交换实际采购仍需确认。",
+      "sources": [
+        [
+          2,
+          "https://www.acteos.de/kontakt"
+        ],
+        [
+          1,
+          "https://ixtenso.com/anbieter/2757-acteos-gmbh-co-kg.html"
+        ]
+      ]
+    },
+    {
+      "code": "A-136",
+      "email": "info@alarm-as.de",
+      "site": "https://www.alarm-as.de",
+      "level": "official",
+      "note": "官网 Impressum 同时列出 Schwerin 分支；此为公司公共邮箱，可要求转 Schwerin，非已确认分支专属邮箱。",
+      "sources": [
+        [
+          4,
+          "https://www.alarm-as.de/kontakt/impressum"
+        ]
+      ]
+    },
+    {
+      "code": "A-137",
+      "email": "info@alcoidstein.de",
+      "site": "https://www.alcoidstein.de",
+      "level": "official",
+      "note": "官网 info{at}alcoidstein.de 无歧义规范化为 @；Idstein IT 系统集成，不混用 Hamburg 房地产软件同名公司。",
+      "sources": [
+        [
+          2,
+          "https://www.alcoidstein.de/"
+        ]
+      ]
+    },
+    {
+      "code": "A-138",
+      "email": "info@amro.de",
+      "site": "https://www.amro.de",
+      "level": "official",
+      "note": "官网 Impressum 明文邮箱；负责人 Jürgen Reutelhuber。",
+      "sources": [
+        [
+          2,
+          "https://www.amro.de/impressum/"
+        ]
+      ]
+    },
+    {
+      "code": "A-139",
+      "email": "info@arche.de",
+      "site": "https://www.arche-systeme.de",
+      "level": "partner-directory",
+      "note": "Sperry Marine 官方合作站名录公开 Wilhelmshaven ARCHE 邮箱；不是西班牙考古 ARCHEsystem。",
+      "sources": [
+        [
+          2,
+          "https://www.sperrymarine.com/partner-service-stations/eur-arche-systeme-gmbh/"
+        ]
+      ]
+    },
+    {
+      "code": "A-140",
+      "email": "vertrieb@bachert.de",
+      "site": "https://www.bachert.de",
+      "level": "official",
+      "note": "官网明确区分销售、通用与技术邮箱，采用销售入口。",
+      "sources": [
+        [
+          1,
+          "https://www.bachert.de/ueber-uns/kontakt/"
+        ]
+      ]
+    },
+    {
+      "code": "A-141",
+      "email": "vertrieb@baien.de",
+      "site": "https://baien.de",
+      "level": "official",
+      "note": "官网列出销售邮箱；通用入口 info@baien.de。",
+      "sources": [
+        [
+          1,
+          "https://baien.de/BAIEN-GmbH/"
+        ]
+      ]
+    },
+    {
+      "code": "A-142",
+      "email": "mail@bod-networks.com",
+      "site": "https://www.bod-networks.com",
+      "level": "official",
+      "note": "官网 Impressum，具名 Udo Beyer；业务页明确中小企业网络/WLAN和布线。",
+      "sources": [
+        [
+          2,
+          "https://www.bod-networks.com/impressum/"
+        ],
+        [
+          1,
+          "https://www.bod-networks.com/leistungen/"
+        ]
+      ]
+    },
+    {
+      "code": "A-143",
+      "email": "info@buerodata.de",
+      "site": "https://www.buerodata.de",
+      "level": "official",
+      "note": "官网公司页公开，另有具名 Reinhold Laurich 联系入口；集团为 dataVISIONgroup，注意采购层级。",
+      "sources": [
+        [
+          3,
+          "https://www.buerodata.de/Layout/ContentPages/frmCompany.aspx"
+        ]
+      ]
+    },
+    {
+      "code": "A-144",
+      "email": "vertrieb@compdata.de",
+      "site": "https://www.compdata.de",
+      "level": "official",
+      "note": "官网明确销售咨询入口；不要误用招聘邮箱。",
+      "sources": [
+        [
+          3,
+          "https://www.compdata.de/sections"
+        ]
+      ]
+    },
+    {
+      "code": "A-145",
+      "email": "info@dainox.net",
+      "site": "https://www.dainox.net",
+      "level": "official",
+      "note": "官网将此地址用于一般询问和报价；军事通信项目有资质门槛，补邮箱不等于可成交。",
+      "sources": [
+        [
+          3,
+          "https://www.dainox.net/kontakt/"
+        ],
+        [
+          2,
+          "https://afcea.cgideu.com/Common/Ausstellerdetails/574"
+        ]
+      ]
+    },
+    {
+      "code": "A-146",
+      "email": "info@dallmeier.com",
+      "site": "https://www.dallmeier.com",
+      "level": "official",
+      "note": "官网德国总部公共邮箱；页面同时展示自有品牌视频安防及 Systems 集成业务，不能简单认定独立小集成商；本轮不改评级。",
+      "sources": [
+        [
+          1,
+          "https://www.dallmeier.com/de/ueber-uns/dallmeier-systems"
+        ]
+      ]
+    },
+    {
+      "code": "A-147",
+      "email": "datel-vertrieb@dvv-dessau.de",
+      "site": "https://www.datel-dessau.de",
+      "level": "official",
+      "note": "官网商业客户页具名 Nils Schumacher（Sales Manager/Sonderkunden），使用该销售团队邮箱；运营商业务，非已确认交换采购人。",
+      "sources": [
+        [
+          2,
+          "https://www.datel-dessau.de/geschaeftskunden/"
+        ]
+      ]
+    },
+    {
+      "code": "A-148",
+      "email": "kontakt@dds-computer.de",
+      "site": "https://dds-computer.de",
+      "level": "official",
+      "note": "当前官网联系地址优先于旧目录的 info 邮箱；具名 Klaus Döhler、Manfred Eßer。",
+      "sources": [
+        [
+          1,
+          "https://dds-computer.de/"
+        ]
+      ]
+    },
+    {
+      "code": "A-149",
+      "email": "info@prosoft-dresden.com",
+      "site": "https://www.dresdner-prosoft.com",
+      "level": "official",
+      "note": "关联企业官网联系页明确指向 Dresdner ProSoft GmbH 和 Dresden 地址；Xing 交叉印证。",
+      "sources": [
+        [
+          3,
+          "https://www.prosoft-krippner.com/kontakt/"
+        ],
+        [
+          1,
+          "https://www.xing.com/pages/dresdnerprosoftgmbh"
+        ]
+      ]
+    },
+    {
+      "code": "A-150",
+      "email": "spezialkabel@eckmann.de",
+      "site": "https://www.eckmann-spezialkabel.co",
+      "level": "official",
+      "note": "官网联系页与企业 Xing 一致；具名 Kai Eckmann。以电缆分销为主，不因补到邮箱就视为强交换买家。",
+      "sources": [
+        [
+          1,
+          "https://www.eckmann-spezialkabel.co/kontakt"
+        ],
+        [
+          5,
+          "https://www.xing.com/pages/eckmannspezialkabelgmbh"
+        ]
+      ]
+    },
+    {
+      "code": "A-151",
+      "email": "info@gbs-tempest.de",
+      "site": "https://www.gbs-tempest.de",
+      "level": "official",
+      "note": "官网公开公司通用邮箱。TEMPEST 专用业务需注意资质门槛，未改变评级。",
+      "sources": [
+        [
+          3,
+          "https://www.gbs-tempest.de/en/privacy-policy.php"
+        ],
+        [
+          2,
+          "https://x.com/gbs_tempest"
+        ]
+      ]
+    },
+    {
+      "code": "A-152",
+      "email": "info@g-u.de",
+      "site": "https://www.g-u.com",
+      "level": "official",
+      "note": "德国总部通用入口；与 A-153/A-154 同集团，不是三个独立新客户。保留编号，不合并删除。",
+      "sources": [
+        [
+          2,
+          "https://www.g-u.com/de-de"
+        ],
+        [
+          2,
+          "https://www.g-u.com/de-en/about-us/brand-presentation"
+        ]
+      ]
+    },
+    {
+      "code": "A-153",
+      "email": "info@g-u.de",
+      "site": "https://www.g-u.com",
+      "level": "official",
+      "note": "仅找到集团总部公共邮箱，未证实 Berlin 分支专属邮箱。与 A-152 共用入口，外联按同集团合并考虑；不认定为新增独立邮箱，也不凭名称合并账号或改编号。",
+      "sources": [
+        [
+          3,
+          "https://www.g-u.com/de-de/impressum"
+        ]
+      ]
+    },
+    {
+      "code": "A-154",
+      "email": "info@gu-bks.de",
+      "site": "https://www.gu-bks.de",
+      "level": "partner-directory",
+      "note": "BHE 行业协会列出 Velbert 服务公司邮箱；GU 官网确认同集团服务实体，注意与 A-152/153 协同，避免重复联系。",
+      "sources": [
+        [
+          1,
+          "https://www.bhe.de/kongresspartner-detailseiten/brand/gu-bks-service-gmb-h"
+        ],
+        [
+          2,
+          "https://www.g-u.com/de-en/about-us/brand-presentation"
+        ]
+      ]
+    },
+    {
+      "code": "A-155",
+      "email": "info@hug.de",
+      "site": "https://www.hug.de",
+      "level": "official",
+      "note": "追加查得 H&G 自有域名联系页/商店公开 info@hug.de，Bonn 地址吻合；不采用第三方双 i 误拼。",
+      "sources": [
+        [
+          1,
+          "https://www.hug.de/unternehmen/kontakt/?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef776cd94f3a8be1a988aec2bc6a13a0"
+        ],
+        [
+          2,
+          "https://shop.hug.de/unknown/hp-image-aufspielung.html"
+        ]
+      ]
+    },
+    {
+      "code": "A-156",
+      "email": "info@hmt-hamburg.com",
+      "site": "https://www.hmt-hamburg.com",
+      "level": "official",
+      "note": "实际抓取官网联系页，明文 mailto 地址；剔除第三方目录混入的 hkt 错域名。",
+      "sources": [
+        [
+          1,
+          "https://www.hmt-hamburg.com/kontakt"
+        ]
+      ]
+    },
+    {
+      "code": "A-157",
+      "email": "vertrieb@human-art.de",
+      "site": "https://www.humanart-kyocera.de",
+      "level": "official",
+      "note": "企业自营 Kyocera 站点公开 vertrieb(at)human-art.de，规范化为 @；Berlin 地址及法人全名相符。",
+      "sources": [
+        [
+          3,
+          "https://www.humanart-kyocera.de/human-art/wir-ueber-uns"
+        ]
+      ]
+    },
+    {
+      "code": "A-158",
+      "email": "info@inducio.de",
+      "site": "https://www.inducio-services.net",
+      "level": "official",
+      "note": "企业联系与 Impressum 页面公开，Traunstein；负责人 Siegmund Gromotka。",
+      "sources": [
+        [
+          2,
+          "https://www.inducio-services.net/kontakt/"
+        ],
+        [
+          3,
+          "https://inducio-services.net/en/impressum"
+        ]
+      ]
+    },
+    {
+      "code": "A-159",
+      "email": "info.de@insight.com",
+      "site": "https://insightportal.de",
+      "level": "official",
+      "note": "德国法人 Impressum 公开邮箱和 Raunheim 地址；不混用奥地利或瑞士分支。规模/采购链风险保留，本轮仅补联系，不改等级。",
+      "sources": [
+        [
+          3,
+          "https://insightportal.de/impressum"
+        ]
+      ]
+    }
+  ]
+}

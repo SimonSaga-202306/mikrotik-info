@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第3批（保加利亚/克罗地亚/加拿大行）。判据同前；另新增 pending（待二次核验分类页）分类。",
+ "records": [
+  {
+   "code": "B-046",
+   "decision": "hold-B",
+   "site": "pclife.bg",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：PCLife 为二手电脑/POS/外设店（软硬件零售为主），无交换机品类证据 → 维持B。",
+   "quote": "Компютри и лаптопи втора ръка Пловдив；分类为 POS 设备、触摸屏、外设、二手整机",
+   "sources": [
+    [
+     1,
+     "https://www.pclife.bg/"
+    ]
+   ]
+  },
+  {
+   "code": "B-048",
+   "decision": "hold-B",
+   "site": "riva.bg",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：RIVA 为电脑/打印机/监控零售店（Burgas），无交换机品类 → 维持B。",
+   "quote": "RIVA - Компютри, аксесоари, консумативи；三大板块：Преносими компютри／Принтери／Видеонаблюдение",
+   "sources": [
+    [
+     1,
+     "https://www.riva.bg/"
+    ]
+   ]
+  },
+  {
+   "code": "B-049",
+   "decision": "promote",
+   "site": "vesuviustreamline.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：Vesuvius Streamline（Rootelsat）为通信网络专营，**「Суичове」一级分类含 ПОЕ Суичове／Оптични Рутери и Суичове**，MikroTik 线再分「PoE/Оптични/Медни Суичове」，另有 UniFi Switches、监控、PON → 交换机品类完整（PoE/光口）+网络专营 → 人工定级升A。",
+   "quote": "Кабелни Мрежи：Суичове／ПОЕ Суичове／Оптични Рутери и Суичове；MikroTik→СУИЧОВЕ：PoE Суичове、ОПТИЧНИ СУИЧОВЕ、МЕДНИ СУИЧОВЕ；UniFi Switches",
+   "sources": [
+    [
+     1,
+     "https://vesuviustreamline.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-052",
+   "decision": "hold-B",
+   "site": "ezy.hr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：EZY Infotech 为宽线 IT 分销（整机/组件/配件目录 9+ 段），未见网络/交换机品类 → 维持B。",
+   "quote": "EZY Infotech d.o.o. – PREGLED KATALOGA：RAČUNALA／KOMPONENTE RAČUNALA／Grafičke Kartice／Tvrdi Diskovi…",
+   "sources": [
+    [
+     1,
+     "https://ezy.hr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-053",
+   "decision": "pending",
+   "site": "lost.hr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：LOST d.o.o. 有「Mrežna oprema」一级品类，并与 TP-Link 合办 Omada 伙伴/集成商工作坊（集中管理网络基础设施）→ 网络基础设施方向明确，但首页未直接见到交换机型号；待二次核验「Mrežna oprema」分类后再判，本轮不改级。",
+   "quote": "LOST d.o.o. u suradnji s TP-Linkom organizira TP-Link Omada OCNA radionicu… za centralizirano upravljanje mrežnom infrastrukturom；分类含 Mrežna oprema",
+   "sources": [
+    [
+     1,
+     "https://lost.hr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-063",
+   "decision": "promote",
+   "site": "proreseau.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：ProRéseau（魁北克城）为一人公司，服务含结构化布线、**routeur ou switch 编程**、5.2GHz 83km 点对点、SIP 电话；官网直接给出负责人手机与 fgauthier@proreseau.net → 交换机实操需求+决策链最短（本人） → 人工定级升A。",
+   "quote": "Pro Réseau Consultation Mikrotik：Cablage structurer／Programation Routeur… experte dans le cablage structuré, liens sans-fils et la programation de routeur ou switch；Frédéric Gauthier, fgauthier@proreseau.net, 418-847-6318",
+   "sources": [
+    [
+     1,
+     "https://www.proreseau.net/"
+    ]
+   ],
+   "email": "fgauthier@proreseau.net"
+  },
+  {
+   "code": "B-067",
+   "decision": "promote",
+   "site": "jrsglcanada.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：JRSGL Canada 为网络/电信硬件分销网店，在售 **MikroTik CRS 系列交换机（CRS520-4XS-16XQ、CRS518-16XS-2XQ、CRS804）**、TP-Link Omada L2+ 管理型 PoE++ 交换机 SG3428XPP-M2（8×PoE++）→ 管理型/PoE++ 交换机品类明确 → 人工定级升A。",
+   "quote": "IT Networking & Telecom Hardware Distributor；TP-Link Omada SG3428XPP-M2 24-Port 2.5G L2+ Managed Switch with 16 PoE+ / 8 PoE++；MikroTik CRS520-4XS-16XQ-RM 100G Enterprise Switch",
+   "sources": [
+    [
+     1,
+     "https://jrsglcanada.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-068",
+   "decision": "promote",
+   "site": "mbsiwav.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：MBSI WAV 定位「Canada’s Top Wireless Equipment Distributor For WISP & ISP」，主推 MikroTik/Ubiquiti/Cambium/Tarana/ALTA，库存与价格公开（含 MikroTik ROSE、hAP ax3 等）→ WISP/ISP 渠道核心分销、接入层设备需求明确 → 人工定级升A。",
+   "quote": "Canada’s Top Wireless Equipment Distributor For WISP & ISP；在售 MikroTik RDS2216-2XG-4S+4XS-2XQ、hAP ax3；Cambium ePMP 4600；ALTA Route10",
+   "sources": [
+    [
+     1,
+     "https://www.mbsiwav.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-069",
+   "decision": "promote",
+   "site": "shop.mahkesis.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：Mahkesis Group 为 MikroTik 专营网店，**有 Switches 分类**并在售 CRS354-48P-4S+2Q+RM（48 口 PoE）、CRS518-16XS-2XQ-RM（100G）、CRS312、CRS510 → 交换机品类+PoE 型号明确、小公司 → 人工定级升A。",
+   "quote": "Switches 分类：CRS354-48P-4S+2Q+RM（48 Port POE Switch）／CRS518-16xs-2XQ-RM（100G Enterprise Switch）／CRS312-4C+8XG-RM／CRS510-8xs-2XQ-IN",
+   "sources": [
+    [
+     1,
+     "https://shop.mahkesis.com/en/"
+    ]
+   ]
+  },
+  {
+   "code": "B-072",
+   "decision": "hold-B",
+   "site": "jmr.ca",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛3】官网核对：JMR Logics（Niagara）为 IT 托管/MSP（自述「不是电脑店」），无产品目录与交换机品类 → 无交换机需求证据，维持B。",
+   "quote": "JMR Logics - Niagara IT support, computer and network management；We’re not a computer store…monitor and maintain their critical business technology",
+   "sources": [
+    [
+     1,
+     "https://www.jmrlogics.com/"
+    ]
+   ]
+  }
+ ]
+}

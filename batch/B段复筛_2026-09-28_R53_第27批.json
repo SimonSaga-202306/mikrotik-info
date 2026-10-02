@@ -1,0 +1,20 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第27批（补充复核 1 条：罗马尼亚 mikrotik.ro 升 A）。",
+ "records": [
+  {
+   "code": "B-318",
+   "decision": "promote",
+   "site": "mikrotik.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛27·补充复核】官网核对：mikrotik.ro（Netter System SRL，罗马尼亚）为 **MikroTik 专营网店**（标题「Aici gasiti produsele marca MikroTik RouterBOARD de la routere wireless pentru acasa pana la routere profesionale pentru ISP」）；类目含 **Switch-uri**（https://mikrotik.ro/5-Switch-uri）、Routere Ethernet、Wireless SOHO/802.11abgn/ac/ad、Routere 3G/4G LTE、Powerline、IoT、RouterBOARD、Surse-POE、Licenta RouterOS、Antene；在售 **CRS418-8P-8G-2S+5axQ2axQ-RM（„HW L3 offload L3, procesor ARM quad-core 2,2 GHz, 16 porturi Gigabit Ethernet“，2.339 lei，可加购）**，另有 L009UiGS-2HaxD-IN、hAP ax²、hAP ax lite、LHG-5axD-XL、hAP be lite → MikroTik 交换机专营网店 → 人工定级升A。",
+   "quote": "mikrotik.ro — „Aici gasiti produsele marca MikroTik RouterBOARD de la routere wireless pentru acasa pana la routere profesionale pentru ISP!“；Categorii → MikroTik solutii integrate：**Routere Ethernet（/4-routere-ethernet）／Switch-uri（/5-Switch-uri）／Wireless SOHO／Wireless 802.11abgn/ac/ad／Routere 3G/4G LTE／Powerline／Produse IoT**；MikroTik componente：Kituri complete／RouterBOARD／Interfete／**Surse - POE**／Carcase／**Licenta RouterOS**／Antene；Produse recomandate：**MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM（2.339,00 lei，「HW L3 offload L3…16 porturi Gigabit Ethernet」）**／L009UiGS-2HaxD-IN 572 lei／E50UG hEX refresh 291 lei／hAP ax S 379 lei",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.ro/"
+    ]
+   ]
+  }
+ ]
+}

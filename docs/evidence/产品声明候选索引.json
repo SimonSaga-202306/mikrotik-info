@@ -1,0 +1,1243 @@
+{
+  "Marvell Based CLI Manual.docx": [
+    {
+      "locator": "word/document.xml:paragraph-69",
+      "excerpt": "Configuring ERPS41",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-70",
+      "excerpt": "Overview of ERPS41",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-71",
+      "excerpt": "Introduction to ERPS Rationale41",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-146",
+      "excerpt": "Configuring L3111",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-147",
+      "excerpt": "Overview of L3111",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-589",
+      "excerpt": "L3 interface，Here mainly refers to the SVI port.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1591",
+      "excerpt": "Configuring ERPS",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1592",
+      "excerpt": "Overview of ERPS",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1593",
+      "excerpt": "ERPS (Ethernet Ring Protection Switching) was developed by ITU, also known as G.8032.It is a link layer protocol specifically applied to Ethernet. It can prevent the broadcast storm caused by the data loop when the Ethernet ring network is complete, and can quickly restore the communication between each node on the ring network when a link on the Ethernet ring is disconnected.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1594",
+      "excerpt": "At present, the technology to solve the Layer 2 network loop problem is STP.STP is more mature to use, but its convergence time is longer (seconds).ERPS is a link layer protocol that is specially applied to Ethernet and has a faster rate than STP for convergence, up to 50ms.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1595",
+      "excerpt": "ERPS typical scenario：",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1597",
+      "excerpt": "Introduction to ERPS Rationale",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1598",
+      "excerpt": "ERPS is a standard ring network protocol dedicated to the Ethernet link layer, with the ERPS ring as the basic unit. Only two ports on each layer 2 switch can be added to the same ERPS ring. In the ERPS, in order to prevent network loop, a break-down mechanism can be launched, blocking the RPL owner port and eliminating the ring route. When the ring connection fails, the equipment running the ERPS protocol can quickly forward the blocked port, make the link protection replacement, and restore link communication between various nodes on the ring network. This section mainly presents the rationale for the implementation of ERPS under the basic network based on the normal ->link failure->link recovery process (including protection switch operations).",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1601",
+      "excerpt": "To prevent loops, ERPS first blocks the RPL owner port. If the RPL neighbor port is configured, the port will also be blocked, and other ports can forward traffic normally.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1604",
+      "excerpt": "As shown in the diagram, when the link between SwitchD and SwitchE fails, the ERPS protocol starts the protection switching mechanism, blocks the ports on both ends of the faulty link, and then forward the RPL owner port, and the two ports resume user traffic. receiving and sending, thus ensuring uninterrupted traffic.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1607",
+      "excerpt": "After the link returns to normal, if the ERPS ring is configured in revert mode, the device where the RPL owner port resides will block the traffic on the RPL link again, and the faulty link will be used again to transmit user traffic.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1611",
+      "excerpt": "SWITCH(config)#erps ring <1-255> east-interface IFNAME west-interface IFNAME",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1612",
+      "excerpt": "SWITCH(config)#no erps ring <1-255>",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1614",
+      "excerpt": "Create/delete ERPS ring.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1615",
+      "excerpt": "The ERPS ring is made up of the same set of VLAN and interconnected layer 2 switch, which is the basic unit of the ERPS protocol and needs to be configured on each device in the ring.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1616",
+      "excerpt": "The ring number is the unique identifier for the ERPS ring.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1617",
+      "excerpt": "Creating ERPS Instance",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1619",
+      "excerpt": "SWITCH(config)#erps instance NAME ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1620",
+      "excerpt": "SWITCH(config)#no erps instance NAME",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1622",
+      "excerpt": "Create/remove ERPS instances; Create an instance to go into instance configuration mode.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1623",
+      "excerpt": "For the layer 2 switch operating an ERPS protocol, VLAN transmitting ERPS and data articles must be mapped into a protective instance so that ERPS protocol can be forwarded or blocked in accordance with their blocking principles. Otherwise, user traffic could cause broadcast storms in a ring network that could make the network unavailable.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1624",
+      "excerpt": "Associating ERPS Instances and Rings",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1626",
+      "excerpt": "SWITCH(config-erps-inst)#ring <1-255>",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1628",
+      "excerpt": "Configure the corresponding relationships between ERPS instances and rings.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1629",
+      "excerpt": "Configuring ERPS Instance Level",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1631",
+      "excerpt": "SWITCH(config-erps-inst)#level <0-7>",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1633",
+      "excerpt": "Configure ERPS instance level.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1634",
+      "excerpt": "Configuring RPL Roles in ERPS Instance",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1636",
+      "excerpt": "SWITCH(config-erps-inst)#rpl-role NAME",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1638",
+      "excerpt": "Configure the ERPS instance RPL role;",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1639",
+      "excerpt": "An ERPS ring has only one RPL owner port, which is determined by user configuration. The RPL owner port is blocked from forwarding user traffic to prevent loops in the ERPS ring.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1642",
+      "excerpt": "SWITCH(config-erps-inst)#vlan <1-4094> raps-channel",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1643",
+      "excerpt": "SWITCH(config-erps-inst)#no raps-channel",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1645",
+      "excerpt": "Configuration/delete raps VLAN for ERPS instances;",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1646",
+      "excerpt": "Each ERPS ring must be configured with a raps VLAN.Different ERPS rings cannot use the same raps VLAN ID.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1649",
+      "excerpt": "SWITCH(config-erps-inst)#protected-mst-instance <0-255>",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1656",
+      "excerpt": "SWITCH(config-erps-inst)#sub-ring block (east-interface | west-interface)",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1658",
+      "excerpt": "Configure the ERPS instance as a sub-ring instance and specify a sub-ring block port.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1661",
+      "excerpt": "SWITCH(config-erps-inst)#virtual-channel attached-to-instance NAME",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1662",
+      "excerpt": "SWITCH(config-erps-inst)# non-virtual-channel",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1664",
+      "excerpt": "Configure the type of ERPS intersecting sub-ring: virtual channel and associated main ring; or non-virtual channel type.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1669",
+      "excerpt": "Configuring ERPS Revert Mode",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1671",
+      "excerpt": "SWITCH(config-erps-inst)#revertive | non-revertive",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1673",
+      "excerpt": "Configure ERPS revertive/non-revertive.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1674",
+      "excerpt": "Configuring ERPS Timer Parameters",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1676",
+      "excerpt": "SWITCH(config-erps-inst)# (wtr-timer (<1-12> | default) | holdoff-timer (<0-100> | default) | guard-timer (<1-200> | default))",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1678",
+      "excerpt": "Configure ERPS timer parameters.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1683",
+      "excerpt": "Configuring ERPS Logging",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1685",
+      "excerpt": "SWITCH(config)# erps logging",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1686",
+      "excerpt": "SWITCH(config)# no erps logging",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1688",
+      "excerpt": "Configure ERPS logging.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1693",
+      "excerpt": "Enter global configuration mode, create ERPS and set related parameters, command reference list below：",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1699",
+      "excerpt": "Create ERPS ring 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1700",
+      "excerpt": "SWITCH(config)#erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1701",
+      "excerpt": "Create ERPS instance 1, associated with ring 1, and associated details configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1702",
+      "excerpt": "SWITCH(config)#erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1703",
+      "excerpt": "SWITCH(config-erps-inst)#ring 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1704",
+      "excerpt": "SWITCH(config-erps-inst)#rpl-role non-owner",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1705",
+      "excerpt": "SWITCH(config-erps-inst)#vlan 1000 raps-channel",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1707",
+      "excerpt": "Enter global configuration mode, create ERPS and set related parameters, command reference list below：",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1711",
+      "excerpt": "SWITCH(config)#Erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1712",
+      "excerpt": "SWITCH(config)#Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1713",
+      "excerpt": "SWITCH(config-erps-inst)#ring 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1714",
+      "excerpt": "SWITCH(config-erps-inst)#rpl-role owner east",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1715",
+      "excerpt": "SWITCH(config-erps-inst)#vlan 1000 raps-channel",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1724",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1725",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1729",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/9 west gigabitEthernet0/11",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1730",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1739",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1740",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1744",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/12 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1745",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1754",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/5 west gigabitEthernet0/6",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1755",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1763",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1764",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1777",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1778",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1782",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/11 west gigabitEthernet0/12",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1783",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1790",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1791",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1799",
+      "excerpt": "Erps ring 1 east gigabitEthernet0/5 west gigabitEthernet0/6",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1800",
+      "excerpt": "Erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1807",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1808",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1816",
+      "excerpt": "Erps ring 2 east gigabitEthernet0/9 west gigabitEthernet0/10",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1817",
+      "excerpt": "Erps instance 2",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1821",
+      "excerpt": "Show ERPS Ring Information",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1822",
+      "excerpt": "SWITCH#show erps ring 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1831",
+      "excerpt": "Show ERPS Instances",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1833",
+      "excerpt": "SWITCH#show erps instance 1",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1837",
+      "excerpt": "State                 : ERPS_ST_IDLE",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-3613",
+      "excerpt": "✦ For a port in the block state, the protocol considers that there is no possibility of a loop. Even if the port is enabled for loop detection, the actual function cannot run normally. In an environment where stp and erps are enabled, a similar situation may exist. It is recommended to make the function mutually exclusive in the configuration.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-4016",
+      "excerpt": "Configuring L3",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-4017",
+      "excerpt": "Overview of L3",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-4018",
+      "excerpt": "L3 functions include: Layer 3 port management, ARP management and Routing management.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-4197",
+      "excerpt": "Show L3 Interface",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "Marvell Based Web Manual.docx": [
+    {
+      "locator": "word/document.xml:paragraph-39",
+      "excerpt": "3.4 ERPS33",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-41",
+      "excerpt": "3.4.2 Configure the ERPS37",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-250",
+      "excerpt": "ERPS",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-251",
+      "excerpt": "Set ERPS single ring, tangent ring, intersecting ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-410",
+      "excerpt": "The “Loop Protection” page is used to display the working status of device loop-related protocols, such as ERPS and Spanning Tree protocols.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-412",
+      "excerpt": "2. You can see the working status of the ERPS and Spanning Tree Protocol that have been enabled, and the specific parameters can be described in the relevant sections of the protocol.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-413",
+      "excerpt": "3. Click the ERPS Configuration and Spanning Tree Configuration buttons to directly switch to the relevant configuration interface.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-459",
+      "excerpt": "2. In this page, you can see the working status of the ERPS, Spanning tree, IP Source Guard, and MAC authentication, and the specific parameters can be described in the relevant sections of the protocol.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1125",
+      "excerpt": "3.4 ERPS",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1127",
+      "excerpt": "The ITU-T G.8032 ERPS feature implements protection switching mechanisms for Ethernet layer ring topologies. This feature uses the G.8032 Ethernet Ring Protection (ERP) protocol, defined in ITU-T G.8032, to provide protection for Ethernet traffic in a ring topology, while ensuring that no loops are within the ring at the Ethernet layer. The loops are prevented by blocking traffic on either a predetermined link or a failed link.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1131",
+      "excerpt": "The RPL owner interface will be blocked by ERPS protocol to prevent loops. If a RPL neighbor interface is configured, it will also be blocked. Other interfaces are under the forwarding state, can forward the traffic.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1133",
+      "excerpt": "When there is a link failure between SwitchD and SwitchE, the two interfaces on the link will be blocked by ERPS protocol, the RPL owner interface will be forwarded.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1138",
+      "excerpt": "When the failure link is restored. When the erps ring is configured to revertive mode, the RPL owner interface will be blocked by ERPS protocol, the restored link will be configured to forwarding state to forward traffic. ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1143",
+      "excerpt": " All devices in the ring network must support ERPS.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1146",
+      "excerpt": "Figure 3-23 ERPS single ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1152",
+      "excerpt": " All devices in the ring network need to support ERPS.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1154",
+      "excerpt": "Figure 3-24 ERPS Tangent Rings",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1159",
+      "excerpt": " All devices in the ring network need to support ERPS.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1162",
+      "excerpt": "Figure 3-25 ERPS Intersecting Rings",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1164",
+      "excerpt": "3.4.2 Configure the ERPS ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1166",
+      "excerpt": "Select Configuration > ERPS > Ring Configuration in the navigation area to enter the ERPS Ring Configuration page as shown in Figure 3-26, The description of the ERPS Ring Configuration is described in Table 3-15.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1167",
+      "excerpt": "Figure 3-26 ERPS Ring Configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1173",
+      "excerpt": "Can be any number. The ring number of each ERPS ring must be unique.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1175",
+      "excerpt": "The east interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1177",
+      "excerpt": "The west interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1179",
+      "excerpt": "Delete ERPS Ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1180",
+      "excerpt": "ERPS instance configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1181",
+      "excerpt": "Select Configuration > ERPS > Instance Configuration to enter the ERPS instance configuration page, as shown in Figure 3-27. ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1182",
+      "excerpt": "Figure 3-27 ERPS Instance Configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1184",
+      "excerpt": "Click +Add button below “Instance Configuration” to create an erps instance, as shown in Figure 3-28. The description of the ERPS Instance Configuration summary is described in Table 3-16.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1186",
+      "excerpt": "Table 3-16 Description of the ERPS Instance Configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1190",
+      "excerpt": "Create a new one or Link to a ERPS ring which has been created",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1194",
+      "excerpt": "The east interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1196",
+      "excerpt": "The west interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1198",
+      "excerpt": "Each switch in the same ring must be configured with the same RAPS management VLAN for transmitting ERPS protocol packets.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1202",
+      "excerpt": "ERPS Owner interface can select either the east interface or the west ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1204",
+      "excerpt": "Each ERPS ring has one and only one interface configured as an RPL owner interface that controls the ports that need to be blocked.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1230",
+      "excerpt": "Figure 3-28 ERPS Instance Configuration",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1233",
+      "excerpt": "View ERPS state",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1234",
+      "excerpt": "Click ERPS State button to enter the ERPS State page, as shown in Figure 3-29. The description of the ERPS State summary is described in Table 3-17.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1235",
+      "excerpt": "Figure 3-29 ERPS State",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1237",
+      "excerpt": "Table 3-17 ERPS state description",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1241",
+      "excerpt": "The name of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1243",
+      "excerpt": "The number of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1245",
+      "excerpt": "ERPS ring status, include：",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1261",
+      "excerpt": "The east interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-1263",
+      "excerpt": "The west interface of the ERPS ring",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-2756",
+      "excerpt": "2. Select Configuration > Port > Port Configuration > L3 port in the navigation area to create L3 SVI port as shown in Figure 4-44.",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "word/document.xml:paragraph-2757",
+      "excerpt": "Figure 4-44 Creating a L3 SVI port",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "Saga Feature List_7.5.x_L2+.xlsx": [
+    {
+      "locator": "7.5.x!C37",
+      "excerpt": "ERPS G.8032",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "Saga Feature List_7.5.x_L3.xlsx": [
+    {
+      "locator": "7.5.x!B1",
+      "excerpt": "Marvell —— Software Management Features L3",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "7.5.x!C37",
+      "excerpt": "ERPS G.8032",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "7.5.x!D85",
+      "excerpt": "MPLS L3vpn",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx": [
+    {
+      "locator": " Managed Industrial Switches!C4",
+      "excerpt": "● 4*10/100Base-T RJ45 ports, 1*100Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C5",
+      "excerpt": "● 4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C6",
+      "excerpt": "● 8*10/100/1000Base-T RJ45 ports, 2*1000/2500Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C8",
+      "excerpt": "● 4*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                  ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C9",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                         ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C10",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                    ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C11",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*100/1000M SFP, 4*1G/2.5G SFP\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection \n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C12",
+      "excerpt": "●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                                   ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C13",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C14",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C15",
+      "excerpt": "●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C17",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                              ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C18",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!H18",
+      "excerpt": "L3 1900",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C19",
+      "excerpt": "●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                      ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C20",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C21",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                     ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C22",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C23",
+      "excerpt": "●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G/10G Base-X SFP+ slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!A24",
+      "excerpt": "L3 Managed Industrial Ethernet Switch with 10G uplink series",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C25",
+      "excerpt": "Industrial L3,  8*10/100/1000Base-T RJ45,4*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C26",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 2*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C27",
+      "excerpt": "Industrial L3,  8*10/100/1000Base-T RJ45, 8*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C28",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C29",
+      "excerpt": "Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C30",
+      "excerpt": "Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C31",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C32",
+      "excerpt": "Industrial L3,  16*100/1000Base-X SFP, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C33",
+      "excerpt": "Industrial L3,  48*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-价格有效期2026.09.1--2026.12.30.xlsx": [
+    {
+      "locator": " Managed Industrial Switches!C4",
+      "excerpt": "● 4*10/100Base-T RJ45 ports, 1*100Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C5",
+      "excerpt": "● 4*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C6",
+      "excerpt": "● 8*10/100/1000Base-T RJ45 ports, 2*1000/2500Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Support Layer 2 management function:                                                      VLAN/Port Mirroring/STP/RSTP/IGMP/QoS/LLDP/802.1X/SFP DDM\n/PoE management/IPV6 management/Web/SNMP/Telnet/management\n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C8",
+      "excerpt": "● 4*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                  ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C9",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                         ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C10",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                    ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C11",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*100/1000M SFP, 4*1G/2.5G SFP\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection \n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C12",
+      "excerpt": "●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5GBase-X SFP slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                                   ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C13",
+      "excerpt": "●16*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots ,DI/DO/RS485\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C14",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots,DI/DO/RS485\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C15",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C16",
+      "excerpt": "●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C18",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                              ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C19",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 4*1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                       ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C20",
+      "excerpt": "●16*10/100/1000Base-T RJ45 ports, 2*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n●Support one output relay alarm                                                                      ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C21",
+      "excerpt": "●8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C22",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP+ slots\n● DC 12~75V input, redundant power supply with polarity reverse/over-voltage/over-current protection                                                                                     ● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+80℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C23",
+      "excerpt": "●24*10/100/1000Base-T RJ45 ports, 4*1G/2.5G/10GBase-X SFP slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/PoE management/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and rack-mount hardware design\n● Operation temperature: -40 ℃ ~+75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C24",
+      "excerpt": "●16*100/1000Base-X SFP slots, 8*1000Base Combo, 4*1G/2.5G/10G Base-X SFP+ slots\n● AC/DC redundant power supply with polarity reverse/over-voltage/over-current protection\n● Layer 3 features: Support IPv4/IPv6 static routing, DHCP server\n● Support Layer 2 management function:                                                      VLAN/VLAN Classification/QinQ/STP, RSTP,\nMSTP/Port Mirroring/DHCP/Multicast/ACL/IGMP/QoS/LLDP/802.1X/Dying Gasp/SFP DDM/IPV6 management/Web/SNMP/Telnet/TFTP/Web upgrading                                                         \n●Support G.8032 ERPS protocol, recovery time ≤20ms                                                                             ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+ 75℃\n ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!A25",
+      "excerpt": "L3 Managed Industrial Ethernet Switch with 10G uplink series",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C26",
+      "excerpt": "Industrial L3,  8*10/100/1000Base-T RJ45,4*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C27",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 2*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C28",
+      "excerpt": "Industrial L3,  8*10/100/1000Base-T RJ45, 8*100/1000Base-X SFP, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C29",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C30",
+      "excerpt": "Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C31",
+      "excerpt": "Industrial L3,  24*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C32",
+      "excerpt": "Industrial L3,  16*10/100/1000Base-T RJ45, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C33",
+      "excerpt": "Industrial L3,  16*100/1000Base-X SFP, 8*gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": " Managed Industrial Switches!C34",
+      "excerpt": "Industrial L3,  48*10/100/1000Base-T RJ45, 4*1G/2.5G/10G SFP+, rack-mount",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "SmartByte popular Unmanaged industrial Ethernet switch and industrial MC  pricelist on CNY for Simon-20240111 更新.xlsx": [
+    {
+      "locator": "Industrial Media Converters!C4",
+      "excerpt": "● 1*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP ;  2.Flow control;  3.Broadcast storm restrain;  4.10Kbytes jumbo frame                         ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C5",
+      "excerpt": "● 1*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. 250m long distance;  4.PoE watchdog                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C6",
+      "excerpt": "● 2*10/100Base-TX RJ45 port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Flow control; 3. Broadcast storm restrain 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                                 ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C7",
+      "excerpt": "● 2*10/100Base-TX RJ45 PoE/PoE+ port, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                                  ● Support 1M large buffer                                                                                                          ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n●  Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C8",
+      "excerpt": "● 2*10/100Base-TX RJ45 port, 2*100Base-FX SFP port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Fiber redundant; 2. Flow control; 3.Broadcast storm restrain; 4. 10K Bytes Jumbo frame                                                                                                                         ● Support 1M large buffer                                                                                                              ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C9",
+      "excerpt": "● 2*10/100Base-TX RJ45 PoE/PoE+ port, 2*100Base-FX SFP port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Fiber redundant;  2. Flow control;  3.250m long distance;  4.PoE watchdog                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                       ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C11",
+      "excerpt": "●1*10/100/1000Base-T RJ45 port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.LFP;  2. Flow control;  3. Broadcast storm restrain;  4.fiber port 100/1000M selection                                                                                                                                 ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C12",
+      "excerpt": "● 1*10/100/1000Base-T RJ45 PoE/PoE+  port, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.LFP;  2.Fiber port 100/1000M selection;  3.250m long distance;  4.PoE watchdog                                                                                                                                ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C13",
+      "excerpt": "● 2*10/100/1000Base-T RJ45 ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C14",
+      "excerpt": "● 2*10/100/1000Base-T RJ45 PoE/PoE+ ports, 1*100/1000Base-X SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C15",
+      "excerpt": "● 2*2*10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports\n● DC 12~58V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2.Flow control; 3.Broadcast storm restrain; 4.Fiber port 100/1000M selection                                                                                                                       ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                                                            ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Industrial Media Converters!C16",
+      "excerpt": "● 2*10/100/1000Base-T RJ45 PoE ports, 2*100/1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection                                                                                                               ●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port redundant; 2. Fiber port 100/1000M selection; 3. 250m long distance; 4.PoE watchdog                                                                                                                      ● Support 10K Bytes Jumbo frame and 1M large buffer                                                                                               ●Support watchdog, it can reboot automatically if the device is frozen\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C20",
+      "excerpt": "●4*10/100Base-TX RJ45 PoE ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;      4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C21",
+      "excerpt": "●4*10/100Base-TX RJ45 PoE ports downlink , 1*10/100Base-TX RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C22",
+      "excerpt": "● 4*10/100Base-TX RJ45 ports, 2*100Base-FX SFP fiber ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C23",
+      "excerpt": "● 8*10/100M RJ45 ports(No.8 is uplink port)\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog                                                                                                                        ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C24",
+      "excerpt": "● 8*10/100Base-TX RJ45 ports, 1*100Base-FX SFP(/SC/ST/FC optional) fiber port\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                                     1.Port isolation;    2. 250m long distance;    3. QoS;     4.PoE watchdog \n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C25",
+      "excerpt": "● 4*10/100/1000Base-T PoE downlink, 1*10/100/1000Base-T RJ45 uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C26",
+      "excerpt": "● 4*10/100/1000Base-T PoE downlink, 1*1000Base-X SFP uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C27",
+      "excerpt": "● 4*10/100/1000M RJ45 ports downlink, 1*1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog                                                                                                                           ●Support 10K Bytes Jumbo frame\n●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n●IP40 fan-less and Din-rail hardware design \n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C28",
+      "excerpt": "● 4*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                             1.Port isolation; 2. 250m long distance; 3. QoS(1-2 ports); 4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C29",
+      "excerpt": "● 8*10/100/1000Base-T PoE ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                                     1. Port isolation;     2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);  4.PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C30",
+      "excerpt": "● 8*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard\n● Powerful Dip switch function:                                                                               1.Port isolation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);    4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C31",
+      "excerpt": "● 8*10/100/1000Base-T RJ45 PoE ports, 4*1000Base-X SFP ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1. Link aggregation;       2. 250m long distance(1-4 ports);                                                  3. QoS(1-2 ports);           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C32",
+      "excerpt": "● 16*10/100/1000Base-T RJ45 PoE/PoE+ ports\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Unmanaged Industrial Switches!C33",
+      "excerpt": "● 16*10/100/1000Base-T RJ45 PoE ports, 2*1000Base-X SFP slots\n● DC 44~57V input, redundant power supply with polarity reverse/over-voltage protection\n●Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard                     ●Support one channel output relay alarm for DC power failure \n● Powerful Dip switch function:                                                                                     1.Link aggregation;         2. 250m long distance(1-4 ports);                                             3. QoS(1-2 ports) ;           4. PoE watchdog\n●Support 10K Bytes Jumbo frame                                                                                  ●Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\n● IP40 fan-less and Din-rail hardware design\n● Operation temperature: -40 ℃ ~+75℃ ",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ],
+  "The pricelist of managed industrial bypass switch for Simon-20250312(1).xlsx": [
+    {
+      "locator": "Sheet1!C6",
+      "excerpt": "L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5GBase-X SFP slots and 1 channel single fiber bypass port, DC44-57V input",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Sheet1!C9",
+      "excerpt": "L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,  4*1G/2.5G/10GBase-X SFP+ slots and 1 channel single fiber bypass port, DC44-57V input",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Sheet1!C13",
+      "excerpt": "L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5GBase-X SFP slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    },
+    {
+      "locator": "Sheet1!C16",
+      "excerpt": "L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W, 4*1G/2.5G/10GBase-X SFP+ slots and 2 channels single fiber Bypass ports or 1 channel dual fiber Bypass port, DC44-57V input",
+      "status": "关键词候选；未核实SKU适用性或实测性能"
+    }
+  ]
+}

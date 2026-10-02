@@ -1,0 +1,175 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第8批（德国/意大利行）。判据同前。",
+ "records": [
+  {
+   "code": "B-515",
+   "decision": "promote",
+   "site": "ateg.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：ATEG Automation GmbH（Remscheid/工业自动化与工业通信专营）设「Industrielle Netzwerktechnik」板块，**直接销售 Red Lion 工业管理型以太网交换机（Industrielle Managed Ethernet Switches）**，另有工业路由器/Teleservice、HMS Networks 战略合作伙伴（2026-03）→ 工业交换机品类明确+工业客户渠道 → 人工定级升A。",
+   "quote": "ATEG Automation GmbH – Ihr Partner für Systeme und Komponenten…；Industrielle Netzwerktechnik（Bild: Red Lion Industrial Managed Ethernet Switches）；ATEG Automation wird Strategic Partner von HMS Networks（04.03.2026）",
+   "sources": [
+    [
+     1,
+     "https://www.ateg.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-141",
+   "decision": "promote",
+   "site": "mikrotik-shop.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：mikrotik-shop.de 为 FMS Internetservice GmbH 的 MikroTik 专营网店，**产品导航含「Switche」独立分类**，首页在售 MikroTik CRS520-4XS-16XQ-RM / CRS320-8P-8B-4S-RM 交换机，面向 ISP/企业/热点运营商 → 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "Willkommen im Onlineshop der FMS Internetservice GmbH…RouterBOARD und RouterOS Produkte von MikroTik…；Produkte：Switche／Netzwerk／Richtfunk；MikroTik CRS320-8P-8B-4S-RM kaufen",
+   "sources": [
+    [
+     1,
+     "https://www.mikrotik-shop.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-516",
+   "decision": "pending",
+   "site": "shop.fiber24.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://shop.fiber24.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-143",
+   "decision": "promote",
+   "site": "mikrotik-store.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：mikrotik-store.eu 为 I-Netpartner GmbH 网店，自述 **「Offizieller MikroTik Master Distributor seit 2008」**（面向 WISP/无线运营商/系统集成商），在售 **CRS418-8P-8G-2S+5axQ2axQ-RM、CRS812-8DS-2DQ-2DDQ-RM（400G 交换机）、CSS606-1G-2Gi-3S+OUT 交换机**，设 B2B 经销账期流程，公开 sales@/support@ 邮箱 → 交换机型号明确+官方总代 → 人工定级升A。",
+   "quote": "Offizieller MikroTik Master Distributor seit 2008；MikroTik CRS812-8DS-2DQ-2DDQ-RM - 400G Switch；MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM；MikroTik CSS606-1G-2Gi-3S+OUT；Rechnungskauf B2B: Wiederverkäufer/Reseller；sales@mikrotik-store.eu",
+   "sources": [
+    [
+     1,
+     "https://www.mikrotik-store.eu/"
+    ]
+   ],
+   "email": "sales@mikrotik-store.eu"
+  },
+  {
+   "code": "B-144",
+   "decision": "pending",
+   "site": "ipc2u.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：IPC2U（工业自动化/嵌入式计算+工控分销）首页以工业 PC、Edge AI、Panel PC 为主，虽称「Smart Network Solutions for Industrial Applications」但未列交换机品类 → 待核验其网络类目后再判；本轮维持B。",
+   "quote": "IPC2U Worldwide | Professional solutions for Industrial Automation；Smart Network Solutions for Industrial Applications! 5G, IoT, and Edge Computing；Recommended Items 全为工控机/Edge AI 主机",
+   "sources": [
+    [
+     1,
+     "https://ipc2u.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-146",
+   "decision": "promote",
+   "site": "nsr-tik.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：NSR（保护系统与通信）自述 **「Ihr offizieller Vertriebspartner für MikroTik-Produkte」**，明确「Wir bieten **Router, Switches** und Wireless-Lösungen für Unternehmen, IT-Dienstleister und Privatkunden」，并提供**批发价/经销商**支持（Großhandelsangebote für Firmen und Wiederverkäufer）→ 交换机品类+官方经销+批发渠道 → 人工定级升A。",
+   "quote": "NSR for Protection Systems and Communications；Professionelle MikroTik Netzwerk-und Kommunikationslösungen；Wir bieten Router, Switches und Wireless-Lösungen…；Autorisierter Vertriebspartner；Großhandelsangebote für Firmen und Wiederverkäufer",
+   "sources": [
+    [
+     1,
+     "https://nsr-tik.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-147",
+   "decision": "promote",
+   "site": "neunetia.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：Neunetia（网络技术网店）**Hot Categories 首位即「Switches」专类**，在售 MikroTik 配件、Cisco C1000-24FP-4G-L、**Cisco Catalyst C1200-48P-4X 48口 PoE+ 交换机（4×10G SFP+）、C1200-24FP-4G PoE+**、Fortinet 防火墙、HPE Aruba AP → 交换机品类+PoE → 人工定级升A。",
+   "quote": "Netzwerktechnik kaufen: Router, Switches & Firewalls | Neunetia；Hot Categories: Switches／Router／Security／Wireless；Cisco Catalyst C1200-48P-4X 48-Port PoE+ Switch – 4x 10G SFP+；Cisco C1000-24FP-4G-L Switch",
+   "sources": [
+    [
+     1,
+     "https://neunetia.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-152",
+   "decision": "pending",
+   "site": "shop.etree.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】站点返回 403 Forbidden（拒绝抓取）→ 无法核验，待人工/替代方式；本轮维持B。",
+   "quote": "403 Forbidden — You don't have permission to access this resource.",
+   "sources": [
+    [
+     1,
+     "https://shop.etree.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-153",
+   "decision": "hold-B",
+   "site": "hsc-solutions.de",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：hsc solutions e.K.（德累斯顿）为小型 MSP（IT 托管、服务器/网络/工位建设、ERP），合作伙伴为 reddoxx/GData/Bitdefender/enginsight/agorum DMS/SEP（安全备份类），无网络厂商合作与交换机品类 → 维持B。",
+   "quote": "hsc solutions e.K. — IT, die einfach funktioniert；IT-Betreuung／IT-Infrastruktur（Server, Netzwerk und Arbeitsplätze）／hscERP；Partner: reddoxx, GData, Bitdefender, enginsight, agorum DMS, SEP",
+   "sources": [
+    [
+     1,
+     "https://hsc-solutions.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-154",
+   "decision": "hold-B",
+   "site": "shop.allnet-italia.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：shop.allnet-italia.it 仅为联系表单页（Allnet.Italia 集团 B2B 订货平台入口），无公开品类目录 → 大盘分销/无公开产品页，维持B（与 B-115/B-138 同集团口径）。",
+   "quote": "Allnet-Italia — Richiedi informazioni（仅公司/邮箱/留言表单，无产品目录）",
+   "sources": [
+    [
+     1,
+     "https://shop.allnet-italia.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-155",
+   "decision": "hold-B",
+   "site": "matrixcomputers.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：Matrix Computers（Varedo MB，20 年）为 IT 支持/MSP（现场与远程支持、PC/服务器维修升级、安全备份、云、咨询），无产品目录与交换机品类 → 维持B。",
+   "quote": "La Tua Azienda Merita Tecnologie che Funzionano…20 anni di esperienza…Assistenza On-Site e Remota／Riparazione e Upgrade／Sicurezza e Backup／Soluzioni Cloud／Consulenza IT",
+   "sources": [
+    [
+     1,
+     "https://matrixcomputers.it/"
+    ]
+   ]
+  },
+  {
+   "code": "B-156",
+   "decision": "pending",
+   "site": "c1vhosting.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛8】官网核对：C1V Hosting（罗马 Pomezia 机房）主业为 VPS/主机/托管，但设 **MikroTik 产品与许可商店** 并自述「Distributore ufficiale MikroTik in Italia」，另有 Ubiquiti 产品线；因首页未列出交换机 SKU → 待核验其 MikroTik 商店分类；本轮维持B。",
+   "quote": "Distributore ufficiale MikroTik in Italia（RouterOS CHR VPS 卡片）；Prodotti e Licenze MikroTik — Hardware e software MikroTik…；Prodotti Ubiquiti",
+   "sources": [
+    [
+     1,
+     "https://www.c1vhosting.it/"
+    ]
+   ]
+  }
+ ]
+}

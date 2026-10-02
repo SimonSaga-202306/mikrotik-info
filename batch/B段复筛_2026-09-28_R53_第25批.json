@@ -1,0 +1,238 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第25批（此前 pending 行重试复核：UA/TR/AT/IT/DE/LV/CZ/TW/NL/NO，11 升 A、3 维持B）。",
+ "records": [
+  {
+   "code": "B-016",
+   "decision": "promote",
+   "site": "lantorg.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：LanTorg（乌克兰）自述 **«Ваш інтернет-магазин мережевого обладнання»**（网络设备网店）；类目/搜索结果含在售 **ZYXEL GS1920-48HPv2 48口 PoE 交换机（36 829 грн）**、ZYXEL SFP 模块、TP-Link 路由器、Signal Fire SFP+/GPON 模块等 → 网络设备网店+交换机在售 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "LanTorg — Ваш інтернет-магазин мережевого обладнання；Каталог: **Комутатор ZYXEL GS1920-48HPv2 (GS192048HPV2-EU0101F) 36 829.00 грн**／Модуль SFP ZYXEL SFP-BX1310-E／TP-Link TD-W8961N 1 199 грн；Signal Fire SFP+ 10G WDM／SFP GPON модулі",
+   "sources": [
+    [
+     1,
+     "https://lantorg.com/"
+    ],
+    [
+     2,
+     "https://lantorg.com/katalog/"
+    ]
+   ]
+  },
+  {
+   "code": "B-091",
+   "decision": "promote",
+   "site": "bilisimyol.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：Bilişimyol（土耳其）自述 **«Her Kurum İçin Ağ Ekipmanları»**（面向各类机构的网络设备）；导航含 V-Sol／**Mikrotik（Kablosuz Sistem／Ethernet Yönlendiriciler／Cloud Router Switch Series／Metal, Basebox／Sfp／RouterBoard／Aksesuarlar）**／Mimosa Network／Ubiquiti／YaşaLink／DeltaLink／Kablolama Ürünleri／Home Router／IoT，在售 NetBox 5 ax、CCR2004-1G-2XS-PCIe、CCR2116-12G-4S+、RB5009UG+S+IN（TL 含税价） → MikroTik 交换机系列专营网店 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "Bilişimyol-Her Kurum İçin Ağ Ekipmanları；Menü: V-Sol／**Mikrotik**（Kablosuz Sistem／Ethernet Yönlendiriciler／**Cloud Router Switch Series**／Metal, Basebox／Sfp／RouterBoard／Aksesuarlar）／Mimosa Network／Ubiquiti Ürünleri／YaşaLink／DeltaLink／Kablolama Ürünleri／Home Router／IoT；Fırsat Ürünleri: NetBox 5 ax ₺4.819,20／CCR2004-1G-2XS-PCIe ₺9.688,60／CCR2116-12G-4S+ ₺44.427,00／RB5009UG+S+IN",
+   "sources": [
+    [
+     1,
+     "https://www.bilisimyol.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-111",
+   "decision": "hold-B",
+   "site": "netzware.at",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：Netzware（奥地利）自述 **«IT-Consulting | Netzwerktechnik & IT-Dienstleistungen»**，服务为 IT-Betreuung／网络方案与站点互联／Cloud 虚拟服务器／IT-Security／Backup／VoIP／Hardware Beschaffung／IT-Audit，面向 KMU；新闻含 Mikrotik Newsletter 与 FortiOS 安全通告；**无设备商城/无交换机品类** → IT 服务/采购代理，维持B。（前置 pending 复核完成）",
+   "quote": "Netzware | IT-Consulting | Netzwerktechnik & IT-Dienstleistungen；Netzwerklösungen & Standortvernetzungen für Ihr Unternehmen；Produkte & Services: IT-Security／NETZWERK LÖSUNGEN（VPLS & Standort Vernetzung）／VIRTUELLE SERVER／CONSULTING／HARDWARE BESCHAFFUNG／IT-AUDIT／BACKUP／VOIP／WARTUNG／INTERNET ACCESS；News: Mikrotik Newsletter 12/2024",
+   "sources": [
+    [
+     1,
+     "https://netzware.at/"
+    ]
+   ]
+  },
+  {
+   "code": "B-113",
+   "decision": "promote",
+   "site": "triotronik.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：TRIOTRONIK（奥地利）自述 **«der Netzwerkdistributor»**，25 年、三大业务（Distribution／Academy／Technologies）；品牌/产品线含 **MikroTik（官方页：Routing-, Switching- und Wireless-Geräte；且 TRIOTRONIK ist zertifizierter Trainingspartner）**、Ubiquiti、Teltonika、TP-Link/Reyee、**PLANET**、**Moxa**、**Extreme Networks**、RF elements、自有品牌 Lightwin/Wirewin（DAC/AOC、SLIM 跳线、机柜）；另设 Glasfaser/FTTx 与 Wireless（室外/室内 WLAN、许可微波）类目 → 网络分销商含交换机产品线（MikroTik/PLANET/Moxa/Extreme 均为交换机厂商） → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "TRIOTRONIK - der Netzwerkdistributor；Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution／TRIOTRONIK Academy／TRIOTRONIK Technologies；Hersteller: Wirewin／Lightwin／Slim Patchkabel／Jetting／Jonard Tools／Hikvision／**Ubiquiti**／**MikroTik**／Teltonika／TP-Link／Avigilon／Pelco／**PLANET**／**Moxa**／RF elements／SIAE／PATCHBOX／**Extreme Networks**；MikroTik: „MikroTik bietet Routing-, Switching- und Wireless-Geräte…“／„TRIOTRONIK ist auch ein zertifizierter Trainingspartner und bietet regelmäßig MikroTik Schulungen an.“",
+   "sources": [
+    [
+     1,
+     "https://www.triotronik.com/"
+    ],
+    [
+     2,
+     "https://www.triotronik.com/mikrotik"
+    ]
+   ]
+  },
+  {
+   "code": "B-144",
+   "decision": "promote",
+   "site": "ipc2u.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：IPC2U（德国）为工业自动化设备分销/集成商（NEXCOM／ICP DAS／Compulab／SolidRun 等品牌），目录中 **«Industrial Communications»** 大类下设 **«Industrial Ethernet Switches»**（/catalog/industrial-communication/ethernet-switch/），并有 Industrial Wireless Solutions、Serial Device Servers、Converters and Repeaters、Media Converters、Protocol Gateways；整机类为 Industrial Computers／Edge AI／Robotic（明码标价，如 iNNOKERN、AVD24WP 627 €） → 工业网络含交换机品类 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "IPC2U Worldwide | Professional solutions for Industrial Automation；Product catalog → **Industrial Communications**：**Industrial Ethernet Switches**／Industrial Wireless Solutions／Serial Device Servers／Converters and Repeaters／Media Converters／Protocol Gateways；Industrial Computers（19\" Rackmount／Embedded Edge PC／Panel PC／Rugged）／Industrial Motherboards／Edge AI Computing Platform；Brands: NEXCOM／ICP DAS／Compulab／SolidRun／Enbik",
+   "sources": [
+    [
+     1,
+     "https://ipc2u.com/"
+    ],
+    [
+     2,
+     "https://ipc2u.com/catalog/?q=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-156",
+   "decision": "promote",
+   "site": "c1vhosting.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：C1V Hosting（意大利，自营 AS212271/罗马 Pomezia 数据中心）自述 **«Distributore ufficiale MikroTik in Italia»**，商城「Prodotti e Licenze MikroTik」明列在售 **两款 SOHO 交换机（5 口千兆＋SFP＋web 管理；5 口千兆＋被动 PoE）**、RouterOS L4/L5/L6 许可、RB5009UG+S+IN、RB1100AHx4(Dude)、5G/LTE 室外单元、天线配件；另有 Ubiquiti 产品线与 VPS/主机业务 → 官方 MikroTik 分销+交换机在售 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "C1V hosting — Home；**RouterOS CHR VPS**：„Cloud Hosted Router pronto in meno di un minuto… **Distributore ufficiale MikroTik in Italia**“；「Apparati e licenze MikroTik — **distributore ufficiale**」：**„Switch SOHO compatto con 5 porte Gigabit Ethernet e interfaccia web“（五口千兆交换机，SFP×1，浏览器管理，PoE-in）**／**„Switch SOHO compatto con 5 porte Gigabit e funzionalità PoE passive“**／Licenza ufficiale MikroTik RouterOS livello L4/L5/L6／Router RB5009UG+S+IN／RB1100AHx4",
+   "sources": [
+    [
+     1,
+     "https://www.c1vhosting.it/"
+    ],
+    [
+     2,
+     "https://www.c1vhosting.it/store/mikrotik"
+    ]
+   ]
+  },
+  {
+   "code": "B-167",
+   "decision": "promote",
+   "site": "shop.marcomweb.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：MARCOM S.r.l.（意大利 维琴察，info@marcomweb.it，+39 045 8204747）自述 **«Complete Hardware and Software Solutions for Digital Building and Digital Factory»**、工业自动化/工业通信专营（Fieldbuses、4G/5G 与 Wireless、LoRaWAN、多协议网关）；品牌含 **MOXA、ICP DAS、TELTONIKA、MIKROTIK、HILSCHER、METZ CONNECT、RAKWIRELESS** 等；MOXA 品牌页明列 **SWITCH 类目**：**EDS-2008-ELP 8 口非管理交换机 123,70 €／EDS-2005-ELP 5 口非管理交换机 85,30 €／EDS-2016 16 口非管理交换机 477,70 €** → 交换机品类在售的工业网络专营商 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "SHOP ONLINE - MARCOM S.r.l.；„Marcom is your specialized partner in Industrial Automation…expertise in Fieldbuses, Wireless and Cellular connections, and Multiprotocol Gateways…“；MOXA 品牌页 Products（**SWITCH 类目**）：**EDS-2008-ELP 8-Port Unmanaged Ethernet Switch € 123,70**／**EDS-2005-ELP 5-port Unmanaged Ethernet Switch € 85,30**／**16-Port Unmanaged Ethernet Switch (EDS-2016 ML) € 477,70**；MEDIA CONVERTER／DEVICE SERVER／MODBUS／PROFIBUS-MPI",
+   "sources": [
+    [
+     1,
+     "https://shop.marcomweb.it/en"
+    ],
+    [
+     2,
+     "https://shop.marcomweb.it/en/m/moxa"
+    ]
+   ]
+  },
+  {
+   "code": "B-171",
+   "decision": "promote",
+   "site": "sicetelecom.it",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：SICE Telecomunicazioni（意大利，1980 年起，自述累计生产超百万台 TLC 设备）**Networking 产品线**页明示 **«La linea Networking di SICE è composta da una famiglia completa di Switch e Router»**（覆盖千兆以太网至光纤网络，支持 BGP/MPLS/OSPF），并售供电/太阳能 Energy Station（AirPower）；另设 Wireless／Videosorveglianza／VoIP／IoT／R&D 与 **SICE Partner 认证培训**（含 MikroTik MTCSWE、Ubiquiti UFSP、Cambium、TP-Link Omada 课程）；官方页标题即 «Networking **prodotti distribuiti** da SICE» → 交换机/路由器产品线+网络专营分销/集成 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "Networking prodotti distribuiti da SICE Telecomunicazioni；**«La linea Networking di SICE è composta da una famiglia completa di Switch e Router adatta a risolvere qualsiasi esigenza di interconnessione dalle reti Gigabit Ethernet alle reti in Fibra Ottica…»**（BGP, MPLS e OSPF）；„SICE…Dal 1980…produzione di oltre un milione di dispositivi realizzati“；Diventa Partner SICE — Corsi di Certificazione（**MTCSWE 6-7 ottobre 2026**／Ubiquiti UFSP／Cambium cnMaestro／Omada OCNA Routing e Switching）",
+   "sources": [
+    [
+     1,
+     "https://www.sicetelecom.it/"
+    ],
+    [
+     2,
+     "https://www.sicetelecom.it/networking/"
+    ]
+   ]
+  },
+  {
+   "code": "B-179",
+   "decision": "promote",
+   "site": "nasstore.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：NAS STORE（拉脱维亚）自述 **«Quick EU-wide Network Gear Delivery»**，网店在售 MikroTik 全系（328 项）：搜索 CRS 返回 **CRS804-4DDQ-HRM（400G）／CRS812 DDQ／CRS418-8P-8G-2S+5AXQ2AXQ-RM／CRS418-8P-8G-2S+RM／CRS304-4XG-IN／CRS320-8P-8B-4S+RM（PoE++）／CRS520-4XS-16XQ-RM／CRS326-4C+20G+2Q+RM／CRS106-1C-5S／CRS310-8G+2S+IN**，另有 Synology/QNAP NAS、Ubiquiti U7 Pro、Teltonika、Ruijie、Zyxel 等品牌 → 网络设备网店+交换机全系在售 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "NAS STORE - Quick EU-wide Network Gear Delivery；Search CRS：**MikroTik Cloud Router Switch CRS804-4DDQ-HRM**／**MikroTik CRS812 DDQ**（50G/200G/400G）／**CRS418-8P-8G-2S+5AXQ2AXQ-RM**／**CRS418-8P-8G-2S+RM**／**CRS304-4XG-IN**／**CRS320-8P-8B-4S+RM**（„The first MikroTik high-power PoE++ switch“）／**CRS520-4XS-16XQ-RM**／**CRS326-4C+20G+2Q+RM**／**CRS106-1C-5S**／**CRS310-8G+2S+IN**；Brands: Ajax／MikroTik／NetPro／QNAP／Ruijie／Synology／Teltonika／Ubiquiti／Zyxel",
+   "sources": [
+    [
+     1,
+     "https://nasstore.eu/"
+    ],
+    [
+     2,
+     "https://nasstore.eu/?s=CRS"
+    ]
+   ]
+  },
+  {
+   "code": "B-190",
+   "decision": "promote",
+   "site": "wifihw.cz",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：AIRCOM Praha s.r.o.（捷克，wifihw.cz）为无线/网络设备网店（V-SOL GPON、Meanwell/Delta 电源、Dataway 机柜、Komshine 光纤、MikroTik 全线）；站内搜索 crs326 返回在售 **CRS326-24G-2S+RM 3 564 Kč／CRS326-24G-2S+IN 3 493 Kč／CRS326-24S+2Q+RM 9 755 Kč／CRS326-4C+20G+2Q+RM 16 270 Kč**（均可加购），另有 CRS812 热插拔电源等配件；并发布 MikroTik 产品/安全通告新闻 → MikroTik 专营网店含交换机在售 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "AIRCOM Praha s.r.o.（wifihw.cz）；Vyhledávání: crs326 → **MIKROTIK • CRS326-24G-2S+RM • 24-port Gigabit Cloud Router Switch 3 564 Kč（bez DPH）／4 314 Kč s DPH**／**CRS326-24G-2S+IN 3 493 Kč**／**CRS326-24S+2Q+RM 9 755 Kč**／**CRS326-4C+20G+2Q+RM 16 270 Kč**；Novinka: MIKROTIK G1251-0150WNA Hot-swap napájecí zdroj 12V 150W pro CRS812；Aktuality: Důležitá bezpečnostní aktualizace software jednotek MikroTik",
+   "sources": [
+    [
+     1,
+     "https://wifihw.cz/"
+    ],
+    [
+     2,
+     "https://wifihw.cz/default.asp?cls=stoitems&fulltext=crs326"
+    ]
+   ]
+  },
+  {
+   "code": "B-352",
+   "decision": "hold-B",
+   "site": "ieiworld.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：IEI Integration Corp.（美国，台北/新竹）为**台系工业计算机/嵌入式/AIoT/网通设备制造商**（Industrial computer、embedded system、panel PC、network appliance、PUZZLE 网通平台、DRPC TSN/TCC 开发套件：Four 2.5GbE PoE ports）——按 R15 既定原则「台湾厂商为货源信号、不作为客户」→ 维持B（保留为上游信号）。",
+   "quote": "IEI Integration Corp. | AIoT, industrial computer, embedded system, panel PC, embedded computer, single board computer, **network appliance**；Solution: ODM Solution／Smart Factory／Autonomous Mobile Robot／**Networking Solution**（puzzle_network_appliance）／Medical Solution／AI Ready；New: PUZZLE-1100 Desktop network appliance／DRPC TSN/TCC Developer Kit（Four 2.5GbE PoE ports）",
+   "sources": [
+    [
+     1,
+     "https://www.ieiworld.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-433",
+   "decision": "hold-B",
+   "site": "it-support.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】域名已停放：it-support.nl 现为 **TransIP 预留页**（«Bezet! / Reserved! it-support.nl is gereserveerd door een klant van TransIP», 荷兰）→ 站点无业务内容，维持B（记录在案）。（前置 pending 复核完成）",
+   "quote": "TransIP - Reserved domain；**# Bezet! / # Reserved!** — „it-support.nl is gereserveerd door een klant van TransIP“（仅域名注册商预留页与 FAQ）",
+   "sources": [
+    [
+     1,
+     "https://it-support.nl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-516",
+   "decision": "promote",
+   "site": "shop.fiber24.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：ShopFiber24（德国，shop@fiber24.net，德国发货）自述面向网络运营/电工/光纤施工者的光通信专业网店；类目明列 **«Netzwerkgeräte — Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches»** 与 **«Hutschienen-Equipment — Hutschienen-Geräte, wie Hutschienen-Switche, Hutschienen-Konverter und Hutschienen-Spleißboxen»**，另有 Transceivermodule（100M–400G，含 400G QSFP-DD）、LWL 跳线/配线、FTTx、MTP/MPO、光测量仪器 → 光纤网络专营含交换机品类 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "Glasfaserkabel online kaufen beim Experten | ShopFiber24；Unsere Kategorien: **Netzwerkgeräte（„Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches, die die Funktionalität Ihres Glasfasernetzwerkes erweitern“）**／**Hutschienen-Equipment（„Hutschienen-Geräte, wie Hutschienen-Switche, Hutschienen-Konverter und Hutschienen-Spleißboxen“）**／Transceivermodule（QSFP/SFP, 100M–400G）／LWL-Patchkabel／FTTx／MTP-MPO／Optische Multiplexer；„Mo-Fr vor 16 Uhr online bestellt - Versand noch heute aus DE!“",
+   "sources": [
+    [
+     1,
+     "https://shop.fiber24.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-518",
+   "decision": "promote",
+   "site": "satel.no",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛25·重试复核】官网核对：SATEL NORGE AS（挪威）自述 **«spesialisert på profesjonelle industrielle produkter og trådløse systemer»**、**«official distributor»**；站内检索 switch 结果为 **ORing Industrial Networking** 产品线：«en omfattende portefølje av hardføre industrielle Ethernet-switcher, fra kostnadseffektive Umanagede, Managed, Mediakonvertere, Fibertransivere (SFP) og PoE-Switcher…til avanserte Layer 2/3 Managed switcher med hurtige redundante ringer»，并有隧道项目案例（Hvalertunnelen 交付 80+ 台全管理光纤交换机）；主营 GNSS/SCADA/机器控制等无线数传 → 工业交换机分销商 → 人工定级升A。（前置 pending 复核完成）",
+   "quote": "SATEL Norge | Trådløse og industrielle nettverksprodukter；Søk «switch»：**Switcher & Nettverksutstyr — ORing Industrial Networking tilbyr en omfattende portefølje av hardføre industrielle Ethernet-switcher, fra kostnadseffektive Umanagede, Managed, Mediakonvertere, Fibertransivere (SFP) og PoE-Switcher, Wireless Access Points og til avanserte Layer 2/3 Managed switcher med hurtige redundante ringer**；Case: „levert over 80 Fiber Switcher i full Managed og Lite Managed…Hvalertunnelen“",
+   "sources": [
+    [
+     1,
+     "https://satel.no/"
+    ],
+    [
+     2,
+     "https://satel.no/?s=switch"
+    ]
+   ]
+  }
+ ]
+}

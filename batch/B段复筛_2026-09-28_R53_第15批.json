@@ -1,0 +1,118 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第15批（PL/BA/IE/US-Dublin 行）。判据同前。",
+ "records": [
+  {
+   "code": "B-270",
+   "decision": "pending",
+   "site": "poniatowski.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛15】站点抓取失败（Failed to fetch）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://poniatowski.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-273",
+   "decision": "promote",
+   "site": "store.wifi24.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛15】官网核对：WiFi24 Sp. z o.o.（波兰）自述 **«Importer – Dystrybutor MikroTik»**（官网带 MikroTik Reseller 徽标），并明确 MikroTik 产品线含 **«przełączniki sieciowe (switche)»（网络交换机）**、以太网路由、AP、LoRaWAN/IoT、LTE/5G、60GHz 无线、天线、SFP/QSFP；网店含 MikroTik 专类与在售 RouterBOARD/Chateau/hAP ax2/cAP ax → 交换机品类+MikroTik 进口分销 → 人工定级升A。",
+   "quote": "WiFi24 Sp. z o.o. — Importer – Dystrybutor MikroTik（MT_Reseller 徽标）；Firma oferuje routery ethernet, przełączniki sieciowe (switche), punkty dostępowe (AP), LoRaWAN/IoT, routery LTE/5G, radiolinie 60 GHz, anteny, moduły SFP/QSFP；Przejdź do produktów Mikrotik",
+   "sources": [
+    [
+     1,
+     "https://store.wifi24.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-274",
+   "decision": "hold-B",
+   "site": "eltrox.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：Eltrox.pl（波兰）为监控/报警/无人机/专业无线电电商（Dahua/Hikvision/Imou/Ezviz/BCS 等），网络仅以「Urządzenia sieciowe do monitoringu」子类出现，无交换机专营 → 安防零售，维持B。",
+   "quote": "Monitoring i systemy alarmowe dla domu i firmy — Eltrox.pl；Kategorie: Monitoring（kamery Dahua/Hikvision/Imou/Ezviz/rejestratory）／Systemy alarmowe／Systemy mobilne／Radiokomunikacja／Drony；Akcesoria do monitoringu → Urządzenia sieciowe do monitoringu",
+   "sources": [
+    [
+     1,
+     "https://www.eltrox.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-275",
+   "decision": "promote",
+   "site": "mikrotik.org.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：mikrotik.org.pl（iWave Group S.A.，波兰）为 MikroTik/RouterOS 专营网店（含论坛 mikrotikforum.pl、培训 Szkolenia、维修 Serwis、Download），类目树含 **Automatyka i Przemysł → Switche（produkty,421）**、Access Pointy、Anteny、Karty sieciowe、Media konwertery、Refurbished → 交换机品类+MikroTik 专营 → 人工定级升A。",
+   "quote": "Mikrotik RouterOS :: MIKROTIK.ORG.PL；Menu: Nowości／Promocje／Wyprzedaże／Serwis／Szkolenia／Forum／Wiedza；Nasza oferta → Automatyka i Przemysł: Modemy / Routery／Media konwertery／Switche；Access Pointy；Towary refurbished",
+   "sources": [
+    [
+     1,
+     "https://www.mikrotik.org.pl/"
+    ]
+   ]
+  },
+  {
+   "code": "B-277",
+   "decision": "hold-B",
+   "site": "wirac.ba",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：Wirac.Net d.o.o.（波黑 Gračanica，2006 年起）为 ISP（互联网+数字电视）+ **Enterprise Network**（网络方案/设备/支持）+ **Wirac.Net Akademija（MikroTik 官方培训：MTCNA/MTCRE/MTCSE/MTCTCE，授权讲师 Samir Zildžić）**；无产品目录与交换机品类 → 运营商/培训为主，维持B。",
+   "quote": "Wirac.Net — 20 godina povezani s Vama；KORISNICI: Internet i televizija（Bežični i optički internet, digitalna TV）；POSLOVNI PARTNERI: Mrežna rješenja — Projektovanje, oprema i podrška；OBUKA: Wirac.Net Akademija — MikroTik obuke i certifikacije（MTCNA, MTCRE, MTCSE, MTCTCE；trainer Samir Zildžić — ovlašteni MikroTik trener）",
+   "sources": [
+    [
+     1,
+     "https://wirac.ba/"
+    ]
+   ]
+  },
+  {
+   "code": "B-279",
+   "decision": "hold-B",
+   "site": "irishwireless.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：Irish Wireless（爱尔兰）**已停业**：站点公告「After 25 years of trading, Irish Wireless has closed its doors and we have completed processing and delivery of our last order…the company is now closed」→ 站点失效/公司关闭，维持B（记录在案）。",
+   "quote": "After 25 years of trading, Irish Wireless has closed its doors and we have completed processing and delivery of our last order. Should you have any support requirements, please initiate support directly with the manufacturer of the product as the company is now closed.",
+   "sources": [
+    [
+     1,
+     "https://irishwireless.net/"
+    ]
+   ]
+  },
+  {
+   "code": "B-280",
+   "decision": "hold-B",
+   "site": "vit.ie",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：VOSIT LIMITED t/a VIT（爱尔兰都柏林 Saggart，info@vit.ie，+353 85 1577369）为 IT 支持/托管服务商（远程与上门支持、软件开发、网站与域名、网络配置与安全、备份），无产品目录 → 维持B。",
+   "quote": "VIT - IT Support — We are IT Professionals；SUPPORT（Instant Remote Support or OnSite visit）／SOFTWARE／WEBSITES／NETWORKING（Configure and Secure your network. Backup your Data）；VOSIT LIMITED t/a VIT, Saggart, Co. Dublin, info@vit.ie",
+   "sources": [
+    [
+     1,
+     "https://vit.ie/"
+    ]
+   ]
+  },
+  {
+   "code": "B-282",
+   "decision": "promote",
+   "site": "winncom.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛15】官网核对：Winncom Technologies（都柏林注册/全球无线宽带分销）为 **WISP/无线宽带专营分销商**：代理 Tarana／Intracom／SIAE／Proxim／Mimosa／Nomadix／Siklu，**横幅专推「MikroTik New CRS Series」并有 MikroTik Overstock Sale、Altowav 户外交换机促销**；行业会员 CANASA／CANWISP／FBA／FISPA／OnGo／UKWISPA，参展 WISPAPalooza → 交换机产品+网络专营分销 → 人工定级升A。",
+   "quote": "Winncom — Wireless Broadband, Point-To-Point, Multipoint Wireless & Networking Solutions；Promotions: MikroTik Overstock Sale／Altowav: Outdoor Switch Promotion（limited time promotion on the Altowav Outdoor Switch）／Tarana／SIAE／Siklu；Banner: MikroTik New CRS Series → /en/manufacturer/mikrotik；Memberships: CANWISP, FBA, FISPA, OnGo, UKWISPA；Events: WISPAPalooza 2026",
+   "sources": [
+    [
+     1,
+     "https://www.winncom.com/"
+    ]
+   ]
+  }
+ ]
+}

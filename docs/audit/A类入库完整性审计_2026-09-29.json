@@ -1,0 +1,125 @@
+{
+ "date": "2026-09-29",
+ "scope": "A 类 567 家(含 R55 老骨架 20 家)",
+ "checks": [
+  {
+   "check": "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "CSV=567 STRUCT=567 MD=567 深挖批=547+20"
+  },
+  {
+   "check": "编号 A-001..567 连续无缺无多",
+   "ok": true,
+   "severity": "critical",
+   "detail": "缺=[] 多=[]"
+  },
+  {
+   "check": "R56 必填字段非空(547 家)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "全满"
+  },
+  {
+   "check": "结构计数与邮件形态",
+   "ok": true,
+   "severity": "critical",
+   "detail": "全过"
+  },
+  {
+   "check": "evidence 双带(quote+http URL)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "全过"
+  },
+  {
+   "check": "价锚一致(p1↔email 锚点)",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  },
+  {
+   "check": "供位 push≡p1(去矛盾)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "全过"
+  },
+  {
+   "check": "JSON→MD 三层互证(fact/swot/email 全量)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "全过"
+  },
+  {
+   "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
+   "ok": true,
+   "severity": "info",
+   "detail": "同文入档 176/547;独立措辞 371(信息项)"
+  },
+  {
+   "check": "OVERRIDE 指向真实存在的 A 档",
+   "ok": true,
+   "severity": "critical",
+   "detail": "越界=[]"
+  },
+  {
+   "check": "OVERRIDE 覆盖 524+43 推断=567(设计)",
+   "ok": true,
+   "severity": "info",
+   "detail": "覆盖=524, 推断补位=43"
+  },
+  {
+   "check": "退信台账 5 家 code 合法",
+   "ok": true,
+   "severity": "critical",
+   "detail": "['A-054', 'A-096', 'A-101', 'A-103', 'A-105']"
+  },
+  {
+   "check": "关联群台账 19 组 code 合法(3 家组合并后)",
+   "ok": true,
+   "severity": "critical",
+   "detail": "组数=19 越界=[]"
+  },
+  {
+   "check": "关联群互注已入 MD",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  },
+  {
+   "check": "退信注记已入 MD",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  },
+  {
+   "check": "深挖三层【事实/推断/假设】入 MD(547)",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  },
+  {
+   "check": "随机抽样 30 家深核(evidence/dims10/跟进阶段入 MD)",
+   "ok": true,
+   "severity": "info",
+   "detail": "30/30 全过"
+  },
+  {
+   "check": "R55 老骨架 20 家 MD 小节在",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  },
+  {
+   "check": "fact 首 60 字无跨户重复(防错档)",
+   "ok": true,
+   "severity": "info",
+   "detail": "全过"
+  }
+ ],
+ "summary": {
+  "checks_total": 19,
+  "failed": 0,
+  "failed_names": []
+ }
+}

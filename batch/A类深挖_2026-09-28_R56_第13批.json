@@ -1,0 +1,907 @@
+{
+ "batch": 23,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-121",
+   "fact": "Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活",
+   "inference": "站点异常≠公司异常（MX 活+CSV 信号在），但网页内容不可得——公开信息仅余名录级，同名印度 SAP 商/迪拜打印商干扰须排除",
+   "hypothesis": "以信号核实型破冰：确认 Allied Telesis 信号场景与实体身份，再定深推与否",
+   "evidence_main": "https://nexwaretechnologies.com/（抓取 500 如实标注）",
+   "tech": "CSV 载 Allied Telesis 信号",
+   "hr": "网页不可得",
+   "contact_found": "support@nexwaretechnologies.com（CSV 具）；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "站点异常期间以 support@ 试探+冻结构建纪律（如实薄档）",
+   "dims": {
+    "业务定位": "美国 IT 商（CSV；网页不可得）",
+    "产品线与在售品牌": "Allied 信号（CSV）",
+    "目标行业与场景": "待核",
+    "团队与规模": "待核",
+    "决策链与对接人": "support@ 口",
+    "技术与认证": "待核",
+    "采购与供应链信号": "待核",
+    "近期动态与线索": "站点 500 异常",
+    "与我方契合点": "信号核实后再判",
+    "风险与注意": "站点异常+同名干扰"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "CSV 载 Allied Telesis（Marvell Prestera 接入层）；站点 HTTP 500×2 抓取异常（如实标注）",
+     "source": "https://nexwaretechnologies.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 信号核实",
+     "push": "—",
+     "angle": "确认实体+Allied 信号场景",
+     "question": "贵司交换件用在何场景？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 若成案",
+     "push": "STC-28DGGPM",
+     "angle": "接入小盒破冰",
+     "question": "接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "若信号不实归档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "美国 IT 商；站点异常+MX 存活（如实）",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "support@",
+     "④Saga 对标": "核实后再判",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 信号 / W 站点异常 / O 核实窗 / T 薄档"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "信号",
+     "W": "异常",
+     "O": "核实",
+     "T": "薄"
+    },
+    "uncertain": {
+     "产品线核实": "网页不可得",
+     "合作方式": "未谈",
+     "缺口证据": "站点 500"
+    },
+    "gap_proof": "抓取 500×2 如实"
+   },
+   "unknowns": [
+    "实体身份",
+    "信号场景",
+    "真实 fit"
+   ],
+   "email": "Hi Nexware team,\n\nA quick note rather than a long pitch: we came across Nexware in connection with Allied Telesis networking gear, and wanted to ask one question.\n\nWe build PoE access switches (8-port compact to 24-port 280W, 802.3af/at) - the value alternative for access closets. Compact model reference: $99 USD EXW.\n\nOne question: is switching hardware part of what Nexware deploys for clients today?\n\nIf yes, happy to send a spec page. If not relevant, one line and I will close the loop politely.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Is switching hardware part of what Nexware deploys for clients today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "美国|站点异常如实|信号核实破冰|MX存活",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-122",
+   "fact": "Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）",
+   "inference": "SECaaS 月付模式下公司先投硬件后收月租——硬件采购单价直接决定其现金结构，value 件话术命中商业模型",
+   "hypothesis": "“not a one size fits all”设计文化=候选件工业位开放评",
+   "evidence_main": "https://paramountsec.com/",
+   "tech": "安防管理系统集成",
+   "hr": "PA/NJ/DE 区域",
+   "contact_found": "info@paramountsec.com（CSV 具）；(610) 480-8388；MX=PPE-hosted 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "三州安防集成（SECaaS 月付创新）",
+    "产品线与在售品牌": "安防系统（Allied 信号，CSV）",
+    "目标行业与场景": "区域商业安防",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "info@/报价表单",
+    "技术与认证": "全服务",
+    "采购与供应链信号": "SECaaS 前端采购",
+    "近期动态与线索": "SHIELD 产品化",
+    "与我方契合点": "月付模式的 value 硬件位",
+    "风险与注意": "随单结构"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Security as a Service…convenient monthly payment option to procure your security solutions…not a one size fits all solution”",
+     "source": "https://paramountsec.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · SECaaS 一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "月付模式下硬件 value 件现金结构",
+     "question": "SHIELD 项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 现金结构",
+     "push": "TCO 对比",
+     "angle": "月付模式下 upfront 成本",
+     "question": "月付模式下采购结构？",
+     "proof": "TCO 页"
+    },
+    {
+     "stage": "第 3 次跟进 · 试点柜",
+     "push": "样机",
+     "angle": "单柜试点",
+     "question": "评测窗？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "三州安防（SECaaS 月付创新=采购资金结构敏感）",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "SECaaS 硬件 value 位",
+     "⑤在乎与偏好": "现金结构",
+     "⑥SWOT": "S 创新模式 / W 区域体量 / O 月付硬件位 / T 大牌"
+    },
+    "care": [
+     "TCO 现金页"
+    ],
+    "swot": {
+     "S": "模式",
+     "W": "体量",
+     "O": "硬件位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "SHIELD 接入现供",
+    "采购结构",
+    "评测窗"
+   ],
+   "email": "Hi Paramount team,\n\nSHIELD Security-as-a-Service is a smart model - and it makes one thing obvious: the less you pay for the hardware behind a monthly plan, the better your cash position.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - spec-grade behavior at a fraction of the first-shelf price, exactly for camera and access closets.\n\nOne question: in your SHIELD deployments, who supplies the PoE switching layer today?\n\nIf useful, I can send one unit with full documentation for a pilot cabinet. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your SHIELD deployments, who supplies the PoE switching layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|三州安防|SECaaS月付|现金结构切入",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-123",
+   "fact": "Professional Cabling Solutions（俄亥俄辛辛那提，2003 年创）：语音数据基建一站式——结构化布线/光纤/视频监控/门禁/入侵/A/V/扩声/声掩蔽；客户跨小企业至 **Fortune 1000 全国项目**",
+   "inference": "布线主干+安防随单结构：接入交换机是 BOM 配套件；F1000 项目管线预示指定件话语权",
+   "hypothesis": "2003 老牌布线商的“一站式”话术=随单 BOM 价值位切入自然",
+   "evidence_main": "https://professionalcablingsolutions.com/",
+   "tech": "布线/光纤/监控/门禁/AV",
+   "hr": "2003 创；全国性项目",
+   "contact_found": "**域 MX 无记录（NoAnswer）——触达降级**：电话/联系表单先行（MX/DNS 级核验：该域 MX 未解析=邮件不可投递确认）",
+   "contact_pending": "CSV 具 hbowerman@ 但域无 MX=投递不可达——以官网表单/电话起步（如实标注 NO-MX 降级）",
+   "dims": {
+    "业务定位": "辛辛那提 2003 布线一站式（F1000 项目史）",
+    "产品线与在售品牌": "布线/光纤/监控/门禁（Allied 信号，CSV）",
+    "目标行业与场景": "小企至 F1000 全国",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "表单/电话（NO-MX）",
+    "技术与认证": "20+ 年",
+    "采购与供应链信号": "随单 BOM",
+    "近期动态与线索": "—",
+    "与我方契合点": "BOM 接入层 value 位",
+    "风险与注意": "NO-MX 降级"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“single-source provider for Voice and Data Infrastructures…small businesses and Fortune 1000 clients nationwide”",
+     "source": "https://professionalcablingsolutions.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话/表单先行",
+     "push": "STC-424DGGPM-280W",
+     "angle": "一站式 BOM 的接入层 value 位",
+     "question": "随单接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · F1000 指定",
+     "push": "案例",
+     "angle": "大项目指定位",
+     "question": "指定清单准入？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 邮件通道重建",
+     "push": "—",
+     "angle": "确认有效对接邮箱",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2003 布线一站式；F1000 项目史",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "NO-MX 降级（表单/电话）",
+     "④Saga 对标": "BOM 接入层 value 位",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S F1000 史 / W NO-MX / O BOM 位 / T 大牌"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "史",
+     "W": "NO-MX",
+     "O": "BOM",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "MX 无记录"
+    },
+    "gap_proof": "NO-MX 核验如实"
+   },
+   "unknowns": [
+    "接入现供",
+    "有效邮箱",
+    "指定清单"
+   ],
+   "email": "（NO-MX 降级：不出信。动作：以官网联系表单+电话起步，确认有效对接邮箱后排期。参考话术：\"We build a 24-port Gigabit PoE switch (280W, 802.3af/at) at $165 USD EXW reference - a value line for the access layer of your one-stop BOMs. In your cabling projects, which switch brand holds the access slots today?\"）",
+   "question": "In your cabling projects, which switch brand holds the access slots today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|辛辛那提布线|F1000项目史|NO-MX降级",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-124",
+   "fact": "Riverside Technologies（RTI，1rti.com，堪萨斯城 MO+奥马哈 NE）：全国 IT 部署/生命周期/支持商——托管服务、IT 硬件、仓储服务、技术部署；客群：K-12 学校/高教/企业/州地政府；见证含 Rapid City Area Schools 网络 MSP 案例；“You've Got a Friend in the Business”",
+   "inference": "K-12 州地教育=美国地方预算常规商用段（非联邦）；硬件+仓储侧=其可入库分销",
+   "hypothesis": "“friend in the business”关系文化+仓储能力=入库型分销切入可行",
+   "evidence_main": "https://www.1rti.com/",
+   "tech": "托管/硬件/仓储/部署",
+   "hr": "全国（KC+Omaha 双心）",
+   "contact_found": "danl@1rti.com（CSV 具名）；MX=O365+自有 rti1-mx-01 双栈存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "州地教育段走常规商务即可",
+   "dims": {
+    "业务定位": "全国 IT 部署/硬件/仓储（教育深耕）",
+    "产品线与在售品牌": "HP 系硬件+托管（Allied 信号，CSV）",
+    "目标行业与场景": "K-12/高教/州地/企业",
+    "团队与规模": "全国中型",
+    "决策链与对接人": "danl@ 具名+官网口",
+    "技术与认证": "仓储级部署",
+    "采购与供应链信号": "入库+项目",
+    "近期动态与线索": "MSP 博客活跃",
+    "与我方契合点": "入库分销+教育接入柜",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“managed services, IT hardware, warehouse services, and technology deployment…K-12 Schools…state and local governments nationwide”",
+     "source": "https://www.1rti.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 教育接入一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "K-12 部署接入柜 value 位",
+     "question": "K-12 部署接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 仓储入库",
+     "push": "入库方案",
+     "angle": "其仓储侧的入库分销",
+     "question": "入库结构？",
+     "proof": "方案"
+    },
+    {
+     "stage": "第 3 次跟进 · 生命周期",
+     "push": "refresh 话术",
+     "angle": "生命周期更新换代的接入件",
+     "question": "refresh 周期结构？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "全国部署/硬件/仓储（K-12 深耕）；friend 文化",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "danl@ 具名",
+     "④Saga 对标": "教育接入柜+入库",
+     "⑤在乎与偏好": "交付可靠",
+     "⑥SWOT": "S 仓储 / W 教育预算 / O 入库 / T 大牌"
+    },
+    "care": [
+     "交付时效"
+    ],
+    "swot": {
+     "S": "仓储",
+     "W": "预算",
+     "O": "入库",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入现供",
+    "入库结构",
+    "refresh 周期"
+   ],
+   "email": "Hi Dan / RTI team,\n\n\"You've Got a Friend in the Business\" - and nationwide K-12 deployments with warehouse services behind them. That combination is exactly where a value-priced access switch earns its place.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - a line that stretches district technology budgets without stretching the spec.\n\nOne question: in your K-12 and higher-ed deployments, which switch brand fills the PoE access layer today?\n\nIf useful, I can send one unit with full documentation, or discuss stocking through your warehouse side. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your K-12 and higher-ed deployments, which switch brand fills the PoE access layer?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|全国教育部署|仓储入库|具名danl",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-125",
+   "fact": "Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案",
+   "inference": "一线制造商战略同盟结构下接入层被大牌主力占据；分支层面价值线空间窄——承认在位并定位“第二架/预算受限位”",
+   "hypothesis": "加盟分支有本地采购弹性——分支级 value 件测试比集团级准入更现实",
+   "evidence_main": "https://www.security101.com/",
+   "tech": "安防集成（全国加盟）",
+   "hr": "全国分支网",
+   "contact_found": "connecticut-service@security101.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Security 101 加盟分支（CT）",
+    "产品线与在售品牌": "一线伙伴墙（Axis/Avigilon/Genetec/Verkada…；CSV 载 Allied 信号）",
+    "目标行业与场景": "十行业（含地方政府常规段）",
+    "团队与规模": "集团级分支",
+    "决策链与对接人": "分支 service 邮箱",
+    "技术与认证": "Team101 体系",
+    "采购与供应链信号": "集团伙伴目录",
+    "近期动态与线索": "SiteGuard/101ware 产品化",
+    "与我方契合点": "分支级第二架价值线（窄判别）",
+    "风险与注意": "同盟强"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“long-standing strategic partnerships with the security industry’s leading manufacturers…[Axis] [Genetec] [Verkada] [Motorola Solutions]…”",
+     "source": "https://www.security101.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 分支第二架",
+     "push": "STC-424DGGPM-280W",
+     "angle": "承认一线在位+分支级预算线value 件",
+     "question": "预算受限项目的 value 线？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团口径",
+     "push": "—",
+     "angle": "判分支/集团采购结构",
+     "question": "接入层采购在分支还是集团？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "加盟采购若集权集团——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "全国加盟安防；一线伙伴墙（value 位窄）",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "CT service 邮箱",
+     "④Saga 对标": "分支第二架 value 线",
+     "⑤在乎与偏好": "集团目录",
+     "⑥SWOT": "S 集团体系 / W 同盟 / O 分支弹性 / T 在位"
+    },
+    "care": [
+     "集团目录配套"
+    ],
+    "swot": {
+     "S": "体系",
+     "W": "同盟",
+     "O": "分支弹性",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "伙伴墙已见",
+     "合作方式": "未谈",
+     "缺口证据": "value 缺口未证"
+    },
+    "gap_proof": "伙伴墙推定"
+   },
+   "unknowns": [
+    "分支采购弹性",
+    "value 缺口",
+    "采购层级"
+   ],
+   "email": "Hi Security 101 Connecticut team,\n\nA partner wall like yours - Axis, Genetec, Avigilon, Verkada - speaks for where the first shelf stands. We are not writing to displace it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - built for the projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, and value-engineered retrofits.\n\nOne question: at the branch level, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation for your lab bench. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "At the branch level, is there room for a second approved value line when a project cannot carry the standard brands?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|Security101加盟CT|一线同盟|分支第二架",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-126",
+   "fact": "Security 101 Rochester NY 分支：同 Security 101 集团体系（一线伙伴墙+Team101+101ware 门户）；**具名 victor.wainwright@security101.com**（CSV 公开列）",
+   "inference": "具名分支负责人=直接商务对话口；同集团判别与 A-125 一致（一线同盟→第二架窄位）",
+   "hypothesis": "具名首邮定制（祝贺 SiteGuard/监控托管线）+分支弹性问题",
+   "evidence_main": "https://www.security101.com/",
+   "tech": "安防集成（全国加盟）",
+   "hr": "全国分支网",
+   "contact_found": "victor.wainwright@security101.com（CSV 具名）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Security 101 加盟分支（Rochester NY）",
+    "产品线与在售品牌": "一线伙伴墙（同集团；CSV 载 Allied 信号）",
+    "目标行业与场景": "十行业",
+    "团队与规模": "集团级分支",
+    "决策链与对接人": "Victor Wainwright 具名",
+    "技术与认证": "Team101",
+    "采购与供应链信号": "集团伙伴目录",
+    "近期动态与线索": "同集团",
+    "与我方契合点": "分支第二架价值线（窄判别）",
+    "风险与注意": "同盟强"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Security 101 maintains long-standing strategic partnerships with the security industry’s leading manufacturers”",
+     "source": "https://www.security101.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名第二架",
+     "push": "STC-424DGGPM-280W",
+     "angle": "具名+分支级预算线 value 件",
+     "question": "分支级 value 线空间？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 采购结构",
+     "push": "—",
+     "angle": "判分支/集团采购",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "集权则留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Rochester 分支（集团体系）；具名 Victor",
+     "②芯片/型号": "Allied 信号（CSV）",
+     "③KP 深挖": "Victor Wainwright 具名",
+     "④Saga 对标": "分支第二架 value 线",
+     "⑤在乎与偏好": "集团目录",
+     "⑥SWOT": "S 具名口 / W 同盟 / O 分支弹性 / T 在位"
+    },
+    "care": [
+     "集团目录配套"
+    ],
+    "swot": {
+     "S": "具名",
+     "W": "同盟",
+     "O": "弹性",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "伙伴墙已见",
+     "合作方式": "未谈",
+     "缺口证据": "value 缺口未证"
+    },
+    "gap_proof": "伙伴墙推定"
+   },
+   "unknowns": [
+    "分支弹性",
+    "value 缺口",
+    "Victor 职责"
+   ],
+   "email": "Hi Victor,\n\nSecurity 101's Rochester operation carries one of the strongest partner walls in the industry - Axis, Genetec, Avigilon, Verkada. We are not writing to displace any of it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - for the projects where the first shelf prices itself out: budget-constrained schools, municipal buildings, value-engineered retrofits.\n\nOne question: at your branch, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "At your branch, is there room for a second approved value line when a project cannot carry the standard brands?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|Security101加盟Rochester|具名Victor|分支第二架",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-127",
+   "fact": "Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年",
+   "inference": "45,000 客户基盘=随单件滚动量大；消防+安防一体=联动柜位多；K-12 校安=地方常规商用",
+   "hypothesis": "“quality is the standard”文化+多执照技师制度=对“安装后不出事”的硬件（看门狗/宽压）话术有效",
+   "evidence_main": "https://silcofs.com/",
+   "tech": "消防全谱+安防",
+   "hr": "多州服务网；Top Workplace 7 年",
+   "contact_found": "info@silcofs.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "俄亥俄多州消防安防领先商（45,000 客户）",
+    "产品线与在售品牌": "消防/安防全谱（CSV 载 Allied 信号）",
+    "目标行业与场景": "K-12/商业/住宅",
+    "团队与规模": "区域大型",
+    "决策链与对接人": "info@/调度口",
+    "技术与认证": "多执照技师",
+    "采购与供应链信号": "45,000 客户滚动",
+    "近期动态与线索": "BDA/群通知扩线",
+    "与我方契合点": "安防随单 PoE 柜",
+    "风险与注意": "体量大概率谈判周期"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“more than 45,000 customers across Ohio rely on Silco…over 1,000 reviews on Google with an average of a 4.9 star rating”",
+     "source": "https://silcofs.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 可靠性一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "45,000 客户随单柜+看门狗防回访",
+     "question": "安防随单接入柜现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · K-12 校安",
+     "push": "案例",
+     "angle": "其 K-12 校安专线接入",
+     "question": "校安项目接入件结构？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 多州滚动",
+     "push": "阶梯",
+     "angle": "多州分支滚动",
+     "question": "多州采购结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "多州消防安防领先（45,000 客户/4.9 星）；多执照技师",
+     "②芯片/型号": "CSV 载 Allied 信号",
+     "③KP 深挖": "info@/多分支电话",
+     "④Saga 对标": "随单 PoE 柜",
+     "⑤在乎与偏好": "免回访可靠性",
+     "⑥SWOT": "S 客户基盘 / W 体量周期 / O 随单量大 / T 大牌"
+    },
+    "care": [
+     "可靠性文档"
+    ],
+    "swot": {
+     "S": "基盘",
+     "W": "周期",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "随单接入现供",
+    "多州结构",
+    "评测窗"
+   ],
+   "email": "Hi Silco team,\n\n45,000 customers and a 4.9-star reputation - at that scale, every avoidable truck roll hurts, and a frozen camera after midnight is the classic cause.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with a hardware watchdog that restarts a frozen camera before anyone drives out. Reference: $165 USD EXW.\n\nOne question: across your security installations, who supplies the PoE switches for camera and access-control closets today?\n\nIf useful, I can send one unit with full documentation for a pilot site. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Across your security installations, who supplies the PoE switches for camera closets today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|俄亥俄多州消防安防|45k客户|随单大盘",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-128",
+   "fact": "UberData Networks：专业网络 MSP——**UconnectX™ NaaS（网络即服务）：交换/路由/Wi-Fi/安全打包月付+automatic hardware refresh（自动硬件更新）**；伙伴墙：Cisco/Aruba/Ruckus/Juniper-Mist/Fortinet/Tellabs/Corning/Belden/Panduit/**VoltServer（数字电力）**/Axis/APC 等",
+   "inference": "NaaS+自动硬件更新=硬件是其资产负债表上的持续采购池，unit economics 直接决定订阅毛利——value 件话术与商业模型直接挂钩；大牌伙伴墙是第一架，NaaS 平价套餐需要第二架",
+   "hypothesis": "“NaaS 套餐分层”角度：入门档套餐的接入件毛利结构最需要 value 供位",
+   "evidence_main": "https://www.uberdatanetworks.com/",
+   "tech": "NaaS/光网/无线/安全",
+   "hr": "专业 MSP",
+   "contact_found": "info@uberdatanetworks.com（CSV 具）；MX=PPE-hosted 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "NaaS 专业网络 MSP（UconnectX 订阅+自动更新）",
+    "产品线与在售品牌": "一线网络伙伴墙（Cisco/Aruba/Ruckus/Mist…）",
+    "目标行业与场景": "现代组织网络外包",
+    "团队与规模": "中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "认证工程师团队",
+    "采购与供应链信号": "NaaS 硬件池持续采购+refresh",
+    "近期动态与线索": "UconnectX 产品化",
+    "与我方契合点": "NaaS 入门档 value 接入件",
+    "风险与注意": "同盟强"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“networking as a service…switching and routing to Wi-Fi and security…with 24/7 support, proactive maintenance, and automatic hardware refresh”",
+     "source": "https://www.uberdatanetworks.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · NaaS 分层一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "入门档套餐接入件的毛利结构",
+     "question": "入门档套餐接入层现供？",
+     "proof": "TCO 页"
+    },
+    {
+     "stage": "第 2 次跟进 · refresh 池",
+     "push": "refresh 滚动方案",
+     "angle": "自动更新的硬件池采购",
+     "question": "refresh 池采购节奏？",
+     "proof": "方案"
+    },
+    {
+     "stage": "第 3 次跟进 · 大牌分工",
+     "push": "第二架定位",
+     "angle": "大牌第一架+我们第二架",
+     "question": "套餐分层结构？",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NaaS MSP（订阅+自动硬件更新=持续采购池）",
+     "②芯片/型号": "CSV 载 Allied 信号",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "NaaS 入门档 value 位",
+     "⑤在乎与偏好": "TCO/毛利结构",
+     "⑥SWOT": "S 采购池 / W 同盟 / O 入门档 / T 在位"
+    },
+    "care": [
+     "TCO 毛利页"
+    ],
+    "swot": {
+     "S": "采购池",
+     "W": "同盟",
+     "O": "入门档",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "伙伴墙已见",
+     "合作方式": "未谈",
+     "缺口证据": "入门档缺口未证"
+    },
+    "gap_proof": "套餐结构未公开"
+   },
+   "unknowns": [
+    "入门档接入现供",
+    "refresh 池结构",
+    "套餐分层"
+   ],
+   "email": "Hi UberData team,\n\nUconnectX is a clean NaaS proposition - and with automatic hardware refresh built in, your hardware pool economics are the engine of the whole subscription margin.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - spec-grade behavior aimed exactly at entry and mid tiers of a NaaS bundle, where Cisco and Aruba price points compress the margin.\n\nOne question: in your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|NaaS订阅MS|refresh采购池|入门档value",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-129",
+   "fact": "VARtek Services（俄亥俄西南，vartek.com）：**教育专属 IT 伙伴**——K-12 学区 IT 托管（驻场技术团队）+整合支持+网络安全教育资源（10 步网络犯罪防御计划等）；“strategic partner to schools…save school leaders time”",
+   "inference": "教育专属=学区预算审批常规商用段；驻场托管结构=硬件随单+refresh 滚动；服务商为主但硬件线存在（integration support）",
+   "hypothesis": "“save leaders time”使命=可靠免回访件话术（看门狗）适配",
+   "evidence_main": "https://vartek.com/",
+   "tech": "K-12 学区 IT 托管/整合",
+   "hr": "俄亥俄学区网",
+   "contact_found": "info@vartek.com（CSV 具）；MX=Google Workspace 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "学区段走常规商务",
+   "dims": {
+    "业务定位": "K-12 教育专属 IT 托管（驻场模式）",
+    "产品线与在售品牌": "托管+整合（CSV 载 Allied 信号）",
+    "目标行业与场景": "K-12 学区",
+    "团队与规模": "区域中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "教育资源内容",
+    "采购与供应链信号": "随单+refresh",
+    "近期动态与线索": "网络安全教育资源化",
+    "与我方契合点": "学区接入柜 value 件",
+    "风险与注意": "服务主硬件辅"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“strategic partner to schools, delivering tailored, innovative technology and integration support so that educators are empowered…staffing your school with a team of on-site technology professionals”",
+     "source": "https://vartek.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 学区一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "学区接入柜+免回访看门狗",
+     "question": "学区部署接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 预算周期",
+     "push": "阶梯",
+     "angle": "学区财年预算节奏",
+     "question": "采购预算周期？",
+     "proof": "阶梯"
+    },
+    {
+     "stage": "第 3 次跟进 · refresh 滚动",
+     "push": "滚动方案",
+     "angle": "驻场模式的 refresh",
+     "question": "refresh 节奏？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "K-12 教育专属托管（驻场）；服务为主硬件为辅",
+     "②芯片/型号": "CSV 载 Allied 信号",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "学区接入柜 value 件",
+     "⑤在乎与偏好": "免回访+预算",
+     "⑥SWOT": "S 教育专精 / W 服务主 / O 接入位 / T 大牌"
+    },
+    "care": [
+     "预算文档"
+    ],
+    "swot": {
+     "S": "专精",
+     "W": "服务主",
+     "O": "接入",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入现供",
+    "预算周期",
+    "refresh 节奏"
+   ],
+   "email": "Hi Vartek team,\n\nStaffing schools with on-site technology professionals is a promise built on reliability - and nothing tests reliability like an access switch that freezes during class.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that restarts frozen endpoints automatically). Reference: $165 USD EXW - a district-friendly price with the full documentation pack.\n\nOne question: in your K-12 deployments, which switch brand fills the PoE access layer for classroom Wi-Fi and cameras today?\n\nIf useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your K-12 deployments, which switch brand fills the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|K12教育专属托管|驻场模式|俄亥俄",
+   "batch": 23,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-130",
+   "fact": "Wire Technologies, Inc.：30+ 年 IT 基建全栈商——结构化布线/数据中心/**路由交换（30 年设计实施经验）**/无线（20+ 年数百网部署）/语音视频会议/云/网络安全/服务器虚拟化备份/**门禁与监控**；联系域 wiretech-inc.com（Barracuda ESS MX 存活，独立双域同归）",
+   "inference": "CSV 载 Allied Telesis 信号与其“Routing & Switching 30 年”自述相互印证=接入交换是其核心惯件",
+   "hypothesis": "最对口对象之一：布线+DC+交换三线合一——接入层 value 位切入直接专业",
+   "evidence_main": "https://www.wiretechnologies.com/",
+   "tech": "布线/DC/交换/无线/安防",
+   "hr": "30+ 年",
+   "contact_found": "info@wiretech-inc.com（CSV 具；独立联系域 MX 存活验真）；网站域 wiretechnologies.com Barracuda ESS 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "30 年 IT 基建全栈（布线+DC+交换直通）",
+    "产品线与在售品牌": "布线/DC/交换/无线/安防（CSV Allied 信号）",
+    "目标行业与场景": "企业/中小营商用",
+    "团队与规模": "中型",
+    "决策链与对接人": "info@wiretech-inc.com",
+    "技术与认证": "30 年交换 20 年无线",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "—",
+    "与我方契合点": "直接对口：接入层 value 位",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“expert design, implementation, and support of routing and switching infrastructure for over thirty years…deployed hundreds of wireless network solutions across many business sectors”",
+     "source": "https://www.wiretechnologies.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 直接对口一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "布线/DC/交换三线的接入层 value 位",
+     "question": "项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · DC 边位",
+     "push": "STI-288GP",
+     "angle": "其数据中心线边缘/带外位",
+     "question": "DC 带外位现用？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 滚动随单",
+     "push": "阶梯",
+     "angle": "布线随单滚动",
+     "question": "月量/滚动？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "30 年全栈（布线+DC+交换直通）；无线 20 年",
+     "②芯片/型号": "CSV Allied 信号+交换自述印证",
+     "③KP 深挖": "info@wiretech-inc.com（双域验真）",
+     "④Saga 对标": "接入层 value 位（直接对口）",
+     "⑤在乎与偏好": "专业文档",
+     "⑥SWOT": "S 直接对口 / W 体量中 / O 三线随单 / T 大牌"
+    },
+    "care": [
+     "专业文档"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "规模",
+     "O": "三线",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未逐公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入现供",
+    "DC 边位",
+    "滚动量"
+   ],
+   "email": "Hi Wire Technologies team,\n\nThirty years of routing and switching, hundreds of wireless deployments, structured cabling and data centers under one roof - you work exactly where we manufacture.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value line for the access closets inside your cabling, DC and wireless projects.\n\nOne question: across your routing-and-switching projects, which brand holds the PoE access layer today?\n\nIf useful, I can send one unit with full documentation for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Across your routing-and-switching projects, which brand holds the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|30年全栈|布线DC交换直通|直接对口",
+   "batch": 23,
+   "date": "2026-09-28"
+  }
+ ]
+}

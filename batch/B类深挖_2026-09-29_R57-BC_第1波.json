@@ -1,0 +1,588 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第1波",
+ "date": "2026-09-29",
+ "scope": "B 类美国 15 家",
+ "rule": "R57-BC 轻量对齐 A：深挖+SWOT+判位+备养出信稿；评级不动、不触发邮件动作",
+ "records": [
+  {
+   "code": "B-327",
+   "fact": "Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱",
+   "inference": "与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态",
+   "hypothesis": "西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE(",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "MikroTik 认证顾问需 MTCNA≥75%+至少一个 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "现证等级与续证时间（mikrotik.com 顾问档待查）",
+    "项目面：ISP 侧 / 企业侧 / 无线侧哪个是主饭碗"
+   ],
+   "swot": {
+    "S": "多证在册+本地语言",
+    "W": "gmail 域无站足迹零采购信息",
+    "O": "教具样本+本地项目料源双向",
+    "T": "个体节奏慢、单点失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "美区多证个体顾问（A 档先例：顾问/师者统一 CONSULT-OEM——关系+教具样本线，不首推销)",
+   "question": "在 WA/西雅图圈你的客户项目里，现用哪家 PoE 接入交换？样本比较位开放。",
+   "tag": "美国|个体顾问|多证|无站",
+   "email": "【合作通道·备养】以样本+技术交流起手，不出首销邮件；触发=用户回复或朋友圈引见。",
+   "followups": [
+    "D+7 无应则转 LinkedIn 搜名约咖啡",
+    "D+21 样本册一页桥",
+    "D+45 无果归档观察"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-329",
+   "fact": "BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页",
+   "inference": "这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)",
+   "hypothesis": "VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇",
+   "evidence": [
+    {
+     "dim": "主营",
+     "quote": "VoIP Products such as IP-Phones…PBX and Services…cabling",
+     "source": "https://www.facebook.com/bibaonline1/"
+    },
+    {
+     "dim": "实体",
+     "quote": "415 Harding Ct. Sterling VA 20164 / 1-844-329-2422",
+     "source": "https://www.bibaonline.com/pages/contact-us"
+    }
+   ],
+   "unknowns": [
+    "MikroTik 属销售柴线还是技术栈线（主 VoIP 的局）",
+    "VoIP→PoE 谱的 SKU 进深（8 口？24 口？集中化？)"
+   ],
+   "swot": {
+    "S": "VoIP 场景与 PoE 天然绑定+本地服务",
+    "W": "杂货铺行 SKU 虚薄、品牌忠度低",
+    "O": "STC-424 入主 VoIP PoE 档第二供位",
+    "T": "店态会转暴利单品（他们不会守任何品牌）"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚",
+   "question": "你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？",
+   "tag": "美国|弗吉尼亚|VoIP杂货|MikroTik挂角",
+   "email": "Hi BIBA team,\n\nYour catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.\n\nWe build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.\n\nOne question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 对标 Ubiquiti US-24 PoE 价位页桥（A 类锚档参照）",
+    "D+10 样机提议",
+    "D+30 无果转 B 观察位"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-338",
+   "fact": "Christopher Schiessl（美·Minot, ND）：CSV 载 MTCNA+MTCRE+MTCTCE 三证顾问；gmail 挂机、无站足迹可查；北达科他=人口稀州，能源/农业网络是主早期市场",
+   "inference": "Minot 地带本地顾问唯一性高但量小，具信简单守界用教具样本线",
+   "hypothesis": "信号稀疏地区顾问和 A-069/079 同类谱：先回插是否带具名案例、走纯顾问不意",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问在册需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "现证是否续生效（mikrotik.com 查询）",
+    "ND 地带项目区（能源/农/小 ISP）是哪件"
+   ],
+   "swot": {
+    "S": "三证细深+偏远区独特本地准入",
+    "W": "量小无章、节奏议",
+    "O": "教具样本+当地案例道",
+    "T": "个体顾问流放排期骨"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "与 B-327 同谱美区个体顾问——CONSULT-OEM 统一挂点",
+   "question": "在北达科他你的客户接案景（能源/农/小 ISP）里，PoE 接入是谁家？",
+   "tag": "美国|北达科他|个体顾问|三证",
+   "email": "【合作通道·备养】师者红线适用；不首销",
+   "followups": [
+    "D+7 LinkedIn 具名回插",
+    "D+30 样本册桥",
+    "D+60 归档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-340",
+   "fact": "Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出\"Your Authorized Distributor\")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页",
+   "inference": "纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位",
+   "hypothesis": "自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Your Authorized Distributor is: Controller Service and Sales…(800)584-5565",
+     "source": "https://www.controllerservice.com/content/downloads/moxa/user_manual/Moxa_Industrial_Smart_Ethernet_UM_e1.0.pdf"
+    },
+    {
+     "dim": "在架价锚",
+     "quote": "MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea",
+     "source": "https://www.controllerservice.com/index.jsp?path=home&pgl=false"
+    }
+   ],
+   "unknowns": [
+    "在架 Moxa SDS-3008(unmanaged value 段）与 EDS 的中空价值区间位置",
+    "电气柜侧哪些子件（ABB/IDEC/Hammond）的装里 PoE 点最多"
+   ],
+   "swot": {
+    "S": "电气/自动化深谱+价锚透明",
+    "W": "Moxa 铁忠+厂牌框架固化",
+    "O": "STI-288GP 入非主环路岗位 DIN 轨空档",
+    "T": "Moxa 厂方制圈导账期/让利"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口",
+   "question": "你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？",
+   "tag": "美国|马萨诸塞|Moxa老牌|电气自动化VAD",
+   "email": "Hi Controller Service team,\n\nAuthorized ABB/Eaton/IDEC/Moxa on one wall - that's a control cabinet distribution DNA we recognize. Not every PoE endpoint in those cabinets deserves a four-figure switch.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built exactly for the auxiliary PoE runs next to your Moxa backbone lines.\n\nOne question: for the non-ring, auxiliary PoE endpoints in your control cabinet projects, which value-side switch are you standardizing on today?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 对比表 STI-288GP vs Moxa SDS-3008（价/温宽/口数）一页",
+    "D+10 样机+冷热启动测试包",
+    "D+30 无果归档观察"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-343",
+   "fact": "Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述\"strategic sourcing partner\"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄",
+   "inference": "路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位",
+   "hypothesis": "思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Official MikroTik Reseller…804 NE 125th st North Miami, FL 33161",
+     "source": "https://distrigoinc.com/"
+    },
+    {
+     "dim": "在架",
+     "quote": "hEX S / CCR2004-16G-2S+ / RB4011iGS+RM",
+     "source": "https://distrigoinc.com/"
+    }
+   ],
+   "unknowns": [
+    "在架 PoE 交换 SKU 进深（如果只有 CRS3 系那是我们的口）",
+    "拉美仓前哨（迈阿密）发远关务路径"
+   ],
+   "swot": {
+    "S": "官方身份引信+迈阿密关务区位",
+    "W": "SKU 薄（路由为骨）对陌生品牌守度低",
+    "O": "STC-424 入主其 PoE 档空位",
+    "T": "在架厚度路线的布线竞争"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口",
+   "question": "你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？",
+   "tag": "美国|迈阿密|MikroTik官方Reseller|拉美前哨",
+   "email": "Hi Distrigo team,\n\nYour Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-side second source for exactly that layer.\n\nOne question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 价锚对照 Ubiquiti USW-24-PoE 一页",
+    "D+10 样机提议",
+    "D+30 无果归档观察"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-346",
+   "fact": "EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述\"manufactures, exports, imports and distributes specialized equipment\"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角",
+   "inference": "CSV 研判\"缺工业/ERPS/PoE++\"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美",
+   "hypothesis": "自牌制造血统对\"OEM贴牌对话\"比\"贴 Origin 上架\"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX",
+     "source": "https://www.epcom.net/principal/listadopormarca/MIKROTIK"
+    },
+    {
+     "dim": "血统",
+     "quote": "EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers",
+     "source": "https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom"
+    }
+   ],
+   "unknowns": [
+    "EPCOM 在架 PoE/交换谱是否含工业 DIN 轨档",
+    "拉美侧（Doral）进出口关务路径与 OEM 贴牌接受度"
+   ],
+   "swot": {
+    "S": "自牌+分销血统+拉美现金通道",
+    "W": "品牌铁忠度稀释，价驱重",
+    "O": "STI-288GP OEM 随单拉美",
+    "T": "自牌项目对在架的自主决策封闭"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口",
+   "question": "你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？",
+   "tag": "美国|ElPaso/Doral|EPCOM血统|拉美通道",
+   "email": "Hi EPCOM team,\n\nFrom El Paso to Doral your reach is real - a manufacturer-distributor hybrid that actually moves volume through the Latin corridor rather than just listing it.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - and we are fully open to your OEM branding for the LatAm line.\n\nOne question: for your industrial and outdoor deployments across Latin America, which DIN-rail PoE source are you standardizing on today - and would a documented OEM alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 OEM 牌面样张+E/S 文档样本一页",
+    "D+10 样机提议",
+    "D+30 无果归档观察"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-352",
+   "fact": "IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标\"ORing 授权\"方向反了，IEI 是上游厂不是分销商）",
+   "inference": "产业错位：CSV 层级弄反——IEI 不是\"授权分销\"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧",
+   "hypothesis": "同业+上游集团不是我们上架通道；走「OEM/联合设计」或「供应链互备」面才是真开口——判位不进供位，B 级守档",
+   "evidence": [
+    {
+     "dim": "集团",
+     "quote": "IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA",
+     "source": "https://www.ieiworld.com/en/support/con_show.php?cid=93"
+    },
+    {
+     "dim": "谱系",
+     "quote": "20 years of experience in electronic product design and manufacture…100% own manufacturing facilities",
+     "source": "https://www.ieiworld.com/en/support/con_show.php?cid=93"
+    }
+   ],
+   "unknowns": [
+    "IEI USA 对集团 ORing 谱的销售通道与本地授权分工",
+    "IEI 是否正面销 PoE 交换（自家谱），还是借 ORing 网谱入"
+   ],
+   "swot": {
+    "S": "集团厂资源+自研深",
+    "W": "同业制造侧=无我们上架位",
+    "O": "OEM 合作/联合设计通道",
+    "T": "台厂信号源≠客户（纪律）"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）",
+   "question": "（联络路：如用户想洽 OEM，走联合设计面）",
+   "tag": "美国|Pomona|IEI集团美国办|同业制造侧",
+   "email": "【建档观察·同业侧】不出信；触发=用户决 OEM 合作时约集团采购线。",
+   "followups": [
+    "不入出信序；B 观察档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-359",
+   "fact": "Leverify LLC（华盛顿州 Bellevue/Redmond 6825 176TH Ave NE Ste 135A）:Crunchbase 称\"electronics wholesale distributor\"101-250 人规模带；brands@leverify.com 是品牌线接口邮箱（altostrat 官列 MikroTik Reseller)；扛 stockyfy.com 牌",
+   "inference": "品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转",
+   "hypothesis": "101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Leverify LLC Reseller Bellevue Washington brands@leverify.com",
+     "source": "https://altostrat.io/es/buying/hardware/resellers/north-america/usa/"
+    },
+    {
+     "dim": "规模",
+     "quote": "electronics wholesale distributor…Bellevue, Washington…101-250",
+     "source": "https://www.crunchbase.com/organization/leverify-707f"
+    }
+   ],
+   "unknowns": [
+    "brands@ 口对应的品牌上架规则（ROQ/Window/保修三件套）",
+    "MikroTik 属上架量线还是项目引导线"
+   ],
+   "swot": {
+    "S": "规模批发带+具名品牌口",
+    "W": "杂货化谱强、品牌忠弱",
+    "O": "STC-424 入 brands@ 供位",
+    "T": "纯货量比价心智的利器淘汰"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "大批发电商盘的品牌口补位：value 交换档直接货量比价可得",
+   "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $165 EXW 档有位置吗？",
+   "tag": "美国|西雅图圈|电子批发大盘|品牌口",
+   "email": "Hi Leverify brands team,\n\nBellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.\n\nOne question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 RMA/保修三件套单页",
+    "D+14 不上的转楼价档随单",
+    "D+30 归档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-366",
+   "fact": "Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网",
+   "inference": "体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分",
+   "hypothesis": "从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招",
+   "evidence": [
+    {
+     "dim": "传承",
+     "quote": "Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network",
+     "source": "https://topworkplaces.com/company/pace-international/"
+    },
+    {
+     "dim": "谱系",
+     "quote": "Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally",
+     "source": "https://futureforward.org/search-directory/pace-international/"
+    }
+   ],
+   "unknowns": [
+    "卫星/蜂窝安装商用工具的混装 BOM 中 PoE 接层现状",
+    "其 B2B 网大半是 install 群还是直营仓转售"
+   ],
+   "swot": {
+    "S": "50 年血脉+Dish 全国独分+ install 网",
+    "W": "交换件为工具位非主推线",
+    "O": "随单 STC-424 入 install BOM",
+    "T": "主品谱挤压架空 PoE 品"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口",
+   "question": "你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？",
+   "tag": "美国|明尼苏达|Dish独分|install谱",
+   "email": "Hi Pace International team,\n\nThe only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.\n\nOne question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 install BOM 随单方案单页",
+    "D+14 样机 CD 级",
+    "D+30 归档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-375",
+   "fact": "RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10\"x12\"x10\" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧",
+   "inference": "同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点",
+   "hypothesis": "与我们同产线：只能走「OEM 联合设计/元器件合作」或守界研究；不推供位。判位=建档观察",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "Rugged Science network switches are built with hardened electronics…designed in the United States",
+     "source": "https://ruggedscience.com/military-computers/rugged-network-switches/"
+    },
+    {
+     "dim": "在架",
+     "quote": "NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant",
+     "source": "https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch"
+    }
+   ],
+   "unknowns": [
+    "NS-4000 实际产线状态与国军售额（会不会只是挂面）",
+    "能否接受 OEM 元器件合作（其 rugged 母版 vs 我们交换主板）"
+   ],
+   "swot": {
+    "S": "军规血统+研发自研",
+    "W": "同业=守界红线",
+    "O": "OEM 元器件级合作假说",
+    "T": "不应走销售面"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项",
+   "question": "（守档，不入首触点）",
+   "tag": "美国|军规rugged厂|同业守界",
+   "email": "【建档观察·同业】不出信；其 rugged switch 谱作我厂竞品对标镜像档维护。",
+   "followups": [
+    "竞品对标维护",
+    "不入出信序"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-377",
+   "fact": "Ray Evelyn（佛罗里达 Melbourne, FL）：CSV 载 MTCNA+MTCRE+MTCTCE 等多证顾问；公开足迹未查得到（具名 LinkedIn/网页均无）——按分层挖纪律走 CSV 谱系派生",
+   "inference": "与 B-327/338 同类=美区个体顾问；佛州东岸（Space Coast）航天/海事/空气净化技术密集意味着其价值在垂直项目例",
+   "hypothesis": "不首销：师者红线+个体无足迹；走具名核查后再定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE（多证）",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续+论坛活跃",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "具名公开足迹/mikrotik.com 现证",
+    "垂直（航天/海/小 ISP）项目例"
+   ],
+   "swot": {
+    "S": "多证深+佛州技术带，潜在垂直",
+    "W": "零公开足迹=动机判定难",
+    "O": "回插具名寨例",
+    "T": "失联/不动机"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "美区个体顾问谱统一点",
+   "question": "在 Space Coast 地带的客户项目（你能透例的）里，PoE 接层现供？",
+   "tag": "美国|佛州|个体顾问|零足迹",
+   "email": "【合作通道·备养】回插具名后始定",
+   "followups": [
+    "D+14 具名核查→视足迹定"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-381",
+   "fact": "Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honeywell/Ubiquiti/Aruba/Cambium/MikroTik/HP/Garmin/GoPro；哥斯达黎加+洪都拉斯分站（拉美网）",
+   "inference": "超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」",
+   "hypothesis": "其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo",
+   "evidence": [
+    {
+     "dim": "牌墙",
+     "quote": "HPE, QNAP, APC, Panduit, NVT Phybridge, Grandstream, Yealink, Yeastar, Vxi, Axis, WatchGuard…Ubiquiti, Aruba, Cambium, MikroTik, HP",
+     "source": "https://www.crunchbase.com/organization/solution-box"
+    },
+    {
+     "dim": "公司",
+     "quote": "Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner",
+     "source": "https://www.crunchbase.com/organization/solution-box"
+    }
+   ],
+   "unknowns": [
+    "Ubiquiti/Aruba 在其谱的实际出量（铁忠还是格守）",
+    "拉美两站的 SKU 进深与发远路径"
+   ],
+   "swot": {
+    "S": "20+年老血统+牌墙极宽+拉美站",
+    "W": "Ubiquiti/Cambium 正面拥挤",
+    "O": "STC-424 拉美第二供位",
+    "T": "品牌协调上交期/让利"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档",
+   "question": "Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？",
+   "tag": "美国|迈阿密|牌墙通廊|拉美两站",
+   "email": "Hi Eduardo,\n\nTwenty years, a genuine brand wall (HPE / Ubiquiti / Cambium / MikroTik…), and Costa Rica + Honduras on the map - Solution Box is one of the few Miami corridor distributors with an actual Latin presence.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.\n\nOne question: across your Costa Rica and Honduras lines, is the PoE access shelf Ubiquiti-locked or genuinely multi-source? Where does the price anchor sit today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 Ubiquiti 旁第二供位方案单页（含 ES 档）",
+    "D+14 拉美两站 SKU 填充表",
+    "D+30 归档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-390",
+   "fact": "Vodanet Systems（新泽西 Pompton Plains / Moonachie):2005 年创(ZoomInfo）或 2014(connectamericas 注册口径）;~50 人，2015 年营收自述 $10M；仓库存货分销 Cisco/HPE Aruba/Juniper/Fortinet/MikroTik/Teltonika/SonicWall；外部叙事 NASA/Tesla/Siemens 合作案例",
+   "inference": "Cisco/Aruba/Juniper/Fortinet 正通货存仓的大杂铺——MikroTik+Teltonika 在架=有 value 线位；$10M 体量意味其 PoE SKU 月均旋转较实",
+   "hypothesis": "大谱盘上架额度注定挤——首触主攻具名采购+BOM 对话；STC-424 主供位第二线（Cisco/Aruba 之下的 value 层）",
+   "evidence": [
+    {
+     "dim": "体量",
+     "quote": "By 2015, Vodanet Systems achieved a remarkable revenue milestone of $10 million…authorized distributor for MikroTik and Teltonika…NASA, Tesla, Siemens",
+     "source": "https://www.vodanetsystems.com/about-us"
+    },
+    {
+     "dim": "谱系",
+     "quote": "carry an actual inventory…Cisco, HPE Aruba, Juniper, Fortinet, MikroTik, SonicWall",
+     "source": "https://connectamericas.com/company/vodanet-systems"
+    }
+   ],
+   "unknowns": [
+    "在架 CRS 谱进深（CRS518-16XS-2XQ 是 40G 系——上层线）与 PoE 档位对照",
+    "Cisco/Aruba 之外的 value 线制定口是谁"
+   ],
+   "swot": {
+    "S": "现货仓+牌墙+50 人团队",
+    "W": "Cisco/Aruba 镇楼，value 线被压制",
+    "O": "STC-424 入 value 线位",
+    "T": "大盘 SKU 额度竞争"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "Cisco/Aruba 镇楼下的 value PoE 档第二线：$165 层正口",
+   "question": "你们 24 口 PoE 段的 value 线现走哪个 SKU？STC-424 这个档有位置吗？",
+   "tag": "美国|新泽西|现货仓大盘|50人",
+   "email": "Hi Vodanet team,\n\nA New Jersey warehouse with live inventory across Cisco / Aruba / Juniper / Fortinet / MikroTik / Teltonika - that's a real hemispheric stock position, not a bag shop.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.\n\nOne question: below the Cisco/Aruba shelf, which PoE access SKU is holding the value line in your warehouse today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 value 线对照单页",
+    "D+14 样机提议",
+    "D+30 归档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-508",
+   "fact": "NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行）",
+   "inference": "师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口",
+   "hypothesis": "教具样本线=向其课桌要\"对照牌教具\"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "NCTIK.com is MikroTik certified Training Partner in Raleigh, NC…over 15 years",
+     "source": "https://www.nctik.com/"
+    },
+    {
+     "dim": "主体",
+     "quote": "ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina",
+     "source": "https://www.nctik.com/"
+    }
+   ],
+   "unknowns": [
+    "现行课表时间（2020 页是否过期）",
+    "教具目型/MikroTik 官训 vs 他牌对照教具的有无"
+   ],
+   "swot": {
+    "S": "官方师者位+15 年史",
+    "W": "师者红线+教具非销量",
+    "O": "教具样本位（对照牌）",
+    "T": "学员名单绝对红线"
+   },
+   "p1": "STC-28DGGPM",
+   "p1_reason": "师者教具位：8 口小机器作为\"对照牌教具\"上课桌——$99 样本线，不是商业上架",
+   "question": "你的 MTCNA/MTCRE 课堂上，有对照厂牌教具位吗？STC-28DGGPM 这样的可贴牌小交换当对照教具评测样本可行？",
+   "tag": "美国|北卡|师者|认证培训伙伴",
+   "email": "【师者红线·教具样本通道】不首销推销、只谈教具；触发=用户明示。",
+   "followups": [
+    "D+7 教具页方案",
+    "D+30 OOM 放盘",
+    "师者不入回弹序"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-512",
+   "fact": "MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持",
+   "inference": "典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线",
+   "hypothesis": "SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "Fortinet, SonicWall, Untangle…MikroTik, Ubiquiti, Nakivo…235+ active clients",
+     "source": "https://mtk-tech.com/"
+    },
+    {
+     "dim": "公司",
+     "quote": "1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest",
+     "source": "https://mtk-tech.com/"
+    }
+   ],
+   "unknowns": [
+    "managed 客户的 PoE 接层 SKU 标准化程度与频次",
+    "MSP 对 supplier 的 RMA 节奏要求（SMB 量多频高）"
+   ],
+   "swot": {
+    "S": "30 年 MSP 深谱+235 客户面",
+    "W": "SMB 价格为王、技差别低",
+    "O": "STC-424 为 managed 标准接入 SKU",
+    "T": "RMA 反应度是决因"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单",
+   "question": "你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？",
+   "tag": "美国|伊利诺伊|SMBMSP|235客户",
+   "email": "Hi MTK team,\n\nChampaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $165 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.\n\nOne question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 MSP 标准化 SKU 方案单页",
+    "D+14 样机提议",
+    "D+30 归档"
+   ],
+   "note": null
+  }
+ ]
+}

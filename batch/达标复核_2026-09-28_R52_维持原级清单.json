@@ -1,0 +1,531 @@
+{
+ "date": "2026-09-28",
+ "scope": "R52 复核维持原级的 21 条（非联系方式证据，只是复核结论）。",
+ "records": [
+  {
+   "code": "B-011",
+   "before_code": null,
+   "name": "ELKO Ukraine",
+   "country": "乌克兰",
+   "city": "",
+   "email": "+380 44 461 9670 / elko@elko.ua",
+   "site": "elko.ua",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销大盘（ELKO 乌克兰），无工程师级认证，重复实体已在 A-360。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-011",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-044",
+   "before_code": null,
+   "name": "MTBG OOD（mikrotikbg.shop）",
+   "country": "保加利亚",
+   "city": "",
+   "email": "+359 2 45 125 25 / info@mikrotikbg.shop",
+   "site": "mikrotikbg.shop",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销/网店（mikrotikbg.shop），无工程师级认证；同一业务的讲师在 A-367。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-044",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-113",
+   "before_code": null,
+   "name": "TRIOTRONIK",
+   "country": "奥地利",
+   "city": "",
+   "email": "+43 3172 42299 0 / mikrotik@triotronik.com",
+   "site": "triotronik.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销大盘（TRIOTRONIK），无工程师级认证，重复实体已在 A-241。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-113",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-135",
+   "before_code": null,
+   "name": "XPATIT S.A.",
+   "country": "希腊",
+   "city": "",
+   "email": "+30 211 800 0313 / info@xpatit.gr",
+   "site": "xpatit.gr",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销（XPATIT），无工程师级认证，重复实体已在 A-356。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-135",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-141",
+   "before_code": null,
+   "name": "FMS Internetservice（mikrotik-shop.de）",
+   "country": "德国",
+   "city": "",
+   "email": "+49 761 2926500 / sales@fmsweb.de",
+   "site": "mikrotik-shop.de",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销/网店（FMS mikrotik-shop），无工程师级认证，重复实体已在 A-083/A-239。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-141",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-158",
+   "before_code": null,
+   "name": "CorsiMikrotik（意大利 MikroTik 培训）",
+   "country": "意大利",
+   "city": "Verona 区号 045",
+   "email": "+39 045 485 4174 / marco@corsimikrotik.it",
+   "site": "corsimikrotik.it",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：培训品牌（CorsiMikrotik），本行无工程师级认证；讲师在 A-247。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-158",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-182",
+   "before_code": null,
+   "name": "SPX, SIA（router.lv）",
+   "country": "拉脱维亚",
+   "city": "",
+   "email": "+371 6772 4000 / sales@router.lv",
+   "site": "router.lv",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销（SPX/router.lv），无工程师级认证，重复实体已在 A-375。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-182",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-245",
+   "before_code": null,
+   "name": "MHz Wireless",
+   "country": "法国",
+   "city": "",
+   "email": "+33 486688330 / info@mhzshop.com",
+   "site": "mhzshop.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销/网店（MHz Wireless），无工程师级认证，重复实体已在 A-352。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-245",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-290",
+   "before_code": null,
+   "name": "AxByte（netdist.se）",
+   "country": "瑞典",
+   "city": "",
+   "email": "08-586 195 00 / contact@axbyte.se",
+   "site": "netdist.se",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销（AxByte/netdist.se），无工程师级认证，重复实体已在 A-064/A-246。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-290",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-297",
+   "before_code": null,
+   "name": "Satellithuset i Limmared AB（routerboard.se）",
+   "country": "瑞典",
+   "city": "",
+   "email": "+46 325 660 650 / info@mikrotik.se",
+   "site": "routerboard.se",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销（Satellithuset/routerboard.se），无工程师级认证，重复实体已在 A-236。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-297",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-299",
+   "before_code": null,
+   "name": "ENGITECH S.A.",
+   "country": "瑞士",
+   "city": "",
+   "email": "+41 76 326 40 00 / office@engitech.ch",
+   "site": "engitech.ch",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：分销（ENGITECH），无工程师级认证，重复实体已在 A-237。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-299",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "B-440",
+   "before_code": null,
+   "name": "Maurice van der Grijspaarde / GPE Networks",
+   "country": "荷兰",
+   "city": "Haarlem",
+   "email": "+31 23 7640540 / info@gpe-networks.com",
+   "site": "gpe-networks.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 B：顾问（GPE Networks），本行无工程师级认证；同一人在 A-260。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#B-440",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-014",
+   "before_code": null,
+   "name": "ISP Supplies Canada（MBSI WAV）",
+   "country": "加拿大",
+   "city": "Ontario",
+   "email": "+1 866 242 9853 / sales@ispsupplies.com",
+   "site": "ispsupplies.ca",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：★★ + 集团口径（MBSI WAV 集团），重复实体已在 A-294。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-014",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-065",
+   "before_code": null,
+   "name": "Inter Projekt S.A.",
+   "country": "波兰",
+   "city": "",
+   "email": "+48 32 3022 907 / orders@interprojekt.pl",
+   "site": "interprojekt.pl",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：大盘（波兰最大之一），重复实体已在 A-244。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-065",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-067",
+   "before_code": null,
+   "name": "Piotr Wasyk / MWTC",
+   "country": "波兰",
+   "city": "Warszawa",
+   "email": "+48 513 322 115 / piotr@mwtc.pl（总机 +48 796 171 971 / info@mwtc.pl）",
+   "site": "mwtc.pl",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：无工程师级认证，重复实体已在 A-242。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-067",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-098",
+   "before_code": null,
+   "name": "ISP Supplies（powered by WAV）",
+   "country": "美国",
+   "city": "TX",
+   "email": "+1 855 947 7776 / sales@ispsupplies.com",
+   "site": "ispsupplies.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：集团口径，重复实体已在 A-294。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-098",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-131",
+   "before_code": null,
+   "name": "Samson Kamwendo / IP Architechs",
+   "country": "英国",
+   "city": "Peterborough",
+   "email": "+44 7778 431460 / samson.kamwendo@iparchitechs.com",
+   "site": "iparchitechs.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：真实规模（自述全球最大之一、3 国办公室、财富500强客户）→ 决策链长，维持 C。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-131",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-145",
+   "before_code": null,
+   "name": "Dritan / Vreshta",
+   "country": "阿尔巴尼亚",
+   "city": "",
+   "email": "+355 682 059 505 / dritan@vreshta.com",
+   "site": "vreshta.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：无工程师级认证（仅自述专长），维持 C。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-145",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-159",
+   "before_code": null,
+   "name": "Pondi d.o.o.",
+   "country": "克罗地亚",
+   "city": "",
+   "email": "+385 21 494 000",
+   "site": "pondi.hr",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：无邮箱、★★，无法触达。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-159",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-167",
+   "before_code": null,
+   "name": "ATYS Co Controll Engineering",
+   "country": "匈牙利",
+   "city": "",
+   "email": "+36 126 325 61",
+   "site": "atysco.hu",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：无邮箱、★★，无法触达。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-167",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  },
+  {
+   "code": "C-214",
+   "before_code": null,
+   "name": "Sphinx France",
+   "country": "法国",
+   "city": "",
+   "email": "官网",
+   "site": "sphinxfrance.com",
+   "level": "review-hold",
+   "note": "【2026-09-28 R52 达标复核】维持 C：域名无站点（死路已记录），无邮箱。未发送邮件、未提交表单。批次：batch/contact_research_2026-09-28_R52_达标复核补升.json#C-214",
+   "quote": "R52 逐条复核记录",
+   "sources": [
+    [
+     1,
+     "客户名单_反向信号_2026-09.csv（行内既有记录）"
+    ]
+   ],
+   "fields_supported": [
+    "复核结论（不改字段）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "存量复核（机械规则 + 既有证据），非外部抓取",
+   "quote_convention": "本地复核结论。",
+   "decision": "hold"
+  }
+ ]
+}

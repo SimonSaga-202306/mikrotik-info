@@ -1,0 +1,897 @@
+{
+ "batch": 42,
+ "date": "2026-09-29",
+ "source": "R55/R56 全A深挖·合并加厚（R57 超批三波）",
+ "records": [
+  {
+   "customer": "A-311",
+   "fact": "Fikes Media（美国 Silsbee TX）:'It's about function, not vendors' 厂商中立叙事——网络规划/数据中心网络（VXLAN/ToR）/Open Voice/咨询（官网路径直接叫 **/mikrotik-consulting**）;行业页首列地方政府（图书馆/市政/警局）→K12 与高校→SMB;CSV=MikroTik 官方顾问名录+认证培训伙伴双收录，20+ 年教育/公共网络经验",
+   "inference": "MikroTik 顾问+培训双身份的厂商中立咨询屋——CONSULT-OEM 训练/顾问通道判；公共段（市政/警局/公立校）守界句必压",
+   "hypothesis": "顾问对照单元窄针（诚实角，公共段守界）",
+   "evidence_main": "https://www.fikesmedia.com",
+   "tech": "厂商中立咨询+培训",
+   "hr": "个体+网络",
+   "contact_found": "sales@fikesmedia.com（官网联系页 Sales；支持 support@；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国 TX MikroTik 顾问咨询屋",
+    "产品线与在售品牌": "厂商中立（MikroTik 生态）",
+    "目标行业与场景": "SMB/私营（地方政府/K12=守界注）",
+    "团队与规模": "个体顾问",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "MikroTik 顾问+培训双收录（CSV）",
+    "采购与供应链信号": "顾问随件窄口",
+    "近期动态与线索": "—",
+    "与我方契合点": "训练通道判（CONSULT-OEM）",
+    "风险与注意": "公共段露——守界句必压"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴",
+     "source": "https://www.fikesmedia.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 顾问窄针",
+     "push": "CONSULT-OEM",
+     "angle": "厂商中立叙事下的对照单元探询（诚实角：我们是交换厂，不挖 RouterOS 信仰；公共段前句框定）",
+     "question": "你的对照/验证库接受 value PoE 规格吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "备件知晓位",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US TX MikroTik 顾问双身份（官网+CSV 双核）",
+     "②芯片/型号": "MikroTik 生态",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+     "⑤在乎与偏好": "function-first 中立/降本",
+     "⑥SWOT": "S 中立同频 / W 公共段 / O 对照 / T 边界"
+    },
+    "care": [
+     "对照库机制未明"
+    ],
+    "swot": {
+     "S": "同频",
+     "W": "公共",
+     "O": "对照",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "对照接受度",
+     "合作方式": "未谈",
+     "缺口证据": "顾问双收录实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "对照机制",
+    "公共占比"
+   ],
+   "email": "Hi Christopher,\n\n'It's about function, not vendors' - and a consulting page literally named /mikrotik-consulting. Two honest notes before anything else: we build PoE switches, so your RouterOS world stays untouched, and your public-sector engagements (city, police, K12) stay on their established paths.\n\nWhere we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a comparison candidate for the access-switching layer of private-sector designs.\n\nOne question: when your functional comparisons shortlist access switches, what does a documented value candidate have to show to be considered?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "What does a documented value candidate have to show in your functional comparisons?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|MikroTik顾问+培训|CONSULT-OEM|公共守界",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-312",
+   "fact": "Atlantik Elektronik（德国 München，40+ 年 B2B 分销+ODM 方案商）：**Lantronix 授权分销（全线+design-in，自 营 atestore.de 电商）**;方案页明列 **SOLUTIONS FOR GOVERNMENT AND CRITICAL INFRASTRUCTURE** 板块（守界句必压）旁另有联网充电/AGV 机器人/场站监控边缘 AI/AI 零售",
+   "inference": "大 B2B 分销+ODM：私营工业边缘段（AGV/充电/零售/场站监控）是其接入件真实消耗面；政府/关键基建段守界句先置",
+   "hypothesis": "私营工业边缘方案里 Lantronix 旁的 value 二轨窄位",
+   "evidence_main": "https://www.atlantikelektronik.com",
+   "tech": "Lantronix 授权（CSV）+多厂 design-in",
+   "hr": "大分销组织",
+   "contact_found": "info@atlantikelektronik.com（atestore 专页公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "德国大 B2B 分销+ODM",
+    "产品线与在售品牌": "Lantronix 领衔多厂",
+    "目标行业与场景": "工业边缘/AGV/充电/零售（政府关键基建=守界注）",
+    "团队与规模": "大分销组织",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "分销泳道+design-in",
+    "近期动态与线索": "经贸方案页持续扩张",
+    "与我方契合点": "私营工业边缘段二轨窄位（政府/关键基建守界句）",
+    "风险与注意": "关键基建板块明列——守界句必压"
+   },
+   "evidence": [
+    {
+     "dim": "目标行业",
+     "quote": "Solutions: Government and Critical Infrastructure/Connected Charging/AGVs/Site Monitoring Edge AI——authorized Distributor & ODM 40+ years",
+     "source": "https://www.atlantikelektronik.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界句",
+     "push": "STC-424DGGPM-280W",
+     "angle": "私营工业边缘场景（AGV/充电站/零售/场站监控）的 value PoE 二轨（政府/关键基建段前句框定）",
+     "question": "私营边缘方案有价值交换槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 工业线",
+     "push": "STI-288GP",
+     "angle": "8 口工业 PoE 对照 AGV/场站机柜场景",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "DE 大 B2B 分销（官网一手核）",
+     "②芯片/型号": "Lantronix 线",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "二轨窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "design-in 工程/方案完整",
+     "⑥SWOT": "S 边缘场景对口 / W 关键段明列 / O 私营边缘 / T 大厂"
+    },
+    "care": [
+     "私营/公共占比未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "关键段",
+     "O": "私营",
+     "T": "大厂"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "方案页实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "占比"
+   ],
+   "email": "Hallo Atlantik Elektronik team,\n\nForty-plus years as B2B distributor and ODM - Lantronix design-in, AGV connectivity, charging infrastructure, edge-AI site monitoring. One boundary sentence: your government and critical-infrastructure solutions stay on their certified paths; this concerns the private industrial edge only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line. Reference: $165 USD EXW (2026-09-29).\n\nOne question: in your private-edge solutions, is there a value switching slot beside the current portfolio?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Is there a value switching slot in your private-edge solutions?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "德国|B2B分销ODM|Lantronix旁|关键基建守界",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-313",
+   "fact": "Powertech Controls（美国 Ronkonkoma NY+Albany+Fitchburg MA，1991 起）：自动化/电气全类电商分销——目录含 **Ethernet Switches 类目**;CSV=**Hirschmann 授权分销**",
+   "inference": "美东自动化大分销：目录里 Ethernet Switches 类目在营、Hirschmann 在墙——value 替补窄位死守界前句",
+   "hypothesis": "类目内 Hirschmann 旁的 value 替补槽",
+   "evidence_main": "https://www.powertechcontrols.com",
+   "tech": "Hirschmann 授权（CSV）+自动化全类",
+   "hr": "大电商分销",
+   "contact_found": "info@powertechcontrols.com（官网联系页公开+1-800-938-6678；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美东自动化/电气电商分销（1991）",
+    "产品线与在售品牌": "Hirschmann+自动化全类",
+    "目标行业与场景": "制造/工控买家",
+    "团队与规模": "大分销组织",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "电商类目+RFQ",
+    "近期动态与线索": "—",
+    "与我方契合点": "Ethernet Switches 类目内替补（Hirschmann 旁前句）",
+    "风险与注意": "大牌主权——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "产品线",
+     "quote": "目录含 Switches→Ethernet Switches 类目；CSV: Hirschmann 授权分销商，1991 起三分支",
+     "source": "https://www.powertechcontrols.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界句",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Ethernet Switches 类目里 Hirschmann 旁的 value 替补（前句框定）",
+     "question": "交换类目有价值替补槽吗？",
+     "proof": "规格页+上架页"
+    },
+    {
+     "stage": "第 2 次跟进 · 工业线",
+     "push": "STI-288GP",
+     "angle": "8 口工业 PoE 对照替补槽",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US 自动化大分销（官网+CSV 双核）",
+     "②芯片/型号": "Hirschmann 线",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "替补（$165 锚点一致）",
+     "⑤在乎与偏好": "库存深度/RFQ 效率",
+     "⑥SWOT": "S 类目对口 / W 主权 / O 替补 / T Hirschmann"
+    },
+    "care": [
+     "类目 PM 未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "主权",
+     "O": "替补",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "类目+Hirschmann 实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "替补机制",
+    "类目 PM"
+   ],
+   "email": "Hi Powertech Controls team,\n\nSince 1991 - a full-line automation and electrical distributor with an Ethernet Switches category that runs deep. One sentence up front: your Hirschmann franchise keeps its place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line. Reference: $165 USD EXW (2026-09-29) - a value substitute slot buyers can hit when the flagship tier overshoots the spec.\n\nOne question: who runs the Ethernet Switches category, and would a one-unit evaluation earn a listing test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Who runs your Ethernet Switches category?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|自动化电商分销|Hirschmann旁替补|1991",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-314",
+   "fact": "Ningaloo Network Solutions B.V.（荷兰 Maurik，'connecting the dots since 1996'）：nCloud/nSafe/nVoice/nSecure/nConnect/nStorage 六线本地 IT/云服务；CSV=**MikroTik 认证顾问 Rogier Banis（MTCRE/MTCINE），20+ 年 LAN/WAN 含无线 P2P/P2MP 与流量整形**（顾问页电话与官网 088-7777500 一致双核）",
+   "inference": "本地 MSP+顾问双身份：顾问诚实角挂着、客户现场件随单真实——训练通道判 CONSULT-OEM（其 MikroTik 栈共存）",
+   "hypothesis": "顾问+托管双窄针（CONSULT-OEM）",
+   "evidence_main": "https://ningaloo.cloud",
+   "tech": "自有 MSP 栈（MikroTik 生态推断，已标注）",
+   "hr": "Maurik 小型",
+   "contact_found": "info@ningaloo.nl（官网联系页公开+WhatsApp；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰 Maurik 本地 MSP（1996）",
+    "产品线与在售品牌": "自有栈（推断 MikroTik 注）",
+    "目标行业与场景": "本地 SMB/住家",
+    "团队与规模": "小型团队",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "MTCRE/MTCINE（CSV 双核）",
+    "采购与供应链信号": "托管随件",
+    "近期动态与线索": "—",
+    "与我方契合点": "顾问+托管双窄针（CONSULT-OEM）",
+    "风险与注意": "栈未公开（推断标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "internet & cloud, but simple——connecting the dots since 1996；CSV: MikroTik 顾问名录双核（官网电话一致）",
+     "source": "https://ningaloo.cloud"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 双窄针",
+     "push": "CONSULT-OEM",
+     "angle": "顾问身份诚实角+托管现场件的随件窄针",
+     "question": "托管现场交换件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "备件槽",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL Maurik MSP+顾问（官网+CSV 双核）",
+     "②芯片/型号": "MikroTik 生态推断",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+     "⑤在乎与偏好": "简单/省钱叙事",
+     "⑥SWOT": "S 双身份 / W 小 / O 随件 / T —"
+    },
+    "care": [
+     "栈公开未明"
+    ],
+    "swot": {
+     "S": "双身份",
+     "W": "小",
+     "O": "随件",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "栈品牌",
+     "合作方式": "未谈",
+     "缺口证据": "顾问双核+官网实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "栈品牌",
+    "随件意愿"
+   ],
+   "email": "Hi Rogier, hi Ningaloo team,\n\n'Internet and cloud, but simple' since 1996 - and a MikroTik consulting practice behind it (the consultant-registry phone number matches your site, so no mystery here). Full honesty: we build PoE switches, and any RouterOS preference stays respected.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for managed customer sites and consulting projects that need switching beside whatever stack you run.\n\nOne question: when one of your sites needs a switch, where does it come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When one of your sites needs a switch, where does it come from today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|Maurik MSP|MikroTik顾问|CONSULT-OEM",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-315",
+   "fact": "IP Central（荷兰 Coevorden，RIPE 档 'Roelof Daleboudt trading as IP Central',AS207942）:CSV=MikroTik 认证顾问名录收录；**2025-08-01 并入 NiceCloud**（Zwolle 托管 IT 屋：KPN 伙伴/微软 Solutions Partner/**Ruckus Big Dog**/Fortinet/HP-E Aruba，PEC Zwolle 赞助商）;ip-central.nl 域→跳转 nicecloud.nl/ipcentral=404 取链注",
+   "inference": "顾问个体已并入区域 MSP：post-merger 接触还是要从 Roelof 个人箱（隐私页公布）打——训练通道判 CONSULT-OEM；并入单位为 Ruckus/HP-E 墙，守线注",
+   "hypothesis": "顾问个人通道窄针（并轨注+NiceCloud 共存句）",
+   "evidence_main": "https://ip-central.nl（跳转并轨注）",
+   "tech": "并入 NiceCloud（Ruckus/HP-E/Sophos 栈）",
+   "hr": "微个体→区域 MSP",
+   "contact_found": "roelof.daleboudt@ip-central.nl（IP Central 品牌页隐私政策公布；备选 info@nicecloud.nl；未实测投递）（A 记录核验存活；**并入注：2025-08-01 起并入 NiceCloud**）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰 MikroTik 顾问个体（已并入 MSP）",
+    "产品线与在售品牌": "NiceCloud 栈（Ruckus/HP-E）",
+    "目标行业与场景": "区域 SMB（Zwolle）",
+    "团队与规模": "个体→并轨",
+    "决策链与对接人": "roelof@ 个人口",
+    "技术与认证": "MikroTik 顾问（CSV）",
+    "采购与供应链信号": "随件窄口",
+    "近期动态与线索": "并轨 2025-08",
+    "与我方契合点": "CONSULT-OEM（顾问通道）+并轨注",
+    "风险与注意": "并购后职责未明"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态",
+     "quote": "ip-central.nl→nicecloud.nl/ipcentral=404；CSV: 2025-08-01 并入 NiceCloud（隐私页公布 roelof.daleboudt@ip-central.nl）",
+     "source": "https://www.nicecloud.nl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 并轨窄针",
+     "push": "CONSULT-OEM",
+     "angle": "顾问个人通道窄针（并轨注明示+NiceCloud 栈共存句）",
+     "question": "并轨后你个人还管客户现场的网络件吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · NiceCloud 口",
+     "push": "一页目录卡",
+     "angle": "MSP 层面备件知晓",
+     "question": "可否认识 NiceCloud 采购口？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL 顾问并入 MSP（CSV+域跳转双核）",
+     "②芯片/型号": "Ruckus/HP-E 栈",
+     "③KP 深挖": "roelof@",
+     "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 个人通道 / W 并轨未明 / O 随件 / T 边界"
+    },
+    "care": [
+     "并轨后职责未明"
+    ],
+    "swot": {
+     "S": "个人",
+     "W": "并轨",
+     "O": "随件",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "并轨职责",
+     "合作方式": "未谈",
+     "缺口证据": "并入实锤"
+    },
+    "gap_proof": "CSV+域跳转双证"
+   },
+   "unknowns": [
+    "职责",
+    "采购口"
+   ],
+   "email": "Hi Roelof,\n\nWe found you via the MikroTik consultant registry - and noticed IP Central's web presence now points at NiceCloud after the 2025 merger, so this goes to your personal address. Full honesty: we build PoE switches, and NiceCloud's Ruckus/HP-E stack keeps its place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for the client sites you still touch.\n\nOne question: after the merger, do client-site switches still come through your hands - or is that centralized at NiceCloud procurement now?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "After the merger, do client-site switches still come through your hands?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|MikroTik顾问|并入NiceCloud注|CONSULT-OEM",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-316",
+   "fact": "The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）",
+   "inference": "真实身份=消防/安防施工集团（理论上是 PoE 件的采购方而非渠道）——但没可投递邮箱，照 R30 手动 A 先建档供位",
+   "hypothesis": "用户补邮箱后启用候选位",
+   "evidence_main": "https://www.davisulmer.com",
+   "tech": "—",
+   "hr": "—",
+   "contact_found": "无可确认可投递邮箱",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "dims": {
+    "业务定位": "Davis Ulmer Family of Companies",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "—",
+    "团队与规模": "—",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "候选供位（待邮箱）",
+    "风险与注意": "无接触点"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）",
+     "source": "https://www.davisulmer.com|官网一手：DU Family=life safety services——fire protection and advanced security systems；表单分支选择制"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "STC-424DGGPM-280W",
+     "angle": "候选供位（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "https://www.davisulmer.com|官网一手：DU Family=life safety services——fire protection and advanced security systems；表单分支选择制",
+     "②芯片/型号": "—",
+     "③KP 深挖": "—",
+     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
+    },
+    "care": [
+     "邮箱"
+    ],
+    "swot": {
+     "S": "候选位",
+     "W": "无点",
+     "O": "补邮箱",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "建档待证",
+     "合作方式": "未谈",
+     "缺口证据": "CSV/官网备案"
+    },
+    "gap_proof": "CSV+官网"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|消防安防集团|表单唯一|无邮箱|建档供位",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-317",
+   "fact": "Shea Electric & Communications（美国威斯康星）：工商电气承包商——低压布线/商用网络/AV/EBCS/DAS（WiLS）/**安防（CCTV/门禁/入侵）**与消防报警；CSV=**N-Tron+Red Lion 工业交换渠道**（Anybus/Ewon 同墙，8 口非管理工业约 $500+ 同价位档快照注）",
+   "inference": "电工承包商连锁里罕见的工业网络渠道线：监控/门禁项目 PoE 消耗真实，随单正口；其工业价档揭价值杠杆",
+   "hypothesis": "CCTV/门禁/网络项目 value PoE 随单正口（工业价差角度旁注）",
+   "evidence_main": "https://sheaelectricllc.com",
+   "tech": "N-Tron/Red Lion 渠道（CSV）",
+   "hr": "区域电工承包",
+   "contact_found": "info@sheaelectricllc.com（官网联系页公开+920-303-9380；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "美国 WI 工商电气承包商",
+    "产品线与在售品牌": "N-Tron/Red Lion（CSV）",
+    "目标行业与场景": "工商楼宇/工厂",
+    "团队与规模": "区域承包商",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "—",
+    "与我方契合点": "CCTV/门禁/网络项目 PoE 随单正口+工业价差杠杆（STI-288GP alt）",
+    "风险与注意": "电工资质见重（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Industrial And Commercial Electrical Contractors——Low Voltage Wiring/Communication Networks/CCTV/Access Control；CSV: N-Tron+Red Lion 渠道",
+     "source": "https://sheaelectricllc.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 项目正口",
+     "push": "STC-424DGGPM-280W",
+     "angle": "CCTV/门禁/商用网络项目的 value PoE 随单（N-Tron 档价差角度诚实角第二页）",
+     "question": "项目现场 PoE 交换件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 工业线",
+     "push": "STI-288GP",
+     "angle": "8 口工业 PoE 对照 N-Tron 档（CSV 价档快照旁注）",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "US WI 电工承包商（官网+CSV 双核）",
+     "②芯片/型号": "N-Tron/Red Lion",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "随单正口（$165 锚点一致；STI 快照 $64 旁注）",
+     "⑤在乎与偏好": "本地响应/工程质量",
+     "⑥SWOT": "S 对口 / W 资质见重 / O 随单 / T 大牌"
+    },
+    "care": [
+     "项目尺寸未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "资质",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "现供深度",
+     "合作方式": "项目条款未谈",
+     "缺口证据": "渠道+工种实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "现供",
+    "项目节奏"
+   ],
+   "email": "Hi Shea Electric team,\n\nElectrical contracting with a real low-voltage side - business networks, CCTV, access control, DAS. Every camera run ends in a PoE switch; every door controller, too.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29). For the industrial side, our 8-port industrial PoE line is the natural comparison to the N-Tron and Red Lion class you channel - at a fraction of that price class, openly stated.\n\nOne question: where do the PoE switches behind your camera and access jobs come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Where do the PoE switches behind your camera and access jobs come from today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|WI电工承包商|N-Tron渠道|随单正口",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-318",
+   "fact": "Deinta Seguridad（西班牙 Zaragoza，Enebro 集团旗下）：**内政部认证电子安保系统集成商**——Ingeniería 设计/llave en mano 项目/**24/7 call center 维护**+远程操作+自研软件 Almand（多楼宇集中控制）；ISO 9001/14001，RSA Aragón 标；CSV=Allied Telesis+Axis+3CX+HP 品牌墙位",
+   "inference": "持证安保工程商：监控/楼宇项目的多址 PoE 消耗真实，随单正口；Axis/AT 在墙需要前句框定；私营业态（企业楼宇）主打",
+   "hypothesis": "其 SoC/主管中心下多址项目 value PoE 随单",
+   "evidence_main": "https://www.deinta.com",
+   "tech": "自研 Almand 平台+Axis/AT（CSV）",
+   "hr": "工程商（ibero 全国 SLA）",
+   "contact_found": "deinta@deinta.com（官网页脚+法定告知公开；contact alternates personal@/DPO privacidad@；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "西班牙 Zaragoza 安保工程集成商",
+    "产品线与在售品牌": "Axis/Allied/3CX/HP（CSV）",
+    "目标行业与场景": "企业楼宇/工业（守界：其内政部认证=官方资质本身正常商用资质，仅法规级安装）",
+    "团队与规模": "工程组织",
+    "决策链与对接人": "deinta@ 口",
+    "技术与认证": "ISO 9001/14001/RSA",
+    "采购与供应链信号": "项目随单+全国 SLA",
+    "近期动态与线索": "ISO 27001 推进中",
+    "与我方契合点": "多址项目 PoE 随单正口（Axis/AT 旁前句）",
+    "风险与注意": "大牌在墙——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "homologada por el Ministerio del Interior…instalaciones de sistemas electrónicos de seguridad；24/7 call center；自研 Alman'd 多址集中管控",
+     "source": "https://www.deinta.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界前句",
+     "push": "STC-424DGGPM-280W",
+     "angle": "多址安保项目的 value PoE 随单（Axis/Allied 旁前句框定）",
+     "question": "多址项目现场 PoE 盒现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 工业线",
+     "push": "STI-288GP",
+     "angle": "8 口工业 PoE 对照楼宇井道/机房场景",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "ES 安保集成商（官网一手核）",
+     "②芯片/型号": "Axis/AT 线",
+     "③KP 深挖": "deinta@",
+     "④Saga 对标": "随单正口（$165 锚点一致）",
+     "⑤在乎与偏好": "SLA/认证文化",
+     "⑥SWOT": "S 对口 / W 在墙 / O 随单 / T 大牌"
+    },
+    "care": [
+     "品牌墙占比未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "在墙",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "现供深度",
+     "合作方式": "SLA 条款未谈",
+     "缺口证据": "资质+维护体系实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "现供",
+    "项量"
+   ],
+   "email": "Hola Deinta Seguridad team,\n\nMinistry-of-Interior-homologated security integration, an in-house multisite platform, and 24/7 maintenance across Spain. One sentence up front: your Axis and Allied Telesis choices keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for multisite camera and access deployments where the project budget decides the access tier.\n\nOne question: in your multisite projects, where do the PoE switches behind the cameras come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your multisite projects, where do the camera PoE switches come from today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "西班牙|安保工程商|Almand自研|Axis/AT旁随单",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-319",
+   "fact": "Nexus Networks（**马耳他**——roster/CSV 国家更正注：原标'西班牙'，实为马耳他小团）:'Vendor Independent'（不带厂商销售目标）全栈网络店——cabling/routing/**switching**/wireless/security/DC/cloud/automation/voice;品牌墙 Cambium/Ubiquiti/Aruba/Dell/Cisco/Netgear/**MikroTik(mt 徽标）**/3CX;客户=coworking/酒店娱乐/government/fintech/在线体育(iGaming)公司；CSV=**马耳他唯一 MikroTik 认证顾问 Johann（MTCSWE+MTCTCE，10 年）**，服务酒店/在线游戏/零售/制造",
+   "inference": "小型顾问+集成双身份：vendor-independent+cost-effective 宣言=同频；iGaming/酒店/零售私营段真实；government 露头=守界句必压",
+   "hypothesis": "训练/顾问通道判 CONSULT-OEM（私营段同频窄针，政府守界句）",
+   "evidence_main": "https://www.nexus.com.mt",
+   "tech": "全栈多牌（MikroTik 生态在墙）",
+   "hr": "马耳他小团",
+   "contact_found": "hello@nexus.com.mt（官网公开+—356 794 61 720；johann@nexus.com.mt（顾问名录直口）；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "马耳他小型全栈网络店",
+    "产品线与在售品牌": "Cambium/Ubiquiti/Aruba/Cisco/Netgear/MikroTik(mt)",
+    "目标行业与场景": "iGaming/酒店/零售/制造（government=守界注）",
+    "团队与规模": "小团",
+    "决策链与对接人": "hello@/johann@ 具名",
+    "技术与认证": "MTCSWE/MTCTCE（CSV：全国唯一顾问）",
+    "采购与供应链信号": "顾问+随件窄口",
+    "近期动态与线索": "—",
+    "与我方契合点": "顾问诚实角窄针（CONSULT-OEM）",
+    "风险与注意": "政府客户守界句必压"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Vendor Independent——we are not bound by any vendors…customers: coworking/hospitality/government/fintech/online sports；CSV: 马耳他唯一 MikroTik 顾问（MTCSWE）",
+     "source": "https://www.nexus.com.mt"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 顾问窄针",
+     "push": "CONSULT-OEM",
+     "angle": "vendor-independent/cost-effective 同频的规格对照单元（诚实角；iGaming/酒店私营段主打，政府段前句）",
+     "question": "你的对照/选型库接受 value 规格吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 私营段",
+     "push": "一页目录卡",
+     "angle": "iGaming/酒店项目备件位",
+     "question": "私营项目留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "MT 小型全栈（官网+CSV 双核）",
+     "②芯片/型号": "MikroTik/多牌",
+     "③KP 深挖": "hello@/johann@",
+     "④Saga 对标": "CONSULT-OEM（$165 锚点一致）",
+     "⑤在乎与偏好": "厂商独立/cost-effectiveness 同频",
+     "⑥SWOT": "S 同频 / W 小 / O 私营段 / T 边界"
+    },
+    "care": [
+     "私营/政府占比未明"
+    ],
+    "swot": {
+     "S": "同频",
+     "W": "小",
+     "O": "私营",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "对照接受度",
+     "合作方式": "未谈",
+     "缺口证据": "独立宣言+品牌墙实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "对照机制",
+    "占比"
+   ],
+   "email": "Hi Johann, hi Nexus team,\n\nVendor-independent full-stack network engineers in Malta, with cost-effectiveness spelled out on the homepage - that philosophy we can only respect. Two honest notes: we build PoE switches, so your RouterOS practice stays untouched, and your government work stays on its established paths.\n\nWhere we might serve: a documented 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) for your hospitality, retail, manufacturing and iGaming clients where the access tier is decided on function and price.\n\nOne question: when you pick switches for a private-sector project, what does the shortlist process look like?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "What does your switching shortlist process look like on private-sector projects?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "马耳他|全栈小团|全国唯一MikroTik顾问|CONSULT-OEM",
+   "batch": 42,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-320",
+   "fact": "Evelem（法国 Meudon-la-Forêt）：设计-部署-运维网络架构的集成商——Infrastructure/Sécurité/UC/Hybrid Work/**Small Business** 五板块+**Cisco Meraki 旗舰（摄像头 MV63 推荐位）与 Cambium EX3000 交换展示位**;Evelem Academy+Refresh 计划+Ni Fi 专家服务；CSV=Allied Telesis 伙伴",
+   "inference": "Meraki 主打的集成商：Cambium EX3000 与 AT 在其 LAN 供应走廊——value 二轨窄位，Small Business 板块是最软口",
+   "hypothesis": "Small Business 板块的 value PoE 二轨窄位",
+   "evidence_main": "https://www.evelem.fr",
+   "tech": "Meraki/Cambium/Allied（CSV）",
+   "hr": "Meudon 中型集成商",
+   "contact_found": "contact@evelem.fr（官网公开；支持 support@；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "法国 Meudon 集成商",
+    "产品线与在售品牌": "Meraki/Cambium/AT（CSV）",
+    "目标行业与场景": "企业 SMB/中型 LAN/WiFi",
+    "团队与规模": "中型",
+    "决策链与对接人": "contact@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "Refresh 计划",
+    "与我方契合点": "Small Business 段二轨窄位（Meraki/Cambium 旁前句）",
+    "风险与注意": "Meraki 主权——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态",
+     "quote": "首页展示 Cambium Switchs EX3000（24/48 口系列）与 Meraki MV63；CSV: Allied Telesis 伙伴",
+     "source": "https://www.evelem.fr"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 二轨窄位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Small Business 板块里 Meraki/Cambium 旁的 value PoE 二轨（前句框定）",
+     "question": "SMB 板块有价值交换槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs Cambium EX 级并排",
+     "question": "对照试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "FR Meudon 集成商（官网+CSV 双核）",
+     "②芯片/型号": "Meraki/Cambium 线",
+     "③KP 深挖": "contact@",
+     "④Saga 对标": "二轨窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "方案完整",
+     "⑥SWOT": "S SMB 板对口 / W 主权 / O 窄位 / T Meraki"
+    },
+    "care": [
+     "SMB 板块占比未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "主权",
+     "O": "窄位",
+     "T": "Meraki"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "项目条款未谈",
+     "缺口证据": "EX3000 展示实锤"
+    },
+    "gap_proof": "双证在库"
+   },
+   "unknowns": [
+    "替补机制",
+    "SMB 占比"
+   ],
+   "email": "Bonjour Evelem team,\n\nMeraki leads the shelf, Cambium EX3000 is on display, and your Small Business offer needs exactly one thing more than the other segments: a budget that closes. One sentence up front: your Meraki and Cambium lines keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for the Small Business projects where price decides.\n\nOne question: does the Small Business shelf keep a value PoE slot - and would one unit earn a lab test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does your Small Business shelf keep a value PoE slot?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "法国|Meudon集成商|Meraki旁SMB段|二轨窄位",
+   "batch": 42,
+   "date": "2026-09-29"
+  }
+ ]
+}

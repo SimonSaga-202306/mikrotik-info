@@ -1,0 +1,262 @@
+# buerodata AG
+
+> **评级 A**　|　德国 · Stadtlohn　|　档案编号 `A-143`　|　优先级 ★★★　|　状态：未触达
+>
+> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+
+```yaml structured_profile
+code: A-143
+rating: A
+country: 德国
+biz_org: 公司/工作室（有官网）
+business_model: 工程/集成项目制
+decision_speed: moderate
+price_sensitivity: medium
+volume_potential: 3  # 1-5
+needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
+p1: STC-424DGGPM-280W
+stage: 00-researched
+struct_version: v2  # v2 骨架
+updated: 2026-09-28
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
+- **商业模式**：工程/集成项目制
+- **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — buerodata 明斯特兰（Ricoh 子公司）：站点弹性窄二线（$165 锚点一致）；403 抓取受限如实；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
+- **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
+- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | buerodata AG（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 德国 / Stadtlohn | 事实 |
+| 网站 | https://www.buerodata.de | 事实 |
+| 类型 | 集成商/代理（Allied Telesis） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | Allied Telesis（Marvell Prestera 接入层） | 事实（名录/自报口径） |
+| 组织性质 | 公司/工作室（有官网） | 【推断】 |
+| 商业模式 | 工程/集成项目制 | 【推断】 |
+| 团队规模 | 有官网组织，规模未量化 | 【推断】 |
+| 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】buerodata AG（德国 Stadtlohn，1988 年创）：IT 咨询与系统集成商，10-49 人；**Ricoh（日本）集团所有**（wer-zu-wem 名录级）；官网 www.buerodata.de 抓取 403（bot 拦截如实标注）；info@ 公开
+- 【推断】Ricoh 集团从属=采购结构大概率与集团目录联动；区域 SMB 段自有弹性仍存
+- 【假设】集团子公司走窄二线试探：承认集团结构，问站点级 value 件空间
+
+## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
+
+（待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
+
+> 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
+
+## 需求与场景（推断标签）
+
+- **推断需求面**：PoE 接入供电
+  - PoE 接入供电：【推断】依据 CSV 信号/深挖
+
+## HR 与规模信号（招聘/团队/绿旗）
+
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+
+## 联系方式（已有/猜测分标）
+
+- **邮箱**：info@buerodata.de
+  - 状态：既有/公开
+- **电话**：—
+- 来源等级：official（R41–R48 联系方式台账口径）
+- **原始联系字段**：info@buerodata.de [Publicly listed; delivery not tested]; https://www.buerodata.de
+- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+
+## 关键人（KP）与触达通道
+
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+
+## 跟进步骤（最多 3 次 · 成功/退出标准）
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+
+### 第 1 次跟进 · 24 口 CCTV/PoE（自用 DC/商业客户接入层，金融/市政段划线）
+
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **切入点**：开局讲边界：金融敏感与市政共建不供；谈他们自用机房与纯商业客户项目的 24 口接入层成本对照。
+- **要问的问题**：自用房和商业客户项目的接入层用什么？（边界声明随附，德文）
+- **随附证明**：边界声明 + 规格对照 + 单端口测算（德文）。
+
+### 第 2 次跟进 · 工业级非管理 PoE（商业段户外箱/POP 点位）
+
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：商业客户的户外箱/厂区 POP：宽温 DIN PoE 免维护。
+- **要问的问题**：商业段户外点位的交换坏机率？
+- **随附证明**：宽温报告 + DIN 图 + 备件包价（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（商业项目分段标准件）
+
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：商业客户网分段模板：VLAN/ERPS+审计友好的配置基线，评估样机借测。
+- **要问的问题**：商业项目的分段模板要不要进你们的交付包？
+- **随附证明**：VLAN/ERPS 模板 + 配置基线样例 + 样机（德文）。
+
+
+## R54 调研要点（加厚 · 全文见原始 JSON）
+
+> 调研日期 **2026-09-28**；原始记录：`batch/A类加厚_2026-09-28_R54_第8批.json`。以下为要点压缩，证据原文全部保留。
+
+- **业务定位**：明斯特兰 dataVISION 三合一集团：buerodata 金融级 IT 服务+双 DC 托管、condata 市政光纤共建、telkodata 区域 ISP，Allied Integrate/Resell（CSV 记录）。
+- **产品线与在售品牌**：金融 IT 服务/机房托管（revisionssicher）/楼宇自动化/ISP 与光纤建设。
+- **目标行业与场景**：金融客户数据托管+明斯特兰市政光纤+区域宽带；⚠️ 金融与市政共建段=合规敏感。
+- **团队与规模**：集团化区域公司（招网管/系统管理员/光纤布线工中）。
+- **决策链与对接人**：info@buerodata.de；具名 Reinhold Laurich（CSV 9-27：公司页具名联系入口；集团采购层级要注意——CSV 原话）。
+- **技术与认证**：ISO 27001（集团）；Allied Integrate/Resell（CSV 记录）。
+- **采购与供应链信号**：双 DC+ISP=机房与 POP 的接入/汇聚自用需求+金融客户改造项目的项目采购，两条线都走集团采购。
+- **近期动态与线索**：2025-05 上区域报招才、Gewerbetag 露面=扩张期。
+- **与我方契合点**：自用 DC/POP 的商用接入层+他们给非敏感商业客户做的网络项目；工业件配电信户外箱。
+- **风险与注意**：金融/KRITIS 敏感与市政共建（公开程序）段不碰：首封就把边界写清，只谈自用与纯商业客户段；官网 403 期间按集团页口径建档。
+
+### R54 原文证据摘录（全部保留）
+
+- **【业务定位】**⚠️ 官网两轮抓取 403——集团页证实：buerodata 90 年代初起家，是「金融业有名客户、最高安全要求」的 IT 服务商（检索快照核实）。
+  > Bereits seit Anfang der 90er Jahre hat sich buerodata als zuverlässiger IT-Dienstleister im Finanzwesen einen Namen gemacht. Bundesweit betreuen wir namhafte Kunden mit höchsten Sicherheitsanforderungen.（集团官网检索快照）
+  > 来源：https://www.datavisiongroup.de/
+- **【技术与认证】**自有机房 Ahaus+Stadtlohn 双 DC、ISO 27001 认证——高敏数据托管是他们的招牌（金融=准 KRITIS 敏感段）。
+  > Durch unsere eigenen Rechenzentren in Ahaus und Stadtlohn bieten wir außerdem die Möglichkeit, auch ohne IT-Know-how im Unternehmen Daten revisionssicher abzulegen… erfolgreich nach der internationalen Norm ISO 27001 zertifiziert（集团官网检索快照）
+  > 来源：https://www.datavisiongroup.de/
+- **【目标行业与场景】**集团三合一：condata 与市镇/市政公用合建光纤、telkodata 做明斯特兰 ISP、⚠️ 市政共建段注意公开程序；GF Reinhold Laurich（与 CSV 具名一致）。
+  > Mit condata bringen wir gemeinsam mit lokalen Partnern wie Kommunen und Stadtwerken das Glasfasernetz dorthin… telkodata sorgt für zuverlässiges Internet, IP-TV und Telefonie… buerodata sichert hochsensible Kundendaten in eigenen Rechenzentren — Geschäftsführer Reinhold Laurich（Münsterland 报 2025-05）
+  > 来源：https://www.muensterlandzeitung.de/themenseiten-mlz/glasfaser-ausbau-im-muensterland-die-datavisiongroup-beim-gewerbetag-w1033684-9001597453/
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：1988 区域集成；Ricoh 集团所有（403 抓取受限如实）
+- **②芯片/型号**：集团目录未核
+- **③KP 深挖**：info@
+- **④Saga 对标**：区域 value 二线窄位
+- **⑤在乎与偏好**：—
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
+  > “buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
+  > 来源：https://www.wer-zu-wem.de/firma/buerodata.html
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：明斯特兰区域系统集成（Ricoh 子公司）
+- **产品线与在售品牌**：集团目录（未核）
+- **目标行业与场景**：区域 SMB
+- **团队与规模**：10-49 人
+- **决策链与对接人**：info@ 口
+- **技术与认证**：Ricoh 体系
+- **采购与供应链信号**：集团联动待核
+- **近期动态与线索**：—
+- **与我方契合点**：区域 value 二线窄位
+- **风险与注意**：集团集权
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | buerodata 明斯特兰（Ricoh 子公司）：站点弹性窄二线（$165 锚点一致）；403 抓取受限如实 |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
+- **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
+
+## SWOT
+
+- **S**：背书
+- **W**：集权
+- **O**：弹性
+- **T**：大牌
+
+## 触达与风险红线
+
+**通用红线（所有客户适用）**
+
+1. 包装、外观、说明书**全部中性**，不出现「Made in China」，贴客户自己的型号。
+2. **台厂不是客户**，只是信号源。
+3. PoE 功率与工业温宽是最容易当场翻车的两项，口头承诺必须落到实测数据。
+4. 大集团先问清采购层级（国别 vs 集团统一）。
+5. 样机先送测，再谈价格。
+
+**停止开发条件（命中任一即停）**：3 次定向触达无任何实质回复；确认现用平台完全满足需求；只愿比价不愿谈场景；决策者确认接触不到；对方书面拒绝。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（PoE/接入层池） | ✅ |
+| 决策人识别 | ❓ |
+| 触达通道 | ✅ 邮箱域已验 MX |
+| 现用交换品牌 | ❓ 未确认 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
+
+## Unknowns（待问清单 · 首触后逐项消除）
+
+- **深挖专属待问（R56）**：
+  - [ ] 采购层级
+  - [ ] 区域弹性
+  - [ ] 接入现供
+
+- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
+- [ ] 典型站点端口数与供电预算
+- [ ] 上门/故障频次（订阅制客户的核心成本）
+- [ ] 采购决策人与付款口径
+
+## 首触邮件（英文样板 · 可直接发送）
+
+**主题**：PoE switching for your projects
+
+```text
+Hi buerodata team,
+
+A system house serving the Münsterland region since 1988, now inside the Ricoh family - congratulations on that stability.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line for regional SMB projects where group catalogue prices overshoot the budget.
+
+One question: for your regional projects, does switch purchasing happen at site level, and is there room for a documented value alternative?
+
+If useful, I can send one unit with full documentation. If the group handles it centrally, one line and I close the loop politely.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
+
+## 跟进记录
+
+| 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+
+## 下次复核
+
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
+- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
+
+---
+
+*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+---
+
+### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
+
+- **KP 领英直达**:[Reinhold Laurich · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Reinhold%20Laurich%20buerodata%20AG)(搜索链接,点入后核职位再加;来源:档案正文提取)
+- **中国进口与管制**:国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
+- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
+- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

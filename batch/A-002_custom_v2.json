@@ -1,0 +1,25 @@
+{
+ "followup": {
+  "A-002": [
+   {"stage": "租约盒 8 口 PoE（少上门=省钱）",
+    "product": "STC-28DGGPM（P1；$99 USD EXW 2026-09-28 快照 15 天）",
+    "angle": "他按月出租整套网络：每台交换机都是他自己的资产，每次上门都是他自己的成本。PoE 看门狗自动冷重启卡死 AP/摄像头，一趟上门≈500–1000 DKK 工时油费",
+    "question": "Roughly how many call-outs a month come from a hung AP or camera on your rental networks?（全封信只问这一个问题）",
+    "proof": "无附页；一句话带过 802.1Q 干净透传+远程管理，网页页脚规格链接即可",
+    "exit": "14 天无回复→季度低频；退信→换 troels@ 之外的通道核活"},
+   {"stage": "骨干/24 口升档（学校·仓储大单）",
+    "product": "STC-424DGGPM-280W（备选1；$165）/ STC-424XGGM（备选2；$143，L2+/L3 两档）",
+    "angle": "Nørgaards 仓储与学校案例是 24 口+万兆上联的自然台阶；只在第 1 步有信号后进入",
+    "question": "在学校和仓储这两个案例上，单站接入端口数通常是多少？现在骨干什么品牌？",
+    "proof": "L2+ 特性表 1 页（ERPS<20ms/QinQ/Private VLAN/sFlow）+ Voice VLAN 注明仅 L2+ 系",
+    "exit": "无 24 口场景或无回复→停止，不回第 1 步重推"},
+   {"stage": "户外/工业补位（农业·电网·音乐节，CSV 备注未证）",
+    "product": "STI-288GP（备选；$74.8，3 年保）",
+    "angle": "CSV 备注行的农业/电网/音乐节方向**未经官网证实**【假设】：先用一个问题验证再推，不当作事实开价",
+    "question": "Do you actually take outdoor/temporary-event nodes today, or were those older engagements?",
+    "proof": "STI-288GP 规格摘要（冗余 DC44–57V、250m 延伸、DIN 轨）；⚠️ 商用线 1 年保 vs 工业线 3 年保——对「设备寿命=承诺」的他，说明边界别含糊",
+    "exit": "否认有户外场景→归档，停止主动开发"}]},
+ "email": {
+  "A-002": ["Fewer call-outs on your rental network boxes",
+   "Hi Troels,\n\nYou rent complete networks to Danish businesses (Erhvervshuset, Nørgaards Højskole, Kongensbro Kro), so every switch in the field is your own asset - and every call-out is your own cost.\n\nWe build PoE switches with a hardware watchdog that power-cycles a frozen AP or camera automatically, with clean 802.1Q VLAN and remote management, so they sit quietly downstream of MikroTik cores. The 8-port PoE unit (STC-28DGGPM, 240W, af/at) is $99 USD EXW (price snapshot 2026-09-28, valid 15 days) - against a 375 DKK/month rental box, the hardware pays for itself in about two months of rent.\n\nOne question: roughly how many call-outs a month come from a hung AP or camera on your networks?\n\nIf useful, I can ship one 8-port unit to Lemming to try on a single site for 30 days. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM (neutral packing available)"]}
+}

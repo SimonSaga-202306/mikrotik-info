@@ -1,0 +1,950 @@
+{
+ "batch": 18,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-071",
+   "fact": "Straznet（瑞典 Kungsbacka/哥德堡）：25 年经验 SMB IT 伙伴——外部 IT 部（单一支持号）、云（2026-06 上线自有 SaaS：Nextcloud+EuroOffice 致数据本地可控）、网络（安装/优化/排障/安全）、IT 安全审计；合作墙 Microsoft/Bitdefender/Synology/MikroTik；Fernando Trigueiro MTCNA+MTCSE；Peter Straznyk 博客常驻（AI 三阶段实务）",
+   "inference": "SMB 网络+存储（Synology）一线：客户机柜接入层随行；自有 SaaS 机房位为二轨",
+   "hypothesis": "其 SMB 客户随单滚动+AI 实务博客显其处增长期",
+   "evidence_main": "https://straznet.se/",
+   "tech": "网络/云/SaaS/安全；MikroTik/Synology 合作",
+   "hr": "SMB 托管团队（25 年）",
+   "contact_found": "info@straznet.se 0300-307 80；MX=blackhole4.straz.net 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "瑞南部 SMB IT 托管（外部 IT 部+云+网络+安全）",
+    "产品线与在售品牌": "Microsoft/Bitdefender/Synology/MikroTik",
+    "目标行业与场景": "哥德堡地区 SMB",
+    "团队与规模": "小中托管",
+    "决策链与对接人": "Trigueiro（MTCNA+MTCSE）+Straznyk",
+    "技术与认证": "MTCSE；25 年云经验",
+    "采购与供应链信号": "SMB 随行随单",
+    "近期动态与线索": "2026-06 Nextcloud+EuroOffice 自有 SaaS 上线",
+    "与我方契合点": "SMB 机柜 24 口 PoE 随行",
+    "风险与注意": "SMB 价敏"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Extern IT-avdelning…Nätverk…IT-säkerhet…partners Microsoft, Bitdefender, Synology, MikroTik”",
+     "source": "https://straznet.se/"
+    },
+    {
+     "dim": "近期动态",
+     "quote": "“Straznet lanserar NextCloud och EuroOffice…ett fullfjädrat SaaS-företag”（2026-06-18）",
+     "source": "https://straznet.se/straznet-lanserar-nextcloud-och-eurooffice/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@straznet.se 0300-30 780；MX 自托管（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://straznet.se/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · SMB 机柜一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其网络线客户机柜",
+     "question": "SMB 客户机柜接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · SaaS 机房",
+     "push": "STC-28DGGPM",
+     "angle": "其自有 SaaS 机房管理/边缘位",
+     "question": "机房管理位现用？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 滚动框架",
+     "push": "小批框架",
+     "angle": "SMB 随单滚动",
+     "question": "常态月量？",
+     "proof": "阶梯卡"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "25 年 SMB 托管；2026-06 转 SaaS 公司",
+     "②芯片/型号": "MikroTik 合作在册",
+     "③KP 深挖": "Trigueiro+info@",
+     "④Saga 对标": "SMB 机柜 24 口",
+     "⑤在乎与偏好": "叽实文档",
+     "⑥SWOT": "S 托管粘性 / W 价敏 / O SaaS 机房副业 / T 大厂"
+    },
+    "care": [
+     "文档齐"
+    ],
+    "swot": {
+     "S": "粘性",
+     "W": "价敏",
+     "O": "机房",
+     "T": "大厂"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "机柜量",
+    "接入层现供",
+    "滚动量"
+   ],
+   "email": "Hi Fernando,\n\nAn external-IT partner that just turned its cloud offering into a full SaaS stack knows what sits in a customer cabinet.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) sized for exactly those SMB cabinets. Reference: $165 USD EXW.\n\nOne question: in your SMB network jobs, who supplies the access switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your SMB network jobs, who supplies the access switching layer today?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STI-288GP",
+   "tag": "瑞典|SMB托管|SaaS转轨|随单",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-072",
+   "fact": "Andres Ocampo（美国）：7 证 MikroTik 顾问（MTCNA+MTCRE+MTCTCE+MTCINE+MTCIPv6E+MTCxx 截断，CSV 原始口径）；Hotmail 联系方式；公开站未查得",
+   "inference": "个人顾问足迹薄；先短信/邮件破冰",
+   "hypothesis": "含 MTCINE=骨干工程底，破冰后特性对话",
+   "evidence_main": "（CSV 名录口径）",
+   "tech": "7 证（CSV 截断）",
+   "hr": "个人",
+   "contact_found": "sriandres@hotmail.com +1 551 219 8239；Hotmail 邮箱通道存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无公开站，薄档如实；不脑补",
+   "dims": {
+    "业务定位": "美国个人顾问（足迹薄）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Ocampo 本人",
+    "技术与认证": "7 证（含 MTCINE/IPv6E）",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Andres Ocampo 7 证（美国）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 短信破冰",
+     "push": "—",
+     "angle": "执业确认",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "证书对口",
+     "question": "接入层空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "7 证个人、无站",
+     "②芯片/型号": "未公开",
+     "③KP 深挖": "本人 hotmail",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 证齐 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "证齐",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未知",
+     "缺口证据": "无站"
+    },
+    "gap_proof": "无公开足迹"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Andres,\n\nI found you on the MikroTik consultant list - a seven-certification stack is hard work made visible.\n\nWe build managed PoE switches with the L2+ features consultants usually chase (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your projects, is the switching layer ever open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "美国|7证个人|Hotmail破冰",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-073",
+   "fact": "McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销）；Michael Omondi 十证全",
+   "inference": "多厂牌（UniFi+MikroTik）课程=教具箱真实且学员带走=教具消耗量大",
+   "hypothesis": "教具是课程成本结构里看得见的件；诚实比较样本+学生带走器材两案并提，不越师者红线",
+   "evidence_main": "https://mccharlestech.net/",
+   "tech": "多厂牌网络培训（UniFi/MikroTik）",
+   "hr": "学院组织（收费课体系）",
+   "contact_found": "support@mccharlestech.com (833) 622-4275；.net/.com MX 均 O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "教师红线：教具用途须真实透明，不玩“师供价”话术",
+   "dims": {
+    "业务定位": "美国多厂牌网络培训学院（UniFi 官方课+MikroTik 课）",
+    "产品线与在售品牌": "UFSP/URSCA/UWA/MTCNA+MTCRE 课程",
+    "目标行业与场景": "工程师认证培训（全美多城）",
+    "团队与规模": "学院组织",
+    "决策链与对接人": "Omondi（十证）support@",
+    "技术与认证": "十证全",
+    "采购与供应链信号": "课程教具（含“带回家”硬件箱）",
+    "近期动态与线索": "2026-10/12 纽约/洛杉矶 UniFi 班+带走硬件促销",
+    "与我方契合点": "教具箱+比较样本",
+    "风险与注意": "师者红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“join us for UniFi training in New York... and Los Angeles... Keep student lab hardware after the class when you bundle all three courses”",
+     "source": "https://mccharlestech.net/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "“Unifi: UFSP $1,795/URSCA/UWA…Mikrotik: MTCNA + MTCRE $1,175 全美多城”",
+     "source": "https://mccharlestech.net/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "support@mccharlestech.com (833) 622-4275；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mccharlestech.net/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 教具对照一页",
+     "push": "STC-28DGGPM×8",
+     "angle": "其交换课的诚实比较样本",
+     "question": "交换课教具现用？",
+     "proof": "特性页"
+    },
+    {
+     "stage": "第 2 次跟进 · 带走硬件箱",
+     "push": "课程随机箱位",
+     "angle": "其“带回硬件”促销的器材供应位",
+     "question": "学生带走箱单怎么组？",
+     "proof": "箱价"
+    },
+    {
+     "stage": "第 3 次跟进 · 校方评测",
+     "push": "教具箱试用",
+     "angle": "学期前评测",
+     "question": "评测窗？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "多厂牌学院（UniFi+MikroTik 课全美在售）；带走硬件促销",
+     "②芯片/型号": "UniFi/MikroTik 教具",
+     "③KP 深挖": "Omondi 十证；support@",
+     "④Saga 对标": "教具小黑 BEPS 比较样本（红线）",
+     "⑤在乎与偏好": "诚实课评",
+     "⑥SWOT": "S 课程吞吐 / W 多厂牌审慎 / O 教具箱+带走箱 / T 官配"
+    },
+    "care": [
+     "诚实口径"
+    ],
+    "swot": {
+     "S": "吞吐",
+     "W": "审慎",
+     "O": "双箱位",
+     "T": "官配"
+    },
+    "uncertain": {
+     "产品线核实": "教具 SKU 未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "教具箱清单",
+    "带走箱结构",
+    "评测窗"
+   ],
+   "email": "Hi Michael,\n\nMcCharles runs an unusually honest catalog - UniFi and MikroTik courses side by side, and students sometimes walk home with lab hardware. That is the right way to teach.\n\nWe build a compact 8-port managed PoE switch that could serve as a fair second-vendor sample in your switching labs (STP/VLAN/watchdog, honestly labeled). Reference: $99 USD EXW.\n\nOne question: what switch hardware do students work on in your switching labs today?\n\nIf useful, I can send a bench unit for the class to test - plainly, no strings. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "What switch hardware do students work on in your switching labs today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "美国|多厂牌学院|教具比较样本|师者红线",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-074",
+   "fact": "Nick Shore（英国）：MTCNA+MTCRE 双证顾问；shore.me.uk 为其家庭主页+个人简历+IMAP 邮件+付iverse 社交页（个人站，非商务站）",
+   "inference": "个人执业（CV 在线），以电话/WhatsApp 破冰",
+   "hypothesis": "双证基层：破冰后特性对话",
+   "evidence_main": "https://shore.me.uk/",
+   "tech": "MTCNA+MTCRE",
+   "hr": "个人",
+   "contact_found": "nick@shore.me.uk +44 7588 286095；MX=Google 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "站为家庭/个人页（非商）如实",
+   "dims": {
+    "业务定位": "英国个人顾问（CV 在线，个人站）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Shore 本人",
+    "技术与认证": "MTCNA+MTCRE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "个人 CV 页常态化",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "shore.me.uk=Shore family homepage+Nick CV（个人站）",
+     "source": "https://shore.me.uk/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "nick@shore.me.uk；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://shore.me.uk/social/nick"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · WhatsApp 破冰",
+     "push": "—",
+     "angle": "确认执业",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "证书对口",
+     "question": "接入层空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "双证个人，CV 在线",
+     "②芯片/型号": "未知",
+     "③KP 深挖": "本人邮件/手机",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 证在册 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "证在册",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未探",
+     "缺口证据": "个人站"
+    },
+    "gap_proof": "个人站实测"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Nick,\n\nI found you on the MikroTik consultant list and saw the CV page on shore.me.uk.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since you keep a personal site.\n\nOne question: in your client work, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your client work, is the switching layer ever open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "英国|双证个人|CV页|WhatsApp破冰",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-075",
+   "fact": "MyNetworkTraining（荷兰，Maher Haddad）：全球在线网络课程平台——**70K+ 学员、80+ 课**（HotMart/Teachable 体系，$19.99/月）；课程谱：MikroTik MTCNA/ISP Core/L3 硬件卸载、Cisco CCNA、Juniper、FortiGate、**OPNsense 官方课**、Ubiquiti、IPv6 Forum 认证工程师；Haddad 十证全",
+   "inference": "在线课=虚拟实验为主，但“多厂牌齐全”显其教学文化开放；其 7 万学员圈是对设备品牌口碑最敏感的观众",
+   "hypothesis": "用诚实比较样本切入其视频课：在其实验里摆第二厂牌=真实且被他学员看见；不越师者红线不玩付费背书",
+   "evidence_main": "https://mynetworktraining.com/",
+   "tech": "在线多厂牌课程平台（MikroTik/Cisco/Juniper/OPNsense/Ubiquiti/IPv6）",
+   "hr": "平台型讲师（7 万学员）",
+   "contact_found": "info@mynetworktraining.com +31 6 22488675；MX=mx.transip.email 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "师者红线+平台中立：不做付费背书、财物无关话术",
+   "dims": {
+    "业务定位": "荷兰在线网络课程平台（7 万学员/80+ 课多厂牌）",
+    "产品线与在售品牌": "课程会员（$19.99/月起）",
+    "目标行业与场景": "全球工程师自学",
+    "团队与规模": "平台+讲者",
+    "决策链与对接人": "Maher Haddad",
+    "技术与认证": "十证全+OPNsense 官方课",
+    "采购与供应链信号": "实验教具（主虚拟）",
+    "近期动态与线索": "2026-08 课程上新持续",
+    "与我方契合点": "视频课比较样本+学员口碑长窗口",
+    "风险与注意": "师者红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“70K+ Students worldwide / 80+ courses / Different vendor courses…Official OPNsense Course…IPv6 Forum Accredited”",
+     "source": "https://mynetworktraining.com/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "“MikroTik Network Associate with LABS…ISP Core Network Setup with MikroTik…L3 Hardware Offloading with VLANs”",
+     "source": "https://mynetworktraining.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@mynetworktraining.com；MX=transip（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mynetworktraining.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 视频样本一页",
+     "push": "STC-28DGGPM",
+     "angle": "其视频课里一台诚实编标的第二厂牌",
+     "question": "实验课偶用第二厂牌对比？",
+     "proof": "特性页"
+    },
+    {
+     "stage": "第 2 次跟进 · 课样共审",
+     "push": "样机+共审条",
+     "angle": "其内容共审制",
+     "question": "共审条件？",
+     "proof": "样机"
+    },
+    {
+     "stage": "第 3 次跟进 · 学员窗口",
+     "push": "学员集采码",
+     "angle": "7 万学员非付费宣传窗口",
+     "question": "窗口可行？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "在线平台 7 万学员多厂牌课；OPNsense 官方课+IPv6 认证链",
+     "②芯片/型号": "多厂牌实验",
+     "③KP 深挖": "Haddad 直达",
+     "④Saga 对标": "诚实比较样本（红线）",
+     "⑤在乎与偏好": "真实透明",
+     "⑥SWOT": "S 受众巨 / W 平台弱带货 / O 比较样本+学员窗 / T 水感"
+    },
+    "care": [
+     "真实透明"
+    ],
+    "swot": {
+     "S": "受众",
+     "W": "弱带货",
+     "O": "样本地",
+     "T": "水感"
+    },
+    "uncertain": {
+     "产品线核实": "教具结构未知",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "实验物理件占比",
+    "共审条件",
+    "学员窗口"
+   ],
+   "email": "Hi Maher,\n\nEighty-plus courses across MikroTik, Cisco, Juniper, OPNsense and Ubiquiti - you have built one of the most vendor-honest catalogues in the field.\n\nWe build a compact 8-port managed PoE switch that could appear in your labs as an honestly labeled second vendor (STP/VLAN/watchdog). Reference: $99 USD EXW.\n\nOne question: do your lab videos ever compare a second hardware brand openly?\n\nIf useful, I can send a bench unit, plainly labeled, nothing paid, nothing contingent. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Do your lab videos ever compare a second hardware brand openly?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "荷兰|在线平台7万学员|比较样本|师者红线",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-076",
+   "fact": "Maciej Ziółkowski（波兰）：MTCNA+MTCRE 双证顾问；mziolkowski.pl 2026-09-28 抓取 HTTP 500（休眠）；kontakt@mziolkowski.pl",
+   "inference": "个人顾问站休眠；邮件域 MX 存活=通道在",
+   "hypothesis": "双证基层；先短函+电话",
+   "evidence_main": "https://mziolkowski.pl/（500 实测）",
+   "tech": "MTCNA+MTCRE",
+   "hr": "个人",
+   "contact_found": "kontakt@mziolkowski.pl；MX=OVH（mx0.mail.ovh.net）存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "站 500 休眠如实标注；邮件直连",
+   "dims": {
+    "业务定位": "波兰个人双证顾问（站休眠）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Ziółkowski 本人",
+    "技术与认证": "MTCNA+MTCRE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "站 500",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态",
+     "quote": "mziolkowski.pl 返回 HTTP 500（2026-09-28 实测）；域 MX=OVH 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mziolkowski.pl/"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Maciej Ziółkowski MTCNA+MTCRE",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 短函破冰",
+     "push": "特性表",
+     "angle": "双证对口",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 电话核验",
+     "push": "—",
+     "angle": "站休眠→电话",
+     "question": "执业状态？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "双证个人站 500休眠",
+     "②芯片/型号": "未知",
+     "③KP 深挖": "本人邮件",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 证在册 / W 站休眠 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "证在册",
+     "W": "站休",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未探",
+     "缺口证据": "站 500"
+    },
+    "gap_proof": "HTTP 500 实测"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Maciej,\n\nI found you on the MikroTik consultant list (MTCNA/MTCRE).\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since your site seems to be down for maintenance.\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your projects, is the switching layer ever open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "波兰|双证个人|站休眠",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-077",
+   "fact": "J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络",
+   "inference": "Fieldbus 通信+Red Lion 盘表+HMS 全家=其工业通信线成形；温宽 PoE 是随其传感/控制单的补件",
+   "hypothesis": "Cleveland 老线分销；其 Drive 带 Web/Ethernet 通信选件皆需接入层",
+   "evidence_main": "https://jashomer.com/",
+   "tech": "传感/驱动/盘表/HMS；Fieldbus 类",
+   "hr": "老牌地区分销",
+   "contact_found": "sales@jashomer.com 216-221-4157（总机=Zaugg 直线）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "克利夫兰工控分销（传感+驱动+盘表+通信）",
+    "产品线与在售品牌": "Red Lion/N-Tron/HMS+Yaskawa/Baldor/Leeson",
+    "目标行业与场景": "制造/自动化",
+    "团队与规模": "地区老分销",
+    "决策链与对接人": "Charles Zaugg（CSV）sales@",
+    "技术与认证": "Fieldbus/驱动全链",
+    "采购与供应链信号": "常规随单",
+    "近期动态与线索": "站常态化",
+    "与我方契合点": "其 Fieldbus 盘旁的温宽 PoE 补件",
+    "风险与注意": "老分销重关系节奏"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Distributor of Sensors, Readouts, Drives, and Transmission Products…Fieldbus Communications…Red Lion CUB/PAX/GEM/Apollo”",
+     "source": "https://jashomer.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "sales@jashomer.com 216-221-4157；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://jashomer.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Fieldbus 盘旁位一页",
+     "push": "STI-288GP",
+     "angle": "Red Lion/HMS 盘旁温宽 PoE",
+     "question": "工业以太网 PoE 位置？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 驱动通信配位",
+     "push": "VSD Web/Ethernet 配位",
+     "angle": "其驱动带以太网选件的接入层",
+     "question": "驱动网管接入现供？",
+     "proof": "方案页"
+    },
+    {
+     "stage": "第 3 次跟进 · 随单框架",
+     "push": "小批框架",
+     "angle": "老分销小批随单",
+     "question": "框架结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "克利夫兰工控老牌分销；Red Lion/HMS/Yaskawa 在册",
+     "②芯片/型号": "Red Lion+N-Tron",
+     "③KP 深挖": "Zaugg sales@",
+     "④Saga 对标": "温宽 PoE 补件",
+     "⑤在乎与偏好": "老关系节奏",
+     "⑥SWOT": "S 老分销 / W 节奏慢 / O 补件 / T 美系"
+    },
+    "care": [
+     "节奏与关系"
+    ],
+    "swot": {
+     "S": "老牌",
+     "W": "慢",
+     "O": "补件",
+     "T": "美系"
+    },
+    "uncertain": {
+     "产品线核实": "在售交换 SKU 未核",
+     "合作方式": "未谈",
+     "缺口证据": "SKU 页未抓"
+    },
+    "gap_proof": "未逐抓"
+   },
+   "unknowns": [
+    "销售额带",
+    "在售矩阵",
+    "框架条件"
+   ],
+   "email": "Hi Charles,\n\nA catalog that carries Red Lion panel meters, HMS connectivity and Fieldbus communications already speaks industrial Ethernet fluently.\n\nWe build industrial managed PoE switches rated -40 to 75C - the kind of line item that sits naturally next to that portfolio. Reference: $74.8 USD EXW.\n\nOne question: in your automation orders, who supplies the Ethernet switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your automation orders, who supplies the Ethernet switching layer today?",
+   "alt2": "STI-280GE",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "美国|老工控分销|Red Lion/HMS|温宽补件",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-078",
+   "fact": "Giancarlos Bejarano Bordones（西班牙）：MTCNA+MTCRE+MTCINE+MTCSE 四证（含 MTCINE）；gmail 联系方式；公开站未查得（2026-09-28 搜索/抓取均无）",
+   "inference": "个人高阶顾问足迹薄；WhatsApp/邮件破冰",
+   "hypothesis": "MTCINE=骨干级；破冰后特性对话",
+   "evidence_main": "（CSV 名录口径）",
+   "tech": "四证（MTCINE 高阶）",
+   "hr": "个人",
+   "contact_found": "giancbeja@gmail.com +34 604 819 851；gmail MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公开足迹缺失如实；不脑补",
+   "dims": {
+    "业务定位": "西班牙个人高阶顾问（足迹薄）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Bejarano 本人",
+    "技术与认证": "MTCNA+MTCRE+MTCINE+MTCSE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Giancarlos Bejarano Bordones MTCNA+MTCRE+MTCINE+MTCSE（西班牙）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · WhatsApp 破冰",
+     "push": "—",
+     "angle": "执业确认",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "MTCINE 对口",
+     "question": "接入层空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "四证含 MTCINE；无站",
+     "②芯片/型号": "未知",
+     "③KP 深挖": "本人 gmail",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 高阶 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "MTCINE",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未知",
+     "缺口证据": "无站"
+    },
+    "gap_proof": "无公开足迹"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Giancarlos,\n\nI found you on the MikroTik consultant list - MTCINE is the heavy end of the certification chart.\n\nWe build managed PoE switches with the L2+ table serious networks need (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your projects, is the switching layer ever open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "西班牙|MTCINE个人|破冰",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-079",
+   "fact": "Jaime Fuentes（西班牙）：MTCNA+MTCRE+MTCTCE 三证顾问；gmail 联系方式；公开站未查得（2026-09-28 搜索/抓取均无）",
+   "inference": "个人顾问足迹薄；WhatsApp/邮件破冰",
+   "hypothesis": "MTCTCE=QoS/流量工程向；破冰后特性对话",
+   "evidence_main": "（CSV 名录口径）",
+   "tech": "MTCNA+MTCRE+MTCTCE",
+   "hr": "个人",
+   "contact_found": "jaimefuentesit@gmail.com +34 615 800 589；gmail MX 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公开足迹缺失如实；不脑补",
+   "dims": {
+    "业务定位": "西班牙个人顾问（足迹薄）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Fuentes 本人",
+    "技术与认证": "MTCNA+MTCRE+MTCTCE",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Jaime Fuentes MTCNA+MTCRE+MTCTCE（西班牙）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · WhatsApp 破冰",
+     "push": "—",
+     "angle": "执业确认",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "证书对口",
+     "question": "接入层空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "三证个人、无站",
+     "②芯片/型号": "未知",
+     "③KP 深挖": "本人 gmail",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 证在册 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "证在册",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未知",
+     "缺口证据": "无站"
+    },
+    "gap_proof": "无公开足迹"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Jaime,\n\nI found you on the MikroTik consultant list (MTCNA/MTCRE/MTCTCE).\n\nWe build managed PoE switches with the L2+ table consultants look for in access layers they can trust (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your projects, is the switching layer ever open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "西班牙|三证个人|破冰",
+   "batch": 18,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-080",
+   "fact": "Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet 行所载手机，互证同一人）；认证口径不同：个人行无 MTCSE、Celenet 行含十证（名录更新时滞）",
+   "inference": "编号冻结不动：A-080 记档为同人疑似重复·档案互注（一个客户记一次）。商务推进全部走 A-066 Celenet 通道（已档案齐备）；A-080 不单独排期跟进计划",
+   "hypothesis": "如后续强烈信号证明非同人，再解注单独建档",
+   "evidence_main": "（CSV 名录口径·同人互注）",
+   "tech": "认证口径两行不一致（名录时滞）",
+   "hr": "=A-066 Celenet 联络人",
+   "contact_found": "LinkedIn 页（截断）+ +34 622 330 440（=Celenet 行手机互证）；个人行无邮箱",
+   "contact_pending": "同人互注：商务走 A-066 Celenet 域（ccardenas@celenet.es，MX 自托管存活——详见 A-066 档案）",
+   "dims": {
+    "业务定位": "同人互注档（商务通道=A-066 Celenet）",
+    "产品线与在售品牌": "=A-066",
+    "目标行业与场景": "=A-066",
+    "团队与规模": "=A-066",
+    "决策链与对接人": "Cárdenas 本人（双档同载）",
+    "技术与认证": "名录两行口径不一致（时滞）",
+    "采购与供应链信号": "=A-066",
+    "近期动态与线索": "CSV 双行登记识别（公司行+个人行）",
+    "与我方契合点": "=A-066",
+    "风险与注意": "不重复触达（同一收件人双信=不专业）"
+   },
+   "evidence": [
+    {
+     "dim": "同人互注",
+     "quote": "CSV：A-066 Celenet(href=ccardenas@celenet.es, +34 622 330 440) 与 A-080 Carlos Cárdenas Cebrián（同手机，LinkedIn 截断）——姓名+手机双互证同人",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "互注说明",
+     "push": "不单独跟进",
+     "angle": "商务统一走 A-066",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "同人互注（姓名+手机双互证）=A-066 Celenet 联络人",
+     "②芯片/型号": "=A-066",
+     "③KP 深挖": "并入 A-066",
+     "④Saga 对标": "=A-066",
+     "⑤在乎与偏好": "=A-066",
+     "⑥SWOT": "同人重复登记→合并口径按 A-066"
+    },
+    "care": [
+     "=A-066"
+    ],
+    "swot": {
+     "S": "=A-066",
+     "W": "=A-066",
+     "O": "=A-066",
+     "T": "=A-066"
+    },
+    "uncertain": {
+     "产品线核实": "=A-066",
+     "合作方式": "=A-066",
+     "缺口证据": "个人行资料稀薄"
+    },
+    "gap_proof": "同人互注"
+   },
+   "unknowns": [
+    "（并入 A-066 未知项）"
+   ],
+   "email": "（不单独起草首触信——商务统一走 A-066 Celenet 档案信函；避免同人双信）",
+   "question": "—",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STC-28DGGPM",
+   "tag": "西班牙|同人互注A-066|不重复触达",
+   "batch": 18,
+   "date": "2026-09-28"
+  }
+ ]
+}

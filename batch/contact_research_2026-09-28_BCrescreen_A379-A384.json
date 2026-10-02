@@ -1,0 +1,641 @@
+{
+ "date": "2026-09-28",
+ "scope": "B/C复筛第1批：B行官网核验与去重提示；本节记录升级（A-379–A-384）与保持B的判定证据。不改公司名/国家/城市/网站/类型/信号/切入点/SKU/优先级/状态/来源等字段；升级行仅改评级、档案编号、评级依据、人工定级、备注。",
+ "records": [
+  {
+   "code": "A-379",
+   "name": "Optitera Global Networks Inc.",
+   "country": "加拿大",
+   "city": "Ontario",
+   "email": "sales@optiteraglobal.ca",
+   "site": "optiteraglobal.ca",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-070（批量导入行，三星依据仅渠道等级，备注含待补标记）。核验要点：官网为MikroTik经销商站点，MikroTik品类含Switches（品牌计数105款MikroTik SKU），另有ISP/WISP/电信/CCTV/企业方案分栏 → 具备交换机产品线/渠道证据，按人工定级升A（A-379），待补标记解除。差异仅备注：官网联系页电话+1 647-388-6222、+1 437-440-0729与原字段+1 437 424 4024不一致；CSV城市“Ontario”与官网Oakville ON（登记2065 Madden Blvd L6H3N9，仓库785 Pacific Rd Unit 3）差异同类处理，均未改字段。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://optiteraglobal.ca/) [2](https://optiteraglobal.ca/contact-us/) 仅覆盖所述联络/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-379",
+   "quote": "optiteraglobal.ca 品牌计数：TP-Link 75 / MikroTik 105（含 Switches）/ Cambium 9 / Mimosa 15 / Grandstream 60 / Optitera 43 / Cudy 88；方案分栏：ISP/WISP/电信/CCTV/企业；/contact-us/：sales@optiteraglobal.ca、+1 647-388-6222、+1 437-440-0729；登记地址 2065 Madden Blvd, Oakville ON L6H3N9；仓库 785 Pacific Rd Unit 3；Mon–Fri 9:30–18:00",
+   "sources": [
+    [
+     1,
+     "https://optiteraglobal.ca/"
+    ],
+    [
+     2,
+     "https://optiteraglobal.ca/contact-us/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-070原入口“+1 437 424 4024 / sales@optiteraglobal.ca”、网站“optiteraglobal.ca”、备注含待补标记批量导入说明"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-070",
+   "decision": "promote"
+  },
+  {
+   "code": "A-380",
+   "name": "WISP.PL",
+   "country": "波兰",
+   "city": "",
+   "email": "sklep@wisp.pl",
+   "site": "wisp.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-272。核验要点：站内为渠道分销（MikroTik/Ubiquiti/TP-Link/Teltonika/Cudy），并含工业交换机品类（Scodeno，/m242,scodeno.html）；站点横幅列 MBUM#11 Poznań 与 Solarix 机柜、USR-IoT LoRa → 交换机渠道证据成立，升A（A-380）。未获具名联系人，仅公开销售邮箱sklep@与电话+48 32 721 86 72（按人工定级A记录，公司与A-363等公司级入口同口径）。未发送邮件、未提交表单；公开邮箱不等于可投递或采购权限。 证据：[1](https://wisp.pl/) [2](https://wisp.pl/m242,scodeno.html) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-380",
+   "quote": "wisp.pl：分销站点（MikroTik / Ubiquiti / TP-Link / Teltonika / Cudy）；栏目 Scodeno 工业交换机（/m242,scodeno.html）；站点横幅：MBUM#11 Poznań、Solarix 机柜、USR-IoT LoRa",
+   "sources": [
+    [
+     1,
+     "https://wisp.pl/"
+    ],
+    [
+     2,
+     "https://wisp.pl/m242,scodeno.html"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-272原备注“Bełk”、入口“+48 32 721 86 72 / sklep@wisp.pl”、信号“MikroTik（Master+VAD）”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-272",
+   "decision": "promote"
+  },
+  {
+   "code": "A-381",
+   "name": "Ditecom",
+   "country": "西班牙",
+   "city": "马德里",
+   "email": "info@ditecom.com",
+   "site": "ditecom.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-465（批量导入行，备注含待补标记）。核验要点：站内搜索命中在售工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA），Networking 分类存在（17项） → 待补标记所问“是否已有工业交换机产品线”核验为是；升A（A-381），待补标记解除。该店主业为测试/测量与监控仪器（HW Group STE2/Poseidon2 等）、马德里门店+校准实验室，交换机为其中一类，切入以工业线补位为主。原电话+34 91 528 54 37与邮箱info@ditecom.com保留；未获具名联系人（按人工定级A记录）。未发送邮件、未提交表单。 证据：[1](https://ditecom.com/) [2](https://ditecom.com/?s=switch) 仅覆盖所述产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-381",
+   "quote": "ditecom.com：测试/测量+监控仪器店（HW Group STE2/Poseidon2 等），马德里门店+校准实验室；Networking 分类 17 项；?s=switch 命中工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA）",
+   "sources": [
+    [
+     1,
+     "https://ditecom.com/"
+    ],
+    [
+     2,
+     "https://ditecom.com/?s=switch"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-465原入口“+34 91 528 54 37 / info@ditecom.com”、类型“分销+网店”、信号“工业管理型（EX-9911M环网）”、备注含待补标记"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-465",
+   "decision": "promote"
+  },
+  {
+   "code": "A-382",
+   "name": "MS Dist.",
+   "country": "英国",
+   "city": "",
+   "email": "hello@msdist.co.uk",
+   "site": "msdist.co.uk",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-416。核验要点：站点为英国网络分销（MikroTik / Ubiquiti UniFi / Teltonika；trade account 体系；固定无线、企业WiFi、路由网关、摄像安保分栏），并沿用2026-09-22已记录的 Netonix WISP 交换机代理证据（PoE、宽温、DC输入） → 交换/供电产品线证据成立，升A（A-382）。未获具名联系人，仅公司级 hello@msdist.co.uk 与电话 01295 220 330（按人工定级A记录）。Netonix 为既有豁免品牌，“不得用同芯片话术”约束继续适用。未发送邮件、未提交表单。 证据：[1](https://www.msdist.co.uk/) [2](https://www.msdist.co.uk/collections/fixed-wireless) 仅覆盖所述渠道/产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-382",
+   "quote": "msdist.co.uk：免费次日达/trade accounts/专家推荐；品牌与分栏含 MikroTik Wireless、Ubiquiti UniFi、Teltonika、Fixed Wireless、Enterprise WiFi、Routers & Gateways、Cameras & Security；此前记录（2026-09-22）：官网列 Netonix WISP 交换机（PoE、宽温、DC输入）为代理品牌",
+   "sources": [
+    [
+     1,
+     "https://www.msdist.co.uk/"
+    ],
+    [
+     2,
+     "https://www.msdist.co.uk/collections/fixed-wireless"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-416原备注“Oxfordshire；【2026-09-22 补】官网列 Netonix WISP 交换机（PoE、宽温、DC 输入）为代理品牌。”、入口“01295 220 330 / hello@msdist.co.uk”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-416",
+   "decision": "promote"
+  },
+  {
+   "code": "A-383",
+   "name": "Makro Wisp",
+   "country": "美国",
+   "city": "NC",
+   "email": "Sales@makrowisp.com",
+   "site": "makrowisp.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-361。核验要点：店铺分类含“Routers & Switches”，在售 MikroTik CRS418-8P-8G-2S+RM（$449，页面示8 in stock）与 Ubiquiti USW Pro XG 24（$1,185） → 交换机渠道证据成立，升A（A-383）。未获具名联系人，邮箱原文 Sales@makrowisp.com（首字母大写保留）与电话+1 980 441 1125 保留（按人工定级A记录）。页面缺货/库存字样为抓取时状态，不构成需求或供货承诺。未发送邮件、未提交表单。 证据：[1](https://makrowisp.com/) [2](https://makrowisp.com/product-category/routers-switches/) 仅覆盖所述商品品类事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-383",
+   "quote": "makrowisp.com：品牌 MikroTik / Alta Labs / Cambium / Ubiquiti / Grandstream / Mimosa / RF elements / Baicells / Netpoint；分类含 Routers & Switches、Power、Video Surveillance、Door Access、Fiber Products、VOIP；在售 MikroTik CRS418-8P-8G-2S+RM 与 Ubiquiti UniFi Pro XG 24",
+   "sources": [
+    [
+     1,
+     "https://makrowisp.com/"
+    ],
+    [
+     2,
+     "https://makrowisp.com/product-category/routers-switches/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-361原备注“USMonroe；WISP 渠道”、入口“+1 980 441 1125 / Sales@makrowisp.com”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-361",
+   "decision": "promote"
+  },
+  {
+   "code": "A-384",
+   "name": "WispMax",
+   "country": "意大利",
+   "city": "",
+   "email": "info@wispmax.com",
+   "site": "wispmax.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-175。核验要点：站内广告位与商品页含“MANAGED INDUSTRIAL POE SWITCH 5P”（/prodotto/managed-industrial-poe-switch-5p/） → 工业交换/PoE 产品线证据成立，升A（A-384）。未获具名联系人，info@wispmax.com 与电话+39 0721797396 保留（按人工定级A记录）；2026-08 放假公告与页面价格/库存未逐项核验，仅作线索。未发送邮件、未提交表单。 证据：[1](https://www.wispmax.com/) [2](https://www.wispmax.com/prodotto/managed-industrial-poe-switch-5p/) 仅覆盖所述产品线事实；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#A-384",
+   "quote": "wispmax.com：分类 Antennas / Boards-Routers / Accessories / Software-License / Energy / Wireless / Hotspot / Domotics-IoT / WISP / Videosurveillance / Helpdesk / Special Deals；广告位与商品页出现 MANAGED INDUSTRIAL POE SWITCH 5P；站内 2026-08 放假公告（spedizioni sospese 07/08–24/08/2026）",
+   "sources": [
+    [
+     1,
+     "https://www.wispmax.com/"
+    ],
+    [
+     2,
+     "https://www.wispmax.com/prodotto/managed-industrial-poe-switch-5p/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-175原备注“Cagli (PU)；WISP 渠道”、入口“+39 0721797396 / info@wispmax.com”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": "B-175",
+   "decision": "promote"
+  },
+  {
+   "code": "B-344",
+   "name": "DoubleRadius, Inc.",
+   "country": "美国",
+   "city": "NC",
+   "email": "salesteam@doubleradius.com",
+   "site": "doubleradius.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官网商店品牌含 MikroTik / Ubiquiti / Cambium / SAF Tehnika / Baicells / RF elements，分类含 Routing/Switching 与 Switches（in stock），并有服务站点 services.doubleradius.com → 产品线符合；但属美国 WISP 大盘分销+服务型（“Beyond the Box”），体量与采购流程按“避免大分销正面战”口径另批复核，本轮保持B（不升级）；未获具名联系人。未发送邮件、未提交表单。 证据：[1](https://www.doubleradius.com/) [2](https://shopdoubleradius.com/collections/routing-switching)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-344",
+   "quote": "shopdoubleradius.com：Top Brands MikroTik / Ubiquiti / SAF Tehnika / Baicells / RF elements / Cambium Networks；Shop by Category 含 Routing/Switching、Switches(in stock)、Fiber、LTE、Outdoor Wireless、Video；services.doubleradius.com 服务分站",
+   "sources": [
+    [
+     1,
+     "https://www.doubleradius.com/"
+    ],
+    [
+     2,
+     "https://shopdoubleradius.com/collections/routing-switching"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-344原备注“USIndian Trail；WISP 方案商”、入口“+1 704 927 6100 / salesteam@doubleradius.com”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-340",
+   "name": "Controller Service and Sales",
+   "country": "美国",
+   "city": "",
+   "email": "sales@controllerservice.com",
+   "site": "controllerservice.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官网首页 Featured Categories 含“Industrial Ethernet Switches”，并有 Moxa line card（另含 ABB / Eaton / Schmersal / Socomec / Mersen / Sprecher+Schuh 等工业电气线，控制柜制造与现场服务） → 交换产品线证据成立；但属宽线工业电气/自动化目录分销（HARD类大渠道口径），且未获具名联系人，本轮保持B、列入后续批次评估。未发送邮件、未提交表单。 证据：[1](https://www.controllerservice.com/) [2](https://www.controllerservice.com/linecardmoxa)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-340",
+   "quote": "controllerservice.com：Featured Categories 含 Industrial Ethernet Switches、Industrial Serial and Ethernet Edge Connectivity、PLC/I-O、HMI、Motor Control、Power Supplies、Enclosures；Featured Brands 含 ABB、Eaton、HPS、Mersen、Schmersal、Sprecher+Schuh、Moxa；Control Panel Fabrication 与 Field Services 分栏",
+   "sources": [
+    [
+     1,
+     "https://www.controllerservice.com/"
+    ],
+    [
+     2,
+     "https://www.controllerservice.com/linecardmoxa"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-340来源“Moxa 渠道名录（经销商定位法）”、备注含 sales@controllerservice.com 与 (800) 584-5565"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-510",
+   "name": "Janzen Group",
+   "country": "德国",
+   "city": "Hamburg",
+   "email": "info@janzen-group.com",
+   "site": "janzen-group.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为汉堡本地服务商（Netzwerktechnik 布线/网络结构/WLAN、媒体技术、KNX 编程、安防视频/门禁、MikroTik Support；页面可见具名 Florian Janzen；ISO 9001 自述） → 无交换机产品线或采购证据，属集成/服务类，本轮保持B，待集成商口径批次统一裁定；具名联系人为页面人物介绍，未与邮箱互证。未发送邮件、未提交表单。 证据：[1](https://www.janzen-group.com/) [2](https://www.janzen-group.com/leistungen/netzwerktechnik/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-510",
+   "quote": "janzen-group.com：Leistungen 含 Sicherheitstechnik（Alarm/Video/CS-Gas）、Medientechnik、KNX Programmierung、Netzwerktechnik（Verlegen von Netzwerkleitungen, Support, Netzwerkstrukturen, WLAN-Ausbau）、Wartungsverträge、Mikrotik Support（Beratung/Remote/Vorort）；页面人物介绍 Florian Janzen；info@janzen-group.com、+49 40 696 022 11",
+   "sources": [
+    [
+     1,
+     "https://www.janzen-group.com/"
+    ],
+    [
+     2,
+     "https://www.janzen-group.com/leistungen/netzwerktechnik/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-510来源“MikroTik 官方培训计划（欧洲）”、备注“汉堡本地 MikroTik 支持/咨询/实施商…认证培训师与顾问”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-356",
+   "name": "Joshua Moore / Archous Networks",
+   "country": "美国",
+   "city": "Lake Stevens, WA",
+   "email": "mikrotik@archous.tech",
+   "site": "archous.tech",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点自述为 ISP/数据中心/企业托管网络服务商（品牌含 MikroTik、EdgeCore、UfiSpace、NetElastic、Cisco、Dell、Juniper、IPInfusion、Paessler、Andrisoft），联系通道 support@archous.tech / 1-866-535-0358；CSV 具名邮箱 mikrotik@archous.tech 为站内品牌入口 → 集成/托管服务，未见自采购交换机产品线证据，保持B待集成商口径批次。未发送邮件、未提交表单。 证据：[1](https://archous.tech/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-356",
+   "quote": "archous.tech：ISP / datacenter / enterprise managed services；vendors NetElastic / Cisco / Dell / Juniper / EdgeCore / UfiSpace / IPInfusion / MikroTik / Ubiquiti / Paessler / Andrisoft；1-866-535-0358 | support@archous.tech",
+   "sources": [
+    [
+     1,
+     "https://archous.tech/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-356原备注“多厂商网络与系统集成商，专做 MikroTik 及他牌的自动化网络方案…”、入口“+1 912 218 3720 / mikrotik@archous.tech”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-401",
+   "name": "Barry Higgins / Allness",
+   "country": "英国",
+   "city": "Kidderminster",
+   "email": "barry@allness.it",
+   "site": "allness.net",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为小型 IT 服务（电话/工单系统、WiFi 资讯页、网站/托管/邮件服务、工作坊维修与定制） → 未见交换/供电需求证据；具名联系人（英国 MikroTik 讲师，10证）保留，列入培训/顾问批次统一定级。未发送邮件、未提交表单。 证据：[1](https://www.allness.it/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-401",
+   "quote": "allness.it：Welcome / 电话 03333 403 303 / email-ticket system；WiFi 资讯页；Websites, hosting and email service；Workshop repairs, custom builds or just advice",
+   "sources": [
+    [
+     1,
+     "https://www.allness.it/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-401原备注“★ 10 证全拿 + 英国 MikroTik 官方讲师；有线+无线设计、OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-442",
+   "name": "Michiel Visser / Connection Services",
+   "country": "荷兰",
+   "city": "Deventer",
+   "email": "michiel@connectionservices.nl",
+   "site": "connectionservices.nl",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点仅 IPv6 就绪自检占位页（IPv6 测试与 HE 认证徽章，含 MichielVisser 徽章名），无业务/产品内容 → 本次无升级证据；具名联系人保留，下批换路径（工商/社媒/域名注册）复核。未发送邮件、未提交表单。 证据：[1](https://www.connectionservices.nl/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-442",
+   "quote": "connectionservices.nl：页面内容为 IPv6_ready_logo、IPv6 连接测试与 ipv6.he.net 认证徽章（pass_name=MichielVisser）、test-ipv6.com 链接；未见业务介绍或产品页",
+   "sources": [
+    [
+     1,
+     "https://www.connectionservices.nl/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-442原备注“含 MTCINE（ISP 互联）+ MTCWE（无线）”、入口“+31 6 29047127 / michiel@connectionservices.nl”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-463",
+   "name": "Darío Noguera / Lanpixel",
+   "country": "西班牙",
+   "city": "Barcelona",
+   "email": "dario@lanpixel.com",
+   "site": "lanpixel.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：官方 MikroTik Academy / 培训中心（马德里，MTCNA/MTCSE 与 Ubiquiti UAS 课程、FUNDAE 学分、在线实验室平台），页面联系 hola@lanpixel.com、(+34) 91 00 52 276 → 属培训/顾问类，站内未列交换机产品线；列入培训/顾问批次统一定级，本轮保持B。未发送邮件、未提交表单。 证据：[1](https://lanpixel.com/) [2](https://lanpixel.com/contacto)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-463",
+   "quote": "lanpixel.com：Formaciones MikroTik & Ubiquiti、Certificación oficial（MTCNA / MTCSE / UniFi UAS）、FUNDAE 可报销、labs.lanpixel.com 远程实验室、training.lanpixel.com；联系 hola@lanpixel.com、(+34) 91 00 52 276、Madrid",
+   "sources": [
+    [
+     1,
+     "https://lanpixel.com/"
+    ],
+    [
+     2,
+     "https://lanpixel.com/contacto"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-463原备注“15+ 年，既做培训也做生产网络设计…”、入口“+34 660 306 934 / dario@lanpixel.com”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-245",
+   "name": "MHz Wireless",
+   "country": "法国",
+   "city": "",
+   "email": "info@mhzshop.com",
+   "site": "mhzshop.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】去重提示（不升级、不合并）：B-245 网站 mhzshop.com 与 A-352（“MHz Shop”，网站 mhzshop.com）同域名同国别，疑似同一主体重复记录。本轮不做合并或字段改动，仅记录待人工确认；去重命中不等于已证实重复。本条未联网核验该站。 批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-245",
+   "quote": "（本地字段比对）B-245：MHz Wireless / 法国 / mhzshop.com / +33 486688330 / info@mhzshop.com；A-352：MHz Shop / 法国 / mhzshop.com / info@mhzshop.com",
+   "sources": [
+    [
+     1,
+     "https://www.mhzshop.com/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：A-352（评级A）网站字段与B-245相同，均为 mhzshop.com",
+    "本条为仓库内重复提示，本轮未抓取该网站；禁止据此直接合并或删除任一行"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-226",
+   "name": "Jonathan De Graeve / Smarteye",
+   "country": "比利时",
+   "city": "Wilrijk (Antwerpen)",
+   "email": "jonathan@smarteye.eu",
+   "site": "smarteye.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】抓取失败：smarteye.eu 返回 WordPress “Error establishing a database connection”，本次不可核验；不据此升级或降级，保留原信号；下批换路径（缓存/社媒/工商登记）复核。未发送邮件、未提交表单。 证据：[1](https://smarteye.eu/)（失败页）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-226",
+   "quote": "smarteye.eu 抓取返回：“Error establishing a database connection”（WordPress 数据库错误页）",
+   "sources": [
+    [
+     1,
+     "https://smarteye.eu/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-226原备注“★ 比利时唯一认证顾问（稀缺）；专做骨干网设计…”、入口“+32 9 395 6202 / jonathan@smarteye.eu”",
+    "同类行 B-227 SmartEye BV（wifistock.be）仍为B，本轮未并入或合并"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-258",
+   "name": "Batna（anteny24.pl）",
+   "country": "波兰",
+   "city": "",
+   "email": "lukasz@anteny24.pl",
+   "site": "batna24.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】抓取失败：anteny24.pl 请求失败并返回 HTTP 500，batna24.com 本轮未获内容，本次不可核验；保留原信号，下批换路径复核。未发送邮件、未提交表单。 证据：[1](https://anteny24.pl/)（HTTP 500）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-258",
+   "quote": "anteny24.pl：抓取失败 / HTTP 500；batna24.com：本轮未返回内容",
+   "sources": [
+    [
+     1,
+     "https://anteny24.pl/"
+    ],
+    [
+     2,
+     "https://batna24.com/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-258原备注“Częstochowa；WISP 渠道”、入口“+48 34 3610 448 / lukasz@anteny24.pl”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-378",
+   "name": "Rick Frey / Rick Frey Consulting",
+   "country": "美国",
+   "city": "Rexburg, ID",
+   "email": "rickfrey1000@gmail.com",
+   "site": "rickfreyconsulting.com",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】抓取受阻：rickfreyconsulting.com 被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT / purefindresults 重定向），本次不可核验；保留原信号，下批换路径（缓存/社媒/培训名录）复核。未发送邮件、未提交表单。 证据：[1](https://rickfreyconsulting.com/)（被拦截）；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-378",
+   "quote": "rickfreyconsulting.com：请求被客户端扩展拦截（ERR_BLOCKED_BY_CLIENT），重定向至 purefindresults 类结果页",
+   "sources": [
+    [
+     1,
+     "https://rickfreyconsulting.com/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-378原备注“30+ 年网络、19 年 MikroTik…”、入口“+1 430 236 5829 / rickfrey1000@gmail.com”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-006",
+   "name": "Thomas Fossing / CloudPilot",
+   "country": "丹麦",
+   "city": "Copenhagen",
+   "email": "tcf@cloudpilot.dk",
+   "site": "cloudpilot.dk",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：站点为面向无专职IT部门中小企业的IT平台/托管与选型类服务（CloudPilot.dk ApS，Alsikemarken 46, 2860 Søborg；CVR 25706404；info@cloudpilot.dk；+45 3966-4525） → 无交换机产品线或采购证据，保持B（需求未证）；CSV具名联系人tcf@保留。未发送邮件、未提交表单。 证据：[1](https://cloudpilot.dk/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-006",
+   "quote": "cloudpilot.dk：CloudPilot.dk ApS / Alsikemarken 46, 2860 Søborg / +45 3966-4525 / info@cloudpilot.dk / CVR 25706404；站点定位为中小企业IT平台与托管服务",
+   "sources": [
+    [
+     1,
+     "https://cloudpilot.dk/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-006原备注“面向没有专职 IT 经理的中小企业做 IT 平台规划与选型…含 MTCWE + MTCINE”、入口“+45 23 708 070 / tcf@cloudpilot.dk”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  },
+  {
+   "code": "B-293",
+   "name": "Fredrik Soderblom / XPD",
+   "country": "瑞典",
+   "city": "",
+   "email": "fredrik@xpd.se",
+   "site": "xpd.se",
+   "level": "official-company",
+   "note": "【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。核验：XPD AB 为独立安全咨询公司（自2002，斯德哥尔摩；设计与审计服务，页面列 Fredrik Söderblom） → 服务型，无交换机渠道/采购证据，保持B；具名邮箱fredrik@xpd.se与电话+46 70 829 2140保留。未发送邮件、未提交表单。 证据：[1](https://xpd.se/)；批次：batch/contact_research_2026-09-28_BCrescreen_A379-A384.json#B-293",
+   "quote": "xpd.se：XPD AB — independent security consulting（since 2002, Stockholm）；服务为设计与审计；页面列 Fredrik Söderblom",
+   "sources": [
+    [
+     1,
+     "https://xpd.se/"
+    ]
+   ],
+   "local_sources": [
+    "客户名单_反向信号_2026-09.csv：B-293公司名“Fredrik Soderblom / XPD”、入口“+46 70 829 2140 / fredrik@xpd.se”"
+   ],
+   "fields_supported": [
+    "入口/联系方式（含邮箱/电话）",
+    "网站/候选域名",
+    "身份关联（按note限制）",
+    "评级依据（B/C复筛核验）"
+   ],
+   "retrieved_on": "2026-09-28",
+   "retrieval_method": "fetch_page 逐站核验 + 本地CSV比对；失败/差异方式见note",
+   "quote_convention": "不同摘录用 / 分隔；中文说明及搜索摘要显式标注，不表示连续原文。",
+   "before_code": null,
+   "decision": "hold-B"
+  }
+ ]
+}

@@ -1,0 +1,4110 @@
+{
+ "Marvell已确认": [
+  {
+   "code": "A-001",
+   "name": "Puma Solutions ApS",
+   "country": "丹麦",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-002",
+   "name": "Troels E. Normolle / UNIFOSS",
+   "country": "丹麦",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-003",
+   "name": "Andrew Drozd / Iron Sentinel",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-004",
+   "name": "Vitalii Potravka",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-005",
+   "name": "Alain Casault, B.Ing.",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-006",
+   "name": "Amir Seifi / Magenta Networks",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-007",
+   "name": "Industrial Solutions Inc",
+   "country": "加拿大",
+   "chips": []
+  },
+  {
+   "code": "A-008",
+   "name": "Jody Lemoine / Tishco Networks",
+   "country": "加拿大",
+   "chips": [
+    "Broadcom",
+    "Marvell",
+    "自研"
+   ]
+  },
+  {
+   "code": "A-009",
+   "name": "MohammadMahdi Raeesi / Commander IT",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-010",
+   "name": "Wireless Netware",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-011",
+   "name": "Yvan Laverdiere",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-012",
+   "name": "Balazs Meretei",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-013",
+   "name": "Laszlo Kalapos / MindenamiMikrotik",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-014",
+   "name": "Tamás Gajdos",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-015",
+   "name": "Goran Stojkovic",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-016",
+   "name": "Igor Stojković / Netis",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-017",
+   "name": "Sasa Blagojevic",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-018",
+   "name": "Bernhard Kröll / Giganet",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-019",
+   "name": "Khalil / Aulaf",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-020",
+   "name": "Apostolas Georgios",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-021",
+   "name": "Charalampos Marinakis / SystemCon",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-022",
+   "name": "Eleftherios Liodakis / MikroTik Tra",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-023",
+   "name": "George Tatsis / GTA",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-024",
+   "name": "HellasCom L.t.d.",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-025",
+   "name": "Katsariotis Dimitrios / IME",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-026",
+   "name": "Alexej Sokolow / DECOIT",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-027",
+   "name": "Dinko Ivanov / MBN Glasfaser",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-028",
+   "name": "Holger Witt / SKYTRON Communication",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-029",
+   "name": "Kehrlein（MikroTik 认证顾问）",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-030",
+   "name": "Michael Gisbers / Linux-Schmie.de",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-031",
+   "name": "VARIA System GmbH",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-032",
+   "name": "Aikom Technology",
+   "country": "意大利",
+   "chips": [
+    "Qualcomm"
+   ]
+  },
+  {
+   "code": "A-033",
+   "name": "Alejandro Pablo Falà / MikroTik Tra",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-034",
+   "name": "Alessandro Campanella / 1off",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-035",
+   "name": "Alessandro Del Ferro / Bitmagic",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-036",
+   "name": "Alfredo Giordano / TikTrain",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-037",
+   "name": "Cristian Delogu / Netify",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-038",
+   "name": "Davide Toffoletto",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-040",
+   "name": "Gianpiero Ciacci",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-041",
+   "name": "Lorenzo Busatti / Grifonline",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-042",
+   "name": "PF Tech",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-043",
+   "name": "Martin Pina",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-044",
+   "name": "Westercom",
+   "country": "捷克/斯洛伐克",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-045",
+   "name": "Dan Erhan",
+   "country": "摩尔多瓦",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-048",
+   "name": "Ihor Hreskiv / mtik.pl",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-049",
+   "name": "Jacek Rokicki / C3NET",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-076",
+   "name": "Maciej Ziółkowski",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-051",
+   "name": "Paweł Wandas / SAFES",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-050",
+   "name": "Ryszard Labus / SINUX",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-061",
+   "name": "Wojciech Mańka / Mikrotikon",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-371",
+   "name": "Martin Soovares",
+   "country": "爱沙尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-064",
+   "name": "Axbyte",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-071",
+   "name": "Fernando Trigueiro / Straznet",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-052",
+   "name": "Tomas Horyl / Narrowin",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-368",
+   "name": "Kęstutis Viselga / MikroTik Trainin",
+   "country": "立陶宛",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-366",
+   "name": "Robertas Stauskas / Magit",
+   "country": "立陶宛",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-369",
+   "name": "Veaceslav Samburschii / Academia Mi",
+   "country": "罗马尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-072",
+   "name": "Andres Ocampo",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-068",
+   "name": "Juan Manuel Díaz Gómez",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-060",
+   "name": "Michael Jezierski / IndyCar",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-073",
+   "name": "Michael Omondi / McCharles Tech",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-062",
+   "name": "Mohammad Tayyebi / Tayyebi.net",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-063",
+   "name": "Amin Hamidi Younessi / Netrotik",
+   "country": "芬兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-069",
+   "name": "Iyiola Folayan / Millie Evolution",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-059",
+   "name": "Jono Thompson / LinITX",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-074",
+   "name": "Nick Shore",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-065",
+   "name": "Peter Freeman / Freeclix",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-075",
+   "name": "Maher Haddad / MyNetworkTraining",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-277",
+   "name": "Modelec Data-Industrie",
+   "country": "荷兰",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-053",
+   "name": "Urbino Lobo / MiniMeLabs",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-067",
+   "name": "Carlos Otin / Hotelinking",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-070",
+   "name": "Carlos Villalobos / Hecnys",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-066",
+   "name": "Celenet",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-078",
+   "name": "Giancarlos Bejarano Bordones",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-079",
+   "name": "Jaime Fuentes",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-364",
+   "name": "Olisian Sulaj",
+   "country": "阿尔巴尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-370",
+   "name": "Oltion Nikolla / Router.al",
+   "country": "阿尔巴尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-365",
+   "name": "Nexus Networks",
+   "country": "马耳他",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-259",
+   "name": "Henk Veldkamp",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-260",
+   "name": "Maurice Van Der Grijspaarde",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-261",
+   "name": "Joost Van De Weijer",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-385",
+   "name": "Thomas Fossing / CloudPilot",
+   "country": "丹麦",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-432",
+   "name": "DEPS",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-433",
+   "name": "Lanbox",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-434",
+   "name": "Lanmarket",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-435",
+   "name": "Lantorg",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-436",
+   "name": "Lux-Mobil",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-437",
+   "name": "Network Discount",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-386",
+   "name": "Oleksandr Kovinia / K2O Services",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-387",
+   "name": "Serhii Antropov",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-438",
+   "name": "Setevuha",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-439",
+   "name": "Technotrade LLC",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-388",
+   "name": "Vadym Klymenko / Explorer",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-440",
+   "name": "Viatec",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-441",
+   "name": "Dipole Wireless Communication",
+   "country": "以色列",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-442",
+   "name": "MTBG OOD（mikrotikbg.shop）",
+   "country": "保加利亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-389",
+   "name": "Mihail Gyoshev / Digit Consult",
+   "country": "保加利亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-443",
+   "name": "Rootelsat, Ltd.（vesuviustreamline.c",
+   "country": "保加利亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-390",
+   "name": "Stanimir Konakchiev / Nebo Systems",
+   "country": "保加利亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-444",
+   "name": "Frédéric Gauthier / ProRéseau",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-445",
+   "name": "JRS Global Technologies Ltd",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-446",
+   "name": "MBSI WAV",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-447",
+   "name": "Mahkesis Group Inc.",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-379",
+   "name": "Optitera Global Networks Inc.",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-448",
+   "name": "Solimedia Technology Inc",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-391",
+   "name": "Sylvain Caron",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-449",
+   "name": "Wilmer Almazan / Arawi",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-451",
+   "name": "AbsolCom Kft.",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-452",
+   "name": "AccessPoint Kft.",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-422",
+   "name": "David Csongradi",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-454",
+   "name": "Wireless-Bolt",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-455",
+   "name": "ALL4NET DOOEL",
+   "country": "北马其顿",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-456",
+   "name": "Treco",
+   "country": "北马其顿",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-457",
+   "name": "C TECH BILISIM（enucuzmikrotik.com）",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-458",
+   "name": "COOLTECH TRADING",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-459",
+   "name": "Internetten Ltd.（wi.com.tr）",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-460",
+   "name": "NODENET GLOBAL",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-461",
+   "name": "Net Vizyon（4mimo.com）",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-463",
+   "name": "Poyraz Network",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-464",
+   "name": "Sekuritim Bilisim",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-465",
+   "name": "Sis Bil tek（wifianten.com）",
+   "country": "土耳其",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-466",
+   "name": "3NET",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-392",
+   "name": "Nenad Marinkovic / Routerboard.rs",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-467",
+   "name": "Pixel Network LLC",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-393",
+   "name": "Florian Valentin / Formatik",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-468",
+   "name": "QEDV IT-Lösungen（Raum4 GmbH）",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-469",
+   "name": "TRIOTRONIK",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-470",
+   "name": "evoNET",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-472",
+   "name": "CABLEWORKS",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-473",
+   "name": "E-WIRELESS",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-394",
+   "name": "George Karoubalis",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-474",
+   "name": "Hellas Digital",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-475",
+   "name": "XPATIT S.A.",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-476",
+   "name": "wirelesslan.gr - Teledata e.e.",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-477",
+   "name": "4Networks IT-Distribution（OMG.de）",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-479",
+   "name": "FMS Internetservice（mikrotik-shop.d",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-481",
+   "name": "I-NetPartner GmbH（mikrotik-store.eu",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-395",
+   "name": "Manuel Kuhn / EBC Marburg",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-483",
+   "name": "NSR One GmbH（nsr-tik.com）",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-484",
+   "name": "Neunetia GmbH",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-423",
+   "name": "Sebastian Inacker / FMS Web（fmsweb.",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-485",
+   "name": "C1V Hosting",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-486",
+   "name": "CorsiMikrotik（意大利 MikroTik 培训）",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-396",
+   "name": "Elia Fiumalbo Tino Spadoni / Spadha",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-487",
+   "name": "MARCOM S.r.l.",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-488",
+   "name": "SELIT s.r.l（wirmax.net）",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-489",
+   "name": "SICE Telecomunicazioni",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-397",
+   "name": "Simone Filippi / Byte Solutions",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-490",
+   "name": "WISP STORE SRLS",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-384",
+   "name": "WispMax",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-491",
+   "name": "NetPro SIA（nasstore.eu）",
+   "country": "拉脱维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-398",
+   "name": "Oļegs Žakovs / NetPro",
+   "country": "拉脱维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-492",
+   "name": "SPX, SIA（router.lv）",
+   "country": "拉脱维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-494",
+   "name": "AIRCOM Praha s.r.o.",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-495",
+   "name": "Discomp s.r.o.",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-496",
+   "name": "IPMEDIA",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-399",
+   "name": "Martin Klablena",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-400",
+   "name": "Martin Poisel / MapNet",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-498",
+   "name": "VanCo.cz s.r.o.（wifi-shop.cz）",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-424",
+   "name": "WIFIPROFI.CZ",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-499",
+   "name": "i4wifi a.s.",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-401",
+   "name": "Radion Gareev / Meganet",
+   "country": "摩尔多瓦",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-500",
+   "name": "TIMES NETWORKS（lancentrum）",
+   "country": "斯洛伐克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-402",
+   "name": "Jonathan De Graeve / Smarteye",
+   "country": "比利时",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-501",
+   "name": "SmartEye BV（wifistock.be）",
+   "country": "比利时",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-504",
+   "name": "Azurtem",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-505",
+   "name": "GROUPE CONVERGENCE SAS",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-403",
+   "name": "Habib Kanso",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-506",
+   "name": "MHz Wireless",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-507",
+   "name": "NFTECH - WIFI France",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-508",
+   "name": "Aenet.pl（alfaextranet.pl）",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-404",
+   "name": "Bartłomiej Maliszewski",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-510",
+   "name": "Batna（anteny24.pl）",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-511",
+   "name": "CDR P.S.A.",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-512",
+   "name": "Cyberbajt",
+   "country": "波兰",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-513",
+   "name": "FIBERM sp. z o.o.",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-514",
+   "name": "Konsorcjum ATS",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-405",
+   "name": "Krzysztof Dudek / Innored",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-380",
+   "name": "WISP.PL",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-515",
+   "name": "WiFi24",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-516",
+   "name": "iWave Group S.A.",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-517",
+   "name": "Winncom Technologies（Dublin）",
+   "country": "爱尔兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-518",
+   "name": "Kernel AS",
+   "country": "爱沙尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-425",
+   "name": "Rein Podra",
+   "country": "爱沙尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-519",
+   "name": "Sonictest OÜ",
+   "country": "爱沙尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-520",
+   "name": "AxByte（netdist.se）",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-406",
+   "name": "Fredrik Soderblom / XPD",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-521",
+   "name": "Satellithuset i Limmared AB（routerb",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-522",
+   "name": "ENGITECH S.A.",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-523",
+   "name": "INOVIS Live Automation AG",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-407",
+   "name": "Philipp Marcel Albrecht / Portup",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-525",
+   "name": "Wifx SA",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-526",
+   "name": "KosProd",
+   "country": "科索沃",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-408",
+   "name": "Dovydas Rimeisis",
+   "country": "立陶宛",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-409",
+   "name": "Mircea Enache",
+   "country": "罗马尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-527",
+   "name": "Netter System SRL（mikrotik.ro）",
+   "country": "罗马尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-528",
+   "name": "Wifimag.ro",
+   "country": "罗马尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-529",
+   "name": "4Net Networking, Corp.",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-530",
+   "name": "Altanet Corporation",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-531",
+   "name": "Baltic Network",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-532",
+   "name": "Business Systems Connection, Inc.",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-533",
+   "name": "CTIconnect LLC",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-534",
+   "name": "Digicomm International",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-535",
+   "name": "DoubleRadius, Inc.",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-536",
+   "name": "Flytec Computers",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-537",
+   "name": "Hexstar",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-538",
+   "name": "Interamerican Tech Corp.",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-539",
+   "name": "Itshopp.com",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-410",
+   "name": "Joshua Moore / Archous Networks",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-411",
+   "name": "Kyle Heppler / The ISP Academy",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-383",
+   "name": "Makro Wisp",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-540",
+   "name": "Microcom Technologies",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-542",
+   "name": "Multilink Solutions",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-543",
+   "name": "NACE Inc（North American Cable）",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-544",
+   "name": "ROC-NOC",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-412",
+   "name": "Rick Frey / Rick Frey Consulting",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-545",
+   "name": "Streakwave",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-549",
+   "name": "4Gon",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-550",
+   "name": "Comms Express Ltd",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-551",
+   "name": "Liberty-izone Ltd.",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-382",
+   "name": "MS Dist.",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-552",
+   "name": "NetXL Distribution Ltd.",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-554",
+   "name": "VoiceHost Limited",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-555",
+   "name": "broadbandbuyer.com",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-426",
+   "name": "Aris Vink / SDC",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-427",
+   "name": "Corné van Halteren / DAEL",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-428",
+   "name": "Jasper Hagoort / Dside",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-413",
+   "name": "Menno van Krimpen / Libernet",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-429",
+   "name": "Michiel Visser / Connection Service",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-430",
+   "name": "MikroTrain（荷兰 MikroTik 培训）",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-557",
+   "name": "Routershop.nl",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-558",
+   "name": "SDC Group",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-414",
+   "name": "Stephan Szarafinski / MNW",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-559",
+   "name": "Wimood（wimoodshop.nl）",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-560",
+   "name": "Bruno Caiola Ricardo / Sinaltech",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-561",
+   "name": "Officelan",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-562",
+   "name": "CiudadWireless",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-563",
+   "name": "DITECAL S.L",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-415",
+   "name": "Darío Noguera / Lanpixel",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-564",
+   "name": "Instant Byte S.L.",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-416",
+   "name": "Jorge Castellet Marques",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-417",
+   "name": "Jorge Montero",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-418",
+   "name": "Juan Miguel Gallardo Pérez / Codisa",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-565",
+   "name": "LAUFQUEN COMUNICACIONES",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-419",
+   "name": "Martin Ruiz / Ibersystems",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-420",
+   "name": "Xavier Poza",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-567",
+   "name": "RIDMONT D.O.O.",
+   "country": "黑山",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-090",
+   "name": "Jasper Hagoort",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-271",
+   "name": "Michiel Visser",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-285",
+   "name": "Corné Van Halteren",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-286",
+   "name": "Aris Vink",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-287",
+   "name": "Rene Dirks",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-314",
+   "name": "Rogier Banis",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-315",
+   "name": "Roelof Daleboudt",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-288",
+   "name": "Krystof Klima",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-272",
+   "name": "Alexandr Mensenin",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-431",
+   "name": "Tomislav Vrebac / Kerberos",
+   "country": "克罗地亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-084",
+   "name": "Amin Dashti",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-289",
+   "name": "Dan Parrish",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-273",
+   "name": "Kevin Myers",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-290",
+   "name": "Chris Schiessl",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-291",
+   "name": "Martin Sundahl",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-292",
+   "name": "David Garland",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-293",
+   "name": "Hector Prado",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-311",
+   "name": "Christopher Fikes",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-294",
+   "name": "Steve Discher",
+   "country": "美国",
+   "chips": [
+    "Broadcom",
+    "Marvell",
+    "Qualcomm"
+   ]
+  },
+  {
+   "code": "A-083",
+   "name": "FMS Internetservice GmbH",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-239",
+   "name": "Patrik Schaub",
+   "country": "德国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-240",
+   "name": "Khalil Chamseddine",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-241",
+   "name": "Martin Polainer",
+   "country": "奥地利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-359",
+   "name": "Scornici Vadim",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-355",
+   "name": "Ahababian V.",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-360",
+   "name": "Andrii Sychov",
+   "country": "乌克兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-242",
+   "name": "Mikrotik Warsaw Training Center",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-243",
+   "name": "Tadeusz Ruchlewicz",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-244",
+   "name": "Bartłomiej Rodek",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-245",
+   "name": "Jaromir Cihak",
+   "country": "捷克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-367",
+   "name": "Petar Dimitrov",
+   "country": "保加利亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-234",
+   "name": "Varia Group",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-279",
+   "name": "wlanparts",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-276",
+   "name": "Neobits",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-281",
+   "name": "UNIFYING SOLUTION",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-113",
+   "name": "A3 Communications",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-114",
+   "name": "Amplitel Technologies",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-115",
+   "name": "BCL Enterprises, Inc.",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-316",
+   "name": "Davis Ulmer Family of Companies",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-116",
+   "name": "Gemellaro Systems Integration (GSI)",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-117",
+   "name": "Griffon Security Technologies, LLC",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-118",
+   "name": "Heartland Business Systems",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-119",
+   "name": "ITC Technologies",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-120",
+   "name": "Kidwell Inc.",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-121",
+   "name": "Nexware Technologies",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-122",
+   "name": "Paramount Security Partners",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-123",
+   "name": "Professional Cabling Solutions (PCS",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-124",
+   "name": "Riverside Technologies Inc",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-125",
+   "name": "Security 101 - CT",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-126",
+   "name": "Security 101 - Rochester NY",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-317",
+   "name": "Shea Electric",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-127",
+   "name": "Silco Fire Protection & Security",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-128",
+   "name": "UberData Networks",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-129",
+   "name": "VARtek Services Inc",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-130",
+   "name": "Wire Technologies, Inc.",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-112",
+   "name": "BRS Networks AB",
+   "country": "瑞典",
+   "chips": [
+    "自研"
+   ]
+  },
+  {
+   "code": "A-312",
+   "name": "Atlantik Elektronik",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-097",
+   "name": "Benjamin Wragg",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-295",
+   "name": "Matthew Phillip Main",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-283",
+   "name": "Jake Louis Petre Woodhouse",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-284",
+   "name": "Kevin Riding",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-266",
+   "name": "Andisa IT",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-274",
+   "name": "Nathael Leblanc",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-296",
+   "name": "Frederic Gauthier",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-275",
+   "name": "Philippe Lachapelle",
+   "country": "加拿大",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-297",
+   "name": "Johannes Edgren",
+   "country": "芬兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-236",
+   "name": "Leo De Geer",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-246",
+   "name": "Fredrik Hellgren",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-237",
+   "name": "Philippe ROBERT",
+   "country": "瑞士",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-374",
+   "name": "Rein Põdra",
+   "country": "爱沙尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-247",
+   "name": "Marco Boschini",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-298",
+   "name": "Luca Martinelli",
+   "country": "意大利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-248",
+   "name": "Victor Bolaños Guerra",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-249",
+   "name": "Flavio Gomes Figueira Camacho",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-262",
+   "name": "NetHighTech",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-356",
+   "name": "Pournaras Athanasios",
+   "country": "希腊",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-235",
+   "name": "László Kalapos",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-250",
+   "name": "Péter Major",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-091",
+   "name": "Laszlo Gyenese",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-299",
+   "name": "Antal Bacskai",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-251",
+   "name": "Dávid Csongrádi",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-252",
+   "name": "Kajetan Tadra",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-258",
+   "name": "Daniel Świtalski",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-131",
+   "name": "SDC B.V.",
+   "country": "荷兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-080",
+   "name": "Carlos Cárdenas Cebrián",
+   "country": "西班牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-375",
+   "name": "Jānis Jaunošāns",
+   "country": "拉脱维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-361",
+   "name": "Michal Dobšovič",
+   "country": "斯洛伐克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-362",
+   "name": "Ivan Dolnak",
+   "country": "斯洛伐克",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-376",
+   "name": "Jernej Suhadolc",
+   "country": "斯洛文尼亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-377",
+   "name": "Ivan Jezerinac",
+   "country": "克罗地亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-372",
+   "name": "Domagoj Bikic",
+   "country": "克罗地亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-378",
+   "name": "David Blažević",
+   "country": "克罗地亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-421",
+   "name": "MikroTik Trening Srbija",
+   "country": "塞尔维亚",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-098",
+   "name": "Brian Vargyas",
+   "country": "美国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-320",
+   "name": "Evelem",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-132",
+   "name": "Nabacom",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-321",
+   "name": "EDV-Partner",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-270",
+   "name": "Data Connect",
+   "country": "美国",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-313",
+   "name": "Powertech Controls",
+   "country": "美国",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-089",
+   "name": "Switchshop Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-306",
+   "name": "Holker IT",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-099",
+   "name": "MSI Works Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-300",
+   "name": "GBE Converge",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-100",
+   "name": "Networkology Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-101",
+   "name": "Lloret Control Systems Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-102",
+   "name": "EAC Network Solutions",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-301",
+   "name": "3TEC",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-302",
+   "name": "ACC Yotta",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-085",
+   "name": "ATEC Security Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-103",
+   "name": "Bechtle Direct Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-104",
+   "name": "Centerprise International Limited",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-105",
+   "name": "Cisilion Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-106",
+   "name": "DACC Europe Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-303",
+   "name": "Electracom/Trusol",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-107",
+   "name": "Esotec Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-304",
+   "name": "European Electronique",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-305",
+   "name": "Quadratek",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-108",
+   "name": "Roadtech Computer Systems Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-109",
+   "name": "RWL Advanced Solutions",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-110",
+   "name": "Senseco Systems Ltd",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-111",
+   "name": "Universal Networks",
+   "country": "英国",
+   "chips": []
+  },
+  {
+   "code": "A-133",
+   "name": "5G IT Service GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-134",
+   "name": "ACP IT Solutions GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-135",
+   "name": "Acteos GmbH & Co. KG",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-136",
+   "name": "Alarm- und Sicherheitstechnik B.W. ",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-137",
+   "name": "Alco Vertrieb Datentechnischer Gerä",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-322",
+   "name": "AlphaCron Datensysteme",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-138",
+   "name": "AMRO IT-Systeme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-139",
+   "name": "ARCHE Systeme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-140",
+   "name": "Bachert Datentechnik GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-141",
+   "name": "BAIEN GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-142",
+   "name": "bod networks GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-143",
+   "name": "buerodata AG",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-144",
+   "name": "CompData Computer GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-145",
+   "name": "dainox GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-146",
+   "name": "Dallmeier Electronics GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-147",
+   "name": "Daten- und Telekommunikations-GmbH ",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-148",
+   "name": "Döhler DatenSysteme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-149",
+   "name": "Dresdner ProSoft GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-150",
+   "name": "Eckmann Spezialkabel GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-323",
+   "name": "EDV-Beratung u Dienstleistungen Ber",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-151",
+   "name": "GBS TEMPEST & Service GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-152",
+   "name": "Gretsch-Unitas GmbH Baubeschläge",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-153",
+   "name": "Gretsch-Unitas",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-154",
+   "name": "GU BKS SERVICE GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-155",
+   "name": "H & G Hansen & Gieraths EDV Vertrie",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-324",
+   "name": "H&M electronics GbR",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-156",
+   "name": "Hamburger Meldetechnik GmbH & Co.KG",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-157",
+   "name": "Human Art Computersysteme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-158",
+   "name": "Inducio GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-325",
+   "name": "Ingo Seidenberg Inseid – EDV-Beratu",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-159",
+   "name": "Insight Technology Solutions GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-160",
+   "name": "ISIMKO GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-161",
+   "name": "JOTT Consulting GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-162",
+   "name": "KWS Partner GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-163",
+   "name": "M IT-Systemhaus GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-164",
+   "name": "m² IT Solutions e. K.",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-165",
+   "name": "MECO Systemhaus GmbH & Co. KG",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-326",
+   "name": "Merlin EDV",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-166",
+   "name": "Michael Schmidt IT GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-167",
+   "name": "my ITService Wolfgang Deibe",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-168",
+   "name": "N+P Informationssysteme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-169",
+   "name": "Netz16 GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-170",
+   "name": "NiTo IT Systeme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-171",
+   "name": "Nutz GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-172",
+   "name": "OAS AG",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-173",
+   "name": "Phoenix IT Solutions",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-174",
+   "name": "PKE Deutschland GmbH – Niederlassun",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-175",
+   "name": "prego services GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-176",
+   "name": "Prinzing Elektrotechnik GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-177",
+   "name": "RECOS SYSTEM SOLUTIONS GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-178",
+   "name": "Selos Informationssysteme GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-179",
+   "name": "Sittig Technologies GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-180",
+   "name": "TELCAT MULTICOM GmbH – HQ",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-181",
+   "name": "think about IT GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-182",
+   "name": "Tiefenbach IT GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-183",
+   "name": "TQ-Systems GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-184",
+   "name": "wp.DATA Kommunikations GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-185",
+   "name": "Ziegler Systemhaus GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-186",
+   "name": "Zorn Elektrik GmbH",
+   "country": "德国",
+   "chips": []
+  },
+  {
+   "code": "A-307",
+   "name": "BlueBearsIT",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-327",
+   "name": "CFI France",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-328",
+   "name": "Delta Sertec",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-187",
+   "name": "Groupe Networks",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-329",
+   "name": "GTD International",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-308",
+   "name": "ITNI",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-330",
+   "name": "NXO France",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-331",
+   "name": "SYNEXIE",
+   "country": "法国",
+   "chips": []
+  },
+  {
+   "code": "A-188",
+   "name": "A.G.informatica S.r.l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-332",
+   "name": "Adrianet Snc",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-189",
+   "name": "Agomir",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-190",
+   "name": "Asit SpA",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-333",
+   "name": "C.G.T. Elettronica SpA",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-334",
+   "name": "CAMELI SAT",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-191",
+   "name": "Coel Distribution srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-192",
+   "name": "COMPUTER TIME S.r.l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-193",
+   "name": "CONNECT ICS S.R.L.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-194",
+   "name": "CTC SYSTEMS SRL",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-335",
+   "name": "Dps Informatica S.n.c.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-195",
+   "name": "EMILIA INFORMATICA s.r.l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-336",
+   "name": "EULOGIC NT Spa",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-196",
+   "name": "Evergreen1 S.R.L",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-197",
+   "name": "FARPOINT SRL",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-198",
+   "name": "Fiore Srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-199",
+   "name": "GECOPRA SRL",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-309",
+   "name": "General Computer Italia S.p.A.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-200",
+   "name": "GIS s.r.l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-201",
+   "name": "Goretti Technological System S.r.l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-337",
+   "name": "I&SI S.p.A.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-202",
+   "name": "IFI Consulting Srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-338",
+   "name": "Irene",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-203",
+   "name": "JM CONSULTING SRL",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-204",
+   "name": "Localnet Firenze Srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-205",
+   "name": "Luca Masetto",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-339",
+   "name": "ML Software S. r. l.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-206",
+   "name": "N&C TELECOMUNICAZIONI S.p.a.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-207",
+   "name": "NA.EL Srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-340",
+   "name": "Net Engineering SpA",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-208",
+   "name": "Net System Innovazione srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-209",
+   "name": "NEWSOFT Technology SRL",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-210",
+   "name": "OMNICONNECT srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-211",
+   "name": "PAM UFFICIO Srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-212",
+   "name": "S.C.E Telecomunicazioni S.r.l",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-341",
+   "name": "Securcrea Snc",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-213",
+   "name": "Sfera Informatica & Strumentazione ",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-214",
+   "name": "SI.EL.CO. S.R.L.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-215",
+   "name": "SIM NT srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-216",
+   "name": "SOTECH srl",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-217",
+   "name": "SSC – Software Servizi Consulting S",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-218",
+   "name": "STL Connext – Società Telefonica Lo",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-219",
+   "name": "STORELINK S.R.L.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-342",
+   "name": "T.net S.p.A",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-343",
+   "name": "Techno Center S.p.A.",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-344",
+   "name": "World Technology di Luigi Boi",
+   "country": "意大利",
+   "chips": []
+  },
+  {
+   "code": "A-220",
+   "name": "Lineas y Cables S.A.",
+   "country": "西班牙",
+   "chips": []
+  },
+  {
+   "code": "A-345",
+   "name": "Avelution",
+   "country": "荷兰",
+   "chips": []
+  },
+  {
+   "code": "A-346",
+   "name": "Kappa Data Nederland",
+   "country": "荷兰",
+   "chips": []
+  },
+  {
+   "code": "A-221",
+   "name": "Pijl Solutions",
+   "country": "荷兰",
+   "chips": []
+  },
+  {
+   "code": "A-347",
+   "name": "Kappa Data Belgium",
+   "country": "比利时",
+   "chips": []
+  },
+  {
+   "code": "A-310",
+   "name": "IT-TRUST Network Solution",
+   "country": "奥地利",
+   "chips": []
+  },
+  {
+   "code": "A-222",
+   "name": "quattroSEC Gmbh",
+   "country": "奥地利",
+   "chips": []
+  },
+  {
+   "code": "A-223",
+   "name": "S.A.B.E.L. Handels GmbH",
+   "country": "奥地利",
+   "chips": []
+  },
+  {
+   "code": "A-224",
+   "name": "Salzgeber GmbH",
+   "country": "奥地利",
+   "chips": []
+  },
+  {
+   "code": "A-225",
+   "name": "DDS Netcom AG",
+   "country": "瑞士",
+   "chips": []
+  },
+  {
+   "code": "A-226",
+   "name": "FIVE Informatik AG",
+   "country": "瑞士",
+   "chips": []
+  },
+  {
+   "code": "A-227",
+   "name": "KNT Technology SP. Z O.O.",
+   "country": "波兰",
+   "chips": []
+  },
+  {
+   "code": "A-228",
+   "name": "Nomios Poland Sp. z o. o.",
+   "country": "波兰",
+   "chips": []
+  },
+  {
+   "code": "A-229",
+   "name": "Stovaris Sp. z o.o.",
+   "country": "波兰",
+   "chips": []
+  },
+  {
+   "code": "A-092",
+   "name": "Titan Security Group",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-093",
+   "name": "Watkins Security",
+   "country": "美国",
+   "chips": []
+  },
+  {
+   "code": "A-230",
+   "name": "4service s.r.o.",
+   "country": "捷克",
+   "chips": []
+  },
+  {
+   "code": "A-348",
+   "name": "nLogic",
+   "country": "挪威",
+   "chips": []
+  },
+  {
+   "code": "A-231",
+   "name": "Specto Remote AS",
+   "country": "挪威",
+   "chips": []
+  },
+  {
+   "code": "A-349",
+   "name": "C2F Copper2Fiber",
+   "country": "葡萄牙",
+   "chips": []
+  },
+  {
+   "code": "A-232",
+   "name": "Databox",
+   "country": "葡萄牙",
+   "chips": []
+  },
+  {
+   "code": "A-357",
+   "name": "Digital Sima S.A.",
+   "country": "希腊",
+   "chips": []
+  },
+  {
+   "code": "A-358",
+   "name": "LEXIS S.A.",
+   "country": "希腊",
+   "chips": []
+  },
+  {
+   "code": "A-233",
+   "name": "Young B.T.S. Ltd.",
+   "country": "匈牙利",
+   "chips": []
+  },
+  {
+   "code": "A-363",
+   "name": "SOS electronic",
+   "country": "斯洛伐克",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-263",
+   "name": "ATYS Co Controll Enginering",
+   "country": "匈牙利",
+   "chips": [
+    "Marvell",
+    "Microsemi"
+   ]
+  },
+  {
+   "code": "A-264",
+   "name": "Cogent Distribution",
+   "country": "英国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-253",
+   "name": "Noriak Distribution",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-254",
+   "name": "Connect Data",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-086",
+   "name": "EQUIPAGES",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-087",
+   "name": "PEDAB",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-265",
+   "name": "Sphinx Connect",
+   "country": "法国",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-081",
+   "name": "Profcon AB",
+   "country": "瑞典",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-255",
+   "name": "The Junction",
+   "country": "挪威",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-082",
+   "name": "Microstar sp. z o. o.",
+   "country": "波兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-256",
+   "name": "Timeless Technology",
+   "country": "芬兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-257",
+   "name": "DSSI",
+   "country": "葡萄牙",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-238",
+   "name": "Infinite Technology",
+   "country": "爱尔兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-088",
+   "name": "Electromaster Limited",
+   "country": "爱尔兰",
+   "chips": [
+    "Marvell"
+   ]
+  },
+  {
+   "code": "A-568",
+   "name": "Purdicom Limited",
+   "country": "英国",
+   "chips": [
+    "ARM",
+    "Broadcom",
+    "Intel",
+    "Marvell",
+    "Qualcomm",
+    "Realtek",
+    "自研"
+   ]
+  },
+  {
+   "code": "A-373",
+   "name": "Network Devices Inc.",
+   "country": "美国",
+   "chips": [
+    "Broadcom",
+    "Marvell",
+    "自研"
+   ]
+  }
+ ],
+ "Broadcom谱": [
+  {
+   "code": "A-497",
+   "name": "Proficomms",
+   "country": "捷克",
+   "chips": [
+    "Broadcom",
+    "自研"
+   ]
+  },
+  {
+   "code": "A-269",
+   "name": "Micro Technology Consultants",
+   "country": "美国",
+   "chips": [
+    "Broadcom"
+   ]
+  }
+ ],
+ "Qualcomm谱": [
+  {
+   "code": "A-354",
+   "name": "NTS Direct",
+   "country": "美国",
+   "chips": [
+    "Qualcomm"
+   ]
+  },
+  {
+   "code": "A-268",
+   "name": "5Gstore",
+   "country": "美国",
+   "chips": [
+    "Qualcomm"
+   ]
+  }
+ ],
+ "MediaTek谱": [],
+ "Realtek谱": [],
+ "无芯片信号": [
+  {
+   "code": "A-039",
+   "name": "Efa Automazione S.p.A.",
+   "country": "意大利"
+  },
+  {
+   "code": "A-046",
+   "name": "AiRiCOM",
+   "country": "法国"
+  },
+  {
+   "code": "A-047",
+   "name": "CSI S.A.",
+   "country": "波兰"
+  },
+  {
+   "code": "A-054",
+   "name": "Direktronik AB",
+   "country": "瑞典"
+  },
+  {
+   "code": "A-077",
+   "name": "J A Shomer Company",
+   "country": "美国"
+  },
+  {
+   "code": "A-055",
+   "name": "Sarlin Oy Ab",
+   "country": "芬兰"
+  },
+  {
+   "code": "A-056",
+   "name": "AA Jones Electric Ltd",
+   "country": "英国"
+  },
+  {
+   "code": "A-267",
+   "name": "IndustrialComms",
+   "country": "英国"
+  },
+  {
+   "code": "A-057",
+   "name": "System Devices UK Ltd",
+   "country": "英国"
+  },
+  {
+   "code": "A-058",
+   "name": "AGL Industrial Solutions",
+   "country": "葡萄牙"
+  },
+  {
+   "code": "A-450",
+   "name": "AXTEK line Kft.",
+   "country": "匈牙利"
+  },
+  {
+   "code": "A-453",
+   "name": "Controsys Control Engineering Ltd.",
+   "country": "匈牙利"
+  },
+  {
+   "code": "A-462",
+   "name": "Nokta Elektronik",
+   "country": "土耳其"
+  },
+  {
+   "code": "A-471",
+   "name": "Automation Experts",
+   "country": "希腊"
+  },
+  {
+   "code": "A-478",
+   "name": "ATEG Automation GmbH",
+   "country": "德国"
+  },
+  {
+   "code": "A-480",
+   "name": "Fiber24",
+   "country": "德国"
+  },
+  {
+   "code": "A-482",
+   "name": "Industrial Personal Computer 2U Gmb",
+   "country": "德国"
+  },
+  {
+   "code": "A-493",
+   "name": "SATEL NORGE AS",
+   "country": "挪威"
+  },
+  {
+   "code": "A-502",
+   "name": "Tesla Networks",
+   "country": "比利时"
+  },
+  {
+   "code": "A-503",
+   "name": "Alfa Systems",
+   "country": "比利时/卢森堡"
+  },
+  {
+   "code": "A-509",
+   "name": "Atel Electronics",
+   "country": "波兰"
+  },
+  {
+   "code": "A-524",
+   "name": "MPI Technologies AG",
+   "country": "瑞士"
+  },
+  {
+   "code": "A-541",
+   "name": "Mid Atlantic Rugged Systems",
+   "country": "美国"
+  },
+  {
+   "code": "A-546",
+   "name": "WAV, Inc.",
+   "country": "美国"
+  },
+  {
+   "code": "A-547",
+   "name": "iComTech, Inc.",
+   "country": "美国"
+  },
+  {
+   "code": "A-548",
+   "name": "Data Monitor",
+   "country": "芬兰"
+  },
+  {
+   "code": "A-553",
+   "name": "Switch SFP",
+   "country": "英国"
+  },
+  {
+   "code": "A-556",
+   "name": "Lextron B.V.",
+   "country": "荷兰"
+  },
+  {
+   "code": "A-381",
+   "name": "Ditecom",
+   "country": "西班牙"
+  },
+  {
+   "code": "A-566",
+   "name": "Leadernet Sistemas Telec",
+   "country": "西班牙"
+  },
+  {
+   "code": "A-350",
+   "name": "Landatel",
+   "country": "西班牙"
+  },
+  {
+   "code": "A-351",
+   "name": "meconet",
+   "country": "德国"
+  },
+  {
+   "code": "A-352",
+   "name": "MHz Shop",
+   "country": "法国"
+  },
+  {
+   "code": "A-353",
+   "name": "ELMAT",
+   "country": "意大利"
+  },
+  {
+   "code": "A-094",
+   "name": "VELOCIgroup ApS",
+   "country": "丹麦"
+  },
+  {
+   "code": "A-278",
+   "name": "Cayman Wireless",
+   "country": "美国"
+  },
+  {
+   "code": "A-280",
+   "name": "Invictus",
+   "country": "美国"
+  },
+  {
+   "code": "A-095",
+   "name": "Rowe Networks",
+   "country": "美国"
+  },
+  {
+   "code": "A-096",
+   "name": "Last Mile Gear",
+   "country": "美国"
+  },
+  {
+   "code": "A-282",
+   "name": "Berdin Grupo",
+   "country": "西班牙"
+  },
+  {
+   "code": "A-318",
+   "name": "DeInta",
+   "country": "西班牙"
+  },
+  {
+   "code": "A-319",
+   "name": "Nexus Technology",
+   "country": "西班牙"
+  }
+ ],
+ "工业锚": [
+  "A-007",
+  "A-031",
+  "A-039",
+  "A-044",
+  "A-046",
+  "A-081",
+  "A-082",
+  "A-086",
+  "A-087",
+  "A-088",
+  "A-225",
+  "A-229",
+  "A-238",
+  "A-253",
+  "A-254",
+  "A-255",
+  "A-256",
+  "A-257",
+  "A-263",
+  "A-264",
+  "A-265",
+  "A-267",
+  "A-270",
+  "A-277",
+  "A-282",
+  "A-313",
+  "A-325",
+  "A-338",
+  "A-363",
+  "A-452",
+  "A-487",
+  "A-512",
+  "A-513",
+  "A-541"
+ ]
+}

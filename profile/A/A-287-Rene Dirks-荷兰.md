@@ -1,0 +1,260 @@
+# Rene Dirks
+
+> **评级 A**　|　荷兰 · Tilburg　|　档案编号 `A-287`　|　优先级 ★★★　|　状态：未触达
+>
+> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+
+```yaml structured_profile
+code: A-287
+rating: A
+country: 荷兰
+biz_org: 公司/工作室（有官网）
+business_model: 工程/集成项目制
+decision_speed: moderate
+price_sensitivity: medium
+volume_potential: 3  # 1-5
+needs: {poe: true, industrial: false, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: false}
+p1: STC-424DGGPM-280W
+stage: 00-researched
+struct_version: v2  # v2 骨架
+updated: 2026-09-28
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
+- **商业模式**：工程/集成项目制
+- **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Gewoon IT 荷 Tilburg SMB MSP ≤50 工位（ZyXEL 线在墙，KVK 实锤）：随身 value 窄位（$165 锚点一致）；诚实角；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
+- **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
+- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Rene Dirks（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 荷兰 / Tilburg | 事实 |
+| 网站 | https://gewoon-it.nl | 事实 |
+| 类型 | 集成商/顾问（MikroTik 认证） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | MikroTik 认证顾问，持 MTCRE | 事实（名录/自报口径） |
+| 组织性质 | 公司/工作室（有官网） | 【推断】 |
+| 商业模式 | 工程/集成项目制 | 【推断】 |
+| 团队规模 | 有官网组织，规模未量化 | 【推断】 |
+| 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Gewoon IT（荷兰 Tilburg，2006）：SMB（最多 50 工位）ICT 一站式——Cloud(M365)/Connectiviteit（与 ITeeCo 合伙：光纤/VDSL/4G-5G)/Telefonie/**Server en netwerk**/Beveiliging/Werkplek；品牌=Proxmox/Bitdefender/Dell/M365/**ZyXEL**/3CX；CSV=Rene Dirks MikroTik 顾问
+- 【推断】SMB 代理服务+ZyXEL 交换在墙：网络板块明确——value 件随行窄位；KVK/BTw 实锤真营运
+- 【假设】其 SMB 客户网络件的 value 替换随行
+
+## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
+
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问，持 MTCRE）
+
+> 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
+
+## 需求与场景（推断标签）
+
+- **推断需求面**：PoE 接入供电、万兆上行/骨干
+  - PoE 接入供电：【推断】依据 CSV 信号/深挖
+  - 万兆上行/骨干：【推断】依据 CSV 信号/深挖
+
+## HR 与规模信号（招聘/团队/绿旗）
+
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+
+## 联系方式（已有/猜测分标）
+
+- **邮箱**：info@gewoon-it.nl
+  - 状态：既有/公开
+- **电话**：+31 135 470063
+- 来源等级：official-company（R41–R48 联系方式台账口径）
+- **原始联系字段**：info@gewoon-it.nl（官网结构化数据）；原入口：+31 135 470063；站点 gewoon-it.nl
+- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+
+## 关键人（KP）与触达通道
+
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+
+## 跟进步骤（最多 3 次 · 成功/退出标准）
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+
+### 第 1 次跟进 · 三供一体 24 口 PoE 第二来源一页
+
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **切入点**：荷/英一封：3CX 话机+AP+摄像头共网项目的 24 口 PoE 接入层第二来源（VLAN 预设即插即用，小批梯价）。
+- **要问的问题**：客户项目的接入层在 ZyXEL 之外有第二来源位吗？
+- **随附证明**：一页报价（荷/英）+ VLAN 预设示例。
+
+### 第 2 次跟进 · 备件小批
+
+- **推什么**：STI-280GE（Saga） 等小批
+- **切入点**：常备备件小批价卡（库房/车库宽温位）。
+- **要问的问题**：备件池走常备价吗？
+- **随附证明**：小批价卡一页。
+
+### 第 3 次跟进 · 价卡留档收口
+
+- **推什么**：—（价卡留档）
+- **切入点**：全品类价卡留档、不催单；无回复即冻结。
+- **要问的问题**：（无需回）价卡留档。
+- **随附证明**：全品类一页价卡。
+
+
+## R54 调研要点（加厚 · 全文见原始 JSON）
+
+> 调研日期 **2026-09-28**；原始记录：`batch/A类加厚_2026-09-28_R54_第15批.json`。以下为要点压缩，证据原文全部保留。
+
+- **业务定位**：蒂尔堡 SMB 全包商（≤50 工位客群）：客户网项目接入层真消耗；ZyXEL 锚牌=第二来源打法。
+- **产品线与在售品牌**：云/连接/VoIP（3CX)/服务器网络/安全/工位六线；MikroTik+ZyXEL 供应商墙。
+- **目标行业与场景**：布拉班特小微企业（50 工位内）。
+- **团队与规模**：小型服务商（owner 制）。
+- **决策链与对接人**：info@gewoon-it.nl（官网正文，CSV 9-27）。
+- **技术与认证**：MTCNA/MTCRE/MTCINE（LinkedIn，CSV 9-27 记录；缺 MTCSWE——即插即用话术）。
+- **采购与供应链信号**：客户项目的接入/无线/视频三供 PoE 接入层（3CX 话机+AP+摄像头共网）第二来源。
+- **近期动态与线索**：ITeeCo 连接线=接入项目常来。
+- **与我方契合点**：24 口 PoE 接入层（三供 VLAN 预设即用）+备件小批。
+- **风险与注意**：ZyXEL 锚牌不顶位；50 工位客群单量小，报价给清小批梯价。
+
+### R54 原文证据摘录（全部保留）
+
+- **【业务定位】**蒂尔堡 2006 年起的 SMB ICT 服务商：专为**最多 50 个工位**的企业做全包 ICT（Cloud/连接/电话/服务器网络/安全/工位管理六线），「Gewoon Nederlands」透明报价为卖点。
+  > Gewoon IT is in 2006 opgericht… hoogwaardige IT-oplossingen voor bedrijven met maximaal 50 werkplekken ‖ ontzorgen… in “Gewoon Nederlands”… duidelijke en transparante offertes
+  > 来源：https://www.gewoon-it.nl/
+- **【产品线与在售品牌】**供应商墙：Proxmox/Bitdefender/Interworx/**MikroTik（MT Black）**/Dell/M365/**ZyXEL**/3CX——ZyXEL 是其交换牌；连接线与 ITeeCo 合作（glasvezel/VDSL/4G/5G）。
+  > （供应商墙）proxmox · bitdefender · interworx · MT（MikroTik）· dell · microsoft 365 · ZyXEL · 3cx ‖ Samen met ITeeCo… glasvezel, VDSL en 4G/5G
+  > 来源：https://www.gewoon-it.nl/
+- **【决策链与对接人】**info@gewoon-it.nl 官网结构化数据+正文（CSV 9-27 official-company）；Rene Dirks 为 owner，持 MTCNA/MTCRE/MTCINE（2023，LinkedIn 口径）。
+  > Gewoon IT · Anke Servaeshof 13 · 5044 MJ Tilburg ‖ E-mail: info@gewoon-it.nl ‖ Telefoon: 013 5470063 · KvK 60294868
+  > 来源：https://www.gewoon-it.nl/
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第29批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：NL SMB MSP（官网一手核）
+- **②芯片/型号**：ZyXEL 线
+- **③KP 深挖**：info@
+- **④Saga 对标**：随身窄位（$165 锚点一致）
+- **⑤在乎与偏好**：Gewoon Nederlands 透明价
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**Server en netwerk…netwerken, WiFi, NAS-systemen——leveranciers: Proxmox/Bitdefender/Dell/ZyXEL/3CX；KVK 60294868
+  > Server en netwerk…netwerken, WiFi, NAS-systemen——leveranciers: Proxmox/Bitdefender/Dell/ZyXEL/3CX；KVK 60294868
+  > 来源：https://www.gewoon-it.nl
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：荷兰 SMB ICT 服务（2006）
+- **产品线与在售品牌**：ZyXEL 线在墙
+- **目标行业与场景**：≤50 工位 SMB
+- **团队与规模**：小型 MSP
+- **决策链与对接人**：info@ 口
+- **技术与认证**：KVK/BTW 公开
+- **采购与供应链信号**：随单件
+- **近期动态与线索**：—
+- **与我方契合点**：SMB 随身 value 件（ZyXEL 旁窄位）
+- **风险与注意**：小体量——低密窄位
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Gewoon IT 荷 Tilburg SMB MSP ≤50 工位（ZyXEL 线在墙，KVK 实锤）：随身 value 窄位（$165 锚点一致）；诚实角 |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
+- **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
+
+## SWOT
+
+- **S**：对口
+- **W**：小
+- **O**：随身
+- **T**：大牌
+
+## 触达与风险红线
+
+**通用红线（所有客户适用）**
+
+1. 包装、外观、说明书**全部中性**，不出现「Made in China」，贴客户自己的型号。
+2. **台厂不是客户**，只是信号源。
+3. PoE 功率与工业温宽是最容易当场翻车的两项，口头承诺必须落到实测数据。
+4. 大集团先问清采购层级（国别 vs 集团统一）。
+5. 样机先送测，再谈价格。
+
+**停止开发条件（命中任一即停）**：3 次定向触达无任何实质回复；确认现用平台完全满足需求；只愿比价不愿谈场景；决策者确认接触不到；对方书面拒绝。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（PoE/接入层池） | ✅ |
+| 决策人识别 | ❓ |
+| 触达通道 | ✅ 邮箱域已验 MX |
+| 现用交换品牌 | ❓ 未确认 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
+
+## Unknowns（待问清单 · 首触后逐项消除）
+
+- **深挖专属待问（R56）**：
+  - [ ] 现供
+  - [ ] Rene 角色
+
+- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
+- [ ] 典型站点端口数与供电预算
+- [ ] 上门/故障频次（订阅制客户的核心成本）
+- [ ] 采购决策人与付款口径
+
+## 首触邮件（英文样板 · 可直接发送）
+
+**主题**：PoE switching for your projects
+
+```text
+Hi Gewoon IT team,
+
+'ICT for companies with up to 50 workplaces' and 'Gewoon Nederlands' pricing transparency - under Server en netwerk you manage real LANs, with ZyXEL among your supplier logos.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a documented value unit for small-site networks where the quote has to stay honest.
+
+One question: when an SMB client needs a new switch, what do you supply today - and would a value PoE unit earn a spot beside it?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
+
+## 跟进记录
+
+| 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+
+## 下次复核
+
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
+- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
+
+---
+
+*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+---
+
+### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
+
+- **KP 领英直达**:[Rene Dirks](https://www.linkedin.com/in/rene-dirks)(既有证据链接,来源:档案/联络核验)
+- **中国进口与管制**:国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
+- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
+- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

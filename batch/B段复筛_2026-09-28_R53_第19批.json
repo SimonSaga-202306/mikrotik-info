@@ -1,0 +1,186 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第19批（罗马尼亚+美国行）。判据同前。",
+ "records": [
+  {
+   "code": "B-318",
+   "decision": "pending",
+   "site": "mikrotik.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛19】站点抓取失败（HTTP 500）→ 待重试；本轮维持B。",
+   "quote": "（抓取失败 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://mikrotik.ro/"
+    ]
+   ]
+  },
+  {
+   "code": "B-319",
+   "decision": "hold-B",
+   "site": "newvision.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：New Vision Computers & Communications（罗马尼亚）站点 **«This site is down for maintenance»**（维护中，仅登录框）→ 站点不可用，维持B（记录在案）。",
+   "quote": "NEW VISION Computers & Commmunicsations — This site is down for maintenance. Please check back again soon. Username / Password",
+   "sources": [
+    [
+     1,
+     "https://newvision.ro/"
+    ]
+   ]
+  },
+  {
+   "code": "B-320",
+   "decision": "hold-B",
+   "site": "telesystem.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：TELESYSTEM s.r.l.（罗马尼亚）自述 **«Importator si distribuitor oficial…pentru sisteme de securitate»**（安防系统官方进口/分销商，3500+ 产品，B2B 平台），品类为视频监控（Uniview/Hikvision/Asytech）、消防、入侵报警、对讲、门控、Smart Home、线材与工具，**网络（Retelistica：有源与无源数据/语音设备）仅为众多品类之一** → 安防宽线分销，维持B。",
+   "quote": "TELESYSTEM - Echipamente si accesorii pentru sisteme de securitate；TELESYSTEM este importator si distribuitor oficial pentru o gama variata de echipamente si accesorii pentru sisteme de securitate…；Portofoliu: Supraveghere video（Uniview UNV, Hikvision, Asytech）／Detectie incendiu／Detectie efractie／Interfoane／Automatizari（MOTORLINE）／Control acces／Solutii dedicate／Smart Home／**Retelistica（Echipamente active si pasive pentru retele de date si voce）**／Cabluri si accesorii／Scule si unelte；PLATFORMA integrata B2B；3500 de produse",
+   "sources": [
+    [
+     1,
+     "https://telesystem.ro/"
+    ]
+   ]
+  },
+  {
+   "code": "B-321",
+   "decision": "promote",
+   "site": "wifimag.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：Wifimag.ro（罗马尼亚，2007 年起）自述 **«Reseller autorizat pentru Ubiquiti și MikroTik»**（页面直链 ui.com distributors 与 mikrotik.com/buy），站内有 **Switch-uri 类目**：UniFi Switch 24（USW-24，1350 lei）、UniFi Switch Flex（USW-Flex，630 lei）、UniFi Switch Pro 8 PoE（USW-PRO-8-POE，1880 lei）、UniFi Switch Pro Max 16 机架件；另有 Routere、Module SFP、PoE、Wi-Fi、Antene，标榜真实库存与当日发运+技术咨询 → 交换机品类+网络专营分销 → 人工定级升A。",
+   "quote": "Wifimag.ro — echipamente de rețea și wireless, pe stoc, expediere rapidă；Reseller autorizat pentru Ubiquiti și MikroTik；Categorii: Wi-Fi／Routere／**Switch-uri**／Module SFP／Antene／Alimentatoare & PoE／Automatizări；Revenite în stoc: **UniFi Switch 24 (USW-24)** Switch layer 2 cu management, 24× Ethernet Gigabit, 2× 1G SFP — 1350.00 lei, Stoc: 1 buc／**UniFi Switch Flex (USW-Flex)** Switch PoE cu management, outdoor — 630.00 lei／**UniFi Switch Pro 8 PoE (USW-PRO-8-POE)** Switch PoE, Layer 3, 2× SFP+ 10G — 1880.00 lei；Router MikroTik hAP ax lite 220.00 lei",
+   "sources": [
+    [
+     1,
+     "https://wifimag.ro/"
+    ]
+   ]
+  },
+  {
+   "code": "B-322",
+   "decision": "promote",
+   "site": "4netonline.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：4Net Networking Corp.（美国）自述 **«Distributors for over 25 years! …distributors of computer network solutions»**，面向 ISP/WISP（broadband）、FTTH/FTTx、机房电源与控制柜、企业与垂直行业方案；数据 25+ 国家、50,000KM+ 光纤、5.7k+ 客户；品牌含 **MikroTik／Ubiquiti／Teltonika／TP-Link／Cambium／D-Link／Tenda／Vertiv／Xmart／AurCore**；在售 **MikroTik CRS309-1G-8S+IN** 交换机（另 CCR2116/CCR2004 路由、U7 Pro） → 交换机品类+网络分销 → 人工定级升A。",
+   "quote": "4Net Networking — Distributors for over 25 years! We are distributors of computer network solutions…for ISPs and WISPs (broadband), fiber optic networking (FTTH, FTTx), power and control cabinets, corporate networks…；25+ Countries Served／50,000KM+ Fiber Sold／5.7k+ Happy Customers；Brands: Xmart／v.sol／oZmap／Teltonika／Ubiquiti／Vertiv／TP-Link／Tenda／**MikroTik**／CAB／D-Link／Cambium／19 Labs／ALG／AurCore；Best sellers: U7 Pro／CCR2116-12G-4S+／CCR2004-16G-2S+／hAP ac²／airMAX Lite AP GPS／**CRS309-1G-8S+IN**",
+   "sources": [
+    [
+     1,
+     "https://www.4netonline.com/wpg/"
+    ]
+   ]
+  },
+  {
+   "code": "B-326",
+   "decision": "promote",
+   "site": "altanet-corp.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：AltaNet Corporation（美国迈阿密 FL，aeal@altanet-corp.com，+1 786 228 5758；亦为 Walmart 全球卖家）为 MikroTik/Tenda 网络设备网店，MikroTik 专类含 **«MIKROTIK CRS-24G-2S+RM»（CRS326-24G-2S+RM 交换机）** 与 hAP lite、LHG5、mANT Box、OMNITIK、SXT Lite 5，注明 «We have an extensive inventory of products, request an offer with the part number» → 交换机产品+MikroTik 专营小公司 → 人工定级升A。",
+   "quote": "AltaNet Corporation（7950 NW 53rd Street Suite 337, Miami, Florida 33166；aeal@altanet-corp.com；(786) 228 5758）；MIKROTIK — We have an extensive inventory of products, request an offer with the part number you are looking for：**MIKROTIK CRS-24G-2S+RM**（Get a Quote）／MIKROTIK HAP LITE／MIKROTIK LHG5／MIKROTIK MANT BOX／MIKROTIK OMNITIK／MIKROTIK SXT LITE 5",
+   "sources": [
+    [
+     1,
+     "https://altanet-corp.com/"
+    ],
+    [
+     2,
+     "https://altanet-corp.com/collections/mikrotik"
+    ]
+   ]
+  },
+  {
+   "code": "B-329",
+   "decision": "hold-B",
+   "site": "bibaonline.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：BIBAOnline（美国，自述 «An online IT computer services and retail store»）为**综合在线零售店**：耳机、线材/充电器、拉杆箱与女包、蓝牙音箱、开瓶器等，网络仅偶尔出现（TP-Link TL-SG108PE $69.99、TL-SG105E $24.99 在「New Arrivals」）→ 综合零售、网络为附带，维持B。",
+   "quote": "BIBAOnline - An online IT computer services and retail store；Shop For: New Arrivals!／Headphones／Cables, Phone Chargers, KVM Cables, Flash USBs；New Arrivals: TP-Link TL-SG108PE $69.99／TP-Link TL-SG105E $24.99／JYX L5 Portable Speaker／Cola Drink Can Openers；Luggage & Travel Bags: 4Pcs Women’s Tote Bag／MKF Collection Michaela Women Shoulder Bag…",
+   "sources": [
+    [
+     1,
+     "https://www.bibaonline.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-330",
+   "decision": "promote",
+   "site": "balticnetworks.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：Baltic Networks（美国）自述 **«MikroTik & Ubiquiti Network Equipment»**，站内一级类目含 **Switches**（/collections/switches）；在售 **MikroTik CRS520-4XS-16XQ-RM 100G 交换机（16×QSFP28+4×SFP28，$1,975，In Stock 16）**、**CRS518-16XS-2XQ-RM 100Gbps（$1,450，In Stock 8）**，另 MikroTik 全线（CCR2216-1G-12XS-2XQ、ROSE RDS2216）；「MikroTik In Stock and Shipping」 → 交换机品类+MikroTik/Ubiquiti 专营 → 人工定级升A。",
+   "quote": "MikroTik & Ubiquiti Network Equipment | Baltic Networks；MikroTik In Stock and Shipping — Routers, **switches**, wireless, LTE, IoT and more gear just landed；Categories: Routers／**Switches**／Indoor Wireless／Outdoor Wireless／Cables & Accessories／Fiber／LTE & IOT／Enclosures & Hardware／Licensed Links；Featured: MikroTik **CRS520-4XS-16XQ-RM 100G Switch**（16x QSFP28, 4x 25G SFP28）$1,975 In Stock-16／MikroTik **CRS518-16XS-2XQ-RM 100Gbps Switch** $1,450 In Stock-8／CCR2216-1G-12XS-2XQ $2,495 In Stock-46",
+   "sources": [
+    [
+     1,
+     "https://www.balticnetworks.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-334",
+   "decision": "promote",
+   "site": "bizsyscon.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：Business Systems Connection（BSC，美国，\"Deliver Intelligent Networks\"）为网络方案的 Shopify 商城 + 自研 **Lysora** 品牌（宣传 AI BOM／AI Designer／AI Diagnostics）；类目含 Indoor/Outdoor Wireless Radios、UniFi Video Surveillance、UniFi Access；**站内检索 \"switch\" 命中 706 条**，快速标签含 UniFi／Pro-Max／**Industrial Ethernet** → 交换机品类+网络专营 → 人工定级升A。",
+   "quote": "BSC — Deliver Intelligent Networks；AI BOM／AI Designer／AI Diagnostics；Shop now（Lysora）／Product & Solution Guide（Lysora Leaflet 2026.pdf）；Collections: Indoor Wireless Radios／Outdoor Wireless Radios／Video Surveillance／Access Control；Search: **706 results found for \"switch\"**；Quick search tags: Ubiquiti／UniFi／**Pro-Max**／**Industrial Ethernet**",
+   "sources": [
+    [
+     1,
+     "https://bizsyscon.com/"
+    ],
+    [
+     2,
+     "https://bizsyscon.com/search?q=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-337",
+   "decision": "promote",
+   "site": "cticonnect.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：CTIconnect, LLC（美国，sales@cticonnect.com，561-295-7899）自述 **«We have become a leading distributor of networking solutions…»**；类目含 Radios／Antennas／Cable Solutions／Fiber／**Networking Hardware**／Power Systems／Tower & Infrastructure Hardware；提供 Custom Network Design、Bulk & Enterprise Solutions 与企业级报价，代理 Tarana／Eltek／Cambium 等 → 网络硬件分销（含 Networking Hardware 类目）→ 人工定级升A。",
+   "quote": "CTIconnect, LLC | Wireless Connectivity Solutions & Services；Shop By Category: All Categories／Radios／Antennas／Cable Solutions／Fiber／**Networking Hardware**／Power Systems／Tower & Infrastructure Hardware；Shop By Brands；We have become a leading distributor of networking solutions by being much more than a distributor…；Our Services: Custom Network Design & Consulting／Product Installation & Setup／Technical Support & Troubleshooting／Tower & Infrastructure Solutions／**Bulk & Enterprise Solutions — Special pricing and logistics support for large-scale projects**；sales@cticonnect.com，561-295-7899",
+   "sources": [
+    [
+     1,
+     "https://www.cticonnect.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-340",
+   "decision": "hold-B",
+   "site": "controllerservice.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：Controller Service and Sales（美国）自述 **«Motor Control Power Distribution and Safety Products»**（电机控制/配电/安全），特色类目含 **Industrial Ethernet Switches（dept-1R2）** 与 Moxa 工业网络连接线；但公司专营为工业控制与配电（ABB/Eaton/Schmersal/Socomec/Altech 等），**网络为相邻品类** → 维持B（另注：R49 曾记录其站点 500，本轮已恢复可访问）。",
+   "quote": "Motor Control Power Distribution and Safety Products - Controller Service；Featured Categories: Fuses／Power Supplies／**Industrial Ethernet Switches**／Disconnect Switches／Motor Control／Wire Management／Industrial Serial and Ethernet Edge Connectivity／Breakers／Industrial Computing／PLC and I/O／Enclosures／HMI；Featured Brands: ABB／Eaton／HPS／Mersen／Schmersal／Sprecher + Schuh／**Moxa**（Industrial Networking and Connectivity Solutions）；Control Panel Fabrication／Field Services",
+   "sources": [
+    [
+     1,
+     "https://www.controllerservice.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-342",
+   "decision": "promote",
+   "site": "digicomm.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛19】官网核对：Digicomm International（美国科罗拉多 Englewood，sales@digicomm.com，303-799-3444）自述 **«FTTx, Fixed Wireless, & HFC Supplier»**，与 **MikroTik 合作**（MikroTik Newsletter、Featured Products），MikroTik 专页设 **«Switches» 类目（/project/mikrotik-switches/）** 与 Ethernet Routers、Power Supplies、Wireless Systems、Accessories；另有 CommScope/Positron/Cisco 节点与 EXFO 测试仪（宽带接入网络供应） → 交换机品类+MikroTik 网络分销 → 人工定级升A。",
+   "quote": "Digicomm International | FTTx, Fixed Wireless, & HFC Supplier；Digicomm partners with MikroTik to deliver powerful, scalable networking solutions…；Featured Products（MikroTik）：Ethernet Routers／MikroTik Accessories／Power Supplies／**Switches**（/project/mikrotik-switches/）／Wireless Systems；View the MikroTik Newsletter；1 Digicomm Drive, Englewood, CO 80112；(303) 799-3444；sales@digicomm.com；Exclusive Distribution Partner: Gilbert Hardline Connectors／Quantum 1.8 HGD and HGBT",
+   "sources": [
+    [
+     1,
+     "https://digicomm.com/"
+    ],
+    [
+     2,
+     "https://digicomm.com/mikrotik/"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "batch": 20,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-091",
+   "fact": "Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训",
+   "inference": "匈牙利语官方培训中心=教具真实台位；全课程谱意味着 MTCSWE 段有交换教具需求",
+   "hypothesis": "小企业内训全国跑=便携教具箱诉求",
+   "evidence_main": "https://mikrotikgyor.hu/",
+   "tech": "官方 Training Center 全课程+NetBasic 预备",
+   "hr": "Gyenese 讲师+DigiSoftNet 实体",
+   "contact_found": "+36 20 9937980（CSV）；官方 contact 页无邮箱（CSV 注）；双域 MX=mail.mikrotikgyor.hu/mail.digisoftnet.hu 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无公开邮箱——首通走电话；师者红线",
+   "dims": {
+    "业务定位": "匈牙利官方 MikroTik 培训中心（杰尔/布达佩斯）",
+    "产品线与在售品牌": "MikroTik 全课程+NetBasic",
+    "目标行业与场景": "专业工程师+家庭管理员+企业内训",
+    "团队与规模": "讲师个体+培训中心牌",
+    "决策链与对接人": "Gyenese 本人",
+    "技术与认证": "官方 Training Center",
+    "采购与供应链信号": "教具台位",
+    "近期动态与线索": "站常态化运行",
+    "与我方契合点": "交换教具诚实比较样本",
+    "风险与注意": "师者红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“DigiSoftNet, mint hivatalos MikroTik Training Center…Képzési palettám lefedi a gyártó teljes képzési ajánlatát…NetBasic kurzus”",
+     "source": "https://mikrotikgyor.hu/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "双域 MX 存活（mail.mikrotikgyor.hu / mail.digisoftnet.hu）（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://mikrotikgyor.hu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话破冰",
+     "push": "—",
+     "angle": "确认邮箱+教具现况",
+     "question": "邮箱通讯口+交换教具现用？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 教具样本",
+     "push": "STC-28DGGPM",
+     "angle": "其交换课诚实比较样本",
+     "question": "愿收样本？",
+     "proof": "特性页"
+    },
+    {
+     "stage": "第 3 次跟进 · 内训便携箱",
+     "push": "便携实验架",
+     "angle": "其全国内训箱包",
+     "question": "内训箱单？",
+     "proof": "箱价"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "杰尔官方培训中心全课程谱；NetBasic 预备设计专业",
+     "②芯片/型号": "MikroTik 教具",
+     "③KP 深挖": "Gyenese；双域邮存活",
+     "④Saga 对标": "诚实地教样本（红线）",
+     "⑤在乎与偏好": "教学真实",
+     "⑥SWOT": "S 官方牌 / W 个体带宽 / O 教具+内训箱 / T 官配"
+    },
+    "care": [
+     "诚实口径"
+    ],
+    "swot": {
+     "S": "官方",
+     "W": "带宽",
+     "O": "双轨",
+     "T": "官配"
+    },
+    "uncertain": {
+     "产品线核实": "教具未公开",
+     "合作方式": "未谈",
+     "缺口证据": "无公开邮箱"
+    },
+    "gap_proof": "邮箱缺载"
+   },
+   "unknowns": [
+    "教具箱现况",
+    "邮箱入口",
+    "评测意愿"
+   ],
+   "email": "Hi Laszlo,\n\nDigiSoftNet as an official MikroTik Training Center with a full course palette - including a NetBasic primer - shows you teach the whole road, not fragments.\n\nWe build a compact 8-port managed PoE switch that could serve as an honestly labeled second-vendor sample in your switching labs (STP/VLAN/watchdog). Reference: $99 USD EXW.\n\nOne question: which switch hardware do your students work on in the switching modules today?\n\nIf useful, I can send a bench unit - plainly labeled, no strings, no teacher-games. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Which switch hardware do your students work on in the switching modules today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "匈牙利|官方培训中心|教具样本|师者红线",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-092",
+   "fact": "Titan Security Group / Marksman Security Corporation（美国）：安保服务巨头合并案（boutique national footprint）——安保服务+礼宾/前台+**Titan Electronics 电子安防线**+咨询培训；CSV：Allied Telesis（Marvell Prestera 接入层）在册",
+   "inference": "Titan Electronics=楼宇监控/门禁工程线=摄像头柜 PoE 惯件",
+   "hypothesis": "全国性大客户楼宇=翻修滚动量",
+   "evidence_main": "https://marksman-titan.com/",
+   "tech": "安保全案+电子线（Titan Electronics）；Allied Telesis",
+   "hr": "全国化安保集团",
+   "contact_found": "info@titan-security.com（CSV 经 marksman-titan.com 取得）；两域 MX=Google 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "合并叙事两牌并用，以信息面为准",
+   "dims": {
+    "业务定位": "美国全国性安保集团（合并后生）",
+    "产品线与在售品牌": "安保/礼宾/电子线+Allied Telesis",
+    "目标行业与场景": "商业楼宇/场馆",
+    "团队与规模": "全国性",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "工程整合",
+    "采购与供应链信号": "全国项目随单",
+    "近期动态与线索": "Titan+Marksman 合并公告",
+    "与我方契合点": "Titan Electronics 监控柜 PoE",
+    "风险与注意": "大集团采购流程"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Titan Security Group and Marksman Security Corporation Announce Strategic Merger…boutique security services provider with a national footprint…Titan Electronics”",
+     "source": "https://marksman-titan.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "info@titan-security.com；双域 MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://marksman-titan.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电子线一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其监控柜 24 口 PoE value 档",
+     "question": "单项目摄像点位？",
+     "proof": "PoE 预算页"
+    },
+    {
+     "stage": "第 2 次跟进 · 与 Allied 并架",
+     "push": "对照矩阵",
+     "angle": "错位不对标",
+     "question": "value 档空档？",
+     "proof": "矩阵"
+    },
+    {
+     "stage": "第 3 次跟进 · 全国滚动",
+     "push": "区域阶梯",
+     "angle": "其全国翻修",
+     "question": "区域采购结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "安保两大合并全国化；电子线在册",
+     "②芯片/型号": "Allied Telesis",
+     "③KP 深挖": "info@集团口",
+     "④Saga 对标": "监控柜 value PoE",
+     "⑤在乎与偏好": "集团流程表面档",
+     "⑥SWOT": "S 全国 / W 流程 / O 电子线 / T 在位盘"
+    },
+    "care": [
+     "集团流程文档"
+    ],
+    "swot": {
+     "S": "全国",
+     "W": "流程",
+     "O": "电子线",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "电子线 SKU 未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "Electronics 线规模",
+    "项目点密度",
+    "采购结构"
+   ],
+   "email": "Hi Titan team,\n\nA merged national security group with an electronics line means one thing operationally - a lot of camera closets that have to power up and stay up.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, Voice VLAN) as a value-tier complement for the Titan Electronics shelf. Reference: $165 USD EXW.\n\nOne question: in a typical commercial building build, how many cameras land on one access cabinet for your team?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In a typical commercial building build, how many cameras land on one access cabinet?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|安保集团|电子线|监控柜",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-093",
+   "fact": "Watkins Security LLC（美国）：60+ 年经验安防工程——AI 视频监控/IP 视频/火警/门禁/网络+IT 方案全链；过往客户墙：**美国国土安全部（DHS）**、美网公开赛、G20 匹兹堡、Vail（公私混，含联邦机构红线）；1000 客户/200 万+安装件/3 国；开放式架构集成（POS/入侵/考勤/群发通知皆可互联）；CSV：Allied Telesis 在册",
+   "inference": "赛事/会场级高清监控=密度摄像柜 PoE 惯件；联邦线不碰",
+   "hypothesis": "Vail/美网类场地项目是其私营合规主巷",
+   "evidence_main": "https://www.watkins-security.com/",
+   "tech": "AI 监控/IP 视频/门禁/火警/网络+IT 全链",
+   "hr": "60 年战绩（1000 客户/2M+ 件）",
+   "contact_found": "info@watkins-security.com（官网 contact 页；Principal/C 级列名，CSV）；MX=ppe-hosted 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "DHS 联邦过往=红线不涉；只谈其私营/场地段（Vail/美网类）",
+   "dims": {
+    "业务定位": "美国 60 年安防工程商（AI 监控+IT 全链）",
+    "产品线与在售品牌": "开源架构集成+Allied Telesis 等",
+    "目标行业与场景": "赛事场馆/度假村/商业（联邦段不触）",
+    "团队与规模": "跨 3 国",
+    "决策链与对接人": "Principal（CSV 具名）info@",
+    "技术与认证": "开放式架构集成",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "AI 监控主打",
+    "与我方契合点": "高密度摄像柜 PoE 合作",
+    "风险与注意": "联邦红线+私营段合规"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“AI-Powered Surveillance…IP Video Surveillance, Fire Detection, Access Control, Networking, and IT Solutions”",
+     "source": "https://www.watkins-security.com/"
+    },
+    {
+     "dim": "风险与注意",
+     "quote": "Past Clients：US Department of Homeland Security（联邦红线不涉）/US Open/G20 Pittsburgh/Vail",
+     "source": "https://www.watkins-security.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 场馆一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其场地高密摄像柜",
+     "question": "场馆单柜点位密度？",
+     "proof": "PoE 预算页"
+    },
+    {
+     "stage": "第 2 次跟进 · 开放架构集成",
+     "push": "SNMP/管理对接",
+     "angle": "其开放式架构契合",
+     "question": "平台接入协议？",
+     "proof": "文档"
+    },
+    {
+     "stage": "第 3 次跟进 · 私营段样机",
+     "push": "样机+报告",
+     "angle": "场地私营段评测",
+     "question": "评测窗？",
+     "proof": "报告"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "60 年安防+IT 全链；联邦/赛事/度假村混合；DHS 红线",
+     "②芯片/型号": "Allied Telesis",
+     "③KP 深挖": "Principal info@",
+     "④Saga 对标": "高密摄像柜 PoE（私营段）",
+     "⑤在乎与偏好": "集成能力",
+     "⑥SWOT": "S 老战绩 / W 联邦红线 / O 私营场地 / T 在位大牌"
+    },
+    "care": [
+     "集成文档"
+    ],
+    "swot": {
+     "S": "战绩",
+     "W": "红线",
+     "O": "场地",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "在售交换 SKU 未核",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "私营段占比",
+    "交换现供",
+    "评测窗"
+   ],
+   "email": "Hi Watkins team,\n\nFrom the US Open to Vail resorts - venues of that density tell camera-closet stories most integrators never see.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, Voice VLAN) for exactly those closets, at a value price point. Reference: $165 USD EXW. (To be explicit: we work strictly in the private commercial segment and do not pitch into federal engagements.)\n\nOne question: at a venue-scale deployment, how many cameras land on one access switch for you?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "At a venue-scale deployment, how many cameras land on one access switch for you?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|安防老战绩|场馆高密|联邦红线",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-094",
+   "fact": "VELOCIgroup ApS（丹麦）：CSV 载 Netonix 授权渠道（WISP 接入层交换机）；⚠️官网未找到（搜索都是墨西哥自行车牌干扰）；电话 +45 8891 7070",
+   "inference": "Netonix 与我方接入交换机正面重叠——按 Round-28“Netonix out”纪律：建档照做（R55 全 A 建档性深挖要求），但**触达不打产品推销**，仅建档与关系维护",
+   "hypothesis": "如后续用户明确净尼基方向放开，再激活商务计划；当前如实建档",
+   "evidence_main": "（CSV 名录口径；无官网命中）",
+   "tech": "Netonix WISP 接入层交换（与我方正面重叠）",
+   "hr": "丹麦实体",
+   "contact_found": "+45 8891 7070（CSV）；无官网、无邮箱核到",
+   "contact_pending": "Round-28 Netonix-out 纪律：建档留存不推品；等用户明示再谋",
+   "dims": {
+    "业务定位": "丹麦 Netonix 授权渠道（跟我方正面重叠品）",
+    "产品线与在售品牌": "Netonix WISP 交换机",
+    "目标行业与场景": "WISP 接入层",
+    "团队与规模": "未公开",
+    "决策链与对接人": "电话口",
+    "技术与认证": "未公开",
+    "采购与供应链信号": "与 Netonix 绑定",
+    "近期动态与线索": "官网不可见",
+    "与我方契合点": "重叠品段——建档不推",
+    "风险与注意": "Netonix-out 纪律"
+   },
+   "evidence": [
+    {
+     "dim": "产品线",
+     "quote": "CSV：Netonix 授权渠道（WISP 接入层交换机）",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "电话 +45 8891 7070（CSV 名录既有）；官网未找到",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "不打产品推销",
+     "angle": "Round-28 Netonix-out；待用户明示放开",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "丹麦 Netonix 渠道；与 Netonix-out 纪律对冲→建档不推",
+     "②芯片/型号": "Netonix",
+     "③KP 深挖": "电话口在无邮箱",
+     "④Saga 对标": "—",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "建档观察"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "—",
+     "O": "—",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "仅 CSV 信号",
+     "合作方式": "纪律冻结",
+     "缺口证据": "无官网"
+    },
+    "gap_proof": "官网缺失"
+   },
+   "unknowns": [
+    "经营状态",
+    "口径放开"
+   ],
+   "email": "（不出信——Round-28 Netonix-out 纪律。动作：建档观察+电话核验经营状态；用户明示后重排商务计划。）",
+   "question": "—",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "丹麦|Netonix渠道|纪律建档不推",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-095",
+   "fact": "Rowe Networks（美国）：CSV 载 Netonix 授权渠道（WISP 接入层交换机）；rowewireless.com 仅表单**无邮箱**；电话 1-614-410-3535",
+   "inference": "Netonix 重叠同上：建档照做+Netonix-out 纪律不推品",
+   "hypothesis": "同 A-094 等待用户口径",
+   "evidence_main": "https://rowewireless.com/（表单页）",
+   "tech": "Netonix WISP 交换机（CSV）",
+   "hr": "美国实体",
+   "contact_found": "1-614-410-3535（CSV）；无邮箱（站仅表单）；域 MX=hg.rowewireless.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Netonix-out 纪律：建档不推",
+   "dims": {
+    "业务定位": "美国 Netonix 授权渠道",
+    "产品线与在售品牌": "Netonix WISP 交换机",
+    "目标行业与场景": "WISP 接入",
+    "团队与规模": "未公开",
+    "决策链与对接人": "表单/电话",
+    "技术与认证": "未公开",
+    "采购与供应链信号": "Netonix 绑定",
+    "近期动态与线索": "站为表单直连",
+    "与我方契合点": "重叠品段——建档不推",
+    "风险与注意": "Netonix-out 纪律"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式",
+     "quote": "rowewireless.com 仅表单；MX=hg.rowewireless.com 存活（域收发通道在）（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://rowewireless.com/"
+    },
+    {
+     "dim": "产品线",
+     "quote": "CSV：Netonix 授权渠道",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "不打产品推销",
+     "angle": "Round-28 Netonix-out；待用户明示",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "美 Netonix 渠道；纪律建档",
+     "②芯片/型号": "Netonix",
+     "③KP 深挖": "表单/电话",
+     "④Saga 对标": "—",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "建档观察"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "—",
+     "O": "—",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "仅 CSV 信号",
+     "合作方式": "纪律冻结",
+     "缺口证据": "表单页"
+    },
+    "gap_proof": "无邮箱"
+   },
+   "unknowns": [
+    "经营状态",
+    "口径放开"
+   ],
+   "email": "（不出信——Round-28 Netonix-out 纪律。域邮件通道在但无公开入口；动作：建档观察。）",
+   "question": "—",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "美国|Netonix渠道|纪律建档不推",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-096",
+   "fact": "Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）",
+   "inference": "LMG 疑并入 WAV 集团：sales@lastmilegear.com 邮箱仍活（MX 同 WAV 设施），邮件大概率有 WAV 团队接收——但 Netonix-out 纪律优先",
+   "hypothesis": "WAV 庞大的 WISP 客群是反向观察样本；用户口径放开后其价值相当于“WAV 的入口”",
+   "evidence_main": "https://www.wavonline.com/（lastmilegear.com 重定向落地）",
+   "tech": "接 Netonix（LMG 信号）；落地为 WAV 全谱 WISP/ISP 分销",
+   "hr": "集团化分销（1 万客户）",
+   "contact_found": "sales@lastmilegear.com（CSV）；MX=mx1/mx2-us1.ppe-hosted.com（与 wavonline.com 同设施，并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "Round-28 Netonix-out 纪律：建档不推；并入 WAV 的信息如实标注供后续研判",
+   "dims": {
+    "业务定位": "LMG：Netonix 渠道→已并入 WAV 集团（疑似）",
+    "产品线与在售品牌": "Netonix（历史）+WAV 全谱",
+    "目标行业与场景": "WISP/ISP/MSP",
+    "团队与规模": "集团规模",
+    "决策链与对接人": "sales@lastmilegear.com（箱仍在）",
+    "技术与认证": "—",
+    "采购与供应链信号": "集团级",
+    "近期动态与线索": "域名 301 至 WAV+邮箱基础设施同群",
+    "与我方契合点": "纪律建档（潜在 WAV 入口价值）",
+    "风险与注意": "Netonix-out 纪律"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "lastmilegear.com → wavonline.com（301）；WAV：$25M+ on-hand inventory / 70,000+ SKUs / 10,000+ customers",
+     "source": "https://www.wavonline.com/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "sales@lastmilegear.com；两域 MX 同为 mx1-us1.ppe-hosted.com（并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://www.lastmilegear.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "纪律说明",
+     "push": "不打产品推销",
+     "angle": "Round-28 Netonix-out；WAV 入口价值留档待口径",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "—",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "LMG→疑似并入 WAV；两域邮件设施同群",
+     "②芯片/型号": "Netonix 历史/WAV 全谱",
+     "③KP 深挖": "sales@ 箱仍在",
+     "④Saga 对标": "—",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "建档观察（WAV 入口价值）"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "—",
+     "O": "WAV 入口",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "并入证据链：301+同 MX 设施",
+     "合作方式": "纪律冻结",
+     "缺口证据": "—"
+    },
+    "gap_proof": "301+同设施双信号"
+   },
+   "unknowns": [
+    "并入正式口径",
+    "口径放开后路径"
+   ],
+   "email": "（不出信——Round-28 Netonix-out 纪律。备注：若放开，WAV 作为 1 万客户的 WISP 大分销，其 value PoE 档位空缺值得以集团名义进函。）",
+   "question": "—",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "美国|Netonix渠道|并入WAV信号|纪律建档",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-097",
+   "fact": "Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）",
+   "inference": "AltNet 运营商=街柜/MDU/POP 接入小盒与机房接入层是其自运营资产",
+   "hypothesis": "其 4 张交换/骨干/安全证（MTCSE+MTCINE+MTCTCE）=其公司网络底程以 MikroTik 为骨架，接入层小盒有对话空间",
+   "evidence_main": "https://internetty.uk/",
+   "tech": "全光纤宽带运营+VoIP；OFNL 生态",
+   "hr": "小型 AltNet 创始口径（100+ 五星评价）",
+   "contact_found": "+44 3331 020000（CSV 注：域名 internetty.uk 无公开邮箱——RocketReach 截断）；站内有 billing/knowledgebase 体系；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无公开个人邮箱——首通走公司热线/账表；按“Benjamin 是网络负责人假设”衔接",
+   "dims": {
+    "业务定位": "英国全光纤 AltNet（家庭/企业/VoIP）",
+    "产品线与在售品牌": "全光纤宽带+digital landline",
+    "目标行业与场景": "英国家庭/中小企业宽带",
+    "团队与规模": "小型 AltNet",
+    "决策链与对接人": "Benjamin Wragg（网传 4 证）",
+    "技术与认证": "MTCRE+MTCTCE+MTCINE+MTCSE",
+    "采购与供应链信号": "自运营网络接入层",
+    "近期动态与线索": "Trustpilot 100+ 五星常态增长",
+    "与我方契合点": "POP/街柜接入小盒",
+    "风险与注意": "无公开邮箱走热线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Hyperfast Full Fibre Broadband from £20 per month…parented by OFNL Fibre Broadband reviews, VoIP digital landline”",
+     "source": "https://internetty.uk/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "+44 3331 020000；MX=O365 存活（internetty-uk.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://internetty.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 热线破冰",
+     "push": "STC-28DGGPM",
+     "angle": "其街柜/POP 接入小盒",
+     "question": "POP/街柜接入现用？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · MDU 户型",
+     "push": "STC-424DGGPM-280W",
+     "angle": "多户型楼内接入柜",
+     "question": "MDU 部署接入位？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "样机包",
+     "angle": "网络负责人评测",
+     "question": "评测窗？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "AltNet 实体+4 证高阶 KP（骨干/安全向）",
+     "②芯片/型号": "MikroTik 底架（证侧）",
+     "③KP 深挖": "Wragg；域 O365",
+     "④Saga 对标": "POP/街柜小盒",
+     "⑤在乎与偏好": "客户口碑驱动",
+     "⑥SWOT": "S 评价口碑 / W 小体/邮箱缺 / O 自运营接入 / T 大厂批扣"
+    },
+    "care": [
+     "评价文件"
+    ],
+    "swot": {
+     "S": "口碑",
+     "W": "小体",
+     "O": "接入",
+     "T": "批扣"
+    },
+    "uncertain": {
+     "产品线核实": "现用交换未公开",
+     "合作方式": "未谈",
+     "缺口证据": "无公开邮箱"
+    },
+    "gap_proof": "邮箱缺失"
+   },
+   "unknowns": [
+    "POP/街柜规格",
+    "接入现用",
+    "评测窗"
+   ],
+   "email": "Hi Benjamin,\n\nInternetTY runs a purpose-built full-fibre network with a Trustpilot record most ISPs would kill for - and your name shows up as the network brains right where the street cabinets live.\n\nWe build a compact 8-port managed PoE switch with a hardware watchdog, sized exactly for POP and street-cabinet access. Reference: $99 USD EXW.\n\nOne question: what switch hardware sits in your POP cabinets today?\n\nIf useful, I can send one evaluation unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "What switch hardware sits in your POP cabinets today?",
+   "alt2": "STC-424DGGPM-280W",
+   "alt3": "STI-288GP",
+   "tag": "英国|AltNet|POP小盒|高口碑",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-098",
+   "fact": "Brian Vargyas（美国）：MTCNA 单证顾问；无官网（CSV：LinkedIn 链接截断）；电话 630-929-3610 / 888-929-3610",
+   "inference": "LinkedIn 单渠道个人顾问；电话/LinkedIn 破冰",
+   "hypothesis": "初入行或副业向；轻触达即可",
+   "evidence_main": "（CSV 名录口径）",
+   "tech": "MTCNA",
+   "hr": "个人",
+   "contact_found": "630-929-3610 / 888-929-3610（CSV）；LinkedIn（截断）",
+   "contact_pending": "仅 LinkedIn+电话；薄档如实",
+   "dims": {
+    "业务定位": "美国个人顾问（LinkedIn 单渠道）",
+    "产品线与在售品牌": "未公开",
+    "目标行业与场景": "未公开",
+    "团队与规模": "个人",
+    "决策链与对接人": "Vargyas 本人",
+    "技术与认证": "MTCNA",
+    "采购与供应链信号": "未知",
+    "近期动态与线索": "无",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "技术与认证",
+     "quote": "CSV：Brian Vargyas MTCNA（美国）",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "电话 630-986-xxxx 段既有（CSV 名录）；LinkedIn 链接截断",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · LinkedIn/电话破冰",
+     "push": "—",
+     "angle": "确认执业",
+     "question": "项目方向？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 特性表",
+     "push": "L2+ 表",
+     "angle": "证书对口",
+     "question": "接入层空档？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-28DGGPM",
+     "angle": "个人评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "MTCNA 单证；LinkedIn 单渠道",
+     "②芯片/型号": "未知",
+     "③KP 深挖": "本人电话",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 在册 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "在册",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "无",
+     "合作方式": "未知",
+     "缺口证据": "无站/无邮箱"
+    },
+    "gap_proof": "仅以 LinkedIn/电话"
+   },
+   "unknowns": [
+    "执业状态",
+    "方向",
+    "评测意愿"
+   ],
+   "email": "Hi Brian,\n\nI found you on the MikroTik consultant list.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since no public site could be found.\n\nOne question: are you currently taking projects where the switching layer is open for alternatives?\n\nIf yes, I can share the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Are you currently taking projects where the switching layer is open for alternatives?",
+   "alt2": "STC-28DGGPM",
+   "alt3": "STC-424DGGPM-280W",
+   "tag": "美国|MTCNA个人|LinkedIn破冰",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-099",
+   "fact": "MSI Works Ltd（英国）：CSV 载 Allied Telesis（Marvell Prestera 接入层）信号；msi-works.com 为 **Wix 纯表单站（无邮箱公开）**；电话 +44 7584 631601（手机口径）",
+   "inference": "小而活的集成/工程体；Allied 信号=企业网向",
+   "hypothesis": "表单+手机小体=电话直入最快",
+   "evidence_main": "（CSV 名录口径+站形态）",
+   "tech": "Allied Telesis（CSV）",
+   "hr": "小型",
+   "contact_found": "+44 7584 631601（CSV）；无公开邮箱（Wix 表单站）；域 MX=O365/ppe-hosted 双活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无邮箱→手机直入；薄档如实",
+   "dims": {
+    "业务定位": "英国小型工程体（Allied 信号）",
+    "产品线与在售品牌": "Allied Telesis（CSV）",
+    "目标行业与场景": "企业网项目",
+    "团队与规模": "小体",
+    "决策链与对接人": "手机口",
+    "技术与认证": "未公开",
+    "采购与供应链信号": "项目随单潜力",
+    "近期动态与线索": "表单站+域 MX 存活",
+    "与我方契合点": "破冰后定",
+    "风险与注意": "薄档如实"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式",
+     "quote": "msi-works.com 为 Wix 表单站无邮箱；域 MX=msiworks-com0i.mail.protection.outlook.com / mx2-us1.ppe-hosted.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "产品线",
+     "quote": "CSV：Allied Telesis（Marvell Prestera 接入层）",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 手机破冰",
+     "push": "—",
+     "angle": "确认业务与邮箱",
+     "question": "企网项目里接入层空档？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 2 次跟进 · 邮箱链",
+     "push": "特性表",
+     "angle": "邮箱链建立后",
+     "question": "特性容忍区？",
+     "proof": "特性表"
+    },
+    {
+     "stage": "第 3 次跟进 · 样机",
+     "push": "STC-424DGGPM-280W",
+     "angle": "项目评测",
+     "question": "愿评一台？",
+     "proof": "条款"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "小体工程（Allied 信号）；表单站+域邮存活",
+     "②芯片/型号": "Allied Telesis",
+     "③KP 深挖": "手机口；域邮箱可期待",
+     "④Saga 对标": "破冰后定",
+     "⑤在乎与偏好": "未知",
+     "⑥SWOT": "S 信号在册 / W 薄 / O 未探 / T 不确定"
+    },
+    "care": [
+     "未知"
+    ],
+    "swot": {
+     "S": "信号",
+     "W": "薄",
+     "O": "未探",
+     "T": "不确定"
+    },
+    "uncertain": {
+     "产品线核实": "Allied 线具体品未核",
+     "合作方式": "未探",
+     "缺口证据": "无邮箱"
+    },
+    "gap_proof": "Wix 表单站"
+   },
+   "unknowns": [
+    "业务面详",
+    "接入层现供",
+    "评测意愿"
+   ],
+   "email": "Hi MSI team,\n\nI could not find a public email for MSI Works, so I keep this note short and plain.\n\nWe build managed PoE switches that fit exactly the access-layer work Allied Telesis lines serve (24-port, 280W PoE, Voice VLAN, watchdog). Reference: $165 USD EXW.\n\nOne question: in your network projects, is the switching layer ever open for a value-priced alternative?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your network projects, is the switching layer ever open for a value-priced alternative?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|小体工程|Allied信号|手机破冰",
+   "batch": 20,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-100",
+   "fact": "Networkology Ltd（英国）：技术专家 IT 服务商——“Engineering Excellence”，服务**国防/政府/公共部门**（架构/工程/部署高监管环境）+私营双轨；伙伴：Juniper/**Cisco**/Extreme/Splunk/Cribl/Riverbed/Palo Alto/Dynatrace/Allegro Packets/**Allied Telesis（+SergeantClip！）**；客户墙 Fujitsu/**National Archives/DWP（公共红线）**；框架：**G-Cloud、DoS 等**；ISO 27001/9001/14001+Cyber Essentials Plus；NETVETS 退役军人招聘项目（社区向",
+   "inference": "公共部门是其主干（红线）——其 Allied/SergeantClip 侧像“私营项目里的交换机与安全图钉类小件”供应；NETVETS=值得尊重的社区名片（不做商务工具）",
+   "hypothesis": "私营段与（管线）铺料类 margin 业务是合规入口；公共/国防框架明确不触",
+   "evidence_main": "https://networkology.com/",
+   "tech": "高监管 IT 架构/工程/部署；伙伴全谱",
+   "hr": "ISO 三重+CE Plus；NETVETS 社区项目",
+   "contact_found": "contact@networkology.com（官网 contact 页；另有 tenders@——红线域=不使用）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "国防/政府/G-Cloud/DoS=红线不涉；tenders@ 为公共投递口=不动用；只用 contact@ 且明示边界",
+   "dims": {
+    "业务定位": "英国高监管 IT 专家服务商（公共主干+私营双轨）",
+    "产品线与在售品牌": "Juniper/Cisco/Extreme/Splunk/Allied Telesis 等",
+    "目标行业与场景": "国防/政府/公共（红线）+私营",
+    "团队与规模": "专家型中型",
+    "决策链与对接人": "contact@ 口",
+    "技术与认证": "ISO 27001/9001/14001+CE Plus",
+    "采购与供应链信号": "框架+项目混合",
+    "近期动态与线索": "G-Cloud/DoS 在册；NETVETS 在营",
+    "与我方契合点": "私营项目 value PoE 补位（Allied 旁）",
+    "风险与注意": "公共红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“providing professional services to defence, government and other public sector clients…architecting, engineering and deploying IT solutions within highly regulated environments”",
+     "source": "https://networkology.com/aboutus/"
+    },
+    {
+     "dim": "风险与注意",
+     "quote": "Frameworks & DPS：G-Cloud, DoS 等；客户墙含 National Archives/DWP（公共红线）",
+     "source": "https://networkology.com/services/"
+    },
+    {
+     "dim": "联系方式",
+     "quote": "contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）",
+     "source": "https://networkology.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 边界先行一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "私营项目 value PoE；明示不碰框架/国防",
+     "question": "私营项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · Allied 并架",
+     "push": "对照矩阵",
+     "angle": "其 Allied 旁的 value 档",
+     "question": "value 档空档？",
+     "proof": "矩阵"
+    },
+    {
+     "stage": "第 3 次跟进 · 私营评测",
+     "push": "样机+文档",
+     "angle": "私营项目试点",
+     "question": "评测窗？",
+     "proof": "包"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "高监管 IT 服务商（公共主干）+私营双轨；NETVETS 社区向",
+     "②芯片/型号": "Allied Telesis 在册",
+     "③KP 深挖": "contact@ 唯一口（tenders@ 不动）",
+     "④Saga 对标": "私营段 value PoE",
+     "⑤在乎与偏好": "ISO 文档严",
+     "⑥SWOT": "S 高监管信誉 / W 公共红线占主干 / O 私营双轨 / T 大牌"
+    },
+    "care": [
+     "ISO 文档"
+    ],
+    "swot": {
+     "S": "信誉",
+     "W": "红线",
+     "O": "私营轨",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "私营面 SKU 未核",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "私营段规模",
+    "交换现供",
+    "评测窗"
+   ],
+   "email": "Hi Networkology team,\n\n\"Engineering Excellence\" for highly regulated environments is a reputation you protect every day - respected.\n\nTo be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $165 USD EXW.\n\nOne question: in your private-sector builds, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your private-sector builds, who supplies the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|高监管IT|公共红线|私营补位",
+   "batch": 20,
+   "date": "2026-09-28"
+  }
+ ]
+}

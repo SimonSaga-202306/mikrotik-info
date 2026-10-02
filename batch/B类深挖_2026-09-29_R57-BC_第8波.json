@@ -1,0 +1,237 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第8波",
+ "date": "2026-09-29",
+ "scope": "B 类荷兰 7 家 + 波兰 6 家(凑满一波 13 家)",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-440 与 A-260 疑同一实体,只记录合并不越界,待用户裁决",
+ "records": [
+  {
+   "code": "B-274",
+   "fact": "Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作",
+   "inference": "40 门店安防巨头=安装商客户当天提货网络;监控/报警安装商的核心随单就是 PoE 交换机;其 MikroTik 在架以路由/CRS 为主,PoE 专业档稀缺;体量堪比西班牙波 DMI 但谱更聚焦安防",
+   "hypothesis": "开口角度=「安防巨头的监控/报警安装商随单 PoE 走量位」:STC-424 做 40 门店架的 24 口 280W 安装商档,批发号+dropshipping 管道对口",
+   "evidence": [
+    {"dim": "体量", "quote": "Firma Eltrox Sp. z o.o. powstała…w 2000 roku. Jesteśmy największym w kraju dystrybutorem sprzętu zapewniającego bezpieczeństwo…sieci niemal 40 salonów w największych miastach Polski…501-1000 pracowników", "source": "https://pl.linkedin.com/company/eltrox"},
+    {"dim": "谱系", "quote": "monitoring, systemy alarmowe, automatyka domowa, smart home, odnawialne źródła energii, fotowoltaika, sieci komputerowe, IT, TV i multimedia…Dropshipping z hurton…Firmy instalatorskie", "source": "https://www.eltrox.pl/sprzet-it/sieci-komputerowe/mikrotik/akcesoria.html"}
+   ],
+   "unknowns": ["其监控谱 PoE 交换现供价位带与品牌结构", "dropshipping/安装商号的 MOQ 与账期门槛"],
+   "swot": {"S": "安防巨头+40 门店+多渠道+1000 人", "W": "谱宽采购决策分层多", "O": "监控安装随单 24 口 PoE 走量位", "T": "Hikvision/Dahua 绑定件挤压"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)",
+   "question": "你们的监控/报警安装商客户,24 口管理型 PoE+ 现随哪家?门店架上 value 档有位吗?",
+   "tag": "波兰|Częstochowa|安防巨头|40门店|Master",
+   "email": "Hi Eltrox team,\n\nPoland's largest security-equipment distributor with nearly 40 stores nationwide - every CCTV and alarm installer walking your aisles needs a PoE switch on the same receipt.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - built for the installer value tier on a security shelf, white-label friendly, wholesale and dropshipping ready.\n\nOne question: inside your monitoring and alarm catalog, which 24-port managed PoE switch rides along with camera installs today - and is there a value-tier slot on the store shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 安防安装商随单页", "D+14 sklep@eltrox.pl 开口", "D+30 果归守档"]
+  },
+  {
+   "code": "B-263",
+   "fact": "FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』",
+   "inference": "老牌生态人新创的精品集成商:主业企业级(IBM/Dell),MikroTik 是其中小企业/分支场景的边缘谱;Rafał 个人三段生态履历=懂渠道语言",
+   "hypothesis": "开口角度=「集成商项目随单 PoE 位」:STC-424 做其 SME/分支网络项目的 24 口 value 随单件,具名 Rafał 开口",
+   "evidence": [
+    {"dim": "身份", "quote": "INTEGRATOR SYSTEMÓW IT…backup danych, archiwizację, networking, zarządzanie pamięcią masową (storage), obliczenia wysokowydajne (HPC), migrację aplikacji do platformy IBM LinuxONE…Dell, IBM oraz Red Hat", "source": "https://www.bizraport.pl/krs/0000900908/"},
+    {"dim": "人物", "quote": "Rafał Siewicz: Przez ostatnie 18 lat zdobywałem cenne doświadczenie we wszystkich częściach ekosystemu, zarówno bezpośrednio u producenta, w dystrybucji i u integratora", "source": "https://fyr-systems.pl/o-nas/"}
+   ],
+   "unknowns": ["企业级谱里网络件随单频度", "MikroTik 在其谱的实际定位(SME 副线?)"],
+   "swot": {"S": "三段生态创始人+Dell/IBM 谱+企业级", "W": "2021 新创小体量", "O": "SME 网络项目随单 PoE 位", "T": "企业级客户对 value 件谨慎"},
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)",
+   "question": "你们的 SME/分支网络项目里,PoE 接层现随哪家?value 档第二源有位吗?",
+   "tag": "波兰|华沙|企业级集成|IBM谱|具名老板",
+   "email": "Hi Rafał,\n\nEighteen years across vendor, distribution and integration - now building FYR-SYSTEMS on IBM LinuxONE-class enterprise work, with MikroTik carrying your SME edge. You have sat on every side of this table.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the dependable value-tier PoE unit for your SME and branch rollouts, white-label friendly.\n\nOne question: inside your SME and branch network projects, which PoE access switch rides along today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 集成商随单页", "D+14 kontakt@fyr-systems.pl 具名 Rafał", "D+30 果归守档"]
+  },
+  {
+   "code": "B-434",
+   "fact": "Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课,认证讲师);谱=咨询+交付+安装+维护+培训五位一体",
+   "inference": "荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位",
+   "hypothesis": "开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)",
+   "evidence": [
+    {"dim": "身份", "quote": "Interstroom IT adviseert en levert MikroTik oplossingen en heeft meerdere gecertificeerde MikroTik Engineers in dienst…officiële MikroTik trainingen in Twente…erkende en gecertificeerde MikroTik trainer", "source": "https://mikrotiknederland.nl/"},
+    {"dim": "注册", "quote": "Kvk. Enschede 52775054…Breukersweg 15…telt 5 werknemers", "source": "https://webdesignergids.net/hengelo/interstroom-informatietechnologie-bv/"}
+   ],
+   "unknowns": ["课桌对照教具开放度", "客户交付里 PoE 件随单频度"],
+   "swot": {"S": "官方培训点+多名认证工程师+30 年安全谱", "W": "5 人小体量", "O": "教具+交付随单双线", "T": "师者红线"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "Twente 官方 MikroTik 培训点的对照教具样本位(客户交付随单为二线留 NOTE)",
+   "question": "你们 Hengelo 的 MikroTik 课上,PoE 段有没有对照教具?8 口文档全小机当对照样本可评吗?",
+   "tag": "荷兰|Hengelo|官方培训点|MikroTik专精|教具样本",
+   "email": "Hi Interstroom team,\n\nThe official MikroTik training point for Twente, with certified engineers who also deliver and maintain customer networks - you see both the classroom bench and the customer rack.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Dutch documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your training bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on your Hengelo training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具样本合作一页", "D+14 info@interstroom.nl 开口", "D+30 果归守档"],
+   "note": "二线口:其客户网络交付/维护随单 PoE 件有真实场景,教具开口成功后自然延伸;不必双 P1 并行。"
+  },
+  {
+   "code": "B-264",
+   "fact": "Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生)",
+   "inference": "高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台",
+   "hypothesis": "开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案",
+   "evidence": [
+    {"dim": "实验室", "quote": "Laboratoria Sieci Komputerowych: 4 sale dydaktyczne 60 komputerów 4 szafy RACK z wyposażeniem 112 routerów MikroTik 64 przełączniki TP-Link L3/L4 4 node klaster VMware", "source": "https://gsliwinski.wi.zut.edu.pl/"},
+    {"dim": "Academy", "quote": "W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz Grzegorz Śliwiński", "source": "https://gsliwinski.wi.zut.edu.pl/"}
+   ],
+   "unknowns": ["学院教具采购预算节奏(学年/项目经费)", "TP-Link 64 台采购渠道(捐赠/采购?可复制其路径)"],
+   "swot": {"S": "博士讲师+官方 Academy+数千学生影响力", "W": "高校采购流程慢", "O": "批量对照教具(数十台级)+教材入谱", "T": "MikroTik Academy 官方排他顾虑"},
+   "p1": "STC-28DGGPM",
+   "p1_reason": "ZUT 高校 MikroTik Academy 的批量对照教具位(已有 TP-Link 对照先例,我们申请第二对照牌)",
+   "question": "您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。",
+   "tag": "波兰|Szczecin|高校讲师|Academy批量教具|26年",
+   "email": "Dear Dr. Śliwiński,\n\nA university lab running 112 MikroTik routers and 64 TP-Link switches across four RACK cabinets - you already teach with a documented second brand beside MikroTik, which is exactly the pedagogical slot we build for.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Polish documentation - lab-manual-ready, with a complete test pack your students can follow step by step. Reference: $99 USD EXW (2026-09-29), with batch terms for classroom quantities.\n\nOne question: for the PoE segment of your laboratory course, would a documented second comparison brand - supplied in classroom quantities with full teaching materials - earn a place in your lab manual?\n\nIf useful, I can send one unit with the complete test pack first. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": ["D+3 教具批量+教材合作一页", "D+14 gsliwinski@zut.edu.pl 具名", "D+30 果归守档"]
+  },
+  {
+   "code": "B-435",
+   "fact": "JPK Consulting(Zwolle Fluessen 72;**注意与 JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人)非同一家,勿混**;官方类目=Groothandel in ICT-apparatuur(ICT 设备批发类);『Leveren en adviseren van wifi netwerken』(WiFi 网络交付咨询);038-2340333/06-21849852;公开足迹薄,小微体量)",
+   "inference": "小微 WiFi 交付商:MikroTik Reseller 挂证身份重于实际货架;WiFi 项目里 AP 的 PoE 供电随单是其天然场景但量级小",
+   "hypothesis": "守档备养:具名/wifi 项目谱问清后,PoE 供件(AP 供电)随单信号再激活",
+   "evidence": [
+    {"dim": "身份", "quote": "JPK Consulting in Zwolle, Fluessen 72…Groothandel in ICT-apparatuur…Leveren en adviseren van wifi netwerken", "source": "https://www.telefoonboek.nl/bedrijven/t7798164/zwolle/jpk-consulting/"}
+   ],
+   "unknowns": ["WiFi 项目年量级与 AP 谱(Ubiquiti/MikroTik?)", "是否还在活跃经营"],
+   "swot": {"S": "WiFi 交付=PoE 天然随单", "W": "小微足迹薄", "O": "AP 供电 PoE 随单", "T": "失联/停业"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "小微 WiFi 交付商备养:问清活跃度与 AP 谱后再定 activation",
+   "question": "你们的 WiFi 项目里,AP 供电的 PoE 接层现随哪家?(先确认活跃度)",
+   "tag": "荷兰|Zwolle|小微WiFi交付|活跃度待验",
+   "email": "【合作通道·备养】先验活跃度(电话/网站),再具名引见;与 JKP Consultancy Groep 非同一实体,建档勿混。",
+   "followups": ["D+7 活跃度快验(电话/网站)", "D+30 果归守档"],
+   "note": "**同名防混注记**:JPK Consulting(jpk-consulting.nl,wifi 交付,Fluessen 72)≠ JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人,Zwolle Grote Voort 207b);CSV 挂 MikroTik Reseller 的是前者。"
+  },
+  {
+   "code": "B-440",
+   "fact": "Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**)",
+   "inference": "十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面",
+   "hypothesis": "守档备养:不重复投入,深挖引用 A-260 已建档事实;合并与否待用户裁决,出信也走 A 面管理",
+   "evidence": [
+    {"dim": "身份", "quote": "10 证全拿;2015 年起专职 MikroTik,专做复杂场景方案", "source": "客户名单_反向信号_2026-09.csv"},
+    {"dim": "A面", "quote": "GPE Networks(荷兰 SMB 一站式 MSP):系统管理/网络管理/云/备份/咨询/网站托管六线;评论墙实锤 MikroTik 路由排障修配案件(Maurice 具名)", "source": "profile/A/A-260-Maurice Van Der Grijspaarde-荷兰.md(既有深挖)"}
+   ],
+   "unknowns": ["双档合并裁决(用户)", "SMB 客户网络换代件随单节奏(A 面在跟)"],
+   "swot": {"S": "十证全拿+SMB MSP 实体+复杂方案专长", "W": "双档未定", "O": "(A 面在管的)SMB 网络管理换代随单", "T": "重复触达风险"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并",
+   "question": "(A 面管理)SMB 客户网络管理换代件的 value 随单",
+   "tag": "荷兰|Haarlem|十证顾问|MSP|与A260双档待裁决",
+   "email": "【合作通道·备养】R50 已标与 A-260 疑同一实体:只记录不合并,待用户裁决;防重复触达,本档不出信(A 面已有经营)。",
+   "followups": ["待用户裁决双档合并", "不入出信序"],
+   "note": "**双档注记(R50 重申)**:与 A-260(同 info@gpe-networks.com/同 gpe-networks.com 域)疑似同一实体。按规则只记录不合并;如用户裁决合并,以 A-260 为正档,本档降级归档。"
+  },
+  {
+   "code": "B-433",
+   "fact": "Fokko van den Bosch(Den Haag 海牙;it-support.nl;MTCNA+MTCRE;fokko@it-support.nl 具名公司域)",
+   "inference": "海牙本地 IT 支持商(具名公司域,站点单薄);SME IT 支持谱",
+   "hypothesis": "守档备养:具名引见,等其 SME 客户网络更新信号",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;it-support.nl 公司域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["公司实体与团队规模", "SME 客户谱"],
+   "swot": {"S": "具名公司域直达", "W": "公开谱薄", "O": "海牙 SME 项目随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "海牙 IT 支持顾问备养:具名通道,项目信号再激活",
+   "question": "你在海牙做 SME IT 支持时,网络/PoE 件现随哪家?",
+   "tag": "荷兰|海牙|IT支持顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-436",
+   "fact": "Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域)",
+   "inference": "荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱",
+   "hypothesis": "守档备养:具名引见;其乡村谱里农企/仓库监控 PoE 场景待摸",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;qtopia.nl 公司域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["Qtopia 业务面与团队", "农企/仓库监控项目谱"],
+   "swot": {"S": "具名公司域", "W": "公开谱薄/乡村量级", "O": "农企监控 PoE 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "乡村 IT 顾问备养:具名通道,项目信号再激活",
+   "question": "你在 Achterhoek 的项目里(农企/仓库?),PoE 监控/网络件现随哪家?",
+   "tag": "荷兰|Heelweg|乡村IT顾问|MTCNA+MTCRE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-438",
+   "fact": "Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站)",
+   "inference": "三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户",
+   "hypothesis": "守档备养:具名引见;三语=若其客户谱含德国边界企业,是荷德双区观察口",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE;英德荷三语", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与生计形态", "跨境客户谱(德语企业?)"],
+   "swot": {"S": "三证+三语跨境潜力", "W": "无公开谱", "O": "荷德边界企业谱随性", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "三语三证个人顾问备养:具名通道,跨境谱信号再激活",
+   "question": "你的客户谱里有没有德语区企业?项目里 PoE 件现随哪家?",
+   "tag": "荷兰|弗里斯兰|个人顾问|三语三证",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-444",
+   "fact": "Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl)",
+   "inference": "乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营",
+   "hypothesis": "守档备养:具名引见,等其 SME 客户网络/安全项目信号",
+   "evidence": [
+    {"dim": "身份", "quote": "另经 MikroTik 官方认证顾问名录确认其为认证顾问,持 MTCRE、MTCSE;驻 IJsselstein", "source": "客户名单_反向信号_2026-09.csv(2026-09-23 名录复核)"}
+   ],
+   "unknowns": ["公司团队与安全服务谱", "SME 客户项目频度"],
+   "swot": {"S": "官方名录在档+安全方向", "W": "小体量", "O": "乌得勒支 SME 随单", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "在档认证顾问备养(MTCSE 安全方向):具名通道,项目信号再激活",
+   "question": "你在乌得勒支圈做 SME 安全/网络项目时,PoE 件现随哪家?",
+   "tag": "荷兰|IJsselstein|在档顾问|MTCSE",
+   "email": "【合作通道·备养】具名引见后定。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-269",
+   "fact": "Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl)",
+   "inference": "华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧",
+   "hypothesis": "守档备养:具名引见(ISP 互联语言),其 ISP 客户谱接入侧 PoE 件场景长线观察",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE;maslak.waw.pl 自有域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["ISP 客户谱与项目类型", "现证在档"],
+   "swot": {"S": "MTCINE+自有域+华沙", "W": "个体量级", "O": "ISP 接入侧随单观察口", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "MTCINE ISP 方向顾问备养:具名通道,ISP 谱信号再激活",
+   "question": "你给波兰 ISP/WISP 做互联/接入项目时,汇聚与接入侧 PoE 件现见哪些品牌?",
+   "tag": "波兰|华沙|MTCINE|自有域顾问",
+   "email": "【合作通道·备养】具名引见后定(ISP 互联语言)。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-270",
+   "fact": "Piotr Poniatowski(Miedzyrzec Podlaski;poniatowski.pl 自有域;**四证 MTCNA+MTCRE+MTCUME(Hotspot/PPPoE 用户管理)+MTCSWE(交换)**;piotr@poniatowski.pl)",
+   "inference": "MTCSWE(交换专项证)在四证里——交换方向是 MikroTik 近年新证,持有人对交换段有专门兴趣;MTCUME=Hotspot 谱(酒店/公共接入);小城自有域顾问",
+   "hypothesis": "守档备养:具名引见(交换专项语言最对路),其 Hotspot/酒店谱 PoE 场景长线",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME+MTCSWE;poniatowski.pl 自有域", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["Hotspot/酒店客户谱", "现证在档"],
+   "swot": {"S": "四证含 MTCSWE 交换专项+自有域", "W": "小城量级", "O": "Hotspot 谱 PoE 长线", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "四证含交换专项顾问备养:具名交换语言引见,Hotspot 谱信号再激活",
+   "question": "你的 Hotspot/酒店项目里,PoE 接入交换现随哪家?(MTCSWE 对口话题)",
+   "tag": "波兰|Miedzyrzec|四证含MTCSWE|自有域",
+   "email": "【合作通道·备养】具名引见后定(交换专项语言最对路)。",
+   "followups": ["D+14 具名技术短引见", "D+30 放盘"]
+  },
+  {
+   "code": "B-265",
+   "fact": "Kacper Kisielewski(Nałęczów;MTCNA+MTCRE;gmail 个人邮箱;原备注:可能个人兼职,低优先)",
+   "inference": "纯个人兼职顾问(卢布林地区疗养小城)",
+   "hypothesis": "守档备养:具名引见,低频",
+   "evidence": [
+    {"dim": "身份", "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;个人 gmail", "source": "客户名单_反向信号_2026-09.csv"}
+   ],
+   "unknowns": ["现证在档与活跃度"],
+   "swot": {"S": "双证", "W": "兼职疑,量微", "O": "低频观察", "T": "失联"},
+   "p1": "CONSULT-OEM",
+   "p1_reason": "个人兼职顾问备养:低频引见",
+   "question": "你兼职的项目里碰 PoE 件选型的场景多吗?",
+   "tag": "波兰|Nałęczów|兼职顾问|低优先",
+   "email": "【合作通道·备养】具名引见后定(低频)。",
+   "followups": ["D+30 低频具名引见", "D+60 放盘"]
+  }
+ ]
+}

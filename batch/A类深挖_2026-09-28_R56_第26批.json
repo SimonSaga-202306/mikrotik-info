@@ -1,0 +1,897 @@
+{
+ "batch": 36,
+ "date": "2026-09-29",
+ "source": "R55/R56 全A深挖·合并加厚（R57 超批）",
+ "records": [
+  {
+   "customer": "A-251",
+   "fact": "Dávid Csongrádi（匈牙利个体，存档行）：结构化档案无站无邮箱——CSV 注 MikroTik 顾问类条目（待实站补证）",
+   "inference": "顾问目录档案位；无话术出口先供位",
+   "hypothesis": "用户补邮箱后启用候选位",
+   "evidence_main": "—",
+   "tech": "—",
+   "hr": "—",
+   "contact_found": "无可确认邮箱",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "dims": {
+    "业务定位": "匈牙利个体顾问（存档）",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "—",
+    "团队与规模": "—",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "候选供位（待邮箱）",
+    "风险与注意": "无接触点"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Dávid Csongrádi（匈牙利个体，存档行）：结构化档案无站无邮箱——CSV 注 MikroTik 顾问类条目（待实站补证）",
+     "source": "CSV/注册表存档（存档注）"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "STC-424DGGPM-280W",
+     "angle": "候选供位（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CSV/注册表存档（MikroTik 顾问类）；网站与邮箱双空——先建档",
+     "②芯片/型号": "—",
+     "③KP 深挖": "—",
+     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
+    },
+    "care": [
+     "邮箱"
+    ],
+    "swot": {
+     "S": "候选位",
+     "W": "无点",
+     "O": "补邮箱",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "建档待证",
+     "合作方式": "未谈",
+     "缺口证据": "CSV/注册表备案"
+    },
+    "gap_proof": "存档证据"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "匈牙利|个体顾问|无站无邮箱|建档供位",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-252",
+   "fact": "CS Edu Idet（热舒夫，第二行=biuro@csidet.edu.pl）：与 A-243 同一培训主体——Tadeusz Ruchlewicz/Kajetan Tadra 双讲师 MikroTik 全证",
+   "inference": "同主体双行：机构箱与 Tadeusz 个人箱并行；判 CONSULT-OEM 同轨（避免重复出信撞车——本行走后发/机构角）",
+   "hypothesis": "同 A-243：MTCSWE 课程对照单元窄口",
+   "evidence_main": "https://csidet.edu.pl",
+   "tech": "MikroTik 全证课",
+   "hr": "热舒夫",
+   "contact_found": "biuro@csidet.edu.pl（官网机构箱；未实测投递；与 A-243 同主体——双行注，避免同日双发）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "热舒夫 MikroTik 认证培训（同 A-243）",
+    "产品线与在售品牌": "MikroTik 全证课",
+    "目标行业与场景": "受训工程师（EU 资助课）",
+    "团队与规模": "双讲师小型",
+    "决策链与对接人": "biuro@ 机构箱（Kajetan 同队）",
+    "技术与认证": "10 证讲师×2",
+    "采购与供应链信号": "课程教具",
+    "近期动态与线索": "EU 资助课 100% 叙事",
+    "与我方契合点": "课程对照窄口（CONSULT-OEM）·机构角（错峰发）",
+    "风险与注意": "与 A-243 同主体——防重复触达"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Kajetan Tadra, Certyfikowany Trener MikroTik——MTCNA…MTCEWE 全证；biuro@ 机构箱",
+     "source": "https://csidet.edu.pl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 对照单元（机构角，错峰）",
+     "push": "CONSULT-OEM",
+     "angle": "全证路径中 MTCSWE 的对照单元思路（诚实角；错峰于 A-243 个人箱）",
+     "question": "课程实验室用对照单元吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "教学参考留档",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "PL 同主体机构行（官网一手核）",
+     "②芯片/型号": "MikroTik 生态",
+     "③KP 深挖": "biuro@（Kajetan）",
+     "④Saga 对标": "课程对照（$165 锚点一致，教具角）——错峰执行",
+     "⑤在乎与偏好": "证书完整/资助流量",
+     "⑥SWOT": "S 功力 / W 阵营纯 / O 教具 / T 边界"
+    },
+    "care": [
+     "双行协调已注"
+    ],
+    "swot": {
+     "S": "功力",
+     "W": "阵营",
+     "O": "教具",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "对照接受度",
+     "合作方式": "未谈",
+     "缺口证据": "全证+资助课实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "对照接受",
+    "双讲师分工"
+   ],
+   "email": "Hi Kajetan, hi CS Edu Idet team,\n\nTwo instructors carrying the full ten MikroTik certifications each, EU-funded courses running across Podkarpacie - that is infrastructure for engineers. Full honesty: we build PoE switches, and your classroom is MikroTik's by design. (I also wrote to Tadeusz directly - one school, one conversation.)\n\nWhere we might serve: in the MTCSWE module, some trainers add a documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) suits that bench.\n\nOne question: does your lab use comparison units, or do you keep it strictly single-vendor?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does your lab use comparison units?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "波兰|MikroTik双讲师|CONSULT-OEM|A-243错峰行",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-253",
+   "fact": "Noriak Distribution（法国边境大区）：批发外设/配件/耗材+网络件——音频/箱包/外设/游戏/线缆/备份/网络/家用附件；6 名地面销售全国",
+   "inference": "宽线批发里'produits réseaux'类是小板块——value 网络件槽存在但优先级中低",
+   "hypothesis": "其 réseau 品类的value PoE 上架窄口（法国中小零售 IT 通道）",
+   "evidence_main": "https://www.noriak-distri.com",
+   "tech": "Samsonite/Port Designs/Cougar/Transcend 等",
+   "hr": "法国北部",
+   "contact_found": "contact@noriak-distri.com（官网公开位待用；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "法国宽线批发（配件为主）",
+    "产品线与在售品牌": "配件品牌墙（含网络件类）",
+    "目标行业与场景": "法语零售/经销 IT 商",
+    "团队与规模": "6 销售地面团队",
+    "决策链与对接人": "contact@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "批发上架",
+    "近期动态与线索": "—",
+    "与我方契合点": "réseau 品类 value 槽窄位",
+    "风险与注意": "网络件非主角（标注）"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Grossiste en périphériques, matériels et consommables informatiques…produits réseaux——6 commerciaux terrain",
+     "source": "https://www.noriak-distri.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 品类针",
+     "push": "STC-424DGGPM-280W",
+     "angle": "réseau 品类里 value PoE 上架针",
+     "question": "réseau 类有 value PoE 槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs 现供并排",
+     "question": "入册试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "FR 宽线批发（官网一手核）",
+     "②芯片/型号": "配件墙含 réseau",
+     "③KP 深挖": "contact@",
+     "④Saga 对标": "品类窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "宽线周转/地面销售",
+     "⑥SWOT": "S 地面队伍 / W 网络件旁系 / O 品类槽 / T 品牌墙"
+    },
+    "care": [
+     "réseau 品类负责人未明"
+    ],
+    "swot": {
+     "S": "地面",
+     "W": "旁系",
+     "O": "品类槽",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "réseau 权重",
+     "合作方式": "批发条款未谈",
+     "缺口证据": "目录含 réseau"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "réseau 权重",
+    "品类负责人"
+   ],
+   "email": "Hi Noriak team,\n\nA wholesale house with six field reps covering France - peripherals, accessories, gaming, and a 'produits réseaux' category beside them. That small network category is where we fit.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value networking unit your resellers can actually turn, without touching your headline accessory brands.\n\nOne question: who owns the réseau category on your side, and would a one-unit test listing be possible?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Who owns the réseau category on your side?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "法国|宽线批发|réseau品类窄位|6销售",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-254",
+   "fact": "Connect Data - Sintel（法国 30+年电信网络 VAD）：明写 LAN Switching 板块+Carrier Ethernet/WiFi/安全/IoT/VoIP；品牌含 RUCKUS/RAD/RADWIN/Teltonika/Sangoma/AudioCodes；国家认可培训中心+售前咨询+物流",
+   "inference": "法国 VAD 明列 LAN Switching——RUCKUS 旁边存在 value 第二轨条例（批 26 最强分销）",
+   "hypothesis": "其转售网络的 value PoE 接入二轨：RUCKUS 之下不撞车定位",
+   "evidence_main": "https://www.connectdata.fr",
+   "tech": "RUCKUS/RAD/RADWIN/Teltonika/Sangoma/AudioCodes",
+   "hr": "法国",
+   "contact_found": "sales@connectdata.fr（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "法国电信网络 VAD（30+年）",
+    "产品线与在售品牌": "RUCKUS/RAD/Teltonika 等",
+    "目标行业与场景": "转售商/企业/运营商",
+    "团队与规模": "分销+培训中心组织",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "国认可培训中心",
+    "采购与供应链信号": "分销泳道",
+    "近期动态与线索": "Sintel 组合叙事",
+    "与我方契合点": "LAN Switching 板块内二轨（守界前句）",
+    "风险与注意": "RUCKUS 生态引力——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Distributeur de solutions télécoms & réseaux——Wifi, Sécurité, Radio, LAN Switching, Accès Carrier Ethernet, IOT, VoIP；centre de formation agréé",
+     "source": "https://www.connectdata.fr"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界正口",
+     "push": "STC-424DGGPM-280W",
+     "angle": "LAN Switching 板块内 RUCKUS 之下的 value 二轨（前句框定不挖线）",
+     "question": "转售商 ROI 槽接受吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs 中档并排（培训中心可体验）",
+     "question": "入册试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "FR 电信网络 VAD（官网一手核）",
+     "②芯片/型号": "RUCKUS/RAD 等墙",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "二轨价值槽（$165 锚点一致）",
+     "⑤在乎与偏好": "培训+售前深度/物流",
+     "⑥SWOT": "S 板块对口 / W RUCKUS 引力 / O 二轨 / T 引力"
+    },
+    "care": [
+     "其二轨机制未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "引力",
+     "O": "二轨",
+     "T": "引力"
+    },
+    "uncertain": {
+     "产品线核实": "二轨接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "LAN Switching 板块实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "二轨机制",
+    "品牌权责人"
+   ],
+   "email": "Hi Connect Data - Sintel team,\n\nThirty-plus years in telecom and network distribution, LAN Switching printed on your own banner, an approved training centre and real logistics. One sentence up front: we are not asking to displace RUCKUS or any line you represent.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - the natural value tier under your headline switching brands, for resellers whose deals close on ROI.\n\nOne question: does a value second-track fit inside your LAN Switching board - and can we place one unit in your lab and training room?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does a value second-track fit inside your LAN Switching board?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "法国|电信网络VAD|LANSwitching板块|二轨正位",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-255",
+   "fact": "The Junction AS（挪威 Drammen，30+年）：专科硬件分销欧陆+斯堪的纳维亚——连接/嵌入式/ATC/录音/加固屏五块；IT Infrastructure 板块明列 media converter/Ethernet extender/工业管理型交换机/PoE/console server/LTE-5G 路由；品牌含 Perle/Connect Tech/Bluestone",
+   "inference": "IT 基建板块存在'工业管理型 PoE'明栏——STC-424 与 Perle 并排替补是正位窄口（批 26 分销双雄之一）",
+   "hypothesis": "其 IT 基建板块的 value 替补槽：Perle 旁不撞车的工程件",
+   "evidence_main": "https://thejunction.eu",
+   "tech": "Perle/Connect Tech/Bluestone/Cadmos/FarSite",
+   "hr": "Drammen",
+   "contact_found": "info@thejunction.eu（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "挪威专科硬件分销（30+年）",
+    "产品线与在售品牌": "Perle 等专科品牌",
+    "目标行业与场景": "工厂/海事/ATC/录音等僻域",
+    "团队与规模": "专科分销团队",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "专科选型深度",
+    "采购与供应链信号": "分销泳道",
+    "近期动态与线索": "ATC/嵌入式新板块扩展",
+    "与我方契合点": "IT 基建板块 value 替补（Perle 旁守界前句）",
+    "风险与注意": "专科主线分量强——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "IT Infrastructure: Fiber media converters, Ethernet extenders, industrial managed switches, PoE, console servers, LTE/5G routers——Perle 1976",
+     "source": "https://thejunction.eu"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 并排",
+     "push": "STC-424DGGPM-280W",
+     "angle": "IT 基建板块内 Perle 旁的 value 替补槽（前句框定）",
+     "question": "工业 PoE 有价值替补槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 非管理线",
+     "push": "STI-288GP",
+     "angle": "8 口工业非管理 PoE 对照槽",
+     "question": "对照试单？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NO 专科分销（官网一手核）",
+     "②芯片/型号": "Perle 等专科墙",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "替补窄口（$165 锚点一致）",
+     "⑤在乎与偏好": "深度选型/僻域覆盖",
+     "⑥SWOT": "S 板块对口 / W 专科分量 / O 替补 / T Perle"
+    },
+    "care": [
+     "替补机制未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "分量",
+     "O": "替补",
+     "T": "Perle"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "工业 PoE 板块实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "Perle 排他"
+   ],
+   "email": "Hi The Junction team,\n\nThirty-plus years of specialist distribution - media converters, extenders, industrial managed switches, PoE, console servers - Perle on the shelf and ATC/rugged lines beside. One sentence up front: we are not asking to displace Perle.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial unmanaged PoE line. Reference: $165 USD EXW (2026-09-29) - the value substitute slot beside your specialist tier.\n\nOne question: does your IT Infrastructure board keep a value substitute tier - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does your IT Infrastructure board keep a value substitute tier?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "挪威|专科分销|Perle旁替补|IT基建板块",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-256",
+   "fact": "Timeless Technology Oy（芬兰）：增值技术进口商——ICT+工业 IoT+测量技术；Perle（路由/交换/console)/Milesight LoRaWAN/Cailabs/ControlByWeb/Profitap/Tempmate/TITAN；产品用于 ICT/商业/工业",
+   "inference": "技术进口商：Perle 交换线在墙——同 A-255 判（Perle 旁替补窄口）",
+   "hypothesis": "其 ICT/工业客户的 value 替补槽：Perle 之下不撞车",
+   "evidence_main": "https://timeless.fi",
+   "tech": "Perle/Milesight/Cailabs/Profitap/Tempmate",
+   "hr": "芬兰",
+   "contact_found": "info@timeless.fi（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "芬兰增值技术进口商",
+    "产品线与在售品牌": "Perle/Milesight 等",
+    "目标行业与场景": "ICT/商业/工业客户",
+    "团队与规模": "进口商团队",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "EN 12830 类合规敏感",
+    "采购与供应链信号": "进口分销",
+    "近期动态与线索": "PerleCLOUD/IRG7000 新品叙事",
+    "与我方契合点": "Perle 旁替补窄口（前句框定）",
+    "风险与注意": "Perle 引力——前句框定"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Lisäarvoa tuottava tekninen maahantuoja: ICT, teollinen IoT, mittaustekniikka——Perle Systems reitittimet, kytkimet, konsolipalvelimet",
+     "source": "https://timeless.fi"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 并排",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Perle 旁的 value 替补槽（前句框定）",
+     "question": "ICT/工业客户有价值替补槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs 中档并排",
+     "question": "入册试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "FI 技术进口商（官网一手核）",
+     "②芯片/型号": "Perle 等墙",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "替补窄口（$165 锚点一致）",
+     "⑤在乎与偏好": "技术深度/合规",
+     "⑥SWOT": "S 对口 / W Perle / O 替补 / T Perle"
+    },
+    "care": [
+     "替补机制未明"
+    ],
+    "swot": {
+     "S": "对口",
+     "W": "Perle",
+     "O": "替补",
+     "T": "Perle"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "进口条款未谈",
+     "缺口证据": "Perle 板材实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "排他约束"
+   ],
+   "email": "Hi Timeless Technology team,\n\nA value-adding technical importer - Perle routers, switches and consoles, Milesight LoRaWAN, Cailabs, Profitap. One sentence up front: we are not asking to displace Perle anywhere it already wins.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value substitute for ICT and industrial projects where the specialist tier is overspecified.\n\nOne question: do your ICT/industrial customers have a value substitute slot - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Do your customers have a value substitute slot for PoE switching?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "芬兰|技术进口商|Perle旁替补|LoRaWAN侧",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-257",
+   "fact": "DSSI（葡萄牙 VAD）：存储/备份/监控/网络/安全/云六域；品牌含 Ubiquiti+Perle+SolarWinds+Proxmox+Wasabi+NAKIVO 等；个性化实施支持叙事",
+   "inference": "VAD 网络域窄口：Ubiquiti+Perle 双驻——二轨替补窄位",
+   "hypothesis": "其经销商带的 value PoE 替补窄口",
+   "evidence_main": "https://dssi.pt",
+   "tech": "Ubiquiti/Perle/SolarWinds/Proxmox/Wasabi",
+   "hr": "葡萄牙",
+   "contact_found": "comercial@dssi.pt（官网公开——商务口；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "葡萄牙 VAD（六域）",
+    "产品线与在售品牌": "Ubiquiti/Perle 等在墙",
+    "目标行业与场景": "经销商/企业",
+    "团队与规模": "分销团队",
+    "决策链与对接人": "comercial@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "分销泳道",
+    "近期动态与线索": "Cyberhaven/新牌持续入册",
+    "与我方契合点": "网络域替补窄位",
+    "风险与注意": "SKU 主权强——守界前句"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Distribuidor Tecnológico de Valor Acrescentado——Armazenamento/Backup/Monitorização/Networking/Segurança/Cloud；Ubiquiti+Perle 品牌墙",
+     "source": "https://dssi.pt"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 守界句",
+     "push": "STC-424DGGPM-280W",
+     "angle": "网络域 Ubiquiti/Perle 旁的 value 替补窄位（前句框定）",
+     "question": "网络域有价值替补槽吗？",
+     "proof": "规格页+目录页"
+    },
+    {
+     "stage": "第 2 次跟进 · 对照卡",
+     "push": "对照卡",
+     "angle": "vs 中档并排",
+     "question": "入册试单？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "PT VAD（官网一手核）",
+     "②芯片/型号": "Ubiquiti/Perle 墙",
+     "③KP 深挖": "comercial@",
+     "④Saga 对标": "替补窄位（$165 锚点一致）",
+     "⑤在乎与偏好": "品牌组合/实施支持",
+     "⑥SWOT": "S 通道 / W 线在墙 / O 替补 / T 引力"
+    },
+    "care": [
+     "替补机制未明"
+    ],
+    "swot": {
+     "S": "通道",
+     "W": "线在墙",
+     "O": "替补",
+     "T": "引力"
+    },
+    "uncertain": {
+     "产品线核实": "替补接受度",
+     "合作方式": "分销条款未谈",
+     "缺口证据": "网络域实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "替补机制",
+    "品牌权责"
+   ],
+   "email": "Hi DSSI team,\n\nA value-added distributor across backup, monitoring, security, cloud - and a networking line already carrying Ubiquiti and Perle. One sentence up front: we are not asking to displace either.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value substitute in the networking domain for deals where the headline tier is overspecified.\n\nOne question: does your networking domain keep a substitute slot - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does your networking domain keep a substitute slot?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "葡萄牙|VAD|UbiquitiPerle双驻|替补窄位",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-258",
+   "fact": "Daniel Świtalski（波兰 Poznan 个体，存档行）：结构化档案无站无邮箱——CSV 注 MikroTik 顾问类条目（待实站补证）",
+   "inference": "顾问目录档案位；无话术出口先供位",
+   "hypothesis": "用户补邮箱后启用候选位",
+   "evidence_main": "—",
+   "tech": "—",
+   "hr": "—",
+   "contact_found": "无可确认邮箱",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "dims": {
+    "业务定位": "波兰波兹南个体顾问（存档）",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "—",
+    "团队与规模": "—",
+    "决策链与对接人": "—",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "候选供位（待邮箱）",
+    "风险与注意": "无接触点"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Daniel Świtalski（波兰 Poznan 个体，存档行）：结构化档案无站无邮箱——CSV 注 MikroTik 顾问类条目（待实站补证）",
+     "source": "CSV/注册表存档（存档注）"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "STC-424DGGPM-280W",
+     "angle": "候选供位（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CSV/注册表存档（MikroTik 顾问类）；网站与邮箱双空——先建档",
+     "②芯片/型号": "—",
+     "③KP 深挖": "—",
+     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
+    },
+    "care": [
+     "邮箱"
+    ],
+    "swot": {
+     "S": "候选位",
+     "W": "无点",
+     "O": "补邮箱",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "建档待证",
+     "合作方式": "未谈",
+     "缺口证据": "CSV/注册表备案"
+    },
+    "gap_proof": "存档证据"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "波兰|波兹南个体顾问|无站无邮箱|建档供位",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-259",
+   "fact": "MikroTrain（荷兰 Zwolle，Henk Veldkamp）：MikroTik 官方认证培训——三大日速成叙事，300+ 学员（客户墙含政府/医疗/AV 集成商 Kinly 等——公共段守界注）",
+   "inference": "官方 MikroTik 讲师行=训练通道判（CONSULT-OEM）",
+   "hypothesis": "其三天速成课 MTCSWE 对照单元窄口（公共学员主体守界句先置）",
+   "evidence_main": "https://www.mikrotrain.nl",
+   "tech": "MikroTik 官方认证课",
+   "hr": "Zwolle",
+   "contact_found": "info@mikrotrain.nl（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰官方 MikroTik 培训",
+    "产品线与在售品牌": "MikroTik 认证课",
+    "目标行业与场景": "网工受训（客户墙含公私）",
+    "团队与规模": "个体讲师（Henk Veldkamp）",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "官方认证讲师",
+    "采购与供应链信号": "课程教具",
+    "近期动态与线索": "300+ 学员墙",
+    "与我方契合点": "MTCSWE 对照单元窄口（CONSULT-OEM）",
+    "风险与注意": "公共学员守界注"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Officiële MikroTik-certificeringstrainingen——300+ professionals opgeleid（Kinly/Rijksoverheid/UMCG 等 logo 墙）",
+     "source": "https://www.mikrotrain.nl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 对照单元",
+     "push": "CONSULT-OEM",
+     "angle": "MTCSWE 对照单元思路（诚实角；公共段守界）",
+     "question": "课里用对照单元吗？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "一页目录卡",
+     "angle": "教学参考留档",
+     "question": "留档？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL 官方 MikroTik 培训（官网一手核）",
+     "②芯片/型号": "MikroTik 生态",
+     "③KP 深挖": "info@（Henk）",
+     "④Saga 对标": "课程对照（$165 锚点一致，教具角）",
+     "⑤在乎与偏好": "速成工艺/实操",
+     "⑥SWOT": "S 官方身份 / W 阵营纯 / O 教具 / T 边界"
+    },
+    "care": [
+     "Henk 意愿未明"
+    ],
+    "swot": {
+     "S": "官方",
+     "W": "阵营",
+     "O": "教具",
+     "T": "边界"
+    },
+    "uncertain": {
+     "产品线核实": "对照接受度",
+     "合作方式": "未谈",
+     "缺口证据": "300+ 学员实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "对照接受",
+    "Henk 意愿"
+   ],
+   "email": "Hi Henk,\n\nThree days to really master MikroTik, 300+ professionals trained - your Zwolle classroom carries real weight in the Dutch scene. Full honesty: we build PoE switches, and your classroom is MikroTik's by design.\n\nWhere we might serve: in the switching content, some trainers add one documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) suits that bench.\n\nOne question: does MikroTrain ever use a comparison unit, or is strict single-vendor the point?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does MikroTrain ever use a comparison unit?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|官方MikroTik培训|CONSULT-OEM|300学员",
+   "batch": 36,
+   "date": "2026-09-29"
+  },
+  {
+   "customer": "A-260",
+   "fact": "GPE Networks（荷兰 SMB 一站式 MSP）：系统管理/网络管理/云/备份/咨询/网站托管六线；评论墙实锤 MikroTik 路由排障修配案件（Maurice 具名）",
+   "inference": "SMB 网络管理一站式——MikroTik 存量在客户墙（诚实角），网络件随单真实存在=value 正口窄针",
+   "hypothesis": "其 SMB 客户网络管理换代件的 value 随单",
+   "evidence_main": "https://gpe-networks.com",
+   "tech": "MSP 六线（MikroTik 存量实地）",
+   "hr": "荷兰",
+   "contact_found": "info@gpe-networks.com（官网公开；未实测投递）（A 记录核验存活）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "荷兰 SMB 一站式 MSP",
+    "产品线与在售品牌": "云栈+MikroTik 存量",
+    "目标行业与场景": "SMB 企业网/云/备份",
+    "团队与规模": "小型团队（Maurice 具名）",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "—",
+    "采购与供应链信号": "随单件",
+    "近期动态与线索": "多年好评墙",
+    "与我方契合点": "SMB 换代随单正口",
+    "风险与注意": "MikroTik 存量——话术诚实"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Systeembeheer/Netwerkbeheer/Cloud/Backup/Consultancy/Webhosting——reviews: 'Maurice onze Netwerk legend…Mikrotik Router'",
+     "source": "https://gpe-networks.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 换代针",
+     "push": "STC-424DGGPM-280W",
+     "angle": "SMB 客户网络换代的 value PoE 随单（MikroTik 共存角）",
+     "question": "换代时交换件现供品牌？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 目录卡",
+     "push": "一页目录卡",
+     "angle": "备件槽",
+     "question": "入供货目录试一台？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NL SMB MSP（官网一手核）",
+     "②芯片/型号": "MikroTik 存量",
+     "③KP 深挖": "info@（Maurice）",
+     "④Saga 对标": "value 随单（$165 锚点一致）",
+     "⑤在乎与偏好": "快/个人/诚实",
+     "⑥SWOT": "S 口碑实锤 / W 小体量 / O 换代 / T 大牌"
+    },
+    "care": [
+     "采购决策人=Maurice?未明"
+    ],
+    "swot": {
+     "S": "口碑",
+     "W": "小",
+     "O": "换代",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "现供品牌",
+     "合作方式": "未谈",
+     "缺口证据": "评论墙实锤"
+    },
+    "gap_proof": "官网一手"
+   },
+   "unknowns": [
+    "现供",
+    "决策人"
+   ],
+   "email": "Hi Maurice, hi GPE Networks team,\n\nYour review wall says it - the MikroTik router you untangled for a customer, the cables you installed and tested. Small-team, hands-on, honest advice. That is exactly the shop that needs a trustworthy switch on the shelf.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Full honesty: we are a switch maker, not here to argue with MikroTik's router space. Reference: $165 USD EXW (2026-09-29).\n\nOne question: when an SMB customer network needs a new switch, where do you source it today - and would a documented value PoE unit earn a test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When an SMB customer network needs a new switch, where do you source it today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "荷兰|SMB一站式MSP|换代随单|MikroTik存量",
+   "batch": 36,
+   "date": "2026-09-29"
+  }
+ ]
+}

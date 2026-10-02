@@ -1,0 +1,611 @@
+{
+  "batch": "B类深挖_2026-09-29_R57-BC_第12波",
+  "date": "2026-09-29",
+  "scope": "B 类收官 17 家:立陶宛 2+爱沙尼亚 1+拉脱维亚关联(第 11 波已含 GOODSTORE)+科索沃 2+罗马尼亚 4+葡萄牙 3+马耳他 2+黑山 2+阿联酋 1(与第 11 波连发=B 类 179/179 全清)",
+  "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;B-487 Accreda/B-489 WST Systems 判型校正为 IT 服务商备养;B-285/B-311 与 WESTech 同属 ELKO 集团,开口点集团层级确认防双头",
+  "records": [
+    {
+      "code": "B-285",
+      "fact": "ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee)",
+      "inference": "集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;",
+      "hypothesis": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**",
+      "evidence": [
+        {
+          "dim": "集团",
+          "quote": "ELKO Group (ELKO Grupa AS) … revenue exceeded US$2 billion … operates in 31 countries, with sales offices in 13 countries: Latvia, Estonia, Lithuania … Prague… ",
+          "source": "https://en.wikipedia.org/wiki/Elko_Grupa"
+        },
+        {
+          "dim": "法人壳",
+          "quote": "ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0",
+          "source": "https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/"
+        }
+      ],
+      "unknowns": [
+        "采购是 Riga 中央还是国别放权",
+        "与 WESTech 开口的集团内协同"
+      ],
+      "swot": {
+        "S": "$2B 集团嫡系站",
+        "W": "国别壳小,无实收实决",
+        "O": "集团架一 SKU 13 国销售办放量",
+        "T": "决策在 Riga,本地易止于接待"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)",
+      "question": "集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)",
+      "tag": "爱沙尼亚|Tallinn|ELKO系|集团前台|防双头",
+      "email": "Hi ELKO Eesti team,\n\nELKO Group with offices across 13 countries needs little introduction - and we note your Estonian desk is the local front of the Riga flow. A documented value-tier PoE switch is exactly the sort of stocking SKU a group line card can move across several sales offices at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.\n\nOne question: for the group line card, who fills the 24-port PoE value slot today - and should purchasing conversations go to Riga centrally? (We are also in touch with the WESTech desk, so we would rather coordinate than duplicate.)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 集团架 SKU 页",
+        "D+14 info@elko.ee 开口(点明 WESTech 协同)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-304",
+      "fact": "H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com)",
+      "inference": "Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架",
+      "hypothesis": "开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句",
+      "evidence": [
+        {
+          "dim": "自述",
+          "quote": "FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove",
+          "source": "https://fortshpejt.com/care"
+        },
+        {
+          "dim": "集团关联",
+          "quote": "Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com",
+          "source": "https://hitcom.mk/consumer/"
+        }
+      ],
+      "unknowns": [
+        "H2 与 Hitcom 股权/集团关系",
+        "网通谱现存档位"
+      ],
+      "swot": {
+        "S": "Hitcom 系+自营电商",
+        "W": "科索沃市场薄",
+        "O": "巴尔干分销家族谱放量",
+        "T": "关联未证/体量小"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "Hitcom 系电商谱的商用 PoE 补位档",
+      "question": "你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)",
+      "tag": "科索沃|Prishtina|Hitcom系|电商",
+      "email": "Hi FortShpejt team,\n\nH2 Holding running its own e-commerce shelf in Prishtina, with the Hitcom family behind it across the Balkans - a distribution family that knows how a well-documented value SKU moves through a regional network.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.\n\nOne question: on your networking shelf, whose 24-port managed PoE switch fills the value slot today? (And a quick one: should we treat H2 and Hitcom as the same group for follow-ups?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 电商谱 PoE 页",
+        "D+14 info@fortshpejt.com 开口(附 Hitcom 确认)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-305",
+      "fact": "Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**)",
+      "inference": "全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开",
+      "hypothesis": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:科索沃唯一 MikroTik 认证顾问;jetoonsyla@gmail.com",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "谱系自选权重"
+      ],
+      "swot": {
+        "S": "全国唯一=壁垒",
+        "W": "个人体量小",
+        "O": "顾问指定权大",
+        "T": "单靠一人节奏"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "全国唯一顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给项目配网络时,PoE 交换机现指定哪家?",
+      "tag": "科索沃|顾问|全国唯一|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(唯一顾问工具箱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-307",
+      "fact": "ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt)",
+      "inference": "€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈",
+      "hypothesis": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动",
+      "evidence": [
+        {
+          "dim": "体量",
+          "quote": "In 2025, ACC Distribution generated revenue of €394.49M and net profit of €5.75M … Kaunas, Raudondvario pl. 131B",
+          "source": "https://scoris.lt/en/imone/135150085"
+        },
+        {
+          "dim": "谱系",
+          "quote": "ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … over 200 team members",
+          "source": "https://accdistribution.eu/news/acc-distribution-was-recognized-with-four-awards/"
+        }
+      ],
+      "unknowns": [
+        "网通谱现存 PoE 档位与价位带",
+        "新 vendor 入驻门槛(MOU/返点)"
+      ],
+      "swot": {
+        "S": "€394M 集团+三国七点+物流奖",
+        "W": "大谱动线慢,新品上架周期",
+        "O": "一条 SKU 三国放量",
+        "T": "谱内既有大牌(IT 全线)挡门"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "波罗的海巨头集团架的 value stocking PoE SKU",
+      "question": "你们的网通谱里,24 口 PoE 管理型 value 档现存否?(vendor 入驻走 Kaunas 统一谈吗?)",
+      "tag": "立陶宛|Kaunas|Acme系|€394M|三国七点",
+      "email": "Hi ACC Distribution team,\n\nAn ACME Grupė member moving 20,000 SKUs from 300+ vendors across Lithuania, Latvia and Estonia, with a Best Logistics Distributor award on the shelf - you know exactly what a documented, keenly-priced stocking SKU is worth when it sells in three countries at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit for your networking line, white-label friendly.\n\nOne question: in your networking line-up, is the 24-port PoE value slot already filled - and do new-vendor conversations go through the Kaunas desk centrally?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 集团架 SKU 页",
+        "D+14 info@accdistribution.lt 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-311",
+      "fact": "UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko.lt)",
+      "inference": "ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达",
+      "hypothesis": "开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路",
+      "evidence": [
+        {
+          "dim": "法人",
+          "quote": "ELKO Lietuva, UAB … In 2024, the sales revenue … 850 728 Eur … 13 … foreign majority ownership",
+          "source": "https://scoris.lt/en/imone/110604815"
+        },
+        {
+          "dim": "集团",
+          "quote": "ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland",
+          "source": "https://en.wikipedia.org/wiki/Elko_Grupa"
+        }
+      ],
+      "unknowns": [
+        "采购层级(Riga 中央 vs 国别)",
+        "与 WESTech/B-285 开口的集团内协同"
+      ],
+      "swot": {
+        "S": "$2B 集团嫡系",
+        "W": "国别壳小",
+        "O": "集团架放量",
+        "T": "决策归于 Riga"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)",
+      "question": "集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)",
+      "tag": "立陶宛|Kaunas|ELKO系|集团前台|防双头",
+      "email": "Hi ELKO Lietuva team,\n\nYour Kaunas desk is the Lithuanian front of the ELKO Group flow - and a documented value PoE SKU is the kind of line a group line card can carry across several sales offices at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.\n\nOne question: who fills the 24-port PoE value slot on the group line card today, and does purchasing sit with Riga centrally? (We are also in touch with the WESTech and ELKO Eesti desks - coordinating, not duplicating, is exactly our intent.)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 集团架 SKU 页",
+        "D+14 info@elko.lt 开口(点明 B-285/WESTech 协同)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-313",
+      "fact": "Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;office@dipolnet.ro)",
+      "inference": "CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在",
+      "hypothesis": "开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话",
+      "evidence": [
+        {
+          "dim": "集团",
+          "quote": "Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene … parte din grupul DIPOL, activ din 1990 şi prezent în peste 40 de ţări, cu un portofoliu de peste 2000 de produse",
+          "source": "https://www.dipolnet.ro/"
+        },
+        {
+          "dim": "类目",
+          "quote": "CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere … switch-uri … DVR/NVR",
+          "source": "https://www.dipolnet.ro/"
+        }
+      ],
+      "unknowns": [
+        "CCTV 谱 PoE 供电现供牌",
+        "集团 OEM 心智是否延到网络件"
+      ],
+      "swot": {
+        "S": "CCTV 专谱+集团自有制造",
+        "W": "罗马尼亚站依附 Kraków 中枢",
+        "O": "相机谱 DIN PoE 轨+集团 OEM 侧线",
+        "T": "自有品牌倾向选白牌时审视严"
+      },
+      "p1": "STI-288GP",
+      "p1_reason": "DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)",
+      "question": "你们的 CCTV 项目柜/天桥箱里,DIN 轨工业 PoE 交换机现随哪家?(集团层面对网络件有 OEM 合作吗?)",
+      "tag": "罗马尼亚|București|DIPOL系|CCTV谱|自有天线厂",
+      "email": "Hi Dipol Connect team,\n\nDIPOL has supplied CCTV and low-voltage systems across 40+ countries since 1990 - and being both a distributor and an antenna manufacturer, you understand the second-source and OEM conversation from both sides of the table.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your camera projects, white-label friendly and open to OEM terms.\n\nOne question: in your CCTV project cabinets, which DIN-rail industrial PoE switch feeds the cameras today - and does group-level purchasing leave room for a documented second source or OEM variant?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 CCTV 柜 DIN PoE 页",
+        "D+14 office@dipolnet.ro 开口(附集团 OEM 问句)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-315",
+      "fact": "George Lupulescu(georgelupulescu@gmail.com;+40 771 607 498;**MikroTik 认证顾问 MTCNA+MTCRE**;全栈网络工程师,15+ 年经验)",
+      "inference": "个人顾问型:方案/采购/运维一体,项目谱自主选型",
+      "hypothesis": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;全栈网络工程师,15+ 年经验",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "谱系自选权重"
+      ],
+      "swot": {
+        "S": "15 年全栈双证",
+        "W": "个人体量小",
+        "O": "顾问指定权大",
+        "T": "点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+      "tag": "罗马尼亚|顾问|MTCNA+MTCRE|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(顾问工具箱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-319",
+      "fact": "Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全**)",
+      "inference": "顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高",
+      "hypothesis": "开口角度=「顾问工具箱 value 档(无线场点 PoE 随单扣)」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE;SME/SOHO 网络设计实施支持;无线设计部署/PtP/Hotspot/站点隧道/网络安全",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "无线谱 PoE 需求强度"
+      ],
+      "swot": {
+        "S": "门面+双证",
+        "W": "个人体量小",
+        "O": "无线场点 PoE 随单",
+        "T": "点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你做无线/SME 项目时,PoE 交换机现随哪家?",
+      "tag": "罗马尼亚|顾问|MTCNA+MTCSE|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(无线场点 PoE 随单扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-320",
+      "fact": "TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro)",
+      "inference": "罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高",
+      "hypothesis": "开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层",
+      "evidence": [
+        {
+          "dim": "谱系",
+          "quote": "distribuitor oficial pentru o gamă variată … peste 40 de producători … Hikvision, Honeywell, Uniview, Microtik, TRENDnet, UniPos, Motorline, Optex … adresate exclusiv instalatorilor și integratorilor de profil",
+          "source": "https://www.linkedin.com/company/telesystem.romania"
+        },
+        {
+          "dim": "布局",
+          "quote": "puncte de prezență și spații logistice în Bacău, București, Cluj și Iași",
+          "source": "https://rocketreach.co/telesystem-profile_b402d648fc0a032a"
+        }
+      ],
+      "unknowns": [
+        "安防谱 PoE 供电现供牌",
+        "产品经理 Cosa 是否直达采购"
+      ],
+      "swot": {
+        "S": "40-70 牌安防 VAD+四点物流",
+        "W": "PoE 档可能已被 Hikvision 谱占",
+        "O": "安装商客层 PoE 高频复购",
+        "T": "谱内大品牌挤压"
+      },
+      "p1": "STI-288GP",
+      "p1_reason": "安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)",
+      "question": "你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?",
+      "tag": "罗马尼亚|Bacău|安防VAD|Hikvision/Uniview谱|具名Cosa",
+      "email": "Hi Stefan,\n\nForty-plus manufacturers on the Hikvision/Uniview shelf and a four-city logistics backbone - your installer base deploys cameras every week, and every camera cluster needs a rail PoE switch that holds in the cabinet.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your installer-facing catalog, white-label friendly.\n\nOne question: in your surveillance cabinets and outdoor boxes, which DIN-rail industrial PoE switch feeds the cameras today - and is there a value slot beside the current line?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 监控柜 DIN PoE 页",
+        "D+14 comenzi@telesystem.ro 开口(角度具名 Stefan Cosa 产品线)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-452",
+      "fact": "Camacho - Engenheiros(engenheiros.pt;camacho@engenheiros.pt;+351 965 869 277;**MikroTik 认证顾问**;「Engenheiros」=工程师门户域名)",
+      "inference": "葡萄牙个人顾问:「工程师」门户域名为个体品牌,项目谱自主选型",
+      "hypothesis": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问;camacho@engenheiros.pt",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "活跃佐证"
+      ],
+      "swot": {
+        "S": "工程师门户域具备记忆点",
+        "W": "个人体量小",
+        "O": "顾问指定权大",
+        "T": "点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+      "tag": "葡萄牙|顾问|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(顾问工具箱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-455",
+      "fact": "Rogério Costa(costa_rogerio@yahoo.com;+351 914 846 382;**MikroTik 认证顾问 MTCNA+MTCIPv6E(IPv6 方向)**;RouterOS 基础设施运维/设计/实施/排障/优化;LinkedIn 在册;英西葡三语)",
+      "inference": "IPv6 向个人顾问:基础设施项目谱,西语覆盖=葡+西双市场合作潜力",
+      "hypothesis": "开口角度=「顾问工具箱 value 档(IPv6 项目谱)」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E;RouterOS 运维/设计/实施/排障/优化;英西葡三语;LinkedIn",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "IPv6 谱客户类型"
+      ],
+      "swot": {
+        "S": "IPv6 专长+三语",
+        "W": "个人体量小",
+        "O": "IPv6 改造谱随单",
+        "T": "点名率低"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "认证顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你做基础设施/IPv6 项目时,PoE 交换机现随哪家?",
+      "tag": "葡萄牙|顾问|MTCIPv6E|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(IPv6 基础设施谱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-456",
+      "fact": "TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt)",
+      "inference": "葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚",
+      "hypothesis": "开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰",
+      "evidence": [
+        {
+          "dim": "名录",
+          "quote": "TRUENET Distributor in Portugal Tel: +351 936 794 301 info@truenet.pt www.truenet.pt",
+          "source": "https://www.ligowave.com/distributors/europe"
+        },
+        {
+          "dim": "圈层",
+          "quote": "Expositores … Truenet (Portugal)",
+          "source": "https://mum.mikrotik.com/2019/PT/exhibitors/PT"
+        }
+      ],
+      "unknowns": [
+        "无线谱旁交换档位现供",
+        "LigoWave 谱占比"
+      ],
+      "swot": {
+        "S": "MUM 展商+LigoWave 官分",
+        "W": "单国单体",
+        "O": "WISP/无线安装商 PoE 随单",
+        "T": "同圈 Officelan 等竞争"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "无线专精 VAD 的客层 PoE 随单位",
+      "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?",
+      "tag": "葡萄牙|Porto|LigoWave官分|MUM展商",
+      "email": "Hi TRUENET team,\n\nA MikroTik MUM Portugal exhibitor and the LigoWave desk for the country - your WISP and wireless installer customers climb towers and build node cabinets, and every site needs dependable PoE switching behind the radios.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.\n\nOne question: for your WISP and wireless installer customers, which PoE switch stocks their sites today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 无线客层 PoE 页",
+        "D+14 comercial@truenet.pt 开口(MUM 圈层提)",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-485",
+      "fact": "ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/VMware/Microsoft+通信基础设施;LinkedIn 宣示「ORing as our trusted distributor」——ORing 工业交换机谱在海湾区的落地承接;**contact@ict-international.ae)",
+      "inference": "海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱",
+      "hypothesis": "开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "Over 17 years of extensive experience in System Integration, we are a specialist IT and Telecom Value Added Re-seller for Telcos, Enterprise and SMEs",
+          "source": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753"
+        },
+        {
+          "dim": "谱系",
+          "quote": "we are proud to have ORing as our trusted distributor … Datacenters, Virtualization, Cisco, VMWare, and Microsoft",
+          "source": "https://www.linkedin.com/company/ictintl"
+        }
+      ],
+      "unknowns": [
+        "ORing 谱在手价位带与覆盖行业",
+        "工业/轨道项目在香港湾在手量"
+      ],
+      "swot": {
+        "S": "ORing 谱+Telco/Enterprise VAR",
+        "W": "海湾项目周期场长",
+        "O": "1/3 价二源直对 ORing 谱空档",
+        "T": "海湾付款/代理体系壁垒"
+      },
+      "p1": "STI-288GP",
+      "p1_reason": "ORing 谱海湾 VAR 的工业 PoE value 二源位",
+      "question": "你们的 ORing 谱旁,工业 DIN 轨 PoE 是否有 documented value 档二源?",
+      "tag": "阿联酋|Dubai|ORing谱|Telco/Enterprise VAR|1/3价二源",
+      "email": "Hi ICT International team,\n\nSeventeen years of systems integration for telcos and enterprises, with ORing industrial networking on the line card - you know exactly where projects walk away from premium rail-mount prices, and where a documented value second source wins by being honest about what it is.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - same-class rail PoE at roughly a third of the premium line, fully open to an OEM variant under your terms.\n\nOne question: beside your ORing shelf, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open for the Gulf projects?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 ORing 旁二源页",
+        "D+14 contact@ict-international.ae 开口",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-487",
+      "fact": "Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu)",
+      "inference": "**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销",
+      "hypothesis": "开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "niche ICT Services Provider … Enterprise Resource Planning, Web Development and Content Management Systems, and Enterprise Technology Management … Valletta, Malta, and London",
+          "source": "https://www.accreda.eu/about-us"
+        },
+        {
+          "dim": "谱系",
+          "quote": "Microsoft Dynamics NAV / 365 Business Central ERP Solutions",
+          "source": "https://www.crunchbase.com/organization/accreda"
+        }
+      ],
+      "unknowns": [
+        "已激活项目实施量",
+        "网络件自选权重"
+      ],
+      "swot": {
+        "S": "ERP 实施谱+双办公点",
+        "W": "网络非主业",
+        "O": "ERP 项目机房谱随单",
+        "T": "单量不支撑分销形态"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "判型校正:ERP/ICT 服务商备养,按顾问/集成商模板激活",
+      "question": "(先验活跃)你们 ERP/机房项目实施中,PoE 交换件现随哪家?",
+      "tag": "马耳他|Valletta|ERP服务商|判型校正|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问/集成商模板出信(ERP 项目机房谱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-489",
+      "fact": "WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com)",
+      "inference": "**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带",
+      "hypothesis": "开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardware Sourcing … LAN/WAN/Wi-Fi Design … Telephony",
+          "source": "https://www.wstsystems.com/"
+        }
+      ],
+      "unknowns": [
+        "在手服务项目量",
+        "采购自选权重与谱系"
+      ],
+      "swot": {
+        "S": "28 年老号稳定",
+        "W": "非分销,体量小",
+        "O": "LAN/Wi-Fi/电话项目 PoE 自选件",
+        "T": "单量不支持分销形态"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "判型校正:IT 服务商备养,按顾问/集成商模板激活",
+      "question": "(先验活跃)你们 LAN/Wi-Fi/电话项目里,PoE 交换件现随哪家?",
+      "tag": "马耳他|Birkirkara|IT服务商|判型校正|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问/集成商模板出信(LAN/Wi-Fi/电话项目谱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-490",
+      "fact": "Andrey Glushchenko - Core-Bridge(AndreiGL@core-bridge.me;core-bridge.me;+382 068 176 243;**黑山唯一 MikroTik 认证顾问(MTCNA+MTCSE)**;英俄塞三语)",
+      "inference": "黑山独家稀缺顾问:国门小国顾问=政企/ISP 项目绕不开的人",
+      "hypothesis": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "CSV:黑山唯一 MikroTik 认证顾问 MTCNA+MTCSE;英俄塞三语;core-bridge.me",
+          "source": "客户名单_反向信号_2026-09.csv"
+        }
+      ],
+      "unknowns": [
+        "在手项目量",
+        "活跃佐证"
+      ],
+      "swot": {
+        "S": "全国唯一+自有门面域",
+        "W": "个人体量小",
+        "O": "顾问指定权大",
+        "T": "单靠一人节奏"
+      },
+      "p1": "CONSULT-OEM",
+      "p1_reason": "全国唯一顾问备养:活跃验证后按顾问价值模板激活",
+      "question": "(先验活跃)你给黑山项目配网络时,PoE 交换机现指定哪家?",
+      "tag": "黑山|顾问|全国唯一|三语|备养",
+      "email": "【备养】活跃验证(D+7)后按顾问价值模板出信(唯一顾问工具箱 value 档扣)。",
+      "followups": [
+        "D+7 活跃度快验",
+        "D+30 果归守档"
+      ]
+    },
+    {
+      "code": "B-491",
+      "fact": "Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com)",
+      "inference": "WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽",
+      "hypothesis": "开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页",
+      "evidence": [
+        {
+          "dim": "身份",
+          "quote": "Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa",
+          "source": "https://netmont.me/mikrotik.html"
+        },
+        {
+          "dim": "名录",
+          "quote": "Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376",
+          "source": "https://altostrat.io/buying/hardware/resellers/europe/montenegro"
+        }
+      ],
+      "unknowns": [
+        "场点自建谱 PoE 档位现供",
+        "分销谱与自用谱占比"
+      ],
+      "swot": {
+        "S": "独家 Master+自营 WISP",
+        "W": "国小网小",
+        "O": "自用+分销双谱 PoE 随单",
+        "T": "总量天花板低"
+      },
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "独家 Master+WISP 自营的双谱 PoE 随单位",
+      "question": "你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?",
+      "tag": "黑山|Bar|独家Master|WISP自营",
+      "email": "Hi Netmont team,\n\nA licensed wireless ISP covering Montenegro and the country's Master MikroTik distributor at the same time - your own sites need PoE behind the radios, and your reseller customers need a documented unit on their shelves too.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.\n\nOne question: for your own PoP sites and your reseller line, which 24-port managed PoE switch do you run today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "followups": [
+        "D+3 WISP 场点谱 PoE 页",
+        "D+14 info@setehnica.com 开口",
+        "D+30 果归守档"
+      ]
+    }
+  ]
+}

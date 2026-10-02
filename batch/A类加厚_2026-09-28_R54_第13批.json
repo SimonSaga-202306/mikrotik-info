@@ -1,0 +1,1457 @@
+{
+ "date": "2026-09-28",
+ "round": "R54",
+ "batch": 13,
+ "scope": "A 类深度加厚 + 3 步跟进计划（第 13 批：A-241–A-260；波兰 5 / 葡萄牙 2 / 荷兰 2 / 法国 2 / 匈牙利 2 / 奥 1 / 捷 1 / 瑞典 1 / 意 1 / 西 1 / 挪 1 / 芬兰 1 —— 以 MikroTik 官方培训师/顾问生态为主（约 12 户持 MTCSWE），Perle 授权/深绑分销 5 户，失联弱线索 3 户）。",
+ "method": "fetch_page 全库 20 户官网/商城/联系页（2026-09-28）；无站失联三户（A-249/A-251/A-258）用 CSV 9-27 记录为唯一证据面、泄密处如实标「leads-only/local-legacy」；MTCSWE 培训师/顾问 12 户按教师身份尊重打法：只谈本人工程/实验台自用演示机、不打学员名单、不提替代；多厂商培训院（lo0）Grandstream/Huawei 交换课=实验室硬件真实消耗，仅邀请自用体验；公共资金培训渠道划出不涉：MWTC/CS EDU IDET 的 dofinansowanie 公共补贴课、lo0 的 FUNDAE、MacSoft 的 Demján 程序支持面；公立/医疗学员面（MikroTrain 客户墙 rijksoverheid/UMCG 等）不经由我们；Perle 深绑五户不置位：The Junction（官网供应商页坐实 Perle/Phoenix Contact group）、Timeless（三连 Perle 新闻主推）、Connect Data、DSSI、Noriak——只做类目空档（商业 L2+ 24 口/低价位工业档）与窄线；The Junction 的 ATC 空管与军规显示面完全不碰；同站双档协调：A-243（个人，公共登记 gmail）与 A-252（公司，biuro@）统一只经 biuro@ 一封兼致两位教练、两档互注不重发；A-259 与 A-260 教师/学员关系互证但各自独立、不代问；分销对口大户直给：Inter Project（Ubiquiti/MikroTik 六牌主代——UNVR 只 6 口 PoE 的监控接入层空档）、TRIOTRONIK（视频渠道 HIKVISION/Avigilon）、Sys-DataCom（区域 ISP=运营商级第二来源）、AxByte（NOC/机房自营）；型号三轮阶梯沿用：STC-424DGGPM-440W（Saga）（24 口 PoE++）/STC-424XGGPM-440W（Saga）（万上联版）/STI-280GE（Saga）（工业非管理 8 口）/STI-480DGGM（Saga）/IS6312XG（工业管理 ERPS）/STI-4240XGGM（Saga）（高密度）。",
+ "records": [
+  {
+   "code": "A-241",
+   "name": "Martin Polainer（TRIOTRONIK）",
+   "country": "奥地利",
+   "city": "Weiz",
+   "site": "triotronik.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.triotronik.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "施泰尔马克 Weiz 的网络分销商自述「der Netzwerkdistributor」，25 周年徽标在页；三大板块 Distribution/Academy/Technologies。",
+     "quote": "TRIOTRONIK - der Netzwerkdistributor ‖ Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution / Academy / Technologies",
+     "url": "https://www.triotronik.com/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "首页轮播 2026 新品与动态密集：HIKVISION 迷你 PTRZ 球机、GHMT 认证 Cat6A SLIM 细跳线、LIGHTWIN DAC/AOC、Avigilon AI 视觉告警、Teltonika ATRM50 车规 5G——视频与车联两条渠道都活。",
+     "quote": "HIKVISION-Mini-PTRZ-Dome-Angebot ‖ GHMT-zertifizierte SLIM Lightpatchkabel ‖ Avigilon Visual Alerts – KI-gestützte On-Premise Videoanalyse ‖ ATRM50 5G-Router von Teltonika für Fahrzeuge, Bus & Bahn",
+     "url": "https://www.triotronik.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "团队页具名业务邮箱 m.polainer@triotronik.com（CSV 9-27：official-named，官网团队页第 2 块正文）。——具名直接对口，勿走总箱。",
+     "quote": "（CSV 2026-09-27 记录）官网团队页第2块正文明确m.polainer@triotronik.com为具名业务邮箱",
+     "url": "https://www.triotronik.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "Weiz 25 年奥地利网络分销（Distribution/Academy/Technologies 三板块）：具名 Polainer 直通。",
+    "产品线与在售品牌": "HIKVISION/Avigilon 视频线+GHMT 线缆认证线+LIGHTWIN DAC/AOC+Teltonika 车规 5G+LIGHTWIN/Lightwin 布线件。",
+    "目标行业与场景": "奥地利视频安防与车联/工业渠道（铁路客车 ATRM50 新闻=轨交带）。",
+    "团队与规模": "中型分销（自有学院与技术团队）。",
+    "决策链与对接人": "m.polainer@triotronik.com（官网团队页具名，CSV 9-27）。",
+    "技术与认证": "（分销职能型；GHMT 认证线缆线=对认证文件敏感）。",
+    "采购与供应链信号": "视频渠道在手（HIKVISION/Avigilon）=监控 PoE 接入层天然搭载；车规/轨交侧工业宽温件旁位。",
+    "近期动态与线索": "2026 ui-enterprise-roadshow 报名轮播=渠道活动活跃，上新窗口常态。",
+    "与我方契合点": "24 口监控 PoE++ 接入层上架视频渠道；轨交/大巴现场宽温件；DAC/SFP 配件互补。",
+    "风险与注意": "视频牌有其 HIKVISION/Avigilon 自有位——我们只交接入层与配件，不碰摄像机。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 给具名 Polainer 的分销上架一页（监控 PoE）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "直发具名口：搭载其 HIKVISION/Avigilon 视频渠道的 24 口监控 PoE 接入层分销上架提案（分销条件+阶梯价）。",
+     "question": "视频项目的接入层 PoE 目前由哪家供应？开供应商评估位吗？",
+     "proof": "分销提案一页（德）+ 规格/证书包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 轨交/车联侧工业宽温件",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "呼其 Teltonika ATRM50 车规新闻：车辆/轨交现场的宽温接入小件与收发器。",
+     "question": "车联/轨交项目的现场宽温件有货架位吗？",
+     "proof": "宽温件一页（德）+ 振动/温度参数。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · DAC/SFP 配件互补链",
+     "product": "DAC/AOC 线缆 + SFP/SFP+ 模块目录",
+     "angle": "LIGHTWIN DAC/AOC 邻位的光铜配件：以我们的 SFP/收发器补其高速互连目录。",
+     "question": "高速互连配件线有补 25G/40G 低价位需求吗？",
+     "proof": "兼容表 + 配件一页价卡。"
+    }
+   ],
+   "note": "施泰尔马克 25 年网络分销（具名 Polainer；视频+车联双渠道）。3 步：监控 PoE 上架 → 车联宽温件 → DAC/SFP 互补。"
+  },
+  {
+   "code": "A-242",
+   "name": "Mikrotik Warsaw Training Center（MWTC）",
+   "country": "波兰",
+   "city": "Warsaw",
+   "site": "mwtc.pl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://mwtc.pl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "华沙官方 MikroTik 培训中心+多品牌认证课（Zabbix/Ubiquiti 官方）与自研课（Linux/Proxmox/VoIP/LoRa/Grafana），**另有基础设施审计/实施/支持/咨询业务线**（不止培训）。",
+     "quote": "Certyfikowane szkolenia MikroTik | Zabbix | Ubiquiti ‖ Audyty infrastruktury · Wdrożenia · Wsparcie · Doradztwo",
+     "url": "https://mwtc.pl/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "三地点（华沙中心/波兹南/琴斯托霍瓦），认证教练+工程师团队；可上门专场课。",
+     "quote": "Doświadczona kadra certyfikowanych trenerów i inżynierów · Lokalizacje - centrum Warszawy, Poznań, Częstochowa · Szkolenia dedykowane w siedzibie Klienta",
+     "url": "https://mwtc.pl/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "主页明示「Możliwość dofinansowania do 100%」（可获公共资金补贴至 100%）——补贴课渠道对应公共资金面，该面划出不涉、只走商业实施/实验硬件线。",
+     "quote": "Możliwość dofinansowania do 100%",
+     "url": "https://mwtc.pl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "华沙三地点 MikroTik 官方培训中心（M.Filipek/P.Wasyk/I.Hreskiv，CSV 记 MTCSWE）——**培训+实施双业态**。",
+    "产品线与在售品牌": "MikroTik 官方全课+Zabbix+Ubiquiti 官方认证课+自研 Linux/Proxmox/VoIP/LoRa/Grafana。",
+    "目标行业与场景": "波兰 IT 管理员学员群；其实施线承接基础设施项目。",
+    "团队与规模": "中型培训实施一体（三地点+上门专场）。",
+    "决策链与对接人": "info@mwtc.pl（官网正文，CSV 9-27）；+48 796…。",
+    "技术与认证": "MikroTik 官方培训中心资质；MTCSWE 在持（CSV）。",
+    "采购与供应链信号": "实施线（Wdrożenia）=真实拿件口；实验室真机环境=演示件位（真机上做 MTCSWE 交换课）。",
+    "近期动态与线索": "课程矩阵蔓延到 Proxmox/Grafana/LoRa=客户群从网管扩到运维全栈。",
+    "与我方契合点": "实施项目的接入层第二来源+MTCSWE 交换课实验室演示机。",
+    "风险与注意": "dofinansowanie 公共资金补贴课面不经由我们；尊重教师身份，不向学员名单推销。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 实施线接入层第二来源+MTCSWE 实验室演示机",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+，演示机可选）",
+     "angle": "两路邀：给实施团队的接入层第二来源价卡（波兰语）；为 MTCSWE 交换课留一台演示机跑真机实验。",
+     "question": "实施项目的接入层有第二来源位吗？MTCSWE 课需要 24 口 PoE 演示机吗？",
+     "proof": "波兰语一页价卡 + 演示机条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 客户现场宽温小件",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）",
+     "angle": "其部署/support 线的现场级宽温小件与 LoRa 项目旁位。",
+     "question": "客户现场有厂房/户外宽温环境吗？",
+     "proof": "宽温件一页 + CE。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档、培训业务互不打扰；无回复即冻结。",
+     "question": "（无需回）价卡留档，以后按项目报。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "华沙三地点培训中心（培训+实施双线；补贴课公共资金面划出）。3 步：实施线第二来源+演示机 → 现场宽温件 → 留档收口。"
+  },
+  {
+   "code": "A-243",
+   "name": "Tadeusz Ruchlewicz",
+   "country": "波兰",
+   "city": "Rzeszów",
+   "site": "csidet.edu.pl（与 A-252 同站）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://csidet.edu.pl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "技术与认证",
+     "text": "官网正文自述 Certified MikroTik Trainer、**十证齐全：MTCNA→MTCEWE 含 MTCSWE**（同页并列 A-252 Kajetan Tadra，二人同团队十证）。",
+     "quote": "Tadeusz Ruchlewicz — Certyfikowany Trener MikroTik, Administrator Sieci. MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCINE, MTCIPv6E, MTCSE, MTCSWE, MTCEWE. Tel: +48 604 922 386",
+     "url": "https://csidet.edu.pl/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "主页密布 PARP 发展服务库（Baza Usług Rozwojowych）co-financing 至 100% 链接——其培训业务深度依赖公共资金渠道，该渠道面划出不涉。",
+     "quote": "Dofinansowanie na nasze usługi w wysokości do 100% wartości（Baza Usług Rozwojowych 链接群）",
+     "url": "https://csidet.edu.pl/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "个人 gmail 具名 tadeusz.ruchlewicz@gmail.com 系**公共服务商登记来源**（CSV 9-27：public-register，非私人直邮性质）——个档触达建议统一经 A-252 的公司箱 biuro@，两档互注不重复发。",
+     "quote": "（CSV 2026-09-27 记录）tadeusz.ruchlewicz@gmail.com（公共服务商登记具名）；CS EDU IDET 同站同团队",
+     "url": "https://csidet.edu.pl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "热舒夫 MikroTik 十证培训师（官网正文自述，二人团队其一）；CS EDU IDET 双主体（个体+Sp. z o.o. 两 NIP 并列页）。",
+    "产品线与在售品牌": "网络管理培训+实施服务（PARP 补贴课目录型）。",
+    "目标行业与场景": "热舒夫大区 Podkarpackie 学员与公共补贴培训渠道（该面划出）。",
+    "团队与规模": "二人教练团队（Cs Edu Idet）。",
+    "决策链与对接人": "tadeusz.ruchlewicz@gmail.com（公共服务商登记，CSV 9-27）；+48 604 922 386；**统一触达建议走 A-252 biuro@**。",
+    "技术与认证": "十证 MikroTik Trainer（主页正文）。",
+    "采购与供应链信号": "教练/实施兼职型硬件需求：自用项目+实验室环境小件。",
+    "近期动态与线索": "站 2026-09 活跃（补贴目录滚动）但业态以公共补贴课为主——商业口窄。",
+    "与我方契合点": "尊重型轻触：本人工程/实验用演示机一台位。",
+    "风险与注意": "公共补贴培训渠道不涉；与 A-252 同站同队，只经一封、两档互注。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 经公司箱一封（两档互注）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）",
+     "angle": "一封到 biuro@csidet.edu.pl、抬头兼致两位教练：实验/自用工程用 24 口 PoE++ 一台体验位；本档不另发。",
+     "question": "两位教练自己的实验/工程项目用得上 24 口 PoE 演示机吗？",
+     "proof": "波兰语一页规格 + 演示机条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：备件小批",
+     "product": "STI-280GE（Saga） + SFP 配件小批",
+     "angle": "现场备件小批价卡（按其 region 工程零碎需求）。",
+     "question": "现场备件有没有常备需求？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "尊重教师身份：无回复不再自动化跟进。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "热舒夫十证培训师（与 A-252 同站同队；公共补贴课渠道划出；只经一封不重复发）。3 步：一封兼致 → 有回复才续 → 冻结。"
+  },
+  {
+   "code": "A-244",
+   "name": "Bartłomiej Rodek（Inter Project）",
+   "country": "波兰",
+   "city": "Gliwice",
+   "site": "interprojekt.pl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://interprojekt.pl/pl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "格利维采 WISP 头部分销：页题自述 **Ubiquiti/MikroTik/RF-Elements/Interline/Jirous/Stonet 主分销商（Główny dystrybutor）**——无线侧六牌主代结构。",
+     "quote": "Inter Projekt Sieci Bezprzewodowe, Główny dystrybutor Ubiquiti, Mikrotik, RF-Elements, Interline, Jirous, Stonet.",
+     "url": "https://interprojekt.pl/pl/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "商城货架 Ubiquiti 全家（UNVR-Instant 6×GbE PoE NVR、UCG-Fiber 10G 路由、U7 系列 WiFi7、G6 炮塔 PoE 摄像头）+ MikroTik 新品（Chateau 5G、wAP LR9G）+ 光纤线缆线（AirFlow/Aramid/**DAC**）。",
+     "quote": "UNVR Instant ... wbudowany switch PoE 6x GbE RJ45 ‖ Cloud Gateway Fiber — router 10G ‖ 5G Max — Modem 5G ... Zasilanie PoE ‖ fiberOpticCable/AirFlow/Aramid/DAC",
+     "url": "https://interprojekt.pl/pl/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "orders@interprojekt.pl 关联公司官网订单箱（CSV 9-27：official-company；个人归属限制按 CSV 备注）。",
+     "quote": "（CSV 2026-09-27 记录）orders@interprojekt.pl（关联公司官网入口；现官网交易条款正文）；Inter Project",
+     "url": "https://interprojekt.pl/pl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "波兰 WISP 六牌主代分销（Ubiquiti/MikroTik 双锚）——**本批含金量最高分销户之一**。",
+    "产品线与在售品牌": "Ubiquiti UniFi 全家+MikroTik 路由+RF-Elements/Jirous/Interline 天线+光纤线缆 DAC；监控 NVR/摄像头支线活跃。",
+    "目标行业与场景": "波兰 WISP/集成商渠道；UNVR/UVC 监控项目=接入层缺口显著（UniFi 监控交换薄）。",
+    "团队与规模": "中型分销（Magento 大商城+保修延长服务 UI Care）。",
+    "决策链与对接人": "orders@interprojekt.pl（关联公司官网入口，CSV 9-27）。",
+    "技术与认证": "Ubiquiti/MikroTik/RF-Elements/Interline/Jirous/Stonet 主代（页题）。",
+    "采购与供应链信号": "**类目空档精准**：监控项目 24 口大 PoE 接入层（UNVR 只带 6 口）+宽温工业件+大 PoE 预算交换机=其六牌之外真实缺口。",
+    "近期动态与线索": "2026 新品上架节奏（U7/WiFi7/5G Max）=目录滚动期，评估新供应商窗口常在。",
+    "与我方契合点": "24 口监控 PoE++ 接入层补 UNVR/UVC 项目；监控杆/户外宽温件；DAC/SFP 价位补充。",
+    "风险与注意": "Ubiquiti/MikroTik 双锚关系深——只交类目互补件，不提替代；个人档（Rodek）信息按 CSV 限制。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 类目空档：UNVR/UVC 项目 24 口监控 PoE 上架一页",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "直给分销口：UNVR 自带仅 6 口 PoE——15 路以上监控项目的 24 口大 PoE 接入层是现货架之外的空档，一页上架提案（分销条件+阶梯价）。",
+     "question": "监控项目的 24 口接入位现在导购指向哪个型号？",
+     "proof": "一页提案（波/英）+ PoE 预算表 + 证书包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 户外/宽温工业件线",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "WISP 站点/监控杆/机房外的宽温非管理小件与收发器（其天线牌客户群天然需求）。",
+     "question": "站点/杆侧宽温件有上架空档吗？",
+     "proof": "工业件一页 + -40~75°C 参数页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · DAC/SFP 光铜配件价位补",
+     "product": "DAC/AOC + SFP/SFP+/QSFP 目录",
+     "angle": "其 DAC 线缆线的邻位：光铜互连配件价位补（分销目录薄项）。",
+     "question": "SFP/DAC 配件线要补价位档吗？",
+     "proof": "兼容表 + 配件价卡一页。"
+    }
+   ],
+   "note": "格利维采 WISP 六牌主代（监控接入层空档精准=UNVR 只 6 口）。3 步：监控 24 口上架 → 站点宽温件 → DAC/SFP 配件补。"
+  },
+  {
+   "code": "A-245",
+   "name": "Jaromir Cihak（SysDataCom s.r.o.）",
+   "country": "捷克",
+   "city": "Prague",
+   "site": "sys-data.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.sys-data.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "布拉格西/中波地区区域 ISP：自建接线「internet, volání i televize」，自述高速至 10 Gb/s、低延迟至边境节点、24 小时支持。",
+     "quote": "Spolehlivý internet, volání i televize ‖ Nízké latence do hraničních uzlů · Rychlosti až 10 Gb/s ‖ Jsme Vám k dispozici 24 hodin denně.",
+     "url": "https://www.sys-data.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "站点覆盖清单可见 Beroun/Praha/Kladno/Bohemia 大串村镇；评价中明言 60GHz 500/500 无线接入与光纤——自建接入网运营商。",
+     "quote": "Nově udělaná přípojka 60GHZ 500/500 ‖ Pokrytí sítě: Beroun … Kladno … Praha …（百村覆盖清单）",
+     "url": "https://www.sys-data.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "obchod@sys-data.com 关联公司官网商务箱（CSV 9-27：official-company；个人归属/现任职限制按 CSV 备注）。",
+     "quote": "（CSV 2026-09-27 记录）obchod@sys-data.com（关联公司官网入口）；SysDataCom s.r.o.",
+     "url": "https://www.sys-data.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "布拉格西中波区域 ISP（自建光纤+60GHz 无线接入网）——**运营商级买家**。",
+    "产品线与在售品牌": "ISP 家庭/企业三件套（上网/通话/电视）+企业专线；自建 60GHz/光纤接入网。",
+    "目标行业与场景": "网络接入/汇聚层设备消耗方（CPE/楼道交换/乡镇汇聚）。",
+    "团队与规模": "区域中型 ISP（7 天支持团队，百名村镇覆盖）。",
+    "决策链与对接人": "obchod@sys-data.com（关联公司官网商务箱，CSV 9-27）。",
+    "技术与认证": "（运营商职能；CSV：缺 MTCSWE，认证面有但非交换）。",
+    "采购与供应链信号": "楼道/村汇聚的 24 口接入层第二来源；60GHz 站点侧宽温小件；FTTH 收发器/SFP 件。",
+    "近期动态与线索": "口碑页持续新增+覆盖扩张=网络扩建期件量稳定。",
+    "与我方契合点": "接入层第二来源一页直给 NOC/工程口；站点宽温件与光电件。",
+    "风险与注意": "运营商对供货连续性/保修敏感——首封带 RMA/备件条款；个人档 Cihak 按 CSV 限制只走公司箱。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 接入层第二来源一页（楼道/村汇聚）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "给 NOC/工程口：楼道交换与乡镇汇聚位的第二来源（备件/供货连续性随行）。",
+     "question": "楼道/汇聚位的接入交换目前固定配哪个牌？有第二来源位吗？",
+     "proof": "一页报价（捷/英）+ RMA/备件条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 60GHz 站点与户外宽温件",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "60GHz 站点的户外机型柜宽温小件+防雷考虑附件。",
+     "question": "无线站点机柜里的接入小件有宽温级吗？",
+     "proof": "宽温件一页 + 站点典型拓扑图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · FTTH 光件批量",
+     "product": "SFP/收发器 + 分光周边",
+     "angle": "FTTH 扩建的光配件批量供货（CNY 价带）。",
+     "question": "FTTH 项目 SFP/收发器每月消耗量级是？",
+     "proof": "光件批量价卡一页。"
+    }
+   ],
+   "note": "布拉格西区域 ISP（光纤+60GHz 自建网；运营商级第二来源逻辑）。3 步：接入层第二来源 → 站点宽温件 → FTTH 光件批量。"
+  },
+  {
+   "code": "A-246",
+   "name": "Fredrik Hellgren（AxByte）",
+   "country": "瑞典",
+   "city": "Älvsjö",
+   "site": "axbyte.se",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://axbyte.se/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "斯德哥尔摩 Älvsjö 的 Datakom 整包服务商：办公室联网/Co-location 机房托管/**NOC 外包**三条线，自述帮你「superladda」数据通信。",
+     "quote": "Datakom-lösningar – förenklat. ‖ Datakom-tjänster · Co-location · NOC-tjänst — Vi hjälper ert företag med er Nätverksdrift och övervakning.",
+     "url": "https://axbyte.se/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "官网明示扩充节奏：「一直盯着怎么扩产品组合」——供应商上新窗口常态化。",
+     "quote": "Vi tittar hela tiden på hur vi kan utöka vår produktportfölj för att kunna erbjuda just det våra kunder eftersöker.",
+     "url": "https://axbyte.se/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "contact@axbyte.se 关联公司官网普通箱（CSV 9-27：official-company；个人归属限制按备注）；Fredrik Hellgren 持 MTCSWE。",
+     "quote": "（CSV 2026-09-27 记录）contact@axbyte.se（关联公司官网入口）；AxByte官网联系页正文普通邮箱；持 MTCSWE",
+     "url": "https://axbyte.se/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "斯德哥尔摩 Datakom 整合+NOC 外包服务商：自有机房托管线——网络设备自用+项目双消耗位。",
+    "产品线与在售品牌": "网络整包/Co-location/NOC 外包；自述不囤品牌卖服务。",
+    "目标行业与场景": "瑞典中小企网络托管与机房需求客群。",
+    "团队与规模": "小而专团队（blixtsnabb support 自述）。",
+    "决策链与对接人": "contact@axbyte.se（关联公司官网，CSV 9-27）。",
+    "技术与认证": "持 MTCSWE（CSV；个人 Hellgren 名下）。",
+    "采购与供应链信号": "NOC 承接=接入层真实消耗：第二来源一页最合适；机房侧 DAC/SFP 自用件。",
+    "近期动态与线索": "自述「产品组合一直在扩」=上新评估口敞开。",
+    "与我方契合点": "客户网项目 24 口接入层+机房 DAC/SFP 配件。",
+    "风险与注意": "MTCSWE 级技术团队：资料给全参数别水；报价含保修/备件。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · NOC 项目接入层第二来源一页",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "呼其「产品组合一直扩」页语：NOC/客户网项目的 24 口接入层第二来源位（瑞典语/英语一页）。",
+     "question": "客户网项目的接入层目前有第二来源位吗？",
+     "proof": "一页报价+全参数（英）+ 保修条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 机房侧 DAC/SFP 配件",
+     "product": "DAC/AOC + SFP/SFP+ 目录",
+     "angle": "Co-location 机房侧的高速互连配件批量（自用位）。",
+     "question": "机房互连配件走常备还是按项目？",
+     "proof": "DAC/SFP 一页价卡 + 兼容表。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 客户现场宽温件",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）",
+     "angle": "其客户网项目落到厂房/车库类现场的宽温小件。",
+     "question": "客户现场有宽温环境需求吗？",
+     "proof": "工业件一页（英）。"
+    }
+   ],
+   "note": "斯德哥尔摩 NOC/机房服务商（自营机房+「组合一直扩」页语=敞口）。3 步：接入层第二来源 → DAC/SFP 自用 → 现场宽温件。"
+  },
+  {
+   "code": "A-247",
+   "name": "Marco Boschini（Corsi MikroTik）",
+   "country": "意大利",
+   "city": "Lonato (BS)",
+   "site": "corsimikrotik.it",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://corsimikrotik.it/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "意大利首个 MikroTik 在线培训门户自述：全系认证课（含 **MTCSWE – Switching, Bridging, Layer2, multicast, VLAN**）+ MTCNA 2026-11-17/19 开班预告；在线授课+到场考。",
+     "quote": "Corsi MikroTik è il primo portale italiano di formazione online dedicato esclusivamente al mondo MikroTik e RouterOS ‖ MTCNA (RouterOS) 17, 18 e 19 Novembre 2026",
+     "url": "https://corsimikrotik.it/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "课程矩阵十证全（MTCNA/MTCRE/MTCSE/MTCWE/MTCINE/MTCTCE/MTCSWE/MTCIPv6E/MTCEWE）+ Corsi VM 3.0（免费虚拟实验室，内置 GNS3）+ MikroTik Day/La Palestra IP 两档延伸。",
+     "quote": "MTCSWE – Switching, Bridging, Layer2, multicast, VLAN ‖ Corsi MikroTik VM 3.0 — E’ gratis! … include anche il sistema di virtualizzazione dei laboratori GNS 3",
+     "url": "https://corsimikrotik.it/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "电话 030 20 70 503（布雷西亚区号）+ 关联机构 info@hctech.it 官网 (at) 可逆还原（CSV 9-27：official-obfuscated，非个人直邮）。",
+     "quote": "Chiamaci al numero 030 20 70 503 ‖ （CSV 2026-09-27 记录）info@hctech.it（关联机构官网明确(at)还原；非个人直邮）",
+     "url": "https://corsimikrotik.it/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "意大利 MikroTik 第一培训门户（Lonato/Brescia）：Marco 十证含 MTCSWE（CSV）；络合业态=在线课+VM 实验室+Telegram/YouTube 社群。",
+    "产品线与在售品牌": "十证课程+VM 3.0 免费实验室+复习训练体系；无硬件销售线。",
+    "目标行业与场景": "意大利 MikroTik 学员生态；其本人工程/实验附带项目。",
+    "团队与规模": "主理人+课程运营小团队（定期开班至 2026-11）。",
+    "决策链与对接人": "info@hctech.it（关联机构 (at) 可逆，CSV 9-27）；030 20 70 503。",
+    "技术与认证": "持全部十证含 MTCSWE（CSV 9-27）。",
+    "采购与供应链信号": "**MTCSWE 交换课需要真机环境**：演示机供他本人实验自用是唯一合理硬件位——尊重教师、不谈学员渠道。",
+    "近期动态与线索": "2026-11 MTCNA 新班预告=教学排期稳定，业务健康。",
+    "与我方契合点": "本人实验/工程用 24 口 PoE 演示机一台；无回复即冻结。",
+    "风险与注意": "严禁借其门户/学员生态营销；仅一封简短自用位邀请。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 一封短件：自用演示机位",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "angle": "简短一封：尊重您的培训主业；只邀您本人实验/项目用一台 24 口 PoE++ 演示机体验，完全不打学员/课程渠道主意。",
+     "question": "您自己的实验环境用得上 24 口 PoE++ 真机吗？",
+     "proof": "一页规格（意/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：备件小批价卡",
+     "product": "—（按回复定）",
+     "angle": "仅当其回复感兴趣，补全品类价卡与小批条件。",
+     "question": "—",
+     "proof": "全品类一页价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "无回复不再自动化跟进，档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "意大利 MikroTik 第一培训门户（尊重教师身份、只谈自用演示机）。3 步：一封短件 → 有回复才续 → 冻结。"
+  },
+  {
+   "code": "A-248",
+   "name": "Victor Bolaños Guerra（Loopback0 / lo0）",
+   "country": "西班牙",
+   "city": "Las Palmas de Gran Canaria",
+   "site": "lo0.es",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.lo0.es/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "加那利总部、覆盖全西班牙（Madrid/Canarias/Baleares）的 20 年技术培训院：**多厂商官方课矩阵**（MikroTik 十证含 MTCSWE、Ubiquiti UFSP/UWA/URSCA/UBWS/UBWA、**Huawei HCIA Datacom（交换路由）**、**Grandstream GCS/GCP（GWN780x 交换机/GWN70xx 路由课）**、K8s、AI-OPS）。",
+     "quote": "LINUX · KUBERNETES · PYTHON · MIKROTIK · HUAWEI · UBIQUITI ‖ 20 años formando profesionales IT",
+     "url": "https://www.lo0.es/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "新课 AI-OPS（on-prem LLM 运维/ISO 42001/NIS2）上线；实验室平台自述「2 nuevos labs por semana」——硬件实验消耗真实。",
+     "quote": "IA-OPS — Operación y gobierno de sistemas de IA on-premise ‖ Plataforma de laboratorios — 2 nuevos labs por semana con simulaciones reales",
+     "url": "https://www.lo0.es/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "课程走 FUNDAE（西班牙三联基金会公共补贴）流程——补贴培训渠道面划出；只做其实验室硬件自用位。",
+     "quote": "Gestión FUNDAE — Te ayudamos a tramitar la bonificación a través de la Fundación Tripartita.",
+     "url": "https://www.lo0.es/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "西班牙 20 年多厂商培训院（lo0.es 域名梗=lo0 环回口）：Victor 持 MTCSWE（CSV）；**实验硬件真实消耗**。",
+    "产品线与在售品牌": "MikroTik/Ubiquiti/Huawei/Grandstream/K8s/AI 六系课程；实验平台周更 2 lab。",
+    "目标行业与场景": "全西在职工程师学员群（小班 8 人上限）。",
+    "团队与规模": "中型培训院（多厂商官方课资质）。",
+    "决策链与对接人": "info@lo0.es（关联公司官网联系页，CSV 9-27）。",
+    "技术与认证": "MTCSWE（CSV）；多厂商认证教练自述 100% 在职工程师。",
+    "采购与供应链信号": "**Grandstream GWN780x 交换课+Huawei Datacom 课=需要真实交换硬件的实验室**；多厂商中立身份=接受非主卖的实验室演示件略有空间，但只谈自用实验室，不谈向学员转售。",
+    "近期动态与线索": "AI-OPS 新课上线+实验周更=活跃扩张窗口。",
+    "与我方契合点": "交换/路由课实验室的备件+体验装（Grandstream 课程同型钢 24 口 PoE 体验）；办公室/讲师自用位。",
+    "风险与注意": "FUNDAE 公共补贴渠道不涉；多厂商课环境里不提替代谁——只供实验室自用。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 实验室自用位：24 口 PoE 体验装",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）体验装 1 台",
+     "angle": "给实验室平台自用：交换/路由课实验台的 24 口 PoE++ 体验机（西班牙语一页），只谈自用、不涉学员转售。",
+     "question": "实验台现在交换类真机是谁家的？要不要一台 24 口 PoE 体验机自用？",
+     "proof": "一页规格（西）+ 体验机条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：实验备件小批",
+     "product": "SFP/收发器 + 工业小件混批",
+     "angle": "实验室日常消耗的小批备件（光配/小交换）。",
+     "question": "实验备件走常备还是按需？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "尊重教师：无回复不再自动化跟进。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "西班牙多厂商培训院（Grandstream/Huawei 交换课=实验室真机消耗；FUNDAE 补贴渠道划出、只谈自用）。3 步：体验机 → 备件小批 → 冻结。"
+  },
+  {
+   "code": "A-249",
+   "name": "Flavio Gomes Figueira Cama",
+   "country": "葡萄牙",
+   "city": "Aveiro",
+   "site": "（无站；电话-only）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.databox.pt/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 2026-09-27 核验：仅保留原电话 +351 965 869 277（本轮未独立复核）；旧批次邮箱在备注但未获外部验证——**leads-only 失联户，第一步人工核实**。",
+     "quote": "（CSV 2026-09-27 记录）+351 965 869 277（仅保留原电话；旧批次邮箱在备注，未获外部验证）",
+     "url": "https://www.databox.pt/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "持全部十证含 MTCSWE，葡萄牙首位进库（CSV 在库记录）。",
+     "quote": "（CSV 在库记录）持全部十证含 MTCSWE，葡萄牙首位进库",
+     "url": "https://www.databox.pt/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "阿威罗的 MikroTik 十证顾问（CSV 在库资深档）——无站失联，第一步人工。",
+    "产品线与在售品牌": "（独立顾问面，无站可核产品线）。",
+    "目标行业与场景": "葡萄牙企业咨询类。",
+    "团队与规模": "个人顾问。",
+    "决策链与对接人": "+351 965 869 277（原电话，CSV 9-27 记本轮未复核）；**不发旧邮箱**（local-legacy-unverified）。",
+    "技术与认证": "持全部十证含 MTCSWE（CSV 9-27）。",
+    "采购与供应链信号": "葡萄牙首位十证进库=若核活为高价值顾问关系。",
+    "近期动态与线索": "2026-09-27 CSV 记录即最新证据面；本批不做超出记录的断言。",
+    "与我方契合点": "—（待人工核实后再评）。",
+    "风险与注意": "严禁向未验证旧邮箱发件；电话/WhatsApp 人工核实优先。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 人工核实（电话/WhatsApp/LinkedIn）",
+     "product": "—",
+     "angle": "核其现职与活跃领域；确认后启用触点。",
+     "question": "（内部）LinkedIn/WhatsApp 核现职？",
+     "proof": "核实记录存档。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 核活后：资深顾问真诚短件",
+     "product": "STC-424DGGPM-440W（Saga） 演示机（可选）",
+     "angle": "自我介绍+演示机自用位；不提替代任何主卖牌。",
+     "question": "您咨询项目里偶尔需要高性价比接入层吗？",
+     "proof": "一页规格（葡/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结待用户人工处置。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "葡国十证失联户（电话-only 待人工）。3 步：人工核活 → 真诚短件 → 冻结。"
+  },
+  {
+   "code": "A-250",
+   "name": "Péter Major（MacSoft Kft.）",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "site": "macsoft.hu",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://macsoft.hu/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "布达佩斯系统屋六服务：WiFi 设计勘测/IT 咨询/网络设计/网络与服务器运维/MikroTik 官方培训/系统管理员外包——**设计+运维双采购触发位的集成商**。",
+     "quote": "Wifi tervezés és mérés · IT-tanácsadás · Hálózattervezés · Hálózat és szerver üzemeltetés · MikroTik oktatás · Rendszergazda szolgáltatás",
+     "url": "https://macsoft.hu/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "beszerzes@macsoft.hu=**采购（beszerzés）专用箱**（CSV 9-27：official-company）——预算对口直达，别走信息箱。",
+     "quote": "（CSV 2026-09-27 记录）beszerzes@macsoft.hu（关联公司官网入口）；MacSoft",
+     "url": "https://macsoft.hu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "页脚挂 Demján Sándor Program 支持（匈牙利经济计划）——程序支持期=投入扩张窗口（程序资金面按公共资出注意）。",
+     "quote": "A weboldal a Demján Sándor Program keretében és támogatásával valósult meg.",
+     "url": "https://macsoft.hu/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "布达佩斯设计+运维型系统屋（六服务含 MikroTik 官方培训）：**采购专用箱 beszerzes@ 直达**。",
+    "产品线与在售品牌": "WiFi 勘测/网络设计/服务器运维/外包管理员；MikroTik 培训线。",
+    "目标行业与场景": "匈牙利企业网设计与运维项目客群。",
+    "团队与规模": "多学科小团队（无线到服务器到应用开发自述）。",
+    "决策链与对接人": "beszerzes@macsoft.hu（采购箱，CSV 9-27 官网记录）。",
+    "技术与认证": "MikroTik 官方培训线（站页）；持 MTCSWE（CSV 9-27）。",
+    "采购与供应链信号": "**设计=规格定牌、运维=补件消耗**：接入层进其 BOM 位最快；WiFi 勘测热区=PoE AP 配套上行。",
+    "近期动态与线索": "Demján 计划支持+服务目录完整=稳定增长期。",
+    "与我方契合点": "网络设计 BOM 的 24 口 PoE 接入层第二来源+运维备件小批。",
+    "风险与注意": "Demján 程序资金支持面按公共资出注意、该面不经由我们；发送直达采购箱少寒暄。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 直达采购箱：设计 BOM 接入层第二来源一页",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "经 beszerzes@ 直达：其网络设计项目 BOM 的 24 口 PoE 接入层第二来源（匈语/英语一页，规格+交付期+保修一体）。",
+     "question": "设计项目 BOM 里的接入层目前有第二来源位吗？",
+     "proof": "一页报价+规格（匈/英）+ 保修/RMA。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · WiFi 勘测配套 PoE 与运维备件",
+     "product": "STI-280GE（Saga） 等小批",
+     "angle": "WiFi 勘测/运维线的现场小件与备件常备位。",
+     "question": "运维备件池走常备价吗？现场有宽温需求吗？",
+     "proof": "备件小批页 + 宽温参数。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 培训线的中性尊重短件（可选）",
+     "product": "STC-424XGGPM-440W（Saga） 演示机",
+     "angle": "随后短件给其 MikroTik 培训线的自用实验位（与采购主件分开、不打扰课程）。",
+     "question": "培训实验环境用得上演示机吗？",
+     "proof": "演示机条款一页。"
+    }
+   ],
+   "note": "布达佩斯设计+运维系统屋（beszerzes@ 采购箱直达）。3 步：BOM 第二来源 → 勘测/运维备件 → 培训演示机短件。"
+  },
+  {
+   "code": "A-251",
+   "name": "Dávid Csongrádi",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "site": "（无站；电话-only）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://macsoft.hu/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 2026-09-27 核验：仅保留原电话 +36 30 6169819；旧批次邮箱在备注未获外部验证——**local-legacy-unverified 失联户，第一步人工**。",
+     "quote": "（CSV 2026-09-27 记录）+36 30 6169819（仅保留原电话；旧批次邮箱在备注，未获外部验证）",
+     "url": "https://macsoft.hu/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "证书面广但缺 MTCSWE（CSV 9-27 记录）——非交换专长向。",
+     "quote": "（CSV 2026-09-27 记录）证书面广但缺 MTCSWE",
+     "url": "https://macsoft.hu/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "布达佩斯 MikroTik 顾问（缺 MTCSWE）——无站失联，第一步人工核实。",
+    "产品线与在售品牌": "（无站可核）。",
+    "目标行业与场景": "匈牙利企业咨询类。",
+    "团队与规模": "个人顾问。",
+    "决策链与对接人": "+36 30 6169819（原电话，CSV 9-27）；**不发旧邮箱**（local-legacy-unverified）。",
+    "技术与认证": "证书面广但缺 MTCSWE（CSV）。",
+    "采购与供应链信号": "失联状态：核活后才评价值。",
+    "近期动态与线索": "本批不做超出 CSV 记录的断言。",
+    "与我方契合点": "—（待人工核实后再评）。",
+    "风险与注意": "严禁向未验证旧邮箱发件；电话/LinkedIn 人工核实优先。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 人工核实（电话/LinkedIn）",
+     "product": "—",
+     "angle": "核其现职与活跃领域；确认后启用触点。",
+     "question": "（内部）电话/LinkedIn 核现职？",
+     "proof": "核实记录存档。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 核活后：真诚短件",
+     "product": "STC-424DGGPM-440W（Saga） 演示机（可选）",
+     "angle": "自我介绍+演示机自用位。",
+     "question": "您项目里需要高性价比接入层吗？",
+     "proof": "一页规格（匈/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "布达佩斯顾问失联户（缺 MTCSWE、电话-only 待人工）。3 步：人工核活 → 真诚短件 → 冻结。"
+  },
+  {
+   "code": "A-252",
+   "name": "CS EDU IDET（Kajetan Tadra）",
+   "country": "波兰",
+   "city": "Rzeszów",
+   "site": "csidet.edu.pl（与 A-243 同站）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://csidet.edu.pl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "热舒夫 IT 培训公司（个体 CS Edu Idet Tadeusz Ruchlewicz NIP 5170005795 与 CS EDU IDET Sp. z o.o. NIP 5170421312 双主体并列页）——培训+服务商登记双轨。",
+     "quote": "CS Edu Idet Tadeusz Ruchlewicz — NIP: 5170005795, ul. Powstańców Listopadowych 16L/4, 35-606 Rzeszów ‖ CS EDU IDET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ — NIP: 5170421312, ul. Marszałkowska 16/24, 35-215 Rzeszów",
+     "url": "https://csidet.edu.pl/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "Kajetan Tadra 官网正文：Certified MikroTik Trainer、**十证齐全含 MTCSWE**（与 A-243 并列同页）。",
+     "quote": "Kajetan Tadra — Certyfikowany Trener MikroTik, Administrator IT. MTCNA, MTCRE, MTCWE, MTCTCE, MTCUME, MTCINE, MTCIPv6E, MTCSE, MTCSWE, MTCEWE. Tel: +48 724 173 364",
+     "url": "https://csidet.edu.pl/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "biuro@csidet.edu.pl 公共服务商登记机构箱（CSV 9-27：public-register-company）——**统一触达只经这一封**（与 A-243 互注、不重发）。",
+     "quote": "（CSV 2026-09-27 记录）biuro@csidet.edu.pl（公共服务商登记机构邮箱；非个人直邮）",
+     "url": "https://csidet.edu.pl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "热舒夫二人教练公司（双主体同页）：Kajetan 十证；PARP 公共补贴课目录型业态——该渠道面划出。",
+    "产品线与在售品牌": "开发服务库登记的培训服务带 dofinansowanie 至 100% 资格。",
+    "目标行业与场景": "Podkarpackie 大区学员与补贴课程客群（公共资金面划出）。",
+    "团队与规模": "二人教练团队。",
+    "决策链与对接人": "biuro@csidet.edu.pl（公共服务商登记，CSV 9-27）；+48 724 173 364。",
+    "技术与认证": "Kajetan 十证 MikroTik Trainer（主页正文）。",
+    "采购与供应链信号": "与 A-243 同一体：一封兼致两位、两档互注实现「公司+个人」合触不重复。",
+    "近期动态与线索": "站 2026 活跃（补贴目录滚动）。",
+    "与我方契合点": "自用实验/工程演示机一台位。",
+    "风险与注意": "公共补贴课程渠道不涉；二人同档合并发、互不重复。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 一封兼致两位教练（与 A-243 互注）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）",
+     "angle": "只发一封到 biuro@：抬头兼致 Kajetan 与 Tadeusz，邀一台 24 口 PoE++ 演示机自用体验；公共补贴课渠道不涉及。",
+     "question": "两位自己的实验/工程项目用得上 24 口 PoE 演示机吗？",
+     "proof": "波兰语一页规格+演示机条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：备件小批",
+     "product": "STI-280GE（Saga） + SFP 小批",
+     "angle": "现场备件小批价卡。",
+     "question": "现场备件有没有常备需求？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "无回复不再自动化跟进。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "热舒夫十证教练公司（与 A-243 同站同队；补贴课渠道划出；一封兼致不重发）。3 步：一封兼致 → 有回复才续 → 冻结。"
+  },
+  {
+   "code": "A-253",
+   "name": "Noriak Distribution",
+   "country": "法国",
+   "city": "Cesson-Sévigné",
+   "site": "noriak-distri.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.noriak-distri.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "雷恩旁的**消费外设批发商**（Perle 授权关系 CSV 存录）：音频/箱包/移动/外设/游戏配件/连接件/备份/网络/家居配件九类目；6 名地推覆盖全法国。",
+     "quote": "Grossiste en périphériques, matériels et consommables informatiques... audio, la bagagerie, la mobilité, les périphériques, les accessoires gaming, la connectique, la sauvegarde, le réseau et les accessoires résidentiels ‖ force de vente terrain composée de 6 commerciaux",
+     "url": "https://www.noriak-distri.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙消费向：Samsonite/Port Designs/Cougar/Transcend/JapanNext——réseau 仅九类目之一。",
+     "quote": "（伙伴墙）Samsonite · Port Designs · Cougar · Transcend · JapanNext",
+     "url": "https://www.noriak-distri.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "contact@noriak-distri.com 系官网搜索索引级（CSV 9-27：official-search-only，首页未直接示出）——先表单/总机核收法。",
+     "quote": "（CSV 2026-09-27 记record）contact@noriak-distri.com（待核：仅官网搜索索引，旧 noriak-reseau 域已注销）",
+     "url": "https://www.noriak-distri.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "雷恩消费外设批发平台（réseau 为其九类目之一）：Perle 授权为旧域时代关系（CSV 注）——配套深度未证，按浅渠道姿态。",
+    "产品线与在售品牌": "音频/箱包/移动/游戏/连接/备份/网络/家居；Samsonite/Port/Cougar/Transcend 等消费品牌墙。",
+    "目标行业与场景": "法国零售/店头渠道 6 名地推。",
+    "团队与规模": "中小批发（消费向为主）。",
+    "决策链与对接人": "contact@noriak-distri.com（搜索索引级，CSV 9-27 待核，旧域已注销）。",
+    "技术与认证": "Perle 授权分销（CSV 9-27 记录为旧 noriak-reseau 时代口径）。",
+    "采购与供应链信号": "网络类目SKU 轻提位：消费级 PoE 注入/小交换可拼货；工业件不合其谱系——不推荐。",
+    "近期动态与线索": "新闻区仍在滚动（屏幕保护/平板新品类扩充）。",
+    "与我方契合点": "réseau 类目录的 PoE 小件低价档（桌面级 8 口）。",
+    "风险与注意": "先表核邮箱有效性再发件；工业产品线不提（不合其渠道）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 表单/总机核联络+réseau 类目轻提",
+     "product": "——（核实后再定）",
+     "angle": "联系页表单一句+一页：network/réseau 类目要不要消费级 PoE 小件供货？",
+     "question": "réseau 类目现在由谁供货？有开新供应商位吗？",
+     "proof": "法语一页简介+类目空档对照。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 消费级 PoE 小件（桌面 8 口）",
+     "product": "桌面级 8 口 PoE 小交换+PoE 注入器（目录件）",
+     "angle": "店头可摆的低价档网络小件（非工业线）。",
+     "question": "店头 PoE 小件走低价档吗？",
+     "proof": "小件一页价卡（法）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 分销条款/中性代发选项",
+     "product": "—（条款）",
+     "angle": "中性发货/拼箱分销条款随件；不回即冻结。",
+     "question": "（无需回）条款留档。",
+     "proof": "条款一页（法）。"
+    }
+   ],
+   "note": "雷恩消费外设批发（réseau 九分之一类目；Perle 旧域关系存录按浅渠道姿态）。3 步：核联络+类目轻提 → 店头 PoE 小件 → 条款留档。"
+  },
+  {
+   "code": "A-254",
+   "name": "Connect Data（Sintel）",
+   "country": "法国",
+   "city": "Bievres",
+   "site": "connectdata.fr",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.connectdata.fr/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "巴黎西南 Bievres 的电信&网络解决方案分销 30+ 年：方案线上明写 **Lan Switching**——有正式交换类目。",
+     "quote": "Distributeur de solutions télécoms & réseaux ‖ Wifi, Sécurité et Monétisation, Radio, Lan Switching, Accès Carrier Ethernet, IOT, VoIP Opérateurs, IPBX, Téléphones...",
+     "url": "https://www.connectdata.fr/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "伙伴墙：Altaro/AudioCodes/Dialogic/Nuance/Sangoma/**RUCKUS Networks**/Weblib/RAD/Radwin/**Teltonika**；服务四件：国家认证培训中心/售前咨询/物流/技术支持。",
+     "quote": "（伙伴墙）ruckus networks · rad · radwin · teltonika ‖ CENTRE DE FORMATION — Centre de formation agréé par l’Etat français; CONSEIL AVANT-VENTE; SERVICE LOGISTIQUE; SUPPORT TECHNIQUE",
+     "url": "https://www.connectdata.fr/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@connectdata.fr 官网 contact 页（at）还原（CSV 9-27：official-obfuscated）——总销口直发。",
+     "quote": "（CSV 2026-09-27 记录）sales@connectdata.fr（官网明确[at]/mailto还原）；Demander un devis 页正文",
+     "url": "https://www.connectdata.fr/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "巴黎南区 30 年电信&网络分销（Lan Switching 类目录正式）；Perle 授权 CSV 存录（不在现墙）。",
+    "产品线与在售品牌": "RUCKUS/RAD/Radwin/Teltonika/Sangoma/AudioCodes 等+四件服务。",
+    "目标行业与场景": "法国运营商/行业集成商渠道（Carrier Ethernet/RAD 线缆=运营商带）。",
+    "团队与规模": "Medium 分销（自有培训资质+物流）。",
+    "决策链与对接人": "sales@connectdata.fr（官网 (at) 还原，CSV 9-27）。",
+    "技术与认证": "Perle 授权分销（CSV 9-27）；RUCKUS 等现墙。",
+    "采购与供应链信号": "Lan Switching 类目录现成：**24 口 CCTV/接入 PoE 与工业宽温件**可进其类扩展提案；Teltonika/RAD 客群的现场件旁位。",
+    "近期动态与线索": "RUCKUS/培训资质常新=目录滚动期。",
+    "与我方契合点": "24 口监控 PoE 接入层+工业宽温件两条线提案。",
+    "风险与注意": "Perle 关系 CSV 存录——话术补位不替位；3 封节奏禁催单（大型分销评估周期长）。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Lan Switching 类目提案（24 口监控 PoE）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "走 sales@ 总销口：Lan Switching 类目录下新增 24 口监控 PoE 接入层供应商提案（分销条件+法语资料包一体）。",
+     "question": "Lan Switching 类目录有开新供应商位吗？",
+     "proof": "上架一页提案（法）+ 证书包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业宽温件线",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "RAD/Radwin/Teltonika 客群落的现场宽温件线提案（站点/机房外柜）。",
+     "question": "现场宽温件类目录谁在供？",
+     "proof": "工业件一页（法/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 配套光铜配件目录",
+     "product": "SFP/SFP+/DAC 目录",
+     "angle": "交换类目录的配套配件位。",
+     "question": "SFP/DAC 配件线有补价位位吗？",
+     "proof": "配件价卡一页。"
+    }
+   ],
+   "note": "巴黎 30 年电信分销（Lan Switching 正式类目录；RUCKUS/RAD/Teltonika 现墙）。3 步：24 口上架提案 → 工业件线 → 配件目录。"
+  },
+  {
+   "code": "A-255",
+   "name": "The Junction",
+   "country": "挪威",
+   "city": "Drammen",
+   "site": "thejunction.eu",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://thejunction.eu/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "德拉门 30+ 年硬件/软件专业分销（欧洲+斯堪的纳维亚）：七大应用区 Embedded/Connectivity/IT Infrastructure/Monitors/**ATC 空管**/UC/TDM 录音。",
+     "quote": "The Junction supplies specialist hardware and software for data connectivity, embedded computing, air traffic control, voice recording and rugged display systems across Europe and Scandinavia.",
+     "url": "https://thejunction.eu/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "供应商页确凿：**Perle — since 1976, Phoenix Contact group**（串口服务器/控制台/光纤收发/以太延伸/工业交换/LTE-5G）；另 Connect Tech（NVIDIA Jetson Elite）/Bluestone 军规屏/Cadmos（空管）/FarSite/OptiLogix/Sangoma。",
+     "quote": "Perle — Device networking since 1976 · Phoenix Contact group. Serial-to-Ethernet device servers, console servers, fiber media converters, Ethernet extenders, industrial switches and LTE/5G routers.",
+     "url": "https://thejunction.eu/"
+    },
+    {
+     "dim": "风险与注意",
+     "text": "ATC 空管与军规/防务显示用例在应用区——**ATC/防务面完全划出不涉**（仅走商业 IT Infra 类目）。",
+     "quote": "Air Traffic Control — Rugged compute... for ATC and radar data infrastructure ‖ Monitors... for marine, industrial and defence use",
+     "url": "https://thejunction.eu/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "德拉门老牌专业分销：**Perle 在供应商页坐实**（1976 起/Phoenix Contact 集团）；ATC/防务面划出。",
+    "产品线与在售品牌": "Perle 全线+Connect Tech 嵌入式+Bluestone 军屏+Cadmos 空管+FarSite/OptiLogix/Sangoma。",
+    "目标行业与场景": "工业/嵌入式/串口联网高端客群；空管/防务面不涉。",
+    "团队与规模": "中型专业分销（新闻门户+翻页目录体系）。",
+    "决策链与对接人": "info@thejunction.eu（官网 Contact and quotation request 页，CSV 9-27）。",
+    "技术与认证": "Perle 分销（CSV+官网供商页双证）。",
+    "采购与供应链信号": "Perle 深绑：IT Infra 类目=Perle SKU 主场——只谈**商业级 L2+ 24 口 PoE 接入层与 ERPS 环**（Perle 之外的类目档），禁替位话术。",
+    "近期动态与线索": "官网 2026 新版+新闻门户三档更新=上新窗口常态。",
+    "与我方契合点": "商业 L2+ 接入层（Perle 类目外的价位档）；机柜/户外 ERPS 环第二来源。",
+    "风险与注意": "ATC/空管/防务显示面完全不碰；与 Perle 主关系一句话认可、不质损。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Perle 类目外档：商业 L2+ 24 口 PoE 一页",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "认可 Perle 主关的短件：他们报价单缺商业级 24 口 PoE 类时，我们作为第二来源价位档（上架提案+分销条件）。",
+     "question": "客户问商业办公 24 口 PoE 时，你们报价指向哪里？",
+     "proof": "一页报价+规格（英）+ 分销条件。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业 ERPS 环第二来源",
+     "product": "STI-480DGGM（Saga）（工业管理 8×电口 + 4×千兆上联，ERPS）",
+     "angle": "Perle 工业线邻位：环网协议件与高功率 PoE++ 价位档。",
+     "question": "ERPS 环网项目有第二价位档吗？",
+     "proof": "ERPS 配置示例一页（英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 现场宽温小件窄线",
+     "product": "STI-280GE（Saga）",
+     "angle": "机柜/现场宽温小件窄线窄提案；不回即冻结。",
+     "question": "—",
+     "proof": "窄线一页。"
+    }
+   ],
+   "note": "德拉门专业分销（Perle 官网坐实深绑；ATC/防务面划出只做商业/工业类目空档）。3 步：商业 24 口第二来源 → ERPS 环 → 窄线收口。"
+  },
+  {
+   "code": "A-256",
+   "name": "Timeless Technology",
+   "country": "芬兰",
+   "city": "Pori",
+   "site": "timeless.fi",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://timeless.fi/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "波里的芬兰增值进口商：ICT+工业 IoT+测量技术三域（lisäarvoa tuottavana teknisenä maahantuojana）。",
+     "quote": "Timeless Technology toimii lisäarvoa tuottavana teknisenä maahantuojana, joka on erikoistunut ICT, teollinen IoT ja mittaustekniikka tuotteisiin.",
+     "url": "https://timeless.fi/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "九系产品：**Perle Systems（路由/交换/控制台/终端/收发器/Ethernet Extender）**、Cailabs AROONA（MM→SM 光纤变换）、Milesight LoRaWAN、ControlByWeb PLC、Eos GNSS、Profitap TAP、Tempmate、Plug and Track、TITAN——工业链路全栈档位高。",
+     "quote": "Perle Systems reitittimet, kytkimet, konsolipalvelimet, päätepalvelimet, mediamuuntimet ja Ethernet Extenderit ‖ Cailabs AROONA kuitumuuntimet ‖ Milesight LoRaWAN ‖ Profitap verkko-TAPit",
+     "url": "https://timeless.fi/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "2026-08/09 高频 Perle 新闻三件（IOLAN SCR/PerleCLOUD·PerleVIEW/IRG7000 工业 5G）——Perle 是其主推活跃牌。",
+     "quote": "Perle IOLAN SCR – turvallinen konsolipalvelin（22/09/2026）‖ PerleCLOUD ja PerleVIEW（09/09/2026）‖ Perle IRG7000 – teollinen 5G-reititin（24/08/2026）",
+     "url": "https://timeless.fi/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@timeless.fi 官网公司页正文（CSV 9-27：official）；Pori 地址与 +358 44 998823… 座机同一。",
+     "quote": "（CSV 2026-09-27 记录）info@timeless.fi（官网正文）；Pori 与电话匹配",
+     "url": "https://timeless.fi/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "芬兰增值进口商（ICT/工业 IoT/测量三域）：**Perle 为主推活跃牌——深绑，只做价位档空档**。",
+    "产品线与在售品牌": "Perle 全线+Cailabs 高端光纤+Milesight/ControlByWeb IoT+Profitap TAP 等九系。",
+    "目标行业与场景": "芬兰工业/资产监控/机房高端客群。",
+    "团队与规模": "小型精品进口商（新闻频率高=活跃）。",
+    "决策链与对接人": "info@timeless.fi（官网正文，CSV 9-27）。",
+    "技术与认证": "Perle 授权（CSV+官网产品页双证）。",
+    "采购与供应链信号": "Perle/Cailabs 高端价带之下：工业非管理低价档+商业 24 口接入层为其价带空档——从「补目录低价位」切入最稳。",
+    "近期动态与线索": "Perle 三新闻连发=其 Perle 线正在强化——切勿替位，只旁位。",
+    "与我方契合点": "工业非管理 8 口低价档（CNY 到岸）；LoRa 现场回传箱的 24 口/8 口接入位；SFP 配件。",
+    "风险与注意": "Cailabs/Milesight 等高端位不碰；报价走 CNY+到岸总价、别低质量印象。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 目录低价位档：工业非管理+收发器一页",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光）+ 收发器",
+     "angle": "芬兰语/英语短件：在 Perle/Cailabs 高端的之下补一个友善价位的工业非管理档与收发器窄线（分销条件+CE 一体）。",
+     "question": "目录里在高端之外有没有一个更友善的工业非管理价位档需求？",
+     "proof": "工业件一页（芬/英）+ CE/EMC。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 商业/LoRa 现场回传接入位",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "其工业 IoT 项目落回传位时的 24 口 PoE/接入层（Milesight 网关回传旁位）。",
+     "question": "IoT 项目的回传/汇聚位接入层现在怎么配？",
+     "proof": "24 口一页价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · SFP 配件窄线",
+     "product": "SFP/SFP+ 目录",
+     "angle": "光配件窄线低价档；不回即冻结。",
+     "question": "—",
+     "proof": "配件一页价卡。"
+    }
+   ],
+   "note": "芬兰精品进口商（Perle 主推深绑；只做价位档空档与窄线）。3 步：低价位工业档 → 24 口接入位 → SFP 窄线。"
+  },
+  {
+   "code": "A-257",
+   "name": "DSSI",
+   "country": "葡萄牙",
+   "city": "Agualva-Cacém",
+   "site": "dssi.pt",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://dssi.pt/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "里斯本都市圈 Agualva-Cacém 的葡萄牙 VAD（Distribuidor Tecnológico de Valor Acrescentado）：五域举 **Networking** 在内。",
+     "quote": "A DSSI – o seu Distribuidor Tecnológico de Valor Acrescentado ‖ Armazenamento, Backup, Arquivo, Partilha & Virtualização · Monitorização e Help Desk · Networking · Segurança e Mobilidade · Cloud",
+     "url": "https://dssi.pt/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "text": "厂牌墙含 **Perle 与 Ubiquiti**（2026-02 新版徽标），另有 Wasabi/NAKIVO/Proxmox/SolarWinds/MailStore/Kiteworks 等 SMB 软件栈。",
+     "quote": "（厂牌墙 2026-02/03 徽标）perle · ubuquiti · wasabi · nakivo · proxmox · solarwinds · mailstore",
+     "url": "https://dssi.pt/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "comercial@dssi.pt 官网 contactos 正文（CSV 9-27：official，旧 owncloud 页 404 备注在档）。",
+     "quote": "（CSV 2026-09-27 记录）comercial@dssi.pt（官网正文）；旧 owncloud 页实际 404",
+     "url": "https://dssi.pt/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "葡萄牙 VAD（Networking 五域之一）：Perle+Ubiquiti 同墙——商业接入层与工业件双类目有现成通路。",
+    "产品线与在售品牌": "Perle/Ubiquiti 双牌+SMB 软件栈十余厂。",
+    "目标行业与场景": "葡国企业渠道经销商网络。",
+    "团队与规模": "小中型 VAD（新闻/活动/EDM 运营勤）。",
+    "决策链与对接人": "comercial@dssi.pt（官网 contactos，CSV 9-27）。",
+    "技术与认证": "Perle/Ubiquiti 现墙（CSV+官网厂牌页）。",
+    "采购与供应链信号": "Networking 域=上架提案直通：24 口商业监控 PoE 接入层+工业窄线两条线；SMB 软件栈客群=价格敏感。",
+    "近期动态与线索": "2026-02/03/05 厂牌徽标持续更新+EDM 活跃=拓品窗口期。",
+    "与我方契合点": "24 口 PoE 接入层 VAD 上架提案+工业件窄线+分销条款包三步走。",
+    "风险与注意": "Perle/Ubiquiti 在位：话术类目空档/价位档，不替位；别碰其软件主业。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · Networking 域上架提案（24 口 PoE）",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "对 comercial@：Networking 域的 24 口监控 PoE 接入层新供应商提案（分销条件+葡语资料包+阶梯价）。",
+     "question": "Networking 域开新硬件供应商位吗？",
+     "proof": "上架一页提案（葡/英）+ 证书包。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业窄线",
+     "product": "STI-280GE（Saga）（工业非管理 8×电口 + 2×上联光，宽温）",
+     "angle": "机房外/仓储/户外点位的宽温小件窄线。",
+     "question": "工业件窄线有位吗？",
+     "proof": "工业件一页 + CE。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 分销条款包",
+     "product": "—（条款）",
+     "angle": "中性发货+价格保护+首单 MOQ 的条款包收口。",
+     "question": "（无需回）条款留档。",
+     "proof": "分销条款一页（英）。"
+    }
+   ],
+   "note": "葡国 VAD（Perle+Ubiquiti 同墙；Networking 类目录直通）。3 步：24 口上架提案 → 工业窄线 → 条款包收口。"
+  },
+  {
+   "code": "A-258",
+   "name": "Daniel Świtalski",
+   "country": "波兰",
+   "city": "Poznan",
+   "site": "（无站；电话-only）",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://csidet.edu.pl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "CSV 2026-09-27 核验：原电话 +48 609 880343 本轮未独立复核；带/不带音符姓名检索均未找到匹配邮箱/网站——**leads-only 失联户**。",
+     "quote": "（CSV 2026-09-27 记录）+48 609 880343（原电话，本轮未独立复核；仍未找到匹配邮箱/网站）",
+     "url": "https://csidet.edu.pl/"
+    },
+    {
+     "dim": "技术与认证",
+     "text": "持 MTCSWE（CSV 在库记录；波兹南 MikroTik 顾问档）。",
+     "quote": "（CSV 在库记录）持 MTCSWE",
+     "url": "https://csidet.edu.pl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "波兹南 MTCSWE 顾问（CSV 在库档）——无站无邮失联，第一步人工。",
+    "产品线与在售品牌": "（无站可核）。",
+    "目标行业与场景": "波兰企业咨询类。",
+    "团队与规模": "个人顾问。",
+    "决策链与对接人": "+48 609 880343（原电话未复核，CSV 9-27 记录）。",
+    "技术与认证": "持 MTCSWE（CSV 9-27）。",
+    "采购与供应链信号": "失联状态：检索两轮未中=核活难度中上。",
+    "近期动态与线索": "本批不做超出 CSV 记录的断言。",
+    "与我方契合点": "—（待人工核实后再评）。",
+    "风险与注意": "不猜邮箱、不发猜测件；电话/LinkedIn 人工核实优先。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 人工核实（电话/LinkedIn）",
+     "product": "—",
+     "angle": "核其现职与活跃领域；确认后启用触点。",
+     "question": "（内部）电话/LinkedIn 核现职？",
+     "proof": "核实记录存档。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 核活后：真诚短件（MTCSWE 语境）",
+     "product": "STC-424DGGPM-440W（Saga） 演示机（可选）",
+     "angle": "自我介绍+演示机自用位；交提纲对交换专长友好。",
+     "question": "您交换类项目需要高性价比接入层吗？",
+     "proof": "一页规格（波/英）。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "波兹南 MTCSWE 失联户（电话-only 待人工）。3 步：人工核活 → 真诚短件 → 冻结。"
+  },
+  {
+   "code": "A-259",
+   "name": "Henk Veldkamp（MikroTrain）",
+   "country": "荷兰",
+   "city": "Zwolle",
+   "site": "mikrotrain.nl",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://www.mikrotrain.nl/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "兹沃勒 MikroTik 官方认证培训师自述：三天官方认证课（Zwolle 固定档期/上门 incompany 双模式），自述「trainer 天天用这设备干活」，已培训 300+ 专业人士。",
+     "quote": "MikroTrain verzorgt officiële MikroTik-certificeringstrainingen, gegeven door een trainer die dagelijks met deze apparatuur werkt ‖ Wij hebben 300+ professionals opgeleid",
+     "url": "https://www.mikrotrain.nl/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "客户墙 29 家：Cegeka/Kinly/Dael/VTM/GPE Networks(=A-260 其学员单位)/**Rijksoverheid 荷兰国家政府/UMCG ambulancezorg 医疗**在列——公立与医疗学员面划出不涉，仅经营其本人工程位。",
+     "quote": "（客户墙）cegeka · kinly · dael · stertil · rijksoverheid · umcgambulancezorg · rtvdrenthe · gpe … 300+ professionals opgeleid bij bedrijven als:",
+     "url": "https://www.mikrotrain.nl/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@mikrotrain.nl 官网正文公开（CSV 9-27）；原入口 M…；CSV 2026-09-23 记 MikroTik 官方顾问名录收录、荷兰证书最全之一、持 MTCSWE。",
+     "quote": "（CSV 2026-09-23/27 记录）info@mikrotrain.nl（官网正文公开）；官方顾问名录收录，持 MTCSWE",
+     "url": "https://www.mikrotrain.nl/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "荷兰证书最全级 MikroTik 培训师 Henk（Zwolle/上门双模式）：**A-258/A-260 的 GPE 是其学员客户之一**（客户墙互证）。",
+    "产品线与在售品牌": "三天认证课+incompany 专场+咨询（trainer 干活侧写）。",
+    "目标行业与场景": "荷兰 IT 专业人群；公立/医疗学员面（不尽由我们）。",
+    "团队与规模": "主理人企业。",
+    "决策链与对接人": "info@mikrotrain.nl（官网正文，CSV 9-27）。",
+    "技术与认证": "MTCSWE 持证人、官方顾问名录收录（CSV 9-23/27）。",
+    "采购与供应链信号": "**教师尊重型**：只给本人工程/实验用演示机；公立/医疗学员名单绝不触碰。",
+    "近期动态与线索": "2023-09 起客户墙更新活跃=业务健康。",
+    "与我方契合点": "本人工程位 24 口 PoE++ 演示机一台；无回复即冻结。",
+    "风险与注意": "rijksoverheid/医疗学员面不涉；GPE 学员关系可在自己与 A-260 两边各自独立提「认识教师」但不可代问。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 教师身份尊重短件+演示机位",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "angle": "简短一封：尊重您的培训主业与学员关系；只邀您本人咨询/实验工程用一台 24 口 PoE++ 演示机体验，完全不碰学员名单。",
+     "question": "您自己的工程项目用得上 24 口 PoE++ 演示机吗？",
+     "proof": "一页规格（荷/英）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 有回复才续：全品类价卡",
+     "product": "—（按回复定）",
+     "angle": "仅当其回复再补；不再追。",
+     "question": "—",
+     "proof": "全品类一页价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 无回复即冻结",
+     "product": "—",
+     "angle": "档案冻结。",
+     "question": "—",
+     "proof": "—。"
+    }
+   ],
+   "note": "荷兰证书最全级培训师（公立/医疗学员面划出；A-260 的 GPE 在客户墙=互证不代问）。3 步：尊重短件 → 有回复才续 → 冻结。"
+  },
+  {
+   "code": "A-260",
+   "name": "Maurice Van Der Grijspaard（GPE Networks）",
+   "country": "荷兰",
+   "city": "Haarlem",
+   "site": "gpe-networks.com",
+   "researched_on": "2026-09-28",
+   "sources": [
+    [
+     1,
+     "https://gpe-networks.com/"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "哈勒姆 SMB 一站式 IT 商六服务：系统管理/**网络管理**/云/备份/咨询/网页托管，自述「保证全额 ICT 都安排妥」（无服务合约也能快 帮）。",
+     "quote": "GPE Networks biedt maatwerk oplossingen voor iedere onderneming ‖ Systeembeheer · Netwerkbeheer · Cloud Diensten · Backup · Consultancy · Webhosting",
+     "url": "https://gpe-networks.com/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "Google 评审点名 Maurice 三次（「我们的网络传奇」、布线返工售后好评）——主理人即网络招牌：Maurice Van Der Grijspaard 持 MTCSWE（CSV 9-23 官方顾问名录收录）。",
+     "quote": "（Google 评审）Maurice onze Netwerk legend! Wij hadden ontzettende moeiten met het instellen van onze Mikrotik Router. Gelukkig heeft GPE-Networks dit voor ons keurig weten in te stellen.‖Maurice heeft mij geholpen met mijn internetkabel aanleggen en testen",
+     "url": "https://gpe-networks.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "info@gpe-networks.com 关联公司官网联系页正文（CSV 9-27：official-company；个人归属按备注限制）。",
+     "quote": "（CSV 2026-09-27 记录）info@gpe-networks.com（关联公司官网联系页正文）；钱 任限制见备注",
+     "url": "https://gpe-networks.com/"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "哈勒姆 SMB 一站式系统/网络管理商：Maurice 即网络招牌（评审三次点名）；A-259 MikroTrain 客户墙含 GPE=关系互证。",
+    "产品线与在售品牌": "系统/网络管理+云+备份+咨询+托管；MikroTik 配置口碑在评审区。",
+    "目标行业与场景": "当地 SMB 网络代维与布线项目（办公/小楼宇）。",
+    "团队与规模": "小团队主理人制（no-nonsense 自述）。",
+    "决策链与对接人": "info@gpe-networks.com（关联公司官网，CSV 9-27）。",
+    "技术与认证": "MTCSWE + 官方顾问名录收录（CSV 9-23）。",
+    "采购与供应链信号": "网络管理+布线项目=消耗位的 24 口接入层第二来源；布线案（评审称布线返工扎实）监测其案量。",
+    "近期动态与线索": "评审近期活跃+签约习惯免合约=成交路径短。",
+    "与我方契合点": "客户 SMB 项目 24 口 PoE 接入层+办公室小件；布线案配套机柜件。",
+    "风险与注意": "与 A-259 Henk 的教师关系互证但各自独立、不代问；MikroTik 本位尊重，以第二来源/供货连续性话术。"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 网络管理项目 24 口接入层第二来源一页",
+     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "荷语/英语一封：SMB 网络管理/办公室项目的 24 口 PoE 接入层第二来源（供货连续性+RMA 随行）。",
+     "question": "客户项目的接入层目前固定配哪个牌？有第二来源位吗？",
+     "proof": "一页报价（荷/英）+ 保修条款。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 布线案配套与小件池",
+     "product": "机柜件 + STI-280GE（Saga） 等小批",
+     "angle": "布线/机房小案的柜件与现场小件小批常备。",
+     "question": "布线案配套的柜件/现场小件有常备需求吗？",
+     "proof": "小批价卡一页。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 价卡留档收口",
+     "product": "—（价卡留档）",
+     "angle": "全品类价卡留档、不催单；无回复即冻结。",
+     "question": "（无需回）价卡留档。",
+     "proof": "全品类一页价卡。"
+    }
+   ],
+   "note": "哈勒姆 SMB 网络管理商（评审三次点名 Maurice；A-259 教师关系互证不代问）。3 步：接入层第二来源 → 布线小件池 → 留档收口。"
+  }
+ ]
+}

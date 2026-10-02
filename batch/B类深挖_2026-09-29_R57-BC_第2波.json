@@ -1,0 +1,510 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第2波",
+ "date": "2026-09-29",
+ "scope": "B 类乌克兰 13 家",
+ "rule": "R57-BC 轻量对齐 A：深挖+SWOT+判位+备养出信稿；评级不动、不触发邮件动作;战争敏感守界句统一注记",
+ "records": [
+  {
+   "code": "B-011",
+   "fact": "ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）",
+   "inference": "ELKO Group 是波罗的海 VAD 集团（ELKO Latvia 母体）;UA 站是活跃运营体,MikroTik 每周锚定其目录——MikroTik 新系列上架（RB5009/knot 等）投放密度说明:ELKO UA 的 IT infra 谱里,MikroTik 是核心牢位",
+   "hypothesis": "从「ELKO 谱系里缺 PoE 楼价档」入手:ELKO 在架 TP-Link/Keenetic/Netis 属 value 网谱,但 PoE 接入层（8~24 口）没有专架;STC-424 以「集团谱 value 楼价档补位」+具名 MikroTik 项目经理切入",
+   "evidence": [
+    {
+     "dim": "集团",
+     "quote": "ELKO Group – один із найбільших дистрибюторів…400 ІТ-виробників…10 000 партнерів у 10 країнах Європи",
+     "source": "https://www.linkedin.com/company/elko-ukraine"
+    },
+    {
+     "dim": "在架",
+     "quote": "AAeon, Advantech, Aruba, Axiomtek, GIGA-IPC, IEI, Intel, Keenetic, Lanner, LR-Link, Mellanox, Mikrotik, Netis, Nexcom…Ubiquiti",
+     "source": "https://www.elko.ua/ru/produkty/setevoe-oborudovanie-u-oficialnogo-distribyutora-elko-ukraine"
+    }
+   ],
+   "unknowns": [
+    "ELKO 谱里 PoE 接入交换现供 SKU 进深（TP-Link/Keenetic 之外的专属）",
+    "战争下 ELKO Group 对 UA 库存位/采购口决策级（UA 站还是拉脱维亚集团）"
+   ],
+   "swot": {
+    "S": "波罗的海集团主权+50-200 人+多谱",
+    "W": "谱太宽、SKU 单一进入难,决策多层",
+    "O": "STC-424 入 value PoE 档集团谱补位",
+    "T": "乌克兰运营+集团远程同位层次"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口",
+   "question": "ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？",
+   "tag": "乌克兰|基辅|ELKO集团|波罗的海VAD集团",
+   "email": "Hi ELKO Ukraine team,\n\nELKO Group with 400 vendors and 10k partners across 10 European countries, and a Kyiv operation that still pushes MikroTik news out weekly - your IT-infrastructure catalog is one of the most attentive in the region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.\n\nOne question: below the Aruba-class shelf, which PoE access switch is carrying the value tier in your network-equipment lines today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 ELKO 谱空位对照单页（TP-Link/Keenetic vs STC-424)",
+    "D+14 具名 MikroTik 项目经理引见请求",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-012",
+   "fact": "ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》",
+   "inference": "ERC 是乌克兰老牌独立 VAD(2E 自牌谱在 2e-world.com 发布）;MikroTik 高系（CRS328-500W 重型+KNOT 工业 LTE4）在架=工业段信号在;2E 自牌链=OEM/联合血统经验已存在",
+   "hypothesis": "ERC 自牌 2E 已跑 OEM/历史组合基——我们 STI-288GP 以其「2E 之外第三贴牌线,或 2E 谱之外的 OEM 双层」角度切入最对口;工厂 DIN 轨正好是 2E 谱空穴（2E 着重电视/办公/电玩类）",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "ERC, PROFESSIONAL DISTRIBUTOR Kyiv (EDRPOU 38204199)…current status…2026-04",
+     "source": "https://www.ua-region.com.ua/en/38204199"
+    },
+    {
+     "dim": "在架",
+     "quote": "CRS328-24P-4S+RM - 24 port Gigabit…500W…MikroTik kit…KNOT Embedded LTE4…designed for industrial automation",
+     "source": "https://erc.ua/en/vendor/mikrotik/list.html"
+    }
+   ],
+   "unknowns": [
+    "2E 自牌的 OEM 径（台湾代工还是大陆）——决定我们 OEM 混血通道优势",
+    "下 6 个月内 MikroTik 官功新旧众目录"
+   ],
+   "swot": {
+    "S": "独立 VAD+自牌血统+工业 KNOT 信号",
+    "W": "大单高度被 MikroTik 谱点",
+    "O": "STI-288GP OEM 位/2E 谱之外第三线",
+    "T": "乌价货币/物流起落"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "工业 KNOT 在架+2E 自牌谱正宗:OEM 血统咬合的角度入 DIN 轨 value PoE 8 口",
+   "question": "你们的 2E 谱之外,工业 DIN 轨 PoE 现货力现走 MikroTik 标准型还是另寻 OEM？OEM 直供货源考虑吗？",
+   "tag": "乌克兰|基辅|ERC|独立VAD|2E自牌",
+   "email": "Hi ERC team,\n\nProfessional distributor with the 2E house brand under your belt, a live industrial IoT signal (KNOT LTE4), and a CRS328 heavy shelf - you understand OEM and own-brand DNA at the engineering level.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation, fully open to your 2E branding or third-label OEM. Reference: $74.8 USD EXW (2026-09-29).\n\nOne question: outside the 2E brand lines, where do you source DIN-rail industrial PoE today - formal MikroTik SKU or a direct OEM? Would a documented OEM-run earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 OEM 三件套样张（2E 混血方案）",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-018",
+   "fact": "MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持",
+   "inference": "MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;\"we work individually on each Partner request\" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广",
+   "hypothesis": "MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Mikrotik Chooses MTI to Cover Ukraine…Broadliner MTI hi-tech distribution has signed a partnership agreement with Mikrotik",
+     "source": "https://www.channel-summit.com/post/mikrotik-chooses-mti-to-cover-ukraine"
+    },
+    {
+     "dim": "层级",
+     "quote": "Distributor Tier 1…MTI hi-tech distribution…+380 44 2074061",
+     "source": "https://www.ibm.com/partnerplus/directory/company/1645"
+    }
+   ],
+   "unknowns": [
+    "MikroTik 排他性条款实际程度（可否上书其它交换牌）",
+    "Tier 1 企业政采项 PoE 层现行选型"
+   ],
+   "swot": {
+    "S": "MikroTik 官方主分销+Tier 1",
+    "W": "MikroTik 主铺压制后话",
+    "O": "PoE 独立档 OEM 辅线",
+    "T": "供应商排他边线"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位",
+   "question": "你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？",
+   "tag": "乌克兰|基辅|MTI|MikroTik主分销|Tier1",
+   "email": "Hi MTI team,\n\nMikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.\n\nWe are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.\n\nOne question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 OEM 侧辅位方案页",
+    "D+14 具名 Serhiy Yakovlev 引见请求",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-008",
+   "fact": "Andrii Chernov / VIP(乌克兰 Ternopil):MikroTik 官方顾问(MTCRE,mikrotik.com 顾问档名录实锤);主业=VIPкомп'ютери 电脑维修店(FB 档):「ремонт комп'ютерної техніки, встановлення та адміністрування локальних мереж」(修电脑+局域网装/管);CSV 记载的 IPv6E 证在官方档未标",
+   "inference": "维修店老本带顾问副业的形态——技术力在(MTCRE)但体量小、面向本地;CSV 信号的 MTCNA+MTCRE+MTCIPv6E 可能部分过期",
+   "hypothesis": "用教具/样本的 Consult 线开口最对口:他接 LAN 装小案要带几台 PoE 交换,若他愿意把 STC-28DGGPM 当「在他小案 LAN 部署中使用的贴标样本机」做测试,建立关系后再谈",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Andrii Chernov MTCRE Ternopil, Ukraine…vip.te.ua",
+     "source": "https://mikrotik.com/consultants/europeThe"
+    },
+    {
+     "dim": "主业",
+     "quote": "надаємо послуги з ремонту комп'ютерної техніки, встановлення та адміністрування локальних мереж",
+     "source": "https://www.facebook.com/vip.te.ua/"
+    }
+   ],
+   "unknowns": [
+    "现证等级/续证时间",
+    "战争下 Ternopil 地摊店经营状态（谨慎）"
+   ],
+   "swot": {
+    "S": "MTCRE 具证+技术力真实",
+    "W": "维修店小体量、接案量低",
+    "O": "样本机合作/贴标小样",
+    "T": "战争区域经营面"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "乌克兰个体顾问谱统一:CONSULT-OEM——关系+样本机+技术顾问角度,不上架",
+   "question": "你接的 Ternopil 本地 LAN 小案（店修+布网）里,PoE 交换调用现供什么？",
+   "tag": "乌克兰|Ternopil|MTCRE|维修店顾问",
+   "email": "【合作通道·备养】教具线+技术对话,不首销",
+   "followups": [
+    "D+14 样本机提议",
+    "D+30 OOM 放盘",
+    "不入回弹序"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-013",
+   "fact": "Gazik Store（利沃夫 Stryjska 202）:2006 创网销连锁+Lviv 实体店;**自联 ISP 自营（「продаємо тільки перевірений товар нашими фахівцями на власній мережі」=自验过才卖）**;PON/radio 谱+ZTE/MikroTik/Ubiquiti/Extralink/Netis/TPLINK/D-Link PON ONU 分销;欧洲/美国/中国自主进出口分销血统",
+   "inference": "GAZIK 是「店+ISP 自营」双形态血统——自营 ISP 意味着真实企业户 PoE 部署场景;PON/radio 优先,接入层 PoE 是 ISP 运营的副产业（AP/监控陈设）",
+   "hypothesis": "开口角度=「你自家 ISP 网络里部署 AP/监控时的 PoE 稳健需求」以及店内 value PoE 档——STC-424 对客段位正口",
+   "evidence": [
+    {
+     "dim": "血统",
+     "quote": "продаємо тільки перевірений товар нашими фахівцями на власній мережі…Ми працюємо, як з роздрібними так і оптовими клієнтами",
+     "source": "https://hotline.ua/ua/yp/32481/reviews/"
+    },
+    {
+     "dim": "身份",
+     "quote": "Продаж мережевого обладнання ZTE, Mikrotik, Totolink, Extralight, Netis, TPLINK, D-link (PON, ONU)…інтернет-магазин для інтернет провайдерів",
+     "source": "https://gazik.ua/"
+    }
+   ],
+   "unknowns": [
+    "自营 ISP 层的规模与 PoE 部署面",
+    "店内 value PoE 档 SKU 现状"
+   ],
+   "swot": {
+    "S": "自营 ISP 实操+店网双开",
+    "W": "焦点全在 PON/radio",
+    "O": "STC-424 ISP 副段位",
+    "T": "店铺行情风,价动能高"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "店+ISP 双血统:自营网络部署副位+店铺 value PoE 档",
+   "question": "你们自营 ISP 上对客部署(AP/监控）里,PoE 接入现供哪家？",
+   "tag": "乌克兰|利沃夫|店网血统|ISP自营",
+   "email": "Hi Gazik team,\n\nA store chain on one side, a running ISP on the other, and the rule \"we only sell what our own specialists run on our own network\" - that is a rare level of honesty for a reseller.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - the kind of value PoE line you could bench-test on your own ISP before listing it in store.\n\nOne question: for the AP/surveillance deployments on your ISP side, which PoE access switch do you run today - and would a documented bench-trial unit earn a look?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 ISP 副段位方案页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-021",
+   "fact": "Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 MikroTik 分销;CCR1072/CCR1016/CCR1036 运营级在架;对俄乌议题公开姿态",
+   "inference": "面向 service-provider 的 Tier 1 谱;自牌 OmniLite/OmniOptic 存在=OEM 有效经验;CCR 系列（高端路由器）在架=运营商 capex 规模",
+   "hypothesis": "开口角度=「自牌之外的 OEM 第 3 线」或「Tier 1 谱之外的 value PoE 补充」——STC-424 以 OmniLite 贴牌（looks like 下一代）或独立 OEM 线切入",
+   "evidence": [
+    {
+     "dim": "自牌",
+     "quote": "OmniLite | OmniOptic | Alcatel-Lucent | Arista Networks | Cisco Systems | D-Link | Edge-Core | Ericsson | Extreme Networks…MikroTik",
+     "source": "https://www.omnilink.com.ua/ukr/vendors"
+    },
+    {
+     "dim": "厂谱",
+     "quote": "OmniLink — спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку",
+     "source": "https://www.omnilink.com.ua/ukr/vendors"
+    }
+   ],
+   "unknowns": [
+    "自牌 OmniLite 谱的交换机线现状（是否已有 PoE 档）",
+    "服务运营商客户的 PoE 接层部署形态"
+   ],
+   "swot": {
+    "S": "Tier 1 服务运营商谱+自牌血统",
+    "W": "自牌线竞争=核心排他",
+    "O": "自牌之外的 OEM 辅线",
+    "T": "自排牌竞争太强"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位",
+   "question": "你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？",
+   "tag": "乌克兰|基辅|OmniLink|自牌OmniLite|服务运营商VAD",
+   "email": "Hi OmniLink team,\n\nService-provider-only DNA, a Juniper/Arista/Extreme shelf, plus your own OmniLite and OmniOptic house brands - you already sit at the Tier 1 layer most PoE vendors can only dream of.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $165 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.\n\nOne question: under the OmniLite roof, is PoE access the next own-brand category on your roadmap - and would a documented OEM unit earn a bench test against your current sourcing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 OmniLite 贴牌样张",
+    "D+14 OEM 发远条件单页",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-022",
+   "fact": "RIM2000(乌克兰):老牌系统集成商(15+ 年 Intel Technology Provider Platinum 连拿）;2016-04 起 MikroTik 官方分销;早期案例=Sentravis Production Ukraine 建 DC、Interpipe Novomoskovsky 钢管厂建网——大型工业客户项目系统集成商血统",
+   "inference": "RIM2000 不是纯分销而是「SI+Intel Platinum」血统;Interpipe/重工业客群=高工 PoE 场景的工程侧经验积厚",
+   "hypothesis": "开口角度=「集成商项目 BOM 的 value PoE 第二供位」——STC-424 以楼价档随单+样机 test pack 引入其工业项目部;SI 对品牌缘导性要求高,跨级开放度中",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "С апреля 2016 года RIM2000 является официальным дистрибьютором…Intel Platinum 2016",
+     "source": "https://www.rim2000.com/news/company/rim2000-distribyutor-mikrotik/"
+    },
+    {
+     "dim": "案例",
+     "quote": "RIM 2000 построила вычислительную сеть для «Интерпайп Новомосковский трубный завод»",
+     "source": "https://ko.com.ua/rim2000_distribyutor_setevogo_oborudovaniya_mikrotik_115519"
+    }
+   ],
+   "unknowns": [
+    "现行大项目品谱 Cisco/Huawei 谱序后 PoE 接层选型",
+    "大工业项目客群维系面"
+   ],
+   "swot": {
+    "S": "SI+Intel Platinum 15+ 年+工业案例血",
+    "W": "谱窄对交换品未聚焦",
+    "O": "Interpipe 类工业项目 BOM 随单位",
+    "T": "SI 品牌缘导"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "老牌 SI 的工业项目 BOM 随单补位:楼价档第二供位",
+   "question": "你们的工业项目（Interpipe 类）PoE 接入在 BOM 里落定主要在哪个级别？第二供位考虑吗？",
+   "tag": "乌克兰|老牌SI|Intel Platinum|工业项目",
+   "email": "Hi RIM2000 team,\n\nFifteen years of Intel Technology Provider Platinum plus real industrial references like Interpipe Novomoskovsky - that's system-integrator grade, not box shifting.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed to land inside project BOMs as the documented second source for PoE access.\n\nOne question: in your industrial project BOMs, which PoE access switch level are you anchoring today - and is a documented second source something your procurement would take a look at?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 项目 BOM 随单方案页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-023",
+   "fact": "РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G",
+   "inference": "运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容",
+   "hypothesis": "开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "ROMSAT специализируется в многопрофильной проектной дистрибуции телекоммуникационного и телевизионного оборудования…Украина, а также Грузия и Болгария",
+     "source": "https://www.axxonsoft.com/partners/partner-locator/ukraine/romsat"
+    },
+    {
+     "dim": "在架",
+     "quote": "CRS418-8P-8G-2S+5axQ2axQ-RM…QSFP28 100G…SFP+ 10G",
+     "source": "https://romsat.ua/partners/mikrotik/"
+    }
+   ],
+   "unknowns": [
+    "电信/多形态三站谱里 PoE 接层现供",
+    "CRS418 在架是否说明高位资费段已锁,我们的 value 层在哪插"
+   ],
+   "swot": {
+    "S": "运营商项目谱+三站+MTCSA 证",
+    "W": "谱太宽,单列进难",
+    "O": "三站 value 随单",
+    "T": "运营商压谱导价惨"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "电信/多形态项目分销三站的 value PoE 档随单",
+   "question": "你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？",
+   "tag": "乌克兰|基辅|电信头端|三站|MTCSA",
+   "email": "Hi Romsat team,\n\nMulti-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.\n\nOne question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 跨三站随单方案页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-024",
+   "fact": "SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队",
+   "inference": "M2M/IoT/蜂窝谱是先锋盘面（Huaptec 独家、Teltonika 面）,MikroTik 是配送位;蜂窝 M2M/网关/传感器部署接线端=PoE 是加温档",
+   "hypothesis": "开口角度=「M2M/IoT 项目部署的 PoE（蜂窝+传感器+视频监控的工业 DIN 轨）细支线」——STI-288GP 温宽 DIN 轨比 STC-424 用来服务 M2M/IoT 网更对口",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "2G, 3G, 4G, Wi-Fi, M2M, IoT, LoRaWAN, VoIP рішення",
+     "source": "https://www.facebook.com/shopgsm/"
+    },
+    {
+     "dim": "伙伴",
+     "quote": "Huaptec (Hiboost) – ексклюзивний дистриб'ютор; Teltonika – офіційний дистриб'ютор…OpenVox…Grandstream…Nextivity",
+     "source": "https://www.youtube.com/c/Shop-gsmNet/videos"
+    }
+   ],
+   "unknowns": [
+    "M2M/LoRaWAN 项目的 DIN 轨 PoE 部署谱密度",
+    "Teltonika 官方谱内是否已覆盖 DIN 轨 PoE 这部分"
+   ],
+   "swot": {
+    "S": "M2M/IoT 先锋谱+独家埠径",
+    "W": "蜂窝主位非交换支",
+    "O": "M2M 项目 DIN 轨 PoE 细支",
+    "T": "Teltonika 官谱总有疑似品"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "M2M/IoT 先锋案的 DIN 轨 PoE 细支位:温宽 8 口最对口蜂窝/传感支线",
+   "question": "你们的 M2M/LoRaWAN 项目现场（汇柜/传感支站）DIN 轨 PoE 现供哪家？Teltonika 内配之外有没有第二源？",
+   "tag": "乌克兰|基辅|M2M先锋|Teltonika|Huaptec独家",
+   "email": "Hi SHOP-GSM team,\n\nM2M/IoT pioneers with Huaptec exclusive rights, Teltonika official distribution, and a real LoRaWAN/cellular deployment history - your field cabinets are solving power and connectivity for the messiest edge cases.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the right size for sensor branches and cellular edge kits.\n\nOne question: for your M2M/LoRaWAN field cabinets, which DIN-rail PoE switch are you standardizing on alongside the Teltonika gear - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 DIN 轨样张+温宽测试包",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-009",
+   "fact": "Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到",
+   "inference": "零足迹个体顾问;Kryvyi Rih=重工业矿城,当地证明是独特矿区网络价值",
+   "hypothesis": "零足迹守档:回插具名/mikrotik.com 查现证后视足迹定,不出信",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "mikrotik.com 现证",
+    "Kryvyi Rih 矿区客户资源带"
+   ],
+   "swot": {
+    "S": "三证+矿业重工业城市独特性",
+    "W": "零足迹",
+    "O": "具名回插案例",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "乌克兰个体顾问谱统一",
+   "question": "Kryvyi Rih 矿区/重工业案里,PoE 接层现供？",
+   "tag": "乌克兰|KryvyiRih|个体顾问|零足迹",
+   "email": "【合作通道·备养】回插具名后始定",
+   "followups": [
+    "D+14 具名核查 → 视足迹定"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-026",
+   "fact": "Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到",
+   "inference": "Dnipro 是乌军工/航天重点区（产业敏感区+战争近序）;顾问零足迹需具名完备回插再定",
+   "hypothesis": "守档不入出信序——个体、零足迹、敏感区牌——回插案成再议",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCEWE",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续+论坛活跃",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "现证+具名 LinkedIn 足迹",
+    "Dnipro 区域产业敏感面评估"
+   ],
+   "swot": {
+    "S": "双证",
+    "W": "Dnipro 近战区+零足迹",
+    "O": "待定",
+    "T": "失联面"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "乌克兰个体顾问谱统一",
+   "question": "（守档不入触点）",
+   "tag": "乌克兰|Dnipro|个体顾问|敏感区",
+   "email": "【合作通道·备养】回插具名后始定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-031",
+   "fact": "Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将",
+   "inference": "ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E",
+   "hypothesis": "软件 CEO/GM+多证+乌办 GM 复合者:过往的咨询谱现在更倾向于「软件方案商侧的网络选型岗」;Consult 线开口谱:具名 LinkedIn 引见+「老牌软件方案商」话谱",
+   "evidence": [
+    {
+     "dim": "足迹",
+     "quote": "Coders in UA team…1999-…MTCWE Issued Sep 2016…MTCRE Issued Jun 2016…MTCNA Issued May 2015",
+     "source": "https://www.linkedin.com/in/blackvs/"
+    },
+    {
+     "dim": "现职",
+     "quote": "Volodymyr Sydorenko…General Manager, Ukranian Branch (Cinegy Systems Llc) at Cinegy",
+     "source": "https://www.zoominfo.com/p/Volodymyr-Sydorenko/11098653389"
+    }
+   ],
+   "unknowns": [
+    "现从属（Coders in UA vs Cinegy）明确与否",
+    "Cinegy 侧的谱或 Coders 侧现案参考"
+   ],
+   "swot": {
+    "S": "软+网双深功(25 年软 GM+三证）",
+    "W": "现职变动、接点意向未明",
+    "O": "软方案商网络选型角度谱",
+    "T": "面谱未实/守界反馈"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "软件 CEO 双深谱走顾问关系线,不入上架",
+   "question": "你现在主导的方案里,PoE 接层选型现用哪家？「老软+网顾问」运续吗？",
+   "tag": "乌克兰|Zhytomyr|软资CEO25年|Cinegy乌办GM",
+   "email": "【合作通道·备养】具名 LinkedIn 引见走师者通道",
+   "followups": [
+    "D+14 LinkedIn 具名引见谱",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  },
+  {
+   "code": "B-032",
+   "fact": "WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统",
+   "inference": "店+集成低规模血统:贸易限货类店叠率低,集成服务为二级市场营收引擎;向政企客拉货=集销商服务化电商谱",
+   "hypothesis": "开口角度=「政企集成业务的 PoE 接层 value SKU 档随单」——WinTik 政企类目+СКД/视频监控集成谱多=刚需 PoE 接入交换在 BOM 决定性位置",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "В 2017 году мы стартовали с небольшого интернет-магазина для провайдеров…официальным реселлером Mikrotik",
+     "source": "https://wintik.com.ua/about-us"
+    },
+    {
+     "dim": "服务",
+     "quote": "услуги по монтажу и настройке СКД, СКС, видеонаблюдения",
+     "source": "https://wintik.com.ua/about-us"
+    }
+   ],
+   "unknowns": [
+    "政企业务 PoE 接层现行选型",
+    "店货业务的 value PoE 档存货进深"
+   ],
+   "swot": {
+    "S": "政企项目+集成服务双血",
+    "W": "店谱杂、供应链面浅",
+    "O": "政企 BOM 随单",
+    "T": "政企项目对品牌谱守度"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）",
+   "question": "你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？",
+   "tag": "乌克兰|WinTik|政企集成|店+服双血",
+   "email": "Hi WinTik team,\n\nAccess control, structured cabling, video surveillance, and a government/corporate client roster - your integration business makes the PoE access layer one of the most BOM-critical parts of what you deliver.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.\n\nOne question: for the access-control and surveillance projects you deliver to corporate and government clients, which PoE access switch are you standardizing on today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 СКД/监控项目 BOM 随单方案页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": "（乌克兰经营状态敏感:不触战事议题,只谈商业;如回插具名先问经营与物流现状是否仍正常）"
+  }
+ ]
+}

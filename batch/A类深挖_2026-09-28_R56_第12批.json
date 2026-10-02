@@ -1,0 +1,907 @@
+{
+ "batch": 22,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-111",
+   "fact": "Universal Networks（英国 Hungerford）：30 年光纤/布线器材供应商——“30 years’ technical expertise…tailored solutions through a broad range of products from carefully selected industry partners”；咨询电话 01488 685800",
+   "inference": "无源主干供应商，CSV 载 Allied Telesis 信号=其架上曾有 active 位——Multipartner 模式下 active 补位是天然进函角度",
+   "hypothesis": "“carefully selected industry partners”=挑件看文档与稳定性，OEM 候选评有门",
+   "evidence_main": "https://www.universalnetworks.co.uk/",
+   "tech": "光纤/布线器材分销（30 年）",
+   "hr": "30 年",
+   "contact_found": "01488 685800 电话口（CSV 注无公开邮箱）；自域 MX 存活（mail.universalnetworks.com）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无公开邮箱——电话/联系表单先行（如实标注 contact_first）",
+   "dims": {
+    "业务定位": "英 30 年光纤布线器材供应（multipartner）",
+    "产品线与在售品牌": "光纤/布线（Allied 信号=架上 active 位）",
+    "目标行业与场景": "工程商/布线项目",
+    "团队与规模": "中型供应商",
+    "决策链与对接人": "01488 685800",
+    "技术与认证": "30 年专门",
+    "采购与供应链信号": "multipartner 挑件",
+    "近期动态与线索": "30 年庆页面",
+    "与我方契合点": "架上 active PoE 补位",
+    "风险与注意": "无公开邮箱"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“30 years’ technical expertise…tailored solutions through a broad range of products from carefully selected industry partners”",
+     "source": "https://www.universalnetworks.co.uk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 电话先一步",
+     "push": "STC-424DGGPM-280W",
+     "angle": "光纤旁的 active PoE 补位",
+     "question": "架上 active 层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 挑件标准",
+     "push": "文档包",
+     "angle": "carefully selected 的评件标准",
+     "question": "挑件门槛与文档要求？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 上架试点",
+     "push": "样机+案例",
+     "angle": "multipartner 上架",
+     "question": "评测窗？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "30 年光纤布线供应（multipartner 挑件文化）",
+     "②芯片/型号": "Allied 信号（架上 active 位）",
+     "③KP 深挖": "电话口先行",
+     "④Saga 对标": "架上 active 补位",
+     "⑤在乎与偏好": "文档与稳定性",
+     "⑥SWOT": "S 30 年专业 / W 无邮箱 / O 补位 / T 大牌"
+    },
+    "care": [
+     "挑件文档"
+    ],
+    "swot": {
+     "S": "专业",
+     "W": "无邮箱",
+     "O": "补位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "active 位现状未核",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "电话先行"
+   },
+   "unknowns": [
+    "active 层现供",
+    "挑件门槛",
+    "上架结构"
+   ],
+   "email": "Hi Universal Networks team,\n\nThirty years of carefully selecting partners for fibre and cabling - a catalog built on discipline, not volume.\n\nWe build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW. A natural active-layer companion to a passive-layer catalog.\n\nOne question: on your shelves next to the fibre and copper, is there an open slot for a value PoE access switch?\n\nHappy to arrange a brief call at 01488 685800 hours, or send one unit with documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "On your shelves next to the fibre and copper, is there an open slot for a value PoE access switch?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "英国|30年光纤布线|multipartner|active补位",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-112",
+   "fact": "BRS Networks AB（瑞典）：15 年 IT 托管商——Modern Workplace/网络安全/*Nätverk som tjänst（网络即服务）*/数字基建；**“为多种行业：医疗(bejukvård)、建筑(bwygg)、电网(elnät)、金融(ekonomi)”**；**80 名技术专家**；24/7 IT 与 OT 环境监控；本地化+全国覆盖",
+   "inference": "NaaS 订阅模式+OT 监控=下联接入件是持续滚动消耗位；医疗/电网段对 value 件的规格审查严",
+   "hypothesis": "80 专家级团队=实测级技术语言有效；NaaS 计费模式让单件 TCO 话术直接命中",
+   "evidence_main": "https://brsnetworks.se/",
+   "tech": "NaaS/M365/安全/OT 监控",
+   "hr": "15 年；80 技术专家",
+   "contact_found": "info@brsnetworks.se；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "瑞典 NaaS/托管 IT（OT 监控强项）",
+    "产品线与在售品牌": "NaaS/M365/安全（Allied 信号）",
+    "目标行业与场景": "医疗/建筑/电网/金融",
+    "团队与规模": "80 技术专家",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "24/7 IT+OT 监控",
+    "采购与供应链信号": "NaaS 滚动消耗",
+    "近期动态与线索": "Leadfeeder 营销活跃",
+    "与我方契合点": "NaaS 接入位 value 件",
+    "风险与注意": "医疗/电网规格审查"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Säkrar och övervakar IT- och OT-miljöer dygnet runt…80 tekniska experter…sjukvård, bygg, elnät eller ekonomi”",
+     "source": "https://brsnetworks.se/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · NaaS TCO 一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "NaaS 接入位单件 TCO",
+     "question": "NaaS 接入层现供？",
+     "proof": "TCO 对比页"
+    },
+    {
+     "stage": "第 2 次跟进 · OT 位",
+     "push": "STI-288GP",
+     "angle": "OT 监控场景的工业接入",
+     "question": "OT 段接入件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 80 专家评测",
+     "push": "样机+报告",
+     "angle": "实测评测",
+     "question": "评测窗？",
+     "proof": "报告"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "15 年 NaaS；IT+OT 24/7；80 专家",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "NaaS 接入位 TCO 话术",
+     "⑤在乎与偏好": "TCO+规格文档",
+     "⑥SWOT": "S NaaS 滚动 / W 审查严 / O OT 位 / T 大牌"
+    },
+    "care": [
+     "TCO 对比文档"
+    ],
+    "swot": {
+     "S": "NaaS滚动",
+     "W": "审查",
+     "O": "OT",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "NaaS 接入现供",
+    "OT 件现供",
+    "评测窗"
+   ],
+   "email": "Hej BRS Networks,\n\nNätverk som tjänst with 80 technical experts and 24/7 monitoring of IT and OT environments - that model lives and dies by the unit economics of the access layer.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) engineered exactly for NaaS-scale access deployments. Reference: $165 USD EXW - a TCO position worth testing against your current supply.\n\nOne question: in your NaaS deployments across healthcare, construction and financial customers, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation for your lab bench. If not a fit, one line and I close the loop.\n\nMed vänliga hälsningar,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your NaaS deployments, who supplies the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "瑞典|NaaS托管|OT监控|80专家",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-113",
+   "fact": "A3 Communications（美国缅因 Cumberland Foreside）：Cook & Boardman Group（2025 年整合更名 **CBX Solutions**）旗下安防/网络事业部——门类五金+**系统集成（访问控制/视频监控）+结构化布线与网络基础设施+A/V**；“National Presence. Local Service.”全国分支网；CSV 直邮 salesteam@a3communications.com 有效",
+   "inference": "并入大集团后全国项目管线与安防/楼宇接入柜滚动量放大——集团级供应链为入口，A3 品牌团队保持项目执行",
+   "hypothesis": "CSV 所载 Allied Telesis 信号对应 CBX 网络事业部的接入层现供——value 位替换空间大",
+   "evidence_main": "https://www.cbxsolutions.com/",
+   "tech": "门类+安防集成+布线/网络/A/V 一体交付",
+   "hr": "全国分支网（Cook & Boardman 集团）",
+   "contact_found": "salesteam@a3communications.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "集团采购口（CBX Solutions 供应链）或在集团层面——建档推进时留意域名迁移（a3→cbxsolutions.com）",
+   "dims": {
+    "业务定位": "CBX 集团全国楼门/安防/网络一体交付",
+    "产品线与在售品牌": "门类/访问/监控/布线/AV（Allied 信号来自网络事业部）",
+    "目标行业与场景": "商建/机构楼宇",
+    "团队与规模": "全国集团级",
+    "决策链与对接人": "salesteam@a3 口+集团采购",
+    "技术与认证": "全国分支",
+    "采购与供应链信号": "全国项目管线",
+    "近期动态与线索": "2025 CBX 整合更名",
+    "与我方契合点": "楼宇安防/网络接入柜 value 位",
+    "风险与注意": "集团采购中心化"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Integrated commercial openings, security, and technology - delivered as one…structured cabling, network infrastructure, and A/V systems…National Presence. Local Service.”",
+     "source": "https://www.cbxsolutions.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 楼宇一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "访问/监控接入柜 value 位",
+     "question": "楼宇安防接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团准入",
+     "push": "CE/案例/文档包",
+     "angle": "集团级上架准入",
+     "question": "集团采购准入路径？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 全国滚动",
+     "push": "分支阶梯",
+     "angle": "全国分支滚动",
+     "question": "分支采购结构？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CBX 全国集团（A3 为安防/网络事业部）；2025 更名整合",
+     "②芯片/型号": "Allied 信号（网络事业部接入层）",
+     "③KP 深挖": "salesteam@a3（CSV）",
+     "④Saga 对标": "楼宇接入柜 value 位",
+     "⑤在乎与偏好": "集团认证+文档",
+     "⑥SWOT": "S 全国管线 / W 采购中心化 / O 整合窗口 / T 集团既有供方"
+    },
+    "care": [
+     "集团上架文档"
+    ],
+    "swot": {
+     "S": "管线",
+     "W": "集权",
+     "O": "整合窗",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "集团目录未逐抓",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "主品牌页"
+   },
+   "unknowns": [
+    "接入层现供",
+    "集团准入",
+    "分支采购结构"
+   ],
+   "email": "Hi A3 / CBX Solutions team,\n\nCongratulations on the rebrand into CBX Solutions - uniting doors, security and network technology under one national team is a big, well-timed move.\n\nWhere access control and video surveillance meet structured cabling, there is a PoE access cabinet on every floor. That is the switch we build: 24-port, 280W, 802.3af/at, Voice VLAN, watchdog. Reference: $165 USD EXW.\n\nOne question: across CBX network-solutions projects, who supplies the PoE access switches today?\n\nIf useful, I can send one unit with the full compliance and documentation pack for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Across CBX network-solutions projects, who supplies the PoE access switches today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|CBX集团楼宇|安防网络一体|全国分支",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-114",
+   "fact": "Amplitel Technologies（威斯康星 Kaukauna）：托管 IT 商——托管 IT/云/无线勘查/布线/服务器/备灾+网络安全（CJIS/HIPAA/PCI 合规）+本地安防（on-prem security)+商显 A/V；**客户：Kaukauna Utilities 公营水电+Kaukauna 市**（Avaya 电话/安防系统/网络）；CEO Aaron Lahm 具名；“No Nonsense IT”透明定价",
+   "inference": "公共事业（CJIS 执法合规）是其招牌客群——非国防级，地方公用事业段在美属常规商用；“安全中心”文化=文档与合规清单必查",
+   "hypothesis": "“透明定价”文化对 $165 一口价锚点话术天然亲和",
+   "evidence_main": "https://ampliteltech.com/",
+   "tech": "托管 IT/安全/布线/无线勘查",
+   "hr": "Kaukauna 本地深耕",
+   "contact_found": "sales@ampliteltech.com（CSV 具）；Sales：(920) 755-5334；MX=PPE-hosted 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "公营事业段走常规商务即可（非联邦红线）；CEO Lahm 具名可选",
+   "dims": {
+    "业务定位": "威斯康星托管 IT（安全中心文化）",
+    "产品线与在售品牌": "托管IT/云/布线/无线/A/V（Allied 信号）",
+    "目标行业与场景": "地方公用事业/城市/商企",
+    "团队与规模": "本地中型",
+    "决策链与对接人": "CEO Aaron Lahm/sales@ 口",
+    "技术与认证": "CJIS/HIPAA/PCI 话术",
+    "采购与供应链信号": "本地项目滚动",
+    "近期动态与线索": "公营客户关系示证",
+    "与我方契合点": "公用事业楼宇接入柜",
+    "风险与注意": "合规文档必查"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Kaukauna Utilities and the City of Kaukauna…Avaya phone systems, security systems, and networks…protects your systems, meets CJIS, HIPAA, and PCI requirements”",
+     "source": "https://ampliteltech.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 透明定价一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "$165 一口价 vs 在位件价",
+     "question": "公用事业楼宇接入层现供？",
+     "proof": "价+规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 合规文档",
+     "push": "CE/测试包",
+     "angle": "安全中心文化的合规清单",
+     "question": "文档门槛？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · 无线/布线联动",
+     "push": "survey 随单位",
+     "angle": "无线勘查后的接入件",
+     "question": "勘查后接入随单率？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "威州托管 IT；公营事业客群；No-Nonsense 定价",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "CEO Lahm 具名",
+     "④Saga 对标": "公用事业接入柜+透明价",
+     "⑤在乎与偏好": "合规文档+透明价",
+     "⑥SWOT": "S 公营粘性 / W 审查 / O 透明价契合 / T 大牌"
+    },
+    "care": [
+     "合规文档"
+    ],
+    "swot": {
+     "S": "公营",
+     "W": "审查",
+     "O": "价契合",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入层现供",
+    "文档门槛",
+    "survey 随单率"
+   ],
+   "email": "Hi Aaron / Amplitel team,\n\n\"No unnecessary add-ons, no sneaky upcharges\" - a rare and admirable stance in IT services. We build products the same way: one price, full documentation, no license games.\n\nOur 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) carries one transparent reference: $165 USD EXW - complete with the compliance and test pack your CJIS/HIPAA/PCI-minded customers expect.\n\nOne question: for Kaukauna-area utility and city buildings, who supplies the PoE access layer for phones, cameras and wireless today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "For your utility and city buildings, who supplies the PoE access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|威州MSP|公营事业|透明定价文化",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-115",
+   "fact": "BCL Enterprises（俄亥俄 Middletown）：**女性持有 ICT 设计+安装公司（WBE/WOSB/DBE/Ohio EDGE 认证）**——布线基建/A/V/无线/物理安防门禁告警/监控摄像/VoIP/**DAS 应急+蜂窝分布式天线**/沉浸式环境（电竞）；**客群：PreK-12+高教+医疗+政府+会展+图书馆+体育馆+多单元住宅+机场+辅助生活**；团队持行业标准委员会席位",
+   "inference": "政府+教育+公务设施为招牌客群（含机场/政府楼）——美国地方政府/教育段非联邦红线但采购规范严；DBE 认证=其投标路径常需少数/多元配比",
+   "hypothesis": "设计咨询+安装双身份=接入件多为指定后采购，设计师文化接受“文档齐全候选件”",
+   "evidence_main": "https://bclenterprise.com/",
+   "tech": "ICT 设计安装：布线/AV/无线/安防/VoIP/DAS",
+   "hr": "女性持有团队（WBE/WOSB/DBE/EDGE）",
+   "contact_found": "info@bclenterprise.com（CSV 具）；MX=O365+PPE 双栈存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "政府/教育段走常规商务（美国地方段非红线）；Christy Miller（负责人，见证多次具名）为决策核心",
+   "dims": {
+    "业务定位": "俄亥俄女性持有 ICT 设计安装（多认证）",
+    "产品线与在售品牌": "布线/AV/无线/安防/DAS（Allied 信号）",
+    "目标行业与场景": "教育/医疗/政府/体育/住宅",
+    "团队与规模": "标准委员会级团队",
+    "决策链与对接人": "Christy Miller 负责人级",
+    "技术与认证": "WBE/WOSB/DBE/EDGE",
+    "采购与供应链信号": "设计指定→采购",
+    "近期动态与线索": "行业委员会活跃",
+    "与我方契合点": "指定候选件的接入层 value 位",
+    "风险与注意": "政府教育采购规范"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“WBE, WOSB, DBE, and Ohio EDGE Certified…Pre K-12, Higher Education, Health Care, Government…team members lead standards development, sit on and chair professional association committees”",
+     "source": "https://bclenterprise.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 设计指定一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "布线指定单上的接入层 value 位",
+     "question": "设计指定单接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 委员会级文档",
+     "push": "测试+合规包",
+     "angle": "标准委员会文化",
+     "question": "文档门槛？",
+     "proof": "包"
+    },
+    {
+     "stage": "第 3 次跟进 · DBE 结构",
+     "push": "配套方案",
+     "angle": "多元配比项目协作",
+     "question": "DBE 项目协作结构？",
+     "proof": "方案"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "女性持有 ICT 设计安装（WBE/WOSB/DBE）；团队标准委员会级",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "Christy Miller 具名",
+     "④Saga 对标": "指定单接入层 value 位",
+     "⑤在乎与偏好": "标准级文档",
+     "⑥SWOT": "S 认证稀缺 / W 采购规范 / O 指定位 / T 大牌"
+    },
+    "care": [
+     "标准级文档"
+    ],
+    "swot": {
+     "S": "认证",
+     "W": "规范",
+     "O": "指定",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "指定单接入件",
+    "DBE 协作",
+    "文档门槛"
+   ],
+   "email": "Hi Christy / BCL team,\n\nA design practice whose team sits on standards committees - your specification sheets carry real authority with school districts and public owners.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with the complete test and compliance documentation your specifications demand. Reference: $165 USD EXW - a value line that helps districts stretch their NETWORK budgets.\n\nOne question: on your ICT design specifications for schools and public facilities, which switch brands currently hold the access-layer slots?\n\nIf useful, I can send one unit with full documentation for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "On your ICT design specifications, which switch brands hold the access-layer slots?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|女性持有ICT|设计指定|多认证",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-116",
+   "fact": "GSI Gemellaro Systems Integration（密歇根 Troy）：30+ 年高规格物理安防+网络基建集成商——客户墙：**US Army Corps of Engineers（联邦红线）、DTE、Consumers Energy、Ford、Rocket Mortgage、AAA、Marathon、Detroit Lions、EMU、St. Joseph's Health**；自述“untied to any specific vendor（不受任何单一厂商绑定）”",
+   "inference": "厂商中立自述+客户墙横跨能源/汽车/金融/体育/医疗——接入层指定权大，联邦军段红线不触不碍其余",
+   "hypothesis": "“untied to any specific vendor”=对新候选件开放评——进函直引原话",
+   "evidence_main": "https://securityandnetworks.com/",
+   "tech": "物理安防+网络基建+托管",
+   "hr": "30+ 年；全国项目",
+   "contact_found": "info@securityandnetworks.com；MX=Outlook EO 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "USACE 联邦段红线不触（其余企业段正常商务）",
+   "dims": {
+    "业务定位": "密歇根 30 年安防/网络集成（厂商中立）",
+    "产品线与在售品牌": "安防/网络基建/托管（Allied 信号）",
+    "目标行业与场景": "能源/汽车/金融/体育/医疗",
+    "团队与规模": "东南密歇根全国项目",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "30+ 年",
+    "采购与供应链信号": "指定权+中立",
+    "近期动态与线索": "指挥中心项目史",
+    "与我方契合点": "中立语境候选件",
+    "风险与注意": "联邦军段红线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Untied to any specific vendor, we can offer the best solution for your unique case…US Army Corps, DTE, Ford, Rocket Mortgage, Detroit Lions”",
+     "source": "https://securityandnetworks.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 中立一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "厂商中立语境候选评",
+     "question": "安防/网络接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 能源段",
+     "push": "STI-288GP",
+     "angle": "DTE/Consumers 类能源站接入",
+     "question": "能源场景接入件？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 指挥中心史",
+     "push": "案例对照",
+     "angle": "其指挥中心项目的接入层",
+     "question": "指挥项目接入件结构？",
+     "proof": "案例"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "30 年安防/网络集成（厂商中立）；客户墙能源/汽车/金融/体育",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "中立候选件",
+     "⑤在乎与偏好": "指定级文档",
+     "⑥SWOT": "S 中立+客户墙 / W 军段红线 / O 能源段 / T 大牌"
+    },
+    "care": [
+     "指定级文档"
+    ],
+    "swot": {
+     "S": "中立",
+     "W": "军红线",
+     "O": "能源",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "接入层现供",
+    "能源场景件",
+    "评测窗"
+   ],
+   "email": "Hi GSI team,\n\n\"Untied to any specific vendor, we can offer the best solution for your unique case\" - that independence is exactly where we hope to earn a bench evaluation.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW. (To be explicit: our note concerns your commercial and industrial customers only - we do not pursue federal engagements.)\n\nOne question: across your energy, automotive and enterprise projects, which switch brand holds the PoE access layer for cameras and wireless today?\n\nIf useful, I can send one unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Across your energy and enterprise projects, which switch brand holds the PoE access layer?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|密歇根集成|厂商中立|军段红线",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-117",
+   "fact": "Griffon Security Technologies（美国缅因 Kennebunk）：缅因本地安防集成商——“Integration with Integrity”：访问控制/监控/告警集成+安装质量文化；LinkedIn/Facebook 渠道活跃",
+   "inference": "小型本地安防商：摄像头柜 PoE 随单件是核心采购；价格敏感+一站式捕鱼",
+   "hypothesis": "“integrity / installation quality”文化=随单可靠性话术（看门狗/防雷）有效",
+   "evidence_main": "https://www.griffonsecurity.com/",
+   "tech": "安防集成：门禁/监控/告警",
+   "hr": "缅因本地小型",
+   "contact_found": "sales@griffonsecurity.com（CSV 具）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "缅因本地安防集成（安装质量文化）",
+    "产品线与在售品牌": "门禁/监控/告警（Allied 信号）",
+    "目标行业与场景": "本地商业安防",
+    "团队与规模": "小型",
+    "决策链与对接人": "sales@ 口",
+    "技术与认证": "安装标准文化",
+    "采购与供应链信号": "随单采购",
+    "近期动态与线索": "社媒活跃",
+    "与我方契合点": "摄像头柜 value PoE",
+    "风险与注意": "单量小"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Integration with Integrity…any system's value and utility can only rise to its level of installation quality”",
+     "source": "https://www.griffonsecurity.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 安装质量一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "摄像头柜 value PoE+看门狗",
+     "question": "摄像头柜现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 随单结构",
+     "push": "样机",
+     "angle": "随单件评测",
+     "question": "评测窗？",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 滚动订单",
+     "push": "小批和数量阶梯",
+     "angle": "本地滚动",
+     "question": "月量？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "缅因本地安防（integrity 文化）",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "sales@",
+     "④Saga 对标": "摄像头柜 value PoE",
+     "⑤在乎与偏好": "可靠性",
+     "⑥SWOT": "S 质量文化 / W 体量小 / O 随单位 / T 大牌"
+    },
+    "care": [
+     "可靠性文档"
+    ],
+    "swot": {
+     "S": "质量",
+     "W": "规模",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "摄像头柜现供",
+    "月量",
+    "评测窗"
+   ],
+   "email": "Hi Griffon team,\n\n\"Any system's value can only rise to its level of installation quality\" - we build hardware with the same belief: a camera cabinet is only as good as the switch that will not drop a camera in year three.\n\nOur 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog auto-restarts frozen cameras) fits exactly the cabinets you install every week. Reference: $165 USD EXW.\n\nOne question: in your Maine installations, who supplies the PoE switches for camera and access-control closets today?\n\nIf useful, I can send one unit to try in a real cabinet. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your Maine installations, who supplies the PoE switches for camera closets today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|缅因安防小商|安装质量文化|随单",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-118",
+   "fact": "HBS Heartland Business Systems（威斯康星 Little Chute）：中大企业技术全栈商——基础设施转型（数据中心）/协作（Webex）/网络安全（SOC/IR/渗透/GRC）/托管 IT（Managed One）/应用开发；伙伴墙：Cisco/HPE/Microsoft/Verkada/Lenovo/Everpure；Copilot 生态营销活跃",
+   "inference": "伙伴墙=一线大牌（Cisco/HPE/Verkada）——其接入层被在位大牌主力占据；CSV 具名邮箱 jgasperich@hbs.net 为第三方名录来源，质量存疑",
+   "hypothesis": "大牌同盟结构下 value 位切入空间窄：最现实角度=报价受限项目/中小客户的价值线补位——承认大牌主场并定位“第二架”",
+   "evidence_main": "https://www.hbs.net/",
+   "tech": "数据中心/协作/SOC/托管/开发",
+   "hr": "中大企业级",
+   "contact_found": "jgasperich@hbs.net（CSV 第三方名录——**来源质量存疑，进退两可，标注**）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "jgasperich 邮箱为 third-party listing（可能离职/失准）——以官网联系主路为先，具名邮箱作辅助并如实标注来源",
+   "dims": {
+    "业务定位": "威州中大企业技术全栈商",
+    "产品线与在售品牌": "Cisco/HPE/MS/Verkada 一线同盟",
+    "目标行业与场景": "中大企业/数据中心",
+    "团队与规模": "中大型",
+    "决策链与对接人": "官网联系口主路+jgasperich 辅助",
+    "技术与认证": "SOC/渗透级",
+    "采购与供应链信号": "伙伴目录内采购",
+    "近期动态与线索": "Copilot 生态营销",
+    "与我方契合点": "第二架价值线（窄判别）",
+    "风险与注意": "大牌同盟强"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”",
+     "source": "https://www.hbs.net/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 第二架一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "承认大牌主场+报价受限项目的价值线",
+     "question": "有无预算受限项目需要第二供位？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 邮箱质量",
+     "push": "—",
+     "angle": "确证 jgasperich 在职（第三方名录存疑）",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 降级条款",
+     "push": "—",
+     "angle": "若大牌同盟无缺口，建档留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "中大企业全栈商；一线伙伴同盟（Cisco/HPE/Verkada）；value 位窄",
+     "②芯片/型号": "Allied 信号（CSV 载）",
+     "③KP 深挖": "jgasperich 第三方名录存疑",
+     "④Saga 对标": "第二架价值线（窄）",
+     "⑤在乎与偏好": "伙伴目录",
+     "⑥SWOT": "S 全栈 / W 同盟强 / O 预算线 / T 在位大牌"
+    },
+    "care": [
+     "伙伴目录配套"
+    ],
+    "swot": {
+     "S": "全栈",
+     "W": "同盟",
+     "O": "预算线",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "伙伴墙已见；自有 value 位未证",
+     "合作方式": "未谈",
+     "缺口证据": "value 缺口未证"
+    },
+    "gap_proof": "伙伴墙推定"
+   },
+   "unknowns": [
+    "value 缺口",
+    "jgasperich 在职性",
+    "评测窗"
+   ],
+   "email": "Hi HBS team,\n\nA partner wall anchored by Cisco, HPE and Verkada speaks for where your first shelf stands. We are not writing to displace it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - built for projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, or SMB rollouts inside your managed plans.\n\nOne question: when a project cannot carry the first-shelf price, is there a second approved value line at HBS today?\n\nIf useful, I can send one unit with full documentation for the lab. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When a project cannot carry the first-shelf price, is there a second approved value line at HBS?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|威州全栈|一线同盟|第二架窄位",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-119",
+   "fact": "ITC Technologies（Independent Telecommunications Corporation，纽约 Maybrook）：中小企托管 IT 商——托管 IT/**视频监控（commercial-grade HD/UHD）**/VoIP 电话系统/网络安全/云/业务连续性；“We manage your technology so you can manage your business”；客户见证含 Senior Independent Living Community 养老社区",
+   "inference": "监控+VoIP 双主线=随单 PoE 接入柜是惯件；SMB 价敏客群=value 位天然账号",
+   "hypothesis": "“cost-effective solution”自述文化=价格点直接命中",
+   "evidence_main": "https://www.itc-technologies.com/",
+   "tech": "托管 IT/监控/VoIP/安全",
+   "hr": "Maybrook NY 本地",
+   "contact_found": "官网联系主口（CSV 注无公开邮箱）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "无公开邮箱——联系表单/电话先行（TCO 话术自助）",
+   "dims": {
+    "业务定位": "纽约 SMB 托管 IT（监控+VoIP 双主线）",
+    "产品线与在售品牌": "托管IT/监控/VoIP/安全（Allied 信号）",
+    "目标行业与场景": "SMB/养老社区",
+    "团队与规模": "中小型",
+    "决策链与对接人": "官网联系口",
+    "技术与认证": "CDC 级 SMB 服务",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "2026 页面内容新鲜",
+    "与我方契合点": "SMB 随单 PoE 柜",
+    "风险与注意": "无公开邮箱"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“cost-effective solution to manage all aspects of your IT infrastructure…commercial-grade video surveillance…utilize the latest in VoIP technology”",
+     "source": "https://www.itc-technologies.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · cost-effective 一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "SMB 随单柜 value 位",
+     "question": "监控/VoIP 随单交换机现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 养老社区案例",
+     "push": "案例",
+     "angle": "天层面社区安防接入",
+     "question": "养老项目接入件结构？",
+     "proof": "案例"
+    },
+    {
+     "stage": "第 3 次跟进 · 联系策略",
+     "push": "—",
+     "angle": "无邮箱公司走电话/表单",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NY SMB 托管（监控+VoIP 双主线）；cost-effective 文化",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "官网表单身",
+     "④Saga 对标": "SMB 随单柜",
+     "⑤在乎与偏好": "价格点",
+     "⑥SWOT": "S 双主线随单 / W 无邮箱 / O SMB 价值位 / T 大牌"
+    },
+    "care": [
+     "价格页"
+    ],
+    "swot": {
+     "S": "双主线",
+     "W": "无邮箱",
+     "O": "价值位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "随单接入现供",
+    "电话线路",
+    "评测窗"
+   ],
+   "email": "Hi ITC team,\n\n\"We manage your technology so you can manage your business\" - and a cost-effective promise like that lives or dies by the hardware line underneath it.\n\nWe build the switch that sits in exactly your installs: 24-port Gigabit PoE, 280W, 802.3af/at, Voice VLAN, hardware watchdog - for camera and VoIP closets at SMB sites. Reference: $165 USD EXW.\n\nOne question: in your surveillance and phone-system rollouts, which PoE switch brand do your techs rack today?\n\nIf useful, I can share the spec page or arrange a sample unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your surveillance and VoIP rollouts, which PoE switch brand do your techs rack today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|纽约SMB托管|监控VoIP双主线|无邮箱",
+   "batch": 22,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-120",
+   "fact": "Kidwell Inc（内布拉斯加 Lincoln）：**75+ 年**技术设计集成商——视频监控/门禁/数据布线/电气承包/商务电话/A/V/虚拟建造（BIM);**客群：学校、医院、机场、企业、医疗**；自有电商 cart 页；校招/承建文化",
+   "inference": "75 年+电气承包+弱电一体=项目随单接入柜量大且稳定；学校/医院/机场段预算审批规范但常规商用",
+   "hypothesis": "“ONE TEAM ONE CALL”交钥匙文化=交钥匙 BOM 中接入层 value 件最能帮其压价中标",
+   "evidence_main": "https://www.kidwellinc.com/",
+   "tech": "监控/门禁/布线/电气/电话/AV/BIM",
+   "hr": "75+ 年；中西部区域",
+   "contact_found": "info@kidwellinc.com（CSV 具）；MX=Barracuda ESS 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "机场项目涉 FAA/TSA 基建规范——按常规商用即可（非联邦国防），不夸大",
+   "dims": {
+    "业务定位": "内布拉斯加 75 年弱电+电气一体集成",
+    "产品线与在售品牌": "监控/门禁/布线/电气/AV（Allied 信号）",
+    "目标行业与场景": "学校/医院/机场/企业",
+    "团队与规模": "区域中大型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "75 年+BIM",
+    "采购与供应链信号": "交钥匙 BOM",
+    "近期动态与线索": "电商 cart 常态",
+    "与我方契合点": "交钥匙 BOM 接入层 value 位",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“More Than 75 Years of Expertise…empowers schools, hospitals, airports and corporations…ONE TEAM ONE CALL”",
+     "source": "https://www.kidwellinc.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 交钥匙一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "交钥匙 BOM 的接入层 value 位（压价中标）",
+     "question": "交钥匙单接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 教育/医疗滚动",
+     "push": "阶梯",
+     "angle": "学校/医院滚动项目",
+     "question": "滚动量？",
+     "proof": "阶梯"
+    },
+    {
+     "stage": "第 3 次跟进 · 电气联动",
+     "push": "电气柜配套",
+     "angle": "其电气承包侧的机柜集成",
+     "question": "电气侧机柜集成结构？",
+     "proof": "方案"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "75 年弱电+电气一体（ONE TEAM ONE CALL）",
+     "②芯片/型号": "Allied 信号",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "交钥匙 BOM 接入层 value 位",
+     "⑤在乎与偏好": "中标价敏感",
+     "⑥SWOT": "S 75 年管线 / W 中西部规模 / O BOM 压位 / T 大牌"
+    },
+    "care": [
+     "BOM 对比页"
+    ],
+    "swot": {
+     "S": "管线",
+     "W": "规模",
+     "O": "压位",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未公开",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "—"
+   },
+   "unknowns": [
+    "BOM 接入现供",
+    "滚动量",
+    "电气侧结构"
+   ],
+   "email": "Hi Kidwell team,\n\nSeventy-five years, one team, one call - schools, hospitals and airports built on a single accountable BOM. That is exactly where hardware price discipline wins bids.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - a line item that moves a bid without moving the spec-grade behaviour.\n\nOne question: on your turnkey BOMs for schools and hospitals, which switch brand holds the PoE access slots today?\n\nIf useful, I can send one unit with full documentation for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "On your turnkey BOMs for schools and hospitals, which switch brand holds the PoE access slots?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "美国|75年弱电电气|交钥匙BOM|教育医疗机场",
+   "batch": 22,
+   "date": "2026-09-28"
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+# Acteos GmbH & Co. KG
+
+> **评级 A**　|　德国 · Gilching　|　档案编号 `A-135`　|　优先级 ★★★　|　状态：未触达
+>
+> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+
+```yaml structured_profile
+code: A-135
+rating: A
+country: 德国
+biz_org: 公司/工作室（有官网）
+business_model: 工程/集成项目制
+decision_speed: moderate
+price_sensitivity: medium
+volume_potential: 3  # 1-5
+needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
+p1: STC-424DGGPM-280W
+stage: 00-researched
+struct_version: v2  # v2 骨架
+updated: 2026-09-28
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
+- **商业模式**：工程/集成项目制
+- **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
+- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Acteos 法德 WMS SaaS：仓储 Wi-Fi 接入层随单（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
+- **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
+- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Acteos GmbH & Co. KG（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 德国 / Gilching | 事实 |
+| 网站 | https://www.acteos.de | 事实 |
+| 类型 | 集成商/代理（Allied Telesis） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | Allied Telesis（Marvell Prestera 接入层） | 事实（名录/自报口径） |
+| 组织性质 | 公司/工作室（有官网） | 【推断】 |
+| 商业模式 | 工程/集成项目制 | 【推断】 |
+| 团队规模 | 有官网组织，规模未量化 | 【推断】 |
+| 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Acteos GmbH（德国/法国，1982 年创）：供应链软件专家——WMS/TMS/FPS 采购预测/APS/BI/移动 App（100% SaaS）；**硬件配套：Auto-ID/移动终端/车载设备随方案**；客户墙 Mr.Bricolage/Auchan/Monoprix/Kiloutou/Bolloré Logistics/BIC/Clarins/Saint-Gobain Placo 等法德零售物流大牌；BVMID TOP 100 奖
+- 【推断】WMS 项目落地必配仓库 Wi-Fi 覆盖——**仓储无线接入层是其方案隐形 BOM**；仓库环境对 PoE 接入件（AP 供电）是持续随单位
+- 【假设】“软件+硬件一体交付”模式=件单可随 WMS 项目滚动；Auto-ID 硬件线说明其已有供件通道
+
+## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
+
+（待深挖批覆盖；当前仅有 CSV 名录口径：Allied Telesis（Marvell Prestera 接入层））
+
+> 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
+
+## 需求与场景（推断标签）
+
+- **推断需求面**：PoE 接入供电、L2+ 交换管理（VLAN/ERPS/QinQ）
+  - PoE 接入供电：【推断】依据 CSV 信号/深挖
+  - L2+ 交换管理（VLAN/ERPS/QinQ）：【推断】依据 CSV 信号/深挖
+
+## HR 与规模信号（招聘/团队/绿旗）
+
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+
+## 联系方式（已有/猜测分标）
+
+- **邮箱**：info@acteos.de
+  - 状态：既有/公开
+- **电话**：—
+- 来源等级：official（R41–R48 联系方式台账口径）
+- **原始联系字段**：info@acteos.de [Publicly listed; delivery not tested]; https://www.acteos.de
+- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+
+## 关键人（KP）与触达通道
+
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+
+## 跟进步骤（最多 3 次 · 成功/退出标准）
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+
+### 第 1 次跟进 · 工业级非管理 PoE（冷藏/高货架仓库点位）
+
+- **推什么**：STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）
+- **切入点**：WMS 项目的高货架与冷藏区（-25°C 冷库常年）：宽温 DIN PoE 给 AP/扫码网关供电联网——他们 Auto-ID 硬件的乘载段。
+- **要问的问题**：冷库和高货架区的 AP 供电交换用什么？
+- **随附证明**：宽温/-40 冷启动报告 + 冷库场景方案 + DIN 图（德文）。
+
+### 第 2 次跟进 · 24 口 CCTV/PoE（仓库整网接入层）
+
+- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **切入点**：整仓 Wi-Fi 改造项目的接入层：24 口 PoE++ 配机柜间上行，成本对照现用件。
+- **要问的问题**：整仓无线项目的接入层现在配什么？
+- **随附证明**：规格对照 + 单端口测算 + 交付说明（德文）。
+
+### 第 3 次跟进 · 管理型 PoE（多仓模板件）
+
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）
+- **切入点**：多仓部署模板：VLAN（运营/访客/IoT 三段）+ERPS 随 WMS 打包成标准附录。
+- **要问的问题**：多仓项目想不想把网络分段做成随 WMS 交付的标准件？
+- **随附证明**：VLAN/ERPS 模板 + 交付包方案（德文）。
+
+
+## R54 调研要点（加厚 · 全文见原始 JSON）
+
+> 调研日期 **2026-09-28**；原始记录：`batch/A类加厚_2026-09-28_R54_第7批.json`。以下为要点压缩，证据原文全部保留。
+
+- **业务定位**：法国 Acteos 集团的德国实体（Gilching/慕尼黑旁）：供应链软件为主、Auto-ID 移动硬件配套（扫码枪/车载终端），Allied Resell（CSV 记录）。
+- **产品线与在售品牌**：TMS/WMS/FPS/BI/移动应用 100% SaaS + Mobilität/Auto-ID 硬件（手持/车载/打印）。
+- **目标行业与场景**：零售与物流客户的仓配网络改造：仓库 Wi-Fi、扫码终端、冷链场景。
+- **团队与规模**：集团 400+ 人、德法欧三市场、2000+ 部署点位（官网）。
+- **决策链与对接人**：info@acteos.de（CSV 9-27 核验：Gilching 官网联系页公开，非法国总部邮箱）。
+- **技术与认证**：Allied Resell（CSV 记录）；BVMID TOP 100（2024）。
+- **采购与供应链信号**：软件主业：网络硬件需求=①客户仓库 Wi-Fi 基础设施配套 ②自有演示/测试环境——仓库高货架区无线覆盖是头号场景。
+- **近期动态与线索**：TOP 100 奖章 2024+SyncPro 新服务品牌（官网横幅）。
+- **与我方契合点**：仓库无线改造项目：高货架/冷藏区的工业 PoE+接入层 24 口，随其 WMS 项目配套——小批量持续件逻辑（同 Roadtech 策略）。
+- **风险与注意**：别把 24 口当主打先推：第一步先谈冷藏/高货架的工业件小批量，摸清其项目里网络配套占比再升级。
+
+### R54 原文证据摘录（全部保留）
+
+- **【业务定位】**官网：1982 年起领先的物流软件开发商——TMS/WMS/APS/BI/移动应用全谱系供应链软件商。
+  > Seit 1982 ist Acteos führend in der Entwicklung und Integration von Logistik-software… Lösungen decken alle kritischen Teile Ihrer Lieferkette ab, einschließlich Transportplanung (TMS) und Lagerverwaltung (WMS), erweiterte Planungssysteme (APS), Business Intelligence und mobile Apps.
+  > 来源：https://acteos.de/
+- **【技术与认证】**荣誉：BVMID（德国中型企业联合会）TOP 100 专家奖章——软件与硬件（Mobilität/Auto-ID）双线获颁。
+  > Wir bei Acteos sind stolz darauf, das renommierte TOP 100-Experten-Siegel der Bundesvereinigung Mittelstand in Deutschland (BVMID) erhalten zu haben… hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID
+  > 来源：https://acteos.de/
+- **【目标行业与场景】**客户墙以法国零售/物流大户为主：Auchan · Monoprix · Bolloré Logistics · Kiloutou · LDC · La Française des Jeux · Otis · Placo Saint-Gobain 等（法国总部背景，CSV 记录）。
+  > Eine Auswahl unserer zufriedenen Kunden（Logo 墙）：Auchan · Monoprix · Bolloré Logistics · Kiloutou · LDC · Euralis · La Française des Jeux · Otis · Placo Saint-Gobain · Mondial Relay
+  > 来源：https://acteos.de/
+- **【团队与规模】**规模自述：40+ 年创新、400+ 员工、德法欧盟多国市场、2000+ 点位部署。
+  > Mehr als 40 Jahre Innovation im Bereich der Lieferketten · Verbunden mit über 400 Mitarbeitern · Anwesend in 3 Märkten in Deutschland, Frankreich und EU · Mehr als 2000 ausgestattete Standorte
+  > 来源：https://acteos.de/
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+
+- **①背景再核**：供应链 SaaS 40+ 年；Auto-ID 硬件随单线
+- **②芯片/型号**：CSV 载 Allied 信号
+- **③KP 深挖**：info@
+- **④Saga 对标**：仓储 Wi-Fi 接入层随单
+- **⑤在乎与偏好**：项目文档
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**“TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
+  > “TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
+  > 来源：https://acteos.de/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：法德供应链软件（SaaS）+仓储硬件配套
+- **产品线与在售品牌**：WMS/TMS/FPS/BI+Auto-ID 终端
+- **目标行业与场景**：零售/物流/食品仓配
+- **团队与规模**：40+ 年 EU 中型
+- **决策链与对接人**：info@ 口
+- **技术与认证**：ISO 9001+BVMID TOP100
+- **采购与供应链信号**：随方案供件
+- **近期动态与线索**：SyncPro 新线
+- **与我方契合点**：仓储 Wi-Fi 接入层随单
+- **风险与注意**：软件商硬件深度待核
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Acteos 法德 WMS SaaS：仓储 Wi-Fi 接入层随单（$165 锚点一致） |
+| 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
+- **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
+
+## SWOT
+
+- **S**：场景
+- **W**：主轴
+- **O**：随单
+- **T**：大牌
+
+## 触达与风险红线
+
+**通用红线（所有客户适用）**
+
+1. 包装、外观、说明书**全部中性**，不出现「Made in China」，贴客户自己的型号。
+2. **台厂不是客户**，只是信号源。
+3. PoE 功率与工业温宽是最容易当场翻车的两项，口头承诺必须落到实测数据。
+4. 大集团先问清采购层级（国别 vs 集团统一）。
+5. 样机先送测，再谈价格。
+
+**停止开发条件（命中任一即停）**：3 次定向触达无任何实质回复；确认现用平台完全满足需求；只愿比价不愿谈场景；决策者确认接触不到；对方书面拒绝。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（PoE/接入层池） | ✅ |
+| 决策人识别 | ❓ |
+| 触达通道 | ✅ 邮箱域已验 MX |
+| 现用交换品牌 | ❓ 未确认 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
+
+## Unknowns（待问清单 · 首触后逐项消除）
+
+- **深挖专属待问（R56）**：
+  - [ ] 仓储接入现供
+  - [ ] 硬件随单结构
+  - [ ] 评测窗
+
+- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
+- [ ] 典型站点端口数与供电预算
+- [ ] 上门/故障频次（订阅制客户的核心成本）
+- [ ] 采购决策人与付款口径
+
+## 首触邮件（英文样板 · 可直接发送）
+
+**主题**：PoE switching for your projects
+
+```text
+Hi Acteos team,
+
+Every WMS go-live stands or falls with one invisible layer: warehouse Wi-Fi that keeps terminals and scanners connected aisle after aisle - and every one of those access points needs a PoE switch it can trust.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a reliable line for the warehouse access layer inside your project BOMs.
+
+One question: in your warehouse projects across Germany and France, whose switching feeds the RF access points today?
+
+If useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
+
+## 跟进记录
+
+| 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+
+## 下次复核
+
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
+- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
+
+---
+
+*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+---
+
+### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
+
+- **KP 领英直达**:[Acteos GmbH & Co. KG · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Acteos%20GmbH%20%26%20Co.%20KG)(无具名 KP 信号,先搜公司再加人;待查)
+- **中国进口与管制**:国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
+- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
+- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -1,0 +1,902 @@
+{
+ "batch": 31,
+ "date": "2026-09-28",
+ "source": "R55/R56 全A深挖·合并加厚",
+ "records": [
+  {
+   "customer": "A-201",
+   "fact": "Goretti Technological System S.r.l（意大利翁布里亚 Umbertide 圈，坐标 43.13N）：综合电工工程——安全/电气/能效（光伏）/**Reti e connettività（网络连接）**/自动化/**Assistenza 24/7 全天候**；24 小时运维等级自述",
+   "inference": "网络/连接是其六域之一（非主线）；“enti ed aziende”客户端=公共+企业双",
+   "hypothesis": "光伏+电气工程的项目里网络配套随单，Added 工况多为室内/半户外",
+   "evidence_main": "https://www.gorettitechnologicalsystems.it/",
+   "tech": "综合电工工程（网络支线）",
+   "hr": "区域工程",
+   "contact_found": "**CSV 邮箱 m.fucelli@gtstec.com 标“第三方旧目录索引，待官网/本人确认”**；官网未见正文邮箱；MX=自建 mx.gtstec.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "翁布里亚综合电工工程（网络支线）",
+    "产品线与在售品牌": "工程件",
+    "目标行业与场景": "企业+公共",
+    "团队与规模": "区域",
+    "决策链与对接人": "CSV 具名（第三方索引待核）",
+    "技术与认证": "工程级",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "24/7 运维",
+    "与我方契合点": "Reti 支线随单件窄位",
+    "风险与注意": "CSV 邮箱供位待核"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Dal singolo impianto a sistemi integrati per enti ed aziende…Reti e connettività: Infrastrutture affidabili…Assistenza 24/7”",
+     "source": "https://www.gorettitechnologicalsystems.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 支线一页（待核实邮箱后投）",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Reti 支线随单 value 件",
+     "question": "网络配套现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 24/7 运维",
+     "push": "watchdog",
+     "angle": "其 24/7 运维线的网络件掉电自恢复",
+     "question": "运维模式？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "若邮箱不成立——留档注记",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "综合电工工程（Reti 支线，24/7 运维）",
+     "②芯片/型号": "工程件",
+     "③KP 深挖": "CSV 具名待核",
+     "④Saga 对标": "Reti 支线随单件（窄位）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 运维 / W 支线窄 / O 随单 / T 大牌"
+    },
+    "care": [
+     "文档"
+    ],
+    "swot": {
+     "S": "运维",
+     "W": "窄",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "邮箱第三方索引（待核）"
+    },
+    "gap_proof": "六域列表"
+   },
+   "unknowns": [
+    "邮箱有效性",
+    "Reti 支线现供"
+   ],
+   "email": "Hi Goretti Technological Systems team,\n\nSix disciplines from photovoltaics to automation, 24/7 assistenza on top - and the reti-e-connettività line closing every project's loop. (One honest note from our side: we reached you at m.fucelli@gtstec.com from a third-party directory and could not confirm it on your site - if this mail lands with the wrong desk, one line and I close the loop.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog auto-reboot) with full documentation. Reference: $165 USD EXW - a value unit for the networking layer inside your integrated impianti.\n\nOne question: in your impianti elettrici or security projects, which switch brand holds the networking layer today - and would a documented value alternative earn a place in your delivery kit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your impianti elettrici or security projects, which switch brand holds the networking layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|翁布里亚电工|网络支线|24/7运维",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-202",
+   "fact": "IFI Consulting Srl（意大利摩德纳 059）：security/infrastructure/digital-transformation 咨询集成；**伙伴墙 27 牌（Cisco Partner/CheckPoint/PaloAlto/Fortinet/Sophos/Stormshield/Huawei/HPE/DellEMC/AWS/Veeam/Commvault/CyberArk/Wallix/Splunk/Ivanti/Lenovo/Microsoft/Parallels/A10/VMware/…+Yealink 话音）**；**OT Security Suite 专页**=工业 OT 段",
+   "inference": "27 牌墙=大牌生态内运营者；其 Infrastructure 支线的接入层=value 缝窄位（大牌之下）；Yealink=VoIP 支线在墙",
+   "hypothesis": "OT Security Suite 显示其在工业场景 OT 网段护航——工业段接入件需求工况隐含",
+   "evidence_main": "https://www.ificonsulting.eu/",
+   "tech": "安全+基础架构咨询集成",
+   "hr": "摩德纳，多城",
+   "contact_found": "assistenza@ificonsulting.eu（官网正文公开）；MX=双自建 as1/as2 云存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "摩德纳安全/基础架构集成（多 BU）",
+    "产品线与在售品牌": "27 大牌+Yealink",
+    "目标行业与场景": "企业+OT 工业",
+    "团队与规模": "中型多城",
+    "决策链与对接人": "assistenza@ 口",
+    "技术与认证": "伙伴级",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "MyIFI 门户",
+    "与我方契合点": "Infrastructure 支线接入层 value 缝",
+    "风险与注意": "大牌墙"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”",
+     "source": "https://www.ificonsulting.eu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 支线一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Infrastructure 支线大牌之下的接入层 value 缝",
+     "question": "基础架构项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · OT 场景",
+     "push": "STC-424DGGPM-280W 加固要点",
+     "angle": "其 OT Security 工业场景接入件加固",
+     "question": "OT 场景接入件需求？",
+     "proof": "加固规格"
+    },
+    {
+     "stage": "第 3 次跟进 · Yealink 联动",
+     "push": "VoIP 分段卖点",
+     "angle": "Yealink 支线的话音 VLAN 接入件",
+     "question": "话音件选型？",
+     "proof": "规格页"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "安全/基础架构集成（27 牌墙+Yealink+OT 线）",
+     "②芯片/型号": "大牌墙+Yealink",
+     "③KP 深挖": "assistenza@",
+     "④Saga 对标": "接入层 value 缝（大牌墙之下）",
+     "⑤在乎与偏好": "集成级文档",
+     "⑥SWOT": "S 多城 / W 大牌墙 / O 窄缝 / T 大牌"
+    },
+    "care": [
+     "对照表"
+    ],
+    "swot": {
+     "S": "多城",
+     "W": "墙",
+     "O": "缝",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "access 牌未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "伙伴墙"
+   },
+   "unknowns": [
+    "access 层现牌",
+    "OT 接入需求",
+    "单价敏感"
+   ],
+   "email": "Hi IFI Consulting team,\n\nA 27-vendor wall - Cisco, Palo Alto, Fortinet, Yealink - and an OT Security line for industrial sites. When the engagement reaches the wiring closet, the access switch is rarely the headline vendor, which is exactly the layer we service.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a documented value unit for the access layer in your infrastructure projects, beside your marquee brands and never against them.\n\nOne question: in your infrastructure or OT-security projects, which switch brand holds the gigabit access layer today - and would a documented value alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your infrastructure or OT-security projects, which switch brand holds the gigabit access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|摩德纳集成|27牌墙|基础支线缝",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-203",
+   "fact": "JM CONSULTING SRL（意大利）：咨询主线——“INNOVATION WIND”数字化/ERP/AI 业务转型咨询；四区 ERP Solution/AI & Digital Transformation/**IT Service**/Printing；行业 food（食品）/logistics（物流）/manufacturing（制造）/retail/fashion/oil&gas；IT Service 区自述“infrastruttura sistemistica adeguata”",
+   "inference": "数字化顾问主线：IT Service 支线里的基础设施随单=窄位低优先",
+   "hypothesis": "其行业客户（食品/制造/物流/oil&gas 中游）=工业场景潜景，但采购权责边界未明",
+   "evidence_main": "https://jmconsulting.it/",
+   "tech": "数字化+ERP 咨询主线",
+   "hr": "咨询中型",
+   "contact_found": "info@jmconsulting.it（官网正文公开）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "数字化/ERP 咨询（IT Service 支线）",
+    "产品线与在售品牌": "ERP/AI",
+    "目标行业与场景": "食品/物流/制造/零售/时尚",
+    "团队与规模": "中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "咨询级",
+    "采购与供应链信号": "咨询项目随单",
+    "近期动态与线索": "AI 线",
+    "与我方契合点": "IT Service 基础设施随单窄位（低优先）",
+    "风险与注意": "咨询主线"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Strategie aziendali per l’innovazione e la competitività…ERP Solution / AI & Digital Transformation / IT Service / Printing…settori: food, logistics, manufacturing…”",
+     "source": "https://jmconsulting.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 支线一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "IT Service 支线基础架构随单窄位（低优先）",
+     "question": "IT Service 项目网络件现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 行业场景",
+     "push": "场景件",
+     "angle": "其制造/物流客户场景的接入件（仓储办公复合）",
+     "question": "行业场景接入需求？",
+     "proof": "场景页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "若纯顾问线——降级留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "咨询主线（IT Service 支线窄）",
+     "②芯片/型号": "未明",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "IT Service 基础设施随单窄位（低优先）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 咨询深度 / W 网络边角 / O 随单 / T 大牌"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "深度",
+     "W": "边角",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "业务结构"
+   },
+   "unknowns": [
+    "网络件现供",
+    "权责边界"
+   ],
+   "email": "Hi JM Consulting team,\n\nERP and AI transformations in the lead - and the IT Service line closing every project with the right infrastruttura sistemistica underneath. (One honest note: networking hardware is a supporting discipline for you, so this is a light-touch note.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the networking layer inside your IT Service deliveries, from manufacturing floors to logistics sites.\n\nOne question: when an IT Service engagement needs active networking, which switch brand do you reach for today - and would a documented value alternative be worth keeping on the shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "When an IT Service engagement needs active networking, which switch brand do you reach for today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|数字化咨询|ITService支线|低优先",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-204",
+   "fact": "LocalNet Firenze Srl（托斯卡纳 Firenze+Livorno 双点，2007 年创，Global Net 全国网）：技术设备 SI 三大块电信/IT/安全；Quaser+Accredia 认证；**伙伴徽章墙实版：Allied Telesis Silver Partner+Omada Silver Partner+华为/Cambium Networks/Siemens/Samsung/Selta/YEASTAR/VOISPEED/Grandstream/MSI**；服务跨布线/光纤/**酒店客房监督自动化（alberghiera）**/WiFi/WiMax 传输/SLA 四档（Basic 24h→VIP 7×24 4h）",
+   "inference": "**Allied Silver+Omada Silver 双银=其网络双轨实版**（CSV Allied 信号实锤）；酒店自动化线=酒店客房段 PoE 潜景；SLA 四档=服务营运模式",
+   "hypothesis": "托斯卡纳酒店住宿业的网络升级=其 alberghiera 自动化线的接入件随单",
+   "evidence_main": "https://www.localnettoscana.it/",
+   "tech": "技术设备 SI（电信/IT/安全）",
+   "hr": "2007 创，双点托斯卡纳",
+   "contact_found": "info.firenze@localnettoscana.it（官网正文公开）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "托斯卡纳 SI（Allied/Omada 双银实版+酒店线）",
+    "产品线与在售品牌": "Allied/Omada/华为/Yeastar 等",
+    "目标行业与场景": "企业+酒店",
+    "团队与规模": "中型双{点",
+    "决策链与对接人": "info.firenze@ 口",
+    "技术与认证": "Quaser/Accredia+徽章墙",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "Omada Silver 2025 新加",
+    "与我方契合点": "Allied 旁 value 二线（双银现状并叙）",
+    "风险与注意": "Allied 同盟"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”",
+     "source": "https://www.localnettoscana.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 双银旁一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Allied/Omada 旁的 value 第二轨（双银现状并叙）",
+     "question": "value 档第二轨空间？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 酒店线",
+     "push": "PoE 接入规格",
+     "angle": "alberghiera 客房自动化的 PoE 接入件",
+     "question": "酒店线接入件现状？",
+     "proof": "客房场景规格"
+    },
+    {
+     "stage": "第 3 次跟进 · SLA 打包",
+     "push": "阶梯",
+     "angle": "其 SLA 四档模式→保修/固件 SLA 对齐",
+     "question": "配套 SLA 层级？",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "托斯卡纳 SI（Allied/Omada 双银实版；酒店自动化线）",
+     "②芯片/型号": "Allied/Omada/华为 实版",
+     "③KP 深挖": "info.firenze@",
+     "④Saga 对标": "双银旁 value 第二轨",
+     "⑤在乎与偏好": "徽章级文档",
+     "⑥SWOT": "S 双银渠道 / W Allied 同盟 / O 二线+酒店线 / T 大牌"
+    },
+    "care": [
+     "对照表",
+     "保修 SLA"
+    ],
+    "swot": {
+     "S": "双银",
+     "W": "同盟",
+     "O": "二线",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "双银实版",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "徽章墙"
+   },
+   "unknowns": [
+    "value 档缝",
+    "酒店线量"
+   ],
+   "email": "Hi LocalNet team,\n\nTwo silver badges on the same wall - Allied Telesis and Omada - plus the alberghiera automation line serving Tuscany's hotel stock. When the talk turns to the access layer between those brands, a documented third track deserves a look.\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value track beside your Allied and Omada silver lines, including at the hotel-room edge.\n\nOne question: in your impianti projects - security, hospitality automation, structured cabling - is the access layer always Allied or Omada, or is there room for a documented value third track?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your impianti projects, is the access layer always Allied or Omada - or is there room for a documented value third track?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|托斯卡纳SI|Allied/Omada双银|双轨酒店线",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-205",
+   "fact": "Luca Masetto（意大利 Santa Maria di Sala VE，Via Cavin di Sala 17）：**Allied Telesis 官方名录（Integrate 级）登记的独立集成商/代理**——官网无常开；既往 2026-09-27 核验未找到可确认邮箱；Treviso 同名 Cargill、美国 masetto.com 均排除",
+   "inference": "**Allied 名录身份=正统渠道旁一候选——但无邮箱即无从触达，按 B 边批19 先例建档供位（不出信）**",
+   "hypothesis": "若其在区域活跃，其 Allied 身份整合单=Value 第二供槽（供槽编号保留；待用户报邮箱）",
+   "evidence_main": "https://www.alliedtelesis.com/it/en/luca-masetto",
+   "tech": "独立集成商（Allied 名录）",
+   "hr": "一人档",
+   "contact_found": "无可确认邮箱；Allied 名录页+地址",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户从自有管路补足邮箱→启用 STC-424DGGPM-280W Allied 旁 value 供位",
+   "dims": {
+    "业务定位": "Allied 名录独立集成商（一人档）",
+    "产品线与在售品牌": "Allied 代理",
+    "目标行业与场景": "区域",
+    "团队与规模": "一人",
+    "决策链与对接人": "（邮箱缺）",
+    "技术与认证": "Allied Integrate",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "Allied 旁 value 第二供槽（供位待邮箱）",
+    "风险与注意": "无邮箱=不出信"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Allied Telesis 官方伙伴定位器‘Luca Masetto’Via Cavin di Sala 17, Santa Maria di Sala VE…伙伴等级：Integrate”",
+     "source": "https://www.alliedtelesis.com/it/en/luca-masetto"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "【仅供位·触发装】",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Allied 旁 value 第二供槽（待邮箱启用）",
+     "question": "（用户报邮箱后再发）",
+     "proof": "规格页"
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "",
+     "push": "",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Allied Integrate 名录独立集成商（一人档无邮箱）",
+     "②芯片/型号": "Allied 代理",
+     "③KP 深挖": "（无邮箱）",
+     "④Saga 对标": "供位 STC-424（待邮箱）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S Allied 身份 / W 无邮箱 / O 供位 / T 渠道墙"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "身份",
+     "W": "邮箱缺",
+     "O": "供位",
+     "T": "渠道"
+    },
+    "uncertain": {
+     "产品线核实": "Allied 名录",
+     "合作方式": "未谈",
+     "缺口证据": "无邮箱（F: 9-27 核验记录）"
+    },
+    "gap_proof": "CSV 核验注记"
+   },
+   "unknowns": [
+    "邮箱",
+    "在营状态"
+   ],
+   "email": "【建档不出信（参照 B 边批19 先例）】无可确认邮箱；触发条件=用户提供 Luca Masetto 或其网络的邮箱→启用 STC-424DGGPM-280W Allied 旁 value 第二供槽。名录页：https://www.alliedtelesis.com/it/en/luca-masetto",
+   "question": "（待用户补邮箱）",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|Allied独立集成商|无邮箱|建档供位",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-206",
+   "fact": "N&C S.p.A.（意大利，Tech Innovation Company）：**40+ 年、700 人全球、+23% 2025 营收增长、930+ 认证、820 项目/年**；八大 BU（DC/Cabling/Networking/Cybersecurity/Software&AI/IT&Cloud/Digital Workspace/Managed Services）；行业 Automotive/Education/Energy/Finance/GDO/Healthcare/Manufacturing/PA/Telco/Transport/**Luxury**；私客墙 **Stellantis、Azimut-Benetti（贝尼蒂豪华游艇）、Leasys、CNH、TIM**",
+   "inference": "700 人级大集成商按协议价运作（非我方规模甜点）；Networking BU 的 value 档测试宽口已给，不过度承诺；公共段守界",
+   "hypothesis": "Luxury 游艇段+运输段+GDO 是其 private 名单里的亮点——豪华游艇建设链的 access 件窄位",
+   "evidence_main": "https://www.nectlc.com/",
+   "tech": "大型 ICT 集成（8 BU）",
+   "hr": "700 人/40+ 年/930 认证",
+   "contact_found": "info@nectlc.com（CSV 注“旧官网搜索索引邮箱；页面 404 待核”；MX=Google 存活（MX/DNS 级核验：域存活=邮件可投递到域））",
+   "contact_pending": "PA 段守界；私营窄位（Networking BU value 测试宽口）；体量距=低优先",
+   "dims": {
+    "业务定位": "大型 ICT 集成 8 BU（700 人）",
+    "产品线与在售品牌": "全谱",
+    "目标行业与场景": "汽车/能源/金融/GDO/医疗/制造/PA（守界）/Luxury",
+    "团队与规模": "700",
+    "决策链与对接人": "info@（CSV 注待核）",
+    "技术与认证": "930+",
+    "采购与供应链信号": "项目制",
+    "近期动态与线索": "+23% 增长",
+    "与我方契合点": "Networking BU value 档测试窄位（低优先）",
+    "风险与注意": "体量距+公共段"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“700 Risorse nel mondo…40+ Anni di innovazione…820+ Progetti ogni anno…8 Business Unit…Automotive…Luxury…Stellantis, Azimut-Benetti…”",
+     "source": "https://www.nectlc.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · BU 窄口一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Networking BU 的 value 档测试宽口（低优先；不承诺规模）",
+     "question": "Networking BU 有无 value 档测试位？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · Luxury/运输场景",
+     "push": "场景件",
+     "angle": "Luxury 建设/运输段接入件工况",
+     "question": "场景现供？",
+     "proof": "场景页"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "协议价体系进出不了——降级留档",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "700 人大型 ICT 集成 8 BU（车企/游艇/GDO 私客；公共段守界）",
+     "②芯片/型号": "未明",
+     "③KP 深挖": "info@（待核）",
+     "④Saga 对标": "Networking BU value 测试窄位（低优先）",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S 体量 / W 体量距 / O Luxury 场景 / T 协议价"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "体量",
+     "W": "体距",
+     "O": "Luxury",
+     "T": "协议价"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "邮箱待核"
+    },
+    "gap_proof": "数字块"
+   },
+   "unknowns": [
+    "Networking BU 采购结构",
+    "value 档缝"
+   ],
+   "email": "Hi N&C team,\n\nEight Business Units, 820 projects a year, from Stellantis's factories to Azimut-Benetti's yacht yards - and a Networking BU where the access layer has to earn its place against the usual suspects. (For clarity: your public-administration engagements stay fully out of scope here.)\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a documented value unit for the access-layer edge when a project needs a second source. (Mooted realistically: our scale suits selective feeds, not framework-mandated volumes.)\n\nOne question: does the Networking BU keep a bench slot for a documented value PoE access line - and would our unit earn a place in that test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "Does the Networking BU keep a bench slot for a documented value PoE access line?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|大型集成8BU|游艇车企私客|低优先",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-207",
+   "fact": "NA.EL Srl（意大利那坡里，Via Ferrante Imparato 190）：站内容极薄——只显配件耗材（accessori e materiali di consumo）+地图+双邮箱",
+   "inference": "证据几乎为零——低证据窄位",
+   "hypothesis": "名 NA.EL 可能为 NA Elettronica 电气配件商（无据，推断）",
+   "evidence_main": "https://www.nael.it/",
+   "tech": "低信号（配件耗材页）",
+   "hr": "—",
+   "contact_found": "info@nael.it+info@pec.nael.it（官网页公开）；MX=自建存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "低信号（配件耗材页；推断电气配件）",
+    "产品线与在售品牌": "—",
+    "目标行业与场景": "区域",
+    "团队与规模": "小",
+    "决策链与对接人": "info@+PEC",
+    "技术与认证": "—",
+    "采购与供应链信号": "—",
+    "近期动态与线索": "—",
+    "与我方契合点": "窄位低信号（低优先）",
+    "风险与注意": "—"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Accessori e materiali di consumo…[contacts:] info@nael.it…Napoli”",
+     "source": "https://www.nael.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 低信号窄页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其配件线延伸的 value 上架位（低信号窄位）",
+     "question": "上架空间？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 留档",
+     "push": "—",
+     "angle": "无响——留档",
+     "question": "—",
+     "proof": "—"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "低信号（配件页）",
+     "②芯片/型号": "—",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "低信号窄位",
+     "⑤在乎与偏好": "—",
+     "⑥SWOT": "S —/W 低信号/O —/T —"
+    },
+    "care": [
+     "—"
+    ],
+    "swot": {
+     "S": "—",
+     "W": "低",
+     "O": "—",
+     "T": "—"
+    },
+    "uncertain": {
+     "产品线核实": "低证据",
+     "合作方式": "—",
+     "缺口证据": "站薄"
+    },
+    "gap_proof": "站薄"
+   },
+   "unknowns": [
+    "业务性质",
+    "规模"
+   ],
+   "email": "Hi NA.EL team,\n\nA store of accessories and consumables - a light-touch note from our side, since the public page keeps things brief.\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a documented value unit that could sit beside your accessori range.\n\nOne question: if your clients ever ask for switching equipment, where do you source it today - and would a documented value PoE line be worth a page in your catalogue?\n\nIf useful, I can send one unit plus listing documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "If your clients ever ask for switching equipment, where do you source it today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|那坡里低信号|配件页|窄位",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-208",
+   "fact": "Net System Innovazione srl（意大利 Cuneo Vignolo，Via Cuneo 36/a）：SMB IT 服务——在场+远程协助（monitoraggio/manutenzione/interventi/report）+自研 **NSGest**（数字化转型/fatturazione/commesse/magazzino/ticket）+解决方案（sicurezza/digitalizzazione/cloud privato/**networking**/virtualizzazione/backup/telefonia/**videosorveglianza/controllo accessi**）",
+   "inference": "自研 NSGest+服务全谱=皮埃蒙特 SMB 管家；networking 在 menu",
+   "hypothesis": "自研 ERP 文化=对 OEM 文档天然友善；其 SMB 随单件流",
+   "evidence_main": "https://nsi.srl/",
+   "tech": "SMB IT+自研 NSGest",
+   "hr": "Cuneo 区域",
+   "contact_found": "info@nsi.srl+support@nsi.srl（官网正文公开）（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "Cuneo SMB IT（自研 NSGest+服务谱）",
+    "产品线与在售品牌": "谱件",
+    "目标行业与场景": "区域 SMB",
+    "团队与规模": "小型",
+    "决策链与对接人": "info@/support@",
+    "技术与认证": "—",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "NSGest 线",
+    "与我方契合点": "SMB 谱随单 value 件（OEM 文档友善）",
+    "风险与注意": ""
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“ASSISTENZA in azienda e da remoto…NSGest…SOLUZIONI: sicurezza, networking, cloud privato, videosorveglianza…”",
+     "source": "https://nsi.srl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 副谱一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "其网络/安全/视频副谱随单 value 件",
+     "question": "SMB 随单接入现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · NSGest 文化",
+     "push": "自研文化页",
+     "angle": "自研软件文化→对 OEM 文档件天然友善",
+     "question": "OEM 件接受度？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 3 次跟进 · 随单滚动",
+     "push": "阶梯",
+     "angle": "皮埃蒙特滚动",
+     "question": "量确认",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Cuneo SMB IT（自研 NSGest+服务谱随单）",
+     "②芯片/型号": "未明",
+     "③KP 深挖": "info@/support@",
+     "④Saga 对标": "SMB 谱随单 value 件",
+     "⑤在乎与偏好": "文档",
+     "⑥SWOT": "S 自研文化 / W 体量小 / O 随单 / T 大牌"
+    },
+    "care": [
+     "文档"
+    ],
+    "swot": {
+     "S": "自研",
+     "W": "体量",
+     "O": "随单",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "服务清单"
+   },
+   "unknowns": [
+    "接入现供",
+    "OEM 接受度",
+    "量"
+   ],
+   "email": "Hi Net System team,\n\nAn MSP that writes its own management software (NSGest) obviously tables everything - assistenza, private cloud, videosorveglianza, networking. Every SMB site on that list ends with a switch closet decision.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for your SMB networking and security rollouts.\n\nOne question: in your assistenza and sicurezza projects, which switch brand holds the access layer today - and would a documented OEM alternative match your build-it-yourself mindset?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your assistenza and sicurezza projects, which switch brand holds the access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|皮埃蒙特MSP|自研NSGest|文化友善",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-209",
+   "fact": "NEWSOFT Technology SRL（意大利 Saluzzo/Cuneo 皮埃蒙特，1998 创）：SI 主+**plotteronline.it（在线 plotter 意大利领导者）+stampaafreddo.green（冷打印姊妹）三体模式**；官宣 Voucher MIMIT（Cloud+Cybersecurity 认证供方）；客户 Salvi Arps（乐器手作）/opificioMiretto/Confartigianato Cuneo；徽墙 **Zebra Reseller Ruby/3CX partner/MSI certificazioni**；Digi-Network 创始伙伴+皮埃蒙特 Polo ICT；团队页人手具名（Carlo/Davide/Riccardo/Mattia/Raffaella/Diego/Anna）",
+   "inference": "**“artigiani dell’informatica”手艺人文化+Zebra Ruby+3CX VoIP 同盟**=区域精品 SI；3CX=VoIP 实版（Voice VLAN）",
+   "hypothesis": "其区域客户（乐器/家具手作）的仓储+办公复合=PoE 接入件随单",
+   "evidence_main": "https://www.newsoft-tech.it/",
+   "tech": "区域 SI+plotter 电商 Zebra/3CX",
+   "hr": "1998 创；具名团队",
+   "contact_found": "info@newsoft-tech.it（官网正文公开）；MX=O365 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "",
+   "dims": {
+    "业务定位": "皮埃蒙特 SI 精品（Zebra/3CX 同盟；三体模式）",
+    "产品线与在售品牌": "Zebra/3CX/MSI",
+    "目标行业与场景": "区域手作+办公（乐器/家具）",
+    "团队与规模": "小型具名",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "MIMIT 认证供方",
+    "采购与供应链信号": "随单",
+    "近期动态与线索": "Voucher MIMIT 新加",
+    "与我方契合点": "3CX/Zebra 生态项目接入件+VoIP 场景",
+    "风险与注意": "区域半径"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“dal 1998 artigiani dell’informatica…[staff:] Carlo, Davide, Riccardo, Mattia…[certs:] Zebra Reseller Ruby, 3CX partner…Voucher MIMIT…Digi-Network”",
+     "source": "https://www.newsoft-tech.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 同盟一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "Zebra/3CX 生态项目接入件（Voice VLAN 卖点）",
+     "question": "3CX 与仓储项目接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 手作文化",
+     "push": "“artigiani”指南",
+     "angle": "其手艺人文化→文档先行 OEM 件",
+     "question": "OEM 件接受？",
+     "proof": "指南"
+    },
+    {
+     "stage": "第 3 次跟进 · 伙伴网",
+     "push": "Digi-Network 联动",
+     "angle": "其 Digi-Network 伙伴网络的扩展",
+     "question": "联动可能？",
+     "proof": "一页"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "皮埃蒙特 SI（Zebra/3CX 同盟；三体；“artigiani”文化）",
+     "②芯片/型号": "3CX 实版",
+     "③KP 深挖": "info@+具名团队",
+     "④Saga 对标": "Voice VLAN 实谱的 VoIP 接入件",
+     "⑤在乎与偏好": "文档+伙伴文化",
+     "⑥SWOT": "S 同盟文化 / W 区域 / O 3CX/仓储段 / T 大牌"
+    },
+    "care": [
+     "文档",
+     "伙伴文化"
+    ],
+    "swot": {
+     "S": "同盟",
+     "W": "区域",
+     "O": "段",
+     "T": "大牌"
+    },
+    "uncertain": {
+     "产品线核实": "未明",
+     "合作方式": "未谈",
+     "缺口证据": "—"
+    },
+    "gap_proof": "徽墙"
+   },
+   "unknowns": [
+    "接入现供",
+    "Digi 网络扩展度"
+   ],
+   "email": "Hi Newsoft team,\n\n“Artigiani dell'informatica since 1998” - and the 3CX badge beside the Zebra Ruby tells us your bench includes both VoIP and the warehouse edge. (Plus plotteronline.it, which needs no introduction in Piedmont.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - a value unit for the access layer in your 3CX and Zebra projects.\n\nOne question: in your voice and magazzino installations, which switch brand holds the access layer today - and would a documented craftsman-grade alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your voice and magazzino installations, which switch brand holds the access layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|皮埃蒙特SI|Zebra/3CX同盟|手艺人文化",
+   "batch": 31,
+   "date": "2026-09-28"
+  },
+  {
+   "customer": "A-210",
+   "fact": "OMNICONNECT srl（意大利，2001 创）：Networking Solutions——产品线：Cybersecurity Awareness/Mobile Security(Ermetix SaaS)/Cybersecurity&Conformità（NIS2）/**Networking**/**Videosorveglianza（AXIS+MOBOTIX “forte partnership”）**/VoIP&UC/Business Continuity（“sanitari, produttivi e militari”关键段经验自述）/**Energy Supply Systems（Riello UPS 同盟）**/Datacenter；服务维保/咨询；**BITDEFENDER PLATINUM RESELLER MSP 2025 新加**；“move to green and secure ICT”",
+   "inference": "**与 CSV Allied 关联列位一致**——接入层现供或在 Allied 体系内（推断）；militari 谱系=公共/国防守界；AXIS/MOBOTIX 视频+Riello UPS 的机房连续性=随单件线索",
+   "hypothesis": "Riello UPS 同盟=机房连续性配套文化——能源件旁接入件同理",
+   "evidence_main": "https://www.omniconnect.it/",
+   "tech": "网络+安防+能效 SI",
+   "hr": "2001 创",
+   "contact_found": "info@omniconnect.it（官网正文公开；未验证投递）；MX=Barracuda 云 EU 存活（MX/DNS 级核验：域存活=邮件可投递到域）",
+   "contact_pending": "**militari 谱系=公共/国防守界**；商业段主打",
+   "dims": {
+    "业务定位": "2001 网络 SI（AXIS/MOBOTIX 视频+能源 Riello；军事谱系守界）",
+    "产品线与在售品牌": "AXIS/MOBOTIX/Bitdefender/Riello",
+    "目标行业与场景": "商业（主）+军事谱系（守界）",
+    "团队与规模": "中型",
+    "决策链与对接人": "info@ 口",
+    "技术与认证": "Bitdefender Platinum",
+    "采购与供应链信号": "项目随单",
+    "近期动态与线索": "Bitdefender Platinum 新加",
+    "与我方契合点": "AXIS/MOBOTIX 商业视频工程的 PoE 接入随单",
+    "风险与注意": "军事谱系+Allied 列位"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "“Videosorveglianza: forte partnership con i maggiori produttori, come AXIS e MOBOTIX…esperienza operativa in settori critici quali sanitari, produttivi e militari…Energy Supply Systems: Riello UPS”",
+     "source": "https://www.omniconnect.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 商业段一页",
+     "push": "STC-424DGGPM-280W",
+     "angle": "AXIS/MOBOTIX 商业视频工程 PoE 随单件+军事边界句",
+     "question": "商业工程接入层现供？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · UPS 同盟",
+     "push": "Riello 文化页",
+     "angle": "Riello 伙伴文化→接入件与 UPS 稳压配套话术",
+     "question": "机房连续性配套模式？",
+     "proof": "一页"
+    },
+    {
+     "stage": "第 3 次跟进 · 滚动",
+     "push": "阶梯",
+     "angle": "商业滚动",
+     "question": "年项目量",
+     "proof": "阶梯"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2001 网络 SI（AXIS/MOBOTIX+军事守界+Riello 同盟）",
+     "②芯片/型号": "Allied 列位（推断）",
+     "③KP 深挖": "info@",
+     "④Saga 对标": "商业视频工程随单件+军事边界",
+     "⑤在乎与偏好": "工程文档",
+     "⑥SWOT": "S 配套文化 / W 军事墙 / O 商业段 / T 在位"
+    },
+    "care": [
+     "工程文档"
+    ],
+    "swot": {
+     "S": "文化",
+     "W": "墙",
+     "O": "商业",
+     "T": "在位"
+    },
+    "uncertain": {
+     "产品线核实": "Allied 列位推断",
+     "合作方式": "未谈",
+     "缺口证据": "CSV 关联注"
+    },
+    "gap_proof": "服务结构"
+   },
+   "unknowns": [
+    "接入现牌",
+    "军事段占比",
+    "UPS 配套模式"
+   ],
+   "email": "Hi Omniconnect team,\n\nTwenty-five years of networking plus the strong-partnership claim with AXIS and Mobotix - and a Riello UPS line completing the continuity stack. (For clarity: your militari-related engagements stay fully out of scope here; this concerns commercial projects only.)\n\nWe manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full engineering documentation. Reference: $165 USD EXW - a value unit for the access layer inside your commercial videosorveglianza and VoIP rollouts.\n\nOne question: in your AXIS and Mobotix commercial projects, which switch brand powers the camera layer today - and would a documented value alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "question": "In your AXIS and Mobotix commercial projects, which switch brand powers the camera layer today?",
+   "alt2": "STI-288GP",
+   "alt3": "STC-28DGGPM",
+   "tag": "意大利|网络SI|AXIS/MOBOTIX|军事守界商业段",
+   "batch": 31,
+   "date": "2026-09-28"
+  }
+ ]
+}

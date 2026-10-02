@@ -1,0 +1,132 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第2批（乌克兰/以色列行）。判据同第1批。",
+ "records": [
+  {
+   "code": "B-022",
+   "decision": "hold-B",
+   "site": "rim2000.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：RIM-2000 以服务器/电脑/ комплектуючі/办公设备为主，网络品类为附属（含 Комутатори 分类）→ 非网络专营、决策面在 IT 采购，维持B。",
+   "quote": "RIM-2000 комп’ютери та сервери；Сервери／Комплектуючі／Офісна техніка／Мережеве обладнання（Маршрутизатори、Комутатори、Точки доступу）",
+   "sources": [
+    [
+     1,
+     "https://rim2000.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-023",
+   "decision": "hold-B",
+   "site": "romsat.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：РОМСАТ 为「项目型电信设备分销商」，但品类已扩展到消费电子/家电/厨具，网络只是其一 → 项目分销+多元品类、决策链较长，维持B。",
+   "quote": "РОМСАТ - проектний дистриб’ютор телекомунікаційного обладнання；Нові надходження: Мережеве обладнання／Відеоспостереження／Споживча електроніка／Побутова техніка／Посуд для кухні",
+   "sources": [
+    [
+     1,
+     "https://romsat.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-024",
+   "decision": "hold-B",
+   "site": "shop-gsm.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：SHOP-GSM 为射频/同轴/中继器/VoIP 网关/M2M 专营（5 城市门店），无交换机品类 → 与接入层交换机需求不直接对口，维持B。",
+   "quote": "SHOP-GSM.UA：Коаксіальний кабель…GSM/3G/4G LTE репітер…VoIP шлюз…M2M（首页主推品类）",
+   "sources": [
+    [
+     1,
+     "https://shop-gsm.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-027",
+   "decision": "promote",
+   "site": "setevuha.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：Setevuha 为网络设备+安防专营店，**「Мережеві комутатори」列在热门分类首位**并含「Аксесуари для комутаторів」、SFP、机柜、PON、监控/门禁 → 交换机一级品类+PoE/安防场景+小店决策链短 → 人工定级升A。",
+   "quote": "Популярні категорії：Роутери Wi-Fi та Маршрутизатори／Мережеві комутатори／Серверні шафи…；Локальне обладнання：Мережеві комутатори／SFP модулі／Аксесуари для комутаторів",
+   "sources": [
+    [
+     1,
+     "https://setevuha.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-028",
+   "decision": "promote",
+   "site": "technotrade.com.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：ТехноТрейд 为 Wi-Fi/网络设备专营店，**Комутатори 下分 PoE（MikroTik/TP-Link/Ubiquiti）、Керовані 管理型（MikroTik/Ubiquiti）、Некеровані**，另有酒店 Wi-Fi 方案与 RouterOS → 管理型/PoE 交换机品类齐全+行业方案+小店 → 人工定级升A。",
+   "quote": "Комутатори：PoE（MikroTik、TP-Link、Ubiquiti）／Керовані（MikroTik、Ubiquiti）／Некеровані（TP-Link）；Готові рішення Wi-Fi：Wi-Fi для готелю",
+   "sources": [
+    [
+     1,
+     "https://www.technotrade.com.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-030",
+   "decision": "promote",
+   "site": "viatec.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：Viatec 为安防/监控分销商（Dahua、Hikvision、U-PROX、Ruijie），有「Мережеве обладнання」一级品类与 Viatec Academy 培训（含 RUIJIE 认证课）→ PoE/监控场景明确+网络品类+培训影响力 → 人工定级升A。",
+   "quote": "Viatec - Системи безпеки та камери відеоспостереження；Категорії：Мережеве обладнання／Відеонагляд／Домофони, контроль доступу；Київ. Сертифікаційне навчання RUIJIE NETWORK",
+   "sources": [
+    [
+     1,
+     "https://viatec.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-031",
+   "decision": "hold-B",
+   "site": "coders.in.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：coders.in.ua 为个人技术博客（CTF/机器人挑战），无产品与交换机品类证据；该行联系人 vvs@coders.in.ua 属个人顾问线索 → 维持B。",
+   "quote": "VVS / Coders In UA – UA dev team；内容为 EPAM BotChallenge、CTF 参赛记录，无产品目录",
+   "sources": [
+    [
+     1,
+     "https://coders.in.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-032",
+   "decision": "hold-B",
+   "site": "wintik.com.ua",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：WinTik 为综合电与建材工具电商（建筑工具/耗材占主），网络品类仅「Мережеве обладнання」附属入口，无交换机证据 → 维持B。",
+   "quote": "Wintik - найсучасніший магазин електроніки та будівельного інструменту；分类：Будівельні інструменти／Витратні матеріали／Мережеве обладнання（附属）",
+   "sources": [
+    [
+     1,
+     "https://wintik.com.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-033",
+   "decision": "promote",
+   "site": "dipole.co.il",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛2】官网核对：Dipole 为以色列无线通信进口商（自述 MikroTik/Ubiquiti/Compex 等官方代理，服务数百企业），在售 UniFi Switch USW-Flex-Mini、USW-Flex-2.5G-8 等管理型交换机并含 MikroTik 全系 → 交换机品类明确+进口商直客渠道 → 人工定级升A。（地理口径：grade.py 现有 OUT_OF_SCOPE 未含以色列；清单里该行保留在 B/★★★，按既有口径处理。）",
+   "quote": "דיפול תקשורת אלחוטית…יבואנית רשמית של UbiquiTi Networks, MikroTik…；在售 UniFi Switch USW-Flex-Mini／USW-Flex-2.5G-8",
+   "sources": [
+    [
+     1,
+     "https://www.dipole.co.il/"
+    ]
+   ]
+  }
+ ]
+}

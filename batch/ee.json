@@ -1,0 +1,4 @@
+[
+ {"name":"Martin Soovares","country":"爱沙尼亚","city":"Tartu","site":"","cert":"MTCNA+MTCSE","sku":"LT-S8328GP-4GX24GT-S","prio":"★★★","contact":"+372 554 9859 / martin.soovares@gmail.com","note":"★ 专做网络安全分析与运维；技能明确含 **Switching** + Routing + VPN（OpenVPN/WireGuard/IPSec）+ 防火墙（NAT/Layer-7/Mangle）+ User Manager + Hotspot"},
+ {"name":"Rein Podra","country":"爱沙尼亚","city":"Põltsamaa","site":"ccisrd.eu","cert":"MTCNA+MTCRE+MTCUME+MTCIPv6E+MTCSE","sku":"LT-S8328XGP-4XS24GT-S","prio":"★★★","contact":"+372 505 1372 / rein.podra@ccisrd.eu","note":"有线无线全领域：路由、隧道、防火墙、无线、CAPsMAN、The Dude；网络设计与 MikroTik 认证培训"}
+]

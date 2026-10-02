@@ -1,0 +1,501 @@
+{
+ "batch": "B类深挖_2026-09-29_R57-BC_第3波",
+ "date": "2026-09-29",
+ "scope": "B 类希腊 13 家",
+ "rule": "R57-BC 轻量对齐 A:深挖+SWOT+判位+备养出信稿;评级不动、不触发邮件动作;5 家零足迹顾问按分层挖纪律 CSV 派生+待补",
+ "records": [
+  {
+   "code": "B-115",
+   "fact": "Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+ 年翻+60,000+ 欧洲伙伴;Allnet GmbH(Munich 1991 Wolfgang Marcus Bauer 创）母体+多欧洲站(含北欧站=B-001 ALLNET Nordic 的表亲)",
+   "inference": "ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容",
+   "hypothesis": "开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口",
+   "evidence": [
+    {
+     "dim": "集团",
+     "quote": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market",
+     "source": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "同级",
+     "quote": "Allnet.Italia S.p.A. Master Distributor Value Added Distributor Bologna Italy",
+     "source": "https://altostrat.io/buying/hardware/resellers/europe/italy/"
+    }
+   ],
+   "unknowns": [
+    "Allnet Greece 与 Allnet Italia 的采购/库存决策级(分站还是 Bologna 集中)",
+    "Allnet 谱已覆盖的 value PoE SKU 现状"
+   ],
+   "swot": {
+    "S": "Allnet 集团系+60k 伙伴+南欧信谱",
+    "W": "多站/集团层次杂,决策遍喋",
+    "O": "STC-424 集团合价联动入 value 档",
+    "T": "集团内在异构"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "ALLNET 集团南欧站的 value PoE 档集团谱补位(B-001 NORDIC 表亲同一逻辑)",
+   "question": "Allnet 集团三本(NORDIC/ITALIA/GREECE)的 value PoE 档现供哪家？",
+   "tag": "希腊|ALLNET希腊|AllnetItalia南欧|集团站",
+   "email": "Hi Allnet Greece team,\n\nAllnet Italia's strategic extension into the Greek market, on a group-wide network that spans EUR 500M and 60,000 partners across Europe - the Allnet Network is exactly the kind of coordinated entity a value PoE line is built to flow through.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Nordic / Italia / Greece shelf.\n\nOne question: across the Allnet Network, which PoE access SKU is holding the value tier today - and would a group-level second-source earn a pilot at the Greece extension?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 Allnet 三站集团谱对照单页",
+    "D+14 Ioanna 具名引见请求",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-514",
+   "fact": "Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer",
+   "inference": "自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)",
+   "hypothesis": "开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)",
+   "evidence": [
+    {
+     "dim": "谱系",
+     "quote": "ALPHA MOTION SA is active for over 28 years…robotic-innovative automation products (servo motors, stepper motors, inverters)…elevators",
+     "source": "https://www.ascen-tec.gr/en/alpha-motion-s-a/"
+    },
+    {
+     "dim": "人特",
+     "quote": "Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer",
+     "source": "https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697"
+    }
+   ],
+   "unknowns": [
+    "现场柜项里现供 DIN 轨 PoE 型号(他们自动化谱上还是第三方)",
+    "Argiris 三人对 PoE 类目的商业价值判定面"
+   ],
+   "swot": {
+    "S": "希腊工谱老牌+电梯/伺服血统+具名",
+    "W": "自动品谱导渠,动力排他",
+    "O": "STI-288GP 电梯/产线柜随单",
+    "T": "自品谱价功能动化"
+   },
+   "p1": "STI-288GP",
+   "p1_reason": "希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口",
+   "question": "你们的电机/电梯/产线项目柜里,DIN 轨 PoE 来电现供 N-Tron/Red Lion 还是另陪份？",
+   "tag": "希腊|Pikermi|工业自动化|电梯伺服血统",
+   "email": "Hi Alpha Motion team,\n\nTwenty-eight years of Greek industrial automation with motion control and elevator drives as core trades - your cabinets are solving power and signal for real production machines.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built for the auxiliary PoE runs (cameras, sensors, CCTV) that slip inside your elevator and production cabinets.\n\nOne question: for those cabinet-level PoE feeds, are you running N-Tron/Red Lion exclusively - or is there room for a documented value-side second source in your BOMs?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 DIN 轨样张+温宽测试包",
+    "D+14 Dimitris Psichoulas 具名应用工程师亦开口",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-129",
+   "fact": "MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」",
+   "inference": "军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列",
+   "hypothesis": "同时是 NATO/军红线+同业:不入供位不首销;守档并作为我厂竞品对标镜像维护(研发式坚固网谱方向)",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "certified by MOD for military industrial security…official National manufacturer of Defense electronic products…listed in the Athens Greek Stock Exchange since 2003",
+     "source": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    },
+    {
+     "dim": "客户",
+     "quote": "Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping",
+     "source": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    }
+   ],
+   "unknowns": [
+    "MARAC 军用加 PoE 谱研发谱(自家市卖有厂为从动)",
+    "希军工采购公开索外禁丁资位口径"
+   ],
+   "swot": {
+    "S": "军工+上市+NATO 客户",
+    "W": "同业制造侧+军红线双关",
+    "O": "无落地",
+    "T": "收留同业镜像随缘"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序",
+   "question": "(守档不入触点)",
+   "tag": "希腊|雅典|军工电子厂|NATO客户|同业",
+   "email": "【军工红线+同业侧·建档守界】不出信;MARAC 军用 rugged 谱作我厂竞品对标镜像档维护。",
+   "followups": [
+    "竞品对标维护",
+    "不入出信序"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-121",
+   "fact": "EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱",
+   "inference": "EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线",
+   "hypothesis": "开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口",
+   "evidence": [
+    {
+     "dim": "司形",
+     "quote": "EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations…From Heraklion and Athens",
+     "source": "https://exasolutions.gr/en/"
+    },
+    {
+     "dim": "客户",
+     "quote": "Businesses that trust us…FnA Company…ELMEPA",
+     "source": "https://exasolutions.gr/en/"
+    }
+   ],
+   "unknowns": [
+    "managed 部署下 PoE 接层 SKU 标准(现走哪家)",
+    "George 口其证在续否与接案密度"
+   ],
+   "swot": {
+    "S": "MSP 双址+云/ERP/WMS 综合+具名",
+    "W": "谱杂主注无专 PoE 位",
+    "O": "STC-424 MSP 部署随单 SKU",
+    "T": "MSP 厂商忠稳态"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "双址 MSP 的 managed 部署随单 value PoE 档",
+   "question": "你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？",
+   "tag": "希腊|克里特+雅典|双址MSP|MTCNA+MTCRE",
+   "email": "Hi George,\n\nFrom Heraklion to Athens with managed IT, cybersecurity and WMS/ERP integrations - EXA is clearly past the single-consultant phase of its operation.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $165 USD EXW (2026-09-29) - designed to land as the standardized access SKU across your managed deployments.\n\nOne question: for the PoE access layer inside your managed deployments, which SKU are you standardizing on today - and would a free unit with the complete test pack earn a look?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 MSP 标准 SKU 方案页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-124",
+   "fact": "DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体",
+   "inference": "「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边",
+   "hypothesis": "开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)",
+   "evidence": [
+    {
+     "dim": "店谱",
+     "quote": "Πωλήσεις και υποστήριξη υπολογιστών & δικτύων, μηχανογράφηση επιχειρήσεων, κινητά-tablets-Συνδέσεις internet & WiFi",
+     "source": "https://www.facebook.com/dslab.gr/"
+    },
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns": [
+    "多证续证现状(mikrotik.com 名录)",
+    "克里特区域案密度与 PoE 部署形"
+   ],
+   "swot": {
+    "S": "店+顾问综合+多证",
+    "W": "店面他小案谱不复合 PoE最决",
+    "O": "STC-28DG 入区域店修小案样本",
+    "T": "店货流采本给品牌谱变"
+   },
+   "p1": "STC-28DGGPM",
+   "p1_reason": "克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)",
+   "question": "你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?",
+   "tag": "希腊|Chania|店MSP|多证",
+   "email": "Hi Georgios,\n\nDSlab in Chania with a multi-certificate MikroTik credential stack behind it - your small-shop clients across Crete need dependable small deployments more than they need twenty-four ports.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - sized for exactly the small-shop LAN point where you locally support your region.\n\nOne question: for the small clients you support around Chania, which compact PoE switch lands in your typical deployment today - and would a documented sample unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 小案随单页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-127",
+   "fact": "Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店",
+   "inference": "典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港",
+   "hypothesis": "开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "Αλφα Τεχ…Επισκευές Ηλεκτρονικών Υπολογιστών, Λοιπά…Αργοστόλι Κεφαλλονιά",
+     "source": "https://kefallonia.topodigos.gr/el/pelates/alfa-tech-analytis-pan-konstantinos"
+    },
+    {
+     "dim": "安联",
+     "quote": "Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά",
+     "source": "https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos"
+    }
+   ],
+   "unknowns": [
+    "CCTV 部署形 PoE 库企业进形",
+    "码头/旅游活景中 PoE 布网密度"
+   ],
+   "swot": {
+    "S": "岛本地独有店+安防血统",
+    "W": "单个店面、大项目即失",
+    "O": "STC-424 安防部署刚性随单位",
+    "T": "岛物流/利运面"
+   },
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘",
+   "question": "你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？",
+   "tag": "希腊|Kefalonia|安防集成店|IT+SA双血统",
+   "email": "Hi AlfaTech team,\n\nIT support, office systems, telecom, and full security-system installations (CCTV, alarms, fire, access control) across the whole island of Kefalonia - that's the full small-region solutions provider setup.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the access layer that sits inside your CCTV and security system deployments.\n\nOne question: for your CCTV and security system deployments across the island, which PoE access switch are you standardizing on today - and would a documented sample unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "followups": [
+    "D+3 安防部署 PoE 随单页",
+    "D+14 样机提议",
+    "D+30 果归守档"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-131",
+   "fact": "Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连",
+   "inference": "雅典个体顾问零足迹",
+   "hypothesis": "守档:具名引见+mikrotik.com 顾问名录核证再定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "mikrotik.com 顾问名录核证",
+    "雅典具名 LinkedIn 足迹"
+   ],
+   "swot": {
+    "S": "双证",
+    "W": "零足迹",
+    "O": "待定",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "雅典双证口全案型中 PoE 接家现走哪家？",
+   "tag": "希腊|雅典|个体顾问|零足迹",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-134",
+   "fact": "Spiros Potsikas / Tele-Net(希腊 Rethimno 克里特;CSV 载 MTCNA+MTCRE);公足迹未查到具名人——tele-net.gr 未接连",
+   "inference": "Rethimno 克里特北部中产镇双证个体",
+   "hypothesis": "守档:具名引见回插后决",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "mikrotik.com 顾问名录核证",
+    "Rethimno 区案谱密度"
+   ],
+   "swot": {
+    "S": "双证",
+    "W": "零足迹",
+    "O": "待定",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "Rethimno 克里特区案的 PoE 接层现供哪家？",
+   "tag": "希腊|Rethimno|个体顾问|零足迹",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-119",
+   "fact": "Christos Kotoufos(希腊 Nea Makri;载 MTCNA+MTCSE 双证）;公足迹未查到",
+   "inference": "雅典北港海岸小体个顾",
+   "hypothesis": "守档:具名引见再定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Nea Makri)",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "具名足迹核查",
+    "Nea Makri 港案资源带"
+   ],
+   "swot": {
+    "S": "双证",
+    "W": "零足迹",
+    "O": "具名回插",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "(守档不入触点)",
+   "tag": "希腊|NeaMakri|个体顾问|零足迹",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-123",
+   "fact": "Georgios Floros(希腊 Pallini 雅典区;载 MTCNA+MTCSE 双证）;公足迹未查到",
+   "inference": "雅典东南区市零足迹个体",
+   "hypothesis": "守档:具名引见再定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Pallini)",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "具名足迹核查",
+    "Pallini 雅典区市案谱"
+   ],
+   "swot": {
+    "S": "双证",
+    "W": "零足迹",
+    "O": "具名回插",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "(守档不入触点)",
+   "tag": "希腊|Pallini|个体顾问|零足迹",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-126",
+   "fact": "Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）**",
+   "inference": "Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级",
+   "hypothesis": "守档后优先序:具名引见最优先(MTCINE 高位拉级)",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS",
+     "source": "https://www.mikrotikusers.com/mikrotik-certification-program/"
+    }
+   ],
+   "unknowns": [
+    "具名足迹核查(MTCINE 高位程)",
+    "Nafplio 旅游区案谱密度"
+   ],
+   "swot": {
+    "S": "三证+MTCINE 高位",
+    "W": "零足迹",
+    "O": "具名引见后案",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "MTCINE 高位三证派==师者予顾问通道(入具名引见中单)",
+   "question": "Nafplio 旅游港 MTCINE 高度型的项目普布局",
+   "tag": "希腊|Nafplio|MTCINE高位|个体顾问",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+14 具名引见(MTCINE 高位拉级)",
+    "D+30 放盘"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-128",
+   "fact": "Lechouritis Ioannis(希腊 Neo Herakleio 雅典区;载 MTCNA+MTCRE+MTCSE 三证）;公足迹未查到",
+   "inference": "雅典区零足迹三证个体",
+   "hypothesis": "守档:具名引见再定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Neo Herakleio)",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "具名足迹核查",
+    "Neo Herakleio 雅典区案谱"
+   ],
+   "swot": {
+    "S": "三证",
+    "W": "零足迹",
+    "O": "具名回插",
+    "T": "失联"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "(守档不入触点)",
+   "tag": "希腊|NeoHerakleio|个体顾问|零足迹",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  },
+  {
+   "code": "B-132",
+   "fact": "Panagiotis Taxiarchis Chatzinikolaou(希腊 Mytilene 列斯沃斯岛;载 MTCNA+MTCRE+MTCSE 三证,CSV 邮箱名面 controlfieldg@——偏工程师/控制场域）;公足迹未查到",
+   "inference": "列斯沃斯岛;controlfieldg 名面偏控制工程,市政旅游常规部署样",
+   "hypothesis": "守档:具名引见后定",
+   "evidence": [
+    {
+     "dim": "身份",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Mytilene)",
+     "source": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "谱系",
+     "quote": "官方顾问需 MTC*E 在续",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "unknowns": [
+    "具名足迹核查(controlfieldg 名面偏工程项目)",
+    "Mytilene 岛旅游+市政案谱密度"
+   ],
+   "swot": {
+    "S": "三证+工程气息",
+    "W": "零足迹",
+    "O": "具名回插",
+    "T": "失联+岛胶人"
+   },
+   "p1": "CONSULT-OEM",
+   "p1_reason": "希腊个体顾问零足迹零位",
+   "question": "(守档不入触点)",
+   "tag": "希腊|Mytilene|个体顾问|三证工程名面",
+   "email": "【合作通道·备养】具名引见后定",
+   "followups": [
+    "D+30 具名回插"
+   ],
+   "note": null
+  }
+ ]
+}

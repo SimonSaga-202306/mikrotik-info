@@ -1,0 +1,134 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第17批（CH/RS-Kosovo/LT/RO 行）。判据同前。",
+ "records": [
+  {
+   "code": "B-529",
+   "decision": "promote",
+   "site": "mpi.ch",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段逐站复筛17】官网核对：MPI Technologies AG（瑞士 Rüti，1992 年起，属 BIBUS/MPL 集团）自述「führender Anbieter von zuverlässigen IT- und IIoT-Produkten, -Systemen und Lösungen」，**NETWORK SOLUTIONS 板块明确「Industrielle Ethernet Switches」**：Openframe/Rack/DIN-Rail 至 IP67、Micro-Switch 至 28 端口、Optical Fiber Bypass Switch、**Layer 3 Ethernet Switch、PoE Ethernet Switch**，并提供网络配置器与工业级认证（EN50155/ATEX/IEC-61850/MIL-461/810） → 交换机产品线+工业网络专营 → 人工定级升A。",
+   "quote": "MPI Technologies AG — seit 1992 der führende Anbieter von zuverlässigen IT- und IIoT-Produkten, -Systemen und Lösungen；Network Solutions: INDUS TRIELLE NETZWERKTECHNIK；**Industrielle Ethernet Switches** — Openframe, Rack- & DIN-Rail-Lösungen bis IP67／Micro-Switch bis 28 Ports／Optical Fiber Bypass Switch／**Layer 3 Ethernet Switch**／**PoE Ethernet Switch**（Jetzt konfigurieren und Anfrage senden → Netzwerk-Konfigurator）；Rugged Solutions: EN50155 / ATEX / IEC-61850 / MIL-461/810",
+   "sources": [
+    [
+     1,
+     "https://mpi.ch/"
+    ],
+    [
+     2,
+     "https://mpi.ch/network-solutions/"
+    ]
+   ]
+  },
+  {
+   "code": "B-300",
+   "decision": "promote",
+   "site": "shop.inovis-group.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：INOVIS Live Automation AG（瑞士 Rüti ZH）为工业自动化/IIoT 产品分销商（Computing、Netzwerk und Server、Software、Fertig­lösungen 类目，代理 Milesight/Teltonika/Aplex/NEXCOM/IEI/Avalue/InHand/**Lantech**）；**站内检索 \"switch\" 返回在售交换机**（Lantech I(P)GS-5400-2P-PT、IGS-0204DSFP、IES-0104FT、IES-0016 等工业交换机，TELTONIKA TSW030、Milesight WS558、InHand ES220-5T），筛选维度含 **Switch Typ: Managed/Unmanaged**、Netzwerk PoE、EN50155 → 交换机品类+工业网络专营 → 人工定级升A。",
+   "quote": "INOVIS Shop — KATEGORIEN: Computing／Netzwerk und Server／Software und Lizenzen／Ladegeräte／Fertiglösungen；Zu \"switch\" wurden Produkte gefunden；Hersteller: …Lantech Communications Europe GmbH／SIA Mikrotikls／TELTONIKA NETWORKS UAB／Milesight／InHand Networks…；Produkte: **Lantech I(P)GS-5400-2P-PT**／Lantech IGS-0204DSFP／Lantech IES-0104FT／Lantech IES-0016／TELTONIKA TSW030（43,00 CHF）／Milesight WS558 - Switch（139,00 CHF）；Filter: **Switch Typ Managed/Unmanaged**、Netzwerk PoE（Aktiv 4 port PoE at/af switch）、Zertifizierungen EN50155",
+   "sources": [
+    [
+     1,
+     "https://shop.inovis-group.com/"
+    ],
+    [
+     2,
+     "https://shop.inovis-group.com/search?search=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-303",
+   "decision": "promote",
+   "site": "shop.wifx.net",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：Wifx SA（瑞士，LoRaWAN 网关厂商）自营 MikroTik 网上商店，**设 «switches» 类目**：CRS112-8P-4S-IN（185.88 CHF）、CRS326-24G-2S+RM（185.88）、CRS354-48P-4S+2Q+RM（886.37）、CRS112-8G-4S-IN（136.15），另有 Ethernet Routers、Wireless for home/office、LTE/5G → 交换机品类+MikroTik 专营 → 人工定级升A。",
+   "quote": "Wifx SA shop；Popular Products: RB5009UG+S+IN／RB5009UPr+S+IN／RB4011iGS+RM／**switches** 类目 CRS112-8P-4S-IN 185.88 CHF／CRS326-24G-2S+RM 185.88 CHF／CRS354-48P-4S+2Q+RM 886.37 CHF／CRS112-8G-4S-IN 136.15 CHF；Kategorien: Ethernet Routers／LTE-5G／Wireless for home and office／Switches",
+   "sources": [
+    [
+     1,
+     "https://shop.wifx.net/en/"
+    ]
+   ]
+  },
+  {
+   "code": "B-304",
+   "decision": "hold-B",
+   "site": "fortshpejt.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：FortShpejt（H2 HOLDING LLC，科索沃）为**综合消费类网店**（Shtëpi & Kopsht 家居园艺、Kuzhinë 厨房、Parfume & Kozmetikë 香水、Sport/Lodra 等），另设 Rrjeta 网络大类并含 **Switches 类目**（MikroTik CRS125-24G-1S-IN、CRS212-1G-10S-1S+IN、CRS112-8P-4S-IN、CRS305-1G-4S+IN、CRS312-4C+8XG-RM，Ubiquiti TS-16-CARRIER，Amiko PoE）与光纤/铜缆基础设施类；公司并非网络专营（综合零售为主体）→ 维持B（网络为大类但非专营；如后续需要可单独评估）。",
+   "quote": "FortShpejt - Blej Online；Kategoritë: Shtëpi & Kopsht／Kuzhinë／Kompjuterë & Elektronikë／Sporti & Koha e lirë／Lodra & Kostume／Shëndeti & Bukuria／Parfume & Kozmetikë；Rrjeta: Access Point／Wireless Routers／Ethernet Routers／**Switches**（Mikrotik CRS125-24G-1S-IN 168.50 €／CRS212-1G-10S-1S+IN 189.50 €／CRS112-8P-4S-IN 197.00 €／CRS305-1G-4S+IN 140.40 €／CRS312-4C+8XG-RM 533.00 €；UBIQUITI TS-16-CARRIER 420.00 €）／SFP Interfaces／Fiber Tools／Optical Patch Cords／Kabllot e fibrave／Copper Infrastructure Solutions",
+   "sources": [
+    [
+     1,
+     "https://fortshpejt.com/"
+    ],
+    [
+     2,
+     "https://fortshpejt.com/category/switches"
+    ]
+   ]
+  },
+  {
+   "code": "B-306",
+   "decision": "promote",
+   "site": "kosprod.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：KosProd（科索沃，自述 «Dycan i Produkteve Teknologjike» 技术产品专卖）设 **Router & Switch（35 件）** 大类，**MikroTik 类目 134 件**（子类含 Switches - Mikrotik、Ethernet Routers - Mikrotik、Accessories、PoE Adapters）；站内检索 CRS326 命中 **CRS326-24G-2S+RM 220.52 €**，归类 **«Switch i menagjushëm»（管理型交换机）与 «Switches - Mikrotik»**；另有 Ubiquiti/UniFi、Cudy、NVR/CCTV 与以太网线材 → 交换机品类+网络设备专营 → 人工定级升A。",
+   "quote": "Kosprod - Dycan i Produkteve Teknologjike；Kategoritë: Kamera Sigurie（NVR/AI）／Networking Accessories（Ethernet Cable）／Inverter UPS／Pajisje Rrjeti（Cudy）／Ubiquiti（UniFi）／Kompjuter-Laptop-Monitor／Mikrotik（134）；Router & Switch（35 përfundime，含 Power over Ethernet Adapters）；Search \"CRS326\"：**CRS326-24G-2S+RM 220.52 €** — [Switch i menagjushëm]、[Mikrotik]、[Switches - Mikrotik]",
+   "sources": [
+    [
+     1,
+     "https://kosprod.com/product-category/mikrotik/"
+    ],
+    [
+     2,
+     "https://kosprod.com/?s=CRS326&post_type=product"
+    ]
+   ]
+  },
+  {
+   "code": "B-307",
+   "decision": "hold-B",
+   "site": "accdistribution.eu",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：ACC Distribution UAB（立陶宛考纳斯，1998 年起）自述「leading technology distributor in the Baltics」，规模 **400+ 供应商/品牌、3200+ 客户、20K+ 产品、500M€ 目标营收**，并做品牌代运营与市场进入服务 → 宽线大型分销商，维持B。",
+   "quote": "ACC Distribution — The gateway for new tech products, brands and categories；Since 1998 we have grown to be a leading technology distributor in the Baltics, supporting over 300 suppliers and brands…；Success in numbers: 400+ Vendors trust us／3200+ Clients growing together with us／20 K+ Products in our assortment／+ 500 M € Target revenue；Services: Clients／Vendors／Market Entry Team；info@accdistribution.lt，Kaunas, Lithuania",
+   "sources": [
+    [
+     1,
+     "https://accdistribution.eu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-311",
+   "decision": "hold-B",
+   "site": "elko.lt",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：ELKO Lietuva 与 ELKO Eesti 同集团，自述「IT ir buitinės elektronikos produktų bei sprendimų platinimas ir didmeninė prekyba」（IT 与消费电子产品分销及批发），规模 40 000 produktų / 10 000 partnerių / 400 gamintojų → 宽线大型分销商，维持B。",
+   "quote": "ELKO Lietuva — IT ir buitinės elektronikos produktų bei sprendimų platinimas ir didmeninė prekyba；IT: komponentai, stacionarūs kompiuteriai, nešiojamieji…didmeninei prekybai；40 000 Produktų／10 000 Partnerių／400 Gamintojų；Asmeninis vadybininkas、partnerių programos",
+   "sources": [
+    [
+     1,
+     "https://www.elko.lt/"
+    ]
+   ]
+  },
+  {
+   "code": "B-313",
+   "decision": "hold-B",
+   "site": "dipolnet.ro",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛17】官网核对：DIPOL（dipolnet.ro 为罗马尼亚站；同集团另设 PL/EN/CZ/DE/IE/HU/PT/SK/ES 等 **10+ 国站点**，第 25 届天线摄影大赛）为跨国大型天线/卫星/监控/网络/线材分销商，首页推荐以 LNB、天线支架、光纤跳线等为主，网络（reţelistică）为众多品类之一 → 宽线跨国分销商，维持B。",
+   "quote": "Sisteme supraveghere, reţelistică, wireless, TV, satelit, antene, cabluri - DIPOL；Języki: RO／PL（dipol.com.pl）／EN／CZ／DE／IE／HU／PT／SK／ES；Pasionați de antene — Ediția a 25-a a concursului de fotografie al DIPOL；Produse recomandate: LNB Wide Band、Suport catarg、Patchcord SM SC/APC ULTIMODE、LNB Unicable II Inverto",
+   "sources": [
+    [
+     1,
+     "https://www.dipolnet.ro/"
+    ]
+   ]
+  }
+ ]
+}

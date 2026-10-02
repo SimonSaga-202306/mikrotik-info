@@ -1,0 +1,328 @@
+{
+ "date": "2026-09-28",
+ "scope": "R53：B段逐站复筛第26批（主域跳转/入口重试复核：MK/TR/RS/PT/HR/CY/SI/IT/PL 等；4 升 A、6 维持B、11 仍待复核）。",
+ "records": [
+  {
+   "code": "B-087",
+   "decision": "promote",
+   "site": "toten.com.mk",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】域名核对：toten.com.mk 现跳转至 ALL4NET DOOEL（北马其顿，info@all4net.com.mk，+389 2 3217 799）自述 «One place stop for networking»；Active Equipment 下 **Mikrotik** 含 **Switches** 子类目（另有 Wireless SOHO／Ethernet／Wifi outdoor／Accessories／Antennas／IoT／LTE），并代理 Ubiquiti UniFi/AirFiber/AirMax/EdgeMax、**Planet（含 Switch 子类目）**、Grandstream（含 Switch）、Cisco、Synology、Teltonika、Cambium；被动/光纤/机柜/工具全系 → MikroTik 交换机专营网店 → 人工定级升A。",
+   "quote": "ALL4NET – One place stop for networking；Product category → **Active Equipment → Mikrotik → Switches**（另 Ethernet／Wireless SOHO／Wifi outdoor／Accessories／Antennas／IoT／LTE）；**Planet (other) → Switch**；**Grandstream → Switch**；Ubiquiti UniFi/Airfiber/Airmax/Edgemax；Cisco／Synology／Teltonika／Cambium；Contact: +38923217799 / info@all4net.com.mk",
+   "sources": [
+    [
+     1,
+     "https://toten.com.mk/"
+    ],
+    [
+     2,
+     "https://all4net.mk/product-category/active-equipment/mikrotik/switches/"
+    ]
+   ]
+  },
+  {
+   "code": "B-092",
+   "decision": "promote",
+   "site": "cooltechtrading.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：COOLTECH TRADING（土耳其，土耳其，自述 «Bilişim Sektöründeki İş Ortağınız»）MikroTik 专页列出在售清单（含 16% VAT）并注明 «You can pre-order all the other products found in Mikrotik's website through us»；在售含 **RB260GS 5x Gigabit Smart Switch（SFP、SwOS）39.95 USD**、RB750、RB2011iL-IN、RB951Ui-2HnD、OmniTIK、SXT Lite5、CCR1016-12G、CCR1036-12G-4S、S-RJ01、S-31DLC20D（SFP 模块）；另代 Cambium Networks，并有 fiyat listesi 渠道价目表 → MikroTik 转售含交换机在售 → 人工定级升A。",
+   "quote": "COOLTECH TRADING — «Bilişim Sektöründeki İş Ortağınız»；Mikrotik Products: „The following products are the ones that are in stock. You can pre-order all the other products found in Mikrotik's website through us.“；**RB260GS 5x Gigabit Ethernet Smart Switch, SFP cage, plastic case, SwOS — $39.95**／RB750 $39.95／RB2011iL-IN $99／CCR1016-12G $645／CCR1036-12G-4S $995／S-RJ01 SFP $29／S-31DLC20D $29；Cambium Networks",
+   "sources": [
+    [
+     1,
+     "https://www.cooltechtrading.com/"
+    ],
+    [
+     2,
+     "https://www.cooltechtrading.com/mikrotik.aspx"
+    ]
+   ]
+  },
+  {
+   "code": "B-101",
+   "decision": "promote",
+   "site": "3net.rs",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：3NET（塞尔维亚，塞尔维亚，自述 «One place stop for Networking»）Aktivna oprema → **MikroTik → Svičevi（交换机）** 类目在售，站内检索 CRS 得 10+ 型号：**CRS310-8G+2S+IN（Layer 3，8×2.5G + 2×10G SFP+）、CRS305-1G-4S+IN、CRS328-4C-20S-4S+RM、CRS112-8P-4S-IN（PoE 供电）、CRS112-8G-4S-IN、CRS326-24G-2S+RM、CRS328-24P-4S+RM（PoE）、CRS125-24G-1S-2HnD-IN、CRS106-1C-5S、CRS310-1G-5S-4S+IN**；另售 Ubiquiti UniFi、SFP/DAC、光缆/铜缆/机柜 → MikroTik 交换机专营网店 → 人工定级升A。",
+   "quote": "3NET – One place stop for Networking；Product-category → **Aktivna oprema → MikroTik → Svičevi（Switches）**；Search «CRS»：**CRS310-8G+2S+IN（„pametni prekidač Layer 3, sa 8 x 2.5G Ethernet portova, 2 x 10G SFP+ porta“）**／**CRS112-8P-4S-IN（„8x gigabitni PoE prekidač…802.3af/at PoE/PoE+ i pasivno“）**／**CRS326-24G-2S+RM**／**CRS328-24P-4S+RM**／CRS305-1G-4S+IN／CRS328-4C-20S-4S+RM／CRS112-8G-4S-IN／CRS125-24G-1S-2HnD-IN／CRS106-1C-5S／CRS310-1G-5S-4S+IN",
+   "sources": [
+    [
+     1,
+     "https://3net.rs/"
+    ],
+    [
+     2,
+     "https://3net.rs/?s=CRS"
+    ]
+   ]
+  },
+  {
+   "code": "B-451",
+   "decision": "promote",
+   "site": "sinaltech.pt",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：Sinaltech（葡萄牙，葡萄牙，十余年 ICT 集成商，联系人 Bruno Caiola Ricardo）业务范围含 **«Implementação de Soluções de Comunicações e Segurança»：Routing／Switching／Unified Communications／Wi-Fi／LAN-WAN／Segurança／Telefonia IP／Videoconferência**，另有网络/系统运维管理（Gestão e Operação de Redes e Sistemas）、结构化布线/数据中心/机房（Infraestruturas e Soluções Horizontais）；品牌合作方含 **Mikrotik**、Cisco、Juniper、Aruba、Huawei、Unify、Ekahau、Teldat → 交换/Routing 为核心业务的网络集成商 → 人工定级升A。",
+   "quote": "Home | Sinaltech — „Competência Técnica aliada a um Serviço de Excelência… Parceiro certo para o apoiar na Transformação Digital“；Áreas de Negócio → **Implementação de Soluções de Comunicações e Segurança：Routing／Switching／Unified Communications／Wi-Fi／LAN/WAN／Segurança／Telefonia IP／Videoconferência／Infraestruturas**；Serviços de Suporte…（Gestão e Operação de Redes e Sistemas／Helpdesk／Manutenção）；Infraestruturas e Soluções Horizontais（Cablagens e Redes Estruturadas／Salas Técnicas／Data Centers）；Parceiros: NOS／Huawei／Cisco／Teldat／Ekahau／Yealink／**Mikrotik**／Unify／Juniper／Veeam／ESET／Aruba",
+   "sources": [
+    [
+     1,
+     "https://www.sinaltech.pt/pt/"
+    ],
+    [
+     2,
+     "https://www.sinaltech.pt/pt/areas-de-negocio"
+    ]
+   ]
+  },
+  {
+   "code": "B-053",
+   "decision": "hold-B",
+   "site": "lost.hr",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：LOST d.o.o.（克罗地亚，Zagreb）为**宽线 IT 零售**（六大品类：Komponente／Periferija／Prijenosna računala／**Mrežna oprema**／Roline 线材／Računala），网络设备仅是其一：MREŽNA OPREMA 681 项含 MIKROTIK(136)、PLANET(29)、TP-LINK(289)、UBIQUITI(79)、Synology、机柜等，筛选器有「Upravljiv」（可管理 29）与「Neupravljivi preklopnik」(2) → 网络为附属品类的 PC/IT 大零售 → 维持B。",
+   "quote": "LOST — MREŽNA OPREMA（681 proizvoda）；Robna marka: SYNOLOGY(36)／**PLANET(29)**／TP-LINK(289)／**MIKROTIK(136)**／UBIQUITI(79)／MERCUSYS(45)／ROLINES 机柜(55)／CANOVATE(9)；Vrsta: **Neupravljivi preklopnik(2)**／Kontroler(2)／Podni ormar／Zidni ormar；Upravljiv: DA(29)/NE(29)；首页品类六项：Komponente／Periferija／Prijenosna računala i pribor／Mrežna oprema／Roline／Računala",
+   "sources": [
+    [
+     1,
+     "https://lost.hr/"
+    ],
+    [
+     2,
+     "https://lost.hr/katalog/mrezna-oprema/"
+    ]
+   ]
+  },
+  {
+   "code": "B-105",
+   "decision": "hold-B",
+   "site": "prod.cy-wireless.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】域名状态：主域 cy-wireless.com 返回 cPanel 默认页（«Default Web Site Page / The IP address has changed / server misconfiguration»，无业务内容）；子域 prod.cy-wireless.com 页面仅 reCAPTCHA 验证墙，无法取得任何在售内容 → 无法核验交换机品类，维持B（记录在案，未作为升级依据）。",
+   "quote": "cy-wireless.com → cPanel „Default Web Site Page（SORRY!…The IP address has changed. It may be possible to restore access…server misconfiguration)“；prod.cy-wireless.com → „Recaptcha requires verification. protected by reCAPTCHA“",
+   "sources": [
+    [
+     1,
+     "https://cy-wireless.com/"
+    ],
+    [
+     2,
+     "https://prod.cy-wireless.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-106",
+   "decision": "hold-B",
+   "site": "mstronics.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：MS Electronics（塞浦路斯，塞浦路斯）首页为**消费电子/AV 综合零售**：Wanbo 投影、Insta360、Dahua、Denver、Anycubic、Growatt、Inateck、My Arcade 掌机、Innergie 电源等；网络品类仅见 Ubiquiti UniFi（U7-Mesh 等），无交换机专营/品类页 → 网络为附属品类，维持B。",
+   "quote": "MS Electronics（mstronics.com）首页 Slider 品牌：Wanbo／Insta360／Dahua PRO Challenge／Denver／Anycubic／Growatt／Inateck；New Arrivals：Ubiquiti UniFi 7 Mesh U7-Mesh €359.00／Innergie 180W／My Arcade 系列掌机 €39.99–59.99；无独立网络/交换品类（品牌列表含 Ubiquiti）",
+   "sources": [
+    [
+     1,
+     "https://www.mstronics.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-160",
+   "decision": "hold-B",
+   "site": "dnet-distribution.com",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对（重试成功）：Dnet-Distribution by Nim Wave（意大利）自述为面向 installatori／rivenditori／system integrators 的「新渠道」，专营 **antenne、cavi、accessori**（天线/线缆/配件）并需登录或注册查看渠道 listino；无交换机产品线/品类 → 维持B。",
+   "quote": "Dnet-Distribution by Nim Wave — „Nuovo canale riservato a installatori, rivenditori e system integrators dedicato alla commercializzazione di **antenne, cavi, accessori** e quanto altro il mercato richiederà.“；LISTINI（„sei un wisp o un rivenditore? Accedi o iscriviti…e visualizza il listino a te dedicato“）；spedizioni 24/48 ore",
+   "sources": [
+    [
+     1,
+     "https://www.dnet-distribution.com/"
+    ]
+   ]
+  },
+  {
+   "code": "B-219",
+   "decision": "hold-B",
+   "site": "pchand.si",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】官网核对：PC H.AND d.o.o.（斯洛文尼亚，info@pchand.si）为**宽线 PC/办公/IT 零售与 B2B**（Philips 显示器/电视、AOC、笔记本、服务器、办公设备、家居小电器等数十品类）；网络为其中一个子类「Računalništvo >> Mrežna oprema」，品牌页 Mikrotik（«mikrotik-usmerjevalniki-dostopne-tocke-stikala»＝路由器/AP/交换机），站内 switch 检索可见 MIKROTIK CRS106-1C-5S 等 → 网络为附属品类的 PC 零售 → 维持B。",
+   "quote": "PC H.AND – Tehnologija vredna zaupanja；分类树含 Računalništvo >> **Mrežna oprema**（与 Philips／AOC／笔记本／服务器／家庭电器等并列）；品牌页 **Mikrotik**（„mikrotik-usmerjevalniki-dostopne-tocke-stikala“）；Search «switch» 结果含 MIKROTIK CRS106-1C-5S；Proizvajalec 列表含 Cisco／HP／HPE／Fujitsu／Synology 等",
+   "sources": [
+    [
+     1,
+     "https://www.pchand.si/"
+    ],
+    [
+     2,
+     "https://www.pchand.si/filterSearch?q=switch"
+    ]
+   ]
+  },
+  {
+   "code": "B-270",
+   "decision": "hold-B",
+   "site": "poniatowski.pl",
+   "level": "official-company",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】域名核对：poniatowski.pl 根域现仅呈现 **Roundcube Webmail 登录页**（«Roundcube Webmail Login»，无公司站/产品页内容）→ 站点无业务内容可核验，维持B（记录在案）。",
+   "quote": "poniatowski.pl/mail/ → „Roundcube Webmail Login“（仅用户名/密码登录表单与 Roundcube 皮肤，无业务页面）",
+   "sources": [
+    [
+     1,
+     "https://www.poniatowski.pl/mail/"
+    ]
+   ]
+  },
+  {
+   "code": "B-021",
+   "decision": "pending",
+   "site": "omnilink.ua",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试（omnilink.ua 与 www.omnilink.ua）均 HTTP 500；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试（omnilink.ua 与 www.omnilink.ua）均 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://omnilink.ua/"
+    ]
+   ]
+  },
+  {
+   "code": "B-037",
+   "decision": "pending",
+   "site": "ronitek.co.il",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试均 HTTP 500；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试均 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://ronitek.co.il/"
+    ]
+   ]
+  },
+  {
+   "code": "B-080",
+   "decision": "pending",
+   "site": "lazybear.hu",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试（直连与 www）均 HTTP 500；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试（直连与 www）均 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://lazybear.hu/"
+    ]
+   ]
+  },
+  {
+   "code": "B-110",
+   "decision": "pending",
+   "site": "sei-ned.org",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试（http/https、www）均 HTTP 500；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试（http/https、www）均 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://sei-ned.org/"
+    ]
+   ]
+  },
+  {
+   "code": "B-134",
+   "decision": "pending",
+   "site": "tele-net.gr",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试均抓取失败；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试均抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://tele-net.gr/"
+    ]
+   ]
+  },
+  {
+   "code": "B-152",
+   "decision": "pending",
+   "site": "shop.etree.de",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：重试 etree.de 与 shop.etree.de 均 403 Forbidden（WAF 拦截）；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：重试 etree.de 与 shop.etree.de 均 403 Forbidden（WAF 拦截））",
+   "sources": [
+    [
+     1,
+     "https://shop.etree.de/"
+    ]
+   ]
+  },
+  {
+   "code": "B-220",
+   "decision": "pending",
+   "site": "tehnox.si",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：重试仍为 reCAPTCHA 验证页（reCAPTCHA Enterprise 配额耗尽）；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：重试仍为 reCAPTCHA 验证页（reCAPTCHA Enterprise 配额耗尽））",
+   "sources": [
+    [
+     1,
+     "https://tehnox.si/"
+    ]
+   ]
+  },
+  {
+   "code": "B-223",
+   "decision": "pending",
+   "site": "smart-network.ge",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试均抓取失败；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试均抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://smart-network.ge/"
+    ]
+   ]
+  },
+  {
+   "code": "B-422",
+   "decision": "pending",
+   "site": "mikrotiktraining.co.uk",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试（https 与 http）均抓取失败；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试（https 与 http）均抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://mikrotiktraining.co.uk/"
+    ]
+   ]
+  },
+  {
+   "code": "B-452",
+   "decision": "pending",
+   "site": "engenheiros.pt",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试均抓取失败；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试均抓取失败）",
+   "sources": [
+    [
+     1,
+     "https://engenheiros.pt/"
+    ]
+   ]
+  },
+  {
+   "code": "B-471",
+   "decision": "pending",
+   "site": "itconsultores.es",
+   "level": "unverified",
+   "note": "【2026-09-28 R53 B段复筛26·重试复核】重试未通：两轮重试均 HTTP 500；本轮无法取得页面证据，维持待复核状态（不升级、不改级）。",
+   "quote": "（本轮两次抓取均失败：两轮重试均 HTTP 500）",
+   "sources": [
+    [
+     1,
+     "https://itconsultores.es/"
+    ]
+   ]
+  }
+ ]
+}
