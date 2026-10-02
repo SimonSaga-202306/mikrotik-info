@@ -70,10 +70,10 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：sales.uk@bechtle.com(发不过去·2026-09-29 退信:地址不存在 not-found)
+- **邮箱**：sales.uk@bechtle.com
   - 状态：既有/公开
 - **电话**：—
-- **原始联系字段**：sales.uk@bechtle.com（⚠️ **Bechtle 在本项目的规模排除名单内**（与 ALSO/Arrow/Ingram/TD SYNNEX 同类）。另有 uk@bechtle.com、sales@bechtle.co.uk。建议降级或剔除，请用户裁决）
+- **原始联系字段**：sales.uk@bechtle.com（⚠️ **Bechtle 在本项目的规模排除名单内**（与 ALSO/Arrow/Ingram/TD SYNNEX 同类）。另有 uk@bechtle.com(发不过去·2026-09-29 退信:地址不存在 not-found)、sales@bechtle.co.uk。建议降级或剔除，请用户裁决）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 

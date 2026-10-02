@@ -340,6 +340,9 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual(len(self.rows), len(baseline_f) + 6)
         self.assertEqual([pos(r) for r in baseline_f], [pos(r) for r in self.rows[:len(baseline_f)]])
         targets = {f'A-{n:03}' for n in range(200, 379)}
+        # R60:「未测试投递」全仓清除行集合(基线含该字样才放行 入口/联系方式+备注)
+        r60_untested = {r['档案编号'] for r in baseline_f
+                        if '未测试投递' in ((r.get('入口/联系方式') or '') + (r.get('备注') or ''))}
         for before, after in zip(baseline_f, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
@@ -348,6 +351,8 @@ class RepositoryTests(unittest.TestCase):
                        or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
                        or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
+            if before['档案编号'] in r60_untested:
+                allowed = (allowed or set()) | {'入口/联系方式', '备注'}
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 self.assertEqual(after['评级'], 'A')
@@ -586,6 +591,10 @@ class RepositoryTests(unittest.TestCase):
         merged_away = {'B-233', 'A-373'}
         baseline_f = [r for r in baseline if r['档案编号'] not in merged_away]
         self.assertEqual(len(baseline_f) + 6, len(self.rows))
+        # R60(2026-09-29):用户首轮开发信已发完,全仓清除「未测试投递」标注——基线里
+        # 入口/联系方式或备注含该字样的行,本轮允许这两字段变化(其余字段仍冻结)
+        r60_untested = {r['档案编号'] for r in baseline_f
+                        if '未测试投递' in ((r.get('入口/联系方式') or '') + (r.get('备注') or ''))}
         for before, after in zip(baseline_f, self.rows):
             allowed = (self.r53_allowed(before['档案编号']) or self.r52_allowed(before['档案编号'])
                        or self.r51_allowed(before['档案编号']) or self.r50_allowed(before['档案编号'])
@@ -594,6 +603,9 @@ class RepositoryTests(unittest.TestCase):
                        or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
                        or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
+            # R60:「未测试投递」清理行并入 allowed(基线含该字样才放)
+            if before['档案编号'] in r60_untested:
+                allowed = (allowed or set()) | {'入口/联系方式', '备注'}
             if before['档案编号'] in self.PROMOTED_MAP:
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 extra = (self.R52_PROMOTED_FIELDS if (before['档案编号'] in self.R52_PROMOTED
@@ -631,7 +643,9 @@ class RepositoryTests(unittest.TestCase):
                 # xlsx 反向信号名单 sheet 同步重导,存量其他行仍字节级对齐
                 | self.R58_BOUNCED
                 # R59 审核处置:受益/降级/互链行的备注/优先级字段被改,其 xlsx 行整体过滤
-                | set(self.R59_MERGED_BENEFICIARY) | self.R59_DOWNGRADED | self.R59_GROUP_LINK)
+                | set(self.R59_MERGED_BENEFICIARY) | self.R59_DOWNGRADED | self.R59_GROUP_LINK
+                # R60 全仓「未测试投递」清除:反向信号名单 sheet 已按 R60 CSV 重导,清理行整体过滤
+                | r60_untested)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)
