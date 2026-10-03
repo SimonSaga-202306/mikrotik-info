@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ELKO 集团爱沙尼亚站 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Tallinn |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0」 — https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)
+- 参考 P1: `STC-424XGGPM-280W` — ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)
 - 第一问: 集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)
 - 标签: 爱沙尼亚|Tallinn|ELKO系|集团前台|防双头
 
@@ -83,7 +83,7 @@ Hi ELKO Eesti team,
 
 ELKO Group with offices across 13 countries needs little introduction - and we note your Estonian desk is the local front of the Riga flow. A documented value-tier PoE switch is exactly the sort of stocking SKU a group line card can move across several sales offices at once.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
 
 One question: for the group line card, who fills the 24-port PoE value slot today - and should purchasing conversations go to Riga centrally? (We are also in touch with the WESTech desk, so we would rather coordinate than duplicate.)
 

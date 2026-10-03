@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGM（Saga） |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | — |
@@ -48,7 +48,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGM（Saga）`
+参考型号：`STC-424XGGM（Saga）`
 
 ## 六、注意点
 
@@ -79,7 +79,7 @@
 - 「Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά」 — https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘
+- 参考 P1: `STC-424XGGPM-280W` — 岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘
 - 第一问: 你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？
 - 标签: 希腊|Kefalonia|安防集成店|IT+SA双血统
 
@@ -89,7 +89,7 @@ Hi AlfaTech team,
 
 IT support, office systems, telecom, and full security-system installations (CCTV, alarms, fire, access control) across the whole island of Kefalonia - that's the full small-region solutions provider setup.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the access layer that sits inside your CCTV and security system deployments.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the access layer that sits inside your CCTV and security system deployments.
 
 One question: for your CCTV and security system deployments across the island, which PoE access switch are you standardizing on today - and would a documented sample unit earn a bench test?
 

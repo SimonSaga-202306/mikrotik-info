@@ -16,12 +16,12 @@
    ],
    "unknowns": ["CUDY/LANBERG 价位档在架深(有无 24 口管理 PoE)", "DMI PRO 新 vendor 准入与上架费"],
    "swot": {"S": "110 人+5000 客户+200 门店+葡办+PRO 事业部", "W": "value 档多牌挤位", "O": "24 口 280W 管理型 PoE 价位空档", "T": "CUDY/LANBERG 低价惯性"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1r": null,
    "p1_reason": "大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)",
    "question": "你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?",
    "tag": "西班牙|马德里|大型批发|200门店|DMI-PRO",
-   "email": "Hi DMI team,\n\nThirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.\n\nWe build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.\n\nOne question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi DMI team,\n\nThirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.\n\nWe build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.\n\nOne question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 价位空档对照页(CUDY/LANBERG/Ubiquiti 对位)", "D+14 clientes@dmi.es 开口", "D+30 果归守档"]
   },
   {
@@ -36,11 +36,11 @@
    ],
    "unknowns": ["iggual 自牌是否计划延到网络硬件/PoE", "Global Pro 谱 PoE 档现供价位"],
    "swot": {"S": "1986 巨头+三自牌+ISO 27001+24h 物流", "W": "谱大牌挤 value 档", "O": "iggual OEM PoE 延伸(第四自牌类目)", "T": "自牌谱优先于外来牌"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)",
    "question": "iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。",
    "tag": "西班牙|瓦伦西亚|批发巨头|三自牌|iggual-OEM候选",
-   "email": "Hi Infortisa team,\n\nThe only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.\n\nOne question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Infortisa team,\n\nThe only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.\n\nOne question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 双案提案页(架位 vs iggual OEM)", "D+14 ventas@infortisa.com 开口", "D+30 果归守档"]
   },
   {
@@ -54,11 +54,11 @@
    ],
    "unknowns": ["安防安装商谱 PoE 随单结构与价位敏带", "其谱引入第四家 PoE 品牌的动力"],
    "swot": {"S": "1986 资历+安防电信双驱+PoE 常备", "W": "三家 PoE 牌已占架", "O": "24 口 280W 管理型 value 中间档", "T": "Ubiquiti/TPLink 走量压价"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位",
    "question": "你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?",
    "tag": "西班牙|Denia|安防CCTV分销|PoE常备走量",
-   "email": "Hi Todo Telecom team,\n\nCCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.\n\nOne question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Todo Telecom team,\n\nCCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.\n\nOne question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 安防随单 PoE 样张", "D+14 webinfo@todotelecom.com 开口", "D+30 果归守档"]
   },
   {

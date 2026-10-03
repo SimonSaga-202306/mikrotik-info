@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ELKO 集团立陶宛站（集团总部在拉脱维亚，覆盖 5+ 国） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Kaunas |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland」 — https://en.wikipedia.org/wiki/Elko_Grupa
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)
+- 参考 P1: `STC-424XGGPM-280W` — ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)
 - 第一问: 集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)
 - 标签: 立陶宛|Kaunas|ELKO系|集团前台|防双头
 
@@ -83,7 +83,7 @@ Hi ELKO Lietuva team,
 
 Your Kaunas desk is the Lithuanian front of the ELKO Group flow - and a documented value PoE SKU is the kind of line a group line card can carry across several sales offices at once.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
 
 One question: who fills the 24-port PoE value slot on the group line card today, and does purchasing sit with Riga centrally? (We are also in touch with the WESTech and ELKO Eesti desks - coordinating, not duplicating, is exactly our intent.)
 

@@ -15,11 +15,11 @@
    ],
    "unknowns": ["其监控谱 PoE 交换现供价位带与品牌结构", "dropshipping/安装商号的 MOQ 与账期门槛"],
    "swot": {"S": "安防巨头+40 门店+多渠道+1000 人", "W": "谱宽采购决策分层多", "O": "监控安装随单 24 口 PoE 走量位", "T": "Hikvision/Dahua 绑定件挤压"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)",
    "question": "你们的监控/报警安装商客户,24 口管理型 PoE+ 现随哪家?门店架上 value 档有位吗?",
    "tag": "波兰|Częstochowa|安防巨头|40门店|Master",
-   "email": "Hi Eltrox team,\n\nPoland's largest security-equipment distributor with nearly 40 stores nationwide - every CCTV and alarm installer walking your aisles needs a PoE switch on the same receipt.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - built for the installer value tier on a security shelf, white-label friendly, wholesale and dropshipping ready.\n\nOne question: inside your monitoring and alarm catalog, which 24-port managed PoE switch rides along with camera installs today - and is there a value-tier slot on the store shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Eltrox team,\n\nPoland's largest security-equipment distributor with nearly 40 stores nationwide - every CCTV and alarm installer walking your aisles needs a PoE switch on the same receipt.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $180 USD EXW (2026-09-29) - built for the installer value tier on a security shelf, white-label friendly, wholesale and dropshipping ready.\n\nOne question: inside your monitoring and alarm catalog, which 24-port managed PoE switch rides along with camera installs today - and is there a value-tier slot on the store shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 安防安装商随单页", "D+14 sklep@eltrox.pl 开口", "D+30 果归守档"]
   },
   {
@@ -33,11 +33,11 @@
    ],
    "unknowns": ["企业级谱里网络件随单频度", "MikroTik 在其谱的实际定位(SME 副线?)"],
    "swot": {"S": "三段生态创始人+Dell/IBM 谱+企业级", "W": "2021 新创小体量", "O": "SME 网络项目随单 PoE 位", "T": "企业级客户对 value 件谨慎"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)",
    "question": "你们的 SME/分支网络项目里,PoE 接层现随哪家?value 档第二源有位吗?",
    "tag": "波兰|华沙|企业级集成|IBM谱|具名老板",
-   "email": "Hi Rafał,\n\nEighteen years across vendor, distribution and integration - now building FYR-SYSTEMS on IBM LinuxONE-class enterprise work, with MikroTik carrying your SME edge. You have sat on every side of this table.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the dependable value-tier PoE unit for your SME and branch rollouts, white-label friendly.\n\nOne question: inside your SME and branch network projects, which PoE access switch rides along today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Rafał,\n\nEighteen years across vendor, distribution and integration - now building FYR-SYSTEMS on IBM LinuxONE-class enterprise work, with MikroTik carrying your SME edge. You have sat on every side of this table.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $180 USD EXW (2026-09-29) - the dependable value-tier PoE unit for your SME and branch rollouts, white-label friendly.\n\nOne question: inside your SME and branch network projects, which PoE access switch rides along today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 集成商随单页", "D+14 kontakt@fyr-systems.pl 具名 Rafał", "D+30 果归守档"]
   },
   {

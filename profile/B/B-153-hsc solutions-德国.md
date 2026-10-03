@@ -73,7 +73,7 @@
 - 「IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises」 — https://www.cbinsights.com/company/hsc-solutions
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)
+- 参考 P1: `STC-424XGGPM-280W` — 软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)
 - 第一问: 你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?
 - 标签: 德国|开姆尼茨|软件+集成|项目随单
 
@@ -83,7 +83,7 @@ Hi Tom,
 
 Twenty years of DMS, ERP and IT-infrastructure projects out of Chemnitz - your projects are where switches actually get installed, not just listed.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.
 
 One question: inside your IT-infrastructure projects, which PoE access switch rides along with the rollout today - and would a documented second source earn a bench test?
 

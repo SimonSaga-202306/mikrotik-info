@@ -72,7 +72,7 @@
 - 「Router Mikrotik hEX S … la pret de distribuitor … PRIDE GROUP … www.pride.global IT Consulting Digital Transformation Outsourcing Services」 — https://www.pride.md/retelistica-ro/routere-ro/rb760igs_ro
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 全谱电商 VAD 的商用 PoE 管理档
+- 参考 P1: `STC-424XGGPM-280W` — 全谱电商 VAD 的商用 PoE 管理档
 - 第一问: 你们 MikroTik 商券谱旁,24 口 PoE 管理型档现随哪家?
 - 标签: 摩尔多瓦|Chișinău|全谱电商|集团服务侧
 
@@ -82,7 +82,7 @@ Hi PRIDE team,
 
 A distributor-priced MikroTik catalog with SKU discipline behind it, and a consulting/digital-transformation group on the other side - you see both the shelf and the project floor. The 24-port managed PoE line is where those two meet margin.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit beside your MikroTik catalog, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit beside your MikroTik catalog, white-label friendly.
 
 One question: next to your MikroTik shelf, which 24-port managed PoE switch holds the value slot today?
 

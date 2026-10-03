@@ -40,7 +40,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 酒店翻修随单",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "客房 Wi-Fi+安防一台收纳",
      "question": "单店物业点位规模？",
      "proof": "酒店方案页"
@@ -90,7 +90,7 @@
     "现用交换品牌",
     "框架采购结构"
    ],
-   "email": "Hi Paweł,\n\nA hotel or premium-property IT team that runs SOC 24/7, Zero Trust and PMS protection is rare - SAFES wears all three.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog) sized exactly for property Wi-Fi plus camera closets, with multi-year supply guarantees for managed-estate rollouts. Reference: $165 USD EXW.\n\nOne question: in a typical property you manage, how many outlets and cameras land on one access cabinet?\n\nIf useful, I can send one unit plus a hotel reference design. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Paweł,\n\nA hotel or premium-property IT team that runs SOC 24/7, Zero Trust and PMS protection is rare - SAFES wears all three.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog) sized exactly for property Wi-Fi plus camera closets, with multi-year supply guarantees for managed-estate rollouts. Reference: $180 USD EXW.\n\nOne question: in a typical property you manage, how many outlets and cameras land on one access cabinet?\n\nIf useful, I can send one unit plus a hotel reference design. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical property you manage, how many outlets and cameras land on one access cabinet?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -235,7 +235,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 商场 Wi-Fi 项目",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "高密 AP 一台收纳供电",
      "question": "单项目 AP 量级？",
      "proof": "商超方案页"
@@ -285,7 +285,7 @@
     "项目量",
     "接入层现供"
    ],
-   "email": "Hi Urbino,\n\nRunning live venue Wi-Fi and analytics across Trafalgar Square and Oxford Street is no slideshow - it means real dense AP grids.\n\nWe build 24-port Gigabit PoE switches (280W, 802.3af/at, silent for back-of-house, watchdog) sized exactly for those AP clusters. Reference: $165 USD EXW.\n\nOne question: in a typical venue deployment, how many APs land on one access switch for you?\n\nIf useful, I can send one unit plus a venue rack layout. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Urbino,\n\nRunning live venue Wi-Fi and analytics across Trafalgar Square and Oxford Street is no slideshow - it means real dense AP grids.\n\nWe build 24-port Gigabit PoE switches (280W, 802.3af/at, silent for back-of-house, watchdog) sized exactly for those AP clusters. Reference: $180 USD EXW.\n\nOne question: in a typical venue deployment, how many APs land on one access switch for you?\n\nIf useful, I can send one unit plus a venue rack layout. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical venue deployment, how many APs land on one access switch for you?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -330,7 +330,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 白牌对照页",
-     "push": "STC-424DGGPM-280W（24 口 PoE，ERPS/SNMPv3 全带）",
+     "push": "STC-424XGGPM-280W（24 口 PoE，ERPS/SNMPv3 全带）",
      "angle": "其 N-net 旁 value 补位",
      "question": "value-tier 24 口 PoE 现源？",
      "proof": "特性对照页"
@@ -380,7 +380,7 @@
     "value 24 口 PoE 源",
     "准入清单"
    ],
-   "email": "Hi Fredrik,\n\nCongratulations on 40 years - and on a catalog that swallows 1000 new SKUs a year. That is a machine.\n\nWe build a 24-port Gigabit PoE switch with ERPS, SNMPv3, Voice VLAN and a hardware PoE watchdog at a value price point - built for catalog throughput, not for glossy booths. Reference: $165 USD EXW.\n\nOne question: next to your N-net line, is there an open value slot for a 24-port PoE access switch?\n\nIf useful, I can send a unit plus the full documentation pack for SKU review. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Fredrik,\n\nCongratulations on 40 years - and on a catalog that swallows 1000 new SKUs a year. That is a machine.\n\nWe build a 24-port Gigabit PoE switch with ERPS, SNMPv3, Voice VLAN and a hardware PoE watchdog at a value price point - built for catalog throughput, not for glossy booths. Reference: $180 USD EXW.\n\nOne question: next to your N-net line, is there an open value slot for a 24-port PoE access switch?\n\nIf useful, I can send a unit plus the full documentation pack for SKU review. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Next to your N-net line, is there an open value slot for a 24-port PoE access switch?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -580,7 +580,7 @@
    "email": "Hi AA Jones team,\n\nThirty thousand items in stock and a controls-for-industry range including N-Tron and Red Lion - that is a serious industrial shelf.\n\nWe build industrial managed PoE switches rated -40 to 75C, aimed as a cost-friendly complement on exactly that shelf, with honest stock-keeping prices. Reference: $74.8 USD EXW.\n\nOne question: next to the N-Tron range, how much room is there for an industrial PoE switch line?\n\nIf useful, I can send a unit with the price card and documents. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Next to the N-Tron range, how much room is there for an industrial PoE switch line?",
    "alt2": "STI-280GE",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "英国|批发大仓|HMS全家|温宽PoE补件",
    "batch": 16,
    "date": "2026-09-28"
@@ -776,7 +776,7 @@
    "email": "Hi AGL team,\n\nA catalog that sells Jetson vision platforms with 4x PoE+ on board knows the PoE device world well - it is right there in your Industrial Communication category.\n\nWe build industrial managed PoE switches rated -40 to 75C that sit just upstream of those devices. Reference: $74.8 USD EXW.\n\nOne question: who supplies the PoE switch layer upstream of your vision and security device rows today?\n\nIf useful, I can send one unit plus catalog-ready documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Who supplies the PoE switch layer upstream of your vision and security device rows today?",
    "alt2": "STI-280GE",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "葡萄牙|EdgeAI分销|PoE上游|上架型",
    "batch": 16,
    "date": "2026-09-28"
@@ -818,7 +818,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 货架错价位一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "Alta 价位段旁的纯 PoE 专注位",
      "question": "24 口 PoE 纯值价位段空档？",
      "proof": "价卡"
@@ -869,7 +869,7 @@
     "Project Deals 门槛",
     "教具现况"
    ],
-   "email": "Hi Jono,\n\nLinITX covers almost every shelf - Ubiquiti, MikroTik, Alta, Aginet, Teltonika EV, and a UK MikroTik training center on top.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $165 USD EXW.\n\nOne question: is there an open value slot for a PoE-focused 24-port switch on your shelf?\n\nIf useful, I can send one unit for evaluation with a suggested shelf positioning. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Jono,\n\nLinITX covers almost every shelf - Ubiquiti, MikroTik, Alta, Aginet, Teltonika EV, and a UK MikroTik training center on top.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $180 USD EXW.\n\nOne question: is there an open value slot for a PoE-focused 24-port switch on your shelf?\n\nIf useful, I can send one unit for evaluation with a suggested shelf positioning. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is there an open value slot for a PoE-focused 24-port switch on your shelf?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -919,7 +919,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 交期痛点直击",
-     "push": "STC-424DGGPM-280W 现货",
+     "push": "STC-424XGGPM-280W 现货",
      "angle": "赛事时段不等人——现货",
      "question": "赛道侧 PoE 现况？",
      "proof": "规格页"
@@ -970,7 +970,7 @@
     "采购通道",
     "评测时间窗"
    ],
-   "email": "Hi Michael,\n\nYour forum post about waiting a year for PoE switches while running CCR1009s on race weekends really landed - timing and scoring does not wait for vendor backlogs.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $165 USD EXW.\n\nOne question: who supplies the PoE switching layer trackside today?\n\nIf useful, I can have an evaluation unit ready in days, not months. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Michael,\n\nYour forum post about waiting a year for PoE switches while running CCR1009s on race weekends really landed - timing and scoring does not wait for vendor backlogs.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $180 USD EXW.\n\nOne question: who supplies the PoE switching layer trackside today?\n\nIf useful, I can have an evaluation unit ready in days, not months. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Who supplies the PoE switching layer trackside today?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",

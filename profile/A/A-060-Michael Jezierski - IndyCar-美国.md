@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁、组播/IPTV），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$165 锚点一致）；顾问身份接触；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$180 锚点一致）；顾问身份接触；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 PoE++（Fan WiFi/监控的推荐档次）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：分站 Fan WiFi+监控接入层：24 口 PoE++ 一次到位，场地清单备件/到货可直接整箱——赛季收口时盘点他最敏感。
 - **要问的问题**：分站现场 24 口 PoE 一般用哪个档位、现在留多少台备用？
 - **随附证明**：功率实测表 + 与 CRS328-24P/UniFi 对照页（英文）。
@@ -172,7 +172,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$165 锚点一致）；顾问身份接触 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Jezierski INDYCAR 赛道技术：临时赛事网 PoE+现货直击大厂交期痛点（$180 锚点一致）；顾问身份接触 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -230,7 +230,7 @@ Hi Michael,
 
 Your forum post about waiting a year for PoE switches while running CCR1009s on race weekends really landed - timing and scoring does not wait for vendor backlogs.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $180 USD EXW.
 
 One question: who supplies the PoE switching layer trackside today?
 

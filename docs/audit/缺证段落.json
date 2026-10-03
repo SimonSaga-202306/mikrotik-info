@@ -17216,7 +17216,7 @@
   {
     "path": "README.md",
     "locator": "L11",
-    "text": "- **机器可读档案**：`batch/structured_profiles_v1.json`（567 条；P1 白名单 STC-28DGGPM/STC-424DGGPM-280W/STI-288GP/STI-480XGGM/CONSULT-OEM）。",
+    "text": "- **机器可读档案**：`batch/structured_profiles_v1.json`（567 条；P1 白名单 STC-28DGGPM/STC-424XGGPM-280W/STI-288GP/STI-480XGGM/CONSULT-OEM）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17366,7 +17366,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L36",
-    "text": "| **24口 非PoE** | STC-424DGGM | 4×2.5G SFP+24×GE，机架 | $110.0 |",
+    "text": "| **24口 非PoE** | STC-424XGGM | 4×2.5G SFP+24×GE，机架 | $110.0 |",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17384,7 +17384,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L39",
-    "text": "| **24口 PoE 主力** | **STC-424DGGPM-280W / -440W** | 4×2.5G SFP+24×GE PoE af/at，PoE 管理+watchdog | **$165.0 / $220.0** |",
+    "text": "| **24口 PoE 主力** | **STC-424XGGPM-280W / -440W** | 4×2.5G SFP+24×GE PoE af/at，PoE 管理+watchdog | **$165.0 / $220.0** |",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17462,7 +17462,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L56",
-    "text": "| L2+ 8口4光 | STI-480DGGM / 488DGGPM / 488DGGPM-2BT | 4×2.5G SFP+8×GE（PoE 240W） | $132 / $148.5 / $165 |",
+    "text": "| L2+ 8口4光 | STI-480DGGM / 488DGGPM / 488DGGPM-2BT | 4×2.5G SFP+8×GE（PoE 240W） | $132 / $148.5 / $180 |",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17600,7 +17600,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L96",
-    "text": "| LT-S8328GP-4GX24GT(-S) | 商用 24口 PoE 标杆/首梯 | **STC-424DGGPM-440W**（$220）；预算紧用 **-280W**（$165） | 同上 bt 缺口 |",
+    "text": "| LT-S8328GP-4GX24GT(-S) | 商用 24口 PoE 标杆/首梯 | **STC-424XGGPM-440W**（$220）；预算紧用 **-280W**（$165） | 同上 bt 缺口 |",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17612,7 +17612,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L98",
-    "text": "| LT-S8328G-4XS24GT-S | 商用 24口 非PoE | **STC-424DGGM**（$110） | — |",
+    "text": "| LT-S8328G-4XS24GT-S | 商用 24口 非PoE | **STC-424XGGM**（$110） | — |",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17720,7 +17720,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L123",
-    "text": "1. **CCTV 梯**：L2 精简工业系（STI-288GPM $88）= 官方自认「适合低管理要求 CCTV 项目」→ 低端 CCTV 更便宜；要 PoE 管理/watchdog 上 L2+ STI-288DGGPM（$137.5）或商用 STC-424DGGPM-280W（$165）。",
+    "text": "1. **CCTV 梯**：L2 精简工业系（STI-288GPM $88）= 官方自认「适合低管理要求 CCTV 项目」→ 低端 CCTV 更便宜；要 PoE 管理/watchdog 上 L2+ STI-288DGGPM（$137.5）或商用 STC-424XGGPM-280W（$165）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {
@@ -17732,7 +17732,7 @@
   {
     "path": "Saga产品目录与SmartByte替换对照_2026-09-28.md",
     "locator": "L125",
-    "text": "3. **价格锚**：24口 PoE 商用 $165–264 EXW，比旧 SmartByte 话术里的「同价带亚洲厂」更有落点；工业 3 年保是硬卖点（商用 1 年）。",
+    "text": "3. **价格锚**：24口 PoE 商用 $180–264 EXW，比旧 SmartByte 话术里的「同价带亚洲厂」更有落点；工业 3 年保是硬卖点（商用 1 年）。",
     "status": "同一行缺显式URL；可能在上下文/原始附件有来源，未逐项语义核验"
   },
   {

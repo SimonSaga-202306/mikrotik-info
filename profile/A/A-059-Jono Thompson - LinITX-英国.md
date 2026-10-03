@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: true, oem: true, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长、PoE/监控/门禁），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -87,11 +87,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 PoE++（第三波价格段试销）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他店里 Ubiquiti UniFi PoE 与 MikroTik CRS 两头，中间有第三档——24 口 PoE++ 做商业/监控按价的“第三品牌位”。
 - **要问的问题**：24 口 PoE++ 这个第三品牌位你们店里缺不缺？
 - **随附证明**：英文规格对照页 + 进价/贸易账户模拟表。
@@ -177,7 +177,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | LinITX 双 Master 分销+培训中心：货架纯值 PoE 错价位补位+教具箱二轨（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -239,7 +239,7 @@ Hi Jono,
 
 LinITX covers almost every shelf - Ubiquiti, MikroTik, Alta, Aginet, Teltonika EV, and a UK MikroTik training center on top.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, ERPS) at a pure value price point that sits next to - not on top of - the lines you already carry. Reference: $180 USD EXW.
 
 One question: is there an open value slot for a PoE-focused 24-port switch on your shelf?
 
@@ -275,4 +275,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Jono Thompson · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Jono%20Thompson)(搜索链接,点入后核职位再加;来源:档案正文提取)
 - **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

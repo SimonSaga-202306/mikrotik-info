@@ -73,7 +73,7 @@
 - 「Продаж мережевого обладнання ZTE, Mikrotik, Totolink, Extralight, Netis, TPLINK, D-link (PON, ONU)…інтернет-магазин для інтернет провайдерів」 — https://gazik.ua/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 店+ISP 双血统:自营网络部署副位+店铺 value PoE 档
+- 参考 P1: `STC-424XGGPM-280W` — 店+ISP 双血统:自营网络部署副位+店铺 value PoE 档
 - 第一问: 你们自营 ISP 上对客部署(AP/监控）里,PoE 接入现供哪家？
 - 标签: 乌克兰|利沃夫|店网血统|ISP自营
 
@@ -83,7 +83,7 @@ Hi Gazik team,
 
 A store chain on one side, a running ISP on the other, and the rule "we only sell what our own specialists run on our own network" - that is a rare level of honesty for a reseller.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - the kind of value PoE line you could bench-test on your own ISP before listing it in store.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $180 USD EXW (2026-09-29) - the kind of value PoE line you could bench-test on your own ISP before listing it in store.
 
 One question: for the AP/surveillance deployments on your ISP side, which PoE access switch do you run today - and would a documented bench-trial unit earn a look?
 

@@ -31,11 +31,11 @@
     "O": "STC-424 入 value PoE 档集团谱补位",
     "T": "乌克兰运营+集团远程同位层次"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口",
    "question": "ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？",
    "tag": "乌克兰|基辅|ELKO集团|波罗的海VAD集团",
-   "email": "Hi ELKO Ukraine team,\n\nELKO Group with 400 vendors and 10k partners across 10 European countries, and a Kyiv operation that still pushes MikroTik news out weekly - your IT-infrastructure catalog is one of the most attentive in the region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.\n\nOne question: below the Aruba-class shelf, which PoE access switch is carrying the value tier in your network-equipment lines today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi ELKO Ukraine team,\n\nELKO Group with 400 vendors and 10k partners across 10 European countries, and a Kyiv operation that still pushes MikroTik news out weekly - your IT-infrastructure catalog is one of the most attentive in the region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.\n\nOne question: below the Aruba-class shelf, which PoE access switch is carrying the value tier in your network-equipment lines today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 ELKO 谱空位对照单页（TP-Link/Keenetic vs STC-424)",
     "D+14 具名 MikroTik 项目经理引见请求",
@@ -109,11 +109,11 @@
     "O": "PoE 独立档 OEM 辅线",
     "T": "供应商排他边线"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位",
    "question": "你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？",
    "tag": "乌克兰|基辅|MTI|MikroTik主分销|Tier1",
-   "email": "Hi MTI team,\n\nMikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.\n\nWe are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.\n\nOne question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi MTI team,\n\nMikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.\n\nWe are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.\n\nOne question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 OEM 侧辅位方案页",
     "D+14 具名 Serhiy Yakovlev 引见请求",
@@ -187,11 +187,11 @@
     "O": "STC-424 ISP 副段位",
     "T": "店铺行情风,价动能高"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "店+ISP 双血统:自营网络部署副位+店铺 value PoE 档",
    "question": "你们自营 ISP 上对客部署(AP/监控）里,PoE 接入现供哪家？",
    "tag": "乌克兰|利沃夫|店网血统|ISP自营",
-   "email": "Hi Gazik team,\n\nA store chain on one side, a running ISP on the other, and the rule \"we only sell what our own specialists run on our own network\" - that is a rare level of honesty for a reseller.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - the kind of value PoE line you could bench-test on your own ISP before listing it in store.\n\nOne question: for the AP/surveillance deployments on your ISP side, which PoE access switch do you run today - and would a documented bench-trial unit earn a look?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Gazik team,\n\nA store chain on one side, a running ISP on the other, and the rule \"we only sell what our own specialists run on our own network\" - that is a rare level of honesty for a reseller.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $180 USD EXW (2026-09-29) - the kind of value PoE line you could bench-test on your own ISP before listing it in store.\n\nOne question: for the AP/surveillance deployments on your ISP side, which PoE access switch do you run today - and would a documented bench-trial unit earn a look?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 ISP 副段位方案页",
     "D+14 样机提议",
@@ -226,11 +226,11 @@
     "O": "自牌之外的 OEM 辅线",
     "T": "自排牌竞争太强"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位",
    "question": "你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？",
    "tag": "乌克兰|基辅|OmniLink|自牌OmniLite|服务运营商VAD",
-   "email": "Hi OmniLink team,\n\nService-provider-only DNA, a Juniper/Arista/Extreme shelf, plus your own OmniLite and OmniOptic house brands - you already sit at the Tier 1 layer most PoE vendors can only dream of.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $165 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.\n\nOne question: under the OmniLite roof, is PoE access the next own-brand category on your roadmap - and would a documented OEM unit earn a bench test against your current sourcing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi OmniLink team,\n\nService-provider-only DNA, a Juniper/Arista/Extreme shelf, plus your own OmniLite and OmniOptic house brands - you already sit at the Tier 1 layer most PoE vendors can only dream of.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $180 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.\n\nOne question: under the OmniLite roof, is PoE access the next own-brand category on your roadmap - and would a documented OEM unit earn a bench test against your current sourcing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 OmniLite 贴牌样张",
     "D+14 OEM 发远条件单页",
@@ -265,11 +265,11 @@
     "O": "Interpipe 类工业项目 BOM 随单位",
     "T": "SI 品牌缘导"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "老牌 SI 的工业项目 BOM 随单补位:楼价档第二供位",
    "question": "你们的工业项目（Interpipe 类）PoE 接入在 BOM 里落定主要在哪个级别？第二供位考虑吗？",
    "tag": "乌克兰|老牌SI|Intel Platinum|工业项目",
-   "email": "Hi RIM2000 team,\n\nFifteen years of Intel Technology Provider Platinum plus real industrial references like Interpipe Novomoskovsky - that's system-integrator grade, not box shifting.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed to land inside project BOMs as the documented second source for PoE access.\n\nOne question: in your industrial project BOMs, which PoE access switch level are you anchoring today - and is a documented second source something your procurement would take a look at?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi RIM2000 team,\n\nFifteen years of Intel Technology Provider Platinum plus real industrial references like Interpipe Novomoskovsky - that's system-integrator grade, not box shifting.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed to land inside project BOMs as the documented second source for PoE access.\n\nOne question: in your industrial project BOMs, which PoE access switch level are you anchoring today - and is a documented second source something your procurement would take a look at?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 项目 BOM 随单方案页",
     "D+14 样机提议",
@@ -304,11 +304,11 @@
     "O": "三站 value 随单",
     "T": "运营商压谱导价惨"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "电信/多形态项目分销三站的 value PoE 档随单",
    "question": "你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？",
    "tag": "乌克兰|基辅|电信头端|三站|MTCSA",
-   "email": "Hi Romsat team,\n\nMulti-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.\n\nOne question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Romsat team,\n\nMulti-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.\n\nOne question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 跨三站随单方案页",
     "D+14 样机提议",
@@ -494,11 +494,11 @@
     "O": "政企 BOM 随单",
     "T": "政企项目对品牌谱守度"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）",
    "question": "你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？",
    "tag": "乌克兰|WinTik|政企集成|店+服双血",
-   "email": "Hi WinTik team,\n\nAccess control, structured cabling, video surveillance, and a government/corporate client roster - your integration business makes the PoE access layer one of the most BOM-critical parts of what you deliver.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.\n\nOne question: for the access-control and surveillance projects you deliver to corporate and government clients, which PoE access switch are you standardizing on today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi WinTik team,\n\nAccess control, structured cabling, video surveillance, and a government/corporate client roster - your integration business makes the PoE access layer one of the most BOM-critical parts of what you deliver.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $180 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.\n\nOne question: for the access-control and surveillance projects you deliver to corporate and government clients, which PoE access switch are you standardizing on today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 СКД/监控项目 BOM 随单方案页",
     "D+14 样机提议",

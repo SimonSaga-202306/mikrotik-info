@@ -74,7 +74,7 @@
 - 「As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers」 — https://www.zoominfo.com/c/nextron/433791882
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)
+- 参考 P1: `STC-424XGGPM-280W` — 北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)
 - 第一问: 你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?
 - 标签: 丹麦+北欧4站|定制服务器|Supermicro|Nvidia独家
 
@@ -84,7 +84,7 @@ Hi Nextron team,
 
 Custom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.
 
 One question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?
 

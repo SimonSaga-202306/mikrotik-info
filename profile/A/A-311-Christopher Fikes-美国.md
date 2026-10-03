@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），三星重点
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$165 锚点一致）；地方政府/K12 守界句；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -90,14 +90,14 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 声明边界+商业段接入层评估位
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：简短一封：只做商业 SMB/Enterprise 段的接入层高性价比选型（您的 function-not-vendors 理念对味；公立段不经由我们）。
 - **要问的问题**：您商业客户的接入层选型里有评估新硬件的流程吗？
 - **随附证明**：一页规格（英）+ TCO 对照示例。
 
 ### 第 2 次跟进 · DC 咨询场景 DAC/SFP+万兆件
 
-- **推什么**：STC-424XGGPM-440W（Saga） + DAC/SFP（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga） + DAC/SFP（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：其数据中心咨询（ToR/VXLAN）场景的万兆件与互连配件。
 - **要问的问题**：DC/汇聚场景需要高性价比万兆件吗？
 - **随附证明**：万兆件一页+配件价卡。
@@ -144,7 +144,7 @@ updated: 2026-09-28
 - **①背景再核**：US TX MikroTik 顾问双身份（官网+CSV 双核）
 - **②芯片/型号**：MikroTik 生态
 - **③KP 深挖**：sales@
-- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
 - **⑤在乎与偏好**：function-first 中立/降本
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -170,9 +170,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$165 锚点一致）；地方政府/K12 守界句 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -231,7 +231,7 @@ Hi Christopher,
 
 'It's about function, not vendors' - and a consulting page literally named /mikrotik-consulting. Two honest notes before anything else: we build PoE switches, so your RouterOS world stays untouched, and your public-sector engagements (city, police, K12) stay on their established paths.
 
-Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a comparison candidate for the access-switching layer of private-sector designs.
+Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a comparison candidate for the access-switching layer of private-sector designs.
 
 One question: when your functional comparisons shortlist access switches, what does a documented value candidate have to show to be considered?
 
@@ -265,4 +265,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Christopher Fikes · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Christopher%20Fikes)(搜索链接,点入后核职位再加;来源:联络核验)
 - **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -73,7 +73,7 @@
 - 「Phenix Partner…linknet…NETCOM GROUP，Président actuellement une PERSONNE MORALE, FRANCE NUMERIQUE」 — https://www.manageo.fr/entreprises/453006314.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — FRANCE NUMERIQUE 集团自牌之外的 value PoE 第 4 线入端
+- 参考 P1: `STC-424XGGPM-280W` — FRANCE NUMERIQUE 集团自牌之外的 value PoE 第 4 线入端
 - 第一问: Phenix Partner/linknet 之外,你们 PoE 接层现供哪家？客资加入第 4 线可谈？
 - 标签: 法国|Pantin|NEXERA|FRANCENUMERIQUE集团
 
@@ -83,7 +83,7 @@ Hi NETCOM team,
 
 Phenix Partner, linknet, NETCOM GROUP - a three-brand house already nested under the FRANCE NUMERIQUE umbrella. You know exactly what it takes to launch and sustain an own-brand networking line.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to own-label partner programs. Reference: $165 USD EXW (2026-09-29) - offered either as an outside label fourth line or as OEM stock for your own brand umbrella.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to own-label partner programs. Reference: $180 USD EXW (2026-09-29) - offered either as an outside label fourth line or as OEM stock for your own brand umbrella.
 
 One question: is the PoE access tier something you prefer to source as a fourth external label inside NETCOM GROUP, or would your umbrella prefer an OEM run under one of your existing brand names?
 

@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: false, voice: false, oem: true, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Sekuritim 自述 **MikroTik Türkiye Master Distributor + MikroTik Certified Training Center**（2015 起），开设 MTCNA/MTCRE/MTCINE/MTCUME/MTCTCE/MTCWE/MTCIPv6E 全系课程，有独立网店 shop.sekuritim.com 与 24/7 认证支持；原 B-099 升级，编号顺延 A-464
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Sekuritim 土 MikroTik MasterD+培训中心双徽标（ISP/公客墙注）：ISP 报价场景对照低密窄针（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Sekuritim 土 MikroTik MasterD+培训中心双徽标（ISP/公客墙注）：ISP 报价场景对照低密窄针（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -85,11 +85,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：对照低密窄针
 - **要问的问题**：报价单一行值得吗？
 - **随附/动作**：规格页
@@ -116,7 +116,7 @@ updated: 2026-09-28
 - **①背景再核**：https://sekuritim.com|Master Distributor+Training Center 双徽标+客户墙
 - **②芯片/型号**：MikroTik 官方
 - **③KP 深挖**：2015 起
-- **④Saga 对标**：STC-424 低密窄针（$165 锚点一致）
+- **④Saga 对标**：STC-424 低密窄针（$180 锚点一致）
 - **⑤在乎与偏好**：认证纪律
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -142,7 +142,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Sekuritim 土 MikroTik MasterD+培训中心双徽标（ISP/公客墙注）：ISP 报价场景对照低密窄针（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Sekuritim 土 MikroTik MasterD+培训中心双徽标（ISP/公客墙注）：ISP 报价场景对照低密窄针（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -202,7 +202,7 @@ Hi Sekuritim team,
 
 MikroTik Master Distributor, certified training center since 2015, 24/7 support desk - you are the reference point. So one honest corner from the edge: budgets that fail even your entry shelf still walk past
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: pure corner question: would a documented value PoE switch earn a line in your project quotes for budget-limited jobs?
 
@@ -236,4 +236,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Tik Certified Training · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Tik%20Certified%20Training%20Sekuritim%20Bilisim)(搜索链接,点入后核职位再加;来源:档案正文提取)
 - **中国进口与管制**:国别档位 中(摇摆;BTK 注册+政府偏好);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

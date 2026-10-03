@@ -72,7 +72,7 @@
 - 「carry an actual inventory…Cisco, HPE Aruba, Juniper, Fortinet, MikroTik, SonicWall」 — https://connectamericas.com/company/vodanet-systems
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — Cisco/Aruba 镇楼下的 value PoE 档第二线：$165 层正口
+- 参考 P1: `STC-424XGGPM-280W` — Cisco/Aruba 镇楼下的 value PoE 档第二线：$180 层正口
 - 第一问: 你们 24 口 PoE 段的 value 线现走哪个 SKU？STC-424 这个档有位置吗？
 - 标签: 美国|新泽西|现货仓大盘|50人
 
@@ -82,7 +82,7 @@ Hi Vodanet team,
 
 A New Jersey warehouse with live inventory across Cisco / Aruba / Juniper / Fortinet / MikroTik / Teltonika - that's a real hemispheric stock position, not a bag shop.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.
 
 One question: below the Cisco/Aruba shelf, which PoE access SKU is holding the value line in your warehouse today - and is there room for a documented second source?
 

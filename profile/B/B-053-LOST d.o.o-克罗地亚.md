@@ -73,7 +73,7 @@
 - 「WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila」 — https://x.com/lostdoo
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 老牌 IT 批发的商用 PoE 管理档
+- 参考 P1: `STC-424XGGPM-280W` — 老牌 IT 批发的商用 PoE 管理档
 - 第一问: 你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?
 - 标签: 克罗地亚|Zagreb|25年老牌批发|EV桩谱
 
@@ -83,7 +83,7 @@ Hi LOST team,
 
 Twenty-five years of IT wholesale across Croatia, and bold enough to add EV charging stations to the line card - you clearly earn margin from categories others ignore. PoE switching is one of those understated, high-rotation lines.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.
 
 One question: in your networking line-up, which 24-port PoE managed switch holds the value slot today?
 

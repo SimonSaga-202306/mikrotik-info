@@ -15,11 +15,11 @@
    ],
    "unknowns": ["networking 品类采购负责人(类目 BU)", "AB Group 集团层 value 品牌策略(自牌或三方)"],
    "swot": {"S": "€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场", "W": "巨物决策链长", "O": "集团架 value PoE stocking SKU", "T": "集团集采门槛"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)",
    "question": "你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?",
    "tag": "捷克|俄斯特拉发|AB Group系|€1B级|自有PC牌",
-   "email": "Hi AT Computers team,\n\nThe largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.\n\nOne question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi AT Computers team,\n\nThe largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.\n\nOne question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 集团架上 value 档提案", "D+14 obchod@atcomp.cz 开口", "D+30 果归守档"]
   },
   {
@@ -33,11 +33,11 @@
    ],
    "unknowns": ["Hanwha 随单 PoE 现供品牌与价位", "Brack.Alltron 新品牌入架门槛"],
    "swot": {"S": "瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训", "W": "Cisco/大牌绑定深", "O": "监控随单 value PoE 档(+教具影子)", "T": "Broadliner 谱内挤"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)",
    "question": "你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?",
    "tag": "瑞士|Mägenwil|BrackAlltron集团|Hanwha监控谱|20万SKU",
-   "email": "Hi Alltron team,\n\nTwo hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.\n\nOne question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Alltron team,\n\nTwo hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.\n\nOne question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 Hanwha 随单对照页", "D+14 mail@alltron.ch 开口", "D+30 果归守档"]
   },
   {
@@ -51,11 +51,11 @@
    ],
    "unknowns": ["光伏安装商谱里网络件随单频度", "Cudy/Alta 价位带与我司对位"],
    "swot": {"S": "光伏+弱电双驱+Master 名录", "W": "中价牌已在架(Cudy/Alta)", "O": "安装商随单 24 口管理型位", "T": "Cudy 低价惯性"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)",
    "question": "你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?",
    "tag": "捷克|比尔森|光伏+弱电双驱|Master",
-   "email": "Hi AxiLogi team,\n\nPhotovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.\n\nOne question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi AxiLogi team,\n\nPhotovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.\n\nOne question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 Cudy/Alta 对位页", "D+14 sales@axilogi.cz 开口", "D+30 果归守档"],
    "note": "二线注记:Rozvaděče(配电柜)类目在谱,STC-424 开口顺后可续 STI-288GP DIN 轨工业线。"
   },
@@ -70,11 +70,11 @@
    ],
    "unknowns": ["networking 品类 value 品牌谱", "波兰(Krakow)谱与捷克谱的采购关系"],
    "swot": {"S": "三国九点+CZECH TOP100", "W": "巨物决策层多", "O": "区域 value PoE 架位", "T": "大牌谱内挤"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)",
    "question": "你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?",
    "tag": "捷克|俄斯特拉发|三国九点|TOP100",
-   "email": "Hi eD system team,\n\nNine branches across Czechia, Slovakia and Poland, perennial CZECH TOP 100 member - when a product lands on your shelf, it reaches three countries at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.\n\nOne question: across your three-country shelf, which brand holds the value 24-port managed PoE tier today - and what does a new-vendor pilot look like?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi eD system team,\n\nNine branches across Czechia, Slovakia and Poland, perennial CZECH TOP 100 member - when a product lands on your shelf, it reaches three countries at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.\n\nOne question: across your three-country shelf, which brand holds the value 24-port managed PoE tier today - and what does a new-vendor pilot look like?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 三国架位提案", "D+14 info@edsystem.cz 开口", "D+30 果归守档"]
   },
   {
@@ -88,11 +88,11 @@
    ],
    "unknowns": ["PCV 与 i4wifi 股权/同族关系验证", "其无线安装客层 PoE 档现供"],
    "swot": {"S": "Master+VAD+疑 i4wifi WISP 谱", "W": "关联未证", "O": "WISP 客层 PoE 随单", "T": "非同族则价值减半"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位",
    "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)",
    "tag": "捷克|Č.Budějovice|Master|疑i4wifi同族",
-   "email": "Hi PCV team,\n\nMaster distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.\n\nOne question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?\n\n(Also: should we address this to the i4wifi family as well, or are you the right desk?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi PCV team,\n\nMaster distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.\n\nOne question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?\n\n(Also: should we address this to the i4wifi family as well, or are you the right desk?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 WISP 客层 PoE 页", "D+14 obchod@pcvcomp.cz 开口(附 i4wifi 关联确认)", "D+30 果归守档"]
   },
   {
@@ -106,11 +106,11 @@
    ],
    "unknowns": ["networking 专队 brand 谱与 value 档空位", "ELKO 集团层品牌准入(国别 or 集团)"],
    "swot": {"S": "ELKO 集团+1000 reseller+网络专队", "W": "TP-Link 等大牌绑定", "O": "value PoE 位+集团多国溢出", "T": "集团集采权重"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)",
    "question": "你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?",
    "tag": "斯洛伐克|布拉迪斯拉发|ELKO集团|1000reseller",
-   "email": "Hi WESTech networking team,\n\nA thousand active resellers through the ELKO Group network, and a dedicated networking squad with its own show - you are the desk where networking brands get placed in Slovakia and beyond.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.\n\nOne question: on your networking shelf, which brand holds the value 24-port managed PoE tier today - and does ELKO Group offer a group-level path for a new vendor?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi WESTech networking team,\n\nA thousand active resellers through the ELKO Group network, and a dedicated networking squad with its own show - you are the desk where networking brands get placed in Slovakia and beyond.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.\n\nOne question: on your networking shelf, which brand holds the value 24-port managed PoE tier today - and does ELKO Group offer a group-level path for a new vendor?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 ELKO 集团谱页", "D+14 networking@westech.sk 开口", "D+30 果归守档"]
   },
   {
@@ -177,11 +177,11 @@
    ],
    "unknowns": ["架上网络谱与 PoE 档", "客户谱(店商/集成商占比)"],
    "swot": {"S": "Master+VAD+具名", "W": "公开谱薄", "O": "value PoE 档", "T": "谱重叠"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)",
    "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
    "tag": "匈牙利|布达佩斯|Master|具名",
-   "email": "Hi Zoltán,\n\nA MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Zoltán,\n\nA MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 value 档页", "D+14 rakos.zoltan@compmarket.hu 具名", "D+30 果归守档"]
   },
   {
@@ -194,11 +194,11 @@
    ],
    "unknowns": ["架上网络谱与量级", "Zrt 治理下采购决策层"],
    "swot": {"S": "Master+VAD+老牌域", "W": "谱未摸", "O": "value PoE 档", "T": "同城双 Master 内卷"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)",
    "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
    "tag": "匈牙利|布达佩斯|Master+VAD|老牌",
-   "email": "Hi Expert team,\n\nA MikroTik Master VAD in Budapest - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Expert team,\n\nA MikroTik Master VAD in Budapest - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 value 档页", "D+14 network@expert.hu 开口", "D+30 果归守档"],
    "note": "**同城双 Master 注记**:与 B-081 Compmarket 同为布达佩斯 Master;触达先 B-081(具名人在档),其回应作本家话术参照。"
   },
@@ -212,11 +212,11 @@
    ],
    "unknowns": ["架上谱与服务/分销占比", "客户端(奥地利 SME/政企?)"],
    "swot": {"S": "Master+VAD+维也纳", "W": "服务血统,谱未摸", "O": "value PoE 档", "T": "服务主导时分销谱弱"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "维也纳 Master 的 value PoE 架位试探",
    "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
    "tag": "奥地利|维也纳|Master+VAD|服务血统",
-   "email": "Hi NETZWARE team,\n\nA MikroTik Master VAD in Vienna with a service-heavy DNA - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi NETZWARE team,\n\nA MikroTik Master VAD in Vienna with a service-heavy DNA - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 value 档页", "D+14 office@netzware.at 开口", "D+30 果归守档"]
   },
   {

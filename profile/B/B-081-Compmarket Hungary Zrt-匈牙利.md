@@ -72,7 +72,7 @@
 - 「CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees」 — https://www.crunchbase.com/organization/compmarket-hungary
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)
+- 参考 P1: `STC-424XGGPM-280W` — 布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)
 - 第一问: 你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
 - 标签: 匈牙利|布达佩斯|Master|具名
 
@@ -82,7 +82,7 @@ Hi Zoltán,
 
 A MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
 
 If not a fit, one line and I close the loop.
 

@@ -12,7 +12,7 @@
    "tech": "—",
    "hr": "—",
    "contact_found": "无可确认邮箱",
-   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424XGGPM-280W 候选供位",
    "dims": {
     "业务定位": "美国 Netonix 授权渠道（存档）",
     "产品线与在售品牌": "—",
@@ -35,7 +35,7 @@
    "followups": [
     {
      "stage": "【仅供位·触发装】",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "候选供位（待邮箱启用）",
      "question": "（用户报邮箱后再发）",
      "proof": "规格页"
@@ -60,7 +60,7 @@
      "①背景再核": "CSV/注册表存档（Netonix 授权渠道名录）；网站与邮箱双空——先建档",
      "②芯片/型号": "—",
      "③KP 深挖": "—",
-     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "④Saga 对标": "候选供位（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
     },
@@ -84,7 +84,7 @@
     "邮箱",
     "在营状态"
    ],
-   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。",
    "question": "（待用户补邮箱）",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -124,7 +124,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "电信/安防板块的 value 二轨替补（Allied/Belden/Hirschmann 旁前句框定）",
      "question": "IP 板块有价值替补槽吗？",
      "proof": "规格页+目录页"
@@ -149,7 +149,7 @@
      "①背景再核": "ES 大分销（官网一手核）",
      "②芯片/型号": "Allied/Belden/Hirschmann 墙",
      "③KP 深挖": "info@",
-     "④Saga 对标": "二轨窄位（$165 锚点一致）",
+     "④Saga 对标": "二轨窄位（$180 锚点一致）",
      "⑤在乎与偏好": "一线牌组合/工程支持",
      "⑥SWOT": "S 双板块对口 / W 主权 / O 二轨 / T 大牌"
     },
@@ -173,7 +173,7 @@
     "替补机制",
     "板块 PM"
    ],
-   "email": "Hola Berdin team,\n\nSix technology areas - and under Telecomunicaciones and Seguridad you design and distribute converged IP solutions, with Allied Telesis, Belden, Hirschmann and Comnet on the brand wall. One sentence up front: those lines keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value second track for IP projects where price closes the deal.\n\nOne question: does the telecom/security board keep a value tier - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hola Berdin team,\n\nSix technology areas - and under Telecomunicaciones and Seguridad you design and distribute converged IP solutions, with Allied Telesis, Belden, Hirschmann and Comnet on the brand wall. One sentence up front: those lines keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second track for IP projects where price closes the deal.\n\nOne question: does the telecom/security board keep a value tier - and would you evaluate one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does the telecom/security board keep a value switching tier?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -213,7 +213,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 园区正口",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "园区 WiFi 扩/代的 value PoE 随单（创始人顾问身份诚实角）",
      "question": "园区 AP 背后的交换件现供？",
      "proof": "规格页"
@@ -238,7 +238,7 @@
      "①背景再核": "UK 园区宽带商（官网+CSV 双核）",
      "②芯片/型号": "MikroTik 栈 推断",
      "③KP 深挖": "hello@（Jake）",
-     "④Saga 对标": "随单正口（$165 锚点一致）",
+     "④Saga 对标": "随单正口（$180 锚点一致）",
      "⑤在乎与偏好": "客服口碑/园区整案",
      "⑥SWOT": "S 场景对口 / W 小体量 / O 扩容 / T —"
     },
@@ -262,7 +262,7 @@
     "现供",
     "园区数"
    ],
-   "email": "Hi Jake, hi Jellyfish team,\n\nBroadband for holiday homes and whole holiday parks, support-driven. Park-wide WiFi means access points everywhere - and every AP cluster ends in a PoE switch. (Your MikroTik consulting credentials are noted and respected, so this is about the access switching layer only.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit for park deployments and refresh cycles.\n\nOne question: what runs the PoE switching behind your park APs today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Jake, hi Jellyfish team,\n\nBroadband for holiday homes and whole holiday parks, support-driven. Park-wide WiFi means access points everywhere - and every AP cluster ends in a PoE switch. (Your MikroTik consulting credentials are noted and respected, so this is about the access switching layer only.)\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for park deployments and refresh cycles.\n\nOne question: what runs the PoE switching behind your park APs today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "What runs the PoE switching behind your park APs today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -327,7 +327,7 @@
      "①背景再核": "CSV/注册表存档（MikroTik 认证顾问名录）；网站与邮箱双空——先建档",
      "②芯片/型号": "—",
      "③KP 深挖": "—",
-     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "④Saga 对标": "候选供位（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
     },
@@ -391,7 +391,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "私营商业项目（乐园/零售）网络建设的 value 随单（公共段守界前句）",
      "question": "私营项目交换件现供品牌？",
      "proof": "规格页"
@@ -416,7 +416,7 @@
      "①背景再核": "NL 安装集团（官网一手核）",
      "②芯片/型号": "—",
      "③KP 深挖": "info@",
-     "④Saga 对标": "私营随单窄位（$165 锚点一致）",
+     "④Saga 对标": "私营随单窄位（$180 锚点一致）",
      "⑤在乎与偏好": "安全/完工交付",
      "⑥SWOT": "S 集团通道 / W 公共占比 / O 私营段 / T 大牌"
     },
@@ -440,7 +440,7 @@
     "现供",
     "占比"
    ],
-   "email": "Hi DAEL team,\n\nTwenty-five years of Dutch technical installation - and a Telecom division that builds and maintains networks for serious names. One boundary sentence: anything in the justice or municipal space stays on your established paths; this concerns the commercial side only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for commercial network builds and refreshes where a documented value unit protects the project margin.\n\nOne question: in commercial projects, which switching lines do you specify today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi DAEL team,\n\nTwenty-five years of Dutch technical installation - and a Telecom division that builds and maintains networks for serious names. One boundary sentence: anything in the justice or municipal space stays on your established paths; this concerns the commercial side only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for commercial network builds and refreshes where a documented value unit protects the project margin.\n\nOne question: in commercial projects, which switching lines do you specify today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In commercial projects, which switching lines do you specify today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -480,7 +480,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 类目窄位",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "Switches 类目里中段品牌旁的 value 位（前句框定）",
      "question": "Switches 类目加一条 value PoE？",
      "proof": "规格页+上架页"
@@ -505,7 +505,7 @@
      "①背景再核": "NL ICT 分销（官网一手核）",
      "②芯片/型号": "Ubiquiti/Omada/MikroTik",
      "③KP 深挖": "info@",
-     "④Saga 对标": "类目窄位（$165 锚点一致）",
+     "④Saga 对标": "类目窄位（$180 锚点一致）",
      "⑤在乎与偏好": "次日达/支持口碑",
      "⑥SWOT": "S 类目+物流 / W 牌在墙 / O 二轨 / T 大厂"
     },
@@ -529,7 +529,7 @@
     "替补机制",
     "类目权"
    ],
-   "email": "Hi SDC team,\n\nThirty-plus years as a Dutch ICT distributor - next-day delivery, a 24/7 desk, and a Switches category already carrying Ubiquiti, Omada and MikroTik. One sentence up front: those lines keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit your resellers can carry beside the mid-tier brands.\n\nOne question: who owns the Switches category, and is a value PoE slot open for a one-unit listing test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi SDC team,\n\nThirty-plus years as a Dutch ICT distributor - next-day delivery, a 24/7 desk, and a Switches category already carrying Ubiquiti, Omada and MikroTik. One sentence up front: those lines keep their place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit your resellers can carry beside the mid-tier brands.\n\nOne question: who owns the Switches category, and is a value PoE slot open for a one-unit listing test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is a value PoE slot open in your Switches category?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -569,7 +569,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 随身窄位",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "SMB<50 工位项目里 ZyXEL 旁的 value 件（诚实角）",
      "question": "SMB 客户现场交换件现供？",
      "proof": "规格页"
@@ -594,7 +594,7 @@
      "①背景再核": "NL SMB MSP（官网一手核）",
      "②芯片/型号": "ZyXEL 线",
      "③KP 深挖": "info@",
-     "④Saga 对标": "随身窄位（$165 锚点一致）",
+     "④Saga 对标": "随身窄位（$180 锚点一致）",
      "⑤在乎与偏好": "Gewoon Nederlands 透明价",
      "⑥SWOT": "S 对口 / W 小 / O 随身 / T 大牌"
     },
@@ -618,7 +618,7 @@
     "现供",
     "Rene 角色"
    ],
-   "email": "Hi Gewoon IT team,\n\n'ICT for companies with up to 50 workplaces' and 'Gewoon Nederlands' pricing transparency - under Server en netwerk you manage real LANs, with ZyXEL among your supplier logos.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a documented value unit for small-site networks where the quote has to stay honest.\n\nOne question: when an SMB client needs a new switch, what do you supply today - and would a value PoE unit earn a spot beside it?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Gewoon IT team,\n\n'ICT for companies with up to 50 workplaces' and 'Gewoon Nederlands' pricing transparency - under Server en netwerk you manage real LANs, with ZyXEL among your supplier logos.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a documented value unit for small-site networks where the quote has to stay honest.\n\nOne question: when an SMB client needs a new switch, what do you supply today - and would a value PoE unit earn a spot beside it?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "When an SMB client needs a new switch, what do you supply today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -683,7 +683,7 @@
      "①背景再核": "CZ TR0001（官网一手核）",
      "②芯片/型号": "MikroTik 生态",
      "③KP 深挖": "klima@",
-     "④Saga 对标": "对照双角（$165 锚点一致，教具角）",
+     "④Saga 对标": "对照双角（$180 锚点一致，教具角）",
      "⑤在乎与偏好": "社群声望/长历史",
      "⑥SWOT": "S 传奇身份 / W 阵营深 / O 教具+装备 / T 边界"
     },
@@ -707,7 +707,7 @@
     "对照接受",
     "装备场景"
    ],
-   "email": "Dobrý den Kryštofe,\n\nTR0001 - the very first certified MikroTik trainer certificate, and MikroISP in its 19th year. Your classroom educated a generation of ISPs, so I write with respect and full honesty: we build PoE switches, and I am not here to move your bench anywhere.\n\nWhere we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a comparison unit for switching lessons - and, quietly, for the installation crews you train or field, including an 8-port industrial line.\n\nOne question: does your training or field work ever use third-party comparison gear, or is the MikroTik-only approach the point?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Dobrý den Kryštofe,\n\nTR0001 - the very first certified MikroTik trainer certificate, and MikroISP in its 19th year. Your classroom educated a generation of ISPs, so I write with respect and full honesty: we build PoE switches, and I am not here to move your bench anywhere.\n\nWhere we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a comparison unit for switching lessons - and, quietly, for the installation crews you train or field, including an 8-port industrial line.\n\nOne question: does your training or field work ever use third-party comparison gear, or is the MikroTik-only approach the point?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does your training or field work use third-party comparison gear?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -772,7 +772,7 @@
      "①背景再核": "CSV/注册表存档（MikroTik 认证顾问名录）；网站与邮箱双空——先建档",
      "②芯片/型号": "—",
      "③KP 深挖": "—",
-     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "④Saga 对标": "候选供位（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
     },
@@ -861,7 +861,7 @@
      "①背景再核": "CSV/注册表存档（MikroTik 认证顾问名录）；网站与邮箱双空——先建档",
      "②芯片/型号": "—",
      "③KP 深挖": "—",
-     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "④Saga 对标": "候选供位（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
     },

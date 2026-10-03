@@ -92,7 +92,7 @@
    ],
    "email": "Hi Laszlo,\n\nDigiSoftNet as an official MikroTik Training Center with a full course palette - including a NetBasic primer - shows you teach the whole road, not fragments.\n\nWe build a compact 8-port managed PoE switch that could serve as an honestly labeled second-vendor sample in your switching labs (STP/VLAN/watchdog). Reference: $99 USD EXW.\n\nOne question: which switch hardware do your students work on in the switching modules today?\n\nIf useful, I can send a bench unit - plainly labeled, no strings, no teacher-games. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which switch hardware do your students work on in the switching modules today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "匈牙利|官方培训中心|教具样本|师者红线",
    "batch": 20,
@@ -135,7 +135,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 电子线一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "其监控柜 24 口 PoE value 档",
      "question": "单项目摄像点位？",
      "proof": "PoE 预算页"
@@ -185,7 +185,7 @@
     "项目点密度",
     "采购结构"
    ],
-   "email": "Hi Titan team,\n\nA merged national security group with an electronics line means one thing operationally - a lot of camera closets that have to power up and stay up.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, Voice VLAN) as a value-tier complement for the Titan Electronics shelf. Reference: $165 USD EXW.\n\nOne question: in a typical commercial building build, how many cameras land on one access cabinet for your team?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Titan team,\n\nA merged national security group with an electronics line means one thing operationally - a lot of camera closets that have to power up and stay up.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, Voice VLAN) as a value-tier complement for the Titan Electronics shelf. Reference: $180 USD EXW.\n\nOne question: in a typical commercial building build, how many cameras land on one access cabinet for your team?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical commercial building build, how many cameras land on one access cabinet?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -230,7 +230,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 场馆一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "其场地高密摄像柜",
      "question": "场馆单柜点位密度？",
      "proof": "PoE 预算页"
@@ -280,7 +280,7 @@
     "交换现供",
     "评测窗"
    ],
-   "email": "Hi Watkins team,\n\nFrom the US Open to Vail resorts - venues of that density tell camera-closet stories most integrators never see.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, Voice VLAN) for exactly those closets, at a value price point. Reference: $165 USD EXW. (To be explicit: we work strictly in the private commercial segment and do not pitch into federal engagements.)\n\nOne question: at a venue-scale deployment, how many cameras land on one access switch for you?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Watkins team,\n\nFrom the US Open to Vail resorts - venues of that density tell camera-closet stories most integrators never see.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, Voice VLAN) for exactly those closets, at a value price point. Reference: $180 USD EXW. (To be explicit: we work strictly in the private commercial segment and do not pitch into federal engagements.)\n\nOne question: at a venue-scale deployment, how many cameras land on one access switch for you?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "At a venue-scale deployment, how many cameras land on one access switch for you?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -377,7 +377,7 @@
    "email": "（不出信——Round-28 Netonix-out 纪律。动作：建档观察+电话核验经营状态；用户明示后重排商务计划。）",
    "question": "—",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "丹麦|Netonix渠道|纪律建档不推",
    "batch": 20,
    "date": "2026-09-28"
@@ -471,7 +471,7 @@
    "email": "（不出信——Round-28 Netonix-out 纪律。域邮件通道在但无公开入口；动作：建档观察。）",
    "question": "—",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国|Netonix渠道|纪律建档不推",
    "batch": 20,
    "date": "2026-09-28"
@@ -564,7 +564,7 @@
    ],
    "email": "（不出信——Round-28 Netonix-out 纪律。备注：若放开，WAV 作为 1 万客户的 WISP 大分销，其 value PoE 档位空缺值得以集团名义进函。）",
    "question": "—",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "美国|Netonix渠道|并入WAV信号|纪律建档",
    "batch": 20,
@@ -614,7 +614,7 @@
     },
     {
      "stage": "第 2 次跟进 · MDU 户型",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "多户型楼内接入柜",
      "question": "MDU 部署接入位？",
      "proof": "规格页"
@@ -659,7 +659,7 @@
    ],
    "email": "Hi Benjamin,\n\nInternetTY runs a purpose-built full-fibre network with a Trustpilot record most ISPs would kill for - and your name shows up as the network brains right where the street cabinets live.\n\nWe build a compact 8-port managed PoE switch with a hardware watchdog, sized exactly for POP and street-cabinet access. Reference: $99 USD EXW.\n\nOne question: what switch hardware sits in your POP cabinets today?\n\nIf useful, I can send one evaluation unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "What switch hardware sits in your POP cabinets today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "英国|AltNet|POP小盒|高口碑",
    "batch": 20,
@@ -755,7 +755,7 @@
    "email": "Hi Brian,\n\nI found you on the MikroTik consultant list.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since no public site could be found.\n\nOne question: are you currently taking projects where the switching layer is open for alternatives?\n\nIf yes, I can share the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Are you currently taking projects where the switching layer is open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国|MTCNA个人|LinkedIn破冰",
    "batch": 20,
    "date": "2026-09-28"
@@ -811,7 +811,7 @@
     },
     {
      "stage": "第 3 次跟进 · 样机",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "项目评测",
      "question": "愿评一台？",
      "proof": "条款"
@@ -847,7 +847,7 @@
     "接入层现供",
     "评测意愿"
    ],
-   "email": "Hi MSI team,\n\nI could not find a public email for MSI Works, so I keep this note short and plain.\n\nWe build managed PoE switches that fit exactly the access-layer work Allied Telesis lines serve (24-port, 280W PoE, Voice VLAN, watchdog). Reference: $165 USD EXW.\n\nOne question: in your network projects, is the switching layer ever open for a value-priced alternative?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi MSI team,\n\nI could not find a public email for MSI Works, so I keep this note short and plain.\n\nWe build managed PoE switches that fit exactly the access-layer work Allied Telesis lines serve (24-port, 280W PoE, Voice VLAN, watchdog). Reference: $180 USD EXW.\n\nOne question: in your network projects, is the switching layer ever open for a value-priced alternative?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your network projects, is the switching layer ever open for a value-priced alternative?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -897,7 +897,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 边界先行一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "私营项目 value PoE；明示不碰框架/国防",
      "question": "私营项目接入层现供？",
      "proof": "规格页"
@@ -947,7 +947,7 @@
     "交换现供",
     "评测窗"
    ],
-   "email": "Hi Networkology team,\n\n\"Engineering Excellence\" for highly regulated environments is a reputation you protect every day - respected.\n\nTo be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $165 USD EXW.\n\nOne question: in your private-sector builds, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Networkology team,\n\n\"Engineering Excellence\" for highly regulated environments is a reputation you protect every day - respected.\n\nTo be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $180 USD EXW.\n\nOne question: in your private-sector builds, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your private-sector builds, who supplies the PoE access layer today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",

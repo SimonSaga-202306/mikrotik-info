@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — BCL 俄亥俄女性持有 ICT 设计（WBE/WOSB/DBE）：指定单接入层 value 位（$165 锚点一致）；Christy Miller 具名；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — BCL 俄亥俄女性持有 ICT 设计（WBE/WOSB/DBE）：指定单接入层 value 位（$180 锚点一致）；Christy Miller 具名；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -81,11 +81,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（私立教育/医疗项目）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：设计方案库切入：24 口 PoE++ 规格书+CAD 资料进他的设计模板，私立教育/医疗商业段项目随图带出。
 - **要问的问题**：设计库里的接入层规格书要不要加一份备选？（限私立/商业项目）
 - **随附证明**：规格书+CAD 资料 + 单端口测算 + BAA 边界声明（英文）。
@@ -168,7 +168,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | BCL 俄亥俄女性持有 ICT 设计（WBE/WOSB/DBE）：指定单接入层 value 位（$165 锚点一致）；Christy Miller 具名 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | BCL 俄亥俄女性持有 ICT 设计（WBE/WOSB/DBE）：指定单接入层 value 位（$180 锚点一致）；Christy Miller 具名 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -226,7 +226,7 @@ Hi Christy / BCL team,
 
 A design practice whose team sits on standards committees - your specification sheets carry real authority with school districts and public owners.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with the complete test and compliance documentation your specifications demand. Reference: $165 USD EXW - a value line that helps districts stretch their NETWORK budgets.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with the complete test and compliance documentation your specifications demand. Reference: $180 USD EXW - a value line that helps districts stretch their NETWORK budgets.
 
 One question: on your ICT design specifications for schools and public facilities, which switch brands currently hold the access-layer slots?
 

@@ -12,7 +12,7 @@
    "tech": "—",
    "hr": "—",
    "contact_found": "无可确认可投递邮箱",
-   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424DGGPM-280W 候选供位",
+   "contact_pending": "**建档不出信（无邮箱）**；触发条件=用户补邮箱→STC-424XGGPM-280W 候选供位",
    "dims": {
     "业务定位": "3TEC",
     "产品线与在售品牌": "—",
@@ -35,7 +35,7 @@
    "followups": [
     {
      "stage": "【仅供位·触发装】",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "候选供位（待邮箱启用）",
      "question": "（用户报邮箱后再发）",
      "proof": "规格页"
@@ -60,7 +60,7 @@
      "①背景再核": "https://www.3tec.co.uk|官网一手：伙伴墙+2012 创立自述；CSV 9-23 leads-only 核验",
      "②芯片/型号": "—",
      "③KP 深挖": "—",
-     "④Saga 对标": "候选供位（$165 锚点一致）",
+     "④Saga 对标": "候选供位（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 候选位 / W 无点 / O 补邮箱 / T —"
     },
@@ -84,7 +84,7 @@
     "邮箱",
     "在营状态"
    ],
-   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。",
+   "email": "【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。",
    "question": "（待用户补邮箱）",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -124,7 +124,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 双句开口",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "私营行业段（酒店/零售/法律金融）的 value PoE 二槽（Allied 旁前句+航防守界句）",
      "question": "私营项目有价值替补槽吗？",
      "proof": "规格页+目录页"
@@ -149,7 +149,7 @@
      "①背景再核": "UK 方案屋（官网一手核）",
      "②芯片/型号": "AT/Brocade 线",
      "③KP 深挖": "contact@",
-     "④Saga 对标": "二槽窄位（$165 锚点一致）",
+     "④Saga 对标": "二槽窄位（$180 锚点一致）",
      "⑤在乎与偏好": "bench-tested 实测文化/应用专注",
      "⑥SWOT": "S 行业宽 / W AT 在墙 / O 私营段 / T 大牌"
     },
@@ -173,7 +173,7 @@
     "替补机制",
     "托管客户占比"
    ],
-   "email": "Hi ACC team,\n\nBench-tested, performance-proven solutions with your own datacenters behind them - and Allied Telesis holding a real position on your brand shelf. Two honest sentences up front: your AT line keeps its place, and anything in the aerospace-and-defence orbit stays on your certified paths. This concerns only the commercial side.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value second slot for hospitality, retail, legal and finance projects.\n\nOne question: on the commercial side, is there room for a documented value PoE tier?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi ACC team,\n\nBench-tested, performance-proven solutions with your own datacenters behind them - and Allied Telesis holding a real position on your brand shelf. Two honest sentences up front: your AT line keeps its place, and anything in the aerospace-and-defence orbit stays on your certified paths. This concerns only the commercial side.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second slot for hospitality, retail, legal and finance projects.\n\nOne question: on the commercial side, is there room for a documented value PoE tier?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "On the commercial side, is there room for a documented value PoE tier?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -213,7 +213,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "休闲/企业私营段的 value PoE 随单（公立学校段守界前句）",
      "question": "私营项目现场交换件现供？",
      "proof": "规格页"
@@ -238,7 +238,7 @@
      "①背景再核": "UK 安装商（官网一手核）",
      "②芯片/型号": "多牌设备",
      "③KP 深挖": "info@",
-     "④Saga 对标": "随单正口（$165 锚点一致）",
+     "④Saga 对标": "随单正口（$180 锚点一致）",
      "⑤在乎与偏好": "25 年口碑/个人服务",
      "⑥SWOT": "S 场景对口 / W 公立占比 / O 私营段 / T 大牌"
     },
@@ -262,7 +262,7 @@
     "现供",
     "私营占比"
    ],
-   "email": "Hi Trusol team,\n\nTwenty-five-plus years connecting education, leisure and corporate sites - the smartest gyms in London run on your AV and converged networks. One boundary sentence first: state-school engagements stay on your established procurement paths; this concerns the commercial side only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for leisure-floor APs, meeting-room pods and camera clusters at commercial sites.\n\nOne question: in commercial projects, where do the PoE switches behind your APs and cameras come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Trusol team,\n\nTwenty-five-plus years connecting education, leisure and corporate sites - the smartest gyms in London run on your AV and converged networks. One boundary sentence first: state-school engagements stay on your established procurement paths; this concerns the commercial side only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for leisure-floor APs, meeting-room pods and camera clusters at commercial sites.\n\nOne question: in commercial projects, where do the PoE switches behind your APs and cameras come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In commercial projects, where do your site PoE switches come from today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -302,7 +302,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 双守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "私营商务段的 value 替补窄针（公立教育段+Aruba 线双前句框定）",
      "question": "私营商业项目有价值替补槽吗？",
      "proof": "规格页"
@@ -327,7 +327,7 @@
      "①背景再核": "UK 大 SI（官网一手核）",
      "②芯片/型号": "Aruba Platinum",
      "③KP 深挖": "sales@",
-     "④Saga 对标": "私营窄针（$165 锚点一致，低密）",
+     "④Saga 对标": "私营窄针（$180 锚点一致，低密）",
      "⑤在乎与偏好": "框架/公共合规",
      "⑥SWOT": "S 体量 / W Platinum主权+公共浓 / O 私营段 / T Aruba"
     },
@@ -351,7 +351,7 @@
     "替补机制",
     "私营占比"
    ],
-   "email": "Hi European Electronique team,\n\nNearly thirty years of UK systems integration - with Aruba Platinum and Fortinet Expert badges carried with reason. Two honest boundary sentences: your Aruba switching line keeps its place, and your state-education programmes stay on their established paths. This is a narrow commercial question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for private commercial-office projects where the flagship tier overshoots the budget.\n\nOne question: on the private commercial side, does a documented value PoE tier exist beside your flagship lines?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi European Electronique team,\n\nNearly thirty years of UK systems integration - with Aruba Platinum and Fortinet Expert badges carried with reason. Two honest boundary sentences: your Aruba switching line keeps its place, and your state-education programmes stay on their established paths. This is a narrow commercial question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for private commercial-office projects where the flagship tier overshoots the budget.\n\nOne question: on the private commercial side, does a documented value PoE tier exist beside your flagship lines?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does a documented value PoE tier exist on your private commercial side?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -479,7 +479,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 守界前句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "托管现场 Allied Platinum 旁的 value 二槽（前句框定不挖线）",
      "question": "托管项目里有价值替补槽吗？",
      "proof": "规格页+目录页"
@@ -504,7 +504,7 @@
      "①背景再核": "UK 白金 AT 伙伴 MSP（官网+CSV 双核）",
      "②芯片/型号": "AT Platinum",
      "③KP 深挖": "enquiries@",
-     "④Saga 对标": "二槽窄位（$165 锚点一致）",
+     "④Saga 对标": "二槽窄位（$180 锚点一致）",
      "⑤在乎与偏好": "托管口碑/合规",
      "⑥SWOT": "S 对口 / W Platinum / O 二槽 / T AT"
     },
@@ -528,7 +528,7 @@
     "替补机制",
     "客户数"
    ],
-   "email": "Hi Holker IT team,\n\nPlatinum-grade Allied Telesis partnership and a Partner-of-the-Year story - your managed stack is built on clear choices, and we are not asking to unsettle a single one.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value second slot for managed customer sites where the budget simply decides.\n\nOne question: inside your managed estate, is there room for a documented value PoE tier beside the Platinum line?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Holker IT team,\n\nPlatinum-grade Allied Telesis partnership and a Partner-of-the-Year story - your managed stack is built on clear choices, and we are not asking to unsettle a single one.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second slot for managed customer sites where the budget simply decides.\n\nOne question: inside your managed estate, is there room for a documented value PoE tier beside the Platinum line?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is there room for a documented value PoE tier beside your Platinum line?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -568,7 +568,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 托管随单",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "TPE/PME 托管现场的 value PoE 随单",
      "question": "托管客户现场交换件现供？",
      "proof": "规格页"
@@ -593,7 +593,7 @@
      "①背景再核": "FR Lyon MSP（官网+CSV 双核）",
      "②芯片/型号": "多牌+AT Resell",
      "③KP 深挖": "ec@",
-     "④Saga 对标": "随单（$165 锚点一致）",
+     "④Saga 对标": "随单（$180 锚点一致）",
      "⑤在乎与偏好": "私营 TPE 性价比",
      "⑥SWOT": "S 对口 / W 品牌散 / O 随单 / T —"
     },
@@ -617,7 +617,7 @@
     "现供",
     "决策权"
    ],
-   "email": "Bonjour BlueBearsIT team,\n\nInfogérance for TPE and PME across Lyon, Grenoble and Annecy - your engineers live inside customer networks every week, and every managed site that adds cameras or APs silently consumes a PoE switch.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a documented value unit for the managed sites you run.\n\nOne question: when a managed TPE/PME site needs a new switch, what do you supply today - and would a value PoE unit earn a test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Bonjour BlueBearsIT team,\n\nInfogérance for TPE and PME across Lyon, Grenoble and Annecy - your engineers live inside customer networks every week, and every managed site that adds cameras or APs silently consumes a PoE switch.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a documented value unit for the managed sites you run.\n\nOne question: when a managed TPE/PME site needs a new switch, what do you supply today - and would a value PoE unit earn a test?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "When a managed site needs a new switch, what do you supply today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -657,7 +657,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 窄针",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "一页窄针（电话+邮件并用，遵其反诈规则）",
      "question": "供应商目录有价值 PoE 缝吗？",
      "proof": "规格页+目录页"
@@ -682,7 +682,7 @@
      "①背景再核": "FR 大集成商（壳页+名录双核）",
      "②芯片/型号": "AT Elite",
      "③KP 深挖": "contact@",
-     "④Saga 对标": "窄位低信号（$165 锚点一致）",
+     "④Saga 对标": "窄位低信号（$180 锚点一致）",
      "⑤在乎与偏好": "反诈流程敏感",
      "⑥SWOT": "S Elite 体量 / W 证据薄 / O 窄 / T —"
     },
@@ -706,7 +706,7 @@
     "品类权",
     "决策链"
    ],
-   "email": "Bonjour ITNI team,\n\nYour anti-fraud notice says suppliers should call before emailing - we will do exactly that. This letter is the written half of that rule.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier that large integrators sometimes keep beside flagship lines for price-driven projects.\n\nOne question: whom should we reach by phone about a documented value PoE listing - purchasing, or a networking category lead?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Bonjour ITNI team,\n\nYour anti-fraud notice says suppliers should call before emailing - we will do exactly that. This letter is the written half of that rule.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier that large integrators sometimes keep beside flagship lines for price-driven projects.\n\nOne question: whom should we reach by phone about a documented value PoE listing - purchasing, or a networking category lead?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Whom should we reach by phone about a value PoE listing?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -746,7 +746,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 备件窄位",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "备件池/白标服务包的 value 替换单元窄位（备件逻辑先行）",
      "question": "备件池接受 value 单元吗？",
      "proof": "规格页"
@@ -771,7 +771,7 @@
      "①背景再核": "IT 服务厂（官网一手核）",
      "②芯片/型号": "—",
      "③KP 深挖": "info@",
-     "④Saga 对标": "备件窄位（$165 锚点一致，低密）",
+     "④Saga 对标": "备件窄位（$180 锚点一致，低密）",
      "⑤在乎与偏好": "mission-critical 时效",
      "⑥SWOT": "S 通道面 / W 非采购向 / O 备件 / T —"
     },
@@ -795,7 +795,7 @@
     "备件机制",
     "伙伴网"
    ],
-   "email": "Ciao GCI team,\n\nPost-warranty on-site maintenance for mission-critical ICT, plus a 100-percent-channel model that lets partners broaden their offer. Both machines eat spare parts - and somewhere in that spare-parts logic there is room for a documented value unit.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value replacement unit for spare pools and partner bundles.\n\nOne question: does your spare pool accept documented value units - or do frame contracts decide every part?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Ciao GCI team,\n\nPost-warranty on-site maintenance for mission-critical ICT, plus a 100-percent-channel model that lets partners broaden their offer. Both machines eat spare parts - and somewhere in that spare-parts logic there is room for a documented value unit.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value replacement unit for spare pools and partner bundles.\n\nOne question: does your spare pool accept documented value units - or do frame contracts decide every part?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does your spare pool accept documented value units?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -835,7 +835,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 在营试验针",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "极简一页（投递成功即产品在营）",
      "question": "（投递结果先行）",
      "proof": "规格页"
@@ -860,7 +860,7 @@
      "①背景再核": "AT 小型服务商（DNS 失败+FirmenABC 双源）",
      "②芯片/型号": "AT Resell",
      "③KP 深挖": "office@",
-     "④Saga 对标": "低密（$165 锚点一致）",
+     "④Saga 对标": "低密（$180 锚点一致）",
      "⑤在乎与偏好": "—",
      "⑥SWOT": "S 名录身份 / W 域失效 / O 微单 / T —"
     },
@@ -884,7 +884,7 @@
     "在营态",
     "邮箱有效性"
    ],
-   "email": "Hi IT-TRUST,\n\nYour old contact page gave this address, so this is partly a hello and partly a ping to see if the shop is still open.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit for small-site networks.\n\nOne question: is IT-TRUST still active in network services - and is a value PoE switch of any use to you?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi IT-TRUST,\n\nYour old contact page gave this address, so this is partly a hello and partly a ping to see if the shop is still open.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for small-site networks.\n\nOne question: is IT-TRUST still active in network services - and is a value PoE switch of any use to you?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is IT-TRUST still active in network services?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",

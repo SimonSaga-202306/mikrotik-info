@@ -72,7 +72,7 @@
 - 「CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名」 — 客户名单_反向信号_2026-09.csv
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)
+- 参考 P1: `STC-424XGGPM-280W` — 都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)
 - 第一问: (先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?
 - 标签: 爱尔兰|都柏林|Reseller|具名
 
@@ -82,7 +82,7 @@ Hi Greg,
 
 A MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
 
 If not a fit, one line and I close the loop.
 

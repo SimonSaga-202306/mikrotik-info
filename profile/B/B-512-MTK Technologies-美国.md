@@ -72,7 +72,7 @@
 - 「1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest」 — https://mtk-tech.com/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单
+- 参考 P1: `STC-424XGGPM-280W` — SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单
 - 第一问: 你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？
 - 标签: 美国|伊利诺伊|SMBMSP|235客户
 
@@ -82,7 +82,7 @@ Hi MTK team,
 
 Champaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $165 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.
 
 One question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?
 

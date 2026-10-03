@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | 捷克三大 IT 分销之一 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Ostrava/Praha/Brno |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek」 — https://ifirmy.cz/firma/005422-at-computers-as
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)
+- 参考 P1: `STC-424XGGPM-280W` — 中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)
 - 第一问: 你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?
 - 标签: 捷克|俄斯特拉发|AB Group系|€1B级|自有PC牌
 
@@ -83,7 +83,7 @@ Hi AT Computers team,
 
 The largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.
 
 One question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?
 

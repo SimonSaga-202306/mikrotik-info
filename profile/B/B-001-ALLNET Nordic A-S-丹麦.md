@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ALLNET 集团北欧站（德/法/意/丹 = 4 国） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Ballerup |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@
 - 「Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe」 — https://www.allnet-italia.it/en/allnet-international-network/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)
+- 参考 P1: `STC-424XGGPM-280W` — ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)
 - 第一问: ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?
 - 标签: 丹麦|Ballerup|集团北欧站|Master
 
@@ -82,7 +82,7 @@ Hi ALLNET Nordic team,
 
 Another ALLNET branch on our map after France, Italy and Greece - the Group shelf deserves one uniform value PoE tier across all countries.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.
 
 One question: for the Nordic branch, which PoE access SKU holds the value tier today - and would a group-level second source earn a pilot here?
 

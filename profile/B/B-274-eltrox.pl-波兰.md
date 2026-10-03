@@ -73,7 +73,7 @@
 - 「monitoring, systemy alarmowe, automatyka domowa, smart home, odnawialne źródła energii, fotowoltaika, sieci komputerowe, IT, TV i multimedia…Dropshipping z hurton…Firmy instalatorskie」 — https://www.eltrox.pl/sprzet-it/sieci-komputerowe/mikrotik/akcesoria.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)
+- 参考 P1: `STC-424XGGPM-280W` — 波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)
 - 第一问: 你们的监控/报警安装商客户,24 口管理型 PoE+ 现随哪家?门店架上 value 档有位吗?
 - 标签: 波兰|Częstochowa|安防巨头|40门店|Master
 
@@ -83,7 +83,7 @@ Hi Eltrox team,
 
 Poland's largest security-equipment distributor with nearly 40 stores nationwide - every CCTV and alarm installer walking your aisles needs a PoE switch on the same receipt.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - built for the installer value tier on a security shelf, white-label friendly, wholesale and dropshipping ready.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $180 USD EXW (2026-09-29) - built for the installer value tier on a security shelf, white-label friendly, wholesale and dropshipping ready.
 
 One question: inside your monitoring and alarm catalog, which 24-port managed PoE switch rides along with camera installs today - and is there a value-tier slot on the store shelf?
 

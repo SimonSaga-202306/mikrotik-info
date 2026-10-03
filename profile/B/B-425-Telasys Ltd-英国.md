@@ -73,7 +73,7 @@
 - 「Telasys Ltd Reseller Cardiff info@telasys.com」 — https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)
+- 参考 P1: `STC-424XGGPM-280W` — 双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)
 - 第一问: 你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?
 - 标签: 英国|卡迪夫|新机+翻新双轨|五大洲
 
@@ -83,7 +83,7 @@ Hi Telasys team,
 
 New and refurbished telecom hardware across five continents, with asset recovery and decommissioning on top - you know better than anyone what a switch costs at every point of its lifecycle.
 
-We build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $165 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.
+We build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $180 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.
 
 One question: do your buyers ever ask for new hardware at refurbished prices - and would a documented new unit in that band earn a listing test beside your second-life shelf?
 

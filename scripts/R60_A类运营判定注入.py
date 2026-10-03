@@ -115,7 +115,7 @@ def saga_judge(code):
     if needs.get('industrial'):
         pri.append('STI-288GP(工业导轨 24G+4×10G→机柜/自动化)')
     if needs.get('poe') and needs.get('tenG'):
-        pri.append('STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)')
+        pri.append('STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)')
     elif needs.get('poe'):
         pri.append('STC-28DGGPM(24G PoE+/4×25G→分销走量)')
     if needs.get('tenG') and not needs.get('poe'):

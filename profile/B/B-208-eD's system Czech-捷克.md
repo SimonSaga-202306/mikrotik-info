@@ -73,7 +73,7 @@
 - 「eD's system Czech, Master Distributor Value Added Distributor, Ostrava」 — https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)
+- 参考 P1: `STC-424XGGPM-280W` — CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)
 - 第一问: 你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?
 - 标签: 捷克|俄斯特拉发|三国九点|TOP100
 
@@ -83,7 +83,7 @@ Hi eD system team,
 
 Nine branches across Czechia, Slovakia and Poland, perennial CZECH TOP 100 member - when a product lands on your shelf, it reaches three countries at once.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.
 
 One question: across your three-country shelf, which brand holds the value 24-port managed PoE tier today - and what does a new-vendor pilot look like?
 

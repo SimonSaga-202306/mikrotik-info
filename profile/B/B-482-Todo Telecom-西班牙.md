@@ -73,7 +73,7 @@
 - 「NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN」 — https://x.com/TodotelecomSL
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位
+- 参考 P1: `STC-424XGGPM-280W` — 安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位
 - 第一问: 你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?
 - 标签: 西班牙|Denia|安防CCTV分销|PoE常备走量
 
@@ -83,7 +83,7 @@ Hi Todo Telecom team,
 
 CCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.
 
 One question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?
 

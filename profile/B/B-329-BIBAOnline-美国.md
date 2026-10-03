@@ -72,7 +72,7 @@
 - 「415 Harding Ct. Sterling VA 20164 / 1-844-329-2422」 — https://www.bibaonline.com/pages/contact-us
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚
+- 参考 P1: `STC-424XGGPM-280W` — VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚
 - 第一问: 你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？
 - 标签: 美国|弗吉尼亚|VoIP杂货|MikroTik挂角
 
@@ -82,7 +82,7 @@ Hi BIBA team,
 
 Your catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.
 
-We build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.
+We build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.
 
 One question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?
 

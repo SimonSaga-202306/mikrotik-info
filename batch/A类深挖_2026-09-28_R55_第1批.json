@@ -12,7 +12,7 @@
     "关键人KP": "公开面只有角色邮箱 **rfi@pumait.dk** 与双电话（首页 +45 32 33 13 12 / contactus 页 +45 60 70 90 09）。**决策人姓名未公开**——丹麦 ApS 通常业主即采购；CVR 页可查法定董事（建议跟进前查 datacvr.virk.dk 44763729 拉董事名，再按 firstname@pumait.dk 模式猜测，**当前未验证不写死**）。mx 已验：pumait.dk → Google Workspace。",
     "关注点与资质": "①**所有权哲学**：卖「Buy once. Own forever」「Perpetual licens, ingen cloud」——反感订阅/云绑定，报价话术要对齐「一次买断、无云控」；②**发货前预配置**服务是其溢价点，我方供货页可承诺出厂刷配置/贴标；③**GDPR 标识交付**写进监控方案（合规敏感）；④价格透明需求（Priser ekskl. moms 明示）。参展/社媒痕迹未见。",
     "优缺点SWOT": "**S**：双线现货（171+680 SKU）+全国安装伙伴网+「敢说 MikroTik 不合适」的顾问信誉；方案页做得细（pixels per meter 维度计算）。**W**：公司年轻（CVR 2021–22）、体量小、人员规模未公开，无自有品牌护城河，对 MikroTik/UniFi 两家供货高度绑定。**O**：UniFi 交换线毛利薄、价格带高 → Saga 同级 Marvell 24口PoE EXW $220 可给「自有利润池/第二品牌」；其 config-before-delivery 模式与 OEM 定制出厂配置天然咬合。**T**：UniFi/MikroTik 官方丹麦分销价格下探时第二供应商空间被挤；所有权哲学可能排拒「无品牌」货，需要样机实测背书破冰。",
-    "Saga产品适配": "首梯 **STC-424DGGPM-440W**（24×GE PoE af/at 440W，PoE 管理+watchdog，**EXW $220**）对上视频监控/门禁方案页；多站点骨干 **STC-424XGGM**（4×10G SFP+24×GE，**EXW $143**）；小站点 **STC-48DGGPM-U**（EXW $115.5）。⚠️ 商用线无 802.3bt 90W：若其高功率摄像机（PTZ 加热/射灯）超 30W，回 SmartByte `LT-S8328XGP-4XS24GT-S` 并标注「Saga 暂无对应」。报价按 EXW+15 天有效，强调一次买断无云。"
+    "Saga产品适配": "首梯 **STC-424XGGPM-440W**（24×GE PoE af/at 440W，PoE 管理+watchdog，**EXW $220**）对上视频监控/门禁方案页；多站点骨干 **STC-424XGGM**（4×10G SFP+24×GE，**EXW $143**）；小站点 **STC-48DGGPM-U**（EXW $115.5）。⚠️ 商用线无 802.3bt 90W：若其高功率摄像机（PTZ 加热/射灯）超 30W，回 SmartByte `LT-S8328XGP-4XS24GT-S` 并标注「Saga 暂无对应」。报价按 EXW+15 天有效，强调一次买断无云。"
    },
    "kp": [
     {
@@ -132,7 +132,7 @@
     "关键人KP": "**Andrew Drozd**（名录姓名）。邮箱 **support@ironsentinel.net**（CSV 既有；**MX 今日核验有效→smtp.google.com，Google Workspace 收件 infra 仍活**，说明邮箱多半仍有人收）。电话 **+380 63 418 8971**（Kyivstar 移动号段，**可试 WhatsApp/Telegram 添加验证**——乌克兰移动号社媒绑定率高，未验证不写死）。LinkedIn 搜索无确认命中。模式猜测 **andrew@ironsentinel.net**（未验证）。",
     "关注点与资质": "无近期公开信号；名录收录本身=持证顾问（CSV 载 MTCNA 等，详见 §四）。对乌客户的敏感点：战时供电/移动覆盖/重建项目，通信器材需求仍在，但外汇与物流条款要放软。",
     "优缺点SWOT": "**S**：决策链=本人；既有双通道（邮箱 infra 活+手机号）。**W**：公开面消亡、无法验证经营状态与规模。**O**：乌重建网络需求长尾；低量配货（小批量中性货）适合个体顾问。**T**：失联风险高（站点已死）；战时不可控。评级维持 A（联系通道仍通），但本轮优先级下调，电话/WhatsApp 先行。",
-    "Saga产品适配": "低量试水：样机 **STC-424DGGPM-280W**（EXW $165）或 8口 **STC-28DGGPM**（EXW $99）；配「5–7 工作日、50 台以下」交期条款正中个体户。⚠️ 不谈 bt。"
+    "Saga产品适配": "低量试水：样机 **STC-424XGGPM-280W**（EXW $180）或 8口 **STC-28DGGPM**（EXW $99）；配「5–7 工作日、50 台以下」交期条款正中个体户。⚠️ 不谈 bt。"
    },
    "kp": [
     {
@@ -228,7 +228,7 @@
     "关键人KP": "**Alain Casault 本人**（业主&顾问&讲师，B.Ing. 工程师衔）。联系：电话 **1-514-394-0419**（多源一致）；邮箱既有 **casault.alain@educationhmo.com**（遗产通道，MX 活）；**模式猜测 alain@alaincasault.com / contact@alaincasault.com——自有域 MX 自建存活，首试 alain@（未验证）**。LinkedIn 未见公开档案（魁省法语老派咨询师常态）。",
     "关注点与资质": "①**动手实操** ：其公司介绍强调 hands-on training over self-study——寄样机比寄彩页有效 10 倍；②教育网络合规与长线稳定（他卖 CSPE 时代就处理的议题）；③法语区沟通：首封英文信末尾附一句法语问候可显著提回复率（Montréal 地区商务惯例）。无参展记录；B.Ing.=魁北克工程师学会会员语境。",
     "优缺点SWOT": "**S**：教育 IT 决策层 6 年 VP 履历+MikroTik 官方讲师背书=魁省教育/ISP 圈的**枢纽型个人**；培训班是天然带货位。**W**：一人公司、无库存能力、出货要经学员转手；公开数字足迹老旧（ZoomInfo 画像+失效域）。**O**：魁省学校网改造=L2+ Voice VLAN/VLAN-per-class 强需求；他的学员名录=间接渠道。**T**：直销链路长（顾问→学员→项目）；教育公立段如有招标资质要求需规避（只做私营/分包层）。",
-    "Saga产品适配": "讲师教学机：**STC-424DGGPM-280W**（EXW $165）让学员亲手摸 L2+ CLI（Marvell 同源叙事）；校园底盒 **STC-424XGGM**（EXW $143，VLAN-per-class+QinQ）；机架小柜 **STC-448DGGM**（EXW $220）。话术：「培训教学机批量价+出厂预刷教学配置」（对口他 hands-on 卖点）。⚠️ 公立招标段不破例，只走私营学校/ISP 学员层。"
+    "Saga产品适配": "讲师教学机：**STC-424XGGPM-280W**（EXW $180）让学员亲手摸 L2+ CLI（Marvell 同源叙事）；校园底盒 **STC-424XGGM**（EXW $143，VLAN-per-class+QinQ）；机架小柜 **STC-448DGGM**（EXW $220）。话术：「培训教学机批量价+出厂预刷教学配置」（对口他 hands-on 卖点）。⚠️ 公立招标段不破例，只走私营学校/ISP 学员层。"
    },
    "kp": [
     {
@@ -288,7 +288,7 @@
     "关键人KP": "**Amir Seifi**（推定负责人；其 MikroTik 认证名录行=CSV 源头）。邮箱公开双通道 **info@ / ops@magentanetworks.net**（contact 页「General Inquiries」「Operations & Sales」分工明示）+ 既有 support@ + 电话 +1-647-812-5170。模式猜测 **amir@ / aseifi@magentanetworks.net**（未验证）。LinkedIn 检索无确认命中（同名他行业者干扰，已如实排除）。",
     "关注点与资质": "①服务化定价/工单化交付（helpdesk 叙述浓）；②多行业合规敏感（医疗/金融写入行业页——**只谈商用 IT 段，不碰患者数据/金融核心系统**）；③「cutting-edge tools」自我要求=愿意试新供应商样机；④营业时间 Mon–Fri 9–6。参展/社媒未见。",
     "优缺点SWOT": "**S**：MSP 粘性强（19 站包年）→ 设备采购是持续流而非单笔；双邮箱分工=有人读采购邮件。**W**：体量小（310 端点）、模板站、无案例与团队页、LinkedIn 缺席→采购预算天花板低。**O**：制造/酒店/零售三线都是 PoE 密集业态；MSP 转售毛利诉求强 → Saga 半价带正中。**T**：Toronto 圈 MSP 密集（价格战区）；无差别开发信打开率低——要用「19 站点/310 端点」这种他自己公布的数字做开场以证明看过站。",
-    "Saga产品适配": "主梯 **STC-424DGGPM-280W**（EXW $165，SMB 站点标配）；酒店/零售小柜 **STC-28DGGPM**（EXW $99）；制造客户车间 **STI-080GE**（EXW $55 非管理）/ **STI-288GP**（EXW $74.8 PoE，3 年保）+ **STI-111GP** 光纤收发（EXW $36.3）。话术：「Toronto 仓可议/DHL 5–7 天出厂，先送一台进你 19 站之一做 30 天」。"
+    "Saga产品适配": "主梯 **STC-424XGGPM-280W**（EXW $180，SMB 站点标配）；酒店/零售小柜 **STC-28DGGPM**（EXW $99）；制造客户车间 **STI-080GE**（EXW $55 非管理）/ **STI-288GP**（EXW $74.8 PoE，3 年保）+ **STI-111GP** 光纤收发（EXW $36.3）。话术：「Toronto 仓可议/DHL 5–7 天出厂，先送一台进你 19 站之一做 30 天」。"
    },
    "kp": [
     {
@@ -474,7 +474,7 @@
     "关键人KP": "**MohammadMahdi（Mahdi）Raeesi**：LinkedIn 档案「MikroTik consultant @ wirelessnetware」（Richmond Hill，173 连接，MTCNA 1311NA033 2013–2016 已过期，Payam Noor 大学）——**与 A-010 Wireless Netware 有供职交集（知悉备查，沟通不刺探）**。联系：**admin@commanderit.ca**（官网公开）+ 647-562-2246；模式猜测 **mahdi@commanderit.ca**（未验证；commanderit.ca MX=A 记录同主机自托管，小站自建邮服，投递信誉一般——首封进垃圾箱概率高，电话跟进必要性大）。",
     "关注点与资质": "①VoIP+数据并网（SMB 一线多用）——Voice VLAN 话术正中；②7×9-18 营业=响应型客户画像，也提示他看手机=fallback 电话有效；③品牌意识刚起步（AI logo）=对 OEM 贴牌/自定义 branding 接受度高（Saga 定制 branding 条款可对）。参展未见；LinkedIn 个人页更新少。",
     "优缺点SWOT": "**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。",
-    "Saga产品适配": "首梯 **STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。"
+    "Saga产品适配": "首梯 **STC-424XGGPM-280W**（24口 PoE af/at，**EXW $180**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。"
    },
    "kp": [
     {
@@ -528,7 +528,7 @@
     "关键人KP": "**Hani Rahrouh**（President, CEO & MikroTik Coordinator；加拿大首位官方 MikroTik 培训师；LinkedIn /in/hani-rahrouh-38019521，5K 粉、周更：Markham Board of Trade 活动、培训课程预告）。邮箱 **info@wirelessnetware.ca**（公开）+ 电话 +1 647 477 0163；模式猜测 **hani@wirelessnetware.ca**（未验证；pattern=firstname@ 与其家族式命名相符需验证）。渠道角色决定：**他是买手+培训双身份，见面先谈分销梯价与贴牌 MOQ**。",
     "关注点与资质": "①**IC/ISED 认证**（首页头牌「IC Certified Products」——⚠️ Saga 现证为 FCC/CE/UKCA 族，加拿大 IC 多为认可 FCC 报告或需补 ISED，**报价前必须核实 IC 适用性并在信中如实处理**，这是加拿大零售/培训教具的门槛）；②培训教具批量（MTCNA/MTCRE 班期稳定=教具箱规需求）；③光模块贴牌伙伴升级路径（SYNOXX 交换/工业交换贴牌）；④Bell/Rogers 批发线=ISP 级 VLAN/QinQ 语境（L2+ flow-based QinQ 可对）。社交：LinkedIn/Facebook 双活跃，本地商会（Markham Board of Trade）刷脸型。",
     "优缺点SWOT": "**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。",
-    "Saga产品适配": "①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424DGGPM-280W**（EXW $165，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。"
+    "Saga产品适配": "①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424XGGPM-280W**（EXW $180，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。"
    },
    "kp": [
     {

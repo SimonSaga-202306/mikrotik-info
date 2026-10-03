@@ -74,7 +74,7 @@
 - 「ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia」 — https://contactout.com/company/ASAP-Ltd-94248
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — IT 方案商项目谱的 value PoE 管理档
+- 参考 P1: `STC-424XGGPM-280W` — IT 方案商项目谱的 value PoE 管理档
 - 第一问: 你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?
 - 标签: 保加利亚|Sofia|IT方案商|MikroTik谱|47人
 
@@ -84,7 +84,7 @@ Hi ASAP team,
 
 An IT solutions house in Sofia with a MikroTik shelf behind your enterprise network projects - you know the brands end customers specify, and where a project BOM gets tight on PoE switching.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.
 
 One question: in your enterprise network deployments, which 24-port PoE managed switch do you reach for today - and is there a value slot beside it?
 

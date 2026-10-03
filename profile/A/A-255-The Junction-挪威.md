@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、PoE/监控/门禁、工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — The Junction 挪威专科分销 30+年（IT 基建板块明列工业管理交换机/PoE+Perle）：Perle 旁替补窄口（$165 锚点一致）；alt STI-288GP；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — The Junction 挪威专科分销 30+年（IT 基建板块明列工业管理交换机/PoE+Perle）：Perle 旁替补窄口（$180 锚点一致）；alt STI-288GP；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · Perle 类目外档：商业 L2+ 24 口 PoE 一页
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：认可 Perle 主关的短件：他们报价单缺商业级 24 口 PoE 类时，我们作为第二来源价位档（上架提案+分销条件）。
 - **要问的问题**：客户问商业办公 24 口 PoE 时，你们报价指向哪里？
 - **随附证明**：一页报价+规格（英）+ 分销条件。
@@ -141,7 +141,7 @@ updated: 2026-09-28
 - **①背景再核**：NO 专科分销（官网一手核）
 - **②芯片/型号**：Perle 等专科墙
 - **③KP 深挖**：info@
-- **④Saga 对标**：替补窄口（$165 锚点一致）
+- **④Saga 对标**：替补窄口（$180 锚点一致）
 - **⑤在乎与偏好**：深度选型/僻域覆盖
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -167,7 +167,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | The Junction 挪威专科分销 30+年（IT 基建板块明列工业管理交换机/PoE+Perle）：Perle 旁替补窄口（$165 锚点一致）；alt STI-288GP |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | The Junction 挪威专科分销 30+年（IT 基建板块明列工业管理交换机/PoE+Perle）：Perle 旁替补窄口（$180 锚点一致）；alt STI-288GP |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -224,7 +224,7 @@ Hi The Junction team,
 
 Thirty-plus years of specialist distribution - media converters, extenders, industrial managed switches, PoE, console servers - Perle on the shelf and ATC/rugged lines beside. One sentence up front: we are not asking to displace Perle.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial unmanaged PoE line. Reference: $165 USD EXW (2026-09-29) - the value substitute slot beside your specialist tier.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial unmanaged PoE line. Reference: $180 USD EXW (2026-09-29) - the value substitute slot beside your specialist tier.
 
 One question: does your IT Infrastructure board keep a value substitute tier - and would you evaluate one unit?
 

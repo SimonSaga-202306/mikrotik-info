@@ -33,10 +33,10 @@
 | 8口 非PoE 4光 | STC-48DGGM / -U | 4×2.5G SFP+8×GE | $88.0 / $99.0 |
 | 8口 PoE | STC-28DGGPM / -U | PoE af/at 240/200W | $99.0 / $110.0 |
 | 8口 PoE 4光 | STC-48DGGPM / -U | PoE af/at 240/200W | $102.3 / $115.5 |
-| **24口 非PoE** | STC-424DGGM | 4×2.5G SFP+24×GE，机架 | $110.0 |
+| **24口 非PoE** | STC-424XGGM | 4×2.5G SFP+24×GE，机架 | $110.0 |
 | **24口 非PoE 万兆上联** | STC-424XGGM | 4×10G SFP+24×GE | $143.0 |
 | 48口 非PoE | STC-448DGGM / STC-448XGGM | 4×2.5G/10G SFP+48×GE | $220.0 / $286.0 |
-| **24口 PoE 主力** | **STC-424DGGPM-280W / -440W** | 4×2.5G SFP+24×GE PoE af/at，PoE 管理+watchdog | **$165.0 / $220.0** |
+| **24口 PoE 主力** | **STC-424XGGPM-280W / -440W** | 4×2.5G SFP+24×GE PoE af/at，PoE 管理+watchdog | **$165.0 / $220.0** |
 | **24口 PoE 万兆上联** | **STC-424XGGPM-280W / -440W** | 4×10G SFP+24×GE PoE af/at | **$198.0 / $264.0** |
 | 48口 PoE | STC-448DGGPM / STC-448XGGPM | PoE af/at 440W | $308.0 / $368.5 |
 | L3 非PoE | STC-424XGGM / STC-448XGGM | 4×10G SFP，L3 | $294.8 / $511.5 |
@@ -53,7 +53,7 @@
 | **L2+ 全功能 4/8口** | STI-240DGGM / 280DGGM | 2×2.5G SFP+4/8×GE，ERPS<20ms | $110 / $121 |
 | **L2+ 4/8口 PoE** | STI-244DGGPM / 288DGGPM | PoE af/at 120/240W | $121 / $137.5 |
 | L2+ PoE 带bt | STI-244DGGPM-2BT / 288DGGPM-2BT | 2×bt 90W+其余 af/at，240W | $143 / $154 |
-| L2+ 8口4光 | STI-480DGGM / 488DGGPM / 488DGGPM-2BT | 4×2.5G SFP+8×GE（PoE 240W） | $132 / $148.5 / $165 |
+| L2+ 8口4光 | STI-480DGGM / 488DGGPM / 488DGGPM-2BT | 4×2.5G SFP+8×GE（PoE 240W） | $132 / $148.5 / $180 |
 | **L2+ 8口 万兆上联** | **STI-480XGGM / 488XGGPM** | **4×10G SFP+8×GE**（PoE 240W） | **$253 / $269.5** |
 | L2+ 16口 | STI-2160DGGM / 21616DGGPM / 2160XGGM / 21616XGGPM | 16×GE（PoE 240W），含 10G 版 | $220 / $242 / $291.5 / $324.5 |
 | L2+ 光混 8+4 | STI-448DGGGM / 448DGGGPM / 448XGGGM / 448XGGGPM | 4×GE SFP+4/8×GE（PoE 240W），10G 版 | $220 / $236.5 / $275 / $297 |
@@ -93,9 +93,9 @@
 | SmartByte 旧型号 | 场景 | Saga 替换 | 说明 |
 |---|---|---|---|
 | LT-S8328XGP-4XS24GT-S | 商用 24口 PoE + 4×10G 主力 | **STC-424XGGPM-440W**（$264，af/at 440W） | ⚠️ bt 90W Saga 商用线没有；客户明确要 bt 时回 `LT-S8328XGP-4XS24GT-S` 并标注「Saga 暂无对应，沿用 SmartByte」 |
-| LT-S8328GP-4GX24GT(-S) | 商用 24口 PoE 标杆/首梯 | **STC-424DGGPM-440W**（$220）；预算紧用 **-280W**（$165） | 同上 bt 缺口 |
+| LT-S8328GP-4GX24GT(-S) | 商用 24口 PoE 标杆/首梯 | **STC-424XGGPM-440W**（$220）；预算紧用 **-280W**（$165） | 同上 bt 缺口 |
 | LT-S8328XG-4XS24GT-S | 商用 24口 非PoE + 4×10G | **STC-424XGGM**（$143） | — |
-| LT-S8328G-4XS24GT-S | 商用 24口 非PoE | **STC-424DGGM**（$110） | — |
+| LT-S8328G-4XS24GT-S | 商用 24口 非PoE | **STC-424XGGM**（$110） | — |
 | LT-S8328XG-4XS8GT-S | 商用 8口小接入 | **STC-48DGGM-U**（$99，4×2.5G SFP+8×GE） | 10G 上联的 8口商用 Saga 暂无；坚持 10G 上联回 SmartByte 并标注 |
 | LT-S8528XG(-4XS24GT) | 商用 L3 24/48口 | **STC-424XGGM（L3）**（$294.8）/ **STC-448XGGM**（$511.5） | — |
 | LT-S6326G-2X24GT 等汇聚 | 万兆/全光汇聚 | **Saga 无全万兆汇聚**：就近 STC-448XGGMO（L3 48×1G SFP+4×10G，$687.5）或 STC-4168XGGCM-U（$511.5）；坚持 24×10G → 保留 SmartByte 并标注 | ⚠️ 标注位 |
@@ -120,8 +120,8 @@
 
 ## 五、对客户推销侧的影响（写进 MD 时引用）
 
-1. **CCTV 梯**：L2 精简工业系（STI-288GPM $88）= 官方自认「适合低管理要求 CCTV 项目」→ 低端 CCTV 更便宜；要 PoE 管理/watchdog 上 L2+ STI-288DGGPM（$137.5）或商用 STC-424DGGPM-280W（$165）。
+1. **CCTV 梯**：L2 精简工业系（STI-288GPM $88）= 官方自认「适合低管理要求 CCTV 项目」→ 低端 CCTV 更便宜；要 PoE 管理/watchdog 上 L2+ STI-288DGGPM（$137.5）或商用 STC-424XGGPM-280W（$165）。
 2. **bt 90W 实话**：商用无 bt；工业只有混插 BT 版（最多 22×af/at+2×bt、20+4、12+4）。高功率 PTZ/射灯/AP 超过 30W 的场景，Saga 只能工业线顶或回 SmartByte——**绝不能口头承诺商用 90W**。
-3. **价格锚**：24口 PoE 商用 $165–264 EXW，比旧 SmartByte 话术里的「同价带亚洲厂」更有落点；工业 3 年保是硬卖点（商用 1 年）。
+3. **价格锚**：24口 PoE 商用 $180–264 EXW，比旧 SmartByte 话术里的「同价带亚洲厂」更有落点；工业 3 年保是硬卖点（商用 1 年）。
 4. **报价纪律**：价格表注明 15 天有效、EXW、不含运费关税；工业不含电源与光模块——**报价信里永远带这一条免责**。
 5. **Marvell 叙事不变**：全线 Marvell 芯（AC5 Lite/PC3/AC5+），与 MikroTik 系客户的「芯片透明」话题无缝衔接。

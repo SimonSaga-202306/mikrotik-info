@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Interstellar 荷微软栈大 MSP（TD SYNNEX PoY 2026）：私营段随单窄针（$165 锚点一致）；Gemeente Katwijk 公共守界；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Interstellar 荷微软栈大 MSP（TD SYNNEX PoY 2026）：私营段随单窄针（$180 锚点一致）；Gemeente Katwijk 公共守界；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,18 +83,18 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 商业客户段接入层第二来源一页
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：荷/英一封到集团箱（注明可转网基建团队）：商业客户办公室/园区项目的 24 口 PoE 第二来源（RMA/供货连续性随行）；声明不涉及市政/医疗客户段。
 - **要问的问题**：商业客户项目的接入层目前有第二来源位吗？
 - **随附证明**：一页报价（英）+ 保修/RMA。
 
 ### 第 2 次跟进 · 万兆上行/汇聚件
 
-- **推什么**：STC-424XGGPM-440W（Saga）（24×万兆 PoE++ + 4×万兆 SFP+ 上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×万兆 PoE++ + 4×万兆 SFP+ 上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：spine-leaf/汇聚话题的万兆上行件（与 MikroTik 演讲者的技术语境对齐）。
 - **要问的问题**：汇聚/spine-leaf 预商用场景需要高性价比万兆件吗？
 - **随附证明**：万兆件一页规格。
@@ -141,7 +141,7 @@ updated: 2026-09-28
 - **①背景再核**：NL 微软栈大 MSP（官网一手核）
 - **②芯片/型号**：Microsoft
 - **③KP 深挖**：info@
-- **④Saga 对标**：窄针（$165 锚点一致，低密）
+- **④Saga 对标**：窄针（$180 锚点一致，低密）
 - **⑤在乎与偏好**：合规/品牌
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -167,7 +167,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Interstellar 荷微软栈大 MSP（TD SYNNEX PoY 2026）：私营段随单窄针（$165 锚点一致）；Gemeente Katwijk 公共守界 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Interstellar 荷微软栈大 MSP（TD SYNNEX PoY 2026）：私营段随单窄针（$180 锚点一致）；Gemeente Katwijk 公共守界 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -224,7 +224,7 @@ Hi Interstellar team,
 
 Four domains, one partner - and TD SYNNEX Partner of the Year 2026. One boundary sentence: your public-sector engagements, Gemeente included, stay on your established paths; this is a narrow question about private-segment sites.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for private customer sites where your infrastructure teams need a documented switching unit.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for private customer sites where your infrastructure teams need a documented switching unit.
 
 One question: when a private-segment site needs switching, who sources it - and would a value PoE line be worth keeping on file?
 
@@ -258,4 +258,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Michiel Visser](https://www.linkedin.com/in/michiel-visser-a0720b81)(既有证据链接,来源:档案/联络核验)
 - **中国进口与管制**:国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

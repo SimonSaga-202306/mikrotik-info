@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — JOTT 科隆可信 SMB：网络首块随单 value 件（$165 锚点一致）；Klaus 具名；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — JOTT 科隆可信 SMB：网络首块随单 value 件（$180 锚点一致）；Klaus 具名；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -49,7 +49,7 @@ updated: 2026-09-28
 
 - 【事实】JOTT Consulting GmbH（德国科隆）：SMB IT 服务商——服务器与网络（Kernkompetenz “Server & Netzwerke”首块）/Hyper-V 虚拟化/网络安全/服务器与服务监控/云/合规；**Klaus Jettkant 具名 掌门**（官网图片文件署名）；价值观：如同伴级别、被信任无商业私利（“unseren Empfehlungen vertrauen können ohne geschäftlichen Eigennutz”）
 - 【推断】上门级 SMB 服务信任文化+网络首块：随单接入件价值位对口；合规线=文档完整度敏感
-- 【假设】“中小企业自解小问题”赋能自述=客户群深度 SMB，预算克制——$165 位天然
+- 【假设】“中小企业自解小问题”赋能自述=客户群深度 SMB，预算克制——$180 位天然
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -81,11 +81,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（顾问项目接入层对照）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：一份德文对照：24 口 PoE++ 与现用件规格/成本对照+质保，老板看得懂的账。
 - **要问的问题**：客户项目的接入层现在配什么？
 - **随附证明**：规格对照 + 一页报价 + 质保说明（德文）。
@@ -165,7 +165,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | JOTT 科隆可信 SMB：网络首块随单 value 件（$165 锚点一致）；Klaus 具名 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | JOTT 科隆可信 SMB：网络首块随单 value 件（$180 锚点一致）；Klaus 具名 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -223,7 +223,7 @@ Hi Klaus,
 
 JOTT runs on something rare in this trade: customers who trust a recommendation without suspecting commercial self-interest. That is the kind of table I want our hardware to deserve a place on.
 
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, hardware watchdog) with complete CE documentation. Reference: $165 USD EXW - an honest value line for the networks behind your Cologne SMB clients.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, hardware watchdog) with complete CE documentation. Reference: $180 USD EXW - an honest value line for the networks behind your Cologne SMB clients.
 
 One question: in your Server-&-Networks projects, which switch brand do you put behind the access layer today - and would a documented value alternative be worth one bench test?
 

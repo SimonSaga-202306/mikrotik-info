@@ -14,7 +14,7 @@ decision_speed: fast
 price_sensitivity: high
 volume_potential: 1  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — World Technology di Luigi Boi 意个体（无站 tiscali 域箱）：SMB 随身件缝低密一针（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — World Technology di Luigi Boi 意个体（无站 tiscali 域箱）：SMB 随身件缝低密一针（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,7 +82,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 留档
 
@@ -113,7 +113,7 @@ updated: 2026-09-28
 - **①背景再核**：tiscali 域邮箱|CSV 电话留证
 - **②芯片/型号**：—
 - **③KP 深挖**：—
-- **④Saga 对标**：STC-424 低密供位（$165 锚点一致）
+- **④Saga 对标**：STC-424 低密供位（$180 锚点一致）
 - **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -139,7 +139,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | World Technology di Luigi Boi 意个体（无站 tiscali 域箱）：SMB 随身件缝低密一针（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | World Technology di Luigi Boi 意个体（无站 tiscali 域箱）：SMB 随身件缝低密一针（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -200,7 +200,7 @@ Hi World Technology,
 
 Small firms win by keeping every project quote lean. If you ever need a documented 24-port PoE access unit for a budget-driven customer site, here is one honest option.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: would a documented value PoE unit ever be useful for your smaller sites?
 

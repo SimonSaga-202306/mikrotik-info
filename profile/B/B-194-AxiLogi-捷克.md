@@ -73,7 +73,7 @@
 - 「AxiLogi Master Distributors Pilsen sales@axilogi.cz」 — https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)
+- 参考 P1: `STC-424XGGPM-280W` — 光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)
 - 第一问: 你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?
 - 标签: 捷克|比尔森|光伏+弱电双驱|Master
 
@@ -83,7 +83,7 @@ Hi AxiLogi team,
 
 Photovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.
 
 One question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?
 

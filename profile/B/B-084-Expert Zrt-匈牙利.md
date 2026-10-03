@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Budapest |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@
 - 「CSV:MikroTik 官方分销 Master+VAD;Budapest;network@expert.hu」 — 客户名单_反向信号_2026-09.csv
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)
+- 参考 P1: `STC-424XGGPM-280W` — 布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)
 - 第一问: 你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
 - 标签: 匈牙利|布达佩斯|Master+VAD|老牌
 
@@ -82,7 +82,7 @@ Hi Expert team,
 
 A MikroTik Master VAD in Budapest - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
 
 If not a fit, one line and I close the loop.
 

@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公立院校（教授个人顾问线）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — CS Edu Idet 机构箱行（Kajetan 同 A-243 主体）：MTCSWE 对照单元（$165 锚点一致）；错峰注免同日双发；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — CS Edu Idet 机构箱行（Kajetan 同 A-243 主体）：MTCSWE 对照单元（$180 锚点一致）；错峰注免同日双发；—（合作探询，无量产报价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -90,7 +90,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 一封兼致两位教练（与 A-243 互注）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：只发一封到 biuro@：抬头兼致 Kajetan 与 Tadeusz，邀一台 24 口 PoE++ 演示机自用体验；公共补贴课渠道不涉及。
 - **要问的问题**：两位自己的实验/工程项目用得上 24 口 PoE 演示机吗？
 - **随附证明**：波兰语一页规格+演示机条款。
@@ -144,7 +144,7 @@ updated: 2026-09-28
 - **①背景再核**：PL 同主体机构行（官网一手核）
 - **②芯片/型号**：MikroTik 生态
 - **③KP 深挖**：biuro@（Kajetan）
-- **④Saga 对标**：课程对照（$165 锚点一致，教具角）——错峰执行
+- **④Saga 对标**：课程对照（$180 锚点一致，教具角）——错峰执行
 - **⑤在乎与偏好**：证书完整/资助流量
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -170,9 +170,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | CS Edu Idet 机构箱行（Kajetan 同 A-243 主体）：MTCSWE 对照单元（$165 锚点一致）；错峰注免同日双发 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | CS Edu Idet 机构箱行（Kajetan 同 A-243 主体）：MTCSWE 对照单元（$180 锚点一致）；错峰注免同日双发 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -231,7 +231,7 @@ Hi Kajetan, hi CS Edu Idet team,
 
 Two instructors carrying the full ten MikroTik certifications each, EU-funded courses running across Podkarpacie - that is infrastructure for engineers. Full honesty: we build PoE switches, and your classroom is MikroTik's by design. (I also wrote to Tadeusz directly - one school, one conversation.)
 
-Where we might serve: in the MTCSWE module, some trainers add a documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) suits that bench.
+Where we might serve: in the MTCSWE module, some trainers add a documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) suits that bench.
 
 One question: does your lab use comparison units, or do you keep it strictly single-vendor?
 
@@ -265,4 +265,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Kajetan Tadra · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Kajetan%20Tadra)(搜索链接,点入后核职位再加;来源:联络核验)
 - **中国进口与管制**:国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -35,7 +35,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 双守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "私营 KMU 托管段的 value 二槽（双白金前句+KRITIS 守界句）",
      "question": "私营托管项目有价值替补槽吗？",
      "proof": "规格页"
@@ -60,7 +60,7 @@
      "①背景再核": "DE 汉堡 MSP（官网+CSV 双核）",
      "②芯片/型号": "双 Platinum",
      "③KP 深挖": "vertrieb@",
-     "④Saga 对标": "二槽窄针（$165 锚点一致，低密）",
+     "④Saga 对标": "二槽窄针（$180 锚点一致，低密）",
      "⑤在乎与偏好": "汉萨商人合规/诚信",
      "⑥SWOT": "S 成熟 / W 双白金+KRITIS / O 私营段 / T 双大牌"
     },
@@ -84,7 +84,7 @@
     "替补机制",
     "占比"
    ],
-   "email": "Hallo EDV-Partner team,\n\nThirty-one years, 1,635 customers, and two Platinum badges side by side - LANCOM and Allied Telesis. Two honest boundary sentences: those Platinum lines keep their place, and anything in your KRITIS audit clientele stays on its certified paths. This is about the private KMU estate only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for private KMU sites where budget decides.\n\nOne question: in the private KMU segment, does a documented value PoE tier exist beside your flagship lines?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo EDV-Partner team,\n\nThirty-one years, 1,635 customers, and two Platinum badges side by side - LANCOM and Allied Telesis. Two honest boundary sentences: those Platinum lines keep their place, and anything in your KRITIS audit clientele stays on its certified paths. This is about the private KMU estate only.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for private KMU sites where budget decides.\n\nOne question: in the private KMU segment, does a documented value PoE tier exist beside your flagship lines?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does a documented value PoE tier exist in your private KMU segment?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -124,7 +124,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 双角",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "其 DC/接入侧和客户现场两侧的 value 交换件",
      "question": "自用与客户件都由谁供？",
      "proof": "规格页"
@@ -149,7 +149,7 @@
      "①背景再核": "DE 系统屋+运营（官网一手核）",
      "②芯片/型号": "AT Resell",
      "③KP 深挖": "contact@（Pauls）",
-     "④Saga 对标": "双角（$165 锚点一致）",
+     "④Saga 对标": "双角（$180 锚点一致）",
      "⑤在乎与偏好": "小而全/光纤工艺",
      "⑥SWOT": "S 双角 / W 小 / O 自用+随单 / T —"
     },
@@ -173,7 +173,7 @@
     "现供",
     "体况"
    ],
-   "email": "Hallo AlphaCron team,\n\nA system house with its own datacenter, DSL/Funk access lines, LWL splicing and network video on top - you are one of the few small houses that both operates infrastructure and installs it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - for your own racks and access nodes, and for customer sites alongside.\n\nOne question: where does switching for your own infrastructure and customer installs come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo AlphaCron team,\n\nA system house with its own datacenter, DSL/Funk access lines, LWL splicing and network video on top - you are one of the few small houses that both operates infrastructure and installs it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for your own racks and access nodes, and for customer sites alongside.\n\nOne question: where does switching for your own infrastructure and customer installs come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Where does switching for your own infrastructure and customer installs come from today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -213,7 +213,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 随身窄位",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "SMB 客户现场随身 value 件（诚实角）",
      "question": "客户现场交换件现供？",
      "proof": "规格页"
@@ -238,7 +238,7 @@
      "①背景再核": "DE 个体店（官网一手核）",
      "②芯片/型号": "多牌",
      "③KP 深挖": "info@",
-     "④Saga 对标": "随身窄位（$165 锚点一致，低密）",
+     "④Saga 对标": "随身窄位（$180 锚点一致，低密）",
      "⑤在乎与偏好": "直接/个人信任",
      "⑥SWOT": "S 对口 / W 极小 / O 随身 / T —"
     },
@@ -261,7 +261,7 @@
    "unknowns": [
     "现供"
    ],
-   "email": "Hallo Sebastian,\n\nTwenty-plus years advising regional SMBs - hardware, software, networks built and administered by your own hands.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a documented value unit for the client sites you set up.\n\nOne question: when a client site needs a switch, what do you supply today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo Sebastian,\n\nTwenty-plus years advising regional SMBs - hardware, software, networks built and administered by your own hands.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a documented value unit for the client sites you set up.\n\nOne question: when a client site needs a switch, what do you supply today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "When a client site needs a switch, what do you supply today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -301,7 +301,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · Voice 随件",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "电话+网络项目的 value PoE 件（Voice VLAN 叙事）",
      "question": "SMB 项目交换件现供？",
      "proof": "规格页"
@@ -326,7 +326,7 @@
      "①背景再核": "DE 区域通信店（官网一手核）",
      "②芯片/型号": "Terra/Securepoint",
      "③KP 深挖": "info@",
-     "④Saga 对标": "随身窄位（$165 锚点一致，低密）",
+     "④Saga 对标": "随身窄位（$180 锚点一致，低密）",
      "⑤在乎与偏好": "门店信誉/本地",
      "⑥SWOT": "S 对口 / W 小 / O 随身 / T 大牌"
     },
@@ -350,7 +350,7 @@
     "现供",
     "IT 负责人"
    ],
-   "email": "Hallo H&M electronics team,\n\nThirty years of communication technology in Dillingen - phone systems up to 600 extensions, and an IT side carrying Terra and Securepoint hardware. Where IP telephony enters a site, Voice VLANs and PoE follow.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice-VLAN ready, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit for the SMB phone-plus-network jobs you install.\n\nOne question: when a phone-and-network project needs switching, what do you supply today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo H&M electronics team,\n\nThirty years of communication technology in Dillingen - phone systems up to 600 extensions, and an IT side carrying Terra and Securepoint hardware. Where IP telephony enters a site, Voice VLANs and PoE follow.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice-VLAN ready, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for the SMB phone-plus-network jobs you install.\n\nOne question: when a phone-and-network project needs switching, what do you supply today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "When a phone-and-network project needs switching, what do you supply today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -390,7 +390,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 双角",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "SMB 网络的 value 盒+工业线对照（Hirschmann 能力角诚实句：不挖其工业旗舰，在价差位下注）",
      "question": "SMB 项目交换件现供+工业项目有价值槽吗？",
      "proof": "规格页"
@@ -415,7 +415,7 @@
      "①背景再核": "DE Burgwedel 系统店（官网一手核）",
      "②芯片/型号": "Hirschmann 资质",
      "③KP 深挖": "info@（Ingo）",
-     "④Saga 对标": "双角（$165 锚点一致）",
+     "④Saga 对标": "双角（$180 锚点一致）",
      "⑤在乎与偏好": "资质自证/工程完整",
      "⑥SWOT": "S 资质对口 / W 个体 / O 双角 / T 大牌"
     },
@@ -439,7 +439,7 @@
     "现供",
     "工业占比"
    ],
-   "email": "Hallo Herr Seidenberg,\n\nYour qualifications list caught my eye: Intel Gold, Synology Gold - and the Hirschmann competence center for industrial Ethernet and network management, which few small houses hold. Full honesty up front: we build PoE switches, so your industrial flagship world stays untouched; this is about value tiers where the flagships overshoot.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for your industrial video projects. Reference: $165 USD EXW (2026-09-29).\n\nOne question: for SMB networks and industrial monitoring jobs, do you keep a value tier - and would you test one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo Herr Seidenberg,\n\nYour qualifications list caught my eye: Intel Gold, Synology Gold - and the Hirschmann competence center for industrial Ethernet and network management, which few small houses hold. Full honesty up front: we build PoE switches, so your industrial flagship world stays untouched; this is about value tiers where the flagships overshoot.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for your industrial video projects. Reference: $180 USD EXW (2026-09-29).\n\nOne question: for SMB networks and industrial monitoring jobs, do you keep a value tier - and would you test one unit?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do you keep a value switching tier for SMB and industrial monitoring jobs?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -479,7 +479,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 通道角度",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "供应链服务角度（EOL 填补/kit 组件/客户二供线）递文档化 value 盒",
      "question": "你的 EOL/Kit 通道接受文档化 value 件吗？",
      "proof": "规格页+供应声明"
@@ -504,7 +504,7 @@
      "①背景再核": "DE Erlangen 双柱（官网一手核）",
      "②芯片/型号": "供应链服务",
      "③KP 深挖": "info@",
-     "④Saga 对标": "通道角度（$165 锚点一致+EOL logic）",
+     "④Saga 对标": "通道角度（$180 锚点一致+EOL logic）",
      "⑤在乎与偏好": "供货安全/透明度",
      "⑥SWOT": "S 通道同频 / W 其内控严 / O 入架 / T —"
     },
@@ -528,7 +528,7 @@
     "入架机制",
     "责权"
    ],
-   "email": "Hallo MERLIN team,\n\nYour industrial-solutions pillar reads like our business from the buyer's side: LTB and EOL support, authenticity testing, kitting, JIT, customs logistics. You keep components available when normal supply chains fail - that is exactly where a documented supplier earns its place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, traceable to the unit. Reference: $165 USD EXW (2026-09-29). As an EOL-filler, a kit component, or a second-source line in your supply-chain services.\n\nOne question: what does a component need to show to enter your supply-chain catalogue - and would one evaluation unit start that process?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hallo MERLIN team,\n\nYour industrial-solutions pillar reads like our business from the buyer's side: LTB and EOL support, authenticity testing, kitting, JIT, customs logistics. You keep components available when normal supply chains fail - that is exactly where a documented supplier earns its place.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, traceable to the unit. Reference: $180 USD EXW (2026-09-29). As an EOL-filler, a kit component, or a second-source line in your supply-chain services.\n\nOne question: what does a component need to show to enter your supply-chain catalogue - and would one evaluation unit start that process?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "What does a component need to show to enter your supply-chain catalogue?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -568,7 +568,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 守界句",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "零售/智能办公/私营医疗段的 value 窄位（教育/智慧城市守界前句）",
      "question": "私营项目有价值交换槽吗？",
      "proof": "规格页+目录页"
@@ -593,7 +593,7 @@
      "①背景再核": "FR 知名集成商（官网一手核）",
      "②芯片/型号": "AT Resell",
      "③KP 深挖": "contact@",
-     "④Saga 对标": "窄位（$165 锚点一致，低密）",
+     "④Saga 对标": "窄位（$180 锚点一致，低密）",
      "⑤在乎与偏好": "品牌/合规",
      "⑥SWOT": "S 板块对口 / W 公共浓 / O 私营段 / T 大牌"
     },
@@ -617,7 +617,7 @@
     "替补机制",
     "占比"
    ],
-   "email": "Bonjour CFI team,\n\nCompagnie Française d'Informatique - integrator across education, retail, healthcare, smart office and smart city. One boundary sentence: your education and smart-city engagements stay on their established public paths; this concerns the private boards only - retail, smart office, private healthcare.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for private projects where budget decides.\n\nOne question: on the private boards, does a documented value PoE tier exist?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Bonjour CFI team,\n\nCompagnie Française d'Informatique - integrator across education, retail, healthcare, smart office and smart city. One boundary sentence: your education and smart-city engagements stay on their established public paths; this concerns the private boards only - retail, smart office, private healthcare.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for private projects where budget decides.\n\nOne question: on the private boards, does a documented value PoE tier exist?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "On the private boards, does a documented value PoE tier exist?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -657,7 +657,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 项目正口",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "楼宇 WiFi/监控/门禁项目的 value PoE 随单",
      "question": "楼宇项目 PoE 盒现供？",
      "proof": "规格页"
@@ -682,7 +682,7 @@
      "①背景再核": "FR 普罗旺斯集成商（官网一手核）",
      "②芯片/型号": "多牌装备",
      "③KP 深挖": "contact@",
-     "④Saga 对标": "随单正口（$165 锚点一致）",
+     "④Saga 对标": "随单正口（$180 锚点一致）",
      "⑤在乎与偏好": "区域服务/smart building 叙事",
      "⑥SWOT": "S 对口 / W 区域 / O 随单 / T —"
     },
@@ -706,7 +706,7 @@
     "现供",
     "项量"
    ],
-   "email": "Bonjour Delta Sertec team,\n\nSmart technologies for buildings across PACA - structured cabling, Wi-Fi access points, video protection, access control. Every AP and every camera you install lands on a PoE switch.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit for private building projects.\n\nOne question: where do the PoE switches behind your APs and cameras come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Bonjour Delta Sertec team,\n\nSmart technologies for buildings across PACA - structured cabling, Wi-Fi access points, video protection, access control. Every AP and every camera you install lands on a PoE switch.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for private building projects.\n\nOne question: where do the PoE switches behind your APs and cameras come from today?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Where do the PoE switches behind your APs and cameras come from today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -834,7 +834,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 窄针",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "商业客户长尾的 value 二轨窄针（公共段守界前句）",
      "question": "商业项目里 value 交换槽在吗？",
      "proof": "规格页+目录页"
@@ -859,7 +859,7 @@
      "①背景再核": "FR 超大集成/运营（官网+CSV 双核）",
      "②芯片/型号": "AT Elite",
      "③KP 深挖": "contact@",
-     "④Saga 对标": "窄针低密（$165 锚点一致）",
+     "④Saga 对标": "窄针低密（$180 锚点一致）",
      "⑤在乎与偏好": "大盘框架/合规",
      "⑥SWOT": "S 体量 / W 集中 / O 窄 / T 大牌"
     },
@@ -883,7 +883,7 @@
     "替补机制",
     "责权"
    ],
-   "email": "Bonjour NXO team,\n\nIntegrator and operator at national scale - digital infrastructures, communications, cybersecurity, operator services. One boundary sentence: your public-sector engagements stay on their established paths; this is a commercial-side question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value tier for commercial projects in the long tail where budgets close deals.\n\nOne question: on the commercial side, does a documented value PoE tier exist - and who owns the networking catalogue?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Bonjour NXO team,\n\nIntegrator and operator at national scale - digital infrastructures, communications, cybersecurity, operator services. One boundary sentence: your public-sector engagements stay on their established paths; this is a commercial-side question.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for commercial projects in the long tail where budgets close deals.\n\nOne question: on the commercial side, does a documented value PoE tier exist - and who owns the networking catalogue?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does a documented value PoE tier exist on your commercial side?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",

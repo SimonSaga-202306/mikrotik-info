@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），三星重点
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — NetHighTech 里斯本 AI 软件屋+IT Academy（MikroTik 课程）：学院对照单元（$165 锚点一致）；训练通道判；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — NetHighTech 里斯本 AI 软件屋+IT Academy（MikroTik 课程）：学院对照单元（$180 锚点一致）；训练通道判；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -88,7 +88,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 表单/电话核联络+演示机位
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ 演示机可选）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：先经官网表单一句核实对接人；随后一封（葡/英）只邀其 ISP/WISP PoC 环境与 MikroTik 课程实验自用演示机。
 - **要问的问题**：OmniEdge 的 PoC 演示环境用得上高性价比 24 口 PoE 接入层吗？
 - **随附证明**：一页规格（葡/英）。
@@ -142,7 +142,7 @@ updated: 2026-09-28
 - **①背景再核**：PT 软件+学院（官网一手核）
 - **②芯片/型号**：自家 AI 软件
 - **③KP 深挖**：gmail 口
-- **④Saga 对标**：学院对照（$165 锚点一致，教具角）
+- **④Saga 对标**：学院对照（$180 锚点一致，教具角）
 - **⑤在乎与偏好**：软件 ROI/集成
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -168,9 +168,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | NetHighTech 里斯本 AI 软件屋+IT Academy（MikroTik 课程）：学院对照单元（$165 锚点一致）；训练通道判 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | NetHighTech 里斯本 AI 软件屋+IT Academy（MikroTik 课程）：学院对照单元（$180 锚点一致）；训练通道判 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -229,7 +229,7 @@ Hi NetHighTech team,
 
 Enterprise AI platforms - including a carrier-grade BNG for ISPs and WISPs - plus an IT Academy teaching Cisco, MikroTik and Linux. You live at the software layer; we live at the hardware access edge, a clean adjacency.
 
-Full honesty: we build PoE switches. Where we might serve is your Academy bench: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a comparison unit in network labs.
+Full honesty: we build PoE switches. Where we might serve is your Academy bench: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a comparison unit in network labs.
 
 One question: does your Academy run comparison hardware in labs, or do you keep the bench single-course focused?
 

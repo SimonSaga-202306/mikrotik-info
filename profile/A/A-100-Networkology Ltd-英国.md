@@ -14,7 +14,7 @@ decision_speed: fast
 price_sensitivity: high
 volume_potential: 1  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$180 锚点一致）；tenders@ 不动用；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（私营客户段接入层，合规划线）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：开场即合规划线：我们的货只供商业/私营段，再递 24 口接入层的规格与同档对照——尊重他的监管敏感度。
 - **要问的问题**：私营客户项目里接入层有没有成本敏感段？（附适用边界声明）
 - **随附证明**：适用边界声明 + 规格对照 + 商业段交付说明（英文）。
@@ -175,7 +175,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$165 锚点一致）；tenders@ 不动用 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Networkology 英高监管 IT（G-Cloud/DoS 红线）：私营段 value PoE+边界明示（$180 锚点一致）；tenders@ 不动用 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -237,7 +237,7 @@ Hi Networkology team,
 
 "Engineering Excellence" for highly regulated environments is a reputation you protect every day - respected.
 
-To be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $165 USD EXW.
+To be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $180 USD EXW.
 
 One question: in your private-sector builds, who supplies the PoE access layer today?
 

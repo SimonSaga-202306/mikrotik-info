@@ -73,7 +73,7 @@
 - 「Mikrotik Enterprise Data server 20 NvVMe 2x100G 4x25G 4x10G…RDS2216-2XG-4S+4XS-2XQ…CCR2004-16G-2S+」 — https://www.edox.com/Webshop/advancedSearchResults.aspx?catfilter=%7C_GENERAL.MANUFACTURER%3D@MKT
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 法 Master 纯间接商的 value PoE 档随单位(RDS 深谱对照寸 fond)
+- 参考 P1: `STC-424XGGPM-280W` — 法 Master 纯间接商的 value PoE 档随单位(RDS 深谱对照寸 fond)
 - 第一问: 你们承接其集成商 BOM 里 PoE 接层现随哪单发？2 供位考虑？
 - 标签: 法国|阿尔萨斯|Master|纯间接100%
 
@@ -83,7 +83,7 @@ Hi EDOX team,
 
 A hundred-percent indirect wholesale Master with a MikroTik shelf deep enough to include the RDS2216 enterprise tier - on-site you are building the business structure for B2B integrators, not for shelf browsing.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - the value PoE stocking line your B2B integrators can pull on together with the MikroTik shelf.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - the value PoE stocking line your B2B integrators can pull on together with the MikroTik shelf.
 
 One question: downstream inside your integrator BOMs, which PoE access switch is riding alongside the MikroTik gear today - and is there a slot for a documented second source?
 

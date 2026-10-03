@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Burgas |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)」 — https://www.riva.bg/mikrotik/show/all.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 官方 VAD 现货谱的商用 PoE 管理栏
+- 参考 P1: `STC-424XGGPM-280W` — 官方 VAD 现货谱的商用 PoE 管理栏
 - 第一问: 你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?
 - 标签: 保加利亚|Burgas|官方VAD|MikroTik现货谱
 
@@ -83,7 +83,7 @@ Hi Riva team,
 
 An official MikroTik VAD in Burgas with 125 items in local stock and a service branch behind it - your wireless shelf is deep, and the commercial PoE switching line beside it is where resellers quietly compare slots and prices.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.
 
 One question: beside your MikroTik stock, which 24-port PoE managed switch fills the value slot for your resellers today?
 

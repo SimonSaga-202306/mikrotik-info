@@ -73,7 +73,7 @@
 - 「DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA」 — https://doxyterra.md/ro/page/keychron-in-moldova/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 多牌电商企业双线谱的 value PoE 管理档
+- 参考 P1: `STC-424XGGPM-280W` — 多牌电商企业双线谱的 value PoE 管理档
 - 第一问: 你们的企业项目单里,24 口 PoE 管理型交换现随哪家?
 - 标签: 摩尔多瓦|Chișinău|多牌电商|企业方案部
 
@@ -83,7 +83,7 @@ Hi DOXYTERRA team,
 
 An official-distributor portfolio built since 1996, plus a corporate-solutions department - and the Keychron-exclusive move says you pick up promising brands early. Behind your corporate and e-commerce orders, managed PoE switching is one of the quiet repeat lines.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your corporate shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your corporate shelf, white-label friendly.
 
 One question: in your corporate project orders, which 24-port managed PoE switch do you supply today?
 

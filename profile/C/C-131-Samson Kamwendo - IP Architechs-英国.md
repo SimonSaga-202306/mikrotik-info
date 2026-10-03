@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCUME |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGM（Saga） |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | ★★★ 【升级：这家是跨国大所，不是普通顾问】自述「全球最大的 MikroTik 咨询公司之一，3 国设办公室、6 大洲有在建项目，客户含财富 500 强与上市公司，提供全球 24/7 支持」。公司内已知 3 位认证顾问：英国 Samson Kamwendo（MTCNA+MTCUME）、美国 Thomas Murdock（+1-855-645-7684 / thomas.murdock@iparchitechs.com，9 证）、Abraham Rios Velez（+1 303 590 9940 / abraham.rios@gmail.com，6 证，波多黎各出身，服务西语市场；西语站 es.iparchitechs.com）。★**交换专长（逐条列出）：VLAN（Q-in-Q、s/c tag、重写/翻译）、生成树、LACP 与绑定、GPON、二层传输设计、二层冗余**。无线含体育场/大型场馆；服务含 IPTV 与实时视频、SIP/H.323。→ 一家公司同时覆盖欧美与拉美 【2026-09-28 R50 去重提示】与 A-273 （同域名 iparchitechs.com） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-131 |

@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、PoE/监控/门禁、工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Infinite Technology 都柏林 MSP（1997/100 客户）：托管现场随单正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Infinite Technology 都柏林 MSP（1997/100 客户）：托管现场随单正口（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,18 +83,18 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · MSP 接入层第二来源一页
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：给 MSP 客户项目的 24 口 PoE 接入层第二来源（供货连续性+保修），一封到位。
 - **要问的问题**：客户项目接入层目前有固定的第二来源位吗？
 - **随附证明**：一页报价+规格（英）+ 保修条款。
 
 ### 第 2 次跟进 · Perle 类目旁位：高功率 PoE++/万兆上联
 
-- **推什么**：STC-424XGGPM-440W（Saga）（万兆上联通配）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（万兆上联通配）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：不碰 Perle 主类：提供 90W/口 PoE++ 与万兆上联通配位（其常见 SKU 之外的空档）。
 - **要问的问题**：高功率户外/园区 PoE 需求出现时通常配什么？
 - **随附证明**：PoE++ 规格页 + 对比表（英）。
@@ -144,7 +144,7 @@ updated: 2026-09-28
 - **①背景再核**：IE MSP（官网一手核）
 - **②芯片/型号**：云/安全栈
 - **③KP 深挖**：sales@
-- **④Saga 对标**：随单正口（$165 锚点一致）
+- **④Saga 对标**：随单正口（$180 锚点一致）
 - **⑤在乎与偏好**：响应快/留存信任
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -170,7 +170,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Infinite Technology 都柏林 MSP（1997/100 客户）：托管现场随单正口（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Infinite Technology 都柏林 MSP（1997/100 客户）：托管现场随单正口（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -227,7 +227,7 @@ Hi Infinite Technology team,
 
 Since 1997 you have been the managed-services provider Irish businesses call first - 24/7 support, cloud, cybersecurity. Every managed site you win eventually needs a network closet refresh.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29).
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29).
 
 One question: when a managed customer site needs switching, where do you source it today - and would a documented value PoE line earn a shelf slot?
 

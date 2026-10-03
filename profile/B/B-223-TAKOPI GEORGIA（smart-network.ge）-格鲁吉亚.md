@@ -73,7 +73,7 @@
 - 「SMART NETWORK GEORGIA Master Distributors Tbilisi, Georgia Tel: +995 558 654 383」 — http://www.dyalkom.com/buy.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 集团级 VAD 的 stocking SKU 商用 PoE 档(STI-288GP 备位)
+- 参考 P1: `STC-424XGGPM-280W` — 集团级 VAD 的 stocking SKU 商用 PoE 档(STI-288GP 备位)
 - 第一问: 集团谱里,24 口 PoE 管理型的 value stocking 档谁来填?(采购是国别还是集团统一?)
 - 标签: 格鲁吉亚|Tbilisi|Takopi集团|多国铺|smart-network双站
 
@@ -83,7 +83,7 @@ Hi Takopi team,
 
 Takopi Group across Eastern Europe, the Caucasus and Central Asia since 2007 - a 25-brand line card from MikroTik networking to Tiandy cameras and Grandstream phones, with local stock discipline in Tbilisi. Groups like yours run on documented stocking SKUs that sell across borders.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit, one SKU that can serve your Georgian, Caucasus and Central Asian desks, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit, one SKU that can serve your Georgian, Caucasus and Central Asian desks, white-label friendly.
 
 One question: in your line-up, who fills the 24-port PoE value slot today - and does group purchasing sit with the local desk or centrally?
 

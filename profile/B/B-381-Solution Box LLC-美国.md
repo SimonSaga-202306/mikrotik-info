@@ -72,7 +72,7 @@
 - 「Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner」 — https://www.crunchbase.com/organization/solution-box
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档
+- 参考 P1: `STC-424XGGPM-280W` — 大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档
 - 第一问: Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？
 - 标签: 美国|迈阿密|牌墙通廊|拉美两站
 
@@ -82,7 +82,7 @@ Hi Eduardo,
 
 Twenty years, a genuine brand wall (HPE / Ubiquiti / Cambium / MikroTik…), and Costa Rica + Honduras on the map - Solution Box is one of the few Miami corridor distributors with an actual Latin presence.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.
 
 One question: across your Costa Rica and Honduras lines, is the PoE access shelf Ubiquiti-locked or genuinely multi-source? Where does the price anchor sit today?
 

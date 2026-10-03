@@ -14,7 +14,7 @@ decision_speed: fast
 price_sensitivity: high
 volume_potential: 1  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — CAMELI SAT 意 Donoratico（AT 名录主体；camelisat.it HTTP500+无邮箱）：建档不出信（站挂型同 Young 先例）；用户补邮箱→启用候选供位；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — CAMELI SAT 意 Donoratico（AT 名录主体；camelisat.it HTTP500+无邮箱）：建档不出信（站挂型同 Young 先例）；用户补邮箱→启用候选供位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,7 +83,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 电话人工核活
 
@@ -94,7 +94,7 @@ updated: 2026-09-28
 
 ### 第 2 次跟进 · 核活后：24 口短件
 
-- **推什么**：STC-424DGGPM-440W（Saga）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：意语一页报价+RMA。
 - **要问的问题**：监控/网络项目的接入层谁供？
 - **随附证明**：一页报价（意）。
@@ -138,7 +138,7 @@ updated: 2026-09-28
 - **①背景再核**：https://camelisat.it|HTTP500 注|CSV 9-23 存 AT 名录+工商电话双证
 - **②芯片/型号**：—
 - **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$165 锚点一致）
+- **④Saga 对标**：候选供位（$180 锚点一致）
 - **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -164,7 +164,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | CAMELI SAT 意 Donoratico（AT 名录主体；camelisat.it HTTP500+无邮箱）：建档不出信（站挂型同 Young 先例）；用户补邮箱→启用候选供位 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | CAMELI SAT 意 Donoratico（AT 名录主体；camelisat.it HTTP500+无邮箱）：建档不出信（站挂型同 Young 先例）；用户补邮箱→启用候选供位 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -221,7 +221,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424DGGPM-280W 候选供位。
+【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

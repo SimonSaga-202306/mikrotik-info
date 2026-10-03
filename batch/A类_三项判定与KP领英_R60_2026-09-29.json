@@ -8,7 +8,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随;政府层谨慎);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-002": {
   "kp": {
@@ -19,7 +19,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随;政府层谨慎);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-003": {
   "kp": {
@@ -30,7 +30,7 @@
   },
   "china_import_control": "国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-004": {
   "kp": {
@@ -63,7 +63,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-007": {
   "kp": {
@@ -85,7 +85,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-009": {
   "kp": {
@@ -118,7 +118,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-012": {
   "kp": {
@@ -129,7 +129,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-013": {
   "kp": {
@@ -140,7 +140,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-014": {
   "kp": {
@@ -151,7 +151,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-015": {
   "kp": {
@@ -162,7 +162,7 @@
   },
   "china_import_control": "国别档位 低(亲华倾向强;华为巴尔干枢纽);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-016": {
   "kp": {
@@ -173,7 +173,7 @@
   },
   "china_import_control": "国别档位 低(亲华倾向强;华为巴尔干枢纽);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-017": {
   "kp": {
@@ -184,7 +184,7 @@
   },
   "china_import_control": "国别档位 低(亲华倾向强;华为巴尔干枢纽);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-018": {
   "kp": {
@@ -228,7 +228,7 @@
   },
   "china_import_control": "国别档位 低(政治摇摆、Cosco 比港;华为存量大);档案信号: 在卖中国品牌 Huawei/华为 → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-022": {
   "kp": {
@@ -239,7 +239,7 @@
   },
   "china_import_control": "国别档位 低(政治摇摆、Cosco 比港;华为存量大);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-023": {
   "kp": {
@@ -294,7 +294,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-028": {
   "kp": {
@@ -305,7 +305,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-029": {
   "kp": {
@@ -327,7 +327,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-031": {
   "kp": {
@@ -360,7 +360,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-034": {
   "kp": {
@@ -393,7 +393,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-037": {
   "kp": {
@@ -404,7 +404,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-038": {
   "kp": {
@@ -415,7 +415,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-039": {
   "kp": {
@@ -437,7 +437,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-041": {
   "kp": {
@@ -448,7 +448,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-042": {
   "kp": {
@@ -470,7 +470,7 @@
   },
   "china_import_control": "国别档位 中(NUKIB 2018.12 警示;政府网规避,企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-044": {
   "kp": {
@@ -525,7 +525,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-049": {
   "kp": {
@@ -536,7 +536,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-050": {
   "kp": {
@@ -558,7 +558,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-052": {
   "kp": {
@@ -591,7 +591,7 @@
   },
   "china_import_control": "国别档位 高(PTS 2020 全面禁华为 5G;政治偏冷);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-055": {
   "kp": {
@@ -646,7 +646,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-060": {
   "kp": {
@@ -668,7 +668,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-062": {
   "kp": {
@@ -679,7 +679,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-063": {
   "kp": {
@@ -712,7 +712,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-066": {
   "kp": {
@@ -723,7 +723,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-067": {
   "kp": {
@@ -756,7 +756,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-070": {
   "kp": {
@@ -789,7 +789,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-073": {
   "kp": {
@@ -811,7 +811,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-075": {
   "kp": {
@@ -855,7 +855,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-079": {
   "kp": {
@@ -866,7 +866,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-080": {
   "kp": {
@@ -877,7 +877,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-081": {
   "kp": {
@@ -910,7 +910,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-084": {
   "kp": {
@@ -921,7 +921,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-085": {
   "kp": {
@@ -987,7 +987,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-091": {
   "kp": {
@@ -1031,7 +1031,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随;政府层谨慎);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-095": {
   "kp": {
@@ -1042,7 +1042,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-096": {
   "kp": {
@@ -1053,7 +1053,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-097": {
   "kp": {
@@ -1064,7 +1064,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-098": {
   "kp": {
@@ -2571,7 +2571,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-235": {
   "kp": {
@@ -2582,7 +2582,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-236": {
   "kp": {
@@ -2626,7 +2626,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-240": {
   "kp": {
@@ -2637,7 +2637,7 @@
   },
   "china_import_control": "国别档位 低(跟随 EU 但干预少);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-241": {
   "kp": {
@@ -2659,7 +2659,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-243": {
   "kp": {
@@ -2670,7 +2670,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-244": {
   "kp": {
@@ -2681,7 +2681,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-245": {
   "kp": {
@@ -2714,7 +2714,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-248": {
   "kp": {
@@ -2725,7 +2725,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);档案信号: 在卖中国品牌 Huawei → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-249": {
   "kp": {
@@ -2736,7 +2736,7 @@
   },
   "china_import_control": "国别档位 低(务实;NOS/MEO 有华为量);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-250": {
   "kp": {
@@ -2758,7 +2758,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-252": {
   "kp": {
@@ -2769,7 +2769,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-253": {
   "kp": {
@@ -2846,7 +2846,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-260": {
   "kp": {
@@ -2857,7 +2857,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-261": {
   "kp": {
@@ -2868,7 +2868,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-262": {
   "kp": {
@@ -2978,7 +2978,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-272": {
   "kp": {
@@ -3033,7 +3033,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-277": {
   "kp": {
@@ -3055,7 +3055,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-279": {
   "kp": {
@@ -3066,7 +3066,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-280": {
   "kp": {
@@ -3077,7 +3077,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-281": {
   "kp": {
@@ -3088,7 +3088,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-282": {
   "kp": {
@@ -3110,7 +3110,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-284": {
   "kp": {
@@ -3121,7 +3121,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-285": {
   "kp": {
@@ -3154,7 +3154,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-288": {
   "kp": {
@@ -3176,7 +3176,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-290": {
   "kp": {
@@ -3209,7 +3209,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-293": {
   "kp": {
@@ -3231,7 +3231,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-295": {
   "kp": {
@@ -3242,7 +3242,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-296": {
   "kp": {
@@ -3418,7 +3418,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-312": {
   "kp": {
@@ -3451,7 +3451,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-315": {
   "kp": {
@@ -3462,7 +3462,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-316": {
   "kp": {
@@ -3847,7 +3847,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-351": {
   "kp": {
@@ -3858,7 +3858,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-352": {
   "kp": {
@@ -3869,7 +3869,7 @@
   },
   "china_import_control": "国别档位 中(ANSSI 3A 授权制;企业交换机不限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-353": {
   "kp": {
@@ -3880,7 +3880,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);档案信号: 在卖中国品牌 Hikvision/Ruijie → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-354": {
   "kp": {
@@ -3913,7 +3913,7 @@
   },
   "china_import_control": "国别档位 低(政治摇摆、Cosco 比港;华为存量大);档案信号: 在卖中国品牌 Dahua/Hikvision/TP-Link → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-357": {
   "kp": {
@@ -3946,7 +3946,7 @@
   },
   "china_import_control": "国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-360": {
   "kp": {
@@ -3957,7 +3957,7 @@
   },
   "china_import_control": "国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-361": {
   "kp": {
@@ -3979,7 +3979,7 @@
   },
   "china_import_control": "国别档位 中(常规 EU);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-363": {
   "kp": {
@@ -4001,7 +4001,7 @@
   },
   "china_import_control": "国别档位 低(小国务实);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-365": {
   "kp": {
@@ -4034,7 +4034,7 @@
   },
   "china_import_control": "国别档位 中(EU 5G Toolbox 跟随;常规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-368": {
   "kp": {
@@ -4056,7 +4056,7 @@
   },
   "china_import_control": "国别档位 中(2021 禁华为 5G 法案;企业层自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-370": {
   "kp": {
@@ -4067,7 +4067,7 @@
   },
   "china_import_control": "国别档位 低(小国务实);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-371": {
   "kp": {
@@ -4100,7 +4100,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-374": {
   "kp": {
@@ -4122,7 +4122,7 @@
   },
   "china_import_control": "国别档位 中(同上);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-376": {
   "kp": {
@@ -4166,7 +4166,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-380": {
   "kp": {
@@ -4177,7 +4177,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-381": {
   "kp": {
@@ -4199,7 +4199,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-383": {
   "kp": {
@@ -4210,7 +4210,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-384": {
   "kp": {
@@ -4221,7 +4221,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-385": {
   "kp": {
@@ -4232,7 +4232,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随;政府层谨慎);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-386": {
   "kp": {
@@ -4254,7 +4254,7 @@
   },
   "china_import_control": "国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-388": {
   "kp": {
@@ -4276,7 +4276,7 @@
   },
   "china_import_control": "国别档位 中(EU 5G Toolbox 跟随;常规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-390": {
   "kp": {
@@ -4298,7 +4298,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-392": {
   "kp": {
@@ -4353,7 +4353,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-397": {
   "kp": {
@@ -4386,7 +4386,7 @@
   },
   "china_import_control": "国别档位 中(NUKIB 2018.12 警示;政府网规避,企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-400": {
   "kp": {
@@ -4408,7 +4408,7 @@
   },
   "china_import_control": "国别档位 中(亲欧转向;常规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-402": {
   "kp": {
@@ -4419,7 +4419,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随(NATO/EU 总部谨慎度略高));战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-403": {
   "kp": {
@@ -4430,7 +4430,7 @@
   },
   "china_import_control": "国别档位 中(ANSSI 3A 授权制;企业交换机不限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-404": {
   "kp": {
@@ -4441,7 +4441,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-405": {
   "kp": {
@@ -4463,7 +4463,7 @@
   },
   "china_import_control": "国别档位 高(PTS 2020 全面禁华为 5G;政治偏冷);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-407": {
   "kp": {
@@ -4474,7 +4474,7 @@
   },
   "china_import_control": "国别档位 低(中立;企业网完全开放);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-408": {
   "kp": {
@@ -4496,7 +4496,7 @@
   },
   "china_import_control": "国别档位 中(2021 禁华为 5G 法案;企业层自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-410": {
   "kp": {
@@ -4507,7 +4507,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-411": {
   "kp": {
@@ -4518,7 +4518,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-412": {
   "kp": {
@@ -4529,7 +4529,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-413": {
   "kp": {
@@ -4540,7 +4540,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-414": {
   "kp": {
@@ -4573,7 +4573,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-417": {
   "kp": {
@@ -4584,7 +4584,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-418": {
   "kp": {
@@ -4595,7 +4595,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-419": {
   "kp": {
@@ -4617,7 +4617,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-421": {
   "kp": {
@@ -4639,7 +4639,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-423": {
   "kp": {
@@ -4650,7 +4650,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-424": {
   "kp": {
@@ -4716,7 +4716,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-430": {
   "kp": {
@@ -4727,7 +4727,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-431": {
   "kp": {
@@ -4749,7 +4749,7 @@
   },
   "china_import_control": "国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-433": {
   "kp": {
@@ -4903,7 +4903,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-447": {
   "kp": {
@@ -4936,7 +4936,7 @@
   },
   "china_import_control": "国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-450": {
   "kp": {
@@ -4991,7 +4991,7 @@
   },
   "china_import_control": "国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-455": {
   "kp": {
@@ -5079,7 +5079,7 @@
   },
   "china_import_control": "国别档位 中(摇摆;BTK 注册+政府偏好);档案信号: 在卖中国品牌 Dahua → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-463": {
   "kp": {
@@ -5101,7 +5101,7 @@
   },
   "china_import_control": "国别档位 中(摇摆;BTK 注册+政府偏好);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-465": {
   "kp": {
@@ -5112,7 +5112,7 @@
   },
   "china_import_control": "国别档位 中(摇摆;BTK 注册+政府偏好);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-466": {
   "kp": {
@@ -5266,7 +5266,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-480": {
   "kp": {
@@ -5288,7 +5288,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-482": {
   "kp": {
@@ -5321,7 +5321,7 @@
   },
   "china_import_control": "国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-485": {
   "kp": {
@@ -5343,7 +5343,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)"
  },
  "A-487": {
   "kp": {
@@ -5387,7 +5387,7 @@
   },
   "china_import_control": "国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);档案信号: 在卖中国品牌 TP-Link/TPLink → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-491": {
   "kp": {
@@ -5508,7 +5508,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随(NATO/EU 总部谨慎度略高));战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-502": {
   "kp": {
@@ -5563,7 +5563,7 @@
   },
   "china_import_control": "国别档位 中(ANSSI 3A 授权制;企业交换机不限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-507": {
   "kp": {
@@ -5574,7 +5574,7 @@
   },
   "china_import_control": "国别档位 中(ANSSI 3A 授权制;企业交换机不限);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-508": {
   "kp": {
@@ -5607,7 +5607,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-511": {
   "kp": {
@@ -5640,7 +5640,7 @@
   },
   "china_import_control": "国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对;工业锚(Moxa/Westermo 类)提及 → Marvell 工业谱同源,STI-288GP 强对口",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-514": {
   "kp": {
@@ -5684,7 +5684,7 @@
   },
   "china_import_control": "国别档位 中(EU 跟随);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-518": {
   "kp": {
@@ -5717,7 +5717,7 @@
   },
   "china_import_control": "国别档位 高(PTS 2020 全面禁华为 5G;政治偏冷);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-521": {
   "kp": {
@@ -5794,7 +5794,7 @@
   },
   "china_import_control": "国别档位 中(2021 禁华为 5G 法案;企业层自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-528": {
   "kp": {
@@ -5816,7 +5816,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-530": {
   "kp": {
@@ -5882,7 +5882,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-536": {
   "kp": {
@@ -5959,7 +5959,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-543": {
   "kp": {
@@ -5981,7 +5981,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-545": {
   "kp": {
@@ -6003,7 +6003,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-547": {
   "kp": {
@@ -6014,7 +6014,7 @@
   },
   "china_import_control": "国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "待定(档案无芯片信号,首开先问品牌谱)",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-548": {
   "kp": {
@@ -6124,7 +6124,7 @@
   },
   "china_import_control": "国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-558": {
   "kp": {
@@ -6190,7 +6190,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);档案信号: 在卖中国品牌 Huawei → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-564": {
   "kp": {
@@ -6212,7 +6212,7 @@
   },
   "china_import_control": "国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  },
  "A-566": {
   "kp": {
@@ -6245,6 +6245,6 @@
   },
   "china_import_control": "国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;CSV 品牌谱含中国厂商 → 大概率已有中国采购线(集采或分销);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片",
   "chip_marvell_focus": "Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对",
-  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
+  "saga_models_judged": "大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)"
  }
 }

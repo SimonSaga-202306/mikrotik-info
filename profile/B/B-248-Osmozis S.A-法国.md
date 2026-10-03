@@ -73,7 +73,7 @@
 - 「Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay/OsmoPower」 — https://www.gestion-camping.com/fournisseurs-camping/646/osmozis.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）
+- 参考 P1: `STC-424XGGPM-280W` — 露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）
 - 第一问: 你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？
 - 标签: 法国|Montpellier|露营WiFi|自研bornes
 
@@ -83,7 +83,7 @@ Hi Osmozis team,
 
 France's leading WiFi-and-IoT operator for campgrounds with your own bornes, your own software stack (OsmoGestion / OsmoPay / OsmoPower…), and a network story so good it once had you looking at Alternext - bornes everywhere, and every single one of them is a PoE load.
 
-We build PoE switches for exactly that job: a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) for the camp LAN core, and an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class, $74.8 EXW) for the individual borne cabinets. Full English/French documentation, fully open to Osmozis own branding.
+We build PoE switches for exactly that job: a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) for the camp LAN core, and an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class, $74.8 EXW) for the individual borne cabinets. Full English/French documentation, fully open to Osmozis own branding.
 
 One question: across your bornes and camp LAN installations, which PoE source are your borne boxes and the camp core running on today - and would a documented OEM unit earn a bench test?
 

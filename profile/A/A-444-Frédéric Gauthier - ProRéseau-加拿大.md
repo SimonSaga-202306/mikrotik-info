@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：ProRéseau（魁北克城）为一人公司，服务含结构化布线、**routeur ou switch 编程**、5.2GHz 83km 点对点、SIP 电话；官网直接给出负责人手机与 fgauthier@proreseau.net；原 B-063 升级，编号顺延 A-444
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Frédéric Gauthier / ProRéseau 加魁北克法语服务（布线+83KM PtP 案例）：项目随单缝低密（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Frédéric Gauthier / ProRéseau 加魁北克法语服务（布线+83KM PtP 案例）：项目随单缝低密（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 随单
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：布线/无线项目随单缝（低密）
 - **要问的问题**：随单有缝吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://proreseau.net|'Point a point 5.2GHz sur 83KM' 案例
 - **②芯片/型号**：——
 - **③KP 深挖**：服务多年
-- **④Saga 对标**：STC-424 随单缝（$165 锚点一致）
+- **④Saga 对标**：STC-424 随单缝（$180 锚点一致）
 - **⑤在乎与偏好**：灵活开源嗜好（open source 自述）
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,7 +140,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Frédéric Gauthier / ProRéseau 加魁北克法语服务（布线+83KM PtP 案例）：项目随单缝低密（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Frédéric Gauthier / ProRéseau 加魁北克法语服务（布线+83KM PtP 案例）：项目随单缝低密（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -195,9 +195,9 @@ updated: 2026-09-28
 ```text
 Bonjour Frédéric,
 
-Structured cabling for seventy desks and an 83 km point-to-point link - you are comfortable where budgets meet physics. For the LAN jobs behind those installs, we build a documented 24-port Gigabit PoE switch (280W, watchdog) at $165 USD EXW (2026-09-29).
+Structured cabling for seventy desks and an 83 km point-to-point link - you are comfortable where budgets meet physics. For the LAN jobs behind those installs, we build a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29).
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: in your cabling and wireless projects, is there room for a documented value PoE unit?
 

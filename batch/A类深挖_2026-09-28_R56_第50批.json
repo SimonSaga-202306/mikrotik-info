@@ -35,7 +35,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "对照收录",
           "question": "收 value 档吗？",
           "proof": "规格页"
@@ -60,7 +60,7 @@
           "①背景再核": "https://nasstore.eu|品牌墙含 NetPro 自牌+Ruijie",
           "②芯片/型号": "多牌+自牌",
           "③KP 深挖": "店多年",
-          "④Saga 对标": "STC-424 对照收录（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照收录（$180 锚点一致）",
           "⑤在乎与偏好": "自牌心态（OEM 熟）",
           "⑥SWOT": "S 对口+自牌 / W 店小 / O 对照 / T 两大牌"
         },
@@ -83,7 +83,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi NAS Store team,\n\nSynology, MikroTik, Ubiquiti, Ajax, Ruijie, Teltonika and your own NetPro brand - an EU-wide shelf that already understands house brands. Access PoE is the row a NetPro-style value unit naturally fills\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your brands and NetPro, would you carry a documented value PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi NAS Store team,\n\nSynology, MikroTik, Ubiquiti, Ajax, Ruijie, Teltonika and your own NetPro brand - an EU-wide shelf that already understands house brands. Access PoE is the row a NetPro-style value unit naturally fills\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your brands and NetPro, would you carry a documented value PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "beside your brands and NetPro, would you carry a documented value PoE switch?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -176,10 +176,10 @@
         "证书现况",
         "复购场景"
       ],
-      "email": "Hi router.lv team,\n\nYour shop is the source itself - nobody upstream of you in this market. That is exactly why this note is short and honest: we do not pitch competition to the house. But if a partner ever needs a documented value PoE row that MikroTik does not cover, one line in your notebook costs nothing. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: for your partners' budget-limited projects, would a documented value PoE switch ever be a reference row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi router.lv team,\n\nYour shop is the source itself - nobody upstream of you in this market. That is exactly why this note is short and honest: we do not pitch competition to the house. But if a partner ever needs a documented value PoE row that MikroTik does not cover, one line in your notebook costs nothing. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).\n\nConsultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.\n\nOne question: for your partners' budget-limited projects, would a documented value PoE switch ever be a reference row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "for your partners' budget-limited projects, would a documented value PoE switch ever be a reference row?",
       "alt2": "CONSULT-OEM",
-      "alt3": "STC-424DGGPM-280W",
+      "alt3": "STC-424XGGPM-280W",
       "tag": "拉脱维亚|MT厂方自营店|不推竞争件|CONSULT-OEM低密",
       "batch": 60,
       "date": "2026-09-29"
@@ -216,7 +216,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "民用段对照窄位",
           "question": "民用段有缝吗？",
           "proof": "规格页"
@@ -241,7 +241,7 @@
           "①背景再核": "https://satel.no|'militære installasjoner' 应用列明+机场/隧道谱",
           "②芯片/型号": "SATEL/ORing",
           "③KP 深挖": "分销多年",
-          "④Saga 对标": "STC-424 低密窄针（$165 锚点一致）",
+          "④Saga 对标": "STC-424 低密窄针（$180 锚点一致）",
           "⑤在乎与偏好": "mission-critical 纪律",
           "⑥SWOT": "S 地位 / W 军列 / O 民用窄位 / T —"
         },
@@ -266,7 +266,7 @@
         "军购守界",
         "首发量"
       ],
-      "email": "Hi SATEL Norge team,\n\nTwo honest sentences first: your mission-critical and military installation business keeps its own certified procurement path - completely out of scope for us. This is only about the civilian commercial and utility segment beside it, where standard access PoE gets reordered in volume\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your civilian commercial segment only, is there room for a documented value PoE row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi SATEL Norge team,\n\nTwo honest sentences first: your mission-critical and military installation business keeps its own certified procurement path - completely out of scope for us. This is only about the civilian commercial and utility segment beside it, where standard access PoE gets reordered in volume\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your civilian commercial segment only, is there room for a documented value PoE row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "in your civilian commercial segment only, is there room for a documented value PoE row?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -306,7 +306,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "类目对照收录",
           "question": "收对照行吗？",
           "proof": "规格页"
@@ -331,7 +331,7 @@
           "①背景再核": "https://wifihw.cz|新闻 2026-09 实时+V-SOL/MeanWell 谱",
           "②芯片/型号": "MikroTik 谱",
           "③KP 深挖": "分店多年",
-          "④Saga 对标": "STC-424 收录正口（$165 锚点一致）",
+          "④Saga 对标": "STC-424 收录正口（$180 锚点一致）",
           "⑤在乎与偏好": "配套堆货心态",
           "⑥SWOT": "S 类目口 / W — / O 收录 / T 两大牌"
         },
@@ -354,7 +354,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi AIRCOM team,\n\nYour September news post on the RouterOS security update tells installers you run a serious shop - plus V-SOL GPON, Komshine fibre, MeanWell PSUs and Dataway cabinets. The access PoE row belongs exactly in that installer basket\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: would your catalogue carry a documented value access PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi AIRCOM team,\n\nYour September news post on the RouterOS security update tells installers you run a serious shop - plus V-SOL GPON, Komshine fibre, MeanWell PSUs and Dataway cabinets. The access PoE row belongs exactly in that installer basket\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: would your catalogue carry a documented value access PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "would your catalogue carry a documented value access PoE switch?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -394,7 +394,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "分销店对照收录",
           "question": "收对照行吗？",
           "proof": "规格页"
@@ -419,7 +419,7 @@
           "①背景再核": "https://www.discomp.cz|Ubiquiti/Hikvision/Cambium 全谱+2026 新品",
           "②芯片/型号": "多牌",
           "③KP 深挖": "分店多年",
-          "④Saga 对标": "STC-424 收录（$165 锚点一致）",
+          "④Saga 对标": "STC-424 收录（$180 锚点一致）",
           "⑤在乎与偏好": "全谱进货心态",
           "⑥SWOT": "S 类目齐 / W 牌固 / O 收录 / T 两大牌"
         },
@@ -442,7 +442,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi Discomp team,\n\nUbiquiti, Hikvision, Cambium, MikroTik, Teltonika with fresh 2026 arrivals - a distributor that keeps the portfolio moving. Between cameras and APs, your installers buy access PoE by the row; a documented value unit makes that row profitable\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your switch category, is there room for a documented value PoE row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi Discomp team,\n\nUbiquiti, Hikvision, Cambium, MikroTik, Teltonika with fresh 2026 arrivals - a distributor that keeps the portfolio moving. Between cameras and APs, your installers buy access PoE by the row; a documented value unit makes that row profitable\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your switch category, is there room for a documented value PoE row?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "in your switch category, is there room for a documented value PoE row?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -482,7 +482,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "自牌心态对照行",
           "question": "收对照行吗？",
           "proof": "规格页"
@@ -507,7 +507,7 @@
           "①背景再核": "https://www.ipmedia.cz|IPM 自牌 SFP+PoE switch banner 直达",
           "②芯片/型号": "IPM 自牌",
           "③KP 深挖": "分店多年",
-          "④Saga 对标": "STC-424 对照正口（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照正口（$180 锚点一致）",
           "⑤在乎与偏好": "自牌心态（OEM 熟）",
           "⑥SWOT": "S 对口+自牌 / W — / O 对照 / T 两大牌"
         },
@@ -530,7 +530,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi IPMEDIA team,\n\nA PoE switch banner driving straight to your ES22 search results, an IPM house-label SFP line, TP-Link partner demos and full MikroTik news discipline - you already know house-label value wins. Our 24-port PoE row is the same logic, one level up\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your house-label lines, would you add a documented value 24-port PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi IPMEDIA team,\n\nA PoE switch banner driving straight to your ES22 search results, an IPM house-label SFP line, TP-Link partner demos and full MikroTik news discipline - you already know house-label value wins. Our 24-port PoE row is the same logic, one level up\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your house-label lines, would you add a documented value 24-port PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "beside your house-label lines, would you add a documented value 24-port PoE switch?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -570,7 +570,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "PoE 类目对照",
           "question": "收对照行吗？",
           "proof": "规格页"
@@ -595,7 +595,7 @@
           "①背景再核": "https://www.proficomms.cz|PoE injektory/extendery/splittery 类目+BDCOM promo",
           "②芯片/型号": "BDCOM 谱",
           "③KP 深挖": "分销多年",
-          "④Saga 对标": "STC-424 对照正口（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照正口（$180 锚点一致）",
           "⑤在乎与偏好": "BDCOM=价值谱开放",
           "⑥SWOT": "S 类目已开 / W 线杂 / O 对照 / T BDCOM"
         },
@@ -619,7 +619,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi PROFIcomms team,\n\nFrom XGS-PON OLTs to Data Center chassis, plus PoE injectors, extenders and splitters in your catalogue - and a BDCOM promo banner on top. Access PoE switching is the product family your resellers reorder the most\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your converters and PoE categories, would you carry a documented value access PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi PROFIcomms team,\n\nFrom XGS-PON OLTs to Data Center chassis, plus PoE injectors, extenders and splitters in your catalogue - and a BDCOM promo banner on top. Access PoE switching is the product family your resellers reorder the most\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: in your converters and PoE categories, would you carry a documented value access PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "in your converters and PoE categories, would you carry a documented value access PoE switch?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -659,7 +659,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "第二条 value 线",
           "question": "再收一条 value 牌吗？",
           "proof": "规格页"
@@ -684,7 +684,7 @@
           "①背景再核": "https://www.wifishop.cz|'Exclusive Distribution of C-Data Brand for Czech Republic and Slovakia' 2025-09-23",
           "②芯片/型号": "C-Data",
           "③KP 深挖": "分店多年",
-          "④Saga 对标": "STC-424 对照行（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照行（$180 锚点一致）",
           "⑤在乎与偏好": "价值中国谱开放",
           "⑥SWOT": "S 心态同频 / W 同位竞争 / O 窗口 / T C-Data"
         },
@@ -708,7 +708,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi VanCo team,\n\nExclusive C-Data distribution for Czechia and Slovakia since September 2025 - you already know value-priced brands can win a market. A documented 24-port PoE row at $165 EXW is the same playbook, one shelf higher\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your exclusive C-Data line, would you add another documented value networking brand?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi VanCo team,\n\nExclusive C-Data distribution for Czechia and Slovakia since September 2025 - you already know value-priced brands can win a market. A documented 24-port PoE row at $180 EXW is the same playbook, one shelf higher\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your exclusive C-Data line, would you add another documented value networking brand?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "beside your exclusive C-Data line, would you add another documented value networking brand?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -748,7 +748,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "UniFi 谱下对照缝",
           "question": "收 value 档吗？",
           "proof": "规格页"
@@ -773,7 +773,7 @@
           "①背景再核": "https://www.i4wifi.eu|UniFi PoE Switches 类目+MikroTik 全谱+export 口",
           "②芯片/型号": "两大牌",
           "③KP 深挖": "分销多年",
-          "④Saga 对标": "STC-424 对照缝（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照缝（$180 锚点一致）",
           "⑤在乎与偏好": "多品牌谱",
           "⑥SWOT": "S 谱对口 / W 两大牌固 / O 缝 / T UniFi"
         },
@@ -796,7 +796,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi i4wifi team,\n\nUniFi down to the last accessory category and MikroTik complete, with an export desk - a catalogue built for resellers who reorder. The UniFi PoE switch prices leave a clear value row underneath; that row is what we document and ship\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: for your export resellers, would you carry a documented value PoE switch beside UniFi?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi i4wifi team,\n\nUniFi down to the last accessory category and MikroTik complete, with an export desk - a catalogue built for resellers who reorder. The UniFi PoE switch prices leave a clear value row underneath; that row is what we document and ship\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: for your export resellers, would you carry a documented value PoE switch beside UniFi?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "for your export resellers, would you carry a documented value PoE switch beside UniFi?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",
@@ -836,7 +836,7 @@
       "followups": [
         {
           "stage": "第 1 次跟进 · 对照行",
-          "push": "STC-424DGGPM-280W",
+          "push": "STC-424XGGPM-280W",
           "angle": "Wi-Tek 旁第二档",
           "question": "第二档收吗？",
           "proof": "规格页"
@@ -861,7 +861,7 @@
           "①背景再核": "https://www.lancentrum.eu|Wi-Tek 牌墙+V-SOL/DASAN 谱",
           "②芯片/型号": "Wi-Tek/MikroTik",
           "③KP 深挖": "店多年",
-          "④Saga 对标": "STC-424 对照（$165 锚点一致）",
+          "④Saga 对标": "STC-424 对照（$180 锚点一致）",
           "⑤在乎与偏好": "value 中国谱开放",
           "⑥SWOT": "S 心态同频 / W 同位竞争 / O 第二档 / T Wi-Tek"
         },
@@ -885,7 +885,7 @@
       "unknowns": [
         "首发量"
       ],
-      "email": "Hi LanCentrum team,\n\nMIKROTIK, UBIQUITI, V-SOL, DASAN Zhone and Wi-Tek on one shelf - you already run a value-priced brand wall. A documented 24-port PoE row at $165 EXW is exactly the Wi-Tek-style deal your buyers understand\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your Wi-Tek line, would you add a documented value 24-port PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hi LanCentrum team,\n\nMIKROTIK, UBIQUITI, V-SOL, DASAN Zhone and Wi-Tek on one shelf - you already run a value-priced brand wall. A documented 24-port PoE row at $180 EXW is exactly the Wi-Tek-style deal your buyers understand\n\nWe build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.\n\nOne question: beside your Wi-Tek line, would you add a documented value 24-port PoE switch?\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "question": "beside your Wi-Tek line, would you add a documented value 24-port PoE switch?",
       "alt2": "STI-288GP",
       "alt3": "STC-28DGGPM",

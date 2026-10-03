@@ -73,7 +73,7 @@
 - 「CRS418-8P-8G-2S+5axQ2axQ-RM…QSFP28 100G…SFP+ 10G」 — https://romsat.ua/partners/mikrotik/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 电信/多形态项目分销三站的 value PoE 档随单
+- 参考 P1: `STC-424XGGPM-280W` — 电信/多形态项目分销三站的 value PoE 档随单
 - 第一问: 你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？
 - 标签: 乌克兰|基辅|电信头端|三站|MTCSA
 
@@ -83,7 +83,7 @@ Hi Romsat team,
 
 Multi-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.
 
 One question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?
 

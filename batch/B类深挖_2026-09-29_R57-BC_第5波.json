@@ -34,11 +34,11 @@
    ],
    "unknowns": ["其 B2B 客户谱里 24 口 PoE 需求量级(监控/Dahua 随单)", "电商架引入新品牌的 MOQ/上架费门槛"],
    "swot": {"S": "电商+B2B 双轨 15 年+多品牌官分", "W": "无自牌无增值深度,走量价格敏感", "O": "24 口 280W 管理型 PoE 价位空档", "T": "TP-Link/Ubiquiti 低价架压"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "电商型分销的 24 口 280W 管理型 PoE 价位空档补位(CSS610 8 口上一档)",
    "question": "你们 B2B 客户在监控/网络项目里,24 口管理型 PoE+ 现供哪款?架上有没有 value 档空位?",
    "tag": "德国|科隆|电商分销|24口PoE空档",
-   "email": "Hi etree team,\n\nFifteen years of e-tail plus B2B distribution out of Cologne, with MikroTik, Teltonika, Dahua and Zyxel all on one shelf - you know exactly where the price gaps in your own catalog are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.\n\nOne question: for your B2B buyers building camera and network deployments, which 24-port managed PoE switch fills the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi etree team,\n\nFifteen years of e-tail plus B2B distribution out of Cologne, with MikroTik, Teltonika, Dahua and Zyxel all on one shelf - you know exactly where the price gaps in your own catalog are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.\n\nOne question: for your B2B buyers building camera and network deployments, which 24-port managed PoE switch fills the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 价位空档对照页(CSS610 vs STC-424)", "D+14 sales@etree.de 开口", "D+30 果归守档"]
   },
   {
@@ -52,11 +52,11 @@
    ],
    "unknowns": ["其 IT 基础设施项目年量级与 PoE 随单频度", "condition monitoring 项目里工业网络件现供"],
    "swot": {"S": "20 年老店+owner 决策快+项目随单", "W": "软件主业,硬件谱浅", "O": "项目随单 PoE 接入位", "T": "项目型采购不稳定"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)",
    "question": "你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?",
    "tag": "德国|开姆尼茨|软件+集成|项目随单",
-   "email": "Hi Tom,\n\nTwenty years of DMS, ERP and IT-infrastructure projects out of Chemnitz - your projects are where switches actually get installed, not just listed.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.\n\nOne question: inside your IT-infrastructure projects, which PoE access switch rides along with the rollout today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Tom,\n\nTwenty years of DMS, ERP and IT-infrastructure projects out of Chemnitz - your projects are where switches actually get installed, not just listed.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.\n\nOne question: inside your IT-infrastructure projects, which PoE access switch rides along with the rollout today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 项目随单样张", "D+14 office@hsc-solutions.de 具名 Tom 开口", "D+30 果归守档"]
   },
   {
@@ -89,11 +89,11 @@
    ],
    "unknowns": ["Networking&Wireless BU 当下 value PoE 档供应商", "scouting 新 vendor 的准入流程(测试期/上架门槛)"],
    "swot": {"S": "scouting 战略明示+5BU+纯间接+集团联盟", "W": "纯间接决策在 BU,周期或长", "O": "STC-424 作 scouting 新 vendor 直对口", "T": "集团自牌谱边界需辨(总部 ALLNET brand)"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动",
    "question": "Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?",
    "tag": "意大利|Bologna|Master+VAD|scouting血统|集团第5站",
-   "email": "Hi Allnet.Italia team,\n\nYour CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.\n\nOne question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Allnet.Italia team,\n\nYour CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.\n\nOne question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 scouting 开口页+集团五站背书", "D+14 networking@allnet-italia.it 开口", "D+30 果归守档"]
   },
   {
@@ -126,11 +126,11 @@
    ],
    "unknowns": ["Nim Wave 自牌是否计划延到 PoE 硬件类目", "100+ reseller 谱里 PoE 随单量"],
    "swot": {"S": "自牌+白标双血统+100+渠道+具名 Sales Director", "W": "天线自牌重心,硬件自牌未起步", "O": "自牌谱 PoE OEM 延伸第一家", "T": "Ubiquiti/Cambium 谱内挤"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "自牌天线之外的 PoE 硬件 OEM 白牌延伸位(渠道与白标经验现成,具名开口)",
    "question": "Nim Wave 自牌谱会不会延到 PoE 交换硬件?白牌 OEM 件给你们 100+ reseller 供货可谈吗?",
    "tag": "意大利|Lainate|NimWave自牌|白标血统|100+渠道",
-   "email": "Hi Daniela,\n\nOwn-brand antennas under Nim Wave, a white-labeled FlashStart service your resellers put their logo on, and a hundred-plus resellers across Europe - you already run the exact playbook that a white-label PoE line is built for.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $165 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.\n\nOne question: does the Nim Wave own-label catalog plan to extend into PoE switching - and would a documented OEM unit earn a bench test for your reseller channel?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Daniela,\n\nOwn-brand antennas under Nim Wave, a white-labeled FlashStart service your resellers put their logo on, and a hundred-plus resellers across Europe - you already run the exact playbook that a white-label PoE line is built for.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $180 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.\n\nOne question: does the Nim Wave own-label catalog plan to extend into PoE switching - and would a documented OEM unit earn a bench test for your reseller channel?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 自牌延伸 OEM 提案页", "D+14 info@dnet-distribution.com 具名 Daniela", "D+30 果归守档"]
   },
   {
@@ -196,11 +196,11 @@
    ],
    "unknowns": ["C&C 架上 PoE 交换走量 SKU 与价位", "新品牌入仓的现货押款条件"],
    "swot": {"S": "双仓 C&C 现货+Legrand 布线谱+Master", "W": "走量型,品牌忠诚度低", "O": "24 口 value PoE 现货位", "T": "TP-Link 低价现货压"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)",
    "question": "你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?",
    "tag": "意大利|Brescia|Master|双仓C&C|Legrand布线谱",
-   "email": "Hi Neostar team,\n\nTwo cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.\n\nOne question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Neostar team,\n\nTwo cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.\n\nOne question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 C&C 现货走量提案页", "D+14 info@neostar.it 开口", "D+30 果归守档"]
   },
   {

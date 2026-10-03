@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R51 达标即升级：用户指示「达到 A 级标准即可升级」；本条与 A-090 疑似同一实体，但自身独立满足 A 标准（优先级★★★、工程师级认证 MTCSE、MTCTCE、MTCWE、直达邮箱、非硬排除）；原 B-437 升级，编号顺延 A-428
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Jasper Hagoort / Dside 荷 SMB 电信服务商（VoIP/Cloud PBX/混合工位）：现场交付 PoE 随单缝低密（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Jasper Hagoort / Dside 荷 SMB 电信服务商（VoIP/Cloud PBX/混合工位）：现场交付 PoE 随单缝低密（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：SMB 交付随单缝低密
 - **要问的问题**：现场交付有 value 件位吗？
 - **随附/动作**：规格页
@@ -113,7 +113,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.dside.nl|VoIP/Cloud PBX/连接+werkplek 线
 - **②芯片/型号**：——
 - **③KP 深挖**：电信服务商
-- **④Saga 对标**：STC-424 低密（$165 锚点一致）
+- **④Saga 对标**：STC-424 低密（$180 锚点一致）
 - **⑤在乎与偏好**：灵活打包嗜好
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -139,7 +139,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Jasper Hagoort / Dside 荷 SMB 电信服务商（VoIP/Cloud PBX/混合工位）：现场交付 PoE 随单缝低密（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Jasper Hagoort / Dside 荷 SMB 电信服务商（VoIP/Cloud PBX/混合工位）：现场交付 PoE 随单缝低密（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -196,7 +196,7 @@ Hi Jasper,
 
 Fibre-plus-cloud for Dutch SMEs - VoIP, Cloud PBX, hybrid workplaces on fibre and 4G backup - means you equip the small business LAN more often than the invoices show
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: on your workplace and connection projects, is there room for a documented value PoE unit?
 

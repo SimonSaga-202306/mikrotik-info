@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.mikrotikls.com.ua|Vartan 具名
 - **②芯片/型号**：MikroTik 生态
 - **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
 - **⑤在乎与偏好**：比照心态/拒硬销
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -143,7 +143,7 @@ updated: 2026-09-28
 |---|---|---|---|---|
 | **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Vartan Ahababian 乌 mikrotikls.com.ua 主理（2026-09 站 fetch 失败=战时波动注；具名邮箱存活）：顾问对照单元；民用商业限定前句 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -200,7 +200,7 @@ updated: 2026-09-28
 ```text
 Hi Vartan,
 
-One framing note: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).
+One framing note: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
 
 Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
 

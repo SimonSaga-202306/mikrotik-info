@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGM（Saga） |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | IT 服务与**企业级规模网络** |
@@ -48,7 +48,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGM（Saga）`
+参考型号：`STC-424XGGM（Saga）`
 
 ## 六、注意点
 
@@ -79,7 +79,7 @@
 - 「Businesses that trust us…FnA Company…ELMEPA」 — https://exasolutions.gr/en/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 双址 MSP 的 managed 部署随单 value PoE 档
+- 参考 P1: `STC-424XGGPM-280W` — 双址 MSP 的 managed 部署随单 value PoE 档
 - 第一问: 你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？
 - 标签: 希腊|克里特+雅典|双址MSP|MTCNA+MTCRE
 
@@ -89,7 +89,7 @@ Hi George,
 
 From Heraklion to Athens with managed IT, cybersecurity and WMS/ERP integrations - EXA is clearly past the single-consultant phase of its operation.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $165 USD EXW (2026-09-29) - designed to land as the standardized access SKU across your managed deployments.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed to land as the standardized access SKU across your managed deployments.
 
 One question: for the PoE access layer inside your managed deployments, which SKU are you standardizing on today - and would a free unit with the complete test pack earn a look?
 

@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 资深网络工程师 10+ 年：企业路由、大规模网络架构、专家级排障；**多厂商高性能环境**，擅长用 MikroTik RouterOS/CCR 搭配传统企业设备以最大化基础设施价值；**擅长定位 Layer 2 到 Layer 7 异常**、数据中心迁移 |

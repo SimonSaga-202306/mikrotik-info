@@ -3,7 +3,7 @@
  "round": "R54",
  "batch": 12,
  "scope": "A 类深度加厚 + 3 步跟进计划（第 12 批：A-221–A-240；奥4/瑞3/波3/德2/匈2 + 荷/捷/挪/葡/瑞典/爱各1）。",
- "method": "fetch_page 全库 20 户官网/商城/联系页（2026-09-28）：young.hu HTTP 500 与 satelithuset.se 双协议失败实锤入档（失联户第一步人工核实）；A-227 KNT 候选站 knt.biz.pl 法定名逐字一致但站点总部 Warszawa 与 CSV 城市 Olsztyn 不符——桥接留人工终审、邮箱标注同站官方正文+主体待终审层级；公立/公立关联段划出：SABEL utilities 面、Salzgeber 学校 CO2+公立场馆案例、FIVE 的 SUVA/市立养老基金客户墙、KNT 联系页公立机构自述、Infinite 的 Fiscal Advisory Council 等公立客户、FMS 的 öffentliche Auftraggeber/Stadtwerke 面、Stovaris 医疗影像板块、Nomios 关键基础设施面；Allied 生态深绑户不置位：SABEL（Allied 牌 01 同架 CTC Union）走同品类毛利第二来源、Localnet 类深绑逻辑沿用；MTCSWE 培训师/顾问五户（A-235/236/237/239/240）按教师身份尊重打法：只谈本人工程/演示硬件、不打学员名单、不提替代 MikroTik；Varia（用户 2026-09-23 裁决保留、Vitesse 圈外标签在档）只做分销上架与白标履约互补；失联/弱线索户（A-227 桥接待审/A-233 站 500/A-236 站不可达）第一步设人工核实、不进群发不发历史邮箱；型号以 STC-424DGGPM-440W（Saga）（24 口 PoE++）+STC-424XGGPM-440W（Saga）（万兆上联）+STI-240GE（Saga）/STI-280GE（Saga）（工业非管理）+STI-480DGGM（Saga）/IS6312XG（工业管理，ERPS）+STI-4240XGGM（Saga）（高密度）为三轮话术阶梯。",
+ "method": "fetch_page 全库 20 户官网/商城/联系页（2026-09-28）：young.hu HTTP 500 与 satelithuset.se 双协议失败实锤入档（失联户第一步人工核实）；A-227 KNT 候选站 knt.biz.pl 法定名逐字一致但站点总部 Warszawa 与 CSV 城市 Olsztyn 不符——桥接留人工终审、邮箱标注同站官方正文+主体待终审层级；公立/公立关联段划出：SABEL utilities 面、Salzgeber 学校 CO2+公立场馆案例、FIVE 的 SUVA/市立养老基金客户墙、KNT 联系页公立机构自述、Infinite 的 Fiscal Advisory Council 等公立客户、FMS 的 öffentliche Auftraggeber/Stadtwerke 面、Stovaris 医疗影像板块、Nomios 关键基础设施面；Allied 生态深绑户不置位：SABEL（Allied 牌 01 同架 CTC Union）走同品类毛利第二来源、Localnet 类深绑逻辑沿用；MTCSWE 培训师/顾问五户（A-235/236/237/239/240）按教师身份尊重打法：只谈本人工程/演示硬件、不打学员名单、不提替代 MikroTik；Varia（用户 2026-09-23 裁决保留、Vitesse 圈外标签在档）只做分销上架与白标履约互补；失联/弱线索户（A-227 桥接待审/A-233 站 500/A-236 站不可达）第一步设人工核实、不进群发不发历史邮箱；型号以 STC-424XGGPM-440W（Saga）（24 口 PoE++）+STC-424XGGPM-440W（Saga）（万兆上联）+STI-240GE（Saga）/STI-280GE（Saga）（工业非管理）+STI-480DGGM（Saga）/IS6312XG（工业管理，ERPS）+STI-4240XGGM（Saga）（高密度）为三轮话术阶梯。",
  "records": [
   {
    "code": "A-221",
@@ -54,7 +54,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 呼应 WiFi 管理热题 + PoE 接入层",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其一月 WiFi 管理专题：托管 WiFi 背后要稳定的 PoE 接入层——24 口 PoE++ 一台覆盖一层/一仓。",
      "question": "托管 WiFi/办公网项目的接入层现在配什么牌？",
      "proof": "一页报价 + 规格要点（英/荷）。"
@@ -127,7 +127,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 以厂商中立为钩：第二来源短清单",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其 herstellerunabhängig 定位：为贵司的客户方案库提供第二个编译的接入层选项（一页对比，专注供货连续性与交付期）。",
      "question": "你们的方案评估清单里有没有固定接入层备选位？",
      "proof": "一页对比（德/英）+ 交付期与保修条款。"
@@ -222,7 +222,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 视频安防配套 24 口",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "其「视频安防 IP 安全」服务配套：项目制拿 24 口 PoE 接入层，分销价保护。",
      "question": "视频安防项目的接入层件走项目制还是常备库存？",
      "proof": "项目报价模板 + 分销保护条款 + 培训资料（英）。"
@@ -287,7 +287,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 楼宇安防项目 24 口 PoE",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "安防技术域的商业楼宇项目：24 口 PoE++ 接入层（监控/门禁/传感一回到位）。",
      "question": "商业楼宇安防项目现在 24 口位配什么？",
      "proof": "一页报价（德/英）+ 防雷/PoE 预算表。"
@@ -431,7 +431,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · KMU 网改接入层第二来源+合规文件齐件",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "给 IT-Services 块的 KMU 网改项目一个文件齐备（CE/EMC/ROHS/保修）的第二来源 24 口 PoE 接入层。",
      "question": "KMU 网改项目里接入层目前固定配哪个牌？有第二来源位吗？",
      "proof": "一页报价+规格（德/英）+ CE/EMC/ROHS 证书包。"
@@ -522,7 +522,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 桥接成立后：硬件供应目录一页（波兰语）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "呼应其「sprzęt komputerowy/rozwiązania sieciowe」目录：24 口 PoE 接入层+供货条件。",
      "question": "网络方案项目里接入层与供电件目前怎么配？",
      "proof": "波兰语一页报价 + 规格要点。"
@@ -603,7 +603,7 @@
     {
      "step": 3,
      "stage": "第三次跟进 · 办公/NOC 24 口接入层轻提",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "集团内部办公/NOC 的接入层第二来源，简短一页。",
      "question": "内部/客户办公项目接入层有比价位吗？",
      "proof": "24 口一页价卡。"
@@ -660,7 +660,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 网络板块 VAD 上架提案（24 口 PoE）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "经总机/部门转接给网络品类采买：24 口 PoE 接入层的上架提案（分销条件+培训资料+阶梯回扣）。",
      "question": "网络板块的接入层/PoE 品类现在有开新供应商位吗？",
      "proof": "分销合作一页（波/英）+ 培训资料包。"
@@ -735,7 +735,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核实后：捷克语简洁一页（运维配套接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "网络运维外包配套的 24 口 PoE 接入层，一页价卡到位。",
      "question": "运维项目里接入层目前配什么牌？",
      "proof": "捷克语一页报价 + 规格要点。"
@@ -879,7 +879,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · AISENS 式新品牌上架流程+监控 PoE 组合",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "借其 2026-07 接入 AISENS 的先例：询问新连接品类供应商的上架流程，先递 24 口 PoE 监控交换组合（WD Purple 渠道可搭售）。",
      "question": "新连接/网络品类供应商的上架评估走哪个流程和负责人？",
      "proof": "上架一页提案（葡/英）+ 监控方案搭配示例。"
@@ -954,7 +954,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核活后：匈语简洁价卡",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "小店逻辑一句话+一页价卡。",
      "question": "24 口 PoE 接入层现在配什么？",
      "proof": "匈语一页报价。"
@@ -1025,7 +1025,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 分销上架提案（接入层/CCTV 小件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "向其分销口递交品牌上架提案：24 口 PoE 接入层+监控小件类目，分销条款+白标代发可选。",
      "question": "你们现在接受新网络硬件品牌上架吗？走什么评估流程？",
      "proof": "品牌一页提案（德/英）+ 分销条款模板。"
@@ -1098,7 +1098,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 教师身份尊重开场+自用演示件",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
      "angle": "简短开场：知道您的培训主业、只推给您本人工程/演示用的一台 24 口 PoE++（中性品牌、MikroTik 生态之外的补充供货），可留样体验。",
      "question": "您自己的工程/实验室用得上 24 口 PoE++ 演示机吗？",
      "proof": "一页规格+体验机条款（匈/英）。"
@@ -1179,7 +1179,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 核活后：资深顾问真诚短件",
-     "product": "STC-424DGGPM-440W（Saga） 演示机（可选）",
+     "product": "STC-424XGGPM-440W（Saga） 演示机（可选）",
      "angle": "以后辈供应商姿态简短自我介绍：接入层新货源、可留演示机体验；不提替代 MikroTik。",
      "question": "您顾问项目里偶尔需要高性价比接入层吗？",
      "proof": "一页规格（英）。"
@@ -1323,7 +1323,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · MSP 接入层第二来源一页",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "给 MSP 客户项目的 24 口 PoE 接入层第二来源（供货连续性+保修），一封到位。",
      "question": "客户项目接入层目前有固定的第二来源位吗？",
      "proof": "一页报价+规格（英）+ 保修条款。"
@@ -1396,7 +1396,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 目录空档上架提案：接入层/监控 PoE",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
      "angle": "向其分销口提案：无线传输强项之外的接入层/监控 PoE 类目（分销条件+德语资料全套）。",
      "question": "目录里接入层/PoE 类目目前由哪家供应？开新品类位吗？",
      "proof": "品牌上架一页提案（德）+ 分销条款。"
@@ -1469,7 +1469,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 一次性尊重短件+演示机选项",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）演示机",
      "angle": "简短自我介绍：接入层硬件供应商，愿为您的**自有工程**留一台 24 口 PoE++ 演示机体验；绝不影响您的培训业务。",
      "question": "您自己项目用得上吗？不用回长信。",
      "proof": "一页规格（英/德）。"

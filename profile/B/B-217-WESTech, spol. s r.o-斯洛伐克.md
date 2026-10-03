@@ -73,7 +73,7 @@
 - 「WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)」 — https://www.facebook.com/westech.networking/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)
+- 参考 P1: `STC-424XGGPM-280W` — ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)
 - 第一问: 你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?
 - 标签: 斯洛伐克|布拉迪斯拉发|ELKO集团|1000reseller
 
@@ -83,7 +83,7 @@ Hi WESTech networking team,
 
 A thousand active resellers through the ELKO Group network, and a dedicated networking squad with its own show - you are the desk where networking brands get placed in Slovakia and beyond.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.
 
 One question: on your networking shelf, which brand holds the value 24-port managed PoE tier today - and does ELKO Group offer a group-level path for a new vendor?
 

@@ -21,7 +21,7 @@
 | 类型 | 分销（翻新 IT 硬件） |
 | 反向信号 | 翻新 IT 硬件（存储/网络/数据中心设备 10,000+ SKU）；在售 MikroTik CRS510-8XS-2XQ-IN 等 |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-280W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-280W（Saga） |
 | 切入点 | 翻新谱旁全新对照行（MikroTik 谱在架） |
 | 数据来源 | 2026-09-29 R58 竞品谱挖第1波 |
 | 原备注 | 10+ 年翻新 IT（About-us 自述 more than a decade of industry experience, more than 10,000 IT products）； adres Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515（官网另页 5200 Katrine Avenue 变体）；US 主体+UK/UAE 线上；在售 MikroTik CRS510-8XS-2XQ-IN（Marvell 谱商品口径） |
@@ -43,7 +43,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-280W（Saga）`
+参考型号：`STC-424XGGPM-280W（Saga）`
 
 **R58 评口径·直接入库不深挖**：本户按用户 2026-09-29 执行纪律「这一轮 B 类客户不做深挖，评估后直接入库」——因此本档案不再铺深挖层，评估证据摘要在原始批 JSON（`batch/A类深挖_2026-09-29_R56_第57批.json`）：
 
@@ -83,7 +83,7 @@
 - 「Switches: MikroTik CRS510-8XS-2XQ-IN ... Shop Tech Atlantix」 — https://techatlantix.com/switches/mikroTik
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 翻新谱旁全新对照行（Marvell 谱在架）：STC-424DGGPM-280W 24口 PoE+4×10G，$165 USD EXW（2026-09-28 快照，15 天有效）
+- 参考 P1: `STC-424XGGPM-280W` — 翻新谱旁全新对照行（Marvell 谱在架）：STC-424XGGPM-280W 24口 PoE+4×10G，$180 USD EXW（2026-09-28 快照，15 天有效）
 - 第一问: Do you keep a documented new row beside your refurbished Cisco/MikroTik shelf - or is every comparison priced off the used piece itself?
 - 标签: US·Downers Grove IL·翻新谱商·MikroTik 在售·Marvell 锚
 
@@ -93,7 +93,7 @@ Hello Tech Atlantix team,
 
 Your catalog runs both refurbished Cisco and MikroTik CRS lines (we noticed CRS510-8XS-2XQ on your shelf). When refurb availability on a 24-port PoE access box gets thin or short on warranty, what do you typically reach for - and do you hold a documented new-price row for those cases?
 
-We are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424DGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $165 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.
+We are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424XGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $180 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.
 
 If a documented new-row comparison is useful for your buyers, I can send our spec sheet + MTBF + CLI access. If the timing is off, a one-line decline closes the loop.
 
@@ -137,7 +137,7 @@ Saga Telecom - PoE switch OEM/ODM
 - 翻新同业（Linknewnet 中国二手+Network Devices 翻新线）价格更低；若继续只走翻新降价，Saga 品牌溢价难落地
 
 ### 判位备档（深挖档）
-- STC-424DGGPM-280W: 翻新谱旁全新对照行（Marvell 谱在架）：STC-424DGGPM-280W 24口 PoE+4×10G，$165 USD EXW（2026-09-28 快照，15 天有效）
+- STC-424XGGPM-280W: 翻新谱旁全新对照行（Marvell 谱在架）：STC-424XGGPM-280W 24口 PoE+4×10G，$180 USD EXW（2026-09-28 快照，15 天有效）
 
 ## 证据
 - **【业务定位】**："Tech Atlantix stands as a prominent supplier of cutting-edge IT solutions and services...operating across the US with a strong online presence in the UK and UAE. Boasting over a decade of industry experience...more than 10,000 information technology products...We specialize in selling refurbished items, offering customers the opportunity to purchase high-quality products at a fraction of the cost of brand new items."
@@ -167,7 +167,7 @@ Hello Tech Atlantix team,
 
 Your catalog runs both refurbished Cisco and MikroTik CRS lines (we noticed CRS510-8XS-2XQ on your shelf). When refurb availability on a 24-port PoE access box gets thin or short on warranty, what do you typically reach for - and do you hold a documented new-price row for those cases?
 
-We are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424DGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $165 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.
+We are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424XGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $180 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.
 
 If a documented new-row comparison is useful for your buyers, I can send our spec sheet + MTBF + CLI access. If the timing is off, a one-line decline closes the loop.
 

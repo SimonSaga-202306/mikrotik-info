@@ -73,7 +73,7 @@
 - 「partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uniview」 — https://ge.linkedin.com/company/intellcomgroup
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 话机+无线双谱 VAD 的 PoE 随单管理档
+- 参考 P1: `STC-424XGGPM-280W` — 话机+无线双谱 VAD 的 PoE 随单管理档
 - 第一问: 你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?
 - 标签: 格鲁吉亚|Tbilisi|Ubiquiti官分|Yealink/Yeastar话机谱
 
@@ -83,7 +83,7 @@ Hi Intellcom team,
 
 Ubiquiti master distribution with Yealink and Yeastar telephony beside it - every SIP phone you ship needs PoE behind it, and that makes the switch line the quiet volume driver of your telephony business.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your phone fleet orders, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your phone fleet orders, white-label friendly.
 
 One question: for your Yealink/Yeastar deployments, which managed PoE switch do you reach for today?
 

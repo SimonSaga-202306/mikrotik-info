@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ALLNET 集团意大利站（德/法同集团） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Bologna |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -74,7 +74,7 @@
 - 「opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati」 — https://802service.com/chi-siamo/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动
+- 参考 P1: `STC-424XGGPM-280W` — scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动
 - 第一问: Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?
 - 标签: 意大利|Bologna|Master+VAD|scouting血统|集团第5站
 
@@ -84,7 +84,7 @@ Hi Allnet.Italia team,
 
 Your CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.
 
 One question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?
 

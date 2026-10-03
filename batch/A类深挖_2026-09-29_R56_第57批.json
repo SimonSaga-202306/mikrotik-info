@@ -7,7 +7,7 @@
       "customer": "A-568",
       "fact": "PURDICOM LIMITED（英国公司序 05361794，前身为 SELCOMS LIMITED 2013-07-29 更名），2005-02-11 成立，注册址 Mitchell House, Unit 4 Woolley Barns, Wantage, Oxfordshire OX12 8TA；英国增值 IT 分销商（VAD），自述「growth focused UK value-added IT distributor focused on wireless, cloud & security」，营业 £38.4M-£45.37M（2024 财年，Endole £45.37M +18.2% GlobalDatabase £44M），员工 58-66 人（Companies House 2024 报表 58；Tracxn 2026-04 为 66）；vendor 谱 15+：Cambium Networks（2020 WiFi & Networking Champion）、CommScope RUCKUS、WatchGuard、Teltonika Networks、Siklu、TP-Link、Legrand CertaUPS、IO by HFCL、MikroTik、Ubiquiti（UI Distributors UK）、Nomadix、PatchBox、Purdicom Cloud",
       "inference": "谱系以无线回传/校园无线/安全为主，交换线弱（RUCKUS ICX 是 Broadcom 谱、Cambium PoE 被动供电为主），MikroTik 在谱但没有官方 Master 名分（mikrotik.com 官方分销目录查无此户）——Marvell Prestera 锚=CRS 在售 + Teltonika 工业网关联动的边缘场景；Saga PoE++/10G 商业与工业交换机正是其谱系缝隙",
-      "hypothesis": "可作为英国多品牌补位渠道切入：以 STC-424DGGPM-280W 对位 ICX 空白价格带 + STI-288GP 补工业/户外拼接 Siklu Teltonika 项目画完；Badge 强（Continence/自治身 posture 强），首触需以「香港可验证现货+POE++/IP 工程数据」开场",
+      "hypothesis": "可作为英国多品牌补位渠道切入：以 STC-424XGGPM-280W 对位 ICX 空白价格带 + STI-288GP 补工业/户外拼接 Siklu Teltonika 项目画完；Badge 强（Continence/自治身 posture 强），首触需以「香港可验证现货+POE++/IP 工程数据」开场",
       "evidence_main": "公司官网/Companies House/GlobalDatabase/Endole/Tracxn/Channel Futures 获奖记录，证据全部带原文",
       "tech": "无线主导：Cambium Wi-Fi/PMP、Ubiquiti UniFi、MikroTik（含 RouterBOARD 与 CRS 谱，Marvell 旁锚）、Siklu mmWave PtP、Teltonika 4G/5G 工业网关；安全 WatchGuard；UPS Legrand CertaUPS；无自有品牌（自报）",
       "hr": "员工 58-66；UK Ltd 独立私营（£44M,58 employees ox12 8TA）",
@@ -35,16 +35,16 @@
         {"dim": "获奖", "quote": "Purdicom awarded Cambium Networks WiFi & Networking Champion at Partner Summit 2020", "source": "https://www.google.com/search?q=Purdicom+Cambium+WiFi+Networking+Champion+2020"}
       ],
       "followups": [
-        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W（24口 PoE+4×10G）", "angle": "ICX/Cambium 交换谱旁的高性价比商业 PoE 替补对照行", "question": "目前给你的 WISP/MSP 客户提供 24 口 PoE+10G 上行交换的方案是 ICX/CRS 还是 TP-Link？价格带卡在哪个位置？", "proof": "STC 规格页+$165 USD EXW 快照（15 天有效）"},
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424XGGPM-280W（24口 PoE+4×10G）", "angle": "ICX/Cambium 交换谱旁的高性价比商业 PoE 替补对照行", "question": "目前给你的 WISP/MSP 客户提供 24 口 PoE+10G 上行交换的方案是 ICX/CRS 还是 TP-Link？价格带卡在哪个位置？", "proof": "STC 规格页+$180 USD EXW 快照（15 天有效）"},
         {"stage": "第 2 次跟进 · 工业线", "push": "STI-288GP（8 口工业 PoE 导轨）", "angle": "Sikulu/Teltonika 户外广覆盖配套的宽温边缘供电二轨", "question": "户外 WISP/PtP 节点冬天掉电或 PoE 冻住时怎么救？换过多少台？", "proof": "STI-288GP 低温实测+MTBF"},
-        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424DGGPM-280W 现货询价", "angle": "最后一次窗口：EXW 现货产能", "question": "对照行收不收？封顶一时问", "proof": "现货库存+排产日历"}
+        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424XGGPM-280W 现货询价", "angle": "最后一次窗口：EXW 现货产能", "question": "对照行收不收？封顶一时问", "proof": "现货库存+排产日历"}
       ],
       "r55": {
         "dims": {
           "①背景再核": "PURDICOM LIMITED 05361794，2005-02-11 起营业；前身 SELCOMS LIMITED（2013-07-29 更名）；独立 Ltd，2026-10 Crown Group/Phoenix Amin 收购其（UK 上市集团体系）——自 报道可见「Crown Group completes acquisition of Purdicom」，年头成立；Mitchell House, Woolley Barns OX12 8TA",
           "②芯片/型号": "MikroTik 在谱（含 RouterBOARD+CRS 谱）；Teltonika 工业 4G/5G 网关；Siklu mmWave；ICX=RUCKUS（Broadcom 谱非 Saga 目标）；Marvell Prestera 旁锚=CRS",
           "③KP 深挖": "56 persona 未公开；72 persona=buying manager/product manager（LinkedIn 枚举登录墙外不可见，未定位，首触 info 索人）",
-          "④Saga 对标": "谱系缝隙=商业 PoE++/10G + 工业 PoE 二轨；P1 STC-424DGGPM-280W；二轨 STI-288GP；速决性=大 VAD 广谱为模，对位成本型补位谱",
+          "④Saga 对标": "谱系缝隙=商业 PoE++/10G + 工业 PoE 二轨；P1 STC-424XGGPM-280W；二轨 STI-288GP；速决性=大 VAD 广谱为模，对位成本型补位谱",
           "⑤在乎与偏好": "vendor 墙密，决策僧需清楚「New vendor onboarding」表单+单一价值承诺；不以打折做角；Cambium 冠军 2020 诉时尚",
           "⑥SWOT": "S=£38-45M 营业规模+award markup+15 品牌 VAD 网络/英国 WISP/MSP 达道深度；W=谱系拥挤且 ICX 已填大品牌交换墙+KP 未定位；O=交换角空虚（其缝隙-HFCL 无 PoE++/TP-Link 通道价）+Crown Group 收购后可借渠道联想；T=供应商侧竞争激烈，面联须以「现货一列+可验证数据」抢形似风"
         },
@@ -58,7 +58,7 @@
         "具体 MikroTik CRS 套件与在价（grating)JD",
         "首触 KP（product/buying manager for switching）未定位"
       ],
-      "email": "Hi team\n\nI'm with Saga Networks (Saga 网络配套厂商）。我们在你家谱系里发现一个真空区：Cambium 的被动 PoE 租象、RUCKUS ICX 的 Broadcom 等级墙、TP-Link 的商用线之间，没有任何 Marvell Prestera 等级的高性价比 PoE++ 24 口交换。\n\n这当布局还对你腾空：STC-424DGGPM-280W（24 口 370W PoE++ + 4×10G SFP+ L2+ 交换机，EXW $165 快照 15 天有效），发规格页对照行；工业缘 STI-288GP（导轨 DIN 导轨宽温 -40–75°C 8 口 PoE）Siklu/Teltonika 边缘荒场景可缝合。\n\n可问一句：在五Tag你MSP给客户哪些 24 口 PoE+10G 交换？若 ICX/CRS 档位有缝，对照行给你发过去。\n\nRegards,\n[Saga Networks]David",
+      "email": "Hi team\n\nI'm with Saga Networks (Saga 网络配套厂商）。我们在你家谱系里发现一个真空区：Cambium 的被动 PoE 租象、RUCKUS ICX 的 Broadcom 等级墙、TP-Link 的商用线之间，没有任何 Marvell Prestera 等级的高性价比 PoE++ 24 口交换。\n\n这当布局还对你腾空：STC-424XGGPM-280W（24 口 370W PoE++ + 4×10G SFP+ L2+ 交换机，EXW $180 快照 15 天有效），发规格页对照行；工业缘 STI-288GP（导轨 DIN 导轨宽温 -40–75°C 8 口 PoE）Siklu/Teltonika 边缘荒场景可缝合。\n\n可问一句：在五Tag你MSP给客户哪些 24 口 PoE+10G 交换？若 ICX/CRS 档位有缝，对照行给你发过去。\n\nRegards,\n[Saga Networks]David",
       "question": "With Cambium/RUCKUS ICX/TP-Link in your stack, who fills your 24-port 370W PoE + 4×10G uplink requirement for WISP/MSP builds today?",
       "alt2": "向导问 Siklu/Teltonika 边缘节点 -40°C 掉电怎么救？",
       "alt3": "Teltonika 客闯多边缘网关下，边缘补给能怎样的 STI 对面？",
@@ -68,7 +68,7 @@
       "customer": "A-569",
       "fact": "NETWORK DEVICES INC.（美国电信设备经销商 telecom equipment supplier,2014 起），Trustpilot 自述「leading Texas-based reseller of network hardware with a global reach」，10,000+ 客户覆盖 50+ 国（Trustpilot 公司自述），址 3134 Amesbury Ct, Sugar Land, TX 77478,+1-201-559-1474,sales@networkdevicesinc.com,Trustpilot 4.7（44 评）；50+ 品牌谱（Cisco 新/旧为主）含 MikroTik（官方产品线 collection：RouterBOARD 、CloudRouter 与 CRS1xx/3xx 交换），在售 MikroTik CRS518-16XS-2XQ(2×100G QSFP28 + 16×10G SFP+）等",
       "inference": "美国独立 IT 硬件分销（非 MikroTik 官方渠道）,MikroTik 谱为 25+ 品牌之一；赛道类老证卷商自试 nature,US 市场 barnsable;Marvell Prestera 锚=CRS1xx/3xx/518 在售",
-      "hypothesis": "客户谱广（10,000+ 现款客户多品种 reseller 客户）；以 STC-424DGGPM-280W 替补位机（$165 锚点）在 Cisco 二手旁做全新价下压产品；TA 强，需以「包保修+替代现货一页」开场",
+      "hypothesis": "客户谱广（10,000+ 现款客户多品种 reseller 客户）；以 STC-424XGGPM-280W 替补位机（$180 锚点）在 Cisco 二手旁做全新价下压产品；TA 强，需以「包保修+替代现货一页」开场",
       "evidence_main": "Trustpilot 4.7/44 评+官网 collection 实立于详讯",
       "tech": "Cisco 新/旧/翻新为主；MikroTik（CRS518 CRS510 在售）；其他 50+ 品牌（Allied Telesis、Calix、APC、Dell、Avaya 等）",
       "hr": "电信设备分销商（Trustpilot 类目），公司公司小组规模不明",
@@ -93,9 +93,9 @@
         {"dim": "购买渠道", "quote": "Contact Us - Network Devices Inc......sales@networkdevicesinc.com, +1-201-559-1474.. 3134 Amesbury Ct. Sugar Land TX 77478", "source": "https://networkdevicesinc.com/pages/contact-us-inquiry"}
       ],
       "followups": [
-        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W（24口 PoE+4×10G）", "angle": "Cisco 二手 24 口 PoE 旁的全新高性价比对照行（MikroTik 在造谱）", "question": "客户来问 24 口 PoE+10G 上行时，CR 二手与 CRS/UniFi 的新品价差怎么讲？", "proof": "STC 规格页+$165 EXW 快照"},
-        {"stage": "第 2 次跟进 · 商业线", "push": "STC-424DGGPM-280W 对照行（型号间对照）", "angle": "对照 Cisco C9200/CRS 谱 cash （现货）", "question": "对照行收不收？", "proof": "型号对照页+8$"},
-        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424DGGPM-280W 现货", "angle": "EXW 现货最后窗口", "question": ""
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424XGGPM-280W（24口 PoE+4×10G）", "angle": "Cisco 二手 24 口 PoE 旁的全新高性价比对照行（MikroTik 在造谱）", "question": "客户来问 24 口 PoE+10G 上行时，CR 二手与 CRS/UniFi 的新品价差怎么讲？", "proof": "STC 规格页+$180 EXW 快照"},
+        {"stage": "第 2 次跟进 · 商业线", "push": "STC-424XGGPM-280W 对照行（型号间对照）", "angle": "对照 Cisco C9200/CRS 谱 cash （现货）", "question": "对照行收不收？", "proof": "型号对照页+8$"},
+        {"stage": "第 3 次跟进 · 商业线", "push": "STC-424XGGPM-280W 现货", "angle": "EXW 现货最后窗口", "question": ""
 , "proof": "现货日历+排产"}
       ],
       "r55": {
@@ -103,7 +103,7 @@
           "①背景再核": "2014 起 Sugar Land TX,Trustpilot 4.7 44 评，自述 leading Texas-based reseller/50+ countries/10k+ customers；不被 MikroTik 官方表现道登记；独立美企",
           "②芯片/型号": "Cisco 全谱（新/旧/翻新）;MikroTik RouterBOARD/CloudRouter/CRS1xx/CRS3xx/CRS518-16XS-2XQ/CRS510(Marvell 锚谱）;Allied Telesis、Calix 灯t.",
           "③KP 深挖": "未定位：sales@ 通用邮箱；10,000+ 说有数厚厚的买方结构  -要公 buyer",
-          "④Saga 对标": "对照谱=旧 Cisco ↔新 Saga 24 口 PoE 对面；STC-424DGGPM-280W 为 P1",
+          "④Saga 对标": "对照谱=旧 Cisco ↔新 Saga 24 口 PoE 对面；STC-424XGGPM-280W 为 P1",
           "⑤在乎与偏好": "customer-first 退款保障（42-day return、免费免费货运无痛资料）、PayPal;",
           "⑥SWOT": "S=10,000+ 客户基+MikroTik 谱在架+4.7 Trustpilot；W=二手重心下价π替代品定位不清；O=全新线对旧 Cisco 及 Comodo 边缘补位；T=滚动二手翻新品 buffer 电极假"
         },
@@ -117,7 +117,7 @@
         "其 MikroTik CRS518 销体量未报",
         "Cisco 二手安认证代表未检"
       ],
-      "email": "Hi sales team\n\nI'm reaching out from Saga Networks — we manufacture Marvell-Prestera L2/L3 PoE switches. You stock MikroTik CRS lines (we noticed CRS518-16XS-2XQ in your shop) but compare it with your vast Cisco new/refurb catalog, there's a price-band gap in new, warranty-backed 24-port PoE + 4×10G uplink switching.\n\nThat's exactly where our STC-424DGGPM-280W sits: 24×Gigabit PoE++ 370W, 4×10G SFP+, L2+ managed, $165 USD EXW snapshot (15-day valid). We've placed many units in US reseller channels.\n\nQuick question: when customers ask for 24-port PoE with 10G uplink between your refurbed Cisco and MikroTik CRS3xx, what do you quote today? Happy to send a spec page if a new-line comparison is useful.\n\nRegards,\n[Saga Networks]David",
+      "email": "Hi sales team\n\nI'm reaching out from Saga Networks — we manufacture Marvell-Prestera L2/L3 PoE switches. You stock MikroTik CRS lines (we noticed CRS518-16XS-2XQ in your shop) but compare it with your vast Cisco new/refurb catalog, there's a price-band gap in new, warranty-backed 24-port PoE + 4×10G uplink switching.\n\nThat's exactly where our STC-424XGGPM-280W sits: 24×Gigabit PoE++ 370W, 4×10G SFP+, L2+ managed, $180 USD EXW snapshot (15-day valid). We've placed many units in US reseller channels.\n\nQuick question: when customers ask for 24-port PoE with 10G uplink between your refurbed Cisco and MikroTik CRS3xx, what do you quote today? Happy to send a spec page if a new-line comparison is useful.\n\nRegards,\n[Saga Networks]David",
       "question": "When a customer requests a 24-port PoE switch with 4×10G uplink, what do you currently quote between your refurbished Cisco and new MikroTik CRS3xx?",
       "alt2": "Mayb拿第三对话：CRS3xx 谱的用家 angles: PoE++ 能补否？",
       "alt3": "US 地区免费下一站 +PayPal=信任术",
@@ -140,7 +140,7 @@
         {"dim": "在售", "quote": "Switches MikroTik CRS510-8XS-2XQ-IN Cisco NEXUS... Tech Atlantix Shop", "source": "https://techatlantix.com/switches/mikroTik"}
       ],
       "followups": [
-        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424DGGPM-280W", "angle": "翻新品旁的全新对照行", "question": "MikroTik 谱动作进度如何？", "proof": "规格页"},
+        {"stage": "第 1 次跟进 · 商业线", "push": "STC-424XGGPM-280W", "angle": "翻新品旁的全新对照行", "question": "MikroTik 谱动作进度如何？", "proof": "规格页"},
         {"stage": "第 2 次跟进 · 商业线", "push": "对照行", "angle": "新品对翻新端到点查", "question": "收不收？", "proof": "对照页"},
         {"stage": "第 3 次跟进 · 商业线", "push": "现货", "angle": "EXW 窗口", "question": "最终确认", "proof": "现货日历"}
       ],

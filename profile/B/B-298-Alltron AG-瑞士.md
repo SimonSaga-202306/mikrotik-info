@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | 瑞士本土大型 IT 分销 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Mägenwil |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil」 — https://www.it-markt.ch/news/2020-09-21/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)
+- 参考 P1: `STC-424XGGPM-280W` — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)
 - 第一问: 你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?
 - 标签: 瑞士|Mägenwil|BrackAlltron集团|Hanwha监控谱|20万SKU
 
@@ -83,7 +83,7 @@ Hi Alltron team,
 
 Two hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.
 
 One question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?
 

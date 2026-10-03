@@ -73,7 +73,7 @@
 - 「Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız」 — https://www.linkedin.com/in/alinailkocyigit/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 工业计算电商+项目谱的 value PoE 配套档
+- 参考 P1: `STC-424XGGPM-280W` — 工业计算电商+项目谱的 value PoE 配套档
 - 第一问: 你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?
 - 标签: 土耳其|Istanbul|工业计算电商|GM具名
 
@@ -83,7 +83,7 @@ Hi Nail,
 
 Two decades in industrial computing - Panel PCs, industrial PCs and touch lines from 10 brands across 6 countries, plus merpazar.com moving the catalog online. Where those industrial PCs are commissioned on-site, managed PoE switching is usually bundled into the same project.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your industrial PC projects, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your industrial PC projects, white-label friendly.
 
 One question: in your industrial computing projects, which managed PoE switch do you supply today - and would a documented value unit earn a bench test?
 

@@ -53,12 +53,41 @@ def r55_sagify(text):
     return re.sub(r'（Saga[^）]*）', '', text)
 
 
+def r61_normalize(text: str) -> str:
+    """R61（2026-10-03，用户指令）：全库型号 STC-424DG*→STC-424XG*(DG=2.5G 误植应为 XG=10G)、
+    价格 $165→$180 统一。冻结/基线类校验两侧先按同一映射归一化再比对。"""
+    # 型号:DG→XG(280W 主推、440W 同款、DGGM 非PoE)
+    text = text.replace('STC-424DGGPM-280W', 'STC-424XGGPM-280W')
+    text = text.replace('STC-424DGGPM-440W', 'STC-424XGGPM-440W')
+    text = re.sub(r'STC-424DGGM(?!PM)', 'STC-424XGGM', text)
+    # 价格:注意顺序,长→短
+    text = text.replace('$165 USD EXW', '$180 USD EXW')
+    text = text.replace('EXW $165',     'EXW $180')
+    text = text.replace('$165 USD',     '$180 USD')
+    text = text.replace('$165 EXW',     '$180 EXW')
+    text = text.replace('($165)',       '($180)')
+    text = text.replace('($165',        '($180')
+    text = text.replace('$165)',        '$180)')
+    text = text.replace('$165 ',        '$180 ')
+    text = text.replace('$165,',        '$180,')
+    text = text.replace('$165,',        '$180,')
+    text = text.replace('$165;',        '$180;')
+    text = text.replace('$165;',        '$180;')
+    text = text.replace('$165\n',       '$180\n')
+    text = text.replace('$165 锚',      '$180 锚')
+    text = text.replace('$165 vs',      '$180 vs')
+    text = text.replace('$165 段',      '$180 段')
+    text = text.replace('$165 到',      '$180 到')
+    text = text.replace('$165~',        '$180~')
+    return text
+
+
 def r55_sagify_row(row):
-    return {r55_sagify(str(k)): r55_sagify('' if v is None else str(v)) for k, v in row.items()}
+    return {r55_sagify(str(k)): r61_normalize(r55_sagify('' if v is None else str(v))) for k, v in row.items()}
 
 
 def r55_sagify_cells(row):
-    return [r55_sagify('' if c is None else str(c)) for c in row]
+    return [r61_normalize(r55_sagify('' if c is None else str(c))) for c in row]
 
 
 def read_csv():
@@ -138,6 +167,10 @@ class RepositoryTests(unittest.TestCase):
     # 允许字段:入口/联系方式+备注.
     R58_BOUNCED = {'A-054', 'A-096', 'A-101', 'A-103', 'A-105'}
     R58_BOUNCED_FIELDS = {'入口/联系方式', '备注'}
+
+    # R61(2026-10-03 用户: A-069 有回复了·归置跟进记录):Iyiola 已双向 4 轮邮件,CSV 状态/互动日期跟进更新
+    R61_REPLIED = {'A-069'}
+    R61_REPLIED_FIELDS = {'状态', '最后互动日', '下次跟进日', '备注', '入口/联系方式'}
     # R53: B 段逐站复筛（283 条带网站 B 行，按 CSV 顺序）达标升级 -> 136 条 B 升 A-432..A-567。
     R53_PROMOTED = {
         'B-010': 'A-432',
@@ -351,6 +384,8 @@ class RepositoryTests(unittest.TestCase):
                        or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
                        or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
+            if before['档案编号'] in self.R61_REPLIED:
+                allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
             if before['档案编号'] in self.PROMOTED_MAP:
@@ -603,6 +638,8 @@ class RepositoryTests(unittest.TestCase):
                        or self.R59_MERGED_BENEFICIARY.get(before['档案编号'])
                        or (self.R59_DOWNGRADED_TARGETS_FIELDS if before['档案编号'] in self.R59_DOWNGRADED_TARGETS
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
+            if before['档案编号'] in self.R61_REPLIED:
+                allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
             # R60:「未测试投递」清理行并入 allowed(基线含该字样才放)
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
@@ -1324,7 +1361,20 @@ class RepositoryTests(unittest.TestCase):
                 got = [list(r)[:len(self.header)] for r in rr]
                 self.assertEqual(len(got), len(expected))
                 for a, b in zip(got, expected):
-                    self.assertEqual([str(v) if v is not None else '' for v in a], [b[k] for k in self.header])
+                    # R61(2026-10-03): A-069 因 4 轮邮件双向对话 ⚪「状态/最后互动日/下次跟进日/备注/入口联系方式」
+                    # 已被更新,xlsx 旧基线保留「未触达」,本行按 R61_REPLIED_FIELDS 白名单放行逐字段差异
+                    if b['档案编号'] in self.R61_REPLIED:
+                        av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
+                        bv_n = [r61_normalize(r55_sagify(b[k])) for k in self.header]
+                        field_idx = {k: i for i, k in enumerate(self.header)}
+                        for fname in self.R61_REPLIED_FIELDS:
+                            if fname in field_idx:
+                                av_n[field_idx[fname]] = '<R61-ALLOW>'
+                                bv_n[field_idx[fname]] = '<R61-ALLOW>'
+                        self.assertEqual(av_n, bv_n, name)
+                    else:
+                        self.assertEqual([r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a],
+                                         [r61_normalize(r55_sagify(b[k])) for k in self.header])
                     seen.add(b['档案编号'])
             self.assertEqual(seen, set(self.by_code))
             wb.close()
@@ -1345,7 +1395,7 @@ class RepositoryTests(unittest.TestCase):
         for n in range(1, 60):
             self.assertIn(f'### R{n:02d} ·', text)
         # R60(2026-09-29)A 类运营判定注入轮(KP 领英/未测试投递清除/退信补标/三项判定)已归档
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 61)  # 60 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 62)  # 61 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
@@ -1357,7 +1407,7 @@ class RepositoryTests(unittest.TestCase):
         struct = json.loads((ROOT / 'batch/structured_profiles_v1.json').read_text(encoding='utf-8'))
         a_files = sorted((ROOT / 'profile/A').glob('A-*.md'))
         self.assertEqual(len(a_files), len(struct))
-        allow_p1 = {'STC-28DGGPM', 'STC-424DGGPM-280W', 'STI-288GP',
+        allow_p1 = {'STC-28DGGPM', 'STC-424XGGPM-280W', 'STI-288GP',
                     'STI-480XGGM', 'STI-280GE', 'CONSULT-OEM'}
         for p in a_files:
             text = p.read_text(encoding='utf-8')
@@ -1377,7 +1427,7 @@ class RepositoryTests(unittest.TestCase):
             if struct[code]['p1'] != 'CONSULT-OEM':
                 m = re.search(r'\| \*\*P1（首触唯一）\*\* \| ([^|]+?)\s*\|', text)
             self.assertTrue(m, code)
-            pl = {'STC-28DGGPM（8口 PoE 接入盒）', 'STC-424DGGPM-280W（24口 PoE + 4×10G）',
+            pl = {'STC-28DGGPM（8口 PoE 接入盒）', 'STC-424XGGPM-280W（24口 PoE + 4×10G）',
                   'STI-288GP（工业非管理 8口 PoE）', 'STI-480XGGM（工业 L2+ 8口+4×10G）',
                   'STI-280GE（工业非管理 8口 GE）', 'OEM/白牌合作探询（无量产型号首推）'}
             self.assertIn(m.group(1).strip(), pl, code)

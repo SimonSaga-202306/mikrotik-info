@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — VARIA 大型 B2B 分销：$100-170 空白价位段是给它的牌；发票结算信用体系可镜像试探；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — VARIA 大型 B2B 分销：$100-170 空白价位段是给它的牌；发票结算信用体系可镜像试探；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -81,11 +81,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：上架试销：对比他货架上的 MikroTik CRS328-24P 与 Ubiquiti 24 口 PoE，给一档「功率更大、价格更低」的价位补缺；先谈样品与首批小单。
 - **要问的问题**：他愿意先上 1–2 个 SKU 试销，还是先做项目配套？
 - **随附证明**：上架用中英文规格/图片包 + 首批档位价 + 退货/售后条款。
@@ -136,7 +136,7 @@ updated: 2026-09-28
 - **①背景再核**：Chemnitz 大型 B2B 电商分销（官方分销墙 6+ 品牌、MikroTik Master 档）；信用体系成熟
 - **②芯片/型号**：官方分销品牌墙；自有牌未见交换机
 - **③KP 深挖**：shop@ 为采购第一入口；24/7 报价服务制度化
-- **④Saga 对标**：$99/$165 接入层空白段；白牌贴其单或新牌上架
+- **④Saga 对标**：$99/$180 接入层空白段；白牌贴其单或新牌上架
 - **⑤在乎与偏好**：毛利/交期/质保文档；德式书面化
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -165,7 +165,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | VARIA 大型 B2B 分销：$100-170 空白价位段是给它的牌；发票结算信用体系可镜像试探 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | VARIA 大型 B2B 分销：$100-170 空白价位段是给它的牌；发票结算信用体系可镜像试探 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -223,7 +223,7 @@ Hi VARIA team,
 
 I see VARIA is the official distributor for Ubiquiti, MikroTik, Teltonika and more - and the 24/7 quote service suggests you like fast, clean B2B.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) positioned exactly in the open price band between the brands you carry. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing, full datasheet and CE docs included.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) positioned exactly in the open price band between the brands you carry. Reference: $180 USD EXW, volume pricing from 20 pcs, neutral packing, full datasheet and CE docs included.
 
 One question: which price band for 24-port PoE is currently underserved in your shop?
 

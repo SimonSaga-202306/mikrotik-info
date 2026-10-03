@@ -42,7 +42,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 空白价位段报价单页",
-     "push": "STC-424DGGPM-280W（$165 EXW 阶梯）",
+     "push": "STC-424XGGPM-280W（$180 EXW 阶梯）",
      "angle": "24 口 PoE 在 165 美元 EXW 带的分销毛利测算",
      "question": "当前 24 口 PoE 在其商城的空白价位段是哪个？",
      "proof": "一页价卡（EN/DE）+阶梯表"
@@ -67,7 +67,7 @@
      "①背景再核": "Chemnitz 大型 B2B 电商分销（官方分销墙 6+ 品牌、MikroTik Master 档）；信用体系成熟",
      "②芯片/型号": "官方分销品牌墙；自有牌未见交换机",
      "③KP 深挖": "shop@ 为采购第一入口；24/7 报价服务制度化",
-     "④Saga 对标": "$99/$165 接入层空白段；白牌贴其单或新牌上架",
+     "④Saga 对标": "$99/$180 接入层空白段；白牌贴其单或新牌上架",
      "⑤在乎与偏好": "毛利/交期/质保文档；德式书面化",
      "⑥SWOT": "S 大流水+信用成熟 / W 无自有交换机品牌 / O 空白价位段 / T 巨头直供价压"
     },
@@ -93,7 +93,7 @@
     "白牌意愿",
     "账期结构"
    ],
-   "email": "Hi VARIA team,\n\nI see VARIA is the official distributor for Ubiquiti, MikroTik, Teltonika and more - and the 24/7 quote service suggests you like fast, clean B2B.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) positioned exactly in the open price band between the brands you carry. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing, full datasheet and CE docs included.\n\nOne question: which price band for 24-port PoE is currently underserved in your shop?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi VARIA team,\n\nI see VARIA is the official distributor for Ubiquiti, MikroTik, Teltonika and more - and the 24/7 quote service suggests you like fast, clean B2B.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) positioned exactly in the open price band between the brands you carry. Reference: $180 USD EXW, volume pricing from 20 pcs, neutral packing, full datasheet and CE docs included.\n\nOne question: which price band for 24-port PoE is currently underserved in your shop?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which price band for 24-port PoE is currently underserved in your shop?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -194,7 +194,7 @@
     "新牌上架门槛",
     "Camp 供应商参与政策"
    ],
-   "email": "Hi Aikom team,\n\nCongratulations on 20 years. And I noticed the brand wall gained Zyxel in September - switching is clearly an active category for you.\n\nWe are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $165 USD EXW.\n\nOne question: is there an open slot for a PoE-focused switching line in your portfolio?\n\nIf useful, I can send evaluation units - and if Connectivity Camp on Oct 13 accepts vendor demos, I would love to show the watchdog live. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Aikom team,\n\nCongratulations on 20 years. And I noticed the brand wall gained Zyxel in September - switching is clearly an active category for you.\n\nWe are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $180 USD EXW.\n\nOne question: is there an open slot for a PoE-focused switching line in your portfolio?\n\nIf useful, I can send evaluation units - and if Connectivity Camp on Oct 13 accepts vendor demos, I would love to show the watchdog live. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is there an open slot for a PoE-focused switching line in your portfolio?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-480XGGM",
@@ -297,7 +297,7 @@
    ],
    "email": "Hi Alejandro,\n\nI came across MikroTik Training Italia - official courses from Lamezia to Cagliari, plus the WISP consultancy side with RIPE and MPLS work.\n\nWe build a compact 8-port managed PoE switch well suited for training benches and WISP access corners (802.3af/at, PoE watchdog, full L2). Reference: $99 USD EXW.\n\nOne question: which switch models do you currently put on the bench for switching labs?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which switch models do you currently put on the bench for switching labs?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "意大利|官方Trainer|WISP咨询|教具+推荐双线|师者红线"
   },
@@ -401,7 +401,7 @@
     "其推荐硬件清单",
     "实验室评测窗口"
    ],
-   "email": "Hi Alessandro,\n\nI watched the OptiWize + ZeroTier story - a management plane for MikroTik fleets is exactly where the industry hurts. And congratulations on the official Training Center.\n\nWe build PoE switches with a hardware-level self-healing feature your audience will appreciate: a PoE watchdog that power-cycles a hung AP or camera without a truck roll - SNMP/API telemetry exposed, so it could sit under a management plane like OptiWize. 24-port 280W model reference: $165 USD EXW.\n\nOne question: does OptiWize expose hooks for third-party hardware telemetry (SNMP/API)?\n\nIf useful, I can send evaluation units for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Alessandro,\n\nI watched the OptiWize + ZeroTier story - a management plane for MikroTik fleets is exactly where the industry hurts. And congratulations on the official Training Center.\n\nWe build PoE switches with a hardware-level self-healing feature your audience will appreciate: a PoE watchdog that power-cycles a hung AP or camera without a truck roll - SNMP/API telemetry exposed, so it could sit under a management plane like OptiWize. 24-port 280W model reference: $180 USD EXW.\n\nOne question: does OptiWize expose hooks for third-party hardware telemetry (SNMP/API)?\n\nIf useful, I can send evaluation units for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does OptiWize expose hooks for third-party hardware telemetry (SNMP/API)?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -499,7 +499,7 @@
    "email": "Hi Alessandro,\n\nI found you on the MikroTik consultant list - eight certifications including MTCSWE and MTCEWE is rare air.\n\nQuick context: we build managed PoE switches with a full L2+ feature table (Voice VLAN, ERPS, watchdog). I would not pitch blind - your site says under construction, so I keep this short.\n\nOne question: are you currently taking on projects where the switching layer is open for alternatives?\n\nIf yes, I can send the full feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Are you currently taking on projects where the switching layer is open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "意大利|8证顾问|站休眠|先电话解冻"
   },
   {
@@ -593,7 +593,7 @@
    ],
    "email": "Hi Alfredo,\n\nTikTrain is rare: the full MikroTik ladder AND the full Ubiquiti ladder under one roof since 2000.\n\nWe build a compact 8-port managed PoE switch that serves both worlds on the training bench (802.3af/at, L2 features, watchdog). Reference: $99 USD EXW.\n\nOne question: which of your courses actually put PoE-powered devices on the lab bench?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which of your courses actually put PoE-powered devices on the lab bench?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "意大利|双栈培训|MikroTik+Ubiquiti|教具|师者红线"
   },
@@ -646,7 +646,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 摄像头供电痛点",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "24 口 PoE 一柜收纳监控+门禁供电",
      "question": "一个中型监控项目摄像头/门禁点数？",
      "proof": "PoE 预算计算页"
@@ -697,7 +697,7 @@
     "项目盘规模",
     "培训教具现况"
    ],
-   "email": "Hi Cristian,\n\nI found Netify - integrated security systems in Lodi, and you as the in-house MikroTik trainer (MTCNA/MTCRE/MTCSE). Nice combination.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G uplinks and a hardware PoE watchdog - sized for exactly the camera + access-control closets you wire every week. Reference: $165 USD EXW.\n\nOne question: in a mid-size surveillance project, how many PoE endpoints do you typically power from one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Cristian,\n\nI found Netify - integrated security systems in Lodi, and you as the in-house MikroTik trainer (MTCNA/MTCRE/MTCSE). Nice combination.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G uplinks and a hardware PoE watchdog - sized for exactly the camera + access-control closets you wire every week. Reference: $180 USD EXW.\n\nOne question: in a mid-size surveillance project, how many PoE endpoints do you typically power from one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a mid-size surveillance project, how many PoE endpoints do you typically power from one cabinet?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -795,7 +795,7 @@
    "email": "Hi Davide,\n\nI found you on the MikroTik consultant list - nine certifications says you have been in the trenches a long time.\n\nWe build managed PoE switches (Voice VLAN, ERPS, watchdog, 4×10G uplinks on the 24-port). I keep this short because I could not find much public material - which usually means word-of-mouth business, fair enough.\n\nOne question: do your client projects ever leave room for an alternative on the switching layer?\n\nIf yes, I can send the full feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do your client projects ever leave room for an alternative on the switching layer?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "意大利|9证顾问|足迹弱|电话破冰"
   },
   {
@@ -995,7 +995,7 @@
    ],
    "email": "Hi Gianpiero,\n\nI found you on the MikroTik consultant list (MTCNA/MTCSE) - and noticed your CTU/CTP forensic consulting path on LinkedIn. (To be clear upfront: I am reaching out about your private consulting practice, nothing related to any public institution.)\n\nWe build compact managed PoE switches that consultants like to keep on the bench as multi-purpose tools (802.3af/at, ERPS, watchdog, tap-friendly). Reference: $99 USD EXW.\n\nOne question: does your private consulting work ever need a versatile PoE tool on the bench?\n\nIf useful, I can send one unit for evaluation. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Does your private consulting work ever need a versatile PoE tool on the bench?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "意大利|公立红线户|仅私人顾问线|CTU鉴定|双栈证"
   }

@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Multilink Solutions Inc.（美国辛辛那提，自述 **«B2B Network Hardware Distributor»／«Authorized US Distributor, ISP, WISP, Campus, Security Supply»**，sales@multilink.us，888-254-8006）：30+ 授权品牌、5,000+ SKU，代理 *…；原 B-364 升级，编号顺延 A-542
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Multilink 美 B2B 授权分销（MT/Ubi/TP-Link 30+牌 5000 SKU+Cincinnati 仓）：WISP/校园 PoE 多场景对照正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Multilink 美 B2B 授权分销（MT/Ubi/TP-Link 30+牌 5000 SKU+Cincinnati 仓）：WISP/校园 PoE 多场景对照正口（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,11 +84,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：多场景 PoE 对照行
 - **要问的问题**：校园/安防报价里 value 档 24 口 PoE 收吗？
 - **随附/动作**：规格页
@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.multilink.us|授权分销+自营仓
 - **②芯片/型号**：MT/Ubi/TP-Link 谱
 - **③KP 深挖**：分销 buyer 口（sales@）
-- **④Saga 对标**：STC-424 对照行（$165 锚点一致）
+- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
 - **⑤在乎与偏好**：账期/返单成熟
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,14 +140,14 @@ updated: 2026-09-28
 - **技术与认证**：授权证链齐
 - **采购与供应链信号**：自营仓现货
 - **近期动态与线索**：30+ 牌并售持续扩
-- **与我方契合点**：24 口 PoE+4×10G=校园/安防随单对照档（$165 锚点一致）
+- **与我方契合点**：24 口 PoE+4×10G=校园/安防随单对照档（$180 锚点一致）
 - **风险与注意**：授权谱厚——需差异化定位不打价格战
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Multilink 美 B2B 授权分销（MT/Ubi/TP-Link 30+牌 5000 SKU+Cincinnati 仓）：WISP/校园 PoE 多场景对照正口（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Multilink 美 B2B 授权分销（MT/Ubi/TP-Link 30+牌 5000 SKU+Cincinnati 仓）：WISP/校园 PoE 多场景对照正口（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -204,7 +204,7 @@ Hi Multilink team,
 
 Thirty-plus authorized brands and five thousand SKUs out of your Cincinnati warehouse say your buyers already trust you to stock the full quote - ISP, campus PoE, security, fiber.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, 4x10G SFP+ uplinks, rackmount) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a value benchmark line for the quotes that die on price, not to displace the brands you lead with.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, 4x10G SFP+ uplinks, rackmount) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a value benchmark line for the quotes that die on price, not to displace the brands you lead with.
 
 One question: in your campus and security quotes, is there room for a documented value 24-port PoE switch next to the premium lines?
 
@@ -238,4 +238,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Multilink Solutions · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Multilink%20Solutions)(搜索链接,点入后核职位再加;来源:档案名(个人档))
 - **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

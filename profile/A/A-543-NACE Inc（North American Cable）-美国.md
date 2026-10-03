@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: true, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：NACE = North American Cable Equipment（美国 PA，宽带/线缆设备专业分销），自述 **«Your Trusted MikroTik Master Distributor»**（北美 MikroTik 总代），MikroTik 专页产品类目含 **Switches（/mikrotik-product/switches/，CRS312-4C8XG-RM …；原 B-365 升级，编号顺延 A-543
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — NACE 美 CATV 前端商（FiberTronix+LigoWave+MT Solutions 专页）：headend 项目随单低密窄位（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — NACE 美 CATV 前端商（FiberTronix+LigoWave+MT Solutions 专页）：headend 项目随单低密窄位（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do you currently badge any switching hardware under your own name, or is everything resold vendor-branded?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：随单低密窄针
 - **要问的问题**：headend/FTTH 项目随单收 24 口 PoE 吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://products.nace.tv|CATV 前端商
 - **②芯片/型号**：FiberTronix/MT 谱
 - **③KP 深挖**：官网联系口
-- **④Saga 对标**：STC-424 随单窄位（$165 锚点一致）
+- **④Saga 对标**：STC-424 随单窄位（$180 锚点一致）
 - **⑤在乎与偏好**：项目制走货
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -139,14 +139,14 @@ updated: 2026-09-28
 - **技术与认证**：headend 组装能力
 - **采购与供应链信号**：项目随单
 - **近期动态与线索**：MT 专页维护中
-- **与我方契合点**：24 口 PoE 随单低密窄位（$165 锚点一致）
+- **与我方契合点**：24 口 PoE 随单低密窄位（$180 锚点一致）
 - **风险与注意**：CATV 主业——外联低密窄针
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | NACE 美 CATV 前端商（FiberTronix+LigoWave+MT Solutions 专页）：headend 项目随单低密窄位（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | NACE 美 CATV 前端商（FiberTronix+LigoWave+MT Solutions 专页）：headend 项目随单低密窄位（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -203,7 +203,7 @@ Hi NACE team,
 
 FiberTronix headend gear plus your MikroTik Solutions page says your CATV and FTTH projects already touch RouterOS networks - and every headend build-out ends with an access-layer PoE question somewhere.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a catalogue-completeness value line, not to displace what you lead with.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a catalogue-completeness value line, not to displace what you lead with.
 
 One question: on headend or FTTH jobs, would a documented value 24-port PoE switch be worth listing for the accessory side of your projects?
 

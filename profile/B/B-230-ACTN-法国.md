@@ -73,7 +73,7 @@
 - 「Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, téléphonie」 — https://www.distributique.com/actualites/lire-tour-de-france-actn-12361.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 法式 Master+自牌血统(OEM 咬合基因）:自牌之外的 value PoE 楼价补位
+- 参考 P1: `STC-424XGGPM-280W` — 法式 Master+自牌血统(OEM 咬合基因）:自牌之外的 value PoE 楼价补位
 - 第一问: 你们 ACTN 谱里,PoE 接层现走哪个 OEM？ACN 桩自牌之外如何评价？
 - 标签: 法国|图卢兹|Master|自牌ACN/Armagnet血统
 
@@ -83,7 +83,7 @@ Hi ACTN team,
 
 A Tour de France that pulls integrators through six cities with your own ACN antenna line and Armagnet software on stage - that is private-label DNA rare among French Master distributors.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value PoE stocking tier right beside your own label gear, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value PoE stocking tier right beside your own label gear, white-label friendly.
 
 One question: below the ACN-brand shelf, which PoE access source are your Tour de France integrators standardizing on - and would a documented white-label unit earn a bench test at Tournefeuille?
 

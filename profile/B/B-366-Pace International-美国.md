@@ -72,7 +72,7 @@
 - 「Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally」 — https://futureforward.org/search-directory/pace-international/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口
+- 参考 P1: `STC-424XGGPM-280W` — 卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口
 - 第一问: 你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？
 - 标签: 美国|明尼苏达|Dish独分|install谱
 
@@ -82,7 +82,7 @@ Hi Pace International team,
 
 The only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.
 
 One question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?
 

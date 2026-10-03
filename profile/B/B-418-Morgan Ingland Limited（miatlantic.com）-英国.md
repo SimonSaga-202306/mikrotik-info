@@ -73,7 +73,7 @@
 - 「Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands」 — https://miatlantic.com/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)
+- 参考 P1: `STC-424XGGPM-280W` — 电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)
 - 第一问: 你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?
 - 标签: 英国|伯明翰|电商reseller|MatchPrice
 
@@ -83,7 +83,7 @@ Hi Morgan Ingland team,
 
 A hundred brands on one shelf across government, education and hospitality - with a Match Price promise that tells me you respect a hard number more than a brand story.
 
-Here is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $165 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.
+Here is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $180 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.
 
 One question: on your shelf today, which 24-port managed PoE unit holds that value tier - and would a documented unit at this EXW number earn a listing test?
 

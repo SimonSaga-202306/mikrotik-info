@@ -50,7 +50,7 @@ except FileNotFoundError:
 PRICE = {'STC-28DGGPM': {'price': '$99 USD EXW (2026-09-28, 15天有效）'.replace('（', '(').replace('）', ')'),
                          'price_cn': '$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）',
                          'desc': '8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启'},
-         'STC-424DGGPM-280W': {'price_cn': '$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）',
+         'STC-424XGGPM-280W': {'price_cn': '$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）',
                                'desc': '24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗'},
          'STI-288GP': {'price_cn': '$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）',
                        'desc': '工业非管理 8口 PoE af/at，250m 延伸供电，冗余 DC44–57V（过压/反接保护），DIN 轨，3 年保'},
@@ -61,7 +61,7 @@ PRICE = {'STC-28DGGPM': {'price': '$99 USD EXW (2026-09-28, 15天有效）'.repl
          'CONSULT-OEM': {'price_cn': '—（合作探询，无量产报价）',
                          'desc': 'OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈'}}
 P_LABEL = {'STC-28DGGPM': 'STC-28DGGPM（8口 PoE 接入盒）',
-           'STC-424DGGPM-280W': 'STC-424DGGPM-280W（24口 PoE + 4×10G）',
+           'STC-424XGGPM-280W': 'STC-424XGGPM-280W（24口 PoE + 4×10G）',
            'STI-288GP': 'STI-288GP（工业非管理 8口 PoE）',
            'STI-480XGGM': 'STI-480XGGM（工业 L2+ 8口+4×10G）',
            'STI-280GE': 'STI-280GE（工业非管理 8口 GE）',
@@ -79,10 +79,10 @@ EMAIL_HOOK = {
                  "with a hardware PoE watchdog that power-cycles a frozen AP or camera "
                  "automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. "
                  "Reference: $99 USD EXW."),
- 'STC-424DGGPM-280W': ("24-port PoE + 10G uplinks for your larger sites",
+ 'STC-424XGGPM-280W': ("24-port PoE + 10G uplinks for your larger sites",
                       "We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, "
                       "Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras "
-                      "without a site visit. Reference: $165 USD EXW."),
+                      "without a site visit. Reference: $180 USD EXW."),
  'STI-288GP': ("Rugged 8-port PoE for outdoor/unheated cabinets",
                "We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended "
                "reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail "
@@ -313,7 +313,7 @@ def render(e, ctx):
                 # R54 frozen 计划保留原文（测试冻结）；440W 档停编仅追加现行对照注记
                 prod = (st.get('product') or '')
                 if '440W' in prod and '现行对照' not in prod:
-                    prod = prod + '（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）'
+                    prod = prod + '（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）'
                 w('- **推什么**：%s' % prod)
                 w('- **切入点**：%s' % st['angle'])
                 w('- **要问的问题**：%s' % st['question'])

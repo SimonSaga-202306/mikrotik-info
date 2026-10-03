@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：IPMEDIA 自述 **«Distributor síťových technologií»（网络技术分销商）**；首页横幅直链 PoE 交换机（ES22xxP）检索页，产品线含 TP-Link Omada Fusion 2.5G/控制器、MikroTik hAP be lite/hAP be3/Cube 60GHz、Solarix 铜缆光缆；原 B-196 升级，编号顺延 A-496
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — IPMEDIA 捷 Brno 分销（IPM 自牌 SFP=OEM 熟；PoE banner 直达）：自牌心态 value 对照正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — IPMEDIA 捷 Brno 分销（IPM 自牌 SFP=OEM 熟；PoE banner 直达）：自牌心态 value 对照正口（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：自牌心态对照行
 - **要问的问题**：收对照行吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.ipmedia.cz|IPM 自牌 SFP+PoE switch banner 直达
 - **②芯片/型号**：IPM 自牌
 - **③KP 深挖**：分店多年
-- **④Saga 对标**：STC-424 对照正口（$165 锚点一致）
+- **④Saga 对标**：STC-424 对照正口（$180 锚点一致）
 - **⑤在乎与偏好**：自牌心态（OEM 熟）
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,7 +140,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | IPMEDIA 捷 Brno 分销（IPM 自牌 SFP=OEM 熟；PoE banner 直达）：自牌心态 value 对照正口（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | IPMEDIA 捷 Brno 分销（IPM 自牌 SFP=OEM 熟；PoE banner 直达）：自牌心态 value 对照正口（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -196,7 +196,7 @@ Hi IPMEDIA team,
 
 A PoE switch banner driving straight to your ES22 search results, an IPM house-label SFP line, TP-Link partner demos and full MikroTik news discipline - you already know house-label value wins. Our 24-port PoE row is the same logic, one level up
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: beside your house-label lines, would you add a documented value 24-port PoE switch?
 

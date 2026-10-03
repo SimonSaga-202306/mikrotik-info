@@ -52,14 +52,14 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 样板机随项目清单说话",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "酒店 AP/CCTV 接入层；24×af/at 280W+4×10G 上联一台到位",
      "question": "典型酒店项目一层多少个 AP/CAM 供电点？",
      "proof": "Voice VLAN+PoE 看门狗实测页"
     },
     {
      "stage": "第 2 次跟进 · 对比型报价",
-     "push": "STC-424DGGPM-280W vs 现用 ubnt 24PoE",
+     "push": "STC-424XGGPM-280W vs 现用 ubnt 24PoE",
      "angle": "USD 单价+EXW 条件直给，留其毛利空间",
      "question": "其典型项目接入层单价带在哪？",
      "proof": "阶梯价卡（EN）"
@@ -77,7 +77,7 @@
      "①背景再核": "克里特 Heraklion 合伙人制 2-10 人；创始人 MTCNA+MTCINE；前台 1 人（LinkedIn 雇员墙）",
      "②芯片/型号": "Partner 墙含 MikroTik/Ubiquiti/Huawei Enterprise——Marvell 系接入层（华为 Enterprise 大量 Marvell Prestera）；具体在售型号未公开",
      "③KP 深挖": "Charis Marinakis 创始人+高级工程师（LinkedIn）；邮箱域 MX 指向 O365 防护盘",
-     "④Saga 对标": "酒店/企业接入层 PoE：STC-424DGGPM-280W 对上 Ubiquiti USW-24-PoE 类，价格带下切",
+     "④Saga 对标": "酒店/企业接入层 PoE：STC-424XGGPM-280W 对上 Ubiquiti USW-24-PoE 类，价格带下切",
      "⑤在乎与偏好": "项目階段性采购；讲工程语言、给工程项目价；快节奏小团队→单页报价最佳",
      "⑥SWOT": "S 双证+Crete 本地口碑 / W 2-10 人抗风险弱、无自有硬件品牌 / O 旅游季 WiFi 更新周期 / T 华为企业级全套低价"
     },
@@ -105,7 +105,7 @@
     "白标意愿度",
     "账期习惯"
    ],
-   "email": "Hi Charis,\n\nI came across SystemCon - MTCNA+MTCINE on board and a full partner wall from Microsoft to MikroTik.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that power-cycles a hung AP without a site visit. Reference: $165 USD EXW, neutral packing available.\n\nOne question: in a typical hotel floor deployment, how many PoE endpoints do you land on one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Charis,\n\nI came across SystemCon - MTCNA+MTCINE on board and a full partner wall from Microsoft to MikroTik.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that power-cycles a hung AP without a site visit. Reference: $180 USD EXW, neutral packing available.\n\nOne question: in a typical hotel floor deployment, how many PoE endpoints do you land on one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical hotel floor deployment, how many PoE endpoints do you land on one access switch?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-280GE",
@@ -214,7 +214,7 @@
    ],
    "email": "Hi Eleftherios,\n\nI came across MikroTik Training Greece - 1st official training center in Greece, 8.311+ engineers certified. Impressive.\n\nWe build a compact 8-port Gigabit managed PoE switch often used on training lab benches (802.3af/at, PoE watchdog, DIN/桌面两用). Reference: $99 USD EXW.\n\nOne question: which switch models do you currently put on the bench for switching labs?\n\nIf useful, I can send a lab bench unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which switch models do you currently put on the bench for switching labs?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "希腊|培训中心|HellasCom集团|教具实验架|师者红线"
   },
@@ -315,7 +315,7 @@
    ],
    "email": "Hi George,\n\nI found you through the MikroTik consultant list - and saw on LinkedIn you now run e-dreams, after the GTA years on KNX building controls. Solid track.\n\nWe build an 8-port managed Gigabit PoE switch designed for exactly the mixed KNX/IP + CCTV corners of hotel projects. Reference: $99 USD EXW.\n\nOne question: in your hotel KNX projects today, which channel supplies the IP access-layer switches?\n\nIf useful, I can send one unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your hotel KNX projects today, which channel supplies the IP access-layer switches?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-280GE",
    "tag": "希腊|KNX楼宇自控|e-dreams分销|站休眠|个人KP"
   },
@@ -368,7 +368,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 酒店 6Play 标准件切入",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "每层 24 口 PoE+4×10G 上联的酒店楼层标准件",
      "question": "典型度假酒店楼层布多少个 PoE 点（AP/IPTV/CAM/话机）？",
      "proof": "6Play 楼层拓扑图（EN）"
@@ -393,7 +393,7 @@
      "①背景再核": "1998/Piraeus/ISO 9001/500+项目；酒店+国家级隧道双线；MikroTik 分销 2001 起（与 A-022 同集团）",
      "②芯片/型号": "伙伴墙 20+：MikroTik/Ruckus/Cambium/Mimosa/Ubiquiti/TP-Link/2N/Dahua/Hikvision/Yeastar…（Marvell 系接入层大量在场）",
      "③KP 深挖": "商业进口部 sales@ 为第一窗；培训师线走 A-022；元件级维修实验室（技术支持部）",
-     "④Saga 对标": "酒店 6Play 楼层接入标准：STC-424DGGPM-280W 对 Ruckus/Ubiquiti 档价格下切",
+     "④Saga 对标": "酒店 6Play 楼层接入标准：STC-424XGGPM-280W 对 Ruckus/Ubiquiti 档价格下切",
      "⑤在乎与偏好": "正规进口商体量：要合规、账期、稳定交期；价格带工程学",
      "⑥SWOT": "S 28 年+国家级项目背书+分销培训双通道 / W 伙伴墙臃肿决策慢 / O 旅游季 WiFi 翻新+AirBNB 潮 / T Ruckus/Cambium 既有盘"
     },
@@ -420,7 +420,7 @@
     "酒店项目 BOM 准入门槛",
     "年度采购盘与账期"
    ],
-   "email": "Hi HellasCom team,\n\nI came across HellasCom - 28 years, Greece-wide hospitality 6Play projects across the Cyclades and Crete, plus the MikroTik distribution and training arm. Remarkable footprint.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing available.\n\nOne question: in a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi HellasCom team,\n\nI came across HellasCom - 28 years, Greece-wide hospitality 6Play projects across the Cyclades and Crete, plus the MikroTik distribution and training arm. Remarkable footprint.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $180 USD EXW, volume pricing from 20 pcs, neutral packing available.\n\nOne question: in a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-480XGGM",
@@ -523,7 +523,7 @@
    ],
    "email": "Hi Dimitrios,\n\nI noticed you on the MikroTik consultant list (MTCNA/MTCRE/MTCTCE/MTCSE) and that IME ships imeFoodService across Greek restaurants.\n\nWe build a compact 8-port managed PoE switch that fits exactly the restaurant-in-a-box corner: order terminals, kitchen printers, customer displays and one AP on a single box. Reference: $99 USD EXW.\n\nOne question: when you deploy imeFoodService, who supplies the in-store switching today?\n\nIf useful, I can send one unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "When you deploy imeFoodService, who supplies the in-store switching today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-280GE",
    "tag": "希腊|软件商交叉销售|餐饮门店|4证KP|公共段规避"
   },
@@ -578,7 +578,7 @@
     },
     {
      "stage": "第 2 次跟进 · 样机进实验室",
-     "push": "STC-424DGGPM-280W 一台",
+     "push": "STC-424XGGPM-280W 一台",
      "angle": "30 天无义务实测，数据其自定公布与否",
      "question": "需要哪类指标在其 Icinga 里被看到？",
      "proof": "SNMP OID 清单"
@@ -623,7 +623,7 @@
     "科研项目硬件采购窗口",
     "对 CN 制造的合规口径"
    ],
-   "email": "Hi Alexej,\n\nI found you via the MikroTik consultant list (MTCNA/MTCRE/MTCSWE) and DECOIT's vendor-neutral, research-heavy profile around Fraunhofer collaborations.\n\nWe build a 24-port Gigabit PoE switch (280W) with 4×10G uplinks, full SNMP exposure (Icinga-friendly OID list available) and a hardware PoE watchdog. Instead of a pitch, I would rather send our full technical dossier - datasheet, firmware changelog, test reports. Reference: $165 USD EXW.\n\nOne question: is your lab currently evaluating next-generation access-layer switches?\n\nIf useful, I can send one unit for a 30-day, no-obligation evaluation - publish your findings or keep them private, your call. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Alexej,\n\nI found you via the MikroTik consultant list (MTCNA/MTCRE/MTCSWE) and DECOIT's vendor-neutral, research-heavy profile around Fraunhofer collaborations.\n\nWe build a 24-port Gigabit PoE switch (280W) with 4×10G uplinks, full SNMP exposure (Icinga-friendly OID list available) and a hardware PoE watchdog. Instead of a pitch, I would rather send our full technical dossier - datasheet, firmware changelog, test reports. Reference: $180 USD EXW.\n\nOne question: is your lab currently evaluating next-generation access-layer switches?\n\nIf useful, I can send one unit for a 30-day, no-obligation evaluation - publish your findings or keep them private, your call. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is your lab currently evaluating next-generation access-layer switches?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-480XGGM",
@@ -731,7 +731,7 @@
    ],
    "email": "Hi Dinko,\n\nI found you via the MikroTik consultant list (MTCNA/MTCSE) - and MBN's FTTT+Richtfunk hybrid for rural broadband is a clever architecture.\n\nWe build industrial-grade managed PoE switches rated -40 to 75C, designed for exactly the sealed tower cabinets your tower sites use. 802.3af/at, PoE watchdog included. Reference: $74.8 USD EXW.\n\nOne question: how hot do your tower cabinets get in summer - and do the switches in them survive?\n\nIf useful, I can send one unit for evaluation with the full temperature test report. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "How hot do your tower cabinets get in summer - and do the switches in them survive?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-280GE",
    "tag": "德国|WISP运营商|FTTT混合|工业温宽|EU补贴段合规"
   },
@@ -784,7 +784,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 活动 WLAN 供电痛点",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "Event-WLAN 现场 24 口 PoE 一台到位+10G 回传",
      "question": "一场展会活动 AP 峰值多少个？",
      "proof": "看门狗实测页"
@@ -809,7 +809,7 @@
      "①背景再核": "2000 起 26 年 Richtfunk 先锋→全服务电信；自有基础设施；双域并用 skytron.de/.business",
      "②芯片/型号": "方案商自有盘；品牌未公开；交换机线明写“managed Switch”直采",
      "③KP 深挖": "Holger Witt 9 证直达（技术线一杆到底）",
-     "④Saga 对标": "Event/WLAN/监控 PoE 接入：STC-424DGGPM-280W；室外 LoRaWAN 网关供电对标工业 8 口",
+     "④Saga 对标": "Event/WLAN/监控 PoE 接入：STC-424XGGPM-280W；室外 LoRaWAN 网关供电对标工业 8 口",
      "⑤在乎与偏好": "先锋派喜欢早试新硬件；售前响应快",
      "⑥SWOT": "S 26 年自有基础设施 / W 区域型体量 / O 活动+IoT 两线增长 / T 大厂全线压制"
     },
@@ -835,7 +835,7 @@
     "活动线 AP 峰值规模",
     "LoRaWAN 网关供电方案"
    ],
-   "email": "Hi Holger,\n\nI found you via the MikroTik consultant list - nine certifications is serious field work. SKYTRON's Richtfunk-pioneer profile caught my eye.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks and a hardware PoE watchdog - sized for exactly the event-WLAN and city-WLAN jobs you run. Reference: $165 USD EXW.\n\nOne question: at a medium-size event, how many APs do you typically power from one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Holger,\n\nI found you via the MikroTik consultant list - nine certifications is serious field work. SKYTRON's Richtfunk-pioneer profile caught my eye.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks and a hardware PoE watchdog - sized for exactly the event-WLAN and city-WLAN jobs you run. Reference: $180 USD EXW.\n\nOne question: at a medium-size event, how many APs do you typically power from one access switch?\n\nIf useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "At a medium-size event, how many APs do you typically power from one access switch?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -885,7 +885,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 实验室样机",
-     "push": "STC-424DGGPM-280W evaluation unit",
+     "push": "STC-424XGGPM-280W evaluation unit",
      "angle": "HA 咨询场景下的接入层新候选，供其格物",
      "question": "其客户项目是否需 PoE 接入层新候选？",
      "proof": "完整 datasheet+实测包"
@@ -936,7 +936,7 @@
     "随荐佣金/模式接受度",
     "样机评测兴趣"
    ],
-   "email": "Hi Sandro,\n\nI found your profile - MikroTik consultant since 2007, full certification ladder including MTCSWE, and the HA/MLAG focus at kehrlein.de.\n\nWe build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $165 USD EXW.\n\nOne question: do your client projects ever need a fresh candidate for the PoE access layer?\n\nIf useful, I ship one unit for your lab - evaluate it, break it, keep the data. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Sandro,\n\nI found your profile - MikroTik consultant since 2007, full certification ladder including MTCSWE, and the HA/MLAG focus at kehrlein.de.\n\nWe build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $180 USD EXW.\n\nOne question: do your client projects ever need a fresh candidate for the PoE access layer?\n\nIf useful, I ship one unit for your lab - evaluate it, break it, keep the data. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do your client projects ever need a fresh candidate for the PoE access layer?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-480XGGM",
@@ -1039,7 +1039,7 @@
    ],
    "email": "Hi Michael,\n\nI saw your September post - the 2027 course schedule now includes MTCSWE. Congratulations; switching finally gets its own cert.\n\nWe build a compact 8-port managed Gigabit PoE switch that training benches like for STP/VLAN aggregation labs (802.3af/at, PoE watchdog, full CLI). Reference: $99 USD EXW.\n\nOne question: have you already picked the bench switches for the new MTCSWE labs?\n\nIf useful, I can send a bench unit plus a suggested lab topology - and if the MUG Oberhausen crowd wants, a show-and-tell unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Have you already picked the bench switches for the new MTCSWE labs?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "德国|培训师|MTCSWE新课采购窗|MUG节点|师者红线"
   }

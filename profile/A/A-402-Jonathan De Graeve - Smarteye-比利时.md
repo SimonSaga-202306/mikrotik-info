@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 2  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— R50 A级提炼：官方顾问名录收录的认证顾问/讲师，持工程师级认证 MTCEWE、MTCINE、MTCRE、MTCSE，且有直达邮箱；A 段既有同类先例（A-360–A-384）；原 B-226 升级，编号顺延 A-402
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — SmartEye 比 Wilrijk 楼宇网络 IaaS（30.000+ AP/700+ 地点/165.000 年用户）：接入层 value PoE 强口（换代+备件+新建三流；$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — SmartEye 比 Wilrijk 楼宇网络 IaaS（30.000+ AP/700+ 地点/165.000 年用户）：接入层 value PoE 强口（换代+备件+新建三流；$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,11 +84,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 接入层
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：楼宇 IaaS 接入层（换代+备件+新建三流）
 - **要问的问题**：接入层用 value 件吗？
 - **随附/动作**：规格页
@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.smarteye.eu|30.000+ AP/700+ 地点/165.000 用户三核
 - **②芯片/型号**：——
 - **③KP 深挖**：IaaS 多年运营
-- **④Saga 对标**：STC-424 强口（$165 锚点一致）
+- **④Saga 对标**：STC-424 强口（$180 锚点一致）
 - **⑤在乎与偏好**：as-a-service 毛利纪律
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -141,7 +141,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | SmartEye 比 Wilrijk 楼宇网络 IaaS（30.000+ AP/700+ 地点/165.000 年用户）：接入层 value PoE 强口（换代+备件+新建三流；$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | SmartEye 比 Wilrijk 楼宇网络 IaaS（30.000+ AP/700+ 地点/165.000 年用户）：接入层 value PoE 强口（换代+备件+新建三流；$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -200,9 +200,9 @@ updated: 2026-09-28
 ```text
 Hi Jonathan,
 
-Thirty thousand access points across seven hundred buildings - an access layer that never stops being built, swapped and maintained. For exactly that tier we build a documented 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) at $165 USD EXW (2026-09-29), with the paperwork your operations need.
+Thirty thousand access points across seven hundred buildings - an access layer that never stops being built, swapped and maintained. For exactly that tier we build a documented 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) at $180 USD EXW (2026-09-29), with the paperwork your operations need.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: for your access-layer rollouts and swap stock, would a documented value PoE unit be worth a test?
 
@@ -236,4 +236,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Jonathan De Graeve - Smarteye · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Jonathan%20De%20Graeve%20-%20Smarteye%20Jonathan%20De%20Graeve%20/%20Smarteye)(搜索链接,点入后核职位再加;来源:档案名(个人档))
 - **中国进口与管制**:国别档位 中(EU 跟随(NATO/EU 总部谨慎度略高));战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

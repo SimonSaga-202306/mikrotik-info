@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 5  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-29
@@ -25,7 +25,7 @@ updated: 2026-09-29
 - **是谁**：公司/工作室（有官网）；分销（增值分销 VAD）
 - **商业模式**：分销（增值分销 VAD）
 - **为什么值得跟**：【人工定级】A —— R58 竞品谱挖第1波：UK 大 VAD（£38-45M 营业、58-66 人，Oxfordshire Wantage 独立 Ltd），15 品牌谱密且交换机线薄弱，Marvell Prestera 锚=MikroTik CRS 谱在架；Cambium WiFi & Networking Champion 2020 亮相，UK WISP/MSP 通道深
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — ICX/Cambium/TP-Link 交换谱间的 Marvell 级价值对照行（大牌墙旁诚实角+工业件二轨）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ICX/Cambium/TP-Link 交换谱间的 Marvell 级价值对照行（大牌墙旁诚实角+工业件二轨）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：With Cambium/RUCKUS ICX/TP-Link in your stack, who currently fills the 24-port 370W PoE + 4×10G uplink requirement for your WISP/MSP builds?
 - **最大未知（影响成交的）**：Crown Group 收购后 buying/product 决策链结构；MikroTik CRS 谱在其 15 品牌里的实际排位与库存量
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -97,14 +97,14 @@ updated: 2026-09-29
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：Cambium/RUCKUS ICX/TP-Link 交换谱间的 Marvell 价值对照行（谱缝填充）
 - **要问的问题**：目前给 WISP/MSP 客户配的 24 口 PoE+10G 上行交换机是 ICX/CRS 还是 TP-Link？价格带卡在哪个位置？
-- **随附/动作**：STC 规格页+$165 USD EXW 快照（15 天有效）
+- **随附/动作**：STC 规格页+$180 USD EXW 快照（15 天有效）
 
 ### 第 2 次跟进 · 工业线
 
@@ -115,7 +115,7 @@ updated: 2026-09-29
 
 ### 第 3 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W 现货询价（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W 现货询价（统一口径=P1 系列，不外溢）
 - **切入点**：EXW 现货窗口（对照行窗口）
 - **要问的问题**：对照行收不收？最后一次窗口期
 - **随附/动作**：现货库存+排产日历
@@ -128,7 +128,7 @@ updated: 2026-09-29
 - **①背景再核**：PURDICOM LIMITED 05361794（前身 SELCOMS LIMITED 2013-07-29 更名），2005-02-11 起营业；Mitchell House, Woolley Barns, Wantage OX12 8TA；独立 Ltd；Crown Group/Phoenix Amin 收购（2026 报道）——集团加持下购并链信号
 - **②芯片/型号**：MikroTik RouterBOARD + CRS（含 CRS 谱在售）；Teltonika 工业 4G/5G；Siklu mmWave EH；RUCKUS ICX（Broadcom 谱）；Marvell 锚=CRS 谱
 - **③KP 深挖**：buying/product manager 未公开定位；56 persona=buying manager、72 persona=同链路；LinkedIn 墙外不览
-- **④Saga 对标**：谱系缝隙=交换机谱空（ICX 内墙非 Marvell；Cambium 被动 PoE；TP-Link 商用散件）——P1 STC-424DGGPM-280W+二轨 STI-288GP，价值对照行定位（不一味下价）
+- **④Saga 对标**：谱系缝隙=交换机谱空（ICX 内墙非 Marvell；Cambium 被动 PoE；TP-Link 商用散件）——P1 STC-424XGGPM-280W+二轨 STI-288GP，价值对照行定位（不一味下价）
 - **⑤在乎与偏好**：vendor 墙密=决策单一价值承诺开场；声名渠道（award 领跑者）；现货+可验证数据比砍价更快
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -165,7 +165,7 @@ updated: 2026-09-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 谱缝填补行：Cambium 被动 PoE/RUCKUS ICX Broadcom 墙/TP-Link 商用散件之间无 Marvell 级 24 口 370W PoE++ + 4×10G；英 VAD 谱开口直接对照行 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 谱缝填补行：Cambium 被动 PoE/RUCKUS ICX Broadcom 墙/TP-Link 商用散件之间无 Marvell 级 24 口 370W PoE++ + 4×10G；英 VAD 谱开口直接对照行 |
 | 备选2 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶；Siklu/Teltonika 户外缘场景补电源，不进首触邮件 |
 | 备选3 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶；酒店/多户小区（Nomadix 谱联动）下场，不进首触邮件 |
 
@@ -223,7 +223,7 @@ Hi Purdicom team,
 
 2020 Cambium WiFi & Networking Champion - that is a statement for how Purdicom treats its vendor wall. Your 15-brand catalogue (Cambium, RUCKUS, MikroTik, Ubiquiti, Teltonika, Siklu, TP-Link, WatchGuard...) has depth across wireless and security. But between Cambium's passive PoE, the RUCKUS ICX Broadcom line, and TP-Link commercial SKUs, we noticed a missing Marvell-tier row for 24-port 370W PoE + 4x10G uplink switching - the workhorse box your WISP/MSP deals actually land on.
 
-We are Saga Networks (Saga Telecom), an OEM/ODM of Marvell-Prestera L2/L3 PoE switches, supplying reseller channels in the US, Canada and Europe. Our STC-424DGGPM-280W is exactly that row: 24x Gigabit PoE af/at, 280W budget, 4x10G SFP+ uplinks, Layer 2+ managed with Voice VLAN and PoE watchdog. Reference: $165 USD EXW (snapshot 2026-09-29, 15-day valid) - full English documentation, neutral packaging, customer label by default.
+We are Saga Networks (Saga Telecom), an OEM/ODM of Marvell-Prestera L2/L3 PoE switches, supplying reseller channels in the US, Canada and Europe. Our STC-424XGGPM-280W is exactly that row: 24x Gigabit PoE af/at, 280W budget, 4x10G SFP+ uplinks, Layer 2+ managed with Voice VLAN and PoE watchdog. Reference: $180 USD EXW (snapshot 2026-09-29, 15-day valid) - full English documentation, neutral packaging, customer label by default.
 
 One question: when your WISP/MSP deals spec a 24-port 370W PoE + 4x10G uplink box today, which SKU do you reach for between the ICX line, CRS3xx, and TP-Link - and is that slot stable, or open for a documented value comparison?
 
@@ -259,4 +259,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Purdicom · 领英公司页](https://www.linkedin.com/company/purdicom)(既有证据链接,来源:档案;公司页进群后可挑 KP 添加)
 - **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;CSV 品牌谱含中国厂商 → 大概率已有中国采购线(集采或分销);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— B/C复筛第1批：官网核验在售工业交换机（ISW-801 60€+IVA）；原B-465升级，编号顺延A-381
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Ditecom Madrid 仪器/传感店（Networking 区=串口转IP/媒体转换器；Pico/HWg）：工业联网类目旁 PoE 口子低密长针（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Ditecom Madrid 仪器/传感店（Networking 区=串口转IP/媒体转换器；Pico/HWg）：工业联网类目旁 PoE 口子低密长针（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,11 +84,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 口子针
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：工业联网类目旁 PoE 口子（低密长针）
 - **要问的问题**：口子存在吗？
 - **随附/动作**：规格页
@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.ditecom.com|Networking 区（串口服务器/媒体转换器）+校准实验室
 - **②芯片/型号**：HWg/串口谱
 - **③KP 深挖**：仪器店 15+ 年
-- **④Saga 对标**：STC-424 口子窄位（$165 锚点一致）
+- **④Saga 对标**：STC-424 口子窄位（$180 锚点一致）
 - **⑤在乎与偏好**：传感/布线认证仪客群=装维链路
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -141,7 +141,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Ditecom Madrid 仪器/传感店（Networking 区=串口转IP/媒体转换器；Pico/HWg）：工业联网类目旁 PoE 口子低密长针（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Ditecom Madrid 仪器/传感店（Networking 区=串口转IP/媒体转换器；Pico/HWg）：工业联网类目旁 PoE 口子低密长针（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -196,9 +196,9 @@ updated: 2026-09-28
 ```text
 Hi Ditecom team,
 
-Your Networking shelf already bridges serial and fiber into Ethernet - the industrial edge where sensors actually live. The box feeding those converters is usually a PoE switch, and a documented value unit at $165 USD EXW (2026-09-29) could sit naturally beside them.
+Your Networking shelf already bridges serial and fiber into Ethernet - the industrial edge where sensors actually live. The box feeding those converters is usually a PoE switch, and a documented value unit at $180 USD EXW (2026-09-29) could sit naturally beside them.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: would your networking category make room for a documented value PoE switch?
 

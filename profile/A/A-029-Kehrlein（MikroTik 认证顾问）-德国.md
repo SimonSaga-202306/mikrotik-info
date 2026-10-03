@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -80,11 +80,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：按他的设计口径给料：整机功率预算、逐口实测、PoE 看门狗、端口隔离；请他用自己的方法复测（他是评审型客户）。
 - **要问的问题**：他设计高可用接入层时，PoE 交换机的硬门槛是什么？
 - **随附证明**：测试方法说明 + 实测原始数据 + 可上他测试台的样机。
@@ -170,7 +170,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Kehrlein 全十证 NDA 级顾问：实验室评测机+技术档案，不打探其客户名单 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -228,7 +228,7 @@ Hi Sandro,
 
 I found your profile - MikroTik consultant since 2007, full certification ladder including MTCSWE, and the HA/MLAG focus at kehrlein.de.
 
-We build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $180 USD EXW.
 
 One question: do your client projects ever need a fresh candidate for the PoE access layer?
 

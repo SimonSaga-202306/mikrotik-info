@@ -74,7 +74,7 @@
 - 「NimWave…SECWAVE 56908DPA MIMOWAVE2 PANWAVE5623VA…Marchi e-commerce: www.dnet-distribution.com」 — https://www.nimwave.it/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 自牌天线之外的 PoE 硬件 OEM 白牌延伸位(渠道与白标经验现成,具名开口)
+- 参考 P1: `STC-424XGGPM-280W` — 自牌天线之外的 PoE 硬件 OEM 白牌延伸位(渠道与白标经验现成,具名开口)
 - 第一问: Nim Wave 自牌谱会不会延到 PoE 交换硬件?白牌 OEM 件给你们 100+ reseller 供货可谈吗?
 - 标签: 意大利|Lainate|NimWave自牌|白标血统|100+渠道
 
@@ -84,7 +84,7 @@ Hi Daniela,
 
 Own-brand antennas under Nim Wave, a white-labeled FlashStart service your resellers put their logo on, and a hundred-plus resellers across Europe - you already run the exact playbook that a white-label PoE line is built for.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $165 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $180 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.
 
 One question: does the Nim Wave own-label catalog plan to extend into PoE switching - and would a documented OEM unit earn a bench test for your reseller channel?
 

@@ -73,7 +73,7 @@
 - 「Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo」 — https://neostar.it/?vendor=RB
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)
+- 参考 P1: `STC-424XGGPM-280W` — C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)
 - 第一问: 你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?
 - 标签: 意大利|Brescia|Master|双仓C&C|Legrand布线谱
 
@@ -83,7 +83,7 @@ Hi Neostar team,
 
 Two cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $165 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.
 
 One question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?
 

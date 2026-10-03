@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — lo0 西班牙多厂商培训厂（MikroTik/Huawei/Ubiquiti/Grandstream 同墙，V. Bolaños）：交换课对照单元（$165 锚点一致）；心态最开放；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — lo0 西班牙多厂商培训厂（MikroTik/Huawei/Ubiquiti/Grandstream 同墙，V. Bolaños）：交换课对照单元（$180 锚点一致）；心态最开放；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -88,7 +88,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 实验室自用位：24 口 PoE 体验装
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）体验装 1 台（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）体验装 1 台（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：给实验室平台自用：交换/路由课实验台的 24 口 PoE++ 体验机（西班牙语一页），只谈自用、不涉学员转售。
 - **要问的问题**：实验台现在交换类真机是谁家的？要不要一台 24 口 PoE 体验机自用？
 - **随附证明**：一页规格（西）+ 体验机条款。
@@ -142,7 +142,7 @@ updated: 2026-09-28
 - **①背景再核**：ES 多厂商培训厂（官网一手核）
 - **②芯片/型号**：Huawei/Ubiquiti/MikroTik/Grandstream
 - **③KP 深挖**：info@（V. Bolaños）
-- **④Saga 对标**：对照单元（$165 锚点一致，教具角）
+- **④Saga 对标**：对照单元（$180 锚点一致，教具角）
 - **⑤在乎与偏好**：中立多厂商/问题驱动教学
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -168,9 +168,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | lo0 西班牙多厂商培训厂（MikroTik/Huawei/Ubiquiti/Grandstream 同墙，V. Bolaños）：交换课对照单元（$165 锚点一致）；心态最开放 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | lo0 西班牙多厂商培训厂（MikroTik/Huawei/Ubiquiti/Grandstream 同墙，V. Bolaños）：交换课对照单元（$180 锚点一致）；心态最开放 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -229,7 +229,7 @@ Hi Victor,
 
 Linux, Kubernetes, MikroTik, Huawei, Ubiquiti, Grandstream - a genuinely multi-vendor classroom, 20 years of IT training across Spain. That openness is exactly why I write.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29). For switching courses - URSCA, MTCSWE, GCS-RS - a documented extra voice lets engineers compare how CLIs solve the same L2+ job.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). For switching courses - URSCA, MTCSWE, GCS-RS - a documented extra voice lets engineers compare how CLIs solve the same L2+ job.
 
 One question: do your labs buy comparison units, and is a PoE switch bench something your network tracks could use?
 
@@ -263,4 +263,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Victor Bolaños Guerra · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Victor%20Bola%C3%B1os%20Guerra)(搜索链接,点入后核职位再加;来源:联络核验)
 - **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);档案信号: 在卖中国品牌 Huawei → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

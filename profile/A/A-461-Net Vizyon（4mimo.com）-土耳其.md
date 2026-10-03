@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：4mimo.com 现指向 Net Vizyon 网店（shop.netvizyon.net，同集团），**在售 Ubiquiti UniFi PoE 交换机全系（Switch 16/24/48 PoE、Enterprise 8 PoE、XG 6 PoE、USW-Pro-24-PoE）**，代理 Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy；原 B-096 升级，编号顺延 A-461
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Net Vizyon 土 Shopify 分销店（UniFi PoE 谱在价 $288-1466；Ruijie/Jirous/Mimosa 墙）：UniFi 谱旁 value 对照正口（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Net Vizyon 土 Shopify 分销店（UniFi PoE 谱在价 $288-1466；Ruijie/Jirous/Mimosa 墙）：UniFi 谱旁 value 对照正口（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：UniFi 谱旁 value 对照行
 - **要问的问题**：收 value 档吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://shop.netvizyon.net|品牌墙 6 牌+USW-24-PoE $550 在价
 - **②芯片/型号**：UniFi/Ruijie
 - **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照行（$165 锚点一致）
+- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
 - **⑤在乎与偏好**：多牌务实进货
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,7 +140,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Net Vizyon 土 Shopify 分销店（UniFi PoE 谱在价 $288-1466；Ruijie/Jirous/Mimosa 墙）：UniFi 谱旁 value 对照正口（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Net Vizyon 土 Shopify 分销店（UniFi PoE 谱在价 $288-1466；Ruijie/Jirous/Mimosa 墙）：UniFi 谱旁 value 对照正口（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -197,7 +197,7 @@ Hi Net Vizyon team,
 
 USW-24-PoE at $550 on your own shelf says your Ubiquiti customers already buy access PoE - the question is what they do when the budget stops halfway. Your catalogue spans Jirous, Mimosa, Ruijie, Siklu and Cudy, so one more honest row fits the logic
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: your UniFi PoE shelf runs $288-$1,466 - would you add a documented value row below it?
 

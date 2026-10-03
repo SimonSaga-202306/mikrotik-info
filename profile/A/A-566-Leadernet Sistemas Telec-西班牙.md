@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Grupo Leadernet（西班牙，1992 年起；info@leadernet.es）自述 **«grupo multinacional español especializado en el suministro, instalación, puesta en marcha y mantenimiento de redes de comunicación industrial y…；原 B-535 升级，编号顺延 A-566
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：EPC 随单低密
 - **要问的问题**：电站项目随单收 value 档 PoE 吗？
 - **随附/动作**：规格页+认证族
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.leadernet.es|可再生 EPC
 - **②芯片/型号**：Cisco 咨询+工业通信谱
 - **③KP 深挖**：info@ 直口
-- **④Saga 对标**：STC-424 随单低密（$165 锚点一致）
+- **④Saga 对标**：STC-424 随单低密（$180 锚点一致）
 - **⑤在乎与偏好**：项目认证对话
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -139,14 +139,14 @@ updated: 2026-09-28
 - **技术与认证**：SCADA/PPC/CTI 集成资质
 - **采购与供应链信号**：项目批量采购
 - **近期动态与线索**：30+ 年项目史
-- **与我方契合点**：项目随单 24 口 PoE 低密位（$165 锚点一致）
+- **与我方契合点**：项目随单 24 口 PoE 低密位（$180 锚点一致）
 - **风险与注意**：EPC 项目制——外联低密窄针，走规格认证对话
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Leadernet 西可再生能源工业通信 EPC（风电/光伏 SCADA 网供装+CTI 机柜自制；50+国 1000+站；Cisco 咨询）：项目随单低密位（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -203,7 +203,7 @@ Hi Leadernet team,
 
 A thousand renewable-energy sites across fifty countries - wind, PV, CSP and combined-cycle SCADA networks with your own CTI cabinets - says industrial switching moves through your projects by the container, not by the box.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $165 USD EXW (2026-09-29) - as a value line for budget-sensitive project lots and the maintenance tail of your installed base.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a value line for budget-sensitive project lots and the maintenance tail of your installed base.
 
 One question: on project lots or maintenance replacements, would a documented value PoE switch be worth qualifying for your approved list?
 

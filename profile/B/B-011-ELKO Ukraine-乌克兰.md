@@ -73,7 +73,7 @@
 - 「AAeon, Advantech, Aruba, Axiomtek, GIGA-IPC, IEI, Intel, Keenetic, Lanner, LR-Link, Mellanox, Mikrotik, Netis, Nexcom…Ubiquiti」 — https://www.elko.ua/ru/produkty/setevoe-oborudovanie-u-oficialnogo-distribyutora-elko-ukraine
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口
+- 参考 P1: `STC-424XGGPM-280W` — 波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口
 - 第一问: ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？
 - 标签: 乌克兰|基辅|ELKO集团|波罗的海VAD集团
 
@@ -83,7 +83,7 @@ Hi ELKO Ukraine team,
 
 ELKO Group with 400 vendors and 10k partners across 10 European countries, and a Kyiv operation that still pushes MikroTik news out weekly - your IT-infrastructure catalog is one of the most attentive in the region.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.
 
 One question: below the Aruba-class shelf, which PoE access switch is carrying the value tier in your network-equipment lines today - and is there room for a documented second source?
 

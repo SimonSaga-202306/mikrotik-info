@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Viatec 为安防/监控分销商（Dahua、Hikvision、U-PROX、Ruijie），有「Мережеве обладнання」一级品类与 Viatec Academy 培训（含 RUIJIE 认证课）；原 B-030 升级，编号顺延 A-440
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Viatec 乌安防/网络大分销（Hikvision/Dahua/Ruijie 谱；新闻实时 2026-09）：监控/PoE 类目 value 对照正口（UA 民用限定；$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Viatec 乌安防/网络大分销（Hikvision/Dahua/Ruijie 谱；新闻实时 2026-09）：监控/PoE 类目 value 对照正口（UA 民用限定；$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：监控/PoE 类目 value 对照（民用限定）
 - **要问的问题**：类目收对照行吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://viatec.ua|新闻实时 2026-09-28+Ruijie 谱+Viatec Academy 三核
 - **②芯片/型号**：Ruijie/两大牌
 - **③KP 深挖**：大分销多年
-- **④Saga 对标**：STC-424 对照行（$165 锚点一致）
+- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
 - **⑤在乎与偏好**：体系活动型
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,7 +140,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Viatec 乌安防/网络大分销（Hikvision/Dahua/Ruijie 谱；新闻实时 2026-09）：监控/PoE 类目 value 对照正口（UA 民用限定；$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Viatec 乌安防/网络大分销（Hikvision/Dahua/Ruijie 谱；新闻实时 2026-09）：监控/PoE 类目 value 对照正口（UA 民用限定；$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -199,9 +199,9 @@ updated: 2026-09-28
 ```text
 Hi VIATEC team,
 
-Cameras, intercoms, energy and a growing Ruijie shelf - you know access PoE is where installer margins hide. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Beside the brands you carry, here is a documented 24-port Gigabit PoE switch (280W, watchdog) at $165 USD EXW (2026-09-29) for the volume tier.
+Cameras, intercoms, energy and a growing Ruijie shelf - you know access PoE is where installer margins hide. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Beside the brands you carry, here is a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29) for the volume tier.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: would your networking category carry a documented value PoE row?
 

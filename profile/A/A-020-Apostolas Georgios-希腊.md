@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: true, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：**ΑΠΟΣΤΟΛΑΣ（Apostolas）**，希腊罗德岛（Καναδά 28, Ρόδος 85100），**1995 年创立、30+ 年本地老店**。
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、酒店/多住户），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -79,11 +79,11 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：酒店一层楼/一栋楼：AP + 摄像头 + 点单终端全部 PoE，24 口一台搞定；强调看门狗（旺季不中断）与端口隔离（客人网段与设备网段分开）。
 - **要问的问题**：他一个典型酒店项目：多少间房、多少 AP/摄像头、PoE 口数怎么算？
 - **随附证明**：功率与口数对照表 + 看门狗演示 + 旺季前交期承诺。
@@ -139,7 +139,7 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 - **关键人KP**：**Georgios Apostolas（推定业主/双证工程师）**。邮箱 **george@apostolas.gr**（CSV 既有个人姓）+ **info@apostolas.gr**（官网公开）；电话 +30 22410 38089；MX Google 今日核验有效。无 LinkedIn 命中（本地口碑型老商）。希腊语/英语。
 - **关注点与资质**：①**myDATA 合规**（希腊 AADE 电子发票强制化=他 POS/ERP 业务的卖点锚，我方不涉但要对齐「合规优先」叙事）；②**旅游季窗**（罗德岛 4–10 月旺季——**冬季 Q4–Q1 是布网改造窗口，报价/备库要踩他施工季**）；③一站式交钥匙（他喜欢「360° support」式全包供应商——我方可直接给「交换+供电+光模块」整包）；④海岛物流慢→计划性批量箱规优于零碎单。参展/社媒：未见。
 - **优缺点SWOT**：**S**：30 年岛域霸主+四业合一（POS/网/站/ERP 交叉带货能力=他卖网络时顺便卖收银，反之亦然）；认证工程师自持=技术沟通无翻译损耗。**W**：岛域天花板+季节波动；团队规模未公开；无连锁扩张面。**O**：2026 旺季前酒店网改（WiFi/PoE/监控）+POS 换机潮+ERP 新客布线——**一季度箱规备货提案**正好；多德卡尼斯跳岛岛屿（Kos/Karpathos）复制模式的可能。**T**：雅典大陆分销/电商的价格碾压；希腊本土 IT 生态小圈竞争。
-- **Saga产品适配**：酒店 PoE 标配 **STC-424DGGPM-280W**（**EXW $165**；AP/摄像头/话机/POS 一柜喂齐，PoE 管理+watchdog）+ 餐厅/民宿小柜 **STC-28DGGPM**（**EXW $99**）+ 光纤互联 **STI-111GP**（GE 收发，**EXW $36.3**，250m 延伸）+ 户外非管理 **STI-280GE**（**EXW $63.8**）。话术：「Q1 施工季的箱规 EXW 梯价+15 天锁价+出厂预刷配置」，附工业线 3 年保条款。⚠️ 海边盐雾场景不口头承诺耐蚀，建议装柜内。
+- **Saga产品适配**：酒店 PoE 标配 **STC-424XGGPM-280W**（**EXW $180**；AP/摄像头/话机/POS 一柜喂齐，PoE 管理+watchdog）+ 餐厅/民宿小柜 **STC-28DGGPM**（**EXW $99**）+ 光纤互联 **STI-111GP**（GE 收发，**EXW $36.3**，250m 延伸）+ 户外非管理 **STI-280GE**（**EXW $63.8**）。话术：「Q1 施工季的箱规 EXW 梯价+15 天锁价+出厂预刷配置」，附工业线 3 年保条款。⚠️ 海边盐雾场景不口头承诺耐蚀，建议装柜内。
 
 ### R55 证据摘录（全部保留 · 含数量）
 
@@ -163,7 +163,7 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -213,7 +213,7 @@ Hi Apostolas,
 
 I came across Apostolas Georgios - 集成商/顾问（MikroTik 认证）.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
 One question: Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 

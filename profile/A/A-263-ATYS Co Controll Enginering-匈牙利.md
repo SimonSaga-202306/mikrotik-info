@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — ATYS-CO 匈牙利近30年自动化集团（Westermo Reseller）：项目随单+贸易部上架双通道（$165 锚点一致）；Westermo 旁前句框定；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ATYS-CO 匈牙利近30年自动化集团（Westermo Reseller）：项目随单+贸易部上架双通道（$180 锚点一致）；Westermo 旁前句框定；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,7 +84,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · Westermo 邻位工业第二来源一页
 
@@ -142,7 +142,7 @@ updated: 2026-09-28
 - **①背景再核**：HU 自动化集团（官网一手核）
 - **②芯片/型号**：Westermo 线
 - **③KP 深挖**：sales@
-- **④Saga 对标**：随单+贸易双角（$165 锚点一致）
+- **④Saga 对标**：随单+贸易双角（$180 锚点一致）
 - **⑤在乎与偏好**：全生命周期/本土承包
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -168,7 +168,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | ATYS-CO 匈牙利近30年自动化集团（Westermo Reseller）：项目随单+贸易部上架双通道（$165 锚点一致）；Westermo 旁前句框定 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | ATYS-CO 匈牙利近30年自动化集团（Westermo Reseller）：项目随单+贸易部上架双通道（$180 锚点一致）；Westermo 旁前句框定 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -225,7 +225,7 @@ Hello ATYS-CO team,
 
 Nearly three decades in process control and industrial automation - engineering, implementation, lifecycle maintenance - plus a trading arm built on industrial power supplies for twenty years. One sentence up front: where you run Westermo today, we are not asking to displace it.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value substitute that can serve both your project sites and your trading shelf.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute that can serve both your project sites and your trading shelf.
 
 One question: does ATYS-CO keep a value tier for industrial switching - and would you evaluate one unit?
 

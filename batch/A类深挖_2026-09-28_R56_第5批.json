@@ -97,7 +97,7 @@
    ],
    "email": "Hi Lorenzo,\n\nYour mAP talk at MUM Dallas is still passed around - and Grifonline + Linkwave plus a trainer badge since 2010 is a full WISP life.\n\nWe build managed PoE switches with a hardware watchdog that power-cycles a hung AP/CPE by itself - built for exactly the dusty POP cabinets WISPs fight every summer. 8-port model reference: $99 USD EXW.\n\nOne question: how many times a year does someone drive to a POP cabinet just to power-cycle one device?\n\nIf useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "How many times a year does someone drive to a POP cabinet just to power-cycle one device?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "意大利|WISP教父|双创始人|讲台级|POP自愈",
    "batch": 15,
@@ -145,7 +145,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 监控项目 PoE 预算",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "监控柜 24 口 PoE 一台收纳",
      "question": "个中项目摄像头点数？",
      "proof": "PoE 预算页"
@@ -195,7 +195,7 @@
     "监控项目点位规模",
     "POP 现用"
    ],
-   "email": "Hi Paolo,\n\nI see PF Tech runs three lines at once - distribution, a licensed ROC operator, and the plant/surveillance builds around Turin.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) with a hardware PoE watchdog - sized for exactly the camera closets in your surveillance jobs. Reference: $165 USD EXW.\n\nOne question: in a mid-size surveillance build, how many PoE endpoints land on one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Paolo,\n\nI see PF Tech runs three lines at once - distribution, a licensed ROC operator, and the plant/surveillance builds around Turin.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) with a hardware PoE watchdog - sized for exactly the camera closets in your surveillance jobs. Reference: $180 USD EXW.\n\nOne question: in a mid-size surveillance build, how many PoE endpoints land on one cabinet?\n\nIf useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a mid-size surveillance build, how many PoE endpoints land on one cabinet?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -297,7 +297,7 @@
    ],
    "email": "Hi Martin,\n\nI found you through the MikroTik consultant list - and your MUM talk on high-availability services is still on the playlist.\n\nWe build a compact 8-port managed PoE switch with a hardware watchdog (reboots a hung AP/CPE without a site visit). Reference: $99 USD EXW.\n\nOne question: which switch model sits in your POP cabinets today?\n\nShort answer is enough. If useful, I ship one evaluation unit; if not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which switch model sits in your POP cabinets today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "捷克|个人ISP|HA讲师|极简沟通|双电话待核",
    "batch": 15,
@@ -488,7 +488,7 @@
    "email": "Hi Dan,\n\nI found you on the MikroTik consultant list (MTCNA/MTCSWE).\n\nWe build managed PoE switches with a full L2+ feature table (Voice VLAN, ERPS, watchdog). Short and honest note since I could not find public material about your practice.\n\nOne question: are you currently taking projects where the switching layer is open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Are you currently taking projects where the switching layer is open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "摩尔多瓦|双证顾问|足迹缺失|短信破冰",
    "batch": 15,
    "date": "2026-09-28"
@@ -793,7 +793,7 @@
    ],
    "email": "Hi Ihor,\n\nI found mtik.pl - a real-hardware classroom in Kraków, 315+ courses, 1.675+ students, everything physical, no simulators. That is the right religion.\n\nWe build a compact 8-port managed PoE switch that fits a per-student switching bench for MTCSWE days (STP/VLAN/L2 labs, 802.3af/at). Reference: $99 USD EXW per unit, trainer pricing for bench sets.\n\nOne question: which switch do you put on each student bench for the switching labs today?\n\nIf useful, I can send a bench unit plus a suggested lab topology. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Which switch do you put on each student bench for the switching labs today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "波兰|全真教室|十证Trainer|MTCSWE教具耗材|师者红线",
    "batch": 15,
@@ -888,7 +888,7 @@
    ],
    "email": "Hi Jacek,\n\nI found C3NET via the MikroTik consultant list - MTCINE plus MTCEWE plus MTCSE is a serious wireless-enterprise combination.\n\nWe build managed PoE switches that fit the access layer of enterprise wireless builds (802.3af/at, full L2, watchdog). Reference: 8-port bench unit $99 USD EXW.\n\nOne question: in your wireless projects, who supplies the switching layer today?\n\nIf useful, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your wireless projects, who supplies the switching layer today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "波兰|双高阶工作室|站休眠|支持邮箱存活",
    "batch": 15,
@@ -981,10 +981,10 @@
     "随单现供",
     "评测意愿"
    ],
-   "email": "Hi Ryszard,\n\nI found SINUX on the MikroTik consultant list - MTCSWE and MTCEWE together points to switching and enterprise wireless work.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Reference: 24-port model $165 USD EXW; bench 8-port $99.\n\nOne question: do your client projects leave room for an alternative on the switching layer?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Ryszard,\n\nI found SINUX on the MikroTik consultant list - MTCSWE and MTCEWE together points to switching and enterprise wireless work.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Reference: 24-port model $180 USD EXW; bench 8-port $99.\n\nOne question: do your client projects leave room for an alternative on the switching layer?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do your client projects leave room for an alternative on the switching layer?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "波兰|双高阶个体|NIP在册|单页站|电话核实",
    "batch": 15,
    "date": "2026-09-28"

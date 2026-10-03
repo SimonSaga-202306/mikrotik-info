@@ -73,7 +73,7 @@
 - 「We serve over 500 resellers all over Cyprus … 2000+ Clients … 10000+ Projects Completed」 — https://art2soft.eu/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — WISP+VoIP 专营分销的话机/站点 PoE 随单位
+- 参考 P1: `STC-424XGGPM-280W` — WISP+VoIP 专营分销的话机/站点 PoE 随单位
 - 第一问: 你们的 IP 话机/WISP 项目里,PoE 管理型交换现随哪家?
 - 标签: 塞浦路斯|Nicosia|WISP+VoIP专营|具名Theodoulos
 
@@ -83,7 +83,7 @@ Hi Theodoulos,
 
 From Ubiquiti WISP distribution in 2006 to a full VoIP line with IP PBX and SIP phones - your resellers deploy phones and radios, and both settle onto the same PoE switch. That makes the PoE line behind your catalog a quiet volume driver.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing catalog, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing catalog, white-label friendly.
 
 One question: for your IP telephony and wireless deployments, which managed PoE switch rides in the same order today?
 

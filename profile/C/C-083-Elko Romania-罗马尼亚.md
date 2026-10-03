@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Reseller） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ELKO 集团 = 波罗的海/中东欧最大 IT 分销（拉脱维亚总部，覆盖 10+ 国） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | București；跨国集团 |

@@ -73,7 +73,7 @@
 - 「cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte」 — https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用
+- 参考 P1: `STC-424XGGPM-280W` — 欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用
 - 第一问: 你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？
 - 标签: 法国|巴黎|B2B运营型|55k客户|€75M
 
@@ -83,7 +83,7 @@ Hi SEWAN team,
 
 450 people, a €75M war chest from Kartesia, 55k B2B customers and a four-country footprint (France / Spain / Belgium / Germany) - Sewan is the heavyweight operator of the European indirect-sale channel.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to Sewan white-label. Reference: $165 USD EXW (2026-09-29) - designed to become the default PoE access SKU your channel partners deploy under the Sewan brand.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to Sewan white-label. Reference: $180 USD EXW (2026-09-29) - designed to become the default PoE access SKU your channel partners deploy under the Sewan brand.
 
 One question: for your channel partners' SME deployments, which PoE access source supplies the installations today - and would a documented white-label unit earn a pilot in your catalog?
 

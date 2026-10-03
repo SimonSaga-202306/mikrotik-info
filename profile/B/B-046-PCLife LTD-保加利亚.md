@@ -73,7 +73,7 @@
 - 「PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million」 — https://www.zoominfo.com/c/pclife-ltd/457922169
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 二手整机批发电商的网络谱 value 补位
+- 参考 P1: `STC-424XGGPM-280W` — 二手整机批发电商的网络谱 value 补位
 - 第一问: 你们的批量装机/SME 项目单里,PoE 交换件现随哪家?
 - 标签: 保加利亚|Plovdiv|二手IT电商|B2B装机谱
 
@@ -83,7 +83,7 @@ Hi PCLife team,
 
 High-volume refurbished IT with nationwide 24h delivery and a MikroTik shelf on the side - your B2B batch orders for SMEs often land together with network gear, and PoE switching is usually the least differentiated line on that BOM.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides along with your batch orders, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides along with your batch orders, white-label friendly.
 
 One question: on your SME batch-delivery deals, which PoE switch do you stock today - and is a value unit worth a bench test for that line?
 

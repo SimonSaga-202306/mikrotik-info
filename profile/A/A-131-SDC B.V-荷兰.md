@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 2  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；人工指定
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — SDC.nl 荷兰 30 年 ICT 分销：PoE 交换 value 位上架（$165 锚点一致）；其自有 Academy 生态在册，不贬 MikroTik；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — SDC.nl 荷兰 30 年 ICT 分销：PoE 交换 value 位上架（$180 锚点一致）；其自有 Academy 生态在册，不贬 MikroTik；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -51,7 +51,7 @@ updated: 2026-09-28
 
 - 【事实】SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**
 - 【推断】分销架上 SMB 网络件齐全（Ubiquiti/Omada/MikroTik 层）——其 PoE 接入交换 value 位仍有更下沿空间；Academy=培训生态敏感，不作贬低对照
-- 【假设】“24/7 support+次日达”分销文化=上架看交付与文档；$165 value 位给其 installer 渠道一个毛利层
+- 【假设】“24/7 support+次日达”分销文化=上架看交付与文档；$180 value 位给其 installer 渠道一个毛利层
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,7 +84,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 品类空缺（工业 DIN PoE 类目提案）
 
@@ -95,7 +95,7 @@ updated: 2026-09-28
 
 ### 第 2 次跟进 · 24 口 PoE++ 与管理型（交换类目高段位扩展）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：24 口 PoE++ 带 4×10G 上行：他现有 CRS 之外的商用高段位，给客户「要 PoE++ 或要管理功能」时多一个选择。
 - **要问的问题**：客户要大功率 PoE++ 或 ERPS 时你现在推什么？
 - **随附证明**：规格对照 + 到岸价目 + 现货/交期说明。
@@ -168,7 +168,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | SDC.nl 荷兰 30 年 ICT 分销：PoE 交换 value 位上架（$165 锚点一致）；其自有 Academy 生态在册，不贬 MikroTik |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | SDC.nl 荷兰 30 年 ICT 分销：PoE 交换 value 位上架（$180 锚点一致）；其自有 Academy 生态在册，不贬 MikroTik |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -230,7 +230,7 @@ Hi SDC team,
 
 Thirty-plus years, next-day delivery before 17:00, and a 24/7 support desk - the operational backbone installers count on.
 
-We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $165 USD EXW - a value line that gives your installer channel a healthier margin layer on routine PoE closets.
+We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $180 USD EXW - a value line that gives your installer channel a healthier margin layer on routine PoE closets.
 
 One question: in your Switches category today, is there an open slot for a documented value PoE access line?
 

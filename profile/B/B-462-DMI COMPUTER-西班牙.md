@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Madrid |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -74,7 +74,7 @@
 - 「Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL」 — https://www.dmi.es/fabricantes/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)
+- 参考 P1: `STC-424XGGPM-280W` — 大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)
 - 第一问: 你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?
 - 标签: 西班牙|马德里|大型批发|200门店|DMI-PRO
 
@@ -84,7 +84,7 @@ Hi DMI team,
 
 Thirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.
 
-We build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.
+We build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.
 
 One question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?
 

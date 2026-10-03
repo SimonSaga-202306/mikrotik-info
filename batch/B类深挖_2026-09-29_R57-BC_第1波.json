@@ -70,11 +70,11 @@
     "O": "STC-424 入主 VoIP PoE 档第二供位",
     "T": "店态会转暴利单品（他们不会守任何品牌）"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚",
    "question": "你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？",
    "tag": "美国|弗吉尼亚|VoIP杂货|MikroTik挂角",
-   "email": "Hi BIBA team,\n\nYour catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.\n\nWe build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.\n\nOne question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi BIBA team,\n\nYour catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.\n\nWe build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.\n\nOne question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 对标 Ubiquiti US-24 PoE 价位页桥（A 类锚档参照）",
     "D+10 样机提议",
@@ -187,11 +187,11 @@
     "O": "STC-424 入主其 PoE 档空位",
     "T": "在架厚度路线的布线竞争"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口",
    "question": "你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？",
    "tag": "美国|迈阿密|MikroTik官方Reseller|拉美前哨",
-   "email": "Hi Distrigo team,\n\nYour Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-side second source for exactly that layer.\n\nOne question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Distrigo team,\n\nYour Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-side second source for exactly that layer.\n\nOne question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 价锚对照 Ubiquiti USW-24-PoE 一页",
     "D+10 样机提议",
@@ -302,11 +302,11 @@
     "O": "STC-424 入 brands@ 供位",
     "T": "纯货量比价心智的利器淘汰"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "大批发电商盘的品牌口补位：value 交换档直接货量比价可得",
-   "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $165 EXW 档有位置吗？",
+   "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？",
    "tag": "美国|西雅图圈|电子批发大盘|品牌口",
-   "email": "Hi Leverify brands team,\n\nBellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.\n\nOne question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Leverify brands team,\n\nBellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.\n\nOne question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 RMA/保修三件套单页",
     "D+14 不上的转楼价档随单",
@@ -341,11 +341,11 @@
     "O": "随单 STC-424 入 install BOM",
     "T": "主品谱挤压架空 PoE 品"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口",
    "question": "你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？",
    "tag": "美国|明尼苏达|Dish独分|install谱",
-   "email": "Hi Pace International team,\n\nThe only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.\n\nOne question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Pace International team,\n\nThe only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.\n\nOne question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 install BOM 随单方案单页",
     "D+14 样机 CD 级",
@@ -455,11 +455,11 @@
     "O": "STC-424 拉美第二供位",
     "T": "品牌协调上交期/让利"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档",
    "question": "Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？",
    "tag": "美国|迈阿密|牌墙通廊|拉美两站",
-   "email": "Hi Eduardo,\n\nTwenty years, a genuine brand wall (HPE / Ubiquiti / Cambium / MikroTik…), and Costa Rica + Honduras on the map - Solution Box is one of the few Miami corridor distributors with an actual Latin presence.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.\n\nOne question: across your Costa Rica and Honduras lines, is the PoE access shelf Ubiquiti-locked or genuinely multi-source? Where does the price anchor sit today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Eduardo,\n\nTwenty years, a genuine brand wall (HPE / Ubiquiti / Cambium / MikroTik…), and Costa Rica + Honduras on the map - Solution Box is one of the few Miami corridor distributors with an actual Latin presence.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.\n\nOne question: across your Costa Rica and Honduras lines, is the PoE access shelf Ubiquiti-locked or genuinely multi-source? Where does the price anchor sit today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 Ubiquiti 旁第二供位方案单页（含 ES 档）",
     "D+14 拉美两站 SKU 填充表",
@@ -494,11 +494,11 @@
     "O": "STC-424 入 value 线位",
     "T": "大盘 SKU 额度竞争"
    },
-   "p1": "STC-424DGGPM-280W",
-   "p1_reason": "Cisco/Aruba 镇楼下的 value PoE 档第二线：$165 层正口",
+   "p1": "STC-424XGGPM-280W",
+   "p1_reason": "Cisco/Aruba 镇楼下的 value PoE 档第二线：$180 层正口",
    "question": "你们 24 口 PoE 段的 value 线现走哪个 SKU？STC-424 这个档有位置吗？",
    "tag": "美国|新泽西|现货仓大盘|50人",
-   "email": "Hi Vodanet team,\n\nA New Jersey warehouse with live inventory across Cisco / Aruba / Juniper / Fortinet / MikroTik / Teltonika - that's a real hemispheric stock position, not a bag shop.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.\n\nOne question: below the Cisco/Aruba shelf, which PoE access SKU is holding the value line in your warehouse today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Vodanet team,\n\nA New Jersey warehouse with live inventory across Cisco / Aruba / Juniper / Fortinet / MikroTik / Teltonika - that's a real hemispheric stock position, not a bag shop.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.\n\nOne question: below the Cisco/Aruba shelf, which PoE access SKU is holding the value line in your warehouse today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 value 线对照单页",
     "D+14 样机提议",
@@ -572,11 +572,11 @@
     "O": "STC-424 为 managed 标准接入 SKU",
     "T": "RMA 反应度是决因"
    },
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单",
    "question": "你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？",
    "tag": "美国|伊利诺伊|SMBMSP|235客户",
-   "email": "Hi MTK team,\n\nChampaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $165 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.\n\nOne question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi MTK team,\n\nChampaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.\n\nOne question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": [
     "D+3 MSP 标准化 SKU 方案单页",
     "D+14 样机提议",

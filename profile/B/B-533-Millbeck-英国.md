@@ -73,7 +73,7 @@
 - 「Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed private IP addressing for SCADA」 — https://millbeck.co.uk/solutions/utilities
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)
+- 参考 P1: `STC-424XGGPM-280W` — Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)
 - 第一问: 公用事业招标要双源、或 Teltonika 交期紧时,你们对照件现用哪家?非 Teltonika 的文档全对照位可谈吗?
 - 标签: 英国|利兹|Teltonika-Diamond|公用事业|双源对照位
 
@@ -83,7 +83,7 @@ Hi Millbeck team,
 
 Sixteen years as a Teltonika Diamond Partner with utility networks on your customer list - and your own switching page still says without vendor lock-in. That sentence is exactly where a second source lives.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - not a Teltonika replacement; the documented comparison unit for tender dual-source requirements and tight-lead-time weeks, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - not a Teltonika replacement; the documented comparison unit for tender dual-source requirements and tight-lead-time weeks, white-label friendly.
 
 One question: when a utility tender asks for a second source, or Teltonika lead time stretches, which switch do you quote as the alternative today - and would a documented unit earn a bench test for that slot?
 

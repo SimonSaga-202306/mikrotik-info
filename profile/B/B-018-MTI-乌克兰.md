@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | 乌克兰大型 IT 分销 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Kyiv |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -73,7 +73,7 @@
 - 「Distributor Tier 1…MTI hi-tech distribution…+380 44 2074061」 — https://www.ibm.com/partnerplus/directory/company/1645
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位
+- 参考 P1: `STC-424XGGPM-280W` — MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位
 - 第一问: 你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？
 - 标签: 乌克兰|基辅|MTI|MikroTik主分销|Tier1
 
@@ -83,7 +83,7 @@ Hi MTI team,
 
 MikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.
 
-We are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.
+We are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.
 
 One question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?
 

@@ -86,7 +86,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（园区光纤/Hotspot 接入层）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他设计园区光纤与 Hotspot 网：光纤进楼后的接入层 24 口 PoE++ 带 AP/监控/话机，4×10G 上行接光纤终端。
 - **要问的问题**：园区项目接入层现在怎么选型？单端口成本卡在什么区间？
 - **随附证明**：接入层单端口成本测算 + 规格对照（英文）。
@@ -173,7 +173,7 @@ updated: 2026-09-28
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
 | **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Millie Evolution 英五证个人站裸目录：WhatsApp 破冰薄档如实（$99 锚点一致） |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选2 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
@@ -246,18 +246,22 @@ Saga Telecom - PoE switch OEM/ODM
 
 | 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |
+| 2026-09-28 16:20 | 邮件 | Simon→Iyiola | 首触冷邮：Marvell AC5 L2+ 24 Port PoE af/at + 10G Fiber Uplinks，报 $180 USD/PC，邀样品测试 | — | 等回响 | — |
+| 2026-09-30 04:28 | 邮件 | Iyiola→Simon | — | **已回复**：求产品目录；问 Saga 在英有否 distributor；自荐做 UK distributor | 提供目录+回应分销问题 | — |
+| 2026-09-30 14:13 | 邮件 | Simon→Iyiola | 回目录(Saga Feature List L2++产品 Link PDF)；说明**暂无 UK distributor**，可谈 distributorship；认出 MikroTik 认证顾问身份；给 Marvell Prestera ↔ AC5 同源叙事；反问库存 resell vs project-by-project | — | 听他自述现状 | — |
+| 2026-10-01 03:22 | 邮件 | Iyiola→Simon | — | **关键自述**：① 现在 project-by-project；② 目标：reseller partner agreement；③ 公司新、愿意帮 Saga 在英建品牌；④ **20+ 年 MikroTik 经验**；⑤ 接受样品，问是否要付费 | 让样品策略+报价准备 | — |
+| 2026-10-03 16:04 | 邮件 | Simon→Iyiola | 评估样品 partner price(费用 credit 到 first commercial order)；推 **STC-424XGGPM-280W $180/PC**(enterprise/ISP/hospitality/CCTV 谱)；请技术反馈；求交货地址写评估 quotation | — | **等地址+样品评测** | 2026-10-10 |
 
-> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+> **stage**:从 00-researched → **02-replied**(已双向 4 轮对话，客户主动问分销、主动要看样品、已给正面信号)
 
 ## 下次复核
 
-- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
-- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
+- 固定节点：**2026-10-10**(7 天后)若无地址/无后续 → 复核必要二次跟进；收到地址/样品测试反馈 → 重评为 03-engaged 并启动 distributorship 对白。
+- 报价纪律：**STC-424XGGPM-280W 卖 $180 USD/PC EXW**(2026-10-03 邮件快照，用户明确主推款+价);LT-S8328GP-4GX24GT-S **成本回落前暂停出货**(SmartByte 价格册 2026.09.01--2026.12.30 快照)。
 
 ---
 
-*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+*建档日期：2026-09-22　|　结构 v2：2026-09-28(R56 规则)　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
 
 ---
 
@@ -266,4 +270,32 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Iyiola Folayan](https://ng.linkedin.com/in/iyiola-folayan-42271158)(既有证据链接,来源:档案/联络核验)
 - **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(24口 PoE + 4×10G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+
+### R61 深挖补档(2026-10-03 · Gmail 回信驱动)
+
+#### 学历与证书(LinkedIn 公开)
+- **B.Eng Electrical Engineering** · University of Ilorin,尼日利亚(1997–2002)
+- **MBA Marketing** · Ladoke Akintola University of Technology, Ogbomosho(2013–2014)
+- **Senior Management Programme** · Pan African University(Lagos Business School)(2011)
+- **认证**:B.Eng, MBA, MNSE, **MTCNA, MTCRE**(MikroTik 路由师资),ITIL, ISO 20000
+
+#### 职业路径(LinkedIn/AFRINIC 公开)
+- 2004–2006:**General Data Engineering Services (SKANNET)** Ibadan——Computer Engineer → Senior Computer Engineer(起 iyiola.folayan@ 域名记录)
+- 2007–2008:SKANNET **Assistant Manager, Network Infrastructure**
+- 2008–2015:**VDT Communications** Lagos(AS37088, Nigerian ISP)
+  - 2011 起 **Head, Network Planning & Performance**(AFRINIC IF3-AFRINIC nic-hdl 注册于其名下)
+  - 2015 起 **Assistant General Manager, Network Planning & Performance**
+- 2017–(LinkedIn 显示至今):**Bitflux Communications Limited, Head of Technical/Service Operations**(尼日利亚 4G/LTE 批发无线宽带运营商,AS37714,IXPN Lagos 10G Peering,Rack Centre Lagos Interconnection)
+
+#### 消费者级关键推断(R61 分析)
+- 「20+ 年 MikroTik」自述真实:2004 起算 21+ 年,与简历一致
+- **他不是纯顾问**:Bitflux 是尼日利亚 4G/LTE 运营商,他任技术/服务运营头——**具备 ISP 后端实操 + 批发上网运营经验**;Millie Evolution 是英国新创公司(无 Companies House 记录,可能属 Sole Trader 或 too-new),他自任业主+MikroTik 认证顾问;客户在英目标可能是 SME/CCTV/酒店 PoE
+- **销售话术升级**:从「顾问客户盘」升级为「UK ISP/WISP 先锋技术合作伙伴」样机测试发起;其在 Bitflux 的 4G 上行操作经验可直接对应 Saga L2+/L3 在 ISP 后端场景
+- **£GBP 价带准备**:若客户最终走 reseller path,给 GBP-denominated tiered pricing($180 EXW≈£142,留 25-30% 毛利给他再走 £180-200/台零售)
+- **风险**:Millie Evolution 体量极小(新、无公司注册),担保能力弱;首批样品走 partner price + credit to first commercial order 已对齐 Simon 邮件谋略,无需变更
+
+#### 下一步(Simon 决定)
+- **等地址**——客户回信收到后立即写评估 quotation,内含 1×STC-424XGGPM-280W + 尺寸/包装说明 + 样品条款(partner price + credit to first PO)
+- **客户测试期**——14 天后(2026-10-17)主动 follow-up 技术反馈,将其对 MikroTik 谱的对照反馈文案收到我方做产品改进输入
+- **Distributorship 谈判**——客户测样品满意 + 首个商业单达成后启动(预计 2026 11 月),同步备好 UK 独家/非独家两种 term sheet

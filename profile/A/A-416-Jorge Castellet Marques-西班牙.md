@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://yatuaprendes.com|Jorge 具名
 - **②芯片/型号**：MikroTik 生态
 - **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
 - **⑤在乎与偏好**：比照心态/拒硬销
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -143,7 +143,7 @@ updated: 2026-09-28
 |---|---|---|---|---|
 | **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Jorge Castellet/YaTuAprendes 西 MT 官训 #TR0299 全证+Ubiquiti 官训全证（guifi.net 经历）：顾问对照单元（MTCSWE 课堂对照角）；alt STC-424 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -200,7 +200,7 @@ updated: 2026-09-28
 ```text
 Hi Jorge,
 
-Twenty-five years from banking software to guifi.net to training both MikroTik and Ubiquiti - you teach the reality of budgets, not brochures. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $165 USD EXW (2026-09-29).
+Twenty-five years from banking software to guifi.net to training both MikroTik and Ubiquiti - you teach the reality of budgets, not brochures. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
 
 Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
 
@@ -236,4 +236,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Jorge Castellet Marques · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Jorge%20Castellet%20Marques)(搜索链接,点入后核职位再加;来源:档案名(个人档))
 - **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

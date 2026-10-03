@@ -73,7 +73,7 @@
 - 「Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376」 — https://altostrat.io/buying/hardware/resellers/europe/montenegro
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 独家 Master+WISP 自营的双谱 PoE 随单位
+- 参考 P1: `STC-424XGGPM-280W` — 独家 Master+WISP 自营的双谱 PoE 随单位
 - 第一问: 你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?
 - 标签: 黑山|Bar|独家Master|WISP自营
 
@@ -83,7 +83,7 @@ Hi Netmont team,
 
 A licensed wireless ISP covering Montenegro and the country's Master MikroTik distributor at the same time - your own sites need PoE behind the radios, and your reseller customers need a documented unit on their shelves too.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.
 
 One question: for your own PoP sites and your reseller line, which 24-port managed PoE switch do you run today - and is there a value slot for a documented unit?
 

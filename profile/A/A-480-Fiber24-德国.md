@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：ShopFiber24（德国，shop@fiber24.net，德国发货）自述面向网络运营/电工/光纤施工者的光通信专业网店；类目明列 **«Netzwerkgeräte — Aktive Geräte wie Medienkonverter, Fiber Optic Repeater oder Switches»** 与 **«Hutschienen-Equipment — Hutsc…；原 B-516 升级，编号顺延 A-480
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — ShopFiber24 德光纤专业店（400G 收发器谱；当日发 DE）：光学旁配套 value PoE 窄位（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ShopFiber24 德光纤专业店（400G 收发器谱；当日发 DE）：光学旁配套 value PoE 窄位（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 对照行
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：配套 value 窄位
 - **要问的问题**：配套收吗？
 - **随附/动作**：规格页
@@ -114,7 +114,7 @@ updated: 2026-09-28
 - **①背景再核**：https://shop.fiber24.net|400G transceiver+光缆+当日发 DE
 - **②芯片/型号**：——
 - **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 窄位（$165 锚点一致）
+- **④Saga 对标**：STC-424 窄位（$180 锚点一致）
 - **⑤在乎与偏好**：物流纪律
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -140,7 +140,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | ShopFiber24 德光纤专业店（400G 收发器谱；当日发 DE）：光学旁配套 value PoE 窄位（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | ShopFiber24 德光纤专业店（400G 收发器谱；当日发 DE）：光学旁配套 value PoE 窄位（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -196,7 +196,7 @@ Hi Fiber24 team,
 
 Fibre cables, 400G transceivers and patch cords shipped same-day from Germany - you keep installers sprinting. Between the ODF and the last mile there is always one access switch; a documented value PoE unit is a friendly add to that basket
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: would your shop add a documented value access PoE switch beside the optics?
 

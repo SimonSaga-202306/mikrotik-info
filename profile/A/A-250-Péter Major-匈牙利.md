@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — MacSoft 匈六线集成（网络设计/运维+MikroTik 培训副业）：项目随单（$165 锚点一致）；beszerzes@=匈语采购箱直达；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — MacSoft 匈六线集成（网络设计/运维+MikroTik 培训副业）：项目随单（$180 锚点一致）；beszerzes@=匈语采购箱直达；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 直达采购箱：设计 BOM 接入层第二来源一页
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：经 beszerzes@ 直达：其网络设计项目 BOM 的 24 口 PoE 接入层第二来源（匈语/英语一页，规格+交付期+保修一体）。
 - **要问的问题**：设计项目 BOM 里的接入层目前有第二来源位吗？
 - **随附证明**：一页报价+规格（匈/英）+ 保修/RMA。
@@ -101,7 +101,7 @@ updated: 2026-09-28
 
 ### 第 3 次跟进 · 培训线的中性尊重短件（可选）
 
-- **推什么**：STC-424XGGPM-440W（Saga） 演示机（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga） 演示机（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：随后短件给其 MikroTik 培训线的自用实验位（与采购主件分开、不打扰课程）。
 - **要问的问题**：培训实验环境用得上演示机吗？
 - **随附证明**：演示机条款一页。
@@ -141,7 +141,7 @@ updated: 2026-09-28
 - **①背景再核**：HU 六线集成商（官网一手核）
 - **②芯片/型号**：—
 - **③KP 深挖**：beszerzes@ 采购箱
-- **④Saga 对标**：value 随单（$165 锚点一致）
+- **④Saga 对标**：value 随单（$180 锚点一致）
 - **⑤在乎与偏好**：多技能/项目制
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -167,7 +167,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | MacSoft 匈六线集成（网络设计/运维+MikroTik 培训副业）：项目随单（$165 锚点一致）；beszerzes@=匈语采购箱直达 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | MacSoft 匈六线集成（网络设计/运维+MikroTik 培训副业）：项目随单（$180 锚点一致）；beszerzes@=匈语采购箱直达 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -224,7 +224,7 @@ Hi MacSoft team,
 
 Network design, server operations, WiFi planning - with an official MikroTik training line beside. Full honesty on the training side: we build PoE switches, so let me speak directly to your project work, where hardware choice is yours.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $165 USD EXW (2026-09-29) - a value unit for the networks you design and run. I write to your procurement box on purpose.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for the networks you design and run. I write to your procurement box on purpose.
 
 One question: which switching line do you specify in projects today - and would a documented value PoE unit earn a test?
 

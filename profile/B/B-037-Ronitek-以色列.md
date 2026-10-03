@@ -73,7 +73,7 @@
 - 「MikroTik RDS2216…Switches [27]…Routers and Firewalls [17]…SFP optical modules [18]」 — https://www.ronitek.co.il/products/cat/Mikrotik
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 以色列中坚分销的 24 口 280W 管理型 PoE value 架位
+- 参考 P1: `STC-424XGGPM-280W` — 以色列中坚分销的 24 口 280W 管理型 PoE value 架位
 - 第一问: 你们架上 24 口管理型 PoE+ 现供哪款?UniFi/CRS 之间 value 档有位吗?
 - 标签: 以色列|特拉维夫|全谱分销|MikroTik深架
 
@@ -83,7 +83,7 @@ Hi Ronitek team,
 
 A full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.
 
 One question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?
 

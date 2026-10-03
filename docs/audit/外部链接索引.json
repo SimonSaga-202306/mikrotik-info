@@ -213,7 +213,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12436"
+        "locator": "L12437"
       },
       {
         "path": "profile/A/A-299-Antal Bacskai-匈牙利.md",
@@ -239,7 +239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L839"
+        "locator": "L876"
       }
     ]
   },
@@ -417,7 +417,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L15043"
+        "locator": "L15044"
       },
       {
         "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
@@ -451,7 +451,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1016"
+        "locator": "L1053"
       }
     ]
   },
@@ -625,7 +625,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12889"
+        "locator": "L12890"
       },
       {
         "path": "profile/A/A-310-IT-TRUST Network Solution-奥地利.md",
@@ -647,7 +647,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L883"
+        "locator": "L920"
       }
     ]
   },
@@ -747,7 +747,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14957"
+        "locator": "L14958"
       },
       {
         "path": "profile/A/A-360-Andrii Sychov-乌克兰.md",
@@ -769,7 +769,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1014"
+        "locator": "L1051"
       }
     ]
   },
@@ -813,7 +813,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8743"
+        "locator": "L8744"
       },
       {
         "path": "profile/A/A-211-PAM UFFICIO Srl-意大利.md",
@@ -927,7 +927,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8991"
+        "locator": "L8992"
       },
       {
         "path": "profile/A/A-217-SSC – Software Servizi Consulting Srl-意大利.md",
@@ -1291,7 +1291,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11126"
+        "locator": "L11127"
       },
       {
         "path": "profile/A/A-268-5Gstore-美国.md",
@@ -1623,7 +1623,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12089"
+        "locator": "L12090"
       },
       {
         "path": "profile/A/A-291-Martin Sundahl-美国.md",
@@ -1649,7 +1649,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L838"
+        "locator": "L875"
       }
     ]
   },
@@ -1767,7 +1767,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7837"
+        "locator": "L7838"
       },
       {
         "path": "profile/A/A-189-Agomir-意大利.md",
@@ -2429,7 +2429,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4760"
+        "locator": "L4761"
       },
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
@@ -2879,7 +2879,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9944"
+        "locator": "L9945"
       },
       {
         "path": "profile/A/A-240-Khalil Chamseddine-奥地利.md",
@@ -3061,7 +3061,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14332"
+        "locator": "L14333"
       },
       {
         "path": "profile/A/A-345-Avelution-荷兰.md",
@@ -3087,7 +3087,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L976"
+        "locator": "L1013"
       }
     ]
   },
@@ -3179,7 +3179,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10203"
+        "locator": "L10204"
       },
       {
         "path": "profile/A/A-246-Fredrik Hellgren-瑞典.md",
@@ -3361,7 +3361,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5869"
+        "locator": "L5870"
       },
       {
         "path": "profile/A/A-141-BAIEN GmbH-德国.md",
@@ -3511,7 +3511,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4801"
+        "locator": "L4802"
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
@@ -3631,7 +3631,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13426"
+        "locator": "L13427"
       },
       {
         "path": "profile/A/A-323-EDV-Beratung u Dienstleistungen Berg-Duda-德国.md",
@@ -3857,7 +3857,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12764"
+        "locator": "L12765"
       },
       {
         "path": "profile/A/A-307-BlueBearsIT-法国.md",
@@ -3883,7 +3883,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L882"
+        "locator": "L919"
       }
     ]
   },
@@ -4031,7 +4031,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4678"
+        "locator": "L4679"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
@@ -4355,7 +4355,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11417"
+        "locator": "L11418"
       },
       {
         "path": "profile/A/A-275-Philippe Lachapelle-加拿大.md",
@@ -4561,7 +4561,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13590"
+        "locator": "L13591"
       },
       {
         "path": "profile/A/A-327-CFI France-法国.md",
@@ -4587,7 +4587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L936"
+        "locator": "L973"
       }
     ]
   },
@@ -4657,7 +4657,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13836"
+        "locator": "L13837"
       },
       {
         "path": "profile/A/A-333-C.G.T. Elettronica SpA-意大利.md",
@@ -5217,7 +5217,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10246"
+        "locator": "L10247"
       },
       {
         "path": "profile/A/A-247-Marco Boschini-意大利.md",
@@ -5467,11 +5467,11 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10073"
+        "locator": "L10074"
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10461"
+        "locator": "L10462"
       },
       {
         "path": "docs/audit/客户资产池审核_2026-09-29.json",
@@ -5735,7 +5735,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7960"
+        "locator": "L7961"
       },
       {
         "path": "profile/A/A-192-COMPUTER TIME S.r.l-意大利.md",
@@ -6037,7 +6037,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6156"
+        "locator": "L6157"
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
@@ -6887,7 +6887,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10668"
+        "locator": "L10669"
       },
       {
         "path": "profile/A/A-257-DSSI-葡萄牙.md",
@@ -7121,7 +7121,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13344"
+        "locator": "L13345"
       },
       {
         "path": "profile/A/A-321-EDV-Partner-德国.md",
@@ -7143,7 +7143,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L934"
+        "locator": "L971"
       }
     ]
   },
@@ -7727,7 +7727,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13961"
+        "locator": "L13962"
       },
       {
         "path": "profile/A/A-336-EULOGIC NT Spa-意大利.md",
@@ -7839,7 +7839,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1394"
+        "locator": "L1444"
       }
     ]
   },
@@ -7849,7 +7849,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1394"
+        "locator": "L1444"
       }
     ]
   },
@@ -7971,7 +7971,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8167"
+        "locator": "L8168"
       },
       {
         "path": "profile/A/A-197-FARPOINT SRL-意大利.md",
@@ -8655,7 +8655,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12477"
+        "locator": "L12478"
       },
       {
         "path": "profile/A/A-300-GBE Converge-英国.md",
@@ -8681,7 +8681,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L879"
+        "locator": "L916"
       }
     ]
   },
@@ -8821,7 +8821,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8249"
+        "locator": "L8250"
       },
       {
         "path": "profile/A/A-199-GECOPRA SRL-意大利.md",
@@ -8941,7 +8941,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11917"
+        "locator": "L11918"
       },
       {
         "path": "profile/A/A-287-Rene Dirks-荷兰.md",
@@ -9051,7 +9051,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8290"
+        "locator": "L8291"
       },
       {
         "path": "profile/A/A-200-GIS s.r.l-意大利.md",
@@ -9287,7 +9287,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10796"
+        "locator": "L10797"
       },
       {
         "path": "profile/A/A-260-Maurice Van Der Grijspaarde-荷兰.md",
@@ -9313,7 +9313,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L802"
+        "locator": "L839"
       }
     ]
   },
@@ -9431,7 +9431,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4883"
+        "locator": "L4884"
       },
       {
         "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
@@ -9503,7 +9503,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7755"
+        "locator": "L7756"
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
@@ -9691,7 +9691,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13672"
+        "locator": "L13673"
       },
       {
         "path": "profile/A/A-329-GTD International-法国.md",
@@ -10069,7 +10069,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13467"
+        "locator": "L13468"
       },
       {
         "path": "profile/A/A-324-H&M electronics GbR-德国.md",
@@ -10599,7 +10599,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9860"
+        "locator": "L9861"
       },
       {
         "path": "profile/A/A-238-Infinite Technology-爱尔兰.md",
@@ -10709,7 +10709,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L15689"
+        "locator": "L15690"
       },
       {
         "path": "profile/A/A-377-Ivan Jezerinac-克罗地亚.md",
@@ -10735,7 +10735,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1019"
+        "locator": "L1056"
       }
     ]
   },
@@ -10801,7 +10801,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6607"
+        "locator": "L6608"
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
@@ -10987,7 +10987,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10117"
+        "locator": "L10118"
       },
       {
         "path": "profile/A/A-244-Bartłomiej Rodek-波兰.md",
@@ -11089,7 +11089,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11249"
+        "locator": "L11250"
       },
       {
         "path": "profile/A/A-271-Michiel Visser-荷兰.md",
@@ -11115,7 +11115,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L805"
+        "locator": "L842"
       }
     ]
   },
@@ -11211,7 +11211,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11333"
+        "locator": "L11334"
       },
       {
         "path": "profile/A/A-273-Kevin Myers-美国.md",
@@ -11459,7 +11459,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10837"
+        "locator": "L10838"
       },
       {
         "path": "profile/A/A-261-Joost Van De Weijer-荷兰.md",
@@ -11485,7 +11485,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L805"
+        "locator": "L842"
       }
     ]
   },
@@ -11999,7 +11999,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8413"
+        "locator": "L8414"
       },
       {
         "path": "profile/A/A-203-JM CONSULTING SRL-意大利.md",
@@ -12177,7 +12177,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11376"
+        "locator": "L11377"
       },
       {
         "path": "profile/A/A-274-Nathael Leblanc-加拿大.md",
@@ -12625,7 +12625,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6730"
+        "locator": "L6731"
       },
       {
         "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
@@ -13337,7 +13337,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6771"
+        "locator": "L6772"
       },
       {
         "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
@@ -13499,7 +13499,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10376"
+        "locator": "L10377"
       },
       {
         "path": "profile/A/A-250-Péter Major-匈牙利.md",
@@ -14281,7 +14281,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14914"
+        "locator": "L14915"
       },
       {
         "path": "profile/A/A-359-Scornici Vadim-乌克兰.md",
@@ -14307,7 +14307,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L978"
+        "locator": "L1015"
       }
     ]
   },
@@ -20385,7 +20385,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9731"
+        "locator": "L9732"
       },
       {
         "path": "profile/A/A-235-László Kalapos-匈牙利.md",
@@ -21293,7 +21293,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10030"
+        "locator": "L10031"
       },
       {
         "path": "profile/A/A-242-Mikrotik Warsaw Training Center-波兰.md",
@@ -21781,7 +21781,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14125"
+        "locator": "L14126"
       },
       {
         "path": "profile/A/A-340-Net Engineering SpA-意大利.md",
@@ -21807,7 +21807,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L975"
+        "locator": "L1012"
       }
     ]
   },
@@ -22397,7 +22397,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5047"
+        "locator": "L5048"
       },
       {
         "path": "profile/A/A-121-Nexware Technologies-美国.md",
@@ -22561,7 +22561,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-069-Iyiola Folayan - Millie Evolution-英国.md",
-        "locator": "L266"
+        "locator": "L270"
       }
     ]
   },
@@ -22587,7 +22587,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13055"
+        "locator": "L13056"
       },
       {
         "path": "profile/A/A-314-Rogier Banis-荷兰.md",
@@ -22613,7 +22613,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L886"
+        "locator": "L923"
       }
     ]
   },
@@ -22739,7 +22739,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7058"
+        "locator": "L7059"
       },
       {
         "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
@@ -22941,7 +22941,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8620"
+        "locator": "L8621"
       },
       {
         "path": "profile/A/A-208-Net System Innovazione srl-意大利.md",
@@ -23137,7 +23137,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7099"
+        "locator": "L7100"
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
@@ -23505,7 +23505,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12132"
+        "locator": "L12133"
       },
       {
         "path": "profile/A/A-292-David Garland-美国.md",
@@ -23641,7 +23641,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5088"
+        "locator": "L5089"
       },
       {
         "path": "profile/A/A-122-Paramount Security Partners-美国.md",
@@ -23787,7 +23787,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9155"
+        "locator": "L9156"
       },
       {
         "path": "profile/A/A-221-Pijl Solutions-荷兰.md",
@@ -24247,7 +24247,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5129"
+        "locator": "L5130"
       },
       {
         "path": "profile/A/A-123-Professional Cabling Solutions (PCS), LLC-美国.md",
@@ -24513,7 +24513,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12682"
+        "locator": "L12683"
       },
       {
         "path": "profile/A/A-305-Quadratek-英国.md",
@@ -24539,7 +24539,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L881"
+        "locator": "L918"
       }
     ]
   },
@@ -24647,7 +24647,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7345"
+        "locator": "L7346"
       },
       {
         "path": "profile/A/A-177-RECOS SYSTEM SOLUTIONS GmbH-德国.md",
@@ -25329,7 +25329,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9237"
+        "locator": "L9238"
       },
       {
         "path": "profile/A/A-223-S.A.B.E.L. Handels GmbH-奥地利.md",
@@ -25673,7 +25673,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5457"
+        "locator": "L5458"
       },
       {
         "path": "docs/audit/客户资产池审核_2026-09-29.json",
@@ -25923,7 +25923,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4842"
+        "locator": "L4843"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
@@ -26195,7 +26195,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13180"
+        "locator": "L13181"
       },
       {
         "path": "profile/A/A-317-Shea Electric-美国.md",
@@ -26871,7 +26871,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14703"
+        "locator": "L14704"
       },
       {
         "path": "profile/A/A-354-NTS Direct-美国.md",
@@ -27313,7 +27313,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8868"
+        "locator": "L8869"
       },
       {
         "path": "profile/A/A-214-SI.EL.CO. S.R.L-意大利.md",
@@ -27419,7 +27419,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5293"
+        "locator": "L5294"
       },
       {
         "path": "profile/A/A-127-Silco Fire Protection & Security-美国.md",
@@ -27843,7 +27843,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9567"
+        "locator": "L9568"
       },
       {
         "path": "profile/A/A-231-Specto Remote AS-挪威.md",
@@ -28027,7 +28027,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9032"
+        "locator": "L9033"
       },
       {
         "path": "profile/A/A-218-STL Connext – Società Telefonica Lombarda SRL-意大利.md",
@@ -28379,7 +28379,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9485"
+        "locator": "L9486"
       },
       {
         "path": "profile/A/A-229-Stovaris Sp. z o.o-波兰.md",
@@ -28949,7 +28949,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10586"
+        "locator": "L10587"
       },
       {
         "path": "profile/A/A-255-The Junction-挪威.md",
@@ -29087,7 +29087,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7509"
+        "locator": "L7510"
       },
       {
         "path": "profile/A/A-181-think about IT GmbH-德国.md",
@@ -29343,7 +29343,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10627"
+        "locator": "L10628"
       },
       {
         "path": "profile/A/A-256-Timeless Technology-芬兰.md",
@@ -29891,7 +29891,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5375"
+        "locator": "L5376"
       },
       {
         "path": "profile/A/A-129-VARtek Services Inc-美国.md",
@@ -30291,7 +30291,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9319"
+        "locator": "L9320"
       },
       {
         "path": "profile/A/A-225-DDS Netcom AG-瑞士.md",
@@ -30857,7 +30857,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5416"
+        "locator": "L5417"
       },
       {
         "path": "profile/A/A-130-Wire Technologies, Inc-美国.md",
@@ -31233,7 +31233,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5170"
+        "locator": "L5171"
       },
       {
         "path": "profile/A/A-124-Riverside Technologies Inc-美国.md",
@@ -31357,7 +31357,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12518"
+        "locator": "L12519"
       },
       {
         "path": "profile/A/A-301-3TEC-英国.md",
@@ -31613,7 +31613,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9526"
+        "locator": "L9527"
       },
       {
         "path": "profile/A/A-230-4service s.r.o-捷克.md",
@@ -31715,7 +31715,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5541"
+        "locator": "L5542"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
@@ -32035,7 +32035,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12559"
+        "locator": "L12560"
       },
       {
         "path": "profile/A/A-302-ACC Yotta-英国.md",
@@ -32221,7 +32221,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5582"
+        "locator": "L5583"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
@@ -32295,7 +32295,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5623"
+        "locator": "L5624"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
@@ -32435,7 +32435,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13795"
+        "locator": "L13796"
       },
       {
         "path": "profile/A/A-332-Adrianet Snc-意大利.md",
@@ -32579,7 +32579,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7796"
+        "locator": "L7797"
       },
       {
         "path": "profile/A/A-188-A.G.informatica S.r.l-意大利.md",
@@ -32749,7 +32749,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5664"
+        "locator": "L5665"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
@@ -32871,7 +32871,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5705"
+        "locator": "L5706"
       },
       {
         "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
@@ -33517,7 +33517,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13385"
+        "locator": "L13386"
       },
       {
         "path": "profile/A/A-322-AlphaCron Datensysteme-德国.md",
@@ -33731,7 +33731,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5746"
+        "locator": "L5747"
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
@@ -33857,7 +33857,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11044"
+        "locator": "L11045"
       },
       {
         "path": "profile/A/A-266-Andisa IT-英国.md",
@@ -33883,7 +33883,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L806"
+        "locator": "L843"
       }
     ]
   },
@@ -34113,7 +34113,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5787"
+        "locator": "L5788"
       },
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
@@ -34295,7 +34295,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7878"
+        "locator": "L7879"
       },
       {
         "path": "profile/A/A-190-Asit SpA-意大利.md",
@@ -34611,7 +34611,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12973"
+        "locator": "L12974"
       },
       {
         "path": "profile/A/A-312-Atlantik Elektronik-德国.md",
@@ -34637,7 +34637,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L884"
+        "locator": "L921"
       }
     ]
   },
@@ -34715,7 +34715,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10921"
+        "locator": "L10922"
       },
       {
         "path": "profile/A/A-263-ATYS Co Controll Enginering-匈牙利.md",
@@ -34903,7 +34903,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5828"
+        "locator": "L5829"
       },
       {
         "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
@@ -35181,7 +35181,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11708"
+        "locator": "L11709"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
@@ -35511,7 +35511,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5910"
+        "locator": "L5911"
       },
       {
         "path": "profile/A/A-142-bod networks GmbH-德国.md",
@@ -35743,7 +35743,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5951"
+        "locator": "L5952"
       },
       {
         "path": "profile/A/A-143-buerodata AG-德国.md",
@@ -35951,7 +35951,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14496"
+        "locator": "L14497"
       },
       {
         "path": "profile/A/A-349-C2F Copper2Fiber-葡萄牙.md",
@@ -35981,7 +35981,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L976"
+        "locator": "L1013"
       }
     ]
   },
@@ -36147,7 +36147,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11540"
+        "locator": "L11541"
       },
       {
         "path": "profile/A/A-278-Cayman Wireless-美国.md",
@@ -36765,7 +36765,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7919"
+        "locator": "L7920"
       },
       {
         "path": "profile/A/A-191-Coel Distribution srl-意大利.md",
@@ -36883,7 +36883,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10962"
+        "locator": "L10963"
       },
       {
         "path": "profile/A/A-264-Cogent Distribution-英国.md",
@@ -37163,7 +37163,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5992"
+        "locator": "L5993"
       },
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
@@ -37295,7 +37295,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8001"
+        "locator": "L8002"
       },
       {
         "path": "profile/A/A-193-CONNECT ICS S.R.L-意大利.md",
@@ -37407,7 +37407,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10545"
+        "locator": "L10546"
       },
       {
         "path": "profile/A/A-254-Connect Data-法国.md",
@@ -37667,7 +37667,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4719"
+        "locator": "L4720"
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
@@ -37995,7 +37995,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8044"
+        "locator": "L8045"
       },
       {
         "path": "profile/A/A-194-CTC SYSTEMS SRL-意大利.md",
@@ -38299,7 +38299,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11833"
+        "locator": "L11834"
       },
       {
         "path": "profile/A/A-285-Corné Van Halteren-荷兰.md",
@@ -38329,7 +38329,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L836"
+        "locator": "L873"
       }
     ]
   },
@@ -38425,7 +38425,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6033"
+        "locator": "L6034"
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
@@ -38547,7 +38547,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6074"
+        "locator": "L6075"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
@@ -38673,7 +38673,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11208"
+        "locator": "L11209"
       },
       {
         "path": "profile/A/A-270-Data Connect-美国.md",
@@ -38821,7 +38821,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9608"
+        "locator": "L9609"
       },
       {
         "path": "profile/A/A-232-Databox-葡萄牙.md",
@@ -39073,7 +39073,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6115"
+        "locator": "L6116"
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
@@ -39229,7 +39229,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13139"
+        "locator": "L13140"
       },
       {
         "path": "profile/A/A-316-Davis Ulmer Family of Companies-美国.md",
@@ -39417,7 +39417,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13221"
+        "locator": "L13222"
       },
       {
         "path": "profile/A/A-318-DeInta-西班牙.md",
@@ -39485,7 +39485,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13631"
+        "locator": "L13632"
       },
       {
         "path": "profile/A/A-328-Delta Sertec-法国.md",
@@ -39699,7 +39699,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14832"
+        "locator": "L14833"
       },
       {
         "path": "profile/A/A-357-Digital Sima S.A-希腊.md",
@@ -39725,7 +39725,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L977"
+        "locator": "L1014"
       }
     ]
   },
@@ -40211,7 +40211,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13920"
+        "locator": "L13921"
       },
       {
         "path": "profile/A/A-335-Dps Informatica S.n.c-意大利.md",
@@ -40237,7 +40237,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L938"
+        "locator": "L975"
       }
     ]
   },
@@ -40345,7 +40345,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6197"
+        "locator": "L6198"
       },
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
@@ -40645,7 +40645,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6238"
+        "locator": "L6239"
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
@@ -41081,7 +41081,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14662"
+        "locator": "L14663"
       },
       {
         "path": "profile/A/A-353-ELMAT-意大利.md",
@@ -41173,7 +41173,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8085"
+        "locator": "L8086"
       },
       {
         "path": "profile/A/A-195-EMILIA INFORMATICA s.r.l-意大利.md",
@@ -41333,7 +41333,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9817"
+        "locator": "L9818"
       },
       {
         "path": "profile/A/A-237-Philippe ROBERT-瑞士.md",
@@ -41691,7 +41691,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12641"
+        "locator": "L12642"
       },
       {
         "path": "profile/A/A-304-European Electronique-英国.md",
@@ -41871,7 +41871,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13303"
+        "locator": "L13304"
       },
       {
         "path": "profile/A/A-320-Evelem-法国.md",
@@ -41897,7 +41897,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L933"
+        "locator": "L970"
       }
     ]
   },
@@ -41999,7 +41999,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8126"
+        "locator": "L8127"
       },
       {
         "path": "profile/A/A-196-Evergreen1 S.R.L-意大利.md",
@@ -42839,7 +42839,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12930"
+        "locator": "L12931"
       },
       {
         "path": "profile/A/A-311-Christopher Fikes-美国.md",
@@ -43029,7 +43029,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8208"
+        "locator": "L8209"
       },
       {
         "path": "profile/A/A-198-Fiore Srl-意大利.md",
@@ -43271,7 +43271,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9360"
+        "locator": "L9361"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
@@ -43427,7 +43427,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9901"
+        "locator": "L9902"
       },
       {
         "path": "profile/A/A-239-Patrik Schaub-德国.md",
@@ -43637,11 +43637,11 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6320"
+        "locator": "L6321"
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6361"
+        "locator": "L6362"
       },
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
@@ -43875,7 +43875,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6279"
+        "locator": "L6280"
       },
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
@@ -43993,7 +43993,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12848"
+        "locator": "L12849"
       },
       {
         "path": "profile/A/A-309-General Computer Italia S.p.A-意大利.md",
@@ -44193,7 +44193,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8331"
+        "locator": "L8332"
       },
       {
         "path": "profile/A/A-201-Goretti Technological System S.r.l-意大利.md",
@@ -44377,7 +44377,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9114"
+        "locator": "L9115"
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
@@ -44491,7 +44491,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6402"
+        "locator": "L6403"
       },
       {
         "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
@@ -44589,7 +44589,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4924"
+        "locator": "L4925"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
@@ -44899,7 +44899,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6484"
+        "locator": "L6485"
       },
       {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
@@ -45017,7 +45017,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12723"
+        "locator": "L12724"
       },
       {
         "path": "profile/A/A-306-Holker IT-英国.md",
@@ -45193,7 +45193,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6443"
+        "locator": "L6444"
       },
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
@@ -45373,7 +45373,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6525"
+        "locator": "L6526"
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
@@ -45619,7 +45619,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8372"
+        "locator": "L8373"
       },
       {
         "path": "profile/A/A-202-IFI Consulting Srl-意大利.md",
@@ -45831,7 +45831,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6566"
+        "locator": "L6567"
       },
       {
         "path": "profile/A/A-158-Inducio GmbH-德国.md",
@@ -45903,7 +45903,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11085"
+        "locator": "L11086"
       },
       {
         "path": "profile/A/A-267-IndustrialComms-英国.md",
@@ -46171,7 +46171,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14002"
+        "locator": "L14003"
       },
       {
         "path": "profile/A/A-337-I&SI S.p.A-意大利.md",
@@ -46197,7 +46197,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L939"
+        "locator": "L976"
       }
     ]
   },
@@ -46283,7 +46283,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13508"
+        "locator": "L13509"
       },
       {
         "path": "profile/A/A-325-Ingo Seidenberg Inseid – EDV-Beratung-德国.md",
@@ -46497,7 +46497,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11624"
+        "locator": "L11625"
       },
       {
         "path": "profile/A/A-280-Invictus-美国.md",
@@ -46523,7 +46523,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L834"
+        "locator": "L871"
       }
     ]
   },
@@ -46671,7 +46671,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14043"
+        "locator": "L14044"
       },
       {
         "path": "profile/A/A-338-Irene-意大利.md",
@@ -46803,7 +46803,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6648"
+        "locator": "L6649"
       },
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
@@ -46929,7 +46929,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12219"
+        "locator": "L12220"
       },
       {
         "path": "profile/A/A-294-Steve Discher-美国.md",
@@ -47045,7 +47045,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9278"
+        "locator": "L9279"
       },
       {
         "path": "profile/A/A-224-Salzgeber GmbH-奥地利.md",
@@ -47171,7 +47171,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4965"
+        "locator": "L4966"
       },
       {
         "path": "profile/A/A-119-ITC Technologies-美国.md",
@@ -47329,7 +47329,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L15000"
+        "locator": "L15001"
       },
       {
         "path": "docs/audit/2026-09-27_A360-A378联络核验.md",
@@ -47367,7 +47367,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1015"
+        "locator": "L1052"
       }
     ]
   },
@@ -47407,7 +47407,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12807"
+        "locator": "L12808"
       },
       {
         "path": "profile/A/A-308-ITNI-法国.md",
@@ -47669,7 +47669,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11749"
+        "locator": "L11750"
       },
       {
         "path": "profile/A/A-283-Jake Louis Petre Woodhouse-英国.md",
@@ -47695,7 +47695,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L835"
+        "locator": "L872"
       }
     ]
   },
@@ -47787,7 +47787,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6689"
+        "locator": "L6690"
       },
       {
         "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
@@ -47941,7 +47941,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14414"
+        "locator": "L14415"
       },
       {
         "path": "profile/A/A-347-Kappa Data Belgium-比利时.md",
@@ -48033,7 +48033,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14373"
+        "locator": "L14374"
       },
       {
         "path": "profile/A/A-346-Kappa Data Nederland-荷兰.md",
@@ -48301,7 +48301,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5006"
+        "locator": "L5007"
       },
       {
         "path": "profile/A/A-120-Kidwell Inc-美国.md",
@@ -48519,7 +48519,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14537"
+        "locator": "L14538"
       },
       {
         "path": "profile/A/A-350-Landatel-西班牙.md",
@@ -48719,7 +48719,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14873"
+        "locator": "L14874"
       },
       {
         "path": "profile/A/A-358-LEXIS S.A-希腊.md",
@@ -61157,7 +61157,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10289"
+        "locator": "L10290"
       },
       {
         "path": "profile/A/A-248-Victor Bolaños Guerra-西班牙.md",
@@ -61255,7 +61255,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8454"
+        "locator": "L8455"
       },
       {
         "path": "profile/A/A-204-Localnet Firenze Srl-意大利.md",
@@ -61389,7 +61389,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6812"
+        "locator": "L6813"
       },
       {
         "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
@@ -61817,7 +61817,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6853"
+        "locator": "L6854"
       },
       {
         "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
@@ -61927,7 +61927,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14578"
+        "locator": "L14579"
       },
       {
         "path": "profile/A/A-351-meconet-德国.md",
@@ -61995,7 +61995,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13549"
+        "locator": "L13550"
       },
       {
         "path": "profile/A/A-326-Merlin EDV-德国.md",
@@ -62021,7 +62021,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L935"
+        "locator": "L972"
       }
     ]
   },
@@ -62163,7 +62163,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14621"
+        "locator": "L14622"
       },
       {
         "path": "profile/A/A-352-MHz Shop-法国.md",
@@ -62415,7 +62415,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11167"
+        "locator": "L11168"
       },
       {
         "path": "profile/A/A-269-Micro Technology Consultants-美国.md",
@@ -62855,7 +62855,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14746"
+        "locator": "L14747"
       },
       {
         "path": "profile/A/A-355-Ahababian V-乌克兰.md",
@@ -62877,7 +62877,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L977"
+        "locator": "L1014"
       }
     ]
   },
@@ -63027,7 +63027,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10753"
+        "locator": "L10754"
       },
       {
         "path": "profile/A/A-259-Henk Veldkamp-荷兰.md",
@@ -63259,7 +63259,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14084"
+        "locator": "L14085"
       },
       {
         "path": "profile/A/A-339-ML Software S. r. l-意大利.md",
@@ -63285,7 +63285,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L940"
+        "locator": "L977"
       }
     ]
   },
@@ -63403,7 +63403,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11499"
+        "locator": "L11500"
       },
       {
         "path": "profile/A/A-277-Modelec Data-Industrie-荷兰.md",
@@ -63429,7 +63429,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L806"
+        "locator": "L843"
       }
     ]
   },
@@ -63731,7 +63731,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6894"
+        "locator": "L6895"
       },
       {
         "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
@@ -63931,7 +63931,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6935"
+        "locator": "L6936"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
@@ -64039,7 +64039,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5500"
+        "locator": "L5501"
       },
       {
         "path": "profile/A/A-132-Nabacom-意大利.md",
@@ -64171,7 +64171,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8579"
+        "locator": "L8580"
       },
       {
         "path": "profile/A/A-207-NA.EL Srl-意大利.md",
@@ -64307,7 +64307,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8538"
+        "locator": "L8539"
       },
       {
         "path": "profile/A/A-206-N&C TELECOMUNICAZIONI S.p.a-意大利.md",
@@ -64515,7 +64515,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11458"
+        "locator": "L11459"
       },
       {
         "path": "profile/A/A-276-Neobits-美国.md",
@@ -64663,7 +64663,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10878"
+        "locator": "L10879"
       },
       {
         "path": "profile/A/A-262-NetHighTech-葡萄牙.md",
@@ -64929,7 +64929,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7017"
+        "locator": "L7018"
       },
       {
         "path": "profile/A/A-169-Netz16 GmbH-德国.md",
@@ -65043,7 +65043,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8661"
+        "locator": "L8662"
       },
       {
         "path": "profile/A/A-209-NEWSOFT Technology SRL-意大利.md",
@@ -65209,7 +65209,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13262"
+        "locator": "L13263"
       },
       {
         "path": "profile/A/A-319-Nexus Technology-西班牙.md",
@@ -65231,7 +65231,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L887"
+        "locator": "L924"
       }
     ]
   },
@@ -65349,7 +65349,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14455"
+        "locator": "L14456"
       },
       {
         "path": "profile/A/A-348-nLogic-挪威.md",
@@ -65509,7 +65509,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9444"
+        "locator": "L9445"
       },
       {
         "path": "profile/A/A-228-Nomios Poland Sp. z o. o-波兰.md",
@@ -65633,7 +65633,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10504"
+        "locator": "L10505"
       },
       {
         "path": "profile/A/A-253-Noriak Distribution-法国.md",
@@ -65819,7 +65819,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L6976"
+        "locator": "L6977"
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
@@ -65923,7 +65923,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13713"
+        "locator": "L13714"
       },
       {
         "path": "profile/A/A-330-NXO France-法国.md",
@@ -65949,7 +65949,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L937"
+        "locator": "L974"
       }
     ]
   },
@@ -66057,7 +66057,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7140"
+        "locator": "L7141"
       },
       {
         "path": "profile/A/A-172-OAS AG-德国.md",
@@ -66301,7 +66301,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8702"
+        "locator": "L8703"
       },
       {
         "path": "profile/A/A-210-OMNICONNECT srl-意大利.md",
@@ -66885,7 +66885,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7181"
+        "locator": "L7182"
       },
       {
         "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
@@ -66977,7 +66977,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7222"
+        "locator": "L7223"
       },
       {
         "path": "profile/A/A-174-PKE Deutschland GmbH – Niederlassung Berlin-德国.md",
@@ -67055,7 +67055,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L15471"
+        "locator": "L15472"
       },
       {
         "path": "profile/A/A-372-Domagoj Bikic-克罗地亚.md",
@@ -67081,7 +67081,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1018"
+        "locator": "L1055"
       }
     ]
   },
@@ -67197,7 +67197,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13014"
+        "locator": "L13015"
       },
       {
         "path": "profile/A/A-313-Powertech Controls-美国.md",
@@ -67223,7 +67223,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L885"
+        "locator": "L922"
       }
     ]
   },
@@ -67357,7 +67357,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7263"
+        "locator": "L7264"
       },
       {
         "path": "profile/A/A-175-prego services GmbH-德国.md",
@@ -67461,7 +67461,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7304"
+        "locator": "L7305"
       },
       {
         "path": "profile/A/A-176-Prinzing Elektrotechnik GmbH-德国.md",
@@ -67953,7 +67953,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9196"
+        "locator": "L9197"
       },
       {
         "path": "profile/A/A-222-quattroSEC Gmbh-奥地利.md",
@@ -68719,7 +68719,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11874"
+        "locator": "L11875"
       },
       {
         "path": "profile/A/A-286-Aris Vink-荷兰.md",
@@ -68791,7 +68791,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14166"
+        "locator": "L14167"
       },
       {
         "path": "profile/A/A-341-Securcrea Snc-意大利.md",
@@ -68925,7 +68925,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5211"
+        "locator": "L5212"
       },
       {
         "path": "profile/A/A-125-Security 101 - CT-美国.md",
@@ -69015,7 +69015,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5252"
+        "locator": "L5253"
       },
       {
         "path": "profile/A/A-126-Security 101 - Rochester NY-美国.md",
@@ -69109,7 +69109,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7386"
+        "locator": "L7387"
       },
       {
         "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
@@ -69217,7 +69217,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4596"
+        "locator": "L4597"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
@@ -69337,7 +69337,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8827"
+        "locator": "L8828"
       },
       {
         "path": "profile/A/A-213-Sfera Informatica & Strumentazione S.r.l-意大利.md",
@@ -69527,7 +69527,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8909"
+        "locator": "L8910"
       },
       {
         "path": "profile/A/A-215-SIM NT srl-意大利.md",
@@ -69777,7 +69777,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7427"
+        "locator": "L7428"
       },
       {
         "path": "profile/A/A-179-Sittig Technologies GmbH-德国.md",
@@ -70097,7 +70097,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L8950"
+        "locator": "L8951"
       },
       {
         "path": "profile/A/A-216-SOTECH srl-意大利.md",
@@ -70291,7 +70291,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11003"
+        "locator": "L11004"
       },
       {
         "path": "profile/A/A-265-Sphinx Connect-法国.md",
@@ -70347,7 +70347,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9073"
+        "locator": "L9074"
       },
       {
         "path": "profile/A/A-219-STORELINK S.R.L-意大利.md",
@@ -70667,7 +70667,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L13754"
+        "locator": "L13755"
       },
       {
         "path": "profile/A/A-331-SYNEXIE-法国.md",
@@ -70769,7 +70769,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L10160"
+        "locator": "L10161"
       },
       {
         "path": "profile/A/A-245-Jaromir Cihak-捷克.md",
@@ -70919,7 +70919,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14248"
+        "locator": "L14249"
       },
       {
         "path": "profile/A/A-343-Techno Center S.p.A-意大利.md",
@@ -71059,7 +71059,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7468"
+        "locator": "L7469"
       },
       {
         "path": "profile/A/A-180-TELCAT MULTICOM GmbH – HQ-德国.md",
@@ -71345,7 +71345,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7550"
+        "locator": "L7551"
       },
       {
         "path": "profile/A/A-182-Tiefenbach IT GmbH-德国.md",
@@ -71547,7 +71547,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14207"
+        "locator": "L14208"
       },
       {
         "path": "profile/A/A-342-T.net S.p.A-意大利.md",
@@ -71691,7 +71691,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7591"
+        "locator": "L7592"
       },
       {
         "path": "profile/A/A-183-TQ-Systems GmbH-德国.md",
@@ -71881,7 +71881,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9987"
+        "locator": "L9988"
       },
       {
         "path": "profile/A/A-241-Martin Polainer-奥地利.md",
@@ -72033,7 +72033,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L12600"
+        "locator": "L12601"
       },
       {
         "path": "profile/A/A-303-Electracom-Trusol-英国.md",
@@ -72059,7 +72059,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L880"
+        "locator": "L917"
       }
     ]
   },
@@ -72169,7 +72169,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L5334"
+        "locator": "L5335"
       },
       {
         "path": "profile/A/A-128-UberData Networks-美国.md",
@@ -72465,7 +72465,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L4637"
+        "locator": "L4638"
       },
       {
         "path": "profile/A/A-111-Universal Networks-英国.md",
@@ -72701,7 +72701,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9690"
+        "locator": "L9691"
       },
       {
         "path": "profile/A/A-234-Varia Group-德国.md",
@@ -72853,7 +72853,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L15645"
+        "locator": "L15646"
       },
       {
         "path": "profile/A/A-376-Jernej Suhadolc-斯洛文尼亚.md",
@@ -72875,7 +72875,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1017"
+        "locator": "L1054"
       }
     ]
   },
@@ -73507,7 +73507,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L11958"
+        "locator": "L11959"
       },
       {
         "path": "profile/A/A-288-Krystof Klima-捷克.md",
@@ -73533,7 +73533,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L837"
+        "locator": "L874"
       }
     ]
   },
@@ -74153,7 +74153,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7632"
+        "locator": "L7633"
       },
       {
         "path": "profile/A/A-184-wp.DATA Kommunikations GmbH-德国.md",
@@ -74359,7 +74359,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L14789"
+        "locator": "L14790"
       },
       {
         "path": "profile/A/A-356-Pournaras Athanasios-希腊.md",
@@ -74589,7 +74589,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L9649"
+        "locator": "L9650"
       },
       {
         "path": "profile/A/A-233-Young B.T.S. Ltd-匈牙利.md",
@@ -74749,7 +74749,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7673"
+        "locator": "L7674"
       },
       {
         "path": "profile/A/A-185-Ziegler Systemhaus GmbH-德国.md",
@@ -75141,7 +75141,7 @@
       },
       {
         "path": "batch/structured_profiles_v1.json",
-        "locator": "L7714"
+        "locator": "L7715"
       },
       {
         "path": "profile/A/A-186-Zorn Elektrik GmbH-德国.md",

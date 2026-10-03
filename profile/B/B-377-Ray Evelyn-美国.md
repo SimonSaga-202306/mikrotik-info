@@ -21,7 +21,7 @@
 | 类型 | 集成商/顾问（MikroTik 认证） |
 | 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCIPv6E+MTCSE |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGM（Saga） |
+| 首推 Saga 型号 | STC-424XGGM（Saga） |
 | 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | 2008 年起用 MikroTik，熟悉运营商与企业级软件栈；架构到工程实施与特定场景支持；路由与云 |
@@ -51,7 +51,7 @@
 
 先小批量试用跑稳定性。备件与 RMA 响应速度比价格更影响成交。
 
-参考型号：`STC-424DGGM（Saga）`
+参考型号：`STC-424XGGM（Saga）`
 
 ## 六、注意点
 

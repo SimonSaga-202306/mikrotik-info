@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — 克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$165 邮件锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$180 邮件锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：按他「基础设施整体交付」的语境切入：监控/AP/门禁一次上 24 口 PoE++，把整机功率预算与看门狗写进他的交付清单，替代同档 MikroTik CRS328 / UniFi 的备选位。
 - **要问的问题**：他现在的接入层订单里，24 口 PoE 一般谁供货、卡在价格还是交期？
 - **随附证明**：整机功率实测表 + 看门狗演示 + 与 CRS328-24P/UniFi 的同规格对照页。
@@ -140,7 +140,7 @@ updated: 2026-09-28
 - **①背景再核**：克里特 Heraklion 合伙人制 2-10 人；创始人 MTCNA+MTCINE；前台 1 人（LinkedIn 雇员墙）
 - **②芯片/型号**：Partner 墙含 MikroTik/Ubiquiti/Huawei Enterprise——Marvell 系接入层（华为 Enterprise 大量 Marvell Prestera）；具体在售型号未公开
 - **③KP 深挖**：Charis Marinakis 创始人+高级工程师（LinkedIn）；邮箱域 MX 指向 O365 防护盘
-- **④Saga 对标**：酒店/企业接入层 PoE：STC-424DGGPM-280W 对上 Ubiquiti USW-24-PoE 类，价格带下切
+- **④Saga 对标**：酒店/企业接入层 PoE：STC-424XGGPM-280W 对上 Ubiquiti USW-24-PoE 类，价格带下切
 - **⑤在乎与偏好**：项目階段性采购；讲工程语言、给工程项目价；快节奏小团队→单页报价最佳
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -175,7 +175,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$165 邮件锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 克里特酒店/企业 WiFi 项目型：楼层 24 口 PoE+10G 上联一台到位（$180 邮件锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -234,7 +234,7 @@ Hi Charis,
 
 I came across SystemCon - MTCNA+MTCINE on board and a full partner wall from Microsoft to MikroTik.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that power-cycles a hung AP without a site visit. Reference: $165 USD EXW, neutral packing available.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that power-cycles a hung AP without a site visit. Reference: $180 USD EXW, neutral packing available.
 
 One question: in a typical hotel floor deployment, how many PoE endpoints do you land on one access switch?
 
@@ -270,4 +270,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Charalampos Marinakis - SystemCon · 领英公司页](https://gr.linkedin.com/company/systemcon)(既有证据链接,来源:档案;公司页进群后可挑 KP 添加)
 - **中国进口与管制**:国别档位 低(政治摇摆、Cosco 比港;华为存量大);档案信号: 在卖中国品牌 Huawei/华为 → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

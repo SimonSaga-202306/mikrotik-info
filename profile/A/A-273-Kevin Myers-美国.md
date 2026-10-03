@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — IP ArchiTechs（Kevin Myers）美国独立网络咨询头牌：commodity hardware 降本哲学同频，对照库规格单元（$165 锚点一致）；顾问主权话术；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — IP ArchiTechs（Kevin Myers）美国独立网络咨询头牌：commodity hardware 降本哲学同频，对照库规格单元（$180 锚点一致）；顾问主权话术；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -87,7 +87,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 白盒接入层评估机（参考设计用）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）评估机（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）评估机（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：尊重其中立身份的一封：贵司以 commodity hardware+验证设计模板降客户成本——提供一台 24 口 PoE++ L2+ 评估机供参考设计测试，不谈渠道/返点。
 - **要问的问题**：你们的接入层参考设计里有评估新硬件位置的流程吗？
 - **随附证明**：一页规格 + 配置参考（VLAN/ERPS/MLAG 能力清单）。
@@ -141,7 +141,7 @@ updated: 2026-09-28
 - **①背景再核**：US 独立咨询头牌（官网一手核）
 - **②芯片/型号**：MikroTik/多生态
 - **③KP 深挖**：consulting@
-- **④Saga 对标**：规格对照（$165 锚点一致）
+- **④Saga 对标**：规格对照（$180 锚点一致）
 - **⑤在乎与偏好**：厂商中立/降本哲学
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -167,9 +167,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | IP ArchiTechs（Kevin Myers）美国独立网络咨询头牌：commodity hardware 降本哲学同频，对照库规格单元（$165 锚点一致）；顾问主权话术 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | IP ArchiTechs（Kevin Myers）美国独立网络咨询头牌：commodity hardware 降本哲学同频，对照库规格单元（$180 锚点一致）；顾问主权话术 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -228,7 +228,7 @@ Hi Kevin, hi IP ArchiTechs team,
 
 Vendor-neutral consulting with a 'lowering network costs' philosophy - commodity hardware plus validated design templates. That is exactly the world we build for.
 
-Full honesty: we are a PoE switch maker, and your neutrality matters, so no pitch framing here. What we can offer is a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) as a spec candidate wherever cost-efficient access switching is designed - your lab can verify the claims unit by unit.
+Full honesty: we are a PoE switch maker, and your neutrality matters, so no pitch framing here. What we can offer is a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a spec candidate wherever cost-efficient access switching is designed - your lab can verify the claims unit by unit.
 
 One question: how does a new hardware candidate get into your validated-design consideration set - via lab eval, or via a customer's bill of materials?
 

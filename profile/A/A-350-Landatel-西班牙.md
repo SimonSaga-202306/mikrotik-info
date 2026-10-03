@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Landatel 西 WISP 分销转对比引擎（官网改版预告：12.000+ SKU/50 类目对比）：对比目录收录角窗口期（$165 锚点一致）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Landatel 西 WISP 分销转对比引擎（官网改版预告：12.000+ SKU/50 类目对比）：对比目录收录角窗口期（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,11 +84,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 收录轨
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：对比目录收录（改版窗口；规格全+参考价可挂）
 - **要问的问题**：收录标准是什么？
 - **随附/动作**：规格页
@@ -115,7 +115,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.landatel.com|改版预告页 12.000+/50 类目自述
 - **②芯片/型号**：——
 - **③KP 深挖**：对比引擎新形态
-- **④Saga 对标**：STC-424 目录收录（$165 锚点一致）
+- **④Saga 对标**：STC-424 目录收录（$180 锚点一致）
 - **⑤在乎与偏好**：数据完整性嗜好（规格全=收录友好）
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -141,7 +141,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Landatel 西 WISP 分销转对比引擎（官网改版预告：12.000+ SKU/50 类目对比）：对比目录收录角窗口期（$165 锚点一致） |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Landatel 西 WISP 分销转对比引擎（官网改版预告：12.000+ SKU/50 类目对比）：对比目录收录角窗口期（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -198,7 +198,7 @@ Hi Landatel team,
 
 Your coming comparison engine - 12,000+ network products side by side - is exactly how buyers should choose. When it opens, a documented 24-port Gigabit PoE switch with full specs and a USD reference price belongs in the switches category.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: when the catalogue opens, what is the bar for a new switch brand to be listed with complete specs?
 
@@ -232,4 +232,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Landatel · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Landatel)(搜索链接,点入后核职位再加;来源:联络核验)
 - **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:待定(档案无芯片信号,首开先问品牌谱)
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

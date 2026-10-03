@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: true, oem: false, hotel: true, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇、组播/IPTV），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -84,11 +84,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：酒店一层/一栋楼的 AP+IPTV+CCTV：24 口 PoE++ 一台吃下，重点讲 PoE 预算、端口隔离（客房/设备网段）与 250m 延长（老楼布线救急）。
 - **要问的问题**：他们 hospitality 项目里 24 口 PoE 现在用什么型号、缺什么规格？
 - **随附证明**：功率实测 + 老楼延长方案（250m/端口隔离）+ 与 CRS328-24P 对照。
@@ -102,7 +102,7 @@ updated: 2026-09-28
 
 ### 第 3 次跟进 · 管理型 PoE（IPTV 组播 + 环网）
 
-- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他们做 IPTV 与船用 WiFi：IGMP snooping/querier、组播 VLAN、ERPS 环网，直接对上技术标书条目。
 - **要问的问题**：IPTV/组播项目里，他们对交换机最看哪几个指标？
 - **随附证明**：组播不泛洪实测 + ERPS 收敛数据 + 招标参数条目（希腊语/英语）。
@@ -145,7 +145,7 @@ updated: 2026-09-28
 - **①背景再核**：1998/Piraeus/ISO 9001/500+项目；酒店+国家级隧道双线；MikroTik 分销 2001 起（与 A-022 同集团）
 - **②芯片/型号**：伙伴墙 20+：MikroTik/Ruckus/Cambium/Mimosa/Ubiquiti/TP-Link/2N/Dahua/Hikvision/Yeastar…（Marvell 系接入层大量在场）
 - **③KP 深挖**：商业进口部 sales@ 为第一窗；培训师线走 A-022；元件级维修实验室（技术支持部）
-- **④Saga 对标**：酒店 6Play 楼层接入标准：STC-424DGGPM-280W 对 Ruckus/Ubiquiti 档价格下切
+- **④Saga 对标**：酒店 6Play 楼层接入标准：STC-424XGGPM-280W 对 Ruckus/Ubiquiti 档价格下切
 - **⑤在乎与偏好**：正规进口商体量：要合规、账期、稳定交期；价格带工程学
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -180,7 +180,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | HellasCom 酒店 6Play 楼层标准件（WiFi/IPTV/CCTV/VoIP 混载）；隧道/机场公共段不跟，仅私营酒店线 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -242,7 +242,7 @@ Hi HellasCom team,
 
 I came across HellasCom - 28 years, Greece-wide hospitality 6Play projects across the Cyclades and Crete, plus the MikroTik distribution and training arm. Remarkable footprint.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $165 USD EXW, volume pricing from 20 pcs, neutral packing available.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $180 USD EXW, volume pricing from 20 pcs, neutral packing available.
 
 One question: in a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?
 

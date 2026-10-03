@@ -54,7 +54,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（顾问项目接入层对照）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "一份德文对照：24 口 PoE++ 与现用件规格/成本对照+质保，老板看得懂的账。",
      "question": "客户项目的接入层现在配什么？",
      "proof": "规格对照 + 一页报价 + 质保说明（德文）。"
@@ -121,7 +121,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（组网主业对照件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "技术直球：24 口 PoE++ 对照清单+德文一页报价。",
      "question": "办公网项目接入层现在用什么？",
      "proof": "规格对照 + 一页报价（德文）。"
@@ -194,7 +194,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（代管标准件单站 BOM）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "单站 BOM×站点数测算：24 口 PoE++ 当代管接入标准件，附公立段边界声明。",
      "question": "代管客户的接入层标准件现在什么型号？",
      "proof": "单站 BOM 测算 + 边界声明 + 报价（德文）。"
@@ -269,7 +269,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 24 口 CCTV/PoE（楼宇/机台接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "楼宇技术与机台项目的接入层：24 口 PoE++ 成本对照。",
      "question": "楼宇/机台项目接入层现在配什么？",
      "proof": "规格对照 + 报价（德文）。"
@@ -338,7 +338,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（托管栈接入层旁位选项）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "Elite 深绑定的旁位对话：24 口 PoE++ 成本对照+完整安全/固件文件包（顺 ISO 语境）。",
      "question": "托管栈的接入层有没有成本旁位选项？（德文，安全文件包随附）",
      "proof": "规格对照 + 安全/固件文件包 + 报价（德文）。"
@@ -411,7 +411,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（外包栈接入标准件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "外包站点标准件：24 口 PoE++ 单端口成本+质保+材料包（合规声明随附划公共段）。",
      "question": "外包客户的接入层标准件现在什么型号？",
      "proof": "单站 BOM 测算 + 合规材料包（德文）。"
@@ -494,7 +494,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（监控/门禁项目接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "一页德文报价：24 口 PoE++ 对照现用件——监控/门禁 IP 项目的接入层。",
      "question": "监控/门禁项目的接入层现在配什么？",
      "proof": "一页报价 + 规格对照（德文）。"
@@ -585,7 +585,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 24 口 CCTV/PoE（园区/机房接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "大客户园区与机房的接入层：24 口 PoE++ 成本对照+验收文件。",
      "question": "园区/机房项目的接入层现在配什么？",
      "proof": "规格对照 + 验收文件包（德文）。"
@@ -650,7 +650,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（站点项目接入层对照）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "新集团整合期：24 口 PoE++ 对照现用件——从施瓦本站点项目制切入。",
      "question": "托管项目的接入层标准件现在什么型号？",
      "proof": "规格对照 + 单站 BOM 测算（德文）。"
@@ -731,7 +731,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 24 口 CCTV/PoE（商用高段位补位）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "PoE++ 大功率+4×10G 上行档位：与 Allied 同档商用高段位作补位价。",
      "question": "客户要大功率 PoE++ 时另一个选项要不要？",
      "proof": "规格对照 + 梯价（德文）。"
@@ -802,7 +802,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（数据技术分包接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "顺他 EDV/网分包：24 口 PoE++ 进 BOM 的规格对照+全套认证文件——改制期供应商名录递材料正当时。",
      "question": "数据技术分包的接入层现在配什么？（德文，材料包全）",
      "proof": "规格对照 + CE/声明文件包 + 项目价（德文）。"
@@ -883,7 +883,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 24 口 CCTV/PoE（装置机房接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "产线/装置机房的接入层 24 口 PoE++ 成本对照。",
      "question": "装置机房的接入层现在配什么？",
      "proof": "规格对照 + 报价（德文）。"
@@ -948,7 +948,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（小户办公网预算件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "“可负担”对话：24 口 PoE++ 每端口价格对照——他们客户预算紧时的正解。",
      "question": "预算紧的小户项目接入层有什么性价比件？",
      "proof": "单端口测算 + 一页报价（德文）。"
@@ -1025,7 +1025,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（楼自动化项目接入层互补件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "顺“厂无关”：BMS/安防项目的 24 口接入层互补件规格对照（他不产交换）。",
      "question": "BMS 项目的接入层现在配什么？（德文，分支口径）",
      "proof": "规格对照 + CE 文件包（德文）。"
@@ -1098,7 +1098,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（自用/商业咨询客户段，市公终端项目划线）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "边界面先摆清：终端市公/KRITIS 项目不供；谈他自用与非 KRITIS 商业咨询客户的 24 口接入层。",
      "question": "自用与商业咨询客户的接入层用什么？（边界声明随附）",
      "proof": "边界声明 + 规格对照（德文）。"
@@ -1181,7 +1181,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（电气项目数据技术配套件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "大项目数据技术段：24 口 PoE++ 进 BOM 的规格对照+全套认证文件——先 Frankfurt 分支探路。",
      "question": "电气项目的数据技术段接入层现在配什么？（德文，文件包全）",
      "proof": "规格对照 + CE/声明文件包 + 项目价（德文）。"
@@ -1254,7 +1254,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（WaaS 基础设施接入层全周期账）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "顺租赁模式：24 口 PoE++ 采购价+功耗+保内坏机率的全生命周期账——他算月费美不美就看这个。",
      "question": "WaaS 里的接入件采购与坏机成本怎么算？（德文，CRA 文件包随附）",
      "proof": "全生命周期账 + CRA/CE 文件包 + 报价（德文）。"
@@ -1335,7 +1335,7 @@
     {
      "step": 2,
      "stage": "第二次跟进 · 24 口 CCTV/PoE（稍大项目接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "稍大办公/店面项目：24 口 PoE++ 成本对照。",
      "question": "店面/办公大点的项目接入层现在配什么？",
      "proof": "规格对照 + 报价（德文）。"
@@ -1410,7 +1410,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（PA-over-IP 供电接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "顺 JFK T6/法兰克福项目潮：IP 广播端点群的 24 口 PoE++ 供电接入层——他不产交换，配套空缺我们来填。",
      "question": "广播端点群的供电接入层现在配什么？",
      "proof": "规格对照 + 端点群供电测算 + CE 文件包（英文/德文）。"
@@ -1483,7 +1483,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 CCTV/PoE（商业 IT/网项目接入层）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "酒店/商业项目的网络段：24 口 PoE++ 规格对照+合规文件包；声明消防与 Digitalpakt 公立项目段不供。",
      "question": "商业 IT/网项目的接入层现在配什么？（边界声明随附）",
      "proof": "边界声明 + 规格对照 + CE 文件包（德文）。"

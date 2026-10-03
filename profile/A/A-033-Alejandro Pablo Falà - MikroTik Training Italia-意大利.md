@@ -87,7 +87,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：课程实验台：一台设备演示 VLAN、PoE 预算、端口隔离；请他把实验清单里加一页「非 MikroTik 交换机怎么配」的对比内容。
 - **要问的问题**：他的交换实验现在用什么设备、缺哪些演示点？
 - **随附证明**：实验手册草案 + 成本价实验机 + 可公开实测数据。
@@ -174,7 +174,7 @@ updated: 2026-09-28
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
 | **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 意大利官方 Trainer 双线：教具实验架红线内；WISP 咨询客户项目推荐位第 2 步 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选2 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
@@ -271,4 +271,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Alejandro Pablo Fal · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Alejandro%20Pablo%20Fal%20Alejandro%20Pablo%20Fal%C3%A0%20-%20MikroTik%20Training%20Italia)(搜索链接,点入后核职位再加;来源:档案正文提取)
 - **中国进口与管制**:国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

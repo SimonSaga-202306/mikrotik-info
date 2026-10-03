@@ -73,7 +73,7 @@
 - 「OmniLink — спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку」 — https://www.omnilink.com.ua/ukr/vendors
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位
+- 参考 P1: `STC-424XGGPM-280W` — 自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位
 - 第一问: 你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？
 - 标签: 乌克兰|基辅|OmniLink|自牌OmniLite|服务运营商VAD
 
@@ -83,7 +83,7 @@ Hi OmniLink team,
 
 Service-provider-only DNA, a Juniper/Arista/Extreme shelf, plus your own OmniLite and OmniOptic house brands - you already sit at the Tier 1 layer most PoE vendors can only dream of.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $165 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $180 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.
 
 One question: under the OmniLite roof, is PoE access the next own-brand category on your roadmap - and would a documented OEM unit earn a bench test against your current sourcing?
 

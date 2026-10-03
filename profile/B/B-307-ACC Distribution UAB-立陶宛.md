@@ -73,7 +73,7 @@
 - 「ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … over 200 team members」 — https://accdistribution.eu/news/acc-distribution-was-recognized-with-four-awards/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 波罗的海巨头集团架的 value stocking PoE SKU
+- 参考 P1: `STC-424XGGPM-280W` — 波罗的海巨头集团架的 value stocking PoE SKU
 - 第一问: 你们的网通谱里,24 口 PoE 管理型 value 档现存否?(vendor 入驻走 Kaunas 统一谈吗?)
 - 标签: 立陶宛|Kaunas|Acme系|€394M|三国七点
 
@@ -83,7 +83,7 @@ Hi ACC Distribution team,
 
 An ACME Grupė member moving 20,000 SKUs from 300+ vendors across Lithuania, Latvia and Estonia, with a Best Logistics Distributor award on the shelf - you know exactly what a documented, keenly-priced stocking SKU is worth when it sells in three countries at once.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit for your networking line, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit for your networking line, white-label friendly.
 
 One question: in your networking line-up, is the 24-port PoE value slot already filled - and do new-vendor conversations go through the Kaunas desk centrally?
 

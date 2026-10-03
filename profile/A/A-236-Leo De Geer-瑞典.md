@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE），且有具体人直联
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Leo De Geer（satelithuset.se 死域/老 mikrotik.se 支持口存活）：MikroTik 元老顾问探询（$165 锚点一致）；DNS 双层核验；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Leo De Geer（satelithuset.se 死域/老 mikrotik.se 支持口存活）：MikroTik 元老顾问探询（$180 锚点一致）；DNS 双层核验；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -94,7 +94,7 @@ updated: 2026-09-28
 
 ### 第 2 次跟进 · 核活后：资深顾问真诚短件
 
-- **推什么**：STC-424DGGPM-440W（Saga） 演示机（可选）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga） 演示机（可选）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：以后辈供应商姿态简短自我介绍：接入层新货源、可留演示机体验；不提替代 MikroTik。
 - **要问的问题**：您顾问项目里偶尔需要高性价比接入层吗？
 - **随附证明**：一页规格（英）。
@@ -141,7 +141,7 @@ updated: 2026-09-28
 - **①背景再核**：SE MikroTik 元老（MUM 资料+DNS 双核）
 - **②芯片/型号**：MikroTik 生态
 - **③KP 深挖**：support@mikrotik.se
-- **④Saga 对标**：顾问对照（$165 锚点一致，教具/装备角）
+- **④Saga 对标**：顾问对照（$180 锚点一致，教具/装备角）
 - **⑤在乎与偏好**：技术声誉/历史功劳
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -167,9 +167,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Leo De Geer（satelithuset.se 死域/老 mikrotik.se 支持口存活）：MikroTik 元老顾问探询（$165 锚点一致）；DNS 双层核验 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Leo De Geer（satelithuset.se 死域/老 mikrotik.se 支持口存活）：MikroTik 元老顾问探询（$180 锚点一致）；DNS 双层核验 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -228,7 +228,7 @@ Hi Leo,
 
 Your Radio Mobile sessions at the MikroTik MUMs are part of the community's shared education - respect. Full honesty: we build PoE switches, and I am not writing to pull you anywhere new.
 
-Where we might serve: a documented engineering-grade Gigabit PoE switch (24-port, 280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) for consulting or lab setups where a switch is needed at the edge of a long-range wireless design - industrial unmanaged options too.
+Where we might serve: a documented engineering-grade Gigabit PoE switch (24-port, 280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) for consulting or lab setups where a switch is needed at the edge of a long-range wireless design - industrial unmanaged options too.
 
 One question: in your consulting work these days, do you still specify site equipment yourself, or is that left to the installers?
 

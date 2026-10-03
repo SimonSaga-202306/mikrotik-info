@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: false, oem: false, hotel: true, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、酒店/多住户、光纤接入），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$165 锚点一致）；vendor-agnostic 中立尊重；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$180 锚点一致）；vendor-agnostic 中立尊重；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -83,11 +83,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（酒店楼层接入层）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：酒店一层楼的 AP+IPTV+话机+监控一张网：24 口 PoE++ + 4×10G 上行，按「每层一台」给他算总拥有成本。
 - **要问的问题**：WiFiBot 交付的酒店楼层接入换型时，哪段成本最头疼？
 - **随附证明**：每层一台的 BBOM 测算 + 规格对照（英文）。
@@ -173,7 +173,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$165 锚点一致）；vendor-agnostic 中立尊重 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Hotelinking 千店酒店科技：争取进其 WiFiBot NOC 合格硬件推荐位=千店杠杆（看门狗自愈=少巡店；$180 锚点一致）；vendor-agnostic 中立尊重 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -231,7 +231,7 @@ Hi Carlos,
 
 A NOC watching vendor-agnostic WiFi across 1,000+ hotels knows exactly which access switches stay silent and which ones cause truck rolls.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $165 USD EXW.
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $180 USD EXW.
 
 One question: how does a switch get onto your compatible-hardware recommendation list for hotels?
 

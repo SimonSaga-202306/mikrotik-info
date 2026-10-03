@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Sotech Brescia MSP：fornitura hardware 主动采购块 value 硬缺口（$165 锚点一致）；四人具名——批内机选；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Sotech Brescia MSP：fornitura hardware 主动采购块 value 硬缺口（$180 锚点一致）；四人具名——批内机选；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE（托管站点接入标准件）
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：托管站点单站 BOM×站点数测算：24 口 PoE++ 作托管接入标准件。
 - **要问的问题**：托管客户的接入层标准件现在什么型号？
 - **随附证明**：单站 BOM 测算 + 梯价（意）。
@@ -159,14 +159,14 @@ updated: 2026-09-28
 - **技术与认证**：—
 - **采购与供应链信号**：**HW fornitura 自述=餐厅主动买货**
 - **近期动态与线索**：24/7 监控上线
-- **与我方契合点**：MSP 的 fornitura 块 value 量件（$165 锚点直接对 PMI 报价结构）
+- **与我方契合点**：MSP 的 fornitura 块 value 量件（$180 锚点直接对 PMI 报价结构）
 - **风险与注意**：
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Sotech Brescia MSP：fornitura hardware 主动采购块 value 硬缺口（$165 锚点一致）；四人具名——批内机选 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Sotech Brescia MSP：fornitura hardware 主动采购块 value 硬缺口（$180 锚点一致）；四人具名——批内机选 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -224,7 +224,7 @@ Hi Luca,
 
 Hardware supply for PMI with a handful of seats on one side, corporate IT departments on the other - the fornitura block on your service wall is a real buying line, not a page decoration. And a 24/7 managed bench makes every remote switch reboot a cost line you know personally.
 
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog auto-reboot) with full documentation. Reference: $165 USD EXW - a value unit that prices cleanly into a PMI quotation and reboots itself at night so your on-call desk does not.
+We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog auto-reboot) with full documentation. Reference: $180 USD EXW - a value unit that prices cleanly into a PMI quotation and reboots itself at night so your on-call desk does not.
 
 One question: which switch brand does your fornitura block hold today - and would a documented value alternative earn a bench test?
 

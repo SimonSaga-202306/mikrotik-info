@@ -40,7 +40,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · CAPsMAN 随行一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "多 AP 集中部署供电接入层",
      "question": "CAPsMAN 项目单点平均 AP 数？",
      "proof": "特性对口页"
@@ -90,7 +90,7 @@
     "AP 平均点数",
     "评测意愿"
    ],
-   "email": "Hi Wojciech,\n\nCAPsMAN builds mean real multi-AP sites, and every one of those APs arrives at the same little access cabinet downstairs - that is the part we build.\n\n24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog). Reference: $165 USD EXW.\n\nOne question: in a typical CAPsMAN deployment of yours, how many APs land on one access point closet?\n\nIf useful, I can send one evaluation unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Wojciech,\n\nCAPsMAN builds mean real multi-AP sites, and every one of those APs arrives at the same little access cabinet downstairs - that is the part we build.\n\n24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog). Reference: $180 USD EXW.\n\nOne question: in a typical CAPsMAN deployment of yours, how many APs land on one access point closet?\n\nIf useful, I can send one evaluation unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical CAPsMAN deployment of yours, how many APs land on one access closet?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -188,7 +188,7 @@
    "email": "Hi Mohammad,\n\nI found you on the MikroTik consultant list - seven certifications is a serious stack.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Nothing flashy, everything working.\n\nOne question: in your client work, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your client work, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国|7证个人|站占位|短信破冰",
    "batch": 17,
    "date": "2026-09-28"
@@ -237,7 +237,7 @@
     },
     {
      "stage": "第 2 次跟进 · 工程随单",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "企业工程线随单",
      "question": "工程接入层现供？",
      "proof": "规格页"
@@ -282,7 +282,7 @@
    ],
    "email": "Hi Amin,\n\nA training center plus consulting practice carrying both MikroTik and Cisco tracks is a real workload - respect.\n\nWe build a compact 8-port managed PoE switch that could serve as an honest comparison sample in your switching labs (another vendor beside the defaults, STP/VLAN/watchdog). Reference: $99 USD EXW.\n\nOne question: do your switching labs ever use a second vendor for comparison?\n\nIf useful, I can send a bench unit - honestly labeled, no teacher-pitch tricks. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do your switching labs ever use a second vendor for comparison?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "芬兰|培训中心|双轨|师者红线",
    "batch": 17,
@@ -325,7 +325,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · NOC 集成一页",
-     "push": "STC-424DGGPM-280W（SNMPv3 全）",
+     "push": "STC-424XGGPM-280W（SNMPv3 全）",
      "angle": "其 NOC 监控集成进管理面接入层",
      "question": "NOC 客户接入层现供？",
      "proof": "SNMP 集成文档"
@@ -375,7 +375,7 @@
     "机柜规格",
     "教具现况"
    ],
-   "email": "Hi Leo,\n\nCo-location halls plus an outsourced NOC means Axbyte lives inside other people’s racks every single day.\n\nWe build a 24-port Gigabit PoE switch with full SNMPv3 and clean monitoring integration, sized for exactly the access layer in managed datacom setups. Reference: $165 USD EXW.\n\nOne question: in your NOC-managed racks, who supplies the access switches today?\n\nIf useful, I can send one unit with the SNMP documentation pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Leo,\n\nCo-location halls plus an outsourced NOC means Axbyte lives inside other people’s racks every single day.\n\nWe build a 24-port Gigabit PoE switch with full SNMPv3 and clean monitoring integration, sized for exactly the access layer in managed datacom setups. Reference: $180 USD EXW.\n\nOne question: in your NOC-managed racks, who supplies the access switches today?\n\nIf useful, I can send one unit with the SNMP documentation pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your NOC-managed racks, who supplies the access switches today?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -420,7 +420,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 酒餐连锁一页",
-     "push": "STC-424DGGPM-280W（Voice VLAN 现成）",
+     "push": "STC-424XGGPM-280W（Voice VLAN 现成）",
      "angle": "其 VoIP+Guest WiFi 双线的接入层合拍",
      "question": "连锁门店访客网+话机怎么分？",
      "proof": "VLAN 样张"
@@ -470,7 +470,7 @@
     "接入层现供",
     "监控体系"
    ],
-   "email": "Hi Peter,\n\nFreeClix bundles exactly the three things that meet in one access cabinet - guest WiFi, hosted VoIP and wireless backhaul. That is a clean design decision if the switching layer cooperates.\n\nOur 24-port PoE switch (280W, 802.3af/at, Voice VLAN, watchdog self-healing) is built for exactly that closet. Reference: $165 USD EXW.\n\nOne question: in a typical Cosy Club-style venue you wire, how are voice and guest WiFi separated today?\n\nIf useful, I can send one unit with a VLAN sample config. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Peter,\n\nFreeClix bundles exactly the three things that meet in one access cabinet - guest WiFi, hosted VoIP and wireless backhaul. That is a clean design decision if the switching layer cooperates.\n\nOur 24-port PoE switch (280W, 802.3af/at, Voice VLAN, watchdog self-healing) is built for exactly that closet. Reference: $180 USD EXW.\n\nOne question: in a typical Cosy Club-style venue you wire, how are voice and guest WiFi separated today?\n\nIf useful, I can send one unit with a VLAN sample config. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In a typical venue you wire, how are voice and guest WiFi separated today?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -515,7 +515,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 企业线随单一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "企业 Wi-Fi/安防项目接入层",
      "question": "企业线接入层现供？",
      "proof": "规格页"
@@ -565,7 +565,7 @@
     "接入层现供",
     "节点规格"
    ],
-   "email": "Hi Carlos,\n\nA local operator that runs FTTH, mobile and an enterprise line with VPN, dedicated links and cybersecurity is covering the whole last mile.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, ERPS, Voice VLAN, watchdog) sized for the access layer in exactly those enterprise WiFi/security builds. Reference: $165 USD EXW.\n\nOne question: in your enterprise projects, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with a multi-site VLAN/ERPS sample. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Carlos,\n\nA local operator that runs FTTH, mobile and an enterprise line with VPN, dedicated links and cybersecurity is covering the whole last mile.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, ERPS, Voice VLAN, watchdog) sized for the access layer in exactly those enterprise WiFi/security builds. Reference: $180 USD EXW.\n\nOne question: in your enterprise projects, who supplies the PoE access layer today?\n\nIf useful, I can send one unit with a multi-site VLAN/ERPS sample. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your enterprise projects, who supplies the PoE access layer today?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -610,7 +610,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · NOC 少巡店一页",
-     "push": "STC-424DGGPM-280W（看门狗自愈=少巡店）",
+     "push": "STC-424XGGPM-280W（看门狗自愈=少巡店）",
      "angle": "其 1000 店客房 Wi-Fi 接入层",
      "question": "其推荐/合格硬件清单怎么进？",
      "proof": "特性对照"
@@ -660,7 +660,7 @@
     "认证文档需求",
     "试点店"
    ],
-   "email": "Hi Carlos,\n\nA NOC watching vendor-agnostic WiFi across 1,000+ hotels knows exactly which access switches stay silent and which ones cause truck rolls.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $165 USD EXW.\n\nOne question: how does a switch get onto your compatible-hardware recommendation list for hotels?\n\nIf useful, I can send one unit with the full integration pack for your NOC team to evaluate. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Carlos,\n\nA NOC watching vendor-agnostic WiFi across 1,000+ hotels knows exactly which access switches stay silent and which ones cause truck rolls.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $180 USD EXW.\n\nOne question: how does a switch get onto your compatible-hardware recommendation list for hotels?\n\nIf useful, I can send one unit with the full integration pack for your NOC team to evaluate. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "How does a switch get onto your compatible-hardware recommendation list for hotels?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -753,7 +753,7 @@
    "email": "Hi Juan Manuel,\n\nA ten-certification MikroTik stack is rare air - I found you on the official consultant list.\n\nWe build managed PoE switches that aim at exactly the layer MikroTik consultants replace most often (Voice VLAN, ERPS, watchdog). Short and honest note since I could not find public material about your practice.\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国/哥伦比亚|十证个人|WhatsApp破冰",
    "batch": 17,
    "date": "2026-09-28"
@@ -848,7 +848,7 @@
    "email": "Hi Iyiola,\n\nI found Millie Evolution on the MikroTik consultant list - five certifications including MTCINE.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Keeps this note short since your public pages are still being built.\n\nOne question: in your client projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your client projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "英国|五证个人|站薄|WhatsApp破冰",
    "batch": 17,
    "date": "2026-09-28"

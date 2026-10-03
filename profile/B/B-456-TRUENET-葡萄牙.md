@@ -73,7 +73,7 @@
 - 「Expositores … Truenet (Portugal)」 — https://mum.mikrotik.com/2019/PT/exhibitors/PT
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 无线专精 VAD 的客层 PoE 随单位
+- 参考 P1: `STC-424XGGPM-280W` — 无线专精 VAD 的客层 PoE 随单位
 - 第一问: 你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?
 - 标签: 葡萄牙|Porto|LigoWave官分|MUM展商
 
@@ -83,7 +83,7 @@ Hi TRUENET team,
 
 A MikroTik MUM Portugal exhibitor and the LigoWave desk for the country - your WISP and wireless installer customers climb towers and build node cabinets, and every site needs dependable PoE switching behind the radios.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
 
 One question: for your WISP and wireless installer customers, which PoE switch stocks their sites today - and is there a value slot for a documented unit?
 

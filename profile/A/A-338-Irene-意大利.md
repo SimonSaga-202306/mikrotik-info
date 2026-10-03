@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Irene srl 意 Genova 1991 工业嵌入式 IT（Industrial Networking/Navale/Radiflow；Advantech/EKS/AT/DELL EMC 墙）：工业网络二轨+海事双角强对口（$165 锚点一致）；alt STI-288GP；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Irene srl 意 Genova 1991 工业嵌入式 IT（Industrial Networking/Navale/Radiflow；Advantech/EKS/AT/DELL EMC 墙）：工业网络二轨+海事双角强对口（$180 锚点一致）；alt STI-288GP；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,7 +82,7 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 商用船/厂房工业件一页
 
@@ -100,7 +100,7 @@ updated: 2026-09-28
 
 ### 第 3 次跟进 · 控制室 24 口 PoE 收口
 
-- **推什么**：STC-424DGGPM-440W（Saga）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：Video Wall 控制室旁位的 24 口监控 PoE；不回即冻结。
 - **要问的问题**：控制室的接入 PoE 位呢？
 - **随附证明**：一页报价（意）。
@@ -143,7 +143,7 @@ updated: 2026-09-28
 - **①背景再核**：IT Genova 工业 IT（官网一手核）
 - **②芯片/型号**：Advantech/EKS/Radiflow
 - **③KP 深挖**：info@
-- **④Saga 对标**：二轨+工业线双角（$165 锚点一致）
+- **④Saga 对标**：二轨+工业线双角（$180 锚点一致）
 - **⑤在乎与偏好**：深度行业选型
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -169,7 +169,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Irene srl 意 Genova 1991 工业嵌入式 IT（Industrial Networking/Navale/Radiflow；Advantech/EKS/AT/DELL EMC 墙）：工业网络二轨+海事双角强对口（$165 锚点一致）；alt STI-288GP |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Irene srl 意 Genova 1991 工业嵌入式 IT（Industrial Networking/Navale/Radiflow；Advantech/EKS/AT/DELL EMC 墙）：工业网络二轨+海事双角强对口（$180 锚点一致）；alt STI-288GP |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -226,7 +226,7 @@ Buongiorno Irene team,
 
 Thirty years of industrial informatics in Genova - industrial networking, naval systems, video walls, Radiflow industrial cybersecurity. One sentence up front: your Advantech and EKS Engel industrial lines keep their place.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for cabinet and cabin environments. Reference: $165 USD EXW (2026-09-29) - a value second track for industrial and naval projects where the flagship tier overshoots the budget.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for cabinet and cabin environments. Reference: $180 USD EXW (2026-09-29) - a value second track for industrial and naval projects where the flagship tier overshoots the budget.
 
 One question: in your industrial networking shelf, is there a value substitute slot - and would you evaluate one unit?
 

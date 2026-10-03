@@ -74,7 +74,7 @@
 - 「distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream」 — https://www.infortisa.com/canal/redes/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)
+- 参考 P1: `STC-424XGGPM-280W` — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)
 - 第一问: iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。
 - 标签: 西班牙|瓦伦西亚|批发巨头|三自牌|iggual-OEM候选
 
@@ -84,7 +84,7 @@ Hi Infortisa team,
 
 The only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $165 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.
 
 One question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?
 

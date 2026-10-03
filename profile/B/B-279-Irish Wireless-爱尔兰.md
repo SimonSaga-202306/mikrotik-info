@@ -73,7 +73,7 @@
 - 「Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more」 — https://irishwireless.net/active-poe
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)
+- 参考 P1: `STC-424XGGPM-280W` — 25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)
 - 第一问: 你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。
 - 标签: 爱尔兰|Clare|无线专精电商|25年|PoE类目
 
@@ -83,7 +83,7 @@ Hi Irish Wireless team,
 
 Twenty-five years of wireless kit for rural Ireland - and an Active PoE category that today stops at injectors and extenders. Your customers building WISP nodes and hotel networks eventually need the switch itself, not just the injectors.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.
 
 One question: would your Active PoE category carry a documented 24-port managed PoE switch as the category's head unit - and is a sample worth a test listing?
 

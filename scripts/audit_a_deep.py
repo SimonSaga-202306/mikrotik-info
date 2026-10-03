@@ -77,7 +77,7 @@ chk('evidence 双带(quote+http URL)', not url_bad,
     ('全过' if not url_bad else str(url_bad[:4])), 'critical')
 
 # ---------- 6. 价锚一致:p1 ↔ email 锚点 ----------
-PRICE_OF = {'STC-424DGGPM-280W': '$165', 'STI-288GP': '$74.8', 'STC-28DGGPM': '$99',
+PRICE_OF = {'STC-424XGGPM-280W': '$165', 'STI-288GP': '$74.8', 'STC-28DGGPM': '$99',
             'STI-480XGGM': '$253', 'STI-280GE': '$63.8'}
 def _is_teacher_or_household(c, r):
     t = (r.get('tag') or '')
@@ -104,7 +104,7 @@ contra = []
 for c, (f, r) in recs.items():
     p1 = STRUCT.get(c, {}).get('p1')
     push = r['followups'][0].get('push', '')
-    if push and push != '—' and push in ('STC-424DGGPM-280W', 'STI-288GP', 'STC-28DGGPM', 'STI-480XGGM', 'STI-280GE', 'CONSULT-OEM') and push != p1:
+    if push and push != '—' and push in ('STC-424XGGPM-280W', 'STI-288GP', 'STC-28DGGPM', 'STI-480XGGM', 'STI-280GE', 'CONSULT-OEM') and push != p1:
         contra.append((c, push, p1))
 chk('供位 push≡p1(去矛盾)', not contra,
     ('全过' if not contra else str(contra[:8])), 'critical')

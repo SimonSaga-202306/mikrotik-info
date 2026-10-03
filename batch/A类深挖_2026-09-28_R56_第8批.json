@@ -45,7 +45,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · SMB 机柜一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "其网络线客户机柜",
      "question": "SMB 客户机柜接入层现供？",
      "proof": "规格页"
@@ -95,7 +95,7 @@
     "接入层现供",
     "滚动量"
    ],
-   "email": "Hi Fernando,\n\nAn external-IT partner that just turned its cloud offering into a full SaaS stack knows what sits in a customer cabinet.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) sized for exactly those SMB cabinets. Reference: $165 USD EXW.\n\nOne question: in your SMB network jobs, who supplies the access switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Fernando,\n\nAn external-IT partner that just turned its cloud offering into a full SaaS stack knows what sits in a customer cabinet.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) sized for exactly those SMB cabinets. Reference: $180 USD EXW.\n\nOne question: in your SMB network jobs, who supplies the access switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your SMB network jobs, who supplies the access switching layer today?",
    "alt2": "STC-28DGGPM",
    "alt3": "STI-288GP",
@@ -188,7 +188,7 @@
    "email": "Hi Andres,\n\nI found you on the MikroTik consultant list - a seven-certification stack is hard work made visible.\n\nWe build managed PoE switches with the L2+ features consultants usually chase (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国|7证个人|Hotmail破冰",
    "batch": 18,
    "date": "2026-09-28"
@@ -287,7 +287,7 @@
    ],
    "email": "Hi Michael,\n\nMcCharles runs an unusually honest catalog - UniFi and MikroTik courses side by side, and students sometimes walk home with lab hardware. That is the right way to teach.\n\nWe build a compact 8-port managed PoE switch that could serve as a fair second-vendor sample in your switching labs (STP/VLAN/watchdog, honestly labeled). Reference: $99 USD EXW.\n\nOne question: what switch hardware do students work on in your switching labs today?\n\nIf useful, I can send a bench unit for the class to test - plainly, no strings. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "What switch hardware do students work on in your switching labs today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "美国|多厂牌学院|教具比较样本|师者红线",
    "batch": 18,
@@ -383,7 +383,7 @@
    "email": "Hi Nick,\n\nI found you on the MikroTik consultant list and saw the CV page on shore.me.uk.\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since you keep a personal site.\n\nOne question: in your client work, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your client work, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "英国|双证个人|CV页|WhatsApp破冰",
    "batch": 18,
    "date": "2026-09-28"
@@ -482,7 +482,7 @@
    ],
    "email": "Hi Maher,\n\nEighty-plus courses across MikroTik, Cisco, Juniper, OPNsense and Ubiquiti - you have built one of the most vendor-honest catalogues in the field.\n\nWe build a compact 8-port managed PoE switch that could appear in your labs as an honestly labeled second vendor (STP/VLAN/watchdog). Reference: $99 USD EXW.\n\nOne question: do your lab videos ever compare a second hardware brand openly?\n\nIf useful, I can send a bench unit, plainly labeled, nothing paid, nothing contingent. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Do your lab videos ever compare a second hardware brand openly?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "荷兰|在线平台7万学员|比较样本|师者红线",
    "batch": 18,
@@ -578,7 +578,7 @@
    "email": "Hi Maciej,\n\nI found you on the MikroTik consultant list (MTCNA/MTCRE).\n\nWe build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Short note since your site seems to be down for maintenance.\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "波兰|双证个人|站休眠",
    "batch": 18,
    "date": "2026-09-28"
@@ -673,7 +673,7 @@
    "email": "Hi Charles,\n\nA catalog that carries Red Lion panel meters, HMS connectivity and Fieldbus communications already speaks industrial Ethernet fluently.\n\nWe build industrial managed PoE switches rated -40 to 75C - the kind of line item that sits naturally next to that portfolio. Reference: $74.8 USD EXW.\n\nOne question: in your automation orders, who supplies the Ethernet switching layer today?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your automation orders, who supplies the Ethernet switching layer today?",
    "alt2": "STI-280GE",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "美国|老工控分销|Red Lion/HMS|温宽补件",
    "batch": 18,
    "date": "2026-09-28"
@@ -763,7 +763,7 @@
    "email": "Hi Giancarlos,\n\nI found you on the MikroTik consultant list - MTCINE is the heavy end of the certification chart.\n\nWe build managed PoE switches with the L2+ table serious networks need (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "西班牙|MTCINE个人|破冰",
    "batch": 18,
    "date": "2026-09-28"
@@ -853,7 +853,7 @@
    "email": "Hi Jaime,\n\nI found you on the MikroTik consultant list (MTCNA/MTCRE/MTCTCE).\n\nWe build managed PoE switches with the L2+ table consultants look for in access layers they can trust (Voice VLAN, ERPS, watchdog).\n\nOne question: in your projects, is the switching layer ever open for alternatives?\n\nIf yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your projects, is the switching layer ever open for alternatives?",
    "alt2": "STC-28DGGPM",
-   "alt3": "STC-424DGGPM-280W",
+   "alt3": "STC-424XGGPM-280W",
    "tag": "西班牙|三证个人|破冰",
    "batch": 18,
    "date": "2026-09-28"
@@ -940,7 +940,7 @@
    ],
    "email": "（不单独起草首触信——商务统一走 A-066 Celenet 档案信函；避免同人双信）",
    "question": "—",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STC-28DGGPM",
    "tag": "西班牙|同人互注A-066|不重复触达",
    "batch": 18,

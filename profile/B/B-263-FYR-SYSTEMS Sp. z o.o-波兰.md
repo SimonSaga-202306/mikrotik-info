@@ -73,7 +73,7 @@
 - 「Rafał Siewicz: Przez ostatnie 18 lat zdobywałem cenne doświadczenie we wszystkich częściach ekosystemu, zarówno bezpośrednio u producenta, w dystrybucji i u integratora」 — https://fyr-systems.pl/o-nas/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)
+- 参考 P1: `STC-424XGGPM-280W` — 企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)
 - 第一问: 你们的 SME/分支网络项目里,PoE 接层现随哪家?value 档第二源有位吗?
 - 标签: 波兰|华沙|企业级集成|IBM谱|具名老板
 
@@ -83,7 +83,7 @@ Hi Rafał,
 
 Eighteen years across vendor, distribution and integration - now building FYR-SYSTEMS on IBM LinuxONE-class enterprise work, with MikroTik carrying your SME edge. You have sat on every side of this table.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $165 USD EXW (2026-09-29) - the dependable value-tier PoE unit for your SME and branch rollouts, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Polish documentation. Reference: $180 USD EXW (2026-09-29) - the dependable value-tier PoE unit for your SME and branch rollouts, white-label friendly.
 
 One question: inside your SME and branch network projects, which PoE access switch rides along today - and would a documented second source earn a bench test?
 

@@ -72,8 +72,8 @@
 - 「electronics wholesale distributor…Bellevue, Washington…101-250」 — https://www.crunchbase.com/organization/leverify-707f
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 大批发电商盘的品牌口补位：value 交换档直接货量比价可得
-- 第一问: 你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $165 EXW 档有位置吗？
+- 参考 P1: `STC-424XGGPM-280W` — 大批发电商盘的品牌口补位：value 交换档直接货量比价可得
+- 第一问: 你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？
 - 标签: 美国|西雅图圈|电子批发大盘|品牌口
 
 **备养出信稿（未触发，供后续用户启用参考）**
@@ -82,7 +82,7 @@ Hi Leverify brands team,
 
 Bellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.
 
 One question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?
 

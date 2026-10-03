@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: false, voice: false, oem: false, hotel: false, training: true}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：【人工定级】A —— R50 A级提炼：官方顾问名录收录的认证顾问/讲师，持工程师级认证 MTCINE、MTCRE、MTCTCE、MTCWE，且有直达邮箱；A 段既有同类先例（A-360–A-384）；原 B-475 升级，编号顺延 A-418
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Codisa TS 西 Badajoz 电信工程+MSP+MT 官训（MTCSWE/MTCEWE；ENS ALTA 徽标；无人机巡检）：私营段随单+课堂双角（$165 锚点一致）；ENS 守界句必压；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Codisa TS 西 Badajoz 电信工程+MSP+MT 官训（MTCSWE/MTCEWE；ENS ALTA 徽标；无人机巡检）：私营段随单+课堂双角（$180 锚点一致）；ENS 守界句必压；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -85,11 +85,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 双角
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：私营段 MSP 随单+MT 课堂对照（ENS 守界前句）
 - **要问的问题**：私营双角任一缝吗？
 - **随附/动作**：规格页
@@ -116,7 +116,7 @@ updated: 2026-09-28
 - **①背景再核**：https://www.codisats.es|ENS ALTA 徽标+MT 课程（MTCSWE/MTCEWE)+无人机三核
 - **②芯片/型号**：MikroTik 谱
 - **③KP 深挖**：工程+MSP 中型
-- **④Saga 对标**：STC-424 双角（$165 锚点一致）
+- **④Saga 对标**：STC-424 双角（$180 锚点一致）
 - **⑤在乎与偏好**：合规文件化文化（ENS 基因=文档完整正中）
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -142,7 +142,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Codisa TS 西 Badajoz 电信工程+MSP+MT 官训（MTCSWE/MTCEWE；ENS ALTA 徽标；无人机巡检）：私营段随单+课堂双角（$165 锚点一致）；ENS 守界句必压 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Codisa TS 西 Badajoz 电信工程+MSP+MT 官训（MTCSWE/MTCEWE；ENS ALTA 徽标；无人机巡检）：私营段随单+课堂双角（$180 锚点一致）；ENS 守界句必压 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -201,9 +201,9 @@ updated: 2026-09-28
 ```text
 Hi Juan Miguel,
 
-One boundary sentence first: your ENS-level public and regulated projects stay on their certified paths. This is for your private-sector work - where an engineering house that documents everything (ENS habits die hard) might still keep one honest value row: a 24-port PoE switch at $165 USD EXW (2026-09-29) with full documentation, for sites or for your MT courses.
+One boundary sentence first: your ENS-level public and regulated projects stay on their certified paths. This is for your private-sector work - where an engineering house that documents everything (ENS habits die hard) might still keep one honest value row: a 24-port PoE switch at $180 USD EXW (2026-09-29) with full documentation, for sites or for your MT courses.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $165 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
 
 One question: in your private projects or courses, would a documented value PoE unit be useful?
 
@@ -237,4 +237,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Juan Miguel Gallardo Pérez - Codisa Telco Solutions · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Juan%20Miguel%20Gallardo%20P%C3%A9rez%20-%20Codisa%20Telco%20Solutions%20Juan%20Miguel%20Gallardo%20P%C3%A9rez%20/%20Codisa%20Telco%20Solutions)(搜索链接,点入后核职位再加;来源:档案名(个人档))
 - **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

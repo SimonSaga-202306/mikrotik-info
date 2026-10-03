@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD+WiFi6） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量 |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Gliwice；波兰最大之一 【2026-09-28 R50 去重提示】与 A-244 （同邮箱 orders@interprojekt.pl；同域名 interprojekt.pl） → 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。批次：batch/dedup_hints_2026-09-28_R50.json#C-065 |

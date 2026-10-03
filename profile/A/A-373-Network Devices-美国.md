@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-29
@@ -25,7 +25,7 @@ updated: 2026-09-29
 - **是谁**：公司/工作室（有官网）；分销（独立 IT 硬件零售分销）
 - **商业模式**：分销（独立 IT 硬件零售分销）
 - **为什么值得跟**：【人工定级】A —— R58 竞品谱挖第1波：美国德州独立分销，Trustpilot 4.7（44 评）自述 10,000+ 客户 50+ 国；MikroTik CRS 谱（Marvell Prestera 98DX 系，含 CRS518-16XS-2XQ/CRS3xx）在售；PoE++/10G 价值对照行口实存
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — MikroTik CRS 谱旁的价值对照行（大牌墙旁诚实角+二手思科档位全新替换）；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — MikroTik CRS 谱旁的价值对照行（大牌墙旁诚实角+二手思科档位全新替换）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：When a customer requests a 24-port 370W PoE switch with 4×10G uplink, what do you currently quote between your refurbished Cisco stock and the new MikroTik CRS3xx line?
 - **最大未知（影响成交的）**：Buyer/product manager KP 未定位；MikroTik 谱实际排位无公开（仅知在架事实）
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -53,7 +53,7 @@ updated: 2026-09-29
 
 - 【事实】Network Devices Inc.（美国 TX Sugar Land）：2014 起独立电信设备供应商；Trustpilot 4.7 自述 10,000+ 客户 50+ 国；MikroTik CRS 全系在售（CRS518-16XS-2XQ/CRS3xx/1xx）；Cisco 新/旧/翻新为主 50+ 品牌谱
 - 【推断】二手思科谱与 MikroTik CRS 谱之间，全新保修 24 口 PoE+4×10G 价位带缺 Marvel 价值档——Saga STC-424 正好对照
-- 【假设】单角：P1 STC-424DGGPM-280W 在二手 Cisco 与 CRS3xx 间做对照行（信任信号用 Return/Shipping 保障对位）
+- 【假设】单角：P1 STC-424XGGPM-280W 在二手 Cisco 与 CRS3xx 间做对照行（信任信号用 Return/Shipping 保障对位）
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -93,25 +93,25 @@ updated: 2026-09-29
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：MikroTik CRS 谱旁的价值对照行（大牌墙旁诚实角+二手思科档位全新替换）
 - **要问的问题**：24 口 370W PoE+4×10G 上行的客户报价，目前在二手 Cisco 与新 CRS3xx 之间怎么定位？
-- **随附/动作**：STC 规格页+$165 USD EXW 快照（15 天有效）
+- **随附/动作**：STC 规格页+$180 USD EXW 快照（15 天有效）
 
 ### 第 2 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W 对照行（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W 对照行（统一口径=P1 系列，不外溢）
 - **切入点**：Cisco Catalyst 二手主对照（型号新/二手口径对照）
 - **要问的问题**：对照行收不收？
 - **随附/动作**：型号对照页+MT
 
 ### 第 3 次跟进 · 商业线
 
-- **推什么**：STC-424DGGPM-280W 现货询价（统一口径=P1 系列，不外溢）
+- **推什么**：STC-424XGGPM-280W 现货询价（统一口径=P1 系列，不外溢）
 - **切入点**：EXW 现货窗口
 - **要问的问题**：最后一次窗口期
 - **随附/动作**：现货库存+排产日历
@@ -124,7 +124,7 @@ updated: 2026-09-29
 - **①背景再核**：2014 起 Sugar Land TX；Trustpilot 4.7（44 评）自述 leading Texas-based reseller of network hardware with a global reach、more than 10,000 customers in 50+ countries；非 MikroTik 官方渠道名录；独立美企
 - **②芯片/型号**：MikroTik RouterBOARD/CloudRouter/CRS1xx/CRS3xx/CRS518-16XS-2XQ 在售；Cisco 新/旧/翻新主谱（Catalyst/Nexus/Meraki）；其他 50+ 品牌（Allied Telesis、Calix、APC、Dell、Avaya、Poly）
 - **③KP 深挖**：buyer/product manager 未公开定位；56 persona=buying manager、72 persona=同链路；sales@ 通用口
-- **④Saga 对标**：二手思科谱与 CRS3xx 谱之间铺一座 Marvel 24 口 370W 价值对照行；P1 STC-424DGGPM-280W；信任信号=42-day return+Free Shipping 对照
+- **④Saga 对标**：二手思科谱与 CRS3xx 谱之间铺一座 Marvel 24 口 370W 价值对照行；P1 STC-424XGGPM-280W；信任信号=42-day return+Free Shipping 对照
 - **⑤在乎与偏好**：customer-first 退款保障（42 daily return、Free Shipping、Secure PayPal）；对照行先规格后价；Quick Quote 支持速显
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -155,7 +155,7 @@ updated: 2026-09-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | CRS3xx 与二手 Cisco Catalyst 之间的 Marvell 价值对照行：24×GE PoE af/at 280W+4×10G SFP+，L2+ 含 Voice VLAN + PoE watchdog；$165 价口径直对美区 retail |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | CRS3xx 与二手 Cisco Catalyst 之间的 Marvell 价值对照行：24×GE PoE af/at 280W+4×10G SFP+，L2+ 含 Voice VLAN + PoE watchdog；$180 价口径直对美区 retail |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -213,7 +213,7 @@ Hi Network Devices team,
 
 Trustpilot 4.7 with 10,000+ customers in 50+ countries - the Texas resellers handling both new Cisco and a full MikroTik CRS row (we noticed CRS518-16XS-2XQ on your shelf). Between your refurbished Catalyst inventory and the new MikroTik CRS3xx line, there is a clean price-band gap for a documented new-line 24-port PoE switch with 4x10G uplink - and that is exactly the row we build.
 
-We are Saga Networks (Saga Telecom), an OEM/ODM of Marvell-Prestera L2/L3 PoE switches, supplying reseller channels in the US, Canada and Europe. Our STC-424DGGPM-280W is a 24x Gigabit PoE af/at (280W budget, 802.3at per-port, watchdog), 4x10G SFP+, Layer 2+ managed switch with Voice VLAN. Reference: $165 USD EXW (snapshot 2026-09-29, 15-day valid) - full English documentation, neutral packaging, customer label by default. Warranty-backed new, not reworked.
+We are Saga Networks (Saga Telecom), an OEM/ODM of Marvell-Prestera L2/L3 PoE switches, supplying reseller channels in the US, Canada and Europe. Our STC-424XGGPM-280W is a 24x Gigabit PoE af/at (280W budget, 802.3at per-port, watchdog), 4x10G SFP+, Layer 2+ managed switch with Voice VLAN. Reference: $180 USD EXW (snapshot 2026-09-29, 15-day valid) - full English documentation, neutral packaging, customer label by default. Warranty-backed new, not reworked.
 
 One question: when a customer asks for a 24-port 370W PoE + 4x10G uplink switch today, what do you quote between your refurbished Cisco and the new MikroTik CRS3xx - and would a documented value-tier new box earn a comparison row here?
 
@@ -249,4 +249,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Veaceslav Samburski · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Veaceslav%20Samburski%20Network%20Devices)(搜索链接,点入后核职位再加;来源:联络核验)
 - **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

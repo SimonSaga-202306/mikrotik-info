@@ -68,7 +68,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（酒店/企业 Wi‑Fi 项目）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "顺着他 Linkwave 旅店线切入：酒店/旅游设施 Wi‑Fi 一项目 24 口 PoE++ 一次到位，监控与 AP 同网供电；价格便宜过他现有供应商、规格写得清。",
      "question": "hotel 项目现在接入交换机用谁家的、交期多久？",
      "proof": "整机功率实测表 + 与 CRS328-24P/UniFi 同规格对照页（英文）。"
@@ -147,7 +147,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（视频监控交付）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他们家的视频监控业务：监控/门禁/AP 一项目 24 口 PoE++，功率预算与看门狗写进他的交付清单，再给一张和 CRS328/UniFi 的同规格对照页。",
      "question": "监控项目的供电交换机现在用谁、单台供电预算如何核算？",
      "proof": "功率实测表 + 看门狗演示视频 + 对照页（英文）。"
@@ -238,7 +238,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（小而多的接入点位）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他的客户/塔站/宿舍式物业需要偶尔一次到位的 24 口 PoE++：直接给规格-价格对照，写清与 CRS328 的差异。",
      "question": "你现在接入层 24 口 PoE 用什么型号、库存备机几台？",
      "proof": "英文规格对照页 + 功率实测表。"
@@ -321,7 +321,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（安防/轨道站台的商用段位补充）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他的工业线强项在苛刻场景，但 CVBS 级的站台/机房 24 口 PoE++ 段位他靠高价工业款硬填——用同规格对照把成本差摆上桌。",
      "question": "站台/机房的常规 24 口 PoE 你们现在用哪个段位、价差敏感吗？",
      "proof": "规格-价格对照表（英/捷）+ 宽温报告。"
@@ -394,7 +394,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（Dahua 监控项目供电）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他 Dahua 认证+监控项目是其业务支柱：一项目 24 口 PoE++ 打包，附带 Dahua 摄像机功耗对照说明，价格对标他现用的 Planet/TP-Link 方案。",
      "question": "现在监控项目交换机用哪个品牌、单台整机功率预算多少？",
      "proof": "功率实测表 + 与 TP-Link/Planet 同档对照页（英文）+ 摩尔多瓦物流说明。"
@@ -467,7 +467,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（IoT 项目配套）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他网关/摄像头/LoRaWAN 设备售出的每个项目都要配交换机：24 口 PoE++ 直接做他的项目套餐配件，先跟着他的 IoT 设备卖。",
      "question": "你们网关项目一般配什么价位/段位的 PoE 交换机？",
      "proof": "与 Moxa EDS 同档位规格-价格对照表（英文）+ 法国本土发货的物流时效一页说明。"
@@ -546,7 +546,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（安防/Digital Signage 商用段）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他安防与 Digital Signage 客户量大：24 口 PoE++ 作为其工业线之外的商用段位补位——对标 TP-Link/Netgear 价位，品类经理一看就懂。",
      "question": "安防线的 24 口 PoE 现状是分销 TP/Netgear 类、毛利受到挤压吗？",
      "proof": "英文规格-价格对比表（对标主力段位）+ 测试机政策。"
@@ -625,7 +625,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（实验台备用与学员自费）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他每个班最多 8 人、人手一机：24 口 PoE++ 做助教备机 + 学员课后自购的推荐位，给他一张和 CRS328 的教学对照页。",
      "question": "下一期 MTCSWE 班实验台的交换机缺几台？",
      "proof": "英文教学对照页 + 单台价格表。"
@@ -716,7 +716,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（华沙周边项目备货）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "对标 CRS328：24 口 PoE++ 按项目用，便宜一些、规格可验，给他下一次集成单子一个备选 SKU。",
      "question": "你常规接入层 24 口 PoE 用什么型号、卡在价格还是交期？",
      "proof": "英文规格对照页（对 CRS328-24P）+ 样品机政策。"
@@ -793,7 +793,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（楼宇项目打包）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "楼控/门禁/监控一栋楼 24 口 PoE++ 一次打包——对照他现在的方案，单点成本价说清楚。",
      "question": "楼宇项目交换机谁供、是否存在电源/温度问题？",
      "proof": "功率预算表 + 24 口 PoE++ 规格单页（英文）。"
@@ -872,7 +872,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（托管酒店/物业项目替换件）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "托管 7×24 模式：换件仓库的逻辑——24 口 PoE++ 拿来做他的备用库存 + 项目替换机，性价比立现。",
      "question": "替换件仓库现用哪个系列、备机放几台？",
      "proof": "功率实测 + SNMP/MIB 明细 + 英文对照页。"
@@ -951,7 +951,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（Lab/试点环境的“次选硬件”）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他的客户环境基本是 MikroTik CRS：把 24 口 PoE++ 作为「可接受的替代型号」介绍进他的 Lab 与交付文档，由他自己拿实测评估。",
      "question": "Lab 里除了 CRS 怎么评估替代型号、评审标准是什么？",
      "proof": "英文规格书 + 功率实测 + 由我方提交的测试申请。"
@@ -1030,7 +1030,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（酒店/商圈 WiFi 接入主设备）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他每个场景 24 口一次到位：PoE++ 带齐 AP+监控+话机；他的 captive portal 架构完全不动——架构上零冲突。",
      "question": "一场景的 AP 平均多少个、楼层交换机现在是什么速位？",
      "proof": "功率实测表 + AP/监控混合供电对照。"
@@ -1109,7 +1109,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（品类空缺+新品引进位）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他引进新品已成制度：24 口 PoE++ 直击品类空缺（价格对标主流档直降），给他整面规格-价格对照表（英文）。",
      "question": "24 口 PoE++ 在他现有品类里有哪些价格空档、现在走什么价位？",
      "proof": "英文规格对照页 + 首入件价格表。"
@@ -1188,7 +1188,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（能源站点监视配套）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "能源站/加气站的视频监控与传感层：24 口 PoE++ 给他自动化总包的「辅助网段」——第一封信直接发品类经理 Mikko。",
      "question": "能源站点监视用哪个交换机档、预算多少？",
      "proof": "英文规格对照页 + 能源站点场景所需的宽温/宽压测试数据。"
@@ -1261,7 +1261,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（上架试销）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "电气批发商逻辑：24 口 PoE++ 是给安防/监控/WiFi 装好材料的同一单配套——低价格头部上架试用。",
      "question": "你们店是否常做交换机类配套、低价位头上架愿意接哪种？",
      "proof": "英文规格页 + 首入件价格表 + 备货单页。"
@@ -1340,7 +1340,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（安防/视觉项目配套）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "机器人+视觉项目里的摄像/传感供电：24 口 PoE++ 先送少量测试机，让他在真实项目里验证。",
      "question": "机器类项目的 PoE 供电现在接什么设备？",
      "proof": "英文规格对照页 + 功率实测。"
@@ -1419,7 +1419,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（监视保护线配套）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他讲 Vídeo·PoE·Processamento：监视保护线 24 口 PoE++ 一次到位——首封邮件直接给规格/价格对账表。",
      "question": "监视保护线现在 24 口 PoE 用什么型号？",
      "proof": "英文规格对照页 + 功率实测。"
@@ -1498,7 +1498,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（第三波价格段试销）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "他店里 Ubiquiti UniFi PoE 与 MikroTik CRS 两头，中间有第三档——24 口 PoE++ 做商业/监控按价的“第三品牌位”。",
      "question": "24 口 PoE++ 这个第三品牌位你们店里缺不缺？",
      "proof": "英文规格对照页 + 进价/贸易账户模拟表。"
@@ -1571,7 +1571,7 @@
     {
      "step": 1,
      "stage": "第一次跟进 · 24 口 PoE++（Fan WiFi/监控的推荐档次）",
-     "product": "STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
      "angle": "分站 Fan WiFi+监控接入层：24 口 PoE++ 一次到位，场地清单备件/到货可直接整箱——赛季收口时盘点他最敏感。",
      "question": "分站现场 24 口 PoE 一般用哪个档位、现在留多少台备用？",
      "proof": "功率实测表 + 与 CRS328-24P/UniFi 对照页（英文）。"

@@ -73,7 +73,7 @@
 - 「GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449」 — http://www.dyalkom.com/buy.html
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 双雄谱电商的商用 PoE 管理档
+- 参考 P1: `STC-424XGGPM-280W` — 双雄谱电商的商用 PoE 管理档
 - 第一问: 你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?
 - 标签: 格鲁吉亚|Tbilisi|双雄谱|XGSPON
 
@@ -83,7 +83,7 @@ Hi GCOM team,
 
 MikroTik and Ubiquiti on one shelf, XGSPON sticks for the FTTH crowd on the other - a well-rounded ISP/CPE catalog for Georgia. Between the radios and the OLTs, the 24-port managed PoE switch is the line your reseller base orders on repeat.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.
 
 One question: next to your MikroTik and Ubiquiti lines, whose 24-port managed PoE switch holds the value slot today?
 

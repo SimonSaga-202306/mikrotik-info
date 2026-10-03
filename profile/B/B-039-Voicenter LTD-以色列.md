@@ -73,7 +73,7 @@
 - 「Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)」 — https://mum.mikrotik.com/presentations/NL16/presentation_3876_1479372782.pdf
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)
+- 参考 P1: `STC-424XGGPM-280W` — 云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)
 - 第一问: 你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?
 - 标签: 以色列|特拉维夫|云PBX运营商|5DC|MUM演讲CTO
 
@@ -83,7 +83,7 @@ Hi Shlomi, hi Voicenter team,
 
 Five telecom datacenters worldwide, an open-source telephony DNA, and a CTO who has literally stood on the MUM stage teaching VoIP debugging on MikroTik - you understand exactly what happens on the wire.
 
-Every hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.
+Every hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.
 
 One question: in your enterprise and hosted deployments, which PoE switch feeds the desktop phone fleets today - and would a documented OEM unit earn a lab test in your datacenter bench?
 

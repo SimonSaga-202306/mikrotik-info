@@ -73,7 +73,7 @@
 - 「This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point」 — https://ivoryegg.co.uk/news_items/new-UK-HQ
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位
+- 参考 P1: `STC-424XGGPM-280W` — KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位
 - 第一问: 你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?
 - 标签: 英国|诺丁汉|KNX楼宇|新仓窗口|澳新集团
 
@@ -83,7 +83,7 @@ Hi Ivory Egg team,
 
 A brand-new warehouse HQ in Colwick, a KNX training roster, and a customer base of installers wiring hotels and commercial buildings - every one of those KNX-over-IP projects needs an IP backbone with PoE muscle behind the panels and gateways.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented PoE tier your KNX installers can pull on the same order, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented PoE tier your KNX installers can pull on the same order, white-label friendly.
 
 One question: inside your hotel and commercial-building KNX projects, which PoE backbone switch rides along today - and is the new warehouse opening a window for a networking line on the shelf?
 

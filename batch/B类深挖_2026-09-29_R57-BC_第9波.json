@@ -14,11 +14,11 @@
    ],
    "unknowns": ["北欧站采购集权度(集团统一 or DK 自主)", "北欧 MikroTik 架 PoE 档空位"],
    "swot": {"S": "集团北欧四点+Master", "W": "决策或上集团", "O": "集团 value PoE 第 6 站联动", "T": "总部自牌谱边界"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)",
    "question": "ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?",
    "tag": "丹麦|Ballerup|集团北欧站|Master",
-   "email": "Hi ALLNET Nordic team,\n\nAnother ALLNET branch on our map after France, Italy and Greece - the Group shelf deserves one uniform value PoE tier across all countries.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.\n\nOne question: for the Nordic branch, which PoE access SKU holds the value tier today - and would a group-level second source earn a pilot here?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi ALLNET Nordic team,\n\nAnother ALLNET branch on our map after France, Italy and Greece - the Group shelf deserves one uniform value PoE tier across all countries.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.\n\nOne question: for the Nordic branch, which PoE access SKU holds the value tier today - and would a group-level second source earn a pilot here?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 集团联动页(法意希背书)", "D+14 info@allnet.dk 开口", "D+30 果归守档"]
   },
   {
@@ -32,11 +32,11 @@
    ],
    "unknowns": ["SME 客户谱行业构成", "架上网络件现供价位"],
    "swot": {"S": "丹麦本土+服务贴心位", "W": "2023 新创小体量", "O": "SME 项目随单 PoE 位", "T": "量小"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位",
    "question": "你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?",
    "tag": "丹麦|Rønde|新创IT伙伴|小微企业",
-   "email": "Hi Dvisor team,\n\nA young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.\n\nOne question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Dvisor team,\n\nA young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.\n\nOne question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 SME 随单页", "D+14 info@dvisor.dk 开口", "D+30 果归守档"]
   },
   {
@@ -51,11 +51,11 @@
    ],
    "unknowns": ["机柜方案打包时网络件随单方式(自购 or 推荐单)", "Embedded/Industry 板块 PoE 谱深"],
    "swot": {"S": "25 年定制服务器+北欧四点+Nvidia 独家", "W": "网络非主业", "O": "机柜打包随单 PoE+Embedded 板块二线", "T": "Supermicro 谱内锁"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)",
    "question": "你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?",
    "tag": "丹麦+北欧4站|定制服务器|Supermicro|Nvidia独家",
-   "email": "Hi Nextron team,\n\nCustom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $165 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.\n\nOne question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Nextron team,\n\nCustom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.\n\nOne question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 机柜打包随单页", "D+14 sales@nextron.dk 开口", "D+30 果归守档"],
    "note": "二线注记:Embedded IoT/Industry 板块存在,STC-424 开口顺后可续 STI-288GP 工业线。"
   },
@@ -70,11 +70,11 @@
    ],
    "unknowns": ["其安装商/ISP 客层 PoE 随单结构", "新品牌入架的认证门槛(以色列进口认证)"],
    "swot": {"S": "全谱+官方进口+本地希语服务", "W": "Ubiquiti 走量压", "O": "24 口 280W 管理型 value 空档", "T": "地缘物流与合规"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "以色列中坚分销的 24 口 280W 管理型 PoE value 架位",
    "question": "你们架上 24 口管理型 PoE+ 现供哪款?UniFi/CRS 之间 value 档有位吗?",
    "tag": "以色列|特拉维夫|全谱分销|MikroTik深架",
-   "email": "Hi Ronitek team,\n\nA full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.\n\nOne question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack (note: we can align on Israeli import certification needs). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Ronitek team,\n\nA full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.\n\nOne question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack (note: we can align on Israeli import certification needs). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 价档对照页", "D+14 info@ronitek.co.il 开口", "D+30 果归守档"]
   },
   {
@@ -88,11 +88,11 @@
    ],
    "unknowns": ["企业部署随单 PoE 件现供与 OEM 白标开放度", "其客户桌面话机谱(Yealink/Poly?)PoE 功率需求"],
    "swot": {"S": "2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者)", "W": "运营商本体,不零售硬件", "O": "桌面话机 PoE 部署随单/OEM 白标", "T": "自研中心,硬件谱敏感"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)",
    "question": "你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?",
    "tag": "以色列|特拉维夫|云PBX运营商|5DC|MUM演讲CTO",
-   "email": "Hi Shlomi, hi Voicenter team,\n\nFive telecom datacenters worldwide, an open-source telephony DNA, and a CTO who has literally stood on the MUM stage teaching VoIP debugging on MikroTik - you understand exactly what happens on the wire.\n\nEvery hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.\n\nOne question: in your enterprise and hosted deployments, which PoE switch feeds the desktop phone fleets today - and would a documented OEM unit earn a lab test in your datacenter bench?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Shlomi, hi Voicenter team,\n\nFive telecom datacenters worldwide, an open-source telephony DNA, and a CTO who has literally stood on the MUM stage teaching VoIP debugging on MikroTik - you understand exactly what happens on the wire.\n\nEvery hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.\n\nOne question: in your enterprise and hosted deployments, which PoE switch feeds the desktop phone fleets today - and would a documented OEM unit earn a lab test in your datacenter bench?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 话机 PoE 部署随单页", "D+14 info@voicenter.co.il 具名 Shlomi", "D+30 果归守档"]
   },
   {
@@ -126,11 +126,11 @@
    ],
    "unknowns": ["PoE 类目升级意愿(散件 到主机档)", "其 WISP/酒店客户 24 口场景量级"],
    "swot": {"S": "25 年无线专精+老站信誉", "W": "散件为主,主机档未入", "O": "PoE 类目升到 24 口管理型", "T": "类目扩品决策慢"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)",
    "question": "你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。",
    "tag": "爱尔兰|Clare|无线专精电商|25年|PoE类目",
-   "email": "Hi Irish Wireless team,\n\nTwenty-five years of wireless kit for rural Ireland - and an Active PoE category that today stops at injectors and extenders. Your customers building WISP nodes and hotel networks eventually need the switch itself, not just the injectors.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.\n\nOne question: would your Active PoE category carry a documented 24-port managed PoE switch as the category's head unit - and is a sample worth a test listing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Irish Wireless team,\n\nTwenty-five years of wireless kit for rural Ireland - and an Active PoE category that today stops at injectors and extenders. Your customers building WISP nodes and hotel networks eventually need the switch itself, not just the injectors.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.\n\nOne question: would your Active PoE category carry a documented 24-port managed PoE switch as the category's head unit - and is a sample worth a test listing?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 PoE 类目升级页", "D+14 sales@irishwireless.net 开口", "D+30 果归守档"]
   },
   {
@@ -143,11 +143,11 @@
    ],
    "unknowns": ["在架品牌谱与 PoE 档现供", "活跃经营规模"],
    "swot": {"S": "Master 级位", "W": "足迹薄,谱未摸", "O": "value PoE 档", "T": "谱重叠 MikroTik 自家交换"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "芬兰 Master 的 value PoE 档试探(先验架深与活跃度)",
    "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
    "tag": "芬兰|Espoo|Master|足迹薄先验",
-   "email": "Hi LocalNet team,\n\nA MikroTik Master in Espoo serving Finnish integrators and ISPs - the value PoE tier is usually the quietest slot in a Nordic catalog.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, documented for bench testing.\n\nOne question: on your shelf, which 24-port managed PoE switch holds the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi LocalNet team,\n\nA MikroTik Master in Espoo serving Finnish integrators and ISPs - the value PoE tier is usually the quietest slot in a Nordic catalog.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, documented for bench testing.\n\nOne question: on your shelf, which 24-port managed PoE switch holds the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+3 value 档试探页", "D+14 myynti@localnet.fi 开口", "D+30 果归守档"]
   },
   {
@@ -160,11 +160,11 @@
    ],
    "unknowns": ["活跃经营佐证", "谱与量级"],
    "swot": {"S": "斯京区位", "W": "足迹薄", "O": "value PoE 档", "T": "失联"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "瑞典 Reseller value PoE 试探(活跃验证先行)",
    "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
    "tag": "瑞典|Älvsjö|Reseller|活跃验证",
-   "email": "Hi Sanuk team,\n\nA MikroTik reseller in Älvsjö - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Sanuk team,\n\nA MikroTik reseller in Älvsjö - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+7 活跃度快验(电话/网站)", "D+14 mail@sanuksystems.com 开口", "D+30 果归守档"]
   },
   {
@@ -177,11 +177,11 @@
    ],
    "unknowns": ["活跃经营佐证", "谱与量级"],
    "swot": {"S": "具名直达+都柏林", "W": "足迹薄", "O": "value PoE 档", "T": "失联"},
-   "p1": "STC-424DGGPM-280W",
+   "p1": "STC-424XGGPM-280W",
    "p1_reason": "都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)",
    "question": "(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?",
    "tag": "爱尔兰|都柏林|Reseller|具名",
-   "email": "Hi Greg,\n\nA MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Greg,\n\nA MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "followups": ["D+7 活跃度快验", "D+14 greg@gcntech.ie 具名开口", "D+30 果归守档"]
   },
   {

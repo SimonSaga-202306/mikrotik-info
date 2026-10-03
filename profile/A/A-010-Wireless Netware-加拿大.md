@@ -84,7 +84,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他是渠道：用「加拿大现货仓库 + 与他现售 MikroTik 24 口 PoE 的规格/价位差」对话，把他当潜在分销商而不是终端客户。
 - **要问的问题**：他愿意先上几个 SKU 试销（24 口 PoE 与工业 8 口），还是先做项目配套？
 - **随附证明**：FOB/到岸价目表（含 IC 认证资料）+ 现货/交期说明 + 与 SYNOXX 光模块的组合清单。
@@ -140,7 +140,7 @@ updated: 2026-09-28
 - **关键人KP**：**Hani Rahrouh**（President, CEO & MikroTik Coordinator；加拿大首位官方 MikroTik 培训师；LinkedIn /in/hani-rahrouh-38019521，5K 粉、周更：Markham Board of Trade 活动、培训课程预告）。邮箱 **info@wirelessnetware.ca**（公开）+ 电话 +1 647 477 0163；模式猜测 **hani@wirelessnetware.ca**（未验证；pattern=firstname@ 与其家族式命名相符需验证）。渠道角色决定：**他是买手+培训双身份，见面先谈分销梯价与贴牌 MOQ**。
 - **关注点与资质**：①**IC/ISED 认证**（首页头牌「IC Certified Products」——⚠️ Saga 现证为 FCC/CE/UKCA 族，加拿大 IC 多为认可 FCC 报告或需补 ISED，**报价前必须核实 IC 适用性并在信中如实处理**，这是加拿大零售/培训教具的门槛）；②培训教具批量（MTCNA/MTCRE 班期稳定=教具箱规需求）；③光模块贴牌伙伴升级路径（SYNOXX 交换/工业交换贴牌）；④Bell/Rogers 批发线=ISP 级 VLAN/QinQ 语境（L2+ flow-based QinQ 可对）。社交：LinkedIn/Facebook 双活跃，本地商会（Markham Board of Trade）刷脸型。
 - **优缺点SWOT**：**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。
-- **Saga产品适配**：①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424DGGPM-280W**（EXW $165，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。
+- **Saga产品适配**：①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424XGGPM-280W**（EXW $180，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。
 
 ### R55 证据摘录（全部保留 · 含数量）
 
@@ -169,7 +169,7 @@ updated: 2026-09-28
 |---|---|---|---|---|
 | **P1（首触唯一）** | STI-288GP（工业非管理 8口 PoE） | 主场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：工业非管理 8口 PoE af/at，250m 延伸供电，冗余 DC44–57V（过压/反接保护），DIN 轨，3 年保
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。

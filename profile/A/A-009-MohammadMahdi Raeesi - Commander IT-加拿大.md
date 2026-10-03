@@ -83,7 +83,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他的中小企业客户里，一次装修/搬迁就是一整柜：24 口 PoE++ 一次喂 AP、摄像头、IP 电话，配上远程重启减少上门。
 - **要问的问题**：他最近一个客户站点，AP+摄像头+电话一共多少个 PoE 口？
 - **随附证明**：一张「单口瓦数 × 路数」报价+功率对照页 + 测试机。
@@ -97,7 +97,7 @@ updated: 2026-09-28
 
 ### 第 3 次跟进 · 管理型 PoE（VLAN 与集中管理）
 
-- **推什么**：STI-480DGGM（Saga） PoE 版（8G + 4×2.5G SFP）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+ 10G）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STI-480DGGM（Saga） PoE 版（8G + 4×2.5G SFP）或 STC-424XGGPM-440W（Saga）（24×PoE + 4×SFP+ 10G）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：CAPsMAN 集中管理无线 → 有线侧也用统一模板：VLAN 分段（办公/摄像头/访客）+ 环网。
 - **要问的问题**：他愿不愿意把有线模板与无线模板一起标准化？
 - **随附证明**：VLAN 模板 + MIB/SNMP 清单 + ERPS 实测。
@@ -139,7 +139,7 @@ updated: 2026-09-28
 - **关键人KP**：**MohammadMahdi（Mahdi）Raeesi**：LinkedIn 档案「MikroTik consultant @ wirelessnetware」（Richmond Hill，173 连接，MTCNA 1311NA033 2013–2016 已过期，Payam Noor 大学）——**与 A-010 Wireless Netware 有供职交集（知悉备查，沟通不刺探）**。联系：**admin@commanderit.ca**（官网公开）+ 647-562-2246；模式猜测 **mahdi@commanderit.ca**（未验证；commanderit.ca MX=A 记录同主机自托管，小站自建邮服，投递信誉一般——首封进垃圾箱概率高，电话跟进必要性大）。
 - **关注点与资质**：①VoIP+数据并网（SMB 一线多用）——Voice VLAN 话术正中；②7×9-18 营业=响应型客户画像，也提示他看手机=fallback 电话有效；③品牌意识刚起步（AI logo）=对 OEM 贴牌/自定义 branding 接受度高（Saga 定制 branding 条款可对）。参展未见；LinkedIn 个人页更新少。
 - **优缺点SWOT**：**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。
-- **Saga产品适配**：首梯 **STC-424DGGPM-280W**（24口 PoE af/at，**EXW $165**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。
+- **Saga产品适配**：首梯 **STC-424XGGPM-280W**（24口 PoE af/at，**EXW $180**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。
 
 ### R55 证据摘录（全部保留 · 含数量）
 
@@ -161,7 +161,7 @@ updated: 2026-09-28
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
 | **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 主场景匹配+首触只推一个型号的纪律 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选2 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启

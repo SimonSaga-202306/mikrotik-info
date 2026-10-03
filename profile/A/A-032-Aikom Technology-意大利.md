@@ -14,7 +14,7 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oem: false, hotel: false, training: false}
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
 updated: 2026-09-28
@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、工业/楼宇），且有具体人直联
-- **P1（首触唯一主推）**：STC-424DGGPM-280W（24口 PoE + 4×10G） — Aikom 2026 交换机线密集纳新（Zyxel 入职为证）：PoE 专精错位卡位，Connectivity Camp 为节点；$165 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Aikom 2026 交换机线密集纳新（Zyxel 入职为证）：PoE 专精错位卡位，Connectivity Camp 为节点；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -82,11 +82,11 @@ updated: 2026-09-28
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 24 口 CCTV/PoE 入门款
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：进 AikomGo 目录：对标他 Wi-Fi & Networking 板块的 24 口 PoE 档，给渠道价与文档包（datasheet/认证/图片），让他先上架再看动销。
 - **要问的问题**：他们的目录里 24 口 PoE 目前有几个价位段、缺哪一档？
 - **随附证明**：上架资料包 + 渠道价目 + 与他现售型号的对照表。
@@ -172,7 +172,7 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424DGGPM-280W（24口 PoE + 4×10G） | 主场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Aikom 2026 交换机线密集纳新（Zyxel 入职为证）：PoE 专精错位卡位，Connectivity Camp 为节点 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Aikom 2026 交换机线密集纳新（Zyxel 入职为证）：PoE 专精错位卡位，Connectivity Camp 为节点 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
@@ -230,7 +230,7 @@ Hi Aikom team,
 
 Congratulations on 20 years. And I noticed the brand wall gained Zyxel in September - switching is clearly an active category for you.
 
-We are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $165 USD EXW.
+We are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $180 USD EXW.
 
 One question: is there an open slot for a PoE-focused switching line in your portfolio?
 

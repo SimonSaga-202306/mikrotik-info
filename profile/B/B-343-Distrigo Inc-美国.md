@@ -72,7 +72,7 @@
 - 「hEX S / CCR2004-16G-2S+ / RB4011iGS+RM」 — https://distrigoinc.com/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口
+- 参考 P1: `STC-424XGGPM-280W` — 路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口
 - 第一问: 你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？
 - 标签: 美国|迈阿密|MikroTik官方Reseller|拉美前哨
 
@@ -82,7 +82,7 @@ Hi Distrigo team,
 
 Your Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-side second source for exactly that layer.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-side second source for exactly that layer.
 
 One question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?
 

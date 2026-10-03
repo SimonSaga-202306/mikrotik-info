@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Avelution 荷楼宇 OT 网独立架构顾问（Master SI；WiredScore/SmartScore AP；IEC 62443；NIS2/EPBD 五框架）：PvE 规格库对照行角（$165 锚点一致）；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Avelution 荷楼宇 OT 网独立架构顾问（Master SI；WiredScore/SmartScore AP；IEC 62443；NIS2/EPBD 五框架）：PvE 规格库对照行角（$180 锚点一致）；—（合作探询，无量产报价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -112,7 +112,7 @@ updated: 2026-09-28
 - **①背景再核**：https://avelution.nl|500.000m²+AP 双证+五合规框架
 - **②芯片/型号**：无（顾问）
 - **③KP 深挖**：WiredScore/SmartScore AP 实操
-- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
 - **⑤在乎与偏好**：架构证据链嗜好（IEC 62443）
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -138,9 +138,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Avelution 荷楼宇 OT 网独立架构顾问（Master SI；WiredScore/SmartScore AP；IEC 62443；NIS2/EPBD 五框架）：PvE 规格库对照行角（$165 锚点一致） |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Avelution 荷楼宇 OT 网独立架构顾问（Master SI；WiredScore/SmartScore AP；IEC 62443；NIS2/EPBD 五框架）：PvE 规格库对照行角（$180 锚点一致） |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -193,7 +193,7 @@ updated: 2026-09-28
 ```text
 Hi Avelution team,
 
-Your independence is the product: you design the OT backbone, installers execute it, and the PvE carries the evidence. We build network hardware as OEM/ODM and keep a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full English documentation. Reference: $165 USD EXW (2026-09-29).
+Your independence is the product: you design the OT backbone, installers execute it, and the PvE carries the evidence. We build network hardware as OEM/ODM and keep a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full English documentation. Reference: $180 USD EXW (2026-09-29).
 
 We are not asking you to sell anything - only whether a documented value-tier PoE switch earns a comparison row inside your specification library for budget-driven building projects. If the spec ever earns a mention in a PvE, one reply and the documentation pack follows.
 

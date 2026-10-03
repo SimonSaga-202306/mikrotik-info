@@ -73,7 +73,7 @@
 - 「Hardware / software. Løsninger. Services. Konsulenter…shop.dvisor.dk」 — https://dvisor.dk/om-os/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位
+- 参考 P1: `STC-424XGGPM-280W` — 新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位
 - 第一问: 你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?
 - 标签: 丹麦|Rønde|新创IT伙伴|小微企业
 
@@ -83,7 +83,7 @@ Hi Dvisor team,
 
 A young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.
 
 One question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?
 

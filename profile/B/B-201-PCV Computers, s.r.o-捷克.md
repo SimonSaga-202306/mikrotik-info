@@ -73,7 +73,7 @@
 - 「PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha」 — https://www.drzacky.cz/en/where-to-buy/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位
+- 参考 P1: `STC-424XGGPM-280W` — Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位
 - 第一问: 你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)
 - 标签: 捷克|Č.Budějovice|Master|疑i4wifi同族
 
@@ -83,7 +83,7 @@ Hi PCV team,
 
 Master distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
 
 One question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?
 

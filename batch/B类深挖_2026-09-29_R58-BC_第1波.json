@@ -36,11 +36,11 @@
         "O": "A-275 CanServers/A-480 CDI Supply 等翻新/折扣谱先例已入 A 粮合作口径，翻新商并非铁板一块；其谱系缺一个\"new warranty-backed L2+ PoE at reference price\"对照位",
         "T": "翻新同业（Linknewnet 中国二手+Network Devices 翻新线）价格更低；若继续只走翻新降价，Saga 品牌溢价难落地"
       },
-      "p1": "STC-424DGGPM-280W",
-      "p1_reason": "翻新谱旁全新对照行（Marvell 谱在架）：STC-424DGGPM-280W 24口 PoE+4×10G，$165 USD EXW（2026-09-28 快照，15 天有效）",
+      "p1": "STC-424XGGPM-280W",
+      "p1_reason": "翻新谱旁全新对照行（Marvell 谱在架）：STC-424XGGPM-280W 24口 PoE+4×10G，$180 USD EXW（2026-09-28 快照，15 天有效）",
       "question": "Do you keep a documented new row beside your refurbished Cisco/MikroTik shelf - or is every comparison priced off the used piece itself?",
       "tag": "US·Downers Grove IL·翻新谱商·MikroTik 在售·Marvell 锚",
-      "email": "Hello Tech Atlantix team,\n\nYour catalog runs both refurbished Cisco and MikroTik CRS lines (we noticed CRS510-8XS-2XQ on your shelf). When refurb availability on a 24-port PoE access box gets thin or short on warranty, what do you typically reach for - and do you hold a documented new-price row for those cases?\n\nWe are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424DGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $165 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.\n\nIf a documented new-row comparison is useful for your buyers, I can send our spec sheet + MTBF + CLI access. If the timing is off, a one-line decline closes the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+      "email": "Hello Tech Atlantix team,\n\nYour catalog runs both refurbished Cisco and MikroTik CRS lines (we noticed CRS510-8XS-2XQ on your shelf). When refurb availability on a 24-port PoE access box gets thin or short on warranty, what do you typically reach for - and do you hold a documented new-price row for those cases?\n\nWe are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424XGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $180 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.\n\nIf a documented new-row comparison is useful for your buyers, I can send our spec sheet + MTBF + CLI access. If the timing is off, a one-line decline closes the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
       "followups": [
         "D+7 首讯：翻新谱旁新对照行一行问（不出信，等用户批准）",
         "D+14 无回应守档",

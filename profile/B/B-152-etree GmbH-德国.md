@@ -73,7 +73,7 @@
 - 「MikroTik CSS610-8P-2S+IN - Switch - Smart - 8 x 10/100/1000 + 2 x 10 Gigabit SFP+…PoE+ (140 W) €169.58」 — https://shop.etree.de/Hersteller/MikroTik/Switches/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 电商型分销的 24 口 280W 管理型 PoE 价位空档补位(CSS610 8 口上一档)
+- 参考 P1: `STC-424XGGPM-280W` — 电商型分销的 24 口 280W 管理型 PoE 价位空档补位(CSS610 8 口上一档)
 - 第一问: 你们 B2B 客户在监控/网络项目里,24 口管理型 PoE+ 现供哪款?架上有没有 value 档空位?
 - 标签: 德国|科隆|电商分销|24口PoE空档
 
@@ -83,7 +83,7 @@ Hi etree team,
 
 Fifteen years of e-tail plus B2B distribution out of Cologne, with MikroTik, Teltonika, Dahua and Zyxel all on one shelf - you know exactly where the price gaps in your own catalog are.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $165 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.
 
 One question: for your B2B buyers building camera and network deployments, which 24-port managed PoE switch fills the value tier today - and would a documented unit earn a listing test?
 

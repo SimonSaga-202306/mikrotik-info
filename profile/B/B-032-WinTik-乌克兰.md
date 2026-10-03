@@ -73,7 +73,7 @@
 - 「услуги по монтажу и настройке СКД, СКС, видеонаблюдения」 — https://wintik.com.ua/about-us
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）
+- 参考 P1: `STC-424XGGPM-280W` — 政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）
 - 第一问: 你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？
 - 标签: 乌克兰|WinTik|政企集成|店+服双血
 
@@ -83,7 +83,7 @@ Hi WinTik team,
 
 Access control, structured cabling, video surveillance, and a government/corporate client roster - your integration business makes the PoE access layer one of the most BOM-critical parts of what you deliver.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $165 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $180 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.
 
 One question: for the access-control and surveillance projects you deliver to corporate and government clients, which PoE access switch are you standardizing on today - and is there room for a documented second source?
 

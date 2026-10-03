@@ -87,7 +87,7 @@
    ],
    "email": "Hi Nexware team,\n\nA quick note rather than a long pitch: we came across Nexware in connection with Allied Telesis networking gear, and wanted to ask one question.\n\nWe build PoE access switches (8-port compact to 24-port 280W, 802.3af/at) - the value alternative for access closets. Compact model reference: $99 USD EXW.\n\nOne question: is switching hardware part of what Nexware deploys for clients today?\n\nIf yes, happy to send a spec page. If not relevant, one line and I will close the loop politely.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Is switching hardware part of what Nexware deploys for clients today?",
-   "alt2": "STC-424DGGPM-280W",
+   "alt2": "STC-424XGGPM-280W",
    "alt3": "STI-288GP",
    "tag": "美国|站点异常如实|信号核实破冰|MX存活",
    "batch": 23,
@@ -125,7 +125,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · SECaaS 一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "月付模式下硬件 value 件现金结构",
      "question": "SHIELD 项目接入层现供？",
      "proof": "规格页"
@@ -175,7 +175,7 @@
     "采购结构",
     "评测窗"
    ],
-   "email": "Hi Paramount team,\n\nSHIELD Security-as-a-Service is a smart model - and it makes one thing obvious: the less you pay for the hardware behind a monthly plan, the better your cash position.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - spec-grade behavior at a fraction of the first-shelf price, exactly for camera and access closets.\n\nOne question: in your SHIELD deployments, who supplies the PoE switching layer today?\n\nIf useful, I can send one unit with full documentation for a pilot cabinet. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Paramount team,\n\nSHIELD Security-as-a-Service is a smart model - and it makes one thing obvious: the less you pay for the hardware behind a monthly plan, the better your cash position.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - spec-grade behavior at a fraction of the first-shelf price, exactly for camera and access closets.\n\nOne question: in your SHIELD deployments, who supplies the PoE switching layer today?\n\nIf useful, I can send one unit with full documentation for a pilot cabinet. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your SHIELD deployments, who supplies the PoE switching layer today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -215,7 +215,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 电话/表单先行",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "一站式 BOM 的接入层 value 位",
      "question": "随单接入层现供？",
      "proof": "规格页"
@@ -265,7 +265,7 @@
     "有效邮箱",
     "指定清单"
    ],
-   "email": "（NO-MX 降级：不出信。动作：以官网联系表单+电话起步，确认有效对接邮箱后排期。参考话术：\"We build a 24-port Gigabit PoE switch (280W, 802.3af/at) at $165 USD EXW reference - a value line for the access layer of your one-stop BOMs. In your cabling projects, which switch brand holds the access slots today?\"）",
+   "email": "（NO-MX 降级：不出信。动作：以官网联系表单+电话起步，确认有效对接邮箱后排期。参考话术：\"We build a 24-port Gigabit PoE switch (280W, 802.3af/at) at $180 USD EXW reference - a value line for the access layer of your one-stop BOMs. In your cabling projects, which switch brand holds the access slots today?\"）",
    "question": "In your cabling projects, which switch brand holds the access slots today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -305,7 +305,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 教育接入一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "K-12 部署接入柜 value 位",
      "question": "K-12 部署接入层现供？",
      "proof": "规格页"
@@ -355,7 +355,7 @@
     "入库结构",
     "refresh 周期"
    ],
-   "email": "Hi Dan / RTI team,\n\n\"You've Got a Friend in the Business\" - and nationwide K-12 deployments with warehouse services behind them. That combination is exactly where a value-priced access switch earns its place.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $165 USD EXW - a line that stretches district technology budgets without stretching the spec.\n\nOne question: in your K-12 and higher-ed deployments, which switch brand fills the PoE access layer today?\n\nIf useful, I can send one unit with full documentation, or discuss stocking through your warehouse side. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Dan / RTI team,\n\n\"You've Got a Friend in the Business\" - and nationwide K-12 deployments with warehouse services behind them. That combination is exactly where a value-priced access switch earns its place.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $180 USD EXW - a line that stretches district technology budgets without stretching the spec.\n\nOne question: in your K-12 and higher-ed deployments, which switch brand fills the PoE access layer today?\n\nIf useful, I can send one unit with full documentation, or discuss stocking through your warehouse side. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your K-12 and higher-ed deployments, which switch brand fills the PoE access layer?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -395,7 +395,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 分支第二架",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "承认一线在位+分支级预算线value 件",
      "question": "预算受限项目的 value 线？",
      "proof": "规格页"
@@ -445,7 +445,7 @@
     "value 缺口",
     "采购层级"
    ],
-   "email": "Hi Security 101 Connecticut team,\n\nA partner wall like yours - Axis, Genetec, Avigilon, Verkada - speaks for where the first shelf stands. We are not writing to displace it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - built for the projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, and value-engineered retrofits.\n\nOne question: at the branch level, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation for your lab bench. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Security 101 Connecticut team,\n\nA partner wall like yours - Axis, Genetec, Avigilon, Verkada - speaks for where the first shelf stands. We are not writing to displace it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - built for the projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, and value-engineered retrofits.\n\nOne question: at the branch level, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation for your lab bench. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "At the branch level, is there room for a second approved value line when a project cannot carry the standard brands?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -485,7 +485,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 具名第二架",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "具名+分支级预算线 value 件",
      "question": "分支级 value 线空间？",
      "proof": "规格页"
@@ -535,7 +535,7 @@
     "value 缺口",
     "Victor 职责"
    ],
-   "email": "Hi Victor,\n\nSecurity 101's Rochester operation carries one of the strongest partner walls in the industry - Axis, Genetec, Avigilon, Verkada. We are not writing to displace any of it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - for the projects where the first shelf prices itself out: budget-constrained schools, municipal buildings, value-engineered retrofits.\n\nOne question: at your branch, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Victor,\n\nSecurity 101's Rochester operation carries one of the strongest partner walls in the industry - Axis, Genetec, Avigilon, Verkada. We are not writing to displace any of it.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - for the projects where the first shelf prices itself out: budget-constrained schools, municipal buildings, value-engineered retrofits.\n\nOne question: at your branch, is there room for a second approved value line when a project cannot carry the standard brands?\n\nIf useful, I can send one unit with full documentation. If not relevant, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "At your branch, is there room for a second approved value line when a project cannot carry the standard brands?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -575,7 +575,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 可靠性一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "45,000 客户随单柜+看门狗防回访",
      "question": "安防随单接入柜现供？",
      "proof": "规格页"
@@ -625,7 +625,7 @@
     "多州结构",
     "评测窗"
    ],
-   "email": "Hi Silco team,\n\n45,000 customers and a 4.9-star reputation - at that scale, every avoidable truck roll hurts, and a frozen camera after midnight is the classic cause.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with a hardware watchdog that restarts a frozen camera before anyone drives out. Reference: $165 USD EXW.\n\nOne question: across your security installations, who supplies the PoE switches for camera and access-control closets today?\n\nIf useful, I can send one unit with full documentation for a pilot site. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Silco team,\n\n45,000 customers and a 4.9-star reputation - at that scale, every avoidable truck roll hurts, and a frozen camera after midnight is the classic cause.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at) with a hardware watchdog that restarts a frozen camera before anyone drives out. Reference: $180 USD EXW.\n\nOne question: across your security installations, who supplies the PoE switches for camera and access-control closets today?\n\nIf useful, I can send one unit with full documentation for a pilot site. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Across your security installations, who supplies the PoE switches for camera closets today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -665,7 +665,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · NaaS 分层一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "入门档套餐接入件的毛利结构",
      "question": "入门档套餐接入层现供？",
      "proof": "TCO 页"
@@ -715,7 +715,7 @@
     "refresh 池结构",
     "套餐分层"
    ],
-   "email": "Hi UberData team,\n\nUconnectX is a clean NaaS proposition - and with automatic hardware refresh built in, your hardware pool economics are the engine of the whole subscription margin.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $165 USD EXW - spec-grade behavior aimed exactly at entry and mid tiers of a NaaS bundle, where Cisco and Aruba price points compress the margin.\n\nOne question: in your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi UberData team,\n\nUconnectX is a clean NaaS proposition - and with automatic hardware refresh built in, your hardware pool economics are the engine of the whole subscription margin.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - spec-grade behavior aimed exactly at entry and mid tiers of a NaaS bundle, where Cisco and Aruba price points compress the margin.\n\nOne question: in your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?\n\nIf useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your entry-tier NaaS bundles, whose switch holds the access layer, and would a value second line earn a bench test?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -755,7 +755,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 学区一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "学区接入柜+免回访看门狗",
      "question": "学区部署接入层现供？",
      "proof": "规格页"
@@ -805,7 +805,7 @@
     "预算周期",
     "refresh 节奏"
    ],
-   "email": "Hi Vartek team,\n\nStaffing schools with on-site technology professionals is a promise built on reliability - and nothing tests reliability like an access switch that freezes during class.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that restarts frozen endpoints automatically). Reference: $165 USD EXW - a district-friendly price with the full documentation pack.\n\nOne question: in your K-12 deployments, which switch brand fills the PoE access layer for classroom Wi-Fi and cameras today?\n\nIf useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Vartek team,\n\nStaffing schools with on-site technology professionals is a promise built on reliability - and nothing tests reliability like an access switch that freezes during class.\n\nWe build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that restarts frozen endpoints automatically). Reference: $180 USD EXW - a district-friendly price with the full documentation pack.\n\nOne question: in your K-12 deployments, which switch brand fills the PoE access layer for classroom Wi-Fi and cameras today?\n\nIf useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "In your K-12 deployments, which switch brand fills the PoE access layer today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",
@@ -845,7 +845,7 @@
    "followups": [
     {
      "stage": "第 1 次跟进 · 直接对口一页",
-     "push": "STC-424DGGPM-280W",
+     "push": "STC-424XGGPM-280W",
      "angle": "布线/DC/交换三线的接入层 value 位",
      "question": "项目接入层现供？",
      "proof": "规格页"
@@ -895,7 +895,7 @@
     "DC 边位",
     "滚动量"
    ],
-   "email": "Hi Wire Technologies team,\n\nThirty years of routing and switching, hundreds of wireless deployments, structured cabling and data centers under one roof - you work exactly where we manufacture.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $165 USD EXW - a value line for the access closets inside your cabling, DC and wireless projects.\n\nOne question: across your routing-and-switching projects, which brand holds the PoE access layer today?\n\nIf useful, I can send one unit with full documentation for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email": "Hi Wire Technologies team,\n\nThirty years of routing and switching, hundreds of wireless deployments, structured cabling and data centers under one roof - you work exactly where we manufacture.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value line for the access closets inside your cabling, DC and wireless projects.\n\nOne question: across your routing-and-switching projects, which brand holds the PoE access layer today?\n\nIf useful, I can send one unit with full documentation for your lab. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
    "question": "Across your routing-and-switching projects, which brand holds the PoE access layer today?",
    "alt2": "STI-288GP",
    "alt3": "STC-28DGGPM",

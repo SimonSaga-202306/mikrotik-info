@@ -90,7 +90,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 品类空缺补位（分销货架 Switche 价位段）
 
-- **推什么**：STI-280GE（Saga） 系列 + STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STI-280GE（Saga） 系列 + STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：他的 Switche 类目以 MikroTik 为主：高性价比工业 PoE+24 口万兆上行接入层是明显的价位空缺，先寄贸易样册（德语）。
 - **要问的问题**：你们的 Switche 货架有没有考虑过 MikroTik 之外的第二品牌？
 - **随附证明**：分销价目（德语）+ 同档对照 + 欧盟交付/RMA 说明。
@@ -180,7 +180,7 @@ updated: 2026-09-28
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
 | **P1（首触唯一）** | STC-28DGGPM（8口 PoE 接入盒） | 主场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | FMS 德国 ISP 向 VAD+培训伙伴：ISP 白牌随单+训练教具比较样本（$99 锚点一致）；市政段边界+师者红线 |
-| 备选2 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选2 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-288GP（工业非管理 8口 PoE） | 升级/延展场景 | $74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：8口 GE(7)+SFP，PoE af/at 240W，DC 随附电源，L2+ 全特性（VLAN/ERPS<20ms/QinQ/Private VLAN/sFlow），PoE 看门狗自动冷重启
@@ -242,7 +242,7 @@ Hi Patrick,
 
 A value-added distributor specializing in ISPs and broadband, plus a MikroTik training partnership - FMS sits exactly where access networks get built.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) as a white-label-friendly complement for your reseller and ISP customers. Reference: $165 USD EXW. (We respect your public-sector and municipal customer boundaries - this offer targets your private ISP and system-house channel.)
+We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) as a white-label-friendly complement for your reseller and ISP customers. Reference: $180 USD EXW. (We respect your public-sector and municipal customer boundaries - this offer targets your private ISP and system-house channel.)
 
 One question: who supplies the PoE access layer in your portfolio today?
 
@@ -278,4 +278,4 @@ Saga Telecom - PoE switch OEM/ODM
 - **KP 领英直达**:[Patrick Schaub · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Patrick%20Schaub%20FMS%20Internetservice%20GmbH)(搜索链接,点入后核职位再加;来源:档案正文提取)
 - **中国进口与管制**:国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424DGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

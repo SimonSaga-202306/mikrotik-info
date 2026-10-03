@@ -21,7 +21,7 @@
 | 类型 | 分销（MikroTik 官方） |
 | 反向信号 | MikroTik（Master+VAD） |
 | 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424DGGPM-440W（Saga） |
+| 首推 Saga 型号 | STC-424XGGPM-440W（Saga） |
 | 切入点 | ALLNET 集团法国站（德/意为同一集团） |
 | 数据来源 | 2026-09-22 |
 | 原备注 | Carcassonne |
@@ -42,7 +42,7 @@
 
 保持低频联系，等他出现交换机需求信号再提级为 A。
 
-参考型号：`STC-424DGGPM-440W（Saga）`
+参考型号：`STC-424XGGPM-440W（Saga）`
 
 ## 六、注意点
 
@@ -72,7 +72,7 @@
 - 「Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe」 — https://www.allnet-italia.it/en/allnet-international-network/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）
+- 参考 P1: `STC-424XGGPM-280W` — ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）
 - 第一问: ALLNET 集团经 NORDIC/Italia/Greece 谱的 value PoE 档现供哪家？
 - 标签: 法国|ALLNET法国|集团站|集团联动
 
@@ -82,7 +82,7 @@ Hi ALLNET France team,
 
 Third ALLNET branch on our map after Nordic and Greece - the EUR 500M Allnet Network is the exact multi-country flow a value PoE line is built to slide through.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $165 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Allnet Group shelf.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Allnet Group shelf.
 
 One question: across the Group, which PoE access SKU holds the value tier today - and would a group-level second-source earn a pilot at the France branch?
 

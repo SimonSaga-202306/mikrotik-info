@@ -73,7 +73,7 @@
 - 「MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus」 — https://www.cyprusnet.com/ms-electronics
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 消费大分销 Networking 类目的管理型 PoE 升级档
+- 参考 P1: `STC-424XGGPM-280W` — 消费大分销 Networking 类目的管理型 PoE 升级档
 - 第一问: 你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?
 - 标签: 塞浦路斯|Limassol|AV大分销|类目升级
 
@@ -83,7 +83,7 @@ Hi Panicos,
 
 Fifty brands and an 800-dealer network across Cyprus - your IT & Networking category sits next to a strong AV business, and a managed PoE switch line is exactly the kind of documented, high-rotation product that upgrades such a category.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit to upgrade your networking shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit to upgrade your networking shelf, white-label friendly.
 
 One question: in your IT & Networking line-up, whose managed PoE switch fills the 24-port slot today - and is there room for a value unit beside it?
 

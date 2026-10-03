@@ -25,7 +25,7 @@ updated: 2026-09-28
 - **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：【人工定级】A —— 自动规则已跳过；信息待人工补齐（见备注）
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Nexus Networks 马耳他（更正： roster 原标西班牙）小团 vendor-independent（MikroTik mt 徽标在墙+全国唯一顾问 Johann MTCSWE）：顾问对照窄针（$165 锚点一致）；government 守界句；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Nexus Networks 马耳他（更正： roster 原标西班牙）小团 vendor-independent（MikroTik mt 徽标在墙+全国唯一顾问 Johann MTCSWE）：顾问对照窄针（$180 锚点一致）；government 守界句；—（合作探询，无量产报价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -92,7 +92,7 @@ updated: 2026-09-28
 
 ### 第 2 次跟进 · 若放行:Tiandy 旁 24 口监控 PoE 上架一页
 
-- **推什么**：STC-424DGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424DGGPM-280W——P 表唯一登记，440W 档已停编）
+- **推什么**：STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）（现行对照：STC-424XGGPM-280W——P 表唯一登记，440W 档已停编）
 - **切入点**：西语分销上架提案（梯价+到岸）。
 - **要问的问题**：¿Hay espacio para un switch PoE de 24 puertos en el catálogo?
 - **随附证明**：一页提案（西）+ 梯价。
@@ -139,7 +139,7 @@ updated: 2026-09-28
 - **①背景再核**：MT 小型全栈（官网+CSV 双核）
 - **②芯片/型号**：MikroTik/多牌
 - **③KP 深挖**：hello@/johann@
-- **④Saga 对标**：CONSULT-OEM（$165 锚点一致）
+- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
 - **⑤在乎与偏好**：厂商独立/cost-effectiveness 同频
 
 ### R55 证据摘录（全部保留 · 含数量）
@@ -165,9 +165,9 @@ updated: 2026-09-28
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Nexus Networks 马耳他（更正： roster 原标西班牙）小团 vendor-independent（MikroTik mt 徽标在墙+全国唯一顾问 Johann MTCSWE）：顾问对照窄针（$165 锚点一致）；government 守界句 |
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Nexus Networks 马耳他（更正： roster 原标西班牙）小团 vendor-independent（MikroTik mt 徽标在墙+全国唯一顾问 Johann MTCSWE）：顾问对照窄针（$180 锚点一致）；government 守界句 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
-| 备选3 | STC-424DGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $165 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
+| 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
 - **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
@@ -222,7 +222,7 @@ Hi Johann, hi Nexus team,
 
 Vendor-independent full-stack network engineers in Malta, with cost-effectiveness spelled out on the homepage - that philosophy we can only respect. Two honest notes: we build PoE switches, so your RouterOS practice stays untouched, and your government work stays on its established paths.
 
-Where we might serve: a documented 24-port Gigabit PoE switch (280W, 802.3af/at; reference $165 USD EXW, 2026-09-29) for your hospitality, retail, manufacturing and iGaming clients where the access tier is decided on function and price.
+Where we might serve: a documented 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) for your hospitality, retail, manufacturing and iGaming clients where the access tier is decided on function and price.
 
 One question: when you pick switches for a private-sector project, what does the shortlist process look like?
 

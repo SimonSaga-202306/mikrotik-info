@@ -73,7 +73,7 @@
 - 「Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com」 — https://hitcom.mk/consumer/
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — Hitcom 系电商谱的商用 PoE 补位档
+- 参考 P1: `STC-424XGGPM-280W` — Hitcom 系电商谱的商用 PoE 补位档
 - 第一问: 你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)
 - 标签: 科索沃|Prishtina|Hitcom系|电商
 
@@ -83,7 +83,7 @@ Hi FortShpejt team,
 
 H2 Holding running its own e-commerce shelf in Prishtina, with the Hitcom family behind it across the Balkans - a distribution family that knows how a well-documented value SKU moves through a regional network.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.
 
 One question: on your networking shelf, whose 24-port managed PoE switch fills the value slot today? (And a quick one: should we treat H2 and Hitcom as the same group for follow-ups?)
 

@@ -73,7 +73,7 @@
 - 「Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888」 — https://www.ui.com/distributors/?region=eur
 
 **判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424DGGPM-280W` — 双牌小 Master 的 value PoE 管理补位
+- 参考 P1: `STC-424XGGPM-280W` — 双牌小 Master 的 value PoE 管理补位
 - 第一问: 你们给区域经销商配货时,24 口 PoE 管理型段现随哪家?
 - 标签: 克罗地亚|Čakovec|Master|双牌谱
 
@@ -83,7 +83,7 @@ Hi EZY Infotech team,
 
 A Master distributor in Čakovec carrying both MikroTik and Ubiquiti lines - your regional resellers buy radios and routers from you, and the PoE switch line behind those deployments is where a documented value unit earns its shelf.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $165 USD EXW (2026-09-29) - the value-tier PoE unit for your reseller-facing line-up, white-label friendly.
+We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE unit for your reseller-facing line-up, white-label friendly.
 
 One question: for the deployments your resellers build, which PoE managed switch fills the value slot today?
 
