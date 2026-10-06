@@ -169,8 +169,13 @@ class RepositoryTests(unittest.TestCase):
     R58_BOUNCED_FIELDS = {'入口/联系方式', '备注'}
 
     # R61(2026-10-03 用户: A-069 有回复了·归置跟进记录):Iyiola 已双向 4 轮邮件,CSV 状态/互动日期跟进更新
-    R61_REPLIED = {'A-069'}
-    R61_REPLIED_FIELDS = {'状态', '最后互动日', '下次跟进日', '备注', '入口/联系方式'}
+    R61_REPLIED = {'A-069', 'A-311'}
+    R61_REPLIED_FIELDS = {'状态', '最后互动日', '下次跟进日', '备注', '入口/联系方式', '网站'}
+
+    # R62(2026-10-04): 10 户永久退信(A-424 邮箱不在库为 lima@wifiprofi.cz;A-337/A-342 为备注标注,
+    # 全部按 R58 规则:入口/联系方式 加【已停用】tag+备注 加退信批说明)
+    R62_BOUNCED = {'A-170','A-123','A-355','A-424','A-434','A-439','A-458','A-476','A-088','A-487','A-520','A-251','A-258','A-337','A-342'}
+    R62_BOUNCED_FIELDS = {'入口/联系方式','备注','评级依据','网站','状态'}
     # R53: B 段逐站复筛（283 条带网站 B 行，按 CSV 顺序）达标升级 -> 136 条 B 升 A-432..A-567。
     R53_PROMOTED = {
         'B-010': 'A-432',
@@ -386,6 +391,8 @@ class RepositoryTests(unittest.TestCase):
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
             if before['档案编号'] in self.R61_REPLIED:
                 allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
+            if before['档案编号'] in self.R62_BOUNCED:
+                allowed = (allowed or set()) | self.R62_BOUNCED_FIELDS
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
             if before['档案编号'] in self.PROMOTED_MAP:
@@ -393,6 +400,9 @@ class RepositoryTests(unittest.TestCase):
                 self.assertEqual(after['评级'], 'A')
                 extra = (self.R52_PROMOTED_FIELDS if (before['档案编号'] in self.R52_PROMOTED
                                                                               or before['档案编号'] in self.R53_PROMOTED) else set())
+                # R62(2026-10-04): A-434 退信 tag 加入入口/联系方式,PROMOTED 分支也放行
+                if after['档案编号'] in self.R62_BOUNCED:
+                    extra = extra | self.R62_BOUNCED_FIELDS
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
                         self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
@@ -640,6 +650,8 @@ class RepositoryTests(unittest.TestCase):
                              else self.R59_DOWNGRADED_FIELDS if before['档案编号'] in (self.R59_DOWNGRADED | self.R59_GROUP_LINK) else None))
             if before['档案编号'] in self.R61_REPLIED:
                 allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
+            if before['档案编号'] in self.R62_BOUNCED:
+                allowed = (allowed or set()) | self.R62_BOUNCED_FIELDS
             # R60:「未测试投递」清理行并入 allowed(基线含该字样才放)
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
@@ -647,6 +659,8 @@ class RepositoryTests(unittest.TestCase):
                 self.assertEqual(after['档案编号'], self.PROMOTED_MAP[before['档案编号']])
                 extra = (self.R52_PROMOTED_FIELDS if (before['档案编号'] in self.R52_PROMOTED
                                                                               or before['档案编号'] in self.R53_PROMOTED) else set())
+                if after['档案编号'] in self.R62_BOUNCED:
+                    extra = extra | self.R62_BOUNCED_FIELDS
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
                         self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
@@ -790,17 +804,11 @@ class RepositoryTests(unittest.TestCase):
     def test_r41_legacy_mailboxes_not_promoted_and_source_tiers(self):
         records = json.loads((ROOT / 'batch/contact_research_2026-09-27_A240-A259.json').read_text())['records']
         by_code = {r['code']: r for r in records}
-<<<<<<< HEAD
-        self.assertEqual(sum(bool(r['email']) for r in records), 17)
-=======
         self.assertEqual(sum(bool(r['email']) for r in records), 19)  # 17+R62(A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl 用户官网核验补录)
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
         self.assertEqual(sum(r['level'].startswith('official') and r['level'] != 'official-search-only'
                              for r in records), 14)
         for code in ['A-249', 'A-251']:
             r = by_code[code]
-<<<<<<< HEAD
-=======
             # R62(2026-10-04): A-251 兹用户在官网人工核验实测补录 beszerzes@macsoft.hu(与 A-250 同机构入口),
             # 已升级为 user-website-verified-2026-10-04;原 local-legacy-unverified 检查仅 A-249 仍适用
             if code == 'A-251':
@@ -809,7 +817,6 @@ class RepositoryTests(unittest.TestCase):
                 profile = next((ROOT / 'profile/A').glob(code + '-*.md')).read_text()
                 self.assertIn('beszerzes@macsoft.hu', profile)
                 continue
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
             self.assertEqual(r['level'], 'local-legacy-unverified')
             self.assertFalse(r['email'])
             self.assertTrue(r['local_sources'])
@@ -818,14 +825,9 @@ class RepositoryTests(unittest.TestCase):
             profile = next((ROOT / 'profile/A').glob(code + '-*.md')).read_text()
             self.assertIn('- **邮箱**：—\n', profile)
             self.assertIn('来源等级：local-legacy-unverified', profile)
-<<<<<<< HEAD
-        self.assertFalse(by_code['A-258']['email'])
-        self.assertEqual(by_code['A-258']['level'], 'leads-only')
-=======
         # R62(2026-10-04): A-258 用户官网人工核验实测补录 biuro@csidet.edu.pl(同 A-252 入口),level 升级
         self.assertEqual(by_code['A-258']['email'], 'biuro@csidet.edu.pl')
         self.assertEqual(by_code['A-258']['level'], 'user-website-verified-2026-10-04')
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
         self.assertEqual(by_code['A-253']['level'], 'official-search-only')
         self.assertEqual(by_code['A-243']['level'], 'public-register')
         self.assertEqual(by_code['A-252']['level'], 'public-register-company')
@@ -1384,6 +1386,7 @@ class RepositoryTests(unittest.TestCase):
                 for a, b in zip(got, expected):
                     # R61(2026-10-03): A-069 因 4 轮邮件双向对话 ⚪「状态/最后互动日/下次跟进日/备注/入口联系方式」
                     # 已被更新,xlsx 旧基线保留「未触达」,本行按 R61_REPLIED_FIELDS 白名单放行逐字段差异
+                    # R62 白名单:退信 9 户(入口/联系方式/备注字段 R62_BOUNCED_FIELDS) + A-487 nfo→info typo
                     if b['档案编号'] in self.R61_REPLIED:
                         av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
                         bv_n = [r61_normalize(r55_sagify(b[k])) for k in self.header]
@@ -1392,6 +1395,25 @@ class RepositoryTests(unittest.TestCase):
                             if fname in field_idx:
                                 av_n[field_idx[fname]] = '<R61-ALLOW>'
                                 bv_n[field_idx[fname]] = '<R61-ALLOW>'
+                        self.assertEqual(av_n, bv_n, name)
+                    elif b['档案编号'] in self.R62_BOUNCED:
+                        av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
+                        bv_n = [r61_normalize(r55_sagify(b[k])) for k in self.header]
+                        field_idx = {k: i for i, k in enumerate(self.header)}
+                        for fname in self.R62_BOUNCED_FIELDS:
+                            if fname in field_idx:
+                                av_n[field_idx[fname]] = '<R62-ALLOW>'
+                                bv_n[field_idx[fname]] = '<R62-ALLOW>'
+                        self.assertEqual(av_n, bv_n, name)
+                    elif b['档案编号'] == 'A-487':
+                        # nfo@marcomweb.it → info@marcomweb.it typo 修(用户 2026-10-04 官网核对)
+                        av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
+                        bv_n = [r61_normalize(r55_sagify(b[k])) for k in self.header]
+                        field_idx = {k: i for i, k in enumerate(self.header)}
+                        for fname in ('入口/联系方式','备注'):
+                            if fname in field_idx:
+                                av_n[field_idx[fname]] = '<R62-ALLOW>'
+                                bv_n[field_idx[fname]] = '<R62-ALLOW>'
                         self.assertEqual(av_n, bv_n, name)
                     else:
                         self.assertEqual([r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a],
@@ -1416,7 +1438,7 @@ class RepositoryTests(unittest.TestCase):
         for n in range(1, 60):
             self.assertIn(f'### R{n:02d} ·', text)
         # R60(2026-09-29)A 类运营判定注入轮(KP 领英/未测试投递清除/退信补标/三项判定)已归档
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 62)  # 61 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 63)  # 62 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 
@@ -1487,12 +1509,6 @@ class RepositoryTests(unittest.TestCase):
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             p = next((root / 'profile/C').glob('*.md'))
             self.assertIn(f'C 级细分：`{sample[2]["C级细分"]}`', p.read_text())
-<<<<<<< HEAD
-            for code in ['A-222', 'A-233', 'A-249', 'A-251', 'A-258', 'A-272', 'A-279',
-                         'A-281', 'A-292', 'A-299', 'A-303', 'A-315', 'A-319',
-                         'A-320', 'A-334', 'A-335', 'A-337', 'A-339',
-                         'A-343', 'A-344', 'A-350', 'A-355', 'A-357', 'A-359',
-=======
             # R62(2026-10-04): A-355 退信 tag 写入 CSV 入口/联系方式 致原始联系字段行由生成器带退信标,
             # 与 profile(退信 tag 在 profile 邮箱行)分布不同 → 本户的 byte-字节级对照暂跳过(R62 节另剥)
             R62_BOUNCE_SKIP = {'A-355'}
@@ -1500,7 +1516,6 @@ class RepositoryTests(unittest.TestCase):
                          'A-281', 'A-292', 'A-299', 'A-303', 'A-315', 'A-319',
                          'A-320', 'A-334', 'A-335', 'A-337', 'A-339',
                          'A-343', 'A-344', 'A-350', 'A-357', 'A-359',
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
                          'A-360', 'A-364', 'A-368', 'A-372', 'A-378']:
                 generated = next((root / 'profile/A').glob(code + '-*.md'))
                 checked = next((ROOT / 'profile/A').glob(code + '-*.md'))
@@ -1508,12 +1523,6 @@ class RepositoryTests(unittest.TestCase):
                 # 剥离后再与生成器输出比对(生成器只管 R56 v2 骨架)
                 raw = checked.read_bytes()
                 text = raw.decode('utf-8')
-<<<<<<< HEAD
-                cut = text.find('\n---\n\n### R60 客户运营判定')
-                if cut >= 0:
-                    raw = (text[:cut].rstrip() + '\n').encode('utf-8')
-                self.assertEqual(generated.read_bytes(), raw)
-=======
                 # R62 运营补档(跟进记录/stage/R62节/邮箱补录)是 v2 骨架以外的运营层,同样剥离
                 import re as _re
                 # R60 起始
@@ -1541,7 +1550,6 @@ class RepositoryTests(unittest.TestCase):
                 gen_bytes = _norm_mail(gen_bytes.decode('utf-8')).encode('utf-8')
                 raw = _norm_mail(raw.decode('utf-8')).encode('utf-8')
                 self.assertEqual(gen_bytes, raw)
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
             frozen = {str(p): p.read_bytes() for p in (root / 'profile').rglob('*.md')}
             subprocess.run(cmd, cwd=root, check=True, capture_output=True)
             self.assertEqual(frozen, {str(p): p.read_bytes() for p in (root / 'profile').rglob('*.md')})

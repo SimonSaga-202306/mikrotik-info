@@ -1,14 +1,8 @@
 # Christopher Fikes
 
-<<<<<<< HEAD
-> **评级 A**　|　美国 · Silsbee, TX　|　档案编号 `A-311`　|　优先级 ★★★　|　状态：未触达
->
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
-=======
 > **评级 A**　|　美国 · Silsbee, TX　|　档案编号 `A-311`　|　优先级 ★★★　|　状态：02-已双向对话（2 轮）
 >
 > **触达状态（Stage）**：02-replied　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 
 ```yaml structured_profile
 code: A-311
@@ -20,17 +14,10 @@ decision_speed: moderate
 price_sensitivity: medium
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: true, oem: false, hotel: false, training: true}
-<<<<<<< HEAD
-p1: CONSULT-OEM
-stage: 00-researched
-struct_version: v2  # v2 骨架
-updated: 2026-09-28
-=======
 p1: STC-424XGGPM-280W
 stage: 02-replied
 struct_version: v2  # v2 骨架
 updated: 2026-10-04
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -258,15 +245,6 @@ Saga Telecom - PoE switch OEM/ODM
 
 | 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
 |---|---|---|---|---|---|---|
-<<<<<<< HEAD
-|  |  |  |  |  |  |  |
-
-> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
-
-## 下次复核
-
-- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
-=======
 | 2026-10-04 01:40 | 邮件(Gmail) | sales@fikesmedia.com(官网联系页 Sales) | 发出 STC-424XGGPM-280W 开发信(Marvell AC5 L2+,24 口 PoE af/at+10G 上联,$180 USD/PC EXW,样品问句) | — | 等回复 | 2026-10-04 |
 | 2026-10-04 01:52 | 邮件(Gmail) | Christopher Fikes(Owner,cfikes@fikesmedia.com 亲回,Cc:sales@) | — | **12 分钟即回**:「This actually does have my interest.」问 3 点:①Customisation 层级 ②API availability for controller integration ③规格书+型号表 | 当日晚回信带 5 附件 | 2026-10-04 |
 | 2026-10-04 21:44 | 邮件(Gmail) | cfikes@ + Cc:sales@ | 回信(5 附件:STC-424XGGPM-280W Datasheet/Feature List L2+/CLI Manual/Web Manual/MIBs):定制项清单(logo/包装/PVC mask/label/型号名/SN/manual/默认登录 IP/SNMP OID/Web 语言 10 项成熟 + 固件定制 subject to technical evaluation);**API 不答有无**,反问 controller 架构(REST/SNMP/SSH/CLI/NETCONF/其他);顺引「It's about function, not vendors」表共鸣;追问用途=consulting lab/customer deployments/private-label OEM | — | 等客户回 controller 架构→再问 SmartByte 技术(假期中勿乱答) | 2026-10-08(无回则轻推) |
@@ -275,7 +253,6 @@ Saga Telecom - PoE switch OEM/ODM
 
 - **2026-10-08**:等 Christopher 回 controller 架构细节(REST/SNMP/SSH/CLI/NETCONF 哪种 + 现用平台);到手后**把客户原话转 SmartByte 技术评估**(严禁我方先猜测 API 能力答客户)
 - 样品/报价节奏:客户已带兴趣,**不要先提免费样品**;等他答用途(lab/deployment/OEM)再定样品策略(Partner price / evaluation unit)
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
 
 ---
@@ -284,8 +261,6 @@ Saga Telecom - PoE switch OEM/ODM
 
 ---
 
-<<<<<<< HEAD
-=======
 ### R62 邮件事件与深挖补档（2026-10-04 · 客户 12 分钟自回 · Owner 亲署)
 
 #### 邮件时间轴(Gmail PDF 源:main 仓库 Gmail - 24 Port PoE Managed Switch_A-311.pdf)
@@ -326,7 +301,6 @@ Saga Telecom - PoE switch OEM/ODM
 
 ---
 
->>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 ### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
 
 - **KP 领英直达**:[Christopher Fikes · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Christopher%20Fikes)(搜索链接,点入后核职位再加;来源:联络核验)
