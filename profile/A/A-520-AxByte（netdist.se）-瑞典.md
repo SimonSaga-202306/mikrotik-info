@@ -234,3 +234,11 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 高(PTS 2020 全面禁华为 5G;政治偏冷);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+<<<<<<< HEAD
+=======
+
+
+### R62 邮箱补录(2026-10-04)
+
+- **新增邮箱**:`support@axbyte.se` — 用户 2026-10-04 官网查询(同 A-064 Axbyte 入口,08-586 195 00 同总机,替代通道)
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)

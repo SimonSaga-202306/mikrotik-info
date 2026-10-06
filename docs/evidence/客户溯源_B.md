@@ -11,7 +11,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-93`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.allnet.dk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -24,7 +28,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-96`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.dvisor.dk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -37,7 +45,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-97`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：nextron.dk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -50,7 +62,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-100`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：vip.te.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -63,7 +79,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-101`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -76,7 +96,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-103`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：elko.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -89,7 +113,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-104`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：erc.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -102,7 +130,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-105`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：gazik.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -115,7 +147,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-110`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：products.mti.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -128,7 +164,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-113`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：omnilink.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -141,7 +181,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-114`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：rim2000.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -154,7 +198,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-115`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：romsat.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -167,7 +215,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-116`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop-gsm.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -180,7 +232,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-118`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -193,7 +249,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-123`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：coders.in.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -206,7 +266,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-124`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：wintik.com.ua
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -219,7 +283,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-129`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ronitek.co.il
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -232,7 +300,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-130`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：triple-core.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -245,7 +317,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-131`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：voicenter.co.il
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -258,7 +334,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-132`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：asap.bg
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -271,7 +351,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-134`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：computermarket.bg
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -284,7 +368,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-135`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/balkan.json / item[8]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -297,7 +385,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-138`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pclife.bg
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -310,7 +402,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-140`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：riva.bg
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -323,7 +419,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-143`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/balkan.json / item[5]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -336,7 +436,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-144`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ezy.hr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -349,7 +453,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-145`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：lost.hr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -362,7 +470,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-150`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：securenet.is
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -375,7 +487,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-151`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ca.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -388,7 +504,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-154`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ca.json / item[14]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -401,7 +521,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-156`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ca.json / item[12]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -414,7 +538,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-158`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ca.json / item[9]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -427,7 +555,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-164`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：jmr.ca
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ca.json / item[11]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -440,7 +572,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-172`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：lazybear.hu
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/hu.json / item[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -453,7 +589,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-173`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：compmarket.hu
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -466,7 +606,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-176`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：expert.hu
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -479,7 +623,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-177`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/hu.json / item[5]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -492,7 +640,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-186`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：merpazar.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -505,7 +657,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-197`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：prod.cy-wireless.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -518,7 +674,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-198`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mstronics.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -531,7 +691,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-200`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：alpenedv.at
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -544,7 +708,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-202`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sei-ned.org
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/at_ch.json / item[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -557,7 +725,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-203`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netzware.at
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -570,7 +742,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-207`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：allnet-italia.it
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -583,7 +759,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-211`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[15]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -596,7 +776,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-213`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：exasolutions.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[11]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -609,7 +793,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-215`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[17]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -622,7 +810,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-216`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dslab.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[10]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -635,7 +827,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-218`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -648,7 +844,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-219`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：alfa-tech.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[14]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -661,7 +861,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-220`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[19]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -674,7 +878,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-221`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：marac.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -687,7 +895,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-223`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ien.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[16]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -700,7 +912,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-224`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[18]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -713,7 +929,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-226`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tele-net.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/gr.json / item[12]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -726,7 +946,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-230`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.allnet.de
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -739,7 +963,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-244`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.etree.de
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -752,7 +980,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-245`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hsc-solutions.de
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -765,7 +997,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-246`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.allnet-italia.it
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -778,7 +1014,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-247`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：matrixcomputers.it
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[15]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -791,7 +1031,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-252`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dnet-distribution.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -804,7 +1048,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-255`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：fastnet.it
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[14]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -817,7 +1065,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-256`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[18]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -830,7 +1082,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-258`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[17]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -843,7 +1099,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-260`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：neostar.it
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -856,7 +1116,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-265`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -869,7 +1133,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-268`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/it.json / item[16]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -882,7 +1150,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-270`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：goodstore.lv
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -895,7 +1167,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-281`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：abctech.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -908,7 +1184,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-283`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：atcmarket.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -921,7 +1201,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-284`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：atesystem.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -934,7 +1218,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-286`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：axilogi.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -947,7 +1235,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-292`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：oemautomatic.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -960,7 +1252,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-293`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pcvcomp.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -973,7 +1269,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-300`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：edshop.edsystem.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -986,7 +1286,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-302`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：doxyterra.md
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -999,7 +1303,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-303`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pride.md
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1012,7 +1320,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-306`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/last.json / item[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1025,7 +1337,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-307`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：alfac.sk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/sk_ba_al.json / item[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1038,7 +1354,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-309`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：online.westech.sk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1051,7 +1371,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-311`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pchand.si
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1064,7 +1388,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-312`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tehnox.si
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1077,7 +1405,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-313`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：gcom.ge
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1090,7 +1422,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-314`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：intellcom.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1103,7 +1439,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-315`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：smart-network.ge
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1116,7 +1456,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-317`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：foxconcept.be
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1129,7 +1473,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-322`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：actn.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1142,7 +1490,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-323`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：allnetfrance.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1155,7 +1507,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1035`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-29 R58 竞品谱挖第1波
 - 官网线索（不自动背书其他字段）：techatlantix.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1168,7 +1524,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-325`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：rihan.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/fr.json / item[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1181,7 +1541,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-329`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：edox.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1194,7 +1558,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-337`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netcom-group.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1207,7 +1575,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-339`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：osmozis.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1220,7 +1592,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-342`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：redvi.se
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1233,7 +1609,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-343`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sewan.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1246,7 +1626,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-345`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：vodenn.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1259,7 +1643,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-354`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：fyr-systems.pl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1272,7 +1660,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-355`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1285,7 +1677,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-356`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1298,7 +1694,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-360`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：maslak.waw.pl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1311,7 +1711,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-361`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：poniatowski.pl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1324,7 +1728,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-365`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：eltrox.pl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1337,7 +1745,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-368`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：wirac.ba
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/sk_ba_al.json / item[5]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1350,7 +1762,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-370`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：irishwireless.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1363,7 +1779,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-371`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：vit.ie
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/be_pt_ie.json / item[6]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1376,7 +1796,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-374`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：gcntech.ie
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1389,7 +1813,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-376`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：elko.ee
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1402,7 +1830,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-386`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：oemautomatic.se
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1415,7 +1847,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-387`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sanuksystems.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1428,7 +1864,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-389`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：alltron.ch
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1441,7 +1881,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-395`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：fortshpejt.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1454,7 +1898,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-396`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/last.json / item[5]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1467,7 +1915,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-398`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：accdistribution.eu
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1480,7 +1932,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-402`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：elko.lt
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1493,7 +1949,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-404`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dipolnet.ro
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1506,7 +1966,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-406`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ro.json / item[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1519,7 +1983,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-410`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：newvision.ro
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/ro.json / item[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1532,7 +2000,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-411`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：telesystem.ro
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1545,7 +2017,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-418`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/us.json / item[12]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1558,7 +2034,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-420`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：bibaonline.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1571,7 +2051,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-429`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/us.json / item[14]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1584,7 +2068,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-431`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Moxa 渠道名录（经销商定位法）
 - 官网线索（不自动背书其他字段）：controllerservice.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：sales@controllerservice.com；投递未测试。
@@ -1606,7 +2094,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-434`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：distrigoinc.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1619,7 +2111,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-437`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：epcom.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1632,7 +2128,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-443`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ieiworld.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1645,7 +2145,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-450`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：leverify.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1658,7 +2162,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-457`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：paceintl.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1671,7 +2179,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-466`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ruggedscience.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1684,7 +2196,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-468`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/us.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1697,7 +2213,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-472`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：solutionboxusa.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1710,7 +2230,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-481`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：vodanetsystems.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1723,7 +2247,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-488`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：fiseg.fi
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1736,7 +2264,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-489`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：localnet.fi
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1749,7 +2281,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-491`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hpnetworks.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1762,7 +2298,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-492`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：allness.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：barry@allness.it；投递未测试。
@@ -1783,7 +2323,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-509`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：miatlantic.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1796,7 +2340,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-512`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：EtherWAN/Advantech 渠道名录（经销商定位法）
 - 官网线索（不自动背书其他字段）：pymatek.co.uk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1809,7 +2357,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-513`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotiktraining.co.uk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1822,7 +2374,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-516`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：telasys.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1835,7 +2391,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-524`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：it-support.nl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1848,7 +2408,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-525`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：interstroom.nl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1861,7 +2425,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-526`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：jpk-consulting.nl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1874,7 +2442,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-527`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：qtopia.nl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1887,7 +2459,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-529`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1900,7 +2476,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-531`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：gpe-networks.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1913,7 +2493,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-535`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：rvdbict.nl
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1926,7 +2510,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-543`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：engenheiros.pt
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/be_pt_ie.json / item[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1939,7 +2527,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-546`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/be_pt_ie.json / item[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1952,7 +2544,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-547`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：truenet.pt
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1965,7 +2561,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-548`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：adrnet.site
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[15]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1978,7 +2578,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-549`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[18]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -1991,7 +2595,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-553`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dmi.es
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2004,7 +2612,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-555`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[16]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2017,7 +2629,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-558`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：perpi.tech
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[13]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2030,7 +2646,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-560`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：infortisa.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2043,7 +2663,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-562`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：itconsultores.es
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[17]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2056,7 +2680,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-565`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dualcomcb.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[19]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2069,7 +2697,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-571`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：stratonetworks.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[11]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2082,7 +2714,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-572`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：cursos-mikrotik.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/es.json / item[10]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2095,7 +2731,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-573`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：todotelecom.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2108,7 +2748,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-576`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ict-international.ae
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2121,7 +2765,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-578`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：accreda.eu
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2134,7 +2782,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-580`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：wstsystems.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2147,7 +2799,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-581`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：core-bridge.me
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：`batch/last.json / item[6]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2160,7 +2816,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-582`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netmont.me
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2173,7 +2833,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-751`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2186,7 +2850,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-754`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训计划（欧洲）
 - 官网线索（不自动背书其他字段）：janzen-group.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_BCrescreen_A379-A384.json` → `records[8]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：info@janzen-group.com；投递未测试。
@@ -2208,7 +2876,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-853`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：厂商官网品牌页（当前）
 - 官网线索（不自动背书其他字段）：mtk-tech.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
@@ -2221,7 +2893,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-208`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：alpha-motion.gr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[1]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：info@alpha-motion.gr；投递未测试。
@@ -2237,7 +2913,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-277`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：fiberworks.no
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[4]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：salg@fiberworks.no；投递未测试。
@@ -2253,7 +2933,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-296`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：tecon.cz
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[7]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：info@tecon.cz；投递未测试。
@@ -2269,7 +2953,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-324`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：aplus-sa.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[9]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：sales@aplus-sa.com；投递未测试。
@@ -2285,7 +2973,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-331`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：fget.fr
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[10]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：base.fget@gmail.com；投递未测试。
@@ -2301,7 +2993,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-333`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hdtechnology.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[11]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：contact@hdtechnology.fr；投递未测试。
@@ -2317,7 +3013,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-383`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：egelectronics.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[14]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：hello@egelectronics.com；投递未测试。
@@ -2333,7 +3033,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-385`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：hightechnordic.com
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[15]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：info@hightechnordic.com；投递未测试。
@@ -2349,7 +3053,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-503`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ivoryegg.co.uk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[18]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：info@ivoryegg.co.uk；投递未测试。
@@ -2365,7 +3073,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-506`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mac-solutions.net
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[19]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：sales@mac-solutions.co.uk；投递未测试。
@@ -2381,7 +3093,11 @@
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-508`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：millbeck.co.uk
+<<<<<<< HEAD
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
+=======
+- 精确同名同国别首次入库提交：`未匹配`。
+>>>>>>> cdfe736 (R62 A-311入库+GPT讨论归档+退信批+4户补录: ①A-311 Fikes Media stage 00→02-replied(12分钟 Owner亲回 interested·问定制/API/规格),跟进记录3行,R62深挖节(GPT结论:技术评估阶段·API不答有无先拿需求·假期风控),复核 2026-10-08 ②GPT讨论归档:A-069 建议入 CRM v2.1 候选(Relationship Score/Success Path/Knowledge Contribution/Partner Type,本档案首版在 A-311 示范) ③退信 10 户按 R58 规则处置:A-170/123/355/424/434/439/458/476/088 永久 dead 标发不过去+替代路径(乌克兰守界只标注不主动挖);A-337 备注(fabio.mundadori7114@ingesw.onmicrosoft.com M365 tenant 猜测直邮被退);A-342 tnet 45h retry 观察 ④4 户人工新邮箱补录:A-251 beszerzes@macsoft.hu/A-258 biuro@csidet.edu.pl(均用户官网核验,level 升级 user-website-verified-2026-10-04,profile/STRUCT/CSV/生成器基线四端同步)/A-487 nfo@→info@marcomweb.it typo/A-520 support@axbyte.se 补作替代通道(与 A-064 同源) ⑤tests 加 R62 白名单(A-251/A-258 level 升格,R62 退信抽样跳过);29/29 OK+audit errors=0/customers=1037)
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
 - 联系方式证据记录：`batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json` → `records[20]`；记录日期 2026-09-28；来源等级 `official-company`。
   - 公开邮箱：hello@millbeck.co.uk；投递未测试。
