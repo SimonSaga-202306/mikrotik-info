@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Microstar sp. z o. o.（波兰华沙）：官网 2026-09-28 处于维护页态（“Serwis w trakcie prac konserwacyjnych”）；CSV：Perle 工业 PoE 线分销商；具名 Piotr Pieczerak
-- 【推断】维护页=站短期整修（非休眠定性）；Perle 线信号强，工业 PoE 用语就是货架语言
-- 【假设】具名联系人直邮即可起步
+- 【事实】Microstar sp. z o. o:Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)
+- 【推断】R66 第 11 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-09-28
 - **电话**：+48 22 8365273
 - **原始联系字段**：+48 22 8365273 / piotr.pieczerak@microstar.com.pl（具名联系人 Piotr Pieczerak（atto.com 厂商名录收录）。⚠️波兰法人，勿与克罗地亚 Microstar 合并）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Piotr Pieczerak**(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl))— atto.com 分销名录页具名+直邮 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.atto.com/microstar-sp-z-o-o/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Piotr Pieczerak | 具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl) | atto.com 分销名录页具名+直邮 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.atto.com/microstar-sp-z-o-o/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,35 +139,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：华沙老牌 Perle 分销；站维护页而非休眠
-- **②芯片/型号**：Perle 全家
-- **③KP 深挖**：Pieczerak 具名直达
-- **④Saga 对标**：Perle 旁并架
-- **⑤在乎与偏好**：文档齐
+- **①背景再核**：Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Piotr Pieczerak(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：具名直邮已获(Pieczerak)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**“Serwis w trakcie prac konserwacyjnych…Przerwa techniczna powinna się wkrótce skończyć”（2026-09-28 实测）
-  > “Serwis w trakcie prac konserwacyjnych…Przerwa techniczna powinna się wkrótce skończyć”（2026-09-28 实测）
-  > 来源：https://www.microstar.com.pl/
-- **【联系方式】**piotr.pieczerak@microstar.com.pl +48 22 8365273（CSV）；MX=Hostinger 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > piotr.pieczerak@microstar.com.pl +48 22 8365273（CSV）；MX=Hostinger 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【决策链与对接人】**Microstar sp. z o.o., Gizów 6, 01-249 Warsaw, Poland;Tel: +48 22 836-52-73;Email: piotr.pieczerak@microstar.com.pl(ATTO Technology 分销名录页)
+  > Microstar sp. z o.o., Gizów 6, 01-249 Warsaw, Poland;Tel: +48 22 836-52-73;Email: piotr.pieczerak@microstar.com.pl(ATTO Technology 分销名录页)
+  > 来源：https://www.atto.com/microstar-sp-z-o-o/
+- **【业务定位】**MICROSTAR — Gizów 6, 01-249 Warszawa(Wola);22 836 52 73;Computers(名录口径一致)
+  > MICROSTAR — Gizów 6, 01-249 Warszawa(Wola);22 836 52 73;Computers(名录口径一致)
+  > 来源：https://www.yelp.com/biz/microstar-warszawa
+- **【近期动态与线索】**2026-10-08 R66 11 波:身份锁定=华沙 microstar.com.pl 本体(巴西/美同名件排录);波次二=波兰 KRS/CEIDG 登记册按号反查董事层
+  > 2026-10-08 R66 11 波:身份锁定=华沙 microstar.com.pl 本体(巴西/美同名件排录);波次二=波兰 KRS/CEIDG 登记册按号反查董事层
+  > 来源：https://ekrs.ms.gov.pl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：华沙 Perle 工业通信分销商（站整修中）
-- **产品线与在售品牌**：Perle 全家（CSV）
-- **目标行业与场景**：工业联网
-- **团队与规模**：中型老牌
-- **决策链与对接人**：Pieczerak（具名）
-- **技术与认证**：Perle 体系
-- **采购与供应链信号**：分销采购
-- **近期动态与线索**：站维护页（2026-09-28）
-- **与我方契合点**：Perle 旁温宽 PoE 并架
-- **风险与注意**：维护页期间电话并行
+- **业务定位**：Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰华沙电脑/网通件批发商
+- **团队与规模**：(KRS 谱波次二补)
+- **决策链与对接人**：**Piotr Pieczerak(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 11 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Pieczerak 具名直邮(leads-only;opt-in 律);KRS 反查点名
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：盘熟
-- **W**：站休
-- **O**：并架
-- **T**：正面
+- **S**：具名直邮已获(Pieczerak)
+- **W**：实体规模谱面薄
+- **O**：KRS 登记册反查可破
+- **T**：同名噪声高
 
 ## 触达与风险红线
 
@@ -200,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在售矩阵
-  - [ ] 恢复时间
-  - [ ] 阶梯
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,16 +231,10 @@ updated: 2026-09-28
 ```text
 Hi Piotr,
 
-A Perle-distributor knows industrial PoE switches already - this pitch comes with respect for what you carry, not confusion about it.
-
-We build industrial managed PoE switches rated -40 to 75C, offered as an honest complement at a lighter price point. Reference: $74.8 USD EXW.
-
-One question: next to your Perle rows, is there an open slot for a cost-friendly industrial PoE line?
-
-If useful, I can send one unit with full documentation (I saw your site is under maintenance - no hurry, the email channel works). If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

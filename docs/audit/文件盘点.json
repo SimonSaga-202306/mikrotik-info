@@ -1464,6 +1464,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+      "sha256": "761efea14d15f83d65d855565d3b383b46a9bf81e6cbd0f341d9ea6df7a50cc6",
+      "bytes": 30458,
+      "tracked_at_scan": false,
+      "units_scanned": 519,
+      "unique_url_count": 13,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
       "sha256": "9cbc96cae1b76495026948a9d2442e6b968d0d87d1ded8c5dd2de900337633e5",
       "bytes": 7964,
@@ -2565,10 +2575,10 @@
     },
     {
       "path": "batch/邮件退信_2026-09-29.json",
-      "sha256": "409071286d8a9a272a285255c98bcc68160d79c3edec5eb5657ef4994e4a6d31",
-      "bytes": 3112,
+      "sha256": "fe969cbf47905cba6fab3569bdc5db531137f1f5885fcfdc05e94b7a59c6cd04",
+      "bytes": 3148,
       "tracked_at_scan": true,
-      "units_scanned": 74,
+      "units_scanned": 75,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -2795,10 +2805,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "e8e1a3fcd1dc89b51e39e3be26758097a477739aa5b31d2db5cf2b9c08c73c0f",
-      "bytes": 151827,
+      "sha256": "c831e80f64d7f99ba98af2b13d91f527980b90431aa4954998b187abf0359aa0",
+      "bytes": 152834,
       "tracked_at_scan": true,
-      "units_scanned": 1286,
+      "units_scanned": 1291,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -3655,21 +3665,21 @@
     },
     {
       "path": "profile/A/A-081-Profcon AB-瑞典.md",
-      "sha256": "6136e52ceb8ae46e538d0cad8692ffd179fefcacceb69a964bf8dfd4a6f1221b",
-      "bytes": 16448,
+      "sha256": "d13c6b21ac998cfc82dbb7e131d6876d303c6274668df93b61f1cc0aae3eb4cb",
+      "bytes": 22948,
       "tracked_at_scan": true,
-      "units_scanned": 263,
-      "unique_url_count": 2,
+      "units_scanned": 278,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
-      "sha256": "93024df71a67ea56f951fb190ce21dd5bdd398ed2325879dfaf4c42b1de3796d",
-      "bytes": 14836,
+      "sha256": "aa28e486b04c8ad42aff5f82483bd78ad6fc0dcdefefba0d944aa13821a40037",
+      "bytes": 16646,
       "tracked_at_scan": true,
       "units_scanned": 257,
-      "unique_url_count": 3,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -3765,11 +3775,11 @@
     },
     {
       "path": "profile/A/A-092-Titan Security Group-美国.md",
-      "sha256": "14eb89c66f72e4345b494d80f120a7a3e18caa76d8f17528477bcbc7d24beff1",
-      "bytes": 14735,
+      "sha256": "fbd4b0eb82d1b1bd2981114a8699b83359fbb7bbb3411c3b81bef68c4da34727",
+      "bytes": 21053,
       "tracked_at_scan": true,
-      "units_scanned": 260,
-      "unique_url_count": 1,
+      "units_scanned": 274,
+      "unique_url_count": 9,
       "inspection": {},
       "errors": []
     },
@@ -3785,11 +3795,11 @@
     },
     {
       "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
-      "sha256": "dadb47f21b87de3a512c80937189f3e0af8639f6d7ba39f2c4e089e6e5662475",
-      "bytes": 13603,
+      "sha256": "2f671a595e4da289aa6d26166867a537e06058b04fa4f5c3da72733e1c4b5c57",
+      "bytes": 14557,
       "tracked_at_scan": true,
-      "units_scanned": 247,
-      "unique_url_count": 1,
+      "units_scanned": 255,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
@@ -7255,8 +7265,8 @@
     },
     {
       "path": "profile/A/A-441-Dipole Wireless Communication-以色列.md",
-      "sha256": "31c042a0863acf8ef5ed6ecee35e327e6252438851de15cac0e9a04514ef2223",
-      "bytes": 11610,
+      "sha256": "d01768c36f48aa75634eaba0ce0269821962d5d8c1111ff9de97060367f76421",
+      "bytes": 11627,
       "tracked_at_scan": true,
       "units_scanned": 228,
       "unique_url_count": 1,
@@ -13564,6 +13574,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_R56_KP第11波落盘.py",
+      "sha256": "fb6b99f61b3e327ef6c6ddb05ed168450224e4a29d50a734f961d9b170d85d6a",
+      "bytes": 12081,
+      "tracked_at_scan": false,
+      "units_scanned": 104,
+      "unique_url_count": 13,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_R56_KP第2波落盘.py",
       "sha256": "16cc142a2984efbb37b4cdd3ba1a03591648dc397f7949fac42e4c60cfe612ca",
       "bytes": 22037,
@@ -13725,10 +13745,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "bf2f61eac6b1b2c90cbaf4ecd672d187e77715f9877eca8de275ef998b93d529",
-      "bytes": 38262,
+      "sha256": "809e43970009fbbc34e4325242b43a85812b80c8a49d856fe5b19b8937fcc476",
+      "bytes": 38321,
       "tracked_at_scan": true,
-      "units_scanned": 794,
+      "units_scanned": 795,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

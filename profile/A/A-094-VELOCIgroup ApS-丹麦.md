@@ -47,9 +47,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】VELOCIgroup ApS（丹麦）：CSV 载 Netonix 授权渠道（WISP 接入层交换机）；⚠️官网未找到（搜索都是墨西哥自行车牌干扰）；电话 +45 8891 7070
-- 【推断】Netonix 与我方接入交换机正面重叠——按 Round-28“Netonix out”纪律：建档照做（R55 全 A 建档性深挖要求），但**触达不打产品推销**，仅建档与关系维护
-- 【假设】如后续用户明确净尼基方向放开，再激活商务计划；当前如实建档
+- 【事实】VELOCIgroup ApS:VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)
+- 【推断】R66 第 11 波守档(谱面薄)
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -133,35 +133,38 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：丹麦 Netonix 渠道；与 Netonix-out 纪律对冲→建档不推
-- **②芯片/型号**：Netonix
-- **③KP 深挖**：电话口在无邮箱
-- **④Saga 对标**：—
-- **⑤在乎与偏好**：—
+- **①背景再核**：VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 波次二点名**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CSV 已有谱名+地址锁
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**CSV：Netonix 授权渠道（WISP 接入层交换机）
-  > CSV：Netonix 授权渠道（WISP 接入层交换机）
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【联系方式】**电话 +45 8891 7070（CSV 名录既有）；官网未找到
-  > 电话 +45 8891 7070（CSV 名录既有）；官网未找到
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【业务定位】**VELOCIGROUP — Jernbanegade 23B, c/o Businesshouse, 4000 Roskilde, Denmark(Computers)
+  > VELOCIGROUP — Jernbanegade 23B, c/o Businesshouse, 4000 Roskilde, Denmark(Computers)
+  > 来源：https://www.yelp.com/biz/velocigroup-roskilde
+- **【近期动态与线索】**2026-10-08 R66 11 波:守档;波次二=丹麦 CVR 登记册(virk.dk)按名反查,补董事层+注册号
+  > 2026-10-08 R66 11 波:守档;波次二=丹麦 CVR 登记册(virk.dk)按名反查,补董事层+注册号
+  > 来源：https://virk.dk/
+- **【团队与规模】**(CVR 谱波次二补);ApS=丹麦私营有限责任公司形态
+  > (CVR 谱波次二补);ApS=丹麦私营有限责任公司形态
+  > 来源：https://virk.dk/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：丹麦 Netonix 授权渠道（跟我方正面重叠品）
-- **产品线与在售品牌**：Netonix WISP 交换机
-- **目标行业与场景**：WISP 接入层
-- **团队与规模**：未公开
-- **决策链与对接人**：电话口
-- **技术与认证**：未公开
-- **采购与供应链信号**：与 Netonix 绑定
-- **近期动态与线索**：官网不可见
-- **与我方契合点**：重叠品段——建档不推
-- **风险与注意**：Netonix-out 纪律
+- **业务定位**：VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：丹麦 Roskilde 电脑类 ApS(谱面薄)
+- **团队与规模**：(CVR 谱波次二补)
+- **决策链与对接人**：**守档准由;R66 波次二点名**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 11 波守档
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:身份=Roskilde Jernbanegade 23B 本体已锁;R66 波次二点名(CVR 反查)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +179,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：—
-- **W**：—
-- **O**：—
-- **T**：—
+- **S**：CSV 已有谱名+地址锁
+- **W**：谱面极薄(Yelp 独件)
+- **O**：CVR 登记册反查可破
+- **T**：零人名命中
 
 ## 触达与风险红线
 
@@ -211,8 +214,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 经营状态
-  - [ ] 口径放开
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,7 +227,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——Round-28 Netonix-out 纪律。动作：建档观察+电话核验经营状态；用户明示后重排商务计划。）
+
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

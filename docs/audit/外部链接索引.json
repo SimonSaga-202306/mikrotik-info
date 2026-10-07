@@ -8529,7 +8529,7 @@
       },
       {
         "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
-        "locator": "L134"
+        "locator": "L138"
       }
     ]
   },
@@ -8628,6 +8628,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-557/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://ekrs.ms.gov.pl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L207"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://ekrs.ms.gov.pl/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L66"
       }
     ]
   },
@@ -17303,23 +17327,15 @@
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L127"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L130"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L149"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L152"
+        "locator": "L151"
       }
     ]
   },
@@ -31380,6 +31396,96 @@
     ]
   },
   {
+    "url": "https://se.linkedin.com/company/profcon-ab",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L141"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L155"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L162"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L103"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L178"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L181"
+      }
+    ]
+  },
+  {
+    "url": "https://se.linkedin.com/company/profcon-ab'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L50"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L52"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L53"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L55"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://se.linkedin.com/company/profcon-ab〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://securenet.is/",
     "http_checked": false,
     "occurrences": [
@@ -36268,6 +36374,42 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第24批.json",
         "locator": "L57"
+      }
+    ]
+  },
+  {
+    "url": "https://virk.dk/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L455"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L460"
+      },
+      {
+        "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
+        "locator": "L151"
+      },
+      {
+        "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://virk.dk/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L92"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L93"
       }
     ]
   },
@@ -41552,8 +41694,52 @@
         "locator": "L119"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L176"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L197"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L264"
+      },
+      {
         "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
-        "locator": "L131"
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://www.atto.com/microstar-sp-z-o-o/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L63"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L64"
+      }
+    ]
+  },
+  {
+    "url": "https://www.atto.com/microstar-sp-z-o-o/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L79"
       }
     ]
   },
@@ -42614,6 +42800,136 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-890/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bolagsfakta.se/5565787024-Profcon_AB",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L120"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L127"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L134"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L175"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bolagsfakta.se/5565787024-Profcon_AB'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L47"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L48"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L49"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L54"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bolagsfakta.se/5565787024-Profcon_AB〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L84"
       }
     ]
   },
@@ -45954,6 +46270,30 @@
       {
         "path": "profile/B/B-381-Solution Box LLC-美国.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/titan-security-group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L309"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/titan-security-group'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L83"
       }
     ]
   },
@@ -68337,11 +68677,7 @@
       },
       {
         "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
-        "locator": "L128"
-      },
-      {
-        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
-        "locator": "L150"
+        "locator": "L132"
       }
     ]
   },
@@ -74544,6 +74880,72 @@
     ]
   },
   {
+    "url": "https://www.prnewswire.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L366"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L373"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L380"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
+    "url": "https://www.prnewswire.com/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L73"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L74"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://www.prnewswire.com/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://www.profcon.se/",
     "http_checked": false,
     "occurrences": [
@@ -74581,23 +74983,15 @@
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L128"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L137"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L153"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L156"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
@@ -74612,10 +75006,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第9批.json",
         "locator": "L37"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L156"
       }
     ]
   },
@@ -76354,6 +76744,34 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-797/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L299"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L81"
       }
     ]
   },
@@ -83118,6 +83536,30 @@
     ]
   },
   {
+    "url": "https://www.yelp.com/biz/microstar-warszawa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L202"
+      },
+      {
+        "path": "profile/A/A-082-Microstar sp. z o. o-波兰.md",
+        "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yelp.com/biz/microstar-warszawa'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L65"
+      }
+    ]
+  },
+  {
     "url": "https://www.yelp.com/biz/velocigroup-roskilde",
     "http_checked": false,
     "occurrences": [
@@ -83134,12 +83576,34 @@
         "locator": "L1053"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L429"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L450"
+      },
+      {
         "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
         "locator": "L129"
       },
       {
         "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
         "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-094-VELOCIgroup ApS-丹麦.md",
+        "locator": "L148"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yelp.com/biz/velocigroup-roskilde'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L91"
       }
     ]
   },
@@ -83880,6 +84344,100 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/c/titan-security-group/353923263",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L304"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L387"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L394"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L401"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L408"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/titan-security-group/353923263'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L76"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L77"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L78"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L79"
+      },
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/titan-security-group/353923263〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/c/tnet-spa/405981279",
     "http_checked": false,
     "occurrences": [
@@ -84162,6 +84720,40 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/pic/profcon-ab/433716278",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L101"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/profcon-ab/433716278'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/profcon-ab/433716278〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/pic/rowe-networks/1132675586",
     "http_checked": false,
     "occurrences": [
@@ -84176,6 +84768,40 @@
       {
         "path": "profile/A/A-095-Rowe Networks-美国.md",
         "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/titan-security-group/353923263",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
+        "locator": "L415"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/titan-security-group/353923263'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/titan-security-group/353923263〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L85"
       }
     ]
   },

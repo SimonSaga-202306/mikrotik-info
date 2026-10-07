@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Titan Security Group / Marksman Security Corporation（美国）：安保服务巨头合并案（boutique national footprint）——安保服务+礼宾/前台+**Titan Electronics 电子安防线**+咨询培训；CSV：Allied Telesis（Marvell Prestera 接入层）在册
-- 【推断】Titan Electronics=楼宇监控/门禁工程线=摄像头柜 PoE 惯件
-- 【假设】全国性大客户楼宇=翻修滚动量
+- 【事实】Titan Security Group:Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
+- 【推断】R66 第 11 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,28 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：info@titan-security.com（经 marksman-titan.com 取得（Titan Security 现为 Marksman Titan）。具名：Todd Sheetz、Anthony Hernandez（VP））
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **David S. Pack**(President & CEO(家族企业二代;合并后继续 CEO))— PRNewswire 官方合并公告+Quad-C 投资公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
+  - **Mark Radi**(President(合并后高级领导组))— PRNewswire 官方合并公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
+  - **Zeke Kaufman**(CAO(合并后高级领导组))— PRNewswire 官方合并公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
+  - **Ross McCarthy**(Chief Human Resources Officer)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
+  - **Jason Sikora**(Chief Revenue Officer)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
+  - **Mark Apel**(President(分部))— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
+  - **Niko Jones**(President(分部))— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
+  - **Carlyle Clark**(Director, Compliance & SOC Operations(Great Lakes))— zoominfo 员工目录谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/titan-security-group/353923263〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| David S. Pack | President & CEO(家族企业二代;合并后继续 CEO) | PRNewswire 官方合并公告+Quad-C 投资公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
+| Mark Radi | President(合并后高级领导组) | PRNewswire 官方合并公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
+| Zeke Kaufman | CAO(合并后高级领导组) | PRNewswire 官方合并公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
+| Ross McCarthy | Chief Human Resources Officer | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
+| Jason Sikora | Chief Revenue Officer | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
+| Mark Apel | President(分部) | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
+| Niko Jones | President(分部) | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
+| Carlyle Clark | Director, Compliance & SOC Operations(Great Lakes) | zoominfo 员工目录谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/titan-security-group/353923263 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,35 +152,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：安保两大合并全国化；电子线在册
-- **②芯片/型号**：Allied Telesis
-- **③KP 深挖**：info@集团口
-- **④Saga 对标**：监控柜 value PoE
-- **⑤在乎与偏好**：集团流程表面档
+- **①背景再核**：Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：电子安防集成臂+全国合并谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Titan Security Group and Marksman Security Corporation Announce Strategic Merger…boutique security services provider with a national footprint…Titan Electronics”
-  > “Titan Security Group and Marksman Security Corporation Announce Strategic Merger…boutique security services provider with a national footprint…Titan Electronics”
-  > 来源：https://marksman-titan.com/
-- **【联系方式】**info@titan-security.com；双域 MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@titan-security.com；双域 MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://marksman-titan.com/
+- **【近期动态与线索】**Titan Security Group and Marksman Security Corporation Announce Strategic Merger(2024-09-16):Dave Pack as CEO, Mark Radi as President, and Zeke Kaufman as CAO will comprise the senior leadership team(PRNewswire 官方公告)
+  > Titan Security Group and Marksman Security Corporation Announce Strategic Merger(2024-09-16):Dave Pack as CEO, Mark Radi as President, and Zeke Kaufman as CAO will comprise the senior leadership team(PRNewswire 官方公告)
+  > 来源：https://www.securityinfowatch.com/
+- **【决策链与对接人】**David Pack President & CEO;Ross McCarthy CHRO;Jason Sikora CRO;Mark Apel President;Niko Jones President;Abigail Gualberto VP Talent Acquisition;5K-10K employees;$2B
+  > David Pack President & CEO;Ross McCarthy CHRO;Jason Sikora CRO;Mark Apel President;Niko Jones President;Abigail Gualberto VP Talent Acquisition;5K-10K employees;$2B
+  > 来源：https://www.zoominfo.com/c/titan-security-group/353923263
+- **【业务定位】**legal name Titan Prudential Security, LLC;funder Quad-C Management;started 1977 (Prudential);35,000 hours per week;1,000+ security staff;electronic security systems design/implementation/maintenance
+  > legal name Titan Prudential Security, LLC;funder Quad-C Management;started 1977 (Prudential);35,000 hours per week;1,000+ security staff;electronic security systems design/implementation/maintenance
+  > 来源：https://www.crunchbase.com/organization/titan-security-group
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国全国性安保集团（合并后生）
-- **产品线与在售品牌**：安保/礼宾/电子线+Allied Telesis
-- **目标行业与场景**：商业楼宇/场馆
-- **团队与规模**：全国性
-- **决策链与对接人**：info@ 口
-- **技术与认证**：工程整合
-- **采购与供应链信号**：全国项目随单
-- **近期动态与线索**：Titan+Marksman 合并公告
-- **与我方契合点**：Titan Electronics 监控柜 PoE
-- **风险与注意**：大集团采购流程
+- **业务定位**：Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国芝加哥安防服务巨头(电子集成臂)
+- **团队与规模**：5K-10K 人;$2B;1994 创;Quad-C 持
+- **决策链与对接人**：**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 11 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：巨头级:走 SOC/合规 Director 层窄口(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +198,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全国
-- **W**：流程
-- **O**：电子线
-- **T**：在位
+- **S**：电子安防集成臂+全国合并谱
+- **W**：巨头谱(决策链长;value 档窄位)
+- **O**：Pack/Radi/Kaufman 官方公告三金谱
+- **T**：大牌安防厂商链
 
 ## 触达与风险红线
 
@@ -203,7 +224,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -212,9 +233,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Electronics 线规模
-  - [ ] 项目点密度
-  - [ ] 采购结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +246,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Titan team,
+Hi Carlyle,
 
-A merged national security group with an electronics line means one thing operationally - a lot of camera closets that have to power up and stay up.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, Voice VLAN) as a value-tier complement for the Titan Electronics shelf. Reference: $180 USD EXW.
-
-One question: in a typical commercial building build, how many cameras land on one access cabinet for your team?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

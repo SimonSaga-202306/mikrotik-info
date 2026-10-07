@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Profcon AB（瑞典）：1960 年代末起家的工业技术集团——三品牌 Nova（Panel-PC/工业计算机/载荷传感/**网络与数据中心**）、OnControl（防火阀门/通风控制）、Siox（烟防火阀控制系统）；口号“När det måste fungera”；场景横跨医院/中国大坝/铁路站台信息牌（公共段多）/**国防载荷传感（红线！）**；2026-07 RELIO I/O 新模块、Calectro 烟感销售上线；CSV：Perle 工业 PoE 线
-- 【推断】Nova 的网络/数据中心线=其工业网沟通道；其“必须可用+超长生命周期”文化与我们的生命周期承诺同频
-- 【假设】国防件与健康公共段不触；民营工业自动化/机房段才是一台
+- 【事实】Profcon AB:Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
+- 【推断】R66 第 11 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,32 @@ updated: 2026-09-28
 - **电话**：+46 281 30600
 - **原始联系字段**：+46 281 30600 / info@profcon.se（Profcon 官网联系页；总部/销售同一邮箱。Perle 授权分销商）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Micael Andersson**(VD(CEO)+董事(受益所有权 25-50%))— bolagsfakta.se 登记册谱+DNB Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Ulf Gladh**(Styrelseordförande(董事长)+Owner(受益所有权谱))— bolagsfakta.se 登记册谱+LinkedIn 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Lars-Uno Olsson**(董事+受益所有权人(50-75%))— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Lars Olsson**(董事+受益所有权人(50-75%))— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Ingegerd Maria Jansson**(受益所有权人(50-75%))— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Owe Westerberg**(董事)— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
+  - **Anders Jansson**(Purchaser(采购 KPI 天位))— LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://se.linkedin.com/company/profcon-ab〕
+  - **Gennady Hamizevitsch**(Manager, Procurement(采购二线))— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/profcon-ab/433716278〕
+  - **Lars Lidmarck**(President & Founder(Profcon Electronics AB 合并前主体))— LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://se.linkedin.com/company/profcon-ab〕
+  - **Mats Koponen**(Software engineering)— LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://se.linkedin.com/company/profcon-ab〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Micael Andersson | VD(CEO)+董事(受益所有权 25-50%) | bolagsfakta.se 登记册谱+DNB Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Ulf Gladh | Styrelseordförande(董事长)+Owner(受益所有权谱) | bolagsfakta.se 登记册谱+LinkedIn | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Lars-Uno Olsson | 董事+受益所有权人(50-75%) | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Lars Olsson | 董事+受益所有权人(50-75%) | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Ingegerd Maria Jansson | 受益所有权人(50-75%) | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Owe Westerberg | 董事 | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
+| Anders Jansson | Purchaser(采购 KPI 天位) | LinkedIn 自署 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://se.linkedin.com/company/profcon-ab |
+| Gennady Hamizevitsch | Manager, Procurement(采购二线) | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/profcon-ab/433716278 |
+| Lars Lidmarck | President & Founder(Profcon Electronics AB 合并前主体) | LinkedIn 自署 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://se.linkedin.com/company/profcon-ab |
+| Mats Koponen | Software engineering | LinkedIn 自署 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://se.linkedin.com/company/profcon-ab |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,38 +160,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：60 年工业集团三牌；消防阀控为骨干，Nova 网络线是对口入口
-- **②芯片/型号**：Perle 在册（CSV）
-- **③KP 深挖**：info@；电话并行
-- **④Saga 对标**：温宽 PoE 生命周期补位（避国防/公共）
-- **⑤在乎与偏好**：必须可用+超长期支持
+- **①背景再核**：Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：60 年工控分销+自有牌
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“När det måste fungera…Nova: industridatorer, Panel-PC, lastceller samt lösningar för nätverk och datacenter”
-  > “När det måste fungera…Nova: industridatorer, Panel-PC, lastceller samt lösningar för nätverk och datacenter”
-  > 来源：https://www.profcon.se/
-- **【近期动态】**“RELIO – ny flexibel I/O-modul för Siox（2026-07）+Nu säljer vi Calectros rökdetektor UG8-O（2026-06）”
-  > “RELIO – ny flexibel I/O-modul för Siox（2026-07）+Nu säljer vi Calectros rökdetektor UG8-O（2026-06）”
-  > 来源：https://www.profcon.se/nyheter
-- **【风险与注意】**“lastceller till försvaret”（国防载荷传感——红线不涉）
-  > “lastceller till försvaret”（国防载荷传感——红线不涉）
-  > 来源：https://www.profcon.se/
+- **【决策链与对接人】**VD för Profcon AB är Micael Andersson och styrelseordförande är Ulf Gladh;Styrelsen: Lars-Uno Olsson/Owe Westerberg/Lars Olsson/Micael Andersson;Verklig huvudman: Ingegerd Maria Jansson/Lars Olsson/Lars-Uno Olsson (50-75%)/Micael Andersson (25-50%)
+  > VD för Profcon AB är Micael Andersson och styrelseordförande är Ulf Gladh;Styrelsen: Lars-Uno Olsson/Owe Westerberg/Lars Olsson/Micael Andersson;Verklig huvudman: Ingegerd Maria Jansson/Lars Olsson/Lars-Uno Olsson (50-75%)/Micael Andersson (25-50%)
+  > 来源：https://www.bolagsfakta.se/5565787024-Profcon_AB
+- **【团队与规模】**Employees: Ulf Gladh Owner;Anders Jansson Purchaser;Mats Koponen Software engineering;Lars Lidmarck President and founder at Profcon Electronics AB;17 anställda (2024)
+  > Employees: Ulf Gladh Owner;Anders Jansson Purchaser;Mats Koponen Software engineering;Lars Lidmarck President and founder at Profcon Electronics AB;17 anställda (2024)
+  > 来源：https://se.linkedin.com/company/profcon-ab
+- **【业务定位】**Profcon AB today consists of the merged companies Profcon Electronics AB and Telefrang AB;I/O-Systems/Smoke Control/Industrial computers/Network and communication products;SIOX Solutions and OnControl registered trademarks;founded 1966
+  > Profcon AB today consists of the merged companies Profcon Electronics AB and Telefrang AB;I/O-Systems/Smoke Control/Industrial computers/Network and communication products;SIOX Solutions and OnControl registered trademarks;founded 1966
+  > 来源：https://se.linkedin.com/company/profcon-ab
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞典 60 年工业技术集团（Nova/OnControl/Siox 三牌）
-- **产品线与在售品牌**：工业 PC/Panel-PC/传感/网络件+Perle
-- **目标行业与场景**：民营工业/能源/机房（医院/国防/铁路段不触）
-- **团队与规模**：工业集团三品牌
-- **决策链与对接人**：info@ 口
-- **技术与认证**：生命周期与“必须可用”文化
-- **采购与供应链信号**：项目型分销
-- **近期动态与线索**：2026-07 RELIO I/O 新模块+2026-06 Calectro UG8-O 烟感开卖
-- **与我方契合点**：Nova 网络线温宽 PoE 补位
-- **风险与注意**：国防红线/公共段边界
+- **业务定位**：Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：瑞典工控电子/网通件分销(自有双牌)
+- **团队与规模**：17 人;1966 创;60 年谱
+- **决策链与对接人**：**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 11 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：VD+董事长登记册金谱+采购双谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +206,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：信誉
-- **W**：红线段
-- **O**：Nova 线
-- **T**：在位盘
+- **S**：60 年工控分销+自有牌
+- **W**：小实体(17 人)
+- **O**：Anders Jansson 采购 KPI 直达位
+- **T**：大牌工控件链竞谱
 
 ## 触达与风险红线
 
@@ -206,7 +228,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -215,9 +237,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Nova 网络线 PoE 位
-  - [ ] 民营段项目量
-  - [ ] 生命周期门槛
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -229,18 +250,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Profcon team,
+Hej Micael,
 
-"När det måste fungera" - products that outlive a couple of renames - that is exactly the lifecycle culture our switches are built for.
-
-We build industrial managed PoE switches rated -40 to 75C with a hardware watchdog and multi-year supply commitments - a natural fit beside the Nova networking line. Reference: $74.8 USD EXW. (We stay strictly within civilian industrial projects.)
-
-One question: within the Nova networking portfolio, who supplies the industrial PoE layer today?
-
-If useful, I can send one unit with the full temperature test documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

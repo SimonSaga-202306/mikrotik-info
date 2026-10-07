@@ -1,0 +1,519 @@
+{
+ "date": "2026-10-08",
+ "wave": "R66 第 11 波:Profcon(SE 登记册双金谱+采购)+Microstar PL(具名直邮)+Titan US(官方合并公告三金谱)+VELOCIgroup(守档)四户",
+ "scope": "SE/PL/US/DK 谱;Microstar 同名噪声排录;Titan=巨头谱窄口;VELOCIgroup CVR 点名",
+ "records": [
+  {
+   "customer": "A-081",
+   "fact": "Profcon AB:Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se",
+   "inference": "R66 第 11 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.bolagsfakta.se/5565787024-Profcon_AB",
+   "tech": "(波次二补)",
+   "hr": "17 人;1966 创;60 年谱",
+   "contact_found": "**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "瑞典工控电子/网通件分销(自有双牌)",
+    "团队与规模": "17 人;1966 创;60 年谱",
+    "决策链与对接人": "**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 11 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "VD+董事长登记册金谱+采购双谱(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "VD för Profcon AB är Micael Andersson och styrelseordförande är Ulf Gladh;Styrelsen: Lars-Uno Olsson/Owe Westerberg/Lars Olsson/Micael Andersson;Verklig huvudman: Ingegerd Maria Jansson/Lars Olsson/Lars-Uno Olsson (50-75%)/Micael Andersson (25-50%)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Employees: Ulf Gladh Owner;Anders Jansson Purchaser;Mats Koponen Software engineering;Lars Lidmarck President and founder at Profcon Electronics AB;17 anställda (2024)",
+     "source": "https://se.linkedin.com/company/profcon-ab"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Profcon AB today consists of the merged companies Profcon Electronics AB and Telefrang AB;I/O-Systems/Smoke Control/Industrial computers/Network and communication products;SIOX Solutions and OnControl registered trademarks;founded 1966",
+     "source": "https://se.linkedin.com/company/profcon-ab"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "60 年工控分销+自有牌",
+     "⑥SWOT": "S 60 年工控分销+自有牌 / W 小实体(17 人) / O Anders Jansson 采购 KPI 直达位 / T 大牌工控件链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "60 年工控分销+自有牌",
+     "W": "小实体(17 人)",
+     "O": "Anders Jansson 采购 KPI 直达位",
+     "T": "大牌工控件链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 11 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Micael Andersson",
+     "role": "VD(CEO)+董事(受益所有权 25-50%)",
+     "contact": "bolagsfakta.se 登记册谱+DNB Key Principal",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Ulf Gladh",
+     "role": "Styrelseordförande(董事长)+Owner(受益所有权谱)",
+     "contact": "bolagsfakta.se 登记册谱+LinkedIn",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Lars-Uno Olsson",
+     "role": "董事+受益所有权人(50-75%)",
+     "contact": "bolagsfakta.se 登记册谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Lars Olsson",
+     "role": "董事+受益所有权人(50-75%)",
+     "contact": "bolagsfakta.se 登记册谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Ingegerd Maria Jansson",
+     "role": "受益所有权人(50-75%)",
+     "contact": "bolagsfakta.se 登记册谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Owe Westerberg",
+     "role": "董事",
+     "contact": "bolagsfakta.se 登记册谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "name": "Anders Jansson",
+     "role": "Purchaser(采购 KPI 天位)",
+     "contact": "LinkedIn 自署",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://se.linkedin.com/company/profcon-ab"
+    },
+    {
+     "name": "Gennady Hamizevitsch",
+     "role": "Manager, Procurement(采购二线)",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/profcon-ab/433716278"
+    },
+    {
+     "name": "Lars Lidmarck",
+     "role": "President & Founder(Profcon Electronics AB 合并前主体)",
+     "contact": "LinkedIn 自署",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://se.linkedin.com/company/profcon-ab"
+    },
+    {
+     "name": "Mats Koponen",
+     "role": "Software engineering",
+     "contact": "LinkedIn 自署",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://se.linkedin.com/company/profcon-ab"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hej Micael,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-082",
+   "fact": "Microstar sp. z o. o:Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)",
+   "inference": "R66 第 11 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.atto.com/microstar-sp-z-o-o/",
+   "tech": "(波次二补)",
+   "hr": "(KRS 谱波次二补)",
+   "contact_found": "**Piotr Pieczerak(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "波兰华沙电脑/网通件批发商",
+    "团队与规模": "(KRS 谱波次二补)",
+    "决策链与对接人": "**Piotr Pieczerak(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 11 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Pieczerak 具名直邮(leads-only;opt-in 律);KRS 反查点名"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Microstar sp. z o.o., Gizów 6, 01-249 Warsaw, Poland;Tel: +48 22 836-52-73;Email: piotr.pieczerak@microstar.com.pl(ATTO Technology 分销名录页)",
+     "source": "https://www.atto.com/microstar-sp-z-o-o/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "MICROSTAR — Gizów 6, 01-249 Warszawa(Wola);22 836 52 73;Computers(名录口径一致)",
+     "source": "https://www.yelp.com/biz/microstar-warszawa"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-08 R66 11 波:身份锁定=华沙 microstar.com.pl 本体(巴西/美同名件排录);波次二=波兰 KRS/CEIDG 登记册按号反查董事层",
+     "source": "https://ekrs.ms.gov.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Microstar sp. z o.o.(波兰 Warszawa,Gizów 6, 01-249;+48 22 836 52 73;传真 +48 22 836 53 78;microstar.com.pl 波兰电脑/电子批发档;ATTO Technology 波兰分销名录页具名联系人;排噪:巴西 Microstar(CB Insights,圣保罗维修)/丹麦 Microstar Logistics(美 Keg 物流)/波兰 Agrosimex 肥料 Microstar Complex 均非本体)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Piotr Pieczerak(具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "具名直邮已获(Pieczerak)",
+     "⑥SWOT": "S 具名直邮已获(Pieczerak) / W 实体规模谱面薄 / O KRS 登记册反查可破 / T 同名噪声高"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "具名直邮已获(Pieczerak)",
+     "W": "实体规模谱面薄",
+     "O": "KRS 登记册反查可破",
+     "T": "同名噪声高"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 11 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Piotr Pieczerak",
+     "role": "具名联系人(ATTO 分销名录口径;直邮 piotr.pieczerak@microstar.com.pl)",
+     "contact": "atto.com 分销名录页具名+直邮",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.atto.com/microstar-sp-z-o-o/"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Piotr,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-092",
+   "fact": "Titan Security Group:Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)",
+   "inference": "R66 第 11 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.securityinfowatch.com/",
+   "tech": "(波次二补)",
+   "hr": "5K-10K 人;$2B;1994 创;Quad-C 持",
+   "contact_found": "**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国芝加哥安防服务巨头(电子集成臂)",
+    "团队与规模": "5K-10K 人;$2B;1994 创;Quad-C 持",
+    "决策链与对接人": "**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 11 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "巨头级:走 SOC/合规 Director 层窄口(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态与线索",
+     "quote": "Titan Security Group and Marksman Security Corporation Announce Strategic Merger(2024-09-16):Dave Pack as CEO, Mark Radi as President, and Zeke Kaufman as CAO will comprise the senior leadership team(PRNewswire 官方公告)",
+     "source": "https://www.securityinfowatch.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "David Pack President & CEO;Ross McCarthy CHRO;Jason Sikora CRO;Mark Apel President;Niko Jones President;Abigail Gualberto VP Talent Acquisition;5K-10K employees;$2B",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "legal name Titan Prudential Security, LLC;funder Quad-C Management;started 1977 (Prudential);35,000 hours per week;1,000+ security staff;electronic security systems design/implementation/maintenance",
+     "source": "https://www.crunchbase.com/organization/titan-security-group"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "电子安防集成臂+全国合并谱",
+     "⑥SWOT": "S 电子安防集成臂+全国合并谱 / W 巨头谱(决策链长;value 档窄位) / O Pack/Radi/Kaufman 官方公告三金谱 / T 大牌安防厂商链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "电子安防集成臂+全国合并谱",
+     "W": "巨头谱(决策链长;value 档窄位)",
+     "O": "Pack/Radi/Kaufman 官方公告三金谱",
+     "T": "大牌安防厂商链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 11 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "David S. Pack",
+     "role": "President & CEO(家族企业二代;合并后继续 CEO)",
+     "contact": "PRNewswire 官方合并公告+Quad-C 投资公告引语",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.prnewswire.com/"
+    },
+    {
+     "name": "Mark Radi",
+     "role": "President(合并后高级领导组)",
+     "contact": "PRNewswire 官方合并公告引语",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.prnewswire.com/"
+    },
+    {
+     "name": "Zeke Kaufman",
+     "role": "CAO(合并后高级领导组)",
+     "contact": "PRNewswire 官方合并公告引语",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.prnewswire.com/"
+    },
+    {
+     "name": "Ross McCarthy",
+     "role": "Chief Human Resources Officer",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "name": "Jason Sikora",
+     "role": "Chief Revenue Officer",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "name": "Mark Apel",
+     "role": "President(分部)",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "name": "Niko Jones",
+     "role": "President(分部)",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "name": "Carlyle Clark",
+     "role": "Director, Compliance & SOC Operations(Great Lakes)",
+     "contact": "zoominfo 员工目录谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/titan-security-group/353923263"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Carlyle,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-094",
+   "fact": "VELOCIgroup ApS:VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)",
+   "inference": "R66 第 11 波守档(谱面薄)",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.yelp.com/biz/velocigroup-roskilde",
+   "tech": "(波次二补)",
+   "hr": "(CVR 谱波次二补)",
+   "contact_found": "**守档准由;R66 波次二点名**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "丹麦 Roskilde 电脑类 ApS(谱面薄)",
+    "团队与规模": "(CVR 谱波次二补)",
+    "决策链与对接人": "**守档准由;R66 波次二点名**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 11 波守档",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "守档:身份=Roskilde Jernbanegade 23B 本体已锁;R66 波次二点名(CVR 反查)"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "VELOCIGROUP — Jernbanegade 23B, c/o Businesshouse, 4000 Roskilde, Denmark(Computers)",
+     "source": "https://www.yelp.com/biz/velocigroup-roskilde"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-08 R66 11 波:守档;波次二=丹麦 CVR 登记册(virk.dk)按名反查,补董事层+注册号",
+     "source": "https://virk.dk/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "(CVR 谱波次二补);ApS=丹麦私营有限责任公司形态",
+     "source": "https://virk.dk/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "VELOCIgroup ApS(丹麦 Roskilde,Jernbanegade 23B c/o Businesshouse, 4000;2026-10-08 R66 第 11 波:公开面仅 Yelp 地址件锁 Denmark Roskilde 本体(Computers 类);人名谱零命中)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**守档准由;R66 波次二点名**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "CSV 已有谱名+地址锁",
+     "⑥SWOT": "S CSV 已有谱名+地址锁 / W 谱面极薄(Yelp 独件) / O CVR 登记册反查可破 / T 零人名命中"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "CSV 已有谱名+地址锁",
+     "W": "谱面极薄(Yelp 独件)",
+     "O": "CVR 登记册反查可破",
+     "T": "零人名命中"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 11 波谱面薄"
+   },
+   "kp": [],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

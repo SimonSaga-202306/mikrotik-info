@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `c1bc3595a100` | 2026-10-07T16:31:25+00:00 | KP 全覆盖核:退信 watch(A-441 dipole)+merge_kp 并集防吞名+A74/B93 户 0 缺名分标 0 错+总账 |
 | `0921cfa70baa` | 2026-10-07T16:19:46+00:00 | R66 第 10 波:Aikom/Direktronik/AGL 三户具名 KP+CSI 排噪守档+总账 |
 | `da33c30d359f` | 2026-10-07T16:15:17+00:00 | R66 第 9 波:Esotec/Roadtech/Senseco/Griffon 四户具名 KP(英 CH 军官名件+美谱)+总账 |
 | `8dd10a3fb54a` | 2026-10-07T16:10:24+00:00 | R66 第 7-8 波:8 户具名 KP 落盘(VARIA/DECOIT/SKYTRON/Sarlin/FMS-shop/ATEC/Switchshop+Electromaster 守档)+规格件落联系方式段(已有/猜测分标)+总账 |
