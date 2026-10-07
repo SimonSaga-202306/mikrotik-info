@@ -1,0 +1,406 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 2 批(无邮箱户精修层)",
+ "scope": "B-200/B-295/B-340/B-421 —— 无邮箱 4 户:R64 KP + 公开登记/官网/集团页补",
+ "discipline": "guessed 邮箱 leads-only 不进群发;CSV 入口字段不动;STRUCT email 保持 null(生成器锁步);第一候选仅驻 profile KP 表",
+ "records": [
+  {
+   "code": "B-200",
+   "researched_on": "2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 捷克团队页/登记补)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口",
+    "inference": "集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理",
+    "hypothesis": "开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准"
+   },
+   "dimensions": {
+    "背景深描": "OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic 等 30+ 供应商捷克区授权;捷克 Red Lion 工业交换/HMI 线在位=谱内接口真实;OEM Automatic 集团四国(CZ/SE/UK/NA)协同",
+    "芯片与在用型号": "【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理",
+    "关键人KP": "（见 R64 KP 猎捕节/本档 KP 表）",
+    "关注点与资质": "N-Tron + Red Lion | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:集团背书(见 B-295) / W:区域执行体,开口权在集团 / O:随集团开口果自动受惠 / T:双头开口自乱",
+    "Saga产品适配": "集团系从属档:同 B-295 模板备信,实际开口走 CSV 既定『华沙一口覆盖 SE/PL/CZ』路径,不双头"
+   },
+   "swot_text": "- **S**:集团背书(见 B-295)\n- **W**:区域执行体,开口权在集团\n- **O**:随集团开口果自动受惠\n- **T**:双头开口自乱",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "波兰分公司已在名单第73行:+48 22 863 27 22 / info@oemautomatic.pl(Antaira 授权)→ 从华沙打进去一次覆盖 SE/PL/CZ",
+     "quote": "波兰分公司已在名单第73行:+48 22 863 27 22 / info@oemautomatic.pl(Antaira 授权)→ 从华沙打进去一次覆盖 SE/PL/CZ",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线",
+     "quote": "B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线",
+     "url": "batch/B类深挖_2026-09-29_R57-BC_第9波.json#B-295"
+    },
+    {
+     "dim": "R64 团队页自曝",
+     "text": "Jan Drlík = Ředitel společnosti(董事)+420 241 484 940;Jakub Hanousek = Product Area Manager Machine/Safety/Electronics/Railway(产品口对口);Ilona Kulhánková 供应商订单/物流;Adam Stoklasa 商技代表",
+     "quote": "Jan Drlík Ředitel společnosti +420 241 484 940 … Jakub Hanousek Product Area Manager - Machine, Safety, Electronics, Railway … Ilona Kulhánková Správa dodavatelských objednávek",
+     "url": "https://www.oemautomatic.cz/kontakty/nas-tym"
+    },
+    {
+     "dim": "R64 商业登记",
+     "text": "IČO 438 75 416,1991 创立,Zdiby;Jan Drlík 董事实名名录",
+     "quote": "OEM Automatic, spol. s r.o., Pražská 239, 250 66 Zdiby … IČO: 438 75 416 … Založeno: 1991 … Jan Drlík ředitel společnosti",
+     "url": "https://www.info-cechy.cz/eig-oem-automatic/index.html"
+    },
+    {
+     "dim": "R64 域名核验",
+     "text": "oemautomatic.cz 无 MX(NoAnswer)=无自曝函数邮箱;oemautomatic.se MX outlook 存活,母集团函数邮箱 info@oemautomatic.se 唯一可用直通道",
+     "quote": "(dnspython 实测 2026-10-07)oemautomatic.cz → FAIL:NoAnswer;oemautomatic.se → outlook MX",
+     "url": "(本地 dnspython 实测记录)"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jan Drlík",
+     "role": "Ředitel společnosti(公司董事)+420 241 484 940",
+     "contact": "—",
+     "status": "—",
+     "source": "https://www.info-cechy.cz/eig-oem-automatic/index.html"
+    },
+    {
+     "name": "Jakub Hanousek",
+     "role": "Product Area Manager Machine/Safety/Electronics/Railway(产品口对",
+     "contact": "—",
+     "status": "—",
+     "source": "https://www.oemautomatic.cz/kontakty/nas-tym"
+    }
+   ],
+   "unknowns56": [
+    "捷克站采购自主度(集团 or 本地)",
+    "CZ 客层与 PL 站的分工"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准",
+     "question": "(集团开口后)CZ 站 N-Tron 旁 value DIN 轨位",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-295",
+   "researched_on": "2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 瑞典官网个人页/MyNews 自曝补)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**",
+    "inference": "北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)",
+    "hypothesis": "开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动"
+   },
+   "dimensions": {
+    "背景深描": "OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson VD 自曝(MyNews+官网个人页),4 市分部(Malmö/Stockholm/Göteborg/Umeå);产品线对口=电柜组件(Elskåpskomponenter,Red Lion/工业交换线在同集团旗下 Czech 分);info@oemautomatic.se 函数邮箱公开+MX outlook 存活;技术/产品/市场/采购/仓层分职能目录",
+    "芯片与在用型号": "【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)",
+    "关键人KP": "Jens Kjellsson(VD,jens.kjellsson@oemautomatic.se,076-527 82 80,自曝);Nils Svensson(电柜组件产品线经理,nils.svensson@oemautomatic.se);集团 Czech 分部 Jan Drlík 借 B-200",
+    "关注点与资质": "N-Tron + Red Lion ",
+    "优缺点SWOT": "S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / O:value DIN 轨位或自有谱 OEM 代工(CSV 已点) / T:N-Tron/Red Lion 排他",
+    "Saga产品适配": "北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)"
+   },
+   "swot_text": "- **S**:40 年巨头+3 万 SKU 仓+六大域+自有开发线\n- **W**:谱大决策层多\n- **O**:value DIN 轨位或自有谱 OEM 代工(CSV 已点)\n- **T**:N-Tron/Red Lion 排他",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "one of the leading suppliers of industrial automation components in Europe…Höganloft logistics center in Tranås…over 30,000 items as standar",
+     "quote": "one of the leading suppliers of industrial automation components in Europe…Höganloft logistics center in Tranås…over 30,000 items as standard, deliver over 300,000 order lines each year",
+     "url": "https://www.oemautomatic.se/om-oss/in-english"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)",
+     "quote": "Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)",
+     "url": "https://www.oemautomatic.se/"
+    },
+    {
+     "dim": "R65 瑞典 VD 自曝",
+     "text": "Jens Kjellsson VD,jens.kjellsson@oemautomatic.se,076-527 82 80——MyNews+官网个人页双源自曝",
+     "quote": "Jens Kjellsson VD OEM Automatic AB jens.kjellsson@oemautomatic.se 076-527 82 80",
+     "url": "https://www.mynewsdesk.com/se/oemautomatic/contact_people"
+    },
+    {
+     "dim": "R65 瑞典母函数",
+     "text": "info@oemautomatic.se + 075-242 41 00 + Org.nr 556187-1012 + Dalagatan 4 573 42 Tranås 自曝",
+     "quote": "OEM Automatic Sverige AB Box 1011 573 28 Tranås 075-242 41 00 info@oemautomatic.se Org.nr: 556187-1012",
+     "url": "https://www.oemautomatic.se/kontakt/personal"
+    },
+    {
+     "dim": "R65 产品口对口",
+     "text": "电柜组件(Elskåpskomponenter)线=Red Lion/工业交换同集团对口,Nils Svensson 为产品线经理",
+     "quote": "Nils Svensson Produktansvarig Elskåpskomponenter nils.svensson@oemautomatic.se 076-527 81 95",
+     "url": "https://www.mynewsdesk.com/se/oemautomatic/contact_people"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jens Kjellsson",
+     "role": "VD OEM Automatic AB(董事总经理)",
+     "contact": "jens.kjellsson@oemautomatic.se / 076-527 82 80",
+     "status": "official-self-published(Mynewsdesk+官网个人页双自曝)",
+     "source": "https://www.mynewsdesk.com/se/oemautomatic/contact_people + oemautomatic.se/kontakt/personal"
+    },
+    {
+     "name": "Nils Svensson",
+     "role": "Produktansvarig Elskåpskomponenter(电柜组件产品线经理=Red Lion/工业交换对口)",
+     "contact": "nils.svensson@oemautomatic.se",
+     "status": "official-self-published",
+     "source": "https://www.mynewsdesk.com/se/oemautomatic/contact_people"
+    },
+    {
+     "name": "Andreas Friberg",
+     "role": "Produktansvarig Maskin(机械设备产品线经理)",
+     "contact": "andreas.friberg@oemautomatic.se / 076-527 84 27",
+     "status": "official-self-published",
+     "source": "同 Mynewsdesk"
+    }
+   ],
+   "unknowns56": [
+    "捷克子(B-200)vs 瑞典母(本户)谱权边界——Drlík 与 Kjellsson 区域/产品线分层",
+    "Produktförädling 线现状与 OEM 代工开放度",
+    "N-Tron 在架价位带"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 双案页(value 位 vs OEM 代工)",
+     "push": "STI-288GP",
+     "angle": "开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动",
+     "question": "你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@oemautomatic.pl(波兰分公司,CSV 已存联系人)开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动",
+     "question": "你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动",
+     "question": "你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi OEM Automatic team,\n\nForty years, six product areas, thirty thousand stocked SKUs at Höganloft - and a Produktförädling line that says you shape products yourselves, not just move boxes.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29). Two placements: as the value-side DIN-rail source beside your industrial-communication shelf, or as an OEM basis under your Produktförädling product line.\n\nOne question: beside the N-Tron shelf, is there a documented value DIN-rail slot - and would your own development line evaluate an OEM unit?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-340",
+   "researched_on": "2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + DnB/tED/RocketReach 源)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出\"Your Authorized Distributor\")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller",
+    "inference": "纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位",
+    "hypothesis": "自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档"
+   },
+   "dimensions": {
+    "背景深描": "Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales&Marketing 共管;38 员工;Moxa 官方授权+ABB/Eaton Cutler-Hammer/IDEC/Hammond/Puls/Datalogic/Honeywell/Ferraz 在架;价锚透明:Moxa EDS-G512E-4GSFP $1,399 / EDS-G516E $1,749 页面印刷价",
+    "芯片与在用型号": "【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位",
+    "关键人KP": "（见 R64 KP 猎捕节/本档 KP 表）",
+    "关注点与资质": "Moxa 授权分销商，Moxa SDS-3008 系列工业智能交换机用户手册扉页标注其为 Authorized Distributor | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:电气/自动化深谱+价锚透明 / W:Moxa 铁忠+厂牌框架固化 / O:STI-288GP 入非主环路岗位 DIN 轨空档 / T:Moxa 厂方制圈导账期/让利",
+    "Saga产品适配": "Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口"
+   },
+   "swot_text": "- **S**:电气/自动化深谱+价锚透明\n- **W**:Moxa 铁忠+厂牌框架固化\n- **O**:STI-288GP 入非主环路岗位 DIN 轨空档\n- **T**:Moxa 厂方制圈导账期/让利",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Your Authorized Distributor is: Controller Service and Sales…(800)584-5565",
+     "quote": "Your Authorized Distributor is: Controller Service and Sales…(800)584-5565",
+     "url": "https://www.controllerservice.com/content/downloads/moxa/user_manual/Moxa_Industrial_Smart_Ethernet_UM_e1.0.pdf"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea",
+     "quote": "MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea",
+     "url": "https://www.controllerservice.com/index.jsp?path=home&pgl=false"
+    },
+    {
+     "dim": "R64 DnB 实名",
+     "text": "Key Principal MARK M O'DAY(President),Avon MA,(800)584-5565",
+     "quote": "Key Principal: MARK M O'DAY … Controller Service & Sales Co., Inc. is located at 13 Robbie Rd Avon, MA",
+     "url": "https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html"
+    },
+    {
+     "dim": "R64 三代家族",
+     "text": "Mark 2005 至今;父 Bob O'Day 1951-2005;兄弟 Scott O'Day VP S&M;Michael Sandonato 销市总监;Jim Long Corporate Controller;38 员工",
+     "quote": "Mark O'Day (President) | Scott O'Day (VP Sales and Marketing) | Jim Long (Corporate Controller) … 38 employees … company president since 2005 … late father Bob O'Day 1951 to 2005",
+     "url": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae"
+    },
+    {
+     "dim": "R64 管理层访谈",
+     "text": "Mark O'Day tED 2014 访谈:收购战略/家族血脉公开口径",
+     "quote": "Mark and his brother Scott share management responsibilities … family owned … founded by his grandfather in 1926",
+     "url": "https://tedmag.com/instant-message-qa-with-controller-services-mark-oday/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Mark O'Day",
+     "role": "President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA)",
+     "contact": "mark@controllerservice.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.controller_service__sale"
+    },
+    {
+     "name": "Scott O'Day",
+     "role": "VP Sales and Marketing(兄弟共管)",
+     "contact": "scott@controllerservice.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae"
+    },
+    {
+     "name": "Jim Long",
+     "role": "Corporate Controller",
+     "contact": "jim@controllerservice.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "同 RocketReach 源"
+    }
+   ],
+   "unknowns56": [
+    "在架 Moxa SDS-3008(unmanaged value 段）与 EDS 的中空价值区间位置",
+    "电气柜侧哪些子件（ABB/IDEC/Hammond）的装里 PoE 点最多"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 对比表 STI-288GP vs Moxa SDS-3008（价/温宽/口数）一页",
+     "push": "STI-288GP",
+     "angle": "自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档",
+     "question": "你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+10 · 样机+冷热启动测试包",
+     "push": "STI-288GP",
+     "angle": "自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档",
+     "question": "你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 无果归档观察",
+     "push": "STI-288GP",
+     "angle": "自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档",
+     "question": "你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Controller Service team,\n\nAuthorized ABB/Eaton/IDEC/Moxa on one wall - that's a control cabinet distribution DNA we recognize. Not every PoE endpoint in those cabinets deserves a four-figure switch.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built exactly for the auxiliary PoE runs next to your Moxa backbone lines.\n\nOne question: for the non-ring, auxiliary PoE endpoints in your control cabinet projects, which value-side switch are you standardizing on today?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-421",
+   "researched_on": "2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + CH/GlobalDatabase 补)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk)",
+    "inference": "工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动",
+    "hypothesis": "开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体"
+   },
+   "dimensions": {
+    "背景深描": "Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk)MX outlook 存活;Ybet Haydeé Sánchez Vargas de Pattison 唯一登记董事(2014 至今,1975-06 生);Martin Pattison 销市经理/Franco Sanchez 销售主管/Kimberly Pinillos GM,GlobalDatabase 全自曝",
+    "芯片与在用型号": "【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动",
+    "关键人KP": "（见 R64 KP 猎捕节/本档 KP 表）",
+    "关注点与资质": "EtherWAN 英国分销商（同时在西班牙及拉美多国分销）；站点按品牌建档，主营工业自动化供货 | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:双工业牌已带+11 国跨区域+大目录 / W:第三家工业交换品牌教育成本 / O:value DIN 轨第三源+拉美价差带 / T:EtherWAN 排他条款",
+    "Saga产品适配": "EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)"
+   },
+   "swot_text": "- **S**:双工业牌已带+11 国跨区域+大目录\n- **W**:第三家工业交换品牌教育成本\n- **O**:value DIN 轨第三源+拉美价差带\n- **T**:EtherWAN 排他条款",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Distributor of Etherwan in UK…Hirschmann industrial connectivity solutions: industrial Ethernet switches, M12 connectors, industrial network",
+     "quote": "Distributor of Etherwan in UK…Hirschmann industrial connectivity solutions: industrial Ethernet switches, M12 connectors, industrial networking systems",
+     "url": "https://www.pymatek.co.uk/manufacturers/542-etherwan/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Distributor of Etherwan in UK, Perú, Bolivia, España, Colombia, México, Ecuador, Chile, Argentina, Uruguay, Paraguay",
+     "quote": "Distributor of Etherwan in UK, Perú, Bolivia, España, Colombia, México, Ecuador, Chile, Argentina, Uruguay, Paraguay",
+     "url": "https://www.pymatek.co.uk/manufacturers/542-etherwan/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron",
+     "quote": "PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron",
+     "url": "https://www.pymatek.us/"
+    },
+    {
+     "dim": "R64 CH 实名",
+     "text": "PYMATEK AUTOMATION LTD CH 09293772,2014-11-04 注册,Rugeley WS15 1UZ;Ybet SÁNCHEZ VARGAS DE PATTISON 唯一现任董事",
+     "quote": "PYMATEK AUTOMATION LTD. Company number: 09293772 … Incorporated on 4 November 2014 … Directors: 1 … Mrs. Ybet Haydee Sanchez Vargas De Pattison 04 Nov 2014",
+     "url": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation"
+    },
+    {
+     "dim": "R64 团队层自曝",
+     "text": "pymatek.com 域内:Ybet(Director)/Franco Sanchez(Jefe De Ventas)/Martin Pattison(Sales Manager)/Lucero Vaenzuela(Admin Asst)/Kimberly Pinillos(Gerente General)",
+     "quote": "Ybet Sanchez Vargas De Pattison Director … Franco Sanchez Jefe De Ventas … Martin Pattison Sales Manager … Kimberly Pinillos Gerente General … @pymatek.com",
+     "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd"
+    },
+    {
+     "dim": "R64 域名核正",
+     "text": "CSV 网站=pymatek.co.uk(名录口径),实际职能域=pymatek.com(全员邮箱挂 pymatek.com),MX outlook 存活——候选挂 pymatek.com 系",
+     "quote": "(GlobalDatabase 员工邮箱全挂 ****@pymatek.com)",
+     "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ybet Sánchez Vargas de Pattison",
+     "role": "Director(2014 至今,唯一登记董事)",
+     "contact": "ybet@pymatek.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation"
+    },
+    {
+     "name": "Martin Pattison",
+     "role": "Sales Manager",
+     "contact": "martin@pymatek.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://uk.globaldatabase.com/company/pymatek-automation-ltd"
+    },
+    {
+     "name": "Franco Sanchez",
+     "role": "Jefe De Ventas",
+     "contact": "franco@pymatek.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "同 GlobalDatabase 源"
+    }
+   ],
+   "unknowns56": [
+    "EtherWAN/Hirschmann 在谱价位带(其客户价值缺口在哪)",
+    "拉美 11 国站的 value 件需求真实量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 双牌对位表+拉美 value 带提案",
+     "push": "STI-288GP",
+     "angle": "开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体",
+     "question": "你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@pymatek.co.uk 开口(西英双版)",
+     "push": "STI-288GP",
+     "angle": "开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体",
+     "question": "你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体",
+     "question": "你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Pymatek team,\n\nEtherWAN and Hirschmann on the same industrial shelf, plus plain-Spanish channels into eleven Latin American markets - you already run two premium industrial Ethernet names, and you know exactly where the budget-constrained projects walk away.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side third source beside your premium pair, fully open to an OEM variant under your terms.\n\nOne question: for your EtherWAN/Hirschmann buyers with tight project budgets - especially in Latin America - is there a documented value-side DIN-rail source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

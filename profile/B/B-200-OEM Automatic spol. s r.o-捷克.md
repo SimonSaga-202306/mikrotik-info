@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV …
+- **是谁**：OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 集团系从属档:同 B-295 模板备信,实际开口走 CSV 既定『华沙一口覆盖 SE/PL/CZ』路径,不双头；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion)
+- 【事实】OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口
 - 【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理
 - 【假设】开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic 等 30+ 供应商捷克区授权;捷克 Red Lion 工业交换/HMI 线在位=谱内接口真实;OEM Automatic 集团四国(CZ/SE/UK/NA)协同
 
 ## 联系方式（已有/猜测分标）
 
@@ -99,9 +99,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 捷克团队页/登记补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
 
-- **背景深描**：OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion)
+- **背景深描**：OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic 等 30+ 供应商捷克区授权;捷克 Red Lion 工业交换/HMI 线在位=谱内接口真实;OEM Automatic 集团四国(CZ/SE/UK/NA)协同
 - **芯片与在用型号**：【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理
 - **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
 - **关注点与资质**：N-Tron + Red Lion | 传承人名开口：见 KP 表
@@ -116,6 +116,15 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线
   > B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线
   > 来源：batch/B类深挖_2026-09-29_R57-BC_第9波.json#B-295
+- **【R64 团队页自曝】**Jan Drlík = Ředitel společnosti(董事)+420 241 484 940;Jakub Hanousek = Product Area Manager Machine/Safety/Electronics/Railway(产品口对口);Ilona Kulhánková 供应商订单/物流;Adam Stoklasa 商技代表
+  > Jan Drlík Ředitel společnosti +420 241 484 940 … Jakub Hanousek Product Area Manager - Machine, Safety, Electronics, Railway … Ilona Kulhánková Správa dodavatelských objednávek
+  > 来源：https://www.oemautomatic.cz/kontakty/nas-tym
+- **【R64 商业登记】**IČO 438 75 416,1991 创立,Zdiby;Jan Drlík 董事实名名录
+  > OEM Automatic, spol. s r.o., Pražská 239, 250 66 Zdiby … IČO: 438 75 416 … Založeno: 1991 … Jan Drlík ředitel společnosti
+  > 来源：https://www.info-cechy.cz/eig-oem-automatic/index.html
+- **【R64 域名核验】**oemautomatic.cz 无 MX(NoAnswer)=无自曝函数邮箱;oemautomatic.se MX outlook 存活,母集团函数邮箱 info@oemautomatic.se 唯一可用直通道
+  > (dnspython 实测 2026-10-07)oemautomatic.cz → FAIL:NoAnswer;oemautomatic.se → outlook MX
+  > 来源：(本地 dnspython 实测记录)
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 AB…
+- **是谁**：Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（交换专长、工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferra | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales& | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页
+- 【事实】Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller
 - 【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位
 - 【假设】自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales&Marketing 共管;38 员工;Moxa 官方授权+ABB/Eaton Cutler-Hammer/IDEC/Hammond/Puls/Datalogic/Honeywell/Ferraz 在架;价锚透明:Moxa EDS-G512E-4GSFP $1,399 / EDS-G516E $1,749 页面印刷价
 
 ## 联系方式（已有/猜测分标）
 
@@ -115,9 +115,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + DnB/tED/RocketReach 源)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页
+- **背景深描**：Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales&Marketing 共管;38 员工;Moxa 官方授权+ABB/Eaton Cutler-Hammer/IDEC/Hammond/Puls/Datalogic/Honeywell/Ferraz 在架;价锚透明:Moxa EDS-G512E-4GSFP $1,399 / EDS-G516E $1,749 页面印刷价
 - **芯片与在用型号**：【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位
 - **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
 - **关注点与资质**：Moxa 授权分销商，Moxa SDS-3008 系列工业智能交换机用户手册扉页标注其为 Authorized Distributor | 传承人名开口：见 KP 表
@@ -132,6 +132,15 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea
   > MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea
   > 来源：https://www.controllerservice.com/index.jsp?path=home&pgl=false
+- **【R64 DnB 实名】**Key Principal MARK M O'DAY(President),Avon MA,(800)584-5565
+  > Key Principal: MARK M O'DAY … Controller Service & Sales Co., Inc. is located at 13 Robbie Rd Avon, MA
+  > 来源：https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html
+- **【R64 三代家族】**Mark 2005 至今;父 Bob O'Day 1951-2005;兄弟 Scott O'Day VP S&M;Michael Sandonato 销市总监;Jim Long Corporate Controller;38 员工
+  > Mark O'Day (President) | Scott O'Day (VP Sales and Marketing) | Jim Long (Corporate Controller) … 38 employees … company president since 2005 … late father Bob O'Day 1951 to 2005
+  > 来源：https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae
+- **【R64 管理层访谈】**Mark O'Day tED 2014 访谈:收购战略/家族血脉公开口径
+  > Mark and his brother Scott share management responsibilities … family owned … founded by his grandfather in 1926
+  > 来源：https://tedmag.com/instant-message-qa-with-controller-services-mark-oday/
 
 ## 产品决策（Saga · 单一决策口径）
 

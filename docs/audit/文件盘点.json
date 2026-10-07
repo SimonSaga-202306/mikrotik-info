@@ -1814,6 +1814,16 @@
       "errors": []
     },
     {
+      "path": "batch/B类深挖_2026-10-07_R65_第2批.json",
+      "sha256": "7c51e0ae6fe62876dcc2dbd16835121d92ec8819a9c243f0ffb9174e872db6a3",
+      "bytes": 29899,
+      "tracked_at_scan": false,
+      "units_scanned": 406,
+      "unique_url_count": 16,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/KP猎捕_A_R64_第1波.json",
       "sha256": "87d95bc7ba8868fe4de41f414939e12f56fe27b760e1e081465eafbe1b1c6706",
       "bytes": 15275,
@@ -2505,10 +2515,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "0aaab861c80853a36e009a6f172833b2c81501121282ba18db21585fdcafa815",
-      "bytes": 137411,
+      "sha256": "002f7f69998d86bf77d07150d4e0140a2fbb27b099592330c6c2b91bdb4734a7",
+      "bytes": 138439,
       "tracked_at_scan": true,
-      "units_scanned": 1220,
+      "units_scanned": 1226,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9035,10 +9045,10 @@
     },
     {
       "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
-      "sha256": "cf9e66be0c2d9a9df5e296be5d41baf6aeaab80b60f7964ed9ff066fa09653a0",
-      "bytes": 11774,
+      "sha256": "10b693bcc64f41497ba58010d3cc18c7c65cc37af9010bc9316895d5cbab538b",
+      "bytes": 13420,
       "tracked_at_scan": true,
-      "units_scanned": 203,
+      "units_scanned": 212,
       "unique_url_count": 2,
       "inspection": {},
       "errors": []
@@ -9345,11 +9355,11 @@
     },
     {
       "path": "profile/B/B-295-OEM Automatic AB-瑞典.md",
-      "sha256": "846da0dfec7459b806d5a430679a027ef399e9cbf10ad60873ead452f6bb00ac",
-      "bytes": 14108,
+      "sha256": "7b3bbddaa7c6ff988867a86d24e163d284e6e5471ae30fd49d76b67a7f3e1de3",
+      "bytes": 15789,
       "tracked_at_scan": true,
-      "units_scanned": 215,
-      "unique_url_count": 2,
+      "units_scanned": 229,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -9485,11 +9495,11 @@
     },
     {
       "path": "profile/B/B-340-Controller Service and Sales-美国.md",
-      "sha256": "5b39dcd15e0afae70014931c1084be399c445035dee59310a06b1316cb9b193a",
-      "bytes": 14072,
+      "sha256": "3f204ff14c36a92534e4dc4c30b78d0ebaef14360ea54c016a3533859def75e5",
+      "bytes": 15557,
       "tracked_at_scan": true,
-      "units_scanned": 219,
-      "unique_url_count": 4,
+      "units_scanned": 228,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -9615,10 +9625,10 @@
     },
     {
       "path": "profile/B/B-421-Pymatek Automation-英国.md",
-      "sha256": "63579bedd6c15ff926067e72cdcfd62e8cf2ca0d37c9578789af38f33f6ed86e",
-      "bytes": 15030,
+      "sha256": "816d262098ce62202cc13026db8293c32cb91eeb2910c884110e1e287365e9c9",
+      "bytes": 16370,
       "tracked_at_scan": true,
-      "units_scanned": 222,
+      "units_scanned": 231,
       "unique_url_count": 4,
       "inspection": {},
       "errors": []
@@ -13020,6 +13030,16 @@
       "tracked_at_scan": true,
       "units_scanned": 224,
       "unique_url_count": 0,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "scripts/R65_第2批精修落盘.py",
+      "sha256": "3b8664b0f3a91c1c6458b44f19df81ddc1a93cc09c1da50e6b8bb6c4ba96301e",
+      "bytes": 9498,
+      "tracked_at_scan": false,
+      "units_scanned": 125,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },

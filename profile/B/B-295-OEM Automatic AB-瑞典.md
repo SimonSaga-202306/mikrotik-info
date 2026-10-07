@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganlo…
+- **是谁**：OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson V…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,7 +43,7 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson VD 自曝(MyNews+官网个人页),4 市分部(Malmö/Stockholm/Göteborg/Umeå);产品线对口=电柜组件(Els | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
@@ -81,7 +81,11 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jens Kjellsson | VD OEM Automatic AB(董事总经理) | jens.kjellsson@oemautomatic.se / 076-527 82 80 | official-self-published(Mynewsdesk+官网个人页双自曝) | https://www.mynewsdesk.com/se/oemautomatic/contact_people + oemautomatic.se/kontakt/personal |
+| Nils Svensson | Produktansvarig Elskåpskomponenter(电柜组件产品线经理=Red Lion/工业交换对口) | nils.svensson@oemautomatic.se | official-self-published | https://www.mynewsdesk.com/se/oemautomatic/contact_people |
+| Andreas Friberg | Produktansvarig Maskin(机械设备产品线经理) | andreas.friberg@oemautomatic.se / 076-527 84 27 | official-self-published | 同 Mynewsdesk |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 瑞典官网个人页/MyNews 自曝补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
 
-- **背景深描**：OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produ
+- **背景深描**：OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson VD 自曝(MyNews+官网个人页),4 市分部(Malmö/Stockholm/Göteborg/Umeå);产品线对口=电柜组件(Elskåpskomponenter,Red Lion/工业交换线在同集团旗下 Czech 分);info@oemautomatic.se 函数邮箱公开+MX outlook 存活;技术/产品/市场/采购/仓层分职能目录
 - **芯片与在用型号**：【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)
-- **关键人KP**：—
+- **关键人KP**：Jens Kjellsson(VD,jens.kjellsson@oemautomatic.se,076-527 82 80,自曝);Nils Svensson(电柜组件产品线经理,nils.svensson@oemautomatic.se);集团 Czech 分部 Jan Drlík 借 B-200
 - **关注点与资质**：N-Tron + Red Lion 
 - **优缺点SWOT**：S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / O:value DIN 轨位或自有谱 OEM 代工(CSV 已点) / T:N-Tron/Red Lion 排他
 - **Saga产品适配**：北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)
@@ -128,6 +132,15 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)
   > Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)
   > 来源：https://www.oemautomatic.se/
+- **【R65 瑞典 VD 自曝】**Jens Kjellsson VD,jens.kjellsson@oemautomatic.se,076-527 82 80——MyNews+官网个人页双源自曝
+  > Jens Kjellsson VD OEM Automatic AB jens.kjellsson@oemautomatic.se 076-527 82 80
+  > 来源：https://www.mynewsdesk.com/se/oemautomatic/contact_people
+- **【R65 瑞典母函数】**info@oemautomatic.se + 075-242 41 00 + Org.nr 556187-1012 + Dalagatan 4 573 42 Tranås 自曝
+  > OEM Automatic Sverige AB Box 1011 573 28 Tranås 075-242 41 00 info@oemautomatic.se Org.nr: 556187-1012
+  > 来源：https://www.oemautomatic.se/kontakt/personal
+- **【R65 产品口对口】**电柜组件(Elskåpskomponenter)线=Red Lion/工业交换同集团对口,Nils Svensson 为产品线经理
+  > Nils Svensson Produktansvarig Elskåpskomponenter nils.svensson@oemautomatic.se 076-527 81 95
+  > 来源：https://www.mynewsdesk.com/se/oemautomatic/contact_people
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +172,7 @@ S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -168,6 +181,7 @@ S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
+  - [ ] 捷克子(B-200)vs 瑞典母(本户)谱权边界——Drlík 与 Kjellsson 区域/产品线分层
   - [ ] Produktförädling 线现状与 OEM 代工开放度
   - [ ] N-Tron 在架价位带
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机…
+- **是谁**：Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭)
+- 【事实】Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk)
 - 【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动
 - 【假设】开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk)MX outlook 存活;Ybet Haydeé Sánchez Vargas de Pattison 唯一登记董事(2014 至今,1975-06 生);Martin Pattison 销市经理/Franco Sanchez 销售主管/Kimberly Pinillos GM,GlobalDatabase 全自曝
 
 ## 联系方式（已有/猜测分标）
 
@@ -115,9 +115,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + CH/GlobalDatabase 补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭)
+- **背景深描**：Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk)MX outlook 存活;Ybet Haydeé Sánchez Vargas de Pattison 唯一登记董事(2014 至今,1975-06 生);Martin Pattison 销市经理/Franco Sanchez 销售主管/Kimberly Pinillos GM,GlobalDatabase 全自曝
 - **芯片与在用型号**：【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动
 - **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
 - **关注点与资质**：EtherWAN 英国分销商（同时在西班牙及拉美多国分销）；站点按品牌建档，主营工业自动化供货 | 传承人名开口：见 KP 表
@@ -135,6 +135,15 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron
   > PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron
   > 来源：https://www.pymatek.us/
+- **【R64 CH 实名】**PYMATEK AUTOMATION LTD CH 09293772,2014-11-04 注册,Rugeley WS15 1UZ;Ybet SÁNCHEZ VARGAS DE PATTISON 唯一现任董事
+  > PYMATEK AUTOMATION LTD. Company number: 09293772 … Incorporated on 4 November 2014 … Directors: 1 … Mrs. Ybet Haydee Sanchez Vargas De Pattison 04 Nov 2014
+  > 来源：https://www.companiesintheuk.co.uk/ltd/pymatek-automation
+- **【R64 团队层自曝】**pymatek.com 域内:Ybet(Director)/Franco Sanchez(Jefe De Ventas)/Martin Pattison(Sales Manager)/Lucero Vaenzuela(Admin Asst)/Kimberly Pinillos(Gerente General)
+  > Ybet Sanchez Vargas De Pattison Director … Franco Sanchez Jefe De Ventas … Martin Pattison Sales Manager … Kimberly Pinillos Gerente General … @pymatek.com
+  > 来源：https://uk.globaldatabase.com/company/pymatek-automation-ltd
+- **【R64 域名核正】**CSV 网站=pymatek.co.uk(名录口径),实际职能域=pymatek.com(全员邮箱挂 pymatek.com),MX outlook 存活——候选挂 pymatek.com 系
+  > (GlobalDatabase 员工邮箱全挂 ****@pymatek.com)
+  > 来源：https://uk.globaldatabase.com/company/pymatek-automation-ltd
 
 ## 产品决策（Saga · 单一决策口径）
 

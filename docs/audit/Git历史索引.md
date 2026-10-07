@@ -5,7 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
-| `0e5010031a6a` | 2026-10-07T13:24:00+00:00 | R65:B 类全量 167 户升 v2 骨架(对齐 A 类标准;R57 备护深挖忠实转写) |
+| `db45d3f11144` | 2026-10-07T13:24:57+00:00 | R65:B 类全量 167 户升 v2 骨架(对齐 A 类标准;R57 备护深挖忠实转写) |
 | `816063385afa` | 2026-10-07T12:47:53+00:00 | R64 收尾:12 户 KP 点名首触定制稿 + B 类 KP 猎捕第 1 批 14 户 + 总账 |
 | `29696696a919` | 2026-10-07T12:16:48+00:00 | R64 收尾:测试白名单补丁+xlsx全量重导 ①tests 补 R63_BOUNCED(退信 8 户 入口/备注)白名单四层挂接+R63_PROMOTED/R61_REPLIED/R62_BOUNCED 入 xlsx 对比 skip 集 ②xlsx 两张(分级跟进表 A580/B167/C290+对照表反向信号名单 1037)按现行 CSV 重导 ③总账轮次计数 63→65 ④audit re-hash;29/29 OK 全过 0 skip+errors=0 |
 | `2fe838493b4c` | 2026-10-07T12:06:23+00:00 | R64 KP猎捕第1波(R63新升12户)+A-575/576/581预留升级户复用: ①web_search 定 15 位 KP(含 etree 创始人CEO Twonski、Vodanet Founder Krakus+Purchase Mgr İhsan Aslan、EDOX 采购负责人 Weckerle、PEC 50%业主 Peter Jezernik、art2soft MD Thomas Thoma、Nim Wave Presidente Zito、Ronitek Tomer Shitrit)②scripts/R64_KP猎捕.py:6模式邮箱排列组合+域MX核验(115 候选全 MX 存活;SMTP 用户级沙箱不可验标 guessed-leads-only 不进群发)③12 档 profile 注入 R64 KP 节+A-571/A-578 人名待定 ④batch/KP猎捕_A_R64_第1波.json 落账 ⑤tests 注释 A-575/576/581 三号预留;29 tests OK+audit errors=0 |
