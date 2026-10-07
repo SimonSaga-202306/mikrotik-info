@@ -242,3 +242,26 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"etree.de": ["etree-de.mail.protection.outlook.com"]}
+- **Grazian Twonski** — Founder & CEO(2010 创立)（源:https://etree.de/en/Services/Informations/About-Us/）
+  - `grazian@etree.de`(first@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `grazian.twonski@etree.de`(first.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `g.twonski@etree.de`(f.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `graziantwonski@etree.de`(firstlast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `gtwonski@etree.de`(flast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `twonski@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+- **Sebastian Rinne** — CEO/Geschäftsführer(公开邮箱 sr@konsultec.de,集团关联)（源:https://www.etree.de/en/Kontakt/）
+  - `sebastian@etree.de`(first@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `sebastian.rinne@etree.de`(first.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `s.rinne@etree.de`(f.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `sebastianrinne@etree.de`(firstlast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `srinne@etree.de`(flast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `rinne@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+- **Wysoczanski** — Sales/Purchase Manager +49 221 292 417 62（源:https://www.lieferanten.de/lieferant-21930-etree-gmbh.html）
+  - `wysoczanski@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:联合创始人 Peter Voigt(Crunchbase)

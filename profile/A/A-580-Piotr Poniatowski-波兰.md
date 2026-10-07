@@ -229,3 +229,13 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"poniatowski.pl": ["mx.tnet.pl"]}
+- **Piotr Poniatowski** — 本人=业主(R57 已落 piotr@poniatowski.pl)（源:https://mbum.pl/index.php）
+  - 邮箱:piotr@poniatowski.pl（official-existing(R57 已落)）
+- **Piotr Poniatowski** — 本人=业主(R57 已落 piotr@poniatowski.pl)（源:https://mbum.pl/index.php）
+
+**备注**:邮箱已有,本轮只复核 MX

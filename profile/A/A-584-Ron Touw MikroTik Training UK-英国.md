@@ -243,3 +243,17 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"mikrotiktraining.co.uk": ["pmgi.touw.co.uk", "pmgi2.touw.co.uk"]}
+- **Ron Touw** — 本人=业主(UK 首位 MikroTik Trainer 2009)（源:https://mikrotiktraining.co.uk/）
+  - `ron@mikrotiktraining.co.uk`(first@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `ron.touw@mikrotiktraining.co.uk`(first.last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `r.touw@mikrotiktraining.co.uk`(f.last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `rontouw@mikrotiktraining.co.uk`(firstlast@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `rtouw@mikrotiktraining.co.uk`(flast@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `touw@mikrotiktraining.co.uk`(last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless

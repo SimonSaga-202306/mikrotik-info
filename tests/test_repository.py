@@ -334,6 +334,8 @@ class RepositoryTests(unittest.TestCase):
     }
     R63_PROMOTED_NEW = set(R63_PROMOTED.values())
     R63_PROMOTED_FIELDS = {'评级', '档案编号', '评级依据', '人工定级', '备注'}
+    # 2026-10-07 用户裁定:A-575/A-576/A-581(R63 腾空 3 号)**预留给后续升级户复用**,
+    # 暂不入库,下批 B→A 或新挖 A 优先占此三号。
     PROMOTED_MAP = {'B-070': 'A-379', 'B-272': 'A-380', 'B-465': 'A-381', 'B-416': 'A-382',
                     'B-361': 'A-383', 'B-175': 'A-384', **R50_PROMOTED, **R51_PROMOTED, **R52_PROMOTED,
                     **R53_PROMOTED, **R63_PROMOTED}

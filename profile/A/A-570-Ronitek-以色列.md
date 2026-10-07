@@ -242,3 +242,17 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"ronitek.co.il": ["ronitek-co-il.mail.protection.outlook.com"]}
+- **Tomer Shitrit** — Ronitek Distribution Ltd 任职(疑业主/负责人)（源:https://www.linkedin.com/in/tomer-shitrit-b317593/）
+  - `tomer@ronitek.co.il`(first@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `tomer.shitrit@ronitek.co.il`(first.last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `t.shitrit@ronitek.co.il`(f.last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `tomershitrit@ronitek.co.il`(firstlast@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `tshitrit@ronitek.co.il`(flast@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `shitrit@ronitek.co.il`(last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径

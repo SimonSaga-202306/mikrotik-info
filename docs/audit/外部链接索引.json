@@ -28,6 +28,36 @@
     ]
   },
   {
+    "url": "http://allness.it/?page=about",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L365"
+      }
+    ]
+  },
+  {
+    "url": "http://allness.it/?page=about'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "http://allness.it/?page=about）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-583-Barry Higgins Allness IT-英国.md",
+        "locator": "L252"
+      }
+    ]
+  },
+  {
     "url": "http://archive.org/wayback/available?url=unifyingsolution.com",
     "http_checked": false,
     "occurrences": [
@@ -239,7 +269,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L924"
+        "locator": "L926"
       }
     ]
   },
@@ -451,7 +481,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1101"
+        "locator": "L1103"
       }
     ]
   },
@@ -647,7 +677,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L968"
+        "locator": "L970"
       }
     ]
   },
@@ -769,7 +799,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1099"
+        "locator": "L1101"
       }
     ]
   },
@@ -1649,7 +1679,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L923"
+        "locator": "L925"
       }
     ]
   },
@@ -3087,7 +3117,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1061"
+        "locator": "L1063"
       }
     ]
   },
@@ -3883,7 +3913,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L967"
+        "locator": "L969"
       }
     ]
   },
@@ -4587,7 +4617,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1021"
+        "locator": "L1023"
       }
     ]
   },
@@ -5022,6 +5052,48 @@
       {
         "path": "profile/B/B-040-ASAP-保加利亚.md",
         "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Nim-Wave-Srl-91231",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L140"
+      },
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Nim-Wave-Srl-91231'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L64"
+      },
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L66"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Nim-Wave-Srl-91231）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-574-Dnet-Distribution-意大利.md",
+        "locator": "L251"
+      },
+      {
+        "path": "profile/A/A-574-Dnet-Distribution-意大利.md",
+        "locator": "L264"
       }
     ]
   },
@@ -7143,7 +7215,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1019"
+        "locator": "L1021"
       }
     ]
   },
@@ -7706,6 +7778,36 @@
     ]
   },
   {
+    "url": "https://etree.de/en/Services/Informations/About-Us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://etree.de/en/Services/Informations/About-Us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://etree.de/en/Services/Informations/About-Us/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-573-etree GmbH-德国.md",
+        "locator": "L250"
+      }
+    ]
+  },
+  {
     "url": "https://eulogic.it",
     "http_checked": false,
     "occurrences": [
@@ -7839,7 +7941,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1512"
+        "locator": "L1514"
       }
     ]
   },
@@ -7849,7 +7951,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1512"
+        "locator": "L1514"
       }
     ]
   },
@@ -8681,7 +8783,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L964"
+        "locator": "L966"
       }
     ]
   },
@@ -9313,7 +9415,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L887"
+        "locator": "L889"
       }
     ]
   },
@@ -10735,7 +10837,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1104"
+        "locator": "L1106"
       }
     ]
   },
@@ -11115,7 +11217,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L890"
+        "locator": "L892"
       }
     ]
   },
@@ -11485,7 +11587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L890"
+        "locator": "L892"
       }
     ]
   },
@@ -14062,6 +14164,44 @@
     ]
   },
   {
+    "url": "https://mbum.pl/index.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L286"
+      },
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L293"
+      }
+    ]
+  },
+  {
+    "url": "https://mbum.pl/index.php'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://mbum.pl/index.php）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-580-Piotr Poniatowski-波兰.md",
+        "locator": "L237"
+      },
+      {
+        "path": "profile/A/A-580-Piotr Poniatowski-波兰.md",
+        "locator": "L239"
+      }
+    ]
+  },
+  {
     "url": "https://mccharlestech.net/",
     "http_checked": false,
     "occurrences": [
@@ -14307,7 +14447,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1063"
+        "locator": "L1065"
       }
     ]
   },
@@ -20184,6 +20324,30 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第26批.json",
         "locator": "L295"
+      },
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L402"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotiktraining.co.uk/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotiktraining.co.uk/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-584-Ron Touw MikroTik Training UK-英国.md",
+        "locator": "L251"
       }
     ]
   },
@@ -21807,7 +21971,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1060"
+        "locator": "L1062"
       }
     ]
   },
@@ -22613,7 +22777,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L971"
+        "locator": "L973"
       }
     ]
   },
@@ -24559,7 +24723,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L966"
+        "locator": "L968"
       }
     ]
   },
@@ -25038,6 +25202,36 @@
       {
         "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
         "locator": "L73"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/thomas-thoma-email_51793668",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/thomas-thoma-email_51793668'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/thomas-thoma-email_51793668）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-572-Cy-Wireless art2soft-塞浦路斯.md",
+        "locator": "L250"
       }
     ]
   },
@@ -33899,7 +34093,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L891"
+        "locator": "L893"
       }
     ]
   },
@@ -34653,7 +34847,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L969"
+        "locator": "L971"
       }
     ]
   },
@@ -35997,7 +36191,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1061"
+        "locator": "L1063"
       }
     ]
   },
@@ -37158,6 +37352,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1019/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companywall.si/podjetje/pec-sistemi-doo/MM1dLgOD",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L195"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companywall.si/podjetje/pec-sistemi-doo/MM1dLgOD'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companywall.si/podjetje/pec-sistemi-doo/MM1dLgOD）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-577-tehnox PEC SISTEMI-斯洛文尼亚.md",
+        "locator": "L235"
       }
     ]
   },
@@ -38345,7 +38569,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L921"
+        "locator": "L923"
       }
     ]
   },
@@ -39741,7 +39965,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1062"
+        "locator": "L1064"
       }
     ]
   },
@@ -40253,7 +40477,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1023"
+        "locator": "L1025"
       }
     ]
   },
@@ -41666,6 +41890,36 @@
     ]
   },
   {
+    "url": "https://www.etree.de/en/Kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
+    "url": "https://www.etree.de/en/Kontakt/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L58"
+      }
+    ]
+  },
+  {
+    "url": "https://www.etree.de/en/Kontakt/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-573-etree GmbH-德国.md",
+        "locator": "L257"
+      }
+    ]
+  },
+  {
     "url": "https://www.eurodk.lv/en/about-us/",
     "http_checked": false,
     "occurrences": [
@@ -41913,7 +42167,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1018"
+        "locator": "L1020"
       }
     ]
   },
@@ -46213,7 +46467,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1024"
+        "locator": "L1026"
       }
     ]
   },
@@ -46539,7 +46793,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L919"
+        "locator": "L921"
       }
     ]
   },
@@ -47383,7 +47637,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1100"
+        "locator": "L1102"
       }
     ]
   },
@@ -47711,7 +47965,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L920"
+        "locator": "L922"
       }
     ]
   },
@@ -48996,6 +49250,36 @@
     ]
   },
   {
+    "url": "https://www.lieferanten.de/lieferant-21930-etree-gmbh.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L119"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lieferanten.de/lieferant-21930-etree-gmbh.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L60"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lieferanten.de/lieferant-21930-etree-gmbh.html）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-573-etree GmbH-德国.md",
+        "locator": "L264"
+      }
+    ]
+  },
+  {
     "url": "https://www.ligowave.com/distributors/europe",
     "http_checked": false,
     "occurrences": [
@@ -49270,6 +49554,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/company/vodanet-systems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L338"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/vodanet-systems'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/vodanet-systems）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-582-Vodanet Systems-美国.md",
+        "locator": "L264"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/alinailkocyigit/",
     "http_checked": false,
     "occurrences": [
@@ -49524,6 +49838,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-838/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/david-hugueny/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L260"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/david-hugueny/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/david-hugueny/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-579-EDOX SAS-法国.md",
+        "locator": "L257"
       }
     ]
   },
@@ -50028,6 +50372,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/lionel-weckerle/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L246"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/lionel-weckerle/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/lionel-weckerle/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-579-EDOX SAS-法国.md",
+        "locator": "L250"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/mahdi-raeesi-4195173b",
     "http_checked": false,
     "occurrences": [
@@ -50378,6 +50752,36 @@
       {
         "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
         "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/tomer-shitrit-b317593/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/tomer-shitrit-b317593/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L46"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/tomer-shitrit-b317593/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-570-Ronitek-以色列.md",
+        "locator": "L250"
       }
     ]
   },
@@ -62037,7 +62441,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1020"
+        "locator": "L1022"
       }
     ]
   },
@@ -62893,7 +63297,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1062"
+        "locator": "L1064"
       }
     ]
   },
@@ -63301,7 +63705,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1025"
+        "locator": "L1027"
       }
     ]
   },
@@ -63445,7 +63849,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L891"
+        "locator": "L893"
       }
     ]
   },
@@ -65247,7 +65651,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L972"
+        "locator": "L974"
       }
     ]
   },
@@ -65965,7 +66369,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1022"
+        "locator": "L1024"
       }
     ]
   },
@@ -67097,7 +67501,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1103"
+        "locator": "L1105"
       }
     ]
   },
@@ -67239,7 +67643,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L970"
+        "locator": "L972"
       }
     ]
   },
@@ -72075,7 +72479,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L965"
+        "locator": "L967"
       }
     ]
   },
@@ -72891,7 +73295,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1102"
+        "locator": "L1104"
       }
     ]
   },
@@ -73000,8 +73404,32 @@
         "locator": "L479"
       },
       {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L310"
+      },
+      {
         "path": "profile/A/A-582-Vodanet Systems-美国.md",
         "locator": "L201"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vodanetsystems.com/about-us'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vodanetsystems.com/about-us）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-582-Vodanet Systems-美国.md",
+        "locator": "L250"
       }
     ]
   },
@@ -73549,7 +73977,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L922"
+        "locator": "L924"
       }
     ]
   },
@@ -74998,6 +75426,36 @@
       {
         "path": "profile/B/B-425-Telasys Ltd-英国.md",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/vodanet-systems-llc/370619677",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第1波.json",
+        "locator": "L324"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/vodanet-systems-llc/370619677'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_KP猎捕.py",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/vodanet-systems-llc/370619677）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-582-Vodanet Systems-美国.md",
+        "locator": "L257"
       }
     ]
   },

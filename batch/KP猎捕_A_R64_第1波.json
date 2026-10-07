@@ -1,0 +1,422 @@
+{
+ "date": "2026-10-07",
+ "round": "R64",
+ "scope": "A 类 KP 猎捕第 1 波 = R63 新升 12 户;web_search 找人 + 排列组合 + MX 域核验",
+ "discipline": "SMTP 用户级沙箱不可验;guessed 邮箱不进群发;查不出写待定",
+ "records": [
+  {
+   "code": "A-570",
+   "domain": "ronitek.co.il",
+   "note": "公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径",
+   "persons": [
+    {
+     "name": "Tomer Shitrit",
+     "role": "Ronitek Distribution Ltd 任职(疑业主/负责人)",
+     "source": "https://www.linkedin.com/in/tomer-shitrit-b317593/",
+     "email_candidates": {
+      "first@(ronitek.co.il)": "tomer@ronitek.co.il",
+      "first.last@(ronitek.co.il)": "tomer.shitrit@ronitek.co.il",
+      "f.last@(ronitek.co.il)": "t.shitrit@ronitek.co.il",
+      "firstlast@(ronitek.co.il)": "tomershitrit@ronitek.co.il",
+      "flast@(ronitek.co.il)": "tshitrit@ronitek.co.il",
+      "last@(ronitek.co.il)": "shitrit@ronitek.co.il"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "ronitek.co.il": [
+     "ronitek-co-il.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-571",
+   "domain": "triple-core.com",
+   "note": "KP 人名未取得→待定",
+   "persons": [],
+   "mx": {
+    "triple-core.com": [
+     "alt1.aspmx.l.google.com",
+     "alt2.aspmx.l.google.com",
+     "aspmx.l.google.com",
+     "aspmx2.googlemail.com",
+     "aspmx3.googlemail.com"
+    ]
+   }
+  },
+  {
+   "code": "A-572",
+   "domain": "art2soft.com",
+   "note": "MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com",
+   "persons": [
+    {
+     "name": "Thomas Thoma",
+     "role": "Managing Director(2006 至今)",
+     "source": "https://rocketreach.co/thomas-thoma-email_51793668",
+     "email_candidates": {
+      "first@(art2soft.com)": "thomas@art2soft.com",
+      "first.last@(art2soft.com)": "thomas.thoma@art2soft.com",
+      "f.last@(art2soft.com)": "t.thoma@art2soft.com",
+      "firstlast@(art2soft.com)": "thomasthoma@art2soft.com",
+      "flast@(art2soft.com)": "tthoma@art2soft.com",
+      "last@(art2soft.com)": "thoma@art2soft.com",
+      "first@(cy-wireless.com)": "thomas@cy-wireless.com",
+      "first.last@(cy-wireless.com)": "thomas.thoma@cy-wireless.com",
+      "f.last@(cy-wireless.com)": "t.thoma@cy-wireless.com",
+      "firstlast@(cy-wireless.com)": "thomasthoma@cy-wireless.com",
+      "flast@(cy-wireless.com)": "tthoma@cy-wireless.com",
+      "last@(cy-wireless.com)": "thoma@cy-wireless.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "art2soft.com": [
+     "art2soft-com.mail.protection.outlook.com"
+    ],
+    "cy-wireless.com": [
+     "mail.cy-wireless.com"
+    ]
+   }
+  },
+  {
+   "code": "A-573",
+   "domain": "etree.de",
+   "note": "联合创始人 Peter Voigt(Crunchbase)",
+   "persons": [
+    {
+     "name": "Grazian Twonski",
+     "role": "Founder & CEO(2010 创立)",
+     "source": "https://etree.de/en/Services/Informations/About-Us/",
+     "email_candidates": {
+      "first@(etree.de)": "grazian@etree.de",
+      "first.last@(etree.de)": "grazian.twonski@etree.de",
+      "f.last@(etree.de)": "g.twonski@etree.de",
+      "firstlast@(etree.de)": "graziantwonski@etree.de",
+      "flast@(etree.de)": "gtwonski@etree.de",
+      "last@(etree.de)": "twonski@etree.de"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "Sebastian Rinne",
+     "role": "CEO/Geschäftsführer(公开邮箱 sr@konsultec.de,集团关联)",
+     "source": "https://www.etree.de/en/Kontakt/",
+     "email_candidates": {
+      "first@(etree.de)": "sebastian@etree.de",
+      "first.last@(etree.de)": "sebastian.rinne@etree.de",
+      "f.last@(etree.de)": "s.rinne@etree.de",
+      "firstlast@(etree.de)": "sebastianrinne@etree.de",
+      "flast@(etree.de)": "srinne@etree.de",
+      "last@(etree.de)": "rinne@etree.de"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "Wysoczanski",
+     "role": "Sales/Purchase Manager +49 221 292 417 62",
+     "source": "https://www.lieferanten.de/lieferant-21930-etree-gmbh.html",
+     "email_candidates": {
+      "last@(etree.de)": "wysoczanski@etree.de"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "etree.de": [
+     "etree-de.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-574",
+   "domain": "dnet-distribution.com",
+   "note": "Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政",
+   "persons": [
+    {
+     "name": "Eugenia Zito",
+     "role": "Presidente(Nim Wave S.r.l. 母体)",
+     "source": "https://contactout.com/company/Nim-Wave-Srl-91231",
+     "email_candidates": {
+      "first@(dnet-distribution.com)": "eugenia@dnet-distribution.com",
+      "first.last@(dnet-distribution.com)": "eugenia.zito@dnet-distribution.com",
+      "f.last@(dnet-distribution.com)": "e.zito@dnet-distribution.com",
+      "firstlast@(dnet-distribution.com)": "eugeniazito@dnet-distribution.com",
+      "flast@(dnet-distribution.com)": "ezito@dnet-distribution.com",
+      "last@(dnet-distribution.com)": "zito@dnet-distribution.com",
+      "first@(nimwave.com)": "eugenia@nimwave.com",
+      "first.last@(nimwave.com)": "eugenia.zito@nimwave.com",
+      "f.last@(nimwave.com)": "e.zito@nimwave.com",
+      "firstlast@(nimwave.com)": "eugeniazito@nimwave.com",
+      "flast@(nimwave.com)": "ezito@nimwave.com",
+      "last@(nimwave.com)": "zito@nimwave.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "Alessandro Monti",
+     "role": "Specialista di prodotto(产品对接口)",
+     "source": "https://contactout.com/company/Nim-Wave-Srl-91231",
+     "email_candidates": {
+      "first@(dnet-distribution.com)": "alessandro@dnet-distribution.com",
+      "first.last@(dnet-distribution.com)": "alessandro.monti@dnet-distribution.com",
+      "f.last@(dnet-distribution.com)": "a.monti@dnet-distribution.com",
+      "firstlast@(dnet-distribution.com)": "alessandromonti@dnet-distribution.com",
+      "flast@(dnet-distribution.com)": "amonti@dnet-distribution.com",
+      "last@(dnet-distribution.com)": "monti@dnet-distribution.com",
+      "first@(nimwave.com)": "alessandro@nimwave.com",
+      "first.last@(nimwave.com)": "alessandro.monti@nimwave.com",
+      "f.last@(nimwave.com)": "a.monti@nimwave.com",
+      "firstlast@(nimwave.com)": "alessandromonti@nimwave.com",
+      "flast@(nimwave.com)": "amonti@nimwave.com",
+      "last@(nimwave.com)": "monti@nimwave.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "dnet-distribution.com": [
+     "dnetdistribution-com01b.mail.protection.outlook.com"
+    ],
+    "nimwave.com": [
+     "nimwave-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-577",
+   "domain": "tehnox.si",
+   "note": "Elizabeta Jezernik 另一 50%;8 员工,营收 €4.36M,出口 BiH/克罗地亚 24%",
+   "persons": [
+    {
+     "name": "Peter Jezernik",
+     "role": "Director & 50% 持股业主",
+     "source": "https://www.companywall.si/podjetje/pec-sistemi-doo/MM1dLgOD",
+     "email_candidates": {
+      "first@(tehnox.si)": "peter@tehnox.si",
+      "first.last@(tehnox.si)": "peter.jezernik@tehnox.si",
+      "f.last@(tehnox.si)": "p.jezernik@tehnox.si",
+      "firstlast@(tehnox.si)": "peterjezernik@tehnox.si",
+      "flast@(tehnox.si)": "pjezernik@tehnox.si",
+      "last@(tehnox.si)": "jezernik@tehnox.si",
+      "first@(pec-sistemi.si)": "peter@pec-sistemi.si",
+      "first.last@(pec-sistemi.si)": "peter.jezernik@pec-sistemi.si",
+      "f.last@(pec-sistemi.si)": "p.jezernik@pec-sistemi.si",
+      "firstlast@(pec-sistemi.si)": "peterjezernik@pec-sistemi.si",
+      "flast@(pec-sistemi.si)": "pjezernik@pec-sistemi.si",
+      "last@(pec-sistemi.si)": "jezernik@pec-sistemi.si"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "tehnox.si": [
+     "mail.tehnox.si",
+     "mx1.tehnox.si"
+    ],
+    "pec-sistemi.si": [
+     "mail.pec-sistemi.si"
+    ]
+   }
+  },
+  {
+   "code": "A-578",
+   "domain": "takopi.ge",
+   "note": "KP 人名未取得→待定",
+   "persons": [],
+   "mx": {
+    "takopi.ge": [
+     "alt1.aspmx.l.google.com",
+     "alt2.aspmx.l.google.com",
+     "alt3.aspmx.l.google.com",
+     "alt4.aspmx.l.google.com",
+     "aspmx.l.google.com"
+    ]
+   }
+  },
+  {
+   "code": "A-579",
+   "domain": "edox.com",
+   "note": "采购 KP=Lionel Weckerle 最对口",
+   "persons": [
+    {
+     "name": "Lionel Weckerle",
+     "role": "采购部负责人(responsable service achats,3 人团队)",
+     "source": "https://www.linkedin.com/in/lionel-weckerle/",
+     "email_candidates": {
+      "first@(edox.com)": "lionel@edox.com",
+      "first.last@(edox.com)": "lionel.weckerle@edox.com",
+      "f.last@(edox.com)": "l.weckerle@edox.com",
+      "firstlast@(edox.com)": "lionelweckerle@edox.com",
+      "flast@(edox.com)": "lweckerle@edox.com",
+      "last@(edox.com)": "weckerle@edox.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "David Hugueny",
+     "role": "商务(3 年+在职,MikroTik 技术培训常客)",
+     "source": "https://www.linkedin.com/in/david-hugueny/",
+     "email_candidates": {
+      "first@(edox.com)": "david@edox.com",
+      "first.last@(edox.com)": "david.hugueny@edox.com",
+      "f.last@(edox.com)": "d.hugueny@edox.com",
+      "firstlast@(edox.com)": "davidhugueny@edox.com",
+      "flast@(edox.com)": "dhugueny@edox.com",
+      "last@(edox.com)": "hugueny@edox.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "edox.com": [
+     "edox-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-580",
+   "domain": "poniatowski.pl",
+   "note": "邮箱已有,本轮只复核 MX",
+   "persons": [
+    {
+     "name": "Piotr Poniatowski",
+     "role": "本人=业主(R57 已落 piotr@poniatowski.pl)",
+     "source": "https://mbum.pl/index.php",
+     "email": "piotr@poniatowski.pl",
+     "email_state": "official-existing(R57 已落)"
+    },
+    {
+     "name": "Piotr Poniatowski",
+     "role": "本人=业主(R57 已落 piotr@poniatowski.pl)",
+     "source": "https://mbum.pl/index.php"
+    }
+   ],
+   "mx": {
+    "poniatowski.pl": [
+     "mx.tnet.pl"
+    ]
+   }
+  },
+  {
+   "code": "A-582",
+   "domain": "vodanetsystems.com",
+   "note": "采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ",
+   "persons": [
+    {
+     "name": "Albert Krakus",
+     "role": "Founder(2013,计算机工程师)",
+     "source": "https://www.vodanetsystems.com/about-us",
+     "email_candidates": {
+      "first@(vodanetsystems.com)": "albert@vodanetsystems.com",
+      "first.last@(vodanetsystems.com)": "albert.krakus@vodanetsystems.com",
+      "f.last@(vodanetsystems.com)": "a.krakus@vodanetsystems.com",
+      "firstlast@(vodanetsystems.com)": "albertkrakus@vodanetsystems.com",
+      "flast@(vodanetsystems.com)": "akrakus@vodanetsystems.com",
+      "last@(vodanetsystems.com)": "krakus@vodanetsystems.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "Alper Karakus",
+     "role": "President",
+     "source": "https://www.zoominfo.com/c/vodanet-systems-llc/370619677",
+     "email_candidates": {
+      "first@(vodanetsystems.com)": "alper@vodanetsystems.com",
+      "first.last@(vodanetsystems.com)": "alper.karakus@vodanetsystems.com",
+      "f.last@(vodanetsystems.com)": "a.karakus@vodanetsystems.com",
+      "firstlast@(vodanetsystems.com)": "alperkarakus@vodanetsystems.com",
+      "flast@(vodanetsystems.com)": "akarakus@vodanetsystems.com",
+      "last@(vodanetsystems.com)": "karakus@vodanetsystems.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    },
+    {
+     "name": "Ihsan Aslan",
+     "role": "Purchase Manager(采购经理,领英员工栏)",
+     "source": "https://www.linkedin.com/company/vodanet-systems",
+     "email_candidates": {
+      "first@(vodanetsystems.com)": "ihsan@vodanetsystems.com",
+      "first.last@(vodanetsystems.com)": "ihsan.aslan@vodanetsystems.com",
+      "f.last@(vodanetsystems.com)": "i.aslan@vodanetsystems.com",
+      "firstlast@(vodanetsystems.com)": "ihsanaslan@vodanetsystems.com",
+      "flast@(vodanetsystems.com)": "iaslan@vodanetsystems.com",
+      "last@(vodanetsystems.com)": "aslan@vodanetsystems.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "vodanetsystems.com": [
+     "mx1-us1.ppe-hosted.com",
+     "mx2-us1.ppe-hosted.com"
+    ]
+   }
+  },
+  {
+   "code": "A-583",
+   "domain": "allness.net",
+   "note": "Kidderminster;WISP 运营 2009 起",
+   "persons": [
+    {
+     "name": "Barry Higgins",
+     "role": "Owner(UK 独立 MikroTik Trainer since 2016)",
+     "source": "http://allness.it/?page=about",
+     "email_candidates": {
+      "first@(allness.net)": "barry@allness.net",
+      "first.last@(allness.net)": "barry.higgins@allness.net",
+      "f.last@(allness.net)": "b.higgins@allness.net",
+      "firstlast@(allness.net)": "barryhiggins@allness.net",
+      "flast@(allness.net)": "bhiggins@allness.net",
+      "last@(allness.net)": "higgins@allness.net",
+      "first@(allness.it)": "barry@allness.it",
+      "first.last@(allness.it)": "barry.higgins@allness.it",
+      "f.last@(allness.it)": "b.higgins@allness.it",
+      "firstlast@(allness.it)": "barryhiggins@allness.it",
+      "flast@(allness.it)": "bhiggins@allness.it",
+      "last@(allness.it)": "higgins@allness.it"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "allness.net": [
+     "mail.allness.net",
+     "mx-backup.allness.net"
+    ],
+    "allness.it": [
+     "mail.allness.it",
+     "mx-backup.allness.net"
+    ]
+   }
+  },
+  {
+   "code": "A-584",
+   "domain": "mikrotiktraining.co.uk",
+   "note": "2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless",
+   "persons": [
+    {
+     "name": "Ron Touw",
+     "role": "本人=业主(UK 首位 MikroTik Trainer 2009)",
+     "source": "https://mikrotiktraining.co.uk/",
+     "email_candidates": {
+      "first@(mikrotiktraining.co.uk)": "ron@mikrotiktraining.co.uk",
+      "first.last@(mikrotiktraining.co.uk)": "ron.touw@mikrotiktraining.co.uk",
+      "f.last@(mikrotiktraining.co.uk)": "r.touw@mikrotiktraining.co.uk",
+      "firstlast@(mikrotiktraining.co.uk)": "rontouw@mikrotiktraining.co.uk",
+      "flast@(mikrotiktraining.co.uk)": "rtouw@mikrotiktraining.co.uk",
+      "last@(mikrotiktraining.co.uk)": "touw@mikrotiktraining.co.uk"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "mikrotiktraining.co.uk": [
+     "pmgi.touw.co.uk",
+     "pmgi2.touw.co.uk"
+    ]
+   }
+  }
+ ]
+}

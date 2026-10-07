@@ -242,3 +242,31 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"vodanetsystems.com": ["mx1-us1.ppe-hosted.com", "mx2-us1.ppe-hosted.com"]}
+- **Albert Krakus** — Founder(2013,计算机工程师)（源:https://www.vodanetsystems.com/about-us）
+  - `albert@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `albert.krakus@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `a.krakus@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `albertkrakus@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `akrakus@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `krakus@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+- **Alper Karakus** — President（源:https://www.zoominfo.com/c/vodanet-systems-llc/370619677）
+  - `alper@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alper.karakus@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `a.karakus@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alperkarakus@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `akarakus@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `karakus@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+- **Ihsan Aslan** — Purchase Manager(采购经理,领英员工栏)（源:https://www.linkedin.com/company/vodanet-systems）
+  - `ihsan@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `ihsan.aslan@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `i.aslan@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `ihsanaslan@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `iaslan@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `aslan@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ

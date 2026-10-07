@@ -242,3 +242,23 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"art2soft.com": ["art2soft-com.mail.protection.outlook.com"], "cy-wireless.com": ["mail.cy-wireless.com"]}
+- **Thomas Thoma** — Managing Director(2006 至今)（源:https://rocketreach.co/thomas-thoma-email_51793668）
+  - `thomas@art2soft.com`(first@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thomas.thoma@art2soft.com`(first.last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `t.thoma@art2soft.com`(f.last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thomasthoma@art2soft.com`(firstlast@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `tthoma@art2soft.com`(flast@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thoma@art2soft.com`(last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thomas@cy-wireless.com`(first@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thomas.thoma@cy-wireless.com`(first.last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `t.thoma@cy-wireless.com`(f.last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thomasthoma@cy-wireless.com`(firstlast@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `tthoma@cy-wireless.com`(flast@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `thoma@cy-wireless.com`(last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com

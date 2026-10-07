@@ -243,3 +243,36 @@ Saga Telecom - PoE switch OEM/ODM
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"dnet-distribution.com": ["dnetdistribution-com01b.mail.protection.outlook.com"], "nimwave.com": ["nimwave-com.mail.protection.outlook.com"]}
+- **Eugenia Zito** — Presidente(Nim Wave S.r.l. 母体)（源:https://contactout.com/company/Nim-Wave-Srl-91231）
+  - `eugenia@dnet-distribution.com`(first@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `eugenia.zito@dnet-distribution.com`(first.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `e.zito@dnet-distribution.com`(f.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `eugeniazito@dnet-distribution.com`(firstlast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `ezito@dnet-distribution.com`(flast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `zito@dnet-distribution.com`(last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `eugenia@nimwave.com`(first@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `eugenia.zito@nimwave.com`(first.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `e.zito@nimwave.com`(f.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `eugeniazito@nimwave.com`(firstlast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `ezito@nimwave.com`(flast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `zito@nimwave.com`(last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+- **Alessandro Monti** — Specialista di prodotto(产品对接口)（源:https://contactout.com/company/Nim-Wave-Srl-91231）
+  - `alessandro@dnet-distribution.com`(first@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alessandro.monti@dnet-distribution.com`(first.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `a.monti@dnet-distribution.com`(f.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alessandromonti@dnet-distribution.com`(firstlast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `amonti@dnet-distribution.com`(flast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `monti@dnet-distribution.com`(last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alessandro@nimwave.com`(first@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alessandro.monti@nimwave.com`(first.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `a.monti@nimwave.com`(f.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `alessandromonti@nimwave.com`(firstlast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `amonti@nimwave.com`(flast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `monti@nimwave.com`(last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政

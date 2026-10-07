@@ -227,3 +227,23 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 **核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
 
 **状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
+
+## 2026-10-07 R64 KP 猎捕(第 1 波)
+
+**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
+**域 MX**:{"tehnox.si": ["mail.tehnox.si", "mx1.tehnox.si"], "pec-sistemi.si": ["mail.pec-sistemi.si"]}
+- **Peter Jezernik** — Director & 50% 持股业主（源:https://www.companywall.si/podjetje/pec-sistemi-doo/MM1dLgOD）
+  - `peter@tehnox.si`(first@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `peter.jezernik@tehnox.si`(first.last@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `p.jezernik@tehnox.si`(f.last@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `peterjezernik@tehnox.si`(firstlast@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `pjezernik@tehnox.si`(flast@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `jezernik@tehnox.si`(last@(tehnox.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `peter@pec-sistemi.si`(first@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `peter.jezernik@pec-sistemi.si`(first.last@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `p.jezernik@pec-sistemi.si`(f.last@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `peterjezernik@pec-sistemi.si`(firstlast@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `pjezernik@pec-sistemi.si`(flast@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+  - `jezernik@pec-sistemi.si`(last@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
+
+**备注**:Elizabeta Jezernik 另一 50%;8 员工,营收 €4.36M,出口 BiH/克罗地亚 24%
