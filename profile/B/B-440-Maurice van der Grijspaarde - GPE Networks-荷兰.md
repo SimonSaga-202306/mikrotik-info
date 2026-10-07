@@ -78,6 +78,8 @@ updated: 2026-10-07
 - **电话**：+31 23 7640540
 - **原始联系字段**：+31 23 7640540 / info@gpe-networks.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Maurice van der Grijspaarde**(Contact persoon（实体业主口径）)— info@gpe-networks.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a〕
 
 ## 关键人（KP）与触达通道
 

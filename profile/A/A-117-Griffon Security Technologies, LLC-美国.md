@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Griffon Security Technologies（美国缅因 Kennebunk）：缅因本地安防集成商——“Integration with Integrity”：访问控制/监控/告警集成+安装质量文化；LinkedIn/Facebook 渠道活跃
-- 【推断】小型本地安防商：摄像头柜 PoE 随单件是核心采购；价格敏感+一站式捕鱼
-- 【假设】“integrity / installation quality”文化=随单可靠性话术（看门狗/防雷）有效
+- 【事实】Griffon Security Technologies, LLC:Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)
+- 【推断】R66 第 9 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,24 @@ updated: 2026-09-28
 - 来源等级：company-social（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@griffonsecurity.com [Publicly listed; delivery not tested]; https://griffonsecurity.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Timothy Barrett**(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO))— mainebiz 公开受访+konaequity 谱+LinkedIn 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk〕
+  - **David Douin**(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO))— mainebiz 公开受访+LinkedIn/zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk〕
+  - **T.J. Tigerman**(General Manager(关键员工))— LinkedIn+zoominfo+datanyze 三源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/company/griffon-security〕
+  - **Jenn Louf**(Purchasing Coordinator(硬件采购 KPI 天位))— datanyze 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/griffon-security-technologies/347172761〕
+  - **Sean Perkins**(Manager, Information Technology)— LinkedIn+datanyze 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/griffon-security-technologies/347172761〕
+  - **Mark Fréchette**(Manager, Engineering & Technical Services)— datanyze 谱+LinkedIn 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/griffon-security-technologies/347172761〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Timothy Barrett | Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO) | mainebiz 公开受访+konaequity 谱+LinkedIn | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk |
+| David Douin | Principal(联合所有权 2011 加入;CPA;原 Principal & CFO) | mainebiz 公开受访+LinkedIn/zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk |
+| T.J. Tigerman | General Manager(关键员工) | LinkedIn+zoominfo+datanyze 三源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/company/griffon-security |
+| Jenn Louf | Purchasing Coordinator(硬件采购 KPI 天位) | datanyze 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.datanyze.com/companies/griffon-security-technologies/347172761 |
+| Sean Perkins | Manager, Information Technology | LinkedIn+datanyze 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.datanyze.com/companies/griffon-security-technologies/347172761 |
+| Mark Fréchette | Manager, Engineering & Technical Services | datanyze 谱+LinkedIn | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.datanyze.com/companies/griffon-security-technologies/347172761 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第9波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：缅因本地安防（integrity 文化）
-- **②芯片/型号**：Allied 信号
-- **③KP 深挖**：sales@
-- **④Saga 对标**：摄像头柜 value PoE
-- **⑤在乎与偏好**：可靠性
+- **①背景再核**：Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Timothy Barrett(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO),leads-only·待 opt-in(LinkedIn/谱面带核));David Douin(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO),leads-only·待 opt-in(LinkedIn/谱面带核));T.J. Tigerman(General Manager(关键员工),leads-only·待 opt-in(LinkedIn/谱面带核));Jenn Louf(Purchasing Coordinator(硬件采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Sean Perkins(Manager, Information Technology,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Fréchette(Manager, Engineering & Technical Services,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：创办人直达+2 件地产扩张谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Integration with Integrity…any system's value and utility can only rise to its level of installation quality”
-  > “Integration with Integrity…any system's value and utility can only rise to its level of installation quality”
-  > 来源：https://www.griffonsecurity.com/
+- **【决策链与对接人】**founder and President Timothy Barrett ... in 2002 I started Griffon Security;David Douin took on as business partner in 2011 (CPA);principals Timothy Barrett and David Douin ... Anchor Light Properties LLC
+  > founder and President Timothy Barrett ... in 2002 I started Griffon Security;David Douin took on as business partner in 2011 (CPA);principals Timothy Barrett and David Douin ... Anchor Light Properties LLC
+  > 来源：https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk
+- **【决策链与对接人】**T.J. Tigerman General Manager;Sean Perkins IT Manager;Timothy Barrett Founder/Principal/President;David Douin Principal
+  > T.J. Tigerman General Manager;Sean Perkins IT Manager;Timothy Barrett Founder/Principal/President;David Douin Principal
+  > 来源：https://www.linkedin.com/company/griffon-security
+- **【团队与规模】**Executives: Timothy Barrett President;T.J. Tigerman General Manager;Jenn Louf Purchasing Coordinator;Sean Perkins IT;Mark Fréchette Engineering;19 employees · $4.2M revenue
+  > Executives: Timothy Barrett President;T.J. Tigerman General Manager;Jenn Louf Purchasing Coordinator;Sean Perkins IT;Mark Fréchette Engineering;19 employees · $4.2M revenue
+  > 来源：https://www.datanyze.com/companies/griffon-security-technologies/347172761
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：缅因本地安防集成（安装质量文化）
-- **产品线与在售品牌**：门禁/监控/告警（Allied 信号）
-- **目标行业与场景**：本地商业安防
-- **团队与规模**：小型
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：安装标准文化
-- **采购与供应链信号**：随单采购
-- **近期动态与线索**：社媒活跃
-- **与我方契合点**：摄像头柜 value PoE
-- **风险与注意**：单量小
+- **业务定位**：Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国南缅因安防系统集成商(医院谱)
+- **团队与规模**：19 人;$4.2M;2002 创
+- **决策链与对接人**：**Timothy Barrett(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO),leads-only·待 opt-in(LinkedIn/谱面带核));David Douin(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO),leads-only·待 opt-in(LinkedIn/谱面带核));T.J. Tigerman(General Manager(关键员工),leads-only·待 opt-in(LinkedIn/谱面带核));Jenn Louf(Purchasing Coordinator(硬件采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Sean Perkins(Manager, Information Technology,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Fréchette(Manager, Engineering & Technical Services,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 9 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Barrett/Douin 业主+Louf 采购(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：质量
-- **W**：规模
-- **O**：随单
-- **T**：大牌
+- **S**：创办人直达+2 件地产扩张谱
+- **W**：小体量谱(19 人)
+- **O**：Jenn Louf 采购协调 KPI 天位
+- **T**：大牌安防件链
 
 ## 触达与风险红线
 
@@ -197,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 摄像头柜现供
-  - [ ] 月量
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Griffon team,
+Hi T.J.,
 
-"Any system's value can only rise to its level of installation quality" - we build hardware with the same belief: a camera cabinet is only as good as the switch that will not drop a camera in year three.
-
-Our 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog auto-restarts frozen cameras) fits exactly the cabinets you install every week. Reference: $180 USD EXW.
-
-One question: in your Maine installations, who supplies the PoE switches for camera and access-control closets today?
-
-If useful, I can send one unit to try in a real cabinet. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

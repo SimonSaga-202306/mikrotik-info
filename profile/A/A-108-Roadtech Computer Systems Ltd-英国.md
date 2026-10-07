@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Roadtech Computer Systems Ltd（英国）：运输行业软件套件 40 年——Tachomaster（转速表分析市场头部）/DOT Tracking（GPS 车队）/Roadrunner（TMS）/Checkmaster（驾照核验）/PreDrive（车辆周检 App）；远端转速表下载装置（硬件件）；数千家公司用户
-- 【推断】软件服务商主体：我方硬件场景窄（其自有机房/运营支撑）
-- 【假设】CSV 载 Allied Telesis 信号=其自有基础设施或历史项目，不是分发通路——测深后很可能降级为“弱适配留档”
+- 【事实】Road Tech Computer Systems Ltd:ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本
+- 【推断】R66 第 9 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,28 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：sales@roadtech.co.uk（另有 info@ / crm@roadtech.co.uk。公路货运/物流行业 IT，40 年历史）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Adrian Paul Barrett**(Director(2017-12 起))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **Bernadette Beevor**(Director+Company Secretary(1992 起秘书;创始家族谱))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **David Monahan**(Director/General Manager(2024-09 任命;General Manager 职衔))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **Tony Paul Jeffree**(Director(2017-12 起))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **Philip David Thornhill**(Director(2017-12 起))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **Diane Alice Dooling**(Director(2017-12 起))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/02017435/officers〕
+  - **Tony Burton**(Infrastructure And Support Engineer(@roadtech.co.uk))— GlobalDatabase 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.globaldatabase.com/company/road-tech-computer-systems-limited〕
+  - **Fergus Ewen**(IT Engineer(@roadtech.co.uk))— GlobalDatabase 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.globaldatabase.com/company/road-tech-computer-systems-limited〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Adrian Paul Barrett | Director(2017-12 起) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| Bernadette Beevor | Director+Company Secretary(1992 起秘书;创始家族谱) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| David Monahan | Director/General Manager(2024-09 任命;General Manager 职衔) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| Tony Paul Jeffree | Director(2017-12 起) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| Philip David Thornhill | Director(2017-12 起) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| Diane Alice Dooling | Director(2017-12 起) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/02017435/officers |
+| Tony Burton | Infrastructure And Support Engineer(@roadtech.co.uk) | GlobalDatabase 谱面 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://uk.globaldatabase.com/company/road-tech-computer-systems-limited |
+| Fergus Ewen | IT Engineer(@roadtech.co.uk) | GlobalDatabase 谱面 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://uk.globaldatabase.com/company/road-tech-computer-systems-limited |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +153,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第9波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：运输 SaaS 40 年（转速表头牌）；Allied 信号来源待核
-- **②芯片/型号**：CSV 载 Allied Telesis
-- **③KP 深挖**：sales@
-- **④Saga 对标**：弱候选→核实后定
-- **⑤在乎与偏好**：—
+- **①背景再核**：ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Adrian Paul Barrett(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Bernadette Beevor(Director+Company Secretary(1992 起秘书;创始家族谱),official-self-published·谱/leads-only(直发需 opt-in));David Monahan(Director/General Manager(2024-09 任命;General Manager 职衔),official-self-published·谱/leads-only(直发需 opt-in));Tony Paul Jeffree(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Philip David Thornhill(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Diane Alice Dooling(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Tony Burton(Infrastructure And Support Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核));Fergus Ewen(IT Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：物流 IT 市场 领导者+40 年谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
-  > “Tachomaster is the market leading Tachograph Analysis solution…Supporting the Earned Recognition Pilot…thousands of companies”
-  > 来源：https://www.roadtech.co.uk/
+- **【决策链与对接人】**ROAD TECH COMPUTER SYSTEMS LIMITED Officers Active: BARRETT Adrian Paul / BEEVOR Bernadette / DOOLING Diane Alice / JEFFREE Tony Paul / MONAHAN David (Occupation: General Manager, appointed 25 September 2024) / THORNHILL Philip David
+  > ROAD TECH COMPUTER SYSTEMS LIMITED Officers Active: BARRETT Adrian Paul / BEEVOR Bernadette / DOOLING Diane Alice / JEFFREE Tony Paul / MONAHAN David (Occupation: General Manager, appointed 25 September 2024) / THORNHILL Philip David
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/02017435/officers
+- **【业务定位】**Road Tech are the market-leaders in IT services for the haulage and logistics sectors, providing a comprehensive range of software and hardware solutions to the industry
+  > Road Tech are the market-leaders in IT services for the haulage and logistics sectors, providing a comprehensive range of software and hardware solutions to the industry
+  > 来源：https://www.companiesintheuk.co.uk/ltd/road-tech-computer-systems
+- **【团队与规模】**Tony Burton Infrastructure And Support Engineer @roadtech.co.uk · Fergus Ewen IT Engineer;currently 67 employees
+  > Tony Burton Infrastructure And Support Engineer @roadtech.co.uk · Fergus Ewen IT Engineer;currently 67 employees
+  > 来源：https://uk.globaldatabase.com/company/road-tech-computer-systems-limited
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国运输 SaaS 套件 40 年
-- **产品线与在售品牌**：Tachomaster/DOT/Roadrunner/Checkmaster/PreDrive
-- **目标行业与场景**：运输/车队合规
-- **团队与规模**：中型软件商
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：DVLA 体系联通
-- **采购与供应链信号**：弱（CSV Allied 信号来源未明）
-- **近期动态与线索**：Earned Recognition 试点支持
-- **与我方契合点**：弱候选（信号来源待核）
-- **风险与注意**：若需求不实如实降级
+- **业务定位**：ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国公路货运/物流 IT 市场领导者(软件+硬件)
+- **团队与规模**：67-69 人;1986 创;40 年谱
+- **决策链与对接人**：**Adrian Paul Barrett(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Bernadette Beevor(Director+Company Secretary(1992 起秘书;创始家族谱),official-self-published·谱/leads-only(直发需 opt-in));David Monahan(Director/General Manager(2024-09 任命;General Manager 职衔),official-self-published·谱/leads-only(直发需 opt-in));Tony Paul Jeffree(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Philip David Thornhill(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Diane Alice Dooling(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Tony Burton(Infrastructure And Support Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核));Fergus Ewen(IT Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 9 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：六董事+GM 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +199,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：信号不直
-- **O**：机房
-- **T**：弱
+- **S**：物流 IT 市场 领导者+40 年谱
+- **W**：Holding 100% 持股(集团决策链)
+- **O**：General Manager Monahan 新任命=实干位
+- **T**：大牌厂商链
 
 ## 触达与风险红线
 
@@ -201,7 +225,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -210,9 +234,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 信号来源
-  - [ ] 机房需求
-  - [ ] 真实 fit
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,18 +247,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Roadtech team,
+Hi David,
 
-Tachomaster and DOT Tracking power thousands of fleets - which means a serious operation running quietly behind the scenes.
-
-We build compact managed switches that usually land in exactly such operations (server-room management, on-prem access, remote-device staging). Reference: 8-port model $99 USD EXW.
-
-One question: inside Roadtech's own infrastructure, what kind of switching gear do you run today?
-
-If useful, I can share the portfolio page. If not relevant, one line and I will stand down politely.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

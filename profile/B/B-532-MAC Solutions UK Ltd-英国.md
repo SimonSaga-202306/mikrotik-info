@@ -79,6 +79,10 @@ updated: 2026-10-07
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@mac-solutions.co.uk（支持 support@ / 欧洲商业 commercial@）；+44 01527 529774
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ian Bailey**(Director(2020-09 在任))— 经 mac-solutions.net 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/03762835/officers〕
+  - **John Edward Bailey**(Director(2020-09 在任))— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同上〕
+  - **David Porter**(Chief Executive Officer)— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/mac-solutions/354379890〕
 
 ## 关键人（KP）与触达通道
 

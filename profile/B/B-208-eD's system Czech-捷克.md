@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+420 597 444 111
 - **原始联系字段**：+420 597 444 111 / info@edsystem.cz
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Petr Slouka**(Výkonný ředitel(Executive Director))— 经 edsystem.cz 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.edsystem.cz/2018/06/05/distributor-ed-system-predstavil-nove-firemni-internetove-stranky/〕
+  - **Tomáš Jungmann**(Obchodní ředitel(商务总监）)— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.edsystem.cz/2020/03/05/canon-zvolil-nejlepsim-distributorem-za-rok-2019-ed-system-3/〕
 
 ## 关键人（KP）与触达通道
 

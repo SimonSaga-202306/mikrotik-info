@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Esotec Ltd（英国）：高监管安防集成商——**secure government/national heritage/public spaces** 全生命周期安防（测试/设计/安装/支持）；**30+ 安审级别员工（Security Cleared）**；NSI Gold+ISO 14001/27001/45001+**Crown Commercial Service 供应商**；客户墙：London Transport Authority（公共）/大型赛事组织/历史建筑信托/World-leading 安全印务/高净值人士/工程企业
-- 【推断】公共+安审主干=红线区；私营窄段（安全印务/高净值/工程企业/部分赛事）为高规格但合规可触的位
-- 【假设】安审级操作=文档与来源核验异常敏感——外资设备在 secure government 场景不现实，承认并只谈非安审私营段
+- 【事实】Esotec Ltd:Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)
+- 【推断】R66 第 9 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：sales@esotec.co.uk（另有 info@ / support@ / finance@esotec.co.uk。**高端监控/安防集成**，政府、国家遗产、公共空间项目 → PoE 供电场景强对口）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Peter Schieser**(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱))— Companies House 军官名件+D&B Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/10074925/officers〕
+  - **Craig Flanagan**(Director(2024-07 任命))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/10074925/officers〕
+  - **Michele Bennett**(Director(2025-07 任命))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/10074925/officers〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Peter Schieser | Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱) | Companies House 军官名件+D&B Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/10074925/officers |
+| Craig Flanagan | Director(2024-07 任命) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/10074925/officers |
+| Michele Bennett | Director(2025-07 任命) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/10074925/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +146,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第9波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：高监管安防（安审主干红线）；CCS 供应商
-- **②芯片/型号**：未公开
-- **③KP 深挖**：sales@
-- **④Saga 对标**：非安审窄段 value PoE（承认安审不进）
-- **⑤在乎与偏好**：规格+来源核验
+- **①背景再核**：Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Peter Schieser(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱),official-self-published·谱/leads-only(直发需 opt-in));Craig Flanagan(Director(2024-07 任命),official-self-published·谱/leads-only(直发需 opt-in));Michele Bennett(Director(2025-07 任命),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：政府/历史资产集成商谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“secure government, national heritage, public spaces…30+ security cleared staff…Crown Commercial Service Supplier”
-  > “secure government, national heritage, public spaces…30+ security cleared staff…Crown Commercial Service Supplier”
-  > 来源：https://www.esotec.co.uk/
+- **【决策链与对接人】**ESOTEC LTD. Officers: BENNETT Michele (Director appointed 25 July 2025) / FLANAGAN Craig (24 July 2024) / SCHIESER Peter (4 April 2025, German, Luxembourg)
+  > ESOTEC LTD. Officers: BENNETT Michele (Director appointed 25 July 2025) / FLANAGAN Craig (24 July 2024) / SCHIESER Peter (4 April 2025, German, Luxembourg)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/10074925/officers
+- **【决策链与对接人】**Key Principal: Peter Schieser;ESOTEC LTD. Sunbury-on-Thames TW16 5DB;Revenue $38.66M
+  > Key Principal: Peter Schieser;ESOTEC LTD. Sunbury-on-Thames TW16 5DB;Revenue $38.66M
+  > 来源：https://www.dnb.com/business-directory/company-profiles.esotec_ltd.dcb8b1dd43268f43d3cf0006c1217184.html
+- **【业务定位】**esotec is a trusted systems integrator specializing in advanced surveillance and security capabilities ... government entities and historic sites;over 35,000 employees daily
+  > esotec is a trusted systems integrator specializing in advanced surveillance and security capabilities ... government entities and historic sites;over 35,000 employees daily
+  > 来源：https://www.zoominfo.com/c/esotec/507396295
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国高监管安防集成（安审主干 红线）+私营窄段
-- **产品线与在售品牌**：安防全生命周期
-- **目标行业与场景**：安审政府（红线）+安全印务/高净值/工程（窄段）
-- **团队与规模**：大型安防集成
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：NSI Gold+三 ISO+安审员工
-- **采购与供应链信号**：高规格项目
-- **近期动态与线索**：CCS 供应商在册
-- **与我方契合点**：非安审私营窄段 value PoE
-- **风险与注意**：安审/公共红线
+- **业务定位**：Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国政要/历史建筑安防系统集成商
+- **团队与规模**：11-50 人;$38.66M;2016 注册
+- **决策链与对接人**：**Peter Schieser(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱),official-self-published·谱/leads-only(直发需 opt-in));Craig Flanagan(Director(2024-07 任命),official-self-published·谱/leads-only(直发需 opt-in));Michele Bennett(Director(2025-07 任命),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 9 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：董事层 2025 换血(谱位复核;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +192,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：规格
-- **W**：红线
-- **O**：窄段
-- **T**：大牌
+- **S**：政府/历史资产集成商谱
+- **W**：2025 董事层换血(谱位需复验)
+- **O**：Schieser Key Principal+双董事
+- **T**：大牌安防厂商链
 
 ## 触达与风险红线
 
@@ -204,7 +218,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -213,9 +227,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 非安审占比
-  - [ ] 接入现供
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +240,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Esotec team,
+Hi Peter,
 
-Your security-cleared projects demand equipment provenance we respect completely - this note explicitly does not touch those engagements in any way.
-
-For your private commercial customers (secure printers, engineering firms, private estates), we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW.
-
-One question: in your non-cleared private projects, who supplies the PoE camera closet layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

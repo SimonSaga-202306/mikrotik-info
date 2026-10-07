@@ -78,6 +78,10 @@ updated: 2026-10-07
 - **电话**：—
 - **原始联系字段**：官网联系页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ybet Sánchez Vargas de Pattison**(Director(2014 至今,唯一登记董事))— ybet@pymatek.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companiesintheuk.co.uk/ltd/pymatek-automation〕
+  - **Martin Pattison**(Sales Manager)— martin@pymatek.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.globaldatabase.com/company/pymatek-automation-ltd〕
+  - **Franco Sanchez**(Jefe De Ventas)— franco@pymatek.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同 GlobalDatabase 源〕
 
 ## 关键人（KP）与触达通道
 

@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+421 2 4445 4090
 - **原始联系字段**：+421 2 4445 4090 / obchodba@westech.sk
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ing. Matej Sršeň**(Konateľ / Generálny riaditeľ)— 经 westech.sk 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.foaf.sk/35796111?locale=en〕
+  - **Ing. Martin Strigač**(Konateľ(2025-03-24 新任）)— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同上〕
 
 ## 关键人（KP）与触达通道
 

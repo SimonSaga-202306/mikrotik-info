@@ -76,6 +76,8 @@ updated: 2026-10-07
 - **电话**：+356 2144 7003
 - **原始联系字段**：+356 2144 7003 / nz@wstsystems.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Neville Zahra**(Owner（业主）)— 经 wstsystems.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/wst-systems-ltd-management_b71953b5c480316d〕
 
 ## 关键人（KP）与触达通道
 

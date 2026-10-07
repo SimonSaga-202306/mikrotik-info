@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+353 1 282 0458
 - **原始联系字段**：+353 1 282 0458 / greg@gcntech.ie
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Greg**(Owner（业主邮箱+电话自曝）)— greg@gcntech.ie / 087 7682964 / 01 2820458 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://gcntech.ie/contact/〕
+  - **Simon**(Delivery/Sales（交付销售）)— simon@gcntech.ie / 087 4887471 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同上〕
 
 ## 关键人（KP）与触达通道
 

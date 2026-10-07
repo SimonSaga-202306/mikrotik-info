@@ -78,6 +78,10 @@ updated: 2026-10-07
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：官网联系页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Mark O'Day**(President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA))— mark@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.controller_service__sale〕
+  - **Scott O'Day**(VP Sales and Marketing(兄弟共管))— scott@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae〕
+  - **Jim Long**(Corporate Controller)— jim@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同 RocketReach 源〕
 
 ## 关键人（KP）与触达通道
 

@@ -1,0 +1,569 @@
+{
+ "date": "2026-10-07",
+ "wave": "R66 第 9 波:Esotec+Roadtech+Senseco+Griffon 四户(英 CH 军官名件+美缅因谱)",
+ "scope": "UK CH 10074925/02017435/06840964 + US ME Griffon;公司型名薄 KP 队列 154 优先段",
+ "records": [
+  {
+   "customer": "A-107",
+   "fact": "Esotec Ltd:Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)",
+   "inference": "R66 第 9 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/10074925/officers",
+   "tech": "(波次二补)",
+   "hr": "11-50 人;$38.66M;2016 注册",
+   "contact_found": "**Peter Schieser(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱),official-self-published·谱/leads-only(直发需 opt-in));Craig Flanagan(Director(2024-07 任命),official-self-published·谱/leads-only(直发需 opt-in));Michele Bennett(Director(2025-07 任命),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "英国政要/历史建筑安防系统集成商",
+    "团队与规模": "11-50 人;$38.66M;2016 注册",
+    "决策链与对接人": "**Peter Schieser(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱),official-self-published·谱/leads-only(直发需 opt-in));Craig Flanagan(Director(2024-07 任命),official-self-published·谱/leads-only(直发需 opt-in));Michele Bennett(Director(2025-07 任命),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 9 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "董事层 2025 换血(谱位复核;opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "ESOTEC LTD. Officers: BENNETT Michele (Director appointed 25 July 2025) / FLANAGAN Craig (24 July 2024) / SCHIESER Peter (4 April 2025, German, Luxembourg)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/10074925/officers"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Key Principal: Peter Schieser;ESOTEC LTD. Sunbury-on-Thames TW16 5DB;Revenue $38.66M",
+     "source": "https://www.dnb.com/business-directory/company-profiles.esotec_ltd.dcb8b1dd43268f43d3cf0006c1217184.html"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "esotec is a trusted systems integrator specializing in advanced surveillance and security capabilities ... government entities and historic sites;over 35,000 employees daily",
+     "source": "https://www.zoominfo.com/c/esotec/507396295"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Esotec Ltd(英国 Sunbury-on-Thames,Security House The Summit, Hanworth Road TW16 5DB;公司号 10074925;2016-03 注册;谱型=CCTV/安防系统集成商(政府/历史建筑/高端客户威胁评估+turn-key 设计安装支持;esotec.co.uk;11-50 人;$38.66M(D&B);2024-2025 董事层密集换血)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Peter Schieser(Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱),official-self-published·谱/leads-only(直发需 opt-in));Craig Flanagan(Director(2024-07 任命),official-self-published·谱/leads-only(直发需 opt-in));Michele Bennett(Director(2025-07 任命),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "政府/历史资产集成商谱",
+     "⑥SWOT": "S 政府/历史资产集成商谱 / W 2025 董事层换血(谱位需复验) / O Schieser Key Principal+双董事 / T 大牌安防厂商链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "政府/历史资产集成商谱",
+     "W": "2025 董事层换血(谱位需复验)",
+     "O": "Schieser Key Principal+双董事",
+     "T": "大牌安防厂商链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 9 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Peter Schieser",
+     "role": "Director(2025-04 任命;德国籍·卢森堡居;Key Principal 谱)",
+     "contact": "Companies House 军官名件+D&B Key Principal",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/10074925/officers"
+    },
+    {
+     "name": "Craig Flanagan",
+     "role": "Director(2024-07 任命)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/10074925/officers"
+    },
+    {
+     "name": "Michele Bennett",
+     "role": "Director(2025-07 任命)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/10074925/officers"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Peter,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-108",
+   "fact": "Road Tech Computer Systems Ltd:ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本",
+   "inference": "R66 第 9 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers",
+   "tech": "(波次二补)",
+   "hr": "67-69 人;1986 创;40 年谱",
+   "contact_found": "**Adrian Paul Barrett(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Bernadette Beevor(Director+Company Secretary(1992 起秘书;创始家族谱),official-self-published·谱/leads-only(直发需 opt-in));David Monahan(Director/General Manager(2024-09 任命;General Manager 职衔),official-self-published·谱/leads-only(直发需 opt-in));Tony Paul Jeffree(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Philip David Thornhill(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Diane Alice Dooling(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Tony Burton(Infrastructure And Support Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核));Fergus Ewen(IT Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "英国公路货运/物流 IT 市场领导者(软件+硬件)",
+    "团队与规模": "67-69 人;1986 创;40 年谱",
+    "决策链与对接人": "**Adrian Paul Barrett(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Bernadette Beevor(Director+Company Secretary(1992 起秘书;创始家族谱),official-self-published·谱/leads-only(直发需 opt-in));David Monahan(Director/General Manager(2024-09 任命;General Manager 职衔),official-self-published·谱/leads-only(直发需 opt-in));Tony Paul Jeffree(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Philip David Thornhill(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Diane Alice Dooling(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Tony Burton(Infrastructure And Support Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核));Fergus Ewen(IT Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 9 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "六董事+GM 谱位(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "ROAD TECH COMPUTER SYSTEMS LIMITED Officers Active: BARRETT Adrian Paul / BEEVOR Bernadette / DOOLING Diane Alice / JEFFREE Tony Paul / MONAHAN David (Occupation: General Manager, appointed 25 September 2024) / THORNHILL Philip David",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Road Tech are the market-leaders in IT services for the haulage and logistics sectors, providing a comprehensive range of software and hardware solutions to the industry",
+     "source": "https://www.companiesintheuk.co.uk/ltd/road-tech-computer-systems"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Tony Burton Infrastructure And Support Engineer @roadtech.co.uk · Fergus Ewen IT Engineer;currently 67 employees",
+     "source": "https://uk.globaldatabase.com/company/road-tech-computer-systems-limited"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "ROAD TECH COMPUTER SYSTEMS LIMITED(英国 Watford,First Floor Radius House, 51 Clarendon Road WD17 1HP(注册)+Shenley Hall, Rectory Lane, Shenley WD7 9AN(军官通信);公司号 02017435;1986-05 创(40 年谱);SIC 58290 软件出版;谱型=英国公路货运/物流 IT 服务市场领导者(软件+硬件全面方案;roadrunner.uk.com / roadtech.co.uk;01923 460000);Road Tech Holdings Ltd 100% 股东;67-69 人;£20k 资本",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Adrian Paul Barrett(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Bernadette Beevor(Director+Company Secretary(1992 起秘书;创始家族谱),official-self-published·谱/leads-only(直发需 opt-in));David Monahan(Director/General Manager(2024-09 任命;General Manager 职衔),official-self-published·谱/leads-only(直发需 opt-in));Tony Paul Jeffree(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Philip David Thornhill(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Diane Alice Dooling(Director(2017-12 起),official-self-published·谱/leads-only(直发需 opt-in));Tony Burton(Infrastructure And Support Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核));Fergus Ewen(IT Engineer(@roadtech.co.uk),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "物流 IT 市场 领导者+40 年谱",
+     "⑥SWOT": "S 物流 IT 市场 领导者+40 年谱 / W Holding 100% 持股(集团决策链) / O General Manager Monahan 新任命=实干位 / T 大牌厂商链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "物流 IT 市场 领导者+40 年谱",
+     "W": "Holding 100% 持股(集团决策链)",
+     "O": "General Manager Monahan 新任命=实干位",
+     "T": "大牌厂商链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 9 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Adrian Paul Barrett",
+     "role": "Director(2017-12 起)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Bernadette Beevor",
+     "role": "Director+Company Secretary(1992 起秘书;创始家族谱)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "David Monahan",
+     "role": "Director/General Manager(2024-09 任命;General Manager 职衔)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Tony Paul Jeffree",
+     "role": "Director(2017-12 起)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Philip David Thornhill",
+     "role": "Director(2017-12 起)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Diane Alice Dooling",
+     "role": "Director(2017-12 起)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Tony Burton",
+     "role": "Infrastructure And Support Engineer(@roadtech.co.uk)",
+     "contact": "GlobalDatabase 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://uk.globaldatabase.com/company/road-tech-computer-systems-limited"
+    },
+    {
+     "name": "Fergus Ewen",
+     "role": "IT Engineer(@roadtech.co.uk)",
+     "contact": "GlobalDatabase 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://uk.globaldatabase.com/company/road-tech-computer-systems-limited"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi David,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-110",
+   "fact": "Senseco Systems Ltd:SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)",
+   "inference": "R66 第 9 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://pomanda.com/company/06840964/senseco-systems-limited",
+   "tech": "(波次二补)",
+   "hr": "102 人;£13.3M(2024);2009 创",
+   "contact_found": "**Stephen Thomas(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings),official-self-published·谱/leads-only(直发需 opt-in));Michael Duhan(Director(2010-11)+COO,official-self-published·谱/leads-only(直发需 opt-in));Lee Thompson(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development,official-self-published·谱/leads-only(直发需 opt-in));Steve Butler(Director(2023-06)+CFO,official-self-published·谱/leads-only(直发需 opt-in));George Whittaker(Director(2019-12),official-self-published·谱/leads-only(直发需 opt-in));Lawrence Yeo(Managing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Jamie Anderson(Chief Commercial Officer (CCO),leads-only·待 opt-in(LinkedIn/谱面带核));James Plumb(Head of Security(Snodland),leads-only·待 opt-in(LinkedIn/谱面带核));Georgie Cazaly(Head Of Service(Gillingham),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "英国首家碳中和 fire&security 一体化商",
+    "团队与规模": "102 人;£13.3M(2024);2009 创",
+    "决策链与对接人": "**Stephen Thomas(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings),official-self-published·谱/leads-only(直发需 opt-in));Michael Duhan(Director(2010-11)+COO,official-self-published·谱/leads-only(直发需 opt-in));Lee Thompson(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development,official-self-published·谱/leads-only(直发需 opt-in));Steve Butler(Director(2023-06)+CFO,official-self-published·谱/leads-only(直发需 opt-in));George Whittaker(Director(2019-12),official-self-published·谱/leads-only(直发需 opt-in));Lawrence Yeo(Managing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Jamie Anderson(Chief Commercial Officer (CCO),leads-only·待 opt-in(LinkedIn/谱面带核));James Plumb(Head of Security(Snodland),leads-only·待 opt-in(LinkedIn/谱面带核));Georgie Cazaly(Head Of Service(Gillingham),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 9 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "集团 C 谱+并购扩张(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Directors: Stephen Thomas (Mar 2009) / Michael Duhan (Nov 2010) / George Whittaker (Dec 2019) / Lee Thompson (Nov 2020) / Steve Butler (Jun 2023);parent Fire & Security Holdings Limited",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Steve Thomas CEO at Senseco Systems Group/Fire and Security Holdings Ltd;Michael Duhan COO;Lee Thompson Group Director of Strategic Development",
+     "source": "https://uk.linkedin.com/company/fire-and-security-holdings-limited"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "James Plumb Head of Security · Georgie Cazaly Head Of Service;102 employees · £13.3M turnover (April 2024)",
+     "source": "https://rocketreach.co/senseco-systems-limited-profile_b5ee7977f42e75ea"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Stephen Thomas(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings),official-self-published·谱/leads-only(直发需 opt-in));Michael Duhan(Director(2010-11)+COO,official-self-published·谱/leads-only(直发需 opt-in));Lee Thompson(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development,official-self-published·谱/leads-only(直发需 opt-in));Steve Butler(Director(2023-06)+CFO,official-self-published·谱/leads-only(直发需 opt-in));George Whittaker(Director(2019-12),official-self-published·谱/leads-only(直发需 opt-in));Lawrence Yeo(Managing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Jamie Anderson(Chief Commercial Officer (CCO),leads-only·待 opt-in(LinkedIn/谱面带核));James Plumb(Head of Security(Snodland),leads-only·待 opt-in(LinkedIn/谱面带核));Georgie Cazaly(Head Of Service(Gillingham),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "碳中和首创+集团持家",
+     "⑥SWOT": "S 碳中和首创+集团持家 / W 并购整合中(北部收购待定) / O CEO/COO/CFO/CRO 四 C 实名 / T 大牌消防件链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "碳中和首创+集团持家",
+     "W": "并购整合中(北部收购待定)",
+     "O": "CEO/COO/CFO/CRO 四 C 实名",
+     "T": "大牌消防件链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 9 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Stephen Thomas",
+     "role": "Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings)",
+     "contact": "Companies House 军官名件+LinkedIn/集团页",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Michael Duhan",
+     "role": "Director(2010-11)+COO",
+     "contact": "Companies House 军官名件+集团 LinkedIn 谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Lee Thompson",
+     "role": "Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development",
+     "contact": "Companies House 军官名件+集团 LinkedIn 谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Steve Butler",
+     "role": "Director(2023-06)+CFO",
+     "contact": "Companies House 军官名件+theorg C 谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "George Whittaker",
+     "role": "Director(2019-12)",
+     "contact": "Companies House 军官名件",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Lawrence Yeo",
+     "role": "Managing Director",
+     "contact": "theorg C 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://theorg.com/org/senseco-systems"
+    },
+    {
+     "name": "Jamie Anderson",
+     "role": "Chief Commercial Officer (CCO)",
+     "contact": "theorg C 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://theorg.com/org/senseco-systems"
+    },
+    {
+     "name": "James Plumb",
+     "role": "Head of Security(Snodland)",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/senseco-systems-limited-profile_b5ee7977f42e75ea"
+    },
+    {
+     "name": "Georgie Cazaly",
+     "role": "Head Of Service(Gillingham)",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/senseco-systems-limited-profile_b5ee7977f42e75ea"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Steve,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-117",
+   "fact": "Griffon Security Technologies, LLC:Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)",
+   "inference": "R66 第 9 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk",
+   "tech": "(波次二补)",
+   "hr": "19 人;$4.2M;2002 创",
+   "contact_found": "**Timothy Barrett(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO),leads-only·待 opt-in(LinkedIn/谱面带核));David Douin(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO),leads-only·待 opt-in(LinkedIn/谱面带核));T.J. Tigerman(General Manager(关键员工),leads-only·待 opt-in(LinkedIn/谱面带核));Jenn Louf(Purchasing Coordinator(硬件采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Sean Perkins(Manager, Information Technology,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Fréchette(Manager, Engineering & Technical Services,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国南缅因安防系统集成商(医院谱)",
+    "团队与规模": "19 人;$4.2M;2002 创",
+    "决策链与对接人": "**Timothy Barrett(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO),leads-only·待 opt-in(LinkedIn/谱面带核));David Douin(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO),leads-only·待 opt-in(LinkedIn/谱面带核));T.J. Tigerman(General Manager(关键员工),leads-only·待 opt-in(LinkedIn/谱面带核));Jenn Louf(Purchasing Coordinator(硬件采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Sean Perkins(Manager, Information Technology,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Fréchette(Manager, Engineering & Technical Services,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 9 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Barrett/Douin 业主+Louf 采购(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "founder and President Timothy Barrett ... in 2002 I started Griffon Security;David Douin took on as business partner in 2011 (CPA);principals Timothy Barrett and David Douin ... Anchor Light Properties LLC",
+     "source": "https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "T.J. Tigerman General Manager;Sean Perkins IT Manager;Timothy Barrett Founder/Principal/President;David Douin Principal",
+     "source": "https://www.linkedin.com/company/griffon-security"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Executives: Timothy Barrett President;T.J. Tigerman General Manager;Jenn Louf Purchasing Coordinator;Sean Perkins IT;Mark Fréchette Engineering;19 employees · $4.2M revenue",
+     "source": "https://www.datanyze.com/companies/griffon-security-technologies/347172761"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Griffon Security Technologies LLC(美国 Kennebunk, Maine;14 Fletcher St / 5 Fletcher St(2017 两件购入 $1.1M);2002 创(Timothy Barrett 地下室起家;Anchor Light Properties LLC 三线所有权);19 员工;$4.2M;谱型=南缅因安防系统集成商(视频监控/门禁/资产人员追踪/通讯;医院病人追踪/温度监控;工程+安装+项目+技术+维保全链;griffonsecurity.com)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Timothy Barrett(Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO),leads-only·待 opt-in(LinkedIn/谱面带核));David Douin(Principal(联合所有权 2011 加入;CPA;原 Principal & CFO),leads-only·待 opt-in(LinkedIn/谱面带核));T.J. Tigerman(General Manager(关键员工),leads-only·待 opt-in(LinkedIn/谱面带核));Jenn Louf(Purchasing Coordinator(硬件采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Sean Perkins(Manager, Information Technology,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Fréchette(Manager, Engineering & Technical Services,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "创办人直达+2 件地产扩张谱",
+     "⑥SWOT": "S 创办人直达+2 件地产扩张谱 / W 小体量谱(19 人) / O Jenn Louf 采购协调 KPI 天位 / T 大牌安防件链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "创办人直达+2 件地产扩张谱",
+     "W": "小体量谱(19 人)",
+     "O": "Jenn Louf 采购协调 KPI 天位",
+     "T": "大牌安防件链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 9 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Timothy Barrett",
+     "role": "Founder / Principal / President(2002 创位;兼 Phoenix Welding Principal/COO)",
+     "contact": "mainebiz 公开受访+konaequity 谱+LinkedIn",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk"
+    },
+    {
+     "name": "David Douin",
+     "role": "Principal(联合所有权 2011 加入;CPA;原 Principal & CFO)",
+     "contact": "mainebiz 公开受访+LinkedIn/zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.mainebiz.biz/article/security-companys-growth-warrants-two-moves-in-under-a-year-in-downtown-kennebunk"
+    },
+    {
+     "name": "T.J. Tigerman",
+     "role": "General Manager(关键员工)",
+     "contact": "LinkedIn+zoominfo+datanyze 三源",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.linkedin.com/company/griffon-security"
+    },
+    {
+     "name": "Jenn Louf",
+     "role": "Purchasing Coordinator(硬件采购 KPI 天位)",
+     "contact": "datanyze 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.datanyze.com/companies/griffon-security-technologies/347172761"
+    },
+    {
+     "name": "Sean Perkins",
+     "role": "Manager, Information Technology",
+     "contact": "LinkedIn+datanyze 双源",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.datanyze.com/companies/griffon-security-technologies/347172761"
+    },
+    {
+     "name": "Mark Fréchette",
+     "role": "Manager, Engineering & Technical Services",
+     "contact": "datanyze 谱+LinkedIn",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.datanyze.com/companies/griffon-security-technologies/347172761"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi T.J.,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

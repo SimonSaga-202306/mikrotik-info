@@ -79,6 +79,8 @@ updated: 2026-10-07
 - **电话**：+40 31 101 99 09
 - **原始联系字段**：+40 31 101 99 09 / comenzi@telesystem.ro
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **David Marian**(Administrator(管理方公示名姓))— david@telesystem.ro 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-ala〕
 
 ## 关键人（KP）与触达通道
 

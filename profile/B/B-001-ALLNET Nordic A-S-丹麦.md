@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+45 69 96 00 00
 - **原始联系字段**：+45 69 96 00 00 / info@allnet.dk
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nikolaj Jakobi Nøttrup**(Direktør(董事,2021-04-13 任职;兼任董事会))— —(经 info@allnet.dk 索取) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-virksomhed.dk/firma/allnet-nordic-a-s-26115744〕
+  - **Kim Neumann**(董事(2006-10 任职,资深董事))— — 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://lasso.dk/firmaer/26115744/allnet-nordic-as〕
 
 ## 关键人（KP）与触达通道
 

@@ -76,6 +76,8 @@ updated: 2026-10-07
 - **电话**：+33 826 10 56 05
 - **原始联系字段**：+33 826 10 56 05 / h.matri@netcom-group.fr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jamal Assraoui**(Président(Pantin NETCOM GROUP, 候选）)— 经 58 Rue Denis Papin 93500 Pantin 总线 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://edecideur.info/edecideur.php?q=198020130215benmoh-benamrouche-mohamed-directeur-general-4652z-45300631400042-netcom-group-58-rue-denis-papin-93500-pantin〕
 
 ## 关键人（KP）与触达通道
 

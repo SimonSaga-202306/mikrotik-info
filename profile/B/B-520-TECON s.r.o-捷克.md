@@ -78,6 +78,8 @@ updated: 2026-10-07
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@tecon.cz（订单 objednavky@ / 支持 support@ 同页）；+420 499 429 100
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ing. Pavel Hlavizna**(Jednatel（董事）)— info@teconcz.cz / 482 723 373 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zivefirmy.cz/tecon-cz_f1147224〕
 
 ## 关键人（KP）与触达通道
 

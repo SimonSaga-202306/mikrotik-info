@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+370 37 33 39 33
 - **原始联系字段**：+370 37 33 39 33 / info@accdistribution.lt
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Žymantas Baušys**(Direktorius(2017 至今,前财务总监))— zymantas@accdistribution.eu 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085〕
+  - **Regimantas Buožius**(董事长(1998 创始人,现战略面))— regimantas@accdistribution.eu 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-di〕
 
 ## 关键人（KP）与触达通道
 

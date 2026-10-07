@@ -78,6 +78,9 @@ updated: 2026-10-07
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：salg@fiberworks.no；+47 23 03 53 30
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Roger Allan Wahlgren**(Daglig leder(常务/CEO))— 经 fiberworks.no/1881 总机 23 03 53 30 索取 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/〕
+  - **Martin Roland Linder**(Styrets leder(董事长))— — 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同 1881.no〕
 
 ## 关键人（KP）与触达通道
 

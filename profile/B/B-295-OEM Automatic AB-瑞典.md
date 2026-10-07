@@ -78,6 +78,10 @@ updated: 2026-10-07
 - **电话**：—
 - **原始联系字段**：官网联系页（HMS 名录只公开地址与网址）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jens Kjellsson**(VD OEM Automatic AB(董事总经理))— jens.kjellsson@oemautomatic.se / 076-527 82 80 〔已有(公司官方公开件/登记册自曝);源:https://www.mynewsdesk.com/se/oemautomatic/contact_people + oemautomatic.se/kontakt/personal〕
+  - **Nils Svensson**(Produktansvarig Elskåpskomponenter(电柜组件产品线经理=Red Lion/工业交换对口))— nils.svensson@oemautomatic.se 〔已有(公司官方公开件/登记册自曝);源:https://www.mynewsdesk.com/se/oemautomatic/contact_people〕
+  - **Andreas Friberg**(Produktansvarig Maskin(机械设备产品线经理))— andreas.friberg@oemautomatic.se / 076-527 84 27 〔已有(公司官方公开件/登记册自曝);源:同 Mynewsdesk〕
 
 ## 关键人（KP）与触达通道
 

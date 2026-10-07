@@ -76,6 +76,9 @@ updated: 2026-10-07
 - **电话**：+43 1 3577777
 - **原始联系字段**：+43 1 3577777 / office@netzware.at
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Florian Ivo**(Geschäftsführer(2014-04-02 在任))— office@netzware.at / +43 1 3577770 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.evi.gv.at/f/413095v〕
+  - **Dietmar Guelfenburg**(Geschäftsführer(2016-01-29 在任))— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同 evi.gv.at〕
 
 ## 关键人（KP）与触达通道
 

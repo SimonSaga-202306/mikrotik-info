@@ -77,6 +77,8 @@ updated: 2026-10-07
 - **电话**：+33 1 76 21 00 00
 - **原始联系字段**：+33 1 76 21 00 00 / contact@sewan.fr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Alexis de Goriaïnoff**(PDG et Cofondateur(集团 CEO/联合创始人))— 经 sewan.fr 联系页 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php〕
 
 ## 关键人（KP）与触达通道
 

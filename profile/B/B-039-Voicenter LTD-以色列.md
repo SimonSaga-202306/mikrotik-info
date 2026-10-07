@@ -79,6 +79,9 @@ updated: 2026-10-07
 - **电话**：+972 72 2776 771
 - **原始联系字段**：+972 72 2776 771 / info@voicenter.co.il
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nitsan Gutman**(Founder & CEO)— 经 voicenter.co.il 总线 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp〕
+  - **Golan Ashtan**(CEO(2023 早前口径))— 同上 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.ceopro.co.il/%D7%92%D7%95%D9%84%D7%9F-%D7%90%D7%A9%D7%98%D7%9F-%D7%9E%D7%A0%D7%9B%D7%9C-voicenter/〕
 
 ## 关键人（KP）与触达通道
 
