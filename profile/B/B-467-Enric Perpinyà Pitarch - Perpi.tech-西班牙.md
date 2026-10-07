@@ -1,57 +1,144 @@
 # Enric Perpinyà Pitarch / Perpi.tech
 
 > **评级 B**　|　西班牙 · Palma（马略卡）　|　档案编号 `B-467`　|　优先级 ★★　|　状态：未触达
+>
+> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
----
+```yaml structured_profile
+code: B-467
+rating: B
+country: 西班牙
+biz_org: 个体顾问（有公司域）
+business_model: 咨询/项目交付
+decision_speed: fast
+price_sensitivity: medium
+volume_potential: 2  # 1-5
+needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: true, training: true}
+p1: CONSULT-OEM
+stage: 00-researched
+struct_version: v2  # v2 骨架
+updated: 2026-10-07
+```
 
-## 一、评级与结论
+## SALES BRIEF（压缩模型）
 
-- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
-- **评级依据**：通用分销商信号，无差异化切入点，慢慢跟
-- **下次复核**：收到反馈后重新评级
+- **是谁**：Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connect…
+- **商业模式**：咨询/项目交付
+- **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道；—（合作探询，无量产报价）
+- **第一问（只问一个）**：你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)
+- **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
+- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
-## 二、公司概览
+## 基本事实（事实/推断/假设分层）
 
-| 项 | 内容 |
-|---|---|
-| 公司名 | Perpi.tech |
-| 国家 | 西班牙 |
-| 城市 | Palma（马略卡） |
-| 网站 | perpi.tech |
-| 类型 | 集成商/顾问（MikroTik 认证） |
-| 反向信号 | MikroTik 认证顾问 MTCNA+MTCRE+MTCSE |
-| 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STC-424XGGM（Saga） |
-| 切入点 | MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战 |
-| 数据来源 | 2026-09-22 |
-| 原备注 | Perpi.tech 的 CEO 兼联合创始人 → 决策人本人 |
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Enric Perpinyà Pitarch / Perpi.tech（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 西班牙 / Palma（马略卡） | 事实 |
+| 网站 | perpi.tech | 事实 |
+| 类型 | 集成商/顾问（MikroTik 认证） | 事实（CSV 名录口径） |
+| 关键人 | Enric Perpinyà Pitarch | 事实 |
+| 反向信号（资质/品牌） | MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 事实（名录/自报口径） |
+| 组织性质 | 个体顾问（有公司域） | 【推断】 |
+| 商业模式 | 咨询/项目交付 | 【推断】 |
+| 团队规模 | 一人/微型 | 【推断】 |
+| 决策链 | 短（本人即决策） | 【推断】 |
+| R55·背景深描 | Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配) | 事实+【推断】混合，见证据摘录 |
+| 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
-## 三、人员与联系方式
 
-- **对接人**：Enric Perpinyà Pitarch
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)
+- 【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
+- 【假设】守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位
+
+## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
+
+【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
+
+> 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
+
+## 需求与场景（推断标签）
+
+- **推断需求面**：PoE 接入供电、酒店/多住户、教学教具
+  - PoE 接入供电：【推断】依据 CSV 信号/深挖
+  - 酒店/多住户：【推断】依据 CSV 信号/深挖
+  - 教学教具：【推断】依据 CSV 信号/深挖
+
+## HR 与规模信号（招聘/团队/绿旗）
+
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+
+## 联系方式（已有/猜测分标）
+
 - **邮箱**：enric@perpi.tech
+  - 状态：既有/公开
 - **电话**：+34 657 334 318
 - **原始联系字段**：+34 657 334 318 / enric@perpi.tech
+- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
-## 四、品牌与技术栈
+## 关键人（KP）与触达通道
 
-**持有认证**：MTCNA、MTCRE、MTCSE
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Enric Perpinyà Pitarch | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
 
-- `MTCNA` — 网络助理（入门）
-- `MTCRE` — 路由
-- `MTCSE` — 安全
+## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-**涉及品牌 / 技术**：MikroTik
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-## 五、跟进策略
+### 第 1 次跟进 · 守档 D+14 · 创始人具名短引见
 
-**场景**：待摸底
+- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
+- **切入点**：守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位
+- **要问的问题**：你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)
+- **随附/动作**：随附 1 页特性对照/测试包说明
 
-保持低频联系，等他出现交换机需求信号再提级为 A。
+### 第 2 次跟进 · 守档 D+60 · 酒店项目信号观察
 
-参考型号：`STC-424XGGM（Saga）`
+- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
+- **切入点**：守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位
+- **要问的问题**：你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)
+- **随附/动作**：随附 1 页特性对照/测试包说明
 
-## 六、注意点
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+
+- **背景深描**：Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)
+- **芯片与在用型号**：【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
+- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表
+- **优缺点SWOT**：S:创始人直决+获奖背书+酒店客谱 / W:初创体量极小,SaaS 优先 / O:酒店改造 PoE 项目随单(中长线) / T:初创存活率
+- **Saga产品适配**：获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【R57备护深挖证据】**Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar co
+  > Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar con el personal IT de las empresas hoteleras
+  > 来源：https://www.ultimahora.es/noticias/local/2026/07/15/2666711/
+- **【R57备护深挖证据】**Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en l
+  > Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en la nube
+  > 来源：https://perpi.tech/
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | 获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道 |
+
+- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
+- **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
+
+## SWOT
+
+S:创始人直决+获奖背书+酒店客谱 / W:初创体量极小,SaaS 优先 / O:酒店改造 PoE 项目随单(中长线) / T:初创存活率
+
+## 触达与风险红线
 
 **通用红线（所有客户适用）**
 
@@ -61,49 +148,64 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
+**停止开发条件（命中任一即停）**：3 次定向触达无任何实质回复；确认现用平台完全满足需求；只愿比价不愿谈场景；决策者确认接触不到；对方书面拒绝。
 
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+## Qualification 清单
 
-**深挖三层**
-- 【事实】Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)
-- 【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
-- 【假设】守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（PoE/接入层池） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ 邮箱域已验 MX |
+| 现用交换品牌 | ❓ 未确认 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
-**SWOT 速描**
-- **S**: 创始人直决+获奖背书+酒店客谱
-- **W**: 初创体量极小,SaaS 优先
-- **O**: 酒店改造 PoE 项目随单(中长线)
-- **T**: 初创存活率
+## Unknowns（待问清单 · 首触后逐项消除）
 
-**证据（quote → 来源）**
-- 「Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar con el personal IT de las empresas hoteleras」 — https://www.ultimahora.es/noticias/local/2026/07/15/2666711/
-- 「Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en la nube」 — https://perpi.tech/
+- **深挖专属待问（R56）**：
+  - [ ] 酒店客户布网/改造项目的硬件采购节奏
+  - [ ] 团队规模与现金流
 
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `CONSULT-OEM` — 获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道
-- 第一问: 你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)
-- 标签: 西班牙|马略卡|初创获奖|酒店客谱|创始人直决
+- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
+- [ ] 典型站点端口数与供电预算
+- [ ] 上门/故障频次（订阅制客户的核心成本）
+- [ ] 采购决策人与付款口径
 
-**备养出信稿（未触发，供后续用户启用参考）**
-> 【合作通道·备养】创始人具名引见后定;初创 SaaS 为主,硬件需求随酒店项目出现才激活,勿推架位。
+## 首触邮件（英文样板 · 可直接发送）
 
-**待补证清单**
-1. 酒店客户布网/改造项目的硬件采购节奏
-2. 团队规模与现金流
+**主题**：Neutral-built PoE switches under your own label
 
-**跟进建议（守档节奏）**
-- D+14 创始人具名短引见
-- D+60 酒店项目信号观察
+```text
+Hi Enric,
 
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第6波 -->
-## 七、跟进记录
+I came across Perpi.tech - 集成商/顾问（MikroTik 认证）.
 
-| 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
-|---|---|---|---|---|
-|  |  |  |  |  |
+We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
 
-<!-- 有新进展时把内容告诉我，我来更新本档案并重评级 -->
+One question: 你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)
+
+If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
+
+## 跟进记录
+
+| 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+
+## 下次复核
+
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
+- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
 
 ---
 
-*建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+*建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*

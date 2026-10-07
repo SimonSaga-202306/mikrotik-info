@@ -106,7 +106,7 @@ def yaml_block(e):
     n = e['needs']
     lines = ['```yaml structured_profile',
              'code: %s' % e['code'],
-             'rating: A',
+             'rating: %s' % e.get('rating', 'A'),
              'country: %s' % (e['country'] or '?'),
              'biz_org: %s' % e['biz_org'],
              'business_model: %s' % e['business_model'],
@@ -137,8 +137,8 @@ def render(e, ctx):
     # ---- 头 ----
     w('# %s' % name)
     w('')
-    w('> **评级 A**　|　%s%s　|　档案编号 `%s`　|　优先级 %s　|　状态：%s'
-      % (e['country'], ' · ' + ctx['city'] if ctx['city'] else '', e['code'], ctx['prio'], ctx['status']))
+    w('> **评级 %s**　|　%s%s　|　档案编号 `%s`　|　优先级 %s　|　状态：%s'
+      % (e.get('rating', 'A'), e['country'], ' · ' + ctx['city'] if ctx['city'] else '', e['code'], ctx['prio'], ctx['status']))
     w('>')
     w('> **触达状态（Stage）**：%s　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）' % e['stage'])
     w('')
@@ -514,7 +514,10 @@ def render(e, ctx):
     w('')
     w('---')
     w('')
-    w('*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*')
+    if e.get('rating', 'A') == 'B':
+        w('*建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*')
+    else:
+        w('*建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*')
     return L
 
 

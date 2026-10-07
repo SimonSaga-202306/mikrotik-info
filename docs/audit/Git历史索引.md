@@ -5,6 +5,8 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `0e5010031a6a` | 2026-10-07T13:24:00+00:00 | R65:B 类全量 167 户升 v2 骨架(对齐 A 类标准;R57 备护深挖忠实转写) |
+| `816063385afa` | 2026-10-07T12:47:53+00:00 | R64 收尾:12 户 KP 点名首触定制稿 + B 类 KP 猎捕第 1 批 14 户 + 总账 |
 | `29696696a919` | 2026-10-07T12:16:48+00:00 | R64 收尾:测试白名单补丁+xlsx全量重导 ①tests 补 R63_BOUNCED(退信 8 户 入口/备注)白名单四层挂接+R63_PROMOTED/R61_REPLIED/R62_BOUNCED 入 xlsx 对比 skip 集 ②xlsx 两张(分级跟进表 A580/B167/C290+对照表反向信号名单 1037)按现行 CSV 重导 ③总账轮次计数 63→65 ④audit re-hash;29/29 OK 全过 0 skip+errors=0 |
 | `2fe838493b4c` | 2026-10-07T12:06:23+00:00 | R64 KP猎捕第1波(R63新升12户)+A-575/576/581预留升级户复用: ①web_search 定 15 位 KP(含 etree 创始人CEO Twonski、Vodanet Founder Krakus+Purchase Mgr İhsan Aslan、EDOX 采购负责人 Weckerle、PEC 50%业主 Peter Jezernik、art2soft MD Thomas Thoma、Nim Wave Presidente Zito、Ronitek Tomer Shitrit)②scripts/R64_KP猎捕.py:6模式邮箱排列组合+域MX核验(115 候选全 MX 存活;SMTP 用户级沙箱不可验标 guessed-leads-only 不进群发)③12 档 profile 注入 R64 KP 节+A-571/A-578 人名待定 ④batch/KP猎捕_A_R64_第1波.json 落账 ⑤tests 注释 A-575/576/581 三号预留;29 tests OK+audit errors=0 |
 | `0ad6ba2ba237` | 2026-10-07T11:49:03+00:00 | R63 退信9户处置+B类升A 12户(B-037/038/105/152/160/220/223/238/270/390/401/422→A-570..584): ①退信9户按 R58/R62 规则:永久 dead 7(A-342 R62 期满满止转永久/A-496/A-499/A-500 server-misconfigured/A-563/A-539/A-516 domain-not-found)+观察46h 2(A-441/A-457)+A-123 PASS 用户裁定;②B→A 升筛:R53 复筛 JSON 283 记录中抓取失败类 27 户→web_search 重核 26 户→12 户达标升 A(编号 A-570~A-584,A-575/576/581 腾空:B-171 SICE=B-489/B-190 wifihw=A-494/B-318 mikrotik.ro=A-527 库内已升);③STRUCT 568→580,A 档 v2 模板重构+R57-BC/R63 节保留;④tests 加 R63_PROMOTED/R63_PROMOTED_NEW/R63_PROMOTED_FIELDS,A 568→580/B 179→167 数适配;⑤audit errors=0/29 tests OK(skipped=5 浅克隆基线) |

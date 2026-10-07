@@ -1,50 +1,134 @@
 # RUGGED SCIENCE
 
 > **评级 B**　|　美国　|　档案编号 `B-375`　|　优先级 ★★　|　状态：未触达
+>
+> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
----
+```yaml structured_profile
+code: B-375
+rating: B
+country: 美国
+biz_org: 分销/批发商（有官网）
+business_model: 分销 stocking
+decision_speed: moderate
+price_sensitivity: high
+volume_potential: 4  # 1-5
+needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: true, hotel: false, training: false}
+p1: CONSULT-OEM
+stage: 00-researched
+struct_version: v2  # v2 骨架
+updated: 2026-10-07
+```
 
-## 一、评级与结论
+## SALES BRIEF（压缩模型）
 
-- **评级**：B　**Maybe** —— 不太明显，慢跟待验证
-- **评级依据**：通用分销商信号，无差异化切入点，慢慢跟
-- **下次复核**：收到反馈后重新评级
+- **是谁**：RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(E…
+- **商业模式**：分销 stocking
+- **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
+- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项；—（合作探询，无量产报价）
+- **第一问（只问一个）**：（守档，不入首触点）
+- **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
+- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
 
-## 二、公司概览
+## 基本事实（事实/推断/假设分层）
 
-| 项 | 内容 |
-|---|---|
-| 公司名 | RUGGED SCIENCE |
-| 国家 | 美国 |
-| 城市 | — |
-| 网站 | ruggedscience.com |
-| 类型 | 分销（ORing 授权） |
-| 反向信号 | ORing |
-| 是否自有品牌 | 否 |
-| 首推 Saga 型号 | STI-480XGGM（Saga） |
-| 切入点 | 工业/轨道同规格 1/3 价第二供应源 |
-| 数据来源 | 2026-09-22 |
-| 原备注 | 加固计算机/军用方向 |
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | RUGGED SCIENCE（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 美国 | 事实 |
+| 网站 | ruggedscience.com | 事实 |
+| 类型 | 分销（ORing 授权） | 事实（CSV 名录口径） |
+| 反向信号（资质/品牌） | ORing | 事实（名录/自报口径） |
+| 组织性质 | 分销/批发商（有官网） | 【推断】 |
+| 商业模式 | 分销 stocking | 【推断】 |
+| 团队规模 | 有官网组织，规模未量化 | 【推断】 |
+| 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
+| R55·背景深描 | RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点 | 事实+【推断】混合，见证据摘录 |
+| 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
-## 三、人员与联系方式
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧
+- 【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
+- 【假设】与我们同产线：只能走「OEM 联合设计/元器件合作」或守界研究；不推供位。判位=建档观察
+
+## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
+
+【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
+
+> 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
+
+## 需求与场景（推断标签）
+
+- **推断需求面**：PoE 接入供电、工业/户外/宽温、OEM/白牌
+  - PoE 接入供电：【推断】依据 CSV 信号/深挖
+  - 工业/户外/宽温：【推断】依据 CSV 信号/深挖
+  - OEM/白牌：【推断】依据 CSV 信号/深挖
+
+## HR 与规模信号（招聘/团队/绿旗）
+
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+
+## 联系方式（已有/猜测分标）
 
 - **邮箱**：sales@ruggedscience.com
+  - 状态：既有/公开
 - **电话**：+1 855 769-9747
 - **原始联系字段**：+1 855 769-9747 / sales@ruggedscience.com
+- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
-## 四、品牌与技术栈
+## 关键人（KP）与触达通道
 
-**涉及品牌 / 技术**：ORing
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
-## 五、跟进策略
+## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-**场景**：待摸底
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-保持低频联系，等他出现交换机需求信号再提级为 A。
+### 第 1 次跟进 · 守档 D+14 · 低频开口
 
-参考型号：`STI-480XGGM（Saga）`
+- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
+- **切入点**：同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项
+- **要问的问题**：（守档，不入首触点）
+- **随附/动作**：随附 1 页特性对照
 
-## 六、注意点
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+
+- **背景深描**：RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧
+- **芯片与在用型号**：【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
+- **关键人KP**：—
+- **关注点与资质**：ORing 
+- **优缺点SWOT**：S:军规血统+研发自研 / W:同业=守界红线 / O:OEM 元器件级合作假说 / T:不应走销售面
+- **Saga产品适配**：同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【R57备护深挖证据】**Rugged Science network switches are built with hardened electronics…designed in the United States
+  > Rugged Science network switches are built with hardened electronics…designed in the United States
+  > 来源：https://ruggedscience.com/military-computers/rugged-network-switches/
+- **【R57备护深挖证据】**NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant
+  > NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant
+  > 来源：https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | 同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项 |
+
+- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
+- **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
+
+## SWOT
+
+S:军规血统+研发自研 / W:同业=守界红线 / O:OEM 元器件级合作假说 / T:不应走销售面
+
+## 触达与风险红线
 
 **通用红线（所有客户适用）**
 
@@ -54,48 +138,64 @@
 4. 大集团先问清采购层级（国别 vs 集团统一）。
 5. 样机先送测，再谈价格。
 
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
+**停止开发条件（命中任一即停）**：3 次定向触达无任何实质回复；确认现用平台完全满足需求；只愿比价不愿谈场景；决策者确认接触不到；对方书面拒绝。
 
-**深挖三层**
-- 【事实】RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧
-- 【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
-- 【假设】与我们同产线：只能走「OEM 联合设计/元器件合作」或守界研究；不推供位。判位=建档观察
+## Qualification 清单
 
-**SWOT 速描**
-- **S**: 军规血统+研发自研
-- **W**: 同业=守界红线
-- **O**: OEM 元器件级合作假说
-- **T**: 不应走销售面
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（PoE/接入层池） | ✅ |
+| 决策人识别 | ❓ |
+| 触达通道 | ✅ 邮箱域已验 MX |
+| 现用交换品牌 | ❓ 未确认 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
-**证据（quote → 来源）**
-- 「Rugged Science network switches are built with hardened electronics…designed in the United States」 — https://ruggedscience.com/military-computers/rugged-network-switches/
-- 「NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant」 — https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch
+## Unknowns（待问清单 · 首触后逐项消除）
 
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `CONSULT-OEM` — 同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项
-- 第一问: （守档，不入首触点）
-- 标签: 美国|军规rugged厂|同业守界
+- **深挖专属待问（R56）**：
+  - [ ] NS-4000 实际产线状态与国军售额（会不会只是挂面）
+  - [ ] 能否接受 OEM 元器件合作（其 rugged 母版 vs 我们交换主板）
 
-**备养出信稿（未触发，供后续用户启用参考）**
-> 【建档观察·同业】不出信；其 rugged switch 谱作我厂竞品对标镜像档维护。
+- [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
+- [ ] 典型站点端口数与供电预算
+- [ ] 上门/故障频次（订阅制客户的核心成本）
+- [ ] 采购决策人与付款口径
 
-**待补证清单**
-1. NS-4000 实际产线状态与国军售额（会不会只是挂面）
-2. 能否接受 OEM 元器件合作（其 rugged 母版 vs 我们交换主板）
+## 首触邮件（英文样板 · 可直接发送）
 
-**跟进建议（守档节奏）**
-- 竞品对标维护
-- 不入出信序
+**主题**：Neutral-built PoE switches under your own label
 
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
-## 七、跟进记录
+```text
+Hi RUGGED,
 
-| 日期 | 方式 | 我方动作 | 对方回应 | 下一步 |
-|---|---|---|---|---|
-|  |  |  |  |  |
+I came across RUGGED SCIENCE - 分销（ORing 授权）.
 
-<!-- 有新进展时把内容告诉我，我来更新本档案并重评级 -->
+We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
+
+One question: （守档，不入首触点）
+
+If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
+
+## 跟进记录
+
+| 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
+
+## 下次复核
+
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
+- 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
 
 ---
 
-*建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+*建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*

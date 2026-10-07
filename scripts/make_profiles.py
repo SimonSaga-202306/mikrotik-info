@@ -269,6 +269,37 @@ def load_enrichment55():
 ENRICH55 = load_enrichment55()
 
 
+# ── B 类深挖（R65：B 升 v2 骨架标准；结构同 R56）────────────────────────────
+ENRICH_B_FILES = [
+    "batch/B类深挖_2026-10-07_R65_R57转写.json",
+    "batch/B类深挖_2026-10-07_R65_第1批.json",
+    "batch/B类深挖_2026-10-07_R65_第2批.json",
+    "batch/B类深挖_2026-10-07_R65_第3批.json",
+    "batch/B类深挖_2026-10-07_R65_第4批.json",
+    "batch/B类深挖_2026-10-07_R65_第5批.json",
+    "batch/B类深挖_2026-10-07_R65_第6批.json",
+    "batch/B类深挖_2026-10-07_R65_第7批.json",
+    "batch/B类深挖_2026-10-07_R65_第8批.json",
+]
+
+
+def load_enrichment_b():
+    """B 类深挖批（结构同 R56 深挖；缺文件跳过，与 A 类加厚同一纪律）。"""
+    out = {}
+    for rel in ENRICH_B_FILES:
+        path = rel if os.path.exists(rel) else os.path.join(_REPO_ROOT, rel)
+        if not os.path.exists(path):
+            continue
+        data = json.load(open(path, encoding="utf-8"))
+        for rec in data["records"]:
+            rec["_file"] = rel
+            out[rec["code"]] = rec
+    return out
+
+
+ENRICH_B = load_enrichment_b()
+
+
 def _clear_stale_dossiers():
     """Remove old dossiers before regenerating.
 
@@ -402,11 +433,12 @@ def main():
         brands = sorted({b.strip() for b in BRANDS if b.lower() in (blob + " " + signal).lower()})
         certs = [c for c in CERTS if re.search(c, signal)]
 
-        # A 类 v2 骨架（R56）：结构化档案 + 单一产品决策；B/C 走旧模板
-        if grade == "A" and code in STRUCT:
+        # v2 骨架（R56）：A 类全量 + B 类已深挖户（R65）；C 走旧模板
+        # B 户须同时有 STRUCT 条目与深挖批记录才升级，缺一保持旧模板不降级
+        if code in STRUCT and (grade == "A" or (grade == "B" and code in ENRICH_B)):
             e = STRUCT[code]
             rec_a = ENRICH.get(code)
-            rec55_a = ENRICH55.get(code)
+            rec55_a = ENRICH55.get(code) if grade == "A" else ENRICH_B.get(code)
             ctx = dict(name=name, country=country, city=city, site=site, typ=typ,
                        signal=signal, ownbrand=ownbrand, angle=angle, sku=sku,
                        contact=contact, prio=prio, status=status, src=src, note=note,
@@ -415,9 +447,11 @@ def main():
                        mails=mails, tels=tels,
                        # R54 已有跟进步骤的户（frozen plan）优先保留；R56 定制只在无 R54 记录时补位
                        custom_followup=(CUSTOM_FOLLOWUP_M.get(code) or TRANSIENT_CU_PLAN.get(code)
-                                        or (_r56fu(ENRICH55.get(code)) if (ENRICH55.get(code) and not rec_a) else None)),
+                                        or (_r56fu(ENRICH55.get(code)) if (grade == "A" and ENRICH55.get(code) and not rec_a)
+                                            else (_r56fu(ENRICH_B.get(code)) if grade == "B" else None))),
                        custom_email=(CUSTOM_EMAIL.get(code) or TRANSIENT_CU_MAIL.get(code)
-                                     or (_r56em(ENRICH55.get(code)) if ENRICH55.get(code) else None)))
+                                     or (_r56em(ENRICH55.get(code)) if grade == "A"
+                                         else (_r56em(ENRICH_B.get(code)) if grade == "B" else None))))
             L = render(e, ctx)
             open(path, "w", encoding="utf-8").write("\n".join(L) + "\n")
             made.append((code, name, country, fname))

@@ -1502,7 +1502,23 @@ class RepositoryTests(unittest.TestCase):
         # B/C 不动（旧模板）。位置/编号冻结与内容豁免沿袭 R49 授权线。
         struct = json.loads((ROOT / 'batch/structured_profiles_v1.json').read_text(encoding='utf-8'))
         a_files = sorted((ROOT / 'profile/A').glob('A-*.md'))
-        self.assertEqual(len(a_files), len(struct))
+        # R65(2026-10-07):STRUCT 现含 B 类条目(B 类升 v2),A 断言按 rating 分级过滤
+        struct_a = {k: v for k, v in struct.items() if v.get('rating', 'A') == 'A'}
+        self.assertEqual(len(a_files), len(struct_a))
+        # R65 B 类骨架镜像断言:B 档 = STRUCT 中 rating B = 167,且与 A 同一 v2 头部全集
+        struct_b = {k: v for k, v in struct.items() if v.get('rating') == 'B'}
+        b_files = sorted((ROOT / 'profile/B').glob('B-*.md'))
+        self.assertEqual(len(struct_b), len(b_files))
+        for p in b_files:
+            text = p.read_text(encoding='utf-8')
+            code = p.name[:5]
+            for head in ('## SALES BRIEF（压缩模型）', '## 基本事实（事实/推断/假设分层）',
+                         '## 联系方式（已有/猜测分标）', '## 关键人（KP）与触达通道',
+                         '## 跟进步骤（最多 3 次', '## 首触邮件（英文样板', '## 跟进记录',
+                         '## 下次复核'):
+                self.assertIn(head, text, code)
+            self.assertIn('```yaml structured_profile', text, code)
+            self.assertIn('rating: B', text, code)
         allow_p1 = {'STC-28DGGPM', 'STC-424XGGPM-280W', 'STI-288GP',
                     'STI-480XGGM', 'STI-280GE', 'CONSULT-OEM'}
         for p in a_files:
