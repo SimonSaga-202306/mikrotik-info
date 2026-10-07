@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU…
+- **是谁**：AT Computers a.s.(捷克 Ostrava HQ+Prague/Brno/Bratislava/Žilina 分支;**捷克-斯洛伐克最大 ICT 批发分销商(1998 起 28 年;2024 推测 ¥35…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU/300+ 世界品牌/1,000+ 零售伙伴网络;atcmarket.cz = 其纯 B2B 市场平台(不直售终端,全部 resale 通过 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | AT Computers a.s.(捷克 Ostrava HQ+Prague/Brno/Bratislava/Žilina 分支;**捷克-斯洛伐克最大 ICT 批发分销商(1998 起 28 年;2024 推测 ¥35 mld Kč;330 员工;77,921 品/263 全球厂商;捷克最大 PC 生产商;波兰 AB Group 成员(华沙上市)=中东欧最 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口) | R65 深挖:平台型分销大 65000 SKU;MikroTik 商口由 web 册内挂着,PO 口位置价值
-- 【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策
-- 【假设】开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +60,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- AT Computers a.s.(捷克 Ostrava HQ+Prague/Brno/Bratislava/Žilina 分支;**捷克-斯洛伐克最大 ICT 批发分销商(1998 起 28 年;2024 推测 ¥35 mld Kč;330 员工;77,921 品/263 全球厂商;捷克最大 PC 生产商;波兰 AB Group 成员(华沙上市)=中东欧最大分销集团,欧洲前十)**;atcomp.cz;XaaS/gaming(X-Play)/Eaton 官方分销商
 
 ## 联系方式（已有/猜测分标）
 
@@ -76,59 +69,80 @@ updated: 2026-10-07
 - **电话**：+420 552 300 111
 - **原始联系字段**：+420 552 300 111 / obchod@atcomp.cz
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Aleš Kilnar**(předseda představenstva(董事会主席))— 公司 LinkedIn 官方 About 页署名 〔已有(公司官方公开件/登记册自曝);源:https://www.linkedin.com/company/at-computers〕
+  - **Martin Harazím**(Purchasing Director(**采购总监 KPI 天位**))— Crunchbase 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/at-computers〕
+  - **Martin Wanke**(Marketing Director)— Crunchbase+rmol.cz 采访双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/at-computers〕
+  - **Petr Vaněk**(obchodní ředitel(销售总监))— rmol.cz XaaS 采访件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.rmol.cz/distributor/at-computers?paginator-page=13〕
+  - **Rostislav Vybíral**(člen představenstva(董事)+IT oddělení 部长)— kariera.atcomp.cz 官网自署 vybiral@atcomp.cz 〔已有(公司官方公开件/登记册自曝);源:https://kariera.atcomp.cz/〕
+  - **Lukáš Neuwirth**(vedoucí reklamačního oddělení(售后索赔部长))— kariera.atcomp.cz 官网自署 neuwirth@atcomp.cz 〔已有(公司官方公开件/登记册自曝);源:https://kariera.atcomp.cz/〕
+  - **Peter Majdak**(Networking(产品线口))— LinkedIn 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/company/at-computers〕
+  - **Martin Hrabal**(Financial officer / Payment manager)— LinkedIn 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/company/at-computers〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Aleš Kilnar | předseda představenstva(董事会主席) | 公司 LinkedIn 官方 About 页署名 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.linkedin.com/company/at-computers |
+| Martin Harazím | Purchasing Director(**采购总监 KPI 天位**) | Crunchbase 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/at-computers |
+| Martin Wanke | Marketing Director | Crunchbase+rmol.cz 采访双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/at-computers |
+| Petr Vaněk | obchodní ředitel(销售总监) | rmol.cz XaaS 采访件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.rmol.cz/distributor/at-computers?paginator-page=13 |
+| Rostislav Vybíral | člen představenstva(董事)+IT oddělení 部长 | kariera.atcomp.cz 官网自署 vybiral@atcomp.cz | official-self-published·谱/leads-only(直发需 opt-in) | https://kariera.atcomp.cz/ |
+| Lukáš Neuwirth | vedoucí reklamačního oddělení(售后索赔部长) | kariera.atcomp.cz 官网自署 neuwirth@atcomp.cz | official-self-published·谱/leads-only(直发需 opt-in) | https://kariera.atcomp.cz/ |
+| Peter Majdak | Networking(产品线口) | LinkedIn 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/company/at-computers |
+| Martin Hrabal | Financial officer / Payment manager | LinkedIn 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/company/at-computers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 集团架上 value 档提案
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓
-- **要问的问题**：你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · obchod@atcomp.cz 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓
-- **要问的问题**：你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓
-- **要问的问题**：你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
 
-- **背景深描**：AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU/300+ 世界品牌/1,000+ 零售伙伴网络;atcmarket.cz = 其纯 B2B 市场平台(不直售终端,全部 resale 通过 reseller);TOUCHIT 项目学生;下面有些话是平台型分销与谱商接口最能通)
-- **芯片与在用型号**：【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策
-- **关键人KP**：—(零售平台层大分销,jednatel/董事需到 or.justice.cz/商业登记查询本,IČO 61672599 挂牌)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:集团架 value PoE stocking SKU / T:集团集采门槛
-- **Saga产品适配**：中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)
+- **背景深描**：AT Computers a.s.(捷克 Ostrava HQ+Prague/Brno/Bratislava/Žilina 分支;**捷克-斯洛伐克最大 ICT 批发分销商(1998 起 28 年;2024 推测 ¥35 mld Kč;330 员工;77,921 品/263 全球厂商;捷克最大 PC 生产商;波兰 AB Group 成员(华沙上市)=中东欧最大分销集团,欧洲前十)**;atcomp.cz;XaaS/gaming(X-Play)/Eaton 官方分销商
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Aleš Kilnar(předseda představenstva(董事会主席),official-self-published·谱/leads-only(直发需 opt-in));Martin Harazím(Purchasing Director(**采购总监 KPI 天位**),leads-only·待 opt-in(LinkedIn/谱面带核));Martin Wanke(Marketing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Petr Vaněk(obchodní ředitel(销售总监),leads-only·待 opt-in(LinkedIn/谱面带核));Rostislav Vybíral(člen představenstva(董事)+IT oddělení 部长,official-self-published·谱/leads-only(直发需 opt-in));Lukáš Neuwirth(vedoucí reklamačního oddělení(售后索赔部长),official-self-published·谱/leads-only(直发需 opt-in));Peter Majdak(Networking(产品线口),leads-only·待 opt-in(LinkedIn/谱面带核));Martin Hrabal(Financial officer / Payment manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：中欧前十分销+AB Group 平台
+- **优缺点SWOT**：S 中欧前十分销+AB Group 平台 / W 大平台采购链层(AB Group) / O Harazím 采购总监 KPI 直达 / T 大牌厂商直供链
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):捷克一线 ICT 批发分销(AB Group 成员);Harazím 采购+Kilnar 董事会谱位(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**annual sales of CZK 23 billion, the largest Czech distributor of IT and telecommunications products…part of the Polish AB Group…among the te
-  > annual sales of CZK 23 billion, the largest Czech distributor of IT and telecommunications products…part of the Polish AB Group…among the ten largest companies in Europe
+- **【决策链与对接人】**Aleš Kilnar, předseda představenstva(公司 LinkedIn About 页署名捷克最大 ICT 批发分销+30 mld Kč 谱)
+  > Aleš Kilnar, předseda představenstva(公司 LinkedIn About 页署名捷克最大 ICT 批发分销+30 mld Kč 谱)
+  > 来源：https://www.linkedin.com/company/at-computers
+- **【决策链与对接人】**Martin Harazím Purchasing Director;Martin Wanke Marketing Director(Crunchbase employee 件);annual sales CZK 23 billion;part of Polish AB Group
+  > Martin Harazím Purchasing Director;Martin Wanke Marketing Director(Crunchbase employee 件);annual sales CZK 23 billion;part of Polish AB Group
   > 来源：https://www.crunchbase.com/organization/at-computers
-- **【R57备护深挖证据】**Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek
-  > Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek
-  > 来源：https://ifirmy.cz/firma/005422-at-computers-as
-- **【R65 平台谱型坐实】**AT Computers a.s.=捷克 ICT 大分销,atcmarket.cz 纯 B2B 市场,65000+ SKU ≈ 300 大谱/大卖家网络,不直售终 user,全部 resale 过 reseller;IČO 616 72 599 发票地 Slezská Ostrava
-  > AT Computers, Slezská Ostrava … Distribuční společnost nabízející ICT zařízení … Databáze produktů obsahuje více jak 65 000 různých položek zboží od 300 největších světových i domácích značek … ATC nikdy neprodává koncovým zákazníkům napřímo
-  > 来源：https://www.hwforum.cz/novinky/projekt-www.atcmarket-cz-od-AT-Computers.html
+- **【团队与规模】**Rostislav Vybíral člen představenstva - IT oddělení;Lukáš Neuwirth vedoucí reklamačního oddělení;Marcel Kurovec správce IT(kariera.atcomp.cz 官网员工故事页)
+  > Rostislav Vybíral člen představenstva - IT oddělení;Lukáš Neuwirth vedoucí reklamačního oddělení;Marcel Kurovec správce IT(kariera.atcomp.cz 官网员工故事页)
+  > 来源：https://kariera.atcomp.cz/
+- **【团队与规模】**Petr Vaněk a Martin Wanke (AT Computers): Když se XaaS pojme správně...(rmol.cz 采访件,Vaněk=obchodní ředitel)
+  > Petr Vaněk a Martin Wanke (AT Computers): Když se XaaS pojme správně...(rmol.cz 采访件,Vaněk=obchodní ředitel)
+  > 来源：https://www.rmol.cz/distributor/at-computers?paginator-page=13
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +155,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:集团架 value PoE stocking SKU / T:集团集采门槛
+S 中欧前十分销+AB Group 平台 / W 大平台采购链层(AB Group) / O Harazím 采购总监 KPI 直达 / T 大牌厂商直供链
 
 ## 触达与风险红线
 
@@ -160,7 +174,7 @@ S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -169,8 +183,8 @@ S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] networking 品类采购负责人(类目 BU)
-  - [ ] AB Group 集团层 value 品牌策略(自牌或三方)
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +193,15 @@ S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi AT Computers team,
+Dobrý den Martine,
 
-The largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.
-
-One question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

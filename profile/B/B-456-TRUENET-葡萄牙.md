@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portuga…
+- **是谁**：TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 无线专精 VAD 的客层 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portugal 官方 exhibitor(MikroTik User Meeting 名录)+ LigoWave 葡萄牙官方分销(+351 936 79 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routin | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt) | R65 深挖:葡萄牙 MikroTik 官方 MUM 谱位+LigoWave 分销联动
-- 【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
-- 【假设】开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +60,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routing/switching/统一通信+helpdesk 管服+NAC 入侵检测+软件开发;认证技师谱 20+ 年;NOS Comunicações Empresarial 合作谱)
 
 ## 联系方式（已有/猜测分标）
 
@@ -76,59 +69,73 @@ updated: 2026-10-07
 - **电话**：+351 936 794 301
 - **原始联系字段**：+351 936 794 301 / comercial@truenet.pt
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Orlando Carlos Lopes da Silva**(Manager(Sócio-Gerente 股东经理))— Kompass 法定高管谱+RR Gerente 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://gb.kompass.com/c/truenet-lda/pt150369/〕
+  - **Daniela Costa e Silva**(Founder and CFO(创位+财务总监;家族谱))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕
+  - **Antero Vasconcelos**(Chief Technology Officer(技术总监))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕
+  - **Helder Oliveira**(Consultor Técnico NOS Comunicações - Empresarial(企业线顾问))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕
+  - **Pedro Rocha**(Network System Engineer)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕
+  - **Ricardo Lopes**(Project Manager - Corporate Solutions @ NOS)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Orlando Carlos Lopes da Silva | Manager(Sócio-Gerente 股东经理) | Kompass 法定高管谱+RR Gerente 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://gb.kompass.com/c/truenet-lda/pt150369/ |
+| Daniela Costa e Silva | Founder and CFO(创位+财务总监;家族谱) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86 |
+| Antero Vasconcelos | Chief Technology Officer(技术总监) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86 |
+| Helder Oliveira | Consultor Técnico NOS Comunicações - Empresarial(企业线顾问) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86 |
+| Pedro Rocha | Network System Engineer | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86 |
+| Ricardo Lopes | Project Manager - Corporate Solutions @ NOS | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 无线客层 PoE 页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · comercial@truenet.pt 开口(MUM 圈层提)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
 
-- **背景深描**：TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portugal 官方 exhibitor(MikroTik User Meeting 名录)+ LigoWave 葡萄牙官方分销(+351 936 794 301)**;tub 谱型=葡萄牙无线/天线专业分销线
-- **芯片与在用型号**：【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
-- **关键人KP**：—(Lda. sócio gerente conservatória do registo Porto 收费墙;R65 谱位+exhibitor 档案已足）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随单 / T:同圈 Officelan 等竞争
-- **Saga产品适配**：无线专精 VAD 的客层 PoE 随单位
+- **背景深描**：TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routing/switching/统一通信+helpdesk 管服+NAC 入侵检测+软件开发;认证技师谱 20+ 年;NOS Comunicações Empresarial 合作谱)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Orlando Carlos Lopes da Silva(Manager(Sócio-Gerente 股东经理),leads-only·待 opt-in(LinkedIn/谱面带核));Daniela Costa e Silva(Founder and CFO(创位+财务总监;家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Antero Vasconcelos(Chief Technology Officer(技术总监),leads-only·待 opt-in(LinkedIn/谱面带核));Helder Oliveira(Consultor Técnico NOS Comunicações - Empresarial(企业线顾问),leads-only·待 opt-in(LinkedIn/谱面带核));Pedro Rocha(Network System Engineer,leads-only·待 opt-in(LinkedIn/谱面带核));Ricardo Lopes(Project Manager - Corporate Solutions @ NOS,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：股东经理+创始 CFO 家族谱
+- **优缺点SWOT**：S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术谱直达 / T 大牌件链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):葡萄牙 Porto 数据通信网服商(NOS 合作谱);Orlando 股东经理+Daniela 创始 CFO(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**TRUENET Distributor in Portugal Tel: +351 936 794 301 info@truenet.pt www.truenet.pt
-  > TRUENET Distributor in Portugal Tel: +351 936 794 301 info@truenet.pt www.truenet.pt
-  > 来源：https://www.ligowave.com/distributors/europe
-- **【R57备护深挖证据】**Expositores … Truenet (Portugal)
-  > Expositores … Truenet (Portugal)
-  > 来源：https://mum.mikrotik.com/2019/PT/exhibitors/PT
-- **【R65 谱/档案】**Truenet Lda NIF 513514139 · 2019 MUM PT exhibitor · LigoWave Portugal 官方分销
-  > Truenet (Portugal) [2019 MUM PT exhibitor] … TRUENET Distributor in Portugal Tel: +351 936 794 301 [ligowave.com 官方名录] … NIF 513514139 Rua do Mosteiro, 89 4465-703 Leça do Balio
-  > 来源：https://mum.mikrotik.com/2019/PT/exhibitors/PT
+- **【决策链与对接人】**Executives: Orlando Carlos Lopes da Silva — Manager (Sócio-Gerente);N. FISCAL 513514139;Rua Mosteiro, 89, 4465-703 LEÇA DO BALIO;Corporate capital 50,000 EUR;established 2015(Kompass 件)
+  > Executives: Orlando Carlos Lopes da Silva — Manager (Sócio-Gerente);N. FISCAL 513514139;Rua Mosteiro, 89, 4465-703 LEÇA DO BALIO;Corporate capital 50,000 EUR;established 2015(Kompass 件)
+  > 来源：https://gb.kompass.com/c/truenet-lda/pt150369/
+- **【团队与规模】**Antero Vasconcelos CTO;Daniela Costa e Silva Founder and CFO;Orlando Silva Gerente;Helder Oliveira Consultor NOS;Sara Ferreira PM;Nuno Caldeira;Manuel Mendes;Ricardo Lopes PM NOS;Pedro Rocha Network System Engineer;33 employees(RR 谱)
+  > Antero Vasconcelos CTO;Daniela Costa e Silva Founder and CFO;Orlando Silva Gerente;Helder Oliveira Consultor NOS;Sara Ferreira PM;Nuno Caldeira;Manuel Mendes;Ricardo Lopes PM NOS;Pedro Rocha Network System Engineer;33 employees(RR 谱)
+  > 来源：https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86
+- **【业务定位】**DATA COMMUNICATION NETWORKS (WIFI, Routing, Switching, Unified Communication);HELPDESK;NETWORK SECURITY (Firewall, NAC, Intrusion Detection);SOFTWARE DEVELOPMENT;certified technicians 20+ years
+  > DATA COMMUNICATION NETWORKS (WIFI, Routing, Switching, Unified Communication);HELPDESK;NETWORK SECURITY (Firewall, NAC, Intrusion Detection);SOFTWARE DEVELOPMENT;certified technicians 20+ years
+  > 来源：https://www.lusha.com/business/c90320f3cb3065cd/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随单 / T:同圈 Officelan 等竞争
+S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术谱直达 / T 大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -160,7 +167,7 @@ S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -169,8 +176,8 @@ S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 无线谱旁交换档位现供
-  - [ ] LigoWave 谱占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +186,15 @@ S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi TRUENET team,
+Boa tarde Orlando,
 
-A MikroTik MUM Portugal exhibitor and the LigoWave desk for the country - your WISP and wireless installer customers climb towers and build node cabinets, and every site needs dependable PoE switching behind the radios.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
-
-One question: for your WISP and wireless installer customers, which PoE switch stocks their sites today - and is there a value slot for a documented unit?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

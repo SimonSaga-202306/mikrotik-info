@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kol…
+- **是谁**：Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 K…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kolibřík klub invest a.s. + DC Europe system a.s. 双 Jednatel 法人在位（2021-06 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axil | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料 | R65 深挖:法人家长轴型实体（DC Europe 集团属）;plzen 谱位
-- 【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示
-- 【假设】开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +62,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axilogi.com);**股东:DC Europe system a.s.(Plzeň 集团)+Ing. Milan Harmáček(akcionář)**;živnost 电气电子电信设备制造安装维修(řemeslná)
 
 ## 联系方式（已有/猜测分标）
 
@@ -78,59 +71,67 @@ updated: 2026-10-07
 - **电话**：+420 777 103 488
 - **原始联系字段**：+420 777 103 488 / sales@axilogi.cz
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ing. Milan Harmáček**(CEO(2023 起)+Akcionář/člen správní rady(股东+监事会;前 DISCOMP s.r.o. CEO 1999-2024 25 年谱))— podnikatel.cz 登记册谱+RocketReach CEO 谱 〔已有(公司官方公开件/登记册自曝);源:https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/〕
+  - **Patrik Kříž**(Key Principal(主负责人))— DNB Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.axilogi_sro.8f534121236895f8af25304b2e442fad.html〕
+  - **Tomáš Bubeník**(Obsahový specialista(内容专员;前 pilsfree.net 谱))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ing. Milan Harmáček | CEO(2023 起)+Akcionář/člen správní rady(股东+监事会;前 DISCOMP s.r.o. CEO 1999-2024 25 年谱) | podnikatel.cz 登记册谱+RocketReach CEO 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/ |
+| Patrik Kříž | Key Principal(主负责人) | DNB Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.axilogi_sro.8f534121236895f8af25304b2e442fad.html |
+| Tomáš Bubeník | Obsahový specialista(内容专员;前 pilsfree.net 谱) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · Cudy/Alta 对位页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线
-- **要问的问题**：你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · sales@axilogi.cz 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线
-- **要问的问题**：你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线
-- **要问的问题**：你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
 
-- **背景深描**：AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kolibřík klub invest a.s. + DC Europe system a.s. 双 Jednatel 法人在位（2021-06-23 起至今）——谱为法人家长轴**;sales@axilogi.cz + servis@axilogi.cz +420 371 420 573
-- **芯片与在用型号**：【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示
-- **关键人KP**：Kolibřík klub invest a.s. + DC Europe system a.s. 双法人 Jednatel(sales/servis 函数口已足）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装商随单 24 口管理型位 / T:Cudy 低价惯性
-- **Saga产品适配**：光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)
+- **背景深描**：Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axilogi.com);**股东:DC Europe system a.s.(Plzeň 集团)+Ing. Milan Harmáček(akcionář)**;živnost 电气电子电信设备制造安装维修(řemeslná)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Ing. Milan Harmáček(CEO(2023 起)+Akcionář/člen správní rady(股东+监事会;前 DISCOMP s.r.o. CEO 1999-2024 25 年谱),official-self-published·谱/leads-only(直发需 opt-in));Patrik Kříž(Key Principal(主负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Tomáš Bubeník(Obsahový specialista(内容专员;前 pilsfree.net 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：Harmáček 25 年分销谱(Discomp→Axilogi)
+- **优缺点SWOT**：S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股东直达位 / T 大牌件链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):捷克 Plzeň 网络件+光伏批发分销;Harmáček CEO/股东+Kříž 负责人(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**DEYE, MikroTik, Vami, TP-Link, Conexpro, Cudy, Alta Labs, Ubiquiti Networks, Stromberg, Teltonika, Olife Energy, Felicity…Fotovoltaika, Bezd
-  > DEYE, MikroTik, Vami, TP-Link, Conexpro, Cudy, Alta Labs, Ubiquiti Networks, Stromberg, Teltonika, Olife Energy, Felicity…Fotovoltaika, Bezdráty, LAN, Optické sítě, Napájení, Rozvaděče
-  > 来源：https://www.axilogi.com/
-- **【R57备护深挖证据】**AxiLogi Master Distributors Pilsen sales@axilogi.cz
-  > AxiLogi Master Distributors Pilsen sales@axilogi.cz
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
-- **【R65 登记/联动】**AxiLogi s.r.o. IČO 10964703 · Plzeň Daimlerova 1161/6 · 双法人 Jednatel（法人家长轴）· sales/servis 函数口
-  > Jednatel: Kolibřík klub invest a. s. Den vzniku funkce: 23. 6. 2021 … Jednatel: DC Europe system a.s. Den vzniku funkce: 23. 6. 2021 … AxiLogi s.r.o. IČO: 10964703 DIČ: CZ10964703 Daimlerova 1161/6, 301 00 Plzeň
-  > 来源：https://axilogi.com/kontakty_d1502.html
+- **【决策链与对接人】**Kapitál: DC Europe system a.s. + Ing. Milan Harmáček Akcionář, Člen správní rady(podnikatel.cz 捷克商事登记谱);základní kapitál 2 000 000 Kč
+  > Kapitál: DC Europe system a.s. + Ing. Milan Harmáček Akcionář, Člen správní rady(podnikatel.cz 捷克商事登记谱);základní kapitál 2 000 000 Kč
+  > 来源：https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/
+- **【决策链与对接人】**Key Principal: Patrik Kříž(DNB 件);CEO Milan Harmacek(2023-now;1999-2024 CEO @ DISCOMP s.r.o.;ZČU Plzeň Ing. 2000)
+  > Key Principal: Patrik Kříž(DNB 件);CEO Milan Harmacek(2023-now;1999-2024 CEO @ DISCOMP s.r.o.;ZČU Plzeň Ing. 2000)
+  > 来源：https://rocketreach.co/milan-harmacek-email_99105918
+- **【团队与规模】**Top employees: Milan Harmacek CEO;Tomáš Bubeník Obsahový specialista;6 employees;Network Technologies/Photovoltaic/Security Cameras/Smart Home(RR 谱)
+  > Top employees: Milan Harmacek CEO;Tomáš Bubeník Obsahový specialista;6 employees;Network Technologies/Photovoltaic/Security Cameras/Smart Home(RR 谱)
+  > 来源：https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装商随单 24 口管理型位 / T:Cudy 低价惯性
+S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股东直达位 / T 大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -162,7 +163,7 @@ S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -171,8 +172,8 @@ S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 光伏安装商谱里网络件随单频度
-  - [ ] Cudy/Alta 价位带与我司对位
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +182,15 @@ S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi AxiLogi team,
+Dobrý den pane Harmáčku,
 
-Photovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.
-
-One question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

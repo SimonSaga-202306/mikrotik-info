@@ -1497,7 +1497,7 @@
       "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
       "sha256": "a31290d8fac1ee5c335f0faa1de00eb3a9c87c7a5f2ab22febfe9d9ab85b67f3",
       "bytes": 34503,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 548,
       "unique_url_count": 13,
       "inspection": {},
@@ -2170,6 +2170,16 @@
       "tracked_at_scan": true,
       "units_scanned": 554,
       "unique_url_count": 12,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+      "sha256": "75d59964f41055ee050d6c74de6518979f605b1cb9e41f73b85d23b7c0146c69",
+      "bytes": 50969,
+      "tracked_at_scan": false,
+      "units_scanned": 724,
+      "unique_url_count": 15,
       "inspection": {},
       "errors": []
     },
@@ -2865,10 +2875,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "b25691331b662c1a9e8fba2b9ef47fed124f4fd1e9eda5b0dd9aa64886778064",
-      "bytes": 160197,
+      "sha256": "792061bd640bb348d564c971161cc43ee48d544aa6166223e016f69ed6a3b855",
+      "bytes": 161382,
       "tracked_at_scan": true,
-      "units_scanned": 1335,
+      "units_scanned": 1342,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9365,11 +9375,11 @@
     },
     {
       "path": "profile/B/B-191-AT Computers a.s-捷克.md",
-      "sha256": "4f0827f9db66049b0037af7bcbc9ccb509dc2139828f7537d04128a7df0d49ab",
-      "bytes": 14058,
+      "sha256": "d7867d034775eb164d9c8309804fde5e487f4914963708e43faba164734c3892",
+      "bytes": 15658,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 3,
+      "units_scanned": 224,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -9385,11 +9395,11 @@
     },
     {
       "path": "profile/B/B-194-AxiLogi-捷克.md",
-      "sha256": "531e6fa017072a09b0d147356a6bef1faa7afb5a11b658d357fee72dcc0d1ce0",
-      "bytes": 13898,
+      "sha256": "23a0034af92f16dd3c807e7af84db1fb1dd02da6b299f9b6175032fdab0ddc45",
+      "bytes": 13546,
       "tracked_at_scan": true,
-      "units_scanned": 218,
-      "unique_url_count": 3,
+      "units_scanned": 213,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -9405,11 +9415,11 @@
     },
     {
       "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-      "sha256": "2f1238c7e70460c5903c3210369da80261ccdbfe9b544f9b0000c23d1bed49f9",
-      "bytes": 13080,
+      "sha256": "81e9d916952e0fa4c456cc4e99a88daeb4962386535e312dd235b683e72a28cd",
+      "bytes": 16436,
       "tracked_at_scan": true,
-      "units_scanned": 220,
-      "unique_url_count": 3,
+      "units_scanned": 226,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -10085,11 +10095,11 @@
     },
     {
       "path": "profile/B/B-456-TRUENET-葡萄牙.md",
-      "sha256": "73bd762f87f56f9b9bd0d23ff454a0b42723f49c739c28eac75e1279c6d8b399",
-      "bytes": 12279,
+      "sha256": "aa03bd38cc297a325689a07385d3904ab952a0b0f3e3a94f6a91411f62511596",
+      "bytes": 14678,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 2,
+      "units_scanned": 217,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -13634,6 +13644,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_B_KP波4落盘.py",
+      "sha256": "abc4c51cf0afa6561c0733310cb6ac584386cf593cd729d78e52cc37456ae0fb",
+      "bytes": 15289,
+      "tracked_at_scan": false,
+      "units_scanned": 119,
+      "unique_url_count": 15,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_KP第1波落盘.py",
       "sha256": "00163584702aeddb22e4b6ee5fba7ff036a3f8e2d7086692e05ddab5a2e83f25",
       "bytes": 25522,
@@ -13697,7 +13717,7 @@
       "path": "scripts/R66_R56_KP第14波落盘.py",
       "sha256": "641f5edc4f0e09fb3267f0008fe9cbfd1bbe964698dd5b3ee011398e60c7c226",
       "bytes": 13780,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 106,
       "unique_url_count": 13,
       "inspection": {},
@@ -13865,10 +13885,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "13c6326ec2c203b775588aeaf2687423f783c71f2a265222539ff47b405d1e02",
-      "bytes": 38654,
+      "sha256": "45627098ad242e2eb3caea336fcaab4d70c64c1776a8c0ebbc91f54b8f0d03c9",
+      "bytes": 38706,
       "tracked_at_scan": true,
-      "units_scanned": 801,
+      "units_scanned": 802,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件…
+- **是谁**：PCV Computers, s.r.o.(捷克 České Budějovice(Za Otýlií 2874/6)+Praha Rybná 682/14 注册;**IČ 26084121,DIČ CZ26084121…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件谱（Heureka 认证 2017 起）——次日达老客谱 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | PCV Computers, s.r.o.(捷克 České Budějovice(Za Otýlií 2874/6)+Praha Rybná 682/14 注册;**IČ 26084121,DIČ CZ26084121,datová schránka jumsm2k**;**2005 创(21 年)**;11-15 员工;$2M;+420 380 420  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌) | R65 深挖:České Budějovice 电商实体谱位
-- 【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位
-- 【假设】开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +62,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- PCV Computers, s.r.o.(捷克 České Budějovice(Za Otýlií 2874/6)+Praha Rybná 682/14 注册;**IČ 26084121,DIČ CZ26084121,datová schránka jumsm2k**;**2005 创(21 年)**;11-15 员工;$2M;+420 380 420 700;**谱型=捷克组网/VoIP IT 分销商:WISP 专营 MikroTik/Grandstream/Thecus/ADEX/Nenshi 官方分销商!TP-Link/Ubiquiti 二级分销;+IS 实施(Altus VARIO Pro/IS KARAT 企业档)**;pcvcomp.cz;adam@pcvcomp.cz(商户名录件)
 
 ## 联系方式（已有/猜测分标）
 
@@ -78,59 +71,80 @@ updated: 2026-10-07
 - **电话**：+420 380 420 700
 - **原始联系字段**：+420 380 420 700 / obchod@pcvcomp.cz
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ing. Jan Duda**(jednatel(执行董事)+obchod(商务;2005-04 起董事会位))— verif.com 高管谱+zivefirmy.cz 联人件双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/〕
+  - **Adam Truszyk**(obchod(商务;adam@pcvcomp.cz 商户名录邮箱件))— zivefirmy.cz 联人件+RR Obchodník 谱+nen.nipez.cz 商户名录 adam@ 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zivefirmy.cz/pcv-computers_f347429〕
+  - **Zdeněk Valdman**(Vedoucí prodeje(销售主管 KPI 天位))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
+  - **Michaela Koryčanská**(Product Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
+  - **Petra Pavlíčková**(Product Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
+  - **Augustin Uhlíř**(Produktový manažer(产品经理))— RocketReach+LinkedIn 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
+  - **Miloslav Melichar**(VoIP specialista(VoIP 专员))— RocketReach+LinkedIn 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
+  - **Zdenka Dorazilová**(ERP konzultant)— RocketReach+LinkedIn 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ing. Jan Duda | jednatel(执行董事)+obchod(商务;2005-04 起董事会位) | verif.com 高管谱+zivefirmy.cz 联人件双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/ |
+| Adam Truszyk | obchod(商务;adam@pcvcomp.cz 商户名录邮箱件) | zivefirmy.cz 联人件+RR Obchodník 谱+nen.nipez.cz 商户名录 adam@ 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zivefirmy.cz/pcv-computers_f347429 |
+| Zdeněk Valdman | Vedoucí prodeje(销售主管 KPI 天位) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
+| Michaela Koryčanská | Product Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
+| Petra Pavlíčková | Product Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
+| Augustin Uhlíř | Produktový manažer(产品经理) | RocketReach+LinkedIn 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
+| Miloslav Melichar | VoIP specialista(VoIP 专员) | RocketReach+LinkedIn 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
+| Zdenka Dorazilová | ERP konzultant | RocketReach+LinkedIn 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · WISP 客层 PoE 页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · obchod@pcvcomp.cz 开口(附 i4wifi 关联确认)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联
-- **要问的问题**：你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
 
-- **背景深描**：PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件谱（Heureka 认证 2017 起）——次日达老客谱
-- **芯片与在用型号**：【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位
-- **关键人KP**：—(s.r.o. jednatel OR České Budějovice 收费墙；R65 谱位+地址件已足）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T:非同族则价值减半
-- **Saga产品适配**：Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位
+- **背景深描**：PCV Computers, s.r.o.(捷克 České Budějovice(Za Otýlií 2874/6)+Praha Rybná 682/14 注册;**IČ 26084121,DIČ CZ26084121,datová schránka jumsm2k**;**2005 创(21 年)**;11-15 员工;$2M;+420 380 420 700;**谱型=捷克组网/VoIP IT 分销商:WISP 专营 MikroTik/Grandstream/Thecus/ADEX/Nenshi 官方分销商!TP-Link/Ubiquiti 二级分销;+IS 实施(Altus VARIO Pro/IS KARAT 企业档)**;pcvcomp.cz;adam@pcvcomp.cz(商户名录件)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Ing. Jan Duda(jednatel(执行董事)+obchod(商务;2005-04 起董事会位),leads-only·待 opt-in(LinkedIn/谱面带核));Adam Truszyk(obchod(商务;adam@pcvcomp.cz 商户名录邮箱件),leads-only·待 opt-in(LinkedIn/谱面带核));Zdeněk Valdman(Vedoucí prodeje(销售主管 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Michaela Koryčanská(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Petra Pavlíčková(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Augustin Uhlíř(Produktový manažer(产品经理),leads-only·待 opt-in(LinkedIn/谱面带核));Miloslav Melichar(VoIP specialista(VoIP 专员),leads-only·待 opt-in(LinkedIn/谱面带核));Zdenka Dorazilová(ERP konzultant,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：MikroTik 官方分销+21 年谱
+- **优缺点SWOT**：S MikroTik 官方分销+21 年谱 / W 小实体谱 / O Valdman 销售主管+Duda 董事直达 / T 大牌厂商链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):捷克 WISP 组网/VoIP IT 分销(MikroTik 官方);Duda jednatel+Valdman 销售主管+adam@ 商务线(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**i4wifi a.s. logo ### PCV Computers, s.r.o. Master Distributor Value Added Distributor Ceske Budejovice obchod@pcvcomp.cz
-  > i4wifi a.s. logo ### PCV Computers, s.r.o. Master Distributor Value Added Distributor Ceske Budejovice obchod@pcvcomp.cz
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
-- **【R57备护深挖证据】**PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha
-  > PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha
-  > 来源：https://www.drzacky.cz/en/where-to-buy/
-- **【R65 谱/地址】**PCV Computers · Č. Budějovice Za Otýlií 2874/6 · +420 380 420 700 · pcvcomp.cz 电商实体 + Heureka 认证
-  > PCV Computers, s.r.o. Za Otýlií 2874/6 České Budějovice, 37001 Tel.: +420 380 420 700 Web: www.pcvcomp.cz
-  > 来源：https://obchody.heureka.cz/pcvcomp-cz/recenze/
+- **【决策链与对接人】**Kontaktní osoby: Jan Duda - obchod, jednatel;Adam Truszyk - obchod;Ing. Jan Duda tel.: 380 420 700(zivefirmy.cz 商户页)
+  > Kontaktní osoby: Jan Duda - obchod, jednatel;Adam Truszyk - obchod;Ing. Jan Duda tel.: 380 420 700(zivefirmy.cz 商户页)
+  > 来源：https://www.zivefirmy.cz/pcv-computers_f347429
+- **【决策链与对接人】**Who is running the company: managed by Jan Duda — Most senior leader since 04/01/2005, Member of the Board of Directors(verif.com 件)
+  > Who is running the company: managed by Jan Duda — Most senior leader since 04/01/2005, Member of the Board of Directors(verif.com 件)
+  > 来源：https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/
+- **【业务定位】**IT distributor specialized for networking and VoIP;Distributor: Mikrotik, Grandstream, Thecus, ADEX, Nenshi;Subdistributor: TP-Link, Ubiquiti;11-50 employees;České Budějovice;founded 2005(LinkedIn 官方 About 页)
+  > IT distributor specialized for networking and VoIP;Distributor: Mikrotik, Grandstream, Thecus, ADEX, Nenshi;Subdistributor: TP-Link, Ubiquiti;11-50 employees;České Budějovice;founded 2005(LinkedIn 官方 About 页)
+  > 来源：https://cz.linkedin.com/company/pcv-computers-s-r-o-
+- **【团队与规模】**Michaela Koryčanská/Petra Pavlíčková/Augustin Uhlíř Product Managers;Zdeněk Valdman Vedoucí prodeje;Miloslav Melichar VoIP specialista;Zdenka Dorazilová ERP konzultant;15 employees;$2M
+  > Michaela Koryčanská/Petra Pavlíčková/Augustin Uhlíř Product Managers;Zdeněk Valdman Vedoucí prodeje;Miloslav Melichar VoIP specialista;Zdenka Dorazilová ERP konzultant;15 employees;$2M
+  > 来源：https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +157,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T:非同族则价值减半
+S MikroTik 官方分销+21 年谱 / W 小实体谱 / O Valdman 销售主管+Duda 董事直达 / T 大牌厂商链竞谱
 
 ## 触达与风险红线
 
@@ -162,7 +176,7 @@ S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -171,8 +185,8 @@ S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] PCV 与 i4wifi 股权/同族关系验证
-  - [ ] 其无线安装客层 PoE 档现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,23 +195,15 @@ S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi PCV team,
+Dobrý den pane Dudo,
 
-Master distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.
-
-One question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?
-
-(Also: should we address this to the i4wifi family as well, or are you the right desk?)
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

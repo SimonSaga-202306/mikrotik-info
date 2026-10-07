@@ -2626,14 +2626,6 @@
         "locator": "L29"
       },
       {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L127"
-      },
-      {
         "path": "profile/B/B-208-eD's system Czech-捷克.md",
         "locator": "L134"
       }
@@ -3734,10 +3726,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第21批.json",
         "locator": "L183"
-      },
-      {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L133"
       }
     ]
   },
@@ -7392,6 +7380,34 @@
       {
         "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://cz.linkedin.com/company/pcv-computers-s-r-o-",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L399"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L424"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://cz.linkedin.com/company/pcv-computers-s-r-o-'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L93"
       }
     ]
   },
@@ -12348,6 +12364,60 @@
     ]
   },
   {
+    "url": "https://gb.kompass.com/c/truenet-lda/pt150369/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L557"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L586"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L604"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L678"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://gb.kompass.com/c/truenet-lda/pt150369/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L101"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
+    "url": "https://gb.kompass.com/c/truenet-lda/pt150369/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://gbeconverge.com",
     "http_checked": false,
     "occurrences": [
@@ -14518,10 +14588,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第4批.json",
         "locator": "L568"
-      },
-      {
-        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
-        "locator": "L128"
       }
     ]
   },
@@ -16776,6 +16842,72 @@
       {
         "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://kariera.atcomp.cz/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L76"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L179"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
+    "url": "https://kariera.atcomp.cz/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L57"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L58"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L63"
+      }
+    ]
+  },
+  {
+    "url": "https://kariera.atcomp.cz/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L78"
       }
     ]
   },
@@ -25760,14 +25892,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L125"
-      },
-      {
-        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
-        "locator": "L128"
-      },
-      {
-        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
-        "locator": "L131"
       }
     ]
   },
@@ -28386,10 +28510,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第22批.json",
         "locator": "L41"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L133"
       }
     ]
   },
@@ -30922,6 +31042,56 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L248"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L268"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L344"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L73"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3",
     "http_checked": false,
     "occurrences": [
@@ -31578,6 +31748,34 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/milan-harmacek-email_99105918",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L243"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L262"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L131"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/milan-harmacek-email_99105918'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323",
     "http_checked": false,
     "occurrences": [
@@ -31634,6 +31832,136 @@
       {
         "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L404"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L430"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L513"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L520"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L527"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L534"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L541"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L147"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L87"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L88"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L89"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L90"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/pcv-computers-sro-profile_b4140fccff88a4ad〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L82"
       }
     ]
   },
@@ -32022,6 +32350,120 @@
       {
         "path": "scripts/R64_KP猎捕.py",
         "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L591"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L610"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L685"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L692"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L699"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L706"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L713"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L102"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L103"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L104"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L105"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L106"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L108"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L74"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L78"
       }
     ]
   },
@@ -44052,10 +44494,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第21批.json",
         "locator": "L171"
-      },
-      {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L127"
       }
     ]
   },
@@ -48108,8 +48546,64 @@
         "locator": "L562"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L70"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L151"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L158"
+      },
+      {
         "path": "profile/B/B-191-AT Computers a.s-捷克.md",
-        "locator": "L125"
+        "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/at-computers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L54"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L55"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L62"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/at-computers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L74"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L75"
       }
     ]
   },
@@ -51436,6 +51930,40 @@
     ]
   },
   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.axilogi_sro.8f534121236895f8af25304b2e442fad.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L337"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.axilogi_sro.8f534121236895f8af25304b2e442fad.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.axilogi_sro.8f534121236895f8af25304b2e442fad.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
     "url": "https://www.dnb.com/business-directory/company-profiles.controller_service__sale",
     "http_checked": false,
     "occurrences": [
@@ -52266,10 +52794,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第22批.json",
         "locator": "L35"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L130"
       }
     ]
   },
@@ -57994,10 +58518,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第4批.json",
         "locator": "L574"
-      },
-      {
-        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
-        "locator": "L131"
       }
     ]
   },
@@ -62458,10 +62978,92 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L113"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/at-computers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L12"
       },
       {
-        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
-        "locator": "L125"
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L64"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L144"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L186"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L193"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/at-computers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L53"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L59"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L60"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L61"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/at-computers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L80"
       }
     ]
   },
@@ -70320,6 +70922,34 @@
     ]
   },
   {
+    "url": "https://www.lusha.com/business/c90320f3cb3065cd/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L596"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L616"
+      },
+      {
+        "path": "profile/B/B-456-TRUENET-葡萄牙.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lusha.com/business/c90320f3cb3065cd/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L109"
+      }
+    ]
+  },
+  {
     "url": "https://www.lyon-entreprises.com/entreprise/bluebearsit/presentation-bluebearsit",
     "http_checked": false,
     "occurrences": [
@@ -77194,6 +77824,60 @@
     ]
   },
   {
+    "url": "https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L209"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L238"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L256"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L330"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L71"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.pondi.hr",
     "http_checked": false,
     "occurrences": [
@@ -78874,6 +79558,56 @@
       {
         "path": "scripts/R65_第4批精修落盘.py",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rmol.cz/distributor/at-computers?paginator-page=13",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L56"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L82"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L165"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rmol.cz/distributor/at-computers?paginator-page=13'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L56"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L64"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rmol.cz/distributor/at-computers?paginator-page=13〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-191-AT Computers a.s-捷克.md",
+        "locator": "L76"
       }
     ]
   },
@@ -84628,6 +85362,56 @@
     ]
   },
   {
+    "url": "https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L394"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L418"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L492"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L83"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.verif.com/societe/VODENN-841882962/",
     "http_checked": false,
     "occurrences": [
@@ -87176,6 +87960,60 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-937/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zivefirmy.cz/pcv-computers_f347429",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L360"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L389"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L412"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
+        "locator": "L499"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zivefirmy.cz/pcv-computers_f347429'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L84"
+      },
+      {
+        "path": "scripts/R66_B_KP波4落盘.py",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zivefirmy.cz/pcv-computers_f347429〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L76"
       }
     ]
   },

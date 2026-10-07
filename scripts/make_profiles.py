@@ -333,6 +333,7 @@ ENRICH_B_FILES = [
     "batch/B类深挖_2026-10-08_R66_BKP波1.json",
     "batch/B类深挖_2026-10-08_R66_BKP波2.json",
     "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+    "batch/B类深挖_2026-10-08_R66_BKP波4.json",
 ]
 
 
