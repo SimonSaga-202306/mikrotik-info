@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lloret Control Systems Ltd（英国）：智慧楼宇集成商——BEMS 楼宇能管/自动控制、**Converged Network Systems（ICT 融合网络）**、Master Systems Integration、安防系统、照明控制；具名 Graham Budd（Commissioning Manager）
-- 【推断】融合网络系统（ICT）=楼宇所有系统上 IP 的供给侧：BMS/安防/照明/对讲全要 PoE 接入层——黄金对口
-- 【假设】Master SI 身份意味它常是“楼网总承包”——墙内交换件指定权在手
+- 【事实】Lloret Control Systems Ltd:LLORET CONTROL SYSTEMS LIMITED(英国 Coulsdon(Surrey),Lloret House, 20 Ullswater Crescent CR5 2HR;公司号 **01745436**(1983-08 注册;Pomanda 谱=1973 起集成商,53 年谱);**92 员工**;SIC 电气安装;谱型=英国楼宇自动化/安防系统集成商(**Trend Technology Centre**;伦敦多旗舰安装;BMS 集成+Gent 授权火灾报警(open protocol 选项)+安防);常规进口商(光学/医疗工具件);lloret.co.uk
+- 【推断】R66 第 12 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,13 +77,23 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：Graham Budd（Commissioning Manager）- graham.budd@lloret.co.uk【主通道】；sales@lloret.co.uk【抄送】。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Darren Anthony Lovelock**(Managing Director(2014-01 任命))— Companies House 军官名件+corpsignals MD 谱 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/01745436/officers〕
+  - **Stig Johan Sjoblom**(Chairman(董事长;1994-03 任命;瑞典籍))— Companies House 军官名件+corpsignals Chairman 谱 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/01745436/officers〕
+  - **Raymond George Smith**(Group Technical Director(1994-10 任命;另兼 3 家公司))— Companies House 军官名件+corpsignals Group technical director 谱 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/01745436/officers〕
+  - **Cara Louise Young**(Finance Director+Company Secretary(2020-10 任命))— Companies House 军官名件+companycheck 秘书谱 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/01745436/officers〕
 
 
 - **退信实测（2026-09-29）**：`sales@lloret.co.uk` 服务器拒收（Your message to sales@lloret.co.uk has been blocked）→ 停用该地址；替代通道：graham.budd@lloret.co.uk（Graham Budd · Commissioning Manager，CSV 具名）
   > 处置：sales@ 角色箱被挡（反垃圾概率高）；改走具名 graham.budd@（人名通道通过率高）；保留 sales@ 为抄送位
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Darren Anthony Lovelock | Managing Director(2014-01 任命) | Companies House 军官名件+corpsignals MD 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/01745436/officers |
+| Stig Johan Sjoblom | Chairman(董事长;1994-03 任命;瑞典籍) | Companies House 军官名件+corpsignals Chairman 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/01745436/officers |
+| Raymond George Smith | Group Technical Director(1994-10 任命;另兼 3 家公司) | Companies House 军官名件+corpsignals Group technical director 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/01745436/officers |
+| Cara Louise Young | Finance Director+Company Secretary(2020-10 任命) | Companies House 军官名件+companycheck 秘书谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/01745436/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -143,32 +153,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第12波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：MSI 楼网总包；ICT 融合网在册
-- **②芯片/型号**：未公开
-- **③KP 深挖**：Budd 具名
-- **④Saga 对标**：ICT 融合网 PoE
-- **⑤在乎与偏好**：指定清单工况
+- **①背景再核**：LLORET CONTROL SYSTEMS LIMITED(英国 Coulsdon(Surrey),Lloret House, 20 Ullswater Crescent CR5 2HR;公司号 **01745436**(1983-08 注册;Pomanda 谱=1973 起集成商,53 年谱);**92 员工**;SIC 电气安装;谱型=英国楼宇自动化/安防系统集成商(**Trend Technology Centre**;伦敦多旗舰安装;BMS 集成+Gent 授权火灾报警(open protocol 选项)+安防);常规进口商(光学/医疗工具件);lloret.co.uk
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Darren Anthony Lovelock(Managing Director(2014-01 任命),official-self-published·谱/leads-only(直发需 opt-in));Stig Johan Sjoblom(Chairman(董事长;1994-03 任命;瑞典籍),official-self-published·谱/leads-only(直发需 opt-in));Raymond George Smith(Group Technical Director(1994-10 任命;另兼 3 家公司),official-self-published·谱/leads-only(直发需 opt-in));Cara Louise Young(Finance Director+Company Secretary(2020-10 任命),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Trend 中心+Gent 授权+92 人
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
-  > “Converged Network Systems (ICT), Master Systems Integration, Security Systems and Lighting Control Solutions”
-  > 来源：https://lloret.co.uk/
+- **【决策链与对接人】**Officers Active: LOVELOCK Darren Anthony (Director 2014) / SJOBLOM Stig Johan (1994, Swedish) / SMITH Raymond George (1994) / YOUNG Cara Louise (Director 2020 + Company Secretary)
+  > Officers Active: LOVELOCK Darren Anthony (Director 2014) / SJOBLOM Stig Johan (1994, Swedish) / SMITH Raymond George (1994) / YOUNG Cara Louise (Director 2020 + Company Secretary)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/01745436/officers
+- **【决策链与对接人】**Lovelock Darren Anthony = Managing director;Young Cara Louise = Finance director;Smith Raymond George = Group technical director;Sjoblom Stig Johan = Chairman director
+  > Lovelock Darren Anthony = Managing director;Young Cara Louise = Finance director;Smith Raymond George = Group technical director;Sjoblom Stig Johan = Chairman director
+  > 来源：https://corpsignals.com/companies/uk/lloret-control-systems-ltd-01745436.html
+- **【团队与规模】**92 employees;Directors @lloret.co.uk 邮箱件;Lloret House 20 Ullswater Crescent
+  > 92 employees;Directors @lloret.co.uk 邮箱件;Lloret House 20 Ullswater Crescent
+  > 来源：https://uk.globaldatabase.com/company/lloret-control-systems-limited
+- **【业务定位】**lloret.co.uk;leading UK-based systems integrator specializing in building automation and security solutions;Trend Technology Centre;founded 1973;fire alarm(Gent authorized)
+  > lloret.co.uk;leading UK-based systems integrator specializing in building automation and security solutions;Trend Technology Centre;founded 1973;fire alarm(Gent authorized)
+  > 来源：https://pomanda.com/company/01745436/lloret-control-systems-limited
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国智慧楼宇全系统集成（MSI 总承包位）
-- **产品线与在售品牌**：BEMS/ICT/MSI/安防/照明
-- **目标行业与场景**：商办楼/地产
-- **团队与规模**：集成商（副厂牌 Lloret Fire 等）
-- **决策链与对接人**：Graham Budd（调试经理）
-- **技术与认证**：全集成项目管理
-- **采购与供应链信号**：楼网总包指定
-- **近期动态与线索**：2026-01 品牌更新+持续交付
-- **与我方契合点**：ICT 融合网 PoE 接入层
-- **风险与注意**：MSI 项目流程化采购
+- **业务定位**：LLORET CONTROL SYSTEMS LIMITED(英国 Coulsdon(Surrey),Lloret House, 20 Ullswater Crescent CR5 2HR;公司号 **01745436**(1983-08 注册;Pomanda 谱=1973 起集成商,53 年谱);**92 员工**;SIC 电气安装;谱型=英国楼宇自动化/安防系统集成商(**Trend Technology Centre**;伦敦多旗舰安装;BMS 集成+Gent 授权火灾报警(open protocol 选项)+安防);常规进口商(光学/医疗工具件);lloret.co.uk
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国楼宇自动化/安防集成商(Trend 谱)
+- **团队与规模**：92 人;1983 注册;53 年谱
+- **决策链与对接人**：**Darren Anthony Lovelock(Managing Director(2014-01 任命),official-self-published·谱/leads-only(直发需 opt-in));Stig Johan Sjoblom(Chairman(董事长;1994-03 任命;瑞典籍),official-self-published·谱/leads-only(直发需 opt-in));Raymond George Smith(Group Technical Director(1994-10 任命;另兼 3 家公司),official-self-published·谱/leads-only(直发需 opt-in));Cara Louise Young(Finance Director+Company Secretary(2020-10 任命),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 12 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：四 CH 金谱直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +202,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：指定权
-- **W**：流程
-- **O**：全量
-- **T**：大牌
+- **S**：Trend 中心+Gent 授权+92 人
+- **W**：集成商大牌链竞位
+- **O**：MD/Chairman/TechDir/FinDir 四金谱
+- **T**：大牌楼宇件链
 
 ## 触达与风险红线
 
@@ -209,7 +228,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -218,9 +237,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 指定清单
-  - [ ] 项目量
-  - [ ] 现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -232,18 +250,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Graham,
+Hi Darren,
 
-When BEMS, security and lighting all ride one converged ICT network, the access closet becomes the most important cabinet in the building - that is exactly the layer we build.
-
-24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog). Reference: $180 USD EXW.
-
-One question: in a Lloret-converged building, which switch brand lands on the specification for the ICT access layer today?
-
-If useful, I can send one unit plus the spec pack for your MSI library. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

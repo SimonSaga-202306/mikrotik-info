@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Watkins Security LLC（美国）：60+ 年经验安防工程——AI 视频监控/IP 视频/火警/门禁/网络+IT 方案全链；过往客户墙：**美国国土安全部（DHS）**、美网公开赛、G20 匹兹堡、Vail（公私混，含联邦机构红线）；1000 客户/200 万+安装件/3 国；开放式架构集成（POS/入侵/考勤/群发通知皆可互联）；CSV：Allied Telesis 在册
-- 【推断】赛事/会场级高清监控=密度摄像柜 PoE 惯件；联邦线不碰
-- 【假设】Vail/美网类场地项目是其私营合规主巷
+- 【事实】Watkins Security:Watkins Security, LLC(美国 Johnstown, Pennsylvania,1203 Barnett Street, PA 15905;+1 814 288 9420;watkins-security.com;**2009 创(17 年)**;21-50 人(prospeo);~$2.4M;谱型=安防+数据网络设计安装服务商(IP 视频监控/门禁/网络基础设施/火灾检测/AI 视频分析/无线/光纤/生物识别/布线;ISO 质量体系传承;SIC 738/NAICS 56162);**排噪:Watkins Security Agency Inc(Baltimore MD,Goldie Watkins 护卫公司,thewatkinsgroup.com)=异体已排**
+- 【推断】R66 第 12 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：info@watkins-security.com（官网 contact 页；Principal/CEO Christopher Watkins）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Christopher L. Watkins**(Founder / President & Owner(前 Senior Systems Engineer+Vice President of Operations 高阶谱))— 公司 LinkedIn About 页自署+zoominfo/prospeo 双 Key Contact 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/company/watkins-security-llc〕
+  - **Richard Hamilton**(Director, Quality Assurance)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/watkins-security-llc/358637588〕
+  - **Charles Kovalchik**(Security Technician)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/watkins-security-llc/358637588〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Christopher L. Watkins | Founder / President & Owner(前 Senior Systems Engineer+Vice President of Operations 高阶谱) | 公司 LinkedIn About 页自署+zoominfo/prospeo 双 Key Contact | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/company/watkins-security-llc |
+| Richard Hamilton | Director, Quality Assurance | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/watkins-security-llc/358637588 |
+| Charles Kovalchik | Security Technician | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/watkins-security-llc/358637588 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,35 +145,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第12波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：60 年安防+IT 全链；联邦/赛事/度假村混合；DHS 红线
-- **②芯片/型号**：Allied Telesis
-- **③KP 深挖**：Principal info@
-- **④Saga 对标**：高密摄像柜 PoE（私营段）
-- **⑤在乎与偏好**：集成能力
+- **①背景再核**：Watkins Security, LLC(美国 Johnstown, Pennsylvania,1203 Barnett Street, PA 15905;+1 814 288 9420;watkins-security.com;**2009 创(17 年)**;21-50 人(prospeo);~$2.4M;谱型=安防+数据网络设计安装服务商(IP 视频监控/门禁/网络基础设施/火灾检测/AI 视频分析/无线/光纤/生物识别/布线;ISO 质量体系传承;SIC 738/NAICS 56162);**排噪:Watkins Security Agency Inc(Baltimore MD,Goldie Watkins 护卫公司,thewatkinsgroup.com)=异体已排**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Christopher L. Watkins(Founder / President & Owner(前 Senior Systems Engineer+Vice President of Operations 高阶谱),leads-only·待 opt-in(LinkedIn/谱面带核));Richard Hamilton(Director, Quality Assurance,leads-only·待 opt-in(LinkedIn/谱面带核));Charles Kovalchik(Security Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：网络+安防双轨集成谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“AI-Powered Surveillance…IP Video Surveillance, Fire Detection, Access Control, Networking, and IT Solutions”
-  > “AI-Powered Surveillance…IP Video Surveillance, Fire Detection, Access Control, Networking, and IT Solutions”
-  > 来源：https://www.watkins-security.com/
-- **【风险与注意】**Past Clients：US Department of Homeland Security（联邦红线不涉）/US Open/G20 Pittsburgh/Vail
-  > Past Clients：US Department of Homeland Security（联邦红线不涉）/US Open/G20 Pittsburgh/Vail
-  > 来源：https://www.watkins-security.com/
+- **【决策链与对接人】**Mr. Christopher L. Watkins, founder of Watkins Security ... Senior Systems Engineer and Vice President of Operations(公司 LinkedIn About 页);ISO 质量体系传承
+  > Mr. Christopher L. Watkins, founder of Watkins Security ... Senior Systems Engineer and Vice President of Operations(公司 LinkedIn About 页);ISO 质量体系传承
+  > 来源：https://www.linkedin.com/company/watkins-security-llc
+- **【团队与规模】**Christopher Watkins President & Owner;Richard Hamilton Director, Quality Assurance;Charles Kovalchik Security Technician;<$5M;21-50 Employees;$2,395,540 revenue
+  > Christopher Watkins President & Owner;Richard Hamilton Director, Quality Assurance;Charles Kovalchik Security Technician;<$5M;21-50 Employees;$2,395,540 revenue
+  > 来源：https://www.zoominfo.com/c/watkins-security-llc/358637588
+- **【业务定位】**IP Video Surveillance, Access Control, Network Infrastructure, Artificial Intelligence;1203 Barnett Street, Johnstown, PA 15905;founded 2009
+  > IP Video Surveillance, Access Control, Network Infrastructure, Artificial Intelligence;1203 Barnett Street, Johnstown, PA 15905;founded 2009
+  > 来源：https://prospeo.io/c/watkins-security-revenue
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 60 年安防工程商（AI 监控+IT 全链）
-- **产品线与在售品牌**：开源架构集成+Allied Telesis 等
-- **目标行业与场景**：赛事场馆/度假村/商业（联邦段不触）
-- **团队与规模**：跨 3 国
-- **决策链与对接人**：Principal（CSV 具名）info@
-- **技术与认证**：开放式架构集成
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：AI 监控主打
-- **与我方契合点**：高密度摄像柜 PoE 合作
-- **风险与注意**：联邦红线+私营段合规
+- **业务定位**：Watkins Security, LLC(美国 Johnstown, Pennsylvania,1203 Barnett Street, PA 15905;+1 814 288 9420;watkins-security.com;**2009 创(17 年)**;21-50 人(prospeo);~$2.4M;谱型=安防+数据网络设计安装服务商(IP 视频监控/门禁/网络基础设施/火灾检测/AI 视频分析/无线/光纤/生物识别/布线;ISO 质量体系传承;SIC 738/NAICS 56162);**排噪:Watkins Security Agency Inc(Baltimore MD,Goldie Watkins 护卫公司,thewatkinsgroup.com)=异体已排**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国 PA 安防+数据网络设计安装商
+- **团队与规模**：21-50 人;$2.4M;2009 创
+- **决策链与对接人**：**Christopher L. Watkins(Founder / President & Owner(前 Senior Systems Engineer+Vice President of Operations 高阶谱),leads-only·待 opt-in(LinkedIn/谱面带核));Richard Hamilton(Director, Quality Assurance,leads-only·待 opt-in(LinkedIn/谱面带核));Charles Kovalchik(Security Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 12 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Owner 一人谱(opt-in 律);info@watkins-security.com CSV 已档
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -180,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：战绩
-- **W**：红线
-- **O**：场地
-- **T**：大牌
+- **S**：网络+安防双轨集成谱
+- **W**：小实体(决策=Owner 一人)
+- **O**：Christopher Watkins 直达位
+- **T**：大牌安防件链竞谱
 
 ## 触达与风险红线
 
@@ -206,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -215,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 私营段占比
-  - [ ] 交换现供
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -229,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Watkins team,
+Hi Christopher,
 
-From the US Open to Vail resorts - venues of that density tell camera-closet stories most integrators never see.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, Voice VLAN) for exactly those closets, at a value price point. Reference: $180 USD EXW. (To be explicit: we work strictly in the private commercial segment and do not pitch into federal engagements.)
-
-One question: at a venue-scale deployment, how many cameras land on one access switch for you?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

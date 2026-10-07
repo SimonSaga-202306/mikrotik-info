@@ -1,0 +1,98 @@
+# -*- coding: utf-8 -*-
+"""R66 第 12 波:A-066/A-093/A-101/A-102 四户。"""
+import json
+
+PRICE = '$180 USD EXW (2026-10-07, 15天有效)'
+O = 'official-self-published·谱/leads-only(直发需 opt-in)'
+G = 'leads-only·待 opt-in(LinkedIn/谱面带核)'
+
+def fu():
+    return [
+        {'stage': '第 1 次跟进 · 具名 kp 引路口', 'push': 'STC-424XGGPM-280W', 'angle': '具名 kp 引路 → 采购/技术硬件分载线',
+         'question': '贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？', 'proof': '规格页'},
+        {'stage': '第 2 次跟进 · 一页目录卡', 'push': '一页目录卡', 'angle': '价值层 PoE 谱链卡', 'question': '可否入谱链名录？', 'proof': '卡'},
+        {'stage': '第 3 次跟进 · 留档+LinkedIn 谱', 'push': '—', 'angle': '谱链明智途径', 'question': '—', 'proof': '—'},
+    ]
+
+def rec(code, name, heads, kp, evs, scene, size, sw, risk, email_sal,
+        inference='R66 第 12 波具名 KP 金谱', trend='2026-10-08 R66 12 波谱名牌', gap='R66 12 波谱面锁定'):
+    kb = '**' + ';'.join('%s(%s,%s)' % (k[0], k[1], k[3]) for k in kp) + '**' if kp else '**守档准由;R66 波次二点名**'
+    dims = {'业务定位': heads, '产品线与在售品牌': '(波次二补谱面)', '目标行业与场景': scene, '团队与规模': size,
+            '决策链与对接人': kb, '技术与认证': '(波次二补)', '采购与供应链信号': '(波次二补)',
+            '近期动态与线索': trend, '与我方契合点': '24 口 value PoE 谱链窗口', '风险与注意': risk}
+    return {'customer': code, 'fact': name + ':' + heads, 'inference': inference,
+            'hypothesis': '24 口 value PoE(' + PRICE + ')具名谱位引路', 'evidence_main': evs[0]['source'],
+            'tech': '(波次二补)', 'hr': size, 'contact_found': kb, 'contact_pending': '直发具名需 opt-in',
+            'dims': dims, 'evidence': evs, 'followups': fu(),
+            'r55': {'dims': {'①背景再核': heads, '②芯片/型号': '(待谱面二补)', '③KP 深挖': kb,
+                             '④Saga 对标': '24 口 value PoE(' + PRICE + ')', '⑤在乎与偏好': sw[0],
+                             '⑥SWOT': 'S ' + sw[0] + ' / W ' + sw[1] + ' / O ' + sw[2] + ' / T ' + sw[3]},
+                    'care': ['直发具名需 opt-in'], 'swot': {'S': sw[0], 'W': sw[1], 'O': sw[2], 'T': sw[3]},
+                    'uncertain': {'产品线核实': '波次二补', '合作方式': '未知', '缺口证据': '(波次二)'},
+                    'gap_proof': gap},
+            'kp': [{'name': k[0], 'role': k[1], 'contact': k[2], 'status': k[3], 'source': k[4]} for k in kp],
+            'unknowns': ['硬件采购线在职者(波次二)', 'MikroTik 谱面份额'],
+            'email': email_sal + '\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk'}
+
+def ev(d, q, u):
+    return {'dim': d, 'quote': q, 'source': u}
+
+R = []
+
+R.append(rec('A-066', 'Celenet',
+    'CeleNet(西班牙安达卢西亚;法务体锁定=**CELENETWORKS SL**(RIPE NCC 西班牙 LIR 会员名录件,2025-10 在列);全国电信运营商(operador de telecomunicaciones nacional):网络设计咨询/知识通信方案/企业协助/数字化转型促通;celenet.es;注:celenet.wordpress.com=VFMs 异名噪声已排',
+    [],
+    [ev('业务定位', 'CELENETWORKS SL — Local Internet Registries offering services in Spain(RIPE NCC 会员名录)', 'https://www.ripe.net/membership/member-support/list-of-members/es/'),
+     ev('业务定位', 'operador de telecomunicaciones andalucia;diseño y consultoría de redes;operador de telecomunicaciones nacional;transformación digital', 'https://celenet.es/'),
+     ev('近期动态与线索', '2026-10-08 R66 12 波:身份=CELENETWORKS SL 锁定;人名谱(首页 Carlos Álvarez=客户证言非员工)未破→守档;波次二=西班牙 CNMC 运营商名录+Registro Mercantil 反查', 'https://celenet.es/sobre-nosotros/')],
+    '西班牙安达卢西亚电信运营商(RIPE LIR)', '(CNMC/Mercantil 谱波次二补)',
+    ('国家级运营商+RIPE LIR 谱位', '人名谱零命中', 'CNMC 运营名录反查可破', '运营商采购链层'),
+    '守档:身份锁定;R66 波次二点名(CNMC/Mercantil 反查)', '',
+    inference='R66 第 12 波守档(身份锁定)', trend='2026-10-08 R66 12 波守档', gap='R66 12 波人名未破'))
+
+R.append(rec('A-093', 'Watkins Security',
+    'Watkins Security, LLC(美国 Johnstown, Pennsylvania,1203 Barnett Street, PA 15905;+1 814 288 9420;watkins-security.com;**2009 创(17 年)**;21-50 人(prospeo);~$2.4M;谱型=安防+数据网络设计安装服务商(IP 视频监控/门禁/网络基础设施/火灾检测/AI 视频分析/无线/光纤/生物识别/布线;ISO 质量体系传承;SIC 738/NAICS 56162);**排噪:Watkins Security Agency Inc(Baltimore MD,Goldie Watkins 护卫公司,thewatkinsgroup.com)=异体已排**',
+    [('Christopher L. Watkins', 'Founder / President & Owner(前 Senior Systems Engineer+Vice President of Operations 高阶谱)', '公司 LinkedIn About 页自署+zoominfo/prospeo 双 Key Contact', G, 'https://www.linkedin.com/company/watkins-security-llc'),
+     ('Richard Hamilton', 'Director, Quality Assurance', 'zoominfo 谱', G, 'https://www.zoominfo.com/c/watkins-security-llc/358637588'),
+     ('Charles Kovalchik', 'Security Technician', 'zoominfo 谱', G, 'https://www.zoominfo.com/c/watkins-security-llc/358637588')],
+    [ev('决策链与对接人', 'Mr. Christopher L. Watkins, founder of Watkins Security ... Senior Systems Engineer and Vice President of Operations(公司 LinkedIn About 页);ISO 质量体系传承', 'https://www.linkedin.com/company/watkins-security-llc'),
+     ev('团队与规模', 'Christopher Watkins President & Owner;Richard Hamilton Director, Quality Assurance;Charles Kovalchik Security Technician;<$5M;21-50 Employees;$2,395,540 revenue', 'https://www.zoominfo.com/c/watkins-security-llc/358637588'),
+     ev('业务定位', 'IP Video Surveillance, Access Control, Network Infrastructure, Artificial Intelligence;1203 Barnett Street, Johnstown, PA 15905;founded 2009', 'https://prospeo.io/c/watkins-security-revenue')],
+    '美国 PA 安防+数据网络设计安装商', '21-50 人;$2.4M;2009 创',
+    ('网络+安防双轨集成谱', '小实体(决策=Owner 一人)', 'Christopher Watkins 直达位', '大牌安防件链竞谱'),
+    'Owner 一人谱(opt-in 律);info@watkins-security.com CSV 已档', 'Hi Christopher,'))
+
+R.append(rec('A-101', 'Lloret Control Systems Ltd',
+    'LLORET CONTROL SYSTEMS LIMITED(英国 Coulsdon(Surrey),Lloret House, 20 Ullswater Crescent CR5 2HR;公司号 **01745436**(1983-08 注册;Pomanda 谱=1973 起集成商,53 年谱);**92 员工**;SIC 电气安装;谱型=英国楼宇自动化/安防系统集成商(**Trend Technology Centre**;伦敦多旗舰安装;BMS 集成+Gent 授权火灾报警(open protocol 选项)+安防);常规进口商(光学/医疗工具件);lloret.co.uk',
+    [('Darren Anthony Lovelock', 'Managing Director(2014-01 任命)', 'Companies House 军官名件+corpsignals MD 谱', O, 'https://find-and-update.company-information.service.gov.uk/company/01745436/officers'),
+     ('Stig Johan Sjoblom', 'Chairman(董事长;1994-03 任命;瑞典籍)', 'Companies House 军官名件+corpsignals Chairman 谱', O, 'https://find-and-update.company-information.service.gov.uk/company/01745436/officers'),
+     ('Raymond George Smith', 'Group Technical Director(1994-10 任命;另兼 3 家公司)', 'Companies House 军官名件+corpsignals Group technical director 谱', O, 'https://find-and-update.company-information.service.gov.uk/company/01745436/officers'),
+     ('Cara Louise Young', 'Finance Director+Company Secretary(2020-10 任命)', 'Companies House 军官名件+companycheck 秘书谱', O, 'https://find-and-update.company-information.service.gov.uk/company/01745436/officers')],
+    [ev('决策链与对接人', 'Officers Active: LOVELOCK Darren Anthony (Director 2014) / SJOBLOM Stig Johan (1994, Swedish) / SMITH Raymond George (1994) / YOUNG Cara Louise (Director 2020 + Company Secretary)', 'https://find-and-update.company-information.service.gov.uk/company/01745436/officers'),
+     ev('决策链与对接人', 'Lovelock Darren Anthony = Managing director;Young Cara Louise = Finance director;Smith Raymond George = Group technical director;Sjoblom Stig Johan = Chairman director', 'https://corpsignals.com/companies/uk/lloret-control-systems-ltd-01745436.html'),
+     ev('团队与规模', '92 employees;Directors @lloret.co.uk 邮箱件;Lloret House 20 Ullswater Crescent', 'https://uk.globaldatabase.com/company/lloret-control-systems-limited'),
+     ev('业务定位', 'lloret.co.uk;leading UK-based systems integrator specializing in building automation and security solutions;Trend Technology Centre;founded 1973;fire alarm(Gent authorized)', 'https://pomanda.com/company/01745436/lloret-control-systems-limited')],
+    '英国楼宇自动化/安防集成商(Trend 谱)', '92 人;1983 注册;53 年谱',
+    ('Trend 中心+Gent 授权+92 人', '集成商大牌链竞位', 'MD/Chairman/TechDir/FinDir 四金谱', '大牌楼宇件链'),
+    '四 CH 金谱直达(opt-in 律)', 'Hi Darren,'))
+
+R.append(rec('A-102', 'EAC Network Solutions',
+    'EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)',
+    [('Benjamin John Hammond', 'Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱)', 'Companies House 军官名件+官网 Meet the Team 自署', O, 'https://find-and-update.company-information.service.gov.uk/company/05535673/officers'),
+     ('Michael Papworth', 'Director & Co-Founder(2005 共同创位;客户服务体系驱动)', 'Companies House 军官名件+官网 Meet the Team 自署', O, 'https://find-and-update.company-information.service.gov.uk/company/05535673/officers'),
+     ('Jeff Woodhall', 'Senior Engineer(澳洲基地;跨时区 24h 覆盖双档)', 'eac-ns.co.uk About Us 官网自署', O, 'https://eac-ns.co.uk/about-us/'),
+     ('Steve Burns', 'Senior Engineer(英国基地)', 'eac-ns.co.uk About Us 官网自署', O, 'https://eac-ns.co.uk/about-us/'),
+     ('Emma David', 'General Manager', 'LinkedIn 自署', G, 'https://uk.linkedin.com/company/eac-network-solutions')],
+    [ev('决策链与对接人', 'Directors Active: HAMMOND Benjamin John (Director, DOB Dec 1977, appointed 12 Aug 2005) / PAPWORTH Michael (DOB Dec 1964, 12 Aug 2005)', 'https://find-and-update.company-information.service.gov.uk/company/05535673/officers'),
+     ev('团队与规模', 'Meet the Team: Ben Hammond Director & Co-Founder;Mike Papworth Director & Co-Founder;Jeff Woodhall and Steve Burns Senior Engineers(24-hour coverage;Jeff 澳洲/Steve UK)', 'https://eac-ns.co.uk/about-us/'),
+     ev('团队与规模', 'Employees: Mike Papworth Director;Emma David General Manager;Ben Hammond Technical Director;Jeff Woodhall Independent Contractor;11-50 employees;Stokenchurch HQ', 'https://uk.linkedin.com/company/eac-network-solutions')],
+    '英国教育/商业 IT 伙伴(无线基础设施谱)', '11-50 人;2005 创;21 年谱',
+    ('双创办人直达+无线基础设施专营', '小实体谱', 'Hammond(Technical)+Papworth 双金谱+GM David', '大牌厂商链竞谱'),
+    '双创办人+GM 谱位(opt-in 律)', 'Hi Ben,'))
+
+with open('batch/A类深挖_2026-10-08_R66_R56_KP第12波.json', 'w', encoding='utf-8') as f:
+    json.dump({'date': '2026-10-08',
+               'wave': 'R66 第 12 波:Celenet(RIPE LIR 守档)+Watkins PA(排噪 Baltimore 异体)+Lloret(CH 四金谱)+EAC(CH 双创办人+官网团队页)四户',
+               'scope': 'ES/UK/US 谱;Watkins 同名异体排录域名锚定;Lloret CH 01745436/EAC CH 05535673 军官名件',
+               'records': R}, f, ensure_ascii=False, indent=1)
+print('R66 第 12 波 4 户落盘')

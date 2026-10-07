@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "wave": "R66 第 10 波:Aikom(MikroTik 意分销)+CSI(排噪守档)+Direktronik(Lagercrantz 子)+AGL(葡 Unipessoal)四户",
+ "wave": "R66 第 10 波:Aikom(MikroTik 意分销)+CSI(排噪守档)+Direktronik(Lagercrantz 子)+AGL(葡 Unipessoal)四户【A-047 2026-10-08 更正:希腊误植件作废→波兰 Kraków KRS 0000763119 本体锁定】",
  "scope": "IT/SE/PT 谱;CSI S.A 希腊身份未锁守档;公司型名薄 KP 队列续",
  "records": [
   {
@@ -126,41 +126,51 @@
   },
   {
    "customer": "A-047",
-   "fact": "CSI S.A:CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
-   "inference": "R66 第 10 波排噪守档",
+   "fact": "CSI S.A:【2026-10-08 更正:首版误植希腊 CSI 排噪件,已废;本体=波兰】CSI Spółka Akcyjna(波兰 Kraków,ul. Sosnowiecka 89, 31-345;KRS 0000763119;1992 创(34 年谱);28-35 员工;$5.8M;谱型=波兰工业电脑/嵌入式系统 Value-Added Distributor(Advantech/Aaeon/congatec/Aplex/DFI/Diamond Systems/Antaira;CompactPCI serial/VPX/VMEbus(RTD/Acromag/Tews);工业价值分销+硬件定制(参数/OS/认证);零售臂=消费电子/存储/摄影配件;客户引用:Tramwaje Warszawskie 电车/ZEiMP R&G 军防/SENGA);csi.pl;katalogi.csi.pl;b2b.csi.krakow.pl;+48 12 390 61 80",
+   "inference": "R66 第 10 波更正版:身份锁定(原希腊件作废)",
    "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
-   "evidence_main": "https://mikrotik.com/consultants/europe",
+   "evidence_main": "https://csi.pl/o-nas/",
    "tech": "(波次二补)",
-   "hr": "(未锁定)",
-   "contact_found": "**守档准由;R66 波次二点名**",
+   "hr": "28-35 人(RocketReach 谱);1992 创",
+   "contact_found": "**守档准由:人名谱未破;KRS 0000763119 zarząd 反查点名**",
    "contact_pending": "直发具名需 opt-in",
    "dims": {
-    "业务定位": "CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
-    "产品线与在售品牌": "(波次二补谱面)",
-    "目标行业与场景": "希腊网络渠道商(身份待锁)",
-    "团队与规模": "(未锁定)",
-    "决策链与对接人": "**守档准由;R66 波次二点名**",
-    "技术与认证": "(波次二补)",
+    "业务定位": "波兰工业电脑 VAD(Antaira 核心盘;34 年谱;Kraków)",
+    "产品线与在售品牌": "Advantech/Aaeon/congatec/Aplex/DFI/Diamond/Antaira+CPCI/VPX/VMEbus",
+    "目标行业与场景": "工业自动化/轨交(Tramwaje Warszawskie)/军防(ZEiMP R&G)",
+    "团队与规模": "28-35 人;$5.8M",
+    "决策链与对接人": "**守档准由;KRS 0000763119 反查点名**",
+    "技术与认证": "VPX/VMEbus 定制",
     "采购与供应链信号": "(波次二补)",
-    "近期动态与线索": "2026-10-07 R66 10 波排噪守档",
-    "与我方契合点": "24 口 value PoE 谱链窗口",
-    "风险与注意": "守档:排噪准由已录;R66 波次二点名(GEMI 登记册按号反查)"
+    "近期动态与线索": "2026-10-08 更正:希腊误植件作废;KRS 0000763119",
+    "与我方契合点": "24 口 value PoE 谱链窗口(工业 PoE 互补)",
+    "风险与注意": "军防段不触(既有纪律);KRS 反查点名"
    },
    "evidence": [
     {
      "dim": "业务定位",
-     "quote": "CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体",
-     "source": "https://mikrotik.com/consultants/europe"
+     "quote": "CSI S.A. to uznany dystrybutor ... Od ponad 30 lat ... Value-Added Distributor;Działy przemysłowe: Advantech, Aaeon, congatec, Aplex, Diamond Systems czy Antaira",
+     "source": "https://csi.pl/o-nas/"
     },
     {
      "dim": "业务定位",
-     "quote": "gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体",
-     "source": "https://gr.linkedin.com/company/mikrotiktraining"
+     "quote": "Firma CSI została założona w 1992 roku;Siedziba główna Kraków, Małopolskie;11-50 pracowników",
+     "source": "https://pl.linkedin.com/company/csi-computer-systems-for-industry"
     },
     {
      "dim": "近期动态与线索",
-     "quote": "2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名",
-     "source": "https://www.businessregistry.gr/"
+     "quote": "CSI SPÓŁKA AKCYJNA — KRS 0000763119(Monitor Sądowy i Gospodarczy 多件)",
+     "source": "https://www.bizraport.pl/krs/0000763119/csi-spolka-akcyjna"
+    },
+    {
+     "dim": "目标行业与场景",
+     "quote": "artykułów Aaeon, VIA, Antaira, Schroff;systemy informacji pasażerskiej przeznaczonych dla pojazdów szynowych;Tramwaje Warszawskie referencje",
+     "source": "https://csi.pl/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Revenue $5.8 million;Employees 35 (28 on RocketReach);ul. Sosnowiecka 89, Kraków;+48 12 390 61 80",
+     "source": "https://rocketreach.co/csi-sa-profile_b404e95afc1e801c"
     }
    ],
    "followups": [
@@ -168,14 +178,14 @@
      "stage": "第 1 次跟进 · 具名 kp 引路口",
      "push": "STC-424XGGPM-280W",
      "angle": "具名 kp 引路 → 采购/技术硬件分载线",
-     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责?",
      "proof": "规格页"
     },
     {
      "stage": "第 2 次跟进 · 一页目录卡",
      "push": "一页目录卡",
      "angle": "价值层 PoE 谱链卡",
-     "question": "可否入谱链名录？",
+     "question": "可否入谱链名录?",
      "proof": "卡"
     },
     {
@@ -188,35 +198,36 @@
    ],
    "r55": {
     "dims": {
-     "①背景再核": "CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
+     "①背景再核": "波兰 Kraków 工业 VAD(1992 创;KRS 0000763119)",
      "②芯片/型号": "(待谱面二补)",
-     "③KP 深挖": "**守档准由;R66 波次二点名**",
-     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
-     "⑤在乎与偏好": "CSV 已有谱名",
-     "⑥SWOT": "S CSV 已有谱名 / W 实体身份未锁定 / O GEMI 登记册反查可破 / T 同名噪声高"
+     "③KP 深挖": "**守档准由;KRS zarząd 反查**",
+     "④Saga 对标": "24 口 value PoE($180)",
+     "⑤在乎与偏好": "工业轨交军防谱位",
+     "⑥SWOT": "S 34 年+轨交谱 / W 人名谱未破 / O 工业 PoE 互补 / T 大牌链竞谱"
     },
     "care": [
+     "军防段不触(既有纪律)",
      "直发具名需 opt-in"
     ],
     "swot": {
-     "S": "CSV 已有谱名",
-     "W": "实体身份未锁定",
-     "O": "GEMI 登记册反查可破",
-     "T": "同名噪声高"
+     "S": "波兰工业 VAD 34 年+轨交引用",
+     "W": "人名谱未破",
+     "O": "工业 PoE 互补位",
+     "T": "大牌厂商直供链竞谱"
     },
     "uncertain": {
      "产品线核实": "波次二补",
      "合作方式": "未知",
-     "缺口证据": "(波次二)"
+     "缺口证据": "KRS zarząd 名单"
     },
-    "gap_proof": "R66 10 波身份未锁"
+    "gap_proof": "R66 10 波更正:本体锁定(KRS 0000763119)"
    },
    "kp": [],
    "unknowns": [
-    "硬件采购线在职者(波次二)",
-    "MikroTik 谱面份额"
+    "KRS zarząd 董事会名单(波次二反查)",
+    "硬件采购线在职者"
    ],
-   "email": "\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": ""
   },
   {
    "customer": "A-054",

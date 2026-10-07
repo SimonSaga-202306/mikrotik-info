@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Celenet（西班牙加的斯省）：电信运营商（“Operador de telecomunicaciones”）——家庭光纤 FTTH/移动+**企业线（光纤/专线备份/VPN/网络/安全）**+运营商级连接批发；Carlos Cardenas Cebrian 十证全+9 证组合
-- 【推断】企业多站点网安项目=Wi-Fi/摄像头接入层随单；运营商 POP/节点小盒为二轨
-- 【假设】区域运营商下沉式企业线=翻修滚动+本地服务强
+- 【事实】Celenet:CeleNet(西班牙安达卢西亚;法务体锁定=**CELENETWORKS SL**(RIPE NCC 西班牙 LIR 会员名录件,2025-10 在列);全国电信运营商(operador de telecomunicaciones nacional):网络设计咨询/知识通信方案/企业协助/数字化转型促通;celenet.es;注:celenet.wordpress.com=VFMs 异名噪声已排
+- 【推断】R66 第 12 波守档(身份锁定)
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第12波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：区域运营商家庭+企业双线；企业线 VPN/网安在售
-- **②芯片/型号**：未公开
-- **③KP 深挖**：Cardenas 十证直达
-- **④Saga 对标**：企业 PoE 随单+节点小盒双轨
-- **⑤在乎与偏好**：服务承诺
+- **①背景再核**：CeleNet(西班牙安达卢西亚;法务体锁定=**CELENETWORKS SL**(RIPE NCC 西班牙 LIR 会员名录件,2025-10 在列);全国电信运营商(operador de telecomunicaciones nacional):网络设计咨询/知识通信方案/企业协助/数字化转型促通;celenet.es;注:celenet.wordpress.com=VFMs 异名噪声已排
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 波次二点名**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：国家级运营商+RIPE LIR 谱位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Operador de telecomunicaciones…Empresas：Fibra e internet para empresas, enlaces dedicados y respaldo, VPN, redes y ciberseguridad”
-  > “Operador de telecomunicaciones…Empresas：Fibra e internet para empresas, enlaces dedicados y respaldo, VPN, redes y ciberseguridad”
+- **【业务定位】**CELENETWORKS SL — Local Internet Registries offering services in Spain(RIPE NCC 会员名录)
+  > CELENETWORKS SL — Local Internet Registries offering services in Spain(RIPE NCC 会员名录)
+  > 来源：https://www.ripe.net/membership/member-support/list-of-members/es/
+- **【业务定位】**operador de telecomunicaciones andalucia;diseño y consultoría de redes;operador de telecomunicaciones nacional;transformación digital
+  > operador de telecomunicaciones andalucia;diseño y consultoría de redes;operador de telecomunicaciones nacional;transformación digital
   > 来源：https://celenet.es/
-- **【联系方式】**info@celenet.es 856 005 555；ccardenas@celenet.es（CSV）；MX=mail.celenet.es 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@celenet.es 856 005 555；ccardenas@celenet.es（CSV）；MX=mail.celenet.es 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://celenet.es/
+- **【近期动态与线索】**2026-10-08 R66 12 波:身份=CELENETWORKS SL 锁定;人名谱(首页 Carlos Álvarez=客户证言非员工)未破→守档;波次二=西班牙 CNMC 运营商名录+Registro Mercantil 反查
+  > 2026-10-08 R66 12 波:身份=CELENETWORKS SL 锁定;人名谱(首页 Carlos Álvarez=客户证言非员工)未破→守档;波次二=西班牙 CNMC 运营商名录+Registro Mercantil 反查
+  > 来源：https://celenet.es/sobre-nosotros/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙区域电信运营商（家庭+企业+批发）
-- **产品线与在售品牌**：FTTH/移动/企业网安线
-- **目标行业与场景**：家庭/中小企业/多站点/运营商连接
-- **团队与规模**：区域运营商
-- **决策链与对接人**：Cardenas（十证）+info@
-- **技术与认证**：十证全
-- **采购与供应链信号**：企业项目随单+节点小盒
-- **近期动态与线索**：企业线网页翻新（VPN/网安/备份）
-- **与我方契合点**：企业接入层 PoE 随单+小盒节点
-- **风险与注意**：运营商线价格带明晰
+- **业务定位**：CeleNet(西班牙安达卢西亚;法务体锁定=**CELENETWORKS SL**(RIPE NCC 西班牙 LIR 会员名录件,2025-10 在列);全国电信运营商(operador de telecomunicaciones nacional):网络设计咨询/知识通信方案/企业协助/数字化转型促通;celenet.es;注:celenet.wordpress.com=VFMs 异名噪声已排
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西班牙安达卢西亚电信运营商(RIPE LIR)
+- **团队与规模**：(CNMC/Mercantil 谱波次二补)
+- **决策链与对接人**：**守档准由;R66 波次二点名**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 12 波守档
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:身份锁定;R66 波次二点名(CNMC/Mercantil 反查)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：粘性
-- **W**：区域
-- **O**：企业线
-- **T**：链
+- **S**：国家级运营商+RIPE LIR 谱位
+- **W**：人名谱零命中
+- **O**：CNMC 运营名录反查可破
+- **T**：运营商采购链层
 
 ## 触达与风险红线
 
@@ -213,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 企业线项目量
-  - [ ] 接入层现供
-  - [ ] 节点规格
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Carlos,
 
-A local operator that runs FTTH, mobile and an enterprise line with VPN, dedicated links and cybersecurity is covering the whole last mile.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, ERPS, Voice VLAN, watchdog) sized for the access layer in exactly those enterprise WiFi/security builds. Reference: $180 USD EXW.
-
-One question: in your enterprise projects, who supplies the PoE access layer today?
-
-If useful, I can send one unit with a multi-site VLAN/ERPS sample. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

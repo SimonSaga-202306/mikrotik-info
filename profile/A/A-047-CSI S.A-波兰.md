@@ -47,8 +47,8 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CSI S.A:CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
-- 【推断】R66 第 10 波排噪守档
+- 【事实】CSI S.A:【2026-10-08 更正:首版误植希腊 CSI 排噪件,已废;本体=波兰】CSI Spółka Akcyjna(波兰 Kraków,ul. Sosnowiecka 89, 31-345;KRS 0000763119;1992 创(34 年谱);28-35 员工;$5.8M;谱型=波兰工业电脑/嵌入式系统 Value-Added Distributor(Advantech/Aaeon/congatec/Aplex/DFI/Diamond Systems/Antaira;CompactPCI serial/VPX/VMEbus(RTD/Acromag/Tews);工业价值分销+硬件定制(参数/OS/认证);零售臂=消费电子/存储/摄影配件;客户引用:Tramwaje Warszawskie 电车/ZEiMP R&G 军防/SENGA);csi.pl;katalogi.csi.pl;b2b.csi.krakow.pl;+48 12 390 61 80
+- 【推断】R66 第 10 波更正版:身份锁定(原希腊件作废)
 - 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
@@ -139,36 +139,42 @@ updated: 2026-09-28
 
 > 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
+- **①背景再核**：波兰 Kraków 工业 VAD(1992 创;KRS 0000763119)
 - **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**守档准由;R66 波次二点名**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：CSV 已有谱名
+- **③KP 深挖**：**守档准由;KRS zarząd 反查**
+- **④Saga 对标**：24 口 value PoE($180)
+- **⑤在乎与偏好**：工业轨交军防谱位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体
-  > CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体
-  > 来源：https://mikrotik.com/consultants/europe
-- **【业务定位】**gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体
-  > gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体
-  > 来源：https://gr.linkedin.com/company/mikrotiktraining
-- **【近期动态与线索】**2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名
-  > 2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名
-  > 来源：https://www.businessregistry.gr/
+- **【业务定位】**CSI S.A. to uznany dystrybutor ... Od ponad 30 lat ... Value-Added Distributor;Działy przemysłowe: Advantech, Aaeon, congatec, Aplex, Diamond Systems czy Antaira
+  > CSI S.A. to uznany dystrybutor ... Od ponad 30 lat ... Value-Added Distributor;Działy przemysłowe: Advantech, Aaeon, congatec, Aplex, Diamond Systems czy Antaira
+  > 来源：https://csi.pl/o-nas/
+- **【业务定位】**Firma CSI została założona w 1992 roku;Siedziba główna Kraków, Małopolskie;11-50 pracowników
+  > Firma CSI została założona w 1992 roku;Siedziba główna Kraków, Małopolskie;11-50 pracowników
+  > 来源：https://pl.linkedin.com/company/csi-computer-systems-for-industry
+- **【近期动态与线索】**CSI SPÓŁKA AKCYJNA — KRS 0000763119(Monitor Sądowy i Gospodarczy 多件)
+  > CSI SPÓŁKA AKCYJNA — KRS 0000763119(Monitor Sądowy i Gospodarczy 多件)
+  > 来源：https://www.bizraport.pl/krs/0000763119/csi-spolka-akcyjna
+- **【目标行业与场景】**artykułów Aaeon, VIA, Antaira, Schroff;systemy informacji pasażerskiej przeznaczonych dla pojazdów szynowych;Tramwaje Warszawskie referencje
+  > artykułów Aaeon, VIA, Antaira, Schroff;systemy informacji pasażerskiej przeznaczonych dla pojazdów szynowych;Tramwaje Warszawskie referencje
+  > 来源：https://csi.pl/
+- **【团队与规模】**Revenue $5.8 million;Employees 35 (28 on RocketReach);ul. Sosnowiecka 89, Kraków;+48 12 390 61 80
+  > Revenue $5.8 million;Employees 35 (28 on RocketReach);ul. Sosnowiecka 89, Kraków;+48 12 390 61 80
+  > 来源：https://rocketreach.co/csi-sa-profile_b404e95afc1e801c
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：希腊网络渠道商(身份待锁)
-- **团队与规模**：(未锁定)
-- **决策链与对接人**：**守档准由;R66 波次二点名**
-- **技术与认证**：(波次二补)
+- **业务定位**：波兰工业电脑 VAD(Antaira 核心盘;34 年谱;Kraków)
+- **产品线与在售品牌**：Advantech/Aaeon/congatec/Aplex/DFI/Diamond/Antaira+CPCI/VPX/VMEbus
+- **目标行业与场景**：工业自动化/轨交(Tramwaje Warszawskie)/军防(ZEiMP R&G)
+- **团队与规模**：28-35 人;$5.8M
+- **决策链与对接人**：**守档准由;KRS 0000763119 反查点名**
+- **技术与认证**：VPX/VMEbus 定制
 - **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-07 R66 10 波排噪守档
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：守档:排噪准由已录;R66 波次二点名(GEMI 登记册按号反查)
+- **近期动态与线索**：2026-10-08 更正:希腊误植件作废;KRS 0000763119
+- **与我方契合点**：24 口 value PoE 谱链窗口(工业 PoE 互补)
+- **风险与注意**：军防段不触(既有纪律);KRS 反查点名
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：CSV 已有谱名
-- **W**：实体身份未锁定
-- **O**：GEMI 登记册反查可破
-- **T**：同名噪声高
+- **S**：波兰工业 VAD 34 年+轨交引用
+- **W**：人名谱未破
+- **O**：工业 PoE 互补位
+- **T**：大牌厂商直供链竞谱
 
 ## 触达与风险红线
 
@@ -214,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] KRS zarząd 董事会名单(波次二反查)
+  - [ ] 硬件采购线在职者
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,15 +230,21 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE switching for your projects
+**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
 
 ```text
+Hi CSI,
 
+I came across CSI S.A. - 分销（Antaira 授权）.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
+
+One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
+
+If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Networks Export Desk
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EAC Network Solutions（英国白金汉郡）：20 年托管 IT——教育（含 Princethorpe Foundation 私立教育集团）、制造、专业服务段；托管支持+Sophos 安全+vCIO+基础设施；{first}.{last}@ 邮箱格式（CSV 注）
-- 【推断】私立学校教育+制造这两条段都是日常 PoE 接入层高频（校园 Wi-Fi/安防+产线边缘）
-- 【假设】其托管客群翻修滚动=框架小批量
+- 【事实】EAC Network Solutions:EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
+- 【推断】R66 第 12 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：enquiry@eac-ns.co.uk（官网自述原文直取；邮箱格式 {first}.{last}@eac-ns.co.uk。具名 Mike Papworth（Director）、Ben Hammond（Technical Director）、Chris Silk（Senior Customer Account Manager）→ 可直接拼 mike.papworth@ / ben.hammond@）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Benjamin John Hammond**(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱))— Companies House 军官名件+官网 Meet the Team 自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
+  - **Michael Papworth**(Director & Co-Founder(2005 共同创位;客户服务体系驱动))— Companies House 军官名件+官网 Meet the Team 自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
+  - **Jeff Woodhall**(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档))— eac-ns.co.uk About Us 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://eac-ns.co.uk/about-us/〕
+  - **Steve Burns**(Senior Engineer(英国基地))— eac-ns.co.uk About Us 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://eac-ns.co.uk/about-us/〕
+  - **Emma David**(General Manager)— LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.linkedin.com/company/eac-network-solutions〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Benjamin John Hammond | Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱) | Companies House 军官名件+官网 Meet the Team 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
+| Michael Papworth | Director & Co-Founder(2005 共同创位;客户服务体系驱动) | Companies House 军官名件+官网 Meet the Team 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
+| Jeff Woodhall | Senior Engineer(澳洲基地;跨时区 24h 覆盖双档) | eac-ns.co.uk About Us 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://eac-ns.co.uk/about-us/ |
+| Steve Burns | Senior Engineer(英国基地) | eac-ns.co.uk About Us 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://eac-ns.co.uk/about-us/ |
+| Emma David | General Manager | LinkedIn 自署 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://uk.linkedin.com/company/eac-network-solutions |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +150,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第12波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：20 年本地 MSP；私立教育/制造段
-- **②芯片/型号**：未公开
-- **③KP 深挖**：enquiry@+格式线索
-- **④Saga 对标**：校园/厂内接入
-- **⑤在乎与偏好**：非技术文风+可靠
+- **①背景再核**：EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Benjamin John Hammond(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱),official-self-published·谱/leads-only(直发需 opt-in));Michael Papworth(Director & Co-Founder(2005 共同创位;客户服务体系驱动),official-self-published·谱/leads-only(直发需 opt-in));Jeff Woodhall(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档),official-self-published·谱/leads-only(直发需 opt-in));Steve Burns(Senior Engineer(英国基地),official-self-published·谱/leads-only(直发需 opt-in));Emma David(General Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：双创办人直达+无线基础设施专营
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【目标行业】**“education, manufacturing, and professional services…Princethorpe Foundation”
-  > “education, manufacturing, and professional services…Princethorpe Foundation”
-  > 来源：https://eac-ns.co.uk/
+- **【决策链与对接人】**Directors Active: HAMMOND Benjamin John (Director, DOB Dec 1977, appointed 12 Aug 2005) / PAPWORTH Michael (DOB Dec 1964, 12 Aug 2005)
+  > Directors Active: HAMMOND Benjamin John (Director, DOB Dec 1977, appointed 12 Aug 2005) / PAPWORTH Michael (DOB Dec 1964, 12 Aug 2005)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/05535673/officers
+- **【团队与规模】**Meet the Team: Ben Hammond Director & Co-Founder;Mike Papworth Director & Co-Founder;Jeff Woodhall and Steve Burns Senior Engineers(24-hour coverage;Jeff 澳洲/Steve UK)
+  > Meet the Team: Ben Hammond Director & Co-Founder;Mike Papworth Director & Co-Founder;Jeff Woodhall and Steve Burns Senior Engineers(24-hour coverage;Jeff 澳洲/Steve UK)
+  > 来源：https://eac-ns.co.uk/about-us/
+- **【团队与规模】**Employees: Mike Papworth Director;Emma David General Manager;Ben Hammond Technical Director;Jeff Woodhall Independent Contractor;11-50 employees;Stokenchurch HQ
+  > Employees: Mike Papworth Director;Emma David General Manager;Ben Hammond Technical Director;Jeff Woodhall Independent Contractor;11-50 employees;Stokenchurch HQ
+  > 来源：https://uk.linkedin.com/company/eac-network-solutions
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：白金汉郡托管 IT（教育/制造/专业服务）
-- **产品线与在售品牌**：Sophos+托管栈
-- **目标行业与场景**：私立教育/制造/商服
-- **团队与规模**：本地中型 MSP
-- **决策链与对接人**：enquiry@ 口
-- **技术与认证**：业认认证团队
-- **采购与供应链信号**：托管项目随单
-- **近期动态与线索**：案件引述常态
-- **与我方契合点**：校园/厂内接入层
-- **风险与注意**：公立教育自动守边界
+- **业务定位**：EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国教育/商业 IT 伙伴(无线基础设施谱)
+- **团队与规模**：11-50 人;2005 创;21 年谱
+- **决策链与对接人**：**Benjamin John Hammond(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱),official-self-published·谱/leads-only(直发需 opt-in));Michael Papworth(Director & Co-Founder(2005 共同创位;客户服务体系驱动),official-self-published·谱/leads-only(直发需 opt-in));Jeff Woodhall(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档),official-self-published·谱/leads-only(直发需 opt-in));Steve Burns(Senior Engineer(英国基地),official-self-published·谱/leads-only(直发需 opt-in));Emma David(General Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 12 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：双创办人+GM 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：粘
-- **W**：价敏
-- **O**：滚动
-- **T**：大厂
+- **S**：双创办人直达+无线基础设施专营
+- **W**：小实体谱
+- **O**：Hammond(Technical)+Papworth 双金谱+GM David
+- **T**：大牌厂商链竞谱
 
 ## 触达与风险红线
 
@@ -204,7 +222,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -213,9 +231,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入层现供
-  - [ ] 客群数
-  - [ ] 滚动量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +244,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi EAC team,
+Hi Ben,
 
-Managed IT across schools, factories and professional firms means you live with access closets in every one of them.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with plain-English documentation your team can trust. Reference: $180 USD EXW.
-
-One question: in a typical school or factory deployment of yours, who supplies the PoE access layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

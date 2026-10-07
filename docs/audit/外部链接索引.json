@@ -5180,6 +5180,10 @@
         "locator": "L512"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L37"
+      },
+      {
         "path": "profile/A/A-066-Celenet-西班牙.md",
         "locator": "L129"
       },
@@ -5193,11 +5197,41 @@
       },
       {
         "path": "profile/A/A-066-Celenet-西班牙.md",
-        "locator": "L154"
+        "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://celenet.es/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L46"
+      }
+    ]
+  },
+  {
+    "url": "https://celenet.es/sobre-nosotros/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L42"
       },
       {
         "path": "profile/A/A-066-Celenet-西班牙.md",
-        "locator": "L157"
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://celenet.es/sobre-nosotros/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L47"
       }
     ]
   },
@@ -5633,7 +5667,7 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L363"
+        "locator": "L374"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
@@ -6290,6 +6324,30 @@
     ]
   },
   {
+    "url": "https://corpsignals.com/companies/uk/lloret-control-systems-ltd-01745436.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L247"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://corpsignals.com/companies/uk/lloret-control-systems-ltd-01745436.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://corsimikrotik.it",
     "http_checked": false,
     "occurrences": [
@@ -6478,6 +6536,10 @@
         "locator": "L637"
       },
       {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L168"
+      },
+      {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L127"
       },
@@ -6492,6 +6554,28 @@
       {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L136"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://csi.pl/o-nas/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L132"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L153"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L152"
       }
     ]
   },
@@ -8321,23 +8405,81 @@
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L128"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L131"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L134"
+        "locator": "L146"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L137"
+        "locator": "L149"
+      }
+    ]
+  },
+  {
+    "url": "https://eac-ns.co.uk/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L375"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L451"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L458"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L153"
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://eac-ns.co.uk/about-us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L83"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L84"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://eac-ns.co.uk/about-us/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -10010,6 +10152,104 @@
     ]
   },
   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L221"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L242"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L321"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L328"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L335"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L67"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L68"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L69"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L70"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
     "url": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers",
     "http_checked": false,
     "occurrences": [
@@ -10352,6 +10592,72 @@
       {
         "path": "profile/B/B-533-Millbeck-英国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L349"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L370"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L437"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L444"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L81"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L82"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -12496,20 +12802,6 @@
       {
         "path": "scripts/R66_R56_KP第2波落盘.py",
         "locator": "L141"
-      }
-    ]
-  },
-  {
-    "url": "https://gr.linkedin.com/company/mikrotiktraining",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L158"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L155"
       }
     ]
   },
@@ -16183,7 +16475,7 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L408"
+        "locator": "L419"
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
@@ -16821,23 +17113,19 @@
       },
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L136"
+        "locator": "L146"
       },
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L139"
+        "locator": "L149"
       },
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L142"
-      },
-      {
-        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L158"
+        "locator": "L152"
       }
     ]
   },
@@ -19026,14 +19314,6 @@
         "locator": "反向信号名单!Q827"
       },
       {
-        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L132"
-      },
-      {
-        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L153"
-      },
-      {
         "path": "batch/contact_research_2026-09-27_A280-A299.json",
         "locator": "L168"
       },
@@ -19072,10 +19352,6 @@
       {
         "path": "docs/audit/2026-09-27_A300-A319联络核验.md",
         "locator": "L30"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L152"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -28418,6 +28694,20 @@
     ]
   },
   {
+    "url": "https://pl.linkedin.com/company/csi-computer-systems-for-industry",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L158"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
     "url": "https://pl.linkedin.com/company/eltrox",
     "http_checked": false,
     "occurrences": [
@@ -28446,6 +28736,30 @@
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3472"
+      }
+    ]
+  },
+  {
+    "url": "https://pomanda.com/company/01745436/lloret-control-systems-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L257"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://pomanda.com/company/01745436/lloret-control-systems-limited'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L74"
       }
     ]
   },
@@ -29094,6 +29408,30 @@
       {
         "path": "profile/B/B-231-ALLNET France SAS-法国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://prospeo.io/c/watkins-security-revenue",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L136"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://prospeo.io/c/watkins-security-revenue'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L60"
       }
     ]
   },
@@ -29972,28 +30310,42 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/csi-sa-profile_b404e95afc1e801c",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L173"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L257"
+        "locator": "L268"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L335"
+        "locator": "L346"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L342"
+        "locator": "L353"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L349"
+        "locator": "L360"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L356"
+        "locator": "L367"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
@@ -36006,6 +36358,30 @@
     ]
   },
   {
+    "url": "https://uk.globaldatabase.com/company/lloret-control-systems-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L252"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L174"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.globaldatabase.com/company/lloret-control-systems-limited'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L73"
+      }
+    ]
+  },
+  {
     "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd",
     "http_checked": false,
     "occurrences": [
@@ -36166,6 +36542,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-865/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.linkedin.com/company/eac-network-solutions",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L380"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L465"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.linkedin.com/company/eac-network-solutions'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.linkedin.com/company/eac-network-solutions〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L83"
       }
     ]
   },
@@ -40073,15 +40495,15 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L226"
+        "locator": "L237"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L247"
+        "locator": "L258"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L314"
+        "locator": "L325"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
@@ -42916,6 +43338,20 @@
     ]
   },
   {
+    "url": "https://www.bizraport.pl/krs/0000763119/csi-spolka-akcyjna",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L163"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
     "url": "https://www.bizraport.pl/krs/0000900908/",
     "http_checked": false,
     "occurrences": [
@@ -43508,20 +43944,12 @@
     "http_checked": false,
     "occurrences": [
       {
-        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L163"
-      },
-      {
         "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
         "locator": "L188"
       },
       {
         "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
         "locator": "L208"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L158"
       },
       {
         "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
@@ -49735,15 +50163,15 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L377"
+        "locator": "L388"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L398"
+        "locator": "L409"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L465"
+        "locator": "L476"
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
@@ -55937,11 +56365,11 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L403"
+        "locator": "L414"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L472"
+        "locator": "L483"
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
@@ -56249,15 +56677,15 @@
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L252"
+        "locator": "L263"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L321"
+        "locator": "L332"
       },
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
-        "locator": "L328"
+        "locator": "L339"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
@@ -60582,6 +61010,56 @@
       {
         "path": "scripts/R64_KP猎捕.py",
         "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/watkins-security-llc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L105"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L126"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L193"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/watkins-security-llc'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L55"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L58"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/watkins-security-llc〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -76236,6 +76714,34 @@
     ]
   },
   {
+    "url": "https://www.ripe.net/membership/member-support/list-of-members/es/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-066-Celenet-西班牙.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ripe.net/membership/member-support/list-of-members/es/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L45"
+      }
+    ]
+  },
+  {
     "url": "https://www.riva.bg/",
     "http_checked": false,
     "occurrences": [
@@ -82413,27 +82919,19 @@
       },
       {
         "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L130"
+        "locator": "L138"
       },
       {
         "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L133"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L152"
-      },
-      {
-        "path": "profile/A/A-093-Watkins Security-美国.md",
-        "locator": "L155"
+        "locator": "L144"
       }
     ]
   },
@@ -85050,6 +85548,68 @@
       {
         "path": "profile/B/B-039-Voicenter LTD-以色列.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/watkins-security-llc/358637588",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L131"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L200"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
+        "locator": "L207"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/watkins-security-llc/358637588'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L56"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L57"
+      },
+      {
+        "path": "scripts/R66_R56_KP第12波落盘.py",
+        "locator": "L59"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/watkins-security-llc/358637588〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-093-Watkins Security-美国.md",
+        "locator": "L80"
       }
     ]
   },
