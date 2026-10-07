@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Acteos GmbH（德国/法国，1982 年创）：供应链软件专家——WMS/TMS/FPS 采购预测/APS/BI/移动 App（100% SaaS）；**硬件配套：Auto-ID/移动终端/车载设备随方案**；客户墙 Mr.Bricolage/Auchan/Monoprix/Kiloutou/Bolloré Logistics/BIC/Clarins/Saint-Gobain Placo 等法德零售物流大牌；BVMID TOP 100 奖
-- 【推断】WMS 项目落地必配仓库 Wi-Fi 覆盖——**仓储无线接入层是其方案隐形 BOM**；仓库环境对 PoE 接入件（AP 供电）是持续随单位
-- 【假设】“软件+硬件一体交付”模式=件单可随 WMS 项目滚动；Auto-ID 硬件线说明其已有供件通道
+- 【事实】Acteos GmbH & Co. KG:Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@acteos.de [Publicly listed; delivery not tested]; https://www.acteos.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nidal al Safadi**(Geschäftsführer(执行董事))— 公司 LinkedIn 员工谱+RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/acteos-gmbh-&-co-kg〕
+  - **Joseph Felfeli**(Executive Board Member(执行董事会员;Key Principal))— DNB Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html〕
+  - **Sabine Weißling**(Manager Finance and Accounting(财务主管))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766〕
+  - **Michael Witzke**(Senior Account Manager(资深客户经理))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766〕
+  - **Patrick Bagur**(Key Account Manager(大客户经理 KPI 相关位))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Nidal al Safadi | Geschäftsführer(执行董事) | 公司 LinkedIn 员工谱+RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/acteos-gmbh-&-co-kg |
+| Joseph Felfeli | Executive Board Member(执行董事会员;Key Principal) | DNB Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html |
+| Sabine Weißling | Manager Finance and Accounting(财务主管) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766 |
+| Michael Witzke | Senior Account Manager(资深客户经理) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766 |
+| Patrick Bagur | Key Account Manager(大客户经理 KPI 相关位) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +150,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：供应链 SaaS 40+ 年；Auto-ID 硬件随单线
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：info@
-- **④Saga 对标**：仓储 Wi-Fi 接入层随单
-- **⑤在乎与偏好**：项目文档
+- **①背景再核**：Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Nidal al Safadi(Geschäftsführer(执行董事),leads-only·待 opt-in(LinkedIn/谱面带核));Joseph Felfeli(Executive Board Member(执行董事会员;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));Sabine Weißling(Manager Finance and Accounting(财务主管),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Witzke(Senior Account Manager(资深客户经理),leads-only·待 opt-in(LinkedIn/谱面带核));Patrick Bagur(Key Account Manager(大客户经理 KPI 相关位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：40 年谱+法上市母台
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
-  > “TOP 100-Experten-Siegel…hochwertiger Software und Hardware im Bereich Supply-Chain-Lösungen, Mobilität und Auto-ID”
-  > 来源：https://acteos.de/
+- **【业务定位】**Acteos GmbH & Co. KG: innovative Lösungen im Bereich Supply Chain Management sowie mobile Erfassung;Beratung+Entwicklung+Implementierung(Software, Hardware, Kommunikationsanbindung);Gilching, Bayern;gegründet 1986;51–200 Beschäftigte(公司 LinkedIn 页)
+  > Acteos GmbH & Co. KG: innovative Lösungen im Bereich Supply Chain Management sowie mobile Erfassung;Beratung+Entwicklung+Implementierung(Software, Hardware, Kommunikationsanbindung);Gilching, Bayern;gegründet 1986;51–200 Beschäftigte(公司 LinkedIn 页)
+  > 来源：https://de.linkedin.com/company/acteos-gmbh-&-co-kg
+- **【决策链与对接人】**Key Principal: Joseph Felfeli — Executive Board Member(DNB 件);Römerstr. 40, 82205 Gilching;+49-810538510
+  > Key Principal: Joseph Felfeli — Executive Board Member(DNB 件);Römerstr. 40, 82205 Gilching;+49-810538510
+  > 来源：https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html
+- **【团队与规模】**Nidal al Safadi Geschäftsführer;Sabine Weißling Manager Finance and Accounting;Michael Witzke Senior Account Manager;Patrick Bagur Key Account Manager;100% subsidiary of the French-based, listed Acteos SA(RR+CB 谱)
+  > Nidal al Safadi Geschäftsführer;Sabine Weißling Manager Finance and Accounting;Michael Witzke Senior Account Manager;Patrick Bagur Key Account Manager;100% subsidiary of the French-based, listed Acteos SA(RR+CB 谱)
+  > 来源：https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法德供应链软件（SaaS）+仓储硬件配套
-- **产品线与在售品牌**：WMS/TMS/FPS/BI+Auto-ID 终端
-- **目标行业与场景**：零售/物流/食品仓配
-- **团队与规模**：40+ 年 EU 中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ISO 9001+BVMID TOP100
-- **采购与供应链信号**：随方案供件
-- **近期动态与线索**：SyncPro 新线
-- **与我方契合点**：仓储 Wi-Fi 接入层随单
-- **风险与注意**：软件商硬件深度待核
+- **业务定位**：Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国巴伐利亚 SCM/WMS 软件屋(法上市母谱)
+- **团队与规模**：51-200 人;1986 创
+- **决策链与对接人**：**Nidal al Safadi(Geschäftsführer(执行董事),leads-only·待 opt-in(LinkedIn/谱面带核));Joseph Felfeli(Executive Board Member(执行董事会员;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));Sabine Weißling(Manager Finance and Accounting(财务主管),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Witzke(Senior Account Manager(资深客户经理),leads-only·待 opt-in(LinkedIn/谱面带核));Patrick Bagur(Key Account Manager(大客户经理 KPI 相关位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Safadi GF+Bagur 大客户位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：场景
-- **W**：主轴
-- **O**：随单
-- **T**：大牌
+- **S**：40 年谱+法上市母台
+- **W**：中型软件屋谱
+- **O**：Safadi GF+Felfeli 董事会位
+- **T**：SAP/大牌链竞位
 
 ## 触达与风险红线
 
@@ -200,7 +218,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,9 +227,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 仓储接入现供
-  - [ ] 硬件随单结构
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,18 +240,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Acteos team,
+Guten Tag Herr Safadi,
 
-Every WMS go-live stands or falls with one invisible layer: warehouse Wi-Fi that keeps terminals and scanners connected aisle after aisle - and every one of those access points needs a PoE switch it can trust.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a reliable line for the warehouse access layer inside your project BOMs.
-
-One question: in your warehouse projects across Germany and France, whose switching feeds the RF access points today?
-
-If useful, I can send one unit with full documentation for evaluation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

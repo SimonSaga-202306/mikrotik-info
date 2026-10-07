@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AMRO IT-Systeme GmbH（德国巴符州，09141 区号）：MSP 型系统商——NinjaOne RMM 运维+监控+ESET **Platinum**（2025 获奖，GF Jürgen Reutelhuber 具名受奖）+Sophos Gold+**Terra Premium Partner（Wortmann）**+Xelion 电话+自有 WWS 商管软件开发；远程维护/Webmail/Monitoring 自助服务台
-- 【推断】Terra Premium Partner=硬件主供是 Wortmann Terra（其交换机线在架）——第二供位价值线切入（不贬在位）；自有软件部门=技术文化
-- 【假设】ESET Platinum 级 MSP=量大价敏的随单结构；value 件帮其保加盟地位下的毛利
+- 【事实】AMRO IT-Systeme GmbH:AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,24 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@amro.de [Publicly listed; delivery not tested]; https://www.amro.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jürgen Reutelhuber**(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim))— 官网 Team/Datenschutz 自署+webvalid/implisense 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Tobias Blobner**(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱))— webvalid 登记册谱+官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Jörg Kaußler**(Softwareentwicklung/Buchhaltung(软件开发+财务直通线))— 官网 Team 页(9019-24) 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Florian Wagner**(Technik(技术线))— 官网 Team 页(9019-34) 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Maximilian Kraft**(Technik(技术线))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Ludwig Amler**(原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱))— webvalid 登记册谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jürgen Reutelhuber | Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim) | 官网 Team/Datenschutz 自署+webvalid/implisense 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Tobias Blobner | Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱) | webvalid 登记册谱+官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Jörg Kaußler | Softwareentwicklung/Buchhaltung(软件开发+财务直通线) | 官网 Team 页(9019-24) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Florian Wagner | Technik(技术线) | 官网 Team 页(9019-34) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Maximilian Kraft | Technik(技术线) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Ludwig Amler | 原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱) | webvalid 登记册谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +151,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：MSP（Terra Premium 主供+ESET Platinum）；自有软件部
-- **②芯片/型号**：Terra 系（CSV 载 Allied 信号）
-- **③KP 深挖**：GF Reutelhuber 具名
-- **④Saga 对标**：第二 value 线（不贬 Terra）
-- **⑤在乎与偏好**：毛利结构
+- **①背景再核**：AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jürgen Reutelhuber(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim),official-self-published·谱/leads-only(直发需 opt-in));Tobias Blobner(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱),official-self-published·谱/leads-only(直发需 opt-in));Jörg Kaußler(Softwareentwicklung/Buchhaltung(软件开发+财务直通线),official-self-published·谱/leads-only(直发需 opt-in));Florian Wagner(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Maximilian Kraft(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Ludwig Amler(原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：30 年谱+微软认证
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“ESET Platin Partner Award 2025…Terra Premium Partner…Sophos Gold…NinjaOne”
-  > “ESET Platin Partner Award 2025…Terra Premium Partner…Sophos Gold…NinjaOne”
-  > 来源：https://www.amro.de/
+- **【决策链与对接人】**Jürgen Reutelhuber Geschäftsführer (09141/9019-0, j.reutelhuber@amro.de);Jörg Kaußler Softwareentwicklung/Buchhaltung (j.kaussler@amro.de);Tobias Blobner Technik (t.blobner@amro.de);Florian Wagner Technik;Maximilian Kraft Technik(amro.de 官网 Team 页)
+  > Jürgen Reutelhuber Geschäftsführer (09141/9019-0, j.reutelhuber@amro.de);Jörg Kaußler Softwareentwicklung/Buchhaltung (j.kaussler@amro.de);Tobias Blobner Technik (t.blobner@amro.de);Florian Wagner Technik;Maximilian Kraft Technik(amro.de 官网 Team 页)
+  > 来源：https://www.amro.de/unser-team/
+- **【决策链与对接人】**Bestellt: GF: Reutelhuber, Jürgen, Alesheim, einzelvertretungsberechtigt;Eintritt Prokurist: Blobner, Tobias;Ausgeschieden: GF Amler/Rottler 谱系(webvalid 件);HRB 2516 AG Ansbach;gegründet 04.12.1996;€30,000(implisense)
+  > Bestellt: GF: Reutelhuber, Jürgen, Alesheim, einzelvertretungsberechtigt;Eintritt Prokurist: Blobner, Tobias;Ausgeschieden: GF Amler/Rottler 谱系(webvalid 件);HRB 2516 AG Ansbach;gegründet 04.12.1996;€30,000(implisense)
+  > 来源：https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516
+- **【业务定位】**nichthandwerkliche Konfektionierung elektronischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel/Vertrieb Hardware, Software, Telekommunikation;DV 咨询;Microsoft Certified Professionals
+  > nichthandwerkliche Konfektionierung elektronischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel/Vertrieb Hardware, Software, Telekommunikation;DV 咨询;Microsoft Certified Professionals
+  > 来源：https://app.implisense.com/en/companies/amro-it-systeme-gmbh-weissenburg--DES8P3CP3R61
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：巴符州 MSP（Terra Premium+ESET Platinum）
-- **产品线与在售品牌**：Terra/ESET/Sophos/Xelion/NinjaOne
-- **目标行业与场景**：区域 SMB 托管
-- **团队与规模**：区域中型
-- **决策链与对接人**：GF Reutelhuber/info@
-- **技术与认证**：ESET Platinum/Sophos Gold
-- **采购与供应链信号**：Terra 目录随单
-- **近期动态与线索**：2025 ESET 获奖
-- **与我方契合点**：Terra 主供下的第二 value 线
-- **风险与注意**：同盟绑定
+- **业务定位**：AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国中弗兰肯微软认证谱 30 年微系统屋
+- **团队与规模**：Micro;1996 创;€30k
+- **决策链与对接人**：**Jürgen Reutelhuber(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim),official-self-published·谱/leads-only(直发需 opt-in));Tobias Blobner(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱),official-self-published·谱/leads-only(直发需 opt-in));Jörg Kaußler(Softwareentwicklung/Buchhaltung(软件开发+财务直通线),official-self-published·谱/leads-only(直发需 opt-in));Florian Wagner(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Maximilian Kraft(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Ludwig Amler(原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Reutelhuber GF+Blobner Prokurist/Technik(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +197,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：MSP
-- **W**：同盟
-- **O**：二线
-- **T**：在位
+- **S**：30 年谱+微软认证
+- **W**：微实体谱
+- **O**：Reutelhuber GF 直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +219,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +228,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二线空间
-  - [ ] 滚动量
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +241,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi AMRO team,
+Guten Tag Herr Reutelhuber,
 
-Congratulations on the ESET Platinum award - a clear sign of volume done right. And with a Terra Premium partnership as your first shelf, you know exactly where standard hardware margins go.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value second line for the managed customers whose budgets will not carry premium shelf prices.
-
-One question: when a managed customer's budget rules out the first shelf, do you have a documented value alternative for the PoE access layer?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

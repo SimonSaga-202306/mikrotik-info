@@ -1767,23 +1767,19 @@
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L128"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L131"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L134"
+        "locator": "L146"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L137"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L153"
+        "locator": "L149"
       }
     ]
   },
@@ -3030,6 +3026,30 @@
       {
         "path": "profile/A/A-020-Apostolas Georgios-希腊.md",
         "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/amro-it-systeme-gmbh-weissenburg--DES8P3CP3R61",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L423"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/amro-it-systeme-gmbh-weissenburg--DES8P3CP3R61'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L93"
       }
     ]
   },
@@ -7646,6 +7666,142 @@
     ]
   },
   {
+    "url": "https://de.kompass.com/c/alco-vertrieb-datentechnischer-gerate-gmbh/de687836/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L314"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://de.kompass.com/c/alco-vertrieb-datentechnischer-gerate-gmbh/de687836/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/acteos-gmbh-&-co-kg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/acteos-gmbh-&-co-kg'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L49"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/acteos-gmbh-&-co-kg〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L177"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L262"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L269"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L175"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L62"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L63"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L67"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://de.linkedin.com/company/hsc-solutions",
     "http_checked": false,
     "occurrences": [
@@ -11621,6 +11777,68 @@
     "occurrences": [
       {
         "path": "profile/B/B-108-AlpenEDV-奥地利.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L167"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L241"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L255"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L169"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L59"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L61"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L65"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
         "locator": "L81"
       }
     ]
@@ -30986,6 +31204,84 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L120"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L47"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L48"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697",
     "http_checked": false,
     "occurrences": [
@@ -41996,24 +42292,38 @@
         "locator": "L482"
       },
       {
-        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L127"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L172"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L130"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L133"
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L136"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L152"
+        "locator": "L150"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alarm-as.de/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L66"
       }
     ]
   },
@@ -42127,14 +42437,6 @@
       },
       {
         "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
         "locator": "L133"
       },
       {
@@ -42143,7 +42445,11 @@
       },
       {
         "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L142"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -42152,6 +42458,56 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-884/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alcoidstein.de/impressum/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L283"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L304"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L371"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alcoidstein.de/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L74"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alcoidstein.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -43361,23 +43717,19 @@
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L150"
       }
     ]
   },
@@ -43400,6 +43752,120 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-886/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.amro.de/unser-team/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L392"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L413"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L480"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L487"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L494"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L501"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L508"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://www.amro.de/unser-team/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L87"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L88"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L89"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://www.amro.de/unser-team/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -52512,6 +52978,52 @@
       {
         "path": "profile/A/A-363-SOS electronic-斯洛伐克.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L50"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -76352,6 +76864,52 @@
     ]
   },
   {
+    "url": "https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L309"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L378"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L75"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-137-Alco Vertrieb Datentechnischer Geräte GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.ntsdirect.com",
     "http_checked": false,
     "occurrences": [
@@ -86661,6 +87219,118 @@
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L418"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L515"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L169"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L90"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L141"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L162"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L234"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
+        "locator": "L248"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L58"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L60"
+      },
+      {
+        "path": "scripts/R66_R56_KP第16波落盘.py",
+        "locator": "L64"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
         "locator": "L80"
       }
     ]

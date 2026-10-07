@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ALCO Systemhaus（德国 Idstein，1988 年创）：35+ 年系统屋——硬件/软件/服务/融资租赁/**自有 ISO 级机房（光伏自给+余热回收）**；自述“**1990 年代初即在标准厂家产品目录之外提供替代方案**”；客户全程陪伴（咨询/实施/维保）
-- 【推断】“alternative Lösungen neben den standardisierten Herstellerproduktpaletten”=其商业基因就是替代候选——价值位 OEM 件语言完全同频
-- 【假设】自有 DC+光伏=技术玩家型买家：实测级文档说话
+- 【事实】Alco Vertrieb Datentechnischer Geräte GmbH:ALCO Vertrieb datentechnischer Geräte GmbH(德国 Idstein(黑森 Hochtaunus),Buchwiese 16, 65510;**HRB 18821 Amtsgericht Wiesbaden**;**1988 创(37 年;Kompass 谱;2008-02-11 北data 登记公报 GF 谱)**;0612693600;info@alcoidstein.de;谱型=**IT 系统屋/存储与打印方案分销**(Vertrieb von Computer-Systemen und Geräten jeder Art;Storagelösungen/Drucklösungen+打印机&服务器维修服务+融资方案;Kompass:NAC08 4614 机器技术商贸代理;Exportregion Westeuropa;"Investitionssicherheit für den Projektzeitraum" 官网理念)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@alcoidstein.de [Publicly listed; delivery not tested]; https://www.alcoidstein.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jörg Alberti**(Geschäftsführer(执行董事))— 官网 Impressum 法代自署+northdata 2008 登记公报双源 〔已有(公司官方公开件/登记册自曝);源:https://www.alcoidstein.de/impressum/〕
+  - **Heike Kasteleiner**(ppa / Prokurist(授权代理谱))— northdata 登记公报谱 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jörg Alberti | Geschäftsführer(执行董事) | 官网 Impressum 法代自署+northdata 2008 登记公报双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alcoidstein.de/impressum/ |
+| Heike Kasteleiner | ppa / Prokurist(授权代理谱) | northdata 登记公报谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：35 年系统屋；替代方案基因（90 年代自述）；自有光伏 DC
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：info@
-- **④Saga 对标**：替代基因 value 件
-- **⑤在乎与偏好**：实测文档
+- **①背景再核**：ALCO Vertrieb datentechnischer Geräte GmbH(德国 Idstein(黑森 Hochtaunus),Buchwiese 16, 65510;**HRB 18821 Amtsgericht Wiesbaden**;**1988 创(37 年;Kompass 谱;2008-02-11 北data 登记公报 GF 谱)**;0612693600;info@alcoidstein.de;谱型=**IT 系统屋/存储与打印方案分销**(Vertrieb von Computer-Systemen und Geräten jeder Art;Storagelösungen/Drucklösungen+打印机&服务器维修服务+融资方案;Kompass:NAC08 4614 机器技术商贸代理;Exportregion Westeuropa;"Investitionssicherheit für den Projektzeitraum" 官网理念)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jörg Alberti(Geschäftsführer(执行董事),official-self-published·谱/leads-only(直发需 opt-in));Heike Kasteleiner(ppa / Prokurist(授权代理谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：37 年谱+西欧出口
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Anfang der 1990er Jahre…alternative Lösungen neben den standardisierten Herstellerproduktpaletten anzubieten…seit über 35 Jahren”
-  > “Anfang der 1990er Jahre…alternative Lösungen neben den standardisierten Herstellerproduktpaletten anzubieten…seit über 35 Jahren”
-  > 来源：https://www.alcoidstein.de/
+- **【决策链与对接人】**Vertreten durch: Jörg Alberti;Buchwiese 16, 65510 Idstein;Tel: 0612693600;info@alcoidstein.de;AG Wiesbaden HRB 18821(官网 Impressum)
+  > Vertreten durch: Jörg Alberti;Buchwiese 16, 65510 Idstein;Tel: 0612693600;info@alcoidstein.de;AG Wiesbaden HRB 18821(官网 Impressum)
+  > 来源：https://www.alcoidstein.de/impressum/
+- **【决策链与对接人】**11.02.2008 Publikation: GF: Jörg Alberti;ppa: Heike Kasteleiner;Der Vertrieb von Computer-Systemen und Geräten jeder Art(northdata 登记公报)
+  > 11.02.2008 Publikation: GF: Jörg Alberti;ppa: Heike Kasteleiner;Der Vertrieb von Computer-Systemen und Geräten jeder Art(northdata 登记公报)
+  > 来源：https://www.northdata.de/Alco%20Vertrieb%20datentechnischer%20Ger%C3%A4te%20GmbH,%20Idstein/Amtsgericht%20Wiesbaden%20HRB%2018821
+- **【联系方式与基础画像】**Gründungsjahr 1988;Führungskräfte: Jörg Alberti Geschäftsführung;Storagelösungen/Drucklösungen, Reparaturservice Drucker/Server, Finanzierungskonzepte;Export Westeuropa(Kompass 件)
+  > Gründungsjahr 1988;Führungskräfte: Jörg Alberti Geschäftsführung;Storagelösungen/Drucklösungen, Reparaturservice Drucker/Server, Finanzierungskonzepte;Export Westeuropa(Kompass 件)
+  > 来源：https://de.kompass.com/c/alco-vertrieb-datentechnischer-gerate-gmbh/de687836/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Idstein 35 年系统屋（替代方案基因）
-- **产品线与在售品牌**：全谱 HW/SW（厂牌图墙）
-- **目标行业与场景**：中小企业/区域
-- **团队与规模**：区域系统屋
-- **决策链与对接人**：info@ 口
-- **技术与认证**：自有光伏 DC
-- **采购与供应链信号**：咨询型随单
-- **近期动态与线索**：1MWp 光伏扩建
-- **与我方契合点**：替代方案基因的 value 件
-- **风险与注意**：
+- **业务定位**：ALCO Vertrieb datentechnischer Geräte GmbH(德国 Idstein(黑森 Hochtaunus),Buchwiese 16, 65510;**HRB 18821 Amtsgericht Wiesbaden**;**1988 创(37 年;Kompass 谱;2008-02-11 北data 登记公报 GF 谱)**;0612693600;info@alcoidstein.de;谱型=**IT 系统屋/存储与打印方案分销**(Vertrieb von Computer-Systemen und Geräten jeder Art;Storagelösungen/Drucklösungen+打印机&服务器维修服务+融资方案;Kompass:NAC08 4614 机器技术商贸代理;Exportregion Westeuropa;"Investitionssicherheit für den Projektzeitraum" 官网理念)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Idstein 存储/打印分销系统屋 37 年谱
+- **团队与规模**：小实体谱;1988 创
+- **决策链与对接人**：**Jörg Alberti(Geschäftsführer(执行董事),official-self-published·谱/leads-only(直发需 opt-in));Heike Kasteleiner(ppa / Prokurist(授权代理谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Alberti GF+Kasteleiner Prokurist(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：基因
-- **W**：体量
-- **O**：替代
-- **T**：大牌
+- **S**：37 年谱+西欧出口
+- **W**：小实体谱
+- **O**：Alberti GF 直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] DC 边位
-  - [ ] 租赁结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ALCO team,
+Guten Tag Herr Alberti,
 
-Since the early 1990s you have offered alternatives beyond the standard manufacturer portfolios - that independence of mind is exactly where we hope to earn a bench test.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value line your consultants can put next to the catalogue brands with a clear conscience.
-
-One question: in your current consulting engagements, which switch brand holds the PoE access layer for customers today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
