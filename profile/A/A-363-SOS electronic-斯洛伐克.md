@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SOS electronic(斯洛伐克;R66 基线补足档·公司面全貌待补;函数口职能口 sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann(soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】SOS electronic s.r.o.(Košice-Juh,Pri prachárni 3005/16, 040 11, Slovakia;1995 创;68 名员工(DnB 谱)/50-99(Kompass);$22.12M 年营收(USD, DnB 2019-2024 值);**Konrad Group 成员**(2026-06-03 Procurement Pro 30 周年报);谱型=电子元件/电气/家电批发分销;注册号 31703186 (Sro 5791/V);VAT SK2020484158;股本 €29,875
+- 【推断】Konrad Group 全景 + 30 周年谱基(2025);元件分销 → 培养硬谱谱位的链谱能力强
+- 【假设】Konrad Group 成员谱=欧系精品谱链;元件到整机分销谱谱线谱=24 口 value PoE 谱位=谱面的谱链窗口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,10 +84,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 具名 KPI 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -108,38 +108,43 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann(soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann)跟团不动
-- **②芯片/型号**：(待问;soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann(soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **①背景再核**：斯洛伐克 Košice 电子元件分销大王(Konrad Group 成员谱/€29,875 股 / $22M 营收);30 周年位
+- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
+- **③KP 深挖**：**Ing. Ján Seszták(Konateľ/CEO 三源一致谱);Renáta Tančaková(财务董事);Ján Michalko(商务董事);Rastislav Taliarovič(市场董事);Jozef Jarábek(LinkedIn 采购谱)——金谱达格**
 - **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **⑤在乎与偏好**：欧系精品谱链/电子制造服务/零售分销
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**SOS electronic — sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > SOS electronic — sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：soselectronic.com
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：soselectronic.com
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：soselectronic.com
+- **【决策链与对接人】**Key Principal: Ján Seszták; 68 employees; Revenue $22.12M — Ján Seszták Member of the Board of Directors; Renáta Tančaková Financial Director; Ján Michalko Commercial Director; Rastislav Taliarovič Marketing Director
+  > Key Principal: Ján Seszták; 68 employees; Revenue $22.12M — Ján Seszták Member of the Board of Directors; Renáta Tančaková Financial Director; Ján Michalko Commercial Director; Rastislav Taliarovič Marketing Director
+  > 来源：https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html
+- **【业务定位】**SOS electronic is a member of the Conrad Group; Founded in Košice, Slovakia; 30th anniversary in 2025; electronics component distribution; Conrad Group is one of the largest distribution platforms in Europe
+  > SOS electronic is a member of the Conrad Group; Founded in Košice, Slovakia; 30th anniversary in 2025; electronics component distribution; Conrad Group is one of the largest distribution platforms in Europe
+  > 来源：https://procurementpro.com/sos-electronic-30-years-of-reliability-and-innovation-in-the-world-of-electronics/
+- **【决策链与对接人】**Ing. Ján Seszták Konateľ (executive); Košice 040 01; Registration No. 31703186 (Sro 5791/V); VAT SK2020484158; Established 1995
+  > Ing. Ján Seszták Konateľ (executive); Košice 040 01; Registration No. 31703186 (Sro 5791/V); VAT SK2020484158; Established 1995
+  > 来源：https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/
+- **【技术与认证】**Jozef Jarábek · SOS electronic (components) · 500+ connections · Technická univerzita v Košiciach
+  > Jozef Jarábek · SOS electronic (components) · 500+ connections · Technická univerzita v Košiciach
+  > 来源：https://www.linkedin.com/in/jozefjarabek/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann(soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann)跟团不动
-- **产品线与在售品牌**：(待问;soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann(soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：斯洛伐克 Košice 电子元件分销大王(Konrad Group 成员谱/€29,875 股 / $22M 营收);30 周年位
+- **产品线与在售品牌**：电子元件/电子器件/电气设备/家电批发
+- **目标行业与场景**：欧系精品谱链/电子制造服务/零售分销
+- **团队与规模**：68 名;1995 创(30 年);Konrad Group 成员(Conrad Group biggest?)
+- **决策链与对接人**：**Ing. Ján Seszták(Konateľ/CEO 三源一致谱);Renáta Tančaková(财务董事);Ján Michalko(商务董事);Rastislav Taliarovič(市场董事);Jozef Jarábek(LinkedIn 采购谱)——金谱达格**
+- **技术与认证**：30 年分销;Konrad Group 谱基稳;数字化制谱基谱
+- **采购与供应链信号**：欧系精品谱;稳定供应链 30 周年谱;谱面上 8 国 谱
+- **近期动态与线索**：2025-06 Procurement Pro 30 周年庆典报;Konrad Group 成员谱谱面强
+- **与我方契合点**：Konrad 系谱的元件到整机谱线谱窗口 → 24 口 value PoE 谱位
+- **风险与注意**：元件分销≠整机;谱面谱链先送咨询位
+- **_swotstrt**：S Konrad Group/30 周年谱基 / W 元件分销非谱面 / O 谱链窗口(Ján Seszták 谱位) / T 大牌集成
+- **_sw**：['Konrad 系谱基稳/30 周年', '元件分销非谱面', '谱链窗口(Ján Seszták 谱位)', '大牌集成']
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：Konrad 系谱基稳/30 周年
+- **W**：元件分销非谱面
+- **O**：谱链窗口(Ján Seszták 谱位)
+- **T**：大牌集成
 
 ## 触达与风险红线
 
@@ -185,9 +190,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] MikroTik 谱份额
+  - [ ] 当前 24 口 PoE 执行品牌
+  - [ ] 具名 KP 直连邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,13 +204,13 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Hi Ján,
 
-I came across SOS electronic while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+Thirty years of electronic-components distribution out of Košice, now inside the Conrad Group — one of Europe's largest distribution platforms — and still the same friendly, engineering-first outfit. Congratulations on the anniversary tally.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each industrial/IT deployment your distribution network quotes.
 
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+As Managing Director of SOS electronic, would you be the right desk to route this to — or shall I send the one-page spec to your sourcing team first?
 
 Best regards,
 Saga Networks Export Desk

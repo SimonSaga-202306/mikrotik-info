@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】nLogic(挪威;R66 基线补足档·公司面全貌待补;函数口职能口 post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo(nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Nlogic AS(挪威 Oslo Skøyen,Karenslyst allé 20;Org.nr 821 678 102;2007 创立,2018-11-07 重新注册;49 名员工(2026-09-21 1881.no 报),Omsetning ≈501,875 kNOK,Fortjenestemargin 25.8%;Nlogic Group AS 持 68%;谱型=网络/安全/数据中心咨询&经销商,MikroTik 15 年以上沉淀
+- 【推断】挪威网络咨询中堅,Nlogic Group 结构强化属集团化(68% 母公司);在咨询 + 硬售 + 培训三谱,价值链任一单位可行
+- 【假设】15 年挪威网络基础设施⇒ 交换机等硬品长期定点,24 口 value PoE 对工程数量敞口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,62 +84,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 挪威网络咨询的随单位价值 PoE
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **切入点**：挪威网络咨询的随单位价值 PoE
+- **要问的问题**：15 年 Node 底座,談案の现场交换机现供品牌与缺口?
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · MikroTik 同档 value PoE 品牌面(或其它谱)
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
+- **切入点**：MikroTik 同档 value PoE 品牌面(或其它谱)
+- **要问的问题**：RCT-suites like NETGEAR/Ubiquiti/SFP-line:现供件?
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · erlend@ 邮件模式跟进(官方自曝金谱)
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
-- **要问的问题**：—
+- **切入点**：erlend@ 邮件模式跟进(官方自曝金谱)
+- **要问的问题**：「坚实·安稳」里我们价值 PoE 谱 Q4
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo(nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo)跟团不动
-- **②芯片/型号**：(待问;nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo(nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：Gulesider+1881.no 双登记册一手核,49 员工、68% Group AS 持、25.8% margin
+- **②芯片/型号**：(未列硬牌)=网络/安全/datacenter 咨询;MikroTik 15 年沉淀
+- **③KP 深挖**：**Erlend Bonesvoll(Daglig leder/官方自曝邮 erlend@nlogic.no) + Arne Giæver(董事长) + Marcus Erik Wahlberg(董事) + Robert R. Olsen(kundeansvarlig) + Jonas Lindstad(Nettverkskonsulent)**
+- **④Saga 对标**：咨询+硬售+培训三谱的价值 PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：网络坚实基础 + 25.8% margin 稳如
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**nLogic — post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > nLogic — post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.nlogic.no
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.nlogic.no
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.nlogic.no
+- **【决策链与对接人】**Daglig leder Erlend Bonesvoll · Styrets leder Arne Giæver · Styremedlem Erlend Bonesvoll, Marcus Erik Wahlberg · Antall ansatte: 49
+  > Daglig leder Erlend Bonesvoll · Styrets leder Arne Giæver · Styremedlem Erlend Bonesvoll, Marcus Erik Wahlberg · Antall ansatte: 49
+  > 来源：https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/
+- **【决策链与对接人】**Kontakter: Erlend Bonesvoll Daglig leder erlend@nlogic.no +47 40 61 44 44 · Ola hadde noe kjennskap fra Robert R. Olsen kundeansvarlig Powertech
+  > Kontakter: Erlend Bonesvoll Daglig leder erlend@nlogic.no +47 40 61 44 44 · Ola hadde noe kjennskap fra Robert R. Olsen kundeansvarlig Powertech
+  > 来源：https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779
+- **【业务定位】**Org.nr 821 678 102 · Omsetning 501 875 tkr · Fortjenestemargin 25.8% · Aksjonærer: Nlogic Group AS (68%)
+  > Org.nr 821 678 102 · Omsetning 501 875 tkr · Fortjenestemargin 25.8% · Aksjonærer: Nlogic Group AS (68%)
+  > 来源：https://www.gulesider.no/nlogic+as+oslo/147338258/bedrift
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo(nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo)跟团不动
-- **产品线与在售品牌**：(待问;nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo(nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：挪威网安/数据中心咨询谱,15 年 Node 底座
+- **产品线与在售品牌**：(官方未列牌谱)=网络+安全+IT-drift+datasikkerhet;MikroTik 库内信号
+- **目标行业与场景**：Oslo 通行/So-huskient(网络基础设施谱)
+- **团队与规模**：49 名员工(1881.no 2026);Nlogic Group AS 68%
+- **决策链与对接人**：**Erlend Bonesvoll(Daglig leder/总经理,官方自曝 erlend@nlogic.no);Arne Giæver(董事长);Marcus Erik Wahlberg(董事);Robert R. Olsen(kundeansvarlig);Jonas Lindstad(Nettverkskonsulent)**
+- **技术与认证**：网络/安全/数据中心咨询,MikroTik 谱(库内信号)
+- **采购与供应链信号**：15 年 Node 底座,网络件的供应铺放定期流动
+- **近期动态与线索**：2018 新注;25.8% fortjenestemargin;Plugtech 等谱(nLogic press 有谱)
+- **与我方契合点**：咨询+硬售+培训三谱,value PoE 各场景
+- **风险与注意**：ePOST (erlend@nlogic.no) 虽自曝,但直发要 opt-in/谱链明智
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：自曝金谱
+- **W**：小谱增援
+- **O**：规模敞口
+- **T**：大牌
 
 ## 触达与风险红线
 
@@ -185,9 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 当前现场交换机品牌/服务谱
+  - [ ] MikroTik 谱份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,13 +198,13 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Hi Erlend,
 
-I came across nLogic while mapping 挪威 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+I came across nLogic while mapping MikroTik-related distributors in Norway — 49 engineers on Skøyen and a name that keeps showing up on the serious Norwegian infrastructure projects. Impressive longevity: since 2007 on the same beat.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value unit for the on-site deployments your team designs.
 
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+Could you point me to whoever carries the switching line in your projects, so we can get the right spec to the right desk?
 
 Best regards,
 Saga Networks Export Desk

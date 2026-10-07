@@ -44,6 +44,13 @@ updated: 2026-10-06
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】Dnet-Distribution(NIM Wave S.r.l.)(意大利;Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳)
+- 【推断】NIM Wave Lainate 实体谱面锁定;公司主=Visura 付费段波次二
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
@@ -77,25 +84,62 @@ updated: 2026-10-06
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STC-424XGGPM-280W（24口 PoE + 4×10G）
-- **要问的问题**：Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 一页目录卡
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第4波.json`；价格均为 EXW 快照。
+
+- **①背景再核**：Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳
+- **②芯片/型号**：MikroTik/Cambium/Ubiquiti/Nim Wave 天线线缆/附件，自有 WISP 牌 Lainit
+- **③KP 深挖**：**公司主(KP 实名)=NIM Wave S.r.l. 法定谱(Visura 付费件/R66 波次二点名);现位:info@dnet-distribution.com 函数口+总部法谱/自营 Lainit WISP 谱**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：万谱分销+自营 WISP 牌 Lainit
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**Dnet-Distribution.com un marchio di Nim Wave S.r.l. · Sede Legale: Via De Gasperi 19, 20045 Lainate MI · Telefono +39 02 78626300 · P. IVA 06095990963
+  > Dnet-Distribution.com un marchio di Nim Wave S.r.l. · Sede Legale: Via De Gasperi 19, 20045 Lainate MI · Telefono +39 02 78626300 · P. IVA 06095990963
+  > 来源：https://www.dnet-distribution.com/
+- **【产品线与在售品牌】**Nim Wave - Mikrotik - Cambium Networks - Ubiquiti - Stella Doradus - Wifx Sarl
+  > Nim Wave - Mikrotik - Cambium Networks - Ubiquiti - Stella Doradus - Wifx Sarl
+  > 来源：http://www.dnet-distribution.com/catalogo/produttore/MikroTik/MikroTik.html
+- **【业务定位】**Since 2012, with its own brand "Lainit", NIM Wave offers connectivity and internet services in order to test and present its solutions in the real world
+  > Since 2012, with its own brand "Lainit", NIM Wave offers connectivity and internet services in order to test and present its solutions in the real world
+  > 来源：https://www.nimwave.it/about/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳
+- **产品线与在售品牌**：MikroTik/Cambium/Ubiquiti/Nim Wave 天线线缆/附件，自有 WISP 牌 Lainit
+- **目标行业与场景**：意大利集成商/ISP/安装商电商分销
+- **团队与规模**：(NIM Wave 中实体);2008 起谱面
+- **决策链与对接人**：**公司主(KP 实名)=NIM Wave S.r.l. 法定谱(Visura 付费件/R66 波次二点名);现位:info@dnet-distribution.com 函数口+总部法谱/自营 Lainit WISP 谱**
+- **技术与认证**：自营 WISP Lainit 2012 起
+- **采购与供应链信号**：电商分销谱面(installatori/rivenditori 专用)
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：公司主=Visura 付费件波次二点名
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -108,10 +152,10 @@ updated: 2026-10-06
 
 ## SWOT
 
-- **S**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-160；理由:MikroTik Master/Value-Added 官方名录,CRS305-1G-4S+IN/CRS317 PoE 交换机在售 €147-494
-- **W**：公开信息有限
-- **O**：P1 场景切入（【2026-10-06 R63 B升A】MikroTik Master 官方名录画像）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：万谱分销+自营 WISP 牌 Lainit
+- **W**：公司主公开件付费段
+- **O**：Lainit WISP 谱面的价值层 PoE
+- **T**：大牌集成
 
 ## 触达与风险红线
 
@@ -138,6 +182,10 @@ updated: 2026-10-06
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] 公司主实名(波次二)
+  - [ ] Lainit WISP 谱面规模
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -145,21 +193,19 @@ updated: 2026-10-06
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Dnet-Distribution,
+Hi team,
 
-I came across Dnet-Distribution - 分销（MikroTik 官方）.
+I came across Dnet-Distribution(NIM Wave S.r.l.) while mapping 意大利 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

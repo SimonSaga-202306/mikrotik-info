@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Kappa Data Nederland(荷兰;R66 基线补足档·公司面全貌待补;函数口职能口 info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht(kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Kappa Data Group(比利时 De Pinte 总部,1998 创,2023 年 25 周年;分支:比利时/卢森堡/法国/荷兰/波兰;2025-07-03 Channel News:InvestLink 私募强化后,**Patrick Casteels = 唯一 CEO(创始人,股比 22%→35%)**;Chris Willems = 前 Co-CEO,转任 M&A 主责;Koert Martens = 技术总监(2011 前管理组合);Michel Grunspan = 收购的法国 Exer CEO(集团管理增补);Erwan Le Guen = 法国国别总监;2,900+ LinkedIn followers;目标 2030 前营收翻倍 · 只在 midsize/enterprise 转经商(reseller)谱;Kappa Data Nederland = Kappa Data Group 荷兰分支(2013 创的国别点,Channel News 认证在扩);Rubin Zwanenburg 实时表现荷兰面 LinkedIn 业务的 IoT/Security 线
+- 【推断】Patrick Casteels 经 co-CEO 共享后转唯一 CEO;InvestLink 私募深化持股;Casteels 股比 22%→35%;VAD 谱 LinkedIn 2,900+ followers;2030 翻倍目标下扩欧
+- 【假设】对转经商的「同档多谱」集成时,汇报层同厂转额的锚点件,卖「MikroTik 同档的成本 value PoE」能打三波
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -83,62 +83,64 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 同档多谱 VAD 的 value PoE 替换件
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **切入点**：同档多谱 VAD 的 value PoE 替换件
+- **要问的问题**：Kappa NL/BE 详措『同档多谱』转商上游, MikroTik 成本谱对象的替换件有必要?
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · M&A 期的转商搭件谱(+Chip 谱)
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
+- **切入点**：M&A 期的转商搭件谱(+Chip 谱)
+- **要问的问题**：InvestLink 结构化扩能期,转商谱的价值层是新样?
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · 留档+LinkedIn 谱,在渠道处理时只谱 NL/BE 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
-- **要问的问题**：—
+- **切入点**：留档+LinkedIn 谱,在渠道处理时只谱 NL/BE 谱
+- **要问的问题**：谱接 CEO/CTO 谱位的公开 LinkedIn 谱
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht(kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht)跟团不动
-- **②芯片/型号**：(待问;kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht(kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：De Pinte 1998 创的欧盟 VAD 谱,比利时/FR/NL/PL 四办,2025-07 PE 重组,Channel News 一手核
+- **②芯片/型号**：Extreme/Aruba/Juniper 同档(官网);MikroTik 从库内信号——同档多谱集成
+- **③KP 深挖**：**Patrick Casteels(CEO 金谱)+Chris Willems(M&A)+Koert Martens(技术总监)+Michel Grunspan+Erwan Le Guen+Rubin Zwanenburg(NL)**
+- **④Saga 对标**：MikroTik 成本谱对象的 value PoE($180 USD EXW (2026-10-07, 15天有效))配天平
+- **⑤在乎与偏好**：VAD 谱、reseller-only、安全/IoT/IoP 集成
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Kappa Data Nederland — info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Kappa Data Nederland — info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.kappadata.nl
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.kappadata.nl
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.kappadata.nl
+- **【决策链与对接人】**Tot voor kort deelden Patrick Casteels en Chris Willems de rol van Co-CEO ... Patrick de enige CEO ... Chris zich toespitst op het M&A-luik
+  > Tot voor kort deelden Patrick Casteels en Chris Willems de rol van Co-CEO ... Patrick de enige CEO ... Chris zich toespitst op het M&A-luik
+  > 来源：https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/
+- **【业务定位】**25 jaar Kappa Data ... Tot 2011: Patrick Casteels managing director, Koert Martens technisch directeur, 2011 Chris Willems ... 2013 NL, 2015 PL, 2019 InvestLink, 2021 Exer
+  > 25 jaar Kappa Data ... Tot 2011: Patrick Casteels managing director, Koert Martens technisch directeur, 2011 Chris Willems ... 2013 NL, 2015 PL, 2019 InvestLink, 2021 Exer
+  > 来源：https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/
+- **【目标行业与场景】**Rubin Zwanenburg at Kappa Data Nederland: Network Infrastructure, (Cyber) Security, Internet of Things, Services, Business Models
+  > Rubin Zwanenburg at Kappa Data Nederland: Network Infrastructure, (Cyber) Security, Internet of Things, Services, Business Models
+  > 来源：https://www.linkedin.com/in/rubin-zwanenburg-b05a952/
+- **【近期动态与线索】**In Nederland en Polen worden de bestaande teams dan weer versterkt. Chris Willems gaat in verschillende landen zoeken naar synergien
+  > In Nederland en Polen worden de bestaande teams dan weer versterkt. Chris Willems gaat in verschillende landen zoeken naar synergien
+  > 来源：https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht(kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht)跟团不动
-- **产品线与在售品牌**：(待问;kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht(kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：value-add distributor(VAD)的 edge 安全/IoT/network 集成分销谱;只接 reseller 谱、不接 enduser
+- **产品线与在售品牌**：Extreme Networks/Aruba HPE/Juniper/HPE Networking;MikroTik 从库内信号
+- **目标行业与场景**：midsize/enterprise 的转经商谱(只接 reseller,不接 enduser)
+- **决策链与对接人**：**Patrick Casteels(集团唯一 CEO+创始人);Chris Willems(前 Co-CEO→M&A);Koert Martens(技术总监);Rubin Zwanenburg(荷兰员工 LinkedIn 自曝);Erwan Le Guen 法国国别。official-self-published 级实名金谱**
+- **技术与认证**：25+年 IT infra/security 分销;技术实力同格 Waveline
+- **采购与供应链信号**：转经商谱的多牌集成、分销组线;对搭配的 value PoE 件链窗口
+- **近期动态与线索**：2025-07 Channel News 报鹏芽双层(PE+CEO 重组+欧国扩)
+- **与我方契合点**：「同档多谱」谱里 value PoE 替换件的转经价值
+- **风险与注意**：只接 reseller 不接受直触达;雪要派谱链接送转经商上端
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -153,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：VAD 谱/PE 加持
+- **W**：直触 reseller 谱上端
+- **O**：value PoE 替换件
+- **T**：大牌集成
 
 ## 触达与风险红线
 
@@ -184,9 +186,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] MikroTik 成本谱谱链
+  - [ ] 当前 24 口 PoE 执行品牌/搭配线
+  - [ ] reseller 谱的谱链搭
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,16 +200,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
-
-I came across Kappa Data Nederland while mapping 荷兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
-
-Best regards,
-Saga Networks Export Desk
+Hi Kappa Data Nederland team, Kappa Data Nederland looks like exactly the kind of value-add distributor where a 24-port value PoE layer would slot in alongside the Extreme/Aruba lines you already carry.
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MSI Works Ltd（英国）：CSV 载 Allied Telesis（Marvell Prestera 接入层）信号；msi-works.com 为 **Wix 纯表单站（无邮箱公开）**；电话 +44 7584 631601（手机口径）
-- 【推断】小而活的集成/工程体；Allied 信号=企业网向
-- 【假设】表单+手机小体=电话直入最快
+- 【事实】MSI WORKS LTD(英国;MSI WORKS LTD(伦敦 3rd Floor, 86-90 Paul Street, EC2A 4NE;公司号 15643579;2024-04-13 注册新实体(2 年谱);私有有限责任公司 ACTIVE)
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,35 +135,38 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：小体工程（Allied 信号）；表单站+域邮存活
-- **②芯片/型号**：Allied Telesis
-- **③KP 深挖**：手机口；域邮箱可期待
-- **④Saga 对标**：破冰后定
-- **⑤在乎与偏好**：未知
+- **①背景再核**：MSI WORKS LTD(伦敦 3rd Floor, 86-90 Paul Street, EC2A 4NE;公司号 15643579;2024-04-13 注册新实体(2 年谱);私有有限责任公司 ACTIVE
+- **②芯片/型号**：(新实体谱面待 R66 波次二;MikroTik 库档信号)
+- **③KP 深挖**：**David James Salisbury = Managing Director(2024-12-30 任命,官方谱面)+ John Robert Dente = Director(2024-04-13 任命,1962-10 生)+ John Paul Hubbard = Director(2024-12-30 任命,1988-12 生);Companies House 免费军官名单(official-self-published 级金谱);新实体谱面(2 年谱),管理 MD 与双 Director 三员全实名**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：新实体 MD+双 Director 三员实名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式】**msi-works.com 为 Wix 表单站无邮箱；域 MX=msiworks-com0i.mail.protection.outlook.com / mx2-us1.ppe-hosted.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > msi-works.com 为 Wix 表单站无邮箱；域 MX=msiworks-com0i.mail.protection.outlook.com / mx2-us1.ppe-hosted.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【产品线】**CSV：Allied Telesis（Marvell Prestera 接入层）
-  > CSV：Allied Telesis（Marvell Prestera 接入层）
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【决策链与对接人】**SALISBURY, David James — Director · Occupation: Managing Director · Appointed 30 December 2024;DENTE, John Robert — Director Appointed 13 April 2024 (born October 1962);HUBBARD, John Paul — Director Appointed 30 December 2024 (born December 1988)
+  > SALISBURY, David James — Director · Occupation: Managing Director · Appointed 30 December 2024;DENTE, John Robert — Director Appointed 13 April 2024 (born October 1962);HUBBARD, John Paul — Director Appointed 30 December 2024 (born December 1988)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/15643579/officers
+- **【业务定位】**MSI WORKS LTD · Company number 15643579 · 3rd Floor, 86-90 Paul Street, London EC2A 4NE · Incorporated 2024-04 · Private limited Company · 3 officers / 0 resignations
+  > MSI WORKS LTD · Company number 15643579 · 3rd Floor, 86-90 Paul Street, London EC2A 4NE · Incorporated 2024-04 · Private limited Company · 3 officers / 0 resignations
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/15643579
+- **【近期动态与线索】**2026-10-07 R66 波次:2 年谱新实体;2024-12 MD Salisbury 上任=谱面定型期
+  > 2026-10-07 R66 波次:2 年谱新实体;2024-12 MD Salisbury 上任=谱面定型期
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/15643579/officers
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国小型工程体（Allied 信号）
-- **产品线与在售品牌**：Allied Telesis（CSV）
-- **目标行业与场景**：企业网项目
-- **团队与规模**：小体
-- **决策链与对接人**：手机口
-- **技术与认证**：未公开
-- **采购与供应链信号**：项目随单潜力
-- **近期动态与线索**：表单站+域 MX 存活
-- **与我方契合点**：破冰后定
-- **风险与注意**：薄档如实
+- **业务定位**：MSI WORKS LTD(伦敦 3rd Floor, 86-90 Paul Street, EC2A 4NE;公司号 15643579;2024-04-13 注册新实体(2 年谱);私有有限责任公司 ACTIVE
+- **产品线与在售品牌**：(新实体谱面待 R66 波次二;MikroTik 库档信号)
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：2024 新实体
+- **决策链与对接人**：**David James Salisbury = Managing Director(2024-12-30 任命,官方谱面)+ John Robert Dente = Director(2024-04-13 任命,1962-10 生)+ John Paul Hubbard = Director(2024-12-30 任命,1988-12 生);Companies House 免费军官名单(official-self-published 级金谱);新实体谱面(2 年谱),管理 MD 与双 Director 三员全实名**
+- **技术与认证**：(谱面待补)
+- **采购与供应链信号**：(谱面待补)
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：2 年谱新实体;管理 MD Salisbury=首击位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +181,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：信号
-- **W**：薄
-- **O**：未探
-- **T**：不确定
+- **S**：新实体 MD+双 Director 三员实名
+- **W**：2 年谱新实体
+- **O**：MD Salisbury 直达位
+- **T**：新实体谱面未定型
 
 ## 触达与风险红线
 
@@ -213,9 +216,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 业务面详
-  - [ ] 接入层现供
-  - [ ] 评测意愿
+  - [ ] 新实体谱面全谱(波次二)
+  - [ ] MikroTik 谱面份证
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +229,16 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-Hi MSI team,
+Hi David,
 
-I could not find a public email for MSI Works, so I keep this note short and plain.
+I came across MSI WORKS LTD while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build managed PoE switches that fit exactly the access-layer work Allied Telesis lines serve (24-port, 280W PoE, Voice VLAN, watchdog). Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: in your network projects, is the switching layer ever open for a value-priced alternative?
-
-If yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

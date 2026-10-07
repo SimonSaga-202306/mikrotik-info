@@ -44,6 +44,13 @@ updated: 2026-10-06
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】etree GmbH(德国;etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询)
+- 【推断】etree GmbH 全款谱:Grazian Twonski 创始人 CEO+Sebastian Rinne/Peter Valentin Voigt/Bartholomäus Paul Scislak GF+Wysoczanski 购售经理(+49 221 292 417 62)
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -77,25 +84,65 @@ updated: 2026-10-06
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STC-424XGGPM-280W（24口 PoE + 4×10G）
-- **要问的问题**：Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 一页目录卡
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第4波.json`；价格均为 EXW 快照。
+
+- **①背景再核**：etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询
+- **②芯片/型号**：IT 批发 80,000 件谱面+Webdesign/Hosting/咨询;MikroTik 从谱面信号
+- **③KP 深挖**：**Grazian Dominik Twonski = Gründer & CEO(官网 Über-uns 自署 official-self-published 金谱)+ Sebastian Rinne + Peter Valentin Voigt = 2022-04-26 登记任命 Geschäftsführer(Handelsregister 免费件)+ Bartholomäus Paul Scislak = 后续任命 GF + Herr Rinne = Head of Sales/CFO(+49 221 292 417 09)+ Herr Wysoczanski = Sales/Purchase Manager(+49 221 292 417 62)+ Herr Floßdorf = Sales Manager(+49 221 292 417 29)+ Herr Güclü = Sales Manager(+49 221 292 417 26)——实名金谱达格(创始人+3 GF+3 业务经理线)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：创始人+3GF+购售经理线全谱
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【决策链与对接人】**Grazian Twonski, Gründer & CEO etree GmbH;2010 von Grazian Twonski in einer Kölner Garage gegründet
+  > Grazian Twonski, Gründer & CEO etree GmbH;2010 von Grazian Twonski in einer Kölner Garage gegründet
+  > 来源：https://etree.de/Services/Informationen/UEber-uns/
+- **【决策链与对接人】**Geschäftsführer(2022-04-26 变化):Rinne, Sebastian / Voigt, Peter Valentin bestellt;Twonski, Grazian Dominik nicht mehr GF(账谱转折);又 Bestellt als GF: Scislak, Bartholomäus Paul
+  > Geschäftsführer(2022-04-26 变化):Rinne, Sebastian / Voigt, Peter Valentin bestellt;Twonski, Grazian Dominik nicht mehr GF(账谱转折);又 Bestellt als GF: Scislak, Bartholomäus Paul
+  > 来源：https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH
+- **【决策链与对接人】**Sales/Purchase Manager: Herr Wysoczanski +49 221 292 417 62 · Sales Manager: Herr Floßdorf 417 29 · Herr Güclü 417 26 · CEO: Herr Twonski · Head of Sales/CFO: Herr Rinne +49 221 292 417 09
+  > Sales/Purchase Manager: Herr Wysoczanski +49 221 292 417 62 · Sales Manager: Herr Floßdorf 417 29 · Herr Güclü 417 26 · CEO: Herr Twonski · Head of Sales/CFO: Herr Rinne +49 221 292 417 09
+  > 来源：https://www.lieferanten.de/lieferant-21930-ETREE%20GmbH.html
+- **【业务定位】**etree GmbH · Mathias-Brüggen-Straße 160, 50829 Köln · HRB 75598 · USt-IdNr DE270780232 · IT wholesale;80,000 products;10 languages
+  > etree GmbH · Mathias-Brüggen-Straße 160, 50829 Köln · HRB 75598 · USt-IdNr DE270780232 · IT wholesale;80,000 products;10 languages
+  > 来源：https://web2.cylex.de/firma-home/etree-gmbh-11467621.html
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询
+- **产品线与在售品牌**：IT 批发 80,000 件谱面+Webdesign/Hosting/咨询;MikroTik 从谱面信号
+- **目标行业与场景**：德国 IT 批发国际谱(10 语言)
+- **团队与规模**：>20 员工;2010 创;80,000 产品
+- **决策链与对接人**：**Grazian Dominik Twonski = Gründer & CEO(官网 Über-uns 自署 official-self-published 金谱)+ Sebastian Rinne + Peter Valentin Voigt = 2022-04-26 登记任命 Geschäftsführer(Handelsregister 免费件)+ Bartholomäus Paul Scislak = 后续任命 GF + Herr Rinne = Head of Sales/CFO(+49 221 292 417 09)+ Herr Wysoczanski = Sales/Purchase Manager(+49 221 292 417 62)+ Herr Floßdorf = Sales Manager(+49 221 292 417 29)+ Herr Güclü = Sales Manager(+49 221 292 417 26)——实名金谱达格(创始人+3 GF+3 业务经理线)**
+- **技术与认证**：IT-Distribution 整装+Web 服务
+- **采购与供应链信号**：Euro 谱批发+国际 10 语言
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Twonski 2022 离 GF 账谱转;Wysoczanski 购售经理线=硬件面 KPI 天位
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -108,10 +155,10 @@ updated: 2026-10-06
 
 ## SWOT
 
-- **S**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-152；理由:科隆总部官方分销 MikroTik/Teltonika 50+ 牌,11-50 员,波兰/乌克兰分部,40000 SKU
-- **W**：公开信息有限
-- **O**：P1 场景切入（【2026-10-06 R63 B升A】官方分销 50+牌画像）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：创始人+3GF+购售经理线全谱
+- **W**：2022 GF 层变动传账谱转
+- **O**：Wysoczanski 采购线的 value PoE
+- **T**：品牌大牌
 
 ## 触达与风险红线
 
@@ -138,6 +185,10 @@ updated: 2026-10-06
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] 当前董事结构(2022 后谱面)
+  - [ ] 硬件线价值层品牌固有
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -145,21 +196,19 @@ updated: 2026-10-06
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi etree,
+Hi Herr Wysoczanski,
 
-I came across etree GmbH - 分销（MikroTik 官方）.
+I came across etree GmbH while mapping 德国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

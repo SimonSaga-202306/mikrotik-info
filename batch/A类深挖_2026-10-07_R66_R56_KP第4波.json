@@ -1,0 +1,1126 @@
+{
+ "date": "2026-10-07",
+ "wave": "R66 第 4 波:A-570~A-584 尾段 12 户清零",
+ "scope": "以色列/CY/DE/IT/SI/FR/US 7 丰产 + A-571 排噪守档 + A-578 停摆件 + A-583/584 守界 + A-580 人名基线",
+ "records": [
+  {
+   "customer": "A-570",
+   "fact": "RONITEK DISTRIBUTION LTD(以色列;RONITEK DISTRIBUTION LTD(特拉维夫,84 Ben Tzvi Rd 6810431;注册号 516918844;2024-01-10 新注册实体;官网自营 MikroTik 官方进口商/分销商页(יבואן רשמי=official importer);以色列 MikroTik 谱面大牌分销谱面)",
+   "inference": "以色列 MikroTik 官方进口商实体谱面锁定,董事公开件=付费段波次二",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.kycisrael.com/companies/516918844/ronitek-distribution-ltd/",
+   "tech": "MikroTik 全系谱面",
+   "hr": "2024 新注册实体(以传承谱)",
+   "contact_found": "**公司登记簿董事公开件=kycisrael 付费件(R66 波次二点名);现位:ronitek.co.il 官网函数口+以色列公司局登记号 516918844 实位(ACTIVE,פעילה)**",
+   "contact_pending": "董事公开件=kycisrael 付费件/R66 波次二",
+   "dims": {
+    "业务定位": "RONITEK DISTRIBUTION LTD(特拉维夫,84 Ben Tzvi Rd 6810431;注册号 516918844;2024-01-10 新注册实体;官网自营 MikroTik 官方进口商/分销商页(יבואן רשמי=official importer);以色列 MikroTik 谱面大牌分销谱面",
+    "产品线与在售品牌": "MikroTik 官方进口商(Cloud Core/Wireless/RDS2216 全系谱面)",
+    "目标行业与场景": "以色列 ISP/集成商分销谱面",
+    "团队与规模": "2024 新注册实体(以传承谱)",
+    "决策链与对接人": "**公司登记簿董事公开件=kycisrael 付费件(R66 波次二点名);现位:ronitek.co.il 官网函数口+以色列公司局登记号 516918844 实位(ACTIVE,פעילה)**",
+    "技术与认证": "MikroTik 全系谱面",
+    "采购与供应链信号": "以色列官方进口商口",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "新注册实体;董事公开件=kycisrael 付费段"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "RONITEK DISTRIBUTION LTD · Registration Number: 516918844 · Tel Aviv · 84 Ben Tzvi Rd · Active · 2024-01-10 incorporation",
+     "source": "https://www.kycisrael.com/companies/516918844/ronitek-distribution-ltd/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "רוניטק משווקת ומוכרת את מוצרי MikroTik בישראל · יבואן רשמי(官方进口商/markets+sells MikroTik)",
+     "source": "https://www.ronitek.co.il/products/cat/Mikrotik"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-07 R66 波次:实体谱面锁定;董事公开件=R66 波次二点名",
+     "source": "https://www.ronitek.co.il"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "RONITEK DISTRIBUTION LTD(特拉维夫,84 Ben Tzvi Rd 6810431;注册号 516918844;2024-01-10 新注册实体;官网自营 MikroTik 官方进口商/分销商页(יבואן רשמי=official importer);以色列 MikroTik 谱面大牌分销谱面",
+     "②芯片/型号": "MikroTik 官方进口商(Cloud Core/Wireless/RDS2216 全系谱面)",
+     "③KP 深挖": "**公司登记簿董事公开件=kycisrael 付费件(R66 波次二点名);现位:ronitek.co.il 官网函数口+以色列公司局登记号 516918844 实位(ACTIVE,פעילה)**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "MikroTik 官方进口商规格",
+     "⑥SWOT": "S MikroTik 官方进口商规格 / W 新注册实体董事公开件付费段 / O 波次二点名后直达 / T 新实体"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "MikroTik 官方进口商规格",
+     "W": "新注册实体董事公开件付费段",
+     "O": "波次二点名后直达",
+     "T": "新实体"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "董事实名(波次二点名)",
+    "公司继承谱面元谱(2024 前谱)"
+   ],
+   "email": "Hi team,\n\nI came across RONITEK DISTRIBUTION LTD while mapping 以色列 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-572",
+   "fact": "CY-WIRELESS(ART2SOFT LTD)(塞浦路斯;ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244)",
+   "inference": "20 年谱面 MikroTik 高端件实卖;公司主公开件=注册处波次二",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://prod.cy-wireless.com/",
+   "tech": "MikroTik 高端件日常卖(RDS2216/XQ+DA 100G)",
+   "hr": "2006 创(20 年谱面)",
+   "contact_found": "**公司主(KP 实名)=塞浦路斯注册处 ELECTRONIC 公开件段(R66 波次二点名);现位:CY-WIRELESS 函数口+官方店址/电话实位**",
+   "contact_pending": "塞浦路斯注册处公司主公开件=R66 波次二点名",
+   "dims": {
+    "业务定位": "ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244",
+    "产品线与在售品牌": "MikroTik(RDS2216/XQ+DA 高端件);Ubiquiti;IP PBX/SIP/UPS 谱面",
+    "目标行业与场景": "塞浦路斯 WISP/集成商分销谱面",
+    "团队与规模": "2006 创(20 年谱面)",
+    "决策链与对接人": "**公司主(KP 实名)=塞浦路斯注册处 ELECTRONIC 公开件段(R66 波次二点名);现位:CY-WIRELESS 函数口+官方店址/电话实位**",
+    "技术与认证": "MikroTik 高端件日常卖(RDS2216/XQ+DA 100G)",
+    "采购与供应链信号": "自营 b2b/prod 双站直卖",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "公司主公开件=注册处 ELECTRONIC 段"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "ART2SOFT was founded in 2006 ... distribute Ubiquiti ... 2009 routing and switching ... 2012 VoIP products including IP PBX systems, SIP phones, Gateways ... cabling products, UPS products",
+     "source": "https://prod.cy-wireless.com/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "CY-WIRELESS · Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia, Cyprus · Telephone +35722814244",
+     "source": "https://prod.cy-wireless.com/index.php?route=information/contact"
+    },
+    {
+     "dim": "技术与认证",
+     "quote": "MikroTik RDS2216-2XG-4S+4XS-2XQ RouterOS enterprise Data Server · MikroTik {XQ+DA003} QSFP28 100G Direct Attach Cable —— 自营店直卖 MikroTik 企业级高速谱",
+     "source": "https://b2b.cy-wireless.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244",
+     "②芯片/型号": "MikroTik(RDS2216/XQ+DA 高端件);Ubiquiti;IP PBX/SIP/UPS 谱面",
+     "③KP 深挖": "**公司主(KP 实名)=塞浦路斯注册处 ELECTRONIC 公开件段(R66 波次二点名);现位:CY-WIRELESS 函数口+官方店址/电话实位**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "20 年 WISP 谱面+MikroTik 高端件实卖",
+     "⑥SWOT": "S 20 年 WISP 谱面+MikroTik 高端件实卖 / W 公司主公开件注册处段 / O 波次二点名直达 / T 小实体"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "20 年 WISP 谱面+MikroTik 高端件实卖",
+     "W": "公司主公开件注册处段",
+     "O": "波次二点名直达",
+     "T": "小实体"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "公司主实名(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi team,\n\nI came across CY-WIRELESS(ART2SOFT LTD) while mapping 塞浦路斯 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-573",
+   "fact": "etree GmbH(德国;etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询)",
+   "inference": "etree GmbH 全款谱:Grazian Twonski 创始人 CEO+Sebastian Rinne/Peter Valentin Voigt/Bartholomäus Paul Scislak GF+Wysoczanski 购售经理(+49 221 292 417 62)",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://etree.de/Services/Informationen/UEber-uns/",
+   "tech": "IT-Distribution 整装+Web 服务",
+   "hr": ">20 员工;2010 创;80,000 产品",
+   "contact_found": "**Grazian Dominik Twonski = Gründer & CEO(官网 Über-uns 自署 official-self-published 金谱)+ Sebastian Rinne + Peter Valentin Voigt = 2022-04-26 登记任命 Geschäftsführer(Handelsregister 免费件)+ Bartholomäus Paul Scislak = 后续任命 GF + Herr Rinne = Head of Sales/CFO(+49 221 292 417 09)+ Herr Wysoczanski = Sales/Purchase Manager(+49 221 292 417 62)+ Herr Floßdorf = Sales Manager(+49 221 292 417 29)+ Herr Güclü = Sales Manager(+49 221 292 417 26)——实名金谱达格(创始人+3 GF+3 业务经理线)**",
+   "contact_pending": "Wysoczanski 采购经理线=R66 首击位(opt-in 律)",
+   "dims": {
+    "业务定位": "etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询",
+    "产品线与在售品牌": "IT 批发 80,000 件谱面+Webdesign/Hosting/咨询;MikroTik 从谱面信号",
+    "目标行业与场景": "德国 IT 批发国际谱(10 语言)",
+    "团队与规模": ">20 员工;2010 创;80,000 产品",
+    "决策链与对接人": "**Grazian Dominik Twonski = Gründer & CEO(官网 Über-uns 自署 official-self-published 金谱)+ Sebastian Rinne + Peter Valentin Voigt = 2022-04-26 登记任命 Geschäftsführer(Handelsregister 免费件)+ Bartholomäus Paul Scislak = 后续任命 GF + Herr Rinne = Head of Sales/CFO(+49 221 292 417 09)+ Herr Wysoczanski = Sales/Purchase Manager(+49 221 292 417 62)+ Herr Floßdorf = Sales Manager(+49 221 292 417 29)+ Herr Güclü = Sales Manager(+49 221 292 417 26)——实名金谱达格(创始人+3 GF+3 业务经理线)**",
+    "技术与认证": "IT-Distribution 整装+Web 服务",
+    "采购与供应链信号": "Euro 谱批发+国际 10 语言",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Twonski 2022 离 GF 账谱转;Wysoczanski 购售经理线=硬件面 KPI 天位"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Grazian Twonski, Gründer & CEO etree GmbH;2010 von Grazian Twonski in einer Kölner Garage gegründet",
+     "source": "https://etree.de/Services/Informationen/UEber-uns/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Geschäftsführer(2022-04-26 变化):Rinne, Sebastian / Voigt, Peter Valentin bestellt;Twonski, Grazian Dominik nicht mehr GF(账谱转折);又 Bestellt als GF: Scislak, Bartholomäus Paul",
+     "source": "https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Sales/Purchase Manager: Herr Wysoczanski +49 221 292 417 62 · Sales Manager: Herr Floßdorf 417 29 · Herr Güclü 417 26 · CEO: Herr Twonski · Head of Sales/CFO: Herr Rinne +49 221 292 417 09",
+     "source": "https://www.lieferanten.de/lieferant-21930-ETREE%20GmbH.html"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "etree GmbH · Mathias-Brüggen-Straße 160, 50829 Köln · HRB 75598 · USt-IdNr DE270780232 · IT wholesale;80,000 products;10 languages",
+     "source": "https://web2.cylex.de/firma-home/etree-gmbh-11467621.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "etree GmbH(科隆 Mathias-Brüggen-Straße 160, 50829 Köln;HRB 75598, AG Köln;2010 由 Grazian Dominik Twonski 在科隆车库创立(官网自述 Von der Garage zum Global Player);USt-IdNr DE270780232;股本 €25,000;>20 员工/80,000 产品/10 语言;IT 批发分销商+Webdesign/Hosting/咨询",
+     "②芯片/型号": "IT 批发 80,000 件谱面+Webdesign/Hosting/咨询;MikroTik 从谱面信号",
+     "③KP 深挖": "**Grazian Dominik Twonski = Gründer & CEO(官网 Über-uns 自署 official-self-published 金谱)+ Sebastian Rinne + Peter Valentin Voigt = 2022-04-26 登记任命 Geschäftsführer(Handelsregister 免费件)+ Bartholomäus Paul Scislak = 后续任命 GF + Herr Rinne = Head of Sales/CFO(+49 221 292 417 09)+ Herr Wysoczanski = Sales/Purchase Manager(+49 221 292 417 62)+ Herr Floßdorf = Sales Manager(+49 221 292 417 29)+ Herr Güclü = Sales Manager(+49 221 292 417 26)——实名金谱达格(创始人+3 GF+3 业务经理线)**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "创始人+3GF+购售经理线全谱",
+     "⑥SWOT": "S 创始人+3GF+购售经理线全谱 / W 2022 GF 层变动传账谱转 / O Wysoczanski 采购线的 value PoE / T 品牌大牌"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "创始人+3GF+购售经理线全谱",
+     "W": "2022 GF 层变动传账谱转",
+     "O": "Wysoczanski 采购线的 value PoE",
+     "T": "品牌大牌"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "当前董事结构(2022 后谱面)",
+    "硬件线价值层品牌固有"
+   ],
+   "email": "Hi Herr Wysoczanski,\n\nI came across etree GmbH while mapping 德国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-574",
+   "fact": "Dnet-Distribution(NIM Wave S.r.l.)(意大利;Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳)",
+   "inference": "NIM Wave Lainate 实体谱面锁定;公司主=Visura 付费段波次二",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.dnet-distribution.com/",
+   "tech": "自营 WISP Lainit 2012 起",
+   "hr": "(NIM Wave 中实体);2008 起谱面",
+   "contact_found": "**公司主(KP 实名)=NIM Wave S.r.l. 法定谱(Visura 付费件/R66 波次二点名);现位:info@dnet-distribution.com 函数口+总部法谱/自营 Lainit WISP 谱**",
+   "contact_pending": "NIM Wave 公司主=Visura camerale 付费件/R66 波次二点名",
+   "dims": {
+    "业务定位": "Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳",
+    "产品线与在售品牌": "MikroTik/Cambium/Ubiquiti/Nim Wave 天线线缆/附件，自有 WISP 牌 Lainit",
+    "目标行业与场景": "意大利集成商/ISP/安装商电商分销",
+    "团队与规模": "(NIM Wave 中实体);2008 起谱面",
+    "决策链与对接人": "**公司主(KP 实名)=NIM Wave S.r.l. 法定谱(Visura 付费件/R66 波次二点名);现位:info@dnet-distribution.com 函数口+总部法谱/自营 Lainit WISP 谱**",
+    "技术与认证": "自营 WISP Lainit 2012 起",
+    "采购与供应链信号": "电商分销谱面(installatori/rivenditori 专用)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "公司主=Visura 付费件波次二点名"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Dnet-Distribution.com un marchio di Nim Wave S.r.l. · Sede Legale: Via De Gasperi 19, 20045 Lainate MI · Telefono +39 02 78626300 · P. IVA 06095990963",
+     "source": "https://www.dnet-distribution.com/"
+    },
+    {
+     "dim": "产品线与在售品牌",
+     "quote": "Nim Wave - Mikrotik - Cambium Networks - Ubiquiti - Stella Doradus - Wifx Sarl",
+     "source": "http://www.dnet-distribution.com/catalogo/produttore/MikroTik/MikroTik.html"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Since 2012, with its own brand \"Lainit\", NIM Wave offers connectivity and internet services in order to test and present its solutions in the real world",
+     "source": "https://www.nimwave.it/about/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Dnet-Distribution = NIM Wave S.r.l. 牌(Sede Legale: Via De Gasperi 19, 20045 Lainate MI;P.IVA 06095990963;+39 02 78626300;谱面=installatori/rivenditori/system integrators 专用电商分销(antenne/cavi/accessori);品牌:Nim Wave/MikroTik/Cambium Networks/Ubiquiti/Stella Doradus/Wifx Sarl;自有 WISP 牌 Lainit(2012 起:以自营连通服务为产品真实世界测试场);2008-2022 网谱面稳",
+     "②芯片/型号": "MikroTik/Cambium/Ubiquiti/Nim Wave 天线线缆/附件，自有 WISP 牌 Lainit",
+     "③KP 深挖": "**公司主(KP 实名)=NIM Wave S.r.l. 法定谱(Visura 付费件/R66 波次二点名);现位:info@dnet-distribution.com 函数口+总部法谱/自营 Lainit WISP 谱**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "万谱分销+自营 WISP 牌 Lainit",
+     "⑥SWOT": "S 万谱分销+自营 WISP 牌 Lainit / W 公司主公开件付费段 / O Lainit WISP 谱面的价值层 PoE / T 大牌集成"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "万谱分销+自营 WISP 牌 Lainit",
+     "W": "公司主公开件付费段",
+     "O": "Lainit WISP 谱面的价值层 PoE",
+     "T": "大牌集成"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "公司主实名(波次二)",
+    "Lainit WISP 谱面规模"
+   ],
+   "email": "Hi team,\n\nI came across Dnet-Distribution(NIM Wave S.r.l.) while mapping 意大利 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-577",
+   "fact": "PEC SISTEMI d.o.o.(tehnox.si)(斯洛文尼亚;PEC SISTEMI, raziskovanje in druge storitve, d.o.o.(Maribor,Hrenova ulica 25, 2000 Maribor;Matična 2259826000;DŠ SI 50364294;**Peter Jezernik = Director(sloexport.si 官方谱面,+386 2 250 22 35)**;8 名员工/年收入 €4,360,749/权益 €887,506/资产 €2,115,284(2022);1996 创(sp→2007 d.o.o.,30 年谱);DIGITUS 全谱面总进口商;品牌:Digitus/Tehnox(自有)/Logilink/MikroTik/Ubiquiti;出口 24%(BiH/Croatia);NACE 46.500 ICT 批发)",
+   "inference": "Peter Jezernik = Direktor 官方自曝;DIGITUS 总进口商 30 年谱;8 人小实体",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.sloexport.si/en/company-card?ms=2259826",
+   "tech": "DIGITUS 全谱面总进口+Tehnox 自有牌",
+   "hr": "8 人;€4.36M 营收(2022)",
+   "contact_found": "**Peter Jezernik = Direktor/direktor(sloexport.si 斯洛文尼亚商务部官方出口名录自曝,official-self-published 级金谱,+386 2 250 22 35);info@pec-sistemi.si + tehnox.si 函数口跟团不动**",
+   "contact_pending": "Peter Jezernik 谱位已实位(opt-in 直发律)",
+   "dims": {
+    "业务定位": "PEC SISTEMI, raziskovanje in druge storitve, d.o.o.(Maribor,Hrenova ulica 25, 2000 Maribor;Matična 2259826000;DŠ SI 50364294;**Peter Jezernik = Director(sloexport.si 官方谱面,+386 2 250 22 35)**;8 名员工/年收入 €4,360,749/权益 €887,506/资产 €2,115,284(2022);1996 创(sp→2007 d.o.o.,30 年谱);DIGITUS 全谱面总进口商;品牌:Digitus/Tehnox(自有)/Logilink/MikroTik/Ubiquiti;出口 24%(BiH/Croatia);NACE 46.500 ICT 批发",
+    "产品线与在售品牌": "Digitus(总进口)/Tehnox(自有)/Logilink/MikroTik/Ubiquiti",
+    "目标行业与场景": "斯洛文尼亚 ICT 批发+出口 BiH/Croatia",
+    "团队与规模": "8 人;€4.36M 营收(2022)",
+    "决策链与对接人": "**Peter Jezernik = Direktor/direktor(sloexport.si 斯洛文尼亚商务部官方出口名录自曝,official-self-published 级金谱,+386 2 250 22 35);info@pec-sistemi.si + tehnox.si 函数口跟团不动**",
+    "技术与认证": "DIGITUS 全谱面总进口+Tehnox 自有牌",
+    "采购与供应链信号": "总进口商+出口 BiH/HR",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "小实体;Direktor 直接拿硬件线(Jezernik 本人=天位)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Company management: Director: PETER JEZERNIK, tel.: 00386 22502235",
+     "source": "https://www.sloexport.si/en/company-card?ms=2259826"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "We are the general importer for the entire DIGITUS range;tehnoX is a trademark of PEC Sistemi;30 years of experience;operating successfully since 1996;founded as a s.p., and in 2007 ... founded the Pec d.o.o.",
+     "source": "https://pec-sistemi.si/en/about-us/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Number of employees: 8 · Income: 4.360.749,00 EUR · Exports share: 24% · Target regions: Bosnia and Herzegovina, Croatia · Matična: 2259826000 · TRR: SI56041730001328027",
+     "source": "https://www.sloexport.si/en/company-card?ms=2259826"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "PEC SISTEMI, raziskovanje in druge storitve, d.o.o.(Maribor,Hrenova ulica 25, 2000 Maribor;Matična 2259826000;DŠ SI 50364294;**Peter Jezernik = Director(sloexport.si 官方谱面,+386 2 250 22 35)**;8 名员工/年收入 €4,360,749/权益 €887,506/资产 €2,115,284(2022);1996 创(sp→2007 d.o.o.,30 年谱);DIGITUS 全谱面总进口商;品牌:Digitus/Tehnox(自有)/Logilink/MikroTik/Ubiquiti;出口 24%(BiH/Croatia);NACE 46.500 ICT 批发",
+     "②芯片/型号": "Digitus(总进口)/Tehnox(自有)/Logilink/MikroTik/Ubiquiti",
+     "③KP 深挖": "**Peter Jezernik = Direktor/direktor(sloexport.si 斯洛文尼亚商务部官方出口名录自曝,official-self-published 级金谱,+386 2 250 22 35);info@pec-sistemi.si + tehnox.si 函数口跟团不动**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "30 年谱+DIGITUS 总进口商",
+     "⑥SWOT": "S 30 年谱+DIGITUS 总进口商 / W 小型实体 / O Jezernik 董事直达位 / T 大牌集成"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "30 年谱+DIGITUS 总进口商",
+     "W": "小型实体",
+     "O": "Jezernik 董事直达位",
+     "T": "大牌集成"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "MikroTik 谱面份额",
+    "硬件价值层 Duessen 牌"
+   ],
+   "email": "Hi Peter,\n\nI came across PEC SISTEMI d.o.o.(tehnox.si) while mapping 斯洛文尼亚 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-579",
+   "fact": "EDOX SAS(法国;EDOX SAS(Burnhaupt-le-Haut 68300(Grande Est,靠近 Mulhouse);1993 创;11-50 人;100% 间接分销(只接 revendeur/intégrateur 不接终端)=法国 IT/电信值加分销专家(grossiste spécialisé à valeur ajoutée);2025 年获评法国通信统一市场最佳 grossiste;公司自营 Stammtisch/Stamm ''Tour 行业活动;技术人员定期开展 MikroTik 方案培训(LinkedIn 贴自曝);LinkedIn 1,671 followers)",
+   "inference": "EDOX 2025 最佳 grossiste;Philippe GINOT Associate Founder+David Hugueny MikroTik 技术培训谱面",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://fr.linkedin.com/company/edox-sas",
+   "tech": "2025 法国通信统一市场最佳 grossiste",
+   "hr": "11-50 人;1993 创(33 年)",
+   "contact_found": "**Philippe GINOT = Associate Founder(联合创办人,LinkedIn 公司号贴自署官方金谱)+ David Hugueny(员工.LinkedIn 自曝 Burnhaupt 谱位,曾分享 MikroTik 技术培训贴)+ Olivier Beluche(500+ connections)+ Véronique GOERGER(商务 BD 谱,2025 最佳 grossiste 奖章贴)+ Olivier GIRARD(Graphic Team Leader 15 年)+ Valentin S.(Grands Comptes 招聘谱)+ Nicolas Maeder(在职时团队骨干,2026-01-09 逝世——官方公司号讣告)——实名金谱大丰收**",
+   "contact_pending": "Philippe GINOT/David Hugueny LinkedIn opt-in 面(opt-in 律)",
+   "dims": {
+    "业务定位": "EDOX SAS(Burnhaupt-le-Haut 68300(Grande Est,靠近 Mulhouse);1993 创;11-50 人;100% 间接分销(只接 revendeur/intégrateur 不接终端)=法国 IT/电信值加分销专家(grossiste spécialisé à valeur ajoutée);2025 年获评法国通信统一市场最佳 grossiste;公司自营 Stammtisch/Stamm ''Tour 行业活动;技术人员定期开展 MikroTik 方案培训(LinkedIn 贴自曝);LinkedIn 1,671 followers",
+    "产品线与在售品牌": "Informatique & Telecom 值加分销;MikroTik 方案技术培训定期谱面",
+    "目标行业与场景": "法国 revendeur/intégrateur/sécurité/téléphonie 谱面",
+    "团队与规模": "11-50 人;1993 创(33 年)",
+    "决策链与对接人": "**Philippe GINOT = Associate Founder(联合创办人,LinkedIn 公司号贴自署官方金谱)+ David Hugueny(员工.LinkedIn 自曝 Burnhaupt 谱位,曾分享 MikroTik 技术培训贴)+ Olivier Beluche(500+ connections)+ Véronique GOERGER(商务 BD 谱,2025 最佳 grossiste 奖章贴)+ Olivier GIRARD(Graphic Team Leader 15 年)+ Valentin S.(Grands Comptes 招聘谱)+ Nicolas Maeder(在职时团队骨干,2026-01-09 逝世——官方公司号讣告)——实名金谱大丰收**",
+    "技术与认证": "2025 法国通信统一市场最佳 grossiste",
+    "采购与供应链信号": "100% 间接分销(不接终端)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "GINOT 联合创办人谱位已实;David Hugueny 技术谱线 LinkedIn 自曝=opt-in 天位"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Philippe GINOT Associate Founder EDOX Grossiste spécialisé à valeur ajoutée ... notre famille est dans la peine(Nicolas Maeder 讣告,2026-01-09)",
+     "source": "https://fr.linkedin.com/company/edox-sas"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "David Hugueny - EDOX SAS(Burnhaupt-le-Haut;formation technique sur les solutions Mikrotik 贴2023-01);Olivier Beluche 500+;Olivier GIRARD Team Leader chez EDOX 15 years",
+     "source": "https://www.linkedin.com/in/david-hugueny/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Votre grossiste Spécialisé à valeur ajoutée - Informatique & Telecom;Depuis 1993;distribution 100% indirecte;94% des intégrateurs passent par un grossiste... EDOX partenaire de référence pour 61%;2025 meilleur grossiste en communications unifiées marché français",
+     "source": "https://fr.linkedin.com/company/edox-sas"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "EDOX SAS(Burnhaupt-le-Haut 68300(Grande Est,靠近 Mulhouse);1993 创;11-50 人;100% 间接分销(只接 revendeur/intégrateur 不接终端)=法国 IT/电信值加分销专家(grossiste spécialisé à valeur ajoutée);2025 年获评法国通信统一市场最佳 grossiste;公司自营 Stammtisch/Stamm ''Tour 行业活动;技术人员定期开展 MikroTik 方案培训(LinkedIn 贴自曝);LinkedIn 1,671 followers",
+     "②芯片/型号": "Informatique & Telecom 值加分销;MikroTik 方案技术培训定期谱面",
+     "③KP 深挖": "**Philippe GINOT = Associate Founder(联合创办人,LinkedIn 公司号贴自署官方金谱)+ David Hugueny(员工.LinkedIn 自曝 Burnhaupt 谱位,曾分享 MikroTik 技术培训贴)+ Olivier Beluche(500+ connections)+ Véronique GOERGER(商务 BD 谱,2025 最佳 grossiste 奖章贴)+ Olivier GIRARD(Graphic Team Leader 15 年)+ Valentin S.(Grands Comptes 招聘谱)+ Nicolas Maeder(在职时团队骨干,2026-01-09 逝世——官方公司号讣告)——实名金谱大丰收**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "33 年谱 French telecom VAD+2025 最奖",
+     "⑥SWOT": "S 33 年谱 French telecom VAD+2025 最奖 / W 公司主层谱面 LinkedIn 谱链接 / O David Hugueny MikroTik 技术谱线的价值层 / T 大牌集成"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "33 年谱 French telecom VAD+2025 最奖",
+     "W": "公司主层谱面 LinkedIn 谱链接",
+     "O": "David Hugueny MikroTik 技术谱线的价值层",
+     "T": "大牌集成"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "硬件价值层品牌固有",
+    "MikroTik 谱面采购线主责"
+   ],
+   "email": "Hi Philippe,\n\nI came across EDOX SAS while mapping 法国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-582",
+   "fact": "Vodanet Systems LLC(美国;Vodanet Systems LLC(220 W Parkway Ste 1, Pompton Plains, NJ 07444(ZoomInfo 谱 Moonachie NJ 双口迁移);2013 由 Albert Krakus(计算机工程师)创立;2015 营收破 $10M/搬新泽西办公室;2016 Juniper Networks 战略合作伙伴;2020 入 GSA Advantage/eBuy/FedMall 政府采购面;授权分销 MikroTik+Teltonika;合作客户 NASA/Tesla/Siemens 名义谱;当前授权伙伴 25+ 牌(Juniper/HPE Aruba/Fortinet/Lenovo);$8.7M(ZoomInfo)/41 员工)",
+   "inference": "Vodanet MikroTik 授权分销+政府面;Albert Krakus 创始人+Alper Karakus President+Kayalica CTO+Algöz COO",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.vodanetsystems.com/about-us",
+   "tech": "MikroTik 授权分销+政府采购三通面(GSA Advantage/eBuy/FedMall)",
+   "hr": "41 人;$8.7M 营收",
+   "contact_found": "**Albert Krakus = Founder(官网 About 自署+DnB Key Principal 双源金谱)+ Alper Karakus = President(ZoomInfo+datanyze 三源,@vodanetsystems.com 域通谱,曾任 Candela Network)+ Andy Kayalica = CTO + Cihan Algöz = COO + James Cakmak = Division Director Industrial Automation + Henry Dyson = Director IT + Husnu Tezcan = Warehouse 经理 + Erturk Turan = Accountant + Emre Gullap = Art Director;(973) 262-2605**",
+   "contact_pending": "Alper Karakus President 谱位(opt-in 直发律)",
+   "dims": {
+    "业务定位": "Vodanet Systems LLC(220 W Parkway Ste 1, Pompton Plains, NJ 07444(ZoomInfo 谱 Moonachie NJ 双口迁移);2013 由 Albert Krakus(计算机工程师)创立;2015 营收破 $10M/搬新泽西办公室;2016 Juniper Networks 战略合作伙伴;2020 入 GSA Advantage/eBuy/FedMall 政府采购面;授权分销 MikroTik+Teltonika;合作客户 NASA/Tesla/Siemens 名义谱;当前授权伙伴 25+ 牌(Juniper/HPE Aruba/Fortinet/Lenovo);$8.7M(ZoomInfo)/41 员工",
+    "产品线与在售品牌": "MikroTik+Teltonika 授权分销;Juniper/Aruba/Fortinet/Lenovo 25+ 牌",
+    "目标行业与场景": "美国东北企业/政府采购面(GSA+NASA/Tesla 名义谱)",
+    "团队与规模": "41 人;$8.7M 营收",
+    "决策链与对接人": "**Albert Krakus = Founder(官网 About 自署+DnB Key Principal 双源金谱)+ Alper Karakus = President(ZoomInfo+datanyze 三源,@vodanetsystems.com 域通谱,曾任 Candela Network)+ Andy Kayalica = CTO + Cihan Algöz = COO + James Cakmak = Division Director Industrial Automation + Henry Dyson = Director IT + Husnu Tezcan = Warehouse 经理 + Erturk Turan = Accountant + Emre Gullap = Art Director;(973) 262-2605**",
+    "技术与认证": "MikroTik 授权分销+政府采购三通面(GSA Advantage/eBuy/FedMall)",
+    "采购与供应链信号": "授权分销商+政府面谱",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Karakus President 频直连=opt-in 律;Alper Karakus 与 Albert Krakus 同名近谱(创始人谱位+现任 President=任人实责需信谱而定)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Vodanet Systems was founded by Albert Krakus, a computer engineer;Alper Karakus President;Cihan Algöz COO;Andy Kayalica CTO",
+     "source": "https://www.vodanetsystems.com/about-us"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Alper Karakus works as a President at Vodanet Systems... emails @vodanetsystems.com, @tnetus.com;Andy Kayalica CTO;Cihan Algöz COO;James Cakmak Division Director;Henry Dyson Director IT;Shorouq Barakat Manager Accounting;Husnu Tezcan Manager Warehouse Operations;Erturk Turan Accountant",
+     "source": "https://www.datanyze.com/people/Alper-Karakus/-1994171768"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Vodanet Systems became an authorized distributor for MikroTik and Teltonika;collaborated with NASA, Tesla, and Siemens;2020 joined GSA Advantage, eBuy and FedMall;25+ brands Juniper HPE Aruba Fortinet Lenovo",
+     "source": "https://www.vodanetsystems.com/about-us"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Vodanet Systems LLC(220 W Parkway Ste 1, Pompton Plains, NJ 07444(ZoomInfo 谱 Moonachie NJ 双口迁移);2013 由 Albert Krakus(计算机工程师)创立;2015 营收破 $10M/搬新泽西办公室;2016 Juniper Networks 战略合作伙伴;2020 入 GSA Advantage/eBuy/FedMall 政府采购面;授权分销 MikroTik+Teltonika;合作客户 NASA/Tesla/Siemens 名义谱;当前授权伙伴 25+ 牌(Juniper/HPE Aruba/Fortinet/Lenovo);$8.7M(ZoomInfo)/41 员工",
+     "②芯片/型号": "MikroTik+Teltonika 授权分销;Juniper/Aruba/Fortinet/Lenovo 25+ 牌",
+     "③KP 深挖": "**Albert Krakus = Founder(官网 About 自署+DnB Key Principal 双源金谱)+ Alper Karakus = President(ZoomInfo+datanyze 三源,@vodanetsystems.com 域通谱,曾任 Candela Network)+ Andy Kayalica = CTO + Cihan Algöz = COO + James Cakmak = Division Director Industrial Automation + Henry Dyson = Director IT + Husnu Tezcan = Warehouse 经理 + Erturk Turan = Accountant + Emre Gullap = Art Director;(973) 262-2605**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "NASA/Tesla 名义谱+政府三通面",
+     "⑥SWOT": "S NASA/Tesla 名义谱+政府三通面 / W 创始人谱位与现任谱面需信谱而定 / O 政府采购面的价值层 PoE / T 大牌授权锁谱面"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "NASA/Tesla 名义谱+政府三通面",
+     "W": "创始人谱位与现任谱面需信谱而定",
+     "O": "政府采购面的价值层 PoE",
+     "T": "大牌授权锁谱面"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "创始人与现任董事长谱面实责",
+    "硬件价值层采购线主责"
+   ],
+   "email": "Hi Alper,\n\nI came across Vodanet Systems LLC while mapping 美国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-571",
+   "fact": "Triple core(以色列;Triple Core(库档以色列;**检索排噪:triple-core.com 谱面=耶路撒冷/拉马拉巴勒斯坦公司(Computers&Internet,+972 2-372-2666,Support@triple-core.com,FB 阿拉伯语谱面)——同名双重身份噪声,库档以色列本体未证实**;R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤)",
+   "inference": "A-571 同名拉马拉排噪;R64 停摆维持=用户侧 Apollo/ContactOut/Snov.io 导出件",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.facebook.com/p/Triple-Core-100063478752688/",
+   "tech": "(谱面待补)",
+   "hr": "(谱面待补)",
+   "contact_found": "**库档本体未证实;同名词 Facebook 面=拉马拉谱(排不采信);R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出补撬件(R66 波次点名=需用户侧导出件,R66 KPI 核心补件)**",
+   "contact_pending": "R64 停摆维持:用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回(R66 KPI 核心补件)",
+   "dims": {
+    "业务定位": "Triple Core(库档以色列;**检索排噪:triple-core.com 谱面=耶路撒冷/拉马拉巴勒斯坦公司(Computers&Internet,+972 2-372-2666,Support@triple-core.com,FB 阿拉伯语谱面)——同名双重身份噪声,库档以色列本体未证实**;R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤",
+    "产品线与在售品牌": "(库档以色列本体未证实;排噪=同名拉马拉)",
+    "目标行业与场景": "(谱面待用户侧导出件)",
+    "团队与规模": "(谱面待补)",
+    "决策链与对接人": "**库档本体未证实;同名词 Facebook 面=拉马拉谱(排不采信);R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出补撬件(R66 波次点名=需用户侧导出件,R66 KPI 核心补件)**",
+    "技术与认证": "(谱面待补)",
+    "采购与供应链信号": "(谱面待补)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "同名双重身份噪声;R64 停摆 = 需用户侧 Apollo/ContactOut/Snov.io"
+   },
+   "evidence": [
+    {
+     "dim": "风险与注意",
+     "quote": "Triple Core(Facebook 谱):Jerusalem+Ramallah,+972 2-372-2666,Support@triple-core.com —— 阿拉伯语谱面,同名不作采信(R66 排噪)",
+     "source": "https://www.facebook.com/p/Triple-Core-100063478752688/"
+    },
+    {
+     "dim": "风险与注意",
+     "quote": "2026-10-07 R66 波次:库档本体未证实;R64-A 停摆维持(需用户侧 Apollo/ContactOut/Snov.io 导出)",
+     "source": "https://www.triple-core.com"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "R66 波次点名(A-571:R64 停摆维持=用户侧导出件件)",
+     "source": "https://www.triple-core.com"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Triple Core(库档以色列;**检索排噪:triple-core.com 谱面=耶路撒冷/拉马拉巴勒斯坦公司(Computers&Internet,+972 2-372-2666,Support@triple-core.com,FB 阿拉伯语谱面)——同名双重身份噪声,库档以色列本体未证实**;R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤",
+     "②芯片/型号": "(库档以色列本体未证实;排噪=同名拉马拉)",
+     "③KP 深挖": "**库档本体未证实;同名词 Facebook 面=拉马拉谱(排不采信);R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出补撬件(R66 波次点名=需用户侧导出件,R66 KPI 核心补件)**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "停摆维持=用户侧导出件",
+     "⑥SWOT": "S 停摆维持=用户侧导出件 / W 库档本体未证实 / O 用户侧导出件补撬件 / T 同名噪声"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "停摆维持=用户侧导出件",
+     "W": "库档本体未证实",
+     "O": "用户侧导出件补撬件",
+     "T": "同名噪声"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "库档本体证明",
+    "具名 kp(用户侧导出件)"
+   ],
+   "email": "Hi team,\n\nI came across Triple core while mapping 以色列 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-578",
+   "fact": "TAKOPI GEORGIA(smart-network.ge)(格鲁吉亚;TAKOPI GEORGIA(库档格鲁吉亚,smart-network.ge;**R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤**;R66 波次维持停摆=不新挖,统一谱基线)",
+   "inference": "A-578 R64 停摆维持=用户侧导出件;谱面域名存档",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://smart-network.ge",
+   "tech": "(谱面待补)",
+   "hr": "(谱面待补)",
+   "contact_found": "**R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出 CSV(R66 KPI 核心补件);smart-network.ge 函数口职能口跟团不动**",
+   "contact_pending": "R64 停摆维持(R66 KPI 核心补件=Apollo/ContactOut/Snov.io)",
+   "dims": {
+    "业务定位": "TAKOPI GEORGIA(库档格鲁吉亚,smart-network.ge;**R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤**;R66 波次维持停摆=不新挖,统一谱基线",
+    "产品线与在售品牌": "(谱面待用户侧导出件)",
+    "目标行业与场景": "(谱面待补)",
+    "团队与规模": "(谱面待补)",
+    "决策链与对接人": "**R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出 CSV(R66 KPI 核心补件);smart-network.ge 函数口职能口跟团不动**",
+    "技术与认证": "(谱面待补)",
+    "采购与供应链信号": "(谱面待补)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "R64 停摆维持=用户侧导出件"
+   },
+   "evidence": [
+    {
+     "dim": "近期动态与线索",
+     "quote": "R66 波次点名(A-578:R64 停摆维持=用户侧导出件)",
+     "source": "https://smart-network.ge"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "R66 基线 R64 停摆维持件(2026-10-07,smart-network.ge 谱面域名存档)",
+     "source": "https://smart-network.ge"
+    },
+    {
+     "dim": "风险与注意",
+     "quote": "R64 停摆件(A-571/A-578)谱位维持:不新挖≠删除,R66 KPI 核心补件=用户侧导出件",
+     "source": "https://smart-network.ge"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "TAKOPI GEORGIA(库档格鲁吉亚,smart-network.ge;**R64-A 停摆件(待用户侧 Apollo/ContactOut/Snov.io 导出 CSV 交回)谱位不撤**;R66 波次维持停摆=不新挖,统一谱基线",
+     "②芯片/型号": "(谱面待用户侧导出件)",
+     "③KP 深挖": "**R64 停摆维持:待用户侧 Apollo/ContactOut/Snov.io 导出 CSV(R66 KPI 核心补件);smart-network.ge 函数口职能口跟团不动**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "停摆维持=用户侧导出件",
+     "⑥SWOT": "S 停摆维持=用户侧导出件 / W R64 停摆件 / O 用户侧导出件补撬件 / T 不新挖"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "停摆维持=用户侧导出件",
+     "W": "R64 停摆件",
+     "O": "用户侧导出件补撬件",
+     "T": "不新挖"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "具名 kp(用户侧导出件)",
+    "硬件采购线"
+   ],
+   "email": "Hi team,\n\nI came across TAKOPI GEORGIA(smart-network.ge) while mapping 格鲁吉亚 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-580",
+   "fact": "Piotr Poniatowski(波兰;Piotr Poniatowski(库档波兰;**人名司名同体档=CSV 公司名字段即本人谱位;R66 基线谱位=本班基线统一档**;个体工商结人名档同体)",
+   "inference": "A-580 人名司名同体=本体谱位;R66 基线档谱;个体 CEIDG/KRS 波次二",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.linkedin.com/in/piotrponiatowski",
+   "tech": "(波次二)",
+   "hr": "个体谱面",
+   "contact_found": "**Piotr Poniatowski(CSV 公司名字段即本人谱位;official-self-published 级谱位公开件);R66 波次点名:该谱位 登记册(波兰 CEIDG/KRS 个体档)+LinkedIn 谱面的官方件二点名**",
+   "contact_pending": "CEIDG/KRS 个体档登记+LinkedIn opt-in(R66 波次二点名)",
+   "dims": {
+    "业务定位": "Piotr Poniatowski(库档波兰;**人名司名同体档=CSV 公司名字段即本人谱位;R66 基线谱位=本班基线统一档**;个体工商结人名档同体",
+    "产品线与在售品牌": "(R66 波次二点名:个体 CEIDG/KRS 类目)",
+    "目标行业与场景": "(波次二)",
+    "团队与规模": "个体谱面",
+    "决策链与对接人": "**Piotr Poniatowski(CSV 公司名字段即本人谱位;official-self-published 级谱位公开件);R66 波次点名:该谱位 登记册(波兰 CEIDG/KRS 个体档)+LinkedIn 谱面的官方件二点名**",
+    "技术与认证": "(波次二)",
+    "采购与供应链信号": "(波次二)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "个体谱面;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Piotr Poniatowski — CSV 公司名字段即本人谱位(R66 基线,沙箱精核)",
+     "source": "https://www.linkedin.com/in/piotrponiatowski"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "2026-10-07 R66 基线班(人名司名同体档;波兰库档)",
+     "source": "https://www.linkedin.com/in/piotrponiatowski"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "R66 波次点名(Piotr Poniatowski 谱位封锁;直发具名需 opt-in)",
+     "source": "https://www.linkedin.com/in/piotrponiatowski"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Piotr Poniatowski(库档波兰;**人名司名同体档=CSV 公司名字段即本人谱位;R66 基线谱位=本班基线统一档**;个体工商结人名档同体",
+     "②芯片/型号": "(R66 波次二点名:个体 CEIDG/KRS 类目)",
+     "③KP 深挖": "**Piotr Poniatowski(CSV 公司名字段即本人谱位;official-self-published 级谱位公开件);R66 波次点名:该谱位 登记册(波兰 CEIDG/KRS 个体档)+LinkedIn 谱面的官方件二点名**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "人名档同体直达位",
+     "⑥SWOT": "S 人名档同体直达位 / W 个体谱面 / O 个体档的价值层谱面 / T 个体谱面档期能力低"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "人名档同体直达位",
+     "W": "个体谱面",
+     "O": "个体档的价值层谱面",
+     "T": "个体谱面档期能力低"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "个体联系方式(R66 波次二)",
+    "MikroTik 谱面信号"
+   ],
+   "email": "Hi Piotr,\n\nI came across Piotr Poniatowski while mapping 波兰 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-583",
+   "fact": "Barry Higgins / Allness(英国;Barry Higgins(Allness)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件))",
+   "inference": "A-583 训练/顾问类停止挖掘铁律(R64);本体谱位存档",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.allness.co.uk",
+   "tech": "(守界)",
+   "hr": "个体谱面",
+   "contact_found": "**Barry Higgins(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件);R66 守界:训练/顾问类不新挖;统一基线存档**",
+   "contact_pending": "守界件(R64：用户自发件=回复跟进维护不抵触)",
+   "dims": {
+    "业务定位": "Barry Higgins(Allness)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件)",
+    "产品线与在售品牌": "(守界：训练/顾问类不新挖)",
+    "目标行业与场景": "(守界)",
+    "团队与规模": "个体谱面",
+    "决策链与对接人": "**Barry Higgins(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件);R66 守界:训练/顾问类不新挖;统一基线存档**",
+    "技术与认证": "(守界)",
+    "采购与供应链信号": "(守界)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "训练/顾问类停止挖掘铁律(R64)"
+   },
+   "evidence": [
+    {
+     "dim": "风险与注意",
+     "quote": "Barry Higgins / Allness — 训练/顾问类别(R64 谱),停止挖掘铁律;R66 基线存档(2026-10-07)",
+     "source": "https://www.allness.co.uk"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Barry Higgins — CSV 公司名字段即本人谱位(official-self-published 级)",
+     "source": "https://www.allness.co.uk"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "R66 守界班(A-583:训练/顾问类不新挖;本体谱位存档)",
+     "source": "https://www.allness.co.uk"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Barry Higgins(Allness)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件)",
+     "②芯片/型号": "(守界：训练/顾问类不新挖)",
+     "③KP 深挖": "**Barry Higgins(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件);R66 守界:训练/顾问类不新挖;统一基线存档**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "本体谱位存档",
+     "⑥SWOT": "S 本体谱位存档 / W 守界=不新挖 / O (守界) / T 守界"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "本体谱位存档",
+     "W": "守界=不新挖",
+     "O": "(守界)",
+     "T": "守界"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "(守界：不新挖)"
+   ],
+   "email": "Hi Barry,\n\nI came across Barry Higgins / Allness while mapping 英国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-584",
+   "fact": "Ron Touw / MikroTik Training UK(英国;Ron Touw(MikroTik Training UK)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件))",
+   "inference": "A-584 训练/顾问类停止挖掘铁律(R64);Trainer 本体谱位存档",
+   "hypothesis": "24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.mikrotik-training.co.uk",
+   "tech": "MikroTik 认证 Trainer 谱位公开件",
+   "hr": "个体谱面",
+   "contact_found": "**Ron Touw(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)—— MikroTik 认证 Trainer 谱位公开;R66 守界:训练/顾问类不新挖;统一基线存档**",
+   "contact_pending": "守界件(R64：用户自发件=回复跟进维护不抵触)",
+   "dims": {
+    "业务定位": "Ron Touw(MikroTik Training UK)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件)",
+    "产品线与在售品牌": "(守界：训练/顾问类不新挖;MikroTik 认证 Trainer 谱位公开件)",
+    "目标行业与场景": "(守界)",
+    "团队与规模": "个体谱面",
+    "决策链与对接人": "**Ron Touw(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)—— MikroTik 认证 Trainer 谱位公开;R66 守界:训练/顾问类不新挖;统一基线存档**",
+    "技术与认证": "MikroTik 认证 Trainer 谱位公开件",
+    "采购与供应链信号": "(守界)",
+    "近期动态与线索": "2026-10-07 R66 波次点名",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "训练/顾问类停止挖掘铁律(R64)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Ron Touw / MikroTik Training UK — CSV 公司名字段即本人谱位;MikroTik 认证 Trainer 谱位公开件",
+     "source": "https://www.mikrotik-training.co.uk"
+    },
+    {
+     "dim": "风险与注意",
+     "quote": "训练/顾问类别(R64 谱),停止挖掘铁律;R66 基线存档(2026-10-07)",
+     "source": "https://www.mikrotik-training.co.uk"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "R66 守界班(A-584:训练/顾问类不新挖;本体谱位存档)",
+     "source": "https://www.mikrotik-training.co.uk"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Ron Touw(MikroTik Training UK)(库档英国;**R64-A 谱面:训练/顾问类别=停止挖掘铁律(R64 谱,不新挖)**;R66 统一谱基线=本体谱位存档,回复跟进维护不抵触(用户自发件)",
+     "②芯片/型号": "(守界：训练/顾问类不新挖;MikroTik 认证 Trainer 谱位公开件)",
+     "③KP 深挖": "**Ron Touw(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)—— MikroTik 认证 Trainer 谱位公开;R66 守界:训练/顾问类不新挖;统一基线存档**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "MikroTik Trainer 谱位公开",
+     "⑥SWOT": "S MikroTik Trainer 谱位公开 / W 守界=不新挖 / O (守界) / T 守界"
+    },
+    "care": [
+     "具名 kp 直发需 opt-in 手序"
+    ],
+    "swot": {
+     "S": "MikroTik Trainer 谱位公开",
+     "W": "守界=不新挖",
+     "O": "(守界)",
+     "T": "守界"
+    },
+    "uncertain": {
+     "产品线核实": "R66 波次二补谱",
+     "合作方式": "未知",
+     "缺口证据": "(谱面待说明)"
+    },
+    "gap_proof": "R66 波次一谱面锁定"
+   },
+   "unknowns": [
+    "(守界：不新挖)"
+   ],
+   "email": "Hi Ron,\n\nI came across Ron Touw / MikroTik Training UK while mapping 英国 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

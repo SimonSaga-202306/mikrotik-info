@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Centerprise International（英国）：40 年——自称“UK technology and lifecycle partner”，**40 年公共部门经验（G-Cloud/Tech Services/Digital Outcomes/TePAS 框架）**；CiCloud 主权云、CiContinuity DR、CiLifecycle ITAD（ADISA 8.0）；客群含中央/地方政府、NHS、警务、消防、教育、**国防部（MoD/DE&S）**，另含 Enterprise & Regulated（金融/住房/基建）私营段
-- 【推断】公共框架主干=红线区；私营 Regulated 窄段（金融/住房基建）为唯一合规带
-- 【假设】其 Sovereign 定位+主权云叙事明确——不碰公共框架，明示边界以示专业
+- 【事实】Centerprise International Limited(英国;CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director))
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,32 +138,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：40 年公共生命周期伙伴（红线主干）+私营窄段
-- **②芯片/型号**：未公开
-- **③KP 深挖**：info@
-- **④Saga 对标**：窄段 value PoE
-- **⑤在乎与偏好**：合规文档
+- **①背景再核**：CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director)
+- **②芯片/型号**：公共部门 IT 方案+system building;MikroTik 库档信号
+- **③KP 深挖**：**Rafi Arif Abdul Razzak = Founder & Chairman(1991-01 任命 35 年在位,Crunchbase 谱 Founder/Chairman)+ Jez Nash (Jeremy Shane Nash) = CEO/Director of Sales(2016)+ Rebecca Razzak = Director(1991)+ Samantha Louise Lailey = HR & Support Director(2012)+ Sharon Ann Allen = Finance Director(2012,兼 Secretary)+ Peter Fearn/Andrew John Finney/Michael Geoffrey Keegan = Directors(2017-18)+ Michael Jonathan Elliott = Director(2021)+ Marc Allen Woosnam + John Richard Collyer = 2024 新任 Directors + Jon Atherton = CI Group Director(Crunchbase)+ Duncan Templeton = Director — 12 实名董事全谱金谱**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：35 年在位 Founder+12 董事全谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“over 40 years of public sector experience…G-Cloud, Tech Services, Digital Outcomes, TePAS…Ministry of Defence, DE&S”
-  > “over 40 years of public sector experience…G-Cloud, Tech Services, Digital Outcomes, TePAS…Ministry of Defence, DE&S”
-  > 来源：https://www.centerprise.co.uk/
+- **【决策链与对接人】**Rafi Razzak: Founder and Chairman;Jez Nash(Jeremy Nash): CEO/Director of Sales;Sharon Allen: Finance Director;Samantha Lailey: Human Resources & Support Director;Jon Atherton: CI Group Director;Duncan Templeton: Director
+  > Rafi Razzak: Founder and Chairman;Jez Nash(Jeremy Nash): CEO/Director of Sales;Sharon Allen: Finance Director;Samantha Lailey: Human Resources & Support Director;Jon Atherton: CI Group Director;Duncan Templeton: Director
+  > 来源：https://www.crunchbase.com/organization/centerprise-international
+- **【决策链与对接人】**12 current directors incl. Rafi Arif Abdul Razzak(1991)/Rebecca Razzak(1991)/Samantha Louise Lailey(2012)/Sharon Ann Allen(2012)/Jeremy Shane Nash(2016)/Peter Fearn(2017)/Andrew John Finney(2017)/Michael Geoffrey Keegan(2018)/Michael Jonathan Elliott(2021)/Marc Allen Woosnam(2024)/John Richard Collyer(2024)
+  > 12 current directors incl. Rafi Arif Abdul Razzak(1991)/Rebecca Razzak(1991)/Samantha Louise Lailey(2012)/Sharon Ann Allen(2012)/Jeremy Shane Nash(2016)/Peter Fearn(2017)/Andrew John Finney(2017)/Michael Geoffrey Keegan(2018)/Michael Jonathan Elliott(2021)/Marc Allen Woosnam(2024)/John Richard Collyer(2024)
+  > 来源：https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data
+- **【业务定位】**Centerprise International specialises in public sector services and system building, delivering IT solutions;51-100 employees
+  > Centerprise International specialises in public sector services and system building, delivering IT solutions;51-100 employees
+  > 来源：https://www.crunchbase.com/organization/centerprise-international
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国公共部门全生命周期伙伴（私营窄段并存）
-- **产品线与在售品牌**：主权云/DR/ITAD/终端
-- **目标行业与场景**：公共主干（红线）+私营 Regulated
-- **团队与规模**：中型集团（Ci 系品牌群）
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ADISA 8.0/框架体系
-- **采购与供应链信号**：框架为主
-- **近期动态与线索**：2025-12 新站上新
-- **与我方契合点**：私营窄段 value PoE 补位
-- **风险与注意**：公共框架+国防红线
+- **业务定位**：CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director)
+- **产品线与在售品牌**：公共部门 IT 方案+system building;MikroTik 库档信号
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：51-100 人;1983 谱
+- **决策链与对接人**：**Rafi Arif Abdul Razzak = Founder & Chairman(1991-01 任命 35 年在位,Crunchbase 谱 Founder/Chairman)+ Jez Nash (Jeremy Shane Nash) = CEO/Director of Sales(2016)+ Rebecca Razzak = Director(1991)+ Samantha Louise Lailey = HR & Support Director(2012)+ Sharon Ann Allen = Finance Director(2012,兼 Secretary)+ Peter Fearn/Andrew John Finney/Michael Geoffrey Keegan = Directors(2017-18)+ Michael Jonathan Elliott = Director(2021)+ Marc Allen Woosnam + John Richard Collyer = 2024 新任 Directors + Jon Atherton = CI Group Director(Crunchbase)+ Duncan Templeton = Director — 12 实名董事全谱金谱**
+- **技术与认证**：公共部门 specialist
+- **采购与供应链信号**：公共部门谱面+CI Group 谱
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Rafi Razzak 35 年在位 Founder/Chairman=直达位;公共部门采购节奏菌
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：生命周期
-- **W**：红线
-- **O**：窄段
-- **T**：大牌
+- **S**：35 年在位 Founder+12 董事全谱
+- **W**：公共部门采购节奏菌
+- **O**：Rafi Razzak 直达位
+- **T**：公共部门大牌
 
 ## 触达与风险红线
 
@@ -213,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 窄段规模
-  - [ ] 现供
-  - [ ] 评测窗
+  - [ ] 公共部门谱面交换机采购线
+  - [ ] MikroTik 谱面实份
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +232,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Centerprise team,
+Hi Rafi,
 
-Forty years of public-sector lifecycle work and a sovereign-cloud story speaks for itself - and we will not touch your frameworks or defence engagements, to be explicit.
+I came across Centerprise International Limited while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-For your private-sector regulated customers (finance, housing, infrastructure), we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement. Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: in your private-sector projects, who supplies the PoE access layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

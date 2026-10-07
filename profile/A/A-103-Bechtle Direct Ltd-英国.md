@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Bechtle Direct Ltd（英国）：**CSV 载原注“Bechtle 在本项目的规模排除名单内”**——超大型泛欧 VAR，按既有纪律排除商务计划
-- 【推断】纪律建档：保留在册信息+MX 存活核验，不出信
-- 【假设】若用户调整规模名单再重排
+- 【事实】Bechtle direct Ltd(UK)(英国;Bechtle direct Ltd(英国 HQ:Village Green Methuen Park, Chippenham SN14 0GF;**Bechtle AG(德国 DAX 上市 IT 批发集团)英国子**;1997 创(29 年);4 办(Chippenham/London/Manchester/Northampton);模式=面向企业/个人的互联网邮购电脑与配件直卖(Bechtle 集团 E-commerce 臂)+2023-03 收购 Tangible Benefit(Tim Trotman 固守期过渡);集团 70+ 点/14 国;Year £101m+ turnround CRN 2022 Reseller of the Year 谱面)
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,32 +138,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：规模排除纪律建档
-- **②芯片/型号**：—
-- **③KP 深挖**：sales.uk@ MX 存活
-- **④Saga 对标**：—
-- **⑤在乎与偏好**：—
+- **①背景再核**：Bechtle direct Ltd(英国 HQ:Village Green Methuen Park, Chippenham SN14 0GF;**Bechtle AG(德国 DAX 上市 IT 批发集团)英国子**;1997 创(29 年);4 办(Chippenham/London/Manchester/Northampton);模式=面向企业/个人的互联网邮购电脑与配件直卖(Bechtle 集团 E-commerce 臂)+2023-03 收购 Tangible Benefit(Tim Trotman 固守期过渡);集团 70+ 点/14 国;Year £101m+ turnround CRN 2022 Reseller of the Year 谱面
+- **②芯片/型号**：IT 全谱面邮购(Bechtle 集团 E-commerce 臂);MikroTik 库档信号
+- **③KP 深挖**：**James Napp = Managing Director Bechtle direct UK(bechtle.com 官网自曝,official-self-published 级金谱)+ Konstantin Ebert = Executive VP France/Benelux/UK Bechtle AG(集团层谱)+ Tim Trotman = Tangible Benefit 创始人(固守期过渡)+ Nicholas Barrett + Stuart Wohlman(Tangible Benefit 高管留任)——英国子谱面+集团层双谱面实名金谱**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Bechtle 集团英国 MD 官网金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【风险与注意】**CSV 自注“Bechtle 在本项目的规模排除名单内”——按纪律建档不出信
-  > CSV 自注“Bechtle 在本项目的规模排除名单内”——按纪律建档不出信
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【决策链与对接人】**Bechtle Limited ... James Napp — Managing Director;Founded in: 1997;4 offices(Chippenham, London, Manchester, Northampton)
+  > Bechtle Limited ... James Napp — Managing Director;Founded in: 1997;4 offices(Chippenham, London, Manchester, Northampton)
+  > 来源：https://www.bechtle.com/pt/a-bechtle/a-empresa/filiais/bechtle-direct-UK
+- **【决策链与对接人】**James Napp, Managing Director, Bechtle direct UK:"I am excited to work with ... Tangible Benefit";says Konstantin Ebert, Executive Vice President for France, Benelux and the UK, Bechtle AG
+  > James Napp, Managing Director, Bechtle direct UK:"I am excited to work with ... Tangible Benefit";says Konstantin Ebert, Executive Vice President for France, Benelux and the UK, Bechtle AG
+  > 来源：https://www.tangiblebenefit.com/bechtle-acquisition-bechtle-on-track-to-become-one-of-the-top-10-it-solutions-providers-in-the-uk/
+- **【业务定位】**Bechtle direct Ltd operates as a mail order company, sells computers and accessories via the internet to business and individual consumers in the UK and western Europe
+  > Bechtle direct Ltd operates as a mail order company, sells computers and accessories via the internet to business and individual consumers in the UK and western Europe
+  > 来源：https://www.bloomberg.com/profile/company/1749840Z:LN
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：超大型 VAR（纪律排除）
-- **产品线与在售品牌**：全谱
-- **目标行业与场景**：全谱
-- **团队与规模**：集团级
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：常态
-- **与我方契合点**：—
-- **风险与注意**：规模排除纪律
+- **业务定位**：Bechtle direct Ltd(英国 HQ:Village Green Methuen Park, Chippenham SN14 0GF;**Bechtle AG(德国 DAX 上市 IT 批发集团)英国子**;1997 创(29 年);4 办(Chippenham/London/Manchester/Northampton);模式=面向企业/个人的互联网邮购电脑与配件直卖(Bechtle 集团 E-commerce 臂)+2023-03 收购 Tangible Benefit(Tim Trotman 固守期过渡);集团 70+ 点/14 国;Year £101m+ turnround CRN 2022 Reseller of the Year 谱面
+- **产品线与在售品牌**：IT 全谱面邮购(Bechtle 集团 E-commerce 臂);MikroTik 库档信号
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：Bechtle 集团 70+ 点/14 国;英国 4 办/£101m+
+- **决策链与对接人**：**James Napp = Managing Director Bechtle direct UK(bechtle.com 官网自曝,official-self-published 级金谱)+ Konstantin Ebert = Executive VP France/Benelux/UK Bechtle AG(集团层谱)+ Tim Trotman = Tangible Benefit 创始人(固守期过渡)+ Nicholas Barrett + Stuart Wohlman(Tangible Benefit 高管留任)——英国子谱面+集团层双谱面实名金谱**
+- **技术与认证**：Bechtle AG 集团谱/CRN 2022 Reseller of the Year
+- **采购与供应链信号**：集团供应链巨型谱面
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：集团谱面大/MikroTik 在 Bechtle 谱面占比低;James Napp MD=opt-in 但集团层难直达
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：—
-- **O**：—
-- **T**：—
+- **S**：Bechtle 集团英国 MD 官网金谱
+- **W**：集团大层级难直达
+- **O**：value PoE 邮购谱面片
+- **T**：集团大牌谱面
 
 ## 触达与风险红线
 
@@ -213,7 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 纪律口径变化
+  - [ ] 英国子层采购线主责(谱面大层级)
+  - [ ] MikroTik 谱面实份
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,7 +232,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——规模排除纪律。动作：仅建档与 MX 核验。）
+Hi James,
+
+I came across Bechtle direct Ltd(UK) while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
+
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

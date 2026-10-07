@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Cisilion Ltd（英国）：大型企业 IT 集成商（“Beyond Expectations”）；CSV 载 info@/marketing@；**CSV 内有警告字条被截断（“⚠️ **环”），内容无法核辑**
-- 【推断】集成级规模客群；正常 VAR 对白
-- 【假设】待用户确认该 CSV 截断警告是否涉及规模排除纪律
+- 【事实】Cisilion Ltd(英国;Cisilion Ltd(萨里 Leatherhead,CISILION HOUSE, Guildford Road, KT22 9UT;2000 由 Roger Paul 创立;185 员工(2026-08);$26.1M 营收(RocketReach);谱面=IT 网络/安全/云/数据中心服务(Cisco/Microsoft/Dell 合作谱),Next-gen IT infrastructure;五年目标 £100M turnover(Nick Paul 2025-02 说话))
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,32 +138,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：大型集成；CSV 截断警告
-- **②芯片/型号**：未公开
-- **③KP 深挖**：两箱均适用
-- **④Saga 对标**：wait
-- **⑤在乎与偏好**：—
+- **①背景再核**：Cisilion Ltd(萨里 Leatherhead,CISILION HOUSE, Guildford Road, KT22 9UT;2000 由 Roger Paul 创立;185 员工(2026-08);$26.1M 营收(RocketReach);谱面=IT 网络/安全/云/数据中心服务(Cisco/Microsoft/Dell 合作谱),Next-gen IT infrastructure;五年目标 £100M turnover(Nick Paul 2025-02 说话)
+- **②芯片/型号**：IT 网络/安全/云/Datacenter 服务;Cisco/Microsoft/Dell 谱面;MikroTik 库档信号
+- **③KP 深挖**：**Roger Paul = Founder/Owner & Chairman(2000 创立,Crunchbase+Tracxn 双源金谱)+ Nick Paul(Nicholas Paul) = CEO(RocketReach/Tracxn/Owler 三源,+44 7843 27XXXX/+44 20 7220 XXXX 谱位)+ Nicola Jane Orford = CEO(Tracxn 谱双 CEO 面,波次二点名)+ Rob Quickenden = CTO(Crunchbase)+ Paul Johnson = Account Director — 家族式 CEO 谱面+CTO 谱面实名金谱**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Founder+CEO+CTO 家族谱面金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【风险与注意】**CSV：入口/联系方式列尾标“⚠️ **环”（截断）——内容无法核辑
-  > CSV：入口/联系方式列尾标“⚠️ **环”（截断）——内容无法核辑
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【决策链与对接人】**Roger Paul: Founder;Nicola Jane Orford: CEO;Nicholas Paul: CEO(Tracxn 2026-09 谱面)
+  > Roger Paul: Founder;Nicola Jane Orford: CEO;Nicholas Paul: CEO(Tracxn 2026-09 谱面)
+  > 来源：https://tracxn.com/d/companies/cisilion/__zLNxi1SOPObkXy_ubzhmfoICMSFYdVG7ty6Cd9-8kv4
+- **【决策链与对接人】**Roger Paul: Owner and Chairman;Rob Quickenden: Chief Technology Officer;Paul Johnson: Account Director;Cisilion founded 2000;Nick Paul is the CEO(acc. RocketReach 2026)
+  > Roger Paul: Owner and Chairman;Rob Quickenden: Chief Technology Officer;Paul Johnson: Account Director;Cisilion founded 2000;Nick Paul is the CEO(acc. RocketReach 2026)
+  > 来源：https://www.crunchbase.com/organization/cisilion
+- **【业务定位】**185 employees(2026-08);$26.1M revenue;Registered CISILION HOUSE, GUILDFORD ROAD, LEATHERHEAD, SURREY, KT22 9UT;Cisco/Microsoft/Dell 合作谱;next 2 years £100M turnover 目标(Nick Paul 2025-02)
+  > 185 employees(2026-08);$26.1M revenue;Registered CISILION HOUSE, GUILDFORD ROAD, LEATHERHEAD, SURREY, KT22 9UT;Cisco/Microsoft/Dell 合作谱;next 2 years £100M turnover 目标(Nick Paul 2025-02)
+  > 来源：https://tracxn.com/d/companies/cisilion/__zLNxi1SOPObkXy_ubzhmfoICMSFYdVG7ty6Cd9-8kv4
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国大型企业 IT 集成商
-- **产品线与在售品牌**：大厂生态组合
-- **目标行业与场景**：企业/公共混
-- **团队与规模**：大型
-- **决策链与对接人**：marketing@/info@
-- **技术与认证**：大厂认证
-- **采购与供应链信号**：项目
-- **近期动态与线索**：站常态运营
-- **与我方契合点**：value 档补位
-- **风险与注意**：⚠️ CSV 警告截断待核→排期冻结
+- **业务定位**：Cisilion Ltd(萨里 Leatherhead,CISILION HOUSE, Guildford Road, KT22 9UT;2000 由 Roger Paul 创立;185 员工(2026-08);$26.1M 营收(RocketReach);谱面=IT 网络/安全/云/数据中心服务(Cisco/Microsoft/Dell 合作谱),Next-gen IT infrastructure;五年目标 £100M turnover(Nick Paul 2025-02 说话)
+- **产品线与在售品牌**：IT 网络/安全/云/Datacenter 服务;Cisco/Microsoft/Dell 谱面;MikroTik 库档信号
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：185 人;$26.1M
+- **决策链与对接人**：**Roger Paul = Founder/Owner & Chairman(2000 创立,Crunchbase+Tracxn 双源金谱)+ Nick Paul(Nicholas Paul) = CEO(RocketReach/Tracxn/Owler 三源,+44 7843 27XXXX/+44 20 7220 XXXX 谱位)+ Nicola Jane Orford = CEO(Tracxn 谱双 CEO 面,波次二点名)+ Rob Quickenden = CTO(Crunchbase)+ Paul Johnson = Account Director — 家族式 CEO 谱面+CTO 谱面实名金谱**
+- **技术与认证**：Cisco/Microsoft/Dell 巨头合作谱
+- **采购与供应链信号**：集成谱面(大企业客户)
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：家族 Paul 谱面/CEO+CTO 实名金谱;MikroTik 谱面份额未定证
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：截断
-- **O**：—
-- **T**：—
+- **S**：Founder+CEO+CTO 家族谱面金谱
+- **W**：185 人集成谱面硬谱面占比低
+- **O**：£100M 目标期的价值层谱
+- **T**：Cisco/Microsoft 大牌锁谱
 
 ## 触达与风险红线
 
@@ -213,8 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] CSV 警告全文
-  - [ ] 规模口径
+  - [ ] MikroTik 谱面实份
+  - [ ] 硬件采购线 Account Director 链
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,7 +232,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——CSV 内警告字条截断待核。动作：请用户在空档时核对 A-105 原表该处警告全文；确认非规模排除后即刻排期入列。）
+Hi Nick,
+
+I came across Cisilion Ltd while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
+
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

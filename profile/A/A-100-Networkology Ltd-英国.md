@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Networkology Ltd（英国）：技术专家 IT 服务商——“Engineering Excellence”，服务**国防/政府/公共部门**（架构/工程/部署高监管环境）+私营双轨；伙伴：Juniper/**Cisco**/Extreme/Splunk/Cribl/Riverbed/Palo Alto/Dynatrace/Allegro Packets/**Allied Telesis（+SergeantClip！）**；客户墙 Fujitsu/**National Archives/DWP（公共红线）**；框架：**G-Cloud、DoS 等**；ISO 27001/9001/14001+Cyber Essentials Plus；NETVETS 退役军人招聘项目（社区向
-- 【推断】公共部门是其主干（红线）——其 Allied/SergeantClip 侧像“私营项目里的交换机与安全图钉类小件”供应；NETVETS=值得尊重的社区名片（不做商务工具）
-- 【假设】私营段与（管线）铺料类 margin 业务是合规入口；公共/国防框架明确不触
+- 【事实】NETWORKOLOGY LTD(英国;NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas)
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,38 +138,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：高监管 IT 服务商（公共主干）+私营双轨；NETVETS 社区向
-- **②芯片/型号**：Allied Telesis 在册
-- **③KP 深挖**：contact@ 唯一口（tenders@ 不动）
-- **④Saga 对标**：私营段 value PoE
-- **⑤在乎与偏好**：ISO 文档严
+- **①背景再核**：NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas
+- **②芯片/型号**：Cyber/IP 网络建筑(Defence 方向);ADS Group 会员
+- **③KP 深挖**：**James Douglas Morgan = Director(2018-04 任命,ADS Group 官网姓谱 James Morgan)** + David John Owen = Director(2018,DnB Key Principal 双源)+ Stefan Nicholas Wallington = Director(2019)+ Stuart Andrew Monteith = Director(2024-10)+ Robert Kevin Jelley = Director(2024-10);5 实名董事/全员 40-50 代;Companies House 免费军官名单(official-self-published 级金谱);Defence 网络咨询谱面**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Defence 网络咨询5董事+ISO27001
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“providing professional services to defence, government and other public sector clients…architecting, engineering and deploying IT solutions within highly regulated environments”
-  > “providing professional services to defence, government and other public sector clients…architecting, engineering and deploying IT solutions within highly regulated environments”
-  > 来源：https://networkology.com/aboutus/
-- **【风险与注意】**Frameworks & DPS：G-Cloud, DoS 等；客户墙含 National Archives/DWP（公共红线）
-  > Frameworks & DPS：G-Cloud, DoS 等；客户墙含 National Archives/DWP（公共红线）
-  > 来源：https://networkology.com/services/
-- **【联系方式】**contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > contact@networkology.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://networkology.com/
+- **【决策链与对接人】**JELLEY, Robert Kevin / MONTEITH, Stuart Andrew / MORGAN, James Douglas / OWEN, David John / WALLINGTON, Stefan Nicholas —— 五员 Active Director(2013-2024 任命链)
+  > JELLEY, Robert Kevin / MONTEITH, Stuart Andrew / MORGAN, James Douglas / OWEN, David John / WALLINGTON, Stefan Nicholas —— 五员 Active Director(2013-2024 任命链)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/08680414/officers
+- **【决策链与对接人】**ADS Group member: James Morgan —— Director(官网联系人页谱);ISO27001:2022/Cyber Essentials/Cyber Essentials PLUS
+  > ADS Group member: James Morgan —— Director(官网联系人页谱);ISO27001:2022/Cyber Essentials/Cyber Essentials PLUS
+  > 来源：https://www.adsgroup.org.uk/members/networkology-ltd-1/
+- **【业务定位】**NETWORKOLOGY LTD · 08680414 · HARTHAM PARK CORSHAM SN13 0RP → Unit 11 Forest Gate Chippenham SN15 3RS(2025-04 迁址);Defence/government/public-sector 网络+安全建筑咨询
+  > NETWORKOLOGY LTD · 08680414 · HARTHAM PARK CORSHAM SN13 0RP → Unit 11 Forest Gate Chippenham SN15 3RS(2025-04 迁址);Defence/government/public-sector 网络+安全建筑咨询
+  > 来源：https://open.endole.co.uk/insight/company/08680414-networkology-ltd
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国高监管 IT 专家服务商（公共主干+私营双轨）
-- **产品线与在售品牌**：Juniper/Cisco/Extreme/Splunk/Allied Telesis 等
-- **目标行业与场景**：国防/政府/公共（红线）+私营
-- **团队与规模**：专家型中型
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：ISO 27001/9001/14001+CE Plus
-- **采购与供应链信号**：框架+项目混合
-- **近期动态与线索**：G-Cloud/DoS 在册；NETVETS 在营
-- **与我方契合点**：私营项目 value PoE 补位（Allied 旁）
-- **风险与注意**：公共红线
+- **业务定位**：NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas
+- **产品线与在售品牌**：Cyber/IP 网络建筑(Defence 方向);ADS Group 会员
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：5 董事小实体;2013 创
+- **决策链与对接人**：**James Douglas Morgan = Director(2018-04 任命,ADS Group 官网姓谱 James Morgan)** + David John Owen = Director(2018,DnB Key Principal 双源)+ Stefan Nicholas Wallington = Director(2019)+ Stuart Andrew Monteith = Director(2024-10)+ Robert Kevin Jelley = Director(2024-10);5 实名董事/全员 40-50 代;Companies House 免费军官名单(official-self-published 级金谱);Defence 网络咨询谱面**
+- **技术与认证**：ISO27001:2022;Cyber Essentials PLUS
+- **采购与供应链信号**：咨询谱面(Defence/Gov)
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：咨询实体不接硬谱面;James Morgan ADS 姓谱=opt-in 天位
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：信誉
-- **W**：红线
-- **O**：私营轨
-- **T**：大牌
+- **S**：Defence 网络咨询5董事+ISO27001
+- **W**：咨询实体硬谱面受体受限
+- **O**：工业/Defence 受限场谱的价值层
+- **T**：大牌集成商锁谱
 
 ## 触达与风险红线
 
@@ -219,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 私营段规模
-  - [ ] 交换现供
-  - [ ] 评测窗
+  - [ ] Defence 方向交换机采用件(受限谱)
+  - [ ] MikroTik 库档信号来源
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -233,18 +232,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Networkology team,
+Hi James,
 
-"Engineering Excellence" for highly regulated environments is a reputation you protect every day - respected.
+I came across NETWORKOLOGY LTD while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-To be explicit upfront: this note does not touch your defence, government or framework engagements in any way. For your private-sector projects, we build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) as a value complement next to your switching partners. Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: in your private-sector builds, who supplies the PoE access layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

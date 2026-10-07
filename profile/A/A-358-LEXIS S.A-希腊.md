@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LEXIS S.A.(希腊;R66 基线补足档·公司面全貌待补;函数口职能口 lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas(lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】LEXIS Πληροφορική Α.Ε.(Athens Gerakas,401 Kleisthenous str., 15344 Gerakas + 32 Mavromichali str., 54248 Thessaloniki;1986 创(40 年！);11-50 名员工;谱型=Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI 视频守护的全谱解决方案经销+服务;ISO 9001:2008 认证;40 年「Uninterruptible Power, Uninterruptible Business」定位;LinkedIn 1,029 followers;TRIPPLITE 谱强
+- 【推断】四十年的电信谱+网络安全谱+UPS 谱=希腊谱的大经典分销商;MikroTik 谱与 UPS 谱双主定位;40 年谱稳但硬件谱未官列
+- 【假设】40 年谱的「Uninterruptible」可靠定位⇒ 备用层 Proxy PoE 件的谱链窗口(交换机+监控谱),长谱谱链强
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,10 +84,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 具名 KPI 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -108,38 +108,40 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas(lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas)跟团不动
-- **②芯片/型号**：(待问;lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas(lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **①背景再核**：希腊雅典 40 年电信谱+网络安全+UPS+AI 守护的四大谱谱分销商,ISO 9001:2008 认证
+- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
+- **③KP 深挖**：**Lilly Filopoulou(Business Development Manager);Miltos Drikos(technical manager);Pavlos Filopoulos(Sales Engineer & Tech Support);Grigoris Chatzikakis(Store Manager)——contactout 谱/实名金谱及格**
 - **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **⑤在乎与偏好**：企业/公营/数据的信线谱,mikroTik 谱分销
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**LEXIS S.A. — lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > LEXIS S.A. — lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.lexis.gr
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.lexis.gr
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.lexis.gr
+- **【决策链与对接人】**Lilly Filopoulou Business Development Manager · Miltos Drikos technical manager · Grigoris Chatzikakis Store Manager · Pavlos Filopoulos Sales Engineer & Technical Support
+  > Lilly Filopoulou Business Development Manager · Miltos Drikos technical manager · Grigoris Chatzikakis Store Manager · Pavlos Filopoulos Sales Engineer & Technical Support
+  > 来源：https://contactout.com/company/LEXIS-SA-95442
+- **【业务定位】**40 years of reliability & innovation · Since 1986 LEXIS distributes state-of-the-art Integrated Telecommunication Networks & Power Systems · ISO 9001:2008 certified
+  > 40 years of reliability & innovation · Since 1986 LEXIS distributes state-of-the-art Integrated Telecommunication Networks & Power Systems · ISO 9001:2008 certified
+  > 来源：https://gr.linkedin.com/company/lexis-sa
+- **【技术与认证】**Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI Surveillance;TRIPPLITE;Head Office: 401 Kleisthenous str., 15344 Gerakas;Branch: 32 Mavromichali str., 54248 Thessaloniki
+  > Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI Surveillance;TRIPPLITE;Head Office: 401 Kleisthenous str., 15344 Gerakas;Branch: 32 Mavromichali str., 54248 Thessaloniki
+  > 来源：https://www.lexis.gr/en/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas(lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas)跟团不动
-- **产品线与在售品牌**：(待问;lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas(lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：希腊雅典 40 年电信谱+网络安全+UPS+AI 守护的四大谱谱分销商,ISO 9001:2008 认证
+- **产品线与在售品牌**：Cyber Security/VPN/Networking/VoIP/UPS/AI surveillance;TRIPPLITE 谱强
+- **目标行业与场景**：企业/公营/数据的信线谱,mikroTik 谱分销
+- **团队与规模**：11-50 人;1986 创(40 年);两办
+- **决策链与对接人**：**Lilly Filopoulou(Business Development Manager);Miltos Drikos(technical manager);Pavlos Filopoulos(Sales Engineer & Tech Support);Grigoris Chatzikakis(Store Manager)——contactout 谱/实名金谱及格**
+- **技术与认证**：ISO 9001:2008;TRIPPLITE 谱强;MikroTik 谱
+- **采购与供应链信号**：40 年谱的谱面长谱链(谱面名作谱)》谱面供应链结构补谱
+- **近期动态与线索**：ISO 9001:2008 认证盒;「Uninterruptible Power, Uninterruptible Business」口号 2024-11 仍谱
+- **与我方契合点**：「Uninterruptible」可靠定位的谱链窗口→ 24 口 value PoE(监控谱)
+- **风险与注意**：谱面已补 TRIPPLITE/UPS 谱;Pavlos/Lilly 直发谱链链明智面
+- **_swotstrt**：S 40 年谱基/ISO 9001 认证 / W 谱面大牌谱(TRIPPLITE)/ O 备用层成本谱替换件 / T 大牌集成
+- **_sw**：['40 年谱基/ISO 9001 认证', '谱面大牌谱(TRIPPLITE)', '备用层成本谱替换件', '大牌集成']
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：40 年谱基/ISO 9001 认证
+- **W**：谱面大牌谱(TRIPPLITE)
+- **O**：备用层成本谱替换件
+- **T**：大牌集成
 
 ## 触达与风险红线
 
@@ -185,9 +187,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] MikroTik 谱份额
+  - [ ] 当前 24 口 PoE 执行品牌
+  - [ ] 具名 KP 直连邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,13 +201,13 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Hi Lilly,
 
-I came across LEXIS S.A. while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+Forty years of "Uninterruptible Power, Uninterruptible Business" at LEXIS — Athens, Thessaloniki, ISO 9001, and the Tripplite UPS line walking hand-in-hand with your networking portfolio. That combination screams one thing: every site you design needs a bulletproof switching layer that stays happily in stock.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit for the surveillance/cyber-security deployments your team designs.
 
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+As Business Development Manager at LEXIS, would you be the right person to carry a one-page spec to your technical desk?
 
 Best regards,
 Saga Networks Export Desk

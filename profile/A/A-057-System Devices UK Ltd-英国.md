@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】System Devices UK Ltd（1983 创立）：UK/爱尔兰工控自动化分销——独家英国总代 Opto 22、Epson Robots、Asyril 柔性上料、Mecademic 精密机器人+Weintek HMI；ISO 9001:2015；行业覆盖含废水/农业/运输/制药/汽车/油气/制造；客户口碑（Harwin/油气/制药代表）突出
-- 【推断】CSV 信号 Antaira=其工业以太网线；自动化机柜生态（Opto22 groov/Epson 机械臂）的网络接入层=PoE 供视觉/传感尾头的配位
-- 【假设】其“独家总代”喜好=喜欢做差异化代理；温宽 PoE 作为其独家位候选有戏
+- 【事实】System Devices UK Ltd(英国;System Devices UK Ltd(英国 Manor Park/Runcorn(LinkedIn 口径);1983 创(43 年!);2005 管理层收购(MBO)后由 System Devices Ltd 转为 UK Ltd;**Opto 22 英国唯一授权经销商**(OptoCertified Trainer);工业自动化/控制/机器人谱面,近年扩 Mecademic 高精度工业机器人谱;能源监测谱面)
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,35 +137,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1983 独代分销四件（Opto22/Epson/Asyril/Mecademic）；Antaira 线在册
-- **②芯片/型号**：Antaira 工业以太网
-- **③KP 深挖**：info@ 口；电话并行
-- **④Saga 对标**：温宽 PoE 独代候选（避对标）
-- **⑤在乎与偏好**：独代差异化+ISO 文档
+- **①背景再核**：System Devices UK Ltd(英国 Manor Park/Runcorn(LinkedIn 口径);1983 创(43 年!);2005 管理层收购(MBO)后由 System Devices Ltd 转为 UK Ltd;**Opto 22 英国唯一授权经销商**(OptoCertified Trainer);工业自动化/控制/机器人谱面,近年扩 Mecademic 高精度工业机器人谱;能源监测谱面
+- **②芯片/型号**：Opto 22 全谱(英国独家)+Mecademic 机器人;工业自动化/能源监测
+- **③KP 深挖**：**Martin Stewart = Owner(领英自署 Owner,原 IT Manager 2000-2005,Crewe & Alsager College;2005 MBO 班底)+ Ian Rennell = Director(2012 至今,原财务总监 2005-2010+公司秘书 2010-2012,Royal Naval Reserves 退役;RocketReach 谱)——LinkedIn/RocketReach 双谱实名金谱;43 年 Opto 22 独家谱面**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：43 年 Opto 22 英国独家+MBO 完班
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“exclusive UK distributors of Opto 22, Epson Robotics, Asyril, Mecademic…ISO 9001:2015…Ahead of the Technology Curve since 1983”
-  > “exclusive UK distributors of Opto 22, Epson Robotics, Asyril, Mecademic…ISO 9001:2015…Ahead of the Technology Curve since 1983”
-  > 来源：https://systemdevices.co.uk/
-- **【联系方式】**info@systemdevices.co.uk +44 1928 571 977；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@systemdevices.co.uk +44 1928 571 977；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://systemdevices.co.uk/
+- **【决策链与对接人】**Martin Stewart — Owner, System Devices UK Ltd(LinkedIn;Experience: Owner;IT Manager May 2000 - Aug 2005;Computer Programmer British Airways 1990-1994)
+  > Martin Stewart — Owner, System Devices UK Ltd(LinkedIn;Experience: Owner;IT Manager May 2000 - Aug 2005;Computer Programmer British Airways 1990-1994)
+  > 来源：https://www.linkedin.com/in/martin-stewart-b3a9616/
+- **【决策链与对接人】**Ian Rennell — Director @ System Devices UK Ltd 2012 - now;Company Secretary 2010-2012;Financial Director 2005-2010;Royal Naval Reserves (Retired)
+  > Ian Rennell — Director @ System Devices UK Ltd 2012 - now;Company Secretary 2010-2012;Financial Director 2005-2010;Royal Naval Reserves (Retired)
+  > 来源：https://rocketreach.co/ian-rennell-email_37924345
+- **【业务定位】**Founded in 1983 ... System Devices Ltd became System Devices UK Ltd following a management buyout in 2005 ... UK only authorised OPTO 22 distributor ... Mecademic partnership
+  > Founded in 1983 ... System Devices Ltd became System Devices UK Ltd following a management buyout in 2005 ... UK only authorised OPTO 22 distributor ... Mecademic partnership
+  > 来源：https://systemdevices.co.uk/our-story/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：UK 工控自动化独代分销（1983）：Opto22/Epson/Asyril/Mecademic
-- **产品线与在售品牌**：独代四件+Weintek+Antaira（CSV）
-- **目标行业与场景**：制造/制药/农业/汽车（废水占比公共）
-- **团队与规模**：中型独代分销
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ISO 9001:2015
-- **采购与供应链信号**：独代制采购入库
-- **近期动态与线索**：2024-25 换 Logo 墙+新增 Opto22/Mecademic 独代
-- **与我方契合点**：Antaira 旁温宽 PoE 独代候选
-- **风险与注意**：公共段（废水/交通）守边界
+- **业务定位**：System Devices UK Ltd(英国 Manor Park/Runcorn(LinkedIn 口径);1983 创(43 年!);2005 管理层收购(MBO)后由 System Devices Ltd 转为 UK Ltd;**Opto 22 英国唯一授权经销商**(OptoCertified Trainer);工业自动化/控制/机器人谱面,近年扩 Mecademic 高精度工业机器人谱;能源监测谱面
+- **产品线与在售品牌**：Opto 22 全谱(英国独家)+Mecademic 机器人;工业自动化/能源监测
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：1-10 人(Lusha 口径);43 年谱
+- **决策链与对接人**：**Martin Stewart = Owner(领英自署 Owner,原 IT Manager 2000-2005,Crewe & Alsager College;2005 MBO 班底)+ Ian Rennell = Director(2012 至今,原财务总监 2005-2010+公司秘书 2010-2012,Royal Naval Reserves 退役;RocketReach 谱)——LinkedIn/RocketReach 双谱实名金谱;43 年 Opto 22 独家谱面**
+- **技术与认证**：Opto 22 独家授权+OptoCertified Trainer
+- **采购与供应链信号**：Opto 22 英国独家经销口
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：MBO 完班/Martin Stewart 直拿硬件线(43 年谱)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -180,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：独代偏好
-- **W**：非主流
-- **O**：柜配位
-- **T**：在位盘
+- **S**：43 年 Opto 22 英国独家+MBO 完班
+- **W**：小实体 1-10 人
+- **O**：工业谱面的现场交换件
+- **T**：大牌(Octo 22 独家)
 
 ## 触达与风险红线
 
@@ -211,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Antaira 盘规模
-  - [ ] 独代可行性
-  - [ ] 柜内现供
+  - [ ] MikroTik 谱面信号来源(库档信号)
+  - [ ] 自动化工序谱面交换机需求
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,18 +227,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi System Devices team,
+Hi Martin,
 
-Exclusive distribution done right since 1983 - Opto 22, Epson, Asyril, Mecademic, and ISO 9001 behind it.
+I came across System Devices UK Ltd while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build industrial managed PoE switches rated -40 to 75C, aimed as an exclusive-candidate industrial Ethernet line next to your current connectivity portfolio. Reference: $74.8 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: within your automation cabinets, who supplies the Ethernet switching layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -44,6 +44,13 @@ updated: 2026-10-06
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】CY-WIRELESS(ART2SOFT LTD)(塞浦路斯;ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244)
+- 【推断】20 年谱面 MikroTik 高端件实卖;公司主公开件=注册处波次二
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
 （待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Reseller））
@@ -77,25 +84,62 @@ updated: 2026-10-06
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次 · 首触（P1 单型号 + 一个问题）
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STC-424XGGPM-280W（24口 PoE + 4×10G）
-- **要问的问题**：Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-- **成功标准**：对方回复任一实质信息（现用品牌/端口数/上门频次）或同意收样机
-- **失败退出**：14 天无回复 → 进入季度低频；退信 → 标记通道失效换 KP
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次 · 价值换信息
+### 第 2 次跟进 · 一页目录卡
 
-- **动作**：补一份 1 页特性摘要（L2+ 特性表），再问一个递进问题
-- **成功标准**：给出场景细节或引荐技术对接人
-- **失败退出**：再无回复 → 降为季度触达
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次 · 收束
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **动作**：明确提议 30 天评估样机或确认无需求后归档
-- **成功标准**：样机单/报价请求
-- **退出**：书面无兴趣或三次均无实质回应 → **停止主动开发**（停止条件见红线节）
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
+
+## R55 再发掘要点（深挖 · 全文见原始 JSON）
+
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第4波.json`；价格均为 EXW 快照。
+
+- **①背景再核**：ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244
+- **②芯片/型号**：MikroTik(RDS2216/XQ+DA 高端件);Ubiquiti;IP PBX/SIP/UPS 谱面
+- **③KP 深挖**：**公司主(KP 实名)=塞浦路斯注册处 ELECTRONIC 公开件段(R66 波次二点名);现位:CY-WIRELESS 函数口+官方店址/电话实位**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：20 年 WISP 谱面+MikroTik 高端件实卖
+
+### R55 证据摘录（全部保留 · 含数量）
+
+- **【业务定位】**ART2SOFT was founded in 2006 ... distribute Ubiquiti ... 2009 routing and switching ... 2012 VoIP products including IP PBX systems, SIP phones, Gateways ... cabling products, UPS products
+  > ART2SOFT was founded in 2006 ... distribute Ubiquiti ... 2009 routing and switching ... 2012 VoIP products including IP PBX systems, SIP phones, Gateways ... cabling products, UPS products
+  > 来源：https://prod.cy-wireless.com/
+- **【业务定位】**CY-WIRELESS · Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia, Cyprus · Telephone +35722814244
+  > CY-WIRELESS · Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia, Cyprus · Telephone +35722814244
+  > 来源：https://prod.cy-wireless.com/index.php?route=information/contact
+- **【技术与认证】**MikroTik RDS2216-2XG-4S+4XS-2XQ RouterOS enterprise Data Server · MikroTik {XQ+DA003} QSFP28 100G Direct Attach Cable —— 自营店直卖 MikroTik 企业级高速谱
+  > MikroTik RDS2216-2XG-4S+4XS-2XQ RouterOS enterprise Data Server · MikroTik {XQ+DA003} QSFP28 100G Direct Attach Cable —— 自营店直卖 MikroTik 企业级高速谱
+  > 来源：https://b2b.cy-wireless.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：ART2SOFT LTD(2006 创;CY-WIRELESS 牌;Leoforos Archiepiskopou Makariou III 28, Lakatameia 2324, Nicosia;谱面=Ubiquiti WISP 起家→2009 路由/交换→2012 VoIP(IP PBX/SIP/网关)→2012+ 布线/UPS 谱面;自营 b2b/prod 双站直卖 MikroTik 全系(RDS2216/XQ+DA 高速线);+357 22814244
+- **产品线与在售品牌**：MikroTik(RDS2216/XQ+DA 高端件);Ubiquiti;IP PBX/SIP/UPS 谱面
+- **目标行业与场景**：塞浦路斯 WISP/集成商分销谱面
+- **团队与规模**：2006 创(20 年谱面)
+- **决策链与对接人**：**公司主(KP 实名)=塞浦路斯注册处 ELECTRONIC 公开件段(R66 波次二点名);现位:CY-WIRELESS 函数口+官方店址/电话实位**
+- **技术与认证**：MikroTik 高端件日常卖(RDS2216/XQ+DA 100G)
+- **采购与供应链信号**：自营 b2b/prod 双站直卖
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：公司主公开件=注册处 ELECTRONIC 段
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -108,10 +152,10 @@ updated: 2026-10-06
 
 ## SWOT
 
-- **S**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-105；理由:六牌官方分销(UBNT/MikroTik/Cambium/RF Elements/Fanvil/Yeastar),Cyprus 官方认证经销名录(altostrat/FB)
-- **W**：公开信息有限
-- **O**：P1 场景切入（【2026-10-06 R63 B升A】六牌官方分销画像）
-- **T**：现有供应商惯性；价格竞争。
+- **S**：20 年 WISP 谱面+MikroTik 高端件实卖
+- **W**：公司主公开件注册处段
+- **O**：波次二点名直达
+- **T**：小实体
 
 ## 触达与风险红线
 
@@ -138,6 +182,10 @@ updated: 2026-10-06
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] 公司主实名(波次二)
+  - [ ] MikroTik 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -145,21 +193,19 @@ updated: 2026-10-06
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Cy-Wireless（art2soft）,
+Hi team,
 
-I came across Cy-Wireless（art2soft） - 分销（MikroTik 官方）.
+I came across CY-WIRELESS(ART2SOFT LTD) while mapping 塞浦路斯 network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

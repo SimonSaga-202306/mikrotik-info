@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AA Jones Electric Ltd（英国赫尔）：独立电气批发商——3 万件常备库存、1.3 万 SKU 行业控制件（工厂自动化/盘柜件、海运业件、防爆危险区件）；CSV 信号：N-Tron+Red Lion+Anybus+Ixxat（HMS 全家）
-- 【推断】工控批发柜带 HMS/N-Tron 全档=其工业以太网线成形；我们温宽 PoE 是批发货架的恰位补件
-- 【假设】海运+防爆两件头是差异化场景：船用柜/Zone 1 周边配线伴生
+- 【事实】AA JONES ELECTRIC LIMITED(英国;AA JONES ELECTRIC LIMITED(赫尔 Hull,Unit H, Subway Street, HU3 4EL;公司号 03212967;1996-06-17 注册(30 年);曾用名 JONES ELECTRICAL SUPPLY CO. LIMITED(1996-2010);ACTIVE 谱面)
+- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
+- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,35 +135,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：赫尔独立批发；HMS 全家+N-Tron/Red Lion 工业以太网在册
-- **②芯片/型号**：Red Lion/N-Tron 盘
-- **③KP 深挖**：sales@ 口；电话并行
-- **④Saga 对标**：温宽 PoE 批发件（避对标）
-- **⑤在乎与偏好**：现货/价卡/文档
+- **①背景再核**：AA JONES ELECTRIC LIMITED(赫尔 Hull,Unit H, Subway Street, HU3 4EL;公司号 03212967;1996-06-17 注册(30 年);曾用名 JONES ELECTRICAL SUPPLY CO. LIMITED(1996-2010);ACTIVE 谱面
+- **②芯片/型号**：电气批发/网络线材谱面(MikroTik 谱库内信号)
+- **③KP 深挖**：**Anthony Owen Moore = Director(2009-01-29 任命,1948-03 生,原 PSC 至 2023-11)+ Andrew Moulds = Director(2009-01-29 任命)+ Jill Samantha Lomax = Director(2025-01-08 新任命);历史:Neil David Jennings/Ian Andrew Wayman(均 2024-12-13 辞任,Wayman 原 PSC)+ Howard Mark Jones(2009 辞;Companies House 免费军官名单(official-self-published 级金谱);Hull 电气批发 30 年谱面**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：30 年 Hull 电气批发+2025 新任命 Lomax
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“over 30,000 items in stock…controls for industry; panel equipment for factory automation, components for the marine industry, hazardous area equipment”
-  > “over 30,000 items in stock…controls for industry; panel equipment for factory automation, components for the marine industry, hazardous area equipment”
-  > 来源：https://www.aajones.co.uk/
-- **【联系方式】**sales@aajones.co.uk 01482 589015；MX=mx1-eu.emailsecurity.app（MX/DNS 级核验：域存活=邮件可投递到域）
-  > sales@aajones.co.uk 01482 589015；MX=mx1-eu.emailsecurity.app（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.aajones.co.uk/
+- **【决策链与对接人】**LOMAX, Jill Samantha — Director, Appointed 8 January 2025;MOORE, Anthony Owen — Director, Appointed 29 January 2009 (born March 1948);MOULDS, Andrew — Director Appointed 29 January 2009
+  > LOMAX, Jill Samantha — Director, Appointed 8 January 2025;MOORE, Anthony Owen — Director, Appointed 29 January 2009 (born March 1948);MOULDS, Andrew — Director Appointed 29 January 2009
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03212967/officers
+- **【业务定位】**AA JONES ELECTRIC LIMITED · Company number 03212967 · Unit H, Subway Street, Hull HU3 4EL · Active · Incorporated 17 June 1996 · Previous name JONES ELECTRICAL SUPPLY CO. LIMITED (1996-2010)
+  > AA JONES ELECTRIC LIMITED · Company number 03212967 · Unit H, Subway Street, Hull HU3 4EL · Active · Incorporated 17 June 1996 · Previous name JONES ELECTRICAL SUPPLY CO. LIMITED (1996-2010)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03212967
+- **【决策链与对接人】**Persons with significant control: Mr Anthony Owen Moore (ceased 23 November 2023);Mr Ian Andrew Wayman (ceased) —— 家族/老班移交谱谱面
+  > Persons with significant control: Mr Anthony Owen Moore (ceased 23 November 2023);Mr Ian Andrew Wayman (ceased) —— 家族/老班移交谱谱面
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03212967/persons-with-significant-control
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：赫尔独立电气批发商（工控+海运+防爆，大现货）
-- **产品线与在售品牌**：N-Tron+Red Lion+Anybus+Ixxat；电工/照明/盘柜全品
-- **目标行业与场景**：工厂自动化/海运/危险区
-- **团队与规模**：独立批发商
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：30 年仓批发
-- **采购与供应链信号**：大仓现货批发
-- **近期动态与线索**：Blauberg Zone 1 防爆风机线推广中
-- **与我方契合点**：工业以太网旁温宽 PoE 批发补件
-- **风险与注意**：批发走量价敏感
+- **业务定位**：AA JONES ELECTRIC LIMITED(赫尔 Hull,Unit H, Subway Street, HU3 4EL;公司号 03212967;1996-06-17 注册(30 年);曾用名 JONES ELECTRICAL SUPPLY CO. LIMITED(1996-2010);ACTIVE 谱面
+- **产品线与在售品牌**：电气批发/网络线材谱面(MikroTik 谱库内信号)
+- **目标行业与场景**：英国 IT/电信谱面
+- **团队与规模**：小实体 Hull 30 年谱
+- **决策链与对接人**：**Anthony Owen Moore = Director(2009-01-29 任命,1948-03 生,原 PSC 至 2023-11)+ Andrew Moulds = Director(2009-01-29 任命)+ Jill Samantha Lomax = Director(2025-01-08 新任命);历史:Neil David Jennings/Ian Andrew Wayman(均 2024-12-13 辞任,Wayman 原 PSC)+ Howard Mark Jones(2009 辞;Companies House 免费军官名单(official-self-published 级金谱);Hull 电气批发 30 年谱面**
+- **技术与认证**：(电气件为主)
+- **采购与供应链信号**：Hull 口电气批发
+- **近期动态与线索**：2026-10-07 R66 波次点名
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：家族老班移交(2024-12 双辞任+2025 Lomax 新任命=谱面交替期,新任命 Lomax=天位)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：大仓
-- **W**：价敏
-- **O**：差异场
-- **T**：美系壁垒
+- **S**：30 年 Hull 电气批发+2025 新任命 Lomax
+- **W**：老班家族移交期间谱面频变
+- **O**：Lomax 新任命位
+- **T**：大牌电气件
 
 ## 触达与风险红线
 
@@ -209,9 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 批发量
-  - [ ] 盘件线价带
-  - [ ] 备货模式
+  - [ ] Lomax 新任命的硬件线职责
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,18 +225,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi AA Jones team,
+Hi Jill,
 
-Thirty thousand items in stock and a controls-for-industry range including N-Tron and Red Lion - that is a serious industrial shelf.
+I came across AA JONES ELECTRIC LIMITED while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build industrial managed PoE switches rated -40 to 75C, aimed as a cost-friendly complement on exactly that shelf, with honest stock-keeping prices. Reference: $74.8 USD EXW.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
 
-One question: next to the N-Tron range, how much room is there for an industrial PoE switch line?
-
-If useful, I can send a unit with the price card and documents. If not a fit, one line and I close the loop.
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

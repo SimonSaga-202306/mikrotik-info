@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Landatel(西班牙;R66 基线补足档·公司面全貌待补;函数口职能口 info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）(landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Landatel Comunicaciones S.L.(马德里 Getafe/Las Rozas,Calle Aquisgrán 2, Las Rozas de Madrid 28232;2001 创立;11-50 名员工(LinkedIn 口径);品牌谱:Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Airgiga/Comtrend/Galgus/Poynting/PC Engines/ATCom/ARC/MTI/Huawei/Ruckus;独立品牌 Airgiga;电商面 landashop.com;70+ 国服务;值加分销(VAD)谱,LinkedIn 1,262 followers;西班牙无线/数据谱 Prometec
+- 【推断】True 值加分销商(VAD)谱正统=安全/IoT/Networking 集成,自有 Airgiga 品牌;MikroTik 同档谱明
+- 【假设】VAD 谱的 MikroTik 成本谱替换件/随行件:24 口 value PoE 在值加分销链条的谱链窗口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -86,10 +86,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 具名 KPI 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -110,38 +110,40 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）(landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）)跟团不动
-- **②芯片/型号**：(待问;landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）(landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **①背景再核**：西班牙 VAD 谱·无线/网络/电信方案分销+自有 Airgiga 品牌+70 国电商(landashop.com)
+- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
+- **③KP 深挖**：**Marcos Díaz Nicolás(物流与采购总监=硬件 KPI 天位,LinkedIn 官方谱)+ Roberto Avila(技术支持经理)+ Juana Suarez Lois(财务/会计)+ fco Jose Cano Perez(外部顾问)+ Vicente Frutos(项目开发)**
 - **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **⑤在乎与偏好**：Service providers 与 IT 公司的无线/Networking/IP 摄像头/天线/VoIP/热点/光纤/培训谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Landatel — info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Landatel — info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.landatel.com
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.landatel.com
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.landatel.com
+- **【决策链与对接人】**Roberto Avila Gerente de Soporte Técnico en Landatel | Wireless & Networking · Marcos Díaz Nicolás Director de Logística y Compras en Landatel · Juana Suarez Lois Departamento Financiero - Contabilidad · fco Jose Cano Perez consultor externo
+  > Roberto Avila Gerente de Soporte Técnico en Landatel | Wireless & Networking · Marcos Díaz Nicolás Director de Logística y Compras en Landatel · Juana Suarez Lois Departamento Financiero - Contabilidad · fco Jose Cano Perez consultor externo
+  > 来源：https://mx.linkedin.com/company/landatel-comunicaciones
+- **【业务定位】**Landatel represents leading brands such as Panasonic, ZTE, Ubiquiti Networks, MikroTik and TP-Link and develops its own product line "Airgiga" · 11 to 50 employees · 2001 · Getafe, Madrid
+  > Landatel represents leading brands such as Panasonic, ZTE, Ubiquiti Networks, MikroTik and TP-Link and develops its own product line "Airgiga" · 11 to 50 employees · 2001 · Getafe, Madrid
+  > 来源：https://es.linkedin.com/company/landatel-comunicaciones
+- **【产品线与在售品牌】**Nuestras marcas: Huawei, Ruckus Wireless, Ubiquiti Networks, Mikrotik, TP-LINK, ARC, MTI, PCEngines, ATCom y Poynting, entre otras · Calle Aquisgrán 2, Las Rozas de Madrid 28232
+  > Nuestras marcas: Huawei, Ruckus Wireless, Ubiquiti Networks, Mikrotik, TP-LINK, ARC, MTI, PCEngines, ATCom y Poynting, entre otras · Calle Aquisgrán 2, Las Rozas de Madrid 28232
+  > 来源：https://es.nextdoor.com/pages/landatel-comunicaciones/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）(landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）)跟团不动
-- **产品线与在售品牌**：(待问;landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）(landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注） 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：西班牙 VAD 谱·无线/网络/电信方案分销+自有 Airgiga 品牌+70 国电商(landashop.com)
+- **产品线与在售品牌**：Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Huawei/Ruckus/PC Engines/ATCom/Poynting/Comtrend/Galgus/ARC/MTI;Airgiga(自有)
+- **目标行业与场景**：Service providers 与 IT 公司的无线/Networking/IP 摄像头/天线/VoIP/热点/光纤/培训谱
+- **团队与规模**：11-50 人(LinkedIn);2001 创立 Getafe/Las Rozas
+- **决策链与对接人**：**Marcos Díaz Nicolás(物流与采购总监=硬件 KPI 天位,LinkedIn 官方谱)+ Roberto Avila(技术支持经理)+ Juana Suarez Lois(财务/会计)+ fco Jose Cano Perez(外部顾问)+ Vicente Frutos(项目开发)**
+- **技术与认证**：MikroTik/Ubiquiti/TP-Link/ZTE/Radwin/Huawei/Ruckus 全谱经销
+- **采购与供应链信号**：70+ 国电商面(landashop.com)/自有 Airgiga/同档多谱 VAD 分销
+- **近期动态与线索**：自有品牌 Airgiga + landashop.com 固面;2026-10 LinkedIn 1,262 followers
+- **与我方契合点**：同档 VAD 谱的 MikroTik 成本谱替换件→采购总监(Díaz Nicolás)谱位
+- **风险与注意**：MikroTik/TP-Link 同档锁谱已是谱面;直发 Marcos Díaz Nicolás 谱 LinkedIn 舒明链
+- **_swotstrt**：S 世界 VAD 谱+自有 Airgiga / W MikroTik 同档锁谱 / O 同档成本谱替换件(采购总监谱位) / T 大牌集成
+- **_sw**：['VAD 谱强/自有 Airgiga/70 国', 'MikroTik 同档锁谱', '成本谱替换件采购总监谱位', '大牌集成']
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：VAD 谱强/自有 Airgiga/70 国
+- **W**：MikroTik 同档锁谱
+- **O**：成本谱替换件采购总监谱位
+- **T**：大牌集成
 
 ## 触达与风险红线
 
@@ -187,9 +189,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] MikroTik 谱份额
+  - [ ] 当前 24 口 PoE 执行品牌
+  - [ ] 具名 KP 直连邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -201,13 +203,13 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Hi Marcos,
 
-I came across Landatel while mapping 西班牙 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+Landatel's portfolio reads like a who-is-who of professional wireless — Ubiquiti, MikroTik, TP-Link, Radwin, plus your own Airgiga line — and 70 countries through landashop. Behind every WISP rollout your resellers quote sits a small switching layer that nobody leads with, but every customer reboots.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each of your resellers' deployments.
 
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+As Director of Logistics & Purchasing at Landatel, would you be the right desk to route a unit like this to? Happy to send the one-page spec wherever you point.
 
 Best regards,
 Saga Networks Export Desk
