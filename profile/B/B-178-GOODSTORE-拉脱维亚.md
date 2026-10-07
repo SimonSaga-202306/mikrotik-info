@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpi…
+- **是谁**：GOODSTORE(拉脱维亚 Daugavpils,Muzeja iela 11 / Vidus iela 32, LV-5401;=**SIA "Goodman Group"**;**注册号 41503064521,V…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 弱电安防垂直店的监控谱工业 PoE 供电轨；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpils, LV-5401;**谱位=Daugavpils 当地综合弱电系统集成商**——设计+施工 视频安防/门禁/火警/低压系统 多年经验, | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | GOODSTORE(拉脱维亚 Daugavpils,Muzeja iela 11 / Vidus iela 32, LV-5401;=**SIA "Goodman Group"**;**注册号 41503064521,VAT LV41503064521**;Swedbank AS HABALV22 账户件;**2013 创(弱电系统设计建造;2023 开 g | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店) | R65 深挖:弱电系统集成+城 home 平台;footer Miide forte PoE 谱在架有其接口
-- 【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
-- 【假设】开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,47 +79,50 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 监控柜 DIN PoE 页
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
-- **要问的问题**：你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@goodstore.lv 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
-- **要问的问题**：你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
-- **要问的问题**：你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波2.json`；价格均为 EXW 快照。
 
-- **背景深描**：GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpils, LV-5401;**谱位=Daugavpils 当地综合弱电系统集成商**——设计+施工 视频安防/门禁/火警/低压系统 多年经验,bulk online store 平台 veikals@goodstore.lv;Swedbank HABALV22)
-- **芯片与在用型号**：【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
-- **关键人KP**：—(SIA Goodman Group valdnieks 拉托维亚登记查询方向)
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 DIN PoE 轨+光伏场站 / T:拉脱维亚东部市场薄
-- **Saga产品适配**：弱电安防垂直店的监控谱工业 PoE 供电轨
+- **背景深描**：GOODSTORE(拉脱维亚 Daugavpils,Muzeja iela 11 / Vidus iela 32, LV-5401;=**SIA "Goodman Group"**;**注册号 41503064521,VAT LV41503064521**;Swedbank AS HABALV22 账户件;**2013 创(弱电系统设计建造;2023 开 goodstore.lv 电商线)**;谱型=拉脱维亚认证安防系统集成+弱电/网络件电商(CCTV/安防/门禁/消防/安装材/线缆/网络件/光纤/电源/太阳能;聚焦高复杂度技术安防系统工程;goodman.lv)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**守档准由;R66 波次二点名**
+- **关注点与资质**：认证集成+电商双线+注册号锁
+- **优缺点SWOT**：S 认证集成+电商双线+注册号锁 / W 人名谱零命中 / O UR 登记册反查可破 / T 大牌安防件链
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):拉脱维亚 Daugavpils 安防集成+电商;守档:身份锁定(41503064521);R66 波次二点名(UR 董事层)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, 
-  > SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, security systems, access control systems, fire safety systems … network equipment, optical networks … products related to solar energy
+- **【业务定位】**GOODSTORE is an online store created by the company SIA "Goodman Group";Registration number: 41503064521;VAT: LV41503064521;Muzeja street 11, Daugavpils(goodstore.lv 官方 About 自署)
+  > GOODSTORE is an online store created by the company SIA "Goodman Group";Registration number: 41503064521;VAT: LV41503064521;Muzeja street 11, Daugavpils(goodstore.lv 官方 About 自署)
   > 来源：https://goodstore.lv/en/about-us/
-- **【R65 谱位/登记】**SIA Goodman Group · Daugavpils · 弱电(视频安防/门禁/火警)设计施工一体商 · goodstore.lv 平台;Reg 41503064521
-  > SIA "Goodman Group" is a company with extensive experience in the design and construction of low-voltage systems and networks … Muzeja street 11, Daugavpils
-  > 来源：https://goodstore.lv/en/about-us/
+- **【业务定位】**Founded in 2013 Daugavpils;2023 Launch of Goodstore.lv;certified security system integrator in Latvia(goodman.lv 官方页)
+  > Founded in 2013 Daugavpils;2023 Launch of Goodstore.lv;certified security system integrator in Latvia(goodman.lv 官方页)
+  > 来源：https://goodman.lv/
+- **【近期动态与线索】**2026-10-08 R66-B 波 2:身份=SIA Goodman Group 注册号锁;人名谱零命中→守档;波次二=拉脱维亚 UR(ur.gov.lv)按 41503064521 反查董事层
+  > 2026-10-08 R66-B 波 2:身份=SIA Goodman Group 注册号锁;人名谱零命中→守档;波次二=拉脱维亚 UR(ur.gov.lv)按 41503064521 反查董事层
+  > 来源：https://info.ur.gov.lv/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -139,7 +135,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 DIN PoE 轨+光伏场站 / T:拉脱维亚东部市场薄
+S 认证集成+电商双线+注册号锁 / W 人名谱零命中 / O UR 登记册反查可破 / T 大牌安防件链
 
 ## 触达与风险红线
 
@@ -167,8 +163,8 @@ S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 D
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 监控谱相机品牌与 PoE 供电现供
-  - [ ] DIN 轨档位空缺与否
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -177,21 +173,15 @@ S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 D
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi GOODSTORE team,
 
-A low-voltage systems shop built by installers - CCTV, access control, fire alarm, cabling, and now solar. Your camera and control panels end up in cabinets and on DIN rails, where the PoE switch is the part that decides whether an install holds through a Baltic winter.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your surveillance cabinets and outbuildings, white-label friendly.
-
-One question: in your CCTV and low-voltage projects, which DIN-rail industrial PoE switch feeds the cameras today?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

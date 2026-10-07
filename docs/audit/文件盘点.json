@@ -1477,7 +1477,7 @@
       "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
       "sha256": "9f016c730952d833c53926dd3a5f151e986d0778994041e2491117b050061369",
       "bytes": 29312,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 475,
       "unique_url_count": 13,
       "inspection": {},
@@ -2129,6 +2129,16 @@
       "bytes": 42752,
       "tracked_at_scan": true,
       "units_scanned": 628,
+      "unique_url_count": 11,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+      "sha256": "24355876d4d6eeec019983c8bb8a6a5eec919419a858e3b659c7238c3d8f3e97",
+      "bytes": 33776,
+      "tracked_at_scan": false,
+      "units_scanned": 546,
       "unique_url_count": 11,
       "inspection": {},
       "errors": []
@@ -2825,10 +2835,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "7c1c5dc2896e85594c2e6cf7ce4005388f5ee9af4055d77f1c26ea9e7b4a9f7f",
-      "bytes": 155261,
+      "sha256": "c0f3d7dc3a381453ee90876b47b23931960794482e1bfd3db92739b1af2d553c",
+      "bytes": 156740,
       "tracked_at_scan": true,
-      "units_scanned": 1306,
+      "units_scanned": 1314,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -8895,11 +8905,11 @@
     },
     {
       "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
-      "sha256": "6818a972f30061f969ffb8dc76d31646acc95355ba5f855c814b750013b8e029",
-      "bytes": 13052,
+      "sha256": "b342cefcbbeec3016237982ebf150514c94e6ec3de309c7c7ee933e455551cbb",
+      "bytes": 10499,
       "tracked_at_scan": true,
-      "units_scanned": 217,
-      "unique_url_count": 2,
+      "units_scanned": 204,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
@@ -9085,11 +9095,11 @@
     },
     {
       "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-      "sha256": "e8ee41c7e584a19fdd3bb05479e1c0213a7527a4f09d9677600316f95f957597",
-      "bytes": 13541,
+      "sha256": "2dee936ce3c9e3461b463bec8bbd9ae264112abb236959e3e781662cdb077cf9",
+      "bytes": 12726,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 3,
+      "units_scanned": 209,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -9225,11 +9235,11 @@
     },
     {
       "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-      "sha256": "875d2bfe21213655559a7422d86c853ee13ec4f3781d4c7c81c5fe05ac7cb302",
-      "bytes": 15239,
+      "sha256": "7d4eca9d22f908caf5d62c44251afc1066960248b2c3745b6c8ce8f8dcde9bfb",
+      "bytes": 12129,
       "tracked_at_scan": true,
-      "units_scanned": 223,
-      "unique_url_count": 4,
+      "units_scanned": 208,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -9305,11 +9315,11 @@
     },
     {
       "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
-      "sha256": "ca2d67e3472c84e8fe769cc77ef4af39f80c45d0a3caaa28d15cfabf58301461",
-      "bytes": 12935,
+      "sha256": "5454e061cc8c6c66b02f21da2afc9039f0b9da898794691685d82361c9702c2b",
+      "bytes": 11023,
       "tracked_at_scan": true,
-      "units_scanned": 214,
-      "unique_url_count": 1,
+      "units_scanned": 204,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
@@ -13574,6 +13584,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_B_KP波2落盘.py",
+      "sha256": "81a9e05241c6d0d6512417d8ca19bf84f7c5396f1b2669bc90a14659672fb3f0",
+      "bytes": 11202,
+      "tracked_at_scan": false,
+      "units_scanned": 99,
+      "unique_url_count": 11,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_KP第1波落盘.py",
       "sha256": "00163584702aeddb22e4b6ee5fba7ff036a3f8e2d7086692e05ddab5a2e83f25",
       "bytes": 25522,
@@ -13617,7 +13637,7 @@
       "path": "scripts/R66_R56_KP第12波落盘.py",
       "sha256": "6af6f3610a4c8d1e92886a34a50291364d4c2b937aa1974c85097974ee55a4dc",
       "bytes": 12385,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 98,
       "unique_url_count": 13,
       "inspection": {},
@@ -13785,10 +13805,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "5f6cefcea607911f16066bbfb3dda13a1f4ce77252d42f8aafe69014fc745a37",
-      "bytes": 38432,
+      "sha256": "998d59b7e5fdd4168585ec39b2e8c162ebb9b1037edd43d5208710c1e9afbcfb",
+      "bytes": 38484,
       "tracked_at_scan": true,
-      "units_scanned": 797,
+      "units_scanned": 798,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

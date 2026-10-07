@@ -1598,10 +1598,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L418"
-      },
-      {
-        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-        "locator": "L132"
       }
     ]
   },
@@ -2568,10 +2564,6 @@
       {
         "path": "profile/B/B-042-Computer Market-保加利亚.md",
         "locator": "L122"
-      },
-      {
-        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
-        "locator": "L126"
       }
     ]
   },
@@ -2704,10 +2696,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L487"
-      },
-      {
-        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L128"
       },
       {
         "path": "profile/B/B-168-Neostar-意大利.md",
@@ -12616,6 +12604,34 @@
     ]
   },
   {
+    "url": "https://goodman.lv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L475"
+      },
+      {
+        "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://goodman.lv/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
     "url": "https://goodstore.lv/",
     "http_checked": false,
     "occurrences": [
@@ -12646,12 +12662,30 @@
         "locator": "L110"
       },
       {
-        "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
-        "locator": "L126"
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L422"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L451"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L469"
       },
       {
         "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
-        "locator": "L129"
+        "locator": "L119"
+      }
+    ]
+  },
+  {
+    "url": "https://goodstore.lv/en/about-us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L86"
       }
     ]
   },
@@ -14420,6 +14454,34 @@
     ]
   },
   {
+    "url": "https://info.ur.gov.lv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L461"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L481"
+      },
+      {
+        "path": "profile/B/B-178-GOODSTORE-拉脱维亚.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://info.ur.gov.lv/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
     "url": "https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/",
     "http_checked": false,
     "occurrences": [
@@ -15546,6 +15608,34 @@
       {
         "path": "profile/A/A-034-Alessandro Campanella - 1off-意大利.md",
         "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://it.wikipedia.org/wiki/Allnet.Italia",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L319"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L338"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://it.wikipedia.org/wiki/Allnet.Italia'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L77"
       }
     ]
   },
@@ -18040,6 +18130,56 @@
       {
         "path": "profile/A/A-073-Michael Omondi - McCharles Tech-美国.md",
         "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://mclimate.eu/blogs/blog/allnet-and-mclimate-established-a-distribution-partnership",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L180"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L200"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L269"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://mclimate.eu/blogs/blog/allnet-and-mclimate-established-a-distribution-partnership'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L65"
+      },
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L68"
+      }
+    ]
+  },
+  {
+    "url": "https://mclimate.eu/blogs/blog/allnet-and-mclimate-established-a-distribution-partnership〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L74"
       }
     ]
   },
@@ -28884,6 +29024,34 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第15批.json",
         "locator": "L15"
+      }
+    ]
+  },
+  {
+    "url": "https://portal.registry.bg/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://portal.registry.bg/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L56"
       }
     ]
   },
@@ -41088,16 +41256,92 @@
         "locator": "L30"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L141"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L170"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L175"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L188"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L194"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L262"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L406"
+      },
+      {
         "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
         "locator": "L131"
       },
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L125"
+        "locator": "L80"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L80"
       },
       {
         "path": "profile/B/B-231-ALLNET France SAS-法国.md",
         "locator": "L131"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allnet-italia.it/en/allnet-international-network/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L64"
+      },
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L66"
+      },
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L67"
+      },
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allnet-italia.it/en/allnet-international-network/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L74"
       }
     ]
   },
@@ -42072,6 +42316,34 @@
     ]
   },
   {
+    "url": "https://www.asterisk.org/asteriskexchange/allnet-italia/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L324"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L344"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.asterisk.org/asteriskexchange/allnet-italia/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.atcmarket.cz/",
     "http_checked": false,
     "occurrences": [
@@ -42566,6 +42838,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1019/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.audiocodes.com/partners/locators/channel-partner-locator/europe-middle-east-africa/allnetitalia",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L285"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L332"
+      },
+      {
+        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
+        "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://www.audiocodes.com/partners/locators/channel-partner-locator/europe-middle-east-africa/allnetitalia'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L76"
       }
     ]
   },
@@ -46112,10 +46416,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L430"
-      },
-      {
-        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-        "locator": "L138"
       }
     ]
   },
@@ -48556,6 +48856,38 @@
       {
         "path": "profile/A/A-354-NTS Direct-美国.md",
         "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datanyze.com/companies/riva/355631585",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L12"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L59"
+      },
+      {
+        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
+        "locator": "L119"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datanyze.com/companies/riva/355631585'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L54"
       }
     ]
   },
@@ -53264,10 +53596,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L424"
-      },
-      {
-        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-        "locator": "L135"
       }
     ]
   },
@@ -60712,6 +61040,34 @@
       {
         "path": "profile/A/A-117-Griffon Security Technologies, LLC-美国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/gruppo-riva",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波2.json",
+        "locator": "L65"
+      },
+      {
+        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/gruppo-riva'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波2落盘.py",
+        "locator": "L55"
       }
     ]
   },
@@ -76770,14 +77126,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第4批.json",
         "locator": "L273"
-      },
-      {
-        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
-        "locator": "L129"
-      },
-      {
-        "path": "profile/B/B-048-Riva.Ltd-保加利亚.md",
-        "locator": "L132"
       }
     ]
   },
@@ -79906,14 +80254,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L412"
-      },
-      {
-        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-        "locator": "L126"
-      },
-      {
-        "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
-        "locator": "L129"
       }
     ]
   },
@@ -83074,10 +83414,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第10批.json",
         "locator": "L41"
-      },
-      {
-        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L131"
       }
     ]
   },

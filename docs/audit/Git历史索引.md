@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `8bad3245efaf` | 2026-10-07T16:52:31+00:00 | R66 第 12 波:Celenet LIR 守档+Watkins PA 排噪锚定+Lloret/EAC 英国 CH 金谱+A-047 波兰本体更正(希腊误植作废)+总账 |
 | `ea2d781e6566` | 2026-10-07T16:40:46+00:00 | R66 B 面 KP 波 1:Secure Net/MARAC/Sanuk/Infortisa 四户(IS/SE 登记册金谱+ES 10 人谱)+B 档 R65 原形落盘纪律+总账 |
 | `0a5478ce086c` | 2026-10-07T16:35:01+00:00 | R66 第 11 波:Profcon/Microstar/Titan 三户具名 KP(瑞登记册+美官方公告金谱)+VELOCIgroup 守档+总账 |
 | `c1bc3595a100` | 2026-10-07T16:31:25+00:00 | KP 全覆盖核:退信 watch(A-441 dipole)+merge_kp 并集防吞名+A74/B93 户 0 缺名分标 0 错+总账 |

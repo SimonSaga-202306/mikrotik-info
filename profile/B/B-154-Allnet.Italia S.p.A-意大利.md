@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财…
+- **是谁**：ALLNET.ITALIA S.p.A.(意大利 Casalecchio di Reno(Bologna 都市圈);**2000 创(26 年谱;Società per azioni)**;**营业额 €87,915,0…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财报 €87,915,037 营收/€1.76M 净利(fatturatoitalia)**——ALLNET 集团意大利巨站;amminist | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ALLNET.ITALIA S.p.A.(意大利 Casalecchio di Reno(Bologna 都市圈);**2000 创(26 年谱;Società per azioni)**;**营业额 €87,915,037(2024,it.wikipedia 引财报件)**;谱型=意大利 ICT 高附加值分销商(ALLNET GmbH 战略同盟;专业渠道: | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战略联盟 | R65 深挖:€88M 意大利大站;同业守档谱维持
-- 【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)
-- 【假设】开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -77,65 +70,63 @@ updated: 2026-10-07
 - **电话**：+39 051 0547710
 - **原始联系字段**：+39 051 0547710 / networking@allnet-italia.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Wolfgang Marcus Bauer**(ALLNET GmbH CEO & Founder(德国母体战略同盟创位;集团谱))— allnet-italia.it 官方 Network 页具名 〔已有(公司官方公开件/登记册自曝);源:https://www.allnet-italia.it/en/allnet-international-network/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Wolfgang Marcus Bauer | ALLNET GmbH CEO & Founder(德国母体战略同盟创位;集团谱) | allnet-italia.it 官方 Network 页具名 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.allnet-italia.it/en/allnet-international-network/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · scouting 开口页+集团五站背书
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书
-- **要问的问题**：Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · networking@allnet-italia.it 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书
-- **要问的问题**：Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书
-- **要问的问题**：Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波2.json`；价格均为 EXW 快照。
 
-- **背景深描**：ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财报 €87,915,037 营收/€1.76M 净利(fatturatoitalia)**——ALLNET 集团意大利巨站;amministrazione@allnet-italia.it,051-0547710;Confindustria Emilia 会员;5G/AV/Cloud 谱向
-- **芯片与在用型号**：【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)
-- **关键人KP**：—(S.p.A. amministratore 收费墙;谱与 B-138 Bauer 同家长径,B-115 希腊同谱;集团联动口径)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周期或长 / O:STC-424 作 scouting 新 vendor 直对口 / T:集团自牌谱边界需辨(总部 ALLNET brand)
-- **Saga产品适配**：scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动
+- **背景深描**：ALLNET.ITALIA S.p.A.(意大利 Casalecchio di Reno(Bologna 都市圈);**2000 创(26 年谱;Società per azioni)**;**营业额 €87,915,037(2024,it.wikipedia 引财报件)**;谱型=意大利 ICT 高附加值分销商(ALLNET GmbH 战略同盟;专业渠道:SI/经销/安装商/服务商;网络→2004 VoIP→统一通信/视频会议/IP 监控/无线/工业自动化/Wi-Fi;Asterisk 唯一授权培训伙伴;NetAlly 伙伴;Audiocodes 渠道件);allnet-italia.it
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Wolfgang Marcus Bauer(ALLNET GmbH CEO & Founder(德国母体战略同盟创位;集团谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **关注点与资质**：€87.9M 一线 VAD+培训伙伴
+- **优缺点SWOT**：S €87.9M 一线 VAD+培训伙伴 / W 意侧具名谱未破 / O Camera di Commercio Bologna 反查可破 / T 大牌厂商直供链
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):意大利 ICT VAD 一线(€87.9M/2024);意侧具名谱未破:波次二点名(商会董事层+官网 team 页)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**La nostra offerta non si basa sui brand, ma sulle tecnologie ritenute più adatte…molti vendor a cui il mercato italiano non è ancora abituat
-  > La nostra offerta non si basa sui brand, ma sulle tecnologie ritenute più adatte…molti vendor a cui il mercato italiano non è ancora abituato
-  > 来源：https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/
-- **【R57备护深挖证据】**suddivisa in 5 differenti Business Unit: UCC, Networking & Wireless, Sicurezza fisica e cyber, IoT e Data Center…CEO Emiliano Papadopoulos
-  > suddivisa in 5 differenti Business Unit: UCC, Networking & Wireless, Sicurezza fisica e cyber, IoT e Data Center…CEO Emiliano Papadopoulos
-  > 来源：https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/
-- **【R57备护深挖证据】**opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati
-  > opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati
-  > 来源：https://802service.com/chi-siamo/
-- **【R65 财务+地址】**ALLNET.ITALIA S.p.A. · P.IVA 00884761206 · 2024 €87.9M 营收 €1.76M 净利 · Casalecchio di Reno BO · Confindustria 会员
-  > Allnet.italia Spa: fatturato 87.915.037 €, utile 1.762.069 € (2024). P.IVA 00884761206 … Via Renato Fucini, 2 40033 Casalecchio di Reno
-  > 来源：https://www.fatturatoitalia.it/allnetitalia-spa-00884761206
-- **【R65 渠道】**amministrazione@allnet-italia.it + 051 0547710 公开;Confindustria Emilia 会通员与 Smartwords 5G/AV/Cloud 谱
-  > amministrazione@allnet-italia.it … 051 0547710 … 5G, Audio-video solutions, Cloud
-  > 来源：https://www.confindustriaemilia.it/flex/FixedPages/Common/associati.php/L/EN/id/fd02d3c0-c6aa-e811-814b-5065f38b9571
+- **【业务定位】**ALLNET.ITALIA S.p.A. is a high added-value distributor, specialised in innovative ICT and telecommunications solutions;Founded in 2000 in Bologna;strategic alliance with ALLNET GMBH (Munich 1991)(Audiocodes 伙伴页)
+  > ALLNET.ITALIA S.p.A. is a high added-value distributor, specialised in innovative ICT and telecommunications solutions;Founded in 2000 in Bologna;strategic alliance with ALLNET GMBH (Munich 1991)(Audiocodes 伙伴页)
+  > 来源：https://www.audiocodes.com/partners/locators/channel-partner-locator/europe-middle-east-africa/allnetitalia
+- **【团队与规模】**Fatturato: 87.915.037 € (2024);Fondazione: 2000 a Bologna;Sede principale: Casalecchio di Reno;canale professionale ICT(it.wikipedia 引财报件)
+  > Fatturato: 87.915.037 € (2024);Fondazione: 2000 a Bologna;Sede principale: Casalecchio di Reno;canale professionale ICT(it.wikipedia 引财报件)
+  > 来源：https://it.wikipedia.org/wiki/Allnet.Italia
+- **【业务定位】**the only authorized training partner for the region;Asterisk training classes out of its headquarters in Bologna
+  > the only authorized training partner for the region;Asterisk training classes out of its headquarters in Bologna
+  > 来源：https://www.asterisk.org/asteriskexchange/allnet-italia/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周期或长 / O:STC-424 作 scouting 新 vendor 直对口 / T:集团自牌谱边界需辨(总部 ALLNET brand)
+S €87.9M 一线 VAD+培训伙伴 / W 意侧具名谱未破 / O Camera di Commercio Bologna 反查可破 / T 大牌厂商直供链
 
 ## 触达与风险红线
 
@@ -167,7 +158,7 @@ S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -176,8 +167,8 @@ S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Networking&Wireless BU 当下 value PoE 档供应商
-  - [ ] scouting 新 vendor 的准入流程(测试期/上架门槛)
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +177,15 @@ S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Allnet.Italia team,
 
-Your CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.
-
-One question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

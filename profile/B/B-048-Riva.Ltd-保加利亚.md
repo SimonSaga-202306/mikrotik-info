@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Рива ООД(Riva Ltd;гр. Бургас, жк.Славейков бл.72;ЕИК/VAT BG102125854;**MikroTik 保加利亚官方分销商**(官网自曝 "официален ди…
+- **是谁**：Riva.Ltd(保加利亚;2026-10-08 R66-B 波 2 排噪:公开面命中 Riva(CRM 软件,Stéphane Zanoni,加拿大/Edmonton)+Gruppo Riva/Riva Acciaio…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 官方 VAD 现货谱的商用 PoE 管理栏；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Рива ООД(Riva Ltd;гр. Бургас, жк.Славейков бл.72;ЕИК/VAT BG102125854;**MikroTik 保加利亚官方分销商**(官网自曝 "официален дистрибутор на Mikrotik");sales@riva.bg/ service@riva.bg 自曝;056 842323 / | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Riva.Ltd(保加利亚;2026-10-08 R66-B 波 2 排噪:公开面命中 Riva(CRM 软件,Stéphane Zanoni,加拿大/Edmonton)+Gruppo Riva/Riva Acciaio(意钢铁 5500 人,Claudio Riva/Emilio Riva)均为异名实体,均非保加利亚 CSV 入档 Riva.Ltd 本体; | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Riva Ltd / Рива ООД(Burgas;**MikroTik 官方 VAD 名录在册**;官网自诩「Рива ООД е официален дистрибутор на Mikrotik за България」;MikroTik 类目 141 SKU、Burgas 现货 125 款;门店 Лермонтов 52+服务部 Славейков бл.72;riva@riva.bg) | R65 深挖:MikroTik 保加利亚官方分销商定位坐实;董事实名待 papagal 下次补
-- 【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射
-- 【假设】开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,50 +79,50 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 商用 PoE 槽位页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频
-- **要问的问题**：你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · riva@riva.bg 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频
-- **要问的问题**：你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频
-- **要问的问题**：你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波2.json`；价格均为 EXW 快照。
 
-- **背景深描**：Рива ООД(Riva Ltd;гр. Бургас, жк.Славейков бл.72;ЕИК/VAT BG102125854;**MikroTik 保加利亚官方分销商**(官网自曝 "официален дистрибутор на Mikrotik");sales@riva.bg/ service@riva.bg 自曝;056 842323 / 0876 911010;Burgas 两江城市门店)
-- **芯片与在用型号**：【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射
-- **关键人KP**：—(实名董事 trailnil 台账击不着,保留待定;A相关紧台账方向)via papagal.bg ЕИК 102125854 可查
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:官方 VAD+本地现货仓+服务部 / W:单 MikroTik 强绑,交换机谱浅 / O:商用 PoE 档随无线谱放量 / T:与 MikroTik 交换机自产线正面撞
-- **Saga产品适配**：官方 VAD 现货谱的商用 PoE 管理栏
+- **背景深描**：Riva.Ltd(保加利亚;2026-10-08 R66-B 波 2 排噪:公开面命中 Riva(CRM 软件,Stéphane Zanoni,加拿大/Edmonton)+Gruppo Riva/Riva Acciaio(意钢铁 5500 人,Claudio Riva/Emilio Riva)均为异名实体,均非保加利亚 CSV 入档 Riva.Ltd 本体;实体身份未锁)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**守档准由;R66 波次二点名**
+- **关注点与资质**：CSV 已有谱名
+- **优缺点SWOT**：S CSV 已有谱名 / W 实体身份未锁定 / O BRR 登记册反查可破 / T 同名噪声高
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):保加利亚 Riva.Ltd(身份待锁);守档:加拿大 CRM/意钢铁排噪录;R66 波次二点名(BRR 反查)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23
-  > Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/bulgaria/
-- **【R57备护深挖证据】**Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)
-  > Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)
-  > 来源：https://www.riva.bg/mikrotik/show/all.html
-- **【R65 官网自曝】**Рива ООД е официален дистрибутор на Mikrotik за България;ЕИК BG102125854;Burgas 双热线
-  > Рива ООД е официален дистрибутор на Mikrotik за България … ЕИК/VAT: BG102125854 … гр. Бургас, жк.Славейков бл.72
-  > 来源：https://www.riva.bg/mikrotik/show/all.html
+- **【业务定位】**Riva(CRM Software):CEO Stéphane Zanoni;117 employees;$24.6M(加拿大件,排噪)
+  > Riva(CRM Software):CEO Stéphane Zanoni;117 employees;$24.6M(加拿大件,排噪)
+  > 来源：https://www.datanyze.com/companies/riva/355631585
+- **【业务定位】**Gruppo Riva(钢铁,Chaired by Claudio Riva since May 2014;5,000+;意大利件,排噪)
+  > Gruppo Riva(钢铁,Chaired by Claudio Riva since May 2014;5,000+;意大利件,排噪)
+  > 来源：https://www.linkedin.com/company/gruppo-riva
+- **【近期动态与线索】**2026-10-08 R66-B 波 2:守档排噪;波次二=保加利亚 BRR(Търговски регистър)按名反查+CSV 原域锚复核
+  > 2026-10-08 R66-B 波 2:守档排噪;波次二=保加利亚 BRR(Търговски регистър)按名反查+CSV 原域锚复核
+  > 来源：https://portal.registry.bg/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +135,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:官方 VAD+本地现货仓+服务部 / W:单 MikroTik 强绑,交换机谱浅 / O:商用 PoE 档随无线谱放量 / T:与 MikroTik 交换机自产线正面撞
+S CSV 已有谱名 / W 实体身份未锁定 / O BRR 登记册反查可破 / T 同名噪声高
 
 ## 触达与风险红线
 
@@ -170,8 +163,8 @@ S:官方 VAD+本地现货仓+服务部 / W:单 MikroTik 强绑,交换机谱浅 /
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 商用交换机谱现存档位
-  - [ ] PoE 管理型价带
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -180,21 +173,15 @@ S:官方 VAD+本地现货仓+服务部 / W:单 MikroTik 强绑,交换机谱浅 /
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Riva team,
 
-An official MikroTik VAD in Burgas with 125 items in local stock and a service branch behind it - your wireless shelf is deep, and the commercial PoE switching line beside it is where resellers quietly compare slots and prices.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.
-
-One question: beside your MikroTik stock, which 24-port PoE managed switch fills the value slot for your resellers today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
