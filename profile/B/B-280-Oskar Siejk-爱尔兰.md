@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie)…
+- **是谁**：Oskar Siejk(R65 搜索/核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 都柏林波兰裔顾问备养:具名通道(双语谱)；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Oskar Siejk(R65 搜索/核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie)
+- 【事实】Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie) | R65 深挖:爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；R65 守档准由
 - 【推断】都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱
 - 【假设】守档备养:具名引见;波兰语是其后门优势(波兰安装商/侨企谱)
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie)
+- **背景深描**：Oskar Siejk(R65 搜索/核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；守档准由）
 - **芯片与在用型号**：【推断】都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE 
@@ -117,6 +117,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE;英波双语
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE;英波双语
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜索/同名核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档
+  > (R65 同名实体验证日志）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

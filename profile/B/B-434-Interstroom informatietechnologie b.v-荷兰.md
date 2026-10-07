@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):199…
+- **是谁**：Interstroom Informatietechnologie B.V.(KvK 52775054,1995 创，Hengelo Demmersweg 3;**Joris Trooster = Owner 1995-…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Twente 官方 MikroTik 培训点的对照教具样本位(客户交付随单为二线留 NOTE)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课, | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Interstroom Informatietechnologie B.V.(KvK 52775054,1995 创，Hengelo Demmersweg 3;**Joris Trooster = Owner 1995-至今(31 年!)**——前荷兰代表 Olympisch roeier(1997-2000 奥运赛艇)+University of Twen | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课,认证讲师);谱=咨询+交付+安装+维护+培训五位一体
+- 【事实】Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课,认证讲师);谱=咨询+交付+安装+维护+培训五位一体 | R65 深挖:Trooster 31 年谱主位;iVoIP 品牌谱
 - 【推断】荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位
 - 【假设】开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Joris Trooster | Owner/Eigenaar(31 年业主,前奥监羶人数) | @interstroom.nl(模式提示) | rocketreach 自曝 | https://rocketreach.co/joris-trooster-email_116562226 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课,认证讲师);谱=咨询+交付+安装+维护+培训五位一体
+- **背景深描**：Interstroom Informatietechnologie B.V.(KvK 52775054,1995 创，Hengelo Demmersweg 3;**Joris Trooster = Owner 1995-至今(31 年!)**——前荷兰代表 Olympisch roeier(1997-2000 奥运赛艇)+University of Twente 力量训练师；谱型=IT 咨询互联网应用+iVoIP(品牌)+Outlet Management(多手门商业名)
 - **芯片与在用型号**：【推断】荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位
-- **关键人KP**：—
+- **关键人KP**：Joris Trooster = Owner 1995-至今(@interstroom.nl RocketReach 提示+RocketReach 自曝)
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:官方培训点+多名认证工程师+30 年安全谱 / W:5 人小体量 / O:教具+交付随单双线 / T:师者红线
 - **Saga产品适配**：Twente 官方 MikroTik 培训点的对照教具样本位(客户交付随单为二线留 NOTE)
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Kvk. Enschede 52775054…Breukersweg 15…telt 5 werknemers
   > Kvk. Enschede 52775054…Breukersweg 15…telt 5 werknemers
   > 来源：https://webdesignergids.net/hengelo/interstroom-informatietechnologie-bv/
+- **【R65 实名】**Interstroom BV KvK 52775054 Hengelo 1995 创；Joris Trooster Owner 1995-至今，多手门商业名+奥运赛艇人血统
+  > 1995 - now Owner @ Interstroom informatietechnologie b.v. … 2000 - 2015 Voorzitter @ Stichting NLroei … Interstroom - iVoIP - Outlet Management … Demmersweg 3 7556BN Hengelo
+  > 来源：https://rocketreach.co/joris-trooster-email_116562226
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:官方培训点+多名认证工程师+30 年安全谱 / W:5 人小体量 / O:�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

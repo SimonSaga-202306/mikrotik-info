@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）**…
+- **是谁**：Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由)…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — MTCINE 高位三证派==师者予顾问通道(入具名引见中单)；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）**
+- 【事实】Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档
 - 【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
 - 【假设】守档后优先序:具名引见最优先(MTCINE 高位拉级)
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第10批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）**
+- **背景深描**：Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由)
 - **芯片与在用型号**：【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE 
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS
   > MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS
   > 来源：https://www.mikrotikusers.com/mikrotik-certification-program/
+- **【R65 联动】**B-126/B-127 两 Alfa-Tech 同名系应视为并集；Analytis KP 挂 B-127，均守档
+  > (R65 同域联动口径)
+  > 来源：(沙箱谱位核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -1,15 +1,15 @@
-# Triple core
+# PEC SISTEMI d.o.o.（tehnox.si）
 
-> **评级 A**　|　以色列　|　档案编号 `A-571`　|　优先级 ★★　|　状态：未触达
+> **评级 A**　|　斯洛文尼亚　|　档案编号 `A-577`　|　优先级 ★★　|　状态：未触达
 >
 > **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
-code: A-571
+code: A-577
 rating: A
-country: 以色列
+country: 斯洛文尼亚
 biz_org: 公司/工作室（有官网）
-business_model: 六牌官方分销 wholesale ISP
+business_model: Digitus 总进口+MikroTik 分销 25 年
 decision_speed: fast
 price_sensitivity: medium
 volume_potential: 3  # 1-5
@@ -22,10 +22,10 @@ updated: 2026-10-06
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：公司/工作室（有官网）；六牌官方分销 wholesale ISP
-- **商业模式**：六牌官方分销 wholesale ISP
-- **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-038；理由:六牌官方分销(MikroTik/Ubiquiti/RF Elements/MaxLink/MasterLAN/Cudy)+4000+客户 wholesale ISP;CRS318 PoE 交换机在售
-- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 【2026-10-06 R63 B升A】六牌官方分销 wholesale ISP画像；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
+- **是谁**：公司/工作室（有官网）；Digitus 总进口+MikroTik 分销 25 年
+- **商业模式**：Digitus 总进口+MikroTik 分销 25 年
+- **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-220；理由:Digitus 总进口+MikroTik/Ubiqi 官方分销 25 年,heX/RB4011/wAP 在售
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 【2026-10-06 R63 B升A】Digitus 总进口+MikroTik 分销 25 年画像；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which 24-port managed PoE+ model currently carries your enterprise/WISP builds?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -34,14 +34,13 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Triple Core（CSV 原样；登记名以调研为准） | 事实 |
-| 国家/城市 | 以色列 | 事实 |
-| 网站 | triple-core.com | 事实 |
-| 类型 | 六牌官方分销 wholesale ISP | 事实（CSV 名录口径） |
-| 关键人 | Triple Core | 事实 |
+| 名称 | PEC SISTEMI d.o.o.（tehnox.si）（CSV 原样；登记名以调研为准） | 事实 |
+| 国家/城市 | 斯洛文尼亚 | 事实 |
+| 网站 | tehnox.si | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Reseller） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
-| 商业模式 | 六牌官方分销 wholesale ISP | 【推断】 |
+| 商业模式 | Digitus 总进口+MikroTik 分销 25 年 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
 
@@ -64,15 +63,15 @@ updated: 2026-10-06
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：—
-  - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+972 2 372 2666 
-- **原始联系字段**：+972 2 372 2666 / info@triple-core.com
+- **邮箱**：info@tehnox.si
+  - 状态：official-company
+- **电话**：+386 2 250 2235
+- **原始联系字段**：+386 2 250 2235 / info@pec-sistemi.si
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Triple Core**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -102,16 +101,16 @@ updated: 2026-10-06
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 【2026-10-06 R63 B升A】六牌官方分销 wholesale ISP画像 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | 【2026-10-06 R63 B升A】Digitus 总进口+MikroTik 分销 25 年画像 |
 
 - **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
 
-- **S**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-038；理由:六牌官方分销(MikroTik/Ubiquiti/RF Elements/MaxLink/MasterLAN/Cudy)+4000+客户 wholesale ISP;CRS318 PoE 交换机在售
+- **S**：通用分销商信号，无差异化切入点，慢慢跟 【2026-10-06 R63 B升A批复第1波】原 B-220；理由:Digitus 总进口+MikroTik/Ubiqi 官方分销 25 年,heX/RB4011/wAP 在售
 - **W**：公开信息有限
-- **O**：P1 场景切入（【2026-10-06 R63 B升A】六牌官方分销 wholesale ISP画像）
+- **O**：P1 场景切入（【2026-10-06 R63 B升A】Digitus 总进口+MikroTik 分销 25 年画像）
 - **T**：现有供应商惯性；价格竞争。
 
 ## 触达与风险红线
@@ -131,8 +130,8 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
-| 触达通道 | ❓ 缺邮箱 |
+| 决策人识别 | ❓ |
+| 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
@@ -149,9 +148,9 @@ updated: 2026-10-06
 **主题**：24-port PoE + 10G uplinks for your larger sites
 
 ```text
-Hi Triple,
+Hi PEC,
 
-I came across Triple Core - 六牌官方分销 wholesale ISP.
+I came across PEC SISTEMI d.o.o.（tehnox.si） - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,83 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Triple core(Jerusalem 耶路撒冷;triple-core.com;MikroTik Reseller;公开足迹薄(搜索被同城 Ronitek 强势谱遮蔽))
-- 【推断】耶路撒冷小型 Reseller;活跃度与谱未验
-- 【假设】守档备养:活跃度快验后再定(若活跃→STC-424 模板同 Ronitek;若不活→放盘)
-
-**SWOT 速描**
-- **S**: 耶路撒冷区位
-- **W**: 足迹薄
-- **O**: 验活后 value 位
-- **T**: 失联/停业
-
-**证据（quote → 来源）**
-- 「CSV:MikroTik 官方分销 Reseller;Jerusalem;info@triple-core.com」 — 客户名单_反向信号_2026-09.csv
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `CONSULT-OEM` — 耶路撒冷小 Reseller 活跃验证先行:验活后按 STC-424 模板激活
-- 第一问: (先验活跃)你们架上 PoE 接层现供哪家?
-- 标签: 以色列|耶路撒冷|小Reseller|活跃验证
-
-**备养出信稿（未触发，供后续用户启用参考）**
-> 【备养】活跃验证(D+7 电话/网站快验)后按 value PoE 模板出信。
-
-**待补证清单**
-1. 活跃经营佐证
-2. 谱与量级
-
-**跟进建议（守档节奏）**
-- D+7 活跃度快验
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-038 → 新号 A-571,原 B 编号释放回池)
-
-**评级依据**：六牌官方分销(MikroTik/Ubiquiti/RF Elements/MaxLink/MasterLAN/Cudy)+4000+客户 Wholesale ISP;CRS318 PoE 交换机在售
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"triple-core.com": ["alt1.aspmx.l.google.com", "alt2.aspmx.l.google.com", "aspmx.l.google.com", "aspmx2.googlemail.com", "aspmx3.googlemail.com"]}
-**KP**:人名未取得 → **待定**(下波换 Apollo/ContactOut 导出或官网团队页再挖)
-
-**备注**:KP 人名未取得→待定
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**结论**:Triple Core 补漏第二轮:官网仅 support@ 与 [email protected] 占位;两条 WhatsApp 移动线(+970 59 498 1993 / +972 50 944 2228)可作 KP 直通渠道;人名仍待定
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:—(人名待定,走职能口)(—)
-**通道**:Support@triple-core.com(官网公开)+ WhatsApp +970 59 498 1993
-
-**主题**:PoE+ switching tier beside your six vendor lines
-
-```text
-Hello Triple Core team,
-
-Six authorized lines - MikroTik, Ubiquiti, RF elements, MaxLink, MasterLAN, Cudy - and 4,000+ wholesale ISP clients across Ramallah and Jerusalem means your PoE volumes are real.
-
-We manufacture one thing seriously: 24-port Gigabit PoE+ managed switch, 280W, 4x10G SFP+ uplinks, ERPS<20ms, watchdog. Neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - notably under your CRS318 shelf.
-
-One question: which 24-port PoE model leads your wholesale numbers today - and would a documented evaluation unit be useful to your purchasing team?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

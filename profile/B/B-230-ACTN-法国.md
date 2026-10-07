@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostra…
+- **是谁**：ACTN（法国；R65 搜索谱不实净——MICROTIC Cayenne/MIKIT 同名噪声已排除；守档准由）…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 法式 Master+自牌血统(OEM 咬合基因）:自牌之外的 value PoE 楼价补位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ACTN（法国；R65 搜索谱不实净——MICROTIC Cayenne/MIKIT 同名噪声已排除；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/Au 品牌代理;2024 起办「Tour de France ACTN」六城路演(Bayonne/Nantes/Aix/Toulouse/Lyon/Paris);谱面=réseau filaire/sans fil/cabling/video surveillance/stockage/protection data/téléphonie
+- 【事实】ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/Au 品牌代理;2024 起办「Tour de France ACTN」六城路演(Bayonne/Nantes/Aix/Toulouse/Lyon/Paris);谱面=réseau filaire/sans fil/cabling/video surveillance/stockage/protection data/téléphonie | R65 深挖:同名噪声排除后守档准由
 - 【推断】ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱
 - 【假设】开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页
 
@@ -110,9 +110,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/Au 品牌代理;2024 起办「Tour de France ACTN」六城路演(Bayonne/Nantes/Aix/Toulouse/Lyon/Paris);谱面=réseau filaire/sans fil/cabling/vide
+- **背景深描**：ACTN（法国；R65 搜索谱不实净——MICROTIC Cayenne/MIKIT 同名噪声已排除；守档准由）
 - **芯片与在用型号**：【推断】ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱
 - **关键人KP**：—
 - **关注点与资质**：MikroTik（Master） 
@@ -127,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, tél
   > Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, téléphonie
   > 来源：https://www.distributique.com/actualites/lire-tour-de-france-actn-12361.html
+- **【R65 查询注】**2026-10-07 搜索无谱本体净果（Cayenne MICROTIC/Rueil Malmaison MIKIT 同名他人已排除）;R65 守档准由
+  > (web_search 2026-10-07：同名他人盲目排除）
+  > 来源：（沙箱核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

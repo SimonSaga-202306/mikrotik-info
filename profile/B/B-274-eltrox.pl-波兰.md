@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备…
+- **是谁**：ELTROX Sp. z o.o.(Częstochowa ul. Warszawska 74;NIP 6462490527, KRS 0000175807, REGON 276916481；股本 560K zł;**Z…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpiecz | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ELTROX Sp. z o.o.(Częstochowa ul. Warszawska 74;NIP 6462490527, KRS 0000175807, REGON 276916481；股本 560K zł;**Zbigniew Dąbrowski = Prezes Zarządu(董事会主席)**;Barbara Otolińska 大股东（504/ | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】40 门店安防巨头=安装商客户当天提货网络;监控/报警安装商的核心随单就是 PoE 交换机;其 MikroTik 在架以路由/CRS 为主,PoE 专业档稀缺;体量堪比西班牙波 DMI 但谱更聚焦安防 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作
+- 【事实】Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作 | R65 深挖:Częstochowa 大国谱；Otolińska 家族结构 90% 股主
 - 【推断】40 门店安防巨头=安装商客户当天提货网络;监控/报警安装商的核心随单就是 PoE 交换机;其 MikroTik 在架以路由/CRS 为主,PoE 专业档稀缺;体量堪比西班牙波 DMI 但谱更聚焦安防
 - 【假设】开口角度=「安防巨头的监控/报警安装商随单 PoE 走量位」:STC-424 做 40 门店架的 24 口 280W 安装商档,批发号+dropshipping 管道对口
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Zbigniew Dąbrowski | Prezes Zarządu（主席） | 经 eltrox.pl/finanse@eltrox.pl | aleo/KRS 双源实名 | https://aleo.com/int/company/eltrox-pl |
+| Barbara Otolińska | 大股东（90%) | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik
+- **背景深描**：ELTROX Sp. z o.o.(Częstochowa ul. Warszawska 74;NIP 6462490527, KRS 0000175807, REGON 276916481；股本 560K zł;**Zbigniew Dąbrowski = Prezes Zarządu(董事会主席)**;Barbara Otolińska 大股东（504/560 股=90%);Wiktor Dąbrowski 小股东；Michał Piotr Dawid 理事；电信设备配件谱
 - **芯片与在用型号**：【推断】40 门店安防巨头=安装商客户当天提货网络;监控/报警安装商的核心随单就是 PoE 交换机;其 MikroTik 在架以路由/CRS 为主,PoE 专业档稀缺;体量堪比西班牙波 DMI 但谱更聚焦安防
-- **关键人KP**：—
+- **关键人KP**：Zbigniew Dąbrowski = Prezes Zarządu(董事会主席);Barbara Otolińska 大股东（90%)
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:安防巨头+40 门店+多渠道+1000 人 / W:谱宽采购决策分层多 / O:监控安装随单 24 口 PoE 走量位 / T:Hikvision/Dahua 绑定件挤压
 - **Saga产品适配**：波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**monitoring, systemy alarmowe, automatyka domowa, smart home, odnawialne źródła energii, fotowoltaika, sieci komputerowe, IT, TV i multimedia
   > monitoring, systemy alarmowe, automatyka domowa, smart home, odnawialne źródła energii, fotowoltaika, sieci komputerowe, IT, TV i multimedia…Dropshipping z hurton…Firmy instalatorskie
   > 来源：https://www.eltrox.pl/sprzet-it/sieci-komputerowe/mikrotik/akcesoria.html
+- **【R65 商业登记】**ELTROX KRS 0000175807 · NIP 6462490527 · Częstochowa Warszawska 74 · Z.Dąbrowski Prezes+ B.Otolińska 90% 大股东
+  > Zbigniew Dąbrowski Prezes Zarządu … Barbara Otolińska 504 udziały … ELTROX sp. z o.o. z siedzibą w Częstochowie (KRS, 0000175807 NIP 6462490527)
+  > 来源：https://aleo.com/int/company/eltrox-pl
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:安防巨头+40 门店+多渠道+1000 人 / W:谱宽采购决策分层多 / O:
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

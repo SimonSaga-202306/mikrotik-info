@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitco…
+- **是谁**：H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由）…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Hitcom 系电商谱的商用 PoE 补位档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@for | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com)
+- 【事实】H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com) | R65 深挖:科索沃谱守档准由
 - 【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
 - 【假设】开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
 
@@ -110,9 +110,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com)
+- **背景深描**：H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由）
 - **芯片与在用型号**：【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
 - **关键人KP**：—
 - **关注点与资质**：MikroTik（Reseller） 
@@ -127,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com
   > Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com
   > 来源：https://hitcom.mk/consumer/
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

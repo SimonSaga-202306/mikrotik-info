@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**…
+- **是谁**：LTD "Intellcom Group"(42 Tereverko St., Tbilisi 0159（展厅/服务）/ 5 Shalva Gogidze St.(仓储）, Georgia;+995 32 298 984…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 话机+无线双谱 VAD 的 PoE 随单管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | LTD "Intellcom Group"(42 Tereverko St., Tbilisi 0159（展厅/服务）/ 5 Shalva Gogidze St.(仓储）, Georgia;+995 32 298 9849, sale@intellcom.net;**Lali Mekvabishvili = Managing Director(DnB 实名） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net)
+- 【事实】Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net) | R65 深挖:格鲁吉亚 IT 大院谱；Mekvabishvili MD 实名
 - 【推断】通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层
 - 【假设】开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Lali Mekvabishvili | Managing Director | sale@intellcom.net / +995 32 298 9849 | DnB 实名 + intellcom.ge 官网双源 | https://www.dnb.com/business-directory/company-profiles.intellcom_ltd.c9b2e76df80f45ef07f0094466b87605.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net)
+- **背景深描**：LTD "Intellcom Group"(42 Tereverko St., Tbilisi 0159（展厅/服务）/ 5 Shalva Gogidze St.(仓储）, Georgia;+995 32 298 9849, sale@intellcom.net;**Lali Mekvabishvili = Managing Director(DnB 实名）**;谱型=格鲁吉亚 IT/安防/太阳能/光 大谱批发——MikroTik/Ubiquiti/Uniview/KSTAR/Leoch/Fortinet/Sumitomo/DRAKA/ZTT/Mirsan 等多品牌谱开 + 自建太阳能 UPS WiFi 设计服务谱位
 - **芯片与在用型号**：【推断】通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层
-- **关键人KP**：—
+- **关键人KP**：Lali Mekvabishvili = Managing Director
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:Ubiquiti 官分+话机谱双强 / W:单国体量 / O:桌面话机 PoE 随单放量 / T:双牌内斗挤压带宽
 - **Saga产品适配**：话机+无线双谱 VAD 的 PoE 随单管理档
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uni
   > partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uniview
   > 来源：https://ge.linkedin.com/company/intellcomgroup
+- **【R65 实体/实名】**LTD Intellcom Group Tbilisi 42 Tereverko St.;MikroTik/Ubiquiti 多谱批发；Mekvabishvili MD 实名
+  > Intellcom Ltd … Key Principal: Lali Mekvabishvili, Managing Director … LTD "Intellcom Group" 42 Tereverko St. Tbilisi 0159 Georgia sale@intellcom.net +995 32 298 9849
+  > 来源：https://www.intellcom.ge/en/contact/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:Ubiquiti 官分+话机谱双强 / W:单国体量 / O:桌面话机 PoE 随单�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

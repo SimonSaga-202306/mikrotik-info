@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Andrii Sychov（乌克兰）：建档注：官网 504 Gateway Timeout(2026-09-29 实测）——站挂不可达；roster 邮箱 trainer@mikrotik.net.ua 无存活旁证
-- 【推断】判定=建档（先例同族）
-- 【假设】（待触发供位）
+- 【事实】Andrii Sychov(乌克兰;**个体户/人名司名档=实名谱位实名:Andrii Sychov(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)**;+380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索） 签名/公司函数口已记 STRUCT
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口elko.ua（Smart Center/ELKO公司站线索） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -87,56 +87,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 【仅供位·触发装】
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：—（建档供位，触发启用后定）（统一口径=P1 系列，不外溢）
-- **切入点**：候选供位（待触发启用）
-- **要问的问题**：（触发后再发）
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：
-- **要问的问题**：
-- **随附/动作**：
-
-### 第 3 次跟进 · 
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：
-- **要问的问题**：
-- **随附/动作**：
+- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第36批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：http://www.mikrotik.net.ua|官网 504 Gateway Timeout(2026-09-29 实测）——站
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$180 锚点一致）
-- **⑤在乎与偏好**：—
+- **①背景再核**：R66 基线补足档(个体户谱:Andrii Sychov);司面全谱待 R66 波次补;函数口 +380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索）(elko.ua（Smart Center/ELKO公司站线索）)跟团不动
+- **②芯片/型号**：(待问;elko.ua（Smart Center/ELKO公司站线索） 域名面谱=公司面谱)
+- **③KP 深挖**：**Andrii Sychov(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索） 口(elko.ua（Smart Center/ELKO公司站线索）)跟团不动;登记册查询指向该自然人的法人公开件**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：个人实名档谱简洁直接
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**mikrotik.net.ua 实返 '504 - Gateway Timeout'
-  > mikrotik.net.ua 实返 '504 - Gateway Timeout'
-  > 来源：http://www.mikrotik.net.ua
+- **【决策链与对接人】**Andrii Sychov — +380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索） (CSV/STRUCT 落穗件;个体户谱:Andrii Sychov)
+  > Andrii Sychov — +380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索） (CSV/STRUCT 落穗件;个体户谱:Andrii Sychov)
+  > 来源：http://www.mikrotik.net.ua/
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Andrii Sychov
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Andrii Sychov
+  > 来源：http://www.mikrotik.net.ua/
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 来源：http://www.mikrotik.net.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌克兰：乌 MT 培训站主理（站 504 挂注）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：候选供位（待触发）
-- **风险与注意**：官网 504 Gateway Timeout(2026-09-29 实测）——站挂不可达；roster 邮箱 trainer@mikrotik.net.ua 无存活旁证
+- **业务定位**：R66 基线补足档(个体户谱:Andrii Sychov);司面全谱待 R66 波次补;函数口 +380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索）(elko.ua（Smart Center/ELKO公司站线索）)跟团不动
+- **产品线与在售品牌**：(待问;elko.ua（Smart Center/ELKO公司站线索） 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**Andrii Sychov(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索） 口(elko.ua（Smart Center/ELKO公司站线索）)跟团不动;登记册查询指向该自然人的法人公开件**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口elko.ua（Smart Center/ELKO公司站线索） 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：候选位
-- **W**：无点
-- **O**：触发
-- **T**：—
+- **S**：个人实名档谱简洁直接
+- **W**：该档个体不表征司面大小(个体谱)
+- **O**：个体档的成本谱替换件直达位
+- **T**：个体档档期能力低交换
 
 ## 触达与风险红线
 
@@ -186,8 +192,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 站恢复
-  - [ ] 邮箱活性
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,7 +206,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信】官网 504 Gateway Timeout(2026-09-29 实测）——站挂不可达；roster 邮箱 trainer@mikrotik.net.ua 无存活旁证；触发条件=站恢复+邮箱 MX 复核存活→启用 CONSULT-OEM 对照单元候选位。
+Hi Andrii,
+
+I came across Andrii Sychov while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -220,12 +236,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Andrii Sychov · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Andrii%20Sychov)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)

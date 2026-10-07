@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ …
+- **是谁**：HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Kei…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-227→B-528】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Keith Jeminen + Andreas Luther = 联合创始（30+ 年合并经验），Andreas Luther = Co-Foun | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构)
+- 【事实】HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱
 - 【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE
 - 【假设】开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Andreas Luther | Co-Founder & CEO | info@hightechnordic.com | Tracxn + imap 双源实名 | https://tracxn.com/d/companies/hightech-nordic/__h-gXUOxgKfE5SzYDWYemsjeX6xhGPO-AQIwa3ruQCRc |
+| Keith Jeminen | Co-Founder | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
 
-- **背景深描**：HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构)
+- **背景深描**：HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Keith Jeminen + Andreas Luther = 联合创始（30+ 年合并经验），Andreas Luther = Co-Founder & CEO**;谱型=工业 PC/Embedded/数位标牌/医疗电脑/展示备件门——年 3,000+ 定制系，-40°C 北地到沙坚谱在各业（基础/工业/国防/海事/零售/自动化）;info@hightechnordic.com / +46(0)10-177 58 00
 - **芯片与在用型号**：【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE
-- **关键人KP**：—
+- **关键人KP**：Andreas Luther = Co-Founder & CEO(PrimoTech 收购同位）;Keith Jeminen = Co-Founder
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他
 - **Saga产品适配**：ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)
@@ -128,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:分销(ORing 授权),瑞典工业分销
   > CSV:分销(ORing 授权),瑞典工业分销
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 收购/实名】**HighTech Nordic AB · Norrtälje 2017 创 · Luther+Jeminen 30+年谱联创 · 2024-05-13 PrimoTech 收购；工业 PC/Embedded 亿级定制
+  > HighTech Nordic is an acquired company based in Norrtalje (Sweden), founded in 2017 by Keith Jeminen and Andreas Luther … Andreas Luther: Co-Founder & CEO … Acquired by Primotech (May 13, 2024)
+  > 来源：https://tracxn.com/d/companies/hightech-nordic/__h-gXUOxgKfE5SzYDWYemsjeX6xhGPO-AQIwa3ruQCRc
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +165,7 @@ S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing �
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

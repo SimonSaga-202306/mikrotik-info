@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, o
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -242,16 +242,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Frederic Gauthier · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Frederic%20Gauthier)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**结论**:Frederic Gauthier(加拿大):同名三位(魁北克机电咨询/蒙特利尔 Walter Surface),未锁定 MikroTik 关联 → 待定

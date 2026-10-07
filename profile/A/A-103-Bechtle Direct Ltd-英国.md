@@ -72,8 +72,8 @@ updated: 2026-09-28
 
 - **邮箱**：sales.uk@bechtle.com
   - 状态：既有/公开
-- **电话**：—
-- **原始联系字段**：sales.uk@bechtle.com（⚠️ **Bechtle 在本项目的规模排除名单内**（与 ALSO/Arrow/Ingram/TD SYNNEX 同类）。另有 uk@bechtle.com(发不过去·2026-09-29 退信:地址不存在 not-found)、sales@bechtle.co.uk。建议降级或剔除，请用户裁决）
+- **电话**：2026-09-29、2026-09-29
+- **原始联系字段**：sales.uk@bechtle.com（⚠️ **Bechtle 在本项目的规模排除名单内**（与 ALSO/Arrow/Ingram/TD SYNNEX 同类）。uk@bechtle.com【已停用：2026-09-29 退信 not-found】、sales@bechtle.co.uk。【2026-09-29 退信批裁决】仅归档不外溢、不主动开发）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
@@ -246,14 +246,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
-> 找新邮箱方法(R60 用户授权留存):① 官网 contact/about 页重扫;② Hunter.io 扫域名公开邮箱;③ 领英私信 KP(本档 R60 区块有直达链);④ 按 firstname.lastname@域名 格式推断并用 verify 工具核;⑤ 总机电话转 KP 直线
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Bechtle Direct Ltd · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Bechtle%20Direct%20Ltd)(无具名 KP 信号,先搜公司再加人;待查)
-- **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

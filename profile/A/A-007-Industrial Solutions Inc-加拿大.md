@@ -245,12 +245,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Industrial Solutions Inc · 领英公司页](https://ca.linkedin.com/company/industrialsolutionsinc)(既有证据链接,来源:档案;公司页进群后可挑 KP 添加)
-- **中国进口与管制**:国别档位 高(2022 禁华为 5G;企业层警惕,话术同上);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对;工业锚(Moxa/Westermo 类)提及 → Marvell 工业谱同源,STI-288GP 强对口
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

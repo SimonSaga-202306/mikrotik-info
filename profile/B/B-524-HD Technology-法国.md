@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS …
+- **是谁**：HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；199…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-210→B-524】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdt | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05  | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**)
+- 【事实】HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022
 - 【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传
 - 【假设】开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05 在任，1964-10 生 61 岁）**;503 BROADWAY(SIREN 539109082)= Président 法人（2022-06-30 在任）;10-19 员工，€1-2M 营收 monreseau-it；小老谱 1993
 
 ## 联系方式（已有/猜测分标）
 
@@ -82,7 +82,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Denis Richard | Directeur Général（总经理） | 经 hdtechnology.fr / +33 472146890 | pappers + monreseau-it 双源 | https://www.pappers.fr/entreprise/high-design-technology-hd-technology-390778769 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
 
-- **背景深描**：HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**)
+- **背景深描**：HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05 在任，1964-10 生 61 岁）**;503 BROADWAY(SIREN 539109082)= Président 法人（2022-06-30 在任）;10-19 员工，€1-2M 营收 monreseau-it；小老谱 1993
 - **芯片与在用型号**：【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传
-- **关键人KP**：—
+- **关键人KP**：Denis Richard = Directeur Général（2022 在任）;503 BROADWAY 法人主席位)
 - **关注点与资质**：N-Tron + Red Lion 
 - **优缺点SWOT**：S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-288GP 第 2 源或 STI-288GP OEM 变体系 / T:Red Lion 售供血脉
 - **Saga产品适配**：法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源
@@ -129,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président
   > HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président
   > 来源：https://www.manageo.fr/entreprises/390778769.html
+- **【R65 登记/实名】**HD TECHNOLOGY Bron(Lyon) 390778769 · 1993 创 · Denis Richard DG 2022 · €1-2M/10-19 谱位
+  > Denis Richard Directeur général 61 ans - 10/1964 Depuis le 05/08/2022 … High Design Technology - Hd Technology : Édition de logiciels applicatifs … Effectif: 10 à 19 salariés, Chiffres d'affaires: 1 à 2 M€
+  > 来源：https://www.monreseau-it.fr/revendeur/hd-technology-390778769.htm
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +165,7 @@ S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

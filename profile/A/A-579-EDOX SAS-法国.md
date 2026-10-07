@@ -37,8 +37,7 @@ updated: 2026-10-06
 | 名称 | EDOX SAS（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 法国 | 事实 |
 | 网站 | edox.com | 事实 |
-| 类型 | MikroTik Master 官方名录 | 事实（CSV 名录口径） |
-| 关键人 | EDOX SAS | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Master） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | MikroTik Master 官方名录 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：commercial@edox.com
   - 状态：official-company
-- **电话**：03 89 310 620 
-- **原始联系字段**：commercial@edox.com
+- **电话**：03 89 310 620
+- **原始联系字段**：03 89 310 620 / commercial@edox.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **EDOX SAS**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi EDOX,
 
-I came across EDOX SAS - MikroTik Master 官方名录.
+I came across EDOX SAS - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,107 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】EDOX SAS(Burnhaupt-le-Haut 68520 阿尔萨斯 Z.I de la Doller 1 rue Forêt Noire):**官方 MikroTik Master(altostrat 名录)**;「100% indirecte」纯间接渠道 IT 批发商;在架 MikroTik 极深(RDS2216-2XG-4S+4XS-2XQ 数据中心类/CCR2004-16G-2S+/C52IG-5HAXD2HAXD/wAP LTE6/RBGPOE-CON-HP)
-- 【推断】EDOX 是阿尔萨斯老区 Master 纯间接（只做 B2B 集成商客户，不卖最终）;RDS2216(企业级 NVME 数据服务器）在架=谱深到数据中心级;CCR2004/C52IG/wAP 多层谱
-- 【假设】开口角度=「法 Master 纯间接商的 value PoE 档配 2 供位」——STC-424 以其集成商谱随单+半 Have 价数字位预案
-
-**SWOT 速描**
-- **S**: Master+RDS 深谱+纯间接100%
-- **W**: 间接渠道独立档难拉
-- **O**: STC-424 集成商随单 value 位
-- **T**: 渠道上下洞察
-
-**证据（quote → 来源）**
-- 「EDOX SAS Master Distributors BURNHAUPT LE HAUT France」 — https://altostrat.io/buying/hardware/resellers/europe/france
-- 「Mikrotik Enterprise Data server 20 NvVMe 2x100G 4x25G 4x10G…RDS2216-2XG-4S+4XS-2XQ…CCR2004-16G-2S+」 — https://www.edox.com/Webshop/advancedSearchResults.aspx?catfilter=%7C_GENERAL.MANUFACTURER%3D@MKT
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — 法 Master 纯间接商的 value PoE 档随单位(RDS 深谱对照寸 fond)
-- 第一问: 你们承接其集成商 BOM 里 PoE 接层现随哪单发？2 供位考虑？
-- 标签: 法国|阿尔萨斯|Master|纯间接100%
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi EDOX team,
-
-A hundred-percent indirect wholesale Master with a MikroTik shelf deep enough to include the RDS2216 enterprise tier - on-site you are building the business structure for B2B integrators, not for shelf browsing.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - the value PoE stocking line your B2B integrators can pull on together with the MikroTik shelf.
-
-One question: downstream inside your integrator BOMs, which PoE access switch is riding alongside the MikroTik gear today - and is there a slot for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 谱 RDS2216 在业务类自业价值轮沓流？
-2. 对客户集成商谱 PoE 接层随单深度
-
-**跟进建议（守档节奏）**
-- D+3 纯间接商价值 PoE 随单页
-- D+14 commercial@edox.com 具名
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第4波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-238 → 新号 A-579,原 B 编号释放回池)
-
-**评级依据**：MikroTik Master Distributor 官方名录,Burnhaupt-le-Haut
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"edox.com": ["edox-com.mail.protection.outlook.com"]}
-- **Lionel Weckerle** — 采购部负责人(responsable service achats,3 人团队)（源:https://www.linkedin.com/in/lionel-weckerle/）
-  - `lionel@edox.com`(first@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `lionel.weckerle@edox.com`(first.last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `l.weckerle@edox.com`(f.last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `lionelweckerle@edox.com`(firstlast@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `lweckerle@edox.com`(flast@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `weckerle@edox.com`(last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **David Hugueny** — 商务(3 年+在职,MikroTik 技术培训常客)（源:https://www.linkedin.com/in/david-hugueny/）
-  - `david@edox.com`(first@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `david.hugueny@edox.com`(first.last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `d.hugueny@edox.com`(f.last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `davidhugueny@edox.com`(firstlast@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `dhugueny@edox.com`(flast@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `hugueny@edox.com`(last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:采购 KP=Lionel Weckerle 最对口
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Lionel Weckerle(采购部负责人)
-**通道**:l.weckerle@edox.com(候选系;或 commercial@edox.com 转交)
-
-**主题**:24-port PoE+ with 10G uplinks for the EDOX shelves
-
-```text
-Hi Lionel,
-
-As purchasing lead for EDOX's networking lines, you'll know where the margins hide on 24-port managed PoE.
-
-We manufacture a 24-port Gigabit PoE+ switch (280W budget, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog) under full neutral/white-label terms. Reference: $180 USD EXW (2026-10-07, valid 15 days) - built to sit between your MikroTik CRS and the premium brands.
-
-One question: which model currently carries that value tier at EDOX - and would a documented evaluation unit earn a place on your bench?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

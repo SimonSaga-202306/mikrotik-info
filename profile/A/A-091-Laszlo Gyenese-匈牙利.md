@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, o
 p1: STC-28DGGPM
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -260,18 +260,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Academy Trainer · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Academy%20Trainer%20Laszlo%20Gyenese)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**结论**:MUM 课件自曝:gyenese.laszlo@digisoftnet.hu 与 info@mikrotikgyor.hu,+36 20 993-7980;digisoftnet.hu 自有谱
-- **Laszlo Gyenese** — 本人:MikroTik Trainer+Academy Trainer,Öttevény,匈牙利本国头部培训家（源:https://www.mikrotikgyor.hu/download/netbasic.pdf）
-  - 邮箱:gyenese.laszlo@digisoftnet.hu（official-self-published(MUM 课件自曝)）

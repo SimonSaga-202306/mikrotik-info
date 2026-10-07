@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na te…
+- **是谁**：NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Miš…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 独家 Master+WISP 自营的双谱 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**; | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Mišević = Izvršni direktor(执行董事） & 50% 业主；Slobodan Lalić = 50% 业主 & Ovlaš | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com)
+- 【事实】Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com) | R65 深挖:黑山 Bar 无线电信实体双 50% 业主
 - 【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
 - 【假设】开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Vasilije Mišević | Izvršni direktor(50% 业主） | 经 netmont.me | companywall.me 实名 | https://www.companywall.me/firma/netmont/MMxsQfYC |
+| Slobodan Lalić | Vlasnik(50%)+Ovlašćeni zastupnik | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批补18.json`；价格均为 EXW 快照。
 
-- **背景深描**：Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com)
+- **背景深描**：NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Mišević = Izvršni direktor(执行董事） & 50% 业主；Slobodan Lalić = 50% 业主 & Ovlašćeni zastupnik(授权代表）**;谱型=Kdžičd 6120 Bežične telekomunikacije（黑山无线电信——Montenegro MikroTik 谱波长对应！)
 - **芯片与在用型号**：【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
-- **关键人KP**：—
+- **关键人KP**：Vasilije Mišević = Izvršni direktor(50%);Slobodan Lalić = 业主（50%)& Ovlašćeni zastupnik
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 / T:总量天花板低
 - **Saga产品适配**：独家 Master+WISP 自营的双谱 PoE 随单位
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376
   > Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376
   > 来源：https://altostrat.io/buying/hardware/resellers/europe/montenegro
+- **【R65 凶件/实名】**NETMONT d.o.o. Bar 2017-10-10 创 · PIB 03157601 · Mišević 50% exek + Lalić 50% 代表 · šifra 6120 无线电信
+  > Trenutni direktor tvrtke je VASILIJE MIŠEVIĆ. Vlasnik tvrtke je SLOBODAN LALIĆ(50,00%) … Vlasnik VASILIJE MIŠEVIĆ(50,00%), Osnivač … Osnovna djelatnost registrirana pod šifrom 6120 - Bežične telekomunikacije
+  > 来源：https://www.companywall.me/firma/netmont/MMxsQfYC
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

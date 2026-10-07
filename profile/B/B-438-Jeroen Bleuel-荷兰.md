@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站)…
+- **是谁**：Jeroen Bleuel(荷兰；R65 搜索无果——溴名通 digifotopro 等同名噪声=守档准由)…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 三语三证个人顾问备养:具名通道,跨境谱信号再激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Jeroen Bleuel(荷兰；R65 搜索无果——溴名通 digifotopro 等同名噪声=守档准由) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站)
+- 【事实】Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站) | R65 深挖:同名噪声=守档准由
 - 【推断】三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户
 - 【假设】守档备养:具名引见;三语=若其客户谱含德国边界企业,是荷德双区观察口
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站)
+- **背景深描**：Jeroen Bleuel(荷兰；R65 搜索无果——溴名通 digifotopro 等同名噪声=守档准由)
 - **芯片与在用型号**：【推断】三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE 
@@ -117,6 +117,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE;英德荷三语
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE;英德荷三语
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜出同名噪声（digifotopro 同名，不采信）;R65 守档准由
+  > (web_search 2026-10-07：同名者 digifotopro 用户，与 MikroTik 无联）
+  > 来源：(沙箱核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

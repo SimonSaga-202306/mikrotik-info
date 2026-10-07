@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 …
+- **是谁**：M.A.C. Solutions (UK) Limited(Companies House 03762835,1996 创;**David Porter = Chief Executive Officer;Ian Bai…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-284→B-532】官网 /contact-us/ 正文可见（官网 .net 域列 .co.uk 邮箱）；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 英国 Red Lion/N-Tron 老牌 IDC 分销的 DIN 轨 value 第二源(参照 HD Technology 模板)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Etherne | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | M.A.C. Solutions (UK) Limited(Companies House 03762835,1996 创;**David Porter = Chief Executive Officer;Ian Bailey = Director(1980 生，2020-09 在任)+ John Edward Bailey = Director(1953  | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/cyberbytes);客户=交通/监控/基础设施/自动化+OEM/machine builders
+- 【事实】MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/cyberbytes);客户=交通/监控/基础设施/自动化+OEM/machine builders | R65 深挖:工业自动化英国 1996 创;Bailey 双董事血统
 - 【推断】同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业
 - 【假设】开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈
 
@@ -82,7 +82,11 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ian Bailey | Director(2020-09 在任) | 经 mac-solutions.net | Companies House 03762835 实名 | https://find-and-update.company-information.service.gov.uk/company/03762835/officers |
+| John Edward Bailey | Director(2020-09 在任) | 同上 | 同上 | 同上 |
+| David Porter | Chief Executive Officer | 同上 | ZoomInfo 自曝 | https://www.zoominfo.com/c/mac-solutions/354379890 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +116,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/c
+- **背景深描**：M.A.C. Solutions (UK) Limited(Companies House 03762835,1996 创;**David Porter = Chief Executive Officer;Ian Bailey = Director(1980 生，2020-09 在任)+ John Edward Bailey = Director(1953 生,2020-09 在任)**;工业自动化/过程连接 cyber 英国老谱——mac-solutions.net 主域;Moxa/Anybus 等工业通讯线谱涵
 - **芯片与在用型号**：【推断】同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业
-- **关键人KP**：—
+- **关键人KP**：David Porter = CEO(ZoomInfo);Ian Bailey + John Edward Bailey = 双 Directors(Companies House FL)
 - **关注点与资质**：N-Tron + Red Lion + Anybus + Ewon 
 - **优缺点SWOT**：S:30 年 IDC 专注+OT 安全内容+法国办 / W:Red Lion 王牌位稳 / O:value DIN 轨第二源/OEM 变体 / T:Red Lion 直系排他
 - **Saga产品适配**：英国 Red Lion/N-Tron 老牌 IDC 分销的 DIN 轨 value 第二源(参照 HD Technology 模板)
@@ -129,6 +133,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches
   > Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches
   > 来源：https://www.bertelkamp.com/products/red-lion
+- **【R65 商业登记】**MAC Solutions UK Ltd 03762835 · 1996 创 · 工业自动化/过程连接 cyber · Ian Bailey + John E Bailey 双董事 · David Porter CEO
+  > BAILEY, Ian Role Active: Director Appointed on: 30 September 2020 … BAILEY, John Edward Role Active: Director … David Porter, Chief Executive Officer at MAC Solutions
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03762835/officers
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +167,7 @@ S:30 年 IDC 专注+OT 安全内容+法国办 / W:Red Lion 王牌位稳 / O:valu
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

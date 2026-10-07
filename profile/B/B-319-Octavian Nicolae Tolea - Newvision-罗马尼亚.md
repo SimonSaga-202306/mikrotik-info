@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MT…
+- **是谁**：Octavian Nicolae Tolea - Newvision(R65 搜索/核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档；守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 认证顾问备养:活跃验证后按顾问价值模板激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Octavian Nicolae Tolea - Newvision(R65 搜索/核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全**)
+- 【事实】Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全**) | R65 深挖:罗马尼亚谱（Newvision 同名谱生发）；R65 守档；R65 守档准由
 - 【推断】顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高
 - 【假设】开口角度=「顾问工具箱 value 档(无线场点 PoE 随单扣)」:先验活跃,激活后按顾问模板出信
 
@@ -106,9 +106,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全**)
+- **背景深描**：Octavian Nicolae Tolea - Newvision(R65 搜索/核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档；守档准由）
 - **芯片与在用型号**：【推断】顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高
 - **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCSE;SME/SOHO 网络设计实施支持;无线设计部署/PtP/Hotspot/站点隧道/网络安全
   > CSV:MikroTik 认证顾问 MTCNA+MTCSE;SME/SOHO 网络设计实施支持;无线设计部署/PtP/Hotspot/站点隧道/网络安全
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜索/同名核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档
+  > (R65 同名实体验证日志）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

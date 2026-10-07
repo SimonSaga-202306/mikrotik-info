@@ -34,11 +34,10 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Cy-Wireless art2soft（CSV 原样；登记名以调研为准） | 事实 |
+| 名称 | Cy-Wireless（art2soft）（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 塞浦路斯 | 事实 |
 | 网站 | prod.cy-wireless.com | 事实 |
-| 类型 | 六牌官方分销 | 事实（CSV 名录口径） |
-| 关键人 | Cy-Wireless art2soft | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Reseller） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | 六牌官方分销 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：info@cy-wireless.com
   - 状态：official-company
-- **电话**：+357 22 814 244 
-- **原始联系字段**：info@cy-wireless.com
+- **电话**：+357 22 814 244
+- **原始联系字段**：+357 22 814 244 / thomas.thoma@art2soft.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Cy-Wireless art2soft**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -149,9 +148,9 @@ updated: 2026-10-06
 **主题**：24-port PoE + 10G uplinks for your larger sites
 
 ```text
-Hi Cy-Wireless,
+Hi Cy-Wireless（art2soft）,
 
-I came across Cy-Wireless art2soft - 六牌官方分销.
+I came across Cy-Wireless（art2soft） - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,106 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】A.K. ART2SOFT LTD / CY-WIRELESS(Nicosia Lakatameia;2006 创,**起点即 Ubiquiti 分销面向 WISP 市场**;2009 扩路由交换,**2012 加 VoIP 谱(IP PBX/SIP 话机/网关)**,后加布线/UPS;自述 500+ 分销商/2000+ 客户/10000+ 项目;具名 Theodoulos Vikarios(采购与业务开发)、Timoleon Charilaou(销售工程师);thomas.thoma@art2soft.com)
-- 【推断】塞浦路斯 WISP→VoIP 专营分销:12+ 年 IP 话机谱=桌面话机 PoE 随单场景厚(Voicenter 逻辑),WISP 侧又带站点位
-- 【假设】开口角度=「话机+WISP 双谱的 PoE 随单位」:STC-424 主力档,具名 Theodoulos(采购)开口
-
-**SWOT 速描**
-- **S**: WISP+VoIP 双专谱 500+ reseller
-- **W**: 实体团队小(壳 4 人)
-- **O**: 桌面话机 PoE 随单放量
-- **T**: 单岛市场规模上限
-
-**证据（quote → 来源）**
-- 「ART2SOFT was founded in 2006 with its primary focus to distribute Ubiquiti wireless products primarily for the emerging WISP market … in 2012 to VoIP products including IP PBX systems, SIP phones, Gateways」 — https://prod.cy-wireless.com/index.php?route=information/contact
-- 「We serve over 500 resellers all over Cyprus … 2000+ Clients … 10000+ Projects Completed」 — https://art2soft.eu/
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — WISP+VoIP 专营分销的话机/站点 PoE 随单位
-- 第一问: 你们的 IP 话机/WISP 项目里,PoE 管理型交换现随哪家?
-- 标签: 塞浦路斯|Nicosia|WISP+VoIP专营|具名Theodoulos
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Theodoulos,
-
-From Ubiquiti WISP distribution in 2006 to a full VoIP line with IP PBX and SIP phones - your resellers deploy phones and radios, and both settle onto the same PoE switch. That makes the PoE line behind your catalog a quiet volume driver.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing catalog, white-label friendly.
-
-One question: for your IP telephony and wireless deployments, which managed PoE switch rides in the same order today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 话机谱 PoE 交换现供
-2. 全谱分销与白标接受度
-
-**跟进建议（守档节奏）**
-- D+3 话机谱 PoE 页
-- D+14 thomas.thoma@art2soft.com 开口(抄送具名 Theodoulos 角度)
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-105 → 新号 A-572,原 B 编号释放回池)
-
-**评级依据**：六牌官方分销(UBNT/MikroTik/Cambium/RF Elements/Fanvil/Yeastar),Cyprus 官方认证经销名录
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"art2soft.com": ["art2soft-com.mail.protection.outlook.com"], "cy-wireless.com": ["mail.cy-wireless.com"]}
-- **Thomas Thoma** — Managing Director(2006 至今)（源:https://rocketreach.co/thomas-thoma-email_51793668）
-  - `thomas@art2soft.com`(first@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thomas.thoma@art2soft.com`(first.last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `t.thoma@art2soft.com`(f.last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thomasthoma@art2soft.com`(firstlast@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `tthoma@art2soft.com`(flast@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thoma@art2soft.com`(last@(art2soft.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thomas@cy-wireless.com`(first@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thomas.thoma@cy-wireless.com`(first.last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `t.thoma@cy-wireless.com`(f.last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thomasthoma@cy-wireless.com`(firstlast@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `tthoma@cy-wireless.com`(flast@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `thoma@cy-wireless.com`(last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Thomas Thoma(Managing Director)
-**通道**:thomas.thoma@art2soft.com(名录源)/ info@cy-wireless.com(官网)
-
-**主题**:PoE switching for your WISP/ISP channel in Cyprus
-
-```text
-Hi Thomas,
-
-Six vendor lines through Nicosia - MikroTik, Ubiquiti, Cambium, RF elements, Fanvil, Yeastar - suggests your installers live on PoE budgets.
-
-We manufacture a 24-port Gigabit PoE+ switch (280W, 4x10G uplinks, ERPS<20ms, watchdog that cold-reboots frozen APs) under neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: which PoE switch do your Cyprus/WISP installers default to at 24 ports - and would a documented evaluation unit get a fair test at ART2SOFT?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

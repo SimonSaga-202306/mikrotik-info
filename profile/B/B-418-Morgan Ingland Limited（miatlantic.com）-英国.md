@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fo…
+- **是谁**：Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱； | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350
+- 【事实】Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350 | R65 深挖:伯明罕 ICT 大批发乱迈商 500 级员谱
 - 【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
 - 【假设】开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱；info@miatlantic.com
 
 ## 联系方式（已有/猜测分标）
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350
+- **背景深描**：Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱；info@miatlantic.com
 - **芯片与在用型号**：【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
-- **关键人KP**：—
+- **关键人KP**：—(Companies House MORGAN INGLAND LIMITED 董事名单 unpaid;R65 谱位+地址件已足，购购 kp 待定）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 280W 管理型 value 空档 / T:TP-Link/Ubiquiti 低价压
 - **Saga产品适配**：电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands
   > Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands
   > 来源：https://miatlantic.com/
+- **【R65 谱位】**Morgan Ingland Ltd Birmingham/London 100+ 品谱 ICT 批发 251-500 员工；miatlantic.com/us.miatlantic.com 双站营运
+  > Morgan Ingland is an advanced independent reseller of Information Technology related products … Headquarters: 418 Ladypool Rd, Birmingham, West Midlands, B12 8JZ … 251-500 … The company collaborates with over 100 top brands
+  > 来源：https://www.crunchbase.com/organization/morgan-ingland
 
 ## 产品决策（Saga · 单一决策口径）
 

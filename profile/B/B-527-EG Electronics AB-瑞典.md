@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Nor…
+- **是谁**：EG Electronics AB(Fagerstagatan 3, Spånga 16353, Stockholm;KONECTA 集团属；**Anders Nilsson = Subsidiary CEO / And…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-226→B-527】官网 /contact-us/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — KAMIC 集团 VAD 的 connectivity 板块 N-Tron 谱旁 DIN 轨 value 二源(OEM/机械制造客层对口)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Sol | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | EG Electronics AB(Fagerstagatan 3, Spånga 16353, Stockholm;KONECTA 集团属；**Anders Nilsson = Subsidiary CEO / Anders Jacobsson = Group CEO(集团口径）**;Jouni Telio KAM/Jonas Kallsten/Johan | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块
+- 【事实】EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块 | R65 深挖:KONECTA 北欧大谱 81 人；Nilsson+Jacobsson CEO 两谱线
 - 【推断】嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层
 - 【假设】开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- EG Electronics AB(Fagerstagatan 3, Spånga 16353, Stockholm;KONECTA 集团属；**Anders Nilsson = Subsidiary CEO / Anders Jacobsson = Group CEO(集团口径）**;Jouni Telio KAM/Jonas Kallsten/Johan Bjorkman 等 81 员工；谱型=北欧电子/机电部件分销 100+ 年血统，工业/运输/医疗/防务跨度；2025-10-01 收购 Acte Solutions 显示与系统业务；美国+中国办
 
 ## 联系方式（已有/猜测分标）
 
@@ -82,7 +82,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Anders Nilsson | Subsidiary CEO(EG Electronics AB) | 经 egelectronics.com | contactout + DnB 双源（DnB 名： Karl Olof Johnny Hedlund 管理层口径同步） | https://contactout.com/company/EG-Electronics-96339 |
+| Anders Jacobsson | Group CEO(KONECTA) | 同上 | egelectronics.com 2025-10-01 自曝 | https://egelectronics.com/news/expands-and-acquires-business-in-displays-and-system-solutions/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
 
-- **背景深描**：EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块
+- **背景深描**：EG Electronics AB(Fagerstagatan 3, Spånga 16353, Stockholm;KONECTA 集团属；**Anders Nilsson = Subsidiary CEO / Anders Jacobsson = Group CEO(集团口径）**;Jouni Telio KAM/Jonas Kallsten/Johan Bjorkman 等 81 员工；谱型=北欧电子/机电部件分销 100+ 年血统，工业/运输/医疗/防务跨度；2025-10-01 收购 Acte Solutions 显示与系统业务；美国+中国办
 - **芯片与在用型号**：【推断】嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层
-- **关键人KP**：—
+- **关键人KP**：Anders Nilsson = EG Electronics AB Subsidiary CEO(contactout/DnB);Anders Jacobsson = Group CEO(2025-10 收购新闻稿）
 - **关注点与资质**：N-Tron + Red Lion + Anybus 
 - **优缺点SWOT**：S:KAMIC 集团+8 国物流+OEM/机械制造客层 / W:connectivity 非主业 / O:N-Tron 旁 DIN 轨 value 位 / T:主业绑定显示谱
 - **Saga产品适配**：KAMIC 集团 VAD 的 connectivity 板块 N-Tron 谱旁 DIN 轨 value 二源(OEM/机械制造客层对口)
@@ -129,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectiv
   > We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectivity
   > 来源：https://egelectronics.com/markets/industrial-automation/
+- **【R65 集团/收购】**EG Electronics AB Spånga 81 人/跨工业医疗防务；2025-10-01 收购 Acte Solutions 显示系统业务；KONECTA 大谱
+  > "says Anders Jacobsson, CEO, EG Electronics AB" … The acquisition takes effect on October 1, 2025 … EG Electronics AB is a leading Nordic supplier of advanced electronic and electromechanical components
+  > 来源：https://egelectronics.com/news/expands-and-acquires-business-in-displays-and-system-solutions/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +166,7 @@ S:KAMIC 集团+8 国物流+OEM/机械制造客层 / W:connectivity 非主业 / O
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

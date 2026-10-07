@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ER…
+- **是谁**：EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双址 MSP 的 managed 部署随单 value PoE 档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELM | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商**:managed IT/cybersecurity/cloud/ERP/WMS integrations;FnA Company / E | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱
+- 【事实】EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱 | R65 深挖:希腊 SME 托管 IT 集成商;KP 未按名型沈,同同名噪音已区分证
 - 【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线
 - 【假设】开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱
+- **背景深描**：EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商**:managed IT/cybersecurity/cloud/ERP/WMS integrations;FnA Company / ELMEPA 等多家 openly 宣传口碑;+30 28130 15000, info@exasolutions.gr
 - **芯片与在用型号**：【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：George Alexander Kontaxakis(名录口径;R65 搜出同名**医疗图像研究员**/Aegean Airlines 同名——**为污染噪音,不采信**;登记方向=雅典 G.E.MI 台账)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-424 MSP 部署随单 SKU / T:MSP 厂商忠稳态
 - **Saga产品适配**：双址 MSP 的 managed 部署随单 value PoE 档
@@ -130,6 +130,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Businesses that trust us…FnA Company…ELMEPA
   > Businesses that trust us…FnA Company…ELMEPA
   > 来源：https://exasolutions.gr/en/
+- **【R65 谱位/双办】**Heraklion+Athens 双办;managed IT/cyber/云/ERP/WMS 一体化,ELMEPA 等专 case
+  > EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations for businesses across Greece … Heraklion Idomeneos 5, 71202 / Athens Dorylaiou 6, 11521 / +30 28130 15000 / info@exasolutions.gr
+  > 来源：https://exasolutions.gr/en/
+- **【R65 同名噪音注】**Georgios Kontaxakis(Aegean Airlines 雇员 / ResearchGate 医疗图像)=同名他人,不采信
+  > (LinkedIn / ResearchGate 2026-10-07 搜出同名画像,与 EXA Solutions 无关)
+  > 来源：(沙箱谱位核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

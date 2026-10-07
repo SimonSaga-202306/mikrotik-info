@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl)…
+- **是谁**：RvdB ICT(rvdbict.nl;**Robbin van den Berg = 实体谱主位（官网自己名在同自曝）**;谱型=一人系 ICT 全包（netwerkbeheer/firewall/VDSL/光纤/IP…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 在档认证顾问备养(MTCSE 安全方向):具名通道,项目信号再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | RvdB ICT(rvdbict.nl;**Robbin van den Berg = 实体谱主位（官网自己名在同自曝）**;谱型=一人系 ICT 全包（netwerkbeheer/firewall/VDSL/光纤/IPTV/备份）;LinkedIn 专长自曝：MikroTik, Ubiquiti UniFi, pfSense firewall, Zabbi | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl)
+- 【事实】Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl) | R65 深挖:Rvdb 一人实体；MikroTik/UniFi/pfSense/Zabbix 技谱型注自曝
 - 【推断】乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营
 - 【假设】守档备养:具名引见,等其 SME 客户网络/安全项目信号
 
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robbin van den Berg | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Robbin van den Berg | Eigenaar/谱主位实体 | 经 rvdbict.nl | rvdbict.nl+LinkedIn 双自曝 | https://rvdbict.nl/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -106,11 +106,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl)
+- **背景深描**：RvdB ICT(rvdbict.nl;**Robbin van den Berg = 实体谱主位（官网自己名在同自曝）**;谱型=一人系 ICT 全包（netwerkbeheer/firewall/VDSL/光纤/IPTV/备份）;LinkedIn 专长自曝：MikroTik, Ubiquiti UniFi, pfSense firewall, Zabbix
 - **芯片与在用型号**：【推断】乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Robbin van den Berg = 实体谱主位（rvdbict.nl 官网+LinkedIn 双自曝)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:官方名录在档+安全方向 / W:小体量 / O:乌得勒支 SME 随单 / T:失联
 - **Saga产品适配**：在档认证顾问备养(MTCSE 安全方向):具名通道,项目信号再激活
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**另经 MikroTik 官方认证顾问名录确认其为认证顾问,持 MTCRE、MTCSE;驻 IJsselstein
   > 另经 MikroTik 官方认证顾问名录确认其为认证顾问,持 MTCRE、MTCSE;驻 IJsselstein
   > 来源：客户名单_反向信号_2026-09.csv(2026-09-23
+- **【R65 实名/专长】**RvdB ICT · Robbin van den Berg 一人 ICT 全包 · MikroTik/UniFi/pfSense/Zabbix 专长
+  > # RVDBICT, alles op gebied van ICT # Robbin van den Berg … Specialties: • Mikrotik • Ubiquiti Unifi • Pfsense firewall • Zabbix
+  > 来源：https://www.linkedin.com/in/robbin-van-den-berg-03469038/
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, o
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -259,16 +259,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Allied Telesis Platinum · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Allied%20Telesis%20Platinum%20MSI%20Works%20Ltd)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**结论**:MSI Works Ltd(英国,SIC 62090 IT 服务,2024-04 注册,3rd Floor 86-90 Paul St London EC2A 4NE):**David James Salisbury(Managing Director,2024-12-30 任)**、John Robert Dente(董事,1962-10 生)、John Paul Hubbard(董事) — Companies House 04609481 类官方源

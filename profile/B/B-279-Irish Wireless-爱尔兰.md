@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2…
+- **是谁**：Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Est…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档** | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层
+- 【事实】Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干
 - 【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**
 - 【假设】开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「Making Wireless EASY」;$3M 收 3 员工精干;RocketReach：Stephen Hall Owner；矿井/学校/酒店/郡大网实绩
 
 ## 联系方式（已有/猜测分标）
 
@@ -82,7 +82,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Stephen Hall | Co-founder/Owner | 经 irishwireless.net | irishwireless.net about_us + rocketreach 双自曝 | https://irishwireless.net/about_us |
+| Gurmukh Neote | Co-founder | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层
+- **背景深描**：Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「Making Wireless EASY」;$3M 收 3 员工精干;RocketReach：Stephen Hall Owner；矿井/学校/酒店/郡大网实绩
 - **芯片与在用型号**：【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**
-- **关键人KP**：—
+- **关键人KP**：Stephen Hall = 合伙人/Owner(2001 创);Gurmukh Neote = 联合创始人
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类目升到 24 口管理型 / T:类目扩品决策慢
 - **Saga产品适配**：25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)
@@ -129,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more
   > Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more
   > 来源：https://irishwireless.net/active-poe
+- **【R65 实名】**Irish Wireless(BluePrint Wireless Ltd)2001 = Stephen Hall + Gurmukh Neote 创立;Shannon Clare;无线+培训咨询 25 年
+  > Irish Wireless (BluePrint Wireless Ltd) was established in 2001 by Networking and IT Specialists Stephen Hall and Gurmukh Neote. Based in Smithstown, Shannon, County Clare, Ireland
+  > 来源：https://irishwireless.net/about_us
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +166,7 @@ S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

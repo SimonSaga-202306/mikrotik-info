@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,…
+- **是谁**：ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO G…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO Grupa AS 全子，股 2 556 EUR);**Adam Leemet = juhatuse liige(董事会成员，1969-11 生 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达; | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee)
+- 【事实】ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee) | R65 深挖:波罗的海 ELKO 集团大谱；Pavlovskis 2026-03 新板装最新引口
 - 【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;
 - 【假设】开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Adam Leemet | Juhatuse liige | elko@elko.ee / +372 6509444 | aripaev/infopank/e-krediidiinfo 三源 | https://www.infopank.ee/ettevote/31722/elko-eesti-ou |
+| Martins Pavlovskis | Juhatuse liige(2026-03-11 新任） | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee)
+- **背景深描**：ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO Grupa AS 全子，股 2 556 EUR);**Adam Leemet = juhatuse liige(董事会成员，1969-11 生，2013-04-22 任）**;**Martins Pavlovskis = juhatuse liige(2026-03-11 新任！46 岁）**;谱型=波罗的海 IT 批发 ELKO 集团大谱；elko@elko.ee / +372 6509444
 - **芯片与在用型号**：【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;
-- **关键人KP**：—
+- **关键人KP**：Adam Leemet = juhatuse liige(2013-至今 13 年）;Martins Pavlovskis = juhatuse liige(2026-03-11 新任）
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 国销售办放量 / T:决策在 Riga,本地易止于接待
 - **Saga产品适配**：ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0
   > ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0
   > 来源：https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/
+- **【R65 登记/新任】**ELKO Eesti OÜ 10674202 · Tallinn 2000 创 · ELKO Grupa 全子 · Adam Leemet 13 年 juhatus + Martins Pavlovskis 2026-03-11 新板装位
+  > Adam Leemet (56) Juhatus … Martins Pavlovskis (46) Juhatus … Seos alates 11.03.2026 … ELKO Grupa AS
+  > 来源：https://radar.aripaev.ee/ettevote/31722/elko-eesti-ou
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 �
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

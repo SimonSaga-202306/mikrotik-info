@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 …
+- **是谁**：Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 6220…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 判型校正:IT 服务商备养,按顾问/集成商模板激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 62200),komalyse 2076e（毛利 €471,759);foxconcept.be 2001-12 幔幔 24 年域 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be)
+- 【事实】Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | R65 深挖:比利时 ICT 咨询实体 2005;Sombreffe 谱位
 - 【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
 - 【假设】开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)
 
@@ -103,11 +103,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be)
+- **背景深描**：Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 62200),komalyse 2076e（毛利 €471,759);foxconcept.be 2001-12 幔幔 24 年域
 - **芯片与在用型号**：【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
-- **关键人KP**：—
+- **关键人KP**：—(BV 实体名行政登记 trendstop 未披露；R65 谱位+财务数据足档）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 PoE 自选件 / T:体量不支撑分销合作形态
 - **Saga产品适配**：判型校正:IT 服务商备养,按顾问/集成商模板激活
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be
   > FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be
   > 来源：https://www.verixi.be/partners/
+- **【R65 登记/财务】**Foxconcept BE 0872.787.192 · Sombreffe Rue Mathias 9 · ICT 服务 62200 · 毛利 €471.7K
+  > Foxconcept BV Besloten vennootschap … BE 0872.787.192 - Rue Mathias 9, 5140 SOMBREFFE … brutomarge van 471.759 euro is Foxconcept 2076e in de sector ICT
+  > 来源：https://trendstop.knack.be/nl/detail/872787192/foxconcept.aspx
 
 ## 产品决策（Saga · 单一决策口径）
 

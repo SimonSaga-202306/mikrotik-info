@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实…
+- **是谁**：Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — ZUT 高校 MikroTik Academy 的批量对照教具位(已有 TP-Link 对照先例,我们申请第二对照牌)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生)
+- 【事实】Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由
 - 【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台
 - 【假设】开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案
 
@@ -110,9 +110,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生)
+- **背景深描**：Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）
 - **芯片与在用型号**：【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE 
@@ -127,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz
   > W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz Grzegorz Śliwiński
   > 来源：https://gsliwinski.wi.zut.edu.pl/
+- **【R65 查询注】**2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果
+  > (R65 同名实体验证日志）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

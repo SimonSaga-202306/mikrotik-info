@@ -17,7 +17,7 @@ needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oe
 p1: STI-288GP
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-04
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -70,11 +70,11 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：info@marcomweb.it【2026-10-04 修正:原录 nfo@ 缺首字母 i,用户官网核对为 info@】
+- **邮箱**：info@marcomweb.it
   - 状态：既有/公开
-- **电话**：+39 045 8204747
+- **电话**：+39 045 8204747、2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
-- **原始联系字段**：+39 045 8204747 / info@marcomweb.it【2026-10-04 修正:原录 nfo@ 缺 i】
+- **原始联系字段**：+39 045 8204747 / info@marcomweb.it【2026-10-04 修正:原录 nfo@ 缺首字母 i,用户官网核对为 info@】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -129,7 +129,7 @@ updated: 2026-09-28
 - **产品线与在售品牌**：Moxa/Teltonika/InHand/Milesight
 - **目标行业与场景**：制造/过程工业
 - **团队与规模**：（官网推）
-- **决策链与对接人**：info@marcomweb.it【2026-10-04 修正:原 nfo@ 缺 i】口
+- **决策链与对接人**：nfo@marcomweb.it 口
 - **技术与认证**：
 - **采购与供应链信号**：
 - **近期动态与线索**：
@@ -223,17 +223,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Complete Hardware · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Complete%20Hardware%20MARCOM%20S.r.l)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对;工业锚(Moxa/Westermo 类)提及 → Marvell 工业谱同源,STI-288GP 强对口
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R62 邮箱修正(2026-10-04)
-
-- **typo 修**:nfo@marcomweb.it → **info@marcomweb.it**(用户官网核对缺首字母 i;原数据库录入源头已修)

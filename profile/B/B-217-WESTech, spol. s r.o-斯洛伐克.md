@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立…
+- **是谁**：WESTech, spol. s r.o.(Stará Vajnorská 17, 831 04 Bratislava,IČO 35796111, DIČ 2020245557;2000-09-25 创,ELKO-RIG…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权; | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | WESTech, spol. s r.o.(Stará Vajnorská 17, 831 04 Bratislava,IČO 35796111, DIČ 2020245557;2000-09-25 创,ELKO-RIGA/Zero 亲家合资血统;股本 €33.2K;**Ing. Matej Sršeň = konateľ/CEO(2000 创至今 26 年 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权;networking@westech.sk 专队+WESTech on Air 视频栏目)
+- 【事实】WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权;networking@westech.sk 专队+WESTech on Air 视频栏目) | R65 深挖:斯洛伐克 2000 ELKO 合资老谱；Sršeň 26 年谱主
 - 【推断】ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国
 - 【假设】开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ing. Matej Sršeň | Konateľ / Generálny riaditeľ | 经 westech.sk | orsr.sk/foaf.sk/kompass 三源 | https://www.foaf.sk/35796111?locale=en |
+| Ing. Martin Strigač | Konateľ(2025-03-24 新任） | 同上 | foaf.sk 实名 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权;networking@westech.sk 专队+WESTech on Air 视频栏目)
+- **背景深描**：WESTech, spol. s r.o.(Stará Vajnorská 17, 831 04 Bratislava,IČO 35796111, DIČ 2020245557;2000-09-25 创,ELKO-RIGA/Zero 亲家合资血统;股本 €33.2K;**Ing. Matej Sršeň = konateľ/CEO(2000 创至今 26 年）**;Ing. Martin Strigač = konateľ(2025-03-24 新任）;Róbert Király 创始 konateľ(2000-2004)
 - **芯片与在用型号**：【推断】ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国
-- **关键人KP**：—
+- **关键人KP**：Ing. Matej Sršeň = Konateľ/CEO(2000-至今 26 年）;Ing. Martin Strigač = konateľ(2025-03-24 新任）
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:ELKO 集团+1000 reseller+网络专队 / W:TP-Link 等大牌绑定 / O:value PoE 位+集团多国溢出 / T:集团集采权重
 - **Saga产品适配**：ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)
   > WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)
   > 来源：https://www.facebook.com/westech.networking/
+- **【R65 商业登记】**WESTech s.r.o. Slovenská · IČO 35796111 · 2000-09-25 创 · Matej Sršeň 26 年 konateľ + Martin Strigač 2025-03 新任
+  > Ing. Matej Sršeň Od 25.09.2000 … Ing. Martin Strigač Od 24.03.2025 … STARÁ VAJNORSKÁ 17 831 04 BRATISLAVA
+  > 来源：https://www.foaf.sk/35796111?locale=en
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:ELKO 集团+1000 reseller+网络专队 / W:TP-Link 等大牌绑定 / O:value P
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

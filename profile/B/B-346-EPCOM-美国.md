@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-51…
+- **是谁**：EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes spe | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire ala | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角
+- 【事实】EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首
 - 【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
 - 【假设】自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire alarm/网络设备 51-200 员工 $19.1M 营收 ZoomInfo 口径;OXM 门牌线)
 
 ## 联系方式（已有/猜测分标）
 
@@ -82,7 +82,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Joseph Opyrchal | CEO | 经 epcom.net/epcom.com.mx 总线 | datanyze 自曝 | https://www.datanyze.com/companies/epcom/17613993 |
+| Omar Kheir | COO/Chief Engineer | @epcom.net(模式提示） | prospectoo 自曝 | https://prospectoo.com/company/EPCOM-35714742/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角
+- **背景深描**：EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire alarm/网络设备 51-200 员工 $19.1M 营收 ZoomInfo 口径;OXM 门牌线)
 - **芯片与在用型号**：【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
-- **关键人KP**：—
+- **关键人KP**：Joseph Opyrchal = CEO(datanyze);Omar Kheir = COO/Chief Engineer(prospectoo 口 径）;Freddie Crespo VP-GM
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 / O:STI-288GP OEM 随单拉美 / T:自牌项目对在架的自主决策封闭
 - **Saga产品适配**：缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口
@@ -129,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers
   > EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers
   > 来源：https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom
+- **【R65 实名】**EPCOM Miami 8301 NW 27th St · Joseph Opyrchal CEO · Omar Kheir COO/Chief Engineer · $19.1M 收 51-200 人 · 2011 创
+  > Joseph Opyrchal ### CEO … Epcom headquarters are located at 8301 NW 27th St Ste 1, Miami, Florida, 33122, United States … Epcom $19.1M 51-200 2011
+  > 来源：https://www.datanyze.com/companies/epcom/17613993
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +166,7 @@ S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 /
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

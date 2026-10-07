@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/G…
+- **是谁**：Solution Box LLC(Miami, FL;IT & Telecommunications wholesaler 11-50 员工；**Eduardo Bicerne = General Manager & C…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honey | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Solution Box LLC(Miami, FL;IT & Telecommunications wholesaler 11-50 员工；**Eduardo Bicerne = General Manager & Co-owner(crunchbase 自曝)**;Claudio Muñoz = Sales Director(2012-09 至今 13+ | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honeywell/Ubiquiti/Aruba/Cambium/MikroTik/HP/Garmin/GoPro；哥斯达黎加+洪都拉斯分站（拉美网）
+- 【事实】Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honeywell/Ubiquiti/Aruba/Cambium/MikroTik/HP/Garmin/GoPro；哥斯达黎加+洪都拉斯分站（拉美网） | R65 深挖: Miami IT/电信批发头；Bicerne 家主谱口
 - 【推断】超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」
 - 【假设】其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Solution Box LLC(Miami, FL;IT & Telecommunications wholesaler 11-50 员工；**Eduardo Bicerne = General Manager & Co-owner(crunchbase 自曝)**;Claudio Muñoz = Sales Director(2012-09 至今 13+ 年,Miami;原 Argentina 血统）)
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Eduardo Bicerne | General Manager & Co-owner | 经 solutionboxusa.com | crunchbase 自曝 | https://www.crunchbase.com/organization/solution-box |
+| Claudio Muñoz | Sales Director(2012 至今 13+ 年） | 同上 | LinkedIn munozclaudio 自曝 | https://www.linkedin.com/in/munozclaudio/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honeywell/Ubiquiti/Aruba/Cambium/MikroTik/HP/Garmin/GoPro；哥斯达黎加+洪都拉斯分站（拉美网）
+- **背景深描**：Solution Box LLC(Miami, FL;IT & Telecommunications wholesaler 11-50 员工；**Eduardo Bicerne = General Manager & Co-owner(crunchbase 自曝)**;Claudio Muñoz = Sales Director(2012-09 至今 13+ 年,Miami;原 Argentina 血统）)
 - **芯片与在用型号**：【推断】超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」
-- **关键人KP**：—
+- **关键人KP**：Eduardo Bicerne = GM & Co-owner;Claudio Muñoz = Sales Director(2012 至今 13+ 年）
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:20+年老血统+牌墙极宽+拉美站 / W:Ubiquiti/Cambium 正面拥挤 / O:STC-424 拉美第二供位 / T:品牌协调上交期/让利
 - **Saga产品适配**：大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档
@@ -125,6 +128,9 @@ updated: 2026-10-07
   > 来源：https://www.crunchbase.com/organization/solution-box
 - **【R57备护深挖证据】**Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner
   > Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner
+  > 来源：https://www.crunchbase.com/organization/solution-box
+- **【R65 实名】**Solution Box LLC Miami · Eduardo Bicerne GM&Co-owner · Claudio Muñoz Sales Director 2012-至今
+  > Eduardo Bicerne: General Manager & Co-owner … Claudio Muñoz: Commercial Director Solution Box LLC Sep 2012 - Present 13 years 2 months
   > 来源：https://www.crunchbase.com/organization/solution-box
 
 ## 产品决策（Saga · 单一决策口径）
@@ -157,7 +163,7 @@ S:20+年老血统+牌墙极宽+拉美站 / W:Ubiquiti/Cambium 正面拥挤 / O:S
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

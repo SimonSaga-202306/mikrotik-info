@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化)…
+- **是谁**：TECON CZ s.r.o.(Chotyně,Wassermannova 1043/7 布拉格分社;IČ 25447424;**Ing. Pavel Hlavizna = jednatel(zivefirmy 实名）*…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-199→B-520】官网 /kontakt/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 捷克 ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | TECON CZ s.r.o.(Chotyně,Wassermannova 1043/7 布拉格分社;IČ 25447424;**Ing. Pavel Hlavizna = jednatel(zivefirmy 实名）**;482 723 373/603 563 521,info@teconcz.cz;teconcz.cz | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ORing 授权工业分销(捷克),四部组织化在营 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化)
+- 【事实】TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化) | R65 深挖:TECON CZ 实体映射主候选；Hlavizna 实名上位
 - 【推断】ORing 授权工业分销(捷克),四部组织化在营
 - 【假设】开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)
 
@@ -81,7 +81,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ing. Pavel Hlavizna | Jednatel（董事） | info@teconcz.cz / 482 723 373 | zivefirmy.cz 实名 | https://www.zivefirmy.cz/tecon-cz_f1147224 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
 
-- **背景深描**：TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化)
+- **背景深描**：TECON CZ s.r.o.(Chotyně,Wassermannova 1043/7 布拉格分社;IČ 25447424;**Ing. Pavel Hlavizna = jednatel(zivefirmy 实名）**;482 723 373/603 563 521,info@teconcz.cz;teconcz.cz
 - **芯片与在用型号**：【推断】ORing 授权工业分销(捷克),四部组织化在营
-- **关键人KP**：—
+- **关键人KP**：Ing. Pavel Hlavizna = jednatel(TECON CZ)
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:ORing 授权+组织化 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他
 - **Saga产品适配**：捷克 ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)
@@ -125,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz
   > R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz
   > 来源：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520
+- **【R65 实体映射】**B-520 TECON = TECON CZ s.r.o. Chotyně（次项：TECON s.r.o. Ústí nad Labem IČ 60277157 Ing. Josef Kinovič / TECON spol. Hostinné IČ 60932091 同名他人已排除）
+  > Ing. Pavel Hlavizna - jednatel … TECON CZ s.r.o. IČ 25447424 DIČ CZ25447424 … Wassermannova 1043/7, Hlubočepy, Praha
+  > 来源：https://www.zivefirmy.cz/tecon-cz_f1147224
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,7 +161,7 @@ S:ORing 授权+组织化 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

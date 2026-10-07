@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$…
+- **是谁**：I C T INTERNATIONAL L.L.C(206 Sobha Ivory 1, Dubai, UAE;+971 4 2216756;**Mazhar Ali = Business Development Man…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — ORing 谱海湾 VAR 的工业 PoE value 二源位；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/V | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | I C T INTERNATIONAL L.L.C(206 Sobha Ivory 1, Dubai, UAE;+971 4 2216756;**Mazhar Ali = Business Development Manager;Fakhar Mirza = Technical Director(zoominfo 双谱）**;11-50 员工；Abdulla | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/VMware/Microsoft+通信基础设施;LinkedIn 宣示「ORing as our trusted distributor」——ORing 工业交换机谱在海湾区的落地承接;**contact@ict-international.ae)
+- 【事实】ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/VMware/Microsoft+通信基础设施;LinkedIn 宣示「ORing as our trusted distributor」——ORing 工业交换机谱在海湾区的落地承接;**contact@ict-international.ae) | R65 深挖:迪拜实体 BD+Technical 两口谱口开工
 - 【推断】海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱
 - 【假设】开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- I C T INTERNATIONAL L.L.C(206 Sobha Ivory 1, Dubai, UAE;+971 4 2216756;**Mazhar Ali = Business Development Manager;Fakhar Mirza = Technical Director(zoominfo 双谱）**;11-50 员工；Abdullah Mustafa 同 BDM
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Mazhar Ali | Business Development Manager | +971 4 2216756 总线 | zoominfo 自曝 | https://www.zoominfo.com/c/i-c-t-international-llc/435477221 |
+| Fakhar Mirza | Technical Director | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批补18.json`；价格均为 EXW 快照。
 
-- **背景深描**：ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/VMware/Microsoft+通信基础设施;LinkedIn 宣示「ORing as our trusted distributor」——ORing 工业交换机谱在海湾区的落地承接;**contact@ict-international.
+- **背景深描**：I C T INTERNATIONAL L.L.C(206 Sobha Ivory 1, Dubai, UAE;+971 4 2216756;**Mazhar Ali = Business Development Manager;Fakhar Mirza = Technical Director(zoominfo 双谱）**;11-50 员工；Abdullah Mustafa 同 BDM
 - **芯片与在用型号**：【推断】海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱
-- **关键人KP**：—
+- **关键人KP**：Mazhar Ali = BDM;Fakhar Mirza = Technical Director
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:ORing 谱+Telco/Enterprise VAR / W:海湾项目周期场长 / O:1/3 价二源直对 ORing 谱空档 / T:海湾付款/代理体系壁垒
 - **Saga产品适配**：ORing 谱海湾 VAR 的工业 PoE value 二源位
@@ -127,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**we are proud to have ORing as our trusted distributor … Datacenters, Virtualization, Cisco, VMWare, and Microsoft
   > we are proud to have ORing as our trusted distributor … Datacenters, Virtualization, Cisco, VMWare, and Microsoft
   > 来源：https://www.linkedin.com/company/ictintl
+- **【R65 实名】**ICT International Dubai · Mazhar Ali BDM + Fakhar Mirza Technical Director · 11-50 员工
+  > Mazhar Ali Business Development Manager … Fakhar Mirza Technical Director … I C T International contact info: Phone number: +971 42216756 Website: www.ict-international.ae
+  > 来源：https://www.zoominfo.com/c/i-c-t-international-llc/435477221
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +164,7 @@ S:ORing 谱+Telco/Enterprise VAR / W:海湾项目周期场长 / O:1/3 价二源�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

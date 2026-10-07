@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 M…
+- **是谁**：NCTIK（美国个体谱；R65 搜索无果守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：有信号（ISP/骨干、影响力/渠道）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 师者教具位：8 口小机器作为"对照牌教具"上课桌——$99 样本线，不是商业上架；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行） | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | NCTIK（美国个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行）
+- 【事实】NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行） | R65 深挖:守档准由
 - 【推断】师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口
 - 【假设】教具样本线=向其课桌要"对照牌教具"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行）
+- **背景深描**：NCTIK（美国个体谱；R65 搜索无果守档准由）
 - **芯片与在用型号**：【推断】师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问，持 MikroTik 认证培训伙伴 
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina
   > ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina
   > 来源：https://www.nctik.com/
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名)…
+- **是谁**：Alfa Centauri spol. s r.o.(Pri strelnici 3, 821 04 Bratislava,Slovakia;IČO 35 862 301, DIČ 2020290426;Vložka 2…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 布拉迪斯拉发顾问备养:具名通道；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Alfa Centauri spol. s r.o.(Pri strelnici 3, 821 04 Bratislava,Slovakia;IČO 35 862 301, DIČ 2020290426;Vložka 29289/B;**谱型=网络/服务器管理外包+咨询+软件硬件审计+布线实体**;alfac@alfac.sk / 02 4342 7175; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名)
+- 【事实】Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名) | R65 深挖:Alfa Centauri Bratislava 网络托管谱
 - 【推断】布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位)
 - 【假设】守档备养:具名引见
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Alfa Centauri spol. s r.o.(Pri strelnici 3, 821 04 Bratislava,Slovakia;IČO 35 862 301, DIČ 2020290426;Vložka 29289/B;**谱型=网络/服务器管理外包+咨询+软件硬件审计+布线实体**;alfac@alfac.sk / 02 4342 7175;CSV 谱主位 Michal Petkáč = 顾问（R65 与 Alfa Centauri 实体联动口径）
 
 ## 联系方式（已有/猜测分标）
 
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michal Petkáč | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Michal Petkáč | 顾问/谱主位（Alfa Centauri 联口） | alfac@alfac.sk / 02 4342 7175 | CSV 谱 + alfac.sk 官网自曝 | https://www.alfac.sk/kontakt |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -106,11 +106,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名)
+- **背景深描**：Alfa Centauri spol. s r.o.(Pri strelnici 3, 821 04 Bratislava,Slovakia;IČO 35 862 301, DIČ 2020290426;Vložka 29289/B;**谱型=网络/服务器管理外包+咨询+软件硬件审计+布线实体**;alfac@alfac.sk / 02 4342 7175;CSV 谱主位 Michal Petkáč = 顾问（R65 与 Alfa Centauri 实体联动口径）
 - **芯片与在用型号**：【推断】布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位)
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Michal Petkáč = 顾问（CSV 谱主位；Alfa Centauri 实体谱联动）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:公司域+具名+首都市 / W:足迹薄 / O:布拉迪斯拉发 SME 随单 / T:失联
 - **Saga产品适配**：布拉迪斯拉发顾问备养:具名通道
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE;alfac.sk 公司域
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE;alfac.sk 公司域
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 实体映射】**Alfac = Alfa Centauri spol. s r.o. Bratislava Pri strelnici 3 IČO 35862301；网络托管/咨询/审计谱
+  > Alfa Centauri spol. s.r.o. Pri strelnici 3, 821 04 Bratislava IČO: 35 862 301 … Správa sietí a serverov, outsourcing, poradenstvo, softvérový a hardvérový audit, realizácia kabeláže siete … alfac@alfac.sk
+  > 来源：https://www.alfac.sk/kontakt
 
 ## 产品决策（Saga · 单一决策口径）
 

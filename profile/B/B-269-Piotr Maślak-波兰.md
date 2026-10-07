@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl)…
+- **是谁**：Piotr Maślak(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — MTCINE ISP 方向顾问备养:具名通道,ISP 谱信号再激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Piotr Maślak(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl)
+- 【事实】Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由
 - 【推断】华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧
 - 【假设】守档备养:具名引见(ISP 互联语言),其 ISP 客户谱接入侧 PoE 件场景长线观察
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl)
+- **背景深描**：Piotr Maślak(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）
 - **芯片与在用型号**：【推断】华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE 
@@ -117,6 +117,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE;maslak.waw.pl 自有域
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE;maslak.waw.pl 自有域
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果
+  > (R65 同名实体验证日志）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

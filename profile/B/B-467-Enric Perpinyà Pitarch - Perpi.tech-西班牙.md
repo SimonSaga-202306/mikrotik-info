@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connect…
+- **是谁**：Enric Perpinyà Pitarch(Perpignan 法国侧,R65 判定谱型：西班牙马略卡青年创业——PERPITECH 法国PERPIGNAN SIREN 818099160,2016-01-23 创（原…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Enric Perpinyà Pitarch(Perpignan 法国侧,R65 判定谱型：西班牙马略卡青年创业——PERPITECH 法国PERPIGNAN SIREN 818099160,2016-01-23 创（原名 BD ELEC 2019-01-28 转名）= **Enric Perpinyà 实体映射核正**;**2025 Connect'Up  | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)
+- 【事实】Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE) | R65 深挖:Perpignan 西班牙跨界实体；Youth 2025 青年谱位最新入场口
 - 【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
 - 【假设】守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位
 
@@ -84,7 +84,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Enric Perpinyà Pitarch | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Enric Perpinyà Pitarch | PerpiTech 创始人/CEO(Youth 2025 获奖） | 经 perpi.tech / +33 侧 | ultimahora.es 2026-07-15 专访自曝 | https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +107,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE)
+- **背景深描**：Enric Perpinyà Pitarch(Perpignan 法国侧,R65 判定谱型：西班牙马略卡青年创业——PERPITECH 法国PERPIGNAN SIREN 818099160,2016-01-23 创（原名 BD ELEC 2019-01-28 转名）= **Enric Perpinyà 实体映射核正**;**2025 Connect'Up 青年类（Youth 2025）首获奖**：Perpi.Tech 企业网络监测/安全防护方案;14 Rue Pierre Lescot 66000 Perpignan;Damien Boudot 首任 prá 总裁 2016
 - **芯片与在用型号**：【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Enric Perpinyà = Perpi.Tech 创始人（2025 Connect'Up Youth 获奖）;Damien Boudot 实体 2016 首总裁
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:创始人直决+获奖背书+酒店客谱 / W:初创体量极小,SaaS 优先 / O:酒店改造 PoE 项目随单(中长线) / T:初创存活率
 - **Saga产品适配**：获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道
@@ -124,6 +124,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en l
   > Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en la nube
   > 来源：https://perpi.tech/
+- **【R65 实体核正】**PERPITECH Perpignan SIREN 818099160 · 2016 创（BD ELEC 转名）· Enric Perpinyà Connect'Up Youth 2025 首获企业网络监测方案
+  > Société PERPITECH à PERPIGNAN - SIREN : 818099160 … «Connect'Up me ayudó a convertir la idea en algo útil para el mercado» … Enric Perpinyà, fundador de Perpi.Tech … ganó la categoría Youth 2025
+  > 来源：https://rubypayeur.com/societe/perpitech-818099160
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**…
+- **是谁**：Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Chann…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Channel Partners;Sam Schell = SVP Business Development;Jeremy Nelson = E-Co | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网
+- 【事实】Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网 | R65 深挖:美 1972 三代谱；Deutsch 三代 2025 接棒
 - 【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
 - 【假设】从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Richard Siegel | Founder & CEO | 经 paceintl.com | LinkedIn pace-electronics 官方页自曝 | https://www.linkedin.com/company/pace-electronics |
+| Brent Afseth | VP of Channel Partners | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网
+- **背景深描**：Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Channel Partners;Sam Schell = SVP Business Development;Jeremy Nelson = E-Commerce Director;2025-26 Tim + Eric Deutsch 三代接棒列股东；谱型=video/data 解决方案 50+ 年批发名堂；官网「Brands we stock and stand behind:MikroTik」自曝
 - **芯片与在用型号**：【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
-- **关键人KP**：—
+- **关键人KP**：Richard Siegel = Founder & CEO(1972 创）;Brent Afseth VP Channel Partners;Tim/Eric Deutsch 三代股东
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推线 / O:随单 STC-424 入 install BOM / T:主品谱挤压架空 PoE 品
 - **Saga产品适配**：卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally
   > Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally
   > 来源：https://futureforward.org/search-directory/pace-international/
+- **【R65 谱/实名】**Pace International 1972 创立 Rochester MN 50+ 年批发名称；Richard Siegel 创始 CEO；MikroTik stocked 自曝
+  > Pace International is a distribution company of video and data solutions … Founded in 1972 … Richard Siegel Founder & CEO … Brands we stock and stand behind: MikroTik
+  > 来源：https://paceintl.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

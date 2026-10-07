@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTec…
+- **是谁**：Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问)…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店
+- 【事实】Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | R65 深挖:搜索无果,守档准由
 - 【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港
 - 【假设】开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店
+- **背景深描**：Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问)
 - **芯片与在用型号**：【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：—(R65 询问无果,守档准由)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424 安防部署刚性随单位 / T:岛物流/利运面
 - **Saga产品适配**：岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘
@@ -130,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά
   > Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά
   > 来源：https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos
+- **【R65 查询注】**alfa-tech.gr 本体无公开沟他件;守档准由
+  > (web_search 2026-10-07:无有效结果)
+  > 来源：(沙箱日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**…
+- **是谁**：Fiseg Oy(Y-tunnus 3246003-6,Tampere Aurinkokuja 5 B(Kotipaikka Espoo);2021-11-10 创;**Tero Henrik Närhi = Toimi…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 芬兰小而精进口商 Antaira 独苗旁的 DIN 轨 value 二源(具名 Tero,决策快)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Anta | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Fiseg Oy(Y-tunnus 3246003-6,Tampere Aurinkokuja 5 B(Kotipaikka Espoo);2021-11-10 创;**Tero Henrik Närhi = Toimitusjohtaja(CEO)**;5 员工；2024-12 €3.14M 营收(2-10M€ 级）;2025 €755K 营业利润；谱型= | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Antaira(官网 where-to-buy 芬兰列名确认)**/Gefran/FSG/Wago/Winmate/R+W/Elgo/Code corp/lenze/systec;自动化零组件进口分销+组装咨询
+- 【事实】Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Antaira(官网 where-to-buy 芬兰列名确认)**/Gefran/FSG/Wago/Winmate/R+W/Elgo/Code corp/lenze/systec;自动化零组件进口分销+组装咨询 | R65 深挖:芬兰工业自动化进口实体；Närhi CEO 2021 创
 - 【推断】新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗
 - 【假设】开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Fiseg Oy(Y-tunnus 3246003-6,Tampere Aurinkokuja 5 B(Kotipaikka Espoo);2021-11-10 创;**Tero Henrik Närhi = Toimitusjohtaja(CEO)**;5 员工；2024-12 €3.14M 营收(2-10M€ 级）;2025 €755K 营业利润；谱型=工业自动化产品进口/仓储/销售/组装/咨询（NACE 46641 电气批发）;Idem Safety/Antaira/Gefran 谱涵；myynti@fiseg.fi / 050 572 6268 脱明自曝
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Tero Henrik Närhi | Toimitusjohtaja(CEO) | myynti@fiseg.fi / 050 572 6268 | finder.fi + proff.fi 双源 | https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批补18.json`；价格均为 EXW 快照。
 
-- **背景深描**：Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Antaira(官网 where-to-buy 芬兰列名确认)**/Gefran/FSG/Wago/Winmate/R+W/Elgo/Code corp/lenze/systec;自动化零组件进口分销+组装咨询
+- **背景深描**：Fiseg Oy(Y-tunnus 3246003-6,Tampere Aurinkokuja 5 B(Kotipaikka Espoo);2021-11-10 创;**Tero Henrik Närhi = Toimitusjohtaja(CEO)**;5 员工；2024-12 €3.14M 营收(2-10M€ 级）;2025 €755K 营业利润；谱型=工业自动化产品进口/仓储/销售/组装/咨询（NACE 46641 电气批发）;Idem Safety/Antaira/Gefran 谱涵；myynti@fiseg.fi / 050 572 6268 脱明自曝
 - **芯片与在用型号**：【推断】新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗
-- **关键人KP**：—
+- **关键人KP**：Tero Henrik Närhi = Toimitusjohtaja
 - **关注点与资质**：Antaira 
 - **优缺点SWOT**：S:新创盈利好+具名 CEO+Antaira 授权 / W:4 人小谱 / O:Antaira 独苗旁 value 二源 / T:传感器主业重心偏
 - **Saga产品适配**：芬兰小而精进口商 Antaira 独苗旁的 DIN 轨 value 二源(具名 Tero,决策快)
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Where to Buy Finland: Fiseg Oy, Aurinkokuja 5 B FI-33420 Tampere
   > Where to Buy Finland: Fiseg Oy, Aurinkokuja 5 B FI-33420 Tampere
   > 来源：https://antaira.eu/antaira-where-to-buy,81
+- **【R65 登记/实名】**Fiseg Oy Y-tunnus 3246003-6 · Tampere/Espoo · 2021 创 · Tero Närhi CEO · €3.14M 营收 · Idem Safety/Antaira/Gefran
+  > Yhtiön toimitusjohtaja on Tero Henrik Närhi … FISEG Oy 3246003-6 … Aurinkokuja 5b, 33420 Tampere … myynti@fiseg.fi … Idem Safety Antaira Gefran
+  > 来源：https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:新创盈利好+具名 CEO+Antaira 授权 / W:4 人小谱 / O:Antaira 独苗�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

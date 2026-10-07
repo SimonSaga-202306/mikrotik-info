@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务…
+- **是谁**：Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由)…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体
+- 【事实】DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | R65 深挖:同名多问占画，守档准由
 - 【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边
 - 【假设】开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体
+- **背景深描**：Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由)
 - **芯片与在用型号**：【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：—(多同名画像但均职业不同=不采信守档准由)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE+MTCEWE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG 入区域店修小案样本 / T:店货流采本给品牌谱变
 - **Saga产品适配**：克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)
@@ -130,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)
   > CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 同名注】**「Georgios Papageorgiou」多重同名者(KMicro/爱琴海/MIT)；与 dslab.gr 无关联；不采信
+  > (LinkedIn 搜索 2026-10-07：三处同名画像，皆与 DSlab 不联)
+  > 来源：(沙箱核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

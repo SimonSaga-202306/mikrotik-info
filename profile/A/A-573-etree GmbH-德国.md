@@ -36,9 +36,8 @@ updated: 2026-10-06
 |---|---|---|
 | 名称 | etree GmbH（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 德国 | 事实 |
-| 网站 | etree.de | 事实 |
-| 类型 | 官方分销 50+牌 | 事实（CSV 名录口径） |
-| 关键人 | etree GmbH | 事实 |
+| 网站 | shop.etree.de | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Reseller） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | 官方分销 50+牌 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：sales@etree.de
   - 状态：official-company
-- **电话**：+49 221 2924170 
-- **原始联系字段**：sales@etree.de
+- **电话**：+49 221 2924170
+- **原始联系字段**：+49 221 2924170 / sales@etree.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **etree GmbH**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi etree,
 
-I came across etree GmbH - 官方分销 50+牌.
+I came across etree GmbH - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,109 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】etree GmbH(Köln Mathias-Brüggen-Straße 160 50829;2009 创):**电商型(e-tailer)+B2B 分销双轨**,LinkedIn 1421 followers;官方分销 MikroTik/Arista/Teltonika/Zyxel/Tenda/Dahua/Honeywell/Acer/Fujitsu 等;在架 MikroTik 深到 CRS504-4XQ-OUT(100G €498)、CSS610-8P-2S+IN(8 口 PoE+ 140W €169);B2B 注册价制
-- 【推断】多品牌电商架+监控 Dahua 谱=走量型;其 MikroTik 架 PoE 段到 CSS610(8 口 140W)即止——24 口管理型 PoE 档在其价位谱里是空档(MikroTik 无 24 口 PoE+ 甜点位产品)
-- 【假设】开口角度=「电商架 24 口 280W 管理型 PoE 空档补位」:STC-424 以其 €169 CSS610 上一档的 value 24 口位入架,B2B 注册价+快速发货模式适配
-
-**SWOT 速描**
-- **S**: 电商+B2B 双轨 15 年+多品牌官分
-- **W**: 无自牌无增值深度,走量价格敏感
-- **O**: 24 口 280W 管理型 PoE 价位空档
-- **T**: TP-Link/Ubiquiti 低价架压
-
-**证据（quote → 来源）**
-- 「etree Group…hardware, software & consumer electronics distributor, and e-tailer established in 2009 in Cologne…official distributor of…Mikrotik, Arista, Teltonika, Zyxel」 — https://www.linkedin.com/company/etree-group
-- 「MikroTik CSS610-8P-2S+IN - Switch - Smart - 8 x 10/100/1000 + 2 x 10 Gigabit SFP+…PoE+ (140 W) €169.58」 — https://shop.etree.de/Hersteller/MikroTik/Switches/
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — 电商型分销的 24 口 280W 管理型 PoE 价位空档补位(CSS610 8 口上一档)
-- 第一问: 你们 B2B 客户在监控/网络项目里,24 口管理型 PoE+ 现供哪款?架上有没有 value 档空位?
-- 标签: 德国|科隆|电商分销|24口PoE空档
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi etree team,
-
-Fifteen years of e-tail plus B2B distribution out of Cologne, with MikroTik, Teltonika, Dahua and Zyxel all on one shelf - you know exactly where the price gaps in your own catalog are.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29). It sits in the slot your shelf does not cover today: above the 8-port CSS610 class, a documented 24-port managed PoE tier at a value price point, white-label friendly.
-
-One question: for your B2B buyers building camera and network deployments, which 24-port managed PoE switch fills the value tier today - and would a documented unit earn a listing test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 其 B2B 客户谱里 24 口 PoE 需求量级(监控/Dahua 随单)
-2. 电商架引入新品牌的 MOQ/上架费门槛
-
-**跟进建议（守档节奏）**
-- D+3 价位空档对照页(CSS610 vs STC-424)
-- D+14 sales@etree.de 开口
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第5波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-152 → 新号 A-573,原 B 编号释放回池)
-
-**评级依据**：科隆总部官方分销 MikroTik/Teltonika 50+ 牌,11-50 员,波兰/乌克兰分部,40000 SKU
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"etree.de": ["etree-de.mail.protection.outlook.com"]}
-- **Grazian Twonski** — Founder & CEO(2010 创立)（源:https://etree.de/en/Services/Informations/About-Us/）
-  - `grazian@etree.de`(first@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `grazian.twonski@etree.de`(first.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `g.twonski@etree.de`(f.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `graziantwonski@etree.de`(firstlast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `gtwonski@etree.de`(flast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `twonski@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **Sebastian Rinne** — CEO/Geschäftsführer(公开邮箱 sr@konsultec.de,集团关联)（源:https://www.etree.de/en/Kontakt/）
-  - `sebastian@etree.de`(first@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `sebastian.rinne@etree.de`(first.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `s.rinne@etree.de`(f.last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `sebastianrinne@etree.de`(firstlast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `srinne@etree.de`(flast@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `rinne@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **Wysoczanski** — Sales/Purchase Manager +49 221 292 417 62（源:https://www.lieferanten.de/lieferant-21930-etree-gmbh.html）
-  - `wysoczanski@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:联合创始人 Peter Voigt(Crunchbase)
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Grazian Twonski(Founder & CEO)
-**通道**:grazian.twonski@etree.de / twonski@etree.de(候选系;总线 sales@etree.de)
-
-**主题**:A vendor line that actually moves: 24-port PoE+
-
-```text
-Hi Grazian,
-
-From a Cologne garage to 40,000 SKUs in fourteen years - you clearly only add lines that move.
-
-Ours is one product, not a catalogue: a 24-port Gigabit PoE+ managed switch, 280W budget, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - priced to sit under your MikroTik CRS and Ubiquiti alternatives.
-
-One question: who owns the 24-port PoE value tier on etree.de today - and is one documented sample worth a bench test to your team?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

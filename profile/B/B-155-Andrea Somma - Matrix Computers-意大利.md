@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 075…
+- **是谁**：Matrix Computers di Somma Andrea(Via Madonnina 28, 20814 Varedo(MB);0362 287146 可查;**个体商号(ditta individuale)=业…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 个体顾问通道:具名引见备养,小批随单机会出现时再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Matrix Computers di Somma Andrea(Via Madonnina 28, 20814 Varedo(MB);0362 287146 可查;**个体商号(ditta individuale)=业主 Andrea Somma 本人**;PagineGialle 黄页实名 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it)
+- 【事实】Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it) | R65 深挖:单体商号 And 头;MB 地区店
 - 【推断】一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维
 - 【假设】守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级
 
@@ -84,7 +84,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Andrea Somma | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Andrea Somma | 个体业主本人 | 径 matrixcomputers.it / 0362 287146 | PagineGialle 实名 | https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +107,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it)
+- **背景深描**：Matrix Computers di Somma Andrea(Via Madonnina 28, 20814 Varedo(MB);0362 287146 可查;**个体商号(ditta individuale)=业主 Andrea Somma 本人**;PagineGialle 黄页实名
 - **芯片与在用型号**：【推断】一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Andrea Somma = 个体商号业主本人(diritta individuale)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:具名直达+双证+决策一人 / W:个体户,采购量极小 / O:项目随单小批 / T:失联
 - **Saga产品适配**：个体顾问通道:具名引见备养,小批随单机会出现时再激活
@@ -123,6 +123,9 @@ updated: 2026-10-07
   > 来源：https://www.matrixcomputers.it/privacy
 - **【R57备护深挖证据】**Consulenza informatica e sviluppo software
   > Consulenza informatica e sviluppo software
+  > 来源：https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea
+- **【R65 商号谱位】**Matrix Computers di Somma Andrea · Varedo MB · 0362 287146(黄页认证)
+  > Matrix Computers di Somma Andrea si trova in Via Madonnina, 28 20814 Varedo (MB) … 0362 287146
   > 来源：https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea
 
 ## 产品决策（Saga · 单一决策口径）

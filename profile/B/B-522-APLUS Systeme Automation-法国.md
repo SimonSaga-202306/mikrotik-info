@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, …
+- **是谁**：APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-205→B-522】官网 /contact/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 军规嵌入式同业设计制造商:守档不入供位；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(Zo | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassiba | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita
+- 【事实】APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita | R65 深挖:工控大屏大三子 15M€;Cabanita 总统
 - 【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
 - 【假设】不入供位不首销:守档（同业+军规）
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassibat 采购总监；Vincent Chevillot DSI;谱型=工业计算机/工控大屏（affichage-digital/aplus-defense 子站） ISO 9001+AQAP 2110 认证；2024 €15.26M 营收；20-49 员工
 
 ## 联系方式（已有/猜测分标）
 
@@ -81,7 +81,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Carlos Cabanita | Président Directeur Général | 经 aplus-sa.com | pappers/manageo/kompass 三源实名 | https://www.manageo.fr/entreprises/345398556.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -97,11 +99,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
 
-- **背景深描**：APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita
+- **背景深描**：APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassibat 采购总监；Vincent Chevillot DSI;谱型=工业计算机/工控大屏（affichage-digital/aplus-defense 子站） ISO 9001+AQAP 2110 认证；2024 €15.26M 营收；20-49 员工
 - **芯片与在用型号**：【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
-- **关键人KP**：—
+- **关键人KP**：Carlos Cabanita = PDG(Presdir Directeur Général);Béatrice Cabanita 财务总监
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:守档 / T:不推出入
 - **Saga产品适配**：军规嵌入式同业设计制造商:守档不入供位
@@ -114,6 +116,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry
   > APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry
   > 来源：https://www.pagesjaunes.fr/pros/50512730
+- **【R65 谱+体量】**APLUS SA 1988 创 · €15.26M 2024 营收(20-49 员工） · Saint-Michel-sur-Orge · 工控大屏/defense 三站 · ISO 9001/AQAP 2110 · Cabanita 总统
+  > Capital social · 811 800 EURO … Dernier chiffre d'affaires connu · 15 263 854 € (2024) … Cabanita Carlos · Président Directeur Général · AQAP 2110 : Expire le 30/12/2029 · ISO: 9001
+  > 来源：https://www.manageo.fr/entreprises/345398556.html
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +150,7 @@ S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

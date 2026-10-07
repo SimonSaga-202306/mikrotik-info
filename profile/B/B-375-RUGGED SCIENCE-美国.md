@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(E…
+- **是谁**：RUGGED SCIENCE(60 Loveton Circle, Sparks Glencoe, MD 21152;2014 国防工业武功人创立；**Jack Vogt = CEO;Drew Vogt = COO;Ro…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | RUGGED SCIENCE(60 Loveton Circle, Sparks Glencoe, MD 21152;2014 国防工业武功人创立；**Jack Vogt = CEO;Drew Vogt = COO;Rob Schubel = Marketing Director**(PR.com 2025-02 新闻稿三源）  | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧
+- 【事实】RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧 | R65 深挖:军工/Edge AI 美北谱；Vogt 两号位家族谱
 - 【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
 - 【假设】与我们同产线：只能走「OEM 联合设计/元器件合作」或守界研究；不推供位。判位=建档观察
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jack Vogt | CEO | 经 ruggedscience.com / Rob Schubel 443-595-8384 | theorg + PR.com 双源 | https://www.pr.com/press-release/930487 |
+| Drew Vogt | COO | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -97,11 +100,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10"x12"x10" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧
+- **背景深描**：RUGGED SCIENCE(60 Loveton Circle, Sparks Glencoe, MD 21152;2014 国防工业武功人创立；**Jack Vogt = CEO;Drew Vogt = COO;Rob Schubel = Marketing Director**(PR.com 2025-02 新闻稿三源） 
 - **芯片与在用型号**：【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点
-- **关键人KP**：—
+- **关键人KP**：Jack Vogt = CEO;Drew Vogt = COO;Rob Schubel = Marketing Director
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:军规血统+研发自研 / W:同业=守界红线 / O:OEM 元器件级合作假说 / T:不应走销售面
 - **Saga产品适配**：同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项
@@ -114,6 +117,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant
   > NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant
   > 来源：https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch
+- **【R65 谱位/实名】**Rugged Science 2014 创 Sparks MD；以军用/工业/Edge AI 高耐用计算》名；33,234 SF 新 HQ;Vogt 家谱系
+  > Rugged Science, founded by Defense industry veterans, designs, engineers, and manufactures high-performance computing solutions in Sparks, MD, USA … Jack Vogt, CEO … Drew Vogt, COO … Rob Schubel, Marketing Director … 33,234 SF headquarters
+  > 来源：https://www.pr.com/press-release/930487
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +151,7 @@ S:军规血统+研发自研 / W:同业=守界红线 / O:OEM 元器件级合作�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

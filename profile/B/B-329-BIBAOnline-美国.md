@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-sto…
+- **是谁**：BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销+电缆/布线/病毒清/网络工程服务连售；家庭/中小企业 audience | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页
+- 【事实】BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2009
 - 【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)
 - 【假设】VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇
 
@@ -110,11 +110,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页
+- **背景深描**：BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销+电缆/布线/病毒清/网络工程服务连售；家庭/中小企业 audience
 - **芯片与在用型号**：【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)
-- **关键人KP**：—
+- **关键人KP**：—(BIBA LLC 业主方未自曝；R65 谱位足档）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品牌忠度低 / O:STC-424 入主 VoIP PoE 档第二供位 / T:店态会转暴利单品（他们不会守任何品牌）
 - **Saga产品适配**：VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚
@@ -127,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**415 Harding Ct. Sterling VA 20164 / 1-844-329-2422
   > 415 Harding Ct. Sterling VA 20164 / 1-844-329-2422
   > 来源：https://www.bibaonline.com/pages/contact-us
+- **【R65 谱位】**BIBAOnline=BIBA LLC 旗下 VAR/VoIP/IT 在 Centerville VA 2009-07 创；SKU 范吻合
+  > @bibaonline your one stop shop for VAR, VoIP products, tech gadgets and software. A division of BIBA LLC … Centerville, VA bibaonline.com … BIBA Online provides … SSDs, HDDs, USB Flash Drives, KVM switches, VoIP Products … networking
+  > 来源：https://x.com/bibaonline
 
 ## 产品决策（Saga · 单一决策口径）
 

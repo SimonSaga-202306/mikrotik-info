@@ -17,7 +17,7 @@ needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oe
 p1: STC-28DGGPM
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-04
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -48,7 +48,7 @@ updated: 2026-09-28
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
 - 【事实】Electromaster Limited（爱尔兰）：CSV 载 Perle 工业 PoE 线+黄页/HiFi 名录收录；2026-09-28 实测：electromaster.ie 域名内容已为加密博彩导流页（**域名疑似流落/被占**），且域 NO-MX（无邮件记录）
-- 【推断】该司线上资产处于失控态：info@electromaster.ie【已停用:2026-10-04 退信 not-found(46h|20h retry 后 Message not delivered) 发不过去】 不可投递，商务触达只能走名录电话
+- 【推断】该司线上资产处于失控态：info@electromaster.ie 不可投递，商务触达只能走名录电话
 - 【假设】黄页名录仍收录=公司或仍在经营（电话存活待证）；按 Round-32 精神降级触达不删档
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
@@ -70,10 +70,10 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：info@electromaster.ie
-  - 状态：既有/公开
-- **电话**：—
-- **原始联系字段**：info@electromaster.ie（Golden Pages 与 HiFi 名录均收录；都柏林 Tallaght）
+- **邮箱**：info@electromaster.ie【已停用:2026-10-04 退信 not-found(46h|20h retry 后 Message not delivered)】
+  - 状态：R62-退信-not-found
+- **电话**：2026-10-04
+- **原始联系字段**：info@electromaster.ie【已停用:2026-10-04 退信 not-found(46h|20h retry 后 Message not delivered) 发不过去】（Golden Pages 与 HiFi 名录均收录；都柏林 Tallaght）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -245,18 +245,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Golden Pages · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Golden%20Pages%20Electromaster%20Limited)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 中(EU 跟随);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对;工业锚(Moxa/Westermo 类)提及 → Marvell 工业谱同源,STI-288GP 强对口
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R62 退信补档(2026-10-04)
-
-- **退信实测(2026-10-04)**:`info@electromaster.ie` Gmail 退回(**not-found(46h|20h retry 后 Message not delivered)**);永久不可投递。规则:不删邮箱、只标「发不过去」+找替代路径;不主动群发重投该地址
-- **替代路径建议**:Golden Pages 总机/官网表单

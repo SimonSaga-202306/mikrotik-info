@@ -1,0 +1,274 @@
+# -*- coding: utf-8 -*-
+"""R66 A 类 KP 强化第 1 波:A-342/343/346/347/348 五户(具名 KP + 登记核验)。
+铁律:不改 CSV/STRUCT 渲染字段;KP 实名只进深挖 JSON;通用邮箱为入口;实名 KP 标注来源等级。"""
+import json
+
+PRICE = '$180 USD EXW (2026-10-07, 15天有效)'
+P1 = 'STC-424XGGPM-280W'
+
+def rec(customer, fact, inference, hypothesis, evidence_main, tech, hr, contact_found,
+        contact_pending, dims, evidence, followups, r55, unknowns, email):
+    return {'customer': customer, 'fact': fact, 'inference': inference, 'hypothesis': hypothesis,
+            'evidence_main': evidence_main, 'tech': tech, 'hr': hr, 'contact_found': contact_found,
+            'contact_pending': contact_pending, 'dims': dims, 'evidence': evidence,
+            'followups': followups, 'r55': r55, 'unknowns': unknowns, 'email': email}
+
+def fu(stage_angle_q):
+    out = []
+    for i, (angle, q) in enumerate(stage_angle_q):
+        stage = ('第 1 次跟进 · ', '第 2 次跟进 · ', '第 3 次跟进 · ')[i]
+        out.append({'stage': stage + angle, 'push': P1 if i == 0 else ('一页目录卡' if i == 1 else '—'),
+                    'angle': angle, 'question': q, 'proof': '规格页' if i == 0 else ('卡' if i == 1 else '—')})
+    return out
+
+records = []
+
+records.append(rec(
+    'A-342',
+    'T.net S.p.A.(意大利卡塔尼亚 Catania,2002 年创立,创新中小企;Elisa Giacone 与 Francesco Mazzola 联合创始人;'
+    'EIT Digital 直接持股 7%(欧盟 EIT 体系入股东);核心业务=System Integration + IoT Engineering + Cloud 外包/数据中心整合;'
+    'ZoomInfo 口径 51-200 员工、营收约 $5.5M',
+    '创始夫妻档双结构:Mazzola 主对外创新战略+MISE 认证创新经理(政府数字化背书),Giacone 主 HR+团队搭建;'
+    'IoT/智慧城市/智慧零售场景里 PoE 接入交换机是随行成本件',
+    'MISE 认证创新经理身份 = 对欧公营数字化项目有通道,MikroTik 系方案里可能有 RouterOS 集成结晶,换柜潮带 24 口 value PoE 缺口',
+    'https://www.tnet.it/en/shareholders/',
+    'IoT Engineering + System Integration;Cloud(虚拟化/纯光连接管理/云邮/云安全)',
+    '51-200 员工(ZoomInfo);2002 创的成熟企',
+    '**Francesco Mazzola = President & CEO、创始人、大股东(官网 shareholders 自曝) + Elisa Giacone = 联合创始人兼 HR 负责人(同页自曝);info@tnet.it CSV 入口不动**',
+    'Mazzola/Giacone 直连邮箱未官网公开,待 LinkedIn/注册处件',
+    {
+        '业务定位': 'IoT 工程+系统集成(Catania 基地、EIT Digital 关联的创新中堅)',
+        '产品线与在售品牌': 'IoT Engineering/System Integration/Cloud 外包(官网);MikroTik 谱从库内信号定位',
+        '目标行业与场景': '企业/基础设施/公营(Smart Mobility/Retail/Agrifood/Lightning/Health)',
+        '团队与规模': '51-200 人;2002 创',
+        '决策链与对接人': '**Francesco Mazzola(总裁&CEO+大股东);Elisa Giacone(联合创始人+HR)—— 官方自曝双实名 KP**',
+        '技术与认证': 'Francesco Mazzola = MISE 认证 Innovation Manager',
+        '采购与供应链信号': 'IoT/智慧城市方案现场的随单位硬体缺口',
+        '近期动态与线索': 'EIT Digital 7% 持股;2026 年 ZoomInfo 仍活跃',
+        '与我方契合点': 'IoT 方案随行 24 口 value PoE 层级',
+        '风险与注意': 'MikroTik 谱在官网不明,需问渠确认 MikroTik 份额'
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'T.net is an innovative SME born in 2002 on the initiative of Elisa Giacone and Francesco Mazzola, the current President and CEO', 'source': 'https://www.tnet.it/en/shareholders/'},
+        {'dim': '技术与认证', 'quote': 'President and CEO of T.net, Francesco Mazzola is Innovation Manager for the Ministry of Economic Development (MISE)', 'source': 'https://www.tnet.it/en/digital-transformation-4-0/'},
+        {'dim': '团队与规模', 'quote': '51-200 Employees · revenue $5.5M · Viale Africa 84, Catania', 'source': 'https://www.zoominfo.com/c/tnet-spa/405981279'},
+    ],
+    fu([
+        ('EIT 数字转型的随单位硬体', '智慧城市个案里 24 口 PoE 交换机现供品牌与服务缺口?'),
+        ('一页目录卡寄送', '可否挂 ICT 分录名?'),
+        ('留档+发送脸书/LinkedIn 谱', '—'),
+    ]),
+    {
+        'dims': {
+            '①背景再核': 'Catania 2002 创的 IoT/System Integration 中堅,官网一手核',
+            '②芯片/型号': '(待问)Smart City 方案网络的执行厂牌',
+            '③KP 深挖': '**Mazzola (CEO/总裁/大股东) + Giacone (联合创始人/HR)—— official-self-published 级实名**',
+            '④Saga 对标': 'IoT 现场价值 PoE(' + PRICE + ')',
+            '⑤在乎与偏好': '转型背书+政府认可;欧系精品口径',
+            '⑥SWOT': 'S 政府背书/EIT 股份 / W MikroTik 谱官网不明 / O IoT 随行硬体 / T 大牌集锁'
+        },
+        'care': ['MikroTik 谱份额是否已锁其他厂商'],
+        'swot': {'S': '政府/欧盟背书强', 'W': 'MikroTik 谱不明', 'O': 'IoT 随行件', 'T': '大牌集成'},
+        'uncertain': {'产品线核实': 'MikroTik 谱需在信中求证', '合作方式': '未知', '缺口证据': '官网无硬体分录页'},
+        'gap_proof': '官网未列硬体分录品',
+    },
+    ['MikroTik 谱的份额证明', '当前 PoE 交换机的执行品牌'],
+    'Hi T.net team,\n\nYour dual-layer story — IoT Engineering on one side and digital-transformation credentials on the other (congrats on the EIT Digital backing) — reads like an outfit that lives on-site. Behind every smart-lighting, smart-mobility, or agrifood node sits a small switching layer that nobody talks about but everybody restarts.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' - a value line that rides along with each site you deploy.\n\nCould you tell me who carries the hardware line for your IoT field deployments, so we can put the right spec in the right hands?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+records.append(rec(
+    'A-343',
+    'TECHNO CENTER S.P.A.(意大利罗马,Via Antonio Bertoloni 26 B;P.IVA 09319261005;2007-01-24 创;'
+    '2025 年 fatturato €12,624,035、utile €279,661、52 名员工、Capitale sociale €1,650,000 i.v.;'
+    '分支:Via Pasubio 35 Bari 运营点+ Via Onorato Vigliani 189 Torino;ATECO 62.90.09 = 其它 IT 服务;'
+    'SdI K0ROACV,PEC technocenter@legalmail.it',
+    '€12.6M 营收 / 52 人 = 中型 IT 服务商,三办(罗巴里/Bari/巴灵)跨南北;MikroTik 谱王者级工訝料商机率',
+    '技术密集型 IT 服务商在持案的协作终端现场件;MikroTik 分销链条的出仓价窗口=我们切入的 24 口 value PoE 层级',
+    'https://www.technocenter.it/sedi/',
+    'Altre attivita dei servizi connessi alle tecnologie IT;MikroTik 谱',
+    '52 名员工;2007 创,19 年谱',
+    'info@technocenter.it CSV 入口不动;Amministratore 公开登记册遮名(reportaziende 星号处理)——KP 实名待 visura camerale/LinkedIn 第二波;**本波守档准由:登记册实名需付费件,先记三办/财务基线**',
+    'Amministratore 实名 = 付费 visura 件	R.L. 波次 (R66 KPI 核心)、或职网 LinkedIn 维护',
+    {
+        '业务定位': '中型 IT 服务商(Fatturato €12.6M 2025)·罗马法本部+三办跨区(罗巴里/Bari/都灵)配IT 谱分销（53人 2021/52人 2026=同规模层面)',
+        '产品线与在售品牌': 'IT 技术服务(ATECO 62.90.09);MikroTik 谱 (库内信号)',
+        '目标行业与场景': '意南中央到北部公/企双口',
+        '团队与规模': '52 名员工(2026 报);2007 创',
+        '决策链与对接人': '**Amministratore 免费登记册遮名(公开渠道需 visura 付费件);info@ CRM 入口凾;本波守档准由**',
+        '技术与认证': '(待问 MikroTik 认证体系)',
+        '采购与供应链信号': '办事处三处/跨北南配来直进出口',
+        '近期动态与线索': '官网 2025-04 仍更新;SdI K0ROACV、PEC legalmail 表面 2026-05 财报已审',
+        '与我方契合点': 'IT 谱分销链条出仓价窗口→ 24 口 value PoE',
+        '风险与注意': 'KP 实名波次二补;注册资本 €1.65M 与营收规模相符'
+    },
+    [
+        {'dim': '业务定位', 'quote': 'Fatturato EUR 12,624,035.00 (2025) · Utile EUR 279,661.00 · Dipendenti 52 (2026) · ATECO 629009', 'source': 'https://www.ufficiocamerale.it/6849/techno-center-spa'},
+        {'dim': '团队与规模', 'quote': 'Bari (Via Pasubio 35) Operational Office · Torino (Via Onorato Vigliani 189) · Tel 06.62279692', 'source': 'https://www.technocenter.it/sedi/'},
+    ],
+    fu([
+        ('意国中型 IT 谱链条的出仓价窗口', '件谱别的链条,在持案的 24 口 PoE 其他厂商口栓资?'),
+        ('KP 二次波:注册处付费件/LinkedIn 期望找到 Amministratore 实名', 'Amministratore 实名 = 付费件波次二'),
+        ('留档+基线保持', '三办结构/财务基线已足'),
+    ]),
+    {
+        'dims': {
+            '①背景再核': '2007 创中型罗马本部 IT 谱分销商,三办结构,财报 2025 年 €12.6M 营收(ufficiocamerale 一手核)',
+            '②芯片/型号': '(待问案别的执行厂牌)',
+            '③KP 深挖': '**Amministratore 登记册遮名;info@ 职能口已足;守档准由(下一波 visura/RocketReach 波次二)**',
+            '④Saga 对标': '24 口 value PoE(' + PRICE + ')配案 BPM',
+            '⑤在乎与偏好': '中型谱面(IPATERY),长期支付可信',
+            '⑥SWOT': 'S 财务基线隐链班 / W KP 遮名难直达 / O IT 谱链条出仓价 / T 大牌集成'
+        },
+        'care': ['KP 实名 = 付费 visura 件 → 第二波加急'],
+        'swot': {'S': '财务基线', 'W': 'KP 遮名', 'O': 'IT 谱链条出口', 'T': '大牌集成'},
+        'uncertain': {'产品线核实': 'MikroTik 谱份额较其他硬谱中低', '合作方式': '未知', '缺口证据': '官网只见分支不提供硬谱分录'},
+        'gap_proof': '官网 sedi/公司信息页无现场硬谱分录',
+    },
+    ['Amministratore 实名(visura)','MikroTik 谱份额','当前硬谱执行厂牌'],
+    'Hi Techno Center team,\n\nRoma HQ plus operational offices in Bari and Torino — a genuine three-site IT services operation, with a EUR 12.6M 2025 revenue line to back it. That kind of footprint typically means a growing park of on-site switching that has to stay cheap, PoE-healthy, and documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' - a value unit for the field-projects your three offices run.\n\nCould you point us to the colleague who owns the purchasing line for on-site network hardware, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+# ——— A-346 Kappa Data NL + A-347 Kappa Data BE(同集团同波)———
+kappa_facts = (
+    'Kappa Data Group(比利时 De Pinte 总部,1998 创,2023 年 25 周年;分支:比利时/卢森堡/法国/荷兰/波兰;'
+    '2025-07-03 Channel News:InvestLink 私募强化后,**Patrick Casteels = 唯一 CEO(创始人,股比 22%→35%)**;'
+    'Chris Willems = 前 Co-CEO,转任 M&A 主责;Koert Martens = 技术总监(2011 前管理组合);'
+    'Michel Grunspan = 收购的法国 Exer CEO(集团管理增补);Erwan Le Guen = 法国国别总监;'
+    '2,900+ LinkedIn followers;目标 2030 前营收翻倍 · 只在 midsize/enterprise 转经商(reseller)谱'
+)
+kappa_facts_extra = (
+    'Kappa Data Nederland(Kappa Data Group 荷兰分支,2013 年创立的那家;**Rubin Zwanenburg = 荷兰员工(LinkedIn 自曝,网络/cyber/IoT/服务线)**;'
+    '荷兰/波兰被列为下波重点扩张国,团队在扩建'
+)
+
+for code, country_note, dims_extra, kp_extra, url_mail, sal_name in (
+    ('A-346',
+     'Kappa Data Nederland = Kappa Data Group 荷兰分支(2013 创的国别点,Channel News 认证在扩)',
+     {
+         '目标行业与场景': 'midsize/enterprise 的转经商谱(只接 reseller,不接 enduser)',
+         '决策链与对接人': '**Patrick Casteels(集团唯一 CEO+创始人);Chris Willems(前 Co-CEO→M&A);Koert Martens(技术总监);Rubin Zwanenburg(荷兰员工 LinkedIn 自曝);Erwan Le Guen 法国国别。official-self-published 级实名金谱**',
+     },
+     'Rubin Zwanenburg 实时表现荷兰面 LinkedIn 业务的 IoT/Security 线',
+     'info@kappadata.nl;Kappa Data Group HQ De Pinte, BE;kappadata.be/kappadata.nl 双站活用',
+     'Hi Kappa Data Nederland team'),
+    ('A-347',
+     'Kappa Data Belgium = Kappa Data Group 原生总部 De Pinte(1998 创,2023 年已满 25 周年)',
+     {
+         '目标行业与场景': '比/卢 reseller 谱的 Cyber/IoT/IoP 价值增值分销(VAD)中枢',
+         '决策链与对接人': '**Patrick Casteels(CEO/创始人 35% 股);Chris Willems(M&A 实责);Koert Martens(CTD 技术总监);Michel Grunspan(收购 Exer CEO);Erwan Le Guen(FR 国别);InvestLink 私募层——official-self-published 级金谱**',
+     },
+     '原生 HQ 在 De Pinte,2023 年自有报导 25 周年 +InvestLink 结构加固',
+     'info@kappadata.be;kappadata.be;kappa-data LinkedIn',
+     'Hi Kappa Data team'),
+):
+    records.append(rec(
+        code,
+        kappa_facts + ';' + country_note + ';' + kp_extra,
+        'Patrick Casteels 经 co-CEO 共享后转唯一 CEO;InvestLink 私募深化持股;Casteels 股比 22%→35%;VAD 谱 LinkedIn 2,900+ followers;2030 翻倍目标下扩欧',
+        '对转经商的「同档多谱」集成时,汇报层同厂转额的锚点件,卖「MikroTik 同档的成本 value PoE」能打三波',
+        'https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/',
+        'Security/IoT/IoP 值增值分销,Extreme Networks/Aruba 集成',
+        '集团比利时/FR/NL/PL 四办;LinkedIn 2,900+ followers;27 年谱',
+        '**' + ('Rubin Zwanenburg(LinkedIn 自曝/Kappa Data Nederland)+组格 Patrick Casteels(CEO)+Chris Willems(M&A)+Koert Martens(技术总监)+Michel Grunspan+Erwan Le Guen+InvestLink' if code == 'A-346' else 'Patrick Casteels(CEO/创始人/35%)+Chris Willems+Koert Martens+Michel Grunspan+Erwan Le Guen+InvestLink') + ';' + url_mail + ' CSV 入口不动**',
+        '',
+        {
+            '业务定位': 'value-add distributor(VAD)的 edge 安全/IoT/network 集成分销谱;只接 reseller 谱、不接 enduser',
+            '产品线与在售品牌': 'Extreme Networks/Aruba HPE/Juniper/HPE Networking;MikroTik 从库内信号',
+            **dims_extra,
+            '技术与认证': '25+年 IT infra/security 分销;技术实力同格 Waveline',
+            '采购与供应链信号': '转经商谱的多牌集成、分销组线;对搭配的 value PoE 件链窗口',
+            '近期动态与线索': '2025-07 Channel News 报鹏芽双层(PE+CEO 重组+欧国扩)',
+            '与我方契合点': '「同档多谱」谱里 value PoE 替换件的转经价值',
+            '风险与注意': '只接 reseller 不接受直触达;雪要派谱链接送转经商上端'
+        },
+        [
+            {'dim': '决策链与对接人', 'quote': 'Tot voor kort deelden Patrick Casteels en Chris Willems de rol van Co-CEO ... Patrick de enige CEO ... Chris zich toespitst op het M&A-luik', 'source': 'https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/'},
+            {'dim': '业务定位', 'quote': '25 jaar Kappa Data ... Tot 2011: Patrick Casteels managing director, Koert Martens technisch directeur, 2011 Chris Willems ... 2013 NL, 2015 PL, 2019 InvestLink, 2021 Exer', 'source': 'https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/'},
+            {'dim': '目标行业与场景', 'quote': 'Rubin Zwanenburg at Kappa Data Nederland: Network Infrastructure, (Cyber) Security, Internet of Things, Services, Business Models', 'source': 'https://www.linkedin.com/in/rubin-zwanenburg-b05a952/'},
+            {'dim': '近期动态与线索', 'quote': 'In Nederland en Polen worden de bestaande teams dan weer versterkt. Chris Willems gaat in verschillende landen zoeken naar synergien', 'source': 'https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland'},
+        ] if code == 'A-346' else [
+            {'dim': '决策链与对接人', 'quote': 'Patrick Casteels ... enige CEO ... Chris Willems ... M&A-luik', 'source': 'https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/'},
+            {'dim': '业务定位', 'quote': '25 jaar: Patrick Casteels managing director, Koert Martens technisch directeur;2013 NL/2015 PL/2019 InvestLink/2021 Exer', 'source': 'https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/'},
+            {'dim': '近期动态与线索', 'quote': 'Kappa Data, value added distributor, heeft naast het hoofdkantoor in België, kantoren in Frankrijk, Nederland en Polen ... 27 jaar', 'source': 'https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland'},
+        ],
+        fu([
+            ('同档多谱 VAD 的 value PoE 替换件', 'Kappa NL/BE 详措『同档多谱』转商上游, MikroTik 成本谱对象的替换件有必要?'),
+            ('M&A 期的转商搭件谱(+Chip 谱)', 'InvestLink 结构化扩能期,转商谱的价值层是新样?'),
+            ('留档+LinkedIn 谱,在渠道处理时只谱 NL/BE 谱', '谱接 CEO/CTO 谱位的公开 LinkedIn 谱'),
+        ]),
+        {
+            'dims': {
+                '①背景再核': 'De Pinte 1998 创的欧盟 VAD 谱,比利时/FR/NL/PL 四办,2025-07 PE 重组,Channel News 一手核',
+                '②芯片/型号': 'Extreme/Aruba/Juniper 同档(官网);MikroTik 从库内信号——同档多谱集成',
+                '③KP 深挖': ('**Patrick Casteels(CEO 金谱)+Chris Willems(M&A)+Koert Martens(技术总监)+Michel Grunspan+Erwan Le Guen+Rubin Zwanenburg(NL)**' if code == 'A-346' else '**Patrick Casteels(CEO 金谱)+Chris Willems+Koert Martens+Michel Grunspan+Erwan Le Guen+InvestLink**'),
+                '④Saga 对标': 'MikroTik 成本谱对象的 value PoE(' + PRICE + ')配天平',
+                '⑤在乎与偏好': 'VAD 谱、reseller-only、安全/IoT/IoP 集成',
+                '⑥SWOT': 'S VAD 谱强/InvestLink 持 / W 直触 reseller 谱上端 / O MikroTik 成本谱替换件的转商价值 / T 大牌做成'
+            },
+            'care': ['reseller-only 谱能够达的或直接触达律'],
+            'swot': {'S': 'VAD 谱/PE 加持', 'W': '直触 reseller 谱上端', 'O': 'value PoE 替换件', 'T': '大牌集成'},
+            'uncertain': {'产品线核实': 'MikroTik 成本谱谱链未知', '合作方式': 'reseller 谱上端', '缺口证据': '官网未列 hard line 分录谱'},
+            'gap_proof': '官网关注 services/training VAD 谱,未列 hard line 分录谱',
+        },
+        ['MikroTik 成本谱谱链', '当前 24 口 PoE 执行品牌/搭配线', 'reseller 谱的谱链搭'],
+        sal_name + (', Kappa Data Nederland looks like exactly the kind of value-add distributor where a 24-port value PoE layer would slot in alongside the Extreme/Aruba lines you already carry.' if code == 'A-346'
+                      else ', the Belgian value-add distributor at the heart of the Kappa data Group— a name that shows up everywhere smart city and IoT projects in the BeNeLux do their buying.'),
+    ))
+
+records.append(rec(
+    'A-348',
+    'Nlogic AS(挪威 Oslo Skøyen,Karenslyst allé 20;Org.nr 821 678 102;2007 创立,2018-11-07 重新注册;'
+    '49 名员工(2026-09-21 1881.no 报),Omsetning ≈501,875 kNOK,Fortjenestemargin 25.8%;'
+    'Nlogic Group AS 持 68%;谱型=网络/安全/数据中心咨询&经销商,MikroTik 15 年以上沉淀',
+    '挪威网络咨询中堅,Nlogic Group 结构强化属集团化(68% 母公司);在咨询 + 硬售 + 培训三谱,价值链任一单位可行',
+    '15 年挪威网络基础设施⇒ 交换机等硬品长期定点,24 口 value PoE 对工程数量敞口',
+    'https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/',
+    'Network/Security/Datacenter 咨询 + 销售 + 培训(MikroTik 15 年)',
+    '49 名员工;Group AS 68% 持;25.8% fortjenestemargin',
+    '**Erlend Bonesvoll = Daglig leder(总经理,erlend@nlogic.no +47 40 61 44 44 — mynewsdesk 2015 官方新闻稿自曝实名邮+电话,official-self-published 级金谱)** + Arne Giæver(Styrets leder 董事长)+ Marcus Erik Wahlberg(董事)+ Robert R. Olsen(kundeansvarlig Powertech)+ Jonas Lindstad(Nettverkskonsulent)',
+    '',
+    {
+        '业务定位': '挪威网安/数据中心咨询谱,15 年 Node 底座',
+        '产品线与在售品牌': '(官方未列牌谱)=网络+安全+IT-drift+datasikkerhet;MikroTik 库内信号',
+        '目标行业与场景': 'Oslo 通行/So-huskient(网络基础设施谱)',
+        '团队与规模': '49 名员工(1881.no 2026);Nlogic Group AS 68%',
+        '决策链与对接人': '**Erlend Bonesvoll(Daglig leder/总经理,官方自曝 erlend@nlogic.no);Arne Giæver(董事长);Marcus Erik Wahlberg(董事);Robert R. Olsen(kundeansvarlig);Jonas Lindstad(Nettverkskonsulent)**',
+        '技术与认证': '网络/安全/数据中心咨询,MikroTik 谱(库内信号)',
+        '采购与供应链信号': '15 年 Node 底座,网络件的供应铺放定期流动',
+        '近期动态与线索': '2018 新注;25.8% fortjenestemargin;Plugtech 等谱(nLogic press 有谱)',
+        '与我方契合点': '咨询+硬售+培训三谱,value PoE 各场景',
+        '风险与注意': 'ePOST (erlend@nlogic.no) 虽自曝,但直发要 opt-in/谱链明智'
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'Daglig leder Erlend Bonesvoll · Styrets leder Arne Giæver · Styremedlem Erlend Bonesvoll, Marcus Erik Wahlberg · Antall ansatte: 49', 'source': 'https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/'},
+        {'dim': '决策链与对接人', 'quote': 'Kontakter: Erlend Bonesvoll Daglig leder erlend@nlogic.no +47 40 61 44 44 · Ola hadde noe kjennskap fra Robert R. Olsen kundeansvarlig Powertech', 'source': 'https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779'},
+        {'dim': '业务定位', 'quote': 'Org.nr 821 678 102 · Omsetning 501 875 tkr · Fortjenestemargin 25.8% · Aksjonærer: Nlogic Group AS (68%)', 'source': 'https://www.gulesider.no/nlogic+as+oslo/147338258/bedrift'},
+    ],
+    fu([
+        ('挪威网络咨询的随单位价值 PoE', '15 年 Node 底座,談案の现场交换机现供品牌与缺口?'),
+        ('MikroTik 同档 value PoE 品牌面(或其它谱)', 'RCT-suites like NETGEAR/Ubiquiti/SFP-line:现供件?'),
+        ('erlend@ 邮件模式跟进(官方自曝金谱)', '「坚实·安稳」里我们价值 PoE 谱 Q4'),
+    ]),
+    {
+        'dims': {
+            '①背景再核': 'Gulesider+1881.no 双登记册一手核,49 员工、68% Group AS 持、25.8% margin',
+            '②芯片/型号': '(未列硬牌)=网络/安全/datacenter 咨询;MikroTik 15 年沉淀',
+            '③KP 深挖': '**Erlend Bonesvoll(Daglig leder/官方自曝邮 erlend@nlogic.no) + Arne Giæver(董事长) + Marcus Erik Wahlberg(董事) + Robert R. Olsen(kundeansvarlig) + Jonas Lindstad(Nettverkskonsulent)**',
+            '④Saga 对标': '咨询+硬售+培训三谱的价值 PoE(' + PRICE + ')',
+            '⑤在乎与偏好': '网络坚实基础 + 25.8% margin 稳如',
+            '⑥SWOT': 'S 自曝金谱+财务 / W 凑档次小谱 / O 网络件的规模敞口 / T 大牌'
+        },
+        'care': ['erlend@ 直发要 合用 opt-in/谱链链明智'],
+        'swot': {'S': '自曝金谱', 'W': '小谱增援', 'O': '规模敞口', 'T': '大牌'},
+        'uncertain': {'产品线核实': '硬牌谱未官列=信间问', '合作方式': '未知', '缺口证据': '官网谱未列 hard 分录档'},
+        'gap_proof': '官网谱未列 hard 分录档',
+    },
+    ['当前现场交换机品牌/服务谱', 'MikroTik 谱份额'],
+    'Hi Erlend,\n\nI came across nLogic while mapping MikroTik-related distributors in Norway — 49 engineers on Skøyen and a name that keeps showing up on the serious Norwegian infrastructure projects. Impressive longevity: since 2007 on the same beat.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' - a value unit for the on-site deployments your team designs.\n\nCould you point me to whoever carries the switching line in your projects, so we can get the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+out = {'date': '2026-10-07', 'wave': 'R66 第 1 波(A-342/343/346/347/348)',
+       'scope': '意大利双户 + Kappa NL/BE(同集团) + nLogic NO',
+       'records': records}
+json.dump(out, open('batch/A类深挖_2026-10-07_R66_R56_KP第1波.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print('R66 第 1 波', len(records), '户落盘')

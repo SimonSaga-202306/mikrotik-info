@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.sit…
+- **是谁**：Adrián González Notario（西班牙个体谱；R65 搜索无果守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 2026 新 ASN 运营者守档观察:技术对话备养,等其上线部署的硬件窗口；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Adrián González Notario（西班牙个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**)
+- 【事实】Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**) | R65 深挖:守档准由
 - 【推断】持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口
 - 【假设】守档备养+重点观察:具名技术对话(BGP/互联语言),其 AS 上线部署时接入/汇聚件选型是我方窗口;不推消费档,被他节奏走
 
@@ -103,9 +103,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**)
+- **背景深描**：Adrián González Notario（西班牙个体谱；R65 搜索无果守档准由）
 - **芯片与在用型号**：【推断】持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE 
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE
   > CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

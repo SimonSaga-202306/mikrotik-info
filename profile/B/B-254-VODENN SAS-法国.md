@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéopro…
+- **是谁**：VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launa | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径
+- 【事实】VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位
 - 【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
 - 【假设】开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launay = Directeur Général（1984-02 生，2019-05-02 在任）**;6201 编程/IT 咨询
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dorian Pistolesi | Président | 经 vodenn.fr | verif + pappers 双源 | https://www.verif.com/societe/VODENN-841882962/ |
+| Julien Launay | Directeur Général(2019-05 在任） | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
 
-- **背景深描**：VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径
+- **背景深描**：VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launay = Directeur Général（1984-02 生，2019-05-02 在任）**;6201 编程/IT 咨询
 - **芯片与在用型号**：【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
-- **关键人KP**：—
+- **关键人KP**：Dorian Pistolesi = Président;Julien Launay = DG
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bornes 装置 PoE 回程随单位 / T:自研 AP 面正对面
 - **Saga产品适配**：法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位
@@ -127,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon
   > VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon
   > 来源：https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962
+- **【R65 登记/实名】**VODENN SIREN 841882962 · La Farlède(Var) 2018 创微企 · Pistolesi 主+ Launay DG
+  > 841882962 Siret … Dorian PISTOLESI Président … Julien LAUNAY Directeur Général … La Farlede … Société par actions simplifiée … Capital 15 000 €
+  > 来源：https://www.verif.com/societe/VODENN-841882962/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +164,7 @@ S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bo
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

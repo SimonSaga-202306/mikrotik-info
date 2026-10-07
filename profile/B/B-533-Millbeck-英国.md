@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱…
+- **是谁**：MILLBECK COMMUNICATIONS LIMITED(Companies House 04501248;Wetherby 西约克郡;2002 年 **Paul Graham Finder = 创始董事总经理(1…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-285→B-533】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销）与「Teltonika（Diamond 最高级）」，需求未核。
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | MILLBECK COMMUNICATIONS LIMITED(Companies House 04501248;Wetherby 西约克郡;2002 年 **Paul Graham Finder = 创始董事总经理(1960 生,2002-08 在任至今)**;谱型=英国商业通信服务/VoIP/宽带/OLT(Fibre/ADSL/EFM/移动 4G);Da | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281/282 管理型 PoE)** + IoT SIM + 天线 + RMS rms.credit;**公用事业垂直深绑(水/气/电/热网络运营商 SCADA/智能计量 LTE-M/NB-IoT)**;自述开放式站位『without vendor lock-in, fully compatible with Cisco, Juniper, HPE』
+- 【事实】Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281/282 管理型 PoE)** + IoT SIM + 天线 + RMS rms.credit;**公用事业垂直深绑(水/气/电/热网络运营商 SCADA/智能计量 LTE-M/NB-IoT)**;自述开放式站位『without vendor lock-in, fully compatible with Cisco, Juniper, HPE』 | R65 深挖:Wetherby 电信 VoIP 老谱 2002;Finder 家族富二代 2024 接棒
 - 【推断】Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求
 - 【假设】开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎
 
@@ -82,7 +82,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Paul Graham Finder | Founder & Managing Director | 经 millbeck.co.uk | Companies House + Tracxn 双源 | https://find-and-update.company-information.service.gov.uk/company/04501248/officers |
+| Daniel Finder | Director(2024-11 新任) | 同上 | 同上 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281/282 管理型 PoE)** + IoT SIM + 天线 + RMS rms.credit;**公用事业垂直深绑(水/气/电/热网络运营商 SCADA/智能计量 LTE-M/NB-IoT)**;自述开放式站位『without vendo
+- **背景深描**：MILLBECK COMMUNICATIONS LIMITED(Companies House 04501248;Wetherby 西约克郡;2002 年 **Paul Graham Finder = 创始董事总经理(1960 生,2002-08 在任至今)**;谱型=英国商业通信服务/VoIP/宽带/OLT(Fibre/ADSL/EFM/移动 4G);Daniel Finder(1991 生)+Benjamin Finder(1994 生)2024-11 新任董事——富二代接棒家族谱
 - **芯片与在用型号**：【推断】Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求
-- **关键人KP**：—
+- **关键人KP**：Paul Graham Finder = Founder & Managing Director(核查处 1960 生);Daniel/Benjamin Finder = 2024-11 新任双董事
 - **关注点与资质**：Teltonika（Diamond 最高级） 
 - **优缺点SWOT**：S:Diamond 最高级+公用事业深垂直+16 年 / W:Teltonika 排他深绑 / O:招标双源/交期备胎对照位(其自写不锁 vendor) / T:Diamond 忠诚冲突
 - **Saga产品适配**：Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)
@@ -129,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed 
   > Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed private IP addressing for SCADA
   > 来源：https://millbeck.co.uk/solutions/utilities
+- **【R65 商业登记】**Millbeck Communications Ltd 04501248 · Wetherby 2002 · Paul Finder 创始 MD+2024 年 Daniel/Benjamin Finder 新董事
+  > FINDER, Paul Graham Role Active: Director Date of birth: August 1960 … Founded in 2002 by Paul Finder … The founders of Millbeck Communications is Paul Finder
+  > 来源：https://tracxn.com/d/companies/millbeck-communications/__txNX05Uaoy5lfW7NMbICWfCeiasg7vXQEi5eN4DW-C0
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +166,7 @@ S:Diamond 最高级+公用事业深垂直+16 年 / W:Teltonika 排他深绑 / O:
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

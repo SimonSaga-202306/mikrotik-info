@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=K…
+- **是谁**：IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-282→B-531】官网 /contact-us 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，需求未核。
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical Director UK(2020 起 director 角色兼电气时报 KNX 课程主讲);Romesh Anandaraja = NZ E | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名
+- 【事实】IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名 | R65 深挖:KNX 语族首代分销;Colin Price 所创/README 英国 KNX 推广者
 - 【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期
 - 【假设】开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入
 
@@ -84,7 +84,11 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Colin Price | Founder(创始人/KNX 首代引进者) | 经 ivoryegg.co.uk | ivoryegg.co.uk 自曝 | https://ivoryegg.co.uk/about |
+| Mark Warburton | Technical Director(UK Ltd) | 同上 | knxtoday + Electrical Times 双源 | https://www.knxtoday.com/2020/08/16329/ivory-egg-gets-fit-for-the-future.html |
+| Craig Chapman | Group CEO | 同上 | ivoryegg.co.uk 自曝 | https://ivoryegg.co.uk/about |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -114,11 +118,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Any
+- **背景深描**：IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical Director UK(2020 起 director 角色兼电气时报 KNX 课程主讲);Romesh Anandaraja = NZ Exec Director;Craig Chapman = Group CEO;集团英国/澳大利亚/新西兰三国架
 - **芯片与在用型号**：【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期
-- **关键人KP**：—
+- **关键人KP**：Colin Price = Founder(KNX 血统);Mark Warburton = Technical Director/UK Director;Craig Chapman = Group CEO
 - **关注点与资质**：N-Tron + Red Lion + Anybus + Ewon 
 - **优缺点SWOT**：S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 大项目 IP 骨干 PoE 随单 / T:KNX bus 自足时网络件外采少
 - **Saga产品适配**：KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位
@@ -131,6 +135,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point
   > This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point
   > 来源：https://ivoryegg.co.uk/news_items/new-UK-HQ
+- **【R65 谱位】**Ivory Egg KNX 技术型分销;Colin Price founder;Mark Warburton UK Technical Director;英/澳/新三国架
+  > Ivory Egg founder Colin Price adopted KNX as the control platform of choice … Romesh Anandaraja Executive Director [NZ] … Craig Chapman Chief Executive Officer [Group]
+  > 来源：https://ivoryegg.co.uk/about
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -162,7 +169,7 @@ S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

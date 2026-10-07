@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org)…
+- **是谁**：Gunther Engetsberger(Stadtgemeinde Oberndorf bei Salzburg 市公局 **Leiter IT(IT 主管)**,兼 Radiofabrik Salzburg 2023…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 萨尔茨堡圈顾问备养:具名通道；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Gunther Engetsberger(Stadtgemeinde Oberndorf bei Salzburg 市公局 **Leiter IT(IT 主管)**,兼 Radiofabrik Salzburg 2023 董事会成员;1999-2020 年 20+ 年 Jugendzentrum 技术志愿;BHAK Oberndorf bei Salzbur | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org)
+- 【事实】Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org) | R65 深挖:市政 IT 权威度=奥地利中部政企 IT 权威位;20 年我是年口
 - 【推断】萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项
 - 【假设】守档备养:具名引见(无线专项)
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gunther Engetsberger | Leiter IT(市公局 IT 主管) | 经 oberndorf.salzburg.at 市政办公 / LinkedIn | oberndorf.salzburg.at 市政职员页+LinkedIn 双源 | https://www.oberndorf.salzburg.at/Stadtamtsleitung |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -103,11 +105,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org)
+- **背景深描**：Gunther Engetsberger(Stadtgemeinde Oberndorf bei Salzburg 市公局 **Leiter IT(IT 主管)**,兼 Radiofabrik Salzburg 2023 董事会成员;1999-2020 年 20+ 年 Jugendzentrum 技术志愿;BHAK Oberndorf bei Salzburg 培养;sei-ned.org (SEI/KNX 智装能野) 关联域;个体 MikroTik 顾问/培训师血统=市政 IT 权威位
 - **芯片与在用型号**：【推断】萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项
-- **关键人KP**：—
+- **关键人KP**：Gunther Engetsberger = Stadt Oberndorf Leiter IT(日报绍尔兹奥地利中部政企 IT 位;LinkedIn+gov 双源)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE 
 - **优缺点SWOT**：S:三证+无线专项 / W:足迹薄 / O:萨尔茨堡圈 SME 随单 / T:失联
 - **Saga产品适配**：萨尔茨堡圈顾问备养:具名通道
@@ -117,6 +119,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE;sei-ned.org 域
   > CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE;sei-ned.org 域
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 实名/职位】**Gunther Engetsberger = Stadtgemeinde Oberndorf Leiter IT(市政 IT)· Radiofabrik 董事会成员 2023
+  > Gunther Engetsberger (Leiter IT) … Board: Susanne Imhof … Gunther Engetsberger [Radiofabrik 2023]
+  > 来源：https://www.oberndorf.salzburg.at/Stadtamtsleitung
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +153,7 @@ S:三证+无线专项 / W:足迹薄 / O:萨尔茨堡圈 SME 随单 / T:失联
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

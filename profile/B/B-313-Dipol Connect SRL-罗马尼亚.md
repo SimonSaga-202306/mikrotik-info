@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、…
+- **是谁**：Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;off | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;office@dipolnet.ro)
+- 【事实】Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;office@dipolnet.ro) | R65 深挖:București 制造实体 1.5M€/6 人谱支
 - 【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在
 - 【假设】开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313);2024 营收 7,459,353 RON ≈€1.5M/净利 356K RON/6 员工;office@dipolnet.ro / +40 31 428 1005
 
 ## 联系方式（已有/猜测分标）
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;office@dipolnet.ro)
+- **背景深描**：Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313);2024 营收 7,459,353 RON ≈€1.5M/净利 356K RON/6 员工;office@dipolnet.ro / +40 31 428 1005
 - **芯片与在用型号**：【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在
-- **关键人KP**：—
+- **关键人KP**：—(SRL adminstrator ONRC București 收费墙;R65 谱位+财务档案已足）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:相机谱 DIN PoE 轨+集团 OEM 侧线 / T:自有品牌倾向选白牌时审视严
 - **Saga产品适配**：DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere … switch-uri … DVR/NVR
   > CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere … switch-uri … DVR/NVR
   > 来源：https://www.dipolnet.ro/
+- **【R65 登记/财务】**Dipol Connect SRL CIF 26051890 · 2009-10-01 创 · 2024 营收 7.46M RON/净利 356K · 6 员工 · 光纤电缆制造+电子维修谱
+  > Fiscal Code 26051890 … cifră de afaceri 2024: 7.459.353 RON … 6 [employees] … Fabricarea de cabluri cu fibră optică … Repararea echipamentelor electronice și optice
+  > 来源：https://www.totalfirme.ro/dipol-connect-srl-26051890
 
 ## 产品决策（Saga · 单一决策口径）
 

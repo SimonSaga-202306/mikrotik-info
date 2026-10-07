@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分…
+- **是谁**：ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong =…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effil | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong = jednatel(2025-12-08 新任）；Petr Bilík 前 jednatel(2013-2025-12-08);谱型=自动测 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处
+- 【事实】ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel
 - 【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客
 - 【假设】开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/C
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Michal Harhaj | Jednatel(13 年核心） | 经 atesystem.cz | rejstrik.penize.cz 实名 | https://rejstrik.penize.cz/01392042-atesystem-s-r-o |
+| Ing. Dušan Šelong | Jednatel(2025-12 新任) | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/C
+- **背景深描**：ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong = jednatel(2025-12-08 新任）；Petr Bilík 前 jednatel(2013-2025-12-08);谱型=自动测试/机检/illumination 系统组件；data schránka jxtq5qi
 - **芯片与在用型号**：【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客
-- **关键人KP**：—
+- **关键人KP**：Michal Harhaj = jednatel(2013-至今，13 年）;Ing. Dušan Šelong = jednatel(2025-12-08 新任）
 - **关注点与资质**：Antaira 
 - **优缺点SWOT**：S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 / O:GigE 相机 PoE 供电 DIN 轨伴随刚需 / T:Antaira 排他
 - **Saga产品适配**：机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)
@@ -128,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**vlastnímu vývoji strojového vidění na klíč…testy a studie proveditelnosti, zápůjčky kamer
   > vlastnímu vývoji strojového vidění na klíč…testy a studie proveditelnosti, zápůjčky kamer
   > 来源：https://cz.linkedin.com/company/atesystem
+- **【R65 商业登记】**ATEsystem s.r.o. Ostrava IČO 01392042 · Harhaj jednatel 2013· Šelong jednatel 2025-12-08 新任；自動测试/机检谱
+  > Jednatel Michal Harhaj Den vzniku funkce: 8. únor 2013 … Ing. Dušan Šelong Hrabyně 264 … jednatel 8. 12. 2025 … Jsme specialisté na automatické testování, kamerové inspekce
+  > 来源：https://rejstrik.penize.cz/01392042-atesystem-s-r-o
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +165,7 @@ S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

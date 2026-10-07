@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名)…
+- **是谁**：JMR Logics / JMR.ca(Niagara Falls, Ontario,Canada;716-804-5878 总部;…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 尼亚加拉 IT 商备养:具名通道,酒店谱信号再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | JMR Logics / JMR.ca(Niagara Falls, Ontario,Canada;716-804-5878 总部; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名)
+- 【事实】Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名) | R65 深挖:Niagara ON 本地 Bitsy 实体;Simon+Riley 双谱位
 - 【推断】尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布)
 - 【假设】守档备养:具名引见;旅游城酒店网络更新谱是其潜在 PoE 场景
 
@@ -84,7 +84,8 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Simon Miners | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Simon Miners | Network Administrator(B-072 本人谱位),Wireless/Cyber/MikroTik 专长 LinkedIn 自曝 | s*****@jmr.ca(模式提示；905 前缀） | zoominfo + rocketreach 双自曝 | https://rocketreach.co/simon-miners-email_95924696 |
+| John Riley | President & Senior IT Consultant | j*****@jmr.ca | rocketreach 自曝 | https://rocketreach.co/simon-miners-email_95924696 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +108,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名)
+- **背景深描**：JMR Logics / JMR.ca(Niagara Falls, Ontario,Canada;716-804-5878 总部;
 - **芯片与在用型号**：【推断】尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布)
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Simon Miners = Network Administrator(即 CSV B-072 本人)+John Riley President & Senior IT Consultant
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:公司域+旅游城谱位 / W:足迹薄 / O:酒店网络 PoE 随单(瀑布城) / T:失联
 - **Saga产品适配**：尼亚加拉 IT 商备养:具名通道,酒店谱信号再激活
@@ -121,6 +122,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE;jmr.ca 公司域
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE;jmr.ca 公司域
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 实名/谱位】**JMR.ca=JMR Logics Niagara Falls ON 谱；Simon Miners Network Admin(MLS:Brock U,Microtik,cyber,wireless)+老板 Riley President
+  > Simon Miners is Network Administrator at JMR Logics & Upper Rapids … With a robust skill set that includes Network Administration, Wireless Networking, Cybersecurity, Mikrotik, Network Security … John Riley President and Senior IT Consultant
+  > 来源：https://rocketreach.co/simon-miners-email_95924696
 
 ## 产品决策（Saga · 单一决策口径）
 

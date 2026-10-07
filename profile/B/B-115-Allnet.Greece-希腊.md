@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the str…
+- **是谁**：ALLNET.Greece / Allnet Greece 分支(R57 已述;ALLNET 世界集团 Bauer 家长径在同科——德国母体 B-138 Bauer/意大利 B-154 €88M 距并;…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ALLNET 集团南欧站的 value PoE 档集团谱补位(B-001 NORDIC 表亲同一逻辑)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ALLNET.Greece / Allnet Greece 分支(R57 已述;ALLNET 世界集团 Bauer 家长径在同科——德国母体 B-138 Bauer/意大利 B-154 €88M 距并; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+ 年翻+60,000+ 欧洲伙伴;Allnet GmbH(Munich 1991 Wolfgang Marcus Bauer 创）母体+多欧洲站(含北欧站=B-001 ALLNET Nordic 的表亲)
+- 【事实】Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+ 年翻+60,000+ 欧洲伙伴;Allnet GmbH(Munich 1991 Wolfgang Marcus Bauer 创）母体+多欧洲站(含北欧站=B-001 ALLNET Nordic 的表亲) | R65 深挖:ALLNET 集团联动径宣称
 - 【推断】ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容
 - 【假设】开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口
 
@@ -109,11 +109,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第10批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+ 年翻+60,000+ 欧洲伙伴;Allnet GmbH(Munich 1991 Wolfgang Marcus Bauer 创）母体+多欧洲站(含北欧站=B-001 ALLNET Nordic 的表亲)
+- **背景深描**：ALLNET.Greece / Allnet Greece 分支(R57 已述;ALLNET 世界集团 Bauer 家长径在同科——德国母体 B-138 Bauer/意大利 B-154 €88M 距并;
 - **芯片与在用型号**：【推断】ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容
-- **关键人KP**：—
+- **关键人KP**：—(谱与 B-138 W.M. Bauer 联动径)
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:Allnet 集团系+60k 伙伴+南欧信谱 / W:多站/集团层次杂,决策遍喋 / O:STC-424 集团合价联动入 value 档 / T:集团内在异构
 - **Saga产品适配**：ALLNET 集团南欧站的 value PoE 档集团谱补位(B-001 NORDIC 表亲同一逻辑)
@@ -126,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Allnet.Italia S.p.A. Master Distributor Value Added Distributor Bologna Italy
   > Allnet.Italia S.p.A. Master Distributor Value Added Distributor Bologna Italy
   > 来源：https://altostrat.io/buying/hardware/resellers/europe/italy/
+- **【R65 联动】**ALLNET 集团全球分支;谱与 B-138/B-154  Bauer 同联径；希腊站内坑
+  > (R65 联动口径:ALLNET 集团家长 Wolfgang Marcus Bauer 1991 创立,99 员工国际)
+  > 来源：https://www.wer-zu-wem.de/firma/allment-computer.html
 
 ## 产品决策（Saga · 单一决策口径）
 

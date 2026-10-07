@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱…
+- **是谁**：Andrei Zhernosek（美国个体谱；R65 搜索无果守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 美区多证个体顾问（A 档先例：顾问/师者统一 CONSULT-OEM——关系+教具样本线，不首推销)；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Andrei Zhernosek（美国个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱
+- 【事实】Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱 | R65 深挖:守档准由
 - 【推断】与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态
 - 【假设】西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话
 
@@ -111,9 +111,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱
+- **背景深描**：Andrei Zhernosek（美国个体谱；R65 搜索无果守档准由）
 - **芯片与在用型号**：【推断】与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCSE+MTCEWE 
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**MikroTik 认证顾问需 MTCNA≥75%+至少一个 MTC*E 在续
   > MikroTik 认证顾问需 MTCNA≥75%+至少一个 MTC*E 在续
   > 来源：https://mikrotik.com/consultants
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

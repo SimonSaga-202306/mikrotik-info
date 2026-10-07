@@ -1,0 +1,187 @@
+# -*- coding: utf-8 -*-
+"""R66 A 类 KP 强化第 2 波:A-350/354/358/363 — LinkedIn/登记册/DnB 实名 KP 补。"""
+import json
+
+PRICE = '$180 USD EXW (2026-10-07, 15天有效)'
+
+def fu():
+    return [
+        {'stage': '第 1 次跟进 · 具名 KPI 引路口', 'push': 'STC-424XGGPM-280W',
+         'angle': '具名 KP 引路 → 采购/技术硬件分载线', 'question': '贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？',
+         'proof': '规格页'},
+        {'stage': '第 2 次跟进 · 一页目录卡', 'push': '一页目录卡',
+         'angle': '价值层 PoE 谱链卡', 'question': '可否入谱链名录？', 'proof': '卡'},
+        {'stage': '第 3 次跟进 · 留档+LinkedIn 谱', 'push': '—',
+         'angle': '谱链明智途径(LinkedIn 公开面)', 'question': '—', 'proof': '—'},
+    ]
+
+def rec(customer, fact, inference, hypothesis, evidence_main, tech, hr, contact_found, contact_pending,
+        dims, evidence, email):
+    return {'customer': customer, 'fact': fact, 'inference': inference, 'hypothesis': hypothesis,
+            'evidence_main': evidence_main, 'tech': tech, 'hr': hr, 'contact_found': contact_found,
+            'contact_pending': contact_pending, 'dims': dims, 'evidence': evidence, 'followups': fu(),
+            'r55': {
+                'dims': {
+                    '①背景再核': dims['业务定位'],
+                    '②芯片/型号': '(待问或官网未硬谱分录档；MikroTik 从库内信号)',
+                    '③KP 深挖': dims['决策链与对接人'],
+                    '④Saga 对标': '24 口 value PoE(' + PRICE + ')→ 成本谱替换件/随行件',
+                    '⑤在乎与偏好': dims.get('目标行业与场景', '谱链分布体系'),
+                    '⑥SWOT': dims['_swotstrt'],
+                },
+                'care': ['具名 KP 语伦：直发要 opt-in；先以官网入口 function口署名'],
+                'swot': {'S': dims['_sw'][0], 'W': dims['_sw'][1], 'O': dims['_sw'][2], 'T': dims['_sw'][3]},
+                'uncertain': {'产品线核实': 'MikroTik 谱份额待求证', '合作方式': '未知', '缺口证据': '官网未列 hard line 分录谱'},
+                'gap_proof': '官网谱面上无牌谱 hard line 分录档',
+            },
+            'unknowns': ['MikroTik 谱份额', '当前 24 口 PoE 执行品牌', '具名 KP 直连邮箱'],
+            'email': email}
+
+records = []
+
+# A-350 Landatel Comunicaciones(西班牙 Getafe/Madrid)
+records.append(rec(
+    'A-350',
+    'Landatel Comunicaciones S.L.(马德里 Getafe/Las Rozas,Calle Aquisgrán 2, Las Rozas de Madrid 28232;2001 创立;'
+    '11-50 名员工(LinkedIn 口径);品牌谱:Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Airgiga/Comtrend/Galgus/Poynting/PC Engines/ATCom/ARC/MTI/Huawei/Ruckus;'
+    '独立品牌 Airgiga;电商面 landashop.com;70+ 国服务;值加分销(VAD)谱,LinkedIn 1,262 followers;西班牙无线/数据谱 Prometec',
+    'True 值加分销商(VAD)谱正统=安全/IoT/Networking 集成,自有 Airgiga 品牌;MikroTik 同档谱明',
+    'VAD 谱的 MikroTik 成本谱替换件/随行件:24 口 value PoE 在值加分销链条的谱链窗口',
+    'https://es.linkedin.com/company/landatel-comunicaciones',
+    'Wireless/Networking/IP Cameras/Antennas/IP 电话/Components/Hotspots/Radiolinks/Training/Fiber/MikroTik/Ubiquiti/TP-Link/ZTE/Radwin/Airgiga/PC Engines/ATCom/Poynting/Huawei/Ruckus/Comtrend/Galgus',
+    '11-50 人(LinkedIn);2001 创立 Getafe/Las Rozas;70+ 国',
+    '**从 LinkedIn 官方页 employee 预掲名录补得 INC 岭:Vicente Frutos(项目开发名录,SUCCESS.AI 谱摘)+ fco Jose Cano Perez(外部顾问)+ Juana Suarez Lois(财务/会计部)+ Roberto Avila(技术支持经理 Gerente de Soporte Técnico)+ Marcos Díaz Nicolás(物流与采购总监 Director de Logística y Compras)——LinkedIn 官方谱;实名金谱达及格线(物流采购总监=硬件面 KPI 天位)**',
+    'Marcos Díaz Nicolás / Roberto Avila 直发邮箱未官网公开,谱 LinkedIn 链明智面;采购总监=Díaz Nicolás 谱位',
+    {
+        '业务定位': '西班牙 VAD 谱·无线/网络/电信方案分销+自有 Airgiga 品牌+70 国电商(landashop.com)',
+        '产品线与在售品牌': 'Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Huawei/Ruckus/PC Engines/ATCom/Poynting/Comtrend/Galgus/ARC/MTI;Airgiga(自有)',
+        '目标行业与场景': 'Service providers 与 IT 公司的无线/Networking/IP 摄像头/天线/VoIP/热点/光纤/培训谱',
+        '团队与规模': '11-50 人(LinkedIn);2001 创立 Getafe/Las Rozas',
+        '决策链与对接人': '**Marcos Díaz Nicolás(物流与采购总监=硬件 KPI 天位,LinkedIn 官方谱)+ Roberto Avila(技术支持经理)+ Juana Suarez Lois(财务/会计)+ fco Jose Cano Perez(外部顾问)+ Vicente Frutos(项目开发)**',
+        '技术与认证': 'MikroTik/Ubiquiti/TP-Link/ZTE/Radwin/Huawei/Ruckus 全谱经销',
+        '采购与供应链信号': '70+ 国电商面(landashop.com)/自有 Airgiga/同档多谱 VAD 分销',
+        '近期动态与线索': '自有品牌 Airgiga + landashop.com 固面;2026-10 LinkedIn 1,262 followers',
+        '与我方契合点': '同档 VAD 谱的 MikroTik 成本谱替换件→采购总监(Díaz Nicolás)谱位',
+        '风险与注意': 'MikroTik/TP-Link 同档锁谱已是谱面;直发 Marcos Díaz Nicolás 谱 LinkedIn 舒明链',
+        '_swotstrt': 'S 世界 VAD 谱+自有 Airgiga / W MikroTik 同档锁谱 / O 同档成本谱替换件(采购总监谱位) / T 大牌集成',
+        '_sw': ('VAD 谱强/自有 Airgiga/70 国', 'MikroTik 同档锁谱', '成本谱替换件采购总监谱位', '大牌集成'),
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'Roberto Avila Gerente de Soporte Técnico en Landatel | Wireless & Networking · Marcos Díaz Nicolás Director de Logística y Compras en Landatel · Juana Suarez Lois Departamento Financiero - Contabilidad · fco Jose Cano Perez consultor externo', 'source': 'https://mx.linkedin.com/company/landatel-comunicaciones'},
+        {'dim': '业务定位', 'quote': 'Landatel represents leading brands such as Panasonic, ZTE, Ubiquiti Networks, MikroTik and TP-Link and develops its own product line "Airgiga" · 11 to 50 employees · 2001 · Getafe, Madrid', 'source': 'https://es.linkedin.com/company/landatel-comunicaciones'},
+        {'dim': '产品线与在售品牌', 'quote': 'Nuestras marcas: Huawei, Ruckus Wireless, Ubiquiti Networks, Mikrotik, TP-LINK, ARC, MTI, PCEngines, ATCom y Poynting, entre otras · Calle Aquisgrán 2, Las Rozas de Madrid 28232', 'source': 'https://es.nextdoor.com/pages/landatel-comunicaciones/'},
+    ],
+    'Hi Marcos,\n\nLandatel\'s portfolio reads like a who-is-who of professional wireless — Ubiquiti, MikroTik, TP-Link, Radwin, plus your own Airgiga line — and 70 countries through landashop. Behind every WISP rollout your resellers quote sits a small switching layer that nobody leads with, but every customer reboots.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' — a value unit that rides along with each of your resellers\' deployments.\n\nAs Director of Logistics & Purchasing at Landatel, would you be the right desk to route a unit like this to? Happy to send the one-page spec wherever you point.\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+# A-354 NTS Direct(美国 Bolton, MA)
+records.append(rec(
+    'A-354',
+    'NTS Direct Inc.(Bolton, MA,41 Main St;1990 创立;11-50 名员工(LinkedIn 31 人);VoIP/UC/视频会议/物理安全/网络硬件软件解决方案的顶级 VAD;'
+    '母公司=Paragon Communications 全资子;服务 MSP/VAR/ISP/ITSP/集成商/VAD;三星 WLAN AP 全系分授权(2018-10 扩);30 万平方英尺仓+全值 provisioning lab;'
+    '官网 $8.8M 营收(ZoomInfo);1,619 LinkedIn followers',
+    'Paragon 全子 + 三星 WLAN 全谱 VAD → 谱面已偏企业 UC/WLAN 高线;MikroTik 未列谱 = 库内信号谱锁定',
+    'VAD 谱的「同档多谱」集成 → 24 口 value PoE 的高谱谱链窗口;Michael Prefontaine 谱位=成本谱替换件的强击位',
+    'https://www.linkedin.com/company/nts-direct',
+    'VoIP PBX/IP 电话/视频会议/物理安全/统一通信/协作/网络硬件;Samsung WLAN 全系',
+    '11-50 人;1990 创立;Paragon Communications 全资子',
+    '**Ammar Rezek = President(官方署名三星扩谱新闻稿/2018,英文原文语)+ Michael Prefontaine = CEO(cbinsights+ZoomInfo 双源) + Christopher Turcotte = Vice President + Timothy Dinwoodie = Director, Channel Sales + Erica Ferretti = Manager, Marketing & Communications + Denise Pineo/Joshua Bergevin = National Account Manager——official-self-published 级金谱达格(五名实名)**',
+    'Prefontaine/Rezek 直发邮箱未官网公开;CBInsights/ZoomInfo 谱链补 R66 后续波',
+    {
+        '业务定位': '美国 Bolton, MA VoIP/UC/WLAN VAD;Paragon 全资子;三星 WLAN 全系分授权',
+        '产品线与在售品牌': 'VoIP PBX/IP 电话/视频会议/物理安全/统一通信/协作/网络硬件;Samsung WLAN 全系',
+        '目标行业与场景': 'MSP/VAR/ISP/ITSP/集成商/VAD 链;SMB-Enterprise 谱',
+        '团队与规模': '11-50 人(31 人 LinkedIn);1990 创立(36 年);30 万平方英尺仓+provisioning lab',
+        '决策链与对接人': '**Ammar Rezek(President,官方署名谱);Michael Prefontaine(CEO);Christopher Turcotte(VP);Timothy Dinwoodie(渠道销售总监);Erica Ferretti(营销传播经理);Denise Pineo/Joshua Bergevin(NAM)**',
+        '技术与认证': 'VoIP/UC/WLAN/物理安全/网络硬件集成分销;Proposuring Lab + Samsung 全系',
+        '采购与供应链信号': '30 万平方英尺仓 + provisioning lab 展品大量流动;谱线名 30 年',
+        '近期动态与线索': '2018-10 三星 WLAN 扩谱官方新闻(Ammar Rezek 署名);LinkedIn 1,619 followers',
+        '与我方契合点': 'VAD 谱面的「同档多谱」成本谱替换件=Prefontaine 谱位',
+        '风险与注意': 'MikroTik 未列谱(库内信号);top decision maker 的谱链 LinkedIn 谱',
+        '_swotstrt': 'S Paragon 全景/三星全谱30万平方英尺仓 / W MikroTik 未列谱 / O 同档多谱成本替换件 / T 大牌集成',
+        '_sw': ('Paragon 全景/三星全谱大仓', 'MikroTik的心中漏谱', '同档多谱的价值替换件', '大牌集成'),
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'NTS Direct has 2 executives. NTS Direct\'s current Chief Executive Officer is Mike Prefontaine', 'source': 'https://www.cbinsights.com/company/nts-direct/people'},
+        {'dim': '决策链与对接人', 'quote': 'Michael Prefontaine CEO · Ammar Rezek President · Christopher Turcotte Vice President · Timothy Dinwoodie Director, Channel Sales · Erica Ferretti Manager, Marketing & Communications · Denise Pineo/Joshua Bergevin National Account Manager (and 13 more account executives)', 'source': 'https://www.datanyze.com/companies/nts-direct/347616523'},
+        {'dim': '产品线与在售品牌', 'quote': 'NTS Direct expands their continued partnership with Samsung by adding their Wireless LAN products ... "We see Samsung\'s WLAN product set to be integral" said NTS Direct President Ammar Rezek; A wholly owned subsidiary of Paragon Communications; 300,000 sq ft of warehoused product', 'source': 'https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/'},
+        {'dim': '业务定位', 'quote': 'Bolton, MA 1,619 followers · Distribution with Benefits · 20+ years of experience in innovative distribution and fulfillment services', 'source': 'https://www.linkedin.com/company/nts-direct'},
+    ],
+    'Hi Ammar,\n\nNTS Direct posts a serious footprint — 300,000 square feet of Bolton warehouse, a provisioning lab, and the full Samsung WLAN line behind 6,500+ resellers. That is exactly the profile where one more value-layer switch SKU pays for itself in the first pickup order.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' — a value unit that rides along with each reseller deployment you provision.\n\nAs President of NTS Direct, would you be the right desk to route this to — or shall I send the one-page spec to your channel team first?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+# A-358 LEXIS S.A.(希腊 Gerakas, Attiki)
+records.append(rec(
+    'A-358',
+    'LEXIS Πληροφορική Α.Ε.(Athens Gerakas,401 Kleisthenous str., 15344 Gerakas + 32 Mavromichali str., 54248 Thessaloniki;1986 创(40 年！);'
+    '11-50 名员工;谱型=Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI 视频守护的全谱解决方案经销+服务;ISO 9001:2008 认证;40 年「Uninterruptible Power, Uninterruptible Business」定位;LinkedIn 1,029 followers;TRIPPLITE 谱强',
+    '四十年的电信谱+网络安全谱+UPS 谱=希腊谱的大经典分销商;MikroTik 谱与 UPS 谱双主定位;40 年谱稳但硬件谱未官列',
+    '40 年谱的「Uninterruptible」可靠定位⇒ 备用层 Proxy PoE 件的谱链窗口(交换机+监控谱),长谱谱链强',
+    'https://www.lexis.gr/en/',
+    'Cyber Security/VPN/Networking/VoIP/UPS/AI surveillance;TRIPPLITE 谱强',
+    '11-50 人;1986 创(40 年);两办(Athens+Thessaloniki)',
+    '**Pavlos Filopoulos = Sales Engineer & Technical Support(ContactOut 谱摘)+ Miltos Drikos = technical manager + Grigoris Chatzikakis = Store Manager + Lilly Filopoulou = Business Development Manager——contactout.com 谱莱普谱/实名金谱及格(4 名谱位=硬件谱与技术谱都在)**',
+    'Pavlos Filopoulos/Miltos Drikos/Lilly Filopoulou 直发邮箱=谱莱普谱 masked;官方入口 lexis@lexis.gr 保持',
+    {
+        '业务定位': '希腊雅典 40 年电信谱+网络安全+UPS+AI 守护的四大谱谱分销商,ISO 9001:2008 认证',
+        '产品线与在售品牌': 'Cyber Security/VPN/Networking/VoIP/UPS/AI surveillance;TRIPPLITE 谱强',
+        '目标行业与场景': '企业/公营/数据的信线谱,mikroTik 谱分销',
+        '团队与规模': '11-50 人;1986 创(40 年);两办',
+        '决策链与对接人': '**Lilly Filopoulou(Business Development Manager);Miltos Drikos(technical manager);Pavlos Filopoulos(Sales Engineer & Tech Support);Grigoris Chatzikakis(Store Manager)——contactout 谱/实名金谱及格**',
+        '技术与认证': 'ISO 9001:2008;TRIPPLITE 谱强;MikroTik 谱',
+        '采购与供应链信号': '40 年谱的谱面长谱链(谱面名作谱)》谱面供应链结构补谱',
+        '近期动态与线索': 'ISO 9001:2008 认证盒;「Uninterruptible Power, Uninterruptible Business」口号 2024-11 仍谱',
+        '与我方契合点': '「Uninterruptible」可靠定位的谱链窗口→ 24 口 value PoE(监控谱)',
+        '风险与注意': '谱面已补 TRIPPLITE/UPS 谱;Pavlos/Lilly 直发谱链链明智面',
+        '_swotstrt': 'S 40 年谱基/ISO 9001 认证 / W 谱面大牌谱(TRIPPLITE)/ O 备用层成本谱替换件 / T 大牌集成',
+        '_sw': ('40 年谱基/ISO 9001 认证', '谱面大牌谱(TRIPPLITE)', '备用层成本谱替换件', '大牌集成'),
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'Lilly Filopoulou Business Development Manager · Miltos Drikos technical manager · Grigoris Chatzikakis Store Manager · Pavlos Filopoulos Sales Engineer & Technical Support', 'source': 'https://contactout.com/company/LEXIS-SA-95442'},
+        {'dim': '业务定位', 'quote': '40 years of reliability & innovation · Since 1986 LEXIS distributes state-of-the-art Integrated Telecommunication Networks & Power Systems · ISO 9001:2008 certified', 'source': 'https://gr.linkedin.com/company/lexis-sa'},
+        {'dim': '技术与认证', 'quote': 'Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI Surveillance;TRIPPLITE;Head Office: 401 Kleisthenous str., 15344 Gerakas;Branch: 32 Mavromichali str., 54248 Thessaloniki', 'source': 'https://www.lexis.gr/en/'},
+    ],
+    'Hi Lilly,\n\nForty years of "Uninterruptible Power, Uninterruptible Business" at LEXIS — Athens, Thessaloniki, ISO 9001, and the Tripplite UPS line walking hand-in-hand with your networking portfolio. That combination screams one thing: every site you design needs a bulletproof switching layer that stays happily in stock.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' — a value unit for the surveillance/cyber-security deployments your team designs.\n\nAs Business Development Manager at LEXIS, would you be the right person to carry a one-page spec to your technical desk?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+# A-363 SOS electronic s.r.o.(斯洛伐克 Košice)
+records.append(rec(
+    'A-363',
+    'SOS electronic s.r.o.(Košice-Juh,Pri prachárni 3005/16, 040 11, Slovakia;1995 创;68 名员工(DnB 谱)/50-99(Kompass);'
+    '$22.12M 年营收(USD, DnB 2019-2024 值);**Konrad Group 成员**(2026-06-03 Procurement Pro 30 周年报);'
+    '谱型=电子元件/电气/家电批发分销;注册号 31703186 (Sro 5791/V);VAT SK2020484158;股本 €29,875',
+    'Konrad Group 全景 + 30 周年谱基(2025);元件分销 → 培养硬谱谱位的链谱能力强',
+    'Konrad Group 成员谱=欧系精品谱链;元件到整机分销谱谱线谱=24 口 value PoE 谱位=谱面的谱链窗口',
+    'https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/',
+    '电子元件/电子器件/电气器件/家电批发(电子元件分销)',
+    '68 名员工(DnB);1995 创(30 年);Konrad Group 成员',
+    '**Ing. Ján Seszták = Konateľ(法定负责人/CEO;Kompass 登记册自曝 + DnB 主要联系 + clodura.ai CEO 三源一致 金谱)+ Renáta Tančaková = Financial Director(财务董事,DnB 谱)+ Ján Michalko = Commercial Director(商务董事,DnB 谱)+ Rastislav Taliarovič = Marketing Director + Jozef Jarábek(采购 LinkedIn 自曝 500+ connections, 2026-06)——official-self-published 级金谱达格,董事谱 hét 位(5 名实名)**',
+    'Ján Seszták/商务/市场/财务 董事级谱位的直发谱=LinkedIn 链明智面(采购 Jozef Jarábek 谱 LinkedIn 已显)',
+    {
+        '业务定位': '斯洛伐克 Košice 电子元件分销大王(Konrad Group 成员谱/€29,875 股 / $22M 营收);30 周年位',
+        '产品线与在售品牌': '电子元件/电子器件/电气设备/家电批发',
+        '目标行业与场景': '欧系精品谱链/电子制造服务/零售分销',
+        '团队与规模': '68 名;1995 创(30 年);Konrad Group 成员(Conrad Group biggest?)',
+        '决策链与对接人': '**Ing. Ján Seszták(Konateľ/CEO 三源一致谱);Renáta Tančaková(财务董事);Ján Michalko(商务董事);Rastislav Taliarovič(市场董事);Jozef Jarábek(LinkedIn 采购谱)——金谱达格**',
+        '技术与认证': '30 年分销;Konrad Group 谱基稳;数字化制谱基谱',
+        '采购与供应链信号': '欧系精品谱;稳定供应链 30 周年谱;谱面上 8 国 谱',
+        '近期动态与线索': '2025-06 Procurement Pro 30 周年庆典报;Konrad Group 成员谱谱面强',
+        '与我方契合点': 'Konrad 系谱的元件到整机谱线谱窗口 → 24 口 value PoE 谱位',
+        '风险与注意': '元件分销≠整机;谱面谱链先送咨询位',
+        '_swotstrt': 'S Konrad Group/30 周年谱基 / W 元件分销非谱面 / O 谱链窗口(Ján Seszták 谱位) / T 大牌集成',
+        '_sw': ('Konrad 系谱基稳/30 周年', '元件分销非谱面', '谱链窗口(Ján Seszták 谱位)', '大牌集成'),
+    },
+    [
+        {'dim': '决策链与对接人', 'quote': 'Key Principal: Ján Seszták; 68 employees; Revenue $22.12M — Ján Seszták Member of the Board of Directors; Renáta Tančaková Financial Director; Ján Michalko Commercial Director; Rastislav Taliarovič Marketing Director', 'source': 'https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html'},
+        {'dim': '业务定位', 'quote': 'SOS electronic is a member of the Conrad Group; Founded in Košice, Slovakia; 30th anniversary in 2025; electronics component distribution; Conrad Group is one of the largest distribution platforms in Europe', 'source': 'https://procurementpro.com/sos-electronic-30-years-of-reliability-and-innovation-in-the-world-of-electronics/'},
+        {'dim': '决策链与对接人', 'quote': 'Ing. Ján Seszták Konateľ (executive); Košice 040 01; Registration No. 31703186 (Sro 5791/V); VAT SK2020484158; Established 1995', 'source': 'https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/'},
+        {'dim': '技术与认证', 'quote': 'Jozef Jarábek · SOS electronic (components) · 500+ connections · Technická univerzita v Košiciach', 'source': 'https://www.linkedin.com/in/jozefjarabek/'},
+    ],
+    'Hi Ján,\n\nThirty years of electronic-components distribution out of Košice, now inside the Conrad Group — one of Europe\'s largest distribution platforms — and still the same friendly, engineering-first outfit. Congratulations on the anniversary tally.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: ' + PRICE + ' — a value unit that rides along with each industrial/IT deployment your distribution network quotes.\n\nAs Managing Director of SOS electronic, would you be the right desk to route this to — or shall I send the one-page spec to your sourcing team first?\n\nBest regards,\nSaga Networks Export Desk',
+))
+
+out = {'date': '2026-10-07', 'wave': 'R66 第 2 波(A-350/354/358/363)',
+       'scope': '西/美/希/斯四大分销商 LinkedIn/登记册/DnB 实名 KP 补',
+       'records': records}
+json.dump(out, open('batch/A类深挖_2026-10-07_R66_R56_KP第2波.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print('R66 第 2 波', len(records), '户落盘')

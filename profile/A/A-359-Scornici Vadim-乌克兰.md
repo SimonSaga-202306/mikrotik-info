@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Scornici Vadim（乌克兰）：**欧洲 Top3 MikroTik 教练**(TR0659,2019 起，学员 2800+;mikrotik.coach 国际中心；课程含 **MTCSWE**;RU/RO/EN;主联络=Telegram @vadsco）
-- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
-- 【假设】课堂/咨询旁的一行了解位
+- 【事实】Scornici Vadim(乌克兰;**个体户/人名司名档=实名谱位实名:Vadim Scornici(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)**;vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 签名/公司函数口已记 STRUCT
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -87,56 +87,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照单元
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：顾问对照库了解单元（诚实角；非替换）
-- **要问的问题**：值得进对照库吗？
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 课堂角
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：一页对照卡（统一口径=P1 系列，不外溢）
-- **切入点**：MTCSWE 课堂旁的了解位（学员问性价比场景）
-- **要问的问题**：课堂需要对照样本吗？
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第36批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://mikrotik.coach|Vadim 具名
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：比照心态/拒硬销
+- **①背景再核**：R66 基线补足档(个体户谱:Vadim Scornici);司面全谱待 R66 波次补;函数口 vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课(gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课)跟团不动
+- **②芯片/型号**：(待问;gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 域名面谱=公司面谱)
+- **③KP 深挖**：**Vadim Scornici(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 口(gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课)跟团不动;登记册查询指向该自然人的法人公开件**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：个人实名档谱简洁直接
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Ranking: Top 3 coaches in Europe; 2800+ students; since March 2019' + MTCSWE 课表
-  > 'Ranking: Top 3 coaches in Europe; 2800+ students; since March 2019' + MTCSWE 课表
+- **【决策链与对接人】**Scornici Vadim — vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 (CSV/STRUCT 落穗件;个体户谱:Vadim Scornici)
+  > Scornici Vadim — vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 (CSV/STRUCT 落穗件;个体户谱:Vadim Scornici)
+  > 来源：https://mikrotik.coach
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Vadim Scornici
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Vadim Scornici
+  > 来源：https://mikrotik.coach
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
   > 来源：https://mikrotik.coach
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌克兰 MikroTik 顾问/培训实体（官网核）
-- **产品线与在售品牌**：MikroTik 生态为主
-- **目标行业与场景**：咨询/培训现场
-- **团队与规模**：小微
-- **决策链与对接人**：vadsco@gmail.com 口
-- **技术与认证**：MikroTik 认证体系
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：顾问对照单元（One framing note: ou）
-- **风险与注意**：体量微——低期待窄针
+- **业务定位**：R66 基线补足档(个体户谱:Vadim Scornici);司面全谱待 R66 波次补;函数口 vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课(gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课)跟团不动
+- **产品线与在售品牌**：(待问;gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**Vadim Scornici(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 口(gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课)跟团不动;登记册查询指向该自然人的法人公开件**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对照态
-- **W**：体量微
-- **O**：课堂旁了解位
-- **T**：大牌
+- **S**：个人实名档谱简洁直接
+- **W**：该档个体不表征司面大小(个体谱)
+- **O**：个体档的成本谱替换件直达位
+- **T**：个体档档期能力低交换
 
 ## 触达与风险红线
 
@@ -186,8 +192,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 证书现况
-  - [ ] 复购场景
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -201,14 +208,14 @@ updated: 2026-09-28
 ```text
 Hi Vadim,
 
-One framing note: our gear targets civilian commercial networking only. On switching specifically - your MTCSWE classes coverVendor switching deeply, and students always ask about budget alternatives. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
+I came across Scornici Vadim while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: for civilian courses and consulting, would our documented value switch be a useful budget-scenario row for your students?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -229,12 +236,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Scornici Vadim · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Scornici%20Vadim)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

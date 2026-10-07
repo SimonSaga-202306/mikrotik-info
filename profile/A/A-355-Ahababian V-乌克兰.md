@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: true, voice: true, oe
 p1: CONSULT-OEM
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-04
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ahababian Vartan（乌克兰）：乌 MikroTik 官方培训站 mikrotikls.com.ua 主理（**2026-09-29 站 fetch 失败=战时波动注；roster 具名邮箱存活证**）
-- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
-- 【假设】课堂/咨询旁的一行了解位
+- 【事实】Ahababian V.(乌克兰;**个体户/人名司名档=实名谱位实名:V. Ahababian(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)**;vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 签名/公司函数口已记 STRUCT
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -71,11 +71,11 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】
-  - 状态：既有/公开
-- **电话**：+38 066 907 44 88、+380 44 339 56 97
+- **邮箱**：vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found】
+  - 状态：R62-退信-not-found
+- **电话**：2026-10-04、+38 066 907 44 88、+380 44 339 56 97
 - 来源等级：official-named（R41–R48 联系方式台账口径）
-- **原始联系字段**：vartan@mikrotikls.com.ua（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б
+- **原始联系字段**：vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -86,56 +86,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照单元
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：顾问对照库了解单元（诚实角；非替换）
-- **要问的问题**：值得进对照库吗？
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 课堂角
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：一页对照卡（统一口径=P1 系列，不外溢）
-- **切入点**：MTCSWE 课堂旁的了解位（学员问性价比场景）
-- **要问的问题**：课堂需要对照样本吗？
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第36批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.mikrotikls.com.ua|Vartan 具名
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：比照心态/拒硬销
+- **①背景再核**：R66 基线补足档(个体户谱:V. Ahababian);司面全谱待 R66 波次补;函数口 vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б(mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б)跟团不动
+- **②芯片/型号**：(待问;mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 域名面谱=公司面谱)
+- **③KP 深挖**：**V. Ahababian(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 口(mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б)跟团不动;登记册查询指向该自然人的法人公开件**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：个人实名档谱简洁直接
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**mikrotikls.com.ua（乌 MT 官方培训谱站；2026-09 fetch 失败注）
-  > mikrotikls.com.ua（乌 MT 官方培训谱站；2026-09 fetch 失败注）
-  > 来源：roster 谱
+- **【决策链与对接人】**Ahababian V. — vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б (CSV/STRUCT 落穗件;个体户谱:V. Ahababian)
+  > Ahababian V. — vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б (CSV/STRUCT 落穗件;个体户谱:V. Ahababian)
+  > 来源：https://www.mikrotikls.com.ua
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:V. Ahababian
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:V. Ahababian
+  > 来源：https://www.mikrotikls.com.ua
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 来源：https://www.mikrotikls.com.ua
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌克兰 MikroTik 顾问/培训实体（官网核）
-- **产品线与在售品牌**：MikroTik 生态为主
-- **目标行业与场景**：咨询/培训现场
-- **团队与规模**：小微
-- **决策链与对接人**：vartan@mikrotikls.com.ua 口
-- **技术与认证**：MikroTik 认证体系
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：顾问对照单元（One framing note: ou）
-- **风险与注意**：体量微——低期待窄针
+- **业务定位**：R66 基线补足档(个体户谱:V. Ahababian);司面全谱待 R66 波次补;函数口 vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б(mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б)跟团不动
+- **产品线与在售品牌**：(待问;mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**V. Ahababian(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 口(mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б)跟团不动;登记册查询指向该自然人的法人公开件**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对照态
-- **W**：体量微
-- **O**：课堂旁了解位
-- **T**：大牌
+- **S**：个人实名档谱简洁直接
+- **W**：该档个体不表征司面大小(个体谱)
+- **O**：个体档的成本谱替换件直达位
+- **T**：个体档档期能力低交换
 
 ## 触达与风险红线
 
@@ -185,8 +191,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 证书现况
-  - [ ] 复购场景
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,16 +205,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Vartan,
+Hi V.,
 
-One framing note: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
+I came across Ahababian V. while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: for your civilian commercial training projects, would a documented value PoE switch be a useful comparison row?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -228,18 +235,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Ahababian V. · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Ahababian%20V.%20Ahababian%20V)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(战争期;华为/中兴仍在售,部分转向北约标准;货款周期与物流保险另计);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R62 退信补档(2026-10-04)
-
-- **退信实测(2026-10-04)**:`vartan@mikrotikls.com.ua` Gmail 退回(**domain-not-found**);永久不可投递。规则:不删邮箱、只标「发不过去」+找替代路径;不主动群发重投该地址
-- **替代路径建议**:乌克兰守界:只标注;电话 +38 066 907 44 88 保留

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6…
+- **是谁**：Adnan Rihan(法国谱主位；**REDVISE LTD(Companies House 12906418，英国 Pvt Ltd,2020-09-25 登记,London Covent Garden WC2H 9J…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟【2026-09-29 R59】合并 B-233 唯一条(同名同邮箱同人:adnan+mikrotik@rihan.fr / +33 6 78 62 26 20);B-233 退役。
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — IPv6 专长师者通道统一,同 B-233 同一人双档（B-234=次档顺位并发）；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Adnan Rihan(法国谱主位；**REDVISE LTD(Companies House 12906418，英国 Pvt Ltd,2020-09-25 登记,London Covent Garden WC2H 9JQ)任职：Directeur(2020-09-25 在任，France 居民）+PSCs(重点控股）**; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20
+- 【事实】Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20 | R65 深挖:B-234=B-251 联动谱（一主双实体英+法）
 - 【推断】本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档
 - 【假设】守档促具名引见（与 B-233 一文）
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Adnan Rihan | REDVISE LTD 董事 + PSC(PSD 法国居民） | 经 redvise.fr / 71-75 Shelton Street London WC2H 9JQ | b2bhint/Companies House 实名 | https://b2bhint.com/ru/company/gb/redvise-ltd--12906418 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -103,11 +105,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20
+- **背景深描**：Adnan Rihan(法国谱主位；**REDVISE LTD(Companies House 12906418，英国 Pvt Ltd,2020-09-25 登记,London Covent Garden WC2H 9JQ)任职：Directeur(2020-09-25 在任，France 居民）+PSCs(重点控股）**;
 - **芯片与在用型号**：【推断】本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档
-- **关键人KP**：—
+- **关键人KP**：Adnan Rihan = REDVISE LTD Director + PSC,France 居民，Lord Adnan Rihan
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCIPv6E 
 - **优缺点SWOT**：S:IPv6 专长 / W:双档原壁 / O:具名引见 / T:失联
 - **Saga产品适配**：IPv6 专长师者通道统一,同 B-233 同一人双档（B-234=次档顺位并发）
@@ -120,6 +122,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**adnan+mikrotik@rihan.fr(联系邮箱)同于 B-233;/+33 6 78 62 26 20 过手机号同
   > adnan+mikrotik@rihan.fr(联系邮箱)同于 B-233;/+33 6 78 62 26 20 过手机号同
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 联动核正】**B-234 Adnan Rihan = REDVISE LTD(UK 12906418)· REDVISE B-251 谱联动：同法人主体双谱口，是法国→英国双实体谱
+  > Lord Adnan Rihan Лицо, обладающее значительным контролем … Rihan, Adnan, Lord Директор Страна проживания France … REDVISE LTD 12906418 71-75 Shelton Street
+  > 来源：https://b2bhint.com/ru/company/gb/redvise-ltd--12906418
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,7 +156,7 @@ S:IPv6 专长 / W:双档原壁 / O:具名引见 / T:失联
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV…
+- **是谁**：Todo Telecom S.L.(Denia, Alicante;Pol. Ind. Juyarco 40A;16+ 年谱；**谱型=Ubiquti/Tp-Link/MikroTik/Iris/Fte/Strong/T…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiq | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Todo Telecom S.L.(Denia, Alicante;Pol. Ind. Juyarco 40A;16+ 年谱；**谱型=Ubiquti/Tp-Link/MikroTik/Iris/Fte/Strong/Technisat 多品牌电信摄像 CCTV WiFi 分销；谱本体站「Distribuidor oficial MikroTik」自曝**; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO STOCK SWITCHES POE UBIQUITI, MIKROTIK, TPLINK』)
+- 【事实】Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO STOCK SWITCHES POE UBIQUITI, MIKROTIK, TPLINK』) | R65 深挖:西班牙官方 MikroTik 分销名录;Alicante Denia 址谱
 - 【推断】安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档
 - 【假设】开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振
 
@@ -110,11 +110,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO 
+- **背景深描**：Todo Telecom S.L.(Denia, Alicante;Pol. Ind. Juyarco 40A;16+ 年谱；**谱型=Ubiquti/Tp-Link/MikroTik/Iris/Fte/Strong/Technisat 多品牌电信摄像 CCTV WiFi 分销；谱本体站「Distribuidor oficial MikroTik」自曝**;webinfo@todotelecom.com
 - **芯片与在用型号**：【推断】安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档
-- **关键人KP**：—
+- **关键人KP**：—(S.L. administrador registre mercantil Alicante 收费墙；R65 谱位+地址件已足）
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:1986 资历+安防电信双驱+PoE 常备 / W:三家 PoE 牌已占架 / O:24 口 280W 管理型 value 中间档 / T:Ubiquiti/TPLink 走量压价
 - **Saga产品适配**：安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位
@@ -127,6 +127,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN
   > NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN
   > 来源：https://x.com/TodotelecomSL
+- **【R65 谱/自曝】**Todo Telecom S.L. Denia(Alicante)16 年 · multi-brand official MikroTik distributor 自曝 · Madrigueres Sud/P.I. Juyarco 40A · webinfo@todotelecom.com
+  > Distribuidor oficial: TodoTelecom … Distribuidores oficiales de MikroTik en España … Pol.Ind.Juyarco 40A / Denia (Alicante) webinfo@todotelecom.com
+  > 来源：https://mikrotikspain.es/contacto.html
 
 ## 产品决策（Saga · 单一决策口径）
 

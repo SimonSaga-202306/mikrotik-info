@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;…
+- **是谁**：FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo …
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Responsabi | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE)
+- 【事实】Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团
 - 【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
 - 【假设】守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -84,7 +84,8 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Giorgio Marchetti | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Filippo Loretoni | Amministratore Delegato(首席执行官) | 经 fastnet.it | fiberwide.com/TV Centro Marche 报道自曝 | https://fiberwide.com/fastnet-protagonista-dellinnovazione-online-lo-speciale-tv-sullaccordo-strategico-con-open-fiber/ |
+| Giorgio Marchetti | Sales Manager/商务总监 | @fastnet.it(模式提示) | rocketreach 自曝+fiberwide 同源 | https://rocketreach.co/giorgio-marchetti-email_127258904 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +108,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE)
+- **背景深描**：FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Responsabile Commerciale/Sales Manager;Octavio Melendres = Senior Network Engineer;2026-03 TV Centro Marche 专访 Open Fiber 战略协议;Università Politecnica delle Marche 在校谱)
 - **芯片与在用型号**：【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Sales Manager;Octavio Melendres = Senior Network Engineer
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个人顾问通道+集团内 SME 侧留意 / T:误判其雇主为分销客户(100G 级不沾)
 - **Saga产品适配**：个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判
@@ -121,6 +122,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 10
   > Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 100Gbps…punto Enable di Namex
   > 来源：https://www.fastnet.it/azienda/
+- **【R65 谱型+KP】**FASTNET S.p.A.(Gruppo Fiberwide)· Open Fiber 战略协议 2026-03 · Loretoni CEO · Marchetti Sales · Melendres NE
+  > Filippo Loretoni (Amministratore Delegato di Fastnet), Giorgio Marchetti (Responsabile Commerciale) e Octavio Melendres (Senior Network Engineer)… accordo strategico con Open Fiber
+  > 来源：https://fiberwide.com/fastnet-protagonista-dellinnovazione-online-lo-speciale-tv-sullaccordo-strategico-con-open-fiber/
 
 ## 产品决策（Saga · 单一决策口径）
 

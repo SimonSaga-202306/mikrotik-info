@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服…
+- **是谁**：IT Consultores（西班牙 MikroTik 官方认证咨询者实体：「Consultores Certificados MikroTik」自曝 itconsultores.es;20+ 年 TI 网络经验；Jor…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — SME 顾问小团队备养:具名通道,项目随单信号再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | IT Consultores（西班牙 MikroTik 官方认证咨询者实体：「Consultores Certificados MikroTik」自曝 itconsultores.es;20+ 年 TI 网络经验；Jorge Agulló 实体谱主位（CSV)) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公)
+- 【事实】Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroTik 认证咨询 20 年谱位
 - 【推断】SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星
 - 【假设】守档备养:具名引见;等其 SME 客户布网/监控项目信号
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -84,7 +84,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jorge Agulló | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Jorge Agulló | Consultor Certificado MikroTik | 经 itconsultores.es | CSV + itconsultores.es 官网自曝 | https://www.itconsultores.es/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +107,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公)
+- **背景深描**：IT Consultores（西班牙 MikroTik 官方认证咨询者实体：「Consultores Certificados MikroTik」自曝 itconsultores.es;20+ 年 TI 网络经验；Jorge Agulló 实体谱主位（CSV))
 - **芯片与在用型号**：【推断】SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Jorge Agulló（CSV 谱主位）+ Consultores Certificados MikroTik 官方自曝
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:20 年团队+具名座机 / W:咨询主业,硬件零星 / O:旅游城市 SME 改造随单 / T:量小
 - **Saga产品适配**：SME 顾问小团队备养:具名通道,项目随单信号再激活
@@ -120,6 +120,9 @@ updated: 2026-10-07
 
 - **【R57备护深挖证据】**Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD
   > Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD
+  > 来源：https://www.itconsultores.es/
+- **【R65 自曝】**IT Consultores 官方自曝「Consultores Certificados MikroTik;20+ 年」
+  > Consultores Certificados MikroTik Más de 20 años de experiencia en el el área de TI y redes … diseño de infraestructura de red … VPN … ancho de banda
   > 来源：https://www.itconsultores.es/
 
 ## 产品决策（Saga · 单一决策口径）

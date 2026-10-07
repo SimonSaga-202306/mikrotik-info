@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可…
+- **是谁**：Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：有信号（PoE/监控/门禁、ISP/骨干）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — ISP 级培训师的课桌 PoE 对照教具样本位；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径)
+- 【事实】Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | R65 深挖:守档准由
 - 【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
 - 【假设】开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
 
@@ -111,9 +111,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径)
+- **背景深描**：Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由）
 - **芯片与在用型号**：【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE 
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia
   > Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia
   > 来源：https://www.formacionmikrotik.com/
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

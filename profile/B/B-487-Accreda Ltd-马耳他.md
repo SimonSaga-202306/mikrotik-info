@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365…
+- **是谁**：Accreda Ltd(Valletta, Malta + London UK,2006 创，€2005 6847;**谱型大校=niche 风险管理尽调顾问（不计 IT 分销）**——R57 档案归销售商，R65 判定…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 判型校正:ERP/ICT 服务商备养,按顾问/集成商模板激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Accreda Ltd(Valletta, Malta + London UK,2006 创，€2005 6847;**谱型大校=niche 风险管理尽调顾问（不计 IT 分销）**——R57 档案归销售商，R65 判定：**R57 谱型分类可能误配或该司已转型**;Accreda Administration 业首谱 Directory;Konrad Ab | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu)
+- 【事实】Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu) | R65 深挖:误标谱险；实体=风险尽调顾问_收音守档
 - 【推断】**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销
 - 【假设】开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信
 
@@ -103,11 +103,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批补18.json`；价格均为 EXW 快照。
 
-- **背景深描**：Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu)
+- **背景深描**：Accreda Ltd(Valletta, Malta + London UK,2006 创，€2005 6847;**谱型大校=niche 风险管理尽调顾问（不计 IT 分销）**——R57 档案归销售商，R65 判定：**R57 谱型分类可能误配或该司已转型**;Accreda Administration 业首谱 Directory;Konrad Abela 2010-2019 前 Director(2020 后 FIAU Malta 局长)
 - **芯片与在用型号**：【推断】**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销
-- **关键人KP**：—
+- **关键人KP**：Konrad Abela 前身 Director (2010-2019)/Konrad 近期去 FIAU;R57 归销售商谱位日档影集疑计
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:ERP 实施谱+双办公点 / W:网络非主业 / O:ERP 项目机房谱随单 / T:单量不支撑分销形态
 - **Saga产品适配**：判型校正:ERP/ICT 服务商备养,按顾问/集成商模板激活
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Microsoft Dynamics NAV / 365 Business Central ERP Solutions
   > Microsoft Dynamics NAV / 365 Business Central ERP Solutions
   > 来源：https://www.crunchbase.com/organization/accreda
+- **【R65 谱型校注】**Accreda Ltd Malta 2006 创=niche 风险尽调顾问，非 IT 分销；R57 归谱或也有同姓名重载；守档准由注
+  > Accreda is a niche risk management firm specializing in the provision of research and due diligence solutions to the professional services, financial services, real estate and igaming sectors
+  > 来源：https://rocketreach.co/accreda-ltd-profile_b5ceb9dcf42e09a8
 
 ## 产品决策（Saga · 单一决策口径）
 

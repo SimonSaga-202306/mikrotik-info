@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wi…
+- **是谁**：PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件谱（Heureka 认证 2017 起）——次日达老客谱 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌)
+- 【事实】PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌) | R65 深挖:České Budějovice 电商实体谱位
 - 【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位
 - 【假设】开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
 
-- **背景深描**：PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌)
+- **背景深描**：PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件谱（Heureka 认证 2017 起）——次日达老客谱
 - **芯片与在用型号**：【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位
-- **关键人KP**：—
+- **关键人KP**：—(s.r.o. jednatel OR České Budějovice 收费墙；R65 谱位+地址件已足）
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T:非同族则价值减半
 - **Saga产品适配**：Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha
   > PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha
   > 来源：https://www.drzacky.cz/en/where-to-buy/
+- **【R65 谱/地址】**PCV Computers · Č. Budějovice Za Otýlií 2874/6 · +420 380 420 700 · pcvcomp.cz 电商实体 + Heureka 认证
+  > PCV Computers, s.r.o. Za Otýlií 2874/6 České Budějovice, 37001 Tel.: +420 380 420 700 Web: www.pcvcomp.cz
+  > 来源：https://obchody.heureka.cz/pcvcomp-cz/recenze/
 
 ## 产品决策（Saga · 单一决策口径）
 

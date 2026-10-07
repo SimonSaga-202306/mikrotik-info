@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor…
+- **是谁**：TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portuga…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 无线专精 VAD 的客层 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officel | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portugal 官方 exhibitor(MikroTik User Meeting 名录)+ LigoWave 葡萄牙官方分销(+351 936 79 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt)
+- 【事实】TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt) | R65 深挖:葡萄牙 MikroTik 官方 MUM 谱位+LigoWave 分销联动
 - 【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
 - 【假设】开口角度=「无线安装商客层的 PoE 随单位」:STC-424 主力,MUM 同圈话术破冰
 
@@ -109,11 +109,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：TRUENET(Porto Leça do Balio(互联网档另录 Funchal 关联点);Master+VAD 名录在册自述「MikroTik Portugal representante/distribuidor」;**LigoWave 官列葡萄牙分销(deliberant 体系)**;**MUM Portugal 2019 展商(与 Officelan/Laufquen/Codisa 并列)**;comercial@truenet.pt)
+- **背景深描**：TRUENET / Truenet, Lda.(NIF 513514139, Rua do Mosteiro 89, 4465-703 Leça do Balio, Portugal;**2019 MUM Portugal 官方 exhibitor(MikroTik User Meeting 名录)+ LigoWave 葡萄牙官方分销(+351 936 794 301)**;tub 谱型=葡萄牙无线/天线专业分销线
 - **芯片与在用型号**：【推断】葡萄牙无线专精 VAD+LigoWave 体系:MUM 展商=葡 MikroTik 圈头部玩家;WISP/无线安装商客层谱厚
-- **关键人KP**：—
+- **关键人KP**：—(Lda. sócio gerente conservatória do registo Porto 收费墙;R65 谱位+exhibitor 档案已足）
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:MUM 展商+LigoWave 官分 / W:单国单体 / O:WISP/无线安装商 PoE 随单 / T:同圈 Officelan 等竞争
 - **Saga产品适配**：无线专精 VAD 的客层 PoE 随单位
@@ -125,6 +125,9 @@ updated: 2026-10-07
   > 来源：https://www.ligowave.com/distributors/europe
 - **【R57备护深挖证据】**Expositores … Truenet (Portugal)
   > Expositores … Truenet (Portugal)
+  > 来源：https://mum.mikrotik.com/2019/PT/exhibitors/PT
+- **【R65 谱/档案】**Truenet Lda NIF 513514139 · 2019 MUM PT exhibitor · LigoWave Portugal 官方分销
+  > Truenet (Portugal) [2019 MUM PT exhibitor] … TRUENET Distributor in Portugal Tel: +351 936 794 301 [ligowave.com 官方名录] … NIF 513514139 Rua do Mosteiro, 89 4465-703 Leça do Balio
   > 来源：https://mum.mikrotik.com/2019/PT/exhibitors/PT
 
 ## 产品决策（Saga · 单一决策口径）

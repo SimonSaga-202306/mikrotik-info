@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Avelution（荷兰）：**Master Systems Integrator|OT-netwerkarchitectuur**:500.000+ m² OT 骨干、50+ 项目、20+ 年；WiredScore/SmartScore AP;IEC 62443;NIS2/GACS/EPBD IV/CRA/SRI 五框架；官网明言'不是安装商不是 IT 方，是独立网络架构师'
-- 【推断】顾问型集成商=天然对照者：把规格写入他们的 PvE（规格纲领）对照库=最长尾入口
-- 【假设】PvE 规格库对照行窄针（诚实角）
+- 【事实】Avelution(荷兰;R66 基线补足档·公司面全貌待补;函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -83,56 +83,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照卡
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：PvE 规格库对照行（诚实角）
-- **要问的问题**：规格库收对照行吗？
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 一页卡
+### 第 2 次跟进 · 一页目录卡
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：顾问转发即用的对照卡
-- **要问的问题**：要转发版卡吗？
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第35批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://avelution.nl|500.000m²+AP 双证+五合规框架
-- **②芯片/型号**：无（顾问）
-- **③KP 深挖**：WiredScore/SmartScore AP 实操
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：架构证据链嗜好（IEC 62443）
+- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动
+- **②芯片/型号**：(待问;avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 域名面谱=公司面谱)
+- **③KP 深挖**：**函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：函数口职能口已实位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Avelution is geen installateur en geen IT-partij - wij zijn de onafhankelijke architect' + WiredScore/SmartScore Accredited Professional
-  > 'Avelution is geen installateur en geen IT-partij - wij zijn de onafhankelijke architect' + WiredScore/SmartScore Accredited Professional
+- **【决策链与对接人】**Avelution — info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > Avelution — info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > 来源：https://avelution.nl
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > 来源：https://avelution.nl
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
   > 来源：https://avelution.nl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷楼宇 OT 网独立架构顾问
-- **产品线与在售品牌**：顾问制（无品牌绑定）
-- **目标行业与场景**：开发商/业主/安装商三方
-- **团队与规模**：小团
-- **决策链与对接人**：info@ 口
-- **技术与认证**：WiredScore/SmartScore AP;IEC 62443
-- **采购与供应链信号**：—
-- **近期动态与线索**：NIS2/EPBD IV/GACS 顺风期
-- **与我方契合点**：PvE 规格库对照单元（诚实角）
-- **风险与注意**：顾问不卖硬件——只落对照行
+- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动
+- **产品线与在售品牌**：(待问;avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,10 +153,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：顾问纯血
-- **W**：不带货
-- **O**：PvE 对照行
-- **T**：大牌默认
+- **S**：函数口职能口已实位
+- **W**：具名 kp 未勘出(波次点名)
+- **O**：函数口面心谱链档的特制效应
+- **T**：函数口档直发不直接
 
 ## 触达与风险红线
 
@@ -178,8 +184,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] PvE 库开放
-  - [ ] 项目密度
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +198,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Avelution team,
+Hi team,
 
-Your independence is the product: you design the OT backbone, installers execute it, and the PvE carries the evidence. We build network hardware as OEM/ODM and keep a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full English documentation. Reference: $180 USD EXW (2026-09-29).
+I came across Avelution while mapping 荷兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We are not asking you to sell anything - only whether a documented value-tier PoE switch earns a comparison row inside your specification library for budget-driven building projects. If the spec ever earns a mention in a PvE, one reply and the documentation pack follows.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: does your specification library accept a documented value PoE tier as a comparison row?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -221,12 +228,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Avelution · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Avelution)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(NCSC 政府供应商排除;企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

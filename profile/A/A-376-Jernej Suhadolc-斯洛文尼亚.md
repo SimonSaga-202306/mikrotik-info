@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jernej Suhadolc (Virtua IT)（斯洛文尼亚）：Ljubljana 15+ 年 IT 伙伴：**Fortinet+Ubiquiti+MikroTik 三牌明示**;SD-WAN/VPS/DR/备份/外包全 MSP;**MikroTik(MTCNA/MTCWE/MTCRE)+Fortinet 认证课**
-- 【推断】MSP+trainer 双角：托管现场随单缝+顾问对照行两缝；Ubiquiti 是其接入层主牌=诚实替补角
-- 【假设】双角：托管现场随单+课堂对照行（Ubiquiti 旁前句）
+- 【事实】Jernej Suhadolc(斯洛文尼亚;**个体户/人名司名档=实名谱位实名:Jernej Suhadolc(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)**;+386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现） 签名/公司函数口已记 STRUCT
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口virtua-it.si（早期线索，正文未复现） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 双角
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：托管现场随单缝+课堂对照行双角（Ubiquiti 旁前句）
-- **要问的问题**：双角任一缝吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第38批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://virtua.si|三牌+双认证课+全 MSP 三核
-- **②芯片/型号**：MT/Ubiquiti 谱
-- **③KP 深挖**：MSP 15 年+培训
-- **④Saga 对标**：STC-424 双角窄位（$180 锚点一致）
-- **⑤在乎与偏好**：'predvidljivi stroški'（可预测成本）口号=性价比敏感
+- **①背景再核**：R66 基线补足档(个体户谱:Jernej Suhadolc);司面全谱待 R66 波次补;函数口 +386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现）(virtua-it.si（早期线索，正文未复现）)跟团不动
+- **②芯片/型号**：(待问;virtua-it.si（早期线索，正文未复现） 域名面谱=公司面谱)
+- **③KP 深挖**：**Jernej Suhadolc(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现） 口(virtua-it.si（早期线索，正文未复现）)跟团不动;登记册查询指向该自然人的法人公开件**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：个人实名档谱简洁直接
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'IT varnost: Fortinet in Ubiquiti… MikroTik certifikacije: MTCNA, MTCWE, MTCRE' + SD-WAN/VPS/DR/outsourcing 全谱
-  > 'IT varnost: Fortinet in Ubiquiti… MikroTik certifikacije: MTCNA, MTCWE, MTCRE' + SD-WAN/VPS/DR/outsourcing 全谱
-  > 来源：https://virtua.si
+- **【决策链与对接人】**Jernej Suhadolc — +386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现） (CSV/STRUCT 落穗件;个体户谱:Jernej Suhadolc)
+  > Jernej Suhadolc — +386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现） (CSV/STRUCT 落穗件;个体户谱:Jernej Suhadolc)
+  > 来源：https://www.virtua-it.si
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Jernej Suhadolc
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Jernej Suhadolc
+  > 来源：https://www.virtua-it.si
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 来源：https://www.virtua-it.si
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：斯洛文尼亚 MSP+认证培训（15 年）
-- **产品线与在售品牌**：Fortinet/Ubiquiti/MikroTik 三牌
-- **目标行业与场景**：SMB 托管+云迁移
-- **团队与规模**：小型
-- **决策链与对接人**：jernej.suhadolc@ 具名
-- **技术与认证**：MT+Fortinet 认证讲师
-- **采购与供应链信号**：—
-- **近期动态与线索**：24/7 支持承诺
-- **与我方契合点**：托管现场随单+课堂对照行双角
-- **风险与注意**：Ubiquiti 主牌——替补角前置诚实句
+- **业务定位**：R66 基线补足档(个体户谱:Jernej Suhadolc);司面全谱待 R66 波次补;函数口 +386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现）(virtua-it.si（早期线索，正文未复现）)跟团不动
+- **产品线与在售品牌**：(待问;virtua-it.si（早期线索，正文未复现） 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**Jernej Suhadolc(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现） 口(virtua-it.si（早期线索，正文未复现）)跟团不动;登记册查询指向该自然人的法人公开件**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口virtua-it.si（早期线索，正文未复现） 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双角
-- **W**：体量小+Ubiquiti
-- **O**：随单+课堂
-- **T**：主牌
+- **S**：个人实名档谱简洁直接
+- **W**：该档个体不表征司面大小(个体谱)
+- **O**：个体档的成本谱替换件直达位
+- **T**：个体档档期能力低交换
 
 ## 触达与风险红线
 
@@ -185,8 +191,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单频次
-  - [ ] 首发量
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -200,14 +207,14 @@ updated: 2026-09-28
 ```text
 Hi Jernej,
 
-Fortinet at the edge, UniFi on the floor, MikroTik in the lab, and certifications to teach all of it - plus 'predictable costs' as a promise. For managed sites where budget decides, a documented 24-port PoE switch at $180 USD EXW (2026-09-29) is the value tier your clients occasionally need.
+I came across Jernej Suhadolc while mapping 斯洛文尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: in your managed-site builds or your classes, would a documented value PoE row be useful?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -228,12 +235,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Jernej Suhadolc · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Jernej%20Suhadolc)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(常规 EU);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

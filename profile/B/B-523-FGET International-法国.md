@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/pho…
+- **是谁**：FGET International(SIREN(Genas 69740),1984-01-06 创（42 年老谱！);**Gil Guedj = Président de SAS（主席，1947 生 79 岁）;Jef…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-209→B-523】官网联系页正文可见；免费邮箱（gmail），群发投递风险需自行评估；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | FGET International(SIREN(Genas 69740),1984-01-06 创（42 年老谱！);**Gil Guedj = Président de SAS（主席，1947 生 79 岁）;Jefferson Guedj = Directeur Général（总经理，1988 生 38 岁，亲家接棒）**;谱型=电子与电信设备/部件 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营
+- 【事实】FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营 | R65 深挖:Genas 42 年老谱 5.9M€;Guedj 父子接棒位
 - 【推断】法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)
 - 【假设】开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- FGET International(SIREN(Genas 69740),1984-01-06 创（42 年老谱！);**Gil Guedj = Président de SAS（主席，1947 生 79 岁）;Jefferson Guedj = Directeur Général（总经理，1988 生 38 岁，亲家接棒）**;谱型=电子与电信设备/部件大宗批发（Commerce de gros 4652);10-19 员工，€5.86M 营收；04 72 79 64 15 / info@fget.fr;CJ2L 协调主席
 
 ## 联系方式（已有/猜测分标）
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gil Guedj | Président de SAS | info@fget.fr / 04 72 79 64 15 | infonet 双源 | https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/ |
+| Jefferson Guedj | Directeur Général（1988 生二代接棒） | 同上 | infonet/pappers 双源 | https://infonet.fr/dirigeants/66a9dcb541b8769963e290e3/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
 
-- **背景深描**：FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营
+- **背景深描**：FGET International(SIREN(Genas 69740),1984-01-06 创（42 年老谱！);**Gil Guedj = Président de SAS（主席，1947 生 79 岁）;Jefferson Guedj = Directeur Général（总经理，1988 生 38 岁，亲家接棒）**;谱型=电子与电信设备/部件大宗批发（Commerce de gros 4652);10-19 员工，€5.86M 营收；04 72 79 64 15 / info@fget.fr;CJ2L 协调主席
 - **芯片与在用型号**：【推断】法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)
-- **关键人KP**：—
+- **关键人KP**：Gil Guedj = Président(79 岁 1947 生）;Jefferson Guedj = DG（1988 生 38 岁接棒）
 - **关注点与资质**：N-Tron + Red Lion + Anybus + Ewon 
 - **优缺点SWOT**：S:老品商+ACSI 并购了品路 / W:并购后位不固定,接触错乱 / O:STI-288GP 老谱后值二线 / T:品牌面前面目更新
 - **Saga产品适配**：并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道
@@ -128,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5
   > 2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5
   > 来源：https://entreprises.lefigaro.fr/fget-international-69/entreprise-328732565
+- **【R65 登记/实名】**FGET Genas 1984 42 年老谱 · Gil Guedj 79 主+Jefferson Guedj 38 接棒 · €5.86M 电子通件批发
+  > Gil Guedj né en 1947 … Président de SAS … Jefferson Guedj né(e) en 1988 … Directeur Général … CA : 5.86 M
+  > 来源：https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +165,7 @@ S:老品商+ACSI 并购了品路 / W:并购后位不固定,接触错乱 / O:STI-
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

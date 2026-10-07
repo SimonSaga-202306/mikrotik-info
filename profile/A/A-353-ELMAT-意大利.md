@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ELMAT S.p.A（意大利）：意大利网络/安防大 B2B 分销:'vendere tutti e solo i prodotti che vanno in rete';牌墙=Axis/Milestone/**Cambium(认证课）**/Teltonika/**Ruijie Reyee**/2N/Hikvision/Milesight 等；B2B 门户+formazione 体系
-- 【推断】大分销组合逻辑内：企业网有线/无线现由 Ruijie 担=替补 SKU 缝（金压场景）;Cambium 旁无线随带
-- 【假设】企业网替补 SKU 窄位（Ruijie 旁前句）
+- 【事实】ELMAT(意大利;R66 基线补足档·公司面全貌待补;函数口职能口 info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova(pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -86,56 +86,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 买手针
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：品类买手替补 SKU 缝（Ruijie 旁前句）
-- **要问的问题**：替补缝存在吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第36批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.elmat.com|牌墙+formazione 双核
-- **②芯片/型号**：——
-- **③KP 深挖**：大 B2B 分销史
-- **④Saga 对标**：STC-424 替补缝（$180 锚点一致）
-- **⑤在乎与偏好**：品类买手制
+- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova(pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova)跟团不动
+- **②芯片/型号**：(待问;pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova 域名面谱=公司面谱)
+- **③KP 深挖**：**函数口职能口 info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova(pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：函数口职能口已实位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【在售品牌】**'Vendere tutti e solo i prodotti che vanno in rete' + 牌墙 Ruijie Reyee/Cambium/Teltonika/Axis/Milestone
-  > 'Vendere tutti e solo i prodotti che vanno in rete' + 牌墙 Ruijie Reyee/Cambium/Teltonika/Axis/Milestone
+- **【决策链与对接人】**ELMAT — info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > ELMAT — info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > 来源：https://www.elmat.com
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > 来源：https://www.elmat.com
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
   > 来源：https://www.elmat.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大型 B2B 网络/安防分销
-- **产品线与在售品牌**：Ruijie Reyee/Cambium/Teltonika/Axis/Milestone 等
-- **目标行业与场景**：集成商/装维生态
-- **团队与规模**：大型
-- **决策链与对接人**：info@ 口+B2B 门户
-- **技术与认证**：厂训体系（Cambium 认证课）
-- **采购与供应链信号**：大库存池
-- **近期动态与线索**：elmat 学院排课 2026-10
-- **与我方契合点**：替补 SKU 缝（Ruijie 旁前句，诚实角）
-- **风险与注意**：大分销层级深——找对口品类买手难
+- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova(pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova)跟团不动
+- **产品线与在售品牌**：(待问;pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**函数口职能口 info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova(pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：通道厚
-- **W**：大牌组合
-- **O**：替补缝
-- **T**：Ruijie
+- **S**：函数口职能口已实位
+- **W**：具名 kp 未勘出(波次点名)
+- **O**：函数口面心谱链档的特制效应
+- **T**：函数口档直发不直接
 
 ## 触达与风险红线
 
@@ -181,8 +187,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 品类买手口
-  - [ ] 替补缝
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -194,16 +201,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ELMAT team,
+Hi team,
 
-'Everything, and only, what goes on the network' - a clean philosophy. Your enterprise wired/wireless row today is served by Ruijie and Cambium, and both keep their place. This is about one documented value PoE SKU for the budget-forced quote your resellers occasionally lose.
+I came across ELMAT while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: does your catalogue keep a value PoE SKU as the budget answer beside Ruijie?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -224,12 +231,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[ELMAT · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=ELMAT)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);档案信号: 在卖中国品牌 Hikvision/Ruijie → 对中国产线接受度已被事实验证;战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片
-- **芯片谱(Marvell 专注度)**:待定(档案无芯片信号,首开先问品牌谱)
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

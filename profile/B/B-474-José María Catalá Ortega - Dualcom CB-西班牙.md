@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营…
+- **是谁**：Jose Maria Catala Ortega(DUALCOM 个体顾问本体;R65 判定:法国 Villebrumier SIREN 403131188(holding) / Marseille SIREN 4997…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 加那利离岛 WISP/安装生态备养:量级小,守档观察；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PA | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Jose Maria Catala Ortega(DUALCOM 个体顾问本体;R65 判定:法国 Villebrumier SIREN 403131188(holding) / Marseille SIREN 499768315(已解散) / UK CSL DualCom(M2M 1996) 三同名实体均已排除,不采信;B-474=西班牙个体顾问本体(CS | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PALMA』6/10/12Mb 无线+企业 PtP+视频监控+报警+机房维护,驻 Los Llanos)
+- 【事实】José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PALMA』6/10/12Mb 无线+企业 PtP+视频监控+报警+机房维护,驻 Los Llanos) | R65 深挖:同名三暗排除；西班牙个体本体守档
 - 【推断】离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感
 - 【假设】守档备养:具名引见,岛上 WISP 回程/监控安装 PoE 场景长线;若其确为运营型,客户 CPE/回程件有其谱但量小
 
@@ -84,7 +84,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| José María Catalá Ortega | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| José María Catalá Ortega | Consultor(Dualcom 个人谱） | 经 CSV 入口 | CSV 口径（R65 同名实体排除） | (CSV 本体 + R65 同名排核日志） |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -107,11 +107,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PALMA』6/10/12Mb 无线+企业 PtP+视频监控+报警+机房维护,驻 Los Llanos)
+- **背景深描**：Jose Maria Catala Ortega(DUALCOM 个体顾问本体;R65 判定:法国 Villebrumier SIREN 403131188(holding) / Marseille SIREN 499768315(已解散) / UK CSL DualCom(M2M 1996) 三同名实体均已排除,不采信;B-474=西班牙个体顾问本体(CSV 谱主位))
 - **芯片与在用型号**：【推断】离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：José María Catalá Ortega = 个体谱主位（CSV 口径；R65 同名排除）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:离岛本地垄断圈+具名 / W:量级极小+物流离岛 / O:岛 WISP 回程/监控安装随单 / T:量不抵运
 - **Saga产品适配**：加那利离岛 WISP/安装生态备养:量级小,守档观察
@@ -124,6 +124,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Realizamos instalaciones y mantenimiento en todo tipo de infraestructuras de telecomunicaciones…wimax…somos tu operador de telecomunicacione
   > Realizamos instalaciones y mantenimiento en todo tipo de infraestructuras de telecomunicaciones…wimax…somos tu operador de telecomunicaciones para particulares y empresas en la isla de La Palma
   > 来源：https://conectandolapalma.com/
+- **【R65 同名排除】**法国/马赛/英国三同名 DUALCOM 实体排除后，B-474 为西班牙个体顾问本体
+  > (R65 同名实体验证日志：403131188/499768315/CSL Dualcom UK 均已排除）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

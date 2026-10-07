@@ -37,8 +37,7 @@ updated: 2026-10-06
 | 名称 | Piotr Poniatowski（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 波兰 / Miedzyrzec Podlaski | 事实 |
 | 网站 | poniatowski.pl | 事实 |
-| 类型 | MikroTik 波兰 FB 最大群创始人,MBUM 演讲者,顾问型 | 事实（CSV 名录口径） |
-| 关键人 | Piotr Poniatowski | 事实 |
+| 类型 | 集成商/顾问（MikroTik 认证） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik 认证顾问 MTCNA+MTCRE+MTCUME+MTCSWE | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | MikroTik 波兰 FB 最大群创始人,MBUM 演讲者,顾问型 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+48 501 337 777 
+- **电话**：+48 501 337 777
 - **原始联系字段**：+48 501 337 777 / piotr@poniatowski.pl
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Piotr Poniatowski**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -133,7 +132,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -153,7 +152,7 @@ updated: 2026-10-06
 ```text
 Hi Piotr,
 
-I came across Piotr Poniatowski - MikroTik 波兰 FB 最大群创始人,MBUM 演讲者,顾问型.
+I came across Piotr Poniatowski - 集成商/顾问（MikroTik 认证）.
 
 We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
 
@@ -183,81 +182,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Piotr Poniatowski(Miedzyrzec Podlaski;poniatowski.pl 自有域;**四证 MTCNA+MTCRE+MTCUME(Hotspot/PPPoE 用户管理)+MTCSWE(交换)**;piotr@poniatowski.pl)
-- 【推断】MTCSWE(交换专项证)在四证里——交换方向是 MikroTik 近年新证,持有人对交换段有专门兴趣;MTCUME=Hotspot 谱(酒店/公共接入);小城自有域顾问
-- 【假设】守档备养:具名引见(交换专项语言最对路),其 Hotspot/酒店谱 PoE 场景长线
-
-**SWOT 速描**
-- **S**: 四证含 MTCSWE 交换专项+自有域
-- **W**: 小城量级
-- **O**: Hotspot 谱 PoE 长线
-- **T**: 失联
-
-**证据（quote → 来源）**
-- 「CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME+MTCSWE;poniatowski.pl 自有域」 — 客户名单_反向信号_2026-09.csv
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `CONSULT-OEM` — 四证含交换专项顾问备养:具名交换语言引见,Hotspot 谱信号再激活
-- 第一问: 你的 Hotspot/酒店项目里,PoE 接入交换现随哪家?(MTCSWE 对口话题)
-- 标签: 波兰|Miedzyrzec|四证含MTCSWE|自有域
-
-**备养出信稿（未触发，供后续用户启用参考）**
-> 【合作通道·备养】具名引见后定(交换专项语言最对路)。
-
-**待补证清单**
-1. Hotspot/酒店客户谱
-2. 现证在档
-
-**跟进建议（守档节奏）**
-- D+14 具名技术短引见
-- D+30 放盘
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第8波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-270 → 新号 A-580,原 B 编号释放回池)
-
-**评级依据**：MikroTik 波兰 FB 最大群创始人,MBUM#10 演讲者,CEO D.B.G. Investment,网络/系统/数据库工程(CISCO/NIS/DORA/CISM/CEH)
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"poniatowski.pl": ["mx.tnet.pl"]}
-- **Piotr Poniatowski** — 本人=业主(R57 已落 piotr@poniatowski.pl)（源:https://mbum.pl/index.php）
-  - 邮箱:piotr@poniatowski.pl（official-existing(R57 已落)）
-- **Piotr Poniatowski** — 本人=业主(R57 已落 piotr@poniatowski.pl)（源:https://mbum.pl/index.php）
-
-**备注**:邮箱已有,本轮只复核 MX
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Piotr Poniatowski(本人=业主/顾问)
-**通道**:piotr@poniatowski.pl(已有,official)
-
-**主题**:Hardware worth showing to Poland's biggest MikroTik group
-
-```text
-Hi Piotr,
-
-Founder of the largest Polish MikroTik group, MBUM speaker, MTCSWE holder - you see every switch that enters the Polish MikroTik world.
-
-We manufacture documented PoE switches (24-port PoE+ 280W, 4x10G, ERPS<20ms; also 8-port models) for OEM/white-label programs - neutral packing, your model numbers.
-
-One question: which PoE switches do you currently point group members and clients to for enterprise builds - and would an engineering evaluation unit interest you personally?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

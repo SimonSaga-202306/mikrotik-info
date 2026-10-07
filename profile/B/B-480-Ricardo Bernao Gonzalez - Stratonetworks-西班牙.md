@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strat…
+- **是谁**：Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV …
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTi | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV 谱口径）; | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**)
+- 【事实】Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体
 - 【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
 - 【假设】开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ricardo Bernao Gonzalez | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Ricardo Bernao Gonzalez | 谱主位实体 | info@stratonetworks.com / +34 657 478 596 | CSV 口径+stratonetworks.com 官网自曝 | https://www.stratonetworks.com/portada/acerca.php |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**)
+- **背景深描**：Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV 谱口径）;
 - **芯片与在用型号**：【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Ricardo Bernao Gonzalez = 实体谱主位（CSV 口径）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCWE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样本+数字化代理 SME 项目随单双线 / T:师者红线
 - **Saga产品适配**：Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)
@@ -130,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas
   > agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas
   > 来源：http://www.stratonetworks.com/portada/index.php
+- **【R65 谱/自曝】**Strato Networks 2008 创 Las Rozas · 50+ 客户 85% tech staff · 公行(public sector 专放） · Blue team防御 Sophos Silver/SonicWall/MikroTik · MikroTik RouterOS 训练课与 InstantByte 欧洲分销联名(5 届)
+  > En Enero de 2008 fundamos Strato Networks … Strato Networks trabaja con más 50 clientes … 85% de personal técnico … Somos partner Silver de Sophos … Certificaciones Mikrotik … formacion(arroba)stratonetworks(punto)(com)
+  > 来源：https://www.stratonetworks.com/portada/acerca.php
 
 ## 产品决策（Saga · 单一决策口径）
 

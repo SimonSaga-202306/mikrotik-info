@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/O…
+- **是谁**：Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayoris…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Gr | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayorista 龙头——MikroTik/Ubiquiti 等多品牌 official majorista 自曝**(谱本体站 fabricante/ | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单)
+- 【事实】Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单) | R65 深挖:Valencia majorista 巨口;self-staged official
 - 【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
 - 【假设】开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
 
@@ -112,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvi
+- **背景深描**：Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayorista 龙头——MikroTik/Ubiquiti 等多品牌 official majorista 自曝**(谱本体站 fabricante/mikrotik 栏:「distribuidor oficial y mayorista para comprar al por mayor」)
 - **芯片与在用型号**：【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
-- **关键人KP**：—
+- **关键人KP**：—(S.L. administrador registre mercantil Valencia 收费墙；R65 谱位+地址件已足）
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggual OEM PoE 延伸(第四自牌类目) / T:自牌谱优先于外来牌
 - **Saga产品适配**：批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)
@@ -132,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstre
   > distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream
   > 来源：https://www.infortisa.com/canal/redes/
+- **【R65 谱/地址】**Infortisa S.L. Alfara del Patriarca(Valencia)· 961 309006 · MikroTik mayorista 自曝
+  > In Infortisa, mayorista, proveedor y distribuidor oficial … INFORTISA Mayorista de informática y tecnología Infortisa, S.L.,(+34) 961 309 006, C/ del Pozo, 1, 46115 Alfara del Patriarca, Valencia
+  > 来源：https://www.infortisa.com/fabricante/mikrotik/
 
 ## 产品决策（Saga · 单一决策口径）
 

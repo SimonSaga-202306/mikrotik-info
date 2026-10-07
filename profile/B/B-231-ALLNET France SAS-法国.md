@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:…
+- **是谁**：ALLNET France SAS(SIREN 979508009,2023-09-14 创立,SAS €50K 本，Carcassonne 96 Rue Lamarck;**Bastien Gonon = Présid…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ALLNET France SAS(SIREN 979508009,2023-09-14 创立,SAS €50K 本，Carcassonne 96 Rue Lamarck;**Bastien Gonon = Président & CEO & Co-Fondateur(TU Delft aerospace+航天咨询转电信血统)；Thierry, Antoin | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配
+- 【事实】ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配 | R65 深挖:Gonon 家族新创 2023;谱与德国母体联动候选(供联动判断;不证不动)
 - 【推断】Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂
 - 【假设】开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- ALLNET France SAS(SIREN 979508009,2023-09-14 创立,SAS €50K 本，Carcassonne 96 Rue Lamarck;**Bastien Gonon = Président & CEO & Co-Fondateur(TU Delft aerospace+航天咨询转电信血统)；Thierry, Antoine, Raymond Gonon 曾 Président→Directeur Général(gramps/亲联络链)；Tjorben Teunissen 联合创始人；Gabriel Janicot Head of Product;1-10 员工谱注「Votre distributeur pour tout ce qui concerne les réseaux, les télécommunications et l'IoT」(谱型注:R65 登记 SIREN 979508009 显示 2023 新创——谱/B-138 Bauer 1991 母体「ALLNET」同属不明，谱位作同族候选标记)
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Bastien Gonon | Président / CEO / Co-Fondateur | 经 allnet.de/allnet France 页 | intch + lefigaro 双源自曝 | https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009 |
+| Tjorben Teunissen | Co-Founder | 同上 | prospeo 自曝 | https://prospeo.io/c/allnet-france |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配
+- **背景深描**：ALLNET France SAS(SIREN 979508009,2023-09-14 创立,SAS €50K 本，Carcassonne 96 Rue Lamarck;**Bastien Gonon = Président & CEO & Co-Fondateur(TU Delft aerospace+航天咨询转电信血统)；Thierry, Antoine, Raymond Gonon 曾 Président→Directeur Général(gramps/亲联络链)；Tjorben Teunissen 联合创始人；Gabriel Janicot Head of Product;1-10 员工谱注「Votre distributeur pour tout ce qui concerne les réseaux, les télécommunications et l'IoT」(谱型注:R65 登记 SIREN 979508009 显示 2023 新创——谱/B-138 Bauer 1991 母体「ALLNET」同属不明，谱位作同族候选标记)
 - **芯片与在用型号**：【推断】Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂
-- **关键人KP**：—
+- **关键人KP**：Bastien Gonon = Président/CEO/Co-Fondateur(TU Delft 航空+咨询血统);Tjorben Teunissen 联合创始人;Thierry Gonon 家族谱位
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:集团欧洲多站+品牌一致 / W:多站决策散，入位想 / O:集团全谱 value PoE 合合 / T:集团内在异构
 - **Saga产品适配**：ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）
@@ -123,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Aust
   > Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe
   > 来源：https://www.allnet-italia.it/en/allnet-international-network/
+- **【R65 登记+KP】**ALLNET France SAS · SIREN 979508009 · 2023-09-14 创 · Carcassonne · Bastien Gonon P+CEO+CoF · 1-10 员工
+  > Président : GONON Bastien ; Directeur général : GONON Thierry … Date d'immatriculation : 14/09/2023 … Votre distributeur pour tout ce qui concerne les réseaux, les télécommunications et l'IoT
+  > 来源：https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +160,7 @@ S:集团欧洲多站+品牌一致 / W:多站决策散，入位想 / O:集团全�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

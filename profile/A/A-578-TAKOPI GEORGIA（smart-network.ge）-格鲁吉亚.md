@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: false, oe
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-10-06
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,11 +34,10 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | TAKOPI Georgia（CSV 原样；登记名以调研为准） | 事实 |
+| 名称 | TAKOPI GEORGIA（smart-network.ge）（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 格鲁吉亚 | 事实 |
-| 网站 | takopi.ge | 事实 |
-| 类型 | 官方 25 牌分销,集团跨境 10 国 | 事实（CSV 名录口径） |
-| 关键人 | TAKOPI Georgia | 事实 |
+| 网站 | smart-network.ge | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Master+VAD） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | 官方 25 牌分销,集团跨境 10 国 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+995 505 05 05 60 
+- **电话**：+995 505 05 05 60
 - **原始联系字段**：+995 505 05 05 60 / info@takopi.ge
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **TAKOPI Georgia**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi TAKOPI,
 
-I came across TAKOPI Georgia - 官方 25 牌分销,集团跨境 10 国.
+I came across TAKOPI GEORGIA（smart-network.ge） - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,120 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】TAKOPI GEORGIA(**Takopi Group 国际 IT 分销 2007 年起覆盖东欧+高加索+中亚多国**;格鲁吉亚站=smart-network.ge 项目站同壳;~25 品牌:MikroTik/Netgear/Ruckus/D-Link/Edimax/ZyXEL/**Teltonika 工业路由**/Sophos/**Tiandy 相机**/Kaytus(原浪潮)服务器/Grandstream/Unify 话机/nJoy UPS/Creality/Elegoo 3D/Anern 光伏/Ekahau;Tbilisi 本地仓+集成商伙伴价;名录 SMART NETWORK GEORGIA Master)
-- 【推断】集团级 VAD 全谱:Teltonika 工业+Tiandy 监控+Grandstream 话机三线 PoE 场景齐聚;集团多国铺=统一开口、多国放量(集团架 value SKU 逻辑)
-- 【假设】开口角度=「集团架 stocking SKU」:STC-424 以一条 value SKU 吃多国,STI-288GP 备位(Teltonika 旁工业轨);开口一次覆盖 smart-network.ge
-
-**SWOT 速描**
-- **S**: 集团多国+25 牌谱+本地仓
-- **W**: 谱系拥挤,单品注意力有限
-- **O**: 集团架一 SKU 多国放量
-- **T**: 被现有交换谱品牌挡门
-
-**证据（quote → 来源）**
-- 「Takopi Georgia is the Georgian arm of the international Takopi Group, an IT distributor operating since 2007 across Eastern Europe, the Caucasus and Central Asia … around 25 brands」 — https://kompas.ge/en/company/takopi-georgia-distribyutor-it-oborudovaniya
-- 「SMART NETWORK GEORGIA Master Distributors Tbilisi, Georgia Tel: +995 558 654 383」 — http://www.dyalkom.com/buy.html
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — 集团级 VAD 的 stocking SKU 商用 PoE 档(STI-288GP 备位)
-- 第一问: 集团谱里,24 口 PoE 管理型的 value stocking 档谁来填?(采购是国别还是集团统一?)
-- 标签: 格鲁吉亚|Tbilisi|Takopi集团|多国铺|smart-network双站
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Takopi team,
-
-Takopi Group across Eastern Europe, the Caucasus and Central Asia since 2007 - a 25-brand line card from MikroTik networking to Tiandy cameras and Grandstream phones, with local stock discipline in Tbilisi. Groups like yours run on documented stocking SKUs that sell across borders.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit, one SKU that can serve your Georgian, Caucasus and Central Asian desks, white-label friendly.
-
-One question: in your line-up, who fills the 24-port PoE value slot today - and does group purchasing sit with the local desk or centrally?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 集团采购层级(国别 vs 集团统一)
-2. Teltonika 旁工业 PoE 轨空缺与否
-
-**跟进建议（守档节奏）**
-- D+3 集团架 SKU 页
-- D+14 info@takopi.ge 开口(单站覆盖 smart-network.ge)
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第11波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-223 → 新号 A-578,原 B 编号释放回池)
-
-**评级依据**：官方 25 牌分销(MikroTik/Netgear/Sophos 等),Tbilisi;集团跨境 10 国
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"takopi.ge": ["alt1.aspmx.l.google.com", "alt2.aspmx.l.google.com", "alt3.aspmx.l.google.com", "alt4.aspmx.l.google.com", "aspmx.l.google.com"]}
-**KP**:人名未取得 → **待定**(下波换 Apollo/ContactOut 导出或官网团队页再挖)
-
-**备注**:KP 人名未取得→待定
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**域 MX**:{"takopi.ge": ["alt1.aspmx.l.google.com", "alt2.aspmx.l.google.com", "alt3.aspmx.l.google.com", "alt4.aspmx.l.google.com", "aspmx.l.google.com"]}
-**结论**:9 员工;info@smart-network.ge;Andria Benashvili st.16 Tbilisi;RocketReach 确认 @takopi.ge 域
-- **Sergey Shapovalov** — Regional Manager @ Takopi Georgia(前 Treolan/LANIT 网络产品组长,2023 至今)（源:https://rocketreach.co/sergey-shapovalov-email_840273986）
-  - `sergey@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `sergey.shapovalov@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `s.shapovalov@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `sergeyshapovalov@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `sshapovalov@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `shapovalov@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-- **Vazgen Minasyan** — BDM（源:https://rocketreach.co/takopi-georgia-takopi-jorjia-management_b682ebe2c9f7097b）
-  - `vazgen@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `vazgen.minasyan@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `v.minasyan@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `vazgenminasyan@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `vminasyan@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `minasyan@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-- **Alexander Abramov** — BDM Aten/Netgear/Tiandy（源:https://rocketreach.co/takopi-georgia-takopi-jorjia-profile_b682ebe2c9f7097b）
-  - `alexander@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `alexander.abramov@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `a.abramov@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `alexanderabramov@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `aabramov@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `abramov@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Sergey Shapovalov(Regional Manager)
-**通道**:sergey.shapovalov@takopi.ge(候选系;info@smart-network.ge)
-
-**主题**:A PoE+ value tier for your 25-brand portfolio
-
-```text
-Hi Sergey,
-
-Someone who led networking product teams at Treolan knows exactly where a 24-port PoE+ value tier sits in a 25-brand portfolio.
-
-We build it: 24 Gigabit PoE+ ports (280W), 4x10G SFP+ uplinks, ERPS<20ms, hardware watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: in Takopi's Tbilisi stock today, which model holds that tier - and would a documented evaluation unit earn bench time beside your MikroTik and Netgear lines?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

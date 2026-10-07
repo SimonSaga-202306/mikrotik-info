@@ -37,8 +37,7 @@ updated: 2026-10-06
 | 名称 | Ronitek（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 以色列 | 事实 |
 | 网站 | ronitek.co.il | 事实 |
-| 类型 | MikroTik 官方分销 | 事实（CSV 名录口径） |
-| 关键人 | Ronitek | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Reseller） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | MikroTik 官方分销 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：Info@ronitek.co.il
   - 状态：official-company
-- **电话**：+972 77 249 5881 
-- **原始联系字段**：Info@ronitek.co.il
+- **电话**：+972 77 249 5881
+- **原始联系字段**：+972 77 249 5881 / Info@ronitek.co.il
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Ronitek**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi Ronitek,
 
-I came across Ronitek - MikroTik 官方分销.
+I came across Ronitek - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,100 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Ronitek Distribution Ltd(Tel Aviv Ben Tzvi 84;ח.פ 516918844):**以色列网络设备中坚分销(希伯来语电商+B2B)**——Ubiquiti/MikroTik/TP-Link/Teltonika/Huawei/Cisco/Supermicro/RF Elements/Synology/Yealink/HPE Aruba/Juniper/NVIDIA 全谱;官方进口商口径;在架 MikroTik 深(RDS2216/CCR/CRS,SFP 类目 27 项);WhatsApp 商务线
-- 【推断】同 etree/Ronitek 画像:中东市场电商型全谱分销;Teltonika+Ubiquiti 均在架=PoE 需求谱明确;希伯来语本地服务是其护城河
-- 【假设】开口角度=「以色列电商分销的 24 口 280W 管理型 PoE value 档」:STC-424 以其 CRS/UniFi 之间的 value 空档入架
-
-**SWOT 速描**
-- **S**: 全谱+官方进口+本地希语服务
-- **W**: Ubiquiti 走量压
-- **O**: 24 口 280W 管理型 value 空档
-- **T**: 地缘物流与合规
-
-**证据（quote → 来源）**
-- 「Ubiquiti, MikroTik, TP-Link, Teltonika, Huawei, Cisco, Supermicro, RF Elements, Synology, Yealink…HPE Aruba, Juniper, NETGEAR, NVIDIA」 — https://www.ronitek.co.il
-- 「MikroTik RDS2216…Switches [27]…Routers and Firewalls [17]…SFP optical modules [18]」 — https://www.ronitek.co.il/products/cat/Mikrotik
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — 以色列中坚分销的 24 口 280W 管理型 PoE value 架位
-- 第一问: 你们架上 24 口管理型 PoE+ 现供哪款?UniFi/CRS 之间 value 档有位吗?
-- 标签: 以色列|特拉维夫|全谱分销|MikroTik深架
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Ronitek team,
-
-A full-spectrum importer in Tel Aviv stocking everything from RDS2216 down to hAP, with UniFi, Teltonika and Yealink on the same shelf - your catalog knows where the PoE gaps are.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value tier between your UniFi and CRS shelves, white-label friendly.
-
-One question: on your shelves today, which 24-port managed PoE switch holds the value tier - and would a documented unit earn a listing test?
-
-If useful, I can send one unit with the complete test pack (note: we can align on Israeli import certification needs). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 其安装商/ISP 客层 PoE 随单结构
-2. 新品牌入架的认证门槛(以色列进口认证)
-
-**跟进建议（守档节奏）**
-- D+3 价档对照页
-- D+14 info@ronitek.co.il 开口
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第9波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-037 → 新号 A-570,原 B 编号释放回池)
-
-**评级依据**：官网 MikroTik 交换机专营页+CCR/CRS/变速箱在售,专为思科替代定位 B2B/集成商
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"ronitek.co.il": ["ronitek-co-il.mail.protection.outlook.com"]}
-- **Tomer Shitrit** — Ronitek Distribution Ltd 任职(疑业主/负责人)（源:https://www.linkedin.com/in/tomer-shitrit-b317593/）
-  - `tomer@ronitek.co.il`(first@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `tomer.shitrit@ronitek.co.il`(first.last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `t.shitrit@ronitek.co.il`(f.last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `tomershitrit@ronitek.co.il`(firstlast@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `tshitrit@ronitek.co.il`(flast@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `shitrit@ronitek.co.il`(last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Tomer Shitrit(Ronitek Distribution 负责人)
-**通道**:tomer@ronitek.co.il(候选系;Info@ronitek.co.il 现有)
-
-**主题**:24-port PoE value tier between your UniFi and CRS shelves
-
-```text
-Hi Tomer,
-
-A full-spectrum Tel Aviv importer stocking RDS2216 down to hAP - your catalogue knows exactly where the PoE gaps are.
-
-We build one product well: 24-port Gigabit PoE+ managed switch, 280W, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - the documented value tier between UniFi and CRS.
-
-One question: on ronitek.co.il today, which 24-port managed PoE holds the value slot - and would one unit earn a listing test with your integrator clients?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

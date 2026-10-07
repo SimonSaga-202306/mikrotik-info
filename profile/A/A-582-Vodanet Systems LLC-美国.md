@@ -34,11 +34,10 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Vodanet Systems（CSV 原样；登记名以调研为准） | 事实 |
+| 名称 | Vodanet Systems LLC（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 美国 / NJ | 事实 |
 | 网站 | vodanetsystems.com | 事实 |
-| 类型 | NJ 授权 MikroTik 分销,95 item 仓 | 事实（CSV 名录口径） |
-| 关键人 | Vodanet Systems | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Master） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | NJ 授权 MikroTik 分销,95 item 仓 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+1 862 274 9010 
+- **电话**：+1 862 274 9010
 - **原始联系字段**：+1 862 274 9010 / info@vodanetsystems.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Vodanet Systems**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi Vodanet,
 
-I came across Vodanet Systems - NJ 授权 MikroTik 分销,95 item 仓.
+I came across Vodanet Systems LLC - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,114 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Vodanet Systems（新泽西 Pompton Plains / Moonachie):2005 年创(ZoomInfo）或 2014(connectamericas 注册口径）;~50 人，2015 年营收自述 $10M；仓库存货分销 Cisco/HPE Aruba/Juniper/Fortinet/MikroTik/Teltonika/SonicWall；外部叙事 NASA/Tesla/Siemens 合作案例
-- 【推断】Cisco/Aruba/Juniper/Fortinet 正通货存仓的大杂铺——MikroTik+Teltonika 在架=有 value 线位；$10M 体量意味其 PoE SKU 月均旋转较实
-- 【假设】大谱盘上架额度注定挤——首触主攻具名采购+BOM 对话；STC-424 主供位第二线（Cisco/Aruba 之下的 value 层）
-
-**SWOT 速描**
-- **S**: 现货仓+牌墙+50 人团队
-- **W**: Cisco/Aruba 镇楼，value 线被压制
-- **O**: STC-424 入 value 线位
-- **T**: 大盘 SKU 额度竞争
-
-**证据（quote → 来源）**
-- 「By 2015, Vodanet Systems achieved a remarkable revenue milestone of $10 million…authorized distributor for MikroTik and Teltonika…NASA, Tesla, Siemens」 — https://www.vodanetsystems.com/about-us
-- 「carry an actual inventory…Cisco, HPE Aruba, Juniper, Fortinet, MikroTik, SonicWall」 — https://connectamericas.com/company/vodanet-systems
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — Cisco/Aruba 镇楼下的 value PoE 档第二线：$180 层正口
-- 第一问: 你们 24 口 PoE 段的 value 线现走哪个 SKU？STC-424 这个档有位置吗？
-- 标签: 美国|新泽西|现货仓大盘|50人
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Vodanet team,
-
-A New Jersey warehouse with live inventory across Cisco / Aruba / Juniper / Fortinet / MikroTik / Teltonika - that's a real hemispheric stock position, not a bag shop.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed precisely for the value tier below the Cisco/Aruba block you already stock.
-
-One question: below the Cisco/Aruba shelf, which PoE access SKU is holding the value line in your warehouse today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 在架 CRS 谱进深（CRS518-16XS-2XQ 是 40G 系——上层线）与 PoE 档位对照
-2. Cisco/Aruba 之外的 value 线制定口是谁
-
-**跟进建议（守档节奏）**
-- D+3 value 线对照单页
-- D+14 样机提议
-- D+30 归档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第1波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-390 → 新号 A-582,原 B 编号释放回池)
-
-**评级依据**：NJ 授权 MikroTik 分销,95 item 库存,MikroTik/Cisco/HPE/Juniper/Fortinet,NASA/Tesla/Siemens 合作史
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"vodanetsystems.com": ["mx1-us1.ppe-hosted.com", "mx2-us1.ppe-hosted.com"]}
-- **Albert Krakus** — Founder(2013,计算机工程师)（源:https://www.vodanetsystems.com/about-us）
-  - `albert@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `albert.krakus@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `a.krakus@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `albertkrakus@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `akrakus@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `krakus@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **Alper Karakus** — President（源:https://www.zoominfo.com/c/vodanet-systems-llc/370619677）
-  - `alper@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alper.karakus@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `a.karakus@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alperkarakus@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `akarakus@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `karakus@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **Ihsan Aslan** — Purchase Manager(采购经理,领英员工栏)（源:https://www.linkedin.com/company/vodanet-systems）
-  - `ihsan@vodanetsystems.com`(first@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `ihsan.aslan@vodanetsystems.com`(first.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `i.aslan@vodanetsystems.com`(f.last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `ihsanaslan@vodanetsystems.com`(firstlast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `iaslan@vodanetsystems.com`(flast@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `aslan@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Ihsan Aslan(Purchase Manager)
-**通道**:ihsan.aslan@vodanetsystems.com(候选系)
-
-**主题**:A value-tier 24-port PoE switch for Vodanet NJ warehouse
-
-```text
-Hi Ihsan,
-
-Vodanet's 25-brand line-up - Juniper, HPE Aruba, Fortinet, MikroTik, Teltonika - has one obvious value gap: 24-port managed PoE with real 10G uplinks at import-friendly cost.
-
-We build exactly that: 24 Gigabit PoE+ ports, 280W budget, 4x10G SFP+, ERPS ring <20ms, hardware PoE watchdog. Neutral packing, your label if wanted. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: what currently fills that slot in your New Jersey warehouse stock - and can I send one unit for a 30-day evaluation?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

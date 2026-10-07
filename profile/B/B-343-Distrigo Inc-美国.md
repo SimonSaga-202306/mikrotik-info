@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTi…
+- **是谁**：Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由）…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄
+- 【事实】Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄 | R65 深挖:守档准由
 - 【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位
 - 【假设】思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口
 
@@ -109,9 +109,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄
+- **背景深描**：Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由）
 - **芯片与在用型号**：【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位
 - **关键人KP**：—
 - **关注点与资质**：MikroTik（Reseller） 
@@ -126,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**hEX S / CCR2004-16G-2S+ / RB4011iGS+RM
   > hEX S / CCR2004-16G-2S+ / RB4011iGS+RM
   > 来源：https://distrigoinc.com/
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

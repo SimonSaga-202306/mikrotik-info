@@ -24,7 +24,7 @@ updated: 2026-09-28
 
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
-- **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Ditecal S.L（西班牙 Sevilla，pedidos@ditecal.es【已停用:2026-10-06 退信 not-found 发不过去】，953 004 850）自述 **«Tienda Online Proveedor telecomunicaciones»**，专营 **MikroTik（「Productos Mikrotik en stock」轮播）** + ISP/电信物料；在售 **RG-ES108GD 8 口千兆交换机 50,…；原 B-461 升级，编号顺延 A-563
+- **为什么值得跟**：【人工定级】A —— R53 B段复筛达标升级：B 段逐站复筛达标（站点在线 + 交换机品类/产品在售 + 网络/交换专营 + 小公司决策链短）；官网核对：Ditecal S.L（西班牙 Sevilla，pedidos@ditecal.es，953 004 850）自述 **«Tienda Online Proveedor telecomunicaciones»**，专营 **MikroTik（「Productos Mikrotik en stock」轮播）** + ISP/电信物料；在售 **RG-ES108GD 8 口千兆交换机 50,…；原 B-461 升级，编号顺延 A-563
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Ditecal 西电信供应商店（MT 库存页+MT 认证培训+HSNM hotspot 总代；Reyee RG-ES209GC-P 8口 PoE €190.27 在价）：Reyee 谱旁 value 对照正口（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
@@ -74,9 +74,9 @@ updated: 2026-09-28
 
 - **邮箱**：pedidos@ditecal.es
   - 状态：既有/公开
-- **电话**：+34 953 004 850
+- **电话**：+34 953 004 850、2026-10-06
 - 来源等级：official-company（R41–R48 联系方式台账口径）
-- **原始联系字段**：+34 953 004 850 / pedidos@ditecal.es
+- **原始联系字段**：+34 953 004 850 / pedidos@ditecal.es【已停用:2026-10-06 退信 not-found 发不过去】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -235,17 +235,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Productos Mikrotik · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Productos%20Mikrotik%20DITECAL%20S.L)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);档案信号: 在卖中国品牌 Huawei → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R63 退信批(2026-10-06)
-
-- **退信实测(2026-10-06)**:`pedidos@ditecal.es` Gmail **永久失败**(not-found);不删邮箱只标「发不过去」+找替代;替代:官网 ditecal.es 表单;+34

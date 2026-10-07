@@ -1,6 +1,6 @@
 # Christopher Fikes
 
-> **评级 A**　|　美国 · Silsbee, TX　|　档案编号 `A-311`　|　优先级 ★★★　|　状态：02-已双向对话（2 轮）
+> **评级 A**　|　美国 · Silsbee, TX　|　档案编号 `A-311`　|　优先级 ★★★　|　状态：02-已双向对话(2 轮)
 >
 > **触达状态（Stage）**：02-replied　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
@@ -25,7 +25,7 @@ updated: 2026-10-04
 - **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），三星重点
-- **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句；—（合作探询，无量产报价）
+- **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
 - **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
@@ -74,7 +74,7 @@ updated: 2026-10-04
 ## 联系方式（已有/猜测分标）
 
 - **邮箱**：sales@fikesmedia.com
-  - 状态：既有/公开
+  - 状态：02-已双向对话(2 轮)
 - **电话**：+1 409.877.4220
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@fikesmedia.com（官网联系页Sales；支持support@fikesmedia.com）；+1 409.877.4220（销售Option 1/支持Option 2）
@@ -86,7 +86,7 @@ updated: 2026-10-04
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
 ### 第 1 次跟进 · 声明边界+商业段接入层评估位
 
@@ -170,11 +170,11 @@ updated: 2026-10-04
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | OEM/白牌合作探询（无量产型号首推） | 主场景 | —（合作探询，无量产报价） | Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句 |
+| **P1（首触唯一）** | STC-424XGGPM-280W（24口 PoE + 4×10G） | 主场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句 |
 | 备选2 | STC-28DGGPM（8口 PoE 接入盒） | 升级/延展场景 | $99 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STC-424XGGPM-280W（24口 PoE + 4×10G） | 升级/延展场景 | $180 USD EXW（2026-09-28 快照，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 
-- **P1 规格一句话**：OEM/白牌合作：中性包装、贴客户型号、ODM 规格，MOQ 与认证另谈
+- **P1 规格一句话**：24口 GE PoE af/at 280W + 4×10G SFP+，L2+ 全特性含 Voice VLAN，PoE 看门狗
 - **口径纪律**：档案内如出现其他型号（历史段落），以本节 P1 为准；Saga 暂无对应规格的口子（商用 PoE bt 90W / 全万兆汇聚 / 8口商用 10G 上联）**不得**现编型号，按规则继续沿用旧对照并显式标注。
 
 ## SWOT
@@ -245,65 +245,15 @@ Saga Telecom - PoE switch OEM/ODM
 
 | 日期 | 渠道（邮件/电话/LinkedIn/展会） | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
 |---|---|---|---|---|---|---|
-| 2026-10-04 01:40 | 邮件(Gmail) | sales@fikesmedia.com(官网联系页 Sales) | 发出 STC-424XGGPM-280W 开发信(Marvell AC5 L2+,24 口 PoE af/at+10G 上联,$180 USD/PC EXW,样品问句) | — | 等回复 | 2026-10-04 |
-| 2026-10-04 01:52 | 邮件(Gmail) | Christopher Fikes(Owner,cfikes@fikesmedia.com 亲回,Cc:sales@) | — | **12 分钟即回**:「This actually does have my interest.」问 3 点:①Customisation 层级 ②API availability for controller integration ③规格书+型号表 | 当日晚回信带 5 附件 | 2026-10-04 |
-| 2026-10-04 21:44 | 邮件(Gmail) | cfikes@ + Cc:sales@ | 回信(5 附件:STC-424XGGPM-280W Datasheet/Feature List L2+/CLI Manual/Web Manual/MIBs):定制项清单(logo/包装/PVC mask/label/型号名/SN/manual/默认登录 IP/SNMP OID/Web 语言 10 项成熟 + 固件定制 subject to technical evaluation);**API 不答有无**,反问 controller 架构(REST/SNMP/SSH/CLI/NETCONF/其他);顺引「It's about function, not vendors」表共鸣;追问用途=consulting lab/customer deployments/private-label OEM | — | 等客户回 controller 架构→再问 SmartByte 技术(假期中勿乱答) | 2026-10-08(无回则轻推) |
+|  |  |  |  |  |  |  |
+
+> 首次触达前留空；发出邮件后填入日期与渠道。有新进展时告诉我，我来更新本档案并重评 stage。
 
 ## 下次复核
 
-- **2026-10-08**:等 Christopher 回 controller 架构细节(REST/SNMP/SSH/CLI/NETCONF 哪种 + 现用平台);到手后**把客户原话转 SmartByte 技术评估**(严禁我方先猜测 API 能力答客户)
-- 样品/报价节奏:客户已带兴趣,**不要先提免费样品**;等他答用途(lab/deployment/OEM)再定样品策略(Partner price / evaluation unit)
+- 固定节点：首触发出后 **14 天**无回复 → 复核是否降频/降级；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：全部价格为 USD EXW 快照（2026-09-28，15 天有效）；过窗先核价再报价。
 
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R62 邮件事件与深挖补档（2026-10-04 · 客户 12 分钟自回 · Owner 亲署)
-
-#### 邮件时间轴(Gmail PDF 源:main 仓库 Gmail - 24 Port PoE Managed Switch_A-311.pdf)
-
-1. **2026-10-04 01:40** 我方 → sales@fikesmedia.com:开发信(Marvell AC5,STC-424XGGPM-280W $180 USD/PC,OEM/customizable Web GUI,样品问句)
-2. **2026-10-04 01:52** Christopher Fikes(Owner,cfikes@fikesmedia.com; O: +1 409.877.4220)亲回,"This actually does have my interest":
-   - What levels of **customization** are offered?
-   - **API availability for controller integration**(真兴趣点!)
-   - specification sheets and models available
-3. **2026-10-04 21:44** 我方回信（5 附件:datasheet/Feature List L2+/MIBs/CLI Manual/Web Manual):10 项成熟定制+固件定制 subject to technical evaluation;API **未答有无**,反问 controller architecture(列 REST/SNMP/SSH-auto/NETCONF/其他 5 项);顺引其官网哲学「It's about function, not vendors」作共鸣;问用途三分叉(consulting lab/customer deployments/private-label OEM)
-
-#### GPT 协商结论(用户与 ChatGPT 外脑,2026-10-04 讨论 2 轮,归档摘要)
-
-- **这是一个 A 类回复**:问技术不问价格/MOQ/交期 → 已进入技术评估(Technical Evaluation)阶段
-- **API 之问的真谛**:多数顾问说 API 其实是 SNMP/SSH/CLI script,不一定是 REST——**先拿需求再找 SmartByte 技术**,不许乱答(乱答被技术否认→丢信任)
-- **最后一问(用途)必须保留**:lab/deployment/OEM 三个答案对应三种后续策略
-- **假期风控**:SmartByte 技术在放假,客户先多提供信息我们再跟进,避免技术反问「客户到底指什么」
-
-#### 客户画像新增事实(自签名+邮件行为)
-
-- Christopher Fikes = **Owner**(业主/老板)— 决策链「中(两人以内)」升级为「**直接=Owner 一人**」
-- 亲回而非交助理,且 **12 分钟响应** → 当天在线且邮件习惯重,后续回复窗口可以快
-- 电话签名 **O: 409.877.4220** 即 CSV 045 区号(德州 Beaumont/Port Arthur 一带,Silsbee 同乡)— 独家 owner-operated consultancy
-- 「It's about function, not vendors」铭言 → 我方品牌叙事应锚「工程优先/长期供货/不吹 spec」而非 logo/基因,与 Saga 「Engineering & Supply-Chain-First Telecom Partner」slogan 相接
-
-#### 销售判断
-
-- 此户是 **Consultant+Trainer 型 OEM 种子**:短单在 lab/样机,长单在 OEM 白牌(SNMP OID/型号名可改全部供得上)+客户项目 OEM 代发货
-- **controller integration 是可能的分水岭**:若 SmartByte 能回「SNMP-based + SSH/CLI automation 已具备 + REST API roadmap 可谈」→ 可上 OEM 深谈;若只 Web GUI → 退到培训/lab 机位
-- **下一步脚本**(待客户回 controller info):①原话转英文送 SmartByte 技术;②技术回覆转英文回客户;③如客户答 OEM/private-label → 主动寄 OEM 样品 quote($180/partner price 同 Iyiola 轨)
-
-#### Partner Type(GPT 建议新增分类体系,本户判定)
-
-- ☑ Technical Partner(认证顾问+培训)
-- ☑ Solution Partner(controller integration 对号入座)
-- □ Brand Partner / □ Price Buyer / □ Trader / ☑ OEM Customer(若答 private-label 即勾)
-
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Christopher Fikes · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Christopher%20Fikes)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

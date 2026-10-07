@@ -71,8 +71,8 @@ updated: 2026-09-28
 
 - **邮箱**：fredrik.brunzell@direktronik.se
   - 状态：既有/公开
-- **电话**：+46 8 52 400 700
-- **原始联系字段**：Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）；Stefan Sandstrom - steffo@direktronik.se(发不过去·2026-09-29 退信:blocked 服务器拒收)；总机 +46 8 52 400 700
+- **电话**：+46 8 52 400 700、2026-09-29
+- **原始联系字段**：Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；总机 +46 8 52 400 700；Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
@@ -260,14 +260,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
-> 找新邮箱方法(R60 用户授权留存):① 官网 contact/about 页重扫;② Hunter.io 扫域名公开邮箱;③ 领英私信 KP(本档 R60 区块有直达链);④ 按 firstname.lastname@域名 格式推断并用 verify 工具核;⑤ 总机电话转 KP 直线
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Fredrik Brunzell · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Fredrik%20Brunzell%20Direktronik%20AB)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 高(PTS 2020 全面禁华为 5G;政治偏冷);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:待定(档案无芯片信号,首开先问品牌谱)
-- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

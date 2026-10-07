@@ -34,11 +34,11 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Ron Touw MikroTik Training UK（CSV 原样；登记名以调研为准） | 事实 |
+| 名称 | Ron Touw / MikroTik Training UK（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 英国 / Whitstable | 事实 |
 | 网站 | mikrotiktraining.co.uk | 事实 |
-| 类型 | UK 首位 Certified Trainer 2009,全部 10 证,顾问培训师 | 事实（CSV 名录口径） |
-| 关键人 | Ron Touw MikroTik Training UK | 事实 |
+| 类型 | 集成商/顾问（MikroTik 认证） | 事实（CSV 名录口径） |
+| 关键人 | Ron Touw | 事实 |
 | 反向信号（资质/品牌） | MikroTik 认证顾问 10 证全拿 | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | UK 首位 Certified Trainer 2009,全部 10 证,顾问培训师 | 【推断】 |
@@ -66,13 +66,13 @@ updated: 2026-10-06
 
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+44 1227 314316 
+- **电话**：+44 1227 314316
 - **原始联系字段**：+44 1227 314316 / training@hoka.co.uk
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Ron Touw MikroTik Training UK**（本人直达；角色=业主/顾问本人，依据名录）
+- **Ron Touw**（本人直达；角色=业主/顾问本人，依据名录）
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -153,7 +153,7 @@ updated: 2026-10-06
 ```text
 Hi Ron,
 
-I came across Ron Touw MikroTik Training UK - UK 首位 Certified Trainer 2009,全部 10 证,顾问培训师.
+I came across MikroTik Training UK - 集成商/顾问（MikroTik 认证）.
 
 We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
 
@@ -183,99 +183,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Ron Touw - MikroTik Training UK(Whitstable Kent;mikrotiktraining.co.uk;**10 证全拿+官方讲师**;专长:无线勘测与设计、固定网络基础设施、BGP/MPLS/VPLS/OSPF、流量管理;training@hoka.co.uk(hoka.co.uk 同族域))
-- 【推断】英国双十证讲师之二(与 B-401 同级);MPLS/VPLS 专长=carrier 级课堂;hoka.co.uk 为其咨询侧主体
-- 【假设】开口角度=「十证讲师的课桌对照教具样本位」(同 B-401 模板)
-
-**SWOT 速描**
-- **S**: 十证全拿+MPLS 级专长+双域(培训+咨询)
-- **W**: 教具量小
-- **O**: 教具+咨询项目随单双线
-- **T**: 师者红线
-
-**证据（quote → 来源）**
-- 「10 证全拿 + 英国培训讲师;无线勘测与设计、固定网络基础设施设计、BGP/MPLS/VPLS/OSPF、流量管理」 — 客户名单_反向信号_2026-09.csv
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-28DGGPM` — 十证全拿官方讲师的对照教具样本位(英国双讲师之二)
-- 第一问: 你的 MPLS/无线课上,PoE 段对照教具现有没有位?
-- 标签: 英国|Whitstable|十证讲师|MPLS|教具样本
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Ron,
-
-Ten certifications, an official UK trainer seat, and a syllabus that runs from wireless site surveys to BGP, MPLS and VPLS - your bench works at carrier level.
-
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU for the PoE segment without any brand pressure.
-
-One question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?
-
-If useful, I can send one unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 课桌对照教具开放度
-2. hoka.co.uk 咨询侧项目谱
-
-**跟进建议（守档节奏）**
-- D+3 教具样本合作一页
-- D+14 training@hoka.co.uk 具名
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第7波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-422 → 新号 A-584,原 B 编号释放回池)
-
-**评级依据**：UK 首位 Certified Trainer 2009,全部 10 证(MTCNA~MTCEWE),CAPsMAN 课程作者被 MikroTik 采纳为官方 MTCEWE,Riga BootCamp 创始讲师,UK Gov 10100440 注册培训商
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"mikrotiktraining.co.uk": ["pmgi.touw.co.uk", "pmgi2.touw.co.uk"]}
-- **Ron Touw** — 本人=业主(UK 首位 MikroTik Trainer 2009)（源:https://mikrotiktraining.co.uk/）
-  - `ron@mikrotiktraining.co.uk`(first@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `ron.touw@mikrotiktraining.co.uk`(first.last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `r.touw@mikrotiktraining.co.uk`(f.last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `rontouw@mikrotiktraining.co.uk`(firstlast@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `rtouw@mikrotiktraining.co.uk`(flast@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `touw@mikrotiktraining.co.uk`(last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Ron Touw(本人=业主/UK 首位 Trainer)
-**通道**:ron@mikrotiktraining.co.uk(候选系;官网在线 shop 备份)
-
-**主题**:For the lab at Britain first MikroTik trainer
-
-```text
-Hi Ron,
-
-UK's first certified trainer, ten certifications, author of the course that became MTCEWE - more MikroTik engineers carry your habits than anyone in the country.
-
-We make documented PoE switches (24-port PoE+ 280W, 4x10G uplinks, ERPS; 8-port compact), neutral packing, white-label friendly. For training labs, a second-vendor switch is the cleanest way to show CLI differences on identical L2+ tasks. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: which PoE hardware do your London lab sessions run today - and would one evaluation unit be welcome on the bench?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

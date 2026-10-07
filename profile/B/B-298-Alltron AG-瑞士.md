@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fa…
+- **是谁**：Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltr…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Ce | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltron + Executive Director of Alltron AG(2021-02 前 Alltron CEO)+主席谱位**;St | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner)
+- 【事实】Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发
 - 【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
 - 【假设】开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
 
@@ -80,7 +80,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Andrej Golob | CSO Brack.Alltron/Executive Director Alltron AG | 经 alltron.ch / brackalltron.ch | brackalltron.ch 组织页自曝+moneyhouse 管理位 | https://brackalltron.ch/%C3%BCber-uns/organisation |
+| Stefan Fraude | CEO Brack.Alltron | 同上 | 同源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner)
+- **背景深描**：Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltron + Executive Director of Alltron AG(2021-02 前 Alltron CEO)+主席谱位**;Stefan Fraude = CEO Brack.Alltron;Markus Mahler Verwaltungsrat 董事（2008 创；曾 Brack+Alltron CEO)；谱型=瑞士 IT/消费电 280,000+ SKU 批发；Fachhandel/Integrators/Installateurs 航道
 - **芯片与在用型号**：【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
-- **关键人KP**：—
+- **关键人KP**：Andrej Golob = Chief Sales Officer Brack.Alltron+Executive Director Alltron AG;Stefan Fraude = CEO Brack.Alltron
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 / O:监控随单 value PoE 档(+教具影子) / T:Broadliner 谱内挤
 - **Saga产品适配**：瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)
@@ -127,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil
   > Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil
   > 来源：https://www.it-markt.ch/news/2020-09-21/
+- **【R65 集团联动】**Alltron AG Mägenwil · Competec Group 属 · 280K SKU 批发 · Golob CSO/Executive Director · Fraude CEO · Mahler 董事
+  > Februar 2021 war ich CEO der Alltron AG … seit September 2024 Chief Sales Officer von Brack.Alltron und Executive Director der Alltron AG … Markus Mahler … seit 2008 Teil von Brack.Alltron
+  > 来源：https://brackalltron.ch/%C3%BCber-uns/organisation
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +164,7 @@ S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

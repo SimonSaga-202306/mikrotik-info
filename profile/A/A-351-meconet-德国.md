@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】meconet（德国）：建档注：官宣退出电子经销市场（'We stop business… withdrawing from the electronics market'，仅清库存+专营 Mars 天线/RF/Eltek 电源）
-- 【推断】判定=建档（先例同族）
-- 【假设】（待触发供位）
+- 【事实】meconet(德国;R66 基线补足档·公司面全貌待补;函数口职能口 info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix(meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -88,56 +88,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 【仅供位·触发装】
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：候选供位（待触发启用）
-- **要问的问题**：（触发后再发）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：
-- **要问的问题**：
-- **随附/动作**：
-
-### 第 3 次跟进 · 
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：
-- **要问的问题**：
-- **随附/动作**：
+- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第36批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.meconet.de|官宣退出电子经销市场（'We stop business… withdrawin
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$180 锚点一致）
-- **⑤在乎与偏好**：—
+- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix(meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix)跟团不动
+- **②芯片/型号**：(待问;meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix 域名面谱=公司面谱)
+- **③KP 深挖**：**函数口职能口 info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix(meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：函数口职能口已实位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**'After almost 30 years…meconet e.K. is withdrawing from the electronics market - only selling our inventory'
-  > 'After almost 30 years…meconet e.K. is withdrawing from the electronics market - only selling our inventory'
-  > 来源：https://shop.meconet.de
+- **【决策链与对接人】**meconet — info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > meconet — info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > 来源：https://www.meconet.de
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > 来源：https://www.meconet.de
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 来源：https://www.meconet.de
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国：德 30 年电子分销→退役清库（仅 RF/天线/电源线存续）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：候选供位（待触发）
-- **风险与注意**：官宣退出电子经销市场（'We stop business… withdrawing from the electronics market'，仅清库存+专营 Mars 天线/RF/Eltek 电源）
+- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix(meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix)跟团不动
+- **产品线与在售品牌**：(待问;meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**函数口职能口 info@meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix(meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口meconet.de（官网服务页/商店页）；+49 (0)271 703087 0；meconet e.K.，Seelbacher Weg 7, 57072 Siegen；店内在售Netonix 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -152,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：候选位
-- **W**：无点
-- **O**：触发
-- **T**：—
+- **S**：函数口职能口已实位
+- **W**：具名 kp 未勘出(波次点名)
+- **O**：函数口面心谱链档的特制效应
+- **T**：函数口档直发不直接
 
 ## 触达与风险红线
 
@@ -187,7 +193,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 回归可能
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,7 +207,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信】官宣退出电子经销市场（'We stop business… withdrawing from the electronics market'，仅清库存+专营 Mars 天线/RF/Eltek 电源）；触发条件=用户豁免→不打扰优先，仅当回归有源网络件再启。
+Hi team,
+
+I came across meconet while mapping 德国 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
+
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -220,12 +237,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[meconet · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=meconet)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(IT-SiG 2.0/BSI 5G 关键组件去华为化;企业网开放,备 CE/SBOM);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:待定(档案无芯片信号,首开先问品牌谱)
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

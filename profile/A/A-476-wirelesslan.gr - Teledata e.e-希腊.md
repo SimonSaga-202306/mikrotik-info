@@ -17,7 +17,7 @@ needs: {poe: true, industrial: true, tenG: false, l2plus: true, voice: false, oe
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-04
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -70,11 +70,11 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：info@wirelesslan.gr【已停用:2026-10-04 退信 not-found 发不过去】
-  - 状态：既有/公开
-- **电话**：+30 2310 510030
+- **邮箱**：info@wirelesslan.gr【已停用:2026-10-04 退信 not-found】
+  - 状态：R62-退信-not-found
+- **电话**：+30 2310 510030、2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
-- **原始联系字段**：+30 2310 510030 / info@wirelesslan.gr
+- **原始联系字段**：+30 2310 510030 / info@wirelesslan.gr【已停用:2026-10-04 退信 not-found 发不过去】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -223,18 +223,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Best Seller · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Best%20Seller%20wirelesslan.gr%20-%20Teledata%20e.e)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 低(政治摇摆、Cosco 比港;华为存量大);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R62 退信补档(2026-10-04)
-
-- **退信实测(2026-10-04)**:`info@wirelesslan.gr` Gmail 退回(**not-found**);永久不可投递。规则:不删邮箱、只标「发不过去」+找替代路径;不主动群发重投该地址
-- **替代路径建议**:官网 wirelesslan.gr 表单;+30 2310 510030

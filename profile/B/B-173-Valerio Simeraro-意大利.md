@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在…
+- **是谁**：Valerio Simeraro(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由）…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — ISP 在职高证顾问备养:具名通道+雇主 FTTH 场景长线观察(决策不在他)；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator** | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Valerio Simeraro(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com)
+- 【事实】Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com) | R65 深挖:意大利谱；R65 搜索无果；R65 守档准由
 - 【推断】在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人
 - 【假设】守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -104,9 +104,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com)
+- **背景深描**：Valerio Simeraro(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由）
 - **芯片与在用型号**：【推断】在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人
 - **关键人KP**：—
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E 
@@ -121,6 +121,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E
   > CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 查询注】**2026-10-07 搜索/同名核验：意大利谱；R65 搜索无果
+  > (R65 同名实体验证日志）
+  > 来源：(R65 核验日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

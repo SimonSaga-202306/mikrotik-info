@@ -226,12 +226,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Pixel Network LLC · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Pixel%20Network%20LLC)(无具名 KP 信号,先搜公司再加人;待查)
-- **中国进口与管制**:国别档位 低(亲华倾向强;华为巴尔干枢纽);档案信号: 在卖中国品牌 Dahua → 对中国产线接受度已被事实验证;战术: 可正面谈中国产能/成本优势
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达)…
+- **是谁**：HP Networks / High Performance Networks Limited(2 Lislasly Road, Dungannon BT71 6TA(UK RIPE 索引)/Belfast Innova…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 北爱集成顾问备养:具名通道,项目信号再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | HP Networks / High Performance Networks Limited(2 Lislasly Road, Dungannon BT71 6TA(UK RIPE 索引)/Belfast Innovation Factory+ Dublin,2015-10 创；**Paul Hagan = Managing Director(MD 创始人 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达)
+- 【事实】Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达) | R65 深挖:Belfast 实体 RIPE 拨名）;Paul Hagan 公式 MD/CSV B-400 Adam Reid 或为销售人员
 - 【推断】北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策
 - 【假设】守档备养:具名技术对话,等其项目谱 PoE 信号;北爱物流(英本土隔海)订单需议
 
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Adam Reid | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Paul Hagan | Managing Director(创始人） | p.hagan@hpnetworks.net / +44 28 9053 8411(00442890 → proper intl) | hpnetworks.net about + ripe.net member index 双源 | https://www.ripe.net/membership/indices/data/uk.hpnetworks.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -106,11 +106,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达)
+- **背景深描**：HP Networks / High Performance Networks Limited(2 Lislasly Road, Dungannon BT71 6TA(UK RIPE 索引)/Belfast Innovation Factory+ Dublin,2015-10 创；**Paul Hagan = Managing Director(MD 创始人本人,p.hagan@hpnetworks.net 公式行)**;谱型=英/爱 Creative Managed Communications + Creative Carrier 络
 - **芯片与在用型号**：【推断】北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Paul Hagan = MD & 创始人(p.hagan@hpnetworks.net RIPE 会员名录自曝）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:具名直达+实体座机 / W:公开谱薄 / O:北爱 SME 项目随单 / T:失联/量小
 - **Saga产品适配**：北爱集成顾问备养:具名通道,项目信号再激活
@@ -120,6 +120,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE;Adam@hpnetworks.net
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE;Adam@hpnetworks.net
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 实体/谱位】**HP Networks 2015 创 Belfast/Dublin 双办 / RIPE 正式名录 / MD Paul Hagan p.hagan@ 公式
+  > HP Networks Ltd 2 Lislasly Road BT71 6TA Dungannon UNITED KINGDOM … phone: +442890538411 e-mail: p (dot) hagan (at) hpnetworks (dot) net … High Performance Networks formed October 2015 by MD Paul Hagan
+  > 来源：https://www.hpnetworks.net/about
 
 ## 产品决策（Saga · 单一决策口径）
 

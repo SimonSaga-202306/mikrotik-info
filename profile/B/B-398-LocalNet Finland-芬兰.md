@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在)…
+- **是谁**：LocalNet Finland / Local Loop Oy(Espoo;20+ 年互联运营商——**Leo Koivulehto = toimitusjohtaja & Founder（创始人/CEO)**;谱型=…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 芬兰 Master 的 value PoE 档试探(先验架深与活跃度)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | LocalNet Finland / Local Loop Oy(Espoo;20+ 年互联运营商——**Leo Koivulehto = toimitusjohtaja & Founder（创始人/CEO)**;谱型=芬兰全国企业/住宅光纤谱（valokuitu），2025-01 营收近 €2M/2026-01 预算 €3M+；小职业增长潜力口；Motto | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在)
+- 【事实】LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在) | R65 深挖:芬兰 20+年 ISP;Koivulehto Founder/CEO 实体
 - 【推断】芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型
 - 【假设】开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深
 
@@ -79,7 +79,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Leo Koivulehto | Toimitusjohtaja & Founder | 0400 555 011 / linkedin.com/in/leokoivulehto | tyopaikkailmoitukset.fi + LinkedIn + X 三源 | https://tyopaikkailmoitukset.fi/tekninen-asiakaspalvelija-localnet-finland-tyopaikat/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第22批.json`；价格均为 EXW 快照。
 
-- **背景深描**：LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在)
+- **背景深描**：LocalNet Finland / Local Loop Oy(Espoo;20+ 年互联运营商——**Leo Koivulehto = toimitusjohtaja & Founder（创始人/CEO)**;谱型=芬兰全国企业/住宅光纤谱（valokuitu），2025-01 营收近 €2M/2026-01 预算 €3M+；小职业增长潜力口；Mottomme timanttista asiakaspalvelua(「超值减价谱」)
 - **芯片与在用型号**：【推断】芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型
-- **关键人KP**：—
+- **关键人KP**：Leo Koivulehto = Founder & Toimitusjohtaja
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:Master 级位 / W:足迹薄,谱未摸 / O:value PoE 档 / T:谱重叠 MikroTik 自家交换
 - **Saga产品适配**：芬兰 Master 的 value PoE 档试探(先验架深与活跃度)
@@ -123,6 +125,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 官方分销 Master;Espoo;myynti@localnet.fi
   > CSV:MikroTik 官方分销 Master;Espoo;myynti@localnet.fi
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 谱/实名】**LocalNet Finland(Local Loop Oy)Espoo 20+ 年 ISP;Leo Koivulehto Founder CEO;€2M-3M 量级光纤谱
+  > LocalNet Finland (virallisesti Local Loop Oy) on jo yli 20 vuotta vanha internetoperaattori … Lisätietoja antaa toimitusjohtaja Leo Koivulehto … Vuoden 2025 liikevaihto lähenee 2 miljoonaa euroa
+  > 来源：https://tyopaikkailmoitukset.fi/tekninen-asiakaspalvelija-localnet-finland-tyopaikat/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +159,7 @@ S:Master 级位 / W:足迹薄,谱未摸 / O:value PoE 档 / T:谱重叠 MikroTik
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

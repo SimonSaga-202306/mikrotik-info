@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持)…
+- **是谁**：ZL Media d.o.o.(Osijek, Croatia;**B-051 Dejan Liović 实体映射核正**;**Dejan Liović = MikroTik 官方认证教练(licencirani Mik…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 认证顾问备养:活跃验证后按顾问价值模板激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ZL Media d.o.o.(Osijek, Croatia;**B-051 Dejan Liović 实体映射核正**;**Dejan Liović = MikroTik 官方认证教练(licencirani MikroTik predavač,MTCNA/MTCWE 课程讲师,ZL Media 自主)**;2013-2019 多次 Samobor/Os | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持)
+- 【事实】Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持) | R65 深挖:克罗地亚认证教练 实体ZL Media=克 MikroTik 培训谱!
 - 【推断】克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点
 - 【假设】开口角度=「顾问工具箱价值档」:先验活跃,项目谱摸清后按顾问模板激活
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dejan Liović | MikroTik 官方认证教练(ZL Media) | 经 zlmedia.hr | zlmedia.hr + smbwireless.hr 双毂自曝 | http://www.zlmedia.hr/en/first-mtcwe-mikrotik-training-held-in-osijek-croatia/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -103,11 +105,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持)
+- **背景深描**：ZL Media d.o.o.(Osijek, Croatia;**B-051 Dejan Liović 实体映射核正**;**Dejan Liović = MikroTik 官方认证教练(licencirani MikroTik predavač,MTCNA/MTCWE 课程讲师,ZL Media 自主)**;2013-2019 多次 Samobor/Osijek MTCNA/MTCWE 课程实绩;谱型=克国网络解决方案 + MikroTik 培训双谱
 - **芯片与在用型号**：【推断】克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点
-- **关键人KP**：—
+- **关键人KP**：Dejan Liović = licencirani MikroTik predavač(官方教练,ZL Media 谱位)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE 
 - **优缺点SWOT**：S:三证顾问含无线向 / W:个人体量小 / O:无线项目谱 PoE 随单 / T:点名率低
 - **Saga产品适配**：认证顾问备养:活跃验证后按顾问价值模板激活
@@ -117,6 +119,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;项目规划与实施、基础与高级配置、现场与远程支持
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;项目规划与实施、基础与高级配置、现场与远程支持
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 核正/谱位】**Dejan Liović(ZL Media Osijek)= MikroTik 认证教练 MTCNA/MTCWE 双课讲师;2015 Samobor MTCNA;2019 Osijek MTCWE 首课
+  > Lectures were led by a certified MikroTik trainer – Dejan Liovic … official MikroTik Training Partner … putem kojih je angažiran licencirani Mikrotik predavač Dejan Liović
+  > 来源：http://www.zlmedia.hr/en/first-mtcwe-mikrotik-training-held-in-osijek-croatia/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +153,7 @@ S:三证顾问含无线向 / W:个人体量小 / O:无线项目谱 PoE 随单 / 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

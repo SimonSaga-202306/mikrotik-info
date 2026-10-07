@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等…
+- **是谁**：GPE Networks B.V.(KvK 99477238,Wateringweg 133, 2031EG Haarlem;**Maurice van der Grijspaarde = Contact persoon…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | GPE Networks B.V.(KvK 99477238,Wateringweg 133, 2031EG Haarlem;**Maurice van der Grijspaarde = Contact persoon/业主(stagemarkt 自曝+实体名)——GPE Holding B.V. Algemeen bestuurder 2026 谱位** | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**)
+- 【事实】Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**) | R65 深挖:Grijspaarde 实体谱位置=业主讳;info@ 官方自曝
 - 【推断】十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面
 - 【假设】守档备养:不重复投入,深挖引用 A-260 已建档事实;合并与否待用户裁决,出信也走 A 面管理
 
@@ -83,7 +83,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Maurice van der Grijspaarde | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Maurice van der Grijspaarde | Contact persoon（实体业主口径） | info@gpe-networks.com | stagemarkt + detelefoongids 双自曝 | https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -99,11 +99,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**)
+- **背景深描**：GPE Networks B.V.(KvK 99477238,Wateringweg 133, 2031EG Haarlem;**Maurice van der Grijspaarde = Contact persoon/业主(stagemarkt 自曝+实体名)——GPE Holding B.V. Algemeen bestuurder 2026 谱位**;谱型=电脑咨询+IT 设备批发+电脑设施运维 (SBI 62200/46500/62900)
 - **芯片与在用型号**：【推断】十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Maurice van der Grijspaarde = Contactpersoon/KvK 实体业主位
 - **关注点与资质**：MikroTik 认证顾问 10 证全拿 | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:十证全拿+SMB MSP 实体+复杂方案专长 / W:双档未定 / O:(A 面在管的)SMB 网络管理换代随单 / T:重复触达风险
 - **Saga产品适配**：与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并
@@ -116,6 +116,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**GPE Networks(荷兰 SMB 一站式 MSP):系统管理/网络管理/云/备份/咨询/网站托管六线;评论墙实锤 MikroTik 路由排障修配案件(Maurice 具名)
   > GPE Networks(荷兰 SMB 一站式 MSP):系统管理/网络管理/云/备份/咨询/网站托管六线;评论墙实锤 MikroTik 路由排障修配案件(Maurice 具名)
   > 来源：profile/A/A-260-Maurice
+- **【R65 实名+登记位】**GPE Networks B.V. KvK 99477238 · Haarlem Wateringweg 133 · Maurice van der Grijspaarde· GPE Holding 2026 管理口径
+  > Contact persoon: Maurice van der Grijspaarde … GPE Networks B.V. Wateringweg 133 2031EG Haarlem … GPE Holding B.V., Algemeen bestuurder Van 2026
+  > 来源：https://companyinfo.nl/organisatieprofiel/activiteiten-op-het-gebied-van-computerconsultancy-en-beheer-van-computerfaciliteiten/gpe-networks-b-v-haarlem-99477238-000040775445
 
 ## 产品决策（Saga · 单一决策口径）
 

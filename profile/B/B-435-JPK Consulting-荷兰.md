@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：JPK Consulting(Zwolle Fluessen 72;**注意与 JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人)非同一家,勿混**;官方类目=Gr…
+- **是谁**：JPK Consulting(荷兰；R65 搜索无果守档准由）…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 小微 WiFi 交付商备养:问清活跃度与 AP 谱后再定 activation；—（合作探询，无量产报价）
@@ -43,7 +43,7 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | JPK Consulting(Zwolle Fluessen 72;**注意与 JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人)非同一家,勿混**;官方类目=Groothandel in ICT-apparatuur(ICT 设备批发类);『Leveren en adviseren van wifi  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | JPK Consulting(荷兰；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】小微 WiFi 交付商:MikroTik Reseller 挂证身份重于实际货架;WiFi 项目里 AP 的 PoE 供电随单是其天然场景但量级小 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
@@ -102,9 +102,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：JPK Consulting(Zwolle Fluessen 72;**注意与 JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人)非同一家,勿混**;官方类目=Groothandel in ICT-apparatuur(ICT 设备批发类);『Leveren en adviseren van wifi netwerken』(WiFi 网络交付咨询);038-2340333/06-21849852;公开足迹薄,小微体量)
+- **背景深描**：JPK Consulting(荷兰；R65 搜索无果守档准由）
 - **芯片与在用型号**：【推断】小微 WiFi 交付商:MikroTik Reseller 挂证身份重于实际货架;WiFi 项目里 AP 的 PoE 供电随单是其天然场景但量级小
 - **关键人KP**：—
 - **关注点与资质**：MikroTik（Reseller） 
@@ -116,6 +116,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**JPK Consulting in Zwolle, Fluessen 72…Groothandel in ICT-apparatuur…Leveren en adviseren van wifi netwerken
   > JPK Consulting in Zwolle, Fluessen 72…Groothandel in ICT-apparatuur…Leveren en adviseren van wifi netwerken
   > 来源：https://www.telefoonboek.nl/bedrijven/t7798164/zwolle/jpk-consulting/
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：(沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 

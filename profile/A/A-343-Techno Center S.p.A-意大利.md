@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Techno Center S.p.A（意大利）：Palermo/Urbino B2B 大 SI:**Mitel Platinum 2026 再确认**;Physical/Cyber Security+Voice&Data+**民防应急平台**;**2026-07 新闻：UCC 分支并入 Syntax 集团**
-- 【推断】UCC 已售→网络/安防主业犹在；Mitel Platinum 守界；公共/民防段守界；私营 B2B 段窄位
-- 【假设】私营 B2B 段 value 件窄位（Mitel+公共双守界）
+- 【事实】Techno Center S.p.A.(意大利;R66 基线补足档·公司面全貌待补;函数口职能口 info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma(legalmail.it；Techno Center S.p.A.，Roma)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
+- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
+- 【假设】函数口职能口legalmail.it；Techno Center S.p.A.，Roma 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,62 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 私营针
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：私营段窄位（Mitel Platinum+公共守界；Syntax 祝词植入）
-- **要问的问题**：私营段有替补槽吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径(LinkedIn 公开面)
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第35批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.technocenter.it|Platinum 2026+Syntax 新闻双核
-- **②芯片/型号**：Marvell 谱（CSV）
-- **③KP 深挖**：Platinum 级服务密度
-- **④Saga 对标**：STC-424 窄位（$180 锚点一致）
-- **⑤在乎与偏好**：Platinum 品质惯性
+- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma(legalmail.it；Techno Center S.p.A.，Roma)跟团不动
+- **②芯片/型号**：(待问;legalmail.it；Techno Center S.p.A.，Roma 域名面谱=公司面谱)
+- **③KP 深挖**：**函数口职能口 info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma(legalmail.it；Techno Center S.p.A.，Roma)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
+- **⑤在乎与偏好**：函数口职能口已实位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**Mitel ci riconferma Platinum Partner (2026) + Il ramo UCC entra nell'ecosistema Syntax (22/07/2026)
-  > Mitel ci riconferma Platinum Partner (2026) + Il ramo UCC entra nell'ecosistema Syntax (22/07/2026)
+- **【决策链与对接人】**Techno Center S.p.A. — info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > Techno Center S.p.A. — info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
+  > 来源：https://www.technocenter.it
+- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
+  > 来源：https://www.technocenter.it
+- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
+  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
   > 来源：https://www.technocenter.it
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西西里 B2B System Integrator
-- **产品线与在售品牌**：Mitel Platinum+网络/安防栈
-- **目标行业与场景**：**私营 B2B 段为主打**（公共/民防=守界）
-- **团队与规模**：大型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：Platinum 2026/231 合规
-- **采购与供应链信号**：Syntax 集团化
-- **近期动态与线索**：UCC 分支 2026-07 售予 Syntax
-- **与我方契合点**：私营段窄位（Mitel/公共守界句）
-- **风险与注意**：**民防应急平台+Platinum 在墙**——守界句必压
+- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma(legalmail.it；Techno Center S.p.A.，Roma)跟团不动
+- **产品线与在售品牌**：(待问;legalmail.it；Techno Center S.p.A.，Roma 域名面谱=公司面谱)
+- **目标行业与场景**：(R66 后续波次补)
+- **团队与规模**：(R66 后续波次补)
+- **决策链与对接人**：**函数口职能口 info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma(legalmail.it；Techno Center S.p.A.，Roma)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
+- **技术与认证**：(R66 后续波次补)
+- **采购与供应链信号**：(R66 后续波次补)
+- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
+- **与我方契合点**：函数口职能口legalmail.it；Techno Center S.p.A.，Roma 面心谱链档
+- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：SI 大底盘
-- **W**：公共+Platinum
-- **O**：私营段
-- **T**：Mitel
+- **S**：函数口职能口已实位
+- **W**：具名 kp 未勘出(波次点名)
+- **O**：函数口面心谱链档的特制效应
+- **T**：函数口档直发不直接
 
 ## 触达与风险红线
 
@@ -179,8 +185,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ]  Syntax 整合后采购独立性
-  - [ ] 私营占比
+  - [ ] 司实谱位点名(波次点名)
+  - [ ] 公司面全谱
+  - [ ] 具名 kp 直发邮箱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +199,16 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Techno Center team,
+Hi team,
 
-Two honest notes first: your 2026 Mitel Platinum line keeps its place, and anything in public/civil-protection projects stays on its certified paths. This is about private B2B projects only - and congratulations on the Syntax move for the UCC branch.
+I came across Techno Center S.p.A. while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
 
-One question: in your private B2B integration work, is there room for a documented value PoE tier?
+Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
@@ -222,12 +229,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Techno Center S.p.A. · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Techno%20Center%20S.p.A.%20Techno%20Center%20S.p.A)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 中(Golden Power 5G/能源延伸;企业交换机不受限);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

@@ -34,11 +34,11 @@ updated: 2026-10-06
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Barry Higgins Allness IT（CSV 原样；登记名以调研为准） | 事实 |
+| 名称 | Barry Higgins / Allness（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 英国 / Kidderminster | 事实 |
 | 网站 | allness.net | 事实 |
-| 类型 | UK 独立 MikroTik Trainer since 2016,同 A-069/A-311 顾问型 | 事实（CSV 名录口径） |
-| 关键人 | Barry Higgins Allness IT | 事实 |
+| 类型 | 集成商/顾问（MikroTik 认证） | 事实（CSV 名录口径） |
+| 关键人 | Barry Higgins | 事实 |
 | 反向信号（资质/品牌） | MikroTik 认证顾问 10 证全拿 | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | UK 独立 MikroTik Trainer since 2016,同 A-069/A-311 顾问型 | 【推断】 |
@@ -66,13 +66,13 @@ updated: 2026-10-06
 
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
-- **电话**：+44 3333 403 303 
+- **电话**：+44 3333 403 303
 - **原始联系字段**：+44 3333 403 303 / barry@allness.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Barry Higgins Allness IT**（本人直达；角色=业主/顾问本人，依据名录）
+- **Barry Higgins**（本人直达；角色=业主/顾问本人，依据名录）
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -153,7 +153,7 @@ updated: 2026-10-06
 ```text
 Hi Barry,
 
-I came across Barry Higgins Allness IT - UK 独立 MikroTik Trainer since 2016,同 A-069/A-311 顾问型.
+I came across Allness - 集成商/顾问（MikroTik 认证）.
 
 We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
 
@@ -183,106 +183,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Barry Higgins - Allness(Kidderminster;**MikroTik 认证顾问 10 证全拿+英国官方讲师**;专长:有线+无线设计、OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本;R49 复核:官网走 support.allness.net 工单制;官方培训中心名录另列 training@allness.it)
-- 【推断】英国 MikroTik 培训/顾问顶级证型(10 证全拿极少);工单制=流程化服务;其课程面对职业工程师谱
-- 【假设】开口角度=「十证讲师的课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 PoE 段对照教具(师者红线下最白开口)
-
-**SWOT 速描**
-- **S**: 十证全拿+官方讲师(英国顶级证型)
-- **W**: 教具量小
-- **O**: 教具样本+学员工程师谱长线
-- **T**: 师者红线
-
-**证据（quote → 来源）**
-- 「MikroTik 认证顾问 10 证全拿 + 英国 MikroTik 官方讲师;OSPF/IS-IS/iBGP/eBGP、RouterOS 脚本」 — 客户名单_反向信号_2026-09.csv
-- 「官网在线(工单制触达);官方培训中心名录另列 Barry Higgins/Kidderminster/training@allness.it」 — batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-401
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-28DGGPM` — 十证全拿官方讲师的对照教具样本位(英国双讲师之一)
-- 第一问: 你的课上有没有对照厂牌的 PoE 教具?STC-28DGGPM 这样的文档全 8 口小机当对照样本可评吗?
-- 标签: 英国|Kidderminster|十证讲师|教具样本
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Barry,
-
-Ten MikroTik certifications and an official trainer seat - one of the most qualified classrooms in the UK. Your students learn OSPF, BGP and scripting on real hardware; the PoE switching segment deserves the same documented rigor.
-
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
-
-One question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating via your ticket system?
-
-If useful, I can send one unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. 课桌对照教具开放度
-2. 工单制下商务询问入口
-
-**跟进建议（守档节奏）**
-- D+3 教具样本合作一页
-- D+14 training@allness.it+工单双口
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第7波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-401 → 新号 A-583,原 B 编号释放回池)
-
-**评级依据**：UK 独立 MikroTik Trainer since 2016,WISP 2009,MTCNA/MTCRE/MTCTCE/MTCINE/MTCEWE/MTCTrainer 10 证;同 A-069/A-311 顾问型
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"allness.net": ["mail.allness.net", "mx-backup.allness.net"], "allness.it": ["mail.allness.it", "mx-backup.allness.net"]}
-- **Barry Higgins** — Owner(UK 独立 MikroTik Trainer since 2016)（源:http://allness.it/?page=about）
-  - `barry@allness.net`(first@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `barry.higgins@allness.net`(first.last@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `b.higgins@allness.net`(f.last@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `barryhiggins@allness.net`(firstlast@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `bhiggins@allness.net`(flast@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `higgins@allness.net`(last@(allness.net);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `barry@allness.it`(first@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `barry.higgins@allness.it`(first.last@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `b.higgins@allness.it`(f.last@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `barryhiggins@allness.it`(firstlast@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `bhiggins@allness.it`(flast@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `higgins@allness.it`(last@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:Kidderminster;WISP 运营 2009 起
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Barry Higgins(本人=业主/Trainer)
-**通道**:barry@allness.net(候选系;官网表单备份)
-
-**主题**:A documented PoE switch for your training benches
-
-```text
-Hi Barry,
-
-Ten years running a WISP, training MTCNA through MTCEWE at Kidderminster - your students see whatever sits on your bench.
-
-We build engineering-grade PoE switches (24-port PoE+ 280W with 4x10G; 8-port 240W), fully documented, neutral packing. A comparison unit in switching labs shows trainees how different CLIs solve the same L2+ job. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: what switch do your students learn PoE budgets on today - and would one documented unit be worth bench space at Allness?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/stora…
+- **是谁**：FYR-SYSTEMS Sp. z o.o.(Warszawa ul. A. Felińskiego 46/2;NIP 5252863223, KRS 0000900908, REGON 388992660；股本 50K…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Sie | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | FYR-SYSTEMS Sp. z o.o.(Warszawa ul. A. Felińskiego 46/2;NIP 5252863223, KRS 0000900908, REGON 388992660；股本 50K zł;**Rafał Artur Siewicz = Prezes Zarządu（董事会主席，80/100 股=80%)+ Katarz | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】老牌生态人新创的精品集成商:主业企业级(IBM/Dell),MikroTik 是其中小企业/分支场景的边缘谱;Rafał 个人三段生态履历=懂渠道语言 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』
+- 【事实】FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』 | R65 深挖:Warszawa 集成商实体；Siewicz 家族结构
 - 【推断】老牌生态人新创的精品集成商:主业企业级(IBM/Dell),MikroTik 是其中小企业/分支场景的边缘谱;Rafał 个人三段生态履历=懂渠道语言
 - 【假设】开口角度=「集成商项目随单 PoE 位」:STC-424 做其 SME/分支网络项目的 24 口 value 随单件,具名 Rafał 开口
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Rafał Artur Siewicz | Prezes Zarządu | kontakt@fyr-systems.pl / +48 513 130 332 | aleo/KRS + 官网 o-nas 双源 | https://aleo.com/int/company/fyr-systems-spolka-z-ograniczona-odpowiedzialnoscia-warszawa |
+| Krzysztof Krawczyk | 对外面谱（Integrator/O NAS 页主导） | 同上 | fyr-systems.pl 官网自曝 | https://fyr-systems.pl/o-nas/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
 
-- **背景深描**：FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』
+- **背景深描**：FYR-SYSTEMS Sp. z o.o.(Warszawa ul. A. Felińskiego 46/2;NIP 5252863223, KRS 0000900908, REGON 388992660；股本 50K zł;**Rafał Artur Siewicz = Prezes Zarządu（董事会主席，80/100 股=80%)+ Katarzyna Anna Grochowska Siewicz 理事（20/100)**;谱型=IT 系统集成商；Krzysztof Krawczyk 公开面谱谱口（o-nas 页面）
 - **芯片与在用型号**：【推断】老牌生态人新创的精品集成商:主业企业级(IBM/Dell),MikroTik 是其中小企业/分支场景的边缘谱;Rafał 个人三段生态履历=懂渠道语言
-- **关键人KP**：—
+- **关键人KP**：Rafał Artur Siewicz = Prezes Zarządu(80%);Katarzyna Grochowska Siewicz 理事（20%);Krzysztof Krawczyk 公开 IP 面谱
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:三段生态创始人+Dell/IBM 谱+企业级 / W:2021 新创小体量 / O:SME 网络项目随单 PoE 位 / T:企业级客户对 value 件谨慎
 - **Saga产品适配**：企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)
@@ -125,6 +128,9 @@ updated: 2026-10-07
   > 来源：https://www.bizraport.pl/krs/0000900908/
 - **【R57备护深挖证据】**Rafał Siewicz: Przez ostatnie 18 lat zdobywałem cenne doświadczenie we wszystkich częściach ekosystemu, zarówno bezpośrednio u producenta, w
   > Rafał Siewicz: Przez ostatnie 18 lat zdobywałem cenne doświadczenie we wszystkich częściach ekosystemu, zarówno bezpośrednio u producenta, w dystrybucji i u integratora
+  > 来源：https://fyr-systems.pl/o-nas/
+- **【R65 商业登记】**FYR-SYSTEMS KRS 0000900908 · NIP 5252863223 · Warszawa Felińskiego 46/2 · R. Siewicz Prezes 80% · Krzysztof Krawczyk 官网自曝
+  > Rafał Artur Siewicz Prezes Zarządu … kontakt@fyr-systems.pl +48 513 130 332 … KRS: 0000900908 NIP: 5252863223
   > 来源：https://fyr-systems.pl/o-nas/
 
 ## 产品决策（Saga · 单一决策口径）
@@ -157,7 +163,7 @@ S:三段生态创始人+Dell/IBM 谱+企业级 / W:2021 新创小体量 / O:SME 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

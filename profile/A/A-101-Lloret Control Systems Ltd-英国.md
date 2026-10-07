@@ -72,10 +72,10 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：sales@lloret.co.uk(发不过去·2026-09-29 退信:blocked 服务器拒收)
+- **邮箱**：sales@lloret.co.uk
   - 状态：既有/公开
 - **电话**：—
-- **原始联系字段**：sales@lloret.co.uk（具名 Graham Budd（Commissioning Manager）graham.budd@lloret.co.uk。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口）
+- **原始联系字段**：Graham Budd（Commissioning Manager）- graham.budd@lloret.co.uk【主通道】；sales@lloret.co.uk【抄送】。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
@@ -264,14 +264,3 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
-> 找新邮箱方法(R60 用户授权留存):① 官网 contact/about 页重扫;② Hunter.io 扫域名公开邮箱;③ 领英私信 KP(本档 R60 区块有直达链);④ 按 firstname.lastname@域名 格式推断并用 verify 工具核;⑤ 总机电话转 KP 直线
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Commissioning Manager · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Commissioning%20Manager%20Lloret%20Control%20Systems%20Ltd)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)

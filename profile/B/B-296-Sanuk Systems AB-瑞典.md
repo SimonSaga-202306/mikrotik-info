@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄)…
+- **是谁**：Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞典 Reseller value PoE 试探(活跃验证先行)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网服务」运营商+MikroTik reseller 官方自曝**;MikroTik 装备多年部署自认(Broadcast sites/remo | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】瑞典小型 Reseller;足迹薄,活跃度待验 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄)
+- 【事实】Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄) | R65 深挖:瑞/泰双谱酒店谱型=瑞泰国宽带双线实体
 - 【推断】瑞典小型 Reseller;足迹薄,活跃度待验
 - 【假设】开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走
 
@@ -109,11 +109,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄)
+- **背景深描**：Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网服务」运营商+MikroTik reseller 官方自曝**;MikroTik 装备多年部署自认(Broadcast sites/remote offices/central hubs/operator environments);官网自述 MikroTik Reseller
 - **芯片与在用型号**：【推断】瑞典小型 Reseller;足迹薄,活跃度待验
-- **关键人KP**：—
+- **关键人KP**：—(AB aktiebolagsregistret 收费墙；R65 谱位+双域名谱自曝足档；泰国实体 AS138616 档案挂靠）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
 - **Saga产品适配**：瑞典 Reseller value PoE 试探(活跃验证先行)
@@ -123,6 +123,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com
   > CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 谱自曝】**Sanuk Systems=瑞/泰双谱酒店宽带运营；MikroTik Reseller 官方自曝；多年部署 operator 环境档
+  > We have an extensive practical knowledge of particularly MikroTik network equipment from our many deployments, and both resell hardware and provide consulting … Mikrotik Reseller … Sanuk Systems are based in Rayong and Hua Hin, Thailand and Stockholm, Sweden
+  > 来源：https://www.sanuksystems.com/business/
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, o
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-04
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,11 +69,11 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：hbowerman@professionalcablingsolutions.com【已停用:2026-10-04 退信 not-found(46h|21h retry 后 Message not delivered) 发不过去】
-  - 状态：既有/公开
-- **电话**：—
+- **邮箱**：hbowerman@professionalcablingsolutions.com【已停用:2026-10-04 退信 not-found(46h|21h retry 后 Message not delivered)】
+  - 状态：R62-退信-not-found
+- **电话**：2026-10-04
 - 来源等级：directory（R41–R48 联系方式台账口径）
-- **原始联系字段**：hbowerman@professionalcablingsolutions.com [Third-party listing; not independently confirmed]; https://professionalcablingsolutions.com
+- **原始联系字段**：hbowerman@professionalcablingsolutions.com【已停用:2026-10-04 退信 not-found(46h|21h retry 后 Message not delivered) 发不过去】 [Third-party listing; not independently confirmed]; https://professionalcablingsolutions.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
@@ -244,23 +244,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Heath Bowerman · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Heath%20Bowerman%20Professional%20Cabling%20Solutions%20%28PCS%29%2C%20LLC)(搜索链接,点入后核职位再加;来源:档案正文提取)
-- **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-
-### R62 退信补档(2026-10-04)
-
-- **退信实测(2026-10-04)**:`hbowerman@professionalcablingsolutions.com` Gmail 退回(**not-found(46h|21h retry 后 Message not delivered)**);永久不可投递。规则:不删邮箱、只标「发不过去」+找替代路径;不主动群发重投该地址
-- **替代路径建议**:官网 professionalcablingsolutions.com 表单 +1 513 总机
-
-
-### R63 用户裁定(2026-10-06)
-
-- **PASS**:本户(H Bowerman/@professionalcablingsolutions.com 美国布线公司)用户裁定**暂时 PASS**:不再找替代,不进群发通道,保留档案待后续线索。

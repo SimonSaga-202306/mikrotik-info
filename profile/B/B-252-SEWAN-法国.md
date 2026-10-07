@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络…
+- **是谁**：SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 Saa…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（ISP/骨干）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de G | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面
+- 【事实】SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面 | R65 深挖:SEWAN 法国 ETI 巨号;同代电信云族 75M€/自建 Sophia
 - 【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链
 - 【假设】开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de Goriaïnoff = PDG & 联合创始人**;Philippe Moutinho 同站 PDG 口径(疑子站/分公司)
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Alexis de Goriaïnoff | PDG et Cofondateur(集团 CEO/联合创始人) | 经 sewan.fr 联系页 | sewan.fr + business.lesechos.fr 双源 | https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
 
-- **背景深描**：SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面
+- **背景深描**：SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de Goriaïnoff = PDG & 联合创始人**;Philippe Moutinho 同站 PDG 口径(疑子站/分公司)
 - **芯片与在用型号**：【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链
-- **关键人KP**：—
+- **关键人KP**：Alexis de Goriaïnoff = PDG & Cofondateur(官网 + LesEchos/BFM 双源);Philippe Moutinho 同城站 PDG 位
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN 牌）渠道伙伴部署随单位 / T:运营型血易拐谱对我不熟
 - **Saga产品适配**：欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte
   > cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte
   > 来源：https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067
+- **【R65 体量+位】**Sewan 2007 创 · 4 创始人同人离职创办 · 300-1000 员工 · 75M€ 收 · Sophia 生态 · 西班牙已并入 · 德/意/荷在望
+  > Alexis de Goriaïnoff a créé Sewan en 2007 … 75 millions d’euros de chiffre d’affaires et emploie 300 personnes … Sophia … Nourrissant des ambitions européennes
+  > 来源：https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

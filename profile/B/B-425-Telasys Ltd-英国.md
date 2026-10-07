@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recove…
+- **是谁**：TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**L…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**Lee Gardner Bennett = Director(1987 生,2018-04 在任)+ Craig John Matthews- | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商
+- 【事实】Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商 | R65 深挖:Cardiff 电信 2016;Bennett+Matthews-Clark 双董事名位
 - 【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
 - 【假设】开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
 
@@ -80,7 +80,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Lee Gardner Bennett | Director | 经 telasys.co.uk | Companies House 09975808 实名 | https://find-and-update.company-information.service.gov.uk/company/09975808/officers |
+| Craig John Matthews-Clark | Director | 同上 | 同上+companycheck 双源 | 同上 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商
+- **背景深描**：TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**Lee Gardner Bennett = Director(1987 生,2018-04 在任)+ Craig John Matthews-Clark = Director(1988 生,2017-02 在任)**;61900 Other telecommunications activities;Bridgend 出/入口汇汇(295 出/55 入船)
 - **芯片与在用型号**：【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
-- **关键人KP**：—
+- **关键人KP**：Lee Gardner Bennett(1987 生,2018 在任)+ Craig John Matthews-Clark(1988 生,2017 在任)= 双 Director
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价带的全新 value 位(生命周期叙事) / T:翻新 Cisco 低价惯性
 - **Saga产品适配**：双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)
@@ -127,6 +130,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Telasys Ltd Reseller Cardiff info@telasys.com
   > Telasys Ltd Reseller Cardiff info@telasys.com
   > 来源：https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/
+- **【R65 商业登记】**Telasys Ltd 09975808 · 2016 创 · Cardiff/Bridgend · Lee Bennett+Craig Matthews-Clark 双董事 · 进出口汇 295/55 船
+  > BENNETT, Lee Gardner Role Active: Director Date of birth: July 1987 … MATTHEWS-CLARK, Craig John Role Active: Director
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/09975808/officers
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +164,7 @@ S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

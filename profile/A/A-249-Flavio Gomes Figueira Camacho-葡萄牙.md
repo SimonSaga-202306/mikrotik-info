@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: true, oem
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -245,18 +245,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Flavio Gomes Figueira Camacho](https://www.linkedin.com/in/flavio-camacho-aa966556)(既有证据链接,来源:档案/联络核验)
-- **中国进口与管制**:国别档位 低(务实;NOS/MEO 有华为量);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**结论**:MUM 课件自曝:flaviocamacho95@gmail.com / +55 21 96978-4675 / skype flaviocamacho95_1;**国别口径修正:巴西(非葡萄牙)**,TELECALL/Vipnet/COMTXAI 谱
-- **Flavio Camacho** — 本人:Trainer Oficial Mikrotik(Rio de Janeiro),MUM 2019BR 讲者,7 证含 MTCINE/MTCSE（源:https://mum.mikrotik.com/presentations/BR19/presentation_7025_1575286648.pdf）
-  - 邮箱:flaviocamacho95@gmail.com（official-self-published(MUM 课件自曝)）

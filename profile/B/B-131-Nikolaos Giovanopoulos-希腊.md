@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连…
+- **是谁**：Nikolaos Giovanopoulos(Edessa, Central Macedonia;ien.gr 无公开相关条;**LinkedIn 同名画像存在但职业=机械工程师/HSE Consultant(21 年 …
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 希腊个体顾问零足迹零位；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Nikolaos Giovanopoulos(Edessa, Central Macedonia;ien.gr 无公开相关条;**LinkedIn 同名画像存在但职业=机械工程师/HSE Consultant(21 年 Edessa)与 Mic 谱本体不完全同款**——同名人保不能保证,守档准由 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】雅典个体顾问零足迹 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连
+- 【事实】Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连 | R65 深挖:同名 HSE 保但不能证=守档准由
 - 【推断】雅典个体顾问零足迹
 - 【假设】守档:具名引见+mikrotik.com 顾问名录核证再定
 
@@ -96,11 +96,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连
+- **背景深描**：Nikolaos Giovanopoulos(Edessa, Central Macedonia;ien.gr 无公开相关条;**LinkedIn 同名画像存在但职业=机械工程师/HSE Consultant(21 年 Edessa)与 Mic 谱本体不完全同款**——同名人保不能保证,守档准由
 - **芯片与在用型号**：【推断】雅典个体顾问零足迹
-- **关键人KP**：—
+- **关键人KP**：—(同名 LinkedIn 机械工程师/HSE 或同谱,不保确;R65 守档准由)
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCSE 
 - **优缺点SWOT**：S:双证 / W:零足迹 / O:待定 / T:失联
 - **Saga产品适配**：希腊个体顾问零足迹零位
@@ -113,6 +113,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**官方顾问需 MTC*E 在续
   > 官方顾问需 MTC*E 在续
   > 来源：https://mikrotik.com/consultants
+- **【R65 同名混淆注】**LinkedIn「Nikolaos Giovanopoulos Mechanical Engineer/HSE, Imperial College」同名画像与 ien.gr 不联;不采信
+  > (LinkedIn 搜索 2026-10-07:同名 HSE consultant,与 ien.gr / MikroTik 无关联证据)
+  > 来源：(沙箱核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

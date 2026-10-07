@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**)…
+- **是谁**：Jeton Syla（科索沃；R65 多同名画像：**候选 1= PULLMA Group SH.P.K.(Financial Planning and Analysis Manager, Universiteti i …
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 全国唯一顾问备养:活跃验证后按顾问价值模板激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Jeton Syla（科索沃；R65 多同名画像：**候选 1= PULLMA Group SH.P.K.(Financial Planning and Analysis Manager, Universiteti i Prishtinës)**/候选 2=Express Delivery LLC 科索沃（弱档）；不采信保密，守档准由 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**)
+- 【事实】Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**) | R65 深挖:同名两候选守档准由（科索沃未证）
 - 【推断】全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开
 - 【假设】开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信
 
@@ -103,11 +103,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**)
+- **背景深描**：Jeton Syla（科索沃；R65 多同名画像：**候选 1= PULLMA Group SH.P.K.(Financial Planning and Analysis Manager, Universiteti i Prishtinës)**/候选 2=Express Delivery LLC 科索沃（弱档）；不采信保密，守档准由
 - **芯片与在用型号**：【推断】全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开
-- **关键人KP**：—
+- **关键人KP**：—（同名候选已核；R65 守档准由；PULLMA FP&A 或为本人=候选非证）
 - **关注点与资质**：MikroTik 认证顾问  
 - **优缺点SWOT**：S:全国唯一=壁垒 / W:个人体量小 / O:顾问指定权大 / T:单靠一人节奏
 - **Saga产品适配**：全国唯一顾问备养:活跃验证后按顾问价值模板激活
@@ -117,6 +117,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:科索沃唯一 MikroTik 认证顾问;jetoonsyla@gmail.com
   > CSV:科索沃唯一 MikroTik 认证顾问;jetoonsyla@gmail.com
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 同名候选注】**PULLMA Group FP&A(Jeton Syla Prishtina)=候选，非证；Express Delivery 另一名同级候选；R65 不采信
+  > (LinkedIn 2026-10-07 jeton-syla-7a7204233 PULLMA Group FP&A/Express Delivery 候选同名同名二柱，与 MikroTik 无关联证)
+  > 来源：(沙箱核验日志)
 
 ## 产品决策（Saga · 单一决策口径）
 

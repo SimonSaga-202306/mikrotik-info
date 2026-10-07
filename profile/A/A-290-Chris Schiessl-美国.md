@@ -17,7 +17,7 @@ needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: true, o
 p1: STC-424XGGPM-280W
 stage: 00-researched
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-07
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -244,24 +244,3 @@ updated: 2026-09-28
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-### R60 客户运营判定(2026-09-29 · 仅 A 类 · 改内容不改顺序)
-
-- **KP 领英直达**:[Chris Schiessl · 领英搜索直达](https://www.linkedin.com/search/results/people/?keywords=Chris%20Schiessl)(搜索链接,点入后核职位再加;来源:联络核验)
-- **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
-- **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
-- **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
-
-## 2026-10-07 R64 KP 猎捕（第 2 波）
-
-**域 MX**:{"borderstates.com": ["borderstates-com.mail.protection.outlook.com"]}
-**结论**:contactout 有号/邮(付费墙);先采排列组合候选
-- **Chris Schiessl** — 本人确认:Border States Sr.IT Network Engineer(Fargo ND),前 SRT Communications 网络运维;MTC 顾问本人（源:https://contactout.com/Chris-Schiessl-16784439）
-  - `chris@borderstates.com`(first@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `chris.schiessl@borderstates.com`(first.last@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `c.schiessl@borderstates.com`(f.last@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `chrisschiessl@borderstates.com`(firstlast@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `cschiessl@borderstates.com`(flast@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
-  - `schiessl@borderstates.com`(last@(borderstates.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))

@@ -37,8 +37,7 @@ updated: 2026-10-06
 | 名称 | Dnet-Distribution（CSV 原样；登记名以调研为准） | 事实 |
 | 国家/城市 | 意大利 | 事实 |
 | 网站 | dnet-distribution.com | 事实 |
-| 类型 | MikroTik Master 官方名录 | 事实（CSV 名录口径） |
-| 关键人 | Dnet-Distribution | 事实 |
+| 类型 | 分销（MikroTik 官方） | 事实（CSV 名录口径） |
 | 反向信号（资质/品牌） | MikroTik（Master+VAD） | 事实（名录/自报口径） |
 | 组织性质 | 公司/工作室（有官网） | 【推断】 |
 | 商业模式 | MikroTik Master 官方名录 | 【推断】 |
@@ -66,13 +65,13 @@ updated: 2026-10-06
 
 - **邮箱**：info@dnet-distribution.com
   - 状态：official-company
-- **电话**：+39 02 78626310 
-- **原始联系字段**：info@dnet-distribution.com
+- **电话**：+39 02 78626310
+- **原始联系字段**：+39 02 78626310 / info@dnet-distribution.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 ## 关键人（KP）与触达通道
 
-- **Dnet-Distribution**（本人直达；角色=业主/顾问本人，依据名录）
+- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,7 +130,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ✅ |
+| 决策人识别 | ❓ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -151,7 +150,7 @@ updated: 2026-10-06
 ```text
 Hi Dnet-Distribution,
 
-I came across Dnet-Distribution - MikroTik Master 官方名录.
+I came across Dnet-Distribution - 分销（MikroTik 官方）.
 
 We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
 
@@ -181,120 +180,3 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
-
----
-
-## 备护深挖(2026-09-29 · R57-BC 轻量对齐 A · 评级不动、不出信）
-
-**深挖三层**
-- 【事实】Dnet-Distribution(Lainate MI Via De Gasperi 19;**Nim Wave S.r.l. 旗下品牌**,P.IVA 06095990963,2008 创):**大型欧洲 MikroTik 分销,100+ reseller 渠道;自牌天线 Nim Wave(SECWAVE/MIMOWAVE/PANWAVE);FlashStart 案例证白标再牌血统**(『DNet branded-solution』reseller 贴牌);Sales Director **Daniela Cibien** 具名;MikroTik 培训课;WISP 侧 lainit.it;谱含 Cambium/Ubiquiti/Stella Doradus/Wifx
-- 【推断】自牌天线+白标服务双血统=自有品牌运营经验丰富;100+ reseller 渠道是白牌硬件放大的现成管道;天线自牌之外,网络硬件(PoE 交换)是自牌谱的自然延伸位
-- 【假设】开口角度=「Nim Wave 自牌谱的 PoE 硬件 OEM 延伸」:STC-424 以 OEM 白牌(Dnet/Nim Wave 贴牌)供其 100+ reseller,具名 Daniela 开口
-
-**SWOT 速描**
-- **S**: 自牌+白标双血统+100+渠道+具名 Sales Director
-- **W**: 天线自牌重心,硬件自牌未起步
-- **O**: 自牌谱 PoE OEM 延伸第一家
-- **T**: Ubiquiti/Cambium 谱内挤
-
-**证据（quote → 来源）**
-- 「DNet Distribution, a division of NIM Wave Srl, is a large European distributor of MikroTik products…more than 100 resellers…Mrs Daniela Cibien, Sales Director」 — https://www.flashstart.com/wp-content/uploads/2017/06/fs_cloud_casestudy_dnet_eng.final_.pdf
-- 「The 'DNet branded-solution' helps to brand awareness and increase loyalty」 — https://www.flashstart.com/wp-content/uploads/2017/06/fs_cloud_casestudy_dnet_eng.final_.pdf
-- 「NimWave…SECWAVE 56908DPA MIMOWAVE2 PANWAVE5623VA…Marchi e-commerce: www.dnet-distribution.com」 — https://www.nimwave.it/
-
-**判位备档**(参考位，评级仍 B · 不出信）
-- 参考 P1: `STC-424XGGPM-280W` — 自牌天线之外的 PoE 硬件 OEM 白牌延伸位(渠道与白标经验现成,具名开口)
-- 第一问: Nim Wave 自牌谱会不会延到 PoE 交换硬件?白牌 OEM 件给你们 100+ reseller 供货可谈吗?
-- 标签: 意大利|Lainate|NimWave自牌|白标血统|100+渠道
-
-**备养出信稿（未触发，供后续用户启用参考）**
-```text
-Hi Daniela,
-
-Own-brand antennas under Nim Wave, a white-labeled FlashStart service your resellers put their logo on, and a hundred-plus resellers across Europe - you already run the exact playbook that a white-label PoE line is built for.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation, fully open to Dnet or Nim Wave branding. Reference: $180 USD EXW (2026-09-29) - the natural extension of your own-label catalog from antennas into PoE hardware.
-
-One question: does the Nim Wave own-label catalog plan to extend into PoE switching - and would a documented OEM unit earn a bench test for your reseller channel?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
-```
-
-**待补证清单**
-1. Nim Wave 自牌是否计划延到 PoE 硬件类目
-2. 100+ reseller 谱里 PoE 随单量
-
-**跟进建议（守档节奏）**
-- D+3 自牌延伸 OEM 提案页
-- D+14 info@dnet-distribution.com 具名 Daniela
-- D+30 果归守档
-
-<!-- BDEEP:B类深挖_2026-09-29_R57-BC_第5波 -->
-
-## 2026-10-06 R63 B升A 第1波
-
-**决策**：B → A(原号 B-160 → 新号 A-574,原 B 编号释放回池)
-
-**评级依据**：MikroTik Master/Value-Added 官方名录+CRS305-1G-4S+IN/CRS317 PoE 交换机在售 €147-494
-
-**核验路径**：2026-10-06 web_search 核实（官方名录/官网交换机在售/创始人背景），达 R50 复筛达标口径（站点在线+交换机品类+网络专营+决策链短）。
-
-**状态**：未触达,纳入 A 池，按 A 池节奏推进首触。
-
-## 2026-10-07 R64 KP 猎捕(第 1 波)
-
-**方法**:web_search 公开源(领英摘要/工商登记/contactout/RocketReach)定人 → 排列组合猜邮箱 → 域 MX 核验。SMTP 用户级沙箱不可验,**guessed 一律不进群发**,仅供手动/小批量试探;查不出写待定。
-**域 MX**:{"dnet-distribution.com": ["dnetdistribution-com01b.mail.protection.outlook.com"], "nimwave.com": ["nimwave-com.mail.protection.outlook.com"]}
-- **Eugenia Zito** — Presidente(Nim Wave S.r.l. 母体)（源:https://contactout.com/company/Nim-Wave-Srl-91231）
-  - `eugenia@dnet-distribution.com`(first@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `eugenia.zito@dnet-distribution.com`(first.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `e.zito@dnet-distribution.com`(f.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `eugeniazito@dnet-distribution.com`(firstlast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `ezito@dnet-distribution.com`(flast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `zito@dnet-distribution.com`(last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `eugenia@nimwave.com`(first@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `eugenia.zito@nimwave.com`(first.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `e.zito@nimwave.com`(f.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `eugeniazito@nimwave.com`(firstlast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `ezito@nimwave.com`(flast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `zito@nimwave.com`(last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-- **Alessandro Monti** — Specialista di prodotto(产品对接口)（源:https://contactout.com/company/Nim-Wave-Srl-91231）
-  - `alessandro@dnet-distribution.com`(first@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alessandro.monti@dnet-distribution.com`(first.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `a.monti@dnet-distribution.com`(f.last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alessandromonti@dnet-distribution.com`(firstlast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `amonti@dnet-distribution.com`(flast@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `monti@dnet-distribution.com`(last@(dnet-distribution.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alessandro@nimwave.com`(first@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alessandro.monti@nimwave.com`(first.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `a.monti@nimwave.com`(f.last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `alessandromonti@nimwave.com`(firstlast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `amonti@nimwave.com`(flast@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-  - `monti@nimwave.com`(last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
-
-**备注**:Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政
-
-## 2026-10-07 R64 首触定制稿(KP 点名)
-
-**对象**:Eugenia Zito / Alessandro Monti(Presidente / 产品专员)
-**通道**:eugenia.zito@nimwave.com / alessandro.monti@nimwave.com(候选系;info@dnet-distribution.com)
-
-**主题**:PoE 24 ports + 10G uplinks for your installer channel
-
-```text
-Dear Eugenia, dear Alessandro,
-
-Dnet-Distribution's shelves already run CRS305/CRS317 - the WISP installers you serve keep asking for the 24-port PoE workhorse under them.
-
-We build it: 24x Gigabit PoE+ (280W), 4x10G SFP+, ERPS<20ms, watchdog auto-reboot, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
-
-One question: who holds that 24-port managed PoE tier for your installer channel today - and may I send one documented unit to Lainate for a 30-day test?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
-```
-
-> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

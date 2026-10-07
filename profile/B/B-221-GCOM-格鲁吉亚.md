@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire…
+- **是谁**：GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注）…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双雄谱电商的商用 PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.g | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注） | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge)
+- 【事实】GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge) | R65 深挖:守档准由（格鲁吉亚小谱业者）
 - 【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
 - 【假设】开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
 
@@ -111,9 +111,9 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
 
-- **背景深描**：GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge)
+- **背景深描**：GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注）
 - **芯片与在用型号**：【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
 - **关键人KP**：—
 - **关注点与资质**：MikroTik（Master+VAD） 
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449
   > GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449
   > 来源：http://www.dyalkom.com/buy.html
+- **【R65 查询注】**2026-10-07 搜索无果；守档准由
+  > (web_search 无果）
+  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 
