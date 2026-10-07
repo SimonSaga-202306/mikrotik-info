@@ -1,0 +1,308 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 17 批（比利时/爱沙尼亚/立陶宛/爱尔兰）",
+ "scope": "B-225 Foxconcept / B-285 ELKO Eesti / B-311 ELKO Lietuva / B-283 gCnTech",
+ "records": [
+  {
+   "code": "B-225",
+   "researched_on": "2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | R65 深挖:比利时 ICT 咨询实体 2005;Sombreffe 谱位",
+    "inference": "**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销",
+    "hypothesis": "开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)"
+   },
+   "dimensions": {
+    "背景深描": "Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 62200),komalyse 2076e（毛利 €471,759);foxconcept.be 2001-12 幔幔 24 年域",
+    "芯片与在用型号": "【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销",
+    "关键人KP": "—(BV 实体名行政登记 trendstop 未披露；R65 谱位+财务数据足档）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 PoE 自选件 / T:体量不支撑分销合作形态",
+    "Saga产品适配": "判型校正:IT 服务商备养,按顾问/集成商模板激活"
+   },
+   "swot_text": "- **S**:具名老板直通+维护合约谱\n- **W**:1-10 人极小\n- **O**:维护/施工项目 PoE 自选件\n- **T**:体量不支撑分销合作形态",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur",
+     "quote": "Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur",
+     "url": "https://www.crunchbase.com/organization/foxconcept"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be",
+     "quote": "FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be",
+     "url": "https://www.verixi.be/partners/"
+    },
+    {
+     "dim": "R65 登记/财务",
+     "text": "Foxconcept BE 0872.787.192 · Sombreffe Rue Mathias 9 · ICT 服务 62200 · 毛利 €471.7K",
+     "quote": "Foxconcept BV Besloten vennootschap … BE 0872.787.192 - Rue Mathias 9, 5140 SOMBREFFE … brutomarge van 471.759 euro is Foxconcept 2076e in de sector ICT",
+     "url": "https://trendstop.knack.be/nl/detail/872787192/foxconcept.aspx"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在手维护合同量",
+    "项目谱网络件自选权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)",
+     "question": "(先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)",
+     "question": "(先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-285",
+   "researched_on": "2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee) | R65 深挖:波罗的海 ELKO 集团大谱；Pavlovskis 2026-03 新板装最新引口",
+    "inference": "集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;",
+    "hypothesis": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**"
+   },
+   "dimensions": {
+    "背景深描": "ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO Grupa AS 全子，股 2 556 EUR);**Adam Leemet = juhatuse liige(董事会成员，1969-11 生，2013-04-22 任）**;**Martins Pavlovskis = juhatuse liige(2026-03-11 新任！46 岁）**;谱型=波罗的海 IT 批发 ELKO 集团大谱；elko@elko.ee / +372 6509444",
+    "芯片与在用型号": "【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;",
+    "关键人KP": "Adam Leemet = juhatuse liige(2013-至今 13 年）;Martins Pavlovskis = juhatuse liige(2026-03-11 新任）",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 国销售办放量 / T:决策在 Riga,本地易止于接待",
+    "Saga产品适配": "ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)"
+   },
+   "swot_text": "- **S**:$2B 集团嫡系站\n- **W**:国别壳小,无实收实决\n- **O**:集团架一 SKU 13 国销售办放量\n- **T**:决策在 Riga,本地易止于接待",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ELKO Group (ELKO Grupa AS) … revenue exceeded US$2 billion … operates in 31 countries, with sales offices in 13 countries: Latvia, Estonia, ",
+     "quote": "ELKO Group (ELKO Grupa AS) … revenue exceeded US$2 billion … operates in 31 countries, with sales offices in 13 countries: Latvia, Estonia, Lithuania … Prague… ",
+     "url": "https://en.wikipedia.org/wiki/Elko_Grupa"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0",
+     "quote": "ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0",
+     "url": "https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/"
+    },
+    {
+     "dim": "R65 登记/新任",
+     "text": "ELKO Eesti OÜ 10674202 · Tallinn 2000 创 · ELKO Grupa 全子 · Adam Leemet 13 年 juhatus + Martins Pavlovskis 2026-03-11 新板装位",
+     "quote": "Adam Leemet (56) Juhatus … Martins Pavlovskis (46) Juhatus … Seos alates 11.03.2026 … ELKO Grupa AS",
+     "url": "https://radar.aripaev.ee/ettevote/31722/elko-eesti-ou"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Adam Leemet",
+     "role": "Juhatuse liige",
+     "contact": "elko@elko.ee / +372 6509444",
+     "status": "aripaev/infopank/e-krediidiinfo 三源",
+     "source": "https://www.infopank.ee/ettevote/31722/elko-eesti-ou"
+    },
+    {
+     "name": "Martins Pavlovskis",
+     "role": "Juhatuse liige(2026-03-11 新任）",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "采购是 Riga 中央还是国别放权",
+    "与 WESTech 开口的集团内协同"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 集团架 SKU 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**",
+     "question": "集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@elko.ee 开口(点明 WESTech 协同)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**",
+     "question": "集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**",
+     "question": "集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ELKO Eesti team,\n\nELKO Group with offices across 13 countries needs little introduction - and we note your Estonian desk is the local front of the Riga flow. A documented value-tier PoE switch is exactly the sort of stocking SKU a group line card can move across several sales offices at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.\n\nOne question: for the group line card, who fills the 24-port PoE value slot today - and should purchasing conversations go to Riga centrally? (We are also in touch with the WESTech desk, so we would rather coordinate than duplicate.)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-311",
+   "researched_on": "2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko.lt) | R65 深挖:ELKO 立陶宛 32 年实体；Rudminė 实名首",
+    "inference": "ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达",
+    "hypothesis": "开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路"
+   },
+   "dimensions": {
+    "背景深描": "UAB ELKO Lietuva(Įmonės kodas 110604815, Algirdo g. 32A, Kaunas LT-50153,Kaunas,Europos pr. 32 从行;1994-03-21 创（32 年 ELKO 大谱老牌）;**Miglė Rudminė = Vadovas(CEO)**;PVM LT106048113;14 员工；+370 37 302450 / info@elko.lt;谱型=计算机硬件/软件大批发（Kompiuterinė įranga - didmeninė prekyba)",
+    "芯片与在用型号": "【推断】ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达",
+    "关键人KP": "Miglė Rudminė = Vadovas（首席）",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:$2B 集团嫡系 / W:国别壳小 / O:集团架放量 / T:决策归于 Riga",
+    "Saga产品适配": "ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)"
+   },
+   "swot_text": "- **S**:$2B 集团嫡系\n- **W**:国别壳小\n- **O**:集团架放量\n- **T**:决策归于 Riga",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ELKO Lietuva, UAB … In 2024, the sales revenue … 850 728 Eur … 13 … foreign majority ownership",
+     "quote": "ELKO Lietuva, UAB … In 2024, the sales revenue … 850 728 Eur … 13 … foreign majority ownership",
+     "url": "https://scoris.lt/en/imone/110604815"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland",
+     "quote": "ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland",
+     "url": "https://en.wikipedia.org/wiki/Elko_Grupa"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "UAB ELKO Lietuva 110604815 · Kaunas Algirdo 32A · 1994-03 创 32 年 · Miglė Rudminė vadovas · 14 员工",
+     "quote": "Vadovas: Miglė Rudminė … Įmonės kodas: 110604815 … Adresas: Algirdo g. 32A, Kaunas … El. paštas: info@elko.lt … Tel.: (+370 37) 302450",
+     "url": "https://imoniubaze.lt/uab-elko-lietuva/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Miglė Rudminė",
+     "role": "Vadovas(CEO)",
+     "contact": "info@elko.lt / +370 37 302450",
+     "status": "imoniubaze.lt 实名",
+     "source": "https://imoniubaze.lt/uab-elko-lietuva/"
+    }
+   ],
+   "unknowns56": [
+    "采购层级(Riga 中央 vs 国别)",
+    "与 WESTech/B-285 开口的集团内协同"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 集团架 SKU 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路",
+     "question": "集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@elko.lt 开口(点明 B-285/WESTech 协同)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路",
+     "question": "集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路",
+     "question": "集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ELKO Lietuva team,\n\nYour Kaunas desk is the Lithuanian front of the ELKO Group flow - and a documented value PoE SKU is the kind of line a group line card can carry across several sales offices at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.\n\nOne question: who fills the 24-port PoE value slot on the group line card today, and does purchasing sit with Riga centrally? (We are also in touch with the WESTech and ELKO Eesti desks - coordinating, not duplicating, is exactly our intent.)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-283",
+   "researched_on": "2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝",
+    "inference": "都柏林小型 Reseller,具名直达;足迹薄",
+    "hypothesis": "开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走"
+   },
+   "dimensions": {
+    "背景深描": "gCnTech Limited / gCn Tech(1a Dwarf Oaks, Church Road, Ballybrack Village, Co Dublin A96 D653;**Greg = 业主（greg@gcntech.ie 官自曝；087 7682964)**;Simon 交付/销售（simon@gcntech.ie,01 2821306,087 4887471);谱型=爱尔兰 trade-only 电脑 IT 分销；openlogic.ie 同址门脸；只卖 resellers，亦收 PayPal",
+    "芯片与在用型号": "【推断】都柏林小型 Reseller,具名直达;足迹薄",
+    "关键人KP": "Greg = 业主（greg@gcntech.ie);Simon 交付/销售",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:具名直达+都柏林 / W:足迹薄 / O:value PoE 档 / T:失联",
+    "Saga产品适配": "都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)"
+   },
+   "swot_text": "- **S**:具名直达+都柏林\n- **W**:足迹薄\n- **O**:value PoE 档\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名",
+     "quote": "CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 谱/联络",
+     "text": "gCnTech · Ballybrack Dublin · trade-only IT 分销 · greg@/simon@ 自曝信息双谱口",
+     "quote": "1a, Dwarf Oaks Church Road Ballybrack Village Co Dublin A96 D653 … Email: greg@gcntech.ie … Greg 087 7682964 … Simon (Delivery/Sales Queries) 01 2821306 simon@gcntech.ie … We are a Trade only supplier",
+     "url": "https://gcntech.ie/contact/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Greg",
+     "role": "Owner（业主邮箱+电话自曝）",
+     "contact": "greg@gcntech.ie / 087 7682964 / 01 2820458",
+     "status": "gcntech.ie/contact 自曝",
+     "source": "https://gcntech.ie/contact/"
+    },
+    {
+     "name": "Simon",
+     "role": "Delivery/Sales（交付销售）",
+     "contact": "simon@gcntech.ie / 087 4887471",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "活跃经营佐证",
+    "谱与量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走",
+     "question": "(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · greg@gcntech.ie 具名开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走",
+     "question": "(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走",
+     "question": "(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Greg,\n\nA MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

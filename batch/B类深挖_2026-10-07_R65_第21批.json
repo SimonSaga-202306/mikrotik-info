@@ -1,0 +1,282 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 21 批（波黑/斯洛文尼亚/捷克/马耳他）",
+ "scope": "B-277 Wirac / B-219 PC H.AND / B-194 AxiLogi / B-489 WST",
+ "records": [
+  {
+   "code": "B-277",
+   "researched_on": "2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语) | R65 深挖:BiH 20 年 ISP+教练谱；双谱自用：Kamarić 总+ Zildžić 证教",
+    "inference": "全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型",
+    "hypothesis": "开口角度=「唯一顾问的工具箱价值档」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Wirac.Net d.o.o.(Gračanica, 75320 BiH;2006 创,20 年老品牌；AS59847 实体；**Admir Kamarić = Generalni direktor（总经理，隐私政策页自曝）**;**Samir Zildžić = ovlašteni MikroTik trener(官方 MikroTik 认证教练，MTCNA/MTCRE/MTCSE/MTCTCE 课程讲师，CSV 谱主位）**;谱型=BiH ISP+网络工程学校+互联客户 20 年",
+    "芯片与在用型号": "【推断】全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型",
+    "关键人KP": "Admir Kamarić = Generalni direktor;Samir Zildžić = ovlašteni MikroTik trener（双向谱）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCTCE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:全国唯一=壁垒 / W:个人体量小 / O:顾问指定权大,value 档随案进 / T:单靠一人节奏",
+    "Saga产品适配": "全国唯一顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:全国唯一=壁垒\n- **W**:个人体量小\n- **O**:顾问指定权大,value 档随案进\n- **T**:单靠一人节奏",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV(波黑唯一认证顾问;MTCNA+MTCTCE;路由搭建配置/远程排障/无线/VPN/OSPF;英德塞克波五语)",
+     "quote": "CSV(波黑唯一认证顾问;MTCNA+MTCTCE;路由搭建配置/远程排障/无线/VPN/OSPF;英德塞克波五语)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 实名/谱位",
+     "text": "Wirac.Net doo Gračanica BiH 2006 20 年品牌 · Kamarić 总+ Zildžić 认证教练 · AS59847 实体 · MTCNA/MTCRE/MTCSE/MTCTCE 谱训",
+     "quote": "Za Wirac.Net d.o.o. Admir Kamarić, Generalni direktor … trainer Samir Zildžić — ovlašteni MikroTik trener … course MTCNA i MTCRE, MTCSE, MTCTCE — MikroTik certifikacije … 20 godina povezani s Vama Od 2006.",
+     "url": "https://wirac.ba/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Admir Kamarić",
+     "role": "Generalni direktor（总经理）",
+     "contact": "info@wirac.ba",
+     "status": "wirac.net 隐私政策页自曝",
+     "source": "https://wirac.net/privacy-policy/"
+    },
+    {
+     "name": "Samir Zildžić",
+     "role": "ovlašteni MikroTik trener（官方认证教练）",
+     "contact": "经 wirac.ba / info@wirac.ba",
+     "status": "wirac.ba 官网 trainer 自曝",
+     "source": "https://wirac.ba/"
+    }
+   ],
+   "unknowns56": [
+    "在手项目量",
+    "谱系内交换机自选权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问的工具箱价值档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给波黑项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问的工具箱价值档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给波黑项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-219",
+   "researched_on": "2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "PC H.AND d.o.o.(Trzin 斯洛文尼亚(卢布尔雅那圈);pchand.si;MikroTik Reseller;info@pchand.si) | R65 深挖:斯洛文尼亚 34+ 年老谱；Bolto+Habjan 两名谱位",
+    "inference": "卢布尔雅那圈小型 Reseller",
+    "hypothesis": "守档备养:活跃验证后按 value 模板激活"
+   },
+   "dimensions": {
+    "背景深描": "PC H.AND d.o.o.(Brezovce 10, 1236 Trzin, Slovenia;MŠ 5304989000, DŠ SI 52070859;1990-01-22 创（36 年！);**BOLTA MARKO = direktor（董事，marko.bolta@pchand.si）**;HABJAN ANDREJ = prokurist（授权代理，andrej@pchand.si）;PCH SKUPINA 100% 股权；Temeljni kapital €63,483;015300800 信息号；IBAN SI56 门脸；谱型=34+ 年 PC/办公设备/AV 全球大厂商分销（SKD G46.510 IT 批发）",
+    "芯片与在用型号": "【推断】卢布尔雅那圈小型 Reseller",
+    "关键人KP": "BOLTA MARKO = direktor;HABJAN ANDREJ = prokurist",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:卢布尔雅那圈 / W:足迹薄 / O:验活后 value 位 / T:失联",
+    "Saga产品适配": "卢布尔雅那圈小商备养:活跃验证先行"
+   },
+   "swot_text": "- **S**:卢布尔雅那圈\n- **W**:足迹薄\n- **O**:验活后 value 位\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Reseller;Trzin;info@pchand.si",
+     "quote": "CSV:MikroTik 官方分销 Reseller;Trzin;info@pchand.si",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "PC H.AND Trzin 1990 创 36 年 IT 分销；Bolta 董事+ Habjan 授权代理 两名谱口；PCH SKUPINA 100% 股权",
+     "quote": "Trenutni direktor podjetja je BOLTA MARKO - direktor … Prokurist: HABJAN ANDREJ … Lastniki: PCH SKUPINA, NALOŽBENA DEJAVNOST, D.O.O.(100,00%) … marko.bolta@pchand.si",
+     "url": "https://www.companywall.si/podjetje/pc-hand-doo/MM1dCsnY"
+    }
+   ],
+   "kp": [
+    {
+     "name": "BOLTA MARKO",
+     "role": "Direktor（董事，40+ 年行当）",
+     "contact": "marko.bolta@pchand.si / 01 530 0800",
+     "status": "companywall.si/自曝(vodja-prodaje hiring 直接挂邮箱）",
+     "source": "https://www.companywall.si/podjetje/pc-hand-doo/MM1dCsnY"
+    },
+    {
+     "name": "HABJAN ANDREJ",
+     "role": "Prokurist（授权代理）",
+     "contact": "andrej@pchand.si",
+     "status": "companywall.si 实名",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "活跃经营佐证",
+    "谱与量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:活跃验证后按 value 模板激活",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:活跃验证后按 value 模板激活",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-194",
+   "researched_on": "2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料 | R65 深挖:法人家长轴型实体（DC Europe 集团属）;plzen 谱位",
+    "inference": "「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示",
+    "hypothesis": "开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线"
+   },
+   "dimensions": {
+    "背景深描": "AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kolibřík klub invest a.s. + DC Europe system a.s. 双 Jednatel 法人在位（2021-06-23 起至今）——谱为法人家长轴**;sales@axilogi.cz + servis@axilogi.cz +420 371 420 573",
+    "芯片与在用型号": "【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示",
+    "关键人KP": "Kolibřík klub invest a.s. + DC Europe system a.s. 双法人 Jednatel(sales/servis 函数口已足）",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装商随单 24 口管理型位 / T:Cudy 低价惯性",
+    "Saga产品适配": "光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)"
+   },
+   "swot_text": "- **S**:光伏+弱电双驱+Master 名录\n- **W**:中价牌已在架(Cudy/Alta)\n- **O**:安装商随单 24 口管理型位\n- **T**:Cudy 低价惯性",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "DEYE, MikroTik, Vami, TP-Link, Conexpro, Cudy, Alta Labs, Ubiquiti Networks, Stromberg, Teltonika, Olife Energy, Felicity…Fotovoltaika, Bezd",
+     "quote": "DEYE, MikroTik, Vami, TP-Link, Conexpro, Cudy, Alta Labs, Ubiquiti Networks, Stromberg, Teltonika, Olife Energy, Felicity…Fotovoltaika, Bezdráty, LAN, Optické sítě, Napájení, Rozvaděče",
+     "url": "https://www.axilogi.com/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "AxiLogi Master Distributors Pilsen sales@axilogi.cz",
+     "quote": "AxiLogi Master Distributors Pilsen sales@axilogi.cz",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/"
+    },
+    {
+     "dim": "R65 登记/联动",
+     "text": "AxiLogi s.r.o. IČO 10964703 · Plzeň Daimlerova 1161/6 · 双法人 Jednatel（法人家长轴）· sales/servis 函数口",
+     "quote": "Jednatel: Kolibřík klub invest a. s. Den vzniku funkce: 23. 6. 2021 … Jednatel: DC Europe system a.s. Den vzniku funkce: 23. 6. 2021 … AxiLogi s.r.o. IČO: 10964703 DIČ: CZ10964703 Daimlerova 1161/6, 301 00 Plzeň",
+     "url": "https://axilogi.com/kontakty_d1502.html"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "光伏安装商谱里网络件随单频度",
+    "Cudy/Alta 价位带与我司对位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Cudy/Alta 对位页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线",
+     "question": "你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@axilogi.cz 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线",
+     "question": "你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线",
+     "question": "你们光伏/弱电安装商客户在 24 口管理型 PoE 现随哪款?Cudy/Alta 之上有空档吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi AxiLogi team,\n\nPhotovoltaics and low-voltage networking under one roof - DEYE on one shelf, MikroTik and Cudy on the other. Your installers wire both the roof and the rack.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented step above your Cudy/Alta Labs tier for installer jobs that need managed 24-port PoE, white-label friendly.\n\nOne question: for your installers building surveillance and network runs, which 24-port managed PoE switch fills the tier above Cudy today - or is that slot open?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-489",
+   "researched_on": "2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com) | R65 深挖:马耳他实体；Neville Zahra 业主谱",
+    "inference": "**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带",
+    "hypothesis": "开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信"
+   },
+   "dimensions": {
+    "背景深描": "WST Systems Ltd.(Birkirkara, Malta(core 大街）;**Neville Zahra = Owner（业主）**;Richard Irabor IT Technician(Mellieha)+Giuseppe di Falco Support Technician IT(意大利谱）+Claudio Stagno Salesperson(2025 新聘）;4 员工",
+    "芯片与在用型号": "【推断】**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带",
+    "关键人KP": "Neville Zahra = Owner;Claudio Stagno = Salesperson(2025 新任）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:28 年老号稳定 / W:非分销,体量小 / O:LAN/Wi-Fi/电话项目 PoE 自选件 / T:单量不支持分销形态",
+    "Saga产品适配": "判型校正:IT 服务商备养,按顾问/集成商模板激活"
+   },
+   "swot_text": "- **S**:28 年老号稳定\n- **W**:非分销,体量小\n- **O**:LAN/Wi-Fi/电话项目 PoE 自选件\n- **T**:单量不支持分销形态",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardw",
+     "quote": "As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardware Sourcing … LAN/WAN/Wi-Fi Design … Telephony",
+     "url": "https://www.wstsystems.com/"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "WST Systems Malta · Neville Zahra Owner · 4 员工（Richard Irabor + Giuseppe di Falco + Claudio Stagno 2025 sales 新聘）",
+     "quote": "the WST Systems Ltd. management team includes Neville Zahra (Owner), Richard Irabor (IT Technician), and Giuseppe di Falco (Support Technician IT) … Claudio Stagno Salesperson at WST Systems Ltd. 2025 - now",
+     "url": "https://rocketreach.co/wst-systems-ltd-management_b71953b5c480316d"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Neville Zahra",
+     "role": "Owner（业主）",
+     "contact": "经 wstsystems.com",
+     "status": "rocketreach 自曝",
+     "source": "https://rocketreach.co/wst-systems-ltd-management_b71953b5c480316d"
+    }
+   ],
+   "unknowns56": [
+    "在手服务项目量",
+    "采购自选权重与谱系"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信",
+     "question": "(先验活跃)你们 LAN/Wi-Fi/电话项目里,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信",
+     "question": "(先验活跃)你们 LAN/Wi-Fi/电话项目里,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

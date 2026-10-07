@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、S…
+- **是谁**：MS Electronics Ltd(7 Spyrou Kyprianou, Linopetra, Limassol 4103;1992 塞浦路斯消费 AV+电子大分销;50+ 品牌官方,800+ dealer 网络;1…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 消费大分销 Networking 类目的管理型 PoE 升级档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | MS Electronics Ltd(7 Spyrou Kyprianou, Linopetra, Limassol 4103;1992 塞浦路斯消费 AV+电子大分销;50+ 品牌官方,800+ dealer 网络;11 员工;IT&Networking 为子类目,Security/Mobile/Solar 并列;R64 KV 对上:名录 pieris@m | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位)
+- 【事实】MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位) | R64 并入:Panicos Michael = Managing Director;Pieris Michael = Product
 - 【推断】AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅
 - 【假设】开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- MS Electronics Ltd(7 Spyrou Kyprianou, Linopetra, Limassol 4103;1992 塞浦路斯消费 AV+电子大分销;50+ 品牌官方,800+ dealer 网络;11 员工;IT&Networking 为子类目,Security/Mobile/Solar 并列;R64 KV 对上:名录 pieris@mstronics.com = Pieris Michael Product Manager Networking&IT(2016 至今))
 
 ## 联系方式（已有/猜测分标）
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位)
+- **背景深描**：MS Electronics Ltd(7 Spyrou Kyprianou, Linopetra, Limassol 4103;1992 塞浦路斯消费 AV+电子大分销;50+ 品牌官方,800+ dealer 网络;11 员工;IT&Networking 为子类目,Security/Mobile/Solar 并列;R64 KV 对上:名录 pieris@mstronics.com = Pieris Michael Product Manager Networking&IT(2016 至今))
 - **芯片与在用型号**：【推断】AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Panicos Michael = Managing Director;Pieris Michael = Product Manager Networking&IT(2016-);Michalis Pavlou = Sales Director;Theodoros Theodorou = Product Manager(Nicosia)
 - **关注点与资质**：MikroTik（Reseller） | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:50+ 牌 800 dealer 大网 / W:网通二级类目 / O:类目升级=管理型 PoE 入架 / T:AV 主导,网通预算薄
 - **Saga产品适配**：消费大分销 Networking 类目的管理型 PoE 升级档
@@ -130,6 +130,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus
   > MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus
   > 来源：https://www.cyprusnet.com/ms-electronics
+- **【R64 实名层】**Panicos Michael MD(网络层母公司 Miche);Pieris Michael 产品线 KP(网络对口);Michalis Pavlou 销市总监
+  > Panicos Michael is the Managing Director of MS Electronics Ltd … Pieris Michael Product Manager Networking and IT 2016 - now
+  > 来源：https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323
+- **【R64 PRODUKT 对口】**Pieris Michael 公司域失联……已证为库内 pieris@mstronics.com 名录联系人(历史既有,无需再猜)
+  > Pieris Michael … has 3 emails: @hotmail.com @icloud.com @mstronics.com
+  > 来源：https://rocketreach.co/pieris-michael-email_102832452
 
 ## 产品决策（Saga · 单一决策口径）
 

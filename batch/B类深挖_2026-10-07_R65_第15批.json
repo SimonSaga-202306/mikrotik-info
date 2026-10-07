@@ -1,0 +1,714 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 15 批（美国 10 户收尾）",
+ "scope": "B-366 Pace / B-375 Rugged Science / B-233 Tech Atlantix / B-329 BIBAOnline / B-327 / B-338 / B-343 / B-359 / B-377 / B-508",
+ "records": [
+  {
+   "code": "B-366",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网 | R65 深挖:美 1972 三代谱；Deutsch 三代 2025 接棒",
+    "inference": "体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分",
+    "hypothesis": "从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招"
+   },
+   "dimensions": {
+    "背景深描": "Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Channel Partners;Sam Schell = SVP Business Development;Jeremy Nelson = E-Commerce Director;2025-26 Tim + Eric Deutsch 三代接棒列股东；谱型=video/data 解决方案 50+ 年批发名堂；官网「Brands we stock and stand behind:MikroTik」自曝",
+    "芯片与在用型号": "【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分",
+    "关键人KP": "Richard Siegel = Founder & CEO(1972 创）;Brent Afseth VP Channel Partners;Tim/Eric Deutsch 三代股东",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推线 / O:随单 STC-424 入 install BOM / T:主品谱挤压架空 PoE 品",
+    "Saga产品适配": "卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口"
+   },
+   "swot_text": "- **S**:50 年血脉+Dish 全国独分+ install 网\n- **W**:交换件为工具位非主推线\n- **O**:随单 STC-424 入 install BOM\n- **T**:主品谱挤压架空 PoE 品",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network",
+     "quote": "Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network",
+     "url": "https://topworkplaces.com/company/pace-international/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally",
+     "quote": "Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally",
+     "url": "https://futureforward.org/search-directory/pace-international/"
+    },
+    {
+     "dim": "R65 谱/实名",
+     "text": "Pace International 1972 创立 Rochester MN 50+ 年批发名称；Richard Siegel 创始 CEO；MikroTik stocked 自曝",
+     "quote": "Pace International is a distribution company of video and data solutions … Founded in 1972 … Richard Siegel Founder & CEO … Brands we stock and stand behind: MikroTik",
+     "url": "https://paceintl.com/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Richard Siegel",
+     "role": "Founder & CEO",
+     "contact": "经 paceintl.com",
+     "status": "LinkedIn pace-electronics 官方页自曝",
+     "source": "https://www.linkedin.com/company/pace-electronics"
+    },
+    {
+     "name": "Brent Afseth",
+     "role": "VP of Channel Partners",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "卫星/蜂窝安装商用工具的混装 BOM 中 PoE 接层现状",
+    "其 B2B 网大半是 install 群还是直营仓转售"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · install BOM 随单方案单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招",
+     "question": "你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机 CD 级",
+     "push": "STC-424XGGPM-280W",
+     "angle": "从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招",
+     "question": "你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 归档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招",
+     "question": "你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Pace International team,\n\nThe only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.\n\nOne question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-375",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "RUGGED SCIENCE（美）:自研军规/工业 rugged 电脑厂，因美国海军军规 fanless MILCORTEX 1000 起定；在架 rugged network switches：军规 NS-4000(EN50155 M12 MIL-SPEC，8×GbE P.S.E.+4×GbE,10\"x12\"x10\" 22 lbs,120VAC）拉属自产工业交换机线——同业制造侧 | R65 深挖:军工/Edge AI 美北谱；Vogt 两号位家族谱",
+    "inference": "同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点",
+    "hypothesis": "与我们同产线：只能走「OEM 联合设计/元器件合作」或守界研究；不推供位。判位=建档观察"
+   },
+   "dimensions": {
+    "背景深描": "RUGGED SCIENCE(60 Loveton Circle, Sparks Glencoe, MD 21152;2014 国防工业武功人创立；**Jack Vogt = CEO;Drew Vogt = COO;Rob Schubel = Marketing Director**(PR.com 2025-02 新闻稿三源） ",
+    "芯片与在用型号": "【推断】同业制造层面（自研 rugged switch 产品线），不是分销通道；ORing 授权挂证属谱系点",
+    "关键人KP": "Jack Vogt = CEO;Drew Vogt = COO;Rob Schubel = Marketing Director",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:军规血统+研发自研 / W:同业=守界红线 / O:OEM 元器件级合作假说 / T:不应走销售面",
+    "Saga产品适配": "同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项"
+   },
+   "swot_text": "- **S**:军规血统+研发自研\n- **W**:同业=守界红线\n- **O**:OEM 元器件级合作假说\n- **T**:不应走销售面",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Rugged Science network switches are built with hardened electronics…designed in the United States",
+     "quote": "Rugged Science network switches are built with hardened electronics…designed in the United States",
+     "url": "https://ruggedscience.com/military-computers/rugged-network-switches/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant",
+     "quote": "NS-4000 Military Layer 3 Ethernet Switch…18x copper/2x fiber…EN50155 compliant",
+     "url": "https://www.ruggedscience.com/military-computers/rugged-network-switches/ns-4000-military-layer-3-ethernet-switch"
+    },
+    {
+     "dim": "R65 谱位/实名",
+     "text": "Rugged Science 2014 创 Sparks MD；以军用/工业/Edge AI 高耐用计算》名；33,234 SF 新 HQ;Vogt 家谱系",
+     "quote": "Rugged Science, founded by Defense industry veterans, designs, engineers, and manufactures high-performance computing solutions in Sparks, MD, USA … Jack Vogt, CEO … Drew Vogt, COO … Rob Schubel, Marketing Director … 33,234 SF headquarters",
+     "url": "https://www.pr.com/press-release/930487"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jack Vogt",
+     "role": "CEO",
+     "contact": "经 ruggedscience.com / Rob Schubel 443-595-8384",
+     "status": "theorg + PR.com 双源",
+     "source": "https://www.pr.com/press-release/930487"
+    },
+    {
+     "name": "Drew Vogt",
+     "role": "COO",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "NS-4000 实际产线状态与国军售额（会不会只是挂面）",
+    "能否接受 OEM 元器件合作（其 rugged 母版 vs 我们交换主板）"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "同业 rugged switch 自研厂：守档不入供位；如走 OEM 零部件合作风险面，那是高层事项",
+     "question": "（守档，不入首触点）",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-233",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述\"We specialize in selling refurbished items\"；10,000+ SKU（存储/网络/数据中心设备）；US 主体+UK/UAE 线上站；址 Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515（官网另页 5200 Katrine Avenue 变体）；在售 MikroTik CRS510-8XS-2XQ-IN（Marvell 谱 8×10G SFP+ 管理交换机） | R65 深挖:Sugar Land 电商新谱；2025 年扩大专长位谱口利",
+    "inference": "翻新谱为主+B2B/B2C 通道完整+Marvell 谱在售=「翻新本体+官谱顺带」结构；Saga 全新保修品在其谱系里会被下压作单价基准，但也是互补：卖家需要全新对照来支撑\"refurbished vs new\"决策，可借 STC-424 做「全新保修对照行」",
+    "hypothesis": "对手翻新谱同行：Linknewnet（中国二手出口，深圳系）与 Network Devices（A-569 在售新 Cisco+翻新）的翻新主线；价格谱锚点为翻新件成交价而非新品指导价"
+   },
+   "dimensions": {
+    "背景深描": "Tech Atlantix(Sugar Land, Greater Houston, Texas;谱型=Texas 在线 marketplace主营 CPU/显卡/主板/networking 硬件电商；**Mike Ross = CEO;Ethan Klein = EVP(2025-12 新加，R65 新增动态）；Jake West Director Operations(2025-11);Jorge Hernandez Ops&Procurement(2025-09);Kevin Foster(2025-08)**——2025 下半年小乱动态大量招雇佣，企业扩张连通性走开通口",
+    "芯片与在用型号": "【推断】翻新谱为主+B2B/B2C 通道完整+Marvell 谱在售=「翻新本体+官谱顺带」结构；Saga 全新保修品在其谱系里会被下压作单价基准，但也是互补：卖家需要全新对照来支撑\"refurbished vs new\"决策，可借 STC-424 做「全新保修对照行」",
+    "关键人KP": "Mike Ross = CEO;Ethan Klein = EVP(2025-12 新任，谱口）",
+    "关注点与资质": "翻新 IT 硬件（存储/网络/数据中心设备 10,000+ SKU）；在售 MikroTik CRS510-8XS-2XQ-IN 等 ",
+    "优缺点SWOT": "S:10+ 年翻新 IT 谱商，10,000+ SKU 库存厚；MikroTik 谱在售（CRS510 实锚）；US 主体+UK/UAE 线上多国通道；翻新价低的先天对照口径 / W:翻新为主业与 Saga 全新保修品逻辑相逆；决策单价由「翻新件成交价」而非新品指导价驱动；谱系含 600+ IT 型号，供应商侧拥挤 / O:A-275 CanServers/A-480 CDI Supply 等翻新/折扣谱先例已入 A 粮合作口径，翻新商并非铁板一块；其谱系缺一个\"new warranty-backed L2+ PoE at reference price\"对照位 / T:翻新同业（Linknewnet 中国二手+Network Devices 翻新线）价格更低；若继续只走翻新降价，Saga 品牌溢价难落地",
+    "Saga产品适配": "翻新谱旁全新对照行（Marvell 谱在架）：STC-424XGGPM-280W 24口 PoE+4×10G，$180 USD EXW（2026-09-28 快照，15 天有效）"
+   },
+   "swot_text": "- **S**:10+ 年翻新 IT 谱商，10,000+ SKU 库存厚；MikroTik 谱在售（CRS510 实锚）；US 主体+UK/UAE 线上多国通道；翻新价低的先天对照口径\n- **W**:翻新为主业与 Saga 全新保修品逻辑相逆；决策单价由「翻新件成交价」而非新品指导价驱动；谱系含 600+ IT 型号，供应商侧拥挤\n- **O**:A-275 CanServers/A-480 CDI Supply 等翻新/折扣谱先例已入 A 粮合作口径，翻新商并非铁板一块；其谱系缺一个\"new warranty-backed L2+ PoE at reference price\"对照位\n- **T**:翻新同业（Linknewnet 中国二手+Network Devices 翻新线）价格更低；若继续只走翻新降价，Saga 品牌溢价难落地",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Tech Atlantix stands as a prominent supplier of cutting-edge IT solutions and services...operating across the US with a strong online presen",
+     "quote": "Tech Atlantix stands as a prominent supplier of cutting-edge IT solutions and services...operating across the US with a strong online presence in the UK and UAE. Boasting over a decade of industry experience...more than 10,000 information technology products...We specialize in selling refurbished items, offering customers the opportunity to purchase high-quality products at a fraction of the cost of brand new items.",
+     "url": "https://techatlantix.com/about-us"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Tech Atlantix, Address: Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515; Phone: +1 (855) 490-5117; Email: sales@techatlantix",
+     "quote": "Tech Atlantix, Address: Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515; Phone: +1 (855) 490-5117; Email: sales@techatlantix.com; Mon-Fri 8:00am - 5:00pm CDT",
+     "url": "https://techatlantix.com/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Switches: MikroTik CRS510-8XS-2XQ-IN ... Shop Tech Atlantix",
+     "quote": "Switches: MikroTik CRS510-8XS-2XQ-IN ... Shop Tech Atlantix",
+     "url": "https://techatlantix.com/switches/mikroTik"
+    },
+    {
+     "dim": "R65 实名+扩影响",
+     "text": "Tech Atlantix Sugar Land TX CPU/网络电商；Mike Ross CEO;Ethan Klein EVP 2025-12；三聘营运动态=抢入档口",
+     "quote": "Tech Atlantix's CEO is Mike Ross … Ethan Klein Executive Vice President Joined Dec 1, 2025 … Jake West Director, Operations Joined Nov 25, 2025",
+     "url": "https://www.zoominfo.com/c/tech-atlantix/1340571212"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Mike Ross",
+     "role": "Chief Executive Officer",
+     "contact": "经 techatlantix.com",
+     "status": "zoominfo 自曝",
+     "source": "https://www.zoominfo.com/c/tech-atlantix/1340571212"
+    },
+    {
+     "name": "Ethan Klein",
+     "role": "Executive Vice President(2025-12 新聘）",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "是否与集团实体关联（官网自述方向未明说）",
+    "MikroTik 谱在售具体 SKU 账（CRS510/CRS505/CRS326 等的库位与库存量）",
+    "北美主要翻新谱同业对照位（Linknewnet/Network Devices 翻新主线）"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 首讯：翻新谱旁新对照行一行问（不出信，等用户批准）",
+     "push": "STC-424XGGPM-280W",
+     "angle": "对手翻新谱同行：Linknewnet（中国二手出口，深圳系）与 Network Devices（A-569 在售新 Cisco+翻新）的翻新主线；价格谱锚点为翻新件成交价而非新品指导价",
+     "question": "Do you keep a documented new row beside your refurbished Cisco/MikroTik shelf - or is every comparison priced off the used piece itself?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 无回应守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "对手翻新谱同行：Linknewnet（中国二手出口，深圳系）与 Network Devices（A-569 在售新 Cisco+翻新）的翻新主线；价格谱锚点为翻新件成交价而非新品指导价",
+     "question": "Do you keep a documented new row beside your refurbished Cisco/MikroTik shelf - or is every comparison priced off the used piece itself?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 综合评价是否升 A（若其间客户回响或新增证据）",
+     "push": "STC-424XGGPM-280W",
+     "angle": "对手翻新谱同行：Linknewnet（中国二手出口，深圳系）与 Network Devices（A-569 在售新 Cisco+翻新）的翻新主线；价格谱锚点为翻新件成交价而非新品指导价",
+     "question": "Do you keep a documented new row beside your refurbished Cisco/MikroTik shelf - or is every comparison priced off the used piece itself?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hello Tech Atlantix team,\n\nYour catalog runs both refurbished Cisco and MikroTik CRS lines (we noticed CRS510-8XS-2XQ on your shelf). When refurb availability on a 24-port PoE access box gets thin or short on warranty, what do you typically reach for - and do you hold a documented new-price row for those cases?\n\nWe are a PoE switch OEM/ODM for US, Canadian and European distribution. Our STC-424XGGPM-280W is a 24-port Gigabit PoE af/at (280W) with 4x10G SFP+ uplink and L2+ management (Voice VLAN, PoE watchdog) at $180 USD EXW (2026-09-29) - positioned as the warranty-backed new answer next to your refurbished shelf, with full English documentation and specs.\n\nIf a documented new-row comparison is useful for your buyers, I can send our spec sheet + MTBF + CLI access. If the timing is off, a one-line decline closes the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-329",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2009",
+    "inference": "这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)",
+    "hypothesis": "VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇"
+   },
+   "dimensions": {
+    "背景深描": "BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销+电缆/布线/病毒清/网络工程服务连售；家庭/中小企业 audience",
+    "芯片与在用型号": "【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)",
+    "关键人KP": "—(BIBA LLC 业主方未自曝；R65 谱位足档）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品牌忠度低 / O:STC-424 入主 VoIP PoE 档第二供位 / T:店态会转暴利单品（他们不会守任何品牌）",
+    "Saga产品适配": "VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚"
+   },
+   "swot_text": "- **S**:VoIP 场景与 PoE 天然绑定+本地服务\n- **W**:杂货铺行 SKU 虚薄、品牌忠度低\n- **O**:STC-424 入主 VoIP PoE 档第二供位\n- **T**:店态会转暴利单品（他们不会守任何品牌）",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "VoIP Products such as IP-Phones…PBX and Services…cabling",
+     "quote": "VoIP Products such as IP-Phones…PBX and Services…cabling",
+     "url": "https://www.facebook.com/bibaonline1/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "415 Harding Ct. Sterling VA 20164 / 1-844-329-2422",
+     "quote": "415 Harding Ct. Sterling VA 20164 / 1-844-329-2422",
+     "url": "https://www.bibaonline.com/pages/contact-us"
+    },
+    {
+     "dim": "R65 谱位",
+     "text": "BIBAOnline=BIBA LLC 旗下 VAR/VoIP/IT 在 Centerville VA 2009-07 创；SKU 范吻合",
+     "quote": "@bibaonline your one stop shop for VAR, VoIP products, tech gadgets and software. A division of BIBA LLC … Centerville, VA bibaonline.com … BIBA Online provides … SSDs, HDDs, USB Flash Drives, KVM switches, VoIP Products … networking",
+     "url": "https://x.com/bibaonline"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "MikroTik 属销售柴线还是技术栈线（主 VoIP 的局）",
+    "VoIP→PoE 谱的 SKU 进深（8 口？24 口？集中化？)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 对标 Ubiquiti US-24 PoE 价位页桥（A 类锚档参照）",
+     "push": "STC-424XGGPM-280W",
+     "angle": "VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇",
+     "question": "你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+10 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇",
+     "question": "你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 无果转 B 观察位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇",
+     "question": "你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi BIBA team,\n\nYour catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.\n\nWe build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.\n\nOne question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-327",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Andrei Zhernosek（美·Newcastle, WA）：CSV 载 MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+CTC 级多证；gmail 域挂机、无公开站足迹可查——个体顾问谱 | R65 深挖:守档准由",
+    "inference": "与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态",
+    "hypothesis": "西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话"
+   },
+   "dimensions": {
+    "背景深描": "Andrei Zhernosek（美国个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】与 A 档 A-084/062/072 同类=美区多证个体顾问；面向本地/票据级项目，自备料零批是常态",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCSE+MTCEWE ",
+    "优缺点SWOT": "S:多证在册+本地语言 / W:gmail 域无站足迹零采购信息 / O:教具样本+本地项目料源双向 / T:个体节奏慢、单点失联",
+    "Saga产品适配": "美区多证个体顾问（A 档先例：顾问/师者统一 CONSULT-OEM——关系+教具样本线，不首推销)"
+   },
+   "swot_text": "- **S**:多证在册+本地语言\n- **W**:gmail 域无站足迹零采购信息\n- **O**:教具样本+本地项目料源双向\n- **T**:个体节奏慢、单点失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE(",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE(",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MikroTik 认证顾问需 MTCNA≥75%+至少一个 MTC*E 在续",
+     "quote": "MikroTik 认证顾问需 MTCNA≥75%+至少一个 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证等级与续证时间（mikrotik.com 顾问档待查）",
+    "项目面：ISP 侧 / 企业侧 / 无线侧哪个是主饭碗"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 无应则转 LinkedIn 搜名约咖啡",
+     "push": "CONSULT-OEM",
+     "angle": "西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话",
+     "question": "在 WA/西雅图圈你的客户项目里，现用哪家 PoE 接入交换？样本比较位开放。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+21 · 样本册一页桥",
+     "push": "CONSULT-OEM",
+     "angle": "西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话",
+     "question": "在 WA/西雅图圈你的客户项目里，现用哪家 PoE 接入交换？样本比较位开放。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+45 · 无果归档观察",
+     "push": "CONSULT-OEM",
+     "angle": "西大西洋（西雅图圈）顾问带本地 ISP/小企业案源是美区最富集带；若回插具名推语，从教具样本角度搭话胜过上架话",
+     "question": "在 WA/西雅图圈你的客户项目里，现用哪家 PoE 接入交换？样本比较位开放。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-338",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Christopher Schiessl（美·Minot, ND）：CSV 载 MTCNA+MTCRE+MTCTCE 三证顾问；gmail 挂机、无站足迹可查；北达科他=人口稀州，能源/农业网络是主早期市场 | R65 深挖:守档准由",
+    "inference": "Minot 地带本地顾问唯一性高但量小，具信简单守界用教具样本线",
+    "hypothesis": "信号稀疏地区顾问和 A-069/079 同类谱：先回插是否带具名案例、走纯顾问不意"
+   },
+   "dimensions": {
+    "背景深描": "Christopher Schiessl（美国个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】Minot 地带本地顾问唯一性高但量小，具信简单守界用教具样本线",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE ",
+    "优缺点SWOT": "S:三证细深+偏远区独特本地准入 / W:量小无章、节奏议 / O:教具样本+当地案例道 / T:个体顾问流放排期骨",
+    "Saga产品适配": "与 B-327 同谱美区个体顾问——CONSULT-OEM 统一挂点"
+   },
+   "swot_text": "- **S**:三证细深+偏远区独特本地准入\n- **W**:量小无章、节奏议\n- **O**:教具样本+当地案例道\n- **T**:个体顾问流放排期骨",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问在册需 MTC*E 在续",
+     "quote": "官方顾问在册需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证是否续生效（mikrotik.com 查询）",
+    "ND 地带项目区（能源/农/小 ISP）是哪件"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · LinkedIn 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "信号稀疏地区顾问和 A-069/079 同类谱：先回插是否带具名案例、走纯顾问不意",
+     "question": "在北达科他你的客户接案景（能源/农/小 ISP）里，PoE 接入是谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 样本册桥",
+     "push": "CONSULT-OEM",
+     "angle": "信号稀疏地区顾问和 A-069/079 同类谱：先回插是否带具名案例、走纯顾问不意",
+     "question": "在北达科他你的客户接案景（能源/农/小 ISP）里，PoE 接入是谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+60 · 归档",
+     "push": "CONSULT-OEM",
+     "angle": "信号稀疏地区顾问和 A-069/079 同类谱：先回插是否带具名案例、走纯顾问不意",
+     "question": "在北达科他你的客户接案景（能源/农/小 ISP）里，PoE 接入是谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-343",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述\"strategic sourcing partner\"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄 | R65 深挖:守档准由",
+    "inference": "路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位",
+    "hypothesis": "思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口"
+   },
+   "dimensions": {
+    "背景深描": "Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由）",
+    "芯片与在用型号": "【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:官方身份引信+迈阿密关务区位 / W:SKU 薄（路由为骨）对陌生品牌守度低 / O:STC-424 入主其 PoE 档空位 / T:在架厚度路线的布线竞争",
+    "Saga产品适配": "路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口"
+   },
+   "swot_text": "- **S**:官方身份引信+迈阿密关务区位\n- **W**:SKU 薄（路由为骨）对陌生品牌守度低\n- **O**:STC-424 入主其 PoE 档空位\n- **T**:在架厚度路线的布线竞争",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Official MikroTik Reseller…804 NE 125th st North Miami, FL 33161",
+     "quote": "Official MikroTik Reseller…804 NE 125th st North Miami, FL 33161",
+     "url": "https://distrigoinc.com/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "hEX S / CCR2004-16G-2S+ / RB4011iGS+RM",
+     "quote": "hEX S / CCR2004-16G-2S+ / RB4011iGS+RM",
+     "url": "https://distrigoinc.com/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在架 PoE 交换 SKU 进深（如果只有 CRS3 系那是我们的口）",
+    "拉美仓前哨（迈阿密）发远关务路径"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 价锚对照 Ubiquiti USW-24-PoE 一页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口",
+     "question": "你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+10 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口",
+     "question": "你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 无果归档观察",
+     "push": "STC-424XGGPM-280W",
+     "angle": "思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口",
+     "question": "你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Distrigo team,\n\nYour Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-side second source for exactly that layer.\n\nOne question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-359",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Leverify LLC（华盛顿州 Bellevue/Redmond 6825 176TH Ave NE Ste 135A）:Crunchbase 称\"electronics wholesale distributor\"101-250 人规模带；brands@leverify.com 是品牌线接口邮箱（altostrat 官列 MikroTik Reseller)；扛 stockyfy.com 牌 | R65 深挖:守档准由",
+    "inference": "品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转",
+    "hypothesis": "101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通"
+   },
+   "dimensions": {
+    "背景深描": "Leverify LLC（美国个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424 入 brands@ 供位 / T:纯货量比价心智的利器淘汰",
+    "Saga产品适配": "大批发电商盘的品牌口补位：value 交换档直接货量比价可得"
+   },
+   "swot_text": "- **S**:规模批发带+具名品牌口\n- **W**:杂货化谱强、品牌忠弱\n- **O**:STC-424 入 brands@ 供位\n- **T**:纯货量比价心智的利器淘汰",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Leverify LLC Reseller Bellevue Washington brands@leverify.com",
+     "quote": "Leverify LLC Reseller Bellevue Washington brands@leverify.com",
+     "url": "https://altostrat.io/es/buying/hardware/resellers/north-america/usa/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "electronics wholesale distributor…Bellevue, Washington…101-250",
+     "quote": "electronics wholesale distributor…Bellevue, Washington…101-250",
+     "url": "https://www.crunchbase.com/organization/leverify-707f"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "brands@ 口对应的品牌上架规则（ROQ/Window/保修三件套）",
+    "MikroTik 属上架量线还是项目引导线"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · RMA/保修三件套单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通",
+     "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 不上的转楼价档随单",
+     "push": "STC-424XGGPM-280W",
+     "angle": "101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通",
+     "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 归档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通",
+     "question": "你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Leverify brands team,\n\nBellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.\n\nOne question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-377",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Ray Evelyn（佛罗里达 Melbourne, FL）：CSV 载 MTCNA+MTCRE+MTCTCE 等多证顾问；公开足迹未查得到（具名 LinkedIn/网页均无）——按分层挖纪律走 CSV 谱系派生 | R65 深挖:守档准由",
+    "inference": "与 B-327/338 同类=美区个体顾问；佛州东岸（Space Coast）航天/海事/空气净化技术密集意味着其价值在垂直项目例",
+    "hypothesis": "不首销：师者红线+个体无足迹；走具名核查后再定"
+   },
+   "dimensions": {
+    "背景深描": "Ray Evelyn（美国个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】与 B-327/338 同类=美区个体顾问；佛州东岸（Space Coast）航天/海事/空气净化技术密集意味着其价值在垂直项目例",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCIPv6E+MTCSE ",
+    "优缺点SWOT": "S:多证深+佛州技术带，潜在垂直 / W:零公开足迹=动机判定难 / O:回插具名寨例 / T:失联/不动机",
+    "Saga产品适配": "美区个体顾问谱统一点"
+   },
+   "swot_text": "- **S**:多证深+佛州技术带，潜在垂直\n- **W**:零公开足迹=动机判定难\n- **O**:回插具名寨例\n- **T**:失联/不动机",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE（多证）",
+     "quote": "CSV：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE（多证）",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续+论坛活跃",
+     "quote": "官方顾问需 MTC*E 在续+论坛活跃",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名公开足迹/mikrotik.com 现证",
+    "垂直（航天/海/小 ISP）项目例"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名核查→视足迹定",
+     "push": "CONSULT-OEM",
+     "angle": "不首销：师者红线+个体无足迹；走具名核查后再定",
+     "question": "在 Space Coast 地带的客户项目（你能透例的）里，PoE 接层现供？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-508",
+   "researched_on": "2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "NCTIK = TALENTED VISION LLC（北卡 Raleigh；电话 704=Charlotte 区码）：官方 MikroTik 认证 Training Partner+Consultant;15+ 年 MikroTik 业界历史；官网显示主开 MTCNA/MTCRE 小组课（2020 课表页待验证现行） | R65 深挖:守档准由",
+    "inference": "师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口",
+    "hypothesis": "教具样本线=向其课桌要\"对照牌教具\"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）"
+   },
+   "dimensions": {
+    "背景深描": "NCTIK（美国个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】师者+顾问合体：跟 A 档师者同纪律（红线：不打学员名单、不经培训语境推销）；教具样本比较才是正开口",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问，持 MikroTik 认证培训伙伴 ",
+    "优缺点SWOT": "S:官方师者位+15 年史 / W:师者红线+教具非销量 / O:教具样本位（对照牌） / T:学员名单绝对红线",
+    "Saga产品适配": "师者教具位：8 口小机器作为\"对照牌教具\"上课桌——$99 样本线，不是商业上架"
+   },
+   "swot_text": "- **S**:官方师者位+15 年史\n- **W**:师者红线+教具非销量\n- **O**:教具样本位（对照牌）\n- **T**:学员名单绝对红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "NCTIK.com is MikroTik certified Training Partner in Raleigh, NC…over 15 years",
+     "quote": "NCTIK.com is MikroTik certified Training Partner in Raleigh, NC…over 15 years",
+     "url": "https://www.nctik.com/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina",
+     "quote": "ALL Right Reserved by TALENTED VISION LLC, Raleigh, North Carollina",
+     "url": "https://www.nctik.com/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现行课表时间（2020 页是否过期）",
+    "教具目型/MikroTik 官训 vs 他牌对照教具的有无"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 教具页方案",
+     "push": "STC-28DGGPM",
+     "angle": "教具样本线=向其课桌要\"对照牌教具\"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）",
+     "question": "你的 MTCNA/MTCRE 课堂上，有对照厂牌教具位吗？STC-28DGGPM 这样的可贴牌小交换当对照教具评测样本可行？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · OOM 放盘",
+     "push": "STC-28DGGPM",
+     "angle": "教具样本线=向其课桌要\"对照牌教具\"的位置；STC-28DGGPM 当教具样本比 424 合位（小体量、便宜、比较呈结构清）",
+     "question": "你的 MTCNA/MTCRE 课堂上，有对照厂牌教具位吗？STC-28DGGPM 这样的可贴牌小交换当对照教具评测样本可行？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形)…
+- **是谁**：Netzware Handels- und IT-Dienstleistungs GmbH(Davidgasse 85-89, A-1100 Wien;FB 413095v, HG Wien, 2014-04-02 注册…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 维也纳 Master 的 value PoE 架位试探；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Netzware Handels- und IT-Dienstleistungs GmbH(Davidgasse 85-89, A-1100 Wien;FB 413095v, HG Wien, 2014-04-02 注册,Stammkapital €35,000;UID ATU68575437;**GF 双董事 Florian Ivo(2014 在任)+ D | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形)
+- 【事实】NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形) | R65 深挖:11-30 人维也纳分销;两 GF 2014 创——最像长辈白学的标的物
 - 【推断】维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销
 - 【假设】开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Netzware Handels- und IT-Dienstleistungs GmbH(Davidgasse 85-89, A-1100 Wien;FB 413095v, HG Wien, 2014-04-02 注册,Stammkapital €35,000;UID ATU68575437;**GF 双董事 Florian Ivo(2014 在任)+ Dietmar Guelfenburg(2016-01 在任)**=两人联署;evi.gv.at 登记源+官网 impressum+karriere.at 三源;11-30 员工;office@netzware.at,+43 1 3577770;MikroTik/Acer/ASUS/HP 等分销
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Florian Ivo | Geschäftsführer(2014-04-02 在任) | office@netzware.at / +43 1 3577770 | evi.gv.at + impressum 双源实名 | https://www.evi.gv.at/f/413095v |
+| Dietmar Guelfenburg | Geschäftsführer(2016-01-29 在任) | 同上 | 同源 | 同 evi.gv.at |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形)
+- **背景深描**：Netzware Handels- und IT-Dienstleistungs GmbH(Davidgasse 85-89, A-1100 Wien;FB 413095v, HG Wien, 2014-04-02 注册,Stammkapital €35,000;UID ATU68575437;**GF 双董事 Florian Ivo(2014 在任)+ Dietmar Guelfenburg(2016-01 在任)**=两人联署;evi.gv.at 登记源+官网 impressum+karriere.at 三源;11-30 员工;office@netzware.at,+43 1 3577770;MikroTik/Acer/ASUS/HP 等分销
 - **芯片与在用型号**：【推断】维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销
-- **关键人KP**：—
+- **关键人KP**：Florian Ivo + Dietmar Guelfenburg = 双 Geschäftsführer(evi.gv.at Firmenbuch 实名+官网 impressum)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:Master+VAD+维也纳 / W:服务血统,谱未摸 / O:value PoE 档 / T:服务主导时分销谱弱
 - **Saga产品适配**：维也纳 Master 的 value PoE 架位试探
@@ -123,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing
   > Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing
   > 来源：https://www.zoominfo.com/c/netzware/461196365
+- **【R65 商业登记】**FB 413095v · 2014-04 HG Wien · GF Florian Ivo + Dietmar Guelfenburg 二人联署 · €35K 股本
+  > Geschäftsführer: Florian Ivo, Dietmar Guelfenburg … Firmenbuchnummer: 413095v … Eintragungsdatum: 02.04.2014
+  > 来源：https://netzware.at/unternehmen/impressum/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +160,7 @@ S:Master+VAD+维也纳 / W:服务血统,谱未摸 / O:value PoE 档 / T:服务�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

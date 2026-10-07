@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数…
+- **是谁**：Voicenter LTD(以色列云端电信/VoIP CPaaS 平台;**Nitsan Gutman = מייסד ומנכ"ל(创始人兼 CEO)**——"חלוץ בתחום התקשורת והטלפוניה …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Voicenter LTD(以色列云端电信/VoIP CPaaS 平台;**Nitsan Gutman = מייסד ומנכ"ל(创始人兼 CEO)**——"חלוץ בתחום התקשורת והטלפוניה בענן בישראל"(以色列云通讯先驱,官网博客自曝);另 Golan Ashtan 早前 CEO 层(MBA,二代以色列电信业谱:Ne | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登台讲 MikroTik debug VoIP**(技术圈实名);阿姆斯特丹 QXIP 姐妹公司(开源语音);Master 挂证应源自其企业客户部署配送 MikroTik CPE
+- 【事实】Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登台讲 MikroTik debug VoIP**(技术圈实名);阿姆斯特丹 QXIP 姐妹公司(开源语音);Master 挂证应源自其企业客户部署配送 MikroTik CPE | R65 深挖:以色列云电信平台;Gutman 创始归位
 - 【推断】云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件
 - 【假设】开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)
 
@@ -82,7 +82,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Nitsan Gutman | Founder & CEO | 经 voicenter.co.il 总线 | 官网博客自曝 | https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp |
+| Golan Ashtan | CEO(2023 早前口径) | 同上 | ceopro.co.il 专访自曝 | https://www.ceopro.co.il/%D7%92%D7%95%D9%84%D7%9F-%D7%90%D7%A9%D7%98%D7%9F-%D7%9E%D7%A0%D7%9B%D7%9C-voicenter/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -112,11 +115,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登台讲 MikroTik debug VoIP**(技术圈实名);阿姆斯特丹 QXIP 姐妹公司(开源语音);Master 挂证应源自其企业客户部署配送 MikroTik CPE
+- **背景深描**：Voicenter LTD(以色列云端电信/VoIP CPaaS 平台;**Nitsan Gutman = מייסד ומנכ"ל(创始人兼 CEO)**——"חלוץ בתחום התקשורת והטלפוניה בענן בישראל"(以色列云通讯先驱,官网博客自曝);另 Golan Ashtan 早前 CEO 层(MBA,二代以色列电信业谱:Netvision/012/Partner/HOT 多年高管);MikroTik 谱挂其电信商平台供应链线
 - **芯片与在用型号**：【推断】云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件
-- **关键人KP**：—
+- **关键人KP**：Nitsan Gutman = 创始人&CEO(官网自曝);Golan Ashtan = 早前 CEO(2023 文)
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者) / W:运营商本体,不零售硬件 / O:桌面话机 PoE 部署随单/OEM 白标 / T:自研中心,硬件谱敏感
 - **Saga产品适配**：云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)
@@ -129,6 +132,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)
   > Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)
   > 来源：https://mum.mikrotik.com/presentations/NL16/presentation_3876_1479372782.pdf
+- **【R65 实名】**Nitsan Gutman founder&CEO(以色列云通讯/电话先驱官方口径)
+  > ניצן גוטמן מייסד ומנכ״ל Voicenter, חלוץ בתחום התקשורת והטלפוניה בענן בישראל
+  > 来源：https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +166,7 @@ S:2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者) / W:运营商本体,不
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

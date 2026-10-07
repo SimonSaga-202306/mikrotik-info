@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston…
+- **是谁**：Comitek SRL(dba DOXYTERRA Computer Center;bd. Dacia 27, MD2060 Chișinău;1995 创=31 年老店;注册号 1002600055526,VAT 02…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 多牌电商企业双线谱的 value PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Comitek SRL(dba DOXYTERRA Computer Center;bd. Dacia 27, MD2060 Chișinău;1995 创=31 年老店;注册号 1002600055526,VAT 0200872,股本 5,400 MDL;**Dan Potârniche = Director(业主)**;Alexandru Sochirc | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md)
+- 【事实】DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md) | R65 深挖:31 年老店 Doxyterra;Potârniche 业主导演
 - 【推断】摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证)
 - 【假设】开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dan Potârniche | Director/Principal Executive(业主) | 经 doxyterra.md 总线 | kompass EN/RO 双源实名 | https://xk.kompass.com/c/doxyterra-computer-center/md003157/ |
+| Alexandru Sochircă | Marketing Director | 同上 | 同源 | https://md.kompass.com/c/comitek-srl/md003157/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
 
-- **背景深描**：DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md)
+- **背景深描**：Comitek SRL(dba DOXYTERRA Computer Center;bd. Dacia 27, MD2060 Chișinău;1995 创=31 年老店;注册号 1002600055526,VAT 0200872,股本 5,400 MDL;**Dan Potârniche = Director(业主)**;Alexandru Sochircă = 营销总监;Sergiu Corbu = 经理;Eugeniu Iacub 分销部关联履历;doxyterra.md 平台门脸
 - **芯片与在用型号**：【推断】摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证)
-- **关键人KP**：—
+- **关键人KP**：Dan Potârniche = Director(业主,Kompass 双源);Alexandru Sochircă 销市总监;Sergiu Corbu 经理
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:多牌官方分销+企业方案部 / W:交换机谱弱于整机/外设 / O:CSC 项目+电商双线 PoE 随单 / T:摩国市场小,单量有限
 - **Saga产品适配**：多牌电商企业双线谱的 value PoE 管理档
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA
   > DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA
   > 来源：https://doxyterra.md/ro/page/keychron-in-moldova/
+- **【R65 商业登记】**Comitek SRL dba DOXYTERRA · 1995 创 · Reg 1002600055526 · Dan Potârniche Director+Alexandru Sochircă Marketing
+  > Mr Dan Potirniche Principal Executive/Proprietor (Director) … Year established: 1995 … bd. Dacia, 27
+  > 来源：https://xk.kompass.com/c/doxyterra-computer-center/md003157/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:多牌官方分销+企业方案部 / W:交换机谱弱于整机/外设 / O:CSC
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

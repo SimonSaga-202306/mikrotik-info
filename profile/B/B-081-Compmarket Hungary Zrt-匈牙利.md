@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Ráko…
+- **是谁**：CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M HUF 股本;**2025 财报营收 13.33 亿 HUF ≈ €34M**;ICT 批发大分销;**董事 Szabó Balázs +  | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán)
+- 【事实】Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走年谱口
 - 【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
 - 【假设】开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Szabó Balázs | Igazgatósági tag(董事会成员) | info@compmarket.hu / 01/2731055 | companywall.hu 实名 | https://www.companywall.hu/v%C3%A1llalat/compmarket-hungary-zrt/MMC0DERq |
+| Tóth Zoltán | Igazgatósági tag(董事会成员) | 同上 | 同源 | 同 companywall.hu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 6 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第6批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán)
+- **背景深描**：CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M HUF 股本;**2025 财报营收 13.33 亿 HUF ≈ €34M**;ICT 批发大分销;**董事 Szabó Balázs + Tóth Zoltán(companywall.hu 实名)**;01/2731055, info@compmarket.hu)
 - **芯片与在用型号**：【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
-- **关键人KP**：—
+- **关键人KP**：Szabó Balázs + Tóth Zoltán = igazgatósági tag(董事会两成员,companywall.hu 实名)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
 - **Saga产品适配**：布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)
@@ -123,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees
   > CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees
   > 来源：https://www.crunchbase.com/organization/compmarket-hungary
+- **【R65 商业登记】**Cg 01-10-046934 · 2011 创 · 20M HUF 股本 · 2025 营收 13.33 亿 HUF(≈€34M) · Szabó/Tóth 两董事
+  > Net revenue: 13 332 897 800 … A vállalat jelenlegi igazgatói: Szabó Balázs, Tóth Zoltán
+  > 来源：https://www.ceginformacio.hu/cr9318296185_EN
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +160,7 @@ S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

@@ -1,0 +1,575 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 9 批（希腊/意大利/奥地利/匈牙利顾问群）",
+ "scope": "B-163 Fastnet/Marchetti / B-155 Matrix Somma / B-121 EXA Solutions / B-080 LazyBear / B-110 Engetsberger / B-127 Analytis / B-131 Giovanopoulos / B-124 DSlab",
+ "records": [
+  {
+   "code": "B-163",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团",
+    "inference": "公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)",
+    "hypothesis": "守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户"
+   },
+   "dimensions": {
+    "背景深描": "FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Responsabile Commerciale/Sales Manager;Octavio Melendres = Senior Network Engineer;2026-03 TV Centro Marche 专访 Open Fiber 战略协议;Università Politecnica delle Marche 在校谱)",
+    "芯片与在用型号": "【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)",
+    "关键人KP": "Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Sales Manager;Octavio Melendres = Senior Network Engineer",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个人顾问通道+集团内 SME 侧留意 / T:误判其雇主为分销客户(100G 级不沾)",
+    "Saga产品适配": "个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判"
+   },
+   "swot_text": "- **S**:三证工程师+DC 雇主背书\n- **W**:公司 DC 级采购不在我们谱\n- **O**:个人顾问通道+集团内 SME 侧留意\n- **T**:误判其雇主为分销客户(100G 级不沾)",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 10",
+     "quote": "Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 100Gbps…punto Enable di Namex",
+     "url": "https://www.fastnet.it/azienda/"
+    },
+    {
+     "dim": "R65 谱型+KP",
+     "text": "FASTNET S.p.A.(Gruppo Fiberwide)· Open Fiber 战略协议 2026-03 · Loretoni CEO · Marchetti Sales · Melendres NE",
+     "quote": "Filippo Loretoni (Amministratore Delegato di Fastnet), Giorgio Marchetti (Responsabile Commerciale) e Octavio Melendres (Senior Network Engineer)… accordo strategico con Open Fiber",
+     "url": "https://fiberwide.com/fastnet-protagonista-dellinnovazione-online-lo-speciale-tv-sullaccordo-strategico-con-open-fiber/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Filippo Loretoni",
+     "role": "Amministratore Delegato(首席执行官)",
+     "contact": "经 fastnet.it",
+     "status": "fiberwide.com/TV Centro Marche 报道自曝",
+     "source": "https://fiberwide.com/fastnet-protagonista-dellinnovazione-online-lo-speciale-tv-sullaccordo-strategico-con-open-fiber/"
+    },
+    {
+     "name": "Giorgio Marchetti",
+     "role": "Sales Manager/商务总监",
+     "contact": "@fastnet.it(模式提示)",
+     "status": "rocketreach 自曝+fiberwide 同源",
+     "source": "https://rocketreach.co/giorgio-marchetti-email_127258904"
+    }
+   ],
+   "unknowns56": [
+    "Giorgio 在 Fastnet 的具体角色与外部顾问活",
+    "Fiberwide 集团谱有无 SME 接入侧子牌"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户",
+     "question": "(个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户",
+     "question": "(个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-155",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Andrea Somma - Matrix Computers di Somma Andrea(Varedo MB Via Madonnina 28;**个体户 ditta individuale**,P.iva 07535620962;类目=IT 咨询+软件开发;MTCNA+MTCRE;info@/a.somma@matrixcomputers.it) | R65 深挖:单体商号 And 头;MB 地区店",
+    "inference": "一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维",
+    "hypothesis": "守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级"
+   },
+   "dimensions": {
+    "背景深描": "Matrix Computers di Somma Andrea(Via Madonnina 28, 20814 Varedo(MB);0362 287146 可查;**个体商号(ditta individuale)=业主 Andrea Somma 本人**;PagineGialle 黄页实名",
+    "芯片与在用型号": "【推断】一人个体顾问,IT 咨询+软件为主,MikroTik 双证支撑其给 SME 客户做方案/运维",
+    "关键人KP": "Andrea Somma = 个体商号业主本人(diritta individuale)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:具名直达+双证+决策一人 / W:个体户,采购量极小 / O:项目随单小批 / T:失联",
+    "Saga产品适配": "个体顾问通道:具名引见备养,小批随单机会出现时再激活"
+   },
+   "swot_text": "- **S**:具名直达+双证+决策一人\n- **W**:个体户,采购量极小\n- **O**:项目随单小批\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Matrix Computers di Somma Andrea - Via Madonnina 28 - 20814 Varedo (MB) - P.iva 07535620962",
+     "quote": "Matrix Computers di Somma Andrea - Via Madonnina 28 - 20814 Varedo (MB) - P.iva 07535620962",
+     "url": "https://www.matrixcomputers.it/privacy"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Consulenza informatica e sviluppo software",
+     "quote": "Consulenza informatica e sviluppo software",
+     "url": "https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea"
+    },
+    {
+     "dim": "R65 商号谱位",
+     "text": "Matrix Computers di Somma Andrea · Varedo MB · 0362 287146(黄页认证)",
+     "quote": "Matrix Computers di Somma Andrea si trova in Via Madonnina, 28 20814 Varedo (MB) … 0362 287146",
+     "url": "https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Andrea Somma",
+     "role": "个体业主本人",
+     "contact": "径 matrixcomputers.it / 0362 287146",
+     "status": "PagineGialle 实名",
+     "source": "https://www.paginegialle.it/varedo-mb/informatica/matrix-computers-di-somma-andrea"
+    }
+   ],
+   "unknowns56": [
+    "客户谱(SME 行业)与项目频度",
+    "现证在档状态"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级",
+     "question": "你给 SME 客户做网络方案时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话(ERPS/VLAN/CLI 语言),等他项目里出现 PoE 交换需求再提级",
+     "question": "你给 SME 客户做网络方案时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-121",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱 | R65 深挖:希腊 SME 托管 IT 集成商;KP 未按名型沈,同同名噪音已区分证",
+    "inference": "EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线",
+    "hypothesis": "开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口"
+   },
+   "dimensions": {
+    "背景深描": "EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商**:managed IT/cybersecurity/cloud/ERP/WMS integrations;FnA Company / ELMEPA 等多家 openly 宣传口碑;+30 28130 15000, info@exasolutions.gr",
+    "芯片与在用型号": "【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线",
+    "关键人KP": "George Alexander Kontaxakis(名录口径;R65 搜出同名**医疗图像研究员**/Aegean Airlines 同名——**为污染噪音,不采信**;登记方向=雅典 G.E.MI 台账)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-424 MSP 部署随单 SKU / T:MSP 厂商忠稳态",
+    "Saga产品适配": "双址 MSP 的 managed 部署随单 value PoE 档"
+   },
+   "swot_text": "- **S**:MSP 双址+云/ERP/WMS 综合+具名\n- **W**:谱杂主注无专 PoE 位\n- **O**:STC-424 MSP 部署随单 SKU\n- **T**:MSP 厂商忠稳态",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations…From Heraklion and Athens",
+     "quote": "EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations…From Heraklion and Athens",
+     "url": "https://exasolutions.gr/en/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Businesses that trust us…FnA Company…ELMEPA",
+     "quote": "Businesses that trust us…FnA Company…ELMEPA",
+     "url": "https://exasolutions.gr/en/"
+    },
+    {
+     "dim": "R65 谱位/双办",
+     "text": "Heraklion+Athens 双办;managed IT/cyber/云/ERP/WMS 一体化,ELMEPA 等专 case",
+     "quote": "EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations for businesses across Greece … Heraklion Idomeneos 5, 71202 / Athens Dorylaiou 6, 11521 / +30 28130 15000 / info@exasolutions.gr",
+     "url": "https://exasolutions.gr/en/"
+    },
+    {
+     "dim": "R65 同名噪音注",
+     "text": "Georgios Kontaxakis(Aegean Airlines 雇员 / ResearchGate 医疗图像)=同名他人,不采信",
+     "quote": "(LinkedIn / ResearchGate 2026-10-07 搜出同名画像,与 EXA Solutions 无关)",
+     "url": "(沙箱谱位核验日志)"
+    }
+   ],
+   "kp": [
+    {
+     "name": "George Alexander Kontaxakis",
+     "role": "本人=业主/顾问(名录口径)",
+     "contact": "—",
+     "status": "名录具名",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns56": [
+    "managed 部署下 PoE 接层 SKU 标准(现走哪家)",
+    "George 口其证在续否与接案密度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · MSP 标准 SKU 方案页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口",
+     "question": "你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口",
+     "question": "你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口",
+     "question": "你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi George,\n\nFrom Heraklion to Athens with managed IT, cybersecurity and WMS/ERP integrations - EXA is clearly past the single-consultant phase of its operation.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed to land as the standardized access SKU across your managed deployments.\n\nOne question: for the PoE access layer inside your managed deployments, which SKU are you standardizing on today - and would a free unit with the complete test pack earn a look?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-080",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家);技术扁平位",
+    "inference": "佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)",
+    "hypothesis": "守档备养:具名引见(无线专项语言对路)"
+   },
+   "dimensions": {
+    "背景深描": "LazyBear Kft.(7626 Pécs, Felsővámház utca 23;F.Cg 02-09-086615, Adószám 27795613-2-02, 2022-03-21 创立;**核心谱位:Németh András István = 三业主之一(与 Pista Izabella Judit ügyvezető(UUID) 并列)**;Törő Zsófia Ágnes 第三业主;303337694 总线,lazybearkft@gmail.com 自曝;tevékenység 5630 = 餐饮/宾饮属业务厚(谱型疑主业非纯 IT——MikroTik 谱挂 IT 咨询/技术博客户 lazybear.hu 侧)",
+    "芯片与在用型号": "【推断】佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)",
+    "关键人KP": "Németh András István = 业主(名录口径);Pista Izabella Judit = ügyvezető(法定代表人);Törő Zsófia Ágnes 第三业主",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:四证+公司域+具名 / W:小谱 / O:无线/IPv6 项目随单 / T:失联",
+    "Saga产品适配": "Pécs 四证顾问备养(无线专项):具名通道"
+   },
+   "swot_text": "- **S**:四证+公司域+具名\n- **W**:小谱\n- **O**:无线/IPv6 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E;lazybear.hu 公司域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E;lazybear.hu 公司域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "LazyBear Kft · Pécs 2022-03 创 · Cg 02-09-086615 · Pista Izabella Judit ügyvezető + Németh András István+Törő Zsófia Ágnes 三业主",
+     "quote": "Lazybear Kft. amely a Felsővámház utca 23., 7626, Pécs … 2022. 03. 21. … Ügyvezető: Pista Izabella Judit … Tulajdonos: Németh András István, Törő Zsófia Ágnes",
+     "url": "https://www.companywall.hu/v%C3%A1llalat/lazybear-kft/MMHKiQlR"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Pista Izabella Judit",
+     "role": "Ügyvezető(法定代表人)",
+     "contact": "lazybearkft@gmail.com(gmail 自曝)",
+     "status": "companywall.hu 实名",
+     "source": "https://www.companywall.hu/v%C3%A1llalat/lazybear-kft/MMHKiQlR"
+    },
+    {
+     "name": "Németh András István",
+     "role": "业主(名录口径,技术本体)",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同 companywall.hu"
+    }
+   ],
+   "unknowns56": [
+    "LazyBear 业务面与团队",
+    "Pécs 客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(无线专项语言对路)",
+     "question": "你在 Pécs 做无线/网络项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(无线专项语言对路)",
+     "question": "你在 Pécs 做无线/网络项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-110",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Gunther Engetsberger(Oberndorf 奥地利萨尔茨堡圈;sei-ned.org 域;MTCNA+MTCWE+MTCTCE;office@sei-ned.org) | R65 深挖:市政 IT 权威度=奥地利中部政企 IT 权威位;20 年我是年口",
+    "inference": "萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项",
+    "hypothesis": "守档备养:具名引见(无线专项)"
+   },
+   "dimensions": {
+    "背景深描": "Gunther Engetsberger(Stadtgemeinde Oberndorf bei Salzburg 市公局 **Leiter IT(IT 主管)**,兼 Radiofabrik Salzburg 2023 董事会成员;1999-2020 年 20+ 年 Jugendzentrum 技术志愿;BHAK Oberndorf bei Salzburg 培养;sei-ned.org (SEI/KNX 智装能野) 关联域;个体 MikroTik 顾问/培训师血统=市政 IT 权威位",
+    "芯片与在用型号": "【推断】萨尔茨堡圈顾问(sei-ned.org 域百年老树型);MTCWE+MTCTCE 无线/流控专项",
+    "关键人KP": "Gunther Engetsberger = Stadt Oberndorf Leiter IT(日报绍尔兹奥地利中部政企 IT 位;LinkedIn+gov 双源)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE ",
+    "优缺点SWOT": "S:三证+无线专项 / W:足迹薄 / O:萨尔茨堡圈 SME 随单 / T:失联",
+    "Saga产品适配": "萨尔茨堡圈顾问备养:具名通道"
+   },
+   "swot_text": "- **S**:三证+无线专项\n- **W**:足迹薄\n- **O**:萨尔茨堡圈 SME 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE;sei-ned.org 域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCTCE;sei-ned.org 域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 实名/职位",
+     "text": "Gunther Engetsberger = Stadtgemeinde Oberndorf Leiter IT(市政 IT)· Radiofabrik 董事会成员 2023",
+     "quote": "Gunther Engetsberger (Leiter IT) … Board: Susanne Imhof … Gunther Engetsberger [Radiofabrik 2023]",
+     "url": "https://www.oberndorf.salzburg.at/Stadtamtsleitung"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Gunther Engetsberger",
+     "role": "Leiter IT(市公局 IT 主管)",
+     "contact": "经 oberndorf.salzburg.at 市政办公 / LinkedIn",
+     "status": "oberndorf.salzburg.at 市政职员页+LinkedIn 双源",
+     "source": "https://www.oberndorf.salzburg.at/Stadtamtsleitung"
+    }
+   ],
+   "unknowns56": [
+    "sei-ned.org 业务面",
+    "活跃与谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(无线专项)",
+     "question": "你在萨尔茨堡圈做无线项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(无线专项)",
+     "question": "你在萨尔茨堡圈做无线项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-127",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | R65 深挖:搜索无果,守档准由",
+    "inference": "典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港",
+    "hypothesis": "开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层"
+   },
+   "dimensions": {
+    "背景深描": "Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问)",
+    "芯片与在用型号": "【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港",
+    "关键人KP": "—(R65 询问无果,守档准由)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424 安防部署刚性随单位 / T:岛物流/利运面",
+    "Saga产品适配": "岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘"
+   },
+   "swot_text": "- **S**:岛本地独有店+安防血统\n- **W**:单个店面、大项目即失\n- **O**:STC-424 安防部署刚性随单位\n- **T**:岛物流/利运面",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Αλφα Τεχ…Επισκευές Ηλεκτρονικών Υπολογιστών, Λοιπά…Αργοστόλι Κεφαλλονιά",
+     "quote": "Αλφα Τεχ…Επισκευές Ηλεκτρονικών Υπολογιστών, Λοιπά…Αργοστόλι Κεφαλλονιά",
+     "url": "https://kefallonia.topodigos.gr/el/pelates/alfa-tech-analytis-pan-konstantinos"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά",
+     "quote": "Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά",
+     "url": "https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "alfa-tech.gr 本体无公开沟他件;守档准由",
+     "quote": "(web_search 2026-10-07:无有效结果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Konstantinos Analytis",
+     "role": "本人=业主/顾问(名录口径)",
+     "contact": "—",
+     "status": "名录具名",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns56": [
+    "CCTV 部署形 PoE 库企业进形",
+    "码头/旅游活景中 PoE 布网密度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 安防部署 PoE 随单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层",
+     "question": "你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层",
+     "question": "你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层",
+     "question": "你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi AlfaTech team,\n\nIT support, office systems, telecom, and full security-system installations (CCTV, alarms, fire, access control) across the whole island of Kefalonia - that's the full small-region solutions provider setup.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the access layer that sits inside your CCTV and security system deployments.\n\nOne question: for your CCTV and security system deployments across the island, which PoE access switch are you standardizing on today - and would a documented sample unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-131",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Nikolaos Giovanopoulos(希腊 Athens;CSV 载 MTCNA+MTCSE);公足迹未查到具名人——ien.gr 未接连 | R65 深挖:同名 HSE 保但不能证=守档准由",
+    "inference": "雅典个体顾问零足迹",
+    "hypothesis": "守档:具名引见+mikrotik.com 顾问名录核证再定"
+   },
+   "dimensions": {
+    "背景深描": "Nikolaos Giovanopoulos(Edessa, Central Macedonia;ien.gr 无公开相关条;**LinkedIn 同名画像存在但职业=机械工程师/HSE Consultant(21 年 Edessa)与 Mic 谱本体不完全同款**——同名人保不能保证,守档准由",
+    "芯片与在用型号": "【推断】雅典个体顾问零足迹",
+    "关键人KP": "—(同名 LinkedIn 机械工程师/HSE 或同谱,不保确;R65 守档准由)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:双证 / W:零足迹 / O:待定 / T:失联",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:双证\n- **W**:零足迹\n- **O**:待定\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCSE",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 同名混淆注",
+     "text": "LinkedIn「Nikolaos Giovanopoulos Mechanical Engineer/HSE, Imperial College」同名画像与 ien.gr 不联;不采信",
+     "quote": "(LinkedIn 搜索 2026-10-07:同名 HSE consultant,与 ien.gr / MikroTik 无关联证据)",
+     "url": "(沙箱核验日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "mikrotik.com 顾问名录核证",
+    "雅典具名 LinkedIn 足迹"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见+mikrotik.com 顾问名录核证再定",
+     "question": "雅典双证口全案型中 PoE 接家现走哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-124",
+   "researched_on": "2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | R65 深挖:同名多问占画，守档准由",
+    "inference": "「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边",
+    "hypothesis": "开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)"
+   },
+   "dimensions": {
+    "背景深描": "Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由)",
+    "芯片与在用型号": "【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边",
+    "关键人KP": "—(多同名画像但均职业不同=不采信守档准由)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE+MTCEWE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG 入区域店修小案样本 / T:店货流采本给品牌谱变",
+    "Saga产品适配": "克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)"
+   },
+   "swot_text": "- **S**:店+顾问综合+多证\n- **W**:店面他小案谱不复合 PoE最决\n- **O**:STC-28DG 入区域店修小案样本\n- **T**:店货流采本给品牌谱变",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Πωλήσεις και υποστήριξη υπολογιστών & δικτύων, μηχανογράφηση επιχειρήσεων, κινητά-tablets-Συνδέσεις internet & WiFi",
+     "quote": "Πωλήσεις και υποστήριξη υπολογιστών & δικτύων, μηχανογράφηση επιχειρήσεων, κινητά-tablets-Συνδέσεις internet & WiFi",
+     "url": "https://www.facebook.com/dslab.gr/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 同名注",
+     "text": "「Georgios Papageorgiou」多重同名者(KMicro/爱琴海/MIT)；与 dslab.gr 无关联；不采信",
+     "quote": "(LinkedIn 搜索 2026-10-07：三处同名画像，皆与 DSlab 不联)",
+     "url": "(沙箱核验日志)"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Georgios Papageorgiou",
+     "role": "本人=业主/顾问(名录口径)",
+     "contact": "—",
+     "status": "名录具名",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns56": [
+    "多证续证现状(mikrotik.com 名录)",
+    "克里特区域案密度与 PoE 部署形"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 小案随单页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)",
+     "question": "你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)",
+     "question": "你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)",
+     "question": "你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Georgios,\n\nDSlab in Chania with a multi-certificate MikroTik credential stack behind it - your small-shop clients across Crete need dependable small deployments more than they need twenty-four ports.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - sized for exactly the small-shop LAN point where you locally support your region.\n\nOne question: for the small clients you support around Chania, which compact PoE switch lands in your typical deployment today - and would a documented sample unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

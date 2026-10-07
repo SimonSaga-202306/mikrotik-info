@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-30…
+- **是谁**：AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;** | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU/300+ 世界品牌/1,000+ 零售伙伴网络;atcmarket.cz = 其纯 B2B 市场平台(不直售终端,全部 resale 通过 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口)
+- 【事实】AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口) | R65 深挖:平台型分销大 65000 SKU;MikroTik 商口由 web 册内挂着,PO 口位置价值
 - 【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策
 - 【假设】开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓
 
@@ -109,11 +109,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口)
+- **背景深描**：AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU/300+ 世界品牌/1,000+ 零售伙伴网络;atcmarket.cz = 其纯 B2B 市场平台(不直售终端,全部 resale 通过 reseller);TOUCHIT 项目学生;下面有些话是平台型分销与谱商接口最能通)
 - **芯片与在用型号**：【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策
-- **关键人KP**：—
+- **关键人KP**：—(零售平台层大分销,jednatel/董事需到 or.justice.cz/商业登记查询本,IČO 61672599 挂牌)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:集团架 value PoE stocking SKU / T:集团集采门槛
 - **Saga产品适配**：中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)
@@ -126,6 +126,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek
   > Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek
   > 来源：https://ifirmy.cz/firma/005422-at-computers-as
+- **【R65 平台谱型坐实】**AT Computers a.s.=捷克 ICT 大分销,atcmarket.cz 纯 B2B 市场,65000+ SKU ≈ 300 大谱/大卖家网络,不直售终 user,全部 resale 过 reseller;IČO 616 72 599 发票地 Slezská Ostrava
+  > AT Computers, Slezská Ostrava … Distribuční společnost nabízející ICT zařízení … Databáze produktů obsahuje více jak 65 000 různých položek zboží od 300 největších světových i domácích značek … ATC nikdy neprodává koncovým zákazníkům napřímo
+  > 来源：https://www.hwforum.cz/novinky/projekt-www.atcmarket-cz-od-AT-Computers.html
 
 ## 产品决策（Saga · 单一决策口径）
 

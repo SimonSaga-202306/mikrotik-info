@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@…
+- **是谁**：LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 8…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 老牌 IT 批发的商用 PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + D | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr)
+- 【事实】LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构
 - 【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
 - 【假设】开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + Denis Dizdarević = 双业主双董事**,Fina Info/Kompass 两源实名)
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Stipe Lozušić | Vlasnik & Direktor(业主/董事) | lost@lost.hr / 013697640 | fininfo.hr + companywall.hr 双源实名 | https://www.fininfo.hr/Poduzece/Pregled/lost/Detaljno/20723 |
+| Denis Dizdarević | Vlasnik & Direktor(业主/董事) | 同上 | 同源 | 同 fininfo.hr |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr)
+- **背景深描**：LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + Denis Dizdarević = 双业主双董事**,Fina Info/Kompass 两源实名)
 - **芯片与在用型号**：【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
-- **关键人KP**：—
+- **关键人KP**：Stipe Lozušić + Denis Dizdarević = 双业主双董事(fininfo.hr/companywall 双源)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档好切 / T:既成谱系换牌惰性
 - **Saga产品适配**：老牌 IT 批发的商用 PoE 管理档
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila
   > WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila
   > 来源：https://x.com/lostdoo
+- **【R65 商业登记】**OIB 89984971143 · 1994 创立 · Stipe Lozušić+Denis Dizdarević 双业主双董事 · 20-49 员工
+  > LOST, d.o.o. registrirano je na adresi Ulica Kreše Golika 7, 10000, Zagreb … posluje od 30.12.1994 … Stipe Lozušić, Denis Dizdarević
+  > 来源：https://www.companywall.hr/tvrtka/lost-doo/MM13qecC
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

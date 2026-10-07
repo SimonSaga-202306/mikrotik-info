@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybe…
+- **是谁**：MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange…
 - **商业模式**：工程/项目集成
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 工程/项目集成 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ activ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange/Untangle/Sonicwall/VMware 支持+270+ LOB 应用;Kailash Chakravarti = Presid | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持
+- 【事实】MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持 | R64 并入:Kailash Chakravarti = President;Sayyed Fazal = Business Deve
 - 【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线
 - 【假设】SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持
+- **背景深描**：MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange/Untangle/Sonicwall/VMware 支持+270+ LOB 应用;Kailash Chakravarti = President(zoominfo 确认),@mtktechnologies.com 模式(库内 CSV mtk-tech.com 域名需核正)
 - **芯片与在用型号**：【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Kailash Chakravarti = President;Sayyed Fazal = Business Development Manager(Dover DE)
 - **关注点与资质**：MikroTik + Ubiquiti（另用 Cisco/Fortinet/Ruckus 等） | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-424 为 managed 标准接入 SKU / T:RMA 反应度是决因
 - **Saga产品适配**：SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单
@@ -128,6 +128,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest
   > 1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest
   > 来源：https://mtk-tech.com/
+- **【R64 董事实名】**Kailash Chakravarti President @ MTK Technologies(zoominfo 未锁版; k***@mtktechnologies.com 模式提示=president 域)
+  > Kailash Chakravarti's role at MTK Technologies is President … k***@mtktechnologies.com
+  > 来源：https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706
+- **【R64 域核正】**CSV 网站=mtk-tech.com(简缩);实际职能域疑为 mtktechnologies.com(全员邮箱长域),需核 XML
+  > MTK Technologies, Inc. is a small, locally owned IT consulting firm based in Champaign, Illinois … since 1996 … Microsoft network support
+  > 来源：https://www.zoominfo.com/c/mtk-technologies-inc/346288944
 
 ## 产品决策（Saga · 单一决策口径）
 

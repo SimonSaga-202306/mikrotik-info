@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechni…
+- **是谁**：Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：有信号（影响力/渠道）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janz | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte MikroTik-Partner / Trainer und Consultants」+ 安防 KNX 双向**;info@janzen- | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线)
+- 【事实】Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线) | R65 深挖:KNX+MikroTik 双线;培训师 Consultant 未名=守档准由待定
 - 【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能
 - 【假设】开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线)
+- **背景深描**：Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte MikroTik-Partner / Trainer und Consultants」+ 安防 KNX 双向**;info@janzen-group.com 公开;Janzen Academy 培训子项目在架
 - **芯片与在用型号**：【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能
-- **关键人KP**：—
+- **关键人KP**：—(未自曝业主/KP 实名;守档准由)
 - **关注点与资质**：MikroTik 培训伙伴，开课/持证 MikroTik 认证顾问与讲师（具体科目未列） 
 - **优缺点SWOT**：S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量小 / O:教具样本+KNX 项目随单双线 / T:师者红线
 - **Saga产品适配**：培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述
   > Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述
   > 来源：https://www.janzen-group.com/(R49
+- **【R65 官网自曝】**德国 Hamburger MikroTik Support+KNX+安防+AV 一体化;认证 MikroTik Partner 口径;Janzen Academy 培训线
+  > Die Janzen Group steht Ihnen als kompetenter Partner für MikroTik Support zur Seite. Unsere zertifizierten Trainer und Consultants … info@janzen-group.com
+  > 来源：https://www.janzen-group.com/leistungen/mikrotik-support/
 
 ## 产品决策（Saga · 单一决策口径）
 

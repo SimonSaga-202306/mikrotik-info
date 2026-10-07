@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名…
+- **是谁**：ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财报 €87,915,037 营收/€1.76M 净利(fatturatoitalia)**——ALLNET 集团意大利巨站;amminist | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战略联盟
+- 【事实】Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战略联盟 | R65 深挖:€88M 意大利大站;同业守档谱维持
 - 【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)
 - 【假设】开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书
 
@@ -110,11 +110,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战
+- **背景深描**：ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财报 €87,915,037 营收/€1.76M 净利(fatturatoitalia)**——ALLNET 集团意大利巨站;amministrazione@allnet-italia.it,051-0547710;Confindustria Emilia 会员;5G/AV/Cloud 谱向
 - **芯片与在用型号**：【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)
-- **关键人KP**：—
+- **关键人KP**：—(S.p.A. amministratore 收费墙;谱与 B-138 Bauer 同家长径,B-115 希腊同谱;集团联动口径)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周期或长 / O:STC-424 作 scouting 新 vendor 直对口 / T:集团自牌谱边界需辨(总部 ALLNET brand)
 - **Saga产品适配**：scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动
@@ -130,6 +130,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati
   > opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati
   > 来源：https://802service.com/chi-siamo/
+- **【R65 财务+地址】**ALLNET.ITALIA S.p.A. · P.IVA 00884761206 · 2024 €87.9M 营收 €1.76M 净利 · Casalecchio di Reno BO · Confindustria 会员
+  > Allnet.italia Spa: fatturato 87.915.037 €, utile 1.762.069 € (2024). P.IVA 00884761206 … Via Renato Fucini, 2 40033 Casalecchio di Reno
+  > 来源：https://www.fatturatoitalia.it/allnetitalia-spa-00884761206
+- **【R65 渠道】**amministrazione@allnet-italia.it + 051 0547710 公开;Confindustria Emilia 会通员与 Smartwords 5G/AV/Cloud 谱
+  > amministrazione@allnet-italia.it … 051 0547710 … 5G, Audio-video solutions, Cloud
+  > 来源：https://www.confindustriaemilia.it/flex/FixedPages/Common/associati.php/L/EN/id/fd02d3c0-c6aa-e811-814b-5065f38b9571
 
 ## 产品决策（Saga · 单一决策口径）
 

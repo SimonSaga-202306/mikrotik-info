@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,30…
+- **是谁**：ACC Distribution UAB(Kaunas Raudondvario pl. 131B;公司码 135150085,VAT LT351500811;1998 注册=28 年;股本 €691,856.20;AC…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波罗的海巨头集团架的 value stocking PoE SKU；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 202 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ACC Distribution UAB(Kaunas Raudondvario pl. 131B;公司码 135150085,VAT LT351500811;1998 注册=28 年;股本 €691,856.20;ACME Grupė 全资(Stepas Telešius/Tomas Palšis/Stede W. Ingram 各 29.16%);202 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt)
+- 【事实】ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt) | R64 并入:Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Reg
 - 【推断】€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈
 - 【假设】开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt)
+- ACC Distribution UAB(Kaunas Raudondvario pl. 131B;公司码 135150085,VAT LT351500811;1998 注册=28 年;股本 €691,856.20;ACME Grupė 全资(Stepas Telešius/Tomas Palšis/Stede W. Ingram 各 29.16%);2025 营收 €394.49M/净利 €5.75M;300+ 供应商/20,000+ SKU/7 公司(LT/LV/EE)/200+ 员工;CONTEXT ChannelWatch 2022 四奖立陶宛分销/网络安全伙伴/客服/物流;+370 37 333933 / +370 682 11646)
 
 ## 联系方式（已有/猜测分标）
 
@@ -112,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt)
+- **背景深描**：ACC Distribution UAB(Kaunas Raudondvario pl. 131B;公司码 135150085,VAT LT351500811;1998 注册=28 年;股本 €691,856.20;ACME Grupė 全资(Stepas Telešius/Tomas Palšis/Stede W. Ingram 各 29.16%);2025 营收 €394.49M/净利 €5.75M;300+ 供应商/20,000+ SKU/7 公司(LT/LV/EE)/200+ 员工;CONTEXT ChannelWatch 2022 四奖立陶宛分销/网络安全伙伴/客服/物流;+370 37 333933 / +370 682 11646)
 - **芯片与在用型号**：【推断】€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Regimantas Buožius = 董事会主席(1998 创始人,现主战略);
 - **关注点与资质**：MikroTik（Master+VAD） | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:€394M 集团+三国七点+物流奖 / W:大谱动线慢,新品上架周期 / O:一条 SKU 三国放量 / T:谱内既有大牌(IT 全线)挡门
 - **Saga产品适配**：波罗的海巨头集团架的 value stocking PoE SKU
@@ -129,6 +129,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … ove
   > ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … over 200 team members
   > 来源：https://accdistribution.eu/news/acc-distribution-was-recognized-with-four-awards/
+- **【R64 商业登记】**Žymantas Baušys Direktorius 2017-07-05 起(okredo.lt);公司码 135150085
+  > Žymantas Baušys, Direktorius | Įstatinis kapitalas 691 856,20 EUR | Kaunas, Raudondvario pl. 131B
+  > 来源：https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085
+- **【R64 集团与换帅】**ACME Grupė 全资;Buožius(创始人)退居董事长,Baušys 升董事 2017
+  > Nuo šių metų liepos … direktoriaus pareigas eis Žymantas Baušys … UAB „ACME Grupė" akcijas dengia Stepas Telešius, Tomas Palšis ir Stede W. Ingramas
+  > 来源：https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu
 
 ## 产品决策（Saga · 单一决策口径）
 

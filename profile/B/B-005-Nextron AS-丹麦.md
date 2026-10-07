@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidi…
+- **是谁**：Nextron AS/ApS(丹麦分部:Fuglevangsvej 13, 1962 Frederiksberg C;CVR 38306979,2016-12-29 注册;7 员工 DKK 10.7M 毛利/25.21%…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4  | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Nextron AS/ApS(丹麦分部:Fuglevangsvej 13, 1962 Frederiksberg C;CVR 38306979,2016-12-29 注册;7 员工 DKK 10.7M 毛利/25.21% 利润比;挪威母 Nextron AS(2000 创,~65 人,$5.5M+,Oslo 总+4 北欧办);Supermicro 组件组装商 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂**
+- 【事实】Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂** | R64 并入:丹麦分部:Håkon Aleksander Børstad Gutierrez = Direktør;Carl Henr
 - 【推断】定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口
 - 【假设】开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Nextron AS/ApS(丹麦分部:Fuglevangsvej 13, 1962 Frederiksberg C;CVR 38306979,2016-12-29 注册;7 员工 DKK 10.7M 毛利/25.21% 利润比;挪威母 Nextron AS(2000 创,~65 人,$5.5M+,Oslo 总+4 北欧办);Supermicro 组件组装商,Nvidia PNY EDU 北欧独家,液冷 AI DC 方向;挪威 MikroTik Master 挂(非主业=机柜配套)
 
 ## 联系方式（已有/猜测分标）
 
@@ -113,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂**
+- **背景深描**：Nextron AS/ApS(丹麦分部:Fuglevangsvej 13, 1962 Frederiksberg C;CVR 38306979,2016-12-29 注册;7 员工 DKK 10.7M 毛利/25.21% 利润比;挪威母 Nextron AS(2000 创,~65 人,$5.5M+,Oslo 总+4 北欧办);Supermicro 组件组装商,Nvidia PNY EDU 北欧独家,液冷 AI DC 方向;挪威 MikroTik Master 挂(非主业=机柜配套)
 - **芯片与在用型号**：【推断】定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：丹麦分部:Håkon Aleksander Børstad Gutierrez = Direktør;Carl Henrik Sibbern = Bestyrelsesformand;Geir Elstad/Kim Nicolai Strømsborg 董事;mail 函数=info@nextron.dk
 - **关注点与资质**：MikroTik（Reseller） | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:25 年定制服务器+北欧四点+Nvidia 独家 / W:网络非主业 / O:机柜打包随单 PoE+Embedded 板块二线 / T:Supermicro 谱内锁
 - **Saga产品适配**：北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)
@@ -133,6 +133,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers
   > As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers
   > 来源：https://www.zoominfo.com/c/nextron/433791882
+- **【R64 商业登记】**CVR 38306979 · 2016 注册 · 7 员工 · DKK 10.7M 毛利 · 董事 Gutierrez/Sibbern/Elstad/Strømsborg 全实名
+  > Nextron ApS … CVR 38306979 … Direktør Håkon Aleksander Børstad Gutierrez … Bruttofortjeneste 10 687 tkr … Antal ansatte 7
+  > 来源：https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY
+- **【R64 集团谱】**挪威母 Nextron AS(2000,65 人,4 北欧办)=真正体量;丹麦分部是分销窗口
+  > Nextron builds and sells custom servers … offices in Oslo, Stockholm, Copenhagen and Helsinki
+  > 来源：https://gh.linkedin.com/company/nextron
 
 ## 产品决策（Saga · 单一决策口径）
 

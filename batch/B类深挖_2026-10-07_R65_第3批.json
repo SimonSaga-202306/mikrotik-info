@@ -1,0 +1,588 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 3 批(R64 KP 战果并入层)",
+ "scope": "B-005 Nextron / B-106 MS Electronics / B-307 ACC Distribution / B-320 TELESYSTEM / B-352 IEI USA / B-436 Qtopia / B-512 MTK",
+ "discipline": "与 R64 guessed-leads-only 纪律一致;R53 集团墙对 B-352 维持;不改评级不出信",
+ "records": [
+  {
+   "code": "B-005",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Nextron AS/ApS(丹麦 Vanløse Herlufsholmvej 37;2000 创,~65 人,$5.5M+;**北欧定制服务器/存储/工作站制造商**(Supermicro 组件组装)**:Nvidia PNY EDU Champions 北欧独家、Microsoft Device Partner、Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂** | R64 并入:丹麦分部:Håkon Aleksander Børstad Gutierrez = Direktør;Carl Henr",
+    "inference": "定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口",
+    "hypothesis": "开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线"
+   },
+   "dimensions": {
+    "背景深描": "Nextron AS/ApS(丹麦分部:Fuglevangsvej 13, 1962 Frederiksberg C;CVR 38306979,2016-12-29 注册;7 员工 DKK 10.7M 毛利/25.21% 利润比;挪威母 Nextron AS(2000 创,~65 人,$5.5M+,Oslo 总+4 北欧办);Supermicro 组件组装商,Nvidia PNY EDU 北欧独家,液冷 AI DC 方向;挪威 MikroTik Master 挂(非主业=机柜配套)",
+    "芯片与在用型号": "【推断】定制服务器制造商血统:网络件随其服务器/工作站方案打包时机柜配套;MikroTik Master 挂在挪威侧=北欧谱真实但非主业;Industry/Embedded IoT 板块是 STI 二口",
+    "关键人KP": "丹麦分部:Håkon Aleksander Børstad Gutierrez = Direktør;Carl Henrik Sibbern = Bestyrelsesformand;Geir Elstad/Kim Nicolai Strømsborg 董事;mail 函数=info@nextron.dk",
+    "关注点与资质": "MikroTik（Reseller） | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:25 年定制服务器+北欧四点+Nvidia 独家 / W:网络非主业 / O:机柜打包随单 PoE+Embedded 板块二线 / T:Supermicro 谱内锁",
+    "Saga产品适配": "北欧定制服务器商的机柜方案打包 PoE 随单位(Embedded/Industry 板块 STI 二线留 NOTE)"
+   },
+   "swot_text": "- **S**:25 年定制服务器+北欧四点+Nvidia 独家\n- **W**:网络非主业\n- **O**:机柜打包随单 PoE+Embedded 板块二线\n- **T**:Supermicro 谱内锁",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Nextron builds and sells custom servers, storage systems and workstations…distributor of SuperMicro…offices in Oslo, Stockholm, Copenhagen a",
+     "quote": "Nextron builds and sells custom servers, storage systems and workstations…distributor of SuperMicro…offices in Oslo, Stockholm, Copenhagen and Helsinki",
+     "url": "https://gh.linkedin.com/company/nextron"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Servers, AI, HPC, Virtualization, Supermicro, Nvidia…Storage, Embedded IoT, Industry",
+     "quote": "Servers, AI, HPC, Virtualization, Supermicro, Nvidia…Storage, Embedded IoT, Industry",
+     "url": "https://www.nextron.dk/solutions"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers",
+     "quote": "As a master distributor of MikroTik products in Norway, Nextron also focuses on…liquid-cooled AI data centers",
+     "url": "https://www.zoominfo.com/c/nextron/433791882"
+    },
+    {
+     "dim": "R64 商业登记",
+     "text": "CVR 38306979 · 2016 注册 · 7 员工 · DKK 10.7M 毛利 · 董事 Gutierrez/Sibbern/Elstad/Strømsborg 全实名",
+     "quote": "Nextron ApS … CVR 38306979 … Direktør Håkon Aleksander Børstad Gutierrez … Bruttofortjeneste 10 687 tkr … Antal ansatte 7",
+     "url": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY"
+    },
+    {
+     "dim": "R64 集团谱",
+     "text": "挪威母 Nextron AS(2000,65 人,4 北欧办)=真正体量;丹麦分部是分销窗口",
+     "quote": "Nextron builds and sells custom servers … offices in Oslo, Stockholm, Copenhagen and Helsinki",
+     "url": "https://gh.linkedin.com/company/nextron"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Håkon Børstad Gutierrez",
+     "role": "Direktør(丹麦分部主任)",
+     "contact": "hakon@nextron.dk",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommuni"
+    },
+    {
+     "name": "Carl Henrik Sibbern",
+     "role": "Bestyrelsesformand(董事长)",
+     "contact": "carl henrik@nextron.dk",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "同源"
+    }
+   ],
+   "unknowns56": [
+    "机柜方案打包时网络件随单方式(自购 or 推荐单)",
+    "Embedded/Industry 板块 PoE 谱深"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 机柜打包随单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线",
+     "question": "你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@nextron.dk 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线",
+     "question": "你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「服务器机柜方案打包的 PoE 接入随单位」:STC-424 随其 AI/HPC 机柜方案的网络配套;NOTE 留 Embedded/Industry 板块 STI 二线",
+     "question": "你们 AI/HPC 机柜打包里,网络接入 PoE 交换随哪家供?Embedded 板块工业件呢?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Nextron team,\n\nCustom Supermicro builds, the NVIDIA PNY EDU Champions exclusivity for the Nordics, and liquid-cooled AI datacenter projects - your racks ship with compute dialed to perfection, and every rack still needs the PoE access layer beside it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) plus DIN-rail industrial models, with full English documentation, white-label friendly.\n\nOne question: when your server and workstation racks ship to Nordic customers, which PoE access switch rides along for the network side - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-106",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位) | R64 并入:Panicos Michael = Managing Director;Pieris Michael = Product",
+    "inference": "AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅",
+    "hypothesis": "开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话"
+   },
+   "dimensions": {
+    "背景深描": "MS Electronics Ltd(7 Spyrou Kyprianou, Linopetra, Limassol 4103;1992 塞浦路斯消费 AV+电子大分销;50+ 品牌官方,800+ dealer 网络;11 员工;IT&Networking 为子类目,Security/Mobile/Solar 并列;R64 KV 对上:名录 pieris@mstronics.com = Pieris Michael Product Manager Networking&IT(2016 至今))",
+    "芯片与在用型号": "【推断】AV 主导的大分销体,IT&Networking 为子类目(散件为主),Security 类目在架上但 PoE 交换机档位浅",
+    "关键人KP": "Panicos Michael = Managing Director;Pieris Michael = Product Manager Networking&IT(2016-);Michalis Pavlou = Sales Director;Theodoros Theodorou = Product Manager(Nicosia)",
+    "关注点与资质": "MikroTik（Reseller） | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:50+ 牌 800 dealer 大网 / W:网通二级类目 / O:类目升级=管理型 PoE 入架 / T:AV 主导,网通预算薄",
+    "Saga产品适配": "消费大分销 Networking 类目的管理型 PoE 升级档"
+   },
+   "swot_text": "- **S**:50+ 牌 800 dealer 大网\n- **W**:网通二级类目\n- **O**:类目升级=管理型 PoE 入架\n- **T**:AV 主导,网通预算薄",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "an extensive network of over 800 dealers across Cyprus … official distributor for more than 50 renowned brands … IT & Networking, Security, ",
+     "quote": "an extensive network of over 800 dealers across Cyprus … official distributor for more than 50 renowned brands … IT & Networking, Security, Mobile Accessories, and Solar Power",
+     "url": "https://brandfetch.com/mstronics.com"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus",
+     "quote": "MS Electronics was found in 1992 in Limassol, Cyprus … leading distributor of quality satellite and electronic products in Cyprus",
+     "url": "https://www.cyprusnet.com/ms-electronics"
+    },
+    {
+     "dim": "R64 实名层",
+     "text": "Panicos Michael MD(网络层母公司 Miche);Pieris Michael 产品线 KP(网络对口);Michalis Pavlou 销市总监",
+     "quote": "Panicos Michael is the Managing Director of MS Electronics Ltd … Pieris Michael Product Manager Networking and IT 2016 - now",
+     "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323"
+    },
+    {
+     "dim": "R64 PRODUKT 对口",
+     "text": "Pieris Michael 公司域失联……已证为库内 pieris@mstronics.com 名录联系人(历史既有,无需再猜)",
+     "quote": "Pieris Michael … has 3 emails: @hotmail.com @icloud.com @mstronics.com",
+     "url": "https://rocketreach.co/pieris-michael-email_102832452"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Panicos Michael",
+     "role": "Managing Director",
+     "contact": "panicos@mstronics.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323"
+    },
+    {
+     "name": "Michalis Pavlou",
+     "role": "Sales Director",
+     "contact": "michalis@mstronics.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "同源"
+    }
+   ],
+   "unknowns56": [
+    "Networking 类目现存档位",
+    "Security 谱相机牌"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 类目升级谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话",
+     "question": "你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · pieris@mstronics.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话",
+     "question": "你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「大分销 Networking 类目升级」:STC-424 以 24 口管理 PoE 升其类目(Active PoE 类目升级逻辑),Security 相机谱为侧话",
+     "question": "你们的 IT&Networking 类目里,管理型 PoE 交换机档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Panicos,\n\nFifty brands and an 800-dealer network across Cyprus - your IT & Networking category sits next to a strong AV business, and a managed PoE switch line is exactly the kind of documented, high-rotation product that upgrades such a category.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit to upgrade your networking shelf, white-label friendly.\n\nOne question: in your IT & Networking line-up, whose managed PoE switch fills the 24-port slot today - and is there room for a value unit beside it?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-307",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt) | R64 并入:Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Reg",
+    "inference": "€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈",
+    "hypothesis": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动"
+   },
+   "dimensions": {
+    "背景深描": "ACC Distribution UAB(Kaunas Raudondvario pl. 131B;公司码 135150085,VAT LT351500811;1998 注册=28 年;股本 €691,856.20;ACME Grupė 全资(Stepas Telešius/Tomas Palšis/Stede W. Ingram 各 29.16%);2025 营收 €394.49M/净利 €5.75M;300+ 供应商/20,000+ SKU/7 公司(LT/LV/EE)/200+ 员工;CONTEXT ChannelWatch 2022 四奖立陶宛分销/网络安全伙伴/客服/物流;+370 37 333933 / +370 682 11646)",
+    "芯片与在用型号": "【推断】€0.4B 级波罗的海巨头:集团级 stocking 谱与物流奖证明铺货能力;新开 vendor 用「千万级 reseller 触达」直接谈",
+    "关键人KP": "Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Regimantas Buožius = 董事会主席(1998 创始人,现主战略);",
+    "关注点与资质": "MikroTik（Master+VAD） | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:€394M 集团+三国七点+物流奖 / W:大谱动线慢,新品上架周期 / O:一条 SKU 三国放量 / T:谱内既有大牌(IT 全线)挡门",
+    "Saga产品适配": "波罗的海巨头集团架的 value stocking PoE SKU"
+   },
+   "swot_text": "- **S**:€394M 集团+三国七点+物流奖\n- **W**:大谱动线慢,新品上架周期\n- **O**:一条 SKU 三国放量\n- **T**:谱内既有大牌(IT 全线)挡门",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "In 2025, ACC Distribution generated revenue of €394.49M and net profit of €5.75M … Kaunas, Raudondvario pl. 131B",
+     "quote": "In 2025, ACC Distribution generated revenue of €394.49M and net profit of €5.75M … Kaunas, Raudondvario pl. 131B",
+     "url": "https://scoris.lt/en/imone/135150085"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … ove",
+     "quote": "ACC Distribution, an ACME Grupė company, represents more than 200 suppliers … consists of 7 companies in Lithuania, Latvia and Estonia … over 200 team members",
+     "url": "https://accdistribution.eu/news/acc-distribution-was-recognized-with-four-awards/"
+    },
+    {
+     "dim": "R64 商业登记",
+     "text": "Žymantas Baušys Direktorius 2017-07-05 起(okredo.lt);公司码 135150085",
+     "quote": "Žymantas Baušys, Direktorius | Įstatinis kapitalas 691 856,20 EUR | Kaunas, Raudondvario pl. 131B",
+     "url": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085"
+    },
+    {
+     "dim": "R64 集团与换帅",
+     "text": "ACME Grupė 全资;Buožius(创始人)退居董事长,Baušys 升董事 2017",
+     "quote": "Nuo šių metų liepos … direktoriaus pareigas eis Žymantas Baušys … UAB „ACME Grupė\" akcijas dengia Stepas Telešius, Tomas Palšis ir Stede W. Ingramas",
+     "url": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Žymantas Baušys",
+     "role": "Direktorius(2017 至今,前财务总监)",
+     "contact": "zymantas@accdistribution.eu",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085"
+    },
+    {
+     "name": "Regimantas Buožius",
+     "role": "董事长(1998 创始人,现战略面)",
+     "contact": "regimantas@accdistribution.eu",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-di"
+    }
+   ],
+   "unknowns56": [
+    "网通谱现存 PoE 档位与价位带",
+    "新 vendor 入驻门槛(MOU/返点)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 集团架 SKU 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动",
+     "question": "你们的网通谱里,24 口 PoE 管理型 value 档现存否?(vendor 入驻走 Kaunas 统一谈吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@accdistribution.lt 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动",
+     "question": "你们的网通谱里,24 口 PoE 管理型 value 档现存否?(vendor 入驻走 Kaunas 统一谈吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团架 value stocking PoE SKU」:STC-424 一条上架三国随 20K SKU 谱流动",
+     "question": "你们的网通谱里,24 口 PoE 管理型 value 档现存否?(vendor 入驻走 Kaunas 统一谈吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ACC Distribution team,\n\nAn ACME Grupė member moving 20,000 SKUs from 300+ vendors across Lithuania, Latvia and Estonia, with a Best Logistics Distributor award on the shelf - you know exactly what a documented, keenly-priced stocking SKU is worth when it sells in three countries at once.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE stocking unit for your networking line, white-label friendly.\n\nOne question: in your networking line-up, is the 24-port PoE value slot already filled - and do new-vendor conversations go through the Kaunas desk centrally?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-320",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin",
+    "inference": "罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高",
+    "hypothesis": "开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层"
+   },
+   "dimensions": {
+    "背景深描": "TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Bacău + București/Cluj/Iași 仓点;Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos 等 40-70 牌官方;三点股东结构(D.I./D.M./N.M.R.),D.M.=David Marian Administrator 公示,0728 105 124;安装商/集成商专供)",
+    "芯片与在用型号": "【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高",
+    "关键人KP": "David Marian = Administrator(公安许可台账实名);Marian David(Marketing 同姓口径);Monica Balcu KAM;Stefan Cosa 产品经理;Răzvan Dobocan BDM Cluj",
+    "关注点与资质": "MikroTik（Master+VAD） | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:安装商客层 PoE 高频复购 / T:谱内大品牌挤压",
+    "Saga产品适配": "安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)"
+   },
+   "swot_text": "- **S**:40-70 牌安防 VAD+四点物流\n- **W**:PoE 档可能已被 Hikvision 谱占\n- **O**:安装商客层 PoE 高频复购\n- **T**:谱内大品牌挤压",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "distribuitor oficial pentru o gamă variată … peste 40 de producători … Hikvision, Honeywell, Uniview, Microtik, TRENDnet, UniPos, Motorline,",
+     "quote": "distribuitor oficial pentru o gamă variată … peste 40 de producători … Hikvision, Honeywell, Uniview, Microtik, TRENDnet, UniPos, Motorline, Optex … adresate exclusiv instalatorilor și integratorilor de profil",
+     "url": "https://www.linkedin.com/company/telesystem.romania"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "puncte de prezență și spații logistice în Bacău, București, Cluj și Iași",
+     "quote": "puncte de prezență și spații logistice în Bacău, București, Cluj și Iași",
+     "url": "https://rocketreach.co/telesystem-profile_b402d648fc0a032a"
+    },
+    {
+     "dim": "R64/Administrator 实名",
+     "text": "Societatea TELESYSTEM S.R.L. administrată de David Marian(公安/许可证台账公开);companywall/termene 对应 D.M. 缩写股东",
+     "quote": "Societate: Telesystem S.R.L. administrată de David Marian … Contact David Marian 0234/551055 0728 105 124 office@telesystem.ro",
+     "url": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/"
+    },
+    {
+     "dim": "R64 商业登记",
+     "text": "CUI RO22460883,2007-09-25,功能正常,三位股东三位董事(缩写台账)",
+     "quote": "TELESYSTEM SRL CUI 22460883 J2007001650049 Funcţiune … 3 shareholders and 3 directors",
+     "url": "https://termene.ro/en/firma/22460883-TELESYSTEM-SRL"
+    }
+   ],
+   "kp": [
+    {
+     "name": "David Marian",
+     "role": "Administrator(管理方公示名姓)",
+     "contact": "david@telesystem.ro",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-ala"
+    }
+   ],
+   "unknowns56": [
+    "安防谱 PoE 供电现供牌",
+    "产品经理 Cosa 是否直达采购"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 监控柜 DIN PoE 页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层",
+     "question": "你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · comenzi@telesystem.ro 开口(角度具名 Stefan Cosa 产品线)",
+     "push": "STI-288GP",
+     "angle": "开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层",
+     "question": "你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层",
+     "question": "你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Stefan,\n\nForty-plus manufacturers on the Hikvision/Uniview shelf and a four-city logistics backbone - your installer base deploys cameras every week, and every camera cluster needs a rail PoE switch that holds in the cabinet.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your installer-facing catalog, white-label friendly.\n\nOne question: in your surveillance cabinets and outdoor boxes, which DIN-rail industrial PoE switch feeds the cameras today - and is there a value slot beside the current line?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-352",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标\"ORing 授权\"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag",
+    "inference": "产业错位：CSV 层级弄反——IEI 不是\"授权分销\"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧",
+    "hypothesis": "同业+上游集团不是我们上架通道；走「OEM/联合设计」或「供应链互备」面才是真开口——判位不进供位，B 级守档"
+   },
+   "dimensions": {
+    "背景深描": "IEI Technology USA Corp.(138 University Parkway, Pomona CA 91768;1997 组,台湾 IEI Integration Corp 美国子;集团墙注纪律维持:R53 判定 hold=Teddy Kuo 创始人/Meiji Chang 董事长/Jordan Jiang GM 集团侧,Subi Zhang CISO 复层直管;USA 侧 Richard Kao Operation Director(Pomona)+Wendy Wang Office Manager(2005 至今);美国侧向 AI/边缘计算/安防/医械/国警/交运/通信基站垂直",
+    "芯片与在用型号": "【推断】产业错位：CSV 层级弄反——IEI 不是\"授权分销\"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧",
+    "关键人KP": "USA 层:Richard Kao Operation Director;Wendy Wang Office Manager;集团层(R53 已 hold 纪律,不直谈):Teddy Kuo/Meiji Chang/Jordan Jiang",
+    "关注点与资质": "ORing | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:集团厂资源+自研深 / W:同业制造侧=无我们上架位 / O:OEM 合作/联合设计通道 / T:台厂信号源≠客户（纪律）",
+    "Saga产品适配": "产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）"
+   },
+   "swot_text": "- **S**:集团厂资源+自研深\n- **W**:同业制造侧=无我们上架位\n- **O**:OEM 合作/联合设计通道\n- **T**:台厂信号源≠客户（纪律）",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA",
+     "quote": "IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA",
+     "url": "https://www.ieiworld.com/en/support/con_show.php?cid=93"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "20 years of experience in electronic product design and manufacture…100% own manufacturing facilities",
+     "quote": "20 years of experience in electronic product design and manufacture…100% own manufacturing facilities",
+     "url": "https://www.ieiworld.com/en/support/con_show.php?cid=93"
+    },
+    {
+     "dim": "R64 USA 层 KP",
+     "text": "Richard Kao Operation Director(LinkedIn, Pomona)+Wendy Wang Office Manager(2005)",
+     "quote": "Richard Kao - Operation Director at IEI Technology USA Corp. Pomona … Wendy Wang OFFICE MANAGER Feb 2005 - Present",
+     "url": "https://www.linkedin.com/in/richard-kao-233a5368/"
+    },
+    {
+     "dim": "R64 集团谱",
+     "text": "台湾母 IEI Integration:Teddy Kuo Founder/Meiji Chang Chairman/Jordan Jiang GM(Subi Zhang CISO 懂中国产——集团墙口径维持)",
+     "quote": "Founder Teddy Kuo and Chairman Meiji Chang … Jordan Jiang serves as the General Manager and Director … Subi Zhang CISO",
+     "url": "https://www.pressreleasepoint.com/user/iei-technology-usa-corp"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Richard Kao",
+     "role": "Operation Director(Pomona USA)",
+     "contact": "richard@ieiworld.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.linkedin.com/in/richard-kao-233a5368/"
+    },
+    {
+     "name": "Wendy Wang",
+     "role": "Office Manager(2005 至今)",
+     "contact": "wendy@ieiworld.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.linkedin.com/in/wendy-wang-83456826/"
+    }
+   ],
+   "unknowns56": [
+    "IEI USA 对集团 ORing 谱的销售通道与本地授权分工",
+    "IEI 是否正面销 PoE 交换（自家谱），还是借 ORing 网谱入"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）",
+     "question": "（联络路：如用户想洽 OEM，走联合设计面）",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-436",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域) | R64 并入:Dennis van Elk + Jan Geert Hek = 双创始董事(2013);Hek 15 年大规模防火墙系",
+    "inference": "荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱",
+    "hypothesis": "守档备养:具名引见;其乡村谱里农企/仓库监控 PoE 场景待摸"
+   },
+   "dimensions": {
+    "背景深描": "Qtopia(Kolstee 5, 7021 NZ Zelhem, Achterhoek 乡村区;2013 创立,双创始董事 Dennis van Elk + Jan Geert Hek;40 粉丝 LinkedIn;Microsoft Gold Partner;CEH/CNDA/TOGAF 证书;安全+软件开发+架构+顾问,服务教育与 SME;088-7110500,info@qtopia.nl;R57 具名 j.g.hek@qtopia.nl 公司域)",
+    "芯片与在用型号": "【推断】荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱",
+    "关键人KP": "Dennis van Elk + Jan Geert Hek = 双创始董事(2013);Hek 15 年大规模防火墙系经验/SEI 认证架构师/Ethical Hacker",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:具名公司域 / W:公开谱薄/乡村量级 / O:农企监控 PoE 随单 / T:失联",
+    "Saga产品适配": "乡村 IT 顾问备养:具名通道,项目信号再激活"
+   },
+   "swot_text": "- **S**:具名公司域\n- **W**:公开谱薄/乡村量级\n- **O**:农企监控 PoE 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;qtopia.nl 公司域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;qtopia.nl 公司域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R64 双创始",
+     "text": "Dennis van Elk + Jan Geert Hek 2013 创立,directeuren van Qtopia 官网口径",
+     "quote": "Qtopia is gestart in 2013 door Dennis van Elk en Jan Geert Hek … Dennis van Elk en Jan Geert Hek, directeuren van Qtopia … T: 088-7110500 E: info@qtopia.nl",
+     "url": "https://www.oostgelderlandbusiness.nl/magazine/artikel/328/9632/qtopia:-kennis-is-een-krachtig-wapen"
+    },
+    {
+     "dim": "R64 证书谱",
+     "text": "Microsoft Gold Partner + Certified Ethical Hacker + CNDA + TOGAF 全谱认证(安全主攻)",
+     "quote": "beschikt Qtopia over certificeringen waaronder Certified Ethical Hacker, Certified Network Defence Architect en TOGAF. Tevens is Qtopia Microsoft Gold Partner",
+     "url": "https://nl.linkedin.com/company/qtopia"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "Qtopia 业务面与团队",
+    "农企/仓库监控项目谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;其乡村谱里农企/仓库监控 PoE 场景待摸",
+     "question": "你在 Achterhoek 的项目里(农企/仓库?),PoE 监控/网络件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;其乡村谱里农企/仓库监控 PoE 场景待摸",
+     "question": "你在 Achterhoek 的项目里(农企/仓库?),PoE 监控/网络件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-512",
+   "researched_on": "2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持 | R64 并入:Kailash Chakravarti = President;Sayyed Fazal = Business Deve",
+    "inference": "典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线",
+    "hypothesis": "SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）"
+   },
+   "dimensions": {
+    "背景深描": "MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange/Untangle/Sonicwall/VMware 支持+270+ LOB 应用;Kailash Chakravarti = President(zoominfo 确认),@mtktechnologies.com 模式(库内 CSV mtk-tech.com 域名需核正)",
+    "芯片与在用型号": "【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线",
+    "关键人KP": "Kailash Chakravarti = President;Sayyed Fazal = Business Development Manager(Dover DE)",
+    "关注点与资质": "MikroTik + Ubiquiti（另用 Cisco/Fortinet/Ruckus 等） | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-424 为 managed 标准接入 SKU / T:RMA 反应度是决因",
+    "Saga产品适配": "SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单"
+   },
+   "swot_text": "- **S**:30 年 MSP 深谱+235 客户面\n- **W**:SMB 价格为王、技差别低\n- **O**:STC-424 为 managed 标准接入 SKU\n- **T**:RMA 反应度是决因",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Fortinet, SonicWall, Untangle…MikroTik, Ubiquiti, Nakivo…235+ active clients",
+     "quote": "Fortinet, SonicWall, Untangle…MikroTik, Ubiquiti, Nakivo…235+ active clients",
+     "url": "https://mtk-tech.com/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest",
+     "quote": "1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest",
+     "url": "https://mtk-tech.com/"
+    },
+    {
+     "dim": "R64 董事实名",
+     "text": "Kailash Chakravarti President @ MTK Technologies(zoominfo 未锁版; k***@mtktechnologies.com 模式提示=president 域)",
+     "quote": "Kailash Chakravarti's role at MTK Technologies is President … k***@mtktechnologies.com",
+     "url": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706"
+    },
+    {
+     "dim": "R64 域核正",
+     "text": "CSV 网站=mtk-tech.com(简缩);实际职能域疑为 mtktechnologies.com(全员邮箱长域),需核 XML",
+     "quote": "MTK Technologies, Inc. is a small, locally owned IT consulting firm based in Champaign, Illinois … since 1996 … Microsoft network support",
+     "url": "https://www.zoominfo.com/c/mtk-technologies-inc/346288944"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Kailash Chakravarti",
+     "role": "President",
+     "contact": "kailash@mtktechnologies.com",
+     "status": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)",
+     "source": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706"
+    }
+   ],
+   "unknowns56": [
+    "managed 客户的 PoE 接层 SKU 标准化程度与频次",
+    "MSP 对 supplier 的 RMA 节奏要求（SMB 量多频高）"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · MSP 标准化 SKU 方案单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）",
+     "question": "你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）",
+     "question": "你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 归档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）",
+     "question": "你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi MTK team,\n\nChampaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.\n\nOne question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

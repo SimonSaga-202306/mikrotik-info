@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu)…
+- **是谁**：EXPERT Kereskedelmi és Informatikai Zrt.(1043 Budapest, Aradi utca 16-20;Adószám 14241499-2-44, Cg. 01-10-0459…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | EXPERT Kereskedelmi és Informatikai Zrt.(1043 Budapest, Aradi utca 16-20;Adószám 14241499-2-44, Cg. 01-10-045926;2008 创立;**Balázs Attila vezérigazgató(CEO 总裁, 1025 Budapest Cimbalo | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】匈牙利 Master+VAD 老牌(expert.hu 域资历老);Zrt.=股份公司内部治理 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu)
+- 【事实】Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu) | R65 深挖:top 500 匈牙利 ICT 分销;4 国 Tesco 国际合同=谱口在 Ma 尔
 - 【推断】匈牙利 Master+VAD 老牌(expert.hu 域资历老);Zrt.=股份公司内部治理
 - 【假设】开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 开口(与 B-081 同城双 Master,后开口者引第一家回应做参照)
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- EXPERT Kereskedelmi és Informatikai Zrt.(1043 Budapest, Aradi utca 16-20;Adószám 14241499-2-44, Cg. 01-10-045926;2008 创立;**Balázs Attila vezérigazgató(CEO 总裁, 1025 Budapest Cimbalom 12 住所谱)+ Francia Róbert cégvezető(经理)**;50-99 员工;ICT 批发+web 商城:Tesco International 跨国 4 国供应合同,营收超100万产品 abszes()
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Balázs Attila | Vezérigazgató(总裁/CEO) | info@expert.hu / 01/4502440 | nemzeticegtar.hu + companywall.hu + 官网 ceginformacio 三源实名 | https://www.nemzeticegtar.hu/expert-zrt-e10481872.html |
+| Francia Róbert | Cégvezető(经理) | 同上 | 同源 | 同 nemzeticegtar.hu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 6 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第6批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Expert Zrt.(Budapest;expert.hu;Master+VAD 名录在册;network@expert.hu)
+- **背景深描**：EXPERT Kereskedelmi és Informatikai Zrt.(1043 Budapest, Aradi utca 16-20;Adószám 14241499-2-44, Cg. 01-10-045926;2008 创立;**Balázs Attila vezérigazgató(CEO 总裁, 1025 Budapest Cimbalom 12 住所谱)+ Francia Róbert cégvezető(经理)**;50-99 员工;ICT 批发+web 商城:Tesco International 跨国 4 国供应合同,营收超100万产品 abszes()
 - **芯片与在用型号**：【推断】匈牙利 Master+VAD 老牌(expert.hu 域资历老);Zrt.=股份公司内部治理
-- **关键人KP**：—
+- **关键人KP**：Balázs Attila = vezérigazgató(CEO);Francia Róbert = cégvezető(经理)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:Master+VAD+老牌域 / W:谱未摸 / O:value PoE 档 / T:同城双 Master 内卷
 - **Saga产品适配**：布达佩斯第二 Master 的 value PoE 架位(双 Master 策略,参照第一家回应调话术)
@@ -123,6 +126,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 官方分销 Master+VAD;Budapest;network@expert.hu
   > CSV:MikroTik 官方分销 Master+VAD;Budapest;network@expert.hu
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 商业登记】**Expert Zrt.adoszám 14241499-2-44, 2008 创;Balázs Attila vezérigazgató + Francia Róbert cégvezető 两实名
+  > Balázs Attila (an: Szabó Ilona) vezérigazgató … Francia Róbert (an: Kanyó Gizella) cégvezető … 50 - 99 Fő
+  > 来源：https://www.nemzeticegtar.hu/expert-zrt-e10481872.html
+- **【R65 国际化位】**Tesco International 4 国供应合同;SKU 100万件仓储位;匈牙利 top 500 商口
+  > Tesco International szerződés, 4 országra szállítás … Expert Zrt bekerült a magyar top 500 cégbe
+  > 来源：https://www.expert.hu/ceginformacio-hceginfo.html
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +163,7 @@ S:Master+VAD+老牌域 / W:谱未摸 / O:value PoE 档 / T:同城双 Master 内�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

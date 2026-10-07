@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;…
+- **是谁**：Alpha Motion SA(Pikérmi, Attiki;1994 创(创始人前 Alpha Technologies TD 1992-94/KITCO 1987-92 带);**Argiris Saninos =…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-173→B-514】官网全站页脚可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Alpha Motion SA(Pikérmi, Attiki;1994 创(创始人前 Alpha Technologies TD 1992-94/KITCO 1987-92 带);**Argiris Saninos = Owner-Chairman-Managing Director(1994 至今,Rafina 居住)**;Dimitris Psicho | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer
+- 【事实】Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer | R65 深挖:HMS/N-Tron/Red Lion 同集团工业自动谱系,AEGEE +30 693 242…
 - 【推断】自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)
 - 【假设】开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Alpha Motion SA(Pikérmi, Attiki;1994 创(创始人前 Alpha Technologies TD 1992-94/KITCO 1987-92 带);**Argiris Saninos = Owner-Chairman-Managing Director(1994 至今,Rafina 居住)**;Dimitris Psichoulas = Technical Director;9-11 员工;info@alpha-motion.gr,+30 210 822 XXXX;库内原样=HMS/N-Tron·Red Lion 工业自动分销=谱型=工控自动化 VAD
 
 ## 联系方式（已有/猜测分标）
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Argiris Saninos | Owner-Chairman-Managing Director(1994 创始) | 经 alpha-motion.gr(RocketReach 域 alpha-motion.gr 自曝) | rocketreach+crunchbase 双源 | https://rocketreach.co/argiris-saninos-email_31660765 |
+| Dimitris Psichoulas | Technical Director | — | rocketreach 自曝 | https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer
+- **背景深描**：Alpha Motion SA(Pikérmi, Attiki;1994 创(创始人前 Alpha Technologies TD 1992-94/KITCO 1987-92 带);**Argiris Saninos = Owner-Chairman-Managing Director(1994 至今,Rafina 居住)**;Dimitris Psichoulas = Technical Director;9-11 员工;info@alpha-motion.gr,+30 210 822 XXXX;库内原样=HMS/N-Tron·Red Lion 工业自动分销=谱型=工控自动化 VAD
 - **芯片与在用型号**：【推断】自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)
-- **关键人KP**：—
+- **关键人KP**：Argiris Saninos = Owner-Chairman-MD(1994 创始);Dimitris Psichoulas = Technical Director
 - **关注点与资质**：N-Tron + Red Lion 
 - **优缺点SWOT**：S:希腊工谱老牌+电梯/伺服血统+具名 / W:自动品谱导渠,动力排他 / O:STI-288GP 电梯/产线柜随单 / T:自品谱价功能动化
 - **Saga产品适配**：希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口
@@ -128,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer
   > Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer
   > 来源：https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697
+- **【R65 实名/工业谱】**Argiris Saninos Owner 1994-now;Alpha Motion=N-Tron/Red Lion 工控谱=
+  > Argiris Saninos … 1994 - now Owner - Chairman - Managing Director @ Alpha Motion SA … Industrial Automation
+  > 来源：https://www.crunchbase.com/organization/alpha-motion
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +165,7 @@ S:希腊工谱老牌+电梯/伺服血统+具名 / W:自动品谱导渠,动力排
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

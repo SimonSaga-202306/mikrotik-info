@@ -1,0 +1,1379 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 23 批（收尾波 23 户）",
+ "scope": "B-051 ZL Media / B-072 JMR / B-400 HP Networks / B-418 Morgan Ingland / B-305 Jeton Syla + 18 守档",
+ "records": [
+  {
+   "code": "B-051",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Dejan Liovic(liovicd@outlook.com;+385 95 287 2886;**MikroTik 认证顾问 MTCNA+MTCRE+MTCWE**;项目规划与实施、基础与高级配置、现场与远程支持) | R65 深挖:克罗地亚认证教练 实体ZL Media=克 MikroTik 培训谱!",
+    "inference": "克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点",
+    "hypothesis": "开口角度=「顾问工具箱价值档」:先验活跃,项目谱摸清后按顾问模板激活"
+   },
+   "dimensions": {
+    "背景深描": "ZL Media d.o.o.(Osijek, Croatia;**B-051 Dejan Liović 实体映射核正**;**Dejan Liović = MikroTik 官方认证教练(licencirani MikroTik predavač,MTCNA/MTCWE 课程讲师,ZL Media 自主)**;2013-2019 多次 Samobor/Osijek MTCNA/MTCWE 课程实绩;谱型=克国网络解决方案 + MikroTik 培训双谱",
+    "芯片与在用型号": "【推断】克罗地亚个人顾问,三证(无线向):项目交付自主选型,客户谱为区域 SME/场点",
+    "关键人KP": "Dejan Liović = licencirani MikroTik predavač(官方教练,ZL Media 谱位)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCWE ",
+    "优缺点SWOT": "S:三证顾问含无线向 / W:个人体量小 / O:无线项目谱 PoE 随单 / T:点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:三证顾问含无线向\n- **W**:个人体量小\n- **O**:无线项目谱 PoE 随单\n- **T**:点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;项目规划与实施、基础与高级配置、现场与远程支持",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;项目规划与实施、基础与高级配置、现场与远程支持",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 核正/谱位",
+     "text": "Dejan Liović(ZL Media Osijek)= MikroTik 认证教练 MTCNA/MTCWE 双课讲师;2015 Samobor MTCNA;2019 Osijek MTCWE 首课",
+     "quote": "Lectures were led by a certified MikroTik trainer – Dejan Liovic … official MikroTik Training Partner … putem kojih je angažiran licencirani Mikrotik predavač Dejan Liović",
+     "url": "http://www.zlmedia.hr/en/first-mtcwe-mikrotik-training-held-in-osijek-croatia/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Dejan Liović",
+     "role": "MikroTik 官方认证教练(ZL Media)",
+     "contact": "经 zlmedia.hr",
+     "status": "zlmedia.hr + smbwireless.hr 双毂自曝",
+     "source": "http://www.zlmedia.hr/en/first-mtcwe-mikrotik-training-held-in-osijek-croatia/"
+    }
+   ],
+   "unknowns56": [
+    "在手项目量",
+    "无线谱客户 PoE 需求强度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱价值档」:先验活跃,项目谱摸清后按顾问模板激活",
+     "question": "(先验活跃)你做无线/路由项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱价值档」:先验活跃,项目谱摸清后按顾问模板激活",
+     "question": "(先验活跃)你做无线/路由项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-072",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Simon Miners - JMR(Niagara Falls ON;jmr.ca 公司域;MTCNA+MTCRE;simon@jmr.ca 具名) | R65 深挖:Niagara ON 本地 Bitsy 实体;Simon+Riley 双谱位",
+    "inference": "尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布)",
+    "hypothesis": "守档备养:具名引见;旅游城酒店网络更新谱是其潜在 PoE 场景"
+   },
+   "dimensions": {
+    "背景深描": "JMR Logics / JMR.ca(Niagara Falls, Ontario,Canada;716-804-5878 总部;",
+    "芯片与在用型号": "【推断】尼亚加拉旅游城 IT 商(公司域+具名);酒店/tourism 谱潜力(瀑布城酒店密布)",
+    "关键人KP": "Simon Miners = Network Administrator(即 CSV B-072 本人)+John Riley President & Senior IT Consultant",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:公司域+旅游城谱位 / W:足迹薄 / O:酒店网络 PoE 随单(瀑布城) / T:失联",
+    "Saga产品适配": "尼亚加拉 IT 商备养:具名通道,酒店谱信号再激活"
+   },
+   "swot_text": "- **S**:公司域+旅游城谱位\n- **W**:足迹薄\n- **O**:酒店网络 PoE 随单(瀑布城)\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;jmr.ca 公司域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;jmr.ca 公司域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 实名/谱位",
+     "text": "JMR.ca=JMR Logics Niagara Falls ON 谱；Simon Miners Network Admin(MLS:Brock U,Microtik,cyber,wireless)+老板 Riley President",
+     "quote": "Simon Miners is Network Administrator at JMR Logics & Upper Rapids … With a robust skill set that includes Network Administration, Wireless Networking, Cybersecurity, Mikrotik, Network Security … John Riley President and Senior IT Consultant",
+     "url": "https://rocketreach.co/simon-miners-email_95924696"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Simon Miners",
+     "role": "Network Administrator(B-072 本人谱位),Wireless/Cyber/MikroTik 专长 LinkedIn 自曝",
+     "contact": "s*****@jmr.ca(模式提示；905 前缀）",
+     "status": "zoominfo + rocketreach 双自曝",
+     "source": "https://rocketreach.co/simon-miners-email_95924696"
+    },
+    {
+     "name": "John Riley",
+     "role": "President & Senior IT Consultant",
+     "contact": "j*****@jmr.ca",
+     "status": "rocketreach 自曝",
+     "source": "https://rocketreach.co/simon-miners-email_95924696"
+    }
+   ],
+   "unknowns56": [
+    "JMR 业务面与团队",
+    "酒店客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;旅游城酒店网络更新谱是其潜在 PoE 场景",
+     "question": "你在瀑布城做酒店/tourism 网络时,PoE 监控/AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;旅游城酒店网络更新谱是其潜在 PoE 场景",
+     "question": "你在瀑布城做酒店/tourism 网络时,PoE 监控/AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-400",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Adam Reid - HP Networks(Belfast 北爱;hpnetworks.net;MTCNA+MTCRE;+44 28 9008 0030 座机=实体公司;具名直达) | R65 深挖:Belfast 实体 RIPE 拨名）;Paul Hagan 公式 MD/CSV B-400 Adam Reid 或为销售人员",
+    "inference": "北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策",
+    "hypothesis": "守档备养:具名技术对话,等其项目谱 PoE 信号;北爱物流(英本土隔海)订单需议"
+   },
+   "dimensions": {
+    "背景深描": "HP Networks / High Performance Networks Limited(2 Lislasly Road, Dungannon BT71 6TA(UK RIPE 索引)/Belfast Innovation Factory+ Dublin,2015-10 创；**Paul Hagan = Managing Director(MD 创始人本人,p.hagan@hpnetworks.net 公式行)**;谱型=英/爱 Creative Managed Communications + Creative Carrier 络",
+    "芯片与在用型号": "【推断】北爱尔兰本地 IT/网络集成商(实体座机+公司域);北爱 SME 谱,具名直达决策",
+    "关键人KP": "Paul Hagan = MD & 创始人(p.hagan@hpnetworks.net RIPE 会员名录自曝）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:具名直达+实体座机 / W:公开谱薄 / O:北爱 SME 项目随单 / T:失联/量小",
+    "Saga产品适配": "北爱集成顾问备养:具名通道,项目信号再激活"
+   },
+   "swot_text": "- **S**:具名直达+实体座机\n- **W**:公开谱薄\n- **O**:北爱 SME 项目随单\n- **T**:失联/量小",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;Adam@hpnetworks.net",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;Adam@hpnetworks.net",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 实体/谱位",
+     "text": "HP Networks 2015 创 Belfast/Dublin 双办 / RIPE 正式名录 / MD Paul Hagan p.hagan@ 公式",
+     "quote": "HP Networks Ltd 2 Lislasly Road BT71 6TA Dungannon UNITED KINGDOM … phone: +442890538411 e-mail: p (dot) hagan (at) hpnetworks (dot) net … High Performance Networks formed October 2015 by MD Paul Hagan",
+     "url": "https://www.hpnetworks.net/about"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Paul Hagan",
+     "role": "Managing Director(创始人）",
+     "contact": "p.hagan@hpnetworks.net / +44 28 9053 8411(00442890 → proper intl)",
+     "status": "hpnetworks.net about + ripe.net member index 双源",
+     "source": "https://www.ripe.net/membership/indices/data/uk.hpnetworks.html"
+    }
+   ],
+   "unknowns56": [
+    "HP Networks 公司谱与项目频度",
+    "北爱客户行业构成"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话,等其项目谱 PoE 信号;北爱物流(英本土隔海)订单需议",
+     "question": "你在北爱做 SME 网络项目时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话,等其项目谱 PoE 信号;北爱物流(英本土隔海)订单需议",
+     "question": "你在北爱做 SME 网络项目时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-418",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350 | R65 深挖:伯明罕 ICT 大批发乱迈商 500 级员谱",
+    "inference": "同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话",
+    "hypothesis": "开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打"
+   },
+   "dimensions": {
+    "背景深描": "Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱；info@miatlantic.com",
+    "芯片与在用型号": "【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话",
+    "关键人KP": "—(Companies House MORGAN INGLAND LIMITED 董事名单 unpaid;R65 谱位+地址件已足，购购 kp 待定）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 280W 管理型 value 空档 / T:TP-Link/Ubiquiti 低价压",
+    "Saga产品适配": "电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)"
+   },
+   "swot_text": "- **S**:100 品牌电商架+多行业谱+9 年站\n- **W**:无增值,纯价搏\n- **O**:24 口 280W 管理型 value 空档\n- **T**:TP-Link/Ubiquiti 低价压",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality",
+     "quote": "proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality, power and utility, and retail",
+     "url": "https://www.cbinsights.com/company/morgan-ingland"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands",
+     "quote": "Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands",
+     "url": "https://miatlantic.com/"
+    },
+    {
+     "dim": "R65 谱位",
+     "text": "Morgan Ingland Ltd Birmingham/London 100+ 品谱 ICT 批发 251-500 员工；miatlantic.com/us.miatlantic.com 双站营运",
+     "quote": "Morgan Ingland is an advanced independent reseller of Information Technology related products … Headquarters: 418 Ladypool Rd, Birmingham, West Midlands, B12 8JZ … 251-500 … The company collaborates with over 100 top brands",
+     "url": "https://www.crunchbase.com/organization/morgan-ingland"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "其架上 24 口管理 PoE 现供价位带",
+    "Match Price 下的 MOQ/账期门槛"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 价位对标页(Teltonika/Ubiquiti 对位)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@miatlantic.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Morgan Ingland team,\n\nA hundred brands on one shelf across government, education and hospitality - with a Match Price promise that tells me you respect a hard number more than a brand story.\n\nHere is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $180 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.\n\nOne question: on your shelf today, which 24-port managed PoE unit holds that value tier - and would a documented unit at this EXW number earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-305",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Jeton Syla(jetoonsyla@gmail.com;+383 45 512 344;**科索沃唯一 MikroTik 认证顾问**) | R65 深挖:同名两候选守档准由（科索沃未证）",
+    "inference": "全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开",
+    "hypothesis": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Jeton Syla（科索沃；R65 多同名画像：**候选 1= PULLMA Group SH.P.K.(Financial Planning and Analysis Manager, Universiteti i Prishtinës)**/候选 2=Express Delivery LLC 科索沃（弱档）；不采信保密，守档准由",
+    "芯片与在用型号": "【推断】全国稀缺顾问:波黑逻辑同款,科索沃政企/ISP 小圈项目绕不开",
+    "关键人KP": "—（同名候选已核；R65 守档准由；PULLMA FP&A 或为本人=候选非证）",
+    "关注点与资质": "MikroTik 认证顾问  ",
+    "优缺点SWOT": "S:全国唯一=壁垒 / W:个人体量小 / O:顾问指定权大 / T:单靠一人节奏",
+    "Saga产品适配": "全国唯一顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:全国唯一=壁垒\n- **W**:个人体量小\n- **O**:顾问指定权大\n- **T**:单靠一人节奏",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:科索沃唯一 MikroTik 认证顾问;jetoonsyla@gmail.com",
+     "quote": "CSV:科索沃唯一 MikroTik 认证顾问;jetoonsyla@gmail.com",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 同名候选注",
+     "text": "PULLMA Group FP&A(Jeton Syla Prishtina)=候选，非证；Express Delivery 另一名同级候选；R65 不采信",
+     "quote": "(LinkedIn 2026-10-07 jeton-syla-7a7204233 PULLMA Group FP&A/Express Delivery 候选同名同名二柱，与 MikroTik 无关联证)",
+     "url": "(沙箱核验日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在手项目量",
+    "谱系自选权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-059",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Afshin Yadollahi(Toronto 多伦多;MTCNA+MTCRE;**英西波斯法四语**;gmail 个人) | R65 深挖:同名伊朗工程师（IRIB)/已故伊 什 lyricist 噪声排除，加拿大本体守档；R65 守档准由",
+    "inference": "多伦多四语个人顾问;波斯语=伊朗裔社区 SME 谱",
+    "hypothesis": "守档备养:具名引见(四语优势是跨族裔 SME 谱观察口)"
+   },
+   "dimensions": {
+    "背景深描": "Afshin Yadollahi(R65 搜索/核验：同名伊朗工程师（IRIB)/已故伊 什 lyricist 噪声排除，加拿大本体守档；守档准由）",
+    "芯片与在用型号": "【推断】多伦多四语个人顾问;波斯语=伊朗裔社区 SME 谱",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:四语+多市大谱 / W:个人量级 / O:多族裔 SME 随单 / T:失联",
+    "Saga产品适配": "多伦多四语个人顾问备养:具名通道"
+   },
+   "swot_text": "- **S**:四语+多市大谱\n- **W**:个人量级\n- **O**:多族裔 SME 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英西波斯法四语",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英西波斯法四语",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：同名伊朗工程师（IRIB)/已故伊 什 lyricist 噪声排除，加拿大本体守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与生计形态",
+    "族裔 SME 客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(四语优势是跨族裔 SME 谱观察口)",
+     "question": "你在多伦多的 SME 项目里,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(四语优势是跨族裔 SME 谱观察口)",
+     "question": "你在多伦多的 SME 项目里,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-062",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Falak Sheth(Brampton ON 加拿大;MTCNA+MTCRE;gmail 个人) | R65 深挖:加拿大谱；R65 搜索无果；R65 守档准由",
+    "inference": "大多伦多 Brampton 个人顾问(南亚裔社区谱)",
+    "hypothesis": "守档备养:具名引见,低频"
+   },
+   "dimensions": {
+    "背景深描": "Falak Sheth(R65 搜索/核验：加拿大谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】大多伦多 Brampton 个人顾问(南亚裔社区谱)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:双证 / W:个人量级 / O:Brampton 南亚裔 SME 谱 / T:失联",
+    "Saga产品适配": "个人顾问备养:低频具名引见"
+   },
+   "swot_text": "- **S**:双证\n- **W**:个人量级\n- **O**:Brampton 南亚裔 SME 谱\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：加拿大谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与活跃度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 低频具名引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,低频",
+     "question": "你在 Brampton 的项目里碰 PoE 选型场景多吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+60 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,低频",
+     "question": "你在 Brampton 的项目里碰 PoE 选型场景多吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-064",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Gerald Paul Mamaril(Hamilton ON 加拿大;MTCNA+MTCRE+**MTCUME(Hotspot/PPPoE)**;gmail 个人) | R65 深挖:加拿大谱；R65 搜索无果；R65 守档准由",
+    "inference": "Hamilton 个人顾问;MTCUME=Hotspot 公众接入谱(酒店/场馆/宿舍)",
+    "hypothesis": "守档备养:具名引见(Hotspot 谱 PoE 场景长线)"
+   },
+   "dimensions": {
+    "背景深描": "Gerald Paul Mamaril(R65 搜索/核验：加拿大谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】Hamilton 个人顾问;MTCUME=Hotspot 公众接入谱(酒店/场馆/宿舍)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCUME ",
+    "优缺点SWOT": "S:三证含 MTCUME / W:个人量级 / O:Hotspot 谱 PoE 长线 / T:失联",
+    "Saga产品适配": "Hamilton 个人顾问备养(MTCUME Hotspot 方向):具名通道"
+   },
+   "swot_text": "- **S**:三证含 MTCUME\n- **W**:个人量级\n- **O**:Hotspot 谱 PoE 长线\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCUME",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：加拿大谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "Hotspot 项目谱",
+    "现证在档"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(Hotspot 谱 PoE 场景长线)",
+     "question": "你的 Hotspot/公众接入项目里,PoE 接入件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(Hotspot 谱 PoE 场景长线)",
+     "question": "你的 Hotspot/公众接入项目里,PoE 接入件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-066",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Hussein Khalil(Calgary 加拿大;MTCNA+MTCRE+MTCTCE;**原备注:MikroTik 顾问兼讲师**,覆盖防火墙/QoS/桥接/高级路由/无线全特性;hkhalil_7@hotmail.com) | R65 深挖:加拿大谱；R65 搜索无果；R65 守档准由",
+    "inference": "加拿大讲师型顾问(卡尔加里,油气城 SME 谱);讲师身份=教具位开口",
+    "hypothesis": "开口角度=「讲师的课桌对照教具样本位」:STC-28DGGPM(师者红线下最白开口)"
+   },
+   "dimensions": {
+    "背景深描": "Hussein Khalil(R65 搜索/核验：加拿大谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】加拿大讲师型顾问(卡尔加里,油气城 SME 谱);讲师身份=教具位开口",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE ",
+    "优缺点SWOT": "S:讲师+三证+全特性覆盖 / W:教具量小 / O:教具样本 / T:师者红线",
+    "Saga产品适配": "加拿大讲师的课桌对照教具样本位"
+   },
+   "swot_text": "- **S**:讲师+三证+全特性覆盖\n- **W**:教具量小\n- **O**:教具样本\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MikroTik 顾问兼讲师,覆盖防火墙、QoS、桥接、高级路由协议、无线等全部特性",
+     "quote": "MikroTik 顾问兼讲师,覆盖防火墙、QoS、桥接、高级路由协议、无线等全部特性",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：加拿大谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "课桌对照教具开放度",
+    "卡尔加里客户谱(油气 SME?)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本一页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「讲师的课桌对照教具样本位」:STC-28DGGPM(师者红线下最白开口)",
+     "question": "你的课上 PoE 段有没有对照教具?文档全 8 口小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · hkhalil_7@hotmail.com 具名",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「讲师的课桌对照教具样本位」:STC-28DGGPM(师者红线下最白开口)",
+     "question": "你的课上 PoE 段有没有对照教具?文档全 8 口小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「讲师的课桌对照教具样本位」:STC-28DGGPM(师者红线下最白开口)",
+     "question": "你的课上 PoE 段有没有对照教具?文档全 8 口小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Hussein,\n\nA MikroTik consultant and trainer covering everything from firewall to advanced routing in Calgary - your classroom bench is exactly where a documented comparison SKU belongs.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison device for the PoE segment without any brand pressure.\n\nOne question: on your training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-085",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Richárd Szabolcs Tóth(Pécs 匈牙利;MTCNA+MTCRE+MTCIPv6E;原备注:有线与无线网络,家庭与中小企业;gmail 个人) | R65 深挖:同名 SZTAKI 工程师/P&G technikánzah leszül 噪声排除，谱主守档；R65 守档准由",
+    "inference": "Pécs 个人顾问,家庭/SME 谱(与 B-080 同城圈,信息互证位)",
+    "hypothesis": "守档备养:具名引见(同城 B-080 圈互证)"
+   },
+   "dimensions": {
+    "背景深描": "Richárd Szabolcs Tóth(R65 搜索/核验：同名 SZTAKI 工程师/P&G technikánzah leszül 噪声排除，谱主守档；守档准由）",
+    "芯片与在用型号": "【推断】Pécs 个人顾问,家庭/SME 谱(与 B-080 同城圈,信息互证位)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E ",
+    "优缺点SWOT": "S:三证+SME 谱 / W:个人量级 / O:Pécs SME 随单 / T:失联",
+    "Saga产品适配": "Pécs 个人顾问备养(与 B-080 同城互证)"
+   },
+   "swot_text": "- **S**:三证+SME 谱\n- **W**:个人量级\n- **O**:Pécs SME 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E;有线与无线网络,家庭与中小企业",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E;有线与无线网络,家庭与中小企业",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：同名 SZTAKI 工程师/P&G technikánzah leszül 噪声排除，谱主守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与活跃度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(同城 B-080 圈互证)",
+     "question": "你做家庭/SME 网络时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(同城 B-080 圈互证)",
+     "question": "你做家庭/SME 网络时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-164",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Jacopo Cipriani(Grosseto 托斯卡纳;MTCNA+MTCRE;jacopocipriani@me.com;无公司网站,公开足迹极少;CSV 载 MikroTik 认证顾问) | R65 深挖:同名 IMDb 摄影组噪声排除（R65)，谱主守档；R65 守档准由",
+    "inference": "纯个人顾问,托斯卡纳腹地 SME 圈;公开谱薄,价值在具名直达与技术对话",
+    "hypothesis": "守档备养:具名引见后按其项目谱再定"
+   },
+   "dimensions": {
+    "背景深描": "Jacopo Cipriani(R65 搜索/核验：同名 IMDb 摄影组噪声排除（R65)，谱主守档；守档准由）",
+    "芯片与在用型号": "【推断】纯个人顾问,托斯卡纳腹地 SME 圈;公开谱薄,价值在具名直达与技术对话",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:具名直达+双证 / W:无公开谱,摸底难 / O:托斯卡纳 SME 项目随单 / T:失联",
+    "Saga产品适配": "个人顾问通道备养,具名引见后定"
+   },
+   "swot_text": "- **S**:具名直达+双证\n- **W**:无公开谱,摸底难\n- **O**:托斯卡纳 SME 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：同名 IMDb 摄影组噪声排除（R65)，谱主守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档状态",
+    "客户谱(行业/量级)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见后按其项目谱再定",
+     "question": "你给托斯卡纳本地客户做网络项目时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见后按其项目谱再定",
+     "question": "你给托斯卡纳本地客户做网络项目时,PoE 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-166",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Lorenzo Webber(Mezzolombardo 特伦蒂诺;MTCNA+MTCSE(安全方向);lory76@gmail.com +39 347 091 9297;无公司网站,公开足迹极少) | R65 深挖:意大利谱；R65 搜索无果；R65 守档准由",
+    "inference": "纯个人顾问,安全工程方向(MTCSE)突出;特伦蒂诺山区 SME/酒店业圈潜力(当地 tourism 盛)",
+    "hypothesis": "守档备养:具名引见;若有酒店/山区 SME 项目谱,PoE(监控/AP)随单机会再激活"
+   },
+   "dimensions": {
+    "背景深描": "Lorenzo Webber(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】纯个人顾问,安全工程方向(MTCSE)突出;特伦蒂诺山区 SME/酒店业圈潜力(当地 tourism 盛)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:安全方向证+具名手机直达 / W:无公开谱 / O:特伦蒂诺酒店/山区 SME PoE 随单 / T:失联",
+    "Saga产品适配": "个人顾问通道备养(MTCSE 安全方向),具名引见后按项目谱定"
+   },
+   "swot_text": "- **S**:安全方向证+具名手机直达\n- **W**:无公开谱\n- **O**:特伦蒂诺酒店/山区 SME PoE 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：意大利谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档状态",
+    "客户谱(酒店/tourism 占比)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;若有酒店/山区 SME 项目谱,PoE(监控/AP)随单机会再激活",
+     "question": "你在特伦蒂诺的项目里(酒店/SME),PoE 监控与 AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;若有酒店/山区 SME 项目谱,PoE(监控/AP)随单机会再激活",
+     "question": "你在特伦蒂诺的项目里(酒店/SME),PoE 监控与 AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-173",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Valerio Simeraro(Mazzarrà Sant'Andrea 墨西拿省 西西里;**四证 MTCNA+MTCRE+MTCINE+MTCIPv6E(含 ISP 互联级 MTCINE)**;LinkedIn 在册=**LinkSpace Soc. Coop.(Furnari ME)Network and System Administrator**,发 FTTH/fibra 招聘帖;valerio.simeraro@gmail.com) | R65 深挖:意大利谱；R65 搜索无果；R65 守档准由",
+    "inference": "在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人",
+    "hypothesis": "守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)"
+   },
+   "dimensions": {
+    "背景深描": "Valerio Simeraro(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】在西西里本地 ISP(LinkSpace,FTTH 谱)任职的高证工程师+对外顾问身份双轨;其岗位天然接触 ISP 接入/机房侧设备,但采购决策非他一人",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E ",
+    "优缺点SWOT": "S:四证含 MTCINE+ISP 在职双轨 / W:采购决策非他 / O:具名引见+ISP 场景观察口 / T:个人换岗失联",
+    "Saga产品适配": "ISP 在职高证顾问备养:具名通道+雇主 FTTH 场景长线观察(决策不在他)"
+   },
+   "swot_text": "- **S**:四证含 MTCINE+ISP 在职双轨\n- **W**:采购决策非他\n- **O**:具名引见+ISP 场景观察口\n- **T**:个人换岗失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Valerio Simeraro - Network and System Administrator presso LinkSpace Soc. Coop.…fibra FTTH linkspace",
+     "quote": "Valerio Simeraro - Network and System Administrator presso LinkSpace Soc. Coop.…fibra FTTH linkspace",
+     "url": "https://it.linkedin.com/posts/valerio-simeraro-45aabb44_fibra-ftth-linkspace-activity-6705367925668237312-R1Q0"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE+MTCIPv6E",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：意大利谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "LinkSpace FTTH 接入/机房侧 PoE 现供",
+    "其顾问活在 Fastweb/本地 WISP 圈的客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见(IPv6/MTCINE 语言)",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)",
+     "question": "你在 LinkSpace 的 FTTH 接入/机房场景里,PoE 交换件现见哪些品牌?(顾问身份)你给西西里客户做 IPv6/互联项目时,接层现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名技术对话(IPv6/ISP 互联语言),兼以 LinkSpace 雇主场景为长线观察口(FTTH 接入侧 PoE/机房接入有其岗位相关)",
+     "question": "你在 LinkSpace 的 FTTH 接入/机房场景里,PoE 交换件现见哪些品牌?(顾问身份)你给西西里客户做 IPv6/互联项目时,接层现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-176",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Zen Vittore(Pordenone 弗留利;MTCNA+MTCSE;vittore@zenfamily.it(自有域 zenfamily.it)+39 320 057 9027;公开足迹极少) | R65 深挖:意大利谱；R65 搜索无果；R65 守档准由",
+    "inference": "纯个人顾问,自有域名 zenfamily.it 暗示家庭/个人工作室形态;安全方向证",
+    "hypothesis": "守档备养:具名引见后按其项目谱再定"
+   },
+   "dimensions": {
+    "背景深描": "Zen Vittore(R65 搜索/核验：意大利谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】纯个人顾问,自有域名 zenfamily.it 暗示家庭/个人工作室形态;安全方向证",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:具名直达+双证+自有域 / W:无公开谱 / O:弗留利 SME 项目随单 / T:失联",
+    "Saga产品适配": "个人顾问通道备养,具名引见后定"
+   },
+   "swot_text": "- **S**:具名直达+双证+自有域\n- **W**:无公开谱\n- **O**:弗留利 SME 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：意大利谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档状态",
+    "zenfamily.it 承载业务形态",
+    "客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见后按其项目谱再定",
+     "question": "你在弗留利本地项目里,PoE 接入与安防线现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见后按其项目谱再定",
+     "question": "你在弗留利本地项目里,PoE 接入与安防线现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-214",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "个人(摩尔多瓦;Vovcik81@mail.ru;+373 795 065 44;**MikroTik 生态自研软件:集中化设备备份/集中软件升级/流量控制/版本变更比对一套搞定**;承有线无线网络、控制器与流量优先级、防火墙、CAPsMAN、OSPF 项目;MikroTik 安全工程师资质(安全审计含)) | R65 深挖:R65 搜索无果（摩尔多瓦小实体公开件薄）；R65 守档准由",
+    "inference": "ISV 型顾问:工具链围绕设备可管理性(API/SNMP)展开,对交换机开放文档/协议栈的敏感度远高于一般顾问;他的集中管理谱若认可我方设备=自带传播",
+    "hypothesis": "开口角度=「可被集中管理谱看管的 PoE 交换机」:先验活跃,激活后以开放 API/SNMP 文档角度出信"
+   },
+   "dimensions": {
+    "背景深描": "（摩尔多瓦）MikroTik 集中管理软件开发者（SIA 私谱）(R65 搜索/核验：R65 搜索无果（摩尔多瓦小实体公开件薄）；守档准由）",
+    "芯片与在用型号": "【推断】ISV 型顾问:工具链围绕设备可管理性(API/SNMP)展开,对交换机开放文档/协议栈的敏感度远高于一般顾问;他的集中管理谱若认可我方设备=自带传播",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 含 Security Engineer 方向 ",
+    "优缺点SWOT": "S:自研工具=技术判断权威 / W:个人,单据小 / O:开放 SNMP/API 我方卖点正对其工具 / T:只认 RouterOS 生态",
+    "Saga产品适配": "ISV 型顾问备养:开放 SNMP/API 文档角度激活"
+   },
+   "swot_text": "- **S**:自研工具=技术判断权威\n- **W**:个人,单据小\n- **O**:开放 SNMP/API 我方卖点正对其工具\n- **T**:只认 RouterOS 生态",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV(MikroTik 认证顾问含 Security Engineer 方向;自研集中备份/集中升级/流控/版本比对软件;承接 CAPsMAN/OSPF/防火墙项目安全审计)",
+     "quote": "CSV(MikroTik 认证顾问含 Security Engineer 方向;自研集中备份/集中升级/流控/版本比对软件;承接 CAPsMAN/OSPF/防火墙项目安全审计)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：R65 搜索无果（摩尔多瓦小实体公开件薄）",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "集中管理谱是否已覆盖非 MikroTik 交换机",
+    "活跃与项目量"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「可被集中管理谱看管的 PoE 交换机」:先验活跃,激活后以开放 API/SNMP 文档角度出信",
+     "question": "(先验活跃)你的集中管理谱里,交换机侧现管到哪几家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「可被集中管理谱看管的 PoE 交换机」:先验活跃,激活后以开放 API/SNMP 文档角度出信",
+     "question": "(先验活跃)你的集中管理谱里,交换机侧现管到哪几家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-264",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由",
+    "inference": "高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台",
+    "hypothesis": "开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案"
+   },
+   "dimensions": {
+    "背景深描": "Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:博士讲师+官方 Academy+数千学生影响力 / W:高校采购流程慢 / O:批量对照教具(数十台级)+教材入谱 / T:MikroTik Academy 官方排他顾虑",
+    "Saga产品适配": "ZUT 高校 MikroTik Academy 的批量对照教具位(已有 TP-Link 对照先例,我们申请第二对照牌)"
+   },
+   "swot_text": "- **S**:博士讲师+官方 Academy+数千学生影响力\n- **W**:高校采购流程慢\n- **O**:批量对照教具(数十台级)+教材入谱\n- **T**:MikroTik Academy 官方排他顾虑",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Laboratoria Sieci Komputerowych: 4 sale dydaktyczne 60 komputerów 4 szafy RACK z wyposażeniem 112 routerów MikroTik 64 przełączniki TP-Link ",
+     "quote": "Laboratoria Sieci Komputerowych: 4 sale dydaktyczne 60 komputerów 4 szafy RACK z wyposażeniem 112 routerów MikroTik 64 przełączniki TP-Link L3/L4 4 node klaster VMware",
+     "url": "https://gsliwinski.wi.zut.edu.pl/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz",
+     "quote": "W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz Grzegorz Śliwiński",
+     "url": "https://gsliwinski.wi.zut.edu.pl/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "学院教具采购预算节奏(学年/项目经费)",
+    "TP-Link 64 台采购渠道(捐赠/采购?可复制其路径)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具批量+教材合作一页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案",
+     "question": "您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · gsliwinski@zut.edu.pl 具名",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案",
+     "question": "您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案",
+     "question": "您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Dear Dr. Śliwiński,\n\nA university lab running 112 MikroTik routers and 64 TP-Link switches across four RACK cabinets - you already teach with a documented second brand beside MikroTik, which is exactly the pedagogical slot we build for.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Polish documentation - lab-manual-ready, with a complete test pack your students can follow step by step. Reference: $99 USD EXW (2026-09-29), with batch terms for classroom quantities.\n\nOne question: for the PoE segment of your laboratory course, would a documented second comparison brand - supplied in classroom quantities with full teaching materials - earn a place in your lab manual?\n\nIf useful, I can send one unit with the complete test pack first. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-265",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Kacper Kisielewski(Nałęczów;MTCNA+MTCRE;gmail 个人邮箱;原备注:可能个人兼职,低优先) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由",
+    "inference": "纯个人兼职顾问(卢布林地区疗养小城)",
+    "hypothesis": "守档备养:具名引见,低频"
+   },
+   "dimensions": {
+    "背景深描": "Kacper Kisielewski(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】纯个人兼职顾问(卢布林地区疗养小城)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:双证 / W:兼职疑,量微 / O:低频观察 / T:失联",
+    "Saga产品适配": "个人兼职顾问备养:低频引见"
+   },
+   "swot_text": "- **S**:双证\n- **W**:兼职疑,量微\n- **O**:低频观察\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;个人 gmail",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;个人 gmail",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与活跃度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 低频具名引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,低频",
+     "question": "你兼职的项目里碰 PoE 件选型的场景多吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+60 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,低频",
+     "question": "你兼职的项目里碰 PoE 件选型的场景多吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-269",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Piotr Maślak(Warszawa;maslak.waw.pl 自有域;MTCNA+MTCRE+**MTCINE(ISP 互联级)**;piotr@maslak.waw.pl) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由",
+    "inference": "华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧",
+    "hypothesis": "守档备养:具名引见(ISP 互联语言),其 ISP 客户谱接入侧 PoE 件场景长线观察"
+   },
+   "dimensions": {
+    "背景深描": "Piotr Maślak(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】华沙自有域高证顾问,MTCINE=运营商/ISP 方向;波兰 ISP/WISP 圈厚(全国数千小 ISP),其客户谱大概率在 ISP 侧",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCINE ",
+    "优缺点SWOT": "S:MTCINE+自有域+华沙 / W:个体量级 / O:ISP 接入侧随单观察口 / T:失联",
+    "Saga产品适配": "MTCINE ISP 方向顾问备养:具名通道,ISP 谱信号再激活"
+   },
+   "swot_text": "- **S**:MTCINE+自有域+华沙\n- **W**:个体量级\n- **O**:ISP 接入侧随单观察口\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE;maslak.waw.pl 自有域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE;maslak.waw.pl 自有域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "ISP 客户谱与项目类型",
+    "现证在档"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(ISP 互联语言),其 ISP 客户谱接入侧 PoE 件场景长线观察",
+     "question": "你给波兰 ISP/WISP 做互联/接入项目时,汇聚与接入侧 PoE 件现见哪些品牌?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(ISP 互联语言),其 ISP 客户谱接入侧 PoE 件场景长线观察",
+     "question": "你给波兰 ISP/WISP 做互联/接入项目时,汇聚与接入侧 PoE 件现见哪些品牌?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-280",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Oskar Siejk(Saggart Dublin;vit.ie 公司域;MTCNA+MTCRE;**英波双语**;oskar@vit.ie) | R65 深挖:爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；R65 守档准由",
+    "inference": "都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱",
+    "hypothesis": "守档备养:具名引见;波兰语是其后门优势(波兰安装商/侨企谱)"
+   },
+   "dimensions": {
+    "背景深描": "Oskar Siejk(R65 搜索/核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档；守档准由）",
+    "芯片与在用型号": "【推断】都柏林波兰裔顾问(英波双语):爱尔兰波兰裔社群(全爱最大少数族裔之一)SME 谱",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:英波双语+公司域+都柏林 / W:个人量级 / O:波兰裔企业谱随单 / T:失联",
+    "Saga产品适配": "都柏林波兰裔顾问备养:具名通道(双语谱)"
+   },
+   "swot_text": "- **S**:英波双语+公司域+都柏林\n- **W**:个人量级\n- **O**:波兰裔企业谱随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英波双语",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;英波双语",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：爱尔兰谱（oskar.network/pureoskar 同名噪声排除）；R65 守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "vit.ie 业务面",
+    "波兰裔客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;波兰语是其后门优势(波兰安装商/侨企谱)",
+     "question": "你给都柏林(波兰裔?)企业做网络时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;波兰语是其后门优势(波兰安装商/侨企谱)",
+     "question": "你给都柏林(波兰裔?)企业做网络时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-315",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "George Lupulescu(georgelupulescu@gmail.com;+40 771 607 498;**MikroTik 认证顾问 MTCNA+MTCRE**;全栈网络工程师,15+ 年经验) | R65 深挖:罗马尼亚谱；R65 搜索无果；R65 守档准由",
+    "inference": "个人顾问型:方案/采购/运维一体,项目谱自主选型",
+    "hypothesis": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "George Lupulescu(R65 搜索/核验：罗马尼亚谱；R65 搜索无果；守档准由）",
+    "芯片与在用型号": "【推断】个人顾问型:方案/采购/运维一体,项目谱自主选型",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:15 年全栈双证 / W:个人体量小 / O:顾问指定权大 / T:点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:15 年全栈双证\n- **W**:个人体量小\n- **O**:顾问指定权大\n- **T**:点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;全栈网络工程师,15+ 年经验",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;全栈网络工程师,15+ 年经验",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：罗马尼亚谱；R65 搜索无果",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在手项目量",
+    "谱系自选权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-319",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Octavian Nicolae Tolea - Newvision(newvision.ro;octavian.tolea@newvision.ro;+40 724 039 489;**MikroTik 认证顾问 MTCNA+MTCSE;中小企业/家庭办公网络设计实施与支持;无线设计与部署、PtP 链路、Hotspot 管理、站点间隧道与远程办公、网络安全**) | R65 深挖:罗马尼亚谱（Newvision 同名谱生发）；R65 守档；R65 守档准由",
+    "inference": "顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高",
+    "hypothesis": "开口角度=「顾问工具箱 value 档(无线场点 PoE 随单扣)」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Octavian Nicolae Tolea - Newvision(R65 搜索/核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档；守档准由）",
+    "芯片与在用型号": "【推断】顾问带自个门面(newvision.ro):无线+安全向,项目谱为 SME/SOHO装机,自选件权重高",
+    "关键人KP": "（见 R64 KP 猎捕节/本档 KP 表）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:门面+双证 / W:个人体量小 / O:无线场点 PoE 随单 / T:点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:门面+双证\n- **W**:个人体量小\n- **O**:无线场点 PoE 随单\n- **T**:点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCSE;SME/SOHO 网络设计实施支持;无线设计部署/PtP/Hotspot/站点隧道/网络安全",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE;SME/SOHO 网络设计实施支持;无线设计部署/PtP/Hotspot/站点隧道/网络安全",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：罗马尼亚谱（Newvision 同名谱生发）；R65 守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Octavian Nicolae Tolea",
+     "role": "本人=业主/顾问(名录口径)",
+     "contact": "—",
+     "status": "名录具名",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns56": [
+    "在手项目量",
+    "无线谱 PoE 需求强度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档(无线场点 PoE 随单扣)」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你做无线/SME 项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档(无线场点 PoE 随单扣)」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你做无线/SME 项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-455",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Rogério Costa(costa_rogerio@yahoo.com;+351 914 846 382;**MikroTik 认证顾问 MTCNA+MTCIPv6E(IPv6 方向)**;RouterOS 基础设施运维/设计/实施/排障/优化;LinkedIn 在册;英西葡三语) | R65 深挖:同名巴西 Product Manager 噪声排除，葡萄牙谱主守档；R65 守档准由",
+    "inference": "IPv6 向个人顾问:基础设施项目谱,西语覆盖=葡+西双市场合作潜力",
+    "hypothesis": "开口角度=「顾问工具箱 value 档(IPv6 项目谱)」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Rogério Costa(R65 搜索/核验：同名巴西 Product Manager 噪声排除，葡萄牙谱主守档；守档准由）",
+    "芯片与在用型号": "【推断】IPv6 向个人顾问:基础设施项目谱,西语覆盖=葡+西双市场合作潜力",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCIPv6E ",
+    "优缺点SWOT": "S:IPv6 专长+三语 / W:个人体量小 / O:IPv6 改造谱随单 / T:点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:IPv6 专长+三语\n- **W**:个人体量小\n- **O**:IPv6 改造谱随单\n- **T**:点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E;RouterOS 运维/设计/实施/排障/优化;英西葡三语;LinkedIn",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E;RouterOS 运维/设计/实施/排障/优化;英西葡三语;LinkedIn",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：同名巴西 Product Manager 噪声排除，葡萄牙谱主守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在手项目量",
+    "IPv6 谱客户类型"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档(IPv6 项目谱)」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你做基础设施/IPv6 项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档(IPv6 项目谱)」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你做基础设施/IPv6 项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-490",
+   "researched_on": "2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Andrey Glushchenko - Core-Bridge(AndreiGL@core-bridge.me;core-bridge.me;+382 068 176 243;**黑山唯一 MikroTik 认证顾问(MTCNA+MTCSE)**;英俄塞三语) | R65 深挖:同名 Corebridge Financial 噪谱排除；黑山本体守档；R65 守档准由",
+    "inference": "黑山独家稀缺顾问:国门小国顾问=政企/ISP 项目绕不开的人",
+    "hypothesis": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Andrey Glushchenko - Core-Bridge(R65 搜索/核验：同名 Corebridge Financial 噪谱排除；黑山本体守档；守档准由）",
+    "芯片与在用型号": "【推断】黑山独家稀缺顾问:国门小国顾问=政企/ISP 项目绕不开的人",
+    "关键人KP": "（见 R64 KP 猎捕节/本档 KP 表）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:全国唯一+自有门面域 / W:个人体量小 / O:顾问指定权大 / T:单靠一人节奏",
+    "Saga产品适配": "全国唯一顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:全国唯一+自有门面域\n- **W**:个人体量小\n- **O**:顾问指定权大\n- **T**:单靠一人节奏",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:黑山唯一 MikroTik 认证顾问 MTCNA+MTCSE;英俄塞三语;core-bridge.me",
+     "quote": "CSV:黑山唯一 MikroTik 认证顾问 MTCNA+MTCSE;英俄塞三语;core-bridge.me",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索/同名核验：同名 Corebridge Financial 噪谱排除；黑山本体守档",
+     "quote": "(R65 同名实体验证日志）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Andrey Glushchenko",
+     "role": "本人=业主/顾问(名录口径)",
+     "contact": "—",
+     "status": "名录具名",
+     "source": "客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "unknowns56": [
+    "在手项目量",
+    "活跃佐证"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给黑山项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「唯一顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给黑山项目配网络时,PoE 交换机现指定哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

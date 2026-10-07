@@ -1,0 +1,335 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 16 批（瑞典 3+ 西班牙 DMI)",
+ "scope": "B-527 EG Electronics / B-528 HighTech Nordic / B-296 Sanuk Systems / B-462 DMI Computer",
+ "records": [
+  {
+   "code": "B-527",
+   "researched_on": "2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "EG Electronics AB(Spånga Fagerstagatan 3,Stockholm;**KAMIC Group 电子事业部主公司**;51-100 人):**显示/HMI/嵌入计算 VAD**——Noritake Itron 显示授权、嵌入 PC/存储/RF 微波谱;北欧 8 国+美/亚,斯京中央仓+美国/香港物流点;收购 Acte Solutions 显示系统业务;工业自动化市场(HMI+connectivity);CSV 标 N-Tron/Red Lion/Anybus 谱出自其 connectivity 板块 | R65 深挖:KONECTA 北欧大谱 81 人；Nilsson+Jacobsson CEO 两谱线",
+    "inference": "嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层",
+    "hypothesis": "开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入"
+   },
+   "dimensions": {
+    "背景深描": "EG Electronics AB(Fagerstagatan 3, Spånga 16353, Stockholm;KONECTA 集团属；**Anders Nilsson = Subsidiary CEO / Anders Jacobsson = Group CEO(集团口径）**;Jouni Telio KAM/Jonas Kallsten/Johan Bjorkman 等 81 员工；谱型=北欧电子/机电部件分销 100+ 年血统，工业/运输/医疗/防务跨度；2025-10-01 收购 Acte Solutions 显示与系统业务；美国+中国办",
+    "芯片与在用型号": "【推断】嵌入显示/HMI 为主血统的 KAMIC 集团 VAD,connectivity(N-Tron/Anybus)是其一角;客户=机械制造商/OEM,正是工业 PoE 的装机客层",
+    "关键人KP": "Anders Nilsson = EG Electronics AB Subsidiary CEO(contactout/DnB);Anders Jacobsson = Group CEO(2025-10 收购新闻稿）",
+    "关注点与资质": "N-Tron + Red Lion + Anybus ",
+    "优缺点SWOT": "S:KAMIC 集团+8 国物流+OEM/机械制造客层 / W:connectivity 非主业 / O:N-Tron 旁 DIN 轨 value 位 / T:主业绑定显示谱",
+    "Saga产品适配": "KAMIC 集团 VAD 的 connectivity 板块 N-Tron 谱旁 DIN 轨 value 二源(OEM/机械制造客层对口)"
+   },
+   "swot_text": "- **S**:KAMIC 集团+8 国物流+OEM/机械制造客层\n- **W**:connectivity 非主业\n- **O**:N-Tron 旁 DIN 轨 value 位\n- **T**:主业绑定显示谱",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "The largest company in the business area is EG Electronics…represented in eight countries…central warehouse in Stockholm…integrated logistic",
+     "quote": "The largest company in the business area is EG Electronics…represented in eight countries…central warehouse in Stockholm…integrated logistics centres in the USA and Hong Kong",
+     "url": "https://kamicgroup.com/index.php/en/electronics-2/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectiv",
+     "quote": "We help machine builders, OEMs, and manufacturers power the next generation of automation…embedded computing, industrial displays, connectivity",
+     "url": "https://egelectronics.com/markets/industrial-automation/"
+    },
+    {
+     "dim": "R65 集团/收购",
+     "text": "EG Electronics AB Spånga 81 人/跨工业医疗防务；2025-10-01 收购 Acte Solutions 显示系统业务；KONECTA 大谱",
+     "quote": "\"says Anders Jacobsson, CEO, EG Electronics AB\" … The acquisition takes effect on October 1, 2025 … EG Electronics AB is a leading Nordic supplier of advanced electronic and electromechanical components",
+     "url": "https://egelectronics.com/news/expands-and-acquires-business-in-displays-and-system-solutions/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Anders Nilsson",
+     "role": "Subsidiary CEO(EG Electronics AB)",
+     "contact": "经 egelectronics.com",
+     "status": "contactout + DnB 双源（DnB 名： Karl Olof Johnny Hedlund 管理层口径同步）",
+     "source": "https://contactout.com/company/EG-Electronics-96339"
+    },
+    {
+     "name": "Anders Jacobsson",
+     "role": "Group CEO(KONECTA)",
+     "contact": "同上",
+     "status": "egelectronics.com 2025-10-01 自曝",
+     "source": "https://egelectronics.com/news/expands-and-acquires-business-in-displays-and-system-solutions/"
+    }
+   ],
+   "unknowns56": [
+    "connectivity 板块在架(PoE 件谱深)",
+    "其 OEM 客户 value 档接受度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · N-Tron 对位页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入",
+     "question": "你们 connectivity 板块 N-Tron 旁,value DIN 轨 PoE 二源有位吗?OEM 客户要 value 件的频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · hello@egelectronics.com 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入",
+     "question": "你们 connectivity 板块 N-Tron 旁,value DIN 轨 PoE 二源有位吗?OEM 客户要 value 件的频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「KAMIC 集团 connectivity 板块 N-Tron 旁的 DIN 轨 value 位」:STI-288GP 以其 OEM/机械制造客户谱的二源入",
+     "question": "你们 connectivity 板块 N-Tron 旁,value DIN 轨 PoE 二源有位吗?OEM 客户要 value 件的频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi EG Electronics team,\n\nKAMIC Group's electronics flagship with HMI displays, embedded computing and industrial connectivity for machine builders across eight countries - your OEM customers already ask you for the connectivity layer, and the value side of that layer is thin.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your N-Tron shelf, fully open to an OEM variant under your terms.\n\nOne question: inside your connectivity offering for machine builders, is there a documented value DIN-rail PoE source today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-528",
+   "researched_on": "2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱",
+    "inference": "ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE",
+    "hypothesis": "开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)"
+   },
+   "dimensions": {
+    "背景深描": "HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Keith Jeminen + Andreas Luther = 联合创始（30+ 年合并经验），Andreas Luther = Co-Founder & CEO**;谱型=工业 PC/Embedded/数位标牌/医疗电脑/展示备件门——年 3,000+ 定制系，-40°C 北地到沙坚谱在各业（基础/工业/国防/海事/零售/自动化）;info@hightechnordic.com / +46(0)10-177 58 00",
+    "芯片与在用型号": "【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE",
+    "关键人KP": "Andreas Luther = Co-Founder & CEO(PrimoTech 收购同位）;Keith Jeminen = Co-Founder",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他",
+    "Saga产品适配": "ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)"
+   },
+   "swot_text": "- **S**:ORing 授权+组织化在营\n- **W**:足迹薄\n- **O**:value DIN 轨二源\n- **T**:ORing 排他",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "R49 复核:官网联系页正文可见 info@/logistics@/support@/invoice@hightechnordic.com",
+     "quote": "R49 复核:官网联系页正文可见 info@/logistics@/support@/invoice@hightechnordic.com",
+     "url": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:分销(ORing 授权),瑞典工业分销",
+     "quote": "CSV:分销(ORing 授权),瑞典工业分销",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 收购/实名",
+     "text": "HighTech Nordic AB · Norrtälje 2017 创 · Luther+Jeminen 30+年谱联创 · 2024-05-13 PrimoTech 收购；工业 PC/Embedded 亿级定制",
+     "quote": "HighTech Nordic is an acquired company based in Norrtalje (Sweden), founded in 2017 by Keith Jeminen and Andreas Luther … Andreas Luther: Co-Founder & CEO … Acquired by Primotech (May 13, 2024)",
+     "url": "https://tracxn.com/d/companies/hightech-nordic/__h-gXUOxgKfE5SzYDWYemsjeX6xhGPO-AQIwa3ruQCRc"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Andreas Luther",
+     "role": "Co-Founder & CEO",
+     "contact": "info@hightechnordic.com",
+     "status": "Tracxn + imap 双源实名",
+     "source": "https://tracxn.com/d/companies/hightech-nordic/__h-gXUOxgKfE5SzYDWYemsjeX6xhGPO-AQIwa3ruQCRc"
+    },
+    {
+     "name": "Keith Jeminen",
+     "role": "Co-Founder",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "ORing 谱深(在架 DIN 轨 PoE 价位)",
+    "其客层(机械/交通/能源?)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · ORing 对位页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@hightechnordic.com 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi HighTech Nordic team,\n\nAn organized four-mailbox operation carrying ORing industrial switching in Sweden - you know the price points where projects walk away from premium rail-mount switches.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-296",
+   "researched_on": "2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄) | R65 深挖:瑞/泰双谱酒店谱型=瑞泰国宽带双线实体",
+    "inference": "瑞典小型 Reseller;足迹薄,活跃度待验",
+    "hypothesis": "开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走"
+   },
+   "dimensions": {
+    "背景深描": "Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网服务」运营商+MikroTik reseller 官方自曝**;MikroTik 装备多年部署自认(Broadcast sites/remote offices/central hubs/operator environments);官网自述 MikroTik Reseller",
+    "芯片与在用型号": "【推断】瑞典小型 Reseller;足迹薄,活跃度待验",
+    "关键人KP": "—(AB aktiebolagsregistret 收费墙；R65 谱位+双域名谱自曝足档；泰国实体 AS138616 档案挂靠）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联",
+    "Saga产品适配": "瑞典 Reseller value PoE 试探(活跃验证先行)"
+   },
+   "swot_text": "- **S**:斯京区位\n- **W**:足迹薄\n- **O**:value PoE 档\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com",
+     "quote": "CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 谱自曝",
+     "text": "Sanuk Systems=瑞/泰双谱酒店宽带运营；MikroTik Reseller 官方自曝；多年部署 operator 环境档",
+     "quote": "We have an extensive practical knowledge of particularly MikroTik network equipment from our many deployments, and both resell hardware and provide consulting … Mikrotik Reseller … Sanuk Systems are based in Rayong and Hua Hin, Thailand and Stockholm, Sweden",
+     "url": "https://www.sanuksystems.com/business/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "活跃经营佐证",
+    "谱与量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验(电话/网站)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · mail@sanuksystems.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Sanuk team,\n\nA MikroTik reseller in Älvsjö - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-462",
+   "researched_on": "2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**) | R65 深挖:西班牙 IT 批为 €164M 巨号;DMI MikroTik 谱位谱全开",
+    "inference": "大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)",
+    "hypothesis": "开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口"
+   },
+   "dimensions": {
+    "背景深描": "DMI Computer(西班牙 IT 大国批发；1989 创，100% 西班牙资本，CIF A-79522702;2025 年营收 €164M/120+ 职业；**Emilio Sánchez-Clemente = CEO(esanchez@dmi.es)**;José Antonio Rodríguez = Director de negocio(jarodriguez@dmi.es);Javier Martín Martín = Compras Coordinador(jmartin@dmi.es);La Coruña/Málaga/Valencia/Pcolon 4 移办);**谱涵:MikroTik/Ubiquiti/Tp-Link/Netgear/Digitus 等连通谱；DMI PRO 子缋谱=",
+    "芯片与在用型号": "【推断】大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)",
+    "关键人KP": "Emilio Sánchez-Clemente = CEO;José Antonio Rodríguez = Director de negocio;Javier Martín Martín = Compras Coordinador",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:110 人+5000 客户+200 门店+葡办+PRO 事业部 / W:value 档多牌挤位 / O:24 口 280W 管理型 PoE 价位空档 / T:CUDY/LANBERG 低价惯性",
+    "Saga产品适配": "大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)"
+   },
+   "swot_text": "- **S**:110 人+5000 客户+200 门店+葡办+PRO 事业部\n- **W**:value 档多牌挤位\n- **O**:24 口 280W 管理型 PoE 价位空档\n- **T**:CUDY/LANBERG 低价惯性",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "más de 110 empleados…más de 5.000 clientes distribuidos por toda la Península y Europa…más de 6.000 referencias vivas",
+     "quote": "más de 110 empleados…más de 5.000 clientes distribuidos por toda la Península y Europa…más de 6.000 referencias vivas",
+     "url": "https://es.linkedin.com/company/dmi-computer-s-a-"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "DMI Computer es fundador de la red de tiendas MR Micro, en España tiene más de 200 puntos de venta",
+     "quote": "DMI Computer es fundador de la red de tiendas MR Micro, en España tiene más de 200 puntos de venta",
+     "url": "https://es.linkedin.com/company/dmi-computer-s-a-"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL",
+     "quote": "Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL",
+     "url": "https://www.dmi.es/fabricantes/"
+    },
+    {
+     "dim": "R65 谱/体量",
+     "text": "DMI Computer 1989 创 165M 2025 营收 120 职业；MikroTik 谱涵+Ubiquiti/Tp-Link/Netgear 等；西班牙纯资 100%",
+     "quote": "Responsable Emilio Sánchez-Clemente, CEO … Facturación anual: 164 millones de euros de facturación en 2025 … Conectividad: Tp-Link, Ubiquiti, Gembird, Mikrotik, Digitus by Assmann, Aisens, Netgear, Lanberg",
+     "url": "https://guiacanaltic.channelpartner.es/dmi-computer/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Emilio Sánchez-Clemente",
+     "role": "CEO",
+     "contact": "esanchez@dmi.es",
+     "status": "channelpartner.es + Quiz自曝双源",
+     "source": "https://channelpartner.es/guia-canal-tic/quien-es-quien/1098536047802/dmi-computer.1.html"
+    },
+    {
+     "name": "José Antonio Rodríguez",
+     "role": "Director de negocio（业务总监）",
+     "contact": "jarodriguez@dmi.es",
+     "status": "同上",
+     "source": "同上"
+    },
+    {
+     "name": "Javier Martín Martín",
+     "role": "Coordinador de Compras（采购协调）",
+     "contact": "jmartin@dmi.es",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "CUDY/LANBERG 价位档在架深(有无 24 口管理 PoE)",
+    "DMI PRO 新 vendor 准入与上架费"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 价位空档对照页(CUDY/LANBERG/Ubiquiti 对位)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口",
+     "question": "你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · clientes@dmi.es 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口",
+     "question": "你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口",
+     "question": "你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi DMI team,\n\nThirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.\n\nWe build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.\n\nOne question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

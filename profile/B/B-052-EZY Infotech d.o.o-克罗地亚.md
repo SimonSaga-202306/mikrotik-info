@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电…
+- **是谁**：EZY Infotech d.o.o.(OIB 79541484681,MBS 070061024,2002-05-16 创立,Čakovec M. Krleže 28;**家族式**:Maja Novosel + Pe…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双牌小 Master 的 value PoE 管理补位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | EZY Infotech d.o.o.(OIB 79541484681,MBS 070061024,2002-05-16 创立,Čakovec M. Krleže 28;**家族式**:Maja Novosel + Petra Novosel 母女/姐妹双业主双董事,Fina Info 最新的股东/董事二人名录;€120,000 股本,75% 外资股(fin | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr)
+- 【事实】EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr) | R65 深挖:克罗地亚小家族分销;母女双董事
 - 【推断】克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实
 - 【假设】开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口
 
@@ -79,7 +79,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Maja Novosel | Vlasnik & Direktor(业主/董事) | 经 ezy.hr/Lost 总线 | companywall.hr + fina Info.BIZ 双源实名 | https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0 |
+| Petra Novosel | Vlasnik & Direktor(业主/董事) | 同上 | 同源 | 同 companywall.hr |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -109,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr)
+- **背景深描**：EZY Infotech d.o.o.(OIB 79541484681,MBS 070061024,2002-05-16 创立,Čakovec M. Krleže 28;**家族式**:Maja Novosel + Petra Novosel 母女/姐妹双业主双董事,Fina Info 最新的股东/董事二人名录;€120,000 股本,75% 外资股(fininfo/mojatvrtka 记 Branko Novosel dipl.ing. 早期 key person 言);小业主)+rival Mr. Kopeček)
 - **芯片与在用型号**：【推断】克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实
-- **关键人KP**：—
+- **关键人KP**：Maja Novosel + Petra Novosel = 双业主双董事(Fina Info.BIZ 最新);Branko Novosel 早期 key person(或退休)
 - **关注点与资质**：MikroTik（Master） 
 - **优缺点SWOT**：S:双牌 Master 名录 / W:体量小(10-19 人) / O:区域谱 PoE 补位 / T:被大 VAD(EVOL/Pondi)压价
 - **Saga产品适配**：双牌小 Master 的 value PoE 管理补位
@@ -126,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888
   > Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888
   > 来源：https://www.ui.com/distributors/?region=eur
+- **【R65 商业登记】**OIB 79541484681 · 2002 创立 · Maja+Petra Novosel 双业主双董事 · 股本 €120K · 小业主
+  > Trenutni direktori tvrtke su PETRA NOVOSEL, Maja Novosel … Trenutni vlasnici tvrtke su MAJA NOVOSEL, PETRA NOVOSEL … 16.05.2002.
+  > 来源：https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +163,7 @@ S:双牌 Master 名录 / W:体量小(10-19 人) / O:区域谱 PoE 补位 / T:被
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

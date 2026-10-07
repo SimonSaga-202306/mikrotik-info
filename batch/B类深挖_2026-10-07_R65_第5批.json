@@ -1,0 +1,600 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 5 批(冰岛/拉脱维亚/挪威/土耳其/奥地利/希腊)",
+ "scope": "B-058 / B-178 / B-517 / B-094 / B-108 / B-111 / B-514 / B-129",
+ "records": [
+  {
+   "code": "B-058",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FCF/FCA+MTCNA/MTCRE/MTCINE/MTCWE/MTCTCE 5 证,西雅图同步法人;服务=安全咨询/审计/培训+网络培训+Druva/1Password 软件** | R65 深挖:谱型核正:安全咨询非纯分销,MikroTik 谱挂服务线",
+    "inference": "「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线",
+    "hypothesis": "开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长"
+   },
+   "dimensions": {
+    "背景深描": "Öruggt Net ehf(dba Secure Net;Köllunarklettsvegur 1, 104 Reykjavik(旧 Kristínargata 1 102);KT 670224-0740,VSK 152122;**谱型核正:网络安全咨询/服务公司(不是纯分销)**——cybersecurity for Icelandic companies,info@oruggtnet.is,+354-551-5120;双址搬迁",
+    "芯片与在用型号": "【推断】「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线",
+    "关键人KP": "—(冰岛 ehf 董事实名待 rsk.is 登记检索;谱型位置在全岛 SME 安全合规方)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:冰岛唯一 Master 名头+5 证创始人+美冰双法人 / W:2024 新创,量级极小 / O:教具样本+冰岛政企咨询随单 / T:小岛市场天花板",
+    "Saga产品适配": "2024 新创安全咨询+培训谱:教具样本为最白开口(『唯一 Master』名头下实为咨询店,守其成长)"
+   },
+   "swot_text": "- **S**:冰岛唯一 Master 名头+5 证创始人+美冰双法人\n- **W**:2024 新创,量级极小\n- **O**:教具样本+冰岛政企咨询随单\n- **T**:小岛市场天花板",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Öruggt Net ehf was registered with the Icelandic tax authority on 21 February 2024…We are a small consulting firm…Gróska Growhouse",
+     "quote": "Öruggt Net ehf was registered with the Icelandic tax authority on 21 February 2024…We are a small consulting firm…Gróska Growhouse",
+     "url": "https://securenet.is/about-us/our-founder-and-us/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Öruggt Net er eini viðurkenndi dreifingaraðili MikroTik á Íslandi",
+     "quote": "Öruggt Net er eini viðurkenndi dreifingaraðili MikroTik á Íslandi",
+     "url": "https://www.cbinsights.com/company/mikroTik(冰岛语引述)"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Cybersecurity consultation, Network Services, Cybersecurity Training, Network Training, Software Price List",
+     "quote": "Cybersecurity consultation, Network Services, Cybersecurity Training, Network Training, Software Price List",
+     "url": "https://securenet.is/"
+    },
+    {
+     "dim": "R65 谱型+登记",
+     "text": "Cybersecurity consultancy;KT 670224-0740;双址 104/102 Reykjavik;函 boxinfo@oruggtnet.is",
+     "quote": "We are Öruggt Net ehf, or Secure Net in English … Cybersecurity for Icelandic companies … KT: 670224-0740 VSK: 152122",
+     "url": "https://securenet.is/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "培训课频度与学员谱",
+    "其冰岛企业客户 PoE 随单真实量级(小岛市场)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本一页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长",
+     "question": "你的网络培训课上,PoE 段对照教具现有没有位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@oruggtnet.is 开口",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长",
+     "question": "你的网络培训课上,PoE 段对照教具现有没有位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长",
+     "question": "你的网络培训课上,PoE 段对照教具现有没有位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Secure Net team,\n\nIceland's only recognized MikroTik distributor title on a 2024-founded cybersecurity consultancy with an ISO 27001 Lead Auditor at the helm - small shop, serious credentials, and a training roster to match.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your network-training bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on your training bench in Reykjavik, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-178",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "GOODSTORE(SIA \"Goodman Group\" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店) | R65 深挖:弱电系统集成+城 home 平台;footer Miide forte PoE 谱在架有其接口",
+    "inference": "弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份",
+    "hypothesis": "开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位"
+   },
+   "dimensions": {
+    "背景深描": "GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpils, LV-5401;**谱位=Daugavpils 当地综合弱电系统集成商**——设计+施工 视频安防/门禁/火警/低压系统 多年经验,bulk online store 平台 veikals@goodstore.lv;Swedbank HABALV22)",
+    "芯片与在用型号": "【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份",
+    "关键人KP": "—(SIA Goodman Group valdnieks 拉托维亚登记查询方向)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 DIN PoE 轨+光伏场站 / T:拉脱维亚东部市场薄",
+    "Saga产品适配": "弱电安防垂直店的监控谱工业 PoE 供电轨"
+   },
+   "swot_text": "- **S**:弱电施工背景=懂场点供电\n- **W**:Daugavpils 体量有限\n- **O**:监控柜 DIN PoE 轨+光伏场站\n- **T**:拉脱维亚东部市场薄",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, ",
+     "quote": "SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, security systems, access control systems, fire safety systems … network equipment, optical networks … products related to solar energy",
+     "url": "https://goodstore.lv/en/about-us/"
+    },
+    {
+     "dim": "R65 谱位/登记",
+     "text": "SIA Goodman Group · Daugavpils · 弱电(视频安防/门禁/火警)设计施工一体商 · goodstore.lv 平台;Reg 41503064521",
+     "quote": "SIA \"Goodman Group\" is a company with extensive experience in the design and construction of low-voltage systems and networks … Muzeja street 11, Daugavpils",
+     "url": "https://goodstore.lv/en/about-us/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "监控谱相机品牌与 PoE 供电现供",
+    "DIN 轨档位空缺与否"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 监控柜 DIN PoE 页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位",
+     "question": "你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@goodstore.lv 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位",
+     "question": "你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位",
+     "question": "你们的监控/弱电项目柜里,DIN 轨工业 PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi GOODSTORE team,\n\nA low-voltage systems shop built by installers - CCTV, access control, fire alarm, cabling, and now solar. Your camera and control panels end up in cabinets and on DIN rails, where the PoE switch is the part that decides whether an install holds through a Baltic winter.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your surveillance cabinets and outbuildings, white-label friendly.\n\nOne question: in your CCTV and low-voltage projects, which DIN-rail industrial PoE switch feeds the cameras today?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-517",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位",
+    "inference": "挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)",
+    "hypothesis": "开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣"
+   },
+   "dimensions": {
+    "背景深描": "Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren(f1973)Daglig leder + Martin Roland Linder(f1972)Styrets leder;+47 23 03 53 30)",
+    "芯片与在用型号": "【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)",
+    "关键人KP": "Roger Allan Wahlgren = Daglig leder(常务 CEO);Martin Roland Linder = Styrets leder(董事长);Sorb Industri AB 全资母(瑞典集团)",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 / T:ORing 排他",
+    "Saga产品适配": "挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)"
+   },
+   "swot_text": "- **S**:光纤专精+ORing 授权\n- **W**:足迹薄\n- **O**:value DIN 轨二源+机柜随单\n- **T**:ORing 排他",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no",
+     "quote": "R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no",
+     "url": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:分销(ORing 授权),挪威光纤/网络分销",
+     "quote": "CSV:分销(ORing 授权),挪威光纤/网络分销",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "Org 959977046 · 1990 创 · 24 员工 · Sorb Industri AB(瑞典)100% · Wahlgren=Linder 两实名",
+     "quote": "Daglig leder Roger Allan Wahlgren … Aksjonærer: Sorb Industri AB (100%) … Stiftelsesdato: 27.12.1990",
+     "url": "https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Roger Allan Wahlgren",
+     "role": "Daglig leder(常务/CEO)",
+     "contact": "经 fiberworks.no/1881 总机 23 03 53 30 索取",
+     "status": "1881.no + proff.no + gulesider.no 三源实名",
+     "source": "https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/"
+    },
+    {
+     "name": "Martin Roland Linder",
+     "role": "Styrets leder(董事长)",
+     "contact": "—",
+     "status": "同源",
+     "source": "同 1881.no"
+    }
+   ],
+   "unknowns56": [
+    "光纤项目机柜侧 PoE 随单谱",
+    "ORing 在架深"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 光纤机柜随单页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣",
+     "question": "你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · salg@fiberworks.no 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣",
+     "question": "你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣",
+     "question": "你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Fiberworks team,\n\nFiber infrastructure for Norwegian ISPs and contractors, with ORing on the industrial side - your roadside and node cabinets need powered switching that can take the cold.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: in your fiber-project cabinets, which DIN-rail PoE switch rides along today - and is there a value second-source slot beside ORing?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-094",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录",
+    "inference": "工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景",
+    "hypothesis": "开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM"
+   },
+   "dimensions": {
+    "背景深描": "Merpa Bilgi Islem Ltd.Sti.(1990 Genel Mudur Ali Nail Kocyigit Ankara 创立;USD6.7M 收 16 员工 Istanbul 主体;工业信息化 endustriyel bilisim 加 NINOVA 自有品牌 加 MikroTik 土耳其分销 加多个政府项目;merpazar.com 工业特化 35 年品牌)",
+    "芯片与在用型号": "【推断】工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景",
+    "关键人KP": "Ali Nail Koçyiğit = Genel Müdür(总经理,1990 创始人);Mustafa Süzer = Manager;Erhan Işık = 数字营销",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:GM 具名直通+工业计算 20+ 年 / W:交换机非主业 / O:工业 PC 装机配套 PoE 随单 / T:土耳其汇率/付款条件",
+    "Saga产品适配": "工业计算电商+项目谱的 value PoE 配套档"
+   },
+   "swot_text": "- **S**:GM 具名直通+工业计算 20+ 年\n- **W**:交换机非主业\n- **O**:工业 PC 装机配套 PoE 随单\n- **T**:土耳其汇率/付款条件",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Panel PC ler, Endüstriyel PC ler, Dokunmatik Ürünler ithalatımızın ana unsurlarıdır. Bu doğrultuda 6 ülkeden 10 markanın distribütörlüğünü y",
+     "quote": "Panel PC ler, Endüstriyel PC ler, Dokunmatik Ürünler ithalatımızın ana unsurlarıdır. Bu doğrultuda 6 ülkeden 10 markanın distribütörlüğünü yapmaktayız.",
+     "url": "https://rocketreach.co/merpa-bilgi-islem-ltdsti-profile_b405d56afc11f555"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız",
+     "quote": "Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız",
+     "url": "https://www.linkedin.com/in/alinailkocyigit/"
+    },
+    {
+     "dim": "R65 官网自曝",
+     "text": "1990 Ankara 创始 Genel Müdür Ali Nail Koçyiğit;工业 35 年品牌;MikroTik 分销+政府项目实录",
+     "quote": "Şirketimizin temelleri 1990 yılında, Genel Müdürümüz Ali Nail Koçyiğit tarafından … Mikrotik Network ürünlerinin de distribütörlüğünü yapmaktadır",
+     "url": "https://www.merpazar.com/merpazar-com-kimdir"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ali Nail Koçyiğit",
+     "role": "Genel Müdür(总经理/1990 创始人)",
+     "contact": "经 merpazar.com 官方联系渠道",
+     "status": "官网 kimdir 页自曝",
+     "source": "https://www.merpazar.com/merpazar-com-kimdir"
+    },
+    {
+     "name": "Mustafa Süzer",
+     "role": "Manager",
+     "contact": "—",
+     "status": "RocketReach 自曝",
+     "source": "https://rocketreach.co/merpa-bilgi-islem-ltdsti-profile_b405d56afc11f555"
+    }
+   ],
+   "unknowns56": [
+    "项目谱里交换机现供",
+    "电商货架 PoE 档位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 工业装机谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM",
+     "question": "你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · alinail@merpazar.com 具名开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM",
+     "question": "你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM",
+     "question": "你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Nail,\n\nTwo decades in industrial computing - Panel PCs, industrial PCs and touch lines from 10 brands across 6 countries, plus merpazar.com moving the catalog online. Where those industrial PCs are commissioned on-site, managed PoE switching is usually bundled into the same project.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your industrial PC projects, white-label friendly.\n\nOne question: in your industrial computing projects, which managed PoE switch do you supply today - and would a documented value unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-108",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "AlpenEDV(Hall in Tirol 奥地利阿尔卑斯山区;alpenedv.at;MikroTik Reseller;office@alpenedv.at) | R65 深挖:奥地 Hall in Tirol 五人小队 IT 服务体;Stammbaum 谱 MikroTik 挂服务配套线",
+    "inference": "蒂罗尔山区小型 IT/Reseller;滑雪旅游经济圈(SME/酒店谱)",
+    "hypothesis": "开口角度=「山区小 reseller 活跃验证+value 试探」:先验活跃,酒店/民宿谱 PoE 场景待摸"
+   },
+   "dimensions": {
+    "背景深描": "AlpenEDV KG(Arbesgasse 6, 6060 Hall in Tirol;Firmenbuch 488347h, Landesgericht Innsbruck;UID ATU73285429;**Christoph Bernhard Weiler = gewerberechtliche Geschäftsführung(两 GISA 证号 30592162/30592148)**=法定经营负责人;五人小队(David/Sascha/Christoph/Daniel/Sonja 团队照自曝);IT 服务+B2B 中小客户咨询/机房建设/WLAN/VPN/视频监控/Datenschutz 咨询体;+43 660 2552551, office@alpenedv.at)",
+    "芯片与在用型号": "【推断】蒂罗尔山区小型 IT/Reseller;滑雪旅游经济圈(SME/酒店谱)",
+    "关键人KP": "Christoph Bernhard Weiler = gewerberechtliche GF(法定经营负责人,WKO Firmendatenbank+top.tirol 双源)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:山区旅游圈位 / W:小,足迹薄 / O:酒店/民宿 PoE 随单 / T:失联",
+    "Saga产品适配": "蒂罗尔山区小商备养:活跃验证后按 value 模板激活"
+   },
+   "swot_text": "- **S**:山区旅游圈位\n- **W**:小,足迹薄\n- **O**:酒店/民宿 PoE 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Reseller;Hall in Tirol;office@alpenedv.at",
+     "quote": "CSV:MikroTik 官方分销 Reseller;Hall in Tirol;office@alpenedv.at",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "AlpenEDV KG FB 488347h · Innsbruck 法院 · 双方 GISA 号 · Christoph Bernhard Weiler Gew.-GF 双源实名",
+     "quote": "Gewerberechtliche Geschäftsführung: Christoph Bernhard Weiler GISA-Zahl: 30592162 … GF: Christoph Weiler … 0660/2552551",
+     "url": "https://www.top.tirol/unternehmen/innsbruck-land/alpenedv-kg"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Christoph Bernhard Weiler",
+     "role": "Gewerberechtliche Geschäftsführung(法定经营负责人)",
+     "contact": "office@alpenedv.at / 0660 2552551",
+     "status": "wko.at + top.tirol 双源实名",
+     "source": "https://firmen.wko.at/alpenedv-kg-alpenedv/tirol/?firmaid=4476f43c-a580-449a-8aae-66ad660c2e43"
+    }
+   ],
+   "unknowns56": [
+    "活跃经营佐证",
+    "酒店/tourism 客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「山区小 reseller 活跃验证+value 试探」:先验活跃,酒店/民宿谱 PoE 场景待摸",
+     "question": "(先验活跃)你们给山区酒店/民宿做项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「山区小 reseller 活跃验证+value 试探」:先验活跃,酒店/民宿谱 PoE 场景待摸",
+     "question": "(先验活跃)你们给山区酒店/民宿做项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-111",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "NETZWARE(Wien Davidgasse 85-89;11-50 人;Master+VAD 名录在册;office@netzware.at;zoominfo 归『软件测试/业务服务』类——服务+分销混合形) | R65 深挖:11-30 人维也纳分销;两 GF 2014 创——最像长辈白学的标的物",
+    "inference": "维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销",
+    "hypothesis": "开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口"
+   },
+   "dimensions": {
+    "背景深描": "Netzware Handels- und IT-Dienstleistungs GmbH(Davidgasse 85-89, A-1100 Wien;FB 413095v, HG Wien, 2014-04-02 注册,Stammkapital €35,000;UID ATU68575437;**GF 双董事 Florian Ivo(2014 在任)+ Dietmar Guelfenburg(2016-01 在任)**=两人联署;evi.gv.at 登记源+官网 impressum+karriere.at 三源;11-30 员工;office@netzware.at,+43 1 3577770;MikroTik/Acer/ASUS/HP 等分销",
+    "芯片与在用型号": "【推断】维也纳 Master+VAD;服务血统(WordPress/TeamViewer 技术栈)=咨询型分销",
+    "关键人KP": "Florian Ivo + Dietmar Guelfenburg = 双 Geschäftsführer(evi.gv.at Firmenbuch 实名+官网 impressum)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:Master+VAD+维也纳 / W:服务血统,谱未摸 / O:value PoE 档 / T:服务主导时分销谱弱",
+    "Saga产品适配": "维也纳 Master 的 value PoE 架位试探"
+   },
+   "swot_text": "- **S**:Master+VAD+维也纳\n- **W**:服务血统,谱未摸\n- **O**:value PoE 档\n- **T**:服务主导时分销谱弱",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing",
+     "quote": "Netzware, Davidgasse 85 89, Vienna 1100, 11-50 employees…Business Services, Software Testing",
+     "url": "https://www.zoominfo.com/c/netzware/461196365"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "FB 413095v · 2014-04 HG Wien · GF Florian Ivo + Dietmar Guelfenburg 二人联署 · €35K 股本",
+     "quote": "Geschäftsführer: Florian Ivo, Dietmar Guelfenburg … Firmenbuchnummer: 413095v … Eintragungsdatum: 02.04.2014",
+     "url": "https://netzware.at/unternehmen/impressum/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Florian Ivo",
+     "role": "Geschäftsführer(2014-04-02 在任)",
+     "contact": "office@netzware.at / +43 1 3577770",
+     "status": "evi.gv.at + impressum 双源实名",
+     "source": "https://www.evi.gv.at/f/413095v"
+    },
+    {
+     "name": "Dietmar Guelfenburg",
+     "role": "Geschäftsführer(2016-01-29 在任)",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同 evi.gv.at"
+    }
+   ],
+   "unknowns56": [
+    "架上谱与服务/分销占比",
+    "客户端(奥地利 SME/政企?)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · value 档页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · office@netzware.at 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「维也纳 Master 的 value PoE 架位」:STC-424 开口",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi NETZWARE team,\n\nA MikroTik Master VAD in Vienna with a service-heavy DNA - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.\n\nIf not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-514",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer | R65 深挖:HMS/N-Tron/Red Lion 同集团工业自动谱系,AEGEE +30 693 242…",
+    "inference": "自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)",
+    "hypothesis": "开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)"
+   },
+   "dimensions": {
+    "背景深描": "Alpha Motion SA(Pikérmi, Attiki;1994 创(创始人前 Alpha Technologies TD 1992-94/KITCO 1987-92 带);**Argiris Saninos = Owner-Chairman-Managing Director(1994 至今,Rafina 居住)**;Dimitris Psichoulas = Technical Director;9-11 员工;info@alpha-motion.gr,+30 210 822 XXXX;库内原样=HMS/N-Tron·Red Lion 工业自动分销=谱型=工控自动化 VAD",
+    "芯片与在用型号": "【推断】自动化厂商血统的品线管道;定位=「自动控制集成商」更准而非纯分销(CSV 也截图「HMS/N-Tron·Red Lion 渠道」同向)",
+    "关键人KP": "Argiris Saninos = Owner-Chairman-MD(1994 创始);Dimitris Psichoulas = Technical Director",
+    "关注点与资质": "N-Tron + Red Lion ",
+    "优缺点SWOT": "S:希腊工谱老牌+电梯/伺服血统+具名 / W:自动品谱导渠,动力排他 / O:STI-288GP 电梯/产线柜随单 / T:自品谱价功能动化",
+    "Saga产品适配": "希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口"
+   },
+   "swot_text": "- **S**:希腊工谱老牌+电梯/伺服血统+具名\n- **W**:自动品谱导渠,动力排他\n- **O**:STI-288GP 电梯/产线柜随单\n- **T**:自品谱价功能动化",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ALPHA MOTION SA is active for over 28 years…robotic-innovative automation products (servo motors, stepper motors, inverters)…elevators",
+     "quote": "ALPHA MOTION SA is active for over 28 years…robotic-innovative automation products (servo motors, stepper motors, inverters)…elevators",
+     "url": "https://www.ascen-tec.gr/en/alpha-motion-s-a/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer",
+     "quote": "Argiris Saninos Owner - Chairman - Managing Director…Dimitris Psichoulas Technical Director…Jason Karagiorgas Application Engineer",
+     "url": "https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697"
+    },
+    {
+     "dim": "R65 实名/工业谱",
+     "text": "Argiris Saninos Owner 1994-now;Alpha Motion=N-Tron/Red Lion 工控谱=",
+     "quote": "Argiris Saninos … 1994 - now Owner - Chairman - Managing Director @ Alpha Motion SA … Industrial Automation",
+     "url": "https://www.crunchbase.com/organization/alpha-motion"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Argiris Saninos",
+     "role": "Owner-Chairman-Managing Director(1994 创始)",
+     "contact": "经 alpha-motion.gr(RocketReach 域 alpha-motion.gr 自曝)",
+     "status": "rocketreach+crunchbase 双源",
+     "source": "https://rocketreach.co/argiris-saninos-email_31660765"
+    },
+    {
+     "name": "Dimitris Psichoulas",
+     "role": "Technical Director",
+     "contact": "—",
+     "status": "rocketreach 自曝",
+     "source": "https://rocketreach.co/alpha-motion-sa-profile_b5da2937f42e5697"
+    }
+   ],
+   "unknowns56": [
+    "现场柜项里现供 DIN 轨 PoE 型号(他们自动化谱上还是第三方)",
+    "Argiris 三人对 PoE 类目的商业价值判定面"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · DIN 轨样张+温宽测试包",
+     "push": "STI-288GP",
+     "angle": "开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)",
+     "question": "你们的电机/电梯/产线项目柜里,DIN 轨 PoE 来电现供 N-Tron/Red Lion 还是另陪份？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · Dimitris Psichoulas 具名应用工程师亦开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)",
+     "question": "你们的电机/电梯/产线项目柜里,DIN 轨 PoE 来电现供 N-Tron/Red Lion 还是另陪份？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「你们伺服+驱动柜的现场 PoE 坚挺位 DIN 轨支线」——电梯/机器人等产能项目里,PoE 接层(相机/传感支线)是 DIN 轨 value 档的刚景,STI-288GP 比 STC-424 柜位万倍对口(温宽 DIN 轨)",
+     "question": "你们的电机/电梯/产线项目柜里,DIN 轨 PoE 来电现供 N-Tron/Red Lion 还是另陪份？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Alpha Motion team,\n\nTwenty-eight years of Greek industrial automation with motion control and elevator drives as core trades - your cabinets are solving power and signal for real production machines.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built for the auxiliary PoE runs (cameras, sensors, CCTV) that slip inside your elevator and production cabinets.\n\nOne question: for those cabinet-level PoE feeds, are you running N-Tron/Red Lion exclusively - or is there room for a documented value-side second source in your BOMs?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-129",
+   "researched_on": "2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」 | R65 深挖:国家级电信工程商;工业制造自持有=OEM 聊话题性最大",
+    "inference": "军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列",
+    "hypothesis": "同时是 NATO/军红线+同业:不入供位不首销;守档并作为我厂竞品对标镜像维护(研发式坚固网谱方向)"
+   },
+   "dimensions": {
+    "背景深描": "MARAC Electronics S.A.(Athens 26 V. Konstantinou GR-116 35 + Thessaloniki 12 Polytechniou GR-546 25 双办;1992 创;1600 m² 自建制造厂 Alexandroupolis(可扩 2500);**希腊国家级微波链路实干龙头**:OTE PDH/SDH 链路+WIND Hellas 近十年 2500+ 链路(5000 终端)统包;工业制造与装配=谱型=telecom infrastructure 工程商;MikroTik 谱挂=降单供应链)",
+    "芯片与在用型号": "【推断】军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列",
+    "关键人KP": "—(SA 董事会层名册 G.E.MI 台账查询方向;mil/Certified 名单大楼靠)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:军工+上市+NATO 客户 / W:同业制造侧+军红线双关 / O:无落地 / T:收留同业镜像随缘",
+    "Saga产品适配": "军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序"
+   },
+   "swot_text": "- **S**:军工+上市+NATO 客户\n- **W**:同业制造侧+军红线双关\n- **O**:无落地\n- **T**:收留同业镜像随缘",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "certified by MOD for military industrial security…official National manufacturer of Defense electronic products…listed in the Athens Greek S",
+     "quote": "certified by MOD for military industrial security…official National manufacturer of Defense electronic products…listed in the Athens Greek Stock Exchange since 2003",
+     "url": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping",
+     "quote": "Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping",
+     "url": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    },
+    {
+     "dim": "R65 谱位实录",
+     "text": "1992 创;OTE+WIND HELAS 微波链路 2500+ 链路(5000 终端)统包;1600m² 自有工厂 Alexandroupolis",
+     "quote": "Η ΜΑΡΑΚ Ηλεκτρονική ΑΒΕΕ έχει … περισσότερες από 2.500 ζεύξεις (περίπου 5.000 τερματικές συσκευές) … WIND Hellas τα τελευταία 10 χρόνια",
+     "url": "https://www.marac.gr/index.php?pid=20&tid=11"
+    },
+    {
+     "dim": "R65 制造面",
+     "text": "自 1992 Alexandroupolis 1600m² 工业制造与装配厂(可扩 2500)",
+     "quote": "Since 1992, MARAC owns a modern manufacturing plant which covers a 1.600 sq.m. area in Alexandroupolis",
+     "url": "https://www.marac.gr/Profile%20Marac.pdf"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "MARAC 军用加 PoE 谱研发谱(自家市卖有厂为从动)",
+    "希军工采购公开索外禁丁资位口径"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序",
+     "question": "(守档不入触点)",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

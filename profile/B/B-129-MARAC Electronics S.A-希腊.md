@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典…
+- **是谁**：MARAC Electronics S.A.(Athens 26 V. Konstantinou GR-116 35 + Thessaloniki 12 Polytechniou GR-546 25 双办;1992 创;…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P. | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | MARAC Electronics S.A.(Athens 26 V. Konstantinou GR-116 35 + Thessaloniki 12 Polytechniou GR-546 25 双办;1992 创;1600 m² 自建制造厂 Alexandroupolis(可扩 2500);**希腊国家级微波链路实干龙头**:OTE PDH/SDH 链 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」
+- 【事实】MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」 | R65 深挖:国家级电信工程商;工业制造自持有=OEM 聊话题性最大
 - 【推断】军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列
 - 【假设】同时是 NATO/军红线+同业:不入供位不首销;守档并作为我厂竞品对标镜像维护(研发式坚固网谱方向)
 
@@ -95,11 +95,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：MARAC Electronics S.A.(雅典 Perama 165 Marias Kiouri&Tripoleos;+30 210 4314361;51-100 人）:**希腊国防部 MOD 认证的军工电子厂+雅典股票交所上市(2003);C4I/VHF/UHF/SHF/卫星收发/海事/训练模拟器;客户=Hellenic Police/S.H.A.P.E.(NATO)/Hellenic Army/Air Force/Navy Coast Guard;自夸「official National manufacturer of Defense electronic products」
+- **背景深描**：MARAC Electronics S.A.(Athens 26 V. Konstantinou GR-116 35 + Thessaloniki 12 Polytechniou GR-546 25 双办;1992 创;1600 m² 自建制造厂 Alexandroupolis(可扩 2500);**希腊国家级微波链路实干龙头**:OTE PDH/SDH 链路+WIND Hellas 近十年 2500+ 链路(5000 终端)统包;工业制造与装配=谱型=telecom infrastructure 工程商;MikroTik 谱挂=降单供应链)
 - **芯片与在用型号**：【推断】军工+NATO 系谱+同业制造侧:双重守界线(国家军工血统+自家是厂);不支持任何外来品牌进其采购列
-- **关键人KP**：—
+- **关键人KP**：—(SA 董事会层名册 G.E.MI 台账查询方向;mil/Certified 名单大楼靠)
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:军工+上市+NATO 客户 / W:同业制造侧+军红线双关 / O:无落地 / T:收留同业镜像随缘
 - **Saga产品适配**：军工+NATO+同业制造侧:不入供位(双红线)=守档不入出信序
@@ -112,6 +112,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping
   > Clients…Hellenic Police, S.H.A.P.E. (NATO), Hellenic Army, General Staff, Hellenic Air Force, Hellenic Navy…Fafalios Shipping
   > 来源：https://www.epicos.com/company/10012/marac-electronics-sa
+- **【R65 谱位实录】**1992 创;OTE+WIND HELAS 微波链路 2500+ 链路(5000 终端)统包;1600m² 自有工厂 Alexandroupolis
+  > Η ΜΑΡΑΚ Ηλεκτρονική ΑΒΕΕ έχει … περισσότερες από 2.500 ζεύξεις (περίπου 5.000 τερματικές συσκευές) … WIND Hellas τα τελευταία 10 χρόνια
+  > 来源：https://www.marac.gr/index.php?pid=20&tid=11
+- **【R65 制造面】**自 1992 Alexandroupolis 1600m² 工业制造与装配厂(可扩 2500)
+  > Since 1992, MARAC owns a modern manufacturing plant which covers a 1.600 sq.m. area in Alexandroupolis
+  > 来源：https://www.marac.gr/Profile%20Marac.pdf
 
 ## 产品决策（Saga · 单一决策口径）
 

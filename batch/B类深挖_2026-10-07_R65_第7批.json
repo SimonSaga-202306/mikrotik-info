@@ -1,0 +1,534 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 7/8 批(以色列/摩尔多瓦/德国/ALLNET/意大利)",
+ "scope": "B-039 Voicenter / B-210 Comitek / B-153 hsc / B-510 Janzen Group / B-138 ALLNET / B-154 ALLNET.Italia / B-168 Neostar",
+ "records": [
+  {
+   "code": "B-039",
+   "researched_on": "2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Voicenter LTD(Tel Aviv Yigal Alon 159;2007 创 101-200 人,~$9.75M;**判型翻转=云 VoIP PBX/呼叫中心运营商(非分销)**——自营 5-7 个全球电信数据中心(美/欧/亚/澳/以);CEO Nitzan Gutman;创始人 CTO **Shlomi Gutman 曾在 MUM NL16 登台讲 MikroTik debug VoIP**(技术圈实名);阿姆斯特丹 QXIP 姐妹公司(开源语音);Master 挂证应源自其企业客户部署配送 MikroTik CPE | R65 深挖:以色列云电信平台;Gutman 创始归位",
+    "inference": "云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件",
+    "hypothesis": "开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)"
+   },
+   "dimensions": {
+    "背景深描": "Voicenter LTD(以色列云端电信/VoIP CPaaS 平台;**Nitsan Gutman = מייסד ומנכ\"ל(创始人兼 CEO)**——\"חלוץ בתחום התקשורת והטלפוניה בענן בישראל\"(以色列云通讯先驱,官网博客自曝);另 Golan Ashtan 早前 CEO 层(MBA,二代以色列电信业谱:Netvision/012/Partner/HOT 多年高管);MikroTik 谱挂其电信商平台供应链线",
+    "芯片与在用型号": "【推断】云通信运营商:企业客户桌面全是 **PoE IP 话机**——其托管部署/混合方案里 PoE 交换随单是天然场景;技术型 CTO 曾在 MikroTik MUM 演讲=懂硬件",
+    "关键人KP": "Nitsan Gutman = 创始人&CEO(官网自曝);Golan Ashtan = 早前 CEO(2023 文)",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者) / W:运营商本体,不零售硬件 / O:桌面话机 PoE 部署随单/OEM 白标 / T:自研中心,硬件谱敏感",
+    "Saga产品适配": "云 PBX 运营商企业部署的桌面 IP 话机 PoE 交换随单/OEM 白标位(同 SEWAN 逻辑,技术型 CTO 具名开口)"
+   },
+   "swot_text": "- **S**:2007 老牌+全球 5-7 DC+技术型 CTO(MUM 演讲者)\n- **W**:运营商本体,不零售硬件\n- **O**:桌面话机 PoE 部署随单/OEM 白标\n- **T**:自研中心,硬件谱敏感",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "cloud-based VoIP PBX & call center service providers, and operates five telecom data-centers, distributed worldwide…since 2007",
+     "quote": "cloud-based VoIP PBX & call center service providers, and operates five telecom data-centers, distributed worldwide…since 2007",
+     "url": "https://www.zoominfo.com/c/voicenter/461174517"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)",
+     "quote": "Shlomi Gutman, CTO of Voicenter…Founder and CTO…How to debug, troubleshoot and monitor VoIP using MikroTik (MUM NL16 presentation)",
+     "url": "https://mum.mikrotik.com/presentations/NL16/presentation_3876_1479372782.pdf"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "Nitsan Gutman founder&CEO(以色列云通讯/电话先驱官方口径)",
+     "quote": "ניצן גוטמן מייסד ומנכ״ל Voicenter, חלוץ בתחום התקשורת והטלפוניה בענן בישראל",
+     "url": "https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Nitsan Gutman",
+     "role": "Founder & CEO",
+     "contact": "经 voicenter.co.il 总线",
+     "status": "官网博客自曝",
+     "source": "https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp"
+    },
+    {
+     "name": "Golan Ashtan",
+     "role": "CEO(2023 早前口径)",
+     "contact": "同上",
+     "status": "ceopro.co.il 专访自曝",
+     "source": "https://www.ceopro.co.il/%D7%92%D7%95%D9%84%D7%9F-%D7%90%D7%A9%D7%98%D7%9F-%D7%9E%D7%A0%D7%9B%D7%9C-voicenter/"
+    }
+   ],
+   "unknowns56": [
+    "企业部署随单 PoE 件现供与 OEM 白标开放度",
+    "其客户桌面话机谱(Yealink/Poly?)PoE 功率需求"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 话机 PoE 部署随单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)",
+     "question": "你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@voicenter.co.il 具名 Shlomi",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)",
+     "question": "你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「云 PBX 部署的桌面话机 PoE 交换随单/OEM」:STC-424 以其企业部署/托管 CPE 场景的 PoE 位入,具名技术型团队开口(引其 MUM 演讲背书)",
+     "question": "你们企业部署/托管场景里,桌面 IP 话机的 PoE 交换现随哪家?白标 OEM 件可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Shlomi, hi Voicenter team,\n\nFive telecom datacenters worldwide, an open-source telephony DNA, and a CTO who has literally stood on the MUM stage teaching VoIP debugging on MikroTik - you understand exactly what happens on the wire.\n\nEvery hosted-PBX customer desktop you deploy is a PoE phone load. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for carrier deployment fleets, fully open to Voicenter white-label.\n\nOne question: in your enterprise and hosted deployments, which PoE switch feeds the desktop phone fleets today - and would a documented OEM unit earn a lab test in your datacenter bench?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-210",
+   "researched_on": "2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md) | R65 深挖:31 年老店 Doxyterra;Potârniche 业主导演",
+    "inference": "摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证)",
+    "hypothesis": "开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立"
+   },
+   "dimensions": {
+    "背景深描": "Comitek SRL(dba DOXYTERRA Computer Center;bd. Dacia 27, MD2060 Chișinău;1995 创=31 年老店;注册号 1002600055526,VAT 0200872,股本 5,400 MDL;**Dan Potârniche = Director(业主)**;Alexandru Sochircă = 营销总监;Sergiu Corbu = 经理;Eugeniu Iacub 分销部关联履历;doxyterra.md 平台门脸",
+    "芯片与在用型号": "【推断】摩尔多瓦领先 IT 电商+官方分销矩阵:D-Link 谱在=网通有底;企业方案部=CSC 项目随单面;新品牌引进积极(Keychron 独家证)",
+    "关键人KP": "Dan Potârniche = Director(业主,Kompass 双源);Alexandru Sochircă 销市总监;Sergiu Corbu 经理",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:多牌官方分销+企业方案部 / W:交换机谱弱于整机/外设 / O:CSC 项目+电商双线 PoE 随单 / T:摩国市场小,单量有限",
+    "Saga产品适配": "多牌电商企业双线谱的 value PoE 管理档"
+   },
+   "swot_text": "- **S**:多牌官方分销+企业方案部\n- **W**:交换机谱弱于整机/外设\n- **O**:CSC 项目+电商双线 PoE 随单\n- **T**:摩国市场小,单量有限",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "DOXYTERRA.md(subcompanul COMITEK S.R.L.), înființată în 1996 … distribuitor și partener oficial al marilor producători mondiali, precum: ASU",
+     "quote": "DOXYTERRA.md(subcompanul COMITEK S.R.L.), înființată în 1996 … distribuitor și partener oficial al marilor producători mondiali, precum: ASUS, Logitech, Intel, D-Link, KINGSTON … Departamentul Soluții Clienți Corporativi",
+     "url": "https://doxyterra.md/ro/page/despre-companie/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA",
+     "quote": "DOXYTERRA ESTE DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA … PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA",
+     "url": "https://doxyterra.md/ro/page/keychron-in-moldova/"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "Comitek SRL dba DOXYTERRA · 1995 创 · Reg 1002600055526 · Dan Potârniche Director+Alexandru Sochircă Marketing",
+     "quote": "Mr Dan Potirniche Principal Executive/Proprietor (Director) … Year established: 1995 … bd. Dacia, 27",
+     "url": "https://xk.kompass.com/c/doxyterra-computer-center/md003157/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Dan Potârniche",
+     "role": "Director/Principal Executive(业主)",
+     "contact": "经 doxyterra.md 总线",
+     "status": "kompass EN/RO 双源实名",
+     "source": "https://xk.kompass.com/c/doxyterra-computer-center/md003157/"
+    },
+    {
+     "name": "Alexandru Sochircă",
+     "role": "Marketing Director",
+     "contact": "同上",
+     "status": "同源",
+     "source": "https://md.kompass.com/c/comitek-srl/md003157/"
+    }
+   ],
+   "unknowns56": [
+    "网通谱交换机档位现供",
+    "企业部项目谱网络件随哪家"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · CSC 谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立",
+     "question": "你们的企业项目单里,24 口 PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@doxyterra.md 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立",
+     "question": "你们的企业项目单里,24 口 PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「多牌电商+企业部的 PoE 管理档」:STC-424 主力,白标/value 档对 CSC 与电商双谱都成立",
+     "question": "你们的企业项目单里,24 口 PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi DOXYTERRA team,\n\nAn official-distributor portfolio built since 1996, plus a corporate-solutions department - and the Keychron-exclusive move says you pick up promising brands early. Behind your corporate and e-commerce orders, managed PoE switching is one of the quiet repeat lines.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your corporate shelf, white-label friendly.\n\nOne question: in your corporate project orders, which 24-port managed PoE switch do you supply today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-153",
+   "researched_on": "2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroTik Reseller 谱在其 IT-Infrastruktur 项目内 | R65 深挖:e.K. 独营商;IT 服务+硬件双轨",
+    "inference": "中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点",
+    "hypothesis": "开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口"
+   },
+   "dimensions": {
+    "背景深描": "hsc solutions e.K.(Am Hang 11, 09337 Hohenstein-Ernstthal OT Wüstenbrand + Solaristurm Neefestraße 88, 09116 Chemnitz;HRA 9918 Chemnitz 商业登记;UID DE247626561;**Dipl.-Inf. (FH) Tom Zschockelt = Inhaber(业主,自营个体)**;Rebekka Shepherd 同在 Impressum/Samuel Zschockelt 关联;「Hardware+Software+Consulting」型服务,ERP/Warenwirtschaft 定制开发 +Rual 硬件+Chemnitz 技术圈;11-50 员工 Xing 口径",
+    "芯片与在用型号": "【推断】中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点",
+    "关键人KP": "Tom Zschockelt = Inhaber(业主,自营个体;Impressum/Xing 双源);Rebekka Shepherd 关联签名人",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:20 年老店+owner 决策快+项目随单 / W:软件主业,硬件谱浅 / O:项目随单 PoE 接入位 / T:项目型采购不稳定",
+    "Saga产品适配": "软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)"
+   },
+   "swot_text": "- **S**:20 年老店+owner 决策快+项目随单\n- **W**:软件主业,硬件谱浅\n- **O**:项目随单 PoE 接入位\n- **T**:项目型采购不稳定",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "hsc solutions ist ein mittelständiges Unternehmen aus Chemnitz/Sachsen…Spezialgebiete: DMS, IT-Infrastruktur, erp-Lösung und IT-Consulting/B",
+     "quote": "hsc solutions ist ein mittelständiges Unternehmen aus Chemnitz/Sachsen…Spezialgebiete: DMS, IT-Infrastruktur, erp-Lösung und IT-Consulting/Beratung…Gegründet 2005",
+     "url": "https://de.linkedin.com/company/hsc-solutions"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises",
+     "quote": "IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises",
+     "url": "https://www.cbinsights.com/company/hsc-solutions"
+    },
+    {
+     "dim": "R65 实名/登记",
+     "text": "Tom Zschockelt e.K. 独营;HRA 9918 Chemnitz;Chemnitz Neefestraße 88 实体店",
+     "quote": "Vertreten durch: Dipl.-Inf. (FH) Tom Zschockelt … Handelsregister: HRA 9918 Registergericht: Amtsgericht Chemnitz",
+     "url": "https://hsc-solutions.de/impressum-hsc-solutions/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Tom Zschockelt",
+     "role": "Inhaber(业主,Dipl.-Inf. FH)",
+     "contact": "hsc-solutions.de 联系页",
+     "status": "impressum + xing 双源实名",
+     "source": "https://hsc-solutions.de/impressum-hsc-solutions/"
+    }
+   ],
+   "unknowns56": [
+    "其 IT 基础设施项目年量级与 PoE 随单频度",
+    "condition monitoring 项目里工业网络件现供"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 项目随单样张",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口",
+     "question": "你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · office@hsc-solutions.de 具名 Tom 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口",
+     "question": "你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口",
+     "question": "你们的 IT 基础设施项目里,PoE 接入交换现随哪个品牌?有 value 档第二源的位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Tom,\n\nTwenty years of DMS, ERP and IT-infrastructure projects out of Chemnitz - your projects are where switches actually get installed, not just listed.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - built as the dependable project-stock PoE tier for integrators, white-label friendly.\n\nOne question: inside your IT-infrastructure projects, which PoE access switch rides along with the rollout today - and would a documented second source earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-510",
+   "researched_on": "2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线) | R65 深挖:KNX+MikroTik 双线;培训师 Consultant 未名=守档准由待定",
+    "inference": "汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能",
+    "hypothesis": "开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」"
+   },
+   "dimensions": {
+    "背景深描": "Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte MikroTik-Partner / Trainer und Consultants」+ 安防 KNX 双向**;info@janzen-group.com 公开;Janzen Academy 培训子项目在架",
+    "芯片与在用型号": "【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能",
+    "关键人KP": "—(未自曝业主/KP 实名;守档准由)",
+    "关注点与资质": "MikroTik 培训伙伴，开课/持证 MikroTik 认证顾问与讲师（具体科目未列） ",
+    "优缺点SWOT": "S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量小 / O:教具样本+KNX 项目随单双线 / T:师者红线",
+    "Saga产品适配": "培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)"
+   },
+   "swot_text": "- **S**:培训伙伴+汉堡本地网络服务 ISO 9001\n- **W**:无分销货架,采购量小\n- **O**:教具样本+KNX 项目随单双线\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MikroTik 培训伙伴,开课/持证 MikroTik 认证顾问与讲师",
+     "quote": "MikroTik 培训伙伴,开课/持证 MikroTik 认证顾问与讲师",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述",
+     "quote": "Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述",
+     "url": "https://www.janzen-group.com/(R49"
+    },
+    {
+     "dim": "R65 官网自曝",
+     "text": "德国 Hamburger MikroTik Support+KNX+安防+AV 一体化;认证 MikroTik Partner 口径;Janzen Academy 培训线",
+     "quote": "Die Janzen Group steht Ihnen als kompetenter Partner für MikroTik Support zur Seite. Unsere zertifizierten Trainer und Consultants … info@janzen-group.com",
+     "url": "https://www.janzen-group.com/leistungen/mikrotik-support/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "Trainer 课桌对照教具开放度",
+    "KNX/安全技术项目里 PoE 件随单可能"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本合作一页(师者红线下)",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」",
+     "question": "你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@janzen-group.com 具名 Florian",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」",
+     "question": "你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」",
+     "question": "你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Florian,\n\nMikroTik training partner with KNX programming, security technology and on-site support across Hamburg - you sit exactly where the classroom bench meets the customer site.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/German documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: for your training and support work, do you currently use a documented comparison device for the PoE segment - and would a sample unit with a full test pack be something you would evaluate?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-138",
+   "researched_on": "2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档)",
+    "inference": "德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子",
+    "hypothesis": "开口角度=「ALLNET brand 产线的 OEM/代工二源」——不自正面推第三方品牌(会与自牌冲突);试探其自牌 PoE 产线当下 OEM 伙伴与第二来源开放度;谱合则谈代工,不合守档"
+   },
+   "dimensions": {
+    "背景深描": "ALLNET GmbH Computersysteme(Maistr. 2, 82110 Germering(München);**Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主,1991 创立)**;wer-zu-wem:99 员工(德国)+国际;30,000+ SKU,7 语言,DropShipping 型全品批发;ALLNET 集团丹 B-001/法/意 B-154/希 B-115 母体;family business & Werner Bauer habitual)",
+    "芯片与在用型号": "【推断】德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子",
+    "关键人KP": "Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主)+49 89 894222-22(wer-zu-wem/Lieferanten/DnB 三源)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌 / W:自牌与我谱正对面(同业红线) / O:其自牌产线的 OEM/代工二源 / T:正面推第三方品牌必被拒,守档",
+    "Saga产品适配": "同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突"
+   },
+   "swot_text": "- **S**:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌\n- **W**:自牌与我谱正对面(同业红线)\n- **O**:其自牌产线的 OEM/代工二源\n- **T**:正面推第三方品牌必被拒,守档",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Der 1991 in Germering gegründete Hersteller und Distributor ALLNET GmbH…unter eigenem Brand auch eine breit gestreute Produktpalette",
+     "quote": "Der 1991 in Germering gegründete Hersteller und Distributor ALLNET GmbH…unter eigenem Brand auch eine breit gestreute Produktpalette",
+     "url": "https://wir-sind-germering.de/unternehmen/allnet-gmbh-computersysteme/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Own development and production under the ALLNET brand…PoE switches with up to 90 W per port and industrial suitability: -40 °C to +75 °C…pro",
+     "quote": "Own development and production under the ALLNET brand…PoE switches with up to 90 W per port and industrial suitability: -40 °C to +75 °C…produced at its own facility in Hungary",
+     "url": "https://industry-electronics.com/allnet/products.htm"
+    },
+    {
+     "dim": "R65 集团母实名",
+     "text": "ALLNET GmbH 1991·Bauer 业主·99 员工·30K SKU DropShip·国际语言 7",
+     "quote": "Gegründet: 1991 … Familienunternehmen Gesellschafter Wolfgang Marcus Bauer … 30.000 Produkte … DropShipping",
+     "url": "https://www.lieferanten.de/lieferant-840-allnet-gmbh-computersysteme.html"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Wolfgang Marcus Bauer",
+     "role": "Geschäftsführer & Inhaber(董事总经理/业主)",
+     "contact": "经 +49 89 894222-22 总线",
+     "status": "wer-zu-wem + Lieferanten + DnB 三源实名",
+     "source": "https://www.wer-zu-wem.de/firma/allnet-computer.html"
+    }
+   ],
+   "unknowns56": [
+    "ALLNET brand PoE 产线(匈牙利厂)当下 OEM/ODM 伙伴与外包深度",
+    "自牌交换机与我厂谱的正对面程度(端口/功率/价位映射)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突",
+     "question": "(守档)ALLNET brand PoE/交换机产线的 OEM 伙伴结构是什么?第二来源有无开放度?",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-154",
+   "researched_on": "2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Allnet.Italia S.p.A.(Casalecchio di Reno Bologna Via Fucini 2;2000 创,股本 €1.5M;CEO **Emiliano Papadopoulos** 具名):**五大 BU(UCC/Networking & Wireless/物理与网络安全/IoT/数据中心)+scouting 血统**——「我们的报价不基于品牌,而基于最适合的技术…引进许多意大利市场还不熟悉的 vendor」;纯间接(system integrator/ISP/installatori);802.Service 自有服务平台;与德国 ALLNET GmbH 战略联盟 | R65 深挖:€88M 意大利大站;同业守档谱维持",
+    "inference": "意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)",
+    "hypothesis": "开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书"
+   },
+   "dimensions": {
+    "背景深描": "ALLNET.ITALIA S.P.A.(Via Renato Fucini 2, 40033 Casalecchio di Reno(BO);P.IVA 00884761206;SDI SN4CSRI;**2024 财报 €87,915,037 营收/€1.76M 净利(fatturatoitalia)**——ALLNET 集团意大利巨站;amministrazione@allnet-italia.it,051-0547710;Confindustria Emilia 会员;5G/AV/Cloud 谱向",
+    "芯片与在用型号": "【推断】意大利站是公开把「主动引进陌生新 vendor」写成战略的 VAD——新品牌开口的天然对象;五大 BU 里 Networking & Wireless 正是 PoE 落点;集团第 5 站(总部德国站另判同业制造)",
+    "关键人KP": "—(S.p.A. amministratore 收费墙;谱与 B-138 Bauer 同家长径,B-115 希腊同谱;集团联动口径)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:scouting 战略明示+5BU+纯间接+集团联盟 / W:纯间接决策在 BU,周期或长 / O:STC-424 作 scouting 新 vendor 直对口 / T:集团自牌谱边界需辨(总部 ALLNET brand)",
+    "Saga产品适配": "scouting 血统 VAD 的 Networking&Wireless BU value PoE 新 vendor 位;集团第 5 站联动"
+   },
+   "swot_text": "- **S**:scouting 战略明示+5BU+纯间接+集团联盟\n- **W**:纯间接决策在 BU,周期或长\n- **O**:STC-424 作 scouting 新 vendor 直对口\n- **T**:集团自牌谱边界需辨(总部 ALLNET brand)",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "La nostra offerta non si basa sui brand, ma sulle tecnologie ritenute più adatte…molti vendor a cui il mercato italiano non è ancora abituat",
+     "quote": "La nostra offerta non si basa sui brand, ma sulle tecnologie ritenute più adatte…molti vendor a cui il mercato italiano non è ancora abituato",
+     "url": "https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "suddivisa in 5 differenti Business Unit: UCC, Networking & Wireless, Sicurezza fisica e cyber, IoT e Data Center…CEO Emiliano Papadopoulos",
+     "quote": "suddivisa in 5 differenti Business Unit: UCC, Networking & Wireless, Sicurezza fisica e cyber, IoT e Data Center…CEO Emiliano Papadopoulos",
+     "url": "https://www.techcompany360.it/news/a-ict-solutions-day-le-formule-di-allnet-italia-per-la-digital-transformation/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati",
+     "quote": "opera esclusivamente in maniera indiretta tramite system integrator, ISP, installatori e rivenditori certificati",
+     "url": "https://802service.com/chi-siamo/"
+    },
+    {
+     "dim": "R65 财务+地址",
+     "text": "ALLNET.ITALIA S.p.A. · P.IVA 00884761206 · 2024 €87.9M 营收 €1.76M 净利 · Casalecchio di Reno BO · Confindustria 会员",
+     "quote": "Allnet.italia Spa: fatturato 87.915.037 €, utile 1.762.069 € (2024). P.IVA 00884761206 … Via Renato Fucini, 2 40033 Casalecchio di Reno",
+     "url": "https://www.fatturatoitalia.it/allnetitalia-spa-00884761206"
+    },
+    {
+     "dim": "R65 渠道",
+     "text": "amministrazione@allnet-italia.it + 051 0547710 公开;Confindustria Emilia 会通员与 Smartwords 5G/AV/Cloud 谱",
+     "quote": "amministrazione@allnet-italia.it … 051 0547710 … 5G, Audio-video solutions, Cloud",
+     "url": "https://www.confindustriaemilia.it/flex/FixedPages/Common/associati.php/L/EN/id/fd02d3c0-c6aa-e811-814b-5065f38b9571"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "Networking&Wireless BU 当下 value PoE 档供应商",
+    "scouting 新 vendor 的准入流程(测试期/上架门槛)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · scouting 开口页+集团五站背书",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书",
+     "question": "Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · networking@allnet-italia.it 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书",
+     "question": "Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「scouting 逻辑本家开口」:直引其 CEO 公开话术,STC-424 做 Networking&Wireless BU 的 value PoE 新 vendor 位,一加集团五站联动背书",
+     "question": "Papadopoulos 说你们 listino 主动引进意大利市场未熟的 vendor——Networking&Wireless BU 的 value PoE 档现在有 scouting 位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Allnet.Italia team,\n\nYour CEO says it in public: the Allnet.Italia catalog is not built on brand names but on the right technologies - including vendors the Italian market does not know yet. That scouting philosophy is exactly the door a new PoE manufacturer should knock on.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE line for your Networking & Wireless BU, white-label friendly, and already on the radar of your sister branches in the Allnet network.\n\nOne question: inside your scouting pipeline, is there a slot for a documented value-tier PoE vendor in the Networking & Wireless BU this year?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-168",
+   "researched_on": "2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Legrand(结构化布线)**/Magnoni/NZXT/Thecus/TP-Link/Transcend/Ubiquiti/MikroTik;题头即『Distributore Informatica Networking **Cablaggio Strutturato**』 | R65 深挖:Brescia Cash&Carry 老谱;2017 MUM 出展座实",
+    "inference": "C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感",
+    "hypothesis": "开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配"
+   },
+   "dimensions": {
+    "背景深描": "Neostar S.r.l.(Brescia/Bergamo 双 Cash & Carry 门店;谱=Asustor/FSP/Gigabyte/Legrand/Magnoni/MikroTik/NZXT/Thecus/TP-Link/Transcend/Ubiquiti 在架;**2017 MUM Europe exhibitor(MikroTik 官方名录)**=老谱位确认",
+    "芯片与在用型号": "【推断】C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感",
+    "关键人KP": "—(S.r.l. 董事 registre des entreprises Brescia tribunale 查询方向)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:双仓 C&C 现货+Legrand 布线谱+Master / W:走量型,品牌忠诚度低 / O:24 口 value PoE 现货位 / T:TP-Link 低价现货压",
+    "Saga产品适配": "C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)"
+   },
+   "swot_text": "- **S**:双仓 C&C 现货+Legrand 布线谱+Master\n- **W**:走量型,品牌忠诚度低\n- **O**:24 口 value PoE 现货位\n- **T**:TP-Link 低价现货压",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Neostar Master Distributor Value Added Distributor Brescia, Italy info@neostar.it +39 030 349771, +39 030 3544107",
+     "quote": "Neostar Master Distributor Value Added Distributor Brescia, Italy info@neostar.it +39 030 349771, +39 030 3544107",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/italy/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Berga",
+     "quote": "Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo",
+     "url": "https://neostar.it/?vendor=RB"
+    },
+    {
+     "dim": "R65 谱位",
+     "text": "Neostar S.r.l. Brescia+ Bergamo 双 Cash & Carry;多品牌谱 MikroTik 在架;2017 MUM Europe exhibitor 官方录",
+     "quote": "Neostar S.r.l. - Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo … Neostar (Italy) [2017 MUM EU exhibitor]",
+     "url": "https://mum.mikrotik.com/2017/EU/exhibitors"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "C&C 架上 PoE 交换走量 SKU 与价位",
+    "新品牌入仓的现货押款条件"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · C&C 现货走量提案页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配",
+     "question": "你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@neostar.it 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配",
+     "question": "你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配",
+     "question": "你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Neostar team,\n\nTwo cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.\n\nOne question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

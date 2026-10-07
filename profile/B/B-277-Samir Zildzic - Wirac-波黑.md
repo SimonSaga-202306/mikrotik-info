@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障…
+- **是谁**：Wirac.Net d.o.o.(Gračanica, 75320 BiH;2006 创,20 年老品牌；AS59847 实体；**Admir Kamarić = Generalni direktor（总经理，隐私政策页…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 全国唯一顾问备养:活跃验证后按顾问价值模板激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Wirac.Net d.o.o.(Gračanica, 75320 BiH;2006 创,20 年老品牌；AS59847 实体；**Admir Kamarić = Generalni direktor（总经理，隐私政策页自曝）**;**Samir Zildžić = ovlašteni MikroTik trener(官方 MikroTik 认证教练，MTC | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语)
+- 【事实】Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语) | R65 深挖:BiH 20 年 ISP+教练谱；双谱自用：Kamarić 总+ Zildžić 证教
 - 【推断】全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型
 - 【假设】开口角度=「唯一顾问的工具箱价值档」:先验活跃,激活后按顾问模板出信
 
@@ -83,7 +83,8 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Samir Zildzic | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
+| Admir Kamarić | Generalni direktor（总经理） | info@wirac.ba | wirac.net 隐私政策页自曝 | https://wirac.net/privacy-policy/ |
+| Samir Zildžić | ovlašteni MikroTik trener（官方认证教练） | 经 wirac.ba / info@wirac.ba | wirac.ba 官网 trainer 自曝 | https://wirac.ba/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -106,11 +107,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第21批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Samir Zildzic - Wirac(samir@wirac.ba;+387 35 708 296;**波黑唯一 MikroTik 认证顾问(MTCNA+MTCTCE)**;MikroTik 路由搭建配置/远程排障/无线/路由/VPN/OSPF;英德塞克波五语)
+- **背景深描**：Wirac.Net d.o.o.(Gračanica, 75320 BiH;2006 创,20 年老品牌；AS59847 实体；**Admir Kamarić = Generalni direktor（总经理，隐私政策页自曝）**;**Samir Zildžić = ovlašteni MikroTik trener(官方 MikroTik 认证教练，MTCNA/MTCRE/MTCSE/MTCTCE 课程讲师，CSV 谱主位）**;谱型=BiH ISP+网络工程学校+互联客户 20 年
 - **芯片与在用型号**：【推断】全国唯一顾问=稀缺技术背书:波黑政企/ISP 项目绕不开的人;项目谱自主选型
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：Admir Kamarić = Generalni direktor;Samir Zildžić = ovlašteni MikroTik trener（双向谱）
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCTCE | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:全国唯一=壁垒 / W:个人体量小 / O:顾问指定权大,value 档随案进 / T:单靠一人节奏
 - **Saga产品适配**：全国唯一顾问备养:活跃验证后按顾问价值模板激活
@@ -120,6 +121,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV(波黑唯一认证顾问;MTCNA+MTCTCE;路由搭建配置/远程排障/无线/VPN/OSPF;英德塞克波五语)
   > CSV(波黑唯一认证顾问;MTCNA+MTCTCE;路由搭建配置/远程排障/无线/VPN/OSPF;英德塞克波五语)
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 实名/谱位】**Wirac.Net doo Gračanica BiH 2006 20 年品牌 · Kamarić 总+ Zildžić 认证教练 · AS59847 实体 · MTCNA/MTCRE/MTCSE/MTCTCE 谱训
+  > Za Wirac.Net d.o.o. Admir Kamarić, Generalni direktor … trainer Samir Zildžić — ovlašteni MikroTik trener … course MTCNA i MTCRE, MTCSE, MTCTCE — MikroTik certifikacije … 20 godina povezani s Vama Od 2006.
+  > 来源：https://wirac.ba/
 
 ## 产品决策（Saga · 单一决策口径）
 

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销…
+- **是谁**：TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Ba…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Bacău + București/Cluj/Iași 仓点;Hikvision/Honeywell/Uniview/MikroTik/TREN | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro)
+- 【事实】TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin
 - 【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高
 - 【假设】开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层
 
@@ -114,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesyste
+- **背景深描**：TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Bacău + București/Cluj/Iași 仓点;Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos 等 40-70 牌官方;三点股东结构(D.I./D.M./N.M.R.),D.M.=David Marian Administrator 公示,0728 105 124;安装商/集成商专供)
 - **芯片与在用型号**：【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
+- **关键人KP**：David Marian = Administrator(公安许可台账实名);Marian David(Marketing 同姓口径);Monica Balcu KAM;Stefan Cosa 产品经理;Răzvan Dobocan BDM Cluj
 - **关注点与资质**：MikroTik（Master+VAD） | 传承人名开口：见 KP 表
 - **优缺点SWOT**：S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:安装商客层 PoE 高频复购 / T:谱内大品牌挤压
 - **Saga产品适配**：安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)
@@ -131,6 +131,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**puncte de prezență și spații logistice în Bacău, București, Cluj și Iași
   > puncte de prezență și spații logistice în Bacău, București, Cluj și Iași
   > 来源：https://rocketreach.co/telesystem-profile_b402d648fc0a032a
+- **【R64/Administrator 实名】**Societatea TELESYSTEM S.R.L. administrată de David Marian(公安/许可证台账公开);companywall/termene 对应 D.M. 缩写股东
+  > Societate: Telesystem S.R.L. administrată de David Marian … Contact David Marian 0234/551055 0728 105 124 office@telesystem.ro
+  > 来源：https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/
+- **【R64 商业登记】**CUI RO22460883,2007-09-25,功能正常,三位股东三位董事(缩写台账)
+  > TELESYSTEM SRL CUI 22460883 J2007001650049 Funcţiune … 3 shareholders and 3 directors
+  > 来源：https://termene.ro/en/firma/22460883-TELESYSTEM-SRL
 
 ## 产品决策（Saga · 单一决策口径）
 

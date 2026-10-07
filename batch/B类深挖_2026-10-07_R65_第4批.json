@@ -1,0 +1,609 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 4 批(保加利亚/克罗地亚/捷克)",
+ "scope": "B-040 ASAP / B-042 Computer Market / B-046 PCLife / B-048 Riva / B-052 EZY Infotech / B-053 LOST / B-189 ABCtech / B-191 AT Computers",
+ "discipline": "实名=商业登记/官网/LinkedIn 公开源自曝;评级不动不出信守档;待补证项标待定不重试",
+ "records": [
+  {
+   "code": "B-040",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线",
+    "inference": "实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺",
+    "hypothesis": "开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先"
+   },
+   "dimensions": {
+    "背景深描": "ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT),非纯硬件分销;11-50 人;大客户谱=HP/Coca Cola;LinkedIn 公司页持有者 Peter Zyumbilev MD)",
+    "芯片与在用型号": "【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺",
+    "关键人KP": "Peter Zyumbilev = Managing Director;Nikolai Enev = Regional IT Services Manager(IT 服务线口)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业档零 / O:企业项目 PoE 随单增量 / T:MikroTik 商券锚价深,换牌教育成本",
+    "Saga产品适配": "IT 方案商项目谱的 value PoE 管理档"
+   },
+   "swot_text": "- **S**:47 人实体方案商在营+官网 MikroTik 专页\n- **W**:交换谱单一,工业档零\n- **O**:企业项目 PoE 随单增量\n- **T**:MikroTik 商券锚价深,换牌教育成本",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100",
+     "quote": "Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg",
+     "quote": "ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg",
+     "url": "https://www.asap.bg/en-us/it-solutions/networks/mikrotik-en"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia",
+     "quote": "ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia",
+     "url": "https://contactout.com/company/ASAP-Ltd-94248"
+    },
+    {
+     "dim": "R65 LinkedIn 实名",
+     "text": "ASAP Ltd Founded 2007 · HQ Sofia · 11-50 employees · Peter Zyumbilev Managing Director 自曝",
+     "quote": "ASAP Ltd is founded in 2007 … Peter Zyumbilev's profile … Managing Director, ASAP Ltd",
+     "url": "https://bg.linkedin.com/company/asap-ltd"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Peter Zyumbilev",
+     "role": "Managing Director",
+     "contact": "经官网/LinkedIn 索取",
+     "status": "LinkedIn 公司页自曝",
+     "source": "https://bg.linkedin.com/company/asap-ltd"
+    },
+    {
+     "name": "Nikolai Enev",
+     "role": "Regional IT Services Manager",
+     "contact": "—",
+     "status": "LinkedIn 公司页自曝",
+     "source": "同 LinkedIn"
+    }
+   ],
+   "unknowns56": [
+    "项目交付里的交换机现供品牌",
+    "PoE 功率密度需求档位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 项目谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先",
+     "question": "你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@asap.bg 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先",
+     "question": "你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先",
+     "question": "你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ASAP team,\n\nAn IT solutions house in Sofia with a MikroTik shelf behind your enterprise network projects - you know the brands end customers specify, and where a project BOM gets tight on PoE switching.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.\n\nOne question: in your enterprise network deployments, which 24-port PoE managed switch do you reach for today - and is there a value slot beside it?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-042",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Computer Market(Burgas 门店型 IT 商;altostrat 名录 Reseller 在册 sales@computermarket.bg +359 700 200 02;公开足迹薄) | R65 深挖:计算机零售连锁;独资业主强个人笔",
+    "inference": "Burgas 城区门店级小商,MikroTik 谱挂名零售,体量小",
+    "hypothesis": "开口角度=「门店小商活跃验证+value 试探」:先验活跃,谱情摸清后再按 STC-424 模板激活"
+   },
+   "dimensions": {
+    "背景深描": "Компютър Маркет ЕООД(Computer Market;Царица Йоанна 11-13, Burgas;零售连锁店,**自由人董事/全资**:Неделчо Николов НИКОЛОВ(Nedelcho Nikolov Nikolov);ЕИК 200823637,2021 营收 3.039M BGN(+37% YoY);首都 Sofia 注册+chain Burgas;office@computermarket.bg,+359 700 20 002)",
+    "芯片与在用型号": "【推断】Burgas 城区门店级小商,MikroTik 谱挂名零售,体量小",
+    "关键人KP": "Неделчо Николов Николов(Nedelcho Nikolov Nikolov)= Управител(董事/独资业主,2 司关联)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:Burgas 实体门店 / W:小,足迹薄 / O:城区 SME 装机谱 PoE 随单 / T:失联/低优先",
+    "Saga产品适配": "门店型小商备养:活跃验证后按 value PoE 模板激活"
+   },
+   "swot_text": "- **S**:Burgas 实体门店\n- **W**:小,足迹薄\n- **O**:城区 SME 装机谱 PoE 随单\n- **T**:失联/低优先",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Local Resellers ### Computer Market Reseller Burgas sales@computermarket.bg +35970020002",
+     "quote": "Local Resellers ### Computer Market Reseller Burgas sales@computermarket.bg +35970020002",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "ЕИК 200823637 · Nedelcho Nikolov Nikolov 董事/独资 · 2021 营业额 3.039M BGN(+37% YoY)",
+     "quote": "Управител: НЕДЕЛЧО НИКОЛОВ НИКОЛОВ … Оборота на фирмата за 2021 година е 3 039 000 лв",
+     "url": "https://papagal.bg/eik/200823637/76e8"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Неделчо Николов Николов",
+     "role": "Управител(董事/独资业主)",
+     "contact": "office@computermarket.bg(FB 上公示)",
+     "status": "papagal.bg 商业登记实名+FB 页双源",
+     "source": "https://papagal.bg/eik/200823637/76e8"
+    }
+   ],
+   "unknowns56": [
+    "活跃经营佐证",
+    "网络谱真实占比"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「门店小商活跃验证+value 试探」:先验活跃,谱情摸清后再按 STC-424 模板激活",
+     "question": "(先验活跃)你们给本地企业装机时,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「门店小商活跃验证+value 试探」:先验活跃,谱情摸清后再按 STC-424 模板激活",
+     "question": "(先验活跃)你们给本地企业装机时,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-046",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名) | R65 深挖:谱型核正:refurbished 大批发=MikroTik 谱只是随单店架",
+    "inference": "二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺",
+    "hypothesis": "开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单"
+   },
+   "dimensions": {
+    "背景深描": "ПС ЛАЙФ ООД(PCLife Ltd;Plovdiv Trakiq bl.49 ent.G fl.5;EIK 200453223,2005/2008 注册口径差异;16 员工;**refurbished/二手计算机设备 bulk 贸易**——买入卖出 refurbished computer hardware in Large Quantity;Svetoslav Slavchev = Founder & CEO(yourstory 载);Plovdiv+Stara Zagora 双点)",
+    "芯片与在用型号": "【推断】二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺",
+    "关键人KP": "Svetoslav Slavchev = Founder & CEO",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:活跃电商+批量 B2B 客层 / W:网通谱边缘,二手主导 / O:批量装机单 PoE 搭售 / T:价格敏感,网通溢价空间薄",
+    "Saga产品适配": "二手整机批发电商的网络谱 value 补位"
+   },
+   "swot_text": "- **S**:活跃电商+批量 B2B 客层\n- **W**:网通谱边缘,二手主导\n- **O**:批量装机单 PoE 搭售\n- **T**:价格敏感,网通溢价空间薄",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "PCLIFE Ltd… founded in 2008, specializing in providing high-quality used computer equipment and POS systems … сертифициран дистрибутор на Mi",
+     "quote": "PCLIFE Ltd… founded in 2008, specializing in providing high-quality used computer equipment and POS systems … сертифициран дистрибутор на MikroTik … 99% Positive Feedback … 0887 624 895",
+     "url": "https://www.pclife.bg/en/%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81-109"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million",
+     "quote": "PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million",
+     "url": "https://www.zoominfo.com/c/pclife-ltd/457922169"
+    },
+    {
+     "dim": "R65 谱型核正",
+     "text": "PCLife=二手/refurbished 计算机设备大批发,16 员工,2005 创;不是标准 MikroTik 新品分销(谱位需重评)",
+     "quote": "We buy and sell refurbished Computer Hardware in Large Quantity … 16 employees … Registered 2008",
+     "url": "https://www.jobs.bg/en/company/pclife"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Svetoslav Slavchev",
+     "role": "Founder & CEO",
+     "contact": "经 pclife.bg 联系页/+359 32 624 895 索取",
+     "status": "yourstory 登记画像具名",
+     "source": "https://yourstory.com/companies/pclife"
+    }
+   ],
+   "unknowns56": [
+    "网络类目真实占比",
+    "批量装机客户是否指定网络件"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 批量装机谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单",
+     "question": "你们的批量装机/SME 项目单里,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · orders@pclife.bg 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单",
+     "question": "你们的批量装机/SME 项目单里,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单",
+     "question": "你们的批量装机/SME 项目单里,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi PCLife team,\n\nHigh-volume refurbished IT with nationwide 24h delivery and a MikroTik shelf on the side - your B2B batch orders for SMEs often land together with network gear, and PoE switching is usually the least differentiated line on that BOM.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides along with your batch orders, white-label friendly.\n\nOne question: on your SME batch-delivery deals, which PoE switch do you stock today - and is a value unit worth a bench test for that line?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-048",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Riva Ltd / Рива ООД(Burgas;**MikroTik 官方 VAD 名录在册**;官网自诩「Рива ООД е официален дистрибутор на Mikrotik за България」;MikroTik 类目 141 SKU、Burgas 现货 125 款;门店 Лермонтов 52+服务部 Славейков бл.72;riva@riva.bg) | R65 深挖:MikroTik 保加利亚官方分销商定位坐实;董事实名待 papagal 下次补",
+    "inference": "Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射",
+    "hypothesis": "开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频"
+   },
+   "dimensions": {
+    "背景深描": "Рива ООД(Riva Ltd;гр. Бургас, жк.Славейков бл.72;ЕИК/VAT BG102125854;**MikroTik 保加利亚官方分销商**(官网自曝 \"официален дистрибутор на Mikrotik\");sales@riva.bg/ service@riva.bg 自曝;056 842323 / 0876 911010;Burgas 两江城市门店)",
+    "芯片与在用型号": "【推断】Burgas 为本的 MikroTik 专强 VAD+零售门店双体:无线/户外谱细分类在筛(2.4G/5G/外置),黑海沿岸与东南保辐射",
+    "关键人KP": "—(实名董事 trailnil 台账击不着,保留待定;A相关紧台账方向)via papagal.bg ЕИК 102125854 可查",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:官方 VAD+本地现货仓+服务部 / W:单 MikroTik 强绑,交换机谱浅 / O:商用 PoE 档随无线谱放量 / T:与 MikroTik 交换机自产线正面撞",
+    "Saga产品适配": "官方 VAD 现货谱的商用 PoE 管理栏"
+   },
+   "swot_text": "- **S**:官方 VAD+本地现货仓+服务部\n- **W**:单 MikroTik 强绑,交换机谱浅\n- **O**:商用 PoE 档随无线谱放量\n- **T**:与 MikroTik 交换机自产线正面撞",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23",
+     "quote": "Riva.Ltd Value Added Distributor Burgas riva@riva.bg +359 56 84 23 23",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/bulgaria/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)",
+     "quote": "Рива ООД е официален дистрибутор на Mikrotik за България … Производител: MikroTik (141) … Наличност в Бургас: Да (125)",
+     "url": "https://www.riva.bg/mikrotik/show/all.html"
+    },
+    {
+     "dim": "R65 官网自曝",
+     "text": "Рива ООД е официален дистрибутор на Mikrotik за България;ЕИК BG102125854;Burgas 双热线",
+     "quote": "Рива ООД е официален дистрибутор на Mikrotik за България … ЕИК/VAT: BG102125854 … гр. Бургас, жк.Славейков бл.72",
+     "url": "https://www.riva.bg/mikrotik/show/all.html"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "商用交换机谱现存档位",
+    "PoE 管理型价带"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 商用 PoE 槽位页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频",
+     "question": "你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · riva@riva.bg 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频",
+     "question": "你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「VAD 的商用 PoE 管理槽位」:STC-424 为主力档,门店现货逻辑同频",
+     "question": "你们 MikroTik 现货谱旁,24 口 PoE 管理型档位现由哪家填?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Riva team,\n\nAn official MikroTik VAD in Burgas with 125 items in local stock and a service branch behind it - your wireless shelf is deep, and the commercial PoE switching line beside it is where resellers quietly compare slots and prices.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your reseller-facing shelf, white-label friendly.\n\nOne question: beside your MikroTik stock, which 24-port PoE managed switch fills the value slot for your resellers today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-052",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "EZY Infotech d.o.o.(Čakovec Ul. Miroslava Krleže 28;**MikroTik Master + Ubiquiti 官方 Reseller 双名录**;10-19 人,消费电子/计算机零售类目;prodaja@ezy.hr) | R65 深挖:克罗地亚小家族分销;母女双董事",
+    "inference": "克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实",
+    "hypothesis": "开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口"
+   },
+   "dimensions": {
+    "背景深描": "EZY Infotech d.o.o.(OIB 79541484681,MBS 070061024,2002-05-16 创立,Čakovec M. Krleže 28;**家族式**:Maja Novosel + Petra Novosel 母女/姐妹双业主双董事,Fina Info 最新的股东/董事二人名录;€120,000 股本,75% 外资股(fininfo/mojatvrtka 记 Branko Novosel dipl.ing. 早期 key person 言);小业主)+rival Mr. Kopeček)",
+    "芯片与在用型号": "【推断】克罗地亚北(梅吉穆列)小型 Master:双牌谱(MikroTik+Ubiquiti)面向区域经销商/SME 装机,体量小而谱实",
+    "关键人KP": "Maja Novosel + Petra Novosel = 双业主双董事(Fina Info.BIZ 最新);Branko Novosel 早期 key person(或退休)",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:双牌 Master 名录 / W:体量小(10-19 人) / O:区域谱 PoE 补位 / T:被大 VAD(EVOL/Pondi)压价",
+    "Saga产品适配": "双牌小 Master 的 value PoE 管理补位"
+   },
+   "swot_text": "- **S**:双牌 Master 名录\n- **W**:体量小(10-19 人)\n- **O**:区域谱 PoE 补位\n- **T**:被大 VAD(EVOL/Pondi)压价",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "EZY Infotech d.o.o. Master Distributor Cakovec prodaja@ezy.hr +385 40 363 888",
+     "quote": "EZY Infotech d.o.o. Master Distributor Cakovec prodaja@ezy.hr +385 40 363 888",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/croatia/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888",
+     "quote": "Resellers ### EZY Infotech d.o.o. Ul. Miroslava Krleže 28, 40000, Čakovec, Croatia 385-40-363-888",
+     "url": "https://www.ui.com/distributors/?region=eur"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "OIB 79541484681 · 2002 创立 · Maja+Petra Novosel 双业主双董事 · 股本 €120K · 小业主",
+     "quote": "Trenutni direktori tvrtke su PETRA NOVOSEL, Maja Novosel … Trenutni vlasnici tvrtke su MAJA NOVOSEL, PETRA NOVOSEL … 16.05.2002.",
+     "url": "https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Maja Novosel",
+     "role": "Vlasnik & Direktor(业主/董事)",
+     "contact": "经 ezy.hr/Lost 总线",
+     "status": "companywall.hr + fina Info.BIZ 双源实名",
+     "source": "https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0"
+    },
+    {
+     "name": "Petra Novosel",
+     "role": "Vlasnik & Direktor(业主/董事)",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同 companywall.hr"
+    }
+   ],
+   "unknowns56": [
+    "交换机现存档位",
+    "区域经销商网规模"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 双牌谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口",
+     "question": "你们给区域经销商配货时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · prodaja@ezy.hr 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口",
+     "question": "你们给区域经销商配货时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双牌小 Master 的 PoE 管理档」:STC-424 以 value 补位档开口",
+     "question": "你们给区域经销商配货时,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi EZY Infotech team,\n\nA Master distributor in Čakovec carrying both MikroTik and Ubiquiti lines - your regional resellers buy radios and routers from you, and the PoE switch line behind those deployments is where a documented value unit earns its shelf.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE unit for your reseller-facing line-up, white-label friendly.\n\nOne question: for the deployments your resellers build, which PoE managed switch fills the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-053",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构",
+    "inference": "老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角",
+    "hypothesis": "开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话"
+   },
+   "dimensions": {
+    "背景深描": "LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + Denis Dizdarević = 双业主双董事**,Fina Info/Kompass 两源实名)",
+    "芯片与在用型号": "【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角",
+    "关键人KP": "Stipe Lozušić + Denis Dizdarević = 双业主双董事(fininfo.hr/companywall 双源)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档好切 / T:既成谱系换牌惰性",
+    "Saga产品适配": "老牌 IT 批发的商用 PoE 管理档"
+   },
+   "swot_text": "- **S**:25 年老牌全国批发网\n- **W**:网通为子谱\n- **O**:新品类敢接,value 档好切\n- **T**:既成谱系换牌惰性",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees",
+     "quote": "One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees",
+     "url": "https://hr.linkedin.com/company/lost-d-o-o-"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila",
+     "quote": "WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila",
+     "url": "https://x.com/lostdoo"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "OIB 89984971143 · 1994 创立 · Stipe Lozušić+Denis Dizdarević 双业主双董事 · 20-49 员工",
+     "quote": "LOST, d.o.o. registrirano je na adresi Ulica Kreše Golika 7, 10000, Zagreb … posluje od 30.12.1994 … Stipe Lozušić, Denis Dizdarević",
+     "url": "https://www.companywall.hr/tvrtka/lost-doo/MM13qecC"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Stipe Lozušić",
+     "role": "Vlasnik & Direktor(业主/董事)",
+     "contact": "lost@lost.hr / 013697640",
+     "status": "fininfo.hr + companywall.hr 双源实名",
+     "source": "https://www.fininfo.hr/Poduzece/Pregled/lost/Detaljno/20723"
+    },
+    {
+     "name": "Denis Dizdarević",
+     "role": "Vlasnik & Direktor(业主/董事)",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同 fininfo.hr"
+    }
+   ],
+   "unknowns56": [
+    "网络谱现存 PoE 档位",
+    "EV 充电桩铺货里的网络件配套"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 商用 PoE 档页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话",
+     "question": "你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · lost@lost.hr 开口(可提 EV 桩场点配套)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话",
+     "question": "你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话",
+     "question": "你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi LOST team,\n\nTwenty-five years of IT wholesale across Croatia, and bold enough to add EV charging stations to the line card - you clearly earn margin from categories others ignore. PoE switching is one of those understated, high-rotation lines.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.\n\nOne question: in your networking line-up, which 24-port PoE managed switch holds the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-189",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz) | R65 深挖:捷克 ISP 设备总批发商,MikroTik/Cambium/RFElements 多谱在位=最准年代",
+    "inference": "东波希米亚小型 Reseller;足迹薄",
+    "hypothesis": "守档备养:活跃验证后按 value 模板激活"
+   },
+   "dimensions": {
+    "背景深描": "ABCtech s.r.o.(IČ 27546624/DIČ CZ27546624,Hradec Králové 地区司法登记;2008+ 注册;总部 Piletická 55/36, Hradec Králové 3(制造/分销两翼:库存 Česká Skalice Nerudova 742 发票);品牌谱=MikroTik/Cambium/Ubiquiti/TP-Link/RF elements/Netis/Hikvision——**谱型=无线/ISP 设备总批发商**;Jan Hofman 董事(2011-08 重组后,原 Milan Roztočil 退);Komerční banka CZ0301000001157270380287)**",
+    "芯片与在用型号": "【推断】东波希米亚小型 Reseller;足迹薄",
+    "关键人KP": "Jan Hofman = Jednatel(董事,2011 至今,继 Milan Roztočil 退位)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:东波希米亚区位 / W:足迹薄 / O:验活后 value 位 / T:失联",
+    "Saga产品适配": "东波希米亚小商备养:活跃验证先行"
+   },
+   "swot_text": "- **S**:东波希米亚区位\n- **W**:足迹薄\n- **O**:验活后 value 位\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Reseller;Hradec Králové;obchod@abctech.cz",
+     "quote": "CSV:MikroTik 官方分销 Reseller;Hradec Králové;obchod@abctech.cz",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "IČ 27546624 · Jan Hofman jednatel 2011-08 至今(前 Milan Roztočil 退) · 发票地 Hradec Králové · KB 账号公开",
+     "quote": "Jednatel: Jan Hofman ABCtech s.r.o. … IČ: 27546624 DIČ: CZ27546624 … Den vzniku funkce: 11. 8. 2011",
+     "url": "https://www.abctech.cz/default.asp?cls=stoitem&stiid=39428"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jan Hofman",
+     "role": "Jednatel(董事/总经理)",
+     "contact": "经 abctech.cz reklamace@ 索取",
+     "status": "rejstrik.penize.cz + zivefirmy.cz + 官网 O nás 三源实名",
+     "source": "https://rejstrik.penize.cz/27546624-abctech-s-r-o"
+    }
+   ],
+   "unknowns56": [
+    "活跃经营佐证",
+    "谱与量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:活跃验证后按 value 模板激活",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:活跃验证后按 value 模板激活",
+     "question": "(先验活跃)你们架上 PoE 接层现供哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-191",
+   "researched_on": "2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "AT Computers a.s.(Ostrava Těšínská 1970/56 + Praha/Brno/Bratislava/Žilina 分部;1998 创,201-500 人,**年营收 CZK 230-300 亿(~€1B 级)**:**捷克最大 IT 分销商,波兰 AB Group(华沙证交所上市)旗下——中欧最大分销集团、欧洲前十**;**捷克最大 PC 制造商**(AutoCont/Triline/Comfor/Diderot 自牌 PC);260+ 厂商、百万件库存;atcomp.cz+atcomp.sk 双语谱;CZECH 斯洛伐克双市场一入口) | R65 深挖:平台型分销大 65000 SKU;MikroTik 商口由 web 册内挂着,PO 口位置价值",
+    "inference": "中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策",
+    "hypothesis": "开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓"
+   },
+   "dimensions": {
+    "背景深描": "AT Computers a.s.(IČO 616 72 599,Těšínská 1970/56, Slezská Ostrava, 710 00 Ostrava;**捷克 ICT 大分销体**:65,000+ SKU/300+ 世界品牌/1,000+ 零售伙伴网络;atcmarket.cz = 其纯 B2B 市场平台(不直售终端,全部 resale 通过 reseller);TOUCHIT 项目学生;下面有些话是平台型分销与谱商接口最能通)",
+    "芯片与在用型号": "【推断】中欧分销巨物:自有 PC 品牌=制造血统(仅组装);斯洛伐克 atcomp.sk 同谱,一次开口 CZ+SK 两国;€1B 级架的 value PoE 档是体系化上架决策",
+    "关键人KP": "—(零售平台层大分销,jednatel/董事需到 or.justice.cz/商业登记查询本,IČO 61672599 挂牌)",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场 / W:巨物决策链长 / O:集团架 value PoE stocking SKU / T:集团集采门槛",
+    "Saga产品适配": "中欧最大分销集团(AB Group 系)的 value PoE 集团架位(一次 CZ+SK 两国)"
+   },
+   "swot_text": "- **S**:€1B 级+AB Group+自有 PC 牌+CZ/SK 双市场\n- **W**:巨物决策链长\n- **O**:集团架 value PoE stocking SKU\n- **T**:集团集采门槛",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "annual sales of CZK 23 billion, the largest Czech distributor of IT and telecommunications products…part of the Polish AB Group…among the te",
+     "quote": "annual sales of CZK 23 billion, the largest Czech distributor of IT and telecommunications products…part of the Polish AB Group…among the ten largest companies in Europe",
+     "url": "https://www.crunchbase.com/organization/at-computers"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek",
+     "quote": "Největší český výrobce PC (AutoCont, Triline, Comfor, Diderot)…260 výrobců, skladem více než milion položek",
+     "url": "https://ifirmy.cz/firma/005422-at-computers-as"
+    },
+    {
+     "dim": "R65 平台谱型坐实",
+     "text": "AT Computers a.s.=捷克 ICT 大分销,atcmarket.cz 纯 B2B 市场,65000+ SKU ≈ 300 大谱/大卖家网络,不直售终 user,全部 resale 过 reseller;IČO 616 72 599 发票地 Slezská Ostrava",
+     "quote": "AT Computers, Slezská Ostrava … Distribuční společnost nabízející ICT zařízení … Databáze produktů obsahuje více jak 65 000 různých položek zboží od 300 největších světových i domácích značek … ATC nikdy neprodává koncovým zákazníkům napřímo",
+     "url": "https://www.hwforum.cz/novinky/projekt-www.atcmarket-cz-od-AT-Computers.html"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "networking 品类采购负责人(类目 BU)",
+    "AB Group 集团层 value 品牌策略(自牌或三方)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 集团架上 value 档提案",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓",
+     "question": "你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · obchod@atcomp.cz 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓",
+     "question": "你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「AB Group 系大架的 value PoE stocking SKU」:STC-424 以其 networking 品类(CUDY/Ubiquiti/MikroTik 之外)value 位入其对俄斯特拉发中央仓",
+     "question": "你们 networking 品类 value PoE 档现走哪个品牌?集团层面新品牌上架流程怎么走?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi AT Computers team,\n\nThe largest Czech IT distributor inside Central Europe's biggest distribution group, with own PC brands on top - you know exactly what it takes to build and stock a hardware line at scale.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your networking category, white-label friendly, ready for the Ostrava central warehouse.\n\nOne question: inside your networking category, which brand holds the value 24-port managed PoE tier today - and what does the new-vendor onboarding path look like at the group level?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

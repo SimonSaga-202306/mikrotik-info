@@ -1,0 +1,468 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 19 批（法国 6 户收尾）",
+ "scope": "B-524 HD Technology / B-523 FGET / B-254 VODENN / B-234 Adnan Rihan / B-251 Redvise / B-230 ACTN",
+ "records": [
+  {
+   "code": "B-524",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022",
+    "inference": "30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传",
+    "hypothesis": "开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口"
+   },
+   "dimensions": {
+    "背景深描": "HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05 在任，1964-10 生 61 岁）**;503 BROADWAY(SIREN 539109082)= Président 法人（2022-06-30 在任）;10-19 员工，€1-2M 营收 monreseau-it；小老谱 1993",
+    "芯片与在用型号": "【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传",
+    "关键人KP": "Denis Richard = Directeur Général（2022 在任）;503 BROADWAY 法人主席位)",
+    "关注点与资质": "N-Tron + Red Lion ",
+    "优缺点SWOT": "S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-288GP 第 2 源或 STI-288GP OEM 变体系 / T:Red Lion 售供血脉",
+    "Saga产品适配": "法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源"
+   },
+   "swot_text": "- **S**:1993 老工业+Red Lion OEM 版本已开\n- **W**:Red Lion 王牌亚位稳\n- **O**:STI-288GP 第 2 源或 STI-288GP OEM 变体系\n- **T**:Red Lion 售供血脉",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Les switchs Ethernet industriels de Red Lion, incluant notamment les séries N-Tron®, Sixnet®, NT4008 et NT5000…disponibles en versions manag",
+     "quote": "Les switchs Ethernet industriels de Red Lion, incluant notamment les séries N-Tron®, Sixnet®, NT4008 et NT5000…disponibles en versions managées, non managées, PoE, IP67 et OEM",
+     "url": "https://store.hdtechnology.com/red-lion/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président",
+     "url": "https://www.manageo.fr/entreprises/390778769.html"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "HD TECHNOLOGY Bron(Lyon) 390778769 · 1993 创 · Denis Richard DG 2022 · €1-2M/10-19 谱位",
+     "quote": "Denis Richard Directeur général 61 ans - 10/1964 Depuis le 05/08/2022 … High Design Technology - Hd Technology : Édition de logiciels applicatifs … Effectif: 10 à 19 salariés, Chiffres d'affaires: 1 à 2 M€",
+     "url": "https://www.monreseau-it.fr/revendeur/hd-technology-390778769.htm"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Denis Richard",
+     "role": "Directeur Général（总经理）",
+     "contact": "经 hdtechnology.fr / +33 472146890",
+     "status": "pappers + monreseau-it 双源",
+     "source": "https://www.pappers.fr/entreprise/high-design-technology-hd-technology-390778769"
+    }
+   ],
+   "unknowns56": [
+    "NT4008/NT5000 OEM 版本（他们已给 Red Lion 开出 OEM），我们能出 STI 的 OEM 关各项",
+    "Richard DENIS 对 PoE 类别的商务判位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · OEM 样张 Red Lion 对位",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口",
+     "question": "Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · Richard DENIS 具名联络",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口",
+     "question": "Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口",
+     "question": "Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Richard,\n\nThirty years in industrial automation with Red Lion on your wall and the NT4008 / NT5000 series in managed / unmanaged / PoE / IP67 / OEM variants - you already know exactly what an OEM-version story looks like.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.\n\nOne question: alongside the Red Lion shelf, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-523",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营 | R65 深挖:Genas 42 年老谱 5.9M€;Guedj 父子接棒位",
+    "inference": "法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)",
+    "hypothesis": "开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)"
+   },
+   "dimensions": {
+    "背景深描": "FGET International(SIREN(Genas 69740),1984-01-06 创（42 年老谱！);**Gil Guedj = Président de SAS（主席，1947 生 79 岁）;Jefferson Guedj = Directeur Général（总经理，1988 生 38 岁，亲家接棒）**;谱型=电子与电信设备/部件大宗批发（Commerce de gros 4652);10-19 员工，€5.86M 营收；04 72 79 64 15 / info@fget.fr;CJ2L 协调主席",
+    "芯片与在用型号": "【推断】法人已并 ACSI——FGET 品牌存终(fget.fr 还在运作+ACSI,后联）;采购口未确定(FGET 品牌还是 ACSI)",
+    "关键人KP": "Gil Guedj = Président(79 岁 1947 生）;Jefferson Guedj = DG（1988 生 38 岁接棒）",
+    "关注点与资质": "N-Tron + Red Lion + Anybus + Ewon ",
+    "优缺点SWOT": "S:老品商+ACSI 并购了品路 / W:并购后位不固定,接触错乱 / O:STI-288GP 老谱后值二线 / T:品牌面前面目更新",
+    "Saga产品适配": "并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道"
+   },
+   "swot_text": "- **S**:老品商+ACSI 并购了品路\n- **W**:并购后位不固定,接触错乱\n- **O**:STI-288GP 老谱后值二线\n- **T**:品牌面前面目更新",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "IMPORTATEUR & DISTRIBUTEUR DE COMPOSANTS (AUTOMATISME/CONNECTIQUE/ROBOTIQUE/PHOTOVOLTAÏQUE)…Fondée en 1984",
+     "quote": "IMPORTATEUR & DISTRIBUTEUR DE COMPOSANTS (AUTOMATISME/CONNECTIQUE/ROBOTIQUE/PHOTOVOLTAÏQUE)…Fondée en 1984",
+     "url": "https://fr.linkedin.com/company/fget-internationnal"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5",
+     "quote": "2G INVESTISSEMENTS…Fusion…dissolution sans liquidation…article 1844-5",
+     "url": "https://entreprises.lefigaro.fr/fget-international-69/entreprise-328732565"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "FGET Genas 1984 42 年老谱 · Gil Guedj 79 主+Jefferson Guedj 38 接棒 · €5.86M 电子通件批发",
+     "quote": "Gil Guedj né en 1947 … Président de SAS … Jefferson Guedj né(e) en 1988 … Directeur Général … CA : 5.86 M",
+     "url": "https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Gil Guedj",
+     "role": "Président de SAS",
+     "contact": "info@fget.fr / 04 72 79 64 15",
+     "status": "infonet 双源",
+     "source": "https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/"
+    },
+    {
+     "name": "Jefferson Guedj",
+     "role": "Directeur Général（1988 生二代接棒）",
+     "contact": "同上",
+     "status": "infonet/pappers 双源",
+     "source": "https://infonet.fr/dirigeants/66a9dcb541b8769963e290e3/"
+    }
+   ],
+   "unknowns56": [
+    "ACSI 购构后 PoE 类目的采购口（FGET 还是 ACSI)",
+    "N-Tron+Red Lion+Anybus+Ewon 谱的 value 档 PoE 现供"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 老谱后二线 OEM 样张",
+     "push": "STI-288GP",
+     "angle": "开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)",
+     "question": "你们 FGET/ACSI 后 Red Lion 谱望向 DIN 轨 PoE 现供 N-Tron/Red Lion 还是 OEM?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · fget.fr 联系页+ACSI 试口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)",
+     "question": "你们 FGET/ACSI 后 Red Lion 谱望向 DIN 轨 PoE 现供 N-Tron/Red Lion 还是 OEM?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「FGET 品牌面仍活时的 ACSI 营业执照口的 Red Lion/N-Tron 谱后 DIN 轨 value 位」——STI-288GP 以工业 PoE 第 2 源开口（到 FGET 品牌联系 fget.fr)",
+     "question": "你们 FGET/ACSI 后 Red Lion 谱望向 DIN 轨 PoE 现供 N-Tron/Red Lion 还是 OEM?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi FGET team,\n\nAn automation-components importer-distributor since 1984, now nested under ACSI - your rear-history weight is deeper than the last merger label suggests.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - designed as the value-side second source alongside the Red Lion/N-Tron shelf.\n\nOne question: after the ACSI consolidation, for your Red Lion/N-Tron customer base, which DIN-rail PoE switch is the value-side default today - and is there room for a documented second source?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-254",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位",
+    "inference": "「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头",
+    "hypothesis": "开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE"
+   },
+   "dimensions": {
+    "背景深描": "VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launay = Directeur Général（1984-02 生，2019-05-02 在任）**;6201 编程/IT 咨询",
+    "芯片与在用型号": "【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头",
+    "关键人KP": "Dorian Pistolesi = Président;Julien Launay = DG",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bornes 装置 PoE 回程随单位 / T:自研 AP 面正对面",
+    "Saga产品适配": "法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位"
+   },
+   "swot_text": "- **S**:自研自造法国市政专谱+直接标\n- **W**:PME 随组位低,数量小\n- **O**:bornes 装置 PoE 回程随单位\n- **T**:自研 AP 面正对面",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés",
+     "quote": "Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés",
+     "url": "https://vodenn.fr/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon",
+     "quote": "VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon",
+     "url": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "VODENN SIREN 841882962 · La Farlède(Var) 2018 创微企 · Pistolesi 主+ Launay DG",
+     "quote": "841882962 Siret … Dorian PISTOLESI Président … Julien LAUNAY Directeur Général … La Farlede … Société par actions simplifiée … Capital 15 000 €",
+     "url": "https://www.verif.com/societe/VODENN-841882962/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Dorian Pistolesi",
+     "role": "Président",
+     "contact": "经 vodenn.fr",
+     "status": "verif + pappers 双源",
+     "source": "https://www.verif.com/societe/VODENN-841882962/"
+    },
+    {
+     "name": "Julien Launay",
+     "role": "Directeur Général(2019-05 在任）",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "市政 bornes 部署里 PoE 回程现供 OEM",
+    "其能源自主+监管服务谱 PoE 接点位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · borne 装置回程位样张",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE",
+     "question": "你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE",
+     "question": "你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE",
+     "question": "你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Vodenn team,\n\nFrench-made radio and video-protection systems for municipalities, with borne boxes that go into the field with their own power and supervision - every single field installation is a PoE assembly.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) plus 8-port industrial DIN-rail models, with full English/French documentation and OEM-friendly branding.\n\nOne question: inside the borne assemblies you ship to municipalities, which PoE source feeds the links and the cam runs - and would a documented OEM unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-234",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Adnan Rihan(法国巴黎)**——与 B-233 同一人物双档**:CSV 载 MikroTik 认证顾问 MTCNA+MTCIPv6E;同邮箱 adnan+mikrotik@rihan.fr、同手机 +33 6 78 62 26 20 | R65 深挖:B-234=B-251 联动谱（一主双实体英+法）",
+    "inference": "本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档",
+    "hypothesis": "守档促具名引见（与 B-233 一文）"
+   },
+   "dimensions": {
+    "背景深描": "Adnan Rihan(法国谱主位；**REDVISE LTD(Companies House 12906418，英国 Pvt Ltd,2020-09-25 登记,London Covent Garden WC2H 9JQ)任职：Directeur(2020-09-25 在任，France 居民）+PSCs(重点控股）**;",
+    "芯片与在用型号": "【推断】本档为 B-233 的 CSV 重复补强档;开负号参见 B-233 主档",
+    "关键人KP": "Adnan Rihan = REDVISE LTD Director + PSC,France 居民，Lord Adnan Rihan",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCIPv6E ",
+    "优缺点SWOT": "S:IPv6 专长 / W:双档原壁 / O:具名引见 / T:失联",
+    "Saga产品适配": "IPv6 专长师者通道统一,同 B-233 同一人双档（B-234=次档顺位并发）"
+   },
+   "swot_text": "- **S**:IPv6 专长\n- **W**:双档原壁\n- **O**:具名引见\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCIPv6E",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "adnan+mikrotik@rihan.fr(联系邮箱)同于 B-233;/+33 6 78 62 26 20 过手机号同",
+     "quote": "adnan+mikrotik@rihan.fr(联系邮箱)同于 B-233;/+33 6 78 62 26 20 过手机号同",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 联动核正",
+     "text": "B-234 Adnan Rihan = REDVISE LTD(UK 12906418)· REDVISE B-251 谱联动：同法人主体双谱口，是法国→英国双实体谱",
+     "quote": "Lord Adnan Rihan Лицо, обладающее значительным контролем … Rihan, Adnan, Lord Директор Страна проживания France … REDVISE LTD 12906418 71-75 Shelton Street",
+     "url": "https://b2bhint.com/ru/company/gb/redvise-ltd--12906418"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Adnan Rihan",
+     "role": "REDVISE LTD 董事 + PSC(PSD 法国居民）",
+     "contact": "经 redvise.fr / 71-75 Shelton Street London WC2H 9JQ",
+     "status": "b2bhint/Companies House 实名",
+     "source": "https://b2bhint.com/ru/company/gb/redvise-ltd--12906418"
+    }
+   ],
+   "unknowns56": [
+    "双档合并与否",
+    "现址在档 mikrotik.com 顾问名录"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档促具名引见（与 B-233 一文）",
+     "question": "IPv6 专长向 PoE",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档促具名引见（与 B-233 一文）",
+     "question": "IPv6 专长向 PoE",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-251",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线 | R65 深挖:同 B-234 谱联动，一主双实体",
+    "inference": "小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放",
+    "hypothesis": "开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走"
+   },
+   "dimensions": {
+    "背景深描": "REDVISE（法国谱主；**同 B-234 Adnan Rihan = 同主位实体谱**：REDVISE LTD(UK 12906418, London Covent Garden WC2H 9JQ, 2020-09-25 创）= 英侧谱载体）",
+    "芯片与在用型号": "【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放",
+    "关键人KP": "Adnan Rihan（同 B-234 谱口径）)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:小微高证+双址双国号 / W:小体量对上架位 / O:教具样本/对照牌教具位 / T:师者红线",
+    "Saga产品适配": "师者+reseller 双证的教具样本线:8 口小机当课桌对照教具（师者红线下最白开口）"
+   },
+   "swot_text": "- **S**:小微高证+双址双国号\n- **W**:小体量对上架位\n- **O**:教具样本/对照牌教具位\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform",
+     "quote": "We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform",
+     "url": "https://www.redvi.se/home"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ",
+     "quote": "PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ",
+     "url": "https://www.redvi.se/home"
+    },
+    {
+     "dim": "R65 谱联动",
+     "text": "B-251 Redvise 与 B-234 Adnan Rihan 同主双实体：英国 REDVISE LTD 12906418 谱载体",
+     "quote": "（同 B-234 R65 口径）",
+     "url": "https://b2bhint.com/ru/company/gb/redvise-ltd--12906418"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Adnan Rihan",
+     "role": "Director+PSC",
+     "contact": "经 redvise.fr",
+     "status": "同 B-234",
+     "source": "https://b2bhint.com/ru/company/gb/redvise-ltd--12906418"
+    }
+   ],
+   "unknowns56": [
+    "Trainer+Reseller 双份对教具 OEM 的开放度",
+    "课桌对照教具现有没有位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本合作一页(师者红线下）",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走",
+     "question": "你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机提议",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走",
+     "question": "你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走",
+     "question": "你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Redvise team,\n\nCertified MikroTik Trainer and Reseller on one business card, plus 3CX and Laravel on the other - you sit at that rare spot where the training bench and the reseller shelf meet.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/French documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: on your training bench, do you currently use a documented comparison device for the PoE segment - and would a sample-unit offer with a full test pack be something you would evaluate?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-230",
+   "researched_on": "2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ACTN SAS(Tournefeuille/Toulouse;RCS Toulouse 344 350 111 SASU;+33 5 62 48 84 88):**官方 MikroTik Master(altostrat 名录 marketing@actn.fr)**;自牌线=ACN 专业天线+Armagnet WiFi 软件+Devolo CPL+视频/Au 品牌代理;2024 起办「Tour de France ACTN」六城路演(Bayonne/Nantes/Aix/Toulouse/Lyon/Paris);谱面=réseau filaire/sans fil/cabling/video surveillance/stockage/protection data/téléphonie | R65 深挖:同名噪声排除后守档准由",
+    "inference": "ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱",
+    "hypothesis": "开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页"
+   },
+   "dimensions": {
+    "背景深描": "ACTN（法国；R65 搜索谱不实净——MICROTIC Cayenne/MIKIT 同名噪声已排除；守档准由）",
+    "芯片与在用型号": "【推断】ACTN 是「有自牌线的法国 Master」——自牌 ACN 天线品牌+Armagnet 软件经验=熟悉 OEM/联合血统;SCS cabling 在谱=job site cabling 套装在主品谱",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:Master+自牌血统+六城路演引擎 / W:自牌 ACN 与我厂 之可能号普 / O:STC-424 自牌之外 value 第 3 线 / T:自牌压制随单接",
+    "Saga产品适配": "法式 Master+自牌血统(OEM 咬合基因）:自牌之外的 value PoE 楼价补位"
+   },
+   "swot_text": "- **S**:Master+自牌血统+六城路演引擎\n- **W**:自牌 ACN 与我厂 之可能号普\n- **O**:STC-424 自牌之外 value 第 3 线\n- **T**:自牌压制随单接",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "ACTN Master Distributors Tournefeuille France marketing@actn.fr",
+     "quote": "ACTN Master Distributors Tournefeuille France marketing@actn.fr",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/france"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, tél",
+     "quote": "Tour de France ACTN…sa gamme d'antennes professionnelles ACN, les logiciels wifi Armagnet…vidéo surveillance, stockage, protection data, téléphonie",
+     "url": "https://www.distributique.com/actualites/lire-tour-de-france-actn-12361.html"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无谱本体净果（Cayenne MICROTIC/Rueil Malmaison MIKIT 同名他人已排除）;R65 守档准由",
+     "quote": "(web_search 2026-10-07：同名他人盲目排除）",
+     "url": "（沙箱核验日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "自牌(ACN/Armagnet）营造能决 PoE 开放位（加 3 线不冲自牌？)",
+    "Tour de France 波段使客层谱(B2B 集成商信谱密度）"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 白牌 OEM 样张+TDF 波段合作提议",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页",
+     "question": "你们 ACTN 谱里,PoE 接层现走哪个 OEM？ACN 桩自牌之外如何评价？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · marketing@actn.fr 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页",
+     "question": "你们 ACTN 谱里,PoE 接层现走哪个 OEM？ACN 桩自牌之外如何评价？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「自牌血统的价值 PoE 第 2 线」:ACN 自牌之下,STC-424 做 value PoE 档接入(自牌之外第 3 线)——armagnet/SCS 兼容 PR 页",
+     "question": "你们 ACTN 谱里,PoE 接层现走哪个 OEM？ACN 桩自牌之外如何评价？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ACTN team,\n\nA Tour de France that pulls integrators through six cities with your own ACN antenna line and Armagnet software on stage - that is private-label DNA rare among French Master distributors.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value PoE stocking tier right beside your own label gear, white-label friendly.\n\nOne question: below the ACN-brand shelf, which PoE access source are your Tour de France integrators standardizing on - and would a documented white-label unit earn a bench test at Tournefeuille?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

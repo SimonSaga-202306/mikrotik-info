@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz)…
+- **是谁**：ABCtech s.r.o.(IČ 27546624/DIČ CZ27546624,Hradec Králové 地区司法登记;2008+ 注册;总部 Piletická 55/36, Hradec Králové 3(…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 东波希米亚小商备养:活跃验证先行；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ABCtech s.r.o.(IČ 27546624/DIČ CZ27546624,Hradec Králové 地区司法登记;2008+ 注册;总部 Piletická 55/36, Hradec Králové 3(制造/分销两翼:库存 Česká Skalice Nerudova 742 发票);品牌谱=MikroTik/Cambium/Ubiquit | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】东波希米亚小型 Reseller;足迹薄 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz)
+- 【事实】ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz) | R65 深挖:捷克 ISP 设备总批发商,MikroTik/Cambium/RFElements 多谱在位=最准年代
 - 【推断】东波希米亚小型 Reseller;足迹薄
 - 【假设】守档备养:活跃验证后按 value 模板激活
 
@@ -79,7 +79,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jan Hofman | Jednatel(董事/总经理) | 经 abctech.cz reklamace@ 索取 | rejstrik.penize.cz + zivefirmy.cz + 官网 O nás 三源实名 | https://rejstrik.penize.cz/27546624-abctech-s-r-o |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -102,11 +104,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ABCtech s.r.o.(Hradec Králové 捷克;abctech.cz;MikroTik Reseller;obchod@abctech.cz)
+- **背景深描**：ABCtech s.r.o.(IČ 27546624/DIČ CZ27546624,Hradec Králové 地区司法登记;2008+ 注册;总部 Piletická 55/36, Hradec Králové 3(制造/分销两翼:库存 Česká Skalice Nerudova 742 发票);品牌谱=MikroTik/Cambium/Ubiquiti/TP-Link/RF elements/Netis/Hikvision——**谱型=无线/ISP 设备总批发商**;Jan Hofman 董事(2011-08 重组后,原 Milan Roztočil 退);Komerční banka CZ0301000001157270380287)**
 - **芯片与在用型号**：【推断】东波希米亚小型 Reseller;足迹薄
-- **关键人KP**：—
+- **关键人KP**：Jan Hofman = Jednatel(董事,2011 至今,继 Milan Roztočil 退位)
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:东波希米亚区位 / W:足迹薄 / O:验活后 value 位 / T:失联
 - **Saga产品适配**：东波希米亚小商备养:活跃验证先行
@@ -116,6 +118,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 官方分销 Reseller;Hradec Králové;obchod@abctech.cz
   > CSV:MikroTik 官方分销 Reseller;Hradec Králové;obchod@abctech.cz
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 商业登记】**IČ 27546624 · Jan Hofman jednatel 2011-08 至今(前 Milan Roztočil 退) · 发票地 Hradec Králové · KB 账号公开
+  > Jednatel: Jan Hofman ABCtech s.r.o. … IČ: 27546624 DIČ: CZ27546624 … Den vzniku funkce: 11. 8. 2011
+  > 来源：https://www.abctech.cz/default.asp?cls=stoitem&stiid=39428
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +152,7 @@ S:东波希米亚区位 / W:足迹薄 / O:验活后 value 位 / T:失联
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/A…
+- **是谁**：ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT)…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — IT 方案商项目谱的 value PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT),非纯硬件分销;11-50 人;大客户谱=HP/Coca Cola;LinkedIn 公司页持有者 Peter Zyumbilev MD) | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg)
+- 【事实】ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线
 - 【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
 - 【假设】开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Peter Zyumbilev | Managing Director | 经官网/LinkedIn 索取 | LinkedIn 公司页自曝 | https://bg.linkedin.com/company/asap-ltd |
+| Nikolai Enev | Regional IT Services Manager | — | LinkedIn 公司页自曝 | 同 LinkedIn |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +113,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg)
+- **背景深描**：ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT),非纯硬件分销;11-50 人;大客户谱=HP/Coca Cola;LinkedIn 公司页持有者 Peter Zyumbilev MD)
 - **芯片与在用型号**：【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
-- **关键人KP**：—
+- **关键人KP**：Peter Zyumbilev = Managing Director;Nikolai Enev = Regional IT Services Manager(IT 服务线口)
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业档零 / O:企业项目 PoE 随单增量 / T:MikroTik 商券锚价深,换牌教育成本
 - **Saga产品适配**：IT 方案商项目谱的 value PoE 管理档
@@ -130,6 +133,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia
   > ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia
   > 来源：https://contactout.com/company/ASAP-Ltd-94248
+- **【R65 LinkedIn 实名】**ASAP Ltd Founded 2007 · HQ Sofia · 11-50 employees · Peter Zyumbilev Managing Director 自曝
+  > ASAP Ltd is founded in 2007 … Peter Zyumbilev's profile … Managing Director, ASAP Ltd
+  > 来源：https://bg.linkedin.com/company/asap-ltd
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -161,7 +167,7 @@ S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨*…
+- **是谁**：hsc solutions e.K.(Am Hang 11, 09337 Hohenstein-Ernstthal OT Wüstenbrand + Solaristurm Neefestraße 88, 09116 C…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroT | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | hsc solutions e.K.(Am Hang 11, 09337 Hohenstein-Ernstthal OT Wüstenbrand + Solaristurm Neefestraße 88, 09116 Chemnitz;HRA 9918 Chemnitz 商业登记;UID DE247626561;**Dipl.-Inf. (FH) Tom Z | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroTik Reseller 谱在其 IT-Infrastruktur 项目内
+- 【事实】hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroTik Reseller 谱在其 IT-Infrastruktur 项目内 | R65 深挖:e.K. 独营商;IT 服务+硬件双轨
 - 【推断】中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点
 - 【假设】开口角度=「集成商项目随单 PoE 接入位」:STC-424 做其 IT 基础设施项目的 24 口 PoE 随单位,具名 Tom 开口
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- hsc solutions e.K.(Am Hang 11, 09337 Hohenstein-Ernstthal OT Wüstenbrand + Solaristurm Neefestraße 88, 09116 Chemnitz;HRA 9918 Chemnitz 商业登记;UID DE247626561;**Dipl.-Inf. (FH) Tom Zschockelt = Inhaber(业主,自营个体)**;Rebekka Shepherd 同在 Impressum/Samuel Zschockelt 关联;「Hardware+Software+Consulting」型服务,ERP/Warenwirtschaft 定制开发 +Rual 硬件+Chemnitz 技术圈;11-50 员工 Xing 口径
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Tom Zschockelt | Inhaber(业主,Dipl.-Inf. FH) | hsc-solutions.de 联系页 | impressum + xing 双源实名 | https://hsc-solutions.de/impressum-hsc-solutions/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
 
-- **背景深描**：hsc solutions(Chemnitz Neefestraße 88 09116;2005 创,11-50 人,e.K. 个人商号;Inhaber **Tom Zschockelt** 具名):**软件+集成双轨**——DMS/ERP/IT 基础设施/IT-Consulting,兼 condition monitoring(机械状态监控);MikroTik Reseller 谱在其 IT-Infrastruktur 项目内
+- **背景深描**：hsc solutions e.K.(Am Hang 11, 09337 Hohenstein-Ernstthal OT Wüstenbrand + Solaristurm Neefestraße 88, 09116 Chemnitz;HRA 9918 Chemnitz 商业登记;UID DE247626561;**Dipl.-Inf. (FH) Tom Zschockelt = Inhaber(业主,自营个体)**;Rebekka Shepherd 同在 Impressum/Samuel Zschockelt 关联;「Hardware+Software+Consulting」型服务,ERP/Warenwirtschaft 定制开发 +Rual 硬件+Chemnitz 技术圈;11-50 员工 Xing 口径
 - **芯片与在用型号**：【推断】中型 IT 服务+软件商,MikroTik 是其项目组件而非货架主业;owner 具名、决策链短;condition monitoring 业务带工业现场触点
-- **关键人KP**：—
+- **关键人KP**：Tom Zschockelt = Inhaber(业主,自营个体;Impressum/Xing 双源);Rebekka Shepherd 关联签名人
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:20 年老店+owner 决策快+项目随单 / W:软件主业,硬件谱浅 / O:项目随单 PoE 接入位 / T:项目型采购不稳定
 - **Saga产品适配**：软件+集成商的项目随单 PoE 接入位(决策链短,具名开口)
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises
   > IT health checks, condition monitoring for machinery, ERP systems…serves small to medium-sized enterprises
   > 来源：https://www.cbinsights.com/company/hsc-solutions
+- **【R65 实名/登记】**Tom Zschockelt e.K. 独营;HRA 9918 Chemnitz;Chemnitz Neefestraße 88 实体店
+  > Vertreten durch: Dipl.-Inf. (FH) Tom Zschockelt … Handelsregister: HRA 9918 Registergericht: Amtsgericht Chemnitz
+  > 来源：https://hsc-solutions.de/impressum-hsc-solutions/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:20 年老店+owner 决策快+项目随单 / W:软件主业,硬件谱浅 / O:�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

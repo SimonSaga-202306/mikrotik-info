@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 Mikro…
+- **是谁**：Öruggt Net ehf(dba Secure Net;Köllunarklettsvegur 1, 104 Reykjavik(旧 Kristínargata 1 102);KT 670224-0740,VSK 1…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 2024 新创安全咨询+培训谱:教具样本为最白开口(『唯一 Master』名头下实为咨询店,守其成长)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FC | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Öruggt Net ehf(dba Secure Net;Köllunarklettsvegur 1, 104 Reykjavik(旧 Kristínargata 1 102);KT 670224-0740,VSK 152122;**谱型核正:网络安全咨询/服务公司(不是纯分销)**——cybersecurity for Icelandic compani | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FCF/FCA+MTCNA/MTCRE/MTCINE/MTCWE/MTCTCE 5 证,西雅图同步法人;服务=安全咨询/审计/培训+网络培训+Druva/1Password 软件**
+- 【事实】Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FCF/FCA+MTCNA/MTCRE/MTCINE/MTCWE/MTCTCE 5 证,西雅图同步法人;服务=安全咨询/审计/培训+网络培训+Druva/1Password 软件** | R65 深挖:谱型核正:安全咨询非纯分销,MikroTik 谱挂服务线
 - 【推断】「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线
 - 【假设】开口角度=「新创安全咨询+培训谱的教具样本位」:STC-28DGGPM 做其网络培训 PoE 段教具(冰岛唯一名头下,教具是最白开口);守档观察其成长
 
@@ -110,11 +110,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Öruggt Net ehf dba Secure Net(Reykjavik Kristínargata 1 Gróska 孵化器;**2024-02-21 新注册,小微安全咨询**:**判型校正『冰岛唯一 MikroTik 认可分销』名头下实为一人/几人安全咨询店**——创始人 ISO 27001 Lead Auditor+CEH+Fortinet FCF/FCA+MTCNA/MTCRE/MTCINE/MTCWE/MTCTCE 5 证,西雅图同步法人;服务=安全咨询/审计/培训+网络培训+Druva/1Password 软件**
+- **背景深描**：Öruggt Net ehf(dba Secure Net;Köllunarklettsvegur 1, 104 Reykjavik(旧 Kristínargata 1 102);KT 670224-0740,VSK 152122;**谱型核正:网络安全咨询/服务公司(不是纯分销)**——cybersecurity for Icelandic companies,info@oruggtnet.is,+354-551-5120;双址搬迁
 - **芯片与在用型号**：【推断】「唯一 Master」名头要打折:2024 新创咨询店,冰岛 37 万人市场极小;其真实谱=安全咨询+培训,MikroTik 分销是顺手线
-- **关键人KP**：—
+- **关键人KP**：—(冰岛 ehf 董事实名待 rsk.is 登记检索;谱型位置在全岛 SME 安全合规方)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:冰岛唯一 Master 名头+5 证创始人+美冰双法人 / W:2024 新创,量级极小 / O:教具样本+冰岛政企咨询随单 / T:小岛市场天花板
 - **Saga产品适配**：2024 新创安全咨询+培训谱:教具样本为最白开口(『唯一 Master』名头下实为咨询店,守其成长)
@@ -129,6 +129,9 @@ updated: 2026-10-07
   > 来源：https://www.cbinsights.com/company/mikroTik(冰岛语引述)
 - **【R57备护深挖证据】**Cybersecurity consultation, Network Services, Cybersecurity Training, Network Training, Software Price List
   > Cybersecurity consultation, Network Services, Cybersecurity Training, Network Training, Software Price List
+  > 来源：https://securenet.is/
+- **【R65 谱型+登记】**Cybersecurity consultancy;KT 670224-0740;双址 104/102 Reykjavik;函 boxinfo@oruggtnet.is
+  > We are Öruggt Net ehf, or Secure Net in English … Cybersecurity for Icelandic companies … KT: 670224-0740 VSK: 152122
   > 来源：https://securenet.is/
 
 ## 产品决策（Saga · 单一决策口径）

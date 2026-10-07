@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C…
+- **是谁**：ПС ЛАЙФ ООД(PCLife Ltd;Plovdiv Trakiq bl.49 ent.G fl.5;EIK 200453223,2005/2008 注册口径差异;16 员工;**refurbished/二手计算…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 二手整机批发电商的网络谱 value 补位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ПС ЛАЙФ ООД(PCLife Ltd;Plovdiv Trakiq bl.49 ent.G fl.5;EIK 200453223,2005/2008 注册口径差异;16 员工;**refurbished/二手计算机设备 bulk 贸易**——买入卖出 refurbished computer hardware in Large Quantity;Sv | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名)
+- 【事实】PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名) | R65 深挖:谱型核正:refurbished 大批发=MikroTik 谱只是随单店架
 - 【推断】二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺
 - 【假设】开口角度=「SME 批量交付谱的 value PoE 档」:STC-424 随整机批量单搭售,低门槛试单
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- ПС ЛАЙФ ООД(PCLife Ltd;Plovdiv Trakiq bl.49 ent.G fl.5;EIK 200453223,2005/2008 注册口径差异;16 员工;**refurbished/二手计算机设备 bulk 贸易**——买入卖出 refurbished computer hardware in Large Quantity;Svetoslav Slavchev = Founder & CEO(yourstory 载);Plovdiv+Stara Zagora 双点)
 
 ## 联系方式（已有/猜测分标）
 
@@ -80,7 +80,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Svetoslav Slavchev | Founder & CEO | 经 pclife.bg 联系页/+359 32 624 895 索取 | yourstory 登记画像具名 | https://yourstory.com/companies/pclife |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -110,11 +112,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
 
-- **背景深描**：PCLife Ltd / ПС ЛАЙФ ООД(Plovdiv 仓+Stara Zagora 点;2008 创;**二手品牌整机批发进口商**:Dell/HP/Lenovo/Fujitsu/EIZO 等,B2B+B2C 电商,全保 24h 免配+14 天退+6 个月保;11-50 人;MikroTik 认证 Reseller 挂名)
+- **背景深描**：ПС ЛАЙФ ООД(PCLife Ltd;Plovdiv Trakiq bl.49 ent.G fl.5;EIK 200453223,2005/2008 注册口径差异;16 员工;**refurbished/二手计算机设备 bulk 贸易**——买入卖出 refurbished computer hardware in Large Quantity;Svetoslav Slavchev = Founder & CEO(yourstory 载);Plovdiv+Stara Zagora 双点)
 - **芯片与在用型号**：【推断】二手 IT 批发为基座、MikroTik 弱谱:企业批量装机/机房翻新里有网络伴随采购,但交换机专业谱缺
-- **关键人KP**：—
+- **关键人KP**：Svetoslav Slavchev = Founder & CEO
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:活跃电商+批量 B2B 客层 / W:网通谱边缘,二手主导 / O:批量装机单 PoE 搭售 / T:价格敏感,网通溢价空间薄
 - **Saga产品适配**：二手整机批发电商的网络谱 value 补位
@@ -127,6 +129,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million
   > PCLife Ltd … Consumer Services … 11-50 Employees … Revenue <$5 Million
   > 来源：https://www.zoominfo.com/c/pclife-ltd/457922169
+- **【R65 谱型核正】**PCLife=二手/refurbished 计算机设备大批发,16 员工,2005 创;不是标准 MikroTik 新品分销(谱位需重评)
+  > We buy and sell refurbished Computer Hardware in Large Quantity … 16 employees … Registered 2008
+  > 来源：https://www.jobs.bg/en/company/pclife
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -158,7 +163,7 @@ S:活跃电商+批量 B2B 客层 / W:网通谱边缘,二手主导 / O:批量装�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

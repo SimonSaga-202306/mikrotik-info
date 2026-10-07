@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+St…
+- **是谁**：AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kol…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonik | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kolibřík klub invest a.s. + DC Europe system a.s. 双 Jednatel 法人在位（2021-06 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料
+- 【事实】AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料 | R65 深挖:法人家长轴型实体（DC Europe 集团属）;plzen 谱位
 - 【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示
 - 【假设】开口角度=「光伏/弱电安装商谱的 PoE 随单位」:STC-424 以其网络安装商 value 档入(Cudy/Alta 之上补 24 口管理型),NOTE 留配电柜类目 STI 二线
 
@@ -111,11 +111,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第21批.json`；价格均为 EXW 快照。
 
-- **背景深描**：AxiLogi s.r.o.(Pilsen(+Brno Holzova 点);altostrat Master 名录在册,**谱系独特:DEYE(光伏逆变器)+Olife Energy+Felicity(能源存储)+Stromberg(配电)+MikroTik+Ubiquiti+TP-Link+Cudy+Alta Labs+Conexpro+Teltonika+Vami**;类目=Fotovoltaika(光伏)/Bezdráty/LAN/Optické/Napájení(电源)/Bezpečnostní/Rozvaděče(配电柜)/IoT/安装材料
+- **背景深描**：AxiLogi s.r.o.(IČO 10964703, Daimlerova 1161/6, 301 00 Plzeň-Skvrňany, Czech Republic;2021-06-23 创；**法人体制谱：Kolibřík klub invest a.s. + DC Europe system a.s. 双 Jednatel 法人在位（2021-06-23 起至今）——谱为法人家长轴**;sales@axilogi.cz + servis@axilogi.cz +420 371 420 573
 - **芯片与在用型号**：【推断】「光伏+弱电网络」双驱分销:安装商客层横跨能源与网络两大弱电场景;Cudy/Alta Labs/Conexpro 等中价网络牌已在架=价值档竞争者在谱;配电柜类目=DIN 轨环境暗示
-- **关键人KP**：—
+- **关键人KP**：Kolibřík klub invest a.s. + DC Europe system a.s. 双法人 Jednatel(sales/servis 函数口已足）
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:光伏+弱电双驱+Master 名录 / W:中价牌已在架(Cudy/Alta) / O:安装商随单 24 口管理型位 / T:Cudy 低价惯性
 - **Saga产品适配**：光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)
@@ -128,6 +128,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**AxiLogi Master Distributors Pilsen sales@axilogi.cz
   > AxiLogi Master Distributors Pilsen sales@axilogi.cz
   > 来源：https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
+- **【R65 登记/联动】**AxiLogi s.r.o. IČO 10964703 · Plzeň Daimlerova 1161/6 · 双法人 Jednatel（法人家长轴）· sales/servis 函数口
+  > Jednatel: Kolibřík klub invest a. s. Den vzniku funkce: 23. 6. 2021 … Jednatel: DC Europe system a.s. Den vzniku funkce: 23. 6. 2021 … AxiLogi s.r.o. IČO: 10964703 DIČ: CZ10964703 Daimlerova 1161/6, 301 00 Plzeň
+  > 来源：https://axilogi.com/kontakty_d1502.html
 
 ## 产品决策（Saga · 单一决策口径）
 

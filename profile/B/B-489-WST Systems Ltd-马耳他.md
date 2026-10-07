@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计…
+- **是谁**：WST Systems Ltd.(Birkirkara, Malta(core 大街）;**Neville Zahra = Owner（业主）**;Richard Irabor IT Technician(Mellieh…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 判型校正:IT 服务商备养,按顾问/集成商模板激活；—（合作探询，无量产报价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/ | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | WST Systems Ltd.(Birkirkara, Malta(core 大街）;**Neville Zahra = Owner（业主）**;Richard Irabor IT Technician(Mellieha)+Giuseppe di Falco Support Technician IT(意大利谱）+Claudio Stagno Salesp | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com)
+- 【事实】WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com) | R65 深挖:马耳他实体；Neville Zahra 业主谱
 - 【推断】**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带
 - 【假设】开口角度=「服务商备养:设计/采购一体的项目自选件」:先验活跃,激活后按顾问/集成商模板出信
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- WST Systems Ltd.(Birkirkara, Malta(core 大街）;**Neville Zahra = Owner（业主）**;Richard Irabor IT Technician(Mellieha)+Giuseppe di Falco Support Technician IT(意大利谱）+Claudio Stagno Salesperson(2025 新聘）;4 员工
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,7 +79,9 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Neville Zahra | Owner（业主） | 经 wstsystems.com | rocketreach 自曝 | https://rocketreach.co/wst-systems-ltd-management_b71953b5c480316d |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -102,11 +104,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 21 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第21批.json`；价格均为 EXW 快照。
 
-- **背景深描**：WST Systems Ltd(Warp Speed Technology,Triq Kalcidon Gatt Birkirkara;**1998 年起马耳他 IT 支持商**:IT 咨询/灾难恢复/威胁管理/网络审计/技术支持/软硬件采购(Software And Hardware Sourcing)/LAN/WAN/Wi-Fi 设计/布线/服务器存储/云/电话;nz@wstsystems.com)
+- **背景深描**：WST Systems Ltd.(Birkirkara, Malta(core 大街）;**Neville Zahra = Owner（业主）**;Richard Irabor IT Technician(Mellieha)+Giuseppe di Falco Support Technician IT(意大利谱）+Claudio Stagno Salesperson(2025 新聘）;4 员工
 - **芯片与在用型号**：【推断】**判型校正:CSV 判「分销」**,实为 28年 IT 服务商,网络设计+采购随服务项目,Telephony 谱=话机 PoE 场景顺带
-- **关键人KP**：—
+- **关键人KP**：Neville Zahra = Owner;Claudio Stagno = Salesperson(2025 新任）
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:28 年老号稳定 / W:非分销,体量小 / O:LAN/Wi-Fi/电话项目 PoE 自选件 / T:单量不支持分销形态
 - **Saga产品适配**：判型校正:IT 服务商备养,按顾问/集成商模板激活
@@ -116,6 +118,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardw
   > As a leading IT support company, we have been providing comprehensive IT services to businesses of all sizes since 1998 … Software And Hardware Sourcing … LAN/WAN/Wi-Fi Design … Telephony
   > 来源：https://www.wstsystems.com/
+- **【R65 实名】**WST Systems Malta · Neville Zahra Owner · 4 员工（Richard Irabor + Giuseppe di Falco + Claudio Stagno 2025 sales 新聘）
+  > the WST Systems Ltd. management team includes Neville Zahra (Owner), Richard Irabor (IT Technician), and Giuseppe di Falco (Support Technician IT) … Claudio Stagno Salesperson at WST Systems Ltd. 2025 - now
+  > 来源：https://rocketreach.co/wst-systems-ltd-management_b71953b5c480316d
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +152,7 @@ S:28 年老号稳定 / W:非分销,体量小 / O:LAN/Wi-Fi/电话项目 PoE 自�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

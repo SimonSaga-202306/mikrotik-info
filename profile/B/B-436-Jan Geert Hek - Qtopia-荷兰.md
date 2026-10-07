@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域)…
+- **是谁**：Qtopia(Kolstee 5, 7021 NZ Zelhem, Achterhoek 乡村区;2013 创立,双创始董事 Dennis van Elk + Jan Geert Hek;40 粉丝 LinkedIn;M…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 乡村 IT 顾问备养:具名通道,项目信号再激活；—（合作探询，无量产报价）
@@ -44,14 +44,14 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Qtopia(Kolstee 5, 7021 NZ Zelhem, Achterhoek 乡村区;2013 创立,双创始董事 Dennis van Elk + Jan Geert Hek;40 粉丝 LinkedIn;Microsoft Gold Partner;CEH/CNDA/TOGAF 证书;安全+软件开发+架构+顾问,服务教育与 SME;088-71 | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域)
+- 【事实】Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域) | R64 并入:Dennis van Elk + Jan Geert Hek = 双创始董事(2013);Hek 15 年大规模防火墙系
 - 【推断】荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱
 - 【假设】守档备养:具名引见;其乡村谱里农企/仓库监控 PoE 场景待摸
 
@@ -104,11 +104,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Jan Geert Hek - Qtopia(Heelweg(Achterhoek 乡村区);qtopia.nl;MTCNA+MTCRE;j.g.hek@qtopia.nl 具名公司域)
+- **背景深描**：Qtopia(Kolstee 5, 7021 NZ Zelhem, Achterhoek 乡村区;2013 创立,双创始董事 Dennis van Elk + Jan Geert Hek;40 粉丝 LinkedIn;Microsoft Gold Partner;CEH/CNDA/TOGAF 证书;安全+软件开发+架构+顾问,服务教育与 SME;088-7110500,info@qtopia.nl;R57 具名 j.g.hek@qtopia.nl 公司域)
 - **芯片与在用型号**：【推断】荷兰东部乡村区 IT 顾问小实体;乡村 SME/农业圈谱
-- **关键人KP**：—
+- **关键人KP**：Dennis van Elk + Jan Geert Hek = 双创始董事(2013);Hek 15 年大规模防火墙系经验/SEI 认证架构师/Ethical Hacker
 - **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE 
 - **优缺点SWOT**：S:具名公司域 / W:公开谱薄/乡村量级 / O:农企监控 PoE 随单 / T:失联
 - **Saga产品适配**：乡村 IT 顾问备养:具名通道,项目信号再激活
@@ -118,6 +118,12 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE;qtopia.nl 公司域
   > CSV:MikroTik 认证顾问 MTCNA+MTCRE;qtopia.nl 公司域
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R64 双创始】**Dennis van Elk + Jan Geert Hek 2013 创立,directeuren van Qtopia 官网口径
+  > Qtopia is gestart in 2013 door Dennis van Elk en Jan Geert Hek … Dennis van Elk en Jan Geert Hek, directeuren van Qtopia … T: 088-7110500 E: info@qtopia.nl
+  > 来源：https://www.oostgelderlandbusiness.nl/magazine/artikel/328/9632/qtopia:-kennis-is-een-krachtig-wapen
+- **【R64 证书谱】**Microsoft Gold Partner + Certified Ethical Hacker + CNDA + TOGAF 全谱认证(安全主攻)
+  > beschikt Qtopia over certificeringen waaronder Certified Ethical Hacker, Certified Network Defence Architect en TOGAF. Tevens is Qtopia Microsoft Gold Partner
+  > 来源：https://nl.linkedin.com/company/qtopia
 
 ## 产品决策（Saga · 单一决策口径）
 

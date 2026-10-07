@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.globa…
+- **是谁**：PRIDE SYSTEM SRL(Chisinau, +373 60 844-266, office@pride.md;**谱型:摩尔多瓦 IT&C 品牌总代大团**——Microsoft/Cisco/MikroTik/…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 全谱电商 VAD 的商用 PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | PRIDE SYSTEM SRL(Chisinau, +373 60 844-266, office@pride.md;**谱型:摩尔多瓦 IT&C 品牌总代大团**——Microsoft/Cisco/MikroTik/Dell 等 leading suppliers B2B 门户;pride.md 是其官方 e-commerce 平台(B2B 为主);Ch | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】企业服务集团+全谱电商双线:MikroTik 谱系统上架(分销价明示),项目侧为集团服务输出,供应链成熟 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md)
+- 【事实】PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md) | R65 深挖:摩多瓦 IT&C 大国总代=MikroTik 谱与 Cisco/Dell 共位
 - 【推断】企业服务集团+全谱电商双线:MikroTik 谱系统上架(分销价明示),项目侧为集团服务输出,供应链成熟
 - 【假设】开口角度=「全谱电商 VAD 的商用 PoE 管理档」:STC-424 随 MikroTik 商券谱流动开口
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -109,11 +109,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 6 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第6批.json`；价格均为 EXW 快照。
 
-- **背景深描**：PRIDE(pride.md 电商:**全谱 MikroTik 以分销价在售**,hEX S $92.44/CRS354-48P 等,SKU 编号+库存数体系化;**母集团 PRIDE GROUP(pride.global)企业服务:IT 咨询/数字化转型/外包/开发**;Chișinău;sales@pride.md)
+- **背景深描**：PRIDE SYSTEM SRL(Chisinau, +373 60 844-266, office@pride.md;**谱型:摩尔多瓦 IT&C 品牌总代大团**——Microsoft/Cisco/MikroTik/Dell 等 leading suppliers B2B 门户;pride.md 是其官方 e-commerce 平台(B2B 为主);Chișinău Studentilor 7/10 门店
 - **芯片与在用型号**：【推断】企业服务集团+全谱电商双线:MikroTik 谱系统上架(分销价明示),项目侧为集团服务输出,供应链成熟
-- **关键人KP**：—
+- **关键人KP**：—(SRL PRIDE SYSTEM 董事实名待 e-gap/registru.md 检索)
 - **关注点与资质**：MikroTik（Master+VAD） 
 - **优缺点SWOT**：S:全谱上架体系+集团服务背书 / W:MikroTik 单牌深绑 / O:商用 PoE 随单+集团项目侧 / T:摩国市场小
 - **Saga产品适配**：全谱电商 VAD 的商用 PoE 管理档
@@ -123,6 +123,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**Router Mikrotik hEX S … la pret de distribuitor … PRIDE GROUP … www.pride.global IT Consulting Digital Transformation Outsourcing Services
   > Router Mikrotik hEX S … la pret de distribuitor … PRIDE GROUP … www.pride.global IT Consulting Digital Transformation Outsourcing Services
   > 来源：https://www.pride.md/retelistica-ro/routere-ro/rb760igs_ro
+- **【R65 谱位】**摩尔多瓦 IT&C 品牌总代:Microsoft/Cisco/MikroTik/Dell 全文安置;B2B 平台 pride.md
+  > B2B platform for IT&C solutions … PRIDE SYSTEM … Microsoft, Cisco, MikroTik, Dell … office@pride.md +373 (60) 844-266
+  > 来源：https://e-catalog.md/ro/stores/pride
 
 ## 产品决策（Saga · 单一决策口径）
 

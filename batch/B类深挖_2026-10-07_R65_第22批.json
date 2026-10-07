@@ -1,0 +1,422 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 22 批（克/芬兰/斯洛伐克/格鲁吉亚/保加利亚）",
+ "scope": "B-201 PCV / B-520 TECON / B-398 LocalNet / B-215 Alfac / B-222 Intellcom / B-043 Georgi Vasilev",
+ "records": [
+  {
+   "code": "B-201",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "PCV Computers, s.r.o.(České Budějovice(**Praha Klimentská 46 关联点**);Master+VAD 名录在册;**altostrat 名录同页显示其关联 i4wifi a.s. logo——i4wifi 为捷克知名 WISP/无线专精分销商族**;推测同族双牌) | R65 深挖:České Budějovice 电商实体谱位",
+    "inference": "若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位",
+    "hypothesis": "开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联"
+   },
+   "dimensions": {
+    "背景深描": "PCV Computers, s.r.o.(Za Otýlií 2874/6, 370 01 České Budějovice（捷克布杰约维采）;+420 380 420 700;谱型=电商+实体店 PC/IT 整机配件谱（Heureka 认证 2017 起）——次日达老客谱",
+    "芯片与在用型号": "【推断】若确与 i4wifi 同族:WISP/无线专精谱=户外 AP/天线/无线回程厚,PoE 户外与节点场景强;即便非同族,Master+VAD 级在位",
+    "关键人KP": "—(s.r.o. jednatel OR České Budějovice 收费墙；R65 谱位+地址件已足）",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:Master+VAD+疑 i4wifi WISP 谱 / W:关联未证 / O:WISP 客层 PoE 随单 / T:非同族则价值减半",
+    "Saga产品适配": "Master+VAD(疑 i4wifi WISP 同族)的无线安装商 PoE 随单位"
+   },
+   "swot_text": "- **S**:Master+VAD+疑 i4wifi WISP 谱\n- **W**:关联未证\n- **O**:WISP 客层 PoE 随单\n- **T**:非同族则价值减半",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "i4wifi a.s. logo ### PCV Computers, s.r.o. Master Distributor Value Added Distributor Ceske Budejovice obchod@pcvcomp.cz",
+     "quote": "i4wifi a.s. logo ### PCV Computers, s.r.o. Master Distributor Value Added Distributor Ceske Budejovice obchod@pcvcomp.cz",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/czech-republic/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha",
+     "quote": "PCV Computers, s.r.o. Klimentská 1216/46 110 00 Praha",
+     "url": "https://www.drzacky.cz/en/where-to-buy/"
+    },
+    {
+     "dim": "R65 谱/地址",
+     "text": "PCV Computers · Č. Budějovice Za Otýlií 2874/6 · +420 380 420 700 · pcvcomp.cz 电商实体 + Heureka 认证",
+     "quote": "PCV Computers, s.r.o. Za Otýlií 2874/6 České Budějovice, 37001 Tel.: +420 380 420 700 Web: www.pcvcomp.cz",
+     "url": "https://obchody.heureka.cz/pcvcomp-cz/recenze/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "PCV 与 i4wifi 股权/同族关系验证",
+    "其无线安装客层 PoE 档现供"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · WISP 客层 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联",
+     "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · obchod@pcvcomp.cz 开口(附 i4wifi 关联确认)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联",
+     "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP/无线专精谱的 PoE 随单位」:STC-424 以其无线安装商客层的站点/机房 PoE 档开口;先验证 i4wifi 关联",
+     "question": "你们的无线/WISP 安装商客户,站点与机房 PoE 交换现随哪家?(另确认:与 i4wifi 是同族吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi PCV team,\n\nMaster distributor with a wireless/WISP flavor - your installers climb poles and build node cabinets, and every one of those sites needs dependable PoE switching behind the radios.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your wireless installer shelf, white-label friendly.\n\nOne question: for your WISP and wireless installer customers, which PoE switch stocks their sites and cabinets today - and is there a value slot for a documented unit?\n\n(Also: should we address this to the i4wifi family as well, or are you the right desk?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-520",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "TECON s.r.o.(捷克;tecon.cz;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/objednavky@/faktury@/support@ 组织化) | R65 深挖:TECON CZ 实体映射主候选；Hlavizna 实名上位",
+    "inference": "ORing 授权工业分销(捷克),四部组织化在营",
+    "hypothesis": "开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)"
+   },
+   "dimensions": {
+    "背景深描": "TECON CZ s.r.o.(Chotyně,Wassermannova 1043/7 布拉格分社;IČ 25447424;**Ing. Pavel Hlavizna = jednatel(zivefirmy 实名）**;482 723 373/603 563 521,info@teconcz.cz;teconcz.cz",
+    "芯片与在用型号": "【推断】ORing 授权工业分销(捷克),四部组织化在营",
+    "关键人KP": "Ing. Pavel Hlavizna = jednatel(TECON CZ)",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:ORing 授权+组织化 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他",
+    "Saga产品适配": "捷克 ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)"
+   },
+   "swot_text": "- **S**:ORing 授权+组织化\n- **W**:足迹薄\n- **O**:value DIN 轨二源\n- **T**:ORing 排他",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz",
+     "quote": "R49 复核:官网 /kontakt/ 正文可见 info@/objednavky@/faktury@/support@tecon.cz",
+     "url": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-520"
+    },
+    {
+     "dim": "R65 实体映射",
+     "text": "B-520 TECON = TECON CZ s.r.o. Chotyně（次项：TECON s.r.o. Ústí nad Labem IČ 60277157 Ing. Josef Kinovič / TECON spol. Hostinné IČ 60932091 同名他人已排除）",
+     "quote": "Ing. Pavel Hlavizna - jednatel … TECON CZ s.r.o. IČ 25447424 DIČ CZ25447424 … Wassermannova 1043/7, Hlubočepy, Praha",
+     "url": "https://www.zivefirmy.cz/tecon-cz_f1147224"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ing. Pavel Hlavizna",
+     "role": "Jednatel（董事）",
+     "contact": "info@teconcz.cz / 482 723 373",
+     "status": "zivefirmy.cz 实名",
+     "source": "https://www.zivefirmy.cz/tecon-cz_f1147224"
+    }
+   ],
+   "unknowns56": [
+    "ORing 在架深与客层",
+    "value 二源开放度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · ORing 对位页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@tecon.cz 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 谱旁 DIN 轨 value 二源」(台厂渠道话术模板,同 B-528)",
+     "question": "你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi TECON team,\n\nAn organized four-mailbox operation carrying ORing industrial switching in Czechia - you know the price points where projects walk away from premium rail-mount switches.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Czech documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.\n\nOne question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-398",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "LocalNet Finland(Espoo;localnet.fi;MikroTik Master;公开足迹薄,Master 级位存在) | R65 深挖:芬兰 20+年 ISP;Koivulehto Founder/CEO 实体",
+    "inference": "芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型",
+    "hypothesis": "开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深"
+   },
+   "dimensions": {
+    "背景深描": "LocalNet Finland / Local Loop Oy(Espoo;20+ 年互联运营商——**Leo Koivulehto = toimitusjohtaja & Founder（创始人/CEO)**;谱型=芬兰全国企业/住宅光纤谱（valokuitu），2025-01 营收近 €2M/2026-01 预算 €3M+；小职业增长潜力口；Mottomme timanttista asiakaspalvelua(「超值减价谱」)",
+    "芯片与在用型号": "【推断】芬兰 Master 级分销(与 Nextron FI/ otros 并存);足迹薄=低调 Nordic B2B 型",
+    "关键人KP": "Leo Koivulehto = Founder & Toimitusjohtaja",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:Master 级位 / W:足迹薄,谱未摸 / O:value PoE 档 / T:谱重叠 MikroTik 自家交换",
+    "Saga产品适配": "芬兰 Master 的 value PoE 档试探(先验架深与活跃度)"
+   },
+   "swot_text": "- **S**:Master 级位\n- **W**:足迹薄,谱未摸\n- **O**:value PoE 档\n- **T**:谱重叠 MikroTik 自家交换",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 官方分销 Master;Espoo;myynti@localnet.fi",
+     "quote": "CSV:MikroTik 官方分销 Master;Espoo;myynti@localnet.fi",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 谱/实名",
+     "text": "LocalNet Finland(Local Loop Oy)Espoo 20+ 年 ISP;Leo Koivulehto Founder CEO;€2M-3M 量级光纤谱",
+     "quote": "LocalNet Finland (virallisesti Local Loop Oy) on jo yli 20 vuotta vanha internetoperaattori … Lisätietoja antaa toimitusjohtaja Leo Koivulehto … Vuoden 2025 liikevaihto lähenee 2 miljoonaa euroa",
+     "url": "https://tyopaikkailmoitukset.fi/tekninen-asiakaspalvelija-localnet-finland-tyopaikat/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Leo Koivulehto",
+     "role": "Toimitusjohtaja & Founder",
+     "contact": "0400 555 011 / linkedin.com/in/leokoivulehto",
+     "status": "tyopaikkailmoitukset.fi + LinkedIn + X 三源",
+     "source": "https://tyopaikkailmoitukset.fi/tekninen-asiakaspalvelija-localnet-finland-tyopaikat/"
+    }
+   ],
+   "unknowns56": [
+    "在架品牌谱与 PoE 档现供",
+    "活跃经营规模"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · value 档试探页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · myynti@localnet.fi 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「芬兰 Master 的 value PoE 档补位」:STC-424 以其 SME/ISP 客层 value 位开口,先验其架深",
+     "question": "你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi LocalNet team,\n\nA MikroTik Master in Espoo serving Finnish integrators and ISPs - the value PoE tier is usually the quietest slot in a Nordic catalog.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, documented for bench testing.\n\nOne question: on your shelf, which 24-port managed PoE switch holds the value tier today - and would a documented unit earn a listing test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-215",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Michal Petkáč - Alfac(Bratislava 斯洛伐克;alfac.sk 公司域;MTCNA+MTCRE;具名) | R65 深挖:Alfa Centauri Bratislava 网络托管谱",
+    "inference": "布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位)",
+    "hypothesis": "守档备养:具名引见"
+   },
+   "dimensions": {
+    "背景深描": "Alfa Centauri spol. s r.o.(Pri strelnici 3, 821 04 Bratislava,Slovakia;IČO 35 862 301, DIČ 2020290426;Vložka 29289/B;**谱型=网络/服务器管理外包+咨询+软件硬件审计+布线实体**;alfac@alfac.sk / 02 4342 7175;CSV 谱主位 Michal Petkáč = 顾问（R65 与 Alfa Centauri 实体联动口径）",
+    "芯片与在用型号": "【推断】布拉迪斯拉发公司域顾问(与 WESTech 同城,信息互证位)",
+    "关键人KP": "Michal Petkáč = 顾问（CSV 谱主位；Alfa Centauri 实体谱联动）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:公司域+具名+首都市 / W:足迹薄 / O:布拉迪斯拉发 SME 随单 / T:失联",
+    "Saga产品适配": "布拉迪斯拉发顾问备养:具名通道"
+   },
+   "swot_text": "- **S**:公司域+具名+首都市\n- **W**:足迹薄\n- **O**:布拉迪斯拉发 SME 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;alfac.sk 公司域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;alfac.sk 公司域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 实体映射",
+     "text": "Alfac = Alfa Centauri spol. s r.o. Bratislava Pri strelnici 3 IČO 35862301；网络托管/咨询/审计谱",
+     "quote": "Alfa Centauri spol. s.r.o. Pri strelnici 3, 821 04 Bratislava IČO: 35 862 301 … Správa sietí a serverov, outsourcing, poradenstvo, softvérový a hardvérový audit, realizácia kabeláže siete … alfac@alfac.sk",
+     "url": "https://www.alfac.sk/kontakt"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Michal Petkáč",
+     "role": "顾问/谱主位（Alfa Centauri 联口）",
+     "contact": "alfac@alfac.sk / 02 4342 7175",
+     "status": "CSV 谱 + alfac.sk 官网自曝",
+     "source": "https://www.alfac.sk/kontakt"
+    }
+   ],
+   "unknowns56": [
+    "Alfac 业务面与谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见",
+     "question": "你在布拉迪斯拉发做项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见",
+     "question": "你在布拉迪斯拉发做项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-222",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Intellcom Group Ltd(Tbilisi Gagarini 4-4a;2008 创 11-50 人;**Ubiquiti 官方分销(ui.com 目录具名)**+MikroTik Master+VAD;**Yealink/Yeastar 话机谱**+Uniview 监控+Sumitomo/ZTT 光纤+KSTAR/Leoch 电源+LANDE 机柜+Synology;sale@intellcom.net) | R65 深挖:格鲁吉亚 IT 大院谱；Mekvabishvili MD 实名",
+    "inference": "通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层",
+    "hypothesis": "开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力"
+   },
+   "dimensions": {
+    "背景深描": "LTD \"Intellcom Group\"(42 Tereverko St., Tbilisi 0159（展厅/服务）/ 5 Shalva Gogidze St.(仓储）, Georgia;+995 32 298 9849, sale@intellcom.net;**Lali Mekvabishvili = Managing Director(DnB 实名）**;谱型=格鲁吉亚 IT/安防/太阳能/光 大谱批发——MikroTik/Ubiquiti/Uniview/KSTAR/Leoch/Fortinet/Sumitomo/DRAKA/ZTT/Mirsan 等多品牌谱开 + 自建太阳能 UPS WiFi 设计服务谱位",
+    "芯片与在用型号": "【推断】通信+弱电全谱 VAD:**Yealink/Yeastar 桌面话机谱=PoE 随单核心场景(Voicenter 逻辑)**;Uniview 相机谱二线;光纤谱=ISP 客层",
+    "关键人KP": "Lali Mekvabishvili = Managing Director",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:Ubiquiti 官分+话机谱双强 / W:单国体量 / O:桌面话机 PoE 随单放量 / T:双牌内斗挤压带宽",
+    "Saga产品适配": "话机+无线双谱 VAD 的 PoE 随单管理档"
+   },
+   "swot_text": "- **S**:Ubiquiti 官分+话机谱双强\n- **W**:单国体量\n- **O**:桌面话机 PoE 随单放量\n- **T**:双牌内斗挤压带宽",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Distributors & Master Resellers ### Intellcom Group Ltd. 42, Tereverko Str. 0159, Tbilisi, Georgia",
+     "quote": "Distributors & Master Resellers ### Intellcom Group Ltd. 42, Tereverko Str. 0159, Tbilisi, Georgia",
+     "url": "https://www.ui.com/distributors/?region=eur"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uni",
+     "quote": "partner of leading world brands: Ubiquiti Networks, Mikrotik, Yealink, Yeastar, Sumitomo Electric, ZTT … KSTAR, Leoch … LANDE, Synology, Uniview",
+     "url": "https://ge.linkedin.com/company/intellcomgroup"
+    },
+    {
+     "dim": "R65 实体/实名",
+     "text": "LTD Intellcom Group Tbilisi 42 Tereverko St.;MikroTik/Ubiquiti 多谱批发；Mekvabishvili MD 实名",
+     "quote": "Intellcom Ltd … Key Principal: Lali Mekvabishvili, Managing Director … LTD \"Intellcom Group\" 42 Tereverko St. Tbilisi 0159 Georgia sale@intellcom.net +995 32 298 9849",
+     "url": "https://www.intellcom.ge/en/contact/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Lali Mekvabishvili",
+     "role": "Managing Director",
+     "contact": "sale@intellcom.net / +995 32 298 9849",
+     "status": "DnB 实名 + intellcom.ge 官网双源",
+     "source": "https://www.dnb.com/business-directory/company-profiles.intellcom_ltd.c9b2e76df80f45ef07f0094466b87605.html"
+    }
+   ],
+   "unknowns56": [
+    "话机谱现配交换件",
+    "Uniview 谱 PoE 供电轨空缺与否"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 话机谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力",
+     "question": "你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sale@intellcom.net 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力",
+     "question": "你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「话机谱随单 PoE 管理档主话+相机谱侧话」:STC-424 主力",
+     "question": "你们的 Yealink/Yeastar 项目里,PoE 管理型交换现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Intellcom team,\n\nUbiquiti master distribution with Yealink and Yeastar telephony beside it - every SIP phone you ship needs PoE behind it, and that makes the switch line the quiet volume driver of your telephony business.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your phone fleet orders, white-label friendly.\n\nOne question: for your Yealink/Yeastar deployments, which managed PoE switch do you reach for today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-043",
+   "researched_on": "2026-10-07(R65 第 22 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Georgi Vasilev(georgi.petkov.vasilev@gmail.com;+359 889 895 830;**MikroTik 认证顾问 MTCNA+MTCRE**;电信硕士,10+ 年 IT,电子爱好者) | R65 深挖:MTCRE 持证 DXC 员工实体谱！专业技术谱位",
+    "inference": "个人顾问型:自行设计方案/采购/运维,采购决策一人;项目里交换机随客户预算走",
+    "hypothesis": "开口角度=「顾问工具箱里多一件 value PoE 档」:先验活跃与项目节奏,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Georgi Vasilev(Sofia 保加利亚 LinkedIn 血谱：**DXC Technology 员工**,Technical University of Sofia 2023+ Dev Ninjas;**已获 MikroTik Certified Routing Engineer(MTCRE, 2024-11 谱；本人 LinkedIn 自曝）**——谱型=技艺无限大谱；Oracle Cloud Foundations Associate 2024;谱位=高技 MikroTik 同时兼任 DXC",
+    "芯片与在用型号": "【推断】个人顾问型:自行设计方案/采购/运维,采购决策一人;项目里交换机随客户预算走",
+    "关键人KP": "Georgi Vasilev = DXC Technology 员工 + MTCRE 持证（LinkedIn 自曝）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:双证顾问,方案采购一体 / W:个人体量小 / O:顾问指定=我方白标进项目 / T:顾问点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:双证顾问,方案采购一体\n- **W**:个人体量小\n- **O**:顾问指定=我方白标进项目\n- **T**:顾问点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;电信硕士,10+ 年 IT,电子爱好者",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;电信硕士,10+ 年 IT,电子爱好者",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 核正",
+     "text": "Georgi Vasilev(DXC, TU Sofia）持有 MTCRE 2024 证书；Oracle CI Foundations 2024;IT 2003 至今",
+     "quote": "Happy to share my achievement - MikroTik Certified Routing Engineer … Successfully obtain Oracle Cloud Infrastructure 2024 Foundations Associate … Experience: DXC Technology … Education: Technical University of Sofia",
+     "url": "https://www.linkedin.com/in/vasilevgeorgi/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Georgi Vasilev",
+     "role": "DXC Technology 员工 / MTCRE 持证",
+     "contact": "linkedin.com/in/vasilevgeorgi",
+     "status": "LinkedIn 自曝",
+     "source": "https://www.linkedin.com/in/vasilevgeorgi/"
+    }
+   ],
+   "unknowns56": [
+    "在手项目量与谱系",
+    "交换机采购实际决策权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱里多一件 value PoE 档」:先验活跃与项目节奏,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱里多一件 value PoE 档」:先验活跃与项目节奏,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

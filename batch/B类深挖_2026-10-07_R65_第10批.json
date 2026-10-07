@@ -1,0 +1,413 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 10 批（希腊收尾 7 户）",
+ "scope": "B-115 / B-119 / B-123 / B-126 / B-128 / B-132 / B-134",
+ "records": [
+  {
+   "code": "B-115",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Allnet.Greece(ALLNET 集团谱):**ALLNET Italia 在希腊的战略延伸站**——官网 allnet-italia.it 明示「ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market」;集团体量:EUR 500M+ 年翻+60,000+ 欧洲伙伴;Allnet GmbH(Munich 1991 Wolfgang Marcus Bauer 创）母体+多欧洲站(含北欧站=B-001 ALLNET Nordic 的表亲) | R65 深挖:ALLNET 集团联动径宣称",
+    "inference": "ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容",
+    "hypothesis": "开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口"
+   },
+   "dimensions": {
+    "背景深描": "ALLNET.Greece / Allnet Greece 分支(R57 已述;ALLNET 世界集团 Bauer 家长径在同科——德国母体 B-138 Bauer/意大利 B-154 €88M 距并;",
+    "芯片与在用型号": "【推断】ALLNET 是集团「网络化」生态（NORDIC/ITALIA/GREECE 各站不同主管）:希腊站走的是 Allnet Italia 主导(「南欧枢纽」),而非北欧;CSV 挂「Master」与 Allnet.Italia S.p.A. 的 Unified MikroTik Master Distributor(altostrat 名录）兼容",
+    "关键人KP": "—(谱与 B-138 W.M. Bauer 联动径)",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:Allnet 集团系+60k 伙伴+南欧信谱 / W:多站/集团层次杂,决策遍喋 / O:STC-424 集团合价联动入 value 档 / T:集团内在异构",
+    "Saga产品适配": "ALLNET 集团南欧站的 value PoE 档集团谱补位(B-001 NORDIC 表亲同一逻辑)"
+   },
+   "swot_text": "- **S**:Allnet 集团系+60k 伙伴+南欧信谱\n- **W**:多站/集团层次杂,决策遍喋\n- **O**:STC-424 集团合价联动入 value 档\n- **T**:集团内在异构",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…ALLNET Greece represents the strategic extension of Allnet I",
+     "quote": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market",
+     "url": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Allnet.Italia S.p.A. Master Distributor Value Added Distributor Bologna Italy",
+     "quote": "Allnet.Italia S.p.A. Master Distributor Value Added Distributor Bologna Italy",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/italy/"
+    },
+    {
+     "dim": "R65 联动",
+     "text": "ALLNET 集团全球分支;谱与 B-138/B-154  Bauer 同联径；希腊站内坑",
+     "quote": "(R65 联动口径:ALLNET 集团家长 Wolfgang Marcus Bauer 1991 创立,99 员工国际)",
+     "url": "https://www.wer-zu-wem.de/firma/allment-computer.html"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "Allnet Greece 与 Allnet Italia 的采购/库存决策级(分站还是 Bologna 集中)",
+    "Allnet 谱已覆盖的 value PoE SKU 现状"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Allnet 三站集团谱对照单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口",
+     "question": "Allnet 集团三本(NORDIC/ITALIA/GREECE)的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · Ioanna 具名引见请求",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口",
+     "question": "Allnet 集团三本(NORDIC/ITALIA/GREECE)的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Allnet 集团谱的 value PoE 格力位」:Nordic 谱 Ubiquiti/TP-Link 已有、专属 PoE 档无；STC-424 以集团合价联动+Ioanna 具名开口",
+     "question": "Allnet 集团三本(NORDIC/ITALIA/GREECE)的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Allnet Greece team,\n\nAllnet Italia's strategic extension into the Greek market, on a group-wide network that spans EUR 500M and 60,000 partners across Europe - the Allnet Network is exactly the kind of coordinated entity a value PoE line is built to flow through.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Nordic / Italia / Greece shelf.\n\nOne question: across the Allnet Network, which PoE access SKU is holding the value tier today - and would a group-level second-source earn a pilot at the Greece extension?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-119",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Christos Kotoufos(希腊 Nea Makri;载 MTCNA+MTCSE 双证）;公足迹未查到",
+    "inference": "雅典北港海岸小体个顾",
+    "hypothesis": "守档:具名引见再定"
+   },
+   "dimensions": {
+    "背景深描": "Allen.Gre此举谱(B-119;R65 搜索无果,守档准由)",
+    "芯片与在用型号": "【推断】雅典北港海岸小体个顾",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:双证 / W:零足迹 / O:具名回插 / T:失联",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:双证\n- **W**:零足迹\n- **O**:具名回插\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Nea Makri)",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Nea Makri)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果;守档准由",
+     "quote": "(web_search 无果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名足迹核查",
+    "Nea Makri 港案资源带"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见再定",
+     "question": "(守档不入触点)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-123",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Georgios Floros(希腊 Pallini 雅典区;载 MTCNA+MTCSE 双证）;公足迹未查到",
+    "inference": "雅典东南区市零足迹个体",
+    "hypothesis": "守档:具名引见再定"
+   },
+   "dimensions": {
+    "背景深描": "OZEOkueng / Glowe Pefki(希腊 Rah 罗地;R65 检索无果守档准由)",
+    "芯片与在用型号": "【推断】雅典东南区市零足迹个体",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:双证 / W:零足迹 / O:具名回插 / T:失联",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:双证\n- **W**:零足迹\n- **O**:具名回插\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Pallini)",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCSE(Pallini)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果;守档准由",
+     "quote": "(web_search 无果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名足迹核查",
+    "Pallini 雅典区市案谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见再定",
+     "question": "(守档不入触点)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-126",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档",
+    "inference": "Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级",
+    "hypothesis": "守档后优先序:具名引见最优先(MTCINE 高位拉级)"
+   },
+   "dimensions": {
+    "背景深描": "Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由)",
+    "芯片与在用型号": "【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCINE ",
+    "优缺点SWOT": "S:三证+MTCINE 高位 / W:零足迹 / O:具名引见后案 / T:失联",
+    "Saga产品适配": "MTCINE 高位三证派==师者予顾问通道(入具名引见中单)"
+   },
+   "swot_text": "- **S**:三证+MTCINE 高位\n- **W**:零足迹\n- **O**:具名引见后案\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS",
+     "quote": "MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS",
+     "url": "https://www.mikrotikusers.com/mikrotik-certification-program/"
+    },
+    {
+     "dim": "R65 联动",
+     "text": "B-126/B-127 两 Alfa-Tech 同名系应视为并集；Analytis KP 挂 B-127，均守档",
+     "quote": "(R65 同域联动口径)",
+     "url": "(沙箱谱位核验日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名足迹核查(MTCINE 高位程)",
+    "Nafplio 旅游区案谱密度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名引见(MTCINE 高位拉级)",
+     "push": "CONSULT-OEM",
+     "angle": "守档后优先序:具名引见最优先(MTCINE 高位拉级)",
+     "question": "Nafplio 旅游港 MTCINE 高度型的项目普布局",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档后优先序:具名引见最优先(MTCINE 高位拉级)",
+     "question": "Nafplio 旅游港 MTCINE 高度型的项目普布局",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-128",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Lechouritis Ioannis(希腊 Neo Herakleio 雅典区;载 MTCNA+MTCRE+MTCSE 三证）;公足迹未查到",
+    "inference": "雅典区零足迹三证个体",
+    "hypothesis": "守档:具名引见再定"
+   },
+   "dimensions": {
+    "背景深描": "Planet1.gr / Planet1 SA 或 SA Planet 1 同名档（希腊小谱；R65 检索无果守档准由)",
+    "芯片与在用型号": "【推断】雅典区零足迹三证个体",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCSE ",
+    "优缺点SWOT": "S:三证 / W:零足迹 / O:具名回插 / T:失联",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:三证\n- **W**:零足迹\n- **O**:具名回插\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Neo Herakleio)",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Neo Herakleio)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名足迹核查",
+    "Neo Herakleio 雅典区案谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见再定",
+     "question": "(守档不入触点)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-132",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Panagiotis Taxiarchis Chatzinikolaou(希腊 Mytilene 列斯沃斯岛;载 MTCNA+MTCRE+MTCSE 三证,CSV 邮箱名面 controlfieldg@——偏工程师/控制场域）;公足迹未查到",
+    "inference": "列斯沃斯岛;controlfieldg 名面偏控制工程,市政旅游常规部署样",
+    "hypothesis": "守档:具名引见后定"
+   },
+   "dimensions": {
+    "背景深描": "Cybertek.gr / Cybertek S.A.（希腊雅典 Bouton 轴大谱)——守望准由",
+    "芯片与在用型号": "【推断】列斯沃斯岛;controlfieldg 名面偏控制工程,市政旅游常规部署样",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCSE ",
+    "优缺点SWOT": "S:三证+工程气息 / W:零足迹 / O:具名回插 / T:失联+岛胶人",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:三证+工程气息\n- **W**:零足迹\n- **O**:具名回插\n- **T**:失联+岛胶人",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Mytilene)",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE(Mytilene)",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "具名足迹核查(controlfieldg 名面偏工程项目)",
+    "Mytilene 岛旅游+市政案谱密度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见后定",
+     "question": "(守档不入触点)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-134",
+   "researched_on": "2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Spiros Potsikas / Tele-Net(希腊 Rethimno 克里特;CSV 载 MTCNA+MTCRE);公足迹未查到具名人——tele-net.gr 未接连",
+    "inference": "Rethimno 克里特北部中产镇双证个体",
+    "hypothesis": "守档:具名引见回插后决"
+   },
+   "dimensions": {
+    "背景深描": "Phoenix Fone S.A.（希腊包；R65 检索无果守档准由)",
+    "芯片与在用型号": "【推断】Rethimno 克里特北部中产镇双证个体",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:双证 / W:零足迹 / O:待定 / T:失联",
+    "Saga产品适配": "希腊个体顾问零足迹零位"
+   },
+   "swot_text": "- **S**:双证\n- **W**:零足迹\n- **O**:待定\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "官方顾问需 MTC*E 在续",
+     "quote": "官方顾问需 MTC*E 在续",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果)",
+     "url": "(沙箱日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "mikrotik.com 顾问名录核证",
+    "Rethimno 区案谱密度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+30 · 具名回插",
+     "push": "CONSULT-OEM",
+     "angle": "守档:具名引见回插后决",
+     "question": "Rethimno 克里特区案的 PoE 接层现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

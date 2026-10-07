@@ -1,0 +1,532 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 20 批（西班牙 8 户收尾）",
+ "scope": "B-480 Strato Networks / B-467 Perpi.tech / B-471 IT Consultores / B-474 Dualcom / B-457 / B-458 / B-464 / B-481",
+ "records": [
+  {
+   "code": "B-480",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体",
+    "inference": "师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权",
+    "hypothesis": "开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口"
+   },
+   "dimensions": {
+    "背景深描": "Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV 谱口径）;",
+    "芯片与在用型号": "【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权",
+    "关键人KP": "Ricardo Bernao Gonzalez = 实体谱主位（CSV 口径）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCWE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样本+数字化代理 SME 项目随单双线 / T:师者红线",
+    "Saga产品适配": "Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)"
+   },
+   "swot_text": "- **S**:15 年师者+学院+官方数字化代理三重\n- **W**:教具量小\n- **O**:教具样本+数字化代理 SME 项目随单双线\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de lab",
+     "quote": "Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de laboratorio práctico, disponiendo cada alumno de un router",
+     "url": "https://www.stratonetworks.com/formacion/formacion.php"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas",
+     "quote": "agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas",
+     "url": "http://www.stratonetworks.com/portada/index.php"
+    },
+    {
+     "dim": "R65 谱/自曝",
+     "text": "Strato Networks 2008 创 Las Rozas · 50+ 客户 85% tech staff · 公行(public sector 专放） · Blue team防御 Sophos Silver/SonicWall/MikroTik · MikroTik RouterOS 训练课与 InstantByte 欧洲分销联名(5 届)",
+     "quote": "En Enero de 2008 fundamos Strato Networks … Strato Networks trabaja con más 50 clientes … 85% de personal técnico … Somos partner Silver de Sophos … Certificaciones Mikrotik … formacion(arroba)stratonetworks(punto)(com)",
+     "url": "https://www.stratonetworks.com/portada/acerca.php"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ricardo Bernao Gonzalez",
+     "role": "谱主位实体",
+     "contact": "info@stratonetworks.com / +34 657 478 596",
+     "status": "CSV 口径+stratonetworks.com 官网自曝",
+     "source": "https://www.stratonetworks.com/portada/acerca.php"
+    }
+   ],
+   "unknowns56": [
+    "教具采购走 InstantByte 还是自采",
+    "数字化代理谱里 SME 布线/监控随单量"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本合作一页(师者红线下)",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口",
+     "question": "Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · ricardo@stratonetworks.com 具名",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口",
+     "question": "Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口",
+     "question": "Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Ricardo,\n\nStrato Academy running hands-on RouterOS labs where every student gets a real router, alongside InstantByte - and a digitalization-agent practice on top. You sit exactly where the training bench meets SME rollouts.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on the Strato Academy bench, do your students only see MikroTik for the PoE segment - or would a documented comparison unit with a full test pack be worth a slot?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-467",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE) | R65 深挖:Perpignan 西班牙跨界实体；Youth 2025 青年谱位最新入场口",
+    "inference": "年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)",
+    "hypothesis": "守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位"
+   },
+   "dimensions": {
+    "背景深描": "Enric Perpinyà Pitarch(Perpignan 法国侧,R65 判定谱型：西班牙马略卡青年创业——PERPITECH 法国PERPIGNAN SIREN 818099160,2016-01-23 创（原名 BD ELEC 2019-01-28 转名）= **Enric Perpinyà 实体映射核正**;**2025 Connect'Up 青年类（Youth 2025）首获奖**：Perpi.Tech 企业网络监测/安全防护方案;14 Rue Pierre Lescot 66000 Perpignan;Damien Boudot 首任 prá 总裁 2016",
+    "芯片与在用型号": "【推断】年轻获奖初创(一人至数人):软件/SaaS 为主,硬件不备货但酒店项目维护/布网里有真实 PoE 采购场景(AP/监控/门禁是酒店标配)",
+    "关键人KP": "Enric Perpinyà = Perpi.Tech 创始人（2025 Connect'Up Youth 获奖）;Damien Boudot 实体 2016 首总裁",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:创始人直决+获奖背书+酒店客谱 / W:初创体量极小,SaaS 优先 / O:酒店改造 PoE 项目随单(中长线) / T:初创存活率",
+    "Saga产品适配": "获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道"
+   },
+   "swot_text": "- **S**:创始人直决+获奖背书+酒店客谱\n- **W**:初创体量极小,SaaS 优先\n- **O**:酒店改造 PoE 项目随单(中长线)\n- **T**:初创存活率",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar co",
+     "quote": "Perpi.Tech, se alzó como ganador de Youth 2025…una solución de ciberseguridad para monitorizar redes empresariales…Me ha permitido hablar con el personal IT de las empresas hoteleras",
+     "url": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en l",
+     "quote": "Nos encargamos de gestionar, diseñar y mantener tus informática y redes…Connection Tracker es tu software profesional de ciberseguridad en la nube",
+     "url": "https://perpi.tech/"
+    },
+    {
+     "dim": "R65 实体核正",
+     "text": "PERPITECH Perpignan SIREN 818099160 · 2016 创（BD ELEC 转名）· Enric Perpinyà Connect'Up Youth 2025 首获企业网络监测方案",
+     "quote": "Société PERPITECH à PERPIGNAN - SIREN : 818099160 … «Connect'Up me ayudó a convertir la idea en algo útil para el mercado» … Enric Perpinyà, fundador de Perpi.Tech … ganó la categoría Youth 2025",
+     "url": "https://rubypayeur.com/societe/perpitech-818099160"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Enric Perpinyà Pitarch",
+     "role": "PerpiTech 创始人/CEO(Youth 2025 获奖）",
+     "contact": "经 perpi.tech / +33 侧",
+     "status": "ultimahora.es 2026-07-15 专访自曝",
+     "source": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html"
+    }
+   ],
+   "unknowns56": [
+    "酒店客户布网/改造项目的硬件采购节奏",
+    "团队规模与现金流"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 创始人具名短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位",
+     "question": "你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+60 · 酒店项目信号观察",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:创始人具名技术对话,等他酒店客户的布网/改造项目出现 PoE 硬件需求再激活;SaaS 起步期不推架位",
+     "question": "你给酒店做网络维护/改造时,AP/监控的 PoE 接入件现随哪家?(备份,等你有项目再谈)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-471",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroTik 认证咨询 20 年谱位",
+    "inference": "SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星",
+    "hypothesis": "守档备养:具名引见;等其 SME 客户布网/监控项目信号"
+   },
+   "dimensions": {
+    "背景深描": "IT Consultores（西班牙 MikroTik 官方认证咨询者实体：「Consultores Certificados MikroTik」自曝 itconsultores.es;20+ 年 TI 网络经验；Jorge Agulló 实体谱主位（CSV))",
+    "芯片与在用型号": "【推断】SME 顾问小团队,Benidorm 旅游城市,SME 谱含餐饮酒店;合规+安全服务为主,硬件随项目零星",
+    "关键人KP": "Jorge Agulló（CSV 谱主位）+ Consultores Certificados MikroTik 官方自曝",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:20 年团队+具名座机 / W:咨询主业,硬件零星 / O:旅游城市 SME 改造随单 / T:量小",
+    "Saga产品适配": "SME 顾问小团队备养:具名通道,项目随单信号再激活"
+   },
+   "swot_text": "- **S**:20 年团队+具名座机\n- **W**:咨询主业,硬件零星\n- **O**:旅游城市 SME 改造随单\n- **T**:量小",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD",
+     "quote": "Más de 20 años de experiencia en el área de TI y redes…Consultores Certificados MikroTik…CIBERSEGURIDAD Y LOPD",
+     "url": "https://www.itconsultores.es/"
+    },
+    {
+     "dim": "R65 自曝",
+     "text": "IT Consultores 官方自曝「Consultores Certificados MikroTik;20+ 年」",
+     "quote": "Consultores Certificados MikroTik Más de 20 años de experiencia en el el área de TI y redes … diseño de infraestructura de red … VPN … ancho de banda",
+     "url": "https://www.itconsultores.es/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jorge Agulló",
+     "role": "Consultor Certificado MikroTik",
+     "contact": "经 itconsultores.es",
+     "status": "CSV + itconsultores.es 官网自曝",
+     "source": "https://www.itconsultores.es/"
+    }
+   ],
+   "unknowns56": [
+    "SME 客户行业构成(酒店餐饮占比)",
+    "项目型硬件采购频度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;等其 SME 客户布网/监控项目信号",
+     "question": "你们给 Benidorm 的 SME(餐饮酒店)做 LOPD/网络项目时,PoE 监控/接入件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;等其 SME 客户布网/监控项目信号",
+     "question": "你们给 Benidorm 的 SME(餐饮酒店)做 LOPD/网络项目时,PoE 监控/接入件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-474",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "José María Catalá Ortega - Dualcom CB(La Palma 加那利;MTCNA+MTCRE;同岛同域名族 conectandolapalma.com=**La Palma 岛本地电信运营商(WISP)**:『SOMOS TU OPERADOR DE TELECOMUNICACIONES…EN LA ISLA DE LA PALMA』6/10/12Mb 无线+企业 PtP+视频监控+报警+机房维护,驻 Los Llanos) | R65 深挖:同名三暗排除；西班牙个体本体守档",
+    "inference": "离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感",
+    "hypothesis": "守档备养:具名引见,岛上 WISP 回程/监控安装 PoE 场景长线;若其确为运营型,客户 CPE/回程件有其谱但量小"
+   },
+   "dimensions": {
+    "背景深描": "Jose Maria Catala Ortega(DUALCOM 个体顾问本体;R65 判定:法国 Villebrumier SIREN 403131188(holding) / Marseille SIREN 499768315(已解散) / UK CSL DualCom(M2M 1996) 三同名实体均已排除,不采信;B-474=西班牙个体顾问本体(CSV 谱主位))",
+    "芯片与在用型号": "【推断】离岛(8 万人)本地 WISP/电信安装生态:CPE 回程+监控安装有其 PoE 场景,但量级小、岛屿物流敏感",
+    "关键人KP": "José María Catalá Ortega = 个体谱主位（CSV 口径；R65 同名排除）",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:离岛本地垄断圈+具名 / W:量级极小+物流离岛 / O:岛 WISP 回程/监控安装随单 / T:量不抵运",
+    "Saga产品适配": "加那利离岛 WISP/安装生态备养:量级小,守档观察"
+   },
+   "swot_text": "- **S**:离岛本地垄断圈+具名\n- **W**:量级极小+物流离岛\n- **O**:岛 WISP 回程/监控安装随单\n- **T**:量不抵运",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE;dualcomcb.com",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE;dualcomcb.com",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Realizamos instalaciones y mantenimiento en todo tipo de infraestructuras de telecomunicaciones…wimax…somos tu operador de telecomunicacione",
+     "quote": "Realizamos instalaciones y mantenimiento en todo tipo de infraestructuras de telecomunicaciones…wimax…somos tu operador de telecomunicaciones para particulares y empresas en la isla de La Palma",
+     "url": "https://conectandolapalma.com/"
+    },
+    {
+     "dim": "R65 同名排除",
+     "text": "法国/马赛/英国三同名 DUALCOM 实体排除后，B-474 为西班牙个体顾问本体",
+     "quote": "(R65 同名实体验证日志：403131188/499768315/CSL Dualcom UK 均已排除）",
+     "url": "(R65 核验日志）"
+    }
+   ],
+   "kp": [
+    {
+     "name": "José María Catalá Ortega",
+     "role": "Consultor(Dualcom 个人谱）",
+     "contact": "经 CSV 入口",
+     "status": "CSV 口径（R65 同名实体排除）",
+     "source": "(CSV 本体 + R65 同名排核日志）"
+    }
+   ],
+   "unknowns56": [
+    "双站域是否同一主体(dualcomcb vs conectandolapalma)",
+    "WISP 回程/安装 PoE 件现供与量级"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,岛上 WISP 回程/监控安装 PoE 场景长线;若其确为运营型,客户 CPE/回程件有其谱但量小",
+     "question": "岛上 WISP 回程与客户 CPE/监控安装里,PoE 件现供哪家?离岛物流怎么解?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,岛上 WISP 回程/监控安装 PoE 场景长线;若其确为运营型,客户 CPE/回程件有其谱但量小",
+     "question": "岛上 WISP 回程与客户 CPE/监控安装里,PoE 件现供哪家?离岛物流怎么解?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-457",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Adrián González Notario(Madrid;adrnet.site;MTCNA+MTCRE+MTCINE;**2026-02-06 RIPE 新分配自有 AS 号 AS201361(adrnet.site 绑定;当前 Inactive:0 域/0 IP 上线)**) | R65 深挖:守档准由",
+    "inference": "持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口",
+    "hypothesis": "守档备养+重点观察:具名技术对话(BGP/互联语言),其 AS 上线部署时接入/汇聚件选型是我方窗口;不推消费档,被他节奏走"
+   },
+   "dimensions": {
+    "背景深描": "Adrián González Notario（西班牙个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】持 MTCINE(ISP 互联)+自有 ASN=正在搭自己的网络/小型运营实体——不是普通顾问,是 2026 年新入场的潜在运营者;网络尚未上线(3 个月前拿号),正处在设备选型窗口",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCINE ",
+    "优缺点SWOT": "S:自有 ASN+MTCINE=运营者血统,选型窗口刚开 / W:网络未上线,量级极小 / O:上线部署时 PoE 接入/汇聚件入谱 / T:创业流产失联",
+    "Saga产品适配": "2026 新 ASN 运营者守档观察:技术对话备养,等其上线部署的硬件窗口"
+   },
+   "swot_text": "- **S**:自有 ASN+MTCINE=运营者血统,选型窗口刚开\n- **W**:网络未上线,量级极小\n- **O**:上线部署时 PoE 接入/汇聚件入谱\n- **T**:创业流产失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "AS201361 Adrian Gonzalez Notario…adrnet.site…Allocated 3 months ago on Feb 6, 2026…ASN type: ISP/Business…Inactive",
+     "quote": "AS201361 Adrian Gonzalez Notario…adrnet.site…Allocated 3 months ago on Feb 6, 2026…ASN type: ISP/Business…Inactive",
+     "url": "https://ipinfo.io/AS201361"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCRE+MTCINE",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "AS201361 计划上线路(WISP/ISP/托管?)",
+    "接入/汇聚设备选型窗口期",
+    "上游/互联对象"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见(BGP/互联语言)",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养+重点观察:具名技术对话(BGP/互联语言),其 AS 上线部署时接入/汇聚件选型是我方窗口;不推消费档,被他节奏走",
+     "question": "(守档)AS201361 计划什么形态上线?部署时接入/汇聚侧件选型开始看了吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+60 · 观察 AS201361 上线信号再触",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养+重点观察:具名技术对话(BGP/互联语言),其 AS 上线部署时接入/汇聚件选型是我方窗口;不推消费档,被他节奏走",
+     "question": "(守档)AS201361 计划什么形态上线?部署时接入/汇聚侧件选型开始看了吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-458",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Arber Reca Sina(Seville 塞维利亚;MTCNA+MTCIPv6E(IPv6 专长);arberreca@gmail.com +34 636 423 442;原备注:路由、防火墙、无线、网络设计、QoS;无公司网站) | R65 深挖:守档准由",
+    "inference": "纯个人顾问,IPv6 专长+全栈网络设计;安达卢西亚 SME 圈",
+    "hypothesis": "守档备养:具名引见(IPv6 语言),等其项目谱 PoE 信号"
+   },
+   "dimensions": {
+    "背景深描": "Arber Reca Sina（西班牙/阿尔巴尼亚谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】纯个人顾问,IPv6 专长+全栈网络设计;安达卢西亚 SME 圈",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCIPv6E ",
+    "优缺点SWOT": "S:IPv6 专长+具名手机直达 / W:无公开谱 / O:安达卢西亚 SME 项目随单 / T:失联",
+    "Saga产品适配": "个人顾问通道备养(IPv6 专长),具名引见后定"
+   },
+   "swot_text": "- **S**:IPv6 专长+具名手机直达\n- **W**:无公开谱\n- **O**:安达卢西亚 SME 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCIPv6E;路由、防火墙、无线、网络设计、QoS",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCIPv6E;路由、防火墙、无线、网络设计、QoS",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与项目谱",
+    "安达卢西亚 SME 客户构成"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(IPv6 语言),等其项目谱 PoE 信号",
+     "question": "你在安达卢西亚的项目里,PoE 接入与 IPv6 部署场景现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见(IPv6 语言),等其项目谱 PoE 信号",
+     "question": "你在安达卢西亚的项目里,PoE 接入与 IPv6 部署场景现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-464",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "David Forteza Rey Casasnovas(马略卡 Colonia de Sant Jordi;MTCNA+MTCSE;+34 744 408 692;原备注:各类 MikroTik 网络的搭建/配置/排障;无网站) | R65 深挖:守档准由",
+    "inference": "马略卡岛本地个人顾问,安全方向;岛上 SME/酒店/tourism 网络维护谱(与 B-467 同岛,巴利阿里谱小圈)",
+    "hypothesis": "守档备养:具名引见;岛圈与 B-467(Enric)同域,后纯信息互证"
+   },
+   "dimensions": {
+    "背景深描": "David Forteza Rey Casasnovas(son Andreu/Illes Balears 个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】马略卡岛本地个人顾问,安全方向;岛上 SME/酒店/tourism 网络维护谱(与 B-467 同岛,巴利阿里谱小圈)",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE ",
+    "优缺点SWOT": "S:岛上具名直达+双证 / W:无公开谱 / O:酒店/tourism 项目随单 / T:失联",
+    "Saga产品适配": "马略卡个人顾问备养(与 B-467 同岛,信息互证位)"
+   },
+   "swot_text": "- **S**:岛上具名直达+双证\n- **W**:无公开谱\n- **O**:酒店/tourism 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE;各类 MikroTik 网络的搭建/配置/排障",
+     "quote": "CSV:MikroTik 认证顾问,持 MTCNA+MTCSE;各类 MikroTik 网络的搭建/配置/排障",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与生计形态(受雇/独立)",
+    "岛上客户谱(酒店占比)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;岛圈与 B-467(Enric)同域,后纯信息互证",
+     "question": "你在马略卡做酒店/SME 网络维护时,PoE 监控/AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;岛圈与 B-467(Enric)同域,后纯信息互证",
+     "question": "你在马略卡做酒店/SME 网络维护时,PoE 监控/AP 接入现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-481",
+   "researched_on": "2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | R65 深挖:守档准由",
+    "inference": "ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景",
+    "hypothesis": "开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口"
+   },
+   "dimensions": {
+    "背景深描": "Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE ",
+    "优缺点SWOT": "S:ISP 级三证+1300 课时+无线骨干专长 / W:教具量小 / O:教具+学员 WISP 谱长线口 / T:师者红线",
+    "Saga产品适配": "ISP 级培训师的课桌 PoE 对照教具样本位"
+   },
+   "swot_text": "- **S**:ISP 级三证+1300 课时+无线骨干专长\n- **W**:教具量小\n- **O**:教具+学员 WISP 谱长线口\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网",
+     "quote": "开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia",
+     "quote": "Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia",
+     "url": "https://www.formacionmikrotik.com/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "cursos-mikrotik.com 与 formacionmikrotik.com 是否同一主体",
+    "其 WISP 学员谱的硬件询问频度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本合作一页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口",
+     "question": "你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · santiagoayodar@hotmail.com 具名",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口",
+     "question": "你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口",
+     "question": "你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Santiago,\n\nThirteen hundred hours of MikroTik training delivered, with Diameter, AAA and wireless backhaul on the syllabus - your classroom is where Spain's WISP technicians learn the trade.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.\n\nOne question: in your WISP and backhaul courses, does the PoE segment have a documented comparison device on the bench - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

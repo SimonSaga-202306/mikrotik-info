@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义)…
+- **是谁**：Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-191→B-517】官网 /kontakt/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren( | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义)
+- 【事实】Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
 - 【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
 - 【假设】开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren(f1973)Daglig leder + Martin Roland Linder(f1972)Styrets leder;+47 23 03 53 30)
 
 ## 联系方式（已有/猜测分标）
 
@@ -81,7 +81,10 @@ updated: 2026-10-07
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Roger Allan Wahlgren | Daglig leder(常务/CEO) | 经 fiberworks.no/1881 总机 23 03 53 30 索取 | 1881.no + proff.no + gulesider.no 三源实名 | https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/ |
+| Martin Roland Linder | Styrets leder(董事长) | — | 同源 | 同 1881.no |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -111,11 +114,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义)
+- **背景深描**：Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren(f1973)Daglig leder + Martin Roland Linder(f1972)Styrets leder;+47 23 03 53 30)
 - **芯片与在用型号**：【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
-- **关键人KP**：—
+- **关键人KP**：Roger Allan Wahlgren = Daglig leder(常务 CEO);Martin Roland Linder = Styrets leder(董事长);Sorb Industri AB 全资母(瑞典集团)
 - **关注点与资质**：ORing 
 - **优缺点SWOT**：S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 / T:ORing 排他
 - **Saga产品适配**：挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)
@@ -128,6 +131,9 @@ updated: 2026-10-07
 - **【R57备护深挖证据】**CSV:分销(ORing 授权),挪威光纤/网络分销
   > CSV:分销(ORing 授权),挪威光纤/网络分销
   > 来源：客户名单_反向信号_2026-09.csv
+- **【R65 商业登记】**Org 959977046 · 1990 创 · 24 员工 · Sorb Industri AB(瑞典)100% · Wahlgren=Linder 两实名
+  > Daglig leder Roger Allan Wahlgren … Aksjonærer: Sorb Industri AB (100%) … Stiftelsesdato: 27.12.1990
+  > 来源：https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,7 +165,7 @@ S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 /
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

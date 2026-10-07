@@ -1,0 +1,314 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 18 批（芬兰/黑山/阿联酋/马耳他）",
+ "scope": "B-397 Fiseg / B-491 Netmont / B-485 ICT Intl / B-487 Accreda",
+ "records": [
+  {
+   "code": "B-397",
+   "researched_on": "2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Fiseg Oy(Tampere Aurinkokuja 5B(Espoo 注册);Y-tunnus 3246003-6,**2021-11 新创 4-5 人,盈利健康(Liikevoitto 51-75 万欧/年)**;CEO **Tero Närhi** 具名;**Finnish Sensor Group**;商标谱=Idem Safety/**Antaira(官网 where-to-buy 芬兰列名确认)**/Gefran/FSG/Wago/Winmate/R+W/Elgo/Code corp/lenze/systec;自动化零组件进口分销+组装咨询 | R65 深挖:芬兰工业自动化进口实体；Närhi CEO 2021 创",
+    "inference": "新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗",
+    "hypothesis": "开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口"
+   },
+   "dimensions": {
+    "背景深描": "Fiseg Oy(Y-tunnus 3246003-6,Tampere Aurinkokuja 5 B(Kotipaikka Espoo);2021-11-10 创;**Tero Henrik Närhi = Toimitusjohtaja(CEO)**;5 员工；2024-12 €3.14M 营收(2-10M€ 级）;2025 €755K 营业利润；谱型=工业自动化产品进口/仓储/销售/组装/咨询（NACE 46641 电气批发）;Idem Safety/Antaira/Gefran 谱涵；myynti@fiseg.fi / 050 572 6268 脱明自曝",
+    "芯片与在用型号": "【推断】新创小而精传感器+自动化进口商:Antaira 是其工业网络件出处;4 人团队决策快;子谱以传感器/安全件为主,工业交换是 Antaira 独苗",
+    "关键人KP": "Tero Henrik Närhi = Toimitusjohtaja",
+    "关注点与资质": "Antaira ",
+    "优缺点SWOT": "S:新创盈利好+具名 CEO+Antaira 授权 / W:4 人小谱 / O:Antaira 独苗旁 value 二源 / T:传感器主业重心偏",
+    "Saga产品适配": "芬兰小而精进口商 Antaira 独苗旁的 DIN 轨 value 二源(具名 Tero,决策快)"
+   },
+   "swot_text": "- **S**:新创盈利好+具名 CEO+Antaira 授权\n- **W**:4 人小谱\n- **O**:Antaira 独苗旁 value 二源\n- **T**:传感器主业重心偏",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Fiseg Oy…4 työntekijää…Liiketulos 519 000 €(2023)…Toimitusjohtaja: Tero Henrik Närhi…Tuotemerkit: Idem Safety, Antaira, Gefran, FSG, Wago, W",
+     "quote": "Fiseg Oy…4 työntekijää…Liiketulos 519 000 €(2023)…Toimitusjohtaja: Tero Henrik Närhi…Tuotemerkit: Idem Safety, Antaira, Gefran, FSG, Wago, Winmate",
+     "url": "https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Where to Buy Finland: Fiseg Oy, Aurinkokuja 5 B FI-33420 Tampere",
+     "quote": "Where to Buy Finland: Fiseg Oy, Aurinkokuja 5 B FI-33420 Tampere",
+     "url": "https://antaira.eu/antaira-where-to-buy,81"
+    },
+    {
+     "dim": "R65 登记/实名",
+     "text": "Fiseg Oy Y-tunnus 3246003-6 · Tampere/Espoo · 2021 创 · Tero Närhi CEO · €3.14M 营收 · Idem Safety/Antaira/Gefran",
+     "quote": "Yhtiön toimitusjohtaja on Tero Henrik Närhi … FISEG Oy 3246003-6 … Aurinkokuja 5b, 33420 Tampere … myynti@fiseg.fi … Idem Safety Antaira Gefran",
+     "url": "https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Tero Henrik Närhi",
+     "role": "Toimitusjohtaja(CEO)",
+     "contact": "myynti@fiseg.fi / 050 572 6268",
+     "status": "finder.fi + proff.fi 双源",
+     "source": "https://www.finder.fi/Maahantuonti/Fiseg+Oy/Tampere/yhteystiedot/3691455"
+    }
+   ],
+   "unknowns56": [
+    "Antaira 在其谱的实际走量",
+    "其客户(轨道/机械)PoE 件需求带"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Antaira 对位页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口",
+     "question": "你们 Antaira 谱旁,DIN 轨 value PoE 二源有位吗?轨道/机械客户的 PoE 件随单频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · myynti@fiseg.fi 具名 Tero",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口",
+     "question": "你们 Antaira 谱旁,DIN 轨 value PoE 二源有位吗?轨道/机械客户的 PoE 件随单频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Antaira 独苗旁的 DIN 轨 value 二源」:STI-288GP 以其传感器客户(轨道交通/机械制造)的配套候补入;具名 Tero 开口",
+     "question": "你们 Antaira 谱旁,DIN 轨 value PoE 二源有位吗?轨道/机械客户的 PoE 件随单频次多高?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Tero,\n\nFiseg is three years in, profitable, and already carrying Antaira beside Idem Safety and Gefran - a tight, well-chosen line card from someone who picks brands carefully.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Finnish documentation on request. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your Antaira shelf, fully open to an OEM variant.\n\nOne question: beside Antaira, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-491",
+   "researched_on": "2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com) | R65 深挖:黑山 Bar 无线电信实体双 50% 业主",
+    "inference": "WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽",
+    "hypothesis": "开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页"
+   },
+   "dimensions": {
+    "背景深描": "NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Mišević = Izvršni direktor(执行董事） & 50% 业主；Slobodan Lalić = 50% 业主 & Ovlašćeni zastupnik(授权代表）**;谱型=Kdžičd 6120 Bežične telekomunikacije（黑山无线电信——Montenegro MikroTik 谱波长对应！)",
+    "芯片与在用型号": "【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽",
+    "关键人KP": "Vasilije Mišević = Izvršni direktor(50%);Slobodan Lalić = 业主（50%)& Ovlašćeni zastupnik",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 / T:总量天花板低",
+    "Saga产品适配": "独家 Master+WISP 自营的双谱 PoE 随单位"
+   },
+   "swot_text": "- **S**:独家 Master+自营 WISP\n- **W**:国小网小\n- **O**:自用+分销双谱 PoE 随单\n- **T**:总量天花板低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa",
+     "quote": "Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa",
+     "url": "https://netmont.me/mikrotik.html"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376",
+     "quote": "Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/montenegro"
+    },
+    {
+     "dim": "R65 凶件/实名",
+     "text": "NETMONT d.o.o. Bar 2017-10-10 创 · PIB 03157601 · Mišević 50% exek + Lalić 50% 代表 · šifra 6120 无线电信",
+     "quote": "Trenutni direktor tvrtke je VASILIJE MIŠEVIĆ. Vlasnik tvrtke je SLOBODAN LALIĆ(50,00%) … Vlasnik VASILIJE MIŠEVIĆ(50,00%), Osnivač … Osnovna djelatnost registrirana pod šifrom 6120 - Bežične telekomunikacije",
+     "url": "https://www.companywall.me/firma/netmont/MMxsQfYC"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Vasilije Mišević",
+     "role": "Izvršni direktor(50% 业主）",
+     "contact": "经 netmont.me",
+     "status": "companywall.me 实名",
+     "source": "https://www.companywall.me/firma/netmont/MMxsQfYC"
+    },
+    {
+     "name": "Slobodan Lalić",
+     "role": "Vlasnik(50%)+Ovlašćeni zastupnik",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "场点自建谱 PoE 档位现供",
+    "分销谱与自用谱占比"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · WISP 场点谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页",
+     "question": "你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@setehnica.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页",
+     "question": "你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页",
+     "question": "你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Netmont team,\n\nA licensed wireless ISP covering Montenegro and the country's Master MikroTik distributor at the same time - your own sites need PoE behind the radios, and your reseller customers need a documented unit on their shelves too.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.\n\nOne question: for your own PoP sites and your reseller line, which 24-port managed PoE switch do you run today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-485",
+   "researched_on": "2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ICT International L.L.C(Dubai Business Bay Ontario Tower 206;法人 2017 注册,**自述 17 年系统集成经验(前身沿革),11-50 人(21 口径)/$2M;Telco/Enterprise/SME 向 Value Added Re-seller:Datacenter/虚拟化/Cisco/VMware/Microsoft+通信基础设施;LinkedIn 宣示「ORing as our trusted distributor」——ORing 工业交换机谱在海湾区的落地承接;**contact@ict-international.ae) | R65 深挖:迪拜实体 BD+Technical 两口谱口开工",
+    "inference": "海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱",
+    "hypothesis": "开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线"
+   },
+   "dimensions": {
+    "背景深描": "I C T INTERNATIONAL L.L.C(206 Sobha Ivory 1, Dubai, UAE;+971 4 2216756;**Mazhar Ali = Business Development Manager;Fakhar Mirza = Technical Director(zoominfo 双谱）**;11-50 员工；Abdullah Mustafa 同 BDM",
+    "芯片与在用型号": "【推断】海湾 Telco/Enterprise VAR,ORing 体系谱在手=工业以太网价位带与项目门槛了然于心;CSV 切入点「工业/轨道同规格 1/3 价第二供应源」正对其谱",
+    "关键人KP": "Mazhar Ali = BDM;Fakhar Mirza = Technical Director",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:ORing 谱+Telco/Enterprise VAR / W:海湾项目周期场长 / O:1/3 价二源直对 ORing 谱空档 / T:海湾付款/代理体系壁垒",
+    "Saga产品适配": "ORing 谱海湾 VAR 的工业 PoE value 二源位"
+   },
+   "swot_text": "- **S**:ORing 谱+Telco/Enterprise VAR\n- **W**:海湾项目周期场长\n- **O**:1/3 价二源直对 ORing 谱空档\n- **T**:海湾付款/代理体系壁垒",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Over 17 years of extensive experience in System Integration, we are a specialist IT and Telecom Value Added Re-seller for Telcos, Enterprise",
+     "quote": "Over 17 years of extensive experience in System Integration, we are a specialist IT and Telecom Value Added Re-seller for Telcos, Enterprise and SMEs",
+     "url": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "we are proud to have ORing as our trusted distributor … Datacenters, Virtualization, Cisco, VMWare, and Microsoft",
+     "quote": "we are proud to have ORing as our trusted distributor … Datacenters, Virtualization, Cisco, VMWare, and Microsoft",
+     "url": "https://www.linkedin.com/company/ictintl"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "ICT International Dubai · Mazhar Ali BDM + Fakhar Mirza Technical Director · 11-50 员工",
+     "quote": "Mazhar Ali Business Development Manager … Fakhar Mirza Technical Director … I C T International contact info: Phone number: +971 42216756 Website: www.ict-international.ae",
+     "url": "https://www.zoominfo.com/c/i-c-t-international-llc/435477221"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Mazhar Ali",
+     "role": "Business Development Manager",
+     "contact": "+971 4 2216756 总线",
+     "status": "zoominfo 自曝",
+     "source": "https://www.zoominfo.com/c/i-c-t-international-llc/435477221"
+    },
+    {
+     "name": "Fakhar Mirza",
+     "role": "Technical Director",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "ORing 谱在手价位带与覆盖行业",
+    "工业/轨道项目在香港湾在手量"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · ORing 旁二源页",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线",
+     "question": "你们的 ORing 谱旁,工业 DIN 轨 PoE 是否有 documented value 档二源?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · contact@ict-international.ae 开口",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线",
+     "question": "你们的 ORing 谱旁,工业 DIN 轨 PoE 是否有 documented value 档二源?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「ORing 旁的 documented value 工业谱二源」:STI-288GP 主对位其工业/轨道线",
+     "question": "你们的 ORing 谱旁,工业 DIN 轨 PoE 是否有 documented value 档二源?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ICT International team,\n\nSeventeen years of systems integration for telcos and enterprises, with ORing industrial networking on the line card - you know exactly where projects walk away from premium rail-mount prices, and where a documented value second source wins by being honest about what it is.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - same-class rail PoE at roughly a third of the premium line, fully open to an OEM variant under your terms.\n\nOne question: beside your ORing shelf, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open for the Gulf projects?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-487",
+   "researched_on": "2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Accreda Ltd(Valletta 203a Old Bakery Street+London EC4Y 双点;2006 创,11-50 人;**ICT 服务商:Microsoft Dynamics NAV/365 BC ERP+Web/CMS+企业级技术管理,面向专业服务/iGaming/零售/制造业**;info@accreda.eu) | R65 深挖:误标谱险；实体=风险尽调顾问_收音守档",
+    "inference": "**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销",
+    "hypothesis": "开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Accreda Ltd(Valletta, Malta + London UK,2006 创，€2005 6847;**谱型大校=niche 风险管理尽调顾问（不计 IT 分销）**——R57 档案归销售商，R65 判定：**R57 谱型分类可能误配或该司已转型**;Accreda Administration 业首谱 Directory;Konrad Abela 2010-2019 前 Director(2020 后 FIAU Malta 局长)",
+    "芯片与在用型号": "【推断】**判型校正:CSV 判「分销」**,实为马耳他 ERP/ICT 服务商(MikroTik Reseller 只是客户项目采购通道),非货架分销",
+    "关键人KP": "Konrad Abela 前身 Director (2010-2019)/Konrad 近期去 FIAU;R57 归销售商谱位日档影集疑计",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:ERP 实施谱+双办公点 / W:网络非主业 / O:ERP 项目机房谱随单 / T:单量不支撑分销形态",
+    "Saga产品适配": "判型校正:ERP/ICT 服务商备养,按顾问/集成商模板激活"
+   },
+   "swot_text": "- **S**:ERP 实施谱+双办公点\n- **W**:网络非主业\n- **O**:ERP 项目机房谱随单\n- **T**:单量不支撑分销形态",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "niche ICT Services Provider … Enterprise Resource Planning, Web Development and Content Management Systems, and Enterprise Technology Manage",
+     "quote": "niche ICT Services Provider … Enterprise Resource Planning, Web Development and Content Management Systems, and Enterprise Technology Management … Valletta, Malta, and London",
+     "url": "https://www.accreda.eu/about-us"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Microsoft Dynamics NAV / 365 Business Central ERP Solutions",
+     "quote": "Microsoft Dynamics NAV / 365 Business Central ERP Solutions",
+     "url": "https://www.crunchbase.com/organization/accreda"
+    },
+    {
+     "dim": "R65 谱型校注",
+     "text": "Accreda Ltd Malta 2006 创=niche 风险尽调顾问，非 IT 分销；R57 归谱或也有同姓名重载；守档准由注",
+     "quote": "Accreda is a niche risk management firm specializing in the provision of research and due diligence solutions to the professional services, financial services, real estate and igaming sectors",
+     "url": "https://rocketreach.co/accreda-ltd-profile_b5ceb9dcf42e09a8"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "已激活项目实施量",
+    "网络件自选权重"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信",
+     "question": "(先验活跃)你们 ERP/机房项目实施中,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「服务商备养:项目实施里自选网络件」:先验活跃,激活后按顾问/集成商模板出信",
+     "question": "(先验活跃)你们 ERP/机房项目实施中,PoE 交换件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

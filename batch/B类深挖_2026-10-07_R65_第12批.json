@@ -1,0 +1,729 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 12 批（英国 4 + 荷兰 5)",
+ "scope": "B-531 Ivory Egg / B-532 MAC Solutions / B-533 Millbeck / B-425 Telasys / B-434 Interstroom / B-440 GPE / B-444 RvdB ICT / B-438 Bleuel / B-433 Bosch / B-435 JPK",
+ "records": [
+  {
+   "code": "B-531",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名 | R65 深挖:KNX 语族首代分销;Colin Price 所创/README 英国 KNX 推广者",
+    "inference": "CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期",
+    "hypothesis": "开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入"
+   },
+   "dimensions": {
+    "背景深描": "IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical Director UK(2020 起 director 角色兼电气时报 KNX 课程主讲);Romesh Anandaraja = NZ Exec Director;Craig Chapman = Group CEO;集团英国/澳大利亚/新西兰三国架",
+    "芯片与在用型号": "【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期",
+    "关键人KP": "Colin Price = Founder(KNX 血统);Mark Warburton = Technical Director/UK Director;Craig Chapman = Group CEO",
+    "关注点与资质": "N-Tron + Red Lion + Anybus + Ewon ",
+    "优缺点SWOT": "S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 大项目 IP 骨干 PoE 随单 / T:KNX bus 自足时网络件外采少",
+    "Saga产品适配": "KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位"
+   },
+   "swot_text": "- **S**:KNX 专精+培训+新仓窗口+澳新集团\n- **W**:以太网非其主课\n- **O**:KNX 大项目 IP 骨干 PoE 随单\n- **T**:KNX bus 自足时网络件外采少",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Ivory Egg specializes in supplying KNX products, accessories, and training for home automation and building control",
+     "quote": "Ivory Egg specializes in supplying KNX products, accessories, and training for home automation and building control",
+     "url": "https://www.crunchbase.com/organization/ivory-egg"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point",
+     "quote": "This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point",
+     "url": "https://ivoryegg.co.uk/news_items/new-UK-HQ"
+    },
+    {
+     "dim": "R65 谱位",
+     "text": "Ivory Egg KNX 技术型分销;Colin Price founder;Mark Warburton UK Technical Director;英/澳/新三国架",
+     "quote": "Ivory Egg founder Colin Price adopted KNX as the control platform of choice … Romesh Anandaraja Executive Director [NZ] … Craig Chapman Chief Executive Officer [Group]",
+     "url": "https://ivoryegg.co.uk/about"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Colin Price",
+     "role": "Founder(创始人/KNX 首代引进者)",
+     "contact": "经 ivoryegg.co.uk",
+     "status": "ivoryegg.co.uk 自曝",
+     "source": "https://ivoryegg.co.uk/about"
+    },
+    {
+     "name": "Mark Warburton",
+     "role": "Technical Director(UK Ltd)",
+     "contact": "同上",
+     "status": "knxtoday + Electrical Times 双源",
+     "source": "https://www.knxtoday.com/2020/08/16329/ivory-egg-gets-fit-for-the-future.html"
+    },
+    {
+     "name": "Craig Chapman",
+     "role": "Group CEO",
+     "contact": "同上",
+     "status": "ivoryegg.co.uk 自曝",
+     "source": "https://ivoryegg.co.uk/about"
+    }
+   ],
+   "unknowns56": [
+    "KNX/IP 融合项目里 IP 骨干件现供(随单 or 客户自理)",
+    "新仓上架窗口的品牌招募节奏"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · KNX/IP 项目 PoE 随单页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入",
+     "question": "你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@ivoryegg.co.uk 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入",
+     "question": "你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入",
+     "question": "你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Ivory Egg team,\n\nA brand-new warehouse HQ in Colwick, a KNX training roster, and a customer base of installers wiring hotels and commercial buildings - every one of those KNX-over-IP projects needs an IP backbone with PoE muscle behind the panels and gateways.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented PoE tier your KNX installers can pull on the same order, white-label friendly.\n\nOne question: inside your hotel and commercial-building KNX projects, which PoE backbone switch rides along today - and is the new warehouse opening a window for a networking line on the shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-532",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "MAC Solutions UK Ltd(Redditch Kingfisher Business Park + Chesterfield 分部 + **法国 Serris(77) 办事处**;1996 创,11-50 人,CEO **David Porter** 具名):**30 年工业数据通信(IDC)技术分销**——industrial Ethernet 开放连接谱(Red Lion/N-Tron/Sixnet+Anybus+Ewon)、版本控制软件、HMI 可视化、报警管理、OPC server、工业显示器/PC、远程访问;OT cybersecurity 内容营销(proteus/cyberbytes);客户=交通/监控/基础设施/自动化+OEM/machine builders | R65 深挖:工业自动化英国 1996 创;Bailey 双董事血统",
+    "inference": "同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业",
+    "hypothesis": "开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈"
+   },
+   "dimensions": {
+    "背景深描": "M.A.C. Solutions (UK) Limited(Companies House 03762835,1996 创;**David Porter = Chief Executive Officer;Ian Bailey = Director(1980 生，2020-09 在任)+ John Edward Bailey = Director(1953 生,2020-09 在任)**;工业自动化/过程连接 cyber 英国老谱——mac-solutions.net 主域;Moxa/Anybus 等工业通讯线谱涵",
+    "芯片与在用型号": "【推断】同法国 B-524 HD Technology 画像(英国版 Red Lion 老牌 VAD);30 年谱深+法国办=跨海峡谱;OT 安全内容投入=客户教育型企业",
+    "关键人KP": "David Porter = CEO(ZoomInfo);Ian Bailey + John Edward Bailey = 双 Directors(Companies House FL)",
+    "关注点与资质": "N-Tron + Red Lion + Anybus + Ewon ",
+    "优缺点SWOT": "S:30 年 IDC 专注+OT 安全内容+法国办 / W:Red Lion 王牌位稳 / O:value DIN 轨第二源/OEM 变体 / T:Red Lion 直系排他",
+    "Saga产品适配": "英国 Red Lion/N-Tron 老牌 IDC 分销的 DIN 轨 value 第二源(参照 HD Technology 模板)"
+   },
+   "swot_text": "- **S**:30 年 IDC 专注+OT 安全内容+法国办\n- **W**:Red Lion 王牌位稳\n- **O**:value DIN 轨第二源/OEM 变体\n- **T**:Red Lion 直系排他",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "industrial Ethernet 'open connectivity' solutions, industrial Ethernet switches…Founded 1996…connect to all their assets both fixed and movi",
+     "quote": "industrial Ethernet 'open connectivity' solutions, industrial Ethernet switches…Founded 1996…connect to all their assets both fixed and moving",
+     "url": "https://uk.linkedin.com/company/mac-solutions-uk-ltd"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches",
+     "quote": "Product brands include Red Lion, N-Tron and Sixnet…N-Tron PoE switches, NT24k switches",
+     "url": "https://www.bertelkamp.com/products/red-lion"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "MAC Solutions UK Ltd 03762835 · 1996 创 · 工业自动化/过程连接 cyber · Ian Bailey + John E Bailey 双董事 · David Porter CEO",
+     "quote": "BAILEY, Ian Role Active: Director Appointed on: 30 September 2020 … BAILEY, John Edward Role Active: Director … David Porter, Chief Executive Officer at MAC Solutions",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/03762835/officers"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ian Bailey",
+     "role": "Director(2020-09 在任)",
+     "contact": "经 mac-solutions.net",
+     "status": "Companies House 03762835 实名",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/03762835/officers"
+    },
+    {
+     "name": "John Edward Bailey",
+     "role": "Director(2020-09 在任)",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    },
+    {
+     "name": "David Porter",
+     "role": "Chief Executive Officer",
+     "contact": "同上",
+     "status": "ZoomInfo 自曝",
+     "source": "https://www.zoominfo.com/c/mac-solutions/354379890"
+    }
+   ],
+   "unknowns56": [
+    "Red Lion 谱内 PoE 件价位带",
+    "OEM/machine builder 客户对 value 件接受度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Red Lion 对位表(HD Technology 模板)",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈",
+     "question": "你们 Red Lion 谱望向 N-Tron PoE 之外,value DIN 轨第二源有位吗?OEM 变体可谈。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@mac-solutions.co.uk 具名 David",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈",
+     "question": "你们 Red Lion 谱望向 N-Tron PoE 之外,value DIN 轨第二源有位吗?OEM 变体可谈。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STI-288GP",
+     "angle": "开口角度=「Red Lion/N-Tron 谱旁的 DIN 轨 value 第二源」:STI-288GP 以价差替代位进(HD Technology 话术模板英版),OEM 变体可谈",
+     "question": "你们 Red Lion 谱望向 N-Tron PoE 之外,value DIN 轨第二源有位吗?OEM 变体可谈。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi David,\n\nThirty years of industrial data communication out of Redditch with Red Lion, N-Tron and Sixnet on the wall - plus an OT-security content program that tells me you sell on engineering merit, not on logos.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.\n\nOne question: alongside the N-Tron PoE range, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?\n\nIf useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-533",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Millbeck(Millbeck Communications Ltd;Leeds LS17 9BF 6 Arena Park;**Teltonika Diamond Partner(官方最高级)16+ 年**):全谱 Teltonika——RUT 4G/5G 路由 + **TSW/SWM 交换谱(含 TSW202 管理工业 PoE+、SWM280/281/282 管理型 PoE)** + IoT SIM + 天线 + RMS rms.credit;**公用事业垂直深绑(水/气/电/热网络运营商 SCADA/智能计量 LTE-M/NB-IoT)**;自述开放式站位『without vendor lock-in, fully compatible with Cisco, Juniper, HPE』 | R65 深挖:Wetherby 电信 VoIP 老谱 2002;Finder 家族富二代 2024 接棒",
+    "inference": "Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求",
+    "hypothesis": "开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎"
+   },
+   "dimensions": {
+    "背景深描": "MILLBECK COMMUNICATIONS LIMITED(Companies House 04501248;Wetherby 西约克郡;2002 年 **Paul Graham Finder = 创始董事总经理(1960 生,2002-08 在任至今)**;谱型=英国商业通信服务/VoIP/宽带/OLT(Fibre/ADSL/EFM/移动 4G);Daniel Finder(1991 生)+Benjamin Finder(1994 生)2024-11 新任董事——富二代接棒家族谱",
+    "芯片与在用型号": "【推断】Diamond 最高级=与 Teltonika 深绑,原档案『只有 8 口』切入点已被 SWM 管理型 PoE 新品推翻;但其宣传语自家写『不锁 vendor、兼容 Cisco/Juniper/HPE』——开放叙事留了第二源缝;公用事业项目招标常有双源要求",
+    "关键人KP": "Paul Graham Finder = Founder & Managing Director(核查处 1960 生);Daniel/Benjamin Finder = 2024-11 新任双董事",
+    "关注点与资质": "Teltonika（Diamond 最高级） ",
+    "优缺点SWOT": "S:Diamond 最高级+公用事业深垂直+16 年 / W:Teltonika 排他深绑 / O:招标双源/交期备胎对照位(其自写不锁 vendor) / T:Diamond 忠诚冲突",
+    "Saga产品适配": "Diamond 排他谱外的招标双源/竞价对照位(PS:原『只有8口』切入点已被 SWM 谱推翻,修正)"
+   },
+   "swot_text": "- **S**:Diamond 最高级+公用事业深垂直+16 年\n- **W**:Teltonika 排他深绑\n- **O**:招标双源/交期备胎对照位(其自写不锁 vendor)\n- **T**:Diamond 忠诚冲突",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Millbeck is a Teltonika Diamond Partner…TSW/SWM switch range: unmanaged industrial TSW switches and SWM managed PoE switches for enterprise ",
+     "quote": "Millbeck is a Teltonika Diamond Partner…TSW/SWM switch range: unmanaged industrial TSW switches and SWM managed PoE switches for enterprise LAN, CCTV, smart building and industrial automation…without vendor lock-in",
+     "url": "https://millbeck.co.uk/teltonika-switches/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed ",
+     "quote": "Millbeck supplies multi-network IoT SIMs, industrial routers…water, gas, electricity and heat network operators…private APN services, fixed private IP addressing for SCADA",
+     "url": "https://millbeck.co.uk/solutions/utilities"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "Millbeck Communications Ltd 04501248 · Wetherby 2002 · Paul Finder 创始 MD+2024 年 Daniel/Benjamin Finder 新董事",
+     "quote": "FINDER, Paul Graham Role Active: Director Date of birth: August 1960 … Founded in 2002 by Paul Finder … The founders of Millbeck Communications is Paul Finder",
+     "url": "https://tracxn.com/d/companies/millbeck-communications/__txNX05Uaoy5lfW7NMbICWfCeiasg7vXQEi5eN4DW-C0"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Paul Graham Finder",
+     "role": "Founder & Managing Director",
+     "contact": "经 millbeck.co.uk",
+     "status": "Companies House + Tracxn 双源",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/04501248/officers"
+    },
+    {
+     "name": "Daniel Finder",
+     "role": "Director(2024-11 新任)",
+     "contact": "同上",
+     "status": "同上",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "SWM 交换谱上市后的客户接受度与价带",
+    "公用事业招标里双源要求出现频度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · [双源对照] 招标场景页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎",
+     "question": "公用事业招标要双源、或 Teltonika 交期紧时,你们对照件现用哪家?非 Teltonika 的文档全对照位可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · hello@millbeck.co.uk 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎",
+     "question": "公用事业招标要双源、或 Teltonika 交期紧时,你们对照件现用哪家?非 Teltonika 的文档全对照位可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Diamond 排他谱之外的竞价对照/双源位」:STC-424 不做替换做双源——其 SWM 谱缺『非 Teltonika 品牌对照件』,招标双源场景与 Teltonika 交期紧时的备胎",
+     "question": "公用事业招标要双源、或 Teltonika 交期紧时,你们对照件现用哪家?非 Teltonika 的文档全对照位可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Millbeck team,\n\nSixteen years as a Teltonika Diamond Partner with utility networks on your customer list - and your own switching page still says without vendor lock-in. That sentence is exactly where a second source lives.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - not a Teltonika replacement; the documented comparison unit for tender dual-source requirements and tight-lead-time weeks, white-label friendly.\n\nOne question: when a utility tender asks for a second source, or Teltonika lead time stretches, which switch do you quote as the alternative today - and would a documented unit earn a bench test for that slot?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-425",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商 | R65 深挖:Cardiff 电信 2016;Bennett+Matthews-Clark 双董事名位",
+    "inference": "商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』",
+    "hypothesis": "开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入"
+   },
+   "dimensions": {
+    "背景深描": "TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**Lee Gardner Bennett = Director(1987 生,2018-04 在任)+ Craig John Matthews-Clark = Director(1988 生,2017-02 在任)**;61900 Other telecommunications activities;Bridgend 出/入口汇汇(295 出/55 入船)",
+    "芯片与在用型号": "【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』",
+    "关键人KP": "Lee Gardner Bennett(1987 生,2018 在任)+ Craig John Matthews-Clark(1988 生,2017 在任)= 双 Director",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价带的全新 value 位(生命周期叙事) / T:翻新 Cisco 低价惯性",
+    "Saga产品适配": "双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)"
+   },
+   "swot_text": "- **S**:新机+翻新双轨+五大洲供应链\n- **W**:翻新吃低价叙事\n- **O**:翻新价带的全新 value 位(生命周期叙事)\n- **T**:翻新 Cisco 低价惯性",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioni",
+     "quote": "global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioning, network and cabling deployment",
+     "url": "https://www.zoominfo.com/c/telasys-ltd/412222510"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Telasys Ltd Reseller Cardiff info@telasys.com",
+     "quote": "Telasys Ltd Reseller Cardiff info@telasys.com",
+     "url": "https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "Telasys Ltd 09975808 · 2016 创 · Cardiff/Bridgend · Lee Bennett+Craig Matthews-Clark 双董事 · 进出口汇 295/55 船",
+     "quote": "BENNETT, Lee Gardner Role Active: Director Date of birth: July 1987 … MATTHEWS-CLARK, Craig John Role Active: Director",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Lee Gardner Bennett",
+     "role": "Director",
+     "contact": "经 telasys.co.uk",
+     "status": "Companies House 09975808 实名",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers"
+    },
+    {
+     "name": "Craig John Matthews-Clark",
+     "role": "Director",
+     "contact": "同上",
+     "status": "同上+companycheck 双源",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "新机 vs 翻新在其营收占比",
+    "其 ISP 客户 24 口 PoE 采购场景(接入/机房)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · [新机 at 翻新价] 对位页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入",
+     "question": "你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@telasys.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入",
+     "question": "你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入",
+     "question": "你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Telasys team,\n\nNew and refurbished telecom hardware across five continents, with asset recovery and decommissioning on top - you know better than anyone what a switch costs at every point of its lifecycle.\n\nWe build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $180 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.\n\nOne question: do your buyers ever ask for new hardware at refurbished prices - and would a documented new unit in that band earn a listing test beside your second-life shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-434",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Interstroom informatietechnologie b.v.(Hengelo Demmersweg 3;KVK 52775054,5 人;**mikrotiknederland.nl 运营者**):1995 起做网络安全;**多名 MikroTik 认证工程师在册+Twente 地区官方 MikroTik 培训中心**(Hengelo 授课,认证讲师);谱=咨询+交付+安装+维护+培训五位一体 | R65 深挖:Trooster 31 年谱主位;iVoIP 品牌谱",
+    "inference": "荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位",
+    "hypothesis": "开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)"
+   },
+   "dimensions": {
+    "背景深描": "Interstroom Informatietechnologie B.V.(KvK 52775054,1995 创，Hengelo Demmersweg 3;**Joris Trooster = Owner 1995-至今(31 年!)**——前荷兰代表 Olympisch roeier(1997-2000 奥运赛艇)+University of Twente 力量训练师；谱型=IT 咨询互联网应用+iVoIP(品牌)+Outlet Management(多手门商业名)",
+    "芯片与在用型号": "【推断】荷兰版 Strato Networks:MikroTik 专精服务商+官方培训点;其客户交付(B2B 网络项目)有真实随单,课堂有教具位",
+    "关键人KP": "Joris Trooster = Owner 1995-至今(@interstroom.nl RocketReach 提示+RocketReach 自曝)",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:官方培训点+多名认证工程师+30 年安全谱 / W:5 人小体量 / O:教具+交付随单双线 / T:师者红线",
+    "Saga产品适配": "Twente 官方 MikroTik 培训点的对照教具样本位(客户交付随单为二线留 NOTE)"
+   },
+   "swot_text": "- **S**:官方培训点+多名认证工程师+30 年安全谱\n- **W**:5 人小体量\n- **O**:教具+交付随单双线\n- **T**:师者红线",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Interstroom IT adviseert en levert MikroTik oplossingen en heeft meerdere gecertificeerde MikroTik Engineers in dienst…officiële MikroTik tr",
+     "quote": "Interstroom IT adviseert en levert MikroTik oplossingen en heeft meerdere gecertificeerde MikroTik Engineers in dienst…officiële MikroTik trainingen in Twente…erkende en gecertificeerde MikroTik trainer",
+     "url": "https://mikrotiknederland.nl/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Kvk. Enschede 52775054…Breukersweg 15…telt 5 werknemers",
+     "quote": "Kvk. Enschede 52775054…Breukersweg 15…telt 5 werknemers",
+     "url": "https://webdesignergids.net/hengelo/interstroom-informatietechnologie-bv/"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "Interstroom BV KvK 52775054 Hengelo 1995 创；Joris Trooster Owner 1995-至今，多手门商业名+奥运赛艇人血统",
+     "quote": "1995 - now Owner @ Interstroom informatietechnologie b.v. … 2000 - 2015 Voorzitter @ Stichting NLroei … Interstroom - iVoIP - Outlet Management … Demmersweg 3 7556BN Hengelo",
+     "url": "https://rocketreach.co/joris-trooster-email_116562226"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Joris Trooster",
+     "role": "Owner/Eigenaar(31 年业主,前奥监羶人数)",
+     "contact": "@interstroom.nl(模式提示)",
+     "status": "rocketreach 自曝",
+     "source": "https://rocketreach.co/joris-trooster-email_116562226"
+    }
+   ],
+   "unknowns56": [
+    "课桌对照教具开放度",
+    "客户交付里 PoE 件随单频度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 教具样本合作一页",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)",
+     "question": "你们 Hengelo 的 MikroTik 课上,PoE 段有没有对照教具?8 口文档全小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@interstroom.nl 开口",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)",
+     "question": "你们 Hengelo 的 MikroTik 课上,PoE 段有没有对照教具?8 口文档全小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-28DGGPM",
+     "angle": "开口角度=「官方培训点的课桌对照教具样本位」:STC-28DGGPM 做其 PoE 段对照教具;同时留其客户交付随单二线(NOTE)",
+     "question": "你们 Hengelo 的 MikroTik 课上,PoE 段有没有对照教具?8 口文档全小机当对照样本可评吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Interstroom team,\n\nThe official MikroTik training point for Twente, with certified engineers who also deliver and maintain customer networks - you see both the classroom bench and the customer rack.\n\nWe build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Dutch documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your training bench can carry a documented comparison SKU for the PoE segment without any brand pressure.\n\nOne question: on your Hengelo training bench, does the PoE segment have a documented comparison device - and would a sample unit with a full test pack be worth evaluating?\n\nIf useful, I can send one unit. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-440",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**) | R65 深挖:Grijspaarde 实体谱位置=业主讳;info@ 官方自曝",
+    "inference": "十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面",
+    "hypothesis": "守档备养:不重复投入,深挖引用 A-260 已建档事实;合并与否待用户裁决,出信也走 A 面管理"
+   },
+   "dimensions": {
+    "背景深描": "GPE Networks B.V.(KvK 99477238,Wateringweg 133, 2031EG Haarlem;**Maurice van der Grijspaarde = Contact persoon/业主(stagemarkt 自曝+实体名)——GPE Holding B.V. Algemeen bestuurder 2026 谱位**;谱型=电脑咨询+IT 设备批发+电脑设施运维 (SBI 62200/46500/62900)",
+    "芯片与在用型号": "【推断】十证高阶顾问+MSP 实体;A 侧档案已在 A 谱(更深),本档为 CSV 双录面",
+    "关键人KP": "Maurice van der Grijspaarde = Contactpersoon/KvK 实体业主位",
+    "关注点与资质": "MikroTik 认证顾问 10 证全拿 | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:十证全拿+SMB MSP 实体+复杂方案专长 / W:双档未定 / O:(A 面在管的)SMB 网络管理换代随单 / T:重复触达风险",
+    "Saga产品适配": "与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并"
+   },
+   "swot_text": "- **S**:十证全拿+SMB MSP 实体+复杂方案专长\n- **W**:双档未定\n- **O**:(A 面在管的)SMB 网络管理换代随单\n- **T**:重复触达风险",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "10 证全拿;2015 年起专职 MikroTik,专做复杂场景方案",
+     "quote": "10 证全拿;2015 年起专职 MikroTik,专做复杂场景方案",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "GPE Networks(荷兰 SMB 一站式 MSP):系统管理/网络管理/云/备份/咨询/网站托管六线;评论墙实锤 MikroTik 路由排障修配案件(Maurice 具名)",
+     "quote": "GPE Networks(荷兰 SMB 一站式 MSP):系统管理/网络管理/云/备份/咨询/网站托管六线;评论墙实锤 MikroTik 路由排障修配案件(Maurice 具名)",
+     "url": "profile/A/A-260-Maurice"
+    },
+    {
+     "dim": "R65 实名+登记位",
+     "text": "GPE Networks B.V. KvK 99477238 · Haarlem Wateringweg 133 · Maurice van der Grijspaarde· GPE Holding 2026 管理口径",
+     "quote": "Contact persoon: Maurice van der Grijspaarde … GPE Networks B.V. Wateringweg 133 2031EG Haarlem … GPE Holding B.V., Algemeen bestuurder Van 2026",
+     "url": "https://companyinfo.nl/organisatieprofiel/activiteiten-op-het-gebied-van-computerconsultancy-en-beheer-van-computerfaciliteiten/gpe-networks-b-v-haarlem-99477238-000040775445"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Maurice van der Grijspaarde",
+     "role": "Contact persoon（实体业主口径）",
+     "contact": "info@gpe-networks.com",
+     "status": "stagemarkt + detelefoongids 双自曝",
+     "source": "https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a"
+    }
+   ],
+   "unknowns56": [
+    "双档合并裁决(用户)",
+    "SMB 客户网络换代件随单节奏(A 面在跟)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并",
+     "question": "(A 面管理)SMB 客户网络管理换代件的 value 随单",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-444",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Robbin van den Berg - RvdB ICT(IJsselstein;rvdbict.nl;MTCRE+MTCSE【2026-09-23 官方名录复核确认在档】;Info@rvdbict.nl) | R65 深挖:Rvdb 一人实体；MikroTik/UniFi/pfSense/Zabbix 技谱型注自曝",
+    "inference": "乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营",
+    "hypothesis": "守档备养:具名引见,等其 SME 客户网络/安全项目信号"
+   },
+   "dimensions": {
+    "背景深描": "RvdB ICT(rvdbict.nl;**Robbin van den Berg = 实体谱主位（官网自己名在同自曝）**;谱型=一人系 ICT 全包（netwerkbeheer/firewall/VDSL/光纤/IPTV/备份）;LinkedIn 专长自曝：MikroTik, Ubiquiti UniFi, pfSense firewall, Zabbix",
+    "芯片与在用型号": "【推断】乌得勒支圈 SME IT 商(在档认证顾问,安全方向);实体站点在营",
+    "关键人KP": "Robbin van den Berg = 实体谱主位（rvdbict.nl 官网+LinkedIn 双自曝)",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表",
+    "优缺点SWOT": "S:官方名录在档+安全方向 / W:小体量 / O:乌得勒支 SME 随单 / T:失联",
+    "Saga产品适配": "在档认证顾问备养(MTCSE 安全方向):具名通道,项目信号再激活"
+   },
+   "swot_text": "- **S**:官方名录在档+安全方向\n- **W**:小体量\n- **O**:乌得勒支 SME 随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "另经 MikroTik 官方认证顾问名录确认其为认证顾问,持 MTCRE、MTCSE;驻 IJsselstein",
+     "quote": "另经 MikroTik 官方认证顾问名录确认其为认证顾问,持 MTCRE、MTCSE;驻 IJsselstein",
+     "url": "客户名单_反向信号_2026-09.csv(2026-09-23"
+    },
+    {
+     "dim": "R65 实名/专长",
+     "text": "RvdB ICT · Robbin van den Berg 一人 ICT 全包 · MikroTik/UniFi/pfSense/Zabbix 专长",
+     "quote": "# RVDBICT, alles op gebied van ICT # Robbin van den Berg … Specialties: • Mikrotik • Ubiquiti Unifi • Pfsense firewall • Zabbix",
+     "url": "https://www.linkedin.com/in/robbin-van-den-berg-03469038/"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Robbin van den Berg",
+     "role": "Eigenaar/谱主位实体",
+     "contact": "经 rvdbict.nl",
+     "status": "rvdbict.nl+LinkedIn 双自曝",
+     "source": "https://rvdbict.nl/"
+    }
+   ],
+   "unknowns56": [
+    "公司团队与安全服务谱",
+    "SME 客户项目频度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,等其 SME 客户网络/安全项目信号",
+     "question": "你在乌得勒支圈做 SME 安全/网络项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,等其 SME 客户网络/安全项目信号",
+     "question": "你在乌得勒支圈做 SME 安全/网络项目时,PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-438",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Jeroen Bleuel(Reduzum(弗里斯兰乡村);MTCNA+MTCRE+MTCSE 三证;**英德荷三语**;jeroen.bleuel@gmail.com;无网站) | R65 深挖:同名噪声=守档准由",
+    "inference": "三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户",
+    "hypothesis": "守档备养:具名引见;三语=若其客户谱含德国边界企业,是荷德双区观察口"
+   },
+   "dimensions": {
+    "背景深描": "Jeroen Bleuel(荷兰；R65 搜索无果——溴名通 digifotopro 等同名噪声=守档准由)",
+    "芯片与在用型号": "【推断】三语三证个人顾问,弗里斯兰乡村区;语言优势暗示其服务跨境(德边境近)或外企客户",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE+MTCSE ",
+    "优缺点SWOT": "S:三证+三语跨境潜力 / W:无公开谱 / O:荷德边界企业谱随性 / T:失联",
+    "Saga产品适配": "三语三证个人顾问备养:具名通道,跨境谱信号再激活"
+   },
+   "swot_text": "- **S**:三证+三语跨境潜力\n- **W**:无公开谱\n- **O**:荷德边界企业谱随性\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE;英德荷三语",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCSE;英德荷三语",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜出同名噪声（digifotopro 同名，不采信）;R65 守档准由",
+     "quote": "(web_search 2026-10-07：同名者 digifotopro 用户，与 MikroTik 无联）",
+     "url": "(沙箱核验日志)"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "现证在档与生计形态",
+    "跨境客户谱(德语企业?)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;三语=若其客户谱含德国边界企业,是荷德双区观察口",
+     "question": "你的客户谱里有没有德语区企业?项目里 PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见;三语=若其客户谱含德国边界企业,是荷德双区观察口",
+     "question": "你的客户谱里有没有德语区企业?项目里 PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-433",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Fokko van den Bosch(Den Haag 海牙;it-support.nl;MTCNA+MTCRE;fokko@it-support.nl 具名公司域)",
+    "inference": "海牙本地 IT 支持商(具名公司域,站点单薄);SME IT 支持谱",
+    "hypothesis": "守档备养:具名引见,等其 SME 客户网络更新信号"
+   },
+   "dimensions": {
+    "背景深描": "Fokko van den Bosch(荷兰深谱；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】海牙本地 IT 支持商(具名公司域,站点单薄);SME IT 支持谱",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问 MTCNA+MTCRE ",
+    "优缺点SWOT": "S:具名公司域直达 / W:公开谱薄 / O:海牙 SME 项目随单 / T:失联",
+    "Saga产品适配": "海牙 IT 支持顾问备养:具名通道,项目信号再激活"
+   },
+   "swot_text": "- **S**:具名公司域直达\n- **W**:公开谱薄\n- **O**:海牙 SME 项目随单\n- **T**:失联",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;it-support.nl 公司域",
+     "quote": "CSV:MikroTik 认证顾问 MTCNA+MTCRE;it-support.nl 公司域",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "(沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "公司实体与团队规模",
+    "SME 客户谱"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 具名技术短引见",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,等其 SME 客户网络更新信号",
+     "question": "你在海牙做 SME IT 支持时,网络/PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 放盘",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名引见,等其 SME 客户网络更新信号",
+     "question": "你在海牙做 SME IT 支持时,网络/PoE 件现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-435",
+   "researched_on": "2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "JPK Consulting(Zwolle Fluessen 72;**注意与 JKP Consultancy Groep(jkp-ictbeheer.nl,Linux 管理 25 人)非同一家,勿混**;官方类目=Groothandel in ICT-apparatuur(ICT 设备批发类);『Leveren en adviseren van wifi netwerken』(WiFi 网络交付咨询);038-2340333/06-21849852;公开足迹薄,小微体量)",
+    "inference": "小微 WiFi 交付商:MikroTik Reseller 挂证身份重于实际货架;WiFi 项目里 AP 的 PoE 供电随单是其天然场景但量级小",
+    "hypothesis": "守档备养:具名/wifi 项目谱问清后,PoE 供件(AP 供电)随单信号再激活"
+   },
+   "dimensions": {
+    "背景深描": "JPK Consulting(荷兰；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】小微 WiFi 交付商:MikroTik Reseller 挂证身份重于实际货架;WiFi 项目里 AP 的 PoE 供电随单是其天然场景但量级小",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:WiFi 交付=PoE 天然随单 / W:小微足迹薄 / O:AP 供电 PoE 随单 / T:失联/停业",
+    "Saga产品适配": "小微 WiFi 交付商备养:问清活跃度与 AP 谱后再定 activation"
+   },
+   "swot_text": "- **S**:WiFi 交付=PoE 天然随单\n- **W**:小微足迹薄\n- **O**:AP 供电 PoE 随单\n- **T**:失联/停业",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "JPK Consulting in Zwolle, Fluessen 72…Groothandel in ICT-apparatuur…Leveren en adviseren van wifi netwerken",
+     "quote": "JPK Consulting in Zwolle, Fluessen 72…Groothandel in ICT-apparatuur…Leveren en adviseren van wifi netwerken",
+     "url": "https://www.telefoonboek.nl/bedrijven/t7798164/zwolle/jpk-consulting/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "(沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "WiFi 项目年量级与 AP 谱(Ubiquiti/MikroTik?)",
+    "是否还在活跃经营"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验(电话/网站)",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名/wifi 项目谱问清后,PoE 供件(AP 供电)随单信号再激活",
+     "question": "你们的 WiFi 项目里,AP 供电的 PoE 接层现随哪家?(先确认活跃度)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "守档备养:具名/wifi 项目谱问清后,PoE 供件(AP 供电)随单信号再激活",
+     "question": "你们的 WiFi 项目里,AP 供电的 PoE 接层现随哪家?(先确认活跃度)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

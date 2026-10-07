@@ -1,0 +1,537 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 11 批（法国 5 + 西班牙 2)",
+ "scope": "B-252 Sewan / B-248 Osmozis / B-231 ALLNET France / B-246 NETCOM / B-522 APLUS / B-482 Todo Telecom / B-469 Infortisa",
+ "records": [
+  {
+   "code": "B-252",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面 | R65 深挖:SEWAN 法国 ETI 巨号;同代电信云族 75M€/自建 Sophia",
+    "inference": "SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链",
+    "hypothesis": "开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署"
+   },
+   "dimensions": {
+    "背景深描": "SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de Goriaïnoff = PDG & 联合创始人**;Philippe Moutinho 同站 PDG 口径(疑子站/分公司)",
+    "芯片与在用型号": "【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链",
+    "关键人KP": "Alexis de Goriaïnoff = PDG & Cofondateur(官网 + LesEchos/BFM 双源);Philippe Moutinho 同城站 PDG 位",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN 牌）渠道伙伴部署随单位 / T:运营型血易拐谱对我不熟",
+    "Saga产品适配": "欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用"
+   },
+   "swot_text": "- **S**:€75M 投资+450 人+55k 客户+4国\n- **W**:不直购硬件\n- **O**:OEM 白标(SEWAN 牌）渠道伙伴部署随单位\n- **T**:运营型血易拐谱对我不熟",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "75 millions d'euros auprès de Kartesia en novembre 2019…450 collaborateurs…55 000 entreprises clientes dans 4 pays européens",
+     "quote": "75 millions d'euros auprès de Kartesia en novembre 2019…450 collaborateurs…55 000 entreprises clientes dans 4 pays européens",
+     "url": "https://www.frenchweb.fr/telecoms-75-millions-deuros-pour-loperateur-b2b-sewan/384659"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte",
+     "quote": "cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte",
+     "url": "https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067"
+    },
+    {
+     "dim": "R65 体量+位",
+     "text": "Sewan 2007 创 · 4 创始人同人离职创办 · 300-1000 员工 · 75M€ 收 · Sophia 生态 · 西班牙已并入 · 德/意/荷在望",
+     "quote": "Alexis de Goriaïnoff a créé Sewan en 2007 … 75 millions d’euros de chiffre d’affaires et emploie 300 personnes … Sophia … Nourrissant des ambitions européennes",
+     "url": "https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Alexis de Goriaïnoff",
+     "role": "PDG et Cofondateur(集团 CEO/联合创始人)",
+     "contact": "经 sewan.fr 联系页",
+     "status": "sewan.fr + business.lesechos.fr 双源",
+     "source": "https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php"
+    }
+   ],
+   "unknowns56": [
+    "SEWAN 渠道伙伴部署级 SME 接入设备（含 PoE 交换）现供目录",
+    "白标 OEM 供应链现有没有"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · SEWAN 牌 OEM 白标套件页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署",
+     "question": "你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · contact@sewan.com 具名开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署",
+     "question": "你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署",
+     "question": "你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi SEWAN team,\n\n450 people, a €75M war chest from Kartesia, 55k B2B customers and a four-country footprint (France / Spain / Belgium / Germany) - Sewan is the heavyweight operator of the European indirect-sale channel.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to Sewan white-label. Reference: $180 USD EXW (2026-09-29) - designed to become the default PoE access SKU your channel partners deploy under the Sewan brand.\n\nOne question: for your channel partners' SME deployments, which PoE access source supplies the installations today - and would a documented white-label unit earn a pilot in your catalog?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-248",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架",
+    "inference": "「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)",
+    "hypothesis": "开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈"
+   },
+   "dimensions": {
+    "背景深描": "Osmozis S.A.(Montpellier;2005 年 Gérard Tremblay + Yves Boulot 联合创;谱型=露营地/度假村 WiFi & IoT 数字化欧洲头号专家——2600+ sites/108 员工/2023 €12.8M;2017 Euronext 上市(FR0013231180),2024-05 被 Passman 集团收购 €15/股 OPA;**KP:Gérard Tremblay+Yves Boulot 联合创始人;Pierre-Benoit Labbé 总经理(现任)**",
+    "芯片与在用型号": "【推断】「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)",
+    "关键人KP": "Gérard Tremblay + Yves Boulot = 联合创始人;Pierre-Benoit Labbé = Directeur Général(现任, Passman 收购在架仍原位)",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:法国第一露营 WiFi 运营+自牌血统 / W:主路径 WiFi harvest 不是 PoE / O:bornes 组网 backhaul/备触 PoE 刚需随单 / T:其自研 AP 和我 outdoor 在我司面同向",
+    "Saga产品适配": "露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）"
+   },
+   "swot_text": "- **S**:法国第一露营 WiFi 运营+自牌血统\n- **W**:主路径 WiFi harvest 不是 PoE\n- **O**:bornes 组网 backhaul/备触 PoE 刚需随单\n- **T**:其自研 AP 和我 outdoor 在我司面同向",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "OSMOZIS S.A. est opérateur majeur de réseaux Wifi et de l'Internet des Objets (IoT) dédiés aux campings",
+     "quote": "OSMOZIS S.A. est opérateur majeur de réseaux Wifi et de l'Internet des Objets (IoT) dédiés aux campings",
+     "url": "https://www.facebook.com/osmozis.wifi/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay",
+     "quote": "Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay/OsmoPower",
+     "url": "https://www.gestion-camping.com/fournisseurs-camping/646/osmozis.html"
+    },
+    {
+     "dim": "R65 谱位+收购",
+     "text": "Osmozis 露营度假 WiFi 欧洲一号 2600+ 站 · 108人/12.8M€(2023) · 2017 Euronext 上市 FR0013231180 · 2024-05 Passman 15€/股 收购",
+     "quote": "Osmozis, spécialiste de la transition digitale des campings … équipe plus de 2 600 sites en Europe … 108 personnes … 12,8 M€ … annonce rejoindre le groupe Passman … Gérard Tremblay et Yves Boulot, cofondateurs d’Osmozis",
+     "url": "https://gazette-du-midi.fr/au-sommaire/entreprises/osmozis-specialiste-de-la-digitalisation-des-campings-accelere-son"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Gérard Tremblay",
+     "role": "Co-fondateur",
+     "contact": "经 osmozis.com",
+     "status": "gazette-du-midi 图照双源",
+     "source": "https://gazette-du-midi.fr/au-sommaire/entreprises/osmozis-specialiste-de-la-digitalisation-des-campings-accelere-son"
+    },
+    {
+     "name": "Yves Boulot",
+     "role": "Co-fondateur",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同上"
+    },
+    {
+     "name": "Pierre-Benoit Labbé",
+     "role": "Directeur Général(总经理)",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "自产 bornes 组网中 PoE 接层/回程现供(每个 bornes/共 camp LAN 中心）",
+    "Alternext 上市计划构成谱压力(公众化后采购单层面）"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · bornes PoE 接线部署页(核心+节子双联）",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈",
+     "question": "你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 样机 OEM 贴牌提案",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈",
+     "question": "你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈",
+     "question": "你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Osmozis team,\n\nFrance's leading WiFi-and-IoT operator for campgrounds with your own bornes, your own software stack (OsmoGestion / OsmoPay / OsmoPower…), and a network story so good it once had you looking at Alternext - bornes everywhere, and every single one of them is a PoE load.\n\nWe build PoE switches for exactly that job: a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) for the camp LAN core, and an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class, $74.8 EXW) for the individual borne cabinets. Full English/French documentation, fully open to Osmozis own branding.\n\nOne question: across your bornes and camp LAN installations, which PoE source are your borne boxes and the camp core running on today - and would a documented OEM unit earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-231",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配 | R65 深挖:Gonon 家族新创 2023;谱与德国母体联动候选(供联动判断;不证不动)",
+    "inference": "Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂",
+    "hypothesis": "开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护"
+   },
+   "dimensions": {
+    "背景深描": "ALLNET France SAS(SIREN 979508009,2023-09-14 创立,SAS €50K 本，Carcassonne 96 Rue Lamarck;**Bastien Gonon = Président & CEO & Co-Fondateur(TU Delft aerospace+航天咨询转电信血统)；Thierry, Antoine, Raymond Gonon 曾 Président→Directeur Général(gramps/亲联络链)；Tjorben Teunissen 联合创始人；Gabriel Janicot Head of Product;1-10 员工谱注「Votre distributeur pour tout ce qui concerne les réseaux, les télécommunications et l'IoT」(谱型注:R65 登记 SIREN 979508009 显示 2023 新创——谱/B-138 Bauer 1991 母体「ALLNET」同属不明，谱位作同族候选标记)",
+    "芯片与在用型号": "【推断】Allnet France 是集团大欧洲站的法式落地,与 Nordic/Italia/Greece 同源;品牌抄(ALLNET 统品值)+MikroTik Master 挂",
+    "关键人KP": "Bastien Gonon = Président/CEO/Co-Fondateur(TU Delft 航空+咨询血统);Tjorben Teunissen 联合创始人;Thierry Gonon 家族谱位",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:集团欧洲多站+品牌一致 / W:多站决策散，入位想 / O:集团全谱 value PoE 合合 / T:集团内在异构",
+    "Saga产品适配": "ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）"
+   },
+   "swot_text": "- **S**:集团欧洲多站+品牌一致\n- **W**:多站决策散，入位想\n- **O**:集团全谱 value PoE 合合\n- **T**:集团内在异构",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Aust",
+     "quote": "Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe",
+     "url": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "R65 登记+KP",
+     "text": "ALLNET France SAS · SIREN 979508009 · 2023-09-14 创 · Carcassonne · Bastien Gonon P+CEO+CoF · 1-10 员工",
+     "quote": "Président : GONON Bastien ; Directeur général : GONON Thierry … Date d'immatriculation : 14/09/2023 … Votre distributeur pour tout ce qui concerne les réseaux, les télécommunications et l'IoT",
+     "url": "https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Bastien Gonon",
+     "role": "Président / CEO / Co-Fondateur",
+     "contact": "经 allnet.de/allnet France 页",
+     "status": "intch + lefigaro 双源自曝",
+     "source": "https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009"
+    },
+    {
+     "name": "Tjorben Teunissen",
+     "role": "Co-Founder",
+     "contact": "同上",
+     "status": "prospeo 自曝",
+     "source": "https://prospeo.io/c/allnet-france"
+    }
+   ],
+   "unknowns56": [
+    "法国站采购/库存与集团徽郑州出列关系",
+    "Allnet France 谱已覆盖 PoE SKU 现状"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Allnet 集团 Turrey 联动术页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护",
+     "question": "ALLNET 集团经 NORDIC/Italia/Greece 谱的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sales@allnetfrance.fr 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护",
+     "question": "ALLNET 集团经 NORDIC/Italia/Greece 谱的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ALLNET 集团合合」:如第 1/3 波已入 NORDIC/GREECE,France 站用同一集团 value PoE 集团合合术+具名 sales@ 开口;等车欧站联动推入后的维护",
+     "question": "ALLNET 集团经 NORDIC/Italia/Greece 谱的 value PoE 档现供哪家？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi ALLNET France team,\n\nThird ALLNET branch on our map after Nordic and Greece - the EUR 500M Allnet Network is the exact multi-country flow a value PoE line is built to slide through.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that would slot uniformly across the Allnet Group shelf.\n\nOne question: across the Group, which PoE access SKU holds the value tier today - and would a group-level second-source earn a pilot at the France branch?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-246",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP(2013)+linknet(2021)+Phenix Partner(2021);高度结构化『数字法国产』分销 | R65 深挖:KP 候选（Pantin 双 Benamrouche 谱）；未最终证=守档准由",
+    "inference": "NETCOM GROUP 承载 FRANCE NUMERIQUE 集团并维护自有三层品牌——Master 挂证连体式自有品牌",
+    "hypothesis": "开口角度=「集团自牌之外的 value PoE 第 4 品牌」——STC-424 以其新品牌位置或集层 value 楼价档入（RMA 三件套）"
+   },
+   "dimensions": {
+    "背景深描": "NETCOM GROUP(法国;R65 检索多名合项：**Pantin NETCOM GROUP(SIRET 453006314 00042)= Jamal Assraoui Président+Mohamed/Said Benamrouche 双 Directeurs Généraux 通讯/安全谱**——口径高度匹配谱本体；另有：Paris 75010 75020 SARL 同名/45 通讯 多同六，均非谱本体（R65 均不采信）",
+    "芯片与在用型号": "【推断】NETCOM GROUP 承载 FRANCE NUMERIQUE 集团并维护自有三层品牌——Master 挂证连体式自有品牌",
+    "关键人KP": "候选：Jamal Assraoui = Président;Mohamed Benamrouche+Said Benamrouche = 双 DG(Pantin 谱位；候选，未最终确证）",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:集团自持品牌+48 人团队 / W:自有品牌压谱 / O:STC-424 Phenix 之外第 4 线 / T:集团重品牌密度预售时机",
+    "Saga产品适配": "FRANCE NUMERIQUE 集团自牌之外的 value PoE 第 4 线入端"
+   },
+   "swot_text": "- **S**:集团自持品牌+48 人团队\n- **W**:自有品牌压谱\n- **O**:STC-424 Phenix 之外第 4 线\n- **T**:集团重品牌密度预售时机",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "NETCOM GROUP…41 RUE DELIZY 93500 PANTIN…Fabrication, commerce de gros de matériel, équipements de télécommunications",
+     "quote": "NETCOM GROUP…41 RUE DELIZY 93500 PANTIN…Fabrication, commerce de gros de matériel, équipements de télécommunications",
+     "url": "https://www.manageo.fr/entreprises/453006314.html"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Phenix Partner…linknet…NETCOM GROUP，Président actuellement une PERSONNE MORALE, FRANCE NUMERIQUE",
+     "quote": "Phenix Partner…linknet…NETCOM GROUP，Président actuellement une PERSONNE MORALE, FRANCE NUMERIQUE",
+     "url": "https://www.manageo.fr/entreprises/453006314.html"
+    },
+    {
+     "dim": "R65 候选谱",
+     "text": "Pantin NETCOM GROUP SIRET 453006314 = Assraoui prez + Benamrouche 双 DG 位通讯谱；候选未最终证（Paris 75010/75020 同名他人已排除）",
+     "quote": "Dirigeant(s) de NETCOM GROUP sont : JAMAL ASSRAOUI Président, Mohamed BENAMROUCHE Directeur général, Said BENAMROUCHE Directeur général",
+     "url": "https://edecideur.info/edecideur.php?q=198020130215benmoh-benamrouche-mohamed-directeur-general-4652z-45300631400042-netcom-group-58-rue-denis-papin-93500-pantin"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Jamal Assraoui",
+     "role": "Président(Pantin NETCOM GROUP, 候选）",
+     "contact": "经 58 Rue Denis Papin 93500 Pantin 总线",
+     "status": "edecideur 候选，未最终证",
+     "source": "https://edecideur.info/edecideur.php?q=198020130215benmoh-benamrouche-mohamed-directeur-general-4652z-45300631400042-netcom-group-58-rue-denis-papin-93500-pantin"
+    }
+   ],
+   "unknowns56": [
+    "Phenix Partner/linknet 三层品牌的类目下界线（各自放什么）",
+    "FRANCE NUMERIQUE 集团谱经营层格局与 PoE 位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 三层品牌 谱对照页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团自牌之外的 value PoE 第 4 品牌」——STC-424 以其新品牌位置或集层 value 楼价档入（RMA 三件套）",
+     "question": "Phenix Partner/linknet 之外,你们 PoE 接层现供哪家？客资加入第 4 线可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · own-label 或 OEM 二案下试",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团自牌之外的 value PoE 第 4 品牌」——STC-424 以其新品牌位置或集层 value 楼价档入（RMA 三件套）",
+     "question": "Phenix Partner/linknet 之外,你们 PoE 接层现供哪家？客资加入第 4 线可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「集团自牌之外的 value PoE 第 4 品牌」——STC-424 以其新品牌位置或集层 value 楼价档入（RMA 三件套）",
+     "question": "Phenix Partner/linknet 之外,你们 PoE 接层现供哪家？客资加入第 4 线可谈？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi NETCOM team,\n\nPhenix Partner, linknet, NETCOM GROUP - a three-brand house already nested under the FRANCE NUMERIQUE umbrella. You know exactly what it takes to launch and sustain an own-brand networking line.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to own-label partner programs. Reference: $180 USD EXW (2026-09-29) - offered either as an outside label fourth line or as OEM stock for your own brand umbrella.\n\nOne question: is the PoE access tier something you prefer to source as a fourth external label inside NETCOM GROUP, or would your umbrella prefer an OEM run under one of your existing brand names?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-522",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita | R65 深挖:工控大屏大三子 15M€;Cabanita 总统",
+    "inference": "「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出",
+    "hypothesis": "不入供位不首销:守档（同业+军规）"
+   },
+   "dimensions": {
+    "背景深描": "APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassibat 采购总监；Vincent Chevillot DSI;谱型=工业计算机/工控大屏（affichage-digital/aplus-defense 子站） ISO 9001+AQAP 2110 认证；2024 €15.26M 营收；20-49 员工",
+    "芯片与在用型号": "【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出",
+    "关键人KP": "Carlos Cabanita = PDG(Presdir Directeur Général);Béatrice Cabanita 财务总监",
+    "关注点与资质": "ORing ",
+    "优缺点SWOT": "S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:守档 / T:不推出入",
+    "Saga产品适配": "军规嵌入式同业设计制造商:守档不入供位"
+   },
+   "swot_text": "- **S**:1988 老法资+44 人军规设计制\n- **W**:同业制造侧+军红线双关\n- **O**:守档\n- **T**:不推出入",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million",
+     "quote": "French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million",
+     "url": "https://www.zoominfo.com/c/aplus-systme-automation/351414636"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry",
+     "quote": "APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry",
+     "url": "https://www.pagesjaunes.fr/pros/50512730"
+    },
+    {
+     "dim": "R65 谱+体量",
+     "text": "APLUS SA 1988 创 · €15.26M 2024 营收(20-49 员工） · Saint-Michel-sur-Orge · 工控大屏/defense 三站 · ISO 9001/AQAP 2110 · Cabanita 总统",
+     "quote": "Capital social · 811 800 EURO … Dernier chiffre d'affaires connu · 15 263 854 € (2024) … Cabanita Carlos · Président Directeur Général · AQAP 2110 : Expire le 30/12/2029 · ISO: 9001",
+     "url": "https://www.manageo.fr/entreprises/345398556.html"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Carlos Cabanita",
+     "role": "Président Directeur Général",
+     "contact": "经 aplus-sa.com",
+     "status": "pappers/manageo/kompass 三源实名",
+     "source": "https://www.manageo.fr/entreprises/345398556.html"
+    }
+   ],
+   "unknowns56": [
+    "APLUS 谱在 militarized 段阻守位面开态(CSV 挂的 ORing 授权只是销面）",
+    "军规加固电脑谱路由与我谱正对面排位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+14 · 低频开口",
+     "push": "CONSULT-OEM",
+     "angle": "军规嵌入式同业设计制造商:守档不入供位",
+     "question": "(守档不入触点）",
+     "proof": "随附 1 页特性对照"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-482",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Todo Telecom S.L.(Denia Alicante Poligono Industrial Juyarco 40-A;2002 创 S.L.(行业资历自 1986);**安防+电信双驱进口分销**:CCTV/门禁/报警 + WiFi/卫星/光纤/电信;谱=Hikvision/Safire/ZK-Teco/Anviz(安防门禁四件) + Ubiquiti/TP-Link/MikroTik/Cambium + Grandstream + Huawei ONT/OLT;『Precio, Calidad y Servicio desde 2002』;2021 即在 X 吆喝『NUEVO STOCK SWITCHES POE UBIQUITI, MIKROTIK, TPLINK』) | R65 深挖:西班牙官方 MikroTik 分销名录;Alicante Denia 址谱",
+    "inference": "安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档",
+    "hypothesis": "开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振"
+   },
+   "dimensions": {
+    "背景深描": "Todo Telecom S.L.(Denia, Alicante;Pol. Ind. Juyarco 40A;16+ 年谱；**谱型=Ubiquti/Tp-Link/MikroTik/Iris/Fte/Strong/Technisat 多品牌电信摄像 CCTV WiFi 分销；谱本体站「Distribuidor oficial MikroTik」自曝**;webinfo@todotelecom.com",
+    "芯片与在用型号": "【推断】安防分销血统:CCTV/门禁安装商客户的核心随单就是 PoE 交换机——其 2021 促销帖证 PoE 交换是常备走量品;谱里 PoE 段现由 Ubiquiti/TP-Link/MikroTik 三分,无专精 value 管理型档",
+    "关键人KP": "—(S.L. administrador registre mercantil Alicante 收费墙；R65 谱位+地址件已足）",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:1986 资历+安防电信双驱+PoE 常备 / W:三家 PoE 牌已占架 / O:24 口 280W 管理型 value 中间档 / T:Ubiquiti/TPLink 走量压价",
+    "Saga产品适配": "安防 DNA 批发商的 CCTV/门禁安装商随单 24 口 280W 管理型 PoE 位"
+   },
+   "swot_text": "- **S**:1986 资历+安防电信双驱+PoE 常备\n- **W**:三家 PoE 牌已占架\n- **O**:24 口 280W 管理型 value 中间档\n- **T**:Ubiquiti/TPLink 走量压价",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "mikrotik, ubiquiti, cambium, tp-link, cctv, safire, hikvision, zk-teco, control de accesos, anviz, control de presencia, grandstream, redes ",
+     "quote": "mikrotik, ubiquiti, cambium, tp-link, cctv, safire, hikvision, zk-teco, control de accesos, anviz, control de presencia, grandstream, redes de datos, fibra, huawei, ont, olt",
+     "url": "https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN",
+     "quote": "NUEVO STOCK SWTICHES POE UBIQUITI, MIKROTIK, TPLINK. HAZ TU PEDIDO ANTES DE QUE SE AGOTEN",
+     "url": "https://x.com/TodotelecomSL"
+    },
+    {
+     "dim": "R65 谱/自曝",
+     "text": "Todo Telecom S.L. Denia(Alicante)16 年 · multi-brand official MikroTik distributor 自曝 · Madrigueres Sud/P.I. Juyarco 40A · webinfo@todotelecom.com",
+     "quote": "Distribuidor oficial: TodoTelecom … Distribuidores oficiales de MikroTik en España … Pol.Ind.Juyarco 40A / Denia (Alicante) webinfo@todotelecom.com",
+     "url": "https://mikrotikspain.es/contacto.html"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "安防安装商谱 PoE 随单结构与价位敏带",
+    "其谱引入第四家 PoE 品牌的动力"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 安防随单 PoE 样张",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振",
+     "question": "你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · webinfo@todotelecom.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振",
+     "question": "你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「安防安装商谱的 24 口 280W PoE 随单走量位」:STC-424 以其 CCTV/门禁随单中间档入,Hikvision/Safire 渠道共振",
+     "question": "你们的 CCTV/门禁安装商客户,24 口管理型 PoE+ 现随哪家?Ubiquiti/TP-Link 之间的 value 档有位置吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Todo Telecom team,\n\nCCTV, access control, alarms and telecom under one roof - your installers leave the warehouse with Hikvision cameras in one hand and need a PoE switch in the other. Your 2021 stock alert for PoE switches says you already know it.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - the documented middle tier between your Ubiquiti and TP-Link PoE shelf, white-label friendly.\n\nOne question: for your CCTV and access-control installers, which 24-port managed PoE switch rides along with the camera runs today - and is there a value slot for a fourth name on that shelf?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-469",
+   "researched_on": "2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单) | R65 深挖:Valencia majorista 巨口;self-staged official",
+    "inference": "自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺",
+    "hypothesis": "开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门"
+   },
+   "dimensions": {
+    "背景深描": "Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayorista 龙头——MikroTik/Ubiquiti 等多品牌 official majorista 自曝**(谱本体站 fabricante/mikrotik 栏:「distribuidor oficial y mayorista para comprar al por mayor」)",
+    "芯片与在用型号": "【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺",
+    "关键人KP": "—(S.L. administrador registre mercantil Valencia 收费墙；R65 谱位+地址件已足）",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggual OEM PoE 延伸(第四自牌类目) / T:自牌谱优先于外来牌",
+    "Saga产品适配": "批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)"
+   },
+   "swot_text": "- **S**:1986 巨头+三自牌+ISO 27001+24h 物流\n- **W**:谱大牌挤 value 档\n- **O**:iggual OEM PoE 延伸(第四自牌类目)\n- **T**:自牌谱优先于外来牌",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji",
+     "quote": "es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji",
+     "url": "https://www.infortisa.com/contenido/departamentos/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas",
+     "quote": "fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas",
+     "url": "https://www.mayoristas.net/post/nuestros-productos-mayorista-de-informatica-y-tecnologia-infortisa/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstre",
+     "quote": "distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream",
+     "url": "https://www.infortisa.com/canal/redes/"
+    },
+    {
+     "dim": "R65 谱/地址",
+     "text": "Infortisa S.L. Alfara del Patriarca(Valencia)· 961 309006 · MikroTik mayorista 自曝",
+     "quote": "In Infortisa, mayorista, proveedor y distribuidor oficial … INFORTISA Mayorista de informática y tecnología Infortisa, S.L.,(+34) 961 309 006, C/ del Pozo, 1, 46115 Alfara del Patriarca, Valencia",
+     "url": "https://www.infortisa.com/fabricante/mikrotik/"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "iggual 自牌是否计划延到网络硬件/PoE",
+    "Global Pro 谱 PoE 档现供价位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 双案提案页(架位 vs iggual OEM)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门",
+     "question": "iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · ventas@infortisa.com 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门",
+     "question": "iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门",
+     "question": "iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Infortisa team,\n\nThe only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.\n\nOne question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}

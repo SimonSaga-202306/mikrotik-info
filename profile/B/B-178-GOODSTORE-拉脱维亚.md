@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**…
+- **是谁**：GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpi…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 弱电安防垂直店的监控谱工业 PoE 供电轨；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,14 +43,14 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpils, LV-5401;**谱位=Daugavpils 当地综合弱电系统集成商**——设计+施工 视频安防/门禁/火警/低压系统 多年经验, | 事实+【推断】混合，见证据摘录 |
 | R55·芯片与在用型号 | 【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店)
+- 【事实】GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店) | R65 深挖:弱电系统集成+城 home 平台;footer Miide forte PoE 谱在架有其接口
 - 【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
 - 【假设】开口角度=「弱电安防谱的工业 PoE 供电轨」:STI-288GP 主力(DIN/宽温档对监控柜位),STC-424 备位
 
@@ -110,11 +110,11 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
 
-- **背景深描**：GOODSTORE(SIA "Goodman Group" 旗下电商;Daugavpils Muzeja iela 11;**弱电系统垂直:视频监控/安防/门禁/消防全套+安装材料+电缆+网络设备+光网络+电源+光伏**;母公司为弱电系统设计施工商,因项目缺料开此店)
+- **背景深描**：GOODSTORE(SIA Goodman Group,Reg.No 41503064521,LV41503064521;Muzeja iela 11(注解法 Vidus iela 32 条带+质保), Daugavpils, LV-5401;**谱位=Daugavpils 当地综合弱电系统集成商**——设计+施工 视频安防/门禁/火警/低压系统 多年经验,bulk online store 平台 veikals@goodstore.lv;Swedbank HABALV22)
 - **芯片与在用型号**：【推断】弱电安防垂直电商:视频 Surveillance 谱=相机 PoE 供电场景密集,光伏+弱电双驱(AxiLogi 逻辑);项目方兼零售双身份
-- **关键人KP**：—
+- **关键人KP**：—(SIA Goodman Group valdnieks 拉托维亚登记查询方向)
 - **关注点与资质**：MikroTik（Reseller） 
 - **优缺点SWOT**：S:弱电施工背景=懂场点供电 / W:Daugavpils 体量有限 / O:监控柜 DIN PoE 轨+光伏场站 / T:拉脱维亚东部市场薄
 - **Saga产品适配**：弱电安防垂直店的监控谱工业 PoE 供电轨
@@ -123,6 +123,9 @@ updated: 2026-10-07
 
 - **【R57备护深挖证据】**SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, 
   > SIA Goodman Group is a company with extensive experience in the design and construction of low-voltage systems and networks … CCTV systems, security systems, access control systems, fire safety systems … network equipment, optical networks … products related to solar energy
+  > 来源：https://goodstore.lv/en/about-us/
+- **【R65 谱位/登记】**SIA Goodman Group · Daugavpils · 弱电(视频安防/门禁/火警)设计施工一体商 · goodstore.lv 平台;Reg 41503064521
+  > SIA "Goodman Group" is a company with extensive experience in the design and construction of low-voltage systems and networks … Muzeja street 11, Daugavpils
   > 来源：https://goodstore.lv/en/about-us/
 
 ## 产品决策（Saga · 单一决策口径）

@@ -1,0 +1,537 @@
+{
+ "date": "2026-10-07",
+ "wave": "R65 B 类深挖第 14 批（US/斯洛伐克/瑞士 大户 7 户）",
+ "scope": "B-217 WESTech / B-381 Solution Box / B-346 EPCOM / B-298 Alltron / B-221 GCOM / B-304 H2 / B-452 Camacho",
+ "records": [
+  {
+   "code": "B-217",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "WESTech, spol. s r.o.(Bratislava Stará Vajnorská 17(+Banská Bystrica 分部);**ELKO GROUP 系**(波罗的海/东欧分销集团,覆盖拉脱维亚/立陶宛/爱沙尼亚/乌克兰/斯洛文尼亚/罗马尼亚等);60 人,1000+ 活跃 reseller,4 万+ SKU;Intel/AMD 授权;networking@westech.sk 专队+WESTech on Air 视频栏目) | R65 深挖:斯洛伐克 2000 ELKO 合资老谱；Sršeň 26 年谱主",
+    "inference": "ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国",
+    "hypothesis": "开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能"
+   },
+   "dimensions": {
+    "背景深描": "WESTech, spol. s r.o.(Stará Vajnorská 17, 831 04 Bratislava,IČO 35796111, DIČ 2020245557;2000-09-25 创,ELKO-RIGA/Zero 亲家合资血统;股本 €33.2K;**Ing. Matej Sršeň = konateľ/CEO(2000 创至今 26 年）**;Ing. Martin Strigač = konateľ(2025-03-24 新任）;Róbert Király 创始 konateľ(2000-2004)",
+    "芯片与在用型号": "【推断】ELKO 集团斯洛伐克执行体=区域集团谱入口;其 networking 专队+1000 reseller 网=放量能力与 AT/eD 同级;ELKO 曾覆盖乌克兰/罗马尼亚等=若入其谱可溢多国",
+    "关键人KP": "Ing. Matej Sršeň = Konateľ/CEO(2000-至今 26 年）;Ing. Martin Strigač = konateľ(2025-03-24 新任）",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:ELKO 集团+1000 reseller+网络专队 / W:TP-Link 等大牌绑定 / O:value PoE 位+集团多国溢出 / T:集团集采权重",
+    "Saga产品适配": "ELKO 集团斯洛伐克网络专队的 value PoE 架位(集团多国溢出潜力)"
+   },
+   "swot_text": "- **S**:ELKO 集团+1000 reseller+网络专队\n- **W**:TP-Link 等大牌绑定\n- **O**:value PoE 位+集团多国溢出\n- **T**:集团集采权重",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Company WESTech Slovakia is through ELKO GROUP distributor's society…warehouses in Bratislava…60 employees…40,000+ products…1000 active rese",
+     "quote": "Company WESTech Slovakia is through ELKO GROUP distributor's society…warehouses in Bratislava…60 employees…40,000+ products…1000 active resellers",
+     "url": "https://www.westechtrade.eu/"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)",
+     "quote": "WESTech - networking, Bratislava…networking@westech.sk…WESTech on Air(TP-Link 专访栏目)",
+     "url": "https://www.facebook.com/westech.networking/"
+    },
+    {
+     "dim": "R65 商业登记",
+     "text": "WESTech s.r.o. Slovenská · IČO 35796111 · 2000-09-25 创 · Matej Sršeň 26 年 konateľ + Martin Strigač 2025-03 新任",
+     "quote": "Ing. Matej Sršeň Od 25.09.2000 … Ing. Martin Strigač Od 24.03.2025 … STARÁ VAJNORSKÁ 17 831 04 BRATISLAVA",
+     "url": "https://www.foaf.sk/35796111?locale=en"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Ing. Matej Sršeň",
+     "role": "Konateľ / Generálny riaditeľ",
+     "contact": "经 westech.sk",
+     "status": "orsr.sk/foaf.sk/kompass 三源",
+     "source": "https://www.foaf.sk/35796111?locale=en"
+    },
+    {
+     "name": "Ing. Martin Strigač",
+     "role": "Konateľ(2025-03-24 新任）",
+     "contact": "同上",
+     "status": "foaf.sk 实名",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "networking 专队 brand 谱与 value 档空位",
+    "ELKO 集团层品牌准入(国别 or 集团)"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · ELKO 集团谱页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能",
+     "question": "你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · networking@westech.sk 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能",
+     "question": "你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「ELKO 系网络专队架的 value PoE 位」:STC-424 具 networking@westech.sk 专队开口,谈区域组谱外溢可能",
+     "question": "你们 networking 队 value 24 口 PoE 档现供哪家?ELKO 集团层有新品牌准入通道吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi WESTech networking team,\n\nA thousand active resellers through the ELKO Group network, and a dedicated networking squad with its own show - you are the desk where networking brands get placed in Slovakia and beyond.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your reseller network, white-label friendly.\n\nOne question: on your networking shelf, which brand holds the value 24-port managed PoE tier today - and does ELKO Group offer a group-level path for a new vendor?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-381",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Solution Box LLC（迈阿密）:20+ 年 IT/电信分销 11-50 人（GM/共同创始 Eduardo Bicerne)；牌墙极大=HPE/QNAP/APC/Panduit/NVT Phybridge/Grandstream/Yealink/Yeastar/Vxi/Axis/WatchGuard/Olex.la/VisionXip/Honeywell/Ubiquiti/Aruba/Cambium/MikroTik/HP/Garmin/GoPro；哥斯达黎加+洪都拉斯分站（拉美网） | R65 深挖: Miami IT/电信批发头；Bicerne 家主谱口",
+    "inference": "超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」",
+    "hypothesis": "其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo"
+   },
+   "dimensions": {
+    "背景深描": "Solution Box LLC(Miami, FL;IT & Telecommunications wholesaler 11-50 员工；**Eduardo Bicerne = General Manager & Co-owner(crunchbase 自曝)**;Claudio Muñoz = Sales Director(2012-09 至今 13+ 年,Miami;原 Argentina 血统）)",
+    "芯片与在用型号": "【推断】超大谱壁+拉美站台=典型迈阿密通廊型 distributor。Ubiquiti/Aruba/Cambium 在架意味着楼价档有铁质对手；切入只能从「Ubiquiti 之外第二供位+拉美价优」",
+    "关键人KP": "Eduardo Bicerne = GM & Co-owner;Claudio Muñoz = Sales Director(2012 至今 13+ 年）",
+    "关注点与资质": "MikroTik（Master） ",
+    "优缺点SWOT": "S:20+年老血统+牌墙极宽+拉美站 / W:Ubiquiti/Cambium 正面拥挤 / O:STC-424 拉美第二供位 / T:品牌协调上交期/让利",
+    "Saga产品适配": "大谱通廊型的 Ubiquiti 旁第二供位：value 随单楼价档"
+   },
+   "swot_text": "- **S**:20+年老血统+牌墙极宽+拉美站\n- **W**:Ubiquiti/Cambium 正面拥挤\n- **O**:STC-424 拉美第二供位\n- **T**:品牌协调上交期/让利",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "HPE, QNAP, APC, Panduit, NVT Phybridge, Grandstream, Yealink, Yeastar, Vxi, Axis, WatchGuard…Ubiquiti, Aruba, Cambium, MikroTik, HP",
+     "quote": "HPE, QNAP, APC, Panduit, NVT Phybridge, Grandstream, Yealink, Yeastar, Vxi, Axis, WatchGuard…Ubiquiti, Aruba, Cambium, MikroTik, HP",
+     "url": "https://www.crunchbase.com/organization/solution-box"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner",
+     "quote": "Solution Box…over twenty years…11-50…Eduardo Bicerne: General Manager & Co-owner",
+     "url": "https://www.crunchbase.com/organization/solution-box"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "Solution Box LLC Miami · Eduardo Bicerne GM&Co-owner · Claudio Muñoz Sales Director 2012-至今",
+     "quote": "Eduardo Bicerne: General Manager & Co-owner … Claudio Muñoz: Commercial Director Solution Box LLC Sep 2012 - Present 13 years 2 months",
+     "url": "https://www.crunchbase.com/organization/solution-box"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Eduardo Bicerne",
+     "role": "General Manager & Co-owner",
+     "contact": "经 solutionboxusa.com",
+     "status": "crunchbase 自曝",
+     "source": "https://www.crunchbase.com/organization/solution-box"
+    },
+    {
+     "name": "Claudio Muñoz",
+     "role": "Sales Director(2012 至今 13+ 年）",
+     "contact": "同上",
+     "status": "LinkedIn munozclaudio 自曝",
+     "source": "https://www.linkedin.com/in/munozclaudio/"
+    }
+   ],
+   "unknowns56": [
+    "Ubiquiti/Aruba 在其谱的实际出量（铁忠还是格守）",
+    "拉美两站的 SKU 进深与发远路径"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Ubiquiti 旁第二供位方案单页（含 ES 档）",
+     "push": "STC-424XGGPM-280W",
+     "angle": "其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo",
+     "question": "Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · 拉美两站 SKU 填充表",
+     "push": "STC-424XGGPM-280W",
+     "angle": "其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo",
+     "question": "Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 归档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "其拉美两站+美国牌墙=第二品牌通道最现实。STC-424 以「Ubiquiti 旁 value 随单」角度开口，具名 Eduardo",
+     "question": "Eduardo，你们拉美两站现在 PoE 接层走 Ubiquiti 主畅还是多供位？价格锚在哪？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Eduardo,\n\nTwenty years, a genuine brand wall (HPE / Ubiquiti / Cambium / MikroTik…), and Costa Rica + Honduras on the map - Solution Box is one of the few Miami corridor distributors with an actual Latin presence.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - positioned strictly as the value-line second source next to the Ubiquiti block you already carry.\n\nOne question: across your Costa Rica and Honduras lines, is the PoE access shelf Ubiquiti-locked or genuinely multi-source? Where does the price anchor sit today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-346",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述\"manufactures, exports, imports and distributes specialized equipment\"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首",
+    "inference": "CSV 研判\"缺工业/ERPS/PoE++\"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美",
+    "hypothesis": "自牌制造血统对\"OEM贴牌对话\"比\"贴 Origin 上架\"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）"
+   },
+   "dimensions": {
+    "背景深描": "EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire alarm/网络设备 51-200 员工 $19.1M 营收 ZoomInfo 口径;OXM 门牌线)",
+    "芯片与在用型号": "【推断】CSV 研判\"缺工业/ERPS/PoE++\"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美",
+    "关键人KP": "Joseph Opyrchal = CEO(datanyze);Omar Kheir = COO/Chief Engineer(prospectoo 口 径）;Freddie Crespo VP-GM",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 / O:STI-288GP OEM 随单拉美 / T:自牌项目对在架的自主决策封闭",
+    "Saga产品适配": "缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口"
+   },
+   "swot_text": "- **S**:自牌+分销血统+拉美现金通道\n- **W**:品牌铁忠度稀释，价驱重\n- **O**:STI-288GP OEM 随单拉美\n- **T**:自牌项目对在架的自主决策封闭",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX",
+     "quote": "Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX",
+     "url": "https://www.epcom.net/principal/listadopormarca/MIKROTIK"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers",
+     "quote": "EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers",
+     "url": "https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom"
+    },
+    {
+     "dim": "R65 实名",
+     "text": "EPCOM Miami 8301 NW 27th St · Joseph Opyrchal CEO · Omar Kheir COO/Chief Engineer · $19.1M 收 51-200 人 · 2011 创",
+     "quote": "Joseph Opyrchal ### CEO … Epcom headquarters are located at 8301 NW 27th St Ste 1, Miami, Florida, 33122, United States … Epcom $19.1M 51-200 2011",
+     "url": "https://www.datanyze.com/companies/epcom/17613993"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Joseph Opyrchal",
+     "role": "CEO",
+     "contact": "经 epcom.net/epcom.com.mx 总线",
+     "status": "datanyze 自曝",
+     "source": "https://www.datanyze.com/companies/epcom/17613993"
+    },
+    {
+     "name": "Omar Kheir",
+     "role": "COO/Chief Engineer",
+     "contact": "@epcom.net(模式提示）",
+     "status": "prospectoo 自曝",
+     "source": "https://prospectoo.com/company/EPCOM-35714742/"
+    }
+   ],
+   "unknowns56": [
+    "EPCOM 在架 PoE/交换谱是否含工业 DIN 轨档",
+    "拉美侧（Doral）进出口关务路径与 OEM 贴牌接受度"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · OEM 牌面样张+E/S 文档样本一页",
+     "push": "STI-288GP",
+     "angle": "自牌制造血统对\"OEM贴牌对话\"比\"贴 Origin 上架\"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）",
+     "question": "你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+10 · 样机提议",
+     "push": "STI-288GP",
+     "angle": "自牌制造血统对\"OEM贴牌对话\"比\"贴 Origin 上架\"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）",
+     "question": "你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 无果归档观察",
+     "push": "STI-288GP",
+     "angle": "自牌制造血统对\"OEM贴牌对话\"比\"贴 Origin 上架\"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）",
+     "question": "你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi EPCOM team,\n\nFrom El Paso to Doral your reach is real - a manufacturer-distributor hybrid that actually moves volume through the Latin corridor rather than just listing it.\n\nWe build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - and we are fully open to your OEM branding for the LatAm line.\n\nOne question: for your industrial and outdoor deployments across Latin America, which DIN-rail PoE source are you standardizing on today - and would a documented OEM alternative earn a bench test?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-298",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发",
+    "inference": "瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎",
+    "hypothesis": "开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架"
+   },
+   "dimensions": {
+    "背景深描": "Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltron + Executive Director of Alltron AG(2021-02 前 Alltron CEO)+主席谱位**;Stefan Fraude = CEO Brack.Alltron;Markus Mahler Verwaltungsrat 董事（2008 创；曾 Brack+Alltron CEO)；谱型=瑞士 IT/消费电 280,000+ SKU 批发；Fachhandel/Integrators/Installateurs 航道",
+    "芯片与在用型号": "【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎",
+    "关键人KP": "Andrej Golob = Chief Sales Officer Brack.Alltron+Executive Director Alltron AG;Stefan Fraude = CEO Brack.Alltron",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 / O:监控随单 value PoE 档(+教具影子) / T:Broadliner 谱内挤",
+    "Saga产品适配": "瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)"
+   },
+   "swot_text": "- **S**:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训\n- **W**:Cisco/大牌绑定深\n- **O**:监控随单 value PoE 档(+教具影子)\n- **T**:Broadliner 谱内挤",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)",
+     "quote": "Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)",
+     "url": "https://www.ineltec.ch/de/p/alltron-ag.137297"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil",
+     "quote": "Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil",
+     "url": "https://www.it-markt.ch/news/2020-09-21/"
+    },
+    {
+     "dim": "R65 集团联动",
+     "text": "Alltron AG Mägenwil · Competec Group 属 · 280K SKU 批发 · Golob CSO/Executive Director · Fraude CEO · Mahler 董事",
+     "quote": "Februar 2021 war ich CEO der Alltron AG … seit September 2024 Chief Sales Officer von Brack.Alltron und Executive Director der Alltron AG … Markus Mahler … seit 2008 Teil von Brack.Alltron",
+     "url": "https://brackalltron.ch/%C3%BCber-uns/organisation"
+    }
+   ],
+   "kp": [
+    {
+     "name": "Andrej Golob",
+     "role": "CSO Brack.Alltron/Executive Director Alltron AG",
+     "contact": "经 alltron.ch / brackalltron.ch",
+     "status": "brackalltron.ch 组织页自曝+moneyhouse 管理位",
+     "source": "https://brackalltron.ch/%C3%BCber-uns/organisation"
+    },
+    {
+     "name": "Stefan Fraude",
+     "role": "CEO Brack.Alltron",
+     "contact": "同上",
+     "status": "同源",
+     "source": "同上"
+    }
+   ],
+   "unknowns56": [
+    "Hanwha 随单 PoE 现供品牌与价位",
+    "Brack.Alltron 新品牌入架门槛"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · Hanwha 随单对照页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架",
+     "question": "你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · mail@alltron.ch 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架",
+     "question": "你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架",
+     "question": "你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi Alltron team,\n\nTwo hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.\n\nOne question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-221",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge) | R65 深挖:守档准由（格鲁吉亚小谱业者）",
+    "inference": "格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深",
+    "hypothesis": "开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话"
+   },
+   "dimensions": {
+    "背景深描": "GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注）",
+    "芯片与在用型号": "【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Master+VAD） ",
+    "优缺点SWOT": "S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / T:区域购买力敏感",
+    "Saga产品适配": "双雄谱电商的商用 PoE 管理档"
+   },
+   "swot_text": "- **S**:双雄+光纤接入谱\n- **W**:高加索单国\n- **O**:ISP 谱随单+商用 PoE 档\n- **T**:区域购买力敏感",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick",
+     "quote": "DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick",
+     "url": "https://gcom.ge/en/brand/GCOM"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449",
+     "quote": "GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449",
+     "url": "http://www.dyalkom.com/buy.html"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "交换机谱 PoE 档位现供",
+    "ISP/FTTH 客层占比"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · ISP 谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话",
+     "question": "你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · sale@gcom.ge 开口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话",
+     "question": "你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话",
+     "question": "你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi GCOM team,\n\nMikroTik and Ubiquiti on one shelf, XGSPON sticks for the FTTH crowd on the other - a well-rounded ISP/CPE catalog for Georgia. Between the radios and the OLTs, the 24-port managed PoE switch is the line your reseller base orders on repeat.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.\n\nOne question: next to your MikroTik and Ubiquiti lines, whose 24-port managed PoE switch holds the value slot today?\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-304",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com) | R65 深挖:科索沃谱守档准由",
+    "inference": "Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架",
+    "hypothesis": "开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句"
+   },
+   "dimensions": {
+    "背景深描": "H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由）",
+    "芯片与在用型号": "【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik（Reseller） ",
+    "优缺点SWOT": "S:Hitcom 系+自营电商 / W:科索沃市场薄 / O:巴尔干分销家族谱放量 / T:关联未证/体量小",
+    "Saga产品适配": "Hitcom 系电商谱的商用 PoE 补位档"
+   },
+   "swot_text": "- **S**:Hitcom 系+自营电商\n- **W**:科索沃市场薄\n- **O**:巴尔干分销家族谱放量\n- **T**:关联未证/体量小",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove",
+     "quote": "FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove",
+     "url": "https://fortshpejt.com/care"
+    },
+    {
+     "dim": "R57备护深挖证据",
+     "text": "Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com",
+     "quote": "Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com",
+     "url": "https://hitcom.mk/consumer/"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "H2 与 Hitcom 股权/集团关系",
+    "网通谱现存档位"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+3 · 电商谱 PoE 页",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句",
+     "question": "你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+14 · info@fortshpejt.com 开口(附 Hitcom 确认)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句",
+     "question": "你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句",
+     "question": "你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": "Hi FortShpejt team,\n\nH2 Holding running its own e-commerce shelf in Prishtina, with the Hitcom family behind it across the Balkans - a distribution family that knows how a well-documented value SKU moves through a regional network.\n\nWe build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.\n\nOne question: on your networking shelf, whose 24-port managed PoE switch fills the value slot today? (And a quick one: should we treat H2 and Hitcom as the same group for follow-ups?)\n\nIf useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.\n\nBest regards,\nSaga Telecom - PoE switch OEM/ODM",
+   "email_subject": "PoE value slot for your line"
+  },
+  {
+   "code": "B-452",
+   "researched_on": "2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)",
+   "_parser": "R65_B类升v2转写.py",
+   "fih56": {
+    "fact": "Camacho - Engenheiros(engenheiros.pt;camacho@engenheiros.pt;+351 965 869 277;**MikroTik 认证顾问**;「Engenheiros」=工程师门户域名) | R65 深挖:葡萄牙谱守档准由",
+    "inference": "葡萄牙个人顾问:「工程师」门户域名为个体品牌,项目谱自主选型",
+    "hypothesis": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信"
+   },
+   "dimensions": {
+    "背景深描": "Camacho - Engenheiros（葡萄牙；R65 搜索无果守档准由）",
+    "芯片与在用型号": "【推断】葡萄牙个人顾问:「工程师」门户域名为个体品牌,项目谱自主选型",
+    "关键人KP": "—",
+    "关注点与资质": "MikroTik 认证顾问  ",
+    "优缺点SWOT": "S:工程师门户域具备记忆点 / W:个人体量小 / O:顾问指定权大 / T:点名率低",
+    "Saga产品适配": "认证顾问备养:活跃验证后按顾问价值模板激活"
+   },
+   "swot_text": "- **S**:工程师门户域具备记忆点\n- **W**:个人体量小\n- **O**:顾问指定权大\n- **T**:点名率低",
+   "facts": [
+    {
+     "dim": "R57备护深挖证据",
+     "text": "CSV:MikroTik 认证顾问;camacho@engenheiros.pt",
+     "quote": "CSV:MikroTik 认证顾问;camacho@engenheiros.pt",
+     "url": "客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "dim": "R65 查询注",
+     "text": "2026-10-07 搜索无果；守档准由",
+     "quote": "(web_search 无果）",
+     "url": "（沙箱日志）"
+    }
+   ],
+   "kp": [],
+   "unknowns56": [
+    "在手项目量",
+    "活跃佐证"
+   ],
+   "followups": [
+    {
+     "stage": "守档 D+7 · 活跃度快验",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    },
+    {
+     "stage": "守档 D+30 · 果归守档",
+     "push": "CONSULT-OEM",
+     "angle": "开口角度=「顾问工具箱 value 档」:先验活跃,激活后按顾问模板出信",
+     "question": "(先验活跃)你给客户配项目时,PoE 交换机现随哪家?",
+     "proof": "随附 1 页特性对照/测试包说明"
+    }
+   ],
+   "email": null,
+   "email_subject": "PoE value slot for your line"
+  }
+ ]
+}
