@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】RWL Advanced Solutions（都柏林/伦敦/阿姆斯特丹）：**欧洲领先的数据布线与网络产品独立分销商**——Panduit/Leviton/Excel 等布线大牌；数据中心/铜揽/光纤/机柜围保/电力/标签标识/电信/CEl-Fi 手机增强；近 20 年、数千客户、installer 渠道
-- 【推断】其“网络产品”自主类以无源为主——active PoE 接入交换机是其架上的天然补充位（无源布线+active 层才构成 turnkey）
-- 【假设】installer 渠道的 turnkey 话术与“Panduit 旁的 active 补位”是进函角度
+- 【事实】RWL Advanced Solutions:RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
+- 【推断】R66 第 13 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,28 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：sales@rwlas.com（都柏林。自述「欧洲领先的数据布线与网络产品独立分销商」，代理 Panduit 等；覆盖电信/商用/数据中心。⚠️ 属**分销商**（转化率低），且主业是布线不是交换机）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Robert Walsh**(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱))— Companies House 军官名件(FC034521)+uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕
+  - **Sean Kirby**(SALES DIRECTOR(销售总监 KPI 天位))— uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://uk.rwlas.com/the-team/〕
+  - **Kevin Quinn**(FINANCIAL DIRECTOR+CH Secretary(2017-08))— Companies House 军官名件+uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕
+  - **Scott Smith**(Channel Director(UK Team))— rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://www.rwlas.com/rwl-meet-the-team/〕
+  - **Joe Reilly**(Sales Manager(UK Team))— rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://www.rwlas.com/rwl-meet-the-team/〕
+  - **Micheál Fadden**(Group Operations Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
+  - **Tracy Snell**(Group Vendor Relationship Manager(厂商关系 KPI 位))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
+  - **Nick Jackson**(UK Technical Sales Specialist(Cambridge))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Robert Walsh | MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱) | Companies House 军官名件(FC034521)+uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/FC034521/officers |
+| Sean Kirby | SALES DIRECTOR(销售总监 KPI 天位) | uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://uk.rwlas.com/the-team/ |
+| Kevin Quinn | FINANCIAL DIRECTOR+CH Secretary(2017-08) | Companies House 军官名件+uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/FC034521/officers |
+| Scott Smith | Channel Director(UK Team) | rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.rwlas.com/rwl-meet-the-team/ |
+| Joe Reilly | Sales Manager(UK Team) | rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.rwlas.com/rwl-meet-the-team/ |
+| Micheál Fadden | Group Operations Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
+| Tracy Snell | Group Vendor Relationship Manager(厂商关系 KPI 位) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
+| Nick Jackson | UK Technical Sales Specialist(Cambridge) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +154,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：欧洲布线网络分销（无源主干）；installer 渠道
-- **②芯片/型号**：Panduit/Leviton/Excel
-- **③KP 深挖**：sales@
-- **④Saga 对标**：架上 active PoE 补位
-- **⑤在乎与偏好**：证书+案例+文档
+- **①背景再核**：RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Robert Walsh(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱),official-self-published·谱/leads-only(直发需 opt-in));Sean Kirby(SALES DIRECTOR(销售总监 KPI 天位),official-self-published·谱/leads-only(直发需 opt-in));Kevin Quinn(FINANCIAL DIRECTOR+CH Secretary(2017-08),official-self-published·谱/leads-only(直发需 opt-in));Scott Smith(Channel Director(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Joe Reilly(Sales Manager(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Micheál Fadden(Group Operations Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Tracy Snell(Group Vendor Relationship Manager(厂商关系 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));Nick Jackson(UK Technical Sales Specialist(Cambridge),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Panduit 独家谱+三国办室
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Europe’s leading independent distributor for Data Cabling and Network products…strategically partnered with leading Global brands as we distribute Turnkey solutions to installers”
-  > “Europe’s leading independent distributor for Data Cabling and Network products…strategically partnered with leading Global brands as we distribute Turnkey solutions to installers”
-  > 来源：https://www.rwlas.com/
+- **【决策链与对接人】**RWL ADVANCED SOLUTIONS LIMITED (FC034521): QUINN Kevin (Secretary 2017) / WALSH Robert (Director 2017, Irish)
+  > RWL ADVANCED SOLUTIONS LIMITED (FC034521): QUINN Kevin (Secretary 2017) / WALSH Robert (Director 2017, Irish)
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/FC034521/officers
+- **【团队与规模】**Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR(uk.rwlas.com 官网团队页)
+  > Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR(uk.rwlas.com 官网团队页)
+  > 来源：https://uk.rwlas.com/the-team/
+- **【团队与规模】**UK Team: Scott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Dan Morgan Stores;Adam Curley Internal Sales;Netherlands: Sean DOUGLAS Internal Sales(rwlas.com 官网团队页)
+  > UK Team: Scott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Dan Morgan Stores;Adam Curley Internal Sales;Netherlands: Sean DOUGLAS Internal Sales(rwlas.com 官网团队页)
+  > 来源：https://www.rwlas.com/rwl-meet-the-team/
+- **【业务定位】**In the UK we solely are distributors for Panduit Data Solutions;suppliers: Pharmaceutical, Technology, Financial, Education and Medical;32 employees;$5M
+  > In the UK we solely are distributors for Panduit Data Solutions;suppliers: Pharmaceutical, Technology, Financial, Education and Medical;32 employees;$5M
+  > 来源：https://rocketreach.co/rwl-advanced-solutions-ltd-profile_b453164ffc83cf50
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：欧洲布线/网络产品独立分销（installer 渠道）
-- **产品线与在售品牌**：Panduit/Leviton/Excel（无源为主）
-- **目标行业与场景**：DC/布线/机柜/电力
-- **团队与规模**：欧洲独立分销
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：20 年
-- **采购与供应链信号**：分销入库
-- **近期动态与线索**：三地布点常态化
-- **与我方契合点**：架上 active PoE 补位
-- **风险与注意**：
+- **业务定位**：RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：爱尔兰/英国 IT 品牌分销(Panduit 英国独家)
+- **团队与规模**：32 人;$5M;三国办
+- **决策链与对接人**：**Robert Walsh(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱),official-self-published·谱/leads-only(直发需 opt-in));Sean Kirby(SALES DIRECTOR(销售总监 KPI 天位),official-self-published·谱/leads-only(直发需 opt-in));Kevin Quinn(FINANCIAL DIRECTOR+CH Secretary(2017-08),official-self-published·谱/leads-only(直发需 opt-in));Scott Smith(Channel Director(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Joe Reilly(Sales Manager(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Micheál Fadden(Group Operations Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Tracy Snell(Group Vendor Relationship Manager(厂商关系 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));Nick Jackson(UK Technical Sales Specialist(Cambridge),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Walsh MD+Kirby 销售+Quinn 财务三金谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +203,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：覆盖
-- **W**：空档未证
-- **O**：补位
-- **T**：大牌
+- **S**：Panduit 独家谱+三国办室
+- **W**：品牌谱竞位(Panduit/Excel 大牌)
+- **O**：MD/SD/FD 官网三金谱
+- **T**：大牌厂商直供链
 
 ## 触达与风险红线
 
@@ -202,7 +229,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -211,9 +238,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] active 位现状
-  - [ ] 上架门槛
-  - [ ] 区域结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,18 +251,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi RWL team,
+Hi Robert,
 
-Twenty years of turnkey distribution to installers, and the passive layer owned end to end - the open lane next to it is the active layer.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) designed for exactly the active side of turnkey cabling. Reference: $180 USD EXW.
-
-One question: in your catalog next to Panduit and Leviton, is there an open slot for an active PoE access switch?
-
-If useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

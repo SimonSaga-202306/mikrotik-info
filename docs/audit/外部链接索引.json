@@ -4614,6 +4614,30 @@
     ]
   },
   {
+    "url": "https://brsnetworks.com/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L347"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L186"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.com/about-us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
     "url": "https://brsnetworks.se",
     "http_checked": false,
     "occurrences": [
@@ -4693,23 +4717,191 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L128"
+        "locator": "L152"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L131"
+        "locator": "L155"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L134"
+        "locator": "L158"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L137"
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/international/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L342"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L460"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L153"
+        "locator": "L103"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L183"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/international/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/international/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/vara-medarbetare/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L337"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L418"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L425"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L432"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L439"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L446"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L453"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L180"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/vara-medarbetare/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L80"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L81"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L82"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L83"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L84"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://brsnetworks.se/vara-medarbetare/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L86"
       }
     ]
   },
@@ -6484,6 +6676,68 @@
       {
         "path": "profile/A/A-486-CorsiMikrotik（意大利 MikroTik 培训）-意大利.md",
         "locator": "L117"
+      }
+    ]
+  },
+  {
+    "url": "https://craft.co/a3-communications/executives",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L514"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L583"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L590"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://craft.co/a3-communications/executives'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L100"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L101"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L104"
+      }
+    ]
+  },
+  {
+    "url": "https://craft.co/a3-communications/executives〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -10504,6 +10758,72 @@
     ]
   },
   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L50"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
     "url": "https://find-and-update.company-information.service.gov.uk/company/03762835/officers",
     "http_checked": false,
     "occurrences": [
@@ -11054,6 +11374,72 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-815/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/FC034521/officers",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L155"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L176"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L248"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L262"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L169"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/FC034521/officers'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L60"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L62"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L68"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -27996,6 +28382,34 @@
     ]
   },
   {
+    "url": "https://open.endole.co.uk/insight/company/03297031-dacc-europe-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://open.endole.co.uk/insight/company/03297031-dacc-europe-limited'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
     "url": "https://open.endole.co.uk/insight/company/05361794-purdicom-limited",
     "http_checked": false,
     "occurrences": [
@@ -30384,6 +30798,56 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L467"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L474"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L104"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L87"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/cisilion-profile_b5c6770bf42e0c8b7b",
     "http_checked": false,
     "occurrences": [
@@ -30896,6 +31360,96 @@
       {
         "path": "scripts/R65_第3批精修落盘.py",
         "locator": "L37"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L283"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L290"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L297"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L65"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L66"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L67"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-advanced-solutions-ltd-profile_b453164ffc83cf50",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L191"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L178"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-advanced-solutions-ltd-profile_b453164ffc83cf50'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L71"
       }
     ]
   },
@@ -32230,6 +32784,30 @@
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://seamless.ai/b/a3-communications-inc-12913712",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L519"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://seamless.ai/b/a3-communications-inc-12913712'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L105"
       }
     ]
   },
@@ -36902,6 +37480,52 @@
     ]
   },
   {
+    "url": "https://uk.rwlas.com/the-team/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L181"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L255"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.rwlas.com/the-team/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L61"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.rwlas.com/the-team/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://unifoss.com/",
     "http_checked": false,
     "occurrences": [
@@ -39359,7 +39983,7 @@
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L127"
+        "locator": "L137"
       }
     ]
   },
@@ -40654,6 +41278,72 @@
       {
         "path": "profile/A/A-503-Alfa Systems-比利时-卢森堡.md",
         "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L311"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L404"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L411"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L78"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L79"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L80"
       }
     ]
   },
@@ -44826,10 +45516,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第12批.json",
         "locator": "L212"
-      },
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L152"
       }
     ]
   },
@@ -44855,15 +45541,15 @@
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L136"
+        "locator": "L146"
       }
     ]
   },
@@ -47780,24 +48466,108 @@
         "locator": "L479"
       },
       {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L129"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L120"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L127"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L134"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L132"
+        "locator": "L94"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L135"
+        "locator": "L95"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L138"
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L151"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
         "locator": "L154"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dacceurope.com/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L47"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L48"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L49"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L52"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dacceurope.com/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -77563,19 +78333,77 @@
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L129"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L132"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L135"
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rwlas.com/rwl-meet-the-team/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L186"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L276"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L151"
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L175"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rwlas.com/rwl-meet-the-team/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L63"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L64"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L70"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rwlas.com/rwl-meet-the-team/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -78137,6 +78965,90 @@
     "occurrences": [
       {
         "path": "scripts/R66_R56_KP第11波落盘.py",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L576"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L488"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L509"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L597"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L102"
+      },
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L103"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
         "locator": "L81"
       }
     ]
@@ -85378,6 +86290,30 @@
       {
         "path": "scripts/R66_R56_KP第7_8波落盘.py",
         "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/dacc-europe-ltd/36557947",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/dacc-europe-ltd/36557947'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第13波落盘.py",
+        "locator": "L53"
       }
     ]
   },

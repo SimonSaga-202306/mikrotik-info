@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】BRS Networks AB（瑞典）：15 年 IT 托管商——Modern Workplace/网络安全/*Nätverk som tjänst（网络即服务）*/数字基建；**“为多种行业：医疗(bejukvård)、建筑(bwygg)、电网(elnät)、金融(ekonomi)”**；**80 名技术专家**；24/7 IT 与 OT 环境监控；本地化+全国覆盖
-- 【推断】NaaS 订阅模式+OT 监控=下联接入件是持续滚动消耗位；医疗/电网段对 value 件的规格审查严
-- 【假设】80 专家级团队=实测级技术语言有效；NaaS 计费模式让单件 TCO 话术直接命中
+- 【事实】BRS Networks AB:BRS Networks AB(瑞典 Visby(Gotland),Broväg 10 c, 621 40 Visby;Org.nr **556822-1567**(2010-10-28 注册;**BRS Holding AB 集团属**);63 员工-allabolag 谱/官网谱=110+ 员工;SNI 43210 Elinstallationer+62900 IT 业;谱型=瑞典光纤合同一线商(Gotland 四先锋起家;Skåne/Småland/Norrtälje 办室+Estonia/**Germany(Wedemark-Hannover 办)**;光纤规划/熔接/montage/调测/维排+Datacenter/Secura/IT 服务;010-600 5600;info@brsnetworks.se;brsnetworks.com/se
+- 【推断】R66 第 13 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,34 @@ updated: 2026-09-28
 - 来源等级：company-social（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@brsnetworks.se [Publicly listed; delivery not tested]; https://brsnetworks.se
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Lars Bo Johansson**(Extern verkställande direktör(外部任 VD/CEO,1975 生))— allabolag.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH〕
+  - **Marcus Mats Johan Larsson**(Ordförande(董事长,1977 生))— allabolag.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH〕
+  - **Henrik Ringbom**(Koncern-VD(集团 CEO;Data Centres/Secure Buildings))— brsnetworks.se Våra medarbetare 官网自署 henrik.ringbom@brsnetworks.se / 010-600 56 51 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Per Jordeglans**(Marknad- och Försäljningschef(销售与市场经理;Fiber Contracts/Urban Networks/DC))— brsnetworks.se 官网自署 per.jordeglans@brsnetworks.se / 010-600 57 01 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Seila Jusic**(IT-Chef(IT 主管,Mälardalen))— brsnetworks.se 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Marcus Eklund**(Regionchef Gotland / Manager IT-services)— brsnetworks.se 官网自署 marcus.eklund@brsnetworks.se 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Pontus Barck**(Manager Fibre construction(光纤建设经理))— brsnetworks.se 官网自署 pontus.barck@brsnetworks.se 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Martin Larsson**(Responsible for planning Fibre Projects(光纤项目规划))— brsnetworks.se 官网自署 martin.larsson@brsnetworks.se 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/vara-medarbetare/〕
+  - **Mihaly Ribar**(Betriebsleiter(德国办运营主管))— brsnetworks.se/international 官网自署 mihaly.ribar@brsnetworks.com 〔已有(公司官方公开件/登记册自曝);源:https://brsnetworks.se/international/〕
+  - **Johan Carlström**(Chief Information Security Officer)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3〕
+  - **Martin Kejval**(Co-Founder(四先锋之一))— RocketReach 谱+官网四先锋后文 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Lars Bo Johansson | Extern verkställande direktör(外部任 VD/CEO,1975 生) | allabolag.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH |
+| Marcus Mats Johan Larsson | Ordförande(董事长,1977 生) | allabolag.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH |
+| Henrik Ringbom | Koncern-VD(集团 CEO;Data Centres/Secure Buildings) | brsnetworks.se Våra medarbetare 官网自署 henrik.ringbom@brsnetworks.se / 010-600 56 51 | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Per Jordeglans | Marknad- och Försäljningschef(销售与市场经理;Fiber Contracts/Urban Networks/DC) | brsnetworks.se 官网自署 per.jordeglans@brsnetworks.se / 010-600 57 01 | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Seila Jusic | IT-Chef(IT 主管,Mälardalen) | brsnetworks.se 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Marcus Eklund | Regionchef Gotland / Manager IT-services | brsnetworks.se 官网自署 marcus.eklund@brsnetworks.se | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Pontus Barck | Manager Fibre construction(光纤建设经理) | brsnetworks.se 官网自署 pontus.barck@brsnetworks.se | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Martin Larsson | Responsible for planning Fibre Projects(光纤项目规划) | brsnetworks.se 官网自署 martin.larsson@brsnetworks.se | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/vara-medarbetare/ |
+| Mihaly Ribar | Betriebsleiter(德国办运营主管) | brsnetworks.se/international 官网自署 mihaly.ribar@brsnetworks.com | official-self-published·谱/leads-only(直发需 opt-in) | https://brsnetworks.se/international/ |
+| Johan Carlström | Chief Information Security Officer | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3 |
+| Martin Kejval | Co-Founder(四先锋之一) | RocketReach 谱+官网四先锋后文 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/brs-networks-management_b44cf011fd4be6d3 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +162,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：15 年 NaaS；IT+OT 24/7；80 专家
-- **②芯片/型号**：Allied 信号
-- **③KP 深挖**：info@
-- **④Saga 对标**：NaaS 接入位 TCO 话术
-- **⑤在乎与偏好**：TCO+规格文档
+- **①背景再核**：BRS Networks AB(瑞典 Visby(Gotland),Broväg 10 c, 621 40 Visby;Org.nr **556822-1567**(2010-10-28 注册;**BRS Holding AB 集团属**);63 员工-allabolag 谱/官网谱=110+ 员工;SNI 43210 Elinstallationer+62900 IT 业;谱型=瑞典光纤合同一线商(Gotland 四先锋起家;Skåne/Småland/Norrtälje 办室+Estonia/**Germany(Wedemark-Hannover 办)**;光纤规划/熔接/montage/调测/维排+Datacenter/Secura/IT 服务;010-600 5600;info@brsnetworks.se;brsnetworks.com/se
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Lars Bo Johansson(Extern verkställande direktör(外部任 VD/CEO,1975 生),official-self-published·谱/leads-only(直发需 opt-in));Marcus Mats Johan Larsson(Ordförande(董事长,1977 生),official-self-published·谱/leads-only(直发需 opt-in));Henrik Ringbom(Koncern-VD(集团 CEO;Data Centres/Secure Buildings),official-self-published·谱/leads-only(直发需 opt-in));Per Jordeglans(Marknad- och Försäljningschef(销售与市场经理;Fiber Contracts/Urban Networks/DC),official-self-published·谱/leads-only(直发需 opt-in));Seila Jusic(IT-Chef(IT 主管,Mälardalen),official-self-published·谱/leads-only(直发需 opt-in));Marcus Eklund(Regionchef Gotland / Manager IT-services,official-self-published·谱/leads-only(直发需 opt-in));Pontus Barck(Manager Fibre construction(光纤建设经理),official-self-published·谱/leads-only(直发需 opt-in));Martin Larsson(Responsible for planning Fibre Projects(光纤项目规划),official-self-published·谱/leads-only(直发需 opt-in));Mihaly Ribar(Betriebsleiter(德国办运营主管),official-self-published·谱/leads-only(直发需 opt-in));Johan Carlström(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Martin Kejval(Co-Founder(四先锋之一),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：光纤一线+德国分部+全员直邮谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Säkrar och övervakar IT- och OT-miljöer dygnet runt…80 tekniska experter…sjukvård, bygg, elnät eller ekonomi”
-  > “Säkrar och övervakar IT- och OT-miljöer dygnet runt…80 tekniska experter…sjukvård, bygg, elnät eller ekonomi”
-  > 来源：https://brsnetworks.se/
+- **【决策链与对接人】**Extern verkställande direktör Lars Bo Johansson (f 1975);Ordförande Marcus Mats Johan Larsson (f 1977);Del av BRS Holding AB;63 anställda(allabolag.se 登记册谱)
+  > Extern verkställande direktör Lars Bo Johansson (f 1975);Ordförande Marcus Mats Johan Larsson (f 1977);Del av BRS Holding AB;63 anställda(allabolag.se 登记册谱)
+  > 来源：https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH
+- **【团队与规模】**Ledning: Henrik Ringbom Koncern-VD henrik.ringbom@brsnetworks.se;Per Jordeglans Marknad- och Försäljningschef;Seila Jusic IT-Chef;Marcus Eklund Regionchef Gotland;Marcus Gozzi Regionchef Mälardalen(官网 Våra medarbetare 全员直邮谱)
+  > Ledning: Henrik Ringbom Koncern-VD henrik.ringbom@brsnetworks.se;Per Jordeglans Marknad- och Försäljningschef;Seila Jusic IT-Chef;Marcus Eklund Regionchef Gotland;Marcus Gozzi Regionchef Mälardalen(官网 Våra medarbetare 全员直邮谱)
+  > 来源：https://brsnetworks.se/vara-medarbetare/
+- **【团队与规模】**BRS International (Germany): Joachim Pettersson Geschäftsführer;Mihaly Ribar Betriebsleiter;Palitha Lisin-Emmerig Projeklassistenz;Katharina Trautwein Projektleitung;Aueweg 2, 30900 Wedemark – Hannover(官网)
+  > BRS International (Germany): Joachim Pettersson Geschäftsführer;Mihaly Ribar Betriebsleiter;Palitha Lisin-Emmerig Projeklassistenz;Katharina Trautwein Projektleitung;Aueweg 2, 30900 Wedemark – Hannover(官网)
+  > 来源：https://brsnetworks.se/international/
+- **【业务定位】**among the leaders in fibre contracts in Sweden;110 employees;offices Skåne, Småland and Norrtälje as well as Estonia and Germany(brsnetworks.com about-us)
+  > among the leaders in fibre contracts in Sweden;110 employees;offices Skåne, Småland and Norrtälje as well as Estonia and Germany(brsnetworks.com about-us)
+  > 来源：https://brsnetworks.com/about-us/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞典 NaaS/托管 IT（OT 监控强项）
-- **产品线与在售品牌**：NaaS/M365/安全（Allied 信号）
-- **目标行业与场景**：医疗/建筑/电网/金融
-- **团队与规模**：80 技术专家
-- **决策链与对接人**：info@ 口
-- **技术与认证**：24/7 IT+OT 监控
-- **采购与供应链信号**：NaaS 滚动消耗
-- **近期动态与线索**：Leadfeeder 营销活跃
-- **与我方契合点**：NaaS 接入位 value 件
-- **风险与注意**：医疗/电网规格审查
+- **业务定位**：BRS Networks AB(瑞典 Visby(Gotland),Broväg 10 c, 621 40 Visby;Org.nr **556822-1567**(2010-10-28 注册;**BRS Holding AB 集团属**);63 员工-allabolag 谱/官网谱=110+ 员工;SNI 43210 Elinstallationer+62900 IT 业;谱型=瑞典光纤合同一线商(Gotland 四先锋起家;Skåne/Småland/Norrtälje 办室+Estonia/**Germany(Wedemark-Hannover 办)**;光纤规划/熔接/montage/调测/维排+Datacenter/Secura/IT 服务;010-600 5600;info@brsnetworks.se;brsnetworks.com/se
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：瑞典光纤合同一线商(德国办)
+- **团队与规模**：63-110 人;2010 创;Gotland 谱
+- **决策链与对接人**：**Lars Bo Johansson(Extern verkställande direktör(外部任 VD/CEO,1975 生),official-self-published·谱/leads-only(直发需 opt-in));Marcus Mats Johan Larsson(Ordförande(董事长,1977 生),official-self-published·谱/leads-only(直发需 opt-in));Henrik Ringbom(Koncern-VD(集团 CEO;Data Centres/Secure Buildings),official-self-published·谱/leads-only(直发需 opt-in));Per Jordeglans(Marknad- och Försäljningschef(销售与市场经理;Fiber Contracts/Urban Networks/DC),official-self-published·谱/leads-only(直发需 opt-in));Seila Jusic(IT-Chef(IT 主管,Mälardalen),official-self-published·谱/leads-only(直发需 opt-in));Marcus Eklund(Regionchef Gotland / Manager IT-services,official-self-published·谱/leads-only(直发需 opt-in));Pontus Barck(Manager Fibre construction(光纤建设经理),official-self-published·谱/leads-only(直发需 opt-in));Martin Larsson(Responsible for planning Fibre Projects(光纤项目规划),official-self-published·谱/leads-only(直发需 opt-in));Mihaly Ribar(Betriebsleiter(德国办运营主管),official-self-published·谱/leads-only(直发需 opt-in));Johan Carlström(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Martin Kejval(Co-Founder(四先锋之一),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ringbom 集团 VD+Jordeglans 销售金谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +211,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：NaaS滚动
-- **W**：审查
-- **O**：OT
-- **T**：大牌
+- **S**：光纤一线+德国分部+全员直邮谱
+- **W**：集团(BRS Holding)谱层
+- **O**：Koncern-VD/销售/IT 主管官网金谱
+- **T**：大牌光纤件链
 
 ## 触达与风险红线
 
@@ -200,7 +233,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,9 +242,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] NaaS 接入现供
-  - [ ] OT 件现供
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,18 +255,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hej BRS Networks,
+Hej Henrik,
 
-Nätverk som tjänst with 80 technical experts and 24/7 monitoring of IT and OT environments - that model lives and dies by the unit economics of the access layer.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) engineered exactly for NaaS-scale access deployments. Reference: $180 USD EXW - a TCO position worth testing against your current supply.
-
-One question: in your NaaS deployments across healthcare, construction and financial customers, who supplies the PoE access layer today?
-
-If useful, I can send one unit with full documentation for your lab bench. If not a fit, one line and I close the loop.
-
-Med vänliga hälsningar,
-Saga Telecom - PoE switch OEM/ODM
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DACC Europe Ltd（英国伦敦港区）：25 年综合布线/网络设施集成商——结构布线、机电、**数据中心线**、托管服务、**铁路专业部（FORS & RISQS 认证=公共铁路系红线）**；客户案例：全球银行（卢森堡/布鲁塞尔/法兰克福）/制药/汽车/学院；全球办（UK/EU/UAE/USA）；ISO 9001+14001；领导层具名完整（CEO Shkodrov/FD Matharu/COO Yearwood/商务总监 Grace/技术总监 Long）
-- 【推断】其铁路部=公共系红线；布线+数据中心+大企业（银行/制药）=接入层线缆上端 active 件的工程随单位
-- 【假设】“manufacturer-independent（厂商中立）”自述=对候选件开放评——这是进函角度
+- 【事实】DACC Europe Ltd:DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
+- 【推断】R66 第 13 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,26 @@ updated: 2026-09-28
 - **电话**：+44 (0) 207 538 8701
 - **原始联系字段**：+44 (0) 207 538 8701；⚠️ 无直接邮箱：域名 dacceurope.com｜具名 Chris Yearwood（Director of Operations）、Jon H（Head of Railway Division Comms）。**有铁路通信部门** → 工业/轨交场景强对口，值得人工解锁 @dacceurope.com 姓名邮箱
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Marin Krastev Shkodrov**(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人))— Companies House 军官名件+Endole PSC 件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
+  - **Jasvinderpal Singh Matharu**(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任))— Companies House 军官名件+Endole PSC 件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
+  - **Tony Grace**(Commercial & Sales Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
+  - **David Long**(Technical Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
+  - **Ricky Akers**(Projects Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
+  - **Lee Millar**(Service Delivery Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
+  - **Photis Patsalide**((原)Director(2022-07~2024-01 已退,留痕))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Marin Krastev Shkodrov | Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人) | Companies House 军官名件+Endole PSC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
+| Jasvinderpal Singh Matharu | Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任) | Companies House 军官名件+Endole PSC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
+| Tony Grace | Commercial & Sales Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
+| David Long | Technical Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
+| Ricky Akers | Projects Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
+| Lee Millar | Service Delivery Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
+| Photis Patsalide | (原)Director(2022-07~2024-01 已退,留痕) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +155,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：25 年布线/DC 集成（厂商中立）；铁路公共红线
-- **②芯片/型号**：未公开（TransCAD 不指定）
-- **③KP 深挖**：Grace 商务总监具名
-- **④Saga 对标**：active 接入层候选
-- **⑤在乎与偏好**：独立评+案例
+- **①背景再核**：DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Marin Krastev Shkodrov(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人),official-self-published·谱/leads-only(直发需 opt-in));Jasvinderpal Singh Matharu(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任),official-self-published·谱/leads-only(直发需 opt-in));Tony Grace(Commercial & Sales Director,official-self-published·谱/leads-only(直发需 opt-in));David Long(Technical Director,official-self-published·谱/leads-only(直发需 opt-in));Ricky Akers(Projects Director,official-self-published·谱/leads-only(直发需 opt-in));Lee Millar(Service Delivery Director,official-self-published·谱/leads-only(直发需 opt-in));Photis Patsalide((原)Director(2022-07~2024-01 已退,留痕),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：FORS/RISQS 铁路谱+DC 分部
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“fully manufacturer-independent…impartial and tailored solutions…FOR & RISQS approved Railway Division and Data Centre Division”
-  > “fully manufacturer-independent…impartial and tailored solutions…FOR & RISQS approved Railway Division and Data Centre Division”
+- **【决策链与对接人】**Officers Active: SHKODROV Marin Krastev (Director 2014) / MATHARU Jasvinderpal Singh (Director 2019);Controllers (PSC): Marin Krastev Shkodrov + Jasvinderpal Singh Matharu(Endole)
+  > Officers Active: SHKODROV Marin Krastev (Director 2014) / MATHARU Jasvinderpal Singh (Director 2019);Controllers (PSC): Marin Krastev Shkodrov + Jasvinderpal Singh Matharu(Endole)
+  > 来源：https://open.endole.co.uk/insight/company/03297031-dacc-europe-limited
+- **【团队与规模】**Our leadership: Tony Grace Commercial & Sales Director;David Long Technical Director;Ricky Akers Projects Director;Lee Millar Service Delivery Director(dacceurope.com 官网)
+  > Our leadership: Tony Grace Commercial & Sales Director;David Long Technical Director;Ricky Akers Projects Director;Lee Millar Service Delivery Director(dacceurope.com 官网)
   > 来源：https://www.dacceurope.com/
+- **【业务定位】**long-established integrator specialising in structured cabling and associated network infrastructure;FORS & RISQS approved Railway Division;Data Centre Division;ISO9001/ISO14001;147 employees
+  > long-established integrator specialising in structured cabling and associated network infrastructure;FORS & RISQS approved Railway Division;Data Centre Division;ISO9001/ISO14001;147 employees
+  > 来源：https://www.zoominfo.com/c/dacc-europe-ltd/36557947
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：伦敦 25 年布线/DC/托管集成商（厂商中立）
-- **产品线与在售品牌**：布线/M&E/DC/托管（铁路部红线）
-- **目标行业与场景**：银行/制药/汽车/数据中心（铁路段守界）
-- **团队与规模**：中型全球办
-- **决策链与对接人**：Tony Grace（商务总监）/站点 contact
-- **技术与认证**：ISO 9001+14001
-- **采购与供应链信号**：大项目工程指定
-- **近期动态与线索**：持续年增案例
-- **与我方契合点**：厂商中立语境下的 active 层候选
-- **风险与注意**：铁路公共红线
+- **业务定位**：DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国伦敦码头区布线/DC 集成商(铁路分部)
+- **团队与规模**：147 人;ISO 双证
+- **决策链与对接人**：**Marin Krastev Shkodrov(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人),official-self-published·谱/leads-only(直发需 opt-in));Jasvinderpal Singh Matharu(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任),official-self-published·谱/leads-only(直发需 opt-in));Tony Grace(Commercial & Sales Director,official-self-published·谱/leads-only(直发需 opt-in));David Long(Technical Director,official-self-published·谱/leads-only(直发需 opt-in));Ricky Akers(Projects Director,official-self-published·谱/leads-only(直发需 opt-in));Lee Millar(Service Delivery Director,official-self-published·谱/leads-only(直发需 opt-in));Photis Patsalide((原)Director(2022-07~2024-01 已退,留痕),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：PSC 实控+销售/技术/项目/交付四档(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +201,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：中立
-- **W**：无直邮
-- **O**：指定
-- **T**：大牌
+- **S**：FORS/RISQS 铁路谱+DC 分部
+- **W**：母体 Hutchison 谱层
+- **O**：PSC 双实控+官网四 Director
+- **T**：大牌布线件链
 
 ## 触达与风险红线
 
@@ -205,7 +227,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,9 +236,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] active 层现供
-  - [ ] 指定清单
-  - [ ] DC 边缘位
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,16 +251,10 @@ updated: 2026-09-28
 ```text
 Hi Tony,
 
-A fully manufacturer-independent integrator is one of the few places where a switch is judged on merit and documentation - thank you for that culture.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) with the full test pack your projects expect. Reference: $180 USD EXW. (For clarity: we work only with DACC's private-sector builds; your RISQS/FORS railway division is outside our scope entirely.)
-
-One question: in your structured cabling and DC projects, which switch brand lands on the BoQ for the access layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
