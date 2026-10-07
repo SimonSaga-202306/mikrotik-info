@@ -176,6 +176,9 @@ class RepositoryTests(unittest.TestCase):
     # 全部按 R58 规则:入口/联系方式 加【已停用】tag+备注 加退信批说明)
     R62_BOUNCED = {'A-170','A-123','A-355','A-424','A-434','A-439','A-458','A-476','A-088','A-487','A-520','A-251','A-258','A-337','A-342'}
     R62_BOUNCED_FIELDS = {'入口/联系方式','备注','评级依据','网站','状态'}
+    # R63(2026-10-06)退信批:永久 dead 6(A-342 已在 R62_BOUNCED)+观察46h 2
+    R63_BOUNCED = {'A-496','A-499','A-500','A-563','A-539','A-516','A-441','A-457'}
+    R63_BOUNCED_FIELDS = {'入口/联系方式','备注'}
     # R53: B 段逐站复筛（283 条带网站 B 行，按 CSV 顺序）达标升级 -> 136 条 B 升 A-432..A-567。
     R53_PROMOTED = {
         'B-010': 'A-432',
@@ -418,6 +421,8 @@ class RepositoryTests(unittest.TestCase):
                 allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
             if before['档案编号'] in self.R62_BOUNCED:
                 allowed = (allowed or set()) | self.R62_BOUNCED_FIELDS
+            if before['档案编号'] in self.R63_BOUNCED:
+                allowed = (allowed or set()) | self.R63_BOUNCED_FIELDS
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
             if before['档案编号'] in self.PROMOTED_MAP:
@@ -429,6 +434,8 @@ class RepositoryTests(unittest.TestCase):
                 # R62(2026-10-04): A-434 退信 tag 加入入口/联系方式,PROMOTED 分支也放行
                 if after['档案编号'] in self.R62_BOUNCED:
                     extra = extra | self.R62_BOUNCED_FIELDS
+                if after['档案编号'] in self.R63_BOUNCED:
+                    extra = extra | self.R63_BOUNCED_FIELDS
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
                         self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
@@ -678,6 +685,8 @@ class RepositoryTests(unittest.TestCase):
                 allowed = (allowed or set()) | self.R61_REPLIED_FIELDS
             if before['档案编号'] in self.R62_BOUNCED:
                 allowed = (allowed or set()) | self.R62_BOUNCED_FIELDS
+            if before['档案编号'] in self.R63_BOUNCED:
+                allowed = (allowed or set()) | self.R63_BOUNCED_FIELDS
             # R60:「未测试投递」清理行并入 allowed(基线含该字样才放)
             if before['档案编号'] in r60_untested:
                 allowed = (allowed or set()) | {'入口/联系方式', '备注'}
@@ -688,6 +697,8 @@ class RepositoryTests(unittest.TestCase):
                                                                               or before['档案编号'] in self.R63_PROMOTED) else set())
                 if after['档案编号'] in self.R62_BOUNCED:
                     extra = extra | self.R62_BOUNCED_FIELDS
+                if after['档案编号'] in self.R63_BOUNCED:
+                    extra = extra | self.R63_BOUNCED_FIELDS
                 for k in self.header:
                     if k not in self.PROMOTED_FIELDS and k not in extra:
                         self.assertEqual(before[k], r55_sagify(after[k]), (before['档案编号'], k))
@@ -715,6 +726,8 @@ class RepositoryTests(unittest.TestCase):
                 | set(self.R51_PROMOTED) | self.R51_PROMOTED_NEW
                 | set(self.R52_PROMOTED) | self.R52_PROMOTED_NEW
                 | set(self.R53_PROMOTED) | self.R53_PROMOTED_NEW
+                # R63(2026-10-06)B→A 12 户:xlsx 反向信号名单/分级表已重导,存量行挤掉新号后对
+                | set(self.R63_PROMOTED) | self.R63_PROMOTED_NEW
                 # R58(2026-09-29)新挖入库 6 户:xlsx 现状比基线多 6 行,跳过其编号使存量行仍可字节级对比
                 | {'A-568', 'A-373', 'B-233', 'C-371', 'C-372', 'C-373'}
                 # R58 退信处置(2026-09-29 用户实测):5 户联系方式/备注字段已更新,
@@ -723,7 +736,10 @@ class RepositoryTests(unittest.TestCase):
                 # R59 审核处置:受益/降级/互链行的备注/优先级字段被改,其 xlsx 行整体过滤
                 | set(self.R59_MERGED_BENEFICIARY) | self.R59_DOWNGRADED | self.R59_GROUP_LINK
                 # R60 全仓「未测试投递」清除:反向信号名单 sheet 已按 R60 CSV 重导,清理行整体过滤
-                | r60_untested)
+                | r60_untested
+                # R61 双向对话更新(A-069)+R62 退信批+R63 退信批:CSV 行已更新,
+                # xlsx 反向信号名单按现行 CSV 重导,变更行整体过滤
+                | self.R61_REPLIED | self.R62_BOUNCED | self.R63_BOUNCED)
         workbook = '客户分级跟进表_2026-09.xlsx'
         a = load_workbook(io.BytesIO(old(workbook)), read_only=True)
         b = load_workbook(ROOT / workbook, read_only=True)
@@ -750,8 +766,9 @@ class RepositoryTests(unittest.TestCase):
             bv = [tuple(r55_sagify_cells(r)) for r in b[name].values]
             self.assertEqual(av, bv, name)
         # R59 审核去重:A -1(删 A-373 旧)=568、B -1(删 B-233 旧)=179,改号不动行数;C 不变
-        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 568)
-        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 179)
+        # R63(2026-10-06)B→A 12 户:A 568→580、B 179→167(12 行改号移表)
+        self.assertEqual(len(list(b['A级-重点好跟进'].values)) - 1, 580)
+        self.assertEqual(len(list(b['B级-慢慢跟'].values)) - 1, 167)
         self.assertEqual(len(list(b['C级-难啃'].values)) - 1, 290)
         a.close()
         b.close()
@@ -1432,6 +1449,15 @@ class RepositoryTests(unittest.TestCase):
                                 av_n[field_idx[fname]] = '<R62-ALLOW>'
                                 bv_n[field_idx[fname]] = '<R62-ALLOW>'
                         self.assertEqual(av_n, bv_n, name)
+                    elif b['档案编号'] in self.R63_BOUNCED:
+                        av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
+                        bv_n = [r61_normalize(r55_sagify(b[k])) for k in self.header]
+                        field_idx = {k: i for i, k in enumerate(self.header)}
+                        for fname in self.R63_BOUNCED_FIELDS:
+                            if fname in field_idx:
+                                av_n[field_idx[fname]] = '<R63-ALLOW>'
+                                bv_n[field_idx[fname]] = '<R63-ALLOW>'
+                        self.assertEqual(av_n, bv_n, name)
                     elif b['档案编号'] == 'A-487':
                         # nfo@marcomweb.it → info@marcomweb.it typo 修(用户 2026-10-04 官网核对)
                         av_n = [r61_normalize(r55_sagify(str(v) if v is not None else '')) for v in a]
@@ -1465,7 +1491,7 @@ class RepositoryTests(unittest.TestCase):
         for n in range(1, 60):
             self.assertIn(f'### R{n:02d} ·', text)
         # R60(2026-09-29)A 类运营判定注入轮(KP 领英/未测试投递清除/退信补标/三项判定)已归档
-        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 63)  # 62 rounds + template
+        self.assertEqual(len(re.findall(r'(?m)^- 用户消息时间：', text)), 65)  # 64 rounds + template
         self.assertIn('未知', text)
         self.assertIn('旧Agent摘要', text)
 

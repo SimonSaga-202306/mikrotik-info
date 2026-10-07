@@ -167,10 +167,10 @@
     },
     {
       "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
-      "sha256": "d3020a12bb3965278e7cc1337c05a187adc87686cd363a1c38fbe2b8a4c11241",
-      "bytes": 340631,
+      "sha256": "8cd33be4304001a600624330de50cd0d7ba76122f7e56a7f467aa058892d81b8",
+      "bytes": 365352,
       "tracked_at_scan": true,
-      "units_scanned": 20596,
+      "units_scanned": 20613,
       "unique_url_count": 1006,
       "inspection": {
         "zip_members": 24,
@@ -255,7 +255,7 @@
           {
             "name": "反向信号名单",
             "state": "visible",
-            "nonempty_cells": 17759
+            "nonempty_cells": 17776
           }
         ]
       },
@@ -1777,7 +1777,7 @@
       "path": "batch/KP猎捕_A_R64_第1波.json",
       "sha256": "87d95bc7ba8868fe4de41f414939e12f56fe27b760e1e081465eafbe1b1c6706",
       "bytes": 15275,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 422,
       "unique_url_count": 15,
       "inspection": {},
@@ -12907,7 +12907,7 @@
       "path": "scripts/R64_KP猎捕.py",
       "sha256": "ed1879504bc573d6278877c5aa5f0860aaf444368a0dfab52961475b5ac6f649",
       "bytes": 7819,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 148,
       "unique_url_count": 15,
       "inspection": {},
@@ -13075,10 +13075,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "ac63bc581c30af951df68f80bb6501f3e3ac257cd46ef5f15c3849111451a55e",
-      "bytes": 98901,
+      "sha256": "54aca2cb6742386341ff22a965b90e5e15c128e03834d971f4c81d63e2d6efa3",
+      "bytes": 100792,
       "tracked_at_scan": true,
-      "units_scanned": 1592,
+      "units_scanned": 1618,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []
@@ -13105,10 +13105,10 @@
     },
     {
       "path": "客户分级跟进表_2026-09.xlsx",
-      "sha256": "ebeef22f6b955fc31f2fc1e97f1267b789ab2c287b01070328e23cd552b9b1de",
-      "bytes": 392405,
+      "sha256": "43b0817c50358c04209af0b33dd7ad00da89ced6e7f94bce3a9825b1669c95a8",
+      "bytes": 395453,
       "tracked_at_scan": true,
-      "units_scanned": 21948,
+      "units_scanned": 21997,
       "unique_url_count": 1006,
       "inspection": {
         "zip_members": 12,
@@ -13118,12 +13118,12 @@
           {
             "name": "A级-重点好跟进",
             "state": "visible",
-            "nonempty_cells": 12714
+            "nonempty_cells": 12982
           },
           {
             "name": "B级-慢慢跟",
             "state": "visible",
-            "nonempty_cells": 3271
+            "nonempty_cells": 3052
           },
           {
             "name": "C级-难啃",
