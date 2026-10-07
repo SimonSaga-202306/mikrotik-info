@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AGL（Guedes Lopes，葡萄牙）：工业计算/Edge AI/触控/网络分销——AAEON BOXER 全系、Arbor（含 AEC-4201 Jetson Orin NX 4×PoE+ 机载视觉平台）、Aetina、NVIDIA DGX Spark；工业通信类目显式含 Ethernet·PoE·Wireless·Serial；八解法列：安防监控（Vídeo·PoE·Processing）在册；葡语技术支持+BTO 装配
-- 【推断】机器视觉/安防两线都吞 PoE 尾头（相机/传感）：其 4×PoE+ 视觉机旁需要再上游的供电交换层；CSV：Antaira 盘在位
-- 【假设】其 Shopify 电商化目录+葡语技术支持=上架型分销，SKU 准入路径短
+- 【事实】AGL Industrial Solutions:António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)
+- 【推断】R66 第 10 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - **电话**：+351 218 278 341
 - **原始联系字段**：+351 218 278 341 / geral@guedeslopes.pt
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Pedro Jorge Rodrigues Lopes**(Managing Partner(管理合伙人;Key Principal))— D&B Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html〕
+  - **António Guedes Lopes**(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核))— 公司名件推定(leads-only) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Pedro Jorge Rodrigues Lopes | Managing Partner(管理合伙人;Key Principal) | D&B Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html |
+| António Guedes Lopes | 同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核) | 公司名件推定(leads-only) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,38 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：葡工业计算/Edge AI 电商分销；PoE 入类目+监控解法在册
-- **②芯片/型号**：Antaira（CSV）+视觉机 4×PoE+
-- **③KP 深挖**：geral@ 口+电话
-- **④Saga 对标**：PoE 上游温宽交换（避其视觉机正面）
-- **⑤在乎与偏好**：目录文档齐/RFQ
+- **①背景再核**：António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Pedro Jorge Rodrigues Lopes(Managing Partner(管理合伙人;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));António Guedes Lopes(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：葡萄牙 value-added 工业件一线
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Comunicação Industrial: Ethernet·PoE·Wireless·Serial…07 Vigiar e proteger: Vídeo·PoE·Processamento”
-  > “Comunicação Industrial: Ethernet·PoE·Wireless·Serial…07 Vigiar e proteger: Vídeo·PoE·Processamento”
-  > 来源：https://guedeslopes.pt/
-- **【产品线】**新品：Arbor AEC-4201 (Jetson Orin NX, 4x PoE+)、NVIDIA DGX Spark
-  > 新品：Arbor AEC-4201 (Jetson Orin NX, 4x PoE+)、NVIDIA DGX Spark
-  > 来源：https://guedeslopes.pt/en/collections/novos-produtos
-- **【联系方式】**geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > geral@guedeslopes.pt +351 218 278 341；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://guedeslopes.pt/
+- **【决策链与对接人】**Key Principal: Pedro Jorge Rodrigues Lopes — Managing Partner;Doing Business As: AGL - INDUSTRIAL SOLUTIONS(AVENIDA ANIL, 6 7ºDTO. 6200-502 COVILHÃ)
+  > Key Principal: Pedro Jorge Rodrigues Lopes — Managing Partner;Doing Business As: AGL - INDUSTRIAL SOLUTIONS(AVENIDA ANIL, 6 7ºDTO. 6200-502 COVILHÃ)
+  > 来源：https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html
+- **【业务定位】**Razão Social: António Guedes Lopes, Sociedade Unipessoal, Lda;Designação comercial: AGL - INDUSTRIAL SOLUTIONS;CAE 46501 Comércio por grosso de computadores;fundada 2011/01/14
+  > Razão Social: António Guedes Lopes, Sociedade Unipessoal, Lda;Designação comercial: AGL - INDUSTRIAL SOLUTIONS;CAE 46501 Comércio por grosso de computadores;fundada 2011/01/14
+  > 来源：https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda
+- **【业务定位】**AGL Industrial Solutions — Specialists in Industrial EDGE AI Computers, Embedded Systems, Panel PCs, Touch Monitors, industrial communication devices;Portugal leading company in distribution of value-added systems(Kvaser 伙伴页)
+  > AGL Industrial Solutions — Specialists in Industrial EDGE AI Computers, Embedded Systems, Panel PCs, Touch Monitors, industrial communication devices;Portugal leading company in distribution of value-added systems(Kvaser 伙伴页)
+  > 来源：https://kvaser.com/company/agl-industrial-solutions/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：葡萄牙工业计算/Edge AI 分销（视觉/安防 PoE 尾头两大主线）
-- **产品线与在售品牌**：AAEON/Arbor/Aetina/NVIDIA+Antaira（CSV）
-- **目标行业与场景**：自动化/视觉/安防监控/医疗/车载
-- **团队与规模**：电商化目录分销
-- **决策链与对接人**：geral@ 口
-- **技术与认证**：BTO 装配服务
-- **采购与供应链信号**：目录上架+RFQ
-- **近期动态与线索**：2026-08 新视觉站+NVIDIA DGX Spark/Arbor 新品
-- **与我方契合点**：视觉/安防 PoE 供电上游
-- **风险与注意**：营造“4×PoE+ 机上游”位，不当其视觉机竞品
+- **业务定位**：António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：葡萄牙工业 PC/EDGE AI 价值分销(Kvaser 伙伴)
+- **团队与规模**：2011 创;Unipessoal 独资;小实体
+- **决策链与对接人**：**Pedro Jorge Rodrigues Lopes(Managing Partner(管理合伙人;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));António Guedes Lopes(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 10 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Lopes 独资直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：目录吞吐
-- **W**：非主轴
-- **O**：双吞 PoE
-- **T**：在位盘
+- **S**：葡萄牙 value-added 工业件一线
+- **W**：小实体独资(决策=一人)
+- **O**：Lopes Managing Partner 直达位
+- **T**：大牌工业件链竞谱
 
 ## 触达与风险红线
 
@@ -205,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在售交换矩阵
-  - [ ] 上架路径
-  - [ ] 项目量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -228,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi AGL team,
+Hi Pedro,
 
-A catalog that sells Jetson vision platforms with 4x PoE+ on board knows the PoE device world well - it is right there in your Industrial Communication category.
-
-We build industrial managed PoE switches rated -40 to 75C that sit just upstream of those devices. Reference: $74.8 USD EXW.
-
-One question: who supplies the PoE switch layer upstream of your vision and security device rows today?
-
-If useful, I can send one unit plus catalog-ready documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

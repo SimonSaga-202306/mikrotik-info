@@ -1394,6 +1394,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+      "sha256": "93838cdb665ffa4024176075764a67285a3c10e6b04331e9a4493a04f9dfcaae",
+      "bytes": 29106,
+      "tracked_at_scan": false,
+      "units_scanned": 482,
+      "unique_url_count": 14,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/A类深挖_2026-10-07_R66_R56_KP第1波.json",
       "sha256": "c9bfa6a9a7e712ddcbac5917e2114bf32029395964af908521caee261c20edc6",
       "bytes": 34983,
@@ -1447,7 +1457,7 @@
       "path": "batch/A类深挖_2026-10-07_R66_R56_KP第9波.json",
       "sha256": "1b9c3004cf446255f81caabef2121bf1ab029ddf6d160064a59bb7221120d13b",
       "bytes": 36873,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 569,
       "unique_url_count": 13,
       "inspection": {},
@@ -2785,10 +2795,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "158eb8c04fa9c0c6310f93c51683f50bbfc6a5c9b351613a5de0a145fcc6e2da",
-      "bytes": 149176,
+      "sha256": "ea8fcbd7cad3e15b112181139bd40343c9487ae140a4a3ca6673686691aef2d7",
+      "bytes": 150587,
       "tracked_at_scan": true,
-      "units_scanned": 1272,
+      "units_scanned": 1279,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -3155,11 +3165,11 @@
     },
     {
       "path": "profile/A/A-032-Aikom Technology-意大利.md",
-      "sha256": "f5dc518f55eb16b982f0515189a2b297ba893163b387768b1d1c221b164d8474",
-      "bytes": 17073,
+      "sha256": "faae393194d1be1a42a5b89aa7c8b4ed63a9e502858b0da23490bfc91f9f7656",
+      "bytes": 19104,
       "tracked_at_scan": true,
-      "units_scanned": 260,
-      "unique_url_count": 1,
+      "units_scanned": 264,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -3305,11 +3315,11 @@
     },
     {
       "path": "profile/A/A-047-CSI S.A-波兰.md",
-      "sha256": "56074e44b21e2d1827e8ad211910bfbb56edc992af9fee6bb295e1bb232d2c64",
-      "bytes": 16481,
+      "sha256": "cc86ae6d3a11cc58abe30b2c4ad51f53d9bea6cfd70267c0a8c483f19e9760d5",
+      "bytes": 15856,
       "tracked_at_scan": true,
-      "units_scanned": 265,
-      "unique_url_count": 3,
+      "units_scanned": 255,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -3375,11 +3385,11 @@
     },
     {
       "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-      "sha256": "bd6d261b02468fd5c16c175b3ee84c86085cfcc1f81fa3ef95214566ee875f3e",
-      "bytes": 15553,
+      "sha256": "ad2376d4490798c095de49863d4ed66cb2eeb0dc327886c98047d1ff358fb125",
+      "bytes": 22131,
       "tracked_at_scan": true,
-      "units_scanned": 262,
-      "unique_url_count": 1,
+      "units_scanned": 276,
+      "unique_url_count": 9,
       "inspection": {},
       "errors": []
     },
@@ -3415,11 +3425,11 @@
     },
     {
       "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-      "sha256": "4896de52c6c6c89422f1d2840e292c9535c55e1c586c5fb56ad5697f434ea72e",
-      "bytes": 14939,
+      "sha256": "600338d12e74b576321a5d2e672646fd9b275450860029e27409fa9a062f1968",
+      "bytes": 18032,
       "tracked_at_scan": true,
-      "units_scanned": 262,
-      "unique_url_count": 2,
+      "units_scanned": 261,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -13544,6 +13554,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_R56_KP第10波落盘.py",
+      "sha256": "2a3a9c4a23e4a0e3a624d6fa0dd4629972b5cd697c4f240a6b8c3e0491fd2fd7",
+      "bytes": 12686,
+      "tracked_at_scan": false,
+      "units_scanned": 99,
+      "unique_url_count": 14,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_R56_KP第2波落盘.py",
       "sha256": "16cc142a2984efbb37b4cdd3ba1a03591648dc397f7949fac42e4c60cfe612ca",
       "bytes": 22037,
@@ -13587,7 +13607,7 @@
       "path": "scripts/R66_R56_KP第9波落盘.py",
       "sha256": "2d82420340138274ed8e3ec2362259cae27f1f4b4479e203b1881d8006a00077",
       "bytes": 14389,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 108,
       "unique_url_count": 13,
       "inspection": {},
@@ -13705,10 +13725,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "daed2e102c84283a4cd1cbf89889be7d6360c60a115e1f13d8fc01d6ca545a78",
-      "bytes": 37243,
+      "sha256": "ecf47a7ad7ceee5a998f3f964e108a1df1c49f791e6fd04b1f61da64829b715e",
+      "bytes": 37302,
       "tracked_at_scan": true,
-      "units_scanned": 770,
+      "units_scanned": 771,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

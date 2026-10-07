@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Aikom Technology（Rimini）：2026 年满 20 周年的意大利 ICT 增值分销商（B2B VAD），2025-11 上线 AikomGo B2B 电商平台（go.aikomtech.com，24/7 库存/报价/促销）；垂直线：WiFi&Networking、Broadband/FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 专业电台、IoT 智慧零售
-- 【推断】2026-09 新增 Zyxel 代理（已有 Ruijie/Peplink/Cambium/ComNet/Teltonika）——交换机代理品类在密集扩张窗口
-- 【假设】Connectivity Camp（10-13 Franciacorta）= 其伙伴招募与新牌检验节点
+- 【事实】Aikom Technology S.r.l.:AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)
+- 【推断】R66 第 10 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - **电话**：+39 0541 648894
 - **原始联系字段**：info@aikomtech.com；电话 +39 0541 648894
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Sabrina Vescovi**(President(总裁))— D&B Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e〕
+  - **Mauro Renzi**(General Manager(总经理;30 年 ICT 谱))— D&B+LinkedIn 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e〕
+  - **Matteo Del Bianco**(Product Manager(无线产品线))— 公司新闻稿自署(channelcity/channeltech/toptrade 三贸易件转载) 〔已有(公司官方公开件/登记册自曝);源:https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sabrina Vescovi | President(总裁) | D&B Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e |
+| Mauro Renzi | General Manager(总经理;30 年 ICT 谱) | D&B+LinkedIn 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e |
+| Matteo Del Bianco | Product Manager(无线产品线) | 公司新闻稿自署(channelcity/channeltech/toptrade 三贸易件转载) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,38 +143,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Rimini 20 年 VAD；2025-11 电商 AikomGo；2026-09 新增 Zyxel——纳新窗口
-- **②芯片/型号**：Ruijie/Zyxel/ComNet/Teltonika 交换机线已全（Marvell 谱系在内）
-- **③KP 深挖**：新品牌入职走 info@+市场线；Camp 是触达节点
-- **④Saga 对标**：PoE 专精差异化（看门狗/温宽/EXW 价）补其 switching 空档
-- **⑤在乎与偏好**：新品牌要能卖（营销包+培训）；Camp 实操文化
+- **①背景再核**：AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Sabrina Vescovi(President(总裁),leads-only·待 opt-in(LinkedIn/谱面带核));Mauro Renzi(General Manager(总经理;30 年 ICT 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Matteo Del Bianco(Product Manager(无线产品线),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MikroTik 全谱 160+ 品分销位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态与线索】**“Connectivity Camp…Il 13 ottobre…sessioni pratiche…dedicati a Wi-Fi, switching, routing e IoT”
-  > “Connectivity Camp…Il 13 ottobre…sessioni pratiche…dedicati a Wi-Fi, switching, routing e IoT”
-  > 来源：https://www.aikomtech.com/
-- **【产品线与在售品牌】**品牌墙 logo：Hikvision/Peplink/Ruijie/Commend/Townet/Zyxel(2026-09)/Motorola Solutions/Avigilon/Cambium/Selea
-  > 品牌墙 logo：Hikvision/Peplink/Ruijie/Commend/Townet/Zyxel(2026-09)/Motorola Solutions/Avigilon/Cambium/Selea
-  > 来源：https://www.aikomtech.com/
-- **【业务定位】**“B2B value added distributor…Aikom Partner Conference 2026 – 20° Anniversario…AikomGo portale e-commerce B2B”
-  > “B2B value added distributor…Aikom Partner Conference 2026 – 20° Anniversario…AikomGo portale e-commerce B2B”
-  > 来源：https://www.aikomtech.com/
+- **【决策链与对接人】**Key Principal: SABRINA VESCOVI (President);MAURO RENZI is the General Manager of AIKOM TECHNOLOGY SRL
+  > Key Principal: SABRINA VESCOVI (President);MAURO RENZI is the General Manager of AIKOM TECHNOLOGY SRL
+  > 来源：https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e
+- **【决策链与对接人】**Matteo del Bianco, Product manager dell’area Wireless di Aikom Technology(MikroTik 分销协议公司新闻稿引语)
+  > Matteo del Bianco, Product manager dell’area Wireless di Aikom Technology(MikroTik 分销协议公司新闻稿引语)
+  > 来源：https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html
+- **【业务定位】**Aikom Technology distribuisce MikroTik in Italia ... oltre 160 i prodotti a listino ... garanzia per i partner di una pronta consegna
+  > Aikom Technology distribuisce MikroTik in Italia ... oltre 160 i prodotti a listino ... garanzia per i partner di una pronta consegna
+  > 来源：https://www.toptrade.it/featured/aikom-technology-distribuisce-le-soluzioni-mikrotik/
+- **【团队与规模】**Mauro Renzi — Opero da 30 anni nel settore ICT;Location Riccione;Aikom Technology S.r.l.
+  > Mauro Renzi — Opero da 30 anni nel settore ICT;Location Riccione;Aikom Technology S.r.l.
+  > 来源：https://www.linkedin.com/in/maurorenzi/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 20 年 ICT 增值分销（VAD）+AikomGo B2B 电商；国际化扩张期
-- **产品线与在售品牌**：Peplink/Ruijie/Zyxel(2026-09 新）/Cambium/Teltonika/ComNet/Motorola/Avigilon/Hikvision/Selea/Commend/Townet
-- **目标行业与场景**：WiFi&Networking、FWA（WISP/ISP/MSP）、安防监控、DMR/TETRA 电台、IoT 零售
-- **团队与规模**：20 周年大会级组织（2026-05 Rimini Partner Conference）
-- **决策链与对接人**：info@；新品牌入职窗口（参照 Zyxel 2026-09 案例）
-- **技术与认证**：VAD 级技术支持与销售赋能
-- **采购与供应链信号**：密集纳新：2026-09 Zyxel 入职、e-commerce 上线
-- **近期动态与线索**：Connectivity Camp 2026-10-13 Franciacorta（WiFi/switching/routing/IoT 实操日）
-- **与我方契合点**：接入层 PoE 作为其 switching 线的新代理品牌；AikomGo 上架
-- **风险与注意**：已有 Ruijie+Zyxel+ComNet+Teltonika 交换机线，差异化要打在 PoE 专精+看门狗+EXW 价
+- **业务定位**：AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利 MikroTik 全国分销商(工程级售后谱)
+- **团队与规模**：25-99 人;Riccione
+- **决策链与对接人**：**Sabrina Vescovi(President(总裁),leads-only·待 opt-in(LinkedIn/谱面带核));Mauro Renzi(General Manager(总经理;30 年 ICT 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Matteo Del Bianco(Product Manager(无线产品线),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 10 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Vescovi/Renzi 谱面带核+Del Bianco 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,10 +192,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：20年渠道+新电商平台
-- **W**：交换机品牌已拥挤
-- **O**：Zyxel 案例证明在纳新
-- **T**：四牌既有关系
+- **S**：MikroTik 全谱 160+ 品分销位
+- **W**：President/GM 为 D&B 谱(谱面带核)
+- **O**：Del Bianco 无线 PM 直达位
+- **T**：大牌厂商直供链竞谱
 
 ## 触达与风险红线
 
@@ -203,7 +214,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -212,9 +223,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] AikomGo 交换机在售矩阵
-  - [ ] 新牌上架门槛
-  - [ ] Camp 供应商参与政策
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +236,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Aikom team,
+Hi Matteo,
 
-Congratulations on 20 years. And I noticed the brand wall gained Zyxel in September - switching is clearly an active category for you.
-
-We are a PoE-specialist switch maker: 24-port Gigabit PoE (280W) with 4×10G uplinks, hardware PoE watchdog (reboots hung APs/cameras by itself) and surge-hardened ports - positioned beside, not against, your Ruijie/Zyxel lines. Reference: $180 USD EXW.
-
-One question: is there an open slot for a PoE-focused switching line in your portfolio?
-
-If useful, I can send evaluation units - and if Connectivity Camp on Oct 13 accepts vendor demos, I would love to show the watchdog live. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

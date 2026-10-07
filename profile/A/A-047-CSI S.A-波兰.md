@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CSI S.A.（克拉科夫）：30+ 年波兰工业计算机系统分销商（工控机/工业外壳/工业闪存 SSD/Rugged/工业通信），伙伴含 Aaeon/VIA/Antaira/Schroff/ATP/APLEX；100 万+ 订单、1 万+ 客户；Gazele Biznesu/Forbes Diamenty；华沙电车（Tramwaje Warszawskie）SSD/CF 供货案例；2026-09 连赶 MSPO（军防展）/ENERGETAB（能源展）/TEK.day 三展；零售分支 EasyUse.pl
-- 【推断】Antaira 工业以太网=其通信类核心盘；工业 PoE 温宽是错位低价位候选；电车/军展段=公共/军警边界明确标出
-- 【假设】ENERGETAB 能源展=其电网自动化接入层泛件需求口
+- 【事实】CSI S.A:CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
+- 【推断】R66 第 10 波排噪守档
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,41 +137,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：克拉科夫 30 年工业分销龙头：Antaira 工业以太网+工控机全链；百万订单、三展连赶
-- **②芯片/型号**：Antaira（美系工业以太网）
-- **③KP 深挖**：kontakt@ 口；能源展/电子制造展是触达节点
-- **④Saga 对标**：温宽 PoE 低价位错位（不当正面对标）；仅民营工业/能源段
-- **⑤在乎与偏好**：供货稳定+文档+长期供货承诺
+- **①背景再核**：CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 波次二点名**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CSV 已有谱名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“ponad 30 lat…kompletne rozwiązania…przemysł, transport, logistyka, Digital Signage, security, energetyka”+“ponad 1 mln zamówień / 10 000 klientów”
-  > “ponad 30 lat…kompletne rozwiązania…przemysł, transport, logistyka, Digital Signage, security, energetyka”+“ponad 1 mln zamówień / 10 000 klientów”
-  > 来源：https://csi.pl/
-- **【产品线】**参考案例提及“artykuły Aaeon, VIA, Antaira, Schroff”+Od Aplex AiTRON 新闻
-  > 参考案例提及“artykuły Aaeon, VIA, Antaira, Schroff”+Od Aplex AiTRON 新闻
-  > 来源：https://csi.pl/realizacje/referencje-od-zakladow-elektroniki-i-mechaniki-precyzyjnej-rg-s-a/
-- **【近期动态】**“MSPO, ENERGETAB, TEK.day” 2026-09 三展（军防/能源/电子制造）
-  > “MSPO, ENERGETAB, TEK.day” 2026-09 三展（军防/能源/电子制造）
-  > 来源：https://csi.pl/wrzesniowy-harmonogram-csi-s-a-spotkajmy-sie-na-mspo-energetab-lub-tek-day/
-- **【联系方式】**kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > kontakt@csi.pl +48 12 390 61 80（CSV）；MX=csi-pl.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://csi.pl/
+- **【业务定位】**CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体
+  > CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体
+  > 来源：https://mikrotik.com/consultants/europe
+- **【业务定位】**gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体
+  > gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体
+  > 来源：https://gr.linkedin.com/company/mikrotiktraining
+- **【近期动态与线索】**2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名
+  > 2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名
+  > 来源：https://www.businessregistry.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：克拉科夫 30 年工业计算机+通信分销（Antaira 工业以太网核心盘）
-- **产品线与在售品牌**：Antaira/Aaeon/VIA/Schroff/ATP/APLEX；工控机/壳/SSD/Rugged/通信
-- **目标行业与场景**：工业/交通/物流/Digital Signage/安防/能源/AI
-- **团队与规模**：大型分销（100 万+订单）
-- **决策链与对接人**：kontakt@csi.pl
-- **技术与认证**：获奖分销（Gazele/Forbes 钻石）
-- **采购与供应链信号**：大流水+项目双线
-- **近期动态与线索**：2026-09 三展连赶（MSPO 军防/ENERGETAB 能源/TEK.day）
-- **与我方契合点**：Antaira 旁的温宽 PoE 低价位错位；能源民营段
-- **风险与注意**：军防（MSPO）与公共（电车）段一律不触
+- **业务定位**：CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希腊网络渠道商(身份待锁)
+- **团队与规模**：(未锁定)
+- **决策链与对接人**：**守档准由;R66 波次二点名**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 10 波排噪守档
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:排噪准由已录;R66 波次二点名(GEMI 登记册按号反查)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -186,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：规模+口碑
-- **W**：边界多
-- **O**：能源潮
-- **T**：美系盘
+- **S**：CSV 已有谱名
+- **W**：实体身份未锁定
+- **O**：GEMI 登记册反查可破
+- **T**：同名噪声高
 
 ## 触达与风险红线
 
@@ -217,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Antaira 在售矩阵
-  - [ ] 能源段项目量
-  - [ ] 阶梯账期
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -231,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi CSI team,
 
-30+ years, a million orders, and the September triple-header - MSPO, ENERGETAB, TEK.day - says CSI runs hard.
 
-We build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - sized as a cost-friendly complement beside your Antaira line for energy-automation and factory builds. Reference: $74.8 USD EXW.
-
-One question: in your energy-automation projects, who supplies the PoE access layer today?
-
-If useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

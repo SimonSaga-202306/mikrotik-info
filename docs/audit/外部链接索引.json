@@ -5628,6 +5628,40 @@
     ]
   },
   {
+    "url": "https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L363"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L101"
+      }
+    ]
+  },
+  {
+    "url": "https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://coders.in.ua/",
     "http_checked": false,
     "occurrences": [
@@ -6458,14 +6492,6 @@
       {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L152"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L161"
       }
     ]
   },
@@ -6476,10 +6502,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
         "locator": "L627"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L155"
       }
     ]
   },
@@ -6490,10 +6512,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第5批.json",
         "locator": "L632"
-      },
-      {
-        "path": "profile/A/A-047-CSI S.A-波兰.md",
-        "locator": "L158"
       }
     ]
   },
@@ -12328,6 +12346,30 @@
     ]
   },
   {
+    "url": "https://gr.linkedin.com/company/mikrotiktraining",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L158"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://gr.linkedin.com/company/mikrotiktraining'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L59"
+      }
+    ]
+  },
+  {
     "url": "https://gr.linkedin.com/company/systemcon",
     "http_checked": false,
     "occurrences": [
@@ -12761,14 +12803,6 @@
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
         "locator": "L133"
       },
       {
@@ -12777,11 +12811,11 @@
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-        "locator": "L152"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-        "locator": "L158"
+        "locator": "L142"
       }
     ]
   },
@@ -12792,10 +12826,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第6批.json",
         "locator": "L715"
-      },
-      {
-        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
-        "locator": "L155"
       }
     ]
   },
@@ -15928,6 +15958,30 @@
     ]
   },
   {
+    "url": "https://kvaser.com/company/agl-industrial-solutions/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L408"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://kvaser.com/company/agl-industrial-solutions/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
     "url": "https://kws-partner.de",
     "http_checked": false,
     "occurrences": [
@@ -18760,6 +18814,14 @@
         "locator": "反向信号名单!Q827"
       },
       {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L132"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L153"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A280-A299.json",
         "locator": "L168"
       },
@@ -18800,6 +18862,10 @@
         "locator": "L30"
       },
       {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L152"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!Q297"
       },
@@ -18838,6 +18904,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-827/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/consultants/europe'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L58"
       }
     ]
   },
@@ -29652,6 +29728,100 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L257"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L335"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L342"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L349"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L356"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L179"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L71"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L72"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L73"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L74"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/giorgio-marchetti-email_127258904",
     "http_checked": false,
     "occurrences": [
@@ -39111,27 +39281,15 @@
       },
       {
         "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L128"
+        "locator": "L136"
       },
       {
         "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L131"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L150"
-      },
-      {
-        "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L153"
-      },
-      {
-        "path": "profile/A/A-032-Aikom Technology-意大利.md",
-        "locator": "L156"
+        "locator": "L142"
       }
     ]
   },
@@ -39462,6 +39620,56 @@
       {
         "path": "profile/A/A-503-Alfa Systems-比利时-卢森堡.md",
         "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L226"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L247"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L314"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L68"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L78"
       }
     ]
   },
@@ -42592,6 +42800,30 @@
     ]
   },
   {
+    "url": "https://www.businessregistry.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L163"
+      },
+      {
+        "path": "profile/A/A-047-CSI S.A-波兰.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.businessregistry.gr/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L60"
+      }
+    ]
+  },
+  {
     "url": "https://www.businesswire.com/news/home/20241206306408/en/Allied-Telesis-Boosts-Customer-Access-Through-Strategic-Partnership-With-GBE-Converge",
     "http_checked": false,
     "occurrences": [
@@ -43432,6 +43664,52 @@
       {
         "path": "profile/B/B-018-MTI-乌克兰.md",
         "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L48"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L81"
       }
     ]
   },
@@ -48175,27 +48453,19 @@
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L130"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L133"
+        "locator": "L151"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L136"
+        "locator": "L154"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L139"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L155"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L158"
+        "locator": "L157"
       }
     ]
   },
@@ -48622,6 +48892,122 @@
       {
         "path": "profile/A/A-363-SOS electronic-斯洛伐克.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L104"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L111"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L47"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L377"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L398"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L465"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L78"
       }
     ]
   },
@@ -54694,6 +55080,52 @@
     ]
   },
   {
+    "url": "https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L403"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L472"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-058-AGL Industrial Solutions-葡萄牙.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.ibm.com/partnerplus/directory/company/1645",
     "http_checked": false,
     "occurrences": [
@@ -54956,6 +55388,68 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-968/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L252"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L321"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L328"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L69"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L70"
+      },
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L80"
       }
     ]
   },
@@ -60188,6 +60682,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-91/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/maurorenzi/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L47"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/maurorenzi/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L50"
       }
     ]
   },
@@ -78958,6 +79476,30 @@
       {
         "path": "profile/B/B-127-Konstantinos Analytis - Alfa-Tech-希腊.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.toptrade.it/featured/aikom-technology-distribuisce-le-soluzioni-mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-032-Aikom Technology-意大利.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://www.toptrade.it/featured/aikom-technology-distribuisce-le-soluzioni-mikrotik/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第10波落盘.py",
+        "locator": "L49"
       }
     ]
   },

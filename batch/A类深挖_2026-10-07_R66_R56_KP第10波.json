@@ -1,0 +1,482 @@
+{
+ "date": "2026-10-07",
+ "wave": "R66 第 10 波:Aikom(MikroTik 意分销)+CSI(排噪守档)+Direktronik(Lagercrantz 子)+AGL(葡 Unipessoal)四户",
+ "scope": "IT/SE/PT 谱;CSI S.A 希腊身份未锁守档;公司型名薄 KP 队列续",
+ "records": [
+  {
+   "customer": "A-032",
+   "fact": "Aikom Technology S.r.l.:AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)",
+   "inference": "R66 第 10 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e",
+   "tech": "(波次二补)",
+   "hr": "25-99 人;Riccione",
+   "contact_found": "**Sabrina Vescovi(President(总裁),leads-only·待 opt-in(LinkedIn/谱面带核));Mauro Renzi(General Manager(总经理;30 年 ICT 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Matteo Del Bianco(Product Manager(无线产品线),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "意大利 MikroTik 全国分销商(工程级售后谱)",
+    "团队与规模": "25-99 人;Riccione",
+    "决策链与对接人": "**Sabrina Vescovi(President(总裁),leads-only·待 opt-in(LinkedIn/谱面带核));Mauro Renzi(General Manager(总经理;30 年 ICT 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Matteo Del Bianco(Product Manager(无线产品线),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 10 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Vescovi/Renzi 谱面带核+Del Bianco 直达(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Key Principal: SABRINA VESCOVI (President);MAURO RENZI is the General Manager of AIKOM TECHNOLOGY SRL",
+     "source": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Matteo del Bianco, Product manager dell’area Wireless di Aikom Technology(MikroTik 分销协议公司新闻稿引语)",
+     "source": "https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Aikom Technology distribuisce MikroTik in Italia ... oltre 160 i prodotti a listino ... garanzia per i partner di una pronta consegna",
+     "source": "https://www.toptrade.it/featured/aikom-technology-distribuisce-le-soluzioni-mikrotik/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Mauro Renzi — Opero da 30 anni nel settore ICT;Location Riccione;Aikom Technology S.r.l.",
+     "source": "https://www.linkedin.com/in/maurorenzi/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "AIKOM TECHNOLOGY SRL(意大利 Riccione(Rimini),Viale Lambrusco 1, 47838;+39 0541 648894;aikomtech.com;2021-02 起 MikroTik 意大利全国分销商(channelcity 载:全谱 160+ 品·Cloud Core/RouterBOARD 企业级→家用/LTE/FWA→铜纤交换+IoT/LoRa;工程级免费售后为卖点);25-99 人(D&B)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Sabrina Vescovi(President(总裁),leads-only·待 opt-in(LinkedIn/谱面带核));Mauro Renzi(General Manager(总经理;30 年 ICT 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Matteo Del Bianco(Product Manager(无线产品线),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "MikroTik 全谱 160+ 品分销位",
+     "⑥SWOT": "S MikroTik 全谱 160+ 品分销位 / W President/GM 为 D&B 谱(谱面带核) / O Del Bianco 无线 PM 直达位 / T 大牌厂商直供链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "MikroTik 全谱 160+ 品分销位",
+     "W": "President/GM 为 D&B 谱(谱面带核)",
+     "O": "Del Bianco 无线 PM 直达位",
+     "T": "大牌厂商直供链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 10 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Sabrina Vescovi",
+     "role": "President(总裁)",
+     "contact": "D&B Key Principal 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e"
+    },
+    {
+     "name": "Mauro Renzi",
+     "role": "General Manager(总经理;30 年 ICT 谱)",
+     "contact": "D&B+LinkedIn 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.dnb.com/business-directory/company-profiles/aikom-technology-srl.1e5071df720517b638b23d670b407e5e"
+    },
+    {
+     "name": "Matteo Del Bianco",
+     "role": "Product Manager(无线产品线)",
+     "contact": "公司新闻稿自署(channelcity/channeltech/toptrade 三贸易件转载)",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.channelcity.it/news/18351/aikom-technology-distribuisce-mikrotik.html"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Matteo,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-047",
+   "fact": "CSI S.A:CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
+   "inference": "R66 第 10 波排噪守档",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://mikrotik.com/consultants/europe",
+   "tech": "(波次二补)",
+   "hr": "(未锁定)",
+   "contact_found": "**守档准由;R66 波次二点名**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "希腊网络渠道商(身份待锁)",
+    "团队与规模": "(未锁定)",
+    "决策链与对接人": "**守档准由;R66 波次二点名**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 10 波排噪守档",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "守档:排噪准由已录;R66 波次二点名(GEMI 登记册按号反查)"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "CSI S.A — CSV 入档名;希腊 MikroTik 渠道面检索仅返回 Hellascom/Linkshop.gr/MikroTik Training Center in Greece(Stavros Maragoudakis)等异名实体",
+     "source": "https://mikrotik.com/consultants/europe"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "gr.linkedin MikroTik Training Center in Greece: Trainer Stavros Maragoudakis(Hellascom/Linkshop.gr Managing director)+Eleftherios Liodakis(DC ELECTRONICS GM)——均非 CSI S.A 本体",
+     "source": "https://gr.linkedin.com/company/mikrotiktraining"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-07 R66 10 波:守档排噪;波次二=希腊 GEMI 登记册(ΓΕΜΗ)按号反查定名",
+     "source": "https://www.businessregistry.gr/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CSI S.A(希腊;2026-10-07 R66 第 10 波排噪:公开面检索命中 Stavros Maragoudakis/Hellascom/Linkshop.gr/DC ELECTRONICS/Intercept MSV 等多家希腊 MikroTik 渠道异名实体,均非 CSV 入档『CSI S.A』本体;实体身份未锁)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**守档准由;R66 波次二点名**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "CSV 已有谱名",
+     "⑥SWOT": "S CSV 已有谱名 / W 实体身份未锁定 / O GEMI 登记册反查可破 / T 同名噪声高"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "CSV 已有谱名",
+     "W": "实体身份未锁定",
+     "O": "GEMI 登记册反查可破",
+     "T": "同名噪声高"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 10 波身份未锁"
+   },
+   "kp": [],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-054",
+   "fact": "Direktronik AB:Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se",
+   "inference": "R66 第 10 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS",
+   "tech": "(波次二补)",
+   "hr": "28 人;$7.5M;1986 创;集团母链",
+   "contact_found": "**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "瑞典电子件批发分销(Lagercrantz 集团子)",
+    "团队与规模": "28 人;$7.5M;1986 创;集团母链",
+    "决策链与对接人": "**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 10 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "集团母链:采购决策或在 Lagercrantz 层(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Extern verkställande direktör Henrik Johan Ringstedt (f 1989);Ordförande Mats Johan Rydén (f 1966);Moderbolaget är Lagercrantz Group Aktiebolag",
+     "source": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "Lagercrantz acquires Qvintus: \"With Qvintus, Direktronik can develop its business within industrial measurement and control\", says Mats Rydén, CEO of Direktronik AB(2025-08-19 官方发布);Andreas Heder Head of Division Control",
+     "source": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Top employees: Mats Backlund CTO and Business Development;Susanne Carlsson Acting CIO;Jonas Wahlström Product Sales Manager;Anders Hedin Sortimentsansvarig;28 employees;$7.5M revenue",
+     "source": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "40 年分销+集团 Control 分部",
+     "⑥SWOT": "S 40 年分销+集团 Control 分部 / W 集团采购链层(谱位在总部) / O extern VD+董事长双谱直达 / T 大牌厂商直供链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "40 年分销+集团 Control 分部",
+     "W": "集团采购链层(谱位在总部)",
+     "O": "extern VD+董事长双谱直达",
+     "T": "大牌厂商直供链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 10 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Henrik Johan Ringstedt",
+     "role": "Extern verkställande direktör(外部任 CEO,1989 生)",
+     "contact": "allabolag.se 登记册谱+DNB Key Principal",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS"
+    },
+    {
+     "name": "Mats Johan Rydén",
+     "role": "Ordförande(董事长,1966 生;官方新闻稿 CEO 位)",
+     "contact": "allabolag.se 登记册谱+Lagercrantz 集团官方新闻稿(2025-08 Qvintus 收购 CEO 署名)",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus"
+    },
+    {
+     "name": "Lars Andreas Heder",
+     "role": "Board Member+Head of Division Control(Lagercrantz 集团)",
+     "contact": "DNB+Lagercrantz 官方新闻稿联系人",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus"
+    },
+    {
+     "name": "Mats Backlund",
+     "role": "CTO and Business Development Specialist",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf"
+    },
+    {
+     "name": "Susanne Carlsson",
+     "role": "Acting CIO",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf"
+    },
+    {
+     "name": "Jonas Wahlström",
+     "role": "Product Sales Manager",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf"
+    },
+    {
+     "name": "Anders Hedin",
+     "role": "Sortimentsansvarig(品列负责人)",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf"
+    },
+    {
+     "name": "Marius Hæggernæs",
+     "role": "Contact(分销谱名列)",
+     "contact": "coax-connectors 分销页",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hej Henrik,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-058",
+   "fact": "AGL Industrial Solutions:António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)",
+   "inference": "R66 第 10 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html",
+   "tech": "(波次二补)",
+   "hr": "2011 创;Unipessoal 独资;小实体",
+   "contact_found": "**Pedro Jorge Rodrigues Lopes(Managing Partner(管理合伙人;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));António Guedes Lopes(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "葡萄牙工业 PC/EDGE AI 价值分销(Kvaser 伙伴)",
+    "团队与规模": "2011 创;Unipessoal 独资;小实体",
+    "决策链与对接人": "**Pedro Jorge Rodrigues Lopes(Managing Partner(管理合伙人;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));António Guedes Lopes(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-07 R66 10 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Lopes 独资直达(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Key Principal: Pedro Jorge Rodrigues Lopes — Managing Partner;Doing Business As: AGL - INDUSTRIAL SOLUTIONS(AVENIDA ANIL, 6 7ºDTO. 6200-502 COVILHÃ)",
+     "source": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Razão Social: António Guedes Lopes, Sociedade Unipessoal, Lda;Designação comercial: AGL - INDUSTRIAL SOLUTIONS;CAE 46501 Comércio por grosso de computadores;fundada 2011/01/14",
+     "source": "https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "AGL Industrial Solutions — Specialists in Industrial EDGE AI Computers, Embedded Systems, Panel PCs, Touch Monitors, industrial communication devices;Portugal leading company in distribution of value-added systems(Kvaser 伙伴页)",
+     "source": "https://kvaser.com/company/agl-industrial-solutions/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "António Guedes Lopes, Sociedade Unipessoal, Lda(葡萄牙 Covilhã,Avenida Anil 6 7ºDto, 6200-502 + Lisboa Rua Braamcamp 84 3ºDto;葡 Sociedade **Unipessoal**=单一股东实体;2011-01-14 创(15 年谱);CAE 46501 电脑/外设/软件批发;DBA=AGL - Industrial Solutions;guedeslopes.pt(工业 PC/EDGE AI/触控/工业通信/IoT 网关/工业电源;Kvaser 伙伴;Portugal leading value-added distributor);邮箱模式 first@guedeslopes.pt(33%)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Pedro Jorge Rodrigues Lopes(Managing Partner(管理合伙人;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));António Guedes Lopes(同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "葡萄牙 value-added 工业件一线",
+     "⑥SWOT": "S 葡萄牙 value-added 工业件一线 / W 小实体独资(决策=一人) / O Lopes Managing Partner 直达位 / T 大牌工业件链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "葡萄牙 value-added 工业件一线",
+     "W": "小实体独资(决策=一人)",
+     "O": "Lopes Managing Partner 直达位",
+     "T": "大牌工业件链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 10 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Pedro Jorge Rodrigues Lopes",
+     "role": "Managing Partner(管理合伙人;Key Principal)",
+     "contact": "D&B Key Principal 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.dnb.com/business-directory/company-profiles/ant%C3%B3nio_guedes_lopes_sociedade_unipessoal_lda.dfc3d510b30cbe803c591a2f38908775.html"
+    },
+    {
+     "name": "António Guedes Lopes",
+     "role": "同名创位推定(Unipessoal 公司名即创位姓;身份待里斯本注册局谱核)",
+     "contact": "公司名件推定(leads-only)",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.iberinform.pt/empresa/24441781/antonio-guedes-lopes-sociedade-unipessoal-lda"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Pedro,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

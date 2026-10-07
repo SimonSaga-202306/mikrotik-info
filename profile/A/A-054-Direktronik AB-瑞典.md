@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Direktronik AB（瑞典，1986 创立）：40 年北欧网络/通信/基础设施分销商——每年上新 1000+ SKU；电商登录制特价体系；在册自台：数据中心 400G L3 交换机、SFP 全谱、PoE injector/交换机、边缘到 FTTH；CSV 信号：**已卖带 ERPS/SNMPv3 的管理型（N-net 品牌线）**；Fredrik Brunzell 直接邮箱
-- 【推断】N-net=其自有/value 品牌管理型线——我们可直接对应其 value-tier OEM 换血或补充 SKU：SNR 承接 ERPS/SNMPv3 特性永不输查
-- 【假设】“自集+白牌”每年 1000 SKU 吸纳机制=准入真实；400G 大盒在册显其吃高端，value PoE 位是空档补位
+- 【事实】Direktronik AB:Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
+- 【推断】R66 第 10 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,13 +74,31 @@ updated: 2026-09-28
 - **电话**：+46 8 52 400 700、2026-09-29
 - **原始联系字段**：Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；总机 +46 8 52 400 700；Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Henrik Johan Ringstedt**(Extern verkställande direktör(外部任 CEO,1989 生))— allabolag.se 登记册谱+DNB Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS〕
+  - **Mats Johan Rydén**(Ordförande(董事长,1966 生;官方新闻稿 CEO 位))— allabolag.se 登记册谱+Lagercrantz 集团官方新闻稿(2025-08 Qvintus 收购 CEO 署名) 〔已有(公司官方公开件/登记册自曝);源:https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕
+  - **Lars Andreas Heder**(Board Member+Head of Division Control(Lagercrantz 集团))— DNB+Lagercrantz 官方新闻稿联系人 〔已有(公司官方公开件/登记册自曝);源:https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕
+  - **Mats Backlund**(CTO and Business Development Specialist)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
+  - **Susanne Carlsson**(Acting CIO)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
+  - **Jonas Wahlström**(Product Sales Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
+  - **Anders Hedin**(Sortimentsansvarig(品列负责人))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
+  - **Marius Hæggernæs**(Contact(分销谱名列))— coax-connectors 分销页 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/〕
 
 
 - **退信实测（2026-09-29）**：`steffo@direktronik.se` 服务器拒收（Your message to steffo@direktronik.se has been blocked）→ 停用该地址；替代通道：fredrik.brunzell@direktronik.se（Fredrik Brunzell · Softing 名录公开，CSV 主联系）；+46 公司电话（官网）
   > 处置：停用 steffo@（个人地址被挡）；R37 公司/具名交替：改走 fredrik.brunzell@，若无回响再官网表单+电话
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Henrik Johan Ringstedt | Extern verkställande direktör(外部任 CEO,1989 生) | allabolag.se 登记册谱+DNB Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS |
+| Mats Johan Rydén | Ordförande(董事长,1966 生;官方新闻稿 CEO 位) | allabolag.se 登记册谱+Lagercrantz 集团官方新闻稿(2025-08 Qvintus 收购 CEO 署名) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus |
+| Lars Andreas Heder | Board Member+Head of Division Control(Lagercrantz 集团) | DNB+Lagercrantz 官方新闻稿联系人 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus |
+| Mats Backlund | CTO and Business Development Specialist | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
+| Susanne Carlsson | Acting CIO | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
+| Jonas Wahlström | Product Sales Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
+| Anders Hedin | Sortimentsansvarig(品列负责人) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
+| Marius Hæggernæs | Contact(分销谱名列) | coax-connectors 分销页 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://coax-connectors.com/distributors/nexlan-as-en-del-av-direktronik-ab-copy/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -140,35 +158,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：40 年北欧分销，1000+ SKU/年；N-net 管理型在册（ERPS/SNMPv3）
-- **②芯片/型号**：N-net+400G DC 大牌
-- **③KP 深挖**：Brunzell 直达采购侧
-- **④Saga 对标**：value-tier 24 口 PoE 白牌补位
-- **⑤在乎与偏好**：SKU 化吞吐+技术文档齐
+- **①背景再核**：Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：40 年分销+集团 Control 分部
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Direktronik firar 40 år…Vi introducerar över 1000 nya produkter varje år”+在售 400G L3 DC 交换与 PoE 线
-  > “Direktronik firar 40 år…Vi introducerar över 1000 nya produkter varje år”+在售 400G L3 DC 交换与 PoE 线
-  > 来源：https://www.direktronik.se/
-- **【联系方式】**fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > fredrik.brunzell@direktronik.se（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.direktronik.se/
+- **【决策链与对接人】**Extern verkställande direktör Henrik Johan Ringstedt (f 1989);Ordförande Mats Johan Rydén (f 1966);Moderbolaget är Lagercrantz Group Aktiebolag
+  > Extern verkställande direktör Henrik Johan Ringstedt (f 1989);Ordförande Mats Johan Rydén (f 1966);Moderbolaget är Lagercrantz Group Aktiebolag
+  > 来源：https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS
+- **【近期动态与线索】**Lagercrantz acquires Qvintus: "With Qvintus, Direktronik can develop its business within industrial measurement and control", says Mats Rydén, CEO of Direktronik AB(2025-08-19 官方发布);Andreas Heder Head of Division Control
+  > Lagercrantz acquires Qvintus: "With Qvintus, Direktronik can develop its business within industrial measurement and control", says Mats Rydén, CEO of Direktronik AB(2025-08-19 官方发布);Andreas Heder Head of Division Control
+  > 来源：https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus
+- **【团队与规模】**Top employees: Mats Backlund CTO and Business Development;Susanne Carlsson Acting CIO;Jonas Wahlström Product Sales Manager;Anders Hedin Sortimentsansvarig;28 employees;$7.5M revenue
+  > Top employees: Mats Backlund CTO and Business Development;Susanne Carlsson Acting CIO;Jonas Wahlström Product Sales Manager;Anders Hedin Sortimentsansvarig;28 employees;$7.5M revenue
+  > 来源：https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：北欧 40 年网络分销（自集 SKU 吞吐强，N-net value 品牌）。
-- **产品线与在售品牌**：N-net 管理型（ERPS/SNMPv3）+400G DC 交换+光模块全谱
-- **目标行业与场景**：北欧企业/数据中心/FTTH 建设
-- **团队与规模**：全国型分销
-- **决策链与对接人**：Fredrik Brunzell（采购侧直达）
-- **技术与认证**：SKU 吞吐工程化
-- **采购与供应链信号**：自集 SKU+白牌机制
-- **近期动态与线索**：40 周年（1986-2026）
-- **与我方契合点**：value-tier 管理型 PoE 白牌补位（不当其 400G 大牌对手）
-- **风险与注意**：SNR 特性永不输查（ERPS/SNMPv3 已在卖）
+- **业务定位**：Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：瑞典电子件批发分销(Lagercrantz 集团子)
+- **团队与规模**：28 人;$7.5M;1986 创;集团母链
+- **决策链与对接人**：**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 10 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：集团母链:采购决策或在 Lagercrantz 层(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +204,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：吞吐机制
-- **W**：有线
-- **O**：补位
-- **T**：比价
+- **S**：40 年分销+集团 Control 分部
+- **W**：集团采购链层(谱位在总部)
+- **O**：extern VD+董事长双谱直达
+- **T**：大牌厂商直供链竞谱
 
 ## 触达与风险红线
 
@@ -205,7 +226,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,9 +235,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] N-net 供应商现况
-  - [ ] value 24 口 PoE 源
-  - [ ] 准入清单
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -228,18 +248,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Fredrik,
+Hej Henrik,
 
-Congratulations on 40 years - and on a catalog that swallows 1000 new SKUs a year. That is a machine.
-
-We build a 24-port Gigabit PoE switch with ERPS, SNMPv3, Voice VLAN and a hardware PoE watchdog at a value price point - built for catalog throughput, not for glossy booths. Reference: $180 USD EXW.
-
-One question: next to your N-net line, is there an open value slot for a 24-port PoE access switch?
-
-If useful, I can send a unit plus the full documentation pack for SKU review. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
