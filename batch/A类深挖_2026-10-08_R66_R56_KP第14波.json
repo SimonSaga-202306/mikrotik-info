@@ -1,0 +1,548 @@
+{
+ "date": "2026-10-08",
+ "wave": "R66 第 14 波:Amplitel(官网 CEO 自署)+BCL(OH women-owned)+GSI(Gemellaro 家族+Ford 账户)+HBS(GenNx360 PE+CEO 层异文复核)四户",
+ "scope": "US 谱(WI/OH/MI/SC);BCL 印/建筑排噪;HBS CEO 层 Carr/Buddenberg/Schmidt 三源异文留痕",
+ "records": [
+  {
+   "customer": "A-114",
+   "fact": "Amplitel Technologies:Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)",
+   "inference": "R66 第 14 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://ampliteltech.com/",
+   "tech": "(波次二补)",
+   "hr": "12 人;$22.1M;2007 创",
+   "contact_found": "**Aaron Lahm(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名),official-self-published·谱/leads-only(直发需 opt-in));Benjamin Boehnlein(Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Nathan Lahm(Senior Account & vCIO Engineer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chris Glasheen(Accounts Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Matthew Nolan(Technical Engineer,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国 WI SMB IT 支持/MSP",
+    "团队与规模": "12 人;$22.1M;2007 创",
+    "决策链与对接人": "**Aaron Lahm(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名),official-self-published·谱/leads-only(直发需 opt-in));Benjamin Boehnlein(Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Nathan Lahm(Senior Account & vCIO Engineer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chris Glasheen(Accounts Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Matthew Nolan(Technical Engineer,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 14 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "A. Lahm CEO/B. Boehnlein VP 谱位(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Aaron Lahm, CEO, Amplitel Technologies LLC(\"Serving Wisconsin Businesses\" 官网证言署名);Founded 2007;Kaukauna WI",
+     "source": "https://ampliteltech.com/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Key employees: Benjamin Boehnlein Vice President;Nathan Lahm Senior Account & vCIO Engineer;Chris Glasheen Accounts Manager;Matthew Nolan Technical Engineer;11-50 employees",
+     "source": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Staff: Aaron Lahm Owner;Chris Glasheen Accounts Manager;Jerad Siewert Data Cabling Technician;Matthew Nolan Technical Engineer;9 employees;$22.1M revenue",
+     "source": "https://contactout.com/company/Amplitel-Technologies-20142"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Aaron Lahm(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名),official-self-published·谱/leads-only(直发需 opt-in));Benjamin Boehnlein(Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Nathan Lahm(Senior Account & vCIO Engineer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chris Glasheen(Accounts Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Matthew Nolan(Technical Engineer,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "CEO 官网自署直达",
+     "⑥SWOT": "S CEO 官网自署直达 / W 小实体谱 / O Lahm 家族双位+vCIO 谱 / T 大牌厂商链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "CEO 官网自署直达",
+     "W": "小实体谱",
+     "O": "Lahm 家族双位+vCIO 谱",
+     "T": "大牌厂商链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 14 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Aaron Lahm",
+     "role": "CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名)",
+     "contact": "ampliteltech.com 官网自署 \"Aaron Lahm, CEO\"+contactout Owner 谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://ampliteltech.com/"
+    },
+    {
+     "name": "Benjamin Boehnlein",
+     "role": "Vice President",
+     "contact": "zoominfo/RR 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193"
+    },
+    {
+     "name": "Nathan Lahm",
+     "role": "Senior Account & vCIO Engineer(家族谱)",
+     "contact": "zoominfo 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193"
+    },
+    {
+     "name": "Chris Glasheen",
+     "role": "Accounts Manager",
+     "contact": "zoominfo/contactout 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193"
+    },
+    {
+     "name": "Matthew Nolan",
+     "role": "Technical Engineer",
+     "contact": "zoominfo/RR/contactout 三源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Aaron,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-115",
+   "fact": "BCL Enterprises, Inc:BCL Enterprises, inc(美国 Liberty Township, Ohio,5796 Treeside Dr;**dba BCL IT Consulting**;**1993 创(33 年;women-owned 女性拥有经营技术设计-建造公司)**;谱型=Technology Design/Engineering/Build 公司(低压布线/光纤/网络/无线/蜂窝天线 DAS/AV 系统/物理安防;Access Control+监控系统专营;Procore 谱:Telephone Specialties/Commissioning/Technology Design and Engineering);排噪:BCL Enterprises Ltd(印度 Balaji Commercial;金融)+Bloomberg 1985 home builder=异名已排",
+   "inference": "R66 第 14 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting",
+   "tech": "(波次二补)",
+   "hr": "1993 创;小实体",
+   "contact_found": "**Martin Crabill(业主线/主负责人(Alignable 公司页具名),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "BCL Enterprises, inc(美国 Liberty Township, Ohio,5796 Treeside Dr;**dba BCL IT Consulting**;**1993 创(33 年;women-owned 女性拥有经营技术设计-建造公司)**;谱型=Technology Design/Engineering/Build 公司(低压布线/光纤/网络/无线/蜂窝天线 DAS/AV 系统/物理安防;Access Control+监控系统专营;Procore 谱:Telephone Specialties/Commissioning/Technology Design and Engineering);排噪:BCL Enterprises Ltd(印度 Balaji Commercial;金融)+Bloomberg 1985 home builder=异名已排",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国 OH 女性拥有技术设计建造商(低压/安防)",
+    "团队与规模": "1993 创;小实体",
+    "决策链与对接人": "**Martin Crabill(业主线/主负责人(Alignable 公司页具名),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 14 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Crabill 业主谱(opt-in 律);Alignable 独件带核"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "BCL Enterprises Inc dba BCL IT Consulting — Martin Crabill(Alignable 公司页);Technology Design Build Company;founded 1993",
+     "source": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Technology Design, Engineering and Build Firm;Low voltage cable infrastructure, fiber, network, wireless, cellular antenna systems, audiovisual systems, and physical security;5796 Treeside Dr, Liberty Township, OH",
+     "source": "https://www.procore.com/network/p/bcl-enterprises-inc-liberty-township"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "woman owned and operated technology design build company;Network design, Network Cabling, Security Access Control, Surveillance cameras or DAS(Alignable 推存件)",
+     "source": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "BCL Enterprises, inc(美国 Liberty Township, Ohio,5796 Treeside Dr;**dba BCL IT Consulting**;**1993 创(33 年;women-owned 女性拥有经营技术设计-建造公司)**;谱型=Technology Design/Engineering/Build 公司(低压布线/光纤/网络/无线/蜂窝天线 DAS/AV 系统/物理安防;Access Control+监控系统专营;Procore 谱:Telephone Specialties/Commissioning/Technology Design and Engineering);排噪:BCL Enterprises Ltd(印度 Balaji Commercial;金融)+Bloomberg 1985 home builder=异名已排",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Martin Crabill(业主线/主负责人(Alignable 公司页具名),leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "women-owned 33 年谱+低压/DAS/安防全链",
+     "⑥SWOT": "S women-owned 33 年谱+低压/DAS/安防全链 / W 谱面薄(Alignable 独件) / O Crabill 业主谱位 / T 大牌件链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "women-owned 33 年谱+低压/DAS/安防全链",
+     "W": "谱面薄(Alignable 独件)",
+     "O": "Crabill 业主谱位",
+     "T": "大牌件链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 14 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Martin Crabill",
+     "role": "业主线/主负责人(Alignable 公司页具名)",
+     "contact": "alignable.com BCL Enterprises Inc dba BCL IT Consulting 页具名",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Martin,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-116",
+   "fact": "Gemellaro Systems Integration (GSI):Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)",
+   "inference": "R66 第 14 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html",
+   "tech": "(波次二补)",
+   "hr": "63 人;$38.9M",
+   "contact_found": "**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国 MI 网络+安防双层集成商(Ford 账户谱)",
+    "团队与规模": "63 人;$38.9M",
+    "决策链与对接人": "**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 14 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "家族+四 Director 谱位(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Key Principal: Marc J Gemellaro;Gemellaro Systems Integration, Inc. Doing Business As: WILTECH TECHNOLOGIES(DNB 件)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Mike Newman Owner & VP;Sharon Pfeiffer Gemellaro CFO;James Miller Director CAD Operations;Andrew Krull Director Operational Systems;Charles Cassavoy Director Ford Network Services Account;63 employees;$38.9M",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "GSI brings together high-level expertise in network infrastructure and physical security;1055 W Square Lake Rd, Troy MI 48098;Ingredient: Ford Network Services Directorship 谱",
+     "source": "https://www.signalhire.com/companies/gemellaro-systems-integration"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "Gemellaro 家族+Ford 大客户账户",
+     "⑥SWOT": "S Gemellaro 家族+Ford 大客户账户 / W 谱件异文(规模/营收) / O Newman(Owner/VP)+Cassavoy(Ford 账户)双位 / T 大牌安防件链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "Gemellaro 家族+Ford 大客户账户",
+     "W": "谱件异文(规模/营收)",
+     "O": "Newman(Owner/VP)+Cassavoy(Ford 账户)双位",
+     "T": "大牌安防件链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 14 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Marc J Gemellaro",
+     "role": "Key Principal(创办家族名位)",
+     "contact": "DNB Key Principal 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html"
+    },
+    {
+     "name": "Mike Newman",
+     "role": "Owner & Vice President",
+     "contact": "RR/prospeo/signalhire 三源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72"
+    },
+    {
+     "name": "Sharon Pfeiffer Gemellaro",
+     "role": "Chief Financial Officer(家族谱)",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72"
+    },
+    {
+     "name": "Charles Cassavoy",
+     "role": "Director – Ford Network Services Account(大客户账户 KPI 位)",
+     "contact": "signalhire/prospeo 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.signalhire.com/companies/gemellaro-systems-integration"
+    },
+    {
+     "name": "James J. Miller",
+     "role": "Director of CAD Operations",
+     "contact": "RR/prospeo/getprospect 三源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72"
+    },
+    {
+     "name": "Andrew H. Krull",
+     "role": "Director of Operational Systems",
+     "contact": "RR/prospeo 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72"
+    },
+    {
+     "name": "Ron McPherson",
+     "role": "Director of Design And Engineering",
+     "contact": "signalhire/prospeo 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.signalhire.com/companies/gemellaro-systems-integration"
+    },
+    {
+     "name": "Bill Ferguson",
+     "role": "Security and Network Technician",
+     "contact": "signalhire/getprospect 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://getprospect.com/business-directory/gemellaro-systems-integration"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Mike,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "customer": "A-118",
+   "fact": "Heartland Business Systems:Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)",
+   "inference": "R66 第 14 波具名 KP 金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.crunchbase.com/organization/heartland-business-systems",
+   "tech": "(波次二补)",
+   "hr": "544-652 人;$72M",
+   "contact_found": "**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 \"says Peter Helander, Principal at Heartland Business Systems\"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "美国中大 IT 综合商(SLED 谱+GenNx360)",
+    "团队与规模": "544-652 人;$72M",
+    "决策链与对接人": "**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 \"says Peter Helander, Principal at Heartland Business Systems\"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66 14 波谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "CEO 层异文需复核(PE 收购后谱位);Keele 管服 VP 窄口(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Jimmy Buddenberg CEO;Peter Helander Founder and President;acquired by GenNx360 Capital Partners;merger of Avastone Technologies(Crunchbase 件)",
+     "source": "https://www.crunchbase.com/organization/heartland-business-systems"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Kevin Carr Co-Founder & CEO;Chad Gustafson CIO;Ben Turner COO;Pieter Lesterhuis CFO;Steve Kjenner CISO;Tracy Presteen CHRO;~300 employees;$72M",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Jimmy Buddenberg CEO;Ryan Keele VP Managed Services;Chris Thurman VP;Troy Day VP Finance;544 employees(RR 谱)",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 \"says Peter Helander, Principal at Heartland Business Systems\"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "SLED 政府教育谱+PE 收购资金谱",
+     "⑥SWOT": "S SLED 政府教育谱+PE 收购资金谱 / W 巨头谱(CEO 层异文:Carr/Buddenberg/Schmidt,谱位需复核) / O 管服 VP Keele=PoE 落位 / T 大牌厂商链"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "SLED 政府教育谱+PE 收购资金谱",
+     "W": "巨头谱(CEO 层异文:Carr/Buddenberg/Schmidt,谱位需复核)",
+     "O": "管服 VP Keele=PoE 落位",
+     "T": "大牌厂商链"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66 14 波谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Jimmy Buddenberg",
+     "role": "Chief Executive Officer(现位)",
+     "contact": "Crunchbase+RocketReach 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.crunchbase.com/organization/heartland-business-systems"
+    },
+    {
+     "name": "Peter Helander",
+     "role": "Founder and President(创位;官方合并公告引语 \"says Peter Helander, Principal at Heartland Business Systems\")",
+     "contact": "Avastone 合并官方公告引语+Crunchbase",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.crunchbase.com/organization/heartland-business-systems"
+    },
+    {
+     "name": "Kevin Carr",
+     "role": "Co-Founder & Chief Executive Officer(共同创位;leadenear 谱)",
+     "contact": "leadnear 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "name": "Chad Gustafson",
+     "role": "Chief Information Officer(Strategic Technologist)",
+     "contact": "leadnear 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "name": "Ben Turner",
+     "role": "Chief Operating Officer",
+     "contact": "leadnear 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "name": "Pieter Lesterhuis",
+     "role": "Chief Financial Officer",
+     "contact": "leadnear 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "name": "Steve Kjenner",
+     "role": "Chief Information Security Officer",
+     "contact": "leadnear 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.leadnear.com/company/us/heartland-business-systems"
+    },
+    {
+     "name": "Ryan Keele",
+     "role": "Vice President of Managed Services(管服 VP=PoE 谱位)",
+     "contact": "RocketReach 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882"
+    },
+    {
+     "name": "Troy Day",
+     "role": "Vice President Finance",
+     "contact": "RocketReach+leadiq 双源谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email": "Hi Ryan,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

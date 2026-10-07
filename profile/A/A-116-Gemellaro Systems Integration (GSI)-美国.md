@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GSI Gemellaro Systems Integration（密歇根 Troy）：30+ 年高规格物理安防+网络基建集成商——客户墙：**US Army Corps of Engineers（联邦红线）、DTE、Consumers Energy、Ford、Rocket Mortgage、AAA、Marathon、Detroit Lions、EMU、St. Joseph's Health**；自述“untied to any specific vendor（不受任何单一厂商绑定）”
-- 【推断】厂商中立自述+客户墙横跨能源/汽车/金融/体育/医疗——接入层指定权大，联邦军段红线不触不碍其余
-- 【假设】“untied to any specific vendor”=对新候选件开放评——进函直引原话
+- 【事实】Gemellaro Systems Integration (GSI):Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,28 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@securityandnetworks.com [Publicly listed; delivery not tested]; https://securityandnetworks.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Marc J Gemellaro**(Key Principal(创办家族名位))— DNB Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html〕
+  - **Mike Newman**(Owner & Vice President)— RR/prospeo/signalhire 三源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
+  - **Sharon Pfeiffer Gemellaro**(Chief Financial Officer(家族谱))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
+  - **Charles Cassavoy**(Director – Ford Network Services Account(大客户账户 KPI 位))— signalhire/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.signalhire.com/companies/gemellaro-systems-integration〕
+  - **James J. Miller**(Director of CAD Operations)— RR/prospeo/getprospect 三源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
+  - **Andrew H. Krull**(Director of Operational Systems)— RR/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
+  - **Ron McPherson**(Director of Design And Engineering)— signalhire/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.signalhire.com/companies/gemellaro-systems-integration〕
+  - **Bill Ferguson**(Security and Network Technician)— signalhire/getprospect 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://getprospect.com/business-directory/gemellaro-systems-integration〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Marc J Gemellaro | Key Principal(创办家族名位) | DNB Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html |
+| Mike Newman | Owner & Vice President | RR/prospeo/signalhire 三源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
+| Sharon Pfeiffer Gemellaro | Chief Financial Officer(家族谱) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
+| Charles Cassavoy | Director – Ford Network Services Account(大客户账户 KPI 位) | signalhire/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.signalhire.com/companies/gemellaro-systems-integration |
+| James J. Miller | Director of CAD Operations | RR/prospeo/getprospect 三源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
+| Andrew H. Krull | Director of Operational Systems | RR/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
+| Ron McPherson | Director of Design And Engineering | signalhire/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.signalhire.com/companies/gemellaro-systems-integration |
+| Bill Ferguson | Security and Network Technician | signalhire/getprospect 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://getprospect.com/business-directory/gemellaro-systems-integration |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +155,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第14波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30 年安防/网络集成（厂商中立）；客户墙能源/汽车/金融/体育
-- **②芯片/型号**：Allied 信号
-- **③KP 深挖**：info@
-- **④Saga 对标**：中立候选件
-- **⑤在乎与偏好**：指定级文档
+- **①背景再核**：Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Gemellaro 家族+Ford 大客户账户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Untied to any specific vendor, we can offer the best solution for your unique case…US Army Corps, DTE, Ford, Rocket Mortgage, Detroit Lions”
-  > “Untied to any specific vendor, we can offer the best solution for your unique case…US Army Corps, DTE, Ford, Rocket Mortgage, Detroit Lions”
-  > 来源：https://securityandnetworks.com/
+- **【决策链与对接人】**Key Principal: Marc J Gemellaro;Gemellaro Systems Integration, Inc. Doing Business As: WILTECH TECHNOLOGIES(DNB 件)
+  > Key Principal: Marc J Gemellaro;Gemellaro Systems Integration, Inc. Doing Business As: WILTECH TECHNOLOGIES(DNB 件)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html
+- **【团队与规模】**Mike Newman Owner & VP;Sharon Pfeiffer Gemellaro CFO;James Miller Director CAD Operations;Andrew Krull Director Operational Systems;Charles Cassavoy Director Ford Network Services Account;63 employees;$38.9M
+  > Mike Newman Owner & VP;Sharon Pfeiffer Gemellaro CFO;James Miller Director CAD Operations;Andrew Krull Director Operational Systems;Charles Cassavoy Director Ford Network Services Account;63 employees;$38.9M
+  > 来源：https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72
+- **【业务定位】**GSI brings together high-level expertise in network infrastructure and physical security;1055 W Square Lake Rd, Troy MI 48098;Ingredient: Ford Network Services Directorship 谱
+  > GSI brings together high-level expertise in network infrastructure and physical security;1055 W Square Lake Rd, Troy MI 48098;Ingredient: Ford Network Services Directorship 谱
+  > 来源：https://www.signalhire.com/companies/gemellaro-systems-integration
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：密歇根 30 年安防/网络集成（厂商中立）
-- **产品线与在售品牌**：安防/网络基建/托管（Allied 信号）
-- **目标行业与场景**：能源/汽车/金融/体育/医疗
-- **团队与规模**：东南密歇根全国项目
-- **决策链与对接人**：info@ 口
-- **技术与认证**：30+ 年
-- **采购与供应链信号**：指定权+中立
-- **近期动态与线索**：指挥中心项目史
-- **与我方契合点**：中立语境候选件
-- **风险与注意**：联邦军段红线
+- **业务定位**：Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国 MI 网络+安防双层集成商(Ford 账户谱)
+- **团队与规模**：63 人;$38.9M
+- **决策链与对接人**：**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：家族+四 Director 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +201,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：中立
-- **W**：军红线
-- **O**：能源
-- **T**：大牌
+- **S**：Gemellaro 家族+Ford 大客户账户
+- **W**：谱件异文(规模/营收)
+- **O**：Newman(Owner/VP)+Cassavoy(Ford 账户)双位
+- **T**：大牌安防件链
 
 ## 触达与风险红线
 
@@ -199,7 +223,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +232,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入层现供
-  - [ ] 能源场景件
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +245,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi GSI team,
+Hi Mike,
 
-"Untied to any specific vendor, we can offer the best solution for your unique case" - that independence is exactly where we hope to earn a bench evaluation.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW. (To be explicit: our note concerns your commercial and industrial customers only - we do not pursue federal engagements.)
-
-One question: across your energy, automotive and enterprise projects, which switch brand holds the PoE access layer for cameras and wireless today?
-
-If useful, I can send one unit for evaluation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

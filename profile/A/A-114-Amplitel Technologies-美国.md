@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Amplitel Technologies（威斯康星 Kaukauna）：托管 IT 商——托管 IT/云/无线勘查/布线/服务器/备灾+网络安全（CJIS/HIPAA/PCI 合规）+本地安防（on-prem security)+商显 A/V；**客户：Kaukauna Utilities 公营水电+Kaukauna 市**（Avaya 电话/安防系统/网络）；CEO Aaron Lahm 具名；“No Nonsense IT”透明定价
-- 【推断】公共事业（CJIS 执法合规）是其招牌客群——非国防级，地方公用事业段在美属常规商用；“安全中心”文化=文档与合规清单必查
-- 【假设】“透明定价”文化对 $180 一口价锚点话术天然亲和
+- 【事实】Amplitel Technologies:Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@ampliteltech.com [Publicly listed; delivery not tested]; https://ampliteltech.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Aaron Lahm**(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名))— ampliteltech.com 官网自署 "Aaron Lahm, CEO"+contactout Owner 谱 〔已有(公司官方公开件/登记册自曝);源:https://ampliteltech.com/〕
+  - **Benjamin Boehnlein**(Vice President)— zoominfo/RR 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193〕
+  - **Nathan Lahm**(Senior Account & vCIO Engineer(家族谱))— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193〕
+  - **Chris Glasheen**(Accounts Manager)— zoominfo/contactout 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193〕
+  - **Matthew Nolan**(Technical Engineer)— zoominfo/RR/contactout 三源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Aaron Lahm | CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名) | ampliteltech.com 官网自署 "Aaron Lahm, CEO"+contactout Owner 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://ampliteltech.com/ |
+| Benjamin Boehnlein | Vice President | zoominfo/RR 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193 |
+| Nathan Lahm | Senior Account & vCIO Engineer(家族谱) | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193 |
+| Chris Glasheen | Accounts Manager | zoominfo/contactout 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193 |
+| Matthew Nolan | Technical Engineer | zoominfo/RR/contactout 三源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第14波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：威州托管 IT；公营事业客群；No-Nonsense 定价
-- **②芯片/型号**：Allied 信号
-- **③KP 深挖**：CEO Lahm 具名
-- **④Saga 对标**：公用事业接入柜+透明价
-- **⑤在乎与偏好**：合规文档+透明价
+- **①背景再核**：Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Aaron Lahm(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名),official-self-published·谱/leads-only(直发需 opt-in));Benjamin Boehnlein(Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Nathan Lahm(Senior Account & vCIO Engineer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chris Glasheen(Accounts Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Matthew Nolan(Technical Engineer,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CEO 官网自署直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Kaukauna Utilities and the City of Kaukauna…Avaya phone systems, security systems, and networks…protects your systems, meets CJIS, HIPAA, and PCI requirements”
-  > “Kaukauna Utilities and the City of Kaukauna…Avaya phone systems, security systems, and networks…protects your systems, meets CJIS, HIPAA, and PCI requirements”
+- **【决策链与对接人】**Aaron Lahm, CEO, Amplitel Technologies LLC("Serving Wisconsin Businesses" 官网证言署名);Founded 2007;Kaukauna WI
+  > Aaron Lahm, CEO, Amplitel Technologies LLC("Serving Wisconsin Businesses" 官网证言署名);Founded 2007;Kaukauna WI
   > 来源：https://ampliteltech.com/
+- **【团队与规模】**Key employees: Benjamin Boehnlein Vice President;Nathan Lahm Senior Account & vCIO Engineer;Chris Glasheen Accounts Manager;Matthew Nolan Technical Engineer;11-50 employees
+  > Key employees: Benjamin Boehnlein Vice President;Nathan Lahm Senior Account & vCIO Engineer;Chris Glasheen Accounts Manager;Matthew Nolan Technical Engineer;11-50 employees
+  > 来源：https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193
+- **【团队与规模】**Staff: Aaron Lahm Owner;Chris Glasheen Accounts Manager;Jerad Siewert Data Cabling Technician;Matthew Nolan Technical Engineer;9 employees;$22.1M revenue
+  > Staff: Aaron Lahm Owner;Chris Glasheen Accounts Manager;Jerad Siewert Data Cabling Technician;Matthew Nolan Technical Engineer;9 employees;$22.1M revenue
+  > 来源：https://contactout.com/company/Amplitel-Technologies-20142
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：威斯康星托管 IT（安全中心文化）
-- **产品线与在售品牌**：托管IT/云/布线/无线/A/V（Allied 信号）
-- **目标行业与场景**：地方公用事业/城市/商企
-- **团队与规模**：本地中型
-- **决策链与对接人**：CEO Aaron Lahm/sales@ 口
-- **技术与认证**：CJIS/HIPAA/PCI 话术
-- **采购与供应链信号**：本地项目滚动
-- **近期动态与线索**：公营客户关系示证
-- **与我方契合点**：公用事业楼宇接入柜
-- **风险与注意**：合规文档必查
+- **业务定位**：Amplitel Technologies LLC(美国 Kaukauna, Wisconsin,240 W Wisconsin Ave, 54130;+1 920-759-4773;ampliteltech.com;**2007 创(19 年)**;12 员工;$22.1M;谱型=威斯康星 SMB IT 支持/托管服务商(外包 IT 支持+安全聚焦;Appleton/Green Bay 区谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国 WI SMB IT 支持/MSP
+- **团队与规模**：12 人;$22.1M;2007 创
+- **决策链与对接人**：**Aaron Lahm(CEO(创位 Owner 谱;ampliteltech.com 官网客户证言页署名),official-self-published·谱/leads-only(直发需 opt-in));Benjamin Boehnlein(Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Nathan Lahm(Senior Account & vCIO Engineer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chris Glasheen(Accounts Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Matthew Nolan(Technical Engineer,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：A. Lahm CEO/B. Boehnlein VP 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：公营
-- **W**：审查
-- **O**：价契合
-- **T**：大牌
+- **S**：CEO 官网自署直达
+- **W**：小实体谱
+- **O**：Lahm 家族双位+vCIO 谱
+- **T**：大牌厂商链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入层现供
-  - [ ] 文档门槛
-  - [ ] survey 随单率
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Aaron / Amplitel team,
+Hi Aaron,
 
-"No unnecessary add-ons, no sneaky upcharges" - a rare and admirable stance in IT services. We build products the same way: one price, full documentation, no license games.
-
-Our 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) carries one transparent reference: $180 USD EXW - complete with the compliance and test pack your CJIS/HIPAA/PCI-minded customers expect.
-
-One question: for Kaukauna-area utility and city buildings, who supplies the PoE access layer for phones, cameras and wireless today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

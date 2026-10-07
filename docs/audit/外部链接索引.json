@@ -2840,24 +2840,64 @@
         "locator": "L302"
       },
       {
-        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
-        "locator": "L127"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L99"
       },
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
-        "locator": "L130"
+        "locator": "L88"
       },
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
-        "locator": "L133"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
-        "locator": "L136"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
-        "locator": "L152"
+        "locator": "L145"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://ampliteltech.com/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L49"
+      }
+    ]
+  },
+  {
+    "url": "https://ampliteltech.com/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -4073,23 +4113,19 @@
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
-        "locator": "L127"
+        "locator": "L131"
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
-        "locator": "L130"
+        "locator": "L134"
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
-        "locator": "L133"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
-        "locator": "L152"
+        "locator": "L140"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -6146,6 +6182,30 @@
     ]
   },
   {
+    "url": "https://contactout.com/company/Amplitel-Technologies-20142",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Amplitel-Technologies-20142'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
     "url": "https://contactout.com/company/EG-Electronics-96339",
     "http_checked": false,
     "occurrences": [
@@ -7835,7 +7895,7 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L136"
+        "locator": "L156"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -12636,6 +12696,40 @@
       {
         "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
         "locator": "L223"
+      }
+    ]
+  },
+  {
+    "url": "https://getprospect.com/business-directory/gemellaro-systems-integration",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L380"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
+    "url": "https://getprospect.com/business-directory/gemellaro-systems-integration'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://getprospect.com/business-directory/gemellaro-systems-integration〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -31080,6 +31174,100 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L338"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L345"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L359"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L366"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L69"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L70"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L72"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L73"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/giorgio-marchetti-email_127258904",
     "http_checked": false,
     "occurrences": [
@@ -31110,6 +31298,86 @@
       {
         "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
         "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L531"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L425"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L538"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L178"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L93"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L86"
       }
     ]
   },
@@ -33061,23 +33329,19 @@
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L127"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L130"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L133"
+        "locator": "L151"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L152"
+        "locator": "L154"
       }
     ]
   },
@@ -41368,6 +41632,68 @@
     ]
   },
   {
+    "url": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L141"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L162"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L172"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L229"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L156"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L58"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L59"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L61"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alignable.com/middletown-oh/bcl-enterprises-inc-dba-bcl-it-consulting〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.allabolag.se/foretag/brs-networks-ab/visby/it-%C3%B6vrigt/2K36B9BI63IHH",
     "http_checked": false,
     "occurrences": [
@@ -48034,6 +48360,72 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/heartland-business-systems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L394"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L415"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L482"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L489"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/heartland-business-systems'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/heartland-business-systems〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/ivory-egg",
     "http_checked": false,
     "occurrences": [
@@ -51130,6 +51522,56 @@
       {
         "path": "scripts/R66_R56_KP第9波落盘.py",
         "locator": "L47"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L243"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L264"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L331"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L68"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -56757,19 +57199,15 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L127"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L130"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L152"
+        "locator": "L153"
       }
     ]
   },
@@ -61468,6 +61906,116 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-568/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.leadnear.com/company/us/heartland-business-systems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L420"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L496"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L503"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L510"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L517"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L524"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L175"
+      }
+    ]
+  },
+  {
+    "url": "https://www.leadnear.com/company/us/heartland-business-systems'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L87"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L88"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L89"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L90"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L91"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "https://www.leadnear.com/company/us/heartland-business-systems〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -77380,6 +77928,30 @@
     ]
   },
   {
+    "url": "https://www.procore.com/network/p/bcl-enterprises-inc-liberty-township",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L167"
+      },
+      {
+        "path": "profile/A/A-115-BCL Enterprises, Inc-美国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.procore.com/network/p/bcl-enterprises-inc-liberty-township'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L60"
+      }
+    ]
+  },
+  {
     "url": "https://www.profcon.se/",
     "http_checked": false,
     "occurrences": [
@@ -79896,6 +80468,68 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L1712"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/gemellaro-systems-integration",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L274"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L352"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L373"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/gemellaro-systems-integration'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L71"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L74"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/gemellaro-systems-integration〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -87452,6 +88086,100 @@
       {
         "path": "profile/A/A-005-Alain Casault, B.Ing-加拿大.md",
         "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L120"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第14波.json",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L47"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L48"
+      },
+      {
+        "path": "scripts/R66_R56_KP第14波落盘.py",
+        "locator": "L50"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/pic/amplitel-technologies-llc/346204193〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-114-Amplitel Technologies-美国.md",
+        "locator": "L82"
       }
     ]
   },

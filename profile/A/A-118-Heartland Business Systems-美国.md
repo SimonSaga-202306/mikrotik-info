@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HBS Heartland Business Systems（威斯康星 Little Chute）：中大企业技术全栈商——基础设施转型（数据中心）/协作（Webex）/网络安全（SOC/IR/渗透/GRC）/托管 IT（Managed One）/应用开发；伙伴墙：Cisco/HPE/Microsoft/Verkada/Lenovo/Everpure；Copilot 生态营销活跃
-- 【推断】伙伴墙=一线大牌（Cisco/HPE/Verkada）——其接入层被在位大牌主力占据；CSV 具名邮箱 jgasperich@hbs.net 为第三方名录来源，质量存疑
-- 【假设】大牌同盟结构下 value 位切入空间窄：最现实角度=报价受限项目/中小客户的价值线补位——承认大牌主场并定位“第二架”
+- 【事实】Heartland Business Systems:Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,30 @@ updated: 2026-09-28
 - 来源等级：directory（R41–R48 联系方式台账口径）
 - **原始联系字段**：jgasperich@hbs.net [Third-party listing; not independently confirmed]; https://www.hbs.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jimmy Buddenberg**(Chief Executive Officer(现位))— Crunchbase+RocketReach 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/heartland-business-systems〕
+  - **Peter Helander**(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"))— Avastone 合并官方公告引语+Crunchbase 〔已有(公司官方公开件/登记册自曝);源:https://www.crunchbase.com/organization/heartland-business-systems〕
+  - **Kevin Carr**(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱))— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
+  - **Chad Gustafson**(Chief Information Officer(Strategic Technologist))— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
+  - **Ben Turner**(Chief Operating Officer)— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
+  - **Pieter Lesterhuis**(Chief Financial Officer)— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
+  - **Steve Kjenner**(Chief Information Security Officer)— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
+  - **Ryan Keele**(Vice President of Managed Services(管服 VP=PoE 谱位))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882〕
+  - **Troy Day**(Vice President Finance)— RocketReach+leadiq 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jimmy Buddenberg | Chief Executive Officer(现位) | Crunchbase+RocketReach 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/heartland-business-systems |
+| Peter Helander | Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems") | Avastone 合并官方公告引语+Crunchbase | official-self-published·谱/leads-only(直发需 opt-in) | https://www.crunchbase.com/organization/heartland-business-systems |
+| Kevin Carr | Co-Founder & Chief Executive Officer(共同创位;leadenear 谱) | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
+| Chad Gustafson | Chief Information Officer(Strategic Technologist) | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
+| Ben Turner | Chief Operating Officer | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
+| Pieter Lesterhuis | Chief Financial Officer | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
+| Steve Kjenner | Chief Information Security Officer | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
+| Ryan Keele | Vice President of Managed Services(管服 VP=PoE 谱位) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882 |
+| Troy Day | Vice President Finance | RocketReach+leadiq 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +157,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第14波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：中大企业全栈商；一线伙伴同盟（Cisco/HPE/Verkada）；value 位窄
-- **②芯片/型号**：Allied 信号（CSV 载）
-- **③KP 深挖**：jgasperich 第三方名录存疑
-- **④Saga 对标**：第二架价值线（窄）
-- **⑤在乎与偏好**：伙伴目录
+- **①背景再核**：Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：SLED 政府教育谱+PE 收购资金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
-  > “Market-leading technologies…Cisco, HPE, Microsoft, Verkada, Lenovo…Managed One comprehensive managed IT services”
-  > 来源：https://www.hbs.net/
+- **【决策链与对接人】**Jimmy Buddenberg CEO;Peter Helander Founder and President;acquired by GenNx360 Capital Partners;merger of Avastone Technologies(Crunchbase 件)
+  > Jimmy Buddenberg CEO;Peter Helander Founder and President;acquired by GenNx360 Capital Partners;merger of Avastone Technologies(Crunchbase 件)
+  > 来源：https://www.crunchbase.com/organization/heartland-business-systems
+- **【团队与规模】**Kevin Carr Co-Founder & CEO;Chad Gustafson CIO;Ben Turner COO;Pieter Lesterhuis CFO;Steve Kjenner CISO;Tracy Presteen CHRO;~300 employees;$72M
+  > Kevin Carr Co-Founder & CEO;Chad Gustafson CIO;Ben Turner COO;Pieter Lesterhuis CFO;Steve Kjenner CISO;Tracy Presteen CHRO;~300 employees;$72M
+  > 来源：https://www.leadnear.com/company/us/heartland-business-systems
+- **【团队与规模】**Jimmy Buddenberg CEO;Ryan Keele VP Managed Services;Chris Thurman VP;Troy Day VP Finance;544 employees(RR 谱)
+  > Jimmy Buddenberg CEO;Ryan Keele VP Managed Services;Chris Thurman VP;Troy Day VP Finance;544 employees(RR 谱)
+  > 来源：https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：威州中大企业技术全栈商
-- **产品线与在售品牌**：Cisco/HPE/MS/Verkada 一线同盟
-- **目标行业与场景**：中大企业/数据中心
-- **团队与规模**：中大型
-- **决策链与对接人**：官网联系口主路+jgasperich 辅助
-- **技术与认证**：SOC/渗透级
-- **采购与供应链信号**：伙伴目录内采购
-- **近期动态与线索**：Copilot 生态营销
-- **与我方契合点**：第二架价值线（窄判别）
-- **风险与注意**：大牌同盟强
+- **业务定位**：Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国中大 IT 综合商(SLED 谱+GenNx360)
+- **团队与规模**：544-652 人;$72M
+- **决策链与对接人**：**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：CEO 层异文需复核(PE 收购后谱位);Keele 管服 VP 窄口(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +203,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全栈
-- **W**：同盟
-- **O**：预算线
-- **T**：在位
+- **S**：SLED 政府教育谱+PE 收购资金谱
+- **W**：巨头谱(CEO 层异文:Carr/Buddenberg/Schmidt,谱位需复核)
+- **O**：管服 VP Keele=PoE 落位
+- **T**：大牌厂商链
 
 ## 触达与风险红线
 
@@ -199,7 +225,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +234,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] value 缺口
-  - [ ] jgasperich 在职性
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +247,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi HBS team,
+Hi Ryan,
 
-A partner wall anchored by Cisco, HPE and Verkada speaks for where your first shelf stands. We are not writing to displace it.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - built for projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, or SMB rollouts inside your managed plans.
-
-One question: when a project cannot carry the first-shelf price, is there a second approved value line at HBS today?
-
-If useful, I can send one unit with full documentation for the lab. If not relevant, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
