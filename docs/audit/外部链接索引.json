@@ -239,7 +239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L899"
+        "locator": "L924"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1076"
+        "locator": "L1101"
       }
     ]
   },
@@ -482,11 +482,11 @@
         "locator": "L638"
       },
       {
-        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
-        "locator": "L73"
+        "path": "profile/A/A-578-TAKOPI Georgia-格鲁吉亚.md",
+        "locator": "L202"
       },
       {
-        "path": "profile/B/B-223-TAKOPI GEORGIA（smart-network.ge）-格鲁吉亚.md",
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
         "locator": "L73"
       }
     ]
@@ -647,7 +647,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L943"
+        "locator": "L968"
       }
     ]
   },
@@ -769,7 +769,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1074"
+        "locator": "L1099"
       }
     ]
   },
@@ -1649,7 +1649,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L898"
+        "locator": "L923"
       }
     ]
   },
@@ -2338,11 +2338,11 @@
         "locator": "L89"
       },
       {
-        "path": "profile/B/B-230-ACTN-法国.md",
-        "locator": "L72"
+        "path": "profile/A/A-579-EDOX SAS-法国.md",
+        "locator": "L201"
       },
       {
-        "path": "profile/B/B-238-EDOX SAS-法国.md",
+        "path": "profile/B/B-230-ACTN-法国.md",
         "locator": "L72"
       }
     ]
@@ -2662,8 +2662,8 @@
         "locator": "L350"
       },
       {
-        "path": "profile/B/B-105-Cy-Wireless（art2soft）-塞浦路斯.md",
-        "locator": "L73"
+        "path": "profile/A/A-572-Cy-Wireless art2soft-塞浦路斯.md",
+        "locator": "L202"
       }
     ]
   },
@@ -3087,7 +3087,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1036"
+        "locator": "L1061"
       }
     ]
   },
@@ -3883,7 +3883,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L942"
+        "locator": "L967"
       }
     ]
   },
@@ -4587,7 +4587,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L996"
+        "locator": "L1021"
       }
     ]
   },
@@ -4918,8 +4918,8 @@
         "locator": "L484"
       },
       {
-        "path": "profile/B/B-390-Vodanet Systems LLC-美国.md",
-        "locator": "L72"
+        "path": "profile/A/A-582-Vodanet Systems-美国.md",
+        "locator": "L202"
       }
     ]
   },
@@ -7143,7 +7143,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L994"
+        "locator": "L1019"
       }
     ]
   },
@@ -7839,7 +7839,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1487"
+        "locator": "L1512"
       }
     ]
   },
@@ -7849,7 +7849,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1487"
+        "locator": "L1512"
       }
     ]
   },
@@ -8681,7 +8681,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L939"
+        "locator": "L964"
       }
     ]
   },
@@ -9313,7 +9313,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L862"
+        "locator": "L887"
       }
     ]
   },
@@ -10735,7 +10735,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1079"
+        "locator": "L1104"
       }
     ]
   },
@@ -11115,7 +11115,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L865"
+        "locator": "L890"
       }
     ]
   },
@@ -11485,7 +11485,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L865"
+        "locator": "L890"
       }
     ]
   },
@@ -12510,8 +12510,8 @@
         "locator": "L633"
       },
       {
-        "path": "profile/B/B-223-TAKOPI GEORGIA（smart-network.ge）-格鲁吉亚.md",
-        "locator": "L72"
+        "path": "profile/A/A-578-TAKOPI Georgia-格鲁吉亚.md",
+        "locator": "L201"
       }
     ]
   },
@@ -14307,7 +14307,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1038"
+        "locator": "L1063"
       }
     ]
   },
@@ -21807,7 +21807,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1035"
+        "locator": "L1060"
       }
     ]
   },
@@ -22613,7 +22613,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L946"
+        "locator": "L971"
       }
     ]
   },
@@ -24138,8 +24138,8 @@
         "locator": "L345"
       },
       {
-        "path": "profile/B/B-105-Cy-Wireless（art2soft）-塞浦路斯.md",
-        "locator": "L72"
+        "path": "profile/A/A-572-Cy-Wireless art2soft-塞浦路斯.md",
+        "locator": "L201"
       }
     ]
   },
@@ -24559,7 +24559,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L941"
+        "locator": "L966"
       }
     ]
   },
@@ -26450,8 +26450,8 @@
         "locator": "L33"
       },
       {
-        "path": "profile/B/B-152-etree GmbH-德国.md",
-        "locator": "L73"
+        "path": "profile/A/A-573-etree GmbH-德国.md",
+        "locator": "L202"
       }
     ]
   },
@@ -33462,10 +33462,6 @@
         "locator": "L1251"
       },
       {
-        "path": "profile/B/B-401-Barry Higgins - Allness-英国.md",
-        "locator": "L27"
-      },
-      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "B级-慢慢跟!Q143"
       },
@@ -33903,7 +33899,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L866"
+        "locator": "L891"
       }
     ]
   },
@@ -34657,7 +34653,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L944"
+        "locator": "L969"
       }
     ]
   },
@@ -36001,7 +35997,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1036"
+        "locator": "L1061"
       }
     ]
   },
@@ -38349,7 +38345,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L896"
+        "locator": "L921"
       }
     ]
   },
@@ -39745,7 +39741,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1037"
+        "locator": "L1062"
       }
     ]
   },
@@ -40257,7 +40253,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L998"
+        "locator": "L1023"
       }
     ]
   },
@@ -40824,8 +40820,8 @@
         "locator": "L94"
       },
       {
-        "path": "profile/B/B-238-EDOX SAS-法国.md",
-        "locator": "L73"
+        "path": "profile/A/A-579-EDOX SAS-法国.md",
+        "locator": "L202"
       }
     ]
   },
@@ -41917,7 +41913,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L993"
+        "locator": "L1018"
       }
     ]
   },
@@ -43408,12 +43404,12 @@
         "locator": "L124"
       },
       {
-        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
-        "locator": "L72"
+        "path": "profile/A/A-574-Dnet-Distribution-意大利.md",
+        "locator": "L201"
       },
       {
-        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
-        "locator": "L73"
+        "path": "profile/A/A-574-Dnet-Distribution-意大利.md",
+        "locator": "L202"
       }
     ]
   },
@@ -46217,7 +46213,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L999"
+        "locator": "L1024"
       }
     ]
   },
@@ -46543,7 +46539,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L894"
+        "locator": "L919"
       }
     ]
   },
@@ -47387,7 +47383,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1075"
+        "locator": "L1100"
       }
     ]
   },
@@ -47715,7 +47711,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L895"
+        "locator": "L920"
       }
     ]
   },
@@ -49036,8 +49032,8 @@
         "locator": "L32"
       },
       {
-        "path": "profile/B/B-152-etree GmbH-德国.md",
-        "locator": "L72"
+        "path": "profile/A/A-573-etree GmbH-德国.md",
+        "locator": "L201"
       }
     ]
   },
@@ -62041,7 +62037,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L995"
+        "locator": "L1020"
       }
     ]
   },
@@ -62897,7 +62893,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1037"
+        "locator": "L1062"
       }
     ]
   },
@@ -63305,7 +63301,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1000"
+        "locator": "L1025"
       }
     ]
   },
@@ -63449,7 +63445,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L866"
+        "locator": "L891"
       }
     ]
   },
@@ -65251,7 +65247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L947"
+        "locator": "L972"
       }
     ]
   },
@@ -65338,8 +65334,8 @@
         "locator": "L125"
       },
       {
-        "path": "profile/B/B-160-Dnet-Distribution-意大利.md",
-        "locator": "L74"
+        "path": "profile/A/A-574-Dnet-Distribution-意大利.md",
+        "locator": "L203"
       }
     ]
   },
@@ -65969,7 +65965,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L997"
+        "locator": "L1022"
       }
     ]
   },
@@ -67101,7 +67097,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1078"
+        "locator": "L1103"
       }
     ]
   },
@@ -67243,7 +67239,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L945"
+        "locator": "L970"
       }
     ]
   },
@@ -68336,8 +68332,8 @@
         "locator": "L68"
       },
       {
-        "path": "profile/B/B-037-Ronitek-以色列.md",
-        "locator": "L72"
+        "path": "profile/A/A-570-Ronitek-以色列.md",
+        "locator": "L201"
       }
     ]
   },
@@ -68350,8 +68346,8 @@
         "locator": "L69"
       },
       {
-        "path": "profile/B/B-037-Ronitek-以色列.md",
-        "locator": "L73"
+        "path": "profile/A/A-570-Ronitek-以色列.md",
+        "locator": "L202"
       }
     ]
   },
@@ -72079,7 +72075,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L940"
+        "locator": "L965"
       }
     ]
   },
@@ -72895,7 +72891,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1077"
+        "locator": "L1102"
       }
     ]
   },
@@ -73004,8 +73000,8 @@
         "locator": "L479"
       },
       {
-        "path": "profile/B/B-390-Vodanet Systems LLC-美国.md",
-        "locator": "L71"
+        "path": "profile/A/A-582-Vodanet Systems-美国.md",
+        "locator": "L201"
       }
     ]
   },
@@ -73553,7 +73549,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L897"
+        "locator": "L922"
       }
     ]
   },

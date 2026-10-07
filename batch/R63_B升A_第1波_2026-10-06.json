@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-06",
+  "round": "R63",
+  "promotions": [
+    {
+      "old": "B-037",
+      "new": "A-570",
+      "company": "Ronitek",
+      "country": "以色列",
+      "reason": "MikroTik 交换机专营页+CCR/CRS 在售，Trunk/LACP/VLAN企业客户"
+    },
+    {
+      "old": "B-038",
+      "new": "A-571",
+      "company": "Triple Core",
+      "country": "以色列",
+      "reason": "六牌官方分销(MikroTik/Ubiquiti/RF Elements/MaxLink/MasterLAN/Cudy)+4000+客户 wholesale ISP;CRS318 PoE 交换机在售"
+    },
+    {
+      "old": "B-105",
+      "new": "A-572",
+      "company": "art2soft/Cy-Wireless",
+      "country": "塞浦路斯",
+      "reason": "六牌官方分销(UBNT/MikroTik/Cambium/RF Elements/Fanvil/Yeastar),Cyprus 官方认证经销名录(altostrat/FB)"
+    },
+    {
+      "old": "B-152",
+      "new": "A-573",
+      "company": "etree GmbH",
+      "country": "德国",
+      "reason": "科隆总部官方分销 MikroTik/Teltonika 50+ 牌,11-50 员,波兰/乌克兰分部,40000 SKU"
+    },
+    {
+      "old": "B-160",
+      "new": "A-574",
+      "company": "Dnet-Distribution",
+      "country": "意大利",
+      "reason": "MikroTik Master/Value-Added 官方名录,CRS305-1G-4S+IN/CRS317 PoE 交换机在售 €147-494"
+    },
+    {
+      "old": "B-171",
+      "new": "A-575",
+      "company": "SICE Telecom",
+      "country": "意大利",
+      "reason": "官方 8 牌分销(Cambium/Ubiquiti/MikroTik/Ceragon/SIAE/Intracom/TP-Link/Mimosa)+自产 5GHz ponti radio;WISP 主口"
+    },
+    {
+      "old": "B-190",
+      "new": "A-576",
+      "company": "wifihw.cz",
+      "country": "捷克",
+      "reason": "捷克 MikroTik 专卖店,主营 RouterBoard/wAP/hAP/PowerBox;自有 BAZAR 二手"
+    },
+    {
+      "old": "B-220",
+      "new": "A-577",
+      "company": "tehnox/PEC SISTEMI",
+      "country": "斯洛文尼亚",
+      "reason": "Digitus 总进口+MikroTik/Ubiqi 官方分销 25 年,heX/RB4011/wAP 在售"
+    },
+    {
+      "old": "B-223",
+      "new": "A-578",
+      "company": "TAKOPI Georgia",
+      "country": "格鲁吉亚",
+      "reason": "官方 25 牌分销(MikroTik/Netgear/Sophos 等),Tbilisi;集团跨境 10 国"
+    },
+    {
+      "old": "B-238",
+      "new": "A-579",
+      "company": "EDOX SAS",
+      "country": "法国",
+      "reason": "MikroTik Master Distributor 官方名录,Burnhaupt-le-Haut"
+    },
+    {
+      "old": "B-270",
+      "new": "A-580",
+      "company": "Piotr Poniatowski",
+      "country": "波兰",
+      "reason": "MikroTik 波兰 FB 最大群创始人,MBUM#10 演讲者,CEO D.B.G. Investment,网络/系统/数据库工程"
+    },
+    {
+      "old": "B-318",
+      "new": "A-581",
+      "company": "mikrotik.ro/Wireless Center",
+      "country": "罗马尼亚",
+      "reason": "**MikroTik Master Distributor Romania** 官方卷标,office@mikrotik.ro +40-756-165-201"
+    },
+    {
+      "old": "B-390",
+      "new": "A-582",
+      "company": "Vodanet Systems",
+      "country": "美国",
+      "reason": "NJ 授权 MikroTik 分销,95 item 库存,MikroTik/Cisco/HPE/Juniper/Fortinet"
+    },
+    {
+      "old": "B-401",
+      "new": "A-583",
+      "company": "Barry Higgins/Allness IT",
+      "country": "英国",
+      "reason": "UK 独立 MikroTik Trainer since 2016,WISP 2009,MTCNA/MTCRE/MTCTCE/MTCINE/MTCTrainer 10 证;同 A-069/A-311 顾问型"
+    },
+    {
+      "old": "B-422",
+      "new": "A-584",
+      "company": "Ron Touw/MikroTik Training UK",
+      "country": "英国",
+      "reason": "**UK 首位 Certified Trainer 2009,全部 10 证**,CAPsMAN 课程作者(被 MikroTik 采纳),Riga BootCamp 讲师,UK Gov 10100440 注册培训商"
+    }
+  ]
+}

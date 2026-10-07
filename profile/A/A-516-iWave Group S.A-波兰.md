@@ -69,7 +69,7 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：info@iwave.pl
+- **邮箱**：info@iwave.pl【已停用:2026-10-06 退信 domain-not-found 发不过去】
   - 状态：既有/公开
 - **电话**：+48 71 346 50 60
 - 来源等级：official-company（R41–R48 联系方式台账口径）
@@ -235,3 +235,8 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 中(NCSA 2024 高风险供应商禁(5G/军队);亲美倾向);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+
+
+### R63 退信批(2026-10-06)
+
+- **退信实测(2026-10-06)**:`info@iwave.pl` Gmail **永久失败**(domain-not-found);不删邮箱只标「发不过去」+找替代;替代:官网 iwave.pl 已失;若续发先核新域

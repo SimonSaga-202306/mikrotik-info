@@ -70,7 +70,7 @@ updated: 2026-09-28
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：eddy@itshopp.com
+- **邮箱**：eddy@itshopp.com【已停用:2026-10-06 退信 not-found(eddy 不存在) 发不过去】
   - 状态：既有/公开
 - **电话**：+1 786 495 0313
 - 来源等级：official-company（R41–R48 联系方式台账口径）
@@ -232,3 +232,8 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-28DGGPM(24G PoE+/4×25G→分销走量)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+
+
+### R63 退信批(2026-10-06)
+
+- **退信实测(2026-10-06)**:`eddy@itshopp.com` Gmail **永久失败**(not-found(eddy 不存在));不删邮箱只标「发不过去」+找替代;替代:官网 itshopp.com 表单/通用
