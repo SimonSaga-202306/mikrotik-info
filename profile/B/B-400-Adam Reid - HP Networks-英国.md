@@ -80,12 +80,14 @@ updated: 2026-10-07
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
   - **Paul Hagan**(Managing Director(创始人）)— p.hagan@hpnetworks.net / +44 28 9053 8411(00442890 → proper intl) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.ripe.net/membership/indices/data/uk.hpnetworks.html〕
+  - **Adam Reid**(本人=业主/顾问(名录口径))— — 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:客户名单_反向信号_2026-09.csv〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Paul Hagan | Managing Director(创始人） | p.hagan@hpnetworks.net / +44 28 9053 8411(00442890 → proper intl) | hpnetworks.net about + ripe.net member index 双源 | https://www.ripe.net/membership/indices/data/uk.hpnetworks.html |
+| Adam Reid | 本人=业主/顾问(名录口径) | — | 名录具名 | 客户名单_反向信号_2026-09.csv |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 

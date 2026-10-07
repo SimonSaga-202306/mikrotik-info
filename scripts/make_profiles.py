@@ -13,6 +13,29 @@ from strategy import PLAY, NEED_PAT, ORDER, scenarios  # noqa: E402
 from numbering import renumber, audit  # noqa: E402
 
 CSV = "客户名单_反向信号_2026-09.csv"
+
+def _kp_key(name):
+    """名前规范化:去音符+小写+词集排序(『Németh András István』≡『András István Németh』)。"""
+    import unicodedata as _u
+    s = _u.normalize("NFKD", name or "")
+    s = "".join(c for c in s if not _u.combining(c)).lower()
+    return " ".join(sorted(t for t in re.split(r"[^\w]+", s) if t))
+
+
+def _merge_kp(out, rec):
+    """落档覆盖时 kp 名录并集:新文件同名(规范化词键)胜;旧档独有的名保留补入(防整档覆盖吞掉已捕实名人)。"""
+    code = rec["code"]
+    prev = out.get(code)
+    if prev:
+        old, new = rec.get("kp") or [], prev.get("kp") or []
+        if old and new:
+            seen = {_kp_key(k.get("name")) for k in old if isinstance(k, dict)}
+            rec["kp"] = old + [k for k in new
+                               if isinstance(k, dict) and _kp_key(k.get("name")) not in seen]
+        elif new and not old:
+            rec["kp"] = list(new)
+    out[code] = rec
+
 DIR = "profile"
 # 档案按评级分目录存放（用户 2026-09-23 要求）；索引仍留在 profile/ 根
 SUBDIRS = {"A": "profile/A", "B": "profile/B", "C": "profile/C"}
@@ -151,7 +174,7 @@ def load_enrichment():
                 raise SystemExit("❌ %s：%s 的跟进计划不是 3 步（用户要求最多 3 次）"
                                  % (rel, rec.get("code")))
             rec["_file"] = rel
-            out[rec["code"]] = rec
+            _merge_kp(out, rec)
     return out
 
 
@@ -270,7 +293,7 @@ def load_enrichment55():
                 if not (f.get("quote") and f.get("url")):
                     raise SystemExit("❌ %s：%s facts 必须同时带原文摘录与来源URL" % (rel, rec.get("code")))
             rec["_file"] = rel
-            out[rec["code"]] = rec
+            _merge_kp(out, rec)
     return out
 
 
@@ -316,7 +339,7 @@ def load_enrichment_b():
         data = json.load(open(path, encoding="utf-8"))
         for rec in data["records"]:
             rec["_file"] = rel
-            out[rec["code"]] = rec
+            _merge_kp(out, rec)
     return out
 
 

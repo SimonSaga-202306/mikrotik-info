@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `0921cfa70baa` | 2026-10-07T16:19:46+00:00 | R66 第 10 波:Aikom/Direktronik/AGL 三户具名 KP+CSI 排噪守档+总账 |
 | `da33c30d359f` | 2026-10-07T16:15:17+00:00 | R66 第 9 波:Esotec/Roadtech/Senseco/Griffon 四户具名 KP(英 CH 军官名件+美谱)+总账 |
 | `8dd10a3fb54a` | 2026-10-07T16:10:24+00:00 | R66 第 7-8 波:8 户具名 KP 落盘(VARIA/DECOIT/SKYTRON/Sarlin/FMS-shop/ATEC/Switchshop+Electromaster 守档)+规格件落联系方式段(已有/猜测分标)+总账 |
 | `e55b787e32f5` | 2026-10-07T15:52:07+00:00 | R66 第 4-6 波:A 尾段 12 户清零+英国登记册 7 户具名 KP 金谱(重置对齐后增量) |

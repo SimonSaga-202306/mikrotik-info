@@ -3,25 +3,73 @@
  "source": "用户跟进实测退信（R57 后首轮真实触达反馈）",
  "note": "状态：blocked=服务器拒收/反垃圾拦截（域存活、地址或通道被挡）；not-found=地址不存在。替代通道出自 CSV 联系方式列与 R56 深挖 contact_found（官网一手）。",
  "records": [
-  {"code": "A-054", "name": "Direktronik AB", "bounced": "steffo@direktronik.se", "type": "blocked",
+  {
+   "code": "A-054",
+   "name": "Direktronik AB",
+   "bounced": "steffo@direktronik.se",
+   "type": "blocked",
    "detail": "Your message to steffo@direktronik.se has been blocked（2026-09-29 实测）",
-   "alternates": ["fredrik.brunzell@direktronik.se（Fredrik Brunzell · Softing 名录公开，CSV 主联系）", "+46 公司电话（官网）"],
-   "action": "停用 steffo@（个人地址被挡）；R37 公司/具名交替：改走 fredrik.brunzell@，若无回响再官网表单+电话"},
-  {"code": "A-096", "name": "Last Mile Gear", "bounced": "info@lastmilegear.com", "type": "not-found",
+   "alternates": [
+    "fredrik.brunzell@direktronik.se（Fredrik Brunzell · Softing 名录公开，CSV 主联系）",
+    "+46 公司电话（官网）"
+   ],
+   "action": "停用 steffo@（个人地址被挡）；R37 公司/具名交替：改走 fredrik.brunzell@，若无回响再官网表单+电话"
+  },
+  {
+   "code": "A-096",
+   "name": "Last Mile Gear",
+   "bounced": "info@lastmilegear.com",
+   "type": "not-found",
    "detail": "address couldn't be found / unable to receive mail（2026-09-29 实测）",
-   "alternates": ["sales@lastmilegear.com（官网与 X(@LastMileGear) 双向印证，CSV 主联系）"],
-   "action": "info@ 判定不存在→永久停用；主通道=sales@；X 私信作第三通道"},
-  {"code": "A-101", "name": "Lloret Control Systems Ltd", "bounced": "sales@lloret.co.uk", "type": "blocked",
+   "alternates": [
+    "sales@lastmilegear.com（官网与 X(@LastMileGear) 双向印证，CSV 主联系）"
+   ],
+   "action": "info@ 判定不存在→永久停用；主通道=sales@；X 私信作第三通道"
+  },
+  {
+   "code": "A-101",
+   "name": "Lloret Control Systems Ltd",
+   "bounced": "sales@lloret.co.uk",
+   "type": "blocked",
    "detail": "Your message to sales@lloret.co.uk has been blocked（2026-09-29 实测）",
-   "alternates": ["graham.budd@lloret.co.uk（Graham Budd · Commissioning Manager，CSV 具名）"],
-   "action": "sales@ 角色箱被挡（反垃圾概率高）；改走具名 graham.budd@（人名通道通过率高）；保留 sales@ 为抄送位"},
-  {"code": "A-103", "name": "Bechtle Direct Ltd", "bounced": "uk@bechtle.com", "type": "not-found",
+   "alternates": [
+    "graham.budd@lloret.co.uk（Graham Budd · Commissioning Manager，CSV 具名）"
+   ],
+   "action": "sales@ 角色箱被挡（反垃圾概率高）；改走具名 graham.budd@（人名通道通过率高）；保留 sales@ 为抄送位"
+  },
+  {
+   "code": "A-103",
+   "name": "Bechtle Direct Ltd",
+   "bounced": "uk@bechtle.com",
+   "type": "not-found",
    "detail": "address couldn't be found（2026-09-29 实测 uk@bechtle.com）",
-   "alternates": ["sales.uk@bechtle.com（CSV 登记的英国销售口）"],
-   "action": "uk@ 前缀不存在→停用；注：Bechtle 在本项目规模排除名单内（与 ALSO/Arrow/Ingram 同列）——本来就不进主动开发，此退信仅归档"},
-  {"code": "A-105", "name": "Cisilion Ltd", "bounced": "info@cisilion.com", "type": "blocked",
+   "alternates": [
+    "sales.uk@bechtle.com（CSV 登记的英国销售口）"
+   ],
+   "action": "uk@ 前缀不存在→停用；注：Bechtle 在本项目规模排除名单内（与 ALSO/Arrow/Ingram 同列）——本来就不进主动开发，此退信仅归档"
+  },
+  {
+   "code": "A-105",
+   "name": "Cisilion Ltd",
+   "bounced": "info@cisilion.com",
+   "type": "blocked",
    "detail": "Your message to info@cisilion.com has been blocked（2026-09-29 实测）",
-   "alternates": ["marketing@cisilion.com（CSV 主联系）", "官网联系表单"],
-   "action": "info@ 被挡→停用；改走 marketing@（现行主口）；注：Cisilion 为环球系统集成商（Cisco 系），本来即观察档不外溢，归档"}
+   "alternates": [
+    "marketing@cisilion.com（CSV 主联系）",
+    "官网联系表单"
+   ],
+   "action": "info@ 被挡→停用；改走 marketing@（现行主口）；注：Cisilion 为环球系统集成商（Cisco 系），本来即观察档不外溢，归档"
+  },
+  {
+   "code": "A-441",
+   "name": "Dipole Wireless Communication",
+   "bounced": "watch",
+   "type": "临时退信(Delivery incomplete)",
+   "detail": "Gmail 临时投递失败(sales@dipole-ltd.com),系统重试至多 22 小时;2026-10-08 用户转发回执;若终败改走具名 KP/官网表单另径",
+   "alternates": [],
+   "action": "观察期(≤22h);终败则备选通道启动",
+   "date": "2026-10-08",
+   "email": "sales@dipole-ltd.com"
+  }
  ]
 }

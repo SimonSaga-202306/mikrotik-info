@@ -1397,7 +1397,7 @@
       "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
       "sha256": "93838cdb665ffa4024176075764a67285a3c10e6b04331e9a4493a04f9dfcaae",
       "bytes": 29106,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 482,
       "unique_url_count": 14,
       "inspection": {},
@@ -2565,10 +2565,10 @@
     },
     {
       "path": "batch/邮件退信_2026-09-29.json",
-      "sha256": "4749b0d35352a853c1d099e4e30f0b850087270c1aeac6c8db49787f3e1af6e7",
-      "bytes": 2563,
+      "sha256": "409071286d8a9a272a285255c98bcc68160d79c3edec5eb5657ef4994e4a6d31",
+      "bytes": 3112,
       "tracked_at_scan": true,
-      "units_scanned": 27,
+      "units_scanned": 74,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -2795,10 +2795,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "ea8fcbd7cad3e15b112181139bd40343c9487ae140a4a3ca6673686691aef2d7",
-      "bytes": 150587,
+      "sha256": "e8e1a3fcd1dc89b51e39e3be26758097a477739aa5b31d2db5cf2b9c08c73c0f",
+      "bytes": 151827,
       "tracked_at_scan": true,
-      "units_scanned": 1279,
+      "units_scanned": 1286,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -7255,10 +7255,10 @@
     },
     {
       "path": "profile/A/A-441-Dipole Wireless Communication-以色列.md",
-      "sha256": "a3323ba1144d6b2e498d86f8597b15e7564000e3e8d70c097efff4257d8a10bc",
-      "bytes": 11253,
+      "sha256": "31c042a0863acf8ef5ed6ecee35e327e6252438851de15cac0e9a04514ef2223",
+      "bytes": 11610,
       "tracked_at_scan": true,
-      "units_scanned": 225,
+      "units_scanned": 228,
       "unique_url_count": 1,
       "inspection": {},
       "errors": []
@@ -9885,10 +9885,10 @@
     },
     {
       "path": "profile/B/B-400-Adam Reid - HP Networks-英国.md",
-      "sha256": "39782a05014bdfbc4dd99b3b77a28cec52a0b0444f64e6c6807ce219035fb5ef",
-      "bytes": 11855,
+      "sha256": "1808ba0d626819470206eea3b0bc1d542c0f30d2bbc0fedcacb61f054f0afd3d",
+      "bytes": 12135,
       "tracked_at_scan": true,
-      "units_scanned": 212,
+      "units_scanned": 214,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -13557,7 +13557,7 @@
       "path": "scripts/R66_R56_KP第10波落盘.py",
       "sha256": "2a3a9c4a23e4a0e3a624d6fa0dd4629972b5cd697c4f240a6b8c3e0491fd2fd7",
       "bytes": 12686,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 99,
       "unique_url_count": 14,
       "inspection": {},
@@ -13725,10 +13725,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "ecf47a7ad7ceee5a998f3f964e108a1df1c49f791e6fd04b1f61da64829b715e",
-      "bytes": 37302,
+      "sha256": "bf2f61eac6b1b2c90cbaf4ecd672d187e77715f9877eca8de275ef998b93d529",
+      "bytes": 38262,
       "tracked_at_scan": true,
-      "units_scanned": 771,
+      "units_scanned": 794,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -13755,10 +13755,10 @@
     },
     {
       "path": "scripts/render_v2.py",
-      "sha256": "b8a04470cc601477fd8a6c80f41a64f63d63791e53039c01ac5101e66901f663",
-      "bytes": 27583,
+      "sha256": "bcb4039c4c018799a3e8ce7587f6e53b6ee8258158a5199371945b85d61fdd7c",
+      "bytes": 28040,
       "tracked_at_scan": true,
-      "units_scanned": 534,
+      "units_scanned": 541,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

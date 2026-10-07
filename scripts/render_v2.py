@@ -277,10 +277,17 @@ def render(e, ctx):
     _bc = BOUNCE.get(e['code'])
     if _bc:
         w('')
-        w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
-          % (_bc.get('date', '2026-09-29'), _bc['bounced'],
-             '服务器拒收' if _bc['type'] == 'blocked' else '地址不存在',
-             _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', []))))
+        _btype = _bc.get('type')
+        if _bc.get('bounced') == 'watch':
+            w('- **退信实测（%s）**：`%s` %s（%s）→ 观察期暂不停用；备选通道已备: %s'
+              % (_bc.get('date', '2026-09-29'), _bc.get('email', '—'),
+                 '临时投递失败,观察中',
+                 _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', [])) or '具名 KP/官网表单'))
+        else:
+            w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
+              % (_bc.get('date', '2026-09-29'), _bc['bounced'],
+                 '服务器拒收' if _btype == 'blocked' else '地址不存在',
+                 _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', []))))
         w('  > 处置：%s' % _bc.get('action', ''))
 
     w('## 关键人（KP）与触达通道')
