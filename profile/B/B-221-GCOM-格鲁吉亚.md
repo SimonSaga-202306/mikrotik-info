@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注）…
+- **是谁**：GCOM(格鲁吉亚 Tbilisi;gcom.ge;info@gcom.ge;CSV 域锚=gcom.ge;2026-10-08 R66-B 波 3:美国 GCOM Software, LLC(GovTech,Kamal…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双雄谱电商的商用 PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | GCOM(格鲁吉亚 Tbilisi;gcom.ge;info@gcom.ge;CSV 域锚=gcom.ge;2026-10-08 R66-B 波 3:美国 GCOM Software, LLC(GovTech,Kamal Bherwani,Georgia WIC 平合件)=异名已排;格鲁吉亚在地谱面命中 Zaza Zviadadze(LinkedIn:Exp | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】GCOM(gcom.ge Tbilisi;Master+VAD 名录在册;在线店在售品牌谱:DINSTAR/GRANDLiNK/Gainscha/HiLink/MikroTik/NPP/SUPVAN/SignalFire/**UBIQUITI**/VoiceJoy;XGSPON-10G SFP Stick 与 UniFi U7 系在架;sale@gcom.ge) | R65 深挖:守档准由（格鲁吉亚小谱业者）
-- 【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
-- 【假设】开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -78,59 +71,63 @@ updated: 2026-10-07
 - **电话**：+995 322 420 449
 - **原始联系字段**：+995 322 420 449 / info@gcom.ge
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Zaza Zviadadze**(员工/管理层(LinkedIn 谱 GCOM/Tbilisi;波次二其职衔待核))— LinkedIn 自署 worksFor GCOM(Tbilisi) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/zaza-zviadadze-249160109/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Zaza Zviadadze | 员工/管理层(LinkedIn 谱 GCOM/Tbilisi;波次二其职衔待核) | LinkedIn 自署 worksFor GCOM(Tbilisi) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/zaza-zviadadze-249160109/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · ISP 谱 PoE 页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
-- **要问的问题**：你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · sale@gcom.ge 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
-- **要问的问题**：你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「双雄谱的商用 PoE 管理档」:STC-424 主力;FTTH/ISP 客层角度备话
-- **要问的问题**：你们 MikroTik/Ubiquiti 双谱旁,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波3.json`；价格均为 EXW 快照。
 
-- **背景深描**：GCOM 格鲁吉亚(Tbilisi;R65 搜索缺候选=守档准由；R57 所描 MikroTik 谱谱继续关注）
-- **芯片与在用型号**：【推断】格鲁吉亚双雄谱(MikroTik+Ubiquiti)+光纤接入(XGSPON 棒=FTTH/ISP 客层)+打印设备:电商化全谱,谱系深
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / T:区域购买力敏感
-- **Saga产品适配**：双雄谱电商的商用 PoE 管理档
+- **背景深描**：GCOM(格鲁吉亚 Tbilisi;gcom.ge;info@gcom.ge;CSV 域锚=gcom.ge;2026-10-08 R66-B 波 3:美国 GCOM Software, LLC(GovTech,Kamal Bherwani,Georgia WIC 平合件)=异名已排;格鲁吉亚在地谱面命中 Zaza Zviadadze(LinkedIn:Experience GCOM/Tbilisi/Georgian Technical University/500+ 连接)为最大公开谱
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Zaza Zviadadze(员工/管理层(LinkedIn 谱 GCOM/Tbilisi;波次二其职衔待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：在地具名谱(Zviadadze)已获
+- **优缺点SWOT**：S 在地具名谱(Zviadadze)已获 / W 谱面薄 / O napr 登记册反查可破 / T 异名噪声高
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):格鲁吉亚 Tbilisi 网络渠道商(gcom.ge);Zviadadze 谱位(opt-in 律);napr 反查点名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick
-  > DINSTAR GCOM GRANDLiNK Gainscha HiLink MikroTik NPP SUPVAN SignalFire UBIQUITI VoiceJoy … XGSPON-10G-SFP-Stick
-  > 来源：https://gcom.ge/en/brand/GCOM
-- **【R57备护深挖证据】**GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449
-  > GCOM Master Distributor, Value Added Distributor Tbilisi, Georgia Tel: +995 322 420 449
-  > 来源：http://www.dyalkom.com/buy.html
-- **【R65 查询注】**2026-10-07 搜索无果；守档准由
-  > (web_search 无果）
-  > 来源：（沙箱日志）
+- **【决策链与对接人】**Zaza Zviadadze — Experience: GCOM;Education: Georgian Technical University;Location: Tbilisi(LinkedIn 谱)
+  > Zaza Zviadadze — Experience: GCOM;Education: Georgian Technical University;Location: Tbilisi(LinkedIn 谱)
+  > 来源：https://www.linkedin.com/in/zaza-zviadadze-249160109/
+- **【业务定位】**GCOM Software, LLC(GovTech,11,882 followers,Kamal Bherwani)=美国异名件,排噪
+  > GCOM Software, LLC(GovTech,11,882 followers,Kamal Bherwani)=美国异名件,排噪
+  > 来源：https://www.linkedin.com/posts/riyaz-ladkhan-5b94293_a-modern-scalable-platform-for-georgia-wic-activity-7011495956604936192-V8tJ
+- **【近期动态与线索】**2026-10-08 R66-B 波 3:域锚 gcom.ge;守档半位;波次二=格鲁吉亚公共登记(napr.gov.ge)按名反查+Zviadadze 职衔核
+  > 2026-10-08 R66-B 波 3:域锚 gcom.ge;守档半位;波次二=格鲁吉亚公共登记(napr.gov.ge)按名反查+Zviadadze 职衔核
+  > 来源：https://napr.gov.ge/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / T:区域购买力敏感
+S 在地具名谱(Zviadadze)已获 / W 谱面薄 / O napr 登记册反查可破 / T 异名噪声高
 
 ## 触达与风险红线
 
@@ -162,7 +159,7 @@ S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / 
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -171,8 +168,8 @@ S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 交换机谱 PoE 档位现供
-  - [ ] ISP/FTTH 客层占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +178,15 @@ S:双雄+光纤接入谱 / W:高加索单国 / O:ISP 谱随单+商用 PoE 档 / 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi GCOM team,
 
-MikroTik and Ubiquiti on one shelf, XGSPON sticks for the FTTH crowd on the other - a well-rounded ISP/CPE catalog for Georgia. Between the radios and the OLTs, the 24-port managed PoE switch is the line your reseller base orders on repeat.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your catalog, white-label friendly.
-
-One question: next to your MikroTik and Ubiquiti lines, whose 24-port managed PoE switch holds the value slot today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

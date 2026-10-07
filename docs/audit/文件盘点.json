@@ -1487,7 +1487,7 @@
       "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
       "sha256": "1aa539f9d8c06f8f24e3a5288b8fef9ad40d4563285aee562b5542969225b9cb",
       "bytes": 42116,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 607,
       "unique_url_count": 18,
       "inspection": {},
@@ -2150,6 +2150,16 @@
       "tracked_at_scan": true,
       "units_scanned": 546,
       "unique_url_count": 11,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+      "sha256": "2e19555cda8207c28d30b43d407fa837ba4cfed46c9cfac3916ef66abba12d91",
+      "bytes": 33558,
+      "tracked_at_scan": false,
+      "units_scanned": 554,
+      "unique_url_count": 12,
       "inspection": {},
       "errors": []
     },
@@ -2845,10 +2855,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "c5470174ffa966fba6b70275dfdf028868bf1a7f75dec86532b76c3dd20d54a4",
-      "bytes": 157838,
+      "sha256": "44a017846a44e967f678db9ee373e28372bf7e29f502040be2124caec3d47327",
+      "bytes": 159320,
       "tracked_at_scan": true,
-      "units_scanned": 1321,
+      "units_scanned": 1328,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9465,11 +9475,11 @@
     },
     {
       "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
-      "sha256": "16f2aac08cccd4965d68c611d29fac67b2d9139f01603c207e1ba46b52ff15fa",
-      "bytes": 11776,
+      "sha256": "39b702297385c00a612c4e06255e0a21a87ed9e28f6d5f812fad9af4792c1da6",
+      "bytes": 11352,
       "tracked_at_scan": true,
-      "units_scanned": 218,
-      "unique_url_count": 2,
+      "units_scanned": 209,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -9755,11 +9765,11 @@
     },
     {
       "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-      "sha256": "d5c802aa238b0892cfdccda13ae567ed0c200adefcfb9738374aff1724c4aa09",
-      "bytes": 13882,
+      "sha256": "4077b8683e746e243d29000185806378f662c96a3b8c57b92afe316ffdfbc459",
+      "bytes": 13012,
       "tracked_at_scan": true,
-      "units_scanned": 218,
-      "unique_url_count": 2,
+      "units_scanned": 211,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -9835,11 +9845,11 @@
     },
     {
       "path": "profile/B/B-343-Distrigo Inc-美国.md",
-      "sha256": "7784293a7f6c91903480417138bcff21b9da30c04559188c474c36678ebf2c1b",
-      "bytes": 11649,
+      "sha256": "bc2698c85664622c17db9828eeadf32fa1c1f5e3b2baad7c402b79f05449e92b",
+      "bytes": 10747,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 1,
+      "units_scanned": 203,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
@@ -9865,11 +9875,11 @@
     },
     {
       "path": "profile/B/B-359-Leverify LLC-美国.md",
-      "sha256": "3f42da5dc9ae1eb019c6b8eb770e5cefb9dc9f483cf6a302b8e048b96c02fd8e",
-      "bytes": 11917,
+      "sha256": "f7946cb785545f10b834233778021a4a108db7ca1b39a473aa12c453d0be1849",
+      "bytes": 11888,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 2,
+      "units_scanned": 207,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -13604,6 +13614,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_B_KP波3落盘.py",
+      "sha256": "5e683e9132a0770c5abea575d651e5631e15f6d67d93c2734e05670df7b21d83",
+      "bytes": 11159,
+      "tracked_at_scan": false,
+      "units_scanned": 98,
+      "unique_url_count": 12,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_KP第1波落盘.py",
       "sha256": "00163584702aeddb22e4b6ee5fba7ff036a3f8e2d7086692e05ddab5a2e83f25",
       "bytes": 25522,
@@ -13657,7 +13677,7 @@
       "path": "scripts/R66_R56_KP第13波落盘.py",
       "sha256": "6554d6812f9d85f4412cd55536eddc9aa0eea7bc0400f154a2fce324321fc631",
       "bytes": 16204,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 115,
       "unique_url_count": 18,
       "inspection": {},
@@ -13825,10 +13845,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "45dba3cd6f890c993cea7268e37dad2466e3d792511c15401d3d16407e3cd46d",
-      "bytes": 38543,
+      "sha256": "3cd566ba3de776ae793547f5152127155157710d7d25baae2ee0cebc6b83dbc7",
+      "bytes": 38595,
       "tracked_at_scan": true,
-      "units_scanned": 799,
+      "units_scanned": 800,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

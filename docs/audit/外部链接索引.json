@@ -552,10 +552,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第14批.json",
         "locator": "L371"
-      },
-      {
-        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
-        "locator": "L130"
       }
     ]
   },
@@ -2762,10 +2758,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第15批.json",
         "locator": "L550"
-      },
-      {
-        "path": "profile/B/B-359-Leverify LLC-美国.md",
-        "locator": "L125"
       }
     ]
   },
@@ -8134,12 +8126,26 @@
         "locator": "L487"
       },
       {
-        "path": "profile/B/B-343-Distrigo Inc-美国.md",
-        "locator": "L125"
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L352"
       },
       {
         "path": "profile/B/B-343-Distrigo Inc-美国.md",
-        "locator": "L128"
+        "locator": "L124"
+      }
+    ]
+  },
+  {
+    "url": "https://distrigoinc.com/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L77"
       }
     ]
   },
@@ -12484,10 +12490,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第14批.json",
         "locator": "L365"
-      },
-      {
-        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
-        "locator": "L127"
       }
     ]
   },
@@ -26394,6 +26396,34 @@
     ]
   },
   {
+    "url": "https://napr.gov.ge/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://napr.gov.ge/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
     "url": "https://narrowin.com/en/",
     "http_checked": false,
     "occurrences": [
@@ -36172,6 +36202,34 @@
     ]
   },
   {
+    "url": "https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L188"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L208"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L67"
+      }
+    ]
+  },
+  {
     "url": "https://thejunction.eu",
     "http_checked": false,
     "occurrences": [
@@ -36828,6 +36886,34 @@
       {
         "path": "scripts/R66_R56_KP第5_6波落盘.py",
         "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://tracxn.com/d/companies/distrigo-parts-distribution/__LwtAQ2SsHZIMYQwrC3jvoc5hoZJf84XjkTX2DtnmOZc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L327"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L346"
+      },
+      {
+        "path": "profile/B/B-343-Distrigo Inc-美国.md",
+        "locator": "L121"
+      }
+    ]
+  },
+  {
+    "url": "https://tracxn.com/d/companies/distrigo-parts-distribution/__LwtAQ2SsHZIMYQwrC3jvoc5hoZJf84XjkTX2DtnmOZc'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L76"
       }
     ]
   },
@@ -47986,8 +48072,52 @@
         "locator": "L556"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L422"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L451"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L469"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L543"
+      },
+      {
         "path": "profile/B/B-359-Leverify LLC-美国.md",
-        "locator": "L128"
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/leverify-707f'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/leverify-707f〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L73"
       }
     ]
   },
@@ -50702,14 +50832,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L188"
-      },
-      {
-        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L130"
       }
     ]
   },
@@ -51094,6 +51216,62 @@
       {
         "path": "profile/B/B-222-Intellcom Group Ltd-格鲁吉亚.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.leverify_llc.3be4dd7729ac1958030a358ec6fefb27.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L461"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L481"
+      },
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.leverify_llc.3be4dd7729ac1958030a358ec6fefb27.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.leverify_llc.93e834f722a9ec18d8ea9dc618bd9237.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L475"
+      },
+      {
+        "path": "profile/B/B-359-Leverify LLC-美国.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.leverify_llc.93e834f722a9ec18d8ea9dc618bd9237.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L87"
       }
     ]
   },
@@ -62704,6 +62882,56 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/iulia-diaconu-07a91b47/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L183"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L202"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L277"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/iulia-diaconu-07a91b47/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L64"
+      },
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L66"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/iulia-diaconu-07a91b47/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/jake-woodhouse-49a258a1/",
     "http_checked": false,
     "occurrences": [
@@ -63830,6 +64058,60 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/zaza-zviadadze-249160109/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L12"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L59"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L124"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/zaza-zviadadze-249160109/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L53"
+      },
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L54"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/zaza-zviadadze-249160109/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/posts/ipa-kevin-myers_mikrotik-chr-breaking-the-100g-barrier-activity-6876079340556165120-VRiU/",
     "http_checked": false,
     "occurrences": [
@@ -63844,6 +64126,34 @@
       {
         "path": "profile/A/A-017-Sasa Blagojevic-塞尔维亚.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/riyaz-ladkhan-5b94293_a-modern-scalable-platform-for-georgia-wic-activity-7011495956604936192-V8tJ",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L65"
+      },
+      {
+        "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
+        "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/riyaz-ladkhan-5b94293_a-modern-scalable-platform-for-georgia-wic-activity-7011495956604936192-V8tJ'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L55"
       }
     ]
   },
@@ -70298,6 +70608,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-767/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.media.stellantis.com/uk-en/corporate/press/stellantis-announces-new-expanded-distrigo-parts-distribution-structure-in-europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L293"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L340"
+      },
+      {
+        "path": "profile/B/B-343-Distrigo Inc-美国.md",
+        "locator": "L118"
+      }
+    ]
+  },
+  {
+    "url": "https://www.media.stellantis.com/uk-en/corporate/press/stellantis-announces-new-expanded-distrigo-parts-distribution-structure-in-europe'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L75"
       }
     ]
   },
@@ -77354,6 +77696,60 @@
     ]
   },
   {
+    "url": "https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L149"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L178"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L196"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波3.json",
+        "locator": "L270"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L63"
+      },
+      {
+        "path": "scripts/R66_B_KP波3落盘.py",
+        "locator": "L65"
+      }
+    ]
+  },
+  {
+    "url": "https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L75"
+      }
+    ]
+  },
+  {
     "url": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-ala",
     "http_checked": false,
     "occurrences": [
@@ -82198,10 +82594,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L194"
-      },
-      {
-        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L133"
       }
     ]
   },

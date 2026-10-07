@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol…
+- **是谁**：DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Dipol Connect SRL(București Bd. Ghica Tei 81 S2;**DIPOL 集团(1990 年起波兰 Kraków,40+ 国,2000+ SKU)罗马尼亚站:欧洲级 CCTV/IP、WLAN、FTTH、TV-SAT 设备分销+自有天线厂(电信/TV/广播天线生产商)**;Hikvision/TP-Link 谱在架;office@dipolnet.ro) | R65 深挖:București 制造实体 1.5M€/6 人谱支
-- 【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在
-- 【假设】开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +62,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313);2024 营收 7,459,353 RON ≈€1.5M/净利 356K RON/6 员工;office@dipolnet.ro / +40 31 428 1005
+- DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年)**;CAEN 4652 电子/电信件批发;**2025:7 员工/营收 8,185,582 RON(+9.7%)/净利 301,178 RON**;1 独东+1 管理员结构;安防目录页标「firmă de pază:instalare, întreținere 许可」;0314281005
 
 ## 联系方式（已有/猜测分标）
 
@@ -78,59 +71,65 @@ updated: 2026-10-07
 - **电话**：+40 742 145 758
 - **原始联系字段**：+40 742 145 758 / office@dipolnet.ro
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nicolau Cristin**(Administrator(管理员;罗马尼亚安防企业名册件具名))— protectiesipaza.ro 名册件具名(administrată de) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/〕
+  - **Iulia Diaconu**(Sales Procurement(**2018-10 起在职 7 年;采购 KPI 天位**;Universitatea Tehnică Iași))— LinkedIn 自署 Sales Procurement @ Dipol Connect SRL 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/iulia-diaconu-07a91b47/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Nicolau Cristin | Administrator(管理员;罗马尼亚安防企业名册件具名) | protectiesipaza.ro 名册件具名(administrată de) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/ |
+| Iulia Diaconu | Sales Procurement(**2018-10 起在职 7 年;采购 KPI 天位**;Universitatea Tehnică Iași) | LinkedIn 自署 Sales Procurement @ Dipol Connect SRL | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/iulia-diaconu-07a91b47/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · CCTV 柜 DIN PoE 页
+### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话
-- **要问的问题**：你们的 CCTV 项目柜/天桥箱里,DIN 轨工业 PoE 交换机现随哪家?(集团层面对网络件有 OEM 合作吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · office@dipolnet.ro 开口(附集团 OEM 问句)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话
-- **要问的问题**：你们的 CCTV 项目柜/天桥箱里,DIN 轨工业 PoE 交换机现随哪家?(集团层面对网络件有 OEM 合作吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「CCTV 谱的工业 PoE 供电轨」:STI-288GP 主力,STL/商用备位;集团自有制造侧=天线厂口径的 OEM 联动侧话
-- **要问的问题**：你们的 CCTV 项目柜/天桥箱里,DIN 轨工业 PoE 交换机现随哪家?(集团层面对网络件有 OEM 合作吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波3.json`；价格均为 EXW 快照。
 
-- **背景深描**：Dipol Connect SRL(CIF RO26051890, J40/9512/2009;2009-10-01 创,București Sector 2 Str. Fabrica de Gheață 8/Carol Ghica Tei 81 老址桥；谱型=IT 网络监控 TV/Satelit+光纤电缆制造+电子维修(CAE 4652/2731/3313);2024 营收 7,459,353 RON ≈€1.5M/净利 356K RON/6 员工;office@dipolnet.ro / +40 31 428 1005
-- **芯片与在用型号**：【推断】CCTV 谱主导的东欧老牌集团站:相机 PoE 供电为日常装载;集团底色=自有制造(天线厂),对二源/OEM 的接受心智天然在
-- **关键人KP**：—(SRL adminstrator ONRC București 收费墙;R65 谱位+财务档案已足）
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:相机谱 DIN PoE 轨+集团 OEM 侧线 / T:自有品牌倾向选白牌时审视严
-- **Saga产品适配**：DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)
+- **背景深描**：DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年)**;CAEN 4652 电子/电信件批发;**2025:7 员工/营收 8,185,582 RON(+9.7%)/净利 301,178 RON**;1 独东+1 管理员结构;安防目录页标「firmă de pază:instalare, întreținere 许可」;0314281005
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Nicolau Cristin(Administrator(管理员;罗马尼亚安防企业名册件具名),leads-only·待 opt-in(LinkedIn/谱面带核));Iulia Diaconu(Sales Procurement(**2018-10 起在职 7 年;采购 KPI 天位**;Universitatea Tehnică Iași),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：采购 Diaconu 在职 7 年直达位
+- **优缺点SWOT**：S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin 管理员名册件 / T 大牌件链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):罗马尼亚布加勒斯特电子件批发+安防安装;Cristin 管理员+Diaconu 采购(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene … parte din grupul DIPOL, activ din 1990 şi prezent 
-  > Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene … parte din grupul DIPOL, activ din 1990 şi prezent în peste 40 de ţări, cu un portofoliu de peste 2000 de produse
-  > 来源：https://www.dipolnet.ro/
-- **【R57备护深挖证据】**CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere … switch-uri … DVR/NVR
-  > CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere … switch-uri … DVR/NVR
-  > 来源：https://www.dipolnet.ro/
-- **【R65 登记/财务】**Dipol Connect SRL CIF 26051890 · 2009-10-01 创 · 2024 营收 7.46M RON/净利 356K · 6 员工 · 光纤电缆制造+电子维修谱
-  > Fiscal Code 26051890 … cifră de afaceri 2024: 7.459.353 RON … 6 [employees] … Fabricarea de cabluri cu fibră optică … Repararea echipamentelor electronice și optice
-  > 来源：https://www.totalfirme.ro/dipol-connect-srl-26051890
+- **【决策链与对接人】**Dipol Connect S.R.L. administrată de Nicolau Cristin;București Sectorul 2;instalare, întreținere(罗马尼亚安防企业名册件)
+  > Dipol Connect S.R.L. administrată de Nicolau Cristin;București Sectorul 2;instalare, întreținere(罗马尼亚安防企业名册件)
+  > 来源：https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/
+- **【决策链与对接人】**Iulia Diaconu — Sales Procurement, Dipol Connect SRL(Oct 2018 – Present, 7 years;Bucharest;Universitatea Tehnică „Gheorghe Asachi” din Iași)
+  > Iulia Diaconu — Sales Procurement, Dipol Connect SRL(Oct 2018 – Present, 7 years;Bucharest;Universitatea Tehnică „Gheorghe Asachi” din Iași)
+  > 来源：https://www.linkedin.com/in/iulia-diaconu-07a91b47/
+- **【团队与规模】**CUI 26051890;7 angajați (2025);Cifra de afaceri 8.185.582 RON (+9,74%);Profit net 301.178 RON;17 ani din 2009;1 asociat unic+1 administrator(termene.ro 登记册件)
+  > CUI 26051890;7 angajați (2025);Cifra de afaceri 8.185.582 RON (+9,74%);Profit net 301.178 RON;17 ani din 2009;1 asociat unic+1 administrator(termene.ro 登记册件)
+  > 来源：https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +142,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:相机谱 DIN PoE 轨+集团 OEM 侧线 / T:自有品牌倾向选白牌时审视严
+S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin 管理员名册件 / T 大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -162,7 +161,7 @@ S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:�
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -171,8 +170,8 @@ S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] CCTV 谱 PoE 供电现供牌
-  - [ ] 集团 OEM 心智是否延到网络件
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +180,15 @@ S:CCTV 专谱+集团自有制造 / W:罗马尼亚站依附 Kraków 中枢 / O:�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Dipol Connect team,
+Bună ziua Iulia,
 
-DIPOL has supplied CCTV and low-voltage systems across 40+ countries since 1990 - and being both a distributor and an antenna manufacturer, you understand the second-source and OEM conversation from both sides of the table.
-
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your camera projects, white-label friendly and open to OEM terms.
-
-One question: in your CCTV project cabinets, which DIN-rail industrial PoE switch feeds the cameras today - and does group-level purchasing leave room for a documented second source or OEM variant?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

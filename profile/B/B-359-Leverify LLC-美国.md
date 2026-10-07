@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Leverify LLC（美国个体谱；R65 搜索无果守档准由）…
+- **是谁**：Leverify LLC(美国 Bellevue/Redmond WA,2331 130TH Ave NE Ste 110A Bellevue 98005 + 6825 176TH Ave NE Ste 135A Red…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 大批发电商盘的品牌口补位：value 交换档直接货量比价可得；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Leverify LLC（美国个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Leverify LLC(美国 Bellevue/Redmond WA,2331 130TH Ave NE Ste 110A Bellevue 98005 + 6825 176TH Ave NE Ste 135A Redmond 98052;**DBA=Stockyfy(stockyfy.com)**;leverify.com / brands@leveri | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Leverify LLC（华盛顿州 Bellevue/Redmond 6825 176TH Ave NE Ste 135A）:Crunchbase 称"electronics wholesale distributor"101-250 人规模带；brands@leverify.com 是品牌线接口邮箱（altostrat 官列 MikroTik Reseller)；扛 stockyfy.com 牌 | R65 深挖:守档准由
-- 【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转
-- 【假设】101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +60,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Leverify LLC(美国 Bellevue/Redmond WA,2331 130TH Ave NE Ste 110A Bellevue 98005 + 6825 176TH Ave NE Ste 135A Redmond 98052;**DBA=Stockyfy(stockyfy.com)**;leverify.com / brands@leverify.com;谱型=**电子产品批发分销商(consumer electronics wholesale;101-250 人;altostrat 列 MikroTik Reseller 谱)**;排噪:getleverify.com(德州 Austin BPO 客服外包,Matt Gandy)=异名已排
 
 ## 联系方式（已有/猜测分标）
 
@@ -76,59 +69,63 @@ updated: 2026-10-07
 - **电话**：+1 425 654 0681
 - **原始联系字段**：+1 425 654 0681 / brands@leverify.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Raza Ul-Mustafa**(Founder / Key Principal / Member(创办位+主负责人))— Crunchbase founders 件+DNB Key Principal 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/leverify-707f〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Raza Ul-Mustafa | Founder / Key Principal / Member(创办位+主负责人) | Crunchbase founders 件+DNB Key Principal 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/leverify-707f |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · RMA/保修三件套单页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通
-- **要问的问题**：你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 不上的转楼价档随单
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通
-- **要问的问题**：你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 归档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：101-250 人规模的批发盘若真走 MikroTik，量可不薄；STC-424 以 brands@ 具名接口正通
-- **要问的问题**：你们现在在架 PoE 交换哪几个档？STC-424 这样的 24 口 $180 EXW 档有位置吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波3.json`；价格均为 EXW 快照。
 
-- **背景深描**：Leverify LLC（美国个体谱；R65 搜索无果守档准由）
-- **芯片与在用型号**：【推断】品牌接 brands@leverify.com 明示有专门品牌管理口——上架前胜点在货量谱；MikroTik Reseller 挂证；SKU 向电子杂货盘转
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424 入 brands@ 供位 / T:纯货量比价心智的利器淘汰
-- **Saga产品适配**：大批发电商盘的品牌口补位：value 交换档直接货量比价可得
+- **背景深描**：Leverify LLC(美国 Bellevue/Redmond WA,2331 130TH Ave NE Ste 110A Bellevue 98005 + 6825 176TH Ave NE Ste 135A Redmond 98052;**DBA=Stockyfy(stockyfy.com)**;leverify.com / brands@leverify.com;谱型=**电子产品批发分销商(consumer electronics wholesale;101-250 人;altostrat 列 MikroTik Reseller 谱)**;排噪:getleverify.com(德州 Austin BPO 客服外包,Matt Gandy)=异名已排
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Raza Ul-Mustafa(Founder / Key Principal / Member(创办位+主负责人),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：电子批发分销+品牌线 brands@
+- **优缺点SWOT**：S 电子批发分销+品牌线 brands@ / W DNB 谱面带核(直发须核) / O Ul-Mustafa 创办位直达 / T 大牌厂商链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):美国 WA 电子产品批发分销(MikroTik 经销商谱);Ul-Mustafa 创办位(opt-in 律);brands@ 谱位复合
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Leverify LLC Reseller Bellevue Washington brands@leverify.com
-  > Leverify LLC Reseller Bellevue Washington brands@leverify.com
-  > 来源：https://altostrat.io/es/buying/hardware/resellers/north-america/usa/
-- **【R57备护深挖证据】**electronics wholesale distributor…Bellevue, Washington…101-250
-  > electronics wholesale distributor…Bellevue, Washington…101-250
+- **【决策链与对接人】**Leverify LLC — founders: Raza Ul-Mustafa;AKA Stockyfy;Bellevue, Washington;101-250;electronics wholesale distributor(Crunchbase 件)
+  > Leverify LLC — founders: Raza Ul-Mustafa;AKA Stockyfy;Bellevue, Washington;101-250;electronics wholesale distributor(Crunchbase 件)
   > 来源：https://www.crunchbase.com/organization/leverify-707f
-- **【R65 查询注】**2026-10-07 搜索无果；守档准由
-  > (web_search 无果）
-  > 来源：（沙箱日志）
+- **【决策链与对接人】**Key Principal: Raza Ul-Mustafa;Raza Ul-Mustafa Member;Leverify LLC Doing Business As: Stockyfy(DNB 件)
+  > Key Principal: Raza Ul-Mustafa;Raza Ul-Mustafa Member;Leverify LLC Doing Business As: Stockyfy(DNB 件)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.leverify_llc.93e834f722a9ec18d8ea9dc618bd9237.html
+- **【业务定位】**an electronics wholesale distributor providing exceptional partner experiences to resellers and businesses;stockyfy.com;2331 130TH Ave NE Ste 110A Bellevue WA
+  > an electronics wholesale distributor providing exceptional partner experiences to resellers and businesses;stockyfy.com;2331 130TH Ave NE Ste 110A Bellevue WA
+  > 来源：https://www.dnb.com/business-directory/company-profiles.leverify_llc.3be4dd7729ac1958030a358ec6fefb27.html
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +138,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424 入 brands@ 供位 / T:纯货量比价心智的利器淘汰
+S 电子批发分销+品牌线 brands@ / W DNB 谱面带核(直发须核) / O Ul-Mustafa 创办位直达 / T 大牌厂商链竞谱
 
 ## 触达与风险红线
 
@@ -160,7 +157,7 @@ S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -169,8 +166,8 @@ S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] brands@ 口对应的品牌上架规则（ROQ/Window/保修三件套）
-  - [ ] MikroTik 属上架量线还是项目引导线
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +176,15 @@ S:规模批发带+具名品牌口 / W:杂货化谱强、品牌忠弱 / O:STC-424
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Leverify brands team,
+Hi Raza,
 
-Bellevue wholesale with a dedicated brands inbox - that tells us you actually run a brand-facing process rather than a one-off cart flow.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium lines you already carry.
-
-One question: for the brands inbox pipeline, what does a PoE access switch need to show (warranty terms, RMA path, stock depth) to earn a slot on your lines?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

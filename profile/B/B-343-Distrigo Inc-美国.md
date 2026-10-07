@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由）…
+- **是谁**：Distrigo Inc(美国;sales@distrigoinc.com;CSV 域锚=distrigoinc.com;2026-10-08 R66-B 波 3:**Stellantis DISTRIGO(Stella…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Distrigo Inc(美国;sales@distrigoinc.com;CSV 域锚=distrigoinc.com;2026-10-08 R66-B 波 3:**Stellantis DISTRIGO(Stellantis 多品牌汽车件分销网,148 hubs+289 Relay;2023 起并 Fiat/Jeep/Alfa Romeo 等 14 牌; | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Distrigo Inc.（佛罗里达 North Miami）：官方 MikroTik Reseller(altostrat 名录核注）；自述"strategic sourcing partner"；在架 MikroTik hEX S/CCR2004-16G-2S+/RB4011iGS+RM=路由/运算件为主，交换口谱薄 | R65 深挖:守档准由
-- 【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位
-- 【假设】思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -85,50 +78,50 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 价锚对照 Ubiquiti USW-24-PoE 一页
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口
-- **要问的问题**：你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+10 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口
-- **要问的问题**：你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 无果归档观察
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：思路=谱强而 PoE 档缺的通廊型——STC-424 代入主接口二供位最好开口
-- **要问的问题**：你们接迈阿密通廊的商用部署案里，PoE 接入交换现在走谁家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波3.json`；价格均为 EXW 快照。
 
-- **背景深描**：Distrigo Inc（美国车配/谱者主体；R65 搜索缺谱走=守档准由）
-- **芯片与在用型号**：【推断】路由器/运算件是主打骨（非交换类），PoE 接入交换是产品空穴；迈阿密是拉美通廊前哨位
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:官方身份引信+迈阿密关务区位 / W:SKU 薄（路由为骨）对陌生品牌守度低 / O:STC-424 入主其 PoE 档空位 / T:在架厚度路线的布线竞争
-- **Saga产品适配**：路线谱 MikroTik Reseller 的 PoE 档空位：24 口 280W 正口
+- **背景深描**：Distrigo Inc(美国;sales@distrigoinc.com;CSV 域锚=distrigoinc.com;2026-10-08 R66-B 波 3:**Stellantis DISTRIGO(Stellantis 多品牌汽车件分销网,148 hubs+289 Relay;2023 起并 Fiat/Jeep/Alfa Romeo 等 14 牌;distrigoparts.co.uk/Stellantis 官方稿)=异名已排**;distrigoinc.com 本体公开谱面薄,人名零命中)
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**守档准由;R66 波次二点名**
+- **关注点与资质**：CSV 域锚已获
+- **优缺点SWOT**：S CSV 域锚已获 / W 实体身份未锁定 / O 官网谱面+州注册反查可破 / T Stellantis 同名噪声重
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):美国 Distrigo Inc(身份待锁);守档:Stellantis 件排录;R66 波次二点名(官网谱面+州注册)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Official MikroTik Reseller…804 NE 125th st North Miami, FL 33161
-  > Official MikroTik Reseller…804 NE 125th st North Miami, FL 33161
+- **【业务定位】**Distrigo is STELLANTIS multi-brand spare parts distribution network;148 DISTRIGO hubs and 289 DISTRIGO Relay(Stellantis 官方稿,异名排噪)
+  > Distrigo is STELLANTIS multi-brand spare parts distribution network;148 DISTRIGO hubs and 289 DISTRIGO Relay(Stellantis 官方稿,异名排噪)
+  > 来源：https://www.media.stellantis.com/uk-en/corporate/press/stellantis-announces-new-expanded-distrigo-parts-distribution-structure-in-europe
+- **【业务定位】**Distrigo Parts Distribution(Tracxn 谱,66 employees,2013)=欧洲件,与 distrigoinc.com 异体排噪
+  > Distrigo Parts Distribution(Tracxn 谱,66 employees,2013)=欧洲件,与 distrigoinc.com 异体排噪
+  > 来源：https://tracxn.com/d/companies/distrigo-parts-distribution/__LwtAQ2SsHZIMYQwrC3jvoc5hoZJf84XjkTX2DtnmOZc
+- **【近期动态与线索】**2026-10-08 R66-B 波 3:守档排噪;波次二=distrigoinc.com 官网谱面+州务卿注册反查
+  > 2026-10-08 R66-B 波 3:守档排噪;波次二=distrigoinc.com 官网谱面+州务卿注册反查
   > 来源：https://distrigoinc.com/
-- **【R57备护深挖证据】**hEX S / CCR2004-16G-2S+ / RB4011iGS+RM
-  > hEX S / CCR2004-16G-2S+ / RB4011iGS+RM
-  > 来源：https://distrigoinc.com/
-- **【R65 查询注】**2026-10-07 搜索无果；守档准由
-  > (web_search 无果）
-  > 来源：（沙箱日志）
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +134,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:官方身份引信+迈阿密关务区位 / W:SKU 薄（路由为骨）对陌生品牌守度低 / O:STC-424 入主其 PoE 档空位 / T:在架厚度路线的布线竞争
+S CSV 域锚已获 / W 实体身份未锁定 / O 官网谱面+州注册反查可破 / T Stellantis 同名噪声重
 
 ## 触达与风险红线
 
@@ -169,8 +162,8 @@ S:官方身份引信+迈阿密关务区位 / W:SKU 薄（路由为骨）对陌�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在架 PoE 交换 SKU 进深（如果只有 CRS3 系那是我们的口）
-  - [ ] 拉美仓前哨（迈阿密）发远关务路径
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +172,15 @@ S:官方身份引信+迈阿密关务区位 / W:SKU 薄（路由为骨）对陌�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Distrigo team,
 
-Your Miami front carries the MikroTik routing muscle (hEX S / CCR2004 / RB4011). The PoE access layer that drops those routers into real RF estates is usually where the BOM thins out.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the value-side second source for exactly that layer.
-
-One question: across the projects you stage through Miami, which PoE access brand is carrying the drop pins today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
