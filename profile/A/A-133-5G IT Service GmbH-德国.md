@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】5G IT Service GmbH（德国 NRW Kreis Borken / IDPM 园区）：区域整体 IT 服务商——咨询/概念/实施/运维一站式；团队 15+ 人全员头像具名（Falk Kappenhagen、Jens Tarraschewski 等）；**伙伴墙实版：Ruckus、Acronis、Sophos、Allied Telesis、Microsoft、enreach、VMware**；参考客户 Wiesehoff/Faserfreunde/Ruthmann/Bewital/FC Bocholt
-- 【推断】**Allied Telesis 伙伴身份官网实版印证**=交换接入层有其明确现供——对标替代位对话成立（第二供位，不自贬在位）
-- 【假设】“Starke Partner…zertifizierte Mitarbeiter”文化=德式严谨，认证书级文档+实测报告
+- 【事实】5G IT Service GmbH:5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@5g-it.de [Publicly listed; delivery not tested]; https://www.5g-it.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Falk Kappenhagen**(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语))— webvalid/registercheck 登记册谱+regiomanager 专文引语 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
+  - **Bernward Schepermann**(Prokurist(授权代理;2020-01-09 与公司同日登记入职位))— webvalid 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
+  - **Michael Paschen**(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱))— webvalid 登记册谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
+  - **Alexander Hilgenberg**(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语))— regiomanager.de 专文引语 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Falk Kappenhagen | Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语) | webvalid/registercheck 登记册谱+regiomanager 专文引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
+| Bernward Schepermann | Prokurist(授权代理;2020-01-09 与公司同日登记入职位) | webvalid 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
+| Michael Paschen | 原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱) | webvalid 登记册谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
+| Alexander Hilgenberg | Marketing-Verantwortlicher(营销负责人;安全议题公司事引语) | regiomanager.de 专文引语 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NRW 区域商；伙伴墙 Allied 实版印证
-- **②芯片/型号**：Allied Telesis（官网实版）
-- **③KP 深挖**：具名团队+info@
-- **④Saga 对标**：第二供位 value 线（不贬在位）
-- **⑤在乎与偏好**：认证级文档
+- **①背景再核**：5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Falk Kappenhagen(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语),official-self-published·谱/leads-only(直发需 opt-in));Bernward Schepermann(Prokurist(授权代理;2020-01-09 与公司同日登记入职位),official-self-published·谱/leads-only(直发需 opt-in));Michael Paschen(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱),official-self-published·谱/leads-only(直发需 opt-in));Alexander Hilgenberg(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：五创始联合跳槽谱=技术硬核
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Starke Partner…zertifizierte Mitarbeiter aus Vertrieb und Technik…[Allied Telesis][Ruckus][Sophos]…”
-  > “Starke Partner…zertifizierte Mitarbeiter aus Vertrieb und Technik…[Allied Telesis][Ruckus][Sophos]…”
-  > 来源：https://www.5g-it.de/
+- **【决策链与对接人】**Geschäftsführer: Kappenhagen, Falk (seit 02.11.2022, einzelvertretungsberechtigt, geb. 1990);Prokurist: Schepermann, Bernward (Eintritt 09.01.2020);Nicht mehr GF: Paschen, Michael (Austritt 25.01.2021)
+  > Geschäftsführer: Kappenhagen, Falk (seit 02.11.2022, einzelvertretungsberechtigt, geb. 1990);Prokurist: Schepermann, Bernward (Eintritt 09.01.2020);Nicht mehr GF: Paschen, Michael (Austritt 25.01.2021)
+  > 来源：https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608
+- **【团队与规模】**„Unser Ziel ist, dass der Unternehmer seinen Kopf frei hat…" — GF Falk Kappenhagen;5G=fünf Gründer(1.1.2020, vor Corona);heute 19 Mitarbeitende;Alexander Hilgenberg verantwortet das Marketing(安全议题引语)
+  > „Unser Ziel ist, dass der Unternehmer seinen Kopf frei hat…" — GF Falk Kappenhagen;5G=fünf Gründer(1.1.2020, vor Corona);heute 19 Mitarbeitende;Alexander Hilgenberg verantwortet das Marketing(安全议题引语)
+  > 来源：https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/
+- **【联系方式与基础画像】**Sitzverlegung 12.02.2026: Velen, Industriestraße 13, 46342;原 Carl-Benz-Str. 21, 48734 Reken;AG Coesfeld HRB 18608;€25,000;g gegründet 3.12.2019;info@5G-IT.de;+49 2864 3303110
+  > Sitzverlegung 12.02.2026: Velen, Industriestraße 13, 46342;原 Carl-Benz-Str. 21, 48734 Reken;AG Coesfeld HRB 18608;€25,000;g gegründet 3.12.2019;info@5G-IT.de;+49 2864 3303110
+  > 来源：https://www.registercheck.de/companies/5g-it-service-gmbh
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：NRW 区域整体 IT 商（伙伴认证文化）
-- **产品线与在售品牌**：Ruckus/Sophos/**Allied Telesis（实版）**/enreach
-- **目标行业与场景**：地区企业/食品/物流/体育俱乐部
-- **团队与规模**：15+ 区域商
-- **决策链与对接人**：info@+具名团队
-- **技术与认证**：伙伴认证体系
-- **采购与供应链信号**：伙伴目录随单
-- **近期动态与线索**：团队扩编可见
-- **与我方契合点**：Allied 在位下的第二供位 value 线
-- **风险与注意**：代理关系绑定
+- **业务定位**：5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Münsterland 五位创始 SMB 全栈 MSP
+- **团队与规模**：19 人;2020 创;€2-5M 谱
+- **决策链与对接人**：**Falk Kappenhagen(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语),official-self-published·谱/leads-only(直发需 opt-in));Bernward Schepermann(Prokurist(授权代理;2020-01-09 与公司同日登记入职位),official-self-published·谱/leads-only(直发需 opt-in));Michael Paschen(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱),official-self-published·谱/leads-only(直发需 opt-in));Alexander Hilgenberg(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kappenhagen GF+Schepermann Prokurist(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +193,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：印证
-- **W**：绑定
-- **O**：二线
-- **T**：同盟
+- **S**：五创始联合跳槽谱=技术硬核
+- **W**：小实体(19 人)年轻谱
+- **O**：Kappenhagen 法代直达位
+- **T**：KRITIS/安全谱竞位
 
 ## 触达与风险红线
 
@@ -199,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二线空间
-  - [ ] 文档门槛
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi 5G IT team,
+Guten Tag Herr Kappenhagen,
 
-A partner wall with certified staff behind each brand - Ruckus, Sophos, Allied Telesis - shows how seriously Kreis Borken businesses are served. We write with respect for that structure, not against it.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation and test reports. Reference: $180 USD EXW - a value second line for projects where the standard partner brands overshoot the budget.
-
-One question: when a customer project cannot carry the usual brands, is there room for a documented value alternative on your bench?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

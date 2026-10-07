@@ -9430,6 +9430,40 @@
     ]
   },
   {
+    "url": "https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L470"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962",
     "http_checked": false,
     "occurrences": [
@@ -13571,19 +13605,15 @@
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L149"
+        "locator": "L143"
       }
     ]
   },
@@ -13606,6 +13636,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-942/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://groupenetworks.fr/telecom-et-reseaux/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L392"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://groupenetworks.fr/telecom-et-reseaux/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L86"
       }
     ]
   },
@@ -40723,23 +40777,19 @@
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -41140,6 +41190,134 @@
     ]
   },
   {
+    "url": "https://www.acp-gruppe.com/de-at/kontaktliste",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L160"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L231"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L238"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/de-at/kontaktliste'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L59"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L60"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L62"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/de-at/kontaktliste〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/standorte/dresden",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L134"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L155"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L217"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L224"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/standorte/dresden'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L57"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L58"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L61"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/standorte/dresden〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.acp-gruppe.com/standorte/halle",
     "http_checked": false,
     "occurrences": [
@@ -41205,23 +41383,19 @@
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L146"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -71284,6 +71458,30 @@
     ]
   },
   {
+    "url": "https://www.manageo.fr/entreprises/530634252.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L387"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.manageo.fr/entreprises/530634252.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://www.manta.com/c/mhwy7j9/unifying-solution-llc",
     "http_checked": false,
     "occurrences": [
@@ -76290,6 +76488,30 @@
     ]
   },
   {
+    "url": "https://www.nwzonline.de/advertorial/selos-informationssysteme_a_4,0,914149308.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L278"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nwzonline.de/advertorial/selos-informationssysteme_a_4,0,914149308.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.nxo.eu",
     "http_checked": false,
     "occurrences": [
@@ -77324,6 +77546,72 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-940/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pappers.fr/entreprise/groupe-networks-530634252",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L361"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L382"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L449"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L463"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pappers.fr/entreprise/groupe-networks-530634252'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L80"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L82"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pappers.fr/entreprise/groupe-networks-530634252〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -79392,6 +79680,76 @@
     ]
   },
   {
+    "url": "https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L47"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L49"
+      }
+    ]
+  },
+  {
+    "url": "https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.registercheck.de/companies/5g-it-service-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://www.registercheck.de/companies/5g-it-service-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L50"
+      }
+    ]
+  },
+  {
     "url": "https://www.reportaziende.it/sce_telecomunicazioni_srl_o_in_forma_abbreviata_scesrl_rm_08399381006",
     "http_checked": false,
     "occurrences": [
@@ -80871,19 +81229,15 @@
       },
       {
         "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
         "locator": "L133"
       },
       {
         "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L136"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L139"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -80892,6 +81246,72 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-930/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.selos.de/index.php/impressum",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L252"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L273"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L340"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L347"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://www.selos.de/index.php/impressum'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L69"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L70"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://www.selos.de/index.php/impressum〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -81928,6 +82348,40 @@
       {
         "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
         "locator": "L115"
+      }
+    ]
+  },
+  {
+    "url": "https://www.societe.com/societe/groupe-networks-530634252.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L456"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.societe.com/societe/groupe-networks-530634252.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.societe.com/societe/groupe-networks-530634252.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -86126,6 +86580,112 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第10批.json",
         "locator": "L484"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L99"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L113"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L46"
+      },
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L48"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Selos+Informationssysteme+GmbH,+Wilhelmshaven/HRB+130547",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+        "locator": "L283"
+      },
+      {
+        "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Selos+Informationssysteme+GmbH,+Wilhelmshaven/HRB+130547'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第15波落盘.py",
+        "locator": "L73"
       }
     ]
   },

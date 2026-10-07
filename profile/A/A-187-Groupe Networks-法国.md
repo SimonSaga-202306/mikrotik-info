@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Groupe Networks（法国 Aubagne/马赛圈，20+ 年）：**企业数字化转型集成商**——数字打印逻辑+**ZEENDOC 集成伙伴（法国 DMS）**+网络安全全线服务；“acteur incontournable de la cybersécurité en France”自评；客户=大企业+PME 双谱
-- 【推断】打印/DMS/网络安全三线的项目随单中，网络层是其交付物的载体——接入件随单窄位
-- 【假设】其“réponse globale à la gestion digitale”定位=硬件在方案里随单
+- 【事实】Groupe Networks:GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@groupenetworks.fr [Publicly listed; delivery not tested]; https://groupenetworks.fr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Maurice COHEN**(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径))— pappers.fr RNE 谱推定 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.pappers.fr/entreprise/groupe-networks-530634252〕
+  - **MC2C CONSEILS**(Président(法人总裁;SIREN 823997283,2017-01-10 起在职))— societe.com/RNE 谱+lefigaro 法定公告(AGO 22/12/2016) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.societe.com/societe/groupe-networks-530634252.html〕
+  - **Laurent THOMAS**(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人))— pappers.fr BODACC 谱(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.pappers.fr/entreprise/groupe-networks-530634252〕
+  - **Emmanuel DAVID**(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人))— pappers.fr/entreprises.lefigaro BODACC 谱(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Maurice COHEN | Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径) | pappers.fr RNE 谱推定 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.pappers.fr/entreprise/groupe-networks-530634252 |
+| MC2C CONSEILS | Président(法人总裁;SIREN 823997283,2017-01-10 起在职) | societe.com/RNE 谱+lefigaro 法定公告(AGO 22/12/2016) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.societe.com/societe/groupe-networks-530634252.html |
+| Laurent THOMAS | 创位期 Président(LTH CONSEILS;2011-2016 谱;受益人) | pappers.fr BODACC 谱(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.pappers.fr/entreprise/groupe-networks-530634252 |
+| Emmanuel DAVID | 创位 Directeur général(ED PARTICIPATION;2011 谱;受益人) | pappers.fr/entreprises.lefigaro BODACC 谱(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：马赛圈数字化转型集成（ZEENDOC/安全，20+ 年）
-- **②芯片/型号**：未明
-- **③KP 深挖**：contact@
-- **④Saga 对标**：方案随单接入件（窄位）
-- **⑤在乎与偏好**：法语文档
+- **①背景再核**：GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Maurice COHEN(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径),leads-only·待 opt-in(LinkedIn/谱面带核));MC2C CONSEILS(Président(法人总裁;SIREN 823997283,2017-01-10 起在职),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent THOMAS(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核));Emmanuel DAVID(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：15 年 TPE/PME 电信深耕谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Nous apportons aux grandes entreprises et PME une réponse globale à la gestion digitale…Fort de plus de 20 ans d’expérience[Groupe Networks 官网/官档]”
-  > “Nous apportons aux grandes entreprises et PME une réponse globale à la gestion digitale…Fort de plus de 20 ans d’expérience[Groupe Networks 官网/官档]”
-  > 来源：https://groupenetworks.fr/
+- **【决策链与对接人】**Dirigeants: MC2C CONSEILS Président (SIREN 823997283, depuis 10/01/2017);GROUPE FGC CAC titulaire (depuis 28/10/2021);Dirigeants et bénéficiaires effectifs: Maurice COHEN (via MC2C);Laurent THOMAS (LTH, historique);Emmanuel DAVID (ED PARTICIPATION, historique);GROUPE NETWORKS est Président de HEO NETWORKS (SIREN 794526004)
+  > Dirigeants: MC2C CONSEILS Président (SIREN 823997283, depuis 10/01/2017);GROUPE FGC CAC titulaire (depuis 28/10/2021);Dirigeants et bénéficiaires effectifs: Maurice COHEN (via MC2C);Laurent THOMAS (LTH, historique);Emmanuel DAVID (ED PARTICIPATION, historique);GROUPE NETWORKS est Président de HEO NETWORKS (SIREN 794526004)
+  > 来源：https://www.pappers.fr/entreprise/groupe-networks-530634252
+- **【联系方式与基础画像】**SAS au capital de 866 400 €;SIREN 530634252;RCS Marseille;100 che de St Lambert Actiburo 3, 13400 Aubagne;création 01/01/2011;6 à 9 salariés;CA 2023 1 031 938 €(manageo/societe 件)
+  > SAS au capital de 866 400 €;SIREN 530634252;RCS Marseille;100 che de St Lambert Actiburo 3, 13400 Aubagne;création 01/01/2011;6 à 9 salariés;CA 2023 1 031 938 €(manageo/societe 件)
+  > 来源：https://www.manageo.fr/entreprises/530634252.html
+- **【业务定位】**Groupe Networks est LE FOURNISSEUR DE SOLUTIONS TÉLÉCOMS POUR LES TPE/PME;offres Internet basées sur les réseaux Orange, Bouygues et SFR;téléphonie IP/VoIP(RTC 关闭换代)+mobile 4G/5G(groupenetworks.fr 官网 telecom-et-reseaux 页)
+  > Groupe Networks est LE FOURNISSEUR DE SOLUTIONS TÉLÉCOMS POUR LES TPE/PME;offres Internet basées sur les réseaux Orange, Bouygues et SFR;téléphonie IP/VoIP(RTC 关闭换代)+mobile 4G/5G(groupenetworks.fr 官网 telecom-et-reseaux 页)
+  > 来源：https://groupenetworks.fr/telecom-et-reseaux/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：马赛圈数字转型集成商（ZEENDOC/安全）
-- **产品线与在售品牌**：ZEENDOC 伙伴
-- **目标行业与场景**：大企业+PME
-- **团队与规模**：区域中型
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：网络安全线
-- **与我方契合点**：方案随单的接入件窄位
-- **风险与注意**：
+- **业务定位**：GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国 Sud TPE/PME 电信方案商(Reseller 三大运营商)
+- **团队与规模**：6-9 人;2011 创;CA €1.03M
+- **决策链与对接人**：**Maurice COHEN(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径),leads-only·待 opt-in(LinkedIn/谱面带核));MC2C CONSEILS(Président(法人总裁;SIREN 823997283,2017-01-10 起在职),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent THOMAS(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核));Emmanuel DAVID(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Cohen 受益人+MC2C Consults Président(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：区域
-- **W**：边埴
-- **O**：随单
-- **T**：在位
+- **S**：15 年 TPE/PME 电信深耕谱
+- **W**：小实体谱(6-9 人)
+- **O**：Cohen 实质受益人+MC2C Président 谱位
+- **T**：大牌线缆件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络件现供
-  - [ ] 随单率
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Groupe Networks team,
+Bonjour Monsieur Cohen,
 
-Twenty years answering digital transformation for enterprises and SMBs from Aubagne - print, document management, cybersecurity. Every one of those solutions eventually lands on an access switch.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the network layer behind your digital-transformation projects.
-
-One question: in your integration projects, which switch brand holds the PoE access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

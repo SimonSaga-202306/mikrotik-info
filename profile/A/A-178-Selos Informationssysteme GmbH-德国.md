@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Selos Informationssysteme GmbH（德国 Wilhelmshaven 威廉港）：区域 SMB IT——伙伴墙 **1&1/Auerswald（Advanced Partner）/Dell/Kaspersky/IONOS（官方伙伴）**；页面后台图片主题 explicit 含 ethernet/switch 元素
-- 【推断】Auerswald 高级伙伴=德国深 SMB 通信同盟（PBX 厂）+1&1/IONOS 双通道=托管 ISP 生态；深 SMB 随单 value 件自然
-- 【假设】威廉港港口/海事经济区域=本地企业特色客群
+- 【事实】Selos Informationssysteme GmbH:Selos Informationssysteme GmbH(德国 Wilhelmshaven,Bismarckstraße 185, 26382;**HRB 130547 Amtsgericht Oldenburg**;**1993-05-03 创立(33+ 年;MPDT+CBR 合并谱;创始谱系 Udo Hicken/Egon Rocker/Rainer Kuhlmann/Peter Warnken)**;kontakt@selos.de;+49 4421 9787-0;谱型=Jade-Weser 技术系统屋(Beratung/Konzeption/Lieferung/Installation;IT 基础设施/Server-Client/备份合规/虚拟化云/电信/监控/补丁管理/Service;**Jörg Johann Müller 国防军 Bundeswehr 政府线(最大最重要客户)+Jan Lucklum 民营 Jade-Weser SME 线,2001 首批 Fachinformatiker Azubi→2018 接棒 GF,两代学徒-继承谱**)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：kontakt@selos.de [Publicly listed; delivery not tested]; https://www.selos.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jan Lucklum**(Geschäftsführer(执行董事;2001 首批学徒→2018 起 GF;**民营 SME 线直管**))— selos.de Impressum 法代自署+nwzonline 专文+webvalid 登记册 〔已有(公司官方公开件/登记册自曝);源:https://www.selos.de/index.php/impressum〕
+  - **Jörg Johann Müller**(Geschäftsführer(执行董事;Industriemeister Elektrotechnik,创始首日队;**Bundeswehr 政府线直管**))— selos.de Impressum 法代自署+awv-jade 会员谱+nwzonline 专文 〔已有(公司官方公开件/登记册自曝);源:https://www.selos.de/index.php/impressum〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jan Lucklum | Geschäftsführer(执行董事;2001 首批学徒→2018 起 GF;**民营 SME 线直管**) | selos.de Impressum 法代自署+nwzonline 专文+webvalid 登记册 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.selos.de/index.php/impressum |
+| Jörg Johann Müller | Geschäftsführer(执行董事;Industriemeister Elektrotechnik,创始首日队;**Bundeswehr 政府线直管**) | selos.de Impressum 法代自署+awv-jade 会员谱+nwzonline 专文 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.selos.de/index.php/impressum |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：威廉港深 SMB（Auerswald 高级伙伴+1&1/IONOS）
-- **②芯片/型号**：Auerswald/Dell
-- **③KP 深挖**：kontakt@
-- **④Saga 对标**：深 SMB 随单 value 件
-- **⑤在乎与偏好**：伙伴级文档
+- **①背景再核**：Selos Informationssysteme GmbH(德国 Wilhelmshaven,Bismarckstraße 185, 26382;**HRB 130547 Amtsgericht Oldenburg**;**1993-05-03 创立(33+ 年;MPDT+CBR 合并谱;创始谱系 Udo Hicken/Egon Rocker/Rainer Kuhlmann/Peter Warnken)**;kontakt@selos.de;+49 4421 9787-0;谱型=Jade-Weser 技术系统屋(Beratung/Konzeption/Lieferung/Installation;IT 基础设施/Server-Client/备份合规/虚拟化云/电信/监控/补丁管理/Service;**Jörg Johann Müller 国防军 Bundeswehr 政府线(最大最重要客户)+Jan Lucklum 民营 Jade-Weser SME 线,2001 首批 Fachinformatiker Azubi→2018 接棒 GF,两代学徒-继承谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jan Lucklum(Geschäftsführer(执行董事;2001 首批学徒→2018 起 GF;**民营 SME 线直管**),official-self-published·谱/leads-only(直发需 opt-in));Jörg Johann Müller(Geschäftsführer(执行董事;Industriemeister Elektrotechnik,创始首日队;**Bundeswehr 政府线直管**),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：33 年谱+Bundeswehr 长期客户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“[partner wall:] 1und1, Auerswald Advanced Partner, Dell, Kaspersky, IONOS Offizieller Partner”
-  > “[partner wall:] 1und1, Auerswald Advanced Partner, Dell, Kaspersky, IONOS Offizieller Partner”
-  > 来源：https://www.selos.de/
+- **【决策链与对接人】**Vertreten durch die Geschäftsführer: Jan Lucklum;Jörg Johann Müller (Industriemeister Fachrichtung Elektrotechnik);Bismarckstraße 185, 26382 Wilhelmshaven;+49 4421 9787-0(selos.de 官网 Impressum)
+  > Vertreten durch die Geschäftsführer: Jan Lucklum;Jörg Johann Müller (Industriemeister Fachrichtung Elektrotechnik);Bismarckstraße 185, 26382 Wilhelmshaven;+49 4421 9787-0(selos.de 官网 Impressum)
+  > 来源：https://www.selos.de/index.php/impressum
+- **【团队与规模】**1993-05-03 由 MPDT+CBR 合并创;创始谱 Udo Hicken/Egon Rocker/Rainer Kuhlmann/Peter Warnken;Rocker 2006 离,Hicken 2016 离,Kuhlmann 25 年后 2018 退休;seit 2018 müller+Lücklum 双 GF:Lücklum (42, 2001 首批 Fachinformatiker-Azubi) 民营线+H. Müller (55) Bundeswehr 政府线(nwzonline Selos 公司介绍件)
+  > 1993-05-03 由 MPDT+CBR 合并创;创始谱 Udo Hicken/Egon Rocker/Rainer Kuhlmann/Peter Warnken;Rocker 2006 离,Hicken 2016 离,Kuhlmann 25 年后 2018 退休;seit 2018 müller+Lücklum 双 GF:Lücklum (42, 2001 首批 Fachinformatiker-Azubi) 民营线+H. Müller (55) Bundeswehr 政府线(nwzonline Selos 公司介绍件)
+  > 来源：https://www.nwzonline.de/advertorial/selos-informationssysteme_a_4,0,914149308.html
+- **【联系方式与基础画像】**HRB 130547 Oldenburg;Bestellt als GF: Lucklum, Jan(einzelvertretungsberechtigt);Nicht mehr GF: Kuhlmann 2018/Hicken 2015(webvalid 登记册谱);kontakt@selos.de(implisense)
+  > HRB 130547 Oldenburg;Bestellt als GF: Lucklum, Jan(einzelvertretungsberechtigt);Nicht mehr GF: Kuhlmann 2018/Hicken 2015(webvalid 登记册谱);kontakt@selos.de(implisense)
+  > 来源：https://www.webvalid.de/company/Selos+Informationssysteme+GmbH,+Wilhelmshaven/HRB+130547
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：威廉港深 SMB IT（Auerswald/1&1 同盟）
-- **产品线与在售品牌**：Auerswald/Dell/Kaspersky
-- **目标行业与场景**：深 SMB
-- **团队与规模**：小型
-- **决策链与对接人**：kontakt@ 口
-- **技术与认证**：伙伴级
-- **采购与供应链信号**：随单
-- **近期动态与线索**：—
-- **与我方契合点**：深 SMB 随单 value 件
-- **风险与注意**：
+- **业务定位**：Selos Informationssysteme GmbH(德国 Wilhelmshaven,Bismarckstraße 185, 26382;**HRB 130547 Amtsgericht Oldenburg**;**1993-05-03 创立(33+ 年;MPDT+CBR 合并谱;创始谱系 Udo Hicken/Egon Rocker/Rainer Kuhlmann/Peter Warnken)**;kontakt@selos.de;+49 4421 9787-0;谱型=Jade-Weser 技术系统屋(Beratung/Konzeption/Lieferung/Installation;IT 基础设施/Server-Client/备份合规/虚拟化云/电信/监控/补丁管理/Service;**Jörg Johann Müller 国防军 Bundeswehr 政府线(最大最重要客户)+Jan Lucklum 民营 Jade-Weser SME 线,2001 首批 Fachinformatiker Azubi→2018 接棒 GF,两代学徒-继承谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Wilhelmshaven 33 年技术系统屋(Bundeswehr+SME 双线)
+- **团队与规模**：Kleinunternehmen;1993 创
+- **决策链与对接人**：**Jan Lucklum(Geschäftsführer(执行董事;2001 首批学徒→2018 起 GF;**民营 SME 线直管**),official-self-published·谱/leads-only(直发需 opt-in));Jörg Johann Müller(Geschäftsführer(执行董事;Industriemeister Elektrotechnik,创始首日队;**Bundeswehr 政府线直管**),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Lucklum SME 线 GF 直达(政府线守界;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：同盟
-- **W**：体量
-- **O**：随单
-- **T**：大牌
+- **S**：33 年谱+Bundeswehr 长期客户
+- **W**：政府线守界段
+- **O**：双 GF 学徒-接棒谱直达
+- **T**：一线品牌链竞位
 
 ## 触达与风险红线
 
@@ -196,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 1&1 通道关系
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Selos team,
+Guten Tag Herr Lucklum,
 
-An Auerswald Advanced Partner serving Wilhelmshaven's local businesses - deep-SMB communication systems, configured and cared for.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN - the feature your Auerswald telephony customers actually use) with full documentation. Reference: $180 USD EXW.
-
-One question: in your deep-SMB installations, which switch brand carries the PoE voice and network layer today - and would a documented value alternative earn a bench test beside your Auerswald line?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

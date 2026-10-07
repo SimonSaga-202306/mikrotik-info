@@ -1504,6 +1504,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
+      "sha256": "0f97bfe5c676e0c08206c74853a21dff009f9e497f435ce15e5b88812cad49cb",
+      "bytes": 34499,
+      "tracked_at_scan": false,
+      "units_scanned": 480,
+      "unique_url_count": 13,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
       "sha256": "9cbc96cae1b76495026948a9d2442e6b968d0d87d1ded8c5dd2de900337633e5",
       "bytes": 7964,
@@ -2177,7 +2187,7 @@
       "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
       "sha256": "75d59964f41055ee050d6c74de6518979f605b1cb9e41f73b85d23b7c0146c69",
       "bytes": 50969,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 724,
       "unique_url_count": 15,
       "inspection": {},
@@ -2875,10 +2885,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "792061bd640bb348d564c971161cc43ee48d544aa6166223e016f69ed6a3b855",
-      "bytes": 161382,
+      "sha256": "853d13074b85867265084dfb4ec31665493b4da19fee220dbf068ba33faa9ffc",
+      "bytes": 163127,
       "tracked_at_scan": true,
-      "units_scanned": 1342,
+      "units_scanned": 1349,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -4255,21 +4265,21 @@
     },
     {
       "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-      "sha256": "902d6b13e2fee8253ba933059a35d587fef4b8a534770111100afa1d91331319",
-      "bytes": 14869,
+      "sha256": "0b94e926c51cc05877049f6c56f30ec08bd20cf6069d6bdf317b11dbd9fd0226",
+      "bytes": 20132,
       "tracked_at_scan": true,
-      "units_scanned": 256,
-      "unique_url_count": 2,
+      "units_scanned": 265,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-      "sha256": "6ea7b22b80392cbaaf5ec7b1490f1532667bfec36ae53ef66b52f28708f25f5e",
-      "bytes": 16002,
+      "sha256": "86b44a0b67ba9cc532503979e941fd38e38a2c829f7c613f0a856eb960734dae",
+      "bytes": 20132,
       "tracked_at_scan": true,
-      "units_scanned": 256,
-      "unique_url_count": 1,
+      "units_scanned": 262,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -4705,11 +4715,11 @@
     },
     {
       "path": "profile/A/A-178-Selos Informationssysteme GmbH-德国.md",
-      "sha256": "4aa3c004970d1699fae23279bd5db0f84894f71c22920f01c2cf26cab7221507",
-      "bytes": 13581,
+      "sha256": "b12fe64bab4d112dce1e2ed43d590a5fa0442ca5e5807c515d57ef05a5c8415a",
+      "bytes": 18432,
       "tracked_at_scan": true,
-      "units_scanned": 253,
-      "unique_url_count": 2,
+      "units_scanned": 258,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -4795,11 +4805,11 @@
     },
     {
       "path": "profile/A/A-187-Groupe Networks-法国.md",
-      "sha256": "37ae4573d3a105691ddf43f926c80f3a10e9a5486503b2f3417b39ec238c3cb6",
-      "bytes": 14244,
+      "sha256": "e57c513a761f6e5ae1830af5762a313acd229771c2c754a0a000811273da588b",
+      "bytes": 20357,
       "tracked_at_scan": true,
-      "units_scanned": 253,
-      "unique_url_count": 2,
+      "units_scanned": 262,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
@@ -13647,7 +13657,7 @@
       "path": "scripts/R66_B_KP波4落盘.py",
       "sha256": "abc4c51cf0afa6561c0733310cb6ac584386cf593cd729d78e52cc37456ae0fb",
       "bytes": 15289,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 119,
       "unique_url_count": 15,
       "inspection": {},
@@ -13719,6 +13729,16 @@
       "bytes": 13780,
       "tracked_at_scan": true,
       "units_scanned": 106,
+      "unique_url_count": 13,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "scripts/R66_R56_KP第15波落盘.py",
+      "sha256": "21da1269e8b73203923b088c4096a3ef19bc694eeffdd583ef7e2a0d4b43237d",
+      "bytes": 14206,
+      "tracked_at_scan": false,
+      "units_scanned": 96,
       "unique_url_count": 13,
       "inspection": {},
       "errors": []
@@ -13885,10 +13905,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "45627098ad242e2eb3caea336fcaab4d70c64c1776a8c0ebbc91f54b8f0d03c9",
-      "bytes": 38706,
+      "sha256": "ed481f7e9faab9176fe6f4db4d5b92173bb4711d1553de4ffd7b89f5306603b3",
+      "bytes": 38765,
       "tracked_at_scan": true,
-      "units_scanned": 802,
+      "units_scanned": 803,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
