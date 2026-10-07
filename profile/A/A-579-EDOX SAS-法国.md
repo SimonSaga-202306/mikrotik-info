@@ -75,10 +75,22 @@ updated: 2026-10-06
 - **电话**：03 89 310 620
 - **原始联系字段**：03 89 310 620 / commercial@edox.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Philippe GINOT**(Associate Founder(联合创办人))— EDOX 公司号 LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://fr.linkedin.com/company/edox-sas〕
+  - **David Hugueny**(技术/销售(MikroTik 培训谱 LinkedIn 自曝))— LinkedIn 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/david-hugueny/〕
+  - **Olivier Beluche**(销售(Burnhaupt))— LinkedIn 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/olivier-beluche/〕
+  - **Véronique GOERGER**(Business Development)— LinkedIn 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://fr.linkedin.com/in/v%C3%A9ronique-goerger〕
+  - **Olivier GIRARD**(Graphic Team Leader(15 年))— LinkedIn 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/olivier-girard-edox/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Philippe GINOT | Associate Founder(联合创办人) | EDOX 公司号 LinkedIn 自署 | leads-only·待 opt-in(LinkedIn 公开面) | https://fr.linkedin.com/company/edox-sas |
+| David Hugueny | 技术/销售(MikroTik 培训谱 LinkedIn 自曝) | LinkedIn 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.linkedin.com/in/david-hugueny/ |
+| Olivier Beluche | 销售(Burnhaupt) | LinkedIn 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.linkedin.com/in/olivier-beluche/ |
+| Véronique GOERGER | Business Development | LinkedIn 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://fr.linkedin.com/in/v%C3%A9ronique-goerger |
+| Olivier GIRARD | Graphic Team Leader(15 年) | LinkedIn 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.linkedin.com/in/olivier-girard-edox/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -174,7 +186,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

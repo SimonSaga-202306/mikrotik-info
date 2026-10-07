@@ -70,6 +70,8 @@ updated: 2026-09-28
 - **电话**：+381 35 847 7077
 - **原始联系字段**：+381 35 847 7077 / intercom@beotel.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Goran Stojkovic**(个体顾问（MTCNA+MTCTCE）)— intercom@beotel.net；+381 35 847 7077（固话） 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:客户名单_反向信号_2026-09.csv#A-015 ・ dns://beotel.net/MX 2026-09-28 本机核验〕
 
 ## 关键人（KP）与触达通道
 

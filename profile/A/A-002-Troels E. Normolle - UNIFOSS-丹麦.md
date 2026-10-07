@@ -72,6 +72,9 @@ updated: 2026-09-28
 - **电话**：+45 2279 1234
 - **原始联系字段**：+45 2279 1234 / troels@unifoss.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Troels Elkjær Nørmølle**(业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%）)— troels@unifoss.com；info@unifoss.com；+45 2279 1234 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://unifoss.com/ ・ https://ownr.dk/users/public-profile/4000636356〕
+  - **—（社媒入口）**(业主本人社媒)— ownr 档案挂 LinkedIn/Facebook/Twitter 链接 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://ownr.dk/users/public-profile/4000636356〕
 
 ## 关键人（KP）与触达通道
 

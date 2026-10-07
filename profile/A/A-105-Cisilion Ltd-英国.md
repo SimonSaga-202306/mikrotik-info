@@ -75,13 +75,23 @@ updated: 2026-09-28
 - **电话**：2026-09-29、2026-09-29
 - **原始联系字段**：marketing@cisilion.com【保留观察通道】；info@cisilion.com【已停用：2026-09-29 退信 blocked】。⚠️ **环球系统集成商**，伙伴为 Cisco/Microsoft/Palo Alto/Dell，70+ 国家 → 自有品牌大集成商，难啃，建议走影响力路线而非报价；【2026-09-29 退信批裁决】仅归档不外溢、不主动开发
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Roger Paul**(Founder/Owner & Chairman)— Crunchbase+Tracxn 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/cisilion〕
+  - **Nick Paul (Nicholas Paul)**(CEO)— RocketReach/Tracxn/Owler 三源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/cisilion-profile_b5c6770bf42e0c8b7b〕
+  - **Rob Quickenden**(Chief Technology Officer)— Crunchbase 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/cisilion〕
+  - **Paul Johnson**(Account Director)— Crunchbase 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/cisilion〕
 
 
 - **退信实测（2026-09-29）**：`info@cisilion.com` 服务器拒收（Your message to info@cisilion.com has been blocked）→ 停用该地址；替代通道：marketing@cisilion.com（CSV 主联系）；官网联系表单
   > 处置：info@ 被挡→停用；改走 marketing@（现行主口）；注：Cisilion 为环球系统集成商（Cisco 系），本来即观察档不外溢，归档
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Roger Paul | Founder/Owner & Chairman | Crunchbase+Tracxn 双源 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.crunchbase.com/organization/cisilion |
+| Nick Paul (Nicholas Paul) | CEO | RocketReach/Tracxn/Owler 三源 | leads-only·待 opt-in(LinkedIn 公开面) | https://rocketreach.co/cisilion-profile_b5c6770bf42e0c8b7b |
+| Rob Quickenden | Chief Technology Officer | Crunchbase | leads-only·待 opt-in(LinkedIn 公开面) | https://www.crunchbase.com/organization/cisilion |
+| Paul Johnson | Account Director | Crunchbase | leads-only·待 opt-in(LinkedIn 公开面) | https://www.crunchbase.com/organization/cisilion |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -210,7 +220,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

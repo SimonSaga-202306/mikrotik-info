@@ -71,6 +71,8 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 - **电话**：+36 30 999 9900
 - **原始联系字段**：+36 30 999 9900 / balazs@meretei.hu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Balázs Meretei（NoXy）**(独立顾问/wireless-bolt.hu 客座 MTCNA 讲师)— balazs@meretei.hu；+36 30 999 9900 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://meretei.hu/ ・ https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes〕
 
 ## 关键人（KP）与触达通道
 

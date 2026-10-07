@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SKYTRON Communications GmbH & Co. KG（Karlsbad/Karlsruhe）：2000 年起家“Richtfunk 先锋”，全线电信方案商（定向无线/光纤/VDSL/电话/WLAN/IT-Security/站点互联/云/数据中心/IoT/LoRaWAN），自有基础设施覆盖私房与企业客户
-- 【推断】“managed Switchen…Enterprise WLAN…öffentliches WLAN für Städte, Event-WLAN, Videoüberwachung”=交换机直采自营，校园/市政 WLAN 与监控段为 PoE 消化口
-- 【假设】LoRaWAN/IoT 仪表盘线会拉动室外 PoE 网关供电
+- 【事实】SKYTRON Communications GmbH & Co. KG:SKYTRON Communications GmbH & Co. KG(德国 Karlsbad,Im Stöckmädle 13, 76307 Karlsbad-Ittersbach;HRA 503745 AG Mannheim;Komplementär: SKYTRON-Verwaltungs GmbH;USt DE813487271;谱型=德国 ISP(高速网为工业/手工业/自由职业/公部门/私客;Richtfunk/WLAN/Glasfaser/VDSL/VoIP/LoRaWAN/Rechenzentrum;200+ 市镇 Baden-Württemberg 谱)
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,20 @@ updated: 2026-09-28
 - **电话**：+49 7248 4528-130
 - **原始联系字段**：+49 7248 4528-130 / h.witt@skytron.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Andreas Kramski**(Geschäftsführer)— skytron.business/myskytron Impressum 自署 〔已有(公司官方公开件/登记册自曝);源:https://skytron.business/informationen/impressum/〕
+  - **Peter Benz**(Geschäftsführer / CEO(LinkedIn 谱))— Impressum+LinkedIn 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.skytron.business/informationen/impressum/〕
+  - **Torsten Oertle**(Key-Account-Manager)— LinkedIn 公司员工页自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/skytron-de〕
+  - **H. Witt**(员工邮箱谱(CSV 入档 h.witt@skytron.de;信具名待核))— h.witt@skytron.de (CSV 入档,猜测 leads-only) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.skytron.de〕
 
 ## 关键人（KP）与触达通道
 
-- **Holger Witt**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Andreas Kramski | Geschäftsführer | skytron.business/myskytron Impressum 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://skytron.business/informationen/impressum/ |
+| Peter Benz | Geschäftsführer / CEO(LinkedIn 谱) | Impressum+LinkedIn 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.skytron.business/informationen/impressum/ |
+| Torsten Oertle | Key-Account-Manager | LinkedIn 公司员工页自曝 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/skytron-de |
+| H. Witt | 员工邮箱谱(CSV 入档 h.witt@skytron.de;信具名待核) | h.witt@skytron.de (CSV 入档,猜测 leads-only) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.skytron.de |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,41 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：2000 起 26 年 Richtfunk 先锋→全服务电信；自有基础设施；双域并用 skytron.de/.business
-- **②芯片/型号**：方案商自有盘；品牌未公开；交换机线明写“managed Switch”直采
-- **③KP 深挖**：Holger Witt 9 证直达（技术线一杆到底）
-- **④Saga 对标**：Event/WLAN/监控 PoE 接入：STC-424XGGPM-280W；室外 LoRaWAN 网关供电对标工业 8 口
-- **⑤在乎与偏好**：先锋派喜欢早试新硬件；售前响应快
+- **①背景再核**：SKYTRON Communications GmbH & Co. KG(德国 Karlsbad,Im Stöckmädle 13, 76307 Karlsbad-Ittersbach;HRA 503745 AG Mannheim;Komplementär: SKYTRON-Verwaltungs GmbH;USt DE813487271;谱型=德国 ISP(高速网为工业/手工业/自由职业/公部门/私客;Richtfunk/WLAN/Glasfaser/VDSL/VoIP/LoRaWAN/Rechenzentrum;200+ 市镇 Baden-Württemberg 谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Andreas Kramski(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Peter Benz(Geschäftsführer / CEO(LinkedIn 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Torsten Oertle(Key-Account-Manager,leads-only·待 opt-in(LinkedIn/谱面带核));H. Witt(员工邮箱谱(CSV 入档 h.witt@skytron.de;信具名待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：ISP 200+ 市镇谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“2000 年 als Richtfunk-Pioniere gestartet…führender Komplettanbieter…eigene Infrastruktur zur Privat- und Firmenkundenanbindung”
-  > “2000 年 als Richtfunk-Pioniere gestartet…führender Komplettanbieter…eigene Infrastruktur zur Privat- und Firmenkundenanbindung”
-  > 来源：https://skytron.business/
-- **【目标行业与场景】**“managed Switchen…Enterprise WLAN…öffentliches WLAN für Städte, Event-WLAN…Videoüberwachungssysteme”
-  > “managed Switchen…Enterprise WLAN…öffentliches WLAN für Städte, Event-WLAN…Videoüberwachungssysteme”
-  > 来源：https://skytron.business/
-- **【决策链与对接人】**CSV 名录：Holger Witt（Karlsbad）h.witt@skytron.de 9 证顾问
-  > CSV 名录：Holger Witt（Karlsbad）h.witt@skytron.de 9 证顾问
-  > 来源：https://mikrotik.com/consultants
-- **【联系方式】**+49 (72 48) 45 28-0 / info@skytron.de；MX=mailhub01.skytron.de（MX/DNS 级核验：域存活=邮件可投递到域）
-  > +49 (72 48) 45 28-0 / info@skytron.de；MX=mailhub01.skytron.de（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://skytron.business/
+- **【决策链与对接人】**Geschäftsführer: Andreas Kramski, Peter Benz · HRA 503745 (AG Mannheim) · Komplementär: SKYTRON-Verwaltungs GmbH · DE 813 487 271
+  > Geschäftsführer: Andreas Kramski, Peter Benz · HRA 503745 (AG Mannheim) · Komplementär: SKYTRON-Verwaltungs GmbH · DE 813 487 271
+  > 来源：https://myskytron.skytron.de/pages/kontakt.php
+- **【决策链与对接人】**Peter Benz Geschäftsführer - CEO · Torsten Oertle Key-Account-Manager bei SKYTRON(LinkedIn 公司页)
+  > Peter Benz Geschäftsführer - CEO · Torsten Oertle Key-Account-Manager bei SKYTRON(LinkedIn 公司页)
+  > 来源：https://de.linkedin.com/company/skytron-de
+- **【业务定位】**über 200 versorgten Ortschaften Baden-Württemberg;Internetprovider, Richtfunk, WLAN, Firewall, IT-Security, VoIP, Glasfaser, VDSL, Rechenzentrum, LoraWAN und IoT
+  > über 200 versorgten Ortschaften Baden-Württemberg;Internetprovider, Richtfunk, WLAN, Firewall, IT-Security, VoIP, Glasfaser, VDSL, Rechenzentrum, LoraWAN und IoT
+  > 来源：https://de.linkedin.com/company/skytron-de
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Karlsruhe 大区 26 年电信全线方案商：Richtfunk 先锋起家→全服务（自有基础设施）
-- **产品线与在售品牌**：自有基础设施+全线方案；品牌未公开
-- **目标行业与场景**：企业/市政公共 WLAN、活动 WLAN、视频监控、LoRaWAN/IoT、园区互联
-- **团队与规模**：26 年中型全线
-- **决策链与对接人**：Holger Witt（9 证实战派）直达；总机 +49 7248 4528-0
-- **技术与认证**：MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCINE/MTCIPv6E 等 9 证
-- **采购与供应链信号**：全服务自采自营
-- **近期动态与线索**：IoT/LoRaWAN 线强推中（仪表盘产品化）
-- **与我方契合点**：wlan/监控 PoE 接入层直采；LoRaWAN 网关室外供电
-- **风险与注意**：市政公共 WLAN 段守公共采购边界
+- **业务定位**：SKYTRON Communications GmbH & Co. KG(德国 Karlsbad,Im Stöckmädle 13, 76307 Karlsbad-Ittersbach;HRA 503745 AG Mannheim;Komplementär: SKYTRON-Verwaltungs GmbH;USt DE813487271;谱型=德国 ISP(高速网为工业/手工业/自由职业/公部门/私客;Richtfunk/WLAN/Glasfaser/VDSL/VoIP/LoRaWAN/Rechenzentrum;200+ 市镇 Baden-Württemberg 谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国巴登-符腾堡 ISP(200+ 市镇,Richtfunk/WLAN/VoIP)
+- **团队与规模**：(规模;LinkedIn 48 followers)
+- **决策链与对接人**：**Andreas Kramski(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Peter Benz(Geschäftsführer / CEO(LinkedIn 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Torsten Oertle(Key-Account-Manager,leads-only·待 opt-in(LinkedIn/谱面带核));H. Witt(员工邮箱谱(CSV 入档 h.witt@skytron.de;信具名待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kramski/Benz 双 GF(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -188,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：自有基础设施+26年
-- **W**：区域体量
-- **O**：活动 WLAN+IoT 增长
-- **T**：巨头全线
+- **S**：ISP 200+ 市镇谱
+- **W**：Benz/Kramski 双 GF 谱面重叠
+- **O**：Kramski 直达位(h.witt CSV 谱)
+- **T**：公共/运营商大牌
 
 ## 触达与风险红线
 
@@ -219,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现用接入层品牌
-  - [ ] 活动线 AP 峰值规模
-  - [ ] LoRaWAN 网关供电方案
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -233,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Holger,
+Hi Herr Kramski,
 
-I found you via the MikroTik consultant list - nine certifications is serious field work. SKYTRON's Richtfunk-pioneer profile caught my eye.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks and a hardware PoE watchdog - sized for exactly the event-WLAN and city-WLAN jobs you run. Reference: $180 USD EXW.
-
-One question: at a medium-size event, how many APs do you typically power from one access switch?
-
-If useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

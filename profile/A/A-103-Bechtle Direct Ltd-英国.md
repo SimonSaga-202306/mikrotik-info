@@ -75,13 +75,19 @@ updated: 2026-09-28
 - **电话**：2026-09-29、2026-09-29
 - **原始联系字段**：sales.uk@bechtle.com（⚠️ **Bechtle 在本项目的规模排除名单内**（与 ALSO/Arrow/Ingram/TD SYNNEX 同类）。uk@bechtle.com【已停用：2026-09-29 退信 not-found】、sales@bechtle.co.uk。【2026-09-29 退信批裁决】仅归档不外溢、不主动开发）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **James Napp**(Managing Director Bechtle direct UK)— bechtle.com 官网自曝 〔已有(公司官方公开件/登记册自曝);源:https://www.bechtle.com/pt/a-bechtle/a-empresa/filiais/bechtle-direct-UK〕
+  - **Konstantin Ebert**(Executive VP France/Benelux/UK(Bechtle AG 集团层))— Tangible Benefit 收购稿自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.tangiblebenefit.com/bechtle-acquisition-bechtle-on-track-to-become-one-of-the-top-10-it-solutions-providers-in-the-uk/〕
 
 
 - **退信实测（2026-09-29）**：`uk@bechtle.com` 地址不存在（address couldn't be found）→ 停用该地址；替代通道：sales.uk@bechtle.com（CSV 登记的英国销售口）
   > 处置：uk@ 前缀不存在→停用；注：Bechtle 在本项目规模排除名单内（与 ALSO/Arrow/Ingram 同列）——本来就不进主动开发，此退信仅归档
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| James Napp | Managing Director Bechtle direct UK | bechtle.com 官网自曝 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bechtle.com/pt/a-bechtle/a-empresa/filiais/bechtle-direct-UK |
+| Konstantin Ebert | Executive VP France/Benelux/UK(Bechtle AG 集团层) | Tangible Benefit 收购稿自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.tangiblebenefit.com/bechtle-acquisition-bechtle-on-track-to-become-one-of-the-top-10-it-solutions-providers-in-the-uk/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -210,7 +216,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

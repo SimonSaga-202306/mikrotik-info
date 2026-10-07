@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DECOIT GmbH（不莱梅）：2001 起（25 年）IT 系统集成+软件自研；深耕国家/国际科研合作（Fraunhofer SIT/FOKUS、Infineon、devolo、Pulse Secure、Tzi、锡根大学等）；vendor-neutral 开源优先
-- 【推断】德国学究型集成商：研究项目（awareness/schulung、SIEM、NAC）背景深，采购要过技术信服关
-- 【假设】实验室/PoC 环境与客户站点接入层走开源可管设备；Voice VLAN（Asterisk/Kamailio 线）场景刚需
+- 【事实】DECOIT GmbH & Co. KG:DECOIT GmbH & Co. KG(德国 Bremen-Lehe,Fahrenheitstraße 9, 28359;HRA 29788 HB AG Bremen(补充:persönlich haftende = DECOIT Verwaltungs GmbH HRB 38688);USt DE228287472;2001 创(25 年);谱型=Bremer IT-Systemintegrator & Softwarehaus(Open-Source 专注+IT-Security+herstellerneutrale Beratung;IFIT Freies Institut/ Open Invention Network 会员);员工名:Salva Daneshgadeh-Cakmakci/Zain Srio/Ulv Brinkmann(dasoertliche 谱)
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - **电话**：+49 421 5960640
 - **原始联系字段**：+49 421 5960640 / sokolow@decoit.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Prof. Dr. Kai-Oliver Detken**(Geschäftsführer/Inhaber(2001-01 起;Hochschule Bremen Honorarprofessor Rechnernetze))— decoit.de Impressum 自署+XING 自署 · 0421 5960640 · info@decoit.de 〔已有(公司官方公开件/登记册自曝);源:https://www.decoit.de/de/impressum.html〕
+  - **Salva Daneshgadeh-Cakmakci**(员工(谱面带核))— dasoertliche 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr〕
+  - **Zain Srio**(员工(谱面带核))— dasoertliche 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr〕
+  - **Ulv Brinkmann**(员工(谱面带核))— dasoertliche 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr〕
+  - **Herr Sokolow**(员工邮箱谱(CSV 入档 sokolow@decoit.de;信具名待谱核))— sokolow@decoit.de (CSV 入档,模式推断 leads-only) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.decoit.de〕
 
 ## 关键人（KP）与触达通道
 
-- **Alexej Sokolow**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Prof. Dr. Kai-Oliver Detken | Geschäftsführer/Inhaber(2001-01 起;Hochschule Bremen Honorarprofessor Rechnernetze) | decoit.de Impressum 自署+XING 自署 · 0421 5960640 · info@decoit.de | official-self-published·谱/leads-only(直发需 opt-in) | https://www.decoit.de/de/impressum.html |
+| Salva Daneshgadeh-Cakmakci | 员工(谱面带核) | dasoertliche 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr |
+| Zain Srio | 员工(谱面带核) | dasoertliche 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr |
+| Ulv Brinkmann | 员工(谱面带核) | dasoertliche 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr |
+| Herr Sokolow | 员工邮箱谱(CSV 入档 sokolow@decoit.de;信具名待谱核) | sokolow@decoit.de (CSV 入档,模式推断 leads-only) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.decoit.de |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,38 +147,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Bremen 2001 起 25 年；科研项目墙（Fraunhofer SIT/FOKUS、Infineon、devolo）；vendor-neutral 明文不签保底销量
-- **②芯片/型号**：VoIP（snom/gigaset/Cisco）+开源监控栈；交换机现用未公开
-- **③KP 深挖**：Alexej Sokolow 三证（含 MTCSWE）直达邮箱
-- **④Saga 对标**：开放技术档案+SNMP/Icinga 可见度为敲门砖；Voice VLAN 实测对齐其 VoIP 线
-- **⑤在乎与偏好**：技术透明>价格；反对绑定 OEM；德式书面化
+- **①背景再核**：DECOIT GmbH & Co. KG(德国 Bremen-Lehe,Fahrenheitstraße 9, 28359;HRA 29788 HB AG Bremen(补充:persönlich haftende = DECOIT Verwaltungs GmbH HRB 38688);USt DE228287472;2001 创(25 年);谱型=Bremer IT-Systemintegrator & Softwarehaus(Open-Source 专注+IT-Security+herstellerneutrale Beratung;IFIT Freies Institut/ Open Invention Network 会员);员工名:Salva Daneshgadeh-Cakmakci/Zain Srio/Ulv Brinkmann(dasoertliche 谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Prof. Dr. Kai-Oliver Detken(Geschäftsführer/Inhaber(2001-01 起;Hochschule Bremen Honorarprofessor Rechnernetze),official-self-published·谱/leads-only(直发需 opt-in));Salva Daneshgadeh-Cakmakci(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Zain Srio(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Ulv Brinkmann(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Herr Sokolow(员工邮箱谱(CSV 入档 sokolow@decoit.de;信具名待谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：教授级 GF+25 年开源谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Since 2001 we attend and optimize customer IT infrastructures…active in several IT research projects, both national and international”
-  > “Since 2001 we attend and optimize customer IT infrastructures…active in several IT research projects, both national and international”
-  > 来源：https://decoit.de/en/home_en.html
-- **【技术与认证】**“In order to stay vendor-neutral we do not engage in contracts that oblige us to sell a certain amount…”+伙伴墙 Fraunhofer SIT/FOKUS/Infineon/devolo/Pulse Secure
-  > “In order to stay vendor-neutral we do not engage in contracts that oblige us to sell a certain amount…”+伙伴墙 Fraunhofer SIT/FOKUS/Infineon/devolo/Pulse Secure
-  > 来源：https://decoit.de/en/home_en.html
-- **【决策链与对接人】**CSV 名录：Alexej Sokolow MTCNA+MTCRE+MTCSWE（Bremen）sokolow@decoit.de
-  > CSV 名录：Alexej Sokolow MTCNA+MTCRE+MTCSWE（Bremen）sokolow@decoit.de
-  > 来源：https://mikrotik.com/consultants
+- **【决策链与对接人】**Geschäftsführer: Prof. Dr. Kai-Oliver Detken;HRA 29788 HB;DECOIT Verwaltungs GmbH HRB 38688 HB;DE228287472
+  > Geschäftsführer: Prof. Dr. Kai-Oliver Detken;HRA 29788 HB;DECOIT Verwaltungs GmbH HRB 38688 HB;DE228287472
+  > 来源：https://www.decoit.de/de/impressum.html
+- **【决策链与对接人】**Prof. Dr Kai-Oliver Detken — Geschäftsführer DECOIT GmbH & Co. KG seit Jan 2001;Honorarprofessor Rechnernetze Hochschule Bremen seit 2008(XING)
+  > Prof. Dr Kai-Oliver Detken — Geschäftsführer DECOIT GmbH & Co. KG seit Jan 2001;Honorarprofessor Rechnernetze Hochschule Bremen seit 2008(XING)
+  > 来源：https://www.xing.com/profile/KaiOliver_Detken
+- **【业务定位】**Seit 2001 ... Open-Source-Lösungen, IT-Sicherheit sowie herstellerneutrale Beratung;Salva Daneshgadeh-Cakmakci · Zain Srio · Ulv Brinkmann
+  > Seit 2001 ... Open-Source-Lösungen, IT-Sicherheit sowie herstellerneutrale Beratung;Salva Daneshgadeh-Cakmakci · Zain Srio · Ulv Brinkmann
+  > 来源：https://www.dasoertliche.de/Themen/DECOIT-GmbH-Bremen-Lehe-Fahrenheitstr
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：不莱梅 25 年 IT 集成+软件自研+国家级科研项目常客；vendor-neutral 开源路线
-- **产品线与在售品牌**：VoIP（Asterisk/Kamailio/snom/gigaset）、开源 SIEM/监控栈；vendor-neutral 明文
-- **目标行业与场景**：企业 IT 基础设施+科研 PoC；VoIP 部署
-- **团队与规模**：独立中型（25 年）
-- **决策链与对接人**：Alexej Sokolow（MTCNA+MTCRE+MTCSWE 顾问）
-- **技术与认证**：MTCSWE 级交换内力；Franken 圈开源社区
-- **采购与供应链信号**：反对绑定式 OEM；要 datasheet 级透明
-- **近期动态与线索**：研究项目滚动（15 年不停）
-- **与我方契合点**：交换机 datasheet/固件透明打开技术对话；Voice VLAN 实测
-- **风险与注意**：德国学究型：过度营销=出局；先技术信服后商务
+- **业务定位**：DECOIT GmbH & Co. KG(德国 Bremen-Lehe,Fahrenheitstraße 9, 28359;HRA 29788 HB AG Bremen(补充:persönlich haftende = DECOIT Verwaltungs GmbH HRB 38688);USt DE228287472;2001 创(25 年);谱型=Bremer IT-Systemintegrator & Softwarehaus(Open-Source 专注+IT-Security+herstellerneutrale Beratung;IFIT Freies Institut/ Open Invention Network 会员);员工名:Salva Daneshgadeh-Cakmakci/Zain Srio/Ulv Brinkmann(dasoertliche 谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：不莱梅 IT-Systemintegrator&Softwarehaus(Open-Source 谱)
+- **团队与规模**：2001 创;教授级 GF 谱
+- **决策链与对接人**：**Prof. Dr. Kai-Oliver Detken(Geschäftsführer/Inhaber(2001-01 起;Hochschule Bremen Honorarprofessor Rechnernetze),official-self-published·谱/leads-only(直发需 opt-in));Salva Daneshgadeh-Cakmakci(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Zain Srio(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Ulv Brinkmann(员工(谱面带核),leads-only·待 opt-in(LinkedIn/谱面带核));Herr Sokolow(员工邮箱谱(CSV 入档 sokolow@decoit.de;信具名待谱核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Detken GF/教授谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,10 +193,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：科研背书+25年口碑
-- **W**：决策慢
-- **O**：科研中性硬件需求
-- **T**：对商业硬件挑剔
+- **S**：教授级 GF+25 年开源谱
+- **W**：小实体学术谱
+- **O**：Detken 直达位(sokolow@ 亦 CSV 员工谱)
+- **T**：大牌厂商直供链
 
 ## 触达与风险红线
 
@@ -212,9 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现用接入层品牌
-  - [ ] 科研项目硬件采购窗口
-  - [ ] 对 CN 制造的合规口径
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Alexej,
+Hi Herr Professor Detken,
 
-I found you via the MikroTik consultant list (MTCNA/MTCRE/MTCSWE) and DECOIT's vendor-neutral, research-heavy profile around Fraunhofer collaborations.
-
-We build a 24-port Gigabit PoE switch (280W) with 4×10G uplinks, full SNMP exposure (Icinga-friendly OID list available) and a hardware PoE watchdog. Instead of a pitch, I would rather send our full technical dossier - datasheet, firmware changelog, test reports. Reference: $180 USD EXW.
-
-One question: is your lab currently evaluating next-generation access-layer switches?
-
-If useful, I can send one unit for a 30-day, no-obligation evaluation - publish your findings or keep them private, your call. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

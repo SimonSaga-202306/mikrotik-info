@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ATEC Security Ltd（英国）：30+ 年安防系统设计/安装/运维——伙伴墙含 **Allied Telesis（Marvell Prestera 接入层！）**、Axis、Milestone、Siklu、TagMaster、Tyco、Avigilon、Genetec、HID、Abloy 等 40+ 厂牌；市场：机场与边境、政府、交通基建（公共段多）、企业、教育、金融、医疗（公私混）
-- 【推断】监控网络柜=其每张单的 PoE 供电层（Axis/Avigilon 摄像机都要）；商用/私营段是合规主巷
-- 【假设】30 年老安防商与 Allied 长联播——我们定位为“value PoE 补位货架”，不当 Allied 对标
+- 【事实】ATEC Security Ltd:ATEC Security Ltd(英国 Wolverhampton,Unit 1, Element Court, Hilton Cross Business Park WV10 7FE;公司号 01936399;1985 家族创立(Simon+Carole+John Adcock 三人);73 员工 $13.8M;谱型=fire+security 系统集成商(自持有 in-house IT team+专利软件);ICO 数据控制人 Z1567015
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -73,10 +73,22 @@ updated: 2026-09-28
 - **电话**：+44 3300 580 050
 - **原始联系字段**：+44 3300 580 050 / info@atec-security.co.uk（备用 compliance@atec-security.co.uk；具名联系人 Michelle Hollinshead（Sales & Marketing Executive））
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Simon Adcock**(CEO(创始人,hands-on))— atec-security.co.uk/about 官方自署 〔已有(公司官方公开件/登记册自曝);源:https://www.atec-security.co.uk/about/〕
+  - **Carole Anne Adcock**(Director(联合创始人家族))— Companies House 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.wastebook.co.uk/directory/atec-security-ltd/〕
+  - **Lee Abraham**(Director(2021-08 任命))— Companies House 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.wastebook.co.uk/directory/atec-security-ltd/〕
+  - **Stephen Mark Warrington**(Director(2011-03))— Companies House 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.wastebook.co.uk/directory/atec-security-ltd/〕
+  - **Christopher Michael Worrall**(Director(2007-05))— Companies House 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.wastebook.co.uk/directory/atec-security-ltd/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Simon Adcock | CEO(创始人,hands-on) | atec-security.co.uk/about 官方自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.atec-security.co.uk/about/ |
+| Carole Anne Adcock | Director(联合创始人家族) | Companies House 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.wastebook.co.uk/directory/atec-security-ltd/ |
+| Lee Abraham | Director(2021-08 任命) | Companies House 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.wastebook.co.uk/directory/atec-security-ltd/ |
+| Stephen Mark Warrington | Director(2011-03) | Companies House 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.wastebook.co.uk/directory/atec-security-ltd/ |
+| Christopher Michael Worrall | Director(2007-05) | Companies House 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.wastebook.co.uk/directory/atec-security-ltd/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,38 +148,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30 年安防全厂牌整合；Allied Telesis 在位；公共段多守住
-- **②芯片/型号**：Allied Telesis（Marvell Prestera）
-- **③KP 深挖**：info@ 口；电话并行
-- **④Saga 对标**：监控柜 value PoE 补位（私营段）
-- **⑤在乎与偏好**：长期支持+全案兼容
+- **①背景再核**：ATEC Security Ltd(英国 Wolverhampton,Unit 1, Element Court, Hilton Cross Business Park WV10 7FE;公司号 01936399;1985 家族创立(Simon+Carole+John Adcock 三人);73 员工 $13.8M;谱型=fire+security 系统集成商(自持有 in-house IT team+专利软件);ICO 数据控制人 Z1567015
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Simon Adcock(CEO(创始人,hands-on),official-self-published·谱/leads-only(直发需 opt-in));Carole Anne Adcock(Director(联合创始人家族),leads-only·待 opt-in(LinkedIn/谱面带核));Lee Abraham(Director(2021-08 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Stephen Mark Warrington(Director(2011-03),leads-only·待 opt-in(LinkedIn/谱面带核));Christopher Michael Worrall(Director(2007-05),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：家族 41 年集成商+专利软件
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**伙伴墙：Axis, Milestone, Genetec, Avigilon, **Allied Telesis**, Siklu, TagMaster, Abloy 等
-  > 伙伴墙：Axis, Milestone, Genetec, Avigilon, **Allied Telesis**, Siklu, TagMaster, Abloy 等
-  > 来源：https://atec-security.co.uk/
-- **【目标行业】**“Airports & Borders / Corporate / Education / Finance / Government / Healthcare / Property / Transport Infrastructure”
-  > “Airports & Borders / Corporate / Education / Finance / Government / Healthcare / Property / Transport Infrastructure”
-  > 来源：https://atec-security.co.uk/markets/
-- **【联系方式】**info@atec-security.co.uk 0330 0580 050；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@atec-security.co.uk 0330 0580 050；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://atec-security.co.uk/
+- **【决策链与对接人】**founded in 1985 as a family business by Simon, Carole and John Adcock;Simon is a hands-on CEO
+  > founded in 1985 as a family business by Simon, Carole and John Adcock;Simon is a hands-on CEO
+  > 来源：https://www.atec-security.co.uk/about/
+- **【决策链与对接人】**Officers: ABRAHAM Lee (2021) / ADCOCK Carole Anne / MCGLYNN Thomas / WARRINGTON Stephen Mark (2011) / WORRALL Christopher Michael (2007)
+  > Officers: ABRAHAM Lee (2021) / ADCOCK Carole Anne / MCGLYNN Thomas / WARRINGTON Stephen Mark (2011) / WORRALL Christopher Michael (2007)
+  > 来源：https://www.wastebook.co.uk/directory/atec-security-ltd/
+- **【团队与规模】**73 employees · revenue $13.8M · Element Ct Unit 1, Wolverhampton WV10 7FE
+  > 73 employees · revenue $13.8M · Element Ct Unit 1, Wolverhampton WV10 7FE
+  > 来源：https://www.zoominfo.com/c/atec-security-ltd/9704085
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国 30 年安防工程商（全厂牌整合）
-- **产品线与在售品牌**：Axis/Milestone/Allied Telesis 等 40+ 牌
-- **目标行业与场景**：企业/教育/金融/私营医疗（公共段守界）
-- **团队与规模**：全国性安防工程商
-- **决策链与对接人**：info@ 口
-- **技术与认证**：整案集成能力
-- **采购与供应链信号**：项目随单（摄像头柜 PoE 是惯件）
-- **近期动态与线索**：2026 站常态化
-- **与我方契合点**：监控柜 24 口 PoE value 补位
-- **风险与注意**：公共段边界+Allied 在位
+- **业务定位**：ATEC Security Ltd(英国 Wolverhampton,Unit 1, Element Court, Hilton Cross Business Park WV10 7FE;公司号 01936399;1985 家族创立(Simon+Carole+John Adcock 三人);73 员工 $13.8M;谱型=fire+security 系统集成商(自持有 in-house IT team+专利软件);ICO 数据控制人 Z1567015
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国 fire+security 系统集成商(成员谱)
+- **团队与规模**：73 人;$13.8M;1985 创
+- **决策链与对接人**：**Simon Adcock(CEO(创始人,hands-on),official-self-published·谱/leads-only(直发需 opt-in));Carole Anne Adcock(Director(联合创始人家族),leads-only·待 opt-in(LinkedIn/谱面带核));Lee Abraham(Director(2021-08 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Stephen Mark Warrington(Director(2011-03),leads-only·待 opt-in(LinkedIn/谱面带核));Christopher Michael Worrall(Director(2007-05),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Simon Adcock CEO 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +194,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全厂牌
-- **W**：公共占比
-- **O**：随单
-- **T**：在位盘
+- **S**：家族 41 年集成商+专利软件
+- **W**：in-house IT 团队规模未知
+- **O**：Simon Adcock CEO 直达位
+- **T**：大牌专商谱
 
 ## 触达与风险红线
 
@@ -208,7 +220,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -217,9 +229,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Allied 线价位段
-  - [ ] 私营段占比
-  - [ ] 试点窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -231,18 +242,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ATEC team,
+Hi Simon,
 
-Thirty years of integrated security across 40+ vendor logos - your camera closets are where all of that meets power and cabling.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog, Voice VLAN) as a value-tier complement next to your existing network vendors for corporate and private-sector builds. Reference: $180 USD EXW. (We respect your public-sector procurement frameworks and do not pitch into them.)
-
-One question: in a mid-size corporate camera build, which switch supplies the PoE layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

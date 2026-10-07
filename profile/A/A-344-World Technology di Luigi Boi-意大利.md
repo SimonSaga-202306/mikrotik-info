@@ -75,10 +75,14 @@ updated: 2026-09-28
 - 来源等级：public-register（R41–R48 联系方式台账口径）
 - **原始联系字段**：worldtechnology@tiscali.it（2024年市镇公开招标文件；无官网）；worldtechnology@pec.it（PEC）；070 2346452；World Technology di Luigi Boi，Via Montenero 15, 09122 Cagliari
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Luigi Boi**(个体谱主/本人(公司名字段即本人谱位))— worldtechnology@tiscali.it 〔已有(公司官方公开件/登记册自曝);源:CSV 公司名字段+R66 基线(2026-10-07)〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Luigi Boi | 个体谱主/本人(公司名字段即本人谱位) | worldtechnology@tiscali.it | official-self-published·谱/人名司名同体(leads-only,直发需 opt-in) | CSV 公司名字段+R66 基线(2026-10-07) |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -180,7 +184,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

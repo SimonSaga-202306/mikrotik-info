@@ -69,6 +69,9 @@ updated: 2026-09-28
 - **电话**：647 562 2246
 - **原始联系字段**：647 562 2246 / admin@commanderit.ca
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **MohammadMahdi（Mahdi）Raeesi**(业主/MikroTik 顾问（前 wirelessnetware 供职记录）)— admin@commanderit.ca；647-562-2246 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://commanderit.ca/ ・ https://www.linkedin.com/in/mahdi-raeesi-4195173b/〕
+  - **—（模式猜测）**(—)— mahdi@commanderit.ca 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:dns://commanderit.ca/MX 2026-09-28 本机核验〕
 
 ## 关键人（KP）与触达通道
 

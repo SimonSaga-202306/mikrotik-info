@@ -71,6 +71,9 @@ MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是�
 - **电话**：+1-647-812-5170
 - **原始联系字段**：+1-647-812-5170 / support@magentanetworks.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Amir Seifi**(负责人（推定；MikroTik 认证名录持证人）)— info@magentanetworks.net；ops@magentanetworks.net；support@magentanetworks.net；+1-647-812-5170 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://magentanetworks.ca/contact〕
+  - **—（模式猜测）**(—)— amir@magentanetworks.net；aseifi@magentanetworks.net 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:dns://magentanetworks.net/MX 2026-09-28 本机核验〕
 
 ## 关键人（KP）与触达通道
 

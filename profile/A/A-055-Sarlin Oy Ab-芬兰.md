@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Sarlin Oy Ab（芬兰）：90+ 年工业伙伴——工业压缩空气（芬兰最资深服务商）、绿色能源技术（**芬兰首批 LNG 加气站+大部分生物气加气站总包**，绿色氢能工业集成研究）+工控自动化品牌进口代办（CSV：N-Tron+Red Lion）；全国维保/生命周期服务；安全记录：连续 1825 天无损工事故、TL Nolla tapaturmaa 一级认；Mikko Ylilammi（自动化产品管理 Head）
-- 【推断】加气/能源站体+自动化机柜=温宽工业现场真实场景；其“终身周期”文化=供货寿命承诺是最打动它的语言
-- 【假设】生物气/LNG/氢能站点扩建潮带来现场工业交换件的持续需求
+- 【事实】Sarlin Oy Ab:Sarlin Oy Ab(芬兰 Vantaa,Kaivokselantie 3/c/o PL 750 Helsinki;Y-tunnus 0612683-5;1985 创(41 年);员工 97/营收 €25.2M(2025,-3%);谱型=工业压缩空气+能源技术(沼气/LNG/CNG)+自动化/IIoT 全生命期管理;西班牙 Alihankinta 展谱
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - **电话**：+358 10 550 4269、+358 10 550 4524
 - **原始联系字段**：Mikko Ylilammi（Head of Product Management, Automation & Digital）- mikko.ylilammi@sarlin.com / +358 10 550 4269；Niklas Kallberg（Head of Sales, Automation & Digital）- niklas.kallberg@sarlin.com / +358 10 550 4524；Tatu Mehtonen（Sales Manager, IIoT）- tatu.mehtonen@sarlin.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jiri Viholainen**(Toimitusjohtaja/CEO(2022-11 任命))— rocketreach/asiakastieto 公开件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd〕
+  - **Juha Kristian Laurio**(Hallituksen puheenjohtaja(董事长,2026-01 任命))— asiakastieto 公开件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.asiakastieto.fi/yritykset/fi/sarlin-oy-ab/06126835/paattajat〕
+  - **Saana Mäntylä**(CFO(2025-01))— RocketReach/asiakastieto 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd〕
+  - **Heikki Nurmela**(CIO)— RocketReach 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd〕
+  - **Fredrik Robert Wikström**((原)董事长/Director)— finder.fi 公开件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.finder.fi/Kompressorit/Sarlin+Oy+Ab/Vantaa/yhteystiedot/202520〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jiri Viholainen | Toimitusjohtaja/CEO(2022-11 任命) | rocketreach/asiakastieto 公开件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd |
+| Juha Kristian Laurio | Hallituksen puheenjohtaja(董事长,2026-01 任命) | asiakastieto 公开件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.asiakastieto.fi/yritykset/fi/sarlin-oy-ab/06126835/paattajat |
+| Saana Mäntylä | CFO(2025-01) | RocketReach/asiakastieto 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd |
+| Heikki Nurmela | CIO | RocketReach | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd |
+| Fredrik Robert Wikström | (原)董事长/Director | finder.fi 公开件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.finder.fi/Kompressorit/Sarlin+Oy+Ab/Vantaa/yhteystiedot/202520 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,38 +150,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：90 年芬兰工业伙伴：LNG/生物气站总包+自动化进口；安全世界级
-- **②芯片/型号**：N-Tron+Red Lion
-- **③KP 深挖**：Ylilammi 产品线负责人直达
-- **④Saga 对标**：能源站温宽 PoE 补充位（对标避开）
-- **⑤在乎与偏好**：生命周期承诺+安全文档
+- **①背景再核**：Sarlin Oy Ab(芬兰 Vantaa,Kaivokselantie 3/c/o PL 750 Helsinki;Y-tunnus 0612683-5;1985 创(41 年);员工 97/营收 €25.2M(2025,-3%);谱型=工业压缩空气+能源技术(沼气/LNG/CNG)+自动化/IIoT 全生命期管理;西班牙 Alihankinta 展谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jiri Viholainen(Toimitusjohtaja/CEO(2022-11 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Juha Kristian Laurio(Hallituksen puheenjohtaja(董事长,2026-01 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Saana Mäntylä(CFO(2025-01),leads-only·待 opt-in(LinkedIn/谱面带核));Heikki Nurmela(CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Fredrik Robert Wikström((原)董事长/Director,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：41 年谱/Fortum 级工业客户谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“yli 90 vuoden kokemuksella…toimitta nyt maan ensimmäiset LNG-tankkausasemat sekä suurimman osan biokaasun tankkausasemista…maahantuomme laadukkaita teollisen automaation brändejä”
-  > “yli 90 vuoden kokemuksella…toimitta nyt maan ensimmäiset LNG-tankkausasemat sekä suurimman osan biokaasun tankkausasemista…maahantuomme laadukkaita teollisen automaation brändejä”
-  > 来源：https://www.sarlin.com/
-- **【近期动态】**“1 825 peräkkäistä työpäivää ilman poissaoloon johtanutta tapaturmaa…Nolla tapaturmaa taso 1”
-  > “1 825 peräkkäistä työpäivää ilman poissaoloon johtanutta tapaturmaa…Nolla tapaturmaa taso 1”
-  > 来源：https://www.sarlin.com/ajankohtaista/nolla-tapaturmaa-turvallisuus
-- **【联系方式】**Mikko Ylilammi（自动化产品管理 Head，CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > Mikko Ylilammi（自动化产品管理 Head，CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.sarlin.com/
+- **【决策链与对接人】**Toimitusjohtaja: Viholainen Jiri Jarmo Juhani (11/2022);Puheenjohtaja: Laurio Juha Kristian (01/2026);Talousjohtaja Mäntylä Saana (01/2025);Tuotelinjajohtaja Valtonen Tanja (09/2025)
+  > Toimitusjohtaja: Viholainen Jiri Jarmo Juhani (11/2022);Puheenjohtaja: Laurio Juha Kristian (01/2026);Talousjohtaja Mäntylä Saana (01/2025);Tuotelinjajohtaja Valtonen Tanja (09/2025)
+  > 来源：https://www.asiakastieto.fi/yritykset/fi/sarlin-oy-ab/06126835/paattajat
+- **【团队与规模】**liikevaihto 25,2 milj. euroa 2025 · työllisti 97 henkilöä
+  > liikevaihto 25,2 milj. euroa 2025 · työllisti 97 henkilöä
+  > 来源：https://www.asiakastieto.fi/yritykset/fi/sarlin-oy-ab/06126835/paattajat
+- **【业务定位】**Sarlin provides industrial compressed air, energy technology, and automation;LNG/CNG;Biogas;IIoT automation;founded 1985 Vantaa
+  > Sarlin provides industrial compressed air, energy technology, and automation;LNG/CNG;Biogas;IIoT automation;founded 1985 Vantaa
+  > 来源：https://rocketreach.co/sarlin-oy-ab-profile_b5c7e364f42e0dbd
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：芬兰 90 年工业伙伴：压缩空气+绿色能源（LNG/生物气/氢）+自动化品牌进口
-- **产品线与在售品牌**：N-Tron+Red Lion（自动化进口线）
-- **目标行业与场景**：工业制造/能源站/自动化全周期
-- **团队与规模**：全国服务网络规模
-- **决策链与对接人**：Ylilammi（自动化产品线负责人）
-- **技术与认证**：TL Nolla tapaturmaa 安全一級
-- **采购与供应链信号**：品牌进口代办+生命周期承诺
-- **近期动态与线索**：2025-12 PVAT 密闭空间安全合作；氢能集成持续研究
-- **与我方契合点**：能源站体现场温宽 PoE（不当 N-Tron 正面对标）
-- **风险与注意**：生命周期/安全文档必须一口到位
+- **业务定位**：Sarlin Oy Ab(芬兰 Vantaa,Kaivokselantie 3/c/o PL 750 Helsinki;Y-tunnus 0612683-5;1985 创(41 年);员工 97/营收 €25.2M(2025,-3%);谱型=工业压缩空气+能源技术(沼气/LNG/CNG)+自动化/IIoT 全生命期管理;西班牙 Alihankinta 展谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：芬兰工业压缩/能源/自动化 全生命期服务商
+- **团队与规模**：97 人;€25.2M(2025)
+- **决策链与对接人**：**Jiri Viholainen(Toimitusjohtaja/CEO(2022-11 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Juha Kristian Laurio(Hallituksen puheenjohtaja(董事长,2026-01 任命),leads-only·待 opt-in(LinkedIn/谱面带核));Saana Mäntylä(CFO(2025-01),leads-only·待 opt-in(LinkedIn/谱面带核));Heikki Nurmela(CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Fredrik Robert Wikström((原)董事长/Director,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：CIO/CEO 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：服务网络
-- **W**：美系在位
-- **O**：能源潮
-- **T**：忠诚
+- **S**：41 年谱/Fortum 级工业客户谱
+- **W**：营收微降 2025
+- **O**：CIO Nurmela 谱位=IIoT 谱
+- **T**：工业件大牌
 
 ## 触达与风险红线
 
@@ -206,7 +218,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -215,9 +227,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 自动化线交换机位置
-  - [ ] 站体项目量
-  - [ ] 生命周期门槛
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -229,18 +240,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Mikko,
+Hi Jiri,
 
-First LNG stations, most of the biogas stations, and now green hydrogen integration - Sarlin is building Finland’s gas infrastructure with a safety record to match.
-
-We build industrial managed PoE switches rated -40 to 75C with a hardware watchdog and multi-year supply commitments, sized for field cabinets at exactly those stations. Reference: $74.8 USD EXW.
-
-One question: in your station field builds, who supplies the Ethernet access layer today?
-
-If useful, I can send one unit plus our lifecycle commitment letter. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

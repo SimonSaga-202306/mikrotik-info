@@ -70,6 +70,8 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 - **电话**：+30 22410 38089
 - **原始联系字段**：+30 22410 38089 / george@apostolas.gr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Georgios Apostolas**(业主（推定）/ MTCNA+MTCRE 工程师)— george@apostolas.gr；info@apostolas.gr；+30 22410 38089 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://apostolas.gr/epikoinonia/ ・ 客户名单_反向信号_2026-09.csv#A-020〕
 
 ## 关键人（KP）与触达通道
 

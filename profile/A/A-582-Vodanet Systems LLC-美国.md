@@ -75,10 +75,24 @@ updated: 2026-10-06
 - **电话**：+1 862 274 9010
 - **原始联系字段**：+1 862 274 9010 / info@vodanetsystems.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Albert Krakus**(Founder(创始人))— 官网 About 自署+DnB Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://www.vodanetsystems.com/about-us〕
+  - **Alper Karakus**(President)— ZoomInfo/datanyze 三源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/people/Alper-Karakus/-1994171768〕
+  - **Andy Kayalica**(CTO)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/vodanet-systems-llc/370619677〕
+  - **Cihan Algöz**(COO)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/vodanet-systems-llc/370619677〕
+  - **James Cakmak**(Division Director Industrial Automation)— datanyze 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/people/Alper-Karakus/-1994171768〕
+  - **Henry Dyson**(Director IT)— datanyze 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/people/Alper-Karakus/-1994171768〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Albert Krakus | Founder(创始人) | 官网 About 自署+DnB Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://www.vodanetsystems.com/about-us |
+| Alper Karakus | President | ZoomInfo/datanyze 三源 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/people/Alper-Karakus/-1994171768 |
+| Andy Kayalica | CTO | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.zoominfo.com/c/vodanet-systems-llc/370619677 |
+| Cihan Algöz | COO | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.zoominfo.com/c/vodanet-systems-llc/370619677 |
+| James Cakmak | Division Director Industrial Automation | datanyze | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/people/Alper-Karakus/-1994171768 |
+| Henry Dyson | Director IT | datanyze | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/people/Alper-Karakus/-1994171768 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -174,7 +188,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

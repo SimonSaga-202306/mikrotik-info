@@ -70,6 +70,8 @@ updated: 2026-09-28
 - **电话**：+43 5285 2022
 - **原始联系字段**：+43 5285 2022 / bk@giganet.at
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Bernhard Kröll**(GiGaNet.at 业主 / ISPA 会员本地 ISP)— bk@giganet.at；office@giganet.at；+43 (5285)2022-0 / +43-5285 630 850 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://giganet.co.at/wordpress/impressum/ ・ https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11〕
 
 ## 关键人（KP）与触达通道
 

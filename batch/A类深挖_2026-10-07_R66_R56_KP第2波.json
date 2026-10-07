@@ -102,7 +102,30 @@
     "当前 24 口 PoE 执行品牌",
     "具名 KP 直连邮箱"
    ],
-   "email": "Hi Marcos,\n\nLandatel's portfolio reads like a who-is-who of professional wireless — Ubiquiti, MikroTik, TP-Link, Radwin, plus your own Airgiga line — and 70 countries through landashop. Behind every WISP rollout your resellers quote sits a small switching layer that nobody leads with, but every customer reboots.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each of your resellers' deployments.\n\nAs Director of Logistics & Purchasing at Landatel, would you be the right desk to route a unit like this to? Happy to send the one-page spec wherever you point.\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Marcos,\n\nLandatel's portfolio reads like a who-is-who of professional wireless — Ubiquiti, MikroTik, TP-Link, Radwin, plus your own Airgiga line — and 70 countries through landashop. Behind every WISP rollout your resellers quote sits a small switching layer that nobody leads with, but every customer reboots.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each of your resellers' deployments.\n\nAs Director of Logistics & Purchasing at Landatel, would you be the right desk to route a unit like this to? Happy to send the one-page spec wherever you point.\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Marcos Díaz Nicolás",
+     "role": "物流与采购总监(硬件采购线)",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    },
+    {
+     "name": "Roberto Avila",
+     "role": "技术支持经理",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    },
+    {
+     "name": "Juana Suarez Lois",
+     "role": "财务/会计",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    }
+   ]
   },
   {
    "customer": "A-354",
@@ -208,7 +231,44 @@
     "当前 24 口 PoE 执行品牌",
     "具名 KP 直连邮箱"
    ],
-   "email": "Hi Ammar,\n\nNTS Direct posts a serious footprint — 300,000 square feet of Bolton warehouse, a provisioning lab, and the full Samsung WLAN line behind 6,500+ resellers. That is exactly the profile where one more value-layer switch SKU pays for itself in the first pickup order.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each reseller deployment you provision.\n\nAs President of NTS Direct, would you be the right desk to route this to — or shall I send the one-page spec to your channel team first?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Ammar,\n\nNTS Direct posts a serious footprint — 300,000 square feet of Bolton warehouse, a provisioning lab, and the full Samsung WLAN line behind 6,500+ resellers. That is exactly the profile where one more value-layer switch SKU pays for itself in the first pickup order.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each reseller deployment you provision.\n\nAs President of NTS Direct, would you be the right desk to route this to — or shall I send the one-page spec to your channel team first?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Ammar Rezek",
+     "role": "President",
+     "contact": "NTS Direct 官方新闻稿署名下三星扩谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/"
+    },
+    {
+     "name": "Michael Prefontaine",
+     "role": "CEO",
+     "contact": "CBInsights/ZoomInfo 双源",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.cbinsights.com/company/nts-direct/people"
+    },
+    {
+     "name": "Christopher Turcotte",
+     "role": "Vice President",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    },
+    {
+     "name": "Timothy Dinwoodie",
+     "role": "Director, Channel Sales",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    },
+    {
+     "name": "Erica Ferretti",
+     "role": "Manager, Marketing & Communications",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    }
+   ]
   },
   {
    "customer": "A-358",
@@ -309,7 +369,37 @@
     "当前 24 口 PoE 执行品牌",
     "具名 KP 直连邮箱"
    ],
-   "email": "Hi Lilly,\n\nForty years of \"Uninterruptible Power, Uninterruptible Business\" at LEXIS — Athens, Thessaloniki, ISO 9001, and the Tripplite UPS line walking hand-in-hand with your networking portfolio. That combination screams one thing: every site you design needs a bulletproof switching layer that stays happily in stock.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit for the surveillance/cyber-security deployments your team designs.\n\nAs Business Development Manager at LEXIS, would you be the right person to carry a one-page spec to your technical desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Lilly,\n\nForty years of \"Uninterruptible Power, Uninterruptible Business\" at LEXIS — Athens, Thessaloniki, ISO 9001, and the Tripplite UPS line walking hand-in-hand with your networking portfolio. That combination screams one thing: every site you design needs a bulletproof switching layer that stays happily in stock.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit for the surveillance/cyber-security deployments your team designs.\n\nAs Business Development Manager at LEXIS, would you be the right person to carry a one-page spec to your technical desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Lilly Filopoulou",
+     "role": "Business Development Manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Miltos Drikos",
+     "role": "technical manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Pavlos Filopoulos",
+     "role": "Sales Engineer & Technical Support",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Grigoris Chatzikakis",
+     "role": "Store Manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    }
+   ]
   },
   {
    "customer": "A-363",
@@ -415,7 +505,44 @@
     "当前 24 口 PoE 执行品牌",
     "具名 KP 直连邮箱"
    ],
-   "email": "Hi Ján,\n\nThirty years of electronic-components distribution out of Košice, now inside the Conrad Group — one of Europe's largest distribution platforms — and still the same friendly, engineering-first outfit. Congratulations on the anniversary tally.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each industrial/IT deployment your distribution network quotes.\n\nAs Managing Director of SOS electronic, would you be the right desk to route this to — or shall I send the one-page spec to your sourcing team first?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Ján,\n\nThirty years of electronic-components distribution out of Košice, now inside the Conrad Group — one of Europe's largest distribution platforms — and still the same friendly, engineering-first outfit. Congratulations on the anniversary tally.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each industrial/IT deployment your distribution network quotes.\n\nAs Managing Director of SOS electronic, would you be the right desk to route this to — or shall I send the one-page spec to your sourcing team first?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Ján Seszták",
+     "role": "Konateľ/CEO(三源一致)",
+     "contact": "Kompass/DnB/clodura 公开件",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/"
+    },
+    {
+     "name": "Renáta Tančaková",
+     "role": "财务董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Ján Michalko",
+     "role": "商务董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Rastislav Taliarovič",
+     "role": "市场董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Jozef Jarábek",
+     "role": "采购",
+     "contact": "LinkedIn 自曝 500+",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.linkedin.com/in/jozefjarabek/"
+    }
+   ]
   }
  ]
 }

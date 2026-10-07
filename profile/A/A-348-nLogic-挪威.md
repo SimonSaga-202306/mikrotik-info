@@ -75,10 +75,22 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Erlend Bonesvoll**(Daglig leder(总经理))— erlend@nlogic.no / +47 40 61 44 44 〔已有(公司官方公开件/登记册自曝);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
+  - **Arne Giæver**(Styrets leder(董事长))— nlogic.no 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/〕
+  - **Marcus Erik Wahlberg**(董事)— nlogic.no 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/〕
+  - **Robert R. Olsen**(kundeansvarlig(客户经理))— nLogic 新闻稿谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
+  - **Jonas Lindstad**(Nettverkskonsulent)— nLogic 新闻稿谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Erlend Bonesvoll | Daglig leder(总经理) | erlend@nlogic.no / +47 40 61 44 44 | official-self-published·谱/leads-only(直发需 opt-in)·公司新闻稿自曝邮箱 | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
+| Arne Giæver | Styrets leder(董事长) | nlogic.no 谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/ |
+| Marcus Erik Wahlberg | 董事 | nlogic.no 谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/ |
+| Robert R. Olsen | kundeansvarlig(客户经理) | nLogic 新闻稿谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
+| Jonas Lindstad | Nettverkskonsulent | nLogic 新闻稿谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -176,7 +188,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

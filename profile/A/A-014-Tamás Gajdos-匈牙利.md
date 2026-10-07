@@ -70,6 +70,8 @@ RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验�
 - **电话**：+36 30 243 2729
 - **原始联系字段**：+36 30 243 2729 / crowbarlabs@outlook.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gajdos Tamás**(个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述）)— crowbarlabs@outlook.com；+36 30 243 2729；GitHub @gajdipajti 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://github.com/gajdipajti ・ http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html〕
 
 ## 关键人（KP）与触达通道
 

@@ -75,10 +75,22 @@ updated: 2026-10-06
 - **电话**：+49 221 2924170
 - **原始联系字段**：+49 221 2924170 / sales@etree.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Grazian Dominik Twonski**(Gründer & CEO)— etree.de Über-uns 自署 〔已有(公司官方公开件/登记册自曝);源:https://etree.de/Services/Informationen/UEber-uns/〕
+  - **Sebastian Rinne**(Geschäftsführer/Head of Sales/CFO)— +49 221 292 417 09 〔已有(公司官方公开件/登记册自曝);源:https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH〕
+  - **Peter Valentin Voigt**(Geschäftsführer)— Handelsregister 任命件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH〕
+  - **Bartholomäus Paul Scislak**(Geschäftsführer)— Handelsregister 任命件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH〕
+  - **Herr Wysoczanski**(Sales/Purchase Manager(采购线))— +49 221 292 417 62 〔已有(公司官方公开件/登记册自曝);源:https://www.lieferanten.de/lieferant-21930-ETREE%20GmbH.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Grazian Dominik Twonski | Gründer & CEO | etree.de Über-uns 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://etree.de/Services/Informationen/UEber-uns/ |
+| Sebastian Rinne | Geschäftsführer/Head of Sales/CFO | +49 221 292 417 09 | official-self-published·谱/leads-only(直发需 opt-in)·登记册+官网公开电话 | https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH |
+| Peter Valentin Voigt | Geschäftsführer | Handelsregister 任命件 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH |
+| Bartholomäus Paul Scislak | Geschäftsführer | Handelsregister 任命件 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.online-handelsregister.de/handelsregisterauszug/nw/Koeln/HRB/75598/ETREE-GmbH |
+| Herr Wysoczanski | Sales/Purchase Manager(采购线) | +49 221 292 417 62 | official-self-published·谱/leads-only(直发需 opt-in)·官网/lieferanten 公开 | https://www.lieferanten.de/lieferant-21930-ETREE%20GmbH.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -177,7 +189,7 @@ updated: 2026-10-06
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

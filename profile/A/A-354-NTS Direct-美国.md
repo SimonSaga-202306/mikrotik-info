@@ -77,10 +77,22 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@ntsdirect.com（官网Contact Us/About PDF）；877.483.5393；NTS Direct，41 Main Street, Bolton, MA 01740
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ammar Rezek**(President)— NTS Direct 官方新闻稿署名下三星扩谱 〔已有(公司官方公开件/登记册自曝);源:https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/〕
+  - **Michael Prefontaine**(CEO)— CBInsights/ZoomInfo 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.cbinsights.com/company/nts-direct/people〕
+  - **Christopher Turcotte**(Vice President)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/nts-direct/347616523〕
+  - **Timothy Dinwoodie**(Director, Channel Sales)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/nts-direct/347616523〕
+  - **Erica Ferretti**(Manager, Marketing & Communications)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/nts-direct/347616523〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ammar Rezek | President | NTS Direct 官方新闻稿署名下三星扩谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/ |
+| Michael Prefontaine | CEO | CBInsights/ZoomInfo 双源 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.cbinsights.com/company/nts-direct/people |
+| Christopher Turcotte | Vice President | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/companies/nts-direct/347616523 |
+| Timothy Dinwoodie | Director, Channel Sales | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/companies/nts-direct/347616523 |
+| Erica Ferretti | Manager, Marketing & Communications | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/companies/nts-direct/347616523 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -187,7 +199,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

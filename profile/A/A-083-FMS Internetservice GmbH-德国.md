@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FMS Internetservice GmbH（德国）：20+ 年增值分销商——ISP/宽带/无线（WLAN 到毫米波）专长，客户含 ISP、市政公用（Stadtwerke，公共段！）、系统屋/IT 服务商；**MikroTik 培训伙伴（开课 MTCRE/MTCSWE）**；总经理 Patrick Schaub
-- 【推断】其 ISP 客群需要接入层 PoE 随单；其培训线=教具补充两轨
-- 【假设】市政公用段守边界，主攻民营 ISP/系统屋转售与教具样本
+- 【事实】FMS Internetservice GmbH:FMS Internetservice GmbH(德国 Umkirch,Im Stöckacker 12, 79224;HRB 708504 AG Freiburg;USt DE283397218;1997-11 起谱 Patrick Schaub 创;谱型=Distribution|Training|Consulting;自营 mikrotik-shop.de(MikroTik 德国经销店)+fmsweb.de;IBAN/BIC/Volksbank Freiburg 公开
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：info@fmsweb.de（Impressum 页；总经理 Patrick Schaub。⚠️**同时运营 mikrotik-shop.de**（MikroTik 网店）→ 直接竞品替代位）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Patrick Schaub**(Geschäftsführer(创于 1997,兼 GF fr-wlan GmbH/Schaub Beteiligung))— mikrotik-shop.de/fmsweb.de Impressum 自署 · info@fmsweb.de / +49 761 2926500 〔已有(公司官方公开件/登记册自曝);源:https://www.mikrotik-shop.de/en/Impressum/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Patrick Schaub | Geschäftsführer(创于 1997,兼 GF fr-wlan GmbH/Schaub Beteiligung) | mikrotik-shop.de/fmsweb.de Impressum 自署 · info@fmsweb.de / +49 761 2926500 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.mikrotik-shop.de/en/Impressum/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -142,38 +146,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：20 年 ISP 向 VAD+培训伙伴；市政客群边界
-- **②芯片/型号**：MikroTik 课程持证
-- **③KP 深挖**：Schaub 总经
-- **④Saga 对标**：ISP 白牌随单+教具样本双轨
-- **⑤在乎与偏好**：知识转移型合作
+- **①背景再核**：FMS Internetservice GmbH(德国 Umkirch,Im Stöckacker 12, 79224;HRB 708504 AG Freiburg;USt DE283397218;1997-11 起谱 Patrick Schaub 创;谱型=Distribution|Training|Consulting;自营 mikrotik-shop.de(MikroTik 德国经销店)+fmsweb.de;IBAN/BIC/Volksbank Freiburg 公开
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Patrick Schaub(Geschäftsführer(创于 1997,兼 GF fr-wlan GmbH/Schaub Beteiligung),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MikroTik 德国官方经销店主位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Value Added Distribution…Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau…Kunden: ISPs, Stadtwerke, Systemhäuser”
-  > “Value Added Distribution…Spezialisierung auf Lösungen für Internet-Service-Provider, Breitbandausbau…Kunden: ISPs, Stadtwerke, Systemhäuser”
-  > 来源：https://www.fmsweb.de/
-- **【技术与认证】**CSV：FMS 是 MikroTik 培训伙伴，开课含 MTCRE/MTCSWE
-  > CSV：FMS 是 MikroTik 培训伙伴，开课含 MTCRE/MTCSWE
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【联系方式】**info@fmsweb.de；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@fmsweb.de；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.fmsweb.de/
+- **【决策链与对接人】**FMS Internetservice GmbH wird vertreten durch: Geschäftsführer Patrick Schaub · HRB 708504 · DE283397218
+  > FMS Internetservice GmbH wird vertreten durch: Geschäftsführer Patrick Schaub · HRB 708504 · DE283397218
+  > 来源：https://www.mikrotik-shop.de/en/Impressum/
+- **【业务定位】**FMS Internetservice GmbH — Distribution | Training | Consulting;运营 mikrotik-shop.de(MikroTik 德国官方经销店)
+  > FMS Internetservice GmbH — Distribution | Training | Consulting;运营 mikrotik-shop.de(MikroTik 德国官方经销店)
+  > 来源：http://www.fmsweb.de/impressum/
+- **【决策链与对接人】**Patrik Schaub — GeschäftsFuehrer FMS Internetservice GmbH seit Nov 1997;ausserdem GF fr-wlan GmbH(2004)/Schaub Beteiligungsgesellschaft mbH(2021)
+  > Patrik Schaub — GeschäftsFuehrer FMS Internetservice GmbH seit Nov 1997;ausserdem GF fr-wlan GmbH(2004)/Schaub Beteiligungsgesellschaft mbH(2021)
+  > 来源：https://www.xing.com/profile/Patrik_Schaub
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 20 年 ISP 向增值分销+培训伙伴
-- **产品线与在售品牌**：ISP/宽带/无线件+MikroTik 课程
-- **目标行业与场景**：ISP/系统屋转售（市政段守界）
-- **团队与规模**：中型 VAD
-- **决策链与对接人**：Schaub 总经 info@
-- **技术与认证**：MTCRE+MTCSWE 课程
-- **采购与供应链信号**：分销采购+教具
-- **近期动态与线索**：培训伙伴认证页在册
-- **与我方契合点**：ISP 客群接入层 PoE 白牌随单+教具样本
-- **风险与注意**：公共段边界+师者红线
+- **业务定位**：FMS Internetservice GmbH(德国 Umkirch,Im Stöckacker 12, 79224;HRB 708504 AG Freiburg;USt DE283397218;1997-11 起谱 Patrick Schaub 创;谱型=Distribution|Training|Consulting;自营 mikrotik-shop.de(MikroTik 德国经销店)+fmsweb.de;IBAN/BIC/Volksbank Freiburg 公开
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 MikroTik 分销/培训/咨询三谱
+- **团队与规模**：1997 创(29 年谱);小实体
+- **决策链与对接人**：**Patrick Schaub(Geschäftsführer(创于 1997,兼 GF fr-wlan GmbH/Schaub Beteiligung),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Schaub GF 独位谱(MikroTik 官方经销店主位;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -188,10 +192,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双管
-- **W**：公共占比
-- **O**：白牌
-- **T**：大厂
+- **S**：MikroTik 德国官方经销店主位
+- **W**：创始独位谱
+- **O**：GF 直达位
+- **T**：大牌厂商直供链
 
 ## 触达与风险红线
 
@@ -215,7 +219,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -224,9 +228,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 分销线替代品现供
-  - [ ] 教具现况
-  - [ ] 准入清单
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -238,18 +241,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Patrick,
+Hi Herr Schaub,
 
-A value-added distributor specializing in ISPs and broadband, plus a MikroTik training partnership - FMS sits exactly where access networks get built.
-
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) as a white-label-friendly complement for your reseller and ISP customers. Reference: $180 USD EXW. (We respect your public-sector and municipal customer boundaries - this offer targets your private ISP and system-house channel.)
-
-One question: who supplies the PoE access layer in your portfolio today?
-
-If useful, I can send one unit with documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

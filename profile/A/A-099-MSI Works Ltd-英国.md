@@ -75,10 +75,18 @@ updated: 2026-10-07
 - **电话**：+44 7584 631601、+44 (0)207 0888205
 - **原始联系字段**：+44 7584 631601；⚠️ 无邮箱：msi-works.com 为 Wix 纯表单｜**Allied Telesis Platinum Partner（最高级）**，主业楼宇系统集成 BMS/IoT/OT 数据，PoE 接入层需求真实。具名 John Dente（LinkedIn /in/john-dente-9b5a2276/）；电话 +44 (0)207 0888205
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **David James Salisbury**(Managing Director(2024-12-30 任命))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/15643579/officers〕
+  - **John Robert Dente**(Director(2024-04-13))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/15643579/officers〕
+  - **John Paul Hubbard**(Director(2024-12-30))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/15643579/officers〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| David James Salisbury | Managing Director(2024-12-30 任命) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/15643579/officers |
+| John Robert Dente | Director(2024-04-13) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/15643579/officers |
+| John Paul Hubbard | Director(2024-12-30) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/15643579/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -207,7 +215,7 @@ updated: 2026-10-07
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

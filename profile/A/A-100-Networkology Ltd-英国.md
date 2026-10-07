@@ -75,10 +75,22 @@ updated: 2026-09-28
 - **电话**：—
 - **原始联系字段**：contact@networkology.com（官网 contact 页；另有 tenders@networkology.com，具名 David Owen。客户为**国防/政府/公共部门**（高合规环境），Allied Telesis 伙伴）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **James Douglas Morgan**(Director(ADS Group 官网联系人))— ADS Group 会员页自曝 〔已有(公司官方公开件/登记册自曝);源:https://www.adsgroup.org.uk/members/networkology-ltd-1/〕
+  - **David John Owen**(Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **Stefan Nicholas Wallington**(Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **Stuart Andrew Monteith**(Director(2024-10))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **Robert Kevin Jelley**(Director(2024-10))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| James Douglas Morgan | Director(ADS Group 官网联系人) | ADS Group 会员页自曝 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.adsgroup.org.uk/members/networkology-ltd-1/ |
+| David John Owen | Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| Stefan Nicholas Wallington | Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| Stuart Andrew Monteith | Director(2024-10) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| Robert Kevin Jelley | Director(2024-10) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -210,7 +222,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |

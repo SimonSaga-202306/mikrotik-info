@@ -189,7 +189,23 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across T.net S.p.A while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across T.net S.p.A while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Francesco Mazzola",
+     "role": "President & CEO/创始人/大股东",
+     "contact": "tnet.it shareholders 页自曝",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.tnet.it/en/shareholders/"
+    },
+    {
+     "name": "Elisa Giacone",
+     "role": "联合创始人/HR 负责人",
+     "contact": "tnet.it shareholders 页自曝",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.tnet.it/en/shareholders/"
+    }
+   ]
   },
   {
    "customer": "A-343",
@@ -377,7 +393,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Luigi,\n\nI came across World Technology di Luigi Boi while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Luigi,\n\nI came across World Technology di Luigi Boi while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Luigi Boi",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "worldtechnology@tiscali.it",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-345",
@@ -565,7 +590,37 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across Kappa Data Nederland while mapping 荷兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across Kappa Data Nederland while mapping 荷兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Patrick Casteels",
+     "role": "Kappa Data Group 唯一 CEO/创始人(35% 股)",
+     "contact": "LinkedIn 公司号/Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Chris Willems",
+     "role": "前 Co-CEO/M&A 主责",
+     "contact": "Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Koert Martens",
+     "role": "技术总监(集团)",
+     "contact": "kappadata.be 25 年史自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Rubin Zwanenburg",
+     "role": "Kappa Data Nederland 员工(IoT/Security)",
+     "contact": "LinkedIn 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.linkedin.com/in/rubin-zwanenburg-b05a952/"
+    }
+   ]
   },
   {
    "customer": "A-347",
@@ -659,7 +714,44 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across Kappa Data Belgium while mapping 比利时 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across Kappa Data Belgium while mapping 比利时 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Patrick Casteels",
+     "role": "Kappa Data Group 唯一 CEO/创始人(35% 股)",
+     "contact": "LinkedIn 公司号/Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Chris Willems",
+     "role": "M&A 主责",
+     "contact": "Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Koert Martens",
+     "role": "技术总监(集团)",
+     "contact": "kappadata.be 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Michel Grunspan",
+     "role": "法国 Exer CEO(集团管理)",
+     "contact": "kappadata.be 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Erwan Le Guen",
+     "role": "法国国别总监",
+     "contact": "dutchitleaders 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland"
+    }
+   ]
   },
   {
    "customer": "A-348",
@@ -753,7 +845,44 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across nLogic while mapping 挪威 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across nLogic while mapping 挪威 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Erlend Bonesvoll",
+     "role": "Daglig leder(总经理)",
+     "contact": "erlend@nlogic.no / +47 40 61 44 44",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)·公司新闻稿自曝邮箱",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    },
+    {
+     "name": "Arne Giæver",
+     "role": "Styrets leder(董事长)",
+     "contact": "nlogic.no 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/"
+    },
+    {
+     "name": "Marcus Erik Wahlberg",
+     "role": "董事",
+     "contact": "nlogic.no 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/"
+    },
+    {
+     "name": "Robert R. Olsen",
+     "role": "kundeansvarlig(客户经理)",
+     "contact": "nLogic 新闻稿谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    },
+    {
+     "name": "Jonas Lindstad",
+     "role": "Nettverkskonsulent",
+     "contact": "nLogic 新闻稿谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    }
+   ]
   },
   {
    "customer": "A-349",
@@ -941,7 +1070,30 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across Landatel while mapping 西班牙 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across Landatel while mapping 西班牙 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Marcos Díaz Nicolás",
+     "role": "物流与采购总监(硬件采购线)",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    },
+    {
+     "name": "Roberto Avila",
+     "role": "技术支持经理",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    },
+    {
+     "name": "Juana Suarez Lois",
+     "role": "财务/会计",
+     "contact": "LinkedIn 公司页员工自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://mx.linkedin.com/company/landatel-comunicaciones"
+    }
+   ]
   },
   {
    "customer": "A-351",
@@ -1317,7 +1469,44 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across NTS Direct while mapping 美国 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across NTS Direct while mapping 美国 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Ammar Rezek",
+     "role": "President",
+     "contact": "NTS Direct 官方新闻稿署名下三星扩谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/"
+    },
+    {
+     "name": "Michael Prefontaine",
+     "role": "CEO",
+     "contact": "CBInsights/ZoomInfo 双源",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.cbinsights.com/company/nts-direct/people"
+    },
+    {
+     "name": "Christopher Turcotte",
+     "role": "Vice President",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    },
+    {
+     "name": "Timothy Dinwoodie",
+     "role": "Director, Channel Sales",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    },
+    {
+     "name": "Erica Ferretti",
+     "role": "Manager, Marketing & Communications",
+     "contact": "ZoomInfo",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.datanyze.com/companies/nts-direct/347616523"
+    }
+   ]
   },
   {
    "customer": "A-355",
@@ -1411,7 +1600,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi V.,\n\nI came across Ahababian V. while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi V.,\n\nI came across Ahababian V. while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "V. Ahababian",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "vartan@mikrotikls.com.ua",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-356",
@@ -1505,7 +1703,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Athanasios,\n\nI came across Pournaras Athanasios while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Athanasios,\n\nI came across Pournaras Athanasios while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Athanasios Pournaras",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "info@xpatit.gr",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-357",
@@ -1693,7 +1900,37 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across LEXIS S.A. while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across LEXIS S.A. while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Lilly Filopoulou",
+     "role": "Business Development Manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Miltos Drikos",
+     "role": "technical manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Pavlos Filopoulos",
+     "role": "Sales Engineer & Technical Support",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    },
+    {
+     "name": "Grigoris Chatzikakis",
+     "role": "Store Manager",
+     "contact": "ContactOut 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://contactout.com/company/LEXIS-SA-95442"
+    }
+   ]
   },
   {
    "customer": "A-359",
@@ -1787,7 +2024,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Vadim,\n\nI came across Scornici Vadim while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Vadim,\n\nI came across Scornici Vadim while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Vadim Scornici",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "vadsco@gmail.com",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-360",
@@ -1881,7 +2127,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Andrii,\n\nI came across Andrii Sychov while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Andrii,\n\nI came across Andrii Sychov while mapping 乌克兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Andrii Sychov",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "trainer@mikrotik.net.ua",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-361",
@@ -1975,7 +2230,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Michal,\n\nI came across Michal Dobšovič while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Michal,\n\nI came across Michal Dobšovič while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Michal Dobšovič",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "dobsovic@itlearning.sk",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-362",
@@ -2069,7 +2333,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Ivan,\n\nI came across Ivan Dolnak while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Ivan,\n\nI came across Ivan Dolnak while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Ivan Dolnak",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "ivan.dolnak@connet-group.sk",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-363",
@@ -2163,7 +2436,44 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi team,\n\nI came across SOS electronic while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi team,\n\nI came across SOS electronic while mapping 斯洛伐克 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Ján Seszták",
+     "role": "Konateľ/CEO(三源一致)",
+     "contact": "Kompass/DnB/clodura 公开件",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/"
+    },
+    {
+     "name": "Renáta Tančaková",
+     "role": "财务董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Ján Michalko",
+     "role": "商务董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Rastislav Taliarovič",
+     "role": "市场董事",
+     "contact": "DnB 谱",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html"
+    },
+    {
+     "name": "Jozef Jarábek",
+     "role": "采购",
+     "contact": "LinkedIn 自曝 500+",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.linkedin.com/in/jozefjarabek/"
+    }
+   ]
   },
   {
    "customer": "A-364",
@@ -2257,7 +2567,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Olisian,\n\nI came across Olisian Sulaj while mapping 阿尔巴尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Olisian,\n\nI came across Olisian Sulaj while mapping 阿尔巴尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Olisian Sulaj",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "olisian.sulaj@gmail.com",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-365",
@@ -2445,7 +2764,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Robertas,\n\nI came across Robertas Stauskas / Magit while mapping 立陶宛 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Robertas,\n\nI came across Robertas Stauskas / Magit while mapping 立陶宛 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Robertas Stauskas",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "robertas@magit.lt",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-367",
@@ -2539,7 +2867,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Petar,\n\nI came across Petar Dimitrov while mapping 保加利亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Petar,\n\nI came across Petar Dimitrov while mapping 保加利亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Petar Dimitrov",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "info@mikrotikbg.shop",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-368",
@@ -2633,7 +2970,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Kęstutis,\n\nI came across Kęstutis Viselga / MikroTik Training Lietuva while mapping 立陶宛 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Kęstutis,\n\nI came across Kęstutis Viselga / MikroTik Training Lietuva while mapping 立陶宛 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Kęstutis Viselga",
+     "role": "MikroTik 认证 Trainer 谱(守界:训练类不新挖=本体存档)",
+     "contact": "trainer@mikrotik-training.lt",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-369",
@@ -2727,7 +3073,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Veaceslav,\n\nI came across Veaceslav Samburschii / Academia MikroTik while mapping 罗马尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Veaceslav,\n\nI came across Veaceslav Samburschii / Academia MikroTik while mapping 罗马尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Veaceslav Samburschii",
+     "role": "Academia MikroTik 主理(守界)",
+     "contact": "vsamburski@gmail.com",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-370",
@@ -2821,7 +3176,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Oltion,\n\nI came across Oltion Nikolla / Router.al while mapping 阿尔巴尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Oltion,\n\nI came across Oltion Nikolla / Router.al while mapping 阿尔巴尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Oltion Nikolla",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "oltionnikolla@gmail.com",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-371",
@@ -2915,7 +3279,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Martin,\n\nI came across Martin Soovares while mapping 爱沙尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Martin,\n\nI came across Martin Soovares while mapping 爱沙尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Martin Soovares",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "martin.soovares@gmail.com",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-372",
@@ -3009,7 +3382,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Domagoj,\n\nI came across Domagoj Bikic while mapping 克罗地亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Domagoj,\n\nI came across Domagoj Bikic while mapping 克罗地亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Domagoj Bikic",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "ekomunikacija@pondi.hr",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-373",
@@ -3197,7 +3579,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Rein,\n\nI came across Rein Põdra while mapping 爱沙尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Rein,\n\nI came across Rein Põdra while mapping 爱沙尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Rein Põdra",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "rein.podra@ccisrd.eu",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-375",
@@ -3291,7 +3682,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Jānis,\n\nI came across Jānis Jaunošāns while mapping 拉脱维亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Jānis,\n\nI came across Jānis Jaunošāns while mapping 拉脱维亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Jānis Jaunošāns",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "jj@netops.lv",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   },
   {
    "customer": "A-376",
@@ -3385,7 +3785,16 @@
     "公司面全谱",
     "具名 kp 直发邮箱"
    ],
-   "email": "Hi Jernej,\n\nI came across Jernej Suhadolc while mapping 斯洛文尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Jernej,\n\nI came across Jernej Suhadolc while mapping 斯洛文尼亚 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.\n\nCould you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Jernej Suhadolc",
+     "role": "个体谱主/本人(公司名字段即本人谱位)",
+     "contact": "jernej.suhadolc@virtua.si",
+     "status": "official-self-published·谱/人名司名同体(leads-only,直发需 opt-in)",
+     "source": "CSV 公司名字段+R66 基线(2026-10-07)"
+    }
+   ]
   }
  ]
 }

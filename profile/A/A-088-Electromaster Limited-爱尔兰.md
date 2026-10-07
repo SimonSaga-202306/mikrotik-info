@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Electromaster Limited（爱尔兰）：CSV 载 Perle 工业 PoE 线+黄页/HiFi 名录收录；2026-09-28 实测：electromaster.ie 域名内容已为加密博彩导流页（**域名疑似流落/被占**），且域 NO-MX（无邮件记录）
-- 【推断】该司线上资产处于失控态：info@electromaster.ie 不可投递，商务触达只能走名录电话
-- 【假设】黄页名录仍收录=公司或仍在经营（电话存活待证）；按 Round-32 精神降级触达不删档
+- 【事实】Electromaster Limited:Electromaster Limited(库档英国;**R66 检索排噪:爱尔兰 Cork 同名 Electromaster Ltd(163563)=DISSOLVED 2022,不采信;UK 本体未证;守档准由**
+- 【推断】R66 第 7-8 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -132,35 +132,38 @@ updated: 2026-10-04
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第7_8波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：黄页在册 Perle 分销；站被占+域无 MX
-- **②芯片/型号**：Perle（CSV）
-- **③KP 深挖**：名录电话唯一通道
-- **④Saga 对标**：（核后定）
-- **⑤在乎与偏好**：—
+- **①背景再核**：Electromaster Limited(库档英国;**R66 检索排噪:爱尔兰 Cork 同名 Electromaster Ltd(163563)=DISSOLVED 2022,不采信;UK 本体未证;守档准由**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 波次二点名**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：消排同名(爱尔兰注销)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**electromaster.ie 页面内容=“Best Crypto Casinos UK 2026”博彩导流（2026-09-28 实测）；DNS 无 MX 记录
-  > electromaster.ie 页面内容=“Best Crypto Casinos UK 2026”博彩导流（2026-09-28 实测）；DNS 无 MX 记录
-  > 来源：https://electromaster.ie/
-- **【联系方式】**CSV：info@electromaster.ie（不可投递）；黄页/HiFi 名录有载
-  > CSV：info@electromaster.ie（不可投递）；黄页/HiFi 名录有载
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【风险与注意】**Electromaster Limited (Cork, Co. 163563) — DISSOLVED 29 Aug 2022 · +353 21 494 6740 · James Dunne(同名排噪,不代表库档 UK 本体)
+  > Electromaster Limited (Cork, Co. 163563) — DISSOLVED 29 Aug 2022 · +353 21 494 6740 · James Dunne(同名排噪,不代表库档 UK 本体)
+  > 来源：https://www.solocheck.ie/Irish-Company/Electromaster-Limited-163563
+- **【业务定位】**2026-10-07 R66 波次:同名 Ireland 实体注销排噪;UK 本体待谱面二波
+  > 2026-10-07 R66 波次:同名 Ireland 实体注销排噪;UK 本体待谱面二波
+  > 来源：https://find-and-update.company-information.service.gov.uk
+- **【近期动态与线索】**R66 守档准由:同名实体已注销;本体待谱面锁定
+  > R66 守档准由:同名实体已注销;本体待谱面锁定
+  > 来源：https://find-and-update.company-information.service.gov.uk
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：爱尔兰 Perle 分销（线上资产失控态）
-- **产品线与在售品牌**：Perle 线（CSV）
-- **目标行业与场景**：工业/消电交叉（名录口径）
-- **团队与规模**：未公开
-- **决策链与对接人**：名录电话
-- **技术与认证**：未公开
-- **采购与供应链信号**：CSV 信号
-- **近期动态与线索**：域名=博彩导流页+NO-MX（2026-09-28）
-- **与我方契合点**：（电话核后定）
-- **风险与注意**：线上资产失控=触达降级；不由此发邮件
+- **业务定位**：Electromaster Limited(库档英国;**R66 检索排噪:爱尔兰 Cork 同名 Electromaster Ltd(163563)=DISSOLVED 2022,不采信;UK 本体未证;守档准由**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：(库档英国本体待谱面锁定)
+- **团队与规模**：(待谱面锁定)
+- **决策链与对接人**：**守档准由;R66 波次二点名**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-07 R66 7-8 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：同名噪声排(波次二锁定)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +178,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：名录
-- **W**：失控
-- **O**：复活
-- **T**：失联
+- **S**：消排同名(爱尔兰注销)
+- **W**：同名实体已注销
+- **O**：UK 本体波次二点名
+- **T**：同名噪声
 
 ## 触达与风险红线
 
@@ -210,9 +213,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 公司经营状态
-  - [ ] 域名归属
-  - [ ] 电话号码是否存活
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,7 +226,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——邮箱不可投递。动作：电话黄页名录核验经营状态与域名归属；恢复有效邮箱后再列邮件链。）
+Hi team,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

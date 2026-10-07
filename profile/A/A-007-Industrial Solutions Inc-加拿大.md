@@ -70,6 +70,9 @@ updated: 2026-09-28
 - **电话**：780.460.9533、866.460.9533
 - **原始联系字段**：sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {first}@indsol.com（bob@/amy@ 属推测，未验证）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **（采购/网络产品 owner 待问）**(网络连接类目采购决策人)— sales@indsol.com；780-460-9533 / 866-460-9533 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22〕
+  - **（LinkedIn 公司号）**(2,616 粉；周更；当前在招 Technical Sales Rep)— ca.linkedin.com/company/industrialsolutionsinc 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://ca.linkedin.com/company/industrialsolutionsinc〕
 
 ## 关键人（KP）与触达通道
 

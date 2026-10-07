@@ -263,6 +263,14 @@ def render(e, ctx):
       '「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。')
     if e['email_state'] == '模式猜测·未验证':
         w('- ⚠️ 邮箱为模式猜测：**未验证**，首封若退信立即停用并换通道。')
+    # R66/R64 具名 KP 捕件:写回联系方式段,已有(post-company公开件)/猜测(leads-only·代 opt-in)分标
+    _kps = (ctx['rec55'] or {}).get('kp') or []
+    if _kps:
+        w('- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:')
+        for _k in _kps:
+            _st = _k.get('status', '')
+            _tag = '已有(公司官方公开件/登记册自曝)' if 'official-self-published' in _st else '猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in)'
+            w('  - **%s**(%s)— %s 〔%s;源:%s〕' % (_k.get('name','—'), _k.get('role','—'), _k.get('contact','—'), _tag, _k.get('source','—')))
     w('')
 
     # ---- 关键人 KP ----

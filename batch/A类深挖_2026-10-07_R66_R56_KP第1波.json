@@ -94,7 +94,23 @@
     "MikroTik 谱的份额证明",
     "当前 PoE 交换机的执行品牌"
    ],
-   "email": "Hi T.net team,\n\nYour dual-layer story — IoT Engineering on one side and digital-transformation credentials on the other (congrats on the EIT Digital backing) — reads like an outfit that lives on-site. Behind every smart-lighting, smart-mobility, or agrifood node sits a small switching layer that nobody talks about but everybody restarts.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value line that rides along with each site you deploy.\n\nCould you tell me who carries the hardware line for your IoT field deployments, so we can put the right spec in the right hands?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi T.net team,\n\nYour dual-layer story — IoT Engineering on one side and digital-transformation credentials on the other (congrats on the EIT Digital backing) — reads like an outfit that lives on-site. Behind every smart-lighting, smart-mobility, or agrifood node sits a small switching layer that nobody talks about but everybody restarts.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value line that rides along with each site you deploy.\n\nCould you tell me who carries the hardware line for your IoT field deployments, so we can put the right spec in the right hands?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Francesco Mazzola",
+     "role": "President & CEO/创始人/大股东",
+     "contact": "tnet.it shareholders 页自曝",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.tnet.it/en/shareholders/"
+    },
+    {
+     "name": "Elisa Giacone",
+     "role": "联合创始人/HR 负责人",
+     "contact": "tnet.it shareholders 页自曝",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.tnet.it/en/shareholders/"
+    }
+   ]
   },
   {
    "customer": "A-343",
@@ -281,7 +297,37 @@
     "当前 24 口 PoE 执行品牌/搭配线",
     "reseller 谱的谱链搭"
    ],
-   "email": "Hi Kappa Data Nederland team, Kappa Data Nederland looks like exactly the kind of value-add distributor where a 24-port value PoE layer would slot in alongside the Extreme/Aruba lines you already carry."
+   "email": "Hi Kappa Data Nederland team, Kappa Data Nederland looks like exactly the kind of value-add distributor where a 24-port value PoE layer would slot in alongside the Extreme/Aruba lines you already carry.",
+   "kp": [
+    {
+     "name": "Patrick Casteels",
+     "role": "Kappa Data Group 唯一 CEO/创始人(35% 股)",
+     "contact": "LinkedIn 公司号/Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Chris Willems",
+     "role": "前 Co-CEO/M&A 主责",
+     "contact": "Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Koert Martens",
+     "role": "技术总监(集团)",
+     "contact": "kappadata.be 25 年史自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Rubin Zwanenburg",
+     "role": "Kappa Data Nederland 员工(IoT/Security)",
+     "contact": "LinkedIn 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.linkedin.com/in/rubin-zwanenburg-b05a952/"
+    }
+   ]
   },
   {
    "customer": "A-347",
@@ -374,7 +420,44 @@
     "当前 24 口 PoE 执行品牌/搭配线",
     "reseller 谱的谱链搭"
    ],
-   "email": "Hi Kappa Data team, the Belgian value-add distributor at the heart of the Kappa data Group— a name that shows up everywhere smart city and IoT projects in the BeNeLux do their buying."
+   "email": "Hi Kappa Data team, the Belgian value-add distributor at the heart of the Kappa data Group— a name that shows up everywhere smart city and IoT projects in the BeNeLux do their buying.",
+   "kp": [
+    {
+     "name": "Patrick Casteels",
+     "role": "Kappa Data Group 唯一 CEO/创始人(35% 股)",
+     "contact": "LinkedIn 公司号/Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Chris Willems",
+     "role": "M&A 主责",
+     "contact": "Channel News 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/"
+    },
+    {
+     "name": "Koert Martens",
+     "role": "技术总监(集团)",
+     "contact": "kappadata.be 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Michel Grunspan",
+     "role": "法国 Exer CEO(集团管理)",
+     "contact": "kappadata.be 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/"
+    },
+    {
+     "name": "Erwan Le Guen",
+     "role": "法国国别总监",
+     "contact": "dutchitleaders 自曝",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland"
+    }
+   ]
   },
   {
    "customer": "A-348",
@@ -467,7 +550,44 @@
     "当前现场交换机品牌/服务谱",
     "MikroTik 谱份额"
    ],
-   "email": "Hi Erlend,\n\nI came across nLogic while mapping MikroTik-related distributors in Norway — 49 engineers on Skøyen and a name that keeps showing up on the serious Norwegian infrastructure projects. Impressive longevity: since 2007 on the same beat.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value unit for the on-site deployments your team designs.\n\nCould you point me to whoever carries the switching line in your projects, so we can get the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk"
+   "email": "Hi Erlend,\n\nI came across nLogic while mapping MikroTik-related distributors in Norway — 49 engineers on Skøyen and a name that keeps showing up on the serious Norwegian infrastructure projects. Impressive longevity: since 2007 on the same beat.\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value unit for the on-site deployments your team designs.\n\nCould you point me to whoever carries the switching line in your projects, so we can get the right spec to the right desk?\n\nBest regards,\nSaga Networks Export Desk",
+   "kp": [
+    {
+     "name": "Erlend Bonesvoll",
+     "role": "Daglig leder(总经理)",
+     "contact": "erlend@nlogic.no / +47 40 61 44 44",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)·公司新闻稿自曝邮箱",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    },
+    {
+     "name": "Arne Giæver",
+     "role": "Styrets leder(董事长)",
+     "contact": "nlogic.no 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/"
+    },
+    {
+     "name": "Marcus Erik Wahlberg",
+     "role": "董事",
+     "contact": "nlogic.no 谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/"
+    },
+    {
+     "name": "Robert R. Olsen",
+     "role": "kundeansvarlig(客户经理)",
+     "contact": "nLogic 新闻稿谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    },
+    {
+     "name": "Jonas Lindstad",
+     "role": "Nettverkskonsulent",
+     "contact": "nLogic 新闻稿谱面",
+     "status": "leads-only·待 opt-in(LinkedIn 公开面)",
+     "source": "https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779"
+    }
+   ]
   }
  ]
 }

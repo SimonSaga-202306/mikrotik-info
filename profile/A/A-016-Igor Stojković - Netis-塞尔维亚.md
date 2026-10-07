@@ -72,6 +72,8 @@ RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售�
 - **电话**：+381 63 546 126
 - **原始联系字段**：+381 63 546 126 / igor.stojkovic@netis.rs
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Igor Stojković**(Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满）)— igor.stojkovic@netis.rs；+381 63 546 126；LinkedIn 私信 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/ ・ https://www.mikrotiktrening.rs/event/mtcna-maj-2026/〕
 
 ## 关键人（KP）与触达通道
 

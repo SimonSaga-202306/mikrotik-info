@@ -69,6 +69,9 @@ updated: 2026-09-28
 - **电话**：+380 97 931 2131
 - **原始联系字段**：+380 97 931 2131 / webvetal.mob@gmail.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Vitalii Potravka**(个体顾问)— webvetal.mob@gmail.com；+380 97 931 2131 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:客户名单_反向信号_2026-09.csv#A-004 ・ https://mikrotik.com/consultants〕
+  - **（疑似培训站好评人）**(未证线索)— mikrotik.coach（Kyiv 在线课程页） 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://mikrotik.coach/〕
 
 ## 关键人（KP）与触达通道
 

@@ -81,10 +81,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+40 748 511 932 / vsamburski@gmail.com；office@academia-mikrotik.ro（官方培训中心名录）；+40 364 086 906
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Veaceslav Samburschii**(Academia MikroTik 主理(守界))— vsamburski@gmail.com 〔已有(公司官方公开件/登记册自曝);源:CSV 公司名字段+R66 基线(2026-10-07)〕
 
 ## 关键人（KP）与触达通道
 
-- **Veaceslav Samburschii**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Veaceslav Samburschii | Academia MikroTik 主理(守界) | vsamburski@gmail.com | official-self-published·谱/人名司名同体(leads-only,直发需 opt-in) | CSV 公司名字段+R66 基线(2026-10-07) |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 

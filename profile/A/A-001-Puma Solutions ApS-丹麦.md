@@ -71,6 +71,9 @@ updated: 2026-09-28
 - **电话**：+45 60 70 90 09
 - **原始联系字段**：+45 60 70 90 09 / rfi@pumait.dk
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **（法定董事待查）**(业主/采购决策人（推定）)— rfi@pumait.dk；+45 32 33 13 12 / +45 60 70 90 09 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pumait.dk/ ・ https://www.pumait.dk/contactus〕
+  - **—（模式猜测）**(—)— firstname@pumait.dk（待 CVR 查到董事名后套） 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:dns://pumait.dk/MX 2026-09-28 本机核验〕
 
 ## 关键人（KP）与触达通道
 

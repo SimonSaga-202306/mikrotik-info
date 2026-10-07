@@ -72,6 +72,8 @@ RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ 
 - **电话**：+43 688 9131190
 - **原始联系字段**：+43 688 9131190 / khalil@aulaf.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Khalil Chamseddine**(AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证）)— khalil@aulaf.com；admin@aulaf.com；+43 688 9131190；Skype khalil.chamseddine 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://aulaf.com/mtcna-vienna ・ https://mikrotik.com/consultants/europe/austria〕
 
 ## 关键人（KP）与触达通道
 
