@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网…
+- **是谁**：Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞典 Reseller value PoE 试探(活跃验证先行)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网服务」运营商+MikroTik reseller 官方自曝**;MikroTik 装备多年部署自认(Broadcast sites/remo | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】瑞典小型 Reseller;足迹薄,活跃度待验 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)* | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Sanuk Systems AB(Älvsjö 斯德哥尔摩南;sanuksystems.com;MikroTik Reseller;公开足迹薄) | R65 深挖:瑞/泰双谱酒店谱型=瑞泰国宽带双线实体
-- 【推断】瑞典小型 Reseller;足迹薄,活跃度待验
-- 【假设】开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】瑞典小型 Reseller;足迹薄,活跃度待验
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +60,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660
 
 ## 联系方式（已有/猜测分标）
 
@@ -76,56 +69,65 @@ updated: 2026-10-07
 - **电话**：+46 70 696 66 60
 - **原始联系字段**：+46 70 696 66 60 / mail@sanuksystems.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Rickard Kristiansson**(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达))— bolagsfakta.se 登记册谱(100% 控制) 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB〕
+  - **Karin Elisabeth Kristiansson**(Styrelsesuppleant(候补董事;家族谱))— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Rickard Kristiansson | Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达) | bolagsfakta.se 登记册谱(100% 控制) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB |
+| Karin Elisabeth Kristiansson | Styrelsesuppleant(候补董事;家族谱) | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+7 · 活跃度快验(电话/网站)
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走
-- **要问的问题**：(先验活跃)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · mail@sanuksystems.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走
-- **要问的问题**：(先验活跃)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「瑞典 Reseller 的 value PoE 档试探」:STC-424 开口,活跃验证同走
-- **要问的问题**：(先验活跃)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波1.json`；价格均为 EXW 快照。
 
-- **背景深描**：Sanuk Systems AB(Bangkok/Rayong/Hua Hin 泰国+Stockholm 瑞典双杆；AS138616 APNIC 泰国实体；**谱型=瑞典泰两谱「酒店/社群宽带/光纤/WiFi/全球互联网服务」运营商+MikroTik reseller 官方自曝**;MikroTik 装备多年部署自认(Broadcast sites/remote offices/central hubs/operator environments);官网自述 MikroTik Reseller
-- **芯片与在用型号**：【推断】瑞典小型 Reseller;足迹薄,活跃度待验
-- **关键人KP**：—(AB aktiebolagsregistret 收费墙；R65 谱位+双域名谱自曝足档；泰国实体 AS138616 档案挂靠）
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
-- **Saga产品适配**：瑞典 Reseller value PoE 试探(活跃验证先行)
+- **背景深描**：Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **关注点与资质**：创办人 100% 拥有人直达
+- **优缺点SWOT**：S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):瑞典/泰国酒店宽带小微建网商;Rickard 一人决策谱(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com
-  > CSV:MikroTik 官方分销 Reseller;Älvsjö;mail@sanuksystems.com
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 谱自曝】**Sanuk Systems=瑞/泰双谱酒店宽带运营；MikroTik Reseller 官方自曝；多年部署 operator 环境档
-  > We have an extensive practical knowledge of particularly MikroTik network equipment from our many deployments, and both resell hardware and provide consulting … Mikrotik Reseller … Sanuk Systems are based in Rayong and Hua Hin, Thailand and Stockholm, Sweden
-  > 来源：https://www.sanuksystems.com/business/
+- **【决策链与对接人】**Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)
+  > Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)
+  > 来源：https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB
+- **【团队与规模】**2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025
+  > 2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025
+  > 来源：https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB
+- **【业务定位】**Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)
+  > Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)
+  > 来源：https://www.sanuksystems.com/contact/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -138,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
+S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱
 
 ## 触达与风险红线
 
@@ -157,7 +159,7 @@ S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -166,8 +168,8 @@ S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 活跃经营佐证
-  - [ ] 谱与量级
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -176,19 +178,15 @@ S:斯京区位 / W:足迹薄 / O:value PoE 档 / T:失联
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Sanuk team,
+Hej Rickard,
 
-A MikroTik reseller in Älvsjö - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
-
-If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

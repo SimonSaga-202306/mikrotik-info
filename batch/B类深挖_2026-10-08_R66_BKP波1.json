@@ -1,0 +1,628 @@
+{
+ "date": "2026-10-08",
+ "wave": "R66 B 面 KP 波 1:Secure Net(IS 创办人官网金谱)+MARAC(军警谱位守档)+Sanuk(SE 登记册 100% 拥有人)+Infortisa(ES 分销一线 10 人谱)四户",
+ "scope": "IS/GR/SE/ES 谱;乌克兰守界不动;Infortisa 2025-07 管理人换任谱位复验",
+ "records": [
+  {
+   "code": "B-058",
+   "researched_on": "2026-10-08(R66-B 波 1)",
+   "fact": "Öruggt Net ehf(Secure Net):Öruggt Net ehf(冰岛 Reykjavik,Kristínargata 1, 102;KT 670224-0740,VSK 152122;**2024-02-21 冰岛税局注册(2 年谱)**;DBA=Secure Net;小网络安全咨询坊(20+ 年 IT/网络/安全经验;ISO 27001 培训;欧洲/美国安全社群活跃);securenet.is;info@oruggtnet.is / +354-551-5120",
+   "inference": "R66 B 面 KP 波 1 具名金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://securenet.is/about-us/our-founder-and-us/",
+   "tech": "(波次二补)",
+   "hr": "2024 创;微实体(创办人谱)",
+   "contact_found": "**Sigurður G. Bjarnason(Founder(又称 Siggi Bjarnason / Siggi Supergeek;1980s 起谱;曾居西雅图),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Öruggt Net ehf(冰岛 Reykjavik,Kristínargata 1, 102;KT 670224-0740,VSK 152122;**2024-02-21 冰岛税局注册(2 年谱)**;DBA=Secure Net;小网络安全咨询坊(20+ 年 IT/网络/安全经验;ISO 27001 培训;欧洲/美国安全社群活跃);securenet.is;info@oruggtnet.is / +354-551-5120",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "冰岛小网络安全咨询坊(创办人直达)",
+    "团队与规模": "2024 创;微实体(创办人谱)",
+    "决策链与对接人": "**Sigurður G. Bjarnason(Founder(又称 Siggi Bjarnason / Siggi Supergeek;1980s 起谱;曾居西雅图),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66-B 波 1 谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Siggi 一人谱(opt-in 律)"
+   },
+   "dimensions": {
+    "背景深描": "Öruggt Net ehf(冰岛 Reykjavik,Kristínargata 1, 102;KT 670224-0740,VSK 152122;**2024-02-21 冰岛税局注册(2 年谱)**;DBA=Secure Net;小网络安全咨询坊(20+ 年 IT/网络/安全经验;ISO 27001 培训;欧洲/美国安全社群活跃);securenet.is;info@oruggtnet.is / +354-551-5120",
+    "芯片与在用型号": "(待谱面二补)",
+    "关键人KP": "**Sigurður G. Bjarnason(Founder(又称 Siggi Bjarnason / Siggi Supergeek;1980s 起谱;曾居西雅图),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "关注点与资质": "创办人官网自署金谱",
+    "优缺点SWOT": "S 创办人官网自署金谱 / W 微实体(一人谱) / O Siggi 直达位(英语通行) / T 大牌厂商链竞谱",
+    "Saga产品适配": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):冰岛小网络安全咨询坊(创办人直达);Siggi 一人谱(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Both companies were founded by Sigurður G. Bjarnason (also known as Siggi Bjarnason / Siggi Supergeek);registered 21 February 2024(Icelandic tax authority)",
+     "source": "https://securenet.is/about-us/our-founder-and-us/"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "We are Öruggt Net ehf, or Secure Net in English;Cybersecurity for Icelandic companies;ISO 27001 training;KT: 670224-0740 VSK: 152122",
+     "source": "https://securenet.is/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-08 R66-B 波 1:创办人官网自署金谱锁位;冰岛 RSK 登记册谱=KT 670224-0740 已录",
+     "source": "https://securenet.is/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "Both companies were founded by Sigurður G. Bjarnason (also known as Siggi Bjarnason / Siggi Supergeek);registered 21 February 2024(Icelandic tax authority)",
+     "quote": "Both companies were founded by Sigurður G. Bjarnason (also known as Siggi Bjarnason / Siggi Supergeek);registered 21 February 2024(Icelandic tax authority)",
+     "url": "https://securenet.is/about-us/our-founder-and-us/"
+    },
+    {
+     "dim": "业务定位",
+     "text": "We are Öruggt Net ehf, or Secure Net in English;Cybersecurity for Icelandic companies;ISO 27001 training;KT: 670224-0740 VSK: 152122",
+     "quote": "We are Öruggt Net ehf, or Secure Net in English;Cybersecurity for Icelandic companies;ISO 27001 training;KT: 670224-0740 VSK: 152122",
+     "url": "https://securenet.is/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "2026-10-08 R66-B 波 1:创办人官网自署金谱锁位;冰岛 RSK 登记册谱=KT 670224-0740 已录",
+     "quote": "2026-10-08 R66-B 波 1:创办人官网自署金谱锁位;冰岛 RSK 登记册谱=KT 670224-0740 已录",
+     "url": "https://securenet.is/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "swot_text": "- **S**:创办人官网自署金谱\n- **W**:微实体(一人谱)\n- **O**:Siggi 直达位(英语通行)\n- **T**:大牌厂商链竞谱",
+   "unknowns56": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Öruggt Net ehf(冰岛 Reykjavik,Kristínargata 1, 102;KT 670224-0740,VSK 152122;**2024-02-21 冰岛税局注册(2 年谱)**;DBA=Secure Net;小网络安全咨询坊(20+ 年 IT/网络/安全经验;ISO 27001 培训;欧洲/美国安全社群活跃);securenet.is;info@oruggtnet.is / +354-551-5120",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Sigurður G. Bjarnason(Founder(又称 Siggi Bjarnason / Siggi Supergeek;1980s 起谱;曾居西雅图),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "创办人官网自署金谱",
+     "⑥SWOT": "S 创办人官网自署金谱 / W 微实体(一人谱) / O Siggi 直达位(英语通行) / T 大牌厂商链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "创办人官网自署金谱",
+     "W": "微实体(一人谱)",
+     "O": "Siggi 直达位(英语通行)",
+     "T": "大牌厂商链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66-B 波 1 谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Sigurður G. Bjarnason",
+     "role": "Founder(又称 Siggi Bjarnason / Siggi Supergeek;1980s 起谱;曾居西雅图)",
+     "contact": "securenet.is/about-us 官网 about 自署",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://securenet.is/about-us/our-founder-and-us/"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email_subject": "PoE switching for your line",
+   "email": "Hi Siggi,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "code": "B-129",
+   "researched_on": "2026-10-08(R66-B 波 1)",
+   "fact": "MARAC Electronics S.A:Marac Electronics S.A.(希腊 Perama/Piraeus,165 Marias Kiouri & Tripoleos Str., 188 63 + 455 Dimokratias Avenue;**1976 创(50 年谱)**;51-100 人;谱型=希腊/巴尔干一线系统集成商(电信/IT/环境/海事/能源/安防-民防/遥测;无线传输接入网微波/光链路/WiMAX;**军警谱位:Hellenic Police/Army/Navy/Air Force/S.H.A.P.E.(NATO);MOD 军工安全认证+国防电子产品国家制造商名录**);自有仓+认证实验室+车队;marac.gr;+30 210 4314361",
+   "inference": "R66 B 面 KP 波 1 守档(身份锁定)",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://pitchbook.com/profiles/company/159696-28",
+   "tech": "(波次二补)",
+   "hr": "51-100 人;1976 创",
+   "contact_found": "**守档准由;R66 波次二点名**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Marac Electronics S.A.(希腊 Perama/Piraeus,165 Marias Kiouri & Tripoleos Str., 188 63 + 455 Dimokratias Avenue;**1976 创(50 年谱)**;51-100 人;谱型=希腊/巴尔干一线系统集成商(电信/IT/环境/海事/能源/安防-民防/遥测;无线传输接入网微波/光链路/WiMAX;**军警谱位:Hellenic Police/Army/Navy/Air Force/S.H.A.P.E.(NATO);MOD 军工安全认证+国防电子产品国家制造商名录**);自有仓+认证实验室+车队;marac.gr;+30 210 4314361",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "希腊军警/电信系统集成商(50 年谱)",
+    "团队与规模": "51-100 人;1976 创",
+    "决策链与对接人": "**守档准由;R66 波次二点名**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66-B 波 1 守档",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "守档:身份已锁;军警谱位机会大但具名谱未破;R66 波次二点名(GEMI 反查)"
+   },
+   "dimensions": {
+    "背景深描": "Marac Electronics S.A.(希腊 Perama/Piraeus,165 Marias Kiouri & Tripoleos Str., 188 63 + 455 Dimokratias Avenue;**1976 创(50 年谱)**;51-100 人;谱型=希腊/巴尔干一线系统集成商(电信/IT/环境/海事/能源/安防-民防/遥测;无线传输接入网微波/光链路/WiMAX;**军警谱位:Hellenic Police/Army/Navy/Air Force/S.H.A.P.E.(NATO);MOD 军工安全认证+国防电子产品国家制造商名录**);自有仓+认证实验室+车队;marac.gr;+30 210 4314361",
+    "芯片与在用型号": "(待谱面二补)",
+    "关键人KP": "**守档准由;R66 波次二点名**",
+    "关注点与资质": "军警谱位+NATO 客户谱",
+    "优缺点SWOT": "S 军警谱位+NATO 客户谱 / W 人名谱零命中 / O GEMI 登记册反查可破 / T 军工采购链层严",
+    "Saga产品适配": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):希腊军警/电信系统集成商(50 年谱);守档:身份已锁;军警谱位机会大但具名谱未破;R66 波次二点名(GEMI 反查)"
+   },
+   "evidence": [
+    {
+     "dim": "业务定位",
+     "quote": "Provider of telecommunications products and services;founded 1976;455 Dimokratias Avenue, Perama 188 63;51-100 employees",
+     "source": "https://pitchbook.com/profiles/company/159696-28"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "main contractor/subcontractor for armed forces(army/navy/air force/coast guard/police);clients Hellenic Police/S.H.A.P.E.(NATO);MOD certified;listed as official National manufacturer of Defense electronic products",
+     "source": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "2026-10-08 R66-B 波 1:身份锁定(marac.gr 1976 Perama 本体);人名谱零命中→守档;波次二=希腊 GEMI 登记册反查董事层",
+     "source": "https://www.businessregistry.gr/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "Provider of telecommunications products and services;founded 1976;455 Dimokratias Avenue, Perama 188 63;51-100 employees",
+     "quote": "Provider of telecommunications products and services;founded 1976;455 Dimokratias Avenue, Perama 188 63;51-100 employees",
+     "url": "https://pitchbook.com/profiles/company/159696-28"
+    },
+    {
+     "dim": "业务定位",
+     "text": "main contractor/subcontractor for armed forces(army/navy/air force/coast guard/police);clients Hellenic Police/S.H.A.P.E.(NATO);MOD certified;listed as official National manufacturer of Defense electronic products",
+     "quote": "main contractor/subcontractor for armed forces(army/navy/air force/coast guard/police);clients Hellenic Police/S.H.A.P.E.(NATO);MOD certified;listed as official National manufacturer of Defense electronic products",
+     "url": "https://www.epicos.com/company/10012/marac-electronics-sa"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "2026-10-08 R66-B 波 1:身份锁定(marac.gr 1976 Perama 本体);人名谱零命中→守档;波次二=希腊 GEMI 登记册反查董事层",
+     "quote": "2026-10-08 R66-B 波 1:身份锁定(marac.gr 1976 Perama 本体);人名谱零命中→守档;波次二=希腊 GEMI 登记册反查董事层",
+     "url": "https://www.businessregistry.gr/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "swot_text": "- **S**:军警谱位+NATO 客户谱\n- **W**:人名谱零命中\n- **O**:GEMI 登记册反查可破\n- **T**:军工采购链层严",
+   "unknowns56": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Marac Electronics S.A.(希腊 Perama/Piraeus,165 Marias Kiouri & Tripoleos Str., 188 63 + 455 Dimokratias Avenue;**1976 创(50 年谱)**;51-100 人;谱型=希腊/巴尔干一线系统集成商(电信/IT/环境/海事/能源/安防-民防/遥测;无线传输接入网微波/光链路/WiMAX;**军警谱位:Hellenic Police/Army/Navy/Air Force/S.H.A.P.E.(NATO);MOD 军工安全认证+国防电子产品国家制造商名录**);自有仓+认证实验室+车队;marac.gr;+30 210 4314361",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**守档准由;R66 波次二点名**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "军警谱位+NATO 客户谱",
+     "⑥SWOT": "S 军警谱位+NATO 客户谱 / W 人名谱零命中 / O GEMI 登记册反查可破 / T 军工采购链层严"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "军警谱位+NATO 客户谱",
+     "W": "人名谱零命中",
+     "O": "GEMI 登记册反查可破",
+     "T": "军工采购链层严"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66-B 波 1 人名未破"
+   },
+   "kp": [],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email_subject": "PoE switching for your line",
+   "email": "\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "code": "B-296",
+   "researched_on": "2026-10-08(R66-B 波 1)",
+   "fact": "Sanuk Systems AB:Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660",
+   "inference": "R66 B 面 KP 波 1 具名金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB",
+   "tech": "(波次二补)",
+   "hr": "2 人;1.84M SEK(2025)",
+   "contact_found": "**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "瑞典/泰国酒店宽带小微建网商",
+    "团队与规模": "2 人;1.84M SEK(2025)",
+    "决策链与对接人": "**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66-B 波 1 谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "Rickard 一人决策谱(opt-in 律)"
+   },
+   "dimensions": {
+    "背景深描": "Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660",
+    "芯片与在用型号": "(待谱面二补)",
+    "关键人KP": "**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "关注点与资质": "创办人 100% 拥有人直达",
+    "优缺点SWOT": "S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱",
+    "Saga产品适配": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):瑞典/泰国酒店宽带小微建网商;Rickard 一人决策谱(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)",
+     "source": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025",
+     "source": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)",
+     "source": "https://www.sanuksystems.com/contact/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)",
+     "quote": "Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)",
+     "url": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025",
+     "quote": "2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025",
+     "url": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "业务定位",
+     "text": "Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)",
+     "quote": "Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)",
+     "url": "https://www.sanuksystems.com/contact/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "swot_text": "- **S**:创办人 100% 拥有人直达\n- **W**:微实体(2 人;采购偶发)\n- **O**:酒店 WiFi/PoE 场景正谱\n- **T**:大牌厂商链竞谱",
+   "unknowns56": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "创办人 100% 拥有人直达",
+     "⑥SWOT": "S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "创办人 100% 拥有人直达",
+     "W": "微实体(2 人;采购偶发)",
+     "O": "酒店 WiFi/PoE 场景正谱",
+     "T": "大牌厂商链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66-B 波 1 谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Rickard Kristiansson",
+     "role": "Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达)",
+     "contact": "bolagsfakta.se 登记册谱(100% 控制)",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "name": "Karin Elisabeth Kristiansson",
+     "role": "Styrelsesuppleant(候补董事;家族谱)",
+     "contact": "bolagsfakta.se 登记册谱",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email_subject": "PoE switching for your line",
+   "email": "Hej Rickard,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  },
+  {
+   "code": "B-469",
+   "researched_on": "2026-10-08(R66-B 波 1)",
+   "fact": "Infortisa:INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006",
+   "inference": "R66 B 面 KP 波 1 具名金谱",
+   "hypothesis": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路",
+   "evidence_main": "https://www.einforma.com/informacion-empresa/infortisa",
+   "tech": "(波次二补)",
+   "hr": "84 人;$14.2M;1989 注册;全国 3000 强",
+   "contact_found": "**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006",
+    "产品线与在售品牌": "(波次二补谱面)",
+    "目标行业与场景": "西班牙 ICT 分销一线(自有牌+服务臂)",
+    "团队与规模": "84 人;$14.2M;1989 注册;全国 3000 强",
+    "决策链与对接人": "**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "技术与认证": "(波次二补)",
+    "采购与供应链信号": "(波次二补)",
+    "近期动态与线索": "2026-10-08 R66-B 波 1 谱名牌",
+    "与我方契合点": "24 口 value PoE 谱链窗口",
+    "风险与注意": "管理人 2025 换任;BORME 全名波次二点名(opt-in 律)"
+   },
+   "dimensions": {
+    "背景深描": "INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006",
+    "芯片与在用型号": "(待谱面二补)",
+    "关键人KP": "**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+    "关注点与资质": "西班牙一线分销+自有牌 iggual",
+    "优缺点SWOT": "S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱",
+    "Saga产品适配": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):西班牙 ICT 分销一线(自有牌+服务臂);管理人 2025 换任;BORME 全名波次二点名(opt-in 律)"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)",
+     "source": "https://www.einforma.com/informacion-empresa/infortisa"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)",
+     "source": "https://guiacanaltic.channelpartner.es/infortisa/"
+    },
+    {
+     "dim": "团队与规模",
+     "quote": "Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "dim": "业务定位",
+     "quote": "mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421",
+     "source": "https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/"
+    }
+   ],
+   "facts": [
+    {
+     "dim": "决策链与对接人",
+     "text": "Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)",
+     "quote": "Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)",
+     "url": "https://www.einforma.com/informacion-empresa/infortisa"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)",
+     "quote": "CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)",
+     "url": "https://guiacanaltic.channelpartner.es/infortisa/"
+    },
+    {
+     "dim": "团队与规模",
+     "text": "Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)",
+     "quote": "Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)",
+     "url": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "dim": "业务定位",
+     "text": "mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421",
+     "quote": "mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421",
+     "url": "https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "swot_text": "- **S**:西班牙一线分销+自有牌 iggual\n- **W**:2025-07 管理人换任(谱位复验)\n- **O**:Belén(Compras)+Alfonso(Logística)双 KPI 天位\n- **T**:大牌厂商直供链竞谱",
+   "unknowns56": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006",
+     "②芯片/型号": "(待谱面二补)",
+     "③KP 深挖": "**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**",
+     "④Saga 对标": "24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))",
+     "⑤在乎与偏好": "西班牙一线分销+自有牌 iggual",
+     "⑥SWOT": "S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱"
+    },
+    "care": [
+     "直发具名需 opt-in"
+    ],
+    "swot": {
+     "S": "西班牙一线分销+自有牌 iggual",
+     "W": "2025-07 管理人换任(谱位复验)",
+     "O": "Belén(Compras)+Alfonso(Logística)双 KPI 天位",
+     "T": "大牌厂商直供链竞谱"
+    },
+    "uncertain": {
+     "产品线核实": "波次二补",
+     "合作方式": "未知",
+     "缺口证据": "(波次二)"
+    },
+    "gap_proof": "R66-B 波 1 谱面锁定"
+   },
+   "kp": [
+    {
+     "name": "Miguel Ángel M…",
+     "role": "Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二)",
+     "contact": "einforma 登记册谱(名截断)",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.einforma.com/informacion-empresa/infortisa"
+    },
+    {
+     "name": "Andrés Pastor",
+     "role": "Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG)",
+     "contact": "einforma 登记册谱+RocketReach 双源",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://www.einforma.com/informacion-empresa/infortisa"
+    },
+    {
+     "name": "Juan José Contell Garcia",
+     "role": "(原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**)",
+     "contact": "channelpartner 名录件+直邮",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://guiacanaltic.channelpartner.es/infortisa/"
+    },
+    {
+     "name": "Belén Lasheras Gracia",
+     "role": "Departamento de Compras(采购部 KPI 天位)",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "name": "Juan José Alfonso",
+     "role": "Director Logística(物流总监)",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "name": "Fernando López Bonafont",
+     "role": "Director InfortisaLABS(服务臂总监)",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "name": "Raquel Inglés",
+     "role": "Responsable de Marketing(市场负责)",
+     "contact": "channelpartner guía 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://guiacanaltic.channelpartner.es/infortisa/"
+    },
+    {
+     "name": "María Amparo Serres Peris",
+     "role": "Responsable de Recursos Humanos",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "name": "Ramiro Belles Albalat",
+     "role": "IT Project Manager",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    },
+    {
+     "name": "Monica Benedicto Formenti",
+     "role": "Product Manager",
+     "contact": "finalscout 谱",
+     "status": "leads-only·待 opt-in(LinkedIn/谱面带核)",
+     "source": "https://finalscout.com/company/infortisa"
+    }
+   ],
+   "unknowns": [
+    "硬件采购线在职者(波次二)",
+    "MikroTik 谱面份额"
+   ],
+   "email_subject": "PoE switching for your line",
+   "email": "Hola Belén,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?\n\nBest regards,\nSaga Networks Export Desk"
+  }
+ ]
+}

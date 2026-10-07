@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `0a5478ce086c` | 2026-10-07T16:35:01+00:00 | R66 第 11 波:Profcon/Microstar/Titan 三户具名 KP(瑞登记册+美官方公告金谱)+VELOCIgroup 守档+总账 |
 | `c1bc3595a100` | 2026-10-07T16:31:25+00:00 | KP 全覆盖核:退信 watch(A-441 dipole)+merge_kp 并集防吞名+A74/B93 户 0 缺名分标 0 错+总账 |
 | `0921cfa70baa` | 2026-10-07T16:19:46+00:00 | R66 第 10 波:Aikom/Direktronik/AGL 三户具名 KP+CSI 排噪守档+总账 |
 | `da33c30d359f` | 2026-10-07T16:15:17+00:00 | R66 第 9 波:Esotec/Roadtech/Senseco/Griffon 四户具名 KP(英 CH 军官名件+美谱)+总账 |

@@ -9844,6 +9844,136 @@
     ]
   },
   {
+    "url": "https://finalscout.com/company/infortisa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L461"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L486"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L575"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L582"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L589"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L603"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L610"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L617"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
+    "url": "https://finalscout.com/company/infortisa'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L88"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L89"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L90"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L92"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L93"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L94"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
+    "url": "https://finalscout.com/company/infortisa〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://find-and-update.company-information.service.gov.uk",
     "http_checked": false,
     "occurrences": [
@@ -12874,6 +13004,72 @@
       {
         "path": "scripts/R65_第16批精修落盘.py",
         "locator": "L62"
+      }
+    ]
+  },
+  {
+    "url": "https://guiacanaltic.channelpartner.es/infortisa/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L456"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L480"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L568"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L596"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://guiacanaltic.channelpartner.es/infortisa/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L87"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L91"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://guiacanaltic.channelpartner.es/infortisa/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L82"
       }
     ]
   },
@@ -28102,6 +28298,38 @@
     ]
   },
   {
+    "url": "https://pitchbook.com/profiles/company/159696-28",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L149"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L178"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L196"
+      },
+      {
+        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
+        "locator": "L118"
+      }
+    ]
+  },
+  {
+    "url": "https://pitchbook.com/profiles/company/159696-28'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L64"
+      }
+    ]
+  },
+  {
     "url": "https://pixelnetwork.rs",
     "http_checked": false,
     "occurrences": [
@@ -31510,12 +31738,42 @@
         "locator": "L47"
       },
       {
-        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
-        "locator": "L132"
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L65"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L71"
       },
       {
         "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
-        "locator": "L135"
+        "locator": "L126"
+      },
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://securenet.is/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L55"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L56"
       }
     ]
   },
@@ -31546,8 +31804,52 @@
         "locator": "L29"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L12"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L59"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L133"
+      },
+      {
         "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
-        "locator": "L126"
+        "locator": "L80"
+      },
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
+        "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://securenet.is/about-us/our-founder-and-us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L53"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L54"
+      }
+    ]
+  },
+  {
+    "url": "https://securenet.is/about-us/our-founder-and-us/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
+        "locator": "L74"
       }
     ]
   },
@@ -42934,6 +43236,92 @@
     ]
   },
   {
+    "url": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L278"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L307"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L312"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L325"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L331"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L399"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L406"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L74"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L75"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L76"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
     "url": "https://www.brevi.it/",
     "http_checked": false,
     "occurrences": [
@@ -43124,8 +43512,20 @@
         "locator": "L163"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L188"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L208"
+      },
+      {
         "path": "profile/A/A-047-CSI S.A-波兰.md",
         "locator": "L158"
+      },
+      {
+        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
+        "locator": "L124"
       }
     ]
   },
@@ -43133,6 +43533,10 @@
     "url": "https://www.businessregistry.gr/'",
     "http_checked": false,
     "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L66"
+      },
       {
         "path": "scripts/R66_R56_KP第10波落盘.py",
         "locator": "L60"
@@ -43598,10 +44002,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第5批.json",
         "locator": "L35"
-      },
-      {
-        "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
-        "locator": "L129"
       }
     ]
   },
@@ -44092,6 +44492,34 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-945/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L466"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L492"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L152"
+      }
+    ]
+  },
+  {
+    "url": "https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L98"
       }
     ]
   },
@@ -50390,6 +50818,76 @@
     ]
   },
   {
+    "url": "https://www.einforma.com/informacion-empresa/infortisa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L422"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L451"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L474"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L554"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L561"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://www.einforma.com/informacion-empresa/infortisa'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L85"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L86"
+      },
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "https://www.einforma.com/informacion-empresa/infortisa〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/B/B-469-Infortisa-西班牙.md",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
     "url": "https://www.elko.ee/",
     "http_checked": false,
     "occurrences": [
@@ -50944,12 +51442,26 @@
         "locator": "L567"
       },
       {
-        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
-        "locator": "L111"
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L183"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L202"
       },
       {
         "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
-        "locator": "L114"
+        "locator": "L121"
+      }
+    ]
+  },
+  {
+    "url": "https://www.epicos.com/company/10012/marac-electronics-sa'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L65"
       }
     ]
   },
@@ -56320,10 +56832,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L496"
-      },
-      {
-        "path": "profile/B/B-469-Infortisa-西班牙.md",
-        "locator": "L134"
       }
     ]
   },
@@ -56342,10 +56850,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L484"
-      },
-      {
-        "path": "profile/B/B-469-Infortisa-西班牙.md",
-        "locator": "L128"
       }
     ]
   },
@@ -56356,10 +56860,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L502"
-      },
-      {
-        "path": "profile/B/B-469-Infortisa-西班牙.md",
-        "locator": "L137"
       }
     ]
   },
@@ -67782,10 +68282,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第5批.json",
         "locator": "L579"
-      },
-      {
-        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
-        "locator": "L120"
       }
     ]
   },
@@ -67806,10 +68302,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第5批.json",
         "locator": "L573"
-      },
-      {
-        "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
-        "locator": "L117"
       }
     ]
   },
@@ -67942,10 +68434,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L490"
-      },
-      {
-        "path": "profile/B/B-469-Infortisa-西班牙.md",
-        "locator": "L131"
       }
     ]
   },
@@ -76254,10 +76742,6 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第16批.json",
         "locator": "L203"
-      },
-      {
-        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L128"
       }
     ]
   },
@@ -76268,6 +76752,34 @@
       {
         "path": "scripts/R65_第16批精修落盘.py",
         "locator": "L49"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sanuksystems.com/contact/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+        "locator": "L337"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sanuksystems.com/contact/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_B_KP波1落盘.py",
+        "locator": "L78"
       }
     ]
   },

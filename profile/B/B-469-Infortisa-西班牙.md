@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayoris…
+- **是谁**：INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,13 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayorista 龙头——MikroTik/Ubiquiti 等多品牌 official majorista 自曝**(谱本体站 fabricante/ | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**; | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
-
-
-**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
-
-- 【事实】Infortisa S.L.(Valencia Alfara del Patriarca C/ del Pozo 1;1986 创;9000+ 客户、9000+ SKU;**唯一拥有三个自牌(iggual/X-One/Onaji)的西班牙批发商**;ISO 27001;Global Pro 专业事业部;98% 半岛 24h 送达、瓦伦西亚/穆尔西亚当日;Grupo Infortisa 旗下 Ylos 电商平台;网络谱=TP-Link/D-Link/Ubiquiti/Synology/ZyXEL/QNAP/Aruba/Edimax/MikroTik/Grandstream;IP 电话 Fanvil/Yealink 随单) | R65 深挖:Valencia majorista 巨口;self-staged official
-- 【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
-- 【假设】开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
+(待谱面二补)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +63,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006
 
 ## 联系方式（已有/猜测分标）
 
@@ -79,62 +72,84 @@ updated: 2026-10-07
 - **电话**：961 309 006
 - **原始联系字段**：961 309 006 / ventas@infortisa.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Miguel Ángel M…**(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二))— einforma 登记册谱(名截断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.einforma.com/informacion-empresa/infortisa〕
+  - **Andrés Pastor**(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG))— einforma 登记册谱+RocketReach 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.einforma.com/informacion-empresa/infortisa〕
+  - **Juan José Contell Garcia**((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**))— channelpartner 名录件+直邮 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://guiacanaltic.channelpartner.es/infortisa/〕
+  - **Belén Lasheras Gracia**(Departamento de Compras(采购部 KPI 天位))— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
+  - **Juan José Alfonso**(Director Logística(物流总监))— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
+  - **Fernando López Bonafont**(Director InfortisaLABS(服务臂总监))— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
+  - **Raquel Inglés**(Responsable de Marketing(市场负责))— channelpartner guía 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://guiacanaltic.channelpartner.es/infortisa/〕
+  - **María Amparo Serres Peris**(Responsable de Recursos Humanos)— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
+  - **Ramiro Belles Albalat**(IT Project Manager)— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
+  - **Monica Benedicto Formenti**(Product Manager)— finalscout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://finalscout.com/company/infortisa〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Miguel Ángel M… | Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二) | einforma 登记册谱(名截断) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.einforma.com/informacion-empresa/infortisa |
+| Andrés Pastor | Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG) | einforma 登记册谱+RocketReach 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.einforma.com/informacion-empresa/infortisa |
+| Juan José Contell Garcia | (原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**) | channelpartner 名录件+直邮 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://guiacanaltic.channelpartner.es/infortisa/ |
+| Belén Lasheras Gracia | Departamento de Compras(采购部 KPI 天位) | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
+| Juan José Alfonso | Director Logística(物流总监) | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
+| Fernando López Bonafont | Director InfortisaLABS(服务臂总监) | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
+| Raquel Inglés | Responsable de Marketing(市场负责) | channelpartner guía 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://guiacanaltic.channelpartner.es/infortisa/ |
+| María Amparo Serres Peris | Responsable de Recursos Humanos | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
+| Ramiro Belles Albalat | IT Project Manager | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
+| Monica Benedicto Formenti | Product Manager | finalscout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://finalscout.com/company/infortisa |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 双案提案页(架位 vs iggual OEM)
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
-- **要问的问题**：iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · ventas@infortisa.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
-- **要问的问题**：iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度双案:A=value 24 口 PoE 架位;B=**iggual 自牌 PoE OEM 延伸**(其自牌谱至今以配件为主,PoE 交换未入)——以 OEM 提案把『第四个自牌类目』送上门
-- **要问的问题**：iggual 自牌谱会不会延到 PoE 交换?还是先以第三方 value 档补架?两种我们都开。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：谱链明智途径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波1.json`；价格均为 EXW 快照。
 
-- **背景深描**：Infortisa S.L.(C/ del Pozo 1, 46115 Alfara del Patriarca, Valencia;+34 961 309 006;**谱型=Valencia IT/技术 mayorista 龙头——MikroTik/Ubiquiti 等多品牌 official majorista 自曝**(谱本体站 fabricante/mikrotik 栏:「distribuidor oficial y mayorista para comprar al por mayor」)
-- **芯片与在用型号**：【推断】自牌×3(iggual 为配件主线)=自牌运营成熟;批发巨头体量+IP 电话/监控随单谱=PoE 随单天然;Aruba 与 Edimax 之间 value 档或已挤,但 24 口 280W 管理型甜点仍稀缺
-- **关键人KP**：—(S.L. administrador registre mercantil Valencia 收费墙；R65 谱位+地址件已足）
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggual OEM PoE 延伸(第四自牌类目) / T:自牌谱优先于外来牌
-- **Saga产品适配**：批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)
+- **背景深描**：INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006
+- **芯片与在用型号**：(待谱面二补)
+- **关键人KP**：**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **关注点与资质**：西班牙一线分销+自有牌 iggual
+- **优缺点SWOT**：S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱
+- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):西班牙 ICT 分销一线(自有牌+服务臂);管理人 2025 换任;BORME 全名波次二点名(opt-in 律)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji
-  > es el único mayorista que cuenta con tres marcas propias: iggual, X-One y Onaji
-  > 来源：https://www.infortisa.com/contenido/departamentos/
-- **【R57备护深挖证据】**fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas
-  > fundada en 1.986…catálogo de productos de más de 9.000 referencias…98% de las entregas en 24 horas
-  > 来源：https://www.mayoristas.net/post/nuestros-productos-mayorista-de-informatica-y-tecnologia-infortisa/
-- **【R57备护深挖证据】**distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstre
-  > distribuidores de fabricantes de referencia como TP-Link, D-Link, Ubiquiti, SYNOLOGY, ZyXEL, QNAP, ASUS, Aruba, Edimax, Mikrotik o Grandstream
-  > 来源：https://www.infortisa.com/canal/redes/
-- **【R65 谱/地址】**Infortisa S.L. Alfara del Patriarca(Valencia)· 961 309006 · MikroTik mayorista 自曝
-  > In Infortisa, mayorista, proveedor y distribuidor oficial … INFORTISA Mayorista de informática y tecnología Infortisa, S.L.,(+34) 961 309 006, C/ del Pozo, 1, 46115 Alfara del Patriarca, Valencia
-  > 来源：https://www.infortisa.com/fabricante/mikrotik/
+- **【决策链与对接人】**Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)
+  > Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)
+  > 来源：https://www.einforma.com/informacion-empresa/infortisa
+- **【决策链与对接人】**CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)
+  > CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)
+  > 来源：https://guiacanaltic.channelpartner.es/infortisa/
+- **【团队与规模】**Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)
+  > Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)
+  > 来源：https://finalscout.com/company/infortisa
+- **【业务定位】**mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421
+  > mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421
+  > 来源：https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +162,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggual OEM PoE 延伸(第四自牌类目) / T:自牌谱优先于外来牌
+S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱
 
 ## 触达与风险红线
 
@@ -166,7 +181,7 @@ S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggu
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -175,8 +190,8 @@ S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggu
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] iggual 自牌是否计划延到网络硬件/PoE
-  - [ ] Global Pro 谱 PoE 档现供价位
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +200,15 @@ S:1986 巨头+三自牌+ISO 27001+24h 物流 / W:谱大牌挤 value 档 / O:iggu
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Infortisa team,
+Hola Belén,
 
-The only Spanish wholesaler running three own brands (iggual, X-One, Onaji) with ISO 27001 and same-day delivery across Valencia and Murcia - you already think like a brand owner, not just a box mover.
-
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29). Two ways to place it: as the value PoE tier on your Global Pro shelf, or as an iggual-branded OEM line extending your own-label catalog into network hardware.
-
-One question: does the iggual roadmap include PoE switching - or would you rather test it first as a third-party value tier?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

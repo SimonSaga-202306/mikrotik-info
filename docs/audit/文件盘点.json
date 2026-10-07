@@ -1467,7 +1467,7 @@
       "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
       "sha256": "761efea14d15f83d65d855565d3b383b46a9bf81e6cbd0f341d9ea6df7a50cc6",
       "bytes": 30458,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 519,
       "unique_url_count": 13,
       "inspection": {},
@@ -2110,6 +2110,16 @@
       "tracked_at_scan": true,
       "units_scanned": 575,
       "unique_url_count": 12,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
+      "sha256": "516a559192a5992caff280cf96e84f5176e1b17e319433d4d83fde390e28ca8d",
+      "bytes": 42752,
+      "tracked_at_scan": false,
+      "units_scanned": 628,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -2805,10 +2815,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "c831e80f64d7f99ba98af2b13d91f527980b90431aa4954998b187abf0359aa0",
-      "bytes": 152834,
+      "sha256": "5f197dbed54459940a25bf9f9a83a71c194e3d4143930452fe2ca31852e4b395",
+      "bytes": 153966,
       "tracked_at_scan": true,
-      "units_scanned": 1291,
+      "units_scanned": 1298,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -8915,10 +8925,10 @@
     },
     {
       "path": "profile/B/B-058-Öruggt Net ehf（Secure Net）-冰岛.md",
-      "sha256": "7c9bfaaef978fa823d0e9a2342b02995531c6f13f5c3319f1d3b1c3c16727c64",
-      "bytes": 13727,
+      "sha256": "3c811e263069cfec16d9c408a942469eb109b5eaac12a6b462a97ecffb9df65f",
+      "bytes": 11599,
       "tracked_at_scan": true,
-      "units_scanned": 220,
+      "units_scanned": 208,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9145,10 +9155,10 @@
     },
     {
       "path": "profile/B/B-129-MARAC Electronics S.A-希腊.md",
-      "sha256": "1ba5854042d2d6ef913b55b34082a864593d92268cee81d0a61041c4571522f9",
-      "bytes": 12118,
+      "sha256": "679b4676473d49a3a1abb11698cf1763898c301f46dfdc6698a2746f4a2927b4",
+      "bytes": 11022,
       "tracked_at_scan": true,
-      "units_scanned": 205,
+      "units_scanned": 203,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9655,11 +9665,11 @@
     },
     {
       "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-      "sha256": "4eae2e08780ef627e766b2fcc3b94ff79b9c84b162252c79d7a2a49e16358040",
-      "bytes": 11467,
+      "sha256": "ed0a10c65911d0a6ba148885d9edc2e4d753295ef54995c42d07634a3a0811b9",
+      "bytes": 12256,
       "tracked_at_scan": true,
-      "units_scanned": 211,
-      "unique_url_count": 1,
+      "units_scanned": 209,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
@@ -10085,11 +10095,11 @@
     },
     {
       "path": "profile/B/B-469-Infortisa-西班牙.md",
-      "sha256": "4ada2fb900388efc269d2e810a7075597019bfb642092f3527b47a2309135a5f",
-      "bytes": 14375,
+      "sha256": "485cb1850503994a72d75af3cc822a26438d272e5349cb382de1c2722ff391da",
+      "bytes": 18152,
       "tracked_at_scan": true,
-      "units_scanned": 222,
-      "unique_url_count": 4,
+      "units_scanned": 231,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -13544,6 +13554,16 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_B_KP波1落盘.py",
+      "sha256": "cf9923c819b150141106693efb3a6aea7626055ed4d298644163ed9838d61c5c",
+      "bytes": 13082,
+      "tracked_at_scan": false,
+      "units_scanned": 108,
+      "unique_url_count": 11,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_KP第1波落盘.py",
       "sha256": "00163584702aeddb22e4b6ee5fba7ff036a3f8e2d7086692e05ddab5a2e83f25",
       "bytes": 25522,
@@ -13577,7 +13597,7 @@
       "path": "scripts/R66_R56_KP第11波落盘.py",
       "sha256": "fb6b99f61b3e327ef6c6ddb05ed168450224e4a29d50a734f961d9b170d85d6a",
       "bytes": 12081,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 104,
       "unique_url_count": 13,
       "inspection": {},
@@ -13745,10 +13765,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "809e43970009fbbc34e4325242b43a85812b80c8a49d856fe5b19b8937fcc476",
-      "bytes": 38321,
+      "sha256": "8b197ce12d081c048c6709c7707c1a5f0bac59bc444b449de8e9fb7d0929d9f0",
+      "bytes": 38373,
       "tracked_at_scan": true,
-      "units_scanned": 795,
+      "units_scanned": 796,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
