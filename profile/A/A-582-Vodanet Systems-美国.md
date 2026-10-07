@@ -270,3 +270,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `aslan@vodanetsystems.com`(last@(vodanetsystems.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Ihsan Aslan(Purchase Manager)
+**通道**:ihsan.aslan@vodanetsystems.com(候选系)
+
+**主题**:A value-tier 24-port PoE switch for Vodanet NJ warehouse
+
+```text
+Hi Ihsan,
+
+Vodanet's 25-brand line-up - Juniper, HPE Aruba, Fortinet, MikroTik, Teltonika - has one obvious value gap: 24-port managed PoE with real 10G uplinks at import-friendly cost.
+
+We build exactly that: 24 Gigabit PoE+ ports, 280W budget, 4x10G SFP+, ERPS ring <20ms, hardware PoE watchdog. Neutral packing, your label if wanted. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: what currently fills that slot in your New Jersey warehouse stock - and can I send one unit for a 30-day evaluation?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

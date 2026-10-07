@@ -114,3 +114,22 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:ACME Grupė 母;300+ 品牌 28 年
+**域 MX**:{"accdistribution.eu": ["accdistribution-eu.mail.protection.outlook.com"]}
+- **Žymantas Baušys** — Direktorius(2017 至今,前财务总监)（源:https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085）
+  - `zymantas@accdistribution.eu`(first@(accdistribution.eu))
+  - `zymantas.bausys@accdistribution.eu`(first.last@(accdistribution.eu))
+  - `z.bausys@accdistribution.eu`(f.last@(accdistribution.eu))
+  - `zymantasbausys@accdistribution.eu`(firstlast@(accdistribution.eu))
+  - `zbausys@accdistribution.eu`(flast@(accdistribution.eu))
+  - `bausys@accdistribution.eu`(last@(accdistribution.eu))
+- **Regimantas Buožius** — 董事长(1998 创始人,现战略面)（源:https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu）
+  - `regimantas@accdistribution.eu`(first@(accdistribution.eu))
+  - `regimantas.buozius@accdistribution.eu`(first.last@(accdistribution.eu))
+  - `r.buozius@accdistribution.eu`(f.last@(accdistribution.eu))
+  - `regimantasbuozius@accdistribution.eu`(firstlast@(accdistribution.eu))
+  - `rbuozius@accdistribution.eu`(flast@(accdistribution.eu))
+  - `buozius@accdistribution.eu`(last@(accdistribution.eu))

@@ -239,3 +239,25 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 - **Piotr Poniatowski** — 本人=业主(R57 已落 piotr@poniatowski.pl)（源:https://mbum.pl/index.php）
 
 **备注**:邮箱已有,本轮只复核 MX
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Piotr Poniatowski(本人=业主/顾问)
+**通道**:piotr@poniatowski.pl(已有,official)
+
+**主题**:Hardware worth showing to Poland's biggest MikroTik group
+
+```text
+Hi Piotr,
+
+Founder of the largest Polish MikroTik group, MBUM speaker, MTCSWE holder - you see every switch that enters the Polish MikroTik world.
+
+We manufacture documented PoE switches (24-port PoE+ 280W, 4x10G, ERPS<20ms; also 8-port models) for OEM/white-label programs - neutral packing, your model numbers.
+
+One question: which PoE switches do you currently point group members and clients to for enterprise builds - and would an engineering evaluation unit interest you personally?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

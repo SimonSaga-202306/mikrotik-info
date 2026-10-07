@@ -1,0 +1,465 @@
+{
+ "date": "2026-10-07",
+ "round": "R64",
+ "scope": "A 类 KP 猎捕第 2 波:25 双缺口户全扫 + A-571/A-578 补漏;web_search 公开源+排列组合+MX",
+ "records": [
+  {
+   "code": "A-272",
+   "note": "Alexandr Mensenin(捷克):web_search 两轮无有效命中 → 待定,建议 MikroTik 官名录直查或 Apollo 导出",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-289",
+   "note": "Dan Parrish(美国):同名噪音大未锁定;渠道参考 IP ArchiTechs(Kevin Myers kevin.myers@iparchitechs.com,(303)590-9943)为北美头部 MikroTik 咨询所,亦为其圈层节点 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-290",
+   "note": "contactout 有号/邮(付费墙);先采排列组合候选",
+   "persons": [
+    {
+     "name": "Chris Schiessl",
+     "role": "本人确认:Border States Sr.IT Network Engineer(Fargo ND),前 SRT Communications 网络运维;MTC 顾问本人",
+     "source": "https://contactout.com/Chris-Schiessl-16784439",
+     "email_candidates": {
+      "first@(borderstates.com)": "chris@borderstates.com",
+      "first.last@(borderstates.com)": "chris.schiessl@borderstates.com",
+      "f.last@(borderstates.com)": "c.schiessl@borderstates.com",
+      "firstlast@(borderstates.com)": "chrisschiessl@borderstates.com",
+      "flast@(borderstates.com)": "cschiessl@borderstates.com",
+      "last@(borderstates.com)": "schiessl@borderstates.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "borderstates.com": [
+     "borderstates-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-293",
+   "note": "Hector Prado 本人确认:Mikro-Help,Greater Richmond VA,MTCRE 2022;LinkedIn /in/hector-prado-98896aa4 直通;自有邮箱未公开 → 邮箱待定,LinkedIn 触达",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-094",
+   "note": "VELOCIgroup ApS(Roskilde,Jernbanegade 23B c/o Businesshouse):仅 Yelp 命中,KP 待定;建议丹麦 CVR 公开登记(cvr.dk)用户侧查一次",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-279",
+   "note": "wlanparts(美国):搜索噪音重,KP 待定;建议 Apollo/ContactOut 导出",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-281",
+   "note": "UNIFYING SOLUTION(美国):Ohio 同名 coaching 公司干扰,KP 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-316",
+   "note": "Davis Ulmer Family(Amherst NY,消防家族三代,2005 并入 APi Group,201-500 员工):Steve Ulmer(President→APi SVP)、Michael Shibrowski(President/VP) — 对口=IT/弱电采购,决策链偏长;邮箱候选层 davisulmer.com",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-119",
+   "note": "Hudson Valley MSP:8204 Homestead Ave Maybrook NY,(845)565-1174/(845)561-4440,1989 创立",
+   "persons": [
+    {
+     "name": "Irv Cuevas",
+     "role": "CEO / D&B Key Principal",
+     "source": "https://www.signalhire.com/companies/itc-communications",
+     "email_candidates": {
+      "first@(itc-technologies.com)": "irv@itc-technologies.com",
+      "first.last@(itc-technologies.com)": "irv.cuevas@itc-technologies.com",
+      "f.last@(itc-technologies.com)": "i.cuevas@itc-technologies.com",
+      "firstlast@(itc-technologies.com)": "irvcuevas@itc-technologies.com",
+      "flast@(itc-technologies.com)": "icuevas@itc-technologies.com",
+      "last@(itc-technologies.com)": "cuevas@itc-technologies.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Jason Trujillo",
+     "role": "员工(signalhire 名录)",
+     "source": "https://www.signalhire.com/companies/itc-technologies",
+     "email_candidates": {
+      "first@(itc-technologies.com)": "jason@itc-technologies.com",
+      "first.last@(itc-technologies.com)": "jason.trujillo@itc-technologies.com",
+      "f.last@(itc-technologies.com)": "j.trujillo@itc-technologies.com",
+      "firstlast@(itc-technologies.com)": "jasontrujillo@itc-technologies.com",
+      "flast@(itc-technologies.com)": "jtrujillo@itc-technologies.com",
+      "last@(itc-technologies.com)": "trujillo@itc-technologies.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "itc-technologies.com": [
+     "itctechnologies-com0i.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-295",
+   "note": "Matthew Phillip Main(英国):LinkedIn 仅 Fifty5Blue 产品经理同名,无 MikroTik 关联确认 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-284",
+   "note": "Kevin Riding 本人确认:DFDS IT Security Analyst,MTCINE2022(2210INE3261);领英 /in/kevinriding/ 直通 → 邮箱待定,LinkedIn 触达",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-296",
+   "note": "Frederic Gauthier(加拿大):同名三位(魁北克机电咨询/蒙特利尔 Walter Surface),未锁定 MikroTik 关联 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-297",
+   "note": "Johannes Edgren 本人确认:Kirjavälitys Oy 软件工程师(FI),MTCRE 2023(2307RE7822);领英 /in/nugge/ → 邮箱待定,LinkedIn/GitHub 触达",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-298",
+   "note": "Luca Martinelli(意大利):意大利常见名,搜索三命中均非 MikroTik 关联 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-249",
+   "note": "MUM 课件自曝:flaviocamacho95@gmail.com / +55 21 96978-4675 / skype flaviocamacho95_1;**国别口径修正:巴西(非葡萄牙)**,TELECALL/Vipnet/COMTXAI 谱",
+   "persons": [
+    {
+     "name": "Flavio Camacho",
+     "role": "本人:Trainer Oficial Mikrotik(Rio de Janeiro),MUM 2019BR 讲者,7 证含 MTCINE/MTCSE",
+     "source": "https://mum.mikrotik.com/presentations/BR19/presentation_7025_1575286648.pdf",
+     "email": "flaviocamacho95@gmail.com",
+     "email_state": "official-self-published(MUM 课件自曝)"
+    }
+   ],
+   "mx": {}
+  },
+  {
+   "code": "A-091",
+   "note": "MUM 课件自曝:gyenese.laszlo@digisoftnet.hu 与 info@mikrotikgyor.hu,+36 20 993-7980;digisoftnet.hu 自有谱",
+   "persons": [
+    {
+     "name": "Laszlo Gyenese",
+     "role": "本人:MikroTik Trainer+Academy Trainer,Öttevény,匈牙利本国头部培训家",
+     "source": "https://www.mikrotikgyor.hu/download/netbasic.pdf",
+     "email": "gyenese.laszlo@digisoftnet.hu",
+     "email_state": "official-self-published(MUM 课件自曝)"
+    }
+   ],
+   "mx": {}
+  },
+  {
+   "code": "A-080",
+   "note": "fibercli 为西班牙 MikroTik 培训/咨询社(Fibercli.com);候选 carlos@fibercli.com 系",
+   "persons": [
+    {
+     "name": "Carlos Cardenas Cebrian",
+     "role": "本人:FiberCli 团队(MUM Valencia 2018 讲者,IPv6 专题),Jerez/安达卢西亚",
+     "source": "https://mum.mikrotik.com/presentations/ES18/presentation_5813_1539084300.pdf",
+     "email_candidates": {
+      "first@(fibercli.com)": "carlos@fibercli.com",
+      "first.last@(fibercli.com)": "carlos.cardenas cebrian@fibercli.com",
+      "f.last@(fibercli.com)": "c.cardenas cebrian@fibercli.com",
+      "firstlast@(fibercli.com)": "carloscardenas cebrian@fibercli.com",
+      "flast@(fibercli.com)": "ccardenas cebrian@fibercli.com",
+      "last@(fibercli.com)": "cardenas cebrian@fibercli.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "fibercli.com": [
+     "alt1.aspmx.l.google.com",
+     "alt2.aspmx.l.google.com",
+     "aspmx.l.google.com",
+     "aspmx2.googlemail.com",
+     "aspmx3.googlemail.com"
+    ]
+   }
+  },
+  {
+   "code": "A-378",
+   "note": "David Blažević(克罗地亚):命中为 Rijeka 大学机械工程教授(Scandit,能量采集),同名干扰 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-098",
+   "note": "wavonline.com 现职谱;balticnetworks.com 旧业谱两个域候选都生成",
+   "persons": [
+    {
+     "name": "Brian Vargyas",
+     "role": "本人:Baltic Networks USA 原东主,MikroTik Certified Trainer(MUM US10/US15 讲者),现 WAV 内部 MikroTik 专家",
+     "source": "https://mum.mikrotik.com/presentations/US10/Brian.pdf",
+     "email_candidates": {
+      "first@(wavonline.com)": "brian@wavonline.com",
+      "first.last@(wavonline.com)": "brian.vargyas@wavonline.com",
+      "f.last@(wavonline.com)": "b.vargyas@wavonline.com",
+      "firstlast@(wavonline.com)": "brianvargyas@wavonline.com",
+      "flast@(wavonline.com)": "bvargyas@wavonline.com",
+      "last@(wavonline.com)": "vargyas@wavonline.com",
+      "first@(balticnetworks.com)": "brian@balticnetworks.com",
+      "first.last@(balticnetworks.com)": "brian.vargyas@balticnetworks.com",
+      "f.last@(balticnetworks.com)": "b.vargyas@balticnetworks.com",
+      "firstlast@(balticnetworks.com)": "brianvargyas@balticnetworks.com",
+      "flast@(balticnetworks.com)": "bvargyas@balticnetworks.com",
+      "last@(balticnetworks.com)": "vargyas@balticnetworks.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "wavonline.com": [
+     "mx1-us1.ppe-hosted.com",
+     "mx2-us1.ppe-hosted.com"
+    ],
+    "balticnetworks.com": [
+     "balticnetworks-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "A-099",
+   "note": "MSI Works Ltd(英国,SIC 62090 IT 服务,2024-04 注册,3rd Floor 86-90 Paul St London EC2A 4NE):**David James Salisbury(Managing Director,2024-12-30 任)**、John Robert Dente(董事,1962-10 生)、John Paul Hubbard(董事) — Companies House 04609481 类官方源",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-111",
+   "note": "Hungerford Berkshire;Company No 04609481;另有 Elizabeth Waterhouse 资深客户经理",
+   "persons": [
+    {
+     "name": "Eddie Hing",
+     "role": "MD and Founder(COVID 公开信署名+contactout)",
+     "source": "https://www.universalnetworks.co.uk/we-are-here-to-help-you/",
+     "email_candidates": {
+      "first@(universalnetworks.co.uk)": "eddie@universalnetworks.co.uk",
+      "first.last@(universalnetworks.co.uk)": "eddie.hing@universalnetworks.co.uk",
+      "f.last@(universalnetworks.co.uk)": "e.hing@universalnetworks.co.uk",
+      "firstlast@(universalnetworks.co.uk)": "eddiehing@universalnetworks.co.uk",
+      "flast@(universalnetworks.co.uk)": "ehing@universalnetworks.co.uk",
+      "last@(universalnetworks.co.uk)": "hing@universalnetworks.co.uk"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Kev Begbie",
+     "role": "Technical Manager",
+     "source": "https://contactout.com/company/Universal-Networks-UK-Ltd-25477",
+     "email_candidates": {
+      "first@(universalnetworks.co.uk)": "kev@universalnetworks.co.uk",
+      "first.last@(universalnetworks.co.uk)": "kev.begbie@universalnetworks.co.uk",
+      "f.last@(universalnetworks.co.uk)": "k.begbie@universalnetworks.co.uk",
+      "firstlast@(universalnetworks.co.uk)": "kevbegbie@universalnetworks.co.uk",
+      "flast@(universalnetworks.co.uk)": "kbegbie@universalnetworks.co.uk",
+      "last@(universalnetworks.co.uk)": "begbie@universalnetworks.co.uk"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "universalnetworks.co.uk": [
+     "mail.universalnetworks.com",
+     "mail2.universalnetworks.com",
+     "whitemail.nildram.co.uk"
+    ]
+   }
+  },
+  {
+   "code": "A-334",
+   "note": "CAMELI SAT 个体户:**Agnese Burgalassi 户主**(个体公司命名=业主),Castagneto Carducci (LI),P.IVA 01218330494,1997 注册,5 员工,电脑零售;**PEC 官方:burgalassiagnese@pec.it**(ufficiocamerale 公示);直柜 0565 号段",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-205",
+   "note": "Luca Masetto(意大利):LinkedIn Cargill Treviso 同名,非 MikroTik 关联 → 待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-212",
+   "note": "S.C.E Telecomunicazioni S.r.l(Pomezia RM,P.IVA 08399381006,批发电信设备,20 年 2 人):Amministratore Unico 名在 atoka 付费墙 → 待定;建议用户侧 atoka/cerved 免费注册取一次",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-568",
+   "note": "内部域提示:ruckus@purdi.com → 邮箱两域(purdicom.com / purdi.com)候选",
+   "persons": [
+    {
+     "name": "Hugh Garrod",
+     "role": "Managing Director(2013 至今,Selcoms 更名后掌舵)",
+     "source": "https://www.linkedin.com/in/hughgarrod/",
+     "email_candidates": {
+      "first@(purdicom.com)": "hugh@purdicom.com",
+      "first.last@(purdicom.com)": "hugh.garrod@purdicom.com",
+      "f.last@(purdicom.com)": "h.garrod@purdicom.com",
+      "firstlast@(purdicom.com)": "hughgarrod@purdicom.com",
+      "flast@(purdicom.com)": "hgarrod@purdicom.com",
+      "last@(purdicom.com)": "garrod@purdicom.com",
+      "first@(purdi.com)": "hugh@purdi.com",
+      "first.last@(purdi.com)": "hugh.garrod@purdi.com",
+      "f.last@(purdi.com)": "h.garrod@purdi.com",
+      "firstlast@(purdi.com)": "hughgarrod@purdi.com",
+      "flast@(purdi.com)": "hgarrod@purdi.com",
+      "last@(purdi.com)": "garrod@purdi.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Steve Kent",
+     "role": "Sales & Marketing Director",
+     "source": "https://www.linkedin.com/in/steve-kent-19b0113b/",
+     "email_candidates": {
+      "first@(purdicom.com)": "steve@purdicom.com",
+      "first.last@(purdicom.com)": "steve.kent@purdicom.com",
+      "f.last@(purdicom.com)": "s.kent@purdicom.com",
+      "firstlast@(purdicom.com)": "stevekent@purdicom.com",
+      "flast@(purdicom.com)": "skent@purdicom.com",
+      "last@(purdicom.com)": "kent@purdicom.com",
+      "first@(purdi.com)": "steve@purdi.com",
+      "first.last@(purdi.com)": "steve.kent@purdi.com",
+      "f.last@(purdi.com)": "s.kent@purdi.com",
+      "firstlast@(purdi.com)": "stevekent@purdi.com",
+      "flast@(purdi.com)": "skent@purdi.com",
+      "last@(purdi.com)": "kent@purdi.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Mark Banks",
+     "role": "Account Manager(2021 入职)",
+     "source": "https://www.linkedin.com/in/mark-ac-banks/",
+     "email_candidates": {
+      "first@(purdicom.com)": "mark@purdicom.com",
+      "first.last@(purdicom.com)": "mark.banks@purdicom.com",
+      "f.last@(purdicom.com)": "m.banks@purdicom.com",
+      "firstlast@(purdicom.com)": "markbanks@purdicom.com",
+      "flast@(purdicom.com)": "mbanks@purdicom.com",
+      "last@(purdicom.com)": "banks@purdicom.com",
+      "first@(purdi.com)": "mark@purdi.com",
+      "first.last@(purdi.com)": "mark.banks@purdi.com",
+      "f.last@(purdi.com)": "m.banks@purdi.com",
+      "firstlast@(purdi.com)": "markbanks@purdi.com",
+      "flast@(purdi.com)": "mbanks@purdi.com",
+      "last@(purdi.com)": "banks@purdi.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Ashley Edwards",
+     "role": "Technical Manager",
+     "source": "https://www.linkedin.com/company/purdicom",
+     "email_candidates": {
+      "first@(purdicom.com)": "ashley@purdicom.com",
+      "first.last@(purdicom.com)": "ashley.edwards@purdicom.com",
+      "f.last@(purdicom.com)": "a.edwards@purdicom.com",
+      "firstlast@(purdicom.com)": "ashleyedwards@purdicom.com",
+      "flast@(purdicom.com)": "aedwards@purdicom.com",
+      "last@(purdicom.com)": "edwards@purdicom.com",
+      "first@(purdi.com)": "ashley@purdi.com",
+      "first.last@(purdi.com)": "ashley.edwards@purdi.com",
+      "f.last@(purdi.com)": "a.edwards@purdi.com",
+      "firstlast@(purdi.com)": "ashleyedwards@purdi.com",
+      "flast@(purdi.com)": "aedwards@purdi.com",
+      "last@(purdi.com)": "edwards@purdi.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "purdicom.com": [
+     "eu-smtp-journal-1.mimecast.com",
+     "eu-smtp-journal-2.mimecast.com"
+    ],
+    "purdi.com": [
+     "eu-smtp-inbound-1.mimecast.com",
+     "eu-smtp-inbound-2.mimecast.com"
+    ]
+   }
+  },
+  {
+   "code": "A-571",
+   "note": "Triple Core 补漏第二轮:官网仅 support@ 与 [email protected] 占位;两条 WhatsApp 移动线(+970 59 498 1993 / +972 50 944 2228)可作 KP 直通渠道;人名仍待定",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "A-578",
+   "note": "9 员工;info@smart-network.ge;Andria Benashvili st.16 Tbilisi;RocketReach 确认 @takopi.ge 域",
+   "persons": [
+    {
+     "name": "Sergey Shapovalov",
+     "role": "Regional Manager @ Takopi Georgia(前 Treolan/LANIT 网络产品组长,2023 至今)",
+     "source": "https://rocketreach.co/sergey-shapovalov-email_840273986",
+     "email_candidates": {
+      "first@(takopi.ge)": "sergey@takopi.ge",
+      "first.last@(takopi.ge)": "sergey.shapovalov@takopi.ge",
+      "f.last@(takopi.ge)": "s.shapovalov@takopi.ge",
+      "firstlast@(takopi.ge)": "sergeyshapovalov@takopi.ge",
+      "flast@(takopi.ge)": "sshapovalov@takopi.ge",
+      "last@(takopi.ge)": "shapovalov@takopi.ge"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Vazgen Minasyan",
+     "role": "BDM",
+     "source": "https://rocketreach.co/takopi-georgia-takopi-jorjia-management_b682ebe2c9f7097b",
+     "email_candidates": {
+      "first@(takopi.ge)": "vazgen@takopi.ge",
+      "first.last@(takopi.ge)": "vazgen.minasyan@takopi.ge",
+      "f.last@(takopi.ge)": "v.minasyan@takopi.ge",
+      "firstlast@(takopi.ge)": "vazgenminasyan@takopi.ge",
+      "flast@(takopi.ge)": "vminasyan@takopi.ge",
+      "last@(takopi.ge)": "minasyan@takopi.ge"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Alexander Abramov",
+     "role": "BDM Aten/Netgear/Tiandy",
+     "source": "https://rocketreach.co/takopi-georgia-takopi-jorjia-profile_b682ebe2c9f7097b",
+     "email_candidates": {
+      "first@(takopi.ge)": "alexander@takopi.ge",
+      "first.last@(takopi.ge)": "alexander.abramov@takopi.ge",
+      "f.last@(takopi.ge)": "a.abramov@takopi.ge",
+      "firstlast@(takopi.ge)": "alexanderabramov@takopi.ge",
+      "flast@(takopi.ge)": "aabramov@takopi.ge",
+      "last@(takopi.ge)": "abramov@takopi.ge"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "takopi.ge": [
+     "alt1.aspmx.l.google.com",
+     "alt2.aspmx.l.google.com",
+     "alt3.aspmx.l.google.com",
+     "alt4.aspmx.l.google.com",
+     "aspmx.l.google.com"
+    ]
+   }
+  }
+ ]
+}

@@ -265,3 +265,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `wysoczanski@etree.de`(last@(etree.de);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:联合创始人 Peter Voigt(Crunchbase)
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Grazian Twonski(Founder & CEO)
+**通道**:grazian.twonski@etree.de / twonski@etree.de(候选系;总线 sales@etree.de)
+
+**主题**:A vendor line that actually moves: 24-port PoE+
+
+```text
+Hi Grazian,
+
+From a Cologne garage to 40,000 SKUs in fourteen years - you clearly only add lines that move.
+
+Ours is one product, not a catalogue: a 24-port Gigabit PoE+ managed switch, 280W budget, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - priced to sit under your MikroTik CRS and Ubiquiti alternatives.
+
+One question: who owns the 24-port PoE value tier on etree.de today - and is one documented sample worth a bench test to your team?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

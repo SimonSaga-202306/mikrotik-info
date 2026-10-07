@@ -117,3 +117,22 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:CVR 38306979,Fuglevangsvej 13 Frederiksberg C,7 员工 DKK 10M 毛利;挪威母公司 Nextron AS 更大体
+**域 MX**:{"nextron.dk": ["nextron-dk.mail.protection.outlook.com"]}
+- **Håkon Børstad Gutierrez** — Direktør(丹麦分部主任)（源:https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY）
+  - `hakon@nextron.dk`(first@(nextron.dk))
+  - `hakon.brstad gutierrez@nextron.dk`(first.last@(nextron.dk))
+  - `h.brstad gutierrez@nextron.dk`(f.last@(nextron.dk))
+  - `hakonbrstad gutierrez@nextron.dk`(firstlast@(nextron.dk))
+  - `hbrstad gutierrez@nextron.dk`(flast@(nextron.dk))
+  - `brstad gutierrez@nextron.dk`(last@(nextron.dk))
+- **Carl Henrik Sibbern** — Bestyrelsesformand(董事长)（源:同源）
+  - `carl henrik@nextron.dk`(first@(nextron.dk))
+  - `carl henrik.sibbern@nextron.dk`(first.last@(nextron.dk))
+  - `c.sibbern@nextron.dk`(f.last@(nextron.dk))
+  - `carl henriksibbern@nextron.dk`(firstlast@(nextron.dk))
+  - `csibbern@nextron.dk`(flast@(nextron.dk))
+  - `sibbern@nextron.dk`(last@(nextron.dk))

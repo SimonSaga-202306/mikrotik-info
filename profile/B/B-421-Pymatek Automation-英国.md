@@ -115,3 +115,29 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Rugeley Staffordshire,3 人,engineering activities;主域 pymatek.com(非 .co.uk) MX outlook 存活;Kimberly Pinillos Gerente General
+**域 MX**:{"pymatek.com": ["pymatek-com.mail.protection.outlook.com"]}
+- **Ybet Sánchez Vargas de Pattison** — Director(2014 至今,唯一登记董事)（源:https://www.companiesintheuk.co.uk/ltd/pymatek-automation）
+  - `ybet@pymatek.com`(first@(pymatek.com))
+  - `ybet.sanchez vargas de pattison@pymatek.com`(first.last@(pymatek.com))
+  - `y.sanchez vargas de pattison@pymatek.com`(f.last@(pymatek.com))
+  - `ybetsanchez vargas de pattison@pymatek.com`(firstlast@(pymatek.com))
+  - `ysanchez vargas de pattison@pymatek.com`(flast@(pymatek.com))
+  - `sanchez vargas de pattison@pymatek.com`(last@(pymatek.com))
+- **Martin Pattison** — Sales Manager（源:https://uk.globaldatabase.com/company/pymatek-automation-ltd）
+  - `martin@pymatek.com`(first@(pymatek.com))
+  - `martin.pattison@pymatek.com`(first.last@(pymatek.com))
+  - `m.pattison@pymatek.com`(f.last@(pymatek.com))
+  - `martinpattison@pymatek.com`(firstlast@(pymatek.com))
+  - `mpattison@pymatek.com`(flast@(pymatek.com))
+  - `pattison@pymatek.com`(last@(pymatek.com))
+- **Franco Sanchez** — Jefe De Ventas（源:同 GlobalDatabase 源）
+  - `franco@pymatek.com`(first@(pymatek.com))
+  - `franco.sanchez@pymatek.com`(first.last@(pymatek.com))
+  - `f.sanchez@pymatek.com`(f.last@(pymatek.com))
+  - `francosanchez@pymatek.com`(firstlast@(pymatek.com))
+  - `fsanchez@pymatek.com`(flast@(pymatek.com))
+  - `sanchez@pymatek.com`(last@(pymatek.com))

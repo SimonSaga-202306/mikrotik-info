@@ -264,3 +264,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `higgins@allness.it`(last@(allness.it);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:Kidderminster;WISP 运营 2009 起
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Barry Higgins(本人=业主/Trainer)
+**通道**:barry@allness.net(候选系;官网表单备份)
+
+**主题**:A documented PoE switch for your training benches
+
+```text
+Hi Barry,
+
+Ten years running a WISP, training MTCNA through MTCEWE at Kidderminster - your students see whatever sits on your bench.
+
+We build engineering-grade PoE switches (24-port PoE+ 280W with 4x10G; 8-port 240W), fully documented, neutral packing. A comparison unit in switching labs shows trainees how different CLIs solve the same L2+ job. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: what switch do your students learn PoE budgets on today - and would one documented unit be worth bench space at Allness?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

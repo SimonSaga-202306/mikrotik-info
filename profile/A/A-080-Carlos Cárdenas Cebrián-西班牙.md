@@ -252,3 +252,15 @@ updated: 2026-09-28
 - **中国进口与管制**:国别档位 低(务实采购;电信层只登记不排斥);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**域 MX**:{"fibercli.com": ["alt1.aspmx.l.google.com", "alt2.aspmx.l.google.com", "aspmx.l.google.com", "aspmx2.googlemail.com", "aspmx3.googlemail.com"]}
+**结论**:fibercli 为西班牙 MikroTik 培训/咨询社(Fibercli.com);候选 carlos@fibercli.com 系
+- **Carlos Cardenas Cebrian** — 本人:FiberCli 团队(MUM Valencia 2018 讲者,IPv6 专题),Jerez/安达卢西亚（源:https://mum.mikrotik.com/presentations/ES18/presentation_5813_1539084300.pdf）
+  - `carlos@fibercli.com`(first@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `carlos.cardenas cebrian@fibercli.com`(first.last@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `c.cardenas cebrian@fibercli.com`(f.last@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `carloscardenas cebrian@fibercli.com`(firstlast@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ccardenas cebrian@fibercli.com`(flast@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `cardenas cebrian@fibercli.com`(last@(fibercli.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))

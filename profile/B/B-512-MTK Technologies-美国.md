@@ -113,3 +113,15 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Champaign IL,1996 年 51-200 人;注意 MX 域以 mtk-tech.com 现网为准,k@ 模式=mtktechnologies.com 双域候选
+**域 MX**:{"mtktechnologies.com": ["mtktechnologies-com.mail.protection.outlook.com"]}
+- **Kailash Chakravarti** — President（源:https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706）
+  - `kailash@mtktechnologies.com`(first@(mtktechnologies.com))
+  - `kailash.chakravarti@mtktechnologies.com`(first.last@(mtktechnologies.com))
+  - `k.chakravarti@mtktechnologies.com`(f.last@(mtktechnologies.com))
+  - `kailashchakravarti@mtktechnologies.com`(firstlast@(mtktechnologies.com))
+  - `kchakravarti@mtktechnologies.com`(flast@(mtktechnologies.com))
+  - `chakravarti@mtktechnologies.com`(last@(mtktechnologies.com))

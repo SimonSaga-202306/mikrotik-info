@@ -268,3 +268,17 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 高(Covered List+SECURE Act+§301 关税;采购方警惕中国标签,话术锚 Marvell(美企)+FCC);战术: 首触点不亮中国原产,强调 Marvell(美企)芯片+FCC/CE 合规+产地声明随报价备询;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**域 MX**:{"wavonline.com": ["mx1-us1.ppe-hosted.com", "mx2-us1.ppe-hosted.com"], "balticnetworks.com": ["balticnetworks-com.mail.protection.outlook.com"]}
+**结论**:wavonline.com 现职谱;balticnetworks.com 旧业谱两个域候选都生成
+- **Brian Vargyas** — 本人:Baltic Networks USA 原东主,MikroTik Certified Trainer(MUM US10/US15 讲者),现 WAV 内部 MikroTik 专家（源:https://mum.mikrotik.com/presentations/US10/Brian.pdf）
+  - `brian@wavonline.com`(first@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `brian.vargyas@wavonline.com`(first.last@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `b.vargyas@wavonline.com`(f.last@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `brianvargyas@wavonline.com`(firstlast@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `bvargyas@wavonline.com`(flast@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `vargyas@wavonline.com`(last@(wavonline.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `brian@balticnetworks.com`(first@(balticnetworks.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `brian.vargyas@balticnetworks.com`(first.last@(balticnetworks.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))

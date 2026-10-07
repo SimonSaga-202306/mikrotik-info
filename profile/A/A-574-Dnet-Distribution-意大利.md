@@ -276,3 +276,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `monti@nimwave.com`(last@(nimwave.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Eugenia Zito / Alessandro Monti(Presidente / 产品专员)
+**通道**:eugenia.zito@nimwave.com / alessandro.monti@nimwave.com(候选系;info@dnet-distribution.com)
+
+**主题**:PoE 24 ports + 10G uplinks for your installer channel
+
+```text
+Dear Eugenia, dear Alessandro,
+
+Dnet-Distribution's shelves already run CRS305/CRS317 - the WISP installers you serve keep asking for the 24-port PoE workhorse under them.
+
+We build it: 24x Gigabit PoE+ (280W), 4x10G SFP+, ERPS<20ms, watchdog auto-reboot, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: who holds that 24-port managed PoE tier for your installer channel today - and may I send one documented unit to Lainate for a 30-day test?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

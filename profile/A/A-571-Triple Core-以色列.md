@@ -235,3 +235,29 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 **KP**:人名未取得 → **待定**(下波换 Apollo/ContactOut 导出或官网团队页再挖)
 
 **备注**:KP 人名未取得→待定
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**结论**:Triple Core 补漏第二轮:官网仅 support@ 与 [email protected] 占位;两条 WhatsApp 移动线(+970 59 498 1993 / +972 50 944 2228)可作 KP 直通渠道;人名仍待定
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:—(人名待定,走职能口)(—)
+**通道**:Support@triple-core.com(官网公开)+ WhatsApp +970 59 498 1993
+
+**主题**:PoE+ switching tier beside your six vendor lines
+
+```text
+Hello Triple Core team,
+
+Six authorized lines - MikroTik, Ubiquiti, RF elements, MaxLink, MasterLAN, Cudy - and 4,000+ wholesale ISP clients across Ramallah and Jerusalem means your PoE volumes are real.
+
+We manufacture one thing seriously: 24-port Gigabit PoE+ managed switch, 280W, 4x10G SFP+ uplinks, ERPS<20ms, watchdog. Neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - notably under your CRS318 shelf.
+
+One question: which 24-port PoE model leads your wholesale numbers today - and would a documented evaluation unit be useful to your purchasing team?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

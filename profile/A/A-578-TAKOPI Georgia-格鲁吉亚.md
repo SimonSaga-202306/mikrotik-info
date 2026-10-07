@@ -250,3 +250,51 @@ Saga Telecom - PoE switch OEM/ODM
 **KP**:人名未取得 → **待定**(下波换 Apollo/ContactOut 导出或官网团队页再挖)
 
 **备注**:KP 人名未取得→待定
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**域 MX**:{"takopi.ge": ["alt1.aspmx.l.google.com", "alt2.aspmx.l.google.com", "alt3.aspmx.l.google.com", "alt4.aspmx.l.google.com", "aspmx.l.google.com"]}
+**结论**:9 员工;info@smart-network.ge;Andria Benashvili st.16 Tbilisi;RocketReach 确认 @takopi.ge 域
+- **Sergey Shapovalov** — Regional Manager @ Takopi Georgia(前 Treolan/LANIT 网络产品组长,2023 至今)（源:https://rocketreach.co/sergey-shapovalov-email_840273986）
+  - `sergey@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `sergey.shapovalov@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `s.shapovalov@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `sergeyshapovalov@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `sshapovalov@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `shapovalov@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Vazgen Minasyan** — BDM（源:https://rocketreach.co/takopi-georgia-takopi-jorjia-management_b682ebe2c9f7097b）
+  - `vazgen@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `vazgen.minasyan@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `v.minasyan@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `vazgenminasyan@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `vminasyan@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `minasyan@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Alexander Abramov** — BDM Aten/Netgear/Tiandy（源:https://rocketreach.co/takopi-georgia-takopi-jorjia-profile_b682ebe2c9f7097b）
+  - `alexander@takopi.ge`(first@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `alexander.abramov@takopi.ge`(first.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `a.abramov@takopi.ge`(f.last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `alexanderabramov@takopi.ge`(firstlast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `aabramov@takopi.ge`(flast@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `abramov@takopi.ge`(last@(takopi.ge);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Sergey Shapovalov(Regional Manager)
+**通道**:sergey.shapovalov@takopi.ge(候选系;info@smart-network.ge)
+
+**主题**:A PoE+ value tier for your 25-brand portfolio
+
+```text
+Hi Sergey,
+
+Someone who led networking product teams at Treolan knows exactly where a 24-port PoE+ value tier sits in a 25-brand portfolio.
+
+We build it: 24 Gigabit PoE+ ports (280W), 4x10G SFP+ uplinks, ERPS<20ms, hardware watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: in Takopi's Tbilisi stock today, which model holds that tier - and would a documented evaluation unit earn bench time beside your MikroTik and Netgear lines?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

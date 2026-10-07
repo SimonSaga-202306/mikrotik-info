@@ -260,3 +260,44 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);档案信号: 在卖中国品牌 TP-Link → 对中国产线接受度已被事实验证;CSV 品牌谱含中国厂商 → 大概率已有中国采购线(集采或分销);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STI-288GP(工业导轨 24G+4×10G→机柜/自动化)、STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(批量潜力高,可上 280W 旗舰对照行)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**域 MX**:{"purdicom.com": ["eu-smtp-journal-1.mimecast.com", "eu-smtp-journal-2.mimecast.com"], "purdi.com": ["eu-smtp-inbound-1.mimecast.com", "eu-smtp-inbound-2.mimecast.com"]}
+**结论**:内部域提示:ruckus@purdi.com → 邮箱两域(purdicom.com / purdi.com)候选
+- **Hugh Garrod** — Managing Director(2013 至今,Selcoms 更名后掌舵)（源:https://www.linkedin.com/in/hughgarrod/）
+  - `hugh@purdicom.com`(first@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hugh.garrod@purdicom.com`(first.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `h.garrod@purdicom.com`(f.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hughgarrod@purdicom.com`(firstlast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hgarrod@purdicom.com`(flast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `garrod@purdicom.com`(last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hugh@purdi.com`(first@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hugh.garrod@purdi.com`(first.last@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Steve Kent** — Sales & Marketing Director（源:https://www.linkedin.com/in/steve-kent-19b0113b/）
+  - `steve@purdicom.com`(first@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `steve.kent@purdicom.com`(first.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `s.kent@purdicom.com`(f.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `stevekent@purdicom.com`(firstlast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `skent@purdicom.com`(flast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `kent@purdicom.com`(last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `steve@purdi.com`(first@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `steve.kent@purdi.com`(first.last@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Mark Banks** — Account Manager(2021 入职)（源:https://www.linkedin.com/in/mark-ac-banks/）
+  - `mark@purdicom.com`(first@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `mark.banks@purdicom.com`(first.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `m.banks@purdicom.com`(f.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `markbanks@purdicom.com`(firstlast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `mbanks@purdicom.com`(flast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `banks@purdicom.com`(last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `mark@purdi.com`(first@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `mark.banks@purdi.com`(first.last@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Ashley Edwards** — Technical Manager（源:https://www.linkedin.com/company/purdicom）
+  - `ashley@purdicom.com`(first@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ashley.edwards@purdicom.com`(first.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `a.edwards@purdicom.com`(f.last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ashleyedwards@purdicom.com`(firstlast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `aedwards@purdicom.com`(flast@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `edwards@purdicom.com`(last@(purdicom.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ashley@purdi.com`(first@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ashley.edwards@purdi.com`(first.last@(purdi.com);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))

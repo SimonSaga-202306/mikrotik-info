@@ -5024,6 +5024,10 @@
         "locator": "反向信号名单!Q746"
       },
       {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L25"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A280-A299.json",
         "locator": "L360"
       },
@@ -5038,6 +5042,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-746/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/Chris-Schiessl-16784439）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-290-Chris Schiessl-美国.md",
+        "locator": "L261"
       }
     ]
   },
@@ -5128,6 +5142,26 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-794/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Universal-Networks-UK-Ltd-25477",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L267"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Universal-Networks-UK-Ltd-25477）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L280"
       }
     ]
   },
@@ -21080,6 +21114,26 @@
     ]
   },
   {
+    "url": "https://mum.mikrotik.com/presentations/BR19/presentation_7025_1575286648.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/BR19/presentation_7025_1575286648.pdf）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-249-Flavio Gomes Figueira Camacho-葡萄牙.md",
+        "locator": "L261"
+      }
+    ]
+  },
+  {
     "url": "https://mum.mikrotik.com/presentations/EG07/leo_de_geer.pdf",
     "http_checked": false,
     "occurrences": [
@@ -21102,6 +21156,26 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-822/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/ES18/presentation_5813_1539084300.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/ES18/presentation_5813_1539084300.pdf）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-080-Carlos Cárdenas Cebrián-西班牙.md",
+        "locator": "L260"
       }
     ]
   },
@@ -21334,8 +21408,22 @@
         "locator": "L1359"
       },
       {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L212"
+      },
+      {
         "path": "profile/A/A-098-Brian Vargyas-美国.md",
         "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://mum.mikrotik.com/presentations/US10/Brian.pdf）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-098-Brian Vargyas-美国.md",
+        "locator": "L276"
       }
     ]
   },
@@ -23430,6 +23518,36 @@
     ]
   },
   {
+    "url": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L225"
+      }
+    ]
+  },
+  {
+    "url": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L33"
+      }
+    ]
+  },
+  {
+    "url": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
     "url": "https://omnilink.ua/",
     "http_checked": false,
     "occurrences": [
@@ -25142,6 +25260,36 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L54"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L16"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753",
     "http_checked": false,
     "occurrences": [
@@ -25192,6 +25340,96 @@
       {
         "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
         "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L186"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L29"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/sergey-shapovalov-email_840273986",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L414"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/sergey-shapovalov-email_840273986）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-578-TAKOPI Georgia-格鲁吉亚.md",
+        "locator": "L258"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/takopi-georgia-takopi-jorjia-management_b682ebe2c9f7097b",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L428"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/takopi-georgia-takopi-jorjia-management_b682ebe2c9f7097b）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-578-TAKOPI Georgia-格鲁吉亚.md",
+        "locator": "L265"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/takopi-georgia-takopi-jorjia-profile_b682ebe2c9f7097b",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L442"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/takopi-georgia-takopi-jorjia-profile_b682ebe2c9f7097b）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-578-TAKOPI Georgia-格鲁吉亚.md",
+        "locator": "L272"
       }
     ]
   },
@@ -29842,6 +30080,36 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第23批.json",
         "locator": "L61"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L108"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L21"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L130"
       }
     ]
   },
@@ -37304,6 +37572,36 @@
     ]
   },
   {
+    "url": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L20"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L123"
+      }
+    ]
+  },
+  {
     "url": "https://www.companywall.hr/tvrtka/pondi-doo/MMxD5i8D",
     "http_checked": false,
     "occurrences": [
@@ -40318,6 +40616,36 @@
       {
         "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
         "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L40"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L15"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L121"
       }
     ]
   },
@@ -46332,6 +46660,36 @@
     ]
   },
   {
+    "url": "https://www.info-cechy.cz/eig-oem-automatic/index.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L13"
+      }
+    ]
+  },
+  {
+    "url": "https://www.info-cechy.cz/eig-oem-automatic/index.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L9"
+      }
+    ]
+  },
+  {
+    "url": "https://www.info-cechy.cz/eig-oem-automatic/index.html）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L111"
+      }
+    ]
+  },
+  {
     "url": "https://www.infobel.com/es/spain/todo_telecom/denia/ES101122518-455396650/businessdetails.aspx",
     "http_checked": false,
     "occurrences": [
@@ -49494,6 +49852,10 @@
       {
         "path": "batch/A类_三项判定与KP领英_R60_2026-09-29.json",
         "locator": "L6243"
+      },
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L372"
       }
     ]
   },
@@ -49518,6 +49880,16 @@
       {
         "path": "profile/A/A-568-Purdicom-英国.md",
         "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/purdicom）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L295"
       }
     ]
   },
@@ -50078,6 +50450,26 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/hughgarrod/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L312"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/hughgarrod/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L268"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23",
     "http_checked": false,
     "occurrences": [
@@ -50448,6 +50840,26 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/mark-ac-banks/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L352"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/mark-ac-banks/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L286"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/matthew-main-6767a3b8",
     "http_checked": false,
     "occurrences": [
@@ -50722,6 +51134,36 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/richard-kao-233a5368/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L289"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/richard-kao-233a5368/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L40"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/richard-kao-233a5368/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L106"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/sasa-blagojevic-3ba87230",
     "http_checked": false,
     "occurrences": [
@@ -50760,6 +51202,26 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/steve-kent-19b0113b/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L332"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/steve-kent-19b0113b/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-568-Purdicom-英国.md",
+        "locator": "L277"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/tomer-shitrit-b317593/",
     "http_checked": false,
     "occurrences": [
@@ -50786,6 +51248,36 @@
       {
         "path": "profile/A/A-570-Ronitek-以色列.md",
         "locator": "L250"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/wendy-wang-83456826/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L303"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/wendy-wang-83456826/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L41"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/wendy-wang-83456826/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L113"
       }
     ]
   },
@@ -63228,6 +63720,26 @@
     ]
   },
   {
+    "url": "https://www.mikrotikgyor.hu/download/netbasic.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mikrotikgyor.hu/download/netbasic.pdf）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-091-Laszlo Gyenese-匈牙利.md",
+        "locator": "L276"
+      }
+    ]
+  },
+  {
     "url": "https://www.mikrotikinfo.com/about/",
     "http_checked": false,
     "occurrences": [
@@ -66636,6 +67148,36 @@
     ]
   },
   {
+    "url": "https://www.oemautomatic.cz/kontakty/nas-tym",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L19"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oemautomatic.cz/kontakty/nas-tym'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L10"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oemautomatic.cz/kontakty/nas-tym）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L112"
+      }
+    ]
+  },
+  {
     "url": "https://www.oemautomatic.se/",
     "http_checked": false,
     "occurrences": [
@@ -68104,6 +68646,36 @@
     ]
   },
   {
+    "url": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L147"
+      }
+    ]
+  },
+  {
+    "url": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L25"
+      }
+    ]
+  },
+  {
+    "url": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
     "url": "https://www.proficomms.cz",
     "http_checked": false,
     "occurrences": [
@@ -68258,6 +68830,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-897/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L264"
+      }
+    ]
+  },
+  {
+    "url": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L37"
+      }
+    ]
+  },
+  {
+    "url": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L122"
       }
     ]
   },
@@ -69934,6 +70536,46 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L1712"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/itc-communications",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/itc-communications）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L273"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/itc-technologies",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://www.signalhire.com/companies/itc-technologies）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-119-ITC Technologies-美国.md",
+        "locator": "L280"
       }
     ]
   },
@@ -73010,6 +73652,10 @@
         "locator": "反向信号名单!Q879"
       },
       {
+        "path": "batch/KP猎捕_A_R64_第2波.json",
+        "locator": "L253"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L32"
       },
@@ -73020,6 +73666,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-879/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.universalnetworks.co.uk/we-are-here-to-help-you/）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-111-Universal Networks-英国.md",
+        "locator": "L273"
       }
     ]
   },
@@ -73470,6 +74126,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-814/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L239"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L34"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L129"
       }
     ]
   },
@@ -75522,6 +76208,36 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-748/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/KP猎捕_B_R64_第1批.json",
+        "locator": "L334"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R64_B类KP注入.py",
+        "locator": "L46"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706）",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/B/B-512-MTK Technologies-美国.md",
+        "locator": "L121"
       }
     ]
   },

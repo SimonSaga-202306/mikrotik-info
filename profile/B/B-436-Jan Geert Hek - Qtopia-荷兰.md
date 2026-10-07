@@ -105,3 +105,7 @@
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Qtopia 双创始董事:Dennis van Elk + Jan Geert Hek,Kolstee 5 Zelhem,088-7110500,info@qtopia.nl(入口已有);安全/云架构顾问 2013 创立

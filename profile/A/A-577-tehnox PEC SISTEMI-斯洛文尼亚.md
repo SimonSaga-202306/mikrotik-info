@@ -247,3 +247,25 @@ Saga Telecom - PoE switch OEM/ODM (neutral packing available)
   - `jezernik@pec-sistemi.si`(last@(pec-sistemi.si);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:Elizabeta Jezernik 另一 50%;8 员工,营收 €4.36M,出口 BiH/克罗地亚 24%
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Peter Jezernik(董事/50%业主)
+**通道**:peter.jezernik@pec-sistemi.si / peter@tehnox.si(候选系)
+
+**主题**:PoE switch line beside your DIGITUS range
+
+```text
+Hi Peter,
+
+Twenty-five years of importing DIGITUS and distributing MikroTik/Ubiquiti from Maribor - you know the reseller shelf better than most.
+
+We make a 24-port Gigabit PoE+ managed switch (280W, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog) with clean English documentation, white-label friendly. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: between DIGITUS and MikroTik on your tehnox.si shelves, who holds the 24-port managed PoE value tier today - and would one documented sample earn a listing test?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

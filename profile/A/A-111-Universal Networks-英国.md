@@ -265,3 +265,22 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 中(NCSC 2027 华为 HNT 移除(电信网);企业网开放;PSTI 合规);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**域 MX**:{"universalnetworks.co.uk": ["mail.universalnetworks.com", "mail2.universalnetworks.com", "whitemail.nildram.co.uk"]}
+**结论**:Hungerford Berkshire;Company No 04609481;另有 Elizabeth Waterhouse 资深客户经理
+- **Eddie Hing** — MD and Founder(COVID 公开信署名+contactout)（源:https://www.universalnetworks.co.uk/we-are-here-to-help-you/）
+  - `eddie@universalnetworks.co.uk`(first@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `eddie.hing@universalnetworks.co.uk`(first.last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `e.hing@universalnetworks.co.uk`(f.last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `eddiehing@universalnetworks.co.uk`(firstlast@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `ehing@universalnetworks.co.uk`(flast@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `hing@universalnetworks.co.uk`(last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+- **Kev Begbie** — Technical Manager（源:https://contactout.com/company/Universal-Networks-UK-Ltd-25477）
+  - `kev@universalnetworks.co.uk`(first@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `kev.begbie@universalnetworks.co.uk`(first.last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `k.begbie@universalnetworks.co.uk`(f.last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `kevbegbie@universalnetworks.co.uk`(firstlast@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `kbegbie@universalnetworks.co.uk`(flast@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))
+  - `begbie@universalnetworks.co.uk`(last@(universalnetworks.co.uk);guessed-leads-only(域 MX 存活;SMTP 未验;不进群发))

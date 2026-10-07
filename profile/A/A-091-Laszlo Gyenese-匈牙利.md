@@ -269,3 +269,9 @@ Saga Telecom - PoE switch OEM/ODM
 - **中国进口与管制**:国别档位 低(政府亲华;2024 华为匈 5G 强进;可正面谈中国产能);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**结论**:MUM 课件自曝:gyenese.laszlo@digisoftnet.hu 与 info@mikrotikgyor.hu,+36 20 993-7980;digisoftnet.hu 自有谱
+- **Laszlo Gyenese** — 本人:MikroTik Trainer+Academy Trainer,Öttevény,匈牙利本国头部培训家（源:https://www.mikrotikgyor.hu/download/netbasic.pdf）
+  - 邮箱:gyenese.laszlo@digisoftnet.hu（official-self-published(MUM 课件自曝)）

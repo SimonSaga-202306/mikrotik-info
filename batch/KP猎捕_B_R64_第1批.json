@@ -1,0 +1,371 @@
+{
+ "date": "2026-10-07",
+ "round": "R64",
+ "scope": "B 类 KP 猎捕第 1 批:4 无邮箱户 + 10 大户;web_search 公开源+排列组合+MX",
+ "records": [
+  {
+   "code": "B-200",
+   "note": "Zdiby Pražská 239,1991 创立;Ilona Kulhánková 供应商订单管理;Adam Stoklasa 商技代表",
+   "persons": [
+    {
+     "name": "Jan Drlík",
+     "role": "Ředitel společnosti(公司董事)+420 241 484 940",
+     "source": "https://www.info-cechy.cz/eig-oem-automatic/index.html",
+     "email_state": "—"
+    },
+    {
+     "name": "Jakub Hanousek",
+     "role": "Product Area Manager Machine/Safety/Electronics/Railway(产品口对口)",
+     "source": "https://www.oemautomatic.cz/kontakty/nas-tym",
+     "email_state": "—"
+    }
+   ],
+   "mx": {
+    "oemautomatic.cz": "FAIL:NoAnswer"
+   }
+  },
+  {
+   "code": "B-295",
+   "note": "OEM Automatic AB(瑞典母公司,与 B-200 同集团):集团 KP 借 B-200 Jan Drlík 线;oemautomatic.se MX(outlook)存活",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "B-340",
+   "note": "Avon MA,38 员工;Michael Sandonato 销售市场总监",
+   "persons": [
+    {
+     "name": "Mark O'Day",
+     "role": "President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html",
+     "email_candidates": {
+      "first@(controllerservice.com)": "mark@controllerservice.com",
+      "first.last@(controllerservice.com)": "mark.o'day@controllerservice.com",
+      "f.last@(controllerservice.com)": "m.o'day@controllerservice.com",
+      "firstlast@(controllerservice.com)": "marko'day@controllerservice.com",
+      "flast@(controllerservice.com)": "mo'day@controllerservice.com",
+      "last@(controllerservice.com)": "o'day@controllerservice.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Scott O'Day",
+     "role": "VP Sales and Marketing(兄弟共管)",
+     "source": "https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae",
+     "email_candidates": {
+      "first@(controllerservice.com)": "scott@controllerservice.com",
+      "first.last@(controllerservice.com)": "scott.o'day@controllerservice.com",
+      "f.last@(controllerservice.com)": "s.o'day@controllerservice.com",
+      "firstlast@(controllerservice.com)": "scotto'day@controllerservice.com",
+      "flast@(controllerservice.com)": "so'day@controllerservice.com",
+      "last@(controllerservice.com)": "o'day@controllerservice.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Jim Long",
+     "role": "Corporate Controller",
+     "source": "同 RocketReach 源",
+     "email_candidates": {
+      "first@(controllerservice.com)": "jim@controllerservice.com",
+      "first.last@(controllerservice.com)": "jim.long@controllerservice.com",
+      "f.last@(controllerservice.com)": "j.long@controllerservice.com",
+      "firstlast@(controllerservice.com)": "jimlong@controllerservice.com",
+      "flast@(controllerservice.com)": "jlong@controllerservice.com",
+      "last@(controllerservice.com)": "long@controllerservice.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "controllerservice.com": [
+     "controllerservice-com.mx1.arsmtp.com",
+     "controllerservice-com.mx2.arsmtp.com"
+    ]
+   }
+  },
+  {
+   "code": "B-421",
+   "note": "Rugeley Staffordshire,3 人,engineering activities;主域 pymatek.com(非 .co.uk) MX outlook 存活;Kimberly Pinillos Gerente General",
+   "persons": [
+    {
+     "name": "Ybet Sánchez Vargas de Pattison",
+     "role": "Director(2014 至今,唯一登记董事)",
+     "source": "https://www.companiesintheuk.co.uk/ltd/pymatek-automation",
+     "email_candidates": {
+      "first@(pymatek.com)": "ybet@pymatek.com",
+      "first.last@(pymatek.com)": "ybet.sanchez vargas de pattison@pymatek.com",
+      "f.last@(pymatek.com)": "y.sanchez vargas de pattison@pymatek.com",
+      "firstlast@(pymatek.com)": "ybetsanchez vargas de pattison@pymatek.com",
+      "flast@(pymatek.com)": "ysanchez vargas de pattison@pymatek.com",
+      "last@(pymatek.com)": "sanchez vargas de pattison@pymatek.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Martin Pattison",
+     "role": "Sales Manager",
+     "source": "https://uk.globaldatabase.com/company/pymatek-automation-ltd",
+     "email_candidates": {
+      "first@(pymatek.com)": "martin@pymatek.com",
+      "first.last@(pymatek.com)": "martin.pattison@pymatek.com",
+      "f.last@(pymatek.com)": "m.pattison@pymatek.com",
+      "firstlast@(pymatek.com)": "martinpattison@pymatek.com",
+      "flast@(pymatek.com)": "mpattison@pymatek.com",
+      "last@(pymatek.com)": "pattison@pymatek.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Franco Sanchez",
+     "role": "Jefe De Ventas",
+     "source": "同 GlobalDatabase 源",
+     "email_candidates": {
+      "first@(pymatek.com)": "franco@pymatek.com",
+      "first.last@(pymatek.com)": "franco.sanchez@pymatek.com",
+      "f.last@(pymatek.com)": "f.sanchez@pymatek.com",
+      "firstlast@(pymatek.com)": "francosanchez@pymatek.com",
+      "flast@(pymatek.com)": "fsanchez@pymatek.com",
+      "last@(pymatek.com)": "sanchez@pymatek.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "pymatek.com": [
+     "pymatek-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "B-005",
+   "note": "CVR 38306979,Fuglevangsvej 13 Frederiksberg C,7 员工 DKK 10M 毛利;挪威母公司 Nextron AS 更大体",
+   "persons": [
+    {
+     "name": "Håkon Børstad Gutierrez",
+     "role": "Direktør(丹麦分部主任)",
+     "source": "https://www.proff.dk/firma/nextron-aps/frederiksberg-c/elektronik-og-telekommunikationsudstyr/0MT1URI10MY",
+     "email_candidates": {
+      "first@(nextron.dk)": "hakon@nextron.dk",
+      "first.last@(nextron.dk)": "hakon.brstad gutierrez@nextron.dk",
+      "f.last@(nextron.dk)": "h.brstad gutierrez@nextron.dk",
+      "firstlast@(nextron.dk)": "hakonbrstad gutierrez@nextron.dk",
+      "flast@(nextron.dk)": "hbrstad gutierrez@nextron.dk",
+      "last@(nextron.dk)": "brstad gutierrez@nextron.dk"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Carl Henrik Sibbern",
+     "role": "Bestyrelsesformand(董事长)",
+     "source": "同源",
+     "email_candidates": {
+      "first@(nextron.dk)": "carl henrik@nextron.dk",
+      "first.last@(nextron.dk)": "carl henrik.sibbern@nextron.dk",
+      "f.last@(nextron.dk)": "c.sibbern@nextron.dk",
+      "firstlast@(nextron.dk)": "carl henriksibbern@nextron.dk",
+      "flast@(nextron.dk)": "csibbern@nextron.dk",
+      "last@(nextron.dk)": "sibbern@nextron.dk"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "nextron.dk": [
+     "nextron-dk.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "B-106",
+   "note": "Limassol 1996 年,11 人;Pieris Michael(Product Manager Networking&IT 2016 至今)即库内 pieris@mstronics.com 名录联系人,无需再猜",
+   "persons": [
+    {
+     "name": "Panicos Michael",
+     "role": "Managing Director",
+     "source": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323",
+     "email_candidates": {
+      "first@(mstronics.com)": "panicos@mstronics.com",
+      "first.last@(mstronics.com)": "panicos.michael@mstronics.com",
+      "f.last@(mstronics.com)": "p.michael@mstronics.com",
+      "firstlast@(mstronics.com)": "panicosmichael@mstronics.com",
+      "flast@(mstronics.com)": "pmichael@mstronics.com",
+      "last@(mstronics.com)": "michael@mstronics.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Michalis Pavlou",
+     "role": "Sales Director",
+     "source": "同源",
+     "email_candidates": {
+      "first@(mstronics.com)": "michalis@mstronics.com",
+      "first.last@(mstronics.com)": "michalis.pavlou@mstronics.com",
+      "f.last@(mstronics.com)": "m.pavlou@mstronics.com",
+      "firstlast@(mstronics.com)": "michalispavlou@mstronics.com",
+      "flast@(mstronics.com)": "mpavlou@mstronics.com",
+      "last@(mstronics.com)": "pavlou@mstronics.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "mstronics.com": [
+     "mail.mstronics.com"
+    ]
+   }
+  },
+  {
+   "code": "B-307",
+   "note": "ACME Grupė 母;300+ 品牌 28 年",
+   "persons": [
+    {
+     "name": "Žymantas Baušys",
+     "role": "Direktorius(2017 至今,前财务总监)",
+     "source": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085",
+     "email_candidates": {
+      "first@(accdistribution.eu)": "zymantas@accdistribution.eu",
+      "first.last@(accdistribution.eu)": "zymantas.bausys@accdistribution.eu",
+      "f.last@(accdistribution.eu)": "z.bausys@accdistribution.eu",
+      "firstlast@(accdistribution.eu)": "zymantasbausys@accdistribution.eu",
+      "flast@(accdistribution.eu)": "zbausys@accdistribution.eu",
+      "last@(accdistribution.eu)": "bausys@accdistribution.eu"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Regimantas Buožius",
+     "role": "董事长(1998 创始人,现战略面)",
+     "source": "https://www.vz.lt/vadyba/is-tarnybos-i/2017/06/02/acc-distribution-turi-nauja-direktoriu",
+     "email_candidates": {
+      "first@(accdistribution.eu)": "regimantas@accdistribution.eu",
+      "first.last@(accdistribution.eu)": "regimantas.buozius@accdistribution.eu",
+      "f.last@(accdistribution.eu)": "r.buozius@accdistribution.eu",
+      "firstlast@(accdistribution.eu)": "regimantasbuozius@accdistribution.eu",
+      "flast@(accdistribution.eu)": "rbuozius@accdistribution.eu",
+      "last@(accdistribution.eu)": "buozius@accdistribution.eu"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "accdistribution.eu": [
+     "accdistribution-eu.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "B-320",
+   "note": "Bacău CUI RO22460883,0728 105 124 移动;office@telesystem.ro 已有;安防主 MikroTik 副牌",
+   "persons": [
+    {
+     "name": "David Marian",
+     "role": "Administrator(管理方公示名姓)",
+     "source": "https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/",
+     "email_candidates": {
+      "first@(telesystem.ro)": "david@telesystem.ro",
+      "first.last@(telesystem.ro)": "david.marian@telesystem.ro",
+      "f.last@(telesystem.ro)": "d.marian@telesystem.ro",
+      "firstlast@(telesystem.ro)": "davidmarian@telesystem.ro",
+      "flast@(telesystem.ro)": "dmarian@telesystem.ro",
+      "last@(telesystem.ro)": "marian@telesystem.ro"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "telesystem.ro": [
+     "mail.telesystem.ro"
+    ]
+   }
+  },
+  {
+   "code": "B-352",
+   "note": "台湾 IEI Integration 集团美子:Teddy Kuo 创始人/Jordan Jiang GM;集团墙注意,R53 判定已 hold",
+   "persons": [
+    {
+     "name": "Richard Kao",
+     "role": "Operation Director(Pomona USA)",
+     "source": "https://www.linkedin.com/in/richard-kao-233a5368/",
+     "email_candidates": {
+      "first@(ieiworld.com)": "richard@ieiworld.com",
+      "first.last@(ieiworld.com)": "richard.kao@ieiworld.com",
+      "f.last@(ieiworld.com)": "r.kao@ieiworld.com",
+      "firstlast@(ieiworld.com)": "richardkao@ieiworld.com",
+      "flast@(ieiworld.com)": "rkao@ieiworld.com",
+      "last@(ieiworld.com)": "kao@ieiworld.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    },
+    {
+     "name": "Wendy Wang",
+     "role": "Office Manager(2005 至今)",
+     "source": "https://www.linkedin.com/in/wendy-wang-83456826/",
+     "email_candidates": {
+      "first@(ieiworld.com)": "wendy@ieiworld.com",
+      "first.last@(ieiworld.com)": "wendy.wang@ieiworld.com",
+      "f.last@(ieiworld.com)": "w.wang@ieiworld.com",
+      "firstlast@(ieiworld.com)": "wendywang@ieiworld.com",
+      "flast@(ieiworld.com)": "wwang@ieiworld.com",
+      "last@(ieiworld.com)": "wang@ieiworld.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "ieiworld.com": [
+     "ieiworld-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "B-436",
+   "note": "Qtopia 双创始董事:Dennis van Elk + Jan Geert Hek,Kolstee 5 Zelhem,088-7110500,info@qtopia.nl(入口已有);安全/云架构顾问 2013 创立",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "B-512",
+   "note": "Champaign IL,1996 年 51-200 人;注意 MX 域以 mtk-tech.com 现网为准,k@ 模式=mtktechnologies.com 双域候选",
+   "persons": [
+    {
+     "name": "Kailash Chakravarti",
+     "role": "President",
+     "source": "https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706",
+     "email_candidates": {
+      "first@(mtktechnologies.com)": "kailash@mtktechnologies.com",
+      "first.last@(mtktechnologies.com)": "kailash.chakravarti@mtktechnologies.com",
+      "f.last@(mtktechnologies.com)": "k.chakravarti@mtktechnologies.com",
+      "firstlast@(mtktechnologies.com)": "kailashchakravarti@mtktechnologies.com",
+      "flast@(mtktechnologies.com)": "kchakravarti@mtktechnologies.com",
+      "last@(mtktechnologies.com)": "chakravarti@mtktechnologies.com"
+     },
+     "email_state": "guessed-leads-only(域 MX 存活;SMTP 未验;不进群发)"
+    }
+   ],
+   "mx": {
+    "mtktechnologies.com": [
+     "mtktechnologies-com.mail.protection.outlook.com"
+    ]
+   }
+  },
+  {
+   "code": "B-433",
+   "note": "Fokko van den Bosch / it-support.nl:搜索无有效命中 → 待定(下轮换 Apollo)",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "B-134",
+   "note": "Spiros Potsikas / Tele-Net(希腊):搜索无果 → 待定(希腊 Xpatit/LinkShop 分销圈另起线再查)",
+   "persons": [],
+   "mx": {}
+  },
+  {
+   "code": "B-452",
+   "note": "Camacho / Engenheiros(葡萄牙 engenheiros.pt):搜索无果 → 待定",
+   "persons": [],
+   "mx": {}
+  }
+ ]
+}

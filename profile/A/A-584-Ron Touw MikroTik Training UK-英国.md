@@ -257,3 +257,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `touw@mikrotiktraining.co.uk`(last@(mikrotiktraining.co.uk);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Ron Touw(本人=业主/UK 首位 Trainer)
+**通道**:ron@mikrotiktraining.co.uk(候选系;官网在线 shop 备份)
+
+**主题**:For the lab at Britain first MikroTik trainer
+
+```text
+Hi Ron,
+
+UK's first certified trainer, ten certifications, author of the course that became MTCEWE - more MikroTik engineers carry your habits than anyone in the country.
+
+We make documented PoE switches (24-port PoE+ 280W, 4x10G uplinks, ERPS; 8-port compact), neutral packing, white-label friendly. For training labs, a second-vendor switch is the cleanest way to show CLI differences on identical L2+ tasks. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: which PoE hardware do your London lab sessions run today - and would one evaluation unit be welcome on the bench?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

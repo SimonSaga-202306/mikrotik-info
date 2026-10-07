@@ -256,3 +256,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `shitrit@ronitek.co.il`(last@(ronitek.co.il);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Tomer Shitrit(Ronitek Distribution 负责人)
+**通道**:tomer@ronitek.co.il(候选系;Info@ronitek.co.il 现有)
+
+**主题**:24-port PoE value tier between your UniFi and CRS shelves
+
+```text
+Hi Tomer,
+
+A full-spectrum Tel Aviv importer stocking RDS2216 down to hAP - your catalogue knows exactly where the PoE gaps are.
+
+We build one product well: 24-port Gigabit PoE+ managed switch, 280W, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog, neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days) - the documented value tier between UniFi and CRS.
+
+One question: on ronitek.co.il today, which 24-port managed PoE holds the value slot - and would one unit earn a listing test with your integrator clients?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

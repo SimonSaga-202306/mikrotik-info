@@ -98,3 +98,22 @@
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:台湾 IEI Integration 集团美子:Teddy Kuo 创始人/Jordan Jiang GM;集团墙注意,R53 判定已 hold
+**域 MX**:{"ieiworld.com": ["ieiworld-com.mail.protection.outlook.com"]}
+- **Richard Kao** — Operation Director(Pomona USA)（源:https://www.linkedin.com/in/richard-kao-233a5368/）
+  - `richard@ieiworld.com`(first@(ieiworld.com))
+  - `richard.kao@ieiworld.com`(first.last@(ieiworld.com))
+  - `r.kao@ieiworld.com`(f.last@(ieiworld.com))
+  - `richardkao@ieiworld.com`(firstlast@(ieiworld.com))
+  - `rkao@ieiworld.com`(flast@(ieiworld.com))
+  - `kao@ieiworld.com`(last@(ieiworld.com))
+- **Wendy Wang** — Office Manager(2005 至今)（源:https://www.linkedin.com/in/wendy-wang-83456826/）
+  - `wendy@ieiworld.com`(first@(ieiworld.com))
+  - `wendy.wang@ieiworld.com`(first.last@(ieiworld.com))
+  - `w.wang@ieiworld.com`(f.last@(ieiworld.com))
+  - `wendywang@ieiworld.com`(firstlast@(ieiworld.com))
+  - `wwang@ieiworld.com`(flast@(ieiworld.com))
+  - `wang@ieiworld.com`(last@(ieiworld.com))

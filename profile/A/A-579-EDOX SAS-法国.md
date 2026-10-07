@@ -263,3 +263,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `hugueny@edox.com`(last@(edox.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:采购 KP=Lionel Weckerle 最对口
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Lionel Weckerle(采购部负责人)
+**通道**:l.weckerle@edox.com(候选系;或 commercial@edox.com 转交)
+
+**主题**:24-port PoE+ with 10G uplinks for the EDOX shelves
+
+```text
+Hi Lionel,
+
+As purchasing lead for EDOX's networking lines, you'll know where the margins hide on 24-port managed PoE.
+
+We manufacture a 24-port Gigabit PoE+ switch (280W budget, 4x10G SFP+ uplinks, ERPS<20ms, PoE watchdog) under full neutral/white-label terms. Reference: $180 USD EXW (2026-10-07, valid 15 days) - built to sit between your MikroTik CRS and the premium brands.
+
+One question: which model currently carries that value tier at EDOX - and would a documented evaluation unit earn a place on your bench?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

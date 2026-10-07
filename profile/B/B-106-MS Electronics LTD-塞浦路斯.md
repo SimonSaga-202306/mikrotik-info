@@ -114,3 +114,22 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Limassol 1996 年,11 人;Pieris Michael(Product Manager Networking&IT 2016 至今)即库内 pieris@mstronics.com 名录联系人,无需再猜
+**域 MX**:{"mstronics.com": ["mail.mstronics.com"]}
+- **Panicos Michael** — Managing Director（源:https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323）
+  - `panicos@mstronics.com`(first@(mstronics.com))
+  - `panicos.michael@mstronics.com`(first.last@(mstronics.com))
+  - `p.michael@mstronics.com`(f.last@(mstronics.com))
+  - `panicosmichael@mstronics.com`(firstlast@(mstronics.com))
+  - `pmichael@mstronics.com`(flast@(mstronics.com))
+  - `michael@mstronics.com`(last@(mstronics.com))
+- **Michalis Pavlou** — Sales Director（源:同源）
+  - `michalis@mstronics.com`(first@(mstronics.com))
+  - `michalis.pavlou@mstronics.com`(first.last@(mstronics.com))
+  - `m.pavlou@mstronics.com`(f.last@(mstronics.com))
+  - `michalispavlou@mstronics.com`(firstlast@(mstronics.com))
+  - `mpavlou@mstronics.com`(flast@(mstronics.com))
+  - `pavlou@mstronics.com`(last@(mstronics.com))

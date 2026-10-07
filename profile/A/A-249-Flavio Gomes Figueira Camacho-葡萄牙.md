@@ -254,3 +254,9 @@ updated: 2026-09-28
 - **中国进口与管制**:国别档位 低(务实;NOS/MEO 有华为量);战术: 可正面谈中国产能/成本优势;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-424XGGPM-280W(48G PoE++/4×25G→智算安防酒店全谱)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**结论**:MUM 课件自曝:flaviocamacho95@gmail.com / +55 21 96978-4675 / skype flaviocamacho95_1;**国别口径修正:巴西(非葡萄牙)**,TELECALL/Vipnet/COMTXAI 谱
+- **Flavio Camacho** — 本人:Trainer Oficial Mikrotik(Rio de Janeiro),MUM 2019BR 讲者,7 证含 MTCINE/MTCSE（源:https://mum.mikrotik.com/presentations/BR19/presentation_7025_1575286648.pdf）
+  - 邮箱:flaviocamacho95@gmail.com（official-self-published(MUM 课件自曝)）

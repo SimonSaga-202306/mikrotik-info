@@ -262,3 +262,25 @@ Saga Telecom - PoE switch OEM/ODM
   - `thoma@cy-wireless.com`(last@(cy-wireless.com);guessed-leads-only(域 MX 存活;SMTP 用户级未验;不进群发))
 
 **备注**:MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com
+
+## 2026-10-07 R64 首触定制稿(KP 点名)
+
+**对象**:Thomas Thoma(Managing Director)
+**通道**:thomas.thoma@art2soft.com(名录源)/ info@cy-wireless.com(官网)
+
+**主题**:PoE switching for your WISP/ISP channel in Cyprus
+
+```text
+Hi Thomas,
+
+Six vendor lines through Nicosia - MikroTik, Ubiquiti, Cambium, RF elements, Fanvil, Yeastar - suggests your installers live on PoE budgets.
+
+We manufacture a 24-port Gigabit PoE+ switch (280W, 4x10G uplinks, ERPS<20ms, watchdog that cold-reboots frozen APs) under neutral packing. Reference: $180 USD EXW (2026-10-07, valid 15 days).
+
+One question: which PoE switch do your Cyprus/WISP installers default to at 24 ports - and would a documented evaluation unit get a fair test at ART2SOFT?
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+```
+
+> 发送前检查:①不出现「Made in China」;②落款换用户本人;③guessed 邮箱先单发试探,退信即换通道;④问 API 话题先反问架构(纪律)。

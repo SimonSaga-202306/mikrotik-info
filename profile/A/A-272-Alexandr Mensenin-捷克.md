@@ -251,3 +251,7 @@ updated: 2026-09-28
 - **中国进口与管制**:国别档位 中(NUKIB 2018.12 警示;政府网规避,企业网自由);战术: 中性处理,客户追问原产时答 CE/RED/RoHS 合规+Marvell 芯片;户级进口史: 档案无信号(是否从中国进口过 → 待定)
 - **芯片谱(Marvell 专注度)**:Marvell 锚已挂(在卖 MikroTik 谱=Prestera 芯片事实);Marvell 首发即对
 - **大概率用到的 Saga 型号**:大概率会用: STC-28DGGPM(24G PoE+/4×25G→分销走量)(本行为调查分析结论,与开发信首推型号是两回事)
+
+## 2026-10-07 R64 KP 猎捕（第 2 波）
+
+**结论**:Alexandr Mensenin(捷克):web_search 两轮无有效命中 → 待定,建议 MikroTik 官名录直查或 Apollo 导出

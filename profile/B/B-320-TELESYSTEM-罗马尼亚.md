@@ -114,3 +114,15 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Bacău CUI RO22460883,0728 105 124 移动;office@telesystem.ro 已有;安防主 MikroTik 副牌
+**域 MX**:{"telesystem.ro": ["mail.telesystem.ro"]}
+- **David Marian** — Administrator(管理方公示名姓)（源:https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/）
+  - `david@telesystem.ro`(first@(telesystem.ro))
+  - `david.marian@telesystem.ro`(first.last@(telesystem.ro))
+  - `d.marian@telesystem.ro`(f.last@(telesystem.ro))
+  - `davidmarian@telesystem.ro`(firstlast@(telesystem.ro))
+  - `dmarian@telesystem.ro`(flast@(telesystem.ro))
+  - `marian@telesystem.ro`(last@(telesystem.ro))

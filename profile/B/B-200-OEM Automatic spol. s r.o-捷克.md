@@ -103,3 +103,10 @@
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Zdiby Pražská 239,1991 创立;Ilona Kulhánková 供应商订单管理;Adam Stoklasa 商技代表
+**域 MX**:{"oemautomatic.cz": "FAIL:NoAnswer"}
+- **Jan Drlík** — Ředitel společnosti(公司董事)+420 241 484 940（源:https://www.info-cechy.cz/eig-oem-automatic/index.html）
+- **Jakub Hanousek** — Product Area Manager Machine/Safety/Electronics/Railway(产品口对口)（源:https://www.oemautomatic.cz/kontakty/nas-tym）

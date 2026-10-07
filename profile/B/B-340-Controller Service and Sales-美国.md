@@ -113,3 +113,29 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:Avon MA,38 员工;Michael Sandonato 销售市场总监
+**域 MX**:{"controllerservice.com": ["controllerservice-com.mx1.arsmtp.com", "controllerservice-com.mx2.arsmtp.com"]}
+- **Mark O'Day** — President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA)（源:https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html）
+  - `mark@controllerservice.com`(first@(controllerservice.com))
+  - `mark.o'day@controllerservice.com`(first.last@(controllerservice.com))
+  - `m.o'day@controllerservice.com`(f.last@(controllerservice.com))
+  - `marko'day@controllerservice.com`(firstlast@(controllerservice.com))
+  - `mo'day@controllerservice.com`(flast@(controllerservice.com))
+  - `o'day@controllerservice.com`(last@(controllerservice.com))
+- **Scott O'Day** — VP Sales and Marketing(兄弟共管)（源:https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae）
+  - `scott@controllerservice.com`(first@(controllerservice.com))
+  - `scott.o'day@controllerservice.com`(first.last@(controllerservice.com))
+  - `s.o'day@controllerservice.com`(f.last@(controllerservice.com))
+  - `scotto'day@controllerservice.com`(firstlast@(controllerservice.com))
+  - `so'day@controllerservice.com`(flast@(controllerservice.com))
+  - `o'day@controllerservice.com`(last@(controllerservice.com))
+- **Jim Long** — Corporate Controller（源:同 RocketReach 源）
+  - `jim@controllerservice.com`(first@(controllerservice.com))
+  - `jim.long@controllerservice.com`(first.last@(controllerservice.com))
+  - `j.long@controllerservice.com`(f.last@(controllerservice.com))
+  - `jimlong@controllerservice.com`(firstlast@(controllerservice.com))
+  - `jlong@controllerservice.com`(flast@(controllerservice.com))
+  - `long@controllerservice.com`(last@(controllerservice.com))

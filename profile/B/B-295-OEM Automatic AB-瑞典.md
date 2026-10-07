@@ -117,3 +117,7 @@ Saga Telecom - PoE switch OEM/ODM
 ---
 
 *建档日期：2026-09-22　|　数据来源：客户名单_反向信号_2026-09.csv*
+
+## 2026-10-07 R64 KP 猎捕（B 类第 1 批）
+
+**结论**:OEM Automatic AB(瑞典母公司,与 B-200 同集团):集团 KP 借 B-200 Jan Drlík 线;oemautomatic.se MX(outlook)存活
