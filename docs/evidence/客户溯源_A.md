@@ -7,560 +7,816 @@
 <a id="A-001"></a>
 ## A-001 · Puma Solutions ApS · 丹麦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-2`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pumait.dk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[0]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:（法定董事待查）(业主/采购决策人（推定）,角色邮箱官网公开；姓名未公开→CVR 登记处可拉);—（模式猜测）(—,模式猜测 · 未验证（MX 已验 Google）)
+  - 保留原文：PUMA SOLUTIONS APS · CVR DK44763729 · rfi@pumait.dk
+  - [1](https://pumait.dk/)
+  - [2](https://pumait.dk/)
+  - [3](https://pumait.dk/)
+  - [4](https://www.pumait.dk/contactus)
+  - [5](https://pumait.dk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-002"></a>
 ## A-002 · Troels E. Normolle / UNIFOSS · 丹麦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-3`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：unifoss.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/dk.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[1]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Troels Elkjær Nørmølle(业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%）,邮箱官网+CSV 双源；MX 已验);—（社媒入口）(业主本人社媒,入口已见，URL 未逐一展开（点击需登录）)
+  - 保留原文：UNIFOSS ApS … Adresse: Østerbyvej 35, 8632 Lemming … CVR: DK-35517111
+  - [1](http://www.unifoss.com/)
+  - [2](https://ownr.dk/users/public-profile/4000636356)
+  - [3](https://www.victoriataulbaek.dk/kopi-af-airshoot)
+  - [4](https://unifoss.com/)
+  - [5](https://unifoss.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-003"></a>
 ## A-003 · Andrew Drozd / Iron Sentinel · 乌克兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-4`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ironsentinel.net
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[2]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：日托米尔网络/安防集成商（局域网+监控+报警+门禁）；官网为本轮实测的占位页。3 步：24 口 PoE++（供电波动场景）→ 工业非管理 PoE（门禁/报警现场箱）→ 管理型 PoE（VLAN 隔离+冗余）。
+  - 保留原文：Coming Soon — ironsentinel.net
+  - [1](https://ironsentinel.net/)
+  - [2](https://ironsentinel.net/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-004"></a>
 ## A-004 · Vitalii Potravka · 乌克兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-5`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[3]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：基辅 MikroTik 顾问（MTCNA+MTCSWE，交换专长），无官网、个人邮箱接单。3 步：24 口 PoE++（参数直给）→ 工业非管理 PoE（免维护节点）→ 管理型 PoE（可脚本化部署）。
+  - 保留原文：MTCNA+MTCSWE → 交换机是正式专长（既有轮次记录）
+  - [1](https://mikrotik.com/consultants)
+  - [2](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-005"></a>
 ## A-005 · Alain Casault, B.Ing. · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-6`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：educationhmo.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/ca.json / item[6]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[4]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Alain Casault(业主/首席顾问/MikroTik 认证讲师（前 CSPE IT 副总裁）,电话多源一致；遗产邮箱 MX（MS365）今日核验仍解析);—（模式猜测）(自有域邮箱,模式猜测 · 未验证（自有域 MX 自建存活，首试优先级高）)
+  - 保留原文：Télécommunications Alain Casault specializes in providing MikroTik training and telecommunications consulting services.
+  - [1](https://www.zoominfo.com/c/alain-casault/532760382)
+  - [2](https://www.zoominfo.com/p/Alain-Casault/5130311306)
+  - [3](https://www.zoominfo.com/pic/alain-casault/532760382)
+  - [4](https://educationhmo.com/)
+  - [5](https://www.zoominfo.com/c/alain-casault/532760382)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-006"></a>
 ## A-006 · Amir Seifi / Magenta Networks · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-7`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：magentanetworks.net
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/ca.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[5]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Amir Seifi(负责人（推定；MikroTik 认证名录持证人）,双职能邮箱官网公开；MX 已验（Google）；LinkedIn 未确认);—（模式猜测）(—,模式猜测 · 未验证)
+  - 保留原文：IT Solutions for any business. Delivering comprehensive IT solutions, from proactive monitoring to full-spectrum management.
+  - [1](https://magentanetworks.ca/)
+  - [2](https://magentanetworks.ca/)
+  - [3](https://magentanetworks.ca/)
+  - [4](https://magentanetworks.ca/contact)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-007"></a>
 ## A-007 · Industrial Solutions Inc · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-8`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：indsol.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[6]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:（采购/网络产品 owner 待问）(网络连接类目采购决策人,官网+Red Lion 分销商页双源公开；MX（MS365）已验);（LinkedIn 公司号）(2,616 粉；周更；当前在招 Technical Sales Rep,已见；私信/评论为二通道（需登录操作，未执行）)
+  - 保留原文：Company size: 2-10 employees … Headquarters: Sherwood Park, Alberta … Founded: 1992
+  - [1](https://ca.linkedin.com/company/industrialsolutionsinc)
+  - [2](https://ca.linkedin.com/company/industrialsolutionsinc)
+  - [3](https://www.indsol.com/product-categories)
+  - [4](https://www.indsol.com/product-categories)
+  - [5](https://www.redlion.net/distributors/industrial-solutions-inc-22)
+  - [6](https://www.indsol.com/s/ISI-Product-Line-Card-Page-1-2026.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-008"></a>
 ## A-008 · Jody Lemoine / Tishco Networks · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-9`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tishco.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/ca.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[7]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Jody Lemoine(业主/Network Architect（CCDP, CCIE R&S #41436；MTCRE 2103RE2975 已于 2024-03 过期）,双邮箱其一官网公开；MX（Google）已验);Jody Lemoine（社媒层）(技术社区身份 ghostinthenet,多平台公开身份已核（GitHub 简介互链）)
+  - 保留原文：Since 2007, tishco networks has offered business-focused network design and implementation services.
+  - [1](https://www.tishco.ca/)
+  - [2](https://www.tishco.ca/)
+  - [3](https://www.experts-exchange.com/members/jodylemoine.html)
+  - [4](https://www.experts-exchange.com/members/jodylemoine.html)
+  - [5](https://www.linkedin.com/in/jodyl/)
+  - [6](https://github.com/ghostinthenet)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-009"></a>
 ## A-009 · MohammadMahdi Raeesi / Commander IT · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-10`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：commanderit.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/ca.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[8]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:MohammadMahdi（Mahdi）Raeesi(业主/MikroTik 顾问（前 wirelessnetware 供职记录）,官网公开邮箱+电话；姓名-公司关联经 LinkedIn 核验);—（模式猜测）(—,模式猜测 · 未验证（自托管邮服，建议电话先行）)
+  - 保留原文：Expert MikroTik solutions for seamless connectivity. Specializing in robust networks, data security, and services for diverse industries.
+  - [1](https://commanderit.ca/)
+  - [2](https://commanderit.ca/)
+  - [3](https://commanderit.ca/)
+  - [4](https://www.linkedin.com/in/mahdi-raeesi-4195173b/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-010"></a>
 ## A-010 · Wireless Netware · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-11`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：wirelessnetware.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[9]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Hani Rahrouh(President & CEO / MikroTik Coordinator（加拿大首位官方培训师）,官网公开；LinkedIn 5K 粉周更（可双通道）);—（模式猜测）(—,模式猜测 · 未验证（MX Google 已验）)
+  - 保留原文：Wireless Netware Technology is Canada's authorized MikroTik reseller, stocking the full range … All products are IC Certified for Canadian use and ship from our Toronto warehouse
+  - [1](https://wirelessnetware.ca/)
+  - [2](https://ca.linkedin.com/company/wireless-netware)
+  - [3](https://ca.linkedin.com/company/wireless-netware)
+  - [4](https://wirelessnetware.ca/)
+  - [5](https://ca.linkedin.com/company/wireless-netware)
+  - [6](https://www.linkedin.com/in/hani-rahrouh-38019521/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-011"></a>
 ## A-011 · Yvan Laverdiere · 加拿大
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-12`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：cegepat.qc.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/ca.json / item[5]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[10]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Yvan Laverdière(Cégep 计算机技术教授（2008–今）/ MikroTik 认证顾问（5证）,邮箱既有；学院 MX（MS365）已验；LinkedIn 页已见)
+  - 保留原文：Yvan Laverdiere is a Professor at Cégep de l'Abitibi-Témiscamingue based in Rouyn Noranda, Quebec … Cégep de l'Abitibi-Témiscamingue … 2008-present (18 years)
+  - [1](https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842)
+  - [2](https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842)
+  - [3](https://seeclg.org/wp-content/uploads/2020/11/liste-des-signataires-lettre-ouverte-cegeps.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-012"></a>
 ## A-012 · Balazs Meretei · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-13`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：meretei.hu
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/hu.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[11]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Balázs Meretei（NoXy）(独立顾问/wireless-bolt.hu 客座 MTCNA 讲师,自有域邮箱既有；MX（flash-net.hu）已验)
+  - 保留原文：Switch(config)#ntp server 148.6.0.1 … Switch(config)#clock summer-time CEST recurring last Sun Mar 02:00 last Sun Oct 03:00
+  - [1](https://meretei.hu/)
+  - [2](https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes)
+  - [3](https://meretei.hu/facebook-tiltasa-mikrotik-routerrel/)
+  - [4](https://meretei.hu/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-013"></a>
 ## A-013 · Laszlo Kalapos / MindenamiMikrotik · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-14`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mindenamimikrotik.hu
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/hu.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[12]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Kalapos László(匈牙利首位 MikroTik Certified Trainer（2009）/ 培训站主,官网公开；MX（nethely.hu）已验)
+  - 保留原文：Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója. 2010 óta tartok élő képzéseket
+  - [1](https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/)
+  - [2](https://mindenamimikrotik.hu/mikrotik-alapozas/)
+  - [3](https://mindenamimikrotik.hu/)
+  - [4](https://mindenamimikrotik.hu/mikrotik-alapozas/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-014"></a>
 ## A-014 · Tamás Gajdos · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-15`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/hu.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[13]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Gajdos Tamás(个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述）,邮箱既有；MX（outlook.com）已验；GitHub 身份已核)
+  - 保留原文：Gajdos Tamás gajdipajti - Furukawa Electric Institute of Technology - Szeged, Hungary
+  - [1](https://github.com/gajdipajti)
+  - [2](https://github.com/gajdipajti)
+  - [3](https://github.com/gajdipajti?tab=stars)
+  - [4](http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-015"></a>
 ## A-015 · Goran Stojkovic · 塞尔维亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-16`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/balkan.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[14]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Ćuprija 的 InterCom Computers 工程师兼 MikroTik 讲师（培训联系人就是他），会修 RouterBOARD、做 WISP 运维。3 步：24 口 PoE++（接入层+看门狗）→ 工业非管理 PoE（塔站/室外箱）→ 管理型 PoE（冗余环+课堂实验）。
+  - 保留原文：Predavači: MikroTIK sertifikovani treneri；Kontakt: Telefon za informacije: 035/8477-077, 063/600-324 - Goran Stojković；Email: mikrotik@intercom.rs；InterCom Computers, Zmaj Jovina 2, 35230 Ćuprija … office@intercom.rs；www.intercom.rs
+  - [1](http://www.intercom.rs/sr/mikrotik-440)
+  - [2](http://www.intercom.rs/sr/mikrotik-440)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-016"></a>
 ## A-016 · Igor Stojković / Netis · 塞尔维亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-17`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netis.rs
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/balkan.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[15]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Igor Stojković(Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满）,邮箱既有；MX（自建 mail.netis.rs）站死邮活已验；手机社媒绑定未验)
+  - 保留原文：Consultant and experienced Serbian trainer for Mikrotik RouterOS (MTCNA, MTCRE, MTCTE… … Mikrotik Certified Trainer … Credential ID TR0237
+  - [1](https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/)
+  - [2](https://www.mikrotiktrening.rs/event/mtcna-maj-2026/)
+  - [3](https://rs.linkedin.com/posts/igor-stojkovi%C4%87-30329a23_mtcna-trening-u-septembru-mikrotik-trening-activity-6961279559149215744-V628)
+  - [4](https://netis.rs/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-017"></a>
 ## A-017 · Sasa Blagojevic · 塞尔维亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-18`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/balkan.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[16]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Niš 网络架构师+MikroTik 讲师（TR0507/ACTR0658），与 3Net/All4Net 合作培训，为 IP ArchiTechs 实验室写 CHR 100G 实测；专注运营商/园区/DC 二层与冗余。3 步：24 口 PoE++（硬指标）→ 工业非管理 PoE（边缘机柜）→ 管理型 PoE（q-in-q/ERPS/10G 实测合作）。
+  - 保留原文：Mikrotik Trainer — Credential ID TR0507；Mikrotik Academy Trainer — Credential ID ACTR0658；MTCINE 1806INE2171｜MTCWE 1806WE2064｜MTCUME 1806UME2105｜MTCIPv6E 1806IPv6E2209；ePMP Training Cambium Networks
+  - [1](https://www.linkedin.com/in/sasa-blagojevic-3ba87230/)
+  - [2](http://3net.rs/tag/sasa-blagojevic/)
+  - [3](https://www.linkedin.com/posts/ipa-kevin-myers_mikrotik-chr-breaking-the-100g-barrier-activity-6876079340556165120-VRiU/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-018"></a>
 ## A-018 · Bernhard Kröll / Giganet · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-19`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：giganet.at
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/at_ch.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[17]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Bernhard Kröll(GiGaNet.at 业主 / ISPA 会员本地 ISP,邮箱 office@ 官网 impressum 公开；MX（MS365）已验；站 HTTP 500×2 如实记录)
+  - 保留原文：Bernhard Kröll, GiGaNet.at … Adresse: Rauchenwald 651 6290 Mayrhofen … E-Mail: office@giganet.at … UID: ATU49219304
+  - [1](https://giganet.co.at/wordpress/impressum/)
+  - [2](https://www.yumpu.com/de/document/view/5338674/internet-service-providers-austria-ispa/11)
+  - [3](https://giganet.co.at/wordpress/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-019"></a>
 ## A-019 · Khalil / Aulaf · 奥地利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-20`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：aulaf.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/at_ch.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[18]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Khalil Chamseddine(AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证）,双邮箱其一课程页公开其一官网公开；MX（IONOS）已验)
+  - 保留原文：Khalil Chamseddine … MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCINE, MTCSE, MTCSWE, MTCEWE … Vienna, Austria MikroTik Certified Trainer with more than 20 years experience
+  - [1](https://mikrotik.com/consultants/europe/austria)
+  - [2](https://aulaf.com/)
+  - [3](https://aulaf.com/)
+  - [4](https://aulaf.com/mtcna-vienna)
+  - [5](https://mikrotik.com/consultants/europe/austria)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-020"></a>
 ## A-020 · Apostolas Georgios · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-21`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：apostolas.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/gr.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[19]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：
+KP 谱:Georgios Apostolas(业主（推定）/ MTCNA+MTCRE 工程师,info@ 官网公开；个人邮箱既有；MX（Google）已验)
+  - 保留原文：Δίπλα σας, από το 1995 … Με περισσότερα από 30 χρόνια εμπειρίας και με έδρα τη Ρόδο
+  - [1](https://apostolas.gr/)
+  - [2](https://apostolas.gr/)
+  - [3](https://apostolas.gr/)
+  - [4](https://apostolas.gr/poia-tameiaki-michani-chreiazetai-i-epicheirisi-sas-sti-rodo/)
+  - [5](https://apostolas.gr/epikoinonia/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-021"></a>
 ## A-021 · Charalampos Marinakis / SystemCon · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-22`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：systemcon.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/gr.json / item[4]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[20]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：克里特综合 IT 服务商（品牌墙含 MikroTik/Ubiquiti/Fortinet，做基础设施/云/BI 整体交付）。3 步：24 口 PoE++（交付清单）→ 工业非管理 PoE（机房外）→ 管理型 PoE（VLAN/冗余模板）。
+  - 保留原文：Complete IT Business Solutions — Tailored IT services to meet your organization's unique needs.；Our expertise spans Business Intelligence, Enterprise Resource Planning, Systems Infrastructure, and more
+  - [1](https://systemcon.gr/)
+  - [2](https://systemcon.gr/)
+  - [3](https://systemcon.gr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-022"></a>
 ## A-022 · Eleftherios Liodakis / MikroTik Training Greece · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-23`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotiktraining.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/gr.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[21]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：希腊首家 MikroTik 培训中心（HellasCom 品牌；2 讲师均持 10 证；9,313+ 学员；2026 秋排期 MTCNA/MTCSE）。3 步：24 口 PoE++（实验台）→ 工业非管理 PoE（现场课）→ 管理型 PoE（写进课程案例）。注意与 A-024 同体系，别双报价。
+  - 保留原文：MikroTik Distributor από το 2001 — Training Center από το 2011 … Η HellasCom και το ηλεκτρονικό κατάστημα LinkShop.GR, MikroTik Distributor στην Ελλάδα από το 2001
+  - [1](https://mikrotiktraining.gr/)
+  - [2](https://mikrotiktraining.gr/)
+  - [3](https://mikrotiktraining.gr/)
+  - [4](https://mikrotiktraining.gr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-023"></a>
 ## A-023 · George Tatsis / GTA · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-24`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：gta.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/gr.json / item[8]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[22]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：雅典楼宇自控/弱电集成（楼宇承载网方向，MTCNA+MTCRE+MTCSE）；官网仅联系表单。3 步：24 口 PoE++（BMS/门禁/摄像头）→ 工业非管理 PoE（弱电间/车库）→ 管理型 PoE（分段+环网）。
+  - 保留原文：GTA – Buildings for people；contact 页仅 First name / Last name / email / Where do you live / Telephone / Your Message 表单
+  - [1](https://gta.gr/contact/)
+  - [2](https://gta.gr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-024"></a>
 ## A-024 · HellasCom L.t.d. · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-25`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hellascom.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[23]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：希腊 MikroTik 生态源头（1998 起、ISO 9001、500+ 项目；LinkShop.gr 网店 + 培训中心；酒店/机场/隧道/航运四大场景）。3 步：24 口 PoE++（酒店楼层）→ 工业非管理 PoE（隧道现场箱）→ 管理型 PoE（IPTV 组播+环网）。品牌口：A-022 同体系。
+  - 保留原文：Η HELLASCOM είναι Τεχνική - Εμπορική εταιρεία … Βρίσκεται στο χώρο από το 1998；1998 Ίδρυση｜ISO 9001 : 2015｜28+ Χρόνια Εμπειρίας｜500+ Ολοκληρωμένα Έργα
+  - [1](https://www.hellascom.gr/el)
+  - [2](https://www.hellascom.gr/el)
+  - [3](https://www.hellascom.gr/el)
+  - [4](https://www.hellascom.gr/el)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-025"></a>
 ## A-025 · Katsariotis Dimitrios / IME · 希腊
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-26`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ime.com.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/gr.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[24]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：帕特雷/雅典信息化公司（水务计费、餐饮点单、零售连锁软件；全国支持网络）；顾问持 MTCNA/MTCRE/MTCTCE/MTCSE 且专长含 switching。3 步：24 口 PoE++（门店标准包）→ 工业非管理 PoE（水厂户外柜）→ 管理型 PoE（多站点模板）。
+  - 保留原文：Καλύπτουμε όλο το φάσμα της Μηχανογράφησης-Μηχανοργάνωσης οποιασδήποτε μορφής επιχείρησης. Έχοντας έδρα την Πάτρα … πλήρεις υπηρεσίες υποστήριξης (Hardware και Software) σε όλη την Ελλάδα
+  - [1](https://ime.com.gr/)
+  - [2](https://ime.com.gr/)
+  - [3](https://ime.com.gr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-026"></a>
 ## A-026 · Alexej Sokolow / DECOIT · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-27`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：decoit.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[25]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：不来梅 IT 咨询/集成（2001 起，厂商中立 + 开源栈 + 研究项目；负责人持 MTCSWE）。3 步：24 口 PoE++（可验证指标）→ 工业非管理 PoE（现场点位）→ 管理型 PoE（接 Icinga/Cacti 监控与脚本化）。
+  - 保留原文：In order to stay vendor-neutral we do not engage in contracts that oblige us to sell a certain amount of software licences. But we do cooperate with vendors by offering their products as part of our product portfolio.
+  - [1](https://www.decoit.de/en/home_en.html)
+  - [2](https://www.decoit.de/en/home_en.html)
+  - [3](https://www.decoit.de/en/home_en.html)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-027"></a>
 ## A-027 · Dinko Ivanov / MBN Glasfaser · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-28`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mbn-glasfaser.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[26]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：德国农村光纤-微波混合 ISP/网络运营商（MBN，18 年；FTTT+微波 10Gbit/s；市政补贴项目 + 公共热点）。3 步：24 口 PoE++（PoP 机柜）→ 工业非管理 PoE（塔站/室外箱）→ 管理型 PoE（回传环+QinQ）。
+  - 保留原文：Mobile Breitbandnetze GmbH (kurz MBN) ist Ersteller von Funknetz-Infrastruktur und Glasfasernetzen, sowie Netzbetreiber und Internet Provider. Unser Schwerpunkt liegt in der Breitbandversorgung im ländlichen Raum.
+  - [1](https://mbn-glasfaser.de/)
+  - [2](https://mbn-glasfaser.de/)
+  - [3](https://mbn-glasfaser.de/)
+  - [4](https://mbn-glasfaser.de/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-028"></a>
 ## A-028 · Holger Witt / SKYTRON Communications GmbH & Co. KG · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-29`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：skytron.business
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[27]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：德国 Karlsbad 全栈电信商（2000 年微波先驱，自建基础设施；托管交换机+企业 WLAN+视频监控+IoT/LoRaWAN；高可用靠微波冗余/SD-WAN）。3 步：24 口 PoE++（企业项目）→ 工业非管理 PoE（塔站）→ 管理型 PoE（ERPS 冗余实测）。
+  - 保留原文：WLAN & Netzwerk — Von managed Switchen bis hin zu zuverlässigem Enterprise WLAN bieten wir maßgeschneiderte Lösungen. Unser Angebot umfasst auch öffentliches WLAN für Städte, Event-WLAN für Veranstaltungen und Videoüberwachungssysteme.
+  - [1](https://skytron.business/)
+  - [2](https://skytron.business/)
+  - [3](https://skytron.business/)
+  - [4](https://skytron.business/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-029"></a>
 ## A-029 · Kehrlein（MikroTik 认证顾问） · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-30`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：kehrlein.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[28]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：慕尼黑 MikroTik 官方顾问（2007 起，10 证含 MTCSWE；高可用 VRRP/MLAG、MPLS/VRF、自动化；全球远程 24×7）。3 步：24 口 PoE++（设计口径/可复测）→ 工业非管理 PoE（现场点位）→ 管理型 PoE（ERPS 收敛实测）。
+  - 保留原文：Official MikroTik Consultant · Since 2007；MTCNA · MTCRE · MTCWE · MTCTCE · MTCUME · MTCINE · MTCIPv6E · MTCSE · MTCSWE · MTCEWE；Technologies: Routing (BGP, OSPF, VRF, MPLS), Firewalling, Switching, VLAN, DNS, Tunneling (GRE, EoIP, VXLAN), VPN (IPsec, L2TP, OpenVPN, WireGuard), PPPoE, Wireless & CAPsMAN, Hotspot & Captive Portals, QoS, IPv6, Load Balancing, High Availability (VRRP, MLAG), Security Audits, Monitoring, Backup, Network Automation
+  - [1](https://www.kehrlein.de/en/)
+  - [2](https://www.kehrlein.de/en/)
+  - [3](https://www.kehrlein.de/en/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-030"></a>
 ## A-030 · Michael Gisbers / Linux-Schmie.de · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-31`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：linux-schmie.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[29]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Oberhausen MikroTik 培训/咨询个人品牌（10 证全拿；2027 起开 MTCSWE 课程；运营 MUG Oberhausen 与安全博客）。3 步：24 口 PoE++（MTCSWE 实验台）→ 工业非管理 PoE（用户组演示）→ 管理型 PoE（课程安全案例）。
+  - 保留原文：MikroTik Kurse für 2027 online – Jetzt auch mit MTCSWE … Neben MTCNA und weiteren Vertiefungskursen ist ab sofort auch der MikroTik Certified Switching Engineer (MTCSWE) verfügbar.
+  - [1](https://www.linux-schmie.de/posts/mikrotik-kurse-2027/)
+  - [2](https://www.linux-schmie.de/posts/mug/mikrotik_user_group_oberhausen_2026-10-13/)
+  - [3](https://www.linux-schmie.de/posts/mikrotik-routeros-mikrotrick/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-031"></a>
 ## A-031 · VARIA System GmbH · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-32`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：varia-store.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/A类_中国品牌命中_2026-09-29.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[30]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：开姆尼茨官方分销网店（MikroTik/Ubiquiti/Teltonika/Delock/TP-Link/Deciso/MOXA；24/7 报价、发票采购、国际配送、14 天退货）。3 步：24 口 PoE++（上架试销）→ 工业非管理 PoE（工业货架补缺）→ 管理型 PoE（项目配套+光模块组合）。
+  - 保留原文：Marken Highlights：Ubiquiti, UNIFI, MikroTik, Teltonika, Delock, TP-Link, Deciso｜在架示例：Mikrotik KNOT LR9G kit、MOXA AIG 101、Teltonika FMB
+  - [1](https://www.varia-store.com/)
+  - [2](https://www.varia-store.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-032"></a>
 ## A-032 · Aikom Technology · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-33`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：aikomtech.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/A类_中国品牌命中_2026-09-29.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[31]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：意大利/国际 B2B VAD（20 年；AikomGo 电商；六大板块含 Wi-Fi&Networking / Broadband for WISP-ISP-MSP；10/13 Connectivity Camp 含 switching 主题）。3 步：24 口 PoE++（进目录）→ 工业非管理 PoE（WISP 塔站/安防）→ 管理型 PoE（渠道活动演示）。
+  - 保留原文：B2B value added distributor — Prodotti, soluzioni, tecnologie e competenze avanzate per i professionisti del canale e delle telecomunicazioni.；AikomGo, il portale e-commerce B2B di Aikom Technology — giacenze, listini, promozioni e documentazione, ordini 24/7 per system integrator, installatori e service provider
+  - [1](https://www.aikomtech.com/)
+  - [2](https://www.aikomtech.com/)
+  - [3](https://www.aikomtech.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-033"></a>
 ## A-033 · Alejandro Pablo Falà / MikroTik Training Italia · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-34`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotik-training.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[7]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[32]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：意大利官方 MikroTik 培训机构（讲师 Alejandro Pablo Falà；2026–2027 多城排期；面向 WISP/ISP 的 RIPE/OSPF/MPLS/VPLS/BGP 顾问服务）。3 步：24 口 PoE++（课程实验台）→ 工业非管理 PoE（ISP 现场课）→ 管理型 PoE（接入层+课程）。
+  - 保留原文：Prossimi Corsi：Corso MikroTik MTCNA Lamezia Terme（Ottobre 26-28）；Corso MikroTik MTCRE – Lamezia Terme（Gennaio 18-20, 2027）；Corso MikroTik MTCRE – Cagliari（Febbraio 17-19, 2027）
+  - [1](https://mikrotik-training.it/)
+  - [2](https://mikrotik-training.it/)
+  - [3](https://mikrotik-training.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-034"></a>
 ## A-034 · Alessandro Campanella / 1off · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-35`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：1off.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[33]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：意大利 1off（Mogliano Veneto）：ISP/WISP/SI 的 Strategic Network Mentor + 官方 MikroTik 培训中心（讲师 Campanella 持 MTCSWE/MTCEWE；自办 RouterOS 竞赛与 Insights 内容）。3 步：24 口 PoE++（接入层标准件）→ 工业非管理 PoE（现场/塔站）→ 管理型 PoE（写进参考架构）。
+  - 保留原文：1off affianca gli operatori come Strategic Network Mentor … La consulenza 1off è pensata per operatori, integratori e organizzazioni che vogliono rendere la loro rete più affidabile e scalabile: ISP e WISP｜System integrator｜Organizzazioni enterprise
+  - [1](https://www.1off.it/)
+  - [2](https://www.1off.it/)
+  - [3](https://www.1off.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-035"></a>
 ## A-035 · Alessandro Del Ferro / Bitmagic · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-36`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：bitmagic.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[34]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：佩萨罗 MikroTik 顾问（Bitmagic；8 证含 MTCSWE/MTCEWE/MTCTCE）；官网本轮为建设中占位页。3 步：24 口 PoE++（硬指标）→ 工业非管理 PoE（现场点位）→ 管理型 PoE（QoS/环网）。
+  - 保留原文：Sito in costruzione（bitmagic.it 首页）
+  - [1](https://www.bitmagic.it/)
+  - [2](https://www.bitmagic.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-036"></a>
 ## A-036 · Alfredo Giordano / TikTrain · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-37`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tiktrain.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[8]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[35]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：TikTrain（意大利 Montoro）：2000 年起做电信/网络，现做 MikroTik（10 证）+ Ubiquiti（5 证）培训与 ISP 咨询（可服务欧洲与墨西哥）。3 步：24 口 PoE++（课程+项目）→ 工业非管理 PoE（ISP 站址）→ 管理型 PoE（QoS/环网演示）。
+  - 保留原文：We are a group of professionals working with in telecommunications from 2000. After deploying high value solutions over hundreds of networks of different type and size and we are committed to consulting and training.
+  - [1](https://tiktrain.com/)
+  - [2](https://tiktrain.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-037"></a>
 ## A-037 · Cristian Delogu / Netify · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-38`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netify.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[10]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[36]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：洛迪（Lodi）一体化安防公司（报警/监控/闸机/门禁 + 网络安全 + 网络设计 + MikroTik 培训；合作 MikroTik/Cambium/Sophos/Nedap）。3 步：24 口 PoE++（安防供电）→ 工业非管理 PoE（闸机/停车场）→ 管理型 PoE（安防网段隔离+管理面安全）。
+  - 保留原文：sistemi e impianti di sicurezza integrata: dalla sicurezza fisica con sistemi di allarme, videosorveglianza, tornelli e controllo accessi, alla sicurezza informatica … con la cyber security e la progettazione di infrastrutture di rete ad hoc；SOLUZIONI DI SICUREZZA INTEGRATA｜SOLUZIONI UNIFIED COMMUNICATION｜SOLUZIONI DI NETWORKING
+  - [1](https://www.netify.it/)
+  - [2](https://www.netify.it/)
+  - [3](https://www.netify.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-038"></a>
 ## A-038 · Davide Toffoletto · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-39`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[37]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：乌迪内 MikroTik 全科目认证讲师（企业交换/路由/防火墙集群、CAPsMAN 仓库办公覆盖、PtP、QoS）；无官网，公开信息以名录为准。3 步：24 口 PoE++（CAPsMAN 承载）→ 工业非管理 PoE（仓库/车间）→ 管理型 PoE（接入层分段+双上行）。
+  - 保留原文：★★ 全科目 MikroTik 认证讲师；企业级网络 = 交换 switching、路由、防火墙、防火墙集群；站点间 PtP 无线；仓库与办公的室内无线覆盖（CAPsMAN）；QoS（CSV 备注）
+  - [1](https://mikrotik.com/consultants)
+  - [2](https://x.com/dtoffoletto)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-039"></a>
 ## A-039 · Efa Automazione S.p.A. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-40`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：efa.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[38]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：米兰工业数字化方案商（EFA Automazione，Relatech 集团；30 年；案例覆盖水务/乳业/水电/酿酒/层压板）；方案板块含 Switch & Networking，渠道背景 N-Tron/Red Lion/HMS → 价差与第二供应商故事。3 步：24 口 PoE++（降本论证）→ 工业非管理 PoE（第二供应商）→ 管理型 PoE（冗余环+10G，视集团框架）。
+  - 保留原文：Soluzioni：Gateway di comunicazione｜Industrial I/O & Data Collection｜Pannelli Operatore HMI｜Piattaforme di versioning｜Sicurezza informatica｜Software di DataOps｜Software Industriale｜**Switch & Networking**｜Teleassistenza & Telecontrollo
+  - [1](https://www.efa.it/)
+  - [2](https://www.efa.it/)
+  - [3](https://www.efa.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-040"></a>
 ## A-040 · Gianpiero Ciacci · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-41`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[12]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[39]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：锡耶纳注册工程师：锡耶纳外国人大学 IT 服务中心主任（2001 起）+ 网络/安全顾问 + 公共采购 RUP；持 MTCNA+MTCSE，专长含 switching。3 步：24 口 PoE++（校园接入，参数入库）→ 工业非管理 PoE（楼栋外/实验室）→ 管理型 PoE（多楼栋冗余+分段）。
+  - 保留原文：Gianpiero Ciacci … laureato in Ingegneria Informatica nel 1998 … L'attività professionale si incentra sulla progettazione e realizzazione di basi di dati aziendali con interfaccia web, sulla progettazione ed allestimento di reti LAN, WiFi e VPN e sulla consulenza in ambito di sicurezza informatica. Presso l'Università per Stranieri di Siena ricopre il ruolo di Direttore del Centro Servizi Informatici dal 2001.
+  - [1](https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227)
+  - [2](https://unistrasi.traspare.com/announcements/235)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-041"></a>
 ## A-041 · Lorenzo Busatti / Grifonline · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-42`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：routing.wireless.academy
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[4]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[40]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：品牌迁移中的 Grosseto 本地 ISP+培训方（Grifonline→Linkwave）。3 步：酒店线 24 口 PoE++ → 塔站工业 PoE → 管理型进 NOC+课程实验台。
+  - 保留原文：You will be redirected to Linkwave.it soon!
+  - [1](http://www.grifonline.it/)
+  - [2](https://linkwave.it/)
+  - [3](https://linkwave.it/)
+  - [4](https://routing.wireless.academy/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-042"></a>
 ## A-042 · PF Tech · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-43`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pftech.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/it.json / item[6]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[41]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：ROC 牌照的都灵省集成商，视频监控线供电需求明确，且自述分销——可「自用→上架」双轨。3 步：监控 24 口 PoE++ → 户外工业 PoE → 管理型上架试销。
+  - 保留原文：PF Tech si occupa di distribuire prodotti informatici hardware e software, oltre a tutti i servizi e soluzioni ad essi correlati, con una platea di riferimento che va dall’utenza domestica alla grande azienda.
+  - [1](https://www.pftech.it/)
+  - [2](https://www.pftech.it/)
+  - [3](https://www.pftech.it/)
+  - [4](https://www.pftech.it/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-043"></a>
 ## A-043 · Martin Pina · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-44`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hanacke.net
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[42]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Olomouc 一人 ISP/顾问（公开口碑级高手）。3 步：接入层 24 口 PoE++ → 室外工业 PoE（少上门）→ 管理型进样板网络/课程。
+  - 保留原文：Poskytuji připojení k internetu. Provádím návrhy a správy sítí.
+  - [1](https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html)
+  - [2](https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html)
+  - [3](https://rejstrik-firem.kurzy.cz/04241959/hanacke-net-sro/)
+  - [4](https://www.edb.cz/firma-1000296-martin-pina-olomouc/kontakt)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-044"></a>
@@ -582,14 +838,19 @@
 <a id="A-045"></a>
 ## A-045 · Dan Erhan · 摩尔多瓦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-46`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/A类_中国品牌命中_2026-09-29.json / item[4]`；`batch/last.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[43]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Chișinău 个人工程师（多品牌+MikroTik/Dahua 认证；MTCTCE 2026-01 续证窗）。3 步：监控 24 口 PoE++ → 室外工业 PoE → 管理型+续证窗切入。
+  - 保留原文：I am also a MikroTik and Dahua certified specialist with valid certificates! … Configuration of Wireless equipment from MikroTik, Unifi, Tp-Link companies. Setting up and configuring network equipment from the companies MikroTik, TP-Link, Huawei, Planet.
+  - [1](https://www.linkedin.com/in/dan-erhan-067708242/)
+  - [2](https://www.linkedin.com/in/dan-erhan-067708242/)
+  - [3](https://www.linkedin.com/in/dan-erhan-067708242/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-046"></a>
@@ -611,820 +872,1172 @@
 <a id="A-047"></a>
 ## A-047 · CSI S.A. · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-48`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：csi.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[44]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Kraków 头部分销（Antaira 授权、轨道交通背书）。3 步：商用 24 口 PoE++ 摆商用架 → 工业 PoE 二供 → 管理型进能源/轨道标。
+  - 保留原文：Komputery przemysłowe · Obudowy przemysłowe · Industrial Flash · Komputery Rugged · Komunikacja przemysłowa · Elektronika użytkowa
+  - [1](https://csi.pl/)
+  - [2](https://csi.pl/)
+  - [3](https://csi.pl/)
+  - [4](https://csi.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-048"></a>
 ## A-048 · Ihor Hreskiv / mtik.pl · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-49`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mtik.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[45]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Kraków 高量 MikroTik 讲师（315+ 场）。3 步：实验台 24 口 PoE++ → 极客演示工业 PoE → 管理型进讲义做联合案例。
+  - 保留原文：315+ szkoleń · 1675+ kursantów
+  - [1](https://mtik.pl/)
+  - [2](https://mtik.pl/)
+  - [3](https://mtik.pl/)
+  - [4](https://mtik.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-049"></a>
 ## A-049 · Jacek Rokicki / C3NET · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-50`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：c3net.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[46]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：华沙近郊一人集成商（CRS/L2 熟练、官网故障中）。3 步：24 口 PoE++ 对标 CRS328 → 弱电间/室外工业 PoE → 管理型进他的多路由+L2 方案。
+  - 保留原文：Usługi i doradztwo IT… Data rozpoczęcia wykonywania działalności gospodarczej: 15.06.2012
+  - [1](https://www.gowork.pl/c3-net-jacek-rokicki,23332517/dane-kontaktowe-firmy)
+  - [2](https://panoramafirm.pl/mazowieckie,pruszkowski,falenty_nowe,rozbrat,3/c3_net_jacek_rokicki-axpjfb_fsc.html)
+  - [3](https://cabb.pl/firma/c-net-jacek-rokicki-8251386484)
+  - [4](https://c3net.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-050"></a>
 ## A-050 · Ryszard Labus / SINUX · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-53`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sinux.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[47]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Warszawa 一人楼控工程师（Delta Controls 授权服务+MikroTik 顾问）。3 步：楼宇项目 24 口 PoE++ → 机电间工业 PoE → 管理型多网段隔离。
+  - 保留原文：SINUX Ryszard Labus · ul. Domaniewska 47/10 · 02-672 Warszawa · NIP 548-138-01-53
+  - [1](https://sinux.pl/)
+  - [2](https://deltacontrols.com/pl-partnerzy-delta)
+  - [3](https://sinux.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-051"></a>
 ## A-051 · Paweł Wandas / SAFES · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-52`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：safes.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[48]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Kraków 托管 IT/网络安全（酒店/物业 7×24、Zero Trust 话术）。3 步：换件仓库 24 口 PoE++ → 楼层工业 PoE → 管理型进托管方案。
+  - 保留原文：Przejmujemy pełną odpowiedzialność za systemy IT… Od 20 lat obsługujemy obiekty premium w Polsce i za granicą – w trybie non-stop.
+  - [1](https://safes.pl/)
+  - [2](https://safes.pl/)
+  - [3](https://safes.pl/)
+  - [4](https://safes.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-052"></a>
 ## A-052 · Tomas Horyl / Narrowin · 瑞士
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-59`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：narrowin.ch
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/at_ch.json / item[4]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[49]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：瑞士 OT 可见性新贵（MikroTik 栈、Innosuisse 试点）。3 步：24 口 PoE++ 进 Lab “可替代” → 试点现场箱工业 PoE → 管理型进参考架构。
+  - 保留原文：narrowin builds the lightweight network and security tools that work in the world as it actually is. They are lightweight, plug-and-play, and manageable by the team you already have.
+  - [1](https://narrowin.com/en/)
+  - [2](https://narrowin.com/en/)
+  - [3](https://narrowin.com/en/)
+  - [4](https://narrowin.com/en/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-053"></a>
 ## A-053 · Urbino Lobo / MiniMeLabs · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-81`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：minimelabs.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/be_pt_ie.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[50]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：马德拉/伦敦的场景体验商（WiFi+位置感知+GDPR）。3 步：商圈/酒店 24 口 PoE++ → 室外广场工业 PoE → 管理型做客人网分段。
+  - 保留原文：Bridging the Physical & Digital — Innovating the way people connect with the world around them for 7 years
+  - [1](https://minimelabs.com/)
+  - [2](https://minimelabs.com/)
+  - [3](https://minimelabs.com/)
+  - [4](https://minimelabs.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-054"></a>
 ## A-054 · Direktronik AB · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-57`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：direktronik.se
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[51]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：瑞典 40 年老牌分销（每年 1000+ 新品引进文化、自营电商）。3 步：24 口 PoE++ 品类空缺 → 工业 PoE 北欧首发 → 管理型长期进价盘。
+  - 保留原文：Direktronik firar 40 år… Din partner sedan 1986.
+  - [1](https://www.direktronik.se/)
+  - [2](https://www.direktronik.se/)
+  - [3](https://www.direktronik.se/)
+  - [4](https://www.direktronik.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-055"></a>
 ## A-055 · Sarlin Oy Ab · 芬兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-70`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：sarlin.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[52]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：芬兰 90+ 年工业家族企业（能源+自动化品牌进口，品类经理 Mikko 直接对口）。3 步：站点监视 24 口 PoE++ → 加气站工业 PoE → 管理型“补充供给位”。
+  - 保留原文：Olemme teollisen paineilman, ympäristöystävällisen energiateknologian ja automaation edelläkävijä vuosikymmenten kokemuksella.
+  - [1](https://www.sarlin.com/)
+  - [2](https://www.sarlin.com/)
+  - [3](https://www.sarlin.com/)
+  - [4](https://www.sarlin.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-056"></a>
 ## A-056 · AA Jones Electric Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-71`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：aajones.co.uk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[53]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Hull 独立电气批发（30,000 项备货、工业控制线在扩）。3 步：上架 24 口 PoE++ → 工业柜外 PoE → 管理型常备库存档。
+  - 保留原文：As one of Hull's leading independent electrical wholesalers… we have over 30,000 items in stock at all times.
+  - [1](https://www.aajones.co.uk/)
+  - [2](https://www.aajones.co.uk/)
+  - [3](https://www.aajones.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-057"></a>
 ## A-057 · System Devices UK Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-77`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：systemdevices.co.uk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[54]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：英国 43 年自动化专家（Opto22/Epson/Asyril/Weintek、ISO 9001）。3 步：视觉/安防 24 口 PoE++ → 柜外工业 PoE → 管理型经其 ISO 供应商审查入项目库。
+  - 保留原文：Ahead of the Technology Curve since 1983 — System Devices UK is a trusted authority in the field.
+  - [1](https://systemdevices.co.uk/)
+  - [2](https://systemdevices.co.uk/)
+  - [3](https://systemdevices.co.uk/)
+  - [4](https://systemdevices.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-058"></a>
 ## A-058 · AGL Industrial Solutions · 葡萄牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-80`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：guedeslopes.pt
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[55]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：里斯本 AGL 工业 PC/Edge AI 分销（工业通信类目+Antaira 授权）。3 步：监视保护 24 口 PoE++ → Jetson 配套工业 PoE → 管理型入其二供位。
+  - 保留原文：Do requisito à operação: hardware industrial preparado para integrar.
+  - [1](https://guedeslopes.pt/)
+  - [2](https://guedeslopes.pt/)
+  - [3](https://guedeslopes.pt/)
+  - [4](https://guedeslopes.pt/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-059"></a>
 ## A-059 · Jono Thompson / LinITX · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-74`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：linitx.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[56]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：英国 MikroTik+Ubiquiti Master Distributor + 培训中心（第三品牌窗口明开）。3 步：第三品牌位 24 口 PoE++ → 工业 DIN 空白补位 → 管理型进项目报价盘。
+  - 保留原文：Mikrotik & Ubiquiti Master Distributors
+  - [1](https://linitx.com/)
+  - [2](https://linitx.com/)
+  - [3](https://linitx.com/)
+  - [4](https://linitx.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-060"></a>
 ## A-060 · Michael Jezierski / IndyCar · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-66`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：indycar.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/us.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[57]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：US IndyCar 赛事组织顾问（MTCSWE、IP 视频/组播熟；2026 赛季刚收官）。3 步：Fan WiFi 24 口 PoE++ → 现场临时工业 PoE → 管理型 IGMP/ERPS 组播方案。
+  - 保留原文：Sep 6 Laguna Seca — Scott McLaughlin
+  - [1](https://www.indycar.com/)
+  - [2](https://www.indycar.com/)
+  - [3](https://www.indycar.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-061"></a>
 ## A-061 · Wojciech Mańka / Mikrotikon · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-54`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotikon.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[58]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：西里西亚 10 证个体顾问（兼配 UniFi，57 条 Google 好评含酒店客户）。3 步：项目交付 24 口 PoE++ → 现场工业非管理 → 管理型进交付模板。
+  - 保留原文：Pomagam w pełnym zakresie – od podstawowych ustawień takich jak NAT i firewall, aż po zaawansowane funkcje związane z VPN, routingiem dynamicznym czy QoS.
+  - [1](https://mikrotikon.pl/)
+  - [2](https://mikrotikon.pl/)
+  - [3](https://mikrotikon.pl/)
+  - [4](https://mikrotikon.pl/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-062"></a>
 ## A-062 · Mohammad Tayyebi / Tayyebi.net · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-68`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tayyebi.net
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/us.json / item[5]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[59]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Austin 资深顾问+讲师（官网已失效，靠 MUM 旧档与名录；记得别提空挂网站）。3 步：托管现场 24 口 PoE++ → DC/室外工业 PoE → 管理型进实验台。
+  - 保留原文：This hostname is not configured. — Hosted by FreeHostia
+  - [1](http://tayyebi.net/)
+  - [2](https://mum.mikrotik.com/presentations/US17/presentation_4542_1496004640.pdf)
+  - [3](https://mum.mikrotik.com/presentations/US17/presentation_4542_1496004640.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-063"></a>
 ## A-063 · Amin Hamidi Younessi / Netrotik · 芬兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-69`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netrotik.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/fi.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[60]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：芬兰唯一 MikroTik 顾问，正朝 Cisco 企业线扩张（站页脚被博彩注入，别提）。3 步：接入层 24 口补位 → ISP 现场工业 PoE → 管理型做课程对照案例。
+  - 保留原文：Netrotik Oy – Network Training Center & Infrastructure Network consultancy · Professional IT certification courses and managed technical services for modern companies.
+  - [1](https://netrotik.com/)
+  - [2](https://netrotik.com/)
+  - [3](https://netrotik.com/)
+  - [4](https://netrotik.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-064"></a>
 ## A-064 · Axbyte · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-56`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：axbyte.se
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/se.json / item[0]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[61]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：瑞典 Datakom 全包商（机房托管+NOC；Leo 为 SE 官方 MikroTik 讲师、Fredrik 持 MTCSWE；官网自述正扩产品组合）。3 步：机房接入 24 口 → 现场工业 PoE → NOC 标准件+讲师实验台。
+  - 保留原文：Helhetslösningar inom Datakom · Datakom-lösningar – förenklat. · Vi superladdar din Datakom-tjänst så du kan fokusera på det ditt företag gör bäst.
+  - [1](https://axbyte.se/)
+  - [2](https://axbyte.se/)
+  - [3](https://axbyte.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-065"></a>
 ## A-065 · Peter Freeman / Freeclix · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-76`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：freeclix.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[62]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Norwich 企业 ISP（NHS/郡政府客户墙、ISO9001、SimRush 总分销、持 MTCSWE）。3 步：Guest WiFi 24 口 → 室外链路工业 PoE → 管理型标准件+分销试点。
+  - 保留原文：We are a UK internet service provider. · We simplify business telecommunications.
+  - [1](https://freeclix.com/)
+  - [2](https://freeclix.com/)
+  - [3](https://freeclix.com/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-066"></a>
 ## A-066 · Celenet · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-84`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：celenet.es
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/es.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[63]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：穆尔西亚本地运营商（FTTH+企业线扩张期；2 位 9–10 证顾问含 MTCSWE/组播）。3 步：企业接入 24 口 → FTTH 外线工业 PoE → 管理型模板+IGMP/ERPS。
+  - 保留原文：Operador de telecomunicaciones · Fibra, móvil y redes para llegar más lejos. · Conectividad para hogares, empresas y operadores.
+  - [1](https://celenet.es/)
+  - [2](https://celenet.es/)
+  - [3](https://celenet.es/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-067"></a>
 ## A-067 · Carlos Otin / Hotelinking · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-82`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hotelinking.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/es.json / item[2]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[64]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：西班牙酒店网络平台（1000+ 酒店、60% 连锁渗透、WiFiBot 厂商无关选硬件）。3 步：楼层 24 口 PoE++ → 公区工业 4 口 → 管理型进标准件清单。
+  - 保留原文：+1.000 hoteles y cadenas ya confían en Hotelinking · 60% de penetración en cadenas hoteleras en España
+  - [1](https://www.hotelinking.com/)
+  - [2](https://www.hotelinking.com/)
+  - [3](https://www.hotelinking.com/)
+  - [4](https://www.hotelinking.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-068"></a>
 ## A-068 · Juan Manuel Díaz Gómez · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-65`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/us.json / item[4]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[65]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：麦德林认证讲师（CSV 记 Tampa；CCTV ciudadano+WISP 实施；培训站直连失败按快照核实）。3 步：监控 24 口 → 塔站工业 PoE → 管理型进课程。
+  - 保留原文：Ingeniero de Telecomunicaciones Universidad Santo Tomás sede Medellín, gran experiencia trabajando con equipos de la marca MikroTik por más de 10 años. Consultor y entrenador Certificado MikroTik. — Juan Manuel Díaz Gómez CEO Wiretel SAS
+  - [1](https://jmikrotik.co/)
+  - [2](https://jmikrotik.co/)
+  - [3](https://jmikrotik.co/)
+  - [4](https://mum.mikrotik.com/presentations/HN20/presentation_7422_1580111784.pdf)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-069"></a>
 ## A-069 · Iyiola Folayan / Millie Evolution · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-73`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：millievolution.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[66]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：尼日利亚裔资深 IP 顾问（CSV 挂伦敦；官网空目录；身份/地域需先确认）。3 步：园区接入 24 口 → 弱电井工业 PoE → 管理型园区分段模板。
+  - 保留原文：A Mikrotik Certified Routing Engineer … with twelve (12) years' experience in IP Engineering … MBA … Member, Nigerian Society of Engineers(MNSE)
+  - [1](https://ng.linkedin.com/in/iyiola-folayan-42271158)
+  - [2](https://ng.linkedin.com/in/iyiola-folayan-42271158)
+  - [3](https://millievolution.com/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-070"></a>
 ## A-070 · Carlos Villalobos / Hecnys · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-83`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：hecnys.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/es.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[67]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：塞维利亚工业集成商（Ignition 官集 2026 新证；油气/港口/制药行业；IT/OT 分段是母语）。3 步：车间接入 24 口 → PLC 柜工业 PoE → IT/OT 分段管理型模板。
+  - 保留原文：Official Inductive Automation integrator · Control and data engineering for the plant floor · We design, integrate and support SCADA, IIoT and industrial network systems on Ignition.
+  - [1](https://hecnys.com/en)
+  - [2](https://hecnys.com/en)
+  - [3](https://hecnys.com/en)
+  - [4](https://hecnys.com/en)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-071"></a>
 ## A-071 · Fernando Trigueiro / Straznet · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-58`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：straznet.se
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/se.json / item[1]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[68]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：瑞典全包 IT 商（Kungsbacka；正在转型 SaaS+AI 服务线；MikroTik 挂名伙伴）。3 步：客户现场 24 口 → 工业客户工业 PoE → 机房+标准件管理型。
+  - 保留原文：IT-PARTNER I KUNGSBACKA OCH GÖTEBORG — Straznet är din IT-leverantör för snabb support, personlig service och bekymmersfri IT. Dygnet runt, alla dagar om året.
+  - [1](https://straznet.se/)
+  - [2](https://straznet.se/)
+  - [3](https://straznet.se/)
+  - [4](https://straznet.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-072"></a>
 ## A-072 · Andres Ocampo · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-63`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/us.json / item[9]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[69]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：纽约 6 证顾问（线上足迹极少，LinkedIn 同名待核；先确认身份再谈商务）。3 步：企业接入 24 口 → 4 口工业样机 → L2 冗余管理型实测对话。
+  - 保留原文：Managed Services Level 1 Engineer at Lincoln IT · Location: Queens County, New York, United States
+  - [1](https://www.linkedin.com/in/andres-ocampo-74878363/)
+  - [2](https://mikrotik.com/consultants)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-073"></a>
 ## A-073 · Michael Omondi / McCharles Tech · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-67`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mccharlestech.net
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/us.json / item[3]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[70]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：全美巡讲的双品牌培训机构（66 个排期、课后送实验硬件=批量教具采购）。3 步：教具 24 口 → 工业演示机 → L3 迁移课程合作。
+  - 保留原文：Join us for UniFi training in New York from October 26 - 30, 2026 and in Los Angeles from December 7 - 11, 2026. Keep student lab hardware after the class when you bundle all three courses.
+  - [1](https://mccharlestech.net/)
+  - [2](https://mccharlestech.net/)
+  - [3](https://mccharlestech.net/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-074"></a>
 ## A-074 · Nick Shore · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-75`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shore.me.uk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[71]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：英国 MikroTik 元老（2025 起半退休；linitx 创始团队、建过 WISP）。3 步：项目配套 24 口 → WISP 工业小机 → 实测数据+人脉引荐。
+  - 保留原文：In the summer of 2025, at the grand old age of 55, I decided to do something different, and I retired (mostly). · I'm also still available for business and technical consultancy on an ad-hoc project basis.
+  - [1](https://shore.me.uk/cv/)
+  - [2](https://shore.me.uk/cv/)
+  - [3](https://shore.me.uk/mikrotik/)
+  - [4](https://shore.me.uk/mikrotik/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-075"></a>
 ## A-075 · Maher Haddad / MyNetworkTraining · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-78`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mynetworktraining.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[72]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：荷兰在线培训平台（70K 学员、已开 L3 硬件卸载课=天然试验田）。3 步：拍摄实验台 24 口 → 工业课演示机 → L3 卸载联合实测课。
+  - 保留原文：Access all courses from just $19.99 USD/month · 70K+ Students worldwide · 80+ courses · Different vendor courses
+  - [1](https://mynetworktraining.com/)
+  - [2](https://mynetworktraining.com/)
+  - [3](https://mynetworktraining.com/)
+  - [4](https://mynetworktraining.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-076"></a>
 ## A-076 · Maciej Ziółkowski · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-51`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mziolkowski.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[73]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：波兹南技术顾问（官网 500 故障中；API 自动化型技术买家）。3 步：可编程接入 24 口 → 现场工业小机 → 管理型 API 自动化样板。
+  - 保留原文：（2026-09-28 fetch_page 对 http://www.mziolkowski.pl/ 返回 HTTP 500）
+  - [1](http://www.mziolkowski.pl/)
+  - [2](https://www.gowork.pl/maciej-ziolkowski-zm-technika,22122210/dane-kontaktowe-firmy)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-077"></a>
 ## A-077 · J A Shomer Company · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-64`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：jashomer.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[74]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：俄亥俄工业分销（HMS/Red Lion 渠道；只谈商业渠道避 TAA/NDAA）。3 步：8 口工业 PoE 价差补位 → 4 口视觉点位 → 管理型 OT 分段升级单。
+  - 保留原文：Distributor of Sensors, Readouts, Drives, and Transmission Products · Working with you, making machines work.
+  - [1](https://jashomer.com/)
+  - [2](https://jashomer.com/electronic-sensors/)
+  - [3](https://jashomer.com/)
+  - [4](https://jashomer.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-078"></a>
 ## A-078 · Giancarlos Bejarano Bordones · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-85`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/es.json / item[8]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[75]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：萨拉戈萨名录型顾问（检索零命中；IGMP/Hotspot 技能对口酒店网）。3 步：酒店 24 口 → 4 口工业样机 → IGMP 组播管理型方案。
+  - 保留原文：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCSE（CSV 信号列；既有轮次记录）
+  - [1](https://mikrotik.com/consultants)
+  - [2](https://mikrotik.com/consultants)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-079"></a>
 ## A-079 · Jaime Fuentes · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-86`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：`batch/es.json / item[5]`
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[76]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：安达卢西亚 ISP 总工+MikroTik 讲师（乡区 FTTH/WISP 老兵；RIPE/HCSA 复证窗口在 2026 上半年）。3 步：村网 24 口 → 塔站工业 PoE → 运维模板+课程案例。
+  - 保留原文：MikroTik Trainer · MikroTik · Issued Feb 2019 · HCSA — Hillstone Networks — Issued May 2024 Expires May 2026 · RIPE Database Associate — RIPE NCC — Issued Jan 2023 Expires Jan 2026
+  - [1](https://es.linkedin.com/in/jaime-fuentes-perez)
+  - [2](https://es.linkedin.com/in/jaime-fuentes-perez)
+  - [3](https://deepenrich.com/profile/0c85/jaime-fuentes-p%C3%A9rez-0011u3b7c)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-080"></a>
 ## A-080 · Carlos Cárdenas Cebrián · 西班牙
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-840`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[77]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：穆尔西亚全证老兵（现 Tech Mahindra；证书过期多年=低活跃，按关系维护处理；与 A-066 同电话）。3 步：规格评估邀请 → 场景征询 → 引荐请求。
+  - 保留原文：持全部十证含 MTCSWE…注意：LinkedIn 显示 MTCINE/MTCRE 已于 2017–2018 到期，MikroTik 活跃度可能已下降（CSV 备注，2026-09-27 记录）
+  - [1](https://www.linkedin.com/in/carlosc8/)
+  - [2](https://www.linkedin.com/in/carlosc8/)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-081"></a>
 ## A-081 · Profcon AB · 瑞典
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1026`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
 - 官网线索（不自动背书其他字段）：profcon.se
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[78]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：瑞典 60 年工业老店（防火阀+苛刻环境网络，Perle 授权分销、本地备货、2026 扩编）。3 步：工业 8 口补位 → 4 口项目配套 → 管理型机房段+项目注册。
+  - 保留原文：När det måste fungera. · Oavsett om det handlar om brandspjäll i ett sjukhus, ett dammprojekt i Kina, informationstavlor på en tågperrong, eller lastceller till försvaret…
+  - [1](https://www.profcon.se/)
+  - [2](https://www.profcon.se/)
+  - [3](https://www.profcon.se/)
+  - [4](https://www.profcon.se/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-082"></a>
 ## A-082 · Microstar sp. z o. o. · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1028`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
 - 官网线索（不自动背书其他字段）：microstar.com.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[79]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：华沙 Perle 渠道分销/集成（官网维护中；与库内克/斯两家 Microstar 同名不同法人）。3 步：工业 8 口补位 → 4 口配套 → 管理型楼宇段+项目注册。
+  - 保留原文：Serwis w trakcie prac konserwacyjnych. Przerwa techniczna powinna się wkrótce skończyć. Przepraszamy za niedogodności i dziękujemy za cierpliwość.
+  - [1](https://www.microstar.com.pl/)
+  - [2](https://www.atto.com/microstar-sp-z-o-o/)
+  - [3](https://efipo.pl/warszawa/microstar-sp-z-oo)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-083"></a>
 ## A-083 · FMS Internetservice GmbH · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-753`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训计划（欧洲）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[80]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：德语区 20 年 VAD（自有物流+培训牌照；店开 Switche 类目；客户=ISP/市政/系统商）。3 步：货架价位补位 → ISP 塔站工业 PoE → 管理型+实训机双通道。
+  - 保留原文：FMS Internetservice GmbH – ITK Kompetenz seit über 20 Jahren. · Als „Value Added Distributor“ bieten wir unseren Kunden ein ausgesuchtes Herstellerportfolio, eigene Logistik und fundiertes Know-how in Planung, Betrieb und Support.
+  - [1](https://www.fmsweb.de/)
+  - [2](https://www.fmsweb.de/)
+  - [3](https://www.mikrotik-shop.de/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-084"></a>
 ## A-084 · Amin Dashti · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-743`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[81]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：橙县 MikroTik 培训方（前 ISP/WISP CTO；官网直连失败按快照核实）。3 步：项目接入 24 口 → 塔站工业 PoE → 管理型+实验台。
+  - 保留原文：Mikrotik Info is a certified Mikrotik training partner founded in October 2011… Mikrotik Info is currently the top Mikrotik training partner in North America, in terms of average student score and satisfaction.
+  - [1](https://www.mikrotikinfo.com/about/)
+  - [2](https://www.mikrotikinfo.com/about/)
+  - [3](https://www.mikrotikinfo.com/about/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-085"></a>
 ## A-085 · ATEC Security Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-867`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[82]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：约克郡 30 年安防集成（Allied 挂名、机场/政府行业、首页案例挂占位文）。3 步：视频接入 24 口 → 周界工业 PoE → 安防网段标准件。
+  - 保留原文：At ATEC, we have been designing, installing and maintaining security systems across a variety of market sectors for more than three decades.
+  - [1](https://atec-security.co.uk/)
+  - [2](https://atec-security.co.uk/)
+  - [3](https://atec-security.co.uk/)
+  - [4](https://atec-security.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-086"></a>
 ## A-086 · EQUIPAGES · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1023`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[83]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：巴黎 MSP（2007 年、24×7 托管、Perle 渠道；WS2016 EOL 换机潮窗口）。3 步：整改项目 24 口 → 工业点位工业 PoE → 托管标准件管理型。
+  - 保留原文：Equipages accompagne ses clients sur l’ensemble de leurs enjeux informatiques… architecture, déploiement, migration, transfert de compétence, support et infogérance.
+  - [1](https://www.equipages.fr/)
+  - [2](https://www.equipages.fr/)
+  - [3](https://www.equipages.fr/)
+  - [4](https://www.equipages.fr/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-087"></a>
 ## A-087 · PEDAB · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1024`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[84]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：欧洲八国 VAD（IBM/Nokia/Inspur/ASUS 在手、Perle 授权；扩张期）。3 步：类目提案 → 法国区试点 SKU → 管理型类目扩展+渠道政策。
+  - 保留原文：Pedab orchestrateur d’écosystème et distributeur de confiance.
+  - [1](https://www.pedab.fr/)
+  - [2](https://www.ibm.com/partnerplus/directory/company/4191)
+  - [3](https://www.pedab.com/about-pedab/newsroom/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-088"></a>
 ## A-088 · Electromaster Limited · 爱尔兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1032`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Perle Systems 官方分销名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[85]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：都柏林 Perle 渠道老分销（官网域名已失守变博彩页——先电话核实存续再谈阶梯）。
+  - 保留原文：Best Crypto Casinos UK 2026 – Top Bitcoin Casino Sites（electromaster.ie 当前页面标题）
+  - [1](https://electromaster.ie/)
+  - [2](http://hifi.ie/stockist/electromaster-ltd-dublin/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-089"></a>
 ## A-089 · Switchshop Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-858`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[86]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：英国头部企业网/网安集成商（Fortinet 公共部门年度伙伴；框架内公共单先绕、商业与工业线先谈）。3 步：商业 24 口 → 工业线 DIN PoE → 私营标准件+项目注册。
+  - 保留原文：Switchshop designs, deploys and supports enterprise networking, cyber security and infrastructure for organisations across the UK, backed by the highest Fortinet and HPE Aruba Networking accreditations in the country, and a 100% in-house UK engineering team.
+  - [1](https://www.switchshop.co.uk/)
+  - [2](https://www.switchshop.co.uk/)
+  - [3](https://www.switchshop.co.uk/)
+  - [4](https://www.switchshop.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-090"></a>
 ## A-090 · Jasper Hagoort · 荷兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-584`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[87]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：荷兰商户电信服务商（MTCSWE 持证老板；site/邮箱已核实）。3 步：商户 24 口 → 零散点工业小机 → 分段模板管理型。
+  - 保留原文：Altijd verbonden met D-SIDE Telecom — Zakelijk bellen met vaste VoIP en/of mobiel · Oplossingen voor hybride werken · Internetverbinding met mobiel back-up
+  - [1](https://www.dside.nl/)
+  - [2](https://www.dside.nl/)
+  - [3](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-091"></a>
 ## A-091 · Laszlo Gyenese · 匈牙利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-834`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：mikrotikgyor.hu
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[88]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：匈牙利官方 MikroTik 讲师（全科授课+企业内训；无邮箱，电话+匈语触达）。3 步：实验台 24 口 → 内训客户工业小机 → 进阶课案例机。
+  - 保留原文：Ön jelenleg a DigiSoftNet, mint hivatalos MikroTik Training Center MikroTik képzésekkel foglalkozó oldalát látogatja.
+  - [1](https://mikrotikgyor.hu/)
+  - [2](https://mikrotikgyor.hu/)
+  - [3](https://mikrotikgyor.hu/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-092"></a>
 ## A-092 · Titan Security Group · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1007`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=united-states）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[89]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：芝加哥安防集团（正与 Marksman 合并全国化；Titan Electronics 集成臂）。3 步：项目接入 24 口 → 周界工业 PoE → 全国标准件管理型。
+  - 保留原文：Titan Security Group and Marksman Security Corporation Announce Strategic Merger; Creating A Boutique Security Services Provider With A National Footprint
+  - [1](https://marksman-titan.com/)
+  - [2](https://marksman-titan.com/)
+  - [3](https://marksman-titan.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-093"></a>
 ## A-093 · Watkins Security · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1008`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 官方伙伴定位器（?country=united-states）
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[90]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：宾州安防集成（AI 监控叙事；DHS/G20 客户史=产地红线，只谈商业单）。3 步：商业 24 口+合规包 → 冬季室外工业件 → 视频骨干管理型。
+  - 保留原文：Providing a Complete Suite of Security, IP Video Surveillance, Fire Detection, Access Control, Networking, and IT Solutions
+  - [1](https://www.watkins-security.com/)
+  - [2](https://www.watkins-security.com/)
+  - [3](https://www.watkins-security.com/)
+  - [4](https://www.watkins-security.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-094"></a>
 ## A-094 · VELOCIgroup ApS · 丹麦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-771`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[91]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：丹麦小微 WISP/Netonix 渠道（无官网、同名污染已甄别；禁用同芯片话术）。3 步：接入 24 口 → 塔站工业 PoE → 汇聚管理型方案。
+  - 保留原文：VELOCIGROUP — Jernbanegade 23B, c/o Businesshouse, 4000 Roskilde, Denmark · Phone number: 88 91 70 70
+  - [1](https://www.yelp.com/biz/velocigroup-roskilde)
+  - [2](https://www.yelp.com/biz/velocigroup-roskilde)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-095"></a>
 ## A-095 · Rowe Networks · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-776`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[92]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：俄亥俄乡镇 WISP（Netonix 渠道；电商停摆期=换供应商窗口；老板直管）。3 步：接入 24 口 → 塔站备件 → 汇聚管理型。
+  - 保留原文：Store Unavailable — This store is currently unavailable due to maintenance. It should be available again shortly.
+  - [1](https://www.rowewireless.com/)
+  - [2](https://www.zoominfo.com/pic/rowe-networks/1132675586)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-096"></a>
 ## A-096 · Last Mile Gear · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-779`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Netonix 官方分销/代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[93]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：原 LMG 已并入 WAV（7 万 SKU 头部分销；经原关系人引荐推进、BABA 段绕行）。3 步：类目提案引荐 → 塔站 SKU 上架 → 汇聚管理型类目扩展。
+  - 保留原文：（lastmilegear.com → wavonline.com 整站跳转）Top Wireless Equipment Distributor For WISP & ISP
+  - [1](https://www.lastmilegear.com/)
+  - [2](https://www.wavonline.com/)
+  - [3](https://www.wavonline.com/)
+  - [4](https://www.wavonline.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-097"></a>
 ## A-097 · Benjamin Wragg · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-813`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方认证顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[94]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：英格兰北部小微全光纤 ISP（自建网络；无邮箱电话触达）。3 步：节点 24 口 → 外线工业小机 → 汇聚分段管理型。
+  - 保留原文：InternetTY - Hyperfast Full Fibre Broadband · From £20 per month
+  - [1](https://internetty.uk/)
+  - [2](https://internetty.uk/)
+  - [3](https://internetty.uk/)
+  - [4](https://mikrotik.com/consultants)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-098"></a>
 ## A-098 · Brian Vargyas · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-849`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：MikroTik 官方培训伙伴/顾问名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[95]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Baltic Networks 创始人（WISP 分销+认证讲师+M2M；渠道本能型买家）。3 步：货架补位 → 塔站配套量 → 管理型+实验台双钩。
+  - 保留原文：Brian Vargyas, Owner, Baltic Networks – Over 8 years experience using RouterOS – Specialization in Wireless, Hotspot and the Dude – MikroTik Certified Trainer
+  - [1](https://mum.mikrotik.com/presentations/US10/Brian.pdf)
+  - [2](https://mum.mikrotik.com/presentations/US15/brian.pdf)
+  - [3](https://www.crunchbase.com/organization/baltic-networks)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-099"></a>
 ## A-099 · MSI Works Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-860`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[96]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：伦敦楼宇 MSI（Allied Platinum；OT/IoT/IT 合一、HUBi 平台；仅电话/表单）。3 步：楼层 24 口 → 井道工业小机 → OT 分段管理型模板。
+  - 保留原文：INNOVATION FROM EXPERTISE — A business with Master Systems Integration at its core…
+  - [1](https://www.msi-works.com/)
+  - [2](https://www.msi-works.com/)
+  - [3](https://www.msi-works.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-100"></a>
 ## A-100 · Networkology Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-862`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[97]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Corsham 防务/政府 IT 服务商（Allied 挂名；私营段才谈、防务段主动划线）。3 步：私营 24 口+划线 → 私营工业点位 → 实验室/私营标准件。
+  - 保留原文：Networkology is an IT organisation providing professional services to defence, government and other public sector clients, as well as private sector clients throughout the UK.
+  - [1](https://networkology.com/)
+  - [2](https://networkology.com/)
+  - [3](https://networkology.com/)
+  - [4](https://networkology.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-101"></a>
 ## A-101 · Lloret Control Systems Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-863`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[98]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：智能楼宇 BMS/CNS 集团（Allied 白金+2024 获奖伙伴；双品牌含消防）。3 步：楼层 24 口对照 → 管井工业小机 → CNS 分段评估件。
+  - 保留原文：We deliver smart, safe, sustainable, healthy buildings.
+  - [1](https://lloret.co.uk/)
+  - [2](https://lloret.co.uk/)
+  - [3](https://lloret.co.uk/)
+  - [4](https://lloret.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-102"></a>
 ## A-102 · EAC Network Solutions · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-864`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[99]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：白金汉郡 20 年 MSP（Sophos 栈+Allied 代理；教育/制造/专业服务；博客获客活跃）。3 步：托管标准件 24 口 → 室外工业小机 → 多站分段模板。
+  - 保留原文：More Than Managed IT Services — Delivering outstanding IT partnership to education, manufacturing, and professional services firms in Buckinghamshire and beyond.
+  - [1](https://eac-ns.co.uk/)
+  - [2](https://eac-ns.co.uk/)
+  - [3](https://eac-ns.co.uk/)
+  - [4](https://eac-ns.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-103"></a>
 ## A-103 · Bechtle Direct Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-868`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[100]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Bechtle 英国（规模排除名单对象，用户个案裁决保留）。3 步：工业类目挂位 → 电商长尾小机 → 项目注册供货；轻触达不攻坚。
+  - 保留原文：Your partner for the digital future.（页标题：Bechtle AG | Integrate IT. Architect the future）
+  - [1](https://www.bechtle.com/gb)
+  - [2](https://www.bechtle.com/gb)
+  - [3](https://www.bechtle.com/gb)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-104"></a>
 ## A-104 · Centerprise International Limited · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-869`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[101]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：公共部门生命周期伙伴（防务/政府为盘→划线；Yoyotech 电竞商业段是窄缝）。3 步：电竞馆 24 口 → 外围工业小机 → 商业分段模板。
+  - 保留原文：With over 40 years of public sector experience, Centerprise International supports organisations at every stage of their technology journey, covering device supply, cloud infrastructure, business continuity, and secure, compliant end-of-life disposal.
+  - [1](https://www.centerprise.co.uk/)
+  - [2](https://www.centerprise.co.uk/)
+  - [3](https://www.centerprise.co.uk/)
+  - [4](https://www.centerprise.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-105"></a>
 ## A-105 · Cisilion Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-870`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[102]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：环球大 SI（Cisco/MS 生态；CSV 既判难啃→影响力路线）。3 步：对照资料 → 场景素材 → 实验室样机，不推报价。
+  - 保留原文：Beyond Expectations — Achieving success together. A trusted partner beyond an IT services and solutions provider.
+  - [1](https://www.cisilion.com/)
+  - [2](https://www.cisilion.com/)
+  - [3](https://www.cisilion.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-106"></a>
 ## A-106 · DACC Europe Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-871`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[103]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：码头区 25 年布线集成商（FORS+RISQS 铁路分部+DC 分部；自述厂商中立）。3 步：布线配套 24 口 → 轨旁通信柜工业件 → DC 接入管理型。
+  - 保留原文：Located in the heart of the London Docklands, we are a long-established integrator specialising in structured cabling and associated network infrastructure.
+  - [1](https://www.dacceurope.com/)
+  - [2](https://www.dacceurope.com/)
+  - [3](https://www.dacceurope.com/)
+  - [4](https://www.dacceurope.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-107"></a>
 ## A-107 · Esotec Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-873`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[104]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：高端安防集成（政府/遗产/交通客户墙→公共段划线，私营商业段可谈）。3 步：商业 24 口+划线 → 周界工业件 → 商业网段模板。
+  - 保留原文：Trusted Systems Integrator for full-lifecycle Security Solutions
+  - [1](https://www.esotec.co.uk/)
+  - [2](https://www.esotec.co.uk/)
+  - [3](https://www.esotec.co.uk/)
+  - [4](https://www.esotec.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-108"></a>
 ## A-108 · Roadtech Computer Systems Ltd · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-876`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[105]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：40 年运输 SaaS（Tachomaster；硬件仅配套）。3 步：场站工业件 → 场站/机房 24 口 → 分段模板随 TMS 打包。
+  - 保留原文：The most advanced software solutions for the transport industry
+  - [1](https://www.roadtech.co.uk/)
+  - [2](https://www.roadtech.co.uk/)
+  - [3](https://www.roadtech.co.uk/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-109"></a>
 ## A-109 · RWL Advanced Solutions · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-877`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Allied Telesis 英国代理名录
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[106]`；记录日期 2026-10-08；来源等级 `official-channel`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：三地布线分销（无源为主、有源缺口=提案点；分销转化率低已预警）。3 步：类目提案 → 试点 SKU → 类目扩展+渠道政策。
+  - 保留原文：Europe’s leading independent distributor for Data Cabling and Network products. With locations in Dublin, London and Amsterdam, we have a comprehensive reach across Europe and beyond.
+  - [1](https://www.rwlas.com/)
+  - [2](https://www.rwlas.com/)
+  - [3](https://www.rwlas.com/)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-110"></a>
@@ -9127,144 +9740,188 @@
 <a id="A-568"></a>
 ## A-568 · Purdicom Limited · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-1033`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-29 R58 竞品谱挖第1波
 - 官网线索（不自动背书其他字段）：purdicom.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[107]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：内部域提示:ruckus@purdi.com → 邮箱两域(purdicom.com / purdi.com)候选
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第2波.json
+  - 保留原文：内部域提示:ruckus@purdi.com → 邮箱两域(purdicom.com / purdi.com)候选
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-1033)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-570"></a>
 ## A-570 · Ronitek · 以色列
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-129`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ronitek.co.il
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[108]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：公司注册号 ח.פ 516918844,2024-01-10 注册,84 Derech Ben Tzvi Tel Aviv;KYC 名录口径
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-129)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-571"></a>
 ## A-571 · Triple core · 以色列
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-130`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：triple-core.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[109]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Triple Core 补漏第二轮:官网仅 support@ 与 [email protected] 占位;两条 WhatsApp 移动线(+970 59 498 1993 / +972 50 944 2228)可作 KP 直通渠道;人名仍待定
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第2波.json
+  - 保留原文：Triple Core 补漏第二轮:官网仅 support@ 与 [email protected] 占位;两条 WhatsApp 移动线(+970 59 498 1993 / +972 50 944 2228)可作 KP 直通渠道;人名仍待定
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-130)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-572"></a>
 ## A-572 · Cy-Wireless（art2soft） · 塞浦路斯
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-197`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：prod.cy-wireless.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[110]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：MikroTik 官方 reseller 名录曾列 thomas.thoma@art2soft.com
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-197)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-573"></a>
 ## A-573 · etree GmbH · 德国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-244`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop.etree.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[111]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：联合创始人 Peter Voigt(Crunchbase)
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：联合创始人 Peter Voigt(Crunchbase)
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-244)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-574"></a>
 ## A-574 · Dnet-Distribution · 意大利
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-252`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：dnet-distribution.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[112]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：Dnet=Nim Wave S.r.l. 品牌,P.IVA 06095990963;Viviana Vaghi 行政
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-252)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-577"></a>
 ## A-577 · PEC SISTEMI d.o.o.（tehnox.si） · 斯洛文尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-312`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tehnox.si
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[113]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：Elizabeta Jezernik 另一 50%;8 员工,营收 €4.36M,出口 BiH/克罗地亚 24%
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：Elizabeta Jezernik 另一 50%;8 员工,营收 €4.36M,出口 BiH/克罗地亚 24%
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-312)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-578"></a>
 ## A-578 · TAKOPI GEORGIA（smart-network.ge） · 格鲁吉亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-315`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：smart-network.ge
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[114]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：9 员工;info@smart-network.ge;Andria Benashvili st.16 Tbilisi;RocketReach 确认 @takopi.ge 域
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第2波.json
+  - 保留原文：9 员工;info@smart-network.ge;Andria Benashvili st.16 Tbilisi;RocketReach 确认 @takopi.ge 域
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-315)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-579"></a>
 ## A-579 · EDOX SAS · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-329`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：edox.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[115]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：采购 KP=Lionel Weckerle 最对口
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：采购 KP=Lionel Weckerle 最对口
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-329)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-580"></a>
 ## A-580 · Piotr Poniatowski · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-361`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：poniatowski.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[116]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：邮箱已有,本轮只复核 MX
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：邮箱已有,本轮只复核 MX
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-361)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-582"></a>
 ## A-582 · Vodanet Systems LLC · 美国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-481`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：vodanetsystems.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[117]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：采购 KP=İhsan Aslan 最对口;Moonachie/Pompton Plains NJ
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-481)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="A-583"></a>
@@ -9283,12 +9940,16 @@
 <a id="A-584"></a>
 ## A-584 · Ron Touw / MikroTik Training UK · 英国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**结构化联系方式证据（仅覆盖该字段/记录中所述内容）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-513`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：mikrotiktraining.co.uk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
 - 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 联系方式证据记录：`batch/contact_research_2026-10-08_R67_补钉批2_A类119.json` → `records[118]`；记录日期 2026-10-08；来源等级 `internal-roster`。
+  - 公开邮箱：未发现；投递未测试。
+  - 说明：2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless
+守档注:本户为 R57/R64/R65 守档实体(同名排噪后公开可考证据缺位=合规状态非漏洞);锚=仓内 CSV 行/核验日志,不臆造外链。源文件=batch/KP猎捕_A_R64_第1波.json
+  - 保留原文：2009 旧帖记 ron.touw@gmail.com(过旧,标历史源不采信);Guernsey 关联 Nest Wireless
+  - [1](仓内:客户名单_反向信号_2026-09.csv 客户名单_反向信号_2026-09.csv:row-513)
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。

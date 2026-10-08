@@ -2437,7 +2437,7 @@
       "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
       "sha256": "df9d3747cdd7cac18f41022cc945dd632a54890613dc2d0d5ed851f7215ce953",
       "bytes": 102591,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 1461,
       "unique_url_count": 28,
       "inspection": {},
@@ -2740,6 +2740,26 @@
       "tracked_at_scan": true,
       "units_scanned": 4110,
       "unique_url_count": 177,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/contact_research_2026-10-08_R67_补钉批1_B类154.json",
+      "sha256": "cc5d97fc7e4f5c29bec95f42445591905d932a22c0a9841e09dc9ee5029cf14e",
+      "bytes": 310310,
+      "tracked_at_scan": false,
+      "units_scanned": 5206,
+      "unique_url_count": 356,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/contact_research_2026-10-08_R67_补钉批2_A类119.json",
+      "sha256": "ec8bfb69d816241031e9c78eacb368de707ca196f715192db99642c1d1ee443e",
+      "bytes": 161197,
+      "tracked_at_scan": false,
+      "units_scanned": 4204,
+      "unique_url_count": 170,
       "inspection": {},
       "errors": []
     },
@@ -3175,10 +3195,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "36f48d30e6acd2e9e0a343cd236ef495383448df06ed84b3e489cc77b8f4fb5b",
-      "bytes": 303325,
+      "sha256": "00b5030f5586eb9c46dd109f6f748fa8d46905cd374e8430e71081d229d6b311",
+      "bytes": 310177,
       "tracked_at_scan": true,
-      "units_scanned": 1677,
+      "units_scanned": 1695,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
