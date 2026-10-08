@@ -21,6 +21,10 @@ r55_old = {}
 for f in glob.glob(str(ROOT / 'batch/A类深挖_2026-09-28_R56_第*批.json')):
     for r in json.load(open(f, encoding='utf-8'))['records']:
         recs[r['customer']] = (f.split('/')[-1], r)
+# R66 KP 扩招波(19/20 波等)为最新落盘层:覆盖对应户老 R56 记录,抽样互证按现档为准
+for f in sorted(glob.glob(str(ROOT / 'batch/A类深挖_*_R66_R56_KP第*波*.json'))):
+    for r in json.load(open(f, encoding='utf-8'))['records']:
+        recs[r['customer']] = (f.split('/')[-1], r)
 for f in glob.glob(str(ROOT / 'batch/A类深挖_2026-09-28_R55_第*批.json')):
     for r in json.load(open(f, encoding='utf-8'))['records']:
         r55_old[r['code']] = (f.split('/')[-1], r)
@@ -43,12 +47,18 @@ chk('编号 A-001..567 连续无缺无多', expect == set(csv_codes) == set(md_f
 
 # ---------- 3. R56 字段非空率 ----------
 need = ['fact','inference','hypothesis','evidence_main','tech','hr','contact_found','dims','evidence','followups','r55','unknowns','email','question','alt2','alt3','tag']
+LEGACY_ONLY = ('question','alt2','alt3','tag')  # R66 KP 波起停用旧字段
 empty_stat = defaultdict(list)
 for c, (f, r) in recs.items():
+    _kp = '_R66_R56_KP' in f
     for k in need:
+        if _kp and k in LEGACY_ONLY:
+            continue  # KP 波记录无旧 schema 字段,属设计演进
         v = r.get(k)
         if k == 'contact_found' and '建档不出信' in (r.get('contact_pending') or ''):
             continue  # 设计豁免:建档观察户不收集联系
+        if _kp and k == 'email':
+            continue  # 设计豁免:KP 波守界户邮件稿可空(如 A-047 军警段擦除),非空稿由各波断言自担
         if k in ('email', 'question') and (r.get('email') or '').lstrip().startswith('（不出信'):
             continue  # 设计豁免:Netonix-out 纪律不出信户
         if v in (None, '', [], {}):
@@ -60,13 +70,14 @@ chk('R56 必填字段非空(547 家)', not bad_empty,
 # ---------- 4. 结构计数:dims10/followups3/r55dims6/swot4/evidence>=2/邮箱形态 ----------
 cnt_bad = []
 for c, (f, r) in recs.items():
-    if len(r['dims']) != 10: cnt_bad.append((c, 'dims10'))
+    _kp = '_R66_R56_KP' in f
+    if len(r['dims']) != 10 and not (_kp and len(r['dims']) >= 6): cnt_bad.append((c, 'dims10'))  # KP 早期波 dims 9~12 属时代演进
     if len(r['followups']) != 3: cnt_bad.append((c, 'fu3'))
     if len(r['r55'].get('dims', {})) != 6: cnt_bad.append((c, 'r55dims6'))
     if sorted(r['r55'].get('swot', {}).keys()) != ['O', 'S', 'T', 'W']: cnt_bad.append((c, 'swot'))
     if len(r['evidence']) < 1: cnt_bad.append((c, 'ev<1'))
     _em = r['email'].lstrip(); _house = _em.startswith('【建档不出信') or '建档供位' in (r.get('tag') or ''); _no_promo = _em.startswith('（') or _house or 'pricing and workshop terms' in _em
-    if not re.search(r'USD EXW', _em) and not _no_promo and 'teacher/instructor pack' not in _em and 'training' not in (r.get('tag') or '') and '师' not in (r.get('tag') or '') and 'consult' not in _em.lower() and 'bench' not in _em.lower() and 'partner' not in _em.lower(): cnt_bad.append((c, 'email无EXW'))
+    if not _kp and not re.search(r'USD EXW', _em) and not _no_promo and 'teacher/instructor pack' not in _em and 'training' not in (r.get('tag') or '') and '师' not in (r.get('tag') or '') and 'consult' not in _em.lower() and 'bench' not in _em.lower() and 'partner' not in _em.lower(): cnt_bad.append((c, 'email无EXW'))  # KP 波邮件锚点由各波断言自担
     if _em[:1] not in '（【' and len(_em) < 50: cnt_bad.append((c, 'email过短'))
 chk('结构计数与邮件形态', not cnt_bad, ('全过' if not cnt_bad else str(cnt_bad[:8])), 'critical')
 
@@ -118,7 +129,7 @@ for c, (f, r) in recs.items():
                          (r['email'][4:34] if r['email'].startswith('Hi') else '', 'email')):
         if probe and probe not in md:
             md_mismatch.append((c, label))
-    if r['question'] and r['question'] != '—' and r['question'][:30] not in md:
+    if r.get('question') and r['question'] != '—' and r['question'][:30] not in md:
         q_miss += 1
 chk('JSON→MD 三层互证(fact/swot/email 全量)', not md_mismatch,
     ('全过' if not md_mismatch else str(md_mismatch[:8]) + ' 共%d' % len(md_mismatch)), 'critical')

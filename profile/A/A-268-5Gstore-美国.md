@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】5Gstore（美国，蜂窝路由/天线电商大户）：品牌=Peplink/Cradlepoint/Teltonika/Semtech/Digi/Inseego/Katalyst+天线系；美国仓当日发、工程师持股支持；CSV=Teltonika 授权（含 TSW212 工业交换机）
-- 【推断】蜂窝电商大户：TSW 级是其唯一交换存在——24 口 PoE 在其分支/IoT 部署客群里是新窄口
-- 【假设】其大客户分支现场/车载-IoT 项目的 PoE 接入窄口
+- 【事实】5Gstore:5Gstore(.com)(美国 Crystal Lake, Illinois;**2019-02 创(前体 3Gstore 2005;再前 MDG Connected Solutions 1988=38 年电商老将谱);11-50 人**;**CEO/Founder Michael Ginsberg(theorg+CB+X 三源一致;Northern Illinois University 谱)**;**4G/5G 蜂窝件链:Peplink warranties/licenses+Sierra Wireless licenses+Accelerated cloud+Simply Bonding+onsite installation 谱**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@5gstore.com（官网隐私页正文）；原入口：见 5gstore.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Michael Ginsberg**(CEO/Founder(theorg/CB/X 自署三源))— theorg.com 件(O) 〔已有(公司官方公开件/登记册自曝);源:https://theorg.com/org/5gstore/org-chart/michael-ginsberg〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Michael Ginsberg | CEO/Founder(theorg/CB/X 自署三源) | theorg.com 件(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://theorg.com/org/5gstore/org-chart/michael-ginsberg |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US 蜂窝电商（官网+CSV 双核）
-- **②芯片/型号**：Teltonika 线在墙
-- **③KP 深挖**：sales@
-- **④Saga 对标**：新窄口（$180 锚点一致）
-- **⑤在乎与偏好**：现货/工程师支持
+- **①背景再核**：5Gstore(.com)(美国 Crystal Lake, Illinois;**2019-02 创(前体 3Gstore 2005;再前 MDG Connected Solutions 1988=38 年电商老将谱);11-50 人**;**CEO/Founder Michael Ginsberg(theorg+CB+X 三源一致;Northern Illinois University 谱)**;**4G/5G 蜂窝件链:Peplink warranties/licenses+Sierra Wireless licenses+Accelerated cloud+Simply Bonding+onsite installation 谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Michael Ginsberg(CEO/Founder(theorg/CB/X 自署三源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Peplink/Sierra 谱=MR 件链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Cellular Routers•Antennas•Data Plans——Large inventory Same Day shipping;Teltonika 授权含 TSW212（CSV 9-23）
-  > Cellular Routers•Antennas•Data Plans——Large inventory Same Day shipping;Teltonika 授权含 TSW212（CSV 9-23）
-  > 来源：https://5gstore.com
+- **【决策链与对接人】**CEO and Founder: Michael Ginsberg(5Gstore 2019-02 创;3Gstore 2005;MDG Connected Solutions 1988)(theorg/crunchbase/success.ai 件)
+  > CEO and Founder: Michael Ginsberg(5Gstore 2019-02 创;3Gstore 2005;MDG Connected Solutions 1988)(theorg/crunchbase/success.ai 件)
+  > 来源：https://theorg.com/org/5gstore/org-chart/michael-ginsberg
+- **【联系方式与基础画像】**Crystal Lake, IL;11-50 employees;Services: Peplink Warranties & Licenses/Sierra Wireless Licenses/Accelerated cloud/Simply Bonding/onsite installation(crunchbase 件)=蜂窝路由件链专营
+  > Crystal Lake, IL;11-50 employees;Services: Peplink Warranties & Licenses/Sierra Wireless Licenses/Accelerated cloud/Simply Bonding/onsite installation(crunchbase 件)=蜂窝路由件链专营
+  > 来源：https://www.crunchbase.com/organization/5gstore
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国蜂窝连接电商分销
-- **产品线与在售品牌**：Teltonika/Peplink/Cradlepoint…
-- **目标行业与场景**：移动/车载/IoT/分支
-- **团队与规模**：电商+工程师客服
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：Teltonika 授权（CSV）
-- **采购与供应链信号**：电商上架
-- **近期动态与线索**：—
-- **与我方契合点**：PoE 交换新窄口（TSW 旁，前句框定）
-- **风险与注意**：蜂窝主业、交换子类窄
+- **业务定位**：5Gstore(.com)(美国 Crystal Lake, Illinois;**2019-02 创(前体 3Gstore 2005;再前 MDG Connected Solutions 1988=38 年电商老将谱);11-50 人**;**CEO/Founder Michael Ginsberg(theorg+CB+X 三源一致;Northern Illinois University 谱)**;**4G/5G 蜂窝件链:Peplink warranties/licenses+Sierra Wireless licenses+Accelerated cloud+Simply Bonding+onsite installation 谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美伊利诺伊 4G/5G 蜂窝件链专营店
+- **团队与规模**：11-50 人;2019 创
+- **决策链与对接人**：**Michael Ginsberg(CEO/Founder(theorg/CB/X 自署三源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Michael Ginsberg 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：窄
-- **O**：新口
-- **T**：一线
+- **S**：Peplink/Sierra 谱=MR 件链窗
+- **W**：专营店谱
+- **O**：Ginsberg 直达位
+- **T**：Peplink 链竞谱
 
 ## 触达与风险红线
 
@@ -198,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 类目策略
-  - [ ] 试单权
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi 5Gstore team,
+Dear Michael,
 
-Cellular routers, antennas, data plans - same-day shipping from US warehouses, engineer-certified support. Your switch shelf today is mostly Teltonika-class; the question is what happens when a branch deployment needs more PoE ports than that class gives.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). It pairs naturally with the cellular edge devices you already sell - the LAN side of a branch or IoT rollout.
-
-One question: would a documented value PoE switch earn a listing test beside your Teltonika line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

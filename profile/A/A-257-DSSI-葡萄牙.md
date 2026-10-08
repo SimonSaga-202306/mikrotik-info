@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DSSI（葡萄牙 VAD）：存储/备份/监控/网络/安全/云六域；品牌含 Ubiquiti+Perle+SolarWinds+Proxmox+Wasabi+NAKIVO 等；个性化实施支持叙事
-- 【推断】VAD 网络域窄口：Ubiquiti+Perle 双驻——二轨替补窄位
-- 【假设】其经销商带的 value PoE 替补窄口
+- 【事实】DSSI:DSSI - Tecnologias de Informação, Lda(葡萄牙 Agualva-Cacém,Zoom Business Park Ed. E Piso 1 Esc. 3, Estrada de Paço de Arcos, 2735-307;**PT 509371655;2010-04-27 创 16 年;7-11 人;增值分销(Ubiquiti/Sophos/Riverbed/Solarwinds/Nakivo/Retrospect/Code42/ownCloud/Hitachi/SpectraLogic)**;**Managing Partner Gonçalo Filipe Mello(Fialho Nunes de Mello;Director 2010 创始;northdata+itchannel 联络具名;dssi.co.ao/.mz 安哥拉/莫桑米格牌=葡语非洲谱)+Patrícia Rodrigues Director+Alexandra Matos 销售+Pedro Gomes 技术**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：comercial@dssi.pt（官网正文公开）；原入口：+351 21 805 15 60
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gonçalo Filipe Mello**(Managing Partner/Director(2010 创始;itchannel 目录联络具名=E-mail 直线))— itchannel.pt 目录件+RR 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.itchannel.pt/directorio/distribuidores/dssi---tecnologias-de-informacao-lda〕
+  - **Patrícia Cristina Cebola Romão Rodrigues**(Director(2010 双董事谱))— northdata 件 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.com/Dssi%20-%20Tecnologias%20de%20Informa%C3%A7%C3%A3o%20Lda%C2%B7,%20Cac%C3%A9m/PT%20509371655〕
+  - **Alexandra Matos**(Sales and Assistent Marketing(销售口))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/dssi-data-systems-portugal-management_b5e68ee2f42e589c〕
+  - **Pedro Gomes**(IT Technical Support(技术谱))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/dssi-data-systems-portugal-management_b5e68ee2f42e589c〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gonçalo Filipe Mello | Managing Partner/Director(2010 创始;itchannel 目录联络具名=E-mail 直线) | itchannel.pt 目录件+RR 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.itchannel.pt/directorio/distribuidores/dssi---tecnologias-de-informacao-lda |
+| Patrícia Cristina Cebola Romão Rodrigues | Director(2010 双董事谱) | northdata 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.com/Dssi%20-%20Tecnologias%20de%20Informa%C3%A7%C3%A3o%20Lda%C2%B7,%20Cac%C3%A9m/PT%20509371655 |
+| Alexandra Matos | Sales and Assistent Marketing(销售口) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/dssi-data-systems-portugal-management_b5e68ee2f42e589c |
+| Pedro Gomes | IT Technical Support(技术谱) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/dssi-data-systems-portugal-management_b5e68ee2f42e589c |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PT VAD（官网一手核）
-- **②芯片/型号**：Ubiquiti/Perle 墙
-- **③KP 深挖**：comercial@
-- **④Saga 对标**：替补窄位（$180 锚点一致）
-- **⑤在乎与偏好**：品牌组合/实施支持
+- **①背景再核**：DSSI - Tecnologias de Informação, Lda(葡萄牙 Agualva-Cacém,Zoom Business Park Ed. E Piso 1 Esc. 3, Estrada de Paço de Arcos, 2735-307;**PT 509371655;2010-04-27 创 16 年;7-11 人;增值分销(Ubiquiti/Sophos/Riverbed/Solarwinds/Nakivo/Retrospect/Code42/ownCloud/Hitachi/SpectraLogic)**;**Managing Partner Gonçalo Filipe Mello(Fialho Nunes de Mello;Director 2010 创始;northdata+itchannel 联络具名;dssi.co.ao/.mz 安哥拉/莫桑米格牌=葡语非洲谱)+Patrícia Rodrigues Director+Alexandra Matos 销售+Pedro Gomes 技术**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Gonçalo Filipe Mello(Managing Partner/Director(2010 创始;itchannel 目录联络具名=E-mail 直线),official-self-published·谱/leads-only(直发需 opt-in));Patrícia Cristina Cebola Romão Rodrigues(Director(2010 双董事谱),official-self-published·谱/leads-only(直发需 opt-in));Alexandra Matos(Sales and Assistent Marketing(销售口),leads-only·待 opt-in(LinkedIn/谱面带核));Pedro Gomes(IT Technical Support(技术谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Ubiquiti 谱+葡非牌=邻链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Distribuidor Tecnológico de Valor Acrescentado——Armazenamento/Backup/Monitorização/Networking/Segurança/Cloud；Ubiquiti+Perle 品牌墙
-  > Distribuidor Tecnológico de Valor Acrescentado——Armazenamento/Backup/Monitorização/Networking/Segurança/Cloud；Ubiquiti+Perle 品牌墙
-  > 来源：https://dssi.pt
+- **【决策链与对接人】**Managing Partner: Gonçalo Filipe Mello;Director(2): Fialho Nunes de Mello + Romão Rodrigues(northdata 2010 件);Contacto: Gonçalo Mello(itchannel 目录自署);队谱: Alexandra Matos(Sales)+Pedro Gomes(IT Support)+Magno Gandorini+Pedro Pena(RR 谱面条)
+  > Managing Partner: Gonçalo Filipe Mello;Director(2): Fialho Nunes de Mello + Romão Rodrigues(northdata 2010 件);Contacto: Gonçalo Mello(itchannel 目录自署);队谱: Alexandra Matos(Sales)+Pedro Gomes(IT Support)+Magno Gandorini+Pedro Pena(RR 谱面条)
+  > 来源：https://www.itchannel.pt/directorio/distribuidores/dssi---tecnologias-de-informacao-lda
+- **【联系方式与基础画像】**PT 509371655(2010-04-27 登);Zoom Business Park, Agualva-Cacém;218 051 560;www.dssi.pt;Principais Marcas: Riverbed, Sophos, **Ubiquiti**, Solarwinds, Nakivo, Hitachi, SpectraLogic;**dssi.co.ao(安哥拉)+dssi.co.mz(莫桑)=葡非扩展谱**(itchannel/RR/ensun 件)
+  > PT 509371655(2010-04-27 登);Zoom Business Park, Agualva-Cacém;218 051 560;www.dssi.pt;Principais Marcas: Riverbed, Sophos, **Ubiquiti**, Solarwinds, Nakivo, Hitachi, SpectraLogic;**dssi.co.ao(安哥拉)+dssi.co.mz(莫桑)=葡非扩展谱**(itchannel/RR/ensun 件)
+  > 来源：https://www.itchannel.pt/directorio/distribuidores/dssi---tecnologias-de-informacao-lda
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：葡萄牙 VAD（六域）
-- **产品线与在售品牌**：Ubiquiti/Perle 等在墙
-- **目标行业与场景**：经销商/企业
-- **团队与规模**：分销团队
-- **决策链与对接人**：comercial@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：Cyberhaven/新牌持续入册
-- **与我方契合点**：网络域替补窄位
-- **风险与注意**：SKU 主权强——守界前句
+- **业务定位**：DSSI - Tecnologias de Informação, Lda(葡萄牙 Agualva-Cacém,Zoom Business Park Ed. E Piso 1 Esc. 3, Estrada de Paço de Arcos, 2735-307;**PT 509371655;2010-04-27 创 16 年;7-11 人;增值分销(Ubiquiti/Sophos/Riverbed/Solarwinds/Nakivo/Retrospect/Code42/ownCloud/Hitachi/SpectraLogic)**;**Managing Partner Gonçalo Filipe Mello(Fialho Nunes de Mello;Director 2010 创始;northdata+itchannel 联络具名;dssi.co.ao/.mz 安哥拉/莫桑米格牌=葡语非洲谱)+Patrícia Rodrigues Director+Alexandra Matos 销售+Pedro Gomes 技术**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：葡萄牙 Cacém 7-11 人增值分销屋(葡非谱)
+- **团队与规模**：7-11 人;2010 创
+- **决策链与对接人**：**Gonçalo Filipe Mello(Managing Partner/Director(2010 创始;itchannel 目录联络具名=E-mail 直线),official-self-published·谱/leads-only(直发需 opt-in));Patrícia Cristina Cebola Romão Rodrigues(Director(2010 双董事谱),official-self-published·谱/leads-only(直发需 opt-in));Alexandra Matos(Sales and Assistent Marketing(销售口),leads-only·待 opt-in(LinkedIn/谱面带核));Pedro Gomes(IT Technical Support(技术谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Gonçalo Mello 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：通道
-- **W**：线在墙
-- **O**：替补
-- **T**：引力
+- **S**：Ubiquiti 谱+葡非牌=邻链窗
+- **W**：分销谱
+- **O**：Mello MP+Matos 销售直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -198,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 品牌权责
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi DSSI team,
+Estimado Sr. Mello,
 
-A value-added distributor across backup, monitoring, security, cloud - and a networking line already carrying Ubiquiti and Perle. One sentence up front: we are not asking to displace either.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute in the networking domain for deals where the headline tier is overspecified.
-
-One question: does your networking domain keep a substitute slot - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

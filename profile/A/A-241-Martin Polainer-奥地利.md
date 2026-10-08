@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TRIOTRONIK（奥地利 25 年网络分销三板块=Distribution/Academy/Technologies）：HIKVISION/Avigilon/Teltonika/Ubiquiti(UI 企业路演）+自牌 LIGHTWIN 布线/GHMT SLIM 跳线
-- 【推断】网络分销头部：多品牌墙+三大部——二轨价值槽正位靶（批 25 最强分销 +1）
-- 【假设】其二线价值槽：ROI 敏感转售商的 PoE 接入替补——Ubiquiti 旁边不撞车定位
+- 【事实】Martin Polainer:Martin Polainer(奥地利／Weiz;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.triotronik.com;triotronik.com=施泰尔马克 IT 铺谱)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-09-28
 - 来源等级：official-named（R41–R48 联系方式台账口径）
 - **原始联系字段**：m.polainer@triotronik.com（官网具名业务邮箱）；原入口：43 3172 42299 0
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Martin Polainer**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://www.triotronik.com〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Martin Polainer | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.triotronik.com |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第25批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：AT 网络分销头部（官网一手核）
-- **②芯片/型号**：多品牌墙+自牌 LIGHTWIN
-- **③KP 深挖**：M. Polainer 具名
-- **④Saga 对标**：二轨价值槽（$180 锚点一致）
-- **⑤在乎与偏好**：文档质量/品牌管理
+- **①背景再核**：Martin Polainer(奥地利／Weiz;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.triotronik.com;triotronik.com=施泰尔马克 IT 铺谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Martin Polainer(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution/Academy/Technologies——Avigilon/HIKVISION/Teltonika/LIGHTWIN/GHMT Lightpatchkabel
-  > Unsere drei Geschäftsbereiche: TRIOTRONIK Distribution/Academy/Technologies——Avigilon/HIKVISION/Teltonika/LIGHTWIN/GHMT Lightpatchkabel
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://www.triotronik.com
+- **【近期动态与线索】**档定首触角: 二轨价值槽正位($180 锚点一致);M. Polainer 具名直口
+  > 档定首触角: 二轨价值槽正位($180 锚点一致);M. Polainer 具名直口
+  > 来源：https://www.triotronik.com
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://www.triotronik.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：奥地利网络分销头部（25 年）
-- **产品线与在售品牌**：多品牌墙（HIKVision/Ubiquiti/Teltonika…)
-- **目标行业与场景**：转售商/监控/企业网
-- **团队与规模**：分销+学院+技术三板块
-- **决策链与对接人**：M. Polainer 具名
-- **技术与认证**：GHMT 认证敏感
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：UI Enterprise Roadshow 2026
-- **与我方契合点**：二轨价值槽正位
-- **风险与注意**：SKU 主权+白牌自重——守界前句
+- **业务定位**：Martin Polainer(奥地利／Weiz;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.triotronik.com;triotronik.com=施泰尔马克 IT 铺谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Martin Polainer(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Guten Tag Herr Polainer,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：通道
-- **W**：主权
-- **O**：二轨
-- **T**：自有线
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Martin Polainer 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -205,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二轨机制
-  - [ ] Polainer 权责
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Mr. Polainer,
+Guten Tag Herr Polainer,
 
-TRIOTRONIK's three arms - distribution, academy, technologies - plus own-brand LIGHTWIN cabling tell me you manage a brand portfolio with discipline. One sentence up front: we are not asking to displace any line on your wall.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full, GHMT-conscious documentation. Reference: $180 USD EXW (2026-09-29) - a value-tier PoE unit your resellers can carry beside Ubiquiti without collision.
-
-One question: does TRIOTRONIK keep a value tier for ROI-sensitive resellers - and is a one-unit evaluation possible?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

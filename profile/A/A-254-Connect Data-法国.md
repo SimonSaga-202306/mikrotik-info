@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Connect Data - Sintel（法国 30+年电信网络 VAD）：明写 LAN Switching 板块+Carrier Ethernet/WiFi/安全/IoT/VoIP；品牌含 RUCKUS/RAD/RADWIN/Teltonika/Sangoma/AudioCodes；国家认可培训中心+售前咨询+物流
-- 【推断】法国 VAD 明列 LAN Switching——RUCKUS 旁边存在 value 第二轨条例（批 26 最强分销）
-- 【假设】其转售网络的 value PoE 接入二轨：RUCKUS 之下不撞车定位
+- 【事实】Connect Data:CONNECT DATA(法国 Bièvres(埃松省);**SIREN 321239287;TVA FR78321239287;19 人;€11.7M;无线+有线方案分销(ISP/电信运营商+Voix Data 集成商;法国本土+海外省+非洲)**;**2022 Connect Data+Sintel France 同集团合并=现 Connect Data(GLOBE TECH 层谱)**;**Président: Dominique Renaudie(2024-08-07 起;FINANCIERE CONNECT DATA 382731370 独东谱;contactout 谱「Dominique Claude-Renaudie Managing Partner」)**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,22 @@ updated: 2026-09-28
 - 来源等级：official-obfuscated（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@connectdata.fr（官网明确[at]/mailto还原）；原入口：+33 1 60 13 70 10
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dominique Renaudie(Claude-Renaudie)**(Président(2024-08 起;Managing Partner 谱))— pappers.fr+contactout 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/connect-data-522513399〕
+  - **Fateh Ziani**(Gérant principal(首席经理;contactout 谱面条))— contactout 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Connect-Data-85564〕
+  - **Ladislas Mollet**(Directeur des opérations(运营总监=件链口 KPI))— contactout 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Connect-Data-85564〕
+  - **Laurent Monnet**(Sales Engineer(售前工程))— contactout 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Connect-Data-85564〕
+  - **Rachid Benamrouche**(Chargé d'affaires CFO/CFA(商务))— contactout 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Connect-Data-85564〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dominique Renaudie(Claude-Renaudie) | Président(2024-08 起;Managing Partner 谱) | pappers.fr+contactout 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/connect-data-522513399 |
+| Fateh Ziani | Gérant principal(首席经理;contactout 谱面条) | contactout 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/Connect-Data-85564 |
+| Ladislas Mollet | Directeur des opérations(运营总监=件链口 KPI) | contactout 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/Connect-Data-85564 |
+| Laurent Monnet | Sales Engineer(售前工程) | contactout 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/Connect-Data-85564 |
+| Rachid Benamrouche | Chargé d'affaires CFO/CFA(商务) | contactout 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/Connect-Data-85564 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +148,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 电信网络 VAD（官网一手核）
-- **②芯片/型号**：RUCKUS/RAD 等墙
-- **③KP 深挖**：sales@
-- **④Saga 对标**：二轨价值槽（$180 锚点一致）
-- **⑤在乎与偏好**：培训+售前深度/物流
+- **①背景再核**：CONNECT DATA(法国 Bièvres(埃松省);**SIREN 321239287;TVA FR78321239287;19 人;€11.7M;无线+有线方案分销(ISP/电信运营商+Voix Data 集成商;法国本土+海外省+非洲)**;**2022 Connect Data+Sintel France 同集团合并=现 Connect Data(GLOBE TECH 层谱)**;**Président: Dominique Renaudie(2024-08-07 起;FINANCIERE CONNECT DATA 382731370 独东谱;contactout 谱「Dominique Claude-Renaudie Managing Partner」)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dominique Renaudie(Claude-Renaudie)(Président(2024-08 起;Managing Partner 谱),official-self-published·谱/leads-only(直发需 opt-in));Fateh Ziani(Gérant principal(首席经理;contactout 谱面条),leads-only·待 opt-in(LinkedIn/谱面带核));Ladislas Mollet(Directeur des opérations(运营总监=件链口 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent Monnet(Sales Engineer(售前工程),leads-only·待 opt-in(LinkedIn/谱面带核));Rachid Benamrouche(Chargé d'affaires CFO/CFA(商务),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：ISP 件链+非洲谱=出口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Distributeur de solutions télécoms & réseaux——Wifi, Sécurité, Radio, LAN Switching, Accès Carrier Ethernet, IOT, VoIP；centre de formation agréé
-  > Distributeur de solutions télécoms & réseaux——Wifi, Sécurité, Radio, LAN Switching, Accès Carrier Ethernet, IOT, VoIP；centre de formation agréé
-  > 来源：https://www.connectdata.fr
+- **【决策链与对接人】**Président: RENAUDIE Dominique(depuis 07/08/2024);FINANCIERE CONNECT DATA(382731370)Associé unique 谱;2022: Connect Data et Sintel France fusionnent au sein de leur maison-mère renommée Connect Data;队谱: Fateh Ziani(Gérant principal)+Ladislas Mollet(Directeur des opérations)+Laurent Monnet(Sales Engineer)(pappers/contactout 件)
+  > Président: RENAUDIE Dominique(depuis 07/08/2024);FINANCIERE CONNECT DATA(382731370)Associé unique 谱;2022: Connect Data et Sintel France fusionnent au sein de leur maison-mère renommée Connect Data;队谱: Fateh Ziani(Gérant principal)+Ladislas Mollet(Directeur des opérations)+Laurent Monnet(Sales Engineer)(pappers/contactout 件)
+  > 来源：https://www.pappers.fr/entreprise/connect-data-522513399
+- **【联系方式与基础画像】**Bièvres;19 employés;11.677 K€ CA;distributeur de solutions Wireless et filaires pour Opérateurs Télécoms/ISP/intégrateurs Voix Data;France métropolitaine+Outremer+Afrique(verif/contactout 件)
+  > Bièvres;19 employés;11.677 K€ CA;distributeur de solutions Wireless et filaires pour Opérateurs Télécoms/ISP/intégrateurs Voix Data;France métropolitaine+Outremer+Afrique(verif/contactout 件)
+  > 来源：https://www.verif.com/societe/CONNECT-DATA-321239287/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国电信网络 VAD（30+年）
-- **产品线与在售品牌**：RUCKUS/RAD/Teltonika 等
-- **目标行业与场景**：转售商/企业/运营商
-- **团队与规模**：分销+培训中心组织
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：国认可培训中心
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：Sintel 组合叙事
-- **与我方契合点**：LAN Switching 板块内二轨（守界前句）
-- **风险与注意**：RUCKUS 生态引力——前句框定
+- **业务定位**：CONNECT DATA(法国 Bièvres(埃松省);**SIREN 321239287;TVA FR78321239287;19 人;€11.7M;无线+有线方案分销(ISP/电信运营商+Voix Data 集成商;法国本土+海外省+非洲)**;**2022 Connect Data+Sintel France 同集团合并=现 Connect Data(GLOBE TECH 层谱)**;**Président: Dominique Renaudie(2024-08-07 起;FINANCIERE CONNECT DATA 382731370 独东谱;contactout 谱「Dominique Claude-Renaudie Managing Partner」)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国埃松 19 人 ISP 无线分销屋(非洲谱)
+- **团队与规模**：19 人;€11.7M
+- **决策链与对接人**：**Dominique Renaudie(Claude-Renaudie)(Président(2024-08 起;Managing Partner 谱),official-self-published·谱/leads-only(直发需 opt-in));Fateh Ziani(Gérant principal(首席经理;contactout 谱面条),leads-only·待 opt-in(LinkedIn/谱面带核));Ladislas Mollet(Directeur des opérations(运营总监=件链口 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent Monnet(Sales Engineer(售前工程),leads-only·待 opt-in(LinkedIn/谱面带核));Rachid Benamrouche(Chargé d'affaires CFO/CFA(商务),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：D. Renaudie+Mollet 运营位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：引力
-- **O**：二轨
-- **T**：引力
+- **S**：ISP 件链+非洲谱=出口窗
+- **W**：分销谱
+- **O**：Renaudie+Mollet 运营口直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -198,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二轨机制
-  - [ ] 品牌权责人
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Connect Data - Sintel team,
+Monsieur Renaudie,
 
-Thirty-plus years in telecom and network distribution, LAN Switching printed on your own banner, an approved training centre and real logistics. One sentence up front: we are not asking to displace RUCKUS or any line you represent.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - the natural value tier under your headline switching brands, for resellers whose deals close on ROI.
-
-One question: does a value second-track fit inside your LAN Switching board - and can we place one unit in your lab and training room?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

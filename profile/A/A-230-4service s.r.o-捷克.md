@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】4service s.r.o.（捷克，Google Sites 薄站）：IT outsourcing/'správa sítí'（网络管理）含 HW/SW/学校/支持，参考小中企
-- 【推断】站薄但业务核心=网络运维——HW 随单存在；信号密度低
-- 【假设】中小企业客户网络维护中的随单件窄位
+- 【事实】4service s.r.o:4service s.r.o.(捷克 České Budějovice,Novohradská 745/21(法址)+F.A. Gerstnera 2151/6(运营);**IČO 28066235;DIČ CZ28066235;2007-05-11 创 19 年;IT 外包/网管/培训谱;Bošilec 木工车间副谱**;**双 jednatel 2008-08-14 起:Lukáš Janáček+Rostislav Šachl;官网 Vedení 直接邮箱 sachl@/janacek@4service.cz=O 级金谱**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,16 @@ updated: 2026-09-28
 - 来源等级：public-register（R41–R48 联系方式台账口径）
 - **原始联系字段**：sachl@4service.cz（公共采购注册页公开；非公司官网正文；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Rostislav Šachl**(Jednatel(2008 起;官网 Vedení 自署邮箱 sachl@4service.cz))— 4service.cz 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.4service.cz/kontakty〕
+  - **Lukáš Janáček**(Jednatel(2008 起;官网 Vedení 自署邮箱 janacek@4service.cz))— 4service.cz 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.4service.cz/kontakty〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Rostislav Šachl | Jednatel(2008 起;官网 Vedení 自署邮箱 sachl@4service.cz) | 4service.cz 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.4service.cz/kontakty |
+| Lukáš Janáček | Jednatel(2008 起;官网 Vedení 自署邮箱 janacek@4service.cz) | 4service.cz 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.4service.cz/kontakty |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -133,32 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：捷克网络管理小店（官网一手核）
-- **②芯片/型号**：—
-- **③KP 深挖**：Mr. Sachl 具名
-- **④Saga 对标**：随单窄位（$180 锚点一致）
-- **⑤在乎与偏好**：小而稳/学校客户
+- **①背景再核**：4service s.r.o.(捷克 České Budějovice,Novohradská 745/21(法址)+F.A. Gerstnera 2151/6(运营);**IČO 28066235;DIČ CZ28066235;2007-05-11 创 19 年;IT 外包/网管/培训谱;Bošilec 木工车间副谱**;**双 jednatel 2008-08-14 起:Lukáš Janáček+Rostislav Šachl;官网 Vedení 直接邮箱 sachl@/janacek@4service.cz=O 级金谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Rostislav Šachl(Jednatel(2008 起;官网 Vedení 自署邮箱 sachl@4service.cz),official-self-published·谱/leads-only(直发需 opt-in));Lukáš Janáček(Jednatel(2008 起;官网 Vedení 自署邮箱 janacek@4service.cz),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：双 jednatel 官网邮箱自署=O 金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**IT outsourcing/správa sítí——HW/SW/školy/podpora, reference: malé a střední firmy
-  > IT outsourcing/správa sítí——HW/SW/školy/podpora, reference: malé a střední firmy
-  > 来源：https://www.4service.cz
+- **【决策链与对接人】**Statutární orgán: Lukáš Janáček, jednatel(od 14.8.2008)+ Rostislav Šachl, jednatel(od 14.8.2008);Vedení: sachl@4service.cz, janacek@4service.cz(官网联络页自署+podnikatel.cz 登记件)
+  > Statutární orgán: Lukáš Janáček, jednatel(od 14.8.2008)+ Rostislav Šachl, jednatel(od 14.8.2008);Vedení: sachl@4service.cz, janacek@4service.cz(官网联络页自署+podnikatel.cz 登记件)
+  > 来源：https://www.4service.cz/kontakty
+- **【联系方式与基础画像】**IČ: 28066235;DIČ: CZ28066235;Novohradská 745/21, České Budějovice;helpdesk@4service.cz +420 739 338 766;it@4service.cz;obchod@4service.cz(商务箱 KPI)(官网联络页)
+  > IČ: 28066235;DIČ: CZ28066235;Novohradská 745/21, České Budějovice;helpdesk@4service.cz +420 739 338 766;it@4service.cz;obchod@4service.cz(商务箱 KPI)(官网联络页)
+  > 来源：https://www.4service.cz/kontakty
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：捷克 IT 外包小铺
-- **产品线与在售品牌**：—
-- **目标行业与场景**：中小企业/学校
-- **团队与规模**：小型团队（具名 Mr. Sachl）
-- **决策链与对接人**：sachl@ 具名
-- **技术与认证**：—
-- **采购与供应链信号**：随单夹带
-- **近期动态与线索**：—
-- **与我方契合点**：网络管理随单窄位
-- **风险与注意**：薄站低信号
+- **业务定位**：4service s.r.o.(捷克 České Budějovice,Novohradská 745/21(法址)+F.A. Gerstnera 2151/6(运营);**IČO 28066235;DIČ CZ28066235;2007-05-11 创 19 年;IT 外包/网管/培训谱;Bošilec 木工车间副谱**;**双 jednatel 2008-08-14 起:Lukáš Janáček+Rostislav Šachl;官网 Vedení 直接邮箱 sachl@/janacek@4service.cz=O 级金谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：捷克南波西米亚 19 年 IT 外包屋
+- **团队与规模**：小谱;2007 创
+- **决策链与对接人**：**Rostislav Šachl(Jednatel(2008 起;官网 Vedení 自署邮箱 sachl@4service.cz),official-self-published·谱/leads-only(直发需 opt-in));Lukáš Janáček(Jednatel(2008 起;官网 Vedení 自署邮箱 janacek@4service.cz),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Šachl/Janáček 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -173,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：小
-- **O**：随单
-- **T**：大牌
+- **S**：双 jednatel 官网邮箱自署=O 金谱
+- **W**：小实体谱
+- **O**：obchod@ 商务箱+双签直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -195,7 +204,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -204,8 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 体量
-  - [ ] 现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,16 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Mr. Sachl,
+Vážení pánové,
 
-Správa sítí - network management - is your core, and that is exactly where our unit lives: when a small client's switch dies, you need a documented, ready replacement fast.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29).
-
-One question: where do you source replacement switches for your managed networks today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

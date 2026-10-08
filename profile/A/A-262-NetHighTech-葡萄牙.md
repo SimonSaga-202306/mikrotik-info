@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NetHighTech（葡萄牙里斯本）：企业级 AI 平台软件屋（OmniCore/OmniEdge BRAS 面向 ISP-WISP 的 BNG/计费）+IT Academy（Cisco/MikroTik/Linux 课程）；CSV=MikroTik 培训伙伴
-- 【推断】软件屋+学院：硬件非主业——但其学院 MikroTik 课程=训练通道；BRAS 线连 ISP 客群是信号
-- 【假设】学院课程对照单元窄口（CONSULT-OEM）
+- 【事实】NetHighTech:NETHIGHTECH(葡萄牙 Lisboa;**MikroTik 官方培训页具名主谱:MTCNA/MTCRE/MTCSWE/MTCIPv6E 英文班(mikrotik.com/training/europe=O)**;**官方 AI 转型谱:NetHighTech-3 AI BI 平台+NetHighTech-7 租车 AI 平台(2025-10 LinkedIn 公司帖;寻战略投资谱)**;DC/服务供应商方案;档谱「培训交付」印谱对位;**谱面暂未见具名决策人→守档准由注记(培训实体主谱在档)**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,32 +137,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PT 软件+学院（官网一手核）
-- **②芯片/型号**：自家 AI 软件
-- **③KP 深挖**：gmail 口
-- **④Saga 对标**：学院对照（$180 锚点一致，教具角）
-- **⑤在乎与偏好**：软件 ROI/集成
+- **①背景再核**：NETHIGHTECH(葡萄牙 Lisboa;**MikroTik 官方培训页具名主谱:MTCNA/MTCRE/MTCSWE/MTCIPv6E 英文班(mikrotik.com/training/europe=O)**;**官方 AI 转型谱:NetHighTech-3 AI BI 平台+NetHighTech-7 租车 AI 平台(2025-10 LinkedIn 公司帖;寻战略投资谱)**;DC/服务供应商方案;档谱「培训交付」印谱对位;**谱面暂未见具名决策人→守档准由注记(培训实体主谱在档)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 20 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：官训主谱+AI 引资窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Enterprise AI:OmniCore/OmniEdge BRAS(TR-069/ISP Billing)/SolarOps/OmniBrain——IT Academy:Cisco/MikroTik/Linux
-  > Enterprise AI:OmniCore/OmniEdge BRAS(TR-069/ISP Billing)/SolarOps/OmniBrain——IT Academy:Cisco/MikroTik/Linux
-  > 来源：https://www.nethightech.com
+- **【联系方式与基础画像】**MikroTik Training Schedule: Portugal, Lisboa — NetHighTech(MTCNA/MTCRE/MTCSWE/MTCIPv6E, English)(mikrotik.com/training/europe 官方页)
+  > MikroTik Training Schedule: Portugal, Lisboa — NetHighTech(MTCNA/MTCRE/MTCSWE/MTCIPv6E, English)(mikrotik.com/training/europe 官方页)
+  > 来源：https://mikrotik.com/training/europe
+- **【近期动态与线索】**2025-10 LinkedIn 公司帖: NetHighTech-3(AI BI 平台)+NetHighTech-7(AI 租车平台)寻 strategic investors/partners(LI 公司页件)
+  > 2025-10 LinkedIn 公司帖: NetHighTech-3(AI BI 平台)+NetHighTech-7(AI 租车平台)寻 strategic investors/partners(LI 公司页件)
+  > 来源：https://www.linkedin.com/in/nethightech-company/
+- **【决策链与对接人】**谱面暂未检索到具名决策人=守档准由;2026-10-08 再核实留痕(R66 20 波点名)
+  > 谱面暂未检索到具名决策人=守档准由;2026-10-08 再核实留痕(R66 20 波点名)
+  > 来源：https://www.nethightech.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：葡 AI 软件+培训学院
-- **产品线与在售品牌**：（自家软件）Cisco/MikroTik 课程
-- **目标行业与场景**：企业/ISP 软件+受训人
-- **团队与规模**：软件团队
-- **决策链与对接人**：nethightech@gmail.com
-- **技术与认证**：MikroTik 培训伙伴名录
-- **采购与供应链信号**：课程教具
-- **近期动态与线索**：BRAS 面向 ISP/WISP
-- **与我方契合点**：学院对照单元（CONSULT-OEM）
-- **风险与注意**：硬件离轴——窄位
+- **业务定位**：NETHIGHTECH(葡萄牙 Lisboa;**MikroTik 官方培训页具名主谱:MTCNA/MTCRE/MTCSWE/MTCIPv6E 英文班(mikrotik.com/training/europe=O)**;**官方 AI 转型谱:NetHighTech-3 AI BI 平台+NetHighTech-7 租车 AI 平台(2025-10 LinkedIn 公司帖;寻战略投资谱)**;DC/服务供应商方案;档谱「培训交付」印谱对位;**谱面暂未见具名决策人→守档准由注记(培训实体主谱在档)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：葡里斯本 MikroTik 官训商+AI 新谱
+- **团队与规模**：小谱;转型窗
+- **决策链与对接人**：**守档准由;R66 第 20 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:培训主谱在档,具名待专批点名
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：信号
-- **W**：离轴
-- **O**：教具
-- **T**：边界
+- **S**：官训主谱+AI 引资窗
+- **W**：转型谱
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -212,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具采购
-  - [ ] ISP 客群门缝
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi NetHighTech team,
+Exmos. Sres.,
 
-Enterprise AI platforms - including a carrier-grade BNG for ISPs and WISPs - plus an IT Academy teaching Cisco, MikroTik and Linux. You live at the software layer; we live at the hardware access edge, a clean adjacency.
-
-Full honesty: we build PoE switches. Where we might serve is your Academy bench: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a comparison unit in network labs.
-
-One question: does your Academy run comparison hardware in labs, or do you keep the bench single-course focused?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Specto Remote AS（挪威 Oslo+Bodø）：海事/离岸/水产养殖网络——Viking Line/Mowi/Cermaq 客户（商业养鱼场=私营）；机柜/点对点天线/监控/对讲全案
-- 【推断】水产养殖私营关键场景：鱼场监控机柜=PoE+恶劣半户外接入，正位
-- 【假设】鱼场/码头监控机柜的 PoE 接入随单（双城仓有备件叙事实锤）
+- 【事实】Specto Remote AS:SPECTO REMOTE AS(挪威 Oslo,Nils Hansens vei 5, 0667;**Org.nr 993 433 802;2008-11-27 创;8 人;原名 Brenna i AS(更名谱);养殖/船载定制 ICT 通信谱**;**Daglig leder Christian Larsen(1977 生,兼董事)+Styrets leder Pål Tajet(1956 生)+Prosjektleder Robin Alstad(15 年行业谱,引语件)+Ole Gjermundshaug 董事**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：post@spectoremote.com（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Christian Larsen**(Daglig leder(CEO;proff/gulesider 双登记+2018 报件引语))— proff.no 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.proff.no/selskap/specto-remote-as/oslo/bygg-og-anleggsleverand%C3%B8rer/IGFGQFE0CVG〕
+  - **Pål Tajet**(Styrets leder(董事长))— proff.no/gulesider 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.proff.no/selskap/specto-remote-as/oslo/bygg-og-anleggsleverand%C3%B8rer/IGFGQFE0CVG〕
+  - **Robin Alstad**(Prosjektleder(项目长;15 年行业谱;行业报引语))— norskebransjemagasinet.no 2018 件 〔已有(公司官方公开件/登记册自曝);源:https://www.norskebransjemagasinet.no/nyheter/artikel/Specto_RemoteAS〕
+  - **Ole Gjermundshaug**(Styremedlem(董事))— gulesider 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.gulesider.no/specto+remote+as+oslo/86107755/bedrift〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Christian Larsen | Daglig leder(CEO;proff/gulesider 双登记+2018 报件引语) | proff.no 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.proff.no/selskap/specto-remote-as/oslo/bygg-og-anleggsleverand%C3%B8rer/IGFGQFE0CVG |
+| Pål Tajet | Styrets leder(董事长) | proff.no/gulesider 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.proff.no/selskap/specto-remote-as/oslo/bygg-og-anleggsleverand%C3%B8rer/IGFGQFE0CVG |
+| Robin Alstad | Prosjektleder(项目长;15 年行业谱;行业报引语) | norskebransjemagasinet.no 2018 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.norskebransjemagasinet.no/nyheter/artikel/Specto_RemoteAS |
+| Ole Gjermundshaug | Styremedlem(董事) | gulesider 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.gulesider.no/specto+remote+as+oslo/86107755/bedrift |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +148,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第24批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：挪威海事水产专案（官网一手核）
-- **②芯片/型号**：监控/天线集成
-- **③KP 深挖**：post@
-- **④Saga 对标**：机柜 PoE 正口（$180 锚点一致）
-- **⑤在乎与偏好**：恶劣环境可靠/备件
+- **①背景再核**：SPECTO REMOTE AS(挪威 Oslo,Nils Hansens vei 5, 0667;**Org.nr 993 433 802;2008-11-27 创;8 人;原名 Brenna i AS(更名谱);养殖/船载定制 ICT 通信谱**;**Daglig leder Christian Larsen(1977 生,兼董事)+Styrets leder Pål Tajet(1956 生)+Prosjektleder Robin Alstad(15 年行业谱,引语件)+Ole Gjermundshaug 董事**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Christian Larsen(Daglig leder(CEO;proff/gulesider 双登记+2018 报件引语),official-self-published·谱/leads-only(直发需 opt-in));Pål Tajet(Styrets leder(董事长),official-self-published·谱/leads-only(直发需 opt-in));Robin Alstad(Prosjektleder(项目长;15 年行业谱;行业报引语),official-self-published·谱/leads-only(直发需 opt-in));Ole Gjermundshaug(Styremedlem(董事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：养殖/海事通信专谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Maritime/offshore/aquaculture networking——clients: Viking Line, Mowi, Cermaq；warehouse spare parts
-  > Maritime/offshore/aquaculture networking——clients: Viking Line, Mowi, Cermaq；warehouse spare parts
-  > 来源：https://spectoremote.com
+- **【决策链与对接人】**Daglig leder Christian Larsen(f 1977);Styrets leder Pål Tajet(f 1956);styremedlem: Larsen + Ole Gjermundshaug;Prosjektleder Robin Alstad(「Vi leverer det meste av IKT-tjenester」引语)(proff/gulesider/norskebransjemagasinet 件)
+  > Daglig leder Christian Larsen(f 1977);Styrets leder Pål Tajet(f 1956);styremedlem: Larsen + Ole Gjermundshaug;Prosjektleder Robin Alstad(「Vi leverer det meste av IKT-tjenester」引语)(proff/gulesider/norskebransjemagasinet 件)
+  > 来源：https://www.proff.no/selskap/specto-remote-as/oslo/bygg-og-anleggsleverand%C3%B8rer/IGFGQFE0CVG
+- **【联系方式与基础画像】**Org.nr 993 433 802;Nils Hansens vei 5, 0667 Oslo(+Bodø 运营谱);stiftet 27.11.2008;8 ansatte;historisk navn Brenna i AS;skreddersydde kommunikasjonssystemer(船/养殖通信)(proff/purehelp 件)
+  > Org.nr 993 433 802;Nils Hansens vei 5, 0667 Oslo(+Bodø 运营谱);stiftet 27.11.2008;8 ansatte;historisk navn Brenna i AS;skreddersydde kommunikasjonssystemer(船/养殖通信)(proff/purehelp 件)
+  > 来源：https://www.purehelp.no/m/company/details/spectoremoteas/993433802
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：挪威海事/水产网络专案商
-- **产品线与在售品牌**：监控/天线/机柜集成
-- **目标行业与场景**：渔场（Mowi/Cermaq)/码头/离岸
-- **团队与规模**：Oslo+Bodø 双点
-- **决策链与对接人**：post@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单+仓库备件实锤
-- **近期动态与线索**：SpectoWatch 防盗监控产品
-- **与我方契合点**：鱼场机柜 PoE 正口
-- **风险与注意**：恶劣环境需宽温注意（标注）
+- **业务定位**：SPECTO REMOTE AS(挪威 Oslo,Nils Hansens vei 5, 0667;**Org.nr 993 433 802;2008-11-27 创;8 人;原名 Brenna i AS(更名谱);养殖/船载定制 ICT 通信谱**;**Daglig leder Christian Larsen(1977 生,兼董事)+Styrets leder Pål Tajet(1956 生)+Prosjektleder Robin Alstad(15 年行业谱,引语件)+Ole Gjermundshaug 董事**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：挪威 Oslo 8 人定制通信工程屋
+- **团队与规模**：8 人;2008 创
+- **决策链与对接人**：**Christian Larsen(Daglig leder(CEO;proff/gulesider 双登记+2018 报件引语),official-self-published·谱/leads-only(直发需 opt-in));Pål Tajet(Styrets leder(董事长),official-self-published·谱/leads-only(直发需 opt-in));Robin Alstad(Prosjektleder(项目长;15 年行业谱;行业报引语),official-self-published·谱/leads-only(直发需 opt-in));Ole Gjermundshaug(Styremedlem(董事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Larsen 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：宽温待核
-- **O**：渔场
-- **T**：大牌
+- **S**：养殖/海事通信专谱
+- **W**：小实体谱
+- **O**：Larsen CEO+Tajet 董直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -200,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 宽温需求
-  - [ ] 现供品牌
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,16 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Specto Remote team,
+Dear Mr. Larsen,
 
-Maritime, offshore and aquaculture networking - Viking Line, Mowi, Cermaq. Keeping a fish farm or a port connected means living in cabinets at the water's edge, and your spare-parts warehouse story tells me you take that seriously.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - built for surveillance-heavy cabinets. For harsher mounting points we also offer an 8-port industrial unmanaged line.
-
-One question: what run the switching in your farm and dock cabinets today - and would a documented value PoE unit earn a spare-shelf slot?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

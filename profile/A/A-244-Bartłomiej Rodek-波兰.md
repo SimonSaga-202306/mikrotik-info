@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Inter Projekt（波兰）：Ubiquiti 波兰主分销（uipoland.pl)+MikroTik/RF-Elements/Interline/Jirous 分销；网店正卖 UniFi 全家桶（U7/UNVR/UCG-Fiber…)+MikroTik WiFi/LoRa 新品
-- 【推断】无线/ISP 类主分销：其 UniFi 交换机线已在墙——守界前句+value 二轨窄口
-- 【假设】其 ISP 客群的 PoE 接入二线槽：Ubiquiti 供应缺口/交期时的替补
+- 【事实】Bartłomiej Rodek:Bartłomiej Rodek(波兰／Gliwice;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://interprojekt.pl;interprojekt.pl=Gliwice 工程铺谱)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：orders@interprojekt.pl（关联公司官网入口；个人归属/现任职限制见备注）；原入口：+48 32 3022 907
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Bartłomiej Rodek**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://interprojekt.pl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Bartłomiej Rodek | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://interprojekt.pl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +141,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第25批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PL Ubiquiti 主分销（官网一手核）
-- **②芯片/型号**：Ubiquiti/MikroTik 主墙
-- **③KP 深挖**：orders@
-- **④Saga 对标**：二轨替补窄口（$180 锚点一致）
-- **⑤在乎与偏好**：主分销身份/交付确定
+- **①背景再核**：Bartłomiej Rodek(波兰／Gliwice;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://interprojekt.pl;interprojekt.pl=Gliwice 工程铺谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Bartłomiej Rodek(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Główny dystrybutor Ubiquiti, Mikrotik, RF-Elements, Interline, Jirous, Stonet——网店在售 UniFi 全簇新品
-  > Główny dystrybutor Ubiquiti, Mikrotik, RF-Elements, Interline, Jirous, Stonet——网店在售 UniFi 全簇新品
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://interprojekt.pl
+- **【近期动态与线索】**档定首触角: 交期/价位缺口二轨替补窄口($180 锚点一致);守界前句+排他风险注
+  > 档定首触角: 交期/价位缺口二轨替补窄口($180 锚点一致);守界前句+排他风险注
+  > 来源：https://interprojekt.pl
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://interprojekt.pl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波兰无线/ISP 主分销
-- **产品线与在售品牌**：Ubiquiti 主旗+MikroTik 等
-- **目标行业与场景**：ISP/WISP/安装商转售
-- **团队与规模**：分销+网店团队
-- **决策链与对接人**：orders@ 口
-- **技术与认证**：UI Care 延保体系
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：UNVR-Instant/UCG-Fiber 新品上架
-- **与我方契合点**：供应缺口时的二轨替补窄口
-- **风险与注意**：Ubiquiti 独占引力——守界前句
+- **业务定位**：Bartłomiej Rodek(波兰／Gliwice;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://interprojekt.pl;interprojekt.pl=Gliwice 工程铺谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Bartłomiej Rodek(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Szanowny Panie Rodek,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：主通道
-- **W**：引力
-- **O**：替补
-- **T**：排他
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Bartłomiej Rodek 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -203,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -212,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 排他条款
-  - [ ] 替补接受
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,16 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Inter Projekt team,
+Szanowny Panie Rodek,
 
-Poland's main Ubiquiti distributor, plus MikroTik and RF-Elements - the newest UniFi stack is already on your shelves. One sentence up front: we are not asking to sit next to your headline line as a rival.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). Its realistic place with you: a second-track substitute when delivery times or price points on the main line leave an ISP customer waiting.
-
-One question: does a documented substitute tier exist for such gaps - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

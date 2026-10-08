@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Modelec Data-Industrie（荷兰）：工业数据通信分销——官网题'betrouwbare en veilige netwerkoplossingen'；CSV=Westermo 官方 where-to-buy 名录（2026-09-23 验）
-- 【推断】荷兰工业数据通信分销（Westermo 在墙）：value 替补窄位死守界前句；官网 JS 重证据偏薄已标注
-- 【假设】Westermo 旁的替补槽窄口
+- 【事实】Modelec Data-Industrie:MODELEC Data-Industrie B.V.(荷兰 Ede(Gelderland),Galvanistraat;**1977 创 49 年;21-50 人;「Your OT Network. Our Expertise」=OT 网络+网安专营(电网/水务/监狱/智能交通=KRITIS 守界加厚)**;**品牌谱 Moxa/Westermo/TXOne/Robustel;SPIE 站台自动化长期伙伴件**;**Contactinfo: Stefan Barten stefan@modelec.nl(SecurityDelta 伙伴页=O)+Bart Jan Witteveen bartjan@modelec.nl(Energy Storage NL+SPIE 案例件)+Sergio Alonso Owner(prospeo 谱)**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@modelec.nl（官网联系页正文）；支持：support@modelec.nl；订单：order@modelec.nl；原入口：+31 318 636 262
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Stefan Barten**(Contactinfo(伙伴页具名 stefan@modelec.nl +31 318-626262))— securitydelta.nl 伙伴页(O) 〔已有(公司官方公开件/登记册自曝);源:https://securitydelta.nl/partners/overview-partners/modelec〕
+  - **Bart Jan Witteveen**(联络/案例件具名(bartjan@modelec.nl;SPIE 案例照件))— energystoragenl.nl+modelec.nl 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.energystoragenl.nl/en/lid/modelec-data-industrie-bv/〕
+  - **Sergio Alonso**(Owner(业主谱))— prospeo.io 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://prospeo.io/c/modelec〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Stefan Barten | Contactinfo(伙伴页具名 stefan@modelec.nl +31 318-626262) | securitydelta.nl 伙伴页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://securitydelta.nl/partners/overview-partners/modelec |
+| Bart Jan Witteveen | 联络/案例件具名(bartjan@modelec.nl;SPIE 案例照件) | energystoragenl.nl+modelec.nl 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.energystoragenl.nl/en/lid/modelec-data-industrie-bv/ |
+| Sergio Alonso | Owner(业主谱) | prospeo.io 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://prospeo.io/c/modelec |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -133,32 +141,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第28批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NL 工业数据通信分销（官网+CSV 双核）
-- **②芯片/型号**：Westermo 线
-- **③KP 深挖**：contact@
-- **④Saga 对标**：替补窄位（$180 锚点一致）
-- **⑤在乎与偏好**：可靠/安全网络
+- **①背景再核**：MODELEC Data-Industrie B.V.(荷兰 Ede(Gelderland),Galvanistraat;**1977 创 49 年;21-50 人;「Your OT Network. Our Expertise」=OT 网络+网安专营(电网/水务/监狱/智能交通=KRITIS 守界加厚)**;**品牌谱 Moxa/Westermo/TXOne/Robustel;SPIE 站台自动化长期伙伴件**;**Contactinfo: Stefan Barten stefan@modelec.nl(SecurityDelta 伙伴页=O)+Bart Jan Witteveen bartjan@modelec.nl(Energy Storage NL+SPIE 案例件)+Sergio Alonso Owner(prospeo 谱)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Stefan Barten(Contactinfo(伙伴页具名 stefan@modelec.nl +31 318-626262),official-self-published·谱/leads-only(直发需 opt-in));Bart Jan Witteveen(联络/案例件具名(bartjan@modelec.nl;SPIE 案例照件),official-self-published·谱/leads-only(直发需 opt-in));Sergio Alonso(Owner(业主谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：OT/电网专营=最高守界
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen——CSV: Westermo 官方 where-to-buy 名录（9-23 验）
-  > MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen——CSV: Westermo 官方 where-to-buy 名录（9-23 验）
-  > 来源：https://www.modelec.nl
+- **【决策链与对接人】**Contactinfo: Stefan Barten stefan@modelec.nl 0318-626262(SecurityDelta 伙伴页);Contact: Bart Jan Witteveen bartjan@modelec.nl(Energy Storage NL 会员页);案例件照: Bart Jan Witteveen(MODELEC)+SPIE 项目位;Owner: Sergio Alonso(prospeo 谱)
+  > Contactinfo: Stefan Barten stefan@modelec.nl 0318-626262(SecurityDelta 伙伴页);Contact: Bart Jan Witteveen bartjan@modelec.nl(Energy Storage NL 会员页);案例件照: Bart Jan Witteveen(MODELEC)+SPIE 项目位;Owner: Sergio Alonso(prospeo 谱)
+  > 来源：https://securitydelta.nl/partners/overview-partners/modelec
+- **【联系方式与基础画像】**Ede, Gelderland;founded 1977;21-50 employees;+31 318 636262;**OT network & cybersecurity specialist for energy/utilities/water/penitentiary/traffic**;Partners: Moxa, Westermo, TXOne, Robustel(securitydelta/prospeo/psychiatrie 件)
+  > Ede, Gelderland;founded 1977;21-50 employees;+31 318 636262;**OT network & cybersecurity specialist for energy/utilities/water/penitentiary/traffic**;Partners: Moxa, Westermo, TXOne, Robustel(securitydelta/prospeo/psychiatrie 件)
+  > 来源：https://securitydelta.nl/partners/overview-partners/modelec
+- **【近期动态与线索】**2025: SPIE×MODELEC 「Samen Sterk」站台自动化长期件(案例页);Energy Storage NL 网络安全 workshop Ede 主办谱(modelec.nl/energystoragenl 件)
+  > 2025: SPIE×MODELEC 「Samen Sterk」站台自动化长期件(案例页);Energy Storage NL 网络安全 workshop Ede 主办谱(modelec.nl/energystoragenl 件)
+  > 来源：https://www.modelec.nl/case/samen-sterk-modelec-en-spie-bundelen-hun-krachten-voor-de-lange-termijn/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰工业数据通信分销
-- **产品线与在售品牌**：Westermo
-- **目标行业与场景**：工业 OT
-- **团队与规模**：分销团队
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：—
-- **与我方契合点**：替补窄位（守界前句）
-- **风险与注意**：官网 JS 重的一手证偏薄（标注）
+- **业务定位**：MODELEC Data-Industrie B.V.(荷兰 Ede(Gelderland),Galvanistraat;**1977 创 49 年;21-50 人;「Your OT Network. Our Expertise」=OT 网络+网安专营(电网/水务/监狱/智能交通=KRITIS 守界加厚)**;**品牌谱 Moxa/Westermo/TXOne/Robustel;SPIE 站台自动化长期伙伴件**;**Contactinfo: Stefan Barten stefan@modelec.nl(SecurityDelta 伙伴页=O)+Bart Jan Witteveen bartjan@modelec.nl(Energy Storage NL+SPIE 案例件)+Sergio Alonso Owner(prospeo 谱)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：荷兰 Ede 49 年 OT 网络网安屋(KRITIS)
+- **团队与规模**：21-50 人;1977 创
+- **决策链与对接人**：**Stefan Barten(Contactinfo(伙伴页具名 stefan@modelec.nl +31 318-626262),official-self-published·谱/leads-only(直发需 opt-in));Bart Jan Witteveen(联络/案例件具名(bartjan@modelec.nl;SPIE 案例照件),official-self-published·谱/leads-only(直发需 opt-in));Sergio Alonso(Owner(业主谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Stefan Barten 直达(opt-in 律;KRITIS 守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -173,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：薄
-- **O**：替补
-- **T**：Westermo
+- **S**：OT/电网专营=最高守界
+- **W**：KRITIS 守界段
+- **O**：Barten/Witteveen 联络直达位
+- **T**：Moxa/Westermo 链谱
 
 ## 触达与风险红线
 
@@ -195,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -204,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 采购权责
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Modelec team,
+Geachte heer Barten,
 
-Reliable and secure network solutions for Dutch industry - and, per the official Westermo listing, a data-communication house with real industrial wiring behind it. One sentence up front: your Westermo line stays untouched.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute where projects do not need the full industrial tier.
-
-One question: does Modelec keep a substitute tier for industrial switching - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

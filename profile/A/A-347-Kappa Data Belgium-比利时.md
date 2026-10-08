@@ -47,7 +47,7 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Kappa Data Group(比利时 De Pinte 总部,1998 创,2023 年 25 周年;分支:比利时/卢森堡/法国/荷兰/波兰;2025-07-03 Channel News:InvestLink 私募强化后,**Patrick Casteels = 唯一 CEO(创始人,股比 22%→35%)**;Chris Willems = 前 Co-CEO,转任 M&A 主责;Koert Martens = 技术总监(2011 前管理组合);Michel Grunspan = 收购的法国 Exer CEO(集团管理增补);Erwan Le Guen = 法国国别总监;2,900+ LinkedIn followers;目标 2030 前营收翻倍 · 只在 midsize/enterprise 转经商(reseller)谱;Kappa Data Belgium = Kappa Data Group 原生总部 De Pinte(1998 创,2023 年已满 25 周年);原生 HQ 在 De Pinte,2023 年自有报导 25 周年 +InvestLink 结构加固
+- 【事实】Kappa Data Belgium(Kappa Data Group 原生总部,比利时 De Pinte,1998 创,2023 年 25 周年;分支:比利时/卢森堡/法国/荷兰/波兰;2025-07-03 Channel News:InvestLink 私募强化后,**Patrick Casteels = 唯一 CEO(创始人,股比 22%→35%)**;Chris Willems = 前 Co-CEO,转任 M&A 主责;Koert Martens = 技术总监(2011 前管理组合);Michel Grunspan = 收购的法国 Exer CEO(集团管理增补);Erwan Le Guen = 法国国别总监;2,900+ LinkedIn followers;目标 2030 前营收翻倍 · 只在 midsize/enterprise 转经商(reseller)谱;Kappa Data Belgium = Kappa Data Group 原生总部 De Pinte(1998 创,2023 年已满 25 周年);原生 HQ 在 De Pinte,2023 年自有报导 25 周年 +InvestLink 结构加固
 - 【推断】Patrick Casteels 经 co-CEO 共享后转唯一 CEO;InvestLink 私募深化持股;Casteels 股比 22%→35%;VAD 谱 LinkedIn 2,900+ followers;2030 翻倍目标下扩欧
 - 【假设】对转经商的「同档多谱」集成时,汇报层同厂转额的锚点件,卖「MikroTik 同档的成本 value PoE」能打三波
 

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MWTC（华沙/波兹南/琴斯托霍瓦三址）：认证培训线 MikroTik/Zabbix/UniFi+自研 Linux/Proxmox/Windows/VoIP/LoRa 课；另做审计/部署/14-支持/咨询
-- 【推断】培训机构+轻实施——多厂商教学（MikroTik/UniFi 都在）=对照单元心态较好的训练通道（CONSULT-OEM）
-- 【假设】其交换/无线课实验室对照单元+部署业务的窄位随单
+- 【事实】Mikrotik Warsaw Training Center:MikroTik Warsaw Training Center(MWTC)(波兰 Warszawa,ul. Ogrodowa 58(4 楼),00-876;**NIP 1132330628;2016 创;2-10 人;波兰最大 MikroTik 培训中心(官方全证谱 MTCNA..MTCUME+Zabbix ZCS/ZCP/ZCE 双证;UE/PARP/KFS 资助课;Proxmox/Windows 副谱)**;**官网 Trainers 页全谱:Michał Filipek(MikroTik+Zabbix+Ubiquiti 三证师)+Piotr Wasyk(**Właściciel 业主**,华沙理工 2004 入行;PARP BUR 件)+Ihor Hreskiv(塔尔诺波尔工大;MBUM/MUM 2019 演讲谱)+Iwona Wasyk(Frontend 族谱)**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,10 +78,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@mwtc.pl（官网正文公开）；原入口：+48 796 171 971；Michał：michal@mwtc.pl；Piotr：piotr@mwtc.pl（均官网正文）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Piotr Wasyk**(Network Architect/Trener/**Właściciel**(业主;官网教练页+RR+PARP 件三源))— mwtc.pl/aboutUs.php+RR 双源 〔已有(公司官方公开件/登记册自曝);源:https://mwtc.pl/aboutUs.php〕
+  - **Michał Filipek**(Network Architect/MikroTik+Zabbix+Ubiquiti Trainer(三证教练))— mwtc.pl 教练页(O) 〔已有(公司官方公开件/登记册自曝);源:https://mwtc.pl/aboutUs.php〕
+  - **Ihor Hreskiv**(Certified MikroTik Trainer(乌克兰谱;MUM 2019 演讲者))— mwtc.pl 教练页(O) 〔已有(公司官方公开件/登记册自曝);源:https://mwtc.pl/aboutUs.php〕
+  - **Iwona Wasyk**(Frontend Developer(族谱))— LinkedIn 公司页员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pl.linkedin.com/company/mikrotik-warsaw-training-center〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Piotr Wasyk | Network Architect/Trener/**Właściciel**(业主;官网教练页+RR+PARP 件三源) | mwtc.pl/aboutUs.php+RR 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://mwtc.pl/aboutUs.php |
+| Michał Filipek | Network Architect/MikroTik+Zabbix+Ubiquiti Trainer(三证教练) | mwtc.pl 教练页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://mwtc.pl/aboutUs.php |
+| Ihor Hreskiv | Certified MikroTik Trainer(乌克兰谱;MUM 2019 演讲者) | mwtc.pl 教练页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://mwtc.pl/aboutUs.php |
+| Iwona Wasyk | Frontend Developer(族谱) | LinkedIn 公司页员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://pl.linkedin.com/company/mikrotik-warsaw-training-center |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +148,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第25批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PL 培训中心（官网一手核）
-- **②芯片/型号**：多厂商课程
-- **③KP 深挖**：info@
-- **④Saga 对标**：对照+轻实施双角（$180 锚点一致）
-- **⑤在乎与偏好**：多厂商中立感
+- **①背景再核**：MikroTik Warsaw Training Center(MWTC)(波兰 Warszawa,ul. Ogrodowa 58(4 楼),00-876;**NIP 1132330628;2016 创;2-10 人;波兰最大 MikroTik 培训中心(官方全证谱 MTCNA..MTCUME+Zabbix ZCS/ZCP/ZCE 双证;UE/PARP/KFS 资助课;Proxmox/Windows 副谱)**;**官网 Trainers 页全谱:Michał Filipek(MikroTik+Zabbix+Ubiquiti 三证师)+Piotr Wasyk(**Właściciel 业主**,华沙理工 2004 入行;PARP BUR 件)+Ihor Hreskiv(塔尔诺波尔工大;MBUM/MUM 2019 演讲谱)+Iwona Wasyk(Frontend 族谱)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Piotr Wasyk(Network Architect/Trener/**Właściciel**(业主;官网教练页+RR+PARP 件三源),official-self-published·谱/leads-only(直发需 opt-in));Michał Filipek(Network Architect/MikroTik+Zabbix+Ubiquiti Trainer(三证教练),official-self-published·谱/leads-only(直发需 opt-in));Ihor Hreskiv(Certified MikroTik Trainer(乌克兰谱;MUM 2019 演讲者),official-self-published·谱/leads-only(直发需 opt-in));Iwona Wasyk(Frontend Developer(族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：培训中心谱=课程对照单元窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
-  > Certyfikowane szkolenia MikroTik/Zabbix/Ubiquiti——Audyty infrastruktury, Wdrożenia, Wsparcie, Doradztwo
-  > 来源：https://mwtc.pl
+- **【决策链与对接人】**Trainers: Michał Filipek(Zabbix/MikroTik/Ubiquiti Trainer 全证);Piotr Wasyk(Właściciel;MikroTik+Ubiquiti Trainer;Pw BM 2004 起);Ihor Hreskiv(MikroTik Trainer;MBUM/MUM 演讲谱);Iwona Wasyk Frontend(mwtc.pl 教练页自署+LI/RR/PARP BUR 件)
+  > Trainers: Michał Filipek(Zabbix/MikroTik/Ubiquiti Trainer 全证);Piotr Wasyk(Właściciel;MikroTik+Ubiquiti Trainer;Pw BM 2004 起);Ihor Hreskiv(MikroTik Trainer;MBUM/MUM 演讲谱);Iwona Wasyk Frontend(mwtc.pl 教练页自署+LI/RR/PARP BUR 件)
+  > 来源：https://mwtc.pl/aboutUs.php
+- **【联系方式与基础画像】**Ogrodowa 58, 00-876 Warszawa(Wola);NIP 1132330628;+48 796 171 971;info@mwtc.pl;**największe centrum szkoleniowe MikroTik w Polsce**;MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE/MTCIPv6E/MTCSWE/MTCEWE/MTCUME/MTCINE 全证;UE/PARP/KFS dofinansowanie(schoolandcollege/LI/PARP 件)
+  > Ogrodowa 58, 00-876 Warszawa(Wola);NIP 1132330628;+48 796 171 971;info@mwtc.pl;**największe centrum szkoleniowe MikroTik w Polsce**;MTCNA/MTCRE/MTCSE/MTCWE/MTCTCE/MTCIPv6E/MTCSWE/MTCEWE/MTCUME/MTCINE 全证;UE/PARP/KFS dofinansowanie(schoolandcollege/LI/PARP 件)
+  > 来源：https://pl.linkedin.com/company/mikrotik-warsaw-training-center
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波兰 IT 认证培训中心
-- **产品线与在售品牌**：多厂商课程体系
-- **目标行业与场景**：网管受训人/中小实施
-- **团队与规模**：多址讲师团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：认证讲师阵容
-- **采购与供应链信号**：教具+少量实施随单
-- **近期动态与线索**：可申请 100% 资助叙事
-- **与我方契合点**：课程对照+轻实施窄位（CONSULT-OEM）
-- **风险与注意**：主营培训——不套用销售模板
+- **业务定位**：MikroTik Warsaw Training Center(MWTC)(波兰 Warszawa,ul. Ogrodowa 58(4 楼),00-876;**NIP 1132330628;2016 创;2-10 人;波兰最大 MikroTik 培训中心(官方全证谱 MTCNA..MTCUME+Zabbix ZCS/ZCP/ZCE 双证;UE/PARP/KFS 资助课;Proxmox/Windows 副谱)**;**官网 Trainers 页全谱:Michał Filipek(MikroTik+Zabbix+Ubiquiti 三证师)+Piotr Wasyk(**Właściciel 业主**,华沙理工 2004 入行;PARP BUR 件)+Ihor Hreskiv(塔尔诺波尔工大;MBUM/MUM 2019 演讲谱)+Iwona Wasyk(Frontend 族谱)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰华沙最大 MikroTik 培训中心
+- **团队与规模**：2-10 人;2016 创
+- **决策链与对接人**：**Piotr Wasyk(Network Architect/Trener/**Właściciel**(业主;官网教练页+RR+PARP 件三源),official-self-published·谱/leads-only(直发需 opt-in));Michał Filipek(Network Architect/MikroTik+Zabbix+Ubiquiti Trainer(三证教练),official-self-published·谱/leads-only(直发需 opt-in));Ihor Hreskiv(Certified MikroTik Trainer(乌克兰谱;MUM 2019 演讲者),official-self-published·谱/leads-only(直发需 opt-in));Iwona Wasyk(Frontend Developer(族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Wasyk 业主+Filipek 教练位(opt-in 律;OEM 探询)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：多厂商
-- **W**：占比小
-- **O**：对照
-- **T**：边界
+- **S**：培训中心谱=课程对照单元窗
+- **W**：培训谱
+- **O**：Wasyk 业主直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -204,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -213,8 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 实施占比
-  - [ ] 现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,16 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi MWTC team,
+Szanowny Panie Wasyk,
 
-Three locations, certified tracks for MikroTik, Zabbix and UniFi side by side - a genuinely multi-vendor classroom, plus audits and deployments beside the training. Full honesty: we build PoE switches, and neither MikroTik nor UniFi needs me to compete for your bench.
-
-Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a third-voice comparison unit for switching labs - and, quietly, for your deployment projects where a value PoE line protects the budget.
-
-One question: do your labs ever run comparison gear, and where do your deployment jobs source switches?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

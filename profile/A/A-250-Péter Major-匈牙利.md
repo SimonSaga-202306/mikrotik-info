@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MacSoft Kft.（匈牙利）：WiFi 设计测量/网络设计/服务器运维/IT 咨询/MikroTik 官方培训/系统管理员外包六线；团队含无线→服务器→应用开发
-- 【推断】集成六线+MikroTik 教师副业——网络设计主业使硬件随单真实存在（生态脚踩但主线对口）；beszerzes@=采购专用箱（匈牙利语）
-- 【假设】其网络设计/运维项目的 value PoE 随单（采购箱直达）正位
+- 【事实】Péter Major:Péter Major(匈牙利／Budapest;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://macsoft.hu;macsoft.hu=布达佩斯项目制集成铺谱;beszerzes 采购箱 KPI)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：beszerzes@macsoft.hu（关联公司官网入口；个人归属/现任职限制见备注）；原入口：+36 30 4963340
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Péter Major**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://macsoft.hu〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Péter Major | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://macsoft.hu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +140,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第25批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：HU 六线集成商（官网一手核）
-- **②芯片/型号**：—
-- **③KP 深挖**：beszerzes@ 采购箱
-- **④Saga 对标**：value 随单（$180 锚点一致）
-- **⑤在乎与偏好**：多技能/项目制
+- **①背景再核**：Péter Major(匈牙利／Budapest;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://macsoft.hu;macsoft.hu=布达佩斯项目制集成铺谱;beszerzes 采购箱 KPI)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Péter Major(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Hálózattervezés/Hálózat és szerver üzemeltetés/Wifi tervezés/MikroTik oktatás/Rendszergazda
-  > Hálózattervezés/Hálózat és szerver üzemeltetés/Wifi tervezés/MikroTik oktatás/Rendszergazda
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://macsoft.hu
+- **【近期动态与线索】**档定首触角: 项目随单($180 锚点一致);**beszerzes@=匈语采购箱直达(工程/集成项目制)**
+  > 档定首触角: 项目随单($180 锚点一致);**beszerzes@=匈语采购箱直达(工程/集成项目制)**
+  > 来源：https://macsoft.hu
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://macsoft.hu
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：匈牙利六线集成商
-- **产品线与在售品牌**：—
-- **目标行业与场景**：企业网络设计/运维
-- **团队与规模**：多技能团队
-- **决策链与对接人**：beszerzes@ 采购箱
-- **技术与认证**：MikroTik 官方培训身份
-- **采购与供应链信号**：项目随单（采购箱实锤）
-- **近期动态与线索**：Demján Sándor Program hotel subsidy讲究
-- **与我方契合点**：采购箱直达的 value 随单正口
-- **风险与注意**：MikroTik 培训副业（话术诚实）
+- **业务定位**：Péter Major(匈牙利／Budapest;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://macsoft.hu;macsoft.hu=布达佩斯项目制集成铺谱;beszerzes 采购箱 KPI)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Péter Major(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Tisztelt Major Úr!(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：踩脚
-- **O**：随单
-- **T**：大牌
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Péter Major 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -198,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] MikroTik 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi MacSoft team,
+Tisztelt Major Úr!
 
-Network design, server operations, WiFi planning - with an official MikroTik training line beside. Full honesty on the training side: we build PoE switches, so let me speak directly to your project work, where hardware choice is yours.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for the networks you design and run. I write to your procurement box on purpose.
-
-One question: which switching line do you specify in projects today - and would a documented value PoE unit earn a test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

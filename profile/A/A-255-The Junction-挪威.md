@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】The Junction AS（挪威 Drammen，30+年）：专科硬件分销欧陆+斯堪的纳维亚——连接/嵌入式/ATC/录音/加固屏五块；IT Infrastructure 板块明列 media converter/Ethernet extender/工业管理型交换机/PoE/console server/LTE-5G 路由；品牌含 Perle/Connect Tech/Bluestone
-- 【推断】IT 基建板块存在'工业管理型 PoE'明栏——STC-424 与 Perle 并排替补是正位窄口（批 26 分销双雄之一）
-- 【假设】其 IT 基建板块的 value 替补槽：Perle 旁不撞车的工程件
+- 【事实】The Junction:THE JUNCTION(挪威;档锚 thejunction.eu;R66 检索两轮未锁主谱(同名群噪大:医疗 Junction/LNU 网架等)→**守档准由:谱面未见具名决策人,档锚留档待二批专查**)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,32 +136,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NO 专科分销（官网一手核）
-- **②芯片/型号**：Perle 等专科墙
-- **③KP 深挖**：info@
-- **④Saga 对标**：替补窄口（$180 锚点一致）
-- **⑤在乎与偏好**：深度选型/僻域覆盖
+- **①背景再核**：THE JUNCTION(挪威;档锚 thejunction.eu;R66 检索两轮未锁主谱(同名群噪大:医疗 Junction/LNU 网架等)→**守档准由:谱面未见具名决策人,档锚留档待二批专查**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 20 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**IT Infrastructure: Fiber media converters, Ethernet extenders, industrial managed switches, PoE, console servers, LTE/5G routers——Perle 1976
-  > IT Infrastructure: Fiber media converters, Ethernet extenders, industrial managed switches, PoE, console servers, LTE/5G routers——Perle 1976
-  > 来源：https://thejunction.eu
+- **【决策链与对接人】**公开谱面检索两轮未锁具名决策人=守档准由;档锚 https://thejunction.eu(2026-10-08 R66 20 波留痕)
+  > 公开谱面检索两轮未锁具名决策人=守档准由;档锚 https://thejunction.eu(2026-10-08 R66 20 波留痕)
+  > 来源：https://thejunction.eu/
+- **【近期动态与线索】**R66 20 波档案点名:The Junction 挪威谱,待专批域名锚深查(thejunction.eu Whois/站点页)
+  > R66 20 波档案点名:The Junction 挪威谱,待专批域名锚深查(thejunction.eu Whois/站点页)
+  > 来源：https://thejunction.eu/
+- **【联系方式与基础画像】**档录类型: 公司/工作室(有官网);工程/集成项目制(档案基础画像行)
+  > 档录类型: 公司/工作室(有官网);工程/集成项目制(档案基础画像行)
+  > 来源：https://thejunction.eu/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：挪威专科硬件分销（30+年）
-- **产品线与在售品牌**：Perle 等专科品牌
-- **目标行业与场景**：工厂/海事/ATC/录音等僻域
-- **团队与规模**：专科分销团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：专科选型深度
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：ATC/嵌入式新板块扩展
-- **与我方契合点**：IT 基建板块 value 替补（Perle 旁守界前句）
-- **风险与注意**：专科主线分量强——前句框定
+- **业务定位**：THE JUNCTION(挪威;档锚 thejunction.eu;R66 检索两轮未锁主谱(同名群噪大:医疗 Junction/LNU 网架等)→**守档准由:谱面未见具名决策人,档锚留档待二批专查**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：挪威 The Junction 谱(锚待专查)
+- **团队与规模**：守档案
+- **决策链与对接人**：**守档准由;R66 第 20 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:锚在名缺(待专批 thejunction.eu 深查)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：分量
-- **O**：替补
-- **T**：Perle
+- **S**：—
+- **W**：短名噪声谱
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -207,8 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] Perle 排他
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi The Junction team,
+Dear Sir or Madam,
 
-Thirty-plus years of specialist distribution - media converters, extenders, industrial managed switches, PoE, console servers - Perle on the shelf and ATC/rugged lines beside. One sentence up front: we are not asking to displace Perle.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial unmanaged PoE line. Reference: $180 USD EXW (2026-09-29) - the value substitute slot beside your specialist tier.
-
-One question: does your IT Infrastructure board keep a value substitute tier - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MikroTrain（荷兰 Zwolle，Henk Veldkamp）：MikroTik 官方认证培训——三大日速成叙事，300+ 学员（客户墙含政府/医疗/AV 集成商 Kinly 等——公共段守界注）
-- 【推断】官方 MikroTik 讲师行=训练通道判（CONSULT-OEM）
-- 【假设】其三天速成课 MTCSWE 对照单元窄口（公共学员主体守界句先置）
+- 【事实】Henk Veldkamp:Henk Veldkamp(荷兰／Zwolle;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.mikrotrain.nl;mikrotrain.nl=荷 MikroTik 培训专营谱)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@mikrotrain.nl（官网正文公开）；原入口：MikroTik 顾问名录（电话见名录页）；+31 6 12224005（官网2023企业PDF）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Henk Veldkamp**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://www.mikrotrain.nl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Henk Veldkamp | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.mikrotrain.nl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NL 官方 MikroTik 培训（官网一手核）
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：info@（Henk）
-- **④Saga 对标**：课程对照（$180 锚点一致，教具角）
-- **⑤在乎与偏好**：速成工艺/实操
+- **①背景再核**：Henk Veldkamp(荷兰／Zwolle;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.mikrotrain.nl;mikrotrain.nl=荷 MikroTik 培训专营谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Henk Veldkamp(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Officiële MikroTik-certificeringstrainingen——300+ professionals opgeleid（Kinly/Rijksoverheid/UMCG 等 logo 墙）
-  > Officiële MikroTik-certificeringstrainingen——300+ professionals opgeleid（Kinly/Rijksoverheid/UMCG 等 logo 墙）
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://www.mikrotrain.nl
+- **【近期动态与线索】**档定首触角: MTCSWE 对照单元($180 锚点一致);**mikrotrain.nl=荷兰 MikroTik 培训专营铺(交换专长,三星重点)**
+  > 档定首触角: MTCSWE 对照单元($180 锚点一致);**mikrotrain.nl=荷兰 MikroTik 培训专营铺(交换专长,三星重点)**
+  > 来源：https://www.mikrotrain.nl
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE、交换专长),三星重点
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE、交换专长),三星重点
   > 来源：https://www.mikrotrain.nl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰官方 MikroTik 培训
-- **产品线与在售品牌**：MikroTik 认证课
-- **目标行业与场景**：网工受训（客户墙含公私）
-- **团队与规模**：个体讲师（Henk Veldkamp）
-- **决策链与对接人**：info@ 口
-- **技术与认证**：官方认证讲师
-- **采购与供应链信号**：课程教具
-- **近期动态与线索**：300+ 学员墙
-- **与我方契合点**：MTCSWE 对照单元窄口（CONSULT-OEM）
-- **风险与注意**：公共学员守界注
+- **业务定位**：Henk Veldkamp(荷兰／Zwolle;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.mikrotrain.nl;mikrotrain.nl=荷 MikroTik 培训专营谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Henk Veldkamp(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Geachte heer Veldkamp,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：官方
-- **W**：阵营
-- **O**：教具
-- **T**：边界
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Henk Veldkamp 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -205,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 对照接受
-  - [ ] Henk 意愿
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Henk,
+Geachte heer Veldkamp,
 
-Three days to really master MikroTik, 300+ professionals trained - your Zwolle classroom carries real weight in the Dutch scene. Full honesty: we build PoE switches, and your classroom is MikroTik's by design.
-
-Where we might serve: in the switching content, some trainers add one documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) suits that bench.
-
-One question: does MikroTrain ever use a comparison unit, or is strict single-vendor the point?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

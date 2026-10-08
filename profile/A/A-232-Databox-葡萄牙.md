@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DATABOX Lda.（葡萄牙大分销）：Dell 连续 16 年 Top Distributor；WD/Samsung/ASUS/Norton/Fsas/AISENS 等品牌墙，B2B 经销商门户
-- 【推断】大盘商体量错位——value 线在其面对几千经销商的货架有一窄口，但接触面窄（唯一品牌墙无网络件主线）
-- 【假设】其经销商网络的接入件夹带窄口；AISENS（附件线）刚入册=开新线心态期
+- 【事实】Databox:Databox, Informática S.A.(葡萄牙 Massamá(里斯本);**1985 创 41 年;95-250 人;IT 渠道分销大户**;**Expo TI Databox 官网具名双 CEO: André Reis & João Pedro Reis(族谱双驾=O 金谱);Susana Pereira Networking Product & BD Manager(网络品线 KPI!)+Jorge Matos 产品&库存+José Neves Diretor Comercial+Delfim Gaspar BUM+Jose Aguincha Director+Vitor Gama**;Expo TI 16 届(2026-05-07 Estoril)谱
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：databox@databox.pt（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页；Vitor Gama（网络产品经理）：+351 214308442，未公开个人邮箱
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **André Reis**(CEO(Expo TI 官网自署双 CEO 谱))— expotidatabox.pt 官网(O) 〔已有(公司官方公开件/登记册自曝);源:https://expotidatabox.pt/〕
+  - **João Pedro Reis**(CEO(双 CEO 谱次位))— expotidatabox.pt 官网(O) 〔已有(公司官方公开件/登记册自曝);源:https://expotidatabox.pt/〕
+  - **Susana Pereira**(Networking Product & Business Development Manager(网络品线 KPI))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/databox-informatica-sa-email-format_b47fa9e7fc4b95ae〕
+  - **Jorge Matos**(Gestor de Produto and Stock(产品&库存=件链口))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/jorge-matos-email_76250898〕
+  - **José Neves**(Diretor Comercial / GM Marketing(商务总监))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/databox-informatica-sa-email-format_b47fa9e7fc4b95ae〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| André Reis | CEO(Expo TI 官网自署双 CEO 谱) | expotidatabox.pt 官网(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://expotidatabox.pt/ |
+| João Pedro Reis | CEO(双 CEO 谱次位) | expotidatabox.pt 官网(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://expotidatabox.pt/ |
+| Susana Pereira | Networking Product & Business Development Manager(网络品线 KPI) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/databox-informatica-sa-email-format_b47fa9e7fc4b95ae |
+| Jorge Matos | Gestor de Produto and Stock(产品&库存=件链口) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/jorge-matos-email_76250898 |
+| José Neves | Diretor Comercial / GM Marketing(商务总监) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/databox-informatica-sa-email-format_b47fa9e7fc4b95ae |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第24批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PT 大盘分销（官网一手核）
-- **②芯片/型号**：Dell/WD/Samsung 等
-- **③KP 深挖**：databox@
-- **④Saga 对标**：窄口二轨（$180 锚点一致）
-- **⑤在乎与偏好**：量大/快周转
+- **①背景再核**：Databox, Informática S.A.(葡萄牙 Massamá(里斯本);**1985 创 41 年;95-250 人;IT 渠道分销大户**;**Expo TI Databox 官网具名双 CEO: André Reis & João Pedro Reis(族谱双驾=O 金谱);Susana Pereira Networking Product & BD Manager(网络品线 KPI!)+Jorge Matos 产品&库存+José Neves Diretor Comercial+Delfim Gaspar BUM+Jose Aguincha Director+Vitor Gama**;Expo TI 16 届(2026-05-07 Estoril)谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**André Reis(CEO(Expo TI 官网自署双 CEO 谱),official-self-published·谱/leads-only(直发需 opt-in));João Pedro Reis(CEO(双 CEO 谱次位),official-self-published·谱/leads-only(直发需 opt-in));Susana Pereira(Networking Product & Business Development Manager(网络品线 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Jorge Matos(Gestor de Produto and Stock(产品&库存=件链口),leads-only·待 opt-in(LinkedIn/谱面带核));José Neves(Diretor Comercial / GM Marketing(商务总监),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：双 CEO 族谱+网络品线 PM 具名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**16.º ano consecutivo Top Distributor SNS da DELL；AISENS chega ao nosso portefólio
-  > 16.º ano consecutivo Top Distributor SNS da DELL；AISENS chega ao nosso portefólio
-  > 来源：https://www.databox.pt
+- **【决策链与对接人】**Boas-vindas Databox: **André Reis & João Pedro Reis CEOs**(expotidatabox.pt 首屏自署);rocketreach 谱: Susana Pereira(Networking PM/BD)+Jorge Matos(Gestor Produto&Stock)+José Neves(Diretor Comercial)+Delfim Gaspar(BU Manager)+Vladimiro Bordalo(Retail SM)
+  > Boas-vindas Databox: **André Reis & João Pedro Reis CEOs**(expotidatabox.pt 首屏自署);rocketreach 谱: Susana Pereira(Networking PM/BD)+Jorge Matos(Gestor Produto&Stock)+José Neves(Diretor Comercial)+Delfim Gaspar(BU Manager)+Vladimiro Bordalo(Retail SM)
+  > 来源：https://expotidatabox.pt/
+- **【联系方式与基础画像】**fundada 1985;95-250 employees;Massamá/Lisboa;+351 21 430 8400;databox@databox.pt;Expo TI Databox 16ª edição 07/05 Centro de Congressos do Estoril(crunchbase/expotidatabox 件)
+  > fundada 1985;95-250 employees;Massamá/Lisboa;+351 21 430 8400;databox@databox.pt;Expo TI Databox 16ª edição 07/05 Centro de Congressos do Estoril(crunchbase/expotidatabox 件)
+  > 来源：https://www.crunchbase.com/organization/databox-ec20
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：葡萄牙大盘分销
-- **产品线与在售品牌**：Dell 领衔品牌墙
-- **目标行业与场景**：B2B 经销商网络
-- **团队与规模**：大盘商规模
-- **决策链与对接人**：databox@ 口
-- **技术与认证**：16 年 Dell Top Distributor
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：AISENS 新线入册
-- **与我方契合点**：窄口二轨（体量错位注）
-- **风险与注意**：品牌墙深、接触面广而薄
+- **业务定位**：Databox, Informática S.A.(葡萄牙 Massamá(里斯本);**1985 创 41 年;95-250 人;IT 渠道分销大户**;**Expo TI Databox 官网具名双 CEO: André Reis & João Pedro Reis(族谱双驾=O 金谱);Susana Pereira Networking Product & BD Manager(网络品线 KPI!)+Jorge Matos 产品&库存+José Neves Diretor Comercial+Delfim Gaspar BUM+Jose Aguincha Director+Vitor Gama**;Expo TI 16 届(2026-05-07 Estoril)谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：葡萄牙里斯本 41 年 IT 渠道分销大户
+- **团队与规模**：95-250 人;1985 创
+- **决策链与对接人**：**André Reis(CEO(Expo TI 官网自署双 CEO 谱),official-self-published·谱/leads-only(直发需 opt-in));João Pedro Reis(CEO(双 CEO 谱次位),official-self-published·谱/leads-only(直发需 opt-in));Susana Pereira(Networking Product & Business Development Manager(网络品线 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Jorge Matos(Gestor de Produto and Stock(产品&库存=件链口),leads-only·待 opt-in(LinkedIn/谱面带核));José Neves(Diretor Comercial / GM Marketing(商务总监),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Reis 双 CEO 位+Pereira 网络 PM(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：渠道
-- **W**：错位
-- **O**：开线期
-- **T**：品牌墙
+- **S**：双 CEO 族谱+网络品线 PM 具名
+- **W**：大分销谱
+- **O**：Reis 双驾+Pereira 网络 PM 位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络件权重
-  - [ ] 产品线经理
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi DATABOX team,
+Exmos. Sres.,
 
-Sixteen consecutive years as Dell Top Distributor, plus WD, Samsung, ASUS - and AISENS just joined the portfolio. Onboarding a new line takes appetite, so here is a narrow offer for a corner your main brands do not cover.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value networking unit your reseller shelf can carry without touching headline lines.
-
-One question: who owns accessory/network categories on your side, and would a one-unit test listing be possible?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

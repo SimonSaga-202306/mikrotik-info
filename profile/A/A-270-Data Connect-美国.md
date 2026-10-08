@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Data Connect（美国 Maryland 等三仓）：**MASTER STOCKING DISTRIBUTOR**——母体握 DSL Warehouse/ClickITDirect/VOIP-Networking/Arc Electronics/IDP/Synxcom/Wireless Network Supply 多实体；既是制造商（DCE Made/旧 Ctek/Relcomm/Telenetics 资产）又是专业大盘：品牌墙数百（Belden/Hirschmann/GarrettCom/Moxa/Perle/EtherWAN/Allied/MIKROTIK 在列）；行业含 Federal Government/State & Local（守界句关键）
-- 【推断】巨型分销+自有制造线：双钩——分销侧 value 二轨窄口+制造侧可能合作；联邦/州/地方段守界句必压
-- 【假设】商业/批发段的窝口
+- 【事实】Data Connect:Data Connect Enterprise, Inc.(DCE)(美国 Olney, Maryland;**1989-01 创 37 年;www.data-connect.com 主谱对位(档案锚)**;**Founder/President & CEO: Barry Patton(LI 自署 36 年;并购扩建「DCE 网络 inter-related 公司」战略谱)**;Connectivity/Network Access/VoIP/Triple Play 件链;**排噪:Data Connect Corporation(Centennial CO,展会软件;Tim Hobbs CEO)同名异体已分层**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@data-connect.com（官网联系页正文）；分销商/顾问入口：bpatton@data-connect.com；原入口：见 data-connect.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Barry Patton**(Founder/President & CEO(1989 创始;LI 自署 36 年))— linkedin.com/in/barry-patton(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.linkedin.com/in/barry-patton-1990198/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Barry Patton | Founder/President & CEO(1989 创始;LI 自署 36 年) | linkedin.com/in/barry-patton(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.linkedin.com/in/barry-patton-1990198/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US master 大盘+制造（官网一手核）
-- **②芯片/型号**：数百墙+DCE Made
-- **③KP 深挖**：sales@
-- **④Saga 对标**：二轨窄口+OEM 辅角（$180 锚点一致）
-- **⑤在乎与偏好**：库存深度/授权完备
+- **①背景再核**：Data Connect Enterprise, Inc.(DCE)(美国 Olney, Maryland;**1989-01 创 37 年;www.data-connect.com 主谱对位(档案锚)**;**Founder/President & CEO: Barry Patton(LI 自署 36 年;并购扩建「DCE 网络 inter-related 公司」战略谱)**;Connectivity/Network Access/VoIP/Triple Play 件链;**排噪:Data Connect Corporation(Centennial CO,展会软件;Tim Hobbs CEO)同名异体已分层**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Barry Patton(Founder/President & CEO(1989 创始;LI 自署 36 年),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Patton 36 年亲历=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**MASTER STOCKING DISTRIBUTOR——Positron Master Stocking Distributor；DCE Made Products；markets: Federal Government/State & Local Government（守界注）
-  > MASTER STOCKING DISTRIBUTOR——Positron Master Stocking Distributor；DCE Made Products；markets: Federal Government/State & Local Government（守界注）
-  > 来源：https://www.data-connect.com
+- **【决策链与对接人】**「I am the Founder and President of Data Connect Enterprise… President & CEO DCE Jan 1989 - Present 36 years;www.data-connect.com / www.dataconnectus.com」(linkedin.com/in/barry-patton 自署)
+  > 「I am the Founder and President of Data Connect Enterprise… President & CEO DCE Jan 1989 - Present 36 years;www.data-connect.com / www.dataconnectus.com」(linkedin.com/in/barry-patton 自署)
+  > 来源：https://www.linkedin.com/in/barry-patton-1990198/
+- **【联系方式与基础画像】**DCE, Olney, Maryland;build Data Connect into a network of inter-related companies through mergers & acquisitions;Connectivity/Network Access/VoIP/Triple Play solutions(LI 自署);**同名排噪: Data Connect Corporation CO/ Data Connect Group UK 各已分层**
+  > DCE, Olney, Maryland;build Data Connect into a network of inter-related companies through mergers & acquisitions;Connectivity/Network Access/VoIP/Triple Play solutions(LI 自署);**同名排噪: Data Connect Corporation CO/ Data Connect Group UK 各已分层**
+  > 来源：https://www.linkedin.com/in/barry-patton-1990198/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 master stocking 大盘+制造商
-- **产品线与在售品牌**：数百品牌+自有线
-- **目标行业与场景**：批发/VAR/ISP/WISP；（联邦/州地方=守界）
-- **团队与规模**：三仓大盘+制造
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：数百授权名录
-- **采购与供应链信号**：批发泳道+制造成线
-- **近期动态与线索**：Positron 新 master 授权
-- **与我方契合点**：商业/批发段二轨窄口+边角：自牌 OEM 通道
-- **风险与注意**：守界句必压（联邦/州/地方段）
+- **业务定位**：Data Connect Enterprise, Inc.(DCE)(美国 Olney, Maryland;**1989-01 创 37 年;www.data-connect.com 主谱对位(档案锚)**;**Founder/President & CEO: Barry Patton(LI 自署 36 年;并购扩建「DCE 网络 inter-related 公司」战略谱)**;Connectivity/Network Access/VoIP/Triple Play 件链;**排噪:Data Connect Corporation(Centennial CO,展会软件;Tim Hobbs CEO)同名异体已分层**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美马里兰 37 年连接件链并购屋
+- **团队与规模**：中型谱;1989 创
+- **决策链与对接人**：**Barry Patton(Founder/President & CEO(1989 创始;LI 自署 36 年),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Barry Patton 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：主权
-- **O**：商业段
-- **T**：公共段
+- **S**：Patton 36 年亲历=直达
+- **W**：并购谱
+- **O**：Patton 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +204,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 公共段占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Data Connect team,
+Dear Mr. Patton,
 
-Master stocking distributor and manufacturer in one house - Belden, Hirschmann, GarrettCom, and your own DCE Made lines across Maryland, New Jersey and California. One boundary sentence: Federal, State and Local Government business stays on your established compliance paths; this offer concerns only the commercial and wholesale side.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for the commercial distribution channel that does not collide with your flagship lines.
-
-One question: is there a value PoE slot on the commercial side - and is your manufacturing side ever open to co-branded discussion?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

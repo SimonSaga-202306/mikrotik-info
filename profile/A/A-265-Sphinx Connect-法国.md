@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SPHINX Connect France（法国 25 年工业/IIoT 分销）：品牌墙=Moxa（正售 EDS-(G)2000 非管理交换机/XM 模块）/Semtech-Sierra/Sintrones/Kerlink/Adder/InHand/Lanner/Lantronix/Barix；工业以太网/LoRaWAN/OT 安全（IEC 62443/NIS2）多板块；CSV 注与库内 Sphinx Italia 重名异主体
-- 【推断】Moxa 工业交换线在墙的工业分销——value 二轨窄位死守界前句；NIS2/OT 叙事实锤其工业客群
-- 【假设】其二轨替补槽：EDS-2000 非管理级下方对照或项目特价槽
+- 【事实】Sphinx Connect:SPHINX CONNECT FRANCE(法国 Boufféré/Montaigu-Vendée(旺代),Parc de la Bretonnière, 85600;**SIREN 439398462;TVA FR27439398462;2001-10-01 创 25 年;SARL→2015-11-24 转 SAS;cap €150k;20-49 人;€5.58M(2014)**;**Moxa 法国谱(别名录 MOXA FRANCE/MOXANET=工业网络强契!)+A2-LINE 谱**;**Président=SOENNO(SARL,RCS 518740634)代表 Hervé Mathé(创始人/实控受益人;Noellia Mathé Personnel Manager 族谱)**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@sphinxfrance.fr（官网联系页正文）；原入口：见 Perle 名录（distributor=642）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Hervé Mathé**(Founder/实控受益人(SOENNO Président 代表;2015 SAS 转制件))— pappers.fr/BODACC 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/sphinx-connect-france-439398462〕
+  - **Noellia Mathé**(Personnel Manager(族谱;D&B Key Principal))— D&B/verif 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sphinx_connect_france.1b707273841a0223db6298ea0c684e6a.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Hervé Mathé | Founder/实控受益人(SOENNO Président 代表;2015 SAS 转制件) | pappers.fr/BODACC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/sphinx-connect-france-439398462 |
+| Noellia Mathé | Personnel Manager(族谱;D&B Key Principal) | D&B/verif 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.sphinx_connect_france.1b707273841a0223db6298ea0c684e6a.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 工业分销（官网一手核）
-- **②芯片/型号**：Moxa 线
-- **③KP 深挖**：sales@
-- **④Saga 对标**：二轨窄位（$180 锚点一致）
-- **⑤在乎与偏好**：OT 合规/品牌管理
+- **①背景再核**：SPHINX CONNECT FRANCE(法国 Boufféré/Montaigu-Vendée(旺代),Parc de la Bretonnière, 85600;**SIREN 439398462;TVA FR27439398462;2001-10-01 创 25 年;SARL→2015-11-24 转 SAS;cap €150k;20-49 人;€5.58M(2014)**;**Moxa 法国谱(别名录 MOXA FRANCE/MOXANET=工业网络强契!)+A2-LINE 谱**;**Président=SOENNO(SARL,RCS 518740634)代表 Hervé Mathé(创始人/实控受益人;Noellia Mathé Personnel Manager 族谱)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Hervé Mathé(Founder/实控受益人(SOENNO Président 代表;2015 SAS 转制件),official-self-published·谱/leads-only(直发需 opt-in));Noellia Mathé(Personnel Manager(族谱;D&B Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Moxa 法国谱=工业件链
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Switch industriel/Routeur 4G industriel/Gateway LoRaWAN——Cybersécurité OT IEC 62443/NIS2；Moxa EDS-(G)2000 在售
-  > Switch industriel/Routeur 4G industriel/Gateway LoRaWAN——Cybersécurité OT IEC 62443/NIS2；Moxa EDS-(G)2000 在售
-  > 来源：https://sphinxfrance.com
+- **【决策链与对接人】**Président: SOENNO représentée par Hervé Mathé(2015-11-24 SAS 转制公告);bénéficiaires effectifs: Hervé MATHE(A2-LINE 谱);Noellia MATHE Personnel Manager(pappers/verif/D&B 件)
+  > Président: SOENNO représentée par Hervé Mathé(2015-11-24 SAS 转制公告);bénéficiaires effectifs: Hervé MATHE(A2-LINE 谱);Noellia MATHE Personnel Manager(pappers/verif/D&B 件)
+  > 来源：https://www.pappers.fr/entreprise/sphinx-connect-france-439398462
+- **【联系方式与基础画像】**SIREN 439 398 462;création 01/10/2001;Parc de la Bretonnière, 85600 Boufféré/Montaigu-Vendée;cap €150.000;20-49 salariés;NAF 4651Z;**alias: MOXA FRANCE/MOXATECH/MOXANET**(pappers 件)=Moxa 工业网络谱
+  > SIREN 439 398 462;création 01/10/2001;Parc de la Bretonnière, 85600 Boufféré/Montaigu-Vendée;cap €150.000;20-49 salariés;NAF 4651Z;**alias: MOXA FRANCE/MOXATECH/MOXANET**(pappers 件)=Moxa 工业网络谱
+  > 来源：https://www.pappers.fr/entreprise/sphinx-connect-france-439398462
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国工业/IIoT 分销（25 年）
-- **产品线与在售品牌**：Moxa 领衔多品牌
-- **目标行业与场景**：工业 OT/IIoT/公用与工厂
-- **团队与规模**：分销组织
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：IEC 62443/NIS2 敏感
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：OT 安全叙事活跃
-- **与我方契合点**：Moxa 旁二轨窄位（守界前句）
-- **风险与注意**：Moxa 主权强+品牌重名注
+- **业务定位**：SPHINX CONNECT FRANCE(法国 Boufféré/Montaigu-Vendée(旺代),Parc de la Bretonnière, 85600;**SIREN 439398462;TVA FR27439398462;2001-10-01 创 25 年;SARL→2015-11-24 转 SAS;cap €150k;20-49 人;€5.58M(2014)**;**Moxa 法国谱(别名录 MOXA FRANCE/MOXANET=工业网络强契!)+A2-LINE 谱**;**Président=SOENNO(SARL,RCS 518740634)代表 Hervé Mathé(创始人/实控受益人;Noellia Mathé Personnel Manager 族谱)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国旺代 25 年工业网络件分销屋(Moxa)
+- **团队与规模**：20-49 人;2001 创
+- **决策链与对接人**：**Hervé Mathé(Founder/实控受益人(SOENNO Président 代表;2015 SAS 转制件),official-self-published·谱/leads-only(直发需 opt-in));Noellia Mathé(Personnel Manager(族谱;D&B Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Hervé Mathé 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：客群
-- **W**：Moxa
-- **O**：替补
-- **T**：Moxa
+- **S**：Moxa 法国谱=工业件链
+- **W**：分销谱
+- **O**：Mathé 族直达位
+- **T**：Moxa 自家链谱
 
 ## 触达与风险红线
 
@@ -198,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 品牌权责
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour Sphinx Connect team,
+Monsieur Mathé,
 
-Twenty-five years in industrial and IoT connectivity - Moxa switching, Kerlink LoRaWAN, Lantronix consoles, OT cybersecurity. One sentence up front: your Moxa franchise is not our target.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial unmanaged PoE line. Reference: $180 USD EXW (2026-09-29) - a value substitute slot beside your specialist tier.
-
-One question: does Sphinx keep a substitute tier for industrial switching projects - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

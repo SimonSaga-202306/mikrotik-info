@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Stovaris Sp. z o.o.（华沙 VAD 分销，自90s）：伙伴墙=Toshiba/TrippLite/Vertiv/TEKTELIC/advantech/Sangfor/Veeam/Barracuda 等；医疗影像（Embitron)+DC+存储+无线+工业/IoT 板块
-- 【推断】分销商等宽通道守界前句+无线/工业两窄口——TEKTELIC/Advantech 处存在工业/IoT 接件口
-- 【假设】其二轨价值槽或工业 PoE 替补位窄口
+- 【事实】Stovaris Sp. z o.o:STOVARIS SP. Z O.O.(波兰 Warszawa,ul. Staniewicka 12, 03-310;**KRS 0000758346;NIP PL5242877169;REGON 381832975;cap 240k zł;2018-11-19 登**;**创始三董事均 ex-Alstor Sp.j. 合伙人/前 SDS 部总监=Alstor 系资深分销谱!**;DMS/安全/DC/存储/网络增值分销;**Prokura Katarzyna Kamień 在册**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official-store（R41–R48 联系方式台账口径）
 - **原始联系字段**：esklep@stovaris.pl（官方商城正文公开；非采购人；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Tomasz Paweł Szukała**(Członek Zarządu(2018 创始董事,股份 80/240))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/758346/stovaris〕
+  - **Jarosław Adam Kupiec**(Członek Zarządu(2018 创始董事,80/240))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/758346/stovaris〕
+  - **Marcin Cichecki**(Członek Zarządu(2018 创始董事;前 Alstor SDS 销售总监,80/240))— rejestr.io+b2b.stovaris.pl 双源 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/758346/stovaris〕
+  - **Katarzyna Kamień**(Prokura(总代理))— KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/758346/stovaris〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Tomasz Paweł Szukała | Członek Zarządu(2018 创始董事,股份 80/240) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/758346/stovaris |
+| Jarosław Adam Kupiec | Członek Zarządu(2018 创始董事,80/240) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/758346/stovaris |
+| Marcin Cichecki | Członek Zarządu(2018 创始董事;前 Alstor SDS 销售总监,80/240) | rejestr.io+b2b.stovaris.pl 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/758346/stovaris |
+| Katarzyna Kamień | Prokura(总代理) | KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/758346/stovaris |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：华沙 VAD（官网一手核）
-- **②芯片/型号**：多伙伴墙
-- **③KP 深挖**：esklep@→引见
-- **④Saga 对标**：二轨价值槽（$180 锚点一致）
-- **⑤在乎与偏好**：供货确定/伙伴生态
+- **①背景再核**：STOVARIS SP. Z O.O.(波兰 Warszawa,ul. Staniewicka 12, 03-310;**KRS 0000758346;NIP PL5242877169;REGON 381832975;cap 240k zł;2018-11-19 登**;**创始三董事均 ex-Alstor Sp.j. 合伙人/前 SDS 部总监=Alstor 系资深分销谱!**;DMS/安全/DC/存储/网络增值分销;**Prokura Katarzyna Kamień 在册**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Tomasz Paweł Szukała(Członek Zarządu(2018 创始董事,股份 80/240),official-self-published·谱/leads-only(直发需 opt-in));Jarosław Adam Kupiec(Członek Zarządu(2018 创始董事,80/240),official-self-published·谱/leads-only(直发需 opt-in));Marcin Cichecki(Członek Zarządu(2018 创始董事;前 Alstor SDS 销售总监,80/240),official-self-published·谱/leads-only(直发需 opt-in));Katarzyna Kamień(Prokura(总代理),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Alstor 系三驾=资深谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Partners: Toshiba, Tripp Lite, Vertiv, TEKTELIC, Advantech, Sangfor, Veeam, Barracuda——医影/DC/存储/无线/工业IoT
-  > Partners: Toshiba, Tripp Lite, Vertiv, TEKTELIC, Advantech, Sangfor, Veeam, Barracuda——医影/DC/存储/无线/工业IoT
-  > 来源：https://stovaris.pl
+- **【决策链与对接人】**Zarząd: Tomasz Paweł Szukała + Jarosław Adam Kupiec + Marcin Cichecki(od 19 listopada 2018;dotychczasowi Wspólnicy Alstor Sp.j. + dyrektor sprzedaży działu Alstor SDS);Prokura: Katarzyna Kamień(rejestr/b2b 件)
+  > Zarząd: Tomasz Paweł Szukała + Jarosław Adam Kupiec + Marcin Cichecki(od 19 listopada 2018;dotychczasowi Wspólnicy Alstor Sp.j. + dyrektor sprzedaży działu Alstor SDS);Prokura: Katarzyna Kamień(rejestr/b2b 件)
+  > 来源：https://rejestr.io/krs/758346/stovaris
+- **【联系方式与基础画像】**KRS 0000758346;NIP PL5242877169;REGON 381832975;Staniewicka 12, 03-310 Warszawa;kapitał 240.000 zł;rozwiązania DMS/bezpieczeństwo IT/infrastruktura i Data Center/pamięci masowe/sieci(b2b.stovaris.pl 自署)
+  > KRS 0000758346;NIP PL5242877169;REGON 381832975;Staniewicka 12, 03-310 Warszawa;kapitał 240.000 zł;rozwiązania DMS/bezpieczeństwo IT/infrastruktura i Data Center/pamięci masowe/sieci(b2b.stovaris.pl 自署)
+  > 来源：https://b2b.stovaris.pl/o-firmie,10
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：华沙 VAD（自90s）
-- **产品线与在售品牌**：多伙伴墙（东芝/Vertiv/Advantech 等）
-- **目标行业与场景**：医疗/DC/工业/无线
-- **团队与规模**：分销团队
-- **决策链与对接人**：esklep@→采购引见
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：—
-- **与我方契合点**：工业/IoT 窄口+二轨槽
-- **风险与注意**：SKU 主权强——守界前句
+- **业务定位**：STOVARIS SP. Z O.O.(波兰 Warszawa,ul. Staniewicka 12, 03-310;**KRS 0000758346;NIP PL5242877169;REGON 381832975;cap 240k zł;2018-11-19 登**;**创始三董事均 ex-Alstor Sp.j. 合伙人/前 SDS 部总监=Alstor 系资深分销谱!**;DMS/安全/DC/存储/网络增值分销;**Prokura Katarzyna Kamień 在册**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰华沙 Alstor 系资深分销屋
+- **团队与规模**：中型谱;2018 登
+- **决策链与对接人**：**Tomasz Paweł Szukała(Członek Zarządu(2018 创始董事,股份 80/240),official-self-published·谱/leads-only(直发需 opt-in));Jarosław Adam Kupiec(Członek Zarządu(2018 创始董事,80/240),official-self-published·谱/leads-only(直发需 opt-in));Marcin Cichecki(Członek Zarządu(2018 创始董事;前 Alstor SDS 销售总监,80/240),official-self-published·谱/leads-only(直发需 opt-in));Katarzyna Kamień(Prokura(总代理),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Szukała/Kupiec/Cichecki 董事位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：通道
-- **W**：线在墙
-- **O**：工业口
-- **T**：既有商
+- **S**：Alstor 系三驾=资深谱
+- **W**：中小实体谱
+- **O**：三董事等权+Kamień 总代直达位
+- **T**：分销链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二轨机制
-  - [ ] 采购口
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Stovaris team,
+Szanowni Państwo,
 
-Three decades as a value-added distributor - Toshiba, Vertiv, TEKTELIC, Advantech and more, from medical imaging to industrial IoT. One sentence up front: we are not asking you to replace any line on that wall.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). It is a value second-track: special-price slots, fast-delivery gaps, and industrial IoT projects where a documented alternative protects your margin.
-
-One question: does Stovaris run a value tier beside the main lines - and would a test listing of one unit be worth it?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Timeless Technology Oy（芬兰）：增值技术进口商——ICT+工业 IoT+测量技术；Perle（路由/交换/console)/Milesight LoRaWAN/Cailabs/ControlByWeb/Profitap/Tempmate/TITAN；产品用于 ICT/商业/工业
-- 【推断】技术进口商：Perle 交换线在墙——同 A-255 判（Perle 旁替补窄口）
-- 【假设】其 ICT/工业客户的 value 替补槽：Perle 之下不撞车
+- 【事实】Timeless Technology:Timeless Technology / Timeless Group Oy(芬兰 Pori,Keulantie 1 D 30, 28190;**Y-tunnus 3139264-1;FI31392641;史 2012,现体 2020-06-01(aputoiminimi=Timeless Technology+Mansimar);1-2 人(2024)**;**ICT/工业 IoT/测量技术增值进口分销;CEO Kari Ruhanen(官方 viralliset tiedot PDF 自署=O 金谱;Yrittäjä 谱);Profitap 网络可视线谱;Suomen Yrittäjät 会员**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@timeless.fi（官网正文公开）；原入口：+358 44 9988 238
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kari Ruhanen**(CEO/Yrittäjä(官方公司信息 PDF 自署+itewiki 双源))— timeless.fi 官方 PDF(O) 〔已有(公司官方公开件/登记册自曝);源:https://timeless.fi/wp-content/uploads/2023/12/Timeless-Technology-viralliset-tiedot-2023.pdf〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kari Ruhanen | CEO/Yrittäjä(官方公司信息 PDF 自署+itewiki 双源) | timeless.fi 官方 PDF(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://timeless.fi/wp-content/uploads/2023/12/Timeless-Technology-viralliset-tiedot-2023.pdf |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FI 技术进口商（官网一手核）
-- **②芯片/型号**：Perle 等墙
-- **③KP 深挖**：info@
-- **④Saga 对标**：替补窄口（$180 锚点一致）
-- **⑤在乎与偏好**：技术深度/合规
+- **①背景再核**：Timeless Technology / Timeless Group Oy(芬兰 Pori,Keulantie 1 D 30, 28190;**Y-tunnus 3139264-1;FI31392641;史 2012,现体 2020-06-01(aputoiminimi=Timeless Technology+Mansimar);1-2 人(2024)**;**ICT/工业 IoT/测量技术增值进口分销;CEO Kari Ruhanen(官方 viralliset tiedot PDF 自署=O 金谱;Yrittäjä 谱);Profitap 网络可视线谱;Suomen Yrittäjät 会员**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kari Ruhanen(CEO/Yrittäjä(官方公司信息 PDF 自署+itewiki 双源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CEO 官方 PDF 自署=O 金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Lisäarvoa tuottava tekninen maahantuoja: ICT, teollinen IoT, mittaustekniikka——Perle Systems reitittimet, kytkimet, konsolipalvelimet
-  > Lisäarvoa tuottava tekninen maahantuoja: ICT, teollinen IoT, mittaustekniikka——Perle Systems reitittimet, kytkimet, konsolipalvelimet
-  > 来源：https://timeless.fi
+- **【决策链与对接人】****CEO: Kari Ruhanen**(Timeless-Technology-viralliset-tiedot-2023.pdf 官方自署);itewiki 谱: Kari Ruhanen CEO Yrittäjä(双源一致)
+  > **CEO: Kari Ruhanen**(Timeless-Technology-viralliset-tiedot-2023.pdf 官方自署);itewiki 谱: Kari Ruhanen CEO Yrittäjä(双源一致)
+  > 来源：https://timeless.fi/wp-content/uploads/2023/12/Timeless-Technology-viralliset-tiedot-2023.pdf
+- **【联系方式与基础画像】**Timeless Group Oy;aputoiminimet: Timeless Technology + Mansimar;Keulantie 1 D 30, 28190 Pori;Y-tunnus 3139264-1;+358 44 9988238;info@timeless.fi;tilikaudella 05/2024: 1 työntekijä=小微谱注;ICT/teollinen IoT/mittaustekniikka maahantuoja(timeless.fi/finder.fi/fonecta 件)
+  > Timeless Group Oy;aputoiminimet: Timeless Technology + Mansimar;Keulantie 1 D 30, 28190 Pori;Y-tunnus 3139264-1;+358 44 9988238;info@timeless.fi;tilikaudella 05/2024: 1 työntekijä=小微谱注;ICT/teollinen IoT/mittaustekniikka maahantuoja(timeless.fi/finder.fi/fonecta 件)
+  > 来源：https://timeless.fi/yritys/
+- **【近期动态与线索】**Profitap verkkoVisibility 谱;Suomen Yrittäjät jäsenyys;perustettu 2012(itewiki 历史)→2020-06-01 现体(finder.fi 件)
+  > Profitap verkkoVisibility 谱;Suomen Yrittäjät jäsenyys;perustettu 2012(itewiki 历史)→2020-06-01 现体(finder.fi 件)
+  > 来源：https://www.itewiki.fi/timeless-technology
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：芬兰增值技术进口商
-- **产品线与在售品牌**：Perle/Milesight 等
-- **目标行业与场景**：ICT/商业/工业客户
-- **团队与规模**：进口商团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：EN 12830 类合规敏感
-- **采购与供应链信号**：进口分销
-- **近期动态与线索**：PerleCLOUD/IRG7000 新品叙事
-- **与我方契合点**：Perle 旁替补窄口（前句框定）
-- **风险与注意**：Perle 引力——前句框定
+- **业务定位**：Timeless Technology / Timeless Group Oy(芬兰 Pori,Keulantie 1 D 30, 28190;**Y-tunnus 3139264-1;FI31392641;史 2012,现体 2020-06-01(aputoiminimi=Timeless Technology+Mansimar);1-2 人(2024)**;**ICT/工业 IoT/测量技术增值进口分销;CEO Kari Ruhanen(官方 viralliset tiedot PDF 自署=O 金谱;Yrittäjä 谱);Profitap 网络可视线谱;Suomen Yrittäjät 会员**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：芬兰 Pori 1-2 人 ICT/IoT 进口商
+- **团队与规模**：1-2 人;谱史 2012
+- **决策链与对接人**：**Kari Ruhanen(CEO/Yrittäjä(官方公司信息 PDF 自署+itewiki 双源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kari Ruhanen 单铺直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：Perle
-- **O**：替补
-- **T**：Perle
+- **S**：CEO 官方 PDF 自署=O 金谱
+- **W**：微实体谱
+- **O**：Ruhanen 唯一直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -201,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -210,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 排他约束
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,16 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Timeless Technology team,
+Dear Mr. Ruhanen,
 
-A value-adding technical importer - Perle routers, switches and consoles, Milesight LoRaWAN, Cailabs, Profitap. One sentence up front: we are not asking to displace Perle anywhere it already wins.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute for ICT and industrial projects where the specialist tier is overspecified.
-
-One question: do your ICT/industrial customers have a value substitute slot - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

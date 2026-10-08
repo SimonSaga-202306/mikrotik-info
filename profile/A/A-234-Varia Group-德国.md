@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】VARIA System GmbH（德国开姆尼茨，25年）：Distribution+E-Commerce+Fulfillment——为制造商/品牌做分销与市场直达（Amazon/eBay/Galaxus/Conrad/MediaMarkt），White Label 中性发货
-- 【推断】制造商侧分销服务商=渠道合作型对象：等于问'愿不愿意把 Saga 线带进你仓'
-- 【假设】其仓配+多 marketplace 上架机器，缺的是一条高周转网络件价值线
+- 【事实】Varia Group:VARIA Group / VARIA System GmbH(德国 Chemnitz,Dr.-Salvador-Allende-Str. 191, 09119;**2000-01-01 创 26 年;GmbH**;**网络技术/嵌入式/电信分销+自产牌「VARIA Group」+varia-academy 培训谱**;**GF 双创: Sven Huth+Sven Grimpe(2019 Scalcom 件 Grimpe 引语=60/80GHz SIKLU 分销签约语)**;**异体排噪:Varia Group AG(Baar ZUG,瑞士,Lukas Thoma)=已分层**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@varia.org（官网正文公开；未验证投递）；原入口：+49-371-400-7682
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Sven Grimpe**(Geschäftsführer(联创;2019 SIKLU 分件官方引语))— scalcom.de 新闻件(引语) 〔已有(公司官方公开件/登记册自曝);源:https://www.scalcom.de/blog/post/varia-group-siklu-richtfunk/〕
+  - **Sven Huth**(Geschäftsführer(联创双驾))— wikipedia 草稿谱/官网件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.varia.org/en/portfolio/varia/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sven Grimpe | Geschäftsführer(联创;2019 SIKLU 分件官方引语) | scalcom.de 新闻件(引语) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.scalcom.de/blog/post/varia-group-siklu-richtfunk/ |
+| Sven Huth | Geschäftsführer(联创双驾) | wikipedia 草稿谱/官网件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.varia.org/en/portfolio/varia/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -140,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第24批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 分销履约商（官网一手核）
-- **②芯片/型号**：服务商非品牌
-- **③KP 深挖**：info@
-- **④Saga 对标**：入册分销（$180 锚点一致）
-- **⑤在乎与偏好**：周转/接口/白标
+- **①背景再核**：VARIA Group / VARIA System GmbH(德国 Chemnitz,Dr.-Salvador-Allende-Str. 191, 09119;**2000-01-01 创 26 年;GmbH**;**网络技术/嵌入式/电信分销+自产牌「VARIA Group」+varia-academy 培训谱**;**GF 双创: Sven Huth+Sven Grimpe(2019 Scalcom 件 Grimpe 引语=60/80GHz SIKLU 分销签约语)**;**异体排噪:Varia Group AG(Baar ZUG,瑞士,Lukas Thoma)=已分层**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Sven Grimpe(Geschäftsführer(联创;2019 SIKLU 分件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Sven Huth(Geschäftsführer(联创双驾),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：SIKLU 60/80GHz 谱=毫米波件链
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**VARIA übernimmt die Distribution für Hersteller und Marken…Direktvermarktung B2B & B2C über Amazon, eBay, Galaxus, Conrad, MediaMarkt；White Label
-  > VARIA übernimmt die Distribution für Hersteller und Marken…Direktvermarktung B2B & B2C über Amazon, eBay, Galaxus, Conrad, MediaMarkt；White Label
-  > 来源：https://www.varia.org
+- **【决策链与对接人】**Leitung: Sven Huth, Sven Grimpe(VARIA System GmbH, Chemnitz);「Mit Siklu haben wir diesen gefunden… so Sven Grimpe, Geschäftsführer Varia Group」(SCALCOM 2019 分件引语)
+  > Leitung: Sven Huth, Sven Grimpe(VARIA System GmbH, Chemnitz);「Mit Siklu haben wir diesen gefunden… so Sven Grimpe, Geschäftsführer Varia Group」(SCALCOM 2019 分件引语)
+  > 来源：https://www.scalcom.de/blog/post/varia-group-siklu-richtfunk/
+- **【联系方式与基础画像】**VARIA System GmbH, Dr.-Salvador-Allende-Str. 191, 09119 Chemnitz;gegründet 01.01.2000;Distribution: Embedded/Netzwerk/Wireless/GPS/IoT/Videoüberwachung/Smart Home/LWL;varia.org/varia-store.com/varia-academy.de;**异体 Varia Group AG Baar(Thoma)已分层**(varia.org/wiki 草稿件)
+  > VARIA System GmbH, Dr.-Salvador-Allende-Str. 191, 09119 Chemnitz;gegründet 01.01.2000;Distribution: Embedded/Netzwerk/Wireless/GPS/IoT/Videoüberwachung/Smart Home/LWL;varia.org/varia-store.com/varia-academy.de;**异体 Varia Group AG Baar(Thoma)已分层**(varia.org/wiki 草稿件)
+  > 来源：https://www.varia.org/en/portfolio/varia/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国分销履约服务商（2000）
-- **产品线与在售品牌**：为品牌商分销（无自有 IT 品牌墙）
-- **目标行业与场景**：品牌商/电商/B2B-B2C 直达
-- **团队与规模**：中型仓储团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：系统接口集成
-- **采购与供应链信号**：入册/上架类合作
-- **近期动态与线索**：白标中性发货叙事
-- **与我方契合点**：入册分销合作（非普通销售）
-- **风险与注意**：服务条款型对象——沟通=入册逻辑
+- **业务定位**：VARIA Group / VARIA System GmbH(德国 Chemnitz,Dr.-Salvador-Allende-Str. 191, 09119;**2000-01-01 创 26 年;GmbH**;**网络技术/嵌入式/电信分销+自产牌「VARIA Group」+varia-academy 培训谱**;**GF 双创: Sven Huth+Sven Grimpe(2019 Scalcom 件 Grimpe 引语=60/80GHz SIKLU 分销签约语)**;**异体排噪:Varia Group AG(Baar ZUG,瑞士,Lukas Thoma)=已分层**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国萨克森 26 年无线/嵌入式分销屋
+- **团队与规模**：中型谱;2000 创
+- **决策链与对接人**：**Sven Grimpe(Geschäftsführer(联创;2019 SIKLU 分件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Sven Huth(Geschäftsführer(联创双驾),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Sven Grimpe 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -180,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：上架机器
-- **W**：非自营
-- **O**：新线
-- **T**：平台
+- **S**：SIKLU 60/80GHz 谱=毫米波件链
+- **W**：分销谱
+- **O**：Grimpe 引语直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -202,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -211,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 品类策略
-  - [ ] 最低价条款
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,16 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi VARIA team,
+Guten Tag Herr Grimpe,
 
-You run distribution, fulfillment and marketplace go-to-market for manufacturers - Amazon, eBay, Galaxus, Conrad, MediaMarkt, white-label neutral shipping. That machinery is exactly what a hardware maker looks for.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). A high-turnover value networking line, ready for listing, with stable replenishment behind it.
-
-One question: do you take on new manufacturers in IT/networking categories - and what would onboarding of a PoE switch line look like on your side?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

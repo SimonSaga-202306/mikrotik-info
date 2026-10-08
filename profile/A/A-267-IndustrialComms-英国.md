@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IndustrialComms（英国 & 爱尔兰工业网络专店，Shopify）：伙伴墙=Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS；工业以太网/HMI/光纤/OT 安全；行业=水/电/交通/工厂自动化/仓储物流/油气/海事；CSV=EtherWAN 档
-- 【推断】工业网络专店：Hirschmann/Ruggedcom 高端在墙——value 替补窄位死守界前句；公用事业段守界标注一句话
-- 【假设】私营工业段的替补槽（工厂自自动化/仓储物流/海事）
+- 【事实】IndustrialComms:IndustrialComms / Industrial Communication Products Ltd(英国 Toddington(Bedfordshire);**2008 创 18 年;2-10 人;工业级通信件 B2B 专营(UK&Eire 工业/公用事业)**;**CEO Graham Bull(Advantech 2021 XII 分件官方引语=O)**;品牌谱 **Hirschmann/RuggedCom/Advantech/Siemens Scalance/ATOP(IEC 61850 变电站+EN50155 轨交谱)**;SHDSL/VDSL/以太延长谱;水电交通=公用守界注
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@industrialcomms.com（官网联系页正文）；原入口：官网+LinkedIn
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Graham Bull**(CEO(Advantech 2021 分件官方引语))— designsolutionsmag.co.uk 件(引语) 〔已有(公司官方公开件/登记册自曝);源:https://designsolutionsmag.co.uk/advantech-chooses-industrialcomms-as-uk-distributor/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Graham Bull | CEO(Advantech 2021 分件官方引语) | designsolutionsmag.co.uk 件(引语) | official-self-published·谱/leads-only(直发需 opt-in) | https://designsolutionsmag.co.uk/advantech-chooses-industrialcomms-as-uk-distributor/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK 工业网络专店（官网一手核）
-- **②芯片/型号**：Belden/Hirschmann/Ruggedcom
-- **③KP 深挖**：sales@
-- **④Saga 对标**：替补窄位（$180 锚点一致）
-- **⑤在乎与偏好**：深度选型/行业页
+- **①背景再核**：IndustrialComms / Industrial Communication Products Ltd(英国 Toddington(Bedfordshire);**2008 创 18 年;2-10 人;工业级通信件 B2B 专营(UK&Eire 工业/公用事业)**;**CEO Graham Bull(Advantech 2021 XII 分件官方引语=O)**;品牌谱 **Hirschmann/RuggedCom/Advantech/Siemens Scalance/ATOP(IEC 61850 变电站+EN50155 轨交谱)**;SHDSL/VDSL/以太延长谱;水电交通=公用守界注
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Graham Bull(CEO(Advantech 2021 分件官方引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：变电站/轨交认证件谱=OT 强契
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Your Trusted UK & Ireland Partner for Industrial Networking Solutions——partners: Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS
-  > Your Trusted UK & Ireland Partner for Industrial Networking Solutions——partners: Belden/Hirschmann/Siemens Ruggedcom/Beijer/EKS
-  > 来源：https://www.industrialcomms.com
+- **【决策链与对接人】**「IndustrialComms CEO, Graham Bull, said: IndustrialComms is pleased to have access to the comprehensive range of Advantech industrial communication products」(Advantech 2021 分约件引语)
+  > 「IndustrialComms CEO, Graham Bull, said: IndustrialComms is pleased to have access to the comprehensive range of Advantech industrial communication products」(Advantech 2021 分约件引语)
+  > 来源：https://designsolutionsmag.co.uk/advantech-chooses-industrialcomms-as-uk-distributor/
+- **【联系方式与基础画像】**Toddington, Beds;founded 2008;2-10 employees;020 3086 9569;**specialist distributor: Hirschmann/RuggedCom/Advantech/Siemens Scalance/ATOP(IEC 61850-3 substation+EN 50155 rail)**;UKs leading b2b supplier of Industrial Grade Communication Products(linkedin/facebook 件)
+  > Toddington, Beds;founded 2008;2-10 employees;020 3086 9569;**specialist distributor: Hirschmann/RuggedCom/Advantech/Siemens Scalance/ATOP(IEC 61850-3 substation+EN 50155 rail)**;UKs leading b2b supplier of Industrial Grade Communication Products(linkedin/facebook 件)
+  > 来源：https://uk.linkedin.com/company/industrial-communication-products-ltd
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国工业网络专店
-- **产品线与在售品牌**：Belden/Hirschmann/Ruggedcom
-- **目标行业与场景**：工厂自动化/仓储/海事（水电气交=守界注）
-- **团队与规模**：专店团队
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：行业项目随单
-- **近期动态与线索**：新伙伴持续加入
-- **与我方契合点**：私营工业段替补窄位（守界前句+公用事业段守界标注）
-- **风险与注意**：高端在墙/公用段敏感
+- **业务定位**：IndustrialComms / Industrial Communication Products Ltd(英国 Toddington(Bedfordshire);**2008 创 18 年;2-10 人;工业级通信件 B2B 专营(UK&Eire 工业/公用事业)**;**CEO Graham Bull(Advantech 2021 XII 分件官方引语=O)**;品牌谱 **Hirschmann/RuggedCom/Advantech/Siemens Scalance/ATOP(IEC 61850 变电站+EN50155 轨交谱)**;SHDSL/VDSL/以太延长谱;水电交通=公用守界注
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国贝德福德 18 年工业通信件专营分销
+- **团队与规模**：2-10 人;2008 创
+- **决策链与对接人**：**Graham Bull(CEO(Advantech 2021 分件官方引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Graham Bull 直达(opt-in 律;水电公用守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：在墙
-- **O**：替补
-- **T**：大牌
+- **S**：变电站/轨交认证件谱=OT 强契
+- **W**：专营分销谱
+- **O**：Bull CEO 直达位
+- **T**：一线牌链竞谱
 
 ## 触达与风险红线
 
@@ -198,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 公用段占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi IndustrialComms team,
+Dear Graham,
 
-Specialist industrial networking for the UK and Ireland - Belden, Hirschmann, Siemens Ruggedcom, Beijer, EKS. One sentence up front: those flagship lines are not our target. A second: anything regulated-utility on your customer list stays with your certified incumbent lines; we ask only about the private industrial side.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute for factory automation, warehouse logistics and marine projects where the flagship tier overshoots the budget.
-
-One question: does a value substitute slot exist on your industrial bench?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

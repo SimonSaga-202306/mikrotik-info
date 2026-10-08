@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Cogent Distribution（英国）：无线+连接件 VAD——固定无线（RADWIN 图）/路由网关（Teltonika）/**Switches 类目（Teltonika TSW 图）**/天线/光谱仪/5G-LTE/设备服务器/媒体转换等；VAR-集成商+行业+消费者三通道；CSV=Perle 授权
-- 【推断】VAD 有明设 Switches 类目——Teltonika TSW 级之上存在 value 替补窄口（分销守界前句）
-- 【假设】其转售管线的 value PoE 接入二轨
+- 【事实】Cogent Distribution:Cogent Distribution Ltd(英国 Newbury(Berkshire),Technology House, Kennetside, Bone Lane, RG14 5PX;**2015 创 11 年;无线/网络增值分销 UK&I+欧陆+非洲中东;品牌谱 RADWIN/SAF Tehnika/Teltonika/Peplink/RF elements/Perle/Siklu Ceragon/Nextivity/Kymata/CableFree**;**MD Jim Kernahan(官网 about+Business Voice Q&A+海事新闻件三 O 引语)+Solutions Manager Mark Turvey(solutions@=O)+Marketing Manager Louisa Mamakou+Sales Director Anita Mistry(CableFree 件引语);2022-11 RADWIN 分约;2025 海事连通线+UK Ports 会员谱**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,20 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：enquiries@cogentdistribution.com（官网联系页正文）；原入口：见 Perle 名录（distributor=656）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jim Kernahan**(Managing Director(官网+媒体三件引语=O))— cogentdistribution.com about 页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.cogentdistribution.com/about/〕
+  - **Mark Turvey**(Solutions Manager(solutions@cogentdistribution.com))— 官网新闻件署名(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.cogentdistribution.com/latest-news/cogent-distribution-launches-maritime-connectivity-solutions/〕
+  - **Louisa Mamakou**(Marketing Manager(louisa.mamakou@=O))— 官网新闻件署名(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.cogentdistribution.com/latest-news/cogent-distribution-launches-maritime-connectivity-solutions/〕
+  - **Anita Mistry**(Sales Director(CableFree 伙件引语))— cbinsights 件(引语) 〔已有(公司官方公开件/登记册自曝);源:https://www.cbinsights.com/company/cogent-distribution〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jim Kernahan | Managing Director(官网+媒体三件引语=O) | cogentdistribution.com about 页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.cogentdistribution.com/about/ |
+| Mark Turvey | Solutions Manager(solutions@cogentdistribution.com) | 官网新闻件署名(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.cogentdistribution.com/latest-news/cogent-distribution-launches-maritime-connectivity-solutions/ |
+| Louisa Mamakou | Marketing Manager(louisa.mamakou@=O) | 官网新闻件署名(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.cogentdistribution.com/latest-news/cogent-distribution-launches-maritime-connectivity-solutions/ |
+| Anita Mistry | Sales Director(CableFree 伙件引语) | cbinsights 件(引语) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.cbinsights.com/company/cogent-distribution |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK 无线连接 VAD（官网一手核）
-- **②芯片/型号**：Teltonika/Perle 等墙
-- **③KP 深挖**：enquiries
-- **④Saga 对标**：二轨窄口（$180 锚点一致）
-- **⑤在乎与偏好**：best-of-breed 组合/又快又好供货
+- **①背景再核**：Cogent Distribution Ltd(英国 Newbury(Berkshire),Technology House, Kennetside, Bone Lane, RG14 5PX;**2015 创 11 年;无线/网络增值分销 UK&I+欧陆+非洲中东;品牌谱 RADWIN/SAF Tehnika/Teltonika/Peplink/RF elements/Perle/Siklu Ceragon/Nextivity/Kymata/CableFree**;**MD Jim Kernahan(官网 about+Business Voice Q&A+海事新闻件三 O 引语)+Solutions Manager Mark Turvey(solutions@=O)+Marketing Manager Louisa Mamakou+Sales Director Anita Mistry(CableFree 件引语);2022-11 RADWIN 分约;2025 海事连通线+UK Ports 会员谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jim Kernahan(Managing Director(官网+媒体三件引语=O),official-self-published·谱/leads-only(直发需 opt-in));Mark Turvey(Solutions Manager(solutions@cogentdistribution.com),official-self-published·谱/leads-only(直发需 opt-in));Louisa Mamakou(Marketing Manager(louisa.mamakou@=O),official-self-published·谱/leads-only(直发需 opt-in));Anita Mistry(Sales Director(CableFree 伙件引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：全品牌谱=件链大户;海事 2025 窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**value-added distributor stocking wireless and connectivity…products: Fixed wireless/Routers/Switches/Antennas——VARs & Integrators 通道
-  > value-added distributor stocking wireless and connectivity…products: Fixed wireless/Routers/Switches/Antennas——VARs & Integrators 通道
-  > 来源：https://www.cogentdistribution.com
+- **【决策链与对接人】**MD: Jim Kernahan(官网 about 自署;Business Voice Q&A 2025-03;海事 launch 件 2025-04:「Our team has extensive experience working with the maritime…」);Contacts: Mark Turvey Solutions Manager + Louisa Mamakou Marketing;Sales Director Anita Mistry(CableFree 伙件)
+  > MD: Jim Kernahan(官网 about 自署;Business Voice Q&A 2025-03;海事 launch 件 2025-04:「Our team has extensive experience working with the maritime…」);Contacts: Mark Turvey Solutions Manager + Louisa Mamakou Marketing;Sales Director Anita Mistry(CableFree 伙件)
+  > 来源：https://www.cogentdistribution.com/about/
+- **【联系方式与基础画像】**Technology House, Kennetside, Bone Lane, Newbury RG14 5PX;+44 1635 917 722;enquiries@cogentdistribution.com;founded 2015;VAD: RADWIN/SAF Tehnika/Teltonika/Peplink/RF elements/Perle/Siklu/Nextivity/Kymata/CableFree;UK Ports member 2025(官网/X 件)
+  > Technology House, Kennetside, Bone Lane, Newbury RG14 5PX;+44 1635 917 722;enquiries@cogentdistribution.com;founded 2015;VAD: RADWIN/SAF Tehnika/Teltonika/Peplink/RF elements/Perle/Siklu/Nextivity/Kymata/CableFree;UK Ports member 2025(官网/X 件)
+  > 来源：https://www.cogentdistribution.com/about/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国无线连接 VAD
-- **产品线与在售品牌**：RADWIN/Teltonika/Peplink/Perle…
-- **目标行业与场景**：VAR/集成商+行业垂直
-- **团队与规模**：分销团队
-- **决策链与对接人**：enquiries 口
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：行业垂直页在扩
-- **与我方契合点**：Switches 类目内二轨窄口（守界前句）
-- **风险与注意**：SKU 主权强——前句框定
+- **业务定位**：Cogent Distribution Ltd(英国 Newbury(Berkshire),Technology House, Kennetside, Bone Lane, RG14 5PX;**2015 创 11 年;无线/网络增值分销 UK&I+欧陆+非洲中东;品牌谱 RADWIN/SAF Tehnika/Teltonika/Peplink/RF elements/Perle/Siklu Ceragon/Nextivity/Kymata/CableFree**;**MD Jim Kernahan(官网 about+Business Voice Q&A+海事新闻件三 O 引语)+Solutions Manager Mark Turvey(solutions@=O)+Marketing Manager Louisa Mamakou+Sales Director Anita Mistry(CableFree 件引语);2022-11 RADWIN 分约;2025 海事连通线+UK Ports 会员谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英国伯克希尔无线增值分销屋(海事谱)
+- **团队与规模**：中型谱;2015 创
+- **决策链与对接人**：**Jim Kernahan(Managing Director(官网+媒体三件引语=O),official-self-published·谱/leads-only(直发需 opt-in));Mark Turvey(Solutions Manager(solutions@cogentdistribution.com),official-self-published·谱/leads-only(直发需 opt-in));Louisa Mamakou(Marketing Manager(louisa.mamakou@=O),official-self-published·谱/leads-only(直发需 opt-in));Anita Mistry(Sales Director(CableFree 伙件引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Jim Kernahan+Mark Turvey 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：主权
-- **O**：二轨
-- **T**：墙
+- **S**：全品牌谱=件链大户;海事 2025 窗
+- **W**：分销谱
+- **O**：Kernahan MD+Turvey 方案位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,8 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 类目负责人
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,16 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Cogent Distribution team,
+Dear Jim,
 
-A growing VAD for wireless broadband and connectivity - RADWIN links, Teltonika gateways and switches, Peplink, device servers, media converters - with a real Switches category on the shelf. One sentence up front: we are not asking to displace any line you stock.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier your resellers can carry beside the current switching offers.
-
-One question: is there room for a value PoE tier in your Switches category - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

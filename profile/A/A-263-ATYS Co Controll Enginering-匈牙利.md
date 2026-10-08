@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ATYS-CO Kft（匈牙利，近三十年工业自动化集团）：过程控制/自动化系统设计+施工+全生命周期运维；贸易部 20 年主打工业电源销售；2009 加可再生能源部；CSV=Westermo Reseller
-- 【推断】自动化承包+贸易双主业：项目里的工业网络件随单真实存在（Westermo 在墙），贸易部自带分销能力
-- 【假设】自动化项目 PoE 接入随单（Westermo 旁 value 替补）+贸易部上架双角
+- 【事实】ATYS Co Controll Enginering:ATYS-CO Kft.(匈牙利 Budapest,Fertő u. 14, 1107(+Algyő JURA 工业园谱);**Adószám 12060991-2-42;Cégjegyzékszám 01-09-462105;1995/1997 创 30+ 年;工业设备安装/控制工程(irányítástechnika);nettó árbevétel 6,36 Md Ft(2025)=~€16M 中大型谱;电气工程师/程序员实习谱**;**ügyvezető 双:Jász Ottó(印谱 ifj.jasz.otto@atysco.hu=O 直邮!)+Szedlák-Jász Ágnes(夫妇/家族谱);Csapkovics Roxána HR 联络具名**
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,20 @@ updated: 2026-09-28
 - 来源等级：official-obfuscated-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@atysco.hu（官网正文公开；官方页另有可逆(at)/(dot)写法）；原入口：+36 1 263 2561
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jász Ottó**(Ügyvezető igazgató(印谱自署邮箱=O 级直邮))— atysco.hu impresszum+nemzeticegtar 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.atysco.hu/hu/karrier/aktualis-poziciok〕
+  - **Szedlák-Jász Ágnes**(Ügyvezető(业主;家族谱))— nemzeticegtar.hu 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.nemzeticegtar.hu/atys-co-kft-e10290068.html〕
+  - **Csapkovics Roxána**(联络具名(科教实习口;csapkovics.roxana@atysco.hu))— u-szeged 实习目录件 〔已有(公司官方公开件/登记册自曝);源:https://home.inf.u-szeged.hu/hallgatoknak/szakmai-gyakorlat/cegek/atys-co-kft〕
+  - **Ágh Zsolt / Bódis István / Világos Csaba**(管理层员工谱(登记谱))— nemzeticegtar.hu 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.nemzeticegtar.hu/atys-co-kft-e10290068.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jász Ottó | Ügyvezető igazgató(印谱自署邮箱=O 级直邮) | atysco.hu impresszum+nemzeticegtar 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.atysco.hu/hu/karrier/aktualis-poziciok |
+| Szedlák-Jász Ágnes | Ügyvezető(业主;家族谱) | nemzeticegtar.hu 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.nemzeticegtar.hu/atys-co-kft-e10290068.html |
+| Csapkovics Roxána | 联络具名(科教实习口;csapkovics.roxana@atysco.hu) | u-szeged 实习目录件 | official-self-published·谱/leads-only(直发需 opt-in) | https://home.inf.u-szeged.hu/hallgatoknak/szakmai-gyakorlat/cegek/atys-co-kft |
+| Ágh Zsolt / Bódis István / Világos Csaba | 管理层员工谱(登记谱) | nemzeticegtar.hu 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.nemzeticegtar.hu/atys-co-kft-e10290068.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第27批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：HU 自动化集团（官网一手核）
-- **②芯片/型号**：Westermo 线
-- **③KP 深挖**：sales@
-- **④Saga 对标**：随单+贸易双角（$180 锚点一致）
-- **⑤在乎与偏好**：全生命周期/本土承包
+- **①背景再核**：ATYS-CO Kft.(匈牙利 Budapest,Fertő u. 14, 1107(+Algyő JURA 工业园谱);**Adószám 12060991-2-42;Cégjegyzékszám 01-09-462105;1995/1997 创 30+ 年;工业设备安装/控制工程(irányítástechnika);nettó árbevétel 6,36 Md Ft(2025)=~€16M 中大型谱;电气工程师/程序员实习谱**;**ügyvezető 双:Jász Ottó(印谱 ifj.jasz.otto@atysco.hu=O 直邮!)+Szedlák-Jász Ágnes(夫妇/家族谱);Csapkovics Roxána HR 联络具名**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jász Ottó(Ügyvezető igazgató(印谱自署邮箱=O 级直邮),official-self-published·谱/leads-only(直发需 opt-in));Szedlák-Jász Ágnes(Ügyvezető(业主;家族谱),official-self-published·谱/leads-only(直发需 opt-in));Csapkovics Roxána(联络具名(科教实习口;csapkovics.roxana@atysco.hu),official-self-published·谱/leads-only(直发需 opt-in));Ágh Zsolt / Bódis István / Világos Csaba(管理层员工谱(登记谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：€16M 工业安装=件链大户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**irányítástechnika——jelentős kivitelezői kapacitás;kereskedelem gerincét az ipari tápegységek forgalmazása（20 年）
-  > irányítástechnika——jelentős kivitelezői kapacitás;kereskedelem gerincét az ipari tápegységek forgalmazása（20 年）
-  > 来源：https://www.atysco.hu
+- **【决策链与对接人】**Ügyvezető: Jász Ottó + Szedlák-Jász Ágnes;员工谱: Ágh Zsolt/Bódis István/Világos Csaba;Impresszum: Ügyvezető Igazgató Jász Ottó, ifj.jasz.otto@atysco.hu(nemzeticegtar/atysco.hu 件)
+  > Ügyvezető: Jász Ottó + Szedlák-Jász Ágnes;员工谱: Ágh Zsolt/Bódis István/Világos Csaba;Impresszum: Ügyvezető Igazgató Jász Ottó, ifj.jasz.otto@atysco.hu(nemzeticegtar/atysco.hu 件)
+  > 来源：https://www.nemzeticegtar.hu/atys-co-kft-e10290068.html
+- **【联系方式与基础画像】**1107 Budapest Fertő u. 14;Adószám 12060991-2-42;alapítás 1995;**nettó árbevétel 6 365 412 ezer Ft(2025)**;3320 ipari gép üzembe helyezése;telephely: Algyő JURA Ipari Park;30+ 年(opten/companywall 件)
+  > 1107 Budapest Fertő u. 14;Adószám 12060991-2-42;alapítás 1995;**nettó árbevétel 6 365 412 ezer Ft(2025)**;3320 ipari gép üzembe helyezése;telephely: Algyő JURA Ipari Park;30+ 年(opten/companywall 件)
+  > 来源：https://webshop.opten.hu/atys-co-kft-e10290068.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：匈牙利自动化集团（近 30 年）
-- **产品线与在售品牌**：Westermo+工业电源
-- **目标行业与场景**：过程工业/制造厂
-- **团队与规模**：承包集团规模
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：承包随单+贸易上架
-- **近期动态与线索**：机器人/自动化扩张叙事
-- **与我方契合点**：项目随单+贸易双通道（Westermo 旁守界前句）
-- **风险与注意**：Westermo 主权——前句框定
+- **业务定位**：ATYS-CO Kft.(匈牙利 Budapest,Fertő u. 14, 1107(+Algyő JURA 工业园谱);**Adószám 12060991-2-42;Cégjegyzékszám 01-09-462105;1995/1997 创 30+ 年;工业设备安装/控制工程(irányítástechnika);nettó árbevétel 6,36 Md Ft(2025)=~€16M 中大型谱;电气工程师/程序员实习谱**;**ügyvezető 双:Jász Ottó(印谱 ifj.jasz.otto@atysco.hu=O 直邮!)+Szedlák-Jász Ágnes(夫妇/家族谱);Csapkovics Roxána HR 联络具名**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：匈布达佩斯 30 年工业控制工程屋(€16M)
+- **团队与规模**：中大型谱;1995 创
+- **决策链与对接人**：**Jász Ottó(Ügyvezető igazgató(印谱自署邮箱=O 级直邮),official-self-published·谱/leads-only(直发需 opt-in));Szedlák-Jász Ágnes(Ügyvezető(业主;家族谱),official-self-published·谱/leads-only(直发需 opt-in));Csapkovics Roxána(联络具名(科教实习口;csapkovics.roxana@atysco.hu),official-self-published·谱/leads-only(直发需 opt-in));Ágh Zsolt / Bódis István / Világos Csaba(管理层员工谱(登记谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Jász Ottó 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双通道
-- **W**：Westermo
-- **O**：替补
-- **T**：大牌
+- **S**：€16M 工业安装=件链大户
+- **W**：工业工程谱
+- **O**：Jász Ottó 独任印谱直邮位
+- **T**：工业链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,8 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 贸易部负责人
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,16 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hello ATYS-CO team,
+Tisztelt Jász Úr!
 
-Nearly three decades in process control and industrial automation - engineering, implementation, lifecycle maintenance - plus a trading arm built on industrial power supplies for twenty years. One sentence up front: where you run Westermo today, we are not asking to displace it.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value substitute that can serve both your project sites and your trading shelf.
-
-One question: does ATYS-CO keep a value tier for industrial switching - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

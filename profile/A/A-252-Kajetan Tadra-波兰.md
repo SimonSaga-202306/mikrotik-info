@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CS Edu Idet（热舒夫，第二行=biuro@csidet.edu.pl）：与 A-243 同一培训主体——Tadeusz Ruchlewicz/Kajetan Tadra 双讲师 MikroTik 全证
-- 【推断】同主体双行：机构箱与 Tadeusz 个人箱并行；判 CONSULT-OEM 同轨（避免重复出信撞车——本行走后发/机构角）
-- 【假设】同 A-243：MTCSWE 课程对照单元窄口
+- 【事实】Kajetan Tadra:Kajetan Tadra(波兰／Rzeszów;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://csidet.edu.pl;csidet.edu.pl=热舒夫培训机构;**A-243 Tadeusz Ruchlewicz 同主体双行注记(错峰发)**)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-09-28
 - 来源等级：public-register-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：biuro@csidet.edu.pl（公共服务商登记机构邮箱；非个人直邮）；原入口：+48 724 173 364
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kajetan Tadra**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://csidet.edu.pl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kajetan Tadra | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://csidet.edu.pl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第26批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PL 同主体机构行（官网一手核）
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：biuro@（Kajetan）
-- **④Saga 对标**：课程对照（$180 锚点一致，教具角）——错峰执行
-- **⑤在乎与偏好**：证书完整/资助流量
+- **①背景再核**：Kajetan Tadra(波兰／Rzeszów;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://csidet.edu.pl;csidet.edu.pl=热舒夫培训机构;**A-243 Tadeusz Ruchlewicz 同主体双行注记(错峰发)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kajetan Tadra(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Kajetan Tadra, Certyfikowany Trener MikroTik——MTCNA…MTCEWE 全证；biuro@ 机构箱
-  > Kajetan Tadra, Certyfikowany Trener MikroTik——MTCNA…MTCEWE 全证；biuro@ 机构箱
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://csidet.edu.pl
+- **【近期动态与线索】**档定首触角: MTCSWE 对照单元($180 锚点一致);**CS Edu Idet 机构箱行(同 A-243 主体);错峰注免同日双发**
+  > 档定首触角: MTCSWE 对照单元($180 锚点一致);**CS Edu Idet 机构箱行(同 A-243 主体);错峰注免同日双发**
+  > 来源：https://csidet.edu.pl
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://csidet.edu.pl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：热舒夫 MikroTik 认证培训（同 A-243）
-- **产品线与在售品牌**：MikroTik 全证课
-- **目标行业与场景**：受训工程师（EU 资助课）
-- **团队与规模**：双讲师小型
-- **决策链与对接人**：biuro@ 机构箱（Kajetan 同队）
-- **技术与认证**：10 证讲师×2
-- **采购与供应链信号**：课程教具
-- **近期动态与线索**：EU 资助课 100% 叙事
-- **与我方契合点**：课程对照窄口（CONSULT-OEM）·机构角（错峰发）
-- **风险与注意**：与 A-243 同主体——防重复触达
+- **业务定位**：Kajetan Tadra(波兰／Rzeszów;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://csidet.edu.pl;csidet.edu.pl=热舒夫培训机构;**A-243 Tadeusz Ruchlewicz 同主体双行注记(错峰发)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Kajetan Tadra(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Szanowny Panie Tadra,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：功力
-- **W**：阵营
-- **O**：教具
-- **T**：边界
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Kajetan Tadra 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -205,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 对照接受
-  - [ ] 双讲师分工
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Kajetan, hi CS Edu Idet team,
+Szanowny Panie Tadra,
 
-Two instructors carrying the full ten MikroTik certifications each, EU-funded courses running across Podkarpacie - that is infrastructure for engineers. Full honesty: we build PoE switches, and your classroom is MikroTik's by design. (I also wrote to Tadeusz directly - one school, one conversation.)
-
-Where we might serve: in the MTCSWE module, some trainers add a documented third-party unit so engineers compare CLIs on the same L2+ job - our 24-port Gigabit PoE (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) suits that bench.
-
-One question: does your lab use comparison units, or do you keep it strictly single-vendor?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

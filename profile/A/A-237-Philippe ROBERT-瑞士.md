@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ENGITECH S.A.（日内瓦 1996）：IT 销售+服务商——在售 MikroTik（hEX PoE/hAP AX2)/Teltonika(RUTX11/TCR100)+Flashstart DNS 过滤；曾办 MTCTCE 培训
-- 【推断】MikroTik+Teltonika 双驻的小系统商=生态店判：CONSULT-OEM/窄位探询（不套用普通 MSP 模板）
-- 【假设】其 MikroTik PoE 客户升级更高端口密度时的替补窄口（诚实角）
+- 【事实】Philippe ROBERT:Philippe ROBERT(瑞士／Genève;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.engitech.ch;engitech.ch=日内瓦 IT 工程铺谱)
+- 【推断】R66 第 20 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：office@engitech.ch（官网正文公开；未验证投递）；原入口：+41 76 32 64 000
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Philippe ROBERT**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://www.engitech.ch〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Philippe ROBERT | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.engitech.ch |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第24批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第20波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CH 日内瓦老店（官网一手核）
-- **②芯片/型号**：MikroTik/Teltonika 线
-- **③KP 深挖**：office@（P.ROBERT）
-- **④Saga 对标**：高密度替补窄针（$180 锚点一致）
-- **⑤在乎与偏好**：老客/本地
+- **①背景再核**：Philippe ROBERT(瑞士／Genève;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.engitech.ch;engitech.ch=日内瓦 IT 工程铺谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Philippe ROBERT(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Compagnie informatique…Genève depuis 1996——hEX PoE/hAP AX2/Teltonika RUTX11 在售；Formation MTCTCE
-  > Compagnie informatique…Genève depuis 1996——hEX PoE/hAP AX2/Teltonika RUTX11 在售；Formation MTCTCE
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://www.engitech.ch
+- **【近期动态与线索】**档定首触角: PoE 密度升级替补窄针($180 锚点一致);生态店判
+  > 档定首触角: PoE 密度升级替补窄针($180 锚点一致);生态店判
+  > 来源：https://www.engitech.ch
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://www.engitech.ch
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：日内瓦 IT 系统商（1996）
-- **产品线与在售品牌**：MikroTik/Teltonika/Flashstart
-- **目标行业与场景**：企业 IT 供货+服务
-- **团队与规模**：小型老店
-- **决策链与对接人**：office@ 口
-- **技术与认证**：MTCTCE 办课履历
-- **采购与供应链信号**：窄位替补
-- **近期动态与线索**：—
-- **与我方契合点**：MikroTik 旁 24 口级替补宽口窄针
-- **风险与注意**：生态双驻——话术诚实不挖墙
+- **业务定位**：Philippe ROBERT(瑞士／Genève;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.engitech.ch;engitech.ch=日内瓦 IT 工程铺谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Philippe ROBERT(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 20 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Monsieur Robert,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：资历
-- **W**：阵营
-- **O**：密度替补
-- **T**：边界
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Philippe ROBERT 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -205,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补接受
-  - [ ] 密度需求存量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ENGITECH team,
+Monsieur Robert,
 
-Geneva since 1996, MikroTik and Teltonika on the shelf, Flashstart on top - a proper small system house. Full honesty: we are a PoE switch maker, and I see MikroTik is already your networking home.
-
-Where we might serve: when a customer wants more PoE density than a hEX-class unit gives, a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) fills that step-up slot.
-
-One question: when a customer outgrows the small-router PoE class, where do you source the bigger switch?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
