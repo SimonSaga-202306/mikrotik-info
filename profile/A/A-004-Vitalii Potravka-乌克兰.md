@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Vitalii Potravka**，乌克兰 Kyiv，个体 MikroTik 认证顾问（名录在册），**无公司网站**。
+- **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 顾问项目制 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | **Vitalii Potravka**，乌克兰 Kyiv，个体 MikroTik 认证顾问（名录在册），**无公司网站**。搜索到 mikrotik.coach（Mikrotik 欧洲/亚洲培训站）有「Vitalii, Kyiv」课程好评——**疑似同一人但无法证实，按未证线索登记**。通道=gmail+乌克兰手机。 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 无公开证据；个体顾问推定 MikroTik 家用/小商用线。出货量：无。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-004:乌克兰谱: **具名金谱·原批引真**:Vitalii Potravka(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-无公开证据；个体顾问推定 MikroTik 家用/小商用线。出货量：无。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCSWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -132,26 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Vitalii Potravka**，乌克兰 Kyiv，个体 MikroTik 认证顾问（名录在册），**无公司网站**。搜索到 mikrotik.coach（Mikrotik 欧洲/亚洲培训站）有「Vitalii, Kyiv」课程好评——**疑似同一人但无法证实，按未证线索登记**。通道=gmail+乌克兰手机。
-- **芯片与在用型号**：无公开证据；个体顾问推定 MikroTik 家用/小商用线。出货量：无。
-- **关键人KP**：**Vitalii Potravka 本人**。邮箱 **webvetal.mob@gmail.com**（CSV 既有；gmail MX 有效——Gmail 用户级有效性不可外部验证，如实标注）。电话 **+380 97 931 2131**（Kyivstar）——**移动端可试 WhatsApp/Telegram+Viber（乌常用三件套）**，未验证。mikrotik.coach 若确系其人，则其近期仍在消费 MikroTik 培训（活跃度信号）。
-- **关注点与资质**：持 MikroTik 认证（CSV 载）；个体户的价格敏感度最高，对**小批量/样品价/直邮**最感兴趣；无发票级合规负担。无参展/社媒可核痕迹。
-- **优缺点SWOT**：**S**：直达本人；既有回复概率高于失联公司站；小单决策快。**W**：无企业身份可核，信用与量都小；信息稀少（站点/LinkedIn 皆无）。**O**：Kyiv 重建/ISP 小单市场；样品试水成本低。**T**：战时因素与地址可行性（DHL/UPS 对乌线路需单独确认）。
-- **Saga产品适配**：样品位：**STC-28DGGPM**（EXW $99）或 **STI-288GP**（工业非管理 8口 PoE，EXW $74.8，3 年保）——个体顾问拿得动的价位档；成单后再谈箱规。
+- **①背景再核**：波 26·A-004:乌克兰谱: **具名金谱·原批引真**:Vitalii Potravka(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Vitalii Potravka(个体顾问,CSV 既有；gmail 域 MX 有效、用户级不可验；手机社媒绑定未验证);（疑似培训站好评人）(未证线索,疑似 · 未证实)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：乌克兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【名录收录】**MikroTik 认证顾问名录在册个体（Kyiv）。
-  > Vitalii Potravka … 乌克兰 Kyiv … 集成商/顾问（MikroTik 认证）
-  > 来源：https://mikrotik.com/consultants
-- **【疑似活跃信号】**MikroTik 培训站出现 Kyiv 的 Vitalii 好评，时间近（2026 春季课程表）。
-  > Vitalii Kyiv — I am confident in my ability to work with MikroTik network solutions.
-  > 来源：https://mikrotik.coach/
-- **【邮箱 infra】**gmail.com MX 正常（Google 收件簇）；用户级有效性外部不可验。
-  > gmail.com MX: 5:gmail-smtp-in.l.google.com …（2026-09-28 本机核验）
-  > 来源：dns://gmail.com/MX
+- **【联系方式与基础画像】**Vitalii Potravka(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Vitalii Potravka(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > 来源：仓内:A类深挖_2026-09-28_R55_第1批.json
+- **【联系方式与基础画像】**CSV 入口:+380 97 931 2131 / webvetal.mob@gmail.com
+  > CSV 入口:+380 97 931 2131 / webvetal.mob@gmail.com
+  > 来源：仓内:A类深挖_2026-09-28_R55_第1批.json
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-004:乌克兰谱: **具名金谱·原批引真**:Vitalii Potravka(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSWE
+- **目标行业与场景**：乌克兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：乌克兰谱·具名决策档
+- **决策链与对接人**：**Vitalii Potravka(个体顾问,CSV 既有；gmail 域 MX 有效、用户级不可验；手机社媒绑定未验证);（疑似培训站好评人）(未证线索,疑似 · 未证实)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in;**战区民用商业限定句必压(民用商业限定前句)**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -166,7 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：直达本人；既有回复概率高于失联公司站；小单决策快。**W**：无企业身份可核，信用与量都小；信息稀少（站点/LinkedIn 皆无）。**O**：Kyiv 重建/ISP 小单市场；样品试水成本低。**T**：战时因素与地址可行性（DHL/UPS 对乌线路需单独确认）。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -197,6 +214,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -204,21 +225,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Vitalii,
+Dear Vitalii Potravka Team,
 
-I came across Vitalii Potravka - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）
-- 【推断】主业已迁至 e-dreams 智能楼宇分销；MikroTik 顾问身份（MTCNA+MTCRE+MTCSE）为残留技能线
-- 【假设】酒店/别墅 KNX 项目仍有 IP 侧接入层需求（KNX/IP 网关、安防 PoE）
+- 【事实】波 26·A-023:希腊谱: **守档准由·原 R56 谱基增厚**:George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -131,38 +131,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：GTA 休眠（2010 止业务）；现职 e-dreams 经理（LinkedIn）；个人顾问技能线 MTCNA/MTCRE/MTCSE
-- **②芯片/型号**：KNX 体系（非交换机）；IP 侧品牌未公开
-- **③KP 深挖**：Tatsis 本人单一入口；gta.gr MX=O365 存活
-- **④Saga 对标**：酒店 KNX/IP 混接 8 口 PoE 盒 STC-28DGGPM
-- **⑤在乎与偏好**：分销价格敏感；懂行对话（KNX 术语）加分
+- **①背景再核**：波 26·A-023:希腊谱: **守档准由·原 R56 谱基增厚**:George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Manager e-dreams Apr 2010 - Present…Distribution and support of electrical/electronic devices for smart buildings”/“GTA Systems integrator Mar 2000 - Apr 2010…building controls projects with KNX…hotels”
-  > “Manager e-dreams Apr 2010 - Present…Distribution and support of electrical/electronic devices for smart buildings”/“GTA Systems integrator Mar 2000 - Apr 2010…building controls projects with KNX…hotels”
-  > 来源：https://www.linkedin.com/in/georgetatsis/
-- **【近期动态与线索】**gta.gr 仅存“GTA – Buildings for people”默认 WP 站+联系表单
-  > gta.gr 仅存“GTA – Buildings for people”默认 WP 站+联系表单
+- **【联系方式与基础画像】**George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）
+  > George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）
   > 来源：https://gta.gr/
-- **【技术与认证】**MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
-  > MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（CSV 名录）
-  > 来源：https://mikrotik.com/consultants
+- **【联系方式与基础画像】**CSV 入口:+30 210 291 1011 / george@gta.gr
+  > CSV 入口:+30 210 291 1011 / george@gta.gr
+  > 来源：https://gta.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：前 KNX 楼宇自控集成商（GTA），现 e-dreams 智能楼宇分销经理（LinkedIn 在册 2010 起）
-- **产品线与在售品牌**：e-dreams：电气/电子设备分销；GTA 站休眠
-- **目标行业与场景**：智能楼宇/别墅/酒店 KNX；酒店行业 IP 侧配套
-- **团队与规模**：个人级
-- **决策链与对接人**：George Tatsis 本人
-- **技术与认证**：MTCNA+MTCRE+MTCSE；KNX/ModBus/Honeywell BMS 老资质
-- **采购与供应链信号**：分销渠道常客，价格敏感
-- **近期动态与线索**：gta.gr 残留“Buildings for people”默认页——休眠站实锤
-- **与我方契合点**：酒店 KNX 项目 IP 侧 PoE 接入（KNX/IP 网关与安防」
-- **风险与注意**：不要用 GTA 老故事开场；站点已休眠，按 e-dreams 身份对待
+- **业务定位**：波 26·A-023:希腊谱: **守档准由·原 R56 谱基增厚**:George Tatsis（Galatsi/雅典）；GTA 2010 年前为 KNX 楼宇自控系统集成商，LinkedIn 显示 2010-04 起任 e-dreams 经理（智能楼宇电气/电子设备分销+培训），gta.gr 站已休眠（默认 WP 页面残留）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE
+- **目标行业与场景**：希腊 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：希腊谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +174,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：单人快速决策
-- **W**：非专职采购
-- **O**：存量酒店 KNX IP 化
-- **T**：分销多品牌既有线
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -208,9 +205,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] e-dreams 在售交换机类目
-  - [ ] GTA 时期酒店项目存量
-  - [ ] 个人采购节奏
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +218,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi George,
+Dear George Tatsis Team,
 
-I found you through the MikroTik consultant list - and saw on LinkedIn you now run e-dreams, after the GTA years on KNX building controls. Solid track.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port managed Gigabit PoE switch designed for exactly the mixed KNX/IP + CCTV corners of hotel projects. Reference: $99 USD EXW.
-
-One question: in your hotel KNX projects today, which channel supplies the IP access-layer switches?
-
-If useful, I can send one unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

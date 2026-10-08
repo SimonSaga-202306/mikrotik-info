@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTCSWE）
-- 【推断】培训中心+MTCSWE 在册=交换教具台位真实；同时企业工程线有项目随单面
-- 【假设】其课程走 MikroTik 全链，教具为 MikroTik 官方谱系——我方教具宜定位“补充比较样本”，不越师者红线
+- 【事实】波 27·A-063:芬兰谱: **守档准由·原 R56 谱基增厚**:Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTCSWE）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：芬兰培训中心+工程咨询双轨；MTCSWE 在册
-- **②芯片/型号**：MikroTik/Cisco/Fortinet/Ubiquiti 工程面
-- **③KP 深挖**：Younessi info@ 直达
-- **④Saga 对标**：教具补充+工程随单双轨
-- **⑤在乎与偏好**：诚实口径
+- **①背景再核**：波 27·A-063:芬兰谱: **守档准由·原 R56 谱基增厚**:Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTCSWE）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：芬兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Network Training Center & Infrastructure Network consultancy…certification preparation for MikroTik, Cisco…24/7 proactive monitoring”
-  > “Network Training Center & Infrastructure Network consultancy…certification preparation for MikroTik, Cisco…24/7 proactive monitoring”
+- **【联系方式与基础画像】**Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTC
+  > Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTC
   > 来源：https://netrotik.com/
-- **【联系方式】**info@netrotik.com +358 41 723 1250；MX 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@netrotik.com +358 41 723 1250；MX 自托管存活（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:+358 41 723 1250 / info@netrotik.com
+  > CSV 入口:+358 41 723 1250 / info@netrotik.com
   > 来源：https://netrotik.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：芬兰 IT 培训中心+基础设施咨询（MikroTik/Cisco 双轨）
-- **产品线与在售品牌**：培训课程+工程咨询
-- **目标行业与场景**：企业/ISP 工程与认证培训
-- **团队与规模**：小团队
-- **决策链与对接人**：Amin Hamidi Younessi
-- **技术与认证**：MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCSWE
-- **采购与供应链信号**：教具+项目随单
-- **近期动态与线索**：2026-03 官网上新（Amin 头像/机房图）
-- **与我方契合点**：意外教书教具补充样本+工程项目随单
-- **风险与注意**：师者红线：教具措辞诚实；站元素疑似被挂（内部注）
+- **业务定位**：波 27·A-063:芬兰谱: **守档准由·原 R56 谱基增厚**:Netrotik Oy（芬兰赫尔辛基）：IT 培训中心+基础设施咨询——MikroTik/Cisco 认证培训、企业网工程（MikroTik/Cisco/Fortinet/Ubiquiti）、Cisco SD-WAN/ACI 数据中心自动化、24/7 监控支持；Amin Hamidi Younessi 六证（含 MTCSWE）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCSWE+MTCEWE
+- **目标行业与场景**：芬兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：芬兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双轨
-- **W**：小
-- **O**：样本位
-- **T**：官配
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具清单
-  - [ ] 工程现供
-  - [ ] 评测意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Amin,
+Dear Amin Hamidi Younessi Team,
 
-A training center plus consulting practice carrying both MikroTik and Cisco tracks is a real workload - respect.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch that could serve as an honest comparison sample in your switching labs (another vendor beside the defaults, STP/VLAN/watchdog). Reference: $99 USD EXW.
-
-One question: do your switching labs ever use a second vendor for comparison?
-
-If useful, I can send a bench unit - honestly labeled, no teacher-pitch tricks. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

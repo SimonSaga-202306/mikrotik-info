@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）
-- 【推断】SECaaS 月付模式下公司先投硬件后收月租——硬件采购单价直接决定其现金结构，value 件话术命中商业模型
-- 【假设】“not a one size fits all”设计文化=候选件工业位开放评
+- 【事实】波 27·A-122:美国谱: **守档准由·原 R56 谱基增厚**:Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：三州安防（SECaaS 月付创新=采购资金结构敏感）
-- **②芯片/型号**：Allied 信号（CSV）
-- **③KP 深挖**：info@
-- **④Saga 对标**：SECaaS 硬件 value 位
-- **⑤在乎与偏好**：现金结构
+- **①背景再核**：波 27·A-122:美国谱: **守档准由·原 R56 谱基增厚**:Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Security as a Service…convenient monthly payment option to procure your security solutions…not a one size fits all solution”
-  > “Security as a Service…convenient monthly payment option to procure your security solutions…not a one size fits all solution”
+- **【联系方式与基础画像】**Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option 
+  > Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option 
+  > 来源：https://paramountsec.com/
+- **【联系方式与基础画像】**CSV 入口:info@paramountsec.com [Publicly listed; delivery not tested]; https://paramountsec.com
+  > CSV 入口:info@paramountsec.com [Publicly listed; delivery not tested]; https://paramountsec.com
   > 来源：https://paramountsec.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：三州安防集成（SECaaS 月付创新）
-- **产品线与在售品牌**：安防系统（Allied 信号，CSV）
-- **目标行业与场景**：区域商业安防
-- **团队与规模**：区域中型
-- **决策链与对接人**：info@/报价表单
-- **技术与认证**：全服务
-- **采购与供应链信号**：SECaaS 前端采购
-- **近期动态与线索**：SHIELD 产品化
-- **与我方契合点**：月付模式的 value 硬件位
-- **风险与注意**：随单结构
+- **业务定位**：波 27·A-122:美国谱: **守档准由·原 R56 谱基增厚**:Paramount Security Partners（宾州 Plymouth Meeting，PA/NJ/DE）：全服务安防集成商——安防管理系统设计+安装/服务/支持；**SHIELD Security-as-a-Service 月付采购模式**（“exclusive monthly payment option with added protection, flexibility, control”）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：美国 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +177,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：模式
-- **W**：体量
-- **O**：硬件位
-- **T**：大牌
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -205,9 +208,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] SHIELD 接入现供
-  - [ ] 采购结构
-  - [ ] 评测窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +221,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Paramount team,
+Dear Paramount Security Partner Team,
 
-SHIELD Security-as-a-Service is a smart model - and it makes one thing obvious: the less you pay for the hardware behind a monthly plan, the better your cash position.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - spec-grade behavior at a fraction of the first-shelf price, exactly for camera and access closets.
-
-One question: in your SHIELD deployments, who supplies the PoE switching layer today?
-
-If useful, I can send one unit with full documentation for a pilot cabinet. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

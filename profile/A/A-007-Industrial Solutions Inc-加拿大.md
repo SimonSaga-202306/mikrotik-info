@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、Linke…
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（工业/楼宇），且有具体人直联
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、LinkedIn 规模档 **2–10 人**、粉丝 **2,616**（LinkedIn 运营活跃）；行业标签 Oil & Gas（阿省油服腹地）。 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 网络连接类目明确卖 **工业以太网交换（非管理/管理、多模单模光纤口、DIN 轨、冗余环、PoE）**——品牌 Red Lion（N-Tron/Sixnet 血统）/Phoenix/Cisco/Moxa。工业交换芯片语境：N-Tron/Red Lion 与 Moxa 多用 Marvell/Broadcom 商用 die 加固化——**与我方 Marvell  | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-007:加拿大谱: **具名金谱·原批引真**:Industrial Solutions Inc(加拿大);CSV 信号:N-Tron + Red Lion + Anybus + Ewon;切入:卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STI-288GP($74.8 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-网络连接类目明确卖 **工业以太网交换（非管理/管理、多模单模光纤口、DIN 轨、冗余环、PoE）**——品牌 Red Lion（N-Tron/Sixnet 血统）/Phoenix/Cisco/Moxa。工业交换芯片语境：N-Tron/Red Lion 与 Moxa 多用 Marvell/Broadcom 商用 die 加固化——**与我方 Marvell 同源叙事成立**（可讲「同芯不同价」）。出货量：未公开；其 LinkedIn 发帖「we have demo units available for testing」=>常备演示库存的走量型分销。产品线卡 PDF 已定位。客户反馈：LinkedIn 2.6k 粉+34 年存续=西部渠道盘稳。
+（待深挖批覆盖；当前仅有 CSV 名录口径：N-Tron + Red Lion + Anybus + Ewon）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -61,7 +66,7 @@ updated: 2026-09-28
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- **Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、LinkedIn 规模档 **2–10 人**、粉丝 **2,616**（LinkedIn 运营活跃）；行业标签 Oil & Gas（阿省油服腹地）。代理墙：Red Lion/N-Tron、Phoenix Contact、HMS eWon、Moxa、Cisco、Axis、Pelco、Panasonic、Bosch、Digi、Axiomtek、Advantech、ASUS、APC/Tripp Lite、Getac……产品线覆盖 HMI/PLC/电源/安全远程接入/机器视觉/工业计算/网络连接。**增长信号：1 周前在 LinkedIn 招 Technical Sales Representative**。Red Lion 官网分销商页在册背书。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -71,15 +76,15 @@ updated: 2026-09-28
 - **原始联系字段**：sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {first}@indsol.com（bob@/amy@ 属推测，未验证）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **（采购/网络产品 owner 待问）**(网络连接类目采购决策人)— sales@indsol.com；780-460-9533 / 866-460-9533 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22〕
   - **（LinkedIn 公司号）**(2,616 粉；周更；当前在招 Technical Sales Rep)— ca.linkedin.com/company/industrialsolutionsinc 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://ca.linkedin.com/company/industrialsolutionsinc〕
+  - **（采购/网络产品 owner 待问）**(网络连接类目采购决策人)— sales@indsol.com；780-460-9533 / 866-460-9533 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| （采购/网络产品 owner 待问） | 网络连接类目采购决策人 | sales@indsol.com；780-460-9533 / 866-460-9533 | 官网+Red Lion 分销商页双源公开；MX（MS365）已验 | https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22 |
 | （LinkedIn 公司号） | 2,616 粉；周更；当前在招 Technical Sales Rep | ca.linkedin.com/company/industrialsolutionsinc | 已见；私信/评论为二通道（需登录操作，未执行） | https://ca.linkedin.com/company/industrialsolutionsinc |
+| （采购/网络产品 owner 待问） | 网络连接类目采购决策人 | sales@indsol.com；780-460-9533 / 866-460-9533 | 官网+Red Lion 分销商页双源公开；MX（MS365）已验 | https://www.indsol.com/product-categories ・ https://www.redlion.net/distributors/industrial-solutions-inc-22 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,35 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Industrial Solutions Inc.**，加拿大 Sherwood Park AB（2257 Premier Way，T8H 2M8），**1992 年成立**（34 年老牌工业自动化分销）、LinkedIn 规模档 **2–10 人**、粉丝 **2,616**（LinkedIn 运营活跃）；行业标签 Oil & Gas（阿省油服腹地）。代理墙：Red Lion/N-Tron、Phoenix Contact、HMS eWon、Moxa、Cisco、Axis、Pelco、Panasonic、Bosch、Digi、Axiomtek、Advantech、ASUS、APC/Tripp Lite、Getac……产品线覆盖 HMI/PLC/电源/安全远程接入/机器视觉/工业计算/网络连接。**增长信号：1 周前在 LinkedIn 招 Technical Sales Representative**。Red Lion 官网分销商页在册背书。
-- **芯片与在用型号**：网络连接类目明确卖 **工业以太网交换（非管理/管理、多模单模光纤口、DIN 轨、冗余环、PoE）**——品牌 Red Lion（N-Tron/Sixnet 血统）/Phoenix/Cisco/Moxa。工业交换芯片语境：N-Tron/Red Lion 与 Moxa 多用 Marvell/Broadcom 商用 die 加固化——**与我方 Marvell 同源叙事成立**（可讲「同芯不同价」）。出货量：未公开；其 LinkedIn 发帖「we have demo units available for testing」=>常备演示库存的走量型分销。产品线卡 PDF 已定位。客户反馈：LinkedIn 2.6k 粉+34 年存续=西部渠道盘稳。
-- **关键人KP**：公开通道 **sales@indsol.com**（官网+Red Lion 分销商页双源）+电话 780-460-9533 / 866-460-9533。招聘帖留的公司 LinkedIn 号是话题入口（评论/私信可见度高）。团队角色页显示 Inside Technical Sales & Support/Computer Technician/Shipping & Receiving 在招——**具体 KP 姓名未公开：走 sales@ 问「who runs networking line-card purchasing」**，LinkedIn 上 2–10 人规模的公司员工名单页可逐个点开（需登录，未做）。MX=MS365 有效。
-- **关注点与资质**：①**Class 1 Div 2 危险区认证**反复出现在多类目（油气现场刚需）——⚠️ **Saga 全系无 C1D2 认证，危险区项目不可承诺，只做非危险区/控制室段（诚实边界）**；②代理官方度（Red Lion 官网收录）=他理解分销玩法，用分销语言谈（梯价/RMA/demo）；③Axis/Pelco PoE 摄像机线=PoE 预算话题现成；④Canada IC/ISED 合规以前在册产品为准。社媒：LinkedIn 周更（招聘+厂商转发），是真活跃渠道。
-- **优缺点SWOT**：**S**：34 年渠道根基+油气自动化客群+多品牌代理经验（教我们产品无门槛）+常备 demo 文化（送测流程现成）。**W**：全员≤10 人，新增供应商管理带宽有限；N-Tron/Red Lion 归 HMS 体系后关系链深；无自营网店现货计数。**O**：**Red Lion N-Tron 8口非管理工业交换街价 $500+ vs Saga STI-280GE EXW $63.8（3 年保）——同档 5–8 倍价差的第二供应商位**；油气资本开支回暖+扩招销售=要新弹药；其客户（integrator/油田服务）对交期敏感（Saga 50 台下 5–7 工作日）。**T**：现有品牌墙若给排他压力则只能做灰色补充位；C1D2 项目段永久进不去。
-- **Saga产品适配**：对标 N-Tron 非管理：**STI-280GE**（8GE+2SFP，**EXW $63.8**）、**STI-288GP**（PoE 版 **EXW $74.8**）；对标管理型：**STI-288DGGPM**（L2+ 8口 PoE 240W ERPS<20ms，**EXW $137.5**）；万兆上联位 **STI-480XGGM**（**EXW $253**）；介质转换 **STI-110GE**（**EXW $29.7**）；带 bt 需求（他卖 Axis PTZ 大功率）→ **STI-288DGGPM-2BT**（**EXW $154**，2×bt+6×af/at）。打法：**照抄他自己的 demo 文化——主动寄 STI-288DGGPM+STI-280GE 各 1 台进其测试台，随附 EXW 梯价表与 3 年保条款镜像**（他保 1–2 年的原厂件对比立体）。报价注明 15 天有效/不含电源光模块（工业线）。
+- **①背景再核**：波 26·A-007:加拿大谱: **具名金谱·原批引真**:Industrial Solutions Inc(加拿大);CSV 信号:N-Tron + Red Lion + Anybus + Ewon;切入:卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**（LinkedIn 公司号）(2,616 粉；周更；当前在招 Technical Sales Rep,已见；私信/评论为二通道（需登录操作，未执行）)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【背景】**1992 年成立、2–10 人、Sherwood Park AB，LinkedIn 在册。
-  > Company size: 2-10 employees … Headquarters: Sherwood Park, Alberta … Founded: 1992
-  > 来源：https://ca.linkedin.com/company/industrialsolutionsinc
-- **【增长信号】**一周前公开招聘技术销售。
-  > We're #hiring a new Technical Sales Representative in Sherwood Park, Alberta.
-  > 来源：https://ca.linkedin.com/company/industrialsolutionsinc
-- **【工业交换阵容】**网络连接类目：Red Lion/Phoenix/N-TRON/Cisco/MOXA，含非管理/管理/环网/PoE。
-  > Red Lion | Phoenix Contact | N-TRON | CISCO | MOXA … Industrial Ethernet Switches … Redundant Ring Support … Power Over Ethernet ( PoE )
-  > 来源：https://www.indsol.com/product-categories
-- **【监控线】**Axis/Pelco/Panasonic/Bosch 摄像机类目明示 PoE Powered。
-  > AXIS | PELCO | Panasonic | Bosch … PoE Powered … Fixed, PTZ, Thermal, Panoramic, Explosion-Protected Cameras
-  > 来源：https://www.indsol.com/product-categories
-- **【官方背书】**Red Lion 官网分销商页在册（Sherwood Park, sales@indsol.com）。
-  > Location Sherwood Park, AB T8H 0X5, Canada … Email address: sales@indsol.com Phone: +1 (866) 460-9533
-  > 来源：https://www.redlion.net/distributors/industrial-solutions-inc-22
-- **【产品线卡】**官网提供 2026 版 Product Line-Card PDF 下载。
-  > Download Product Line-Card
-  > 来源：https://www.indsol.com/s/ISI-Product-Line-Card-Page-1-2026.pdf
+- **【联系方式与基础画像】**Industrial Solutions Inc(加拿大);CSV 信号:N-Tron + Red Lion + Anybus + Ewon;切入:卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供
+  > Industrial Solutions Inc(加拿大);CSV 信号:N-Tron + Red Lion + Anybus + Ewon;切入:卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供
+  > 来源：https://indsol.com/
+- **【联系方式与基础画像】**CSV 入口:sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {
+  > CSV 入口:sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {
+  > 来源：https://indsol.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-007:加拿大谱: **具名金谱·原批引真**:Industrial Solutions Inc(加拿大);CSV 信号:N-Tron + Red Lion + Anybus + Ewon;切入:卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：N-Tron + Red Lion + Anybus + Ewon
+- **目标行业与场景**：加拿大 谱;分销（HMS/N-Tron·Red Lion 渠道）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**（LinkedIn 公司号）(2,616 粉；周更；当前在招 Technical Sales Rep,已见；私信/评论为二通道（需登录操作，未执行）)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,7 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：34 年渠道根基+油气自动化客群+多品牌代理经验（教我们产品无门槛）+常备 demo 文化（送测流程现成）。**W**：全员≤10 人，新增供应商管理带宽有限；N-Tron/Red Lion 归 HMS 体系后关系链深；无自营网店现货计数。**O**：**Red Lion N-Tron 8口非管理工业交换街价 $500+ vs Saga STI-280GE EXW $63.8（3 年保）——同档 5–8 倍价差的第二供应商位**；油气资本开支回暖+扩招销售=要新弹药；其客户（integrator/油田服务）对交期敏感（Saga 50 台下 5–7 工作日）。**T**：现有品牌墙若给排他压力则只能做灰色补充位；C1D2 项目段永久进不去。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -206,6 +214,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -213,21 +225,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi Industrial,
+Dear （LinkedIn 公司号） Team,
 
-I came across Industrial Solutions Inc - 分销（HMS/N-Tron·Red Lion 渠道）.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
-
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

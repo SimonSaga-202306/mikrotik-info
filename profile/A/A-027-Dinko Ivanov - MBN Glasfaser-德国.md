@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIPE ORG-MBG9-RIPE 自有 AS
-- 【推断】WISP 运营商：塔站/杆站机柜接入层=工业温宽 PoE 刚需（CPE 供电、AP、回传），热点业务线再多一层 PoE AP 采购
-- 【假设】农村学校/市政热点是其增长段（EU 补贴节奏）
+- 【事实】波 26·A-027:德国谱: **守档准由·原 R56 谱基增厚**:Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIPE ORG-MBG9-RIPE 自有 AS;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,41 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Westhofen 18 年 WISP；FTTT+Richtfunk 10Gbit；自有 AS；EU 补贴市政段在售
-- **②芯片/型号**：回传定向无线为主；接入层未公开（塔站柜件）
-- **③KP 深挖**：Dinko Ivanov（MTCNA+MTCSE）技术直达
-- **④Saga 对标**：塔站机柜工业 PoE：STI-288GP ——钉住工业温宽缺口
-- **⑤在乎与偏好**：24h 服务 SLA 对等条件；合规文件齐
+- **①背景再核**：波 26·A-027:德国谱: **守档准由·原 R56 谱基增厚**:Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIPE ORG-MBG9-RIPE 自有 AS;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：德国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Ersteller von Funknetz-Infrastruktur und Glasfasernetzen, sowie Netzbetreiber…Breitbandversorgung im ländlichen Raum…FTTT…bis zu 10 Gigabit…50 Meter bis 10 Kilometer”
-  > “Ersteller von Funknetz-Infrastruktur und Glasfasernetzen, sowie Netzbetreiber…Breitbandversorgung im ländlichen Raum…FTTT…bis zu 10 Gigabit…50 Meter bis 10 Kilometer”
+- **【联系方式与基础画像】**Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIP
+  > Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIP
   > 来源：https://mbn-glasfaser.de/
-- **【产品线与在售品牌】**“Öffentliche Hotspots von MBN…erstklassige Technologie, rechtssicheren Betrieb und professionellen 24-h-Service”
-  > “Öffentliche Hotspots von MBN…erstklassige Technologie, rechtssicheren Betrieb und professionellen 24-h-Service”
+- **【联系方式与基础画像】**CSV 入口:+49 6344 9442084 / dinko.ivanov@mbn-glasfaser.de
+  > CSV 入口:+49 6344 9442084 / dinko.ivanov@mbn-glasfaser.de
   > 来源：https://mbn-glasfaser.de/
-- **【近期动态与线索】**“Kommunenausbau mit förderfähigem EU-Internet-Breitbandzugang…wenige Monate statt Jahre…ORG-MBG9-RIPE”
-  > “Kommunenausbau mit förderfähigem EU-Internet-Breitbandzugang…wenige Monate statt Jahre…ORG-MBG9-RIPE”
-  > 来源：https://mbn-glasfaser.de/
-- **【联系方式】**MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > MX=mx00.ionos.de/mx01.ionos.de（1&1 IONOS）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://mbn-glasfaser.de/kontakt
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Rheinhessen 农村宽带运营商：FTTT+Richtfunk 混合；公共热点业务线；EU 补贴市政段
-- **产品线与在售品牌**：自建塔站+热点系统；品牌未公开
-- **目标行业与场景**：农村住户、学校热点、市政（EU 补贴段=公共采购，走规范流程）
-- **团队与规模**：18 年区域运营商
-- **决策链与对接人**：Dinko Ivanov（MTCNA+MTCSE，技术口直达）
-- **技术与认证**：MTCNA+MTCSE；自有 AS（RIPE ORG-MBG9-RIPE）
-- **采购与供应链信号**：塔站机柜工业温宽件；热点 AP 批量
-- **近期动态与线索**：“Kommunenausbau mit förderfähigem EU-Internet-Breitband”持续主推
-- **与我方契合点**：工业温宽 PoE 接入（STI-288GP 系）进塔站柜；热点 AP 供电
-- **风险与注意**：EU 补贴采购=公共流程守规则；私营住户/热点段可正常商务
+- **业务定位**：波 26·A-027:德国谱: **守档准由·原 R56 谱基增厚**:Mobile Breitbandnetze GmbH（MBN，Westhofen/Rheinhessen）：18 年市场；FTTT（光纤到塔）+Richtfunk 定向无线混合的农村宽带运营商，单链路 10Gbit@50m-10km；自营公共热点业务（24h 服务、德国热点法规合规）；市政宽带 EU 补贴项目线；RIPE ORG-MBG9-RIPE 自有 AS;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSE
+- **目标行业与场景**：德国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：德国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -189,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：区域基础设施垄断
-- **W**：区域体量
-- **O**：EU 补贴+热点线增长
-- **T**：巨头下沉
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -220,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 塔站柜现用交换机
-  - [ ] 热点线年度点位计划
-  - [ ] 市政段合规清单
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -234,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Dinko,
+Dear Dinko Ivanov Team,
 
-I found you via the MikroTik consultant list (MTCNA/MTCSE) - and MBN's FTTT+Richtfunk hybrid for rural broadband is a clever architecture.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial-grade managed PoE switches rated -40 to 75C, designed for exactly the sealed tower cabinets your tower sites use. 802.3af/at, PoE watchdog included. Reference: $74.8 USD EXW.
-
-One question: how hot do your tower cabinets get in summer - and do the switches in them survive?
-
-If useful, I can send one unit for evaluation with the full temperature test report. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

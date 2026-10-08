@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/MTCTCE/MTCIPv6E/MTCINE）
-- 【推断】VoIP+互联网一体交付=门店/办公室接入层随单（话机+AP 都走 PoE）
-- 【假设】其地址级 product checker=自助式转化漏斗，其工程后端随单自然
+- 【事实】波 27·A-090:荷兰谱: **守档准由·原 R56 谱基增厚**:D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/MTCTCE/MTCIPv6E/MTCINE）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,35 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：荷中小电信一体交付（VoIP/接入/移动/云托管）；地址级自助查询
-- **②芯片/型号**：未公开硬件架
-- **③KP 深挖**：Hagoort 本人
-- **④Saga 对标**：Voice VLAN 24 口 PoE 随单
-- **⑤在乎与偏好**：简单可依赖
+- **①背景再核**：波 27·A-090:荷兰谱: **守档准由·原 R56 谱基增厚**:D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/MTCTCE/MTCIPv6E/MTCINE）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：荷兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“VoIP…Cloud PBX: online telefooncentrale…Internet en netwerk verbinding: koper- en glasvezelverbindingen…hybride werkplek”
-  > “VoIP…Cloud PBX: online telefooncentrale…Internet en netwerk verbinding: koper- en glasvezelverbindingen…hybride werkplek”
-  > 来源：https://dside.nl/
-- **【联系方式】**info@dside.nl；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@dside.nl；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://dside.nl/
+- **【联系方式与基础画像】**D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/M
+  > D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/M
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
+- **【联系方式与基础画像】**CSV 入口:info@dside.nl（官网 contact 页。D-Side Telecom 所有者；持 **MTCSWE**（2023-07 发，2026-07 到期）；**2026 年在布拉格 MTPC 大会讲过 MikroTik spine-l
+  > CSV 入口:info@dside.nl（官网 contact 页。D-Side Telecom 所有者；持 **MTCSWE**（2023-07 发，2026-07 到期）；**2026 年在布拉格 MTPC 大会讲过 MikroTik spine-l
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰中小电信服务商（VoIP+接入+移动+云托管）
-- **产品线与在售品牌**：自有服务线
-- **目标行业与场景**：荷兰中小企业/远程工位
-- **团队与规模**：小型电信服务
-- **决策链与对接人**：Hagoort 本人
-- **技术与认证**：MTCRE+MTCWE+MTCTCE+MTCIPv6E+MTCINE
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：2024-01 站（地址级查询在册）
-- **与我方契合点**：VoIP/Wi-Fi 接入柜 24 口 PoE 随单
-- **风险与注意**：小型体
+- **业务定位**：波 27·A-090:荷兰谱: **守档准由·原 R56 谱基增厚**:D-Side Telecom（荷兰，所有者 Jasper Hagoort）：中小企业电信服务——商务 VoIP/Cloud PBX（含 WhatsApp/FB/视频会议集成）、移动方案、互联网接入（铜+光纤+移动备份线路）、云托管、远程工位包；地址级覆盖查询在线；Hagoort 持 5+ 证（MTCRE/MTCWE/MTCTCE/MTCIPv6E/MTCINE）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCIPv6E MTCINE MTCSE MTCEWE
+- **目标行业与场景**：荷兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：荷兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -180,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全栈
-- **W**：小体
-- **O**：随单
-- **T**：套餐
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -215,9 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目量
-  - [ ] 接入层现供
-  - [ ] 框架
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -229,18 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Jasper,
+Dear Jasper Hagoort Team,
 
-D-Side delivers VoIP, connectivity, mobile and cloud hosting as one bundle - which means the phones and APs at a customer site all land in one small PoE cabinet.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN out of the box, watchdog) sized exactly for that cabinet. Reference: $180 USD EXW.
-
-One question: in a typical D-Side installation, how many PoE endpoints land on one access switch?
-
-If useful, I can send one unit with a sample VLAN config. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

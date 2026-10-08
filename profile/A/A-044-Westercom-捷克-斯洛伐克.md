@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价
-- 【推断】工业交换机等对手盘（EKI/Westermo/B+B）=我们温宽 PoE 的错位补位口；其 EOL 替代服务恰是低价位替换的接客场景
-- 【假设】铁路/能源段公共性强（ČD/ČEZ 体系），民营制造/水务才是一把手
+- 【事实】波 26·A-044:捷克/斯洛伐克谱: **守档准由·原 R56 谱基增厚**:Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,38 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：工业通信分销（Advantech 全线+Westermo+B+B）；EOL 替代店招
-- **②芯片/型号**：EKI/Westermo 工业以太网在册
-- **③KP 深挖**：eshop@第一口；项目报价团队
-- **④Saga 对标**：温宽 PoE 低价位补位（不当 Westermo 对标）
-- **⑤在乎与偏好**：EU 现货/交期/生命周期承诺
+- **①背景再核**：波 26·A-044:捷克/斯洛伐克谱: **守档准由·原 R56 谱基增厚**:Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：捷克/斯洛伐克 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Průmyslová komunikace a edge infrastruktura…Nástupnické modely a alternativy za ukončené produktové řady / Projektové nabídky / Dostupnost v EU”
-  > “Průmyslová komunikace a edge infrastruktura…Nástupnické modely a alternativy za ukončené produktové řady / Projektové nabídky / Dostupnost v EU”
-  > 来源：https://www.westercom.eu/cs/
-- **【产品线】**“ADAM – moduly pro sběr dat｜EKI — prvky průmyslového Ethernetu｜UNO/ARK”+CSV：Westermo, B+B SmartWorx
-  > “ADAM – moduly pro sběr dat｜EKI — prvky průmyslového Ethernetu｜UNO/ARK”+CSV：Westermo, B+B SmartWorx
-  > 来源：https://www.westercom.eu/cs/37-produkty
-- **【目标行业】**“Energetika a kritická infrastruktura…Železnice a doprava…Výroba a automatizace…Vodárenství”
-  > “Energetika a kritická infrastruktura…Železnice a doprava…Výroba a automatizace…Vodárenství”
-  > 来源：https://www.westercom.eu/cs/
+- **【联系方式与基础画像】**Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替
+  > Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替
+  > 来源：https://westercom.eu/
+- **【联系方式与基础画像】**CSV 入口:+420 603 509 790 / eshop@westercom.eu（官网 /cs/kontakt 正文；站内另列 +420 607 550 014）
+  > CSV 入口:+420 603 509 790 / eshop@westercom.eu（官网 /cs/kontakt 正文；站内另列 +420 607 550 014）
+  > 来源：https://westercom.eu/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：捷克斯洛伐克工业通信分销（Advantech 全线+Westermo+B+B）：EOL 替代+项目报价
-- **产品线与在售品牌**：ADAM/EKI/UNO/ARK/Westermo/B+B SmartWorx
-- **目标行业与场景**：能源电网/铁路/制造/水务/医疗/机场/半导体/物流
-- **团队与规模**：项目型分销
-- **决策链与对接人**：eshop@+603 509 790
-- **技术与认证**：工业通信选型服务
-- **采购与供应链信号**：EU 现货确认服务=其穿梭性强
-- **近期动态与线索**：2026 新视觉（hero-*-2026）多行业落地
-- **与我方契合点**：EOL 替代场景低价补位；温宽 PoE 错位
-- **风险与注意**：公共段（铁路整车/电网）守边界；与 Westermo 正面对标需谨慎定位“补充线”
+- **业务定位**：波 26·A-044:捷克/斯洛伐克谱: **守档准由·原 R56 谱基增厚**:Westercom s.r.o.（捷克/斯洛伐克）：工业通信与边缘基础设施分销——Advantech（ADAM/EKI/UNO/ARK）、Westermo、B+B SmartWorx 在册；垂直：能源电网（变电/输电）、铁路整车与轨旁、制造自动化、水务、医疗面板、机场、半导体、物流 Edge AI；服务名店：EOL 替代（“Nástupnické modely a alternativy za ukončené produktové řady”）+项目型组合报价;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Westermo, B+B SmartWorx
+- **目标行业与场景**：捷克/斯洛伐克 谱;分销（Westermo Silver）
+- **团队与规模**：捷克/斯洛伐克谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：多垂直+EOL 店
-- **W**：强牌已多
-- **O**：EOL 补位
-- **T**：公共壁垒
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -216,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] EKI/Westermo 在售价带
-  - [ ] EOL 清单 PoE 位
-  - [ ] 项目报价准入
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Westercom team,
+Dear Westercom Team,
 
-I see Westercom takes EOL replacements seriously - "successor models and alternatives for discontinued series" is a service customers genuinely need.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial managed PoE switches rated -40 to 75C with a hardware PoE watchdog - positioned as a complement at a much lighter price point than the lines you carry. Reference: $74.8 USD EXW.
-
-One question: in your EOL-replacement list, is there an open slot for an industrial PoE switch?
-
-If useful, I can send one unit with the full test report. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

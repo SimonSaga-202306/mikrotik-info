@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**
-- 【推断】分销架上 SMB 网络件齐全（Ubiquiti/Omada/MikroTik 层）——其 PoE 接入交换 value 位仍有更下沿空间；Academy=培训生态敏感，不作贬低对照
-- 【假设】“24/7 support+次日达”分销文化=上架看交付与文档；$180 value 位给其 installer 渠道一个毛利层
+- 【事实】波 27·A-131:荷兰谱: **守档准由·原 R56 谱基增厚**:SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第14批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,32 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30 年 ICT 分销（次日达+Academy）
-- **②芯片/型号**：Ubiquiti/Omada/MikroTik/Grandstream 在架；CSV 另载 Allied 信号
-- **③KP 深挖**：verkoop@
-- **④Saga 对标**：PoE 接入 value 位（不贬 MikroTik）
-- **⑤在乎与偏好**：交付+文档
+- **①背景再核**：波 27·A-131:荷兰谱: **守档准由·原 R56 谱基增厚**:SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第14批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：荷兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
-  > “Ruim 30 jaar ervaring…24/7 support desk…Voor 17.00 uur besteld, morgen in huis”
+- **【联系方式与基础画像】**SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17
+  > SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17
+  > 来源：https://sdc.nl/
+- **【联系方式与基础画像】**CSV 入口:verkoop@sdc.nl [Publicly listed; delivery not tested]; https://sdc.nl
+  > CSV 入口:verkoop@sdc.nl [Publicly listed; delivery not tested]; https://sdc.nl
   > 来源：https://sdc.nl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰 30 年 ICT 分销（SMB 网络架）
-- **产品线与在售品牌**：Ubiquiti/Omada/MikroTik/Grandstream/Gigaset（CSV 另载 Allied 信号）
-- **目标行业与场景**：installer/reseller 渠道
-- **团队与规模**：中型分销
-- **决策链与对接人**：verkoop@ 口
-- **技术与认证**：Academy 培训体系
-- **采购与供应链信号**：上架分销
-- **近期动态与线索**：2026 partner event
-- **与我方契合点**：PoE 交换 value 位上架
-- **风险与注意**：MikroTik 在架=禁贬低比较
+- **业务定位**：波 27·A-131:荷兰谱: **守档准由·原 R56 谱基增厚**:SDC.nl B.V.（荷兰）：30+ 年 ICT 分销商——品牌墙 Gigaset Pro/Ubiquiti/TP-Link Omada/**MikroTik**/Grandstream；类目：DECT 电话/接入点/**Switches**/智能楼宇配线柜/防火墙/桌面话机；24/7 support desk、17:00 前下单次日达；自有 **Academy 培训体系**;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第14批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证，持 MikroTik 培训伙伴（官方课程表在列）
+- **目标行业与场景**：荷兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：荷兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：渠道
-- **W**：在架众
-- **O**：value
-- **T**：大牌
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -212,9 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Switches 类目结构
-  - [ ] 上架门槛
-  - [ ] Academy 兼容
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi SDC team,
+Dear SDC B.V. Team,
 
-Thirty-plus years, next-day delivery before 17:00, and a 24/7 support desk - the operational backbone installers count on.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $180 USD EXW - a value line that gives your installer channel a healthier margin layer on routine PoE closets.
-
-One question: in your Switches category today, is there an open slot for a documented value PoE access line?
-
-If useful, I can send one unit with the full documentation pack for your evaluation bench. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

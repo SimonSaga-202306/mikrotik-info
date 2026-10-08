@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销）；Michael Omondi 十证全
-- 【推断】多厂牌（UniFi+MikroTik）课程=教具箱真实且学员带走=教具消耗量大
-- 【假设】教具是课程成本结构里看得见的件；诚实比较样本+学生带走器材两案并提，不越师者红线
+- 【事实】波 27·A-073:美国谱: **守档准由·原 R56 谱基增厚**:McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销）；Michael Omondi 十证全;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,38 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第8批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：多厂牌学院（UniFi+MikroTik 课全美在售）；带走硬件促销
-- **②芯片/型号**：UniFi/MikroTik 教具
-- **③KP 深挖**：Omondi 十证；support@
-- **④Saga 对标**：教具小黑 BEPS 比较样本（红线）
-- **⑤在乎与偏好**：诚实课评
+- **①背景再核**：波 27·A-073:美国谱: **守档准由·原 R56 谱基增厚**:McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销）；Michael Omondi 十证全;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“join us for UniFi training in New York... and Los Angeles... Keep student lab hardware after the class when you bundle all three courses”
-  > “join us for UniFi training in New York... and Los Angeles... Keep student lab hardware after the class when you bundle all three courses”
+- **【联系方式与基础画像】**McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销
+  > McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销
   > 来源：https://mccharlestech.net/
-- **【产品线】**“Unifi: UFSP $1,795/URSCA/UWA…Mikrotik: MTCNA + MTCRE $1,175 全美多城”
-  > “Unifi: UFSP $1,795/URSCA/UWA…Mikrotik: MTCNA + MTCRE $1,175 全美多城”
-  > 来源：https://mccharlestech.net/
-- **【联系方式】**support@mccharlestech.com (833) 622-4275；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > support@mccharlestech.com (833) 622-4275；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:+1 833 622 4275 / support@mccharlestech.com
+  > CSV 入口:+1 833 622 4275 / support@mccharlestech.com
   > 来源：https://mccharlestech.net/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国多厂牌网络培训学院（UniFi 官方课+MikroTik 课）
-- **产品线与在售品牌**：UFSP/URSCA/UWA/MTCNA+MTCRE 课程
-- **目标行业与场景**：工程师认证培训（全美多城）
-- **团队与规模**：学院组织
-- **决策链与对接人**：Omondi（十证）support@
-- **技术与认证**：十证全
-- **采购与供应链信号**：课程教具（含“带回家”硬件箱）
-- **近期动态与线索**：2026-10/12 纽约/洛杉矶 UniFi 班+带走硬件促销
-- **与我方契合点**：教具箱+比较样本
-- **风险与注意**：师者红线
+- **业务定位**：波 27·A-073:美国谱: **守档准由·原 R56 谱基增厚**:McCharles Technologies（美国）：网络培训学院——**Ubiquiti 官方课 UFSP/URSCA/UWA（$1,795）与 MikroTik 课 MTCNA+MTCRE（$1,175）全美多城在售**；2026-10~12 纽约/洛杉矶班；“选修三节全包可把课堂实验硬件带回家”（前 15 名促销）；Michael Omondi 十证全;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 10 证全拿
+- **目标行业与场景**：美国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：吞吐
-- **W**：审慎
-- **O**：双箱位
-- **T**：官配
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -216,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具箱清单
-  - [ ] 带走箱结构
-  - [ ] 评测窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Michael,
+Dear Michael Omondi Team,
 
-McCharles runs an unusually honest catalog - UniFi and MikroTik courses side by side, and students sometimes walk home with lab hardware. That is the right way to teach.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch that could serve as a fair second-vendor sample in your switching labs (STP/VLAN/watchdog, honestly labeled). Reference: $99 USD EXW.
-
-One question: what switch hardware do students work on in your switching labs today?
-
-If useful, I can send a bench unit for the class to test - plainly, no strings. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

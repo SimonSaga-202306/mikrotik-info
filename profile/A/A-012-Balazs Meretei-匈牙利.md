@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Balázs Meretei**（圈内名 **NoXy**），匈牙利 Kecskemét 独立网络顾问。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁、组播/IPTV），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Cisco↔MikroTik 迁移实验室置换机；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Balázs Meretei**（圈内名 **NoXy**），匈牙利 Kecskemét 独立网络顾问。个人技术博客 meretei.hu（2015–2024 持续发帖：IANA 协议号备忘、IPsec DH-group、PKCS12/openssl、Cisco NTP 夏令时配置备忘——**Cisco 与 MikroTik 双栈实操者**）。另在匈牙利 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本（写过 import 即用的 facebook.rsc 生成 bash 脚本）——**自动化与 CLI 深度用户**，对芯片层话题（Marvell 同源）听得懂。其交换笔记覆盖 STP/NTP 等 L2 运维痛点=与我方 L2+ 特性表语 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-012:匈牙利谱: **具名金谱·原批引真**:Balazs Meretei(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本（写过 import 即用的 facebook.rsc 生成 bash 脚本）——**自动化与 CLI 深度用户**，对芯片层话题（Marvell 同源）听得懂。其交换笔记覆盖 STP/NTP 等 L2 运维痛点=与我方 L2+ 特性表语境重合。出货量：无（顾问）。客户反馈：博客形态即其作品集。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -135,29 +140,35 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Balázs Meretei**（圈内名 **NoXy**），匈牙利 Kecskemét 独立网络顾问。个人技术博客 meretei.hu（2015–2024 持续发帖：IANA 协议号备忘、IPsec DH-group、PKCS12/openssl、Cisco NTP 夏令时配置备忘——**Cisco 与 MikroTik 双栈实操者**）。另在匈牙利 MikroTik 装备店 **wireless-bolt.hu 讲授 MTCNA 课程**（第三方授课记录）。持 5 证含 MTCSWE+MTCSE（交换+安全双专向）。
-- **芯片与在用型号**：Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本（写过 import 即用的 facebook.rsc 生成 bash 脚本）——**自动化与 CLI 深度用户**，对芯片层话题（Marvell 同源）听得懂。其交换笔记覆盖 STP/NTP 等 L2 运维痛点=与我方 L2+ 特性表语境重合。出货量：无（顾问）。客户反馈：博客形态即其作品集。
-- **关键人KP**：**Balázs Meretei 本人（NoXy）**。邮箱 **balazs@meretei.hu**（CSV 既有；自有域 MX flash-net.hu 今日核验有效）；电话 +36 30 999 9900。LinkedIn 未见确认档案（技术博客型人格）。无需猜测邮箱——实名自有域。
-- **关注点与资质**：①证书运维痛点自述（每年 cert 更新流程吐槽=时间敏感型实操者）；②实用主义脚本复用（我写我用）；③swap Cisco↔MikroTik 双语境迁移类项目（企业把思科换 MikroTik 时找他=**交换机替换项目入口人**！）；④匈牙利语沟通。社媒：无，纯博客。
-- **优缺点SWOT**：**S**：双栈迁移经验=替换案场的天然买手；自有域实名深技术；教学出镜（wireless-bolt 课）带流量。**W**：一人低频运营、无公司外壳；采购自己动手量小。**O**：Cisco→MikroTik/白牌迁移项目潮里，给他一台可放实验室的 Saga 交换=进入其方案推荐清单的门票；MTCSWE 持证=ERPS/QinQ 特性可深聊。**T**：玩家型顾问忠诚度靠技术信服度；他对虚标零容忍（同 A-008 类型）。
-- **Saga产品适配**：实验室置换机：**STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 随附电源）+ 进阶 **STI-480XGGM**（工业 L2+ 8口 4×10G ERPS<20ms，**EXW $253**）。话术：工程师对工程师，附 L2+ 特性表原文（<20ms ERPS、Private VLAN、QinQ、MQTT/sFlow）与「出厂可刷预配置」；注明 af/at 上限，不夸大 bt。
+- **①背景再核**：波 26·A-012:匈牙利谱: **具名金谱·原批引真**:Balazs Meretei(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Balázs Meretei（NoXy）(独立顾问/wireless-bolt.hu 客座 MTCNA 讲师,自有域邮箱既有；MX（flash-net.hu）已验)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：匈牙利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【双栈实操】**Cisco 交换 NTP/夏令时配置笔记（双栈证据）。
-  > Switch(config)#ntp server 148.6.0.1 … Switch(config)#clock summer-time CEST recurring last Sun Mar 02:00 last Sun Oct 03:00
+- **【联系方式与基础画像】**Balazs Meretei(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Balazs Meretei(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://meretei.hu/
-- **【教学出镜】**wireless-bolt.hu 的 MTCNA 课程由 Meretei Balázs 授课。
-  > A képzést Meretei Balázs tartja.
-  > 来源：https://www.wireless-bolt.hu/46618-oktatas/673516-mikrotik-mtcna-kepzes
-- **【脚本能力】**写过 MikroTik 配置自动生成脚本（facebook.rsc 生成器）。
-  > A mellékelt bash script bármilyen Linux/MAC gépen futtatva generál egy facebook.rsc fájlt, amit csak importálni kell a MikroTik routerbe.
-  > 来源：https://meretei.hu/facebook-tiltasa-mikrotik-routerrel/
-- **【痛点自述】**年度证书更新流程常忘——时间敏感实操者画像。
-  > Évente mikor lejárnak a certek mindig elfelejtem hogyan is kellett PKCS12-t generálni
+- **【联系方式与基础画像】**CSV 入口:+36 30 999 9900 / balazs@meretei.hu
+  > CSV 入口:+36 30 999 9900 / balazs@meretei.hu
   > 来源：https://meretei.hu/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-012:匈牙利谱: **具名金谱·原批引真**:Balazs Meretei(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCSE+MTCSWE
+- **目标行业与场景**：匈牙利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：匈牙利谱·具名决策档
+- **决策链与对接人**：**Balázs Meretei（NoXy）(独立顾问/wireless-bolt.hu 客座 MTCNA 讲师,自有域邮箱既有；MX（flash-net.hu）已验)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -172,7 +183,10 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 
 ## SWOT
 
-**S**：双栈迁移经验=替换案场的天然买手；自有域实名深技术；教学出镜（wireless-bolt 课）带流量。**W**：一人低频运营、无公司外壳；采购自己动手量小。**O**：Cisco→MikroTik/白牌迁移项目潮里，给他一台可放实验室的 Saga 交换=进入其方案推荐清单的门票；MTCSWE 持证=ERPS/QinQ 特性可深聊。**T**：玩家型顾问忠诚度靠技术信服度；他对虚标零容忍（同 A-008 类型）。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -199,6 +213,10 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -206,21 +224,15 @@ Cisco ASA/Catalyst CLI（PKCS12、NTP 配置笔记）+ MikroTik RouterOS 脚本�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Balazs,
+Dear Balázs Meretei（NoXy） Team,
 
-I came across Balazs Meretei - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

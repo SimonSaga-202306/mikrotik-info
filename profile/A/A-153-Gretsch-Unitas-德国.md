@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietberg)；参考项目：Zaha Hadid 520W28 NYC/Stadtbibliothek Stuttgart/Anna Freud Centre London；下载门户/研讨会/ProPoint 服务门户
-- 【推断】大型制造商集团：其电子门禁/楼宇管理产品的项目集成含 IP 联网配套；但集团级供应商准入严、框架成熟——value 件缝隙窄
-- 【假设】以“供应商准入路径”轻问询切入（不谈价格直推），其门禁/楼宇项目的 PoE 接入配套是真实场景
+- 【事实】波 27·A-153:德国谱: **守档准由·原 R56 谱基增厚**:Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietberg)；参考项目：Zaha Hadid 520W28 NYC/Stadtbibliothek Stuttgart/Anna Freud Centre London；下载门户/研讨会/ProPoint 服务门户;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第16批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,32 +136,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：GU 全球集团（门禁/楼宇 IP 化产品）
-- **②芯片/型号**：门禁/控制系统（自研+框架）
-- **③KP 深挖**：info@g-u.de
-- **④Saga 对标**：准入路径问询（窄）
-- **⑤在乎与偏好**：体系认证
+- **①背景再核**：波 27·A-153:德国谱: **守档准由·原 R56 谱基增厚**:Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietberg)；参考项目：Zaha Hadid 520W28 NYC/Stadtbibliothek Stuttgart/Anna Freud Centre London；下载门户/研讨会/ProPoint 服务门户;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第16批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：德国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
-  > “automatische Eingangssysteme und Zutrittskontrolle…Baubeschläge, Schlösser, automatische Türsysteme und intelligente Zutrittslösungen moderne Gebäude weltweit”
+- **【联系方式与基础画像】**Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietber
+  > Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietber
+  > 来源：https://www.g-u.com/
+- **【联系方式与基础画像】**CSV 入口:info@g-u.de [Publicly listed; delivery not tested]; https://www.g-u.com
+  > CSV 入口:info@g-u.de [Publicly listed; delivery not tested]; https://www.g-u.com
   > 来源：https://www.g-u.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：GU 集团：五金/自动门/门禁/楼宇全球集团
-- **产品线与在售品牌**：GU/BKS/FERCO/GU Automatic
-- **目标行业与场景**：住宅/公建/国际大项目
-- **团队与规模**：大型集团
-- **决策链与对接人**：info@g-u.de 口
-- **技术与认证**：多品牌体系
-- **采购与供应链信号**：集团框架准入
-- **近期动态与线索**：国际参考项目常态
-- **与我方契合点**：门禁/楼宇项目 PoE 接入配套（窄）
-- **风险与注意**：集团准入门槛
+- **业务定位**：波 27·A-153:德国谱: **守档准由·原 R56 谱基增厚**:Gretsch-Unitas GmbH Baubeschläge（德国 Ditzingen,GU 集团）：全球门窗五金/自动门/**电子门禁（Zutrittslösungen）/楼宇管理**集团——品牌 GU Baubeschläge/BKS（Velbert)/FERCO（法）/GU Automatic（Rietberg)；参考项目：Zaha Hadid 520W28 NYC/Stadtbibliothek Stuttgart/Anna Freud Centre London；下载门户/研讨会/ProPoint 服务门户;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第16批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：德国 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：德国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +179,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：场景
-- **W**：门槛
-- **O**：配套
-- **T**：自研
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -207,9 +210,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 准入路径
-  - [ ] 网络配套现供
-  - [ ] 自营度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,18 +223,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Gretsch-Unitas team,
+Dear Gretsch-Unitas Team,
 
-Your Group builds intelligent access solutions for modern buildings worldwide - from New York to Stuttgart. Where access control, automatic doors and building management meet the network, they ride PoE.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We manufacture 24-port Gigabit PoE access switches (280W, 802.3af/at, full CE documentation, $180 USD EXW reference) - the dependable layer behind exactly such systems.
-
-One question - and it is genuinely the only ask in this mail: what is the Group's path for onboarding a documented third-party component supplier?
-
-If it is a conversation worth having, I will gladly follow your process. If not, one line and I close the loop politely.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

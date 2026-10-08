@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案
-- 【推断】一线制造商战略同盟结构下接入层被大牌主力占据；分支层面价值线空间窄——承认在位并定位“第二架/预算受限位”
-- 【假设】加盟分支有本地采购弹性——分支级 value 件测试比集团级准入更现实
+- 【事实】波 27·A-125:美国谱: **守档准由·原 R56 谱基增厚**:Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,32 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：全国加盟安防；一线伙伴墙（value 位窄）
-- **②芯片/型号**：Allied 信号（CSV）
-- **③KP 深挖**：CT service 邮箱
-- **④Saga 对标**：分支第二架 value 线
-- **⑤在乎与偏好**：集团目录
+- **①背景再核**：波 27·A-125:美国谱: **守档准由·原 R56 谱基增厚**:Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“long-standing strategic partnerships with the security industry’s leading manufacturers…[Axis] [Genetec] [Verkada] [Motorola Solutions]…”
-  > “long-standing strategic partnerships with the security industry’s leading manufacturers…[Axis] [Genetec] [Verkada] [Motorola Solutions]…”
+- **【联系方式与基础画像】**Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育
+  > Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育
+  > 来源：https://www.security101.com/
+- **【联系方式与基础画像】**CSV 入口:connecticut-service@security101.com [Publicly listed; delivery not tested]; https://www.security101.com/connecticut
+  > CSV 入口:connecticut-service@security101.com [Publicly listed; delivery not tested]; https://www.security101.com/connecticut
   > 来源：https://www.security101.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Security 101 加盟分支（CT）
-- **产品线与在售品牌**：一线伙伴墙（Axis/Avigilon/Genetec/Verkada…；CSV 载 Allied 信号）
-- **目标行业与场景**：十行业（含地方政府常规段）
-- **团队与规模**：集团级分支
-- **决策链与对接人**：分支 service 邮箱
-- **技术与认证**：Team101 体系
-- **采购与供应链信号**：集团伙伴目录
-- **近期动态与线索**：SiteGuard/101ware 产品化
-- **与我方契合点**：分支级第二架价值线（窄判别）
-- **风险与注意**：同盟强
+- **业务定位**：波 27·A-125:美国谱: **守档准由·原 R56 谱基增厚**:Security 101（全国加盟安防集成商）Connecticut 分支：集团伙伴墙=全行业一线（Avigilon/Axis/Genetec/LenelS2/Milestone/Motorola Solutions/Verkada/Hanwha 等 50+）；十行业方案（National Accounts/医疗/教育/物业/制造分销/地方政府/生物技术/运输/公用事业/数据中心）；自有 101ware 客户门户+SiteGuard 监控+Safe Learning 101 校园方案;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：美国 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体系
-- **W**：同盟
-- **O**：分支弹性
-- **T**：在位
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -210,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 分支采购弹性
-  - [ ] value 缺口
-  - [ ] 采购层级
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Security 101 Connecticut team,
+Dear Security 101 - CT Team,
 
-A partner wall like yours - Axis, Genetec, Avigilon, Verkada - speaks for where the first shelf stands. We are not writing to displace it.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) at $180 USD EXW - built for the projects where the first-shelf brands price themselves out: budget-constrained schools, municipal buildings, and value-engineered retrofits.
-
-One question: at the branch level, is there room for a second approved value line when a project cannot carry the standard brands?
-
-If useful, I can send one unit with full documentation for your lab bench. If not relevant, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

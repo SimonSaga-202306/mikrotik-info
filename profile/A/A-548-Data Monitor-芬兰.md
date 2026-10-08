@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名
-- 【推断】30 年进口批发=北欧渠道老口；PoE 交换类目独立=走货位现成
-- 【假设】酒店/城区案例=24 口楼层级随单
+- 【事实】波 28·A-548:芬兰谱: **守档准由·原 R56 谱基增厚**:Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 28 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,62 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：北欧批发对照行
-- **要问的问题**：PoE 交换类目收 value 档 24 口吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第55批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第28波37户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.datamonitor.fi|芬兰老批发
-- **②芯片/型号**：WiFi/PoE 交换谱
-- **③KP 深挖**：myynti@ 口
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：30 年渠道
+- **①背景再核**：波 28·A-548:芬兰谱: **守档准由·原 R56 谱基增厚**:Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：芬兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**WiFi6/7+PoE-kytkimet 类目
-  > WiFi6/7+PoE-kytkimet 类目
-  > 来源：https://www.datamonitor.fi
-- **【场景】**酒店/城区网络点名
-  > 酒店/城区网络点名
-  > 来源：https://www.datamonitor.fi
-- **【年资】**1994 进口批发
-  > 1994 进口批发
-  > 来源：https://www.datamonitor.fi
+- **【联系方式与基础画像】**Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名
+  > Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名
+  > 来源：https://datamonitor.fi/
+- **【联系方式与基础画像】**CSV 入口:myynti@datamonitor.fi（销售；dm@ 同页）
+  > CSV 入口:myynti@datamonitor.fi（销售；dm@ 同页）
+  > 来源：https://datamonitor.fi/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：芬兰进口批发商（1994 起）
-- **产品线与在售品牌**：WiFi6/7+PoE 交换+电源+布线件
-- **目标行业与场景**：装维/酒店/城区网络
-- **团队与规模**：（官网推）
-- **决策链与对接人**：myynti@ 芬兰语销售口
-- **技术与认证**：进口批发证链
-- **采购与供应链信号**：北欧渠道库存
-- **近期动态与线索**：WiFi7 谱更新中
-- **与我方契合点**：PoE 交换类目旁 value 对照（$180 锚点一致）
-- **风险与注意**：芬兰语站——邮件英文可、节奏北欧型
+- **业务定位**：波 28·A-548:芬兰谱: **守档准由·原 R56 谱基增厚**:Datamonitor（芬兰 1994 进口批发）：WiFi6/7 谱+PoE-kytkimet 交换类目+电源+布线安装件；酒店/城区网络点名;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：ORing
+- **目标行业与场景**：芬兰 谱;分销（ORing 授权）
+- **团队与规模**：芬兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 28 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -155,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：30 年进口渠道
-- **W**：value 段待证
-- **O**：24 口 PoE 档
-- **T**：大牌价段
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -186,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 北欧价段
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Datamonitor team,
+Dear Data Monitor Team,
 
-Thirty years importing network gear into Finland, with WiFi 6 and 7 alongside a dedicated PoE switch category and cabling, says your installers already build full hotel and city-district networks from your shelf.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a value benchmark for the price-sensitive end of your PoE category, not a replacement for the lines you lead with.
-
-One question: in your PoE switch category, is there room for a documented value 24-port unit for hotel and district-network quotes?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

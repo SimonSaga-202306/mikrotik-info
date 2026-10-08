@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）
-- 【推断】高端个人顾问：客户为需要 HA/MPLS 级网络的企业；交换机话题随 CAPsMAN/MLAG 咨询带出来，教具+实验室概念适用
-- 【假设】“References on request”NDA 客户群=多为中大型项目，POC 样机文化适用
+- 【事实】波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -133,38 +133,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：2007 起官方顾问全 10 证；慕尼黑+Haßfurt 双址；HA/MPLS 级咨询+SAFe 管理培训双轨
-- **②芯片/型号**：RouterOS 全谱；硬件项目推荐制
-- **③KP 深挖**：Sandro Kehrlein 本人（CSV“Kehrlein”名补全）；LinkedIn /in/kehrlein
-- **④Saga 对标**：咨询推荐通道：样机→技术档案→随荐 quotation
-- **⑤在乎与偏好**：NDA 级客户隐私、技术格物精神
+- **①背景再核**：波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：德国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“IT consulting, IT services and support with a focus on high-availability network solutions — worldwide, remote and on-site, 24×7. Specialised in MikroTik and RouterOS”
-  > “IT consulting, IT services and support with a focus on high-availability network solutions — worldwide, remote and on-site, 24×7. Specialised in MikroTik and RouterOS”
-  > 来源：https://www.kehrlein.de/en/
-- **【技术与认证】**“Official MikroTik Consultant · Since 2007 / MTCNA·MTCRE·MTCWE·MTCTCE·MTCUME·MTCINE·MTCIPv6E·MTCSE·MTCSWE·MTCEWE”
-  > “Official MikroTik Consultant · Since 2007 / MTCNA·MTCRE·MTCWE·MTCTCE·MTCUME·MTCINE·MTCIPv6E·MTCSE·MTCSWE·MTCEWE”
-  > 来源：https://www.kehrlein.de/en/
-- **【决策链与对接人】**“KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
-  > “KEHRLEIN CONSULTING Sandro Kehrlein info@kehrlein.de / Perlacher Straße 40, D-81539 Munich…Sonnenhang 1, D-97437 Haßfurt”；MX=mx08.kehrlein.net（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.kehrlein.de/en/
+- **【联系方式与基础画像】**Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CA
+  > Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CA
+  > 来源：https://kehrlein.de/
+- **【联系方式与基础画像】**CSV 入口:+49 89 69387111 / info@kehrlein.de
+  > CSV 入口:+49 89 69387111 / info@kehrlein.de
+  > 来源：https://kehrlein.de/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：慕尼黑+Haßfurt 双址高端网络咨询（HA/BGP/MLAG 级）+IT 管理/SAFe 培训双轨
-- **产品线与在售品牌**：不卖硬件；项目式推荐
-- **目标行业与场景**：中大型企业 HA 网络/全球远程+现场 24×7
-- **团队与规模**：个人（15+ 年管理经验；监事/顾问级）
-- **决策链与对接人**：Sandro Kehrlein 本人
-- **技术与认证**：官方 MikroTik 顾问 2007 起；10 证全谱；SAFe ASPC 培训师
-- **采购与供应链信号**：项目制推荐、POC 文化
-- **近期动态与线索**：SAFe ASPC 高阶认证（德企管理咨询稀缺位）
-- **与我方契合点**：咨询顾问型推荐通道；实验室样机；技术信服先行
-- **风险与注意**：“References on request”NDA 级客户——不得打探其客户名单；高逼格技术对话
+- **业务定位**：波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCRE 等
+- **目标行业与场景**：德国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：德国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +176,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全证稀缺+管理线
-- **W**：个人带宽
-- **O**：HA 咨询稀缺
-- **T**：大厂咨询
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -210,9 +207,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 其客户项目接入层现用品牌
-  - [ ] 随荐佣金/模式接受度
-  - [ ] 样机评测兴趣
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,18 +220,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Sandro,
+Dear Kehrlein（MikroTik 认证顾问） Team,
 
-I found your profile - MikroTik consultant since 2007, full certification ladder including MTCSWE, and the HA/MLAG focus at kehrlein.de.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W) with 4×10G SFP+ uplinks, VRRP-ready L2+ feature set and a hardware PoE watchdog. I would rather send one evaluation unit plus the full technical dossier than pitch you on paper. Reference: $180 USD EXW.
-
-One question: do your client projects ever need a fresh candidate for the PoE access layer?
-
-If useful, I ship one unit for your lab - evaluate it, break it, keep the data. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

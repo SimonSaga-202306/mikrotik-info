@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活
-- 【推断】站点异常≠公司异常（MX 活+CSV 信号在），但网页内容不可得——公开信息仅余名录级，同名印度 SAP 商/迪拜打印商干扰须排除
-- 【假设】以信号核实型破冰：确认 Allied Telesis 信号场景与实体身份，再定深推与否
+- 【事实】波 27·A-121:美国谱: **守档准由·原 R56 谱基增厚**:Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：美国 IT 商；站点异常+MX 存活（如实）
-- **②芯片/型号**：Allied 信号（CSV）
-- **③KP 深挖**：support@
-- **④Saga 对标**：核实后再判
-- **⑤在乎与偏好**：—
+- **①背景再核**：波 27·A-121:美国谱: **守档准由·原 R56 谱基增厚**:Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**CSV 载 Allied Telesis（Marvell Prestera 接入层）；站点 HTTP 500×2 抓取异常（如实标注）
-  > CSV 载 Allied Telesis（Marvell Prestera 接入层）；站点 HTTP 500×2 抓取异常（如实标注）
+- **【联系方式与基础画像】**Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活
+  > Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活
+  > 来源：https://nexwaretechnologies.com/
+- **【联系方式与基础画像】**CSV 入口:support@nexwaretechnologies.com [Publicly listed; delivery not tested]; https://nexwaretechnologies.com
+  > CSV 入口:support@nexwaretechnologies.com [Publicly listed; delivery not tested]; https://nexwaretechnologies.com
   > 来源：https://nexwaretechnologies.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 IT 商（CSV；网页不可得）
-- **产品线与在售品牌**：Allied 信号（CSV）
-- **目标行业与场景**：待核
-- **团队与规模**：待核
-- **决策链与对接人**：support@ 口
-- **技术与认证**：待核
-- **采购与供应链信号**：待核
-- **近期动态与线索**：站点 500 异常
-- **与我方契合点**：信号核实后再判
-- **风险与注意**：站点异常+同名干扰
+- **业务定位**：波 27·A-121:美国谱: **守档准由·原 R56 谱基增厚**:Nexware Technologies（美国，CSV 载 Allied Telesis 信号）：官网 nexwaretechnologies.com 两次抓取 HTTP 500 异常；CSV 具 support@nexwaretechnologies.com；域 MX=Google Workspace 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：美国 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +177,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：信号
-- **W**：异常
-- **O**：核实
-- **T**：薄
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -205,9 +208,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 实体身份
-  - [ ] 信号场景
-  - [ ] 真实 fit
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +221,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Nexware team,
+Dear Nexware Technologies Team,
 
-A quick note rather than a long pitch: we came across Nexware in connection with Allied Telesis networking gear, and wanted to ask one question.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build PoE access switches (8-port compact to 24-port 280W, 802.3af/at) - the value alternative for access closets. Compact model reference: $99 USD EXW.
-
-One question: is switching hardware part of what Nexware deploys for clients today?
-
-If yes, happy to send a spec page. If not relevant, one line and I will close the loop politely.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

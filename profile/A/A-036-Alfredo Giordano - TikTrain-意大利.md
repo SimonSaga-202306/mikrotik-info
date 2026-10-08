@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材
-- 【推断】双栈培训平台罕见：同时教 MikroTik 与 Ubiquiti——对“第三家硬件”无心理门槛
-- 【假设】数百张网络部署背景（自述 hundreds of networks）= 教具+工程推荐双通道
+- 【事实】波 26·A-036:意大利谱: **守档准由·原 R56 谱基增厚**:TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,35 +134,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：2000 年起的双栈（MikroTik+Ubiquiti）培训团体，自述数百网络部署
-- **②芯片/型号**：教具两家谱系
-- **③KP 深挖**：Giordano 直达
-- **④Saga 对标**：双栈课程通用 8 口 PoE 实验架
-- **⑤在乎与偏好**：双栈中立文化
+- **①背景再核**：波 26·A-036:意大利谱: **守档准由·原 R56 谱基增厚**:TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“We are a group of professionals working with in telecommunications from 2000. After deploying high value solutions over hundreds of networks…MTCNA, MTCRE, MTCWE, MTCEWE, MTCTCE, MTCIPv6E, MTCUME, MTCSWE, MTCSE, and MTCINE / UBWA, UEWA, UBRSS, UBWS, UBRSA”
-  > “We are a group of professionals working with in telecommunications from 2000. After deploying high value solutions over hundreds of networks…MTCNA, MTCRE, MTCWE, MTCEWE, MTCTCE, MTCIPv6E, MTCUME, MTCSWE, MTCSE, and MTCINE / UBWA, UEWA, UBRSS, UBWS, UBRSA”
+- **【联系方式与基础画像】**TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材
+  > TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材
   > 来源：https://tiktrain.com/
-- **【联系方式】**alfredo@tiktrain.com（CSV）；MX=mail.tiktrain.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > alfredo@tiktrain.com（CSV）；MX=mail.tiktrain.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://tiktrain.com/contact/
+- **【联系方式与基础画像】**CSV 入口:+39 347 312 5813 / alfredo@tiktrain.com
+  > CSV 入口:+39 347 312 5813 / alfredo@tiktrain.com
+  > 来源：https://tiktrain.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：MikroTik+Ubiquiti 双栈官方培训平台（2000 年起）
-- **产品线与在售品牌**：MTCNA→MTCINE 十证；UBWA/UEWA/UBRSS/UBWS/UBRSA 五证
-- **目标行业与场景**：工程师认证培训（多语言教材）
-- **团队与规模**：培训师团体
-- **决策链与对接人**：Alfredo Giordano（三证 Trainer）
-- **技术与认证**：MTCNA+MTCRE+MTCTCE（个人）
-- **采购与供应链信号**：双栈教具采购
-- **近期动态与线索**：全谱课程在售
-- **与我方契合点**：教具实验架；双栈文化对第三硬件开放
-- **风险与注意**：师者红线：真实报价；别碰其既有渠道利益
+- **业务定位**：波 26·A-036:意大利谱: **守档准由·原 R56 谱基增厚**:TikTrain（Alfredo Giordano，MTCNA+MTCRE+MTCTCE）：2000 年起从业的培训师团体，MikroTik 十证全课程（含 MTCSWE）+Ubiquiti 五证全课程（UBWA/UEWA/UBRSS/UBWS/UBRSA）双栈培训，多语言教材;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE
+- **目标行业与场景**：意大利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +177,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双栈中立
-- **W**：团体松散
-- **O**：交换课窗口
-- **T**：官配教具
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -208,9 +208,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具现用设备
-  - [ ] 课程表 PoE 相关课
-  - [ ] 学员推荐位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +221,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Alfredo,
+Dear Alfredo Giordano Team,
 
-TikTrain is rare: the full MikroTik ladder AND the full Ubiquiti ladder under one roof since 2000.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch that serves both worlds on the training bench (802.3af/at, L2 features, watchdog). Reference: $99 USD EXW.
-
-One question: which of your courses actually put PoE-powered devices on the lab bench?
-
-If useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

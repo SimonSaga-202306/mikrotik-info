@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/…
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,12 +44,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/Helpdesk/Managed IT/Backup/**VoIP Solutions**/Virtualization/Cloud/Rem | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 自我标榜 MikroTik 专家站（RouterBOARD/CRS 语境），MSP 多技术栈。VoIP 方案在售=**Voice VLAN+QoS 是他的交付日常**——Saga L2+ 系独占 Voice VLAN（L3 系没有，推介不可张冠李戴）。出货量：未公开。客户反馈：站无案例区。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-009:加拿大谱: **具名金谱·原批引真**:MohammadMahdi Raeesi / Commander IT(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-自我标榜 MikroTik 专家站（RouterBOARD/CRS 语境），MSP 多技术栈。VoIP 方案在售=**Voice VLAN+QoS 是他的交付日常**——Saga L2+ 系独占 Voice VLAN（L3 系没有，推介不可张冠李戴）。出货量：未公开。客户反馈：站无案例区。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -60,7 +65,7 @@ updated: 2026-09-28
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- **Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/Helpdesk/Managed IT/Backup/**VoIP Solutions**/Virtualization/Cloud/Remote Work，口号「Expert MikroTik solutions」。© 2019 起运营；2024 年做了一波 AI 生成 logo 的品牌刷新。营业 7 天 9–18=个体户节奏。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -135,29 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Commander IT**（commanderit.ca），Richmond Hill/Markham（大多伦多），MSP 个体/微团队：服务线 Network Management/Remote Support/Helpdesk/Managed IT/Backup/**VoIP Solutions**/Virtualization/Cloud/Remote Work，口号「Expert MikroTik solutions」。© 2019 起运营；2024 年做了一波 AI 生成 logo 的品牌刷新。营业 7 天 9–18=个体户节奏。
-- **芯片与在用型号**：自我标榜 MikroTik 专家站（RouterBOARD/CRS 语境），MSP 多技术栈。VoIP 方案在售=**Voice VLAN+QoS 是他的交付日常**——Saga L2+ 系独占 Voice VLAN（L3 系没有，推介不可张冠李戴）。出货量：未公开。客户反馈：站无案例区。
-- **关键人KP**：**MohammadMahdi（Mahdi）Raeesi**：LinkedIn 档案「MikroTik consultant @ wirelessnetware」（Richmond Hill，173 连接，MTCNA 1311NA033 2013–2016 已过期，Payam Noor 大学）——**与 A-010 Wireless Netware 有供职交集（知悉备查，沟通不刺探）**。联系：**admin@commanderit.ca**（官网公开）+ 647-562-2246；模式猜测 **mahdi@commanderit.ca**（未验证；commanderit.ca MX=A 记录同主机自托管，小站自建邮服，投递信誉一般——首封进垃圾箱概率高，电话跟进必要性大）。
-- **关注点与资质**：①VoIP+数据并网（SMB 一线多用）——Voice VLAN 话术正中；②7×9-18 营业=响应型客户画像，也提示他看手机=fallback 电话有效；③品牌意识刚起步（AI logo）=对 OEM 贴牌/自定义 branding 接受度高（Saga 定制 branding 条款可对）。参展未见；LinkedIn 个人页更新少。
-- **优缺点SWOT**：**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。
-- **Saga产品适配**：首梯 **STC-424XGGPM-280W**（24口 PoE af/at，**EXW $180**；Voice VLAN LLDP-MED 一次划齐电话+PC）+ 小客户 **STC-28DGGPM**（EXW $99）。卖点话术：「Voice VLAN 即插电话、按 OUI 自动划语音 VLAN」附 L2+ 特性表行（Voice VLAN Specially divide VLAN … ☑️）。定制 branding 可谈（他自己刚做品牌升级）。⚠️ VoIP 的 AT 30W 话机足够，bt 无涉；报价 15 天有效。
+- **①背景再核**：波 26·A-009:加拿大谱: **具名金谱·原批引真**:MohammadMahdi Raeesi / Commander IT(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**MohammadMahdi（Mahdi）Raeesi(业主/MikroTik 顾问（前 wirelessnetware 供职记录）,官网公开邮箱+电话；姓名-公司关联经 LinkedIn 核验);—（模式猜测）(—,模式猜测 · 未验证（自托管邮服，建议电话先行）)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【定位】**MikroTik 专家型 MSP，多行业服务。
-  > Expert MikroTik solutions for seamless connectivity. Specializing in robust networks, data security, and services for diverse industries.
+- **【联系方式与基础画像】**MohammadMahdi Raeesi / Commander IT(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > MohammadMahdi Raeesi / Commander IT(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://commanderit.ca/
-- **【服务线】**菜单含 VoIP Solutions（Voice VLAN 场景锚点）。
-  > Services - Network Management - Remote Support - Helpdesk Services - Managed IT Support - Data Backup Strategies - VoIP Solutions - Virtualization - Cloud Services - Remote Work Solutions
+- **【联系方式与基础画像】**CSV 入口:647 562 2246 / admin@commanderit.ca
+  > CSV 入口:647 562 2246 / admin@commanderit.ca
   > 来源：https://commanderit.ca/
-- **【通道】**7 天 9–18 营业，admin@ 与电话公开。
-  > Richmnd Hill, Markham … +1 (647) 562-2246 … 7 days a week from 9:00 am to 6:00 pm … admin@commanderit.ca … © 2019 CommanderIT
-  > 来源：https://commanderit.ca/
-- **【KP 身份】**Mahdi Raeesi LinkedIn：MikroTik consultant（Richmond Hill），MTCNA 1311NA033。
-  > Mahdi Raeesi - Mikrotik consultant - wirelessnetware … Location: Richmond Hill … MTCNA Mikrotik Issued Nov 2013 Expires Nov 2016 Credential ID 1311NA033
-  > 来源：https://www.linkedin.com/in/mahdi-raeesi-4195173b/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-009:加拿大谱: **具名金谱·原批引真**:MohammadMahdi Raeesi / Commander IT(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE
+- **目标行业与场景**：加拿大 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**MohammadMahdi（Mahdi）Raeesi(业主/MikroTik 顾问（前 wirelessnetware 供职记录）,官网公开邮箱+电话；姓名-公司关联经 LinkedIn 核验);—（模式猜测）(—,模式猜测 · 未验证（自托管邮服，建议电话先行）)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -172,7 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：一人决策；MikroTik 语境母语者（教学成本低）；VoIP 服务线=PoE/Voice VLAN 刚需入口；7 天在线。**W**：个体体量、邮服自托管（送达技术风险）、证书陈旧（MTCNA 2016 过期）=技术栈可能停在小路由层。**O**：GTA 海量 SMB 转 VoIP/云办公后改造潮；他以 Wireless Netware 旧供职关系有 MikroTik 货源—我们给的是**差异化第二货源**（工业线/白牌），非正面冲突。**T**：个体 MSP 平均寿命短；价格驱动强、忠诚度弱。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -199,6 +213,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -206,21 +224,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi MohammadMahdi,
+Dear MohammadMahdi（Mahdi）Raeesi Team,
 
-I came across Commander IT - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

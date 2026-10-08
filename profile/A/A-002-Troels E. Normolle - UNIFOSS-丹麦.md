@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN …
+- **是谁**：一人公司（TEN INVEST ApS 100% 控股壳）；订阅制 NaaS（375 DKK/月起租网+29 更新+49 维保）
 - **商业模式**：订阅制 NaaS（375 DKK/月起租网+29 更新+49 维保）
 - **为什么值得跟**：有明确交换/供电需求（酒店/多住户、工业/楼宇），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 租约盒主打少上门+低至 $99 即 2 个月租金回本；学校/仓储 24 口升档在第 2 步再谈；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,13 +44,18 @@ updated: 2026-09-28
 | 商业模式 | 订阅制 NaaS（375 DKK/月起租网+29 更新+49 维保） | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | **UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN INVEST ApS 控股，任两公司董事（2013-10 起）。公开设计外包档案自述「**one-person business**」。盈利 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 站点未列明设备品牌（服务化包装，硬件被租约遮蔽）；三个案例的容量/骨干/MESH 描述指向 MikroTik 或同级 PoE 交换+无线。出货量：未公开——可用租约客户数×每点 1–3 台 PoE 交换估算隐性吞量。客户反馈：三段案例引用（Lars Maretti、Nørgaards、Christian Andersen 口径均正面）。 | 事实+【推断】混合，见证据摘录 |
 | 批注 | 酒店只是 3 个案例之一且无 IPTV 证据；主推位=租约盒 8 口 PoE，不是 24 口酒店机 | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-002:丹麦谱: **具名金谱·原批引真**:Troels E. Normolle / UNIFOSS(丹麦);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-站点未列明设备品牌（服务化包装，硬件被租约遮蔽）；三个案例的容量/骨干/MESH 描述指向 MikroTik 或同级 PoE 交换+无线。出货量：未公开——可用租约客户数×每点 1–3 台 PoE 交换估算隐性吞量。客户反馈：三段案例引用（Lars Maretti、Nørgaards、Christian Andersen 口径均正面）。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -63,7 +68,7 @@ updated: 2026-09-28
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- **UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN INVEST ApS 控股，任两公司董事（2013-10 起）。公开设计外包档案自述「**one-person business**」。盈利侧：ownr.dk 载 UNIFOSS ApS 2024-25 净利 **506k DKK**、权益 475k DKK——一人公司做到 50 万丹麦克朗净利，现金流健康。模式=**设备租赁/订阅制网络运营商**：包月（375 起）含设备+更新（29/月）+维保（49/月）。案例：Erhvervshuset Midtjylland（2 万㎡仓储）、Nørgaards Højskole（骨干替换）、Kongensbro Kro（1648 年老旅馆 MESH）。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -141,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**UNIFOSS ApS**（CVR **DK-35517111**），丹麦 Lemming（Østerbyvej 35, 8632），业主 **Troels Elkjær Nørmølle** 100% 经 TEN INVEST ApS 控股，任两公司董事（2013-10 起）。公开设计外包档案自述「**one-person business**」。盈利侧：ownr.dk 载 UNIFOSS ApS 2024-25 净利 **506k DKK**、权益 475k DKK——一人公司做到 50 万丹麦克朗净利，现金流健康。模式=**设备租赁/订阅制网络运营商**：包月（375 起）含设备+更新（29/月）+维保（49/月）。案例：Erhvervshuset Midtjylland（2 万㎡仓储）、Nørgaards Højskole（骨干替换）、Kongensbro Kro（1648 年老旅馆 MESH）。
-- **芯片与在用型号**：站点未列明设备品牌（服务化包装，硬件被租约遮蔽）；三个案例的容量/骨干/MESH 描述指向 MikroTik 或同级 PoE 交换+无线。出货量：未公开——可用租约客户数×每点 1–3 台 PoE 交换估算隐性吞量。客户反馈：三段案例引用（Lars Maretti、Nørgaards、Christian Andersen 口径均正面）。
-- **关键人KP**：**Troels Elkjær Nørmølle**（拼写以登记为准：Nørmølle；CSV 作 Normolle）=唯一决策人。邮箱 **troels@unifoss.com**（既有）+ **info@unifoss.com**（官网页脚公开）+ 电话 +45 2279 1234。ownr 公开档案挂 LinkedIn/Facebook/Twitter 入口。MX 已验 Google Workspace。
-- **关注点与资质**：①**长期主义**：案例话术全是「langtidsholdbar / fremtidssikrer」——设备寿命与保修年限是他对客户的承诺点（Saga 工业 3 年保可直接对上）；②可扩容/可服务性（skalerbart）；③服务协议定价成熟（SaaS 式收费，硬件成本敏感度中等——设备越便宜租约毛利越高）；④未参展痕迹，获客靠电工转介（Birger Brødløs 案例）与口碑。
-- **优缺点SWOT**：**S**：一人决策零链条、净利健康、三个可引用案例覆盖仓储/教育/酒店、订阅模式锁客。**W**：一人=单点故障与带宽上限；无技术团队页；品牌能见度低（2020 年才做品牌重塑）。**O**：租约毛利模型下，设备降本直接增厚利润——Saga 8口 PoE EXW $99 对欧洲同级半价的吸引力直接；骨干替换案例证明他做大单。**T**：若 MikroTik/UniFi 给他体系内优惠价，第二供应商说服成本上升；一人公司采购节奏慢。
-- **Saga产品适配**：租约盒首选 **STC-28DGGPM**（8口 PoE af/at 240W，**EXW $99**，DC 输入随附电源）；学校/仓储骨干替换对标他 Nørgaards 案例 → **STC-424XGGM**（4×10G+24GE，**EXW $143**）；旅馆 MESH 前端 PoE → **STC-48DGGPM-U**（**EXW $115.5**）。卖点对齐：「设备寿命=3 年保（工业线）/1 年（商用）+ 一次性买断，租约期内零品牌溢价」。报价 EXW 15 天有效。
+- **①背景再核**：波 26·A-002:丹麦谱: **具名金谱·原批引真**:Troels E. Normolle / UNIFOSS(丹麦);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Troels Elkjær Nørmølle(业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%）,邮箱官网+CSV 双源；MX 已验);—（社媒入口）(业主本人社媒,入口已见，URL 未逐一展开（点击需登录）)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：丹麦 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【法定信息】**UNIFOSS ApS，CVR DK-35517111，Østerbyvej 35, 8632 Lemming，info@unifoss.com。
-  > UNIFOSS ApS … Adresse: Østerbyvej 35, 8632 Lemming … CVR: DK-35517111
-  > 来源：http://www.unifoss.com/
-- **【股权与盈利】**Troels 100% 控股（TEN INVEST ApS），2024-25 净利 506k DKK。
-  > TEN INVEST ApS Ejerandel: 100% … Det bedste regnskab i 2024-25 var et overskud på 506' DKK (UNIFOSS ApS).
-  > 来源：https://ownr.dk/users/public-profile/4000636356
-- **【一人公司】**品牌重塑供应商档案确认一人公司形态。
-  > Unifoss is one-person business owned and founded by Troels E. Nørmølle.
-  > 来源：https://www.victoriataulbaek.dk/kopi-af-airshoot
-- **【商业模式】**设备打包进月租（375 起）+更新/维保订阅。
-  > Lej en komplet netværksløsning – inklusiv internet. … Fra 375,- / md.
+- **【联系方式与基础画像】**Troels E. Normolle / UNIFOSS(丹麦);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Troels E. Normolle / UNIFOSS(丹麦);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://unifoss.com/
-- **【骨干替换能力】**Nørgaards Højskole 案例=整网骨干替换，大单能力证据。
-  > Udskiftning af rygraden i netværket for at håndtere den massive datamængde.
+- **【联系方式与基础画像】**CSV 入口:+45 2279 1234 / troels@unifoss.com
+  > CSV 入口:+45 2279 1234 / troels@unifoss.com
   > 来源：https://unifoss.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-002:丹麦谱: **具名金谱·原批引真**:Troels E. Normolle / UNIFOSS(丹麦);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE
+- **目标行业与场景**：丹麦 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：丹麦谱·具名决策档
+- **决策链与对接人**：**Troels Elkjær Nørmølle(业主/执行董事（TEN INVEST ApS→UNIFOSS ApS 100%）,邮箱官网+CSV 双源；MX 已验);—（社媒入口）(业主本人社媒,入口已见，URL 未逐一展开（点击需登录）)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,7 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：一人决策零链条、净利健康、三个可引用案例覆盖仓储/教育/酒店、订阅模式锁客。**W**：一人=单点故障与带宽上限；无技术团队页；品牌能见度低（2020 年才做品牌重塑）。**O**：租约毛利模型下，设备降本直接增厚利润——Saga 8口 PoE EXW $99 对欧洲同级半价的吸引力直接；骨干替换案例证明他做大单。**T**：若 MikroTik/UniFi 给他体系内优惠价，第二供应商说服成本上升；一人公司采购节奏慢。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -207,6 +218,10 @@ updated: 2026-09-28
 | 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
 ## Unknowns（待问清单 · 首触后逐项消除）
+
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算

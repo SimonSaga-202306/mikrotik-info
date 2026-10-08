@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误
-- 【推断】自用型 ISP+培训双轨：其网内 CPE/AP/POP 长期换件；魔：但也接诊包月用户批评（owner 缺位差评如实登记）
-- 【假设】捷克区域小 ISP 的 POP/CPE 接入盒是常换常购品
+- 【事实】波 26·A-043:捷克谱: **守档准由·原 R56 谱基增厚**:Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,38 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Olomouc 个人 ISP+培训；MUM 2012 HA 讲师；firmy.cz 评价两极
-- **②芯片/型号**：自有网 MikroTik
-- **③KP 深挖**：本人双电话不一致（CSV vs 工商），以手机为准
-- **④Saga 对标**：POP/CPE 8 口盒常换购
-- **⑤在乎与偏好**：极简报价省时
+- **①背景再核**：波 26·A-043:捷克谱: **守档准由·原 R56 谱基增厚**:Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：捷克 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Poskytuji připojení k internetu. Provádím návrhy a správy sítí.”+评价“Pan Pina patří mezi nejlepší síťaře, školí MikroTiky”
-  > “Poskytuji připojení k internetu. Provádím návrhy a správy sítí.”+评价“Pan Pina patří mezi nejlepší síťaře, školí MikroTiky”
-  > 来源：https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html
-- **【技术与认证】**“High availability network services using MikroTik RouterOS by Martin Pina (hanacke.net, Czech Republic)” MUM PL12
-  > “High availability network services using MikroTik RouterOS by Martin Pina (hanacke.net, Czech Republic)” MUM PL12
-  > 来源：https://mum.mikrotik.com/presentations/PL12/PL12.pdf
-- **【联系方式】**firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
-  > firmy.cz：+420 733 113 050 / martin.pina@hanacke.net；MX=holubnik.hanacke.net（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html
+- **【联系方式与基础画像】**Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availab
+  > Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availab
+  > 来源：https://hanacke.net/
+- **【联系方式与基础画像】**CSV 入口:+420 732 712 317 / martin.pina@hanacke.net
+  > CSV 入口:+420 732 712 317 / martin.pina@hanacke.net
+  > 来源：https://hanacke.net/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Olomouc 区域 ISP 运营+网设/网管+MikroTik 培训
-- **产品线与在售品牌**：自用运营网络
-- **目标行业与场景**：区域住户互联网+企业网设计
-- **团队与规模**：个人运营
-- **决策链与对接人**：Pína 本人
-- **技术与认证**：MTCNA/MTCINE/MTCIPv6E/MTCSE/MTCSWE；MUM Prague 2012 HA 演讲
-- **采购与供应链信号**：自用网络常换件
-- **近期动态与线索**：站点 500；firmy.cz 评价两极（如实登记）
-- **与我方契合点**：POP/CPE 接入盒常换购
-- **风险与注意**：客服缺位差评=其交付带宽紧张，报价要极简
+- **业务定位**：波 26·A-043:捷克谱: **守档准由·原 R56 谱基增厚**:Martin Pína（Olomouc）：hanacke.net 区域 ISP 运营+网络设计管理+MikroTik 培训（firmy.cz 在册评价“školí MikroTiky, jeho síť je příkladem pro ostatní”）；2012 MUM Prague 主讲“High availability network services using MikroTik RouterOS”；hanacke.net 当前 500 错误;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCINE+MTCIPv6E+MTCSE+MTCSWE
+- **目标行业与场景**：捷克 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：捷克谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：样板网
-- **W**：客服带宽
-- **O**：常量换件
-- **T**：不读长信
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -216,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网内接入盒现用
-  - [ ] 换件节奏
-  - [ ] 教具现况
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Martin,
+Dear Martin Pina Team,
 
-I found you through the MikroTik consultant list - and your MUM talk on high-availability services is still on the playlist.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch with a hardware watchdog (reboots a hung AP/CPE without a site visit). Reference: $99 USD EXW.
-
-One question: which switch model sits in your POP cabinets today?
-
-Short answer is enough. If useful, I ship one evaluation unit; if not, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

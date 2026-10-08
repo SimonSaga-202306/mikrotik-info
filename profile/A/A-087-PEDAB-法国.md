@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线
-- 【推断】大型生态分销=我们的对白是“value 档位上架”，须有文档与稳定供体系
-- 【假设】Perle 线意味工业 PoE 类目已开通；并架说辞成立
+- 【事实】波 27·A-087:法国谱: **守档准由·原 R56 谱基增厚**:PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,35 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Pedab 集团法国区大 VAD；Perle 线在册
-- **②芯片/型号**：Perle
-- **③KP 深挖**：Berthon GM 具名
-- **④Saga 对标**：value 档工业 PoE 并架
-- **⑤在乎与偏好**：准入文档+集团流程
+- **①背景再核**：波 27·A-087:法国谱: **守档准由·原 R56 谱基增厚**:PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：法国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Pedab orchestrateur d’écosystème et distributeur de confiance”
-  > “Pedab orchestrateur d’écosystème et distributeur de confiance”
-  > 来源：https://www.pedab.fr/
-- **【联系方式】**commercial@pedab.fr；Christine Berthon 法国区总经理（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > commercial@pedab.fr；Christine Berthon 法国区总经理（CSV）；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.pedab.fr/
+- **【联系方式与基础画像】**PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线
+  > PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
+- **【联系方式与基础画像】**CSV 入口:commercial@pedab.fr（具名：Christine Berthon（法国区总经理）christine.berthon@pedab.fr；Thibaut Perié（网络销售）thibaut.perie@pedab.fr）
+  > CSV 入口:commercial@pedab.fr（具名：Christine Berthon（法国区总经理）christine.berthon@pedab.fr；Thibaut Perié（网络销售）thibaut.perie@pedab.fr）
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国大型生态分销（Pedab 集团法国区）
-- **产品线与在售品牌**：全 IT 生态+Perle 工业线
-- **目标行业与场景**：企业/零售渠道
-- **团队与规模**：集团级
-- **决策链与对接人**：Berthon（法国 GM）commercial@
-- **技术与认证**：集团 VAD 体系
-- **采购与供应链信号**：集团采购入库
-- **近期动态与线索**：法国站常态化
-- **与我方契合点**：工业 PoE value 档位上架
-- **风险与注意**：大集团准入文件严谨
+- **业务定位**：波 27·A-087:法国谱: **守档准由·原 R56 谱基增厚**:PEDAB France（Pedab 集团）：北欧-法双覆盖大型分销商；“orchestrateur d’écosystème et distributeur de confiance”；Christine Berthon（法国区总经理）具名；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网）
+- **目标行业与场景**：法国 谱;分销/集成商（Perle 授权）
+- **团队与规模**：法国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：覆盖
-- **W**：长准入
-- **O**：并架
-- **T**：正面
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 法国区独立采力度
-  - [ ] 准入清单
-  - [ ] 阶梯
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Christine,
+Dear PEDAB Team,
 
-Pedab’s ecosystem-orchestrator role in France makes you the natural stop for a new industrial PoE line at a value price point.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial managed PoE switches rated -40 to 75C with watchdog and full documentation packs - next to, not against, the industrial lines you carry. Reference: $74.8 USD EXW.
-
-One question: within your French catalog, is there an open slot for a value industrial PoE switch line?
-
-If useful, I can send the full onboarding documentation pack and a unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

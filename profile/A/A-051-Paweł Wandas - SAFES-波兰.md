@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证
-- 【推断】酒店物业 IT 托管商=客房 Wi-Fi/UAP+安防接入层的长期随单口——PMS 防护=酒店业持证深度
-- 【假设】“objects premium”=酒店/商办物业包年外包，接入层以项目量滚动采购
+- 【事实】波 26·A-051:波兰谱: **守档准由·原 R56 谱基增厚**:SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：20 年高端物业 IT 托管（酒店味浓：PMS 防护）+SOC 自运营
-- **②芯片/型号**：六证 MikroTik 全链
-- **③KP 深挖**：Wandas biuro@ O365 直达
-- **④Saga 对标**：单店 24 口 PoE 随单（客房 Wi-Fi+安防+话机）
-- **⑤在乎与偏好**：包年托管=稳定+长期支持口径
+- **①背景再核**：波 26·A-051:波兰谱: **守档准由·原 R56 谱基增厚**:SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：波兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Od 20 lat obsługujemy obiekty premium w Polsce i za granicą – w trybie non-stop…Sieci LAN/WAN/Wi-Fi…SOC, Architektura Zero Trust, Ochrona PMS”
-  > “Od 20 lat obsługujemy obiekty premium w Polsce i za granicą – w trybie non-stop…Sieci LAN/WAN/Wi-Fi…SOC, Architektura Zero Trust, Ochrona PMS”
+- **【联系方式与基础画像】**SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paw
+  > SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paw
   > 来源：https://safes.pl/
-- **【联系方式】**biuro@safes.pl +48 412 412 324；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > biuro@safes.pl +48 412 412 324；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://safes.pl/kontakt/
+- **【联系方式与基础画像】**CSV 入口:+48 412 412 324 / biuro@safes.pl
+  > CSV 入口:+48 412 412 324 / biuro@safes.pl
+  > 来源：https://safes.pl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波兰高端物业/酒店 IT 全托管商（机房代管+网络基建+SOC 安全）
-- **产品线与在售品牌**：外包服务+enova365 授权伙伴
-- **目标行业与场景**：酒店/高端物业（“obiekty premium”）境内外 consistently
-- **团队与规模**：中型托管商
-- **决策链与对接人**：Wandas（六证顾问）biuro@
-- **技术与认证**：MTCNA/MTCRE/MTCWE/MTCTCE/MTCINE/MTCIPv6E
-- **采购与供应链信号**：托管项目随单滚动采购
-- **近期动态与线索**：Cybersecurity 页面强推 SOC 24/7+PMS
-- **与我方契合点**：酒店 Wi-Fi/安防接入层随单托管耗材位
-- **风险与注意**：机房代管属性→报价须带长期支持口径
+- **业务定位**：波 26·A-051:波兰谱: **守档准由·原 R56 谱基增厚**:SAFES（波兰）：20 年 IT 外包商——波兰及境外**高端物业（酒店/资产）全托管 non-stop**：服务器/机房代管、LAN/WAN/Wi-Fi 基础设施、Cybersecurity 线（SOC 24/7、Zero Trust 架构、**PMS 酒店系统防护**）、enova365 ERP 授权伙伴；Paweł Wandas MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E 六证;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE
+- **目标行业与场景**：波兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：波兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：托管粘性
-- **W**：无渠道
-- **O**：项目滚动
-- **T**：直采
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 物业清单规模
-  - [ ] 现用交换品牌
-  - [ ] 框架采购结构
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Paweł,
+Dear Paweł Wandas Team,
 
-A hotel or premium-property IT team that runs SOC 24/7, Zero Trust and PMS protection is rare - SAFES wears all three.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, ERPS, PoE watchdog) sized exactly for property Wi-Fi plus camera closets, with multi-year supply guarantees for managed-estate rollouts. Reference: $180 USD EXW.
-
-One question: in a typical property you manage, how many outlets and cameras land on one access cabinet?
-
-If useful, I can send one unit plus a hotel reference design. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

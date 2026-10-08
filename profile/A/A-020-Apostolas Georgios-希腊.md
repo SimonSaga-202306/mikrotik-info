@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**ΑΠΟΣΤΟΛΑΣ（Apostolas）**，希腊罗德岛（Καναδά 28, Ρόδος 85100），**1995 年创立、30+ 年本地老店**。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长、酒店/多住户），且有具体人直联
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 主场景匹配+首触只推一个型号的纪律；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **ΑΠΟΣΤΟΛΑΣ（Apostolas）**，希腊罗德岛（Καναδά 28, Ρόδος 85100），**1995 年创立、30+ 年本地老店**。四合一 360° 业务：①**收银系统/POS**（认证机型+**myDATA 希腊电子发票合规对接**）与餐饮无线点餐；②**网络工程**（光纤/WiFi/结构化布线设计施工维保）；③网站/eshop/ | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/话机/POS 的常态场景）；网络工程线=光纤到楼+结构化布线（机房交换是其工单内件）。ERP/reseller 逻辑=他天生理解分销梯价。出货量：未公开（罗德+多德卡尼斯群岛酒店密度=稳定消耗）。客户反馈：无公开评分面（口碑靠 30 年岛域存续）。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-020:希腊谱: **具名金谱·原批引真**:Apostolas Georgios(希腊);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/话机/POS 的常态场景）；网络工程线=光纤到楼+结构化布线（机房交换是其工单内件）。ERP/reseller 逻辑=他天生理解分销梯价。出货量：未公开（罗德+多德卡尼斯群岛酒店密度=稳定消耗）。客户反馈：无公开评分面（口碑靠 30 年岛域存续）。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -134,32 +139,35 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**ΑΠΟΣΤΟΛΑΣ（Apostolas）**，希腊罗德岛（Καναδά 28, Ρόδος 85100），**1995 年创立、30+ 年本地老店**。四合一 360° 业务：①**收银系统/POS**（认证机型+**myDATA 希腊电子发票合规对接**）与餐饮无线点餐；②**网络工程**（光纤/WiFi/结构化布线设计施工维保）；③网站/eshop/SEO；④**Business Cloud ERP** 分销（库存/销售/myDATA 一体化）。自我定位「Δίπλα σας, από το 1995」（自 1995 年在您身边）+多德卡尼斯群岛 25+ 年 support 经验。Georgios Apostolas 推定业主（george@ + MikroTik MTCNA+MTCRE 双证）。
-- **芯片与在用型号**：POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/话机/POS 的常态场景）；网络工程线=光纤到楼+结构化布线（机房交换是其工单内件）。ERP/reseller 逻辑=他天生理解分销梯价。出货量：未公开（罗德+多德卡尼斯群岛酒店密度=稳定消耗）。客户反馈：无公开评分面（口碑靠 30 年岛域存续）。
-- **关键人KP**：**Georgios Apostolas（推定业主/双证工程师）**。邮箱 **george@apostolas.gr**（CSV 既有个人姓）+ **info@apostolas.gr**（官网公开）；电话 +30 22410 38089；MX Google 今日核验有效。无 LinkedIn 命中（本地口碑型老商）。希腊语/英语。
-- **关注点与资质**：①**myDATA 合规**（希腊 AADE 电子发票强制化=他 POS/ERP 业务的卖点锚，我方不涉但要对齐「合规优先」叙事）；②**旅游季窗**（罗德岛 4–10 月旺季——**冬季 Q4–Q1 是布网改造窗口，报价/备库要踩他施工季**）；③一站式交钥匙（他喜欢「360° support」式全包供应商——我方可直接给「交换+供电+光模块」整包）；④海岛物流慢→计划性批量箱规优于零碎单。参展/社媒：未见。
-- **优缺点SWOT**：**S**：30 年岛域霸主+四业合一（POS/网/站/ERP 交叉带货能力=他卖网络时顺便卖收银，反之亦然）；认证工程师自持=技术沟通无翻译损耗。**W**：岛域天花板+季节波动；团队规模未公开；无连锁扩张面。**O**：2026 旺季前酒店网改（WiFi/PoE/监控）+POS 换机潮+ERP 新客布线——**一季度箱规备货提案**正好；多德卡尼斯跳岛岛屿（Kos/Karpathos）复制模式的可能。**T**：雅典大陆分销/电商的价格碾压；希腊本土 IT 生态小圈竞争。
-- **Saga产品适配**：酒店 PoE 标配 **STC-424XGGPM-280W**（**EXW $180**；AP/摄像头/话机/POS 一柜喂齐，PoE 管理+watchdog）+ 餐厅/民宿小柜 **STC-28DGGPM**（**EXW $99**）+ 光纤互联 **STI-111GP**（GE 收发，**EXW $36.3**，250m 延伸）+ 户外非管理 **STI-280GE**（**EXW $63.8**）。话术：「Q1 施工季的箱规 EXW 梯价+15 天锁价+出厂预刷配置」，附工业线 3 年保条款。⚠️ 海边盐雾场景不口头承诺耐蚀，建议装柜内。
+- **①背景再核**：波 26·A-020:希腊谱: **具名金谱·原批引真**:Apostolas Georgios(希腊);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**Georgios Apostolas(业主（推定）/ MTCNA+MTCRE 工程师,info@ 官网公开；个人邮箱既有；MX（Google）已验)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【老店年份】**1995 年起经营的罗德岛技术商。
-  > Δίπλα σας, από το 1995 … Με περισσότερα από 30 χρόνια εμπειρίας και με έδρα τη Ρόδο
+- **【联系方式与基础画像】**Apostolas Georgios(希腊);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Apostolas Georgios(希腊);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://apostolas.gr/
-- **【四业合一】**POS+网络+网站+ERP 360° 覆盖。
-  > Ολοκληρωμένες λύσεις πληροφορικής, ταμειακών συστημάτων & web services στη Ρόδο. Εγκαταστάσεις δικτύων, ασύρματη παραγγελειοληψία, ηλεκτρονική τιμολόγηση, ιστοσελίδες.
+- **【联系方式与基础画像】**CSV 入口:+30 22410 38089 / george@apostolas.gr
+  > CSV 入口:+30 22410 38089 / george@apostolas.gr
   > 来源：https://apostolas.gr/
-- **【myDATA 合规】**Cloud ERP 对接希腊 myDATA 电子发票。
-  > Οργανώστε την αποθήκη, τις πωλήσεις και το myDATA της επιχείρησής σας εύκολα, οικονομικά και με ασφάλεια.
-  > 来源：https://apostolas.gr/
-- **【多德卡尼斯经验】**25+ 年群岛企业支持经验。
-  > με εμπειρία άνω των 25 ετών στην υποστήριξη επιχειρήσεων της Δωδεκανήσου
-  > 来源：https://apostolas.gr/poia-tameiaki-michani-chreiazetai-i-epicheirisi-sas-sti-rodo/
-- **【联系】**Καναδά 28, Ρόδος 85100；电话与 info@ 公开。
-  > Δωδεκάνησα, Ρόδος, Καναδά 28, 85100 … +30 22410 38089 … info@apostolas.gr
-  > 来源：https://apostolas.gr/epikoinonia/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-020:希腊谱: **具名金谱·原批引真**:Apostolas Georgios(希腊);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE
+- **目标行业与场景**：希腊 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：希腊谱·具名决策档
+- **决策链与对接人**：**Georgios Apostolas(业主（推定）/ MTCNA+MTCRE 工程师,info@ 官网公开；个人邮箱既有；MX（Google）已验)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,7 +182,10 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 ## SWOT
 
-**S**：30 年岛域霸主+四业合一（POS/网/站/ERP 交叉带货能力=他卖网络时顺便卖收银，反之亦然）；认证工程师自持=技术沟通无翻译损耗。**W**：岛域天花板+季节波动；团队规模未公开；无连锁扩张面。**O**：2026 旺季前酒店网改（WiFi/PoE/监控）+POS 换机潮+ERP 新客布线——**一季度箱规备货提案**正好；多德卡尼斯跳岛岛屿（Kos/Karpathos）复制模式的可能。**T**：雅典大陆分销/电商的价格碾压；希腊本土 IT 生态小圈竞争。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -201,6 +212,10 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -208,21 +223,15 @@ POS/点餐终端背后是**酒店餐饮店的局域网**（PoE 喂 AP/摄像头/
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：24-port PoE + 10G uplinks for your larger sites
+**主题**：PoE switching for your projects
 
 ```text
-Hi Apostolas,
+Dear Georgios Apostolas Team,
 
-I came across Apostolas Georgios - 集成商/顾问（MikroTik 认证）.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that reboots hung APs/cameras without a site visit. Reference: $180 USD EXW.
-
-One question: Roughly how many site visits a month come from a hung AP or camera across your hospitality sites?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

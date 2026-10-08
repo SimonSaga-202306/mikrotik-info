@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MTCNA+MTCTCE
-- 【推断】其工业网线=Ignition 平台脚下的真正网络底座：边缘节点/控制室/现场段都吞温宽工业交换件
-- 【假设】“无层级工程制”（设计的人交付运维）=对设备的可靠与生命周期要求高于价格
+- 【事实】波 27·A-070:西班牙谱: **守档准由·原 R56 谱基增厚**:Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MTCNA+MTCTCE;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Ignition 官认集成商；工业网线为其四大服务之一
-- **②芯片/型号**：未公开
-- **③KP 深挖**：Villalobos 直达
-- **④Saga 对标**：边缘/现场温宽 PoE
-- **⑤在乎与偏好**：生命周期与工程师直达
+- **①背景再核**：波 27·A-070:西班牙谱: **守档准由·原 R56 谱基增厚**:Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MTCNA+MTCTCE;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：西班牙 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Official Inductive Automation integrator…SCADA, IIoT and industrial network systems…Oil & Gas, Power generation, Pharmaceutical, Container port logistics, Automotive”
-  > “Official Inductive Automation integrator…SCADA, IIoT and industrial network systems…Oil & Gas, Power generation, Pharmaceutical, Container port logistics, Automotive”
-  > 来源：https://hecnys.com/en
-- **【联系方式】**carlosvillalobos@hecnys.com +34 645 396 100（CSV）；MX=Hostinger（MX/DNS 级核验：域存活=邮件可投递到域）
-  > carlosvillalobos@hecnys.com +34 645 396 100（CSV）；MX=Hostinger（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://hecnys.com/en/contacto
+- **【联系方式与基础画像】**Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MT
+  > Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MT
+  > 来源：https://hecnys.com/
+- **【联系方式与基础画像】**CSV 入口:+34 645 396 100 / carlosvillalobos@hecnys.com
+  > CSV 入口:+34 645 396 100 / carlosvillalobos@hecnys.com
+  > 来源：https://hecnys.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙 Ignition 官认 SCADA/IIoT 集成商（15 年）
-- **产品线与在售品牌**：Ignition 平台+托管工业网络工程
-- **目标行业与场景**：制药/汽车/物流民营段优先；能源/油气边界
-- **团队与规模**：工程师小团
-- **决策链与对接人**：Carlos Villalobos
-- **技术与认证**：MTCNA+MTCTCE
-- **采购与供应链信号**：工业网络工程随单
-- **近期动态与线索**：2026 年获 Ignition 官方集成商认证
-- **与我方契合点**：边缘/现场段温宽工业 PoE 随单
-- **风险与注意**：关键设施边界
+- **业务定位**：波 27·A-070:西班牙谱: **守档准由·原 R56 谱基增厚**:Hecnys（西班牙）：**Ignition 官方认证集成商（自 2026）+15 年工控经验**——SCADA/IIoT（MQTT/Sparkplug B、OPC UA、SQL 历史）+**工业网线（分段/可靠/远维）**；行业：油气、发电、制药、石化、**港箱物流**、汽车；Carlos Villalobos MTCNA+MTCTCE;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCTCE
+- **目标行业与场景**：西班牙 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：西班牙谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：底座粘
-- **W**：边界
-- **O**：民营产线
-- **T**：大牌
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现场交换现供
-  - [ ] 生命周期门槛
-  - [ ] 试点窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Carlos,
+Dear Carlos Villalobos Team,
 
-Becoming an official Ignition integrator while running the industrial-network line yourself is exactly the stack where hardware decisions stick for a decade.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial managed PoE switches rated -40 to 75C with a hardware watchdog and lifecycle supply commitments - at an honest price next to the legacy brands. Reference: $74.8 USD EXW.
-
-One question: in your edge and field segments, who supplies the Ethernet switching layer today?
-
-If useful, I can send one unit with the full temperature test report. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓
-- 【推断】授权分销+自营仓=账期与返单体系成熟；多场景谱=24 口 PoE 走货口
-- 【假设】WISP/校园 PoE 段是其报价高频场
+- 【事实】波 28·A-542:美国谱: **守档准由·原 R56 谱基增厚**:Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 28 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -86,62 +86,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：多场景 PoE 对照行
-- **要问的问题**：校园/安防报价里 value 档 24 口 PoE 收吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第55批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第28波37户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.multilink.us|授权分销+自营仓
-- **②芯片/型号**：MT/Ubi/TP-Link 谱
-- **③KP 深挖**：分销 buyer 口（sales@）
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：账期/返单成熟
+- **①背景再核**：波 28·A-542:美国谱: **守档准由·原 R56 谱基增厚**:Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**MT/Ubiquiti/TP-Link 30+ 牌 5000+ SKU
-  > MT/Ubiquiti/TP-Link 30+ 牌 5000+ SKU
-  > 来源：https://www.multilink.us
-- **【场景】**ISP/WISP/校园 PoE/安防/光纤/VoIP
-  > ISP/WISP/校园 PoE/安防/光纤/VoIP
-  > 来源：https://www.multilink.us
-- **【仓配】**Cincinnati 仓
-  > Cincinnati 仓
-  > 来源：https://www.multilink.us
+- **【联系方式与基础画像】**Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓
+  > Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓
+  > 来源：https://multilink.us/
+- **【联系方式与基础画像】**CSV 入口:+1 513 501 8006 / info@multilink.us
+  > CSV 入口:+1 513 501 8006 / info@multilink.us
+  > 来源：https://multilink.us/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美 B2B 授权分销商
-- **产品线与在售品牌**：MT/Ubiquiti/TP-Link 30+ 牌 5000+ SKU
-- **目标行业与场景**：ISP/WISP/校园/安防/光纤/VoIP
-- **团队与规模**：Cincinnati 仓+客服队
-- **决策链与对接人**：sales@ 分销 buyer 口
-- **技术与认证**：授权证链齐
-- **采购与供应链信号**：自营仓现货
-- **近期动态与线索**：30+ 牌并售持续扩
-- **与我方契合点**：24 口 PoE+4×10G=校园/安防随单对照档（$180 锚点一致）
-- **风险与注意**：授权谱厚——需差异化定位不打价格战
+- **业务定位**：波 28·A-542:美国谱: **守档准由·原 R56 谱基增厚**:Multilink（美俄亥俄 B2B 授权分销）：MikroTik/Ubiquiti/TP-Link 等 30+ 牌 5000+ SKU；ISP/WISP、校园 PoE、安防、光纤、VoIP 多谱；Cincinnati 仓;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第55批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik（Master）
+- **目标行业与场景**：美国 谱;分销（MikroTik 官方）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 28 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,10 +153,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：授权分销+自营仓
-- **W**：value 段待证
-- **O**：24 口 PoE 随单
-- **T**：大牌价段
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -187,8 +184,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 返单节奏
-  - [ ] 信用条款
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -200,16 +197,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Multilink team,
+Dear Multilink Solutions Team,
 
-Thirty-plus authorized brands and five thousand SKUs out of your Cincinnati warehouse say your buyers already trust you to stock the full quote - ISP, campus PoE, security, fiber.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, 4x10G SFP+ uplinks, rackmount) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a value benchmark line for the quotes that die on price, not to displace the brands you lead with.
-
-One question: in your campus and security quotes, is there room for a documented value 24-port PoE switch next to the premium lines?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

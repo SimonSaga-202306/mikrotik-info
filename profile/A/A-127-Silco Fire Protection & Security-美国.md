@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年
-- 【推断】45,000 客户基盘=随单件滚动量大；消防+安防一体=联动柜位多；K-12 校安=地方常规商用
-- 【假设】“quality is the standard”文化+多执照技师制度=对“安装后不出事”的硬件（看门狗/宽压）话术有效
+- 【事实】波 27·A-127:美国谱: **守档准由·原 R56 谱基增厚**:Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,32 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：多州消防安防领先（45,000 客户/4.9 星）；多执照技师
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：info@/多分支电话
-- **④Saga 对标**：随单 PoE 柜
-- **⑤在乎与偏好**：免回访可靠性
+- **①背景再核**：波 27·A-127:美国谱: **守档准由·原 R56 谱基增厚**:Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“more than 45,000 customers across Ohio rely on Silco…over 1,000 reviews on Google with an average of a 4.9 star rating”
-  > “more than 45,000 customers across Ohio rely on Silco…over 1,000 reviews on Google with an average of a 4.9 star rating”
+- **【联系方式与基础画像】**Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；
+  > Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；
+  > 来源：https://silcofs.com/
+- **【联系方式与基础画像】**CSV 入口:info@silcofs.com [Publicly listed; delivery not tested]; https://silcofs.com
+  > CSV 入口:info@silcofs.com [Publicly listed; delivery not tested]; https://silcofs.com
   > 来源：https://silcofs.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：俄亥俄多州消防安防领先商（45,000 客户）
-- **产品线与在售品牌**：消防/安防全谱（CSV 载 Allied 信号）
-- **目标行业与场景**：K-12/商业/住宅
-- **团队与规模**：区域大型
-- **决策链与对接人**：info@/调度口
-- **技术与认证**：多执照技师
-- **采购与供应链信号**：45,000 客户滚动
-- **近期动态与线索**：BDA/群通知扩线
-- **与我方契合点**：安防随单 PoE 柜
-- **风险与注意**：体量大概率谈判周期
+- **业务定位**：波 27·A-127:美国谱: **守档准由·原 R56 谱基增厚**:Silco Fire & Security（俄亥俄）：消防安防区域领先商——消防全谱（报警/喷淋/应急照明/厨房抑制/BDA/群通知）+安防（报警/监控/门禁/K-12 校安/自动门转闸）；**45,000+ 客户、1,000+ Google 评价 4.9 星**；服务 OH/KY/IN/W-PA/底特律；技师多执照；Top Workplace 7 年;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第13批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：美国 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：基盘
-- **W**：周期
-- **O**：随单
-- **T**：大牌
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -208,9 +211,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单接入现供
-  - [ ] 多州结构
-  - [ ] 评测窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +224,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Silco team,
+Dear Silco Fire Protection & Se Team,
 
-45,000 customers and a 4.9-star reputation - at that scale, every avoidable truck roll hurts, and a frozen camera after midnight is the classic cause.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with a hardware watchdog that restarts a frozen camera before anyone drives out. Reference: $180 USD EXW.
-
-One question: across your security installations, who supplies the PoE switches for camera and access-control closets today?
-
-If useful, I can send one unit with full documentation for a pilot site. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

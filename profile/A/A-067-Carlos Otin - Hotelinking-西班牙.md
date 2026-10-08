@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agnostic 统一多品牌设施）**、DeskForce（数字前台）；RIU/Zafiro/Bluesea 等连锁招牌；Carlos Otin MTCNA+MTCSE
-- 【推断】其对酒店客户的 Wi-Fi 托管恰站在 1000+ 家店接入层的“推荐位/影响位”上——比向单店逐一卖，这是杠杆入口
-- 【假设】vendor-agnostic NOC 意味着他们定期给客户列“合格硬件推荐/兼容清单”——争取进入其推荐位=千店通道
+- 【事实】波 27·A-067:西班牙谱: **守档准由·原 R56 谱基增厚**:Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agnostic 统一多品牌设施）**、DeskForce（数字前台）；RIU/Zafiro/Bluesea 等连锁招牌；Carlos Otin MTCNA+MTCSE;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：酒店科技独角兽级（1000+ 店/60% 渗透）；WiFiBot=NOC 统一管酒店网
-- **②芯片/型号**：vendor-agnostic（客户多元）
-- **③KP 深挖**：Otin 直达
-- **④Saga 对标**：客房 Wi-Fi 接入层康复振推荐位
-- **⑤在乎与偏好**：监控集成/少巡店/海量文档
+- **①背景再核**：波 27·A-067:西班牙谱: **守档准由·原 R56 谱基增厚**:Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agnostic 统一多品牌设施）**、DeskForce（数字前台）；RIU/Zafiro/Bluesea 等连锁招牌；Carlos Otin MTCNA+MTCSE;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：西班牙 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“1,000+ hotels and chains trust Hotelinking…60% penetration among hotel chains in Spain…WiFiBot: 24/7 Network Monitoring…centralized control seamlessly managed by expert NOC services”
-  > “1,000+ hotels and chains trust Hotelinking…60% penetration among hotel chains in Spain…WiFiBot: 24/7 Network Monitoring…centralized control seamlessly managed by expert NOC services”
-  > 来源：https://www.hotelinking.com/en/
-- **【联系方式】**c.otin@hotelinking.com +34 691 837 651（CSV）；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > c.otin@hotelinking.com +34 691 837 651（CSV）；MX=Google（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.hotelinking.com/en/
+- **【联系方式与基础画像】**Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agn
+  > Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agn
+  > 来源：https://hotelinking.com/
+- **【联系方式与基础画像】**CSV 入口:+34 691 837 651 / c.otin@hotelinking.com
+  > CSV 入口:+34 691 837 651 / c.otin@hotelinking.com
+  > 来源：https://hotelinking.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙酒店集团数字化平台（1000+ 店、60% 连锁渗透）
-- **产品线与在售品牌**：GuestMaker/WiFiBot/DeskForce 三栈
-- **目标行业与场景**：酒店集团/连锁
-- **团队与规模**：酒店科技中型
-- **决策链与对接人**：Carlos Otin（MTCNA+MTCSE）
-- **技术与认证**：Wi-Fi 门户+NOC 平台
-- **采购与供应链信号**：对客推荐/影响硬件选型
-- **近期动态与线索**：2026 数据更新：10M+ 住客、€30M 佣金节省
-- **与我方契合点**：进入其合格硬件推荐位=千店通道
-- **风险与注意**：vendor-agnostic 立场需尊重——不做“绑定”话术
+- **业务定位**：波 27·A-067:西班牙谱: **守档准由·原 R56 谱基增厚**:Hotelinking（西班牙帕尔马）：酒店集团数字化平台——**1000+ 酒店/连锁、西班牙连锁渗透率 60%、+1000 万住客数据、10M+ €30M 省佣金**；三栈：GuestMaker（营销 CRM+**Wi-Fi 门户数据捕获**）、**WiFiBot（24/7 酒店网监控+NOC，vendor-agnostic 统一多品牌设施）**、DeskForce（数字前台）；RIU/Zafiro/Bluesea 等连锁招牌；Carlos Otin MTCNA+MTCSE;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSE
+- **目标行业与场景**：西班牙 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：西班牙谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：杠杆
-- **W**：中立
-- **O**：推荐位
-- **T**：大牌
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 推荐清单机制
-  - [ ] 认证文档需求
-  - [ ] 试点店
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Carlos,
+Dear Carlos Otin Team,
 
-A NOC watching vendor-agnostic WiFi across 1,000+ hotels knows exactly which access switches stay silent and which ones cause truck rolls.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, hardware watchdog that silently resets a hung AP) with clean SNMP documentation made for exactly this story. Reference: $180 USD EXW.
-
-One question: how does a switch get onto your compatible-hardware recommendation list for hotels?
-
-If useful, I can send one unit with the full integration pack for your NOC team to evaluate. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

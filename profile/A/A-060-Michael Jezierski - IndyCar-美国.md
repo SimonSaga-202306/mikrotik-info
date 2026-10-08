@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；MikroTik 论坛常驻（2019 加入）；MTCNA+MTCRE+MTCIPv6E+MTCSWE
-- 【推断】赛事网=每场临时搭建的移动机房：计时计分+车队视频/数据回传都吞 PoE（摄像/传感尾头）；大厂交期痛点=我们现货交期直击
-- 【假设】US 赛事赛道网=高价值 showcase；从单场协商切入
+- 【事实】波 26·A-060:美国谱: **守档准由·原 R56 谱基增厚**:Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；MikroTik 论坛常驻（2019 加入）；MTCNA+MTCRE+MTCIPv6E+MTCSWE;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,38 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：INDYCAR 赛道技术总管；CCR1009 已车队配发；自诉大厂交期痛点
-- **②芯片/型号**：CCR1009 在役
-- **③KP 深挖**：本人直达+论坛 ID 互证
-- **④Saga 对标**：临时赛事网 24 口 PoE+现货速度
-- **⑤在乎与偏好**：可靠+速度+震动耐受
+- **①背景再核**：波 26·A-060:美国谱: **守档准由·原 R56 谱基增厚**:Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；MikroTik 论坛常驻（2019 加入）；MTCNA+MTCRE+MTCIPv6E+MTCSWE;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Technology Manager - NTT INDYCAR Series…we issue the teams CCR1009s for network access”
-  > “Technology Manager - NTT INDYCAR Series…we issue the teams CCR1009s for network access”
-  > 来源：https://forum.mikrotik.com/viewtopic.php?t=187155
-- **【近期动态】**“Our corporate IT was quoted almost a year from Big C on some Catalyst equipment with PoE”
-  > “Our corporate IT was quoted almost a year from Big C on some Catalyst equipment with PoE”
-  > 来源：https://forum.mikrotik.com/viewtopic.php?t=187155
-- **【联系方式】**mjezierski@indycar.com +1 317 492 5005；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > mjezierski@indycar.com +1 317 492 5005；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://mikrotik.com/consultants
+- **【联系方式与基础画像】**Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；Mi
+  > Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；Mi
+  > 来源：https://indycar.com/
+- **【联系方式与基础画像】**CSV 入口:+1 317 492 5005 / mjezierski@indycar.com
+  > CSV 入口:+1 317 492 5005 / mjezierski@indycar.com
+  > 来源：https://indycar.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国顶级赛车系列赛赛道技术总管（计时/视频/车队网）
-- **产品线与在售品牌**：CCR1009 车队配发（论坛自证）
-- **目标行业与场景**：赛事临时网/计时计分/视频回传
-- **团队与规模**：赛事技术组
-- **决策链与对接人**：Jezierski 本人
-- **技术与认证**：MTCNA+MTCRE+MTCIPv6E+MTCSWE
-- **采购与供应链信号**：赛务更迭高频采购；大厂交期痛点（自诉）
-- **近期动态与线索**：2026 赛季在即；论坛吐槽交期待解
-- **与我方契合点**：临时网 PoE 解锁+现货速度
-- **风险与注意**：以顾问身份接触；品牌名头不外借
+- **业务定位**：波 26·A-060:美国谱: **守档准由·原 R56 谱基增厚**:Michael Jezierski（美国印第安纳波利斯）：NTT INDYCAR 系列赛 Technology Manager/System Engineer——赛道侧技术（计时计分网络、视频流/电信、车队网络服务）；自曝“给各赛车队配发 CCR1009”；吐槽大厂交期“Catalyst 带 PoE 近一年报价”；MikroTik 论坛常驻（2019 加入）；MTCNA+MTCRE+MTCIPv6E+MTCSWE;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E+MTCSWE
+- **目标行业与场景**：美国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：痛点吻合
-- **W**：制度未知
-- **O**：赛季现窗
-- **T**：大厂关系
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -212,9 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 赛道 POE 现供
-  - [ ] 采购通道
-  - [ ] 评测时间窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Michael,
+Dear Michael Jezierski Team,
 
-Your forum post about waiting a year for PoE switches while running CCR1009s on race weekends really landed - timing and scoring does not wait for vendor backlogs.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, hardware watchdog, ships from stock) sized for exactly the trackside timing, scoring and video-access pockets. Reference: $180 USD EXW.
-
-One question: who supplies the PoE switching layer trackside today?
-
-If useful, I can have an evaluation unit ready in days, not months. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

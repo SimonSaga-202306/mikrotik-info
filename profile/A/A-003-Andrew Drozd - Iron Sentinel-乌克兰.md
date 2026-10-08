@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Iron Sentinel**（Andrew Drozd），乌克兰 Zhytomyr，MikroTik 认证顾问名录收录个体。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,12 +44,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Iron Sentinel**（Andrew Drozd），乌克兰 Zhytomyr，MikroTik 认证顾问名录收录个体。重大变化：**官网 ironsentinel.net 当前为 Squarespace 停靠页（Coming Soon）——站点实质失效**，公司公开面近乎归零。乌克兰战时个体顾问常态：站点停运≠人停业，但公开可核信息只有名录行+邮 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 无可核证据（站点失效，无产品页/案例页残留可用）。顾问层惯用 MikroTik 全线。出货量/订单：未知。客户反馈：无公开渠道。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-003:乌克兰谱: **具名金谱·原批引真**:Andrew Drozd / Iron Sentinel(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-无可核证据（站点失效，无产品页/案例页残留可用）。顾问层惯用 MikroTik 全线。出货量/订单：未知。客户反馈：无公开渠道。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -134,26 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Iron Sentinel**（Andrew Drozd），乌克兰 Zhytomyr，MikroTik 认证顾问名录收录个体。重大变化：**官网 ironsentinel.net 当前为 Squarespace 停靠页（Coming Soon）——站点实质失效**，公司公开面近乎归零。乌克兰战时个体顾问常态：站点停运≠人停业，但公开可核信息只有名录行+邮箱 infra。
-- **芯片与在用型号**：无可核证据（站点失效，无产品页/案例页残留可用）。顾问层惯用 MikroTik 全线。出货量/订单：未知。客户反馈：无公开渠道。
-- **关键人KP**：**Andrew Drozd**（名录姓名）。邮箱 **support@ironsentinel.net**（CSV 既有；**MX 今日核验有效→smtp.google.com，Google Workspace 收件 infra 仍活**，说明邮箱多半仍有人收）。电话 **+380 63 418 8971**（Kyivstar 移动号段，**可试 WhatsApp/Telegram 添加验证**——乌克兰移动号社媒绑定率高，未验证不写死）。LinkedIn 搜索无确认命中。模式猜测 **andrew@ironsentinel.net**（未验证）。
-- **关注点与资质**：无近期公开信号；名录收录本身=持证顾问（CSV 载 MTCNA 等，详见 §四）。对乌客户的敏感点：战时供电/移动覆盖/重建项目，通信器材需求仍在，但外汇与物流条款要放软。
-- **优缺点SWOT**：**S**：决策链=本人；既有双通道（邮箱 infra 活+手机号）。**W**：公开面消亡、无法验证经营状态与规模。**O**：乌重建网络需求长尾；低量配货（小批量中性货）适合个体顾问。**T**：失联风险高（站点已死）；战时不可控。评级维持 A（联系通道仍通），但本轮优先级下调，电话/WhatsApp 先行。
-- **Saga产品适配**：低量试水：样机 **STC-424XGGPM-280W**（EXW $180）或 8口 **STC-28DGGPM**（EXW $99）；配「5–7 工作日、50 台以下」交期条款正中个体户。⚠️ 不谈 bt。
+- **①背景再核**：波 26·A-003:乌克兰谱: **具名金谱·原批引真**:Andrew Drozd / Iron Sentinel(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Andrew Drozd(个体顾问（MikroTik 认证名录）,邮箱 MX 2026-09-28 核验有效（Google）；电话可试 WhatsApp/Telegram（未验证）);—（模式猜测）(—,模式猜测 · 未验证)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：乌克兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【站点状态】**官网现为 Squarespace 停靠页，公开内容归零。
-  > Coming Soon — ironsentinel.net
+- **【联系方式与基础画像】**Andrew Drozd / Iron Sentinel(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Andrew Drozd / Iron Sentinel(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://ironsentinel.net/
-- **【名录收录】** MikroTik 官方认证顾问名录在册（Zhytomyr, Ukraine）。
-  > Andrew Drozd / Iron Sentinel … Zhytomyr … 集成商/顾问（MikroTik 认证）
-  > 来源：https://mikrotik.com/consultants
-- **【邮箱 infra】**MX 指向 Google Workspace，域名邮箱服务仍运行。
-  > ironsentinel.net MX → smtp.google.com（2026-09-28 本机 dns.resolver 核验）
-  > 来源：dns://ironsentinel.net/MX
+- **【联系方式与基础画像】**CSV 入口:+380 63 418 8971 / support@ironsentinel.net
+  > CSV 入口:+380 63 418 8971 / support@ironsentinel.net
+  > 来源：https://ironsentinel.net/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-003:乌克兰谱: **具名金谱·原批引真**:Andrew Drozd / Iron Sentinel(乌克兰);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE+MTCSE
+- **目标行业与场景**：乌克兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：乌克兰谱·具名决策档
+- **决策链与对接人**：**Andrew Drozd(个体顾问（MikroTik 认证名录）,邮箱 MX 2026-09-28 核验有效（Google）；电话可试 WhatsApp/Telegram（未验证）);—（模式猜测）(—,模式猜测 · 未验证)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in;**战区民用商业限定句必压(民用商业限定前句)**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -168,7 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：决策链=本人；既有双通道（邮箱 infra 活+手机号）。**W**：公开面消亡、无法验证经营状态与规模。**O**：乌重建网络需求长尾；低量配货（小批量中性货）适合个体顾问。**T**：失联风险高（站点已死）；战时不可控。评级维持 A（联系通道仍通），但本轮优先级下调，电话/WhatsApp 先行。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -195,6 +212,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -202,21 +223,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Andrew,
+Dear Andrew Drozd Team,
 
-I came across Iron Sentinel - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

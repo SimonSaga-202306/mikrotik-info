@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问（MTCNA+MTCRE+MTCSE）
-- 【推断】持牌 ROC 运营商+分销+工程三线=接入层 PoE 常态化自用+转售双通道
-- 【假设】公私监控系统线=PoE 摄像头供电大户；公共段只走规范
+- 【事实】波 26·A-042:意大利谱: **守档准由·原 R56 谱基增厚**:PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问（MTCNA+MTCRE+MTCSE）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,38 +136,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Favria 三线公司：分销/ROC 运营/工程监控；3 人持证
-- **②芯片/型号**：MikroTik 顾问口径；现用未公开
-- **③KP 深挖**：Vacca+团队 info@
-- **④Saga 对标**：监控柜 24 口+POP/节点 8 口双线
-- **⑤在乎与偏好**：持牌运营商重稳定证件
+- **①背景再核**：波 26·A-042:意大利谱: **守档准由·原 R56 谱基增厚**:PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问（MTCNA+MTCRE+MTCSE）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“PF Tech è Operatore autorizzato ROC…servizi di connettività internet, linee telefoniche voce tradizionali e VoIP con centrali Cloud”
-  > “PF Tech è Operatore autorizzato ROC…servizi di connettività internet, linee telefoniche voce tradizionali e VoIP con centrali Cloud”
-  > 来源：https://www.pftech.it/
-- **【目标行业】**“reti locali Ethernet/Fibra/Wireless, sistemi punto-punto via radio…videosorveglianza privata e pubblica”
-  > “reti locali Ethernet/Fibra/Wireless, sistemi punto-punto via radio…videosorveglianza privata e pubblica”
-  > 来源：https://www.pftech.it/
-- **【联系方式】**“0124-576160 / 0124-576161, Via Aldo Moro 10 - 10083 Favria (TO), info@pftech.it, P.IVA 09509780012”；MX=mail.pftech.it（MX/DNS 级核验：域存活=邮件可投递到域）
-  > “0124-576160 / 0124-576161, Via Aldo Moro 10 - 10083 Favria (TO), info@pftech.it, P.IVA 09509780012”；MX=mail.pftech.it（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.pftech.it/
+- **【联系方式与基础画像】**PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问
+  > PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问
+  > 来源：https://pftech.it/
+- **【联系方式与基础画像】**CSV 入口:Paolo Vacca +39 0124 576161 / info@pftech.it；Stefano Callegari stefano.c@pftech.it；Stefano Vallosio stefano@pftech.it
+  > CSV 入口:Paolo Vacca +39 0124 576161 / info@pftech.it；Stefano Callegari stefano.c@pftech.it；Stefano Vallosio stefano@pftech.it
+  > 来源：https://pftech.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：分销+ROC 持牌运营商（全国 ISP/VoIP 云）+工程（园区网/点到点无线/监控）三线
-- **产品线与在售品牌**：分销+自有运营；技术设施含监控（私有+公共）
-- **目标行业与场景**：政企/家庭；全国 ISP/VoIP 服务
-- **团队与规模**：3 人 MikroTik 顾问小团队
-- **决策链与对接人**：Paolo Vacca（CSV 载）
-- **技术与认证**：MTCNA+MTCRE+MTCSE×3 人
-- **采购与供应链信号**：运营+工程+分销三头采购
-- **近期动态与线索**：站标在建中但内容完整
-- **与我方契合点**：监控 PoE 接入层+运营商 POP 小盒
-- **风险与注意**：公共监控采购=规范流程
+- **业务定位**：波 26·A-042:意大利谱: **守档准由·原 R56 谱基增厚**:PF Technology s.r.l.（Favria/都灵省，P.IVA 09509780012）：软硬件分销+**ROC 授权电信运营商**（全国互联网接入/传统固话/VoIP 云总机）+技术设施（以太网/光纤/无线局域网、点到点无线、广域网、公私监控）；Paolo Vacca 在内 3 人 MikroTik 顾问（MTCNA+MTCRE+MTCSE）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE（公司内 3 人）
+- **目标行业与场景**：意大利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +179,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：三线互哺
-- **W**：团队小
-- **O**：双盘
-- **T**：大厂
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +210,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 分销线 SKU
-  - [ ] 监控项目点位规模
-  - [ ] POP 现用
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +223,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Paolo,
+Dear PF Tech Team,
 
-I see PF Tech runs three lines at once - distribution, a licensed ROC operator, and the plant/surveillance builds around Turin.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, 4×10G SFP+) with a hardware PoE watchdog - sized for exactly the camera closets in your surveillance jobs. Reference: $180 USD EXW.
-
-One question: in a mid-size surveillance build, how many PoE endpoints land on one cabinet?
-
-If useful, I can send one unit for a 30-day evaluation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

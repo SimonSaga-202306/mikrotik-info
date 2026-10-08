@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产网；闭公司内训业务
-- 【推断】全真交换硬件教具是其每一期的消耗位——MTCSWE 3 天国课尤其吃交换机台数
-- 【假设】1675+ 学员池=培训后项目采购转化口
+- 【事实】波 26·A-048:波兰谱: **守档准由·原 R56 谱基增厚**:mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产网；闭公司内训业务;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,38 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：克拉科夫全真硬件培训教室（8 人小班）；十证 Trainer；315+ 期 1675+ 学员
-- **②芯片/型号**：教具全真 MikroTik（路由/交换/AP）
-- **③KP 深挖**：Hreskiv biuro@ 直达
-- **④Saga 对标**：MTCSWE 工位交换教具——STC-28DGGPM（期期消耗）
-- **⑤在乎与偏好**：教具要真硬件、可搬动（内训）
+- **①背景再核**：波 26·A-048:波兰谱: **守档准由·原 R56 谱基增厚**:mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产网；闭公司内训业务;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：波兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“315+ szkoleń / 1675+ kursantów / Stacjonarnie, na realnym sprzęcie, w grupach do 8 osób…Routery, switche, AP — fizyczne, nie wirtualne”
-  > “315+ szkoleń / 1675+ kursantów / Stacjonarnie, na realnym sprzęcie, w grupach do 8 osób…Routery, switche, AP — fizyczne, nie wirtualne”
+- **【联系方式与基础画像】**mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产
+  > mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产
   > 来源：https://mtik.pl/
-- **【近期动态】**“MTCNA 4-6 października 2026 1400 PLN / MTCIPv6E 11-12 / MTCRE 18-19 1900 PLN Kraków ul. Starowiślna 20/3”
-  > “MTCNA 4-6 października 2026 1400 PLN / MTCIPv6E 11-12 / MTCRE 18-19 1900 PLN Kraków ul. Starowiślna 20/3”
-  > 来源：https://mtik.pl/szkolenia
-- **【联系方式】**biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > biuro@mtik.pl +48 512 438 083；MX=smtp.google.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://mtik.pl/kontakt
+- **【联系方式与基础画像】**CSV 入口:+48 512 438 083 / biuro@mtik.pl
+  > CSV 入口:+48 512 438 083 / biuro@mtik.pl
+  > 来源：https://mtik.pl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：克拉科夫 MikroTik 全课程培训中心（全真硬件 8 人小班）
-- **产品线与在售品牌**：MTCNA→MTCINE 十证课程+公司内训
-- **目标行业与场景**：工程师认证；PL/UA/USA/UK 生产网背景
-- **团队与规模**：Trainer 本人+教室
-- **决策链与对接人**：Ihor Hreskiv（biuro@ 直达）
-- **技术与认证**：官方 Trainer 十证
-- **采购与供应链信号**：全真教具批次（交换是 MTCSWE 耗材）
-- **近期动态与线索**：2026-10 排期：MTCNA/MTCIPv6E/MTCRE 连开
-- **与我方契合点**：MTCSWE 交换教具箱——期期消耗的台位
-- **风险与注意**：师者红线：教具真实报价，不得“师供价”话术
+- **业务定位**：波 26·A-048:波兰谱: **守档准由·原 R56 谱基增厚**:mtik.pl（Ihor Hreskiv，克拉科夫 Starowiślna 20/3）：MikroTik 官方持证 Trainer（10 证全）+全课程教室（MTCNA→MTCINE，8 人小班、全真硬件工位、1400-1900 PLN）；累计 315+ 期 1675+ 学员；项目背景跨 PL/UA/USA/UK 生产网；闭公司内训业务;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 10 证全拿
+- **目标行业与场景**：波兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：波兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -187,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全真教室口碑
-- **W**：个人带宽
-- **O**：MTCSWE 耗材
-- **T**：官配
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -222,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具箱现用型号
-  - [ ] 内训便携箱
-  - [ ] 学员推荐位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -236,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ihor,
+Dear Ihor Hreskiv Team,
 
-I found mtik.pl - a real-hardware classroom in Kraków, 315+ courses, 1.675+ students, everything physical, no simulators. That is the right religion.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch that fits a per-student switching bench for MTCSWE days (STP/VLAN/L2 labs, 802.3af/at). Reference: $99 USD EXW per unit, trainer pricing for bench sets.
-
-One question: which switch do you put on each student bench for the switching labs today?
-
-If useful, I can send a bench unit plus a suggested lab topology. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

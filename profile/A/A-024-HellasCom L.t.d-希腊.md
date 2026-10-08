@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线
-- 【推断】酒店科技是大头：Cyclades/克里特/雅典/多德卡尼斯/伊奥尼亚群岛酒店与 AirBNB 全栈（WiFi/IPTV/CCTV/VoIP/光纤），接入层 PoE 采购为经常性盘
-- 【假设】6Play 单房方案里 24 口 PoE 接入+10G 上联是标准件
+- 【事实】波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,41 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1998/Piraeus/ISO 9001/500+项目；酒店+国家级隧道双线；MikroTik 分销 2001 起（与 A-022 同集团）
-- **②芯片/型号**：伙伴墙 20+：MikroTik/Ruckus/Cambium/Mimosa/Ubiquiti/TP-Link/2N/Dahua/Hikvision/Yeastar…（Marvell 系接入层大量在场）
-- **③KP 深挖**：商业进口部 sales@ 为第一窗；培训师线走 A-022；元件级维修实验室（技术支持部）
-- **④Saga 对标**：酒店 6Play 楼层接入标准：STC-424XGGPM-280W 对 Ruckus/Ubiquiti 档价格下切
-- **⑤在乎与偏好**：正规进口商体量：要合规、账期、稳定交期；价格带工程学
+- **①背景再核**：波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Hospitality & Αεροδρομίων…έως 6Play & Multi-Sensors…Ως Distributors & Certified Trainers MikroTik από το 2001, αντιπρόσωποι TAIT, Omnitronics, Zetron, BHE & Ruckus”
-  > “Hospitality & Αεροδρομίων…έως 6Play & Multi-Sensors…Ως Distributors & Certified Trainers MikroTik από το 2001, αντιπρόσωποι TAIT, Omnitronics, Zetron, BHE & Ruckus”
-  > 来源：https://hellascom.gr/el
-- **【目标行业与场景】**“Εξειδικευμένες υπηρεσίες για Ξενοδοχεία, AirBNB & Καταλύματα σε Κυκλάδες, Κρήτη, Αττική, Δωδεκάνησα & Επτάνησα…από την προμήθεια εξοπλισμού μέχρι 24/7 υποστήριξη”
-  > “Εξειδικευμένες υπηρεσίες για Ξενοδοχεία, AirBNB & Καταλύματα σε Κυκλάδες, Κρήτη, Αττική, Δωδεκάνησα & Επτάνησα…από την προμήθεια εξοπλισμού μέχρι 24/7 υποστήριξη”
-  > 来源：https://hellascom.gr/el
-- **【技术与认证】**“Υποθαλάσσια σήραγγα Ακτίου-Πρεβέζης, Σήραγγα Κακιάς Σκάλας…Γέφυρα Ρίου-Αντιρρίου…ISO 9001:2015 / 1998 年创立 / 500+ 项目”
-  > “Υποθαλάσσια σήραγγα Ακτίου-Πρεβέζης, Σήραγγα Κακιάς Σκάλας…Γέφυρα Ρίου-Αντιρρίου…ISO 9001:2015 / 1998 年创立 / 500+ 项目”
-  > 来源：https://hellascom.gr/el
-- **【联系方式】**sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
-  > sales@hellascom.gr +30 210 4511087/+30 210 4523890（页头直连）；MX=aspmx.l.google.com （MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://hellascom.gr/el
+- **【联系方式与基础画像】**HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkSho
+  > HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkSho
+  > 来源：https://hellascom.gr/
+- **【联系方式与基础画像】**CSV 入口:+30 210 4523890 / sales@hellascom.gr
+  > CSV 入口:+30 210 4523890 / sales@hellascom.gr
+  > 来源：https://hellascom.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：1998 起希腊技术贸易公司：酒店科技全栈+国家级隧道 SCADA；MikroTik 分销+培训双身份
-- **产品线与在售品牌**：MikroTik 分销+Ruckus/Cambium/Mimosa/Ubiquiti 等 20+ 伙伴墙；TAIT/Omnitronics/Zetron 对讲代理
-- **目标行业与场景**：酒店/AirBNB（Cyclades、克里特、雅典、多德卡尼斯、伊奥尼亚）+隧道/机场基建
-- **团队与规模**：三部一室（研发集成、技术支持到元件级维修、商业进口）；500+ 项目
-- **决策链与对接人**：商业部进口窗口 sales@；培训中心兄弟实体（A-022 同集团）
-- **技术与认证**：ISO 9001:2015；MikroTik 官方 Trainer 资质
-- **采购与供应链信号**：自营进口部+电商 LinkShop——价格可得强
-- **近期动态与线索**：2026 在售排课+酒店季前备货节奏
-- **与我方契合点**：酒店 6Play 接入层 PoE 标准件；分销+零售双通道
-- **风险与注意**：隧道/机场段涉公共采购——只跟酒店私营段；与 A-022 合并触达避免重复打扰
+- **业务定位**：波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik（Master+VAD）
+- **目标行业与场景**：希腊 谱;分销（MikroTik 官方）
+- **团队与规模**：希腊谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -189,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：28年品牌+双通道+大项目背书
-- **W**：伙伴墙臃肿、决策链长
-- **O**：酒店翻新周期+AirBNB 潮
-- **T**：Ruckus/Cambium 既有供应
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -224,9 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] LinkShop 在售接入层 PoE 清单
-  - [ ] 酒店项目 BOM 准入门槛
-  - [ ] 年度采购盘与账期
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -238,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi HellasCom team,
+Dear HellasCom L.t.d. Team,
 
-I came across HellasCom - 28 years, Greece-wide hospitality 6Play projects across the Cyclades and Crete, plus the MikroTik distribution and training arm. Remarkable footprint.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks - sized exactly as the per-floor access standard in hotel 6Play builds. Reference: $180 USD EXW, volume pricing from 20 pcs, neutral packing available.
-
-One question: in a typical resort floor, how many PoE endpoints (AP/IPTV/camera/phone) do you land on one access switch?
-
-If useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）
-- 【推断】培训师+运营商咨询双轨：教具+其 WISP 客户项目制推荐两条线
-- 【假设】南意 WISP 圈（Lamezia/Cagliari 课点）项目制接入层需求经其手
+- 【事实】波 26·A-033:意大利谱: **守档准由·原 R56 谱基增厚**:MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,38 +136,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Lamezia Terme 官方 Trainer；Udemy 意语课；RIPE/MPLS 咨询线
-- **②芯片/型号**：MikroTik 谱系
-- **③KP 深挖**：Falà 本人；LinkedIn alejandropablofala
-- **④Saga 对标**：教具 8 口+WISP POP 24 口双线
-- **⑤在乎与偏好**：南意 WISP 圈口碑；师者真实
+- **①背景再核**：波 26·A-033:意大利谱: **守档准由·原 R56 谱基增厚**:MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Corsi di formazione ufficiali…Consulenza per Wisp e Isp / RIPE Gestione pratiche…Ospf Mpls Vpls Bgp”
-  > “Corsi di formazione ufficiali…Consulenza per Wisp e Isp / RIPE Gestione pratiche…Ospf Mpls Vpls Bgp”
+- **【联系方式与基础画像】**MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF
+  > MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF
   > 来源：https://mikrotik-training.it/
-- **【近期动态与线索】**“Corso MikroTik MTCNA Lamezia Terme Ottobre 26-28 / MTCRE Gennaio 2027 / MTCRE Cagliari Febbraio 2027”
-  > “Corso MikroTik MTCNA Lamezia Terme Ottobre 26-28 / MTCRE Gennaio 2027 / MTCRE Cagliari Febbraio 2027”
-  > 来源：https://mikrotik-training.it/
-- **【联系方式】**info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@mikrotik-training.it；MX=mx1.mail.ovh.net（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:info@mikrotik-training.it；手机 +39 375 526 6786（另有 +39 380 741 9844，站上标注可 WhatsApp）
+  > CSV 入口:info@mikrotik-training.it；手机 +39 375 526 6786（另有 +39 380 741 9844，站上标注可 WhatsApp）
   > 来源：https://mikrotik-training.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利官方 MikroTik 培训伙伴（Lamezia Terme）+WISP/ISP 咨询双轨
-- **产品线与在售品牌**：MTCNA→MTCSE 全课程+Udemy 意语线上课
-- **目标行业与场景**：工程师认证（南意课点 Lamezia/Cagliari）；WISP/ISP 架构咨询
-- **团队与规模**：个人 Trainer 领衔
-- **决策链与对接人**：Alejandro Pablo Falà 本人
-- **技术与认证**：MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE；RIPE/MPLS 咨询
-- **采购与供应链信号**：教具批次+其 WISP 客户项目推荐
-- **近期动态与线索**：2026-10-26 Lamezia MTCNA、2027-01 MTCRE、2027-02 Cagliari 排课
-- **与我方契合点**：教具实验架+其 WISP 咨询项目的接入层推荐位
-- **风险与注意**：师者红线：报价真实；先教具后推荐位
+- **业务定位**：波 26·A-033:意大利谱: **守档准由·原 R56 谱基增厚**:MikroTik Training Italia（Alejandro Pablo Falà，Lamezia Terme 卡拉布里亚）：意大利 MikroTik 官方培训伙伴，MTCNA→MTCSE 全课程（含线上 Udemy MTCNA/MTCRE 意语课）；同期做 WISP/ISP 咨询（RIPE 资源申请、OSPF/MPLS/VPLS/BGP、MIX 互联）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE
+- **目标行业与场景**：意大利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +179,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：官方 Trainer+RIPE 咨询
-- **W**：个人带宽
-- **O**：南意 WISP 盘子
-- **T**：官方教具
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -217,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具现用型号
-  - [ ] WISP 咨询带的项目量
-  - [ ] Udemy 课教具政策
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -231,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Alejandro,
+Dear Alejandro Pablo Falà Team,
 
-I came across MikroTik Training Italia - official courses from Lamezia to Cagliari, plus the WISP consultancy side with RIPE and MPLS work.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch well suited for training benches and WISP access corners (802.3af/at, PoE watchdog, full L2). Reference: $99 USD EXW.
-
-One question: which switch models do you currently put on the bench for switching labs?
-
-If useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

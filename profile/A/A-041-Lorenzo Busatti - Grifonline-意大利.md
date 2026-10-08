@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）
-- 【推断】意大利 WISP 教父级人物：本人持证 6+（含 MTCSWE），其 WISP 门徒网络是接入层间接放量通道
-- 【假设】教具+其 WISP 生态的柴发药品柜（POP）接入层双通道
+- 【事实】波 26·A-041:意大利谱: **守档准由·原 R56 谱基增厚**:Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -141,38 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：WISP 教父级：双公司创始人（1997/2006）、2010 起 Trainer、讲台常客、NPO 发起人
-- **②芯片/型号**：自有网 MikroTik 谱系
-- **③KP 深挖**：本人直达；training@ grifonline 域存活
-- **④Saga 对标**：POP 柜自愈 PoE；教具二轨
-- **⑤在乎与偏好**：讲台级技术正确性
+- **①背景再核**：波 26·A-041:意大利谱: **守档准由·原 R56 谱基增厚**:Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Founder of Grifonline S.r.l. [ISP] (1997), Founder of Linkwave [WISP] (2006), MikroTik Trainer (2010), Member of RIPE, AMS-IX, MIX-IT”
-  > “Founder of Grifonline S.r.l. [ISP] (1997), Founder of Linkwave [WISP] (2006), MikroTik Trainer (2010), Member of RIPE, AMS-IX, MIX-IT”
-  > 来源：https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf
-- **【近期动态】**routing.wireless.academy 返回 WordPress critical error（2026-09-28 实测）
-  > routing.wireless.academy 返回 WordPress critical error（2026-09-28 实测）
+- **【联系方式与基础画像】**Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE
+  > Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE
   > 来源：https://routing.wireless.academy/
-- **【联系方式】**training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
-  > training@grifonline.it（CSV）；MX=mail.grifonline.it（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://mum.mikrotik.com/presentations/US16/presentation_3371_1462179397.pdf
+- **【联系方式与基础画像】**CSV 入口:+39 340 894 8064 / training@grifonline.it
+  > CSV 入口:+39 340 894 8064 / training@grifonline.it
+  > 来源：https://routing.wireless.academy/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 WISP 教父：Grifonline ISP（1997）+Linkwave WISP（2006）双创始人，2010 起官方 Trainer
-- **产品线与在售品牌**：自有 ISP/WISP 运营+培训+MUM 演讲
-- **目标行业与场景**：WISP 运营、工程师培训
-- **团队与规模**：双公司小而精
-- **决策链与对接人**：Busatti 本人
-- **技术与认证**：MTCNA/MTCRE/MTCINE/MTCIPv6E/MTCSE/MTCSWE；RIPE/AMS-IX/MIX-IT 会员
-- **采购与供应链信号**：自有网运营采购+生态推荐
-- **近期动态与线索**：routing.wireless.academy 站崩（WP 错误）
-- **与我方契合点**：POP/基站接入层+教具；其门徒网络口碑口
-- **风险与注意**：讲台级人物：参数字字可验
+- **业务定位**：波 26·A-041:意大利谱: **守档准由·原 R56 谱基增厚**:Lorenzo Busatti：Grifonline S.r.l.（ISP，1997 创立）+Linkwave（WISP，2006）创始人；MikroTik Trainer 自 2010；MUM Dallas/Copenhagen/Ljubljana 多次主讲（mAP/UserManager/NetFlow）；RIPE/AMS-IX/MIX-IT 会员；发起高质量培训伙伴非盈利组织（NPO for High Quality Training Partners）;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE
+- **目标行业与场景**：意大利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -187,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：教父级背书
-- **W**：个人维护
-- **O**：门徒圈
-- **T**：官配
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -222,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 自有 POP 硬件清单
-  - [ ] 教具现况
-  - [ ] 门徒圈推荐意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -236,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Lorenzo,
+Dear Lorenzo Busatti Team,
 
-Your mAP talk at MUM Dallas is still passed around - and Grifonline + Linkwave plus a trainer badge since 2010 is a full WISP life.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build managed PoE switches with a hardware watchdog that power-cycles a hung AP/CPE by itself - built for exactly the dusty POP cabinets WISPs fight every summer. 8-port model reference: $99 USD EXW.
-
-One question: how many times a year does someone drive to a POP cabinet just to power-cycle one device?
-
-If useful, I can send a bench unit for evaluation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

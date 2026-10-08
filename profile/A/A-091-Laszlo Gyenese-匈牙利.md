@@ -48,9 +48,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训
-- 【推断】匈牙利语官方培训中心=教具真实台位；全课程谱意味着 MTCSWE 段有交换教具需求
-- 【假设】小企业内训全国跑=便携教具箱诉求
+- 【事实】波 27·A-091:匈牙利谱: **守档准由·原 R56 谱基增厚**:Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,35 +136,35 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：杰尔官方培训中心全课程谱；NetBasic 预备设计专业
-- **②芯片/型号**：MikroTik 教具
-- **③KP 深挖**：Gyenese；双域邮存活
-- **④Saga 对标**：诚实地教样本（红线）
-- **⑤在乎与偏好**：教学真实
+- **①背景再核**：波 27·A-091:匈牙利谱: **守档准由·原 R56 谱基增厚**:Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：匈牙利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“DigiSoftNet, mint hivatalos MikroTik Training Center…Képzési palettám lefedi a gyártó teljes képzési ajánlatát…NetBasic kurzus”
-  > “DigiSoftNet, mint hivatalos MikroTik Training Center…Képzési palettám lefedi a gyártó teljes képzési ajánlatát…NetBasic kurzus”
+- **【联系方式与基础画像】**Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训
+  > Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训
   > 来源：https://mikrotikgyor.hu/
-- **【联系方式】**双域 MX 存活（mail.mikrotikgyor.hu / mail.digisoftnet.hu）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 双域 MX 存活（mail.mikrotikgyor.hu / mail.digisoftnet.hu）（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:+36 20 9937980；⚠️ 无邮箱：站点 mikrotikgyor.hu / digisoftnet.hu｜MikroTik Trainer + Academy Trainer，兼 CISCO Network Academy 讲师；
+  > CSV 入口:+36 20 9937980；⚠️ 无邮箱：站点 mikrotikgyor.hu / digisoftnet.hu｜MikroTik Trainer + Academy Trainer，兼 CISCO Network Academy 讲师；
   > 来源：https://mikrotikgyor.hu/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：匈牙利官方 MikroTik 培训中心（杰尔/布达佩斯）
-- **产品线与在售品牌**：MikroTik 全课程+NetBasic
-- **目标行业与场景**：专业工程师+家庭管理员+企业内训
-- **团队与规模**：讲师个体+培训中心牌
-- **决策链与对接人**：Gyenese 本人
-- **技术与认证**：官方 Training Center
-- **采购与供应链信号**：教具台位
-- **近期动态与线索**：站常态化运行
-- **与我方契合点**：交换教具诚实比较样本
-- **风险与注意**：师者红线
+- **业务定位**：波 27·A-091:匈牙利谱: **守档准由·原 R56 谱基增厚**:Laszlo Gyenese / DigiSoftNet（匈牙利杰尔）：**官方 MikroTik Training Center**——全课程谱（MTCNA 起全轨）；设 **NetBasic 基础预备课**为 MTCNA 铺垫；公开课主要在布达佩斯（合作方场地），全国可做企业内训;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证，持 MikroTik 认证（开课）
+- **目标行业与场景**：匈牙利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：匈牙利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +179,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：官方
-- **W**：带宽
-- **O**：双轨
-- **T**：官配
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -214,9 +214,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具箱现况
-  - [ ] 邮箱入口
-  - [ ] 评测意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -228,18 +227,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-Hi Laszlo,
+Dear Laszlo Gyenese Team,
 
-DigiSoftNet as an official MikroTik Training Center with a full course palette - including a NetBasic primer - shows you teach the whole road, not fragments.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch that could serve as an honestly labeled second-vendor sample in your switching labs (STP/VLAN/watchdog). Reference: $99 USD EXW.
-
-One question: which switch hardware do your students work on in the switching modules today?
-
-If useful, I can send a bench unit - plainly labeled, no strings, no teacher-games. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Alain Casault, B.Ing.**（魁北克法语区，Sainte-Thérèse/Prévost 带），个体咨询公司「Télécommunications Alain Casault」=**MikroTik 官方培训+电信顾问**。
+- **是谁**：公立院校（教授个人顾问线）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Alain Casault, B.Ing.**（魁北克法语区，Sainte-Thérèse/Prévost 带），个体咨询公司「Télécommunications Alain Casault」=**MikroTik 官方培训+电信顾问**。履历亮点（ZoomInfo 工商画像）：**2018–2024 任 CSPE（魁北克校长联合会）信息技术副总裁** | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 培训+规划型顾问：课程覆盖 wired/wireless 网络规划与配置、远程接入、存储；设备层 MikroTik RouterOS 全线。他 2018–2024 管过整个校长联合会的 IT——魁北克**教育网**人脉与采购语境深（校园 VLAN/PoE 场景词汇他全懂）。出货量：不适用（顾问不囤货），但其学员=魁省 ISP/学校网络操作者，是**影响力出货 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-005:加拿大谱: **具名金谱·原批引真**:Alain Casault, B.Ing.(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-培训+规划型顾问：课程覆盖 wired/wireless 网络规划与配置、远程接入、存储；设备层 MikroTik RouterOS 全线。他 2018–2024 管过整个校长联合会的 IT——魁北克**教育网**人脉与采购语境深（校园 VLAN/PoE 场景词汇他全懂）。出货量：不适用（顾问不囤货），但其学员=魁省 ISP/学校网络操作者，是**影响力出货通道**。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -132,32 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Alain Casault, B.Ing.**（魁北克法语区，Sainte-Thérèse/Prévost 带），个体咨询公司「Télécommunications Alain Casault」=**MikroTik 官方培训+电信顾问**。履历亮点（ZoomInfo 工商画像）：**2018–2024 任 CSPE（魁北克校长联合会）信息技术副总裁**、**2023–2024 持 MikroTik Certified Trainer**。自有域 **alaincasault.com**（MX 今日核验有效：自建 mail.alaincasault.com）。⚠️ 原备案 educationhmo.com **域名已被改指到无关博客**（hex在他之前的教育系统项目域失活），但 MX 仍挂 MS365——旧邮箱 infra 未注销，按「遗产通道」处理。
-- **芯片与在用型号**：培训+规划型顾问：课程覆盖 wired/wireless 网络规划与配置、远程接入、存储；设备层 MikroTik RouterOS 全线。他 2018–2024 管过整个校长联合会的 IT——魁北克**教育网**人脉与采购语境深（校园 VLAN/PoE 场景词汇他全懂）。出货量：不适用（顾问不囤货），但其学员=魁省 ISP/学校网络操作者，是**影响力出货通道**。
-- **关键人KP**：**Alain Casault 本人**（业主&顾问&讲师，B.Ing. 工程师衔）。联系：电话 **1-514-394-0419**（多源一致）；邮箱既有 **casault.alain@educationhmo.com**（遗产通道，MX 活）；**模式猜测 alain@alaincasault.com / contact@alaincasault.com——自有域 MX 自建存活，首试 alain@（未验证）**。LinkedIn 未见公开档案（魁省法语老派咨询师常态）。
-- **关注点与资质**：①**动手实操** ：其公司介绍强调 hands-on training over self-study——寄样机比寄彩页有效 10 倍；②教育网络合规与长线稳定（他卖 CSPE 时代就处理的议题）；③法语区沟通：首封英文信末尾附一句法语问候可显著提回复率（Montréal 地区商务惯例）。无参展记录；B.Ing.=魁北克工程师学会会员语境。
-- **优缺点SWOT**：**S**：教育 IT 决策层 6 年 VP 履历+MikroTik 官方讲师背书=魁省教育/ISP 圈的**枢纽型个人**；培训班是天然带货位。**W**：一人公司、无库存能力、出货要经学员转手；公开数字足迹老旧（ZoomInfo 画像+失效域）。**O**：魁省学校网改造=L2+ Voice VLAN/VLAN-per-class 强需求；他的学员名录=间接渠道。**T**：直销链路长（顾问→学员→项目）；教育公立段如有招标资质要求需规避（只做私营/分包层）。
-- **Saga产品适配**：讲师教学机：**STC-424XGGPM-280W**（EXW $180）让学员亲手摸 L2+ CLI（Marvell 同源叙事）；校园底盒 **STC-424XGGM**（EXW $143，VLAN-per-class+QinQ）；机架小柜 **STC-448DGGM**（EXW $220）。话术：「培训教学机批量价+出厂预刷教学配置」（对口他 hands-on 卖点）。⚠️ 公立招标段不破例，只走私营学校/ISP 学员层。
+- **①背景再核**：波 26·A-005:加拿大谱: **具名金谱·原批引真**:Alain Casault, B.Ing.(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Alain Casault(业主/首席顾问/MikroTik 认证讲师（前 CSPE IT 副总裁）,电话多源一致；遗产邮箱 MX（MS365）今日核验仍解析);—（模式猜测）(自有域邮箱,模式猜测 · 未验证（自有域 MX 自建存活，首试优先级高）)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【现职】**自营 MikroTik 培训+电信顾问公司。
-  > Télécommunications Alain Casault specializes in providing MikroTik training and telecommunications consulting services.
-  > 来源：https://www.zoominfo.com/c/alain-casault/532760382
-- **【履历】**曾任 CSPE 信息技术副总裁（2018–2024）并任 MikroTik 认证讲师。
-  > Previously, Alain was a Vice President, Information Technology at Cspe and also held positions at Mikrotik.
-  > 来源：https://www.zoominfo.com/p/Alain-Casault/5130311306
-- **【自有域】**个人官网域 alaincasault.com 在册，电话与 CSV 一致。
-  > Phone number: (514) 394-0419 Website: www.alaincasault.com
-  > 来源：https://www.zoominfo.com/pic/alain-casault/532760382
-- **【遗产域失活】**educationhmo.com 已改指到无关法语博客，仅 MX 残存。
-  > Hélène Marcil – Orthopédagogue – Une aide à votre portée
+- **【联系方式与基础画像】**Alain Casault, B.Ing.(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Alain Casault, B.Ing.(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://educationhmo.com/
-- **【教学理念】**强调动手实操优于自学——样机策略成立。
-  > The company emphasizes the importance of hands-on training over self-study methods.
-  > 来源：https://www.zoominfo.com/c/alain-casault/532760382
+- **【联系方式与基础画像】**CSV 入口:1-514-394-0419 / casault.alain@educationhmo.com
+  > CSV 入口:1-514-394-0419 / casault.alain@educationhmo.com
+  > 来源：https://educationhmo.com/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-005:加拿大谱: **具名金谱·原批引真**:Alain Casault, B.Ing.(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE
+- **目标行业与场景**：加拿大 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**Alain Casault(业主/首席顾问/MikroTik 认证讲师（前 CSPE IT 副总裁）,电话多源一致；遗产邮箱 MX（MS365）今日核验仍解析);—（模式猜测）(自有域邮箱,模式猜测 · 未验证（自有域 MX 自建存活，首试优先级高）)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -172,7 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：教育 IT 决策层 6 年 VP 履历+MikroTik 官方讲师背书=魁省教育/ISP 圈的**枢纽型个人**；培训班是天然带货位。**W**：一人公司、无库存能力、出货要经学员转手；公开数字足迹老旧（ZoomInfo 画像+失效域）。**O**：魁省学校网改造=L2+ Voice VLAN/VLAN-per-class 强需求；他的学员名录=间接渠道。**T**：直销链路长（顾问→学员→项目）；教育公立段如有招标资质要求需规避（只做私营/分包层）。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -204,6 +215,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -211,21 +226,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Alain,
+Dear Alain Casault Team,
 
-I came across Alain Casault, B.Ing. - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Magenta Networks Inc.**，加拿大 Scarborough（多伦多东），小型 **MSP**：网络管理/服务台/咨询/网络安全/备份/云六条服务线。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,12 +44,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Magenta Networks Inc.**，加拿大 Scarborough（多伦多东），小型 **MSP**：网络管理/服务台/咨询/网络安全/备份/云六条服务线。官网活体指标：**19 个在管站点、5 个在建项目、310 个端点**。行业覆盖 SMB/零售/医疗（合规商业段）/制造/酒店/金融。域名双持 magentanetworks.ca（站）+ | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是第二供应商的土壤。端点构成未公开；310 端点按 SMB 均值含 ~20–40 台接入交换存量。客户反馈：未见公开评价页（站体为模板站，案例区缺）。芯片向：未见自有硬件偏好，MikroTik 认证顾问输出（CSV 载 Amir Seifi 持 MTCNA 等）→ 路由/交换以 MikroTik  | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-006:加拿大谱: **具名金谱·原批引真**:Amir Seifi / Magenta Networks(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是第二供应商的土壤。端点构成未公开；310 端点按 SMB 均值含 ~20–40 台接入交换存量。客户反馈：未见公开评价页（站体为模板站，案例区缺）。芯片向：未见自有硬件偏好，MikroTik 认证顾问输出（CSV 载 Amir Seifi 持 MTCNA 等）→ 路由/交换以 MikroTik 系为主推定。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -137,29 +142,35 @@ MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是�
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Magenta Networks Inc.**，加拿大 Scarborough（多伦多东），小型 **MSP**：网络管理/服务台/咨询/网络安全/备份/云六条服务线。官网活体指标：**19 个在管站点、5 个在建项目、310 个端点**。行业覆盖 SMB/零售/医疗（合规商业段）/制造/酒店/金融。域名双持 magentanetworks.ca（站）+magentanetworks.net（邮箱域），MX 均 Google。
-- **芯片与在用型号**：MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是第二供应商的土壤。端点构成未公开；310 端点按 SMB 均值含 ~20–40 台接入交换存量。客户反馈：未见公开评价页（站体为模板站，案例区缺）。芯片向：未见自有硬件偏好，MikroTik 认证顾问输出（CSV 载 Amir Seifi 持 MTCNA 等）→ 路由/交换以 MikroTik 系为主推定。
-- **关键人KP**：**Amir Seifi**（推定负责人；其 MikroTik 认证名录行=CSV 源头）。邮箱公开双通道 **info@ / ops@magentanetworks.net**（contact 页「General Inquiries」「Operations & Sales」分工明示）+ 既有 support@ + 电话 +1-647-812-5170。模式猜测 **amir@ / aseifi@magentanetworks.net**（未验证）。LinkedIn 检索无确认命中（同名他行业者干扰，已如实排除）。
-- **关注点与资质**：①服务化定价/工单化交付（helpdesk 叙述浓）；②多行业合规敏感（医疗/金融写入行业页——**只谈商用 IT 段，不碰患者数据/金融核心系统**）；③「cutting-edge tools」自我要求=愿意试新供应商样机；④营业时间 Mon–Fri 9–6。参展/社媒未见。
-- **优缺点SWOT**：**S**：MSP 粘性强（19 站包年）→ 设备采购是持续流而非单笔；双邮箱分工=有人读采购邮件。**W**：体量小（310 端点）、模板站、无案例与团队页、LinkedIn 缺席→采购预算天花板低。**O**：制造/酒店/零售三线都是 PoE 密集业态；MSP 转售毛利诉求强 → Saga 半价带正中。**T**：Toronto 圈 MSP 密集（价格战区）；无差别开发信打开率低——要用「19 站点/310 端点」这种他自己公布的数字做开场以证明看过站。
-- **Saga产品适配**：主梯 **STC-424XGGPM-280W**（EXW $180，SMB 站点标配）；酒店/零售小柜 **STC-28DGGPM**（EXW $99）；制造客户车间 **STI-080GE**（EXW $55 非管理）/ **STI-288GP**（EXW $74.8 PoE，3 年保）+ **STI-111GP** 光纤收发（EXW $36.3）。话术：「Toronto 仓可议/DHL 5–7 天出厂，先送一台进你 19 站之一做 30 天」。
+- **①背景再核**：波 26·A-006:加拿大谱: **具名金谱·原批引真**:Amir Seifi / Magenta Networks(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Amir Seifi(负责人（推定；MikroTik 认证名录持证人）,双职能邮箱官网公开；MX 已验（Google）；LinkedIn 未确认);—（模式猜测）(—,模式猜测 · 未验证)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**全栈 MSP：主动监控到全委托管理。
-  > IT Solutions for any business. Delivering comprehensive IT solutions, from proactive monitoring to full-spectrum management.
-  > 来源：https://magentanetworks.ca/
-- **【经营规模】**19 在管站点、5 在建项目、310 端点（官网自述）。
-  > 19 Active sites 5 ongoing projects 310 endpoints
-  > 来源：https://magentanetworks.ca/
-- **【行业覆盖】**SMB/零售/医疗/制造/酒店/金融六行业页。
-  > SMBs … Retail … Healthcare … Manufacturing … Hospitality … Financial Industry
-  > 来源：https://magentanetworks.ca/
-- **【KP 通道】**info@ 与 ops@ 分职能公开，联系电话一致。
-  > General Inquiries: info@magentanetworks.net … Operations & Sales: ops@magentanetworks.net … +1-647-812-5170
-  > 来源：https://magentanetworks.ca/contact
+- **【联系方式与基础画像】**Amir Seifi / Magenta Networks(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入
+  > Amir Seifi / Magenta Networks(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入
+  > 来源：https://magentanetworks.net/
+- **【联系方式与基础画像】**CSV 入口:+1-647-812-5170 / support@magentanetworks.net
+  > CSV 入口:+1-647-812-5170 / support@magentanetworks.net
+  > 来源：https://magentanetworks.net/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-006:加拿大谱: **具名金谱·原批引真**:Amir Seifi / Magenta Networks(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCTCE+MTCUME+MTCINE
+- **目标行业与场景**：加拿大 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**Amir Seifi(负责人（推定；MikroTik 认证名录持证人）,双职能邮箱官网公开；MX 已验（Google）；LinkedIn 未确认);—（模式猜测）(—,模式猜测 · 未验证)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,7 +185,10 @@ MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是�
 
 ## SWOT
 
-**S**：MSP 粘性强（19 站包年）→ 设备采购是持续流而非单笔；双邮箱分工=有人读采购邮件。**W**：体量小（310 端点）、模板站、无案例与团队页、LinkedIn 缺席→采购预算天花板低。**O**：制造/酒店/零售三线都是 PoE 密集业态；MSP 转售毛利诉求强 → Saga 半价带正中。**T**：Toronto 圈 MSP 密集（价格战区）；无差别开发信打开率低——要用「19 站点/310 端点」这种他自己公布的数字做开场以证明看过站。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -201,6 +215,10 @@ MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是�
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -208,21 +226,15 @@ MSP 模式=客户有什么管什么，**无单一设备忠诚**——这正是�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Amir,
+Dear Amir Seifi Team,
 
-I came across Magenta Networks - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

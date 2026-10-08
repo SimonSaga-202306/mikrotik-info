@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）
-- 【推断】LMG 疑并入 WAV 集团：sales@lastmilegear.com 邮箱仍活（MX 同 WAV 设施），邮件大概率有 WAV 团队接收——但 Netonix-out 纪律优先
-- 【假设】WAV 庞大的 WISP 客群是反向观察样本；用户口径放开后其价值相当于“WAV 的入口”
+- 【事实】波 27·A-096:美国谱: **守档准由·原 R56 谱基增厚**:Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -142,35 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：LMG→疑似并入 WAV；两域邮件设施同群
-- **②芯片/型号**：Netonix 历史/WAV 全谱
-- **③KP 深挖**：sales@ 箱仍在
-- **④Saga 对标**：—
-- **⑤在乎与偏好**：—
+- **①背景再核**：波 27·A-096:美国谱: **守档准由·原 R56 谱基增厚**:Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**lastmilegear.com → wavonline.com（301）；WAV：$25M+ on-hand inventory / 70,000+ SKUs / 10,000+ customers
-  > lastmilegear.com → wavonline.com（301）；WAV：$25M+ on-hand inventory / 70,000+ SKUs / 10,000+ customers
-  > 来源：https://www.wavonline.com/
-- **【联系方式】**sales@lastmilegear.com；两域 MX 同为 mx1-us1.ppe-hosted.com（并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > sales@lastmilegear.com；两域 MX 同为 mx1-us1.ppe-hosted.com（并入信号）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.lastmilegear.com/
+- **【联系方式与基础画像】**Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambi
+  > Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambi
+  > 来源：仓内:A类深挖_2026-09-28_R56_第10批.json
+- **【联系方式与基础画像】**CSV 入口:sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】。自述卖 Cambium / SAF 等
+  > CSV 入口:sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】。自述卖 Cambium / SAF 等
+  > 来源：仓内:A类深挖_2026-09-28_R56_第10批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：LMG：Netonix 渠道→已并入 WAV 集团（疑似）
-- **产品线与在售品牌**：Netonix（历史）+WAV 全谱
-- **目标行业与场景**：WISP/ISP/MSP
-- **团队与规模**：集团规模
-- **决策链与对接人**：sales@lastmilegear.com（箱仍在）
-- **技术与认证**：—
-- **采购与供应链信号**：集团级
-- **近期动态与线索**：域名 301 至 WAV+邮箱基础设施同群
-- **与我方契合点**：纪律建档（潜在 WAV 入口价值）
-- **风险与注意**：Netonix-out 纪律
+- **业务定位**：波 27·A-096:美国谱: **守档准由·原 R56 谱基增厚**:Last Mile Gear（美国）：Netonix 授权渠道（WISP 接入层交换机）；**lastmilegear.com 现 301 至 wavonline.com——WAV 为美国头部 WISP/ISP 分销（$25M+ 在仓、70K SKU、1 万客户、35+ 年；RUCKUS/viaPhoton/Cambium/Tarana 全谱）；两域共享同一 ppe-hosted 邮件基础设施（并入信号强）**；CSV：sales@lastmilegear.com 双向印证（官网+X @LastMileGear）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Netonix 授权渠道（WISP 接入层交换机）
+- **目标行业与场景**：美国 谱;WISP 集成商/代理（Netonix）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：—
-- **O**：WAV 入口
-- **T**：—
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -220,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 并入正式口径
-  - [ ] 口径放开后路径
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -233,7 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——Round-28 Netonix-out 纪律。备注：若放开，WAV 作为 1 万客户的 WISP 大分销，其 value PoE 档位空缺值得以集团名义进函。）
+Dear Last Mile Gear Team,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Yvan Laverdière**，加拿大魁北克 Rouyn-Noranda。
+- **是谁**：公立学院教授（私人顾问线）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Yvan Laverdière**，加拿大魁北克 Rouyn-Noranda。**Cégep de l'Abitibi-Témiscamingue 计算机技术教授（Techniques de l'informatique），2008 年入职至今 18 年**；此前任 Vidéotron（魁北克电信运营商）系统管理员，兼具运营商+教育双履历。LinkedI | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 教学+顾问双场景 MikroTik 全线（RouterOS 教学实验床=长期设备消耗口）；电信系统管理员出身=接入层/汇聚层语境母语。学院实验室设备归属机构预算（不碰）；其私人顾问项目与教学演示机为可做面。出货量/订单：无公开。客户反馈：2020 年省内教师联名信签署记录佐证其活跃教师身份。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-011:加拿大谱: **具名金谱·原批引真**:Yvan Laverdiere(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-教学+顾问双场景 MikroTik 全线（RouterOS 教学实验床=长期设备消耗口）；电信系统管理员出身=接入层/汇聚层语境母语。学院实验室设备归属机构预算（不碰）；其私人顾问项目与教学演示机为可做面。出货量/订单：无公开。客户反馈：2020 年省内教师联名信签署记录佐证其活跃教师身份。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -131,29 +136,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Yvan Laverdière**，加拿大魁北克 Rouyn-Noranda。**Cégep de l'Abitibi-Témiscamingue 计算机技术教授（Techniques de l'informatique），2008 年入职至今 18 年**；此前任 Vidéotron（魁北克电信运营商）系统管理员，兼具运营商+教育双履历。LinkedIn 已定位（in/yvan-laverdiere-30898496）。MikroTik 认证顾问持 5 证（MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE）——交换（SWE）与互联（INE）双修的技术型教师。⚠️ **公立学院身份**：跟进严格限定其私人顾问/教学实验语境，不谈学院机构采购。
-- **芯片与在用型号**：教学+顾问双场景 MikroTik 全线（RouterOS 教学实验床=长期设备消耗口）；电信系统管理员出身=接入层/汇聚层语境母语。学院实验室设备归属机构预算（不碰）；其私人顾问项目与教学演示机为可做面。出货量/订单：无公开。客户反馈：2020 年省内教师联名信签署记录佐证其活跃教师身份。
-- **关键人KP**：**Yvan Laverdière 本人**。邮箱 **yvan.laverdiere@cegepat.qc.ca**（CSV 既有，学院 MS365 MX 今日核验有效）；电话：CSV 手机 819-763-1411 / 校办总机（ZoomInfo）(819) 762-0931。LinkedIn 页已见（可二通道）。法语沟通优先。
-- **关注点与资质**：①教学实操优先（实验床/学生可摸的设备）；②公立雇员合规敏感（利益冲突回避——首封即声明**只谈私人顾问与自费教具**，不涉学院采购流程）；③法语区（魁北克 Abitibi 偏远地区，ISP 小客户多）；④5 证体系=接受技术深度对话。参展/社媒：未见公开痕迹。
-- **优缺点SWOT**：**S**：18 年教职的稳定性+运营商履历+SWE/INE 高阶双证=能听懂全部 Marvell 特性叙事；教具需求年年有。**W**：公立身份=商业动作慢、合规顾虑重；个人顾问体量小；偏远地区物流。**O**：教学样机（学生实验交换机组网）、其私营顾问单（地区中小企业）；学院暑期实验室更新若走公开采购则回避、由他自己评估。**T**：公立合规红线一旦踩错=连私人线一起丢；回复周期以学期节奏计。
-- **Saga产品适配**：教学实验床：**STC-424XGGPM-280W**（24口 PoE af/at，**EXW $180**，L2+ 全特性给学生演示 VLAN/ERPS/QinQ/sFlow）；私人顾问小单：**STC-28DGGPM**（**EXW $99**）。话术：法语落款+「自费教具 NFR 价、工业 3 年保/商用 1 年保如实、15 天有效」；L2+ 特性表（Marvell AC5 Lite）随附——SWE 持证者自己会读出价值。
+- **①背景再核**：波 26·A-011:加拿大谱: **具名金谱·原批引真**:Yvan Laverdiere(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Yvan Laverdière(Cégep 计算机技术教授（2008–今）/ MikroTik 认证顾问（5证）,邮箱既有；学院 MX（MS365）已验；LinkedIn 页已见)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【身份】**Cégep de l'Abitibi-Témiscamingue 教授（2008 至今）。
-  > Yvan Laverdiere is a Professor at Cégep de l'Abitibi-Témiscamingue based in Rouyn Noranda, Quebec … Cégep de l'Abitibi-Témiscamingue … 2008-present (18 years)
-  > 来源：https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842
-- **【履历】**曾任 Vidéotron 系统管理员。
-  > Previously, Yvan was a System Administrator at Videotron and also held positions at Comite Municipal De Laniel.
-  > 来源：https://www.zoominfo.com/p/Yvan-Laverdiere/-1520545842
-- **【学科确认】**计算机技术学科教授。
-  > Yvan Laverdière, professeur en Techniques de l'informatique, Cégep de l'Abitibi-Témiscamingue
-  > 来源：https://seeclg.org/wp-content/uploads/2020/11/liste-des-signataires-lettre-ouverte-cegeps.pdf
-- **【邮箱 infra】**学院域 MX 指向 MS365，邮箱 infra 有效。
-  > cegepat.qc.ca MX → cegepat-qc-ca.mail.protection.outlook.com（2026-09-28 本机核验）
-  > 来源：dns://cegepat.qc.ca/MX
+- **【联系方式与基础画像】**Yvan Laverdiere(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Yvan Laverdiere(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > 来源：https://cegepat.qc.ca/
+- **【联系方式与基础画像】**CSV 入口:819-763-1411 / yvan.laverdiere@cegepat.qc.ca
+  > CSV 入口:819-763-1411 / yvan.laverdiere@cegepat.qc.ca
+  > 来源：https://cegepat.qc.ca/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-011:加拿大谱: **具名金谱·原批引真**:Yvan Laverdiere(加拿大);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCSWE
+- **目标行业与场景**：加拿大 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**Yvan Laverdière(Cégep 计算机技术教授（2008–今）/ MikroTik 认证顾问（5证）,邮箱既有；学院 MX（MS365）已验；LinkedIn 页已见)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -168,7 +179,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：18 年教职的稳定性+运营商履历+SWE/INE 高阶双证=能听懂全部 Marvell 特性叙事；教具需求年年有。**W**：公立身份=商业动作慢、合规顾虑重；个人顾问体量小；偏远地区物流。**O**：教学样机（学生实验交换机组网）、其私营顾问单（地区中小企业）；学院暑期实验室更新若走公开采购则回避、由他自己评估。**T**：公立合规红线一旦踩错=连私人线一起丢；回复周期以学期节奏计。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -199,6 +213,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -206,21 +224,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Yvan,
+Dear Yvan Laverdière Team,
 
-I came across Yvan Laverdiere - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

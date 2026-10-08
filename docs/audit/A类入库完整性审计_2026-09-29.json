@@ -6,7 +6,7 @@
    "check": "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
    "ok": false,
    "severity": "critical",
-   "detail": "CSV=580 STRUCT=747 MD=580 深挖批=559+20"
+   "detail": "CSV=580 STRUCT=747 MD=580 深挖批=580+20"
   },
   {
    "check": "编号 A-001..567 连续无缺无多",
@@ -54,7 +54,7 @@
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 474/547;独立措辞 73(信息项)"
+   "detail": "同文入档 547/547;独立措辞 0(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",

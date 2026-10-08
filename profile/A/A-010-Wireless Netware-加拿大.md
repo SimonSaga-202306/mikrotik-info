@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Wireless Netware Technology**，Markham ON（货从 Toronto 仓发，IC 认证库存），**2011 年创立**、LinkedIn 规模 2–10 人、388 粉。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 主场景匹配+首触只推一个型号的纪律；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Wireless Netware Technology**，Markham ON（货从 Toronto 仓发，IC 认证库存），**2011 年创立**、LinkedIn 规模 2–10 人、388 粉。自我定位 **「Value-Added MikroTik Master Distributor」**+**加拿大首位 MikroTik 官方培训师**（ | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 全系 MikroTik（RouterOS/SwitchOS 专家，MTCNA/MTCRE 培训课程常态排期）；自有品牌光学件 SYNOXX（SFP/SFP+/QSFP28/QSFP-DD 全档）——**证明其已打通中国/亚洲 OEM 贴牌供应链（光模块贴牌→交换贴牌是自然延伸）**。出货量：未公开；「Full MikroTik Range In Stock」 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-010:加拿大谱: **具名金谱·原批引真**:Wireless Netware(加拿大);CSV 信号:MikroTik（Master+VAD）;切入:卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STI-288GP($74.8 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-全系 MikroTik（RouterOS/SwitchOS 专家，MTCNA/MTCRE 培训课程常态排期）；自有品牌光学件 SYNOXX（SFP/SFP+/QSFP28/QSFP-DD 全档）——**证明其已打通中国/亚洲 OEM 贴牌供应链（光模块贴牌→交换贴牌是自然延伸）**。出货量：未公开；「Full MikroTik Range In Stock」+Toronto 仓=现货分销体量。客户反馈：LinkedIn 推荐语（Sarah Kerr：业内最懂的人之一）；学员评价常态。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik（Master+VAD））
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -136,35 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Wireless Netware Technology**，Markham ON（货从 Toronto 仓发，IC 认证库存），**2011 年创立**、LinkedIn 规模 2–10 人、388 粉。自我定位 **「Value-Added MikroTik Master Distributor」**+**加拿大首位 MikroTik 官方培训师**（2017-04 授牌）+MikroTik 动力托管机房。副业务：**Bell/Rogers 批发上网服务转售**、SYNOXX 光模块与 **Wirelessnetware 自主牌网络器材**（贴牌资产已存在！）。Facebook 同名在册。
-- **芯片与在用型号**：全系 MikroTik（RouterOS/SwitchOS 专家，MTCNA/MTCRE 培训课程常态排期）；自有品牌光学件 SYNOXX（SFP/SFP+/QSFP28/QSFP-DD 全档）——**证明其已打通中国/亚洲 OEM 贴牌供应链（光模块贴牌→交换贴牌是自然延伸）**。出货量：未公开；「Full MikroTik Range In Stock」+Toronto 仓=现货分销体量。客户反馈：LinkedIn 推荐语（Sarah Kerr：业内最懂的人之一）；学员评价常态。
-- **关键人KP**：**Hani Rahrouh**（President, CEO & MikroTik Coordinator；加拿大首位官方 MikroTik 培训师；LinkedIn /in/hani-rahrouh-38019521，5K 粉、周更：Markham Board of Trade 活动、培训课程预告）。邮箱 **info@wirelessnetware.ca**（公开）+ 电话 +1 647 477 0163；模式猜测 **hani@wirelessnetware.ca**（未验证；pattern=firstname@ 与其家族式命名相符需验证）。渠道角色决定：**他是买手+培训双身份，见面先谈分销梯价与贴牌 MOQ**。
-- **关注点与资质**：①**IC/ISED 认证**（首页头牌「IC Certified Products」——⚠️ Saga 现证为 FCC/CE/UKCA 族，加拿大 IC 多为认可 FCC 报告或需补 ISED，**报价前必须核实 IC 适用性并在信中如实处理**，这是加拿大零售/培训教具的门槛）；②培训教具批量（MTCNA/MTCRE 班期稳定=教具箱规需求）；③光模块贴牌伙伴升级路径（SYNOXX 交换/工业交换贴牌）；④Bell/Rogers 批发线=ISP 级 VLAN/QinQ 语境（L2+ flow-based QinQ 可对）。社交：LinkedIn/Facebook 双活跃，本地商会（Markham Board of Trade）刷脸型。
-- **优缺点SWOT**：**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。
-- **Saga产品适配**：①**贴牌分销位**：STC/STI 全系可谈 Wirelessnetware-branded 交换线（对标 SYNOXX 光学），起量谈「定制 branding available」条款；②**教具位**：**STC-424XGGPM-280W**（EXW $180，MTCNA 班 VLAN/PoE 实验）/**STC-424XGGM**（EXW $143，MTCRE 班）；③**ISP 语境**：L2+ QinQ/VLAN-Mapping（批发上网客户二层透传）；④工业白牌 STI-288GP/280GE（EXW $74.8/$63.8）。首封信结构：SYNOXX 致敬→交换贴牌延伸提案→教具样机 offer→IC 认证如实说明（FCC/CE 版+ISED 评估中）。
+- **①背景再核**：波 26·A-010:加拿大谱: **具名金谱·原批引真**:Wireless Netware(加拿大);CSV 信号:MikroTik（Master+VAD）;切入:卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**Hani Rahrouh(President & CEO / MikroTik Coordinator（加拿大首位官方培训师）,官网公开；LinkedIn 5K 粉周更（可双通道）);—（模式猜测）(—,模式猜测 · 未验证（MX Google 已验）)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【定位】**加拿大授权 MikroTik 分销+Toronto 仓现货，IC 认证。
-  > Wireless Netware Technology is Canada's authorized MikroTik reseller, stocking the full range … All products are IC Certified for Canadian use and ship from our Toronto warehouse
+- **【联系方式与基础画像】**Wireless Netware(加拿大);CSV 信号:MikroTik（Master+VAD）;切入:卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
+  > Wireless Netware(加拿大);CSV 信号:MikroTik（Master+VAD）;切入:卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
   > 来源：https://wirelessnetware.ca/
-- **【背景】**2011 年成立、2–10 人、Markham，LinkedIn 在册。
-  > Value-Added MikroTik Master Distributor … Company size: 2-10 employees … Headquarters: Markham, Ontario … Founded: 2011
-  > 来源：https://ca.linkedin.com/company/wireless-netware
-- **【特项】**培训 partner + Bell/Rogers 批发上网转售 + The Dude 顾问。
-  > MikroTik Certified Trainer Partner, Bell Wholesale Internet Service, Rogers Wholesale Internet Service, MikroTik Consultant, and The-Dude Consultant
-  > 来源：https://ca.linkedin.com/company/wireless-netware
-- **【自有品牌】**已有 SYNOXX 光模块与 Wirelessnetware 牌器材=贴牌路径已通。
-  > Looking for SYNOXX optical transceivers or Wirelessnetware-branded networking gear? We carry those too — all in one place.
+- **【联系方式与基础画像】**CSV 入口:+1 647 477 0163 / info@wirelessnetware.ca
+  > CSV 入口:+1 647 477 0163 / info@wirelessnetware.ca
   > 来源：https://wirelessnetware.ca/
-- **【KP】**Hani Rahrouh 任 President/CEO/MikroTik Coordinator。
-  > Hani Rahrouh President, CEO, and MikroTik Coordinator @ Wireless Netware Technology | MikroTik Certified Trainer
-  > 来源：https://ca.linkedin.com/company/wireless-netware
-- **【口碑】**同行推荐：业内最懂的人之一。
-  > I've done Mikrotik training & collaboration with Hani. Hes one of the most knowledgeable people in the industry.
-  > 来源：https://www.linkedin.com/in/hani-rahrouh-38019521/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-010:加拿大谱: **具名金谱·原批引真**:Wireless Netware(加拿大);CSV 信号:MikroTik（Master+VAD）;切入:卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik（Master+VAD）
+- **目标行业与场景**：加拿大 谱;分销（MikroTik 官方）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**Hani Rahrouh(President & CEO / MikroTik Coordinator（加拿大首位官方培训师）,官网公开；LinkedIn 5K 粉周更（可双通道）);—（模式猜测）(—,模式猜测 · 未验证（MX Google 已验）)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,7 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：Master Distributor+培训+机房三栖=**他想做大白牌分销的心理账户已开好**（SYNOXX 先例）；Toronto 本地仓=我们的货可直发其意仓；加拿大 MikroTik 教学垄断位。**W**：体量 2–10 人，大资金单承接力有限；MikroTik 官方关系是其核心资产，引入第二硬件品牌要过「不砸招牌」审查。**O**：**OEM 白牌交换机=他 SYNOXX 逻辑的自然延伸**（我们中性包装/贴客户型号的标准交付正好嵌合）；培训教具用 Saga=学员长期种草；Bell/Rogers 批发客户的接入层量。**T**：MikroTik 及其他亚洲白牌（已有深圳竞争者在加活动）；IC 认证若补齐不及时，零售端束手。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -206,6 +214,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -213,21 +225,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your projects
 
 ```text
-Hi Wireless,
+Dear Hani Rahrouh Team,
 
-I came across Wireless Netware - 分销（MikroTik 官方）.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
-
-One question: Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

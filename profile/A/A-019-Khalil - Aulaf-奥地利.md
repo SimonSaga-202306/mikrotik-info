@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Khalil Chamseddine / AULAF**，奥地利维也纳（Donaustadt 授课点）。
+- **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 教具红线内；工程咨询侧二源；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -46,12 +46,17 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Khalil Chamseddine / AULAF**，奥地利维也纳（Donaustadt 授课点）。**MikroTik Certified Trainer，ICT/软件/网络工程 20+ 年**（履历语境含服务商/政府/教育/医疗），**九大方向证书全持**（MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTC | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ **教师红线纪律**：不经培训语境向学员推销、不打学员名单、不借课程联名——**只谈他本人的教学硬件与工程自购**。多厂商路由/交换/BGP/MPLS/VPLS 全栈语境（其自述 Multi-vendor environments）。出货量：无。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-019:奥地利谱: **具名金谱·原批引真**:Khalil / Aulaf(奥地利);CSV 信号:MikroTik 认证顾问 含 Routing/Switching 多方向;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ **教师红线纪律**：不经培训语境向学员推销、不打学员名单、不借课程联名——**只谈他本人的教学硬件与工程自购**。多厂商路由/交换/BGP/MPLS/VPLS 全栈语境（其自述 Multi-vendor environments）。出货量：无。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 含 Routing/Switching 多方向）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -136,32 +141,35 @@ RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Khalil Chamseddine / AULAF**，奥地利维也纳（Donaustadt 授课点）。**MikroTik Certified Trainer，ICT/软件/网络工程 20+ 年**（履历语境含服务商/政府/教育/医疗），**九大方向证书全持**（MTCRE/MTCWE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE/MTCEWE）。aulaf.com=纯培训商：全 10 门课价目公开（€600–1100/门；MTC06 打包 €4000/15 天；MTC10 €6600/25 天），远程实作（RouterBOARD+CHR on GNS3）+维也纳或欧洲巡回面考。英语/阿拉伯语双语。LinkedIn「Khalil Chamseddine AULAF」64 粉小体量。
-- **芯片与在用型号**：RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ **教师红线纪律**：不经培训语境向学员推销、不打学员名单、不借课程联名——**只谈他本人的教学硬件与工程自购**。多厂商路由/交换/BGP/MPLS/VPLS 全栈语境（其自述 Multi-vendor environments）。出货量：无。
-- **关键人KP**：**Khalil Chamseddine 本人（唯一可见角色）**。邮箱 **khalil@aulaf.com**（CSV 既有+课程页公开双源）+ **admin@aulaf.com**（官网联系段公开）；电话 +43 688 9131190；Skype khalil.chamseddine（公开名录列示）；MX IONOS 今日核验有效。
-- **关注点与资质**：①教学交付质量（远程实验+面考混合模式成熟）；②多厂商中立语境（他对「非 MikroTik 硬件」无抗体——但也意味着评估严格）；③欧区巡回（在哪考就去哪=设备便携性重要）；④阿语市场人脉（中东学员通道——观察，不主动利用）。参展：课程表即展场。
-- **优缺点SWOT**：**S**：9 证全满贯培训师+20 年背书；价目透明的成熟课商；沟通通道多。**W**：纯培训=硬件采购量有限（教具批次小）；64 粉 LinkedIn=社媒弱。**O**：教具更新（路由板实验床换代时加一台 L2+ 交换做 MTCSWE 演示台）；其工程咨询侧（服务商项目）的第二来源。**T**：教师红线与官方生态关系；低价竞品培训机构涌现。
-- **Saga产品适配**：教具位（红线内）：**STC-424XGGM**（L2+ 24口 4×10G，**EXW $143**：MTCSWE 课的 VLAN/ERPS/聚合演示全包）+ **STC-28DGGPM**（**EXW $99** PoE 演示）。话术：只问「MTCSWE 实验台现在用什么设备」，提供 NFR 教具价与特性表；绝不提学员、不提联名、不打课程折扣。L3 系课程（BGP/OSPF）可补 **STC-424XGGM（L3）**（**EXW $294.8**）作第二个台阶。
+- **①背景再核**：波 26·A-019:奥地利谱: **具名金谱·原批引真**:Khalil / Aulaf(奥地利);CSV 信号:MikroTik 认证顾问 含 Routing/Switching 多方向;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Khalil Chamseddine(AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证）,双邮箱其一课程页公开其一官网公开；MX（IONOS）已验)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：奥地利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【培训师身份】**MikroTik 官方名录：Khalil Chamseddine，Vienna，全方向证书。
-  > Khalil Chamseddine … MTCRE, MTCWE, MTCTCE, MTCUME, MTCIPv6E, MTCINE, MTCSE, MTCSWE, MTCEWE … Vienna, Austria MikroTik Certified Trainer with more than 20 years experience
-  > 来源：https://mikrotik.com/consultants/europe/austria
-- **【课程价目】**MTCNA €800/3 天起，MTC10 全包 €6600/25 天。
-  > MTCNA … €800 3 days … MTC10 MikroTik Senior Expert Engineer … Complete Package €6600 25 Days
+- **【联系方式与基础画像】**Khalil / Aulaf(奥地利);CSV 信号:MikroTik 认证顾问 含 Routing/Switching 多方向;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
+  > Khalil / Aulaf(奥地利);CSV 信号:MikroTik 认证顾问 含 Routing/Switching 多方向;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
   > 来源：https://aulaf.com/
-- **【授课模式】**远程实验+维也纳或欧洲巡回面考。
-  > Training is conducted remotely. Labs are conducted on RouterBOARDs and MikroTik CHR on GNS3. Exam is offered face-to-face on the last day in Vienna or any city in Europe if travel can be arranged.
+- **【联系方式与基础画像】**CSV 入口:+43 688 9131190 / khalil@aulaf.com
+  > CSV 入口:+43 688 9131190 / khalil@aulaf.com
   > 来源：https://aulaf.com/
-- **【KP 与通道】**课程页署名 Khalil Chamseddine（khalil@aulaf.com）为常驻讲师。
-  > Trainer: MikroTik Certified Trainer, Khalil Chamseddine (khalil@aulaf.com)
-  > 来源：https://aulaf.com/mtcna-vienna
-- **【语言】**英/阿双语。
-  > Languages: English, Arabic … Skype khalil.chamseddine … phone +436889131190
-  > 来源：https://mikrotik.com/consultants/europe/austria
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-019:奥地利谱: **具名金谱·原批引真**:Khalil / Aulaf(奥地利);CSV 信号:MikroTik 认证顾问 含 Routing/Switching 多方向;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 含 Routing/Switching 多方向
+- **目标行业与场景**：奥地利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：奥地利谱·具名决策档
+- **决策链与对接人**：**Khalil Chamseddine(AULAF 主理 / MikroTik Certified Trainer（20+ 年，9 证）,双邮箱其一课程页公开其一官网公开；MX（IONOS）已验)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,7 +184,10 @@ RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ 
 
 ## SWOT
 
-**S**：9 证全满贯培训师+20 年背书；价目透明的成熟课商；沟通通道多。**W**：纯培训=硬件采购量有限（教具批次小）；64 粉 LinkedIn=社媒弱。**O**：教具更新（路由板实验床换代时加一台 L2+ 交换做 MTCSWE 演示台）；其工程咨询侧（服务商项目）的第二来源。**T**：教师红线与官方生态关系；低价竞品培训机构涌现。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -207,6 +218,10 @@ RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ 
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -214,21 +229,15 @@ RouterOS 全方向教学；实验床=RouterBOARD+GNS3 CHR 虚拟混编。⚠️ 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Khalil,
+Dear Khalil Chamseddine Team,
 
-I came across Aulaf - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

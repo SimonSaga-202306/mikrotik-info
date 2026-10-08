@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/esprinet）=Esprinet 前端分销零售模型；ISO 认证
-- 【推断】**上游 Esprinet 直连**——其议价链长、上架决定可能不在其手；其“antinfortunistica/cassetta”电工类旁的网络类目有 value 上架缝但带宽窄
-- 【假设】MEPA 专职口=公共采购是其业务线（守界）；私营窄位=其 cablaggio/电工类目旁的 value 上架位，低优先
+- 【事实】波 27·A-196:意大利谱: **守档准由·原 R56 谱基增厚**:Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/esprinet）=Esprinet 前端分销零售模型；ISO 认证;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第20批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：目录电商（Esprinet 前端+PA 专职口）
-- **②芯片/型号**：目录全谱
-- **③KP 深挖**：mepa@
-- **④Saga 对标**：私营店线 value 缝（窄位低优先）
-- **⑤在乎与偏好**：—
+- **①背景再核**：波 27·A-196:意大利谱: **守档准由·原 R56 谱基增厚**:Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/esprinet）=Esprinet 前端分销零售模型；ISO 认证;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第20批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Soluzioni per la Pubblica Amministrazione…[catalog categories:] cablaggio, elettricità, telefonia…[上游迹:] fornitori/RCS/esprinet（商品图源）”
-  > “Soluzioni per la Pubblica Amministrazione…[catalog categories:] cablaggio, elettricità, telefonia…[上游迹:] fornitori/RCS/esprinet（商品图源）”
+- **【联系方式与基础画像】**Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/espr
+  > Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/espr
+  > 来源：https://www.evergreen1.it/
+- **【联系方式与基础画像】**CSV 入口:mepa@evergreen1.it [Publicly listed; delivery not tested]; https://www.evergreen1.it
+  > CSV 入口:mepa@evergreen1.it [Publicly listed; delivery not tested]; https://www.evergreen1.it
   > 来源：https://www.evergreen1.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：目录式电商（Esprinet 前端+PA 守界）
-- **产品线与在售品牌**：目录全谱
-- **目标行业与场景**：B2B2C+PA（守界）
-- **团队与规模**：小型
-- **决策链与对接人**：mepa@ 口
-- **技术与认证**：ISO
-- **采购与供应链信号**：下拉 Esprinet
-- **近期动态与线索**：促 70% banner
-- **与我方契合点**：cablaggio 类目旁 value 上架缝（窄位低优先）
-- **风险与注意**：上游依赖
+- **业务定位**：波 27·A-196:意大利谱: **守档准由·原 R56 谱基增厚**:Evergreen1 S.R.L（意大利）：**目录式电商（智能手机/家电/电视/办公/电工耗材/cablaggio 耗材）+Pubblica Amministrazione 专页+mepa@ 专职邮箱**；其**目录供应链上游迹示 Esprinet**（商品图 imgrapido/fornitori/RCS/esprinet）=Esprinet 前端分销零售模型；ISO 认证;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第20批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Allied Telesis（Marvell Prestera 接入层）
+- **目标行业与场景**：意大利 谱;集成商/代理（Allied Telesis）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +177,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：专职
-- **W**：依赖
-- **O**：缝
-- **T**：议价
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -205,8 +208,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 上架决定权
-  - [ ] 私营店线结构
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +221,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Evergreen1 team,
+Dear Evergreen1 S.R.L Team,
 
-Your catalogue runs from dry appliances to cablaggio supplies, with a public-administration line running beside it. (To be explicit: your MEPA and PA engagements stay fully out of scope here; this concerns only your private B2B catalogue.)
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value item that fits naturally beside your cablaggio categories.
-
-One question: in your private B2B catalogue, is there room for a documented PoE access switch line - and where does the listing decision sit: with you, or upstream with your catalogue partner?
-
-If useful, I can send one unit plus listing documentation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

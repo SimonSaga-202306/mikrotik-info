@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工业 PoE 线
-- 【推断】办公网+无线+VoIP 三线都吞接入层 PoE；infogérance 客群=滚动翻修口
-- 【假设】其“exigence 方法论”文风=做深度学习后的高质提案适配
+- 【事实】波 27·A-086:法国谱: **守档准由·原 R56 谱基增厚**:EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,38 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：2007 起全 SI 集成；无线/VoIP/布线三线实
-- **②芯片/型号**：Perle（CSV）
-- **③KP 深挖**：contact@+大区分箱
-- **④Saga 对标**：办公网 24 口 PoE 随单；工业段后顾
-- **⑤在乎与偏好**：质方法论（题深应广）
+- **①背景再核**：波 27·A-086:法国谱: **守档准由·原 R56 谱基增厚**:EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：法国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Couvrir l’ensemble de votre SI…Téléphonie (VoIP), Réseaux sans fil, Fibre optique…Support 24×7”
-  > “Couvrir l’ensemble de votre SI…Téléphonie (VoIP), Réseaux sans fil, Fibre optique…Support 24×7”
-  > 来源：https://www.equipages.fr/
-- **【近期动态】**2026-09 三连博文（PCA-PRA/SASE-SIEM 科理谱/WS2016 EOS 2027-01）
-  > 2026-09 三连博文（PCA-PRA/SASE-SIEM 科理谱/WS2016 EOS 2027-01）
-  > 来源：https://www.equipages.fr/
-- **【联系方式】**contact@equipages.fr；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > contact@equipages.fr；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.equipages.fr/
+- **【联系方式与基础画像】**EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工
+  > EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
+- **【联系方式与基础画像】**CSV 入口:contact@equipages.fr（大区邮箱：contact-idf@ / contact-paca@ / contact-rha@ / contact-na@equipages.fr）
+  > CSV 入口:contact@equipages.fr（大区邮箱：contact-idf@ / contact-paca@ / contact-rha@ / contact-na@equipages.fr）
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国 IT 集成商（全生命周期 infogérance）
-- **产品线与在售品牌**：O365/EDR/ZTNA 生态+Perle
-- **目标行业与场景**：中小企业办公网/移动办公
-- **团队与规模**：中型集成商
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：方法论化集成（DNA 技术口号）
-- **采购与供应链信号**：项目随单+外包滚动
-- **近期动态与线索**：2026-09 博客活跃（PCA/PRA、Windows 2016 EOS）
-- **与我方契合点**：办公网无线/VoIP 接入层随单
-- **风险与注意**：中小客群价敏
+- **业务定位**：波 27·A-086:法国谱: **守档准由·原 R56 谱基增厚**:EQUIPAGES（法国）：2007 年起的 IT 集成商——全 SI 生命周期（架构→部署→迁移→能力转移→支持→外包 infogérance）；业务面：协作/O365、**VoIP 电话**、无线网、路由/防火墙/代理、光纤布线、安全（EDR/XDR/ZTNA）、云私有/备份、24×7 支持；CSV：Perle 工业 PoE 线;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：Perle Systems（工业 PoE 交换机 / 媒体转换 / 串口设备联网）
+- **目标行业与场景**：法国 谱;分销/集成商（Perle 授权）
+- **团队与规模**：法国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：生命周期
-- **W**：价敏
-- **O**：滚动
-- **T**：大厂
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -219,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目量
-  - [ ] 接入层现供
-  - [ ] 翻修节奏
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -233,18 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Equipages team,
+Dear EQUIPAGES Team,
 
-A full-lifecycle integrator that runs VoIP, wireless and fiber cabling under one roof knows exactly where those three meet - the access cabinet.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at, Voice VLAN, watchdog) sized for exactly that cabinet, with documentation that respects your exigence methodology. Reference: $180 USD EXW.
-
-One question: in your typical SME office build, which switch supplies the PoE access layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

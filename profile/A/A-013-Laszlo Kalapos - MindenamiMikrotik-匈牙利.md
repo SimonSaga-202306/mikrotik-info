@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**László Kalapos / MindenamiMikrotik**，匈牙利 Miskolc。
+- **是谁**：公司/工作室（有官网）；工程/集成项目制
 - **商业模式**：工程/集成项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、PoE/监控/门禁），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 教具箱（学员红线内，仅谈本人教学硬件）；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -46,12 +46,17 @@ updated: 2026-09-28
 | 商业模式 | 工程/集成项目制 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **László Kalapos / MindenamiMikrotik**，匈牙利 Miskolc。**匈牙利第一位 MikroTik Certified Trainer**（2009 授证、2010 起授课）——站点自述战绩：**350+ 场培训、约 3000 人次通过考试、20 年 MikroTik 经验、16 年教龄**。mindenamimikro | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教具消耗+课程推荐位双重价值。其电子书与基础课面向初学者=匈牙利 MikroTik 入口守门人。出货量：教具批次+学员引导去向（不可追踪，尊重红线不打探）。客户反馈：课页学员感言摘录（「Többé nem félek hozzányúlni a beállításokhoz」—— | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-013:匈牙利谱: **具名金谱·原批引真**:Laszlo Kalapos / MindenamiMikrotik(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教具消耗+课程推荐位双重价值。其电子书与基础课面向初学者=匈牙利 MikroTik 入口守门人。出货量：教具批次+学员引导去向（不可追踪，尊重红线不打探）。客户反馈：课页学员感言摘录（「Többé nem félek hozzányúlni a beállításokhoz」——再也不怕碰配置）=教学口碑资产。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -137,29 +142,35 @@ RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教�
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**László Kalapos / MindenamiMikrotik**，匈牙利 Miskolc。**匈牙利第一位 MikroTik Certified Trainer**（2009 授证、2010 起授课）——站点自述战绩：**350+ 场培训、约 3000 人次通过考试、20 年 MikroTik 经验、16 年教龄**。mindenamimikrotik.hu=完整培训电商：直播课（élő tanfolyamok）+视频课（online klub）+产品支持服务+自著电子书《Vezeték nélkül, egyszerűen》（无线，简单化）+Network Online 网络基础课；2026 年新挂 milpay 横幅（新业务线酝酿）。站点 2026-05 仍活跃更新。
-- **芯片与在用型号**：RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教具消耗+课程推荐位双重价值。其电子书与基础课面向初学者=匈牙利 MikroTik 入口守门人。出货量：教具批次+学员引导去向（不可追踪，尊重红线不打探）。客户反馈：课页学员感言摘录（「Többé nem félek hozzányúlni a beállításokhoz」——再也不怕碰配置）=教学口碑资产。
-- **关键人KP**：**Kalapos László 本人**。邮箱 **info@mindenamimikrotik.hu**（官网公开；MX nethely.hu 今日核验有效）+ 电话 +36 20 295 6414。公开身份「Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója」（匈牙利首位持证培训师）。LinkedIn 未见（个人品牌站即门面）。
-- **关注点与资质**：①**匈牙利第一培训师**品牌=他最大的资产，任何合作都不能稀释其 MikroTik 官方感；②教学工业化（视频课+基础课漏斗）；③学员成果导向（3000 通过数是硬指标）；④⚠️ **教师红线纪律（R54 既定）**：不经培训语境向学员推销、不打学员名单、只谈他本人的教学硬件与自有工程。参展：培训即其展场。
-- **优缺点SWOT**：**S**：一国 MikroTik 教学垄断位+3000 学员长尾影响力+站点内容工业化成熟。**W**：教师身份=商业合作边界窄；个人品牌依赖 MikroTik 官方关系。**O**：**教具更新潮**（课程设备换代：24口 PoE 教具箱）+他本人工程/演示自购机——这是红线内全部可做面；milpay 新业务若落地含线下收银/门店网络（2026-02 横幅起步，观察）。**T**：官方培训体系竞争与政策变化；红线踩错永久失信。
-- **Saga产品适配**：教具箱（红线内，自述教学用途）：**STC-424XGGPM-280W**（**EXW $180**，L2+ 全套特性=MTCSWE 级演示素材：ERPS<20ms/Private VLAN/QinQ）+ 入门 **STC-28DGGPM**（**EXW $99**）。随附 L2+/L3 特性表原文说明 Voice VLAN 仅在 L2+ 系（教学避坑点）。绝不主动要学员数据、不给课程联名报价。
+- **①背景再核**：波 26·A-013:匈牙利谱: **具名金谱·原批引真**:Laszlo Kalapos / MindenamiMikrotik(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Kalapos László(匈牙利首位 MikroTik Certified Trainer（2009）/ 培训站主,官网公开；MX（nethely.hu）已验)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：匈牙利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【头部地位】**匈牙利首位 MikroTik 认证培训师自证。
-  > Magyarország első MikroTik Certified Trainer minősítéssel rendelkező oktatója. 2010 óta tartok élő képzéseket
-  > 来源：https://mindenamimikrotik.hu/mikrotik-online-regisztracio-2/
-- **【战绩】**350+ 场、约 3000 人次通过、20 年 MikroTik 经验。
-  > Összes képzés: 350+ … Összes sikeres vizsga: ~3000 … MikroTik-es tapasztalat: 20 év
-  > 来源：https://mindenamimikrotik.hu/mikrotik-alapozas/
-- **【业务范围】**直播课+视频课+产品支持+电子书+基础课全线。
-  > Élő MikroTik tanfolyamok … Videós MikroTik tanfolyamok … Segítség, terméktámogatás … Vezeték nélkül, egyszerűen - ebook … Network Online - hálózati alapozó tananyag
+- **【联系方式与基础画像】**Laszlo Kalapos / MindenamiMikrotik(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VL
+  > Laszlo Kalapos / MindenamiMikrotik(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VL
   > 来源：https://mindenamimikrotik.hu/
-- **【学员口碑】**课页学员感言。
-  > Többé nem félek hozzányúlni a beállításokhoz – most már átlátom a rendszert, és ki fogom hozni belőle a legtöbbet.
-  > 来源：https://mindenamimikrotik.hu/mikrotik-alapozas/
+- **【联系方式与基础画像】**CSV 入口:+36 20 295 6414 / info@mindenamimikrotik.hu
+  > CSV 入口:+36 20 295 6414 / info@mindenamimikrotik.hu
+  > 来源：https://mindenamimikrotik.hu/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-013:匈牙利谱: **具名金谱·原批引真**:Laszlo Kalapos / MindenamiMikrotik(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCTCE+MTCUME+MTCINE+MTCSE+MTCSWE+MTCEWE
+- **目标行业与场景**：匈牙利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：匈牙利谱·具名决策档
+- **决策链与对接人**：**Kalapos László(匈牙利首位 MikroTik Certified Trainer（2009）/ 培训站主,官网公开；MX（nethely.hu）已验)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,7 +185,10 @@ RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教�
 
 ## SWOT
 
-**S**：一国 MikroTik 教学垄断位+3000 学员长尾影响力+站点内容工业化成熟。**W**：教师身份=商业合作边界窄；个人品牌依赖 MikroTik 官方关系。**O**：**教具更新潮**（课程设备换代：24口 PoE 教具箱）+他本人工程/演示自购机——这是红线内全部可做面；milpay 新业务若落地含线下收银/门店网络（2026-02 横幅起步，观察）。**T**：官方培训体系竞争与政策变化；红线踩错永久失信。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -201,6 +215,10 @@ RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教�
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -208,21 +226,15 @@ RouterOS 全系教学（MTCNA→MTCINE 全谱课程）；教学设备=长期教�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Laszlo,
+Dear Kalapos László Team,
 
-I came across MindenamiMikrotik - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

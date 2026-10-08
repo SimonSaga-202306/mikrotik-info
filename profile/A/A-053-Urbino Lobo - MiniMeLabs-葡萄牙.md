@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）
-- 【推断】场所 Wi-Fi（captive portal+分析）=高密 AP 部署→PoE 供电接入层是每张单的水电煤
-- 【假设】商场/机场/球场型项目普遍 50-300 AP，接入层 PoE 量可观
+- 【事实】波 26·A-053:葡萄牙谱: **守档准由·原 R56 谱基增厚**:MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,35 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：葡团伦敦落地场所数字互动平台；Wi-Fi 获客/分析+IoT 四件套
-- **②芯片/型号**：MTCUME 对口门户；平台软面板
-- **③KP 深挖**：Lobo 直达
-- **④Saga 对标**：高密 AP PoE 接入层随单
-- **⑤在乎与偏好**：整包快速部署
+- **①背景再核**：波 26·A-053:葡萄牙谱: **守档准由·原 R56 谱基增厚**:MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：葡萄牙 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“operating digital engagement solutions throughout London – Trafalgar Square, Oxford Street, Westminster…airports, shopping centers, arenas…Morfus Connect 绕 MAC 随机化的场所 Wi-Fi 分析”
-  > “operating digital engagement solutions throughout London – Trafalgar Square, Oxford Street, Westminster…airports, shopping centers, arenas…Morfus Connect 绕 MAC 随机化的场所 Wi-Fi 分析”
+- **【联系方式与基础画像】**MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**
+  > MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**
   > 来源：https://minimelabs.com/
-- **【联系方式】**urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > urbino@minimelabs.com；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:+351 919 379 550 / urbino@minimelabs.com
+  > CSV 入口:+351 919 379 550 / urbino@minimelabs.com
   > 来源：https://minimelabs.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：场所数字互动/Wi-Fi 获客平台商（伦敦商圈已落地）
-- **产品线与在售品牌**：Morfus/MidasMoon/EzeHome/Morfus Connect
-- **目标行业与场景**：公共空间/酒店/餐饮/商场/机场/竞技场
-- **团队与规模**：软件平台小团
-- **决策链与对接人**：Urbino Lobo（MTCNA+MTCUME）
-- **技术与认证**：MTCUME=门户体系对口
-- **采购与供应链信号**：场所项目整包部署含接入层
-- **近期动态与线索**：平台产品四件套成型，伦敦持续运营
-- **与我方契合点**：高密 AP 项目 PoE 供电接入层整包随行
-- **风险与注意**：平台商——硬件采购量随项目波动
+- **业务定位**：波 26·A-053:葡萄牙谱: **守档准由·原 R56 谱基增厚**:MiniMeLabs / Qualino Limited（葡萄牙团队，落地伦敦）：场所数字互动平台商——Morfus（位置感知 PWA）、MidasMoon（程序化广告）、EzeHome（IoT/智能电表）、**Morfus Connect 场所 Wi-Fi 分析/对客获客平台（绕 MAC 随机化、GDPR 合规）**；已运营伦敦特拉法加广场/牛津街/威斯敏斯特及机场、商场、竞技场等场景；Urbino Lobo MTCNA+MTCUME（User Manager=门户/热点方向）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCUME
+- **目标行业与场景**：葡萄牙 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：葡萄牙谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -182,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：落地实证
-- **W**：量波动
-- **O**：滚动
-- **T**：直采
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -213,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] AP 采购模式
-  - [ ] 项目量
-  - [ ] 接入层现供
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Urbino,
+Dear Urbino Lobo Team,
 
-Running live venue Wi-Fi and analytics across Trafalgar Square and Oxford Street is no slideshow - it means real dense AP grids.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build 24-port Gigabit PoE switches (280W, 802.3af/at, silent for back-of-house, watchdog) sized exactly for those AP clusters. Reference: $180 USD EXW.
-
-One question: in a typical venue deployment, how many APs land on one access switch for you?
-
-If useful, I can send one unit plus a venue rack layout. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

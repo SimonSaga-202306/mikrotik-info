@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntalianis
-- 【推断】中小企业 IT 全栈（BI/ERP/基础设施/云+结构化布线/有线无线网/网安）项目制；多厂商组合（Microsoft/AWS/Fortinet/Huawei Enterprise/Ubiquiti/Alcatel/MikroTik/Dell/Lenovo/Yeastar/Synology）
-- 【假设】克里特岛旅游旺季酒店/企业 WiFi 项目多，接入层 PoE 交换机走其组合品牌
+- 【事实】波 26·A-021:希腊谱: **守档准由·原 R56 谱基增厚**:克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntalianis;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,41 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：克里特 Heraklion 合伙人制 2-10 人；创始人 MTCNA+MTCINE；前台 1 人（LinkedIn 雇员墙）
-- **②芯片/型号**：Partner 墙含 MikroTik/Ubiquiti/Huawei Enterprise——Marvell 系接入层（华为 Enterprise 大量 Marvell Prestera）；具体在售型号未公开
-- **③KP 深挖**：Charis Marinakis 创始人+高级工程师（LinkedIn）；邮箱域 MX 指向 O365 防护盘
-- **④Saga 对标**：酒店/企业接入层 PoE：STC-424XGGPM-280W 对上 Ubiquiti USW-24-PoE 类，价格带下切
-- **⑤在乎与偏好**：项目階段性采购；讲工程语言、给工程项目价；快节奏小团队→单页报价最佳
+- **①背景再核**：波 26·A-021:希腊谱: **守档准由·原 R56 谱基增厚**:克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntalianis;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Complete IT Business Solutions…BI, ERP, Systems Infrastructure”+伙伴墙 logo 含 MikroTik/Ubiquiti/Fortinet/Huawei Enterprise（官网首页）
-  > “Complete IT Business Solutions…BI, ERP, Systems Infrastructure”+伙伴墙 logo 含 MikroTik/Ubiquiti/Fortinet/Huawei Enterprise（官网首页）
+- **【联系方式与基础画像】**克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntal
+  > 克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntal
   > 来源：https://systemcon.gr/
-- **【决策链与对接人】**“Charis Marinakis (Founder, Senior IT Engineer)…Spyros Ntalianis Co-Founder”+“Company size: 2-10 employees…Iliados 17 Heraklion”
-  > “Charis Marinakis (Founder, Senior IT Engineer)…Spyros Ntalianis Co-Founder”+“Company size: 2-10 employees…Iliados 17 Heraklion”
-  > 来源：https://gr.linkedin.com/company/systemcon
-- **【技术与认证】**CSV 名录：MikroTik 认证顾问 MTCNA+MTCINE（Charalampos Marinakis）
-  > CSV 名录：MikroTik 认证顾问 MTCNA+MTCINE（Charalampos Marinakis）
-  > 来源：https://mikrotik.com/consultants
-- **【联系方式】**+30 2811 217219 / info@systemcon.gr；MX=systemcon-gr.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
-  > +30 2811 217219 / info@systemcon.gr；MX=systemcon-gr.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
-  > 来源：https://systemcon.gr/en/contact-us/
+- **【联系方式与基础画像】**CSV 入口:+30 281 121 7219 / info@systemcon.gr
+  > CSV 入口:+30 281 121 7219 / info@systemcon.gr
+  > 来源：https://systemcon.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：克里特全栈 IT 服务商（BI/ERP/基础设施/布线/网络/网安），MTCINE 双证工程师带队
-- **产品线与在售品牌**：Microsoft/AWS/Fortinet/Huawei Enterprise/Ubiquiti/Alcatel/MikroTik/Dell/Lenovo/Yeastar/Synology 伙伴墙
-- **目标行业与场景**：本地中小企业→酒店（克里特旅游季 WiFi）；结构化布线+有线无线网
-- **团队与规模**：LinkedIn 2-10 人；合伙人制；前台 1 人
-- **决策链与对接人**：创始人 Charis Marinakis（Founder/Senior IT Engineer）+ 联创 Spyros Ntalianis，双人到顶
-- **技术与认证**：MTCNA+MTCINE（讲师级路由深度）；fortinet/huawei 伙伴
-- **采购与供应链信号**：多厂商比价常态；接入层型号常随 Ubiquiti/MikroTik 摇摆
-- **近期动态与线索**：官网 2025-02 上新 BI 平台页面（在用中）
-- **与我方契合点**：PoE 接入层刚需（AP/CCTV/酒店）；白标补其无硬件品牌短板
-- **风险与注意**：已有 Ubiquiti/华为企业级供应关系；务必讲工程语言不夸参数
+- **业务定位**：波 26·A-021:希腊谱: **守档准由·原 R56 谱基增厚**:克里特岛 Heraklion 综合 IT 服务商，SystemCon partnership；LinkedIn 2-10 人；创始人 Charalampos（Charis）Marinakis（Founder/Senior IT Engineer，MTCNA+MTCINE 双证实战派），联合创始人 Spyros Ntalianis;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCINE
+- **目标行业与场景**：希腊 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：希腊谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：MTCINE 级创始人带队+本地口碑
-- **W**：无自有硬件品牌线、规模小
-- **O**：克里特酒店 WiFi 翻新周期
-- **T**：华为/Ubiquiti 既有供应关系
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -215,10 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现用接入层品牌/型号清单（Ubiquiti?MikroTik?）
-  - [ ] 年度采购量级
-  - [ ] 白标意愿度
-  - [ ] 账期习惯
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Charis,
+Dear Charalampos Marinakis Team,
 
-I came across SystemCon - MTCNA+MTCINE on board and a full partner wall from Microsoft to MikroTik.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE switch (280W, 802.3af/at) with 4×10G SFP+ uplinks, Voice VLAN and a hardware PoE watchdog that power-cycles a hung AP without a site visit. Reference: $180 USD EXW, neutral packing available.
-
-One question: in a typical hotel floor deployment, how many PoE endpoints do you land on one access switch?
-
-If useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

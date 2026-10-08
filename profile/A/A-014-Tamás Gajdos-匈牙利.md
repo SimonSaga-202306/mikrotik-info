@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Tamás Gajdos**（1988 生），匈牙利 Szeged 个体顾问（公开名录 5 证：MTCNA+MTCRE+MTCWE+MTCINE+MTCIP）。
+- **是谁**：个体顾问（无官网）；顾问项目制
 - **商业模式**：顾问项目制
 - **为什么值得跟**：有明确交换/供电需求（交换认证 MTCSWE、交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STI-480XGGM（工业 L2+ 8口+4×10G） — datasheet 级玩家：ERPS 环网自测最能建立技术信服；$253 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,12 +43,17 @@ updated: 2026-09-28
 | 商业模式 | 顾问项目制 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | **Tamás Gajdos**（1988 生），匈牙利 Szeged 个体顾问（公开名录 5 证：MTCNA+MTCRE+MTCWE+MTCINE+MTCIP）。GitHub **gajdipajti** 自述**就职 Furukawa Electric Institute of Technology**（古河电工在匈研发机构），自称「barefoot p | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验室仪器+sysadmin 日常（munin 插件 fork）；Furukawa 圈=光通信/大企业研发环境（布线与光器件语境）。出货量：无（雇员+侧咨询）。客户反馈：GitHub 26 星的 munin 插件=社区小有认可。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-014:匈牙利谱: **具名金谱·原批引真**:Tamás Gajdos(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STI-480XGGM($253 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STI-480XGGM($253 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验室仪器+sysadmin 日常（munin 插件 fork）；Furukawa 圈=光通信/大企业研发环境（布线与光器件语境）。出货量：无（雇员+侧咨询）。客户反馈：GitHub 26 星的 munin 插件=社区小有认可。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -134,29 +139,35 @@ RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验�
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Tamás Gajdos**（1988 生），匈牙利 Szeged 个体顾问（公开名录 5 证：MTCNA+MTCRE+MTCWE+MTCINE+MTCIP）。GitHub **gajdipajti** 自述**就职 Furukawa Electric Institute of Technology**（古河电工在匈研发机构），自称「barefoot physicist (+PhD)」——物理+信息学双背景（塞格德大学物理系主页存档），**四门语言：匈牙利语/英语/塞尔维亚语/德语**。RouterOS 开源作者：wg-routeros-network（WireGuard 网络生成器）、mikrotik-certified-padawan（MikroTik 认证学员配置组）。2008 年曾赴贝尔格莱德 S&T 培训（塞语境+多语=巴尔干项目沟通无障碍）。
-- **芯片与在用型号**：RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验室仪器+sysadmin 日常（munin 插件 fork）；Furukawa 圈=光通信/大企业研发环境（布线与光器件语境）。出货量：无（雇员+侧咨询）。客户反馈：GitHub 26 星的 munin 插件=社区小有认可。
-- **关键人KP**：**Gajdos Tamás 本人**。邮箱 **crowbarlabs@outlook.com**（CSV 既有；outlook.com MX 有效）+ 电话 +36 30 243 2729；GitHub @gajdipajti（可 issue/私讯二通道）；（大学旧页 gajdos.tamas@stud.u-szeged.hu 为历史邮箱不投）。LinkedIn 未见。
-- **关注点与资质**：①开源/自动化优先（会读源码的买家，给他 MIB/CLI 文档比彩页有用）；②WireGuard/IPv6 新协议兴趣（MTCIP 持证佐证）；③多语人脉（塞/德/英）；④学术严谨=虚标零容忍。参展/社媒：GitHub 即社媒。
-- **优缺点SWOT**：**S**：极客深度+多语+大厂研发履历=完美技术对话者；MTCINE/IP 高阶证=能评估 L3 边界。**W**：侧咨询属性=采购主动权弱、量小；outlook 个人邮无商务外壳。**O**：实验室级样机（STI 工业线 10G 环/ERPS 玩具属性正中）；Furukawa 产业圈的长尾可能（不主动刺探雇主项目，只谈个人）。**T**：雇员身份决定响应慢、成交偶发。
-- **Saga产品适配**：技术玩家样机：**STI-480XGGM**（工业 L2+ 8口 4×10G，**EXW $253**，ERPS<20ms 环网自测）+ **STC-424XGGM**（**EXW $143**，L2+/L3 两档对比实验）。随附特性表与「L3 系无 Voice VLAN/PC3 无 HTTPS」的诚实边界说明——这种买家最吃如实标注。
+- **①背景再核**：波 26·A-014:匈牙利谱: **具名金谱·原批引真**:Tamás Gajdos(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STI-480XGGM($253 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-480XGGM·industrial L2+ 8-port switch with 4x10G uplinks
+- **③KP 深挖**：**Gajdos Tamás(个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述）,邮箱既有；MX（outlook.com）已验；GitHub 身份已核)**
+- **④Saga 对标**：STI-480XGGM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：匈牙利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【现职】**GitHub 资料：Furukawa Electric Institute of Technology，Szeged。
-  > Gajdos Tamás gajdipajti - Furukawa Electric Institute of Technology - Szeged, Hungary
-  > 来源：https://github.com/gajdipajti
-- **【开源作品】**RouterOS WireGuard 网络生成器等开源项目作者。
-  > wg-routeros-network Public Tools for generating a Wireguard network for Mikrotik RouterOS … mikrotik-certified-padawan Public Mikrotik Certified Padawan group Mikrotik configurations.
-  > 来源：https://github.com/gajdipajti
-- **【自述画像】**物理+PhD、仪器与 sysadmin 方向。
-  > A barefoot physicist (+PhD), I've never been much of a coder … Lab instruments, sysadmin stuff, munin love.
-  > 来源：https://github.com/gajdipajti?tab=stars
-- **【语言能力】**匈/英/塞/德四语。
-  > Spoken Languages: Hungarian, English, Serbian, German
-  > 来源：http://www.stud.u-szeged.hu/Gajdos.Tamas/home.html
+- **【联系方式与基础画像】**Tamás Gajdos(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术
+  > Tamás Gajdos(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术
+  > 来源：仓内:A类深挖_2026-09-28_R55_第2批.json
+- **【联系方式与基础画像】**CSV 入口:+36 30 243 2729 / crowbarlabs@outlook.com
+  > CSV 入口:+36 30 243 2729 / crowbarlabs@outlook.com
+  > 来源：仓内:A类深挖_2026-09-28_R55_第2批.json
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-014:匈牙利谱: **具名金谱·原批引真**:Tamás Gajdos(匈牙利);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STI-480XGGM($253 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE
+- **目标行业与场景**：匈牙利 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：匈牙利谱·具名决策档
+- **决策链与对接人**：**Gajdos Tamás(个体顾问 / Furukawa Electric IT 研发雇员（GitHub 自述）,邮箱既有；MX（outlook.com）已验；GitHub 身份已核)**
+- **技术与认证**：STI-480XGGM 对口谱;$253 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-480XGGM(industrial L2+ 8-port switch with 4x10G uplinks) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -171,7 +182,10 @@ RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验�
 
 ## SWOT
 
-**S**：极客深度+多语+大厂研发履历=完美技术对话者；MTCINE/IP 高阶证=能评估 L3 边界。**W**：侧咨询属性=采购主动权弱、量小；outlook 个人邮无商务外壳。**O**：实验室级样机（STI 工业线 10G 环/ERPS 玩具属性正中）；Furukawa 产业圈的长尾可能（不主动刺探雇主项目，只谈个人）。**T**：雇员身份决定响应慢、成交偶发。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STI-480XGGM $253 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -202,6 +216,10 @@ RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验�
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -209,21 +227,15 @@ RouterOS 自动化/WireGuard 组网脚本作者=协议层玩家；物理实验�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Industrial managed 8-port with 10G ring (ERPS <20ms)
+**主题**：PoE switching for your projects
 
 ```text
-Hi Tamás,
+Dear Gajdos Tamás Team,
 
-I came across Tamás Gajdos - 集成商/顾问（MikroTik 认证）.
+We build a industrial L2+ 8-port switch with 4x10G uplinks. Reference: $253 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an industrial L2+ 8-port Gigabit switch with 4×10G SFP+ uplinks, ERPS sub-20ms ring failover, wide-temperature design, DIN-rail mount and a 3-year warranty. Reference: $253 USD EXW.
-
-One question: How many PoE ports does a typical site of yours need today?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

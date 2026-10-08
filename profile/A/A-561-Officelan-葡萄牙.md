@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮
-- 【推断】UniFi+MT 双谱深=CPE/企业客户群厚；新品跟得快=采购活跃
-- 【假设】CCTV 谱=PoE 摄像机供电刚需
+- 【事实】波 28·A-561:葡萄牙谱: **守档准由·原 R56 谱基增厚**:Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第56批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 28 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,62 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：双谱对照正口
-- **要问的问题**：CCTV/网络单随带收 24 口 value PoE 吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第56批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第28波37户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://shop.officelan.pt|葡分销店
-- **②芯片/型号**：UniFi/MT 双谱
-- **③KP 深挖**：geral@ 直口
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：CCTV 刚需
+- **①背景再核**：波 28·A-561:葡萄牙谱: **守档准由·原 R56 谱基增厚**:Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第56批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：葡萄牙 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【价格】**hAP be lite €69.90/UDR-5G-MAX €599.90 在价
-  > hAP be lite €69.90/UDR-5G-MAX €599.90 在价
-  > 来源：https://shop.officelan.pt
-- **【谱位】**UniFi+MikroTik 双谱+CCTV
-  > UniFi+MikroTik 双谱+CCTV
-  > 来源：https://shop.officelan.pt
-- **【新品】**wAP ax LTE7/UCG-Industrial 同步上架
-  > wAP ax LTE7/UCG-Industrial 同步上架
-  > 来源：https://shop.officelan.pt
+- **【联系方式与基础画像】**Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮
+  > Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮
+  > 来源：https://shop.officelan.pt/
+- **【联系方式与基础画像】**CSV 入口:+351 232 186 575 / comercial@officelan.pt
+  > CSV 入口:+351 232 186 575 / comercial@officelan.pt
+  > 来源：https://shop.officelan.pt/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：葡网络/光纤/CCTV 分销
-- **产品线与在售品牌**：UniFi 深谱+MikroTik 新品线+Alta Labs
-- **目标行业与场景**：装维/集成商/SMB
-- **团队与规模**：（官网推）
-- **决策链与对接人**：geral@ 直口
-- **技术与认证**：分销证链
-- **采购与供应链信号**：现货次日达
-- **近期动态与线索**：MT WiFi7/LTE7 新品同步上
-- **与我方契合点**：双谱旁 value 对照正口（$180 锚点一致）
-- **风险与注意**：葡语站——英文邮件可、节奏南欧型
+- **业务定位**：波 28·A-561:葡萄牙谱: **守档准由·原 R56 谱基增厚**:Officelan（葡分销店）：网络/光纤/CCTV 三谱;UniFi 深谱在价（UDR-5G-MAX €599.90/UPS-2U €339.90/G6 系）+MikroTik 新品线（wAP ax LTE7/hAP be lite €69.90)+UCG-Industrial 270W;75€ 免邮;R66 第 28 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第56批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik（Master+VAD）
+- **目标行业与场景**：葡萄牙 谱;分销（MikroTik 官方）
+- **团队与规模**：葡萄牙谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 28 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 28 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -155,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：UniFi+MT 双谱深
-- **W**：value 段待证
-- **O**：24 口随带档
-- **T**：大牌价段
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -186,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
-  - [ ] 返单节奏
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Officelan team,
+Dear Officelan Team,
 
-Deep UniFi and MikroTik shelves - hAP be lite at EUR69.90 up to UDR-5G-MAX - plus CCTV says your installers build whole site networks from your catalogue, and every camera run needs PoE.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, per-port watchdog, 4x10G uplinks) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a value line for CCTV and network jobs that die on switch cost, not to displace the brands you lead with.
-
-One question: on CCTV and site-network jobs, would a documented value 24-port PoE switch be worth listing as the attach line?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

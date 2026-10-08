@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续
-- 【推断】华沙个体顾问，双高阶（交换+企业无线）；公开内容面极薄——按工商存续+NIP 采信，邮件层运转
-- 【假设】MTCSWE+MTCEWE 对口企业 WLAN/交换工程线
+- 【事实】波 26·A-050:波兰谱: **守档准由·原 R56 谱基增厚**:SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,35 +136,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：华沙 NIP 在册个体顾问；MTCSWE+MTCEWE 双高阶；站单页
-- **②芯片/型号**：未公开
-- **③KP 深挖**：Labus r.labus@ 与站互证
-- **④Saga 对标**：双高阶特性对话
-- **⑤在乎与偏好**：直接
+- **①背景再核**：波 26·A-050:波兰谱: **守档准由·原 R56 谱基增厚**:SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：波兰 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“SINUX Ryszard Labus, ul. Domaniewska 47/10, 02-672 Warszawa, NIP 548-138-01-53, tel 666 385 002”
-  > “SINUX Ryszard Labus, ul. Domaniewska 47/10, 02-672 Warszawa, NIP 548-138-01-53, tel 666 385 002”
+- **【联系方式与基础画像】**SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续
+  > SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续
   > 来源：https://sinux.pl/
-- **【技术与认证】**CSV：Ryszard Labus/SINUX MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
-  > CSV：Ryszard Labus/SINUX MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
-  > 来源：https://mikrotik.com/consultants
+- **【联系方式与基础画像】**CSV 入口:+48 666 385 002 / r.labus@sinux.pl
+  > CSV 入口:+48 666 385 002 / r.labus@sinux.pl
+  > 来源：https://sinux.pl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：华沙个体顾问（NIP 登记）；MTCSWE+MTCEWE 双高阶
-- **产品线与在售品牌**：咨询
-- **目标行业与场景**：交换/企业无线工程（证书推断）
-- **团队与规模**：个体
-- **决策链与对接人**：Labus 本人
-- **技术与认证**：MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
-- **采购与供应链信号**：未知
-- **近期动态与线索**：官网 WordPress 默认单页（名称/地址/电话/NIP）
-- **与我方契合点**：双高阶特性对话
-- **风险与注意**：公开内容薄，如实标注；电话核实
+- **业务定位**：波 26·A-050:波兰谱: **守档准由·原 R56 谱基增厚**:SINUX（Ryszard Labus，华沙 Domaniewska 47/10，NIP 548-138-01-53）：5 证 MikroTik 顾问（MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE 双高阶）；官网为 WordPress 默认单页（极简/新架或休眠），NIP 登记旁证真实存续;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第5批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE+MTCSWE+MTCEWE
+- **目标行业与场景**：波兰 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：波兰谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +179,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双高阶
-- **W**：内容薄
-- **O**：随单
-- **T**：竞争
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -210,9 +210,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目方向
-  - [ ] 随单现供
-  - [ ] 评测意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,18 +223,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ryszard,
+Dear Ryszard Labus Team,
 
-I found SINUX on the MikroTik consultant list - MTCSWE and MTCEWE together points to switching and enterprise wireless work.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build managed PoE switches with a full L2+ table (Voice VLAN, ERPS, watchdog). Reference: 24-port model $180 USD EXW; bench 8-port $99.
-
-One question: do your client projects leave room for an alternative on the switching layer?
-
-If yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）
-- 【推断】“Switch & Networking”是其九大方案线之一=X 家工业交换机在售（CSV 载 N-Tron+Red Lion）；工业 PoE 是其项目常备
-- 【假设】Red Lion/N-Tron 替代或补位（温宽/看门狗缺位时）是切入口
+- 【事实】波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,41 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Relatech 集团工业 DT；九线含 Switch & Networking；CSV 载 N-Tron+Red Lion
-- **②芯片/型号**：Red Lion/N-Tron（工业以太网美系）
-- **③KP 深挖**：vendite@ 销售部口；集团采购层级待问
-- **④Saga 对标**：温宽 PoE+看门狗错位于美系工业线
-- **⑤在乎与偏好**：工业件认证/文档/交期
+- **①背景再核**：波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Soluzioni di Digital Transformation per il mondo industriale…Accompagniamo i clienti lungo la strada della digitalizzazione”+九大方案线含 Switch & Networking
-  > “Soluzioni di Digital Transformation per il mondo industriale…Accompagniamo i clienti lungo la strada della digitalizzazione”+九大方案线含 Switch & Networking
-  > 来源：https://www.efa.it/
-- **【目标行业与场景】**“manufacturing, processo, energia, building, trasporti, infrastrutture”+Consorzio di Bonifica 水务案例（2026-07）
-  > “manufacturing, processo, energia, building, trasporti, infrastrutture”+Consorzio di Bonifica 水务案例（2026-07）
-  > 来源：https://www.efa.it/caso/consorzio-di-bonifica-adige-euganeo-md-automation/
-- **【产品线】**CSV：N-Tron + Red Lion（工业以太网代表）
-  > CSV：N-Tron + Red Lion（工业以太网代表）
-  > 来源：https://www.efa.it/soluzioni/#36
-- **【联系方式】**vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > vendite@efa.it（CSV）；MX=efa-it.mail.protection.outlook.com（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://www.efa.it/
+- **【联系方式与基础画像】**EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ig
+  > EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ig
+  > 来源：https://efa.it/
+- **【联系方式与基础画像】**CSV 入口:vendite@efa.it（销售部）；info@efa.it；电话 02 92 11 31 80
+  > CSV 入口:vendite@efa.it（销售部）；info@efa.it；电话 02 92 11 31 80
+  > 来源：https://efa.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Relatech 集团旗下工业 DT 商（网关/HMI/SCADA/远控），Switch & Networking 为九大方案线之一
-- **产品线与在售品牌**：N-Tron+Red Lion 工业以太网；Ewon Flexy；Ignition 生态
-- **目标行业与场景**：制造/过程/能源/楼宇/交通/基础设施（水务 SCADA 案例多）
-- **团队与规模**：30+ 年、集团编制、培训学院
-- **决策链与对接人**：vendite@ 销售部
-- **技术与认证**：Ignition/Ewon 生态深度
-- **采购与供应链信号**：项目制工业件集采
-- **近期动态与线索**：2026-07 发布 Ignition+AI 水务案例（Consorzio di Bonifica）
-- **与我方契合点**：工业 PoE 温宽+看门狗可卡在 Red Lion/N-Tron 缺位
-- **风险与注意**：公用事业/水务段公共性强——仅跟民营工业客户段；集团采购层级先问清
+- **业务定位**：波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：N-Tron + Red Lion
+- **目标行业与场景**：意大利 谱;分销（HMS/N-Tron·Red Lion 渠道）
+- **团队与规模**：意大利谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -184,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：集团+项目盘
-- **W**：美系线稳
-- **O**：错位 PoE
-- **T**：公用段壁垒
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -215,9 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Switch 线 SKU 与价位
-  - [ ] 集团采购层级
-  - [ ] 试点认证清单
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -229,18 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi EFA team,
+Dear Efa Automazione S.p.A. Team,
 
-I see EFA covers industrial digitalization end to end - and that Switch & Networking is one of your nine solution lines, with Ewon and Ignition in the mix.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial-grade managed PoE switches rated -40 to 75C with a hardware PoE watchdog - a complement alongside, not a replacement for, your Red Lion / N-Tron lines, at a much lighter price point. Reference: $74.8 USD EXW.
-
-One question: is there an open slot in your industrial switching line for PoE + self-healing at a sharper price?
-
-If useful, I can send one unit with the full temperature test report for your lab. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

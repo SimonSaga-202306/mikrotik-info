@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Igor Stojković**，塞尔维亚贝尔格莱德。
+- **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 教具+工程双轨，均红线内；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,12 +44,17 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Igor Stojković**，塞尔维亚贝尔格莱德。双主体：**Netis DOO**（顾问壳，netis.rs 站已失效为 Shared IP 默认页）+ **Owner at eWireless**（LinkedIn 自述）；真实经营面=**自有培训站 mikrotiktrening.rs（在营：2026-05 MTCNA 课表照常排期）**。塞尔 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售课=教具消耗口。出货量：无公开。客户反馈：LinkedIn 课帖点赞常态（MTCNA 帖 5–21 赞），学员到课率即口碑。 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-016:塞尔维亚谱: **具名金谱·原批引真**:Igor Stojković / Netis(塞尔维亚);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售课=教具消耗口。出货量：无公开。客户反馈：LinkedIn 课帖点赞常态（MTCNA 帖 5–21 赞），学员到课率即口碑。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE））
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -133,32 +138,35 @@ RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售�
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Igor Stojković**，塞尔维亚贝尔格莱德。双主体：**Netis DOO**（顾问壳，netis.rs 站已失效为 Shared IP 默认页）+ **Owner at eWireless**（LinkedIn 自述）；真实经营面=**自有培训站 mikrotiktrening.rs（在营：2026-05 MTCNA 课表照常排期）**。塞尔维亚 MikroTik 培训师（TR0237，师证记录 2014–2023 已届满）；500+ LinkedIn 连接；授 MTCNA/MTCRE/MTCTE 课。技术学校出身（Tehnička škola Mihajlo Pupin）。⚠️ R32：塞尔维亚低投入——但本户自有培训站活跃，按「教师户红线内」处理。
-- **芯片与在用型号**：RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售课=教具消耗口。出货量：无公开。客户反馈：LinkedIn 课帖点赞常态（MTCNA 帖 5–21 赞），学员到课率即口碑。
-- **关键人KP**：**Igor Stojković 本人**。邮箱 **igor.stojkovic@netis.rs**（CSV 既有；netis.rs MX=自建 mail.netis.rs **今日核验仍有效**——站死邮活，可用但建议正文极简）+ 电话 +381 63 546 126（Vip 移动段，**WhatsApp/Viber 可试未验证**）+ LinkedIn 私信通道（rs.linkedin.com/in/igor-stojković-30329a23）。
-- **关注点与资质**：①自有培训品牌在营（排期/招生是他 KPI）；②塞语本土市场；③⚠️ 教师红线：不经培训语境触达学员、只用本人工程/教具语境；④eWireless 工程侧=无线接入+户外 PoE 可能。
-- **优缺点SWOT**：**S**：自有培训站活跃+500+ 连接=塞市场 MikroTik 圈节点人物；双邮箱+手机多通道。**W**：师证届满未续（2023-02）=官方背书弱化；双主体混乱（netis.rs 站死）；R32 低投入。**O**：教具样机（红线内）+eWireless 工程侧户外 PoE 件。**T**：小国+官方培训生态竞争。
-- **Saga产品适配**：教具/工程两轨（均红线内）：教具 **STC-28DGGPM**（**EXW $99**）；工程 **STI-288GP**（**EXW $74.8**，户外 250m 延伸喂 AP/摄像头）。一封短英文信问他「今年课程用哪台交换机做 VLAN/PoE 演示」开场，不推学员侧任何东西。
+- **①背景再核**：波 26·A-016:塞尔维亚谱: **具名金谱·原批引真**:Igor Stojković / Netis(塞尔维亚);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Igor Stojković(Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满）,邮箱既有；MX（自建 mail.netis.rs）站死邮活已验；手机社媒绑定未验)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：塞尔维亚 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【培训师身份】**LinkedIn：塞尔维亚 MikroTik 顾问与培训师。
-  > Consultant and experienced Serbian trainer for Mikrotik RouterOS (MTCNA, MTCRE, MTCTE… … Mikrotik Certified Trainer … Credential ID TR0237
-  > 来源：https://www.linkedin.com/in/igor-stojkovi%C4%87-30329a23/
-- **【培训站在营】**mikrotiktrening.rs 2026-05 MTCNA 课程排期。
-  > MTCNA trening u maju … 2026-05-04 10:00 Instaliranje, ažuriranje i logovanje na RouterOS … Predavači: Igor Stojković
-  > 来源：https://www.mikrotiktrening.rs/event/mtcna-maj-2026/
-- **【双主体】**LinkedIn 自述 Owner at eWireless。
-  > Owner at eWireless, Mikrotik Trainer, Consultant
-  > 来源：https://rs.linkedin.com/posts/igor-stojkovi%C4%87-30329a23_mtcna-trening-u-septembru-mikrotik-trening-activity-6961279559149215744-V628
-- **【站点状态】**netis.rs 解析为共享 IP 默认页（站失效），MX 仍活。
-  > This IP is being shared among many domains.
+- **【联系方式与基础画像】**Igor Stojković / Netis(塞尔维亚);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MI
+  > Igor Stojković / Netis(塞尔维亚);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MI
   > 来源：https://netis.rs/
-- **【投入纪律】**R32：塞尔维亚为暂定低投入小国。
-  > R32既定：abandon tiny countries SI/HR/RS… unless asked
-  > 来源：docs/requirements/用户要求总账.md#R32
+- **【联系方式与基础画像】**CSV 入口:+381 63 546 126 / igor.stojkovic@netis.rs
+  > CSV 入口:+381 63 546 126 / igor.stojkovic@netis.rs
+  > 来源：https://netis.rs/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-016:塞尔维亚谱: **具名金谱·原批引真**:Igor Stojković / Netis(塞尔维亚);CSV 信号:MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第2批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE（自述可教 MTCNA/MTCRE/MTCTE/MTCWE/MTCINE）
+- **目标行业与场景**：塞尔维亚 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：塞尔维亚谱·具名决策档
+- **决策链与对接人**：**Igor Stojković(Netis DOO / eWireless Owner / 塞 MikroTik 培训师（TR0237，届满）,邮箱既有；MX（自建 mail.netis.rs）站死邮活已验；手机社媒绑定未验)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -173,7 +181,10 @@ RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售�
 
 ## SWOT
 
-**S**：自有培训站活跃+500+ 连接=塞市场 MikroTik 圈节点人物；双邮箱+手机多通道。**W**：师证届满未续（2023-02）=官方背书弱化；双主体混乱（netis.rs 站死）；R32 低投入。**O**：教具样机（红线内）+eWireless 工程侧户外 PoE 件。**T**：小国+官方培训生态竞争。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -205,6 +216,10 @@ RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售�
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -212,21 +227,15 @@ RouterOS 培训全线+eWireless 无线语境（WISP 工程）；培训站在售�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Igor,
+Dear Igor Stojković Team,
 
-I came across Netis - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

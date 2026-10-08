@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络
-- 【推断】Fieldbus 通信+Red Lion 盘表+HMS 全家=其工业通信线成形；温宽 PoE 是随其传感/控制单的补件
-- 【假设】Cleveland 老线分销；其 Drive 带 Web/Ethernet 通信选件皆需接入层
+- 【事实】波 27·A-077:美国谱: **守档准由·原 R56 谱基增厚**:J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,35 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第8批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：克利夫兰工控老牌分销；Red Lion/HMS/Yaskawa 在册
-- **②芯片/型号**：Red Lion+N-Tron
-- **③KP 深挖**：Zaugg sales@
-- **④Saga 对标**：温宽 PoE 补件
-- **⑤在乎与偏好**：老关系节奏
+- **①背景再核**：波 27·A-077:美国谱: **守档准由·原 R56 谱基增厚**:J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Distributor of Sensors, Readouts, Drives, and Transmission Products…Fieldbus Communications…Red Lion CUB/PAX/GEM/Apollo”
-  > “Distributor of Sensors, Readouts, Drives, and Transmission Products…Fieldbus Communications…Red Lion CUB/PAX/GEM/Apollo”
+- **【联系方式与基础画像】**J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Li
+  > J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Li
   > 来源：https://jashomer.com/
-- **【联系方式】**sales@jashomer.com 216-221-4157；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > sales@jashomer.com 216-221-4157；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:电话 216-221-4157（总机，Charles Zaugg 直线同号）；sales@jashomer.com。President：Charles Zaugg（邮箱按 czaugg@jashomer.com 推测，未验证）
+  > CSV 入口:电话 216-221-4157（总机，Charles Zaugg 直线同号）；sales@jashomer.com。President：Charles Zaugg（邮箱按 czaugg@jashomer.com 推测，未验证）
   > 来源：https://jashomer.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：克利夫兰工控分销（传感+驱动+盘表+通信）
-- **产品线与在售品牌**：Red Lion/N-Tron/HMS+Yaskawa/Baldor/Leeson
-- **目标行业与场景**：制造/自动化
-- **团队与规模**：地区老分销
-- **决策链与对接人**：Charles Zaugg（CSV）sales@
-- **技术与认证**：Fieldbus/驱动全链
-- **采购与供应链信号**：常规随单
-- **近期动态与线索**：站常态化
-- **与我方契合点**：其 Fieldbus 盘旁的温宽 PoE 补件
-- **风险与注意**：老分销重关系节奏
+- **业务定位**：波 27·A-077:美国谱: **守档准由·原 R56 谱基增厚**:J A Shomer Company（美国克利夫兰）：传感器/驱动/传动/盘表控制分销商——电子传感（感应/光电/电容/RFID/编码器、**Fieldbus 通信**、机器视觉）、电力传动（Quantis/Maxum/Tigear 等品牌减速机）、盘表控制（**CUB/PAX/GEM/Apollo 系列=Red Lion 盘表**）、AC/DC VSD 电机（Yaskawa/Baldor/Leeson）；CSV：N-Tron+Red Lion+Anybus+Ewon（HMS）；Charles Zaugg 联络;R66 第 27 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：N-Tron + Red Lion + Anybus + Ewon
+- **目标行业与场景**：美国 谱;分销（HMS/N-Tron·Red Lion 渠道）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：老牌
-- **W**：慢
-- **O**：补件
-- **T**：美系
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -212,9 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 销售额带
-  - [ ] 在售矩阵
-  - [ ] 框架条件
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,18 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Charles,
+Dear J A Shomer Company Team,
 
-A catalog that carries Red Lion panel meters, HMS connectivity and Fieldbus communications already speaks industrial Ethernet fluently.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial managed PoE switches rated -40 to 75C - the kind of line item that sits naturally next to that portfolio. Reference: $74.8 USD EXW.
-
-One question: in your automation orders, who supplies the Ethernet switching layer today?
-
-If useful, I can send one unit with full documentation. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

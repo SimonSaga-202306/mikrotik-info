@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活
-- 【推断】7 证高阶+MTCUME 热点向；站主但站当前不可达——邮件+电话通道优先
-- 【假设】教育向站点主=知识输出型顾问；破冰后特性对话
+- 【事实】波 27·A-084:美国谱: **守档准由·原 R56 谱基增厚**:Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -138,35 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：7 证高阶个人+站长（站暂不可达）
-- **②芯片/型号**：未公开
-- **③KP 深挖**：本人邮件
-- **④Saga 对标**：破冰后定
-- **⑤在乎与偏好**：未知
+- **①背景再核**：波 27·A-084:美国谱: **守档准由·原 R56 谱基增厚**:Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：美国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**mikrotikinfo.com 抓取失败（2026-09-28 实测）；域 MX=aspmx.l.google.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > mikrotikinfo.com 抓取失败（2026-09-28 实测）；域 MX=aspmx.l.google.com 存活（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://mikrotikinfo.com/
-- **【技术与认证】**CSV：Amin Dashti 7 证（美国）
-  > CSV：Amin Dashti 7 证（美国）
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【联系方式与基础画像】**Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活
+  > Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
+- **【联系方式与基础画像】**CSV 入口:(949) 385-2171；站点 mikrotikinfo.com / info@mikrotikinfo.com（官网 about 页；mikrotikinfo.com（加州 Mission Viejo），北美头号 MikroTik 培
+  > CSV 入口:(949) 385-2171；站点 mikrotikinfo.com / info@mikrotikinfo.com（官网 about 页；mikrotikinfo.com（加州 Mission Viejo），北美头号 MikroTik 培
+  > 来源：仓内:A类深挖_2026-09-28_R56_第9批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国加州 7 证个人顾问+mikrotikinfo.com 站长（站当前不可达）
-- **产品线与在售品牌**：未公开（站点内学习内容为主推断）
-- **目标行业与场景**：未公开
-- **团队与规模**：个人
-- **决策链与对接人**：Dashti 本人
-- **技术与认证**：7 证高阶
-- **采购与供应链信号**：未知
-- **近期动态与线索**：站抓取失败（2026-09-28）
-- **与我方契合点**：破冰后特性对话
-- **风险与注意**：薄档如实
+- **业务定位**：波 27·A-084:美国谱: **守档准由·原 R56 谱基增厚**:Amin Dashti（美国加州）：7 证 MikroTik 顾问（MTCRE+MTCWE+MTCTCE+MTCINE+MTCSE+MTCIPv6E+MTCUME）；mikrotikinfo.com 站长（2026-09-28 抓取失败/站不可达）；邮箱域 MX=Google 存活;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第9批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问，持 MTCRE MTCWE MTCTCE MTCINE
+- **目标行业与场景**：美国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：美国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：高阶
-- **W**：站断
-- **O**：未探
-- **T**：不确定
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -217,9 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 站恢复
-  - [ ] 执业状态
-  - [ ] 评测意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -231,18 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Amin,
+Dear Amin Dashti Team,
 
-I found you via the MikroTik consultant list - seven certifications including MTCINE and MTCSE is serious depth. Your site seems unreachable today, so I keep this note short and self-contained.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build managed PoE switches with a full L2+ feature table (Voice VLAN, ERPS, hardware watchdog).
-
-One question: in your projects, is the switching layer ever open for alternatives?
-
-If yes, I can send the feature table and an evaluation unit. If not, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

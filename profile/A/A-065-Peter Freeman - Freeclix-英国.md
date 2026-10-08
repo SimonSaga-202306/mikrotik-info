@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡议会、Naked Wines、Cosy Club、Auntie Anne’s 等（公私混）
-- 【推断】Guest WiFi+酒店餐饮连锁+Hosted VoIP 三线都需要 Voice VLAN/PoE 接入层——餐饮连锁翻修滚动口
-- 【假设】酒店/餐饮私域客户（Cosy Club/Auntie Anne’s/Naked Wines）是合规主巷，NHS/Norfolk CC 公共段守边界
+- 【事实】波 27·A-065:英国谱: **守档准由·原 R56 谱基增厚**:FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡议会、Naked Wines、Cosy Club、Auntie Anne’s 等（公私混）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -142,35 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：英国 ISP 全栈：Guest WiFi/VoIP/无线桥/移动 IoT；ISO9001；公私混客墙
-- **②芯片/型号**：未公开硬件架
-- **③KP 深挖**：Freeman sales@ 直达
-- **④Saga 对标**：Voice VLAN 24 口 PoE 配 VoIP/Wi-Fi 双线
-- **⑤在乎与偏好**：质量档（ISO）+托管节奏
+- **①背景再核**：波 27·A-065:英国谱: **守档准由·原 R56 谱基增厚**:FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡议会、Naked Wines、Cosy Club、Auntie Anne’s 等（公私混）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：英国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“We are a UK internet service provider…Guest WIFI…Hosted VoIP, Phone Systems…trusted by PwC, NHS, Norfolk CC, Cosy Club, Auntie Anne’s”
-  > “We are a UK internet service provider…Guest WIFI…Hosted VoIP, Phone Systems…trusted by PwC, NHS, Norfolk CC, Cosy Club, Auntie Anne’s”
+- **【联系方式与基础画像】**FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡
+  > FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡
   > 来源：https://freeclix.com/
-- **【联系方式】**sales@freeclix.com +44 1603 703340；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > sales@freeclix.com +44 1603 703340；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
+- **【联系方式与基础画像】**CSV 入口:+44 1603 703340 / sales@freeclix.com
+  > CSV 入口:+44 1603 703340 / sales@freeclix.com
   > 来源：https://freeclix.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国 ISP 全栈托管商（互联网/无线/VoIP/移动/Guest WiFi）
-- **产品线与在售品牌**：自有服务+运营商代理
-- **目标行业与场景**：酒店餐饮连锁/商企/（公共部分存在）
-- **团队与规模**：中型 ISP
-- **决策链与对接人**：Peter Freeman（MTCNA+MTCSWE）sales@
-- **技术与认证**：ISO9001
-- **采购与供应链信号**：连锁项目滚动+VoIP 线 VoWiFi 配位
-- **近期动态与线索**：客户墙持续扩（2024-25 新增）
-- **与我方契合点**：Guest WiFi/VoIP 的 Voice VLAN 接入层随行
-- **风险与注意**：公共账户段边界明确
+- **业务定位**：波 27·A-065:英国谱: **守档准由·原 R56 谱基增厚**:FreeClix（英国诺里奇）：英国 ISP+托管服务商——商用互联网（专线/FTTP/SOGEA、4G/卫星 fail-over）、无线桥接、**Guest WiFi**、托管/机柜托管、Hosted VoIP/SIP、全英运营商移动接入（含 IoT/M2M SIM）；ISO9001；客户墙：PwC、NHS、诺福克郡议会、Naked Wines、Cosy Club、Auntie Anne’s 等（公私混）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第7批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSWE
+- **目标行业与场景**：英国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：英国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全栈
-- **W**：边界
-- **O**：滚动
-- **T**：大厂
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -216,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 连锁项目量
-  - [ ] 接入层现供
-  - [ ] 监控体系
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Peter,
+Dear Peter Freeman Team,
 
-FreeClix bundles exactly the three things that meet in one access cabinet - guest WiFi, hosted VoIP and wireless backhaul. That is a clean design decision if the switching layer cooperates.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-Our 24-port PoE switch (280W, 802.3af/at, Voice VLAN, watchdog self-healing) is built for exactly that closet. Reference: $180 USD EXW.
-
-One question: in a typical Cosy Club-style venue you wire, how are voice and guest WiFi separated today?
-
-If useful, I can send one unit with a VLAN sample config. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

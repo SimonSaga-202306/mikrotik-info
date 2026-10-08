@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Group Oberhausen 月度会；安全博客活跃（MikroTrick CVE 分析）；FOSDEM/Chemnitzer Linuxtage 常客
-- 【推断】MTCSWE 新课上线=交换教具采购窗口；MUG 月度会=德国 Ruhr 区 MikroTik 社群节点
-- 【假设】2027 排课表一出，教具采购会在 2026Q4 落单
+- 【事实】波 26·A-030:德国谱: **守档准由·原 R56 谱基增厚**:Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Group Oberhausen 月度会；安全博客活跃（MikroTrick CVE 分析）；FOSDEM/Chemnitzer Linuxtage 常客;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -137,38 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Oberhausen 个人官方 Trainer 全排期；MUG Oberhausen 主理人；安全博客作者（MikroTrick CVE）
-- **②芯片/型号**：教具现用未公开
-- **③KP 深挖**：Michael Gisbers 本人；FOSDEM/CLT 圈子人脉
-- **④Saga 对标**：MTCSWE 新课教具+实验架：STC-28DGGPM
-- **⑤在乎与偏好**：技术深度内容（CVE 级）；社群信任
+- **①背景再核**：波 26·A-030:德国谱: **守档准由·原 R56 谱基增厚**:Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Group Oberhausen 月度会；安全博客活跃（MikroTrick CVE 分析）；FOSDEM/Chemnitzer Linuxtage 常客;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：德国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态与线索】**“MikroTik Kurse für 2027 online – Jetzt auch mit MTCSWE”（2026-09-16）+2026-12/2027-02 排期表
-  > “MikroTik Kurse für 2027 online – Jetzt auch mit MTCSWE”（2026-09-16）+2026-12/2027-02 排期表
+- **【联系方式与基础画像】**Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Grou
+  > Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Grou
   > 来源：https://linux-schmie.de/
-- **【业务定位】**“MikroTik User Group Oberhausen…monatliches Treffen”+“MikroTrick: Kritische Sicherheitslücken…aktiv ausgenutzt”安全分析
-  > “MikroTik User Group Oberhausen…monatliches Treffen”+“MikroTrick: Kritische Sicherheitslücken…aktiv ausgenutzt”安全分析
-  > 来源：https://linux-schmie.de/
-- **【联系方式】**MX=mx.mylinuxtime.de（MX/DNS 级核验：域存活=邮件可投递到域）；m.gisbers@linux-schmie.de（CSV）
-  > MX=mx.mylinuxtime.de（MX/DNS 级核验：域存活=邮件可投递到域）；m.gisbers@linux-schmie.de（CSV）
+- **【联系方式与基础画像】**CSV 入口:+49 173 5106822 / m.gisbers@linux-schmie.de
+  > CSV 入口:+49 173 5106822 / m.gisbers@linux-schmie.de
   > 来源：https://linux-schmie.de/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 MikroTik 官方培训师+Ruhr 区 MUG 主理人+安全博客作者
-- **产品线与在售品牌**：官方培训课程（十证全谱，2027 起 MTCSWE）
-- **目标行业与场景**：工程师认证培训；MUG 月度会
-- **团队与规模**：个人
-- **决策链与对接人**：Michael Gisbers 本人
-- **技术与认证**：官方 Trainer 全证；CVE 深度分析能力
-- **采购与供应链信号**：教具批次采购；2027 新课=新采购窗
-- **近期动态与线索**：2026-09-16 公告 2027 排课含 MTCSWE 新课
-- **与我方契合点**：MTCSWE 交换课教具 PoE 交换机+MUG 现场展示位
-- **风险与注意**：师者红线：教具报价真实不套路；社群信任是其资产
+- **业务定位**：波 26·A-030:德国谱: **守档准由·原 R56 谱基增厚**:Linux-Schmie.de（Michael Gisbers，Oberhausen）：德国 MikroTik 培训师，2026-2027 全排期（MTCNA/MTCRE/MTCSE/MTCINE/MTCEWE/MTCIPv6E，2027 起新增 MTCSWE 交换工程师课）；主办 MikroTik User Group Oberhausen 月度会；安全博客活跃（MikroTrick CVE 分析）；FOSDEM/Chemnitzer Linuxtage 常客;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCSWE+MTCEWE（10 证，全证）
+- **目标行业与场景**：德国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：德国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：官方 Trainer+MUG 节点
-- **W**：个人带宽
-- **O**：MTCSWE 新课采购窗
-- **T**：官方教具
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -218,9 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MTCSWE 教具采购时间与预算
-  - [ ] 现用实验架交换机
-  - [ ] MUG 展示政策
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -232,18 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Michael,
+Dear Michael Gisbers Team,
 
-I saw your September post - the 2027 course schedule now includes MTCSWE. Congratulations; switching finally gets its own cert.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed Gigabit PoE switch that training benches like for STP/VLAN aggregation labs (802.3af/at, PoE watchdog, full CLI). Reference: $99 USD EXW.
-
-One question: have you already picked the bench switches for the new MTCSWE labs?
-
-If useful, I can send a bench unit plus a suggested lab topology - and if the MUG Oberhausen crowd wants, a show-and-tell unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

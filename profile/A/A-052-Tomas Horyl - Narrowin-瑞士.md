@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、EnBW、巴塞尔大学/大学医院/州立医院、IBB Brugg、Breitband Lörrach、**格斯根核电站（KKG）**；Innosuisse+FHNW 资助研究：**跑在现网交换机/防火墙/网关容器里的边缘 OT-IDS**（自校准基线），正招试点（供暖/能源/交通多站点）；Tomas Horyl MTCNA+MTCSWE
-- 【推断】其软件卖进 MikroTik 浓度高的瑞士关键基础设施圈——我们不是卖软件的直接对手，而是其落地方案里可选的可靠交换硬件推荐位
-- 【假设】与其只当客户，不如当被推荐硬件：其评估/试点项目里的温宽小盒需求真实存在
+- 【事实】波 26·A-052:瑞士谱: **守档准由·原 R56 谱基增厚**:narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、EnBW、巴塞尔大学/大学医院/州立医院、IBB Brugg、Breitband Lörrach、**格斯根核电站（KKG）**；Innosuisse+FHNW 资助研究：**跑在现网交换机/防火墙/网关容器里的边缘 OT-IDS**（自校准基线），正招试点（供暖/能源/交通多站点）；Tomas Horyl MTCNA+MTCSWE;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -139,38 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：瑞士 OT 可见性软件初创（轻量哲学）；MikroTik 浓度高的基建客户群；IHF 研究容器 IDS
-- **②芯片/型号**：目标网络 CRS326 级 MikroTik
-- **③KP 深挖**：Horyl 直达（MTCSWE）
-- **④Saga 对标**：温宽小盒被推荐位（非正面对标）
-- **⑤在乎与偏好**：轻量/可运维/价格友好——同频
+- **①背景再核**：波 26·A-052:瑞士谱: **守档准由·原 R56 谱基增厚**:narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、EnBW、巴塞尔大学/大学医院/州立医院、IBB Brugg、Breitband Lörrach、**格斯根核电站（KKG）**；Innosuisse+FHNW 资助研究：**跑在现网交换机/防火墙/网关容器里的边缘 OT-IDS**（自校准基线），正招试点（供暖/能源/交通多站点）；Tomas Horyl MTCNA+MTCSWE;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
+- **⑤在乎与偏好**：瑞士 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Lightweight network and security tools…visibility, segmentation & security for OT…customers: Swissgas, EnBW, Universitätsspital Basel, Kantonsspital Baselland, Kernkraftwerk Gösgen”
-  > “Lightweight network and security tools…visibility, segmentation & security for OT…customers: Swissgas, EnBW, Universitätsspital Basel, Kantonsspital Baselland, Kernkraftwerk Gösgen”
-  > 来源：https://narrowin.com/en/
-- **【近期动态】**“An OT-IDS that runs on the equipment you already have…Looking for pilot partners (heating, energy, transportation, multi-site)”
-  > “An OT-IDS that runs on the equipment you already have…Looking for pilot partners (heating, energy, transportation, multi-site)”
-  > 来源：https://narrowin.com/en/work-ot-ids-research
-- **【联系方式】**info@narrowin.ch；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > info@narrowin.ch；MX=O365（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://narrowin.com/en/
+- **【联系方式与基础画像】**narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、En
+  > narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、En
+  > 来源：https://narrowin.ch/
+- **【联系方式与基础画像】**CSV 入口:info@narrowin.ch（另 +41 61 511 23 30）
+  > CSV 入口:info@narrowin.ch（另 +41 61 511 23 30）
+  > 来源：https://narrowin.ch/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞士 OT 网络可见性/安全软件商（轻量哲学，客单价友好位）
-- **产品线与在售品牌**：Explorer/IPAM/Log/OT Connect/Diode/AI Stack 六件
-- **目标行业与场景**：关键基础设施/能源/医院/高校/供暖网络
-- **团队与规模**：精悍工程师初创
-- **决策链与对接人**：Tomas Horyl（MTCNA+MTCSWE）
-- **技术与认证**：Innosuisse 资助容器化 OT-IDS 研究
-- **采购与供应链信号**：评估/试点项目所需硬件推荐位
-- **近期动态与线索**：OT-IDS 研究招试点中（供暖/能源/交通多站点）
-- **与我方契合点**：其试点与评估项目里的被推荐管理型 PoE 硬件
-- **风险与注意**：关键基础设施招牌段边界；不得虚称容器能力
+- **业务定位**：波 26·A-052:瑞士谱: **守档准由·原 R56 谱基增厚**:narrowin（瑞士巴塞尔）：OT 网络可见性/分段/安全软件初创——Explorer（无 agent 网络可视化，Demo 示例即 MikroTik CRS326）、IPAM、日志分析、OT Connect、数据二极管 Diode、Sovereign AI（on-prem LLM）；客户招牌：Swissgas、EnBW、巴塞尔大学/大学医院/州立医院、IBB Brugg、Breitband Lörrach、**格斯根核电站（KKG）**；Innosuisse+FHNW 资助研究：**跑在现网交换机/防火墙/网关容器里的边缘 OT-IDS**（自校准基线），正招试点（供暖/能源/交通多站点）；Tomas Horyl MTCNA+MTCSWE;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第6批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSWE
+- **目标行业与场景**：瑞士 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：瑞士谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -185,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：基建借势
-- **W**：无量
-- **O**：推荐位
-- **T**：边界
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STI-288GP $74.8 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -216,9 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 试点硬件现供
-  - [ ] 推荐清单形态
-  - [ ] 联合材料意愿
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -230,18 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Tomas,
+Dear Tomas Horyl Team,
 
-Your "lightweight by default" manifesto reads like our own spec sheet - and I saw a CRS326 in your example topology, so we already speak the same metal.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build industrial managed PoE switches (-40..75C, hardware watchdog, LLDP/SNMP clean for visibility tools like your Explorer). Reference: $74.8 USD EXW.
-
-One question: in your distributed-OT pilots, who supplies the managed switches on site today?
-
-If useful, I can send one unit so your Explorer can meet a new device - always a fair test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

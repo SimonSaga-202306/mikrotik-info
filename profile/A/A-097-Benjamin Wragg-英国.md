@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）
-- 【推断】AltNet 运营商=街柜/MDU/POP 接入小盒与机房接入层是其自运营资产
-- 【假设】其 4 张交换/骨干/安全证（MTCSE+MTCINE+MTCTCE）=其公司网络底程以 MikroTik 为骨架，接入层小盒有对话空间
+- 【事实】波 27·A-097:英国谱: **守档准由·原 R56 谱基增厚**:Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,35 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：AltNet 实体+4 证高阶 KP（骨干/安全向）
-- **②芯片/型号**：MikroTik 底架（证侧）
-- **③KP 深挖**：Wragg；域 O365
-- **④Saga 对标**：POP/街柜小盒
-- **⑤在乎与偏好**：客户口碑驱动
+- **①背景再核**：波 27·A-097:英国谱: **守档准由·原 R56 谱基增厚**:Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：英国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Hyperfast Full Fibre Broadband from £20 per month…parented by OFNL Fibre Broadband reviews, VoIP digital landline”
-  > “Hyperfast Full Fibre Broadband from £20 per month…parented by OFNL Fibre Broadband reviews, VoIP digital landline”
-  > 来源：https://internetty.uk/
-- **【联系方式】**+44 3331 020000；MX=O365 存活（internetty-uk.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > +44 3331 020000；MX=O365 存活（internetty-uk.mail.protection.outlook.com）（MX/DNS 级核验：域存活=邮件可投递到域）
-  > 来源：https://internetty.uk/
+- **【联系方式与基础画像】**Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Tru
+  > Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Tru
+  > 来源：仓内:A类深挖_2026-09-28_R56_第10批.json
+- **【联系方式与基础画像】**CSV 入口:+44 3331 020000；⚠️ 无邮箱：域名 internetty.uk（RocketReach 显示 b******@internetty.uk，被遮码）｜InternetTY = 全光纤宽带 ISP（家用+商用+VoIP），本身即
+  > CSV 入口:+44 3331 020000；⚠️ 无邮箱：域名 internetty.uk（RocketReach 显示 b******@internetty.uk，被遮码）｜InternetTY = 全光纤宽带 ISP（家用+商用+VoIP），本身即
+  > 来源：仓内:A类深挖_2026-09-28_R56_第10批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国全光纤 AltNet（家庭/企业/VoIP）
-- **产品线与在售品牌**：全光纤宽带+digital landline
-- **目标行业与场景**：英国家庭/中小企业宽带
-- **团队与规模**：小型 AltNet
-- **决策链与对接人**：Benjamin Wragg（网传 4 证）
-- **技术与认证**：MTCRE+MTCTCE+MTCINE+MTCSE
-- **采购与供应链信号**：自运营网络接入层
-- **近期动态与线索**：Trustpilot 100+ 五星常态增长
-- **与我方契合点**：POP/街柜接入小盒
-- **风险与注意**：无公开邮箱走热线
+- **业务定位**：波 27·A-097:英国谱: **守档准由·原 R56 谱基增厚**:Benjamin Wragg（英国）：4 证 MikroTik 顾问（MTCRE+MTCTCE+MTCINE+MTCSE）；域名 internetty.uk 的落地实体为 **InternetTY——超快全光纤宽带 AltNet**（£20/月起、家庭全光纤+企业商务光纤+VoIP 数字固话；OFNL 光纤运营；Trustpilot 五星 100+ 评价）;R66 第 27 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第10批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问，持 MTCRE MTCTCE MTCINE MTCSE
+- **目标行业与场景**：英国 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：英国谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -183,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：口碑
-- **W**：小体
-- **O**：接入
-- **T**：批扣
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -218,9 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] POP/街柜规格
-  - [ ] 接入现用
-  - [ ] 评测窗
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -232,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Benjamin,
+Dear Benjamin Wragg Team,
 
-InternetTY runs a purpose-built full-fibre network with a Trustpilot record most ISPs would kill for - and your name shows up as the network brains right where the street cabinets live.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE switch with a hardware watchdog, sized exactly for POP and street-cabinet access. Reference: $99 USD EXW.
-
-One question: what switch hardware sits in your POP cabinets today?
-
-If useful, I can send one evaluation unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

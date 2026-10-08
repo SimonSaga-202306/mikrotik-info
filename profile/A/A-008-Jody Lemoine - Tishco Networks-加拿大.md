@@ -22,7 +22,7 @@ updated: 2026-09-28
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：**Tishco Networks**（tishco.ca），安大略 Niagara Falls（4551 Zimmerman Ave，预约制办公室），**2007 年创立**（官网「Since 2007」+Expert…
+- **是谁**：公司/工作室（有官网）；培训交付
 - **商业模式**：培训交付
 - **为什么值得跟**：有明确交换/供电需求（交换专长），且有具体人直联
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 主场景匹配+首触只推一个型号的纪律；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,12 +44,17 @@ updated: 2026-09-28
 | 商业模式 | 培训交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | **Tishco Networks**（tishco.ca），安大略 Niagara Falls（4551 Zimmerman Ave，预约制办公室），**2007 年创立**（官网「Since 2007」+Experts Exchange 档案 2007.03 至今相互印证）。业主 **Jody Lemoine**。定位极特殊：**「向 IT 公司批发网络 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 设计交付型：路由/交换/数据安全/统一通信/无线全栈；公开自述现持 **Cisco CCDP + CCIE R&S #41436**（思科正统底子），MikroTik MTCRE（2103RE2975，2021–2024 **已过期**——他不靠 MikroTik 证吃饭，更新视需要）。技术口味=协议与架构（Experts Exchange 2009 起的技 | 事实+【推断】混合，见证据摘录 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 26·A-008:加拿大谱: **具名金谱·原批引真**:Jody Lemoine / Tishco Networks(加拿大);CSV 信号:MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波具名 KP 金谱(原批引真)
+- 【假设】STC-28DGGPM($99 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-设计交付型：路由/交换/数据安全/统一通信/无线全栈；公开自述现持 **Cisco CCDP + CCIE R&S #41436**（思科正统底子），MikroTik MTCRE（2103RE2975，2021–2024 **已过期**——他不靠 MikroTik 证吃饭，更新视需要）。技术口味=协议与架构（Experts Exchange 2009 起的技术答主、GitHub/Mastodon 在册），对 CLI/MIB/ERPS 级细节会实测拷问。出货量：未公开（项目制）。客户反馈：Experts Exchange 长期答主身份=社区信誉资产。
+（待深挖批覆盖；当前仅有 CSV 名录口径：MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**）
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -138,35 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类深挖_2026-09-28_R55_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **背景深描**：**Tishco Networks**（tishco.ca），安大略 Niagara Falls（4551 Zimmerman Ave，预约制办公室），**2007 年创立**（官网「Since 2007」+Experts Exchange 档案 2007.03 至今相互印证）。业主 **Jody Lemoine**。定位极特殊：**「向 IT 公司批发网络服务、由他们转售给各自客户」的渠道型顾问（wholesale provisioning of networking services to IT firms for resale）**——白标/隐形交付老手，与中性包装 OEM 逻辑同构。服务半径：中小企业网到 **450+ 端点的 VPN 大网**。
-- **芯片与在用型号**：设计交付型：路由/交换/数据安全/统一通信/无线全栈；公开自述现持 **Cisco CCDP + CCIE R&S #41436**（思科正统底子），MikroTik MTCRE（2103RE2975，2021–2024 **已过期**——他不靠 MikroTik 证吃饭，更新视需要）。技术口味=协议与架构（Experts Exchange 2009 起的技术答主、GitHub/Mastodon 在册），对 CLI/MIB/ERPS 级细节会实测拷问。出货量：未公开（项目制）。客户反馈：Experts Exchange 长期答主身份=社区信誉资产。
-- **关键人KP**：**Jody Lemoine**（sole principal，Network Architect & Director）。邮箱 **jody.lemoine@tishco.ca**（CSV）+ **contact@tishco.ca**（官网公开）+ 电话 +1 905 378-1134。社媒矩阵罕见地全：**blog ghostinthenet.info（MX easydns 活）、GitHub @ghostinthenet、Mastodon @ghostinthenet@hachyderm.io、Bluesky @ghostinthenet.bsky.social、LinkedIn ca.linkedin.com/in/jodyl（500+）**——技术圈触点极多，冷启动邮件可引用其公开文章立场。⚠️ 敏感备注：他还任加拿大军校学员团 809 中队 Commanding Officer（CIC，2011.09 至今，公开履历）——**仅作背景知悉，任何话术不得利用/提及军警身份**。
-- **关注点与资质**：①**技术至上**：CCIE 级买家，彩页进不了门，要 datasheet/CLI 手册/MIB/实测窗口（180 天送测他都嫌短的话给远程 lab）；②白标可交付性（他把服务批发给别的 IT 公司——中性包装、双 branding、无原厂水印正中其需）；③可维护性/可持续（「sustainable»elegant»scalable」是他自我标签）；④预约制办公室=低接待成本运营，邮件异步沟通为主。
-- **优缺点SWOT**：**S**：CCIE+19 年店+批发式渠道（他一个 KP 身后挂着一串 IT 公司客户=**一对多放大器**）；中性货需求语义他天然懂。**W**：极度挑剔的技术评估（Marvell 特性表不全会当场露馅）；单人带宽；MikroTik 证书过期说明他对品牌不忠诚=对供应商也不忠诚。**O**：他的转售客户群=我们做「隐形第二供应商」的最佳掩体；450 端点 VPN 大网项目证明他能吞下企业级量。**T**：Cisco/MikroTik 存量偏好；打不进嘴炮型采购话题，只能靠实测口碑慢热。
-- **Saga产品适配**：评测机组合：**STC-424XGGPM-440W**（24口 PoE+4×10G，**EXW $264**，L2+ 全特性：ERPS<20ms/QinQ/Private VLAN/Voice VLAN/sFlow/MQTT——CCIE 会逐条试，特性表据实给全）+ **STI-480XGGM**（工业 8口 4×10G，**EXW $253**，ERPS 环形拓扑）+固件特性表原文（L2+/L3 两版）。话术：工程师对工程师，「spec sheet 两页内回复，180 天 nfr（not-for-resale）样机」；OEM 贴牌/中性包装写进首封信。⚠️ 被他抓包虚标=永久出局，只承诺特性表已有的行。
+- **①背景再核**：波 26·A-008:加拿大谱: **具名金谱·原批引真**:Jody Lemoine / Tishco Networks(加拿大);CSV 信号:MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**Jody Lemoine(业主/Network Architect（CCDP, CCIE R&S #41436；MTCRE 2103RE2975 已于 2024-03 过期）,双邮箱其一官网公开；MX（Google）已验);Jody Lemoine（社媒层）(技术社区身份 ghostinthenet,多平台公开身份已核（GitHub 简介互链）)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：加拿大 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【经营历史】**2007 年起经营网络设计与实施。
-  > Since 2007, tishco networks has offered business-focused network design and implementation services.
-  > 来源：https://www.tishco.ca/
-- **【联系】**contact@tishco.ca 公开；Niagara Falls 预约制办公室。
-  > contact@tishco.ca … +1 (905) 378-1134 … 4551 Zimmerman Avenue, Niagara Falls, Ontario L2E 3M5 … In-person meetings by appointment only.
-  > 来源：https://www.tishco.ca/
-- **【渠道定位】**向 IT 公司批发网络服务、由对方转售——白标交付结构。
-  > a consulting firm specializing in the wholesale provisioning of networking services to IT firms for resale to their respective clientele
-  > 来源：https://www.experts-exchange.com/members/jodylemoine.html
-- **【技术资历】**现持 Cisco CCDP 与 CCIE R&S（41436）。
-  > In addition, I maintain current Cisco CCDP and CCIE R&S (41436) certifications.
-  > 来源：https://www.experts-exchange.com/members/jodylemoine.html
-- **【MTCRE 状态】**MTCRE 2103RE2975（2021-03 发、2024-03 到期）。
-  > MikroTik Certified Routing Engineer … Issued Mar 2021 Expires Mar 2024 Credential ID 2103RE2975
-  > 来源：https://www.linkedin.com/in/jodyl/
-- **【社媒矩阵】**ghostinthenet 跨 GitHub/Mastodon/Bluesky 同名在册。
-  > @ghostinthenet@hachyderm.io … @ghostinthenet.bsky.social
-  > 来源：https://github.com/ghostinthenet
+- **【联系方式与基础画像】**Jody Lemoine / Tishco Networks(加拿大);CSV 信号:MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/M
+  > Jody Lemoine / Tishco Networks(加拿大);CSV 信号:MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/M
+  > 来源：https://tishco.ca/
+- **【联系方式与基础画像】**CSV 入口:+1 905 378 1134 / jody.lemoine@tishco.ca
+  > CSV 入口:+1 905 378 1134 / jody.lemoine@tishco.ca
+  > 来源：https://tishco.ca/
+
+### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
+
+- **业务定位**：波 26·A-008:加拿大谱: **具名金谱·原批引真**:Jody Lemoine / Tishco Networks(加拿大);CSV 信号:MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**;切入:MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R55_第1批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 多证 + MikroTik 认证讲师 + **Cisco CCIE（41436）**
+- **目标行业与场景**：加拿大 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：加拿大谱·具名决策档
+- **决策链与对接人**：**Jody Lemoine(业主/Network Architect（CCDP, CCIE R&S #41436；MTCRE 2103RE2975 已于 2024-03 过期）,双邮箱其一官网公开；MX（Google）已验);Jody Lemoine（社媒层）(技术社区身份 ghostinthenet,多平台公开身份已核（GitHub 简介互链）)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 具名窗
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -181,7 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-**S**：CCIE+19 年店+批发式渠道（他一个 KP 身后挂着一串 IT 公司客户=**一对多放大器**）；中性货需求语义他天然懂。**W**：极度挑剔的技术评估（Marvell 特性表不全会当场露馅）；单人带宽；MikroTik 证书过期说明他对品牌不忠诚=对供应商也不忠诚。**O**：他的转售客户群=我们做「隐形第二供应商」的最佳掩体；450 端点 VPN 大网项目证明他能吞下企业级量。**T**：Cisco/MikroTik 存量偏好；打不进嘴炮型采购话题，只能靠实测口碑慢热。
+- **S**：原批 O 级具名金谱+R56 谱基在册
+- **W**：直发需 opt-in
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -212,6 +220,10 @@ updated: 2026-09-28
 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
+- **深挖专属待问（R56）**：
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
+
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
 - [ ] 上门/故障频次（订阅制客户的核心成本）
@@ -219,21 +231,15 @@ updated: 2026-09-28
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：8-port PoE with auto-recovery for your field deployments
+**主题**：PoE switching for your projects
 
 ```text
-Hi Jody,
+Dear Jody Lemoine Team,
 
-I came across Tishco Networks - 集成商/顾问（MikroTik 认证）.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit PoE switch (240W budget, af/at) with a hardware PoE watchdog that power-cycles a frozen AP or camera automatically, plus clean 802.1Q VLAN / ERPS / sFlow on the management side. Reference: $99 USD EXW.
-
-One question: Which switch do you currently put on the bench for the VLAN/PoE lab demos?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证
-- 【推断】出货体量：8.311+ 认证工程师 / 1.723+ 期课程的教具消耗与分销库存周转是希腊 MikroTik 生态中枢
-- 【假设】MTCSWE 交换工程师认证赛道兴起→交换教具与实验架需求上升
+- 【事实】波 26·A-022:希腊谱: **守档准由·原 R56 谱基增厚**:希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 26 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -140,41 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：HellasCom 集团子实体：培训中心（2011）+分销商（2001）+电商 LinkShop；与 A-024 同集团——合并触达主窗口
-- **②芯片/型号**：MikroTik 谱系（MT7621/IPQ 系为主）；无自研交换机
-- **③KP 深挖**：Liodakis/Maragkoudakis 双 Trainer；集团采购在 HellasCom 侧
-- **④Saga 对标**：教具+零售空白价位段；STC-28DGGPM 实验架适配
-- **⑤在乎与偏好**：教学口径真实——实测数据与拆机清单受欢迎；拒绝营销话术
+- **①背景再核**：波 26·A-022:希腊谱: **守档准由·原 R56 谱基增厚**:希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
+- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“MikroTik Distributor από το 2001 — Training Center από το 2011…HellasCom και το LinkShop.GR”
-  > “MikroTik Distributor από το 2001 — Training Center από το 2011…HellasCom και το LinkShop.GR”
+- **【联系方式与基础画像】**希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证
+  > 希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证
   > 来源：https://mikrotiktraining.gr/
-- **【团队与规模】**“8.311+ πιστοποιημένοι μηχανικοί / 1723+ σεμινάρια”+双讲师 10 证墙
-  > “8.311+ πιστοποιημένοι μηχανικοί / 1723+ σεμινάρια”+双讲师 10 证墙
+- **【联系方式与基础画像】**CSV 入口:+30 28210 98579 / el@dce.gr
+  > CSV 入口:+30 28210 98579 / el@dce.gr
   > 来源：https://mikrotiktraining.gr/
-- **【近期动态与线索】**“MTCNA – Πειραιάς | 2-3-4 Οκτωβρίου 2026 €490 / MTCSE €500 / MTCNA Χανιά 6-7-8 Νοεμβρίου 2026”
-  > “MTCNA – Πειραιάς | 2-3-4 Οκτωβρίου 2026 €490 / MTCSE €500 / MTCNA Χανιά 6-7-8 Νοεμβρίου 2026”
-  > 来源：https://mikrotiktraining.gr/
-- **【联系方式】**mikrotiktraining.gr MX=aspmx.l.google.com（Google Workspace）（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
-  > mikrotiktraining.gr MX=aspmx.l.google.com（Google Workspace）（MX/DNS 级核验：域存活=邮件可投递到域；沙箱 SMTP 用户级不验）
-  > 来源：https://www.mikrotiktraining.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：希腊 MikroTik 生态中枢：首个官方培训中心+母司分销商 HellasCom+电商 LinkShop
-- **产品线与在售品牌**：MikroTik 全谱系（分销口径）；课程教具
-- **目标行业与场景**：工程师培训（MTCNA→MTCINE 十证）
-- **团队与规模**：双讲师 10 证（Maragkoudakis/Liodakis）；HellasCom 集团支撑
-- **决策链与对接人**：Liodakis 领衔；集团决策在 HellasCom（A-024 链接）
-- **技术与认证**：官方 Trainer 资质×2；10 证全谱
-- **采购与供应链信号**：教具批次采购；分销库存按课程/零售节奏
-- **近期动态与线索**：2026-10/11 排课（MTCNA €490、MTCSE €500，比雷埃夫斯/干尼亚）
-- **与我方契合点**：教具/实验架 PoE 交换机+分销渠道口
-- **风险与注意**：师者红线：报价真实，严禁“教具特供价”话术；出货数据 8.311+ 为官网自报口径
+- **业务定位**：波 26·A-022:希腊谱: **守档准由·原 R56 谱基增厚**:希腊首个 MikroTik 培训中心（2011 起），母公司 HellasCom（2001 起 MikroTik 分销商）+电商 LinkShop.gr；讲师 Stavros Maragkoudakis & Eleftherios Liodakis 各 10 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCTCE+MTCUME+MTCINE+MTCIPv6E+MTCSE+MTCSWE
+- **目标行业与场景**：希腊 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：希腊谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
+- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -189,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：官方培训+分销双身份中枢
-- **W**：子实体无独立大额采购权
-- **O**：MTCSWE 交换认证上量
-- **T**：MikroTik 官方价盘
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-28DGGPM $99 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -224,9 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具现用交换机型号
-  - [ ] LinkShop 接入层类目在售清单
-  - [ ] 展示机政策
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -238,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Eleftherios,
+Dear Eleftherios Liodakis Team,
 
-I came across MikroTik Training Greece - 1st official training center in Greece, 8.311+ engineers certified. Impressive.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port Gigabit managed PoE switch often used on training lab benches (802.3af/at, PoE watchdog, DIN/桌面两用). Reference: $99 USD EXW.
-
-One question: which switch models do you currently put on the bench for switching labs?
-
-If useful, I can send a lab bench unit for evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

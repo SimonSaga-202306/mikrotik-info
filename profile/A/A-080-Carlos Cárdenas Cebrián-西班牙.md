@@ -47,9 +47,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet 行所载手机，互证同一人）；认证口径不同：个人行无 MTCSE、Celenet 行含十证（名录更新时滞）
-- 【推断】编号冻结不动：A-080 记档为同人疑似重复·档案互注（一个客户记一次）。商务推进全部走 A-066 Celenet 通道（已档案齐备）；A-080 不单独排期跟进计划
-- 【假设】如后续强烈信号证明非同人，再解注单独建档
+- 【事实】波 27·A-080:西班牙谱: **守档准由·原 R56 谱基增厚**:Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet 行所载手机，互证同一人）；认证口径不同：个人行无 MTCSE、Celenet 行含十证（名录更新时滞）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 27 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,32 +135,35 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第8批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第27波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：同人互注（姓名+手机双互证）=A-066 Celenet 联络人
-- **②芯片/型号**：=A-066
-- **③KP 深挖**：并入 A-066
-- **④Saga 对标**：=A-066
-- **⑤在乎与偏好**：=A-066
+- **①背景再核**：波 27·A-080:西班牙谱: **守档准由·原 R56 谱基增厚**:Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet 行所载手机，互证同一人）；认证口径不同：个人行无 MTCSE、Celenet 行含十证（名录更新时滞）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **③KP 深挖**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **⑤在乎与偏好**：西班牙 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【同人互注】**CSV：A-066 Celenet(href=ccardenas@celenet.es, +34 622 330 440) 与 A-080 Carlos Cárdenas Cebrián（同手机，LinkedIn 截断）——姓名+手机双互证同人
-  > CSV：A-066 Celenet(href=ccardenas@celenet.es, +34 622 330 440) 与 A-080 Carlos Cárdenas Cebrián（同手机，LinkedIn 截断）——姓名+手机双互证同人
-  > 来源：客户名单_反向信号_2026-09.csv
+- **【联系方式与基础画像】**Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet
+  > Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet
+  > 来源：仓内:A类深挖_2026-09-28_R56_第8批.json
+- **【联系方式与基础画像】**CSV 入口:+34 622 330440；⚠️ 无邮箱：LinkedIn linkedin.com/in/carlosc8/
+  > CSV 入口:+34 622 330440；⚠️ 无邮箱：LinkedIn linkedin.com/in/carlosc8/
+  > 来源：仓内:A类深挖_2026-09-28_R56_第8批.json
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：同人互注档（商务通道=A-066 Celenet）
-- **产品线与在售品牌**：=A-066
-- **目标行业与场景**：=A-066
-- **团队与规模**：=A-066
-- **决策链与对接人**：Cárdenas 本人（双档同载）
-- **技术与认证**：名录两行口径不一致（时滞）
-- **采购与供应链信号**：=A-066
-- **近期动态与线索**：CSV 双行登记识别（公司行+个人行）
-- **与我方契合点**：=A-066
-- **风险与注意**：不重复触达（同一收件人双信=不专业）
+- **业务定位**：波 27·A-080:西班牙谱: **守档准由·原 R56 谱基增厚**:Carlos Cárdenas Cebrián（西班牙）：**与 A-066 Celenet 的 KP 同一人（姓名完全重合；CSV 两行登记：Celenet 公司行+个人行）**；此个人行：无邮箱，仅 LinkedIn（linkedin.com/in/c…截断）+电话 +34 622 330 440（=Celenet 行所载手机，互证同一人）；认证口径不同：个人行无 MTCSE、Celenet 行含十证（名录更新时滞）;R66 第 27 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第8批.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE
+- **目标行业与场景**：西班牙 谱;集成商/顾问（MikroTik 认证）
+- **团队与规模**：西班牙谱·守档准由
+- **决策链与对接人**：**守档准由;R66 第 27 波点名(谱面无实名)**
+- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
+- **采购与供应链信号**：B2B 批口谱
+- **近期动态与线索**：2026-10-08 R66 27 波谱名牌(A 类补全批)
+- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +178,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：=A-066
-- **W**：=A-066
-- **O**：=A-066
-- **T**：=A-066
+- **S**：R56 谱基在册
+- **W**：具名缺(守档准由)
+- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
+- **T**：谱链节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -210,7 +213,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] （并入 A-066 未知项）
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,7 +226,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-（不单独起草首触信——商务统一走 A-066 Celenet 档案信函；避免同人双信）
+Dear Carlos Cárdenas Cebrián Team,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
