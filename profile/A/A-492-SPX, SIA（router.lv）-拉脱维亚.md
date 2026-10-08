@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】router.lv (SIA Mikrotik)（拉脱维亚）：router.lv（拉 Riga):**MikroTik 自营分销店（域名即厂方分销口；CCR2216 €2203 在价；E2 stock 仓库；training 课栏）**——厂方本位（诚实注：不推竞争件）
-- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
-- 【假设】课堂/咨询旁的一行了解位
+- 【事实】波 25·492:拉脱维亚谱: CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照单元
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：顾问对照库了解单元（诚实角；非替换）
-- **要问的问题**：值得进对照库吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 课堂角
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：一页对照卡（统一口径=P1 系列，不外溢）
-- **切入点**：课堂/社区旁的了解位（学员问性价比场景）
-- **要问的问题**：课堂需要对照样本吗？
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第50批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://router.lv|router.lv team 具名
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：厂方自营店=不推竞争件（诚实低密）
-- **⑤在乎与偏好**：比照心态/拒硬销
+- **①背景再核**：CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。
+- **②芯片/型号**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：非卖品掌件对照架
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**router.lv: 'Mikrotik Distributor' 页首标+CCR2216 €2203.50 厂价在列
-  > router.lv: 'Mikrotik Distributor' 页首标+CCR2216 €2203.50 厂价在列
-  > 来源：https://router.lv
+- **【联系方式与基础画像】**CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKE
+  > CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKE
+  > 来源：https://router.lv/
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://router.lv/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：拉脱维亚 MikroTik 顾问/培训实体（官网核）
-- **产品线与在售品牌**：MikroTik 生态为主
-- **目标行业与场景**：咨询/培训现场
-- **团队与规模**：小微
-- **决策链与对接人**：sales@router.lv 口
-- **技术与认证**：MikroTik 认证体系
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：顾问对照单元
-- **风险与注意**：体量微——低期待窄针
+- **业务定位**：CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。
+- **产品线与在售品牌**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
+- **目标行业与场景**：拉脱维亚分销/批发谱;
+- **团队与规模**：拉脱维亚谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：掌件区技术参件窗(非卖品)
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对照态
-- **W**：体量微
-- **O**：课堂旁了解位
-- **T**：大牌
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：掌件区技术窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -185,8 +188,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 证书现况
-  - [ ] 复购场景
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,16 +201,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi router.lv team,
-
-Your shop is the source itself - nobody upstream of you in this market. That is exactly why this note is short and honest: we do not pitch competition to the house. But if a partner ever needs a documented value PoE row that MikroTik does not cover, one line in your notebook costs nothing. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
-
-Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
-
-One question: for your partners' budget-limited projects, would a documented value PoE switch ever be a reference row?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WifiStock (smarteye) （比利时）：Net: MT 专店（PowerBox Pro €99、CCR1016-12S-1S+ €815 在价；联系邮箱 smarteye.eu=关联注）
-- 【推断】MT 谱旁 value 档对照行顺势；smarteye 关联=店群线索
-- 【假设】MT PoE 谱旁 value 对照低密窄位
+- 【事实】波 25·501:比利时谱: SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：MT 谱旁 value 对照
-- **要问的问题**：收 value 档吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第51批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://wifistock.be|MT 谱已开
-- **②芯片/型号**：MikroTik 谱（PowerBox/CCR/RB）
-- **③KP 深挖**：店多年（smarteye 同系）
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：谱厚补漏
+- **①背景再核**：SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。
+- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**PowerBox Pro €99 + CCR1016-12S-1S+ €815 在价
-  > PowerBox Pro €99 + CCR1016-12S-1S+ €815 在价
-  > 来源：https://wifistock.be
+- **【联系方式与基础画像】**SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗
+  > SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗
+  > 来源：https://smarteye.be/
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://smarteye.be/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：比 MT 专店（smarteye 关联注）
-- **产品线与在售品牌**：MikroTik 谱（PowerBox/CCR/RB）
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：sales@smarteye.eu 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：MT PoE 谱已开（PowerBox Pro €99）旁 value 对照低密窄位
-- **风险与注意**：CCR 谱厚——需规格全
+- **业务定位**：SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。
+- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **目标行业与场景**：比利时分销/批发谱;
+- **团队与规模**：比利时谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：24 口 280W XGG 谱链窗口
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：MT 谱已开
-- **W**：CCR 厚
-- **O**：value 档
-- **T**：MT 价段
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：424 XGG 280W $165/$80 双轨价差窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] CCR/功率厚度
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi WifiStock team,
+Dear Team,
 
-PowerBox Pro at EUR99 and the full CCR line say your shelf is MikroTik-first - and the PoE corner is where RouterOS buyers still ask a second question about price
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a benchmark and catalogue-completeness line, not to displace the line you lead with.
-
-One question: your MikroTik PoE shelf stops at PowerBox-class units - would you list a documented 24-port value switch for the quotes RouterOS buyers lose on price?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PROFIcomms s.r.o.（捷克）：PROFIcomms s.r.o.（捷 Brno):**active 大分销**:DWDM/CWDM/PON(XGS/GPON OLT-ONU)/L2L3 chassis/Data Center switches/**PoE extendery/splittery/injektory 类目**+Palo Alto/SentinelOne 安全线+**BDCOM promo banner**
-- 【推断】**PoE 类目（ectenders/injectors）已开+BDCOM 促销**=交换件价值档心态存在；大型类谱
-- 【假设】PoE 类目旁 value 对照正口（BDCOM 促销口子）
+- 【事实】波 25·497:捷克谱: PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
+- 【推断】R66 第 25 波具名 KP 金谱
+- 【假设】STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@proficomms.cz（官网 kontakt）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **František Urban**(Key Principal(Dun & Bradstreet 商档))— proficomms.cz 批口+LI 司页 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.proficomms.eu〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| František Urban | Key Principal(Dun & Bradstreet 商档) | proficomms.cz 批口+LI 司页 | third-party-D&B·谱/leads-only(直发需 opt-in) | https://www.proficomms.eu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：PoE 类目对照
-- **要问的问题**：收对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第50批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.proficomms.cz|PoE injektory/extendery/splittery 类目+BDCOM promo
-- **②芯片/型号**：BDCOM 谱
-- **③KP 深挖**：分销多年
-- **④Saga 对标**：STC-424 对照正口（$180 锚点一致）
-- **⑤在乎与偏好**：BDCOM=价值谱开放
+- **①背景再核**：PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
+- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **③KP 深挖**：**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;当季窗热询
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Konvertory: PoE injektory/extendery/splittery 类目 + Banner BDCOM 2026 Slevy
-  > Konvertory: PoE injektory/extendery/splittery 类目 + Banner BDCOM 2026 Slevy
-  > 来源：https://www.proficomms.cz
+- **【联系方式与基础画像】**PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员
+  > PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员
+  > 来源：https://proficomms.cz/
+- **【近期动态与线索】**KP 具名谱:František Urban
+  > KP 具名谱:František Urban
+  > 来源：https://proficomms.cz/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：捷 Brno 大分销（PON+PoE 类目）
-- **产品线与在售品牌**：BDCOM/Palo Alto/SentinelOne/Sunell
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@proficomms.cz 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：PoE 类目旁 value 对照正口
-- **风险与注意**：安全线分散——网络件专职度
+- **业务定位**：PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
+- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **目标行业与场景**：捷克分销/批发谱;
+- **团队与规模**：捷克谱·具名决策档
+- **决策链与对接人**：**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **采购与供应链信号**：具名谱位引路
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：24 口 280W XGG 谱链窗口
+- **风险与注意**：leads-only;直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：线杂
-- **O**：对照
-- **T**：BDCOM
+- **S**：具名决策档+roster/官网金谱在册
+- **W**：直发需 opt-in;leads-only
+- **O**：424 XGG 280W $165/$80 双轨价差窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -171,7 +178,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -180,7 +187,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] KP 在职时效
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +200,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi PROFIcomms team,
+Dear František Urban Team,
 
-From XGS-PON OLTs to Data Center chassis, plus PoE injectors, extenders and splitters in your catalogue - and a BDCOM promo banner on top. Access PoE switching is the product family your resellers reorder the most
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: in your converters and PoE categories, would you carry a documented value access PoE switch?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

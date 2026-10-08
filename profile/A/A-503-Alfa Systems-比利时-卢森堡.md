@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）
-- 【推断】工业谱已开-Antaira 旁 value DIN 档=谱补逻辑
-- 【假设】工业 PoE 谱旁 value 工业档窄位
+- 【事实】波 25·503:卢森堡谱: **守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：Antaira 旁 value DIN 档
-- **要问的问题**：评 value DIN 档吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第51批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.alfasystems.be|布线深
-- **②芯片/型号**：Antaira/Digi/Silex/LevelOne/Peplink/Telt
-- **③KP 深挖**：布线全网
-- **④Saga 对标**：STI-288GP 对照行（EXW on request）
-- **⑤在乎与偏好**：谱补逻辑
+- **①背景再核**：**守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：268GP IP6 vs PLANET IGS 对照
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Antaira Industrial Networking + POE+ unmanaged gigabit switch 类目
-  > Antaira Industrial Networking + POE+ unmanaged gigabit switch 类目
-  > 来源：https://www.alfasystems.be
+- **【联系方式与基础画像】****守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 
+  > **守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 
+  > 来源：https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：比/卢布线全网分销（工业谱尖）
-- **产品线与在售品牌**：Antaira/Digi/Silex/LevelOne/Peplink/Teltonika+布线全谱
-- **目标行业与场景**：制造/过程工业
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@alfasys.be 口
-- **技术与认证**：工业谱（官网类目）
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：Antaira 工业 PoE 谱旁 value 工业档窄位
-- **风险与注意**：Antaira/Digi 谱厚——谱忠诚高
+- **业务定位**：**守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **目标行业与场景**：卢森堡分销/批发谱;
+- **团队与规模**：卢森堡谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：工业轨槽 IP6 对照口
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：布线深
-- **W**：工业谱厚
-- **O**：DIN 档
-- **T**：一站式
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：288GP IP6 工业对照窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -179,8 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Antaira 替补
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Alfa Systems team,
+Dear Team,
 
-Antaira industrial networking already sits in your catalogue between the patch panels and the fiber - the DIN-rail PoE tier is where Belgian installers meet the spec
+We build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
-
-One question: beside Antaira and Digi, would you evaluate a documented DIN-rail industrial PoE unit for your cabling-house customer base?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

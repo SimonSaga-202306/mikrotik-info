@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）
-- 【推断】单牌纪律+ÅF 口子=批发谱忠实；诚实角先问
-- 【假设】诚实角低密窄针
+- 【事实】波 25·521:瑞典谱: **守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -83,56 +83,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：单牌旁benchmark
-- **要问的问题**：留档吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第53批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.routerboard.se|单牌纪律
-- **②芯片/型号**：MikroTik 全谱+HS-xx SFP 谱+GPOE 件
-- **③KP 深挖**：ÅF 批发口
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：窄针诚实
+- **①背景再核**：**守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**AF ansokan reseller 申请+全 MT 谱+mikrotik.se 域名
-  > AF ansokan reseller 申请+全 MT 谱+mikrotik.se 域名
-  > 来源：https://www.routerboard.se
+- **【联系方式与基础画像】****守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-
+  > **守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-
+  > 来源：https://routerboard.se/
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://routerboard.se/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞典 MT 专店（ÅF B2B 口）
-- **产品线与在售品牌**：MikroTik 全谱+HS-xx SFP 谱+GPOE 件
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@mikrotik.se 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：独家 MT 谱旁诚实角低密窄位
-- **风险与注意**：ÅF=återförsäljare 对口 MT 谱
+- **业务定位**：**守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **目标行业与场景**：瑞典分销/批发谱;
+- **团队与规模**：瑞典谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：24 口 280W XGG 谱链窗口
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,10 +150,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：单牌纪律
-- **W**：排他
-- **O**：value 档
-- **T**：口齿清
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：424 XGG 280W $165/$80 双轨价差窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -178,8 +181,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 单牌政策
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +194,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Routerboard.se team,
+Dear Team,
 
-A MikroTik-only shop with an aterforsaljare (reseller) account door and the HS-coded SFP rows beside the radios - the single-brand discipline is the brand
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - as a benchmark and catalogue-completeness line, not to displace the line you lead with.
-
-One question: your ÅF accounts buy MikroTik by line card - would any of them ask you for a documented third-party 24-port PoE benchmark, or is single-brand the rule?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

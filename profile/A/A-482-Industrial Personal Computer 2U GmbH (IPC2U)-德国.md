@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**
-- 【推断】工业网络类目存在但谱集中于 PC/Edge=交换件窄位；工程分销文化=文档正中
-- 【假设】工业网络类目 DIN 轨 value PoE 档正口
+- 【事实】波 25·482:德国谱: **守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 工业件
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：工业类目 value PoE 档
-- **要问的问题**：评估 DIN 轨件吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 样机
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：样机条款（统一口径=P1 系列，不外溢）
-- **切入点**：工程验证路径
-- **要问的问题**：要样测吗？
-- **随附/动作**：条款页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第49批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://ipc2u.com|'Smart Network Solutions for Industrial Applications' 类目+DIN-rail 件
-- **②芯片/型号**：——
-- **③KP 深挖**：工业分销多年
-- **④Saga 对标**：**STI-288GP 工业件主腿**
-- **⑤在乎与偏好**：工程/文档文化
+- **①背景再核**：**守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **②芯片/型号**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：268GP IP6 vs PLANET IGS 对照
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Smart Network Solutions for Industrial Applications! Robust in Harsh Environments' + DIN-rail 工业计算谱
-  > 'Smart Network Solutions for Industrial Applications! Robust in Harsh Environments' + DIN-rail 工业计算谱
-  > 来源：https://ipc2u.com
+- **【联系方式与基础画像】****守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial
+  > **守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial
+  > 来源：https://ipc2u.de/
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://ipc2u.de/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德工业分销（全球；Edge AI 大国）
-- **产品线与在售品牌**：NEXCOM/ICP DAS/SolidRun/Compulab
-- **目标行业与场景**：制造/过程工业
-- **团队与规模**：（官网推）
-- **决策链与对接人**：sales@ipc2u.de 口
-- **技术与认证**：
-- **采购与供应链信号**：
-- **近期动态与线索**：
-- **与我方契合点**：工业类目 DIN 轨 value PoE 正口
-- **风险与注意**：谱以 PC 为主——交换档需后台论证
+- **业务定位**：**守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。
+- **产品线与在售品牌**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **目标行业与场景**：德国分销/批发谱;
+- **团队与规模**：德国谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：工业轨槽 IP6 对照口
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目对口
-- **W**：谱以 PC 主
-- **O**：交换档
-- **T**：大牌工业件
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：288GP IP6 工业对照窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -179,8 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 认证路径
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi IPC2U team,
+Dear Team,
 
-Industrial computers, edge AI, smart network solutions for harsh environments - your Smart Network section already teaches that DIN-rail connectivity is the backbone. A documented value industrial PoE switch fits exactly that teaching
+We build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, wide-temperature -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
-
-One question: in your industrial network portfolio, is there room for a documented value DIN-rail PoE unit?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

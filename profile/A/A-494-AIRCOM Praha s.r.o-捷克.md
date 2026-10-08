@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AIRCOM Praha (wifihw.cz)（捷克）：AIRCOM Praha s.r.o. / wifihw.cz（捷布拉格）:**网络分销店**：新闻 2026-09 实时（RouterOS 安全更新）;V-SOL GPON OLT/Komshine 光纤/MeanWell 工业电源谱/Dataway 机柜/MikroTik 谱
-- 【推断】大类目分销=谱中电源/机柜等配套件全——接入 PoE 是天然补类
-- 【假设】安装件类目 value 对照收录正口
+- 【事实】波 25·494:捷克谱: AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。
+- 【推断】R66 第 25 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：类目对照收录
-- **要问的问题**：收对照行吗？
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
 ### 第 3 次跟进 · 留档
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：簿联路径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第50批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://wifihw.cz|新闻 2026-09 实时+V-SOL/MeanWell 谱
-- **②芯片/型号**：MikroTik 谱
-- **③KP 深挖**：分店多年
-- **④Saga 对标**：STC-424 收录正口（$180 锚点一致）
-- **⑤在乎与偏好**：配套堆货心态
+- **①背景再核**：AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。
+- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
+- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**AIRCOM Praha: 类目 Dataway/MeanWell/V-SOL/Komshine + 新闻 08.09.2026 RouterOS 安全更新
-  > AIRCOM Praha: 类目 Dataway/MeanWell/V-SOL/Komshine + 新闻 08.09.2026 RouterOS 安全更新
-  > 来源：https://wifihw.cz
+- **【联系方式与基础画像】**AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 42
+  > AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 42
+  > 来源：https://wifihw.cz/
+- **【近期动态与线索】**守档准由+roster 市场档谱
+  > 守档准由+roster 市场档谱
+  > 来源：https://wifihw.cz/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：捷布拉格网络分销店（新闻实时）
-- **产品线与在售品牌**：MikroTik/V-SOL/Komshine/MeanWell
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@wifihw.cz 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：安装件类目对照收录正口
-- **风险与注意**：—
+- **业务定位**：AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。
+- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **目标行业与场景**：捷克分销/批发谱;
+- **团队与规模**：捷克谱·具名缺(守档准由)
+- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
+- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
+- **采购与供应链信号**：B2B 大件批口谱
+- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
+- **与我方契合点**：24 口 280W XGG 谱链窗口
+- **风险与注意**：具名缺(守档准由);先报价不回
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目口
-- **W**：—
-- **O**：收录
-- **T**：两大牌
+- **S**：roster/官网金谱在册
+- **W**：具名缺(守档准由)
+- **O**：424 XGG 280W $165/$80 双轨价差窗
+- **T**：欧洲分销带节奏;先报价不回则档案铺位
 
 ## 触达与风险红线
 
@@ -179,7 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi AIRCOM team,
+Dear Team,
 
-Your September news post on the RouterOS security update tells installers you run a serious shop - plus V-SOL GPON, Komshine fibre, MeanWell PSUs and Dataway cabinets. The access PoE row belongs exactly in that installer basket
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your catalogue carry a documented value access PoE switch?
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

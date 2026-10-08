@@ -260,6 +260,7 @@ ENRICH55_FILES = [
     "batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json",
     "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
     "batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json",
+    "batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json",
 ]
 
 

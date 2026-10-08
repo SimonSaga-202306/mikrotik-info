@@ -1,0 +1,4261 @@
+{
+ "date": "2026-10-08",
+ "wave": "R66 第 25 波 50 户扩招批:A-479~A-528 顺延 50 户(MikroTik 欧陆分销第二带:德 6/意 6/捷 6/波 9/挪 1/爱 1/瑞典 2/瑞士 2(谱内注)/爱沙 1/比 2/法 3/拉 2/立 3/斯洛文 1/斯洛伐 1/丹麦 1/英 1 全域面拓;R63 永久退信 3 户在列 A-496/499/500 必压「发不过去」+替代口)",
+ "scope": "p1=424×40+STI-288GP-IP6×6(482/487/509/513/523/524)+CONSULT-OEM×2(486/492)+CONSULT-SONEL×2(526/527);KP 金谱 7:FMS Decker/CorsiMikrotik Boschini(官方 Trainer)/WISP Store Tozzi/SATEL Dahlby(双源)/Discomp Kotal(LI)/Proficomms Urban(D&B)/SMART IT Vorobej(登记件);守档 43;守界注(A-493 军邻谱);镜像错峰注 A-514↔A-476 wirelesslan 同牌跨域(.pl↔.gr);关联注≥10(双域/差旗/同城/合并/同牌);R63 三户替代口在册编排硬约束 21 内完成(检 11+读写 10)",
+ "records": [
+  {
+   "customer": "A-479",
+   "fact": "波 25·479:德国谱: 首推 424 XGG:FMS 官方领导页自署 Vinzenz Decker CFO/CEO;2001 创「德国首批/领先 MikroTik 在线铺」25 年谱,德电大件 B2B 谱;我司 STC-424XGGPM-280W 四电三关:轨道 DIN 锁 24~57V 铜回对口 MT CRS318 机房谱,改 XGG 微波 288/280W 280 固定锚(≤$80 单价点),拉开 PLANET GS-4210 当批价差,我司持续 20 年 ODM 信天翁谱+齐套 CE/UKCA,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://mikrotik-shop.de/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "德国谱·具名决策档",
+   "contact_found": "**Vinzenz Decker(CEO/CFO(官网领导页自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "首推 424 XGG:FMS 官方领导页自署 Vinzenz Decker CFO/CEO;2001 创「德国首批/领先 MikroTik 在线铺」25 年谱,德电大件 B2B 谱;我司 STC-424XGGPM-280W 四电三关:轨道 DIN 锁 24~57V 铜回对口 MT CRS318 机房谱,改 XGG 微波 288/280W 280 固定锚(≤$80 单价点),拉开 PLANET GS-4210 当批价差,我司持续 20 年 ODM 信天翁谱+齐套 CE/UKCA,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名决策档",
+    "决策链与对接人": "**Vinzenz Decker(CEO/CFO(官网领导页自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "首推 424 XGG:FMS 官方领导页自署 Vinzenz Decker CFO/CEO;2001 创「德国首批/领先 MikroTik 在线铺」25 年谱,德电大件 B2B 谱;我司 STC-424XGGPM-280W 四电三关:轨道 DIN 锁 24~57V 铜回对口 MT CRS318 机房谱,改 XGG 微波",
+     "source": "https://mikrotik-shop.de/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:Vinzenz Decker",
+     "source": "https://mikrotik-shop.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "首推 424 XGG:FMS 官方领导页自署 Vinzenz Decker CFO/CEO;2001 创「德国首批/领先 MikroTik 在线铺」25 年谱,德电大件 B2B 谱;我司 STC-424XGGPM-280W 四电三关:轨道 DIN 锁 24~57V 铜回对口 MT CRS318 机房谱,改 XGG 微波 288/280W 280 固定锚(≤$80 单价点),拉开 PLANET GS-4210 当批价差,我司持续 20 年 ODM 信天翁谱+齐套 CE/UKCA,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**Vinzenz Decker(CEO/CFO(官网领导页自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "Vinzenz Decker",
+     "role": "CEO/CFO(官网领导页自署)",
+     "contact": "fms24.de 领导页+info 口",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.fms24.de"
+    }
+   ],
+   "email": "Dear Vinzenz Decker Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@mikrotik-shop.de / vinzenz.decker@mikrotik-shop.de"
+  },
+  {
+   "customer": "A-480",
+   "fact": "波 25·480:德国谱: Fiber24 PLANET 工业谱+自有光模块 OEM:官网 PLANET 德国分销(IGS-6325 PoE MANAGED/WGS DIN rail PoE)即我司 424 备对照口;自有 transceivers MikroTik-compatible 列架=OEM 侧翼谱;我司 424 XGG 280W 先价锚,XGG 轨锁定 24~57V 铜回,齐套 CE/UKCA,先报价不回,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://fiber24.net/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "德国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "Fiber24 PLANET 工业谱+自有光模块 OEM:官网 PLANET 德国分销(IGS-6325 PoE MANAGED/WGS DIN rail PoE)即我司 424 备对照口;自有 transceivers MikroTik-compatible 列架=OEM 侧翼谱;我司 424 XGG 280W 先价锚,XGG 轨锁定 24~57V 铜回,齐套 CE/UKCA,先报价不回,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "Fiber24 PLANET 工业谱+自有光模块 OEM:官网 PLANET 德国分销(IGS-6325 PoE MANAGED/WGS DIN rail PoE)即我司 424 备对照口;自有 transceivers MikroTik-compatible 列架=OEM 侧翼谱;我司 424 XGG 280W 先价",
+     "source": "https://fiber24.net/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://fiber24.net/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Fiber24 PLANET 工业谱+自有光模块 OEM:官网 PLANET 德国分销(IGS-6325 PoE MANAGED/WGS DIN rail PoE)即我司 424 备对照口;自有 transceivers MikroTik-compatible 列架=OEM 侧翼谱;我司 424 XGG 280W 先价锚,XGG 轨锁定 24~57V 铜回,齐套 CE/UKCA,先报价不回,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "shop@fiber24.net / info@fiber24.net"
+  },
+  {
+   "customer": "A-481",
+   "fact": "波 25·481:德国谱: I-NetPartner mikrotik-store.eu:官网自宣「MikroTik Master Distributor Onlineshop die Nr.1 in Deutschland」;Oberkrämer OT Schwante Burgallee 2;CCC/DE-CIX 2019 展谱;我司 424 XGG 价差锚 $165 收,B2B 大件谱,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://mikrotik-store.eu/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "德国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "I-NetPartner mikrotik-store.eu:官网自宣「MikroTik Master Distributor Onlineshop die Nr.1 in Deutschland」;Oberkrämer OT Schwante Burgallee 2;CCC/DE-CIX 2019 展谱;我司 424 XGG 价差锚 $165 收,B2B 大件谱,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "I-NetPartner mikrotik-store.eu:官网自宣「MikroTik Master Distributor Onlineshop die Nr.1 in Deutschland」;Oberkrämer OT Schwante Burgallee 2;CCC/DE-CIX 2019 展谱;我司 424",
+     "source": "https://mikrotik-store.eu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://mikrotik-store.eu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "I-NetPartner mikrotik-store.eu:官网自宣「MikroTik Master Distributor Onlineshop die Nr.1 in Deutschland」;Oberkrämer OT Schwante Burgallee 2;CCC/DE-CIX 2019 展谱;我司 424 XGG 价差锚 $165 收,B2B 大件谱,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@mikrotik-store.eu / vertrieb@mikrotik-store.eu"
+  },
+  {
+   "customer": "A-482",
+   "fact": "波 25·482:德国谱: **守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://ipc2u.de/",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "德国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial",
+     "source": "https://ipc2u.de/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://ipc2u.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:IPC2U GmbH（德国）：IPC2U GmbH（德+美+台全球工业分销）:**工业自动化**：机器人/Edge AI/NEXCOM 无扇 PC/ICP DAS/SolidRun/Compulab;**Smart Network Solutions for Industrial 类目（DIN-rail 谱在）**;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@ipc2u.de / sales@ipc2u.de"
+  },
+  {
+   "customer": "A-483",
+   "fact": "波 25·483:德国谱: NSR One GmbH:MikroTik 官方 Master Distributor 名录在册(nsr-tik 域);UI/MT/PLANET 三牌谱;我司 424 XGG 价锚:BHV 递件 $80 区间铺售,CE/UKCA,齐道 24~57V 轨锁,先报价不回,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://nsr-tik.com/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "德国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "NSR One GmbH:MikroTik 官方 Master Distributor 名录在册(nsr-tik 域);UI/MT/PLANET 三牌谱;我司 424 XGG 价锚:BHV 递件 $80 区间铺售,CE/UKCA,齐道 24~57V 轨锁,先报价不回,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "NSR One GmbH:MikroTik 官方 Master Distributor 名录在册(nsr-tik 域);UI/MT/PLANET 三牌谱;我司 424 XGG 价锚:BHV 递件 $80 区间铺售,CE/UKCA,齐道 24~57V 轨锁,先报价不回,OK。",
+     "source": "https://nsr-tik.com/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://nsr-tik.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NSR One GmbH:MikroTik 官方 Master Distributor 名录在册(nsr-tik 域);UI/MT/PLANET 三牌谱;我司 424 XGG 价锚:BHV 递件 $80 区间铺售,CE/UKCA,齐道 24~57V 轨锁,先报价不回,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@nsr-tik.com / sales@nsr-tik.com"
+  },
+  {
+   "customer": "A-484",
+   "fact": "波 25·484:德国谱: Neunetia UG:2012-05-02 注册 Wendelstein Zollnerstraße 4(商务库档);Aruba/HPE/Ruckus/Mimosa 邻牌谱+MT 本谱;11 年谱;我司 424 XGG 280W 价锚 $165,CE/UKCA 全套,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://neunetia.de/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "德国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "Neunetia UG:2012-05-02 注册 Wendelstein Zollnerstraße 4(商务库档);Aruba/HPE/Ruckus/Mimosa 邻牌谱+MT 本谱;11 年谱;我司 424 XGG 280W 价锚 $165,CE/UKCA 全套,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "德国分销/批发谱;",
+    "团队与规模": "德国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "Neunetia UG:2012-05-02 注册 Wendelstein Zollnerstraße 4(商务库档);Aruba/HPE/Ruckus/Mimosa 邻牌谱+MT 本谱;11 年谱;我司 424 XGG 280W 价锚 $165,CE/UKCA 全套,OK。",
+     "source": "https://neunetia.de/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://neunetia.de/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Neunetia UG:2012-05-02 注册 Wendelstein Zollnerstraße 4(商务库档);Aruba/HPE/Ruckus/Mimosa 邻牌谱+MT 本谱;11 年谱;我司 424 XGG 280W 价锚 $165,CE/UKCA 全套,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "德国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@neunetia.de / vertrieb@neunetia.de"
+  },
+  {
+   "customer": "A-485",
+   "fact": "波 25·485:意大利谱: C1V Hosting:**官网自宣「Distributore ufficiale MikroTik in Italia」**;法体实为 Lumanex S.r.l.(罗马 Via Ardeatina 600,P.IVA IT17705111007)=品牌↔法体差旗注;RouterOS CHR VPS 专谱+LIR RIPE 谱;我司 424 XGG 移动源谱,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://c1vhosting.it/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "意大利谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "C1V Hosting:**官网自宣「Distributore ufficiale MikroTik in Italia」**;法体实为 Lumanex S.r.l.(罗马 Via Ardeatina 600,P.IVA IT17705111007)=品牌↔法体差旗注;RouterOS CHR VPS 专谱+LIR RIPE 谱;我司 424 XGG 移动源谱,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "C1V Hosting:**官网自宣「Distributore ufficiale MikroTik in Italia」**;法体实为 Lumanex S.r.l.(罗马 Via Ardeatina 600,P.IVA IT17705111007)=品牌↔法体差旗注;RouterOS CHR VPS 专谱+LIR R",
+     "source": "https://c1vhosting.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://c1vhosting.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "C1V Hosting:**官网自宣「Distributore ufficiale MikroTik in Italia」**;法体实为 Lumanex S.r.l.(罗马 Via Ardeatina 600,P.IVA IT17705111007)=品牌↔法体差旗注;RouterOS CHR VPS 专谱+LIR RIPE 谱;我司 424 XGG 移动源谱,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "mikrotik@c1vhosting.it / info@c1vhosting.it"
+  },
+  {
+   "customer": "A-486",
+   "fact": "波 25·486:意大利谱: CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "CONSULT-OEM($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://corsimikrotik.it/",
+   "tech": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+   "hr": "意大利谱·具名决策档",
+   "contact_found": "**Marco Boschini(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。",
+    "产品线与在售品牌": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名决策档",
+    "决策链与对接人": "**Marco Boschini(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "掌件区技术参件窗(非卖品)",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda ",
+     "source": "https://corsimikrotik.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:Marco Boschini",
+     "source": "https://corsimikrotik.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "CONSULT-OEM",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。",
+     "②芯片/型号": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+     "③KP 深挖": "**Marco Boschini(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "非卖品掌件对照架",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "掌件区技术窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "Marco Boschini",
+     "role": "MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署)",
+     "contact": "corsimikrotik.it+Telegram @marcoboschini",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://corsimikrotik.it"
+    }
+   ],
+   "email": "（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信)",
+   "email_addr": "info@corsimikrotik.it / marco@corsimikrotik.it"
+  },
+  {
+   "customer": "A-487",
+   "fact": "波 25·487:意大利谱: STI-288GP-IP6 供位块:MARCOM S.r.l.(REA VR-359779,VAT IT03718740230,资 €20.000 i.v.);**Moxa/MikroTik/Teltonika/InHand/RAKwireless/Milesight/Decentlab 工业自动化全谱铺(数字工厂/Fieldbus/工业 IoT)**,自家 MTCNA 培明铺;+39 0458204747;IP6 轨槽外六保 IP67,POE款 802.3af/at,£25,999 轨载,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://marcomweb.it/",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "意大利谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "STI-288GP-IP6 供位块:MARCOM S.r.l.(REA VR-359779,VAT IT03718740230,资 €20.000 i.v.);**Moxa/MikroTik/Teltonika/InHand/RAKwireless/Milesight/Decentlab 工业自动化全谱铺(数字工厂/Fieldbus/工业 IoT)**,自家 MTCNA 培明铺;+39 0458204747;IP6 轨槽外六保 IP67,POE款 802.3af/at,£25,999 轨载,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "STI-288GP-IP6 供位块:MARCOM S.r.l.(REA VR-359779,VAT IT03718740230,资 €20.000 i.v.);**Moxa/MikroTik/Teltonika/InHand/RAKwireless/Milesight/Decentlab 工业自动化全谱铺(数字工厂/F",
+     "source": "https://marcomweb.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://marcomweb.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "STI-288GP-IP6 供位块:MARCOM S.r.l.(REA VR-359779,VAT IT03718740230,资 €20.000 i.v.);**Moxa/MikroTik/Teltonika/InHand/RAKwireless/Milesight/Decentlab 工业自动化全谱铺(数字工厂/Fieldbus/工业 IoT)**,自家 MTCNA 培明铺;+39 0458204747;IP6 轨槽外六保 IP67,POE款 802.3af/at,£25,999 轨载,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@marcomweb.it / sales@marcomweb.it"
+  },
+  {
+   "customer": "A-488",
+   "fact": "波 25·488:意大利谱: Selit Srl:2008 起 18 年分销谱(wirmax.net 电商双牌注);MikroTik 主牌+broadband 谱;Lanciano CH 家电谱;我司 424 XGG 价格锚 $165 收,24~57V 黑窄噪轨锁,齐套 CE,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://selit.it/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "意大利谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "Selit Srl:2008 起 18 年分销谱(wirmax.net 电商双牌注);MikroTik 主牌+broadband 谱;Lanciano CH 家电谱;我司 424 XGG 价格锚 $165 收,24~57V 黑窄噪轨锁,齐套 CE,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "Selit Srl:2008 起 18 年分销谱(wirmax.net 电商双牌注);MikroTik 主牌+broadband 谱;Lanciano CH 家电谱;我司 424 XGG 价格锚 $165 收,24~57V 黑窄噪轨锁,齐套 CE,OK。",
+     "source": "https://selit.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://selit.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Selit Srl:2008 起 18 年分销谱(wirmax.net 电商双牌注);MikroTik 主牌+broadband 谱;Lanciano CH 家电谱;我司 424 XGG 价格锚 $165 收,24~57V 黑窄噪轨锁,齐套 CE,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@selit.it / vendite@selit.it"
+  },
+  {
+   "customer": "A-489",
+   "fact": "波 25·489:意大利谱: SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://sicetelecom.it/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "意大利谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/",
+     "source": "https://sicetelecom.it/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://sicetelecom.it/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@sicetelecom.it / sales@sicetelecom.it"
+  },
+  {
+   "customer": "A-490",
+   "fact": "波 25·490:意大利谱: WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://wisp.store/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "意大利谱·具名决策档",
+   "contact_found": "**Valerio Tozzi(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP),official-self-published·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "意大利分销/批发谱;",
+    "团队与规模": "意大利谱·具名决策档",
+    "决策链与对接人": "**Valerio Tozzi(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP),official-self-published·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino",
+     "source": "https://wisp.store/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:Valerio Tozzi",
+     "source": "https://wisp.store/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**Valerio Tozzi(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP),official-self-published·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "意大利分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "Valerio Tozzi",
+     "role": "CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP)",
+     "contact": "wisp.store 批口+LI 直触窗",
+     "status": "official-self-published·谱/leads-only(直发需 opt-in)",
+     "source": "https://wisp.store"
+    }
+   ],
+   "email": "Dear Valerio Tozzi Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@wisp.store / valerio.tozzi@wisp.store"
+  },
+  {
+   "customer": "A-491",
+   "fact": "波 25·491:拉脱维亚谱: NetPro SIA:注册 40103354606;nasstore.eu 电商;**MikroTik 认证顾问「20+ 年经验」+母国拉脱维亚本土铺谱**;Riga(Diķa 44)+Ventspils 双仓;Synology/QNAP/Ajax/Hikvision Silver/Teltonika/Seagate 牌谱;我司 424 XGG 供位块,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://nasstore.eu/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "拉脱维亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "NetPro SIA:注册 40103354606;nasstore.eu 电商;**MikroTik 认证顾问「20+ 年经验」+母国拉脱维亚本土铺谱**;Riga(Diķa 44)+Ventspils 双仓;Synology/QNAP/Ajax/Hikvision Silver/Teltonika/Seagate 牌谱;我司 424 XGG 供位块,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "拉脱维亚分销/批发谱;",
+    "团队与规模": "拉脱维亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "NetPro SIA:注册 40103354606;nasstore.eu 电商;**MikroTik 认证顾问「20+ 年经验」+母国拉脱维亚本土铺谱**;Riga(Diķa 44)+Ventspils 双仓;Synology/QNAP/Ajax/Hikvision Silver/Teltonika/Seagate ",
+     "source": "https://nasstore.eu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://nasstore.eu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "NetPro SIA:注册 40103354606;nasstore.eu 电商;**MikroTik 认证顾问「20+ 年经验」+母国拉脱维亚本土铺谱**;Riga(Diķa 44)+Ventspils 双仓;Synology/QNAP/Ajax/Hikvision Silver/Teltonika/Seagate 牌谱;我司 424 XGG 供位块,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "拉脱维亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@nasstore.eu / info@netpro.lv"
+  },
+  {
+   "customer": "A-492",
+   "fact": "波 25·492:拉脱维亚谱: CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://router.lv/",
+   "tech": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+   "hr": "拉脱维亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。",
+    "产品线与在售品牌": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+    "目标行业与场景": "拉脱维亚分销/批发谱;",
+    "团队与规模": "拉脱维亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "掌件区技术参件窗(非卖品)",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKE",
+     "source": "https://router.lv/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://router.lv/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "CONSULT-OEM",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "CONSULT-OEM 掌件区(**非卖品**):SPX SIA(router.lv)注册 40003637852;**「distribution facilities in Riga where Mikrotik products are manufactured」=MT 母厂同城谱**+Vilnius 点;TAKEX 安防牌;我司 OEM 对照架,只做技术参件,OK。",
+     "②芯片/型号": "p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "非卖品掌件对照架",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "拉脱维亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "掌件区技术窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信)",
+   "email_addr": "sales@router.lv / router@router.lv"
+  },
+  {
+   "customer": "A-493",
+   "fact": "波 25·493:挪威谱: SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://satel.no/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "挪威谱·具名决策档",
+   "contact_found": "**Dag Henning Dahlby(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源),official-self-published+registry·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "挪威分销/批发谱;**军用邻谱守界注(我司民用商用限定,军事用途推辞)**",
+    "团队与规模": "挪威谱·具名决策档",
+    "决策链与对接人": "**Dag Henning Dahlby(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源),official-self-published+registry·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/F",
+     "source": "https://satel.no/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:Dag Henning Dahlby",
+     "source": "https://satel.no/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**Dag Henning Dahlby(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源),official-self-published+registry·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "挪威分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "Dag Henning Dahlby",
+     "role": "日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源)",
+     "contact": "satel.no+produktinfo 批口",
+     "status": "official-self-published+registry·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.satel.com/where-to-buy/"
+    }
+   ],
+   "email": "Dear Dag Henning Dahlby Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "produktinfo@satel.no / dhh@satel.no"
+  },
+  {
+   "customer": "A-494",
+   "fact": "波 25·494:捷克谱: AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://wifihw.cz/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 42",
+     "source": "https://wifihw.cz/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://wifihw.cz/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "AIRCOM Praha s.r.o.(IČO 27621049):**官方分销 MikroTik/Ubiquiti/Jirous/TP-Link/Huawei/MeanWell 六牌**+自有 PremiumCord 牌;Chlumecká 3203 Praha;FB 活跃谱(LHG 5 ax 首包入仓);我司 424 XGG 捷口大件锚,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@wifihw.cz / obchod@wifihw.cz"
+  },
+  {
+   "customer": "A-495",
+   "fact": "波 25·495:捷克谱: Discomp s.r.o.(IČO 25236792):1999 创 27 年,**MUM 2020 欧展商名录载(MikroTik 官方)**;11-50 人;Plzeň Dopravní 1218/2a+Ostrava 分点;LI 具名 **Ladislav Kotal(IT specialista,G 级)**;Ubiquiti/TP-Link/RF Elements/Mimosa/Tachyon 牌谱;我司 424 XGG 捷口双城锚,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://discomp.cz/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名决策档",
+   "contact_found": "**Ladislav Kotal(IT specialista(LinkedIn 员工页谱),third-party-LinkedIn·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "Discomp s.r.o.(IČO 25236792):1999 创 27 年,**MUM 2020 欧展商名录载(MikroTik 官方)**;11-50 人;Plzeň Dopravní 1218/2a+Ostrava 分点;LI 具名 **Ladislav Kotal(IT specialista,G 级)**;Ubiquiti/TP-Link/RF Elements/Mimosa/Tachyon 牌谱;我司 424 XGG 捷口双城锚,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名决策档",
+    "决策链与对接人": "**Ladislav Kotal(IT specialista(LinkedIn 员工页谱),third-party-LinkedIn·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "Discomp s.r.o.(IČO 25236792):1999 创 27 年,**MUM 2020 欧展商名录载(MikroTik 官方)**;11-50 人;Plzeň Dopravní 1218/2a+Ostrava 分点;LI 具名 **Ladislav Kotal(IT specialista,G 级)**",
+     "source": "https://discomp.cz/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:Ladislav Kotal",
+     "source": "https://discomp.cz/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Discomp s.r.o.(IČO 25236792):1999 创 27 年,**MUM 2020 欧展商名录载(MikroTik 官方)**;11-50 人;Plzeň Dopravní 1218/2a+Ostrava 分点;LI 具名 **Ladislav Kotal(IT specialista,G 级)**;Ubiquiti/TP-Link/RF Elements/Mimosa/Tachyon 牌谱;我司 424 XGG 捷口双城锚,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**Ladislav Kotal(IT specialista(LinkedIn 员工页谱),third-party-LinkedIn·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "Ladislav Kotal",
+     "role": "IT specialista(LinkedIn 员工页谱)",
+     "contact": "discomp.cz 批口+LI",
+     "status": "third-party-LinkedIn·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.discomp.cz"
+    }
+   ],
+   "email": "Dear Ladislav Kotal Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@discomp.cz / kotal@discomp.cz"
+  },
+  {
+   "customer": "A-496",
+   "fact": "波 25·496:捷克谱: **R63 永久退信注:prodej@ipmedia.cz 发不过去,紧扣替代口(+420 246 030 710 电话/X @IpmediaNetwork 私窗/官网现货表单),不删原邮**;IPMEDIA s.r.o.(Chomutov Březenecká 4809):**altostrat 档 Master Distributor+VAD**;自有 IPMEDIA 牌 CNC 制 Odrušovač 防干扰罩=自有加工谱;Fujikura/Furukawa 光纤熔接机捷域少见谱;我司 424 XGG 捷口 Master 谱,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://ipmedia.cz/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**R63 永久退信注:prodej@ipmedia.cz 发不过去,紧扣替代口(+420 246 030 710 电话/X @IpmediaNetwork 私窗/官网现货表单),不删原邮**;IPMEDIA s.r.o.(Chomutov Březenecká 4809):**altostrat 档 Master Distributor+VAD**;自有 IPMEDIA 牌 CNC 制 Odrušovač 防干扰罩=自有加工谱;Fujikura/Furukawa 光纤熔接机捷域少见谱;我司 424 XGG 捷口 Master 谱,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "**R63 永久退信(发不过去),替代口在册;具名缺(守档准由);先报价不回**"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**R63 永久退信注:prodej@ipmedia.cz 发不过去,紧扣替代口(+420 246 030 710 电话/X @IpmediaNetwork 私窗/官网现货表单),不删原邮**;IPMEDIA s.r.o.(Chomutov Březenecká 4809):**altostrat 档 Master D",
+     "source": "https://ipmedia.cz/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://ipmedia.cz/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**R63 永久退信注:prodej@ipmedia.cz 发不过去,紧扣替代口(+420 246 030 710 电话/X @IpmediaNetwork 私窗/官网现货表单),不删原邮**;IPMEDIA s.r.o.(Chomutov Březenecká 4809):**altostrat 档 Master Distributor+VAD**;自有 IPMEDIA 牌 CNC 制 Odrušovač 防干扰罩=自有加工谱;Fujikura/Furukawa 光纤熔接机捷域少见谱;我司 424 XGG 捷口 Master 谱,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "替代口证实+规格页"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "prodej@ipmedia.cz / info@ipmedia.cz"
+  },
+  {
+   "customer": "A-497",
+   "fact": "波 25·497:捷克谱: PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。",
+   "inference": "R66 第 25 波具名 KP 金谱",
+   "hypothesis": "STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路",
+   "evidence_main": "https://proficomms.cz/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名决策档",
+   "contact_found": "**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**",
+   "contact_pending": "直发具名需 opt-in",
+   "dims": {
+    "业务定位": "PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名决策档",
+    "决策链与对接人": "**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "具名谱位引路",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "leads-only;直发需 opt-in"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员",
+     "source": "https://proficomms.cz/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "KP 具名谱:František Urban",
+     "source": "https://proficomms.cz/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 具名 kp 引路口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "具名 kp 引路 → 采购/技术硬件分载线",
+     "question": "贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档+LinkedIn 谱",
+     "push": "—",
+     "angle": "谱链明智途径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;当季窗热询",
+     "⑥SWOT": "S=金谱在册;W=直发需 opt-in;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;具名档",
+    "swot": {
+     "S": "具名决策档+roster/官网金谱在册",
+     "W": "直发需 opt-in;leads-only",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "KP 在职时效待核",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "KP 在职时效",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "kp": [
+    {
+     "name": "František Urban",
+     "role": "Key Principal(Dun & Bradstreet 商档)",
+     "contact": "proficomms.cz 批口+LI 司页",
+     "status": "third-party-D&B·谱/leads-only(直发需 opt-in)",
+     "source": "https://www.proficomms.eu"
+    }
+   ],
+   "email": "Dear František Urban Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@proficomms.cz / urban@proficomms.cz"
+  },
+  {
+   "customer": "A-498",
+   "fact": "波 25·498:捷克谱: VanCo.cz s.r.o.:MUM 2020 欧展商;官网 2017 新闻自宣「oficiální distributor výrobce platformy MikroTik」;wifi-shop.cz 电商;KOPOS/NETIO/IMCO POWER/MHPower 牌谱;60GHz/LTE6 新品入架节奏谱;我司 424 XGG 价锚铺,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://wifi-shop.cz/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "VanCo.cz s.r.o.:MUM 2020 欧展商;官网 2017 新闻自宣「oficiální distributor výrobce platformy MikroTik」;wifi-shop.cz 电商;KOPOS/NETIO/IMCO POWER/MHPower 牌谱;60GHz/LTE6 新品入架节奏谱;我司 424 XGG 价锚铺,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "VanCo.cz s.r.o.:MUM 2020 欧展商;官网 2017 新闻自宣「oficiální distributor výrobce platformy MikroTik」;wifi-shop.cz 电商;KOPOS/NETIO/IMCO POWER/MHPower 牌谱;60GHz/LTE6 新品入架节奏谱",
+     "source": "https://wifi-shop.cz/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://wifi-shop.cz/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "VanCo.cz s.r.o.:MUM 2020 欧展商;官网 2017 新闻自宣「oficiální distributor výrobce platformy MikroTik」;wifi-shop.cz 电商;KOPOS/NETIO/IMCO POWER/MHPower 牌谱;60GHz/LTE6 新品入架节奏谱;我司 424 XGG 价锚铺,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@wifi-shop.cz / info@vanco.cz"
+  },
+  {
+   "customer": "A-499",
+   "fact": "波 25·499:捷克谱: **R63 永久退信注:export@i4wifi.eu 发不过去,紧扣替代口(sales@i4wifi.cz 同体双域/+420 277 007 500/FB 页),不删原邮**;i4wifi distribution a.s.(100MEGA Distribution s.r.o. 商号注):**MUM 档 Master+VAD、2007 创、3800 m² 仓、45+ 国、120+ 单/日、自 2006 培训 6300+ 技术员=捷克最大国际技术培训商;自有牌 WAVECON/WAVERF**;联系页 Product Manager Ubiquiti Michal Štěpánek 具名(MT PM 档缺);TOP100 捷克 ICT+Czech Stability 2%;我司 424 XGG 大件 Master Dec 谱,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://i4wifi.eu/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "捷克谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**R63 永久退信注:export@i4wifi.eu 发不过去,紧扣替代口(sales@i4wifi.cz 同体双域/+420 277 007 500/FB 页),不删原邮**;i4wifi distribution a.s.(100MEGA Distribution s.r.o. 商号注):**MUM 档 Master+VAD、2007 创、3800 m² 仓、45+ 国、120+ 单/日、自 2006 培训 6300+ 技术员=捷克最大国际技术培训商;自有牌 WAVECON/WAVERF**;联系页 Product Manager Ubiquiti Michal Štěpánek 具名(MT PM 档缺);TOP100 捷克 ICT+Czech Stability 2%;我司 424 XGG 大件 Master Dec 谱,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "捷克分销/批发谱;",
+    "团队与规模": "捷克谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "**R63 永久退信(发不过去),替代口在册;具名缺(守档准由);先报价不回**"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**R63 永久退信注:export@i4wifi.eu 发不过去,紧扣替代口(sales@i4wifi.cz 同体双域/+420 277 007 500/FB 页),不删原邮**;i4wifi distribution a.s.(100MEGA Distribution s.r.o. 商号注):**MUM 档 Mas",
+     "source": "https://i4wifi.eu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://i4wifi.eu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**R63 永久退信注:export@i4wifi.eu 发不过去,紧扣替代口(sales@i4wifi.cz 同体双域/+420 277 007 500/FB 页),不删原邮**;i4wifi distribution a.s.(100MEGA Distribution s.r.o. 商号注):**MUM 档 Master+VAD、2007 创、3800 m² 仓、45+ 国、120+ 单/日、自 2006 培训 6300+ 技术员=捷克最大国际技术培训商;自有牌 WAVECON/WAVERF**;联系页 Product Manager Ubiquiti Michal Štěpánek 具名(MT PM 档缺);TOP100 捷克 ICT+Czech Stability 2%;我司 424 XGG 大件 Master Dec 谱,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "捷克分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "替代口证实+规格页"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "export@i4wifi.eu / sales@i4wifi.cz"
+  },
+  {
+   "customer": "A-500",
+   "fact": "波 25·500:斯洛伐克谱: **R63 永久退信注:dc@lancentrum.eu 发不过去(domain alive 差旗:页面可访、通途 dead,批双域差旗),紧扣替代口(shop@times.sk / office@times.sk / +421 46 542 70 50)**;TIMES NETWORKS s.r.o.(Prievidza Nábr. sv. Metoda 8)=**mikrotik.com 官方 Slovakia 页双牌 Master+VAD 档**;法体 TIMES-VT(Ing. Ján Cibula,IČO 33611084 登记档)↔商号双牌注;lancentrum.eu 电商+timesnet.sk ISP+solarnecentrum.sk 太阳能三谱;我司 424 XGG 斯口 Master 谱,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://lancentrum.eu/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "斯洛伐克谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**R63 永久退信注:dc@lancentrum.eu 发不过去(domain alive 差旗:页面可访、通途 dead,批双域差旗),紧扣替代口(shop@times.sk / office@times.sk / +421 46 542 70 50)**;TIMES NETWORKS s.r.o.(Prievidza Nábr. sv. Metoda 8)=**mikrotik.com 官方 Slovakia 页双牌 Master+VAD 档**;法体 TIMES-VT(Ing. Ján Cibula,IČO 33611084 登记档)↔商号双牌注;lancentrum.eu 电商+timesnet.sk ISP+solarnecentrum.sk 太阳能三谱;我司 424 XGG 斯口 Master 谱,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "斯洛伐克分销/批发谱;",
+    "团队与规模": "斯洛伐克谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "**R63 永久退信(发不过去),替代口在册;具名缺(守档准由);先报价不回**"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**R63 永久退信注:dc@lancentrum.eu 发不过去(domain alive 差旗:页面可访、通途 dead,批双域差旗),紧扣替代口(shop@times.sk / office@times.sk / +421 46 542 70 50)**;TIMES NETWORKS s.r.o.(Prievid",
+     "source": "https://lancentrum.eu/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://lancentrum.eu/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**R63 永久退信注:dc@lancentrum.eu 发不过去(domain alive 差旗:页面可访、通途 dead,批双域差旗),紧扣替代口(shop@times.sk / office@times.sk / +421 46 542 70 50)**;TIMES NETWORKS s.r.o.(Prievidza Nábr. sv. Metoda 8)=**mikrotik.com 官方 Slovakia 页双牌 Master+VAD 档**;法体 TIMES-VT(Ing. Ján Cibula,IČO 33611084 登记档)↔商号双牌注;lancentrum.eu 电商+timesnet.sk ISP+solarnecentrum.sk 太阳能三谱;我司 424 XGG 斯口 Master 谱,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "斯洛伐克分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "替代口证实+规格页"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "dc@lancentrum.eu / shop@times.sk"
+  },
+  {
+   "customer": "A-501",
+   "fact": "波 25·501:比利时谱: SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://smarteye.be/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "比利时谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "比利时分销/批发谱;",
+    "团队与规模": "比利时谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗",
+     "source": "https://smarteye.be/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://smarteye.be/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "SmartEye BV:RPR Antwerpen,VAT BE0542740338,Wilrijk Kruishofstraat 309;**学生网园营谱(Student Internet)+AS49935 ISP 3,840 IPv4+276 域托管=宿舍 WiFi 总包市场**;我司 424 XGG 荷比谱大件窗,校园宿舍铸批,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "比利时分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "sales@smarteye.eu / support@smarteye.eu"
+  },
+  {
+   "customer": "A-502",
+   "fact": "波 25·502:比利时谱: **守档准由·原 R56 谱基增厚**:Tesla Networks（比利时）：比 30 年网络定制商（天线 30MHz-7.2GHz 工业/车用/公交；custom switches/routers/repeaters/cables）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "比利时谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Tesla Networks（比利时）：比 30 年网络定制商（天线 30MHz-7.2GHz 工业/车用/公交；custom switches/routers/repeaters/cables）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "比利时分销/批发谱;",
+    "团队与规模": "比利时谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Tesla Networks（比利时）：比 30 年网络定制商（天线 30MHz-7.2GHz 工业/车用/公交；custom switches/routers/repeaters/cables）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 28",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Tesla Networks（比利时）：比 30 年网络定制商（天线 30MHz-7.2GHz 工业/车用/公交；custom switches/routers/repeaters/cables）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "比利时分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-503",
+   "fact": "波 25·503:卢森堡谱: **守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "卢森堡谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "卢森堡分销/批发谱;",
+    "团队与规模": "卢森堡谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 ",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Alfa Systems（比利时/卢森堡）：Alfa Systems 比/卢布线全分厂家（Antaira Industrial Networking+Digi+Silex+LevelOne PoE 类目+Peplink/Teltonika 4G/5G）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "卢森堡分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-504",
+   "fact": "波 25·504:法国谱: **守档准由·原 R56 谱基增厚**:Azurtem（法国）：Azurtem 法 MT 深谱店（KNOT/RDS2216/CRS510 在价；volume pre-staging 服务）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "法国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Azurtem（法国）：Azurtem 法 MT 深谱店（KNOT/RDS2216/CRS510 在价；volume pre-staging 服务）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "法国分销/批发谱;",
+    "团队与规模": "法国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Azurtem（法国）：Azurtem 法 MT 深谱店（KNOT/RDS2216/CRS510 在价；volume pre-staging 服务）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Azurtem（法国）：Azurtem 法 MT 深谱店（KNOT/RDS2216/CRS510 在价；volume pre-staging 服务）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "法国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-505",
+   "fact": "波 25·505:法国谱: **守档准由·原 R56 谱基增厚**:Convergence Direct（法国）：Convergence Direct 法 B2B 通信店（官方 Ascom+MikroTik 徽标；2336 refs/43 marques；医护呼叫+DECT/耳机主业；28% 当日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "法国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Convergence Direct（法国）：Convergence Direct 法 B2B 通信店（官方 Ascom+MikroTik 徽标；2336 refs/43 marques；医护呼叫+DECT/耳机主业；28% 当日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "法国分销/批发谱;",
+    "团队与规模": "法国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Convergence Direct（法国）：Convergence Direct 法 B2B 通信店（官方 Ascom+MikroTik 徽标；2336 refs/43 marques；医护呼叫+DECT/耳机主业；28% 当日发）;R66 25 波谱:我司 STC-424XG",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Convergence Direct（法国）：Convergence Direct 法 B2B 通信店（官方 Ascom+MikroTik 徽标；2336 refs/43 marques；医护呼叫+DECT/耳机主业；28% 当日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "法国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-506",
+   "fact": "波 25·506:法国谱: **守档准由·原 R56 谱基增厚**:MHzShop（法国）：MHzShop 法 OXID 店（QuWireless 官方分销+MT/Ubiquiti/Teltonika/MARS/Poynting/Telegartner；PoE 配件与众 line；custom cable）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "法国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:MHzShop（法国）：MHzShop 法 OXID 店（QuWireless 官方分销+MT/Ubiquiti/Teltonika/MARS/Poynting/Telegartner；PoE 配件与众 line；custom cable）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "法国分销/批发谱;",
+    "团队与规模": "法国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:MHzShop（法国）：MHzShop 法 OXID 店（QuWireless 官方分销+MT/Ubiquiti/Teltonika/MARS/Poynting/Telegartner；PoE 配件与众 line；custom cable）;R66 25 波谱:我司 STC-42",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:MHzShop（法国）：MHzShop 法 OXID 店（QuWireless 官方分销+MT/Ubiquiti/Teltonika/MARS/Poynting/Telegartner；PoE 配件与众 line；custom cable）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "法国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-507",
+   "fact": "波 25·507:法国谱: **守档准由·原 R56 谱基增厚**:WiFi France（法国）：WiFi France 法多牌店（Ubiquiti 新品滚+TP-Link Omada PoE €146-€346+Grandstream/Jabra 语音条）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "法国谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:WiFi France（法国）：WiFi France 法多牌店（Ubiquiti 新品滚+TP-Link Omada PoE €146-€346+Grandstream/Jabra 语音条）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "法国分销/批发谱;",
+    "团队与规模": "法国谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:WiFi France（法国）：WiFi France 法多牌店（Ubiquiti 新品滚+TP-Link Omada PoE €146-€346+Grandstream/Jabra 语音条）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:WiFi France（法国）：WiFi France 法多牌店（Ubiquiti 新品滚+TP-Link Omada PoE €146-€346+Grandstream/Jabra 语音条）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "法国分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-508",
+   "fact": "波 25·508:波兰谱: **守档准由·原 R56 谱基增厚**:Alfa Extranet（波兰）：Alfa Extranet 波电批店（MT/Ubiquiti/TP-Link/D-Link/Fiberfox/Haupa;2026-09-22 新闻活；Huawei 合作页）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://alfaextranet.pl/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Alfa Extranet（波兰）：Alfa Extranet 波电批店（MT/Ubiquiti/TP-Link/D-Link/Fiberfox/Haupa;2026-09-22 新闻活；Huawei 合作页）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Alfa Extranet（波兰）：Alfa Extranet 波电批店（MT/Ubiquiti/TP-Link/D-Link/Fiberfox/Haupa;2026-09-22 新闻活；Huawei 合作页）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2",
+     "source": "https://alfaextranet.pl/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://alfaextranet.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Alfa Extranet（波兰）：Alfa Extranet 波电批店（MT/Ubiquiti/TP-Link/D-Link/Fiberfox/Haupa;2026-09-22 新闻活；Huawei 合作页）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@alfaextranet.pl / sales@alfaextranet.pl"
+  },
+  {
+   "customer": "A-509",
+   "fact": "波 25·509:波兰谱: **守档准由·原 R56 谱基增厚**:Atel Electronics（波兰）：Atel 波进口分销商（ORing Industrial Networking+EN50155 铁路类目；WAVE 自牌 KVM/光缆；Vutlan 监控；TP-Link PoE++ 584 zł 在价）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Atel Electronics（波兰）：Atel 波进口分销商（ORing Industrial Networking+EN50155 铁路类目；WAVE 自牌 KVM/光缆；Vutlan 监控；TP-Link PoE++ 584 zł 在价）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Atel Electronics（波兰）：Atel 波进口分销商（ORing Industrial Networking+EN50155 铁路类目；WAVE 自牌 KVM/光缆；Vutlan 监控；TP-Link PoE++ 584 zł 在价）;R66 25 波谱:我司 STI",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Atel Electronics（波兰）：Atel 波进口分销商（ORing Industrial Networking+EN50155 铁路类目；WAVE 自牌 KVM/光缆；Vutlan 监控；TP-Link PoE++ 584 zł 在价）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-510",
+   "fact": "波 25·510:波兰谱: **守档准由·原 R56 谱基增厚**:Batna24（波兰）：Batna24 波 20 年大盘（UniFi Enterprise Partner Program 徽标；USW-Pro-XG-24-PoE 8458 zł 在价；联络邮箱 anteny24.pl=同集团注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://anteny24.pl/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Batna24（波兰）：Batna24 波 20 年大盘（UniFi Enterprise Partner Program 徽标；USW-Pro-XG-24-PoE 8458 zł 在价；联络邮箱 anteny24.pl=同集团注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Batna24（波兰）：Batna24 波 20 年大盘（UniFi Enterprise Partner Program 徽标；USW-Pro-XG-24-PoE 8458 zł 在价；联络邮箱 anteny24.pl=同集团注）;R66 25 波谱:我司 STC-424XGG",
+     "source": "https://anteny24.pl/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://anteny24.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Batna24（波兰）：Batna24 波 20 年大盘（UniFi Enterprise Partner Program 徽标；USW-Pro-XG-24-PoE 8458 zł 在价；联络邮箱 anteny24.pl=同集团注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@anteny24.pl / sales@anteny24.pl"
+  },
+  {
+   "customer": "A-511",
+   "fact": "波 25·511:波兰谱: **守档准由·原 R56 谱基增厚**:CDR.pl（波兰）：CDR.pl 波 ISP 巨分销（牌墙百余：MT 567/Ubiquiti 1105/TP-Link 816/Huawei 331；自牌 Opton 1043 SKU;Switche 359 类目）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:CDR.pl（波兰）：CDR.pl 波 ISP 巨分销（牌墙百余：MT 567/Ubiquiti 1105/TP-Link 816/Huawei 331；自牌 Opton 1043 SKU;Switche 359 类目）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:CDR.pl（波兰）：CDR.pl 波 ISP 巨分销（牌墙百余：MT 567/Ubiquiti 1105/TP-Link 816/Huawei 331；自牌 Opton 1043 SKU;Switche 359 类目）;R66 25 波谱:我司 STC-424XGGPM-280",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:CDR.pl（波兰）：CDR.pl 波 ISP 巨分销（牌墙百余：MT 567/Ubiquiti 1105/TP-Link 816/Huawei 331；自牌 Opton 1043 SKU;Switche 359 类目）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-512",
+   "fact": "波 25·512:波兰谱: **守档准由·原 R56 谱基增厚**:Cyberbajt（波兰）：Cyberbajt 波老店（Netiona/Kabeltechnika 姊妹公司；光纤 patchcord 自制；新闻停 2019=活性注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Cyberbajt（波兰）：Cyberbajt 波老店（Netiona/Kabeltechnika 姊妹公司；光纤 patchcord 自制；新闻停 2019=活性注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Cyberbajt（波兰）：Cyberbajt 波老店（Netiona/Kabeltechnika 姊妹公司；光纤 patchcord 自制；新闻停 2019=活性注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Cyberbajt（波兰）：Cyberbajt 波老店（Netiona/Kabeltechnika 姊妹公司；光纤 patchcord 自制；新闻停 2019=活性注）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-513",
+   "fact": "波 25·513:波兰谱: **守档准由·原 R56 谱基增厚**:Fiberm（波兰）：Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON+管井件全谱；Moxa 品牌页+Jonard 工具；MT CRS304-4XG-IN PoE 新品在列；同日 16:00 发）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Fiberm（波兰）：Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON+管井件全谱；Moxa 品牌页+Jonard 工具；MT CRS304-4XG-IN PoE 新品在列；同日 16:00 发）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Fiberm（波兰）：Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON+管井件全谱；Moxa 品牌页+Jonard 工具；MT CRS304-4XG-IN PoE 新品在列；同日 16:00 发）;R66 25 波谱:我司 STI-288GP(工业非管理 8口",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Fiberm（波兰）：Fiberm 波 B2B 光纤分销（GPON/EPON/XGSPON+管井件全谱；Moxa 品牌页+Jonard 工具；MT CRS304-4XG-IN PoE 新品在列；同日 16:00 发）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-514",
+   "fact": "波 25·514:波兰谱: **守档准由·原 R56 谱基增厚**:Wirelesslan.pl（波兰）：Wirelesslan.pl 波老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目：工业 media konwertery/switche）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Wirelesslan.pl（波兰）：Wirelesslan.pl 波老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目：工业 media konwertery/switche）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Wirelesslan.pl（波兰）：Wirelesslan.pl 波老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目：工业 media konwertery/switche）;R66 25 波谱:我司 STC-424XGGPM-280W",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Wirelesslan.pl（波兰）：Wirelesslan.pl 波老店（MT/Ubi/Cambium 全谱；Automatyka i Przemysł 类目：工业 media konwertery/switche）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-515",
+   "fact": "波 25·515:波兰谱: **守档准由·原 R56 谱基增厚**:WiFi24（波兰）：WiFi24 波 MT Reseller 徽标店（MT 全谱+Infomir IPTV+STARLINK Mini 2026-09 上架+Canon 打印谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:WiFi24（波兰）：WiFi24 波 MT Reseller 徽标店（MT 全谱+Infomir IPTV+STARLINK Mini 2026-09 上架+Canon 打印谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:WiFi24（波兰）：WiFi24 波 MT Reseller 徽标店（MT 全谱+Infomir IPTV+STARLINK Mini 2026-09 上架+Canon 打印谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:WiFi24（波兰）：WiFi24 波 MT Reseller 徽标店（MT 全谱+Infomir IPTV+STARLINK Mini 2026-09 上架+Canon 打印谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-516",
+   "fact": "波 25·516:波兰谱: **守档准由·原 R56 谱基增厚**:Mikrotik.org.pl (iwave)（波兰）：Mikrotik.org.pl 波 MT 专站（iwave 域名邮箱；与 wirelesslan.com.pl 同店面+同电话 32 721 86 72=姊妹站注；Szkolenia 培训菜单）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "波兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Mikrotik.org.pl (iwave)（波兰）：Mikrotik.org.pl 波 MT 专站（iwave 域名邮箱；与 wirelesslan.com.pl 同店面+同电话 32 721 86 72=姊妹站注；Szkolenia 培训菜单）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "波兰分销/批发谱;",
+    "团队与规模": "波兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Mikrotik.org.pl (iwave)（波兰）：Mikrotik.org.pl 波 MT 专站（iwave 域名邮箱；与 wirelesslan.com.pl 同店面+同电话 32 721 86 72=姊妹站注；Szkolenia 培训菜单）;R66 25 波谱:我司 S",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Mikrotik.org.pl (iwave)（波兰）：Mikrotik.org.pl 波 MT 专站（iwave 域名邮箱；与 wirelesslan.com.pl 同店面+同电话 32 721 86 72=姊妹站注；Szkolenia 培训菜单）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "波兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-517",
+   "fact": "波 25·517:爱尔兰谱: **守档准由·原 R56 谱基增厚**:Winncom EMEA（爱尔兰）：Winncom 爱尔兰 EMEA 大 VAD(Tarana/Intracom/SIAE/MikroTik Overstock/Mimosa/Proxim/Nomadix/Nokia；协会墙 CANWISP/UKWISPA/FBA);R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "爱尔兰谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Winncom EMEA（爱尔兰）：Winncom 爱尔兰 EMEA 大 VAD(Tarana/Intracom/SIAE/MikroTik Overstock/Mimosa/Proxim/Nomadix/Nokia；协会墙 CANWISP/UKWISPA/FBA);R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "爱尔兰分销/批发谱;",
+    "团队与规模": "爱尔兰谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Winncom EMEA（爱尔兰）：Winncom 爱尔兰 EMEA 大 VAD(Tarana/Intracom/SIAE/MikroTik Overstock/Mimosa/Proxim/Nomadix/Nokia；协会墙 CANWISP/UKWISPA/FBA);R66 25",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Winncom EMEA（爱尔兰）：Winncom 爱尔兰 EMEA 大 VAD(Tarana/Intracom/SIAE/MikroTik Overstock/Mimosa/Proxim/Nomadix/Nokia；协会墙 CANWISP/UKWISPA/FBA);R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "爱尔兰分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-518",
+   "fact": "波 25·518:爱沙尼亚谱: **守档准由·原 R56 谱基增厚**:Kernel AS（爱沙尼亚）：Kernel AS 爱沙小 ISP(Internet 服务+wi-fi 谱 e-pood+arvutimure 电脑维护三业）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "爱沙尼亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Kernel AS（爱沙尼亚）：Kernel AS 爱沙小 ISP(Internet 服务+wi-fi 谱 e-pood+arvutimure 电脑维护三业）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "爱沙尼亚分销/批发谱;",
+    "团队与规模": "爱沙尼亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Kernel AS（爱沙尼亚）：Kernel AS 爱沙小 ISP(Internet 服务+wi-fi 谱 e-pood+arvutimure 电脑维护三业）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Kernel AS（爱沙尼亚）：Kernel AS 爱沙小 ISP(Internet 服务+wi-fi 谱 e-pood+arvutimure 电脑维护三业）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "爱沙尼亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-519",
+   "fact": "波 25·519:爱沙尼亚谱: **守档准由·原 R56 谱基增厚**:Sonictest（爱沙尼亚）：Sonictest 爱沙尼亚 WiFi/光纤网络设备销建+IT/sideteenused 服务商（hAP/RB5009/CCR2004 谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "爱沙尼亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Sonictest（爱沙尼亚）：Sonictest 爱沙尼亚 WiFi/光纤网络设备销建+IT/sideteenused 服务商（hAP/RB5009/CCR2004 谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "爱沙尼亚分销/批发谱;",
+    "团队与规模": "爱沙尼亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Sonictest（爱沙尼亚）：Sonictest 爱沙尼亚 WiFi/光纤网络设备销建+IT/sideteenused 服务商（hAP/RB5009/CCR2004 谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 ",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Sonictest（爱沙尼亚）：Sonictest 爱沙尼亚 WiFi/光纤网络设备销建+IT/sideteenused 服务商（hAP/RB5009/CCR2004 谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "爱沙尼亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-520",
+   "fact": "波 25·520:瑞典谱: **守档准由·原 R56 谱基增厚**:netdist (Axbyte)（瑞典）：netdist 瑞典 MT 授权分销商（ISP/telecom 店；Switchar 45 类目；Axbyte 关联注；B2B 账+瑞典语技支）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://netdist.se/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "瑞典谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:netdist (Axbyte)（瑞典）：netdist 瑞典 MT 授权分销商（ISP/telecom 店；Switchar 45 类目；Axbyte 关联注；B2B 账+瑞典语技支）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "瑞典分销/批发谱;",
+    "团队与规模": "瑞典谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:netdist (Axbyte)（瑞典）：netdist 瑞典 MT 授权分销商（ISP/telecom 店；Switchar 45 类目；Axbyte 关联注；B2B 账+瑞典语技支）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XG",
+     "source": "https://netdist.se/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://netdist.se/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:netdist (Axbyte)（瑞典）：netdist 瑞典 MT 授权分销商（ISP/telecom 店；Switchar 45 类目；Axbyte 关联注；B2B 账+瑞典语技支）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞典分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@netdist.se / sales@netdist.se"
+  },
+  {
+   "customer": "A-521",
+   "fact": "波 25·521:瑞典谱: **守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://routerboard.se/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "瑞典谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "瑞典分销/批发谱;",
+    "团队与规模": "瑞典谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-",
+     "source": "https://routerboard.se/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://routerboard.se/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Routerboard.se（瑞典）：Routerboard.se 瑞典 MT Laser 专店（ÅF ansökan 经销申请口；HS-2733LC20D SFP+400G DAC 谱；mikrotik.se 域名=强关联）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞典分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@routerboard.se / sales@routerboard.se"
+  },
+  {
+   "customer": "A-522",
+   "fact": "波 25·522:瑞士谱: **守档准由·原 R56 谱基增厚**:Engitech（瑞士）：Engitech 日内瓦 1996 IT 店（MTCTCE 培训 2023 法语班+hEX PoE CHF113/Teltonika RUTX11/Huawei ONT 谱；Emsisoft/FlashStart 安全谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "瑞士谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Engitech（瑞士）：Engitech 日内瓦 1996 IT 店（MTCTCE 培训 2023 法语班+hEX PoE CHF113/Teltonika RUTX11/Huawei ONT 谱；Emsisoft/FlashStart 安全谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "瑞士分销/批发谱;",
+    "团队与规模": "瑞士谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Engitech（瑞士）：Engitech 日内瓦 1996 IT 店（MTCTCE 培训 2023 法语班+hEX PoE CHF113/Teltonika RUTX11/Huawei ONT 谱；Emsisoft/FlashStart 安全谱）;R66 25 波谱:我司 ST",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Engitech（瑞士）：Engitech 日内瓦 1996 IT 店（MTCTCE 培训 2023 法语班+hEX PoE CHF113/Teltonika RUTX11/Huawei ONT 谱；Emsisoft/FlashStart 安全谱）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞士分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-523",
+   "fact": "波 25·523:瑞士谱: **守档准由·原 R56 谱基增厚**:INOVIS Group（瑞士）：INOVIS 瑞士工业嵌入式分销（Nexcom embedded/Aplex 工业平板/Milesight IoT 传感器/Teltonika RUT951 PoE+ 工业路由;Rüti 瑞士仓）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "瑞士谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:INOVIS Group（瑞士）：INOVIS 瑞士工业嵌入式分销（Nexcom embedded/Aplex 工业平板/Milesight IoT 传感器/Teltonika RUT951 PoE+ 工业路由;Rüti 瑞士仓）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "瑞士分销/批发谱;",
+    "团队与规模": "瑞士谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:INOVIS Group（瑞士）：INOVIS 瑞士工业嵌入式分销（Nexcom embedded/Aplex 工业平板/Milesight IoT 传感器/Teltonika RUT951 PoE+ 工业路由;Rüti 瑞士仓）;R66 25 波谱:我司 STI-288GP(工",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:INOVIS Group（瑞士）：INOVIS 瑞士工业嵌入式分销（Nexcom embedded/Aplex 工业平板/Milesight IoT 传感器/Teltonika RUT951 PoE+ 工业路由;Rüti 瑞士仓）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞士分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-524",
+   "fact": "波 25·524:瑞士谱: **守档准由·原 R56 谱基增厚**:MPI Technologies（瑞士）：MPI 瑞士 1992 IIoT 技术分销（Computing/Mobile/Display/Network/System 五板；MPL rugged 兄弟+Bibus 集团；100% 瑞士造）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+   "hr": "瑞士谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:MPI Technologies（瑞士）：MPI 瑞士 1992 IIoT 技术分销（Computing/Mobile/Display/Network/System 五板；MPL rugged 兄弟+Bibus 集团；100% 瑞士造）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "目标行业与场景": "瑞士分销/批发谱;",
+    "团队与规模": "瑞士谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "工业轨槽 IP6 对照口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:MPI Technologies（瑞士）：MPI 瑞士 1992 IIoT 技术分销（Computing/Mobile/Display/Network/System 五板；MPL rugged 兄弟+Bibus 集团；100% 瑞士造）;R66 25 波谱:我司 STI-288G",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STI-288GP",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:MPI Technologies（瑞士）：MPI 瑞士 1992 IIoT 技术分销（Computing/Mobile/Display/Network/System 五板；MPL rugged 兄弟+Bibus 集团；100% 瑞士造）;R66 25 波谱:我司 STI-288GP(工业非管理 8口 PoE IP67 轨,$74.8 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STI-288GP-IP6(工业轨槽外六保 IP67,POE款 8×802.3af/at 30W,对照 PLANET IGS-6325,£25,999 轨载)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "268GP IP6 vs PLANET IGS 对照",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞士分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "288GP IP6 工业对照窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build an industrial unmanaged 8-port PoE switch (IP67 rail, 802.3af/at, watchdog). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-525",
+   "fact": "波 25·525:瑞士谱: **守档准由·原 R56 谱基增厚**:Wifx（瑞士）：Wifx 瑞士 MT+CRS 谱店（CRS354-48P-4S+2Q CHF886/RB5009UPR/CRS326 在价）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "瑞士谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Wifx（瑞士）：Wifx 瑞士 MT+CRS 谱店（CRS354-48P-4S+2Q CHF886/RB5009UPR/CRS326 在价）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "瑞士分销/批发谱;",
+    "团队与规模": "瑞士谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Wifx（瑞士）：Wifx 瑞士 MT+CRS 谱店（CRS354-48P-4S+2Q CHF886/RB5009UPR/CRS326 在价）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Wifx（瑞士）：Wifx 瑞士 MT+CRS 谱店（CRS354-48P-4S+2Q CHF886/RB5009UPR/CRS326 在价）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "瑞士分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-526",
+   "fact": "波 25·526:科索沃谱: **守档准由·原 R56 谱基增厚**:Kosprod (Kreu)（科索沃）：Kosprod 科索沃科技大店（MT/Ubiquiti/UniFi/Cudy/Riello UPS+监控+Gaming PC;AI NVR push）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "科索沃谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Kosprod (Kreu)（科索沃）：Kosprod 科索沃科技大店（MT/Ubiquiti/UniFi/Cudy/Riello UPS+监控+Gaming PC;AI NVR push）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "科索沃分销/批发谱;",
+    "团队与规模": "科索沃谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Kosprod (Kreu)（科索沃）：Kosprod 科索沃科技大店（MT/Ubiquiti/UniFi/Cudy/Riello UPS+监控+Gaming PC;AI NVR push）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W ",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Kosprod (Kreu)（科索沃）：Kosprod 科索沃科技大店（MT/Ubiquiti/UniFi/Cudy/Riello UPS+监控+Gaming PC;AI NVR push）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "科索沃分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  },
+  {
+   "customer": "A-527",
+   "fact": "波 25·527:罗马尼亚谱: **守档准由·原 R56 谱基增厚**:MikroTik.ro（罗马尼亚）：MikroTik.ro 罗 MT 专店（全谱+Surse-POE 电源类目+CRS418 2339 lei 在卖）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://mikrotik.ro/",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "罗马尼亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:MikroTik.ro（罗马尼亚）：MikroTik.ro 罗 MT 专店（全谱+Surse-POE 电源类目+CRS418 2339 lei 在卖）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "罗马尼亚分销/批发谱;",
+    "团队与规模": "罗马尼亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:MikroTik.ro（罗马尼亚）：MikroTik.ro 罗 MT 专店（全谱+Surse-POE 电源类目+CRS418 2339 lei 在卖）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报",
+     "source": "https://mikrotik.ro/"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://mikrotik.ro/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:MikroTik.ro（罗马尼亚）：MikroTik.ro 罗 MT 专店（全谱+Surse-POE 电源类目+CRS418 2339 lei 在卖）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "罗马尼亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "info@mikrotik.ro / sales@mikrotik.ro"
+  },
+  {
+   "customer": "A-528",
+   "fact": "波 25·528:罗马尼亚谱: **守档准由·原 R56 谱基增厚**:Wifimag（罗马尼亚）：Wifimag 罗 2007 电信商（Ubiquiti+MT 授权 reseller；USW-Flex PoE 630 lei/USW-Pro-8-PoE 1880 lei 在价；真实库存同日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+   "inference": "R66 第 25 波守档准由谱",
+   "hypothesis": "档案铺位谱,持续关注新一季",
+   "evidence_main": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py",
+   "tech": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+   "hr": "罗马尼亚谱·具名缺(守档准由)",
+   "contact_found": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+   "contact_pending": "谱面实名缺,守档铺位",
+   "dims": {
+    "业务定位": "**守档准由·原 R56 谱基增厚**:Wifimag（罗马尼亚）：Wifimag 罗 2007 电信商（Ubiquiti+MT 授权 reseller；USW-Flex PoE 630 lei/USW-Pro-8-PoE 1880 lei 在价；真实库存同日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+    "产品线与在售品牌": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "目标行业与场景": "罗马尼亚分销/批发谱;",
+    "团队与规模": "罗马尼亚谱·具名缺(守档准由)",
+    "决策链与对接人": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+    "技术与认证": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+    "采购与供应链信号": "B2B 大件批口谱",
+    "近期动态与线索": "2026-10-08 R66 25 波谱名牌",
+    "与我方契合点": "24 口 280W XGG 谱链窗口",
+    "风险与注意": "具名缺(守档准由);先报价不回"
+   },
+   "evidence": [
+    {
+     "dim": "联系方式与基础画像",
+     "quote": "**守档准由·原 R56 谱基增厚**:Wifimag（罗马尼亚）：Wifimag 罗 2007 电信商（Ubiquiti+MT 授权 reseller；USW-Flex PoE 630 lei/USW-Pro-8-PoE 1880 lei 在价；真实库存同日发）;R66 25 波谱:我司 STC-424XGGPM-2",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    },
+    {
+     "dim": "近期动态与线索",
+     "quote": "守档准由+roster 市场档谱",
+     "source": "https://szqcyyy.r.foreach.today/scripts/R66_R56_KP第25波_50户落盘.py"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 档案铺位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "守档铺位 → 价锚卡",
+     "question": "贵司新一季 PoE 铺位是否开放比选？",
+     "proof": "规格页"
+    },
+    {
+     "stage": "第 2 次跟进 · 一页目录卡",
+     "push": "一页目录卡",
+     "angle": "价值层 PoE 谱链卡",
+     "question": "可否入谱链名录？",
+     "proof": "卡"
+    },
+    {
+     "stage": "第 3 次跟进 · 留档",
+     "push": "—",
+     "angle": "簿联路径",
+     "question": "—",
+     "proof": "—"
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "**守档准由·原 R56 谱基增厚**:Wifimag（罗马尼亚）：Wifimag 罗 2007 电信商（Ubiquiti+MT 授权 reseller；USW-Flex PoE 630 lei/USW-Pro-8-PoE 1880 lei 在价；真实库存同日发）;R66 25 波谱:我司 STC-424XGGPM-280W(4×2 24口 280W XGG,$165 价锚) 对口该谱,先报价不回、档案铺位、持续关注新一季,OK。",
+     "②芯片/型号": "p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。",
+     "③KP 深挖": "**守档准由;R66 第 25 波点名(谱面无实名)**",
+     "④Saga 对标": "424 XGG 280W vs PLANET 当批价差",
+     "⑤在乎与偏好": "B2B 批谱;CE/UKCA 齐套;持续关注新一季",
+     "⑥SWOT": "S=金谱在册;W=具名缺守档;O=我司供位价差窗;T=欧洲分销带节奏"
+    },
+    "care": "罗马尼亚分销谱;守档",
+    "swot": {
+     "S": "roster/官网金谱在册",
+     "W": "具名缺(守档准由)",
+     "O": "424 XGG 280W $165/$80 双轨价差窗",
+     "T": "欧洲分销带节奏;先报价不回则档案铺位"
+    },
+    "uncertain": "谱面信号缺,波次二补",
+    "gap_proof": "报价单+规格页+CE 件"
+   },
+   "unknowns": [
+    "具名决策人(波次二)",
+    "谱面份额"
+   ],
+   "relation": "2026-10-08 R66 第 25 波 50 户扩招批",
+   "email": "Dear Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "(档案内联口) / (波次二补)"
+  }
+ ]
+}
