@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『…
+- **是谁**：2001 创 25 年;Shannon,Co. Clare;Hall/Neote 双创人;Owner 集中…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Te | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2001 创 25 年;Shannon,Co. Clare;Hall/Neote 双创人;Owner 集中 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 无线设计/部署/优化;PoE 24 口=无线站点供电专业件(本行对口) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批2·B-279:爱谱: **Irish Wireless 深挖(rocketreach 谱+irishwireless.net 官网谱双源)**:**2001 创(25 年老谱);由 Gurmukh Neote 与 **Stephen Hall** 联合创;现 Owner=Stephen Hall(rocketreach 直证);Smithstown Industrial Estate,Shannon,Co. Clare,Ireland;$3M 营收估计(rocketreach 单源谱);3 employees(2 人谱记)**;**业务=无线解决方案专家:「delivering excellence in wireless since 2001,making wireless simple」;设计/搭建无线部署:**地下矿/学校/酒店/郡级大网**多元场景谱;Irish Wireless 关键词谱=network design/RF engineering/network optimization/cellular/system integration/managed services**;**KP 金谱:**Stephen Hall(Owner P0,2001 创始至今 25 年;@irishwireless.net 域 2 邮箱谱口)+Gurmukh Neote(co-founder 创始人谱)=双人创人谱**;**谱位=爱尔兰 25 年专业无线集成谱=24 口 PoE 对无线基站供电/部署对口(witgoed=矿井/学校/酒店/郡网谱);CRO 独立法人登档未公开检索到谱口待核=谱级注;排噪:「Irish Wireless」名爱尔兰本邦一家,rockreath 谱 Shannon 谱锁;utcaerospacesystems.com 关联邮箱谱口注=Hall 谱口航空系背谱。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+无线设计/部署/优化;PoE 24 口=无线站点供电专业件(本行对口)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -94,47 +94,50 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Hall Owner P0
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：Owner 一人谱 → 24 口 PoE(无线部署供电)
+- **要问的问题**：贵司无线部署项目的 24 口 PoE 交换机由哪位主责?
+- **随附/动作**：rocketreach/官网 2 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 矿/校/酒店场景线
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：多元场景谱=谱口推介
+- **要问的问题**：贵司矿/校/酒店线的件谱?
+- **随附/动作**：rocketreach 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Neote co-founder
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：创始合伙谱
+- **要问的问题**：贵司 RF 工程线的供电谱口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：爱尔兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2001 创 25 年;Shannon,Co. Clare;Hall/Neote 双创人;Owner 集中
+- **芯片与在用型号**：无线设计/部署/优化;PoE 24 口=无线站点供电专业件(本行对口)
+- **关键人KP**：Stephen Hall(Owner P0)+Gurmukh Neote(co-founder)=双人谱;谱源 rocketreach 单源注
+- **关注点与资质**：无线集成本行 → 24 口 PoE(站点供电件)
+- **优缺点SWOT**：S=25 年专业谱+多元场景+Owner 集中决策快·W=3 员微型量级小;谱源单一注·O=爱尔兰无线部署潮=PoE 对口·T=UBNT/MikroTik 渠道谱位竞争
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;单主决策快;本行谱核对牌(已在售件需官网核)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-L
-  > Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-L
-  > 来源：https://irishwireless.net/
-- **【联系方式与基础画像】**CSV 入口:+353 61 514444 / sales@irishwireless.net
-  > CSV 入口:+353 61 514444 / sales@irishwireless.net
-  > 来源：https://irishwireless.net/
+- **【谱登档】**Irish Wireless;Founded 2001;delivering excellence in wireless since 2001, founded by Gurmukh Neote and Stephen Hall;Owner Stephen Hall;Revenue $3 million;3 employees;Smithstown Industrial Estate, Shannon, IE;irishwireless.net;SIC 506
+  > Irish Wireless;Founded 2001;delivering excellence in wireless since 2001, founded by Gurmukh Neote and Stephen Hall;Owner Stephen Hall;Revenue $3 million;3 employees;Smithstown Industrial Estate, Shannon, IE;irishwireless.net;SIC 506
+  > 来源：https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28
+- **【场景谱】**helped many clients design and build their wireless deployments, from underground mines, schools, hotels, or larger networks spanning across counties;Wireless Technology/Network Design/RF Engineering/Network Optimization
+  > helped many clients design and build their wireless deployments, from underground mines, schools, hotels, or larger networks spanning across counties;Wireless Technology/Network Design/RF Engineering/Network Optimization
+  > 来源：https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28
+- **【邮箱谱口】**2 emails @irishwireless.net;关联 utcaerospacesystems.com 邮箱谱口(背景谱)
+  > 2 emails @irishwireless.net;关联 utcaerospacesystems.com 邮箱谱口(背景谱)
+  > 来源：https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +150,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=25 年专业谱+多元场景+Owner 集中决策快·W=3 员微型量级小;谱源单一注·O=爱尔兰无线部署潮=PoE 对口·T=UBNT/MikroTik 渠道谱位竞争
 
 ## 触达与风险红线
 
@@ -175,8 +178,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] CRO 法人登档未公开检索到
+  - [ ] Hall 直邮推 @irishwireless.net 域档
+  - [ ] MikroTik/UBNT 在售谱位需 irishwireless.net 核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -188,12 +192,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Irish Wireless Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Stephen,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a workhorse for powering radios, APs and cameras across your wireless deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(…
+- **是谁**：同名 3 司守界:主=Bacău CUI22460883(2007/19 年/安防 8020/€29M);次=București CUI11344247(1998/27 年/维修 4321/€91K);三=Bucureș…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Univie | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 同名 3 司守界:主=Bacău CUI22460883(2007/19 年/安防 8020/€29M);次=București CUI11344247(1998/27 年/维修 4321/€91K);三=București S2(2004/电信 6190) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 主候选=监控/报警系统安装→PoE 监控供电正行;谱位守界 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批2·B-320:罗谱: **TELESYSTEM 同名多司守界谱深挖(termene/listafirme/risco 三源互证)**:**谱口 CSV 仅名「TELESYSTEM」+国=罗马尼亚,无网站/城档;open web 同系名三司谱:**TELESYSTEM SRL(Bacău;CUI 22460883;J04/1650/2007;2007-09-25 创 19 年;Str. Mărășești 110,Bacău 600073;CAEN 8020 安保服务;2025 营收 146,003,955 RON≈€28.96M(risco 直引!)+净利 6,808,688 RON≈€1.35M(2024 €1.678M 回落);15 员工;5 二级点;sistieme supraveghere/alarma 安防监控安装大谱=最可能候选!3 asociați+3 董事谱)** vs **TELESYSTEMS SRL(București S6;CUI 11344247;J1998012737405;1998-12-15 创 27 年;Valea Ialomiței 4;CAEN 4321 电脑/外围维修;2025 营收 457,712 RON≈€91K+净利 15,809 RON;3 员工;2 asociați(G.M.D./G.M.S.)+1 administrator(G.M.S.)谱)** vs **TELESYSTEMS COMPANY SRL(București S2;CUI 16461426;2004 创;CAEN 6190 其他电信活动)谱**;**谱位判断:**Bacău TELESYSTEM 安防大谱(€29M 营收+监控报警系统安装=正台谱谱口最像网口谱谱谱位)**为主要候选=谱口名称严合「TELESYSTEM」单名(București 二司皆复数 TELESYSTEMS);**排噪谱=三法体,CSV 名未核城=谱级注:若正体为 București 维修谱=量级谱差**;**KP 金谱:Bacău 3 asociați+3 董事谱口(具名待 termene 付费档核)守界谱;București 谱 G.M.D./G.M.S. Inițiale 档**;谱位=Bacău 安防监控安装大谱=24 口 PoE 对监控摄像头供电正行对口;罗语谱;若正体为 București 档=谱位降调。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+主候选=监控/报警系统安装→PoE 监控供电正行;谱位守界
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,50 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Bacău 谱具名核(守界)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：若正体=安防安装大谱 → 24 口 PoE 监控供电正行
+- **要问的问题**：贵司监控安装线的 24 口 PoE 交换机集购由哪位主责?
+- **随附/动作**：risco/termene 3 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 5 二级点谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Bacău 5 二级点=规模谱
+- **要问的问题**：贵司跨区域部署线的供电谱口?
+- **随附/动作**：谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · ANAF 无欠谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：risco 谱=payments 健康注
+- **要问的问题**：贵司供应商审核段的准入文件?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：罗马尼亚 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：同名 3 司守界:主=Bacău CUI22460883(2007/19 年/安防 8020/€29M);次=București CUI11344247(1998/27 年/维修 4321/€91K);三=București S2(2004/电信 6190)
+- **芯片与在用型号**：主候选=监控/报警系统安装→PoE 监控供电正行;谱位守界
+- **关键人KP**：主候选 3 asociați+3 directori 具名待付费档核;次候选 G.M.D./G.M.S. Inițiale 谱=守界谱
+- **关注点与资质**：若主候选→24 口 PoE 监控供电直对口;谱口守界注
+- **优缺点SWOT**：S=主候选 €29M 安防大谱+19 年+净利健康·W=正体未锁=守界 3 司谱;具名未核·O=罗国安防潮=PoE 监控供电正对口·T=若正体=微谱则量级降;谱锁成本
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语谱;主候选 ANAF 无欠谱+净利 €1.35M 健康谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/Un
-  > TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/Un
-  > 来源：https://telesystem.ro/
-- **【联系方式与基础画像】**CSV 入口:+40 31 101 99 09 / comenzi@telesystem.ro
-  > CSV 入口:+40 31 101 99 09 / comenzi@telesystem.ro
-  > 来源：https://telesystem.ro/
+- **【主候选谱】**TELESYSTEM SRL;CUI 22460883;J04/1650/2007;2007-09-25 创;Str. Mărășești 110, Bacău 600073;CAEN 8020;2025 cifra de afaceri 146.003.955 RON(28.960.420 euro);profit net 6.808.688 RON;15 angajați;3 asociați/3 directori;5 secondary offices
+  > TELESYSTEM SRL;CUI 22460883;J04/1650/2007;2007-09-25 创;Str. Mărășești 110, Bacău 600073;CAEN 8020;2025 cifra de afaceri 146.003.955 RON(28.960.420 euro);profit net 6.808.688 RON;15 angajați;3 asociați/3 directori;5 secondary offices
+  > 来源：https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883
+- **【次候选谱】**TELESYSTEMS SRL;CUI 11344247;București Sector 6, Strada Valea Ialomiței nr. 4;înființare 15.12.1998(27 ani);CAEN 4321 repararea calculatoarelor si a echipamentelor periferice;cifra de afaceri 2025=457.712 RON(+8,3%);profit net 15.809 RON;3 angajați;2 asociați(G.M.D./G.M.S.)+1 administrator;fără datorii ANAF
+  > TELESYSTEMS SRL;CUI 11344247;București Sector 6, Strada Valea Ialomiței nr. 4;înființare 15.12.1998(27 ani);CAEN 4321 repararea calculatoarelor si a echipamentelor periferice;cifra de afaceri 2025=457.712 RON(+8,3%);profit net 15.809 RON;3 angajați;2 asociați(G.M.D./G.M.S.)+1 administrator;fără datorii ANAF
+  > 来源：https://termene.ro/firma/11344247-TELESYSTEMS-SRL
+- **【第三候选谱】**TELESYSTEMS COMPANY SRL;CUI 16461426;J40/8587/2004;2004-05-27 创;Bdul. Lacul Tei 126-128, Sectorul 2, București;CAEN 6190 alte activități de telecomunicații;telecom 线司谱
+  > TELESYSTEMS COMPANY SRL;CUI 16461426;J40/8587/2004;2004-05-27 创;Bdul. Lacul Tei 126-128, Sectorul 2, București;CAEN 6190 alte activități de telecomunicații;telecom 线司谱
+  > 来源：https://listafirme.eu/telesystems-company-srl-16461426/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +148,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=主候选 €29M 安防大谱+19 年+净利健康·W=正体未锁=守界 3 司谱;具名未核·O=罗国安防潮=PoE 监控供电正对口·T=若正体=微谱则量级降;谱锁成本
 
 ## 触达与风险红线
 
@@ -173,8 +176,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 正体锁定(CSV 城/网站回归核实=守界 P0)
+  - [ ] Bacău 3 asociați/3 董事具名(termene 付费档核)
+  - [ ] 谱口 CSV 电口未具=守界谱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +190,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear TELESYSTEM Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a workhorse for powering IP cameras and alarms across security-system installations. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

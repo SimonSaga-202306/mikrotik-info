@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ALLNET Greece(希腊;=**ALLNET GmbH 国际网→Allnet Italia S.p.A 希腊延展臂**(allnet-italia.it 官方 Network 页自署:「strategic ext…
+- **是谁**：Allnet Italia 东南欧扩展谱;集团 1991 慕尼黑创 34/35 年;500M+ € 60k 伙伴…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ALLNET 集团南欧站的 value PoE 档集团谱补位(B-001 NORDIC 表亲同一逻辑)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ALLNET Greece(希腊;=**ALLNET GmbH 国际网→Allnet Italia S.p.A 希腊延展臂**(allnet-italia.it 官方 Network 页自署:「strategic extension of Allnet Italia on the Greek market」);集团谱:ALLNET GmbH=1991 慕尼黑 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Allnet Italia 东南欧扩展谱;集团 1991 慕尼黑创 34/35 年;500M+ € 60k 伙伴 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 自有 ALLNET PoE/PoE++/IoT 谱+第三方分销;白牌补位/差异化谱位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB·批2·B-115:希谱: **ALLNET.ITALIA 希腊分点谱深挖(allnet-italia.it 官网 Network 页+Allnet GmbH 官网谱双源互证)**:**ALLNET Greece = ALLNET.ITALIA 在希腊市场的战略扩展点(官方原文:「represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe」)=东南欧商业开发新支点;及 ALLNET 网络全谱:aggregate turnover 500M+ €,60,000+ 欧洲伙伴,直接据点 德/意/法/瑞/奥/北欧/中东欧/中国/台湾;ALLNET GmbH=Marcus Wolfgang Bauer 1991 慕尼黑创,300M+ € 营收,3 物流中心,自创品牌 ALLNET(ALL-SG/ALL4590/ALL1682503 等 PoE/PoE++/HomePlug 谱)+ICT 分销**;**库内 ALLNET 族谱:批 B-001 ALLNET Nordic(丹,批 8 关联 R67 谱)+B-138 ALLNET GmbH Computersysteme(德)既有谱位;希腊点=意大利域谱下的东南欧口**;**KP 金谱:Wolfgang Marcus Bauer(Allnet GmbH 创人/集团位谱 P0 级)+Axel Windemuth? 未证→以库内 B-001/B-138 谱谱及 Allnet Italia MD(谱未公开检索到)注;谱口=经 Allnet Italia(意大利 Parella?)链路对接=谱级注**;**谱位=东南欧 ICT 分销新支点=24 口 PoE 白牌上谱面向希腊/东南欧伙伴口;独立希腊法体登档(ΓΕΜΗ)未公开检索到=谱级注(经意司谱链路)**。排噪:AllNetworks(Peristerá,3CX MSP,2003 谱)与 Ammannette 皆同音别司;allvoip.gr 售 ALLNET 品牌=零售商谱非本户。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+自有 ALLNET PoE/PoE++/IoT 谱+第三方分销;白牌补位/差异化谱位
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -84,50 +91,53 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · Allnet Italia 链路(经谱)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：意司东南欧战线 → 24 口 PoE 白牌补位(差异化谱)
+- **要问的问题**：贵司希腊/东南欧线的 24 口 PoE 白牌补位由哪位同事主责?
+- **随附/动作**：官网 Network 页 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 库内 B-001 Nordic 谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：AlLNET 族谱北欧口已铺=族内横支谱
+- **要问的问题**：谱系内东南欧 PoE 谱协同口?
+- **随附/动作**：库内谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · Bauer 集团层
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：创人/集团位谱;自有品牌谱表
+- **要问的问题**：贵司自有品牌外的三方补位政策谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波2.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：ALLNET Greece(希腊;=**ALLNET GmbH 国际网→Allnet Italia S.p.A 希腊延展臂**(allnet-italia.it 官方 Network 页自署:「strategic extension of Allnet Italia on the Greek market」);集团谱:ALLNET GmbH=1991 慕尼黑 Germering 创(35 年谱;€300M+ 营业额;三物流中心;领先 ICT 分销商+自有牌;ALLDIS 姊妹;**Allnet International Network=€500M+ 合计/60,000+ 欧洲伙伴/德意法瑞奥北欧中东欧+中国台湾直在**)
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Wolfgang Marcus Bauer(CEO & Founder, ALLNET GmbH(1991 创;集团创位;RocketReach CEO&Founder 谱),official-self-published·谱/leads-only(直发需 opt-in));Marc Plesse(ALLNET Product Manager(MClimate 分销稿引语具名),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **关注点与资质**：集团一线 ICT 分销+€300M 谱
-- **优缺点SWOT**：S 集团一线 ICT 分销+€300M 谱 / W 希腊在地具名谱未破 / O 集团 Bauer/PM Plesse 具名 / T 大牌厂商直供链
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):希腊 ALLNET 延展臂(集团一线 ICT 分销);Greece 在地谱未破:波次二点名(Allnet Italia 希腊队具名页)
+- **背景深描**：Allnet Italia 东南欧扩展谱;集团 1991 慕尼黑创 34/35 年;500M+ € 60k 伙伴
+- **芯片与在用型号**：自有 ALLNET PoE/PoE++/IoT 谱+第三方分销;白牌补位/差异化谱位
+- **关键人KP**：Wolfgang Marcus Bauer(Allnet GmbH 创人谱 P0 级)+Allnet Italia 管理谱(名未公开检索到)+B-001/B-138 库内谱口
+- **关注点与资质**：东南欧分销新支点 → 24 口 PoE 白牌补位(差异化)
+- **优缺点SWOT**：S=集团 500M+ €+60k 伙伴+34 年+东南欧新支点·W=自有 PoE 品牌竞合;希腊点法体谱未公开·O=东南欧 ICT 增长+新品引入·T=同集团旗下其他口(北欧/德)内部谱协
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):集团谱;东南欧增长;本地化伙伴支持;自有品牌竞合敏
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners(allnet-italia.it 官方页)
-  > ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners(allnet-italia.it 官方页)
+- **【集团谱】**ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe;ALLNET 网络 aggregate 500M+ € 60,000+ partners;直接 Germany, Italy, France, Switzerland, Austria, Northern Europe, Central and Eastern Europe, China and Taiwan
+  > ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe;ALLNET 网络 aggregate 500M+ € 60,000+ partners;直接 Germany, Italy, France, Switzerland, Austria, Northern Europe, Central and Eastern Europe, China and Taiwan
   > 来源：https://www.allnet-italia.it/en/allnet-international-network/
-- **【决策链与对接人】**ALLNET GmbH is the company that originated the network.Founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;EUR 500 million+ aggregate/60,000+ partners
-  > ALLNET GmbH is the company that originated the network.Founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;EUR 500 million+ aggregate/60,000+ partners
+- **【集团创谱】**ALLNET GmbH founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;three logistics centres;leading ICT distributor; proprietary solutions
+  > ALLNET GmbH founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;three logistics centres;leading ICT distributor; proprietary solutions
   > 来源：https://www.allnet-italia.it/en/allnet-international-network/
-- **【近期动态与线索】**ALLNET and MClimate distribution partnership(2023):responsible ALLNET product manager Marc Plesse;Violeta Mitsova CCO MClimate
-  > ALLNET and MClimate distribution partnership(2023):responsible ALLNET product manager Marc Plesse;Violeta Mitsova CCO MClimate
-  > 来源：https://mclimate.eu/blogs/blog/allnet-and-mclimate-established-a-distribution-partnership
+- **【自有品牌谱】**Allnet ALL-SG8005PD-BT90 Switch unmanaged 5 Port PoE++ 90W;ALLNET ALL4590 Powermetering Sensor;Powerline ALL1682503 500Mbps PoE injector;ALLNET ALL3500 IP Homeautomation Appliance(hellasdigital.gr 零售页)
+  > Allnet ALL-SG8005PD-BT90 Switch unmanaged 5 Port PoE++ 90W;ALLNET ALL4590 Powermetering Sensor;Powerline ALL1682503 500Mbps PoE injector;ALLNET ALL3500 IP Homeautomation Appliance(hellasdigital.gr 零售页)
+  > 来源：https://www.hellasdigital.gr/allnet/?sl=en
+- **【排噪档】**AllNetworks(Peristéra, Attiki 121 36;Founded 2003;Gold Partner of 3CX VoIP;info@allnetworks.gr;210.57.77.677)=同音别司MSP,非本户
+  > AllNetworks(Peristéra, Attiki 121 36;Founded 2003;Gold Partner of 3CX VoIP;info@allnetworks.gr;210.57.77.677)=同音别司MSP,非本户
+  > 来源：https://www.allnetworks.gr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +150,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S 集团一线 ICT 分销+€300M 谱 / W 希腊在地具名谱未破 / O 集团 Bauer/PM Plesse 具名 / T 大牌厂商直供链
+S=集团 500M+ €+60k 伙伴+34 年+东南欧新支点·W=自有 PoE 品牌竞合;希腊点法体谱未公开·O=东南欧 ICT 增长+新品引入·T=同集团旗下其他口(北欧/德)内部谱协
 
 ## 触达与风险红线
 
@@ -168,8 +178,9 @@ S 集团一线 ICT 分销+€300M 谱 / W 希腊在地具名谱未破 / O 集团
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] 希腊独立法体(ΓΕΜΗ)登档未公开检索到
+  - [ ] Allnet Italia 管理层具名待补
+  - [ ] 自有品牌 vs 白牌补位谱位需 B-001 谱核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,12 +192,7 @@ S 集团一线 ICT 分销+€300M 谱 / W 希腊在地具名谱未破 / O 集团
 **主题**：PoE switching for your line
 
 ```text
-
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
-
-Best regards,
-Saga Networks Export Desk
+Dear Allnet Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value complement for ICT distribution portfolios in Greece and South-East Europe. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

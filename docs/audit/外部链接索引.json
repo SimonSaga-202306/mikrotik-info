@@ -3670,6 +3670,24 @@
     ]
   },
   {
+    "url": "https://alliancy.fr/osmozis-multiplie-ses-petites-bornes-wifi-a15b523e-07df-4687-85e8-d69997b342b7",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L623"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L720"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L147"
+      }
+    ]
+  },
+  {
     "url": "https://allness.net/",
     "http_checked": false,
     "occurrences": [
@@ -4322,6 +4340,50 @@
       {
         "path": "profile/A/A-114-Amplitel Technologies-美国.md",
         "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/390778769",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L736"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L757"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L815"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L845"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L475"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L566"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -5806,6 +5868,24 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第35批.json",
         "locator": "L440"
+      }
+    ]
+  },
+  {
+    "url": "https://avisendanmark.dk/erhvervsbasen/nextron-aps-819849",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1048"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1137"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L135"
       }
     ]
   },
@@ -15156,6 +15236,42 @@
     ]
   },
   {
+    "url": "https://empresite.eleconomista.es/STRATO-NETWORKS.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L411"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://en.firmy.cz/company/159638-oem-automatic-zdiby.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://en.wikipedia.org/wiki/Elko_Grupa",
     "http_checked": false,
     "occurrences": [
@@ -15324,6 +15440,24 @@
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://entreprises.lefigaro.fr/high-design-technology-69/entreprise-390778769",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L772"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L863"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L141"
       }
     ]
   },
@@ -16514,14 +16648,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L6180"
-      },
-      {
-        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
-        "locator": "L137"
       }
     ]
   },
@@ -16548,14 +16674,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L8203"
-      },
-      {
-        "path": "profile/B/B-523-FGET International-法国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/B/B-523-FGET International-法国.md",
-        "locator": "L136"
       }
     ]
   },
@@ -19268,6 +19386,24 @@
     ]
   },
   {
+    "url": "https://fr.linkedin.com/company/osmozis-wifi-camping",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L618"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L714"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
     "url": "https://fr.linkedin.com/in/v%C3%A9ronique-goerger",
     "http_checked": false,
     "occurrences": [
@@ -21862,14 +21998,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L8322"
-      },
-      {
-        "path": "profile/B/B-524-HD Technology-法国.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-524-HD Technology-法国.md",
-        "locator": "L135"
       }
     ]
   },
@@ -23062,6 +23190,24 @@
     ]
   },
   {
+    "url": "https://indexa.fr/entreprise/fget-international/electricite-magasins-bilan.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L470"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L560"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
     "url": "https://indsol.com/",
     "http_checked": false,
     "occurrences": [
@@ -23508,6 +23654,28 @@
     ]
   },
   {
+    "url": "https://infocif.economia3.com/ficha-empresa/strato-networks-sl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L296"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L423"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
     "url": "https://infonet.fr/dirigeants/66a9dcb541b8769963e29093/",
     "http_checked": false,
     "occurrences": [
@@ -23558,8 +23726,20 @@
         "locator": "L134"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L465"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L554"
+      },
+      {
         "path": "profile/B/B-523-FGET International-法国.md",
         "locator": "L90"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L136"
       }
     ]
   },
@@ -23580,6 +23760,32 @@
       {
         "path": "profile/B/B-523-FGET International-法国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://infonet.fr/entreprises/32873256500044-fget/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L439"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L518"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L548"
+      },
+      {
+        "path": "profile/B/B-523-FGET International-法国.md",
+        "locator": "L133"
       }
     ]
   },
@@ -23674,6 +23880,28 @@
       {
         "path": "scripts/R66_R56_KP第19波_50户扩招落盘.py",
         "locator": "L509"
+      }
+    ]
+  },
+  {
+    "url": "https://infonif.economia3.com/ficha-empresa/strato-networks-sl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L375"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L131"
       }
     ]
   },
@@ -25128,14 +25356,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L1063"
-      },
-      {
-        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
-        "locator": "L137"
       }
     ]
   },
@@ -28490,6 +28710,24 @@
     ]
   },
   {
+    "url": "https://listafirme.eu/telesystems-company-srl-16461426/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1328"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1413"
+      },
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://lloret.co.uk/",
     "http_checked": false,
     "occurrences": [
@@ -30163,11 +30401,7 @@
       },
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L130"
+        "locator": "L88"
       }
     ]
   },
@@ -30191,7 +30425,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L74"
+        "locator": "L81"
       }
     ]
   },
@@ -40484,14 +40718,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L349"
-      },
-      {
-        "path": "profile/B/B-005-Nextron AS-丹麦.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-005-Nextron AS-丹麦.md",
-        "locator": "L135"
       }
     ]
   },
@@ -41822,14 +42048,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L7132"
-      },
-      {
-        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
-        "locator": "L135"
       }
     ]
   },
@@ -42428,14 +42646,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L8917"
-      },
-      {
-        "path": "profile/B/B-248-Osmozis S.A-法国.md",
-        "locator": "L135"
-      },
-      {
-        "path": "profile/B/B-248-Osmozis S.A-法国.md",
-        "locator": "L138"
       }
     ]
   },
@@ -47392,8 +47602,20 @@
         "locator": "L51"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L280"
+      },
+      {
         "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
         "locator": "L91"
+      },
+      {
+        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
+        "locator": "L143"
       }
     ]
   },
@@ -47738,6 +47960,56 @@
       {
         "path": "scripts/R66_R56_KP第22波_50户落盘.py",
         "locator": "L142"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1165"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1186"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1191"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1196"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1239"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1269"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1275"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1281"
+      },
+      {
+        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
+        "locator": "L134"
+      },
+      {
+        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-279-Irish Wireless-爱尔兰.md",
+        "locator": "L140"
       }
     ]
   },
@@ -54580,14 +54852,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L6418"
-      },
-      {
-        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
-        "locator": "L134"
       }
     ]
   },
@@ -55824,14 +56088,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L2491"
-      },
-      {
-        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
-        "locator": "L135"
       }
     ]
   },
@@ -55852,6 +56108,24 @@
       {
         "path": "scripts/R65_第3批精修落盘.py",
         "locator": "L69"
+      }
+    ]
+  },
+  {
+    "url": "https://termene.ro/firma/11344247-TELESYSTEMS-SRL",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1323"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1407"
+      },
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L135"
       }
     ]
   },
@@ -63530,16 +63804,40 @@
         "locator": "L406"
       },
       {
-        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L80"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L879"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L900"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L905"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L958"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L988"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L994"
       },
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L124"
+        "locator": "L87"
       },
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L127"
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L134"
       },
       {
         "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
@@ -63575,11 +63873,29 @@
     "occurrences": [
       {
         "path": "profile/B/B-115-Allnet.Greece-希腊.md",
-        "locator": "L73"
+        "locator": "L80"
       },
       {
         "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
         "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.allnetworks.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L915"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1006"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L140"
       }
     ]
   },
@@ -63918,6 +64234,24 @@
       {
         "path": "scripts/R66_R56_KP第22波_50户落盘.py",
         "locator": "L196"
+      }
+    ]
+  },
+  {
+    "url": "https://www.amministrazionicomunali.it/marche/ancona/fastnet-spa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
+        "locator": "L140"
       }
     ]
   },
@@ -70284,6 +70618,32 @@
     ]
   },
   {
+    "url": "https://www.companyreports.it/fastnet_spa-01391440425",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L153"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L174"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L262"
+      },
+      {
+        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
     "url": "https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0",
     "http_checked": false,
     "occurrences": [
@@ -75100,6 +75460,28 @@
     ]
   },
   {
+    "url": "https://www.detail.cz/firma/43875416-oem-automatic-spol-s-ro-prazska-239-zdiby/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L89"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://www.detail.cz/firma/47911263-proficomms-sro-olomoucka-1273-91-brno/",
     "http_checked": false,
     "occurrences": [
@@ -78154,6 +78536,24 @@
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://www.einforma.com/informacion-empresa/strato-networks",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L327"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L417"
+      },
+      {
+        "path": "profile/B/B-480-Ricardo Bernao Gonzalez - Stratonetworks-西班牙.md",
+        "locator": "L137"
       }
     ]
   },
@@ -83790,6 +84190,24 @@
     ]
   },
   {
+    "url": "https://www.hdtechnology.com/la-societe-hd-technology-qui-sommes-nous-2/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L767"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L857"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://www.hdtechnology.fr/",
     "http_checked": false,
     "occurrences": [
@@ -83924,6 +84342,24 @@
       {
         "path": "scripts/R66_R56_KP第24波_50户落盘.py",
         "locator": "L477"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hellasdigital.gr/allnet/?sl=en",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L910"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1000"
+      },
+      {
+        "path": "profile/B/B-115-Allnet.Greece-希腊.md",
+        "locator": "L137"
       }
     ]
   },
@@ -85220,6 +85656,24 @@
     ]
   },
   {
+    "url": "https://www.impresaitalia.info/kk04340748/fastnet-spa/ancona.aspx",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L179"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L268"
+      },
+      {
+        "path": "profile/B/B-163-Giorgio Marchetti - Fastnet-意大利.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus",
     "http_checked": false,
     "occurrences": [
@@ -85614,12 +86068,24 @@
         "locator": "L63"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L125"
+      },
+      {
         "path": "batch/KP猎捕_B_R64_第1批.json",
         "locator": "L13"
       },
       {
         "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L135"
       }
     ]
   },
@@ -89268,6 +89734,32 @@
       {
         "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
         "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.krak.dk/nextron+aps+frederiksberg+c/133177021/firma",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1022"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1043"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1101"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1131"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L132"
       }
     ]
   },
@@ -99568,6 +100060,18 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第19批.json",
         "locator": "L35"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L762"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L851"
+      },
+      {
+        "path": "profile/B/B-524-HD Technology-法国.md",
+        "locator": "L135"
       }
     ]
   },
@@ -106112,6 +106616,24 @@
     ]
   },
   {
+    "url": "https://www.northdata.com/Nextron%20ApS,%20Frederiksberg/CVR%2038306979",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1053"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1143"
+      },
+      {
+        "path": "profile/B/B-005-Nextron AS-丹麦.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://www.northdata.com/bod%20networks%20GmbH,%20Chemnitz/HRB%209168",
     "http_checked": false,
     "occurrences": [
@@ -107022,6 +107544,28 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第11批.json",
         "locator": "L61"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oemautomatic.cz/kontakty",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
+        "locator": "L138"
       }
     ]
   },
@@ -111438,6 +111982,32 @@
       {
         "path": "scripts/R66_R56_KP第12波落盘.py",
         "locator": "L45"
+      }
+    ]
+  },
+  {
+    "url": "https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1297"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1318"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1371"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L1401"
+      },
+      {
+        "path": "profile/B/B-320-TELESYSTEM-罗马尼亚.md",
+        "locator": "L132"
       }
     ]
   },
@@ -118692,6 +119262,32 @@
     ]
   },
   {
+    "url": "https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L582"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L603"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L666"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L696"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.verif.com/en/company/PCV-Computers-s--r--o--68d9e0941299230338adfe56/",
     "http_checked": false,
     "occurrences": [
@@ -123092,6 +123688,36 @@
       {
         "path": "profile/B/B-520-TECON s.r.o-捷克.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L608"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L613"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L702"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L708"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/B/B-248-Osmozis S.A-法国.md",
+        "locator": "L141"
       }
     ]
   },

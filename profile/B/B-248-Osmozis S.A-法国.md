@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**…
+- **是谁**：2005 创 21 年上市 ALOSM;Clapiers;CA €14.6M 2024;29k 设备/2000 站/290k 位…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(Os | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2005 创 21 年上市 ALOSM;Clapiers;CA €14.6M 2024;29k 设备/2000 站/290k 位 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | WiFi mesh+LoRa IoT 运营;自有设备谱;PoE 24 口=营地 AP/CPE 供电白牌 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批2·B-248:法谱: **OSMOZIS 上市谱深挖(zonebourse/verif/LI/alliancy/presseagence 六源互证)**:**SIREN 485156418,SIRET 48515641800058,TVA FR77485156418;Capital 4,282,650 €;2005 创(Gérard Tremblay 创);SA;7 avenue de l'Europe,34830 Clapiers(Hérault,Montpellier);**2016-02 Euronext Alternext Paris 上市(ticker ALOSM/FR0013231180)=库内首家上市谱深挖**;2024 财年(31/12/2024)营收 **14,599,240 €**(verif 档);最近三年连续约 +10% 增长(LI 2024 档);77 salariés(2016 alliancy 档,近年约百人谱)**;**业务=欧洲露营/度假村 WiFi+IoT 专业运营商:15 年铺 **29,000+ WiFi/LoRaWan 自有设备、约 2,000 站、290,000+ 露营位**(LI 档);CA 构成 2024=WiFi 接入销售 53%+IoT 连线服务 30.6%+专业服务 16.4%(zonebourse);ISO 9001+26000;**军工级 mesh WiFi 技术起家(自创塔=嵌入式谱);客户服务 Homair/Vacalians/Siblu/Odalys 露营集团**;2014 西班牙、2015 意大利、德国分站、荷兰首客(Mattenburg Nieuw Vossemeer)国际谱**;**KP 治理金谱:**Gérard Tremblay(PDG/Directeur Général 61 岁,2005-11-25 至今 21 年 P0,co-fondateur)+Christophe Nee(DFI CFO 档)+Claudine Plisson(ADM 2010-01-01)+Rémi Soulage(CTO 42)+Pierre Benoît LABBE(Directeur Général Osmozis LI 档)+Patrick LAYANI(GM verif 档)+Yves Boulot(co-fondateur 历史谱)+Darren Schuller+Jean Hatziraptis(Conseil BRD 2019/2021 档)=8-9 人谱;董事会主席 PASSMAN CONNECT(verif 档=法人主席谱注)**;**谱位=欧洲露营地 WiFi/IoT 运营商 = 户外/RF 谱位对口(CPE/接入/AP 谱);上市治理规范=中层对接制法:董事层+运营层双轨。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+WiFi mesh+LoRa IoT 运营;自有设备谱;PoE 24 口=营地 AP/CPE 供电白牌
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -95,47 +95,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Tremblay PDG+Nee CFO 双轨
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：PDG 21 年+CFO → 24 口 PoE 白牌(营地 AP/CPE 供电)
+- **要问的问题**：贵司营地接入部署的 24 口 PoE 交换机集购由哪位同事主责?
+- **随附/动作**：ZoneBourse/verif 6 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Soulage CTO+Labbé DG
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：CTO 42+DG 运营谱=技术对线
+- **要问的问题**：贵司 mesh 设备线的 24 口 PoE 白牌补位谱口?
+- **随附/动作**：谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Layani GM+Schuller 董事
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：GM+董事会谱=中英轨
+- **要问的问题**：贵司欧洲 2,000 站设备供货谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2005 创 21 年上市 ALOSM;Clapiers;CA €14.6M 2024;29k 设备/2000 站/290k 位
+- **芯片与在用型号**：WiFi mesh+LoRa IoT 运营;自有设备谱;PoE 24 口=营地 AP/CPE 供电白牌
+- **关键人KP**：Tremblay(PDG 21 年)+Nee(CFO)+Soulage(CTO 42)+Labbé(DG)+Layani(GM)+Plisson/Schuller/Hatziraptis/Boulot=9 人谱;PASSMAN CONNECT 主席法人档
+- **关注点与资质**：户外规模接入运营 → 24 口 PoE 白牌(AP/CPE 供电,谱位互补)
+- **优缺点SWOT**：S=上市+€14.6M+2000 站规模+ISO 双证·W=采购流程规范决策周期长;自有硬件谱互补定位·O=营地 WiFi/IoT 升级潮=白牌件口·T=UBNT/TP-Link 专业线竞争;mesh 自研谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):上市规范流程;欧洲多国;ISO 双证;自有硬件谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes
-  > Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes
-  > 来源：https://osmozis.com/
-- **【联系方式与基础画像】**CSV 入口:+33 4 11 93 27 51 / support@osmozis.com
-  > CSV 入口:+33 4 11 93 27 51 / support@osmozis.com
-  > 来源：https://osmozis.com/
+- **【上市/登册】**OSMOZIS;SIREN 485156418;TVA FR77485156418;Capital 4 282 650 €;créée 2005;chiffre d'affaires 14 599 240 €(31/12/2024);PASSMAN CONNECT President;Patrick LAYANI General Manager;7 AVENUE DE L EUROPE 34830 CLAPIERS
+  > OSMOZIS;SIREN 485156418;TVA FR77485156418;Capital 4 282 650 €;créée 2005;chiffre d'affaires 14 599 240 €(31/12/2024);PASSMAN CONNECT President;Patrick LAYANI General Manager;7 AVENUE DE L EUROPE 34830 CLAPIERS
+  > 来源：https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/
+- **【业务谱】**CA par activité: vente d'accès Internet wifi 53%;prestations IoT connectés 30,6%;prestations de services connectés professionnels 16,4%;ALOSM FR0013231180
+  > CA par activité: vente d'accès Internet wifi 53%;prestations IoT connectés 30,6%;prestations de services connectés professionnels 16,4%;ALOSM FR0013231180
+  > 来源：https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/
+- **【治理谱】**Gerard Tremblay CEO Directeur Général 61 ans depuis 25/11/2005;Christophe Nee CFO;Claudine Plisson ADM depuis 01/01/2010;Rémi Soulage CTO 42;Pierre Benoit Labbé Corporate Officer;Board: Rémi Soulage/Darren Schuller(12/02/2019)/Jean Hatziraptis(12/02/2021)
+  > Gerard Tremblay CEO Directeur Général 61 ans depuis 25/11/2005;Christophe Nee CFO;Claudine Plisson ADM depuis 01/01/2010;Rémi Soulage CTO 42;Pierre Benoit Labbé Corporate Officer;Board: Rémi Soulage/Darren Schuller(12/02/2019)/Jean Hatziraptis(12/02/2021)
+  > 来源：https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/
+- **【规模谱】**parc installé et propriétaire de plus de 29 000 équipements WiFi/LoRaWan sur environ 2000 sites en Europe qui couvrent plus de 290 000 emplacements;ISO 9001 & 26000;progression CA +10% troisième exercice consécutif
+  > parc installé et propriétaire de plus de 29 000 équipements WiFi/LoRaWan sur environ 2000 sites en Europe qui couvrent plus de 290 000 emplacements;ISO 9001 & 26000;progression CA +10% troisième exercice consécutif
+  > 来源：https://fr.linkedin.com/company/osmozis-wifi-camping
+- **【创司史】**Création 2005;Effectif 77;CA août 2016: 8,2 M€(+24%/an);technologie wifi maillé issue du domaine militaire;clients Homair, Vacalians, Siblu, Odalys
+  > Création 2005;Effectif 77;CA août 2016: 8,2 M€(+24%/an);technologie wifi maillé issue du domaine militaire;clients Homair, Vacalians, Siblu, Odalys
+  > 来源：https://alliancy.fr/osmozis-multiplie-ses-petites-bornes-wifi-a15b523e-07df-4687-85e8-d69997b342b7
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +157,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=上市+€14.6M+2000 站规模+ISO 双证·W=采购流程规范决策周期长;自有硬件谱互补定位·O=营地 WiFi/IoT 升级潮=白牌件口·T=UBNT/TP-Link 专业线竞争;mesh 自研谱
 
 ## 触达与风险红线
 
@@ -176,8 +185,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位在售线需 osmozis.com 核(谱口未公开检索到)
+  - [ ] Tremblay/Labbé 直邮推 osmozis.com 域档
+  - [ ] FY2025 年报补档
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,12 +199,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Osmozis S.A. Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Gérard and Osmozis Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value unit for powering WiFi APs and CPEs across campground and holiday-resort networks. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

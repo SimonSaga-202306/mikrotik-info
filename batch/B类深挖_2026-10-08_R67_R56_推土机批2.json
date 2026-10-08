@@ -1,0 +1,1428 @@
+{
+ "records": [
+  {
+   "customer": "B-200",
+   "code": "B-200",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-200:捷谱: **OEM Automatic, spol. s r.o. 深挖(官网 kontakty/info-cechy/zivefirmy/detail.cz/firmy.cz ARES 六源互证)**:**IČO 43875416,DIČ CZ43875416,1991-11-18 创(35 年老谱!);S.r.o. 有限责任公司;Pražská 239,250 66 Zdiby(中捷克,Praha-východ);Městský soud v Praze 注册,oddíl C vložka 5448;Datová schránka 54f27dz;+420 241 484 940;info@oemautomatic.cz;www.oemautomatic.cz;银行谱:CZK účet 256247111/0100,EUR účet 19-8739140227/0100,IBAN CZ5901000000000256247111,SWIFT KOMBCZPPXXX**;**业务=工业自动化与电气元件批发(velkoobchod komponenty pro průmyslovou automatizaci a elektrotechniku);detail.cz 评述「Společnost je velmi úspěšná,dosahuje vysokých obratů,patří do horních 10 % firem v ČR a zaměstnává desítky zaměstnanců」=**捷克全国营业额前 10% 公司,数十名员工**;近两个观察期营收持平(stagnuje)注;领导层 35 年共 11 人轮换谱**;**品牌官网谱:ABB,Aignep,Asco,Auer,Autonics,Crouzet,Datalogic,Henkel,Microsonic,Molex,Panasonic,Socomec,Stego=13 家专供厂商线(压力/温度/流量测量、气体液体传感自动化谱)**;**KP 金谱:Jan Drlík(ředitel společnosti=公司经理/总经理,info-cechy 档 P0)+Adam Stoklasa(obchodně-technický zástupce 商务技术代表=采购沟通口)+Ctibor Bednář(info-cechy 档联系人)=3 人谱**;**谱位=捷克工业自动化元件批发老司(35 年)=OEM Automatic 集团族谱同名(oemautomatic.cz 独立捷域)+全国前 10% 营业额+Molex/Panasonic/Datalogic 元件谱=我方 24 口 PoE 对工业自动化客户的 OEM/分销线对口=B-200 谱位钩**。排噪:与瑞典 OEM Automatic AB(批 6 深挖母司谱)同名域不同法体=集团族谱关系注。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.oemautomatic.cz/kontakty",
+   "tech": "工业自动化与电气元件批发(压力/温度/流量测量);ABB/Datalogic/Molex/Panasonic/Autonics 等 13 品牌线",
+   "hr": "数十名员工(detail.cz 档);35 年;Zdiby 单点;全国营业额前 10%;营收近期持平注",
+   "contact_found": "**Jan Drlík(ředitel společnosti 总经理 P0)+Adam Stoklasa(商务技术代表)+Ctibor Bednář(联系人谱)**",
+   "contact_pending": "具名直邮需推档;info@oemautomatic.cz CSV 既有台口;司谱 11 人轮换档",
+   "dims": {
+    "业务定位": "OEM Automatic, spol. s r.o.(Zdiby,1991 创 35 年):捷克工业自动化/电气元件批发,全国营业额前 10%",
+    "产品线与在售品牌": "ABB/Aignep/Asco/Auer/Autonics/Crouzet/Datalogic/Henkel/Microsonic/Molex/Panasonic/Socomec/Stego 13 家厂商元件;传感测量自动化",
+    "目标行业与场景": "工业自动化客户:机械/OEM 厂/自动化集成商;中捷克+全国",
+    "团队与规模": "数十名员工;35 年;前 10% 营业额;近两期持平",
+    "决策链与对接人": "Jan Drlík(总经理)+Stoklasa(商务技术)+Bednář,11 人领导轮换谱",
+    "技术与认证": "不需要中重资质;贸易公司信贷谱;SWIFT KOMBCZPP 银行谱",
+    "采购与供应链信号": "**35 年自动化专供=新品 PoE 接入线对口;Drlík 直邮谱口**",
+    "近期动态与线索": "品牌谱 13 家既有代理线=Stego/Socomec 电柜环境类已铺",
+    "与我方契合点": "Drlík 总经理+Stoklasa 商务技术双轨 → 24 口 PoE(自动化传感网络接入)",
+    "风险与注意": "**营收持平=扩张谨慎谱注;领导轮换 11 人注;与瑞典 OEM Automatic AB 同族法体区分**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "OEM Automatic, spol. s r.o.;IČO 43875416;DIČ CZ43875416;založena 18. listopadu 1991;Pražská 239, 250 66 Zdiby;Městský soud v Praze, oddíl C, vložka 5448;Datová schránka 54f27dz",
+     "source": "https://www.detail.cz/firma/43875416-oem-automatic-spol-s-ro-prazska-239-zdiby/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Jan Drlík ředitel společnosti;Adam Stoklasa obchodně-technický zástupce;Ctibor Bednář;info-cechy 联系档",
+     "source": "https://www.info-cechy.cz/eig-oem-automatic/index.html"
+    },
+    {
+     "dim": "登册/电口",
+     "quote": "OEM Automatic, spol. s r. o.;Pražská 239, 250 66 Zdiby;Tel +420 241 484 940;info@oemautomatic.cz;www.oemautomatic.cz;IČO 43875416;Č.ú. 256247111/0100;IBAN CZ5901000000000256247111;SWIFT KOMBCZPPXXX",
+     "source": "https://www.oemautomatic.cz/kontakty"
+    },
+    {
+     "dim": "规模/品牌",
+     "quote": "horních 10 % firem v ČR;desítky zaměstnanců;obrat stagnuje;11 lidí ve vedení;Wholesale of components for industrial automation and electrical engineering from manufacturers such as ABB, Aignep, Asco, Auer, Autonics, Crouzet, Datalogic, Henkel, Microsonic, Molex, Panasonic, Socomec, Stego",
+     "source": "https://en.firmy.cz/company/159638-oem-automatic-zdiby.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Drlík 总经理 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "总经理 35 年老司 → 24 口 PoE(自动化传感网络接入新品线)",
+     "question": "贵司自动化元件线的 24 口 PoE 交换机引入由哪位同事主责?",
+     "proof": "官网/info-cechy 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Stoklasa 商务技术代表",
+     "push": "STI-288GPM/424",
+     "angle": "商务技术代表=技术评估口;传感测量谱",
+     "question": "贵司传感测量 liniové 线的网络件谱口?",
+     "proof": "谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Bednář+一般商务线",
+     "push": "STC-28DGGPM",
+     "angle": "Molex/Panasonic 既有品牌谱=同地理谱位",
+     "question": "贵司 13 品牌线的 PoE 谱对位?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1991 创 35 年;Zdiby(中捷克);s.r.o.;前 10% 营业额;银行谱齐",
+     "②芯片/型号": "自动化元件批发;传感测量;24 口 PoE=OEM 机器网络接入新品线",
+     "③KP 深挖": "Jan Drlík(总经理)+Adam Stoklasa(商务技术代表)+Ctibor Bednář=3 人 info-cechy 谱,11 人领导轮换档",
+     "④Saga 对标": "捷克自动化专供 → 24 口 PoE 传感网络接入(OEM 对白牌谱位)",
+     "⑤在乎与偏好": "35 年专供谱;13 品牌线;前 10% 营业额;持平保守谱",
+     "⑥SWOT": "S=35 年老谱+前 10% 营业额+13 品牌专供/W=营收持平;全国同族 OEM Automatic AB 法体区分注/O=自动化传感网络升级潮,PoE 接入线口/T=波兰/德国自动化竞争,瑞典母司可能内部采购"
+    },
+    "care": "- **S**:35 年老谱+前 10% 营业额+13 品牌专供\n- **W**:营收持平;全国同族 OEM Automatic AB 法体区分注\n- **O**:自动化传感网络升级潮,PoE 接入线口\n- **T**:波兰/德国自动化竞争,瑞典母司可能内部采购",
+    "swot": {
+     "S": "35 年老谱+前 10% 营业额+13 品牌专供",
+     "W": "营收持平;全国同族 OEM Automatic AB 法体区分注",
+     "O": "自动化传感网络升级潮,PoE 接入线口",
+     "T": "波兰/德国自动化竞争,瑞典母司可能内部采购"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.detail.cz/firma/43875416-oem-automatic-spol-s-ro-prazska-239-zdiby/"
+   },
+   "unknowns": [
+    "MikroTik 谱位品牌页需核(oemautomatic.cz)",
+    "Drlík 直邮推档",
+    "营收绝对数未公开(detail.cz 只述前 10% 档)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位品牌页需核(oemautomatic.cz)",
+    "Drlík 直邮推档",
+    "营收绝对数未公开(detail.cz 只述前 10% 档)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Jan and Adam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural addition for industrial automation and sensor-network access alongside your ABB, Datalogic and Autonics lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Jan Drlík(总经理 P0)+Adam Stoklasa(商务技术代表)+Ctibor Bednář**; info@oemautomatic.cz(CSV 既有); +420 241 484 940",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1991 创 35 年;Zdiby(中捷克);s.r.o.;前 10% 营业额;银行谱齐",
+    "芯片与在用型号": "自动化元件批发;传感测量;24 口 PoE=OEM 机器网络接入新品线",
+    "关键人KP": "Jan Drlík(总经理)+Adam Stoklasa(商务技术代表)+Ctibor Bednář=3 人 info-cechy 谱,11 人领导轮换档",
+    "关注点与资质": "捷克自动化专供 → 24 口 PoE 传感网络接入(OEM 对白牌谱位)",
+    "优缺点SWOT": "S=35 年老谱+前 10% 营业额+13 品牌专供·W=营收持平;全国同族 OEM Automatic AB 法体区分注·O=自动化传感网络升级潮,PoE 接入线口·T=波兰/德国自动化竞争,瑞典母司可能内部采购",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):35 年专供谱;13 品牌线;前 10% 营业额;持平保守谱"
+   },
+   "swot_text": "- **S**:35 年老谱+前 10% 营业额+13 品牌专供\n- **W**:营收持平;全国同族 OEM Automatic AB 法体区分注\n- **O**:自动化传感网络升级潮,PoE 接入线口\n- **T**:波兰/德国自动化竞争,瑞典母司可能内部采购",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "OEM Automatic, spol. s r.o.;IČO 43875416;DIČ CZ43875416;založena 18. listopadu 1991;Pražská 239, 250 66 Zdiby;Městský soud v Praze, oddíl C, vložka 5448;Datová schránka 54f27dz",
+     "quote": "OEM Automatic, spol. s r.o.;IČO 43875416;DIČ CZ43875416;založena 18. listopadu 1991;Pražská 239, 250 66 Zdiby;Městský soud v Praze, oddíl C, vložka 5448;Datová schránka 54f27dz",
+     "url": "https://www.detail.cz/firma/43875416-oem-automatic-spol-s-ro-prazska-239-zdiby/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "text": "Jan Drlík ředitel společnosti;Adam Stoklasa obchodně-technický zástupce;Ctibor Bednář;info-cechy 联系档",
+     "quote": "Jan Drlík ředitel společnosti;Adam Stoklasa obchodně-technický zástupce;Ctibor Bednář;info-cechy 联系档",
+     "url": "https://www.info-cechy.cz/eig-oem-automatic/index.html"
+    },
+    {
+     "dim": "登册/电口",
+     "text": "OEM Automatic, spol. s r. o.;Pražská 239, 250 66 Zdiby;Tel +420 241 484 940;info@oemautomatic.cz;www.oemautomatic.cz;IČO 43875416;Č.ú. 256247111/0100;IBAN CZ5901000000000256247111;SWIFT KOMBCZPPXXX",
+     "quote": "OEM Automatic, spol. s r. o.;Pražská 239, 250 66 Zdiby;Tel +420 241 484 940;info@oemautomatic.cz;www.oemautomatic.cz;IČO 43875416;Č.ú. 256247111/0100;IBAN CZ5901000000000256247111;SWIFT KOMBCZPPXXX",
+     "url": "https://www.oemautomatic.cz/kontakty"
+    },
+    {
+     "dim": "规模/品牌",
+     "text": "horních 10 % firem v ČR;desítky zaměstnanců;obrat stagnuje;11 lidí ve vedení;Wholesale of components for industrial automation and electrical engineering from manufacturers such as ABB, Aignep, Asco, Auer, Autonics, Crouzet, Datalogic, Henkel, Microsonic, Molex, Panasonic, Socomec, Stego",
+     "quote": "horních 10 % firem v ČR;desítky zaměstnanců;obrat stagnuje;11 lidí ve vedení;Wholesale of components for industrial automation and electrical engineering from manufacturers such as ABB, Aignep, Asco, Auer, Autonics, Crouzet, Datalogic, Henkel, Microsonic, Molex, Panasonic, Socomec, Stego",
+     "url": "https://en.firmy.cz/company/159638-oem-automatic-zdiby.html"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-200:捷谱: **OEM Automatic, spol. s r.o. 深挖(官网 kontakty/info-cechy/zivefirmy/detail.cz/firmy.cz ARES 六源互证)**:**IČO 43875416,DIČ CZ43875416,1991-11-18 创(35 年老谱!);S.r.o. 有限责任公司;Pražská 239,250 66 Zdiby(中捷克,Praha-východ);Městský soud v Praze 注册,oddíl C vložka 5448;Datová schránka 54f27dz;+420 241 484 940;info@oemautomatic.cz;www.oemautomatic.cz;银行谱:CZK účet 256247111/0100,EUR účet 19-8739140227/0100,IBAN CZ5901000000000256247111,SWIFT KOMBCZPPXXX**;**业务=工业自动化与电气元件批发(velkoobchod komponenty pro průmyslovou automatizaci a elektrotechniku);detail.cz 评述「Společnost je velmi úspěšná,dosahuje vysokých obratů,patří do horních 10 % firem v ČR a zaměstnává desítky zaměstnanců」=**捷克全国营业额前 10% 公司,数十名员工**;近两个观察期营收持平(stagnuje)注;领导层 35 年共 11 人轮换谱**;**品牌官网谱:ABB,Aignep,Asco,Auer,Autonics,Crouzet,Datalogic,Henkel,Microsonic,Molex,Panasonic,Socomec,Stego=13 家专供厂商线(压力/温度/流量测量、气体液体传感自动化谱)**;**KP 金谱:Jan Drlík(ředitel společnosti=公司经理/总经理,info-cechy 档 P0)+Adam Stoklasa(obchodně-technický zástupce 商务技术代表=采购沟通口)+Ctibor Bednář(info-cechy 档联系人)=3 人谱**;**谱位=捷克工业自动化元件批发老司(35 年)=OEM Automatic 集团族谱同名(oemautomatic.cz 独立捷域)+全国前 10% 营业额+Molex/Panasonic/Datalogic 元件谱=我方 24 口 PoE 对工业自动化客户的 OEM/分销线对口=B-200 谱位钩**。排噪:与瑞典 OEM Automatic AB(批 6 深挖母司谱)同名域不同法体=集团族谱关系注。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-163",
+   "code": "B-163",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-163:意谱: **FASTNET S.p.A. 深挖(companyreports/amministrazionicomunali/kuvo/impresaitalia/rocketreach 五源互证)**:**P.IVA 01391440425,Codice Fiscale 同号,Società per Azioni(SpA),1995-04-28 创(应 31 年 谱记「Dal 1999」双注,以 CamCom 登 1995 为准);REA AN 128444(Ancona 商会);Via Oliviero Zuccarini 1,60131 Ancona;071 2900430;www.fastnet.it;ATECO 62.09(信息技术相关服务;impresaitalia 档 64204 telematica双记),MePA 公共采购供应商名录 2024**;**业务=区域光纤/无线接入+云数据中心+VoIP 通信集成(Fastnet Ancona 谱;rocketreach 员工档);2023 营收 €1,839,085,2021 营收 €1,443,024(2021 vs 2020 -188,443€ 下行档注),2023 净利 **-212,402€** 亏损(companyreports 档=风险谱);10-19 员工(impresaitalia 估计窗);营收 1.5-2.5 M€(impresaitalia 类)**;**KP 金谱:Giorgio Marchetti(Sales Manager @ FASTNET,RocketReach 档;g 开头邮箱 @fastnet.it 域;Ancona 区域=我档 CSV 谱口同名同域互证)+Amministratore Delegato 登档名需 visura camerale 核(未公开免费档获取)=1 明+1 待核谱**;**谱位=马尔凯大区 30 年区域通信集成商+MePA 公共采购资格=公共/企业 WiFi/PoE 谱位对口**;排噪:「Fastnet」名国内多司(意有不同 Fastnet 通信司),以 P.IVA 01391440425 Ancona Zuccarini 正锁。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.companyreports.it/fastnet_spa-01391440425",
+   "tech": "区域光纤/无线 ISP+云数据中心+VoIP 集成;MePA 公共采购谱",
+   "hr": "10-19 员工;31 年(1995-04-28);2023 营收 €1.84M,净利 -212k€ 亏损风险注",
+   "contact_found": "**Giorgio Marchetti(Sales Manager P0)+Amministratore 待 visura 核**",
+   "contact_pending": "Marchetti g*@fastnet.it 域直邮可推;071 2900430 CSV 台口谱",
+   "dims": {
+    "业务定位": "FASTNET S.p.A.(Ancona,1995 创 31 年):马尔凯大区区域 ISP/云/VoIP 集成商,MePA 公共采购名录",
+    "产品线与在售品牌": "光纤/无线接入+数据中心托管+VoIP;ATECO 62.09 IT 服务;区域集成谱",
+    "目标行业与场景": "Ancona 企业/公共部门/酒店企业客;MePA 公共采购",
+    "团队与规模": "10-19 员工;31 年;营收 €1.84M(2023);净利 -212k€ 亏损",
+    "决策链与对接人": "Giorgio Marchetti(Sales Manager)+管理董事待核",
+    "技术与认证": "MePA 资格=公共投标签署谱;SpA 法定审计档",
+    "采购与供应链信号": "**公共/酒店/企业 WiFi+监控 PoE 项目=24 口 280W 对口;区域 ISP 接入谱**",
+    "近期动态与线索": "MePA 2024 名录在册;2021 营收下行+2023 亏损=资金敏感谱注",
+    "与我方契合点": "Marchetti 销售铺路基 → 24 口 PoE(公共/企业 WiFi AP/监控供电)",
+    "风险与注意": "**2023 净亏+2021 下行=回款风险谱;Marchetti 谱源单一(RocketReach)需电话核**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "FASTNET - S.P.A.;Partita IVA 01391440425;Via Oliviero Zuccarini 1, Ancona;Società per Azioni;REA AN 128444;fondazione 28/04/1995;ATECO 62.09",
+     "source": "https://www.companyreports.it/fastnet_spa-01391440425"
+    },
+    {
+     "dim": "财务档",
+     "quote": "Fatturato 2023: 1.839.085 €;utile netto 2023: -212.402 €;2021 fatturato 1.443.024 €(-188.443 € vs 2020);fascia 1,5-2,5 M€;10-19 dipendenti;Telefono 0712900430;www.fastnet.it",
+     "source": "https://www.impresaitalia.info/kk04340748/fastnet-spa/ancona.aspx"
+    },
+    {
+     "dim": "MePA/公共谱",
+     "quote": "MePA - Scheda Fornitore: FASTNET - S.P.A.;Anno di riferimento 2024;Partita iva 01391440425;Sede legale Ancona, Marche",
+     "source": "https://www.amministrazionicomunali.it/marche/ancona/fastnet-spa"
+    },
+    {
+     "dim": "KP 档",
+     "quote": "Giorgio Marchetti Sales Manager @ FASTNET;Ancona, IT;RocketReach 档;g******@fastnet.it",
+     "source": "https://rocketreach.co/giorgio-marchetti-email_127258904"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Marchetti 销售经理",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Sales Manager → 24 口 PoE(公共/企业 WiFi 监控供电)",
+     "question": "贵司企业/公共 WiFi 项目的 24 口 PoE 交换机选型由哪位同事主责?",
+     "proof": "CamCom/RocketReach 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · MePA 公共采购线",
+     "push": "STI-288GPM/424",
+     "angle": "MePA 名录谱=公共投标线;区域 ISP 集成谱",
+     "question": "MePA 投标线的网络交换机预算节奏?",
+     "proof": "MePA 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 总监层面(visura 核后)",
+     "push": "STC-28DGGPM",
+     "angle": "SpA 管理董事登档核后对接",
+     "question": "贵司技术董事会谱口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1995 创 31 年;Ancona;SpA;区域 ISP+数据中心+VoIP;MePA 名录",
+     "②芯片/型号": "光纤/无线+云+VoIP 集成;PoE 24 口=企业/公共 WiFi 供电线",
+     "③KP 深挖": "Giorgio Marchetti(Sales Manager@fastnet.it 域)+Amministratore 待 visura 核",
+     "④Saga 对标": "区域 ISP 公共谱 → 24 口 PoE(WiFi AP/监控供电项目件)",
+     "⑤在乎与偏好": "MePA 公共采购节奏;意语沟通;预算敏感(亏损谱)",
+     "⑥SWOT": "S=31 年区域 ISP+MePA 名录+SpA/W=2023 净亏+2021 下行;KP 单谱源/O=公共/企业 WiFi+监控 PoE 项目线/T=大 ISP 竞争(TIM/Open Fiber);资金敏感"
+    },
+    "care": "- **S**:31 年区域 ISP+MePA 名录+SpA\n- **W**:2023 净亏+2021 下行;KP 单谱源\n- **O**:公共/企业 WiFi+监控 PoE 项目线\n- **T**:大 ISP 竞争(TIM/Open Fiber);资金敏感",
+    "swot": {
+     "S": "31 年区域 ISP+MePA 名录+SpA",
+     "W": "2023 净亏+2021 下行;KP 单谱源",
+     "O": "公共/企业 WiFi+监控 PoE 项目线",
+     "T": "大 ISP 竞争(TIM/Open Fiber);资金敏感"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.companyreports.it/fastnet_spa-01391440425"
+   },
+   "unknowns": [
+    "Amministratore Delegato 登档 visura 待核(付费档)",
+    "Marchetti 直邮推档",
+    "MikroTik 在售谱位需 fastnet.it 核(谱口未公开检索到)"
+   ],
+   "unknowns56": [
+    "Amministratore Delegato 登档 visura 待核(付费档)",
+    "Marchetti 直邮推档",
+    "MikroTik 在售谱位需 fastnet.it 核(谱口未公开检索到)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Giorgio,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — well suited for your enterprise, hospitality and public-sector WiFi and CCTV deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Giorgio Marchetti(Sales Manager,g*@fastnet.it 域可推)**; info@fastnet.it(CSV 既有疑); +39 071 2900430",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1995 创 31 年;Ancona;SpA;区域 ISP+数据中心+VoIP;MePA 名录",
+    "芯片与在用型号": "光纤/无线+云+VoIP 集成;PoE 24 口=企业/公共 WiFi 供电线",
+    "关键人KP": "Giorgio Marchetti(Sales Manager@fastnet.it 域)+Amministratore 待 visura 核",
+    "关注点与资质": "区域 ISP 公共谱 → 24 口 PoE(WiFi AP/监控供电项目件)",
+    "优缺点SWOT": "S=31 年区域 ISP+MePA 名录+SpA·W=2023 净亏+2021 下行;KP 单谱源·O=公共/企业 WiFi+监控 PoE 项目线·T=大 ISP 竞争(TIM/Open Fiber);资金敏感",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):MePA 公共采购节奏;意语沟通;预算敏感(亏损谱)"
+   },
+   "swot_text": "- **S**:31 年区域 ISP+MePA 名录+SpA\n- **W**:2023 净亏+2021 下行;KP 单谱源\n- **O**:公共/企业 WiFi+监控 PoE 项目线\n- **T**:大 ISP 竞争(TIM/Open Fiber);资金敏感",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "FASTNET - S.P.A.;Partita IVA 01391440425;Via Oliviero Zuccarini 1, Ancona;Società per Azioni;REA AN 128444;fondazione 28/04/1995;ATECO 62.09",
+     "quote": "FASTNET - S.P.A.;Partita IVA 01391440425;Via Oliviero Zuccarini 1, Ancona;Società per Azioni;REA AN 128444;fondazione 28/04/1995;ATECO 62.09",
+     "url": "https://www.companyreports.it/fastnet_spa-01391440425"
+    },
+    {
+     "dim": "财务档",
+     "text": "Fatturato 2023: 1.839.085 €;utile netto 2023: -212.402 €;2021 fatturato 1.443.024 €(-188.443 € vs 2020);fascia 1,5-2,5 M€;10-19 dipendenti;Telefono 0712900430;www.fastnet.it",
+     "quote": "Fatturato 2023: 1.839.085 €;utile netto 2023: -212.402 €;2021 fatturato 1.443.024 €(-188.443 € vs 2020);fascia 1,5-2,5 M€;10-19 dipendenti;Telefono 0712900430;www.fastnet.it",
+     "url": "https://www.impresaitalia.info/kk04340748/fastnet-spa/ancona.aspx"
+    },
+    {
+     "dim": "MePA/公共谱",
+     "text": "MePA - Scheda Fornitore: FASTNET - S.P.A.;Anno di riferimento 2024;Partita iva 01391440425;Sede legale Ancona, Marche",
+     "quote": "MePA - Scheda Fornitore: FASTNET - S.P.A.;Anno di riferimento 2024;Partita iva 01391440425;Sede legale Ancona, Marche",
+     "url": "https://www.amministrazionicomunali.it/marche/ancona/fastnet-spa"
+    },
+    {
+     "dim": "KP 档",
+     "text": "Giorgio Marchetti Sales Manager @ FASTNET;Ancona, IT;RocketReach 档;g******@fastnet.it",
+     "quote": "Giorgio Marchetti Sales Manager @ FASTNET;Ancona, IT;RocketReach 档;g******@fastnet.it",
+     "url": "https://rocketreach.co/giorgio-marchetti-email_127258904"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-163:意谱: **FASTNET S.p.A. 深挖(companyreports/amministrazionicomunali/kuvo/impresaitalia/rocketreach 五源互证)**:**P.IVA 01391440425,Codice Fiscale 同号,Società per Azioni(SpA),1995-04-28 创(应 31 年 谱记「Dal 1999」双注,以 CamCom 登 1995 为准);REA AN 128444(Ancona 商会);Via Oliviero Zuccarini 1,60131 Ancona;071 2900430;www.fastnet.it;ATECO 62.09(信息技术相关服务;impresaitalia 档 64204 telematica双记),MePA 公共采购供应商名录 2024**;**业务=区域光纤/无线接入+云数据中心+VoIP 通信集成(Fastnet Ancona 谱;rocketreach 员工档);2023 营收 €1,839,085,2021 营收 €1,443,024(2021 vs 2020 -188,443€ 下行档注),2023 净利 **-212,402€** 亏损(companyreports 档=风险谱);10-19 员工(impresaitalia 估计窗);营收 1.5-2.5 M€(impresaitalia 类)**;**KP 金谱:Giorgio Marchetti(Sales Manager @ FASTNET,RocketReach 档;g 开头邮箱 @fastnet.it 域;Ancona 区域=我档 CSV 谱口同名同域互证)+Amministratore Delegato 登档名需 visura camerale 核(未公开免费档获取)=1 明+1 待核谱**;**谱位=马尔凯大区 30 年区域通信集成商+MePA 公共采购资格=公共/企业 WiFi/PoE 谱位对口**;排噪:「Fastnet」名国内多司(意有不同 Fastnet 通信司),以 P.IVA 01391440425 Ancona Zuccarini 正锁。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-480",
+   "code": "B-480",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-480:西谱: **STRATO NETWORKS S.L. 深挖(infocif/empresite/einforma/infonif BORME 五源互证)**:**CIF B85363471,Sociedad Limitada,2008-03-14 注册创(beginning operations 11/01/2008=infocif 记 15 años 谱);Calle Duque de Ahumada 46,28814 Daganzo de Arriba(Madrid);Registro Mercantil de Madrid Tomo 25313 Folio 106 Sección 8 Hoja M 455842;Capital Social 3,006 €;CNAE 6201(actividades de programación informática);部门窗 infocif=Telecomunicaciones/empresite=Comunicaciones 双记**;**目的谱(BORME 2015-06-17 cambio de objeto social):desarrollo de aplicaciones informáticas,importación de sistemas informáticos,redes cableadas e inalámbricas,soporte informático y suministro de hardware y componentes=**软件应用开发+有线/无线网络进口+IT 支持+硬件组件供应**;últimas cuentas 2023;4 empleados(2024 窗);Tel 915417041;ricardo@stratonetworks.com;www.stratonetworks.com**;**KP 金谱:**Ricardo Bernao González = Socio único(100% 全资)+Administrador Único(nombramiento 14/03/2008 至今 18 年)=唯一股东兼唯一行政总监 P0,我档 CSV 谱口「Ricardo Bernao Gonzalez」全名严合**=1 人决策谱;审计/无群**;**谱位=马德里东北 18 年微型网络/软件集成商(4 员)=决策快谱位对口**;排噪:Strato Technologies SL(2025 创,Administrator Alfredo F.,CIF 不同)=同名别司悉。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://infocif.economia3.com/ficha-empresa/strato-networks-sl",
+   "tech": "软件开发+有线/无线网络进口+IT 支持+硬件供应(CNAE 6201);单人 SL 谱",
+   "hr": "4 员工(2024);18 年;Daganzo de Arriba Madrid;资本 3,006€",
+   "contact_found": "**Ricardo Bernao González(Socio único 100%+Administrador Único 2008 至今 18 年 P0)**",
+   "contact_pending": "ricardo@stratonetworks.com CSV 谱口同名直邮可行;915417041 台口",
+   "dims": {
+    "业务定位": "STRATO NETWORKS S.L.(Daganzo de Arriba/Madrid,2008 创 18 年):微型网络/软件/硬件供应单主商",
+    "产品线与在售品牌": "软件开发+电缆/无线网络进口+IT 支持+硬件组件供应;CNAE 6201",
+    "目标行业与场景": "马德里谱本地中小企业客户;网络施工+支持",
+    "团队与规模": "4 员工;18 年;Ricardo 单主谱",
+    "决策链与对接人": "Ricardo Bernao González(唯一股东+唯一行政总监 18 年)",
+    "技术与认证": "SL 资本 3,006€;0 管理员更迭谱;BORME 2015 变更档",
+    "采购与供应链信号": "**单主决策快+网络施工线=24 口 PoE 项目件直接对口**",
+    "近期动态与线索": "2024 4 员工窗;últimas cuentas 2023 档",
+    "与我方契合点": "Ricardo 一人两职直邮 → 24 口 PoE(网络施工项目件)",
+    "风险与注意": "**微型司 4 员=订单量级小;资本 3,006€薄谱;无群**"
+   },
+   "evidence": [
+    {
+     "dim": "BORME 档",
+     "quote": "STRATO NETWORKS SL;NIF B85363471;Objeto social: El desarrollo de aplicaciones informáticas, importación de sistemas informáticos, redes cableadas e inalámbricas. Soporte informático y suministro de hardware y componentes;Socio único: BERNAO GONZALEZ RICARDO;Adm. Unico: BERNAO GONZALEZ RICARDO;BORME 17/06/2015;Registro Mercantil de Madrid",
+     "source": "https://infonif.economia3.com/ficha-empresa/strato-networks-sl"
+    },
+    {
+     "dim": "法体登册",
+     "quote": "Strato Networks S.l.;CIF B85363471;Fecha de constitución 14-3-2008;Forma jurídica Sociedad limitada;Calle Duque de Ahumada 46, Daganzo de Arriba, Madrid;CNAE 6201;Tel 915417041;ricardo@stratonetworks.com;www.stratonetworks.com",
+     "source": "https://empresite.eleconomista.es/STRATO-NETWORKS.html"
+    },
+    {
+     "dim": "规模/治理",
+     "quote": "Capital Social 3.006 €;Número de empleados 4(año 2024);Órgano de administración 1 miembro(14/03/2008);Último BORME 17/06/2015;No cotiza;Últimas cuentas 2023",
+     "source": "https://www.einforma.com/informacion-empresa/strato-networks"
+    },
+    {
+     "dim": "行业窗",
+     "quote": "STRATO NETWORKS SL;Telecomunicaciones;Cargos directivos - Administrador Único: BERNAO GONZALEZ RICARDO;Antigüedad 15 años(11/01/2008);28814 Daganzo De Arriba",
+     "source": "https://infocif.economia3.com/ficha-empresa/strato-networks-sl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Ricardo 单主 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "唯一股东+唯一行政总监 → 24 口 PoE(网络施工项目件)",
+     "question": "贵司有线/无线网络进口线的 24 口 PoE 交换机选型由哪位主责?",
+     "proof": "BORME/infocif 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 网络施工/支持线",
+     "push": "STI-288GPM/424",
+     "angle": "redes cableadas e inalámbricas+soporte=PoE 监控 AP 谱",
+     "question": "贵司监控/AP 施工线的 PoE 谱口?",
+     "proof": "BORME 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 硬件供应线",
+     "push": "STC-28DGGPM",
+     "angle": "suministro de hardware y componentes 谱口",
+     "question": "贵司硬件供应线的品牌谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2008 创 18 年;Daganzo de Arriba(Madrid);SL;Ricardo 单主谱",
+     "②芯片/型号": "软件+有线/无线网络进口+IT 支持+硬件供应;PoE=施工项目件",
+     "③KP 深挖": "Ricardo Bernao González(唯一股东+唯一行政总监 2008 至今 18 年 P0)",
+     "④Saga 对标": "微型集成商 → 24 口 PoE(施工项目直件,单主决策快)",
+     "⑤在乎与偏好": "西谱单主;小单快决策;硬件供应+施工双轨",
+     "⑥SWOT": "S=18 年谱+单主决策快+网络施工对口/W=4 员微型;资本薄;大田谱位未知/O=马德里本地施工项目件谱/T=大分销商竞争;量级小"
+    },
+    "care": "- **S**:18 年谱+单主决策快+网络施工对口\n- **W**:4 员微型;资本薄;大田谱位未知\n- **O**:马德里本地施工项目件谱\n- **T**:大分销商竞争;量级小",
+    "swot": {
+     "S": "18 年谱+单主决策快+网络施工对口",
+     "W": "4 员微型;资本薄;大田谱位未知",
+     "O": "马德里本地施工项目件谱",
+     "T": "大分销商竞争;量级小"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://infonif.economia3.com/ficha-empresa/strato-networks-sl"
+   },
+   "unknowns": [
+    "MikroTik 在售谱位未公开检索到(官网未开)",
+    "Ricardo 直邮谱口已具名",
+    "营收档未公开(últimas cuentas 2023 档未披露数)"
+   ],
+   "unknowns56": [
+    "MikroTik 在售谱位未公开检索到(官网未开)",
+    "Ricardo 直邮谱口已具名",
+    "营收档未公开(últimas cuentas 2023 档未披露数)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Ricardo,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid fit for your wired/wireless network projects and hardware supply lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Ricardo Bernao González(唯一股东+唯一行政总监 P0)**; ricardo@stratonetworks.com(CSV 谱口同名严合); +34 915 417 041",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2008 创 18 年;Daganzo de Arriba(Madrid);SL;Ricardo 单主谱",
+    "芯片与在用型号": "软件+有线/无线网络进口+IT 支持+硬件供应;PoE=施工项目件",
+    "关键人KP": "Ricardo Bernao González(唯一股东+唯一行政总监 2008 至今 18 年 P0)",
+    "关注点与资质": "微型集成商 → 24 口 PoE(施工项目直件,单主决策快)",
+    "优缺点SWOT": "S=18 年谱+单主决策快+网络施工对口·W=4 员微型;资本薄;大田谱位未知·O=马德里本地施工项目件谱·T=大分销商竞争;量级小",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西谱单主;小单快决策;硬件供应+施工双轨"
+   },
+   "swot_text": "- **S**:18 年谱+单主决策快+网络施工对口\n- **W**:4 员微型;资本薄;大田谱位未知\n- **O**:马德里本地施工项目件谱\n- **T**:大分销商竞争;量级小",
+   "facts": [
+    {
+     "dim": "BORME 档",
+     "text": "STRATO NETWORKS SL;NIF B85363471;Objeto social: El desarrollo de aplicaciones informáticas, importación de sistemas informáticos, redes cableadas e inalámbricas. Soporte informático y suministro de hardware y componentes;Socio único: BERNAO GONZALEZ RICARDO;Adm. Unico: BERNAO GONZALEZ RICARDO;BORME 17/06/2015;Registro Mercantil de Madrid",
+     "quote": "STRATO NETWORKS SL;NIF B85363471;Objeto social: El desarrollo de aplicaciones informáticas, importación de sistemas informáticos, redes cableadas e inalámbricas. Soporte informático y suministro de hardware y componentes;Socio único: BERNAO GONZALEZ RICARDO;Adm. Unico: BERNAO GONZALEZ RICARDO;BORME 17/06/2015;Registro Mercantil de Madrid",
+     "url": "https://infonif.economia3.com/ficha-empresa/strato-networks-sl"
+    },
+    {
+     "dim": "法体登册",
+     "text": "Strato Networks S.l.;CIF B85363471;Fecha de constitución 14-3-2008;Forma jurídica Sociedad limitada;Calle Duque de Ahumada 46, Daganzo de Arriba, Madrid;CNAE 6201;Tel 915417041;ricardo@stratonetworks.com;www.stratonetworks.com",
+     "quote": "Strato Networks S.l.;CIF B85363471;Fecha de constitución 14-3-2008;Forma jurídica Sociedad limitada;Calle Duque de Ahumada 46, Daganzo de Arriba, Madrid;CNAE 6201;Tel 915417041;ricardo@stratonetworks.com;www.stratonetworks.com",
+     "url": "https://empresite.eleconomista.es/STRATO-NETWORKS.html"
+    },
+    {
+     "dim": "规模/治理",
+     "text": "Capital Social 3.006 €;Número de empleados 4(año 2024);Órgano de administración 1 miembro(14/03/2008);Último BORME 17/06/2015;No cotiza;Últimas cuentas 2023",
+     "quote": "Capital Social 3.006 €;Número de empleados 4(año 2024);Órgano de administración 1 miembro(14/03/2008);Último BORME 17/06/2015;No cotiza;Últimas cuentas 2023",
+     "url": "https://www.einforma.com/informacion-empresa/strato-networks"
+    },
+    {
+     "dim": "行业窗",
+     "text": "STRATO NETWORKS SL;Telecomunicaciones;Cargos directivos - Administrador Único: BERNAO GONZALEZ RICARDO;Antigüedad 15 años(11/01/2008);28814 Daganzo De Arriba",
+     "quote": "STRATO NETWORKS SL;Telecomunicaciones;Cargos directivos - Administrador Único: BERNAO GONZALEZ RICARDO;Antigüedad 15 años(11/01/2008);28814 Daganzo De Arriba",
+     "url": "https://infocif.economia3.com/ficha-empresa/strato-networks-sl"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-480:西谱: **STRATO NETWORKS S.L. 深挖(infocif/empresite/einforma/infonif BORME 五源互证)**:**CIF B85363471,Sociedad Limitada,2008-03-14 注册创(beginning operations 11/01/2008=infocif 记 15 años 谱);Calle Duque de Ahumada 46,28814 Daganzo de Arriba(Madrid);Registro Mercantil de Madrid Tomo 25313 Folio 106 Sección 8 Hoja M 455842;Capital Social 3,006 €;CNAE 6201(actividades de programación informática);部门窗 infocif=Telecomunicaciones/empresite=Comunicaciones 双记**;**目的谱(BORME 2015-06-17 cambio de objeto social):desarrollo de aplicaciones informáticas,importación de sistemas informáticos,redes cableadas e inalámbricas,soporte informático y suministro de hardware y componentes=**软件应用开发+有线/无线网络进口+IT 支持+硬件组件供应**;últimas cuentas 2023;4 empleados(2024 窗);Tel 915417041;ricardo@stratonetworks.com;www.stratonetworks.com**;**KP 金谱:**Ricardo Bernao González = Socio único(100% 全资)+Administrador Único(nombramiento 14/03/2008 至今 18 年)=唯一股东兼唯一行政总监 P0,我档 CSV 谱口「Ricardo Bernao Gonzalez」全名严合**=1 人决策谱;审计/无群**;**谱位=马德里东北 18 年微型网络/软件集成商(4 员)=决策快谱位对口**;排噪:Strato Technologies SL(2025 创,Administrator Alfredo F.,CIF 不同)=同名别司悉。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-523",
+   "code": "B-523",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-523:法谱: **FGET(FGET INTERNATIONAL)深挖(infonet/annuaire-entreprises.data.gouv/indexa/telephone.city 五源互证)**:**SIREN 328 732 565,SIRET 32873256500044,TVA FR65328732565;INSEE 登 1983-11-18(43 年老谱!),RCS Lyon 1984-01-06 挂录;SAS(société par actions simplifiée);capital 642,000 €(indexa 档);17 rue de Genève,Genas 69740(Rhône,Lyon 东);APE 4652Z(commerce de gros de composants et d'équipements électroniques et de télécommunication);effectif 10 à 19 salariés(depuis 2023);CA 5.86 M€(infonet dirigeant 档)**;**业务谱(indexa 综述):**Distribution sur la région Rhône-Alpes de composants électrotechniques, d'outillages et d'accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares**=罗讷-阿尔卑斯电工元件/工具/连接器/继电器/接线端子/PLC 自动化件/报警器/旋转灯区域批发=兼自动化(automates)谱**;**KP 家族金谱:**Gil Guedj(né 1947,79 岁;Président SAS+fondateur 43 年=创人主席)+Jefferson Guedj(Directeur Général,FGET(10-19 人,CA 5.86 M€)mandat principal,3 mandats 合谱;亦 Président de SAS F.G.E.N.(SIREN 797983871,2013 创,Corbas 26 bd des Nations)+前 SCI A2J(chez FGET Genas)谱)=父子两代管治谱**;**支店谱:Vaulx-en-Velin 支店(SIRET ...00028,1989 创)2002-08-05 关闭=收拢 Genas 本部**;谱位=里昂地区 43 年电工/自动化元件区域批发商(Guedj 家族)=自动化件(automes)+连接器谱=24 口 PoE 上新轴对口。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://infonet.fr/entreprises/32873256500044-fget/",
+   "tech": "电工元件/连接器/继电器/接线端/PLC 自动化件/报警/闪灯区域批发(Rhône-Alpes);APE 4652Z",
+   "hr": "10-19 员工;43 年;CA 5.86 M€;Genas(Lyon 东)单点;资本 642k€",
+   "contact_found": "**Gil Guedj(Président 1947 生 43 年创)+Jefferson Guedj(Directeur Général 二代,3 mandats)**",
+   "contact_pending": "具名直邮需推 fget-international.fr 域档;Genas 台口待补(电口未公开检索到)",
+   "dims": {
+    "业务定位": "FGET International(Genas/Lyon,1983 创 43 年):罗讷-阿尔卑斯电工与自动化元件区域批发商(Guedj 家族)",
+    "产品线与在售品牌": "电工元件/工具/连接器/继电器/接线端/automates PLC/报警/闪灯;APE 4652Z",
+    "目标行业与场景": "Rhône-Alpes 区域 B2B:安装商/工业/电气承包",
+    "团队与规模": "10-19 员工;43 年;CA 5.86 M€;Genas 单点",
+    "决策链与对接人": "Gil Guedj(Président 创人)+Jefferson Guedj(DG 二代)",
+    "技术与认证": "SAS 资本 642k€;RNE/RNE 档齐;支店 2002 关闭谱",
+    "采购与供应链信号": "**电工/自动化件批发谱=24 口 PoE 对工业安装 BBQ 口;家族决策链短**",
+    "近期动态与线索": "Jefferson Guedj 3 mandats(FGET DG+F.G.E.N. Président)谱=扩张门谱注",
+    "与我方契合点": "父子双轨:Jefferson DG 日常+Gil Président 资金 → 24 口 PoE(安装商谱位)",
+    "风险与注意": "**43 年老谱=节奏稳但新品接受度待核;ateurmés 件 vs IT 网络件品类扩展跨度注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "FGET (FGET INTERNATIONAL);SIREN 328732565;SIRET 32873256500044;TVA FR65328732565;Active depuis le 18/11/1983;RCS LYON;SAS;17 RUE DE GENEVE, GENAS, 69740;APE 4652Z;effectif 10 à 19 salariés",
+     "source": "https://infonet.fr/entreprises/32873256500044-fget/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Gil Guedj Président de SAS(né 1947);Jefferson Guedj Directeur Général(3 mandats;mandat principal FGET 10-19 personnes, CA 5.86 M);co-mandataire Gil Guedj;F.G.E.N. Président 谱",
+     "source": "https://infonet.fr/dirigeants/66a9dcb541b8769963e290e3/"
+    },
+    {
+     "dim": "资本/品类",
+     "quote": "Capital 642 000 €;Effectif 10 à 49;Création 01/11/1983(43 ans);Distribution sur la région Rhône Alpes de composants électrotechniques, outillages et accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares",
+     "source": "https://indexa.fr/entreprise/fget-international/electricite-magasins-bilan.html"
+    },
+    {
+     "dim": "支店谱",
+     "quote": "FGET INTERNATIONAL;Z.I. EST 42 RUE LOUIS SAILLANT 69120 VAULX-EN-VELIN;SIRET 32873256500028;établissement secondaire;fermé le 05/08/2002;créé 05/09/1989",
+     "source": "https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Jefferson Guedj DG",
+     "push": "STC-424XGGPM-280W",
+     "angle": "二代 DG+3 mandats 扩张谱 → 24 口 PoE(安装商谱位)",
+     "question": "贵司自动化/连接器线的 24 口 PoE 交换机引入由哪位同事主责?",
+     "proof": "infonet/data.gouv 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Gil Guedj Président",
+     "push": "STI-288GPM/424",
+     "angle": "创人主席=资金决策 P0;43 年资历",
+     "question": "贵司工业安装客户线的网络件谱口?",
+     "proof": "infonet 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · automates 品类线",
+     "push": "STC-28DGGPM",
+     "angle": "automates/PLC 谱=PoE 控制柜口",
+     "question": "贵司 automates 线的网络需求谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1983 创 43 年;Genas(Lyon 东);SAS;Guedj 家族;支店 2002 关闭谱",
+     "②芯片/型号": "电工/自动化件批发;automates PLC+连接器;PoE 24 口=工业安装网络口",
+     "③KP 深挖": "Gil Guedj(Président 1947 生 43 年创)+Jefferson Guedj(DG 二代,3 mandats,F.G.E.N. 谱)=父子两代谱",
+     "④Saga 对标": "区域电工/自动化件批发 → 24 口 PoE(工业安装上新轴)",
+     "⑤在乎与偏好": "罗讷-阿尔卑斯区域;法语沟通;家族决策;CA 5.86 M€ 体量",
+     "⑥SWOT": "S=43 年家族老谱+区域电工自动化谱+资本 642k€/W=老司新品接受度距 IT 类跨品注/O=automates/PLC 客户线=PoE 对口/T=大型电工批发(Farel/Rexel)竞争"
+    },
+    "care": "- **S**:43 年家族老谱+区域电工自动化谱+资本 642k€\n- **W**:老司新品接受度距 IT 类跨品注\n- **O**:automates/PLC 客户线=PoE 对口\n- **T**:大型电工批发(Farel/Rexel)竞争",
+    "swot": {
+     "S": "43 年家族老谱+区域电工自动化谱+资本 642k€",
+     "W": "老司新品接受度距 IT 类跨品注",
+     "O": "automates/PLC 客户线=PoE 对口",
+     "T": "大型电工批发(Farel/Rexel)竞争"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://infonet.fr/entreprises/32873256500044-fget/"
+   },
+   "unknowns": [
+    "MikroTik 谱位未公开检索到",
+    "Gil/Jefferson 直邮推档(域 fget-international 推)",
+    "Jefferson F.G.E.N. 经营谱分工"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位未公开检索到",
+    "Gil/Jefferson 直邮推档(域 fget-international 推)",
+    "Jefferson F.G.E.N. 经营谱分工"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Jefferson and Gil,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural extension for your automation, connector and industrial-installation lines in Rhône-Alpes. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Jefferson Guedj(Directeur Général)+Gil Guedj(Président 创人 43 年)**; 电口待补(Genas 台口未公开检索到)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1983 创 43 年;Genas(Lyon 东);SAS;Guedj 家族;支店 2002 关闭谱",
+    "芯片与在用型号": "电工/自动化件批发;automates PLC+连接器;PoE 24 口=工业安装网络口",
+    "关键人KP": "Gil Guedj(Président 1947 生 43 年创)+Jefferson Guedj(DG 二代,3 mandats,F.G.E.N. 谱)=父子两代谱",
+    "关注点与资质": "区域电工/自动化件批发 → 24 口 PoE(工业安装上新轴)",
+    "优缺点SWOT": "S=43 年家族老谱+区域电工自动化谱+资本 642k€·W=老司新品接受度距 IT 类跨品注·O=automates/PLC 客户线=PoE 对口·T=大型电工批发(Farel/Rexel)竞争",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗讷-阿尔卑斯区域;法语沟通;家族决策;CA 5.86 M€ 体量"
+   },
+   "swot_text": "- **S**:43 年家族老谱+区域电工自动化谱+资本 642k€\n- **W**:老司新品接受度距 IT 类跨品注\n- **O**:automates/PLC 客户线=PoE 对口\n- **T**:大型电工批发(Farel/Rexel)竞争",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "FGET (FGET INTERNATIONAL);SIREN 328732565;SIRET 32873256500044;TVA FR65328732565;Active depuis le 18/11/1983;RCS LYON;SAS;17 RUE DE GENEVE, GENAS, 69740;APE 4652Z;effectif 10 à 19 salariés",
+     "quote": "FGET (FGET INTERNATIONAL);SIREN 328732565;SIRET 32873256500044;TVA FR65328732565;Active depuis le 18/11/1983;RCS LYON;SAS;17 RUE DE GENEVE, GENAS, 69740;APE 4652Z;effectif 10 à 19 salariés",
+     "url": "https://infonet.fr/entreprises/32873256500044-fget/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "text": "Gil Guedj Président de SAS(né 1947);Jefferson Guedj Directeur Général(3 mandats;mandat principal FGET 10-19 personnes, CA 5.86 M);co-mandataire Gil Guedj;F.G.E.N. Président 谱",
+     "quote": "Gil Guedj Président de SAS(né 1947);Jefferson Guedj Directeur Général(3 mandats;mandat principal FGET 10-19 personnes, CA 5.86 M);co-mandataire Gil Guedj;F.G.E.N. Président 谱",
+     "url": "https://infonet.fr/dirigeants/66a9dcb541b8769963e290e3/"
+    },
+    {
+     "dim": "资本/品类",
+     "text": "Capital 642 000 €;Effectif 10 à 49;Création 01/11/1983(43 ans);Distribution sur la région Rhône Alpes de composants électrotechniques, outillages et accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares",
+     "quote": "Capital 642 000 €;Effectif 10 à 49;Création 01/11/1983(43 ans);Distribution sur la région Rhône Alpes de composants électrotechniques, outillages et accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares",
+     "url": "https://indexa.fr/entreprise/fget-international/electricite-magasins-bilan.html"
+    },
+    {
+     "dim": "支店谱",
+     "text": "FGET INTERNATIONAL;Z.I. EST 42 RUE LOUIS SAILLANT 69120 VAULX-EN-VELIN;SIRET 32873256500028;établissement secondaire;fermé le 05/08/2002;créé 05/09/1989",
+     "quote": "FGET INTERNATIONAL;Z.I. EST 42 RUE LOUIS SAILLANT 69120 VAULX-EN-VELIN;SIRET 32873256500028;établissement secondaire;fermé le 05/08/2002;créé 05/09/1989",
+     "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-523:法谱: **FGET(FGET INTERNATIONAL)深挖(infonet/annuaire-entreprises.data.gouv/indexa/telephone.city 五源互证)**:**SIREN 328 732 565,SIRET 32873256500044,TVA FR65328732565;INSEE 登 1983-11-18(43 年老谱!),RCS Lyon 1984-01-06 挂录;SAS(société par actions simplifiée);capital 642,000 €(indexa 档);17 rue de Genève,Genas 69740(Rhône,Lyon 东);APE 4652Z(commerce de gros de composants et d'équipements électroniques et de télécommunication);effectif 10 à 19 salariés(depuis 2023);CA 5.86 M€(infonet dirigeant 档)**;**业务谱(indexa 综述):**Distribution sur la région Rhône-Alpes de composants électrotechniques, d'outillages et d'accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares**=罗讷-阿尔卑斯电工元件/工具/连接器/继电器/接线端子/PLC 自动化件/报警器/旋转灯区域批发=兼自动化(automates)谱**;**KP 家族金谱:**Gil Guedj(né 1947,79 岁;Président SAS+fondateur 43 年=创人主席)+Jefferson Guedj(Directeur Général,FGET(10-19 人,CA 5.86 M€)mandat principal,3 mandats 合谱;亦 Président de SAS F.G.E.N.(SIREN 797983871,2013 创,Corbas 26 bd des Nations)+前 SCI A2J(chez FGET Genas)谱)=父子两代管治谱**;**支店谱:Vaulx-en-Velin 支店(SIRET ...00028,1989 创)2002-08-05 关闭=收拢 Genas 本部**;谱位=里昂地区 43 年电工/自动化元件区域批发商(Guedj 家族)=自动化件(automes)+连接器谱=24 口 PoE 上新轴对口。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-248",
+   "code": "B-248",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-248:法谱: **OSMOZIS 上市谱深挖(zonebourse/verif/LI/alliancy/presseagence 六源互证)**:**SIREN 485156418,SIRET 48515641800058,TVA FR77485156418;Capital 4,282,650 €;2005 创(Gérard Tremblay 创);SA;7 avenue de l'Europe,34830 Clapiers(Hérault,Montpellier);**2016-02 Euronext Alternext Paris 上市(ticker ALOSM/FR0013231180)=库内首家上市谱深挖**;2024 财年(31/12/2024)营收 **14,599,240 €**(verif 档);最近三年连续约 +10% 增长(LI 2024 档);77 salariés(2016 alliancy 档,近年约百人谱)**;**业务=欧洲露营/度假村 WiFi+IoT 专业运营商:15 年铺 **29,000+ WiFi/LoRaWan 自有设备、约 2,000 站、290,000+ 露营位**(LI 档);CA 构成 2024=WiFi 接入销售 53%+IoT 连线服务 30.6%+专业服务 16.4%(zonebourse);ISO 9001+26000;**军工级 mesh WiFi 技术起家(自创塔=嵌入式谱);客户服务 Homair/Vacalians/Siblu/Odalys 露营集团**;2014 西班牙、2015 意大利、德国分站、荷兰首客(Mattenburg Nieuw Vossemeer)国际谱**;**KP 治理金谱:**Gérard Tremblay(PDG/Directeur Général 61 岁,2005-11-25 至今 21 年 P0,co-fondateur)+Christophe Nee(DFI CFO 档)+Claudine Plisson(ADM 2010-01-01)+Rémi Soulage(CTO 42)+Pierre Benoît LABBE(Directeur Général Osmozis LI 档)+Patrick LAYANI(GM verif 档)+Yves Boulot(co-fondateur 历史谱)+Darren Schuller+Jean Hatziraptis(Conseil BRD 2019/2021 档)=8-9 人谱;董事会主席 PASSMAN CONNECT(verif 档=法人主席谱注)**;**谱位=欧洲露营地 WiFi/IoT 运营商 = 户外/RF 谱位对口(CPE/接入/AP 谱);上市治理规范=中层对接制法:董事层+运营层双轨。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/",
+   "tech": "露营/度假村 WiFi+LoRa IoT 运营(29k 设备,2000 站,290k 位);自有 mesh 技术;上市 SA",
+   "hr": "约百人(77+ 谱记);21 年;Clapiers 本部+欧四国;FY2024 营收 €14.6M",
+   "contact_found": "**Gérard Tremblay(PDG 21 年 P0)+Christophe Nee(CFO)/CTO Rémi Soulage/DG Pierre Benoît Labbé+GM Patrick Layani**",
+   "contact_pending": "具名直邮需推 osmozis.com 域档;LI 1,580 粉可接;+33?台口待补",
+   "dims": {
+    "业务定位": "OSMOZIS(Clapiers,2005 创 21 年上市 ALOSM):欧洲露营/度假村 WiFi+IoT 专业运营商",
+    "产品线与在售品牌": "WiFi 接入销售(53%)+IoT/LoRa 连线服务(30.6%)+专业连线服务(16.4%);自有 mesh 设备谱",
+    "目标行业与场景": "欧洲营地/度假村(Homair/Vacalians/Siblu/Odalys 谱);户外 RF 场景",
+    "团队与规模": "77-100 员工;21 年;FY2024 营收 €14.6M,+10% 三年",
+    "决策链与对接人": "Tremblay(PDG)+Nee(CFO)+Plisson/Soulage(CTO)+Labbé(DG)+Layani(GM)+董事会 Schuller/Hatziraptis",
+    "技术与认证": "Euronext 上市治理;ISO 9001+26000;PASSMAN CONNECT 主席法人谱",
+    "采购与供应链信号": "**户外营地规模接入=24 口 PoE 交换 CPE/AP 供电线白牌对口;LoRa 谱**",
+    "近期动态与线索": "2016 上市谱;三年 +10% 增长;西班牙/意大利/德/荷分站",
+    "与我方契合点": "PDG+CFO+CTO+DG 四轨(上市治理)→ 24 口 PoE(营地 AP/CPE 供电)",
+    "风险与注意": "**上市司采购流程规范=决策周期谱;自有 mesh 硬件谱=互补非替代谱位;Verif/ZoneBourse 双档 CA 注**"
+   },
+   "evidence": [
+    {
+     "dim": "上市/登册",
+     "quote": "OSMOZIS;SIREN 485156418;TVA FR77485156418;Capital 4 282 650 €;créée 2005;chiffre d'affaires 14 599 240 €(31/12/2024);PASSMAN CONNECT President;Patrick LAYANI General Manager;7 AVENUE DE L EUROPE 34830 CLAPIERS",
+     "source": "https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/"
+    },
+    {
+     "dim": "业务谱",
+     "quote": "CA par activité: vente d'accès Internet wifi 53%;prestations IoT connectés 30,6%;prestations de services connectés professionnels 16,4%;ALOSM FR0013231180",
+     "source": "https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/"
+    },
+    {
+     "dim": "治理谱",
+     "quote": "Gerard Tremblay CEO Directeur Général 61 ans depuis 25/11/2005;Christophe Nee CFO;Claudine Plisson ADM depuis 01/01/2010;Rémi Soulage CTO 42;Pierre Benoit Labbé Corporate Officer;Board: Rémi Soulage/Darren Schuller(12/02/2019)/Jean Hatziraptis(12/02/2021)",
+     "source": "https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/"
+    },
+    {
+     "dim": "规模谱",
+     "quote": "parc installé et propriétaire de plus de 29 000 équipements WiFi/LoRaWan sur environ 2000 sites en Europe qui couvrent plus de 290 000 emplacements;ISO 9001 & 26000;progression CA +10% troisième exercice consécutif",
+     "source": "https://fr.linkedin.com/company/osmozis-wifi-camping"
+    },
+    {
+     "dim": "创司史",
+     "quote": "Création 2005;Effectif 77;CA août 2016: 8,2 M€(+24%/an);technologie wifi maillé issue du domaine militaire;clients Homair, Vacalians, Siblu, Odalys",
+     "source": "https://alliancy.fr/osmozis-multiplie-ses-petites-bornes-wifi-a15b523e-07df-4687-85e8-d69997b342b7"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Tremblay PDG+Nee CFO 双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "PDG 21 年+CFO → 24 口 PoE 白牌(营地 AP/CPE 供电)",
+     "question": "贵司营地接入部署的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "ZoneBourse/verif 6 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Soulage CTO+Labbé DG",
+     "push": "STI-288GPM/424",
+     "angle": "CTO 42+DG 运营谱=技术对线",
+     "question": "贵司 mesh 设备线的 24 口 PoE 白牌补位谱口?",
+     "proof": "谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Layani GM+Schuller 董事",
+     "push": "STC-28DGGPM",
+     "angle": "GM+董事会谱=中英轨",
+     "question": "贵司欧洲 2,000 站设备供货谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2005 创 21 年上市 ALOSM;Clapiers;CA €14.6M 2024;29k 设备/2000 站/290k 位",
+     "②芯片/型号": "WiFi mesh+LoRa IoT 运营;自有设备谱;PoE 24 口=营地 AP/CPE 供电白牌",
+     "③KP 深挖": "Tremblay(PDG 21 年)+Nee(CFO)+Soulage(CTO 42)+Labbé(DG)+Layani(GM)+Plisson/Schuller/Hatziraptis/Boulot=9 人谱;PASSMAN CONNECT 主席法人档",
+     "④Saga 对标": "户外规模接入运营 → 24 口 PoE 白牌(AP/CPE 供电,谱位互补)",
+     "⑤在乎与偏好": "上市规范流程;欧洲多国;ISO 双证;自有硬件谱",
+     "⑥SWOT": "S=上市+€14.6M+2000 站规模+ISO 双证/W=采购流程规范决策周期长;自有硬件谱互补定位/O=营地 WiFi/IoT 升级潮=白牌件口/T=UBNT/TP-Link 专业线竞争;mesh 自研谱"
+    },
+    "care": "- **S**:上市+€14.6M+2000 站规模+ISO 双证\n- **W**:采购流程规范决策周期长;自有硬件谱互补定位\n- **O**:营地 WiFi/IoT 升级潮=白牌件口\n- **T**:UBNT/TP-Link 专业线竞争;mesh 自研谱",
+    "swot": {
+     "S": "上市+€14.6M+2000 站规模+ISO 双证",
+     "W": "采购流程规范决策周期长;自有硬件谱互补定位",
+     "O": "营地 WiFi/IoT 升级潮=白牌件口",
+     "T": "UBNT/TP-Link 专业线竞争;mesh 自研谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需 osmozis.com 核(谱口未公开检索到)",
+    "Tremblay/Labbé 直邮推 osmozis.com 域档",
+    "FY2025 年报补档"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位在售线需 osmozis.com 核(谱口未公开检索到)",
+    "Tremblay/Labbé 直邮推 osmozis.com 域档",
+    "FY2025 年报补档"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Gérard and Osmozis Team,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value unit for powering WiFi APs and CPEs across campground and holiday-resort networks. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Gérard Tremblay(PDG 21 年)+Rémi Soulage(CTO)+Pierre Benoît Labbé(DG)+Patrick Layani(GM)**; 电口待补(osmozis.com 域具名推); LI 1,580 粉",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2005 创 21 年上市 ALOSM;Clapiers;CA €14.6M 2024;29k 设备/2000 站/290k 位",
+    "芯片与在用型号": "WiFi mesh+LoRa IoT 运营;自有设备谱;PoE 24 口=营地 AP/CPE 供电白牌",
+    "关键人KP": "Tremblay(PDG 21 年)+Nee(CFO)+Soulage(CTO 42)+Labbé(DG)+Layani(GM)+Plisson/Schuller/Hatziraptis/Boulot=9 人谱;PASSMAN CONNECT 主席法人档",
+    "关注点与资质": "户外规模接入运营 → 24 口 PoE 白牌(AP/CPE 供电,谱位互补)",
+    "优缺点SWOT": "S=上市+€14.6M+2000 站规模+ISO 双证·W=采购流程规范决策周期长;自有硬件谱互补定位·O=营地 WiFi/IoT 升级潮=白牌件口·T=UBNT/TP-Link 专业线竞争;mesh 自研谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):上市规范流程;欧洲多国;ISO 双证;自有硬件谱"
+   },
+   "swot_text": "- **S**:上市+€14.6M+2000 站规模+ISO 双证\n- **W**:采购流程规范决策周期长;自有硬件谱互补定位\n- **O**:营地 WiFi/IoT 升级潮=白牌件口\n- **T**:UBNT/TP-Link 专业线竞争;mesh 自研谱",
+   "facts": [
+    {
+     "dim": "上市/登册",
+     "text": "OSMOZIS;SIREN 485156418;TVA FR77485156418;Capital 4 282 650 €;créée 2005;chiffre d'affaires 14 599 240 €(31/12/2024);PASSMAN CONNECT President;Patrick LAYANI General Manager;7 AVENUE DE L EUROPE 34830 CLAPIERS",
+     "quote": "OSMOZIS;SIREN 485156418;TVA FR77485156418;Capital 4 282 650 €;créée 2005;chiffre d'affaires 14 599 240 €(31/12/2024);PASSMAN CONNECT President;Patrick LAYANI General Manager;7 AVENUE DE L EUROPE 34830 CLAPIERS",
+     "url": "https://www.verif.com/en/company/OSMOZIS-68d9c1611299230338041cf2/"
+    },
+    {
+     "dim": "业务谱",
+     "text": "CA par activité: vente d'accès Internet wifi 53%;prestations IoT connectés 30,6%;prestations de services connectés professionnels 16,4%;ALOSM FR0013231180",
+     "quote": "CA par activité: vente d'accès Internet wifi 53%;prestations IoT connectés 30,6%;prestations de services connectés professionnels 16,4%;ALOSM FR0013231180",
+     "url": "https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/"
+    },
+    {
+     "dim": "治理谱",
+     "text": "Gerard Tremblay CEO Directeur Général 61 ans depuis 25/11/2005;Christophe Nee CFO;Claudine Plisson ADM depuis 01/01/2010;Rémi Soulage CTO 42;Pierre Benoit Labbé Corporate Officer;Board: Rémi Soulage/Darren Schuller(12/02/2019)/Jean Hatziraptis(12/02/2021)",
+     "quote": "Gerard Tremblay CEO Directeur Général 61 ans depuis 25/11/2005;Christophe Nee CFO;Claudine Plisson ADM depuis 01/01/2010;Rémi Soulage CTO 42;Pierre Benoit Labbé Corporate Officer;Board: Rémi Soulage/Darren Schuller(12/02/2019)/Jean Hatziraptis(12/02/2021)",
+     "url": "https://www.zonebourse.com/cours/action/OSMOZIS-33930084/societe/"
+    },
+    {
+     "dim": "规模谱",
+     "text": "parc installé et propriétaire de plus de 29 000 équipements WiFi/LoRaWan sur environ 2000 sites en Europe qui couvrent plus de 290 000 emplacements;ISO 9001 & 26000;progression CA +10% troisième exercice consécutif",
+     "quote": "parc installé et propriétaire de plus de 29 000 équipements WiFi/LoRaWan sur environ 2000 sites en Europe qui couvrent plus de 290 000 emplacements;ISO 9001 & 26000;progression CA +10% troisième exercice consécutif",
+     "url": "https://fr.linkedin.com/company/osmozis-wifi-camping"
+    },
+    {
+     "dim": "创司史",
+     "text": "Création 2005;Effectif 77;CA août 2016: 8,2 M€(+24%/an);technologie wifi maillé issue du domaine militaire;clients Homair, Vacalians, Siblu, Odalys",
+     "quote": "Création 2005;Effectif 77;CA août 2016: 8,2 M€(+24%/an);technologie wifi maillé issue du domaine militaire;clients Homair, Vacalians, Siblu, Odalys",
+     "url": "https://alliancy.fr/osmozis-multiplie-ses-petites-bornes-wifi-a15b523e-07df-4687-85e8-d69997b342b7"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-248:法谱: **OSMOZIS 上市谱深挖(zonebourse/verif/LI/alliancy/presseagence 六源互证)**:**SIREN 485156418,SIRET 48515641800058,TVA FR77485156418;Capital 4,282,650 €;2005 创(Gérard Tremblay 创);SA;7 avenue de l'Europe,34830 Clapiers(Hérault,Montpellier);**2016-02 Euronext Alternext Paris 上市(ticker ALOSM/FR0013231180)=库内首家上市谱深挖**;2024 财年(31/12/2024)营收 **14,599,240 €**(verif 档);最近三年连续约 +10% 增长(LI 2024 档);77 salariés(2016 alliancy 档,近年约百人谱)**;**业务=欧洲露营/度假村 WiFi+IoT 专业运营商:15 年铺 **29,000+ WiFi/LoRaWan 自有设备、约 2,000 站、290,000+ 露营位**(LI 档);CA 构成 2024=WiFi 接入销售 53%+IoT 连线服务 30.6%+专业服务 16.4%(zonebourse);ISO 9001+26000;**军工级 mesh WiFi 技术起家(自创塔=嵌入式谱);客户服务 Homair/Vacalians/Siblu/Odalys 露营集团**;2014 西班牙、2015 意大利、德国分站、荷兰首客(Mattenburg Nieuw Vossemeer)国际谱**;**KP 治理金谱:**Gérard Tremblay(PDG/Directeur Général 61 岁,2005-11-25 至今 21 年 P0,co-fondateur)+Christophe Nee(DFI CFO 档)+Claudine Plisson(ADM 2010-01-01)+Rémi Soulage(CTO 42)+Pierre Benoît LABBE(Directeur Général Osmozis LI 档)+Patrick LAYANI(GM verif 档)+Yves Boulot(co-fondateur 历史谱)+Darren Schuller+Jean Hatziraptis(Conseil BRD 2019/2021 档)=8-9 人谱;董事会主席 PASSMAN CONNECT(verif 档=法人主席谱注)**;**谱位=欧洲露营地 WiFi/IoT 运营商 = 户外/RF 谱位对口(CPE/接入/AP 谱);上市治理规范=中层对接制法:董事层+运营层双轨。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-524",
+   "code": "B-524",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-524:法谱: **HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY 深挖(annuaire-entreprises.data.gouv/manageo/hdtechnology.com 官网/lefigaro entreprises 五源互证)**:**SIREN 390 778 769,SIRET 39077876900039,TVA FR42390778769;1993-04-05 创(33 年老谱);SAS(société par actions simplifiée);NAF 5829C(édition de logiciels applicatifs);Parc Tertiaire Parc Saint Exupéry BA 6T rue Maryse Bastie,69500 Bron(Métropole de Lyon);3 établissements dont 1 en activité;effectif 10 à 19 salariés(2023 档);PME(2023 分类);mise à jour Sirene 2025-12-06**;**业务=**MES(Manufacturing Execution System)与工业流程数字化软体编辑/集成商 1993 年创线 33 年**:collecte et traitement de donnée industrielle pour une usine connectée;对 PME/ETI/大型企业全谱;全球客户(monde entier 谱);生态=French Tech+Numeum+Planet Tech'Care+ANRT(国家研究技术协会)会员谱;3 marques déposées「HD Technology」**;**KP 金谱:**Richard DENIS(Président+Directeur général+Responsable Informatique 三职合谱 P0)+Benjamin BOURDERON(Responsable Commercial)=2 人谱;2025-03 档 modification de l'administration(SARL→SAS 跨度变档注:figaro 档形 juridique 史记 SARL)**;**谱位=工业 MES 软体商(33 年)=客户皆工厂=工业 PoE 接入谱间接对口;排噪:B-524 档名业务为 NAS 分销谱记(档口通信行)与登档谱(软体编辑 5829C)谱差→以登档 NAF 5829C+官网为准,通信谱未证注。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://annuaire-entreprises.data.gouv.fr/entreprise/390778769",
+   "tech": "MES/工业数据采集软体编辑+集成(French Tech/Numeum/ANRT);NAF 5829C",
+   "hr": "10-19 员工;33 年;Bron(Lyon)总部;PME;3 注册商标",
+   "contact_found": "**Richard DENIS(Président 兼 DG 兼 Info 三职 P0)+Benjamin BOURDERON(Responsable Commercial)**",
+   "contact_pending": "具名直邮需推 hdtechnology.com 域档;Bron 台口待补",
+   "dims": {
+    "业务定位": "HD Technology(Bron/Lyon,1993 创 33 年):MES 工业数据软体编辑/集成商,French Tech/ANRT 生态",
+    "产品线与在售品牌": "MES+工业流程数字化+数据采集;global 客户谱;对 PME/ETI/大企业",
+    "目标行业与场景": "制造业工厂联网(汽车/航空/医药谱法国工业圈)",
+    "团队与规模": "10-19 员工;33 年;Richard Denis 三职集中",
+    "决策链与对接人": "Richard DENIS(Président 兼 DG 兼 Info)+Benjamin BOURDERON(Commercial)",
+    "技术与认证": "SAS;2025-12 最新 Sirene 档;3 注册商标;ANRT 会员研谱",
+    "采购与供应链信号": "**工业联网项目=24 口 PoE 对工厂设备 AP/传感接入间接对口(他们不是网络商,谱位=项目推荐链)**",
+    "近期动态与线索": "French Tech/Numeum/ANRT 生态谱;2025-03 治理变更档",
+    "与我方契合点": "DENIS 三职+BOURDERON 商务双轨 → 24 口 PoE(工厂联网项目件)",
+    "风险与注意": "**档名与登档谱差注(NAS 分销谱未证);软体商非网谱位间接**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;SIREN 390778769;SIRET 39077876900039;TVA FR42390778769;créée le 05/04/1993;SAS;NAF 5829C;PARC TERTIAIRE PARC SAINT EXUPERY BA 6 T RUE MARYSE BASTIE 69500 BRON;10 à 19 salariés(2023);3 établissements dont 1 en activité",
+     "source": "https://annuaire-entreprises.data.gouv.fr/entreprise/390778769"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Président DENIS Richard;Directeur général DENIS Richard;Responsable Informatique DENIS Richard;Responsable Commercial BOURDERON Benjamin;3 marques déposées HD Technology",
+     "source": "https://www.manageo.fr/entreprises/390778769.html"
+    },
+    {
+     "dim": "业务谱",
+     "quote": "Entreprise spécialisée dans le MES (Manufacturing Execution System) et de la digitalisation des process industriels depuis sa création en 1993;clients situés dans le monde entier;PME, ETI ou grandes entreprises;membre de French Tech, Numeum, Planet Tech care, ANRT",
+     "source": "https://www.hdtechnology.com/la-societe-hd-technology-qui-sommes-nous-2/"
+    },
+    {
+     "dim": "治理变更档",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;Code Siren 390778769;modification de l'administration(annonce légale);Forme juridique: 曾记 Société à Responsabilité Limité → SAS 档",
+     "source": "https://entreprises.lefigaro.fr/high-design-technology-69/entreprise-390778769"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · DENIS 三职集中 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Président 兼 DG 兼 Info → 24 口 PoE(工厂联网项目件)",
+     "question": "贵司工厂联网项目的 24 口 PoE 交换机选型由哪位同事主责?",
+     "proof": "data.gouv/manageo 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · BOURDERON 商务",
+     "push": "STI-288GPM/424",
+     "angle": "Responsable Commercial=销售线谱",
+     "question": "贵司工业客户的网络件谱口?",
+     "proof": "manageo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · ANRT/French Tech 生态口",
+     "push": "STC-28DGGPM",
+     "angle": "研谱生态=试点件路径",
+     "question": "贵司生态伙伴线的设备谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1993 创 33 年;Bron(Lyon);SAS;NAF 5829C 软体;2025 治理变更档",
+     "②芯片/型号": "MES/数据采集软体;PoE=工厂设备接入项目件(推荐链谱位)",
+     "③KP 深挖": "Richard DENIS(Président+DG+Info 三职)+Benjamin BOURDERON(Commercial)=2 人谱",
+     "④Saga 对标": "工业软体商 → 24 口 PoE(工厂联网项目推荐件)",
+     "⑤在乎与偏好": "法国工业圈;French Tech 生态;技术资质敏感;33 年老谱",
+     "⑥SWOT": "S=33 年老谱+工业 MES 生态+French Tech/ANRT 会员/W=非网件商=谱位间接;档名谱差注/O=工厂联网改造潮=PoE 件口/T=软体商采购量有限;大集成商竞争"
+    },
+    "care": "- **S**:33 年老谱+工业 MES 生态+French Tech/ANRT 会员\n- **W**:非网件商=谱位间接;档名谱差注\n- **O**:工厂联网改造潮=PoE 件口\n- **T**:软体商采购量有限;大集成商竞争",
+    "swot": {
+     "S": "33 年老谱+工业 MES 生态+French Tech/ANRT 会员",
+     "W": "非网件商=谱位间接;档名谱差注",
+     "O": "工厂联网改造潮=PoE 件口",
+     "T": "软体商采购量有限;大集成商竞争"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://annuaire-entreprises.data.gouv.fr/entreprise/390778769"
+   },
+   "unknowns": [
+    "档名业务为 NAS 分销谱与登档 5829C 谱差(以登档为准,通信类谱未证)",
+    "DENIS 直邮推档(hdtechnology.com 域)",
+    "MikroTik 谱位未公开检索到"
+   ],
+   "unknowns56": [
+    "档名业务为 NAS 分销谱与登档 5829C 谱差(以登档为准,通信类谱未证)",
+    "DENIS 直邮推档(hdtechnology.com 域)",
+    "MikroTik 谱位未公开检索到"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Richard and Benjamin,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy option for industrial data-collection and connected-factory deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Richard DENIS(Président 兼 DG 兼 Info P0)+Benjamin BOURDERON(Responsable Commercial)**; 电口待补(hdtechnology.com 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1993 创 33 年;Bron(Lyon);SAS;NAF 5829C 软体;2025 治理变更档",
+    "芯片与在用型号": "MES/数据采集软体;PoE=工厂设备接入项目件(推荐链谱位)",
+    "关键人KP": "Richard DENIS(Président+DG+Info 三职)+Benjamin BOURDERON(Commercial)=2 人谱",
+    "关注点与资质": "工业软体商 → 24 口 PoE(工厂联网项目推荐件)",
+    "优缺点SWOT": "S=33 年老谱+工业 MES 生态+French Tech/ANRT 会员·W=非网件商=谱位间接;档名谱差注·O=工厂联网改造潮=PoE 件口·T=软体商采购量有限;大集成商竞争",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法国工业圈;French Tech 生态;技术资质敏感;33 年老谱"
+   },
+   "swot_text": "- **S**:33 年老谱+工业 MES 生态+French Tech/ANRT 会员\n- **W**:非网件商=谱位间接;档名谱差注\n- **O**:工厂联网改造潮=PoE 件口\n- **T**:软体商采购量有限;大集成商竞争",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;SIREN 390778769;SIRET 39077876900039;TVA FR42390778769;créée le 05/04/1993;SAS;NAF 5829C;PARC TERTIAIRE PARC SAINT EXUPERY BA 6 T RUE MARYSE BASTIE 69500 BRON;10 à 19 salariés(2023);3 établissements dont 1 en activité",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;SIREN 390778769;SIRET 39077876900039;TVA FR42390778769;créée le 05/04/1993;SAS;NAF 5829C;PARC TERTIAIRE PARC SAINT EXUPERY BA 6 T RUE MARYSE BASTIE 69500 BRON;10 à 19 salariés(2023);3 établissements dont 1 en activité",
+     "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/390778769"
+    },
+    {
+     "dim": "KP 矩阵",
+     "text": "Président DENIS Richard;Directeur général DENIS Richard;Responsable Informatique DENIS Richard;Responsable Commercial BOURDERON Benjamin;3 marques déposées HD Technology",
+     "quote": "Président DENIS Richard;Directeur général DENIS Richard;Responsable Informatique DENIS Richard;Responsable Commercial BOURDERON Benjamin;3 marques déposées HD Technology",
+     "url": "https://www.manageo.fr/entreprises/390778769.html"
+    },
+    {
+     "dim": "业务谱",
+     "text": "Entreprise spécialisée dans le MES (Manufacturing Execution System) et de la digitalisation des process industriels depuis sa création en 1993;clients situés dans le monde entier;PME, ETI ou grandes entreprises;membre de French Tech, Numeum, Planet Tech care, ANRT",
+     "quote": "Entreprise spécialisée dans le MES (Manufacturing Execution System) et de la digitalisation des process industriels depuis sa création en 1993;clients situés dans le monde entier;PME, ETI ou grandes entreprises;membre de French Tech, Numeum, Planet Tech care, ANRT",
+     "url": "https://www.hdtechnology.com/la-societe-hd-technology-qui-sommes-nous-2/"
+    },
+    {
+     "dim": "治理变更档",
+     "text": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;Code Siren 390778769;modification de l'administration(annonce légale);Forme juridique: 曾记 Société à Responsabilité Limité → SAS 档",
+     "quote": "HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;Code Siren 390778769;modification de l'administration(annonce légale);Forme juridique: 曾记 Société à Responsabilité Limité → SAS 档",
+     "url": "https://entreprises.lefigaro.fr/high-design-technology-69/entreprise-390778769"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-524:法谱: **HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY 深挖(annuaire-entreprises.data.gouv/manageo/hdtechnology.com 官网/lefigaro entreprises 五源互证)**:**SIREN 390 778 769,SIRET 39077876900039,TVA FR42390778769;1993-04-05 创(33 年老谱);SAS(société par actions simplifiée);NAF 5829C(édition de logiciels applicatifs);Parc Tertiaire Parc Saint Exupéry BA 6T rue Maryse Bastie,69500 Bron(Métropole de Lyon);3 établissements dont 1 en activité;effectif 10 à 19 salariés(2023 档);PME(2023 分类);mise à jour Sirene 2025-12-06**;**业务=**MES(Manufacturing Execution System)与工业流程数字化软体编辑/集成商 1993 年创线 33 年**:collecte et traitement de donnée industrielle pour une usine connectée;对 PME/ETI/大型企业全谱;全球客户(monde entier 谱);生态=French Tech+Numeum+Planet Tech'Care+ANRT(国家研究技术协会)会员谱;3 marques déposées「HD Technology」**;**KP 金谱:**Richard DENIS(Président+Directeur général+Responsable Informatique 三职合谱 P0)+Benjamin BOURDERON(Responsable Commercial)=2 人谱;2025-03 档 modification de l'administration(SARL→SAS 跨度变档注:figaro 档形 juridique 史记 SARL)**;**谱位=工业 MES 软体商(33 年)=客户皆工厂=工业 PoE 接入谱间接对口;排噪:B-524 档名业务为 NAS 分销谱记(档口通信行)与登档谱(软体编辑 5829C)谱差→以登档 NAF 5829C+官网为准,通信谱未证注。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-115",
+   "code": "B-115",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-115:希谱: **ALLNET.ITALIA 希腊分点谱深挖(allnet-italia.it 官网 Network 页+Allnet GmbH 官网谱双源互证)**:**ALLNET Greece = ALLNET.ITALIA 在希腊市场的战略扩展点(官方原文:「represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe」)=东南欧商业开发新支点;及 ALLNET 网络全谱:aggregate turnover 500M+ €,60,000+ 欧洲伙伴,直接据点 德/意/法/瑞/奥/北欧/中东欧/中国/台湾;ALLNET GmbH=Marcus Wolfgang Bauer 1991 慕尼黑创,300M+ € 营收,3 物流中心,自创品牌 ALLNET(ALL-SG/ALL4590/ALL1682503 等 PoE/PoE++/HomePlug 谱)+ICT 分销**;**库内 ALLNET 族谱:批 B-001 ALLNET Nordic(丹,批 8 关联 R67 谱)+B-138 ALLNET GmbH Computersysteme(德)既有谱位;希腊点=意大利域谱下的东南欧口**;**KP 金谱:Wolfgang Marcus Bauer(Allnet GmbH 创人/集团位谱 P0 级)+Axel Windemuth? 未证→以库内 B-001/B-138 谱谱及 Allnet Italia MD(谱未公开检索到)注;谱口=经 Allnet Italia(意大利 Parella?)链路对接=谱级注**;**谱位=东南欧 ICT 分销新支点=24 口 PoE 白牌上谱面向希腊/东南欧伙伴口;独立希腊法体登档(ΓΕΜΗ)未公开检索到=谱级注(经意司谱链路)**。排噪:AllNetworks(Peristerá,3CX MSP,2003 谱)与 Ammannette 皆同音别司;allvoip.gr 售 ALLNET 品牌=零售商谱非本户。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.allnet-italia.it/en/allnet-international-network/",
+   "tech": "Allnet 谱系东南欧分点;ICT 分销(自有品牌 ALLNET PoE/IoT+第三方线);集团 500M+ € 谱",
+   "hr": "集团级 300M+/500M+ € 谱;希腊点规模未公开",
+   "contact_found": "**Wolfgang Marcus Bauer(ALLNET GmbH 创人,集团层 P0 级)+Allnet Italia 链路(MD 谱未公开检索到)+B-001 Nordic 谱既定口**",
+   "contact_pending": "经 Allnet Italia/B-001 谱链路;info@allnet 域 CSV 既有疑;希腊本口待核",
+   "dims": {
+    "业务定位": "ALLNET Greece(Allnet Italia 东南欧扩展谱):希腊/东南欧 ICT 价值分销新支点",
+    "产品线与在售品牌": "ALLNET 自有品牌(PoE/PoE++/HomePlug/IoT 传感)+第三方 ICT 分销;集团 3 物流础",
+    "目标行业与场景": "希腊/东南欧 VAR/集成商/零售伙伴(60,000+ 网谱)",
+    "团队与规模": "希腊点本地化团队(规模未公开);集团 34 年",
+    "决策链与对接人": "Bauer(集团 P0)+Allnet Italia 链路+B-001 Nordic 谱口",
+    "技术与认证": "ALLNET 集团谱系(德 1991/慕尼黑);自有品牌合规谱",
+    "采购与供应链信号": "**集团自有 ALLNET PoE 品牌谱=谱位竞合注:切第三方白牌补位/差异化谱;东南欧新支点=本地化新品口**",
+    "近期动态与线索": "官网 新 reference point for business development in South-East Europe 谱(近期布局信号)",
+    "与我方契合点": "Allnet Italia 链路直邮 → 24 口 PoE(东南欧分销上新轴)",
+    "风险与注意": "**自有品牌 PoE 竞合注;希腊点独立法体谱未公开检索到;谱口经意司转谱=口延谱**"
+   },
+   "evidence": [
+    {
+     "dim": "集团谱",
+     "quote": "ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe;ALLNET 网络 aggregate 500M+ € 60,000+ partners;直接 Germany, Italy, France, Switzerland, Austria, Northern Europe, Central and Eastern Europe, China and Taiwan",
+     "source": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "集团创谱",
+     "quote": "ALLNET GmbH founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;three logistics centres;leading ICT distributor; proprietary solutions",
+     "source": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "自有品牌谱",
+     "quote": "Allnet ALL-SG8005PD-BT90 Switch unmanaged 5 Port PoE++ 90W;ALLNET ALL4590 Powermetering Sensor;Powerline ALL1682503 500Mbps PoE injector;ALLNET ALL3500 IP Homeautomation Appliance(hellasdigital.gr 零售页)",
+     "source": "https://www.hellasdigital.gr/allnet/?sl=en"
+    },
+    {
+     "dim": "排噪档",
+     "quote": "AllNetworks(Peristéra, Attiki 121 36;Founded 2003;Gold Partner of 3CX VoIP;info@allnetworks.gr;210.57.77.677)=同音别司MSP,非本户",
+     "source": "https://www.allnetworks.gr/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Allnet Italia 链路(经谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "意司东南欧战线 → 24 口 PoE 白牌补位(差异化谱)",
+     "question": "贵司希腊/东南欧线的 24 口 PoE 白牌补位由哪位同事主责?",
+     "proof": "官网 Network 页 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 库内 B-001 Nordic 谱口",
+     "push": "STI-288GPM/424",
+     "angle": "AlLNET 族谱北欧口已铺=族内横支谱",
+     "question": "谱系内东南欧 PoE 谱协同口?",
+     "proof": "库内谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Bauer 集团层",
+     "push": "STC-28DGGPM",
+     "angle": "创人/集团位谱;自有品牌谱表",
+     "question": "贵司自有品牌外的三方补位政策谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Allnet Italia 东南欧扩展谱;集团 1991 慕尼黑创 34/35 年;500M+ € 60k 伙伴",
+     "②芯片/型号": "自有 ALLNET PoE/PoE++/IoT 谱+第三方分销;白牌补位/差异化谱位",
+     "③KP 深挖": "Wolfgang Marcus Bauer(Allnet GmbH 创人谱 P0 级)+Allnet Italia 管理谱(名未公开检索到)+B-001/B-138 库内谱口",
+     "④Saga 对标": "东南欧分销新支点 → 24 口 PoE 白牌补位(差异化)",
+     "⑤在乎与偏好": "集团谱;东南欧增长;本地化伙伴支持;自有品牌竞合敏",
+     "⑥SWOT": "S=集团 500M+ €+60k 伙伴+34 年+东南欧新支点/W=自有 PoE 品牌竞合;希腊点法体谱未公开/O=东南欧 ICT 增长+新品引入/T=同集团旗下其他口(北欧/德)内部谱协"
+    },
+    "care": "- **S**:集团 500M+ €+60k 伙伴+34 年+东南欧新支点\n- **W**:自有 PoE 品牌竞合;希腊点法体谱未公开\n- **O**:东南欧 ICT 增长+新品引入\n- **T**:同集团旗下其他口(北欧/德)内部谱协",
+    "swot": {
+     "S": "集团 500M+ €+60k 伙伴+34 年+东南欧新支点",
+     "W": "自有 PoE 品牌竞合;希腊点法体谱未公开",
+     "O": "东南欧 ICT 增长+新品引入",
+     "T": "同集团旗下其他口(北欧/德)内部谱协"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.allnet-italia.it/en/allnet-international-network/"
+   },
+   "unknowns": [
+    "希腊独立法体(ΓΕΜΗ)登档未公开检索到",
+    "Allnet Italia 管理层具名待补",
+    "自有品牌 vs 白牌补位谱位需 B-001 谱核"
+   ],
+   "unknowns56": [
+    "希腊独立法体(ΓΕΜΗ)登档未公开检索到",
+    "Allnet Italia 管理层具名待补",
+    "自有品牌 vs 白牌补位谱位需 B-001 谱核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Allnet Team,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value complement for ICT distribution portfolios in Greece and South-East Europe. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Wolfgang Marcus Bauer(ALLNET GmbH 创人,集团层)+Allnet Italia 管理链路+B-001 谱口**; CSV 既有台口谱疑",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Allnet Italia 东南欧扩展谱;集团 1991 慕尼黑创 34/35 年;500M+ € 60k 伙伴",
+    "芯片与在用型号": "自有 ALLNET PoE/PoE++/IoT 谱+第三方分销;白牌补位/差异化谱位",
+    "关键人KP": "Wolfgang Marcus Bauer(Allnet GmbH 创人谱 P0 级)+Allnet Italia 管理谱(名未公开检索到)+B-001/B-138 库内谱口",
+    "关注点与资质": "东南欧分销新支点 → 24 口 PoE 白牌补位(差异化)",
+    "优缺点SWOT": "S=集团 500M+ €+60k 伙伴+34 年+东南欧新支点·W=自有 PoE 品牌竞合;希腊点法体谱未公开·O=东南欧 ICT 增长+新品引入·T=同集团旗下其他口(北欧/德)内部谱协",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):集团谱;东南欧增长;本地化伙伴支持;自有品牌竞合敏"
+   },
+   "swot_text": "- **S**:集团 500M+ €+60k 伙伴+34 年+东南欧新支点\n- **W**:自有 PoE 品牌竞合;希腊点法体谱未公开\n- **O**:东南欧 ICT 增长+新品引入\n- **T**:同集团旗下其他口(北欧/德)内部谱协",
+   "facts": [
+    {
+     "dim": "集团谱",
+     "text": "ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe;ALLNET 网络 aggregate 500M+ € 60,000+ partners;直接 Germany, Italy, France, Switzerland, Austria, Northern Europe, Central and Eastern Europe, China and Taiwan",
+     "quote": "ALLNET Greece represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe;ALLNET 网络 aggregate 500M+ € 60,000+ partners;直接 Germany, Italy, France, Switzerland, Austria, Northern Europe, Central and Eastern Europe, China and Taiwan",
+     "url": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "集团创谱",
+     "text": "ALLNET GmbH founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;three logistics centres;leading ICT distributor; proprietary solutions",
+     "quote": "ALLNET GmbH founded in 1991 by Wolfgang Marcus Bauer in Munich;turnover more than EUR 300 million;three logistics centres;leading ICT distributor; proprietary solutions",
+     "url": "https://www.allnet-italia.it/en/allnet-international-network/"
+    },
+    {
+     "dim": "自有品牌谱",
+     "text": "Allnet ALL-SG8005PD-BT90 Switch unmanaged 5 Port PoE++ 90W;ALLNET ALL4590 Powermetering Sensor;Powerline ALL1682503 500Mbps PoE injector;ALLNET ALL3500 IP Homeautomation Appliance(hellasdigital.gr 零售页)",
+     "quote": "Allnet ALL-SG8005PD-BT90 Switch unmanaged 5 Port PoE++ 90W;ALLNET ALL4590 Powermetering Sensor;Powerline ALL1682503 500Mbps PoE injector;ALLNET ALL3500 IP Homeautomation Appliance(hellasdigital.gr 零售页)",
+     "url": "https://www.hellasdigital.gr/allnet/?sl=en"
+    },
+    {
+     "dim": "排噪档",
+     "text": "AllNetworks(Peristéra, Attiki 121 36;Founded 2003;Gold Partner of 3CX VoIP;info@allnetworks.gr;210.57.77.677)=同音别司MSP,非本户",
+     "quote": "AllNetworks(Peristéra, Attiki 121 36;Founded 2003;Gold Partner of 3CX VoIP;info@allnetworks.gr;210.57.77.677)=同音别司MSP,非本户",
+     "url": "https://www.allnetworks.gr/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-115:希谱: **ALLNET.ITALIA 希腊分点谱深挖(allnet-italia.it 官网 Network 页+Allnet GmbH 官网谱双源互证)**:**ALLNET Greece = ALLNET.ITALIA 在希腊市场的战略扩展点(官方原文:「represents the strategic extension of Allnet Italia on the Greek market, with the aim of bringing ICT solutions with high added value and supporting local partners with specialised skills. A new reference point for business development in South-East Europe」)=东南欧商业开发新支点;及 ALLNET 网络全谱:aggregate turnover 500M+ €,60,000+ 欧洲伙伴,直接据点 德/意/法/瑞/奥/北欧/中东欧/中国/台湾;ALLNET GmbH=Marcus Wolfgang Bauer 1991 慕尼黑创,300M+ € 营收,3 物流中心,自创品牌 ALLNET(ALL-SG/ALL4590/ALL1682503 等 PoE/PoE++/HomePlug 谱)+ICT 分销**;**库内 ALLNET 族谱:批 B-001 ALLNET Nordic(丹,批 8 关联 R67 谱)+B-138 ALLNET GmbH Computersysteme(德)既有谱位;希腊点=意大利域谱下的东南欧口**;**KP 金谱:Wolfgang Marcus Bauer(Allnet GmbH 创人/集团位谱 P0 级)+Axel Windemuth? 未证→以库内 B-001/B-138 谱谱及 Allnet Italia MD(谱未公开检索到)注;谱口=经 Allnet Italia(意大利 Parella?)链路对接=谱级注**;**谱位=东南欧 ICT 分销新支点=24 口 PoE 白牌上谱面向希腊/东南欧伙伴口;独立希腊法体登档(ΓΕΜΗ)未公开检索到=谱级注(经意司谱链路)**。排噪:AllNetworks(Peristerá,3CX MSP,2003 谱)与 Ammannette 皆同音别司;allvoip.gr 售 ALLNET 品牌=零售商谱非本户。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-005",
+   "code": "B-005",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-005:丹谱: **Nextron ApS(丹麦分部登档谱)深挖(krak.dk/northdata/proff.dk/avisendanmark 四源互证,叠加 R64 档既有谱基)**:**CVR 38306979;Anpartsselskab(ApS,2016-12-29 注册壳/司化谱,史基丹 Monotil 并入挪威 Nextron 谱);Fuglevangsvej 13,1962 Frederiksberg C(Vanløse);NACE 465000(engroshandel med informations- og kommunikationsudstyr=ICT 批发);7 ansatte(2023 档);2025 regnskab bruttofortjeneste DKK 10 mio=millionoverskud 谱(avisendanmark 引);koncern 2 司谱**;**领导/治理金谱:**Håkon Aleksander Børstad Gutierrez(Direktør 董事总经理,2025-10-01/2025-11-10 最新公示档 P0)+Carl Henrik Sibbern(Bestyrelsesformand 董事会主席)+Geir Elstad(Bestyrelsesmedlem 董事,谱口=挪威 Nextron AS 主系人谱)+Kim Nicolai Strømsborg(Bestyrelsesmedlem 董事);Stifter=Nextron AS(挪威母司,Oslo 总部);史谱 Cathrine Bore(2024-09 任~2025-03 退)**;**业务库谱(R64 档基):北欧定制服务器/存储/工作站制造商(Supermicro 组件组装):**Nvidia PNY EDU Champions 北欧独家+Microsoft Device Partner+Gigabyte/Cisco 伙伴**;液冷 AI 数据中心方向;挪威 MikroTik Master 挂谱;4 北欧办(Oslo 总部+Stockholm Kista+Copenhagen 此分部+Helsinki Espoo)**;**谱位=北欧定制硬件集成谱=24 口 PoE 对 AI DC/校园/企业谱位对口;谱口=丹麦分部领导登档谱口(Børstad Gutierrez)+库内 R64 West 谱(挪威 CEO P0)。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.krak.dk/nextron+aps+frederiksberg+c/133177021/firma",
+   "tech": "北欧定制服务器/存储/工作站(Supermicro);4 北欧办;Nvidia PNY EDU 独家谱;丹麦分部 ICT 批发(NACE 465000)",
+   "hr": "7 员(丹麦分部分部);2016 司化;2025 毛利 DKK 10M;集团谱 2 司",
+   "contact_found": "**Håkon Aleksander Børstad Gutierrez(Direktør P0)+Carl Henrik Sibbern(主席)+Geir Elstad+Kim Nicolai Strømsborg(董事)**",
+   "contact_pending": "具名直邮需推 nextron.dk 域档;Frederiksberg 台口待补",
+   "dims": {
+    "业务定位": "Nextron(北欧四代服务器/存储/工作站定制商;丹麦 ApS 分部 Frederiksberg)",
+    "产品线与在售品牌": "Supermicro 组件定制;Nvidia PNY EDU 北欧独家+Microsoft/Gigabyte/Cisco 伙伴;AI 液冷 DC 方向",
+    "目标行业与场景": "北欧高校/科研/企业/ISP;EDU 独家谱",
+    "团队与规模": "丹麦分部 7 员;集团北欧 4 办;2025 毛利 DKK 10M",
+    "决策链与对接人": "Børstad Gutierrez(Direktør)+Sibbern(主席)+Elstad+Strømsborg(董事)",
+    "技术与认证": "Nvidia PNY EDU Champions 独家;Microsoft Device Partner;MikroTik Master 谱口(挪威)",
+    "采购与供应链信号": "**AI DC/EDU 部署潮=PoE 接入交换机白牌对口;丹麦分部谱口**",
+    "近期动态与线索": "2025-10/11 最新董事公示档(Børstad Gutierrez 续任);2025 毛利 DKK10M 中位谱",
+    "与我方契合点": "Børstad Gutierrez Direktør+Elstad 挪威主系双轨 → 24 口 PoE(AI DC/EDU 接入)",
+    "风险与注意": "**谱位同库 R64 谱基重叠=推土机谱批 2 登档升级;高毛利谱=量价敏感注;MikroTik Master 谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Nextron ApS;CVR-nr 38306979;Anpartsselskab;Registreringsdato 29.12.2016;Selskabskapital 50.001;NACE 465000 Engroshandel med informations- og kommunikationsudstyr;Direktør Håkon Aleksander Børstad Gutierrez;Bestyrelsesformand Carl Henrik Sibbern;Bestyrelsesmedlem Geir Elstad;Bestyrelsesmedlem Kim Nicolai Strømsborg;Stifter Nextron AS",
+     "source": "https://www.krak.dk/nextron+aps+frederiksberg+c/133177021/firma"
+    },
+    {
+     "dim": "财务/地址",
+     "quote": "Fuglevangsvej 13, 1962 Frederiksberg C;antal ansatte 7;NACE 465000;Nextron ApS er en del af et koncern;2025 regnskab bruttofortjeneste DKK 10 mio;millionoverskud;Danske Monotil er fusioneret med norske Nextron",
+     "source": "https://avisendanmark.dk/erhvervsbasen/nextron-aps-819849"
+    },
+    {
+     "dim": "人事谱",
+     "quote": "2025-10-01 Director H. Børstad Gutierrez/No longer Director Geir Elstad(谱口变档);2025-11-10 Director H. Børstad Gutierrez;Cathrine Bore 2024-09 任 /2025-03 退 谱;2016-12-29 J.Sønderby Holding ApS 创始档",
+     "source": "https://www.northdata.com/Nextron%20ApS,%20Frederiksberg/CVR%2038306979"
+    },
+    {
+     "dim": "业务库谱(R64 基)",
+     "quote": "Nextron AS/ApS:北欧定制服务器/存储/工作站制造商(Supermicro 组件组装);Nvidia PNY EDU Champions 北欧独家;Microsoft Device Partner;Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂",
+     "source": "库内 profile/B/B-005 档既有 R64/R66 谱"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Børstad Gutierrez Direktør",
+     "push": "STC-424XGGPM-280W",
+     "angle": "丹麦分部董事总经理 → 24 口 PoE(AI DC/EDU 接入)",
+     "question": "贵司 EDU/DC 部署线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "CVR/krak 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Elstad 董事(挪主系)",
+     "push": "STI-288GPM/424",
+     "angle": "挪威主系人谱=集团采购链口",
+     "question": "Nextron 集团的网络交换机谱口?",
+     "proof": "CVR 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Sibbern 主席+Strømsborg",
+     "push": "STC-28DGGPM",
+     "angle": "董事会谱;MikroTik Master 谱注",
+     "question": "贵司 Master 伙伴线的件谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "北欧四代定制谱+丹麦 ApS 2016 司化;Frederiksberg;7 员;毛利 DKK10M(2025)",
+     "②芯片/型号": "Supermicro 定制;Nvidia PNY EDU 独家;PoE 24 口=AI DC/EDU 接入白牌",
+     "③KP 深挖": "Håkon Aleksander Børstad Gutierrez(Direktør)+Carl Henrik Sibbern(主席)+Geir Elstad+Kim Nicolai Strømsborg(董事)=4 人登档谱",
+     "④Saga 对标": "北欧定制集成 → 24 口 PoE(EDU/DC 部署接入件)",
+     "⑤在乎与偏好": "北欧语系谱;EDU 独家资质敏感;集团谱",
+     "⑥SWOT": "S=北欧 4 办+Nvidia PNY EDU 独家+MikroTik 谱/W=高毛利谱=量价敏感;谱位库 R64 重叠注/O=AI DC/EDU 部署潮=PoE 接入对口/T=Supermicro 生态内攻防;Elmag? 无"
+    },
+    "care": "- **S**:北欧 4 办+Nvidia PNY EDU 独家+MikroTik 谱\n- **W**:高毛利谱=量价敏感;谱位库 R64 重叠注\n- **O**:AI DC/EDU 部署潮=PoE 接入对口\n- **T**:Supermicro 生态内攻防;Elmag? 无",
+    "swot": {
+     "S": "北欧 4 办+Nvidia PNY EDU 独家+MikroTik 谱",
+     "W": "高毛利谱=量价敏感;谱位库 R64 重叠注",
+     "O": "AI DC/EDU 部署潮=PoE 接入对口",
+     "T": "Supermicro 生态内攻防;Elmag? 无"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.krak.dk/nextron+aps+frederiksberg+c/133177021/firma"
+   },
+   "unknowns": [
+    "谱位与库 R64 谱基重叠(推土机谱批 2 登档口径升级注)",
+    "Børstad Gutierrez 直邮推 nextron.dk 域档",
+    "Elstad 挪威谱口分工"
+   ],
+   "unknowns56": [
+    "谱位与库 R64 谱基重叠(推土机谱批 2 登档口径升级注)",
+    "Børstad Gutierrez 直邮推 nextron.dk 域档",
+    "Elstad 挪威谱口分工"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Håkon,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid match for EDU, AI-DC and enterprise deployments across your Nordic footprint. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Håkon Aleksander Børstad Gutierrez(Direktør P0)+Geir Elstad(董事,挪主系)+Carl Henrik Sibbern(主席)**; 电口待补(nextron.dk 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "北欧四代定制谱+丹麦 ApS 2016 司化;Frederiksberg;7 员;毛利 DKK10M(2025)",
+    "芯片与在用型号": "Supermicro 定制;Nvidia PNY EDU 独家;PoE 24 口=AI DC/EDU 接入白牌",
+    "关键人KP": "Håkon Aleksander Børstad Gutierrez(Direktør)+Carl Henrik Sibbern(主席)+Geir Elstad+Kim Nicolai Strømsborg(董事)=4 人登档谱",
+    "关注点与资质": "北欧定制集成 → 24 口 PoE(EDU/DC 部署接入件)",
+    "优缺点SWOT": "S=北欧 4 办+Nvidia PNY EDU 独家+MikroTik 谱·W=高毛利谱=量价敏感;谱位库 R64 重叠注·O=AI DC/EDU 部署潮=PoE 接入对口·T=Supermicro 生态内攻防;Elmag? 无",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):北欧语系谱;EDU 独家资质敏感;集团谱"
+   },
+   "swot_text": "- **S**:北欧 4 办+Nvidia PNY EDU 独家+MikroTik 谱\n- **W**:高毛利谱=量价敏感;谱位库 R64 重叠注\n- **O**:AI DC/EDU 部署潮=PoE 接入对口\n- **T**:Supermicro 生态内攻防;Elmag? 无",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "Nextron ApS;CVR-nr 38306979;Anpartsselskab;Registreringsdato 29.12.2016;Selskabskapital 50.001;NACE 465000 Engroshandel med informations- og kommunikationsudstyr;Direktør Håkon Aleksander Børstad Gutierrez;Bestyrelsesformand Carl Henrik Sibbern;Bestyrelsesmedlem Geir Elstad;Bestyrelsesmedlem Kim Nicolai Strømsborg;Stifter Nextron AS",
+     "quote": "Nextron ApS;CVR-nr 38306979;Anpartsselskab;Registreringsdato 29.12.2016;Selskabskapital 50.001;NACE 465000 Engroshandel med informations- og kommunikationsudstyr;Direktør Håkon Aleksander Børstad Gutierrez;Bestyrelsesformand Carl Henrik Sibbern;Bestyrelsesmedlem Geir Elstad;Bestyrelsesmedlem Kim Nicolai Strømsborg;Stifter Nextron AS",
+     "url": "https://www.krak.dk/nextron+aps+frederiksberg+c/133177021/firma"
+    },
+    {
+     "dim": "财务/地址",
+     "text": "Fuglevangsvej 13, 1962 Frederiksberg C;antal ansatte 7;NACE 465000;Nextron ApS er en del af et koncern;2025 regnskab bruttofortjeneste DKK 10 mio;millionoverskud;Danske Monotil er fusioneret med norske Nextron",
+     "quote": "Fuglevangsvej 13, 1962 Frederiksberg C;antal ansatte 7;NACE 465000;Nextron ApS er en del af et koncern;2025 regnskab bruttofortjeneste DKK 10 mio;millionoverskud;Danske Monotil er fusioneret med norske Nextron",
+     "url": "https://avisendanmark.dk/erhvervsbasen/nextron-aps-819849"
+    },
+    {
+     "dim": "人事谱",
+     "text": "2025-10-01 Director H. Børstad Gutierrez/No longer Director Geir Elstad(谱口变档);2025-11-10 Director H. Børstad Gutierrez;Cathrine Bore 2024-09 任 /2025-03 退 谱;2016-12-29 J.Sønderby Holding ApS 创始档",
+     "quote": "2025-10-01 Director H. Børstad Gutierrez/No longer Director Geir Elstad(谱口变档);2025-11-10 Director H. Børstad Gutierrez;Cathrine Bore 2024-09 任 /2025-03 退 谱;2016-12-29 J.Sønderby Holding ApS 创始档",
+     "url": "https://www.northdata.com/Nextron%20ApS,%20Frederiksberg/CVR%2038306979"
+    },
+    {
+     "dim": "业务库谱(R64 基)",
+     "text": "Nextron AS/ApS:北欧定制服务器/存储/工作站制造商(Supermicro 组件组装);Nvidia PNY EDU Champions 北欧独家;Microsoft Device Partner;Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂",
+     "quote": "Nextron AS/ApS:北欧定制服务器/存储/工作站制造商(Supermicro 组件组装);Nvidia PNY EDU Champions 北欧独家;Microsoft Device Partner;Gigabyte/Cisco 伙伴;4 北欧办(Oslo 总部/Stockholm Kista/Copenhagen/Helsinki Espoo);液冷 AI DC 方向;挪威 MikroTik Master 挂",
+     "url": "库内 profile/B/B-005 档既有 R64/R66 谱"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-005:丹谱: **Nextron ApS(丹麦分部登档谱)深挖(krak.dk/northdata/proff.dk/avisendanmark 四源互证,叠加 R64 档既有谱基)**:**CVR 38306979;Anpartsselskab(ApS,2016-12-29 注册壳/司化谱,史基丹 Monotil 并入挪威 Nextron 谱);Fuglevangsvej 13,1962 Frederiksberg C(Vanløse);NACE 465000(engroshandel med informations- og kommunikationsudstyr=ICT 批发);7 ansatte(2023 档);2025 regnskab bruttofortjeneste DKK 10 mio=millionoverskud 谱(avisendanmark 引);koncern 2 司谱**;**领导/治理金谱:**Håkon Aleksander Børstad Gutierrez(Direktør 董事总经理,2025-10-01/2025-11-10 最新公示档 P0)+Carl Henrik Sibbern(Bestyrelsesformand 董事会主席)+Geir Elstad(Bestyrelsesmedlem 董事,谱口=挪威 Nextron AS 主系人谱)+Kim Nicolai Strømsborg(Bestyrelsesmedlem 董事);Stifter=Nextron AS(挪威母司,Oslo 总部);史谱 Cathrine Bore(2024-09 任~2025-03 退)**;**业务库谱(R64 档基):北欧定制服务器/存储/工作站制造商(Supermicro 组件组装):**Nvidia PNY EDU Champions 北欧独家+Microsoft Device Partner+Gigabyte/Cisco 伙伴**;液冷 AI 数据中心方向;挪威 MikroTik Master 挂谱;4 北欧办(Oslo 总部+Stockholm Kista+Copenhagen 此分部+Helsinki Espoo)**;**谱位=北欧定制硬件集成谱=24 口 PoE 对 AI DC/校园/企业谱位对口;谱口=丹麦分部领导登档谱口(Børstad Gutierrez)+库内 R64 West 谱(挪威 CEO P0)。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-279",
+   "code": "B-279",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-279:爱谱: **Irish Wireless 深挖(rocketreach 谱+irishwireless.net 官网谱双源)**:**2001 创(25 年老谱);由 Gurmukh Neote 与 **Stephen Hall** 联合创;现 Owner=Stephen Hall(rocketreach 直证);Smithstown Industrial Estate,Shannon,Co. Clare,Ireland;$3M 营收估计(rocketreach 单源谱);3 employees(2 人谱记)**;**业务=无线解决方案专家:「delivering excellence in wireless since 2001,making wireless simple」;设计/搭建无线部署:**地下矿/学校/酒店/郡级大网**多元场景谱;Irish Wireless 关键词谱=network design/RF engineering/network optimization/cellular/system integration/managed services**;**KP 金谱:**Stephen Hall(Owner P0,2001 创始至今 25 年;@irishwireless.net 域 2 邮箱谱口)+Gurmukh Neote(co-founder 创始人谱)=双人创人谱**;**谱位=爱尔兰 25 年专业无线集成谱=24 口 PoE 对无线基站供电/部署对口(witgoed=矿井/学校/酒店/郡网谱);CRO 独立法人登档未公开检索到谱口待核=谱级注;排噪:「Irish Wireless」名爱尔兰本邦一家,rockreath 谱 Shannon 谱锁;utcaerospacesystems.com 关联邮箱谱口注=Hall 谱口航空系背谱。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28",
+   "tech": "专业无线集成(矿/校/酒店/郡网);RF 工程+设计+优化;SIC 506 谱口",
+   "hr": "3 员工(谱口微);25 年;Shannon,Co. Clare 点;",
+   "contact_found": "**Stephen Hall(Owner P0 25 年)+Gurmukh Neote(co-founder 谱)**",
+   "contact_pending": "Hall @irishwireless.net 域谱口可推;irishwireless.net 官网谱",
+   "dims": {
+    "业务定位": "Irish Wireless(Shannon,2001 创 25 年):爱尔兰专业无线解决方案专家(矿/校/酒店/郡网)",
+    "产品线与在售品牌": "无线设计+部署+RF 工程+优化;managed services;cellular/integration 谱",
+    "目标行业与场景": "爱尔兰地下矿/学校/酒店/郡级大网多元客户",
+    "团队与规模": "3 员工(谱口火箭谱);25 年;Owner 集中",
+    "决策链与对接人": "Stephen Hall(Owner)+Gurmukh Neote(co-founder)",
+    "技术与认证": "SIC 506/50 谱;单主 Owner 谱",
+    "采购与供应链信号": "**无线基站/部署供电=24 口 PoE 对白对口(谱位本行)**",
+    "近期动态与线索": "rocketreach 谱口 25 年谱;航空邮箱谱口=背景谱注",
+    "与我方契合点": "Hall Owner 一人到災 → 24 口 PoE(无线部署供电件)",
+    "风险与注意": "**谱源单一(rocketreach)=谱级注;3 员微型=量级小;CRO 登档未核谱**"
+   },
+   "evidence": [
+    {
+     "dim": "谱登档",
+     "quote": "Irish Wireless;Founded 2001;delivering excellence in wireless since 2001, founded by Gurmukh Neote and Stephen Hall;Owner Stephen Hall;Revenue $3 million;3 employees;Smithstown Industrial Estate, Shannon, IE;irishwireless.net;SIC 506",
+     "source": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    },
+    {
+     "dim": "场景谱",
+     "quote": "helped many clients design and build their wireless deployments, from underground mines, schools, hotels, or larger networks spanning across counties;Wireless Technology/Network Design/RF Engineering/Network Optimization",
+     "source": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    },
+    {
+     "dim": "邮箱谱口",
+     "quote": "2 emails @irishwireless.net;关联 utcaerospacesystems.com 邮箱谱口(背景谱)",
+     "source": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Hall Owner P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Owner 一人谱 → 24 口 PoE(无线部署供电)",
+     "question": "贵司无线部署项目的 24 口 PoE 交换机由哪位主责?",
+     "proof": "rocketreach/官网 2 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 矿/校/酒店场景线",
+     "push": "STI-288GPM/424",
+     "angle": "多元场景谱=谱口推介",
+     "question": "贵司矿/校/酒店线的件谱?",
+     "proof": "rocketreach 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Neote co-founder",
+     "push": "STC-28DGGPM",
+     "angle": "创始合伙谱",
+     "question": "贵司 RF 工程线的供电谱口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2001 创 25 年;Shannon,Co. Clare;Hall/Neote 双创人;Owner 集中",
+     "②芯片/型号": "无线设计/部署/优化;PoE 24 口=无线站点供电专业件(本行对口)",
+     "③KP 深挖": "Stephen Hall(Owner P0)+Gurmukh Neote(co-founder)=双人谱;谱源 rocketreach 单源注",
+     "④Saga 对标": "无线集成本行 → 24 口 PoE(站点供电件)",
+     "⑤在乎与偏好": "英语谱;单主决策快;本行谱核对牌(已在售件需官网核)",
+     "⑥SWOT": "S=25 年专业谱+多元场景+Owner 集中决策快/W=3 员微型量级小;谱源单一注/O=爱尔兰无线部署潮=PoE 对口/T=UBNT/MikroTik 渠道谱位竞争"
+    },
+    "care": "- **S**:25 年专业谱+多元场景+Owner 集中决策快\n- **W**:3 员微型量级小;谱源单一注\n- **O**:爱尔兰无线部署潮=PoE 对口\n- **T**:UBNT/MikroTik 渠道谱位竞争",
+    "swot": {
+     "S": "25 年专业谱+多元场景+Owner 集中决策快",
+     "W": "3 员微型量级小;谱源单一注",
+     "O": "爱尔兰无线部署潮=PoE 对口",
+     "T": "UBNT/MikroTik 渠道谱位竞争"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+   },
+   "unknowns": [
+    "CRO 法人登档未公开检索到",
+    "Hall 直邮推 @irishwireless.net 域档",
+    "MikroTik/UBNT 在售谱位需 irishwireless.net 核"
+   ],
+   "unknowns56": [
+    "CRO 法人登档未公开检索到",
+    "Hall 直邮推 @irishwireless.net 域档",
+    "MikroTik/UBNT 在售谱位需 irishwireless.net 核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Stephen,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a workhorse for powering radios, APs and cameras across your wireless deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Stephen Hall(Owner P0)+Gurmukh Neote(co-founder)**; 电口待补(irishwireless.net 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2001 创 25 年;Shannon,Co. Clare;Hall/Neote 双创人;Owner 集中",
+    "芯片与在用型号": "无线设计/部署/优化;PoE 24 口=无线站点供电专业件(本行对口)",
+    "关键人KP": "Stephen Hall(Owner P0)+Gurmukh Neote(co-founder)=双人谱;谱源 rocketreach 单源注",
+    "关注点与资质": "无线集成本行 → 24 口 PoE(站点供电件)",
+    "优缺点SWOT": "S=25 年专业谱+多元场景+Owner 集中决策快·W=3 员微型量级小;谱源单一注·O=爱尔兰无线部署潮=PoE 对口·T=UBNT/MikroTik 渠道谱位竞争",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;单主决策快;本行谱核对牌(已在售件需官网核)"
+   },
+   "swot_text": "- **S**:25 年专业谱+多元场景+Owner 集中决策快\n- **W**:3 员微型量级小;谱源单一注\n- **O**:爱尔兰无线部署潮=PoE 对口\n- **T**:UBNT/MikroTik 渠道谱位竞争",
+   "facts": [
+    {
+     "dim": "谱登档",
+     "text": "Irish Wireless;Founded 2001;delivering excellence in wireless since 2001, founded by Gurmukh Neote and Stephen Hall;Owner Stephen Hall;Revenue $3 million;3 employees;Smithstown Industrial Estate, Shannon, IE;irishwireless.net;SIC 506",
+     "quote": "Irish Wireless;Founded 2001;delivering excellence in wireless since 2001, founded by Gurmukh Neote and Stephen Hall;Owner Stephen Hall;Revenue $3 million;3 employees;Smithstown Industrial Estate, Shannon, IE;irishwireless.net;SIC 506",
+     "url": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    },
+    {
+     "dim": "场景谱",
+     "text": "helped many clients design and build their wireless deployments, from underground mines, schools, hotels, or larger networks spanning across counties;Wireless Technology/Network Design/RF Engineering/Network Optimization",
+     "quote": "helped many clients design and build their wireless deployments, from underground mines, schools, hotels, or larger networks spanning across counties;Wireless Technology/Network Design/RF Engineering/Network Optimization",
+     "url": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    },
+    {
+     "dim": "邮箱谱口",
+     "text": "2 emails @irishwireless.net;关联 utcaerospacesystems.com 邮箱谱口(背景谱)",
+     "quote": "2 emails @irishwireless.net;关联 utcaerospacesystems.com 邮箱谱口(背景谱)",
+     "url": "https://rocketreach.co/irish-wireless-profile_b4211f24fee49e28"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-279:爱谱: **Irish Wireless 深挖(rocketreach 谱+irishwireless.net 官网谱双源)**:**2001 创(25 年老谱);由 Gurmukh Neote 与 **Stephen Hall** 联合创;现 Owner=Stephen Hall(rocketreach 直证);Smithstown Industrial Estate,Shannon,Co. Clare,Ireland;$3M 营收估计(rocketreach 单源谱);3 employees(2 人谱记)**;**业务=无线解决方案专家:「delivering excellence in wireless since 2001,making wireless simple」;设计/搭建无线部署:**地下矿/学校/酒店/郡级大网**多元场景谱;Irish Wireless 关键词谱=network design/RF engineering/network optimization/cellular/system integration/managed services**;**KP 金谱:**Stephen Hall(Owner P0,2001 创始至今 25 年;@irishwireless.net 域 2 邮箱谱口)+Gurmukh Neote(co-founder 创始人谱)=双人创人谱**;**谱位=爱尔兰 25 年专业无线集成谱=24 口 PoE 对无线基站供电/部署对口(witgoed=矿井/学校/酒店/郡网谱);CRO 独立法人登档未公开检索到谱口待核=谱级注;排噪:「Irish Wireless」名爱尔兰本邦一家,rockreath 谱 Shannon 谱锁;utcaerospacesystems.com 关联邮箱谱口注=Hall 谱口航空系背谱。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-320",
+   "code": "B-320",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批2·B-320:罗谱: **TELESYSTEM 同名多司守界谱深挖(termene/listafirme/risco 三源互证)**:**谱口 CSV 仅名「TELESYSTEM」+国=罗马尼亚,无网站/城档;open web 同系名三司谱:**TELESYSTEM SRL(Bacău;CUI 22460883;J04/1650/2007;2007-09-25 创 19 年;Str. Mărășești 110,Bacău 600073;CAEN 8020 安保服务;2025 营收 146,003,955 RON≈€28.96M(risco 直引!)+净利 6,808,688 RON≈€1.35M(2024 €1.678M 回落);15 员工;5 二级点;sistieme supraveghere/alarma 安防监控安装大谱=最可能候选!3 asociați+3 董事谱)** vs **TELESYSTEMS SRL(București S6;CUI 11344247;J1998012737405;1998-12-15 创 27 年;Valea Ialomiței 4;CAEN 4321 电脑/外围维修;2025 营收 457,712 RON≈€91K+净利 15,809 RON;3 员工;2 asociați(G.M.D./G.M.S.)+1 administrator(G.M.S.)谱)** vs **TELESYSTEMS COMPANY SRL(București S2;CUI 16461426;2004 创;CAEN 6190 其他电信活动)谱**;**谱位判断:**Bacău TELESYSTEM 安防大谱(€29M 营收+监控报警系统安装=正台谱谱口最像网口谱谱谱位)**为主要候选=谱口名称严合「TELESYSTEM」单名(București 二司皆复数 TELESYSTEMS);**排噪谱=三法体,CSV 名未核城=谱级注:若正体为 București 维修谱=量级谱差**;**KP 金谱:Bacău 3 asociați+3 董事谱口(具名待 termene 付费档核)守界谱;București 谱 G.M.D./G.M.S. Inițiale 档**;谱位=Bacău 安防监控安装大谱=24 口 PoE 对监控摄像头供电正行对口;罗语谱;若正体为 București 档=谱位降调。",
+   "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883",
+   "tech": "安防监控系统安装(CAEN 8020 Bachau 大谱€29M)vs 电脑维修(București 微谱)=同名守界",
+   "hr": "15 员(大谱)/3 员(微谱)双窗;19/27 年双窗",
+   "contact_found": "**Bacău 3 asociați/3 董事具名待核(付费档);București G.M.D./G.M.S. Inițiale 档=守界谱**",
+   "contact_pending": "具名直邮守界待核(CSV 电口未具);telesystem 谱位谱未锁定",
+   "dims": {
+    "业务定位": "TELESYSTEM(罗谱同名守界:Bacău 安防大谱 €29M 为主候选 vs București 电脑维修微谱为次候选)",
+    "产品线与在售品牌": "主候选=监控/报警系统安装(CAEN 8020);次候选=电脑/外围维修(4321)微谱",
+    "目标行业与场景": "罗国行业谱口(主候选)=监控工程/安防项目;谱口未核",
+    "团队与规模": "15 员(主)/3 员(次)双窗;19/27 年双窗",
+    "决策链与对接人": "主候选 3 asociați+3 董事具名待核;次候选 G.M.D./G.M.S. 谱",
+    "技术与认证": "主候选 2025 营收 146M RON+净利 6.8M RON=大谱;次候选 457.7K RON 微谱",
+    "采购与供应链信号": "**若主候选=监控安装大谱→24 口 PoE 对监控供电正行直对口,谱谱钩大;守界谱下注**",
+    "近期动态与线索": "risco 2025 档大谱谱(146M RON);termene 2025 微谱谱(457.7K RON);同名 3 司谱",
+    "与我方契合点": "Bacău 董事具名待核+守界谱 → 24 口 PoE(监控供电正行)",
+    "风险与注意": "**正体未锁(3 司同名)=守界谱;具名 KP 需付费档;罗语谱;若正体=微谱量级降**"
+   },
+   "evidence": [
+    {
+     "dim": "主候选谱",
+     "quote": "TELESYSTEM SRL;CUI 22460883;J04/1650/2007;2007-09-25 创;Str. Mărășești 110, Bacău 600073;CAEN 8020;2025 cifra de afaceri 146.003.955 RON(28.960.420 euro);profit net 6.808.688 RON;15 angajați;3 asociați/3 directori;5 secondary offices",
+     "source": "https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883"
+    },
+    {
+     "dim": "次候选谱",
+     "quote": "TELESYSTEMS SRL;CUI 11344247;București Sector 6, Strada Valea Ialomiței nr. 4;înființare 15.12.1998(27 ani);CAEN 4321 repararea calculatoarelor si a echipamentelor periferice;cifra de afaceri 2025=457.712 RON(+8,3%);profit net 15.809 RON;3 angajați;2 asociați(G.M.D./G.M.S.)+1 administrator;fără datorii ANAF",
+     "source": "https://termene.ro/firma/11344247-TELESYSTEMS-SRL"
+    },
+    {
+     "dim": "第三候选谱",
+     "quote": "TELESYSTEMS COMPANY SRL;CUI 16461426;J40/8587/2004;2004-05-27 创;Bdul. Lacul Tei 126-128, Sectorul 2, București;CAEN 6190 alte activități de telecomunicații;telecom 线司谱",
+     "source": "https://listafirme.eu/telesystems-company-srl-16461426/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Bacău 谱具名核(守界)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "若正体=安防安装大谱 → 24 口 PoE 监控供电正行",
+     "question": "贵司监控安装线的 24 口 PoE 交换机集购由哪位主责?",
+     "proof": "risco/termene 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 5 二级点谱",
+     "push": "STI-288GPM/424",
+     "angle": "Bacău 5 二级点=规模谱",
+     "question": "贵司跨区域部署线的供电谱口?",
+     "proof": "谱"
+    },
+    {
+     "stage": "第 3 次跟进 · ANAF 无欠谱",
+     "push": "STC-28DGGPM",
+     "angle": "risco 谱=payments 健康注",
+     "question": "贵司供应商审核段的准入文件?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "同名 3 司守界:主=Bacău CUI22460883(2007/19 年/安防 8020/€29M);次=București CUI11344247(1998/27 年/维修 4321/€91K);三=București S2(2004/电信 6190)",
+     "②芯片/型号": "主候选=监控/报警系统安装→PoE 监控供电正行;谱位守界",
+     "③KP 深挖": "主候选 3 asociați+3 directori 具名待付费档核;次候选 G.M.D./G.M.S. Inițiale 谱=守界谱",
+     "④Saga 对标": "若主候选→24 口 PoE 监控供电直对口;谱口守界注",
+     "⑤在乎与偏好": "罗语谱;主候选 ANAF 无欠谱+净利 €1.35M 健康谱",
+     "⑥SWOT": "S=主候选 €29M 安防大谱+19 年+净利健康/W=正体未锁=守界 3 司谱;具名未核/O=罗国安防潮=PoE 监控供电正对口/T=若正体=微谱则量级降;谱锁成本"
+    },
+    "care": "- **S**:主候选 €29M 安防大谱+19 年+净利健康\n- **W**:正体未锁=守界 3 司谱;具名未核\n- **O**:罗国安防潮=PoE 监控供电正对口\n- **T**:若正体=微谱则量级降;谱锁成本",
+    "swot": {
+     "S": "主候选 €29M 安防大谱+19 年+净利健康",
+     "W": "正体未锁=守界 3 司谱;具名未核",
+     "O": "罗国安防潮=PoE 监控供电正对口",
+     "T": "若正体=微谱则量级降;谱锁成本"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批2 B 类续批",
+    "gap_proof": "https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883"
+   },
+   "unknowns": [
+    "正体锁定(CSV 城/网站回归核实=守界 P0)",
+    "Bacău 3 asociați/3 董事具名(termene 付费档核)",
+    "谱口 CSV 电口未具=守界谱"
+   ],
+   "unknowns56": [
+    "正体锁定(CSV 城/网站回归核实=守界 P0)",
+    "Bacău 3 asociați/3 董事具名(termene 付费档核)",
+    "谱口 CSV 电口未具=守界谱"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批2 B 类",
+   "email": "Dear Sir or Madam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a workhorse for powering IP cameras and alarms across security-system installations. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**TELESYSTEM Bacău(主候选):3 asociați/3 董事具名待核(守界谱);TELESYSTEMS București(次候选):G.M.D./G.M.S. 谱**; 电口待补",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "同名 3 司守界:主=Bacău CUI22460883(2007/19 年/安防 8020/€29M);次=București CUI11344247(1998/27 年/维修 4321/€91K);三=București S2(2004/电信 6190)",
+    "芯片与在用型号": "主候选=监控/报警系统安装→PoE 监控供电正行;谱位守界",
+    "关键人KP": "主候选 3 asociați+3 directori 具名待付费档核;次候选 G.M.D./G.M.S. Inițiale 谱=守界谱",
+    "关注点与资质": "若主候选→24 口 PoE 监控供电直对口;谱口守界注",
+    "优缺点SWOT": "S=主候选 €29M 安防大谱+19 年+净利健康·W=正体未锁=守界 3 司谱;具名未核·O=罗国安防潮=PoE 监控供电正对口·T=若正体=微谱则量级降;谱锁成本",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语谱;主候选 ANAF 无欠谱+净利 €1.35M 健康谱"
+   },
+   "swot_text": "- **S**:主候选 €29M 安防大谱+19 年+净利健康\n- **W**:正体未锁=守界 3 司谱;具名未核\n- **O**:罗国安防潮=PoE 监控供电正对口\n- **T**:若正体=微谱则量级降;谱锁成本",
+   "facts": [
+    {
+     "dim": "主候选谱",
+     "text": "TELESYSTEM SRL;CUI 22460883;J04/1650/2007;2007-09-25 创;Str. Mărășești 110, Bacău 600073;CAEN 8020;2025 cifra de afaceri 146.003.955 RON(28.960.420 euro);profit net 6.808.688 RON;15 angajați;3 asociați/3 directori;5 secondary offices",
+     "quote": "TELESYSTEM SRL;CUI 22460883;J04/1650/2007;2007-09-25 创;Str. Mărășești 110, Bacău 600073;CAEN 8020;2025 cifra de afaceri 146.003.955 RON(28.960.420 euro);profit net 6.808.688 RON;15 angajați;3 asociați/3 directori;5 secondary offices",
+     "url": "https://www.risco.ro/en/verifica-firma/telesystem-cui-22460883"
+    },
+    {
+     "dim": "次候选谱",
+     "text": "TELESYSTEMS SRL;CUI 11344247;București Sector 6, Strada Valea Ialomiței nr. 4;înființare 15.12.1998(27 ani);CAEN 4321 repararea calculatoarelor si a echipamentelor periferice;cifra de afaceri 2025=457.712 RON(+8,3%);profit net 15.809 RON;3 angajați;2 asociați(G.M.D./G.M.S.)+1 administrator;fără datorii ANAF",
+     "quote": "TELESYSTEMS SRL;CUI 11344247;București Sector 6, Strada Valea Ialomiței nr. 4;înființare 15.12.1998(27 ani);CAEN 4321 repararea calculatoarelor si a echipamentelor periferice;cifra de afaceri 2025=457.712 RON(+8,3%);profit net 15.809 RON;3 angajați;2 asociați(G.M.D./G.M.S.)+1 administrator;fără datorii ANAF",
+     "url": "https://termene.ro/firma/11344247-TELESYSTEMS-SRL"
+    },
+    {
+     "dim": "第三候选谱",
+     "text": "TELESYSTEMS COMPANY SRL;CUI 16461426;J40/8587/2004;2004-05-27 创;Bdul. Lacul Tei 126-128, Sectorul 2, București;CAEN 6190 alte activități de telecomunicații;telecom 线司谱",
+     "quote": "TELESYSTEMS COMPANY SRL;CUI 16461426;J40/8587/2004;2004-05-27 创;Bdul. Lacul Tei 126-128, Sectorul 2, București;CAEN 6190 alte activități de telecomunicații;telecom 线司谱",
+     "url": "https://listafirme.eu/telesystems-company-srl-16461426/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批2·B-320:罗谱: **TELESYSTEM 同名多司守界谱深挖(termene/listafirme/risco 三源互证)**:**谱口 CSV 仅名「TELESYSTEM」+国=罗马尼亚,无网站/城档;open web 同系名三司谱:**TELESYSTEM SRL(Bacău;CUI 22460883;J04/1650/2007;2007-09-25 创 19 年;Str. Mărășești 110,Bacău 600073;CAEN 8020 安保服务;2025 营收 146,003,955 RON≈€28.96M(risco 直引!)+净利 6,808,688 RON≈€1.35M(2024 €1.678M 回落);15 员工;5 二级点;sistieme supraveghere/alarma 安防监控安装大谱=最可能候选!3 asociați+3 董事谱)** vs **TELESYSTEMS SRL(București S6;CUI 11344247;J1998012737405;1998-12-15 创 27 年;Valea Ialomiței 4;CAEN 4321 电脑/外围维修;2025 营收 457,712 RON≈€91K+净利 15,809 RON;3 员工;2 asociați(G.M.D./G.M.S.)+1 administrator(G.M.S.)谱)** vs **TELESYSTEMS COMPANY SRL(București S2;CUI 16461426;2004 创;CAEN 6190 其他电信活动)谱**;**谱位判断:**Bacău TELESYSTEM 安防大谱(€29M 营收+监控报警系统安装=正台谱谱口最像网口谱谱谱位)**为主要候选=谱口名称严合「TELESYSTEM」单名(București 二司皆复数 TELESYSTEMS);**排噪谱=三法体,CSV 名未核城=谱级注:若正体为 București 维修谱=量级谱差**;**KP 金谱:Bacău 3 asociați+3 董事谱口(具名待 termene 付费档核)守界谱;București 谱 G.M.D./G.M.S. Inițiale 档**;谱位=Bacău 安防监控安装大谱=24 口 PoE 对监控摄像头供电正行对口;罗语谱;若正体为 București 档=谱位降调。",
+    "inference": "R67/TUB 推土机深挖 批2 B 类续批",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批2 B 类续批",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Ba…
+- **是谁**：1993 创 33 年;Bron(Lyon);SAS;NAF 5829C 软体;2025 治理变更档…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-210→B-524】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DEN | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1993 创 33 年;Bron(Lyon);SAS;NAF 5829C 软体;2025 治理变更档 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | MES/数据采集软体;PoE=工厂设备接入项目件(推荐链谱位) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批2·B-524:法谱: **HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY 深挖(annuaire-entreprises.data.gouv/manageo/hdtechnology.com 官网/lefigaro entreprises 五源互证)**:**SIREN 390 778 769,SIRET 39077876900039,TVA FR42390778769;1993-04-05 创(33 年老谱);SAS(société par actions simplifiée);NAF 5829C(édition de logiciels applicatifs);Parc Tertiaire Parc Saint Exupéry BA 6T rue Maryse Bastie,69500 Bron(Métropole de Lyon);3 établissements dont 1 en activité;effectif 10 à 19 salariés(2023 档);PME(2023 分类);mise à jour Sirene 2025-12-06**;**业务=**MES(Manufacturing Execution System)与工业流程数字化软体编辑/集成商 1993 年创线 33 年**:collecte et traitement de donnée industrielle pour une usine connectée;对 PME/ETI/大型企业全谱;全球客户(monde entier 谱);生态=French Tech+Numeum+Planet Tech'Care+ANRT(国家研究技术协会)会员谱;3 marques déposées「HD Technology」**;**KP 金谱:**Richard DENIS(Président+Directeur général+Responsable Informatique 三职合谱 P0)+Benjamin BOURDERON(Responsable Commercial)=2 人谱;2025-03 档 modification de l'administration(SARL→SAS 跨度变档注:figaro 档形 juridique 史记 SARL)**;**谱位=工业 MES 软体商(33 年)=客户皆工厂=工业 PoE 接入谱间接对口;排噪:B-524 档名业务为 NAS 分销谱记(档口通信行)与登档谱(软体编辑 5829C)谱差→以登档 NAF 5829C+官网为准,通信谱未证注。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+MES/数据采集软体;PoE=工厂设备接入项目件(推荐链谱位)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · DENIS 三职集中 P0
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Président 兼 DG 兼 Info → 24 口 PoE(工厂联网项目件)
+- **要问的问题**：贵司工厂联网项目的 24 口 PoE 交换机选型由哪位同事主责?
+- **随附/动作**：data.gouv/manageo 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · BOURDERON 商务
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Responsable Commercial=销售线谱
+- **要问的问题**：贵司工业客户的网络件谱口?
+- **随附/动作**：manageo 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · ANRT/French Tech 生态口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：研谱生态=试点件路径
+- **要问的问题**：贵司生态伙伴线的设备谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1993 创 33 年;Bron(Lyon);SAS;NAF 5829C 软体;2025 治理变更档
+- **芯片与在用型号**：MES/数据采集软体;PoE=工厂设备接入项目件(推荐链谱位)
+- **关键人KP**：Richard DENIS(Président+DG+Info 三职)+Benjamin BOURDERON(Commercial)=2 人谱
+- **关注点与资质**：工业软体商 → 24 口 PoE(工厂联网项目推荐件)
+- **优缺点SWOT**：S=33 年老谱+工业 MES 生态+French Tech/ANRT 会员·W=非网件商=谱位间接;档名谱差注·O=工厂联网改造潮=PoE 件口·T=软体商采购量有限;大集成商竞争
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法国工业圈;French Tech 生态;技术资质敏感;33 年老谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tro
-  > HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tro
-  > 来源：https://hdtechnology.com/
-- **【联系方式与基础画像】**CSV 入口:contact@hdtechnology.fr（官网联系页）
-  > CSV 入口:contact@hdtechnology.fr（官网联系页）
-  > 来源：https://hdtechnology.com/
+- **【法体登册】**HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;SIREN 390778769;SIRET 39077876900039;TVA FR42390778769;créée le 05/04/1993;SAS;NAF 5829C;PARC TERTIAIRE PARC SAINT EXUPERY BA 6 T RUE MARYSE BASTIE 69500 BRON;10 à 19 salariés(2023);3 établissements dont 1 en activité
+  > HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;SIREN 390778769;SIRET 39077876900039;TVA FR42390778769;créée le 05/04/1993;SAS;NAF 5829C;PARC TERTIAIRE PARC SAINT EXUPERY BA 6 T RUE MARYSE BASTIE 69500 BRON;10 à 19 salariés(2023);3 établissements dont 1 en activité
+  > 来源：https://annuaire-entreprises.data.gouv.fr/entreprise/390778769
+- **【KP 矩阵】**Président DENIS Richard;Directeur général DENIS Richard;Responsable Informatique DENIS Richard;Responsable Commercial BOURDERON Benjamin;3 marques déposées HD Technology
+  > Président DENIS Richard;Directeur général DENIS Richard;Responsable Informatique DENIS Richard;Responsable Commercial BOURDERON Benjamin;3 marques déposées HD Technology
+  > 来源：https://www.manageo.fr/entreprises/390778769.html
+- **【业务谱】**Entreprise spécialisée dans le MES (Manufacturing Execution System) et de la digitalisation des process industriels depuis sa création en 1993;clients situés dans le monde entier;PME, ETI ou grandes entreprises;membre de French Tech, Numeum, Planet Tech care, ANRT
+  > Entreprise spécialisée dans le MES (Manufacturing Execution System) et de la digitalisation des process industriels depuis sa création en 1993;clients situés dans le monde entier;PME, ETI ou grandes entreprises;membre de French Tech, Numeum, Planet Tech care, ANRT
+  > 来源：https://www.hdtechnology.com/la-societe-hd-technology-qui-sommes-nous-2/
+- **【治理变更档】**HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;Code Siren 390778769;modification de l'administration(annonce légale);Forme juridique: 曾记 Société à Responsabilité Limité → SAS 档
+  > HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY;Code Siren 390778769;modification de l'administration(annonce légale);Forme juridique: 曾记 Société à Responsabilité Limité → SAS 档
+  > 来源：https://entreprises.lefigaro.fr/high-design-technology-69/entreprise-390778769
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +151,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=33 年老谱+工业 MES 生态+French Tech/ANRT 会员·W=非网件商=谱位间接;档名谱差注·O=工厂联网改造潮=PoE 件口·T=软体商采购量有限;大集成商竞争
 
 ## 触达与风险红线
 
@@ -173,8 +179,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 档名业务为 NAS 分销谱与登档 5829C 谱差(以登档为准,通信类谱未证)
+  - [ ] DENIS 直邮推档(hdtechnology.com 域)
+  - [ ] MikroTik 谱位未公开检索到
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +193,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear HD Technology Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Richard and Benjamin,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy option for industrial data-collection and connected-factory deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

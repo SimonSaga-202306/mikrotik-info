@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `1666d3393b83` | 2026-10-08T11:21:46+00:00 | R67 推土机批8:B类金谱批2五户(ACC立陶宛€365M三国/DMI西€164M/MAC英工业PoE本行Pantek/PCV捷前10%/ATEsystem机器视觉)KP22人谱全URL;.venv锚定依赖;git重置恢复 |
 | `457a2b228be8` | 2026-10-08T10:08:44+00:00 | R67 推土机批7:A类余户清零6户(Direktronik Lagercrantz 133MSEK/RoadTech物流TMS/AMRO/Acteos法上市/ACP €935M集团/5G IT五创始)KP18条全URL;三审全绿 |
 | `ecba5d21e9d1` | 2026-10-08T09:40:30+00:00 | R67 推土机深挖批6:B类金谱首批5户(Infortisa/Ivory Egg/OEM Automatic/ATC/TRUENET)KP18条全URL+B骨架rec()封装+lint制度化 |
 | `67c927ec1d51` | 2026-10-08T09:17:24+00:00 | R67 推土机批5:A类5户(A-092 Titan PE+Marksman合并/A-102 EAC双创始20年/A-100 Networkology Defence守界 G-Cloud 5董事/A-139 ARCHE军用IT守界 Seeberg对接/A-282 Berdin 22年5子司 Importa EXW 对口;KP19条全URL;守界2户压句断言) |

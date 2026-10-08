@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Servi…
+- **是谁**：1995 创 31 年;Ancona;SpA;区域 ISP+数据中心+VoIP;MePA 名录…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | 波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Cen | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1995 创 31 年;Ancona;SpA;区域 ISP+数据中心+VoIP;MePA 名录 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 光纤/无线+云+VoIP 集成;PoE 24 口=企业/公共 WiFi 供电线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批2·B-163:意谱: **FASTNET S.p.A. 深挖(companyreports/amministrazionicomunali/kuvo/impresaitalia/rocketreach 五源互证)**:**P.IVA 01391440425,Codice Fiscale 同号,Società per Azioni(SpA),1995-04-28 创(应 31 年 谱记「Dal 1999」双注,以 CamCom 登 1995 为准);REA AN 128444(Ancona 商会);Via Oliviero Zuccarini 1,60131 Ancona;071 2900430;www.fastnet.it;ATECO 62.09(信息技术相关服务;impresaitalia 档 64204 telematica双记),MePA 公共采购供应商名录 2024**;**业务=区域光纤/无线接入+云数据中心+VoIP 通信集成(Fastnet Ancona 谱;rocketreach 员工档);2023 营收 €1,839,085,2021 营收 €1,443,024(2021 vs 2020 -188,443€ 下行档注),2023 净利 **-212,402€** 亏损(companyreports 档=风险谱);10-19 员工(impresaitalia 估计窗);营收 1.5-2.5 M€(impresaitalia 类)**;**KP 金谱:Giorgio Marchetti(Sales Manager @ FASTNET,RocketReach 档;g 开头邮箱 @fastnet.it 域;Ancona 区域=我档 CSV 谱口同名同域互证)+Amministratore Delegato 登档名需 visura camerale 核(未公开免费档获取)=1 明+1 待核谱**;**谱位=马尔凯大区 30 年区域通信集成商+MePA 公共采购资格=公共/企业 WiFi/PoE 谱位对口**;排噪:「Fastnet」名国内多司(意有不同 Fastnet 通信司),以 P.IVA 01391440425 Ancona Zuccarini 正锁。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+光纤/无线+云+VoIP 集成;PoE 24 口=企业/公共 WiFi 供电线
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +70,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -94,47 +94,53 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Marchetti 销售经理
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Sales Manager → 24 口 PoE(公共/企业 WiFi 监控供电)
+- **要问的问题**：贵司企业/公共 WiFi 项目的 24 口 PoE 交换机选型由哪位同事主责?
+- **随附/动作**：CamCom/RocketReach 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · MePA 公共采购线
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：MePA 名录谱=公共投标线;区域 ISP 集成谱
+- **要问的问题**：MePA 投标线的网络交换机预算节奏?
+- **随附/动作**：MePA 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 总监层面(visura 核后)
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：SpA 管理董事登档核后对接
+- **要问的问题**：贵司技术董事会谱口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：意大利 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：1995 创 31 年;Ancona;SpA;区域 ISP+数据中心+VoIP;MePA 名录
+- **芯片与在用型号**：光纤/无线+云+VoIP 集成;PoE 24 口=企业/公共 WiFi 供电线
+- **关键人KP**：Giorgio Marchetti(Sales Manager@fastnet.it 域)+Amministratore 待 visura 核
+- **关注点与资质**：区域 ISP 公共谱 → 24 口 PoE(WiFi AP/监控供电项目件)
+- **优缺点SWOT**：S=31 年区域 ISP+MePA 名录+SpA·W=2023 净亏+2021 下行;KP 单谱源·O=公共/企业 WiFi+监控 PoE 项目线·T=大 ISP 竞争(TIM/Open Fiber);资金敏感
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):MePA 公共采购节奏;意语沟通;预算敏感(亏损谱)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps
-  > Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps
-  > 来源：https://fastnet.it/
-- **【联系方式与基础画像】**CSV 入口:g.marchetti@fastnet.it
-  > CSV 入口:g.marchetti@fastnet.it
-  > 来源：https://fastnet.it/
+- **【法体登册】**FASTNET - S.P.A.;Partita IVA 01391440425;Via Oliviero Zuccarini 1, Ancona;Società per Azioni;REA AN 128444;fondazione 28/04/1995;ATECO 62.09
+  > FASTNET - S.P.A.;Partita IVA 01391440425;Via Oliviero Zuccarini 1, Ancona;Società per Azioni;REA AN 128444;fondazione 28/04/1995;ATECO 62.09
+  > 来源：https://www.companyreports.it/fastnet_spa-01391440425
+- **【财务档】**Fatturato 2023: 1.839.085 €;utile netto 2023: -212.402 €;2021 fatturato 1.443.024 €(-188.443 € vs 2020);fascia 1,5-2,5 M€;10-19 dipendenti;Telefono 0712900430;www.fastnet.it
+  > Fatturato 2023: 1.839.085 €;utile netto 2023: -212.402 €;2021 fatturato 1.443.024 €(-188.443 € vs 2020);fascia 1,5-2,5 M€;10-19 dipendenti;Telefono 0712900430;www.fastnet.it
+  > 来源：https://www.impresaitalia.info/kk04340748/fastnet-spa/ancona.aspx
+- **【MePA/公共谱】**MePA - Scheda Fornitore: FASTNET - S.P.A.;Anno di riferimento 2024;Partita iva 01391440425;Sede legale Ancona, Marche
+  > MePA - Scheda Fornitore: FASTNET - S.P.A.;Anno di riferimento 2024;Partita iva 01391440425;Sede legale Ancona, Marche
+  > 来源：https://www.amministrazionicomunali.it/marche/ancona/fastnet-spa
+- **【KP 档】**Giorgio Marchetti Sales Manager @ FASTNET;Ancona, IT;RocketReach 档;g******@fastnet.it
+  > Giorgio Marchetti Sales Manager @ FASTNET;Ancona, IT;RocketReach 档;g******@fastnet.it
+  > 来源：https://rocketreach.co/giorgio-marchetti-email_127258904
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +153,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=31 年区域 ISP+MePA 名录+SpA·W=2023 净亏+2021 下行;KP 单谱源·O=公共/企业 WiFi+监控 PoE 项目线·T=大 ISP 竞争(TIM/Open Fiber);资金敏感
 
 ## 触达与风险红线
 
@@ -175,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] Amministratore Delegato 登档 visura 待核(付费档)
+  - [ ] Marchetti 直邮推档
+  - [ ] MikroTik 在售谱位需 fastnet.it 核(谱口未公开检索到)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,10 +192,10 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear Giorgio,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — well suited for your enterprise, hospitality and public-sector WiFi and CCTV deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

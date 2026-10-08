@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-523:法国谱: **守档准由·原 R65/R57 谱基增厚**:FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)…
+- **是谁**：1983 创 43 年;Genas(Lyon 东);SAS;Guedj 家族;支店 2002 关闭谱…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-209→B-523】官网联系页正文可见；免费邮箱（gmail），群发投递风险需自行评估；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 并购后 FGET 品牌面仍活,老连路截至二口;ACSI 话商务下道；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-523:法国谱: **守档准由·原 R65/R57 谱基增厚**:FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Ly | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1983 创 43 年;Genas(Lyon 东);SAS;Guedj 家族;支店 2002 关闭谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 电工/自动化件批发;automates PLC+连接器;PoE 24 口=工业安装网络口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-523:法国谱: **守档准由·原 R65/R57 谱基增厚**:FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营 | R65 深挖:Genas 42 年老谱 5.9M€;Guedj 父子接棒位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批2·B-523:法谱: **FGET(FGET INTERNATIONAL)深挖(infonet/annuaire-entreprises.data.gouv/indexa/telephone.city 五源互证)**:**SIREN 328 732 565,SIRET 32873256500044,TVA FR65328732565;INSEE 登 1983-11-18(43 年老谱!),RCS Lyon 1984-01-06 挂录;SAS(société par actions simplifiée);capital 642,000 €(indexa 档);17 rue de Genève,Genas 69740(Rhône,Lyon 东);APE 4652Z(commerce de gros de composants et d'équipements électroniques et de télécommunication);effectif 10 à 19 salariés(depuis 2023);CA 5.86 M€(infonet dirigeant 档)**;**业务谱(indexa 综述):**Distribution sur la région Rhône-Alpes de composants électrotechniques, d'outillages et d'accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares**=罗讷-阿尔卑斯电工元件/工具/连接器/继电器/接线端子/PLC 自动化件/报警器/旋转灯区域批发=兼自动化(automates)谱**;**KP 家族金谱:**Gil Guedj(né 1947,79 岁;Président SAS+fondateur 43 年=创人主席)+Jefferson Guedj(Directeur Général,FGET(10-19 人,CA 5.86 M€)mandat principal,3 mandats 合谱;亦 Président de SAS F.G.E.N.(SIREN 797983871,2013 创,Corbas 26 bd des Nations)+前 SCI A2J(chez FGET Genas)谱)=父子两代管治谱**;**支店谱:Vaulx-en-Velin 支店(SIRET ...00028,1989 创)2002-08-05 关闭=收拢 Genas 本部**;谱位=里昂地区 43 年电工/自动化元件区域批发商(Guedj 家族)=自动化件(automes)+连接器谱=24 口 PoE 上新轴对口。
+- 【推断】R67/TUB 推土机深挖 批2 B 类续批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+电工/自动化件批发;automates PLC+连接器;PoE 24 口=工业安装网络口
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Jefferson Guedj DG
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：二代 DG+3 mandats 扩张谱 → 24 口 PoE(安装商谱位)
+- **要问的问题**：贵司自动化/连接器线的 24 口 PoE 交换机引入由哪位同事主责?
+- **随附/动作**：infonet/data.gouv 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Gil Guedj Président
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：创人主席=资金决策 P0;43 年资历
+- **要问的问题**：贵司工业安装客户线的网络件谱口?
+- **随附/动作**：infonet 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · automates 品类线
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：automates/PLC 谱=PoE 控制柜口
+- **要问的问题**：贵司 automates 线的网络需求谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-523:法国谱: **守档准由·原 R65/R57 谱基增厚**:FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年被 2G Investissements/ACSI(Automatisme Conseil Service Industrie)收购合并(dissolution sans liquidation);现业是 ACSI 干 undertow**;则 fget.fr 仍活在运营 | R65 深挖:Genas 42 年老谱 5.9M€;Guedj 父子接棒位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1983 创 43 年;Genas(Lyon 东);SAS;Guedj 家族;支店 2002 关闭谱
+- **芯片与在用型号**：电工/自动化件批发;automates PLC+连接器;PoE 24 口=工业安装网络口
+- **关键人KP**：Gil Guedj(Président 1947 生 43 年创)+Jefferson Guedj(DG 二代,3 mandats,F.G.E.N. 谱)=父子两代谱
+- **关注点与资质**：区域电工/自动化件批发 → 24 口 PoE(工业安装上新轴)
+- **优缺点SWOT**：S=43 年家族老谱+区域电工自动化谱+资本 642k€·W=老司新品接受度距 IT 类跨品注·O=automates/PLC 客户线=PoE 对口·T=大型电工批发(Farel/Rexel)竞争
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗讷-阿尔卑斯区域;法语沟通;家族决策;CA 5.86 M€ 体量
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年
-  > FGET International(法国 Genas 69 Array 里昂 17 rue de Genève):**1984(1983)创的 automatisme/connectique/robotique/photovoltaïque 组件进口分销 SAS; RCS Lyon 328732565; 2022 年
-  > 来源：https://fget.fr/
-- **【联系方式与基础画像】**CSV 入口:base.fget@gmail.com（官网联系页；免费邮箱）
-  > CSV 入口:base.fget@gmail.com（官网联系页；免费邮箱）
-  > 来源：https://fget.fr/
+- **【法体登册】**FGET (FGET INTERNATIONAL);SIREN 328732565;SIRET 32873256500044;TVA FR65328732565;Active depuis le 18/11/1983;RCS LYON;SAS;17 RUE DE GENEVE, GENAS, 69740;APE 4652Z;effectif 10 à 19 salariés
+  > FGET (FGET INTERNATIONAL);SIREN 328732565;SIRET 32873256500044;TVA FR65328732565;Active depuis le 18/11/1983;RCS LYON;SAS;17 RUE DE GENEVE, GENAS, 69740;APE 4652Z;effectif 10 à 19 salariés
+  > 来源：https://infonet.fr/entreprises/32873256500044-fget/
+- **【KP 矩阵】**Gil Guedj Président de SAS(né 1947);Jefferson Guedj Directeur Général(3 mandats;mandat principal FGET 10-19 personnes, CA 5.86 M);co-mandataire Gil Guedj;F.G.E.N. Président 谱
+  > Gil Guedj Président de SAS(né 1947);Jefferson Guedj Directeur Général(3 mandats;mandat principal FGET 10-19 personnes, CA 5.86 M);co-mandataire Gil Guedj;F.G.E.N. Président 谱
+  > 来源：https://infonet.fr/dirigeants/66a9dcb541b8769963e290e3/
+- **【资本/品类】**Capital 642 000 €;Effectif 10 à 49;Création 01/11/1983(43 ans);Distribution sur la région Rhône Alpes de composants électrotechniques, outillages et accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares
+  > Capital 642 000 €;Effectif 10 à 49;Création 01/11/1983(43 ans);Distribution sur la région Rhône Alpes de composants électrotechniques, outillages et accessoires électriques, connecteurs, relais, bornes, automates, barrières de sécurité et girophares
+  > 来源：https://indexa.fr/entreprise/fget-international/electricite-magasins-bilan.html
+- **【支店谱】**FGET INTERNATIONAL;Z.I. EST 42 RUE LOUIS SAILLANT 69120 VAULX-EN-VELIN;SIRET 32873256500028;établissement secondaire;fermé le 05/08/2002;créé 05/09/1989
+  > FGET INTERNATIONAL;Z.I. EST 42 RUE LOUIS SAILLANT 69120 VAULX-EN-VELIN;SIRET 32873256500028;établissement secondaire;fermé le 05/08/2002;créé 05/09/1989
+  > 来源：https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +152,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=43 年家族老谱+区域电工自动化谱+资本 642k€·W=老司新品接受度距 IT 类跨品注·O=automates/PLC 客户线=PoE 对口·T=大型电工批发(Farel/Rexel)竞争
 
 ## 触达与风险红线
 
@@ -174,8 +180,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位未公开检索到
+  - [ ] Gil/Jefferson 直邮推档(域 fget-international 推)
+  - [ ] Jefferson F.G.E.N. 经营谱分工
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,12 +194,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear FGET International Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Jefferson and Gil,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural extension for your automation, connector and industrial-installation lines in Rhône-Alpes. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
